@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "94e7ffb561ccb1dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ac44e543c1fa13a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba7bd15a74bbf3a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c56fe4b93fd1e00a",
+    "type": "split",
+    "children": [
+      {
+        "id": "df12f1218ce18831",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c87cf7e2b1e27ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9b55cfcd88410fba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9049b730705e2f54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95fedcbc0134f57f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d41200547040c332",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "424dbf5376eb18f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại"
+            }
+          },
+          {
+            "id": "f85ffde0ba75eec5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại"
+            }
+          },
+          {
+            "id": "55a0b9bd46da88e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f06d859d8ec09011",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9846d097806b6b29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ba7bd15a74bbf3a5",
+  "lastOpenFiles": [
+    "esoterica/Vũ Trụ Học Phật Giáo.md",
+    "_inbox/Vô Thức Tập Thể (Akashic Records).md",
+    "CLAUDE.md",
+    "_docs/scripts/fix_all_related.py",
+    "_docs/scripts/double_check_merge.py",
+    "_docs/scripts/fill_gaps.py",
+    "_docs/scripts/cleanup_and_check.py",
+    "_docs/scripts/auto_link.py",
+    "_docs/scripts",
+    "esoterica/Cỗ Máy Antikythera.md",
+    "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+    "esoterica/Long Mạch.md",
+    "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
+    "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+    "esoterica/Chimera.md",
+    "esoterica/DNA.md",
+    "esoterica/Atlantis.md",
+    "crypto-finance/Tính thay thế (Fungible).md",
+    "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+    "politics-conspiracy/Vòng luẩn quẩn.md",
+    "science-tech/Thời Đại Bảo Bình (Age of Aquarius).md",
+    "politics-conspiracy/Tết.md",
+    "politics-conspiracy/Tiết kiệm.md",
+    "politics-conspiracy/thuốc lá.md",
+    "politics-conspiracy/rượu.md",
+    "politics-conspiracy/Rat Park.md",
+    "politics-conspiracy/Nixon.md",
+    "politics-conspiracy/Nixon Shock.md",
+    "politics-conspiracy/nghiện.md",
+    "politics-conspiracy/Newton.md",
+    "politics-conspiracy/ma túy.md",
+    "politics-conspiracy/Hợp pháp hóa ma túy.md",
+    "Untitled.canvas",
+    "_inbox/raw-legacy/notes/raw 0804.txt",
+    "_inbox/raw-legacy/notes/raw 0804 - Copy.txt",
+    "_inbox/raw-legacy/images/science_conspiracy_collage.png",
+    "_inbox/raw-legacy/images/obama_old_photo.png",
+    "_inbox/raw-legacy/images/the_dark_truth_about_porn.jpg",
+    "_inbox/raw-legacy/images/elon_maga_occult.jpg",
+    "_inbox/raw-legacy/pdfs/Tu Duy Luy Thua.pdf",
+    "_inbox/raw-legacy/pdfs/Tien Tien Tien.pdf"
+  ]
+}
