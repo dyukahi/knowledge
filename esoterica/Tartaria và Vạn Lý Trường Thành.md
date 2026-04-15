@@ -10,7 +10,7 @@ status: refined
 Bài viết kết nối các dữ kiện từ Kinh Thế Ký (Phật giáo) với nền văn minh [[Tartaria]] và công trình Vạn Lý Trường Thành, đưa ra một bản đồ vũ trụ học thay thế cho mô hình hiện đại.
 
 ## 1. Cấu Trúc Địa Lý Vũ Trụ (Flat Earth & Terra-Infinita)
-- **Bốn Đại Châu:** Thế giới quanh [[[[Núi Tu Di (Mount Meru)|Núi Tu Di]] (Mount Meru)|[[Núi Tu Di (Mount Meru)|núi Tu Di]] (Mount Meru)]] gồm Nam Thiệm Bộ Châu (nơi ta sống), Đông Thắng Thần Châu, Tây Ngưu Hóa Châu và Bắc Câu Lô Châu.
+- **Bốn Đại Châu:** Thế giới quanh [[Núi Tu Di (Mount Meru)|Núi Tu Di (Mount Meru)|núi Tu Di (Mount Meru)]] gồm Nam Thiệm Bộ Châu (nơi ta sống), Đông Thắng Thần Châu, Tây Ngưu Hóa Châu và Bắc Câu Lô Châu.
 - **Chứng minh Trái Đất đứng yên:** Mặt Trăng và Mặt Trời (kích thước ~500km) quay quanh [[Núi Tu Di (Mount Meru)|núi Tu Di]], khớp với mô hình Flat Earth.
 - **[[Ether]] (Gió):** Nước nương trên gió (gió dày 6.040 do-tuần), đây chính là khái niệm "Gió [[Ether]]" trong khoa học cổ xưa giúp nâng đỡ vạn vật.
 - **Vùng đất vô tận:** Giả thuyết về 1.000 thế giới nối tiếp nhau, tương đồng với bản đồ **Terra-Infinita** (vượt qua ranh giới phía Nam để đến thế giới khác). [[Núi Tu Di (Mount Meru)|Núi Tu Di]] được liên kết với khái niệm "Black Rock" - trung tâm từ trường ở Bắc Cực.

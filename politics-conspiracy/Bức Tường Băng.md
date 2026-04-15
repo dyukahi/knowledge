@@ -6,7 +6,7 @@ status: refined
 ---
 # Bức Tường Băng
 
-Bức Tường Băng (Ice Wall) ở Nam Cực, theo [[Thuyết [[Trái Đất Phẳng]]|thuyết [[Trái Đất Phẳng]]]], là ranh giới bao quanh đại dương, giữ nước không tràn ra ngoài và che giấu những vùng đất chưa được khám phá.
+Bức Tường Băng (Ice Wall) ở Nam Cực, theo [[Thuyết thuyết Trái Đất Phẳng, là ranh giới bao quanh đại dương, giữ nước không tràn ra ngoài và che giấu những vùng đất chưa được khám phá.
 
 ## Liên kết liên quan
 - [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
@@ -14,6 +14,6 @@ Bức Tường Băng (Ice Wall) ở Nam Cực, theo [[Thuyết [[Trái Đất Ph
 
 ## Related
 - [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
-- [[Thuyết [[Trái Đất Phẳng]]
+- [[Thuyết Trái Đất Phẳng
 - [[Trái Đất Phẳng]]
 - [[Tuyên Ngôn Bức Tường Băng]]

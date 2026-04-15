@@ -9,7 +9,7 @@ status: refined
 Aether (hay Ê-te) từng được giới khoa học cổ điển mô tả là một dạng vật chất tinh vi, siêu nhẹ, lấp đầy mọi khoảng không trong vũ trụ. Nó được coi là môi trường truyền dẫn cho [[ánh sáng]] và lực điện từ, tương tự như cách âm thanh cần không khí để truyền đi. Trong các truyền thống huyền bí và Vệ Đà, Aether tương đương với "Akasha" hay "Prana" – năng lượng sống hay năng lượng gốc vô hình nuôi dưỡng mọi tạo vật.
 
 ## Sự Đàn Áp Thuyết Aether và Năng Lượng Tự Do
-Cuối thế kỷ 19 và đầu thế kỷ 20, thí nghiệm Michelson-Morley được cho là đã "chứng minh" Aether không tồn tại, mở đường cho thuyết tương đối của [[Einstein]]. Tuy nhiên, giới [[[[Khoa Học Xét Lại (Revisionist Science)|Khoa Học Xét Lại]] (Revisionist Science)|[[Khoa Học Xét Lại (Revisionist Science)|Khoa học xét lại]] (Revisionist Science)]] cho rằng thuyết Aether đã bị loại bỏ một cách có chủ đích bởi các nhóm quyền lực tài phiệt (như gia tộc Rockefeller, JP Morgan). 
+Cuối thế kỷ 19 và đầu thế kỷ 20, thí nghiệm Michelson-Morley được cho là đã "chứng minh" Aether không tồn tại, mở đường cho thuyết tương đối của [[Einstein]]. Tuy nhiên, giới [[Khoa Học Xét Lại (Revisionist Science)|Khoa Học Xét Lại (Revisionist Science)|Khoa học xét lại (Revisionist Science)]] cho rằng thuyết Aether đã bị loại bỏ một cách có chủ đích bởi các nhóm quyền lực tài phiệt (như gia tộc Rockefeller, JP Morgan). 
 
 Nếu Aether tồn tại và có thể khai thác, nó đồng nghĩa với "Năng lượng tự do" (Free Energy) – một nguồn năng lượng vô tận, có mặt ở khắp mọi nơi và miễn phí. Điều này sẽ trực tiếp đe dọa sự tồn vong của đế chế độc quyền dầu mỏ và năng lượng hóa thạch mà giới tinh hoa ([[Cabal]]/[[Elite]]) đang sử dụng để kiểm soát nền kinh tế thế giới.
 
@@ -33,5 +33,5 @@ Ngày nay, các nhà vật lý lượng tử không còn gọi là "Aether" nữ
 - [[Nikola Tesla (Tần Số và Rung Động)]]
 - [[Tháp Wardenclyffe]]
 - [[Tiền]]
-- [[[[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại (Revisionist Science)
 - [[ánh sáng]]

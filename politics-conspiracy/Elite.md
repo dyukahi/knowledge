@@ -9,7 +9,7 @@ status: refined
 Trong ngữ cảnh của kho tri thức, **Elite** (hay Giới tinh hoa) đại diện cho tầng lớp chóp bu thao túng các hệ thống chính trị, tài chính và truyền thông toàn cầu. Tầng lớp này thường được nhắc đến qua các khái niệm đồng nghĩa như [[Cabal (Thế Lực Ngầm)]].
 
 ## Công cụ kiểm soát
-Họ duy trì quyền lực thông qua "[[Ma Trận]] Kiểm Soát Kép", với công cụ mạnh mẽ nhất là hệ thống [[[[Tiền]] Pháp Định|[[Tiền|tiền]] pháp định]] (Fiat) - tức là [[Tiền Giấy - Tiền Mặt]]. Thông qua việc phát hành nợ và kiểm soát [[Lạm phát|lạm phát]], họ trích xuất năng lượng lao động của nhân loại.
+Họ duy trì quyền lực thông qua "[[Ma Trận]] Kiểm Soát Kép", với công cụ mạnh mẽ nhất là hệ thống [[Tiền|tiền pháp định (Fiat) - tức là [[Tiền Giấy - Tiền Mặt]]. Thông qua việc phát hành nợ và kiểm soát [[Lạm phát|lạm phát]], họ trích xuất năng lượng lao động của nhân loại.
 
 ## Che giấu tri thức
 Elite bị cho là đã che giấu nhiều kiến thức cốt lõi về bản chất thực sự của vũ trụ và lịch sử loài người:

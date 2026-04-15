@@ -6,7 +6,7 @@ status: refined
 ---
 # Bitcoin
 
-Bitcoin là hệ thống [[Tiền|tiền]] tệ phi tập trung, đóng vai trò như một lối thoát (exit) khỏi hệ thống [[[[Tiền]] Pháp Định|[[Tiền|tiền]] pháp định]] và sự kiểm soát tài chính của nhà nước.
+Bitcoin là hệ thống [[Tiền|tiền]] tệ phi tập trung, đóng vai trò như một lối thoát (exit) khỏi hệ thống [[Tiền|tiền pháp định và sự kiểm soát tài chính của nhà nước.
 
 ## Liên kết liên quan
 - [[Bitcoin Sẽ Chết Nếu Không Có Privacy]]

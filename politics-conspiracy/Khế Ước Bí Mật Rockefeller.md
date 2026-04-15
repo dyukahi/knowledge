@@ -31,7 +31,7 @@ Bản dịch của tài liệu "Masonic Creed" được cho là của John D. Ro
 ### 5. Gông Cùm Tài Chính
 - Chiếm đoạt tài nguyên, đất đai và thiết lập hệ thống nợ nần vĩnh viễn (Kết nối: [[Tiền Giấy - Tiền Mặt]], [[Báo Cáo 2030]]).
 
-## Mối Liên Hệ Với [[Tuyên Ngôn [[Bức Tường Băng]]]]
+## Mối Liên Hệ Với [[Tuyên Ngôn Bức Tường Băng]]
 Khế ước này chính là "phần mềm" vận hành cái "khung củi vật lý" được mô tả trong [[Tuyên Ngôn Bức Tường Băng]]. Trong khi [[Bức Tường Băng|Bức tường băng]] giới hạn không gian di chuyển, Khế ước Rockefeller giới hạn nhận thức và khả năng thức tỉnh của con người bên trong cái lồng đó.
 
 ## Related
@@ -44,6 +44,6 @@ Khế ước này chính là "phần mềm" vận hành cái "khung củi vật 
 - [[Tiền]]
 - [[Tiền Giấy - Tiền Mặt]]
 - [[Tuyên Ngôn Bức Tường Băng]]
-- [[Tuyên Ngôn [[Bức Tường Băng]]
+- [[Tuyên Ngôn Bức Tường Băng
 - [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
 - [[Điều mà nền giáo dục và chính phủ không dạy bạn]]

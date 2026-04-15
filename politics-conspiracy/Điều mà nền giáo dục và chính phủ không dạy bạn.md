@@ -34,10 +34,10 @@ Trong đó:
 *   **x**: là **tổng `[[Cung tiền]]` trong nền kinh tế**. Con số này là vô hạn vì chính phủ và ngân hàng trung ương có thể in [[Tiền|tiền]] không giới hạn.
 
 **Lý do `x` tiến đến vô cùng:**
-Kể từ năm 1971, khi Mỹ bãi bỏ `[[Bản vị vàng]]` ([[Nixon Shock]]), các chính phủ trên thế giới có thể in `[[Tiền Pháp Định]]` ([[Tiền Pháp Định|Fiat]] Money) một cách tùy ý. Tốc độ in [[Tiền|tiền]] ngày càng nhanh, đặc biệt trong các cuộc khủng hoảng, khiến tổng [[Cung [[Tiền|tiền]]|cung [[Tiền|tiền]]]] (`x`) tăng lên một cách chóng mặt, tiến đến vô cực.
+Kể từ năm 1971, khi Mỹ bãi bỏ `[[Bản vị vàng]]` ([[Nixon Shock]]), các chính phủ trên thế giới có thể in `[[Tiền Pháp Định]]` ([[Tiền Pháp Định|Fiat]] Money) một cách tùy ý. Tốc độ in [[Tiền|tiền]] ngày càng nhanh, đặc biệt trong các cuộc khủng hoảng, khiến tổng [[Cung tiền|cung Tiền|tiền]] (`x`) tăng lên một cách chóng mặt, tiến đến vô cực.
 
 **Hậu quả:**
-Khi [[Cung [[Tiền|tiền]]|cung [[Tiền|tiền]]]] tăng lên, sức mua của mỗi đồng [[Tiền|tiền]] giảm xuống. Hiện tượng này được gọi là `[[Lạm phát]]`. Giá cả hàng hóa tăng cao, buộc bạn phải chi tiêu nhiều hơn. Về lâu dài, toàn bộ số [[Tiền|tiền]] [[Tiết kiệm|tiết kiệm]] (`a`) của bạn sẽ mất dần giá trị và tiến về 0 so với tổng lượng [[Tiền|tiền]] trong xã hội.
+Khi [[Cung tiền|cung Tiền|tiền]] tăng lên, sức mua của mỗi đồng [[Tiền|tiền]] giảm xuống. Hiện tượng này được gọi là `[[Lạm phát]]`. Giá cả hàng hóa tăng cao, buộc bạn phải chi tiêu nhiều hơn. Về lâu dài, toàn bộ số [[Tiền|tiền]] [[Tiết kiệm|tiết kiệm]] (`a`) của bạn sẽ mất dần giá trị và tiến về 0 so với tổng lượng [[Tiền|tiền]] trong xã hội.
 
 ## "The Game": Một cuộc chơi không công bằng
 
@@ -67,7 +67,7 @@ Tác giả đề xuất một chiến lược hai đầu:
 ## Related
 - [[Bitcoin]]
 - [[Bản vị vàng]]
-- [[Cung [[Tiền]]
+- [[Cung Tiền
 - [[Cung tiền]]
 - [[Khoảng cách giàu nghèo]]
 - [[Lạm phát]]

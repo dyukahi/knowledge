@@ -21,7 +21,7 @@ Theo quan niệm phương Đông (Đạo giáo/[[Huyền Học|Huyền học]]),
 
 ## Ứng Dụng & Cảm Nhận:
 - **Cảm nhận năng lượng:** Sự yên bình của một vị thầy tu hay sự bất an trước một kẻ lưu manh dù chưa ai nói gì.
-- **[[[[S.E.X]]|[[S.E.X]] ([[Sacred Energy eXchange]])]]:** Trao đổi năng lượng ở cấp độ Tinh Khí Thần. "Tam tinh thành nhất độc" - Cảnh báo về sự hỗn tạp năng lượng làm suy yếu Tinh Khí Thần.
+- **[[S.E.X ([[Sacred Energy eXchange)]]:** Trao đổi năng lượng ở cấp độ Tinh Khí Thần. "Tam tinh thành nhất độc" - Cảnh báo về sự hỗn tạp năng lượng làm suy yếu Tinh Khí Thần.
 - **Tu dưỡng:** Việc rèn luyện cơ thể (Chiến binh) và [[Trí Tuệ|trí tuệ]] giúp nâng cao phẩm chất của Tinh Khí Thần.
 
 ## Liên Kết Nguồn:
@@ -45,5 +45,5 @@ Theo quan niệm phương Đông (Đạo giáo/[[Huyền Học|Huyền học]]),
 - [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
 - [[Tam Bảo]]
 - [[Trí Tuệ]]
-- [[[[S.E.X]]
+- [[S.E.X
 - [[Định Lực]]

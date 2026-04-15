@@ -20,7 +20,7 @@ Vô Thức Tập Thể là tầng sâu nhất của tâm trí con người, khô
 2. **Thư Viện Vũ Trụ:** Liên kết trực tiếp với khái niệm [[Năng Lượng Aether|Akarshic Record (Ether/Dĩ Thái)]]. [[Nikola Tesla (Tần Số và Rung Động)|Nikola Tesla]] và Ramanujan được cho là đã truy cập vào nguồn dữ liệu này để lấy tri thức.
 3. **Mở khóa (Unlock):** Tri thức này đã có sẵn trong [[DNA]] từ khi hình thành, chỉ chờ môi trường và kỹ năng (tools) thích hợp để "giải nén".
 
-## [[[[Nguyên Mẫu (Archetypes)|Nguyên Mẫu]] (Archetypes)]]:
+## [[Nguyên Mẫu (Archetypes)]]:
 Những hình ảnh và suy nghĩ mang ý nghĩa phổ quát trong vô thức tập thể, xuất hiện trong giấc mơ, văn học và tôn giáo (Vua, Pháp sư, Chiến binh, Người tình).
 
 ## Liên Kết Nguồn:

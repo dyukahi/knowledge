@@ -36,7 +36,7 @@ Titanic không chỉ là một con tàu hay một bộ phim tình cảm hư cấ
 *   **Đánh cắp di sản:** Người phương Tây (Tây trắng) đi xâm chiếm, đốt phá, và sau đó "nhận vơ" các công trình kỳ vĩ này làm của mình (như Khải Hoàn Môn Paris, các công trình ở Châu Sơn - Nho Quan Việt Nam, hay các lâu đài, pháo đài ngôi sao - Star Forts trên toàn cầu).
 
 ## 5. Tổng Kết Giá Trị Từ "Tracking [[Tartaria|Tartaria]]"
-*   **Xóa bỏ [[Tiền|tiền]] mặt:** Nhắc tới sự hình thành của [[Xã hội không [[Tiền|tiền]] mặt|xã hội không [[Tiền|tiền]] mặt]] (cashless society) và sự phụ thuộc vào hệ thống tài chính ảo (liên quan đến [[Tiền Giấy - Tiền Mặt]]).
+*   **Xóa bỏ [[Tiền|tiền]] mặt:** Nhắc tới sự hình thành của [[Xã hội không tiền mặt|xã hội không Tiền|tiền mặt]] (cashless society) và sự phụ thuộc vào hệ thống tài chính ảo (liên quan đến [[Tiền Giấy - Tiền Mặt]]).
 *   **Xói mòn gốc rễ:** Lịch sử được viết bởi kẻ thắng. Khái niệm [[Tartaria|Tartaria]] đại diện cho một nền văn minh đã bị "reset" (đại tái tạo) bằng chiến tranh, lũ lụt bùn (Mud Flood), và sự kiểm duyệt thông tin gắt gao.
 *   **Thông điệp của tác giả:** Kan viết loạt bài này để những [[Trí Tuệ|trí tuệ]] sắc bén tự giải phóng bản thân, đập bỏ những kiến thức giáo điều (như trường hợp Ngô Bảo Châu hay sự nhồi sọ y tế như "vịt 19" hay PCR của Kary Mullis). "Hãy để anh em Tây trắng tự thổi kèn cho nhau", người Việt cần tự tin đi tìm cội nguồn và sự vĩ đại thực sự của mình.
 
@@ -48,4 +48,3 @@ Titanic không chỉ là một con tàu hay một bộ phim tình cảm hư cấ
 - [[Tiền]]
 - [[Tiền Giấy - Tiền Mặt]]
 - [[Trí Tuệ]]
-- [[Xã hội không [[Tiền]]
