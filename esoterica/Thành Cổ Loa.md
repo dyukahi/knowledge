@@ -1,5 +1,5 @@
 ---
-title: "# Thành Cổ Loa"
+title: Thành Cổ Loa
 date: 2026-04-08
 tags: []
 status: refined
