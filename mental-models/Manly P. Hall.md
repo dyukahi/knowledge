@@ -8,4 +8,3 @@ status: stub
 (Đây là một ghi chú chờ - Stub Note. Khái niệm này được phát hiện trong quá trình quét hệ thống và đang chờ được tổng hợp, phát triển chi tiết).
 
 ## Related
-- [[Khái Niệm Lõi (Atomic Notes)]]

@@ -6,7 +6,7 @@ status: refined
 ---
 # Tinh Khí Thần
 
-**Phân loại:** [[Khái Niệm Lõi (Atomic Notes)]]
+**Phân loại:** 
 **Từ khóa:** [[Tam Bảo]], [[Năng Lượng Natri]], [[Định Lực]]
 
 ---
@@ -37,7 +37,6 @@ Theo quan niệm phương Đông (Đạo giáo/[[Huyền Học|Huyền học]]),
 - [[DNA]]
 - [[Huyền Học]]
 - [[Khoa Học Xét Lại]]
-- [[Khái Niệm Lõi (Atomic Notes)]]
 - [[Năng Lượng Natri]]
 - [[Năng Lượng Tình Dục]]
 - [[S.E.X]]

@@ -7,7 +7,7 @@ status: refined
 ---
 # Nguyên Mẫu (Archetypes)
 
-**Phân loại:** [[Khái Niệm Lõi (Atomic Notes)]]
+**Phân loại:** 
 **Từ khóa:** [[Archetype]], [[Tâm Lý Học Jung]], [[Nguyên Mẫu]]
 
 ---
@@ -42,7 +42,6 @@ Theo tâm lý học phân tích, đàn ông trưởng thành được chia thàn
 - [[Archetype]]
 - [[Chiến Binh (Warrior)]]
 - [[Individuation (Thành Toàn Bản Ngã)]]
-- [[Khái Niệm Lõi (Atomic Notes)]]
 - [[Manly P. Hall]]
 - [[Nguyên Mẫu]]
 - [[Nhị Nguyên]]

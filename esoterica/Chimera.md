@@ -7,7 +7,7 @@ status: refined
 ---
 # Chimera (Thể Trộn Lẫn)
 
-**Phân loại:** [[Khái Niệm Lõi (Atomic Notes)]]
+**Phân loại:** 
 **Từ khóa:** [[Microchimerism]], [[Di Truyền Học]], [[Năng Lượng Natri]], [[Chimera]]
 
 ---
@@ -41,7 +41,6 @@ Chimera là một cá thể sinh học chứa nhiều hơn một hệ gene ([[DN
 - [[Elite]]
 - [[Huyền Học]]
 - [[Khoa Học Xét Lại]]
-- [[Khái Niệm Lõi (Atomic Notes)]]
 - [[Microchimerism]]
 - [[Năng Lượng Natri]]
 - [[S.E.X (Sacred Energy eXchange)]]

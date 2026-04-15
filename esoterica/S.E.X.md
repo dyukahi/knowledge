@@ -7,7 +7,7 @@ status: refined
 ---
 # S.E.X ([[Sacred Energy eXchange]])
 
-**Phân loại:** [[Khái Niệm Lõi (Atomic Notes)]]
+**Phân loại:** 
 **Từ khóa:** [[Sacred Energy eXchange]], [[Năng Lượng Tình Dục]], [[Trao Đổi Năng Lượng Thiêng Liêng]]
 
 ---
@@ -34,7 +34,6 @@ Theo quan điểm [[Huyền Học|huyền học]] và phân tâm học Jung, S.E
 - [[Chimera (Thể Trộn Lẫn)]]
 - [[DNA]]
 - [[Huyền Học]]
-- [[Khái Niệm Lõi (Atomic Notes)]]
 - [[Microchimerism]]
 - [[Năng Lượng Tình Dục]]
 - [[Quy Luật Trao Đổi Tâm Linh]]
@@ -51,4 +50,4 @@ Theo quan điểm [[Huyền Học|huyền học]] và phân tâm học Jung, S.E
 (Đây là một ghi chú chờ - Stub Note. Khái niệm này được phát hiện trong quá trình quét hệ thống và đang chờ được tổng hợp, phát triển chi tiết).
 
 ## Related
-- [[Khái Niệm Lõi (Atomic Notes)]]
+-
