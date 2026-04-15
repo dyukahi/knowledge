@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Năng Lượng Natri (Sodium Energy)
-*Tags: #atomic-note #energy #natri #free-energy*
+*Tags: #energy #natri #free-energy*
 
 **Năng Lượng Natri** là khái niệm chỉ việc khai thác điện năng từ quá trình điện phân nước biển hoặc sử dụng Natri lỏng làm nhiên liệu đốt mạnh mẽ hơn dầu mỏ.
 

@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # The China Study
-*Tags: #atomic-note #health #nutrition #vegan #science*
+*Tags: #health #nutrition #vegan #science*
 
 **The China Study** là công trình nghiên cứu dịch tễ học quy mô lớn của T. Colin Campbell và Thomas M. Campbell II.
 

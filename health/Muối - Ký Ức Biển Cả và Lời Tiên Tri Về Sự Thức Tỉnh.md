@@ -19,8 +19,8 @@ Bài viết chiêm nghiệm về vai trò tâm linh và sinh học tối thượ
 
 ## 3. Ma Trận Giả Dối và Thuốc Hóa Dầu
 - **Âm mưu kiểm soát:** Thế lực ngầm phát hiện muối giúp con người tự chữa lành và tự do, nên đã bẻ gãy kết nối này bằng cách:
-    - Kiểm soát muối để cai trị (thời phong kiến).
-    - Tung tin đồn muối có hại để gieo rắc nỗi sợ (thời hiện đại).
+ - Kiểm soát muối để cai trị (thời phong kiến).
+ - Tung tin đồn muối có hại để gieo rắc nỗi sợ (thời hiện đại).
 - **Sự thay thế độc hại:** Thay vì dùng muối biển, họ dùng hóa chất chiết xuất từ **dầu mỏ** để tạo ra thuốc Tây, khiến con người phụ thuộc vào hệ thống y tế "nuôi bệnh".
 
 ## 4. Lời Tiên Tri Về Ngày Trở Về

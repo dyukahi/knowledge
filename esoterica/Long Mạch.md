@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Long Mạch (Dragon Veins)
-*Tags: #atomic-note #earth-energy #spirituality #fengshui*
+*Tags: #earth-energy #spirituality #fengshui*
 
 **Long Mạch** là hệ thống các dòng chảy năng lượng sống (sinh khí) bên trong lòng Trái Đất, tương tự như các kinh mạch trong cơ thể con người.
 

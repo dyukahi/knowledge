@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Kiểm Soát Tâm Trí
-*Tags: #atomic-note #mind-control #matrix #programming*
+*Tags: #mind-control #matrix #programming*
 
 **Kiểm Soát Tâm Trí** (Mind Control) là chiến lược của nhóm Elite nhằm lập trình nhận thức cộng đồng, biến con người thành những cỗ máy sinh học (NPCs) ngoan ngoãn phục vụ hệ thống.
 

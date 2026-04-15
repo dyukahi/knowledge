@@ -21,7 +21,7 @@ Lý do nó "MIỄN PHÍ" là vì **bạn chính là sản phẩm**. Nó thao tú
 
 ### 2. Sự Rút Kiệt Năng Lượng & Ký Sinh Trùng Cõi Âm
 - **Ách Tắc Năng Lượng:** Đồ họa chỉ ra cách năng lượng bị kẹt lại ở các Luân Xa dưới cùng do các cảm xúc tiêu cực: Tội lỗi (Guilt), Xấu hổ (Shame), Đau đớn (Pain), Nghiện ngập tình dục, và Sự đồi bại.
-- **Thực Thể Cõi Trung Giới  (Astral Entities):** Hình ảnh miêu tả một thực thể cõi âm (astral plane entity) đang bám vào và "ăn" năng lượng của một người đang thủ dâm xem phim khiêu dâm. Mỗi khi thỏa mãn dục vọng qua màn hình, con người đang hiến tế năng lượng sống của mình cho các thực thể ký sinh này. (Liên kết với Quy Luật Trao Đổi Tâm Linh).
+- **Thực Thể Cõi Trung Giới (Astral Entities):** Hình ảnh miêu tả một thực thể cõi âm (astral plane entity) đang bám vào và "ăn" năng lượng của một người đang thủ dâm xem phim khiêu dâm. Mỗi khi thỏa mãn dục vọng qua màn hình, con người đang hiến tế năng lượng sống của mình cho các thực thể ký sinh này. (Liên kết với Quy Luật Trao Đổi Tâm Linh).
 
 ### 3. Vòng Lặp Dopamine & Sự Suy Tàn Nhận Thức
 - Phim khiêu dâm tiêm nhiễm vào tiềm thức rằng con người chỉ là "công cụ tình dục" (Sex Object).
@@ -41,6 +41,6 @@ Lý do nó "MIỄN PHÍ" là vì **bạn chính là sản phẩm**. Nó thao tú
 - [[Năng Lượng Tình Dục]]
 - [[Quy Luật Trao Đổi Tâm Linh]]
 - [[Sự Thật Về Ma Túy]]
-- [[Thực Thể Cõi Trung Giới  (Astral Entities)]]
+- [[Thực Thể Cõi Trung Giới (Astral Entities)]]
 - [[Tuyến Tùng]]
 - [[Điều mà nền giáo dục và chính phủ không dạy bạn]]

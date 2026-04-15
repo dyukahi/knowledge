@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Plasma Quinton (Huyết Tương Biển)
-*Tags: #atomic-note #health #minerals #ocean*
+*Tags: #health #minerals #ocean*
 
 **Plasma Quinton** là nước biển được lấy từ các xoáy nước đại dương giàu sinh vật phù du, được xử lý vô trùng ở nhiệt độ thấp để giữ nguyên các đặc tính sinh học.
 

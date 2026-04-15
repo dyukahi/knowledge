@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Thuốc Hóa Dầu (Petrochemical Medicine)
-*Tags: #atomic-note #health #pharmaceuticals #rockefeller #matrix*
+*Tags: #health #pharmaceuticals #rockefeller #matrix*
 
 **Thuốc Hóa Dầu** là thuật ngữ chỉ các loại dược phẩm hiện đại có nguồn gốc từ hóa chất chưng cất dầu mỏ, được giới tinh hoa thiết lập để thay thế tri thức y học tự nhiên.
 

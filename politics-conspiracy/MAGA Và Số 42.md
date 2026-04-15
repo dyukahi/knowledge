@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # MAGA Và Số 42
-*Tags: #atomic-note #politics #gematria #elite #occult*
+*Tags: #politics #gematria #elite #occult*
 
 **MAGA** (Make America Great Again) là một khẩu hiệu chính trị nổi tiếng, nhưng dưới góc nhìn của Gematria và thuyết âm mưu, nó mang những lớp ý nghĩa mã hóa sâu hơn.
 - MAGA = Make Argentina Great Again (cho thấy sự lặp lại của kịch bản chính trị ở các quốc gia khác nhau bởi cùng một nhóm kiểm soát).

@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng
-*Tags: #atomic-note #salt #pineal-gland #resonance #awakening*
+*Tags: #salt #pineal-gland #resonance #awakening*
 
 **Sự cộng hưởng giữa Muối và Tuyến Tùng** là chìa khóa để nâng cấp tần số rung động của não bộ và kích hoạt trạng thái thức tỉnh tâm linh.
 

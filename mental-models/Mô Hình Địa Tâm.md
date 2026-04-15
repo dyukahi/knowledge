@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Mô Hình Địa Tâm (Geocentrism)
-*Tags: #atomic-note #cosmology #geocentrism #flat-earth*
+*Tags: #cosmology #geocentrism #flat-earth*
 
 Mô hình khẳng định Trái Đất đứng yên tại trung tâm, Mặt Trời, Mặt Trăng và các vì sao quay quanh nó.
 

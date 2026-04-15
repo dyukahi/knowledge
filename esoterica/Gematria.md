@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Gematria
-*Tags: #atomic-note #gematria #numerology #simulation*
+*Tags: #gematria #numerology #simulation*
 
 **Gematria** là một hệ thống mã hóa/số học cổ đại, gán các giá trị bằng số cho các chữ cái, từ vựng hoặc cụm từ. 
 

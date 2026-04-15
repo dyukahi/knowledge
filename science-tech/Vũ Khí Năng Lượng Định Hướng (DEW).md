@@ -6,7 +6,7 @@ status: refined
 ---
 # Vũ Khí Năng Lượng Định Hướng (DEW)
 
-**Tags:** #dew #vu-khi #khoa-hoc-xet-lai
+** #dew #vu-khi #khoa-hoc-xet-lai
 
 Vũ khí Năng lượng Định hướng (Directed Energy Weapon - DEW) là hệ thống vũ khí sử dụng năng lượng tập trung cao độ (như laser, vi sóng, hoặc chùm hạt điện từ) để tấn công mục tiêu thay vì dùng động năng vật lý từ đạn đạo hoặc chất nổ thông thường.
 

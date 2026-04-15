@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Lemuria (Mu)
-*Tags: #atomic-note #ancient-civilization #spirituality #history*
+*Tags: #ancient-civilization #spirituality #history*
 
 **Lemuria** (hay Mu) là một nền văn minh cổ xưa huyền thoại khác, song hành hoặc tồn tại trước Atlantis, nằm tại khu vực Thái Bình Dương.
 

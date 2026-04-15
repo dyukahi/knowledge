@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Dark MAGA
-*Tags: #atomic-note #politics #occult #psyop*
+*Tags: #politics #occult #psyop*
 
 **Dark MAGA** ban đầu xuất hiện như một meme chính trị trực tuyến, thể hiện một phiên bản cực đoan, báo thù, không nhân nhượng của phong trào MAGA (ủng hộ Donald Trump). Tuy nhiên, dưới góc độ biểu tượng học và tín hiệu của giới tinh hoa, Dark MAGA mang những hàm ý đen tối hơn:
 

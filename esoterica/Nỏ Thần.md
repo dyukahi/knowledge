@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Nỏ Thần
-*Tags: #atomic-note #ancient-tech #mythology #history*
+*Tags: #ancient-tech #mythology #history*
 
 **Nỏ Thần** là loại vũ khí huyền thoại của An Dương Vương, tương truyền có khả năng bắn hàng ngàn mũi tên một lần.
 

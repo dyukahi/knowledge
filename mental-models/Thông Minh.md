@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Thông Minh (Intelligence)
-*Tags: #atomic-note #mindset #intelligence*
+*Tags: #mindset #intelligence*
 
 **Thông minh** là khả năng thu thập thông tin, tính toán nhanh nhạy và phân tích sắc bén để giải quyết vấn đề trước mắt.
 

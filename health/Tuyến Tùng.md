@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Tuyến Tùng (Pineal Gland)
-*Tags: #atomic-note #spirituality #biology #matrix #awakening*
+*Tags: #spirituality #biology #matrix #awakening*
 
 **Tuyến Tùng** là một cơ quan nhỏ hình quả thông nằm ở trung tâm bộ não, được các nền văn minh cổ đại coi là "Con mắt thứ ba" hay nơi ngự trị của linh hồn.
 

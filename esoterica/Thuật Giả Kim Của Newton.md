@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Thuật Giả Kim Của Newton
-*Tags: #atomic-note #history #alchemy #science*
+*Tags: #history #alchemy #science*
 
 **Thuật Giả Kim Của Newton** chỉ ra một sự thật lịch sử bị che giấu: Sir Isaac Newton - người được nền giáo dục hiện đại tôn vinh là tượng đài của vật lý và toán học (với định luật vạn vật hấp dẫn) - thực chất dành phần lớn cuộc đời và tâm huyết của mình cho Huyền học (Occult) và Thuật Giả Kim (Alchemy).
 

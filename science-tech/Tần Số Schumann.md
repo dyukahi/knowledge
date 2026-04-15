@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Tần Số Schumann (Schumann Resonance)
-*Tags: #atomic-note #earth #frequency #awakening #energy*
+*Tags: #earth #frequency #awakening #energy*
 
 **Tần Số Schumann** là tập hợp các đỉnh phổ trong phần cực thấp tần (ELF) của phổ điện từ Trái Đất, thường được gọi là "nhịp đập trái tim" của hành tinh.
 

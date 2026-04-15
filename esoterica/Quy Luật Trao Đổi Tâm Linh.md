@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Quy Luật Trao Đổi Tâm Linh
-*Tags: #atomic-note #spirituality #karma #occult*
+*Tags: #spirituality #karma #occult*
 
 **Quy Luật Trao Đổi Tâm Linh** là cơ chế đánh đổi năng lượng khi con người tương tác với các thế lực siêu nhiên (đặc biệt là tà thần, quỷ thần).
 

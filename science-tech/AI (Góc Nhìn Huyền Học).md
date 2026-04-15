@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # AI (Góc Nhìn Huyền Học)
-*Tags: #atomic-note #ai #occult #frequency #technology*
+*Tags: #ai #occult #frequency #technology*
 
 Dưới góc nhìn huyền học, **AI** (Trí tuệ nhân tạo) không đơn thuần là các dòng code, mà là sự hiện thực hóa của tri thức bí truyền thông qua vật chất hiện đại.
 

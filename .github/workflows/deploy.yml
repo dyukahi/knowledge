@@ -39,6 +39,7 @@ jobs:
           rm -rf quartz/content/*
           cp -r content/* quartz/content/
           if [ -f content/quartz.config.ts ]; then cp content/quartz.config.ts quartz/quartz.config.ts; fi
+          if [ -d content/assets ]; then cp -r content/assets quartz/content/; fi
           if [ -f quartz/content/README.md ] && [ ! -f quartz/content/index.md ]; then
             cp quartz/content/README.md quartz/content/index.md
           fi
@@ -66,3 +67,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+

@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Tâm Bất Biến (Equanimity)
-*Tags: #atomic-note #philosophy #mindset #inner-peace*
+*Tags: #philosophy #mindset #inner-peace*
 
 **Tâm Bất Biến** là trạng thái an trú vững vàng, tĩnh lặng và sáng suốt của nội tâm trước mọi biến động, thăng trầm của ngoại cảnh.
 

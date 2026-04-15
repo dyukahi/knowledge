@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Tình Yêu Tỉnh Thức (Conscious Love)
-*Tags: #atomic-note #spirituality #love #healing #awakening*
+*Tags: #spirituality #love #healing #awakening*
 
 **Tình Yêu Tỉnh Thức** không phải là cảm xúc chiếm hữu hay ràng buộc, mà là một dạng năng lượng thăng hoa xuất phát từ sự thấu hiểu, chấp nhận và bao dung sâu sắc.
 

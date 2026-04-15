@@ -10,19 +10,19 @@ Tổng hợp các bài viết về việc xây dựng hệ thống tư duy, nguy
 
 ## Ý Chính (Main Ideas)
 
-1.  **Phân biệt Giàu có, Tiền bạc và Địa vị:** 
-    *   Giàu có là sở hữu tài sản sinh lời mang lại tự do.
-    *   Địa vị là trò chơi có tổng bằng không (Zero-sum).
-    *   Tạo ra sự giàu có là trò chơi tổng dương (Positive-sum).
-2.  **Đòn bẩy (Leverage):** 
-    *   Cũ: Lao động, Vốn. 
-    *   Mới: Sản phẩm không chi phí cận biên (Code, Media) không cần sự cho phép (Permissionless).
-3.  **Kiến thức đặc biệt (Specific Knowledge):** 
-    *   Không thể dạy chính quy, đến từ sự tò mò cá nhân.
-4.  **Trách nhiệm (Accountability) và Phán đoán (Judgment):** 
-    *   "Skin in the game" và khả năng đưa ra quyết định dài hạn tối ưu.
-5.  **Chơi các trò chơi dài hạn:** 
-    *   Mọi lợi ích lớn đến từ lãi kép (compound interest).
+1. **Phân biệt Giàu có, Tiền bạc và Địa vị:** 
+ * Giàu có là sở hữu tài sản sinh lời mang lại tự do.
+ * Địa vị là trò chơi có tổng bằng không (Zero-sum).
+ * Tạo ra sự giàu có là trò chơi tổng dương (Positive-sum).
+2. **Đòn bẩy (Leverage):** 
+ * Cũ: Lao động, Vốn. 
+ * Mới: Sản phẩm không chi phí cận biên (Code, Media) không cần sự cho phép (Permissionless).
+3. **Kiến thức đặc biệt (Specific Knowledge):** 
+ * Không thể dạy chính quy, đến từ sự tò mò cá nhân.
+4. **Trách nhiệm (Accountability) và Phán đoán (Judgment):** 
+ * "Skin in the game" và khả năng đưa ra quyết định dài hạn tối ưu.
+5. **Chơi các trò chơi dài hạn:** 
+ * Mọi lợi ích lớn đến từ lãi kép (compound interest).
 
 ## Liên kết Khái Niệm
 - Hiểu rõ bản chất của Tiền Giấy - Tiền Mặt và sự khác biệt giữa Tiền tệ vs Sự Giàu có.

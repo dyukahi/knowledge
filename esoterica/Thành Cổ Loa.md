@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Thành Cổ Loa
-*Tags: #atomic-note #vietnam-history #ancient-tech #cổ-loa*
+*Tags: #vietnam-history #ancient-tech #cổ-loa*
 
 **Thành Cổ Loa** là kinh đô của nước Âu Lạc thời An Dương Vương, nổi tiếng với cấu trúc xoắn ốc tinh vi.
 

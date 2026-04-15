@@ -18,8 +18,8 @@ Bài viết chiêm nghiệm về hành trình tiến hóa của linh hồn thôn
 - Nhân loại đang đối mặt với sự nhiễu loạn thông tin và dối trá về giá trị sống.
 - Các hệ thống niềm tin, tôn giáo, chính trị được thiết lập sau sự sụp đổ của Atlantis và Lemuria thường bị chi phối bởi quyền lực, gieo rắc nỗi sợ và chia rẽ.
 - **Sự thao túng tinh vi:** Con người bị lệ thuộc vào các giải pháp bên ngoài thay vì lắng nghe trí tuệ nội tâm.
-  - **Giáo dục & Y tế:** Hệ thống lệch lạc, vắc-xin và thuốc kê đơn làm suy giảm khả năng tỉnh thức.
-  - **Độc tố sinh học:** Thức ăn nhanh, hóa chất, Fluoride (gây vôi hóa Tuyến Tùng) giam giữ tư duy trong khuôn khổ lập trình sẵn.
+ - **Giáo dục & Y tế:** Hệ thống lệch lạc, vắc-xin và thuốc kê đơn làm suy giảm khả năng tỉnh thức.
+ - **Độc tố sinh học:** Thức ăn nhanh, hóa chất, Fluoride (gây vôi hóa Tuyến Tùng) giam giữ tư duy trong khuôn khổ lập trình sẵn.
 
 ## 3. Tình Yêu Tỉnh Thức: Chìa Khóa Chuyển Hóa
 - Tình yêu thường bị lãng quên nhưng lại là yếu tố cốt lõi nhất. Không phải sự chiếm hữu, mà là sự thấu hiểu và chấp nhận sâu sắc không phán xét.

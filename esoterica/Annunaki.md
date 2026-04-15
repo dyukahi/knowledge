@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Annunaki
-*Tags: #atomic-note #annunaki #ancient-aliens #genetics*
+*Tags: #annunaki #ancient-aliens #genetics*
 
 **Annunaki** là giống loài được cho là những "Kỹ sư vũ trụ", những người đã gieo hạt sự sống trên Trái Đất thông qua việc chỉnh sửa gen và nhân bản.
 

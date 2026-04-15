@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Pin Natri-ion (Sodium-ion Battery)
-*Tags: #atomic-note #energy #battery #natri #technology*
+*Tags: #energy #battery #natri #technology*
 
 **Pin Natri-ion** là công nghệ lưu trữ năng lượng sử dụng ion Natri (Na+) làm vật mang điện, thay thế cho Lithium trong pin Lithium-ion truyền thống.
 

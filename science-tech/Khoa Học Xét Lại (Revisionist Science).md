@@ -12,15 +12,15 @@ status: refined
 Phong trào này hoài nghi và phản bác các lý thuyết nền tảng của vật lý hiện đại:
 
 1. **Isaac Newton:** 
-   - Lực hấp dẫn bị coi là giả lý thuyết để hợp thức hóa mô hình Trái Đất hình cầu.
-   - Thí nghiệm Cavendish về lực hút khối lượng bị nghi ngờ tính xác thực. Thay vào đó, đề xuất sử dụng Lực tĩnh điện (Coulomb).
+ - Lực hấp dẫn bị coi là giả lý thuyết để hợp thức hóa mô hình Trái Đất hình cầu.
+ - Thí nghiệm Cavendish về lực hút khối lượng bị nghi ngờ tính xác thực. Thay vào đó, đề xuất sử dụng Lực tĩnh điện (Coulomb).
 
 2. **Albert Einstein:**
-   - Thuyết tương đối bị coi là một lý thuyết khiên cưỡng được tạo ra để cứu vãn sự bế tắc của vật lý sau **Thí nghiệm Michelson – Morley (1887)**. Thí nghiệm này không tìm thấy sự chuyển động của Trái Đất qua "gió Ether". Einstein bị cáo buộc đã loại bỏ khái niệm Ether để bảo vệ mô hình Trái Đất di chuyển.
-   - Công thức $E=mc^2$ bị cho là phái sinh đơn giản của Động năng ($1/2mv^2$) và không áp dụng đúng cho sóng điện từ (phải dùng $E=hf$ của Max Planck).
+ - Thuyết tương đối bị coi là một lý thuyết khiên cưỡng được tạo ra để cứu vãn sự bế tắc của vật lý sau **Thí nghiệm Michelson – Morley (1887)**. Thí nghiệm này không tìm thấy sự chuyển động của Trái Đất qua "gió Ether". Einstein bị cáo buộc đã loại bỏ khái niệm Ether để bảo vệ mô hình Trái Đất di chuyển.
+ - Công thức $E=mc^2$ bị cho là phái sinh đơn giản của Động năng ($1/2mv^2$) và không áp dụng đúng cho sóng điện từ (phải dùng $E=hf$ của Max Planck).
 
 3. **Stephen Hawking:**
-   - Bị góc nhìn thuyết âm mưu coi là một "biểu tượng" được dàn dựng để công chúng không dám đặt câu hỏi phản biện về vũ trụ học và lỗ đen.
+ - Bị góc nhìn thuyết âm mưu coi là một "biểu tượng" được dàn dựng để công chúng không dám đặt câu hỏi phản biện về vũ trụ học và lỗ đen.
 
 ## Tư duy phản biện
 Cốt lõi của xu hướng này là khuyến khích việc tự quan sát, tự kiểm chứng và dám đặt câu hỏi thoát khỏi "sự thật mặc định" đã được hệ thống hóa qua nhiều thế hệ. Nó chia sẻ chung góc nhìn với việc khôi phục các trí tuệ cổ xưa (như Vũ Trụ Học Phật Giáo, Chiêm tinh, Huyền học).

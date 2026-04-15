@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Gnosis (Ngộ Đạo)
-*Tags: #atomic-note #spirituality #gnosticism #jesus*
+*Tags: #spirituality #gnosticism #jesus*
 
 **Gnosis** là sự nhận biết trực tiếp về Thần Tính bên trong mỗi cá nhân, không thông qua các hệ thống tôn giáo hay tổ chức quyền lực.
 

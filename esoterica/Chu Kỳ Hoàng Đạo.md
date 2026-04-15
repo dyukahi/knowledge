@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Chu Kỳ Hoàng Đạo (Zodiac Cycle)
-*Tags: #atomic-note #astrology #frequency #age-of-aquarius*
+*Tags: #astrology #frequency #age-of-aquarius*
 
 **Chu Kỳ Hoàng Đạo** là các giai đoạn thời gian vĩ mô (khoảng 2160 năm cho mỗi cung hoàng đạo) quy định "tần số" và nhận thức chủ đạo của nhân loại trong giai đoạn đó.
 

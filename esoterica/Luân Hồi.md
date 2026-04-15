@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Luân Hồi (Samsara)
-*Tags: #atomic-note #spirituality #samsara #reincarnation*
+*Tags: #spirituality #samsara #reincarnation*
 
 **Luân Hồi** là chu trình tái sinh của dòng tâm thức qua các thân xác vật chất khác nhau trong 6 cõi giới.
 

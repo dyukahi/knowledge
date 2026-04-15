@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Atula (Asura)
-*Tags: #atomic-note #spirituality #buddhism #energy-realms*
+*Tags: #spirituality #buddhism #energy-realms*
 
 **Atula** (hay Asura) là một trong 6 cõi giới của vòng luân hồi theo Phật giáo. Đây là cõi của những thực thể có phước đức và trí tuệ lớn nhưng tâm tính còn nhiều sân hận, kiêu mạn và hiếu chiến.
 

@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Nibiru (Hành Tinh X)
-*Tags: #atomic-note #nibiru #planet-x #astronomy #cataclysm*
+*Tags: #nibiru #planet-x #astronomy #cataclysm*
 
 **Nibiru** (còn gọi là Hành tinh X) là một hành tinh nhân tạo, có từ tính mạnh, được tin là nguyên nhân chính gây ra các thảm họa đại hồng thủy trong lịch sử Trái Đất.
 

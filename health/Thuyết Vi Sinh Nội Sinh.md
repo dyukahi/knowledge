@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Thuyết Vi Sinh Nội Sinh (Terrain Theory)
-*Tags: #atomic-note #health #terrain-theory #germ-theory*
+*Tags: #health #terrain-theory #germ-theory*
 
 Được đề xuất bởi Antoine Béchamp, đối lập với Thuyết Vi trùng của Pasteur.
 

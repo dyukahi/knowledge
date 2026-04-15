@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # MindGeek
-*Tags: #atomic-note #corporation #monopoly #porn*
+*Tags: #corporation #monopoly #porn*
 
 **MindGeek** (hiện đã đổi tên thành Aylo) là một tập đoàn công nghệ khổng lồ, kiểm soát mạng lưới độc quyền phần lớn ngành công nghiệp phim khiêu dâm toàn cầu (bao gồm Pornhub, RedTube, YouPorn, Brazzers, v.v.).
 

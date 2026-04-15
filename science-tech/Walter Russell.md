@@ -6,7 +6,7 @@ tags: []
 status: refined
 ---
 # Walter Russell
-*Tags: #atomic-note #biography #science #spirituality #consciousness*
+*Tags: #biography #science #spirituality #consciousness*
 
 **Walter Russell** (1871–1963) là một nhà bác học, nghệ sĩ và triết gia người Mỹ, nổi tiếng với những hiểu biết sâu sắc về bản chất của vũ trụ thông qua trải nghiệm tâm linh trực tiếp.
 

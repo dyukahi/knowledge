@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "esoterica/Mental Model - Bản Đồ Thoát Khỏi Ma Trận.md",
+                "file": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mental Model - Bản Đồ Thoát Khỏi Ma Trận"
+              "title": "Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "esoterica/Mental Model - Bản Đồ Thoát Khỏi Ma Trận.md",
+                "file": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mental Model - Bản Đồ Thoát Khỏi Ma Trận"
+              "title": "Backlinks for Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "esoterica/Mental Model - Bản Đồ Thoát Khỏi Ma Trận.md",
+                "file": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mental Model - Bản Đồ Thoát Khỏi Ma Trận"
+              "title": "Outgoing links from Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain)"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "esoterica/Mental Model - Bản Đồ Thoát Khỏi Ma Trận.md",
+                "file": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mental Model - Bản Đồ Thoát Khỏi Ma Trận"
+              "title": "Outline of Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain)"
             }
           }
         ]
@@ -183,8 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ba7bd15a74bbf3a5",
+  "active": "5c87cf7e2b1e27ca",
   "lastOpenFiles": [
+    "esoterica/Annunaki.md",
+    "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
+    "esoterica/Chimera.md",
+    "esoterica/Mental Model - Bản Đồ Thoát Khỏi Ma Trận.md",
     "quartz.config.ts",
     "esoterica/Manly P. Hall Chú Thuật Sư Cấp 33 Hội Tam Điểm.md",
     "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -214,9 +218,6 @@
     "_docs/scripts",
     "esoterica/Cỗ Máy Antikythera.md",
     "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-    "esoterica/Long Mạch.md",
-    "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-    "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
     "Untitled.canvas",
     "_inbox/raw-legacy/notes/raw 0804.txt",
     "_inbox/raw-legacy/notes/raw 0804 - Copy.txt",
@@ -224,7 +225,6 @@
     "_inbox/raw-legacy/images/obama_old_photo.png",
     "_inbox/raw-legacy/images/the_dark_truth_about_porn.jpg",
     "_inbox/raw-legacy/images/elon_maga_occult.jpg",
-    "_inbox/raw-legacy/pdfs/Tu Duy Luy Thua.pdf",
-    "_inbox/raw-legacy/pdfs/Tien Tien Tien.pdf"
+    "_inbox/raw-legacy/pdfs/Tu Duy Luy Thua.pdf"
   ]
 }

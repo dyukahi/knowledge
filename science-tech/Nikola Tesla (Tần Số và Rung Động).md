@@ -6,7 +6,7 @@ tags: []
 status: refined
 ---
 # Nikola Tesla (Tần Số và Rung Động)
-*Tags: #atomic-note #tesla #energy #frequency #vibration #ether*
+*Tags: #tesla #energy #frequency #vibration #ether*
 
 **Nikola Tesla** không chỉ là một nhà phát minh mà còn là một nhà thần bí học hiểu rõ các quy luật năng lượng của vũ trụ.
 

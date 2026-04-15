@@ -6,7 +6,7 @@ tags: []
 status: refined
 ---
 # Núi Tu Di (Mount Meru)
-*Tags: #atomic-note #cosmology #buddhism #magnetism*
+*Tags: #cosmology #buddhism #magnetism*
 
 **Núi Tu Di** (hay Mount Meru) là trung tâm năng lượng và địa lý của mỗi thế giới theo vũ trụ học phương Đông và Phật giáo.
 

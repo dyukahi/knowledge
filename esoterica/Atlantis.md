@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Atlantis
-*Tags: #atomic-note #ancient-civilization #history #spirituality*
+*Tags: #ancient-civilization #history #spirituality*
 
 **Atlantis** là một lục địa/nền văn minh vĩ đại được cho là đã tồn tại và biến mất một cách bí ẩn hàng ngàn năm trước.
 

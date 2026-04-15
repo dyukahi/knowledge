@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Thánh Issa (Hành trình Tây Tạng của Chúa)
-*Tags: #atomic-note #jesus #tibet #history #spirituality*
+*Tags: #jesus #tibet #history #spirituality*
 
 **Thánh Issa** là tên gọi của Chúa Giêsu trong các bản thảo cổ được tìm thấy tại tu viện Hemis (Tây Tạng).
 

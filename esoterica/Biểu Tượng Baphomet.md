@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Biểu Tượng Baphomet
-*Tags: #atomic-note #occult #symbolism #esoteric*
+*Tags: #occult #symbolism #esoteric*
 
 **Baphomet** là một biểu tượng gắn liền với sự huyền bí, giả kim thuật và đôi khi là chủ nghĩa Satan hiện đại. Hình tượng phổ biến nhất được vẽ bởi Éliphas Lévi, mô tả một sinh vật đầu dê (Sabbatic Goat) có cả nam tính và nữ tính.
 

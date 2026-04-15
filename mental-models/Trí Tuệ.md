@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Trí Tuệ (Wisdom)
-*Tags: #atomic-note #philosophy #wisdom #awakening*
+*Tags: #philosophy #wisdom #awakening*
 
 **Trí tuệ** là khả năng nhìn thấu bản chất của sự việc, hiểu rõ các quy luật vận hành dài hạn và có sự hài hòa giữa kiến thức với đạo đức.
 

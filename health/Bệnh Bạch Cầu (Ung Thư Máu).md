@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Bệnh Bạch Cầu (Ung Thư Máu)
-*Tags: #atomic-note #health #leukemia #terrain-theory #medicine*
+*Tags: #health #leukemia #terrain-theory #medicine*
 
 **Bệnh Bạch Cầu** (thường bị gọi là Ung thư máu) thực chất là tình trạng tủy xương bị tổn thương, dẫn đến sự rối loạn trong việc sản sinh các tế bào máu.
 

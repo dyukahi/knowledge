@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain)
-*Tags: #atomic-note #health #gut #consciousness #matrix*
+*Tags: #health #gut #consciousness #matrix*
 
 **Hệ Tiêu Hóa** được coi là bộ não thứ hai của con người vì nó chứa mạng lưới thần kinh phức tạp và ảnh hưởng trực tiếp đến trạng thái tâm trí.
 

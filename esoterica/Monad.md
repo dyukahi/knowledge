@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Monad (Đơn Thể Tối Cao)
-*Tags: #atomic-note #philosophy #spirituality #consciousness #leibniz*
+*Tags: #philosophy #spirituality #consciousness #leibniz*
 
 **Monad** là khái niệm triết học và tâm linh chỉ một đơn thể tinh thần, vô hình, không thể phân rã, là nguồn gốc và thành phần cơ bản nhất của thực tại.
 

@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Tà Linh (Energy Parasites)
-*Tags: #atomic-note #occult #energy-vampire #frequency*
+*Tags: #occult #energy-vampire #frequency*
 
 **Tà Linh** là những trường ý thức phi vật chất, lạc khỏi nguồn sáng, không thể tái sinh hay siêu thoát, phải ký sinh vào con người để tồn tại.
 

@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Y Tế Tự Nhiên (Anti-Matrix Health)
-*Tags: #atomic-note #health #anti-matrix #healing*
+*Tags: #health #anti-matrix #healing*
 
 **Y Tế Tự Nhiên** (hay Anti-Matrix Health) là tập hợp các phương pháp chăm sóc sức khỏe thuận tự nhiên, đi ngược lại các phác đồ điều trị của Tây Y hiện đại do ngành công nghiệp Dược phẩm kiểm soát (Xem: Sự Thật Về Ma Túy, Điều mà nền giáo dục và chính phủ không dạy bạn).
 

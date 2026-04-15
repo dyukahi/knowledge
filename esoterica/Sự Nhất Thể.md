@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Sự Nhất Thể (Oneness)
-*Tags: #atomic-note #spirituality #consciousness #unity*
+*Tags: #spirituality #consciousness #unity*
 
 Khái niệm khẳng định bản chất thực sự của vạn vật là Một, không có sự chia tách giữa con người với nhau và giữa con người với vũ trụ.
 

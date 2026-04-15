@@ -6,7 +6,7 @@ tags: []
 status: refined
 ---
 # Cabal (Thế Lực Ngầm)
-*Tags: #atomic-note #cabal #matrix #elite #power*
+*Tags: #cabal #matrix #elite #power*
 
 **Cabal** là lực lượng ngầm có nhiệm vụ quản lý "trò chơi" 3D trên Trái Đất, đứng sau các bất ổn xã hội, chính trị và tôn giáo.
 

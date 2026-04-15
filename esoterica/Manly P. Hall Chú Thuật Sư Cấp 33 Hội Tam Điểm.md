@@ -1,11 +1,11 @@
 ---
 title: "Manly P. Hall: Chú Thuật Sư Cấp 33 Hội Tam Điểm"
 tags:
-  - occult
-  - freemasonry
-  - elite
-  - esoteric
-  - history
+ - occult
+ - freemasonry
+ - elite
+ - esoteric
+ - history
 ---
 # Manly P. Hall: Chú Thuật Sư Cấp 33 Hội Tam Điểm
 

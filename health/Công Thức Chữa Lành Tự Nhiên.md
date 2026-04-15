@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Công Thức Chữa Lành Tự Nhiên (Master Note)
-*Tags: #atomic-note #health #protocol #healing #detox*
+*Tags: #health #protocol #healing #detox*
 
 Đây là "Master Note" tổng hợp các công thức chữa lành cốt lõi từ thiên nhiên nhằm phục hồi cơ thể và thoát khỏi sự phụ thuộc vào hệ thống Y tế dòng chính.
 

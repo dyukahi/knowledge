@@ -6,7 +6,7 @@ tags: []
 status: refined
 ---
 # Suy Thận (Kidney Failure)
-*Tags: #atomic-note #health #kidney #salt #detox*
+*Tags: #health #kidney #salt #detox*
 
 **Suy Thận** theo góc nhìn y học tự nhiên là kết quả của quá trình máu bị nhiễm toan (pH thấp) và tích tụ độc tố quá mức khiến thận bị quá tải.
 

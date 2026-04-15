@@ -21,9 +21,9 @@ Tài liệu này tổng hợp giả thuyết về sự hiện diện của chủ
 ## 3. Cabal - Những Kẻ Cai Quản "Game"
 - **Nhiệm vụ:** Quản lý nhân loại, tăng độ khó cho "trò chơi", gây ra các bất ổn chính trị, tôn giáo, và che giấu sự thật về UFO/văn minh cổ đại.
 - **Chiến lược:** 
-    - Tung ra các thuyết cực đoan (như Thuyết Trái Đất Phẳng) để che đậy sự hiện diện thực sự của Nibiru.
-    - Sử dụng dịch bệnh, vắc-xin, và khủng hoảng kinh tế để làm suy yếu con người trước thời điểm thiên tai cao điểm.
-    - Kiểm soát truyền thông để ru ngủ đám đông.
+ - Tung ra các thuyết cực đoan (như Thuyết Trái Đất Phẳng) để che đậy sự hiện diện thực sự của Nibiru.
+ - Sử dụng dịch bệnh, vắc-xin, và khủng hoảng kinh tế để làm suy yếu con người trước thời điểm thiên tai cao điểm.
+ - Kiểm soát truyền thông để ru ngủ đám đông.
 
 ## 4. Liên kết hệ thống
 - **Lịch sử bị xóa nhòa:** Kết nối trực tiếp với sự diệt vong của **Atlantis** và **Lemuria**.

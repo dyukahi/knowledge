@@ -6,7 +6,7 @@ tags: []
 status: refined
 ---
 # Dịch Chuyển Cực (Pole Shift)
-*Tags: #atomic-note #cataclysm #earth-science #nibiru*
+*Tags: #cataclysm #earth-science #nibiru*
 
 **Dịch Chuyển Cực** (Pole Shift) là sự thay đổi vị trí của các cực từ trường Trái Đất, thường đi kèm với những thiên tai kinh hoàng như động đất, sóng thần và núi lửa.
 

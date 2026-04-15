@@ -12,8 +12,8 @@ Bài viết tổng hợp những luận điểm phản biện về y học hiệ
 ## 1. Y Học Phản Biện & Cơ Chế "Bãi Rác"
 - **Thuyết Vi Sinh Nội Sinh:** Khẳng định vi khuẩn/ký sinh trùng (như HP) chỉ đến khi đường ruột là "bãi rác". Diệt khuẩn không quan trọng bằng dọn dẹp bãi rác nội môi.
 - **Phản biện nguồn gốc bệnh:** 
-    - Sốt xuất huyết là do ngộ độc gan (Aflatoxin), không phải do muỗi.
-    - Vắc-xin (như HIV, Covid mRNA) bị coi là công cụ đưa thêm độc chất (thủy ngân, chì, formaldehyde) vào cơ thể.
+ - Sốt xuất huyết là do ngộ độc gan (Aflatoxin), không phải do muỗi.
+ - Vắc-xin (như HIV, Covid mRNA) bị coi là công cụ đưa thêm độc chất (thủy ngân, chì, formaldehyde) vào cơ thể.
 - **Sự dối trá về Huyết áp:** Cao huyết áp là triệu chứng tim cố gắng bơm máu lên não để cứu mạng khi mạch máu bị nghẽn. Dùng thuốc hạ áp chỉ là dập tắt tín hiệu báo động, gây hại lâu dài.
 
 ## 2. Quyền Năng Của Muối & Đôi Bàn Chân

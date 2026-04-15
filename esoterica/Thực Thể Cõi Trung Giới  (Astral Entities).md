@@ -1,11 +1,11 @@
 ---
-title: Thực Thể Cõi Trung Giới  (Astral Entities)
+title: Thực Thể Cõi Trung Giới (Astral Entities)
 date: 2026-04-07
 tags: []
 status: refined
 ---
 # Thực Thể Cõi Trung Giới (Astral Entities)
-*Tags: #atomic-note #astral #occult #parasite*
+*Tags: #astral #occult #parasite*
 
 **Thực Thể Cõi Trung Giới** (Astral Plane Entities) hay các thực thể cõi âm, ký sinh trùng năng lượng (Energy Vampires/Archons).
 

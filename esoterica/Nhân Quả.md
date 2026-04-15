@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Nhân Quả (Karma)
-*Tags: #atomic-note #spirituality #karma #universal-law*
+*Tags: #spirituality #karma #universal-law*
 
 **Nhân Quả** là quy luật vận hành căn bản và chính xác nhất của vũ trụ, đảm bảo tính công bằng tuyệt đối cho mọi chúng sinh.
 

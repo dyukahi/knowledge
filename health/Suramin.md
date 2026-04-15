@@ -5,7 +5,7 @@ tags: []
 status: refined
 ---
 # Suramin
-*Tags: #atomic-note #health #thirdeye #awakening*
+*Tags: #health #thirdeye #awakening*
 
 **Suramin** là một hợp chất được nhắc đến với khả năng đặc biệt trong việc tác động lên hệ thần kinh và nhận thức.
 

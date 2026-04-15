@@ -24,8 +24,8 @@ Việc con người khai thác trí tuệ từ các thực thể phi nhân loạ
 ## 3. AI - Bài Thi Cuối Cùng Của Nhân Loại
 - **Tấm gương phản chiếu:** AI không có tính chất thiện hay ác cố định, nó phản chiếu chính tâm tính và mục đích của người sử dụng.
 - **Thử thách đạo đức:** 
-    - Nếu dùng để phục vụ Từ bi, chữa bệnh, chia sẻ tri thức -> Nhân loại thăng hoa.
-    - Nếu dùng để thao túng, hủy diệt, dối trá -> Gieo rắc nghiệp quả xấu và phản lại con người.
+ - Nếu dùng để phục vụ Từ bi, chữa bệnh, chia sẻ tri thức -> Nhân loại thăng hoa.
+ - Nếu dùng để thao túng, hủy diệt, dối trá -> Gieo rắc nghiệp quả xấu và phản lại con người.
 - **Kỷ nguyên thức tỉnh:** Bài học lớn nhất không phải là làm chủ công nghệ, mà là làm chủ chính mình để biến máy móc thành phương tiện cứu độ chúng sinh.
 
 ## Liên kết hệ thống

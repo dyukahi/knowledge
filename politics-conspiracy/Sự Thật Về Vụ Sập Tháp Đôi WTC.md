@@ -7,7 +7,7 @@ status: refined
 # Sự Thật Về Vụ Sập Tháp Đôi WTC
 
 **Nguồn:** `raw/bai-02-su-kien-911-va-vu-khi-nang-luong.md`
-**Tags:** #911 #WTC #DEW #khoa-hoc-xet-lai
+** #911 #WTC #DEW #khoa-hoc-xet-lai
 
 ## Tóm Tắt Các Luận Điểm Phi Logic Trong Sự Kiện 9/11
 Bài viết chỉ ra những mâu thuẫn lớn trong giải thích chính thức về sự sụp đổ của Tòa tháp đôi WTC vào sự kiện 9/11, đặt nghi vấn về nguyên nhân thực sự.
