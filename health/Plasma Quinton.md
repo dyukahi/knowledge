@@ -11,7 +11,7 @@ status: refined
 
 - **Đặc điểm:** Chứa đầy đủ bảng tuần hoàn các nguyên tố hóa học ở dạng hữu cơ, dễ hấp thụ.
 - **Công dụng:** Phục hồi môi trường nội môi, giải độc tế bào và tăng cường miễn dịch.
-- **Triết lý:** Coi cơ thể là một đại dương thu nhỏ. Khi "nước biển" bên trong sạch và đủ chất, bệnh tật không thể tồn tại. (Xem thêm: [[René Quinton và Huyết Tương Biển]], [[Thuyết Vi Sinh Nội Sinh]])
+- **Triết lý:** Coi cơ thể là một đại dương thu nhỏ. Khi "nước biển" bên trong sạch và đủ chất, bệnh tật không thể tồn tại. (Xem thêm: René Quinton và Huyết Tương Biển, Thuyết Vi Sinh Nội Sinh)
 
 ## Related
 - [[René Quinton và Huyết Tương Biển]]

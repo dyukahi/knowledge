@@ -7,16 +7,14 @@ status: refined
 # Tâm Bất Biến (Equanimity)
 *Tags: #atomic-note #philosophy #mindset #inner-peace*
 
-**Tâm Bất Biến** là trạng thái an trú vững [[Vàng|vàng]], tĩnh lặng và sáng suốt của nội tâm trước mọi biến động, thăng trầm của ngoại cảnh.
+**Tâm Bất Biến** là trạng thái an trú vững vàng, tĩnh lặng và sáng suốt của nội tâm trước mọi biến động, thăng trầm của ngoại cảnh.
 
-- **Bản chất:** Không phải là sự trốn chạy hay thờ ơ, mà là sự nhận diện mọi hiện tượng (vui buồn, thắng thua, đủ đầy, mất mát) chỉ là những con [[Sóng|sóng]] đến rồi đi trên dòng chảy thời gian.
-- **Con đường đạt tới:** Thông qua việc chiêm nghiệm các bài học từ quy luật [[Nhân Quả|nhân quả]] và rèn luyện [[Trí Tuệ]] để không còn bị ràng buộc bởi các ảo tưởng của [[Ma Trận|Ma trận]].
-- **Mối liên hệ:** Là biểu hiện cao nhất của một linh hồn đã trưởng thành và tỉnh thức, đạt đến sự tự do tận cùng trong tiến trình [[Individuation (Thành Toàn Bản Ngã)]].
+- **Bản chất:** Không phải là sự trốn chạy hay thờ ơ, mà là sự nhận diện mọi hiện tượng (vui buồn, thắng thua, đủ đầy, mất mát) chỉ là những con sóng đến rồi đi trên dòng chảy thời gian.
+- **Con đường đạt tới:** Thông qua việc chiêm nghiệm các bài học từ quy luật nhân quả và rèn luyện Trí Tuệ để không còn bị ràng buộc bởi các ảo tưởng của Ma trận.
+- **Mối liên hệ:** Là biểu hiện cao nhất của một linh hồn đã trưởng thành và tỉnh thức, đạt đến sự tự do tận cùng trong tiến trình Individuation (Thành Toàn Bản Ngã).
 
 ## Related
 - [[Individuation (Thành Toàn Bản Ngã)]]
 - [[Ma Trận]]
 - [[Nhân Quả]]
-- [[Sóng]]
 - [[Trí Tuệ]]
-- [[Vàng]]

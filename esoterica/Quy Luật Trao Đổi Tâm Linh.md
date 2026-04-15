@@ -14,9 +14,8 @@ Khi một người đến các đình miếu, lăng mộ (ví dụ: Mộ Cô Sá
 - Quỷ thần sẽ cấp cho họ 'tài lộc' bằng cách kéo ứng trước phước báu tương lai của chính họ.
 - Bù lại, quỷ thần hút đi **linh lực, phước báu gốc, và tuổi thọ** của người cầu để tăng cường sức mạnh tu luyện cho chúng. 
 
-Đây là một cái bẫy nguy hiểm khiến hậu vận của người cầu xin bị suy tàn ('của thiên trả địa'). Hiểu được quy luật này là bước đầu để thoát khỏi ảo tưởng [[Nhị Nguyên|nhị nguyên]] cầu xin bên ngoài, quay về rèn luyện ý thức bên trong (Xem thêm: [[33 Tầng Bậc]], [[Sự Thật Ẩn Sau Con Người Bạn]]).
+Đây là một cái bẫy nguy hiểm khiến hậu vận của người cầu xin bị suy tàn ('của thiên trả địa'). Hiểu được quy luật này là bước đầu để thoát khỏi ảo tưởng nhị nguyên cầu xin bên ngoài, quay về rèn luyện ý thức bên trong (Xem thêm: 33 Tầng Bậc, Sự Thật Ẩn Sau Con Người Bạn).
 
 ## Related
-- [[33 Tầng Bậc]]
 - [[Nhị Nguyên]]
 - [[Sự Thật Ẩn Sau Con Người Bạn]]

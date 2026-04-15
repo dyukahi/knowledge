@@ -12,7 +12,7 @@ status: refined
 ## Các Đặc Điểm Cốt Lõi
 - **Tính Nhất Thể:** Người Hy Lạp gọi là Monad, phương Đông gọi là Vô Cực, Chân Tâm hay Đạo. Tất cả đều chỉ về cùng một Nguồn Sáng vô biên.
 - **Sự Phản Chiếu:** Mỗi Monad là một tấm gương phản chiếu toàn thể vũ trụ theo cách riêng của nó. Con người là một "Monad đang thức tỉnh".
-- **Hành Trình Linh Hồn:** Linh hồn là tia sáng tách ra từ Monad, đi qua thế giới vật chất để rồi cuối cùng nhận ra mình chính là [[ánh sáng|Ánh Sáng]] (Kết nối: [[Sự Nhất Thể]]).
+- **Hành Trình Linh Hồn:** Linh hồn là tia sáng tách ra từ Monad, đi qua thế giới vật chất để rồi cuối cùng nhận ra mình chính là Ánh Sáng (Kết nối: Sự Nhất Thể).
 
 ## Tầng Bậc (Theo Leibniz)
 1. Monad mờ tối (vật chất).
@@ -20,9 +20,8 @@ status: refined
 3. Monad lý trí (con người).
 4. Monad Tối Cao (Thượng Đế).
 
-(Xem thêm: [[Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]])
+(Xem thêm: Giải Mã Thiên Tai, Long Mạch và Triết Học Monad)
 
 ## Related
 - [[Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]]
 - [[Sự Nhất Thể]]
-- [[ánh sáng]]

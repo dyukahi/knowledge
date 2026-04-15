@@ -12,7 +12,7 @@ status: refined
 
 - **Đặc điểm:** Là trục quay cho Mặt Trời và Mặt Trăng. Trong ngôn ngữ hiện đại, nó được liên kết với khái niệm **Black Rock** (Núi đá đen) hay Magnetic North Pole (Cực Bắc từ tính).
 - **Tác động:** Tạo ra lực từ trường khiến la bàn luôn hướng về tâm điểm này.
-- **Mở rộng:** Xung quanh núi Tu Di là 4 đại châu, trong đó có [[Tartaria]] (Đông Thắng Thần Châu) và nơi con người hiện đại sinh sống. (Xem thêm: [[Vũ Trụ Học Phật Giáo]], [[Tartaria và Vạn Lý Trường Thành]])
+- **Mở rộng:** Xung quanh núi Tu Di là 4 đại châu, trong đó có Tartaria (Đông Thắng Thần Châu) và nơi con người hiện đại sinh sống. (Xem thêm: Vũ Trụ Học Phật Giáo, Tartaria và Vạn Lý Trường Thành)
 
 ## Related
 - [[Tartaria]]

@@ -13,7 +13,7 @@ status: refined
 - **Biểu tượng Sao Hỏa & Chiến tranh:** Khái niệm này thường đi kèm với hình ảnh Elon Musk mặc áo "Occupy Mars", đội mũ đen "Make America Great Again". Dưới góc độ chiêm tinh học và Occult, Mars (Sao Hỏa) cai trị cung Bạch Dương (Aries) - biểu tượng của Thần Chiến Tranh. 
 - **Chất xúc tác hỗn loạn:** Dark MAGA có thể được xem là một giai đoạn kích hoạt xung đột, sử dụng sự thù hận và chia rẽ để đẩy nhanh các sự kiện sụp đổ xã hội, nằm trong kế hoạch kiểm soát lớn hơn.
 
-Liên kết: [[MAGA Và Số 42]], [[Phân Tích Hình Ảnh - Elon Musk và MAGA]], [[Mental Model - Ma Trận Kiểm Soát Kép]].
+Liên kết: MAGA Và Số 42, Phân Tích Hình Ảnh - Elon Musk và MAGA, Mental Model - Ma Trận Kiểm Soát Kép.
 
 ## Related
 - [[MAGA Và Số 42]]

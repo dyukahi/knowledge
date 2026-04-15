@@ -8,7 +8,7 @@ status: refined
 # Vô Thức Tập Thể
 
 **Phân loại:** 
-**Từ khóa:** [[Collective Unconscious]], [[Tâm Lý Học Jung]], [[Ether]], [[Năng Lượng Aether]]
+**Từ khóa:** Collective Unconscious, Tâm Lý Học Jung, Ether, Năng Lượng Aether
 
 ---
 
@@ -17,29 +17,24 @@ Vô Thức Tập Thể là tầng sâu nhất của tâm trí con người, khô
 
 ### Đặc Điểm:
 1. **Kiến thức chung:** Những tri thức được chia sẻ chung trong nhân loại (ví dụ: nỗi sợ rắn bẩm sinh ở trẻ sơ sinh).
-2. **Thư Viện Vũ Trụ:** Liên kết trực tiếp với khái niệm [[Năng Lượng Aether|Akarshic Record (Ether/Dĩ Thái)]]. [[Nikola Tesla (Tần Số và Rung Động)|Nikola Tesla]] và Ramanujan được cho là đã truy cập vào nguồn dữ liệu này để lấy tri thức.
-3. **Mở khóa (Unlock):** Tri thức này đã có sẵn trong [[DNA]] từ khi hình thành, chỉ chờ môi trường và kỹ năng (tools) thích hợp để "giải nén".
+2. **Thư Viện Vũ Trụ:** Liên kết trực tiếp với khái niệm Akarshic Record (Ether/Dĩ Thái). Nikola Tesla và Ramanujan được cho là đã truy cập vào nguồn dữ liệu này để lấy tri thức.
+3. **Mở khóa (Unlock):** Tri thức này đã có sẵn trong DNA từ khi hình thành, chỉ chờ môi trường và kỹ năng (tools) thích hợp để "giải nén".
 
-## [[Nguyên Mẫu (Archetypes)]]:
+## Nguyên Mẫu (Archetypes):
 Những hình ảnh và suy nghĩ mang ý nghĩa phổ quát trong vô thức tập thể, xuất hiện trong giấc mơ, văn học và tôn giáo (Vua, Pháp sư, Chiến binh, Người tình).
 
 ## Liên Kết Nguồn:
-- [[S.E.X Và Tâm Lý Học Jung]]
-- [[Nguyên Mẫu (Archetypes)]]
-- [[Năng Lượng Aether]]
-- [[Khoa Học Xét Lại]]
+- S.E.X Và Tâm Lý Học Jung
+- Nguyên Mẫu (Archetypes)
+- Năng Lượng Aether
+- Khoa Học Xét Lại
 
 ---
 **Ghi chú:** Quá khứ cổ xưa là nền tảng của tâm hồn con người, định hướng hành vi hiện tại thông qua vô thức tập thể.
 
 ## Related
-- [[Collective Unconscious]]
-- [[DNA]]
-- [[Ether]]
-- [[Khoa Học Xét Lại]]
 - [[Nguyên Mẫu (Archetypes)]]
 - [[Nikola Tesla (Tần Số và Rung Động)]]
 - [[Năng Lượng Aether]]
 - [[S.E.X Và Tâm Lý Học Jung]]
 - [[Tâm Lý Học Jung]]
-- [[[[Nguyên Mẫu (Archetypes)]]

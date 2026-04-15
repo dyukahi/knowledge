@@ -6,12 +6,11 @@ status: refined
 ---
 # Saturn Cube
 
-Saturn Cube (Khối Lập Phương Sao Thổ) là biểu tượng [[Huyền Học|huyền học]] đại diện cho hệ thống kiểm soát không gian và thời gian trong thế giới vật chất, thường liên kết với [[Ma Trận]] và sự kìm hãm tâm thức.
+Saturn Cube (Khối Lập Phương Sao Thổ) là biểu tượng huyền học đại diện cho hệ thống kiểm soát không gian và thời gian trong thế giới vật chất, thường liên kết với Ma Trận và sự kìm hãm tâm thức.
 
 ## Liên kết liên quan
-- [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
+- Mental Model - Bản Đồ Thoát Khỏi Ma Trận
 
 ## Related
-- [[Huyền Học]]
 - [[Ma Trận]]
 - [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]

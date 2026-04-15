@@ -27,17 +27,15 @@ Bài viết chỉ ra những mâu thuẫn lớn trong giải thích chính thứ
 - Dầm thép bị uốn cong quanh trục thẳng đứng mà không nứt gãy.
 - **Kim loại nóng chảy và nhôm phát sáng**: Được tìm thấy tại hiện trường, minh chứng cho một nguồn nhiệt khác ngoài lửa thông thường.
 
-### Giả Thuyết Vũ Khí Năng Lượng & Phản Ứng [[Hạt]] Nhân
-- Sự xuất hiện của **Tritium** và các sản phẩm phụ [[Hạt|hạt]] nhân tại khu vực.
+### Giả Thuyết Vũ Khí Năng Lượng & Phản Ứng Hạt Nhân
+- Sự xuất hiện của **Tritium** và các sản phẩm phụ hạt nhân tại khu vực.
 - Phân tích rỉ sét và bột alumina (nhôm oxit) từ hiện trường chỉ ra sự hiện diện của chất nổ **Thermite**.
-- Kết luận của bài phân tích: Sự sụp đổ không phải do máy bay mà do một dạng từ trường/[[Vũ Khí Năng Lượng Định Hướng (DEW)]] hoặc can thiệp [[Hạt|hạt]] nhân phá vỡ liên kết vật chất.
+- Kết luận của bài phân tích: Sự sụp đổ không phải do máy bay mà do một dạng từ trường/Vũ Khí Năng Lượng Định Hướng (DEW) hoặc can thiệp hạt nhân phá vỡ liên kết vật chất.
 
 ## Liên Kết Bổ Sung
-- Kết nối với những lời tiên đoán hoặc thuyết âm mưu từ [[Báo Cáo 2030]] và [[Khoa Học Xét Lại]], phản ánh kịch bản được dàn dựng bởi giới [[Elite]].
+- Kết nối với những lời tiên đoán hoặc thuyết âm mưu từ Báo Cáo 2030 và Khoa Học Xét Lại, phản ánh kịch bản được dàn dựng bởi giới Elite.
 
 ## Related
 - [[Báo Cáo 2030]]
 - [[Elite]]
-- [[Hạt]]
-- [[Khoa Học Xét Lại]]
 - [[Vũ Khí Năng Lượng Định Hướng (DEW)]]

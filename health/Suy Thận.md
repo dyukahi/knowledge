@@ -13,22 +13,18 @@ status: refined
 ## Nguyên Nhân Gây Bệnh
 - **Lối sống acid hóa:** Tiêu thụ quá nhiều sữa bò, nước ngọt, thịt và thực phẩm chứa hóa chất bảo quản.
 - **Độc tố kim loại nặng:** Tích tụ từ các mũi tiêm và thuốc Tây trong thời gian dài.
-- **Sự thiếu hụt [[Muối|muối]]:** Việc bài trừ [[Muối|muối]] khiến cơ thể mất [[Cân bằng|cân bằng]] điện giải, làm giảm khả năng lọc của thận.
+- **Sự thiếu hụt muối:** Việc bài trừ muối khiến cơ thể mất cân bằng điện giải, làm giảm khả năng lọc của thận.
 
 ## Cơ Chế Tự Bảo Vệ
 - **Tiểu đêm:** Là cách thận cố gắng làm việc liên tục để lọc độc tố khi ban ngày cơ thể không thải độc đủ qua mồ hôi.
 
 ## Phương Pháp Phục Hồi Cấp Bách
 1. **Phơi nắng lưng:** Giúp "dương hóa" quả thận và cung cấp Vitamin D tăng sức đề kháng.
-2. **Liệu pháp [[Muối]] biển:** Uống 300-350ml nước ấm pha với 5g [[Muối|muối]] [[Hạt|hạt]] to vào sáng sớm trước khi ăn. [[Muối]] biển giúp trung hòa acid và phục hồi chức năng lọc.
-3. **Chế độ ăn:** Tránh xa sữa bò, hạn chế thịt, bia [[rượu]] và thực phẩm chế biến sẵn để làm sạch dòng máu.
+2. **Liệu pháp Muối biển:** Uống 300-350ml nước ấm pha với 5g muối hạt to vào sáng sớm trước khi ăn. Muối biển giúp trung hòa acid và phục hồi chức năng lọc.
+3. **Chế độ ăn:** Tránh xa sữa bò, hạn chế thịt, bia rượu và thực phẩm chế biến sẵn để làm sạch dòng máu.
 
-(Xem thêm: [[Vận Chín, Người Kogi và Ma Trận Y Tế]], [[Y Tế Tự Nhiên (Anti-Matrix Health)]])
+(Xem thêm: Vận Chín, Người Kogi và Ma Trận Y Tế, Y Tế Tự Nhiên (Anti-Matrix Health))
 
 ## Related
-- [[Cân bằng]]
-- [[Hạt]]
-- [[Muối]]
 - [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
 - [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
-- [[rượu]]

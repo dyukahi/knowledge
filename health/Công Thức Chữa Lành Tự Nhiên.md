@@ -9,9 +9,9 @@ status: refined
 
 Đây là "Master Note" tổng hợp các công thức chữa lành cốt lõi từ thiên nhiên nhằm phục hồi cơ thể và thoát khỏi sự phụ thuộc vào hệ thống Y tế dòng chính.
 
-## 1. Công Thức [[Muối]] Biển
-- **Mục đích:** Giải độc, [[Cân bằng|cân bằng]] điện giải, cung cấp khoáng chất cho tủy xương và não bộ.
-- **Cách dùng:** Sáng sớm trước khi ăn, uống 300-350ml nước ấm pha với 5g (1 muỗng cafe) [[Muối|muối]] [[Hạt|hạt]] to.
+## 1. Công Thức Muối Biển
+- **Mục đích:** Giải độc, cân bằng điện giải, cung cấp khoáng chất cho tủy xương và não bộ.
+- **Cách dùng:** Sáng sớm trước khi ăn, uống 300-350ml nước ấm pha với 5g (1 muỗng cafe) muối hạt to.
 - **Lợi ích:** Phục hồi chức năng thận, huyết áp ổn định, tăng cường khả năng xử lý của não bộ.
 
 ## 2. Liệu Pháp Ánh Nắng (Dương Hóa)
@@ -28,12 +28,8 @@ status: refined
 - **Đường ruột:** Chăm sóc "bộ não thứ hai" bằng cách loại bỏ hóa chất (Glyphosate, Fluoride).
 - **Lối sống:** Thiền định, hít thở ý thức (theo phong cách Kogi), ngủ sâu để cơ thể tự phục hồi.
 
-*(Xem thêm: [[Vận Chín, Người Kogi và Ma Trận Y Tế]], [[Suy Thận (Kidney Failure)]], [[Bệnh Bạch Cầu (Ung Thư Máu)]])*
+*(Xem thêm: Vận Chín, Người Kogi và Ma Trận Y Tế, Suy Thận (Kidney Failure), Bệnh Bạch Cầu (Ung Thư Máu))*
 
 ## Related
 - [[Bệnh Bạch Cầu (Ung Thư Máu)]]
-- [[Cân bằng]]
-- [[Hạt]]
-- [[Muối]]
-- [[Suy Thận (Kidney Failure)]]
 - [[Vận Chín, Người Kogi và Ma Trận Y Tế]]

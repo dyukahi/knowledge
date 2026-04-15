@@ -14,19 +14,16 @@ status: refined
 - **Góc nhìn Xét lại:** Bạch cầu tăng cao là phản ứng bảo vệ tự nhiên của cơ thể để dọn dẹp độc tố, vi khuẩn và các mảng dơ trong máu. Bạch cầu sinh ra để "cứu viện" chứ không phải để gây hại.
 
 ## Nguyên Nhân Gây Tổn Thương Tủy
-- Tiếp xúc quá nhiều với các loại [[Sóng|sóng]] tần số mạnh: Siêu âm, X-quang, CT, MRI.
+- Tiếp xúc quá nhiều với các loại sóng tần số mạnh: Siêu âm, X-quang, CT, MRI.
 - Thực phẩm độc hại và hóa chất tích tụ lâu ngày làm suy yếu chức năng tạo máu.
 
 ## Phương Pháp Phục Hồi Tự Nhiên
 - **Ánh nắng mặt trời:** Cung cấp Vitamin D giúp kích thích tế bào gốc trong tủy sản sinh tế bào máu và điều hòa miễn dịch.
-- **[[Muối]] biển tự nhiên:** Cung cấp 84 khoáng chất (Sắt, Kẽm, Magie...) cần thiết cho quá trình tạo máu và [[Cân bằng|cân bằng]] điện giải.
+- **Muối biển tự nhiên:** Cung cấp 84 khoáng chất (Sắt, Kẽm, Magie...) cần thiết cho quá trình tạo máu và cân bằng điện giải.
 - **Đào thải độc tố:** Giảm gánh nặng cho tủy xương bằng cách dọn dẹp "bãi rác" nội môi.
 
-(Xem thêm: [[Vận Chín, Người Kogi và Ma Trận Y Tế]], [[Y Tế Tự Nhiên (Anti-Matrix Health)]])
+(Xem thêm: Vận Chín, Người Kogi và Ma Trận Y Tế, Y Tế Tự Nhiên (Anti-Matrix Health))
 
 ## Related
-- [[Cân bằng]]
-- [[Muối]]
-- [[Sóng]]
 - [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
 - [[Y Tế Tự Nhiên (Anti-Matrix Health)]]

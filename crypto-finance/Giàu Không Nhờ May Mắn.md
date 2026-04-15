@@ -10,8 +10,8 @@ Tổng hợp các bài viết về việc xây dựng hệ thống tư duy, nguy
 
 ## Ý Chính (Main Ideas)
 
-1.  **Phân biệt Giàu có, [[Tiền]] bạc và Địa vị:** 
-    *   Giàu có là sở hữu [[tài sản]] sinh lời mang lại tự do.
+1.  **Phân biệt Giàu có, Tiền bạc và Địa vị:** 
+    *   Giàu có là sở hữu tài sản sinh lời mang lại tự do.
     *   Địa vị là trò chơi có tổng bằng không (Zero-sum).
     *   Tạo ra sự giàu có là trò chơi tổng dương (Positive-sum).
 2.  **Đòn bẩy (Leverage):** 
@@ -25,14 +25,12 @@ Tổng hợp các bài viết về việc xây dựng hệ thống tư duy, nguy
     *   Mọi lợi ích lớn đến từ lãi kép (compound interest).
 
 ## Liên kết Khái Niệm
-- Hiểu rõ bản chất của [[Tiền Giấy - Tiền Mặt]] và sự khác biệt giữa [[Tiền]] tệ vs Sự Giàu có.
-- Liên quan mật thiết tới [[Tư Duy Lũy Thừa]] và [[Sợ hãi - Tham Lam – Cân bằng]].
-- Tự giải thoát khỏi hệ thống [[Điều mà nền giáo dục và chính phủ không dạy bạn]].
+- Hiểu rõ bản chất của Tiền Giấy - Tiền Mặt và sự khác biệt giữa Tiền tệ vs Sự Giàu có.
+- Liên quan mật thiết tới Tư Duy Lũy Thừa và Sợ hãi - Tham Lam – Cân bằng.
+- Tự giải thoát khỏi hệ thống Điều mà nền giáo dục và chính phủ không dạy bạn.
 
 ## Related
 - [[Sợ hãi - Tham Lam – Cân bằng]]
-- [[Tiền]]
 - [[Tiền Giấy - Tiền Mặt]]
 - [[Tư Duy Lũy Thừa]]
-- [[tài sản]]
 - [[Điều mà nền giáo dục và chính phủ không dạy bạn]]
