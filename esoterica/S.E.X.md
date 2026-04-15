@@ -1,6 +1,6 @@
 ---
 title: "S.E.X (Sacred Energy eXchange)"
-aliases: ["S.E.X (Sacred Energy eXchange)"]
+aliases: ["Trao Đổi Năng Lượng Thiêng Liêng", "S.E.X (Sacred Energy eXchange)"]
 date: 2026-04-07
 tags: []
 status: refined
@@ -43,3 +43,12 @@ Theo quan điểm [[Huyền Học|huyền học]] và phân tâm học Jung, S.E
 - [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
 - [[Trao Đổi Năng Lượng Thiêng Liêng]]
 - [[Định Lực]]
+
+
+## [Nội dung gộp từ bài: Trao Đổi Năng Lượng Thiêng Liêng]
+
+## Khái niệm: Trao Đổi Năng Lượng Thiêng Liêng
+(Đây là một ghi chú chờ - Stub Note. Khái niệm này được phát hiện trong quá trình quét hệ thống và đang chờ được tổng hợp, phát triển chi tiết).
+
+## Related
+- [[Khái Niệm Lõi (Atomic Notes)]]
