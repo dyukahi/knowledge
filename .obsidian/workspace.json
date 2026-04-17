@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain).md",
+                "file": "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain)"
+              "title": "Cơ Chế Tự Bảo Vệ Của Cơ Thể"
             }
           }
         ]
@@ -183,8 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c87cf7e2b1e27ca",
+  "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
+    "health/Công Thức Chữa Lành Tự Nhiên.md",
+    "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+    "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain).md",
     "esoterica/Annunaki.md",
     "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
     "esoterica/Chimera.md",
@@ -209,15 +212,12 @@
     "science-tech/Thời Đại Bảo Bình (Age of Aquarius).md",
     "esoterica/Vũ Trụ Học Phật Giáo.md",
     "_inbox/Vô Thức Tập Thể (Akashic Records).md",
-    "CLAUDE.md",
     "_docs/scripts/fix_all_related.py",
     "_docs/scripts/double_check_merge.py",
     "_docs/scripts/fill_gaps.py",
     "_docs/scripts/cleanup_and_check.py",
     "_docs/scripts/auto_link.py",
     "_docs/scripts",
-    "esoterica/Cỗ Máy Antikythera.md",
-    "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
     "Untitled.canvas",
     "_inbox/raw-legacy/notes/raw 0804.txt",
     "_inbox/raw-legacy/notes/raw 0804 - Copy.txt",
