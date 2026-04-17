@@ -43,6 +43,7 @@ jobs:
           if [ -f quartz/content/README.md ] && [ ! -f quartz/content/index.md ]; then
             cp quartz/content/README.md quartz/content/index.md
           fi
+          if [ -f content/assets/og-image.png ]; then cp content/assets/og-image.png quartz/quartz/static/og-image.png; fi
 
       - name: Install Dependencies
         working-directory: ./quartz
