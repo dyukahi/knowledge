@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+                "file": "health/Su That Ve Benh Dai Va Vac Xin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cơ Chế Tự Bảo Vệ Của Cơ Thể"
+              "title": "Su That Ve Benh Dai Va Vac Xin"
             }
           }
         ]
@@ -185,9 +185,13 @@
   },
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
-    "health/Công Thức Chữa Lành Tự Nhiên.md",
     "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+    "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+    "health/Su That Ve Benh Dai Va Vac Xin.md",
+    "esoterica/Manly P. Hall.md",
+    "esoterica/Manly P. Hall - Chu Thuat Su Cap 33 Hoi Tam Diem.md",
     "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain).md",
+    "health/Công Thức Chữa Lành Tự Nhiên.md",
     "esoterica/Annunaki.md",
     "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
     "esoterica/Chimera.md",
@@ -208,10 +212,6 @@
     "science-tech/Vũ Khí Năng Lượng Định Hướng (DEW).md",
     "science-tech/Walter Russell.md",
     "science-tech/Pin Natri-ion.md",
-    "science-tech/Tháp Wardenclyffe.md",
-    "science-tech/Thời Đại Bảo Bình (Age of Aquarius).md",
-    "esoterica/Vũ Trụ Học Phật Giáo.md",
-    "_inbox/Vô Thức Tập Thể (Akashic Records).md",
     "_docs/scripts/fix_all_related.py",
     "_docs/scripts/double_check_merge.py",
     "_docs/scripts/fill_gaps.py",
