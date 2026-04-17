@@ -1,10 +1,10 @@
 ---
 title: "Knowledge IDE - Bản đồ Tri thức"
-description: "Chào mừng anh Justin đến với hệ thống Zettelkasten cá nhân. Trung tâm điều phối toàn bộ các khối tri thức."
+description: "Hệ thống Zettelkasten lưu trữ và điều phối toàn bộ các khối tri thức. Trung tâm phân tích Tài chính, Huyền học, Y tế tự nhiên và Mô hình tư duy."
 ---
 # 🧠 Knowledge IDE - Bản đồ Tri thức (Map of Content)
 
-Chào mừng anh Justin đến với hệ thống Zettelkasten cá nhân. Đây là trung tâm điều phối toàn bộ các khối tri thức.
+Hệ thống Zettelkasten lưu trữ và điều phối toàn bộ các khối tri thức. Trung tâm phân tích Tài chính, Huyền học, Y tế tự nhiên và Mô hình tư duy.
 
 ## 🏛️ CÁC TRỤ CỘT TRI THỨC (DOMAINS)
 
