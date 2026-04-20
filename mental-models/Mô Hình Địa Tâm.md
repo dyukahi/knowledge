@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mô Hình Địa Tâm
 aliases: ["Geocentrism", "Địa Tâm"]
 date: 2026-04-08

@@ -1,17 +1,101 @@
-﻿---
+---
 title: "MindGeek"
 date: 2026-04-07
 tags: [politics-conspiracy]
 status: refined
 ---
-# MindGeek
-*Tags: #corporation #monopoly #porn*
+# MindGeek (Aylo)
 
-**MindGeek** (hiện đã đổi tên thành Aylo) là một tập đoàn công nghệ khổng lồ, kiểm soát mạng lưới độc quyền phần lớn ngành công nghiệp phim khiêu dâm toàn cầu (bao gồm Pornhub, RedTube, YouPorn, Brazzers, v.v.).
+**MindGeek** (đổi tên thành Aylo năm 2023) là tập đoàn công nghệ kiểm soát phần lớn ngành công nghiệp phim khiêu dâm toàn cầu. Một trong những công ty có ảnh hưởng lớn nhất nhưng ít được biết đến.
 
-Sự thống trị của MindGeek được xem là một công cụ quy mô công nghiệp để thực hiện Kiểm Soát Tâm Trí diện rộng. Bằng cách cung cấp nội dung "miễn phí", công ty này biến người xem thành "sản phẩm", thu thập dữ liệu và lập trình tiềm thức xã hội, bình thường hóa việc xem con người như những công cụ tình dục, và làm suy kiệt Năng Lượng Tình Dục của hàng tỷ người. (Xem: Sự Thật Đen Tối Về Phim Khiêu Dâm).
+## Quy Mô Độc Quyền
+
+### Các nền tảng thuộc sở hữu
+- **Tube sites**: Pornhub, RedTube, YouPorn, Tube8
+- **Studios**: Brazzers, RealityKings, Mofos, Babes
+- **Technology**: TrafficJunky (ad network)
+- **Other**: Xtube, Thumbzilla, PornMD
+
+### Traffic
+- 100+ million daily visitors (Pornhub alone)
+- Top 10 most visited websites globally
+- More traffic than Netflix, Amazon
+
+## Business Model
+
+### "Free" Content
+- Như YouTube của porn
+- Người dùng = sản phẩm
+- Data collection massive
+- Behavioral tracking
+
+### Advertising
+- TrafficJunky network
+- Malware distribution
+- Scam ads
+- Cryptocurrency mining scripts
+
+## Mind Control Angle
+
+Theo [[Kiểm Soát Tâm Trí]] và [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]:
+
+### 1. Dopamine Hijacking
+- Supernormal stimuli
+- Addiction by design
+- Escalation pattern (cần content extreme hơn)
+
+### 2. Sexual Energy Drain
+- [[Năng Lượng Tình Dục]] bị tiêu hao
+- Làm suy yếu willpower
+- "Zombification" effect
+
+### 3. Social Programming
+- Normalize exploitation
+- Distort view of relationships
+- Objectification of humans
+- Desensitization to violence
+
+### 4. Data Weaponization
+- Know intimate preferences of billions
+- Potential blackmail material
+- Surveillance capitalism
+
+## Controversies
+
+### Child Exploitation (2020+)
+- NY Times exposé
+- CSAM content hosted
+- Visa/Mastercard dropped them
+- Millions of videos removed
+
+### Trafficking
+- Non-consensual content
+- "Girls Do Porn" case
+- Coerced performers
+- Revenge porn
+
+### Ownership Opacity
+- Hidden ownership structure
+- Offshore entities
+- Feras Antoon, David Tassillo (former execs)
+- Ethical Capital Partners (2023 acquisition)
+
+## Ai Đứng Đằng Sau?
+
+### Official
+- Private equity firms
+- Canadian headquarters
+
+### Conspiracy View
+- [[Elite]] tool
+- Intelligence connections?
+- Deliberate social engineering
+- Part of larger control matrix
 
 ## Related
-- [[Kiểm Soát Tâm Trí]]
-- [[Năng Lượng Tình Dục]]
-- [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
+
+- [[Sự Thật Đen Tối Về Phim Khiêu Dâm]] — Deep dive
+- [[Kiểm Soát Tâm Trí]] — Mechanism
+- [[Năng Lượng Tình Dục]] — What's being drained
+- [[Elite]] — Cui bono?
+- [[Ma Trận]] — Bigger picture
