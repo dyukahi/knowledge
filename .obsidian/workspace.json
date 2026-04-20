@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "health/Su That Ve Benh Dai Va Vac Xin.md",
+                "file": "health/Virus và Kiếp Tật Dịch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Su That Ve Benh Dai Va Vac Xin"
+              "title": "Virus và Kiếp Tật Dịch"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
-    "_inbox/Virus và Kiếp Tắt Dịch.md",
     "health/Su That Ve Benh Dai Va Vac Xin.md",
+    "_inbox/Virus và Kiếp Tắt Dịch.md",
     "_inbox/Wikilinks.md",
     "claude.md",
     "_templates/README.md",
