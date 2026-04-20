@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+                "file": "health/Thuyết Vi Sinh Nội Sinh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z"
+              "title": "Thuyết Vi Sinh Nội Sinh"
             }
           }
         ]
@@ -185,14 +185,18 @@
   },
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
+    "crypto-finance/Bitcoin.md",
+    "health/Thuyết Vi Sinh Nội Sinh.md",
+    "health/Plasma Quinton.md",
     "index.md",
+    "science-tech/Khoa Học Xét Lại (Revisionist Science).md",
+    "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
     "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
     "INDEX.md",
     "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
     "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
     "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
     "science-tech/Tần Số Schumann.md",
-    "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
     "science-tech/Vũ Khí Năng Lượng Định Hướng (DEW).md",
     "mental-models/UBI Conditioning - The End of Work Ethic.md",
     "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
@@ -207,11 +211,7 @@
     "health/Công Thức Chữa Lành Tự Nhiên.md",
     "esoterica/Annunaki.md",
     "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-    "esoterica/Chimera.md",
-    "esoterica/Mental Model - Bản Đồ Thoát Khỏi Ma Trận.md",
     "quartz.config.ts",
-    "esoterica/Manly P. Hall Chú Thuật Sư Cấp 33 Hội Tam Điểm.md",
-    "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
     "_docs/scripts/fix_all_related.py",
     "_docs/scripts/double_check_merge.py",
     "_docs/scripts/fill_gaps.py",

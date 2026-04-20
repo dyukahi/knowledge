@@ -83,8 +83,8 @@ status: refined
 ## Tại Sao Bị Suppressed?
 
 ### Follow the money
-- Germ Theory → Antibiotics, vaccines → $$$
-- Terrain Theory → Diet, lifestyle → No products to sell
+- Germ Theory → Antibiotics, vaccines → Lợi nhuận khổng lồ
+- Terrain Theory → Diet, lifestyle → Không có sản phẩm để bán
 
 ### Pasteur vs Béchamp
 - Pasteur: Connected, political
