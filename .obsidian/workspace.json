@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "health/Thuyết Vi Sinh Nội Sinh.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thuyết Vi Sinh Nội Sinh"
+              "title": "index"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
-    "crypto-finance/Bitcoin.md",
+    "health/Suramin.md",
     "health/Thuyết Vi Sinh Nội Sinh.md",
+    "crypto-finance/Bitcoin.md",
     "health/Plasma Quinton.md",
     "index.md",
     "science-tech/Khoa Học Xét Lại (Revisionist Science).md",
@@ -210,7 +211,6 @@
     "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain).md",
     "health/Công Thức Chữa Lành Tự Nhiên.md",
     "esoterica/Annunaki.md",
-    "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
     "quartz.config.ts",
     "_docs/scripts/fix_all_related.py",
     "_docs/scripts/double_check_merge.py",
