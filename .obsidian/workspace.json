@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bitcoin Sẽ Chết Nếu Không Có Privacy"
+              "title": "index"
             }
           }
         ]
@@ -185,7 +185,10 @@
   },
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "README.md",
     "index.md",
+    "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
     "INDEX.md",
     "quartz/static/giscus/light.css",
     "quartz/static/giscus/dark.css",
@@ -220,9 +223,6 @@
     "content/_inbox/README.md",
     "content/politics-conspiracy/Tuyên Ngôn Bức Tường Băng.md",
     "content/_docs/README.md",
-    "content/politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-    "content/politics-conspiracy/Trái Đất Phẳng.md",
-    "content/politics-conspiracy/Thuyết Trái Đất Phẳng.md",
     "content/assets/og-image.png",
     "assets/og-image.png",
     "Untitled.canvas",

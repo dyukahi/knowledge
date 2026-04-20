@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bitcoin Sẽ Chết Nếu Không Có Privacy"
 date: 2026-04-07
 tags: [crypto-finance]
