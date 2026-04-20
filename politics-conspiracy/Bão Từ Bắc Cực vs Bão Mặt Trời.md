@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bão Từ Bắc Cực vs Bão Mặt Trời
 aliases: ["Bão Từ"]
 date: 2026-04-08

@@ -127,4 +127,4 @@ Theo [[Khoa Học Xét Lại (Revisionist Science)|KHXL]]:
 - [[Cơ Máy Antikythera và Minh Chứng Địa Tâm]]
 - [[Khoa Học Xét Lại (Revisionist Science)]]
 - [[Chu Kỳ Hoàng Đạo]]
-- [[Sự Nhật Thể]]
+- [[Sự Nhất Thể]]
