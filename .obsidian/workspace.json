@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mental-models/Nhị Nguyên.md",
+                "file": "science-tech/Walter Russell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nhị Nguyên"
+              "title": "Walter Russell"
             }
           }
         ]
@@ -185,11 +185,24 @@
   },
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
+    "science-tech/Vũ Khí Năng Lượng Định Hướng (DEW).md",
+    "science-tech/Khoa Học Xét Lại (Revisionist Science).md",
+    "science-tech/Pin Natri-ion.md",
+    "science-tech/Tần Số Schumann.md",
+    "crypto-finance/Tiền tiền tiền.md",
+    "crypto-finance/Tiền Pháp Định.md",
+    "esoterica/Manly P. Hall.md",
+    "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+    "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
+    "politics-conspiracy/Elite.md",
+    "mental-models/Individuation (Thành Toàn Bản Ngã).md",
+    "mental-models/Nguyên Mẫu (Archetypes).md",
+    "mental-models/Vô Thức Tập Thể.md",
+    "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+    "mental-models/Nhị Nguyên.md",
     "esoterica/Luân Hồi.md",
     "esoterica/Gnosis (Ngộ Đạo).md",
     "esoterica/Chu Kỳ Hoàng Đạo.md",
-    "science-tech/Pin Natri-ion.md",
-    "science-tech/Tần Số Schumann.md",
     "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
     "Sự Nhật Thể.md",
     "mental-models/Mô Hình Địa Tâm.md",
@@ -198,17 +211,6 @@
     "health/Su That Ve Benh Dai Va Vac Xin.md",
     "_inbox/Virus và Kiếp Tắt Dịch.md",
     "_inbox/Wikilinks.md",
-    "claude.md",
-    "_templates/README.md",
-    "_inbox/README.md",
-    "_docs/README.md",
-    "_inbox/Vô Thức Tập Thể (Akashic Records).md",
-    "index.md",
-    "temp.md",
-    "CLAUDE.md",
-    "README.md",
-    "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-    "INDEX.md",
     "quartz/static/giscus/light.css",
     "quartz/static/giscus/dark.css",
     "quartz/plugins/transformers/toc.ts",
@@ -221,8 +223,6 @@
     "quartz/plugins/transformers/latex.ts",
     "quartz/static/og-image.png",
     "quartz/static/icon.png",
-    "content/_templates/README.md",
-    "content/science-tech/Walter Russell.md",
     "content/assets/og-image.png",
     "assets/og-image.png",
     "Untitled.canvas",

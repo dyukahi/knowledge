@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nguyên Mẫu (Archetypes)
 aliases: ["Nguyên Mẫu"]
 date: 2026-04-07
