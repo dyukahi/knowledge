@@ -10,62 +10,89 @@ related:
 ---
 # Saturn Cube (Khối Lập Phương Sao Thổ)
 
-**Saturn Cube** là biểu tượng huyền học đại diện cho hệ thống kiểm soát không gian và thời gian trong thế giới vật chất. Trong nhiều truyền thống bí truyền, nó được liên kết với [[Ma Trận]] và sự kìm hãm tâm thức nhân loại.
+**Saturn Cube** là biểu tượng huyền học đại diện cho hệ thống kiểm soát không gian và thời gian trong thế giới vật chất. Liên kết với [[Ma Trận]] và sự kìm hãm tâm thức nhân loại.
 
-## Biểu tượng học Saturn
+*The Saturn Cube is an occult symbol representing the control system of space and time in the material world. Linked to [[Ma Trận|the Matrix]] and suppression of human consciousness.*
 
-### Sao Thổ trong thần thoại
-- **Roman**: Saturn = Thần Thời Gian (Cronos)
-- **Greek**: Kronos nuốt chửng con cái mình = Thời gian hủy diệt mọi thứ
-- **Occult**: Saturn = "Lord of the Rings" = Giới hạn, Boundary, Structure
+---
 
-### Hexagon bí ẩn tại cực bắc Sao Thổ
-NASA đã chụp được một **hexagon khổng lồ** (hình lục giác) ở cực bắc Sao Thổ - hiện tượng khí quyển mà khoa học chính thống vẫn chưa giải thích thỏa đáng.
+## Biểu tượng Saturn / Saturn Symbolism
 
-**Hexagon khi nhìn 2D = Cube khi nhìn 3D**
+### Thần thoại / Mythology
 
-Điều này đã sinh ra nhiều thuyết âm mưu và giải thích huyền học về "Saturn Cube" như một symbol của Ma Trận vũ trụ.
+| Tradition | Name | Meaning |
+|-----------|------|---------|
+| **Roman** | Saturn | God of Time / Thần Thời Gian |
+| **Greek** | Kronos | Devours children = Time destroys all / Nuốt con = Thời gian hủy diệt mọi thứ |
+| **Occult** | "Lord of the Rings" | Limits, boundaries, structure / Giới hạn, cấu trúc |
 
-## Saturn Cube trong văn hóa và tôn giáo
+### Hexagon Bí ẩn / Mysterious Hexagon
 
-### Kaaba (Islam)
-Viên đá đen hình khối vuông ở Mecca - điểm hành hương của hàng tỷ người Muslim. Một số nhà nghiên cứu bí truyền cho rằng đây là "Saturn worship" ẩn trong plain sight.
+NASA chụp được **hexagon khổng lồ** ở cực bắc Sao Thổ — khoa học chưa giải thích được.
 
-### Black Cube (Tefillin) - Do Thái giáo
-Chiếc hộp đen (Tefillin) đeo trên đầu khi cầu nguyện - một dạng "Saturn Cube" khác.
+*NASA captured a **massive hexagon** at Saturn's north pole — science can't explain it.*
 
-### Academic Cap (Mũ tốt nghiệp)
-Chiếc mũ vuông đen đội khi tốt nghiệp - "Saturn Cube" đặt trên đầu những người hoàn thành "indoctrination" của hệ thống giáo dục.
+> **Hexagon (2D) = Cube (3D)**
+
+---
+
+## Saturn Cube Khắp nơi / Everywhere
+
+| Symbol | Location | Interpretation |
+|--------|----------|----------------|
+| **Kaaba** | Mecca, Islam | Black cube / Khối đen thiêng |
+| **Tefillin** | Judaism | Black box on head / Hộp đen trên đầu |
+| **Academic Cap** | Graduation | Cube on head after "indoctrination" |
+| **Black Cube sculpture** | NYC, corporate buildings | Corporate worship? |
+
+---
 
 ## Saturn Matrix Theory
 
-Theo một số nhà nghiên cứu alternative:
+### Theo các Nhà nghiên cứu Alternative
 
-1. **Saturn phát ra tần số** ảnh hưởng đến Trái Đất và tâm thức con người
-2. **Moon như amplifier**: Mặt Trăng khuếch đại signal từ Saturn
-3. **Cube = Prison**: Khối lập phương là biểu tượng của giới hạn, nhà tù 3D
+| Claim | Description |
+|-------|-------------|
+| **Saturn broadcasts frequency** | Ảnh hưởng tâm thức Trái Đất / Affects Earth consciousness |
+| **Moon = amplifier** | Khuếch đại signal Saturn / Amplifies Saturn signal |
+| **Cube = Prison** | Biểu tượng nhà tù 3D / Symbol of 3D prison |
 
-### Liên hệ với Gematria
-Trong [[Gematria]], số **666** liên kết với Saturn:
-- Magic Square của Saturn có tổng các hàng = 15
-- Tổng tất cả các số trong square = 111 × 6 = 666
+### [[Gematria]] Connection
 
-## Cách "thoát" khỏi Saturn Cube?
+Saturn Magic Square:
+```
+4  9  2
+3  5  7
+8  1  6
+```
+- Each row = 15
+- Total = 45
+- 111 × 6 = **666**
 
-Theo các truyền thống huyền học:
-1. **Awareness**: Nhận biết về hệ thống kiểm soát là bước đầu tiên
-2. **Raise frequency**: Nâng cao tần số rung động vượt qua giới hạn 3D
-3. **Break programming**: Giải mã các patterns được cài đặt từ hệ thống giáo dục/media
-4. **Inner alchemy**: Chuyển hóa nội tại thông qua [[Tinh Khí Thần]]
+---
+
+## Cách "Thoát" / How to "Escape"
+
+Theo truyền thống huyền học / According to occult traditions:
+
+| Step | Method |
+|------|--------|
+| **1. Awareness** | Nhận biết hệ thống / Recognize the system |
+| **2. Raise frequency** | Nâng tần số vượt 3D / Raise vibration beyond 3D |
+| **3. Break programming** | Giải mã patterns / Decode implanted patterns |
+| **4. Inner alchemy** | Chuyển hóa nội tại / Internal transformation |
+
+---
 
 ## Related
 
-### Huyền học & Biểu tượng
-- [[Ma Trận]] — Hệ thống kiểm soát đa chiều
-- [[Gematria]] — Hệ thống số học bí truyền
-- [[Biểu Tượng Baphomet]] — Một biểu tượng huyền học khác
+### Symbolism / Biểu tượng
+- [[Ma Trận]] — Control system
+- [[Gematria]] — Number mysticism
+- [[Biểu Tượng Baphomet]]
 
-### Thoát khỏi kiểm soát
-- [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]] — Chiến lược thức tỉnh
-- [[Chu Kỳ Hoàng Đạo]] — Các chu kỳ vũ trụ lớn
-- [[Gnosis (Ngộ Đạo)]] — Con đường tri thức nội tại
+### Escape / Thoát
+- [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
+- [[Gnosis (Ngộ Đạo)]] — Inner knowledge
+- [[Chu Kỳ Hoàng Đạo]] — Cosmic cycles
+- [[Tinh Khí Thần]] — Inner alchemy
