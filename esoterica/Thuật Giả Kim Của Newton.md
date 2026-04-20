@@ -1,17 +1,122 @@
-﻿---
+---
 title: "Thuật Giả Kim Của Newton"
 date: 2026-04-07
 tags: [esoterica]
 status: refined
 ---
 # Thuật Giả Kim Của Newton
-*Tags: #history #alchemy #science*
 
-**Thuật Giả Kim Của Newton** chỉ ra một sự thật lịch sử bị che giấu: Sir Isaac Newton - người được nền giáo dục hiện đại tôn vinh là tượng đài của vật lý và toán học (với định luật vạn vật hấp dẫn) - thực chất dành phần lớn cuộc đời và tâm huyết của mình cho Huyền học (Occult) và Thuật Giả Kim (Alchemy).
+**Sir Isaac Newton** (1642-1727) — "cha đẻ của vật lý hiện đại" — thực chất dành phần lớn cuộc đời cho Huyền học (Occult) và Thuật Giả Kim (Alchemy), không phải khoa học duy vật.
 
-Số lượng tài liệu ông viết về Giả kim thuật và Thần học nhiều hơn toàn bộ các công trình khoa học cộng lại. Việc hệ thống giáo dục (Điều mà nền giáo dục và chính phủ không dạy bạn) cố tình cắt xén khía cạnh này của Newton nhằm củng cố mô hình khoa học duy vật (Materialism) và gạt bỏ sự tồn tại của Năng lượng tinh tế/Aether.
+## Sự Thật Bị Giấu
 
-Khái niệm này là bằng chứng đanh thép ủng hộ phong trào Khoa Học Xét Lại, kêu gọi việc đánh giá lại toàn bộ các 'chân lý' vật lý hiện đại (bao gồm cả Lực hấp dẫn vs. Lực Tĩnh Điện).
+### Số lượng tài liệu
+- **Alchemy**: 1 triệu+ từ
+- **Theology**: 1.3 triệu+ từ
+- **Science**: ~500,000 từ
+- Occult writings > Science writings!
+
+### Keynes Discovery (1936)
+- John Maynard Keynes mua Newton manuscripts
+- Shocked: "Newton was not the first of the age of reason..."
+- "...he was the last of the magicians."
+
+### Why Hidden?
+- [[Điều mà nền giáo dục và chính phủ không dạy bạn]]
+- Materialism needs heroes
+- Can't have science icon be mystic
+- Narrative control
+
+## Newton's Alchemy
+
+### Goals
+- Philosopher's Stone (transmutation)
+- Elixir of Life
+- Understanding creation
+- Spiritual purification
+
+### Methods
+- Lab experiments (actual chemistry)
+- Symbolic interpretation
+- Ancient text study
+- Mercury, sulfur, salt
+
+### His Beliefs
+- God created through alchemy
+- Matter is alive
+- Universal spirit animates all
+- [[Năng Lượng Aether]] is real
+
+## Newton's Hidden Theology
+
+### Anti-Trinitarian
+- Rejected Trinity doctrine
+- Considered heresy in his time
+- Secret Arian Christian
+- Would have been expelled from Cambridge
+
+### Biblical Chronology
+- Wrote extensively on prophecy
+- Calculated end times
+- Studied Temple of Solomon
+- Sacred geometry
+
+### Prisca Sapientia
+- Believed in "ancient wisdom"
+- Greeks, Egyptians had true knowledge
+- Modern science = rediscovery
+- Not "progress" but recovery
+
+## Implications for Modern Science
+
+### Gravity vs Electrostatics
+Newton himself was uncomfortable:
+> "That gravity should be innate, inherent, and essential to matter... is to me so great an absurdity."
+
+- He knew "action at a distance" was problematic
+- Sought mechanical explanation
+- Never found one
+- [[Khoa Học Xét Lại (Revisionist Science)]]
+
+### Aether Connection
+- Newton believed in aether
+- Medium for gravity?
+- Later "disproven" (Michelson-Morley)
+- But was it really?
+- [[Năng Lượng Aether]]
+
+## What Education Doesn't Teach
+
+### The Curated Newton
+- Genius mathematician ✓
+- Discoverer of gravity ✓
+- Prism/light experiments ✓
+- **Alchemist** ✗
+- **Mystic** ✗
+- **Heretic** ✗
+
+### Why It Matters
+- Science isn't purely rational
+- Greatest minds were mystics
+- Intuition + logic = discovery
+- We're missing half the picture
+
+## Other "Hidden" Scientist-Mystics
+
+| Scientist | Hidden Side |
+|-----------|-------------|
+| Newton | Alchemy, theology |
+| [[Nikola Tesla (Tần Số và Rung Động)]] | Cosmic consciousness |
+| [[Walter Russell]] | Mystical illumination |
+| Einstein | "Cosmic religious feeling" |
+| Kepler | Sacred geometry |
+| Paracelsus | Alchemy, magic |
 
 ## Related
+
 - [[Điều mà nền giáo dục và chính phủ không dạy bạn]]
+- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Năng Lượng Aether]] — What Newton believed in
+- [[Khoa Học Chân Chính và Thượng Đế]]
+- [[Walter Russell]] — Modern mystic-scientist
+- [[Nikola Tesla (Tần Số và Rung Động)]]
