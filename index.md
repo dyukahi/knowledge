@@ -1,4 +1,4 @@
-﻿---
+---
 title: Knowledge Base Index
 tags: [index, navigation]
 ---
@@ -7,63 +7,67 @@ tags: [index, navigation]
 
 Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu.
 
+*Welcome to the knowledge vault — a collection of independent research on Revisionist Science, spirituality, finance, and topics hidden by the mainstream.*
+
 > *"Sự thật không cần bạn tin. Nó chỉ cần bạn tìm kiếm."*
+> *"Truth doesn't need your belief. It only needs your search."*
 
 ---
 
-## 📊 Tổng Quan
+## 📊 Overview / Tổng Quan
 
-| Danh Mục | Số Bài | Mô Tả |
-|----------|--------|-------|
-| 🔮 **Esoterica** | 49 | Tâm linh, huyền học, nền văn minh cổ đại |
-| 🏥 **Health** | 21 | Y tế tự nhiên, anti-matrix health |
-| 🧩 **Mental Models** | 19 | Mô hình tư duy, tâm lý học |
-| 🏛️ **Politics & Conspiracy** | 19 | Chính trị, thuyết âm mưu, Elite |
-| 🔬 **Science & Tech** | 16 | Khoa học xét lại, công nghệ |
-| 💰 **Crypto & Finance** | 9 | Tiền tệ, Bitcoin, tài chính |
+| Category / Danh Mục | Count / Số Bài | Description / Mô Tả |
+|---------------------|----------------|---------------------|
+| 🔮 **Esoterica** | 49 | Spirituality, occult, ancient civilizations / Tâm linh, huyền học, nền văn minh cổ đại |
+| 🏥 **Health** | 21 | Natural medicine, anti-matrix health / Y tế tự nhiên |
+| 🧩 **Mental Models** | 19 | Thinking frameworks, psychology / Mô hình tư duy, tâm lý học |
+| 🏛️ **Politics & Conspiracy** | 19 | Politics, conspiracy theories, Elite / Chính trị, thuyết âm mưu |
+| 🔬 **Science & Tech** | 16 | Revisionist science, technology / Khoa học xét lại, công nghệ |
+| 💰 **Crypto & Finance** | 9 | Currency, Bitcoin, finance / Tiền tệ, Bitcoin, tài chính |
 
-**Tổng cộng: 133 bài viết**
+**Total / Tổng cộng: 135 articles / bài viết**
 
 ---
 
-## ⭐ Bài Viết Nổi Bật
+## ⭐ Featured Articles / Bài Viết Nổi Bật
 
-### 📌 Series: Gen Z & Agenda 2030 (MỚI)
+### 📌 Series: Gen Z & Agenda 2030 (NEW / MỚI)
 
-Phân tích sâu về cách thế hệ Gen Z đang được "thiết kế" để embrace Great Reset:
+Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
+*Phân tích sâu về cách thế hệ Gen Z đang được "thiết kế" để embrace Great Reset.*
 
 1. **[[Gen Z - Phân Tích Phản Biện]]** — Master article
-2. **[[Gen Z và CBDC - Programmable Money Psychology]]** — Tiền lập trình được
+2. **[[Gen Z và CBDC - Programmable Money Psychology]]** — Programmable money / Tiền lập trình
 3. **[[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]** — Information warfare
 4. **[[UBI Conditioning - The End of Work Ethic]]** — End of work ethic
 5. **[[Digital ID Normalization - From Instagram to Government ID]]** — Surveillance normalization
 6. **[[Climate Anxiety as Control - Fear-Based Compliance]]** — Fear-based compliance
 7. **[[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]]** — Human enhancement
 
-### 📌 Core Articles
+### 📌 Core Articles / Bài Cốt Lõi
 
-- **[[Báo Cáo 2030]]** — Blueprint của Elite cho tương lai nhân loại
-- **[[Khoa Học Xét Lại (Revisionist Science)]]** — Tại sao cần xét lại khoa học mainstream
-- **[[Ma Trận]]** — Hiểu về hệ thống kiểm soát
-- **[[Elite]]** — Ai đang điều khiển thế giới?
-- **[[Bitcoin]]** — Lối thoát khỏi hệ thống tài chính
+- **[[Báo Cáo 2030]]** — Elite's blueprint for humanity / Blueprint của Elite cho tương lai nhân loại
+- **[[Khoa Học Xét Lại (Revisionist Science)]]** — Why we need to revisit mainstream science / Tại sao cần xét lại khoa học
+- **[[Ma Trận]]** — Understanding the control system / Hiểu về hệ thống kiểm soát
+- **[[Elite]]** — Who rules the world? / Ai đang điều khiển thế giới?
+- **[[Bitcoin]]** — Escape from the financial system / Lối thoát khỏi hệ thống tài chính
 
-### 📌 Esoterica Essentials
+### 📌 Esoterica Essentials / Huyền Học Cơ Bản
 
-- **[[Tartaria]]** — Nền văn minh bị xóa sổ
-- **[[Annunaki]]** — Nguồn gốc thực sự của loài người?
-- **[[Tâm Lý Học Jung]]** — Vô thức tập thể và Archetypes
-- **[[Monad]]** — Triết học về bản thể
+- **[[Tartaria]]** — The erased civilization / Nền văn minh bị xóa sổ
+- **[[Annunaki]]** — True origin of humanity? / Nguồn gốc thực sự của loài người?
+- **[[Tâm Lý Học Jung]]** — Collective unconscious and Archetypes / Vô thức tập thể
+- **[[Monad]]** — Philosophy of being / Triết học về bản thể
 
-### 📌 Health & Wellness
+### 📌 Health & Wellness / Sức Khỏe
 
-- **[[Y Tế Tự Nhiên (Anti-Matrix Health)]]** — Chữa lành ngoài hệ thống
+- **[[Y Tế Tự Nhiên (Anti-Matrix Health)]]** — Healing outside the system / Chữa lành ngoài hệ thống
 - **[[Thuyết Vi Sinh Nội Sinh]]** — Terrain theory vs Germ theory
 - **[[René Quinton và Huyết Tương Biển]]** — Plasma Quinton
 
 ---
 
-## 🗂️ Duyệt Theo Danh Mục
+## 🗂️ Browse by Category / Duyệt Theo Danh Mục
 
 ### 💰 Crypto & Finance
 - [[Bitcoin]] | [[Privacy]] | [[Tiền Giấy - Tiền Mặt]]
@@ -100,33 +104,35 @@ Phân tích sâu về cách thế hệ Gen Z đang được "thiết kế" để
 
 ---
 
-## 🧭 Cách Điều Hướng
+## 🧭 Navigation Guide / Cách Điều Hướng
 
-1. **Bắt đầu từ đâu?**
-   - Mới hoàn toàn → Đọc [[Khoa Học Xét Lại (Revisionist Science)]]
-   - Quan tâm 2030 → Đọc [[Báo Cáo 2030]] rồi series Gen Z
-   - Quan tâm tâm linh → Bắt đầu với [[Monad]] hoặc [[Tâm Lý Học Jung]]
+1. **Where to start? / Bắt đầu từ đâu?**
+   - Complete newbie → Read [[Khoa Học Xét Lại (Revisionist Science)]]
+   - Interested in 2030 → Read [[Báo Cáo 2030]] then Gen Z series
+   - Interested in spirituality → Start with [[Monad]] or [[Tâm Lý Học Jung]]
 
-2. **Sử dụng links**
-   - Mỗi bài có section `## Related` ở cuối
-   - Click để explore theo chủ đề
+2. **Use links / Sử dụng links**
+   - Each article has `## Related` section at the end
+   - Click to explore by topic
 
 3. **Tags**
-   - Mỗi bài được tag theo category
-   - Dùng search với tag để filter
+   - Each article is tagged by category
+   - Use search with tags to filter
 
 ---
 
-## 🔄 Cập Nhật Gần Đây
+## 🔄 Recent Updates / Cập Nhật Gần Đây
 
-**Tháng 4/2026:**
-- ✨ Thêm 7 bài series Gen Z & Agenda 2030
-- 🔗 Cập nhật cross-links giữa các bài
-- 🏷️ Fix tags cho 100+ bài viết
-- 📑 Tạo INDEX.md (bài này)
+**April 2026 / Tháng 4/2026:**
+- ✨ Added 7 articles in Gen Z & Agenda 2030 series
+- 🌐 Converting all articles to bilingual (Vietnamese + English)
+- 🔗 Updated cross-links between articles
+- 🏷️ Fixed tags for 100+ articles
+- 📑 Created INDEX.md (this page)
 
 ---
 
+> *"In the age of information, ignorance is a choice."*
 > *"Trong thời đại thông tin, sự thiếu hiểu biết là một lựa chọn."*
 
 ---

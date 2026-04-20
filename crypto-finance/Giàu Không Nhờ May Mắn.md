@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Giàu Không Nhờ May Mắn"
 date: 2026-04-07
 tags: [crypto-finance]
