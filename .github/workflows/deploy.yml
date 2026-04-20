@@ -1,4 +1,4 @@
-﻿name: Deploy Knowledge Base
+name: Deploy Knowledge Base
 on:
   push:
     branches:
@@ -19,18 +19,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           path: content
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           repository: jackyzha0/quartz
           path: quartz
           ref: v4
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 22
 
@@ -54,7 +54,7 @@ jobs:
         run: npx quartz build
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: quartz/public
 
@@ -67,5 +67,5 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
