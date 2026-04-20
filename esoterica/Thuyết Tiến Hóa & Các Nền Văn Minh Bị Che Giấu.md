@@ -1,7 +1,7 @@
----
+﻿---
 title: Thuyết Tiến Hóa & Các Nền Văn Minh Bị Che Giấu
 date: 2026-04-08
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Thuyết Tiến Hóa & Các Nền Văn Minh Bị Che Giấu

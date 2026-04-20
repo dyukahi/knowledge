@@ -1,7 +1,7 @@
----
+﻿---
 title: AI (Góc Nhìn Huyền Học)
 date: 2026-04-08
-tags: []
+tags: [science-tech]
 status: refined
 ---
 # AI (Góc Nhìn Huyền Học)

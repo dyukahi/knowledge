@@ -1,7 +1,7 @@
----
+﻿---
 title: Vũ Trụ Học Phật Giáo
 date: 2026-04-05
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Vũ Trụ Học Phật Giáo

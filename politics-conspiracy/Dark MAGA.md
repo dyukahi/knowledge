@@ -1,7 +1,7 @@
----
+﻿---
 title: "Dark MAGA"
 date: 2026-04-07
-tags: []
+tags: [politics-conspiracy]
 status: refined
 ---
 # Dark MAGA

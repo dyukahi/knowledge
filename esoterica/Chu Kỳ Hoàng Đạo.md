@@ -1,7 +1,7 @@
----
+﻿---
 title: Chu Kỳ Hoàng Đạo
 date: 2026-04-08
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Chu Kỳ Hoàng Đạo (Zodiac Cycle)

@@ -1,8 +1,8 @@
----
+﻿---
 title: Bão Từ Bắc Cực vs Bão Mặt Trời
 aliases: ["Bão Từ"]
 date: 2026-04-08
-tags: []
+tags: [politics-conspiracy]
 status: refined
 ---
 # Bão Từ Bắc Cực vs Bão Mặt Trời

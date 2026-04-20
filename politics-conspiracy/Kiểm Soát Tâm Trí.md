@@ -1,7 +1,7 @@
----
+﻿---
 title: Kiểm Soát Tâm Trí
 date: 2026-04-07
-tags: []
+tags: [politics-conspiracy]
 status: refined
 ---
 # Kiểm Soát Tâm Trí

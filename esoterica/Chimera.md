@@ -1,8 +1,8 @@
----
+﻿---
 title: "Chimera (Thể Trộn Lẫn)"
 aliases: ["Chimera (Thể Trộn Lẫn)"]
 date: 2026-04-07
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Chimera (Thể Trộn Lẫn)

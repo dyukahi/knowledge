@@ -1,7 +1,7 @@
----
+﻿---
 title: "Thuật Giả Kim Của Newton"
 date: 2026-04-07
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Thuật Giả Kim Của Newton

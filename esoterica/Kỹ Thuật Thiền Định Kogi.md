@@ -1,7 +1,7 @@
----
+﻿---
 title: Kỹ Thuật Thiền Định Kogi
 date: 2026-04-08
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Kỹ Thuật Thiền Định Kogi

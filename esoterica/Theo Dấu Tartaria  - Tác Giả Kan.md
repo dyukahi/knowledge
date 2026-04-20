@@ -1,7 +1,7 @@
----
+﻿---
 title: Theo Dấu Tartaria - Tác Giả Kan
 date: 2026-04-07
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan

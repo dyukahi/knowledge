@@ -1,7 +1,7 @@
----
+﻿---
 title: Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận
 date: 2026-04-08
-tags: []
+tags: [health]
 status: refined
 ---
 # Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận

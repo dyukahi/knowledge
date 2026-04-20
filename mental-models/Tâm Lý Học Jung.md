@@ -1,7 +1,7 @@
----
+﻿---
 title: Tâm Lý Học Jung
 date: 2026-04-12
-tags: []
+tags: [mental-model]
 status: refined
 ---
 # Tâm Lý Học Jung

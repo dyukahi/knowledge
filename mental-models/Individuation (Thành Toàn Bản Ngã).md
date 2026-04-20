@@ -1,8 +1,8 @@
----
+﻿---
 title: Individuation (Thành Toàn Bản Ngã)
 aliases: ["Individuation"]
 date: 2026-04-12
-tags: []
+tags: [mental-model]
 status: refined
 ---
 # Individuation (Thành Toàn Bản Ngã)

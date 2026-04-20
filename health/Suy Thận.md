@@ -1,8 +1,8 @@
----
+﻿---
 title: "Suy Thận (Kidney Failure)"
 aliases: ["Suy Thận (Kidney Failure)"]
 date: 2026-04-08
-tags: []
+tags: [health]
 status: refined
 ---
 # Suy Thận (Kidney Failure)

@@ -1,7 +1,7 @@
----
+﻿---
 title: Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức
 date: 2026-04-08
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức

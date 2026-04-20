@@ -1,7 +1,7 @@
----
+﻿---
 title: "Atula (Asura)"
 date: 2026-04-08
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Atula (Asura)

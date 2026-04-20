@@ -1,7 +1,7 @@
----
+﻿---
 title: Mental Model - Bản Đồ Thoát Khỏi Ma Trận
 date: 2026-04-07
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Mental Model: Bản Đồ Thoát Khỏi Ma Trận (Grand Synthesis)

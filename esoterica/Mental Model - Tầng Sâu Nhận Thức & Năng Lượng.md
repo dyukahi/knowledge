@@ -1,7 +1,7 @@
----
+﻿---
 title: Mental Model - Tầng Sâu Nhận Thức & Năng Lượng
 date: 2026-04-08
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Mental Model - Tầng Sâu Nhận Thức & Năng Lượng

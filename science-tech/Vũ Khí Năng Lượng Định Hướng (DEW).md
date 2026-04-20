@@ -1,7 +1,7 @@
----
+﻿---
 title: Vũ Khí Năng Lượng Định Hướng (DEW)
 date: 2026-04-07
-tags: []
+tags: [science-tech]
 status: refined
 ---
 # Vũ Khí Năng Lượng Định Hướng (DEW)

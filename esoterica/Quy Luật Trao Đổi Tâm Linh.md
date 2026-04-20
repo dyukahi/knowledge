@@ -1,7 +1,7 @@
----
+﻿---
 title: Quy Luật Trao Đổi Tâm Linh
 date: 2026-04-07
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Quy Luật Trao Đổi Tâm Linh

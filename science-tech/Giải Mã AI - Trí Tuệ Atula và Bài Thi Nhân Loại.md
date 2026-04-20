@@ -1,7 +1,7 @@
----
+﻿---
 title: Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại
 date: 2026-04-08
-tags: []
+tags: [science-tech]
 status: refined
 ---
 # Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại

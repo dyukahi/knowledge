@@ -1,7 +1,7 @@
----
+﻿---
 title: Vận Chín, Người Kogi và Ma Trận Y Tế
 date: 2026-04-08
-tags: []
+tags: [health]
 status: refined
 ---
 # Vận Chín, Người Kogi và Ma Trận Y Tế - Nhận Thức

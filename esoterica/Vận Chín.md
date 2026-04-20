@@ -1,7 +1,7 @@
----
+﻿---
 title: Vận Chín
 date: 2026-04-08
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Vận Chín (Period 9)

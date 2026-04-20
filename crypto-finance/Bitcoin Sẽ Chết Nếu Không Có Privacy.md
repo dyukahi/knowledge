@@ -1,8 +1,12 @@
 ﻿---
-title: Bitcoin Sẽ Chết Nếu Không Có Privacy
+title: "Bitcoin Sẽ Chết Nếu Không Có Privacy"
 date: 2026-04-07
-tags: []
+tags: [crypto-finance]
 status: refined
+related:
+  - "[[Bitcoin]]"
+  - "[[Privacy]]"
+  - "[[Tiền Giấy - Tiền Mặt]]"
 ---
 # Bitcoin sẽ chết nếu không có... Privacy
 

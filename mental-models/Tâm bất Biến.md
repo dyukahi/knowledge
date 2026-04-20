@@ -1,7 +1,7 @@
----
+﻿---
 title: Tâm Bất Biến
 date: 2026-04-08
-tags: []
+tags: [mental-model]
 status: refined
 ---
 # Tâm Bất Biến (Equanimity)

@@ -1,7 +1,7 @@
----
+﻿---
 title: Giải Mã Thiên Tai, Long Mạch và Triết Học Monad
 date: 2026-04-08
-tags: []
+tags: [science-tech]
 status: refined
 ---
 # Giải Mã Thiên Tai, Long Mạch và Triết Học Monad

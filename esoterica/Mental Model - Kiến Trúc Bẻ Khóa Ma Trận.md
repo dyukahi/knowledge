@@ -1,7 +1,7 @@
----
+﻿---
 title: Mental Model - Kiến Trúc Bẻ Khóa Ma Trận
 date: 2026-04-08
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức

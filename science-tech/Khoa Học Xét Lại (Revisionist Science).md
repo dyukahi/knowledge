@@ -1,8 +1,8 @@
----
+﻿---
 title: Khoa Học Xét Lại
 aliases: ["Khoa Học Xét Lại", "Khoa Học Xét Lại (Revisionist Science)"]
 date: 2026-04-05
-tags: []
+tags: [science-tech]
 status: refined
 ---
 # Khoa Học Xét Lại (Revisionist Science)

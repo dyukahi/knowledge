@@ -1,12 +1,16 @@
 ---
 title: Sự thật về ma túy
 date: 2026-04-07
-tags: []
+tags: [politics-conspiracy]
 status: refined
+related:
+  - "[[Kiểm Soát Tâm Trí]]"
+  - "[[Elite]]"
+  - "[[Thông Minh]]"
 ---
 # Sự thật về ma túy
 
-Bài viết này trình bày một góc nhìn phản biện về ma túy, nghiện, và Cuộc chiến chống ma túy, kêu gọi người đọc cởi bỏ định kiến và xem xét vấn đề từ nhiều phía. Tác giả lập luận rằng những hiểu biết phổ thông về ma túy phần lớn là sai lầm và [[Cuộc chiến chống cuộc chiến chống ma túy toàn cầu đã thất bại.
+Bài viết này trình bày một góc nhìn phản biện về ma túy, nghiện, và Cuộc chiến chống ma túy, kêu gọi người đọc cởi bỏ định kiến và xem xét vấn đề từ nhiều phía. Tác giả lập luận rằng những hiểu biết phổ thông về ma túy phần lớn là sai lầm và cuộc chiến chống ma túy toàn cầu đã thất bại.
 
 **CẢNH BÁO:** Tác giả nhấn mạnh không khuyến khích sử dụng chất kích thích khi chưa có đủ hiểu biết đúng đắn về tác hại và tác dụng của chúng.
 

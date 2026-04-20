@@ -1,7 +1,7 @@
----
+﻿---
 title: "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí"
 date: 2026-04-07
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # 33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí

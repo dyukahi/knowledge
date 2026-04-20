@@ -1,7 +1,7 @@
----
+﻿---
 title: Luân Hồi
 date: 2026-04-08
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Luân Hồi (Samsara)

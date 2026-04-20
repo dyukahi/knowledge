@@ -1,7 +1,7 @@
----
+﻿---
 title: Virus và Kiếp Tật Dịch
 date: 2026-04-08
-tags: []
+tags: [health]
 status: refined
 ---
 # Virus và Kiếp Tật Dịch

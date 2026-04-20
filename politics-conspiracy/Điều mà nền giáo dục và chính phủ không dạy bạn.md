@@ -1,7 +1,7 @@
----
+﻿---
 title: Điều mà nền giáo dục và chính phủ không dạy bạn
 date: 2026-04-07
-tags: []
+tags: [politics-conspiracy]
 status: refined
 ---
 # Điều mà nền giáo dục và chính phủ không dạy bạn

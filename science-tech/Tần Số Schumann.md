@@ -1,7 +1,7 @@
----
+﻿---
 title: "Tần Số Schumann (Schumann Resonance)"
 date: 2026-04-08
-tags: []
+tags: [science-tech]
 status: refined
 ---
 # Tần Số Schumann (Schumann Resonance)

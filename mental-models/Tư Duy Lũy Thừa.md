@@ -1,7 +1,7 @@
----
+﻿---
 title: "Tư Duy Lũy Thừa"
 date: 2026-04-07
-tags: []
+tags: [mental-model]
 status: refined
 ---
 # Tư Duy Lũy Thừa

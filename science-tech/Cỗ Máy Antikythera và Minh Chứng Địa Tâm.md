@@ -1,7 +1,7 @@
----
+﻿---
 title: Cỗ Máy Antikythera và Minh Chứng Địa Tâm
 date: 2026-04-08
-tags: []
+tags: [science-tech]
 status: refined
 ---
 # Cỗ Máy Antikythera và Minh Chứng Địa Tâm

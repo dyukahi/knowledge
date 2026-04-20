@@ -1,7 +1,7 @@
----
+﻿---
 title: Nhân Quả
 date: 2026-04-08
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Nhân Quả (Karma)

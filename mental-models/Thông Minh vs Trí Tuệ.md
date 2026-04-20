@@ -1,7 +1,7 @@
----
+﻿---
 title: Thông Minh vs Trí Tuệ
 date: 2026-04-08
-tags: []
+tags: [mental-model]
 status: refined
 ---
 # Thông Minh vs Trí Tuệ

@@ -1,8 +1,8 @@
----
+﻿---
 title: Vô Thức Tập Thể
 aliases: ["Vô Thức Tập Thể (Akashic Records)"]
 date: 2026-04-07
-tags: []
+tags: [mental-model]
 status: refined
 ---
 # Vô Thức Tập Thể

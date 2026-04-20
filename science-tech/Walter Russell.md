@@ -1,8 +1,8 @@
----
+﻿---
 title: "Walter Russell"
 aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
 date: 2026-04-08
-tags: []
+tags: [science-tech]
 status: refined
 ---
 # Walter Russell

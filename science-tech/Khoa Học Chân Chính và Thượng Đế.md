@@ -1,7 +1,7 @@
----
+﻿---
 title: Khoa Học Chân Chính và Thượng Đế
 date: 2026-04-08
-tags: []
+tags: [science-tech]
 status: refined
 ---
 # Khoa Học Chân Chính và Thượng Đế

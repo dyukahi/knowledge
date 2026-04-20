@@ -1,7 +1,7 @@
----
+﻿---
 title: Mental Model - Ma Trận Kiểm Soát Kép
 date: 2026-04-07
-tags: []
+tags: [politics-conspiracy]
 status: refined
 ---
 # Mental Model: Ma Trận Kiểm Soát Kép & Con Đường Thức Tỉnh

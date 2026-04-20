@@ -1,7 +1,7 @@
----
+﻿---
 title: "Long Mạch (Dragon Veins)"
 date: 2026-04-08
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Long Mạch (Dragon Veins)

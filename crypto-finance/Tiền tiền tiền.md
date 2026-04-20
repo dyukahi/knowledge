@@ -1,8 +1,11 @@
 ---
 title: "Tiền, tiền, tiền... (P.1)"
 date: 2026-04-07
-tags: []
+tags: [crypto-finance]
 status: refined
+related:
+  - "[[Tiền Giấy - Tiền Mặt]]"
+  - "[[Bitcoin]]"
 ---
 # Tiền, tiền, tiền... (P.1)
 
@@ -45,14 +48,14 @@ Bài viết này (Phần 1) sẽ đi sâu vào các chủ đề:
 
 Để giải quyết các vấn đề trên, các kim loại hiếm như Vàng, bạc, đồng đã được sử dụng. Chúng có tính lưu trữ giá trị, bền, dễ chia nhỏ. Tuy nhiên, khi được khai thác và chia nhỏ một cách thô sơ, chúng lại thiếu **Tính thay thế (Fungible)** do mỗi mẩu kim loại có giá trị khác nhau.
 
-* **Sự xuất hiện của tiền xu**: Để tạo ra tính thay thế, con người đã phát minh ra [[Tiền xu – những đồng tiền kim loại được đúc giống hệt nhau về trọng lượng và độ tinh khiết.
+* **Sự xuất hiện của tiền xu**: Để tạo ra tính thay thế, con người đã phát minh ra tiền xu – những đồng tiền kim loại được đúc giống hệt nhau về trọng lượng và độ tinh khiết.
  * Tiền xu được sản xuất đầu tiên ở Ấn Độ, Trung Quốc và các vùng quanh Biển Aegean (700-500 TCN).
  * Tiền tệ chính thức đầu tiên được đúc bởi Vua Alyattes của Lydia (Thổ Nhĩ Kỳ ngày nay).
  * Vàng bạc trở thành hình thức tiền tệ phổ biến nhất do chúng khan hiếm, đẹp mắt và giữ được giá trị vốn có.
 
 ### 3. Sự ra đời của tiền giấy (100 SCN – Hiện tại)
 
-Mặc dù giải quyết được nhiều vấn đề, [[Tiền|tiền xu vẫn có nhược điểm: nặng nề, cồng kềnh, và nguồn cung bị giới hạn bởi lượng kim loại quý khai thác được.
+Mặc dù giải quyết được nhiều vấn đề, tiền xu vẫn có nhược điểm: nặng nề, cồng kềnh, và nguồn cung bị giới hạn bởi lượng kim loại quý khai thác được.
 
 * **Phát minh tại Trung Quốc (100 SCN)**: Người Trung Quốc đã phát minh ra mẫu Tiền giấy đầu tiên. Thay vì mang kim loại quý, người dân gửi chúng vào ngân khố quốc gia và nhận lại một tờ giấy ghi chú xác nhận giá trị. Tờ giấy này được đảm bảo bởi tài sản thực và có thể dùng để trao đổi, mua bán.
 * **Lan truyền sang Châu Âu**: Vào thế kỷ 13, Marco Polo đã mang ý tưởng về tiền giấy từ Trung Quốc trở lại châu Âu.

@@ -1,7 +1,7 @@
----
+﻿---
 title: Trí Tuệ
 date: 2026-04-08
-tags: []
+tags: [mental-model]
 status: refined
 ---
 # Trí Tuệ (Wisdom)

@@ -1,8 +1,12 @@
 ---
-title: Giàu Không Nhờ May Mắn
+title: "Giàu Không Nhờ May Mắn"
 date: 2026-04-07
-tags: []
+tags: [crypto-finance]
 status: refined
+related:
+  - "[[Tư Duy Luỹ Thừa]]"
+  - "[[Tiền Giấy - Tiền Mặt]]"
+  - "[[Sợ hãi - Tham Lam – Cân bằng]]"
 ---
 # Giàu Không Nhờ May Mắn (Naval Ravikant)
 

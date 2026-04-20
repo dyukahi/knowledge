@@ -1,7 +1,7 @@
----
+﻿---
 title: "Sự Thật Ẩn Sau Con Người Bạn (Khoa Học - Tâm Linh)"
 date: 2026-04-07
-tags: []
+tags: [mental-model]
 status: refined
 ---
 # Sự Thật Ẩn Sau Con Người Bạn (Khoa Học - Tâm Linh)

@@ -1,7 +1,7 @@
----
+﻿---
 title: Thực Thể Cõi Trung Giới (Astral Entities)
 date: 2026-04-07
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Thực Thể Cõi Trung Giới (Astral Entities)

@@ -1,7 +1,7 @@
----
+﻿---
 title: Công Thức Chữa Lành Tự Nhiên
 date: 2026-04-08
-tags: []
+tags: [health]
 status: refined
 ---
 # Công Thức Chữa Lành Tự Nhiên (Master Note)

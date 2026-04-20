@@ -1,7 +1,7 @@
----
+﻿---
 title: Chia Tách Bởi Nhị Nguyên
 date: 2026-04-07
-tags: []
+tags: [mental-model]
 status: refined
 ---
 # Tóm tắt: Chia tách bởi nhị nguyên

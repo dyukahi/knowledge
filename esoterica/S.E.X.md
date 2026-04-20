@@ -1,8 +1,8 @@
----
+﻿---
 title: "S.E.X (Sacred Energy eXchange)"
 aliases: ["Trao Đổi Năng Lượng Thiêng Liêng", "S.E.X (Sacred Energy eXchange)"]
 date: 2026-04-07
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # S.E.X (Sacred Energy eXchange)

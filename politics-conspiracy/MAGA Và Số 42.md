@@ -1,7 +1,7 @@
----
+﻿---
 title: MAGA Và Số 42
 date: 2026-04-07
-tags: []
+tags: [politics-conspiracy]
 status: refined
 ---
 # MAGA Và Số 42

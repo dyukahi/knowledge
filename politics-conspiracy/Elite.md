@@ -1,15 +1,19 @@
 ---
 title: "Elite (Giới Tinh Hoa)"
 date: 2026-04-12
-tags: []
+tags: [politics-conspiracy]
 status: refined
+related:
+  - "[[Báo Cáo 2030]]"
+  - "[[Ma Trận]]"
+  - "[[Tiền Giấy - Tiền Mặt]]"
 ---
 # Elite (Giới Tinh Hoa)
 
 Trong ngữ cảnh của kho tri thức, **Elite** (hay Giới tinh hoa) đại diện cho tầng lớp chóp bu thao túng các hệ thống chính trị, tài chính và truyền thông toàn cầu. Tầng lớp này thường được nhắc đến qua các khái niệm đồng nghĩa như Cabal (Thế Lực Ngầm).
 
 ## Công cụ kiểm soát
-Họ duy trì quyền lực thông qua "Ma Trận Kiểm Soát Kép", với công cụ mạnh mẽ nhất là hệ thống tiền pháp định (Fiat) - tức là [[Tiền Giấy - Tiền Mặt. Thông qua việc phát hành nợ và kiểm soát lạm phát, họ trích xuất năng lượng lao động của nhân loại.
+Họ duy trì quyền lực thông qua "Ma Trận Kiểm Soát Kép", với công cụ mạnh mẽ nhất là hệ thống tiền pháp định (Fiat) - tức là [[Tiền Giấy - Tiền Mặt]]. Thông qua việc phát hành nợ và kiểm soát lạm phát, họ trích xuất năng lượng lao động của nhân loại.
 
 ## Che giấu tri thức
 Elite bị cho là đã che giấu nhiều kiến thức cốt lõi về bản chất thực sự của vũ trụ và lịch sử loài người:
@@ -22,6 +26,15 @@ Elite bị cho là đã che giấu nhiều kiến thức cốt lõi về bản c
 Kiểm soát dòng chảy thông tin và năng lượng của nhân loại, ngăn chặn sự thức tỉnh tập thể và tiến trình Individuation (Thành Toàn Bản Ngã).
 
 ## Related
+
+### Series Gen Z & Agenda 2030
+- [[Báo Cáo 2030]] — Blueprint của Elite cho tương lai
+- [[Gen Z - Phân Tích Phản Biện]] — Thế hệ được "thiết kế"
+- [[Gen Z và CBDC - Programmable Money Psychology]]
+- [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]
+- [[Climate Anxiety as Control - Fear-Based Compliance]]
+
+### Các bài liên quan khác
 - [[Annunaki]]
 - [[Chu Kỳ Hoàng Đạo]]
 - [[Individuation (Thành Toàn Bản Ngã)]]
@@ -32,3 +45,4 @@ Kiểm soát dòng chảy thông tin và năng lượng của nhân loại, ngă
 - [[Tartaria]]
 - [[Tiền Giấy - Tiền Mặt]]
 - [[Vận Chín]]
+- [[Kiểm Soát Tâm Trí]]

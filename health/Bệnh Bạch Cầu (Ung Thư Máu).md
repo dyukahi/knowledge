@@ -1,7 +1,7 @@
----
+﻿---
 title: Bệnh Bạch Cầu (Ung Thư Máu)
 date: 2026-04-08
-tags: []
+tags: [health]
 status: refined
 ---
 # Bệnh Bạch Cầu (Ung Thư Máu)

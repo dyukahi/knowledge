@@ -1,7 +1,7 @@
----
+﻿---
 title: Tình Yêu Tỉnh Thức
 date: 2026-04-08
-tags: []
+tags: [esoterica]
 status: refined
 ---
 # Tình Yêu Tỉnh Thức (Conscious Love)

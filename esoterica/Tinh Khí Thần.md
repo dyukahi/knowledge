@@ -1,8 +1,12 @@
 ---
 title: Tinh Khí Thần
 date: 2026-04-07
-tags: []
+tags: [esoterica]
 status: refined
+related:
+  - "[[S.E.X]]"
+  - "[[Năng Lượng Tình Dục]]"
+  - "[[Năng Lượng Natri]]"
 ---
 # Tinh Khí Thần
 
@@ -21,7 +25,7 @@ Theo quan niệm phương Đông (Đạo giáo/Huyền học), Tinh Khí Thần 
 
 ## Ứng Dụng & Cảm Nhận:
 - **Cảm nhận năng lượng:** Sự yên bình của một vị thầy tu hay sự bất an trước một kẻ lưu manh dù chưa ai nói gì.
-- **S.E.X ([[Sacred Energy eXchange):** Trao đổi năng lượng ở cấp độ Tinh Khí Thần. "Tam tinh thành nhất độc" - Cảnh báo về sự hỗn tạp năng lượng làm suy yếu Tinh Khí Thần.
+- **[[S.E.X]] (Sacred Energy eXchange):** Trao đổi năng lượng ở cấp độ Tinh Khí Thần. "Tam tinh thành nhất độc" - Cảnh báo về sự hỗn tạp năng lượng làm suy yếu Tinh Khí Thần.
 - **Tu dưỡng:** Việc rèn luyện cơ thể (Chiến binh) và trí tuệ giúp nâng cao phẩm chất của Tinh Khí Thần.
 
 ## Liên Kết Nguồn:

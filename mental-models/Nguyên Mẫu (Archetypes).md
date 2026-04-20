@@ -1,8 +1,8 @@
----
+﻿---
 title: Nguyên Mẫu (Archetypes)
 aliases: ["Nguyên Mẫu"]
 date: 2026-04-07
-tags: []
+tags: [mental-model]
 status: refined
 ---
 # Nguyên Mẫu (Archetypes)

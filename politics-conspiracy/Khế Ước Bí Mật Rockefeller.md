@@ -1,7 +1,7 @@
----
+﻿---
 title: Khế Ước Bí Mật Rockefeller
 date: 2026-04-08
-tags: []
+tags: [politics-conspiracy]
 status: refined
 ---
 # Khế Ước Bí Mật Rockefeller (The Secret Covenant)

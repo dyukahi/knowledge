@@ -1,7 +1,7 @@
----
+﻿---
 title: Tuyên Ngôn Bức Tường Băng
 date: 2026-04-07
-tags: []
+tags: [politics-conspiracy]
 status: refined
 ---
 # Tuyên Ngôn Bức Tường Băng (The Ice Wall Manifesto)
