@@ -8,74 +8,113 @@ related:
   - "[[Năng Lượng Aether]]"
   - "[[Khoa Học Xét Lại (Revisionist Science)]]"
 ---
-# Tartaria
+# Tartaria (Grand Tartary)
 
-**Tartaria** (hay Grand Tartary) là tên gọi một đế chế hoặc liên bang rộng lớn từng xuất hiện trên các bản đồ cổ châu Âu (thế kỷ 15-19), bao phủ phần lớn Á-Âu. Theo góc nhìn [[Khoa Học Xét Lại (Revisionist Science)|Khoa học xét lại]], đây có thể là một nền văn minh tiên tiến với công nghệ vượt thời đại đã bị xóa sổ khỏi lịch sử chính thống.
+**Tartaria** là tên gọi một đế chế rộng lớn xuất hiện trên bản đồ cổ châu Âu (thế kỷ 15-19), bao phủ phần lớn Á-Âu. Theo [[Khoa Học Xét Lại (Revisionist Science)|Khoa học xét lại]], đây có thể là nền văn minh tiên tiến với công nghệ vượt thời đại đã bị xóa sổ khỏi lịch sử.
 
-## Tartaria trên bản đồ lịch sử
+*Tartaria is the name of a vast empire appearing on European maps (15th-19th centuries), covering most of Eurasia. According to [[Khoa Học Xét Lại (Revisionist Science)|Revisionist Science]], this may have been an advanced civilization with ahead-of-time technology that was erased from history.*
 
-### Bằng chứng địa lý
-- **Bản đồ cổ (1600s-1800s)**: Tartaria xuất hiện như một quốc gia/vùng lãnh thổ rõ ràng trên hầu hết các bản đồ châu Âu
-- **Phạm vi**: Từ biên giới Nga châu Âu kéo dài đến Thái Bình Dương
-- **Biến mất đột ngột**: Sau giữa thế kỷ 19, Tartaria dần biến mất khỏi bản đồ mà không có giải thích rõ ràng
+---
 
-### Câu hỏi chưa được trả lời
-- Tại sao một vùng đất rộng lớn như vậy lại "biến mất" khỏi lịch sử?
-- Ai đã xóa Tartaria khỏi ký ức tập thể của nhân loại?
-- Có phải đây chỉ là cách gọi chung cho vùng đất "chưa khai phá"?
+## Tartaria trên Bản đồ / Tartaria on Maps
 
-## Công nghệ Tartarian
+### Bằng chứng / Evidence
 
-Theo các nhà nghiên cứu alternative:
+| Period | Observation |
+|--------|-------------|
+| **1600s-1800s** | Tartaria xuất hiện rõ ràng trên bản đồ châu Âu / Clearly appears on European maps |
+| **Mid-1800s** | Dần biến mất không giải thích / Gradually disappears without explanation |
+| **Today** | Không được dạy trong sử học / Not taught in history |
 
-### 1. Năng lượng tự do (Free Energy)
-- **Kiến trúc thu năng lượng**: Các tòa nhà với mái vòm, chóp nhọn, và trang trí phức tạp không chỉ để trang trí mà còn là antenna thu [[Năng Lượng Aether|năng lượng Aether]] từ khí quyển
-- **Không có dây điện**: Nhiều ảnh cổ cho thấy các thành phố được chiếu sáng mà không có đường dây điện
+### Phạm vi / Scope
 
-### 2. Kiến trúc vượt thời đại
-- **Star Forts (Pháo đài hình sao)**: Cấu trúc phòng thủ với thiết kế hình học phức tạp trên toàn thế giới
-- **Tòa nhà "World's Fair"**: Các công trình đồ sộ được xây dựng trong vài tháng rồi bị phá hủy - điều bất khả thi với công nghệ thời đó
+From Russia's European border → Pacific Ocean
+*Từ biên giới Nga châu Âu → Thái Bình Dương*
 
-### 3. Hệ thống kênh toàn cầu
-Một mạng lưới kênh đào kết nối các lục địa - quy mô vượt xa khả năng của nền văn minh "chính thống" cùng thời.
+### Câu hỏi / Questions
 
-## Mudflood Theory
+- Tại sao vùng đất lớn như vậy "biến mất"? / Why did such a large land "disappear"?
+- Ai xóa Tartaria khỏi ký ức tập thể? / Who erased Tartaria from collective memory?
+- Chỉ là tên gọi vùng "chưa khai phá"? / Just a name for "unexplored" territory?
 
-[[Mudflood]] (Đại hồng thủy bùn) được cho là sự kiện đã chôn vùi nền văn minh Tartaria:
+---
 
-- **Bằng chứng kiến trúc**: Nhiều tòa nhà cổ có tầng trệt bị chôn dưới đất, cửa sổ và cửa ra vào bị bịt kín
-- **Reset văn minh**: Sau Mudflood, lịch sử được "viết lại" bởi phe chiến thắng
-- **Repopulation**: Các thành phố bị bỏ hoang được "tái định cư" với câu chuyện nguồn gốc mới
+## Công nghệ Tartarian / Tartarian Technology
 
-## Tartaria và Việt Nam
+### 1. Năng lượng tự do / Free Energy
 
-Một số nhà nghiên cứu Việt Nam đã tìm thấy liên hệ:
+- **Kiến trúc thu năng lượng / Energy-harvesting architecture**: Mái vòm, chóp nhọn = antenna thu [[Năng Lượng Aether|Aether]] / Domes, spires = Aether antennas
+- **Không dây điện / No power lines**: Ảnh cổ cho thấy thành phố sáng không đường dây / Old photos show lit cities without wires
 
-- **[[Thành Cổ Loa]]**: Cấu trúc xoắn ốc có thể là một phần của mạng lưới Tartarian
-- **Kiến trúc Pháp thuộc**: Nhiều công trình "do Pháp xây" có thể là kiến trúc Tartarian được tái sử dụng
-- **Long Mạch**: Hệ thống [[Long Mạch|long mạch]] có thể là remnant của mạng lưới năng lượng Tartarian
+### 2. Kiến trúc vượt thời đại / Advanced Architecture
 
-## Tại sao bị che giấu?
+| Feature | Description |
+|---------|-------------|
+| **Star Forts** | Pháo đài hình sao phức tạp toàn thế giới / Complex star-shaped forts worldwide |
+| **World's Fair buildings** | Công trình đồ sộ xây vài tháng rồi phá / Massive buildings built in months, then destroyed |
+| **Ornate details** | Chi tiết không thể làm bằng tay / Details impossible by hand |
+
+### 3. Hệ thống kênh toàn cầu / Global Canal System
+
+Mạng lưới kênh đào kết nối các lục địa — quy mô vượt xa khả năng văn minh "chính thống" cùng thời.
+
+*Network of canals connecting continents — scale far beyond "official" civilization's capability.*
+
+---
+
+## Mudflood Theory / Thuyết Đại Hồng Thủy Bùn
+
+[[Mudflood]] — sự kiện chôn vùi nền văn minh Tartaria:
+
+*[[Mudflood]] — the event that buried Tartarian civilization:*
+
+| Evidence / Bằng chứng | Description |
+|----------------------|-------------|
+| **Buried first floors** | Tầng trệt bị chôn dưới đất / Ground floors underground |
+| **Sealed windows/doors** | Cửa sổ, cửa ra vào bị bịt / Windows, doors sealed |
+| **Repopulation** | Thành phố "tái định cư" với câu chuyện mới / Cities "resettled" with new stories |
+
+---
+
+## Tartaria và Việt Nam / Tartaria & Vietnam
+
+Liên hệ được tìm thấy / Connections found:
+
+| Location | Connection |
+|----------|------------|
+| **[[Thành Cổ Loa]]** | Cấu trúc xoắn ốc = phần mạng lưới Tartarian? / Spiral structure = part of Tartarian network? |
+| **French colonial architecture** | Có thể là kiến trúc Tartarian tái sử dụng / Possibly repurposed Tartarian buildings |
+| **[[Long Mạch]]** | Remnant của mạng lưới năng lượng Tartarian? / Remnant of Tartarian energy network? |
+
+---
+
+## Tại sao bị Che giấu? / Why Hidden?
 
 Theo góc nhìn [[Elite]] và [[Ma Trận]]:
 
-1. **Kiểm soát năng lượng**: Nếu năng lượng miễn phí tồn tại, hệ thống dầu mỏ/điện lưới sẽ sụp đổ
-2. **Kiểm soát lịch sử**: Ai kiểm soát quá khứ, kiểm soát hiện tại
-3. **Kiểm soát khả năng**: Nếu người cổ đại làm được, sao chúng ta không?
+*From [[Elite]] and [[Ma Trận]] perspective:*
+
+| Reason | Explanation |
+|--------|-------------|
+| **Kiểm soát năng lượng / Energy control** | Free energy = oil/grid system collapse |
+| **Kiểm soát lịch sử / History control** | Who controls past, controls present |
+| **Kiểm soát khả năng / Ability control** | If ancients could, why can't we? |
+
+---
 
 ## Related
 
-### Tartaria deep dive
-- [[Theo Dấu Tartaria  - Tác Giả Kan]] — Nghiên cứu chi tiết
-- [[Tartaria và Vạn Lý Trường Thành]] — Bức tường ngăn ai?
-- [[Mudflood]] — Sự kiện xóa sổ văn minh
+### Tartaria Deep Dive
+- [[Theo Dấu Tartaria  - Tác Giả Kan]] — Detailed research
+- [[Tartaria và Vạn Lý Trường Thành]] — Wall to keep out... whom?
+- [[Mudflood]] — Civilization-erasing event
 
-### Công nghệ thất lạc
-- [[Năng Lượng Aether]] — Năng lượng tự do
-- [[Nikola Tesla (Tần Số và Rung Động)]] — Người cố gắng khôi phục free energy
-- [[Khoa Học Xét Lại (Revisionist Science)]] — Đặt câu hỏi về mainstream science
+### Lost Technology / Công nghệ Thất lạc
+- [[Năng Lượng Aether]] — Free energy
+- [[Nikola Tesla (Tần Số và Rung Động)]] — Attempted to restore free energy
+- [[Khoa Học Xét Lại (Revisionist Science)]] — Question mainstream science
 
-### Ma Trận & Che giấu
-- [[Báo Cáo 2030]] — Kế hoạch reset hiện đại
-- [[Tuyên Ngôn Bức Tường Băng]] — Những vùng đất bị che giấu
-- [[Elite]] — Ai đứng sau việc xóa lịch sử
+### Matrix & Cover-up / Ma Trận & Che giấu
+- [[Báo Cáo 2030]] — Modern reset plan
+- [[Tuyên Ngôn Bức Tường Băng]] — Hidden lands
+- [[Elite]] — Who erases history
