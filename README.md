@@ -1,25 +1,17 @@
----
-title: "Knowledge IDE - Bản đồ Tri thức"
-description: "Hệ thống Zettelkasten lưu trữ và điều phối toàn bộ các khối tri thức. Trung tâm phân tích Tài chính, Huyền học, Y tế tự nhiên và Mô hình tư duy."
----
-# 🧠 Knowledge IDE - Bản đồ Tri thức (Map of Content)
+# Quartz v4
 
-Hệ thống Zettelkasten lưu trữ và điều phối toàn bộ các khối tri thức. Trung tâm phân tích Tài chính, Huyền học, Y tế tự nhiên và Mô hình tư duy.
+> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-## 🏛️ CÁC TRỤ CỘT TRI THỨC (DOMAINS)
+Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
 
-- 💰 **Tài chính & Crypto (`crypto-finance/`)**: Kinh tế vĩ mô, Bitcoin, sự phân chia tài sản, chu kỳ kinh tế.
-- 👁️ **Huyền học & Tâm linh (`esoterica/`)**: Năng lượng nguyên thủy, luân hồi, thực thể, lịch sử bị che giấu (Tartaria, Annunaki).
-- 🌿 **Y Tế & Sức khỏe Tự nhiên (`health/`)**: Cơ chế tự chữa lành, tần số cơ thể, sự lừa dối của nền y tế hiện đại.
-- 🧠 **Mô hình Tư duy (`mental-models/`)**: Tâm lý học phân tích (Jung), cách nhận diện và thoát khỏi ma trận kiểm soát, sự trung hòa.
-- 🎭 **Chính trị & Quyền lực ngầm (`politics-conspiracy/`)**: Các báo cáo tương lai (2030), Elite, Cabal, thao túng tâm trí đám đông.
-- 🔬 **Khoa học & Công nghệ (`science-tech/`)**: AI dưới góc nhìn huyền học, công nghệ năng lượng tự do (Tesla), khoa học xét lại.
+🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
----
-## ⚙️ HỆ THỐNG VẬN HÀNH
+[Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-- 📥 `_inbox/`: Trạm trung chuyển dữ liệu thô (Raw) cần được "nấu chín".
-- 📋 `_templates/`: Mẫu ghi chú Obsidian chuẩn (Frontmatter, Related).
-- 🗃️ `_docs/`: Tài liệu vận hành và lưu trữ các quy tắc hệ thống.
+## Sponsors
 
-*(Note: Hãy bắt đầu đọc từ các chủ đề trên, sau đó đi theo các `[[wikilink]]` ở cuối mỗi bài để khám phá mạng lưới tri thức).*
+<p align="center">
+  <a href="https://github.com/sponsors/jackyzha0">
+    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
+  </a>
+</p>
