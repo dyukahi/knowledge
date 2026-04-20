@@ -11,10 +11,14 @@
             "id": "ba7bd15a74bbf3a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "health/Su That Ve Benh Dai Va Vac Xin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Su That Ve Benh Dai Va Vac Xin"
             }
           }
         ]
@@ -182,13 +186,14 @@
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
     "_inbox/Virus và Kiếp Tắt Dịch.md",
-    "_templates/README.md",
+    "health/Su That Ve Benh Dai Va Vac Xin.md",
     "_inbox/Wikilinks.md",
+    "claude.md",
+    "_templates/README.md",
     "_inbox/README.md",
     "_docs/README.md",
     "_inbox/Vô Thức Tập Thể (Akashic Records).md",
     "index.md",
-    "claude.md",
     "temp.md",
     "CLAUDE.md",
     "README.md",
@@ -218,7 +223,6 @@
     "content/science-tech/Khoa Học Xét Lại (Revisionist Science).md",
     "content/science-tech/Khoa Học Chân Chính và Thượng Đế.md",
     "content/science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-    "content/science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
     "content/assets/og-image.png",
     "assets/og-image.png",
     "Untitled.canvas",
