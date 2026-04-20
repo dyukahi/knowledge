@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Annunaki"
 date: 2026-04-08
 tags: [esoterica]
@@ -10,83 +10,113 @@ related:
 ---
 # Annunaki
 
-**Annunaki** (hay Anunnaki) là tên gọi một nhóm thần linh trong thần thoại Sumer và Babylon cổ đại. Trong các lý thuyết alternative history, họ được cho là giống loài ngoài hành tinh đã can thiệp vào sự phát triển của nhân loại.
+**Annunaki** (Anunnaki) là nhóm thần linh trong thần thoại Sumer và Babylon cổ đại. Trong alternative history, họ được cho là giống loài ngoài hành tinh đã can thiệp vào sự phát triển của nhân loại.
 
-## Nguồn gốc trong văn bản cổ
+*Annunaki is a group of deities in ancient Sumerian and Babylonian mythology. In alternative history, they are believed to be an extraterrestrial race that intervened in human development.*
 
-### Tablets Sumer
-- **Enuma Elish**: Sử thi sáng tạo của Babylon đề cập đến Annunaki
-- **Epic of Gilgamesh**: Anh hùng nửa người nửa thần
-- **Tablets Atrahasis**: Câu chuyện về việc tạo ra loài người
+---
 
-### Ý nghĩa tên gọi
-- **An**: Trời
-- **Nuna**: Hoàng tử
-- **Ki**: Trái Đất
-→ "Những hoàng tử từ trời xuống đất" hoặc "Những người từ thiên đàng xuống"
+## Nguồn gốc Văn bản Cổ / Ancient Text Origins
 
-## Lý thuyết Ancient Astronaut
+### Sumerian Tablets
 
-### Zecharia Sitchin
-Nhà nghiên cứu Zecharia Sitchin (1920-2010) đã phổ biến thuyết Annunaki qua series sách "Earth Chronicles":
+| Text | Content |
+|------|---------|
+| **Enuma Elish** | Babylon creation epic / Sử thi sáng tạo Babylon |
+| **Epic of Gilgamesh** | Demigod hero / Anh hùng nửa thần |
+| **Atrahasis Tablets** | Human creation story / Câu chuyện tạo loài người |
 
-1. **Nibiru**: Annunaki đến từ hành tinh [[Nibiru (Hành Tinh X)|Nibiru]] có quỹ đạo 3,600 năm
-2. **Khai thác vàng**: Họ đến Trái Đất để khai thác vàng (cần thiết cho khí quyển Nibiru)
-3. **Tạo ra con người**: Chỉnh sửa gen của loài vượn để tạo ra "công nhân" (Homo sapiens)
+### Ý nghĩa tên / Name Meaning
 
-### Genetic Engineering?
-- **"Missing link"** trong tiến hóa loài người
-- DNA của Homo sapiens có những đoạn "không giải thích được"
-- Sự "nhảy vọt" đột ngột trong trí thông minh và văn hóa
+- **An**: Sky / Trời
+- **Nuna**: Prince / Hoàng tử
+- **Ki**: Earth / Trái Đất
+→ *"Princes who came from heaven to earth"* / "Những hoàng tử từ trời xuống đất"
 
-## Annunaki trong cấu trúc Ma Trận
+---
 
-Theo góc nhìn huyền học:
+## Ancient Astronaut Theory / Thuyết Phi Hành Gia Cổ Đại
 
-### Hệ thống cai trị
-- Annunaki tạo ra [[Cabal]] như "đại diện" trên Trái Đất
-- Các dòng dõi "hoàng gia" bloodlines được cho là mang DNA Annunaki
-- Elite hiện đại là hậu duệ của hybrid lines này
+### Zecharia Sitchin (1920-2010)
 
-### Chu kỳ "thu hoạch"
-- Mỗi khi Nibiru tiếp cận Trái Đất (~3,600 năm), Annunaki "thu hoạch"
-- Đây có thể là các sự kiện "đại hủy diệt" trong lịch sử
-- [[Mudflood]], Great Flood có thể là những lần "reset" như vậy
+Nhà nghiên cứu phổ biến thuyết Annunaki qua series "Earth Chronicles":
 
-## Các Annunaki nổi bật
+| Claim / Quan điểm | Description |
+|-------------------|-------------|
+| **[[Nibiru (Hành Tinh X)\|Nibiru]] origin** | Annunaki từ hành tinh quỹ đạo 3,600 năm / From planet with 3,600-year orbit |
+| **Gold mining** | Đến Trái Đất khai thác vàng / Came to Earth for gold |
+| **Human creation** | Chỉnh sửa gen vượn → Homo sapiens / Gene-edited apes → Homo sapiens |
 
-| Tên | Vai trò | Đặc điểm |
-|-----|---------|----------|
-| **Anu** | Vua của Annunaki | Thần bầu trời |
-| **Enlil** | Con trai Anu, Lord of Air | Thích kiểm soát, gây ra Đại Hồng Thủy |
-| **Enki** | Con trai Anu, Lord of Earth | Bảo vệ loài người, creator god |
-| **Inanna/Ishtar** | Nữ thần tình yêu & chiến tranh | Powerful, manipulative |
-| **Marduk** | Con Enki | Sau này trở thành thần chính của Babylon |
+### Genetic Engineering Evidence?
 
-## Tranh luận và phản biện
+- **"Missing link"** trong tiến hóa / in evolution
+- DNA có đoạn "không giải thích được" / unexplained DNA segments
+- **Sudden leap** trong trí tuệ và văn hóa / in intelligence and culture
 
-### Quan điểm mainstream
-- Sitchin bị chỉ trích về việc dịch sai văn bản Sumer
-- Không có bằng chứng khảo cổ trực tiếp
-- "Ancient astronaut theory" bị coi là pseudoscience
+---
 
-### Quan điểm alternative
-- Sự tương đồng của myths về "gods từ trời xuống" trên toàn thế giới
-- Các cấu trúc cổ đại không thể giải thích bằng công nghệ đương thời
-- Tại sao mọi nền văn hóa đều có truyền thuyết về giants và sky gods?
+## Annunaki trong Ma Trận / In the Matrix
+
+### Hệ thống Cai trị / Control System
+
+| Level | Entity |
+|-------|--------|
+| Top | Annunaki |
+| Middle | [[Cabal]] — Đại diện / Representatives |
+| Bloodlines | "Royal" DNA = Annunaki hybrid |
+| Modern | [[Elite]] = Hậu duệ / Descendants |
+
+### Chu kỳ "Thu hoạch" / "Harvest" Cycles
+
+- Mỗi ~3,600 năm khi Nibiru tiếp cận / Every ~3,600 years when Nibiru approaches
+- "Đại hủy diệt" trong lịch sử / "Great catastrophes" in history
+- [[Mudflood]], Great Flood = "reset" events
+
+---
+
+## Các Annunaki Nổi bật / Notable Annunaki
+
+| Name | Role | Character |
+|------|------|-----------|
+| **Anu** | King of Annunaki | Sky god / Thần bầu trời |
+| **Enlil** | Lord of Air | Control-oriented, caused Flood / Thích kiểm soát, gây Đại Hồng Thủy |
+| **Enki** | Lord of Earth | Protector of humans, creator / Bảo vệ loài người |
+| **Inanna/Ishtar** | Love & War goddess | Powerful, manipulative |
+| **Marduk** | Son of Enki | Later became Babylon's chief god |
+
+---
+
+## Tranh luận / Debate
+
+### Mainstream View
+
+- Sitchin bị chỉ trích dịch sai / criticized for mistranslation
+- Không bằng chứng khảo cổ / No archaeological evidence
+- "Pseudoscience"
+
+### Alternative View
+
+| Evidence | Question |
+|----------|----------|
+| **Global myths** | Tại sao mọi nền văn hóa có "gods từ trời"? / Why do all cultures have "sky gods"? |
+| **Ancient structures** | Không thể giải thích bằng công nghệ đương thời / Can't explain with period technology |
+| **Giants legends** | Tại sao mọi nơi có truyền thuyết giants? / Why giants legends everywhere? |
+
+---
 
 ## Related
 
 ### Nibiru & Origins
-- [[Nibiru (Hành Tinh X)]] — Hành tinh của Annunaki
-- [[Nibiru và Nền Văn Minh Annunaki]] — Phân tích chi tiết
-- [[Atlantis]] — Có phải là thời kỳ Annunaki cai trị?
+- [[Nibiru (Hành Tinh X)]] — Planet of Annunaki
+- [[Nibiru và Nền Văn Minh Annunaki]] — Detailed analysis
+- [[Atlantis]] — Annunaki rule period?
 
-### Hệ thống kiểm soát
-- [[Cabal]] — Thế lực ngầm do Annunaki tạo ra
-- [[Elite]] — Hậu duệ của hybrid bloodlines?
-- [[Ma Trận]] — Hệ thống kiểm soát tổng thể
+### Control System / Hệ thống Kiểm soát
+- [[Cabal]] — Created by Annunaki?
+- [[Elite]] — Hybrid bloodline descendants?
+- [[Ma Trận]] — Total control system
 
-### Khoa học xét lại
+### Revisionist Science / Khoa học Xét lại
 - [[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]]
 - [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Mudflood]] — Reset event
