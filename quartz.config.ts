@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "vi-VN",
     baseUrl: "dyukahi.github.io/knowledge",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_docs", "_inbox", "_templates", "CLAUDE.md", "claude.md"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
