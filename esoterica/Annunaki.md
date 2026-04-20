@@ -1,4 +1,4 @@
----
+﻿---
 title: "Annunaki"
 date: 2026-04-08
 tags: [esoterica]
@@ -88,5 +88,5 @@ Theo góc nhìn huyền học:
 - [[Ma Trận]] — Hệ thống kiểm soát tổng thể
 
 ### Khoa học xét lại
-- [[Thuyết Tiến Hóa & Các Nền Văn Minh Bị Che Giấu]]
+- [[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]]
 - [[Khoa Học Xét Lại (Revisionist Science)]]

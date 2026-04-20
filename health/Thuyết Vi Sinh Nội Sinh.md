@@ -1,4 +1,4 @@
----
+﻿---
 title: "Thuyết Vi Sinh Nội Sinh (Terrain Theory)"
 aliases: ["Terrain Theory", "Thuyết Địa Hình"]
 date: 2026-04-08
@@ -100,7 +100,7 @@ status: refined
 ## Related
 
 - [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
-- [[Virus và Kiếp Tốt Đẹch]] — Virus theory questioned
+- [[Virus và Kiếp Tật Dịch]] — Virus theory questioned
 - [[Công Thức Chữa Lành Tự Nhiên]]
 - [[Plasma Quinton]]
 - [[Suramin]]

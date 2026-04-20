@@ -1,4 +1,4 @@
----
+﻿---
 title: "Atlantis"
 date: 2026-04-08
 tags: [esoterica]
@@ -83,12 +83,12 @@ Theo [[Elite]] studies, sự che giấu Atlantis có mục đích:
 ### Nền văn minh cổ
 - [[Lemuria]] — "Mu", sister civilization
 - [[Tartaria]] — Hidden civilization gần hơn
-- [[Thuyết Tiến Hóa & Các Nền Văn Minh Bị Che Giấu]]
+- [[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]]
 
 ### Công nghệ cổ đại
 - [[Năng Lượng Aether]] — Free energy
 - [[Nikola Tesla (Tần Số và Rung Động)]] — Rediscovered ancient tech
-- [[Cơ Máy Antikythera và Minh Chứng Địa Tâm]]
+- [[Cỗ Máy Antikythera và Minh Chứng Địa Tâm]]
 
 ### Sự kiện vũ trụ
 - [[Chu Kỳ Hoàng Đạo]] — Great Year cycles

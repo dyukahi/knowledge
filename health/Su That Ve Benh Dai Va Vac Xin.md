@@ -1,4 +1,4 @@
----
+﻿---
 title: Sự Thật Về Bệnh Dại Và Vắc Xin (Góc Nhìn Terrain Theory)
 date: 2026-04-17
 updated: 2026-04-19
@@ -85,7 +85,7 @@ Toàn bộ hệ thống từ nghiên cứu ban đầu của Pasteur, phương ph
 - **Andrew Kaufman** - Nghiên cứu về exosomes và virus
 
 ## Related
-- [[Ma Trận Y Tế]]
+- [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
 - [[Thuyết Vi Sinh Nội Sinh]]
 - [[Virus và Kiếp Tật Dịch]]
 - [[Y Tế Tự Nhiên (Anti-Matrix Health)]]

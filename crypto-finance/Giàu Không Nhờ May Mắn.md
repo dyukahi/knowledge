@@ -1,10 +1,10 @@
----
+﻿---
 title: "Giàu Không Nhờ May Mắn"
 date: 2026-04-07
 tags: [crypto-finance]
 status: refined
 related:
-  - "[[Tư Duy Luỹ Thừa]]"
+  - "[[Tư Duy Lũy Thừa]]"
   - "[[Tiền Giấy - Tiền Mặt]]"
   - "[[Sợ hãi - Tham Lam – Cân bằng]]"
 ---

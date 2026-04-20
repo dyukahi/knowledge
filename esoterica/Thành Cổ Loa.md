@@ -1,4 +1,4 @@
----
+﻿---
 title: Thành Cổ Loa
 aliases: ["Thành Cổ Loa", "Cổ Loa"]
 date: 2026-04-08
@@ -80,7 +80,7 @@ Cổ Loa unique ở design phi tuyến tính.
 ## Related
 
 - [[Nỏ Thần]] — Vũ khí của An Dương Vương
-- [[Thuyết Tiến Hóa & Các Nền Văn Minh Bị Che Giấu]]
+- [[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]]
 - [[Khoa Học Xét Lại (Revisionist Science)]]
 - [[Tartaria]] — Lost civilizations pattern
 - [[Long Mạch]] — Feng shui và vị trí đặt đô

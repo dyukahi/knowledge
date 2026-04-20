@@ -1,4 +1,4 @@
----
+﻿---
 title: Thông Minh
 aliases: ["Thông Minh", "Intelligence"]
 date: 2026-04-08
@@ -64,7 +64,7 @@ Xem chi tiết: [[Thông Minh vs Trí Tuệ]]
 
 ### 1. Công cụ của Ego
 - Dùng để "thắng" thay vì "hiểu"
-- Feed [[Persona (Mặt Nạ)]]
+- Feed [[Nguyên Mẫu (Archetypes)]]
 - Separate from others
 
 ### 2. Dễ bị manipulate

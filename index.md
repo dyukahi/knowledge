@@ -1,4 +1,4 @@
----
+﻿---
 title: Knowledge Base Index
 tags: [index, navigation]
 ---
@@ -82,7 +82,7 @@ Phân tích sâu về cách thế hệ Gen Z đang được "thiết kế" để
 - [[Tuyến Tùng]] | [[Suramin]]
 
 ### 🧩 Mental Models
-- [[Mental Model]] | [[Tư Duy Luỹ Thừa]]
+- [[Mental Model]] | [[Tư Duy Lũy Thừa]]
 - [[Gen Z - Phân Tích Phản Biện]]
 - [[Thông Minh vs Trí Tuệ]]
 - [[Individuation (Thành Toàn Bản Ngã)]]

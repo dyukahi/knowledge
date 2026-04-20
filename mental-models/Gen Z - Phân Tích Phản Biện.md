@@ -1,4 +1,4 @@
----
+﻿---
 title: Gen Z - Phân Tích Phản Biện
 aliases:
   - Gen Z
@@ -12,7 +12,7 @@ tags:
   - agenda-2030
 related:
   - "[[Mental Model]]"
-  - "[[Tư Duy Luỹ Thừa]]"
+  - "[[Tư Duy Lũy Thừa]]"
   - "[[Báo Cáo 2030]]"
 ---
 
@@ -199,7 +199,7 @@ Wake-up call cho Gen Z: Nhận ra bạn đang được **optimized để accept*
 
 - [[Báo Cáo 2030]]
 - [[Mental Model]]
-- [[Tư Duy Luỹ Thừa]]
+- [[Tư Duy Lũy Thừa]]
 - [[Thông Minh]]
 - [[Tiền Giấy - Tiền Mặt]]
 

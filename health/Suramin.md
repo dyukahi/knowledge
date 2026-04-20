@@ -1,4 +1,4 @@
----
+﻿---
 title: "Suramin"
 date: 2026-04-07
 tags: [health]
@@ -91,5 +91,5 @@ Coincidence hay design?
 
 ### Parasites & Detox
 - [[Tà Linh (Energy Parasites)]]
-- [[Virus và Kiếp Tốt Đẹch]]
+- [[Virus và Kiếp Tật Dịch]]
 - [[Thuyết Vi Sinh Nội Sinh]]

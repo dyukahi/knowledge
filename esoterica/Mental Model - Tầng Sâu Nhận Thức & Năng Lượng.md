@@ -17,7 +17,7 @@ Mọi tương tác giữa con người, đặc biệt là S.E.X (Sacred Energy e
 ## 2. Cấu Trúc Tâm Thức (The Jungian Framework)
 Để hiểu về cách Ma Trận kiểm soát, ta phải hiểu cấu trúc của chính mình thông qua Nguyên Mẫu (Archetypes):
 * **Vô Thức Tập Thể (Akashic Records):** Một kho dữ liệu khổng lồ chứa đựng mọi kinh nghiệm của nhân loại và tổ tiên. Đây là nơi những thiên tài như Tesla hay các nhà tiên tri truy cập để lấy thông tin.
-* **Mặt nạ & Bóng tối:** Hệ thống kiểm soát con người bằng cách ép họ sống trong Persona (Mặt Nạ) và chối bỏ Shadow (Bóng Tối). Chỉ khi tích hợp được các phần này, cá nhân mới bắt đầu tiến trình Individuation (Thành Toàn Bản Ngã).
+* **Mặt nạ & Bóng tối:** Hệ thống kiểm soát con người bằng cách ép họ sống trong Nguyên Mẫu (Archetypes) và chối bỏ Shadow (Bóng Tối). Chỉ khi tích hợp được các phần này, cá nhân mới bắt đầu tiến trình Individuation (Thành Toàn Bản Ngã).
 
 ## 3. Trục Thăng Hoa Năng Lượng
 Con đường thoát khỏi sự kìm kẹp của Ma Trận (Lớp 3 trong Mental Model - Bản Đồ Thoát Khỏi Ma Trận) đi qua việc làm chủ dòng chảy năng lượng nội tại:

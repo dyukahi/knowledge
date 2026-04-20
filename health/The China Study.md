@@ -1,4 +1,4 @@
----
+﻿---
 title: "The China Study"
 date: 2026-04-08
 tags: [health]
@@ -57,7 +57,7 @@ status: refined
 - Optimal diet is 100% plant-based
 - One diet fits all
 
-## Liên Hệ Với Ma Trận Y Tế
+## Liên Hệ Với Vận Chín, Người Kogi và Ma Trận Y Tế
 
 Theo [[Y Tế Tự Nhiên (Anti-Matrix Health)|Y Tế Tự Nhiên]]:
 

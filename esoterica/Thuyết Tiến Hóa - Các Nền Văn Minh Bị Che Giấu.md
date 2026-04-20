@@ -1,6 +1,6 @@
 ﻿---
 title: Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu
-aliases: ["Thuyết Tiến Hóa & Các Nền Văn Minh Bị Che Giấu", "Thuyết Tiến Hóa"]
+aliases: ["Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu", "Thuyết Tiến Hóa"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined
@@ -24,7 +24,7 @@ Bài viết phản biện Thuyết Tiến Hóa và giới thiệu về các nề
 
 ## 4. Dinh Dưỡng & Sức Khỏe (Hệ Thống Phản Biện)
 - **"The China Study":** Nghiên cứu khẳng định thịt, sữa bò và đường tinh luyện là nguyên nhân trực tiếp gây ra ung thư, tim mạch và tiểu đường.
-- **Ma trận Y tế:** Ung thư thực chất đến từ ăn uống, nên vắc-xin ung thư là một sự sai lầm về bản chất.
+- **Vận Chín, Người Kogi và Ma Trận Y Tế:** Ung thư thực chất đến từ ăn uống, nên vắc-xin ung thư là một sự sai lầm về bản chất.
 
 ## Liên kết hệ thống
 - Kết nối với **Khoa Học Xét Lại** và **Vận Chín, Người Kogi và Ma Trận Y Tế**.

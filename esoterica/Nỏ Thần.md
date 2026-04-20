@@ -1,4 +1,4 @@
----
+﻿---
 title: "Nỏ Thần"
 aliases: ["Nỏ Thần", "Linh Quang Kim Quy Thần Nỏ"]
 date: 2026-04-08
@@ -70,5 +70,5 @@ Liên hệ hiện đại:
 
 - [[Thành Cổ Loa]] — Công trình của An Dương Vương
 - [[Khoa Học Xét Lại (Revisionist Science)]]
-- [[Thuyết Tiến Hóa & Các Nền Văn Minh Bị Che Giấu]]
+- [[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]]
 - [[Tartaria]] — Lost civilizations pattern

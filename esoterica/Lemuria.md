@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lemuria (Mu)"
 date: 2026-04-07
 tags: [esoterica]
@@ -97,13 +97,12 @@ Những người cảm thấy:
 ### Nền văn minh cổ
 - [[Atlantis]] — Sister civilization
 - [[Tartaria]] — Hidden civilization gần hơn
-- [[Thuyết Tiến Hóa & Các Nền Văn Minh Bị Che Giấu]]
+- [[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]]
 
 ### Tâm linh
 - [[Sự Nhất Thể]] — Oneness consciousness
 - [[Tuyến Tùng]] — Third Eye
-- [[Chakra]] — Luân xa
-- [[Trí Tuệ]] — Wisdom vs Intelligence
+- - [[Trí Tuệ]] — Wisdom vs Intelligence
 
 ### Vũ trụ học
 - [[Chu Kỳ Hoàng Đạo]] — Great cycles

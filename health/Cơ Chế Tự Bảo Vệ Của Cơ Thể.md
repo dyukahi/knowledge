@@ -1,4 +1,4 @@
----
+﻿---
 title: Cơ Chế Tự Bảo Vệ Của Cơ Thể
 date: 2026-04-17
 tags: [health, terrain-theory, immune-system]
@@ -27,7 +27,7 @@ Nếu không có phản xạ ho, bụi bẩn và mầm bệnh từ môi trườn
 Ruột ngừng hấp thu nước và tiết thêm dịch ồ ạt để pha loãng độc tố, tăng co bóp nhằm tống khứ toàn bộ chất bẩn ra ngoài. Nếu không có tiêu chảy, độc tố sẽ ngấm ngược qua thành ruột vào máu, gây nhiễm trùng huyết. Trong trường hợp nhiễm khuẩn nặng, việc cấp bách là liên tục bù nước và muối khoáng điện giải để duy trì sinh mệnh cho cơ thể xả hết chất độc ra ngoài, tuyệt đối không dùng thuốc cầm tiêu chảy ngay lập tức.
 
 ## Related
-- [[Ma Trận Y Tế]]
+- [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
 - [[Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain)]]
 - [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
 - [[Y Tế Tự Nhiên (Anti-Matrix Health)]]

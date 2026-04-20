@@ -1,4 +1,4 @@
----
+﻿---
 title: Tà Linh (Energy Parasites)
 aliases: ["Tà Linh", "Energy Parasites", "Archons"]
 date: 2026-04-08
@@ -110,5 +110,5 @@ Theo [[Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]]:
 - [[Ma Trận]] — Hệ thống chúng vận hành
 - [[Gnosis (Ngộ Đạo)]] — Cách thoát ra
 - [[Suramin]] — Detox support
-- [[Thực Thể Cõi Trung Giới (Astral Entities)]]
+- [[Thực Thể Cõi Trung Giới  (Astral Entities)]]
 - [[Elite]] — Human servants?

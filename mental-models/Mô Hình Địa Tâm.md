@@ -1,4 +1,4 @@
----
+﻿---
 title: Mô Hình Địa Tâm
 aliases: ["Geocentrism", "Địa Tâm"]
 date: 2026-04-08
@@ -124,7 +124,7 @@ Theo [[Khoa Học Xét Lại (Revisionist Science)|KHXL]]:
 
 - [[Giải Mã Vũ Trụ - Y Tế - Tâm Linh]]
 - [[Thuyết Trái Đất Phẳng]]
-- [[Cơ Máy Antikythera và Minh Chứng Địa Tâm]]
+- [[Cỗ Máy Antikythera và Minh Chứng Địa Tâm]]
 - [[Khoa Học Xét Lại (Revisionist Science)]]
 - [[Chu Kỳ Hoàng Đạo]]
 - [[Sự Nhất Thể]]

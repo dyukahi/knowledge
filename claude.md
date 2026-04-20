@@ -1,4 +1,4 @@
-# Schema (LLM Instructions)
+﻿# Schema (LLM Instructions)
 This directory is the root of the Knowledge IDE / Zettelkasten.
 All knowledge base operations must happen within this knowledge folder.
 
@@ -18,7 +18,7 @@ All knowledge base operations must happen within this knowledge folder.
 - Content folders (e.g., i/, wealth/): Topic-based, lowercase, hyphenated.
 
 ## Strict Linking Rules
-- **NO INLINE LINKS:** The body text must be clean, natural, and readable. Do not use [[Wikilinks]] inside the content body.
+- **NO INLINE LINKS:** The body text must be clean, natural, and readable. Do not use Wikilinks inside the content body.
 - **Related Section ONLY:** All connections between notes must be placed exclusively in the ## Related section at the bottom of the file (2-4 links per note).
 - **Real Notes ONLY:** Only link to concepts that already have existing, fully-written notes with real data. Do NOT create or link to "stub" or placeholder concepts.
 - **Synthesis:** Create synthesis pages for dense clusters (4+ notes).

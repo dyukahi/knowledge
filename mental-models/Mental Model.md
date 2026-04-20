@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mental Model"
 date: 2026-04-07
 tags: [mental-model]
@@ -48,7 +48,7 @@ status: refined
 ### Về Ma Trận & Kiểm Soát
 - [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
 - [[Mental Model - Ma Trận Kiểm Soát Kép]]
-- [[Mental Model - Kiến Trúc Bộ Khóa Ma Trận]]
+- [[Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]]
 
 ### Về Tâm Lý & Nhận Thức
 - [[Tâm Lý Học Jung]]
@@ -57,7 +57,7 @@ status: refined
 - [[Nguyên Mẫu (Archetypes)]]
 
 ### Về Tư Duy
-- [[Tư Duy Luỹ Thừa]] — Exponential thinking
+- [[Tư Duy Lũy Thừa]] — Exponential thinking
 - [[Thông Minh vs Trí Tuệ]] — Intelligence ≠ Wisdom
 - [[Nhị Nguyên]] — Duality thinking
 
@@ -104,12 +104,12 @@ status: refined
 ### Mental Model Series
 - [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
 - [[Mental Model - Ma Trận Kiểm Soát Kép]]
-- [[Mental Model - Kiến Trúc Bộ Khóa Ma Trận]]
+- [[Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]]
 - [[Mental Model - Tầng Sâu Nhận Thức & Năng Lượng]]
 - [[Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận]]
 
 ### Tư Duy
-- [[Tư Duy Luỹ Thừa]]
+- [[Tư Duy Lũy Thừa]]
 - [[Thông Minh vs Trí Tuệ]]
 - [[Thông Minh]]
 - [[Trí Tuệ]]
