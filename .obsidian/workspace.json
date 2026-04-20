@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "esoterica/Gnosis (Ngộ Đạo).md",
+                "file": "mental-models/Nhị Nguyên.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gnosis (Ngộ Đạo)"
+              "title": "Nhị Nguyên"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
+    "esoterica/Luân Hồi.md",
+    "esoterica/Gnosis (Ngộ Đạo).md",
     "esoterica/Chu Kỳ Hoàng Đạo.md",
     "science-tech/Pin Natri-ion.md",
     "science-tech/Tần Số Schumann.md",
@@ -221,8 +223,6 @@
     "quartz/static/icon.png",
     "content/_templates/README.md",
     "content/science-tech/Walter Russell.md",
-    "content/science-tech/Vũ Khí Năng Lượng Định Hướng (DEW).md",
-    "content/science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
     "content/assets/og-image.png",
     "assets/og-image.png",
     "Untitled.canvas",
