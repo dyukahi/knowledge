@@ -186,7 +186,7 @@ Wake-up call cho Gen Z: Nhận ra bạn đang được **optimized để accept*
 
 ## Mở Rộng (Có Thể Phát Triển)
 
-1. **Gen Z & CBDC** — Tại sao họ sẵn sàng accept programmable money?
+1. **[[Gen Z và CBDC - Programmable Money Psychology]]** ✅ — Tại sao họ sẵn sàng accept programmable money?
 2. **TikTok Algorithm** — Ai thực sự kiểm soát worldview của Gen Z?
 3. **UBI & The End of Work** — Gen Z có đang được train để accept universal basic income?
 4. **Digital Identity** — Từ social media profiles đến government ID: một bước nhỏ

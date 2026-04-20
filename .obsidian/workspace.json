@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "health/Su That Ve Benh Dai Va Vac Xin.md",
+                "file": "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Su That Ve Benh Dai Va Vac Xin"
+              "title": "Gen Z và CBDC - Programmable Money Psychology"
             }
           }
         ]
@@ -186,8 +186,9 @@
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
     "mental-models/Gen Z - Phân Tích Phản Biện.md",
-    "health/René Quinton và Huyết Tương Biển.md",
+    "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
     "health/Su That Ve Benh Dai Va Vac Xin.md",
+    "health/René Quinton và Huyết Tương Biển.md",
     "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
     "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
     "esoterica/Manly P. Hall.md",
@@ -211,7 +212,6 @@
     "science-tech/Tần Số Schumann.md",
     "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
     "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
-    "science-tech/Vũ Khí Năng Lượng Định Hướng (DEW).md",
     "_docs/scripts/fix_all_related.py",
     "_docs/scripts/double_check_merge.py",
     "_docs/scripts/fill_gaps.py",
