@@ -16,9 +16,11 @@ related:
   - "[[Báo Cáo 2030]]"
 ---
 
-# Gen Z - Phân Tích Phản Biện
+# Gen Z - Phân Tích Phản Biện (Critical Analysis)
 
 10 câu hỏi phản biện về "thế hệ vượt trội" Gen Z — và mối liên hệ với [[Báo Cáo 2030]].
+
+*10 critical questions about the "superior generation" Gen Z — and their connection to [[Báo Cáo 2030|Agenda 2030]].*
 
 ---
 
@@ -166,11 +168,14 @@ Chưa. Nhưng không thế hệ nào "sẵn sàng" ở tuổi 20.
 
 ---
 
-## 🎯 Kết Luận Cuối
+## 🎯 Kết Luận Cuối / Final Conclusion
 
 **Gen Z không phải nạn nhân vô tội, cũng không phải thủ phạm.**
+*Gen Z is neither innocent victim nor perpetrator.*
 
 Họ là **sản phẩm của một hệ thống được thiết kế có chủ đích** — từ education, social media, đến economic conditions — tất cả converge để tạo ra một thế hệ:
+
+*They are **products of a deliberately designed system** — from education, social media, to economic conditions — all converging to create a generation:*
 
 - Không sở hữu tài sản ✅
 - Phụ thuộc vào công nghệ ✅
@@ -180,7 +185,11 @@ Họ là **sản phẩm của một hệ thống được thiết kế có chủ
 
 **"You'll own nothing and you'll be happy"** không phải prediction — nó là **programming đang được execute**.
 
+*"You'll own nothing and you'll be happy" isn't a prediction — it's **programming being executed**.*
+
 Wake-up call cho Gen Z: Nhận ra bạn đang được **optimized để accept** một tương lai mà bạn không design. Câu hỏi không phải "bạn có hạnh phúc không?" mà là "bạn có TỰ DO không?"
+
+*Wake-up call for Gen Z: Realize you're being **optimized to accept** a future you didn't design. The question isn't "are you happy?" but "are you FREE?"*
 
 ---
 
