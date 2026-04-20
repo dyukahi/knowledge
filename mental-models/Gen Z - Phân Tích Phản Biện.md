@@ -187,11 +187,11 @@ Wake-up call cho Gen Z: Nhận ra bạn đang được **optimized để accept*
 ## Mở Rộng (Có Thể Phát Triển)
 
 1. **[[Gen Z và CBDC - Programmable Money Psychology]]** ✅ — Tại sao họ sẵn sàng accept programmable money?
-2. **TikTok Algorithm** — Ai thực sự kiểm soát worldview của Gen Z?
-3. **UBI & The End of Work** — Gen Z có đang được train để accept universal basic income?
-4. **Digital Identity** — Từ social media profiles đến government ID: một bước nhỏ
-5. **Climate Anxiety as Control** — Tại sao Gen Z lo lắng về climate hơn mọi thế hệ?
-6. **Transhumanism & Gen Z** — Chip implants, neural links: cool tech hay slippery slope?
+2. **[[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]** ✅ — Information warfare
+3. **[[UBI Conditioning - The End of Work Ethic]]** ✅ — Gen Z có đang được train để accept universal basic income?
+4. **[[Digital ID Normalization - From Instagram to Government ID]]** ✅ — Từ social media profiles đến government ID
+5. **[[Climate Anxiety as Control - Fear-Based Compliance]]** ✅ — Tại sao Gen Z lo lắng về climate hơn mọi thế hệ?
+6. **[[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]]** ✅ — Chip implants, neural links: cool tech hay slippery slope?
 
 ---
 
