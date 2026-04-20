@@ -185,6 +185,8 @@
   },
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
+    "index.md",
+    "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
     "INDEX.md",
     "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
     "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
@@ -210,8 +212,6 @@
     "quartz.config.ts",
     "esoterica/Manly P. Hall Chú Thuật Sư Cấp 33 Hội Tam Điểm.md",
     "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-    "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-    "esoterica/Thành Cổ Loa.md",
     "_docs/scripts/fix_all_related.py",
     "_docs/scripts/double_check_merge.py",
     "_docs/scripts/fill_gaps.py",

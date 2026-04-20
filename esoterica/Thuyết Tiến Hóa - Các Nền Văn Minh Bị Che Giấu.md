@@ -1,10 +1,11 @@
 ﻿---
-title: Thuyết Tiến Hóa & Các Nền Văn Minh Bị Che Giấu
+title: Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu
+aliases: ["Thuyết Tiến Hóa & Các Nền Văn Minh Bị Che Giấu", "Thuyết Tiến Hóa"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
-# Thuyết Tiến Hóa & Các Nền Văn Minh Bị Che Giấu
+# Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu
 *Tags: #source-note #evolution #atlantis #lemuria #ancient-civilizations #pyramids*
 
 Bài viết phản biện Thuyết Tiến Hóa và giới thiệu về các nền văn minh vĩ đại đã từng tồn tại nhưng bị xóa nhòa khỏi lịch sử dòng chính.
