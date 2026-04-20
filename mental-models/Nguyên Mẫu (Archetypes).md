@@ -1,46 +1,117 @@
 ---
 title: Nguyên Mẫu (Archetypes)
-aliases: ["Nguyên Mẫu"]
+aliases: ["Nguyên Mẫu", "Archetypes"]
 date: 2026-04-07
 tags: [mental-model]
 status: refined
 ---
 # Nguyên Mẫu (Archetypes)
 
-**Phân loại:** 
-**Từ khóa:** Archetype, Tâm Lý Học Jung, Nguyên Mẫu
+**Nguyên mẫu** là những hình ảnh và suy nghĩ mang ý nghĩa phổ quát qua nhiều nền văn hóa, xuất phát từ [[Vô Thức Tập Thể]] của nhân loại.
+
+*Archetypes are images and thoughts with universal meaning across cultures, originating from humanity's [[Vô Thức Tập Thể|Collective Unconscious]].*
 
 ---
 
-## Định Nghĩa
-Nguyên mẫu (Archetype) là những hình ảnh và suy nghĩ mang ý nghĩa phổ quát qua nhiều nền văn hóa, xuất phát từ Vô Thức Tập Thể của nhân loại.
+## Jung's Core Archetypes / Nguyên mẫu Cơ bản
 
-### Các Nguyên Mẫu Cơ Bản Của Carl Jung:
-1. **Mặt nạ (The Persona):** Bộ mặt bên ngoài chúng ta thể hiện với thế giới (Nguyên mẫu thích ứng - Adaptive Archetype). "Thế giới này là một sân khấu và mỗi người là một diễn viên".
-2. **Tính Nữ/Tính Nam (Anima/Animus):** Sự tồn tại song hành của yếu tố nam tính trong phụ nữ và nữ tính trong đàn ông. Lời nhắc nhở thoát khỏi Duality Trap.
-3. **Bóng tối (The Shadow):** Khía cạnh thú tính, nguồn căn của năng lượng kiến tạo và hủy diệt. Bẩm chất sinh tồn.
-4. **Bản ngã (The Self):** Sự thống nhất của trải nghiệm, quá trình "thành toàn tự ngã" (Individuation).
-
-### 4 Nguyên Mẫu Đàn Ông Trưởng Thành:
-Theo tâm lý học phân tích, đàn ông trưởng thành được chia thành:
-- **Nhà Vua (King)**
-- **Pháp Sư (Magician)**
-- **Chiến Binh (Warrior)**
-- **Người Tình (Lover)**
-*(Công thức: Warrior X Magician X Lover => KING)*
-
-## Liên Kết Nguồn:
-- S.E.X Và Tâm Lý Học Jung
-- Vô Thức Tập Thể
-- Nhị Nguyên
-- Manly P. Hall
+| Archetype | Vietnamese | Description |
+|-----------|------------|-------------|
+| **Persona** | Mặt nạ | Bộ mặt thể hiện với thế giới / Face shown to world |
+| **Shadow** | Bóng tối | Khía cạnh thú tính, năng lượng bị đè nén / Animal nature, repressed energy |
+| **Anima/Animus** | Tính Nữ/Nam | Opposite gender within / Giới tính đối lập bên trong |
+| **Self** | Bản ngã | Sự thống nhất toàn thể / Unified totality |
 
 ---
-**Ghi chú:** Các biểu tượng văn hóa tương đồng nhau vì chúng đều xuất phát từ những nguyên mẫu chung của toàn nhân loại.
+
+## Chi tiết / Details
+
+### 1. Persona (Mặt nạ)
+
+> "Thế giới này là một sân khấu và mỗi người là một diễn viên."
+> "All the world's a stage, and all the men and women merely players."
+
+- Adaptive archetype / Nguyên mẫu thích ứng
+- Necessary for social function / Cần thiết cho xã hội
+- Problem when identified with / Vấn đề khi đồng nhất với nó
+
+### 2. Shadow (Bóng tối)
+
+| Aspect | Description |
+|--------|-------------|
+| **Contains** | Repressed desires, instincts / Ham muốn, bản năng bị đè nén |
+| **Source of** | Creativity AND destruction / Sáng tạo VÀ phá hủy |
+| **Integration** | Key to wholeness / Chìa khóa để trọn vẹn |
+
+### 3. Anima/Animus
+
+| In Men | In Women |
+|--------|----------|
+| **Anima** — Inner feminine | **Animus** — Inner masculine |
+| Emotions, intuition | Logic, assertion |
+| Connection to unconscious | Drive, independence |
+
+→ Nhắc nhở thoát khỏi [[Nhị Nguyên]] trap / Reminder to escape duality trap
+
+### 4. Self (Bản ngã)
+
+- Goal of [[Individuation (Thành Toàn Bản Ngã)]]
+- Unification of all archetypes / Thống nhất tất cả nguyên mẫu
+- Symbol: Mandala, Christ, Buddha
+- Transcends ego / Vượt qua cái tôi
+
+---
+
+## 4 Mature Masculine Archetypes / 4 Nguyên mẫu Đàn ông Trưởng thành
+
+| Archetype | Vietnamese | Energy |
+|-----------|------------|--------|
+| **King** | Nhà Vua | Order, blessing, leadership |
+| **Warrior** | Chiến Binh | Action, discipline, boundaries |
+| **Magician** | Pháp Sư | Knowledge, transformation |
+| **Lover** | Người Tình | Passion, connection, aliveness |
+
+### Formula / Công thức:
+```
+Warrior × Magician × Lover = KING
+```
+
+Each has shadow forms (tyrant, sadist, manipulator, addict).
+*Mỗi nguyên mẫu có dạng bóng tối (bạo chúa, kẻ tàn ác, kẻ thao túng, người nghiện).*
+
+---
+
+## Tại sao Quan trọng? / Why It Matters?
+
+### Universal Patterns / Mô hình Phổ quát
+
+- Same stories across all cultures / Cùng câu chuyện mọi văn hóa
+- Hero's journey everywhere / Hành trình anh hùng khắp nơi
+- Why myths resonate / Tại sao thần thoại cộng hưởng
+
+### Personal Development / Phát triển Cá nhân
+
+- Identify your dominant archetypes
+- Integrate shadow aspects
+- Balance all energies
+- Path to [[Individuation (Thành Toàn Bản Ngã)]]
+
+### Understanding Others / Hiểu Người khác
+
+- Recognize patterns in behavior
+- See beyond surface
+- Compassion through understanding
+
+---
 
 ## Related
-- [[Individuation (Thành Toàn Bản Ngã)]]
-- [[Nhị Nguyên]]
+
+### Jung & Psychology
+- [[Tâm Lý Học Jung]] — Source
+- [[Vô Thức Tập Thể]] — Where archetypes live
+- [[Individuation (Thành Toàn Bản Ngã)]] — Goal
 - [[S.E.X Và Tâm Lý Học Jung]]
-- [[Tâm Lý Học Jung]]
-- [[Vô Thức Tập Thể]]
+
+### Philosophy
+- [[Nhị Nguyên]] — Anima/Animus transcends
+- [[Manly P. Hall]] — Symbol researcher
