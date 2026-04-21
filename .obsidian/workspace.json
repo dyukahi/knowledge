@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Vận Chín, Người Kogi và Ma Trận Y Tế"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
+    "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+    "esoterica/Cabal.md",
+    "index.md",
     "CNAME",
     "README.md",
     "claude.md",
@@ -209,8 +212,6 @@
     "esoterica/Luân Hồi.md",
     "esoterica/Gnosis (Ngộ Đạo).md",
     "esoterica/Chu Kỳ Hoàng Đạo.md",
-    "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
-    "Sự Nhật Thể.md",
     "quartz/static/giscus/light.css",
     "quartz/static/giscus/dark.css",
     "quartz/plugins/transformers/toc.ts",
@@ -220,7 +221,6 @@
     "quartz/plugins/transformers/ofm.ts",
     "quartz/plugins/transformers/links.ts",
     "quartz/plugins/transformers/linebreaks.ts",
-    "quartz/plugins/transformers/latex.ts",
     "quartz/static/og-image.png",
     "quartz/static/icon.png",
     "content/assets/og-image.png",
