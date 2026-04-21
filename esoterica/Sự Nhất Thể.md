@@ -1,108 +1,129 @@
 ---
 title: "Sự Nhất Thể (Oneness)"
+aliases: ["Oneness", "Unity", "Non-duality"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
 # Sự Nhất Thể (Oneness)
 
-**Sự Nhất Thể** là khái niệm cốt lõi trong hầu hết truyền thống tâm linh: bản chất thực sự của vạn vật là MỘT, không có sự chia tách giữa con người với nhau và với vũ trụ.
+**Sự Nhất Thể** là khái niệm cốt lõi trong hầu hết truyền thống tâm linh: bản chất thực sự của vạn vật là MỘT.
+
+*Oneness is the core concept in most spiritual traditions: the true nature of all things is ONE.*
 
 > "We are not human beings having a spiritual experience. We are spiritual beings having a human experience." — Pierre Teilhard de Chardin
 
-## Trong Các Truyền Thống
+---
+
+## Trong Các Truyền thống / Across Traditions
 
 | Tradition | Term | Meaning |
 |-----------|------|---------|
 | **Hinduism** | Brahman/Atman | Universal Self = Individual Self |
-| **Buddhism** | Interbeing | Everything interconnected |
-| **Taoism** | Tao | One source of all |
+| **Buddhism** | Interbeing | Everything interconnected / Mọi thứ liên kết |
+| **Taoism** | Tao | One source of all / Nguồn của tất cả |
 | **Christianity** | "I and the Father are one" | Unity with God |
 | **Sufism** | Wahdat al-Wujud | Unity of Being |
-| **Science** | Field theory | Unified field |
+| **Science** | Field theory | Unified field / Trường thống nhất |
 
-## Tại Sao Bị Che Giấu?
+---
 
-Theo [[Khế Ước Bí Mật Rockefeller]] và [[Elite]]:
+## Tại sao Bị Che giấu? / Why Hidden?
 
-### 1. Divide and Conquer
-- Chia rẽ bằng race, religion, nationality
-- Người vs người = không đoàn kết chống oppressors
-- "Them vs us" narratives
+### Divide and Conquer / Chia để Trị
 
-### 2. Fear of Unity
-- United humanity = uncontrollable
-- One world, one people = end of power structure
-- [[Ma Trận]] collapses if we remember
+| Method | Effect |
+|--------|--------|
+| **Race** | Us vs them |
+| **Religion** | My God vs your God |
+| **Nationality** | Border conflicts |
+| **Politics** | Left vs right |
 
-### 3. Tools of Division
-- Religion (my God vs your God)
-- Politics (left vs right)
-- Identity politics
-- War
+→ Divided people = can't unite against [[Elite]]
 
-## Illusion of Separation
+### Fear of Unity / Sợ Sự Đoàn kết
+
+| If United | Result |
+|-----------|--------|
+| One humanity | Uncontrollable / Không thể kiểm soát |
+| One people | End of power structure |
+| Remember oneness | [[Ma Trận]] collapses |
+
+---
+
+## Ảo tưởng Chia tách / Illusion of Separation
 
 ### [[Nhị Nguyên]] Trap
-- Good/evil, us/them, matter/spirit
-- Useful for navigation
-- But not ultimate truth
-- Maya (illusion) in Hindu philosophy
 
-### Ego's Role
-- Creates sense of separate self
-- Necessary for survival
-- But not who we truly are
+| Duality | Reality |
+|---------|---------|
+| Good/evil | Useful for navigation / Hữu ích để điều hướng |
+| Us/them | But not ultimate truth / Nhưng không phải sự thật tối hậu |
+| Matter/spirit | Maya (illusion) / Ảo (Maya) |
+
+### Ego's Role / Vai trò Bản ngã
+
+- Creates sense of separate self / Tạo cảm giác tách biệt
+- Necessary for survival / Cần cho sinh tồn
+- But not who we truly are / Nhưng không phải ta thật sự
 - See [[Individuation (Thành Toàn Bản Ngã)]]
 
-## Implications If True
+---
 
-### Personal
-- Harming others = harming self
-- Helping others = helping self
-- No need for competition
-- Natural compassion arises
+## Implications / Hàm ý
 
-### Collective
-- All political systems inadequate
-- Environmental destruction = self-harm
-- War is literally insane
-- Cooperation natural state
+### Personal / Cá nhân
 
-### Spiritual
-- Death is transition, not end
-- Individual soul returns to Source
-- Nothing to fear
-- Everything is divine
+| Action | Effect |
+|--------|--------|
+| **Harm others** | = Harm self / Hại người = Hại mình |
+| **Help others** | = Help self / Giúp người = Giúp mình |
+| **Competition** | Unnecessary / Không cần thiết |
+| **Compassion** | Natural / Tự nhiên |
 
-## How to Experience
+### Collective / Tập thể
 
-### Meditation
-- Dissolve boundaries
-- Rest in awareness
-- Observer = observed
+| Truth | Consequence |
+|-------|-------------|
+| **Environmental destruction** | = Self-harm / Tự hại |
+| **War** | Literally insane / Thật sự điên rồ |
+| **Cooperation** | Natural state / Trạng thái tự nhiên |
 
-### Nature
-- Feel connection with all life
-- Trees, animals, Earth
+### Spiritual / Tâm linh
 
-### Psychedelics (controversial)
-- Ego dissolution
-- Unity experience common
-- Integration crucial
+| Truth | Meaning |
+|-------|---------|
+| **Death** | Transition, not end / Chuyển tiếp, không kết thúc |
+| **Soul** | Returns to Source / Trở về Nguồn |
+| **Fear** | Nothing to fear / Không có gì để sợ |
 
-### Near-Death Experiences
-- Life review (feel others' feelings)
-- Overwhelming love
-- Sense of returning home
+---
+
+## Cách Trải nghiệm / How to Experience
+
+| Method | Description |
+|--------|-------------|
+| **Meditation** | Dissolve boundaries / Hòa tan ranh giới |
+| **Nature** | Feel connection with all life |
+| **Psychedelics** | Ego dissolution (controversial) |
+| **NDEs** | Life review, overwhelming love |
+| **Service** | Serving others = serving self |
+
+---
 
 ## Related
 
-- [[Nhị Nguyên]] — The illusion to transcend
+### Unity / Nhất Thể
+- [[Monad]] — The One source
+- [[Gnosis (Ngộ Đạo)]] — Direct experience
+- [[Lemuria]] — Civilization of oneness
+
+### Division / Chia tách
+- [[Nhị Nguyên]] — Illusion to transcend
+- [[Ma Trận]] — System of separation
 - [[Elite]] — Who benefits from division
 - [[Khế Ước Bí Mật Rockefeller]]
-- [[Ma Trận]] — System of separation
+
+### Integration
 - [[Individuation (Thành Toàn Bản Ngã)]]
-- [[Monad]] — The One source
-- [[Gnosis (Ngộ Đạo)]] — Direct experience of unity
-- [[Lemuria]] — Civilization of oneness
+- [[Tâm Lý Học Jung]]

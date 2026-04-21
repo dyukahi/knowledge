@@ -1,91 +1,131 @@
 ---
 title: Luân Hồi
+aliases: ["Samsara", "Reincarnation"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
-# Luân Hồi (Samsara)
+# Luân Hồi (Samsara / Reincarnation)
 
-**Luân Hồi** (Sanskrit: संसार saṃsāra = "wandering") là chu trình tái sinh của tâm thức qua các thân xác vật chất. Có trong Hindu, Buddhist, Jain và nhiều truyền thống khác.
+**Luân Hồi** (Sanskrit: संसार saṃsāra = "wandering") là chu trình tái sinh của tâm thức qua các thân xác vật chất.
 
-## 6 Cõi Tái Sinh (Buddhist)
+*Samsara (Sanskrit: संसार = "wandering") is the cycle of consciousness rebirth through physical bodies.*
 
-| Cõi | Đặc điểm | Nguyên nhân |
-|-----|----------|-------------|
-| **Thiên** (Deva) | Hạnh phúc lâu dài | Công đức lớn |
-| **A-tu-la** (Asura) | Ganh đua, chiến tranh | Tham vọng |
-| **Người** (Human) | Cân bằng khổ/vui | Cơ hội giác ngộ |
-| **Súc sinh** (Animal) | Bản năng | Vô minh |
-| **Ngạ quỷ** (Preta) | Đói khát | Tham lam |
-| **Địa ngục** (Naraka) | Đau khổ cực độ | Sân hận |
+---
 
-## Hai Góc Nhìn
+## 6 Cõi Tái Sinh / Six Realms (Buddhist)
 
-### 1. Tích cực (Buddhist/Hindu)
-- Trường học để linh hồn tiến hóa
-- Cơ hội trả [[Nhân Quả|nghiệp]]
-- Pathway to enlightenment
-- Birth as human = precious opportunity
+| Realm | Vietnamese | Characteristic | Cause |
+|-------|------------|----------------|-------|
+| **Deva** | Thiên | Long-lasting happiness | Great merit |
+| **Asura** | A-tu-la | Competition, war | Ambition |
+| **Human** | Người | Balance suffering/joy | Best chance for enlightenment |
+| **Animal** | Súc sinh | Instinct | Ignorance |
+| **Preta** | Ngạ quỷ | Hunger, thirst | Greed |
+| **Naraka** | Địa ngục | Extreme suffering | Hatred |
 
-### 2. Tiêu cực (Gnostic)
-- Prison planet / Soul trap
-- [[Tà Linh (Energy Parasites)|Archons]] harvest energy
-- Forced reincarnation = enslavement
-- "Tunnel of light" = deception
-- Xem [[Ma Trận]]
+---
 
-## Cơ Chế Tái Sinh
+## Hai Góc nhìn / Two Perspectives
 
-### 1. Death
-- Consciousness leaves body
-- "Life review" (có thể)
-- Bardo states (Tibetan)
+### 1. Tích cực / Positive (Buddhist/Hindu)
 
-### 2. Between Lives
-- Rest period
-- Soul contracts?
-- Choose next life?
+| View | Description |
+|------|-------------|
+| **School** | Trường học để linh hồn tiến hóa / School for soul evolution |
+| **Opportunity** | Trả [[Nhân Quả\|nghiệp]] / Pay karmic debts |
+| **Path** | Pathway to enlightenment |
+| **Human birth** | Precious opportunity / Cơ hội quý báu |
 
-### 3. Rebirth
-- Attracted by karma
-- Enter new body
-- Memory wiped (amnesia)
+### 2. Tiêu cực / Negative (Gnostic)
 
-## Thoát Luân Hồi
+| View | Description |
+|------|-------------|
+| **Prison planet** | Soul trap / Bẫy linh hồn |
+| **[[Tà Linh (Energy Parasites)\|Archons]]** | Harvest energy / Thu hoạch năng lượng |
+| **Forced rebirth** | Enslavement / Nô lệ hóa |
+| **"Tunnel of light"** | Deception? / Lừa dối? |
 
-### Buddhist Path
-- Tứ Diệu Đế (Four Noble Truths)
-- Bát Chánh Đạo
-- Niết Bàn (Nirvana) = end of cycle
+→ See [[Ma Trận]] for more
 
-### Gnostic Path
-- [[Gnosis (Ngộ Đạo)]] = direct knowledge
-- Don't go into the light?
-- Assert sovereignty
+---
 
-### Hindu Path
-- Moksha through various yogas
-- Bhakti (devotion)
-- Jnana (knowledge)
-- Karma (selfless action)
+## Cơ chế Tái sinh / Rebirth Mechanism
 
-## Evidence?
+### 1. Death / Chết
 
-### Past Life Memories
-- Ian Stevenson research (UVA)
-- Children remembering past lives
-- Verified details
+| Stage | Description |
+|-------|-------------|
+| **Separation** | Consciousness leaves body |
+| **Life review** | Review past actions (possible) |
+| **Bardo** | Intermediate states (Tibetan) |
 
-### NDEs
-- Near-death experiences
+### 2. Between Lives / Giữa các Kiếp
+
+- Rest period / Giai đoạn nghỉ
+- Soul contracts? / Hợp đồng linh hồn?
+- Choose next life? / Chọn kiếp tiếp?
+
+### 3. Rebirth / Tái sinh
+
+- Attracted by karma / Bị nghiệp thu hút
+- Enter new body / Vào thân mới
+- Memory wiped (amnesia) / Xóa ký ức
+
+---
+
+## Thoát Luân Hồi / Escape the Cycle
+
+### Buddhist Path / Con đường Phật giáo
+
+| Method | Description |
+|--------|-------------|
+| **Four Noble Truths** | Tứ Diệu Đế |
+| **Eightfold Path** | Bát Chánh Đạo |
+| **Nirvana** | Niết Bàn = end of cycle |
+
+### Gnostic Path / Con đường Ngộ đạo
+
+- [[Gnosis (Ngộ Đạo)]] = direct knowledge / Tri thức trực tiếp
+- Don't go into the light? / Đừng đi vào ánh sáng?
+- Assert sovereignty / Tuyên bố chủ quyền
+
+### Hindu Path / Con đường Hindu
+
+| Yoga | Method |
+|------|--------|
+| **Bhakti** | Devotion / Sùng kính |
+| **Jnana** | Knowledge / Tri thức |
+| **Karma** | Selfless action / Hành động vị tha |
+| **Goal** | Moksha / Giải thoát |
+
+---
+
+## Bằng chứng? / Evidence?
+
+### Past Life Memories / Ký ức Tiền kiếp
+
+- Ian Stevenson research (UVA) — 2,500+ cases
+- Children remembering past lives / Trẻ em nhớ tiền kiếp
+- Verified details / Chi tiết được xác minh
+
+### NDEs (Near-Death Experiences)
+
 - Consistent patterns across cultures
 - "Life review" phenomenon
+- Tunnel, light, beings
+
+---
 
 ## Related
 
+### Karma & Cycle
 - [[Nhân Quả]] — Drives the cycle
 - [[Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo]]
-- [[Ma Trận]] — Prison interpretation
 - [[Vũ Trụ Học Phật Giáo]]
+
+### Prison or School?
+- [[Ma Trận]] — Prison interpretation
 - [[Gnosis (Ngộ Đạo)]] — Escape route
 - [[Nhị Nguyên]] — Illusion to transcend
+- [[Monad]] — Source to return to
