@@ -1,9 +1,11 @@
 ---
-title: Knowledge Base Index
+title: Red Pill Wiki
+description: "Kho tri thức độc lập về Khoa Học Xét Lại, tâm linh, tài chính — những chủ đề bị mainstream che giấu. Independent research on Revisionist Science, spirituality, finance."
+image: assets/og-image.png
 tags: [index, navigation]
 ---
 
-# 🧠 Knowledge Base
+# 💊 Red Pill Wiki
 
 Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu.
 

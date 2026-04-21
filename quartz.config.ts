@@ -6,12 +6,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Justin's Second Brain",
+    pageTitle: "Red Pill Wiki",
+    pageTitleSuffix: " | redpill.wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "vi-VN",
-    baseUrl: "dyukahi.github.io/knowledge",
+    baseUrl: "redpill.wiki",
+    ogImagePath: "assets/og-image.png",
     ignorePatterns: ["private", "templates", ".obsidian", "_docs", "_inbox", "_templates", "CLAUDE.md", "claude.md"],
     defaultDateType: "created",
     theme: {
