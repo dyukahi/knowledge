@@ -22,12 +22,24 @@ related:
 
 # Climate Anxiety as Control: Khi Nỗi Sợ Trở Thành Công Cụ
 
-> "The whole aim of practical politics is to keep the populace alarmed (and hence clamorous to be led to safety) by menacing it with an endless series of hobgoblins."
-> — H.L. Mencken
+*Climate Anxiety as Control: When Fear Becomes a Tool*
+
+> "The whole aim of practical politics is to keep the populace alarmed (and hence clamorous to be led to safety) by menacing it with an endless series of hobgoblins." — H.L. Mencken
 
 ---
 
-## TL;DR
+## TL;DR (English Summary)
+
+- **56% of Gen Z** believe "humanity is doomed"
+- **40% of Gen Z** don't want children because of climate change
+- Climate anxiety is **real** — but it's also being **weaponized**
+- Fear → Compliance: Carbon tracking, 15-minute cities, consumption control
+- **Climate change is real. Climate hysteria is manufactured.**
+- Problem-Reaction-Solution: Create fear, offer control as salvation
+
+---
+
+## TL;DR (Tiếng Việt)
 
 - **56% Gen Z** tin rằng "humanity is doomed"
 - **40% Gen Z** không muốn có con vì climate change

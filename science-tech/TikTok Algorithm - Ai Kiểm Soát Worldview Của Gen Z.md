@@ -16,7 +16,9 @@ related:
   - "[[Gen Z và CBDC - Programmable Money Psychology]]"
 ---
 
-# TikTok Algorithm: Ai Thực Sự Kiểm Soát Worldview Của Gen Z?
+# TikTok Algorithm: Ai Kiểm Soát Worldview Của Gen Z?
+
+*TikTok Algorithm: Who Controls Gen Z's Worldview?*
 
 > "Give me control of a nation's money and I care not who makes its laws." — Mayer Rothschild
 > 
@@ -24,7 +26,18 @@ related:
 
 ---
 
-## TL;DR
+## TL;DR (English Summary)
+
+- TikTok isn't an "entertainment app" — it's an **information warfare weapon**
+- Algorithm decides **what you think, believe, and want**
+- Gen Z has **8-second attention span** (goldfish = 9 seconds)
+- ByteDance **shared algorithm with CCP** (Aug 2023)
+- Nov 2025 leak: TikTok **suppresses anti-China content 100%**, **amplifies US division 340%**
+- Your worldview is being **assigned by algorithm**, not chosen
+
+---
+
+## TL;DR (Tiếng Việt)
 
 - TikTok không phải "app giải trí" — nó là **vũ khí chiến tranh thông tin**
 - Algorithm quyết định **bạn nghĩ gì, tin gì, muốn gì**

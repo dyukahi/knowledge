@@ -21,11 +21,24 @@ related:
 
 # Digital ID Normalization: Từ Instagram Profile Đến Government ID
 
+*Digital ID Normalization: From Instagram Profile To Government ID*
+
 > "First they ask for your email. Then your phone number. Then your face. Then your iris. Then your DNA."
 
 ---
 
-## TL;DR
+## TL;DR (English Summary)
+
+- Gen Z has **voluntarily built** digital identity since childhood (social media profiles)
+- Government Digital ID is just **the next natural step**
+- EU Digital Identity Wallet: **mandatory by end of 2026**
+- Worldcoin has scanned **millions of irises** — even after being banned
+- **"Verify to exist"** is becoming the norm
+- The pipeline: social media → biometrics → total surveillance
+
+---
+
+## TL;DR (Tiếng Việt)
 
 - Gen Z đã **tự nguyện build** digital identity từ nhỏ (social media profiles)
 - Government Digital ID chỉ là **bước tiếp theo tự nhiên**

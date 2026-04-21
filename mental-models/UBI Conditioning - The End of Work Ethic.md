@@ -20,13 +20,25 @@ related:
 
 # UBI Conditioning: Gen Z Và Sự Kết Thúc Của Work Ethic
 
+*UBI Conditioning: Gen Z And The End of Work Ethic*
+
 > "Work will be optional." — Elon Musk, April 2026
 > 
-> **Câu hỏi:** Optional cho ai? Và ai sẽ own the robots?
+> **Question:** Optional for whom? And who will own the robots?
 
 ---
 
-## TL;DR
+## TL;DR (English Summary)
+
+- Gen Z is being **conditioned** to accept "income without work"
+- Quiet quitting → Antiwork → UBI acceptance: **an intentional pipeline**
+- UBI + CBDC = **total control**: conditional money, tracked behavior
+- Gen Z isn't "lazy" — they're being **programmed** to depend on the system
+- Work ethic erosion serves Agenda 2030's dependency goals
+
+---
+
+## TL;DR (Tiếng Việt)
 
 - Gen Z đang được **conditioning** để accept "thu nhập không cần làm việc"
 - Quiet quitting → Antiwork → UBI acceptance: **một pipeline có chủ đích**

@@ -22,14 +22,26 @@ related:
 
 # Transhumanism và Gen Z: Cool Tech hay Slippery Slope?
 
-> "Any sufficiently advanced technology is indistinguishable from magic."
-> — Arthur C. Clarke
+*Transhumanism and Gen Z: Cool Tech or Slippery Slope?*
+
+> "Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke
 >
 > **Corollary:** "Any sufficiently advanced control system is indistinguishable from convenience."
 
 ---
 
-## TL;DR
+## TL;DR (English Summary)
+
+- **6,000+ Swedes** have implanted RFID chips under their skin
+- **Neuralink** testing on humans — goal: human enhancement
+- Gen Z is the generation **most likely to embrace** body modification tech
+- **Medical use → Enhancement use → Mandatory use**: the pattern
+- "Upgrade yourself" may become "Upgrade or be left behind"
+- The slippery slope from convenience to control
+
+---
+
+## TL;DR (Tiếng Việt)
 
 - **6,000+ người Thụy Điển** đã cấy chip RFID dưới da
 - **Neuralink** đang test trên người — mục tiêu: human enhancement
