@@ -1,73 +1,112 @@
 ---
 title: "Cabal (Thế Lực Ngầm)"
-aliases: ["Cabal (Thế Lực Ngầm)"]
+aliases: ["Cabal", "Shadow Government", "Deep State"]
 date: 2026-04-08
 tags: [esoterica, politics-conspiracy]
 status: refined
 ---
 # Cabal (Thế Lực Ngầm)
 
-**Cabal** là thuật ngữ chỉ mạng lưới quyền lực ngầm vận hành phía sau các chính phủ, tập đoàn và tổ chức quốc tế. Trong [[Khoa Học Xét Lại (Revisionist Science)|Khoa Học Xét Lại]], Cabal được xem như "ban quản trị" của [[Ma Trận]] — hệ thống kiểm soát nhân loại.
+**Cabal** là mạng lưới quyền lực ngầm vận hành phía sau chính phủ, tập đoàn và tổ chức quốc tế. "Ban quản trị" của [[Ma Trận]].
 
-## Cấu Trúc Quyền Lực
+*The Cabal is a shadow power network operating behind governments, corporations, and international organizations. The "board of directors" of [[Ma Trận|the Matrix]].*
 
-### Tầng 1: Visible Power
-- Chính trị gia, CEO, Media moguls
-- Những người "có mặt trên TV"
-- Thực thi chính sách, không tạo ra
+---
 
-### Tầng 2: Hidden Power
-- Banking dynasties (Rothschild, Rockefeller)
-- Secret societies (Skull & Bones, Bilderberg)
-- Intelligence agencies
-- Tạo chính sách, điều phối
+## Cấu trúc Quyền lực / Power Structure
 
-### Tầng 3: Occult Power
-- Bloodlines cổ đại
-- Priest class của [[Annunaki]]?
-- Kết nối với entities ngoài 3D?
-- Mục tiêu: Duy trì "game" Ma Trận
+### Tầng 1: Visible Power / Quyền lực Hiển hiện
 
-## Công Cụ Kiểm Soát
+| Role | Examples |
+|------|----------|
+| Politicians | Presidents, Congress |
+| CEOs | Tech, Media moguls |
+| **Function** | Execute policy, don't create / Thực thi, không tạo ra |
 
-| Lĩnh vực | Công cụ | Mục đích |
-|----------|---------|----------|
-| **Tài chính** | Central banks, [[Tiền Pháp Định]] | Nô lệ nợ |
-| **Thông tin** | MSM, Big Tech | Narrative control |
-| **Giáo dục** | Curriculum chuẩn hóa | Programming từ nhỏ |
-| **Y tế** | Big Pharma | Dependency + profit |
-| **Giải trí** | Hollywood, Music industry | Occult messaging |
+### Tầng 2: Hidden Power / Quyền lực Ẩn
 
-## Chiến Thuật Cơ Bản
+| Entity | Role |
+|--------|------|
+| **Banking dynasties** | Rothschild, Rockefeller |
+| **Secret societies** | Skull & Bones, Bilderberg |
+| **Intelligence** | CIA, Mossad, MI6 |
+| **Function** | Create policy, coordinate / Tạo chính sách, điều phối |
+
+### Tầng 3: Occult Power / Quyền lực Huyền bí
+
+| Entity | Role |
+|--------|------|
+| **Ancient bloodlines** | Dòng dõi cổ đại |
+| **[[Annunaki]] priest class?** | |
+| **Non-3D entities?** | |
+| **Goal** | Maintain Matrix "game" |
+
+---
+
+## Công cụ Kiểm soát / Control Tools
+
+| Domain | Tool | Purpose |
+|--------|------|---------|
+| **Finance** | Central banks, [[Tiền Pháp Định\|Fiat]] | Debt slavery / Nô lệ nợ |
+| **Information** | MSM, Big Tech | Narrative control |
+| **Education** | Standardized curriculum | Programming from childhood |
+| **Health** | Big Pharma | Dependency + profit |
+| **Entertainment** | Hollywood, Music | Occult messaging |
+
+---
+
+## Chiến thuật / Tactics
 
 ### 1. Problem-Reaction-Solution
-1. Tạo vấn đề (terrorist attack, virus)
-2. Chờ phản ứng (fear, demand action)
-3. Đưa ra giải pháp (đã chuẩn bị sẵn, mở rộng control)
 
-### 2. Divide and Conquer
-- Left vs Right
-- Black vs White
-- Vaxxed vs Unvaxxed
-- Mục đích: Ngăn unite chống lại common enemy
+| Step | Action |
+|------|--------|
+| **1. Create problem** | Terrorist attack, virus / Tạo vấn đề |
+| **2. Wait for reaction** | Fear, demand action / Chờ phản ứng sợ hãi |
+| **3. Offer solution** | Pre-planned, expands control / Đã chuẩn bị sẵn |
+
+### 2. Divide and Conquer / Chia để Trị
+
+| Division | Purpose |
+|----------|---------|
+| Left vs Right | Prevent political unity |
+| Black vs White | Prevent class unity |
+| Vaxxed vs Unvaxxed | Create internal conflict |
+| **Goal** | Prevent uniting against common enemy |
 
 ### 3. Bread and Circuses
-- Entertainment overload
-- Sports, Social media, Porn
-- Distracted population = controlled population
 
-## Nibiru Connection
+| Distraction | Effect |
+|-------------|--------|
+| Sports, Social media | Time sink |
+| Entertainment overload | Mental exhaustion |
+| Porn | Energy drain |
+| **Result** | Distracted = controlled |
 
-Theo một số researchers, Cabal đang:
-- **Giấu sự thật** về [[Nibiru (Hành Tinh X)]]
-- **Tạo khủng hoảng** để che đậy thảm họa thiên nhiên sắp tới
-- **Xây bunkers** cho elite trong khi dân thường không biết gì
+---
+
+## [[Nibiru (Hành Tinh X)]] Connection
+
+| Claim | Implication |
+|-------|-------------|
+| **Hiding truth** | About incoming celestial body |
+| **Creating crises** | To cover natural disasters |
+| **Building bunkers** | For elite, not public |
+
+---
 
 ## Related
 
-- [[Elite]] — Tầng visible của Cabal
-- [[Ma Trận]] — Hệ thống kiểm soát
-- [[Nibiru và Nền Văn Minh Annunaki]]
-- [[Báo Cáo 2030]] — Blueprint hiện tại
+### Power Structure
+- [[Elite]] — Visible layer of Cabal
+- [[Ma Trận]] — The control system
+- [[Báo Cáo 2030]] — Current blueprint
+
+### Methods
 - [[Gematria]] — Ritual coding
 - [[Kiểm Soát Tâm Trí]]
+- [[Nhị Nguyên]] — Division tool
+
+### Origins
+- [[Nibiru và Nền Văn Minh Annunaki]]
+- [[Annunaki]] — Possible rulers
