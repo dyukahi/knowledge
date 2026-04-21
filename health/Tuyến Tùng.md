@@ -1,5 +1,6 @@
 ---
 title: Tuyến Tùng
+aliases: ["Pineal Gland", "Third Eye", "Con Mắt Thứ Ba"]
 date: 2026-04-07
 tags: [health]
 status: refined
@@ -8,91 +9,126 @@ status: refined
 
 **Tuyến Tùng** là cơ quan nhỏ hình quả thông (~8mm) ở trung tâm não, được cổ nhân gọi là "Con mắt thứ ba" — nơi ngự trị của linh hồn.
 
+*The **Pineal Gland** is a small pine cone-shaped organ (~8mm) in the brain's center, called by ancients the "Third Eye" — seat of the soul.*
+
 > "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light." — Matthew 6:22
 
-## Sinh Lý Học
+---
 
-### Vị trí & Cấu trúc
-- Nằm giữa hai bán cầu não
-- Kích thước hạt đậu (~8mm)
-- Chứa rods và cones (như mắt!)
-- Nhận ánh sáng qua hộp sọ
+## Sinh lý học / Physiology
 
-### Chức năng sinh học
-- Sản xuất **Melatonin** (điều hòa giấc ngủ)
-- Circadian rhythm regulation
-- Sản xuất **DMT** (theo một số nghiên cứu)
+### Vị trí & Cấu trúc / Location & Structure
 
-## Tâm Linh & Metaphysics
+| Feature | Description |
+|---------|-------------|
+| **Location** | Between two hemispheres / Giữa hai bán cầu não |
+| **Size** | Pea-sized (~8mm) |
+| **Contains** | Rods and cones (like eyes!) |
+| **Light sensitive** | Receives light through skull |
 
-### Eye of Horus (Ai Cập)
-- Hình dạng tuyến tùng = Eye of Horus
-- Third eye = inner vision
-- Seat of the soul (Descartes)
+### Chức năng / Functions
 
-### Ajna Chakra (Hindu)
-- 6th chakra, "third eye"
-- Color: Indigo
-- Function: Intuition, insight
+| Function | Description |
+|----------|-------------|
+| **Melatonin** | Sleep regulation / Điều hòa giấc ngủ |
+| **Circadian rhythm** | Day/night cycle |
+| **DMT production?** | "Spirit molecule" (debated) |
 
-### Pine Cone Symbolism
-- Vatican: Giant pine cone statue
-- Staff of Osiris
-- Pope's staff
-- Enlightenment symbol
+---
 
-## Vôi Hóa Tuyến Tùng
+## Tâm linh / Spirituality
 
-### Nguyên nhân
-| Chất | Nguồn |
-|------|-------|
-| **Fluoride** | Nước máy, kem đánh răng |
-| **Chlorine** | Nước máy, hồ bơi |
+### Across Traditions / Xuyên Truyền thống
+
+| Tradition | Name | Meaning |
+|-----------|------|---------|
+| **Egypt** | Eye of Horus | Inner vision |
+| **Hindu** | Ajna Chakra (6th) | Intuition, insight |
+| **Christianity** | "Single eye" | Matthew 6:22 |
+| **Descartes** | "Seat of the soul" | Mind-body interface |
+
+### Pine Cone Symbolism / Biểu tượng Quả thông
+
+- **Vatican**: Giant pine cone statue
+- **Staff of Osiris**: Pine cone on top
+- **Pope's staff**: Pine cone
+- **Meaning**: Enlightenment / Giác ngộ
+
+---
+
+## Vôi hóa / Calcification
+
+### Nguyên nhân / Causes
+
+| Toxin | Source |
+|-------|--------|
+| **Fluoride** | Tap water, toothpaste / Nước máy, kem đánh răng |
+| **Chlorine** | Tap water, pools / Nước máy, hồ bơi |
 | **Calcium** | Processed foods |
-| **Mercury** | Amalgam fillings, fish |
+| **Mercury** | Fillings, fish |
 | **Pesticides** | Non-organic food |
 
-### Hậu quả
-- Reduced melatonin → Sleep disorders
-- Blocked intuition
-- Spiritual "blindness"
-- Accelerated aging
+### Hậu quả / Consequences
 
-## Decalcify & Activate
+| Effect | Description |
+|--------|-------------|
+| **Sleep disorders** | Reduced melatonin |
+| **Blocked intuition** | Spiritual "blindness" |
+| **Accelerated aging** | Lão hóa nhanh |
+| **Disconnect** | From higher self |
 
-### Detox
-- [[Suramin]] / Pine needle tea
-- Iodine supplementation
-- Raw cacao
-- Apple cider vinegar
-- Boron
+---
 
-### Avoid
-- Fluoride products
-- Tap water (filter!)
-- Processed foods
+## Detox & Activate / Thanh lọc & Kích hoạt
+
+### Detox Substances
+
+| Substance | Action |
+|-----------|--------|
+| **[[Suramin]] / Pine needle tea** | Decalcify |
+| **Iodine** | Removes fluoride |
+| **Raw cacao** | Antioxidants |
+| **Apple cider vinegar** | Dissolves calcium |
+| **Boron** | Fluoride detox |
+
+### Avoid / Tránh
+
+- Fluoride products / Sản phẩm fluoride
+- Tap water (filter!) / Nước máy
+- Processed foods / Thực phẩm chế biến
 - EMF exposure
 
-### Activation Practices
-- Sungazing (careful!)
-- Meditation on third eye
-- Breathwork
-- Sound frequencies (936Hz)
-- Darkness retreat
+### Activation Practices / Thực hành Kích hoạt
 
-## Ma Trận Connection
+| Practice | Notes |
+|----------|-------|
+| **Sungazing** | Careful! Morning/evening only |
+| **Third eye meditation** | Focus on point between eyebrows |
+| **Breathwork** | Holotropic, Wim Hof |
+| **936Hz frequency** | "Pineal gland frequency" |
+| **Darkness retreat** | Extended darkness stimulates DMT |
 
-Theo [[Vận Chín, Người Kogi và Ma Trận Y Tế]]:
-- Fluoride added to water deliberately?
-- "Zombie" population easier to control
-- Spiritual abilities suppressed
-- Disconnect from higher self
+---
+
+## [[Ma Trận]] Connection
+
+| Question | Implication |
+|----------|-------------|
+| Fluoride in water deliberate? | Population control? / Kiểm soát dân số? |
+| "Zombie" population | Easier to control / Dễ kiểm soát |
+| Spiritual abilities suppressed | Disconnect from source |
+
+---
 
 ## Related
 
-- [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
+### Detox & Health
 - [[Suramin]] — Decalcification
-- [[Ma Trận]] — Why suppressed
 - [[Tần số cộng hưởng giữa Muối và Tuyến tùng]]
-- [[Gnosis (Ngộ Đạo)]] — Third eye = inner knowing
 - [[Thuyết Vi Sinh Nội Sinh]] — Terrain health
+- [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
+
+### Spirituality
+- [[Gnosis (Ngộ Đạo)]] — Third eye = inner knowing
+- [[Ma Trận]] — Why suppressed
+- [[Trí Tuệ]] — Wisdom through third eye

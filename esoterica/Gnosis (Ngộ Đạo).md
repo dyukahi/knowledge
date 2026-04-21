@@ -1,87 +1,126 @@
 ---
 title: Gnosis (Ngộ Đạo)
+aliases: ["Gnosis", "Gnosticism"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
 # Gnosis (Ngộ Đạo)
 
-**Gnosis** (từ tiếng Hy Lạp γνῶσις = "knowledge") là sự nhận biết trực tiếp về Thần Tính bên trong, không thông qua tôn giáo có tổ chức hay trung gian nào.
+**Gnosis** (từ tiếng Hy Lạp γνῶσις = "knowledge") là sự nhận biết trực tiếp về Thần Tính bên trong, không thông qua tôn giáo có tổ chức.
+
+*Gnosis (Greek γνῶσις = "knowledge") is direct knowing of the Divine within, not through organized religion.*
 
 > "Nước Trời ở trong các ngươi." — Luke 17:21
+> "The Kingdom of God is within you."
 
-## Khái Niệm Cốt Lõi
+---
 
-### 1. Direct Experience
-- Không cần priest, church, ritual
-- Thượng Đế ngự trong linh hồn
-- Self-knowledge = God-knowledge
-- "Know thyself" (Oracle at Delphi)
+## Khái niệm Cốt lõi / Core Concepts
 
-### 2. Divine Spark
-- Mỗi người có "tia lửa thần thánh" bên trong
-- Bị trapped trong vật chất
-- Mục tiêu: Nhớ lại và giải phóng
+### 1. Direct Experience / Trải nghiệm Trực tiếp
+
+| Principle | Meaning |
+|-----------|---------|
+| **No intermediary** | Không cần priest, church, ritual |
+| **God within** | Thượng Đế ngự trong linh hồn |
+| **Self = God knowledge** | "Know thyself" (Oracle at Delphi) |
+
+### 2. Divine Spark / Tia lửa Thần thánh
+
+- Everyone has divine spark inside / Mỗi người có tia lửa thần thánh
+- Trapped in matter / Bị mắc kẹt trong vật chất
+- Goal: Remember and liberate / Nhớ lại và giải phóng
 
 ### 3. Demiurge
-- "Creator god" của thế giới vật chất
-- Không phải True God, chỉ là thợ xây
-- Tạo ra [[Ma Trận]] để trap souls
-- Gọi là Yaldabaoth, Samael, Satan
 
-## Vượt Thoát Luân Hồi
+| Aspect | Description |
+|--------|-------------|
+| **Who** | "Creator god" of material world / Thần tạo ra thế giới vật chất |
+| **Not** | True God, just a craftsman / Không phải Thượng Đế thật |
+| **Creates** | [[Ma Trận]] to trap souls |
+| **Names** | Yaldabaoth, Samael, Satan |
 
-Theo Gnostic cosmology:
-1. **Amnesia**: Linh hồn quên nguồn gốc khi incarnate
-2. **Sleep**: Sống trong ảo tưởng của Demiurge
-3. **Awakening**: Nhận ra mình là divine
-4. **Gnosis**: Trực tiếp trải nghiệm Truth
-5. **Return**: Hợp nhất với Pleroma (Cõi Ánh Sáng)
+---
 
-→ Không còn cần [[Luân Hồi]] nữa
+## Vượt thoát Luân hồi / Escape Reincarnation
 
-## Kinh Sách Bị Đàn Áp
+### Gnostic Path
 
-### Nag Hammadi Library (phát hiện 1945)
-- Gospel of Thomas
-- Gospel of Philip
-- Gospel of Mary Magdalene
-- Gospel of Judas
-- Apocryphon of John
+| Stage | Description |
+|-------|-------------|
+| **1. Amnesia** | Soul forgets origin when incarnating |
+| **2. Sleep** | Living in Demiurge's illusion |
+| **3. Awakening** | Realize you are divine / Nhận ra mình là divine |
+| **4. Gnosis** | Direct experience of Truth |
+| **5. Return** | Merge with Pleroma (Light Realm) |
 
-### Tại sao bị giấu?
-- Đe dọa quyền lực của Church
-- Không cần priests = không cần institution
-- Empowers individual over hierarchy
-- "Heresy" theo Rome
+→ No more [[Luân Hồi]] needed / Không còn cần luân hồi
 
-## Gnosticism vs Orthodox Christianity
+---
 
-| Gnosticism | Orthodox |
-|------------|----------|
-| Knowledge saves | Faith saves |
-| God within | God outside |
-| Direct access | Through Church |
+## Kinh sách Bị đàn áp / Suppressed Texts
+
+### Nag Hammadi Library (1945)
+
+| Text | Content |
+|------|---------|
+| **Gospel of Thomas** | Sayings of Jesus |
+| **Gospel of Philip** | Mary Magdalene |
+| **Gospel of Mary** | Female disciple |
+| **Gospel of Judas** | Alternative narrative |
+| **Apocryphon of John** | Creation story |
+
+### Why hidden? / Tại sao bị giấu?
+
+- Threatens Church power / Đe dọa quyền lực Giáo hội
+- No priests needed / Không cần tu sĩ
+- Empowers individual / Trao quyền cá nhân
+- "Heresy" to Rome
+
+---
+
+## Gnosticism vs Orthodox
+
+| Gnosticism | Orthodox Christianity |
+|------------|----------------------|
+| Knowledge saves / Tri thức cứu rỗi | Faith saves / Đức tin cứu rỗi |
+| God within / Thượng Đế bên trong | God outside / Thượng Đế bên ngoài |
+| Direct access / Tiếp cận trực tiếp | Through Church / Qua Giáo hội |
 | Demiurge = imposter | Creator = God |
-| Escape matter | Await rapture |
+| Escape matter / Thoát vật chất | Await rapture |
 
-## Modern Gnostic Influences
+---
 
-### Trong văn hóa
-- The Matrix (Red pill = Gnosis)
-- The Truman Show
-- Dark City
+## Modern Influences / Ảnh hưởng Hiện đại
 
-### Trong tâm linh
-- Carl Jung (studied Gnosticism deeply)
+### Trong Văn hóa / In Culture
+
+| Film | Gnostic Element |
+|------|-----------------|
+| **The Matrix** | Red pill = Gnosis |
+| **The Truman Show** | False reality |
+| **Dark City** | Trapped souls |
+
+### Trong Tâm linh / In Spirituality
+
+- [[Tâm Lý Học Jung]] — Jung studied Gnosticism deeply
 - New Age "awakening"
-- Non-dual teachings
+- Non-dual teachings (Advaita)
+
+---
 
 ## Related
 
+### Escape Path
 - [[Luân Hồi]] — Cycle to escape
-- [[Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]]
 - [[Ma Trận]] — Demiurge's creation
+- [[Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]]
+
+### Source
 - [[Monad]] — The true Source
-- [[Individuation (Thành Toàn Bản Ngã)]] — Jung's Gnosis
 - [[Sự Nhất Thể]] — Return to Oneness
+
+### Integration
+- [[Individuation (Thành Toàn Bản Ngã)]] — Jung's Gnosis
+- [[Tuyến Tùng]] — Third eye opens to Gnosis
