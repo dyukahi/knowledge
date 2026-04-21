@@ -1,120 +1,147 @@
 ---
 title: Individuation (Thành Toàn Bản Ngã)
-aliases: ["Individuation"]
+aliases: ["Individuation", "Self-Actualization"]
 date: 2026-04-12
 tags: [mental-model]
 status: refined
 ---
 # Individuation (Thành Toàn Bản Ngã)
 
-**Individuation** là khái niệm trung tâm trong [[Tâm Lý Học Jung]]: quá trình trở thành một cá thể toàn vẹn, tích hợp ý thức và vô thức thành một thể thống nhất.
+**Individuation** là khái niệm trung tâm trong [[Tâm Lý Học Jung]]: quá trình trở thành một cá thể toàn vẹn, tích hợp ý thức và vô thức.
+
+*Individuation is the central concept in [[Tâm Lý Học Jung|Jungian Psychology]]: the process of becoming a whole individual, integrating conscious and unconscious.*
 
 > "The privilege of a lifetime is to become who you truly are." — Carl Jung
 
-## Quá Trình
+---
 
-### 1. Encounter with Shadow
-- Đối mặt với phần tối của mình
-- Những gì bị đè nén, từ chối
-- "What you resist, persists"
-- Integration, not elimination
+## Quá trình / Process
 
-### 2. Dissolving Persona
-- [[Nguyên Mẫu (Archetypes)|Persona]] = mặt nạ xã hội
-- Realize: "I am not my roles"
-- Teacher, parent, employee ≠ Self
-- Authentic self emerges
+### 1. Encounter with Shadow / Đối mặt Bóng tối
+
+| Step | Description |
+|------|-------------|
+| **Face darkness** | Đối mặt phần tối của mình |
+| **Repressed parts** | Những gì bị đè nén, từ chối |
+| **Principle** | "What you resist, persists" |
+| **Goal** | Integration, not elimination / Tích hợp, không loại bỏ |
+
+### 2. Dissolving Persona / Gỡ bỏ Mặt nạ
+
+| Realization | Meaning |
+|-------------|---------|
+| **Persona = social mask** | [[Nguyên Mẫu (Archetypes)\|Persona]] = mặt nạ xã hội |
+| **"I am not my roles"** | Teacher, parent, employee ≠ Self |
+| **Authentic self** | Emerges when masks dissolve |
 
 ### 3. Anima/Animus Integration
-- Anima = feminine in men
-- Animus = masculine in women
-- Balance masculine/feminine within
-- Wholeness requires both
 
-### 4. Encounter with Self
-- Self = totality of psyche
-- Transcends ego
-- Symbol: Mandala, Christ, Buddha
-- Numinous experience
+| In Men | In Women |
+|--------|----------|
+| **Anima** = inner feminine | **Animus** = inner masculine |
+| Balance both | Balance both |
+| Wholeness requires integration / Toàn vẹn cần tích hợp |
 
-## Stages & Archetypes
+### 4. Encounter with Self / Gặp gỡ Bản ngã
+
+| Aspect | Description |
+|--------|-------------|
+| **Self** | Totality of psyche / Toàn thể tâm trí |
+| **Transcends ego** | Beyond small self / Vượt qua cái tôi nhỏ |
+| **Symbols** | Mandala, Christ, Buddha |
+| **Experience** | Numinous / Thiêng liêng |
+
+---
+
+## Stages & Archetypes / Giai đoạn & Nguyên mẫu
 
 | Stage | Archetype | Task |
 |-------|-----------|------|
-| Childhood | Innocent | Being cared for |
-| Adolescence | Hero | Separation from parents |
-| Adult | Lover/Warrior | Engaging world |
-| Midlife | Magician | Transformation |
-| Elder | Sage | Wisdom, integration |
+| **Childhood** | Innocent | Being cared for |
+| **Adolescence** | Hero | Separation from parents |
+| **Adult** | Lover/Warrior | Engaging world |
+| **Midlife** | Magician | Transformation |
+| **Elder** | Sage | Wisdom, integration |
 
-## Tại Sao Quan Trọng Trong Ma Trận
+---
 
-### 1. Immune to Manipulation
-- Know your shadow = can't be triggered
-- Know your persona = can't be shamed
-- Integrated = less buttons to push
-- [[Elite]] loses control
+## Tại sao Quan trọng? / Why It Matters
 
-### 2. Beyond Duality
-- Transcend [[Nhị Nguyên]] traps
+### 1. Immune to Manipulation / Miễn nhiễm Thao túng
+
+| State | Result |
+|-------|--------|
+| **Know shadow** | Can't be triggered / Không bị kích động |
+| **Know persona** | Can't be shamed / Không bị xấu hổ |
+| **Integrated** | Less buttons to push / Ít "nút bấm" |
+
+### 2. Beyond [[Nhị Nguyên]] / Vượt Nhị Nguyên
+
 - Not left vs right
-- Not good vs evil (in simplistic sense)
-- Hold paradox
+- Not simplistic good vs evil
+- Can hold paradox / Có thể giữ nghịch lý
 
-### 3. Access to [[Vô Thức Tập Thể]]
-- Individual unconscious → Collective
+### 3. Access [[Vô Thức Tập Thể]]
+
+- Individual → Collective unconscious
 - Archetypal wisdom available
-- Pattern recognition
-- Prophetic capacity
+- Pattern recognition / Nhận diện patterns
 
 ### 4. Toward [[Sự Nhất Thể]]
-- Personal wholeness → Universal connection
-- Micro = Macro
-- Individual healing = collective healing
 
-## Obstacles
+```
+Personal wholeness → Universal connection
+Micro = Macro
+Individual healing = Collective healing
+```
 
-### Modern World Blocks
-- Consumerism (buy wholeness)
-- Social media (curate persona)
-- Busyness (avoid inner work)
-- Medication (numb the process)
+---
 
-### Psychological
-- Fear of shadow
-- Attachment to persona
-- Inflation (ego thinks it's Self)
-- Deflation (depression)
+## Obstacles / Trở ngại
 
-## How to Practice
+### Modern World / Thế giới Hiện đại
 
-### Shadow Work
-- Journal dark thoughts
-- Notice projections
-- What annoys you in others?
-- Active imagination
+| Block | How |
+|-------|-----|
+| **Consumerism** | Buy wholeness / Mua sự toàn vẹn |
+| **Social media** | Curate persona |
+| **Busyness** | Avoid inner work / Tránh nội tâm |
+| **Medication** | Numb the process |
 
-### Dream Analysis
-- Keep dream journal
-- Symbols = unconscious messages
-- Recurring dreams significant
+### Psychological / Tâm lý
 
-### Therapy
-- Jungian analysis
-- Depth psychology
-- Safe container for integration
+| Block | Description |
+|-------|-------------|
+| **Fear of shadow** | Sợ bóng tối |
+| **Attachment to persona** | Dính mắc mặt nạ |
+| **Inflation** | Ego thinks it's Self |
+| **Deflation** | Depression / Trầm cảm |
 
-### Creative Expression
-- Art, writing, music
-- Let unconscious speak
-- Don't censor
+---
+
+## How to Practice / Cách Thực hành
+
+| Method | Description |
+|--------|-------------|
+| **Shadow work** | Journal dark thoughts, notice projections |
+| **Dream analysis** | Keep dream journal, decode symbols |
+| **Jungian therapy** | Safe container for integration |
+| **Creative expression** | Art, writing, music — let unconscious speak |
+
+---
 
 ## Related
 
-- [[Tâm Lý Học Jung]] — Source of concept
+### Psychology / Tâm lý học
+- [[Tâm Lý Học Jung]] — Source
 - [[Nguyên Mẫu (Archetypes)]] — Key players
 - [[Vô Thức Tập Thể]] — Deeper layer
+
+### Transcendence / Siêu vượt
 - [[Sự Nhất Thể]] — Destination
 - [[Nhị Nguyên]] — To transcend
+- [[Gnosis (Ngộ Đạo)]] — Direct knowing
+
+### Matrix / Ma Trận
 - [[Ma Trận]] — What individuation escapes
 - [[Elite]] — Who fears individuated people
