@@ -1,5 +1,5 @@
-﻿---
-title: Khế Ước Bí Mật Rockefeller
+---
+title: "Khế Ước Bí Mật Rockefeller (The Secret Covenant)"
 date: 2026-04-08
 tags: [politics-conspiracy]
 status: refined
@@ -9,39 +9,86 @@ status: refined
 
 Bản dịch của tài liệu "Masonic Creed" được cho là của John D. Rockefeller (thập niên 1880), phác họa một kế hoạch thống trị toàn cầu thông qua việc tạo ra một "Đế chế của những ảo tưởng".
 
-## Các Chiến Lược Thao Túng Cốt Lõi
+*Translation of the "Masonic Creed" document allegedly by John D. Rockefeller (1880s), outlining a global domination plan through creating an "Empire of Illusions."*
 
-### 1. Tạo Ra Ảo Tưởng Quy Mô Lớn
-- Thiết lập một thực tại giả tạo vượt xa khả năng nhận thức của đám đông. Kẻ nào nhìn ra sự thật sẽ bị dán nhãn là "điên loạn".
-- Chia để trị: Tạo ra các mặt trận tách biệt để che giấu mối liên hệ giữa các nhóm tinh hoa (Elite).
+## Các Chiến Lược Thao Túng Cốt Lõi (Core Manipulation Strategies)
 
-### 2. Suy Yếu Thể Chất & Trí Não (Kiểm Soát Sinh Học)
-- Sử dụng kim loại mềm, chất thúc đẩy lão hóa và thuốc an thần trong thực phẩm, nước và không khí.
-- **Y tế & Dược phẩm:** Giả vờ tìm thuốc chữa nhưng thực chất là đưa thêm chất độc. Tiêm nhiễm chất độc vào trẻ em ngay từ khi mới sinh (Kết nối: Y Tế Tự Nhiên (Anti-Matrix Health), Thuyết Vi Sinh Nội Sinh).
-- **Thực phẩm:** Nhắm vào trẻ em bằng đồ ngọt và trám răng bằng kim loại gây hại não bộ.
+### 1. Tạo Ra Ảo Tưởng Quy Mô Lớn (Creating Large-Scale Illusions)
 
-### 3. Thao Túng Tâm Trí & Sự Chú Ý
-- Đánh lạc hướng con người bằng tiền bạc, vật chất, tình dục và các trò chơi giải trí (Kết nối: Sự Thật Đen Tối Về Phim Khiêu Dâm).
-- Sử dụng nỗi sợ làm vũ khí và thiết lập các chính phủ giả tạo với các phe đối lập do họ kiểm soát (Kết nối: Điều mà nền giáo dục và chính phủ không dạy bạn).
+Thiết lập một thực tại giả tạo vượt xa khả năng nhận thức của đám đông. Kẻ nào nhìn ra sự thật sẽ bị dán nhãn là "điên loạn".
 
-### 4. Chia Rẽ & Xung Đột
-- Tách rời con người khỏi "Sự Nhất Thể" bằng giáo điều và tôn giáo.
-- Kích động thù hận, sắc tộc và chiến tranh để trục lợi và tiêu diệt các "nguồn sáng" tỉnh thức.
+*Establish a false reality beyond the masses' perception capacity. Anyone who sees through it will be labeled "insane."*
 
-### 5. Gông Cùm Tài Chính
-- Chiếm đoạt tài nguyên, đất đai và thiết lập hệ thống nợ nần vĩnh viễn (Kết nối: Tiền Giấy - Tiền Mặt, Báo Cáo 2030).
+Chia để trị: Tạo ra các mặt trận tách biệt để che giấu mối liên hệ giữa các nhóm tinh hoa ([[Elite]]).
 
-## Mối Liên Hệ Với Tuyên Ngôn Bức Tường Băng
-Khế ước này chính là "phần mềm" vận hành cái "khung củi vật lý" được mô tả trong Tuyên Ngôn Bức Tường Băng. Trong khi Bức tường băng giới hạn không gian di chuyển, Khế ước Rockefeller giới hạn nhận thức và khả năng thức tỉnh của con người bên trong cái lồng đó.
+*Divide and conquer: Create separate fronts to hide connections between elite groups.*
+
+### 2. Suy Yếu Thể Chất & Trí Não (Physical & Mental Weakening)
+
+**Kiểm Soát Sinh Học (Biological Control):**
+- Sử dụng kim loại mềm, chất thúc đẩy lão hóa và thuốc an thần trong thực phẩm, nước và không khí
+- *Use soft metals, aging accelerators, and sedatives in food, water, and air*
+
+**Y tế & Dược phẩm (Healthcare & Pharmaceuticals):**
+- Giả vờ tìm thuốc chữa nhưng thực chất là đưa thêm chất độc
+- Tiêm nhiễm chất độc vào trẻ em ngay từ khi mới sinh
+- *Pretend to seek cures while actually adding more poisons*
+- *Inject toxins into children from birth*
+
+Kết nối: [[Y Tế Tự Nhiên (Anti-Matrix Health)]], [[Thuyết Vi Sinh Nội Sinh]]
+
+**Thực phẩm (Food):**
+- Nhắm vào trẻ em bằng đồ ngọt
+- Trám răng bằng kim loại gây hại não bộ
+- *Target children with sweets*
+- *Dental fillings with brain-damaging metals*
+
+### 3. Thao Túng Tâm Trí & Sự Chú Ý (Mind & Attention Manipulation)
+
+Đánh lạc hướng con người bằng tiền bạc, vật chất, tình dục và các trò chơi giải trí.
+
+*Distract humans with money, material goods, sex, and entertainment.*
+
+Kết nối: [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
+
+Sử dụng nỗi sợ làm vũ khí và thiết lập các chính phủ giả tạo với các phe đối lập do họ kiểm soát.
+
+*Use fear as a weapon and establish fake governments with controlled opposition.*
+
+Kết nối: [[Điều mà nền giáo dục và chính phủ không dạy bạn]]
+
+### 4. Chia Rẽ & Xung Đột (Division & Conflict)
+
+Tách rời con người khỏi "Sự Nhất Thể" bằng giáo điều và tôn giáo.
+
+*Separate humans from "Oneness" through dogma and religion.*
+
+Kích động thù hận, sắc tộc và chiến tranh để trục lợi và tiêu diệt các "nguồn sáng" tỉnh thức.
+
+*Incite hatred, racism, and war for profit and to eliminate awakening "light sources."*
+
+### 5. Gông Cùm Tài Chính (Financial Shackles)
+
+Chiếm đoạt tài nguyên, đất đai và thiết lập hệ thống nợ nần vĩnh viễn.
+
+*Seize resources, land, and establish perpetual debt systems.*
+
+Kết nối: [[Tiền Giấy - Tiền Mặt]], [[Báo Cáo 2030]]
+
+## Mối Liên Hệ Với Tuyên Ngôn Bức Tường Băng (Connection to Ice Wall Manifesto)
+
+Khế ước này chính là "phần mềm" vận hành cái "khung củi vật lý" được mô tả trong [[Tuyên Ngôn Bức Tường Băng]]. Trong khi Bức tường băng giới hạn không gian di chuyển, Khế ước Rockefeller giới hạn nhận thức và khả năng thức tỉnh của con người bên trong cái lồng đó.
+
+*This covenant is the "software" operating the "physical cage" described in [[Tuyên Ngôn Bức Tường Băng|Ice Wall Manifesto]]. While the Ice Wall limits physical movement, the Rockefeller Covenant limits perception and awakening capacity within that cage.*
 
 ## Related
 - [[Báo Cáo 2030]]
 - [[Bức Tường Băng]]
 - [[Elite]]
-- [[Sự Nhất Thể]]
 - [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
 - [[Thuyết Vi Sinh Nội Sinh]]
 - [[Tiền Giấy - Tiền Mặt]]
 - [[Tuyên Ngôn Bức Tường Băng]]
 - [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
 - [[Điều mà nền giáo dục và chính phủ không dạy bạn]]
+- [[Kiểm Soát Tâm Trí]] — Cơ chế kiểm soát / Control mechanism
