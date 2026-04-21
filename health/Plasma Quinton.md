@@ -1,83 +1,125 @@
 ---
 title: "Plasma Quinton (Huyết Tương Biển)"
+aliases: ["Quinton Plasma", "Marine Plasma", "Seawater Therapy"]
 date: 2026-04-08
 tags: [health]
 status: refined
 ---
 # Plasma Quinton (Huyết Tương Biển)
 
-**Plasma Quinton** là nước biển được lấy từ các xoáy nước đại dương giàu sinh vật phù du, xử lý vô trùng ở nhiệt độ thấp để giữ nguyên đặc tính sinh học. Được phát triển bởi [[René Quinton và Huyết Tương Biển|René Quinton]] vào đầu thế kỷ 20.
+**Plasma Quinton** là nước biển từ các xoáy nước đại dương, xử lý vô trùng ở nhiệt độ thấp để giữ đặc tính sinh học. Phát triển bởi René Quinton đầu thế kỷ 20.
 
-## Nguyên Lý
+*Quinton Plasma is seawater from ocean vortexes, cold-sterilized to preserve biological properties. Developed by René Quinton in early 20th century.*
 
-### Cơ thể = Đại dương thu nhỏ
-- Nội môi (milieu intérieur) của cơ thể tương tự nước biển
-- 78 nguyên tố vi lượng ở dạng ionic
-- pH và độ mặn tương đương
+---
 
-### Terrain Theory Connection
-Theo [[Thuyết Vi Sinh Nội Sinh]]:
-- Bệnh tật do môi trường nội bào bị ô nhiễm
-- Plasma Quinton "reset" terrain về trạng thái cân bằng
-- Tế bào tự chữa lành khi môi trường sạch
+## Nguyên lý / Principle
 
-## Các Dạng Sản Phẩm
+### Cơ thể = Đại dương Thu nhỏ / Body = Miniature Ocean
 
-| Loại | Nồng độ | Công dụng |
-|------|---------|-----------|
-| **Isotonic** | Pha loãng 1:3 | Uống hàng ngày, detox nhẹ |
-| **Hypertonic** | Nguyên chất | Boost năng lượng, emergency |
+| Aspect | Similarity |
+|--------|------------|
+| **Elements** | 78 trace elements in ionic form / 78 nguyên tố vi lượng dạng ion |
+| **pH** | Similar alkalinity / Độ kiềm tương đương |
+| **Salinity** | Comparable salt concentration |
 
-## Công Dụng Được Ghi Nhận
+### [[Thuyết Vi Sinh Nội Sinh]] Connection
 
-### 1. Phục hồi nội môi
-- Bổ sung khoáng chất thiếu hụt
-- Cân bằng điện giải
-- Hỗ trợ pH máu
+| Principle | Application |
+|-----------|-------------|
+| **Disease = polluted terrain** | Bệnh = môi trường nội bào ô nhiễm |
+| **Plasma resets terrain** | Reset về trạng thái cân bằng |
+| **Cells self-heal** | Tế bào tự chữa khi môi trường sạch |
 
-### 2. Giải độc tế bào
+---
+
+## Các Dạng / Product Types
+
+| Type | Concentration | Use |
+|------|---------------|-----|
+| **Isotonic** | Diluted 1:3 | Daily drinking, gentle detox / Uống hàng ngày |
+| **Hypertonic** | Full strength | Energy boost, emergency / Boost năng lượng |
+
+---
+
+## Công dụng / Benefits
+
+### 1. Restore Internal Environment / Phục hồi Nội môi
+
+- Replenish missing minerals / Bổ sung khoáng chất thiếu
+- Balance electrolytes / Cân bằng điện giải
+- Support blood pH / Hỗ trợ pH máu
+
+### 2. Cellular Detox / Giải độc Tế bào
+
 - Flush toxins
-- Hỗ trợ gan, thận
-- Làm sạch lymphatic system
+- Support liver, kidneys / Hỗ trợ gan, thận
+- Clean lymphatic system
 
-### 3. Tăng cường miễn dịch
-- Quinton cứu sống hàng ngàn trẻ em đầu 1900s
-- Thay thế máu trong thí nghiệm trên chó
-- Phục hồi bệnh nhân cholera
+### 3. Immune Boost / Tăng cường Miễn dịch
 
-## Lịch Sử
+- Saved thousands of children in 1900s
+- Replaced blood in dog experiments
+- Recovered cholera patients
+
+---
+
+## Lịch sử / History
 
 ### René Quinton (1867-1925)
-- Nhà sinh lý học Pháp
-- "Darwin của Pháp"
-- Mở Marine Dispensaries cứu trẻ em
-- Bị Big Pharma đàn áp sau khi ông mất
 
-### Thí nghiệm nổi tiếng
-- Thay toàn bộ máu chó bằng plasma biển
-- Chó sống và phục hồi hoàn toàn
-- Chứng minh biển = nguồn sống
+| Achievement | Description |
+|-------------|-------------|
+| **Title** | "Darwin of France" / "Darwin của Pháp" |
+| **Innovation** | Marine Dispensaries for children |
+| **Suppression** | Big Pharma suppressed after his death |
 
-## Cách Sử Dụng
+### Famous Experiment / Thí nghiệm Nổi tiếng
 
-### Uống
-- 1-2 ống isotonic/ngày (duy trì)
-- 1 ống hypertonic (khi mệt, ốm)
-- Ngậm dưới lưỡi để hấp thu tốt
+| Step | Result |
+|------|--------|
+| **Replace all dog blood with sea plasma** | Thay toàn bộ máu chó bằng plasma biển |
+| **Dog survived** | Chó sống và phục hồi hoàn toàn |
+| **Proof** | Ocean = source of life / Biển = nguồn sống |
 
-### Ngoài da
-- Spray vết thương
-- Rửa mũi (isotonic)
-- Eye drops
+---
 
-## Mua Ở Đâu?
-- Quinton (brand gốc từ Pháp)
-- CellFood, ASEA (alternatives)
-- DIY: Lấy nước biển sạch, lọc, pha loãng (cẩn thận)
+## Cách Sử dụng / How to Use
+
+### Uống / Drinking
+
+| Dose | Use Case |
+|------|----------|
+| **1-2 isotonic ampoules/day** | Maintenance / Duy trì |
+| **1 hypertonic ampoule** | When tired, sick / Khi mệt, ốm |
+| **Under tongue** | Better absorption / Hấp thu tốt hơn |
+
+### Topical / Ngoài da
+
+| Application | Type |
+|-------------|------|
+| **Wounds** | Spray |
+| **Nasal rinse** | Isotonic |
+| **Eye drops** | Isotonic |
+
+---
+
+## Nguồn mua / Where to Buy
+
+| Option | Notes |
+|--------|-------|
+| **Quinton** | Original French brand |
+| **CellFood, ASEA** | Alternatives |
+| **DIY** | Clean seawater, filter, dilute (careful!) |
+
+---
 
 ## Related
 
-- [[René Quinton và Huyết Tương Biển]] — Tiểu sử chi tiết
+### History / Lịch sử
+- [[René Quinton và Huyết Tương Biển]] — Full biography
+
+### Health / Sức khỏe
 - [[Thuyết Vi Sinh Nội Sinh]] — Terrain theory
 - [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
 - [[Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh]]
