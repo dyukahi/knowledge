@@ -1,112 +1,139 @@
 ---
 title: "Tần Số Schumann (Schumann Resonance)"
+aliases: ["Schumann Resonance", "Earth's Heartbeat"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined
 ---
 # Tần Số Schumann (Schumann Resonance)
 
-**Tần Số Schumann** là tập hợp các đỉnh phổ trong phần cực thấp tần (ELF) của phổ điện từ Trái Đất. Được gọi là "nhịp tim" của hành tinh.
+**Tần Số Schumann** là các đỉnh phổ trong phần cực thấp tần (ELF) của phổ điện từ Trái Đất. Được gọi là "nhịp tim" của hành tinh.
 
-## Khoa Học Cơ Bản
+*Schumann Resonance is the set of spectral peaks in the ELF portion of Earth's electromagnetic spectrum. Called the "heartbeat" of the planet.*
 
-### Phát hiện
-- **Winfried Otto Schumann** (1952)
-- Dự đoán toán học trước khi đo được
-- Confirmed 1954
+---
 
-### Cơ chế
-- Lightning strikes (~50/second globally)
+## Khoa học Cơ bản / Basic Science
+
+### Discovery / Phát hiện
+
+| Aspect | Detail |
+|--------|--------|
+| **Scientist** | Winfried Otto Schumann (1952) |
+| **Method** | Mathematical prediction before measurement |
+| **Confirmed** | 1954 |
+
+### Mechanism / Cơ chế
+
+- Lightning strikes (~50/second globally) / Sét đánh (~50 lần/giây toàn cầu)
 - Creates EM waves
-- Trapped between Earth surface và ionosphere
-- Forms resonant cavity
+- Trapped between Earth surface & ionosphere
+- Forms resonant cavity / Tạo khoang cộng hưởng
 
-### Tần số cơ bản
-| Harmonic | Frequency |
-|----------|-----------|
-| 1st | 7.83 Hz |
-| 2nd | 14.3 Hz |
-| 3rd | 20.8 Hz |
-| 4th | 27.3 Hz |
-| 5th | 33.8 Hz |
+### Frequencies / Tần số
 
-**7.83 Hz** = "Heartbeat of Earth"
+| Harmonic | Frequency | Brain State |
+|----------|-----------|-------------|
+| **1st** | 7.83 Hz | Alpha-Theta (meditative) |
+| **2nd** | 14.3 Hz | Beta (alert) |
+| **3rd** | 20.8 Hz | Beta (active thinking) |
+| **4th** | 27.3 Hz | Gamma |
+| **5th** | 33.8 Hz | Gamma |
 
-## Brain Wave Connection
+> **7.83 Hz** = "Heartbeat of Earth" / "Nhịp tim Trái Đất"
 
-| Schumann | Brain State | Feeling |
-|----------|-------------|---------|
-| 7.83 Hz | Alpha-Theta | Relaxed, meditative |
-| 14.3 Hz | Beta | Alert, focused |
-| 20.8 Hz | Beta | Active thinking |
+---
 
-### Implication
-- Humans evolved WITH this frequency
-- Brain literally "tuned" to Earth
-- Disconnection → mental health issues
-- Nature exposure heals
+## Brain Connection / Kết nối Não bộ
 
-## Sự Thay Đổi Gần Đây
+| Fact | Implication |
+|------|-------------|
+| **Evolved with frequency** | Humans tuned to Earth |
+| **Brain resonates** | Não cộng hưởng với 7.83 Hz |
+| **Disconnection** | Mental health issues / Vấn đề sức khỏe tâm thần |
+| **Nature heals** | Reconnection restores / Thiên nhiên chữa lành |
 
-### Tăng tần số
-- Baseline rising from 7.83 Hz
-- Spikes recorded up to 150+ Hz
-- Russian monitoring stations report
+---
 
-### Possible causes
-- Solar activity
-- Planetary shift (Age of Aquarius?)
-- Collective consciousness rising?
-- Measurement anomalies?
+## Sự Thay đổi Gần đây / Recent Changes
 
-## "Ascension Symptoms"
+### Tăng Tần số / Frequency Rising
 
-Khi Schumann tăng đột ngột, nhiều người report:
-- Headaches, migraines
-- Sleep disturbances
-- Fatigue / Energy bursts
-- Vivid dreams
-- Emotional ups/downs
-- Ringing in ears (tinnitus)
+| Observation | Source |
+|-------------|--------|
+| **Baseline rising** | From 7.83 Hz |
+| **Spikes** | Up to 150+ Hz recorded |
+| **Monitoring** | Russian stations report |
 
-**Interpretation:** Body adjusting to new frequencies
+### Possible Causes / Nguyên nhân Có thể
 
-## Ứng Dụng
+| Theory | Description |
+|--------|-------------|
+| **Solar activity** | Sun's influence |
+| **[[Chu Kỳ Hoàng Đạo\|Age of Aquarius]]** | Planetary shift |
+| **Collective consciousness** | Ý thức tập thể rising |
+| **Measurement issues** | Technical anomalies |
 
-### Grounding/Earthing
-- Barefoot on ground
-- Reconnect with Earth frequency
-- Anti-inflammatory effects
+---
 
-### Meditation
-- Target 7.83 Hz with binaural beats
-- Deep relaxation
-- Enhanced intuition
+## "Ascension Symptoms" / Triệu chứng "Thăng hoa"
 
-### Technology (controversial)
-- PEMF devices
-- Schumann generators
-- "Earthing" mats
+Khi Schumann tăng đột ngột / When Schumann spikes suddenly:
 
-## Ma Trận Connection
+| Symptom | Vietnamese |
+|---------|------------|
+| Headaches, migraines | Đau đầu |
+| Sleep disturbances | Rối loạn giấc ngủ |
+| Fatigue / Energy bursts | Mệt mỏi / Bùng năng lượng |
+| Vivid dreams | Mơ sống động |
+| Emotional ups/downs | Cảm xúc thất thường |
+| Ringing in ears | Ù tai |
 
-### Why we're disconnected
-- Concrete buildings insulate
-- Rubber shoes
-- EMF pollution (WiFi, 5G)
-- Indoor lifestyle
+**Interpretation / Giải thích:** Body adjusting to new frequencies / Cơ thể điều chỉnh theo tần số mới
 
-### Conspiracy view
-- Deliberate disconnection?
-- Keep population "out of tune"
-- Easier to control
-- [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
+---
+
+## Ứng dụng / Applications
+
+| Method | Benefit |
+|--------|---------|
+| **Earthing** | Chạm đất chân trần / Barefoot grounding |
+| **Meditation** | 7.83 Hz binaural beats |
+| **Nature exposure** | Reconnect with frequency |
+| **PEMF devices** | Technology solution (controversial) |
+
+---
+
+## [[Ma Trận]] Connection
+
+### Why We're Disconnected / Tại sao Bị Ngắt kết nối
+
+| Factor | Effect |
+|--------|--------|
+| **Concrete buildings** | Insulate from Earth |
+| **Rubber shoes** | Block grounding |
+| **EMF pollution** | WiFi, 5G interference |
+| **Indoor lifestyle** | No nature contact |
+
+### Conspiracy View / Góc nhìn Âm mưu
+
+- Deliberate disconnection? / Cố tình ngắt kết nối?
+- Keep population "out of tune" / Giữ dân "lệch tần"
+- Easier to control / Dễ kiểm soát hơn
+
+---
 
 ## Related
 
-- [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
-- [[Nikola Tesla (Tần Số và Rung Động)]]
-- [[Năng Lượng Aether]]
+### Earth Energy
 - [[Long Mạch]] — Earth's energy system
-- [[Chu Kỳ Hoàng Đạo]] — Planetary shift
+- [[Năng Lượng Aether]]
 - [[Bão Từ Bắc Cực vs Bão Mặt Trời]]
+
+### Frequency
+- [[Nikola Tesla (Tần Số và Rung Động)]]
+- [[Tần số cộng hưởng giữa Muối và Tuyến tùng]]
+
+### Cycles
+- [[Chu Kỳ Hoàng Đạo]] — Planetary shift
+- [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
