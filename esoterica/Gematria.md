@@ -6,92 +6,106 @@ status: refined
 ---
 # Gematria
 
-**Gematria** là hệ thống mã hóa số học cổ đại, gán giá trị số cho chữ cái, từ vựng hoặc cụm từ. Trong Khoa Học Xét Lại, Gematria được xem như "mã nguồn" mà [[Elite]] sử dụng để lập trình và đánh dấu các sự kiện toàn cầu.
+**Gematria** là hệ thống mã hóa số học cổ đại, gán giá trị số cho chữ cái. Trong Khoa Học Xét Lại, Gematria được xem như "mã nguồn" mà [[Elite]] sử dụng để đánh dấu các sự kiện toàn cầu.
+
+*Gematria is an ancient numerical coding system assigning values to letters. In Revisionist Science, Gematria is seen as the "source code" [[Elite]] uses to mark global events.*
 
 > "Vũ trụ được viết bằng ngôn ngữ toán học." — Galileo
+> "The universe is written in the language of mathematics."
 
-## Các Hệ Thống Gematria Phổ Biến
+---
 
-### 1. Simple/Ordinal (A=1, B=2... Z=26)
-Cách tính đơn giản nhất. Mỗi chữ cái = vị trí trong bảng chữ cái.
+## Các Hệ thống / Systems
 
-| Từ | Tính toán | Giá trị |
-|----|-----------|---------|
-| GOD | 7+15+4 | 26 |
-| GOLD | 7+15+12+4 | 38 |
+| System | Formula | Example |
+|--------|---------|---------|
+| **Simple/Ordinal** | A=1, B=2... Z=26 | GOD = 7+15+4 = 26 |
+| **Reverse Ordinal** | A=26, B=25... Z=1 | Hidden messages |
+| **English Gematria** | A=6, B=12, C=18... | ×6 multiplier |
+| **Hebrew/Jewish** | Original Kabbalah system | Torah analysis |
 
-### 2. Reverse Ordinal (A=26, B=25... Z=1)
-Đảo ngược Simple. Thường dùng để tìm "hidden messages".
+---
 
-### 3. English Gematria (A=6, B=12, C=18...)
-Mỗi chữ nhân 6. Liên kết với số 6 (số của con người trong Kabbalah).
+## Gematria Trong Ma Trận / In the Matrix
 
-### 4. Jewish/Hebrew Gematria
-Hệ thống gốc từ tiếng Hebrew. Dùng trong Kabbalah và Torah.
+### 1. Ritual Markers / Đánh dấu Nghi thức
 
-## Gematria Trong Ma Trận
+**9/11 Example:**
+| Element | Value/Connection |
+|---------|-----------------|
+| "September Eleventh" | = 77 (Reverse) |
+| "World Trade Center" | = 185 = "Central Intelligence Agency" |
+| Flight 77 | Hit Pentagon (77 feet high) |
+| Flight 11 | Hit WTC |
+| 9+1+1 | = 11 |
 
-Theo [[Mental Model - Ma Trận Kiểm Soát Kép]], Elite sử dụng Gematria để:
+### 2. Date Selection / Chọn Ngày
 
-### 1. Đánh dấu sự kiện (Ritual Markers)
+| Date | Event |
+|------|-------|
+| **11/11** | WWI ended |
+| **22/11** | JFK assassination |
+| **3/11** | Fukushima |
+| **9/11** | WTC |
 
-**Ví dụ 9/11:**
-- "September Eleventh" = 77 (Reverse)
-- "World Trade Center" = 185 = "Central Intelligence Agency"
-- Flight 77 đâm vào Pentagon (77 feet high)
-- Flight 11 đâm vào WTC
-- 9+1+1 = 11
+### 3. Brand Names / Tên Thương hiệu
 
-### 2. Chọn ngày, giờ, địa điểm
-Nhiều sự kiện lớn xảy ra vào ngày có ý nghĩa số học:
-- **11/11**: Kết thúc WWI
-- **22/11**: JFK assassination
-- **3/11**: Fukushima
+| Brand | Gematria | Equals |
+|-------|----------|--------|
+| Google | 61 | "God" (Simple) |
+| Amazon | 70 | "Vatican" |
 
-### 3. Tên gọi và thương hiệu
-- **Google** = 61 = "God" (Simple)
-- **Amazon** = 70 = "Vatican"
+---
 
-## Ứng Dụng Thực Tế
+## Ứng dụng / Applications
 
-### Chọn thực phẩm tần số cao
-Thực phẩm bắt đầu bằng chữ **G** (số 7, tần số cao):
+### High-Frequency Foods (Letter G = 7)
 - **G**rapefruit, **G**rapes, **G**inger, **G**arlic, **G**reen tea
 
-### Mã hóa trong Crypto
-- "**Suramin**" = "**ThirdEye**" = 95
-- "**Ethereum**" = "**ThirdEye**" = 95
-- Coincidence? Hay thiết kế?
+### Crypto Encoding
+| Term | Value |
+|------|-------|
+| "Suramin" | 95 |
+| "ThirdEye" | 95 |
+| "Ethereum" | 95 |
 
-### Decode Media/News
-Khi đọc tin tức, check số liệu được nhấn mạnh:
-- Tại sao chính xác "33 người chết"?
-- Tại sao xảy ra lúc 9:11?
-- Tại sao ở địa điểm có tên đặc biệt?
+Coincidence? / Trùng hợp?
 
-## Cảnh Báo Quan Trọng
+### Decode News / Giải mã Tin tức
+Questions to ask / Câu hỏi:
+- Why exactly "33 dead"? / Tại sao chính xác 33 người chết?
+- Why at 9:11? / Tại sao lúc 9:11?
+- Why that location name? / Tại sao tên địa điểm đó?
 
-1. **Pattern matching bias**: Não bộ giỏi tìm patterns, kể cả khi không có
-2. **Confirmation bias**: Chỉ thấy những gì muốn thấy
-3. **Overfitting**: Với đủ hệ thống, mọi thứ đều "match"
+---
 
-**Cách tiếp cận lành mạnh:**
-- Dùng Gematria như một công cụ, không phải tôn giáo
-- Đòi hỏi multiple coincidences, không phải single match
-- Kết hợp với context và logic
+## ⚠️ Cảnh báo / Warnings
+
+| Bias | Description |
+|------|-------------|
+| **Pattern matching** | Brain finds patterns even when none exist |
+| **Confirmation bias** | See only what you want to see |
+| **Overfitting** | With enough systems, everything "matches" |
+
+**Healthy approach / Cách tiếp cận:**
+- Tool, not religion / Công cụ, không phải tôn giáo
+- Require multiple coincidences / Đòi hỏi nhiều trùng hợp
+- Combine with context and logic / Kết hợp context và logic
+
+---
 
 ## Related
 
 ### Core
-- [[Elite]] — Ai đang sử dụng mã nguồn này
-- [[Mental Model - Ma Trận Kiểm Soát Kép]] — Hệ thống kiểm soát
-- [[Báo Cáo 2030]] — Kế hoạch vĩ mô
+- [[Elite]] — Who uses this code
+- [[Mental Model - Ma Trận Kiểm Soát Kép]]
+- [[Báo Cáo 2030]] — Macro plan
 
-### Liên kết số học
-- [[Sự Thật Về Vụ Sập Tháp Đôi WTC]] — Case study 9/11
-- [[Saturn Cube]] — Biểu tượng số 6
-- [[Chu Kỳ Hoàng Đạo]] — Chu kỳ vũ trụ
+### Numerology
+- [[Sự Thật Về Vụ Sập Tháp Đôi WTC]] — 9/11 case study
+- [[Saturn Cube]] — Number 6 symbolism
+- [[Chu Kỳ Hoàng Đạo]] — Cosmic cycles
 
-### Ứng dụng
-- [[Suramin]] — Mã hóa ThirdEye
+### Application
+- [[Suramin]] — ThirdEye encoding
 - [[Tuyến Tùng]] — Third Eye connection

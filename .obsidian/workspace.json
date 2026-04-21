@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crypto-finance/Privacy.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Privacy"
+              "title": "index"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
+    "claude.md",
+    "crypto-finance/Privacy.md",
     "crypto-finance/Giàu Không Nhờ May Mắn.md",
     "science-tech/Walter Russell.md",
     "science-tech/Vũ Khí Năng Lượng Định Hướng (DEW).md",
@@ -209,8 +211,6 @@
     "Sự Nhật Thể.md",
     "mental-models/Mô Hình Địa Tâm.md",
     "esoterica/Sự Nhất Thể.md",
-    "health/Virus và Kiếp Tật Dịch.md",
-    "health/Su That Ve Benh Dai Va Vac Xin.md",
     "quartz/static/giscus/light.css",
     "quartz/static/giscus/dark.css",
     "quartz/plugins/transformers/toc.ts",
