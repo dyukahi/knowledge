@@ -89,11 +89,17 @@ status: refined
 
 ### 4. Toward [[Sự Nhất Thể]]
 
+```mermaid
+flowchart LR
+    P["Toàn vẹn cá nhân | Personal wholeness"]
+    U["Kết nối vũ trụ | Universal connection"]
+    
+    P -->|"Micro = Macro"| U
 ```
-Personal wholeness → Universal connection
-Micro = Macro
-Individual healing = Collective healing
-```
+
+> **Chữa lành cá nhân = Chữa lành tập thể**
+>
+> *Individual healing = Collective healing*
 
 ---
 

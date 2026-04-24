@@ -21,13 +21,15 @@ status: refined
 
 ## Cõi Trung Giới (Astral Plane)
 
-### Vị trí trong cosmology
-```
-Cõi Thượng Giới (Causal/Mental) - Higher realms
-        ↓
-Cõi Trung Giới (Astral) - Emotional realm
-        ↓
-Cõi Hạ Giới (Physical) - Material world
+### Vị trí trong cosmology / Position in Cosmology
+
+```mermaid
+flowchart TB
+    C["Cõi Thượng Giới | Causal/Mental<br/>Higher realms"]
+    A["Cõi Trung Giới | Astral<br/>Emotional realm"]
+    P["Cõi Hạ Giới | Physical<br/>Material world"]
+    
+    C --> A --> P
 ```
 
 ### Đặc điểm
