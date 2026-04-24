@@ -46,24 +46,11 @@ sources:
 
 ```mermaid
 flowchart TB
-    subgraph brain["🧠 KIẾN TRÚC NHẬN THỨC CON NGƯỜI<br/>Human Cognitive Architecture"]
-        direction TB
-        
-        L3["<b>LỚP 3: REASONING</b><br/>Suy luận"]
-        L3_detail["→ Outsource cho AI (ChatGPT...)<br/>→ Cognitive debt tích lũy"]
-        
-        L2["<b>LỚP 2: COMPUTE</b><br/>Tính toán"]
-        L2_detail["→ Outsource cho máy tính, GPS<br/>→ Hippocampus teo nhỏ"]
-        
-        L1["<b>LỚP 1: STORAGE</b><br/>Bộ nhớ"]
-        L1_detail["→ Outsource cho Cloud, Google<br/>→ Google Effect"]
-        
-        L3 --> L3_detail
-        L3_detail --> L2
-        L2 --> L2_detail
-        L2_detail --> L1
-        L1 --> L1_detail
-    end
+    L3["🔴 LỚP 3: REASONING<br/>Suy luận<br/>→ Outsource cho AI<br/>→ Cognitive debt"]
+    L2["🟡 LỚP 2: COMPUTE<br/>Tính toán<br/>→ Outsource cho máy tính, GPS<br/>→ Hippocampus teo nhỏ"]
+    L1["🔵 LỚP 1: STORAGE<br/>Bộ nhớ<br/>→ Outsource cho Cloud, Google<br/>→ Google Effect"]
+    
+    L3 --> L2 --> L1
     
     style L3 fill:#ff6b6b,color:#fff
     style L2 fill:#feca57,color:#000
@@ -159,22 +146,15 @@ Não bộ có tính khả biến (neuroplasticity). Nếu bạn dành 6-8 tiến
 
 ```mermaid
 flowchart TD
-    title["🔄 VÒNG LẶP 6 BƯỚC<br/>From Offloading to Agency Decay"]
+    S1["1️⃣ Outsource trí nhớ"]
+    S2["2️⃣ Suy luận nông đi"]
+    S3["3️⃣ Instant answer"]
+    S4["4️⃣ Dopamine loop"]
+    S5["5️⃣ Attention vỡ vụn"]
+    S6["6️⃣ AGENCY DECAY"]
     
-    S1["1️⃣ Outsource trí nhớ<br/><i>Memory offload</i>"]
-    S2["2️⃣ Suy luận nông đi<br/><i>Shallow reasoning</i>"]
-    S3["3️⃣ Instant answer<br/><i>Quen 'có ngay'</i>"]
-    S4["4️⃣ Dopamine loop<br/><i>Short-form hút</i>"]
-    S5["5️⃣ Attention vỡ vụn<br/><i>Không tập trung</i>"]
-    S6["6️⃣ AGENCY DECAY<br/><i>Mất quyền tự chủ</i>"]
-    
-    title --> S1
-    S1 --> S2
-    S2 --> S3
-    S3 --> S4
-    S4 --> S5
-    S5 --> S6
-    S6 -->|"Quay lại<br/>(sâu hơn)"| S1
+    S1 --> S2 --> S3 --> S4 --> S5 --> S6
+    S6 -->|"🔄 Lặp lại"| S1
     
     style S1 fill:#74b9ff,color:#000
     style S2 fill:#81ecec,color:#000
