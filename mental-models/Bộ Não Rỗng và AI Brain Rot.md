@@ -46,15 +46,11 @@ sources:
 
 ```mermaid
 flowchart TB
-    L3["🔴 LỚP 3: REASONING<br/>Suy luận<br/>→ Outsource cho AI<br/>→ Cognitive debt"]
-    L2["🟡 LỚP 2: COMPUTE<br/>Tính toán<br/>→ Outsource cho máy tính, GPS<br/>→ Hippocampus teo nhỏ"]
-    L1["🔵 LỚP 1: STORAGE<br/>Bộ nhớ<br/>→ Outsource cho Cloud, Google<br/>→ Google Effect"]
+    L3[Lớp 3: Suy luận → AI]
+    L2[Lớp 2: Tính toán → Máy tính]
+    L1[Lớp 1: Bộ nhớ → Cloud]
     
     L3 --> L2 --> L1
-    
-    style L3 fill:#ff6b6b,color:#fff
-    style L2 fill:#feca57,color:#000
-    style L1 fill:#48dbfb,color:#000
 ```
 
 ### 1.2 Chi tiết từng lớp / Layer Details
@@ -146,22 +142,12 @@ Não bộ có tính khả biến (neuroplasticity). Nếu bạn dành 6-8 tiến
 
 ```mermaid
 flowchart TD
-    S1["1️⃣ Outsource trí nhớ"]
-    S2["2️⃣ Suy luận nông đi"]
-    S3["3️⃣ Instant answer"]
-    S4["4️⃣ Dopamine loop"]
-    S5["5️⃣ Attention vỡ vụn"]
-    S6["6️⃣ AGENCY DECAY"]
-    
-    S1 --> S2 --> S3 --> S4 --> S5 --> S6
-    S6 -->|"🔄 Lặp lại"| S1
-    
-    style S1 fill:#74b9ff,color:#000
-    style S2 fill:#81ecec,color:#000
-    style S3 fill:#ffeaa7,color:#000
-    style S4 fill:#fab1a0,color:#000
-    style S5 fill:#fd79a8,color:#fff
-    style S6 fill:#d63031,color:#fff
+    S1[Outsource trí nhớ] --> S2[Suy luận nông đi]
+    S2 --> S3[Quen instant answer]
+    S3 --> S4[Dopamine loop]
+    S4 --> S5[Attention vỡ vụn]
+    S5 --> S6[Agency Decay]
+    S6 -->|Lặp lại| S1
 ```
 
 **Mỗi vòng lặp, khả năng meta-cognitive — năng lực điều phối nhận thức — yếu đi một chút.**
