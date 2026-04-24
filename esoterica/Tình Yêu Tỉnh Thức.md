@@ -57,10 +57,11 @@ status: refined
 - Only force that truly heals
 
 ### Self-Love First
-```
-Self-love → Overflow → Others
-    ↑                     ↓
-    └────── Returns ──────┘
+
+```mermaid
+flowchart LR
+    A["Tự yêu thương | Self-love"] --> B["Tràn đầy | Overflow"] --> C["Người khác | Others"]
+    C -->|"Quay về | Returns"| A
 ```
 - Can't pour from empty cup
 - Not selfish, necessary

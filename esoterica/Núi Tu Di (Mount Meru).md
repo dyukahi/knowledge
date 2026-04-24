@@ -20,19 +20,15 @@ status: refined
 
 ## Cấu Trúc Vũ Trụ (Buddhist)
 
-```
-           ☀️ Sun/Moon orbit
-              ↓
-    ┌─────────────────────┐
-    │     TRỜI (Devas)    │ ← Các tầng trời
-    ├─────────────────────┤
-    │    NÚI TU DI        │ ← 84,000 yojanas cao
-    │    (Mount Meru)      │
-    ├─────────────────────┤
-    │   BỐN ĐẠI CHÂU      │
-    │  N-S-E-W Continents │
-    └─────────────────────┘
-         Biển mặn bao quanh
+```mermaid
+flowchart TB
+    Sun["Mặt Trời/Trăng xoay quanh | Sun/Moon orbit"]
+    Devas["Các tầng trời | Deva realms"]
+    Meru["Núi Tu Di 84,000 yojanas | Mount Meru"]
+    Continents["Bốn Đại Châu | Four Continents"]
+    Ocean["Biển mặn bao quanh | Salt ocean"]
+    
+    Sun --> Devas --> Meru --> Continents --> Ocean
 ```
 
 ### Bốn Đại Châu

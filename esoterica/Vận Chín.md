@@ -11,12 +11,15 @@ status: refined
 ## Hệ Thống Tam Nguyên Cửu Vận
 
 ### Cấu trúc
-```
-Thượng Nguyên (Upper Era): Vận 1-2-3 = 60 năm
-Trung Nguyên (Middle Era): Vận 4-5-6 = 60 năm
-Hạ Nguyên (Lower Era): Vận 7-8-9 = 60 năm
-─────────────────────────────────────────────
-Total: 180 năm = 1 Great Cycle
+
+```mermaid
+flowchart LR
+    A["Thượng Nguyên | Upper Era<br/>Vận 1-2-3 = 60 năm"]
+    B["Trung Nguyên | Middle Era<br/>Vận 4-5-6 = 60 năm"]
+    C["Hạ Nguyên | Lower Era<br/>Vận 7-8-9 = 60 năm"]
+    
+    A --> B --> C
+    C -->|"180 năm | 1 Great Cycle"| A
 ```
 
 ### Vận 9 trong context

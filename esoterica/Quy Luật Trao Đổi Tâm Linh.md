@@ -29,21 +29,15 @@ status: refined
 
 ### Cơ Chế Hoạt Động / How It Works
 
-```
-Người cầu xin / Petitioner
-    ↓
-Đến đình/miếu/mộ cầu tài lộc / Visit shrines/temples/graves for wealth
-    ↓
-Mở cửa năng lượng (consent) / Opens energy door (consent)
-    ↓
-Quỷ thần "đáp ứng" / Spirits "respond"
-    ↓
-    ┌───────────────────────────────────────┐
-    │ EXCHANGE / TRAO ĐỔI:                  │
-    │ Nhận / Receive: Tài lộc / Wealth      │
-    │ Trả / Pay: Linh lực, phước báu,       │
-    │ tuổi thọ / Life force, merit, lifespan│
-    └───────────────────────────────────────┘
+```mermaid
+flowchart TD
+    A["Người cầu xin | Petitioner"]
+    B["Đến đình/miếu/mộ | Visit shrines/temples"]
+    C["Mở cửa năng lượng | Opens energy door"]
+    D["Quỷ thần đáp ứng | Spirits respond"]
+    E["TRAO ĐỔI: Nhận tài lộc, Trả linh lực/phước/tuổi thọ | EXCHANGE: Receive wealth, Pay life force/merit/lifespan"]
+    
+    A --> B --> C --> D --> E
 ```
 
 ### Quỷ Thần Là Ai? / Who Are These Spirits?

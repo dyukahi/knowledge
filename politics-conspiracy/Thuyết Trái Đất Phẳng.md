@@ -13,18 +13,17 @@ status: refined
 ## Mô Hình Đề Xuất
 
 ### Flat Earth Map
-```
-        ┌──────────────────────────┐
-        │      BẮC CỰC (CENTER)     │
-        │            ★              │
-        │                           │
-        │    ~~~~OCEAN~~~~          │
-        │                           │
-        │  Continents arranged      │
-        │  around center            │
-        │                           │
-        └──────────────────────────┘
-         ← ANTARCTICA (ICE WALL) →
+
+```mermaid
+flowchart TB
+    subgraph Earth["MÔ HÌNH TRÁI ĐẤT PHẲNG | FLAT EARTH MODEL"]
+        Center["Bắc Cực ở trung tâm | North Pole at center"]
+        Continents["Các lục địa xung quanh | Continents around"]
+        Ocean["Đại dương | Ocean"]
+        Ice["Nam Cực = Bức tường băng bao quanh | Antarctica = Ice wall perimeter"]
+    end
+    
+    Center --> Continents --> Ocean --> Ice
 ```
 
 ### Key Claims

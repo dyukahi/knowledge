@@ -17,19 +17,14 @@ related:
 
 ## Mô Hình Flat Earth (Flat Earth Model)
 
-```
-        [Sun/Moon above]
-              ↓
-    ┌─────────────────────┐
-    │   Known Continents  │
-    │    (Our World)      │
-    │  ☀️ North Pole      │
-    │     (center)        │
-    └─────────────────────┘
-    ═══════════════════════
-         ICE WALL
-    ═══════════════════════
-         [Unknown...]
+```mermaid
+flowchart TB
+    Sun["Mặt Trời/Trăng phía trên | Sun/Moon above"]
+    World["Các lục địa đã biết | Known Continents<br/>Bắc Cực ở trung tâm | North Pole at center"]
+    Ice["BỨC TƯỜNG BĂNG | ICE WALL"]
+    Unknown["Vùng đất chưa biết...? | Unknown lands...?"]
+    
+    Sun --> World --> Ice --> Unknown
 ```
 
 ### Đặc điểm theo model (Characteristics in the Model)

@@ -41,12 +41,16 @@ status: refined
 - Breathing universe
 
 ### 3. Wave Theory
-```
-      Compression (yang)
-           ↗    ↘
-Expansion ←──────→ Expansion
- (yin)     ↖    ↙    (yin)
-      Compression (yang)
+
+```mermaid
+flowchart LR
+    E1["Giãn nở (Âm) | Expansion (Yin)"]
+    C1["Nén (Dương) | Compression (Yang)"]
+    E2["Giãn nở (Âm) | Expansion (Yin)"]
+    
+    E1 -->|"Dao động | Oscillation"| C1
+    C1 -->|"Dao động | Oscillation"| E2
+    E2 -->|"Chu kỳ | Cycle"| E1
 ```
 
 ### 4. Mind is Cause
