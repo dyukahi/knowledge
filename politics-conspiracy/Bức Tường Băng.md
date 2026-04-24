@@ -17,15 +17,34 @@ related:
 
 ## Mô Hình Flat Earth (Flat Earth Model)
 
+**Mô hình Flat Earth (nhìn từ bên cạnh):**
+
+*Flat Earth model (side view):*
+
 ```mermaid
 flowchart TB
-    Sun["Mặt Trời/Trăng phía trên | Sun/Moon above"]
-    World["Các lục địa đã biết | Known Continents<br/>Bắc Cực ở trung tâm | North Pole at center"]
-    Ice["BỨC TƯỜNG BĂNG | ICE WALL"]
-    Unknown["Vùng đất chưa biết...? | Unknown lands...?"]
+    subgraph Sky["☀️ BẦU TRỜI | SKY"]
+        Sun["Mặt Trời/Trăng xoay phía trên | Sun/Moon rotating above"]
+    end
     
-    Sun --> World --> Ice --> Unknown
+    subgraph Surface["🌍 MẶT ĐẤT | SURFACE"]
+        Land["Các lục địa đã biết | Known continents<br/>Bắc Cực ở trung tâm | North Pole at center"]
+    end
+    
+    subgraph Edge["🧊 RÌA | EDGE"]
+        Ice["BỨC TƯỜNG BĂNG | ICE WALL"]
+    end
+    
+    subgraph Beyond["❓ BÊN NGOÀI | BEYOND"]
+        Unknown["Vùng đất chưa biết? | Unknown lands?"]
+    end
+    
+    Sky --- Surface --- Edge --- Beyond
 ```
+
+> Theo mô hình này: Mặt Trời/Trăng quay trên đầu, các lục địa nằm trên mặt phẳng với Bắc Cực ở giữa, bức tường băng (Nam Cực) là rìa, và phía sau đó là vùng đất chưa được khám phá.
+>
+> *According to this model: Sun/Moon rotate overhead, continents lie on a flat plane with North Pole at center, ice wall (Antarctica) is the edge, and beyond lies unexplored territory.*
 
 ### Đặc điểm theo model (Characteristics in the Model)
 
