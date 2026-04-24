@@ -23,20 +23,20 @@ related:
 
 ```mermaid
 flowchart TB
-    subgraph Sky["☀️ BẦU TRỜI | SKY"]
-        Sun["Mặt Trời/Trăng xoay phía trên | Sun/Moon rotating above"]
+    subgraph Sky["Bầu trời | Sky"]
+        Sun["Trời/Trăng | Sun/Moon"]
     end
     
-    subgraph Surface["🌍 MẶT ĐẤT | SURFACE"]
-        Land["Các lục địa đã biết | Known continents<br/>Bắc Cực ở trung tâm | North Pole at center"]
+    subgraph Surface["Mặt đất | Surface"]
+        Land["Lục địa | Continents"]
     end
     
-    subgraph Edge["🧊 RÌA | EDGE"]
-        Ice["BỨC TƯỜNG BĂNG | ICE WALL"]
+    subgraph Edge["Rìa | Edge"]
+        Ice["Tường băng | Ice Wall"]
     end
     
-    subgraph Beyond["❓ BÊN NGOÀI | BEYOND"]
-        Unknown["Vùng đất chưa biết? | Unknown lands?"]
+    subgraph Beyond["Bên ngoài | Beyond"]
+        Unknown["Chưa biết? | Unknown?"]
     end
     
     Sky --- Surface --- Edge --- Beyond

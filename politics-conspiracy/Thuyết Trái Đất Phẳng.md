@@ -20,23 +20,23 @@ status: refined
 
 ```mermaid
 flowchart TB
-    subgraph Layer4["🧊 VÒNG NGOÀI | OUTER RING"]
-        Ice["Nam Cực = Bức tường băng<br/>Antarctica = Ice wall"]
+    subgraph L4["Vòng ngoài | Outer"]
+        Ice["Bức tường băng | Ice wall"]
     end
     
-    subgraph Layer3["🌊 VÒNG 3 | RING 3"]
+    subgraph L3["Vòng 3"]
         Ocean["Đại dương | Ocean"]
     end
     
-    subgraph Layer2["🌍 VÒNG 2 | RING 2"]
-        Continents["Các lục địa | Continents"]
+    subgraph L2["Vòng 2"]
+        Land["Lục địa | Continents"]
     end
     
-    subgraph Layer1["⭐ TRUNG TÂM | CENTER"]
-        NorthPole["Bắc Cực | North Pole"]
+    subgraph L1["Trung tâm | Center"]
+        Pole["Bắc Cực | North Pole"]
     end
     
-    Layer1 --- Layer2 --- Layer3 --- Layer4
+    L1 --- L2 --- L3 --- L4
 ```
 
 > Hình dung: như nhìn xuống từ trên cao — Bắc Cực ở giữa, các lục địa xoay quanh, đại dương bao bọc, và bức tường băng Nam Cực là rìa ngoài cùng.
