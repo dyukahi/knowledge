@@ -39,12 +39,20 @@ status: refined
 
 ### Pleomorphism Flow
 
-```
-[Healthy terrain] → Microzymas ở dạng lành tính / benign form
-         ↓
-[Toxic terrain] → Microzymas biến thành pathogens
-         ↓
-[Detox terrain] → Pathogens quay lại dạng lành / return to benign
+```mermaid
+flowchart TD
+    H["Terrain khỏe mạnh | Healthy terrain"]
+    M1["Microzymas lành tính | Benign form"]
+    T["Terrain nhiễm độc | Toxic terrain"]
+    M2["Pathogens (vi khuẩn, virus)"]
+    D["Terrain được detox | Detoxed terrain"]
+    M3["Quay lại dạng lành | Return to benign"]
+    
+    H --> M1
+    T --> M2
+    D --> M3
+    M1 -->|"Nhiễm độc | Toxicity"| M2
+    M2 -->|"Detox"| M3
 ```
 
 **Implication:** Bacteria/virus không "xâm nhập" — chúng PHÁT SINH từ bên trong khi terrain bị ô nhiễm.
