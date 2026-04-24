@@ -14,17 +14,34 @@ status: refined
 
 ### Flat Earth Map
 
+**Mô hình đồng tâm (từ trong ra ngoài):**
+
+*Concentric model (from center outward):*
+
 ```mermaid
 flowchart TB
-    subgraph Earth["MÔ HÌNH TRÁI ĐẤT PHẲNG | FLAT EARTH MODEL"]
-        Center["Bắc Cực ở trung tâm | North Pole at center"]
-        Continents["Các lục địa xung quanh | Continents around"]
-        Ocean["Đại dương | Ocean"]
-        Ice["Nam Cực = Bức tường băng bao quanh | Antarctica = Ice wall perimeter"]
+    subgraph Layer4["🧊 VÒNG NGOÀI | OUTER RING"]
+        Ice["Nam Cực = Bức tường băng<br/>Antarctica = Ice wall"]
     end
     
-    Center --> Continents --> Ocean --> Ice
+    subgraph Layer3["🌊 VÒNG 3 | RING 3"]
+        Ocean["Đại dương | Ocean"]
+    end
+    
+    subgraph Layer2["🌍 VÒNG 2 | RING 2"]
+        Continents["Các lục địa | Continents"]
+    end
+    
+    subgraph Layer1["⭐ TRUNG TÂM | CENTER"]
+        NorthPole["Bắc Cực | North Pole"]
+    end
+    
+    Layer1 --- Layer2 --- Layer3 --- Layer4
 ```
+
+> Hình dung: như nhìn xuống từ trên cao — Bắc Cực ở giữa, các lục địa xoay quanh, đại dương bao bọc, và bức tường băng Nam Cực là rìa ngoài cùng.
+>
+> *Visualize: looking down from above — North Pole at center, continents arranged around, ocean surrounding, and Antarctic ice wall as the outer edge.*
 
 ### Key Claims
 - Trái Đất là đĩa phẳng

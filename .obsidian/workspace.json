@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+                "file": "esoterica/Vận Chín.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bộ Não Rỗng và AI Brain Rot"
+              "title": "Vận Chín"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Vận Chín.md ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,6 +187,8 @@
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
     "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+    "health/Bệnh Bạch Cầu (Ung Thư Máu).md",
+    "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
     "esoterica/Một Đời Phù Vân.md",
     "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
     "esoterica/Cabal.md",
@@ -210,8 +213,6 @@
     "mental-models/Nguyên Mẫu (Archetypes).md",
     "mental-models/Vô Thức Tập Thể.md",
     "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-    "mental-models/Nhị Nguyên.md",
-    "esoterica/Luân Hồi.md",
     "quartz/static/giscus/light.css",
     "quartz/static/giscus/dark.css",
     "quartz/plugins/transformers/toc.ts",
