@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "esoterica/S.E.X.md",
+                "file": "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S.E.X"
+              "title": "Thuyết Trái Đất Phẳng"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "s.e.x",
+                "query": "địa tâm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,11 +186,15 @@
   },
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
+    "mental-models/Mô Hình Địa Tâm.md",
+    "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+    "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+    "esoterica/Năng Lượng Tình Dục.md",
+    "esoterica/S.E.X.md",
     "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
     "esoterica/Chimera.md",
     "mental-models/S.E.X Và Tâm Lý Học Jung.md",
     "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-    "mental-models/Mô Hình Địa Tâm.md",
     "politics-conspiracy/Trái Đất Phẳng.md",
     "politics-conspiracy/Bức Tường Băng.md",
     "esoterica/Vận Chín.md",
@@ -209,10 +213,6 @@
     "science-tech/Walter Russell.md",
     "science-tech/Vũ Khí Năng Lượng Định Hướng (DEW).md",
     "science-tech/Khoa Học Xét Lại (Revisionist Science).md",
-    "science-tech/Pin Natri-ion.md",
-    "science-tech/Tần Số Schumann.md",
-    "crypto-finance/Tiền tiền tiền.md",
-    "crypto-finance/Tiền Pháp Định.md",
     "quartz/static/giscus/light.css",
     "quartz/static/giscus/dark.css",
     "quartz/plugins/transformers/toc.ts",
