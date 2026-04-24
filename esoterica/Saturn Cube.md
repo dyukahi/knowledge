@@ -59,14 +59,16 @@ NASA chụp được **hexagon khổng lồ** ở cực bắc Sao Thổ — khoa
 
 ### [[Gematria]] Connection
 
-Saturn Magic Square:
-```
-4  9  2
-3  5  7
-8  1  6
-```
-- Each row = 15
-- Total = 45
+**Saturn Magic Square:**
+
+| | | |
+|:-:|:-:|:-:|
+| 4 | 9 | 2 |
+| 3 | 5 | 7 |
+| 8 | 1 | 6 |
+
+- Mỗi hàng = 15 / Each row = 15
+- Tổng = 45 / Total = 45
 - 111 × 6 = **666**
 
 ---

@@ -70,12 +70,13 @@ Kiểm soát thông qua sự vô minh tập thể của quần chúng.
 
 ### Problem-Reaction-Solution
 
-```
-1. PROBLEM: Tạo/phóng đại vấn đề | Create/exaggerate problem
-       ↓
-2. REACTION: Quần chúng hoảng sợ | Masses panic, demand solution
-       ↓
-3. SOLUTION: Giải pháp đã chuẩn bị (từ bỏ tự do) | Pre-planned solution (surrendering freedom)
+```mermaid
+flowchart TD
+    P["PROBLEM<br/>Tạo/phóng đại vấn đề | Create/exaggerate problem"]
+    R["REACTION<br/>Quần chúng hoảng sợ | Masses panic"]
+    S["SOLUTION<br/>Giải pháp đã chuẩn bị | Pre-planned solution<br/>= Từ bỏ tự do | Surrender freedom"]
+    
+    P --> R --> S
 ```
 
 ### Divide and Conquer / Chia để trị

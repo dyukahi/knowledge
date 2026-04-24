@@ -40,14 +40,14 @@ status: refined
 
 ## Leibniz's Hierarchy
 
-```
-Monad Tối Cao (Thượng Đế / God)
-        ↓
-Monad Lý Trí (Con người / Humans)
-        ↓
-Monad Tri Giác (Sinh vật / Animals)
-        ↓
-Monad Mờ Tối (Vật chất / Matter)
+```mermaid
+flowchart TB
+    G["Monad Tối Cao | Supreme Monad<br/>Thượng Đế | God"]
+    H["Monad Lý Trí | Rational Monad<br/>Con người | Humans"]
+    A["Monad Tri Giác | Sentient Monad<br/>Sinh vật | Animals"]
+    M["Monad Mờ Tối | Bare Monad<br/>Vật chất | Matter"]
+    
+    G --> H --> A --> M
 ```
 
 ### Implications / Hàm ý

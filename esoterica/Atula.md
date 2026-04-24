@@ -14,18 +14,16 @@ status: refined
 
 ## Trong 6 Cõi Luân Hồi / In the 6 Realms of Samsara
 
-```
-Cõi Trời (Deva) ← Hạnh phúc nhưng complacent / Happy but complacent
-    ↓
-A-tu-la (Asura) ← Powerful nhưng jealous / Powerful but jealous
-    ↓
-Người (Human) ← Balanced, can awaken / Balanced, có thể thức tỉnh
-    ↓
-Súc sinh (Animal) ← Instinct-driven / Theo bản năng
-    ↓
-Ngạ quỷ (Preta) ← Craving, never satisfied / Thèm khát, không bao giờ thỏa mãn
-    ↓
-Địa ngục (Naraka) ← Suffering / Khổ đau
+```mermaid
+flowchart TB
+    D["Cõi Trời (Deva)<br/>Hạnh phúc nhưng tự mãn | Happy but complacent"]
+    A["A-tu-la (Asura)<br/>Quyền lực nhưng ganh tị | Powerful but jealous"]
+    H["Người (Human)<br/>Cân bằng, có thể thức tỉnh | Balanced, can awaken"]
+    An["Súc sinh (Animal)<br/>Theo bản năng | Instinct-driven"]
+    P["Ngạ quỷ (Preta)<br/>Thèm khát | Craving, never satisfied"]
+    N["Địa ngục (Naraka)<br/>Khổ đau | Suffering"]
+    
+    D --> A --> H --> An --> P --> N
 ```
 
 ---

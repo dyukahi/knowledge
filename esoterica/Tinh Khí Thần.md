@@ -62,9 +62,14 @@ related:
 
 ### Taoist Alchemy / Luyện đan Đạo giáo
 
-```
-Tinh (Jing) → Khí (Qi) → Thần (Shen) → Hư Vô (Void)
-Essence → Energy → Spirit → Emptiness
+```mermaid
+flowchart LR
+    J["Tinh (Jing)<br/>Essence"]
+    Q["Khí (Qi)<br/>Energy"]
+    S["Thần (Shen)<br/>Spirit"]
+    V["Hư Vô (Void)<br/>Emptiness"]
+    
+    J --> Q --> S --> V
 ```
 
 ### Practice / Thực hành
