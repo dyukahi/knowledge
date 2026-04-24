@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+                "file": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vận Chín, Người Kogi và Ma Trận Y Tế"
+              "title": "Bộ Não Rỗng và AI Brain Rot"
             }
           }
         ]
@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c87cf7e2b1e27ca",
+  "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
+    "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
     "esoterica/Một Đời Phù Vân.md",
     "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
     "esoterica/Cabal.md",
@@ -211,7 +212,6 @@
     "politics-conspiracy/Kiểm Soát Tâm Trí.md",
     "mental-models/Nhị Nguyên.md",
     "esoterica/Luân Hồi.md",
-    "esoterica/Gnosis (Ngộ Đạo).md",
     "quartz/static/giscus/light.css",
     "quartz/static/giscus/dark.css",
     "quartz/plugins/transformers/toc.ts",

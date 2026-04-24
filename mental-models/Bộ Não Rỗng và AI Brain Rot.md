@@ -46,9 +46,9 @@ sources:
 
 ```mermaid
 flowchart TB
-    L3[Lớp 3: Suy luận → AI]
-    L2[Lớp 2: Tính toán → Máy tính]
-    L1[Lớp 1: Bộ nhớ → Cloud]
+    L3["Lớp 3: Suy luận → AI | Layer 3: Reasoning → AI"]
+    L2["Lớp 2: Tính toán → Máy | Layer 2: Compute → Machine"]
+    L1["Lớp 1: Bộ nhớ → Cloud | Layer 1: Memory → Cloud"]
     
     L3 --> L2 --> L1
 ```
@@ -142,12 +142,15 @@ Não bộ có tính khả biến (neuroplasticity). Nếu bạn dành 6-8 tiến
 
 ```mermaid
 flowchart TD
-    S1[Outsource trí nhớ] --> S2[Suy luận nông đi]
-    S2 --> S3[Quen instant answer]
-    S3 --> S4[Dopamine loop]
-    S4 --> S5[Attention vỡ vụn]
-    S5 --> S6[Agency Decay]
-    S6 -->|Lặp lại| S1
+    S1["Outsource trí nhớ | Memory offload"]
+    S2["Suy luận nông | Shallow reasoning"]
+    S3["Quen có ngay | Instant gratification"]
+    S4["Dopamine loop"]
+    S5["Chú ý vỡ vụn | Attention fragmentation"]
+    S6["Mất quyền tự chủ | Agency decay"]
+    
+    S1 --> S2 --> S3 --> S4 --> S5 --> S6
+    S6 -->|"Repeat"| S1
 ```
 
 **Mỗi vòng lặp, khả năng meta-cognitive — năng lực điều phối nhận thức — yếu đi một chút.**
