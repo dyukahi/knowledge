@@ -1,4 +1,4 @@
-﻿---
+---
 title: S.E.X Và Tâm Lý Học Jung
 date: 2026-04-07
 tags: [mental-model]
