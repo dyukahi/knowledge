@@ -17,16 +17,26 @@ status: refined
 
 ```mermaid
 flowchart TB
-    C7["7. Sahasrara | Crown<br/>Đỉnh đầu | Enlightenment"]
-    C6["6. Ajna | Third Eye<br/>Giữa trán | Intuition"]
-    C5["5. Vishuddha | Throat<br/>Cổ họng | Expression"]
-    C4["4. Anahata | Heart<br/>Tim | Love"]
-    C3["3. Manipura | Solar Plexus<br/>Rốn | Power"]
-    C2["2. Svadhisthana | Sacral<br/>Bụng dưới | Creativity"]
-    C1["1. Muladhara | Root<br/>Đáy cột sống | Survival"]
+    C7["7. Sahasrara - Crown"]
+    C6["6. Ajna - Third Eye"]
+    C5["5. Vishuddha - Throat"]
+    C4["4. Anahata - Heart"]
+    C3["3. Manipura - Solar Plexus"]
+    C2["2. Svadhisthana - Sacral"]
+    C1["1. Muladhara - Root"]
     
     C7 --> C6 --> C5 --> C4 --> C3 --> C2 --> C1
 ```
+
+| # | Sanskrit | English | Vị trí |
+|---|----------|---------|--------|
+| 7 | Sahasrara | Crown | Đỉnh đầu |
+| 6 | Ajna | Third Eye | Giữa trán |
+| 5 | Vishuddha | Throat | Cổ họng |
+| 4 | Anahata | Heart | Tim |
+| 3 | Manipura | Solar Plexus | Rốn |
+| 2 | Svadhisthana | Sacral | Bụng dưới |
+| 1 | Muladhara | Root | Đáy cột sống |
 
 ---
 
@@ -226,14 +236,14 @@ flowchart TB
 
 ```mermaid
 flowchart BT
-    K["Kundalini ngủ | Dormant"]
+    K["Kundalini ngủ"]
     M["Muladhara"]
-    UP["Đi lên qua chakra | Rises through chakras"]
+    UP["Đi lên qua chakra"]
     S["Sahasrara"]
-    E["Giác ngộ | Enlightenment"]
+    E["Giác ngộ"]
     
     K --> M
-    M -->|"Thức tỉnh | Awakening"| UP
+    M -->|"Thức tỉnh"| UP
     UP --> S
     S --> E
 ```
@@ -253,11 +263,11 @@ Kundalini awakening không nên bị ép buộc. Nếu không chuẩn bị, có 
 
 ```mermaid
 flowchart LR
-    M["Ma Trận | Matrix"]
+    M["Ma Trận"]
     
-    C2["Chakra 2<br/>Porn, Sex addiction"]
-    C3["Chakra 3<br/>Fear, Anxiety"]
-    C6["Chakra 6<br/>Fluoride, Calcification"]
+    C2["Chakra 2: Porn"]
+    C3["Chakra 3: Fear"]
+    C6["Chakra 6: Fluoride"]
     
     M -->|"Rút năng lượng"| C2
     M -->|"Kiểm soát"| C3
