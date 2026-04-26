@@ -19,11 +19,7 @@ status: refined
 
 *Mẫu hình xuất hiện ở mọi nền văn minh cổ đại / Pattern found in all ancient civilizations*
 
-### Cymatics — Âm Thanh Tạo Hình Học
-
-![Cymatics](../assets/cymatics.jpg)
-
-*Âm thanh tạo hoa văn hình học / Sound creates geometric patterns*
+> 📺 **Video Cymatics:** [Cymatics: Science vs Music - Nigel Stanford (YouTube)](https://www.youtube.com/watch?v=Q3oItpVa9fs) — Xem âm thanh tạo hình học trên cát và nước
 
 ---
 
