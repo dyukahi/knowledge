@@ -11,6 +11,22 @@ status: refined
 
 ---
 
+## Hình Ảnh Minh Họa / Visual References
+
+> **Flower of Life** — Mẫu hình xuất hiện ở mọi nền văn minh cổ đại
+> ![Flower of Life](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flower_of_life.svg/400px-Flower_of_life.svg.png)
+> *Source: Wikimedia Commons*
+
+> **5 Khối Platonic** — 5 cấu trúc đối xứng duy nhất trong không gian 3D
+> ![Platonic Solids](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Platonic_Solids_Transparent.svg/400px-Platonic_Solids_Transparent.svg.png)
+> *Source: Wikimedia Commons*
+
+> **Cymatics** — Âm thanh tạo hình học trên cát/nước
+> ![Cymatics](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chladni_pattern_6%2C7.jpg/300px-Chladni_pattern_6%2C7.jpg)
+> *Source: Wikimedia Commons - Chladni pattern*
+
+---
+
 ## Vũ Trụ Được Tạo Từ Hình Học
 
 Bạn nghĩ vũ trụ được tạo ra từ vật chất? **Sai rồi.**
@@ -301,6 +317,70 @@ Và nếu bạn đi đủ sâu... bạn sẽ bắt đầu tự hỏi:
 
 ---
 
+## Kết Nối Với Ma Trận / Connection to The Matrix
+
+Sacred Geometry không chỉ là kiến thức "đẹp" — nó có liên hệ sâu sắc với [[Ma Trận]] và hệ thống kiểm soát.
+
+*Sacred Geometry isn't just "beautiful" knowledge — it has deep connections to [[Ma Trận|The Matrix]] and control systems.*
+
+### Nhị Nguyên — Công Cụ Kiểm Soát / Duality as Control
+
+[[Nhị Nguyên]] (Divine Feminine/Masculine) là nguyên lý sáng tạo tự nhiên. Nhưng [[Ma Trận]] **bóp méo** nó thành công cụ chia rẽ:
+
+*[[Nhị Nguyên|Duality]] (Divine Feminine/Masculine) is a natural creative principle. But [[Ma Trận|The Matrix]] distorts it into a tool of division:*
+
+| Nguyên lý tự nhiên | Ma Trận bóp méo thành |
+|-------------------|----------------------|
+| Feminine/Masculine | Nam vs Nữ, chiến tranh giới tính |
+| Âm/Dương hài hòa | Tốt vs Xấu tuyệt đối |
+| Đối lập bổ sung | Đối lập loại trừ |
+| Unity through polarity | Division through conflict |
+
+> **Bí mật:** [[Elite]] hiểu Sacred Geometry. Họ sử dụng nó trong kiến trúc, logo, nghi lễ. Nhưng họ **che giấu** kiến thức này khỏi đại chúng và **bóp méo** nhị nguyên thành công cụ chia rẽ.
+>
+> *Secret: The [[Elite]] understand Sacred Geometry. They use it in architecture, logos, rituals. But they hide this knowledge from the masses and distort duality into a tool of division.*
+
+### Tại Sao Sacred Geometry Bị Ẩn? / Why Is It Hidden?
+
+1. **Nếu bạn hiểu** rằng vũ trụ có cấu trúc → bạn nhận ra có Nguồn/Ý Thức
+2. **Nếu bạn hiểu** nhị nguyên là bổ sung → bạn không bị chia rẽ
+3. **Nếu bạn hiểu** bạn là một phần của hình học → bạn nhận ra sức mạnh của mình
+4. **Nếu bạn hiểu** Flower of Life → bạn thấy sự kết nối giữa mọi thứ
+
+→ **Ma Trận mất quyền kiểm soát.**
+
+*If you understand these things → The Matrix loses control.*
+
+### Sacred Geometry vs Ma Trận
+
+```mermaid
+flowchart LR
+    SG[Sacred Geometry]
+    M[Matrix]
+    
+    SG -->|"Unity"| U[Sự Nhất Thể]
+    M -->|"Division"| D[Chia rẽ]
+    
+    SG -->|"Creation"| C[Sáng tạo]
+    M -->|"Extraction"| E[Rút kiệt]
+    
+    SG -->|"Knowledge"| K[Hiểu biết]
+    M -->|"Ignorance"| I[Vô minh]
+```
+
+### Ứng Dụng Thực Tế / Practical Application
+
+Hiểu Sacred Geometry giúp bạn:
+
+*Understanding Sacred Geometry helps you:*
+
+- **Nhận ra Nhị Nguyên giả** — Khi media đẩy bạn về một cực (tốt/xấu, ta/địch), hãy nhớ rằng đó là sự bóp méo
+- **Thấy cấu trúc ẩn** — Logo công ty, kiến trúc quyền lực thường sử dụng Sacred Geometry
+- **Kết nối với Nguồn** — Thiền định trên Flower of Life, Merkaba
+- **Thoát khỏi chia rẽ** — Nhị nguyên không phải để chiến đấu, mà để bổ sung
+
+---
+
 ## Related
 
 ### Vũ trụ học / Cosmology
@@ -323,6 +403,8 @@ Và nếu bạn đi đủ sâu... bạn sẽ bắt đầu tự hỏi:
 - [[Vô Thức Tập Thể]] — Collective unconscious
 - [[Gnosis (Ngộ Đạo)]] — Direct knowing
 - [[Ma Trận]] — The Matrix
+- [[Nhị Nguyên]] — Duality
+- [[Chia Tách Bởi Nhị Nguyên]] — Division by duality
 
 ### Khoa học / Science
 - [[Khoa Học Xét Lại (Revisionist Science)]] — Revisionist science
