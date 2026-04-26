@@ -11,19 +11,13 @@ status: refined
 
 ---
 
-## Hình Ảnh Minh Họa / Visual References
+## Hình Ảnh Tham Khảo / Visual References
 
-> **Flower of Life** — Mẫu hình xuất hiện ở mọi nền văn minh cổ đại
-> ![Flower of Life](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flower_of_life.svg/400px-Flower_of_life.svg.png)
-> *Source: Wikimedia Commons*
-
-> **5 Khối Platonic** — 5 cấu trúc đối xứng duy nhất trong không gian 3D
-> ![Platonic Solids](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Platonic_Solids_Transparent.svg/400px-Platonic_Solids_Transparent.svg.png)
-> *Source: Wikimedia Commons*
-
-> **Cymatics** — Âm thanh tạo hình học trên cát/nước
-> ![Cymatics](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chladni_pattern_6%2C7.jpg/300px-Chladni_pattern_6%2C7.jpg)
-> *Source: Wikimedia Commons - Chladni pattern*
+> 🔍 **Tìm kiếm hình ảnh:**
+> - [Flower of Life - Google Images](https://www.google.com/search?tbm=isch&q=flower+of+life+sacred+geometry)
+> - [5 Platonic Solids - Google Images](https://www.google.com/search?tbm=isch&q=platonic+solids+five+elements)
+> - [Cymatics patterns - Google Images](https://www.google.com/search?tbm=isch&q=cymatics+sound+patterns+sand)
+> - [Metatron's Cube - Google Images](https://www.google.com/search?tbm=isch&q=metatrons+cube+sacred+geometry)
 
 ---
 
