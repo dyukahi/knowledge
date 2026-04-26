@@ -1,6 +1,6 @@
----
-title: Núi Tu Di (Mount Meru)
-aliases: ["Núi Tu Di", "Mount Meru"]
+﻿---
+title: "Núi Tu Di"
+aliases: ["Núi Tu Di", "Mount Meru", "Núi Tu Di (Mount Meru)"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined

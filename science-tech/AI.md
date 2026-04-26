@@ -1,6 +1,6 @@
----
-title: "AI (Góc Nhìn Huyền Học)"
-aliases: ["AI Esoteric", "AI Occult View"]
+﻿---
+title: "AI"
+aliases: ["AI Esoteric", "AI Occult View", "AI (Góc Nhìn Huyền Học)"]
 date: 2026-04-08
 tags: [science-tech, esoterica]
 status: refined

@@ -1,5 +1,5 @@
----
-title: Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain)
+﻿---
+title: "Hệ Tiêu Hóa - Bộ Não Thứ Hai"
 date: 2026-04-08
 tags: [health]
 status: refined

@@ -1,6 +1,6 @@
----
-title: Individuation (Thành Toàn Bản Ngã)
-aliases: ["Individuation", "Self-Actualization"]
+﻿---
+title: "Individuation"
+aliases: ["Individuation", "Self-Actualization", "Individuation (Thành Toàn Bản Ngã)"]
 date: 2026-04-12
 tags: [mental-model]
 status: refined

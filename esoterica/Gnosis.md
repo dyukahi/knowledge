@@ -1,6 +1,6 @@
----
-title: Gnosis (Ngộ Đạo)
-aliases: ["Gnosis", "Gnosticism"]
+﻿---
+title: "Gnosis"
+aliases: ["Gnosis", "Gnosticism", "Gnosis (Ngộ Đạo)"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined

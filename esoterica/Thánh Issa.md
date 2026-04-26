@@ -1,5 +1,5 @@
----
-title: Thánh Issa (Hành trình Tây Tạng của Chúa)
+﻿---
+title: "Thánh Issa"
 date: 2026-04-08
 tags: [esoterica]
 status: refined

@@ -1,6 +1,6 @@
 ﻿---
-title: Tà Linh (Energy Parasites)
-aliases: ["Tà Linh", "Energy Parasites", "Archons"]
+title: "Tà Linh"
+aliases: ["Tà Linh", "Energy Parasites", "Archons", "Tà Linh (Energy Parasites)"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined

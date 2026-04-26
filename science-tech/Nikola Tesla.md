@@ -1,6 +1,6 @@
----
-title: Nikola Tesla (Tần Số và Rung Động)
-aliases: ["Nikola Tesla", "Tesla"]
+﻿---
+title: "Nikola Tesla"
+aliases: ["Nikola Tesla", "Tesla", "Nikola Tesla (Tần Số và Rung Động)"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined
