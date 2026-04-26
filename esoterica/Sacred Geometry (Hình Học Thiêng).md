@@ -11,13 +11,18 @@ status: refined
 
 ---
 
-## Hình Ảnh Tham Khảo / Visual References
+## Hình Ảnh / Images
 
-> 🔍 **Tìm kiếm hình ảnh:**
-> - [Flower of Life - Google Images](https://www.google.com/search?tbm=isch&q=flower+of+life+sacred+geometry)
-> - [5 Platonic Solids - Google Images](https://www.google.com/search?tbm=isch&q=platonic+solids+five+elements)
-> - [Cymatics patterns - Google Images](https://www.google.com/search?tbm=isch&q=cymatics+sound+patterns+sand)
-> - [Metatron's Cube - Google Images](https://www.google.com/search?tbm=isch&q=metatrons+cube+sacred+geometry)
+### Flower of Life — Bông Hoa Sự Sống
+
+![Flower of Life](../assets/flower-of-life.svg)
+
+*Mẫu hình xuất hiện ở mọi nền văn minh cổ đại / Pattern found in all ancient civilizations*
+
+> 🔍 **Xem thêm hình ảnh:**
+> - [5 Platonic Solids](https://www.google.com/search?tbm=isch&q=platonic+solids+five+elements)
+> - [Cymatics patterns](https://www.google.com/search?tbm=isch&q=cymatics+sound+patterns)
+> - [Metatron's Cube](https://www.google.com/search?tbm=isch&q=metatrons+cube)
 
 ---
 
