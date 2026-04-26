@@ -15,21 +15,15 @@ status: refined
 
 ### Flower of Life — Bông Hoa Sự Sống
 
-![Flower of Life](https://raw.githubusercontent.com/dyukahi/knowledge/main/assets/flower-of-life.svg)
+![Flower of Life](../assets/flower-of-life.svg)
 
 *Mẫu hình xuất hiện ở mọi nền văn minh cổ đại / Pattern found in all ancient civilizations*
 
-### Platonic Solids — 5 Khối Đa Diện Đều
-
-![Platonic Solids](https://mathworld.wolfram.com/images/gifs/PlatonicSolids.gif)
-
-*Tetrahedron, Cube, Octahedron, Icosahedron, Dodecahedron*
-
 ### Cymatics — Âm Thanh Tạo Hình Học
 
-![Cymatics](https://i.imgur.com/JZxGqXN.jpg)
+![Cymatics](../assets/cymatics.jpg)
 
-*Âm thanh tạo hoa văn hình học trên cát / Sound creates geometric patterns on sand*
+*Âm thanh tạo hoa văn hình học / Sound creates geometric patterns*
 
 ---
 
