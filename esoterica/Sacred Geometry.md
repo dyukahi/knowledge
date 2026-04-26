@@ -1,6 +1,6 @@
----
-title: "Sacred Geometry (Hình Học Thiêng)"
-aliases: ["Sacred Geometry", "Hình Học Thiêng", "Hình Học Thiêng Liêng"]
+﻿---
+title: "Sacred Geometry"
+aliases: ["Sacred Geometry", "Hình Học Thiêng", "Hình Học Thiêng Liêng", "Sacred Geometry (Hình Học Thiêng)"]
 date: 2026-04-26
 tags: [esoterica]
 status: refined

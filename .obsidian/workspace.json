@@ -185,6 +185,9 @@
   },
   "active": "ba7bd15a74bbf3a5",
   "lastOpenFiles": [
+    "esoterica/Sacred Geometry.md",
+    "assets/flower-of-life-new.svg",
+    "assets/flower-of-life.html",
     "assets/cymatics.jpg",
     "assets/flower-of-life.svg",
     "esoterica/Sacred Geometry (Hình Học Thiêng).md",
@@ -221,7 +224,6 @@
     "quartz/plugins/transformers/oxhugofm.ts",
     "quartz/plugins/transformers/ofm.ts",
     "quartz/plugins/transformers/links.ts",
-    "quartz/plugins/transformers/linebreaks.ts",
     "quartz/static/og-image.png",
     "quartz/static/icon.png",
     "content/assets/og-image.png",
@@ -229,7 +231,6 @@
     "Untitled.canvas",
     "_inbox/raw-legacy/images/science_conspiracy_collage.png",
     "_inbox/raw-legacy/images/obama_old_photo.png",
-    "_inbox/raw-legacy/images/the_dark_truth_about_porn.jpg",
-    "_inbox/raw-legacy/images/elon_maga_occult.jpg"
+    "_inbox/raw-legacy/images/the_dark_truth_about_porn.jpg"
   ]
 }
