@@ -17,13 +17,13 @@ status: refined
 
 ```mermaid
 flowchart TB
-    C7["7. Sahasrara - Crown"]
-    C6["6. Ajna - Third Eye"]
-    C5["5. Vishuddha - Throat"]
-    C4["4. Anahata - Heart"]
-    C3["3. Manipura - Solar Plexus"]
-    C2["2. Svadhisthana - Sacral"]
-    C1["1. Muladhara - Root"]
+    C7[Sahasrara - Crown]
+    C6[Ajna - Third Eye]
+    C5[Vishuddha - Throat]
+    C4[Anahata - Heart]
+    C3[Manipura - Solar Plexus]
+    C2[Svadhisthana - Sacral]
+    C1[Muladhara - Root]
     
     C7 --> C6 --> C5 --> C4 --> C3 --> C2 --> C1
 ```
@@ -236,14 +236,14 @@ flowchart TB
 
 ```mermaid
 flowchart BT
-    K["Kundalini ngủ"]
-    M["Muladhara"]
-    UP["Đi lên qua chakra"]
-    S["Sahasrara"]
-    E["Giác ngộ"]
+    K[Kundalini]
+    M[Muladhara]
+    UP[Rise Up]
+    S[Sahasrara]
+    E[Enlightenment]
     
     K --> M
-    M -->|"Thức tỉnh"| UP
+    M -->|Awakening| UP
     UP --> S
     S --> E
 ```
@@ -263,15 +263,15 @@ Kundalini awakening không nên bị ép buộc. Nếu không chuẩn bị, có 
 
 ```mermaid
 flowchart LR
-    M["Ma Trận"]
+    M[Matrix]
     
-    C2["Chakra 2: Porn"]
-    C3["Chakra 3: Fear"]
-    C6["Chakra 6: Fluoride"]
+    C2[Sacral - Porn]
+    C3[Solar - Fear]
+    C6[Third Eye - Fluoride]
     
-    M -->|"Rút năng lượng"| C2
-    M -->|"Kiểm soát"| C3
-    M -->|"Đóng cửa"| C6
+    M -->|Drain| C2
+    M -->|Control| C3
+    M -->|Block| C6
 ```
 
 [[Elite]] hiểu rõ hệ thống chakra và khai thác nó:
