@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mô Hình Địa Tâm (Geocentrism)"
 aliases: ["Geocentrism", "Địa Tâm", "Geocentric Model"]
 date: 2026-04-08
@@ -8,9 +8,9 @@ status: refined
 
 # Mô Hình Địa Tâm (Geocentrism)
 
-**Mô hình Địa Tâm** khẳng định Trái Đất đứng yên tại trung tâm vũ trụ, Mặt Trời, Mặt Trăng và các vì sao quay quanh nó. Đây là mô hình vũ trụ của hầu hết các nền văn minh cổ đại và vẫn được một số nhóm [[Khoa Học Xét Lại (Revisionist Science)|Khoa Học Xét Lại]] ủng hộ.
+**Mô hình Địa Tâm** khẳng định Trái Đất đứng yên tại trung tâm vũ trụ, Mặt Trời, Mặt Trăng và các vì sao quay quanh nó. Đây là mô hình vũ trụ của hầu hết các nền văn minh cổ đại và vẫn được một số nhóm [[Khoa Học Xét Lại|Khoa Học Xét Lại]] ủng hộ.
 
-*The Geocentric model asserts that Earth stands still at the center of the universe, with the Sun, Moon, and stars revolving around it. This was the cosmological model of most ancient civilizations and is still supported by some [[Khoa Học Xét Lại (Revisionist Science)|Revisionist Science]] groups.*
+*The Geocentric model asserts that Earth stands still at the center of the universe, with the Sun, Moon, and stars revolving around it. This was the cosmological model of most ancient civilizations and is still supported by some [[Khoa Học Xét Lại|Revisionist Science]] groups.*
 
 ---
 
@@ -218,12 +218,12 @@ Mô hình Địa tâm nhắc nhở chúng ta rằng "khoa học" cũng có thể
 
 ### Vũ trụ học / Cosmology
 - [[Thuyết Trái Đất Phẳng]] — Flat Earth Theory
-- [[Núi Tu Di (Mount Meru)]] — Buddhist/Hindu cosmology
+- [[Núi Tu Di]] — Buddhist/Hindu cosmology
 - [[Vũ Trụ Học Phật Giáo]] — Buddhist cosmology
 - [[Cỗ Máy Antikythera và Minh Chứng Địa Tâm]] — Ancient evidence
 
 ### Khoa học & Triết học / Science & Philosophy
-- [[Khoa Học Xét Lại (Revisionist Science)]] — Questioning mainstream
+- [[Khoa Học Xét Lại]] — Questioning mainstream
 - [[Khoa Học Chân Chính và Thượng Đế]] — Science and God
 - [[Chu Kỳ Hoàng Đạo]] — Zodiac cycles
 

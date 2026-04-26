@@ -1,4 +1,4 @@
----
+﻿---
 title: Tâm Lý Học Jung
 date: 2026-04-12
 tags: [mental-model]
@@ -14,7 +14,7 @@ status: refined
 
 ## Các Khái niệm Cốt lõi / Core Concepts
 
-### 1. [[Individuation (Thành Toàn Bản Ngã)]]
+### 1. [[Individuation]]
 
 Quá trình cốt lõi: hành trình tự nhận thức, tích hợp các mặt đối lập trong tâm hồn để trở thành cá nhân trọn vẹn.
 
@@ -26,7 +26,7 @@ Tầng sâu nhất của tâm trí, nơi lưu trữ ký ức và kinh nghiệm c
 
 *The deepest layer of the mind, storing shared memories and experiences of all humanity.*
 
-### 3. [[Nguyên Mẫu (Archetypes)]]
+### 3. [[Nguyên Mẫu]]
 
 Các mô hình phổ quát định hình hành vi con người qua hàng thiên niên kỷ.
 
@@ -81,7 +81,7 @@ Collective Unconscious (Vô thức tập thể)
 Tinh thần minh mẫn cần cơ thể khỏe mạnh:
 *Clear mind needs healthy body:*
 
-- [[Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain)]] — Gut-brain axis
+- [[Hệ Tiêu Hóa - Bộ Não Thứ Hai]] — Gut-brain axis
 - [[The China Study]] — Nutrition impacts
 
 ### Eastern Parallels / Tương đồng Phương Đông
@@ -124,12 +124,12 @@ Tinh thần minh mẫn cần cơ thể khỏe mạnh:
 ## Related
 
 ### Core Concepts / Khái niệm cốt lõi
-- [[Individuation (Thành Toàn Bản Ngã)]]
-- [[Nguyên Mẫu (Archetypes)]]
+- [[Individuation]]
+- [[Nguyên Mẫu]]
 - [[Vô Thức Tập Thể]]
 
 ### Body Connection / Kết nối Thể chất
-- [[Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain)]]
+- [[Hệ Tiêu Hóa - Bộ Não Thứ Hai]]
 - [[The China Study]]
 
 ### Matrix Escape / Thoát Ma Trận

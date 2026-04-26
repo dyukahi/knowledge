@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sự Nhất Thể (Oneness)"
 aliases: ["Oneness", "Unity", "Non-duality"]
 date: 2026-04-08
@@ -66,7 +66,7 @@ status: refined
 - Creates sense of separate self / Tạo cảm giác tách biệt
 - Necessary for survival / Cần cho sinh tồn
 - But not who we truly are / Nhưng không phải ta thật sự
-- See [[Individuation (Thành Toàn Bản Ngã)]]
+- See [[Individuation]]
 
 ---
 
@@ -115,7 +115,7 @@ status: refined
 
 ### Unity / Nhất Thể
 - [[Monad]] — The One source
-- [[Gnosis (Ngộ Đạo)]] — Direct experience
+- [[Gnosis]] — Direct experience
 - [[Lemuria]] — Civilization of oneness
 
 ### Division / Chia tách
@@ -125,5 +125,5 @@ status: refined
 - [[Khế Ước Bí Mật Rockefeller]]
 
 ### Integration
-- [[Individuation (Thành Toàn Bản Ngã)]]
+- [[Individuation]]
 - [[Tâm Lý Học Jung]]

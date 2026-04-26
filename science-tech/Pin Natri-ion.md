@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pin Natri-ion (Sodium-ion Battery)"
 date: 2026-04-08
 tags: [science-tech]
@@ -86,4 +86,4 @@ Theo [[René Quinton và Huyết Tương Biển]]:
 - [[René Quinton và Huyết Tương Biển]] — Ocean as life source
 - [[Y Tế Tự Nhiên & Năng Lượng Mới]]
 - [[Bitcoin]] — Energy storage for money?
-- [[Nikola Tesla (Tần Số và Rung Động)]] — Free energy suppressed
+- [[Nikola Tesla]] — Free energy suppressed

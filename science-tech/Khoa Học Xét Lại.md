@@ -91,7 +91,7 @@ Khoa học xét lại chia sẻ góc nhìn với:
 - [[Vũ Trụ Học Phật Giáo]] — Buddhist cosmology
 - [[Mô Hình Địa Tâm]] — Geocentric model
 - Astrology / Chiêm tinh
-- [[Gnosis (Ngộ Đạo)]] — Direct knowledge
+- [[Gnosis]] — Direct knowledge
 
 ---
 
@@ -121,7 +121,7 @@ Khoa học xét lại chia sẻ góc nhìn với:
 - [[Năng Lượng Aether]]
 
 ### Scientists to Study
-- [[Nikola Tesla (Tần Số và Rung Động)]]
+- [[Nikola Tesla]]
 - [[Walter Russell]]
 - [[Thuật Giả Kim Của Newton]]
 

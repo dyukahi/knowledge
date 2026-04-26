@@ -55,7 +55,7 @@ status: refined
 
 ### 4. Self (Bản ngã)
 
-- Goal of [[Individuation (Thành Toàn Bản Ngã)]]
+- Goal of [[Individuation]]
 - Unification of all archetypes / Thống nhất tất cả nguyên mẫu
 - Symbol: Mandala, Christ, Buddha
 - Transcends ego / Vượt qua cái tôi
@@ -94,7 +94,7 @@ Each has shadow forms (tyrant, sadist, manipulator, addict).
 - Identify your dominant archetypes
 - Integrate shadow aspects
 - Balance all energies
-- Path to [[Individuation (Thành Toàn Bản Ngã)]]
+- Path to [[Individuation]]
 
 ### Understanding Others / Hiểu Người khác
 
@@ -109,7 +109,7 @@ Each has shadow forms (tyrant, sadist, manipulator, addict).
 ### Jung & Psychology
 - [[Tâm Lý Học Jung]] — Source
 - [[Vô Thức Tập Thể]] — Where archetypes live
-- [[Individuation (Thành Toàn Bản Ngã)]] — Goal
+- [[Individuation]] — Goal
 - [[S.E.X Và Tâm Lý Học Jung]]
 
 ### Philosophy

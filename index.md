@@ -1,4 +1,4 @@
----
+﻿---
 title: Red Pill Wiki
 description: "Kho tri thức độc lập về Khoa Học Xét Lại, tâm linh, tài chính — những chủ đề bị mainstream che giấu. Independent research on Revisionist Science, spirituality, finance."
 image: assets/og-image.png
@@ -43,7 +43,7 @@ Complete bilingual rewrites with Mermaid diagrams:
 - **[[Vận Chín]]** — The 9th Luck cycle & Kogi prophecy / Chu kỳ Vận Chín & lời tiên tri Kogi
 - **[[Thuyết Trái Đất Phẳng]]** — Alternative cosmology analysis / Phân tích vũ trụ học thay thế
 - **[[Mô Hình Địa Tâm]]** — Geocentric model history / Lịch sử mô hình Địa Tâm
-- **[[AI (Góc Nhìn Huyền Học)]]** — AI through esoteric lens / AI qua lăng kính huyền học
+- **[[AI]]** — AI through esoteric lens / AI qua lăng kính huyền học
 - **[[Sự Thật Đen Tối Về Phim Khiêu Dâm]]** — Energy harvesting industry / Ngành công nghiệp rút kiệt năng lượng
 
 ### 📌 Series: Gen Z & Agenda 2030
@@ -62,7 +62,7 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 ### 📌 Core Articles / Bài Cốt Lõi
 
 - **[[Báo Cáo 2030]]** — Elite's blueprint for humanity / Blueprint của Elite cho tương lai nhân loại
-- **[[Khoa Học Xét Lại (Revisionist Science)]]** — Why we need to revisit mainstream science / Tại sao cần xét lại khoa học
+- **[[Khoa Học Xét Lại]]** — Why we need to revisit mainstream science / Tại sao cần xét lại khoa học
 - **[[Ma Trận]]** — Understanding the control system / Hiểu về hệ thống kiểm soát
 - **[[Elite]]** — Who rules the world? / Ai đang điều khiển thế giới?
 - **[[Bitcoin]]** — Escape from the financial system / Lối thoát khỏi hệ thống tài chính
@@ -72,12 +72,12 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 - **[[Tartaria]]** — The erased civilization / Nền văn minh bị xóa sổ
 - **[[Annunaki]]** — True origin of humanity? / Nguồn gốc thực sự của loài người?
 - **[[Tâm Lý Học Jung]]** — Collective unconscious and Archetypes / Vô thức tập thể
-- **[[Individuation (Thành Toàn Bản Ngã)]]** — Becoming whole / Trở nên toàn vẹn
+- **[[Individuation]]** — Becoming whole / Trở nên toàn vẹn
 - **[[Monad]]** — Philosophy of being / Triết học về bản thể
 
 ### 📌 Health & Wellness / Sức Khỏe
 
-- **[[Y Tế Tự Nhiên (Anti-Matrix Health)]]** — Healing outside the system / Chữa lành ngoài hệ thống
+- **[[Y Tế Tự Nhiên]]** — Healing outside the system / Chữa lành ngoài hệ thống
 - **[[Thuyết Vi Sinh Nội Sinh]]** — Terrain theory vs Germ theory
 - **[[Thuốc Hóa Dầu]]** — Petrochemical medicine / Y học dầu mỏ
 - **[[Cơ Chế Tự Bảo Vệ Của Cơ Thể]]** — Body's self-defense / Cơ chế tự bảo vệ
@@ -97,10 +97,10 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 - [[Chu Kỳ Hoàng Đạo]] | [[Vận Chín]]
 - [[Tâm Lý Học Jung]] | [[Vô Thức Tập Thể]]
 - [[S.E.X Và Tâm Lý Học Jung]] | [[Năng Lượng Tình Dục]]
-- [[Thực Thể Cõi Trung Giới (Astral Entities)]]
+- [[Thực Thể Cõi Trung Giới]]
 
 ### 🏥 Health
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]
 - [[Thuyết Vi Sinh Nội Sinh]] | [[Plasma Quinton]]
 - [[Thuốc Hóa Dầu]] | [[Cơ Chế Tự Bảo Vệ Của Cơ Thể]]
 - [[Tuyến Tùng]] | [[Suramin]]
@@ -110,7 +110,7 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 - [[Bộ Não Rỗng và AI Brain Rot]] | [[Mô Hình Địa Tâm]]
 - [[Gen Z - Phân Tích Phản Biện]]
 - [[Thông Minh vs Trí Tuệ]]
-- [[Individuation (Thành Toàn Bản Ngã)]]
+- [[Individuation]]
 
 ### 🏛️ Politics & Conspiracy
 - [[Báo Cáo 2030]] | [[Elite]] | [[Cabal]]
@@ -120,9 +120,9 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 - [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
 
 ### 🔬 Science & Tech
-- [[Khoa Học Xét Lại (Revisionist Science)]]
-- [[AI (Góc Nhìn Huyền Học)]]
-- [[Nikola Tesla (Tần Số và Rung Động)]]
+- [[Khoa Học Xét Lại]]
+- [[AI]]
+- [[Nikola Tesla]]
 - [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]
 - [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]]
 
@@ -131,7 +131,7 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 ## 🧭 Navigation Guide / Cách Điều Hướng
 
 1. **Where to start? / Bắt đầu từ đâu?**
-   - Complete newbie → Read [[Khoa Học Xét Lại (Revisionist Science)]]
+   - Complete newbie → Read [[Khoa Học Xét Lại]]
    - Interested in 2030 → Read [[Báo Cáo 2030]] then Gen Z series
    - Interested in spirituality → Start with [[Monad]] or [[Tâm Lý Học Jung]]
    - Interested in AI/Tech → Read [[Bộ Não Rỗng và AI Brain Rot]]

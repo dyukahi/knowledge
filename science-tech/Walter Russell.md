@@ -1,4 +1,4 @@
----
+﻿---
 title: "Walter Russell"
 aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
 date: 2026-04-08
@@ -24,7 +24,7 @@ status: refined
 - 39-day mystical experience
 - Complete understanding of universe
 - Downloaded knowledge directly
-- Similar to [[Nikola Tesla (Tần Số và Rung Động)|Tesla's]] visions
+- Similar to [[Nikola Tesla|Tesla's]] visions
 
 ## Core Teachings
 
@@ -127,6 +127,6 @@ flowchart LR
 
 - [[Khoa Học Chân Chính và Thượng Đế]]
 - [[Sự Nhất Thể]] — Core teaching
-- [[Nikola Tesla (Tần Số và Rung Động)]] — Contemporary mystic-scientist
+- [[Nikola Tesla]] — Contemporary mystic-scientist
 - [[Năng Lượng Aether]] — Similar concepts
 - [[Monad]] — Light/consciousness as source

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kính Chiếu Yêu — Nhìn Thấu Tây Y"
 aliases: ["They Live Medicine", "Seeing Through Western Medicine"]
 date: 2026-04-25
@@ -227,9 +227,9 @@ Hệ thống này được thiết kế để:
 
 ## Thay Thế / Alternative
 
-Xem [[Y Tế Tự Nhiên (Anti-Matrix Health)]] để tìm hiểu các phương pháp chữa lành thực sự:
+Xem [[Y Tế Tự Nhiên]] để tìm hiểu các phương pháp chữa lành thực sự:
 
-*See [[Y Tế Tự Nhiên (Anti-Matrix Health)]] to learn about real healing methods:*
+*See [[Y Tế Tự Nhiên]] to learn about real healing methods:*
 
 - [[Thuyết Vi Sinh Nội Sinh]] — Terrain > Germ
 - [[Cơ Chế Tự Bảo Vệ Của Cơ Thể]] — Trust your body
@@ -243,6 +243,6 @@ Xem [[Y Tế Tự Nhiên (Anti-Matrix Health)]] để tìm hiểu các phương 
 - [[Thuốc Hóa Dầu]] — Nguồn gốc y học hiện đại
 - [[Thuyết Vi Sinh Nội Sinh]] — Terrain Theory
 - [[Cơ Chế Tự Bảo Vệ Của Cơ Thể]] — Body's self-defense
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]] — Alternative approaches
+- [[Y Tế Tự Nhiên]] — Alternative approaches
 - [[Ma Trận]] — The bigger system
 - [[Elite]] — Who benefits

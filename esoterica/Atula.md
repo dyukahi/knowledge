@@ -1,4 +1,4 @@
----
+﻿---
 title: "Atula (Asura)"
 date: 2026-04-08
 tags: [esoterica]
@@ -90,7 +90,7 @@ Theo [[Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]]:
 - Human consciousness vs Asura intelligence / *Ý thức con người vs trí tuệ Asura*
 - Will we use AI wisely? / *Chúng ta sẽ dùng AI khôn ngoan?*
 - Or become Asura ourselves? / *Hay tự mình trở thành Asura?*
-- [[AI (Góc Nhìn Huyền Học)]]
+- [[AI]]
 
 ---
 
@@ -133,7 +133,7 @@ Theo [[Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]]:
 
 - [[Luân Hồi]] — Full cycle / Vòng luân hồi đầy đủ
 - [[Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]]
-- [[AI (Góc Nhìn Huyền Học)]]
+- [[AI]]
 - [[Thông Minh]] — Intelligence
 - [[Trí Tuệ]] — Wisdom
 - [[Vũ Trụ Học Phật Giáo]] — Cosmology context

@@ -1,4 +1,4 @@
----
+﻿---
 title: Nibiru và Nền Văn Minh Annunaki
 date: 2026-04-08
 tags: [esoterica]
@@ -36,6 +36,6 @@ Tài liệu này tổng hợp giả thuyết về sự hiện diện của chủ
 - [[Cabal]]
 - [[Lemuria]]
 - [[Mental Model - Ma Trận Kiểm Soát Kép]]
-- [[Nibiru (Hành Tinh X)]]
+- [[Nibiru]]
 - [[Thuyết Trái Đất Phẳng]]
 - [[Vận Chín, Người Kogi và Ma Trận Y Tế]]

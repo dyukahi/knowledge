@@ -1,4 +1,4 @@
----
+﻿---
 title: Giải Mã Vũ Trụ - Y Tế - Tâm Linh
 date: 2026-04-08
 tags: [health]
@@ -44,7 +44,7 @@ Bài tổng hợp từ dữ liệu thoại/văn bản mới nạp, bao trùm cá
 
 ## Related
 - [[Atlantis]]
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]
 - [[Lemuria]]
 - [[Luân Hồi]]
 - [[Mô Hình Địa Tâm]]

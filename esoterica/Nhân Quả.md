@@ -1,4 +1,4 @@
----
+﻿---
 title: Nhân Quả
 aliases: ["Karma", "Law of Cause and Effect"]
 date: 2026-04-08
@@ -108,7 +108,7 @@ Xem [[Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo]]:
 - [[Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo]]
 
 ### Liberation / Giải thoát
-- [[Gnosis (Ngộ Đạo)]] — Path to liberation
+- [[Gnosis]] — Path to liberation
 - [[Monad]] — Return to source
 
 ### Processing / Xử lý

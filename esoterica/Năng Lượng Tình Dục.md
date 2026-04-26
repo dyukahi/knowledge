@@ -1,4 +1,4 @@
----
+﻿---
 title: Năng Lượng Tình Dục
 aliases: ["Sexual Energy", "Sex Force", "Creative Energy"]
 date: 2026-04-07
@@ -68,7 +68,7 @@ Sexual energy → Spine → Chakras → Pineal Gland
 - [[Ma Trận]]
 - [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
 - [[Thuật Giả Kim Của Newton]]
-- [[Thực Thể Cõi Trung Giới  (Astral Entities)]]
+- [[Thực Thể Cõi Trung Giới]]
 - [[Trí Tuệ]]
 - [[Tuyến Tùng]]
 - [[Tinh Khí Thần]]

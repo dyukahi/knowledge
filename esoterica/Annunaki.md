@@ -1,10 +1,10 @@
----
+﻿---
 title: "Annunaki"
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 related:
-  - "[[Nibiru (Hành Tinh X)]]"
+  - "[[Nibiru]]"
   - "[[Nibiru và Nền Văn Minh Annunaki]]"
   - "[[Cabal]]"
 ---
@@ -107,7 +107,7 @@ Nhà nghiên cứu phổ biến thuyết Annunaki qua series "Earth Chronicles":
 ## Related
 
 ### Nibiru & Origins
-- [[Nibiru (Hành Tinh X)]] — Planet of Annunaki
+- [[Nibiru]] — Planet of Annunaki
 - [[Nibiru và Nền Văn Minh Annunaki]] — Detailed analysis
 - [[Atlantis]] — Annunaki rule period?
 
@@ -118,5 +118,5 @@ Nhà nghiên cứu phổ biến thuyết Annunaki qua series "Earth Chronicles":
 
 ### Revisionist Science / Khoa học Xét lại
 - [[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]]
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]
 - [[Mudflood]] — Reset event

@@ -381,13 +381,13 @@ Hiểu Sacred Geometry giúp bạn:
 
 ### Vũ trụ học / Cosmology
 - [[Vũ Trụ Học Phật Giáo]] — Buddhist cosmology
-- [[Núi Tu Di (Mount Meru)]] — Axis mundi
+- [[Núi Tu Di]] — Axis mundi
 - [[Mô Hình Địa Tâm]] — Geocentric model
 
 ### Năng lượng / Energy
 - [[Năng Lượng Aether]] — The field
 - [[Tần Số Schumann]] — Earth's frequency
-- [[Nikola Tesla (Tần Số và Rung Động)]] — Frequency and vibration
+- [[Nikola Tesla]] — Frequency and vibration
 
 ### Tâm linh / Spirituality
 - [[Sự Nhất Thể]] — Oneness
@@ -397,11 +397,11 @@ Hiểu Sacred Geometry giúp bạn:
 
 ### Ý thức / Consciousness
 - [[Vô Thức Tập Thể]] — Collective unconscious
-- [[Gnosis (Ngộ Đạo)]] — Direct knowing
+- [[Gnosis]] — Direct knowing
 - [[Ma Trận]] — The Matrix
 - [[Nhị Nguyên]] — Duality
 - [[Chia Tách Bởi Nhị Nguyên]] — Division by duality
 
 ### Khoa học / Science
-- [[Khoa Học Xét Lại (Revisionist Science)]] — Revisionist science
+- [[Khoa Học Xét Lại]] — Revisionist science
 - [[Walter Russell]] — Cosmogony

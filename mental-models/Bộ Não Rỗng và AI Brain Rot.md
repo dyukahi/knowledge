@@ -1,4 +1,4 @@
----
+﻿---
 title: "Bộ Não Rỗng và AI Brain Rot"
 aliases: ["Empty Brain", "Cognitive Offloading", "AI Brain Rot", "Agency Decay"]
 date: 2026-04-24
@@ -201,7 +201,7 @@ Cơ bắp "chịu trách nhiệm với lựa chọn" teo đi khi luôn có "AI n
 
 *The muscle of "taking responsibility for choices" atrophies when there's always "AI told me to" as an excuse.*
 
-→ Xem thêm: [[Individuation (Thành Toàn Bản Ngã)]] — Trưởng thành là học chịu trách nhiệm
+→ Xem thêm: [[Individuation]] — Trưởng thành là học chịu trách nhiệm
 
 ### 5.4 Outsource Thân Thể / Body Outsourcing
 
@@ -344,7 +344,7 @@ Mọi thứ đều là công cụ và chức năng:
 
 *Pure awareness — the knowing that knows it's knowing — cannot be outsourced.*
 
-→ Xem thêm: [[Gnosis (Ngộ Đạo)]], [[Sự Nhất Thể]]
+→ Xem thêm: [[Gnosis]], [[Sự Nhất Thể]]
 
 ---
 
@@ -443,18 +443,18 @@ Trong kỷ nguyên AI, cái gì cũng chạy theo tốc độ. Nhưng những ng
 
 ### Thức Tỉnh / Awakening
 - [[Một Đời Phù Vân]] — Câu chuyện về người không bao giờ dừng lại
-- [[Gnosis (Ngộ Đạo)]] — Cái biết không thể outsource
+- [[Gnosis]] — Cái biết không thể outsource
 - [[Sự Nhất Thể]] — Ý thức thuần túy
 - [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
 
 ### Tâm lý & Trưởng thành / Psychology & Growth
-- [[Individuation (Thành Toàn Bản Ngã)]] — Trở thành chính mình
+- [[Individuation]] — Trở thành chính mình
 - [[Tâm Lý Học Jung]]
 - [[Nhị Nguyên]] — Balance giữa các cực
 
 ### Năng lượng & Thân thể / Energy & Body
 - [[Tinh Khí Thần]]
-- [[Nikola Tesla (Tần Số và Rung Động)]]
+- [[Nikola Tesla]]
 - [[Tần Số Schumann]]
 
 ### Gen Z & Agenda 2030

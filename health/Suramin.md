@@ -1,4 +1,4 @@
----
+﻿---
 title: "Suramin"
 aliases: ["Pine Needle Tea", "Trà Lá Thông"]
 date: 2026-04-07
@@ -7,7 +7,7 @@ status: refined
 ---
 # Suramin
 
-**Suramin** là hợp chất từ vỏ cây thông, phát hiện năm 1916. Trong [[Y Tế Tự Nhiên (Anti-Matrix Health)|y tế tự nhiên]], được nghiên cứu về tác động lên hệ thần kinh và nhận thức.
+**Suramin** là hợp chất từ vỏ cây thông, phát hiện năm 1916. Trong [[Y Tế Tự Nhiên|y tế tự nhiên]], được nghiên cứu về tác động lên hệ thần kinh và nhận thức.
 
 *Suramin is a compound from pine bark, discovered 1916. In natural health, studied for effects on nervous system and cognition.*
 
@@ -51,7 +51,7 @@ status: refined
 
 - Effective against trypanosomes (sleeping sickness)
 - May affect other parasites
-- Connection to [[Tà Linh (Energy Parasites)]]?
+- Connection to [[Tà Linh]]?
 
 ### 3. Purinergic Signaling
 
@@ -114,10 +114,10 @@ Coincidence or design? / Trùng hợp hay thiết kế?
 - [[Tần số cộng hưởng giữa Muối và Tuyến tùng]]
 
 ### Natural Health / Y tế Tự nhiên
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]
 - [[Thuyết Vi Sinh Nội Sinh]]
 - [[Plasma Quinton]]
 
 ### Parasites & Detox
-- [[Tà Linh (Energy Parasites)]]
+- [[Tà Linh]]
 - [[Virus và Kiếp Tật Dịch]]

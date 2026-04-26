@@ -64,7 +64,7 @@ Xem chi tiết: [[Thông Minh vs Trí Tuệ]]
 
 ### 1. Công cụ của Ego
 - Dùng để "thắng" thay vì "hiểu"
-- Feed [[Nguyên Mẫu (Archetypes)]]
+- Feed [[Nguyên Mẫu]]
 - Separate from others
 
 ### 2. Dễ bị manipulate
@@ -109,5 +109,5 @@ Theo [[Mental Model - Ma Trận Kiểm Soát Kép]]:
 - [[Thông Minh vs Trí Tuệ]] — Full comparison
 - [[Mental Model]] — Thinking frameworks
 - [[Tâm Lý Học Jung]] — Shadow, Persona
-- [[Individuation (Thành Toàn Bản Ngã)]]
+- [[Individuation]]
 - [[Elite]] — Who exploits intelligent people

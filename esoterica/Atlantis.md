@@ -1,4 +1,4 @@
----
+﻿---
 title: "Atlantis"
 date: 2026-04-08
 tags: [esoterica]
@@ -6,9 +6,9 @@ status: refined
 ---
 # Atlantis
 
-**Atlantis** là nền văn minh huyền thoại đạt đỉnh cao công nghệ và tâm linh trước khi bị hủy diệt ~11,500 năm trước. Trong [[Khoa Học Xét Lại (Revisionist Science)|Khoa Học Xét Lại]], Atlantis không chỉ là myth mà là lịch sử bị xóa sổ.
+**Atlantis** là nền văn minh huyền thoại đạt đỉnh cao công nghệ và tâm linh trước khi bị hủy diệt ~11,500 năm trước. Trong [[Khoa Học Xét Lại|Khoa Học Xét Lại]], Atlantis không chỉ là myth mà là lịch sử bị xóa sổ.
 
-*Atlantis is a legendary civilization that reached peak technology and spirituality before being destroyed ~11,500 years ago. In [[Khoa Học Xét Lại (Revisionist Science)|Revisionist Science]], Atlantis isn't just myth but erased history.*
+*Atlantis is a legendary civilization that reached peak technology and spirituality before being destroyed ~11,500 years ago. In [[Khoa Học Xét Lại|Revisionist Science]], Atlantis isn't just myth but erased history.*
 
 > "In a single day and night of misfortune... the island of Atlantis disappeared into the depths of the sea." — Plato, Timaeus
 
@@ -119,7 +119,7 @@ Theo [[Elite]] studies, che giấu Atlantis có mục đích:
 
 ### Ancient Technology / Công nghệ Cổ đại
 - [[Năng Lượng Aether]] — Free energy
-- [[Nikola Tesla (Tần Số và Rung Động)]] — Rediscovered ancient tech
+- [[Nikola Tesla]] — Rediscovered ancient tech
 - [[Cỗ Máy Antikythera và Minh Chứng Địa Tâm]]
 
 ### Cosmic Events / Sự kiện Vũ trụ
@@ -128,5 +128,5 @@ Theo [[Elite]] studies, che giấu Atlantis có mục đích:
 - [[Annunaki]] — Intervention theory
 
 ### Hidden Knowledge / Kiến thức Bị giấu
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]
 - [[Elite]] — Who keeps secrets

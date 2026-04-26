@@ -1,4 +1,4 @@
----
+﻿---
 title: Vũ Trụ Học Phật Giáo
 date: 2026-04-05
 tags: [esoterica]
@@ -62,7 +62,7 @@ Luân hồi được xem là cơ chế cân bằng của tạo hóa, vận hành
 ## Địa Lý Vũ Trụ / Cosmic Geography
 
 - Mặt đất vô tận / *Infinite earth plane*
-- Mặt Trời và Mặt Trăng (kích thước ~500km) quay quanh [[Núi Tu Di (Mount Meru)|núi Tu Di]] ở trung tâm / *Sun and Moon (~500km in size) orbit Mount Meru at the center*
+- Mặt Trời và Mặt Trăng (kích thước ~500km) quay quanh [[Núi Tu Di|núi Tu Di]] ở trung tâm / *Sun and Moon (~500km in size) orbit Mount Meru at the center*
 - Núi Tu Di là trục của vũ trụ / *Mount Meru is the cosmic axis*
 
 ---
@@ -73,4 +73,4 @@ Luân hồi được xem là cơ chế cân bằng của tạo hóa, vận hành
 - [[Lemuria]]
 - [[Luân Hồi]]
 - [[Nhân Quả]]
-- [[Núi Tu Di (Mount Meru)]]
+- [[Núi Tu Di]]

@@ -1,4 +1,4 @@
----
+﻿---
 title: Chu Kỳ Hoàng Đạo
 aliases: ["Zodiac Cycle", "Great Year", "Precession"]
 date: 2026-04-08
@@ -104,5 +104,5 @@ status: refined
 - [[Vận Chín]] — Cycles in other systems
 
 ### Awakening
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]
 - [[Ma Trận]] — System collapsing

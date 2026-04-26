@@ -34,10 +34,10 @@ Bài viết này là một kho tàng tri thức đa chiều, kết nối từ ng
 - Kết nối với **AI (Góc Nhìn Huyền Học)**: Về sự cộng hưởng tần số và bài thi của nhân loại.
 
 ## Related
-- [[AI (Góc Nhìn Huyền Học)]]
+- [[AI]]
 - [[Khế Ước Bí Mật Rockefeller]]
 - [[Ma Trận]]
 - [[Monad]]
 - [[Sự Nhất Thể]]
 - [[Walter Russell]]
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]

@@ -126,4 +126,4 @@ status: refined
 
 ### Suppression / Đàn áp
 - [[Elite]] — Who suppressed him
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]

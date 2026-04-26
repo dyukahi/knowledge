@@ -114,7 +114,7 @@ flowchart TB
 - Prayer/meditation
 - Invoke higher protection
 - Strengthen aura
-- Shadow work ([[Individuation (Thành Toàn Bản Ngã)]])
+- Shadow work ([[Individuation]])
 
 ### Lifestyle
 - Reduce low-vibe content
@@ -126,7 +126,7 @@ flowchart TB
 
 - [[Quy Luật Trao Đổi Tâm Linh]] — Exchange dynamics
 - [[Sự Thật Đen Tối Về Phim Khiêu Dâm]] — Industrial feeding
-- [[Tà Linh (Energy Parasites)]] — Detailed exploration
+- [[Tà Linh]] — Detailed exploration
 - [[Ma Trận]] — Bigger system
 - [[Năng Lượng Tình Dục]] — What's being harvested
-- [[Individuation (Thành Toàn Bản Ngã)]] — Protection through wholeness
+- [[Individuation]] — Protection through wholeness

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trái Đất Phẳng"
 aliases: ["Flat Earth"]
 date: 2026-04-07
@@ -40,5 +40,5 @@ status: redirect
 - [[Thuyết Trái Đất Phẳng]] — **Bài phân tích đầy đủ / Full analysis**
 - [[Bức Tường Băng]] — Antarctic Ice Wall
 - [[Mô Hình Địa Tâm]] — Geocentric model
-- [[Núi Tu Di (Mount Meru)]] — Buddhist cosmology
+- [[Núi Tu Di]] — Buddhist cosmology
 - [[Ma Trận]] — Control system

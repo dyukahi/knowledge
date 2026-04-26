@@ -1,4 +1,4 @@
----
+﻿---
 title: Trí Tuệ
 date: 2026-04-08
 tags: [mental-model]
@@ -42,7 +42,7 @@ status: refined
 
 ### 4. Self-Knowledge
 - Know own biases
-- [[Individuation (Thành Toàn Bản Ngã)]]
+- [[Individuation]]
 - Shadow awareness
 - Limits acknowledged
 
@@ -65,14 +65,14 @@ Event → Experience → Reflection → Insight → Wisdom
 - Darkness before light
 
 ### Study + Practice
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]
 - Question assumptions
 - Verify, don't trust
 
 ### Health Foundation
 - Clear body = clear mind
 - [[Thuyết Vi Sinh Nội Sinh]]
-- [[Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain)]]
+- [[Hệ Tiêu Hóa - Bộ Não Thứ Hai]]
 - [[Tuyến Tùng]] activation
 
 ## Trí Tuệ Trong Các Truyền Thống
@@ -121,13 +121,13 @@ Event → Experience → Reflection → Insight → Wisdom
 
 ### Long-term
 - Build [[Tâm bất Biến]]
-- [[Individuation (Thành Toàn Bản Ngã)]] journey
+- [[Individuation]] journey
 - Serve others (wisdom flows through giving)
 
 ## Related
 
 - [[Thông Minh]] — Contrasting concept
-- [[Individuation (Thành Toàn Bản Ngã)]]
+- [[Individuation]]
 - [[Ma Trận]] — What wisdom sees through
 - [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
 - [[Tâm bất Biến]] — Expression of wisdom

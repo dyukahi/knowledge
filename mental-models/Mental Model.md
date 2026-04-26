@@ -41,7 +41,7 @@ status: refined
 ### 3. See Through Matrix
 - Recognize manipulation patterns
 - Question narratives
-- [[Khoa Học Xét Lại (Revisionist Science)|Xét lại]] assumptions
+- [[Khoa Học Xét Lại|Xét lại]] assumptions
 
 ## Mental Models Trong Knowledge Base
 
@@ -52,9 +52,9 @@ status: refined
 
 ### Về Tâm Lý & Nhận Thức
 - [[Tâm Lý Học Jung]]
-- [[Individuation (Thành Toàn Bản Ngã)]]
+- [[Individuation]]
 - [[Vô Thức Tập Thể]]
-- [[Nguyên Mẫu (Archetypes)]]
+- [[Nguyên Mẫu]]
 
 ### Về Tư Duy
 - [[Tư Duy Lũy Thừa]] — Exponential thinking
@@ -99,7 +99,7 @@ status: refined
 
 ### Core
 - [[Ma Trận]] — What we're modeling
-- [[Khoa Học Xét Lại (Revisionist Science)]] — Question everything
+- [[Khoa Học Xét Lại]] — Question everything
 
 ### Mental Model Series
 - [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]

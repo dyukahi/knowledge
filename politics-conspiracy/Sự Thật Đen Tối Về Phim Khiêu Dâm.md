@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sự Thật Đen Tối Về Phim Khiêu Dâm"
 aliases: ["The Dark Truth About Porn", "Porn Truth"]
 date: 2026-04-07
@@ -26,7 +26,7 @@ Bài phân tích này bóc trần bản chất thực sự của ngành công ng
 |--------------------|------------------|
 | Tại sao miễn phí? | Vì **bạn là sản phẩm** / Because **you are the product** |
 | Họ thu gì? | Năng lượng tình dục của bạn / Your sexual energy |
-| Ai hưởng lợi? | [[Elite]], [[Thực Thể Cõi Trung Giới  (Astral Entities)]] |
+| Ai hưởng lợi? | [[Elite]], [[Thực Thể Cõi Trung Giới]] |
 
 ---
 
@@ -89,9 +89,9 @@ Các cảm xúc tiêu cực kẹt lại ở các [[Chakra]] dưới cùng:
 
 ### Thực Thể Cõi Trung Giới / Astral Entities
 
-Mỗi khi thỏa mãn dục vọng qua màn hình, bạn đang **hiến tế năng lượng sống** cho các [[Thực Thể Cõi Trung Giới  (Astral Entities)|thực thể ký sinh]].
+Mỗi khi thỏa mãn dục vọng qua màn hình, bạn đang **hiến tế năng lượng sống** cho các [[Thực Thể Cõi Trung Giới|thực thể ký sinh]].
 
-*Every time you satisfy lust through a screen, you're **sacrificing life energy** to parasitic [[Thực Thể Cõi Trung Giới  (Astral Entities)|astral entities]].*
+*Every time you satisfy lust through a screen, you're **sacrificing life energy** to parasitic [[Thực Thể Cõi Trung Giới|astral entities]].*
 
 → Xem thêm: [[Quy Luật Trao Đổi Tâm Linh]]
 
@@ -233,7 +233,7 @@ Khi năng lượng được giữ lại và chuyển hóa:
 - [[Quy Luật Trao Đổi Tâm Linh]] — Spiritual exchange law
 
 ### Thực thể & Ma Trận / Entities & Matrix
-- [[Thực Thể Cõi Trung Giới  (Astral Entities)]] — Astral entities
+- [[Thực Thể Cõi Trung Giới]] — Astral entities
 - [[Ma Trận]] — The Matrix
 - [[Mental Model - Ma Trận Kiểm Soát Kép]] — Dual control matrix
 - [[Kiểm Soát Tâm Trí]] — Mind control

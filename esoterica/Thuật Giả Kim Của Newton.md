@@ -1,4 +1,4 @@
----
+﻿---
 title: "Thuật Giả Kim Của Newton"
 date: 2026-04-07
 tags: [esoterica]
@@ -76,7 +76,7 @@ Newton himself was uncomfortable:
 - He knew "action at a distance" was problematic
 - Sought mechanical explanation
 - Never found one
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]
 
 ### Aether Connection
 - Newton believed in aether
@@ -106,7 +106,7 @@ Newton himself was uncomfortable:
 | Scientist | Hidden Side |
 |-----------|-------------|
 | Newton | Alchemy, theology |
-| [[Nikola Tesla (Tần Số và Rung Động)]] | Cosmic consciousness |
+| [[Nikola Tesla]] | Cosmic consciousness |
 | [[Walter Russell]] | Mystical illumination |
 | Einstein | "Cosmic religious feeling" |
 | Kepler | Sacred geometry |
@@ -115,8 +115,8 @@ Newton himself was uncomfortable:
 ## Related
 
 - [[Điều mà nền giáo dục và chính phủ không dạy bạn]]
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]
 - [[Năng Lượng Aether]] — What Newton believed in
 - [[Khoa Học Chân Chính và Thượng Đế]]
 - [[Walter Russell]] — Modern mystic-scientist
-- [[Nikola Tesla (Tần Số và Rung Động)]]
+- [[Nikola Tesla]]

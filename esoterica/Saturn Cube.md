@@ -1,4 +1,4 @@
----
+﻿---
 title: "Saturn Cube (Khối Lập Phương Sao Thổ)"
 date: 2026-04-07
 tags: [esoterica]
@@ -95,6 +95,6 @@ Theo truyền thống huyền học / According to occult traditions:
 
 ### Escape / Thoát
 - [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
-- [[Gnosis (Ngộ Đạo)]] — Inner knowledge
+- [[Gnosis]] — Inner knowledge
 - [[Chu Kỳ Hoàng Đạo]] — Cosmic cycles
 - [[Tinh Khí Thần]] — Inner alchemy

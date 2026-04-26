@@ -122,5 +122,5 @@ status: refined
 - [[Sự Nhất Thể]] — Return to Oneness
 
 ### Integration
-- [[Individuation (Thành Toàn Bản Ngã)]] — Jung's Gnosis
+- [[Individuation]] — Jung's Gnosis
 - [[Tuyến Tùng]] — Third eye opens to Gnosis

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cơ Chế Tự Bảo Vệ Của Cơ Thể"
 aliases: ["Body's Self-Defense", "Immune Response"]
 date: 2026-04-17
@@ -149,9 +149,9 @@ flowchart TD
 
 ### Y học tự nhiên / Natural Medicine
 - [[Thuyết Vi Sinh Nội Sinh]] — Terrain theory
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]] — Natural health
+- [[Y Tế Tự Nhiên]] — Natural health
 - [[Thuốc Hóa Dầu]] — Petrochemical medicine problem
 
 ### Hệ tiêu hóa / Digestive System
-- [[Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain)]] — Second brain
+- [[Hệ Tiêu Hóa - Bộ Não Thứ Hai]] — Second brain
 - [[Vận Chín, Người Kogi và Ma Trận Y Tế]] — Medical matrix

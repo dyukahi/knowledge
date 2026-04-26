@@ -38,4 +38,4 @@ Bài viết chỉ ra những mâu thuẫn lớn trong giải thích chính thứ
 ## Related
 - [[Báo Cáo 2030]]
 - [[Elite]]
-- [[Vũ Khí Năng Lượng Định Hướng (DEW)]]
+- [[Vũ Khí Năng Lượng Định Hướng]]

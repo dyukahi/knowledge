@@ -32,4 +32,4 @@ Bài viết giới thiệu về René Quinton và công trình khoa học vĩ đ
 - [[Plasma Quinton]]
 - [[Thuyết Vi Sinh Nội Sinh]]
 - [[Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]]
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]

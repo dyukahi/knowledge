@@ -88,6 +88,6 @@ Toàn bộ hệ thống từ nghiên cứu ban đầu của Pasteur, phương ph
 - [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
 - [[Thuyết Vi Sinh Nội Sinh]]
 - [[Virus và Kiếp Tật Dịch]]
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]
 - [[Khế Ước Bí Mật Rockefeller]]
 - [[Kiểm Soát Tâm Trí]]

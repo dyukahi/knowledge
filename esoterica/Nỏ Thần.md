@@ -27,7 +27,7 @@ status: refined
 
 ### Không chỉ là huyền thoại?
 
-Theo [[Khoa Học Xét Lại (Revisionist Science)|Khoa Học Xét Lại]], Nỏ Thần có thể là:
+Theo [[Khoa Học Xét Lại|Khoa Học Xét Lại]], Nỏ Thần có thể là:
 
 | Giả thuyết | Giải thích |
 |------------|------------|
@@ -69,6 +69,6 @@ Liên hệ hiện đại:
 ## Related
 
 - [[Thành Cổ Loa]] — Công trình của An Dương Vương
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]
 - [[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]]
 - [[Tartaria]] — Lost civilizations pattern

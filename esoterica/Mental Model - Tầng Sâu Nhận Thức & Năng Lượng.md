@@ -1,4 +1,4 @@
----
+﻿---
 title: Mental Model - Tầng Sâu Nhận Thức & Năng Lượng
 aliases: ["Deep Consciousness & Energy Layers"]
 date: 2026-04-08
@@ -83,15 +83,15 @@ Tự do thực sự bắt đầu từ việc bảo toàn Tinh Khí Thần, thanh
 
 ## Related
 
-- [[Individuation (Thành Toàn Bản Ngã)]]
+- [[Individuation]]
 - [[Ma Trận]]
 - [[Mental Model]]
 - [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
-- [[Nguyên Mẫu (Archetypes)]]
+- [[Nguyên Mẫu]]
 - [[Nhị Nguyên]]
 - [[S.E.X]]
 - [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
 - [[Tinh Khí Thần]]
 - [[Tuyến Tùng]]
 - [[Vô Thức Tập Thể]]
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]

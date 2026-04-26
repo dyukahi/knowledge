@@ -1,11 +1,11 @@
----
+﻿---
 title: "Mudflood (Đại Hồng Thủy Bùn)"
 date: 2026-04-07
 tags: [politics-conspiracy]
 status: refined
 related:
   - "[[Tartaria]]"
-  - "[[Khoa Học Xét Lại (Revisionist Science)]]"
+  - "[[Khoa Học Xét Lại]]"
   - "[[Tuyên Ngôn Bức Tường Băng]]"
 ---
 # Mudflood (Đại Hồng Thủy Bùn)
@@ -39,7 +39,7 @@ Các công trình "triển lãm thế giới" (1850s-1910s) được "xây dựn
 - **Asteroid impact** gây ra debris flows
 
 ### 2. Vũ khí công nghệ
-- **Directed Energy Weapons** ([[Vũ Khí Năng Lượng Định Hướng (DEW)|DEW]]) từ nền văn minh tiên tiến
+- **Directed Energy Weapons** ([[Vũ Khí Năng Lượng Định Hướng|DEW]]) từ nền văn minh tiên tiến
 - **Weather manipulation** công nghệ
 - **War** giữa các factions (Tartaria vs powers khác)
 
@@ -87,10 +87,10 @@ Nếu Mudflood là thật:
 
 ### Công nghệ & Năng lượng
 - [[Năng Lượng Aether]] — Free energy technology
-- [[Vũ Khí Năng Lượng Định Hướng (DEW)]] — Possible cause?
-- [[Nikola Tesla (Tần Số và Rung Động)]]
+- [[Vũ Khí Năng Lượng Định Hướng]] — Possible cause?
+- [[Nikola Tesla]]
 
 ### Che giấu & Kiểm soát
-- [[Khoa Học Xét Lại (Revisionist Science)]] — Questioning mainstream
+- [[Khoa Học Xét Lại]] — Questioning mainstream
 - [[Tuyên Ngôn Bức Tường Băng]] — Những gì còn bị che giấu
 - [[Elite]] — Ai đứng sau việc xóa lịch sử

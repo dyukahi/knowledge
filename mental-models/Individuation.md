@@ -140,13 +140,13 @@ flowchart LR
 
 ### Psychology / Tâm lý học
 - [[Tâm Lý Học Jung]] — Source
-- [[Nguyên Mẫu (Archetypes)]] — Key players
+- [[Nguyên Mẫu]] — Key players
 - [[Vô Thức Tập Thể]] — Deeper layer
 
 ### Transcendence / Siêu vượt
 - [[Sự Nhất Thể]] — Destination
 - [[Nhị Nguyên]] — To transcend
-- [[Gnosis (Ngộ Đạo)]] — Direct knowing
+- [[Gnosis]] — Direct knowing
 
 ### Matrix / Ma Trận
 - [[Ma Trận]] — What individuation escapes

@@ -1,4 +1,4 @@
----
+﻿---
 title: Công Thức Chữa Lành Tự Nhiên
 date: 2026-04-08
 tags: [health]
@@ -89,7 +89,7 @@ Chăm sóc "bộ não thứ hai" bằng cách loại bỏ hóa chất (Glyphosat
 
 ## Related
 
-- [[Bệnh Bạch Cầu (Ung Thư Máu)]]
+- [[Bệnh Bạch Cầu]]
 - [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
 - [[Suy Thận]]
 - [[Kỹ Thuật Thiền Định Kogi]]

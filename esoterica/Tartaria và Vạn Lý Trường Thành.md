@@ -29,7 +29,7 @@ Bài viết kết nối các dữ kiện từ Kinh Thế Ký (Phật giáo) vớ
 - Củng cố **Khoa Học Xét Lại** thông qua khái niệm Gió Ether.
 
 ## Related
-- [[Núi Tu Di (Mount Meru)]]
+- [[Núi Tu Di]]
 - [[Tartaria]]
 - [[Tuyên Ngôn Bức Tường Băng]]
 - [[Vũ Trụ Học Phật Giáo]]

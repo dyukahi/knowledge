@@ -1,4 +1,4 @@
----
+﻿---
 title: Tình Yêu Tỉnh Thức
 date: 2026-04-08
 tags: [esoterica]
@@ -65,7 +65,7 @@ flowchart LR
 ```
 - Can't pour from empty cup
 - Not selfish, necessary
-- [[Individuation (Thành Toàn Bản Ngã)]] includes this
+- [[Individuation]] includes this
 
 ### Healing Trauma
 - Love creates safety
@@ -127,5 +127,5 @@ flowchart LR
 - [[Nhân Quả]] — What love dissolves
 - [[Nhị Nguyên]] — What love transcends
 - [[Trí Tuệ]] — Love's companion
-- [[Individuation (Thành Toàn Bản Ngã)]] — Self-love as foundation
+- [[Individuation]] — Self-love as foundation
 - [[Sự Nhất Thể]] — Ultimate expression of love

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Nhị Nguyên (Duality)"
 aliases: ["Duality", "Binary Thinking"]
 date: 2026-04-07
@@ -119,7 +119,7 @@ When forced to choose between two options / Khi bị ép chọn giữa hai:
 ### Philosophy / Triết học
 - [[Monad]] — Unity before division
 - [[Tâm Lý Học Jung]] — Shadow integration
-- [[Gnosis (Ngộ Đạo)]] — Knowledge beyond duality
+- [[Gnosis]] — Knowledge beyond duality
 - [[Sự Nhất Thể]] — Oneness
 
 ### Control / Kiểm soát

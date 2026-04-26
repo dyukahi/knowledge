@@ -1,4 +1,4 @@
----
+﻿---
 title: "Monad (Đơn Thể Tối Cao)"
 aliases: ["Monad", "The One"]
 date: 2026-04-08
@@ -73,7 +73,7 @@ flowchart TB
 ### Ascent / Thăng hoa
 
 1. Awakening in matter / Thức tỉnh trong vật chất
-2. [[Gnosis (Ngộ Đạo)|Gnosis]] — remembering / nhớ lại
+2. [[Gnosis|Gnosis]] — remembering / nhớ lại
 3. Purification through experience / Thanh lọc qua trải nghiệm
 4. Return to source / Trở về nguồn
 
@@ -117,7 +117,7 @@ flowchart TB
 
 ### Return to Source
 - [[Sự Nhất Thể]] — The unity Monad represents
-- [[Gnosis (Ngộ Đạo)]] — Remembering monad nature
+- [[Gnosis]] — Remembering monad nature
 - [[Luân Hồi]] — Monad's journey through lives
 
 ### Connection
@@ -126,4 +126,4 @@ flowchart TB
 
 ### Awakening
 - [[Tâm Lý Học Jung]] — Individuation as monad awakening
-- [[Individuation (Thành Toàn Bản Ngã)]]
+- [[Individuation]]

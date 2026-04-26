@@ -27,4 +27,4 @@ status: refined
 
 ## Related
 - [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]

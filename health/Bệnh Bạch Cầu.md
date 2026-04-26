@@ -62,5 +62,5 @@ Giảm gánh nặng cho tủy xương bằng cách dọn dẹp "bãi rác" nội
 ## Related
 
 - [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]
 - [[Công Thức Chữa Lành Tự Nhiên]]

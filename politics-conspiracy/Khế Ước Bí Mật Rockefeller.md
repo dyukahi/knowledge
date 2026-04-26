@@ -1,4 +1,4 @@
----
+﻿---
 title: "Khế Ước Bí Mật Rockefeller (The Secret Covenant)"
 date: 2026-04-08
 tags: [politics-conspiracy]
@@ -35,7 +35,7 @@ Chia để trị: Tạo ra các mặt trận tách biệt để che giấu mối
 - *Pretend to seek cures while actually adding more poisons*
 - *Inject toxins into children from birth*
 
-Kết nối: [[Y Tế Tự Nhiên (Anti-Matrix Health)]], [[Thuyết Vi Sinh Nội Sinh]]
+Kết nối: [[Y Tế Tự Nhiên]], [[Thuyết Vi Sinh Nội Sinh]]
 
 **Thực phẩm (Food):**
 - Nhắm vào trẻ em bằng đồ ngọt
@@ -89,6 +89,6 @@ Khế ước này chính là "phần mềm" vận hành cái "khung củi vật 
 - [[Thuyết Vi Sinh Nội Sinh]]
 - [[Tiền Giấy - Tiền Mặt]]
 - [[Tuyên Ngôn Bức Tường Băng]]
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]
 - [[Điều mà nền giáo dục và chính phủ không dạy bạn]]
 - [[Kiểm Soát Tâm Trí]] — Cơ chế kiểm soát / Control mechanism

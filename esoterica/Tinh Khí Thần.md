@@ -1,4 +1,4 @@
----
+﻿---
 title: Tinh Khí Thần
 aliases: ["Three Treasures", "Jing Qi Shen", "Tam Bảo"]
 date: 2026-04-07
@@ -127,4 +127,4 @@ flowchart LR
 
 ### Wisdom / Trí tuệ
 - [[Trí Tuệ]]
-- [[Individuation (Thành Toàn Bản Ngã)]]
+- [[Individuation]]

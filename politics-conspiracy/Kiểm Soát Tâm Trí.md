@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kiểm Soát Tâm Trí (Mind Control)"
 date: 2026-04-07
 tags: [politics-conspiracy]
@@ -99,7 +99,7 @@ status: refined
 ### 4. Rèn Luyện Tâm Trí (Mind Training)
 - Thiền định / Meditation
 - Tư duy phản biện / Critical thinking
-- Shadow work ([[Individuation (Thành Toàn Bản Ngã)]])
+- Shadow work ([[Individuation]])
 
 ### 5. Cộng Đồng (Community)
 - Người cùng chí hướng / Like-minded people

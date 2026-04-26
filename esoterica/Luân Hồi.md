@@ -1,4 +1,4 @@
----
+﻿---
 title: Luân Hồi
 aliases: ["Samsara", "Reincarnation"]
 date: 2026-04-08
@@ -86,7 +86,7 @@ status: refined
 
 ### Gnostic Path / Con đường Ngộ đạo
 
-- [[Gnosis (Ngộ Đạo)]] = direct knowledge / Tri thức trực tiếp
+- [[Gnosis]] = direct knowledge / Tri thức trực tiếp
 - Don't go into the light? / Đừng đi vào ánh sáng?
 - Assert sovereignty / Tuyên bố chủ quyền
 
@@ -126,6 +126,6 @@ status: refined
 
 ### Prison or School?
 - [[Ma Trận]] — Prison interpretation
-- [[Gnosis (Ngộ Đạo)]] — Escape route
+- [[Gnosis]] — Escape route
 - [[Nhị Nguyên]] — Illusion to transcend
 - [[Monad]] — Source to return to

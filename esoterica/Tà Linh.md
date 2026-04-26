@@ -108,7 +108,7 @@ Theo [[Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]]:
 
 - [[Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]] — Deep dive
 - [[Ma Trận]] — Hệ thống chúng vận hành
-- [[Gnosis (Ngộ Đạo)]] — Cách thoát ra
+- [[Gnosis]] — Cách thoát ra
 - [[Suramin]] — Detox support
-- [[Thực Thể Cõi Trung Giới  (Astral Entities)]]
+- [[Thực Thể Cõi Trung Giới]]
 - [[Elite]] — Human servants?

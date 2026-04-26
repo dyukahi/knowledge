@@ -1,4 +1,4 @@
----
+﻿---
 title: Kỹ Thuật Thiền Định Kogi
 date: 2026-04-08
 tags: [esoterica]
@@ -148,4 +148,4 @@ Year 9: Gradual light introduction / Dần dần tiếp xúc ánh sáng
 - [[Trí Tuệ]] — True wisdom / Trí tuệ đích thực
 - [[Lemuria]] — Ancient wisdom keepers / Người giữ trí tuệ cổ đại
 - [[Long Mạch]] — Earth's energy body / Cơ thể năng lượng Trái Đất
-- [[Gnosis (Ngộ Đạo)]] — Direct knowing / Tri thức trực tiếp
+- [[Gnosis]] — Direct knowing / Tri thức trực tiếp

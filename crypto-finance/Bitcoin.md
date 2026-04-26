@@ -1,4 +1,4 @@
----
+﻿---
 title: "Bitcoin"
 date: 2026-04-07
 tags: [crypto-finance]
@@ -41,9 +41,9 @@ Mạng Bitcoin được bảo vệ bởi Proof-of-Work, đòi hỏi năng lượ
 
 ## Bitcoin trong bối cảnh Ma Trận / Bitcoin vs The Matrix
 
-Từ góc nhìn [[Khoa Học Xét Lại (Revisionist Science)|Khoa học xét lại]], Bitcoin đại diện cho:
+Từ góc nhìn [[Khoa Học Xét Lại|Khoa học xét lại]], Bitcoin đại diện cho:
 
-*From a [[Khoa Học Xét Lại (Revisionist Science)|Revisionist Science]] perspective, Bitcoin represents:*
+*From a [[Khoa Học Xét Lại|Revisionist Science]] perspective, Bitcoin represents:*
 
 | Vietnamese | English |
 |------------|---------|

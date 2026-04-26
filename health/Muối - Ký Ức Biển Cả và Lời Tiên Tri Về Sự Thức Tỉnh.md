@@ -38,4 +38,4 @@ Bài viết chiêm nghiệm về vai trò tâm linh và sinh học tối thượ
 - [[Ma Trận]]
 - [[René Quinton và Huyết Tương Biển]]
 - [[Thuốc Hóa Dầu]]
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]

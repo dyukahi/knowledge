@@ -1,4 +1,4 @@
----
+﻿---
 title: Vận Chín, Người Kogi và Ma Trận Y Tế
 date: 2026-04-08
 tags: [health]
@@ -51,4 +51,4 @@ Bài viết tổng hợp các kiến thức về chu kỳ chuyển hóa nhân lo
 - [[Tuyến Tùng]]
 - [[Tần Số Schumann]]
 - [[Vận Chín]]
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]

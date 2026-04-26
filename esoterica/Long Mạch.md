@@ -1,4 +1,4 @@
----
+﻿---
 title: "Long Mạch (Dragon Veins)"
 date: 2026-04-08
 tags: [esoterica]
@@ -123,4 +123,4 @@ Theo [[Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]]:
 - [[Bản Đồ Năng Lượng Đất Mẹ]]
 - [[Monad]] — Triết học về sự sống / *Philosophy of life*
 - [[Tần Số Schumann]] — Nhịp tim Trái Đất / *Earth's heartbeat*
-- [[Nikola Tesla (Tần Số và Rung Động)]]
+- [[Nikola Tesla]]

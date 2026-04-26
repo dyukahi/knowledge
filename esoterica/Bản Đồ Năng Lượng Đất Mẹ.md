@@ -1,4 +1,4 @@
----
+﻿---
 title: Bản Đồ Năng Lượng Đất Mẹ
 date: 2026-04-08
 tags: [esoterica]
@@ -128,7 +128,7 @@ Theo [[Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]]:
 
 ## Kết Nối Với Vũ Trụ / Connection to the Cosmos
 
-### [[Núi Tu Di (Mount Meru)]]
+### [[Núi Tu Di]]
 
 - Mỗi vùng có "tiểu Tu Di" / *Each region has a "mini Meru"*
 - Núi cao = antenna / *High mountains = antenna*
@@ -147,6 +147,6 @@ Theo [[Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]]:
 
 - [[Long Mạch]] — Chi tiết về dragon veins / Details on dragon veins
 - [[Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]]
-- [[Núi Tu Di (Mount Meru)]] — Cosmic center
+- [[Núi Tu Di]] — Cosmic center
 - [[Tần Số Schumann]] — Earth frequency
 - [[Thành Cổ Loa]] — Ancient feng shui

@@ -35,4 +35,4 @@ Người thông minh chưa chắc có đạo đức, nhưng người trí tuệ 
 - [[Sự Thật Về Ma Túy]]
 - [[Thông Minh]]
 - [[Trí Tuệ]]
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]

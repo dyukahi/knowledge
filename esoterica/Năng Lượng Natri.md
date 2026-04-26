@@ -1,4 +1,4 @@
----
+﻿---
 title: "Năng Lượng Natri (Sodium Energy)"
 date: 2026-04-08
 tags: [esoterica, science-tech]
@@ -6,7 +6,7 @@ status: refined
 ---
 # Năng Lượng Natri (Sodium Energy)
 
-**Năng Lượng Natri** là khái niệm về việc khai thác năng lượng từ Natri (Na) — nguyên tố phong phú trong nước biển. Theo [[Khoa Học Xét Lại (Revisionist Science)|Khoa Học Xét Lại]], đây là nguồn năng lượng bị che giấu có thể thay thế hoàn toàn nhiên liệu hóa thạch.
+**Năng Lượng Natri** là khái niệm về việc khai thác năng lượng từ Natri (Na) — nguyên tố phong phú trong nước biển. Theo [[Khoa Học Xét Lại|Khoa Học Xét Lại]], đây là nguồn năng lượng bị che giấu có thể thay thế hoàn toàn nhiên liệu hóa thạch.
 
 ## Cơ Chế Khoa Học
 
@@ -81,7 +81,7 @@ Giả thuyết:
 
 - [[Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]]
 - [[Năng Lượng Aether]] — Free energy concepts
-- [[Nikola Tesla (Tần Số và Rung Động)]]
+- [[Nikola Tesla]]
 - [[Pin Natri-ion]] — Modern sodium tech
 - [[Elite]] — Ai giữ bí mật
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]

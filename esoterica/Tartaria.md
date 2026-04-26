@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tartaria"
 date: 2026-04-07
 tags: [esoterica]
@@ -6,13 +6,13 @@ status: refined
 related:
   - "[[Mudflood]]"
   - "[[Năng Lượng Aether]]"
-  - "[[Khoa Học Xét Lại (Revisionist Science)]]"
+  - "[[Khoa Học Xét Lại]]"
 ---
 # Tartaria (Grand Tartary)
 
-**Tartaria** là tên gọi một đế chế rộng lớn xuất hiện trên bản đồ cổ châu Âu (thế kỷ 15-19), bao phủ phần lớn Á-Âu. Theo [[Khoa Học Xét Lại (Revisionist Science)|Khoa học xét lại]], đây có thể là nền văn minh tiên tiến với công nghệ vượt thời đại đã bị xóa sổ khỏi lịch sử.
+**Tartaria** là tên gọi một đế chế rộng lớn xuất hiện trên bản đồ cổ châu Âu (thế kỷ 15-19), bao phủ phần lớn Á-Âu. Theo [[Khoa Học Xét Lại|Khoa học xét lại]], đây có thể là nền văn minh tiên tiến với công nghệ vượt thời đại đã bị xóa sổ khỏi lịch sử.
 
-*Tartaria is the name of a vast empire appearing on European maps (15th-19th centuries), covering most of Eurasia. According to [[Khoa Học Xét Lại (Revisionist Science)|Revisionist Science]], this may have been an advanced civilization with ahead-of-time technology that was erased from history.*
+*Tartaria is the name of a vast empire appearing on European maps (15th-19th centuries), covering most of Eurasia. According to [[Khoa Học Xét Lại|Revisionist Science]], this may have been an advanced civilization with ahead-of-time technology that was erased from history.*
 
 ---
 
@@ -111,8 +111,8 @@ Theo góc nhìn [[Elite]] và [[Ma Trận]]:
 
 ### Lost Technology / Công nghệ Thất lạc
 - [[Năng Lượng Aether]] — Free energy
-- [[Nikola Tesla (Tần Số và Rung Động)]] — Attempted to restore free energy
-- [[Khoa Học Xét Lại (Revisionist Science)]] — Question mainstream science
+- [[Nikola Tesla]] — Attempted to restore free energy
+- [[Khoa Học Xét Lại]] — Question mainstream science
 
 ### Matrix & Cover-up / Ma Trận & Che giấu
 - [[Báo Cáo 2030]] — Modern reset plan

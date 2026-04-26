@@ -59,7 +59,7 @@ status: refined
 
 ## Liên Hệ Với Vận Chín, Người Kogi và Ma Trận Y Tế
 
-Theo [[Y Tế Tự Nhiên (Anti-Matrix Health)|Y Tế Tự Nhiên]]:
+Theo [[Y Tế Tự Nhiên|Y Tế Tự Nhiên]]:
 
 ### Food Industry
 - Dairy marketing: "Got milk?"
@@ -95,7 +95,7 @@ Theo [[Y Tế Tự Nhiên (Anti-Matrix Health)|Y Tế Tự Nhiên]]:
 
 ## Related
 
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]
 - [[Thuyết Vi Sinh Nội Sinh]]
 - [[Công Thức Chữa Lành Tự Nhiên]]
 - [[Ma Trận]] — Food system as control

@@ -1,4 +1,4 @@
----
+﻿---
 title: Tâm Bất Biến
 date: 2026-04-08
 tags: [mental-model]
@@ -93,7 +93,7 @@ Equanimity là đỉnh cao vì:
 - Breath as anchor
 - Practice non-reactivity
 
-## Trong [[Individuation (Thành Toàn Bản Ngã)]]
+## Trong [[Individuation]]
 
 - Không bị Shadow trigger
 - Không bị Persona trap
@@ -115,6 +115,6 @@ Equanimity là đỉnh cao vì:
 - [[Nhân Quả]] — Understanding cause-effect
 - [[Trí Tuệ]] — Wisdom required
 - [[Ma Trận]] — Illusions to see through
-- [[Individuation (Thành Toàn Bản Ngã)]] — Psychological wholeness
+- [[Individuation]] — Psychological wholeness
 - [[Luân Hồi]] — Impermanence context
 - [[Sự Nhất Thể]] — Ultimate equanimity

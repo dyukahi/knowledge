@@ -1,4 +1,4 @@
----
+﻿---
 title: "Năng Lượng Aether"
 aliases: ["Năng Lượng Aether", "Aether Energy", "Free Energy"]
 date: 2026-04-15
@@ -34,7 +34,7 @@ status: refined
 
 ---
 
-## [[Nikola Tesla (Tần Số và Rung Động)|Nikola Tesla]] và Aether
+## [[Nikola Tesla|Nikola Tesla]] và Aether
 
 ### Tesla's Belief
 
@@ -117,12 +117,12 @@ Tesla tin Giza pyramids = máy khai thác Aether:
 ## Related
 
 ### Scientists / Nhà khoa học
-- [[Nikola Tesla (Tần Số và Rung Động)]]
+- [[Nikola Tesla]]
 - [[Walter Russell]]
 
 ### Suppression / Đàn áp
 - [[Elite]] | [[Cabal]]
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]
 
 ### Applications / Ứng dụng
 - [[Tần Số Schumann]] — Earth frequency

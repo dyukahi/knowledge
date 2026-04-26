@@ -1,4 +1,4 @@
----
+﻿---
 title: "Thuyết Vi Sinh Nội Sinh (Terrain Theory)"
 aliases: ["Terrain Theory", "Thuyết Địa Hình"]
 date: 2026-04-08
@@ -139,13 +139,13 @@ flowchart TD
 ## Related
 
 ### Health / Sức khỏe
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]
 - [[Virus và Kiếp Tật Dịch]] — Virus theory questioned
 - [[Công Thức Chữa Lành Tự Nhiên]]
 - [[Plasma Quinton]] | [[Suramin]]
 
 ### Science / Khoa học
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]
 - [[The China Study]] — Diet impacts
 
 ### Matrix Connection

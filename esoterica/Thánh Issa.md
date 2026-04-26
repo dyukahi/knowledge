@@ -106,7 +106,7 @@ Nazareth → Egypt → Babylon → India → Nepal → Tibet → Return
 ## Related
 
 - [[Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]]
-- [[Gnosis (Ngộ Đạo)]] — What Jesus taught
+- [[Gnosis]] — What Jesus taught
 - [[Vũ Trụ Học Phật Giáo]] — Eastern cosmology
 - [[Sự Nhất Thể]] — Core teaching
 - [[Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo]]

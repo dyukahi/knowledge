@@ -1,4 +1,4 @@
----
+﻿---
 title: "Chakra (Luân Xa)"
 aliases: ["Chakra", "Luân Xa", "Energy Centers"]
 date: 2026-04-26
@@ -128,7 +128,7 @@ flowchart TB
 | **Tuyến** | Tụy (Pancreas) |
 
 ### Liên Kết Với / Connected To
-- [[Hệ Tiêu Hóa - Bộ Não Thứ Hai (The Second Brain)]]
+- [[Hệ Tiêu Hóa - Bộ Não Thứ Hai]]
 - Ý chí, quyền lực cá nhân / Willpower, personal power
 - Lòng tự trọng / Self-esteem
 
@@ -197,7 +197,7 @@ flowchart TB
 - [[Tuyến Tùng]] — Pineal gland (seat of the soul)
 - Trực giác / Intuition
 - Tầm nhìn nội tại / Inner vision
-- [[Gnosis (Ngộ Đạo)]] — Direct knowing
+- [[Gnosis]] — Direct knowing
 
 > **Quan trọng:** [[Tuyến Tùng]] là "ghế ngồi của linh hồn" theo Descartes. Chakra này bị calcify (vôi hóa) bởi fluoride, thuốc, và lifestyle hiện đại — một phần của [[Ma Trận]] để ngăn con người thức tỉnh.
 >
@@ -306,7 +306,7 @@ flowchart LR
 ### Lối Sống / Lifestyle
 - Tránh fluoride / Avoid fluoride
 - Clean diet
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]
 
 ---
 
@@ -319,7 +319,7 @@ flowchart LR
 - [[Tuyến Tùng]] — Pineal gland
 
 ### Tâm Linh / Spirituality
-- [[Gnosis (Ngộ Đạo)]] — Direct knowing
+- [[Gnosis]] — Direct knowing
 - [[Sự Nhất Thể]] — Oneness
 - [[Vô Thức Tập Thể]] — Collective unconscious
 
@@ -327,4 +327,4 @@ flowchart LR
 - [[Sự Thật Đen Tối Về Phim Khiêu Dâm]] — Energy harvesting
 - [[Ma Trận]] — Control system
 - [[Kiểm Soát Tâm Trí]] — Mind control
-- [[Thực Thể Cõi Trung Giới (Astral Entities)]] — Parasitic entities
+- [[Thực Thể Cõi Trung Giới]] — Parasitic entities

@@ -1,4 +1,4 @@
----
+﻿---
 title: Vô Thức Tập Thể
 aliases: ["Vô Thức Tập Thể (Akashic Records)", "Collective Unconscious"]
 date: 2026-04-07
@@ -75,7 +75,7 @@ status: refined
 
 ---
 
-## [[Nguyên Mẫu (Archetypes)]] / Archetypes
+## [[Nguyên Mẫu]] / Archetypes
 
 Hình ảnh và suy nghĩ mang ý nghĩa phổ quát trong vô thức tập thể.
 
@@ -120,7 +120,7 @@ Experience = Trigger to unlock
 
 - Dream interpretation / Giải mộng
 - Shadow work / Làm việc với bóng tối
-- [[Individuation (Thành Toàn Bản Ngã)]]
+- [[Individuation]]
 - Creativity / Sáng tạo
 
 ### Understanding Culture / Hiểu Văn hóa
@@ -135,12 +135,12 @@ Experience = Trigger to unlock
 
 ### Jung & Psychology
 - [[Tâm Lý Học Jung]] — Source
-- [[Nguyên Mẫu (Archetypes)]] — Contents
-- [[Individuation (Thành Toàn Bản Ngã)]] — Process
+- [[Nguyên Mẫu]] — Contents
+- [[Individuation]] — Process
 - [[S.E.X Và Tâm Lý Học Jung]]
 
 ### Cosmic Connection
 - [[Năng Lượng Aether]] — Medium
-- [[Nikola Tesla (Tần Số và Rung Động)]] — Accessed it
+- [[Nikola Tesla]] — Accessed it
 - [[Walter Russell]] — 39-day download
 - [[Monad]] — Source of all

@@ -81,6 +81,6 @@ Cổ Loa unique ở design phi tuyến tính.
 
 - [[Nỏ Thần]] — Vũ khí của An Dương Vương
 - [[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]]
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]
 - [[Tartaria]] — Lost civilizations pattern
 - [[Long Mạch]] — Feng shui và vị trí đặt đô

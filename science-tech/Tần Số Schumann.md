@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tần Số Schumann (Schumann Resonance)"
 aliases: ["Schumann Resonance", "Earth's Heartbeat"]
 date: 2026-04-08
@@ -131,7 +131,7 @@ Khi Schumann tăng đột ngột / When Schumann spikes suddenly:
 - [[Bão Từ Bắc Cực vs Bão Mặt Trời]]
 
 ### Frequency
-- [[Nikola Tesla (Tần Số và Rung Động)]]
+- [[Nikola Tesla]]
 - [[Tần số cộng hưởng giữa Muối và Tuyến tùng]]
 
 ### Cycles

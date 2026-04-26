@@ -1,4 +1,4 @@
----
+﻿---
 title: "Elite (Giới Tinh Hoa)"
 date: 2026-04-12
 tags: [politics-conspiracy]
@@ -61,11 +61,11 @@ Elite bị cho là đã che giấu nhiều kiến thức cốt lõi:
 
 ### Human Origins / Nguồn gốc loài người
 - [[Annunaki]] — Extraterrestrial intervention
-- [[Nibiru (Hành Tinh X)]] — Planet X
+- [[Nibiru]] — Planet X
 - [[Tartaria]] — Erased civilization
 
 ### Suppressed Technology / Công nghệ bị đàn áp
-- [[Nikola Tesla (Tần Số và Rung Động)]] — Free energy
+- [[Nikola Tesla]] — Free energy
 - [[Walter Russell]] — Cosmic consciousness
 - [[Năng Lượng Aether]] — Aether energy
 
@@ -81,7 +81,7 @@ Elite bị cho là đã che giấu nhiều kiến thức cốt lõi:
 | Kiểm soát dòng chảy thông tin | Control information flow |
 | Kiểm soát năng lượng nhân loại | Control human energy |
 | Ngăn chặn thức tỉnh tập thể | Prevent collective awakening |
-| Chặn [[Individuation (Thành Toàn Bản Ngã)]] | Block individuation |
+| Chặn [[Individuation]] | Block individuation |
 
 ---
 
@@ -113,9 +113,9 @@ Elite bị cho là đã che giấu nhiều kiến thức cốt lõi:
 - [[Tiền Giấy - Tiền Mặt]] — Fiat currency
 
 ### Hidden History / Lịch sử bị giấu
-- [[Annunaki]] | [[Tartaria]] | [[Nibiru (Hành Tinh X)]]
+- [[Annunaki]] | [[Tartaria]] | [[Nibiru]]
 
 ### Suppressed Science / Khoa học bị đàn áp
-- [[Nikola Tesla (Tần Số và Rung Động)]]
+- [[Nikola Tesla]]
 - [[Walter Russell]]
 - [[Năng Lượng Aether]]

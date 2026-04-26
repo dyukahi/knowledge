@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cabal (Thế Lực Ngầm)"
 aliases: ["Cabal", "Shadow Government", "Deep State"]
 date: 2026-04-08
@@ -85,7 +85,7 @@ status: refined
 
 ---
 
-## [[Nibiru (Hành Tinh X)]] Connection
+## [[Nibiru]] Connection
 
 | Claim | Implication |
 |-------|-------------|

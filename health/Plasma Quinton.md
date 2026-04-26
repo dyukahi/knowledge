@@ -1,4 +1,4 @@
----
+﻿---
 title: "Plasma Quinton (Huyết Tương Biển)"
 aliases: ["Quinton Plasma", "Marine Plasma", "Seawater Therapy"]
 date: 2026-04-08
@@ -121,5 +121,5 @@ status: refined
 
 ### Health / Sức khỏe
 - [[Thuyết Vi Sinh Nội Sinh]] — Terrain theory
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]
 - [[Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh]]

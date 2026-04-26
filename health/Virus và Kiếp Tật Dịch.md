@@ -1,4 +1,4 @@
----
+﻿---
 title: Virus và Kiếp Tật Dịch
 date: 2026-04-08
 tags: [health]
@@ -29,4 +29,4 @@ Thông tin phản biện về khái niệm Virus theo y học hiện đại và 
 - [[Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo]]
 - [[Sự Thật Về Ma Túy]]
 - [[Thuyết Vi Sinh Nội Sinh]]
-- [[Y Tế Tự Nhiên (Anti-Matrix Health)]]
+- [[Y Tế Tự Nhiên]]

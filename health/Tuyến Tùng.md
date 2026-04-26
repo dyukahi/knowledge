@@ -1,4 +1,4 @@
----
+﻿---
 title: Tuyến Tùng
 aliases: ["Pineal Gland", "Third Eye", "Con Mắt Thứ Ba"]
 date: 2026-04-07
@@ -129,6 +129,6 @@ status: refined
 - [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
 
 ### Spirituality
-- [[Gnosis (Ngộ Đạo)]] — Third eye = inner knowing
+- [[Gnosis]] — Third eye = inner knowing
 - [[Ma Trận]] — Why suppressed
 - [[Trí Tuệ]] — Wisdom through third eye

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dịch Chuyển Cực (Pole Shift)"
 aliases: ["Dịch Chuyển Cực (Pole Shift)", "Pole Shift"]
 date: 2026-04-08
@@ -39,7 +39,7 @@ status: refined
 
 | Nguyên nhân / Cause | Cơ chế / Mechanism |
 |---------------------|---------------------|
-| **[[Nibiru (Hành Tinh X)]]** | Từ trường tương tác / Magnetic field interaction |
+| **[[Nibiru]]** | Từ trường tương tác / Magnetic field interaction |
 | **Thiên thạch lớn / Large asteroid** | Impact momentum |
 | **Ice sheet imbalance** | Trọng lượng không đều / Uneven weight distribution |
 | **Core dynamics** | Thay đổi trong lõi / Changes in Earth's core |
@@ -126,7 +126,7 @@ status: refined
 
 ## Related
 
-- [[Nibiru (Hành Tinh X)]] — Trigger theory / Lý thuyết kích hoạt
+- [[Nibiru]] — Trigger theory / Lý thuyết kích hoạt
 - [[Nibiru và Nền Văn Minh Annunaki]]
 - [[Atlantis]] — Thảm họa pole shift? / Pole shift catastrophe?
 - [[Chu Kỳ Hoàng Đạo]] — Cosmic cycles

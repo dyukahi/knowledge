@@ -1,4 +1,4 @@
----
+﻿---
 title: "Bức Tường Băng (Ice Wall)"
 aliases: ["Ice Wall", "Antarctic Ice Wall"]
 date: 2026-04-07
@@ -133,5 +133,5 @@ Dù Ice Wall có thật hay không, khái niệm này đại diện cho:
 - [[Tuyên Ngôn Bức Tường Băng]] — Các rào cản ẩn dụ / Metaphorical barriers
 - [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
 - [[Mô Hình Địa Tâm]]
-- [[Khoa Học Xét Lại (Revisionist Science)]]
+- [[Khoa Học Xét Lại]]
 - [[Elite]] — Ai kiểm soát truy cập / Who controls access
