@@ -156,6 +156,31 @@ Mọi bài viết, mọi framework, mọi explanation — **đều là ngón tay
 
 *Every article, framework, explanation — is the finger pointing at the moon, not the moon itself.*
 
+### Trí Tuệ Của Đức Phật
+
+Và đây là điều phi thường:
+
+**Nếu không có ultimate truth khi expressed bằng words — thì Đức Phật đã làm điều impossible: dùng words để truyền cái beyond words.**
+
+*If there's no ultimate truth when expressed in words — then the Buddha did the impossible: using words to transmit what's beyond words.*
+
+Ngài không chỉ "biết" — Ngài **biết cách làm cho người khác thấy**.
+
+*He didn't just "know" — He knew how to make others see.*
+
+Đó là sự khác biệt giữa:
+
+| Teacher | Master |
+|---------|--------|
+| Dạy knowledge | Transmit awakening |
+| Thêm vào mind | Dissolve mind |
+| "Bây giờ bạn biết X" | "..." (im lặng hiểu) |
+| Nhiều người làm được | Cực hiếm |
+
+> Ngón tay chỉ mặt trăng — ai cũng có thể chỉ. Nhưng chỉ sao cho người ta **nhìn lên mặt trăng thay vì nhìn ngón tay** — đó mới là trí tuệ.
+>
+> *Anyone can point a finger at the moon. But to point in a way that makes people look at the moon instead of the finger — that's wisdom.*
+
 ### Vậy Tại Sao Vẫn Viết?
 
 Vì những "ngón tay" này **useful cho người đang ở một layer nhất định**.
