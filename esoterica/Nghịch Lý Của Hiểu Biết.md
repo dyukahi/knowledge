@@ -491,3 +491,4 @@ Và đừng answer bằng words. Chỉ... thấy.
 - [[Khoa Học Xét Lại]] — Question everything
 - [[Ma Trận]] — What is real?
 - [[Sacred Geometry]] — Pattern and source
+- [[Inception - Predictive Programming Về Kiểm Soát Tâm Trí]] — How ideas are planted
