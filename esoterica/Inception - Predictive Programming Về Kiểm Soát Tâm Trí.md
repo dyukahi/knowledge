@@ -93,7 +93,7 @@ Trong Limbo:
 
 *Time is nearly infinite. Raw subconscious. Ideas planted here become the person's "truth." Hard to distinguish real from dream.*
 
-> Nếu có manipulation xảy ra ở **waveform level** như đã discuss trong [[Nghịch Lý Của Hiểu Biết]], thì đó chính là **Limbo** — tầng mà conscious mind không access được.
+> Nếu có manipulation xảy ra ở **waveform level** như đã discuss trong [[Tâm Lý Học Tiến Hóa Về Giới Tính]], thì đó chính là **Limbo** — tầng mà conscious mind không access được.
 
 ---
 
