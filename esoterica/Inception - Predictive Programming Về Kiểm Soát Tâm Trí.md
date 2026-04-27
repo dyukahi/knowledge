@@ -67,7 +67,7 @@ Phim nói rõ:
 ```mermaid
 flowchart TD
     R[Reality - Thực tại]
-    L1[Level 1: Van trong xe]
+    L1[Level 1: Van trong mưa]
     L2[Level 2: Hotel]
     L3[Level 3: Snow Fortress]
     L4[Limbo - Vô thức thuần túy]
@@ -78,7 +78,7 @@ flowchart TD
 | Level | Trong phim | Tương đương thực tế |
 |-------|------------|---------------------|
 | Reality | Thế giới thức | Cuộc sống hàng ngày |
-| Level 1 | Van trong mưa | Surface thoughts |
+| Level 1 | Van rượt đuổi trong mưa | Surface thoughts |
 | Level 2 | Hotel (gravity shift) | Deeper beliefs |
 | Level 3 | Snow fortress | Core values |
 | **Limbo** | Vô thức thuần túy | [[Vô Thức Tập Thể]]? Waveform level? |
