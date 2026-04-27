@@ -16,6 +16,26 @@ Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu
 
 ---
 
+## 🔮 Trước Khi Đọc / Before You Read
+
+> **Cảnh báo:** Mọi bài viết trong vault này đều là **ngón tay chỉ mặt trăng, không phải mặt trăng**. Mọi framework — dù là science, conspiracy, hay metaphysics — đều có thể bị phủ định bởi framework khác.
+>
+> *Warning: Every article in this vault is a finger pointing at the moon, not the moon itself. Every framework — science, conspiracy, or metaphysics — can be negated by another framework.*
+
+**Đọc bài này trước (hoặc cuối cùng):**
+
+### [[Nghịch Lý Của Hiểu Biết]]
+
+*Nơi mà mọi framework collapse và chỉ còn lại câu hỏi: "Cái gì đang thấy tất cả những thứ này?"*
+
+*Where all frameworks collapse and only one question remains: "What is seeing all of this?"*
+
+Vault này không phải để bạn **tin**. Mà để bạn **thấy** — rồi vượt qua cả cái thấy đó.
+
+*This vault isn't for you to believe. It's for you to see — and then transcend even that seeing.*
+
+---
+
 ## 📊 Overview / Tổng Quan
 
 | Category / Danh Mục | Count / Số Bài | Description / Mô Tả |
@@ -69,6 +89,8 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 
 ### 📌 Esoterica Essentials / Huyền Học Cơ Bản
 
+- **[[Nghịch Lý Của Hiểu Biết]]** ⭐ — Beyond all frameworks / Vượt qua mọi framework
+- **[[Sacred Geometry]]** — The universe is made of geometry / Vũ trụ được tạo từ hình học
 - **[[Tartaria]]** — The erased civilization / Nền văn minh bị xóa sổ
 - **[[Annunaki]]** — True origin of humanity? / Nguồn gốc thực sự của loài người?
 - **[[Tâm Lý Học Jung]]** — Collective unconscious and Archetypes / Vô thức tập thể
@@ -88,16 +110,19 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 
 ### 💰 Crypto & Finance
 - [[Bitcoin]] | [[Privacy]] | [[Tiền Giấy - Tiền Mặt]]
+- [[Điều Mà Trường Học Không Dạy Về Tiền]] — Red pill về tài chính
 - [[Gen Z và CBDC - Programmable Money Psychology]]
 - [[Bitcoin Sẽ Chết Nếu Không Có Privacy]]
 
 ### 🔮 Esoterica
+- ⭐ [[Nghịch Lý Của Hiểu Biết]] — Meta-level
+- [[Sacred Geometry]] | [[Monad]] | [[Nhị Nguyên]]
 - [[Tartaria]] | [[Annunaki]] | [[Atlantis]] | [[Lemuria]]
-- [[Gematria]] | [[Saturn Cube]] | [[Monad]]
+- [[Gematria]] | [[Saturn Cube]] | [[Chakra]]
 - [[Chu Kỳ Hoàng Đạo]] | [[Vận Chín]]
 - [[Tâm Lý Học Jung]] | [[Vô Thức Tập Thể]]
 - [[S.E.X Và Tâm Lý Học Jung]] | [[Năng Lượng Tình Dục]]
-- [[Thực Thể Cõi Trung Giới]]
+- [[Thực Thể Cõi Trung Giới]] | [[Tà Linh]]
 
 ### 🏥 Health
 - [[Y Tế Tự Nhiên]]
@@ -108,6 +133,7 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 ### 🧩 Mental Models
 - [[Mental Model]] | [[Tư Duy Lũy Thừa]]
 - [[Bộ Não Rỗng và AI Brain Rot]] | [[Mô Hình Địa Tâm]]
+- [[Tâm Lý Học Tiến Hóa Về Giới Tính]] — Evolutionary psychology + Matrix agenda
 - [[Gen Z - Phân Tích Phản Biện]]
 - [[Thông Minh vs Trí Tuệ]]
 - [[Individuation]]
@@ -131,10 +157,12 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 ## 🧭 Navigation Guide / Cách Điều Hướng
 
 1. **Where to start? / Bắt đầu từ đâu?**
+   - **Meta-level** → [[Nghịch Lý Của Hiểu Biết]] *(recommended first or last)*
    - Complete newbie → Read [[Khoa Học Xét Lại]]
    - Interested in 2030 → Read [[Báo Cáo 2030]] then Gen Z series
    - Interested in spirituality → Start with [[Monad]] or [[Tâm Lý Học Jung]]
    - Interested in AI/Tech → Read [[Bộ Não Rỗng và AI Brain Rot]]
+   - Interested in gender/society → [[Tâm Lý Học Tiến Hóa Về Giới Tính]]
 
 2. **Use links / Sử dụng links**
    - Each article has `## Related` section at the end
@@ -148,16 +176,23 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 
 ## 🔄 Recent Updates / Cập Nhật Gần Đây
 
-**April 24, 2026 / 24 tháng 4, 2026:**
-- ✨ Rewrote 12+ articles with complete bilingual + Mermaid diagrams
-- 📊 All ASCII diagrams converted to Mermaid
-- 🆕 New article: "Bộ Não Rỗng và AI Brain Rot"
+**April 27, 2026:**
+- ⭐ **[[Nghịch Lý Của Hiểu Biết]]** — Meta-level article về paradox of knowledge
+- 🆕 **[[Tâm Lý Học Tiến Hóa Về Giới Tính]]** — Evolutionary psychology + Matrix gender agenda
+- 🆕 **[[Điều Mà Trường Học Không Dạy Về Tiền]]** — Red pill về tài chính
+- 🆕 **[[Sacred Geometry]]** — Hình học thiêng và cấu trúc vũ trụ
+- 🆕 **[[Chakra]]** — 7 trung tâm năng lượng
 
-**April 2026 / Tháng 4/2026:**
+**April 24-26, 2026:**
+- ✨ Rewrote 20+ articles with complete bilingual + Mermaid diagrams
+- 📊 All ASCII diagrams converted to Mermaid
+- 🔧 Fixed 15 filenames (removed parentheses for URL compatibility)
+- 🔗 Updated 86 internal links
+
+**April 2026:**
 - ✨ Added 7 articles in Gen Z & Agenda 2030 series
 - 🌐 **100% articles now bilingual** (Vietnamese + English)
-- 🔗 Updated cross-links between articles
-- 🏷️ Fixed tags for 135+ articles
+- 🏷️ Fixed tags for 140+ articles
 
 ---
 
@@ -177,6 +212,12 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 
 > *"In the age of information, ignorance is a choice."*
 > *"Trong thời đại thông tin, sự thiếu hiểu biết là một lựa chọn."*
+
+---
+
+> 🔮 **Cuối cùng, hãy nhớ:** Mọi thứ trong vault này đều có thể sai. Mọi framework đều có counter-framework. Điều duy nhất không thể bị phủ định là **cái đang thấy** tất cả những thứ này. → [[Nghịch Lý Của Hiểu Biết]]
+>
+> *Finally, remember: Everything in this vault could be wrong. Every framework has a counter-framework. The only thing that cannot be negated is what is SEEING all of this.*
 
 ---
 
