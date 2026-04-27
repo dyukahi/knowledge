@@ -36,10 +36,11 @@ flowchart TD
 
 | Framework | Counter-Framework |
 |-----------|-------------------|
-| Thuyết tiến hóa giải thích behavior | Thuyết tiến hóa có thể là hoax |
-| DNA/Chimera ảnh hưởng identity | Phật tại tâm — transcend được genetics |
-| Ma Trận kiểm soát | Consciousness tự do vốn dĩ |
 | Science chứng minh X | Science từng chứng minh sai nhiều thứ |
+| Lịch sử ghi chép Y | Lịch sử do kẻ thắng viết |
+| Ma Trận kiểm soát | Consciousness tự do vốn dĩ |
+| Vật chất quyết định ý thức | Ý thức tạo ra vật chất |
+| Có Thượng Đế | Không có Thượng Đế |
 
 **Ma Trận giữ người ta trong vòng tranh luận vĩnh viễn.**
 
@@ -55,9 +56,9 @@ Có thể... tất cả đều đúng VÀ sai cùng lúc?
 
 | Statement | Layer thấp | Layer cao |
 |-----------|-----------|-----------|
-| DNA ảnh hưởng bạn | ✅ Đúng | Transcendable |
+| Vật chất là thực | ✅ Đúng | Chỉ là sóng/tần số |
 | Phật tại tâm | Abstract | ✅ Đúng |
-| Thuyết tiến hóa | ✅ Useful model | Incomplete/hoax |
+| Lịch sử như sách dạy | ✅ Useful narrative | Written by winners |
 | Ma Trận kiểm soát | ✅ Ở một level | Illusion ở level khác |
 
 **Không phải A hay B.**
@@ -107,9 +108,9 @@ flowchart TD
 
 Và đây mới là point:
 
-**Không phải evolutionary psychology đúng hay sai.**
+**Không phải science đúng hay sai.**
 **Không phải Ma Trận đúng hay sai.**
-**Không phải DNA/Chimera đúng hay sai.**
+**Không phải tôn giáo đúng hay sai.**
 
 Mà là: **Cái gì đang THẤY tất cả những thứ đó?**
 
@@ -131,9 +132,9 @@ flowchart TB
 
 ### Cái Thấy:
 
-- Không phải DNA
+- Không phải não bộ
 - Không phải mind
-- Không bị affect bởi Chimera hay propaganda
+- Không bị affect bởi giáo dục hay propaganda
 - Không bị affect bởi framework nào
 
 **Đó là... Phật tại tâm? Consciousness itself? Witness?**
@@ -202,7 +203,7 @@ Không có conclusion vì conclusion sẽ là một framework khác để bám.
 
 Chỉ có invitation:
 
-**Khi đọc bất kỳ bài nào trong vault này — evolutionary psychology, Ma Trận, Sacred Geometry, bất kỳ thứ gì — hãy nhớ hỏi:**
+**Khi đọc bất kỳ bài nào trong vault này — history, science, Ma Trận, spirituality, bất kỳ thứ gì — hãy nhớ hỏi:**
 
 *When reading any article in this vault — remember to ask:*
 
@@ -229,6 +230,6 @@ Và đừng answer bằng words. Chỉ... thấy.
 - [[Individuation]] — Becoming whole
 
 ### Paradox trong các bài khác
-- [[Tâm Lý Học Tiến Hóa Về Giới Tính]] — Multiple frameworks
+- [[Khoa Học Xét Lại]] — Question everything
 - [[Ma Trận]] — What is real?
 - [[Sacred Geometry]] — Pattern and source
