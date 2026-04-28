@@ -10,6 +10,37 @@ status: refined
 
 Bài viết trình bày một triết lý về sự giàu có trong thế kỷ 21, nơi **privacy** (sự riêng tư) đã trở thành thước đo quyền lực thực sự thay vì phô trương tài sản. Trong thời đại surveillance capitalism, khả năng "biến mất" trở thành luxury goods đắt nhất.
 
+## Tổng Quan
+
+```mermaid
+graph TD
+    subgraph "THẾ KỶ 20: GIÀU = PHÔ TRƯƠNG"
+        A[💰 Tài Sản] --> B[🚗 Xe Sang]
+        A --> C[🏠 Nhà To]
+        A --> D[⌚ Đồng Hồ Đắt]
+        B & C & D --> E[👁️ Nhiều Người Biết = Thành Công]
+    end
+    
+    subgraph "THẾ KỶ 21: GIÀU = ẨN DANH"
+        F[💰 Tài Sản] --> G[🔒 Privacy Infrastructure]
+        F --> H[🏦 Offshore Structures]
+        F --> I[🥷 Stealth Identity]
+        G & H & I --> J[👻 Không Ai Biết = An Toàn]
+    end
+    
+    E -.->|"Surveillance<br/>Capitalism"| K{⚠️ TARGET}
+    J -.->|"Chiến Lược<br/>Sinh Tồn"| L{✅ PROTECTED}
+    
+    K --> M[🎯 Kidnapping]
+    K --> N[💸 Extortion]
+    K --> O[⚖️ Lawsuits]
+    
+    style E fill:#ff6b6b,color:#fff
+    style J fill:#51cf66,color:#fff
+    style K fill:#ff6b6b,color:#fff
+    style L fill:#51cf66,color:#fff
+```
+
 ## The Great Inversion: Từ "Flex" Đến "Hide"
 
 ### Sự Đảo Ngược Định Nghĩa Giàu Có
@@ -30,13 +61,28 @@ Sự đảo ngược này không phải ngẫu nhiên. Nó là hệ quả tất 
 
 ## Data Is The New Oil — Nhưng BẠN Là Giếng Dầu
 
+```mermaid
+flowchart LR
+    subgraph "SURVEILLANCE CAPITALISM"
+        A[🧑 BẠN] -->|Hành vi| B[📱 Apps & Platforms]
+        B -->|Thu thập| C[🛢️ Raw Data]
+        C -->|Phân tích| D[🔮 Dự Đoán Hành Vi]
+        D -->|Bán cho| E[💰 Highest Bidder]
+    end
+    
+    E --> F[📢 Advertisers]
+    E --> G[🏢 Bảo Hiểm]
+    E --> H[🏛️ Chính Phủ]
+    E --> I[🦹 Tội Phạm]
+    
+    style A fill:#ff6b6b,color:#fff
+    style C fill:#ffd43b,color:#000
+    style E fill:#51cf66,color:#fff
+```
+
 ### Surveillance Capitalism
 
 Thuật ngữ của Shoshana Zuboff mô tả hệ thống nơi hành vi con người được khai thác như tài nguyên thô:
-
-```
-Raw Data → Behavioral Prediction → Sold to Highest Bidder
-```
 
 > *"We have been cajoled into spying on ourselves."* — Boston Review
 
@@ -111,6 +157,29 @@ Privacy đã trở thành **luxury goods** với giá cả tương xứng:
 
 ## The Attention Economy Trap
 
+```mermaid
+flowchart TD
+    subgraph "BẪY DOPAMINE"
+        A[📱 Bạn Post] --> B[❤️ Likes & Comments]
+        B --> C[🧠 Dopamine Release]
+        C --> D[😵 Nghiện]
+        D --> E[📱 Post Nhiều Hơn]
+        E --> A
+    end
+    
+    subgraph "AI HƯỞNG LỢI?"
+        E --> F[📊 Platform: Engagement → Ads]
+        E --> G[🏪 Brands: Influence → Sales]
+        E --> H[🦹 Criminals: Info → Attack Plan]
+    end
+    
+    style C fill:#ff6b6b,color:#fff
+    style D fill:#ff6b6b,color:#fff
+    style F fill:#51cf66,color:#fff
+    style G fill:#51cf66,color:#fff
+    style H fill:#845ef7,color:#fff
+```
+
 ### Dopamine Loop
 
 Social media được thiết kế để:
@@ -165,6 +234,46 @@ Public Figures ←————————————→ Shadow Billionaires
 **Bạn không thể có cả hai. Chọn đi.**
 
 ## Practical Takeaways
+
+```mermaid
+graph TD
+    subgraph "LEVEL 1: DIGITAL HYGIENE"
+        A1[🧹 Xóa Apps Không Cần]
+        A2[🔐 2FA Mọi Tài Khoản]
+        A3[🔑 Password Manager]
+        A4[🛡️ VPN Public WiFi]
+    end
+    
+    subgraph "LEVEL 2: STEALTH MINDSET"
+        B1[🚫 Không Post Assets]
+        B2[📍 Không Share Location]
+        B3[🎭 Tách Identity Online/Offline]
+        B4[🤫 Giả Nghèo Khi Cần]
+    end
+    
+    subgraph "LEVEL 3: INFRASTRUCTURE"
+        C1[🏛️ Family Office / Trusts]
+        C2[🔐 Self-Custody Crypto]
+        C3[🏦 Multi-Bank Relationships]
+        C4[🕵️ Data Broker Removal]
+    end
+    
+    A1 & A2 & A3 & A4 --> B1 & B2 & B3 & B4
+    B1 & B2 & B3 & B4 --> C1 & C2 & C3 & C4
+    
+    style A1 fill:#74c0fc,color:#000
+    style A2 fill:#74c0fc,color:#000
+    style A3 fill:#74c0fc,color:#000
+    style A4 fill:#74c0fc,color:#000
+    style B1 fill:#ffd43b,color:#000
+    style B2 fill:#ffd43b,color:#000
+    style B3 fill:#ffd43b,color:#000
+    style B4 fill:#ffd43b,color:#000
+    style C1 fill:#51cf66,color:#000
+    style C2 fill:#51cf66,color:#000
+    style C3 fill:#51cf66,color:#000
+    style C4 fill:#51cf66,color:#000
+```
 
 ### Level 1: Basic Digital Hygiene
 - Xóa apps không cần thiết
