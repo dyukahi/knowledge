@@ -15,30 +15,25 @@ Bài viết trình bày một triết lý về sự giàu có trong thế kỷ 2
 ```mermaid
 graph TD
     subgraph "THẾ KỶ 20: GIÀU = PHÔ TRƯƠNG"
-        A[💰 Tài Sản] --> B[🚗 Xe Sang]
-        A --> C[🏠 Nhà To]
-        A --> D[⌚ Đồng Hồ Đắt]
-        B & C & D --> E[👁️ Nhiều Người Biết = Thành Công]
+        A[Tài Sản] --> B[Xe Sang]
+        A --> C[Nhà To]
+        A --> D[Đồng Hồ Đắt]
+        B & C & D --> E[Nhiều Người Biết = Thành Công]
     end
     
     subgraph "THẾ KỶ 21: GIÀU = ẨN DANH"
-        F[💰 Tài Sản] --> G[🔒 Privacy Infrastructure]
-        F --> H[🏦 Offshore Structures]
-        F --> I[🥷 Stealth Identity]
-        G & H & I --> J[👻 Không Ai Biết = An Toàn]
+        F[Tài Sản] --> G[Privacy Infrastructure]
+        F --> H[Offshore Structures]
+        F --> I[Stealth Identity]
+        G & H & I --> J[Không Ai Biết = An Toàn]
     end
     
-    E -.->|"Surveillance<br/>Capitalism"| K{⚠️ TARGET}
-    J -.->|"Chiến Lược<br/>Sinh Tồn"| L{✅ PROTECTED}
+    E -.->|"Surveillance Capitalism"| K{TARGET}
+    J -.->|"Chiến Lược Sinh Tồn"| L{PROTECTED}
     
-    K --> M[🎯 Kidnapping]
-    K --> N[💸 Extortion]
-    K --> O[⚖️ Lawsuits]
-    
-    style E fill:#ff6b6b,color:#fff
-    style J fill:#51cf66,color:#fff
-    style K fill:#ff6b6b,color:#fff
-    style L fill:#51cf66,color:#fff
+    K --> M[Kidnapping]
+    K --> N[Extortion]
+    K --> O[Lawsuits]
 ```
 
 ## The Great Inversion: Từ "Flex" Đến "Hide"
@@ -64,20 +59,16 @@ Sự đảo ngược này không phải ngẫu nhiên. Nó là hệ quả tất 
 ```mermaid
 flowchart LR
     subgraph "SURVEILLANCE CAPITALISM"
-        A[🧑 BẠN] -->|Hành vi| B[📱 Apps & Platforms]
-        B -->|Thu thập| C[🛢️ Raw Data]
-        C -->|Phân tích| D[🔮 Dự Đoán Hành Vi]
-        D -->|Bán cho| E[💰 Highest Bidder]
+        A[BẠN] -->|Hành vi| B[Apps & Platforms]
+        B -->|Thu thập| C[Raw Data]
+        C -->|Phân tích| D[Dự Đoán Hành Vi]
+        D -->|Bán cho| E[Highest Bidder]
     end
     
-    E --> F[📢 Advertisers]
-    E --> G[🏢 Bảo Hiểm]
-    E --> H[🏛️ Chính Phủ]
-    E --> I[🦹 Tội Phạm]
-    
-    style A fill:#ff6b6b,color:#fff
-    style C fill:#ffd43b,color:#000
-    style E fill:#51cf66,color:#fff
+    E --> F[Advertisers]
+    E --> G[Bảo Hiểm]
+    E --> H[Chính Phủ]
+    E --> I[Tội Phạm]
 ```
 
 ### Surveillance Capitalism
@@ -160,24 +151,18 @@ Privacy đã trở thành **luxury goods** với giá cả tương xứng:
 ```mermaid
 flowchart TD
     subgraph "BẪY DOPAMINE"
-        A[📱 Bạn Post] --> B[❤️ Likes & Comments]
-        B --> C[🧠 Dopamine Release]
-        C --> D[😵 Nghiện]
-        D --> E[📱 Post Nhiều Hơn]
+        A[Bạn Post] --> B[Likes & Comments]
+        B --> C[Dopamine Release]
+        C --> D[Nghiện]
+        D --> E[Post Nhiều Hơn]
         E --> A
     end
     
     subgraph "AI HƯỞNG LỢI?"
-        E --> F[📊 Platform: Engagement → Ads]
-        E --> G[🏪 Brands: Influence → Sales]
-        E --> H[🦹 Criminals: Info → Attack Plan]
+        E --> F[Platform: Engagement → Ads]
+        E --> G[Brands: Influence → Sales]
+        E --> H[Criminals: Info → Attack Plan]
     end
-    
-    style C fill:#ff6b6b,color:#fff
-    style D fill:#ff6b6b,color:#fff
-    style F fill:#51cf66,color:#fff
-    style G fill:#51cf66,color:#fff
-    style H fill:#845ef7,color:#fff
 ```
 
 ### Dopamine Loop
@@ -238,41 +223,28 @@ Public Figures ←————————————→ Shadow Billionaires
 ```mermaid
 graph TD
     subgraph "LEVEL 1: DIGITAL HYGIENE"
-        A1[🧹 Xóa Apps Không Cần]
-        A2[🔐 2FA Mọi Tài Khoản]
-        A3[🔑 Password Manager]
-        A4[🛡️ VPN Public WiFi]
+        A1[Xóa Apps Không Cần]
+        A2[2FA Mọi Tài Khoản]
+        A3[Password Manager]
+        A4[VPN Public WiFi]
     end
     
     subgraph "LEVEL 2: STEALTH MINDSET"
-        B1[🚫 Không Post Assets]
-        B2[📍 Không Share Location]
-        B3[🎭 Tách Identity Online/Offline]
-        B4[🤫 Giả Nghèo Khi Cần]
+        B1[Không Post Assets]
+        B2[Không Share Location]
+        B3[Tách Identity Online/Offline]
+        B4[Giả Nghèo Khi Cần]
     end
     
     subgraph "LEVEL 3: INFRASTRUCTURE"
-        C1[🏛️ Family Office / Trusts]
-        C2[🔐 Self-Custody Crypto]
-        C3[🏦 Multi-Bank Relationships]
-        C4[🕵️ Data Broker Removal]
+        C1[Family Office / Trusts]
+        C2[Self-Custody Crypto]
+        C3[Multi-Bank Relationships]
+        C4[Data Broker Removal]
     end
     
     A1 & A2 & A3 & A4 --> B1 & B2 & B3 & B4
     B1 & B2 & B3 & B4 --> C1 & C2 & C3 & C4
-    
-    style A1 fill:#74c0fc,color:#000
-    style A2 fill:#74c0fc,color:#000
-    style A3 fill:#74c0fc,color:#000
-    style A4 fill:#74c0fc,color:#000
-    style B1 fill:#ffd43b,color:#000
-    style B2 fill:#ffd43b,color:#000
-    style B3 fill:#ffd43b,color:#000
-    style B4 fill:#ffd43b,color:#000
-    style C1 fill:#51cf66,color:#000
-    style C2 fill:#51cf66,color:#000
-    style C3 fill:#51cf66,color:#000
-    style C4 fill:#51cf66,color:#000
 ```
 
 ### Level 1: Basic Digital Hygiene
