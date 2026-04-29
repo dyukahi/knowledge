@@ -1,113 +1,137 @@
-﻿---
-title: Thông Minh
+---
+title: "Thông Minh"
 aliases: ["Thông Minh", "Intelligence"]
 date: 2026-04-08
 tags: [mental-model]
 status: refined
 ---
+
 # Thông Minh (Intelligence)
 
 **Thông minh** là khả năng thu thập, xử lý thông tin, tính toán nhanh và phân tích sắc bén để giải quyết vấn đề. Khác với [[Trí Tuệ]], thông minh thiên về logic và có thể được đo lường (IQ).
 
+*Intelligence is the ability to gather and process information, calculate quickly, and analyze sharply to solve problems. Unlike [[Trí Tuệ|Wisdom]], intelligence leans toward logic and can be measured (IQ).*
+
 > "Intelligence is the ability to adapt to change." — Stephen Hawking
 
-## Đặc Điểm
+---
 
-| Aspect | Thông Minh |
-|--------|------------|
-| **Loại** | Cognitive, analytical |
-| **Đo lường** | IQ tests, academic scores |
+## Đặc Điểm / Characteristics
+
+| Aspect | Thông Minh / Intelligence |
+|--------|--------------------------|
+| **Loại / Type** | Cognitive, analytical |
+| **Đo lường / Measurement** | IQ tests, academic scores |
 | **Focus** | Problem-solving, speed |
-| **Học được** | Yes, trainable |
-| **Gắn với** | Mind, logic |
+| **Học được / Trainable** | Yes |
+| **Gắn với / Associated with** | Mind, logic |
 
-## Các Loại Thông Minh (Gardner)
+---
 
-### 1. Linguistic
-- Ngôn ngữ, viết, nói
+## Các Loại Thông Minh / Types of Intelligence (Howard Gardner)
 
-### 2. Logical-Mathematical
-- Số học, reasoning, patterns
+```mermaid
+flowchart TD
+    subgraph "8 Types"
+        L["Linguistic | Ngôn ngữ"]
+        M["Logical-Mathematical | Logic-Toán"]
+        S["Spatial | Không gian"]
+        MU["Musical | Âm nhạc"]
+        B["Bodily-Kinesthetic | Vận động"]
+        INTER["Interpersonal | Giao tiếp"]
+        INTRA["Intrapersonal | Nội tâm"]
+        N["Naturalistic | Tự nhiên"]
+    end
+```
 
-### 3. Spatial
-- Visualization, navigation
+| Loại / Type | Mô tả / Description |
+|-------------|---------------------|
+| **Linguistic** | Ngôn ngữ, viết, nói / Language, writing, speaking |
+| **Logical-Mathematical** | Số học, reasoning, patterns |
+| **Spatial** | Visualization, navigation |
+| **Musical** | Rhythm, pitch, composition |
+| **Bodily-Kinesthetic** | Phối hợp cơ thể / Physical coordination |
+| **Interpersonal** | Hiểu người khác / Understanding others |
+| **Intrapersonal** | Hiểu bản thân / Understanding self |
+| **Naturalistic** | Thiên nhiên, phân loại / Nature, classification |
 
-### 4. Musical
-- Rhythm, pitch, composition
+---
 
-### 5. Bodily-Kinesthetic
-- Physical coordination, sports
+## Thông Minh vs Trí Tuệ / Intelligence vs Wisdom
 
-### 6. Interpersonal
-- Understanding others
-
-### 7. Intrapersonal
-- Understanding self
-
-### 8. Naturalistic
-- Nature, classification
-
-## Thông Minh vs Trí Tuệ
-
-| Thông Minh | [[Trí Tuệ]] |
-|------------|-------------|
-| Biết nhiều | Biết sâu |
-| Giải quyết vấn đề | Tránh vấn đề |
-| Win arguments | Win relationships |
-| Short-term | Long-term |
+| Thông Minh / Intelligence | [[Trí Tuệ]] / Wisdom |
+|---------------------------|---------------------|
+| Biết nhiều / Knows much | Biết sâu / Knows deeply |
+| Giải quyết vấn đề / Solves problems | Tránh vấn đề / Avoids problems |
+| Thắng arguments / Wins arguments | Thắng relationships / Wins relationships |
+| Ngắn hạn / Short-term | Dài hạn / Long-term |
 | What to think | How to think |
 | Ego-driven | Soul-driven |
 
-Xem chi tiết: [[Thông Minh vs Trí Tuệ]]
+→ Xem chi tiết: [[Thông Minh vs Trí Tuệ]]
 
-## Hạn Chế Của Thông Minh Đơn Thuần
+*See details: [[Thông Minh vs Trí Tuệ]]*
 
-### 1. Công cụ của Ego
-- Dùng để "thắng" thay vì "hiểu"
-- Feed [[Nguyên Mẫu]]
-- Separate from others
+---
 
-### 2. Dễ bị manipulate
-- [[Elite]] targets intelligent people
-- Education system → conformity
-- "Smart" = follows the rules
+## Hạn Chế Của Thông Minh Đơn Thuần / Limitations of Pure Intelligence
 
-### 3. Miss the bigger picture
-- Trees, not forest
-- Details, not meaning
-- How, not why
+### 1. Công cụ của Ego / Tool of Ego
 
-## Thông Minh Trong Ma Trận
+Dùng để "thắng" thay vì "hiểu". Feed [[Nguyên Mẫu|Persona]]. Tách biệt khỏi người khác.
 
-Theo [[Mental Model - Ma Trận Kiểm Soát Kép]]:
+*Used to "win" instead of "understand." Feeds Persona. Separates from others.*
+
+### 2. Dễ bị manipulate / Easily Manipulated
+
+[[Elite]] targets intelligent people. Hệ thống giáo dục tạo conformity. "Smart" = follows the rules.
+
+*Elite targets intelligent people. Education system creates conformity. "Smart" = follows the rules.*
+
+### 3. Bỏ lỡ bức tranh lớn / Miss the Bigger Picture
+
+Thấy cây, không thấy rừng. Thấy chi tiết, không thấy ý nghĩa. Biết "how", không biết "why".
+
+*Sees trees, not forest. Sees details, not meaning. Knows "how", not "why".*
+
+---
+
+## Thông Minh Trong [[Ma Trận]] / Intelligence in the Matrix
 
 ### "Smart" = Good Slave
-- Follow instructions well
-- Solve assigned problems
-- Don't question the game
 
-### Example: Finance
-- Smart: Maximize returns within system
-- Wise: Question if system is rigged
+- Follow instructions well / Làm theo hướng dẫn tốt
+- Solve assigned problems / Giải quyết vấn đề được giao
+- Don't question the game / Không đặt câu hỏi về trò chơi
 
-### Example: Career
-- Smart: Climb corporate ladder
-- Wise: Ask if ladder is against right wall
+*The Matrix rewards intelligence that stays within its rules.*
 
-## Phát Triển Cân Bằng
+| Ví dụ / Example | Smart | Wise |
+|-----------------|-------|------|
+| **Finance** | Maximize returns trong hệ thống | Question if system is rigged |
+| **Career** | Leo thang công ty | Hỏi xem thang có dựa đúng tường không |
+
+---
+
+## Phát Triển Cân Bằng / Balanced Development
 
 **Thông minh + Trí tuệ = Powerful**
 
-1. Develop cognitive skills (reading, math, analysis)
-2. But also contemplation, wisdom practices
+1. Phát triển cognitive skills (reading, math, analysis)
+2. Nhưng cũng cần contemplation, wisdom practices
 3. Question your own intelligence
-4. Humble: "I know that I know nothing"
+4. Khiêm tốn: "Tôi biết rằng tôi không biết gì"
 
-## Related
+*Develop cognitive skills, but also contemplation. Question your own intelligence. Humble: "I know that I know nothing."*
+
+---
+
+## Related / Liên quan
 
 - [[Trí Tuệ]] — The complement
 - [[Thông Minh vs Trí Tuệ]] — Full comparison
 - [[Mental Model]] — Thinking frameworks
 - [[Tâm Lý Học Jung]] — Shadow, Persona
-- [[Individuation]]
+- [[Individuation]] — Path to wholeness
 - [[Elite]] — Who exploits intelligent people
+- [[Ma Trận]] — System that rewards conformist intelligence
