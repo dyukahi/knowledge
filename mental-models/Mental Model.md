@@ -61,6 +61,7 @@ status: refined
 - [[Thông Minh vs Trí Tuệ]] — Intelligence ≠ Wisdom
 - [[Nhị Nguyên]] — Duality thinking
 - [[Privacy Is The New Wealth]] — Stealth wealth & survival strategy
+- [[Schadenfreude - Dopamine Phản Diện]] — Dark side of dopamine reward
 
 ### Về Thế Hệ (Series Gen Z)
 - [[Gen Z - Phân Tích Phản Biện]] — Phân tích phản biện
