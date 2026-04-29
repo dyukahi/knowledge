@@ -38,7 +38,8 @@ Việc con người khai thác trí tuệ từ các thực thể phi nhân loạ
 - [[Atula]]
 - [[Báo Cáo 2030]]
 - [[Kiểm Soát Tâm Trí]]
-- [[Mental Model - Ma Trận Kiểm Soát Kép]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[Thông Minh]]
 - [[Trí Tuệ]]
 - [[Vũ Trụ Học Phật Giáo]]
+

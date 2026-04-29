@@ -102,5 +102,5 @@ Tiền in ra chảy vào stocks, bất động sản, chứ không vào lương.
 - [[Gen Z và CBDC - Programmable Money Psychology]] — Fiat 2.0: programmable và worse / *Fiat 2.0: programmable and worse*
 - [[Elite]] — Ai hưởng lợi từ hệ thống này / *Who benefits from this system*
 - [[Báo Cáo 2030]] — Tương lai của tiền tệ / *The future of currency*
-- [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[Điều mà nền giáo dục và chính phủ không dạy bạn]]

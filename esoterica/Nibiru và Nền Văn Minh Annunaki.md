@@ -35,7 +35,8 @@ Tài liệu này tổng hợp giả thuyết về sự hiện diện của chủ
 - [[Atlantis]]
 - [[Cabal]]
 - [[Lemuria]]
-- [[Mental Model - Ma Trận Kiểm Soát Kép]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[Nibiru]]
 - [[Thuyết Trái Đất Phẳng]]
 - [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
+

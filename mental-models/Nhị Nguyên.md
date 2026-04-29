@@ -113,7 +113,7 @@ When forced to choose between two options / Khi bị ép chọn giữa hai:
 
 ### Mental Models
 - [[Chia Tách Bởi Nhị Nguyên]] — How duality is weaponized
-- [[Mental Model - Ma Trận Kiểm Soát Kép]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[Tâm bất Biến]] — Beyond binary reactions
 
 ### Philosophy / Triết học
@@ -126,3 +126,4 @@ When forced to choose between two options / Khi bị ép chọn giữa hai:
 - [[Ma Trận]] — System using duality
 - [[Elite]] — Who benefits from division
 - [[Kiểm Soát Tâm Trí]]
+

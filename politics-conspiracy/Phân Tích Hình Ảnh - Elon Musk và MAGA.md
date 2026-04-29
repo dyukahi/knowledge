@@ -42,5 +42,6 @@ Bức ảnh tổng hợp nhiều chi tiết liên kết giữa Elon Musk, phong 
 - [[Báo Cáo 2030]]
 - [[Dark MAGA]]
 - [[MAGA Và Số 42]]
-- [[Mental Model - Ma Trận Kiểm Soát Kép]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[Nhị Nguyên]]
+

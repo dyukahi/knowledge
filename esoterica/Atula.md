@@ -244,7 +244,7 @@ Hỏi bản thân:
 
 ---
 
-## Connection với [[Ma Trận Đa Tầng - Các Bức Tường Che Đậy Tiềm Năng Con Người]]
+## Connection với Ma Trận Đa Tầng
 
 Asura có thể là một trong những **thế lực** đứng sau "Bức tường 3: Chiến tranh":
 
@@ -275,7 +275,7 @@ flowchart TD
 ### Core
 - [[Luân Hồi]] — Full cycle
 - [[Vũ Trụ Học Phật Giáo]] — Cosmology context
-- [[Ma Trận Đa Tầng - Các Bức Tường Che Đậy Tiềm Năng Con Người]] — Meta framework
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]] — Meta framework
 
 ### Entities
 - [[Thực Thể Cõi Trung Giới]] — Related entities

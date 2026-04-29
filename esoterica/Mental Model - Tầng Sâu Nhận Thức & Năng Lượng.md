@@ -86,7 +86,7 @@ Tự do thực sự bắt đầu từ việc bảo toàn Tinh Khí Thần, thanh
 - [[Individuation]]
 - [[Ma Trận]]
 - [[Mental Model]]
-- [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[Nguyên Mẫu]]
 - [[Nhị Nguyên]]
 - [[S.E.X]]

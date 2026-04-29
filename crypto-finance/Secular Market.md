@@ -6,7 +6,7 @@ status: refined
 related:
   - "[[Bitcoin]]"
   - "[[Chu Kỳ Hoàng Đạo]]"
-  - "[[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]"
+  - "[[Ma Trận - Giải Phẫu Hoàn Chỉnh]]"
 ---
 
 # Secular Market (Thị Trường Chu Kỳ Dài)
@@ -90,7 +90,7 @@ Không cần timing hoàn hảo, nhưng cần **đúng phe của secular trend**
 
 ### Chu kỳ & Mô hình (Cycles & Models)
 - [[Chu Kỳ Hoàng Đạo]] — Chu kỳ vũ trụ và thời đại / *Cosmic cycles and ages*
-- [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]] — Tư duy vượt khỏi hệ thống / *Thinking beyond the system*
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]] — Tư duy vượt khỏi hệ thống / *Thinking beyond the system*
 
 ### Thức tỉnh tài chính (Financial Awakening)
 - [[Báo Cáo 2030]] — Great Reset và chuyển đổi kinh tế / *Great Reset and economic transition*

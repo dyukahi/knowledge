@@ -1,4 +1,4 @@
----
+﻿---
 title: Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo
 aliases: ["Karma, Samsara and the Religion Matrix"]
 date: 2026-04-08
@@ -84,7 +84,8 @@ Giới tinh hoa thực chất cũng chỉ là những linh hồn yếu ớt bị
 - [[Elite]]
 - [[Luân Hồi]]
 - [[Ma Trận]]
-- [[Mental Model - Ma Trận Kiểm Soát Kép]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[Nhân Quả]]
 - [[Vô Thức Tập Thể]]
 - [[Vũ Trụ Học Phật Giáo]]
+

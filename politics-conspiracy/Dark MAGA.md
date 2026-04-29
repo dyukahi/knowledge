@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dark MAGA"
 date: 2026-04-07
 tags: [politics-conspiracy]
@@ -39,7 +39,8 @@ Dark MAGA có thể được xem là một giai đoạn kích hoạt xung đột
 
 ## Related
 - [[MAGA Và Số 42]]
-- [[Mental Model - Ma Trận Kiểm Soát Kép]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[Phân Tích Hình Ảnh - Elon Musk và MAGA]]
 - [[Elite]] — Ai điều khiển narrative / Who controls the narrative
 - [[Saturn Cube]] — Biểu tượng Saturn / Saturn symbolism
+

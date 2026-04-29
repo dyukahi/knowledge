@@ -445,7 +445,7 @@ Trong kỷ nguyên AI, cái gì cũng chạy theo tốc độ. Nhưng những ng
 - [[Một Đời Phù Vân]] — Câu chuyện về người không bao giờ dừng lại
 - [[Gnosis]] — Cái biết không thể outsource
 - [[Sự Nhất Thể]] — Ý thức thuần túy
-- [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 
 ### Tâm lý & Trưởng thành / Psychology & Growth
 - [[Individuation]] — Trở thành chính mình
@@ -461,3 +461,4 @@ Trong kỷ nguyên AI, cái gì cũng chạy theo tốc độ. Nhưng những ng
 - [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]]
 - [[Digital ID Normalization - From Instagram to Government ID]]
 - [[UBI Conditioning - The End of Work Ethic]]
+

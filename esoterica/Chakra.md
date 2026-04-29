@@ -315,7 +315,7 @@ flowchart LR
 ### Năng Lượng / Energy
 - [[Năng Lượng Tình Dục]] — Sexual/creative energy
 - [[Tinh Khí Thần]] — Jing, Qi, Shen
-- [[Kundalini]] — Serpent energy
+- Kundalini — Serpent energy
 - [[Tuyến Tùng]] — Pineal gland
 
 ### Tâm Linh / Spirituality

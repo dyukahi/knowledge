@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gaia - Trái Đất Có Ý Thức"
 date: 2026-04-29
 tags: [esoterica, consciousness, ancient-wisdom]
@@ -301,7 +301,7 @@ Xem thêm / See also: [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
 
 ### Suppressed Knowledge
 - [[Tartaria]] — Nền văn minh bị xóa khỏi lịch sử / Civilization erased from history
-- [[Người Kogi]] — Những người vẫn nhớ / Those who still remember
+- [[Kỹ Thuật Thiền Định Kogi|Người Kogi]] — Những người vẫn nhớ / Those who still remember
 
 ---
 
@@ -352,3 +352,4 @@ Sự phân biệt đó thay đổi mọi thứ. / That distinction changes every
 - Schumann, W.O. — Original resonance research (1952)
 - Indigenous traditions worldwide — 10,000+ years of observation
 - James Cameron — *Avatar* (2009)
+

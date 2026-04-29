@@ -6,7 +6,7 @@ status: refined
 related:
   - "[[Ma Trận]]"
   - "[[Gematria]]"
-  - "[[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]"
+  - "[[Ma Trận - Giải Phẫu Hoàn Chỉnh]]"
 ---
 # Saturn Cube (Khối Lập Phương Sao Thổ)
 
@@ -94,7 +94,8 @@ Theo truyền thống huyền học / According to occult traditions:
 - [[Biểu Tượng Baphomet]]
 
 ### Escape / Thoát
-- [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[Gnosis]] — Inner knowledge
 - [[Chu Kỳ Hoàng Đạo]] — Cosmic cycles
 - [[Tinh Khí Thần]] — Inner alchemy
+

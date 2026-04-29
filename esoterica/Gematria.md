@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gematria"
 date: 2026-04-07
 tags: [esoterica]
@@ -98,7 +98,7 @@ Questions to ask / Câu hỏi:
 
 ### Core
 - [[Elite]] — Who uses this code
-- [[Mental Model - Ma Trận Kiểm Soát Kép]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[Báo Cáo 2030]] — Macro plan
 
 ### Numerology
@@ -109,3 +109,4 @@ Questions to ask / Câu hỏi:
 ### Application
 - [[Suramin]] — ThirdEye encoding
 - [[Tuyến Tùng]] — Third Eye connection
+

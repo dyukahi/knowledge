@@ -1,4 +1,4 @@
----
+﻿---
 title: "Manly P. Hall"
 aliases: ["Manly Palmer Hall", "33rd Degree Mason"]
 date: 2026-04-15
@@ -25,7 +25,7 @@ status: refined
 
 - Giải thích quy luật tâm linh huyền bí / *Explaining occult spiritual laws*
 - Cách tâm trí và biểu tượng lập trình thực tại / *How mind and symbols program reality*
-- Nền tảng cho [[Mental Model - Ma Trận Kiểm Soát Kép]] / *Foundation for dual control matrix*
+- Nền tảng cho [[Ma Trận - Giải Phẫu Hoàn Chỉnh]] / *Foundation for dual control matrix*
 
 ---
 
@@ -90,10 +90,11 @@ Tuyệt tác xuất bản khi mới **27 tuổi** — bách khoa toàn thư củ
 
 ### Power / Quyền lực
 - [[Elite]] — Who uses this knowledge
-- [[Mental Model - Ma Trận Kiểm Soát Kép]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[Cabal]]
 
 ### Knowledge / Tri thức
 - [[Gematria]] — Number symbolism
 - [[33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí]]
 - [[Trí Tuệ]] — Wisdom vs Intelligence
+

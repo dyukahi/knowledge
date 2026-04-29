@@ -184,7 +184,7 @@ Khi năng lượng được giữ lại và chuyển hóa:
 >
 > *When you master yourself, you escape the Matrix.*
 
-→ Xem thêm: [[Ma Trận]], [[Mental Model - Ma Trận Kiểm Soát Kép]]
+→ Xem thêm: [[Ma Trận]], [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 
 ---
 
@@ -235,7 +235,7 @@ Khi năng lượng được giữ lại và chuyển hóa:
 ### Thực thể & Ma Trận / Entities & Matrix
 - [[Thực Thể Cõi Trung Giới]] — Astral entities
 - [[Ma Trận]] — The Matrix
-- [[Mental Model - Ma Trận Kiểm Soát Kép]] — Dual control matrix
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]] — Dual control matrix
 - [[Kiểm Soát Tâm Trí]] — Mind control
 
 ### Sức khỏe & Xã hội / Health & Society
@@ -243,3 +243,4 @@ Khi năng lượng được giữ lại và chuyển hóa:
 - [[Sự Thật Về Ma Túy]] — Truth about drugs
 - [[Bộ Não Rỗng và AI Brain Rot]] — Brain rot
 - [[Elite]] — Who benefits
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Biểu Tượng Baphomet"
 aliases: ["Baphomet", "Sabbatic Goat"]
 date: 2026-04-07
@@ -79,6 +79,7 @@ status: refined
 
 ### Control / Kiểm soát
 - [[Ma Trận]] — System using symbols
-- [[Mental Model - Ma Trận Kiểm Soát Kép]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[Elite]] — Who uses these symbols
 - [[Phân Tích Hình Ảnh - Elon Musk và MAGA]]
+

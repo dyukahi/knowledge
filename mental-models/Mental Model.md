@@ -46,8 +46,8 @@ status: refined
 ## Mental Models Trong Knowledge Base
 
 ### Về Ma Trận & Kiểm Soát
-- [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
-- [[Mental Model - Ma Trận Kiểm Soát Kép]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh|Bản Đồ Thoát Khỏi Ma Trận]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận Kiểm Soát Kép]]
 - [[Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]]
 
 ### Về Tâm Lý & Nhận Thức
@@ -104,8 +104,7 @@ status: refined
 - [[Khoa Học Xét Lại]] — Question everything
 
 ### Mental Model Series
-- [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
-- [[Mental Model - Ma Trận Kiểm Soát Kép]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]] — Bản đồ thoát khỏi Ma Trận
 - [[Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]]
 - [[Mental Model - Tầng Sâu Nhận Thức & Năng Lượng]]
 - [[Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận]]

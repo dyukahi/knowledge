@@ -29,13 +29,13 @@ Bài viết phản biện Thuyết Tiến Hóa và giới thiệu về các nề
 ## Liên kết hệ thống
 - Kết nối với **Khoa Học Xét Lại** và **Vận Chín, Người Kogi và Ma Trận Y Tế**.
 - Liên kết với **Mô Hình Địa Tâm** về chu kỳ 2160 năm của các thời đại.
-- Bổ sung vào **Mental Model - Bản Đồ Thoát Khỏi Ma Trận**.
+- Bổ sung vào **Ma Trận - Giải Phẫu Hoàn Chỉnh**.
 
 ## Related
 - [[Atlantis]]
 - [[Lemuria]]
 - [[Ma Trận]]
-- [[Mental Model - Bản Đồ Thoát Khỏi Ma Trận]]
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[Mô Hình Địa Tâm]]
 - [[Nỏ Thần]]
 - [[The China Study]]
