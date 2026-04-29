@@ -229,7 +229,7 @@ Hỏi bản thân:
 
 | Asura Energy | Antidote / Đối trị |
 |--------------|---------------------|
-| **Ganh tị** | Gratitude (biết ơn) — [[Mudita]] (tùy hỷ) |
+| **Ganh tị** | Gratitude (biết ơn), Mudita (tùy hỷ) |
 | **Hiếu chiến** | Compassion (từ bi) |
 | **Kiêu mạn** | Humility (khiêm tốn) |
 | **Sân hận** | Forgiveness (tha thứ) |
