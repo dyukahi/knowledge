@@ -27,12 +27,6 @@ flowchart TD
     F --> G["1959: Antarctic Treaty<br>12 quốc gia ký kết"]
     G --> H["1961: Treaty có hiệu lực<br>Civilians restricted"]
     H --> I["1962: Operation Fishbowl<br>High-altitude nukes"]
-    
-    style A fill:#333
-    style B fill:#333
-    style C fill:#633
-    style D fill:#633
-    style G fill:#363
 ```
 
 ---
