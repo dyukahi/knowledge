@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bức Tường Băng (Ice Wall)"
 aliases: ["Ice Wall", "Antarctic Ice Wall"]
 date: 2026-04-07
