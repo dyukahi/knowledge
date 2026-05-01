@@ -168,7 +168,7 @@ flowchart TD
     M[Muller 1927] --> |Claims| A[All radiation harmful]
     A --> L[LNT Model]
     
-    S[Stern's Evidence] --> |Shows| T[Threshold exists - low doses safe]
+    S[Stern Evidence - IGNORED] --> |Shows| T[Threshold exists - low doses safe]
     M --> |IGNORES| S
     
     L --> N[Nobel Prize 1946]
@@ -177,9 +177,6 @@ flowchart TD
     
     R --> F[Irrational Fear]
     F --> SN[Nuclear Energy Suppressed]
-    
-    style S fill:#ff6b6b
-    style M fill:#ffd93d
 ```
 
 **French Academies Report:**
@@ -366,47 +363,43 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    subgraph FUNDING["💰 Funding (1920s-30s)"]
+    subgraph FUNDING["Funding 1920s-30s"]
         RF[Rockefeller Foundation]
         RF --> Physics[Nuclear Physics Research]
-        RF --> Scientists[Bohr, Lawrence, etc.]
+        RF --> Scientists[Bohr Lawrence etc]
     end
     
-    subgraph THEORY["📚 Theory"]
-        E[Einstein - E=mc²]
-        P[Poincaré, Lorentz]
+    subgraph THEORY["Theory"]
+        E[Einstein E=mc2]
+        P[Poincare Lorentz]
         P --> |Plagiarized?| E
         E --> Narrative[Nuclear Theory Established]
     end
     
-    subgraph FEAR["😱 Fear Creation"]
-        M[Muller LNT - FRAUD]
+    subgraph FEAR["Fear Creation"]
+        M[Muller LNT FRAUD]
         M --> Regs[Radiation Regulations]
         Regs --> Fear[Irrational Fear]
     end
     
-    subgraph DEMONSTRATION["💥 Demonstration"]
+    subgraph DEMONSTRATION["Demonstration"]
         MP[Manhattan Project]
-        MP --> Trinity[Trinity Test - RUSHED]
-        Trinity --> HN[Hiroshima/Nagasaki]
+        MP --> Trinity[Trinity Test RUSHED]
+        Trinity --> HN[Hiroshima Nagasaki]
     end
     
-    subgraph CONTROL["🎛️ Control"]
+    subgraph CONTROL["Control"]
         Fear --> Suppress[Nuclear Energy Suppressed]
-        Suppress --> Oil[Oil/Gas Dominance]
+        Suppress --> Oil[Oil Gas Dominance]
         Oil --> |Owned by| RF
         
         HN --> MAD[Mutual Assured Destruction]
         MAD --> Arms[Endless Arms Race]
-        Arms --> MIC[Military-Industrial Complex]
+        Arms --> MIC[Military Industrial Complex]
     end
     
     Physics --> Scientists
     Scientists --> MP
-    
-    style M fill:#ff6b6b
-    style E fill:#ffd93d
-    style RF fill:#4ecdc4
 ```
 
 ---
