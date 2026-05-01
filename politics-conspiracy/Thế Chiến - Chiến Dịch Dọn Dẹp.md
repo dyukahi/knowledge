@@ -359,6 +359,60 @@ Step 6: Repeat
 
 ---
 
+## X. Hiroshima & Nagasaki — Grand Finale / Màn Kết
+
+### Nuclear Narrative = Perfect Ending
+
+Thế chiến II kết thúc không phải bằng một trận đánh thông thường, mà bằng **màn trình diễn** tạo ra **fear mới cho thế giới mới**.
+
+*WW2 didn't end with an ordinary battle, but with a demonstration that created a new fear for the new world.*
+
+```mermaid
+flowchart TD
+    WW2["WW2 Cleanup<br>1939-1945"] --> HN["Hiroshima Nagasaki<br>Aug 1945"]
+    
+    HN --> N1["Nuclear Fear Established"]
+    HN --> N2["US Superpower Status"]
+    HN --> N3["Cold War Begins"]
+    
+    N1 --> C1["MAD Doctrine"]
+    N2 --> C2["UN Security Council"]
+    N3 --> C3["Arms Race Forever"]
+    
+    C1 --> CTRL["CONTROL<br>Post-War World Order"]
+    C2 --> CTRL
+    C3 --> CTRL
+```
+
+### Anomalies Worth Noting
+
+| Question | Official Answer | Alternative View |
+|----------|-----------------|------------------|
+| **Tại sao chỉ test 1 lần trước deploy?** | Confident in science | Rushed / different weapon? |
+| **Tại sao cities hồi phục nhanh?** | Cleanup efficient | Radiation exaggerated? |
+| **Tại sao fear radiation nhưng wildlife thrives ở Chernobyl?** | Different conditions | LNT model = fraud |
+| **Ai fund Manhattan Project?** | US Government | Rockefeller Foundation funded physics |
+
+### The Perfect Transition
+
+| WW2 Purpose | Nuclear Narrative Purpose |
+|-------------|---------------------------|
+| Destroy Old World architecture | Create NEW fear mechanism |
+| Collapse old empires | Establish superpower binary |
+| Rewrite history | Lock in "nuclear age" narrative |
+| Cleanup old tech | Suppress nuclear ENERGY (benefits oil) |
+
+> *"Hiroshima không chỉ kết thúc WW2. Nó BẮT ĐẦU Cold War — và 80 năm fear-based control."*
+>
+> *"Hiroshima didn't just end WW2. It STARTED the Cold War — and 80 years of fear-based control."*
+
+### Deep Dive
+
+Xem chi tiết về nuclear narrative, Einstein, LNT fraud, Rockefeller funding:
+→ **[[Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]]**
+
+---
+
 ## Core Insight / Insight Cốt Lõi
 
 **Thế chiến không phải là thiện vs ác.**
@@ -391,6 +445,7 @@ Step 6: Repeat
 - [[Mudflood]] — Reset event theory
 - [[Nam Cực - Bí Mật Được Canh Giữ]] — Antarctica, Nazi connection
 - [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]] — Post-war narrative control
+- ⭐ [[Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]] — Nuclear hoax, Hiroshima, radiation fear
 
 ### Architecture & History
 - [[Thành Cổ Loa]] — Vietnam's ancient spiral citadel

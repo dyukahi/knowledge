@@ -489,6 +489,7 @@ mindmap
 
 ## Related
 
+- ⭐ [[Thế Chiến - Chiến Dịch Dọn Dẹp]] — WW2 as cleanup, Hiroshima as Grand Finale
 - [[Khoa Học Xét Lại]]
 - [[Elite]]
 - [[Vũ Khí Năng Lượng Định Hướng]]
