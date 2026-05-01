@@ -87,9 +87,21 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 - **[[Elite]]** — Who rules the world? / Ai đang điều khiển thế giới?
 - **[[Bitcoin]]** — Escape from the financial system / Lối thoát khỏi hệ thống tài chính
 
+### 🌿 Existential Trilogy / Bộ Ba Hiện Sinh
+
+*Hành trình từ mệt mỏi đến tỉnh thức / Journey from exhaustion to awakening*
+
+1. 🍓 **[[Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa]]** — Rat race, ROI-ification, mệt rồi
+2. 🌿 **[[Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu]]** — Câu hỏi về ý nghĩa, awareness
+3. ⭐ **[[Nghịch Lý Của Hiểu Biết]]** — Buông hết framework, chỉ còn cái thấy
+
+*Đọc theo thứ tự, hoặc nhảy vào bất kỳ đâu.*
+*Read in order, or jump in anywhere.*
+
 ### 📌 Esoterica Essentials / Huyền Học Cơ Bản
 
 - **[[Nghịch Lý Của Hiểu Biết]]** ⭐ — Beyond all frameworks / Vượt qua mọi framework
+- **[[Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu]]** 🆕 — Existence without purpose
 - **[[Sacred Geometry]]** — The universe is made of geometry / Vũ trụ được tạo từ hình học
 - **[[Tartaria]]** — The erased civilization / Nền văn minh bị xóa sổ
 - **[[Annunaki]]** — True origin of humanity? / Nguồn gốc thực sự của loài người?
@@ -116,6 +128,7 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 
 ### 🔮 Esoterica
 - ⭐ [[Nghịch Lý Của Hiểu Biết]] — Meta-level
+- 🌿 [[Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu]] — Existence essay
 - [[Sacred Geometry]] | [[Monad]] | [[Nhị Nguyên]]
 - [[Tartaria]] | [[Annunaki]] | [[Atlantis]] | [[Lemuria]]
 - [[Gematria]] | [[Saturn Cube]] | [[Chakra]]
@@ -130,6 +143,7 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 - ✨ [[Atula]] — Expanded: Asura realm influence on human conflicts
 
 ### 🧩 Mental Models
+- 🍓 [[Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa]] — Rat race essay
 - 🆕 [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — How system hijacks reward system
 
 ### 🏥 Health
@@ -171,6 +185,7 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 ## 🧭 Navigation Guide / Cách Điều Hướng
 
 1. **Where to start? / Bắt đầu từ đâu?**
+   - **Feeling tired of life?** → [[Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa]] → [[Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu]]
    - **Meta-level** → [[Nghịch Lý Của Hiểu Biết]] *(recommended first or last)*
    - Complete newbie → Read [[Khoa Học Xét Lại]]
    - Interested in 2030 → Read [[Báo Cáo 2030]] then Gen Z series
