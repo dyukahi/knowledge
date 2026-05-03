@@ -8,7 +8,7 @@ status: refined
 
 # Mebendazole — Thuốc Tẩy Giun Chống Ung Thư
 
-**Mebendazole (MBZ)** là thuốc tẩy giun OTC (Fugacar, Vermox) được nghiên cứu như liệu pháp chống ung thư. Một ví dụ điển hình của "drug repurposing" — thuốc cũ, công dụng m���i.
+**Mebendazole (MBZ)** là thuốc tẩy giun OTC (Fugacar, Vermox) được nghiên cứu như liệu pháp chống ung thư. Một ví dụ điển hình của "drug repurposing" — thuốc cũ, công dụng mới.
 
 *Mebendazole (MBZ) is an OTC deworming drug (Fugacar, Vermox) being researched as anti-cancer therapy. A classic example of "drug repurposing" — old drug, new use.*
 
