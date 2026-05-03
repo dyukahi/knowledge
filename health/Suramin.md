@@ -121,3 +121,4 @@ Coincidence or design? / Trùng hợp hay thiết kế?
 ### Parasites & Detox
 - [[Tà Linh]]
 - [[Virus và Kiếp Tật Dịch]]
+- [[Mebendazole - Thuốc Tẩy Giun Chống Ung Thư]] — Same pattern: antiparasitic → anticancer

@@ -102,6 +102,7 @@ Sáng sớm + Trước ngủ:
 
 ### Health / Sức khỏe
 - [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]] — See through the system
+- [[Mebendazole - Thuốc Tẩy Giun Chống Ung Thư]] — Repurposed drug
 - [[Thuyết Vi Sinh Nội Sinh]] — Terrain theory
 - [[Suy Thận]] — Kidney truth
 - [[Plasma Quinton]] — Ocean minerals
