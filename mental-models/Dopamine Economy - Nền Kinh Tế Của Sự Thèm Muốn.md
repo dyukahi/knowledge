@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn"
 aliases: ["Dopamine Economy", "Attention Economy", "Kinh Tế Dopamine"]
 date: 2026-04-29
@@ -301,7 +301,7 @@ Biết mình đang bị manipulate = bước đầu tiên.
 |---------------|-------------------|
 | **Physical** | Food, sex, substances |
 | **Psychological** | Social media, news, entertainment |
-| **Spiritual** | [[Loosh - Năng Lượng Thu Hoạch Từ Con Người\|Loosh]] harvesting |
+| **Spiritual** | [[Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh]] harvesting |
 
 ### Why "Free" Platforms Exist
 

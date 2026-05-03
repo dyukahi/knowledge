@@ -47,7 +47,7 @@ status: refined
 
 | Domain | Tool | Purpose |
 |--------|------|---------|
-| **Finance** | Central banks, [[Tiền Pháp Định\|Fiat]] | Debt slavery / Nô lệ nợ |
+| **Finance** | Central banks, [[Tiền Pháp Định|Fiat]] | Debt slavery / Nô lệ nợ |
 | **Information** | MSM, Big Tech | Narrative control |
 | **Education** | Standardized curriculum | Programming from childhood |
 | **Health** | Big Pharma | Dependency + profit |

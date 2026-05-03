@@ -116,5 +116,5 @@ Theo góc nhìn [[Elite]] và [[Ma Trận]]:
 
 ### Matrix & Cover-up / Ma Trận & Che giấu
 - [[Báo Cáo 2030]] — Modern reset plan
-- [[Tuyên Ngôn Bức Tường Băng]] — Hidden lands
+- [[Bức Tường Bang]] — Hidden lands
 - [[Elite]] — Who erases history

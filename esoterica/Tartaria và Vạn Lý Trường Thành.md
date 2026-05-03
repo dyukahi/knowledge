@@ -24,12 +24,12 @@ Bài viết kết nối các dữ kiện từ Kinh Thế Ký (Phật giáo) vớ
 - **Ranh giới thế giới:** Giả thuyết Vạn Lý Trường Thành chính là **biên giới cổ xưa** giữa Tartaria (Đông Thắng Thần Châu) và Nam Thiệm Bộ Châu. Nó đánh dấu sự ngăn cách giữa những nhóm người hướng thượng và những kẻ đã quên mất bản chất thiện lành.
 
 ## Liên kết hệ thống
-- Kết nối sâu sắc với **Kan Tracking Tartaria** và **Tuyên Ngôn Bức Tường Băng**.
+- Kết nối sâu sắc với **Kan Tracking Tartaria** và **Bức Tường Bang**.
 - Bổ sung vào **Vũ Trụ Học Phật Giáo** về 4 đại châu và 1.000 thế giới.
 - Củng cố **Khoa Học Xét Lại** thông qua khái niệm Gió Ether.
 
 ## Related
 - [[Núi Tu Di]]
 - [[Tartaria]]
-- [[Tuyên Ngôn Bức Tường Băng]]
+- [[Bức Tường Bang]]
 - [[Vũ Trụ Học Phật Giáo]]

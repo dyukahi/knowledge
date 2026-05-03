@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ma Trận - Giải Phẫu Hoàn Chỉnh"
 aliases: ["Complete Matrix Anatomy", "Thoát Khỏi Ma Trận", "Matrix Breakdown"]
 date: 2026-04-29
@@ -183,7 +183,7 @@ Ngoài 4 bức tường, Ma Trận hoạt động trên **2 trục song song**:
 
 | Hệ thống | Công cụ |
 |----------|---------|
-| **Tài chính** | Tiền pháp định, lạm phát, nợ nần, [[Báo Cáo 2030\|2030 Reset]] |
+| **Tài chính** | Tiền pháp định, lạm phát, nợ nần, [[Báo Cáo 2030|2030 Reset]] |
 | **Giáo dục** | Đào tạo tuân thủ, không tư duy độc lập |
 | **Lao động** | Biến người thành bánh răng (9-5) |
 | **Địa lý?** | [[Bức Tường Băng]], không gian bị giới hạn |
@@ -195,7 +195,7 @@ Ngoài 4 bức tường, Ma Trận hoạt động trên **2 trục song song**:
 | **Khoa học dòng chính** | Rào cản nhận thức, chấp nhận mặc định |
 | **Chia rẽ nhị nguyên** | Đúng-Sai, Trái-Phải → mất kết nối nội tại |
 | **Quên nguồn gốc** | Bám víu vật chất, suy tàn tâm thức |
-| **Entertainment** | [[Hollywood - Cây Đũa Phép Của Phù Thủy\|Programming]], distraction |
+| **Entertainment** | [[Hollywood - Cây Đũa Phép Của Phù Thủy|Programming]], distraction |
 
 ---
 

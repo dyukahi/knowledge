@@ -43,7 +43,7 @@ Nhà nghiên cứu phổ biến thuyết Annunaki qua series "Earth Chronicles":
 
 | Claim / Quan điểm | Description |
 |-------------------|-------------|
-| **[[Nibiru (Hành Tinh X)\|Nibiru]] origin** | Annunaki từ hành tinh quỹ đạo 3,600 năm / From planet with 3,600-year orbit |
+| **[[Nibiru]] origin** | Annunaki từ hành tinh quỹ đạo 3,600 năm / From planet with 3,600-year orbit |
 | **Gold mining** | Đến Trái Đất khai thác vàng / Came to Earth for gold |
 | **Human creation** | Chỉnh sửa gen vượn → Homo sapiens / Gene-edited apes → Homo sapiens |
 

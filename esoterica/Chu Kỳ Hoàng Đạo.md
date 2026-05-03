@@ -68,8 +68,8 @@ status: refined
 |-------|-------------|
 | **Knowledge** | They know these cycles / Họ biết các chu kỳ này |
 | **Planning** | Long-term plans aligned with timing |
-| **[[Cỗ Máy Antikythera và Minh Chứng Địa Tâm\|Antikythera]]** | Ancient computer tracking cycles |
-| **[[Báo Cáo 2030\|Agenda 2030]]** | Aligned with transition / Đồng bộ với chuyển đổi |
+| **[[Cỗ Máy Antikythera và Minh Chứng Địa Tâm|Antikythera]]** | Ancient computer tracking cycles |
+| **[[Báo Cáo 2030|Agenda 2030]]** | Aligned with transition / Đồng bộ với chuyển đổi |
 
 ---
 

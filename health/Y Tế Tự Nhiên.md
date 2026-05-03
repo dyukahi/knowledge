@@ -101,6 +101,7 @@ Sáng sớm + Trước ngủ:
 ## Related
 
 ### Health / Sức khỏe
+- [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]] — See through the system
 - [[Thuyết Vi Sinh Nội Sinh]] — Terrain theory
 - [[Suy Thận]] — Kidney truth
 - [[Plasma Quinton]] — Ocean minerals

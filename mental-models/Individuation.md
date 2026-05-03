@@ -30,7 +30,7 @@ status: refined
 
 | Realization | Meaning |
 |-------------|---------|
-| **Persona = social mask** | [[Nguyên Mẫu (Archetypes)\|Persona]] = mặt nạ xã hội |
+| **Persona = social mask** | [[Nguyên Mẫu|Persona]] = mặt nạ xã hội |
 | **"I am not my roles"** | Teacher, parent, employee ≠ Self |
 | **Authentic self** | Emerges when masks dissolve |
 

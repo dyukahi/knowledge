@@ -6,7 +6,7 @@ status: refined
 related:
   - "[[Tartaria]]"
   - "[[Khoa Học Xét Lại]]"
-  - "[[Tuyên Ngôn Bức Tường Băng]]"
+  - "[[Bức Tường Bang]]"
 ---
 # Mudflood (Đại Hồng Thủy Bùn)
 
@@ -92,5 +92,5 @@ Nếu Mudflood là thật:
 
 ### Che giấu & Kiểm soát
 - [[Khoa Học Xét Lại]] — Questioning mainstream
-- [[Tuyên Ngôn Bức Tường Băng]] — Những gì còn bị che giấu
+- [[Bức Tường Bang]] — Những gì còn bị che giấu
 - [[Elite]] — Ai đứng sau việc xóa lịch sử

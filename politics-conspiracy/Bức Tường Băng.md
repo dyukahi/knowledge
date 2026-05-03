@@ -1,6 +1,6 @@
----
+﻿---
 title: "Bức Tường Băng (Ice Wall)"
-aliases: ["Ice Wall", "Antarctic Ice Wall", "Tuyên Ngôn Bức Tường Băng"]
+aliases: ["Ice Wall", "Antarctic Ice Wall", "Bức Tường Bang"]
 date: 2026-04-07
 tags: [politics-conspiracy, esoterica]
 status: refined
@@ -116,7 +116,7 @@ Xem thêm: [[Nam Cực - Bí Mật Được Canh Giữ]]
 
 ---
 
-## Tuyên Ngôn Bức Tường Băng / The Ice Wall Manifesto
+## Bức Tường Bang / The Ice Wall Manifesto
 
 "The Ice Wall Manifesto" là một tài liệu tham khảo cốt lõi cho dự án xây dựng thế giới **"Beyond the Ice Wall" (Bên Kia Bức Tường Băng - BTIW)**.
 

@@ -70,7 +70,7 @@ status: refined
 | Theory | Description |
 |--------|-------------|
 | **Solar activity** | Sun's influence |
-| **[[Chu Kỳ Hoàng Đạo\|Age of Aquarius]]** | Planetary shift |
+| **[[Chu Kỳ Hoàng Đạo|Age of Aquarius]]** | Planetary shift |
 | **Collective consciousness** | Ý thức tập thể rising |
 | **Measurement issues** | Technical anomalies |
 

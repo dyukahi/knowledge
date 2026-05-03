@@ -140,6 +140,7 @@ flowchart TD
 
 ### Health / Sức khỏe
 - [[Y Tế Tự Nhiên]]
+- [[Su That Ve Benh Dai Va Vac Xin]] — Pasteur exposed
 - [[Virus và Kiếp Tật Dịch]] — Virus theory questioned
 - [[Công Thức Chữa Lành Tự Nhiên]]
 - [[Plasma Quinton]] | [[Suramin]]

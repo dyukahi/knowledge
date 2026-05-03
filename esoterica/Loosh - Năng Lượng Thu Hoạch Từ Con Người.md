@@ -1,4 +1,4 @@
----
+﻿---
 title: "Loosh - Năng Lượng Thu Hoạch Từ Con Người"
 aliases: ["Loosh", "Energy Harvesting", "Thu Hoạch Năng Lượng"]
 date: 2026-04-29
@@ -142,7 +142,7 @@ flowchart TD
 
 | Kênh / Channel | Loại cảm xúc / Emotion Type | Cường độ / Intensity |
 |----------------|----------------------------|---------------------|
-| **[[Sự Thật Đen Tối Về Phim Khiêu Dâm\|Pornography]]** | Lust → Guilt → Shame | Cao, lặp lại / High, repetitive |
+| **[[Sự Thật Đen Tối Về Phim Khiêu Dâm|Pornography]]** | Lust → Guilt → Shame | Cao, lặp lại / High, repetitive |
 | **News 24/7** | Fear, outrage, anxiety | Liên tục / Continuous |
 | **Social Media** | Envy, anger, validation-seeking | Liên tục / Continuous |
 | **Wars/Disasters** | Mass fear, grief, trauma | Cực cao / Extreme |

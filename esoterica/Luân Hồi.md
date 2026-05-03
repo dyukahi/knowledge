@@ -33,7 +33,7 @@ status: refined
 | View | Description |
 |------|-------------|
 | **School** | Trường học để linh hồn tiến hóa / School for soul evolution |
-| **Opportunity** | Trả [[Nhân Quả\|nghiệp]] / Pay karmic debts |
+| **Opportunity** | Trả [[Nhân Quả|nghiệp]] / Pay karmic debts |
 | **Path** | Pathway to enlightenment |
 | **Human birth** | Precious opportunity / Cơ hội quý báu |
 
@@ -42,7 +42,7 @@ status: refined
 | View | Description |
 |------|-------------|
 | **Prison planet** | Soul trap / Bẫy linh hồn |
-| **[[Tà Linh (Energy Parasites)\|Archons]]** | Harvest energy / Thu hoạch năng lượng |
+| **[[Tứ Linh|Archons]]** | Harvest energy / Thu hoạch năng lượng |
 | **Forced rebirth** | Enslavement / Nô lệ hóa |
 | **"Tunnel of light"** | Deception? / Lừa dối? |
 

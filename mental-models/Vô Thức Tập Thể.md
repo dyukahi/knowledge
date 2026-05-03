@@ -58,7 +58,7 @@ status: refined
 
 | Person | Claim |
 |--------|-------|
-| **[[Nikola Tesla (Tần Số và Rung Động)\|Nikola Tesla]]** | "I am a receiver" / "Tôi là bộ thu" |
+| **[[Nikola Tesla]]** | "I am a receiver" / "Tôi là bộ thu" |
 | **Ramanujan** | Math formulas from goddess |
 | **Mozart** | Heard complete symphonies |
 | **[[Walter Russell]]** | 39-day illumination |
