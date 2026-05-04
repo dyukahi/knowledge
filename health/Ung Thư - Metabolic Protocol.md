@@ -197,22 +197,14 @@ flowchart LR
 
 ```mermaid
 flowchart TD
-    subgraph "1. Giải Giáp"
-        A1["Ivermectin"] --> A2["Phá lớp bảo vệ"]
-        A3["Mebendazole"] --> A2
-    end
+    A1["Ivermectin"] --> A2["Phá lớp bảo vệ"]
+    A3["Mebendazole"] --> A2
     
-    subgraph "2. Liver Support"
-        B1["NAC + Milk Thistle"] --> B2["Giải độc thuốc"]
-    end
+    B1["NAC + Milk Thistle"] --> B2["Giải độc thuốc"]
     
-    subgraph "3. Immunity"
-        C1["D3 + Zinc + C"] --> C2["Immune cells tấn công"]
-    end
+    C1["D3 + Zinc + C"] --> C2["Immune cells tấn công"]
     
-    subgraph "4. Starve"
-        D1["Keto/Fasting"] --> D2["Cắt năng lượng"]
-    end
+    D1["Keto/Fasting"] --> D2["Cắt năng lượng"]
     
     A2 --> C2
     D2 --> E["Ung thư chết đói + bị tiêu diệt"]
