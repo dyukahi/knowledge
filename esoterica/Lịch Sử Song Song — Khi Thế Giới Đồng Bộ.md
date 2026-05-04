@@ -350,10 +350,24 @@ WWII     → United Nations     → IMF, World Bank
 - Mendel (1866 → 1900)
 - Tartaria (1800s → bị xóa → nay tái khám phá?)
 
-### 3. Supply Chain Ẩn
+### 3. Supply Chain Ẩn — Ajinomoto
 
-- Ajinomoto: Bột ngọt → Chip
-- Không có Ajinomoto = Không có iPhone, GPU, AI
+| Năm | Sự kiện |
+|-----|---------|
+| 1908 | Ikeda phát hiện **UMAMI** từ rong biển |
+| 1909 | Thành lập Ajinomoto (bột ngọt) |
+| 1996 | Nghiên cứu **ABF** (Ajinomoto Build-up Film) |
+| 1999 | ABF thương mại hóa |
+| Hiện tại | ABF chiếm **~100% thị phần** vật liệu cách điện chip cao cấp |
+
+**Công nghệ:**
+- Sử dụng **amino acid** (umami) làm nền tảng
+- Ứng dụng **tỷ lệ vàng** để làm màng phim cách điện
+- Tăng hiệu suất chip bán dẫn
+
+> **Không có Ajinomoto = Không có iPhone, GPU, AI servers.**
+
+Từ gia vị nấu ăn → Chip Intel, AMD, Nvidia. Supply chain ẩn nhất thế giới.
 
 ### 4. Vẻ Ngoài vs Thực Tế
 
