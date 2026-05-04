@@ -366,6 +366,90 @@ Axial Age cho thấy: Khi đến lúc, **cả thế giới thức tỉnh cùng l
 
 ---
 
+## Elite & Ý Đồ Thống Nhất Thế Giới
+
+### Timeline "New World Order"
+
+| Năm | Sự kiện | Ý nghĩa |
+|-----|---------|---------|
+| **1776** | Illuminati thành lập (Bavaria) | Tổ chức bí mật đầu tiên với mục tiêu "enlightenment" |
+| **1913** | Federal Reserve | Kiểm soát tiền tệ Mỹ |
+| **1919** | League of Nations | Thử nghiệm chính phủ thế giới lần 1 → **THẤT BẠI** |
+| **1944** | Bretton Woods + IMF + World Bank | Kiểm soát tài chính toàn cầu |
+| **1945** | United Nations | Thử nghiệm chính phủ thế giới lần 2 |
+| **1971** | Nixon Shock | USD thoát khỏi vàng → in tiền vô hạn |
+| **1991** | Bush Sr. tuyên bố "New World Order" | Công khai mục tiêu |
+| **2020** | "Great Reset" (WEF) | Thử nghiệm lần 3? |
+
+### Pattern Lặp Lại
+
+```
+KHỦNG HOẢNG → GIẢI PHÁP → TẬP TRUNG QUYỀN LỰC
+
+WWI      → League of Nations  → Thất bại
+WWII     → United Nations     → IMF, World Bank
+2008     → Bail out           → Fed mở rộng
+2020     → Pandemic           → Digital ID, CBDC?
+```
+
+> **Mỗi khủng hoảng** là cơ hội để Elite đề xuất "giải pháp" tập trung quyền lực hơn.
+
+---
+
+## Tại Sao Axial Age? — Awakening vs Control
+
+### Câu Hỏi Lớn
+
+Tại sao **cùng một thời điểm** (~500 TCN):
+- Phật ở Ấn Độ
+- Khổng Tử, Lão Tử ở Trung Quốc
+- Pythagoras, Socrates ở Hy Lạp
+- Zoroaster ở Ba Tư
+- Các tiên tri Hebrew
+
+...tất cả đều xuất hiện và dạy về **giác ngộ, đạo đức, tự do nội tâm**?
+
+### Giả Thuyết
+
+**1. Đế chế mở rộng → Con người thức tỉnh**
+
+| Thời kỳ | Đế chế | Phản ứng |
+|---------|--------|----------|
+| 500 TCN | Ba Tư, Trung Hoa, Hy Lạp mở rộng | Các triết gia dạy về tự do nội tâm |
+| 0-300 CE | La Mã thống trị | Chúa Jesus, Gnosticism |
+| 1500-1800 | Thuộc địa hóa | Reformation, Enlightenment |
+| 2020+ | Globalism, AI | ??? |
+
+**2. Khi Control tăng → Awakening cũng tăng**
+
+```
+         CONTROL (Elite)
+              ↑
+    ──────────┼──────────→ TIME
+              ↓
+         AWAKENING (Masses)
+```
+
+Có vẻ như: **Mỗi khi Elite cố gắng tập trung quyền lực, một làn sóng thức tỉnh tâm linh cũng xuất hiện để cân bằng.**
+
+**3. Cycle — Không phải coincidence**
+
+Theo [[Vận Chín]] và các cycle lịch sử:
+- Axial Age cách đây ~2500 năm
+- "Second Axial Age" đang diễn ra?
+- Pattern: Elite push → Awakening counter
+
+### Bài Học
+
+> **Họ cần khủng hoảng để thống nhất.**
+> **Chúng ta cần thức tỉnh để tự do.**
+
+Axial Age cho thấy: Khi đế chế mở rộng và kiểm soát tăng, con người tự động tìm đến **tâm linh và triết học** như một cách để giữ tự do nội tâm.
+
+**Pattern:** Control ↔ Awakening — luôn song song.
+
+---
+
 ## Related
 
 ### Vault Connections
