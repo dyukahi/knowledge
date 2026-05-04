@@ -301,6 +301,47 @@ Trong khi phương Tây đã vận hành thị trường vốn phức tạp...
 
 ---
 
+### Titanic, Fed & Tiền Tệ — Conspiracy Timeline
+
+**Timeline đáng ngờ:**
+
+| Ngày | Sự kiện |
+|------|---------|
+| **11/1910** | Họp bí mật **Jekyll Island** — JP Morgan, Rockefeller, Kuhn Loeb lên kế hoạch Fed |
+| **15/4/1912** | **Titanic chìm** |
+| **23/12/1913** | **Federal Reserve Act** được ký — 20 tháng sau Titanic |
+
+**Ai chết trên Titanic?**
+
+| Tên | Net worth (1912) | Ghi chú |
+|-----|------------------|---------|
+| **John Jacob Astor IV** | $87M (~$3B today) | Người giàu nhất trên tàu |
+| **Benjamin Guggenheim** | $95M | Gia tộc mining |
+| **Isidor Straus** | $50M | Chủ Macy's |
+
+Cả 3 được cho là **PHẢN ĐỐI** việc lập Federal Reserve.
+
+**Ai KHÔNG lên tàu?**
+
+**JP Morgan** — người **SỞ HỮU** White Star Line (công ty của Titanic) — hủy chuyến vào phút chót với lý do "bệnh". Sau đó được thấy ở Pháp với tình nhân.
+
+**Tiền tệ thay đổi sau đó:**
+
+```
+1910 ─── Jekyll Island (bí mật lập kế hoạch)
+1912 ─── Titanic chìm
+1913 ─── Federal Reserve Act
+1914 ─── Fed hoạt động
+1944 ─── Bretton Woods (USD neo vàng $35/oz)
+1971 ─── Nixon Shock (bỏ neo vàng)
+1974 ─── Petrodollar (dầu = USD)
+2009 ─── Bitcoin ra đời
+```
+
+> **Coincidence?** Hay lịch sử tiền tệ được "thiết kế"?
+
+---
+
 ## Pattern — Bài Học Từ Lịch Sử
 
 ### 1. Thức Tỉnh Đồng Bộ
@@ -319,6 +360,10 @@ Axial Age cho thấy: Khi đến lúc, **cả thế giới thức tỉnh cùng l
 - Ajinomoto: Bột ngọt → Chip
 - Những thứ quan trọng nhất thường **ẩn giấu**
 
+### 5. Tiền Tệ & Quyền Lực
+- Titanic → Fed → Nixon Shock → Petrodollar
+- Ai kiểm soát tiền, kiểm soát thế giới
+
 ---
 
 ## Related
@@ -328,6 +373,7 @@ Axial Age cho thấy: Khi đến lúc, **cả thế giới thức tỉnh cùng l
 - [[Khoa Học Xét Lại]] — Truth bị ignore vì không hợp mainstream
 - [[Ma Trận]] — Supply chain ẩn, control systems
 - [[Vận Chín]] — Cycles trong lịch sử
+- [[Bitcoin]] — Phản ứng với hệ thống tiền tệ fiat
 
 ### External
 - Karl Jaspers — "The Origin and Goal of History" (Axial Age concept)
