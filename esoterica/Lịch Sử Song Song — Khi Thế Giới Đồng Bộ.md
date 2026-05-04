@@ -366,6 +366,87 @@ Axial Age cho thấy: Khi đến lúc, **cả thế giới thức tỉnh cùng l
 
 ---
 
+## Tartaria & Old World — Lịch Sử Bị Xóa?
+
+### Tartary Trên Bản Đồ Cổ
+
+**Fact không thể phủ nhận:**
+- Bản đồ từ **1482 đến ~1800s** đều ghi "Tartary" hoặc "Grande Tartarie"
+- Library of Congress lưu giữ bản đồ 1757: *"Map of the Great Tartary"*
+- Sau 1800s: Tartary **biến mất** khỏi bản đồ, thay bằng "Russia", "China"
+
+| Giai đoạn | Trên bản đồ |
+|-----------|-------------|
+| 1400s-1700s | **Tartary** — đế chế khổng lồ từ Đông Âu đến Thái Bình Dương |
+| 1800s | Dần biến mất |
+| 1900s+ | Không còn, chỉ còn "Russia", "China", "Central Asia" |
+
+### Người Tát-ta (Tatar) Trong Lịch Sử Việt Nam?
+
+Sử Việt gọi quân Mông Cổ xâm lược nhà Trần là **"quân Thát"** hoặc **"Nguyên Mông"**. 
+
+**Tatar = Tartar = Thát Đát?**
+
+| Tên gọi | Nguồn |
+|---------|-------|
+| **Tatar** | Tiếng Nga/Châu Âu |
+| **Tartar** | Tiếng Anh (thêm "r") |
+| **Thát Đát / Đát Đát** | Phiên âm Hán-Việt |
+
+> Trần Hưng Đạo 3 lần đánh tan quân Nguyên Mông — hay **Tartar**?
+
+### Vạn Lý Trường Thành — Chống Ai?
+
+**Mainstream:** Trung Quốc xây để chống "rợ phương Bắc" (Mongol, Xiongnu...)
+
+**Câu hỏi:**
+
+| Anomaly | Chi tiết |
+|---------|----------|
+| **Một số đoạn có lỗ châu mai 2 phía** | Tại sao phòng thủ cả phía Nam (phía Trung Quốc)? |
+| **Marco Polo không đề cập** | Ông qua TQ thế kỷ 13 nhưng không nhắc Vạn Lý Trường Thành |
+| **Đa số được xây thời Minh (1368-1644)** | Sau khi Mông Cổ đã suy yếu |
+
+**Góc nhìn Tartaria:**
+
+> "Vạn Lý Trường Thành được xây bởi Tartaria để ngăn người Trung Hoa, không phải ngược lại."
+
+Không có bằng chứng cụ thể, nhưng đây là câu hỏi đáng suy nghĩ.
+
+### Mud Flood & Reset 1800s?
+
+**"Bằng chứng" được đưa ra:**
+
+| Hiện tượng | Mô tả |
+|------------|-------|
+| **Tòa nhà bị chôn một nửa** | Nhiều tòa nhà cổ ở Mỹ, Châu Âu có tầng hầm từng là tầng trệt |
+| **Orphan Trains (1854-1929)** | 250,000 trẻ mồ côi được gửi từ Đông sang Tây nước Mỹ — cha mẹ đâu? |
+| **Star Forts** | Hàng ngàn pháo đài hình sao trên toàn thế giới — cùng thiết kế |
+| **Kiến trúc "quá đẹp"** | Tòa nhà 1800s-1900s đẹp phi thường, sau đó kiến trúc đột ngột xấu đi |
+
+**Timeline nghi vấn:**
+
+```
+1800s ─── "Mud Flood" / Great Reset?
+          ↓
+       Tartary biến mất khỏi bản đồ
+          ↓
+       Hàng trăm ngàn trẻ mồ côi
+          ↓
+       Lịch sử được "viết lại"?
+```
+
+### Điểm Lịch Sử Bị "Tweak"?
+
+| Thời điểm | Sự kiện chính thức | Câu hỏi |
+|-----------|-------------------|---------|
+| **~1800s** | Tartary "hợp nhất" vào Russia/China | Hay bị xóa sổ? |
+| **1812** | Napoleon tấn công Russia | Hay tấn công Tartaria? |
+| **1850s-1900s** | "World Fairs" với kiến trúc khổng lồ | Xây trong vài tháng? Hay đã có sẵn? |
+| **1900s** | Phá hủy hầu hết tòa nhà World Fair | Tại sao phá? |
+
+---
+
 ## Elite & Ý Đồ Thống Nhất Thế Giới
 
 ### Timeline "New World Order"
@@ -458,6 +539,7 @@ Axial Age cho thấy: Khi đế chế mở rộng và kiểm soát tăng, con ng
 - [[Ma Trận]] — Supply chain ẩn, control systems
 - [[Vận Chín]] — Cycles trong lịch sử
 - [[Bitcoin]] — Phản ứng với hệ thống tiền tệ fiat
+- [[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]] — Lost civilizations
 
 ### External
 - Karl Jaspers — "The Origin and Goal of History" (Axial Age concept)
