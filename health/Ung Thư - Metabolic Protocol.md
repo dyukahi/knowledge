@@ -28,17 +28,16 @@ Hướng dẫn toàn diện về ung thư từ góc nhìn **chuyển hóa (metab
 
 ### Warburg Effect (Nobel Prize 1931)
 
-```mermaid
-flowchart TD
-    A["Ti thể khỏe mạnh"] --> B["Đốt Glucose + O2"]
-    B --> C["36 ATP / glucose"]
-    C --> D["Hiệu quả cao"]
-    
-    E["Ti thể bị damage"] --> F["Sống sót → Chuyển Glycolysis"]
-    F --> G["Lên men đường (không cần O2)"]
-    G --> H["2 ATP / glucose"]
-    H --> I["Cần RẤT NHIỀU đường"]
-    I --> J["Phân chia điên cuồng"]
+**Ti thể khỏe mạnh:**
+```
+Glucose + O₂ → 36 ATP (hiệu quả cao)
+```
+
+**Ti thể bị damage (ung thư):**
+```
+Glucose → Glycolysis (không cần O₂) → 2 ATP (kém hiệu quả)
+         ↓
+    Cần RẤT NHIỀU đường → Phân chia điên cuồng
 ```
 
 **Tóm lại:**
@@ -61,11 +60,11 @@ flowchart TD
 
 ### Nguồn Vi nhựa & Hóa chất Hàng Ngày
 
-- 🫖 Trà túi lọc (microplastic)
-- 🥤 Ly nhựa, chai nhựa
-- 🍜 Nước lèo bún phở đựng bịch nilon
-- 🍳 Chảo chống dính (PFAS)
-- 🧴 Mỹ phẩm, kem chống nắng
+- Trà túi lọc (microplastic)
+- Ly nhựa, chai nhựa
+- Nước lèo bún phở đựng bịch nilon
+- Chảo chống dính (PFAS)
+- Mỹ phẩm, kem chống nắng
 
 ---
 
@@ -94,16 +93,12 @@ flowchart TD
 
 ### Overview: 4 Trụ Cột
 
-```mermaid
-flowchart LR
-    A["1. GIẢI GIÁP"] --> B["2. HỖ TRỢ GAN"]
-    B --> C["3. TĂNG ĐỀ KHÁNG"]
-    C --> D["4. CHẾ ĐỘ ĂN"]
-    
-    A1["Ivermectin + Mebendazole"] --> A
-    B1["NAC + Milk Thistle"] --> B
-    C1["D3 + C + Zinc + Lactoferrin"] --> C
-    D1["Keto / Low-fat / Anti-BCAA"] --> D
+```
+1. GIẢI GIÁP ──────► 2. HỖ TRỢ GAN ──────► 3. TĂNG ĐỀ KHÁNG ──────► 4. CHẾ ĐỘ ĂN
+      │                     │                      │                       │
+      ▼                     ▼                      ▼                       ▼
+  Ivermectin          NAC + Milk              D3 + C + Zinc           Keto / Low-fat
+  Mebendazole          Thistle               Lactoferrin             Anti-BCAA
 ```
 
 ---
@@ -180,11 +175,12 @@ Sau khi ung thư bị "giải giáp", hệ miễn dịch sẽ đi dọn dẹp.
 
 #### Chiến Lược Rotate
 
-```mermaid
-flowchart LR
-    A["Tuần 1-2: Keto nghiêm ngặt"] --> B["Tuần 3: Low-fat"]
-    B --> C["Tuần 4: Anti-BCAA (plant-based)"]
-    C --> D["Repeat / Adjust"]
+```
+Tuần 1-2         Tuần 3          Tuần 4           Repeat
+    │               │               │               │
+    ▼               ▼               ▼               ▼
+Keto nghiêm   →  Low-fat    →  Anti-BCAA    →  Điều chỉnh
+   ngặt                       (plant-based)     theo đáp ứng
 ```
 
 > **Tài liệu chi tiết:** [Dr. Berg - 5 Diet Strategies for Cancer Care](https://www.drberg.com/wp-content/uploads/2026/04/5-Diet-Strategies-for-Cancer-Care_03.04.26-low.pdf)
@@ -195,36 +191,39 @@ flowchart LR
 
 ### Synergy của 4 Trụ Cột
 
-```mermaid
-flowchart TD
-    subgraph "1. Giải Giáp"
-        A1["Ivermectin"] --> A2["Phá lớp bảo vệ"]
-        A3["Mebendazole"] --> A2
-    end
-    
-    subgraph "2. Liver Support"
-        B1["NAC + Milk Thistle"] --> B2["Giải độc thuốc"]
-    end
-    
-    subgraph "3. Immunity"
-        C1["D3 + Zinc + C"] --> C2["Immune cells tấn công"]
-    end
-    
-    subgraph "4. Starve"
-        D1["Keto/Fasting"] --> D2["Cắt năng lượng"]
-    end
-    
-    A2 --> C2
-    D2 --> E["Ung thư chết đói + bị tiêu diệt"]
-    C2 --> E
+```
+┌─────────────────┐    ┌─────────────────┐
+│  1. GIẢI GIÁP   │    │  2. LIVER       │
+│  Ivermectin     │    │  NAC + Milk     │
+│  Mebendazole    │    │  Thistle        │
+│        │        │    │        │        │
+│        ▼        │    │        ▼        │
+│  Phá lớp bảo vệ │    │  Giải độc thuốc │
+└────────┬────────┘    └─────────────────┘
+         │
+         ▼
+┌─────────────────┐    ┌─────────────────┐
+│  3. IMMUNITY    │    │  4. STARVE      │
+│  D3 + Zinc + C  │    │  Keto/Fasting   │
+│        │        │    │        │        │
+│        ▼        │    │        ▼        │
+│ Immune tấn công │    │ Cắt năng lượng  │
+└────────┬────────┘    └────────┬────────┘
+         │                      │
+         └──────────┬───────────┘
+                    ▼
+         ╔═══════════════════════╗
+         ║  UNG THƯ CHẾT ĐÓI +   ║
+         ║     BỊ TIÊU DIỆT      ║
+         ╚═══════════════════════╝
 ```
 
 ---
 
 ## Cảnh Báo & Lưu Ý / Warnings
 
-| ⚠️ Risk | Mô tả |
-|---------|-------|
+| Risk | Mô tả |
+|------|-------|
 | **Không thay thế điều trị chính thống** | Protocol này là **bổ sung**, không phải thay thế |
 | **Cần xét nghiệm** | Xác định loại ung thư để chọn chế độ ăn đúng |
 | **Theo dõi gan** | Ivermectin + Mebendazole liều cao cần support gan |
