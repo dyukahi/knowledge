@@ -179,6 +179,9 @@ Pattern: **Thuốc tẩy giun/ký sinh → Chống ung thư** ?
 
 ## Related
 
+### Protocol
+- [[Ung Thư - Metabolic Protocol]] — Full protocol: Giải giáp + Liver support + Immunity + Diet
+
 ### Health / Sức khỏe
 - [[Suramin]] — Anti-parasitic, Third Eye
 - [[Thuyết Vi Sinh Nội Sinh]] — Terrain theory
