@@ -85,8 +85,8 @@ flowchart TD
 | Hành động | Mục đích |
 |-----------|----------|
 | **Giữ đường huyết thấp** | Không cho "thức ăn" |
-| **Prolonged fasting** | Bỏ đói ung thư, bật autophagy |
-| **Ketosis** | Đốt mỡ thay đường |
+| **Prolonged fasting** (nhịn ăn kéo dài) | Bỏ đói ung thư, bật autophagy |
+| **Ketosis** (chế độ keto) | Đốt mỡ thay đường |
 
 ---
 
