@@ -336,7 +336,8 @@ Mà là: **Cái gì đang THẤY tất cả những thứ đó?**
 
 ### Cosmic Structure
 - [[Bức Tường Băng]] — Ice Wall Manifesto
-- [[Vũ Trụ Học Phật Giáo]] — Các cõi, Yugas
+- [[Vũ Trụ Học Phật Giáo]] — 6 cõi, Kinh Thế Ký
+- [[Chu Kỳ Vũ Trụ — Yugas & Kalpas]] — Hindu Yugas, Buddhist Kalpas
 - [[Năng Lượng Aether]] — Công nghệ Old World
 
 ### Thực Thể Kiểm Soát / Control Entities

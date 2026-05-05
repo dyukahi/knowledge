@@ -69,6 +69,7 @@ Luân hồi được xem là cơ chế cân bằng của tạo hóa, vận hành
 
 ## Related
 
+- [[Chu Kỳ Vũ Trụ — Yugas & Kalpas]] — Kalpas, chu kỳ Thành-Trụ-Hoại-Không
 - [[Atlantis]]
 - [[Lemuria]]
 - [[Luân Hồi]]
