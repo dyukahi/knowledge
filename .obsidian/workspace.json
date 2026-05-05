@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "esoterica/Một Đời Phù Vân.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Một Đời Phù Vân"
             }
           }
         ]
@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "ed9a3e3a379db6d9",
+  "active": "5c87cf7e2b1e27ca",
   "lastOpenFiles": [
+    "README.md",
     "esoterica/Phong Thủy.md",
     "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
     "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
@@ -192,7 +193,6 @@
     "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
     "claude.md",
     "index.md",
-    "README.md",
     "Untitled 1.base",
     "Untitled.base",
     "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
