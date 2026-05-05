@@ -26,31 +26,32 @@ Theo [[Bức Tường Băng|Ice Wall Manifesto]], toàn bộ tạo hóa nằm tr
 
 ```mermaid
 flowchart TB
-    subgraph CE["COSMIC EGG / TRỨNG VŨ TRỤ"]
-        SUN["Nguồn Sáng Trung Tâm / Central Light Source"]
-        
-        subgraph SW1["Snowman 1"]
-            E1["EARTH - gần sáng / near light"]
-            A1["ATLAS - tầng giữa / middle"]
-            K1["AKUPARA - xa sáng / far from light"]
-        end
-        
-        subgraph SW2["Snowman 2"]
-            E2["EARTH"]
-            A2["ATLAS"]
-            K2["AKUPARA"]
-        end
-        
-        subgraph SW3["...vô hạn / infinite..."]
-            E3["..."]
-        end
-    end
+    SUN["Nguồn Sáng Trung Tâm / Central Light Source"]
+    
+    E1["EARTH 1"]
+    E2["EARTH 2"]
+    E3["EARTH 3"]
+    E4["...vô hạn / infinite..."]
     
     SUN --> E1
     SUN --> E2
     SUN --> E3
-    E1 --> A1 --> K1
-    E2 --> A2 --> K2
+    SUN --> E4
+```
+
+Mỗi Earth là một thế giới riêng biệt. **Vô lượng thế giới** như Đức Phật thấy — mỗi hạt cát chứa tam thiên đại thiên thế giới.
+
+*Each Earth is a separate world. Infinite worlds as Buddha saw — each grain of sand contains universes.*
+
+**Cấu trúc Earth của chúng ta** (1 trong vô số):
+
+```mermaid
+flowchart TD
+    E["EARTH - gần sáng / near light<br/>Vật chất CAO / Tâm linh THẤP"]
+    A["ATLAS - tầng giữa / middle"]
+    K["AKUPARA - xa sáng / far from light<br/>Vật chất THẤP / Tâm linh CAO"]
+    
+    E --> A --> K
 ```
 
 **Logic quan trọng / Key Logic:**
