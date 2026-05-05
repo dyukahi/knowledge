@@ -175,11 +175,28 @@ Nếu lấy **công trình cổ làm mốc**, các quốc gia có Star Forts/Old
 
 ## IV. Timeline Thống Nhất / Unified Timeline
 
+### ~12,000 TCN: Younger Dryas & Đại Hồng Thủy / Great Flood
+
+- **~12,800 TCN:** Younger Dryas bắt đầu — Trái Đất lạnh đột ngột
+- **~11,600 TCN:** Băng tan, Đại Hồng Thủy — mực nước biển +120m
+- **Göbekli Tepe** bị chôn lấp có chủ đích
+- Giants (9-30m) → Post-Flood Giants (3-9m)
+
+### ~2900-2500 TCN: Văn Minh Cổ Đại Song Song / Ancient Civilizations
+
+| Năm / Year | Việt Nam | Thế giới / World |
+|------------|----------|------------------|
+| ~2879 TCN | Vua Hùng lập **Văn Lang** | — |
+| ~2560 TCN | — | **Kim tự tháp Giza** xây |
+| ~2500 TCN | — | Stonehenge, Indus Valley |
+
+> **Note:** Văn Lang có trước Giza ~300 năm.
+
 ### ~800-200 TCN: Axial Age — Thức Tỉnh Toàn Cầu / Global Awakening
 
-Sau Bronze Age Collapse và 400 năm Greek Dark Ages, **cả thế giới "thức tỉnh" triết học cùng lúc**.
+Sau Bronze Age Collapse, **cả thế giới "thức tỉnh" triết học cùng lúc**.
 
-*After Bronze Age Collapse and 400 years of Greek Dark Ages, the entire world "awakened" philosophically at once.*
+*After Bronze Age Collapse, the entire world "awakened" philosophically at once.*
 
 | Nhân vật / Figure | Năm sinh / Born | Nơi / Place |
 |-------------------|-----------------|-------------|
@@ -189,9 +206,25 @@ Sau Bronze Age Collapse và 400 năm Greek Dark Ages, **cả thế giới "thứ
 | Lão Tử / Laozi | ~6th c. TCN | Trung Quốc / China |
 | Socrates | 470 TCN | Hy Lạp / Greece |
 
-> **Pattern:** Mỗi khi Elite tập trung quyền lực → Làn sóng thức tỉnh xuất hiện để cân bằng.
+> **Pattern:** Mỗi khi Elite tập trung quyền lực → Làn sóng thức tỉnh xuất hiện.
 >
-> *When Elite consolidates power → Awakening wave emerges to balance.*
+> *When Elite consolidates power → Awakening wave emerges.*
+
+### ~740-1048 CN: Khazaria
+
+| Năm / Year | Sự kiện / Event |
+|------------|-----------------|
+| ~650 CN | Khazaria hình thành (đế chế Turkic) |
+| **~740 CN** | Elite Khazar **cải đạo Do Thái** |
+| 1048 CN | Khazaria sụp đổ → di cư sang Đông Âu |
+
+### 1258-1288: Đại Việt vs Mông Cổ / Vietnam vs Mongols
+
+- **1258:** Trận thứ nhất — Đại Việt thắng
+- **1285:** Trận thứ hai — Đại Việt thắng
+- **1288:** Trận Bạch Đằng — **Trần Hưng Đạo** đại thắng
+
+> Đế chế Mông Cổ chinh phục gần như toàn bộ Eurasia, nhưng **thua Đại Việt 3 lần**.
 
 ### 1776-1789: Năm Của Cách Mạng / Year of Revolutions
 
@@ -200,34 +233,52 @@ Sau Bronze Age Collapse và 400 năm Greek Dark Ages, **cả thế giới "thứ
 - Mỹ tuyên bố độc lập / US Declaration of Independence
 
 **Cùng năm 1789 / Same year 1789:**
-- **Quang Trung** đại phá quân Thanh
+- **Quang Trung** đại phá quân Thanh (Ngọc Hồi)
 - **Washington** nhậm chức Tổng thống
 - **Cách mạng Pháp** phá ngục Bastille
 
-### 1946-1959: Antarctic Treaty
+### 1800s: Tartary Biến Mất & Mudflood?
 
 | Năm / Year | Sự kiện / Event |
 |------------|-----------------|
-| 1946-1947 | **Operation Highjump** — Đô đốc Byrd dẫn 4,700 quân đến Nam Cực |
-| 1947 | Byrd thấy "vùng đất bên ngoài cực", "lục địa lớn bằng châu Mỹ" |
-| 1947 | Chiến dịch **rút lui sớm** — tại sao? |
-| 1/12/1959 | **Antarctic Treaty** — 12 quốc gia, cấm khám phá tự do |
+| 1800s | Tartary dần biến mất khỏi bản đồ |
+| 1854-1929 | **Orphan Trains** — 250,000 trẻ mồ côi ở Mỹ |
+| 1893, 1915 | **World Fairs** — kiến trúc khổng lồ, xây vài tháng rồi phá? |
 
-> **Câu hỏi / Question:** Mỹ-Liên Xô đối đầu khắp nơi, nhưng lại **hợp tác** ở Nam Cực? Có gì cần **canh giữ**?
->
-> *US-USSR opposed everywhere, but cooperated in Antarctica? What needs guarding?*
+### 1907-1945: Hitler — Con Bài Được Chọn? / A Chosen Pawn?
 
-### Hitler: Con Bài Được Chọn? / A Chosen Pawn?
+| Năm / Year | Sự kiện / Event |
+|------------|-----------------|
+| 1907-1908 | Hitler bị reject trường mỹ thuật Vienna 2 lần |
+| 11/1910 | Họp bí mật Jekyll Island — kế hoạch Federal Reserve |
+| 15/4/1912 | **Titanic** chìm — 3 người phản đối Fed đều chết |
+| 23/12/1913 | **Federal Reserve Act** được ký |
+| 1914-1918 | **WWI** → League of Nations (thất bại) |
+| 1933 | Hitler lên nắm quyền (Prescott Bush tài trợ?) |
+| 1939-1945 | **WWII** → UN, IMF, World Bank (thành công) |
 
 ```mermaid
 flowchart LR
-    WWI["WWI"] --> LON["League of Nations - THẤT BẠI"]
-    WWII["WWII (Hitler)"] --> UN["UN, IMF, World Bank - THÀNH CÔNG"]
+    WWI["WWI 1914-1918"] --> LON["League of Nations - THẤT BẠI"]
+    WWII["WWII 1939-1945"] --> UN["UN, IMF, World Bank - THÀNH CÔNG"]
 ```
 
 > **Pattern:** KHỦNG HOẢNG → GIẢI PHÁP → TẬP TRUNG QUYỀN LỰC
 >
 > *CRISIS → SOLUTION → POWER CENTRALIZATION*
+
+### 1946-1959: Antarctica — Bí Mật Được Canh Giữ / Guarded Secret
+
+| Năm / Year | Sự kiện / Event |
+|------------|-----------------|
+| 1946-1947 | **Operation Highjump** — Đô đốc Byrd, 4,700 quân, 13 tàu |
+| 1947 | Byrd thấy "vùng đất bên ngoài cực", "lục địa lớn bằng châu Mỹ" |
+| 1947 | Chiến dịch **rút lui sớm** — tại sao? |
+| **1/12/1959** | **Antarctic Treaty** — 12 quốc gia, cấm khám phá tự do |
+
+> **Câu hỏi / Question:** Mỹ-Liên Xô đối đầu khắp nơi trong Cold War, nhưng lại **hợp tác** ở Nam Cực? Có gì cần **canh giữ**?
+>
+> *US-USSR opposed everywhere during Cold War, but cooperated in Antarctica? What needs guarding?*
 
 ---
 
