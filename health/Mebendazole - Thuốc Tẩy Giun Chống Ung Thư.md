@@ -127,6 +127,79 @@ Theo [[Thuyết Vi Sinh Nội Sinh]] và [[Kính Chiếu Yêu - Nhìn Thấu Tâ
 | Cancer = genetic mutation | Cancer = toxin accumulation + parasites |
 | MBZ = chemotherapy nhẹ | MBZ = detox + antiparasitic |
 
+---
+
+## Ký Sinh Trùng Thao Túng Hành Vi Vật Chủ / Parasite Mind Control
+
+Một trong những khám phá đáng kinh ngạc nhất: **ký sinh trùng có thể thay đổi hành vi, sở thích, thậm chí tâm lý của vật chủ** để phục vụ mục đích sinh tồn của chúng.
+
+*One of the most astonishing discoveries: parasites can alter the behavior, preferences, even psychology of their hosts to serve the parasite's survival.*
+
+### Các Ví Dụ Được Chứng Minh / Proven Examples
+
+| Ký sinh / Parasite | Vật chủ / Host | Hành vi bị thao túng / Manipulated Behavior |
+|--------------------|----------------|---------------------------------------------|
+| **Toxoplasma gondii** | Chuột → Mèo | Chuột **mất sợ mèo**, thậm chí bị hấp dẫn bởi mùi nước tiểu mèo |
+| **Ophiocordyceps** (nấm zombie) | Kiến | Kiến leo lên cao, cắn lá, chết để nấm phát tán bào tử |
+| **Dicrocoelium dendriticum** (sán lá gan) | Kiến → Bò | Kiến leo lên ngọn cỏ buổi tối, chờ bị bò ăn |
+| **Spinochordodes tellinii** (giun tóc) | Dế | Dế nhảy vào nước tự chết (giun cần nước để sinh sản) |
+| **Leucochloridium** (sán dẹp) | Ốc sên → Chim | Râu ốc phình lên, nhấp nháy như sâu để chim ăn |
+
+### Toxoplasma & Con Người / Toxoplasma in Humans
+
+**Toxoplasma gondii** không chỉ ảnh hưởng chuột — nó cũng nhiễm **30-50% dân số thế giới**:
+
+| Nghiên cứu / Study | Phát hiện / Finding |
+|--------------------|---------------------|
+| Flegr et al. | Người nhiễm T. gondii có **phản xạ chậm hơn**, dễ gặp tai nạn xe |
+| Nhiều nghiên cứu | Correlation với **risk-taking behavior**, thay đổi tính cách |
+| Case studies | Liên quan đến một số **rối loạn tâm thần**? |
+
+### Ký Sinh & Thèm Đường / Parasites & Sugar Cravings
+
+**Quan sát thực tế:** Nhiều người sau khi xổ giun báo cáo:
+- ✅ **Hết thèm ngọt** 
+- ✅ **Insulin ổn định hơn**
+- ✅ **Cân bằng năng lượng tốt hơn**
+
+**Giả thuyết:**
+
+```mermaid
+flowchart LR
+    P["Ký sinh trùng đường ruột<br/>Intestinal parasites"]
+    G["Tiêu thụ GLUCOSE<br/>của vật chủ"]
+    S["Tiết chất kích thích<br/>THÈM ĐƯỜNG"]
+    H["Vật chủ ăn nhiều đường hơn"]
+    F["Ký sinh được nuôi dưỡng"]
+    
+    P --> G --> S --> H --> F --> P
+```
+
+> **Sau khi xổ giun:** Không còn ký sinh → Không còn "tín hiệu" đòi đường → Hết thèm ngọt!
+
+### Implications — Nếu Đúng Thì Sao?
+
+| Câu hỏi | Possibility |
+|---------|-------------|
+| "Tại sao tôi thèm ngọt?" | Có thể không phải **bạn** thèm — mà **ký sinh** đang ra lệnh |
+| "Tại sao tôi có hành vi lạ?" | Một số hành vi có thể bị **thao túng** bởi ký sinh? |
+| "Xổ giun định kỳ?" | Có thể là **mental hygiene**, không chỉ physical |
+
+### Protocol Xổ Giun Định Kỳ / Regular Deworming Protocol
+
+| Thuốc | Liều | Cách dùng |
+|-------|------|-----------|
+| **Mebendazole 500mg** | 1 viên/ngày | 3 ngày liên tiếp |
+| **Thời điểm** | Sáng, bụng rỗng | Với dầu olive |
+| **Tần suất** | 2-4 lần/năm | Hoặc khi có dấu hiệu |
+
+**Dấu hiệu cần xổ giun:**
+- Thèm ngọt bất thường
+- Ngứa hậu môn (đặc biệt ban đêm)
+- Đau bụng không rõ nguyên nhân
+- Mệt mỏi, thiếu năng lượng
+- Nghiến răng khi ngủ
+
 ### Kết Nối Với Suramin
 
 [[Suramin]] cũng là thuốc anti-parasitic với tác dụng phụ là... chống ung thư và reset hệ thần kinh.
