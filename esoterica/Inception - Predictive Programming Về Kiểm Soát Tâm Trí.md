@@ -231,7 +231,7 @@ Cobb đã inception vợ (Mal) với idea "thế giới này không real" để 
 
 ### Tại Sao Elite Cần Disclose?
 
-Như đã discuss trong [[Nghịch Lý Của Hiểu Biết]]: **Karma requires disclosure.** 
+Như đã discuss trong [[Karma Disclosure - Truth Hidden In Plain Sight]]: **Karma requires disclosure.** 
 
 Nếu họ nói cho bạn (qua "fiction") và bạn không nghe → đó là **your choice**. Free will preserved.
 
