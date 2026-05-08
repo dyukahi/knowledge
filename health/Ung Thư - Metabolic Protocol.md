@@ -16,6 +16,86 @@ Hướng dẫn toàn diện về ung thư từ góc nhìn **chuyển hóa (metab
 
 ---
 
+## Thịt, Sữa & Bệnh Văn Minh / Meat, Dairy & Modern Disease
+
+### Conspiracy Đã Được Chứng Minh
+
+Từ năm **1971**, khi Nixon khởi động "War on Cancer", Mỹ đã phát hiện mối liên hệ giữa **thịt đỏ, sữa bò** và các bệnh **ung thư, tim mạch**. Nhưng thông tin này bị **ém nhẹm** bởi lobby ngành công nghiệp thực phẩm.
+
+*Since 1971, when Nixon launched the "War on Cancer", the US discovered the link between red meat, dairy and cancer, heart disease. But this information was suppressed by the food industry lobby.*
+
+### The China Study (T. Colin Campbell)
+
+| Phát hiện | Chi tiết |
+|-----------|----------|
+| **Nghiên cứu** | 20 năm, 6,500 người, 65 quận ở Trung Quốc |
+| **Kết luận** | Tiêu thụ animal products → tăng ung thư, tim mạch, tiểu đường |
+| **Casein (protein sữa)** | Bật/tắt tăng trưởng khối u như công tắc đèn |
+| **NY Times gọi** | "Grand Prix of Epidemiology" |
+
+### Thí Nghiệm Casein Trên Chuột
+
+```mermaid
+flowchart LR
+    A["Chuột + Aflatoxin<br>(chất gây ung thư)"] --> B["Nhóm 1: 5% Casein"]
+    A --> C["Nhóm 2: 20% Casein"]
+    B --> D["❌ Không có khối u<br>hoặc rất ít"]
+    C --> E["✅ Nhiều khối u<br>phát triển mạnh"]
+```
+
+**Kết luận:** Protein từ sữa bò (casein) hoạt động như **phân bón cho ung thư** — càng nhiều casein, khối u càng phát triển nhanh.
+
+### WHO/IARC 2015 — Bị Ép Phải Công Bố
+
+| Phân loại | Loại thực phẩm | Ý nghĩa |
+|-----------|----------------|---------|
+| **Group 1** | Thịt chế biến (xúc xích, bacon, ham) | **Gây ung thư ở người** (như thuốc lá, asbestos) |
+| **Group 2A** | Thịt đỏ (bò, heo, cừu) | **Có thể gây ung thư** |
+
+> 22 chuyên gia từ 10 quốc gia đã review **800+ nghiên cứu** để đi đến kết luận này.
+
+### Tại Sao Bị Ém Thông Tin?
+
+```mermaid
+flowchart TD
+    A["Dairy & Meat Lobby"] --> B["Tài trợ nghiên cứu"]
+    A --> C["Lobby chính phủ"]
+    A --> D["Kiểm soát USDA guidelines"]
+    
+    B --> E["Nghiên cứu có lợi được publish"]
+    C --> F["Chính sách 'Got Milk?' campaign"]
+    D --> G["Food Pyramid ưu tiên dairy"]
+    
+    E --> H["Công chúng không biết sự thật"]
+    F --> H
+    G --> H
+```
+
+**Stanford Study (2023):** Chứng minh meat & dairy lobby đã ảnh hưởng đến regulations và funding để bóp nghẹt cạnh tranh từ alternative products.
+
+### Cơ Chế: Axit + Độc Tố → U
+
+| Bước | Quá trình |
+|------|-----------|
+| 1 | Tiêu thụ thịt đỏ, sữa → tạo **môi trường axit** trong máu |
+| 2 | Axit + độc tố tích tụ tại **điểm yếu nhất** của cơ thể |
+| 3 | Tế bào tại đó bị stress → ti thể damage |
+| 4 | Ti thể chuyển sang **glycolysis** → ung thư hình thành |
+| 5 | Tiếp tục ăn thịt sữa = tiếp tục **nuôi khối u** |
+
+### Giải Pháp Gốc Rễ
+
+| Hành động | Tác dụng |
+|-----------|----------|
+| **Giảm/bỏ thịt đỏ + sữa bò** | Cắt nguồn axit, giảm casein |
+| **Ưu tiên plant-based** | Kiềm hóa cơ thể |
+| **Detox đường tiêu hóa** | Coffee enema, fiber, probiotics |
+| **Fasting định kỳ** | Autophagy — dọn dẹp tế bào hư |
+
+> **Nixon's War on Cancer đã thất bại** vì tập trung vào **chữa triệu chứng** (chemo, radiation) thay vì **chữa nguyên nhân** (diet). $200+ billion đã chi ra, tỷ lệ ung thư vẫn tăng.
+
+---
+
 ## Ung Thư Là Gì? / What Is Cancer?
 
 ### Mainstream View vs Metabolic View
@@ -235,7 +315,13 @@ flowchart TD
 ### Theory
 - [[Thuyết Vi Sinh Nội Sinh]] — Terrain theory
 - [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]] — Góc nhìn khác về ung thư
-- [[The China Study]] — Diet & cancer connection
+
+### Sources / Nguồn
+- **The China Study** (T. Colin Campbell, 2005) — 20-year study, 6,500 subjects
+- **WHO/IARC Monograph 2015** — Red meat Group 2A, Processed meat Group 1
+- **Forks Over Knives** (Documentary) — Casein & tumor growth
+- **Stanford Study 2023** — Meat & dairy industry lobby influence
+- **National Cancer Act 1971** — Nixon's "War on Cancer"
 
 ### Lifestyle
 - [[Prolonged Fasting]] — Autophagy activation
