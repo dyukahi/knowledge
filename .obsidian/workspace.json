@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+                "file": "esoterica/Gematria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Word Magic - Ngôn Ngữ Của Phù Thủy"
+              "title": "Gematria"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gema",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,6 +186,7 @@
   },
   "active": "ed9a3e3a379db6d9",
   "lastOpenFiles": [
+    "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
     "esoterica/Một Đời Phù Vân.md",
     "README.md",
     "esoterica/Phong Thủy.md",
@@ -212,7 +214,6 @@
     "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
     "mental-models/Nguyên Mẫu.md",
     "mental-models/Individuation.md",
-    "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
     "assets/flower-of-life-new.svg",
     "assets/flower-of-life.html",
     "assets/cymatics.jpg",

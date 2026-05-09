@@ -58,6 +58,24 @@ Trùng hợp? Hay thiết kế?
 
 *In Kabbalah tradition, Gematria is not just a tool — it is a path to the Divine. When two words in the Torah share the same numerical value, Rabbis believe they share a deep spiritual connection.*
 
+### Gematria Cổ Hơn English
+
+Đây là điểm quan trọng mà ít người nhận ra:
+
+| System | Timeline |
+|--------|----------|
+| Greek Isopsephy | ~500s TCN |
+| Hebrew Gematria | ~78 TCN |
+| **Modern English** | ~1500 **SCN** |
+
+**Gematria cổ hơn tiếng Anh hiện đại khoảng 2000 năm.**
+
+Điều này có nghĩa: Khi English được chuẩn hóa trong thời Renaissance — bởi Shakespeare, Francis Bacon, và các thành viên Rosicrucian — những người này **đã biết** Gematria. Họ là những adept trong Kabbalah và occult traditions.
+
+26 chữ cái trong English không phải ngẫu nhiên. **English được thiết kế để compatible với Gematria từ đầu.**
+
+→ Đọc thêm về English như ngôn ngữ của đế chế: **[[Word Magic - Ngôn Ngữ Của Phù Thủy#II.5. English — Ngôn Ngữ Của Đế Chế|Word Magic — English: Ngôn Ngữ Của Đế Chế]]**
+
 ---
 
 ## II. Các Hệ Thống — Nhiều Chiều, Một Ngôn Ngữ
@@ -69,7 +87,9 @@ Gematria không chỉ có một phương pháp. Có hàng chục hệ thống kh
 Đơn giản nhất. A=1, B=2, C=3... Z=26. Cộng các giá trị lại.
 
 **GOD** = 7 + 15 + 4 = **26**
+
 **LOVE** = 12 + 15 + 22 + 5 = **54**
+
 **FEAR** = 6 + 5 + 1 + 18 = **30**
 
 ### Reverse Ordinal
