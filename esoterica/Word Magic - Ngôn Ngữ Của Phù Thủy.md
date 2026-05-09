@@ -77,8 +77,103 @@ Khi bạn **spell** một từ, bạn đang:
 | **MORTGAGE** | MORT-GAGE | Death pledge (Pháp: mort = death) |
 | **CORPORATION** | CORP-ORATION | Corpse speaking (corp = body/corpse) |
 | **GOVERNMENT** | GOVERN-MENT | Control mind (Latin: gubernare + mente) |
+| **REGISTER** | RE-GISTER | Give back to the King (regis = king) |
+| **ATTORNEY** | ATTORN-EY | One who turns (over your rights) |
 
 *"Do you UNDERSTAND?" trong tòa án = "Mày có ĐỨNG DƯỚI quyền của tao không?"*
+
+---
+
+## Maritime Admiralty Law — Law of the Sea
+
+Đây là rabbit hole sâu nhất của Word Magic. Toàn bộ hệ thống pháp luật hiện đại dựa trên **Maritime/Admiralty Law** — luật hàng hải. Bạn là **hàng hóa trên con tàu** của nhà nước.
+
+*The deepest rabbit hole. The entire modern legal system is based on **Maritime/Admiralty Law** — law of the sea. You are **cargo on the ship** of the state.*
+
+### Birth = Berth (Cầu tàu)
+
+| Word | Maritime Meaning | Applied to You |
+|------|------------------|----------------|
+| **BIRTH** | BERTH | Nơi tàu đậu = Mẹ là dock |
+| **BIRTH CANAL** | CANAL | Con kênh mà tàu đi qua |
+| **DELIVERY** | DELIVER | Giao hàng — bạn được "delivered" |
+| **BIRTH CERTIFICATE** | MANIFEST | Giấy khai báo hàng hóa trên tàu |
+| **DOCTOR** | DOCK-TOR | Người ở dock nhận hàng |
+
+*Khi mẹ "delivers" bạn, doctor (dock-tor) sign manifest (birth certificate) cho hàng hóa mới.*
+
+### Water Words = Commerce
+
+| Word | Hidden |
+|------|--------|
+| **CURRENCY** | CURRENT-SEA | Dòng chảy của biển |
+| **CASH FLOW** | FLOW | Nước chảy |
+| **LIQUID ASSETS** | LIQUID | Chất lỏng |
+| **BANK** | RIVER BANK | Bờ sông — nơi điều hướng dòng tiền |
+| **FLOAT** | FLOAT | Tiền "nổi" trong hệ thống |
+| **FROZEN ASSETS** | FROZEN | Đóng băng |
+| **SLUSH FUND** | SLUSH | Tuyết tan |
+| **BAIL OUT** | BAIL | Tát nước ra khỏi tàu đang chìm |
+
+### Ship = You
+
+| Word | Hidden |
+|------|--------|
+| **CITIZENSHIP** | CITIZEN-SHIP | Bạn là hành khách trên tàu quốc gia |
+| **OWNERSHIP** | OWNER-SHIP | Tàu của chủ sở hữu |
+| **RELATIONSHIP** | RELATION-SHIP | Tàu quan hệ |
+| **PARTNERSHIP** | PARTNER-SHIP | Tàu hợp tác |
+| **MOTHERSHIP** | MOTHER-SHIP | Tàu mẹ (state) |
+| **WORSHIP** | WAR-SHIP / WORTH-SHIP | Tàu chiến / tàu giá trị |
+| **FELLOWSHIP** | FELLOW-SHIP | - |
+| **HARDSHIP** | HARD-SHIP | Tàu khó khăn |
+
+### The Docks
+
+| Word | Hidden |
+|------|--------|
+| **DOCK** (tòa án) | DOCK | Bạn đứng trong dock như hàng hóa |
+| **DOCKET** | DOCK-ET | Danh sách hàng hóa (vụ án) |
+| **DOCTOR** | DOCK-TOR | Người xử lý ở dock |
+| **DOCUMENT** | DOCK-U-MENT | Giấy tờ cho hàng hóa |
+
+### Product = You
+
+| Word | Hidden |
+|------|--------|
+| **PRODUCT** | PRO-DUCT | Qua ống dẫn (birth canal) |
+| **PRODUCE** | PRO-DUCE | Sản xuất qua duct |
+| **REPRODUCTION** | RE-PRO-DUCT | Sản xuất lại qua duct |
+
+### All Caps Name = Legal Fiction
+
+Tên bạn trong BIRTH CERTIFICATE viết IN HOA = **Legal fiction / Corporation** — không phải bạn (living man/woman).
+
+| Format | Meaning |
+|--------|---------|
+| **JOHN DOE** | Corporation / Dead entity / Cargo |
+| **John Doe** | Living man |
+| **John of the family Doe** | Sovereign identity |
+
+*Tòa án xử **JOHN DOE** (corporation), không phải John (living man). Đó là lý do họ luôn hỏi "Are you JOHN DOE?" — nếu bạn nói YES, bạn đồng ý mình là corporation.*
+
+### Why Maritime?
+
+Khi bạn sinh ra, bạn đi qua **WATER** (nước ối) → Land on shore → Trở thành **product** của **ship** (state).
+
+Vì bạn đến từ WATER, bạn chịu **LAW OF THE SEA** (Maritime Law), không phải **LAW OF THE LAND** (Common Law).
+
+*Because you came through WATER, you are under LAW OF THE SEA, not LAW OF THE LAND.*
+
+### Commercial Courts
+
+Tất cả tòa án hiện đại là **commercial courts** (tòa thương mại) xử lý **transactions** giữa **corporations**:
+
+- Quốc gia = Corporation
+- Công dân = Product/Employee của corporation
+- Vụ án = Commercial dispute
+
+*Đó là lý do tòa có cờ có **gold fringe** — biểu tượng của Admiralty jurisdiction.*
 
 ---
 
@@ -239,11 +334,13 @@ Khi bạn **biết** từ có power, bạn bắt đầu:
 
 ## Tài Liệu Tham Khảo / References
 
-- Jordan Maxwell — "Words of Power"
+- Jordan Maxwell — "Words of Power", "Maritime Admiralty Law"
 - Michael Tsarion — "Astro-Theology"
 - Manly P. Hall — "The Secret Teachings of All Ages"
 - Mark Passio — "Natural Law" (Etymology sections)
 - Zachary K. Hubbard — "Letters and Numbers" (Gematria)
+- Santos Bonacci — "Your Birth Certificate is a Bond"
+- Kate of Gaia — "Legal Name Fraud"
 
 ---
 
