@@ -166,6 +166,9 @@ Bạn không được xét xử như một con người. Bạn được xử lý
 
 ## VI. Gematria — Khi Chữ Cái Là Số
 
+> *"Symbolism is the language of the Mysteries."*
+> — [[Manly P. Hall]], 33rd Degree Freemason
+
 Nếu từ ngữ có sức mạnh, thì số ẩn trong từ ngữ còn mạnh hơn.
 
 **Gematria** là hệ thống gán giá trị số cho chữ cái, được sử dụng trong Kabbalah và các truyền thống occult. English Ordinal đơn giản nhất: A=1, B=2... Z=26.
@@ -191,6 +194,11 @@ Thí nghiệm Cymatics cho thấy điều kỳ diệu: Khi bạn cho tần số 
 ---
 
 ## VIII. Corporate Spell-Casting — Khi Công Ty Niệm Chú
+
+> *"When the mob governs, man is ruled by ignorance."*
+> — [[Manly P. Hall]]
+
+Và ignorance đó được duy trì qua corporate magic.
 
 ### Logos Là Sigils
 
@@ -260,6 +268,7 @@ Nhưng bây giờ bạn biết. Và biết là bước đầu tiên để tự d
 - **[[Ma Trận]]** — Ngôn ngữ là layer programming
 - **[[Kiểm Soát Tâm Trí]]** — Words as weapons
 - **[[UAP Disclosure - Controlled Revelation]]** — ALIEN = A Lie In
+- **[[Manly P. Hall]]** — 33rd Degree Mason, "The Secret Teachings of All Ages"
 
 ---
 
