@@ -139,9 +139,10 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 ### 🔮 Esoterica
 - ⭐ [[Nghịch Lý Của Hiểu Biết]] — Meta-level
 - 🌿 [[Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu]] — Existence essay
+- 🔥 [[Word Magic - Ngôn Ngữ Của Phù Thủy]] — Spelling, Maritime Law, Gematria
 - [[Sacred Geometry]] | [[Monad]] | [[Nhị Nguyên]]
 - [[Tartaria]] | [[Annunaki]] | [[Atlantis]] | [[Lemuria]]
-- [[Gematria]] | [[Saturn Cube]] | [[Chakra]]
+- [[Gematria]] | [[Saturn Cube]] | [[Chakra]] | [[Manly P. Hall]]
 - [[Chu Kỳ Hoàng Đạo]] | [[Vận Chín]]
 - [[Tâm Lý Học Jung]] | [[Vô Thức Tập Thể]]
 - [[S.E.X Và Tâm Lý Học Jung]] | [[Năng Lượng Tình Dục]]
@@ -178,6 +179,7 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 - [[Thuyết Trái Đất Phẳng]] | [[Bức Tường Băng]]
 - [[Kiểm Soát Tâm Trí]] | [[MindGeek]]
 - [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
+- 🔥 [[UAP Disclosure - Controlled Revelation]] — war.gov/UFO, Limited Hangout, Blue Beam
 - 🆕 [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]] — One system, three screens
 - 🆕 [[Nam Cực - Bí Mật Được Canh Giữ]] — Nazi → Paperclip → Highjump → Treaty timeline
 - 🆕 [[Thế Chiến - Chiến Dịch Dọn Dẹp]] — WW1/WW2 as cleanup operations, Nhị Nguyên cover
@@ -215,6 +217,10 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 ---
 
 ## 🔄 Recent Updates / Cập Nhật Gần Đây
+
+**May 9, 2026:**
+- 🔥 **[[Word Magic - Ngôn Ngữ Của Phù Thủy]]** — Spelling = Casting spells, Maritime Admiralty Law, Gematria, Corporate sigils, "Can you spell your name?"
+- 🔥 **[[UAP Disclosure - Controlled Revelation]]** — Trump's PURSUE program (war.gov/UFO), Limited Hangout, Project Blue Beam, "ALIEN = A Lie In"
 
 **May 1, 2026:**
 - 🌿 **[[Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu]]** — Philosophical essay, existence without purpose, awareness before meaning

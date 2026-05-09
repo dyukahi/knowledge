@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "esoterica/Một Đời Phù Vân.md",
+                "file": "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Một Đời Phù Vân"
+              "title": "Word Magic - Ngôn Ngữ Của Phù Thủy"
             }
           }
         ]
@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c87cf7e2b1e27ca",
+  "active": "ed9a3e3a379db6d9",
   "lastOpenFiles": [
+    "esoterica/Một Đời Phù Vân.md",
     "README.md",
     "esoterica/Phong Thủy.md",
     "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
@@ -212,7 +213,6 @@
     "mental-models/Nguyên Mẫu.md",
     "mental-models/Individuation.md",
     "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-    "science-tech/Nikola Tesla.md",
     "assets/flower-of-life-new.svg",
     "assets/flower-of-life.html",
     "assets/cymatics.jpg",

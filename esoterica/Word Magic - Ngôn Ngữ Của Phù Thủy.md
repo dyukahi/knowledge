@@ -32,7 +32,7 @@ Hãy nhìn vào những từ quen thuộc nhất trong ngôn ngữ học:
 
 **Sentence** — câu văn. Nhưng cũng có nghĩa là **bản án**. Mỗi câu bạn nói ra đều là một phán quyết, một tuyên bố có sức mạnh định hình thực tại. *"I am poor"* không chỉ là mô tả — đó là bản án bạn tự tuyên cho chính mình.
 
-**Word** — từ ngữ. Bỏ chữ "S" đi và bạn có **Sword** — thanh kiếm. Từ ngữ là vũ khí. *"The pen is mightier than the sword"* — Bút mạnh hơn kiếm, vì kiếm chỉ là s-WORD, một từ ngữ có hình dạng.
+**Word** — từ ngữ. Thêm chữ "S" đi và bạn có **Sword** — thanh kiếm. Từ ngữ là vũ khí. *"The pen is mightier than the sword"* — Bút mạnh hơn kiếm, vì kiếm chỉ là s-WORD, một từ ngữ có hình dạng.
 
 Khi bạn **spell** một từ, bạn đang thực hiện ba bước của nghi lễ ma thuật: **Phát âm** tạo sóng rung động trong không khí. **Hình dung** tạo hình ảnh trong tâm trí người nghe. **Tin tưởng** khiến họ chấp nhận ý nghĩa đó như thật. Đây chính xác là quy trình của ritual magic: Incantation → Visualization → Intention.
 
