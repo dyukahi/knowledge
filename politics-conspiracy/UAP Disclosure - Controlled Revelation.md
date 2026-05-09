@@ -249,3 +249,37 @@ flowchart LR
 **Disclosure không phải là sự thật được tiết lộ. Đó là narrative được kiểm soát.**
 
 *Disclosure isn't truth revealed. It's narrative controlled.*
+
+---
+
+## Bonus: Hidden in Plain Sight — Word Magic
+
+Elite giấu truth ngay trong ngôn ngữ. Đây là **Karma Disclosure** — họ phải tiết lộ, nhưng qua wordplay:
+
+*The Elite hides truth within language itself. This is **Karma Disclosure** — they must reveal, but through wordplay:*
+
+| Word | Breakdown | Hidden Meaning |
+|------|-----------|----------------|
+| **ALIEN** | A-LIEN / A-LIE-N | "Một lời nói dối" / "A lie in" |
+| **NASA** | נָשָׁא (Hebrew) | "To deceive" / Lừa dối |
+| **PLANET** | PLAN-ET | Extraterrestrial plan? |
+| **UNIVERSE** | UNI-VERSE | One verse / One word spoken |
+| **SANTA** | SATAN (anagram) | - |
+| **LIVE** | EVIL (reversed) | - |
+
+### Tại sao "A Lie"?
+
+Nếu "aliens" là cover story cho:
+- Breakaway civilization technology
+- Lost/hidden human civilizations
+- Terrestrial craft với exotic propulsion
+
+...thì từ "ALIEN" chính nó đã là Easter egg: **"A Lie (sent) In"** — một lời dối trá được gửi vào tâm trí đại chúng.
+
+*If "aliens" is a cover story, the word itself is the Easter egg: "A Lie In" — a deception implanted into the collective psyche.*
+
+> *"They hide it in plain sight because they must. That's the rule of the game."*
+>
+> *"Họ giấu ngay trước mắt vì họ phải làm vậy. Đó là luật chơi."*
+
+Xem thêm: [[Karma Disclosure - Truth Hidden In Plain Sight]]
