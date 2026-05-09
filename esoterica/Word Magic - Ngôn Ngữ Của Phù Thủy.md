@@ -171,13 +171,15 @@ Bạn không được xét xử như một con người. Bạn được xử lý
 
 Nếu từ ngữ có sức mạnh, thì số ẩn trong từ ngữ còn mạnh hơn.
 
-**Gematria** là hệ thống gán giá trị số cho chữ cái, được sử dụng trong Kabbalah và các truyền thống occult. English Ordinal đơn giản nhất: A=1, B=2... Z=26.
+**[[Gematria]]** là hệ thống cổ xưa nhất để giải mã mối quan hệ giữa chữ và số — ngôn ngữ bí mật của Kabbalah, Pythagoras, và những người nắm quyền lực. Trong khi bạn nhìn thấy "33 người chết" trong tin tức và nghĩ đó là con số ngẫu nhiên, Elite nhìn thấy **signature** của Freemasonry cấp cao nhất.
 
-**GOD** = G(7) + O(15) + D(4) = **26**. Có 26 chữ cái trong alphabet. God nằm trong toàn bộ ngôn ngữ.
+English Ordinal đơn giản nhất: A=1, B=2... Z=26. **GOD** = G(7) + O(15) + D(4) = **26**. Có 26 chữ cái trong alphabet. God nằm trong toàn bộ ngôn ngữ.
 
 Elite sử dụng gematria để đặt tên công ty, chọn ngày cho events quan trọng, encode messages trong headlines. Khi bạn bắt đầu decode, bạn sẽ thấy những "trùng hợp" không thể ngẫu nhiên.
 
 *When you start decoding, you'll see "coincidences" that cannot be random.*
+
+→ Đọc thêm: **[[Gematria|Gematria — Ngôn Ngữ Bí Mật Của Số]]**
 
 ---
 
