@@ -219,6 +219,9 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 
 ## 🔄 Recent Updates / Cập Nhật Gần Đây
 
+**May 13, 2026:**
+- 🔮 **[[Atlantis]]** — REWRITE: Prose style + Mermaid diagrams, Tuaoi Stone crystal tech, Bermuda Triangle connection, Children of Law of One vs Sons of Belial, Loosh framework
+
 **May 12, 2026:**
 - 🔥 **[[Mười Lần Làm Tình - Giải Phẫu Học Các Chất Gây Nghiện]]** — Neuroscience của Meth/Cocaine/MDMA/Heroin, tại sao mỗi vùng chuộng thuốc khác nhau, văn hóa lao động châu Á, Amy Winehouse case study, Loosh harvesting
 
