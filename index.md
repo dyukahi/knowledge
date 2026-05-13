@@ -157,7 +157,7 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 ### 🧩 Mental Models
 - 🍓 [[Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa]] — Rat race essay
 - 🆕 [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — How system hijacks reward system
-- 🔥 [[Mười Lần Làm Tình - Giải Phẫu Học Các Chất Gây Nghiện]] — Neuroscience của addiction, văn hóa và ma túy
+- 🔥 [[Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien|Mười Lần Làm Tình - Giải Phẫu Học Các Chất Gây Nghiện]] — Neuroscience của addiction, văn hóa và ma túy
 
 ### 🏥 Health
 - [[Y Tế Tự Nhiên]]
@@ -223,7 +223,7 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 - 🔮 **[[Atlantis]]** — REWRITE: Prose style + Mermaid diagrams, Tuaoi Stone crystal tech, Bermuda Triangle connection, Children of Law of One vs Sons of Belial, Loosh framework
 
 **May 12, 2026:**
-- 🔥 **[[Mười Lần Làm Tình - Giải Phẫu Học Các Chất Gây Nghiện]]** — Neuroscience của Meth/Cocaine/MDMA/Heroin, tại sao mỗi vùng chuộng thuốc khác nhau, văn hóa lao động châu Á, Amy Winehouse case study, Loosh harvesting
+- 🔥 **[[Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien|Mười Lần Làm Tình - Giải Phẫu Học Các Chất Gây Nghiện]]** — Neuroscience của Meth/Cocaine/MDMA/Heroin, tại sao mỗi vùng chuộng thuốc khác nhau, văn hóa lao động châu Á, Amy Winehouse case study, Loosh harvesting
 
 **May 10, 2026:**
 - 🔥 **[[Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ]]** — Tobacco: 599 chemicals + Polonium-210, Alcohol industry mythology, Sacred vs Industrial, Elite misdirection, "The context makes the medicine"
