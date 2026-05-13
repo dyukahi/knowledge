@@ -33,12 +33,6 @@ graph TD
     E --> G[Maya<br/>Aztlan Legend]
     E --> H[India<br/>Dwarka]
     E --> I[Global Flood Myths<br/>500+ Cultures]
-    
-    style A fill:#4169E1
-    style D fill:#DC143C
-    style F fill:#FFD700
-    style G fill:#228B22
-    style H fill:#FF8C00
 ```
 
 ---
@@ -115,9 +109,6 @@ graph LR
         G --> J[Communication]
         G --> K[Agriculture]
     end
-    
-    style D fill:#9370DB
-    style E fill:#8A2BE2
 ```
 
 Theo readings của Cayce, Tuaoi Stone là một hình trụ khổng lồ, dài nhiều feet, có hình lăng trụ sáu mặt. Nó được đặt trong một tòa nhà hình oval với mái vòm có thể cuốn lại để tinh thể tiếp xúc với ánh sáng mặt trời, mặt trăng và các vì sao vào thời điểm thuận lợi nhất. Tường bên trong được lót bằng vật liệu không dẫn điện — giống amiăng hoặc bakelite.
@@ -177,10 +168,6 @@ graph TD
     J --> K[Frequency Weaponization]
     K --> L[Geological Instability]
     L --> M[Final Destruction]
-    
-    style B fill:#4169E1
-    style C fill:#DC143C
-    style M fill:#000000
 ```
 
 ### Weaponization — Khi Công Nghệ Bị Lạm Dụng
@@ -242,9 +229,6 @@ graph TD
     I[Evidence Found] --> J[Bimini Road 1968]
     I --> K[Underwater Pyramid 1978]
     I --> L[Crystal Sphere Claims]
-    
-    style G fill:#9370DB
-    style A fill:#DC143C
 ```
 
 Nếu theory này đúng, crystal của Atlantis — dù đã bị hư hại — vẫn có thể đang phát ra những burst năng lượng không đều, gây ra compass malfunction từ electromagnetic interference, tàu thuyền và máy bay mất tích do energy vortex, electronic failure từ EMP-like bursts, và thậm chí time distortion từ warped space-time.
@@ -314,10 +298,6 @@ graph LR
     end
     
     A4 -.->|Pattern| M1
-    
-    style A4 fill:#DC143C
-    style M3 fill:#FFD700
-    style M4 fill:#FFD700
 ```
 
 *"Those who cannot remember the past are condemned to repeat it." — George Santayana*
