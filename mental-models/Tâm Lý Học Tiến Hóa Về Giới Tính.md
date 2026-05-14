@@ -229,5 +229,5 @@ Hiểu game không có nghĩa phải chơi bẩn. Mục đích là hiểu dynami
 - [[Word Magic - Ngôn Ngữ Của Phù Thủy]] — Language manipulation
 
 ### History & Cycles
-- [[Chu Kỳ Vũ Trụ - Yugas & Kalpas]] — Civilizational cycles
+- [[Chu Kỳ Vũ Trụ — Yugas & Kalpas]] — Civilizational cycles
 - [[Lịch Sử Song Song — Khi Thế Giới Đồng Bộ]] — Hidden history
