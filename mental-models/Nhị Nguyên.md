@@ -1,34 +1,34 @@
-﻿---
-title: "Nhị Nguyên (Duality)"
+---
+title: "Nh? Nguy�n (Duality)"
 aliases: ["Duality", "Binary Thinking"]
 date: 2026-04-07
 tags: [mental-model]
 status: refined
 related:
-  - "[[Chia Tách Bởi Nhị Nguyên]]"
-  - "[[Tâm Lý Học Jung]]"
+  - "[[Chia T�ch B?i Nh? Nguy�n]]"
+  - "[[T�m L� H?c Jung]]"
   - "[[Monad]]"
 ---
-# Nhị Nguyên (Duality)
+# Nh? Nguy�n (Duality)
 
-**Nhị Nguyên** là nguyên lý phân cực: tốt/xấu, sáng/tối, âm/dương. Nền tảng cho thế giới vật chất, nhưng cũng là công cụ chia rẽ và cai trị.
+**Nh? Nguy�n** l� nguy�n l� ph�n c?c: t?t/x?u, s�ng/t?i, �m/duong. N?n t?ng cho th? gi?i v?t ch?t, nhung cung l� c�ng c? chia r? v� cai tr?.
 
 *Duality is the principle of polarization: good/evil, light/dark, yin/yang. Foundation for material world, but also a tool for division and control.*
 
 ---
 
-## Triết học / Philosophy
+## Tri?t h?c / Philosophy
 
-### Phương Đông: Âm Dương (陰陽)
+### Phuong ��ng: �m Duong (??)
 
 | Principle | Description |
 |-----------|-------------|
-| **Complementary** | Not opposing but completing / Không đối kháng mà bổ sung |
+| **Complementary** | Not opposing but completing / Kh�ng d?i kh�ng m� b? sung |
 | **Contain each other** | Yin has Yang seed, vice versa |
-| **Always transforming** | Peak Yin → Yang rises / Cực thịnh tất suy |
-| **Dynamic balance** | Not static / Cân bằng động |
+| **Always transforming** | Peak Yin ? Yang rises / C?c th?nh t?t suy |
+| **Dynamic balance** | Not static / C�n b?ng d?ng |
 
-### Phương Tây: Good vs Evil
+### Phuong T�y: Good vs Evil
 
 | Principle | Description |
 |-----------|-------------|
@@ -38,11 +38,11 @@ related:
 
 ---
 
-## Công cụ Kiểm soát / Control Tool
+## C�ng c? Ki?m so�t / Control Tool
 
-### Divide and Conquer / Chia để Trị
+### Divide and Conquer / Chia d? Tr?
 
-| Division | Purpose / Mục đích |
+| Division | Purpose / M?c d�ch |
 |----------|-------------------|
 | **Left vs Right** | Prevent political unity |
 | **Rich vs Poor** | Blame each other, not system |
@@ -50,7 +50,7 @@ related:
 | **Men vs Women** | Destroy family, relationships |
 | **Young vs Old** | Prevent knowledge transfer |
 
-### False Dichotomies / Lưỡng nan Giả tạo
+### False Dichotomies / Lu?ng nan Gi? t?o
 
 | Question | Hidden assumption |
 |----------|-------------------|
@@ -58,48 +58,48 @@ related:
 | "Vaccine or antivaxxer?" | No nuance allowed |
 | "Democrat or Republican?" | No third way |
 
-→ Real answer usually **outside** the binary presented
+? Real answer usually **outside** the binary presented
 
 ---
 
-## Vượt qua Nhị Nguyên / Transcending Duality
+## Vu?t qua Nh? Nguy�n / Transcending Duality
 
-### Tư duy Tam nguyên / Triadic Thinking
+### Tu duy Tam nguy�n / Triadic Thinking
 
 Instead of A vs B, find C:
 
 ```
-Thesis → Antithesis → SYNTHESIS
+Thesis ? Antithesis ? SYNTHESIS
 ```
 
-Don't pick sides, find truth in both / Không chọn phe, tìm chân lý ở cả hai
+Don't pick sides, find truth in both / Kh�ng ch?n phe, t�m ch�n l� ? c? hai
 
-### [[Monad]] - Return to Unity / Trở về Nhất Thể
+### [[Monad]] - Return to Unity / Tr? v? Nh?t Th?
 
-Duality is illusion. Fundamental reality is [[Monad]] — the undivided One.
+Duality is illusion. Fundamental reality is [[Monad]] - the undivided One.
 
-*Nhị Nguyên là ảo. Thực tại nền tảng là [[Monad]] — Nhất Thể không phân chia.*
+*Nh? Nguy�n l� ?o. Th?c t?i n?n t?ng l� [[Monad]] - Nh?t Th? kh�ng ph�n chia.*
 
-### Shadow Integration ([[Tâm Lý Học Jung]])
+### Shadow Integration ([[T�m L� H?c Jung]])
 
 | Action | Result |
 |--------|--------|
-| **Suppress shadow** | It controls you / Nó kiểm soát bạn |
-| **Integrate shadow** | Become whole / Trở nên toàn vẹn |
+| **Suppress shadow** | It controls you / N� ki?m so�t b?n |
+| **Integrate shadow** | Become whole / Tr? n�n to�n v?n |
 
 ---
 
-## Ứng dụng / Applications
+## ?ng d?ng / Applications
 
-### Nhận diện Manipulation
+### Nh?n di?n Manipulation
 
-When forced to choose between two options / Khi bị ép chọn giữa hai:
+When forced to choose between two options / Khi b? �p ch?n gi?a hai:
 
-1. "Is there a third option?" / "Có option thứ ba không?"
-2. "Who benefits from this polarization?" / "Ai hưởng lợi?"
-3. "What do both sides have in common?" / "Hai phe có gì chung?"
+1. "Is there a third option?" / "C� option th? ba kh�ng?"
+2. "Who benefits from this polarization?" / "Ai hu?ng l?i?"
+3. "What do both sides have in common?" / "Hai phe c� g� chung?"
 
-### Thoát Polarization / Escape Polarization
+### Tho�t Polarization / Escape Polarization
 
 | Method | Description |
 |--------|-------------|
@@ -112,18 +112,18 @@ When forced to choose between two options / Khi bị ép chọn giữa hai:
 ## Related
 
 ### Mental Models
-- [[Chia Tách Bởi Nhị Nguyên]] — How duality is weaponized
-- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
-- [[Tâm bất Biến]] — Beyond binary reactions
+- [[Chia T�ch B?i Nh? Nguy�n]] - How duality is weaponized
+- [[Ma Tr?n - Gi?i Ph?u Ho�n Ch?nh]]
+- [[T�m b?t Bi?n]] - Beyond binary reactions
 
-### Philosophy / Triết học
-- [[Monad]] — Unity before division
-- [[Tâm Lý Học Jung]] — Shadow integration
-- [[Gnosis]] — Knowledge beyond duality
-- [[Sự Nhất Thể]] — Oneness
+### Philosophy / Tri?t h?c
+- [[Monad]] - Unity before division
+- [[T�m L� H?c Jung]] - Shadow integration
+- [[Gnosis]] - Knowledge beyond duality
+- [[S? Nh?t Th?]] - Oneness
 
-### Control / Kiểm soát
-- [[Ma Trận]] — System using duality
-- [[Elite]] — Who benefits from division
-- [[Kiểm Soát Tâm Trí]]
+### Control / Ki?m so�t
+- [[Ma Tr?n]] - System using duality
+- [[Elite]] - Who benefits from division
+- [[Ki?m So�t T�m Tr�]]
 

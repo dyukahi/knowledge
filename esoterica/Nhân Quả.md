@@ -1,116 +1,116 @@
-﻿---
-title: Nhân Quả
+---
+title: Nh�n Qu?
 aliases: ["Karma", "Law of Cause and Effect"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
-# Nhân Quả (Karma)
+# Nh�n Qu? (Karma)
 
-**Nhân Quả** (Sanskrit: कर्म karma = "action") là quy luật căn bản của vũ trụ: mọi hành động đều có phản ứng tương ứng.
+**Nh�n Qu?** (Sanskrit: ???? karma = "action") l� quy lu?t can b?n c?a vu tr?: m?i h�nh d?ng d?u c� ph?n ?ng tuong ?ng.
 
-*Karma (Sanskrit: कर्म = "action") is the fundamental law of the universe: every action has a corresponding reaction.*
+*Karma (Sanskrit: ???? = "action") is the fundamental law of the universe: every action has a corresponding reaction.*
 
-> "As you sow, so shall you reap." / "Gieo nhân nào, gặt quả nấy."
+> "As you sow, so shall you reap." / "Gieo nh�n n�o, g?t qu? n?y."
 
 ---
 
-## Nguyên lý Cơ bản / Basic Principles
+## Nguy�n l� Co b?n / Basic Principles
 
-### 1. Universal Law / Quy luật Vũ trụ
+### 1. Universal Law / Quy lu?t Vu tr?
 
 | Aspect | Description |
 |--------|-------------|
-| **Automatic** | No judge needed / Không cần phán xét |
+| **Automatic** | No judge needed / Kh�ng c?n ph�n x�t |
 | **Precise** | Like physics: action = reaction |
 | **Inescapable** | No one escapes, even [[Elite]] |
 
-### 2. Three Karmas / Ba Nghiệp
+### 2. Three Karmas / Ba Nghi?p
 
 | Vietnamese | Sanskrit | Meaning |
 |------------|----------|---------|
-| **Thân** | Kaya | Body / Actions |
-| **Khẩu** | Vak | Speech / Words |
-| **Ý** | Manas | Mind / Thoughts, intentions |
+| **Th�n** | Kaya | Body / Actions |
+| **Kh?u** | Vak | Speech / Words |
+| **�** | Manas | Mind / Thoughts, intentions |
 
-### 3. Flexible Timing / Thời gian Linh hoạt
+### 3. Flexible Timing / Th?i gian Linh ho?t
 
-- Instant karma / Quả đến ngay
-- Next life / Kiếp sau
-- Many lives / Nhiều kiếp (accumulated)
+- Instant karma / Qu? d?n ngay
+- Next life / Ki?p sau
+- Many lives / Nhi?u ki?p (accumulated)
 
 ---
 
-## Các Loại Karma / Types of Karma
+## C�c Lo?i Karma / Types of Karma
 
 | Type | Sanskrit | Description |
 |------|----------|-------------|
-| **Accumulated** | Sanchita | Total karma from all lives / Tổng từ mọi kiếp |
-| **Present** | Prarabdha | Ripening this life / Đang "chín" kiếp này |
-| **Creating** | Kriyamana | New karma today / Karma mới tạo hôm nay |
+| **Accumulated** | Sanchita | Total karma from all lives / T?ng t? m?i ki?p |
+| **Present** | Prarabdha | Ripening this life / �ang "ch�n" ki?p n�y |
+| **Creating** | Kriyamana | New karma today / Karma m?i t?o h�m nay |
 
 ---
 
-## Karma & [[Luân Hồi]] / Reincarnation
+## Karma & [[Lu�n H?i]] / Reincarnation
 
 | State | Result |
 |-------|--------|
-| **Unpaid karma** | Must reincarnate / Phải tái sinh |
-| **Balanced karma** | Liberation possible / Có thể giải thoát |
-| **Bodhisattva** | Chooses to return to help / Chọn quay lại giúp người |
+| **Unpaid karma** | Must reincarnate / Ph?i t�i sinh |
+| **Balanced karma** | Liberation possible / C� th? gi?i tho�t |
+| **Bodhisattva** | Chooses to return to help / Ch?n quay l?i gi�p ngu?i |
 
 ---
 
-## Ma Trận Tôn giáo / Religious Matrix
+## Ma Tr?n T�n gi�o / Religious Matrix
 
-Xem [[Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo]]:
+Xem [[Nh�n Qu?, Lu�n H?i v� Ma Tr?n T�n Gi�o]]:
 
 | Corruption | Truth |
 |------------|-------|
-| "Pay money = erase sins" | Wrong / Sai hoàn toàn |
+| "Pay money = erase sins" | Wrong / Sai ho�n to�n |
 | "Church forgives" | Only you can transform |
-| "Buy indulgences" | Karma cannot be bought / Không "mua" được |
+| "Buy indulgences" | Karma cannot be bought / Kh�ng "mua" du?c |
 
 ---
 
-## Cách "Xử lý" Karma / How to Process
+## C�ch "X? l�" Karma / How to Process
 
-### 1. Awareness / Nhận thức
+### 1. Awareness / Nh?n th?c
 
-- Recognize patterns in life / Nhận ra patterns trong đời
-- Understand why this happens / Hiểu tại sao
+- Recognize patterns in life / Nh?n ra patterns trong d?i
+- Understand why this happens / Hi?u t?i sao
 - No blame, no victim mentality
 
-### 2. Acceptance / Chấp nhận
+### 2. Acceptance / Ch?p nh?n
 
-- Accept consequences / Chấp nhận quả
-- Don't resist uselessly / Không chống cự vô ích
-- Pay with equanimity / Trả với thanh thản
+- Accept consequences / Ch?p nh?n qu?
+- Don't resist uselessly / Kh�ng ch?ng c? v� �ch
+- Pay with equanimity / Tr? v?i thanh th?n
 
-### 3. Transformation / Chuyển hóa
+### 3. Transformation / Chuy?n h�a
 
-- Turn suffering into lessons / Chuyển đau khổ thành bài học
-- Create good karma / Tạo karma tốt mới
-- Service to others / Phụng sự người khác
+- Turn suffering into lessons / Chuy?n dau kh? th�nh b�i h?c
+- Create good karma / T?o karma t?t m?i
+- Service to others / Ph?ng s? ngu?i kh�c
 
-### 4. Liberation (Moksha) / Giải thoát
+### 4. Liberation (Moksha) / Gi?i tho�t
 
-- Stop creating new karma / Không còn tạo karma mới
-- Action without attachment / Hành động không dính mắc
+- Stop creating new karma / Kh�ng c�n t?o karma m?i
+- Action without attachment / H�nh d?ng kh�ng d�nh m?c
 - Nishkama karma (selfless action)
 
 ---
 
 ## Related
 
-### Cycle / Vòng luân
-- [[Luân Hồi]] — Cycle driven by karma
-- [[Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo]]
+### Cycle / V�ng lu�n
+- [[Lu�n H?i]] - Cycle driven by karma
+- [[Nh�n Qu?, Lu�n H?i v� Ma Tr?n T�n Gi�o]]
 
-### Liberation / Giải thoát
-- [[Gnosis]] — Path to liberation
-- [[Monad]] — Return to source
+### Liberation / Gi?i tho�t
+- [[Gnosis]] - Path to liberation
+- [[Monad]] - Return to source
 
-### Processing / Xử lý
-- [[Tâm Lý Học Jung]] — Shadow work = karma processing
-- [[Elite]] — No one escapes karma
+### Processing / X? l�
+- [[T�m L� H?c Jung]] - Shadow work = karma processing
+- [[Elite]] - No one escapes karma

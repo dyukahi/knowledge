@@ -1,47 +1,47 @@
-﻿---
-title: Theo Dấu Tartaria - Tác Giả Kan
+---
+title: Theo D?u Tartaria - T�c Gi? Kan
 date: 2026-04-07
 tags: [esoterica]
 status: refined
 ---
-# Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan
+# Theo D?u Tartaria (Tracking Tartaria) - T�c Gi?: Kan
 
-Chuỗi bài viết **Theo Dấu Tartaria** (Tracking Tartaria) của Thượng sĩ Kan (Kiên Trần) được thực hiện trong khoảng thời gian 2021-2022. Đây là một bộ tài liệu mang tính chất giải ảo lịch sử cực kỳ chi tiết, đưa ra những góc nhìn sắc bén dưới lăng kính của Khoa Học Xét Lại. Thông qua việc lật lại các tư liệu, hình ảnh, và kiến trúc cổ xưa, Kan đặt nghi vấn về những sự lừa dối khổng lồ của nền sử học chính thống Phương Tây đối với phần còn lại của nhân loại.
+Chu?i b�i vi?t **Theo D?u Tartaria** (Tracking Tartaria) c?a Thu?ng si Kan (Ki�n Tr?n) du?c th?c hi?n trong kho?ng th?i gian 2021-2022. ��y l� m?t b? t�i li?u mang t�nh ch?t gi?i ?o l?ch s? c?c k? chi ti?t, dua ra nh?ng g�c nh�n s?c b�n du?i lang k�nh c?a Khoa H?c X�t L?i. Th�ng qua vi?c l?t l?i c�c tu li?u, h�nh ?nh, v� ki?n tr�c c? xua, Kan d?t nghi v?n v? nh?ng s? l?a d?i kh?ng l? c?a n?n s? h?c ch�nh th?ng Phuong T�y d?i v?i ph?n c�n l?i c?a nh�n lo?i.
 
-## 1. Tại Sao Rome Điêu Tàn? – Bí Ẩn Về Giovanni Battista Piranesi
-Trong tập mở đầu, Kan giới thiệu về họa sĩ và nhà điêu khắc Giovanni Battista Piranesi (1720 – 1778). Theo chính sử, những bức tranh khắc axit (etching) của Piranesi mô tả sự điêu tàn của Rome chỉ là "sản phẩm của trí tưởng tượng". 
-* **Nghi vấn (Occam's Razor):** Kan chỉ ra rằng mức độ chi tiết trong các kiệt tác của Piranesi là quá chân thực. Rất có thể Piranesi chỉ đơn giản là đang họa lại *cảnh thật* mà ông tận mắt chứng kiến.
-* **Thảm họa ẩn giấu:** Câu hỏi lớn được đặt ra: Điều gì đã xảy ra cách đây chỉ khoảng 300 năm khiến một đại đô thị như Rome rơi vào cảnh hoang tàn, đổ nát đến vậy? Lịch sử dường như đã bị tẩy xóa, và những bí mật có thể đang nằm sâu trong thư viện mật của Vatican.
+## 1. T?i Sao Rome �i�u T�n? � B� ?n V? Giovanni Battista Piranesi
+Trong t?p m? d?u, Kan gi?i thi?u v? h?a si v� nh� di�u kh?c Giovanni Battista Piranesi (1720 � 1778). Theo ch�nh s?, nh?ng b?c tranh kh?c axit (etching) c?a Piranesi m� t? s? di�u t�n c?a Rome ch? l� "s?n ph?m c?a tr� tu?ng tu?ng". 
+* **Nghi v?n (Occam's Razor):** Kan ch? ra r?ng m?c d? chi ti?t trong c�c ki?t t�c c?a Piranesi l� qu� ch�n th?c. R?t c� th? Piranesi ch? don gi?n l� dang h?a l?i *c?nh th?t* m� �ng t?n m?t ch?ng ki?n.
+* **Th?m h?a ?n gi?u:** C�u h?i l?n du?c d?t ra: �i?u g� d� x?y ra c�ch d�y ch? kho?ng 300 nam khi?n m?t d?i d� th? nhu Rome roi v�o c?nh hoang t�n, d? n�t d?n v?y? L?ch s? du?ng nhu d� b? t?y x�a, v� nh?ng b� m?t c� th? dang n?m s�u trong thu vi?n m?t c?a Vatican.
 
-## 2. Giải Ảo (Disillusion) – Tượng Điêu Khắc "Il Disinganno"
-Kan dẫn dắt người đọc tới Bảo tàng Sansevero ở Napoli (Ý), nơi lưu giữ kiệt tác điêu khắc "Il Disinganno" (Sự giải ảo) của Francesco Queirolo (thế kỷ 18).
-* **Tấm lưới bằng đá cẩm thạch:** Điểm kinh ngạc nhất của tuyệt tác này là tấm lưới bao phủ nhân vật được đẽo hoàn toàn từ *một khối đá cẩm thạch (marble) duy nhất*, không hề có tỳ vết.
-* **Sự phi lý của công nghệ thế kỷ 18:** Các nghệ nhân điêu khắc đá hiện đại khẳng định với máy móc tối tân ngày nay cũng gần như bất khả thi để tái lập một phiên bản tương tự. Làm cách nào người xưa làm được?
-* **Thông điệp ẩn:** Phải chăng trong quá khứ, nhân loại từng sở hữu một nền văn minh cực kỳ tiên tiến về công nghệ (Antiquitech), và chúng ta đang sống trong thời kỳ "thụt lùi" bị đám tinh hoa phong bế thông tin?
+## 2. Gi?i ?o (Disillusion) � Tu?ng �i�u Kh?c "Il Disinganno"
+Kan d?n d?t ngu?i d?c t?i B?o t�ng Sansevero ? Napoli (�), noi luu gi? ki?t t�c di�u kh?c "Il Disinganno" (S? gi?i ?o) c?a Francesco Queirolo (th? k? 18).
+* **T?m lu?i b?ng d� c?m th?ch:** �i?m kinh ng?c nh?t c?a tuy?t t�c n�y l� t?m lu?i bao ph? nh�n v?t du?c d?o ho�n to�n t? *m?t kh?i d� c?m th?ch (marble) duy nh?t*, kh�ng h? c� t? v?t.
+* **S? phi l� c?a c�ng ngh? th? k? 18:** C�c ngh? nh�n di�u kh?c d� hi?n d?i kh?ng d?nh v?i m�y m�c t?i t�n ng�y nay cung g?n nhu b?t kh? thi d? t�i l?p m?t phi�n b?n tuong t?. L�m c�ch n�o ngu?i xua l�m du?c?
+* **Th�ng di?p ?n:** Ph?i chang trong qu� kh?, nh�n lo?i t?ng s? h?u m?t n?n van minh c?c k? ti�n ti?n v? c�ng ngh? (Antiquitech), v� ch�ng ta dang s?ng trong th?i k? "th?t l�i" b? d�m tinh hoa phong b? th�ng tin?
 
-## 3. Chìm Theo Titanic - Vở Kịch Của Giới Tinh Hoa Wall Street
-Titanic không chỉ là một con tàu hay một bộ phim tình cảm hư cấu, mà là một thuyết âm mưu vĩ đại liên quan trực tiếp đến tiền tệ và chiến tranh.
-* **Thủ tiêu sự chống đối:** Con tàu Titanic thuộc sở hữu của White Star Line, dưới sự kiểm soát của J.P. Morgan. Sự cố chìm tàu năm 1912 được cho là một vụ ám sát khổng lồ nhằm tiêu diệt các tỷ phú phản đối việc thành lập Cục Dự Trữ Liên Bang (Federal Reserve).
-* **Chuỗi sự kiện đẫm máu:** 
- * 1912: Titanic chìm.
- * 1913: Lập Federal Reserve (Ngân hàng tư nhân kiểm soát tiền tệ).
- * 1914: Khởi mào Thế Chiến I.
- * Giáo sư Antony C. Sutton đã vạch trần việc Wall Street tài trợ cho cả Cách mạng tháng Mười Nga lẫn sự trỗi dậy của Hitler.
-* **Ma quỷ trong chi tiết (Rivet):** Quan sát kỹ những bức ảnh đang thi công của thân tàu (hull) Titanic, người ta phát hiện có đến 2/3 phần thân dưới *không hề dùng đinh tán (rivet)* và nhẵn thín. Kỹ thuật hàn phẳng như vậy mãi đến Thế chiến 2 (30 năm sau) mới ra đời theo chính sử! Sự sai lệch lịch sử là không thể chối cãi.
+## 3. Ch�m Theo Titanic - V? K?ch C?a Gi?i Tinh Hoa Wall Street
+Titanic kh�ng ch? l� m?t con t�u hay m?t b? phim t�nh c?m hu c?u, m� l� m?t thuy?t �m muu vi d?i li�n quan tr?c ti?p d?n ti?n t? v� chi?n tranh.
+* **Th? ti�u s? ch?ng d?i:** Con t�u Titanic thu?c s? h?u c?a White Star Line, du?i s? ki?m so�t c?a J.P. Morgan. S? c? ch�m t�u nam 1912 du?c cho l� m?t v? �m s�t kh?ng l? nh?m ti�u di?t c�c t? ph� ph?n d?i vi?c th�nh l?p C?c D? Tr? Li�n Bang (Federal Reserve).
+* **Chu?i s? ki?n d?m m�u:** 
+ * 1912: Titanic ch�m.
+ * 1913: L?p Federal Reserve (Ng�n h�ng tu nh�n ki?m so�t ti?n t?).
+ * 1914: Kh?i m�o Th? Chi?n I.
+ * Gi�o su Antony C. Sutton d� v?ch tr?n vi?c Wall Street t�i tr? cho c? C�ch m?ng th�ng Mu?i Nga l?n s? tr?i d?y c?a Hitler.
+* **Ma qu? trong chi ti?t (Rivet):** Quan s�t k? nh?ng b?c ?nh dang thi c�ng c?a th�n t�u (hull) Titanic, ngu?i ta ph�t hi?n c� d?n 2/3 ph?n th�n du?i *kh�ng h? d�ng dinh t�n (rivet)* v� nh?n th�n. K? thu?t h�n ph?ng nhu v?y m�i d?n Th? chi?n 2 (30 nam sau) m?i ra d?i theo ch�nh s?! S? sai l?ch l?ch s? l� kh�ng th? ch?i c�i.
 
-## 4. Đế Chế Tartaria Bị Lãng Quên & Kiến Trúc Vĩ Đại
-Tartaria (hay Tartary) là một đế quốc toàn cầu khổng lồ từng hiện diện trên các bản đồ cổ (như bản đồ năm 1571), trải dài từ Á sang Âu, với sự vượt trội về kỹ thuật và kiến trúc.
-* **Nghệ thuật Tartaria vs Tây trắng:** Kan phân tích sự khác biệt giữa nghệ thuật thực sự của Tartaria so với sự nghèo nàn, "tự sướng" và sao chép của kiến trúc Tây trắng (như nhà gỗ khổng lồ lụp xụp hay những hội chợ tạm bợ).
-* **Năng lượng miễn phí (Free Energy):** Đế chế Tartaria được cho là đã sử dụng điện không dây, thu thập năng lượng từ không gian (Aether/Ether) thông qua các ăng-ten dạng mái vòm (dome) trên nóc công trình.
-* **Đánh cắp di sản:** Người phương Tây (Tây trắng) đi xâm chiếm, đốt phá, và sau đó "nhận vơ" các công trình kỳ vĩ này làm của mình (như Khải Hoàn Môn Paris, các công trình ở Châu Sơn - Nho Quan Việt Nam, hay các lâu đài, pháo đài ngôi sao - Star Forts trên toàn cầu).
+## 4. �? Ch? Tartaria B? L�ng Qu�n & Ki?n Tr�c Vi �?i
+Tartaria (hay Tartary) l� m?t d? qu?c to�n c?u kh?ng l? t?ng hi?n di?n tr�n c�c b?n d? c? (nhu b?n d? nam 1571), tr?i d�i t? � sang �u, v?i s? vu?t tr?i v? k? thu?t v� ki?n tr�c.
+* **Ngh? thu?t Tartaria vs T�y tr?ng:** Kan ph�n t�ch s? kh�c bi?t gi?a ngh? thu?t th?c s? c?a Tartaria so v?i s? ngh�o n�n, "t? su?ng" v� sao ch�p c?a ki?n tr�c T�y tr?ng (nhu nh� g? kh?ng l? l?p x?p hay nh?ng h?i ch? t?m b?).
+* **Nang lu?ng mi?n ph� (Free Energy):** �? ch? Tartaria du?c cho l� d� s? d?ng di?n kh�ng d�y, thu th?p nang lu?ng t? kh�ng gian (Aether/Ether) th�ng qua c�c ang-ten d?ng m�i v�m (dome) tr�n n�c c�ng tr�nh.
+* **��nh c?p di s?n:** Ngu?i phuong T�y (T�y tr?ng) di x�m chi?m, d?t ph�, v� sau d� "nh?n vo" c�c c�ng tr�nh k? vi n�y l�m c?a m�nh (nhu Kh?i Ho�n M�n Paris, c�c c�ng tr�nh ? Ch�u Son - Nho Quan Vi?t Nam, hay c�c l�u d�i, ph�o d�i ng�i sao - Star Forts tr�n to�n c?u).
 
-## 5. Tổng Kết Giá Trị Từ "Tracking Tartaria"
-* **Xóa bỏ tiền mặt:** Nhắc tới sự hình thành của xã hội không Tiền (cashless society) và sự phụ thuộc vào hệ thống tài chính ảo (liên quan đến Tiền Giấy - Tiền Mặt).
-* **Xói mòn gốc rễ:** Lịch sử được viết bởi kẻ thắng. Khái niệm Tartaria đại diện cho một nền văn minh đã bị "reset" (đại tái tạo) bằng chiến tranh, lũ lụt bùn (Mud Flood), và sự kiểm duyệt thông tin gắt gao.
-* **Thông điệp của tác giả:** Kan viết loạt bài này để những trí tuệ sắc bén tự giải phóng bản thân, đập bỏ những kiến thức giáo điều (như trường hợp Ngô Bảo Châu hay sự nhồi sọ y tế như "vịt 19" hay PCR của Kary Mullis). "Hãy để anh em Tây trắng tự thổi kèn cho nhau", người Việt cần tự tin đi tìm cội nguồn và sự vĩ đại thực sự của mình.
+## 5. T?ng K?t Gi� Tr? T? "Tracking Tartaria"
+* **X�a b? ti?n m?t:** Nh?c t?i s? h�nh th�nh c?a x� h?i kh�ng Ti?n (cashless society) v� s? ph? thu?c v�o h? th?ng t�i ch�nh ?o (li�n quan d?n Ti?n Gi?y - Ti?n M?t).
+* **X�i m�n g?c r?:** L?ch s? du?c vi?t b?i k? th?ng. Kh�i ni?m Tartaria d?i di?n cho m?t n?n van minh d� b? "reset" (d?i t�i t?o) b?ng chi?n tranh, lu l?t b�n (Mud Flood), v� s? ki?m duy?t th�ng tin g?t gao.
+* **Th�ng di?p c?a t�c gi?:** Kan vi?t lo?t b�i n�y d? nh?ng tr� tu? s?c b�n t? gi?i ph�ng b?n th�n, d?p b? nh?ng ki?n th?c gi�o di?u (nhu tru?ng h?p Ng� B?o Ch�u hay s? nh?i s? y t? nhu "v?t 19" hay PCR c?a Kary Mullis). "H�y d? anh em T�y tr?ng t? th?i k�n cho nhau", ngu?i Vi?t c?n t? tin di t�m c?i ngu?n v� s? vi d?i th?c s? c?a m�nh.
 
 ## Related
-- [[Năng Lượng Aether]]
+- [[Nang Lu?ng Aether]]
 - [[Tartaria]]
-- [[Tiền Giấy - Tiền Mặt]]
-- [[Trí Tuệ]]
+- [[Ti?n Gi?y - Ti?n M?t]]
+- [[Tr� Tu?]]

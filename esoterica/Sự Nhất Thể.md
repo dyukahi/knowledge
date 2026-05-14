@@ -1,36 +1,36 @@
-﻿---
-title: "Sự Nhất Thể (Oneness)"
+---
+title: "S? Nh?t Th? (Oneness)"
 aliases: ["Oneness", "Unity", "Non-duality"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
-# Sự Nhất Thể (Oneness)
+# S? Nh?t Th? (Oneness)
 
-**Sự Nhất Thể** là khái niệm cốt lõi trong hầu hết truyền thống tâm linh: bản chất thực sự của vạn vật là MỘT.
+**S? Nh?t Th?** l� kh�i ni?m c?t l�i trong h?u h?t truy?n th?ng t�m linh: b?n ch?t th?c s? c?a v?n v?t l� M?T.
 
 *Oneness is the core concept in most spiritual traditions: the true nature of all things is ONE.*
 
-> "We are not human beings having a spiritual experience. We are spiritual beings having a human experience." — Pierre Teilhard de Chardin
+> "We are not human beings having a spiritual experience. We are spiritual beings having a human experience." - Pierre Teilhard de Chardin
 
 ---
 
-## Trong Các Truyền thống / Across Traditions
+## Trong C�c Truy?n th?ng / Across Traditions
 
 | Tradition | Term | Meaning |
 |-----------|------|---------|
 | **Hinduism** | Brahman/Atman | Universal Self = Individual Self |
-| **Buddhism** | Interbeing | Everything interconnected / Mọi thứ liên kết |
-| **Taoism** | Tao | One source of all / Nguồn của tất cả |
+| **Buddhism** | Interbeing | Everything interconnected / M?i th? li�n k?t |
+| **Taoism** | Tao | One source of all / Ngu?n c?a t?t c? |
 | **Christianity** | "I and the Father are one" | Unity with God |
 | **Sufism** | Wahdat al-Wujud | Unity of Being |
-| **Science** | Field theory | Unified field / Trường thống nhất |
+| **Science** | Field theory | Unified field / Tru?ng th?ng nh?t |
 
 ---
 
-## Tại sao Bị Che giấu? / Why Hidden?
+## T?i sao B? Che gi?u? / Why Hidden?
 
-### Divide and Conquer / Chia để Trị
+### Divide and Conquer / Chia d? Tr?
 
 | Method | Effect |
 |--------|--------|
@@ -39,71 +39,71 @@ status: refined
 | **Nationality** | Border conflicts |
 | **Politics** | Left vs right |
 
-→ Divided people = can't unite against [[Elite]]
+? Divided people = can't unite against [[Elite]]
 
-### Fear of Unity / Sợ Sự Đoàn kết
+### Fear of Unity / S? S? �o�n k?t
 
 | If United | Result |
 |-----------|--------|
-| One humanity | Uncontrollable / Không thể kiểm soát |
+| One humanity | Uncontrollable / Kh�ng th? ki?m so�t |
 | One people | End of power structure |
-| Remember oneness | [[Ma Trận]] collapses |
+| Remember oneness | [[Ma Tr?n]] collapses |
 
 ---
 
-## Ảo tưởng Chia tách / Illusion of Separation
+## ?o tu?ng Chia t�ch / Illusion of Separation
 
-### [[Nhị Nguyên]] Trap
+### [[Nh? Nguy�n]] Trap
 
 | Duality | Reality |
 |---------|---------|
-| Good/evil | Useful for navigation / Hữu ích để điều hướng |
-| Us/them | But not ultimate truth / Nhưng không phải sự thật tối hậu |
-| Matter/spirit | Maya (illusion) / Ảo (Maya) |
+| Good/evil | Useful for navigation / H?u �ch d? di?u hu?ng |
+| Us/them | But not ultimate truth / Nhung kh�ng ph?i s? th?t t?i h?u |
+| Matter/spirit | Maya (illusion) / ?o (Maya) |
 
-### Ego's Role / Vai trò Bản ngã
+### Ego's Role / Vai tr� B?n ng�
 
-- Creates sense of separate self / Tạo cảm giác tách biệt
-- Necessary for survival / Cần cho sinh tồn
-- But not who we truly are / Nhưng không phải ta thật sự
+- Creates sense of separate self / T?o c?m gi�c t�ch bi?t
+- Necessary for survival / C?n cho sinh t?n
+- But not who we truly are / Nhung kh�ng ph?i ta th?t s?
 - See [[Individuation]]
 
 ---
 
-## Implications / Hàm ý
+## Implications / H�m �
 
-### Personal / Cá nhân
+### Personal / C� nh�n
 
 | Action | Effect |
 |--------|--------|
-| **Harm others** | = Harm self / Hại người = Hại mình |
-| **Help others** | = Help self / Giúp người = Giúp mình |
-| **Competition** | Unnecessary / Không cần thiết |
-| **Compassion** | Natural / Tự nhiên |
+| **Harm others** | = Harm self / H?i ngu?i = H?i m�nh |
+| **Help others** | = Help self / Gi�p ngu?i = Gi�p m�nh |
+| **Competition** | Unnecessary / Kh�ng c?n thi?t |
+| **Compassion** | Natural / T? nhi�n |
 
-### Collective / Tập thể
+### Collective / T?p th?
 
 | Truth | Consequence |
 |-------|-------------|
-| **Environmental destruction** | = Self-harm / Tự hại |
-| **War** | Literally insane / Thật sự điên rồ |
-| **Cooperation** | Natural state / Trạng thái tự nhiên |
+| **Environmental destruction** | = Self-harm / T? h?i |
+| **War** | Literally insane / Th?t s? di�n r? |
+| **Cooperation** | Natural state / Tr?ng th�i t? nhi�n |
 
-### Spiritual / Tâm linh
+### Spiritual / T�m linh
 
 | Truth | Meaning |
 |-------|---------|
-| **Death** | Transition, not end / Chuyển tiếp, không kết thúc |
-| **Soul** | Returns to Source / Trở về Nguồn |
-| **Fear** | Nothing to fear / Không có gì để sợ |
+| **Death** | Transition, not end / Chuy?n ti?p, kh�ng k?t th�c |
+| **Soul** | Returns to Source / Tr? v? Ngu?n |
+| **Fear** | Nothing to fear / Kh�ng c� g� d? s? |
 
 ---
 
-## Cách Trải nghiệm / How to Experience
+## C�ch Tr?i nghi?m / How to Experience
 
 | Method | Description |
 |--------|-------------|
-| **Meditation** | Dissolve boundaries / Hòa tan ranh giới |
+| **Meditation** | Dissolve boundaries / H�a tan ranh gi?i |
 | **Nature** | Feel connection with all life |
 | **Psychedelics** | Ego dissolution (controversial) |
 | **NDEs** | Life review, overwhelming love |
@@ -113,17 +113,17 @@ status: refined
 
 ## Related
 
-### Unity / Nhất Thể
-- [[Monad]] — The One source
-- [[Gnosis]] — Direct experience
-- [[Lemuria]] — Civilization of oneness
+### Unity / Nh?t Th?
+- [[Monad]] - The One source
+- [[Gnosis]] - Direct experience
+- [[Lemuria]] - Civilization of oneness
 
-### Division / Chia tách
-- [[Nhị Nguyên]] — Illusion to transcend
-- [[Ma Trận]] — System of separation
-- [[Elite]] — Who benefits from division
-- [[Khế Ước Bí Mật Rockefeller]]
+### Division / Chia t�ch
+- [[Nh? Nguy�n]] - Illusion to transcend
+- [[Ma Tr?n]] - System of separation
+- [[Elite]] - Who benefits from division
+- [[Kh? U?c B� M?t Rockefeller]]
 
 ### Integration
 - [[Individuation]]
-- [[Tâm Lý Học Jung]]
+- [[T�m L� H?c Jung]]

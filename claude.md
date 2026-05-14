@@ -1,4 +1,4 @@
-﻿# Schema (LLM Instructions)
+# Schema (LLM Instructions)
 This directory is the root of the Knowledge IDE / Zettelkasten.
 All knowledge base operations must happen within this knowledge folder.
 

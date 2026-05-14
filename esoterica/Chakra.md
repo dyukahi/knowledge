@@ -1,19 +1,19 @@
-﻿---
-title: "Chakra (Luân Xa)"
-aliases: ["Chakra", "Luân Xa", "Energy Centers"]
+---
+title: "Chakra (Lu�n Xa)"
+aliases: ["Chakra", "Lu�n Xa", "Energy Centers"]
 date: 2026-04-26
 tags: [esoterica]
 status: refined
 ---
-# Chakra (Luân Xa)
+# Chakra (Lu�n Xa)
 
-**Chakra** (Sanskrit: चक्र = "bánh xe") là các trung tâm năng lượng trong cơ thể con người theo truyền thống Ấn Độ giáo và Phật giáo. Có 7 chakra chính chạy dọc cột sống, mỗi chakra liên kết với các khía cạnh khác nhau của thể chất, cảm xúc và tâm linh.
+**Chakra** (Sanskrit: ???? = "b�nh xe") l� c�c trung t�m nang lu?ng trong co th? con ngu?i theo truy?n th?ng ?n �? gi�o v� Ph?t gi�o. C� 7 chakra ch�nh ch?y d?c c?t s?ng, m?i chakra li�n k?t v?i c�c kh�a c?nh kh�c nhau c?a th? ch?t, c?m x�c v� t�m linh.
 
-*Chakra (Sanskrit: चक्र = "wheel") are energy centers in the human body according to Hindu and Buddhist traditions. There are 7 main chakras running along the spine, each linked to different physical, emotional, and spiritual aspects.*
+*Chakra (Sanskrit: ???? = "wheel") are energy centers in the human body according to Hindu and Buddhist traditions. There are 7 main chakras running along the spine, each linked to different physical, emotional, and spiritual aspects.*
 
 ---
 
-## 7 Chakra Chính / The 7 Main Chakras
+## 7 Chakra Ch�nh / The 7 Main Chakras
 
 ```mermaid
 flowchart TB
@@ -28,209 +28,209 @@ flowchart TB
     C7 --> C6 --> C5 --> C4 --> C3 --> C2 --> C1
 ```
 
-| # | Sanskrit | English | Vị trí |
+| # | Sanskrit | English | V? tr� |
 |---|----------|---------|--------|
-| 7 | Sahasrara | Crown | Đỉnh đầu |
-| 6 | Ajna | Third Eye | Giữa trán |
-| 5 | Vishuddha | Throat | Cổ họng |
+| 7 | Sahasrara | Crown | �?nh d?u |
+| 6 | Ajna | Third Eye | Gi?a tr�n |
+| 5 | Vishuddha | Throat | C? h?ng |
 | 4 | Anahata | Heart | Tim |
-| 3 | Manipura | Solar Plexus | Rốn |
-| 2 | Svadhisthana | Sacral | Bụng dưới |
-| 1 | Muladhara | Root | Đáy cột sống |
+| 3 | Manipura | Solar Plexus | R?n |
+| 2 | Svadhisthana | Sacral | B?ng du?i |
+| 1 | Muladhara | Root | ��y c?t s?ng |
 
 ---
 
-## Chi Tiết 7 Chakra / Detailed 7 Chakras
+## Chi Ti?t 7 Chakra / Detailed 7 Chakras
 
-| # | Tên Sanskrit | Tên Việt | Vị trí | Màu sắc | Chức năng |
+| # | T�n Sanskrit | T�n Vi?t | V? tr� | M�u s?c | Ch?c nang |
 |---|--------------|----------|--------|---------|-----------|
-| **7** | Sahasrara | Luân xa Đỉnh | Đỉnh đầu | Tím/Trắng | Giác ngộ, kết nối vũ trụ |
-| **6** | Ajna | Luân xa Con Mắt Thứ Ba | Giữa trán | Chàm | Trực giác, tầm nhìn |
-| **5** | Vishuddha | Luân xa Cổ Họng | Cổ họng | Xanh dương | Giao tiếp, biểu đạt |
-| **4** | Anahata | Luân xa Tim | Ngực | Xanh lá | Tình yêu, từ bi |
-| **3** | Manipura | Luân xa Rốn | Bụng trên | Vàng | Ý chí, quyền lực cá nhân |
-| **2** | Svadhisthana | Luân xa Xương Cùng | Bụng dưới | Cam | Sáng tạo, tình dục |
-| **1** | Muladhara | Luân xa Gốc | Đáy cột sống | Đỏ | Sinh tồn, nền tảng |
+| **7** | Sahasrara | Lu�n xa �?nh | �?nh d?u | T�m/Tr?ng | Gi�c ng?, k?t n?i vu tr? |
+| **6** | Ajna | Lu�n xa Con M?t Th? Ba | Gi?a tr�n | Ch�m | Tr?c gi�c, t?m nh�n |
+| **5** | Vishuddha | Lu�n xa C? H?ng | C? h?ng | Xanh duong | Giao ti?p, bi?u d?t |
+| **4** | Anahata | Lu�n xa Tim | Ng?c | Xanh l� | T�nh y�u, t? bi |
+| **3** | Manipura | Lu�n xa R?n | B?ng tr�n | V�ng | � ch�, quy?n l?c c� nh�n |
+| **2** | Svadhisthana | Lu�n xa Xuong C�ng | B?ng du?i | Cam | S�ng t?o, t�nh d?c |
+| **1** | Muladhara | Lu�n xa G?c | ��y c?t s?ng | �? | Sinh t?n, n?n t?ng |
 
 ---
 
-## 1. Muladhara — Luân Xa Gốc / Root Chakra
+## 1. Muladhara - Lu�n Xa G?c / Root Chakra
 
-**Vị trí:** Đáy cột sống / Base of spine
+**V? tr�:** ��y c?t s?ng / Base of spine
 
 *Location: Base of spine*
 
-### Đặc điểm / Characteristics
+### �?c di?m / Characteristics
 
-| Khía cạnh | Chi tiết |
+| Kh�a c?nh | Chi ti?t |
 |-----------|----------|
-| **Element** | Đất (Earth) |
-| **Màu sắc** | Đỏ (Red) |
-| **Âm thanh** | LAM |
-| **Tuyến** | Thượng thận (Adrenal) |
+| **Element** | �?t (Earth) |
+| **M�u s?c** | �? (Red) |
+| **�m thanh** | LAM |
+| **Tuy?n** | Thu?ng th?n (Adrenal) |
 
-### Khi Cân Bằng / When Balanced
-- Cảm giác an toàn, ổn định / Feeling safe, stable
-- Kết nối với cơ thể / Connected to body
-- Có nền tảng vững chắc / Grounded
+### Khi C�n B?ng / When Balanced
+- C?m gi�c an to�n, ?n d?nh / Feeling safe, stable
+- K?t n?i v?i co th? / Connected to body
+- C� n?n t?ng v?ng ch?c / Grounded
 
-### Khi Mất Cân Bằng / When Imbalanced
-- Lo âu, sợ hãi / Anxiety, fear
-- Vấn đề tài chính / Financial problems
-- Mất kết nối với thực tại / Disconnected from reality
+### Khi M?t C�n B?ng / When Imbalanced
+- Lo �u, s? h�i / Anxiety, fear
+- V?n d? t�i ch�nh / Financial problems
+- M?t k?t n?i v?i th?c t?i / Disconnected from reality
 
 ---
 
-## 2. Svadhisthana — Luân Xa Xương Cùng / Sacral Chakra
+## 2. Svadhisthana - Lu�n Xa Xuong C�ng / Sacral Chakra
 
-**Vị trí:** Bụng dưới, dưới rốn / Lower abdomen, below navel
+**V? tr�:** B?ng du?i, du?i r?n / Lower abdomen, below navel
 
 *Location: Lower abdomen, below navel*
 
-### Đặc điểm / Characteristics
+### �?c di?m / Characteristics
 
-| Khía cạnh | Chi tiết |
+| Kh�a c?nh | Chi ti?t |
 |-----------|----------|
-| **Element** | Nước (Water) |
-| **Màu sắc** | Cam (Orange) |
-| **Âm thanh** | VAM |
-| **Tuyến** | Sinh dục (Gonads) |
+| **Element** | Nu?c (Water) |
+| **M�u s?c** | Cam (Orange) |
+| **�m thanh** | VAM |
+| **Tuy?n** | Sinh d?c (Gonads) |
 
-### Liên Kết Với / Connected To
-- [[Năng Lượng Tình Dục]] — Sexual energy
-- [[S.E.X Và Tâm Lý Học Jung]] — Sacred energy exchange
-- Sáng tạo và cảm xúc / Creativity and emotions
+### Li�n K?t V?i / Connected To
+- [[Nang Lu?ng T�nh D?c]] - Sexual energy
+- [[S.E.X V� T�m L� H?c Jung]] - Sacred energy exchange
+- S�ng t?o v� c?m x�c / Creativity and emotions
 
-### Khi Mất Cân Bằng / When Imbalanced
-- Nghiện (porn, sex, food) / Addictions
-- Thiếu sáng tạo / Lack of creativity
-- Vấn đề cảm xúc / Emotional issues
+### Khi M?t C�n B?ng / When Imbalanced
+- Nghi?n (porn, sex, food) / Addictions
+- Thi?u s�ng t?o / Lack of creativity
+- V?n d? c?m x�c / Emotional issues
 
-> **Cảnh báo:** Đây là chakra bị khai thác nhiều nhất bởi [[Ma Trận]] thông qua [[Sự Thật Đen Tối Về Phim Khiêu Dâm|ngành công nghiệp porn]] — năng lượng sáng tạo bị rút kiệt thay vì được chuyển hóa.
+> **C?nh b�o:** ��y l� chakra b? khai th�c nhi?u nh?t b?i [[Ma Tr?n]] th�ng qua [[S? Th?t �en T?i V? Phim Khi�u D�m|ng�nh c�ng nghi?p porn]] - nang lu?ng s�ng t?o b? r�t ki?t thay v� du?c chuy?n h�a.
 >
-> *Warning: This is the chakra most exploited by [[Ma Trận|the Matrix]] through the [[Sự Thật Đen Tối Về Phim Khiêu Dâm|porn industry]] — creative energy is drained instead of transmuted.*
+> *Warning: This is the chakra most exploited by [[Ma Tr?n|the Matrix]] through the [[S? Th?t �en T?i V? Phim Khi�u D�m|porn industry]] - creative energy is drained instead of transmuted.*
 
 ---
 
-## 3. Manipura — Luân Xa Rốn / Solar Plexus Chakra
+## 3. Manipura - Lu�n Xa R?n / Solar Plexus Chakra
 
-**Vị trí:** Bụng trên, vùng dạ dày / Upper abdomen, stomach area
+**V? tr�:** B?ng tr�n, v�ng d? d�y / Upper abdomen, stomach area
 
 *Location: Upper abdomen, stomach area*
 
-### Đặc điểm / Characteristics
+### �?c di?m / Characteristics
 
-| Khía cạnh | Chi tiết |
+| Kh�a c?nh | Chi ti?t |
 |-----------|----------|
-| **Element** | Lửa (Fire) |
-| **Màu sắc** | Vàng (Yellow) |
-| **Âm thanh** | RAM |
-| **Tuyến** | Tụy (Pancreas) |
+| **Element** | L?a (Fire) |
+| **M�u s?c** | V�ng (Yellow) |
+| **�m thanh** | RAM |
+| **Tuy?n** | T?y (Pancreas) |
 
-### Liên Kết Với / Connected To
-- [[Hệ Tiêu Hóa - Bộ Não Thứ Hai]]
-- Ý chí, quyền lực cá nhân / Willpower, personal power
-- Lòng tự trọng / Self-esteem
+### Li�n K?t V?i / Connected To
+- [[H? Ti�u H�a - B? N�o Th? Hai]]
+- � ch�, quy?n l?c c� nh�n / Willpower, personal power
+- L�ng t? tr?ng / Self-esteem
 
 ---
 
-## 4. Anahata — Luân Xa Tim / Heart Chakra
+## 4. Anahata - Lu�n Xa Tim / Heart Chakra
 
-**Vị trí:** Ngực, vùng tim / Chest, heart area
+**V? tr�:** Ng?c, v�ng tim / Chest, heart area
 
 *Location: Chest, heart area*
 
-### Đặc điểm / Characteristics
+### �?c di?m / Characteristics
 
-| Khía cạnh | Chi tiết |
+| Kh�a c?nh | Chi ti?t |
 |-----------|----------|
-| **Element** | Không khí (Air) |
-| **Màu sắc** | Xanh lá (Green) |
-| **Âm thanh** | YAM |
-| **Tuyến** | Ức (Thymus) |
+| **Element** | Kh�ng kh� (Air) |
+| **M�u s?c** | Xanh l� (Green) |
+| **�m thanh** | YAM |
+| **Tuy?n** | ?c (Thymus) |
 
-### Liên Kết Với / Connected To
-- [[Tình Yêu Tỉnh Thức]] — Conscious love
-- Từ bi, tha thứ / Compassion, forgiveness
-- Cầu nối giữa 3 chakra dưới và 3 chakra trên / Bridge between lower 3 and upper 3 chakras
+### Li�n K?t V?i / Connected To
+- [[T�nh Y�u T?nh Th?c]] - Conscious love
+- T? bi, tha th? / Compassion, forgiveness
+- C?u n?i gi?a 3 chakra du?i v� 3 chakra tr�n / Bridge between lower 3 and upper 3 chakras
 
 ---
 
-## 5. Vishuddha — Luân Xa Cổ Họng / Throat Chakra
+## 5. Vishuddha - Lu�n Xa C? H?ng / Throat Chakra
 
-**Vị trí:** Cổ họng / Throat
+**V? tr�:** C? h?ng / Throat
 
 *Location: Throat*
 
-### Đặc điểm / Characteristics
+### �?c di?m / Characteristics
 
-| Khía cạnh | Chi tiết |
+| Kh�a c?nh | Chi ti?t |
 |-----------|----------|
-| **Element** | Ether/Âm thanh (Sound) |
-| **Màu sắc** | Xanh dương (Blue) |
-| **Âm thanh** | HAM |
-| **Tuyến** | Giáp (Thyroid) |
+| **Element** | Ether/�m thanh (Sound) |
+| **M�u s?c** | Xanh duong (Blue) |
+| **�m thanh** | HAM |
+| **Tuy?n** | Gi�p (Thyroid) |
 
-### Liên Kết Với / Connected To
-- Giao tiếp chân thật / Authentic communication
-- Biểu đạt sáng tạo / Creative expression
-- Nói sự thật / Speaking truth
+### Li�n K?t V?i / Connected To
+- Giao ti?p ch�n th?t / Authentic communication
+- Bi?u d?t s�ng t?o / Creative expression
+- N�i s? th?t / Speaking truth
 
 ---
 
-## 6. Ajna — Luân Xa Con Mắt Thứ Ba / Third Eye Chakra
+## 6. Ajna - Lu�n Xa Con M?t Th? Ba / Third Eye Chakra
 
-**Vị trí:** Giữa trán, giữa hai lông mày / Forehead, between eyebrows
+**V? tr�:** Gi?a tr�n, gi?a hai l�ng m�y / Forehead, between eyebrows
 
 *Location: Forehead, between eyebrows*
 
-### Đặc điểm / Characteristics
+### �?c di?m / Characteristics
 
-| Khía cạnh | Chi tiết |
+| Kh�a c?nh | Chi ti?t |
 |-----------|----------|
-| **Element** | Ánh sáng (Light) |
-| **Màu sắc** | Chàm (Indigo) |
-| **Âm thanh** | OM |
-| **Tuyến** | [[Tuyến Tùng]] (Pineal) |
+| **Element** | �nh s�ng (Light) |
+| **M�u s?c** | Ch�m (Indigo) |
+| **�m thanh** | OM |
+| **Tuy?n** | [[Tuy?n T�ng]] (Pineal) |
 
-### Liên Kết Với / Connected To
-- [[Tuyến Tùng]] — Pineal gland (seat of the soul)
-- Trực giác / Intuition
-- Tầm nhìn nội tại / Inner vision
-- [[Gnosis]] — Direct knowing
+### Li�n K?t V?i / Connected To
+- [[Tuy?n T�ng]] - Pineal gland (seat of the soul)
+- Tr?c gi�c / Intuition
+- T?m nh�n n?i t?i / Inner vision
+- [[Gnosis]] - Direct knowing
 
-> **Quan trọng:** [[Tuyến Tùng]] là "ghế ngồi của linh hồn" theo Descartes. Chakra này bị calcify (vôi hóa) bởi fluoride, thuốc, và lifestyle hiện đại — một phần của [[Ma Trận]] để ngăn con người thức tỉnh.
+> **Quan tr?ng:** [[Tuy?n T�ng]] l� "gh? ng?i c?a linh h?n" theo Descartes. Chakra n�y b? calcify (v�i h�a) b?i fluoride, thu?c, v� lifestyle hi?n d?i - m?t ph?n c?a [[Ma Tr?n]] d? ngan con ngu?i th?c t?nh.
 >
-> *Important: The [[Tuyến Tùng|Pineal gland]] is the "seat of the soul" according to Descartes. This chakra is calcified by fluoride, medications, and modern lifestyle — part of [[Ma Trận|the Matrix]] to prevent awakening.*
+> *Important: The [[Tuy?n T�ng|Pineal gland]] is the "seat of the soul" according to Descartes. This chakra is calcified by fluoride, medications, and modern lifestyle - part of [[Ma Tr?n|the Matrix]] to prevent awakening.*
 
 ---
 
-## 7. Sahasrara — Luân Xa Đỉnh / Crown Chakra
+## 7. Sahasrara - Lu�n Xa �?nh / Crown Chakra
 
-**Vị trí:** Đỉnh đầu / Top of head
+**V? tr�:** �?nh d?u / Top of head
 
 *Location: Top of head*
 
-### Đặc điểm / Characteristics
+### �?c di?m / Characteristics
 
-| Khía cạnh | Chi tiết |
+| Kh�a c?nh | Chi ti?t |
 |-----------|----------|
-| **Element** | Tư tưởng/Vũ trụ (Thought/Cosmos) |
-| **Màu sắc** | Tím/Trắng (Violet/White) |
-| **Âm thanh** | Silence |
-| **Tuyến** | Yên (Pituitary) |
+| **Element** | Tu tu?ng/Vu tr? (Thought/Cosmos) |
+| **M�u s?c** | T�m/Tr?ng (Violet/White) |
+| **�m thanh** | Silence |
+| **Tuy?n** | Y�n (Pituitary) |
 
-### Liên Kết Với / Connected To
-- [[Sự Nhất Thể]] — Oneness
-- Giác ngộ / Enlightenment
-- Kết nối với nguồn / Connection to Source
-- [[Vô Thức Tập Thể]] — Collective unconscious
+### Li�n K?t V?i / Connected To
+- [[S? Nh?t Th?]] - Oneness
+- Gi�c ng? / Enlightenment
+- K?t n?i v?i ngu?n / Connection to Source
+- [[V� Th?c T?p Th?]] - Collective unconscious
 
 ---
 
-## Kundalini — Năng Lượng Rắn Lửa
+## Kundalini - Nang Lu?ng R?n L?a
 
-**Kundalini** (Sanskrit: "cuộn tròn") là năng lượng nguyên thủy nằm cuộn ở đáy cột sống (Muladhara). Khi được đánh thức, nó đi lên qua tất cả 7 chakra.
+**Kundalini** (Sanskrit: "cu?n tr�n") l� nang lu?ng nguy�n th?y n?m cu?n ? d�y c?t s?ng (Muladhara). Khi du?c d�nh th?c, n� di l�n qua t?t c? 7 chakra.
 
 *Kundalini (Sanskrit: "coiled") is the primal energy coiled at the base of the spine (Muladhara). When awakened, it rises through all 7 chakras.*
 
@@ -248,18 +248,18 @@ flowchart BT
     S --> E
 ```
 
-### Cảnh Báo / Warning
+### C?nh B�o / Warning
 
-Kundalini awakening không nên bị ép buộc. Nếu không chuẩn bị, có thể gây:
-- Khủng hoảng tâm lý / Psychological crisis
-- Vấn đề sức khỏe / Health issues
+Kundalini awakening kh�ng n�n b? �p bu?c. N?u kh�ng chu?n b?, c� th? g�y:
+- Kh?ng ho?ng t�m l� / Psychological crisis
+- V?n d? s?c kh?e / Health issues
 - "Spiritual emergency"
 
 *Kundalini awakening should not be forced. Without preparation, it can cause psychological crisis, health issues, and "spiritual emergency."*
 
 ---
 
-## Ma Trận Khai Thác Chakra / Matrix Exploitation
+## Ma Tr?n Khai Th�c Chakra / Matrix Exploitation
 
 ```mermaid
 flowchart LR
@@ -274,57 +274,57 @@ flowchart LR
     M -->|Block| C6
 ```
 
-[[Elite]] hiểu rõ hệ thống chakra và khai thác nó:
+[[Elite]] hi?u r� h? th?ng chakra v� khai th�c n�:
 
 *The [[Elite]] understand the chakra system and exploit it:*
 
-| Chakra | Cách khai thác | Mục đích |
+| Chakra | C�ch khai th�c | M?c d�ch |
 |--------|---------------|----------|
-| **2 (Sacral)** | Porn, hypersexualization | Rút kiệt năng lượng sáng tạo |
-| **3 (Solar Plexus)** | Fear-based media | Kiểm soát ý chí |
-| **6 (Third Eye)** | Fluoride, processed food | Ngăn trực giác, thức tỉnh |
+| **2 (Sacral)** | Porn, hypersexualization | R�t ki?t nang lu?ng s�ng t?o |
+| **3 (Solar Plexus)** | Fear-based media | Ki?m so�t � ch� |
+| **6 (Third Eye)** | Fluoride, processed food | Ngan tr?c gi�c, th?c t?nh |
 
 ---
 
-## Thực Hành Cân Bằng / Balancing Practices
+## Th?c H�nh C�n B?ng / Balancing Practices
 
-### Thiền Định / Meditation
-- Tập trung vào từng chakra / Focus on each chakra
-- Hình dung màu sắc tương ứng / Visualize corresponding colors
-- [[Kỹ Thuật Thiền Định Kogi]]
+### Thi?n �?nh / Meditation
+- T?p trung v�o t?ng chakra / Focus on each chakra
+- H�nh dung m�u s?c tuong ?ng / Visualize corresponding colors
+- [[K? Thu?t Thi?n �?nh Kogi]]
 
-### Âm Thanh / Sound
-- Mantra cho từng chakra (LAM, VAM, RAM, YAM, HAM, OM)
+### �m Thanh / Sound
+- Mantra cho t?ng chakra (LAM, VAM, RAM, YAM, HAM, OM)
 - Singing bowls tuned to chakra frequencies
-- [[Tần Số Schumann]]
+- [[T?n S? Schumann]]
 
-### Thể Chất / Physical
+### Th? Ch?t / Physical
 - Yoga poses for each chakra
 - Breathwork (Pranayama)
-- [[Tinh Khí Thần]] — Energy cultivation
+- [[Tinh Kh� Th?n]] - Energy cultivation
 
-### Lối Sống / Lifestyle
-- Tránh fluoride / Avoid fluoride
+### L?i S?ng / Lifestyle
+- Tr�nh fluoride / Avoid fluoride
 - Clean diet
-- [[Y Tế Tự Nhiên]]
+- [[Y T? T? Nhi�n]]
 
 ---
 
 ## Related
 
-### Năng Lượng / Energy
-- [[Năng Lượng Tình Dục]] — Sexual/creative energy
-- [[Tinh Khí Thần]] — Jing, Qi, Shen
-- Kundalini — Serpent energy
-- [[Tuyến Tùng]] — Pineal gland
+### Nang Lu?ng / Energy
+- [[Nang Lu?ng T�nh D?c]] - Sexual/creative energy
+- [[Tinh Kh� Th?n]] - Jing, Qi, Shen
+- Kundalini - Serpent energy
+- [[Tuy?n T�ng]] - Pineal gland
 
-### Tâm Linh / Spirituality
-- [[Gnosis]] — Direct knowing
-- [[Sự Nhất Thể]] — Oneness
-- [[Vô Thức Tập Thể]] — Collective unconscious
+### T�m Linh / Spirituality
+- [[Gnosis]] - Direct knowing
+- [[S? Nh?t Th?]] - Oneness
+- [[V� Th?c T?p Th?]] - Collective unconscious
 
-### Ma Trận / Matrix
-- [[Sự Thật Đen Tối Về Phim Khiêu Dâm]] — Energy harvesting
-- [[Ma Trận]] — Control system
-- [[Kiểm Soát Tâm Trí]] — Mind control
-- [[Thực Thể Cõi Trung Giới]] — Parasitic entities
+### Ma Tr?n / Matrix
+- [[S? Th?t �en T?i V? Phim Khi�u D�m]] - Energy harvesting
+- [[Ma Tr?n]] - Control system
+- [[Ki?m So�t T�m Tr�]] - Mind control
+- [[Th?c Th? C�i Trung Gi?i]] - Parasitic entities
