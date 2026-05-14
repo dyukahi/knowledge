@@ -177,9 +177,9 @@ Nếu dùng logic thông thường, điều này khó giải thích. Nhưng nế
 
 ### Karma Disclosure
 
-Trong nhiều truyền thống huyền học, có một nguyên tắc: các thế lực phải disclose plan trước khi hành động — để không vi phạm free will. Nếu bạn được told nhưng không listen, đó là your choice. *If you're told but don't listen, that's your choice.*
+Trong nhiều truyền thống huyền học, có một nguyên tắc: các thế lực phải disclose plan trước khi hành động — để không vi phạm free will. Đây là [[Karma Disclosure - Truth Hidden In Plain Sight|Karma Disclosure]] — quy luật buộc phải tiết lộ sự thật trước khi hành động. Nếu bạn được told nhưng không listen, đó là your choice. *If you're told but don't listen, that's your choice.*
 
-Hints nằm khắp nơi: phim Hollywood với predictive programming, sách của Elite như Brave New World và 1984, WEF public statements, Georgia Guidestones (đã bị phá), UN Agenda 21/2030. "Hiding in plain sight" không phải vì họ muốn khoe — mà vì Karma requires disclosure.
+Hints nằm khắp nơi: phim Hollywood với [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|predictive programming]], sách của Elite như Brave New World và 1984, WEF public statements, Georgia Guidestones (đã bị phá), UN Agenda 21/2030. "Hiding in plain sight" không phải vì họ muốn khoe — mà vì Karma requires disclosure.
 
 ### Pattern Trong Chu Kỳ Ngàn Năm
 
@@ -203,11 +203,31 @@ Hiểu game không có nghĩa phải chơi bẩn. Mục đích là hiểu dynami
 
 ## Related
 
+### Sex & Energy
 - [[Chimera]] — DNA và energy mixing
 - [[S.E.X Và Tâm Lý Học Jung]] — Sacred Energy eXchange
+- [[S.E.X]] — Bản chất năng lượng của tình dục
+- [[Sự Thật Đen Tối Về Phim Khiêu Dâm]] — Porn industry
+
+### Psychology
 - [[Tâm Lý Học Jung]] — Anima/Animus
-- [[Ma Trận]] — Hệ thống kiểm soát
-- [[Kiểm Soát Tâm Trí]] — Mind control techniques
-- [[Báo Cáo 2030]] — Elite agenda
-- [[Elite]] — Ai đứng sau?
 - [[Individuation]] — Con đường trở nên toàn vẹn
+- [[Nguyên Mẫu]] — Archetypes
+- [[Vô Thức Tập Thể]] — Collective unconscious
+
+### Ma Trận & Control
+- [[Ma Trận]] — Hệ thống kiểm soát
+- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]] — Deep dive
+- [[Kiểm Soát Tâm Trí]] — Mind control techniques
+- [[Elite]] — Ai đứng sau?
+- [[Báo Cáo 2030]] — Elite agenda
+
+### Disclosure & Programming
+- [[Karma Disclosure - Truth Hidden In Plain Sight]] — Quy luật tiết lộ
+- [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] — Hollywood programming
+- [[Hollywood - Cây Đũa Phép Của Phù Thủy]] — Entertainment as magic
+- [[Word Magic - Ngôn Ngữ Của Phù Thủy]] — Language manipulation
+
+### History & Cycles
+- [[Chu Kỳ Vũ Trụ - Yugas & Kalpas]] — Civilizational cycles
+- [[Lịch Sử Song Song - Khi Thế Giới Dựng Bộ]] — Hidden history
