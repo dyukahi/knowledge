@@ -219,6 +219,9 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 
 ## 🔄 Recent Updates / Cập Nhật Gần Đây
 
+**May 14, 2026:**
+- 🧩 **[[Tâm Lý Học Tiến Hóa Về Giới Tính]]** — REWRITE: Prose style, expanded Related links, Karma Disclosure + Predictive Programming wikilinks
+
 **May 13, 2026:**
 - 🔮 **[[Atlantis]]** — REWRITE: Prose style + Mermaid diagrams, Tuaoi Stone crystal tech, Bermuda Triangle connection, Children of Law of One vs Sons of Belial, Loosh framework
 
