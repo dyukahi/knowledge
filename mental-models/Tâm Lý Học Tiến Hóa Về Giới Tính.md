@@ -230,4 +230,4 @@ Hiểu game không có nghĩa phải chơi bẩn. Mục đích là hiểu dynami
 
 ### History & Cycles
 - [[Chu Kỳ Vũ Trụ - Yugas & Kalpas]] — Civilizational cycles
-- [[Lịch Sử Song Song - Khi Thế Giới Dựng Bộ]] — Hidden history
+- [[Lịch Sử Song Song — Khi Thế Giới Đồng Bộ]] — Hidden history
