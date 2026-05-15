@@ -218,6 +218,9 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 
 ## 🔄 Recent Updates / Cập Nhật Gần Đây
 
+**May 15, 2026:**
+- 🔮 **[[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]]** — REWRITE: Darwin debunked, missing links fraud, OOPArts, giant skeletons, Annunaki connection
+
 **May 14, 2026:**
 - 🧩 **[[Tâm Lý Học Tiến Hóa Về Giới Tính]]** — REWRITE: Prose style, expanded Related links, Karma Disclosure + Predictive Programming wikilinks
 
