@@ -1,23 +1,23 @@
----
+﻿---
 title: "Suramin"
-aliases: ["Pine Needle Tea", "Tr� L� Th�ng"]
+aliases: ["Pine Needle Tea", "Trà Lá Thông"]
 date: 2026-04-07
 tags: [health]
 status: refined
 ---
 # Suramin
 
-**Suramin** l� h?p ch?t t? v? c�y th�ng, ph�t hi?n nam 1916. Trong [[Y T? T? Nhi�n|y t? t? nhi�n]], du?c nghi�n c?u v? t�c d?ng l�n h? th?n kinh v� nh?n th?c.
+**Suramin** là hợp chất từ vỏ cây thông, phát hiện năm 1916. Trong [[Y Tế Tự Nhiên|y tế tự nhiên]], được nghiên cứu về tác động lên hệ thần kinh và nhận thức.
 
 *Suramin is a compound from pine bark, discovered 1916. In natural health, studied for effects on nervous system and cognition.*
 
-> "Suramin" = "ThirdEye" = 95 ([[Gematria]]) - Coincidence?
+> "Suramin" = "ThirdEye" = 95 ([[Gematria]]) — Coincidence?
 
 ---
 
-## Ngu?n T? nhi�n / Natural Sources
+## Nguồn Tự nhiên / Natural Sources
 
-### Pine Needle Tea / Tr� L� Th�ng
+### Pine Needle Tea / Trà Lá Thông
 
 | Species | Name |
 |---------|------|
@@ -25,19 +25,19 @@ status: refined
 | **Pinus sylvestris** | Scots Pine |
 | **Other pines** | Various species |
 
-### Recipe / C�ch l�m
+### Recipe / Cách làm
 
-1. Harvest fresh pine needles / Thu ho?ch l� th�ng tuoi
-2. Rinse, chop / R?a s?ch, c?t nh?
-3. Steep in hot water 70-80�C (not boiling) / Ng�m nu?c n�ng
-4. Wait 10-15 minutes / �?i 10-15 ph�t
-5. Drink warm, add honey / U?ng ?m, th�m m?t ong
+1. Harvest fresh pine needles / Thu hoạch lá thông tươi
+2. Rinse, chop / Rửa sạch, cắt nhỏ
+3. Steep in hot water 70-80°C (not boiling) / Ngâm nước nóng
+4. Wait 10-15 minutes / Đợi 10-15 phút
+5. Drink warm, add honey / Uống ấm, thêm mật ong
 
-?? **Warning / C?nh b�o:** Avoid toxic species (Yew). Pregnant women should not use.
+⚠️ **Warning / Cảnh báo:** Avoid toxic species (Yew). Pregnant women should not use.
 
 ---
 
-## T�c d?ng Nghi�n c?u / Researched Effects
+## Tác dụng Nghiên cứu / Researched Effects
 
 ### 1. Autism Studies
 
@@ -51,25 +51,25 @@ status: refined
 
 - Effective against trypanosomes (sleeping sickness)
 - May affect other parasites
-- Connection to [[T� Linh]]?
+- Connection to [[Tà Linh]]?
 
 ### 3. Purinergic Signaling
 
 | Action | Effect |
 |--------|--------|
 | **Block ATP receptors** | Reset cell communication |
-| **"Factory reset"** | For nervous system / Cho h? th?n kinh |
+| **"Factory reset"** | For nervous system / Cho hệ thần kinh |
 
 ---
 
-## Suramin & [[Tuy?n T�ng|Third Eye]]
+## Suramin & [[Tuyến Tùng|Third Eye]]
 
 ### 1. Decalcify Pineal Gland
 
 | Effect | Description |
 |--------|-------------|
-| **Remove calcification** | Lo?i b? v�i h�a |
-| **Restore function** | Ph?c h?i ch?c nang Third Eye |
+| **Remove calcification** | Loại bỏ vôi hóa |
+| **Restore function** | Phục hồi chức năng Third Eye |
 | **Increase production** | Melatonin, DMT |
 
 ### 2. [[Gematria]] Connection
@@ -77,48 +77,48 @@ status: refined
 | Word | Value | Meaning |
 |------|-------|---------|
 | **Suramin** | 95 | Compound |
-| **ThirdEye** | 95 | Tuy?n T�ng |
+| **ThirdEye** | 95 | Tuyến Tùng |
 | **Ethereum** | 95 | Digital value |
 
-Coincidence or design? / Tr�ng h?p hay thi?t k??
+Coincidence or design? / Trùng hợp hay thiết kế?
 
 ---
 
-## C�ch Ti?p c?n / Approaches
+## Cách Tiếp cận / Approaches
 
-### ? Pine Needle Tea (Safe / An to�n)
+### ✅ Pine Needle Tea (Safe / An toàn)
 
 | Benefit | Description |
 |---------|-------------|
-| **Natural form** | Mild, gentle / Nh? nh�ng |
+| **Natural form** | Mild, gentle / Nhẹ nhàng |
 | **Daily use** | Can drink regularly |
 | **Contains** | Vitamin C, antioxidants |
 | **Shikimic acid** | Also in Tamiflu |
 
-### ?? Pharmaceutical Suramin (Caution / Th?n tr?ng)
+### ⚠️ Pharmaceutical Suramin (Caution / Thận trọng)
 
 | Issue | Warning |
 |-------|---------|
-| **Medical supervision** | Required / B?t bu?c |
+| **Medical supervision** | Required / Bắt buộc |
 | **Side effects** | Present |
 | **Legal access** | Difficult |
-| **Don't self-administer** | Kh�ng t? � ti�m/u?ng |
+| **Don't self-administer** | Không tự ý tiêm/uống |
 
 ---
 
 ## Related
 
-### Third Eye / Con M?t Th? Ba
-- [[Tuy?n T�ng]] - Third Eye connection
-- [[Gematria]] - Hidden numerology
-- [[T?n s? c?ng hu?ng gi?a Mu?i v� Tuy?n t�ng]]
+### Third Eye / Con Mắt Thứ Ba
+- [[Tuyến Tùng]] — Third Eye connection
+- [[Gematria]] — Hidden numerology
+- [[Tần số cộng hưởng giữa Muối và Tuyến tùng]]
 
-### Natural Health / Y t? T? nhi�n
-- [[Y T? T? Nhi�n]]
-- [[Thuy?t Vi Sinh N?i Sinh]]
+### Natural Health / Y tế Tự nhiên
+- [[Y Tế Tự Nhiên]]
+- [[Thuyết Vi Sinh Nội Sinh]]
 - [[Plasma Quinton]]
 
 ### Parasites & Detox
-- [[T� Linh]]
-- [[Virus v� Ki?p T?t D?ch]]
-- [[Mebendazole - Thu?c T?y Giun Ch?ng Ung Thu]] - Same pattern: antiparasitic ? anticancer
+- [[Tà Linh]]
+- [[Virus và Kiếp Tật Dịch]]
+- [[Mebendazole - Thuốc Tẩy Giun Chống Ung Thư]] — Same pattern: antiparasitic → anticancer

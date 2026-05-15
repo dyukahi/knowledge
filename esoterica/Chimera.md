@@ -37,7 +37,7 @@ status: refined
 
 | Situation | Effect |
 |-----------|--------|
-| **Multiple partners** | Mixed energy (low level) / Năng lượng h�-n tạp |
+| **Multiple partners** | Mixed energy (low level) / Năng lượng hỗn tạp |
 | **"Tam tinh thành nhất độc"** | Degraded decision-making / Quyết định kém sáng suốt |
 | **Loss of identity** | Mất bản sắc cá nhân / Lost sense of self |
 

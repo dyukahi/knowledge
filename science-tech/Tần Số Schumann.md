@@ -1,21 +1,21 @@
----
-title: "T?n S? Schumann (Schumann Resonance)"
+﻿---
+title: "Tần Số Schumann (Schumann Resonance)"
 aliases: ["Schumann Resonance", "Earth's Heartbeat"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined
 ---
-# T?n S? Schumann (Schumann Resonance)
+# Tần Số Schumann (Schumann Resonance)
 
-**T?n S? Schumann** l� c�c d?nh ph? trong ph?n c?c th?p t?n (ELF) c?a ph? di?n t? Tr�i �?t. �u?c g?i l� "nh?p tim" c?a h�nh tinh.
+**Tần Số Schumann** là các đỉnh phổ trong phần cực thấp tần (ELF) của phổ điện từ Trái Đất. Được gọi là "nhịp tim" của hành tinh.
 
 *Schumann Resonance is the set of spectral peaks in the ELF portion of Earth's electromagnetic spectrum. Called the "heartbeat" of the planet.*
 
 ---
 
-## Khoa h?c Co b?n / Basic Science
+## Khoa học Cơ bản / Basic Science
 
-### Discovery / Ph�t hi?n
+### Discovery / Phát hiện
 
 | Aspect | Detail |
 |--------|--------|
@@ -23,14 +23,14 @@ status: refined
 | **Method** | Mathematical prediction before measurement |
 | **Confirmed** | 1954 |
 
-### Mechanism / Co ch?
+### Mechanism / Cơ chế
 
-- Lightning strikes (~50/second globally) / S�t d�nh (~50 l?n/gi�y to�n c?u)
+- Lightning strikes (~50/second globally) / Sét đánh (~50 lần/giây toàn cầu)
 - Creates EM waves
 - Trapped between Earth surface & ionosphere
-- Forms resonant cavity / T?o khoang c?ng hu?ng
+- Forms resonant cavity / Tạo khoang cộng hưởng
 
-### Frequencies / T?n s?
+### Frequencies / Tần số
 
 | Harmonic | Frequency | Brain State |
 |----------|-----------|-------------|
@@ -40,24 +40,24 @@ status: refined
 | **4th** | 27.3 Hz | Gamma |
 | **5th** | 33.8 Hz | Gamma |
 
-> **7.83 Hz** = "Heartbeat of Earth" / "Nh?p tim Tr�i �?t"
+> **7.83 Hz** = "Heartbeat of Earth" / "Nhịp tim Trái Đất"
 
 ---
 
-## Brain Connection / K?t n?i N�o b?
+## Brain Connection / Kết nối Não bộ
 
 | Fact | Implication |
 |------|-------------|
 | **Evolved with frequency** | Humans tuned to Earth |
-| **Brain resonates** | N�o c?ng hu?ng v?i 7.83 Hz |
-| **Disconnection** | Mental health issues / V?n d? s?c kh?e t�m th?n |
-| **Nature heals** | Reconnection restores / Thi�n nhi�n ch?a l�nh |
+| **Brain resonates** | Não cộng hưởng với 7.83 Hz |
+| **Disconnection** | Mental health issues / Vấn đề sức khỏe tâm thần |
+| **Nature heals** | Reconnection restores / Thiên nhiên chữa lành |
 
 ---
 
-## S? Thay d?i G?n d�y / Recent Changes
+## Sự Thay đổi Gần đây / Recent Changes
 
-### Tang T?n s? / Frequency Rising
+### Tăng Tần số / Frequency Rising
 
 | Observation | Source |
 |-------------|--------|
@@ -65,48 +65,48 @@ status: refined
 | **Spikes** | Up to 150+ Hz recorded |
 | **Monitoring** | Russian stations report |
 
-### Possible Causes / Nguy�n nh�n C� th?
+### Possible Causes / Nguyên nhân Có thể
 
 | Theory | Description |
 |--------|-------------|
 | **Solar activity** | Sun's influence |
-| **[[Chu K? Ho�ng �?o|Age of Aquarius]]** | Planetary shift |
-| **Collective consciousness** | � th?c t?p th? rising |
+| **[[Chu Kỳ Hoàng Đạo|Age of Aquarius]]** | Planetary shift |
+| **Collective consciousness** | Ý thức tập thể rising |
 | **Measurement issues** | Technical anomalies |
 
 ---
 
-## "Ascension Symptoms" / Tri?u ch?ng "Thang hoa"
+## "Ascension Symptoms" / Triệu chứng "Thăng hoa"
 
-Khi Schumann tang d?t ng?t / When Schumann spikes suddenly:
+Khi Schumann tăng đột ngột / When Schumann spikes suddenly:
 
 | Symptom | Vietnamese |
 |---------|------------|
-| Headaches, migraines | �au d?u |
-| Sleep disturbances | R?i lo?n gi?c ng? |
-| Fatigue / Energy bursts | M?t m?i / B�ng nang lu?ng |
-| Vivid dreams | Mo s?ng d?ng |
-| Emotional ups/downs | C?m x�c th?t thu?ng |
-| Ringing in ears | � tai |
+| Headaches, migraines | Đau đầu |
+| Sleep disturbances | Rối loạn giấc ngủ |
+| Fatigue / Energy bursts | Mệt mỏi / Bùng năng lượng |
+| Vivid dreams | Mơ sống động |
+| Emotional ups/downs | Cảm xúc thất thường |
+| Ringing in ears | Ù tai |
 
-**Interpretation / Gi?i th�ch:** Body adjusting to new frequencies / Co th? di?u ch?nh theo t?n s? m?i
+**Interpretation / Giải thích:** Body adjusting to new frequencies / Cơ thể điều chỉnh theo tần số mới
 
 ---
 
-## ?ng d?ng / Applications
+## Ứng dụng / Applications
 
 | Method | Benefit |
 |--------|---------|
-| **Earthing** | Ch?m d?t ch�n tr?n / Barefoot grounding |
+| **Earthing** | Chạm đất chân trần / Barefoot grounding |
 | **Meditation** | 7.83 Hz binaural beats |
 | **Nature exposure** | Reconnect with frequency |
 | **PEMF devices** | Technology solution (controversial) |
 
 ---
 
-## [[Ma Tr?n]] Connection
+## [[Ma Trận]] Connection
 
-### Why We're Disconnected / T?i sao B? Ng?t k?t n?i
+### Why We're Disconnected / Tại sao Bị Ngắt kết nối
 
 | Factor | Effect |
 |--------|--------|
@@ -115,25 +115,25 @@ Khi Schumann tang d?t ng?t / When Schumann spikes suddenly:
 | **EMF pollution** | WiFi, 5G interference |
 | **Indoor lifestyle** | No nature contact |
 
-### Conspiracy View / G�c nh�n �m muu
+### Conspiracy View / Góc nhìn Âm mưu
 
-- Deliberate disconnection? / C? t�nh ng?t k?t n?i?
-- Keep population "out of tune" / Gi? d�n "l?ch t?n"
-- Easier to control / D? ki?m so�t hon
+- Deliberate disconnection? / Cố tình ngắt kết nối?
+- Keep population "out of tune" / Giữ dân "lệch tần"
+- Easier to control / Dễ kiểm soát hơn
 
 ---
 
 ## Related
 
 ### Earth Energy
-- [[Long M?ch]] - Earth's energy system
-- [[Nang Lu?ng Aether]]
-- [[B�o T? B?c C?c vs B�o M?t Tr?i]]
+- [[Long Mạch]] — Earth's energy system
+- [[Năng Lượng Aether]]
+- [[Bão Từ Bắc Cực vs Bão Mặt Trời]]
 
 ### Frequency
 - [[Nikola Tesla]]
-- [[T?n s? c?ng hu?ng gi?a Mu?i v� Tuy?n t�ng]]
+- [[Tần số cộng hưởng giữa Muối và Tuyến tùng]]
 
 ### Cycles
-- [[Chu K? Ho�ng �?o]] - Planetary shift
-- [[V?n Ch�n, Ngu?i Kogi v� Ma Tr?n Y T?]]
+- [[Chu Kỳ Hoàng Đạo]] — Planetary shift
+- [[Vận Chín, Người Kogi và Ma Trận Y Tế]]

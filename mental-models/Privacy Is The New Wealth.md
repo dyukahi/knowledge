@@ -125,7 +125,7 @@ Billionaires là targets cho / Billionaires are targets for:
 
 ### 2. Digital Footprint = Attack Vector
 
-M�-i lần bạn post: / Every time you post:
+Mỗi lần bạn post: / Every time you post:
 
 | Post | Attack vector |
 |------|---------------|

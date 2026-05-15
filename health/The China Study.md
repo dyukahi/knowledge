@@ -1,4 +1,4 @@
----
+﻿---
 title: "The China Study"
 date: 2026-04-08
 tags: [health]
@@ -6,18 +6,18 @@ status: refined
 ---
 # The China Study
 
-**The China Study** (2005) l� c�ng tr�nh nghi�n c?u dinh du?ng quy m� l?n nh?t l?ch s?, b?i T. Colin Campbell (Cornell) v� Thomas M. Campbell II. Nghi�n c?u 65 qu?n ? Trung Qu?c, 6,500 ngu?i, trong 20 nam.
+**The China Study** (2005) là công trình nghiên cứu dinh dưỡng quy mô lớn nhất lịch sử, bởi T. Colin Campbell (Cornell) và Thomas M. Campbell II. Nghiên cứu 65 quận ở Trung Quốc, 6,500 người, trong 20 năm.
 
-## K?t Lu?n Ch�nh
+## Kết Luận Chính
 
 ### 1. Animal Protein = Disease Promoter
-- Protein d?ng v?t (casein t? s?a) promote cancer growth
-- Th� nghi?m tr�n chu?t: 20% casein ? tumors grow
-- 5% casein ? tumors shrink
-- Plant protein kh�ng c� effect n�y
+- Protein động vật (casein từ sữa) promote cancer growth
+- Thí nghiệm trên chuột: 20% casein → tumors grow
+- 5% casein → tumors shrink
+- Plant protein không có effect này
 
 ### 2. Diseases of Affluence
-| B?nh | Li�n k?t v?i |
+| Bệnh | Liên kết với |
 |------|--------------|
 | Heart disease | Animal fat, cholesterol |
 | Cancer | Animal protein |
@@ -39,7 +39,7 @@ status: refined
 - Practical results: heart disease reversal
 
 ### Critics say:
-- Correlation ? causation
+- Correlation ≠ causation
 - Cherry-picked data
 - Confounding variables
 - Denise Minger's detailed critique (2010)
@@ -57,9 +57,9 @@ status: refined
 - Optimal diet is 100% plant-based
 - One diet fits all
 
-## Li�n H? V?i V?n Ch�n, Ngu?i Kogi v� Ma Tr?n Y T?
+## Liên Hệ Với Vận Chín, Người Kogi và Ma Trận Y Tế
 
-Theo [[Y T? T? Nhi�n|Y T? T? Nhi�n]]:
+Theo [[Y Tế Tự Nhiên|Y Tế Tự Nhiên]]:
 
 ### Food Industry
 - Dairy marketing: "Got milk?"
@@ -95,8 +95,8 @@ Theo [[Y T? T? Nhi�n|Y T? T? Nhi�n]]:
 
 ## Related
 
-- [[Y T? T? Nhi�n]]
-- [[Thuy?t Vi Sinh N?i Sinh]]
-- [[C�ng Th?c Ch?a L�nh T? Nhi�n]]
-- [[Ma Tr?n]] - Food system as control
-- [[Elite]] - Who profits from sick population
+- [[Y Tế Tự Nhiên]]
+- [[Thuyết Vi Sinh Nội Sinh]]
+- [[Công Thức Chữa Lành Tự Nhiên]]
+- [[Ma Trận]] — Food system as control
+- [[Elite]] — Who profits from sick population

@@ -1,102 +1,102 @@
----
-title: "Nguy�n M?u"
-aliases: ["Nguy�n M?u", "Archetypes", "Nguy�n M?u (Archetypes)"]
+﻿---
+title: "Nguyên Mẫu"
+aliases: ["Nguyên Mẫu", "Archetypes", "Nguyên Mẫu (Archetypes)"]
 date: 2026-04-07
 tags: [mental-model]
 status: refined
 ---
-# Nguy�n M?u (Archetypes)
+# Nguyên Mẫu (Archetypes)
 
-**Nguy�n m?u** l� nh?ng h�nh ?nh v� suy nghi mang � nghia ph? qu�t qua nhi?u n?n van h�a, xu?t ph�t t? [[V� Th?c T?p Th?]] c?a nh�n lo?i.
+**Nguyên mẫu** là những hình ảnh và suy nghĩ mang ý nghĩa phổ quát qua nhiều nền văn hóa, xuất phát từ [[Vô Thức Tập Thể]] của nhân loại.
 
-*Archetypes are images and thoughts with universal meaning across cultures, originating from humanity's [[V� Th?c T?p Th?|Collective Unconscious]].*
+*Archetypes are images and thoughts with universal meaning across cultures, originating from humanity's [[Vô Thức Tập Thể|Collective Unconscious]].*
 
 ---
 
-## Jung's Core Archetypes / Nguy�n m?u Co b?n
+## Jung's Core Archetypes / Nguyên mẫu Cơ bản
 
 | Archetype | Vietnamese | Description |
 |-----------|------------|-------------|
-| **Persona** | M?t n? | B? m?t th? hi?n v?i th? gi?i / Face shown to world |
-| **Shadow** | B�ng t?i | Kh�a c?nh th� t�nh, nang lu?ng b? d� n�n / Animal nature, repressed energy |
-| **Anima/Animus** | T�nh N?/Nam | Opposite gender within / Gi?i t�nh d?i l?p b�n trong |
-| **Self** | B?n ng� | S? th?ng nh?t to�n th? / Unified totality |
+| **Persona** | Mặt nạ | Bộ mặt thể hiện với thế giới / Face shown to world |
+| **Shadow** | Bóng tối | Khía cạnh thú tính, năng lượng bị đè nén / Animal nature, repressed energy |
+| **Anima/Animus** | Tính Nữ/Nam | Opposite gender within / Giới tính đối lập bên trong |
+| **Self** | Bản ngã | Sự thống nhất toàn thể / Unified totality |
 
 ---
 
-## Chi ti?t / Details
+## Chi tiết / Details
 
-### 1. Persona (M?t n?)
+### 1. Persona (Mặt nạ)
 
-> "Th? gi?i n�y l� m?t s�n kh?u v� m?i ngu?i l� m?t di?n vi�n."
+> "Thế giới này là một sân khấu và mỗi người là một diễn viên."
 > "All the world's a stage, and all the men and women merely players."
 
-- Adaptive archetype / Nguy�n m?u th�ch ?ng
-- Necessary for social function / C?n thi?t cho x� h?i
-- Problem when identified with / V?n d? khi d?ng nh?t v?i n�
+- Adaptive archetype / Nguyên mẫu thích ứng
+- Necessary for social function / Cần thiết cho xã hội
+- Problem when identified with / Vấn đề khi đồng nhất với nó
 
-### 2. Shadow (B�ng t?i)
+### 2. Shadow (Bóng tối)
 
 | Aspect | Description |
 |--------|-------------|
-| **Contains** | Repressed desires, instincts / Ham mu?n, b?n nang b? d� n�n |
-| **Source of** | Creativity AND destruction / S�ng t?o V� ph� h?y |
-| **Integration** | Key to wholeness / Ch�a kh�a d? tr?n v?n |
+| **Contains** | Repressed desires, instincts / Ham muốn, bản năng bị đè nén |
+| **Source of** | Creativity AND destruction / Sáng tạo VÀ phá hủy |
+| **Integration** | Key to wholeness / Chìa khóa để trọn vẹn |
 
 ### 3. Anima/Animus
 
 | In Men | In Women |
 |--------|----------|
-| **Anima** - Inner feminine | **Animus** - Inner masculine |
+| **Anima** — Inner feminine | **Animus** — Inner masculine |
 | Emotions, intuition | Logic, assertion |
 | Connection to unconscious | Drive, independence |
 
-? Nh?c nh? tho�t kh?i [[Nh? Nguy�n]] trap / Reminder to escape duality trap
+→ Nhắc nhở thoát khỏi [[Nhị Nguyên]] trap / Reminder to escape duality trap
 
-### 4. Self (B?n ng�)
+### 4. Self (Bản ngã)
 
 - Goal of [[Individuation]]
-- Unification of all archetypes / Th?ng nh?t t?t c? nguy�n m?u
+- Unification of all archetypes / Thống nhất tất cả nguyên mẫu
 - Symbol: Mandala, Christ, Buddha
-- Transcends ego / Vu?t qua c�i t�i
+- Transcends ego / Vượt qua cái tôi
 
 ---
 
-## 4 Mature Masculine Archetypes / 4 Nguy�n m?u ��n �ng Tru?ng th�nh
+## 4 Mature Masculine Archetypes / 4 Nguyên mẫu Đàn ông Trưởng thành
 
 | Archetype | Vietnamese | Energy |
 |-----------|------------|--------|
-| **King** | Nh� Vua | Order, blessing, leadership |
-| **Warrior** | Chi?n Binh | Action, discipline, boundaries |
-| **Magician** | Ph�p Su | Knowledge, transformation |
-| **Lover** | Ngu?i T�nh | Passion, connection, aliveness |
+| **King** | Nhà Vua | Order, blessing, leadership |
+| **Warrior** | Chiến Binh | Action, discipline, boundaries |
+| **Magician** | Pháp Sư | Knowledge, transformation |
+| **Lover** | Người Tình | Passion, connection, aliveness |
 
-### Formula / C�ng th?c:
+### Formula / Công thức:
 ```
-Warrior � Magician � Lover = KING
+Warrior × Magician × Lover = KING
 ```
 
 Each has shadow forms (tyrant, sadist, manipulator, addict).
-*M?i nguy�n m?u c� d?ng b�ng t?i (b?o ch�a, k? t�n �c, k? thao t�ng, ngu?i nghi?n).*
+*Mỗi nguyên mẫu có dạng bóng tối (bạo chúa, kẻ tàn ác, kẻ thao túng, người nghiện).*
 
 ---
 
-## T?i sao Quan tr?ng? / Why It Matters?
+## Tại sao Quan trọng? / Why It Matters?
 
-### Universal Patterns / M� h�nh Ph? qu�t
+### Universal Patterns / Mô hình Phổ quát
 
-- Same stories across all cultures / C�ng c�u chuy?n m?i van h�a
-- Hero's journey everywhere / H�nh tr�nh anh h�ng kh?p noi
-- Why myths resonate / T?i sao th?n tho?i c?ng hu?ng
+- Same stories across all cultures / Cùng câu chuyện mọi văn hóa
+- Hero's journey everywhere / Hành trình anh hùng khắp nơi
+- Why myths resonate / Tại sao thần thoại cộng hưởng
 
-### Personal Development / Ph�t tri?n C� nh�n
+### Personal Development / Phát triển Cá nhân
 
 - Identify your dominant archetypes
 - Integrate shadow aspects
 - Balance all energies
 - Path to [[Individuation]]
 
-### Understanding Others / Hi?u Ngu?i kh�c
+### Understanding Others / Hiểu Người khác
 
 - Recognize patterns in behavior
 - See beyond surface
@@ -107,11 +107,11 @@ Each has shadow forms (tyrant, sadist, manipulator, addict).
 ## Related
 
 ### Jung & Psychology
-- [[T�m L� H?c Jung]] - Source
-- [[V� Th?c T?p Th?]] - Where archetypes live
-- [[Individuation]] - Goal
-- [[S.E.X V� T�m L� H?c Jung]]
+- [[Tâm Lý Học Jung]] — Source
+- [[Vô Thức Tập Thể]] — Where archetypes live
+- [[Individuation]] — Goal
+- [[S.E.X Và Tâm Lý Học Jung]]
 
 ### Philosophy
-- [[Nh? Nguy�n]] - Anima/Animus transcends
-- [[Manly P. Hall]] - Symbol researcher
+- [[Nhị Nguyên]] — Anima/Animus transcends
+- [[Manly P. Hall]] — Symbol researcher

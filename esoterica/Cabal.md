@@ -1,53 +1,53 @@
----
-title: "Cabal (Th? L?c Ng?m)"
+﻿---
+title: "Cabal (Thế Lực Ngầm)"
 aliases: ["Cabal", "Shadow Government", "Deep State"]
 date: 2026-04-08
 tags: [esoterica, politics-conspiracy]
 status: refined
 ---
-# Cabal (Th? L?c Ng?m)
+# Cabal (Thế Lực Ngầm)
 
-**Cabal** l� m?ng lu?i quy?n l?c ng?m v?n h�nh ph�a sau ch�nh ph?, t?p do�n v� t? ch?c qu?c t?. "Ban qu?n tr?" c?a [[Ma Tr?n]].
+**Cabal** là mạng lưới quyền lực ngầm vận hành phía sau chính phủ, tập đoàn và tổ chức quốc tế. "Ban quản trị" của [[Ma Trận]].
 
-*The Cabal is a shadow power network operating behind governments, corporations, and international organizations. The "board of directors" of [[Ma Tr?n|the Matrix]].*
+*The Cabal is a shadow power network operating behind governments, corporations, and international organizations. The "board of directors" of [[Ma Trận|the Matrix]].*
 
 ---
 
-## C?u tr�c Quy?n l?c / Power Structure
+## Cấu trúc Quyền lực / Power Structure
 
-### T?ng 1: Visible Power / Quy?n l?c Hi?n hi?n
+### Tầng 1: Visible Power / Quyền lực Hiển hiện
 
 | Role | Examples |
 |------|----------|
 | Politicians | Presidents, Congress |
 | CEOs | Tech, Media moguls |
-| **Function** | Execute policy, don't create / Th?c thi, kh�ng t?o ra |
+| **Function** | Execute policy, don't create / Thực thi, không tạo ra |
 
-### T?ng 2: Hidden Power / Quy?n l?c ?n
+### Tầng 2: Hidden Power / Quyền lực Ẩn
 
 | Entity | Role |
 |--------|------|
 | **Banking dynasties** | Rothschild, Rockefeller |
 | **Secret societies** | Skull & Bones, Bilderberg |
 | **Intelligence** | CIA, Mossad, MI6 |
-| **Function** | Create policy, coordinate / T?o ch�nh s�ch, di?u ph?i |
+| **Function** | Create policy, coordinate / Tạo chính sách, điều phối |
 
-### T?ng 3: Occult Power / Quy?n l?c Huy?n b�
+### Tầng 3: Occult Power / Quyền lực Huyền bí
 
 | Entity | Role |
 |--------|------|
-| **Ancient bloodlines** | D�ng d�i c? d?i |
+| **Ancient bloodlines** | Dòng dõi cổ đại |
 | **[[Annunaki]] priest class?** | |
 | **Non-3D entities?** | |
 | **Goal** | Maintain Matrix "game" |
 
 ---
 
-## C�ng c? Ki?m so�t / Control Tools
+## Công cụ Kiểm soát / Control Tools
 
 | Domain | Tool | Purpose |
 |--------|------|---------|
-| **Finance** | Central banks, [[Ti?n Ph�p �?nh|Fiat]] | Debt slavery / N� l? n? |
+| **Finance** | Central banks, [[Tiền Pháp Định|Fiat]] | Debt slavery / Nô lệ nợ |
 | **Information** | MSM, Big Tech | Narrative control |
 | **Education** | Standardized curriculum | Programming from childhood |
 | **Health** | Big Pharma | Dependency + profit |
@@ -55,17 +55,17 @@ status: refined
 
 ---
 
-## Chi?n thu?t / Tactics
+## Chiến thuật / Tactics
 
 ### 1. Problem-Reaction-Solution
 
 | Step | Action |
 |------|--------|
-| **1. Create problem** | Terrorist attack, virus / T?o v?n d? |
-| **2. Wait for reaction** | Fear, demand action / Ch? ph?n ?ng s? h�i |
-| **3. Offer solution** | Pre-planned, expands control / �� chu?n b? s?n |
+| **1. Create problem** | Terrorist attack, virus / Tạo vấn đề |
+| **2. Wait for reaction** | Fear, demand action / Chờ phản ứng sợ hãi |
+| **3. Offer solution** | Pre-planned, expands control / Đã chuẩn bị sẵn |
 
-### 2. Divide and Conquer / Chia d? Tr?
+### 2. Divide and Conquer / Chia để Trị
 
 | Division | Purpose |
 |----------|---------|
@@ -98,15 +98,15 @@ status: refined
 ## Related
 
 ### Power Structure
-- [[Elite]] - Visible layer of Cabal
-- [[Ma Tr?n]] - The control system
-- [[B�o C�o 2030]] - Current blueprint
+- [[Elite]] — Visible layer of Cabal
+- [[Ma Trận]] — The control system
+- [[Báo Cáo 2030]] — Current blueprint
 
 ### Methods
-- [[Gematria]] - Ritual coding
-- [[Ki?m So�t T�m Tr�]]
-- [[Nh? Nguy�n]] - Division tool
+- [[Gematria]] — Ritual coding
+- [[Kiểm Soát Tâm Trí]]
+- [[Nhị Nguyên]] — Division tool
 
 ### Origins
-- [[Nibiru v� N?n Van Minh Annunaki]]
-- [[Annunaki]] - Possible rulers
+- [[Nibiru và Nền Văn Minh Annunaki]]
+- [[Annunaki]] — Possible rulers

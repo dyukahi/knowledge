@@ -1,37 +1,37 @@
----
-title: "Elite (Gi?i Tinh Hoa)"
+﻿---
+title: "Elite (Giới Tinh Hoa)"
 date: 2026-04-12
 tags: [politics-conspiracy]
 status: refined
 related:
-  - "[[B�o C�o 2030]]"
-  - "[[Ma Tr?n]]"
-  - "[[Ti?n Gi?y - Ti?n M?t]]"
+  - "[[Báo Cáo 2030]]"
+  - "[[Ma Trận]]"
+  - "[[Tiền Giấy - Tiền Mặt]]"
 ---
-# Elite (Gi?i Tinh Hoa / The Global Elite)
+# Elite (Giới Tinh Hoa / The Global Elite)
 
-**Elite** d?i di?n cho t?ng l?p ch�p bu thao t�ng c�c h? th?ng ch�nh tr?, t�i ch�nh v� truy?n th�ng to�n c?u. Thu?ng du?c nh?c d?n nhu Cabal, Illuminati, hay Th? L?c Ng?m.
+**Elite** đại diện cho tầng lớp chóp bu thao túng các hệ thống chính trị, tài chính và truyền thông toàn cầu. Thường được nhắc đến như Cabal, Illuminati, hay Thế Lực Ngầm.
 
 *The **Elite** represents the top tier that manipulates global political, financial, and media systems. Often referred to as the Cabal, Illuminati, or Shadow Government.*
 
 ---
 
-## C�ng c? ki?m so�t / Tools of Control
+## Công cụ kiểm soát / Tools of Control
 
-### 1. H? th?ng ti?n t? / Monetary System
+### 1. Hệ thống tiền tệ / Monetary System
 
-H? duy tr� quy?n l?c th�ng qua **Ma Tr?n Ki?m So�t K�p**, v?i c�ng c? m?nh nh?t l� [[Ti?n Gi?y - Ti?n M?t|ti?n ph�p d?nh (Fiat)]].
+Họ duy trì quyền lực thông qua **Ma Trận Kiểm Soát Kép**, với công cụ mạnh nhất là [[Tiền Giấy - Tiền Mặt|tiền pháp định (Fiat)]].
 
-*They maintain power through a **Dual Control Matrix**, with the most powerful tool being [[Ti?n Gi?y - Ti?n M?t|fiat currency]].*
+*They maintain power through a **Dual Control Matrix**, with the most powerful tool being [[Tiền Giấy - Tiền Mặt|fiat currency]].*
 
-| Tool / C�ng c? | Method / Phuong ph�p |
+| Tool / Công cụ | Method / Phương pháp |
 |----------------|----------------------|
-| Central Banks | In ti?n v� t?i v? / Print money endlessly |
-| Debt System | Ph�t h�nh n? / Issue debt |
-| Inflation | Tr�ch xu?t nang lu?ng lao d?ng / Extract labor energy |
-| [[Gen Z v� CBDC - Programmable Money Psychology|CBDC]] | Ti?n l?p tr�nh / Programmable money |
+| Central Banks | In tiền vô tội vạ / Print money endlessly |
+| Debt System | Phát hành nợ / Issue debt |
+| Inflation | Trích xuất năng lượng lao động / Extract labor energy |
+| [[Gen Z và CBDC - Programmable Money Psychology|CBDC]] | Tiền lập trình / Programmable money |
 
-### 2. Truy?n th�ng / Media
+### 2. Truyền thông / Media
 
 | Platform | Control Method |
 |----------|----------------|
@@ -40,7 +40,7 @@ H? duy tr� quy?n l?c th�ng qua **Ma Tr?n Ki?m So�t K�p**, v?i c�ng c? m?nh nh?t 
 | Entertainment | Predictive programming |
 | Education | Curriculum control |
 
-### 3. [[Ki?m So�t T�m Tr�]] / Mind Control
+### 3. [[Kiểm Soát Tâm Trí]] / Mind Control
 
 - Dopamine hijacking (social media, porn, junk food)
 - Fear-based compliance
@@ -48,51 +48,51 @@ H? duy tr� quy?n l?c th�ng qua **Ma Tr?n Ki?m So�t K�p**, v?i c�ng c? m?nh nh?t 
 
 ---
 
-## Tri th?c b? che gi?u / Hidden Knowledge
+## Tri thức bị che giấu / Hidden Knowledge
 
-Elite b? cho l� d� che gi?u nhi?u ki?n th?c c?t l�i:
+Elite bị cho là đã che giấu nhiều kiến thức cốt lõi:
 
 *The Elite is believed to have hidden core knowledge:*
 
-### Cosmology / Vu tr? h?c
-- [[Chu K? Ho�ng �?o]] - Cosmic cycles affecting consciousness
-- [[V?n Ch�n]] - Current era shift
-- [[M� H�nh �?a T�m]] - Alternative cosmology
+### Cosmology / Vũ trụ học
+- [[Chu Kỳ Hoàng Đạo]] — Cosmic cycles affecting consciousness
+- [[Vận Chín]] — Current era shift
+- [[Mô Hình Địa Tâm]] — Alternative cosmology
 
-### Human Origins / Ngu?n g?c lo�i ngu?i
-- [[Annunaki]] - Extraterrestrial intervention
-- [[Nibiru]] - Planet X
-- [[Tartaria]] - Erased civilization
+### Human Origins / Nguồn gốc loài người
+- [[Annunaki]] — Extraterrestrial intervention
+- [[Nibiru]] — Planet X
+- [[Tartaria]] — Erased civilization
 
-### Suppressed Technology / C�ng ngh? b? d�n �p
-- [[Nikola Tesla]] - Free energy
-- [[Walter Russell]] - Cosmic consciousness
-- [[Nang Lu?ng Aether]] - Aether energy
+### Suppressed Technology / Công nghệ bị đàn áp
+- [[Nikola Tesla]] — Free energy
+- [[Walter Russell]] — Cosmic consciousness
+- [[Năng Lượng Aether]] — Aether energy
 
-### Ancient Weapons / Vu kh� c? d?i
-- [[N? Th?n]] - Vietnamese ancient tech
+### Ancient Weapons / Vũ khí cổ đại
+- [[Nỏ Thần]] — Vietnamese ancient tech
 
 ---
 
-## M?c ti�u / Objectives
+## Mục tiêu / Objectives
 
 | Vietnamese | English |
 |------------|---------|
-| Ki?m so�t d�ng ch?y th�ng tin | Control information flow |
-| Ki?m so�t nang lu?ng nh�n lo?i | Control human energy |
-| Ngan ch?n th?c t?nh t?p th? | Prevent collective awakening |
-| Ch?n [[Individuation]] | Block individuation |
+| Kiểm soát dòng chảy thông tin | Control information flow |
+| Kiểm soát năng lượng nhân loại | Control human energy |
+| Ngăn chặn thức tỉnh tập thể | Prevent collective awakening |
+| Chặn [[Individuation]] | Block individuation |
 
 ---
 
-## C�c t? ch?c du?c cho l� thu?c Elite / Alleged Elite Organizations
+## Các tổ chức được cho là thuộc Elite / Alleged Elite Organizations
 
 | Organization | Role |
 |--------------|------|
 | **Bilderberg Group** | Annual secret meetings |
 | **Council on Foreign Relations** | Policy influence |
 | **Trilateral Commission** | Global coordination |
-| **World Economic Forum** | [[B�o C�o 2030|Great Reset]] |
+| **World Economic Forum** | [[Báo Cáo 2030|Great Reset]] |
 | **Bank for International Settlements** | Central bank of central banks |
 | **BlackRock/Vanguard** | Own everything |
 
@@ -101,21 +101,21 @@ Elite b? cho l� d� che gi?u nhi?u ki?n th?c c?t l�i:
 ## Related
 
 ### Series Gen Z & Agenda 2030
-- [[B�o C�o 2030]] - Elite's blueprint / Blueprint c?a Elite
-- [[Gen Z - Ph�n T�ch Ph?n Bi?n]] - Designed generation / Th? h? du?c thi?t k?
-- [[Gen Z v� CBDC - Programmable Money Psychology]]
-- [[TikTok Algorithm - Ai Ki?m So�t Worldview C?a Gen Z]]
+- [[Báo Cáo 2030]] — Elite's blueprint / Blueprint của Elite
+- [[Gen Z - Phân Tích Phản Biện]] — Designed generation / Thế hệ được thiết kế
+- [[Gen Z và CBDC - Programmable Money Psychology]]
+- [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]
 - [[Climate Anxiety as Control - Fear-Based Compliance]]
 
-### Control Systems / H? th?ng ki?m so�t
-- [[Ma Tr?n]] - The control matrix
-- [[Ki?m So�t T�m Tr�]] - Mind control
-- [[Ti?n Gi?y - Ti?n M?t]] - Fiat currency
+### Control Systems / Hệ thống kiểm soát
+- [[Ma Trận]] — The control matrix
+- [[Kiểm Soát Tâm Trí]] — Mind control
+- [[Tiền Giấy - Tiền Mặt]] — Fiat currency
 
-### Hidden History / L?ch s? b? gi?u
+### Hidden History / Lịch sử bị giấu
 - [[Annunaki]] | [[Tartaria]] | [[Nibiru]]
 
-### Suppressed Science / Khoa h?c b? d�n �p
+### Suppressed Science / Khoa học bị đàn áp
 - [[Nikola Tesla]]
 - [[Walter Russell]]
-- [[Nang Lu?ng Aether]]
+- [[Năng Lượng Aether]]

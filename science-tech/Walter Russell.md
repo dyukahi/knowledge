@@ -1,17 +1,17 @@
----
+﻿---
 title: "Walter Russell"
-aliases: ["Walter Russell (Hi?n Tri?t Hi?n �?i)"]
+aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined
 ---
-# Walter Russell (1871�1963)
+# Walter Russell (1871–1963)
 
-**Walter Russell** l� nh� b�c h?c, ngh? si v� tri?t gia M? - m?t trong nh?ng ngu?i hi?u bi?t s�u s?c nh?t v? b?n ch?t vu tr? th�ng qua tr?i nghi?m t�m linh tr?c ti?p.
+**Walter Russell** là nhà bác học, nghệ sĩ và triết gia Mỹ — một trong những người hiểu biết sâu sắc nhất về bản chất vũ trụ thông qua trải nghiệm tâm linh trực tiếp.
 
 > "The universe is not a universe of matter, but a universe of motion."
 
-## Ti?u S? Phi Thu?ng
+## Tiểu Sử Phi Thường
 
 ### Renaissance Man
 - Painter, sculptor, architect
@@ -36,28 +36,28 @@ status: refined
 
 ### 2. Two-Way Universe
 - Everything oscillates
-- Compression ? Expansion
-- Centripetal ? Centrifugal
+- Compression ↔ Expansion
+- Centripetal ↔ Centrifugal
 - Breathing universe
 
 ### 3. Wave Theory
 
 ```mermaid
 flowchart LR
-    E1["Gi�n n? (�m) | Expansion (Yin)"]
-    C1["N�n (Duong) | Compression (Yang)"]
-    E2["Gi�n n? (�m) | Expansion (Yin)"]
+    E1["Giãn nở (Âm) | Expansion (Yin)"]
+    C1["Nén (Dương) | Compression (Yang)"]
+    E2["Giãn nở (Âm) | Expansion (Yin)"]
     
-    E1 -->|"Dao d?ng | Oscillation"| C1
-    C1 -->|"Dao d?ng | Oscillation"| E2
-    E2 -->|"Chu k? | Cycle"| E1
+    E1 -->|"Dao động | Oscillation"| C1
+    C1 -->|"Dao động | Oscillation"| E2
+    E2 -->|"Chu kỳ | Cycle"| E1
 ```
 
 ### 4. Mind is Cause
 - Consciousness creates matter
 - Thought is the only force
 - Will in motion = creation
-- [[S? Nh?t Th?]] - All is Mind
+- [[Sự Nhất Thể]] — All is Mind
 
 ## Scientific Contributions
 
@@ -125,8 +125,8 @@ flowchart LR
 
 ## Related
 
-- [[Khoa H?c Ch�n Ch�nh v� Thu?ng �?]]
-- [[S? Nh?t Th?]] - Core teaching
-- [[Nikola Tesla]] - Contemporary mystic-scientist
-- [[Nang Lu?ng Aether]] - Similar concepts
-- [[Monad]] - Light/consciousness as source
+- [[Khoa Học Chân Chính và Thượng Đế]]
+- [[Sự Nhất Thể]] — Core teaching
+- [[Nikola Tesla]] — Contemporary mystic-scientist
+- [[Năng Lượng Aether]] — Similar concepts
+- [[Monad]] — Light/consciousness as source

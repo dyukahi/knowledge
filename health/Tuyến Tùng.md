@@ -1,44 +1,44 @@
----
-title: Tuy?n T�ng
-aliases: ["Pineal Gland", "Third Eye", "Con M?t Th? Ba"]
+﻿---
+title: Tuyến Tùng
+aliases: ["Pineal Gland", "Third Eye", "Con Mắt Thứ Ba"]
 date: 2026-04-07
 tags: [health]
 status: refined
 ---
-# Tuy?n T�ng (Pineal Gland / Third Eye)
+# Tuyến Tùng (Pineal Gland / Third Eye)
 
-**Tuy?n T�ng** l� co quan nh? h�nh qu? th�ng (~8mm) ? trung t�m n�o, du?c c? nh�n g?i l� "Con m?t th? ba" - noi ng? tr? c?a linh h?n.
+**Tuyến Tùng** là cơ quan nhỏ hình quả thông (~8mm) ở trung tâm não, được cổ nhân gọi là "Con mắt thứ ba" — nơi ngự trị của linh hồn.
 
-*The **Pineal Gland** is a small pine cone-shaped organ (~8mm) in the brain's center, called by ancients the "Third Eye" - seat of the soul.*
+*The **Pineal Gland** is a small pine cone-shaped organ (~8mm) in the brain's center, called by ancients the "Third Eye" — seat of the soul.*
 
-> "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light." - Matthew 6:22
+> "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light." — Matthew 6:22
 
 ---
 
-## Sinh l� h?c / Physiology
+## Sinh lý học / Physiology
 
-### V? tr� & C?u tr�c / Location & Structure
+### Vị trí & Cấu trúc / Location & Structure
 
 | Feature | Description |
 |---------|-------------|
-| **Location** | Between two hemispheres / Gi?a hai b�n c?u n�o |
+| **Location** | Between two hemispheres / Giữa hai bán cầu não |
 | **Size** | Pea-sized (~8mm) |
 | **Contains** | Rods and cones (like eyes!) |
 | **Light sensitive** | Receives light through skull |
 
-### Ch?c nang / Functions
+### Chức năng / Functions
 
 | Function | Description |
 |----------|-------------|
-| **Melatonin** | Sleep regulation / �i?u h�a gi?c ng? |
+| **Melatonin** | Sleep regulation / Điều hòa giấc ngủ |
 | **Circadian rhythm** | Day/night cycle |
 | **DMT production?** | "Spirit molecule" (debated) |
 
 ---
 
-## T�m linh / Spirituality
+## Tâm linh / Spirituality
 
-### Across Traditions / Xuy�n Truy?n th?ng
+### Across Traditions / Xuyên Truyền thống
 
 | Tradition | Name | Meaning |
 |-----------|------|---------|
@@ -47,39 +47,39 @@ status: refined
 | **Christianity** | "Single eye" | Matthew 6:22 |
 | **Descartes** | "Seat of the soul" | Mind-body interface |
 
-### Pine Cone Symbolism / Bi?u tu?ng Qu? th�ng
+### Pine Cone Symbolism / Biểu tượng Quả thông
 
 - **Vatican**: Giant pine cone statue
 - **Staff of Osiris**: Pine cone on top
 - **Pope's staff**: Pine cone
-- **Meaning**: Enlightenment / Gi�c ng?
+- **Meaning**: Enlightenment / Giác ngộ
 
 ---
 
-## V�i h�a / Calcification
+## Vôi hóa / Calcification
 
-### Nguy�n nh�n / Causes
+### Nguyên nhân / Causes
 
 | Toxin | Source |
 |-------|--------|
-| **Fluoride** | Tap water, toothpaste / Nu?c m�y, kem d�nh rang |
-| **Chlorine** | Tap water, pools / Nu?c m�y, h? boi |
+| **Fluoride** | Tap water, toothpaste / Nước máy, kem đánh răng |
+| **Chlorine** | Tap water, pools / Nước máy, hồ bơi |
 | **Calcium** | Processed foods |
 | **Mercury** | Fillings, fish |
 | **Pesticides** | Non-organic food |
 
-### H?u qu? / Consequences
+### Hậu quả / Consequences
 
 | Effect | Description |
 |--------|-------------|
 | **Sleep disorders** | Reduced melatonin |
 | **Blocked intuition** | Spiritual "blindness" |
-| **Accelerated aging** | L�o h�a nhanh |
+| **Accelerated aging** | Lão hóa nhanh |
 | **Disconnect** | From higher self |
 
 ---
 
-## Detox & Activate / Thanh l?c & K�ch ho?t
+## Detox & Activate / Thanh lọc & Kích hoạt
 
 ### Detox Substances
 
@@ -91,14 +91,14 @@ status: refined
 | **Apple cider vinegar** | Dissolves calcium |
 | **Boron** | Fluoride detox |
 
-### Avoid / Tr�nh
+### Avoid / Tránh
 
-- Fluoride products / S?n ph?m fluoride
-- Tap water (filter!) / Nu?c m�y
-- Processed foods / Th?c ph?m ch? bi?n
+- Fluoride products / Sản phẩm fluoride
+- Tap water (filter!) / Nước máy
+- Processed foods / Thực phẩm chế biến
 - EMF exposure
 
-### Activation Practices / Th?c h�nh K�ch ho?t
+### Activation Practices / Thực hành Kích hoạt
 
 | Practice | Notes |
 |----------|-------|
@@ -110,12 +110,12 @@ status: refined
 
 ---
 
-## [[Ma Tr?n]] Connection
+## [[Ma Trận]] Connection
 
 | Question | Implication |
 |----------|-------------|
-| Fluoride in water deliberate? | Population control? / Ki?m so�t d�n s?? |
-| "Zombie" population | Easier to control / D? ki?m so�t |
+| Fluoride in water deliberate? | Population control? / Kiểm soát dân số? |
+| "Zombie" population | Easier to control / Dễ kiểm soát |
 | Spiritual abilities suppressed | Disconnect from source |
 
 ---
@@ -123,12 +123,12 @@ status: refined
 ## Related
 
 ### Detox & Health
-- [[Suramin]] - Decalcification
-- [[T?n s? c?ng hu?ng gi?a Mu?i v� Tuy?n t�ng]]
-- [[Thuy?t Vi Sinh N?i Sinh]] - Terrain health
-- [[V?n Ch�n, Ngu?i Kogi v� Ma Tr?n Y T?]]
+- [[Suramin]] — Decalcification
+- [[Tần số cộng hưởng giữa Muối và Tuyến tùng]]
+- [[Thuyết Vi Sinh Nội Sinh]] — Terrain health
+- [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
 
 ### Spirituality
-- [[Gnosis]] - Third eye = inner knowing
-- [[Ma Tr?n]] - Why suppressed
-- [[Tr� Tu?]] - Wisdom through third eye
+- [[Gnosis]] — Third eye = inner knowing
+- [[Ma Trận]] — Why suppressed
+- [[Trí Tuệ]] — Wisdom through third eye

@@ -1,49 +1,49 @@
----
+﻿---
 title: "Gnosis"
-aliases: ["Gnosis", "Gnosticism", "Gnosis (Ng? �?o)"]
+aliases: ["Gnosis", "Gnosticism", "Gnosis (Ngộ Đạo)"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
-# Gnosis (Ng? �?o)
+# Gnosis (Ngộ Đạo)
 
-**Gnosis** (t? ti?ng Hy L?p ???s?? = "knowledge") l� s? nh?n bi?t tr?c ti?p v? Th?n T�nh b�n trong, kh�ng th�ng qua t�n gi�o c� t? ch?c.
+**Gnosis** (từ tiếng Hy Lạp γνῶσις = "knowledge") là sự nhận biết trực tiếp về Thần Tính bên trong, không thông qua tôn giáo có tổ chức.
 
-*Gnosis (Greek ???s?? = "knowledge") is direct knowing of the Divine within, not through organized religion.*
+*Gnosis (Greek γνῶσις = "knowledge") is direct knowing of the Divine within, not through organized religion.*
 
-> "Nu?c Tr?i ? trong c�c nguoi." - Luke 17:21
+> "Nước Trời ở trong các ngươi." — Luke 17:21
 > "The Kingdom of God is within you."
 
 ---
 
-## Kh�i ni?m C?t l�i / Core Concepts
+## Khái niệm Cốt lõi / Core Concepts
 
-### 1. Direct Experience / Tr?i nghi?m Tr?c ti?p
+### 1. Direct Experience / Trải nghiệm Trực tiếp
 
 | Principle | Meaning |
 |-----------|---------|
-| **No intermediary** | Kh�ng c?n priest, church, ritual |
-| **God within** | Thu?ng �? ng? trong linh h?n |
+| **No intermediary** | Không cần priest, church, ritual |
+| **God within** | Thượng Đế ngự trong linh hồn |
 | **Self = God knowledge** | "Know thyself" (Oracle at Delphi) |
 
-### 2. Divine Spark / Tia l?a Th?n th�nh
+### 2. Divine Spark / Tia lửa Thần thánh
 
-- Everyone has divine spark inside / M?i ngu?i c� tia l?a th?n th�nh
-- Trapped in matter / B? m?c k?t trong v?t ch?t
-- Goal: Remember and liberate / Nh? l?i v� gi?i ph�ng
+- Everyone has divine spark inside / Mỗi người có tia lửa thần thánh
+- Trapped in matter / Bị mắc kẹt trong vật chất
+- Goal: Remember and liberate / Nhớ lại và giải phóng
 
 ### 3. Demiurge
 
 | Aspect | Description |
 |--------|-------------|
-| **Who** | "Creator god" of material world / Th?n t?o ra th? gi?i v?t ch?t |
-| **Not** | True God, just a craftsman / Kh�ng ph?i Thu?ng �? th?t |
-| **Creates** | [[Ma Tr?n]] to trap souls |
+| **Who** | "Creator god" of material world / Thần tạo ra thế giới vật chất |
+| **Not** | True God, just a craftsman / Không phải Thượng Đế thật |
+| **Creates** | [[Ma Trận]] to trap souls |
 | **Names** | Yaldabaoth, Samael, Satan |
 
 ---
 
-## Vu?t tho�t Lu�n h?i / Escape Reincarnation
+## Vượt thoát Luân hồi / Escape Reincarnation
 
 ### Gnostic Path
 
@@ -51,15 +51,15 @@ status: refined
 |-------|-------------|
 | **1. Amnesia** | Soul forgets origin when incarnating |
 | **2. Sleep** | Living in Demiurge's illusion |
-| **3. Awakening** | Realize you are divine / Nh?n ra m�nh l� divine |
+| **3. Awakening** | Realize you are divine / Nhận ra mình là divine |
 | **4. Gnosis** | Direct experience of Truth |
 | **5. Return** | Merge with Pleroma (Light Realm) |
 
-? No more [[Lu�n H?i]] needed / Kh�ng c�n c?n lu�n h?i
+→ No more [[Luân Hồi]] needed / Không còn cần luân hồi
 
 ---
 
-## Kinh s�ch B? d�n �p / Suppressed Texts
+## Kinh sách Bị đàn áp / Suppressed Texts
 
 ### Nag Hammadi Library (1945)
 
@@ -71,11 +71,11 @@ status: refined
 | **Gospel of Judas** | Alternative narrative |
 | **Apocryphon of John** | Creation story |
 
-### Why hidden? / T?i sao b? gi?u?
+### Why hidden? / Tại sao bị giấu?
 
-- Threatens Church power / �e d?a quy?n l?c Gi�o h?i
-- No priests needed / Kh�ng c?n tu si
-- Empowers individual / Trao quy?n c� nh�n
+- Threatens Church power / Đe dọa quyền lực Giáo hội
+- No priests needed / Không cần tu sĩ
+- Empowers individual / Trao quyền cá nhân
 - "Heresy" to Rome
 
 ---
@@ -84,17 +84,17 @@ status: refined
 
 | Gnosticism | Orthodox Christianity |
 |------------|----------------------|
-| Knowledge saves / Tri th?c c?u r?i | Faith saves / �?c tin c?u r?i |
-| God within / Thu?ng �? b�n trong | God outside / Thu?ng �? b�n ngo�i |
-| Direct access / Ti?p c?n tr?c ti?p | Through Church / Qua Gi�o h?i |
+| Knowledge saves / Tri thức cứu rỗi | Faith saves / Đức tin cứu rỗi |
+| God within / Thượng Đế bên trong | God outside / Thượng Đế bên ngoài |
+| Direct access / Tiếp cận trực tiếp | Through Church / Qua Giáo hội |
 | Demiurge = imposter | Creator = God |
-| Escape matter / Tho�t v?t ch?t | Await rapture |
+| Escape matter / Thoát vật chất | Await rapture |
 
 ---
 
-## Modern Influences / ?nh hu?ng Hi?n d?i
+## Modern Influences / Ảnh hưởng Hiện đại
 
-### Trong Van h�a / In Culture
+### Trong Văn hóa / In Culture
 
 | Film | Gnostic Element |
 |------|-----------------|
@@ -102,9 +102,9 @@ status: refined
 | **The Truman Show** | False reality |
 | **Dark City** | Trapped souls |
 
-### Trong T�m linh / In Spirituality
+### Trong Tâm linh / In Spirituality
 
-- [[T�m L� H?c Jung]] - Jung studied Gnosticism deeply
+- [[Tâm Lý Học Jung]] — Jung studied Gnosticism deeply
 - New Age "awakening"
 - Non-dual teachings (Advaita)
 
@@ -113,14 +113,14 @@ status: refined
 ## Related
 
 ### Escape Path
-- [[Lu�n H?i]] - Cycle to escape
-- [[Ma Tr?n]] - Demiurge's creation
-- [[T� Linh, Gnosis v� S? Th?c T?nh To�n Di?n]]
+- [[Luân Hồi]] — Cycle to escape
+- [[Ma Trận]] — Demiurge's creation
+- [[Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]]
 
 ### Source
-- [[Monad]] - The true Source
-- [[S? Nh?t Th?]] - Return to Oneness
+- [[Monad]] — The true Source
+- [[Sự Nhất Thể]] — Return to Oneness
 
 ### Integration
-- [[Individuation]] - Jung's Gnosis
-- [[Tuy?n T�ng]] - Third eye opens to Gnosis
+- [[Individuation]] — Jung's Gnosis
+- [[Tuyến Tùng]] — Third eye opens to Gnosis

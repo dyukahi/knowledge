@@ -1,78 +1,78 @@
----
-title: Tinh Kh� Th?n
-aliases: ["Three Treasures", "Jing Qi Shen", "Tam B?o"]
+﻿---
+title: Tinh Khí Thần
+aliases: ["Three Treasures", "Jing Qi Shen", "Tam Bảo"]
 date: 2026-04-07
 tags: [esoterica]
 status: refined
 related:
   - "[[S.E.X]]"
-  - "[[Nang Lu?ng T�nh D?c]]"
-  - "[[Nang Lu?ng Natri]]"
+  - "[[Năng Lượng Tình Dục]]"
+  - "[[Năng Lượng Natri]]"
 ---
-# Tinh Kh� Th?n (Three Treasures)
+# Tinh Khí Thần (Three Treasures)
 
-**Tinh Kh� Th?n** l� "Tam B?o" c?a con ngu?i theo �?o gi�o - nh?ng th? phi v?t ch?t kh�ng th? th?y nhung c� th? c?m nh?n qua nang lu?ng.
+**Tinh Khí Thần** là "Tam Bảo" của con người theo Đạo giáo — những thứ phi vật chất không thể thấy nhưng có thể cảm nhận qua năng lượng.
 
-*Jing Qi Shen are the "Three Treasures" in Taoism - non-physical things invisible but perceivable through energy.*
+*Jing Qi Shen are the "Three Treasures" in Taoism — non-physical things invisible but perceivable through energy.*
 
 ---
 
-## Ba B�u v?t / The Three Treasures
+## Ba Báu vật / The Three Treasures
 
 | Treasure | Chinese | Description |
 |----------|---------|-------------|
-| **Tinh** | ? Jing | Essence, semen, DNA / Tinh t�y, tinh d?ch, DNA |
-| **Kh�** | ? Qi | Life energy, circulation / Nang lu?ng s?ng, luu th�ng |
-| **Th?n** | ? Shen | Spirit, consciousness / Tinh th?n, � th?c cao c?p |
+| **Tinh** | 精 Jing | Essence, semen, DNA / Tinh túy, tinh dịch, DNA |
+| **Khí** | 氣 Qi | Life energy, circulation / Năng lượng sống, lưu thông |
+| **Thần** | 神 Shen | Spirit, consciousness / Tinh thần, ý thức cao cấp |
 
 ---
 
-## Chi ti?t / Details
+## Chi tiết / Details
 
-### Tinh (Jing) - Essence / Tinh t�y
+### Tinh (Jing) — Essence / Tinh túy
 
 | Aspect | Description |
 |--------|-------------|
 | **Physical** | Reproductive fluids, DNA |
-| **Function** | Foundation of life / N?n t?ng s? s?ng |
+| **Function** | Foundation of life / Nền tảng sự sống |
 | **Depleted by** | Excess sex, overwork, stress |
 | **Cultivated by** | Rest, nutrition, moderation |
 
-### Kh� (Qi) - Energy / Nang lu?ng
+### Khí (Qi) — Energy / Năng lượng
 
 | Aspect | Description |
 |--------|-------------|
-| **Flow** | Circulates through meridians / Luu th�ng qua kinh m?ch |
+| **Flow** | Circulates through meridians / Lưu thông qua kinh mạch |
 | **Function** | Powers all life processes |
 | **Blocked by** | Emotions, injury, toxins |
 | **Cultivated by** | Breathwork, tai chi, qigong |
 
-### Th?n (Shen) - Spirit / Tinh th?n
+### Thần (Shen) — Spirit / Tinh thần
 
 | Aspect | Description |
 |--------|-------------|
-| **Location** | Resides in heart / Ng? trong tim |
-| **Function** | Consciousness, wisdom / � th?c, tr� tu? |
+| **Location** | Resides in heart / Ngự trong tim |
+| **Function** | Consciousness, wisdom / Ý thức, trí tuệ |
 | **Disturbed by** | Anxiety, overthinking |
-| **Cultivated by** | Meditation, virtue / Thi?n d?nh, d?c h?nh |
+| **Cultivated by** | Meditation, virtue / Thiền định, đức hạnh |
 
 ---
 
-## Transformation / Chuy?n h�a
+## Transformation / Chuyển hóa
 
-### Taoist Alchemy / Luy?n dan �?o gi�o
+### Taoist Alchemy / Luyện đan Đạo giáo
 
 ```mermaid
 flowchart LR
     J["Tinh (Jing)<br/>Essence"]
-    Q["Kh� (Qi)<br/>Energy"]
-    S["Th?n (Shen)<br/>Spirit"]
-    V["Hu V� (Void)<br/>Emptiness"]
+    Q["Khí (Qi)<br/>Energy"]
+    S["Thần (Shen)<br/>Spirit"]
+    V["Hư Vô (Void)<br/>Emptiness"]
     
     J --> Q --> S --> V
 ```
 
-### Practice / Th?c h�nh
+### Practice / Thực hành
 
 | Stage | Method |
 |-------|--------|
@@ -83,27 +83,27 @@ flowchart LR
 
 ---
 
-## C?m nh?n / Perception
+## Cảm nhận / Perception
 
 | Experience | Meaning |
 |------------|---------|
-| **Peace from master** | Strong Shen / Th?n m?nh |
+| **Peace from master** | Strong Shen / Thần mạnh |
 | **Unease from criminal** | Disturbed energy |
-| **No words needed** | Energy speaks / Nang lu?ng n�i |
+| **No words needed** | Energy speaks / Năng lượng nói |
 
 ---
 
-## [[S.E.X]] v� Tinh Kh� Th?n
+## [[S.E.X]] và Tinh Khí Thần
 
 ### Sacred Energy eXchange
 
 | Principle | Description |
 |-----------|-------------|
-| **Exchange at all 3 levels** | Tinh, Kh�, Th?n all involved |
-| **"Tam tinh th�nh nh?t d?c"** | Mixed energy = weakened treasures |
+| **Exchange at all 3 levels** | Tinh, Khí, Thần all involved |
+| **"Tam tinh thành nhất độc"** | Mixed energy = weakened treasures |
 | **Quality > Quantity** | Choose partners wisely |
 
-### Conservation / B?o t?n
+### Conservation / Bảo tồn
 
 | Method | Benefit |
 |--------|---------|
@@ -115,16 +115,16 @@ flowchart LR
 
 ## Related
 
-### Energy / Nang lu?ng
-- [[Nang Lu?ng Natri]]
-- [[Nang Lu?ng T�nh D?c]]
-- [[Tuy?n T�ng]] - Shen connection
+### Energy / Năng lượng
+- [[Năng Lượng Natri]]
+- [[Năng Lượng Tình Dục]]
+- [[Tuyến Tùng]] — Shen connection
 
 ### Sex & Energy
-- [[S.E.X V� T�m L� H?c Jung]]
-- [[S? Th?t �en T?i V? Phim Khi�u D�m]]
-- [[Chimera]] - Energy mixing
+- [[S.E.X Và Tâm Lý Học Jung]]
+- [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
+- [[Chimera]] — Energy mixing
 
-### Wisdom / Tr� tu?
-- [[Tr� Tu?]]
+### Wisdom / Trí tuệ
+- [[Trí Tuệ]]
 - [[Individuation]]

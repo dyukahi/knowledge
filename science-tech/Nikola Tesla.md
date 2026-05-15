@@ -1,43 +1,43 @@
----
+﻿---
 title: "Nikola Tesla"
-aliases: ["Nikola Tesla", "Tesla", "Nikola Tesla (T?n S? v� Rung �?ng)"]
+aliases: ["Nikola Tesla", "Tesla", "Nikola Tesla (Tần Số và Rung Động)"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined
 ---
-# Nikola Tesla (T?n S? v� Rung �?ng)
+# Nikola Tesla (Tần Số và Rung Động)
 
-**Nikola Tesla** (1856-1943) kh�ng ch? l� nh� ph�t minh vi d?i nh?t l?ch s? hi?n d?i m� c�n l� m?t nh� th?n b� h?c hi?u r� b?n ch?t nang lu?ng c?a vu tr?.
+**Nikola Tesla** (1856-1943) không chỉ là nhà phát minh vĩ đại nhất lịch sử hiện đại mà còn là một nhà thần bí học hiểu rõ bản chất năng lượng của vũ trụ.
 
 *Nikola Tesla (1856-1943) was not only the greatest inventor of modern history but also a mystic who understood the universe's energy nature.*
 
-> "N?u b?n mu?n t�m ra b� m?t c?a vu tr?, h�y nghi v? nang lu?ng, t?n s? v� rung d?ng."
+> "Nếu bạn muốn tìm ra bí mật của vũ trụ, hãy nghĩ về năng lượng, tần số và rung động."
 > "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
 
 ---
 
-## Ph�t minh Thay d?i Th? gi?i / World-Changing Inventions
+## Phát minh Thay đổi Thế giới / World-Changing Inventions
 
 | Invention | Impact |
 |-----------|--------|
-| **AC Current** | ��nh b?i Edison's DC / Powers modern world |
+| **AC Current** | Đánh bại Edison's DC / Powers modern world |
 | **Radio** | Patent before Marconi / Supreme Court confirmed 1943 |
 | **Tesla Coil** | Wireless energy transmission |
-| **X-ray** | Early experiments before R�ntgen |
+| **X-ray** | Early experiments before Röntgen |
 | **Remote Control** | Foundation of modern tech |
 | **Radar concepts** | Military applications |
 
 ---
 
-## C�ng ngh? B? d�n �p / Suppressed Technologies
+## Công nghệ Bị đàn áp / Suppressed Technologies
 
 ### Wardenclyffe Tower
 
 | Aspect | Description |
 |--------|-------------|
-| **Goal** | Free wireless energy for all / Nang lu?ng kh�ng d�y mi?n ph� |
+| **Goal** | Free wireless energy for all / Năng lượng không dây miễn phí |
 | **Funded by** | J.P. Morgan (initially) |
-| **Why shut down** | "We can't meter it" / Kh�ng th? do d?m d? thu ti?n |
+| **Why shut down** | "We can't meter it" / Không thể đo đếm để thu tiền |
 | **Demolished** | 1917 |
 
 ### Death Ray
@@ -46,49 +46,49 @@ status: refined
 - FBI confiscated papers after death
 
 ### Free Energy
-- [[Nang Lu?ng Aether]] harvesting
+- [[Năng Lượng Aether]] harvesting
 - Zero-point energy
 - Still suppressed today?
 
 ---
 
-## Tesla & Mysticism / Tesla & Huy?n h?c
+## Tesla & Mysticism / Tesla & Huyền học
 
-### Akashic Records / H? so Akasha
+### Akashic Records / Hồ sơ Akasha
 
 | Belief | Description |
 |--------|-------------|
 | **Cosmic field** | Believed in cosmic information field |
-| **Visions** | Saw inventions complete / Nh�n th?y ph�t minh ho�n ch?nh |
-| **Download** | From [[V� Th?c T?p Th?]] |
-| **Quote** | "I was merely a receiver" / "T�i ch? l� b? thu" |
+| **Visions** | Saw inventions complete / Nhìn thấy phát minh hoàn chỉnh |
+| **Download** | From [[Vô Thức Tập Thể]] |
+| **Quote** | "I was merely a receiver" / "Tôi chỉ là bộ thu" |
 
 ### Numbers 3, 6, 9
 
 > "If you knew the magnificence of 3, 6, 9, you would have the key to the universe."
 
 - Vortex mathematics
-- Universe's code? / M� c?a vu tr??
+- Universe's code? / Mã của vũ trụ?
 - Obsessive patterns (walked around block 3x)
 
-### Celibacy / �?c th�n
-- Never married / Kh�ng bao gi? k?t h�n
-- Sexual energy ? creativity / Nang lu?ng t�nh d?c ? s�ng t?o
-- [[Tinh Kh� Th?n]] principles
+### Celibacy / Độc thân
+- Never married / Không bao giờ kết hôn
+- Sexual energy → creativity / Năng lượng tình dục → sáng tạo
+- [[Tinh Khí Thần]] principles
 
 ---
 
-## Quotes / Tr�ch d?n
+## Quotes / Trích dẫn
 
 > "The day science begins to study non-physical phenomena, it will make more progress in one decade than in all previous centuries."
 > 
-> "Ng�y m� khoa h?c b?t d?u nghi�n c?u c�c hi?n tu?ng phi v?t ch?t, n� s? ti?n b? hon trong m?t th?p k? so v?i t?t c? c�c th? k? tru?c."
+> "Ngày mà khoa học bắt đầu nghiên cứu các hiện tượng phi vật chất, nó sẽ tiến bộ hơn trong một thập kỷ so với tất cả các thế kỷ trước."
 
 > "My brain is only a receiver. In the Universe there is a core from which we obtain knowledge, strength and inspiration."
 
 ---
 
-## T?i sao B? d�n �p? / Why Suppressed?
+## Tại sao Bị đàn áp? / Why Suppressed?
 
 ### Follow the Money
 
@@ -98,16 +98,16 @@ status: refined
 | **Morgan (banking)** | Can't meter free energy |
 | **Rockefeller (oil)** | Energy independence = oil obsolete |
 
-### Control / Ki?m so�t
+### Control / Kiểm soát
 
 | Free Energy | Current System |
 |-------------|----------------|
 | Energy independence | Energy dependency = control |
-| Free people / Ngu?i t? do | Controllable population |
+| Free people / Người tự do | Controllable population |
 
-### Legacy / Di s?n
+### Legacy / Di sản
 
-- Died poor in hotel room / Ch?t ngh�o trong ph�ng kh�ch s?n
+- Died poor in hotel room / Chết nghèo trong phòng khách sạn
 - Papers confiscated by FBI
 - John G. Trump (Donald's uncle) reviewed papers
 
@@ -115,15 +115,15 @@ status: refined
 
 ## Related
 
-### Energy / Nang lu?ng
-- [[Nang Lu?ng Aether]] - His core understanding
-- [[T?n S? Schumann]] - Earth frequencies
-- [[Khoa H?c Ch�n Ch�nh v� Thu?ng �?]]
+### Energy / Năng lượng
+- [[Năng Lượng Aether]] — His core understanding
+- [[Tần Số Schumann]] — Earth frequencies
+- [[Khoa Học Chân Chính và Thượng Đế]]
 
-### Consciousness / � th?c
-- [[V� Th?c T?p Th?]] - Akashic source
-- [[Walter Russell]] - Contemporary mystic-scientist
+### Consciousness / Ý thức
+- [[Vô Thức Tập Thể]] — Akashic source
+- [[Walter Russell]] — Contemporary mystic-scientist
 
-### Suppression / ��n �p
-- [[Elite]] - Who suppressed him
-- [[Khoa H?c X�t L?i]]
+### Suppression / Đàn áp
+- [[Elite]] — Who suppressed him
+- [[Khoa Học Xét Lại]]

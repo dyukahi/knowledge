@@ -1,14 +1,14 @@
----
-title: Th?c Th? C�i Trung Gi?i (Astral Entities)
+﻿---
+title: Thực Thể Cõi Trung Giới (Astral Entities)
 date: 2026-04-07
 tags: [esoterica]
 status: refined
 ---
-# Th?c Th? C�i Trung Gi?i (Astral Entities)
+# Thực Thể Cõi Trung Giới (Astral Entities)
 
-**Th?c Th? C�i Trung Gi?i** (Astral Entities) l� c�c sinh linh t?n t?i ? t?n s? ngo�i ph? nh�n th?y c?a con ngu?i. Trong nhi?u truy?n th?ng du?c g?i l� Archons, demons, djinn, k� sinh tr�ng nang lu?ng.
+**Thực Thể Cõi Trung Giới** (Astral Entities) là các sinh linh tồn tại ở tần số ngoài phổ nhìn thấy của con người. Trong nhiều truyền thống được gọi là Archons, demons, djinn, ký sinh trùng năng lượng.
 
-## Trong C�c Truy?n Th?ng
+## Trong Các Truyền Thống
 
 | Tradition | Name | Description |
 |-----------|------|-------------|
@@ -19,32 +19,32 @@ status: refined
 | **Shamanic** | Spirits | Various entities |
 | **Modern** | Energy vampires | Parasitic beings |
 
-## C�i Trung Gi?i (Astral Plane)
+## Cõi Trung Giới (Astral Plane)
 
-### V? tr� trong cosmology / Position in Cosmology
+### Vị trí trong cosmology / Position in Cosmology
 
 ```mermaid
 flowchart TB
-    C["C�i Thu?ng Gi?i | Causal/Mental<br/>Higher realms"]
-    A["C�i Trung Gi?i | Astral<br/>Emotional realm"]
-    P["C�i H? Gi?i | Physical<br/>Material world"]
+    C["Cõi Thượng Giới | Causal/Mental<br/>Higher realms"]
+    A["Cõi Trung Giới | Astral<br/>Emotional realm"]
+    P["Cõi Hạ Giới | Physical<br/>Material world"]
     
     C --> A --> P
 ```
 
-### �?c di?m
+### Đặc điểm
 - Frequency-based reality
 - Thoughts create instantly
 - Emotions are "food"
 - Entities of various types
 
-## Th?c Th? K� Sinh
+## Thực Thể Ký Sinh
 
-### Co ch? "an" nang lu?ng
+### Cơ chế "ăn" năng lượng
 - Low-frequency emotions = food source
 - Fear, anger, lust, despair
 - Addiction creates steady supply
-- [[S? Th?t �en T?i V? Phim Khi�u D�m]]
+- [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
 
 ### Symptoms of Attachment
 - Intrusive negative thoughts
@@ -61,7 +61,7 @@ flowchart TB
 - Occult practices without protection
 - Extreme negative environments
 
-## Lo?i Th?c Th?
+## Loại Thực Thể
 
 ### 1. Larvae/Thought-forms
 - Created by repetitive thoughts
@@ -84,7 +84,7 @@ flowchart TB
 - Control matrix systems
 - Use lower entities as agents
 
-## Connection V?i [[Ma Tr?n]]
+## Connection Với [[Ma Trận]]
 
 ### Energy Harvesting System
 - [[MindGeek]] = industrial-scale fear/lust generation
@@ -92,7 +92,7 @@ flowchart TB
 - Financial stress = chronic fear
 - Entertainment = emotional manipulation
 
-### [[Quy Lu?t Trao �?i T�m Linh]]
+### [[Quy Luật Trao Đổi Tâm Linh]]
 - Energy flows where attention goes
 - Consuming dark content = feeding dark entities
 - Every interaction is an exchange
@@ -124,9 +124,9 @@ flowchart TB
 
 ## Related
 
-- [[Quy Lu?t Trao �?i T�m Linh]] - Exchange dynamics
-- [[S? Th?t �en T?i V? Phim Khi�u D�m]] - Industrial feeding
-- [[T� Linh]] - Detailed exploration
-- [[Ma Tr?n]] - Bigger system
-- [[Nang Lu?ng T�nh D?c]] - What's being harvested
-- [[Individuation]] - Protection through wholeness
+- [[Quy Luật Trao Đổi Tâm Linh]] — Exchange dynamics
+- [[Sự Thật Đen Tối Về Phim Khiêu Dâm]] — Industrial feeding
+- [[Tà Linh]] — Detailed exploration
+- [[Ma Trận]] — Bigger system
+- [[Năng Lượng Tình Dục]] — What's being harvested
+- [[Individuation]] — Protection through wholeness

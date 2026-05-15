@@ -20,7 +20,7 @@ related:
   - "[[Digital ID Normalization - From Instagram to Government ID]]"
 ---
 
-# Climate Anxiety as Control: Khi N�-i Sợ Trở Thành Công Cụ
+# Climate Anxiety as Control: Khi Nỗi Sợ Trở Thành Công Cụ
 
 *Climate Anxiety as Control: When Fear Becomes a Tool*
 

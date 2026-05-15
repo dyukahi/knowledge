@@ -1,133 +1,133 @@
----
-title: "D?ch Chuy?n C?c (Pole Shift)"
-aliases: ["D?ch Chuy?n C?c (Pole Shift)", "Pole Shift"]
+﻿---
+title: "Dịch Chuyển Cực (Pole Shift)"
+aliases: ["Dịch Chuyển Cực (Pole Shift)", "Pole Shift"]
 date: 2026-04-08
 tags: [esoterica, science-tech]
 status: refined
 ---
-# D?ch Chuy?n C?c (Pole Shift)
+# Dịch Chuyển Cực (Pole Shift)
 
-**D?ch Chuy?n C?c** l� s? thay d?i d?t ng?t v? tr� c�c c?c t? ho?c/v� c?c d?a l� c?a Tr�i �?t. Trong l?ch s?, hi?n tu?ng n�y du?c cho l� d� g�y ra c�c th?m h?a di?t vong v� "reset" n?n van minh.
+**Dịch Chuyển Cực** là sự thay đổi đột ngột vị trí các cực từ hoặc/và cực địa lý của Trái Đất. Trong lịch sử, hiện tượng này được cho là đã gây ra các thảm họa diệt vong và "reset" nền văn minh.
 
 *Pole Shift is the sudden change in position of Earth's magnetic and/or geographic poles. Historically, this phenomenon is believed to have caused extinction-level catastrophes and civilization "resets."*
 
 ---
 
-## Hai Lo?i Pole Shift / Two Types of Pole Shift
+## Hai Loại Pole Shift / Two Types of Pole Shift
 
-### 1. Magnetic Pole Shift (T? c?c)
+### 1. Magnetic Pole Shift (Từ cực)
 
-- C?c t? B?c/Nam d?i ch? / *North/South magnetic poles swap*
-- �� x?y ra ~170+ l?n trong 75 tri?u nam / *Has occurred ~170+ times in 75 million years*
-- Chu k? trung b�nh: 450,000 nam / *Average cycle: 450,000 years*
-- L?n cu?i: 780,000 nam tru?c (Brunhes-Matuyama) / *Last time: 780,000 years ago*
+- Cực từ Bắc/Nam đổi chỗ / *North/South magnetic poles swap*
+- Đã xảy ra ~170+ lần trong 75 triệu năm / *Has occurred ~170+ times in 75 million years*
+- Chu kỳ trung bình: 450,000 năm / *Average cycle: 450,000 years*
+- Lần cuối: 780,000 năm trước (Brunhes-Matuyama) / *Last time: 780,000 years ago*
 
-**T�nh tr?ng hi?n t?i / Current status:**
-- C?c t? B?c dang di chuy?n nhanh (55 km/nam) / *North magnetic pole moving fast (55 km/year)*
-- T? Canada hu?ng v? Siberia / *From Canada toward Siberia*
-- T? tru?ng y?u di 5% m?i th? k? / *Magnetic field weakening 5% per century*
+**Tình trạng hiện tại / Current status:**
+- Cực từ Bắc đang di chuyển nhanh (55 km/năm) / *North magnetic pole moving fast (55 km/year)*
+- Từ Canada hướng về Siberia / *From Canada toward Siberia*
+- Từ trường yếu đi 5% mỗi thế kỷ / *Magnetic field weakening 5% per century*
 
-### 2. Physical/Crustal Pole Shift (V? Tr�i �?t)
+### 2. Physical/Crustal Pole Shift (Vỏ Trái Đất)
 
-- V? Tr�i �?t tru?t tr�n l?p mantle / *Earth's crust slides over the mantle*
-- C�c ch�u l?c thay d?i v? tr� so v?i c?c / *Continents change position relative to poles*
-- C?c k? th?m kh?c n?u x?y ra nhanh / *Extremely catastrophic if rapid*
+- Vỏ Trái Đất trượt trên lớp mantle / *Earth's crust slides over the mantle*
+- Các châu lục thay đổi vị trí so với cực / *Continents change position relative to poles*
+- Cực kỳ thảm khốc nếu xảy ra nhanh / *Extremely catastrophic if rapid*
 
 ---
 
-## Nguy�n Nh�n Gi? Thuy?t / Hypothesized Causes
+## Nguyên Nhân Giả Thuyết / Hypothesized Causes
 
-| Nguy�n nh�n / Cause | Co ch? / Mechanism |
+| Nguyên nhân / Cause | Cơ chế / Mechanism |
 |---------------------|---------------------|
-| **[[Nibiru]]** | T? tru?ng tuong t�c / Magnetic field interaction |
-| **Thi�n th?ch l?n / Large asteroid** | Impact momentum |
-| **Ice sheet imbalance** | Tr?ng lu?ng kh�ng d?u / Uneven weight distribution |
-| **Core dynamics** | Thay d?i trong l�i / Changes in Earth's core |
+| **[[Nibiru]]** | Từ trường tương tác / Magnetic field interaction |
+| **Thiên thạch lớn / Large asteroid** | Impact momentum |
+| **Ice sheet imbalance** | Trọng lượng không đều / Uneven weight distribution |
+| **Core dynamics** | Thay đổi trong lõi / Changes in Earth's core |
 | **Galactic alignment** | Cosmic radiation |
 
 ---
 
-## B?ng Ch?ng L?ch S? / Historical Evidence
+## Bằng Chứng Lịch Sử / Historical Evidence
 
 ### Frozen Mammoths (Siberia)
 
-- H�ng ng�n mammoths d�ng c?ng d?t ng?t / *Thousands of mammoths flash-frozen*
-- Th?c an chua ti�u h�a trong d? d�y (tropical plants) / *Undigested food in stomachs (tropical plants)*
-- Tu th? dang an/d?ng ? d�ng l?nh t?c th� / *Postures of eating/standing ? instant freezing*
-- **Gi?i th�ch / Explanation:** Siberia t?ng ? vi d? th?p, pole shift d?t ng?t / *Siberia was once at lower latitude, sudden pole shift*
+- Hàng ngàn mammoths đông cứng đột ngột / *Thousands of mammoths flash-frozen*
+- Thức ăn chưa tiêu hóa trong dạ dày (tropical plants) / *Undigested food in stomachs (tropical plants)*
+- Tư thế đang ăn/đứng → đông lạnh tức thì / *Postures of eating/standing → instant freezing*
+- **Giải thích / Explanation:** Siberia từng ở vĩ độ thấp, pole shift đột ngột / *Siberia was once at lower latitude, sudden pole shift*
 
 ### Piri Reis Map (1513)
 
-- B?n d? Antarctic kh�ng c� bang / *Map of Antarctica without ice*
-- Accurate coastline / *Ch�nh x�c du?ng b? bi?n*
-- D?a tr�n maps c? hon / *Based on older maps*
-- **Gi?i th�ch / Explanation:** Antarctic t?ng ? v? tr� kh�c / *Antarctica was once in a different position*
+- Bản đồ Antarctic không có băng / *Map of Antarctica without ice*
+- Accurate coastline / *Chính xác đường bờ biển*
+- Dựa trên maps cổ hơn / *Based on older maps*
+- **Giải thích / Explanation:** Antarctic từng ở vị trí khác / *Antarctica was once in a different position*
 
 ### Flood Myths
 
-- 500+ van h�a c� truy?n thuy?t d?i h?ng th?y / *500+ cultures have great flood legends*
+- 500+ văn hóa có truyền thuyết đại hồng thủy / *500+ cultures have great flood legends*
 - Noah, Gilgamesh, Manu, Deucalion...
-- **Gi?i th�ch / Explanation:** Global tsunami t? pole shift / *Global tsunami from pole shift*
+- **Giải thích / Explanation:** Global tsunami từ pole shift / *Global tsunami from pole shift*
 
 ---
 
-## H? Qu? C?a Rapid Pole Shift / Consequences of Rapid Pole Shift
+## Hệ Quả Của Rapid Pole Shift / Consequences of Rapid Pole Shift
 
-### Ngay l?p t?c / Immediate
+### Ngay lập tức / Immediate
 
-- Mega earthquakes (>10 Richter) / *�?ng d?t c?c l?n*
-- Super tsunamis (h�ng tram m�t) / *Super tsunamis (hundreds of meters)*
-- Volcanic eruptions h�ng lo?t / *Mass volcanic eruptions*
-- Gi� 500+ km/h / *Winds 500+ km/h*
+- Mega earthquakes (>10 Richter) / *Động đất cực lớn*
+- Super tsunamis (hàng trăm mét) / *Super tsunamis (hundreds of meters)*
+- Volcanic eruptions hàng loạt / *Mass volcanic eruptions*
+- Gió 500+ km/h / *Winds 500+ km/h*
 
-### Ng?n h?n / Short-term
+### Ngắn hạn / Short-term
 
-- Nuclear winter t? volcanic ash / *Nuclear winter from volcanic ash*
-- Collapse of civilization / *S?p d? van minh*
-- Die-off h?u h?t species / *Mass extinction of most species*
-- Radiation t? weakened magnetosphere / *Radiation from weakened magnetosphere*
+- Nuclear winter từ volcanic ash / *Nuclear winter from volcanic ash*
+- Collapse of civilization / *Sụp đổ văn minh*
+- Die-off hầu hết species / *Mass extinction of most species*
+- Radiation từ weakened magnetosphere / *Radiation from weakened magnetosphere*
 
-### D�i h?n / Long-term
+### Dài hạn / Long-term
 
-- Climate zones thay d?i ho�n to�n / *Climate zones completely change*
-- Ice ages ? v�ng nhi?t d?i cu / *Ice ages in former tropics*
-- Tropics ? v�ng c?c cu / *Tropics in former polar regions*
-- New world order emerges / *Tr?t t? th? gi?i m?i xu?t hi?n*
+- Climate zones thay đổi hoàn toàn / *Climate zones completely change*
+- Ice ages ở vùng nhiệt đới cũ / *Ice ages in former tropics*
+- Tropics ở vùng cực cũ / *Tropics in former polar regions*
+- New world order emerges / *Trật tự thế giới mới xuất hiện*
 
 ---
 
-## Civilizations Reset / N?n Van Minh B? Reset
+## Civilizations Reset / Nền Văn Minh Bị Reset
 
-| S? ki?n / Event | Th?i di?m / Time | Van minh b? h?y / Civilization destroyed |
+| Sự kiện / Event | Thời điểm / Time | Văn minh bị hủy / Civilization destroyed |
 |-----------------|-----------------|------------------------------------------|
 | Younger Dryas | ~12,800 BCE | [[Atlantis]]? |
-| Noah's Flood | ~10,500 BCE? | Pre-diluvian / Ti?n d?i h?ng th?y |
-| Bronze Age Collapse | ~1200 BCE | Mediterranean / �?a Trung H?i |
+| Noah's Flood | ~10,500 BCE? | Pre-diluvian / Tiền đại hồng thủy |
+| Bronze Age Collapse | ~1200 BCE | Mediterranean / Địa Trung Hải |
 
 ---
 
-## Chu?n B?? / Preparation?
+## Chuẩn Bị? / Preparation?
 
-### Individual / C� nh�n
+### Individual / Cá nhân
 
-- V? tr� d?a l� (tr�nh coast, fault lines) / *Geographic location (avoid coasts, fault lines)*
-- Supplies d�i h?n / *Long-term supplies*
-- Skills sinh t?n / *Survival skills*
-- Community building / *X�y d?ng c?ng d?ng*
+- Vị trí địa lý (tránh coast, fault lines) / *Geographic location (avoid coasts, fault lines)*
+- Supplies dài hạn / *Long-term supplies*
+- Skills sinh tồn / *Survival skills*
+- Community building / *Xây dựng cộng đồng*
 
-### Elite dang l�m g�? / What Are the Elite Doing?
+### Elite đang làm gì? / What Are the Elite Doing?
 
-- Seed vaults (Svalbard) / *Kho h?t gi?ng (Svalbard)*
-- Underground bunkers / *H?m ng?m*
-- Secret bases ? Antarctica? / *Can c? b� m?t ? Nam C?c?*
-- Space programs / *Chuong tr�nh kh�ng gian*
+- Seed vaults (Svalbard) / *Kho hạt giống (Svalbard)*
+- Underground bunkers / *Hầm ngầm*
+- Secret bases ở Antarctica? / *Căn cứ bí mật ở Nam Cực?*
+- Space programs / *Chương trình không gian*
 
 ---
 
 ## Related
 
-- [[Nibiru]] - Trigger theory / L� thuy?t k�ch ho?t
-- [[Nibiru v� N?n Van Minh Annunaki]]
-- [[Atlantis]] - Th?m h?a pole shift? / Pole shift catastrophe?
-- [[Chu K? Ho�ng �?o]] - Cosmic cycles
-- [[Cabal]] - Ai dang gi?u th�ng tin / Who's hiding information
+- [[Nibiru]] — Trigger theory / Lý thuyết kích hoạt
+- [[Nibiru và Nền Văn Minh Annunaki]]
+- [[Atlantis]] — Thảm họa pole shift? / Pole shift catastrophe?
+- [[Chu Kỳ Hoàng Đạo]] — Cosmic cycles
+- [[Cabal]] — Ai đang giấu thông tin / Who's hiding information

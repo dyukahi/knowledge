@@ -204,7 +204,7 @@ flowchart TD
 - *Consequences: Severe anemia, bone fractures, "radium jaw", deaths*
 
 **Cover-up:**
-- Company đổ l�-i cho **SYPHILIS** (hủy hoại danh tiếng nạn nhân)
+- Company đổ lỗi cho **SYPHILIS** (hủy hoại danh tiếng nạn nhân)
 - Thuê "experts" để discredit findings
 - **1925:** Dr. Harrison Martland chứng minh radium poisoning
 - Company **VẪN** cố discredit ông

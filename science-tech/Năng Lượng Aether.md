@@ -1,88 +1,88 @@
----
-title: "Nang Lu?ng Aether"
-aliases: ["Nang Lu?ng Aether", "Aether Energy", "Free Energy"]
+﻿---
+title: "Năng Lượng Aether"
+aliases: ["Năng Lượng Aether", "Aether Energy", "Free Energy"]
 date: 2026-04-15
 tags: [science-tech]
 status: refined
 ---
-# Nang Lu?ng Aether (Aether Energy)
+# Năng Lượng Aether (Aether Energy)
 
-**Aether** (�-te) l� d?ng v?t ch?t tinh vi l?p d?y m?i kh�ng gian vu tr? - m�i tru?ng truy?n d?n cho �nh s�ng v� l?c di?n t?. Trong truy?n th?ng huy?n b�: Akasha, Prana, Chi, nang lu?ng g?c v� h�nh.
+**Aether** (Ê-te) là dạng vật chất tinh vi lấp đầy mọi không gian vũ trụ — môi trường truyền dẫn cho ánh sáng và lực điện từ. Trong truyền thống huyền bí: Akasha, Prana, Chi, năng lượng gốc vô hình.
 
-*Aether is a subtle substance filling all space - the medium for light and electromagnetic force transmission. In mystical traditions: Akasha, Prana, Chi, invisible primordial energy.*
+*Aether is a subtle substance filling all space — the medium for light and electromagnetic force transmission. In mystical traditions: Akasha, Prana, Chi, invisible primordial energy.*
 
 ---
 
-## S? ��n �p / Suppression
+## Sự Đàn áp / Suppression
 
-### Th� nghi?m Michelson-Morley (1887)
+### Thí nghiệm Michelson-Morley (1887)
 
 | Mainstream View | Revisionist View |
 |-----------------|------------------|
-| "Ch?ng minh" Aether kh�ng t?n t?i | B? di?n gi?i sai c� ch? d�ch |
-| M? du?ng cho Einstein | Lo?i b? d? b?o v? oil industry |
+| "Chứng minh" Aether không tồn tại | Bị diễn giải sai có chủ đích |
+| Mở đường cho Einstein | Loại bỏ để bảo vệ oil industry |
 
-### T?i sao b? ��n �p? / Why Suppressed?
+### Tại sao bị Đàn áp? / Why Suppressed?
 
 | If Aether exists | Consequence |
 |------------------|-------------|
-| **Free Energy** | Nang lu?ng v� t?n, mi?n ph� / Unlimited, free |
-| **Oil obsolete** | �? ch? d?u m? s?p d? / Oil empire collapses |
-| **[[Elite]] loses control** | Kh�ng ki?m so�t du?c nang lu?ng / Can't meter it |
+| **Free Energy** | Năng lượng vô tận, miễn phí / Unlimited, free |
+| **Oil obsolete** | Đế chế dầu mỏ sụp đổ / Oil empire collapses |
+| **[[Elite]] loses control** | Không kiểm soát được năng lượng / Can't meter it |
 
-> "We can't put a meter on it." - J.P. Morgan (v? d? �n Tesla / about Tesla's project)
+> "We can't put a meter on it." — J.P. Morgan (về dự án Tesla / about Tesla's project)
 
 ---
 
-## [[Nikola Tesla|Nikola Tesla]] v� Aether
+## [[Nikola Tesla|Nikola Tesla]] và Aether
 
 ### Tesla's Belief
 
-> "M?i v?t ch?t d?u d?n t? m?t ch?t nguy�n th?y l?p d?y m?i kh�ng gian - Akasha hay Aether."
+> "Mọi vật chất đều đến từ một chất nguyên thủy lấp đầy mọi không gian — Akasha hay Aether."
 > 
-> "All perceptible matter comes from a primary substance filling all space - Akasha or Aether."
+> "All perceptible matter comes from a primary substance filling all space — Akasha or Aether."
 
 ### Wardenclyffe Tower
 
 | Aspect | Description |
 |--------|-------------|
-| **Goal** | Truy?n di?n kh�ng d�y to�n c?u / Wireless global power |
-| **Method** | C?ng hu?ng v?i t? tru?ng Tr�i �?t + Aether / Earth resonance + Aether |
-| **Result** | J.P. Morgan c?t t�i tr? / J.P. Morgan cut funding |
+| **Goal** | Truyền điện không dây toàn cầu / Wireless global power |
+| **Method** | Cộng hưởng với từ trường Trái Đất + Aether / Earth resonance + Aether |
+| **Result** | J.P. Morgan cắt tài trợ / J.P. Morgan cut funding |
 | **Reason** | "Can't meter it" |
 
-### Kim T? Th�p / Pyramids
+### Kim Tự Tháp / Pyramids
 
-Tesla tin Giza pyramids = m�y khai th�c Aether:
+Tesla tin Giza pyramids = máy khai thác Aether:
 *Tesla believed Giza pyramids = Aether harvesting machines:*
 
-- Sacred Geometry / H�nh h?c thi�ng li�ng
-- Aquifers (t?ng ng?m nu?c) / Underground water
+- Sacred Geometry / Hình học thiêng liêng
+- Aquifers (tầng ngậm nước) / Underground water
 - Piezoelectric effect from limestone
 - Energy transmission, not tombs
 
 ---
 
-## T�n G?i M?i / Modern Names
+## Tên Gọi Mới / Modern Names
 
 | Old | New |
 |-----|-----|
-| Aether | Zero-point Energy / Nang lu?ng di?m kh�ng |
-| Aether | Quantum Field / Tru?ng lu?ng t? |
-| Aether | Dark Energy / Nang lu?ng t?i |
-| Aether | Vacuum Energy / Nang lu?ng ch�n kh�ng |
+| Aether | Zero-point Energy / Năng lượng điểm không |
+| Aether | Quantum Field / Trường lượng tử |
+| Aether | Dark Energy / Năng lượng tối |
+| Aether | Vacuum Energy / Năng lượng chân không |
 
-> B?n ch?t v?n l� "d?i duong nang lu?ng v� h�nh" l?p d?y vu tr?.
+> Bản chất vẫn là "đại dương năng lượng vô hình" lấp đầy vũ trụ.
 > Essence remains: "invisible ocean of energy" filling the universe.
 
 ---
 
-## B?ng ch?ng / Evidence
+## Bằng chứng / Evidence
 
 ### Casimir Effect
 - Two plates in vacuum experience force
 - Something exists in "empty" space
-- Vacuum ? nothing
+- Vacuum ≠ nothing
 
 ### Lamb Shift
 - Electron energy level fluctuations
@@ -95,9 +95,9 @@ Tesla tin Giza pyramids = m�y khai th�c Aether:
 
 ---
 
-## ?ng d?ng Th?c t? / Practical Applications
+## Ứng dụng Thực tế / Practical Applications
 
-### N?u Khai th�c du?c / If Harnessed
+### Nếu Khai thác được / If Harnessed
 
 | Application | Impact |
 |-------------|--------|
@@ -106,9 +106,9 @@ Tesla tin Giza pyramids = m�y khai th�c Aether:
 | **Anti-gravity?** | Transportation revolution |
 | **Healing** | Frequency medicine |
 
-### Ai �ang Nghi�n c?u? / Who's Researching?
+### Ai Đang Nghiên cứu? / Who's Researching?
 
-- Black projects / D? �n den
+- Black projects / Dự án đen
 - Classified military
 - Private inventors (often silenced)
 
@@ -116,14 +116,14 @@ Tesla tin Giza pyramids = m�y khai th�c Aether:
 
 ## Related
 
-### Scientists / Nh� khoa h?c
+### Scientists / Nhà khoa học
 - [[Nikola Tesla]]
 - [[Walter Russell]]
 
-### Suppression / ��n �p
+### Suppression / Đàn áp
 - [[Elite]] | [[Cabal]]
-- [[Khoa H?c X�t L?i]]
+- [[Khoa Học Xét Lại]]
 
-### Applications / ?ng d?ng
-- [[T?n S? Schumann]] - Earth frequency
-- [[Long M?ch]] - Earth energy
+### Applications / Ứng dụng
+- [[Tần Số Schumann]] — Earth frequency
+- [[Long Mạch]] — Earth energy

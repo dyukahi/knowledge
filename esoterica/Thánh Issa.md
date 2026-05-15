@@ -1,19 +1,19 @@
----
-title: "Th�nh Issa"
+﻿---
+title: "Thánh Issa"
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
-# Th�nh Issa (H�nh tr�nh T�y T?ng c?a Ch�a)
+# Thánh Issa (Hành trình Tây Tạng của Chúa)
 
-**Th�nh Issa** l� t�n g?i c?a Ch�a Gi�su trong c�c b?n th?o c? t?i tu vi?n Hemis (Ladakh, T�y T?ng). Gi?i d�p c�u h?i: Jesus ? d�u t? 12-30 tu?i?
+**Thánh Issa** là tên gọi của Chúa Giêsu trong các bản thảo cổ tại tu viện Hemis (Ladakh, Tây Tạng). Giải đáp câu hỏi: Jesus ở đâu từ 12-30 tuổi?
 
 ## The "Lost Years" Problem
 
 ### Biblical Record
 - Age 12: Temple in Jerusalem (Luke 2:42-52)
 - Age ~30: Baptism by John (Luke 3:23)
-- **18 nam = kh�ng c� ghi ch�p**
+- **18 năm = không có ghi chép**
 
 ### Official Explanation
 - Carpenter in Nazareth
@@ -43,7 +43,7 @@ status: refined
 
 ### Route
 ```
-Nazareth ? Egypt ? Babylon ? India ? Nepal ? Tibet ? Return
+Nazareth → Egypt → Babylon → India → Nepal → Tibet → Return
    12yo                                              ~29yo
 ```
 
@@ -95,7 +95,7 @@ Nazareth ? Egypt ? Babylon ? India ? Nepal ? Tibet ? Return
 ### For Spirituality
 - All traditions connected
 - Same truth, different expressions
-- [[S? Nh?t Th?]] confirmed
+- [[Sự Nhất Thể]] confirmed
 
 ## Related Theories
 
@@ -105,8 +105,8 @@ Nazareth ? Egypt ? Babylon ? India ? Nepal ? Tibet ? Return
 
 ## Related
 
-- [[T� Linh, Gnosis v� S? Th?c T?nh To�n Di?n]]
-- [[Gnosis]] - What Jesus taught
-- [[Vu Tr? H?c Ph?t Gi�o]] - Eastern cosmology
-- [[S? Nh?t Th?]] - Core teaching
-- [[Nh�n Qu?, Lu�n H?i v� Ma Tr?n T�n Gi�o]]
+- [[Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]]
+- [[Gnosis]] — What Jesus taught
+- [[Vũ Trụ Học Phật Giáo]] — Eastern cosmology
+- [[Sự Nhất Thể]] — Core teaching
+- [[Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo]]

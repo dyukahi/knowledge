@@ -1,14 +1,14 @@
----
-title: T�nh Y�u T?nh Th?c
+﻿---
+title: Tình Yêu Tỉnh Thức
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
-# T�nh Y�u T?nh Th?c (Conscious Love)
+# Tình Yêu Tỉnh Thức (Conscious Love)
 
-**T�nh Y�u T?nh Th?c** kh�ng ph?i c?m x�c chi?m h?u hay r�ng bu?c, m� l� nang lu?ng thang hoa xu?t ph�t t? s? th?u hi?u, ch?p nh?n v� bao dung s�u s?c.
+**Tình Yêu Tỉnh Thức** không phải cảm xúc chiếm hữu hay ràng buộc, mà là năng lượng thăng hoa xuất phát từ sự thấu hiểu, chấp nhận và bao dung sâu sắc.
 
-## Ph�n Bi?t C�c Lo?i T�nh Y�u
+## Phân Biệt Các Loại Tình Yêu
 
 ### Greek Words for Love
 
@@ -22,35 +22,35 @@ status: refined
 | **Philautia** | Self-love | Healthy or narcissistic |
 | **Agape** | Unconditional | **Conscious Love** |
 
-### Agape = T�nh Y�u T?nh Th?c
-- Kh�ng di?u ki?n
-- Kh�ng mong d�p l?i
-- Vu?t qua ego
+### Agape = Tình Yêu Tỉnh Thức
+- Không điều kiện
+- Không mong đáp lại
+- Vượt qua ego
 - Universal compassion
 
-## �?c �i?m
+## Đặc Điểm
 
-### 1. Kh�ng Chi?m H?u
-- "I love you" ? "I own you"
+### 1. Không Chiếm Hữu
+- "I love you" ≠ "I own you"
 - Freedom within connection
 - Trust, not control
 - Joy in partner's joy
 
-### 2. Kh�ng K? V?ng
+### 2. Không Kỳ Vọng
 - Love as giving, not trading
 - No score-keeping
 - Accept as-is
 - Not transactional
 
-### 3. K?t H?p [[Tr� Tu?]]
+### 3. Kết Hợp [[Trí Tuệ]]
 - Love without wisdom = enabling
 - Wisdom without love = cold
 - Both needed for true compassion
 - Discerning, not naive
 
-## S?c M?nh Ch?a L�nh
+## Sức Mạnh Chữa Lành
 
-### H�a Gi?i [[Nh�n Qu?]]
+### Hóa Giải [[Nhân Quả]]
 - Forgiveness breaks karma chains
 - Love dissolves resentment
 - End generational trauma
@@ -60,8 +60,8 @@ status: refined
 
 ```mermaid
 flowchart LR
-    A["T? y�u thuong | Self-love"] --> B["Tr�n d?y | Overflow"] --> C["Ngu?i kh�c | Others"]
-    C -->|"Quay v? | Returns"| A
+    A["Tự yêu thương | Self-love"] --> B["Tràn đầy | Overflow"] --> C["Người khác | Others"]
+    C -->|"Quay về | Returns"| A
 ```
 - Can't pour from empty cup
 - Not selfish, necessary
@@ -73,7 +73,7 @@ flowchart LR
 - Processing allows release
 - Release allows growth
 
-## Vu?t Qua [[Nh? Nguy�n]]
+## Vượt Qua [[Nhị Nguyên]]
 
 ### Beyond Good/Bad
 - Love even "enemies"
@@ -90,7 +90,7 @@ flowchart LR
 ## Practical Application
 
 ### Daily Practice
-- Metta meditation (loving-kindness)
+- Mettā meditation (loving-kindness)
 - Gratitude journal
 - Acts of service
 - Presence with loved ones
@@ -102,14 +102,14 @@ flowchart LR
 - Address with compassion
 
 ### Toward Self
-- Inner critic ? Inner supporter
+- Inner critic → Inner supporter
 - Forgive past mistakes
 - Celebrate small wins
 - Rest without guilt
 
-## T�nh Y�u v� Ma Tr?n
+## Tình Yêu và Ma Trận
 
-### [[Ma Tr?n]] Fears Love
+### [[Ma Trận]] Fears Love
 - Love unites (Matrix divides)
 - Love raises vibration (Matrix lowers)
 - Love sees truth (Matrix obscures)
@@ -123,9 +123,9 @@ flowchart LR
 
 ## Related
 
-- [[H�nh Tr�nh Linh H?n v� S?c M?nh C?a T�nh Y�u T?nh Th?c]]
-- [[Nh�n Qu?]] - What love dissolves
-- [[Nh? Nguy�n]] - What love transcends
-- [[Tr� Tu?]] - Love's companion
-- [[Individuation]] - Self-love as foundation
-- [[S? Nh?t Th?]] - Ultimate expression of love
+- [[Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức]]
+- [[Nhân Quả]] — What love dissolves
+- [[Nhị Nguyên]] — What love transcends
+- [[Trí Tuệ]] — Love's companion
+- [[Individuation]] — Self-love as foundation
+- [[Sự Nhất Thể]] — Ultimate expression of love

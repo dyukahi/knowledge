@@ -1,27 +1,27 @@
----
-title: "H? Ti�u H�a - B? N�o Th? Hai"
+﻿---
+title: "Hệ Tiêu Hóa - Bộ Não Thứ Hai"
 date: 2026-04-08
 tags: [health]
 status: refined
 ---
-# H? Ti�u H�a - B? N�o Th? Hai
+# Hệ Tiêu Hóa - Bộ Não Thứ Hai
 
-**H? Ti�u H�a** (d?c bi?t ru?t) du?c coi l� "b? n�o th? hai" v� ch?a m?ng lu?i th?n kinh ph?c t?p (Enteric Nervous System) ?nh hu?ng tr?c ti?p d?n t�m tr� v� c?m x�c.
+**Hệ Tiêu Hóa** (đặc biệt ruột) được coi là "bộ não thứ hai" vì chứa mạng lưới thần kinh phức tạp (Enteric Nervous System) ảnh hưởng trực tiếp đến tâm trí và cảm xúc.
 
 ## Gut-Brain Axis
 
 ### Enteric Nervous System (ENS)
-- 500+ tri?u neurons trong ru?t
-- Nhi?u hon t?y s?ng!
-- Ho?t d?ng d?c l?p v?i n�o
-- "Second brain" - Michael Gershon
+- 500+ triệu neurons trong ruột
+- Nhiều hơn tủy sống!
+- Hoạt động độc lập với não
+- "Second brain" — Michael Gershon
 
 ### Vagus Nerve Highway
 ```
-Brain ?? Vagus Nerve ?? Gut
+Brain ←→ Vagus Nerve ←→ Gut
  10%       Superhighway    90%
 ```
-- 90% signals go UP (gut ? brain)
+- 90% signals go UP (gut → brain)
 - Only 10% go down
 - Gut tells brain how to feel
 
@@ -47,23 +47,23 @@ Brain ?? Vagus Nerve ?? Gut
 - Regulate mood
 - Protect against pathogens
 
-## Khi Gut B? Ph� Ho?i
+## Khi Gut Bị Phá Hoại
 
-### Nguy�n nh�n
+### Nguyên nhân
 - Antibiotics (nuclear bomb cho microbiome)
 - Processed food
 - Pesticides (especially glyphosate)
 - Stress
 - Lack of fiber
 
-### H?u qu?
+### Hậu quả
 - **Mental**: Depression, anxiety, brain fog
 - **Physical**: Inflammation, autoimmune
 - **Spiritual**: Blocked intuition, low vibration
 
-## Ma Tr?n & Food System
+## Ma Trận & Food System
 
-Theo [[V?n Ch�n, Ngu?i Kogi v� Ma Tr?n Y T?]]:
+Theo [[Vận Chín, Người Kogi và Ma Trận Y Tế]]:
 
 ### Deliberate Destruction?
 - Glyphosate on everything (Monsanto/Bayer)
@@ -75,9 +75,9 @@ Theo [[V?n Ch�n, Ngu?i Kogi v� Ma Tr?n Y T?]]:
 - Sick population = controllable
 - Brain fog = no critical thinking
 - Mood swings = emotional reactivity
-- Perfect [[Ma Tr?n]] citizen
+- Perfect [[Ma Trận]] citizen
 
-## Ph?c H?i Gut Health
+## Phục Hồi Gut Health
 
 ### Remove
 - Processed foods
@@ -106,7 +106,7 @@ Theo [[V?n Ch�n, Ngu?i Kogi v� Ma Tr?n Y T?]]:
 ### Intuition
 - "Gut feeling" is literal
 - Clean gut = clear intuition
-- [[Tr� Tu?]] requires gut health
+- [[Trí Tuệ]] requires gut health
 
 ### Vibration
 - Toxic gut = low frequency
@@ -115,9 +115,9 @@ Theo [[V?n Ch�n, Ngu?i Kogi v� Ma Tr?n Y T?]]:
 
 ## Related
 
-- [[V?n Ch�n, Ngu?i Kogi v� Ma Tr?n Y T?]]
-- [[Ma Tr?n]] - Control through food
-- [[Thuy?t Vi Sinh N?i Sinh]] - Terrain theory
-- [[Plasma Quinton]] - Gut healing
-- [[Tr� Tu?]] - Requires clear gut
-- [[Tuy?n T�ng]] - Another targeted organ
+- [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
+- [[Ma Trận]] — Control through food
+- [[Thuyết Vi Sinh Nội Sinh]] — Terrain theory
+- [[Plasma Quinton]] — Gut healing
+- [[Trí Tuệ]] — Requires clear gut
+- [[Tuyến Tùng]] — Another targeted organ
