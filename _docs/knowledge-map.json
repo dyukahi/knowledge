@@ -1,17 +1,17 @@
 {
   "stats": {
-    "notes": 169,
+    "notes": 170,
     "domains": {
       "root": 3,
       "crypto-finance": 10,
       "esoterica": 69,
       "health": 24,
       "mental-models": 26,
-      "politics-conspiracy": 21,
+      "politics-conspiracy": 22,
       "science-tech": 16
     },
-    "tags": 154,
-    "wikilinkEdges": 1436,
+    "tags": 155,
+    "wikilinkEdges": 1440,
     "brokenLinks": 8,
     "orphans": 2
   },
@@ -3397,6 +3397,81 @@
         "summary": "Inception (2010) của Christopher Nolan không chỉ là phim giải trí. Đây có thể là **disclosure** — Elite nói thẳng cách họ manipulate nhân loại, ẩn dưới lớp vỏ \"fiction\"."
       },
       {
+        "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "title": "Karma Disclosure - Truth Hidden In Plain Sight",
+        "domain": "esoterica",
+        "tags": [
+          "conspiracy",
+          "esoterica",
+          "karma"
+        ],
+        "aliases": [
+          "Elite Disclosure",
+          "Hidden In Plain Sight",
+          "Karma Disclosure",
+          "Predictive Programming Karma"
+        ],
+        "headings": [
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Phần 1: Quy Luật Karma & Free Will",
+          "Universal Law",
+          "Tại Sao Cần Disclosure?",
+          "Phần 2: Cách Elite Disclosure",
+          "\"Fiction\" Là Disclosure",
+          "Logic Của Họ",
+          "Phần 3: Hidden In Plain Sight",
+          "Tại Sao \"Giấu Ngay Trước Mắt\"?",
+          "Ví Dụ Cụ Thể",
+          "Phần 4: Tại Sao Người Ta Không Thấy?",
+          "Cognitive Barriers",
+          "Đây Cũng Là Free Will",
+          "Phần 5: Ứng Dụng Thực Tế",
+          "Cách \"Thấy\" Truth Hidden In Plain Sight",
+          "Không Phải Để Paranoid",
+          "Phần 6: Counter-Argument",
+          "\"Đây Chỉ Là Pattern Recognition Bias\"",
+          "\"Elite Không Cần Disclosure\"",
+          "Điểm Giao",
+          "Kết: Karma Requires Disclosure",
+          "Related",
+          "Nền tảng / Foundation",
+          "Ứng dụng / Application",
+          "Meta"
+        ],
+        "wikilinks": [
+          "Atula",
+          "Gnosis",
+          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+          "Khoa Học Xét Lại",
+          "Luân Hồi",
+          "Ma Trận",
+          "Nghịch Lý Của Hiểu Biết",
+          "Nhị Nguyên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Atula.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "mental-models/Nhị Nguyên.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "index.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
+        ],
+        "words": 1138,
+        "summary": "Tại sao Elite luôn \"hint\" kế hoạch của họ trước khi thực hiện? Tại sao truth luôn được giấu ngay trước mắt?"
+      },
+      {
         "path": "esoterica/Long Mạch.md",
         "title": "Long Mạch (Dragon Veins)",
         "domain": "esoterica",
@@ -3672,80 +3747,6 @@
         ],
         "words": 2046,
         "summary": "Mọi nền văn minh cổ đại lớn trên thế giới — không có liên lạc với nhau — đều độc lập tôn thờ Trái Đất như một **ý thức sống**. Khoa học hiện đại đặt tên là Gaia Hypothesis (1972) và giả vờ đây là ý tưởng mới."
-      },
-      {
-        "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "title": "Karma Disclosure - Truth Hidden In Plain Sight",
-        "domain": "esoterica",
-        "tags": [
-          "conspiracy",
-          "esoterica",
-          "karma"
-        ],
-        "aliases": [
-          "Elite Disclosure",
-          "Hidden In Plain Sight",
-          "Karma Disclosure",
-          "Predictive Programming Karma"
-        ],
-        "headings": [
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Phần 1: Quy Luật Karma & Free Will",
-          "Universal Law",
-          "Tại Sao Cần Disclosure?",
-          "Phần 2: Cách Elite Disclosure",
-          "\"Fiction\" Là Disclosure",
-          "Logic Của Họ",
-          "Phần 3: Hidden In Plain Sight",
-          "Tại Sao \"Giấu Ngay Trước Mắt\"?",
-          "Ví Dụ Cụ Thể",
-          "Phần 4: Tại Sao Người Ta Không Thấy?",
-          "Cognitive Barriers",
-          "Đây Cũng Là Free Will",
-          "Phần 5: Ứng Dụng Thực Tế",
-          "Cách \"Thấy\" Truth Hidden In Plain Sight",
-          "Không Phải Để Paranoid",
-          "Phần 6: Counter-Argument",
-          "\"Đây Chỉ Là Pattern Recognition Bias\"",
-          "\"Elite Không Cần Disclosure\"",
-          "Điểm Giao",
-          "Kết: Karma Requires Disclosure",
-          "Related",
-          "Nền tảng / Foundation",
-          "Ứng dụng / Application",
-          "Meta"
-        ],
-        "wikilinks": [
-          "Atula",
-          "Gnosis",
-          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Khoa Học Xét Lại",
-          "Luân Hồi",
-          "Ma Trận",
-          "Nghịch Lý Của Hiểu Biết",
-          "Nhị Nguyên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Atula.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "mental-models/Nhị Nguyên.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "esoterica/Gematria.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
-        ],
-        "words": 1138,
-        "summary": "Tại sao Elite luôn \"hint\" kế hoạch của họ trước khi thực hiện? Tại sao truth luôn được giấu ngay trước mắt?"
       },
       {
         "path": "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
@@ -9549,6 +9550,7 @@
         ],
         "backlinks": [
           "index.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
           "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
           "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
@@ -9784,6 +9786,72 @@
         "summary": "Bài viết bắt đầu từ trải nghiệm quen thuộc của mỗi đứa trẻ Việt Nam: tiền mừng tuổi trong dịp Tết. Đây là thời điểm lần đầu tiên chúng ta có nhận thức rõ ràng về giá trị và sức mạnh của đồng tiền. Chúng ta được dạy rằng tiền có thể dùng để mua những thứ mình…"
       },
       {
+        "path": "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+        "title": "UAP Disclosure - Controlled Revelation",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "esoterica",
+          "politics-conspiracy"
+        ],
+        "aliases": [],
+        "headings": [
+          "UAP Disclosure - Controlled Revelation",
+          "Timeline Disclosure Gần Đây / Recent Disclosure Timeline",
+          "Controlled Disclosure Playbook",
+          "Limited Hangout là gì? / What is Limited Hangout?",
+          "Red Flags trong PURSUE (2026)",
+          "Các Giả Thuyết Về Mục Đích Thực Sự / True Purpose Hypotheses",
+          "1. Project Blue Beam Preparation",
+          "2. Military Budget Justification",
+          "3. Distraction từ Terrestrial Issues",
+          "4. Cover cho Suppressed Technology",
+          "5. Ancient History Revision",
+          "Câu Hỏi Cần Đặt Ra / Questions to Ask",
+          "Về Timing",
+          "Về Nội Dung",
+          "Về Framing",
+          "Ma Trận Góc Nhìn / Matrix of Perspectives",
+          "Case Study 2026: SpaceX IPO × Disclosure Day",
+          "Liên Kết Trong Ma Trận / Matrix Connections",
+          "[[Elite]] Control",
+          "[[Annunaki]] Narrative",
+          "[[Kiểm Soát Tâm Trí]]",
+          "[[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]",
+          "Synthesis: Họ Disclose Cái Gì Để Hide Cái Gì?",
+          "Tài Liệu Tham Khảo / References",
+          "Bonus: Hidden in Plain Sight — Word Magic",
+          "Tại sao \"A Lie\"?"
+        ],
+        "wikilinks": [
+          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Annunaki",
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Elite",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Nikola Tesla"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Annunaki.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "science-tech/Nikola Tesla.md"
+        ],
+        "backlinks": [
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "index.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md"
+        ],
+        "words": 1345,
+        "summary": "**UAP Disclosure** (Tiết lộ Hiện tượng Bất thường Trên không) là quá trình chính phủ \"giải mật\" thông tin về UFO/UAP. Nhưng câu hỏi thực sự không phải *\"UFO có thật không?\"* mà là *\"Tại sao Elite lại cho phép tiết lộ điều này ngay bây giờ?\"*"
+      },
+      {
         "path": "politics-conspiracy/MindGeek.md",
         "title": "MindGeek (Aylo)",
         "domain": "politics-conspiracy",
@@ -9926,68 +9994,6 @@
         ],
         "words": 558,
         "summary": "**Nguồn:** `raw/bai-02-su-kien-911-va-vu-khi-nang-luong.md` ** #911 #WTC #DEW #khoa-hoc-xet-lai"
-      },
-      {
-        "path": "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-        "title": "UAP Disclosure - Controlled Revelation",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "esoterica",
-          "politics-conspiracy"
-        ],
-        "aliases": [],
-        "headings": [
-          "UAP Disclosure - Controlled Revelation",
-          "Timeline Disclosure Gần Đây / Recent Disclosure Timeline",
-          "Controlled Disclosure Playbook",
-          "Limited Hangout là gì? / What is Limited Hangout?",
-          "Red Flags trong PURSUE (2026)",
-          "Các Giả Thuyết Về Mục Đích Thực Sự / True Purpose Hypotheses",
-          "1. Project Blue Beam Preparation",
-          "2. Military Budget Justification",
-          "3. Distraction từ Terrestrial Issues",
-          "4. Cover cho Suppressed Technology",
-          "5. Ancient History Revision",
-          "Câu Hỏi Cần Đặt Ra / Questions to Ask",
-          "Về Timing",
-          "Về Nội Dung",
-          "Về Framing",
-          "Ma Trận Góc Nhìn / Matrix of Perspectives",
-          "Liên Kết Trong Ma Trận / Matrix Connections",
-          "[[Elite]] Control",
-          "[[Annunaki]] Narrative",
-          "[[Kiểm Soát Tâm Trí]]",
-          "[[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]",
-          "Synthesis: Họ Disclose Cái Gì Để Hide Cái Gì?",
-          "Tài Liệu Tham Khảo / References",
-          "Bonus: Hidden in Plain Sight — Word Magic",
-          "Tại sao \"A Lie\"?"
-        ],
-        "wikilinks": [
-          "Annunaki",
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Elite",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Nikola Tesla"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Annunaki.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "science-tech/Nikola Tesla.md"
-        ],
-        "backlinks": [
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "index.md"
-        ],
-        "words": 1233,
-        "summary": "**UAP Disclosure** (Tiết lộ Hiện tượng Bất thường Trên không) là quá trình chính phủ \"giải mật\" thông tin về UFO/UAP. Nhưng câu hỏi thực sự không phải *\"UFO có thật không?\"* mà là *\"Tại sao Elite lại cho phép tiết lộ điều này ngay bây giờ?\"*"
       },
       {
         "path": "politics-conspiracy/MAGA Và Số 42.md",
@@ -10191,6 +10197,96 @@
         ],
         "words": 1093,
         "summary": "Bài viết này trình bày một góc nhìn phản biện về ma túy, nghiện, và Cuộc chiến chống ma túy, kêu gọi người đọc cởi bỏ định kiến và xem xét vấn đề từ nhiều phía. Tác giả lập luận rằng những hiểu biết phổ thông về ma túy phần lớn là sai lầm và cuộc chiến chống…"
+      },
+      {
+        "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "title": "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "esoterica",
+          "GALAXY11",
+          "politics-conspiracy",
+          "science-tech"
+        ],
+        "aliases": [],
+        "headings": [
+          "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+          "Source Check: Các Mốc 2026 Đã Có Dấu Vết Công Khai",
+          "Bối Cảnh: Mỹ Và Làn Sóng Công Bố Tài Liệu Người",
+          "19/2/2026 — Lệnh Giải Mật Của Trump",
+          "8/5/2026 — Lầu Năm Góc Công Bố Tài Liệu UAP",
+          "17/5/2026 — Trump Đăng Ảnh Người Ngoài Hành Tinh Lên Truth",
+          "Mexico — Alien Capital, Quốc Gia Dính Líu Nhiều Nhất Đến Alien",
+          "Quốc hội Mexico 2023 — Sự kiện Chính Phủ Chưa Từng Có",
+          "Teotihuacan — Kim Tự Tháp Nghi Là Cảng Vũ Trụ",
+          "UFO quanh các kim tự tháp đến ngày nay",
+          "The X-Files: \"…it wasn't the Hantavirus.\"",
+          "Transcript Trích Đoạn Phim — The X-Files: Fight The Future (1998)",
+          "12/6/2026: Disclosure Day × E.T — Đạo Diễn Huyền",
+          "E.T. = Extra-Terrestrial = Sinh Vật Ngoài Hành Tinh (1982)",
+          "Disclosure Day = Thời Khắc Công Bố (12/6/2026)",
+          "HOPE — Đạo Diễn Na Hong Jin (Ra Rạp Mùa Thu 2026)",
+          "HOPE — Na Hong Jin — In Theaters Fall 2026",
+          "LAM Của Dr. Strange aka Aleister Crowley × E.T Của",
+          "Aleister Crowley — Dr. Strange Ngoài Đời Thực",
+          "Aleister Crowley (12/10/1875 – 1/12/1947) — nhà huyền bí học, pháp sư nghi lễ, nhà",
+          "Nghi Lễ Amalantrah Working Và Sự Tiếp Xúc Với LAM (1917-1918)",
+          "Nghi Lễ Babalon Working (1946) — Nghi Lễ Huyền Bí Khét Tiếng Nhất",
+          "Jack Parsons Babalon Workings — Riorden McWilliam",
+          "Jack Parsons — Nhà Khoa Học Tên Lửa Và Huyền Bí Học",
+          "Jack Parsons (2/10/1914 – 17/6/1952) — đồng sáng lập JPL (Jet Propulsion Lab) và",
+          "\"Hymn to Pan\" — Bài Thánh Ca Đọc Trước Khi Phóng Tên Lửa",
+          "Chuỗi Kết Nối Rùng Mình",
+          "Câu Hỏi Sâu Sắc Nhất: Bản Chất Thực Sự Của LAM Là",
+          "Trường Phái 1: LAM Là Người Ngoài Hành Tinh Thật Sự",
+          "Trường Phái 2: LAM Là Ma Quỷ — Góc Nhìn Kitô Giáo",
+          "Trường Phái 3: LAM Là Thực Thể Liên Chiều — NHI (Non-Human",
+          "Điều Không Ai Có Thể Giải Thích Được",
+          "Kết Luận",
+          "Bốn Chương Mở Rộng",
+          "CHƯƠNG I: CHẾ ĐỘ KỸ TRỊ — TECHNOCRACY",
+          "Kết Luận Trước, Giải Thích Sau",
+          "Ông Ngoại Của Elon Musk Và Phong Trào Technocracy",
+          "Sức Ảnh Hưởng Của Elon Musk Là Bằng Chứng Cho Chế Độ Kỹ Trị",
+          "Main Character Energy — Khi Tất Cả Xin Chụp Ảnh Với Ông",
+          "CHƯƠNG II: MA THUẬT HỖN LOẠN × PREDICTIVE",
+          "Hollywood = Cây Đũa Phép",
+          "Revelation Method — Phương Pháp Báo Trước",
+          "Contagion (2011) — Covid Trước 9 Năm",
+          "Event 201 (2019) — Diễn Tập Trước Đại Dịch",
+          "Event 201, được tổ chức bởi Johns Hopkins (bị kiểm soát bởi Rockefeller), WEF và Bill",
+          "Vũ Trụ Marvel/DC — Phép Thuật Tập Thể",
+          "Đường Dây Propaganda Từ Freud Đến Netflix",
+          "CHƯƠNG III: CONTROLLED OPPOSITION — KHÔNG",
+          "Donald Trump × Deutsche Bank × Rockefeller",
+          "Elon Musk × Peter Thiel × Palantir × CIA",
+          "Kết Luận",
+          "CHƯƠNG IV: NGHI LỄ GIẾT NHÀ VUA × KIẾN TRÚC",
+          "Kết Luận",
+          "Huyền Thoại Osiris — Nguồn Gốc Của Nghi Lễ",
+          "Ai Cập → Rome → Mỹ — Cùng Một Nghi Lễ",
+          "Lincoln × Kennedy — Cùng Một Mô Típ",
+          "Kennedy → Apollo 11 → Ai Là MoonChild?",
+          "Jack Parsons (founder JPL) và L. Ron Hubbard (founder Scientology) đã cùng nhau thực",
+          "Obelisk Ở Khắp Nơi",
+          "Tài Liệu Tham Khảo / References"
+        ],
+        "wikilinks": [
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "UAP Disclosure - Controlled Revelation"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
+        ],
+        "backlinks": [
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
+        ],
+        "words": 6887,
+        "summary": "**SpaceX IPO ngày 12/6/2026 không chỉ là một sự kiện tài chính. Khi đặt cạnh UAP disclosure, Spielberg, Crowley/LAM, Jack Parsons/JPL và Hollywood predictive programming, nó trông giống một ritual calendar của kỷ nguyên mới: tên lửa như obelisk, khoa học như…"
       }
     ],
     "root": [
@@ -14263,7 +14359,7 @@
   "topTags": [
     [
       "esoterica",
-      76
+      77
     ],
     [
       "mental-model",
@@ -14275,11 +14371,11 @@
     ],
     [
       "politics-conspiracy",
-      19
+      20
     ],
     [
       "science-tech",
-      18
+      19
     ],
     [
       "source-note",
@@ -16840,6 +16936,7 @@
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "index.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
       ],
       "words": 1138,
@@ -23659,6 +23756,96 @@
       "words": 501,
       "summary": "**Vô Thức Tập Thể** là tầng sâu nhất của tâm trí, không mang tính cá nhân mà phổ quát cho toàn nhân loại. Kho tàng hình ảnh, ký ức và tri thức di truyền từ tổ tiên."
     },
+    "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
+      "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+      "title": "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+      "domain": "politics-conspiracy",
+      "tags": [
+        "esoterica",
+        "GALAXY11",
+        "politics-conspiracy",
+        "science-tech"
+      ],
+      "aliases": [],
+      "headings": [
+        "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+        "Source Check: Các Mốc 2026 Đã Có Dấu Vết Công Khai",
+        "Bối Cảnh: Mỹ Và Làn Sóng Công Bố Tài Liệu Người",
+        "19/2/2026 — Lệnh Giải Mật Của Trump",
+        "8/5/2026 — Lầu Năm Góc Công Bố Tài Liệu UAP",
+        "17/5/2026 — Trump Đăng Ảnh Người Ngoài Hành Tinh Lên Truth",
+        "Mexico — Alien Capital, Quốc Gia Dính Líu Nhiều Nhất Đến Alien",
+        "Quốc hội Mexico 2023 — Sự kiện Chính Phủ Chưa Từng Có",
+        "Teotihuacan — Kim Tự Tháp Nghi Là Cảng Vũ Trụ",
+        "UFO quanh các kim tự tháp đến ngày nay",
+        "The X-Files: \"…it wasn't the Hantavirus.\"",
+        "Transcript Trích Đoạn Phim — The X-Files: Fight The Future (1998)",
+        "12/6/2026: Disclosure Day × E.T — Đạo Diễn Huyền",
+        "E.T. = Extra-Terrestrial = Sinh Vật Ngoài Hành Tinh (1982)",
+        "Disclosure Day = Thời Khắc Công Bố (12/6/2026)",
+        "HOPE — Đạo Diễn Na Hong Jin (Ra Rạp Mùa Thu 2026)",
+        "HOPE — Na Hong Jin — In Theaters Fall 2026",
+        "LAM Của Dr. Strange aka Aleister Crowley × E.T Của",
+        "Aleister Crowley — Dr. Strange Ngoài Đời Thực",
+        "Aleister Crowley (12/10/1875 – 1/12/1947) — nhà huyền bí học, pháp sư nghi lễ, nhà",
+        "Nghi Lễ Amalantrah Working Và Sự Tiếp Xúc Với LAM (1917-1918)",
+        "Nghi Lễ Babalon Working (1946) — Nghi Lễ Huyền Bí Khét Tiếng Nhất",
+        "Jack Parsons Babalon Workings — Riorden McWilliam",
+        "Jack Parsons — Nhà Khoa Học Tên Lửa Và Huyền Bí Học",
+        "Jack Parsons (2/10/1914 – 17/6/1952) — đồng sáng lập JPL (Jet Propulsion Lab) và",
+        "\"Hymn to Pan\" — Bài Thánh Ca Đọc Trước Khi Phóng Tên Lửa",
+        "Chuỗi Kết Nối Rùng Mình",
+        "Câu Hỏi Sâu Sắc Nhất: Bản Chất Thực Sự Của LAM Là",
+        "Trường Phái 1: LAM Là Người Ngoài Hành Tinh Thật Sự",
+        "Trường Phái 2: LAM Là Ma Quỷ — Góc Nhìn Kitô Giáo",
+        "Trường Phái 3: LAM Là Thực Thể Liên Chiều — NHI (Non-Human",
+        "Điều Không Ai Có Thể Giải Thích Được",
+        "Kết Luận",
+        "Bốn Chương Mở Rộng",
+        "CHƯƠNG I: CHẾ ĐỘ KỸ TRỊ — TECHNOCRACY",
+        "Kết Luận Trước, Giải Thích Sau",
+        "Ông Ngoại Của Elon Musk Và Phong Trào Technocracy",
+        "Sức Ảnh Hưởng Của Elon Musk Là Bằng Chứng Cho Chế Độ Kỹ Trị",
+        "Main Character Energy — Khi Tất Cả Xin Chụp Ảnh Với Ông",
+        "CHƯƠNG II: MA THUẬT HỖN LOẠN × PREDICTIVE",
+        "Hollywood = Cây Đũa Phép",
+        "Revelation Method — Phương Pháp Báo Trước",
+        "Contagion (2011) — Covid Trước 9 Năm",
+        "Event 201 (2019) — Diễn Tập Trước Đại Dịch",
+        "Event 201, được tổ chức bởi Johns Hopkins (bị kiểm soát bởi Rockefeller), WEF và Bill",
+        "Vũ Trụ Marvel/DC — Phép Thuật Tập Thể",
+        "Đường Dây Propaganda Từ Freud Đến Netflix",
+        "CHƯƠNG III: CONTROLLED OPPOSITION — KHÔNG",
+        "Donald Trump × Deutsche Bank × Rockefeller",
+        "Elon Musk × Peter Thiel × Palantir × CIA",
+        "Kết Luận",
+        "CHƯƠNG IV: NGHI LỄ GIẾT NHÀ VUA × KIẾN TRÚC",
+        "Kết Luận",
+        "Huyền Thoại Osiris — Nguồn Gốc Của Nghi Lễ",
+        "Ai Cập → Rome → Mỹ — Cùng Một Nghi Lễ",
+        "Lincoln × Kennedy — Cùng Một Mô Típ",
+        "Kennedy → Apollo 11 → Ai Là MoonChild?",
+        "Jack Parsons (founder JPL) và L. Ron Hubbard (founder Scientology) đã cùng nhau thực",
+        "Obelisk Ở Khắp Nơi",
+        "Tài Liệu Tham Khảo / References"
+      ],
+      "wikilinks": [
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "UAP Disclosure - Controlled Revelation"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
+      ],
+      "backlinks": [
+        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
+      ],
+      "words": 6887,
+      "summary": "**SpaceX IPO ngày 12/6/2026 không chỉ là một sự kiện tài chính. Khi đặt cạnh UAP disclosure, Spielberg, Crowley/LAM, Jack Parsons/JPL và Hollywood predictive programming, nó trông giống một ritual calendar của kỷ nguyên mới: tên lửa như obelisk, khoa học như…"
+    },
     "politics-conspiracy/Báo Cáo 2030.md": {
       "path": "politics-conspiracy/Báo Cáo 2030.md",
       "title": "Báo Cáo 2030",
@@ -23896,6 +24083,7 @@
       ],
       "backlinks": [
         "index.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
@@ -25035,6 +25223,7 @@
         "Về Nội Dung",
         "Về Framing",
         "Ma Trận Góc Nhìn / Matrix of Perspectives",
+        "Case Study 2026: SpaceX IPO × Disclosure Day",
         "Liên Kết Trong Ma Trận / Matrix Connections",
         "[[Elite]] Control",
         "[[Annunaki]] Narrative",
@@ -25046,6 +25235,7 @@
         "Tại sao \"A Lie\"?"
       ],
       "wikilinks": [
+        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
         "Annunaki",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
         "Elite",
@@ -25059,6 +25249,7 @@
         "esoterica/Annunaki.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
@@ -25066,9 +25257,10 @@
       ],
       "backlinks": [
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "index.md"
+        "index.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md"
       ],
-      "words": 1233,
+      "words": 1345,
       "summary": "**UAP Disclosure** (Tiết lộ Hiện tượng Bất thường Trên không) là quá trình chính phủ \"giải mật\" thông tin về UFO/UAP. Nhưng câu hỏi thực sự không phải *\"UFO có thật không?\"* mà là *\"Tại sao Elite lại cho phép tiết lộ điều này ngay bây giờ?\"*"
     },
     "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md": {

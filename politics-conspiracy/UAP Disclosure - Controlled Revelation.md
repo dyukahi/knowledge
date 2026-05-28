@@ -169,6 +169,14 @@ Khi nào Elite disclose? Khi cần distract:
 
 ---
 
+## Case Study 2026: SpaceX IPO × Disclosure Day
+
+Nếu bài này là framework nền về controlled disclosure, thì [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]] là case study 2026: Trump UFO files, Pentagon/UAP release, Spielberg *Disclosure Day*, SpaceX IPO, Jack Parsons/JPL/NASA và LAM/Crowley được đặt lên cùng một ritual calendar.
+
+*If this article is the base framework for controlled disclosure, then [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]] is the 2026 case study: Trump UFO files, Pentagon/UAP release, Spielberg's Disclosure Day, the SpaceX IPO, Jack Parsons/JPL/NASA and LAM/Crowley placed onto the same ritual calendar.*
+
+---
+
 ## Liên Kết Trong Ma Trận / Matrix Connections
 
 ### [[Elite]] Control
@@ -228,6 +236,14 @@ flowchart LR
 **Bottom line:** UFO có thật không? Probably yes — dưới dạng nào đó. Nhưng **disclosure** không bao giờ về sự thật. Nó về **narrative control**.
 
 *Khi [[Elite]] cho bạn xem một thứ, hãy tự hỏi: Họ đang giấu thứ gì ở hướng ngược lại?*
+
+---
+
+## Case Study 2026: SpaceX IPO × Disclosure Day
+
+Nếu bài này là framework nền cho controlled disclosure, thì [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]] là case study 2026: Trump UFO files, Department of War/Pentagon UAP release, Spielberg *Disclosure Day*, SpaceX IPO ticker SPCX, Crowley/LAM, Jack Parsons/JPL và symbolism tên lửa như obelisk hiện đại.
+
+*If this article is the framework for controlled disclosure, then [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]] is the 2026 case study: Trump UFO files, Department of War/Pentagon UAP releases, Spielberg's Disclosure Day, SpaceX's SPCX IPO, Crowley/LAM, Jack Parsons/JPL, and the rocket as modern obelisk.*
 
 ---
 
