@@ -6,8 +6,8 @@
 
 - **Notes scanned:** 170
 - **Top-level domains:** 7
-- **Tags detected:** 155
-- **Resolved internal edges:** 1440
+- **Tags detected:** 154
+- **Resolved internal edges:** 1441
 - **Broken/unresolved links:** 8
 - **Orphan notes:** 2
 
@@ -25,7 +25,7 @@ Recommended note types:
 
 ### Esoterica / Huyền học `esoterica` — 69 notes
 
-- [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `98`, backlinks `77`, outlinks `21` — #esoterica
+- [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `99`, backlinks `78`, outlinks `21` — #esoterica
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `56`, backlinks `25`, outlinks `31` — #consciousness, #esoterica, #matrix, #meta
 - [[esoterica/Gnosis|Gnosis]] — degree `39`, backlinks `31`, outlinks `8` — #esoterica
 - [[esoterica/Tartaria|Tartaria]] — degree `33`, backlinks `21`, outlinks `12` — #esoterica
@@ -126,7 +126,7 @@ Recommended note types:
 
 High-degree notes are good candidates for hub/MOC treatment.
 
-1. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `98` · backlinks `77` · outlinks `21`
+1. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `99` · backlinks `78` · outlinks `21`
    - **Ma Trận** không chỉ là bộ phim — nó là metaphor cho hệ thống kiểm soát đa chiều đang vận hành trên Trái Đất: giáo dục, tài chính, truyền thông, tôn giáo. Tất cả thiết kế để giữ tâm thức con người "ngủ mê" và khai thác năng lượng.
 2. [[index|Red Pill Wiki]] — degree `85` · backlinks `0` · outlinks `85`
    - Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu.
