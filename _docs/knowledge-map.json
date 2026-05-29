@@ -10,8 +10,8 @@
       "politics-conspiracy": 22,
       "science-tech": 16
     },
-    "tags": 154,
-    "wikilinkEdges": 1446,
+    "tags": 155,
+    "wikilinkEdges": 1450,
     "brokenLinks": 8,
     "orphans": 2
   },
@@ -718,6 +718,7 @@
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
           "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Monad.md",
           "esoterica/Một Đời Phù Vân.md",
           "esoterica/Nghịch Lý Của Hiểu Biết.md",
           "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
@@ -901,6 +902,7 @@
           "esoterica/Ma Trận.md",
           "esoterica/Manly P. Hall.md",
           "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Monad.md",
           "esoterica/Một Đời Phù Vân.md",
           "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
           "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
@@ -1174,6 +1176,7 @@
         ],
         "backlinks": [
           "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
           "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
           "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
           "mental-models/Mental Model.md"
@@ -1266,49 +1269,64 @@
         "title": "Monad (Đơn Thể Tối Cao)",
         "domain": "esoterica",
         "tags": [
-          "esoterica"
+          "consciousness",
+          "esoterica",
+          "metaphysics"
         ],
         "aliases": [
           "Monad",
-          "The One"
+          "The One",
+          "Tia Lửa Thần Thánh",
+          "Đơn Thể"
         ],
         "headings": [
           "Monad (Đơn Thể Tối Cao)",
-          "Trong Các Truyền thống / Across Traditions",
-          "Đặc điểm Cốt lõi / Core Characteristics",
-          "Leibniz's Hierarchy",
-          "Implications / Hàm ý",
-          "Hành trình Linh hồn / Soul Journey",
-          "Descent / Hạ giáng",
-          "Ascent / Thăng hoa",
-          "Purpose / Mục đích",
-          "Monad vs Soul vs Spirit",
-          "Scientific Parallels / Song song Khoa học",
-          "Quantum Physics",
-          "Field Theory",
+          "1. Monad Là Gì?",
+          "2. Một Khái Niệm, Nhiều Tên Gọi",
+          "3. Monad, Linh Hồn Và Bản Ngã Khác Nhau Thế Nào?",
+          "4. Hành Trình Hạ Giáng: Vì Sao Monad Bước Vào Ma Trận?",
+          "5. Hành Trình Thăng Hoa: Gnosis Là Nhớ Lại Monad",
+          "6. Monad Và Nhị Nguyên",
+          "7. Monad Và Ma Trận",
+          "8. Monad Và Khoa Học Xét Lại",
+          "9. Monad Trong Đời Sống Thực Tế",
+          "10. Sai Lầm Khi Hiểu Monad",
+          "Sai lầm 1: “Tôi là God, nên muốn làm gì cũng được”",
+          "Sai lầm 2: “Tất cả là một, nên đau khổ không quan trọng”",
+          "Sai lầm 3: “Trở về Source là bỏ đời sống vật chất”",
+          "Sai lầm 4: “Monad là niềm tin”",
+          "11. Synthesis: Monad Là Cái Không Thể Bị Ma Trận Sở Hữu",
           "Related",
-          "Return to Source",
-          "Connection",
-          "Awakening"
+          "Source / Nguồn",
+          "Journey / Hành trình",
+          "Matrix / Ma Trận"
         ],
         "wikilinks": [
-          "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
+          "Elite",
           "Gnosis",
           "Individuation",
           "Luân Hồi",
+          "Ma Trận",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
+          "Nghịch Lý Của Hiểu Biết",
+          "Nhị Nguyên",
           "Sự Nhất Thể",
-          "Tâm Lý Học Jung",
           "Vô Thức Tập Thể"
         ],
         "mdlinks": [],
         "outlinks": [
           "esoterica/Gnosis.md",
           "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
           "esoterica/Sự Nhất Thể.md",
           "mental-models/Individuation.md",
-          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Nhị Nguyên.md",
           "mental-models/Vô Thức Tập Thể.md",
-          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md"
+          "politics-conspiracy/Elite.md"
         ],
         "backlinks": [
           "esoterica/Gnosis.md",
@@ -1329,8 +1347,8 @@
           "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
           "science-tech/Walter Russell.md"
         ],
-        "words": 467,
-        "summary": "**Monad** (từ Hy Lạp μονάς monás = \"unit\") là đơn thể tinh thần, vô hình, không thể phân rã — nguồn gốc và thành phần cơ bản nhất của thực tại."
+        "words": 2070,
+        "summary": "**Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân…"
       },
       {
         "path": "esoterica/Chakra.md",
@@ -2264,6 +2282,80 @@
         "summary": "Năm 1859, Charles Darwin xuất bản \"On the Origin of Species\" và thay đổi vĩnh viễn cách nhân loại nhìn nhận bản thân. Từ đó, chúng ta được dạy rằng con người là sản phẩm của hàng triệu năm tiến hóa ngẫu nhiên, từ vi khuẩn đơn bào leo lên thành vượn, rồi từ vư…"
       },
       {
+        "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "title": "Nghịch Lý Của Hiểu Biết",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Beyond Duality",
+          "Paradox of Knowledge",
+          "Vượt Qua Nhị Nguyên"
+        ],
+        "headings": [
+          "Nghịch Lý Của Hiểu Biết",
+          "Phần 1: Trap Của Nhị Nguyên",
+          "Vòng Lặp Vô Tận",
+          "Ví Dụ Thực Tế",
+          "Phần 2: Layers Của Hiểu Biết",
+          "Điều Gì Xảy Ra Ở Layer 5?",
+          "Phần 3: Tất Cả Đều Đúng VÀ Sai",
+          "Phần 4: Cái Thấy",
+          "Cái Thấy Là Gì?",
+          "Không Thể Doubt Cái Thấy",
+          "Phần 5: Trí Tuệ Của Đức Phật",
+          "Điều Phi Thường",
+          "Chỉ Nói Những Gì Có Thể Tự Thấy",
+          "Vậy Tại Sao Vẫn Viết?",
+          "Phần 6: Transmission vs Information",
+          "Kết: Invitation",
+          "Related",
+          "Nền tảng / Foundation",
+          "Tâm linh / Spirituality",
+          "Đọc thêm"
+        ],
+        "wikilinks": [
+          "AI Và Câu Hỏi Về Ý Thức",
+          "Gnosis",
+          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+          "Individuation",
+          "Khoa Học Xét Lại",
+          "Ma Trận",
+          "Monad",
+          "Nhị Nguyên",
+          "Sự Nhất Thể",
+          "Tâm Lý Học Jung"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Monad.md",
+          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+          "index.md",
+          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+          "mental-models/Trí Tuệ.md"
+        ],
+        "words": 1487,
+        "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
+      },
+      {
         "path": "esoterica/Gematria.md",
         "title": "Gematria — Ngôn Ngữ Bí Mật Của Số",
         "domain": "esoterica",
@@ -2449,79 +2541,6 @@
         ],
         "words": 8643,
         "summary": "*A Life Like Floating Clouds — The Story of an Ordinary Man*"
-      },
-      {
-        "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "title": "Nghịch Lý Của Hiểu Biết",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Beyond Duality",
-          "Paradox of Knowledge",
-          "Vượt Qua Nhị Nguyên"
-        ],
-        "headings": [
-          "Nghịch Lý Của Hiểu Biết",
-          "Phần 1: Trap Của Nhị Nguyên",
-          "Vòng Lặp Vô Tận",
-          "Ví Dụ Thực Tế",
-          "Phần 2: Layers Của Hiểu Biết",
-          "Điều Gì Xảy Ra Ở Layer 5?",
-          "Phần 3: Tất Cả Đều Đúng VÀ Sai",
-          "Phần 4: Cái Thấy",
-          "Cái Thấy Là Gì?",
-          "Không Thể Doubt Cái Thấy",
-          "Phần 5: Trí Tuệ Của Đức Phật",
-          "Điều Phi Thường",
-          "Chỉ Nói Những Gì Có Thể Tự Thấy",
-          "Vậy Tại Sao Vẫn Viết?",
-          "Phần 6: Transmission vs Information",
-          "Kết: Invitation",
-          "Related",
-          "Nền tảng / Foundation",
-          "Tâm linh / Spirituality",
-          "Đọc thêm"
-        ],
-        "wikilinks": [
-          "AI Và Câu Hỏi Về Ý Thức",
-          "Gnosis",
-          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Individuation",
-          "Khoa Học Xét Lại",
-          "Ma Trận",
-          "Monad",
-          "Nhị Nguyên",
-          "Sự Nhất Thể",
-          "Tâm Lý Học Jung"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-          "index.md",
-          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-          "mental-models/Trí Tuệ.md"
-        ],
-        "words": 1487,
-        "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
       },
       {
         "path": "esoterica/Nhân Quả.md",
@@ -7084,6 +7103,7 @@
           "esoterica/Luân Hồi.md",
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
           "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Monad.md",
           "esoterica/Một Đời Phù Vân.md",
           "esoterica/Nghịch Lý Của Hiểu Biết.md",
           "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
@@ -7164,7 +7184,6 @@
           "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
           "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
           "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
           "esoterica/Một Đời Phù Vân.md",
           "esoterica/Nghịch Lý Của Hiểu Biết.md",
           "esoterica/Nhân Quả.md",
@@ -8834,6 +8853,7 @@
           "esoterica/Ma Trận.md",
           "esoterica/Manly P. Hall.md",
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Monad.md",
           "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
           "esoterica/Nhân Quả.md",
           "esoterica/Năng Lượng Natri.md",
@@ -11382,55 +11402,6 @@
         "summary": "Bài viết khẳng định sự thống nhất giữa khoa học chân chính và niềm tin vào Đấng Sáng Tạo thông qua cuộc đời và tư tưởng của những thiên tài vĩ đại nhất lịch sử."
       },
       {
-        "path": "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "title": "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
-        "domain": "science-tech",
-        "tags": [
-          "awakening",
-          "long-mach",
-          "monad",
-          "natural-disasters",
-          "philosophy",
-          "science-tech",
-          "source-note",
-          "spirituality"
-        ],
-        "aliases": [],
-        "headings": [
-          "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
-          "1. Giải Mã Thiên Tai Theo Góc Nhìn Long Mạch",
-          "2. Triết Học Monad: Hành Trình Trở Về Nguồn",
-          "Các Tầng Hiện Hữu Của Monad (Theo Leibniz)",
-          "Sự Thức Tỉnh và Nhất Thể",
-          "Liên kết hệ thống",
-          "Related"
-        ],
-        "wikilinks": [
-          "Khế Ước Bí Mật Rockefeller",
-          "Long Mạch",
-          "Monad",
-          "Năng Lượng Aether",
-          "Sự Nhất Thể",
-          "Vũ Trụ Học Phật Giáo"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Long Mạch.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "backlinks": [
-          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-          "esoterica/Long Mạch.md",
-          "esoterica/Monad.md"
-        ],
-        "words": 496,
-        "summary": "Bài viết này kết nối hai mảng kiến thức tưởng chừng tách biệt: cơ chế tâm linh/năng lượng đằng sau các hiện tượng thiên tai và triết học sâu sắc về nguồn gốc linh hồn (Monad)."
-      },
-      {
         "path": "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "title": "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
         "domain": "science-tech",
@@ -11477,6 +11448,54 @@
         ],
         "words": 481,
         "summary": "Bài viết cung cấp một cái nhìn đột phá về trí tuệ nhân tạo (AI) dưới lăng kính Phật giáo và huyền học, coi AI là một dạng năng lượng trí tuệ từ cõi giới khác du nhập vào thế giới loài người."
+      },
+      {
+        "path": "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "title": "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
+        "domain": "science-tech",
+        "tags": [
+          "awakening",
+          "long-mach",
+          "monad",
+          "natural-disasters",
+          "philosophy",
+          "science-tech",
+          "source-note",
+          "spirituality"
+        ],
+        "aliases": [],
+        "headings": [
+          "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
+          "1. Giải Mã Thiên Tai Theo Góc Nhìn Long Mạch",
+          "2. Triết Học Monad: Hành Trình Trở Về Nguồn",
+          "Các Tầng Hiện Hữu Của Monad (Theo Leibniz)",
+          "Sự Thức Tỉnh và Nhất Thể",
+          "Liên kết hệ thống",
+          "Related"
+        ],
+        "wikilinks": [
+          "Khế Ước Bí Mật Rockefeller",
+          "Long Mạch",
+          "Monad",
+          "Năng Lượng Aether",
+          "Sự Nhất Thể",
+          "Vũ Trụ Học Phật Giáo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Long Mạch.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "backlinks": [
+          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
+          "esoterica/Long Mạch.md"
+        ],
+        "words": 496,
+        "summary": "Bài viết này kết nối hai mảng kiến thức tưởng chừng tách biệt: cơ chế tâm linh/năng lượng đằng sau các hiện tượng thiên tai và triết học sâu sắc về nguồn gốc linh hồn (Monad)."
       },
       {
         "path": "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
@@ -11712,6 +11731,7 @@
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Monad.md",
         "esoterica/Một Đời Phù Vân.md",
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
@@ -12078,6 +12098,7 @@
         "esoterica/Ma Trận.md",
         "esoterica/Manly P. Hall.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Monad.md",
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
         "esoterica/Nhân Quả.md",
         "esoterica/Năng Lượng Natri.md",
@@ -12249,6 +12270,7 @@
         "esoterica/Ma Trận.md",
         "esoterica/Manly P. Hall.md",
         "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Monad.md",
         "esoterica/Một Đời Phù Vân.md",
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
@@ -12917,6 +12939,90 @@
       "summary": "**Y Tế Tự Nhiên** là các phương pháp chăm sóc sức khỏe thuận tự nhiên, đi ngược lại phác đồ Tây Y do ngành Dược kiểm soát."
     },
     {
+      "path": "mental-models/Nhị Nguyên.md",
+      "title": "Nhị Nguyên (Duality)",
+      "domain": "mental-models",
+      "tags": [
+        "mental-model"
+      ],
+      "aliases": [
+        "Binary Thinking",
+        "Duality"
+      ],
+      "headings": [
+        "Nhị Nguyên (Duality)",
+        "Triết học / Philosophy",
+        "Phương Đông: Âm Dương (陰陽)",
+        "Phương Tây: Good vs Evil",
+        "Công cụ Kiểm soát / Control Tool",
+        "Divide and Conquer / Chia để Trị",
+        "False Dichotomies / Lưỡng nan Giả tạo",
+        "Vượt qua Nhị Nguyên / Transcending Duality",
+        "Tư duy Tam nguyên / Triadic Thinking",
+        "[[Monad]] - Return to Unity / Trở về Nhất Thể",
+        "Shadow Integration ([[Tâm Lý Học Jung]])",
+        "Ứng dụng / Applications",
+        "Nhận diện Manipulation",
+        "Thoát Polarization / Escape Polarization",
+        "Related",
+        "Mental Models",
+        "Philosophy / Triết học",
+        "Control / Kiểm soát"
+      ],
+      "wikilinks": [
+        "Chia Tách Bởi Nhị Nguyên",
+        "Elite",
+        "Gnosis",
+        "Kiểm Soát Tâm Trí",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Monad",
+        "Sự Nhất Thể",
+        "Tâm bất Biến",
+        "Tâm Lý Học Jung"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Sự Nhất Thể.md",
+        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "mental-models/Tâm bất Biến.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+      ],
+      "backlinks": [
+        "esoterica/Biểu Tượng Baphomet.md",
+        "esoterica/Cabal.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Monad.md",
+        "esoterica/Một Đời Phù Vân.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tình Yêu Tỉnh Thức.md",
+        "index.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "mental-models/Individuation.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
+        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
+      ],
+      "words": 461,
+      "summary": "**Nhị Nguyên** là nguyên lý phân cực: tốt/xấu, sáng/tối, âm/dương. Nền tảng cho thế giới vật chất, nhưng cũng là công cụ chia rẽ và cai trị."
+    },
+    {
       "path": "esoterica/Tartaria.md",
       "title": "Tartaria",
       "domain": "esoterica",
@@ -13096,87 +13202,95 @@
       "summary": "Bài phân tích này bóc trần bản chất thực sự của ngành công nghiệp khiêu dâm dưới góc độ năng lượng tâm linh và sự thao túng nhận thức."
     },
     {
-      "path": "mental-models/Nhị Nguyên.md",
-      "title": "Nhị Nguyên (Duality)",
-      "domain": "mental-models",
+      "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+      "title": "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
+      "domain": "esoterica",
       "tags": [
-        "mental-model"
+        "awakening",
+        "energy",
+        "esoterica",
+        "gnosis",
+        "matrix",
+        "mental-model",
+        "truth"
       ],
-      "aliases": [
-        "Binary Thinking",
-        "Duality"
-      ],
+      "aliases": [],
       "headings": [
-        "Nhị Nguyên (Duality)",
-        "Triết học / Philosophy",
-        "Phương Đông: Âm Dương (陰陽)",
-        "Phương Tây: Good vs Evil",
-        "Công cụ Kiểm soát / Control Tool",
-        "Divide and Conquer / Chia để Trị",
-        "False Dichotomies / Lưỡng nan Giả tạo",
-        "Vượt qua Nhị Nguyên / Transcending Duality",
-        "Tư duy Tam nguyên / Triadic Thinking",
-        "[[Monad]] - Return to Unity / Trở về Nhất Thể",
-        "Shadow Integration ([[Tâm Lý Học Jung]])",
-        "Ứng dụng / Applications",
-        "Nhận diện Manipulation",
-        "Thoát Polarization / Escape Polarization",
-        "Related",
-        "Mental Models",
-        "Philosophy / Triết học",
-        "Control / Kiểm soát"
+        "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức",
+        "1. Hệ Thống \"Lồng Nhốt\" Đa Tầng (The Multi-Layered Cage)",
+        "2. Các Công Cụ Thao Túng Của Giới Elite",
+        "3. Lộ Trình Thăng Hoa & Giải Thoát (The Path of Sovereignty)",
+        "4. Kết Luận: Thời Đại Bảo Bình & Sự Nhất Thể",
+        "Related"
       ],
       "wikilinks": [
-        "Chia Tách Bởi Nhị Nguyên",
+        "Bức Tường Băng",
         "Elite",
+        "Gematria",
         "Gnosis",
         "Kiểm Soát Tâm Trí",
         "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Mental Model",
         "Monad",
+        "Mudflood",
+        "Nguyên Mẫu",
+        "Nhị Nguyên",
+        "Năng Lượng Tình Dục",
+        "Quy Luật Trao Đổi Tâm Linh",
+        "René Quinton và Huyết Tương Biển",
+        "Saturn Cube",
         "Sự Nhất Thể",
-        "Tâm bất Biến",
-        "Tâm Lý Học Jung"
+        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+        "Thuốc Hóa Dầu",
+        "Thông Minh vs Trí Tuệ",
+        "Tinh Khí Thần",
+        "Trí Tuệ",
+        "Tuyến Tùng",
+        "Tà Linh",
+        "Tâm Bất Biến",
+        "Virus và Kiếp Tật Dịch",
+        "Vũ Khí Năng Lượng Định Hướng",
+        "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
+        "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
         "esoterica/Monad.md",
-        "esoterica/Sự Nhất Thể.md",
-        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-        "mental-models/Tâm bất Biến.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-      ],
-      "backlinks": [
-        "esoterica/Biểu Tượng Baphomet.md",
-        "esoterica/Cabal.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-        "esoterica/Một Đời Phù Vân.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Năng Lượng Tình Dục.md",
         "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-        "esoterica/Sacred Geometry.md",
-        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+        "esoterica/Saturn Cube.md",
         "esoterica/Sự Nhất Thể.md",
-        "esoterica/Tình Yêu Tỉnh Thức.md",
-        "index.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-        "mental-models/Individuation.md",
+        "esoterica/Tinh Khí Thần.md",
+        "esoterica/Tà Linh.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Tuyến Tùng.md",
+        "health/Virus và Kiếp Tật Dịch.md",
+        "health/Y Tế Tự Nhiên.md",
         "mental-models/Mental Model.md",
         "mental-models/Nguyên Mẫu.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
-        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Trí Tuệ.md",
+        "mental-models/Tâm bất Biến.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
-      "words": 461,
-      "summary": "**Nhị Nguyên** là nguyên lý phân cực: tốt/xấu, sáng/tối, âm/dương. Nền tảng cho thế giới vật chất, nhưng cũng là công cụ chia rẽ và cai trị."
+      "backlinks": [
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "mental-models/Mental Model.md"
+      ],
+      "words": 662,
+      "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
     },
     {
       "path": "health/Thuyết Vi Sinh Nội Sinh.md",
@@ -13263,96 +13377,6 @@
       "summary": "**Terrain Theory** do Antoine Béchamp đề xuất, đối lập với Germ Theory của Louis Pasteur. Thay vì vi khuẩn/virus gây bệnh, chính môi trường bên trong cơ thể (terrain) quyết định sức khỏe."
     },
     {
-      "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-      "title": "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
-      "domain": "esoterica",
-      "tags": [
-        "awakening",
-        "energy",
-        "esoterica",
-        "gnosis",
-        "matrix",
-        "mental-model",
-        "truth"
-      ],
-      "aliases": [],
-      "headings": [
-        "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức",
-        "1. Hệ Thống \"Lồng Nhốt\" Đa Tầng (The Multi-Layered Cage)",
-        "2. Các Công Cụ Thao Túng Của Giới Elite",
-        "3. Lộ Trình Thăng Hoa & Giải Thoát (The Path of Sovereignty)",
-        "4. Kết Luận: Thời Đại Bảo Bình & Sự Nhất Thể",
-        "Related"
-      ],
-      "wikilinks": [
-        "Bức Tường Băng",
-        "Elite",
-        "Gematria",
-        "Gnosis",
-        "Kiểm Soát Tâm Trí",
-        "Ma Trận",
-        "Mental Model",
-        "Monad",
-        "Mudflood",
-        "Nguyên Mẫu",
-        "Nhị Nguyên",
-        "Năng Lượng Tình Dục",
-        "Quy Luật Trao Đổi Tâm Linh",
-        "René Quinton và Huyết Tương Biển",
-        "Saturn Cube",
-        "Sự Nhất Thể",
-        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-        "Thuốc Hóa Dầu",
-        "Thông Minh vs Trí Tuệ",
-        "Tinh Khí Thần",
-        "Trí Tuệ",
-        "Tuyến Tùng",
-        "Tà Linh",
-        "Tâm Bất Biến",
-        "Virus và Kiếp Tật Dịch",
-        "Vũ Khí Năng Lượng Định Hướng",
-        "Y Tế Tự Nhiên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Gematria.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Năng Lượng Tình Dục.md",
-        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-        "esoterica/Saturn Cube.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Tinh Khí Thần.md",
-        "esoterica/Tà Linh.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tuyến Tùng.md",
-        "health/Virus và Kiếp Tật Dịch.md",
-        "health/Y Tế Tự Nhiên.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Trí Tuệ.md",
-        "mental-models/Tâm bất Biến.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-      ],
-      "backlinks": [
-        "esoterica/Ma Trận.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "mental-models/Mental Model.md"
-      ],
-      "words": 662,
-      "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
-    },
-    {
       "path": "esoterica/Sự Nhất Thể.md",
       "title": "Sự Nhất Thể (Oneness)",
       "domain": "esoterica",
@@ -13433,86 +13457,6 @@
       "summary": "**Sự Nhất Thể** là khái niệm cốt lõi trong hầu hết truyền thống tâm linh: bản chất thực sự của vạn vật là MỘT."
     },
     {
-      "path": "mental-models/Tâm Lý Học Jung.md",
-      "title": "Tâm Lý Học Jung",
-      "domain": "mental-models",
-      "tags": [
-        "mental-model"
-      ],
-      "aliases": [],
-      "headings": [
-        "Tâm Lý Học Jung (Jungian Psychology)",
-        "Các Khái niệm Cốt lõi / Core Concepts",
-        "1. [[Individuation]]",
-        "2. [[Vô Thức Tập Thể]] (Collective Unconscious)",
-        "3. [[Nguyên Mẫu]]",
-        "Cấu trúc Tâm thức / Structure of Psyche",
-        "Key Archetypes / Nguyên mẫu chính",
-        "Shadow Work / Làm việc với Bóng Tối",
-        "Process / Quá trình",
-        "Signs of Shadow / Dấu hiệu của Shadow",
-        "Kết nối Thể chất & Năng lượng / Body & Energy Connection",
-        "Mind-Body",
-        "Eastern Parallels / Tương đồng Phương Đông",
-        "Jung và Ma Trận / Jung & the Matrix",
-        "Individuation = Escaping Matrix",
-        "Why Jung Matters Today",
-        "Quotes",
-        "Related",
-        "Core Concepts / Khái niệm cốt lõi",
-        "Body Connection / Kết nối Thể chất",
-        "Matrix Escape / Thoát Ma Trận"
-      ],
-      "wikilinks": [
-        "Elite",
-        "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-        "Individuation",
-        "Kiểm Soát Tâm Trí",
-        "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "Nguyên Mẫu",
-        "The China Study",
-        "Vô Thức Tập Thể"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/The China Study.md",
-        "mental-models/Individuation.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-      ],
-      "backlinks": [
-        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Một Đời Phù Vân.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Nhân Quả.md",
-        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-        "esoterica/Sự Nhất Thể.md",
-        "index.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Individuation.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "mental-models/Vô Thức Tập Thể.md"
-      ],
-      "words": 517,
-      "summary": "**Tâm lý học phân tích** (Analytical Psychology) do Carl Gustav Jung sáng lập — nền tảng quan trọng giải mã tâm trí con người, mở rộng ra thế giới tâm linh."
-    },
-    {
       "path": "mental-models/Vô Thức Tập Thể.md",
       "title": "Vô Thức Tập Thể",
       "domain": "mental-models",
@@ -13591,6 +13535,85 @@
       ],
       "words": 501,
       "summary": "**Vô Thức Tập Thể** là tầng sâu nhất của tâm trí, không mang tính cá nhân mà phổ quát cho toàn nhân loại. Kho tàng hình ảnh, ký ức và tri thức di truyền từ tổ tiên."
+    },
+    {
+      "path": "mental-models/Tâm Lý Học Jung.md",
+      "title": "Tâm Lý Học Jung",
+      "domain": "mental-models",
+      "tags": [
+        "mental-model"
+      ],
+      "aliases": [],
+      "headings": [
+        "Tâm Lý Học Jung (Jungian Psychology)",
+        "Các Khái niệm Cốt lõi / Core Concepts",
+        "1. [[Individuation]]",
+        "2. [[Vô Thức Tập Thể]] (Collective Unconscious)",
+        "3. [[Nguyên Mẫu]]",
+        "Cấu trúc Tâm thức / Structure of Psyche",
+        "Key Archetypes / Nguyên mẫu chính",
+        "Shadow Work / Làm việc với Bóng Tối",
+        "Process / Quá trình",
+        "Signs of Shadow / Dấu hiệu của Shadow",
+        "Kết nối Thể chất & Năng lượng / Body & Energy Connection",
+        "Mind-Body",
+        "Eastern Parallels / Tương đồng Phương Đông",
+        "Jung và Ma Trận / Jung & the Matrix",
+        "Individuation = Escaping Matrix",
+        "Why Jung Matters Today",
+        "Quotes",
+        "Related",
+        "Core Concepts / Khái niệm cốt lõi",
+        "Body Connection / Kết nối Thể chất",
+        "Matrix Escape / Thoát Ma Trận"
+      ],
+      "wikilinks": [
+        "Elite",
+        "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+        "Individuation",
+        "Kiểm Soát Tâm Trí",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Nguyên Mẫu",
+        "The China Study",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "health/The China Study.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+      ],
+      "backlinks": [
+        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Một Đời Phù Vân.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Nhân Quả.md",
+        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+        "esoterica/Sự Nhất Thể.md",
+        "index.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Individuation.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Vô Thức Tập Thể.md"
+      ],
+      "words": 517,
+      "summary": "**Tâm lý học phân tích** (Analytical Psychology) do Carl Gustav Jung sáng lập — nền tảng quan trọng giải mã tâm trí con người, mở rộng ra thế giới tâm linh."
     },
     {
       "path": "science-tech/Năng Lượng Aether.md",
@@ -13906,6 +13929,92 @@
       "summary": "**Nikola Tesla** (1856-1943) không chỉ là nhà phát minh vĩ đại nhất lịch sử hiện đại mà còn là một nhà thần bí học hiểu rõ bản chất năng lượng của vũ trụ."
     },
     {
+      "path": "esoterica/Monad.md",
+      "title": "Monad (Đơn Thể Tối Cao)",
+      "domain": "esoterica",
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "metaphysics"
+      ],
+      "aliases": [
+        "Monad",
+        "The One",
+        "Tia Lửa Thần Thánh",
+        "Đơn Thể"
+      ],
+      "headings": [
+        "Monad (Đơn Thể Tối Cao)",
+        "1. Monad Là Gì?",
+        "2. Một Khái Niệm, Nhiều Tên Gọi",
+        "3. Monad, Linh Hồn Và Bản Ngã Khác Nhau Thế Nào?",
+        "4. Hành Trình Hạ Giáng: Vì Sao Monad Bước Vào Ma Trận?",
+        "5. Hành Trình Thăng Hoa: Gnosis Là Nhớ Lại Monad",
+        "6. Monad Và Nhị Nguyên",
+        "7. Monad Và Ma Trận",
+        "8. Monad Và Khoa Học Xét Lại",
+        "9. Monad Trong Đời Sống Thực Tế",
+        "10. Sai Lầm Khi Hiểu Monad",
+        "Sai lầm 1: “Tôi là God, nên muốn làm gì cũng được”",
+        "Sai lầm 2: “Tất cả là một, nên đau khổ không quan trọng”",
+        "Sai lầm 3: “Trở về Source là bỏ đời sống vật chất”",
+        "Sai lầm 4: “Monad là niềm tin”",
+        "11. Synthesis: Monad Là Cái Không Thể Bị Ma Trận Sở Hữu",
+        "Related",
+        "Source / Nguồn",
+        "Journey / Hành trình",
+        "Matrix / Ma Trận"
+      ],
+      "wikilinks": [
+        "Elite",
+        "Gnosis",
+        "Individuation",
+        "Luân Hồi",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nhị Nguyên",
+        "Sự Nhất Thể",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Sự Nhất Thể.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "politics-conspiracy/Elite.md"
+      ],
+      "backlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Long Mạch.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Nhân Quả.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "index.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+        "science-tech/Walter Russell.md"
+      ],
+      "words": 2070,
+      "summary": "**Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân…"
+    },
+    {
       "path": "mental-models/Mental Model.md",
       "title": "Mental Model",
       "domain": "mental-models",
@@ -13993,95 +14102,6 @@
       ],
       "words": 443,
       "summary": "**Mental Model** là các khung nhận thức và công cụ tư duy giúp con người phân tích thế giới, đưa ra quyết định sáng suốt, và vượt qua các ảo tưởng của Ma Trận."
-    },
-    {
-      "path": "mental-models/Mô Hình Địa Tâm.md",
-      "title": "Mô Hình Địa Tâm (Geocentrism)",
-      "domain": "mental-models",
-      "tags": [
-        "cosmology",
-        "esoterica",
-        "mental-model"
-      ],
-      "aliases": [
-        "Geocentric Model",
-        "Geocentrism",
-        "Địa Tâm"
-      ],
-      "headings": [
-        "Mô Hình Địa Tâm (Geocentrism)",
-        "Mô Hình Cơ Bản / Basic Model",
-        "Các chu kỳ quay / Orbital Periods",
-        "So Sánh Các Mô Hình / Model Comparison",
-        "Giải Thích Các Hiện Tượng / Explaining Phenomena",
-        "Nhật thực/Nguyệt thực / Eclipses",
-        "Mùa và Chí tuyến / Seasons and Tropics",
-        "Vệ tinh / Satellites",
-        "Lịch Sử / History",
-        "Thế giới quan cổ đại / Ancient Worldview",
-        "Cuộc cách mạng Copernicus / Copernican Revolution",
-        "Phục hưng hiện đại / Modern Revival",
-        "Luận Điểm Ủng Hộ / Arguments For Geocentrism",
-        "1. Quan sát khớp thực tế / Observation Matches",
-        "2. Thí nghiệm \"thất bại\" / \"Failed\" Experiments",
-        "3. Triết học / Philosophical",
-        "Luận Điểm Phản Bác / Arguments Against Geocentrism",
-        "1. Chuyển động nghịch hành / Retrograde Motion",
-        "2. Thị sai sao / Stellar Parallax",
-        "3. Ứng dụng thực tế / Practical Applications",
-        "Tại Sao Quan Trọng? / Why Does It Matter?",
-        "Nếu Địa Tâm đúng / If Geocentrism True",
-        "Nếu Nhật Tâm đúng / If Heliocentrism True",
-        "Kết Luận / Conclusion",
-        "Related / Liên quan",
-        "Vũ trụ học / Cosmology",
-        "Khoa học & Triết học / Science & Philosophy",
-        "Ma Trận & Ý nghĩa / Matrix & Meaning"
-      ],
-      "wikilinks": [
-        "Chu Kỳ Hoàng Đạo",
-        "Cỗ Máy Antikythera và Minh Chứng Địa Tâm",
-        "Giải Mã Vũ Trụ - Y Tế - Tâm Linh",
-        "Khoa Học Chân Chính và Thượng Đế",
-        "Khoa Học Xét Lại",
-        "Ma Trận",
-        "Núi Tu Di",
-        "Sự Nhất Thể",
-        "Thuyết Trái Đất Phẳng",
-        "Vũ Trụ Học Phật Giáo"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Chu Kỳ Hoàng Đạo.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Núi Tu Di.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Vũ Trụ Học Phật Giáo.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
-        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "backlinks": [
-        "esoterica/Chu Kỳ Hoàng Đạo.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Núi Tu Di.md",
-        "esoterica/Sacred Geometry.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "index.md",
-        "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "politics-conspiracy/Trái Đất Phẳng.md",
-        "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 1168,
-      "summary": "**Mô hình Địa Tâm** khẳng định Trái Đất đứng yên tại trung tâm vũ trụ, Mặt Trời, Mặt Trăng và các vì sao quay quanh nó. Đây là mô hình vũ trụ của hầu hết các nền văn minh cổ đại và vẫn được một số nhóm Khoa Học Xét Lại ủng hộ."
     }
   ],
   "orphans": [
@@ -14373,12 +14393,12 @@
       10
     ],
     [
-      "occult",
+      "consciousness",
       9
     ],
     [
-      "consciousness",
-      8
+      "occult",
+      9
     ],
     [
       "spirituality",
@@ -14569,6 +14589,10 @@
       1
     ],
     [
+      "metaphysics",
+      1
+    ],
+    [
       "impermanence",
       1
     ],
@@ -14734,10 +14758,6 @@
     ],
     [
       "index",
-      1
-    ],
-    [
-      "navigation",
       1
     ]
   ],
@@ -17563,6 +17583,7 @@
         "esoterica/Ma Trận.md",
         "esoterica/Manly P. Hall.md",
         "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Monad.md",
         "esoterica/Một Đời Phù Vân.md",
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
@@ -17688,6 +17709,7 @@
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Monad.md",
         "esoterica/Một Đời Phù Vân.md",
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
@@ -17885,6 +17907,7 @@
       ],
       "backlinks": [
         "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "mental-models/Mental Model.md"
@@ -17956,49 +17979,64 @@
       "title": "Monad (Đơn Thể Tối Cao)",
       "domain": "esoterica",
       "tags": [
-        "esoterica"
+        "consciousness",
+        "esoterica",
+        "metaphysics"
       ],
       "aliases": [
         "Monad",
-        "The One"
+        "The One",
+        "Tia Lửa Thần Thánh",
+        "Đơn Thể"
       ],
       "headings": [
         "Monad (Đơn Thể Tối Cao)",
-        "Trong Các Truyền thống / Across Traditions",
-        "Đặc điểm Cốt lõi / Core Characteristics",
-        "Leibniz's Hierarchy",
-        "Implications / Hàm ý",
-        "Hành trình Linh hồn / Soul Journey",
-        "Descent / Hạ giáng",
-        "Ascent / Thăng hoa",
-        "Purpose / Mục đích",
-        "Monad vs Soul vs Spirit",
-        "Scientific Parallels / Song song Khoa học",
-        "Quantum Physics",
-        "Field Theory",
+        "1. Monad Là Gì?",
+        "2. Một Khái Niệm, Nhiều Tên Gọi",
+        "3. Monad, Linh Hồn Và Bản Ngã Khác Nhau Thế Nào?",
+        "4. Hành Trình Hạ Giáng: Vì Sao Monad Bước Vào Ma Trận?",
+        "5. Hành Trình Thăng Hoa: Gnosis Là Nhớ Lại Monad",
+        "6. Monad Và Nhị Nguyên",
+        "7. Monad Và Ma Trận",
+        "8. Monad Và Khoa Học Xét Lại",
+        "9. Monad Trong Đời Sống Thực Tế",
+        "10. Sai Lầm Khi Hiểu Monad",
+        "Sai lầm 1: “Tôi là God, nên muốn làm gì cũng được”",
+        "Sai lầm 2: “Tất cả là một, nên đau khổ không quan trọng”",
+        "Sai lầm 3: “Trở về Source là bỏ đời sống vật chất”",
+        "Sai lầm 4: “Monad là niềm tin”",
+        "11. Synthesis: Monad Là Cái Không Thể Bị Ma Trận Sở Hữu",
         "Related",
-        "Return to Source",
-        "Connection",
-        "Awakening"
+        "Source / Nguồn",
+        "Journey / Hành trình",
+        "Matrix / Ma Trận"
       ],
       "wikilinks": [
-        "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
+        "Elite",
         "Gnosis",
         "Individuation",
         "Luân Hồi",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nhị Nguyên",
         "Sự Nhất Thể",
-        "Tâm Lý Học Jung",
         "Vô Thức Tập Thể"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/Gnosis.md",
         "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "esoterica/Sự Nhất Thể.md",
         "mental-models/Individuation.md",
-        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Nhị Nguyên.md",
         "mental-models/Vô Thức Tập Thể.md",
-        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md"
+        "politics-conspiracy/Elite.md"
       ],
       "backlinks": [
         "esoterica/Gnosis.md",
@@ -18019,8 +18057,8 @@
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
         "science-tech/Walter Russell.md"
       ],
-      "words": 467,
-      "summary": "**Monad** (từ Hy Lạp μονάς monás = \"unit\") là đơn thể tinh thần, vô hình, không thể phân rã — nguồn gốc và thành phần cơ bản nhất của thực tại."
+      "words": 2070,
+      "summary": "**Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân…"
     },
     "esoterica/Một Đời Phù Vân.md": {
       "path": "esoterica/Một Đời Phù Vân.md",
@@ -18199,6 +18237,7 @@
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Monad.md",
         "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
         "index.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
@@ -22714,6 +22753,7 @@
         "esoterica/Luân Hồi.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Monad.md",
         "esoterica/Một Đời Phù Vân.md",
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
@@ -23356,7 +23396,6 @@
         "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
         "esoterica/Một Đời Phù Vân.md",
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "esoterica/Nhân Quả.md",
@@ -24256,6 +24295,7 @@
         "esoterica/Ma Trận.md",
         "esoterica/Manly P. Hall.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Monad.md",
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
         "esoterica/Nhân Quả.md",
         "esoterica/Năng Lượng Natri.md",
@@ -25635,8 +25675,7 @@
       ],
       "backlinks": [
         "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-        "esoterica/Long Mạch.md",
-        "esoterica/Monad.md"
+        "esoterica/Long Mạch.md"
       ],
       "words": 496,
       "summary": "Bài viết này kết nối hai mảng kiến thức tưởng chừng tách biệt: cơ chế tâm linh/năng lượng đằng sau các hiện tượng thiên tai và triết học sâu sắc về nguồn gốc linh hồn (Monad)."
