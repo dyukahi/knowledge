@@ -7,7 +7,7 @@
 - **Notes scanned:** 170
 - **Top-level domains:** 7
 - **Tags detected:** 154
-- **Resolved internal edges:** 1445
+- **Resolved internal edges:** 1446
 - **Broken/unresolved links:** 8
 - **Orphan notes:** 2
 
@@ -118,7 +118,7 @@ Recommended note types:
 
 ### root `root` — 3 notes
 
-- [[index|Red Pill Wiki]] — degree `85`, backlinks `0`, outlinks `85` — #index, #navigation
+- [[index|Red Pill Wiki]] — degree `86`, backlinks `0`, outlinks `86` — #index, #navigation
 - [[claude|Schema (LLM Instructions)]] — degree `0`, backlinks `0`, outlinks `0`
 - [[README|🧠 Knowledge Base]] — degree `0`, backlinks `0`, outlinks `0`
 
@@ -128,7 +128,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 
 1. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `99` · backlinks `78` · outlinks `21`
    - **Ma Trận** không chỉ là bộ phim — nó là metaphor cho hệ thống kiểm soát đa chiều đang vận hành trên Trái Đất: giáo dục, tài chính, truyền thông, tôn giáo. Tất cả thiết kế để giữ tâm thức con người "ngủ mê" và khai thác năng lượng.
-2. [[index|Red Pill Wiki]] — degree `85` · backlinks `0` · outlinks `85`
+2. [[index|Red Pill Wiki]] — degree `86` · backlinks `0` · outlinks `86`
    - Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu.
 3. [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `84` · backlinks `65` · outlinks `19`
    - **Elite** đại diện cho tầng lớp chóp bu thao túng các hệ thống chính trị, tài chính và truyền thông toàn cầu. Thường được nhắc đến như Cabal, Illuminati, hay Thế Lực Ngầm.
