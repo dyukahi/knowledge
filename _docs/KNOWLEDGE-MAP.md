@@ -7,7 +7,7 @@
 - **Notes scanned:** 170
 - **Top-level domains:** 7
 - **Tags detected:** 154
-- **Resolved internal edges:** 1441
+- **Resolved internal edges:** 1445
 - **Broken/unresolved links:** 8
 - **Orphan notes:** 2
 
@@ -73,9 +73,9 @@ Recommended note types:
 
 ### Politics & Conspiracy `politics-conspiracy` — 22 notes
 
-- [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `83`, backlinks `64`, outlinks `19` — #politics-conspiracy
+- [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `84`, backlinks `65`, outlinks `19` — #politics-conspiracy
 - [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `46`, backlinks `29`, outlinks `17` — #politics-conspiracy
-- [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `42`, backlinks `32`, outlinks `10` — #politics-conspiracy
+- [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `43`, backlinks `33`, outlinks `10` — #politics-conspiracy
 - [[politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm|Sự Thật Đen Tối Về Phim Khiêu Dâm]] — degree `33`, backlinks `19`, outlinks `14` — #esoterica, #politics-conspiracy
 - [[politics-conspiracy/Thuyết Trái Đất Phẳng|Thuyết Trái Đất Phẳng (Flat Earth Theory)]] — degree `23`, backlinks `13`, outlinks `10` — #esoterica, #politics-conspiracy
 - [[politics-conspiracy/Bức Tường Băng|Bức Tường Băng (Ice Wall)]] — degree `22`, backlinks `12`, outlinks `10` — #esoterica, #politics-conspiracy
@@ -89,7 +89,7 @@ Recommended note types:
 
 ### Science & Tech `science-tech` — 16 notes
 
-- [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]] — degree `49`, backlinks `35`, outlinks `14` — #science-tech
+- [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]] — degree `50`, backlinks `36`, outlinks `14` — #science-tech
 - [[science-tech/Năng Lượng Aether|Năng Lượng Aether]] — degree `29`, backlinks `20`, outlinks `9` — #science-tech
 - [[science-tech/Nikola Tesla|Nikola Tesla]] — degree `28`, backlinks `20`, outlinks `8` — #science-tech
 - [[science-tech/Tần Số Schumann|Tần Số Schumann (Schumann Resonance)]] — degree `20`, backlinks `12`, outlinks `8` — #science-tech
@@ -130,17 +130,17 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Ma Trận** không chỉ là bộ phim — nó là metaphor cho hệ thống kiểm soát đa chiều đang vận hành trên Trái Đất: giáo dục, tài chính, truyền thông, tôn giáo. Tất cả thiết kế để giữ tâm thức con người "ngủ mê" và khai thác năng lượng.
 2. [[index|Red Pill Wiki]] — degree `85` · backlinks `0` · outlinks `85`
    - Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu.
-3. [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `83` · backlinks `64` · outlinks `19`
+3. [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `84` · backlinks `65` · outlinks `19`
    - **Elite** đại diện cho tầng lớp chóp bu thao túng các hệ thống chính trị, tài chính và truyền thông toàn cầu. Thường được nhắc đến như Cabal, Illuminati, hay Thế Lực Ngầm.
 4. [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `56` · backlinks `25` · outlinks `31`
    - Bài viết này là **bản tổng hợp hoàn chỉnh** về Ma Trận — cấu trúc, các lớp kiểm soát, mục đích tồn tại, và **con đường thoát ra**. Đây là meta-framework xâu chuỗi toàn bộ kiến thức trong vault.
-5. [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]] — degree `49` · backlinks `35` · outlinks `14`
+5. [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]] — degree `50` · backlinks `36` · outlinks `14`
    - **Khoa Học Xét Lại** là phong trào hoài nghi và phản bác các lý thuyết nền tảng của khoa học hiện đại. Cốt lõi: tự quan sát, tự kiểm chứng, dám đặt câu hỏi về "sự thật mặc định".
 6. [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `46` · backlinks `29` · outlinks `17`
    - **Báo cáo 2030** (Agenda 2030 / The Great Reset) phác thảo lộ trình chuyển đổi toàn cầu về kinh tế, chính trị, y tế và xã hội. Dưới góc nhìn Khoa Học Xét Lại, đây không chỉ là mục tiêu phát triển bền vững, mà là kế hoạch tái cấu trúc nhân loại.
 7. [[mental-models/Individuation|Individuation]] — degree `44` · backlinks `36` · outlinks `8`
    - **Individuation** là khái niệm trung tâm trong Tâm Lý Học Jung: quá trình trở thành một cá thể toàn vẹn, tích hợp ý thức và vô thức.
-8. [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `42` · backlinks `32` · outlinks `10`
+8. [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `43` · backlinks `33` · outlinks `10`
    - **Kiểm Soát Tâm Trí** là chiến lược của Elite nhằm lập trình nhận thức cộng đồng, biến con người thành NPCs phục vụ hệ thống.
 9. [[esoterica/Gnosis|Gnosis]] — degree `39` · backlinks `31` · outlinks `8`
    - **Gnosis** (từ tiếng Hy Lạp γνῶσις = "knowledge") là sự nhận biết trực tiếp về Thần Tính bên trong, không thông qua tôn giáo có tổ chức.
