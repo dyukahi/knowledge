@@ -7,7 +7,7 @@
 - **Notes scanned:** 170
 - **Top-level domains:** 7
 - **Tags detected:** 156
-- **Resolved internal edges:** 1454
+- **Resolved internal edges:** 1456
 - **Broken/unresolved links:** 8
 - **Orphan notes:** 2
 
@@ -27,10 +27,10 @@ Recommended note types:
 
 - [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `100`, backlinks `79`, outlinks `21` — #esoterica
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `58`, backlinks `27`, outlinks `31` — #consciousness, #esoterica, #matrix, #meta
-- [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `43`, backlinks `31`, outlinks `12` — #consciousness, #esoterica, #gnosis, #matrix
+- [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `44`, backlinks `32`, outlinks `12` — #consciousness, #esoterica, #gnosis, #matrix
 - [[esoterica/Tartaria|Tartaria]] — degree `33`, backlinks `21`, outlinks `12` — #esoterica
 - [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `32`, backlinks `5`, outlinks `27` — #awakening, #energy, #esoterica, #gnosis, #matrix
-- [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `30`, backlinks `21`, outlinks `9` — #consciousness, #esoterica, #non-duality
+- [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `31`, backlinks `22`, outlinks `9` — #consciousness, #esoterica, #non-duality
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `28`, backlinks `17`, outlinks `11` — #consciousness, #esoterica, #metaphysics
 - [[esoterica/Chakra|Chakra (Luân Xa)]] — degree `23`, backlinks `6`, outlinks `17` — #esoterica
 - [[esoterica/Cabal|Cabal (Thế Lực Ngầm)]] — degree `22`, backlinks `12`, outlinks `10` — #esoterica, #politics-conspiracy
@@ -118,7 +118,7 @@ Recommended note types:
 
 ### root `root` — 3 notes
 
-- [[index|Red Pill Wiki]] — degree `86`, backlinks `0`, outlinks `86` — #index, #navigation
+- [[index|Red Pill Wiki]] — degree `88`, backlinks `0`, outlinks `88` — #index, #navigation
 - [[claude|Schema (LLM Instructions)]] — degree `0`, backlinks `0`, outlinks `0`
 - [[README|🧠 Knowledge Base]] — degree `0`, backlinks `0`, outlinks `0`
 
@@ -128,7 +128,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 
 1. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `100` · backlinks `79` · outlinks `21`
    - **Ma Trận** không chỉ là bộ phim — nó là metaphor cho hệ thống kiểm soát đa chiều đang vận hành trên Trái Đất: giáo dục, tài chính, truyền thông, tôn giáo. Tất cả thiết kế để giữ tâm thức con người "ngủ mê" và khai thác năng lượng.
-2. [[index|Red Pill Wiki]] — degree `86` · backlinks `0` · outlinks `86`
+2. [[index|Red Pill Wiki]] — degree `88` · backlinks `0` · outlinks `88`
    - Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu.
 3. [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `85` · backlinks `66` · outlinks `19`
    - **Elite** đại diện cho tầng lớp chóp bu thao túng các hệ thống chính trị, tài chính và truyền thông toàn cầu. Thường được nhắc đến như Cabal, Illuminati, hay Thế Lực Ngầm.
@@ -140,10 +140,10 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Báo cáo 2030** (Agenda 2030 / The Great Reset) phác thảo lộ trình chuyển đổi toàn cầu về kinh tế, chính trị, y tế và xã hội. Dưới góc nhìn Khoa Học Xét Lại, đây không chỉ là mục tiêu phát triển bền vững, mà là kế hoạch tái cấu trúc nhân loại.
 7. [[mental-models/Individuation|Individuation]] — degree `44` · backlinks `36` · outlinks `8`
    - **Individuation** là khái niệm trung tâm trong Tâm Lý Học Jung: quá trình trở thành một cá thể toàn vẹn, tích hợp ý thức và vô thức.
-8. [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `43` · backlinks `33` · outlinks `10`
-   - **Kiểm Soát Tâm Trí** là chiến lược của Elite nhằm lập trình nhận thức cộng đồng, biến con người thành NPCs phục vụ hệ thống.
-9. [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `43` · backlinks `31` · outlinks `12`
+8. [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `44` · backlinks `32` · outlinks `12`
    - **Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…
+9. [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `43` · backlinks `33` · outlinks `10`
+   - **Kiểm Soát Tâm Trí** là chiến lược của Elite nhằm lập trình nhận thức cộng đồng, biến con người thành NPCs phục vụ hệ thống.
 10. [[mental-models/Trí Tuệ|Trí Tuệ]] — degree `34` · backlinks `27` · outlinks `7`
    - **Trí tuệ** là khả năng nhìn thấu bản chất, hiểu quy luật vận hành dài hạn, và có sự hài hòa giữa kiến thức với đạo đức. Khác biệt căn bản với thông minh.
 11. [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `34` · backlinks `24` · outlinks `10`
@@ -156,12 +156,12 @@ High-degree notes are good candidates for hub/MOC treatment.
    - Bài phân tích này bóc trần bản chất thực sự của ngành công nghiệp khiêu dâm dưới góc độ năng lượng tâm linh và sự thao túng nhận thức.
 15. [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `32` · backlinks `5` · outlinks `27`
    - Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng.
-16. [[health/Thuyết Vi Sinh Nội Sinh|Thuyết Vi Sinh Nội Sinh (Terrain Theory)]] — degree `31` · backlinks `21` · outlinks `10`
-   - **Terrain Theory** do Antoine Béchamp đề xuất, đối lập với Germ Theory của Louis Pasteur. Thay vì vi khuẩn/virus gây bệnh, chính môi trường bên trong cơ thể (terrain) quyết định sức khỏe.
-17. [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `30` · backlinks `22` · outlinks `8`
-   - **Vô Thức Tập Thể** là tầng sâu nhất của tâm trí, không mang tính cá nhân mà phổ quát cho toàn nhân loại. Kho tàng hình ảnh, ký ức và tri thức di truyền từ tổ tiên.
-18. [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `30` · backlinks `21` · outlinks `9`
+16. [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `31` · backlinks `22` · outlinks `9`
    - **Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh — ta/người, sáng/tối, tinh thần/vật chất, thắng/thua — có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qu…
+17. [[health/Thuyết Vi Sinh Nội Sinh|Thuyết Vi Sinh Nội Sinh (Terrain Theory)]] — degree `31` · backlinks `21` · outlinks `10`
+   - **Terrain Theory** do Antoine Béchamp đề xuất, đối lập với Germ Theory của Louis Pasteur. Thay vì vi khuẩn/virus gây bệnh, chính môi trường bên trong cơ thể (terrain) quyết định sức khỏe.
+18. [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `30` · backlinks `22` · outlinks `8`
+   - **Vô Thức Tập Thể** là tầng sâu nhất của tâm trí, không mang tính cá nhân mà phổ quát cho toàn nhân loại. Kho tàng hình ảnh, ký ức và tri thức di truyền từ tổ tiên.
 19. [[science-tech/Năng Lượng Aether|Năng Lượng Aether]] — degree `29` · backlinks `20` · outlinks `9`
    - **Aether** (Ê-te) là dạng vật chất tinh vi lấp đầy mọi không gian vũ trụ — môi trường truyền dẫn cho ánh sáng và lực điện từ. Trong truyền thống huyền bí: Akasha, Prana, Chi, năng lượng gốc vô hình.
 20. [[crypto-finance/Bitcoin|Bitcoin]] — degree `29` · backlinks `17` · outlinks `12`

@@ -111,6 +111,16 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 *Đọc theo thứ tự, hoặc nhảy vào bất kỳ đâu.*
 *Read in order, or jump in anywhere.*
 
+### ✨ Metaphysical Core Trilogy / Bộ Ba Nền Tảng Tâm Linh
+
+*Trục Source → Monad → Gnosis: hiểu cái Một, tia lửa bên trong, và sự nhớ lại trực tiếp.*
+
+1. **[[Sự Nhất Thể]]** — Nền tảng: tất cả vốn là một field/source phía sau mọi phân mảnh
+2. **[[Monad]]** — Điểm Một bên trong từng sinh thể, tia lửa bất khả phân của Source
+3. **[[Gnosis]]** — Sự nhớ lại trực tiếp: không qua giáo điều, không qua trung gian
+
+*Đọc bộ này khi muốn hiểu tầng metaphysical sâu nhất của vault trước khi đi vào Ma Trận, Luân Hồi, Elite hay Disclosure.*
+
 ### 📌 Esoterica Essentials / Huyền Học Cơ Bản
 
 - **[[Nghịch Lý Của Hiểu Biết]]** ⭐ — Beyond all frameworks / Vượt qua mọi framework
@@ -221,6 +231,7 @@ Deep analysis of how Gen Z is being "designed" to embrace the Great Reset.
 ## 🔄 Recent Updates / Cập Nhật Gần Đây
 
 **May 29, 2026:**
+- ✨ **Metaphysical Core Trilogy** — REWRITE: [[Sự Nhất Thể]], [[Monad]], [[Gnosis]] thành trục Source → Monad → Gnosis: cái Một, tia lửa bên trong, và sự nhớ lại trực tiếp.
 - 🔥 **[[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]]** — NEW/REFINED: SpaceX IPO 12/6/2026, Trump UFO files, Spielberg *Disclosure Day*, Crowley/LAM, Jack Parsons/JPL, technocracy và alien như interface của [[Ma Trận]].
 
 **May 15, 2026:**
