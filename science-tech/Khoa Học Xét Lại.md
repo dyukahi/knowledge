@@ -11,6 +11,24 @@ status: refined
 
 *Revisionist Science is a movement questioning and challenging foundational theories of modern science. Core principle: self-observation, self-verification, daring to question "default truths".*
 
+
+---
+
+## Vault Position / Vị Trí Trong Vault
+
+**Khoa Học Xét Lại** là immune system của vault. Không có nó, vault dễ rơi vào niềm tin mù. Nhưng nếu dùng sai, nó cũng có thể biến thành phản xạ phủ định mọi thứ mainstream chỉ vì nó mainstream.
+
+Tinh thần đúng không phải “khoa học chính thống luôn sai”. Tinh thần đúng là: **đừng nhầm institution với truth**. Science như method cần quan sát, kiểm chứng, lặp lại, phản biện. Science như institution lại có funding, prestige, censorship, career incentives và chính trị.
+
+Bài này là cổng vào cho các node như [[Thuyết Vi Sinh Nội Sinh]], [[Mô Hình Địa Tâm]], [[Thuyết Trái Đất Phẳng]], [[Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]], [[Nikola Tesla]] và [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]].
+
+> Revisionist Science không phải quyền được tin bừa. Nó là kỷ luật không để quyền lực định nghĩa thay mình cái gì được phép hỏi.
+
+### Claim Discipline
+
+- **Fact/documentable:** funding bias, replication crisis, regulatory capture, history of suppressed dissent.
+- **Pattern reading:** scientific consensus đôi khi đi cùng geopolitical/economic incentives.
+- **Speculative synthesis:** các model thay thế cần được giữ như hypothesis mạnh/yếu khác nhau, không gom hết thành “chắc chắn đúng”.
 ---
 
 ## Đặt vấn đề với "Tượng đài" / Questioning the "Icons"

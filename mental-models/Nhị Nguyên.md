@@ -15,6 +15,24 @@ related:
 
 *Duality is the principle of polarization: good/evil, light/dark, yin/yang. Foundation for material world, but also a tool for division and control.*
 
+
+---
+
+## Vault Position / Vị Trí Trong Vault
+
+**Nhị Nguyên** là grammar của [[Ma Trận]]. Khi một hệ thống muốn kiểm soát nhận thức, nó không cần bắt bạn tin toàn bộ lời nói dối. Nó chỉ cần ép bạn chọn giữa hai cực đã được chuẩn bị sẵn.
+
+Trong tầng metaphysics, Nhị Nguyên là điều kiện để cõi vật chất vận hành: sáng/tối, âm/dương, expansion/contraction. Nhưng trong tầng politics/media, Nhị Nguyên bị weaponize thành chia để trị: left/right, nam/nữ, khoa học/tâm linh, tin/chống, chính thống/âm mưu.
+
+Bài này nên đọc sau [[Sự Nhất Thể]] và trước [[Ma Trận]]. Nếu Nhất Thể là nền Một, thì Nhị Nguyên là màn hình chia Một thành hai để linh hồn có trải nghiệm, học bài học, và đôi khi bị kẹt trong cuộc chiến giả.
+
+> Nhị Nguyên không xấu. Cái bẫy là quên rằng hai cực cùng nằm trong một field lớn hơn.
+
+### Claim Discipline
+
+- **Fact/documentable:** media và politics thường dùng binary framing để ép public chọn phe.
+- **Pattern reading:** nhiều cuộc chiến xã hội vận hành như false dichotomy.
+- **Metaphysical synthesis:** duality là lớp phân cực của reality, không phải reality tối hậu.
 ---
 
 ## Triết học / Philosophy

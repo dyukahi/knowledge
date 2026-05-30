@@ -14,6 +14,24 @@ related:
 
 *The **Matrix** isn't just a movie — it's a metaphor for the multi-dimensional control system operating on Earth: education, finance, media, religion. All designed to keep human consciousness "asleep" and harvest energy.*
 
+
+---
+
+## Vault Position / Vị Trí Trong Vault
+
+**Ma Trận** là hub trung tâm của redpill.wiki. Hầu hết các node khác là một lớp, một cơ quan, hoặc một symptom của Ma Trận: tiền tệ, trường học, y tế, truyền thông, Hollywood, religion, science, sex, food, AI, disclosure.
+
+Nhưng cần nói rõ: Ma Trận không chỉ là “họ lừa mình”. Đó là một operating system của perception. Nó hoạt động bằng cách định nghĩa cái gì là thật, cái gì là điên, cái gì là đáng sợ, cái gì là đáng mơ ước, và cái gì là “bình thường”.
+
+Nếu [[Sự Nhất Thể]] là reality nền, [[Monad]] là tia lửa bên trong, và [[Gnosis]] là sự nhớ lại, thì Ma Trận là lớp interface khiến Monad đồng nhất mình với avatar, role, debt, status, trauma và narrative.
+
+> Ma Trận mạnh nhất không phải khi nó cấm bạn thấy. Nó mạnh nhất khi nó dạy bạn gọi cái lồng là “đời sống bình thường”.
+
+### Claim Discipline
+
+- **Fact/documentable:** có các hệ thống thật: nợ, giáo dục, media ownership, platform algorithms, pharma incentives.
+- **Pattern reading:** các hệ thống này cùng tạo behavioral conditioning.
+- **Metaphysical synthesis:** loosh, archons, soul trap là tầng đọc huyền học, không nên trộn lẫn với fact như cùng một loại bằng chứng.
 ---
 
 ## Các tầng Ma Trận / Layers of the Matrix

@@ -11,6 +11,27 @@ status: refined
 
 *Samsara (Sanskrit: संसार = "wandering") is the cycle of consciousness rebirth through physical bodies.*
 
+
+---
+
+## Vault Position / Vị Trí Trong Vault
+
+**Luân Hồi** là một trong những node nguy hiểm nhất của vault vì nó có hai cách đọc trái chiều:
+
+1. Trường học linh hồn: mỗi kiếp là một lớp học để tâm thức trưởng thành.
+2. Soul trap: vòng lặp ký ức bị xóa, năng lượng bị harvest, linh hồn bị giữ trong [[Ma Trận]].
+
+Vault không ép chọn một phe. Cách đọc mạnh hơn là: **cùng một cơ chế có thể là trường học hoặc nhà tù tùy mức độ tỉnh thức của người tham gia**. Với người ngủ mê, luân hồi là vòng lặp. Với người có [[Gnosis]], nó có thể thành quá trình học có ý thức, rồi vượt qua.
+
+Đọc bài này cùng [[Monad]], [[Gnosis]], [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]] và [[Ma Trận - Giải Phẫu Hoàn Chỉnh]].
+
+> Câu hỏi không phải chỉ là “có luân hồi không?”, mà là “nếu có, ai đang quản lý ký ức, consent và hướng đi của linh hồn?”
+
+### Claim Discipline
+
+- **Tradition/documentable:** Samsara là khái niệm trung tâm trong Phật giáo, Hindu giáo và nhiều truyền thống Á Đông.
+- **Pattern reading:** ký ức, nghiệp, trauma và repetition có thể được đọc như vòng lặp tâm thức.
+- **Speculative synthesis:** prison planet / archon / tunnel-of-light deception là tầng giả thuyết cần đọc như model, không như dogma.
 ---
 
 ## 6 Cõi Tái Sinh / Six Realms (Buddhist)

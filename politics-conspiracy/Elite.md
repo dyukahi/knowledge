@@ -14,6 +14,24 @@ related:
 
 *The **Elite** represents the top tier that manipulates global political, financial, and media systems. Often referred to as the Cabal, Illuminati, or Shadow Government.*
 
+
+---
+
+## Vault Position / Vị Trí Trong Vault
+
+**Elite** trong vault không nên hiểu đơn giản là “một nhóm người xấu bí mật ngồi trong phòng tối”. Cách đọc chính xác hơn: Elite là tầng quyền lực có khả năng thiết kế incentive, narrative, infrastructure và permission structure cho phần còn lại của xã hội.
+
+Có người thật, gia tộc thật, tổ chức thật, ngân hàng thật, think tank thật. Nhưng nếu chỉ săn tên cá nhân, người đọc sẽ mắc bẫy cartoon conspiracy. Elite mạnh vì nó vận hành như network: capital, policy, media, intelligence, academia, philanthropy, entertainment và technology cùng tạo một field quyền lực.
+
+Trong vault, Elite là node nối [[Báo Cáo 2030]], [[Ma Trận]], [[Kiểm Soát Tâm Trí]], [[Tiền Giấy - Tiền Mặt]], [[UAP Disclosure - Controlled Revelation]] và [[Khoa Học Xét Lại]].
+
+> Elite không cần kiểm soát mọi người mọi lúc. Họ chỉ cần kiểm soát default options mà số đông tưởng là lựa chọn tự do.
+
+### Claim Discipline
+
+- **Fact/documentable:** wealth concentration, lobbying, central banking, media consolidation, revolving doors.
+- **Pattern reading:** các institution lặp lại cùng một direction dù bề ngoài khác phe.
+- **Speculative synthesis:** Cabal/Illuminati/occult governance là tầng symbolic-esoteric, cần đọc cùng pattern chứ không thay thế evidence.
 ---
 
 ## Công cụ kiểm soát / Tools of Control
