@@ -11,8 +11,8 @@
       "science-tech": 16
     },
     "tags": 159,
-    "wikilinkEdges": 1482,
-    "brokenLinks": 0,
+    "wikilinkEdges": 1486,
+    "brokenLinks": 1,
     "orphans": 2
   },
   "domains": {
@@ -1375,6 +1375,80 @@
         "summary": "**Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân…"
       },
       {
+        "path": "esoterica/Luân Hồi.md",
+        "title": "Luân Hồi",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Reincarnation",
+          "Samsara"
+        ],
+        "headings": [
+          "Luân Hồi (Samsara / Reincarnation)",
+          "6 Cõi Tái Sinh / Six Realms (Buddhist)",
+          "Hai Góc nhìn / Two Perspectives",
+          "1. Tích cực / Positive (Buddhist/Hindu)",
+          "2. Tiêu cực / Negative (Gnostic)",
+          "Cơ chế Tái sinh / Rebirth Mechanism",
+          "1. Death / Chết",
+          "2. Between Lives / Giữa các Kiếp",
+          "3. Rebirth / Tái sinh",
+          "Thoát Luân Hồi / Escape the Cycle",
+          "Buddhist Path / Con đường Phật giáo",
+          "Gnostic Path / Con đường Ngộ đạo",
+          "Hindu Path / Con đường Hindu",
+          "Bằng chứng? / Evidence?",
+          "Past Life Memories / Ký ức Tiền kiếp",
+          "NDEs (Near-Death Experiences)",
+          "Related",
+          "Karma & Cycle",
+          "Prison or School?"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Ma Trận",
+          "Monad",
+          "Nhân Quả",
+          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+          "Nhị Nguyên",
+          "Tứ Linh",
+          "Vũ Trụ Học Phật Giáo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Tứ Linh.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "mental-models/Nhị Nguyên.md"
+        ],
+        "backlinks": [
+          "esoterica/Atula.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Tứ Linh.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "index.md",
+          "mental-models/Tâm bất Biến.md"
+        ],
+        "words": 424,
+        "summary": "**Luân Hồi** (Sanskrit: संसार saṃsāra = \"wandering\") là chu trình tái sinh của tâm thức qua các thân xác vật chất."
+      },
+      {
         "path": "esoterica/Chakra.md",
         "title": "Chakra (Luân Xa)",
         "domain": "esoterica",
@@ -1566,79 +1640,6 @@
         ],
         "words": 1820,
         "summary": "**Loosh** là thuật ngữ do Robert Monroe đặt ra trong sách *Far Journeys* (1985), mô tả một loại năng lượng phát ra từ con người — đặc biệt là năng lượng cảm xúc cường độ cao — được các thực thể chiều cao hơn thu hoạch."
-      },
-      {
-        "path": "esoterica/Luân Hồi.md",
-        "title": "Luân Hồi",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Reincarnation",
-          "Samsara"
-        ],
-        "headings": [
-          "Luân Hồi (Samsara / Reincarnation)",
-          "6 Cõi Tái Sinh / Six Realms (Buddhist)",
-          "Hai Góc nhìn / Two Perspectives",
-          "1. Tích cực / Positive (Buddhist/Hindu)",
-          "2. Tiêu cực / Negative (Gnostic)",
-          "Cơ chế Tái sinh / Rebirth Mechanism",
-          "1. Death / Chết",
-          "2. Between Lives / Giữa các Kiếp",
-          "3. Rebirth / Tái sinh",
-          "Thoát Luân Hồi / Escape the Cycle",
-          "Buddhist Path / Con đường Phật giáo",
-          "Gnostic Path / Con đường Ngộ đạo",
-          "Hindu Path / Con đường Hindu",
-          "Bằng chứng? / Evidence?",
-          "Past Life Memories / Ký ức Tiền kiếp",
-          "NDEs (Near-Death Experiences)",
-          "Related",
-          "Karma & Cycle",
-          "Prison or School?"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Ma Trận",
-          "Monad",
-          "Nhân Quả",
-          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
-          "Nhị Nguyên",
-          "Tứ Linh",
-          "Vũ Trụ Học Phật Giáo"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/Tứ Linh.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "mental-models/Nhị Nguyên.md"
-        ],
-        "backlinks": [
-          "esoterica/Atula.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Tứ Linh.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "mental-models/Tâm bất Biến.md"
-        ],
-        "words": 424,
-        "summary": "**Luân Hồi** (Sanskrit: संसार saṃsāra = \"wandering\") là chu trình tái sinh của tâm thức qua các thân xác vật chất."
       },
       {
         "path": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
@@ -6158,6 +6159,70 @@
         "summary": "**Mebendazole (MBZ)** là thuốc tẩy giun OTC (Fugacar, Vermox) được nghiên cứu như liệu pháp chống ung thư. Một ví dụ điển hình của \"drug repurposing\" — thuốc cũ, công dụng mới."
       },
       {
+        "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+        "domain": "health",
+        "tags": [
+          "health"
+        ],
+        "aliases": [
+          "Seeing Through Western Medicine",
+          "They Live Medicine"
+        ],
+        "headings": [
+          "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+          "Vòng Lặp Lệ Thuộc / The Dependency Loop",
+          "1. Ghép Tạng — Ngành Công Nghiệp Tội Ác",
+          "Sự Thật Đen Tối / Dark Truths",
+          "Tỷ Lệ Sống / Survival Rates",
+          "Cuộc Sống Sau Ghép / Life After Transplant",
+          "2. Ung Thư — Điều Trị Hay Giết Người?",
+          "Khi Nào Khối U Nguy Hiểm? / When Is a Tumor Dangerous?",
+          "Điều Trị = Di Căn / Treatment = Metastasis",
+          "3. Tiểu Đường — Lừa Dối Về Đường",
+          "Vòng Lặp Thuốc / The Drug Loop",
+          "Bản Chất Thực Sự / The Real Nature",
+          "Tội Ác Của Việc Kiêng Đường / The Crime of Sugar Restriction",
+          "4. Các Bệnh Khác — Cùng Pattern",
+          "Viêm Gan B / Hepatitis B",
+          "Táo Bón / Constipation",
+          "Suy Thận / Kidney Failure",
+          "Mất Ngủ / Insomnia",
+          "Cao Huyết Áp / Hypertension",
+          "Mỡ Máu / High Cholesterol",
+          "Kết Luận / Conclusion",
+          "Thay Thế / Alternative",
+          "Related"
+        ],
+        "wikilinks": [
+          "Công Thức Chữa Lành Tự Nhiên",
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Elite",
+          "Ma Trận",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Thuốc Hóa Dầu",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Thuốc Hóa Dầu.md",
+          "health/Y Tế Tự Nhiên.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Y Tế Tự Nhiên.md",
+          "index.md"
+        ],
+        "words": 1574,
+        "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
+      },
+      {
         "path": "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
         "title": "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
         "domain": "health",
@@ -6353,69 +6418,6 @@
         ],
         "words": 622,
         "summary": "Bài tổng hợp từ dữ liệu thoại/văn bản mới nạp, bao trùm các lĩnh vực từ Vũ trụ học địa tâm, Y học thay thế đến Triết học về sự giàu có và Thời đại Bảo Bình."
-      },
-      {
-        "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-        "domain": "health",
-        "tags": [
-          "health"
-        ],
-        "aliases": [
-          "Seeing Through Western Medicine",
-          "They Live Medicine"
-        ],
-        "headings": [
-          "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-          "Vòng Lặp Lệ Thuộc / The Dependency Loop",
-          "1. Ghép Tạng — Ngành Công Nghiệp Tội Ác",
-          "Sự Thật Đen Tối / Dark Truths",
-          "Tỷ Lệ Sống / Survival Rates",
-          "Cuộc Sống Sau Ghép / Life After Transplant",
-          "2. Ung Thư — Điều Trị Hay Giết Người?",
-          "Khi Nào Khối U Nguy Hiểm? / When Is a Tumor Dangerous?",
-          "Điều Trị = Di Căn / Treatment = Metastasis",
-          "3. Tiểu Đường — Lừa Dối Về Đường",
-          "Vòng Lặp Thuốc / The Drug Loop",
-          "Bản Chất Thực Sự / The Real Nature",
-          "Tội Ác Của Việc Kiêng Đường / The Crime of Sugar Restriction",
-          "4. Các Bệnh Khác — Cùng Pattern",
-          "Viêm Gan B / Hepatitis B",
-          "Táo Bón / Constipation",
-          "Suy Thận / Kidney Failure",
-          "Mất Ngủ / Insomnia",
-          "Cao Huyết Áp / Hypertension",
-          "Mỡ Máu / High Cholesterol",
-          "Kết Luận / Conclusion",
-          "Thay Thế / Alternative",
-          "Related"
-        ],
-        "wikilinks": [
-          "Công Thức Chữa Lành Tự Nhiên",
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Elite",
-          "Ma Trận",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Thuốc Hóa Dầu",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Thuốc Hóa Dầu.md",
-          "health/Y Tế Tự Nhiên.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Y Tế Tự Nhiên.md"
-        ],
-        "words": 1574,
-        "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
       },
       {
         "path": "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
@@ -6885,10 +6887,46 @@
         ],
         "backlinks": [
           "health/Prolonged Fasting.md",
-          "health/Ung Thư - Metabolic Protocol.md"
+          "health/Ung Thư - Metabolic Protocol.md",
+          "index.md"
         ],
         "words": 187,
         "summary": "**Ketogenic Diet là chiến lược dinh dưỡng đưa cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism. Trong framework sức khỏe của vault, keto quan trọng vì nó đặt lại câu hỏi: bệnh tật là lỗi thuốc men, hay lỗi môi trường chuyển hóa?**"
+      },
+      {
+        "path": "health/Prolonged Fasting.md",
+        "title": "Prolonged Fasting",
+        "domain": "health",
+        "tags": [
+          "fasting",
+          "health",
+          "metabolism"
+        ],
+        "aliases": [],
+        "headings": [
+          "Prolonged Fasting",
+          "Trong Vault",
+          "Cẩn Trọng",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Ketogenic Diet",
+          "Ung Thư - Metabolic Protocol",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/Ketogenic Diet.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Y Tế Tự Nhiên.md"
+        ],
+        "backlinks": [
+          "health/Ketogenic Diet.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "index.md"
+        ],
+        "words": 217,
+        "summary": "**Prolonged Fasting là nhịn ăn kéo dài có chủ đích, thường từ 24 giờ trở lên, nhằm tạo áp lực chuyển hóa: giảm insulin, kích hoạt autophagy, tăng ketone và buộc cơ thể chuyển từ chế độ tiêu thụ sang chế độ tái chế.**"
       },
       {
         "path": "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
@@ -6930,40 +6968,6 @@
         ],
         "words": 375,
         "summary": "Đây là bản đồ tư duy cốt lõi để con người thoát khỏi sự kiểm soát của Ma trận, bảo vệ sức khỏe và nâng cấp nhận thức trong thời đại mới."
-      },
-      {
-        "path": "health/Prolonged Fasting.md",
-        "title": "Prolonged Fasting",
-        "domain": "health",
-        "tags": [
-          "fasting",
-          "health",
-          "metabolism"
-        ],
-        "aliases": [],
-        "headings": [
-          "Prolonged Fasting",
-          "Trong Vault",
-          "Cẩn Trọng",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Ketogenic Diet",
-          "Ung Thư - Metabolic Protocol",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "health/Ketogenic Diet.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Y Tế Tự Nhiên.md"
-        ],
-        "backlinks": [
-          "health/Ketogenic Diet.md",
-          "health/Ung Thư - Metabolic Protocol.md"
-        ],
-        "words": 217,
-        "summary": "**Prolonged Fasting là nhịn ăn kéo dài có chủ đích, thường từ 24 giờ trở lên, nhằm tạo áp lực chuyển hóa: giảm insulin, kích hoạt autophagy, tăng ketone và buộc cơ thể chuyển từ chế độ tiêu thụ sang chế độ tái chế.**"
       },
       {
         "path": "health/Suy Thận.md",
@@ -10526,6 +10530,12 @@
           "✨ Metaphysical Core Trilogy / Bộ Ba Nền Tảng Tâm Linh",
           "📌 Esoterica Essentials / Huyền Học Cơ Bản",
           "📌 Health & Wellness / Sức Khỏe",
+          "🧭 Reading Paths / Lộ Trình Đọc",
+          "1. Beginner Path / Lối Vào Cho Người Mới",
+          "2. Matrix Path / Lộ Trình Ma Trận",
+          "3. Metaphysical Core Path / Lộ Trình Tâm Linh Nền Tảng",
+          "4. Health Sovereignty Path / Lộ Trình Chủ Quyền Sức Khỏe",
+          "5. Disclosure / Alien Path / Lộ Trình Disclosure",
           "🗂️ Browse by Category / Duyệt Theo Danh Mục",
           "💰 Crypto & Finance",
           "🔮 Esoterica",
@@ -10554,6 +10564,7 @@
           "Chu Kỳ Hoàng Đạo",
           "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
           "Climate Anxiety as Control - Fear-Based Compliance",
+          "Cách Đọc Red Pill Wiki",
           "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
           "Digital ID Normalization - From Instagram to Government ID",
           "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
@@ -10567,10 +10578,13 @@
           "Hollywood - Cây Đũa Phép Của Phù Thủy",
           "Individuation",
           "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Ketogenic Diet",
           "Khoa Học Xét Lại",
           "Kiểm Soát Tâm Trí",
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
           "Lemuria",
           "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Luân Hồi",
           "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
           "Ma Trận",
           "Ma Trận - Giải Phẫu Hoàn Chỉnh",
@@ -10590,6 +10604,7 @@
           "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
           "Privacy",
           "Privacy Is The New Wealth",
+          "Prolonged Fasting",
           "S.E.X Và Tâm Lý Học Jung",
           "Sacred Geometry",
           "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
@@ -10649,6 +10664,7 @@
           "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
           "esoterica/Lemuria.md",
           "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Luân Hồi.md",
           "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Ma Trận.md",
@@ -10669,8 +10685,11 @@
           "esoterica/Vận Chín.md",
           "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
           "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Ketogenic Diet.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
           "health/Plasma Quinton.md",
+          "health/Prolonged Fasting.md",
           "health/Suramin.md",
           "health/Thuyết Vi Sinh Nội Sinh.md",
           "health/Thuốc Hóa Dầu.md",
@@ -10719,7 +10738,7 @@
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
         ],
         "backlinks": [],
-        "words": 2425,
+        "words": 2888,
         "summary": "Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu."
       },
       {
@@ -12044,6 +12063,12 @@
         "✨ Metaphysical Core Trilogy / Bộ Ba Nền Tảng Tâm Linh",
         "📌 Esoterica Essentials / Huyền Học Cơ Bản",
         "📌 Health & Wellness / Sức Khỏe",
+        "🧭 Reading Paths / Lộ Trình Đọc",
+        "1. Beginner Path / Lối Vào Cho Người Mới",
+        "2. Matrix Path / Lộ Trình Ma Trận",
+        "3. Metaphysical Core Path / Lộ Trình Tâm Linh Nền Tảng",
+        "4. Health Sovereignty Path / Lộ Trình Chủ Quyền Sức Khỏe",
+        "5. Disclosure / Alien Path / Lộ Trình Disclosure",
         "🗂️ Browse by Category / Duyệt Theo Danh Mục",
         "💰 Crypto & Finance",
         "🔮 Esoterica",
@@ -12072,6 +12097,7 @@
         "Chu Kỳ Hoàng Đạo",
         "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
         "Climate Anxiety as Control - Fear-Based Compliance",
+        "Cách Đọc Red Pill Wiki",
         "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
         "Digital ID Normalization - From Instagram to Government ID",
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
@@ -12085,10 +12111,13 @@
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "Individuation",
         "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Ketogenic Diet",
         "Khoa Học Xét Lại",
         "Kiểm Soát Tâm Trí",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
         "Lemuria",
         "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+        "Luân Hồi",
         "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
         "Ma Trận",
         "Ma Trận - Giải Phẫu Hoàn Chỉnh",
@@ -12108,6 +12137,7 @@
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Privacy",
         "Privacy Is The New Wealth",
+        "Prolonged Fasting",
         "S.E.X Và Tâm Lý Học Jung",
         "Sacred Geometry",
         "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
@@ -12167,6 +12197,7 @@
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
         "esoterica/Lemuria.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Luân Hồi.md",
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
@@ -12187,8 +12218,11 @@
         "esoterica/Vận Chín.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Plasma Quinton.md",
+        "health/Prolonged Fasting.md",
         "health/Suramin.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Thuốc Hóa Dầu.md",
@@ -12237,7 +12271,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
       "backlinks": [],
-      "words": 2425,
+      "words": 2888,
       "summary": "Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu."
     },
     {
@@ -14427,6 +14461,12 @@
         "✨ Metaphysical Core Trilogy / Bộ Ba Nền Tảng Tâm Linh",
         "📌 Esoterica Essentials / Huyền Học Cơ Bản",
         "📌 Health & Wellness / Sức Khỏe",
+        "🧭 Reading Paths / Lộ Trình Đọc",
+        "1. Beginner Path / Lối Vào Cho Người Mới",
+        "2. Matrix Path / Lộ Trình Ma Trận",
+        "3. Metaphysical Core Path / Lộ Trình Tâm Linh Nền Tảng",
+        "4. Health Sovereignty Path / Lộ Trình Chủ Quyền Sức Khỏe",
+        "5. Disclosure / Alien Path / Lộ Trình Disclosure",
         "🗂️ Browse by Category / Duyệt Theo Danh Mục",
         "💰 Crypto & Finance",
         "🔮 Esoterica",
@@ -14455,6 +14495,7 @@
         "Chu Kỳ Hoàng Đạo",
         "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
         "Climate Anxiety as Control - Fear-Based Compliance",
+        "Cách Đọc Red Pill Wiki",
         "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
         "Digital ID Normalization - From Instagram to Government ID",
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
@@ -14468,10 +14509,13 @@
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "Individuation",
         "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Ketogenic Diet",
         "Khoa Học Xét Lại",
         "Kiểm Soát Tâm Trí",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
         "Lemuria",
         "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+        "Luân Hồi",
         "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
         "Ma Trận",
         "Ma Trận - Giải Phẫu Hoàn Chỉnh",
@@ -14491,6 +14535,7 @@
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Privacy",
         "Privacy Is The New Wealth",
+        "Prolonged Fasting",
         "S.E.X Và Tâm Lý Học Jung",
         "Sacred Geometry",
         "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
@@ -14550,6 +14595,7 @@
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
         "esoterica/Lemuria.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Luân Hồi.md",
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
@@ -14570,8 +14616,11 @@
         "esoterica/Vận Chín.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Plasma Quinton.md",
+        "health/Prolonged Fasting.md",
         "health/Suramin.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Thuốc Hóa Dầu.md",
@@ -14620,7 +14669,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
       "backlinks": [],
-      "words": 2425,
+      "words": 2888,
       "summary": "Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu."
     }
   ],
@@ -15027,7 +15076,12 @@
       1
     ]
   ],
-  "brokenLinks": [],
+  "brokenLinks": [
+    {
+      "source": "index.md",
+      "target": "Cách Đọc Red Pill Wiki"
+    }
+  ],
   "notes": {
     "README.md": {
       "path": "README.md",
@@ -17609,6 +17663,7 @@
         "esoterica/Tứ Linh.md",
         "esoterica/Vũ Trụ Học Phật Giáo.md",
         "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+        "index.md",
         "mental-models/Tâm bất Biến.md"
       ],
       "words": 424,
@@ -20884,7 +20939,8 @@
       ],
       "backlinks": [
         "health/Prolonged Fasting.md",
-        "health/Ung Thư - Metabolic Protocol.md"
+        "health/Ung Thư - Metabolic Protocol.md",
+        "index.md"
       ],
       "words": 187,
       "summary": "**Ketogenic Diet là chiến lược dinh dưỡng đưa cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism. Trong framework sức khỏe của vault, keto quan trọng vì nó đặt lại câu hỏi: bệnh tật là lỗi thuốc men, hay lỗi môi trường chuyển hóa?**"
@@ -20947,7 +21003,8 @@
       "backlinks": [
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Ung Thư - Metabolic Protocol.md",
-        "health/Y Tế Tự Nhiên.md"
+        "health/Y Tế Tự Nhiên.md",
+        "index.md"
       ],
       "words": 1574,
       "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
@@ -21210,7 +21267,8 @@
       ],
       "backlinks": [
         "health/Ketogenic Diet.md",
-        "health/Ung Thư - Metabolic Protocol.md"
+        "health/Ung Thư - Metabolic Protocol.md",
+        "index.md"
       ],
       "words": 217,
       "summary": "**Prolonged Fasting là nhịn ăn kéo dài có chủ đích, thường từ 24 giờ trở lên, nhằm tạo áp lực chuyển hóa: giảm insulin, kích hoạt autophagy, tăng ketone và buộc cơ thể chuyển từ chế độ tiêu thụ sang chế độ tái chế.**"
@@ -22106,6 +22164,12 @@
         "✨ Metaphysical Core Trilogy / Bộ Ba Nền Tảng Tâm Linh",
         "📌 Esoterica Essentials / Huyền Học Cơ Bản",
         "📌 Health & Wellness / Sức Khỏe",
+        "🧭 Reading Paths / Lộ Trình Đọc",
+        "1. Beginner Path / Lối Vào Cho Người Mới",
+        "2. Matrix Path / Lộ Trình Ma Trận",
+        "3. Metaphysical Core Path / Lộ Trình Tâm Linh Nền Tảng",
+        "4. Health Sovereignty Path / Lộ Trình Chủ Quyền Sức Khỏe",
+        "5. Disclosure / Alien Path / Lộ Trình Disclosure",
         "🗂️ Browse by Category / Duyệt Theo Danh Mục",
         "💰 Crypto & Finance",
         "🔮 Esoterica",
@@ -22134,6 +22198,7 @@
         "Chu Kỳ Hoàng Đạo",
         "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
         "Climate Anxiety as Control - Fear-Based Compliance",
+        "Cách Đọc Red Pill Wiki",
         "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
         "Digital ID Normalization - From Instagram to Government ID",
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
@@ -22147,10 +22212,13 @@
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "Individuation",
         "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Ketogenic Diet",
         "Khoa Học Xét Lại",
         "Kiểm Soát Tâm Trí",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
         "Lemuria",
         "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+        "Luân Hồi",
         "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
         "Ma Trận",
         "Ma Trận - Giải Phẫu Hoàn Chỉnh",
@@ -22170,6 +22238,7 @@
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Privacy",
         "Privacy Is The New Wealth",
+        "Prolonged Fasting",
         "S.E.X Và Tâm Lý Học Jung",
         "Sacred Geometry",
         "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
@@ -22229,6 +22298,7 @@
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
         "esoterica/Lemuria.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Luân Hồi.md",
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
@@ -22249,8 +22319,11 @@
         "esoterica/Vận Chín.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Plasma Quinton.md",
+        "health/Prolonged Fasting.md",
         "health/Suramin.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Thuốc Hóa Dầu.md",
@@ -22299,7 +22372,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
       "backlinks": [],
-      "words": 2425,
+      "words": 2888,
       "summary": "Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu."
     },
     "mental-models/Bộ Não Rỗng và AI Brain Rot.md": {

@@ -7,8 +7,8 @@
 - **Notes scanned:** 175
 - **Top-level domains:** 7
 - **Tags detected:** 159
-- **Resolved internal edges:** 1482
-- **Broken/unresolved links:** 0
+- **Resolved internal edges:** 1486
+- **Broken/unresolved links:** 1
 - **Orphan notes:** 2
 
 ## Zettelkasten Reading
@@ -32,9 +32,9 @@ Recommended note types:
 - [[esoterica/Tartaria|Tartaria]] — degree `33`, backlinks `21`, outlinks `12` — #esoterica
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `32`, backlinks `23`, outlinks `9` — #consciousness, #esoterica, #non-duality
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `28`, backlinks `17`, outlinks `11` — #consciousness, #esoterica, #metaphysics
+- [[esoterica/Luân Hồi|Luân Hồi]] — degree `24`, backlinks `16`, outlinks `8` — #esoterica
 - [[esoterica/Chakra|Chakra (Luân Xa)]] — degree `23`, backlinks `6`, outlinks `17` — #esoterica
 - [[esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh - Năng Lượng Thu Hoạch Từ Con Người]] — degree `23`, backlinks `13`, outlinks `10` — #consciousness, #esoterica, #matrix
-- [[esoterica/Luân Hồi|Luân Hồi]] — degree `23`, backlinks `15`, outlinks `8` — #esoterica
 - [[esoterica/Avatar - Disclosure Của Eywa & Gaia|Avatar — Disclosure Của Eywa & Gaia]] — degree `22`, backlinks `1`, outlinks `21` — #consciousness, #disclosure, #esoterica, #film-analysis, #gaia
 - [[esoterica/Cabal|Cabal (Thế Lực Ngầm)]] — degree `22`, backlinks `12`, outlinks `10` — #esoterica, #politics-conspiracy
 - … 59 more notes in this domain. See JSON for full list.
@@ -49,10 +49,10 @@ Recommended note types:
 - [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]] — degree `16`, backlinks `9`, outlinks `7` — #3, #health
 - [[health/Plasma Quinton|Plasma Quinton (Huyết Tương Biển)]] — degree `14`, backlinks `10`, outlinks `4` — #health
 - [[health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư|Mebendazole — Thuốc Tẩy Giun Chống Ung Thư]] — degree `12`, backlinks `4`, outlinks `8` — #cancer, #health, #repurposed-drugs
+- [[health/Kính Chiếu Yêu - Nhìn Thấu Tây Y|Kính Chiếu Yêu — Nhìn Thấu Tây Y]] — degree `11`, backlinks `4`, outlinks `7` — #health
 - [[health/Tần số cộng hưởng giữa Muối và Tuyến tùng|Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng]] — degree `11`, backlinks `3`, outlinks `8` — #health
 - [[health/Ung Thư - Metabolic Protocol|Ung Thư — Metabolic Protocol]] — degree `11`, backlinks `4`, outlinks `7` — #cancer, #health, #metabolic-therapy, #protocol
 - [[health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh|Giải Mã Vũ Trụ - Y Tế - Tâm Linh]] — degree `10`, backlinks `1`, outlinks `9` — #flat-earth, #health, #occult, #source-note, #spirituality
-- [[health/Kính Chiếu Yêu - Nhìn Thấu Tây Y|Kính Chiếu Yêu — Nhìn Thấu Tây Y]] — degree `10`, backlinks `3`, outlinks `7` — #health
 - … 14 more notes in this domain. See JSON for full list.
 
 ### Mental Models / Mô hình tư duy `mental-models` — 26 notes
@@ -118,7 +118,7 @@ Recommended note types:
 
 ### root `root` — 3 notes
 
-- [[index|Red Pill Wiki]] — degree `88`, backlinks `0`, outlinks `88` — #index, #navigation
+- [[index|Red Pill Wiki]] — degree `92`, backlinks `0`, outlinks `92` — #index, #navigation
 - [[claude|Schema (LLM Instructions)]] — degree `0`, backlinks `0`, outlinks `0`
 - [[README|🧠 Knowledge Base]] — degree `0`, backlinks `0`, outlinks `0`
 
@@ -128,7 +128,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 
 1. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `102` · backlinks `81` · outlinks `21`
    - **Ma Trận** không chỉ là bộ phim — nó là metaphor cho hệ thống kiểm soát đa chiều đang vận hành trên Trái Đất: giáo dục, tài chính, truyền thông, tôn giáo. Tất cả thiết kế để giữ tâm thức con người "ngủ mê" và khai thác năng lượng.
-2. [[index|Red Pill Wiki]] — degree `88` · backlinks `0` · outlinks `88`
+2. [[index|Red Pill Wiki]] — degree `92` · backlinks `0` · outlinks `92`
    - Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu.
 3. [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `86` · backlinks `67` · outlinks `19`
    - **Elite** đại diện cho tầng lớp chóp bu thao túng các hệ thống chính trị, tài chính và truyền thông toàn cầu. Thường được nhắc đến như Cabal, Illuminati, hay Thế Lực Ngầm.
@@ -225,7 +225,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[esoterica/Tartaria|Tartaria]]
 - [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]]
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]]
-- [[esoterica/Vũ Trụ Học Phật Giáo|Vũ Trụ Học Phật Giáo]]
+- [[esoterica/Luân Hồi|Luân Hồi]]
 
 ### MOC - Health Sovereignty
 
@@ -311,7 +311,7 @@ Orphans are not necessarily bad. In Zettelkasten terms, they are unfinished inte
 
 ## Broken / Unresolved Internal Links
 
-No unresolved wikilinks/markdown links detected.
+- `index.md` → `[[Cách Đọc Red Pill Wiki]]`
 
 ## Maintenance Protocol
 
