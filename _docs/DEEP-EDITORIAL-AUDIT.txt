@@ -1,0 +1,278 @@
+# Deep Editorial Audit - Red Pill Wiki
+
+Generated: 2026-05-30
+
+## Summary
+
+- Total content notes scanned: **180**
+- Seed-status notes: **0**
+- Thin notes (<700 words): **86**
+- Table-heavy old-format candidates: **29**
+- High-risk notes without claim/source discipline: **55**
+
+> This file is maintenance-only and intentionally `.txt` so it does not enter the public Quartz graph.
+
+---
+
+## Priority Queue
+
+|Score|Path|Domain|Status|Words|Tables|H2|Links|Reasons|
+|---|---|---|---|---|---|---|---|---|
+|8|`health/Suramin.md`|health||408|36|5|14|thin, table-heavy, high-risk-no-discipline|
+|8|`health/Plasma Quinton.md`|health||433|39|7|5|thin, table-heavy, high-risk-no-discipline|
+|8|`health/Tuyến Tùng.md`|health||447|49|6|9|thin, table-heavy, high-risk-no-discipline|
+|8|`science-tech/Tần Số Schumann.md`|science-tech||488|49|7|9|thin, table-heavy, high-risk-no-discipline|
+|8|`health/Y Tế Tự Nhiên.md`|health||508|37|4|11|thin, table-heavy, high-risk-no-discipline|
+|6|`esoterica/Cabal.md`|esoterica||365|46|5|13|thin, table-heavy|
+|6|`esoterica/Tinh Khí Thần.md`|esoterica||404|44|6|12|thin, table-heavy|
+|6|`esoterica/Chu Kỳ Hoàng Đạo.md`|esoterica||410|40|6|11|thin, table-heavy|
+|6|`mental-models/Vô Thức Tập Thể.md`|mental-models||524|36|7|13|thin, table-heavy|
+|6|`mental-models/Individuation.md`|mental-models||528|52|6|14|thin, table-heavy|
+|6|`crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md`|crypto-finance|refined|541|35|8|9|thin, table-heavy|
+|6|`esoterica/Luân Hồi.md`|esoterica||660|36|7|17|thin, table-heavy|
+|5|`politics-conspiracy/Trái Đất Phẳng.md`|politics-conspiracy||224|6|2|7|thin, high-risk-no-discipline|
+|5|`health/Suy Thận.md`|health||272|0|4|2|thin, high-risk-no-discipline|
+|5|`science-tech/Vũ Khí Năng Lượng Định Hướng.md`|science-tech||319|0|3|3|thin, high-risk-no-discipline|
+|5|`science-tech/Pin Natri-ion.md`|science-tech||327|9|7|5|thin, high-risk-no-discipline|
+|5|`politics-conspiracy/MAGA Và Số 42.md`|politics-conspiracy||337|0|1|5|thin, high-risk-no-discipline|
+|5|`health/Virus và Kiếp Tật Dịch.md`|health||348|0|4|5|thin, high-risk-no-discipline|
+|5|`health/René Quinton và Huyết Tương Biển.md`|health||350|0|5|5|thin, high-risk-no-discipline|
+|5|`science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md`|science-tech||350|0|5|5|thin, high-risk-no-discipline|
+|5|`health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md`|health||354|5|7|10|thin, high-risk-no-discipline|
+|5|`health/The China Study.md`|health||392|7|7|6|thin, high-risk-no-discipline|
+|5|`science-tech/Khoa Học Chân Chính và Thượng Đế.md`|science-tech||395|0|6|7|thin, high-risk-no-discipline|
+|5|`health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md`|health||396|0|2|4|thin, high-risk-no-discipline|
+|5|`health/Bệnh Bạch Cầu.md`|health||413|0|4|3|thin, high-risk-no-discipline|
+|5|`science-tech/Walter Russell.md`|science-tech||413|6|8|7|thin, high-risk-no-discipline|
+|5|`health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md`|health|refined|415|5|7|10|thin, high-risk-no-discipline|
+|5|`politics-conspiracy/Dark MAGA.md`|politics-conspiracy||440|6|3|5|thin, high-risk-no-discipline|
+|5|`politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md`|politics-conspiracy||462|0|3|6|thin, high-risk-no-discipline|
+|5|`health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md`|health||483|0|6|5|thin, high-risk-no-discipline|
+|5|`science-tech/Năng Lượng Aether.md`|science-tech||489|27|6|11|thin, high-risk-no-discipline|
+|5|`science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md`|science-tech||502|0|5|7|thin, high-risk-no-discipline|
+|5|`health/Công Thức Chữa Lành Tự Nhiên.md`|health||514|0|5|4|thin, high-risk-no-discipline|
+|5|`politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md`|politics-conspiracy|refined|516|8|5|8|thin, high-risk-no-discipline|
+|5|`science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md`|science-tech||516|0|4|6|thin, high-risk-no-discipline|
+|5|`health/Y Tế Tự Nhiên & Năng Lượng Mới.md`|health||519|0|5|7|thin, high-risk-no-discipline|
+|5|`science-tech/Nikola Tesla.md`|science-tech||554|29|6|10|thin, high-risk-no-discipline|
+|5|`politics-conspiracy/Mudflood.md`|politics-conspiracy||575|7|6|15|thin, high-risk-no-discipline|
+|5|`politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md`|politics-conspiracy||576|0|3|3|thin, high-risk-no-discipline|
+|5|`health/Thuyết Vi Sinh Nội Sinh.md`|health||601|32|6|13|thin, high-risk-no-discipline|
+|5|`health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md`|health||639|0|7|9|thin, high-risk-no-discipline|
+|5|`politics-conspiracy/MindGeek.md`|politics-conspiracy|refined|642|0|6|14|thin, high-risk-no-discipline|
+|5|`politics-conspiracy/Khế Ước Bí Mật Rockefeller.md`|politics-conspiracy||683|0|3|19|thin, high-risk-no-discipline|
+|5|`health/Thuốc Hóa Dầu.md`|health|refined|762|65|7|12|table-heavy, high-risk-no-discipline|
+|5|`health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md`|health||863|46|5|5|table-heavy, high-risk-no-discipline|
+|5|`science-tech/AI.md`|science-tech||904|43|9|16|table-heavy, high-risk-no-discipline|
+|5|`politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md`|politics-conspiracy||1148|52|9|25|table-heavy, high-risk-no-discipline|
+|5|`politics-conspiracy/Thuyết Trái Đất Phẳng.md`|politics-conspiracy||1346|71|7|12|table-heavy, high-risk-no-discipline|
+|3|`MOC - Financial Sovereignty.md`|root|refined|155|0|5|18|thin|
+|3|`esoterica/Phong Thủy.md`|esoterica|stub|157|13|3|5|thin|
+
+---
+
+## Seed Status Notes
+
+|Path|Domain|Status|Words|Tables|H2|Links|Reasons|
+|---|---|---|---|---|---|---|---|
+
+---
+
+## Thin Notes
+
+|Path|Domain|Status|Words|Tables|H2|Links|Reasons|
+|---|---|---|---|---|---|---|---|
+|`MOC - Financial Sovereignty.md`|root|refined|155|0|5|18|thin|
+|`esoterica/Phong Thủy.md`|esoterica|stub|157|13|3|5|thin|
+|`MOC - Science Revisionism.md`|root|refined|171|0|5|19|thin|
+|`MOC - Ancient Civilizations & Hidden History.md`|root|refined|176|0|5|22|thin|
+|`MOC - Health Sovereignty.md`|root|refined|184|0|5|19|thin|
+|`MOC - Epistemology & Propaganda.md`|root|refined|189|0|5|20|thin|
+|`MOC - Esoterica & Consciousness.md`|root|refined|189|0|5|28|thin|
+|`politics-conspiracy/Trái Đất Phẳng.md`|politics-conspiracy||224|6|2|7|thin, high-risk-no-discipline|
+|`health/Suy Thận.md`|health||272|0|4|2|thin, high-risk-no-discipline|
+|`esoterica/Biểu Tượng Baphomet.md`|esoterica||317|28|4|10|thin|
+|`science-tech/Vũ Khí Năng Lượng Định Hướng.md`|science-tech||319|0|3|3|thin, high-risk-no-discipline|
+|`science-tech/Pin Natri-ion.md`|science-tech||327|9|7|5|thin, high-risk-no-discipline|
+|`mental-models/Thông Minh.md`|mental-models|refined|329|17|5|9|thin|
+|`politics-conspiracy/MAGA Và Số 42.md`|politics-conspiracy||337|0|1|5|thin, high-risk-no-discipline|
+|`esoterica/Núi Tu Di.md`|esoterica||341|6|6|9|thin|
+|`health/Virus và Kiếp Tật Dịch.md`|health||348|0|4|5|thin, high-risk-no-discipline|
+|`health/René Quinton và Huyết Tương Biển.md`|health||350|0|5|5|thin, high-risk-no-discipline|
+|`science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md`|science-tech||350|0|5|5|thin, high-risk-no-discipline|
+|`esoterica/Thánh Issa.md`|esoterica||352|0|7|6|thin|
+|`esoterica/Nỏ Thần.md`|esoterica||353|6|5|7|thin|
+|`health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md`|health||354|5|7|10|thin, high-risk-no-discipline|
+|`esoterica/Cabal.md`|esoterica||365|46|5|13|thin, table-heavy|
+|`esoterica/Năng Lượng Natri.md`|esoterica||368|6|6|10|thin|
+|`esoterica/Nibiru.md`|esoterica||381|7|7|8|thin|
+|`esoterica/Saturn Cube.md`|esoterica||391|27|5|13|thin|
+|`health/The China Study.md`|health||392|7|7|6|thin, high-risk-no-discipline|
+|`science-tech/Khoa Học Chân Chính và Thượng Đế.md`|science-tech||395|0|6|7|thin, high-risk-no-discipline|
+|`health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md`|health||396|0|2|4|thin, high-risk-no-discipline|
+|`esoterica/Tà Linh.md`|esoterica||398|16|7|11|thin|
+|`crypto-finance/Giàu Không Nhờ May Mắn.md`|crypto-finance|refined|401|0|3|11|thin|
+|`esoterica/Nibiru và Nền Văn Minh Annunaki.md`|esoterica||402|0|5|8|thin|
+|`esoterica/Thuật Giả Kim Của Newton.md`|esoterica||403|8|7|12|thin|
+|`mental-models/Trí Tuệ.md`|mental-models|refined|403|19|7|11|thin|
+|`esoterica/Tinh Khí Thần.md`|esoterica||404|44|6|12|thin, table-heavy|
+|`esoterica/Thành Cổ Loa.md`|esoterica||405|11|7|6|thin|
+|`esoterica/Năng Lượng Tình Dục.md`|esoterica||406|11|4|8|thin|
+|`health/Suramin.md`|health||408|36|5|14|thin, table-heavy, high-risk-no-discipline|
+|`esoterica/Chu Kỳ Hoàng Đạo.md`|esoterica||410|40|6|11|thin, table-heavy|
+|`health/Bệnh Bạch Cầu.md`|health||413|0|4|3|thin, high-risk-no-discipline|
+|`science-tech/Walter Russell.md`|science-tech||413|6|8|7|thin, high-risk-no-discipline|
+|`esoterica/Manly P. Hall.md`|esoterica||414|22|5|9|thin|
+|`health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md`|health|refined|415|5|7|10|thin, high-risk-no-discipline|
+|`esoterica/Nhân Quả.md`|esoterica||419|25|6|9|thin|
+|`esoterica/Chimera.md`|esoterica|refined|421|27|5|8|thin|
+|`esoterica/Thực Thể Cõi Trung Giới.md`|esoterica||425|8|7|11|thin|
+|`esoterica/Tình Yêu Tỉnh Thức.md`|esoterica||428|9|7|12|thin|
+|`esoterica/Tartaria và Vạn Lý Trường Thành.md`|esoterica||430|0|5|4|thin|
+|`health/Plasma Quinton.md`|health||433|39|7|5|thin, table-heavy, high-risk-no-discipline|
+|`politics-conspiracy/Dark MAGA.md`|politics-conspiracy||440|6|3|5|thin, high-risk-no-discipline|
+|`health/Tuyến Tùng.md`|health||447|49|6|9|thin, table-heavy, high-risk-no-discipline|
+|`mental-models/Chia Tách Bởi Nhị Nguyên.md`|mental-models||449|0|3|1|thin|
+|`mental-models/Mental Model.md`|mental-models||455|7|6|27|thin|
+|`politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md`|politics-conspiracy||462|0|3|6|thin, high-risk-no-discipline|
+|`esoterica/S.E.X.md`|esoterica|refined|466|12|5|11|thin|
+|`esoterica/Lemuria.md`|esoterica|refined|471|25|7|10|thin|
+|`mental-models/Nguyên Mẫu.md`|mental-models||478|22|5|11|thin|
+|`health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md`|health||483|0|6|5|thin, high-risk-no-discipline|
+|`crypto-finance/Tiền Giấy - Tiền Mặt.md`|crypto-finance|refined|487|30|6|14|thin|
+|`science-tech/Tần Số Schumann.md`|science-tech||488|49|7|9|thin, table-heavy, high-risk-no-discipline|
+|`science-tech/Năng Lượng Aether.md`|science-tech||489|27|6|11|thin, high-risk-no-discipline|
+|`science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md`|science-tech||502|0|5|7|thin, high-risk-no-discipline|
+|`health/Y Tế Tự Nhiên.md`|health||508|37|4|11|thin, table-heavy, high-risk-no-discipline|
+|`health/Công Thức Chữa Lành Tự Nhiên.md`|health||514|0|5|4|thin, high-risk-no-discipline|
+|`politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md`|politics-conspiracy|refined|516|8|5|8|thin, high-risk-no-discipline|
+|`science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md`|science-tech||516|0|4|6|thin, high-risk-no-discipline|
+|`esoterica/Vũ Trụ Học Phật Giáo.md`|esoterica||519|8|5|10|thin|
+|`health/Y Tế Tự Nhiên & Năng Lượng Mới.md`|health||519|0|5|7|thin, high-risk-no-discipline|
+|`mental-models/Vô Thức Tập Thể.md`|mental-models||524|36|7|13|thin, table-heavy|
+|`esoterica/Annunaki.md`|esoterica||527|28|6|16|thin|
+|`mental-models/Individuation.md`|mental-models||528|52|6|14|thin, table-heavy|
+|`mental-models/Tâm Lý Học Jung.md`|mental-models||531|12|7|14|thin|
+|`crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md`|crypto-finance|refined|541|35|8|9|thin, table-heavy|
+|`science-tech/Nikola Tesla.md`|science-tech||554|29|6|10|thin, high-risk-no-discipline|
+|`politics-conspiracy/Mudflood.md`|politics-conspiracy||575|7|6|15|thin, high-risk-no-discipline|
+|`politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md`|politics-conspiracy||576|0|3|3|thin, high-risk-no-discipline|
+|`esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md`|esoterica||592|0|6|7|thin|
+|`health/Thuyết Vi Sinh Nội Sinh.md`|health||601|32|6|13|thin, high-risk-no-discipline|
+|`health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md`|health||639|0|7|9|thin, high-risk-no-discipline|
+|`politics-conspiracy/MindGeek.md`|politics-conspiracy|refined|642|0|6|14|thin, high-risk-no-discipline|
+|`esoterica/Long Mạch.md`|esoterica||644|0|7|6|thin|
+
+---
+
+## Table-Heavy Candidates
+
+|Path|Domain|Status|Words|Tables|H2|Links|Reasons|
+|---|---|---|---|---|---|---|---|
+|`mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md`|mental-models||1342|76|10|25|table-heavy|
+|`mental-models/Mô Hình Địa Tâm.md`|mental-models||1191|72|9|12|table-heavy|
+|`politics-conspiracy/Thuyết Trái Đất Phẳng.md`|politics-conspiracy||1346|71|7|12|table-heavy, high-risk-no-discipline|
+|`health/Thuốc Hóa Dầu.md`|health|refined|762|65|7|12|table-heavy, high-risk-no-discipline|
+|`esoterica/Chakra.md`|esoterica||1347|65|13|33|table-heavy|
+|`esoterica/Atula.md`|esoterica|refined|1378|63|9|23|table-heavy|
+|`esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md`|esoterica|refined|1770|62|12|12|table-heavy|
+|`esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md`|esoterica|refined|1253|60|9|18|table-heavy|
+|`politics-conspiracy/UAP Disclosure - Controlled Revelation.md`|politics-conspiracy|refined|1595|60|12|18|table-heavy|
+|`esoterica/Kundalini.md`|esoterica|refined|1097|55|8|18|table-heavy|
+|`esoterica/Vận Chín.md`|esoterica||1336|55|8|11|table-heavy|
+|`mental-models/Individuation.md`|mental-models||528|52|6|14|thin, table-heavy|
+|`politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md`|politics-conspiracy||1148|52|9|25|table-heavy, high-risk-no-discipline|
+|`health/Tuyến Tùng.md`|health||447|49|6|9|thin, table-heavy, high-risk-no-discipline|
+|`science-tech/Tần Số Schumann.md`|science-tech||488|49|7|9|thin, table-heavy, high-risk-no-discipline|
+|`mental-models/Schadenfreude - Dopamine Phản Diện.md`|mental-models|refined|1577|48|12|10|table-heavy|
+|`esoterica/Cabal.md`|esoterica||365|46|5|13|thin, table-heavy|
+|`health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md`|health||863|46|5|5|table-heavy, high-risk-no-discipline|
+|`esoterica/Tinh Khí Thần.md`|esoterica||404|44|6|12|thin, table-heavy|
+|`science-tech/AI.md`|science-tech||904|43|9|16|table-heavy, high-risk-no-discipline|
+|`politics-conspiracy/Báo Cáo 2030.md`|politics-conspiracy||858|41|8|31|table-heavy|
+|`esoterica/Chu Kỳ Hoàng Đạo.md`|esoterica||410|40|6|11|thin, table-heavy|
+|`health/Plasma Quinton.md`|health||433|39|7|5|thin, table-heavy, high-risk-no-discipline|
+|`health/Y Tế Tự Nhiên.md`|health||508|37|4|11|thin, table-heavy, high-risk-no-discipline|
+|`health/Suramin.md`|health||408|36|5|14|thin, table-heavy, high-risk-no-discipline|
+|`mental-models/Vô Thức Tập Thể.md`|mental-models||524|36|7|13|thin, table-heavy|
+|`esoterica/Luân Hồi.md`|esoterica||660|36|7|17|thin, table-heavy|
+|`esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md`|esoterica|refined|1138|36|8|8|table-heavy|
+|`crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md`|crypto-finance|refined|541|35|8|9|thin, table-heavy|
+
+---
+
+## High-Risk Without Discipline
+
+Health / politics / science articles should usually have `How To Read This`, `Claim Discipline`, or `Evidence Discipline`.
+
+|Path|Domain|Status|Words|Tables|H2|Links|Reasons|
+|---|---|---|---|---|---|---|---|
+|`health/Suy Thận.md`|health||272|0|4|2|thin, high-risk-no-discipline|
+|`health/Virus và Kiếp Tật Dịch.md`|health||348|0|4|5|thin, high-risk-no-discipline|
+|`health/René Quinton và Huyết Tương Biển.md`|health||350|0|5|5|thin, high-risk-no-discipline|
+|`health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md`|health||354|5|7|10|thin, high-risk-no-discipline|
+|`health/The China Study.md`|health||392|7|7|6|thin, high-risk-no-discipline|
+|`health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md`|health||396|0|2|4|thin, high-risk-no-discipline|
+|`health/Suramin.md`|health||408|36|5|14|thin, table-heavy, high-risk-no-discipline|
+|`health/Bệnh Bạch Cầu.md`|health||413|0|4|3|thin, high-risk-no-discipline|
+|`health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md`|health|refined|415|5|7|10|thin, high-risk-no-discipline|
+|`health/Plasma Quinton.md`|health||433|39|7|5|thin, table-heavy, high-risk-no-discipline|
+|`health/Tuyến Tùng.md`|health||447|49|6|9|thin, table-heavy, high-risk-no-discipline|
+|`health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md`|health||483|0|6|5|thin, high-risk-no-discipline|
+|`health/Y Tế Tự Nhiên.md`|health||508|37|4|11|thin, table-heavy, high-risk-no-discipline|
+|`health/Công Thức Chữa Lành Tự Nhiên.md`|health||514|0|5|4|thin, high-risk-no-discipline|
+|`health/Y Tế Tự Nhiên & Năng Lượng Mới.md`|health||519|0|5|7|thin, high-risk-no-discipline|
+|`health/Thuyết Vi Sinh Nội Sinh.md`|health||601|32|6|13|thin, high-risk-no-discipline|
+|`health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md`|health||639|0|7|9|thin, high-risk-no-discipline|
+|`health/Vận Chín, Người Kogi và Ma Trận Y Tế.md`|health||703|0|7|11|high-risk-no-discipline|
+|`health/Thuốc Hóa Dầu.md`|health|refined|762|65|7|12|table-heavy, high-risk-no-discipline|
+|`health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md`|health||863|46|5|5|table-heavy, high-risk-no-discipline|
+|`health/Prolonged Fasting.md`|health|refined|982|12|12|20|high-risk-no-discipline|
+|`health/Su That Ve Benh Dai Va Vac Xin.md`|health||1235|0|10|6|high-risk-no-discipline|
+|`politics-conspiracy/Trái Đất Phẳng.md`|politics-conspiracy||224|6|2|7|thin, high-risk-no-discipline|
+|`politics-conspiracy/MAGA Và Số 42.md`|politics-conspiracy||337|0|1|5|thin, high-risk-no-discipline|
+|`politics-conspiracy/Dark MAGA.md`|politics-conspiracy||440|6|3|5|thin, high-risk-no-discipline|
+|`politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md`|politics-conspiracy||462|0|3|6|thin, high-risk-no-discipline|
+|`politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md`|politics-conspiracy|refined|516|8|5|8|thin, high-risk-no-discipline|
+|`politics-conspiracy/Mudflood.md`|politics-conspiracy||575|7|6|15|thin, high-risk-no-discipline|
+|`politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md`|politics-conspiracy||576|0|3|3|thin, high-risk-no-discipline|
+|`politics-conspiracy/MindGeek.md`|politics-conspiracy|refined|642|0|6|14|thin, high-risk-no-discipline|
+|`politics-conspiracy/Khế Ước Bí Mật Rockefeller.md`|politics-conspiracy||683|0|3|19|thin, high-risk-no-discipline|
+|`politics-conspiracy/Kiểm Soát Tâm Trí.md`|politics-conspiracy||709|7|5|15|high-risk-no-discipline|
+|`politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md`|politics-conspiracy||1023|0|6|2|high-risk-no-discipline, weak-linking|
+|`politics-conspiracy/Bức Tường Băng.md`|politics-conspiracy||1088|7|7|16|high-risk-no-discipline|
+|`politics-conspiracy/Sự thật về ma túy.md`|politics-conspiracy|refined|1093|0|6|4|high-risk-no-discipline|
+|`politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md`|politics-conspiracy||1148|52|9|25|table-heavy, high-risk-no-discipline|
+|`politics-conspiracy/Thuyết Trái Đất Phẳng.md`|politics-conspiracy||1346|71|7|12|table-heavy, high-risk-no-discipline|
+|`politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md`|politics-conspiracy|refined|1851|65|12|11|high-risk-no-discipline|
+|`politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md`|politics-conspiracy|refined|2196|107|14|13|high-risk-no-discipline|
+|`politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md`|politics-conspiracy|refined|2353|99|12|13|high-risk-no-discipline|
+|`science-tech/Vũ Khí Năng Lượng Định Hướng.md`|science-tech||319|0|3|3|thin, high-risk-no-discipline|
+|`science-tech/Pin Natri-ion.md`|science-tech||327|9|7|5|thin, high-risk-no-discipline|
+|`science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md`|science-tech||350|0|5|5|thin, high-risk-no-discipline|
+|`science-tech/Khoa Học Chân Chính và Thượng Đế.md`|science-tech||395|0|6|7|thin, high-risk-no-discipline|
+|`science-tech/Walter Russell.md`|science-tech||413|6|8|7|thin, high-risk-no-discipline|
+|`science-tech/Tần Số Schumann.md`|science-tech||488|49|7|9|thin, table-heavy, high-risk-no-discipline|
+|`science-tech/Năng Lượng Aether.md`|science-tech||489|27|6|11|thin, high-risk-no-discipline|
+|`science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md`|science-tech||502|0|5|7|thin, high-risk-no-discipline|
+|`science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md`|science-tech||516|0|4|6|thin, high-risk-no-discipline|
+|`science-tech/Nikola Tesla.md`|science-tech||554|29|6|10|thin, high-risk-no-discipline|
+|`science-tech/AI.md`|science-tech||904|43|9|16|table-heavy, high-risk-no-discipline|
+|`science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md`|science-tech||1250|20|12|8|high-risk-no-discipline|
+|`science-tech/Digital ID Normalization - From Instagram to Government ID.md`|science-tech||1534|22|13|11|high-risk-no-discipline|
+|`science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md`|science-tech||1737|14|15|15|high-risk-no-discipline|
+|`science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md`|science-tech|expanded|2096|30|16|9|high-risk-no-discipline|
+
+---
+
+## Recommended Batch Order
+
+1. Fix `status: seed` notes first if any remain.
+2. Rewrite high-risk + table-heavy health notes.
+3. Rewrite high-risk + table-heavy politics/current-event notes.
+4. Rewrite science/cosmology articles with claim discipline.
+5. Then polish esoterica/mental-model thin notes.
+
+## Rewrite Rule Reminder
+
+No orphaned idea, no naked claim, no flat article.
