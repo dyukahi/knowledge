@@ -1,8 +1,7 @@
 {
   "stats": {
-    "notes": 183,
+    "notes": 182,
     "domains": {
-      "_docs": 1,
       "root": 10,
       "crypto-finance": 10,
       "esoterica": 71,
@@ -14,35 +13,9 @@
     "tags": 166,
     "wikilinkEdges": 1656,
     "brokenLinks": 0,
-    "orphans": 3
+    "orphans": 2
   },
   "domains": {
-    "_docs": [
-      {
-        "path": "_docs/EDITORIAL-AUDIT.md",
-        "title": "Editorial Audit - Red Pill Wiki",
-        "domain": "_docs",
-        "tags": [],
-        "aliases": [],
-        "headings": [
-          "Editorial Audit - Red Pill Wiki",
-          "Purpose",
-          "Current Heuristics",
-          "Priority Rewrite Queue",
-          "Thin Notes",
-          "Table-Heavy / Old Format Candidates",
-          "Low-Structure Candidates",
-          "Rewrite Protocol",
-          "First Recommended Batch"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [],
-        "words": 1126,
-        "summary": "Generated: 2026-05-30"
-      }
-    ],
     "crypto-finance": [
       {
         "path": "crypto-finance/Bitcoin.md",
@@ -15430,30 +15403,6 @@
   ],
   "orphans": [
     {
-      "path": "_docs/EDITORIAL-AUDIT.md",
-      "title": "Editorial Audit - Red Pill Wiki",
-      "domain": "_docs",
-      "tags": [],
-      "aliases": [],
-      "headings": [
-        "Editorial Audit - Red Pill Wiki",
-        "Purpose",
-        "Current Heuristics",
-        "Priority Rewrite Queue",
-        "Thin Notes",
-        "Table-Heavy / Old Format Candidates",
-        "Low-Structure Candidates",
-        "Rewrite Protocol",
-        "First Recommended Batch"
-      ],
-      "wikilinks": [],
-      "mdlinks": [],
-      "outlinks": [],
-      "backlinks": [],
-      "words": 1126,
-      "summary": "Generated: 2026-05-30"
-    },
-    {
       "path": "claude.md",
       "title": "Schema (LLM Instructions)",
       "domain": "root",
@@ -16681,30 +16630,6 @@
       "backlinks": [],
       "words": 78,
       "summary": "Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu."
-    },
-    "_docs/EDITORIAL-AUDIT.md": {
-      "path": "_docs/EDITORIAL-AUDIT.md",
-      "title": "Editorial Audit - Red Pill Wiki",
-      "domain": "_docs",
-      "tags": [],
-      "aliases": [],
-      "headings": [
-        "Editorial Audit - Red Pill Wiki",
-        "Purpose",
-        "Current Heuristics",
-        "Priority Rewrite Queue",
-        "Thin Notes",
-        "Table-Heavy / Old Format Candidates",
-        "Low-Structure Candidates",
-        "Rewrite Protocol",
-        "First Recommended Batch"
-      ],
-      "wikilinks": [],
-      "mdlinks": [],
-      "outlinks": [],
-      "backlinks": [],
-      "words": 1126,
-      "summary": "Generated: 2026-05-30"
     },
     "claude.md": {
       "path": "claude.md",
