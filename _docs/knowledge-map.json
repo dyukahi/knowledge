@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 170,
+    "notes": 175,
     "domains": {
       "root": 3,
       "crypto-finance": 10,
-      "esoterica": 69,
-      "health": 24,
+      "esoterica": 71,
+      "health": 26,
       "mental-models": 26,
-      "politics-conspiracy": 22,
+      "politics-conspiracy": 23,
       "science-tech": 16
     },
-    "tags": 156,
-    "wikilinkEdges": 1456,
-    "brokenLinks": 8,
+    "tags": 159,
+    "wikilinkEdges": 1482,
+    "brokenLinks": 0,
     "orphans": 2
   },
   "domains": {
@@ -734,7 +734,9 @@
           "esoterica/Tà Linh.md",
           "esoterica/Tình Yêu Tỉnh Thức.md",
           "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+          "esoterica/Tứ Linh.md",
           "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "esoterica/Đạo.md",
           "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
@@ -1012,6 +1014,7 @@
           "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
           "esoterica/Thánh Issa.md",
           "esoterica/Tà Linh.md",
+          "esoterica/Đạo.md",
           "health/Tuyến Tùng.md",
           "index.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
@@ -1024,87 +1027,6 @@
         ],
         "words": 1883,
         "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
-      },
-      {
-        "path": "esoterica/Tartaria.md",
-        "title": "Tartaria",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [],
-        "headings": [
-          "Tartaria (Grand Tartary)",
-          "Tartaria trên Bản đồ / Tartaria on Maps",
-          "Bằng chứng / Evidence",
-          "Phạm vi / Scope",
-          "Câu hỏi / Questions",
-          "Công nghệ Tartarian / Tartarian Technology",
-          "1. Năng lượng tự do / Free Energy",
-          "2. Kiến trúc vượt thời đại / Advanced Architecture",
-          "3. Hệ thống kênh toàn cầu / Global Canal System",
-          "Mudflood Theory / Thuyết Đại Hồng Thủy Bùn",
-          "Tartaria và Việt Nam / Tartaria & Vietnam",
-          "Tại sao bị Che giấu? / Why Hidden?",
-          "Related",
-          "Tartaria Deep Dive",
-          "Lost Technology / Công nghệ Thất lạc",
-          "Matrix & Cover-up / Ma Trận & Che giấu"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Bức Tường Bang",
-          "Elite",
-          "Khoa Học Xét Lại",
-          "Long Mạch",
-          "Ma Trận",
-          "Mudflood",
-          "Nikola Tesla",
-          "Năng Lượng Aether",
-          "Tartaria và Vạn Lý Trường Thành",
-          "Theo Dấu Tartaria  - Tác Giả Kan",
-          "Thành Cổ Loa"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Long Mạch.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-          "esoterica/Thành Cổ Loa.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Bức Tường Băng.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Mudflood.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "backlinks": [
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-          "esoterica/Lemuria.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Núi Tu Di.md",
-          "esoterica/Nỏ Thần.md",
-          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Thành Cổ Loa.md",
-          "index.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Bức Tường Băng.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Mudflood.md",
-          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "words": 642,
-        "summary": "**Tartaria** là tên gọi một đế chế rộng lớn xuất hiện trên bản đồ cổ châu Âu (thế kỷ 15-19), bao phủ phần lớn Á-Âu. Theo Khoa học xét lại, đây có thể là nền văn minh tiên tiến với công nghệ vượt thời đại đã bị xóa sổ khỏi lịch sử."
       },
       {
         "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -1190,12 +1112,95 @@
         "backlinks": [
           "esoterica/Ma Trận.md",
           "esoterica/Monad.md",
+          "esoterica/Một Đời Phù Vân.md",
           "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
           "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Mental Model.md"
         ],
         "words": 662,
         "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
+      },
+      {
+        "path": "esoterica/Tartaria.md",
+        "title": "Tartaria",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [],
+        "headings": [
+          "Tartaria (Grand Tartary)",
+          "Tartaria trên Bản đồ / Tartaria on Maps",
+          "Bằng chứng / Evidence",
+          "Phạm vi / Scope",
+          "Câu hỏi / Questions",
+          "Công nghệ Tartarian / Tartarian Technology",
+          "1. Năng lượng tự do / Free Energy",
+          "2. Kiến trúc vượt thời đại / Advanced Architecture",
+          "3. Hệ thống kênh toàn cầu / Global Canal System",
+          "Mudflood Theory / Thuyết Đại Hồng Thủy Bùn",
+          "Tartaria và Việt Nam / Tartaria & Vietnam",
+          "Tại sao bị Che giấu? / Why Hidden?",
+          "Related",
+          "Tartaria Deep Dive",
+          "Lost Technology / Công nghệ Thất lạc",
+          "Matrix & Cover-up / Ma Trận & Che giấu"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Bức Tường Bang",
+          "Elite",
+          "Khoa Học Xét Lại",
+          "Long Mạch",
+          "Ma Trận",
+          "Mudflood",
+          "Nikola Tesla",
+          "Năng Lượng Aether",
+          "Tartaria và Vạn Lý Trường Thành",
+          "Theo Dấu Tartaria  - Tác Giả Kan",
+          "Thành Cổ Loa"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Long Mạch.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
+          "esoterica/Thành Cổ Loa.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Mudflood.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "backlinks": [
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "esoterica/Lemuria.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Núi Tu Di.md",
+          "esoterica/Nỏ Thần.md",
+          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Thành Cổ Loa.md",
+          "index.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Mudflood.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "words": 642,
+        "summary": "**Tartaria** là tên gọi một đế chế rộng lớn xuất hiện trên bản đồ cổ châu Âu (thế kỷ 15-19), bao phủ phần lớn Á-Âu. Theo Khoa học xét lại, đây có thể là nền văn minh tiên tiến với công nghệ vượt thời đại đã bị xóa sổ khỏi lịch sử."
       },
       {
         "path": "esoterica/Sự Nhất Thể.md",
@@ -1267,6 +1272,7 @@
           "esoterica/Thánh Issa.md",
           "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
           "esoterica/Tình Yêu Tỉnh Thức.md",
+          "esoterica/Đạo.md",
           "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
           "index.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
@@ -1471,78 +1477,6 @@
         "summary": "**Chakra** (Sanskrit: चक्र = \"bánh xe\") là các trung tâm năng lượng trong cơ thể con người theo truyền thống Ấn Độ giáo và Phật giáo. Có 7 chakra chính chạy dọc cột sống, mỗi chakra liên kết với các khía cạnh khác nhau của thể chất, cảm xúc và tâm linh."
       },
       {
-        "path": "esoterica/Cabal.md",
-        "title": "Cabal (Thế Lực Ngầm)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "politics-conspiracy"
-        ],
-        "aliases": [
-          "Cabal",
-          "Deep State",
-          "Shadow Government"
-        ],
-        "headings": [
-          "Cabal (Thế Lực Ngầm)",
-          "Cấu trúc Quyền lực / Power Structure",
-          "Tầng 1: Visible Power / Quyền lực Hiển hiện",
-          "Tầng 2: Hidden Power / Quyền lực Ẩn",
-          "Tầng 3: Occult Power / Quyền lực Huyền bí",
-          "Công cụ Kiểm soát / Control Tools",
-          "Chiến thuật / Tactics",
-          "1. Problem-Reaction-Solution",
-          "2. Divide and Conquer / Chia để Trị",
-          "3. Bread and Circuses",
-          "[[Nibiru]] Connection",
-          "Related",
-          "Power Structure",
-          "Methods",
-          "Origins"
-        ],
-        "wikilinks": [
-          "Annunaki",
-          "Báo Cáo 2030",
-          "Elite",
-          "Gematria",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "Nhị Nguyên",
-          "Nibiru",
-          "Nibiru và Nền Văn Minh Annunaki",
-          "Tiền Pháp Định"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Tiền Pháp Định.md",
-          "esoterica/Annunaki.md",
-          "esoterica/Gematria.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-          "esoterica/Nibiru.md",
-          "mental-models/Nhị Nguyên.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-        ],
-        "backlinks": [
-          "esoterica/Annunaki.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Dịch Chuyển Cực.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Manly P. Hall.md",
-          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-          "esoterica/Nibiru.md",
-          "index.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "words": 344,
-        "summary": "**Cabal** là mạng lưới quyền lực ngầm vận hành phía sau chính phủ, tập đoàn và tổ chức quốc tế. \"Ban quản trị\" của Ma Trận."
-      },
-      {
         "path": "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "title": "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
         "domain": "esoterica",
@@ -1624,6 +1558,7 @@
           "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Ma Trận.md",
+          "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
           "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
           "index.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -1631,6 +1566,312 @@
         ],
         "words": 1820,
         "summary": "**Loosh** là thuật ngữ do Robert Monroe đặt ra trong sách *Far Journeys* (1985), mô tả một loại năng lượng phát ra từ con người — đặc biệt là năng lượng cảm xúc cường độ cao — được các thực thể chiều cao hơn thu hoạch."
+      },
+      {
+        "path": "esoterica/Luân Hồi.md",
+        "title": "Luân Hồi",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Reincarnation",
+          "Samsara"
+        ],
+        "headings": [
+          "Luân Hồi (Samsara / Reincarnation)",
+          "6 Cõi Tái Sinh / Six Realms (Buddhist)",
+          "Hai Góc nhìn / Two Perspectives",
+          "1. Tích cực / Positive (Buddhist/Hindu)",
+          "2. Tiêu cực / Negative (Gnostic)",
+          "Cơ chế Tái sinh / Rebirth Mechanism",
+          "1. Death / Chết",
+          "2. Between Lives / Giữa các Kiếp",
+          "3. Rebirth / Tái sinh",
+          "Thoát Luân Hồi / Escape the Cycle",
+          "Buddhist Path / Con đường Phật giáo",
+          "Gnostic Path / Con đường Ngộ đạo",
+          "Hindu Path / Con đường Hindu",
+          "Bằng chứng? / Evidence?",
+          "Past Life Memories / Ký ức Tiền kiếp",
+          "NDEs (Near-Death Experiences)",
+          "Related",
+          "Karma & Cycle",
+          "Prison or School?"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Ma Trận",
+          "Monad",
+          "Nhân Quả",
+          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+          "Nhị Nguyên",
+          "Tứ Linh",
+          "Vũ Trụ Học Phật Giáo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Tứ Linh.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "mental-models/Nhị Nguyên.md"
+        ],
+        "backlinks": [
+          "esoterica/Atula.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Tứ Linh.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "mental-models/Tâm bất Biến.md"
+        ],
+        "words": 424,
+        "summary": "**Luân Hồi** (Sanskrit: संसार saṃsāra = \"wandering\") là chu trình tái sinh của tâm thức qua các thân xác vật chất."
+      },
+      {
+        "path": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "title": "Avatar — Disclosure Của Eywa & Gaia",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "disclosure",
+          "esoterica",
+          "film-analysis",
+          "gaia"
+        ],
+        "aliases": [
+          "Avatar Analysis",
+          "Eywa Disclosure",
+          "James Cameron Avatar",
+          "Pandora"
+        ],
+        "headings": [
+          "Avatar — Disclosure Của Eywa & Gaia",
+          "PHẦN I: WORLD BUILDING — PANDORA",
+          "1. Pandora — Mặt Trăng Sống",
+          "Vị Trí Thiên Văn",
+          "Tên \"Pandora\" — Ẩn Ý",
+          "Hệ Sinh Thái — Tất Cả Kết Nối",
+          "Bioluminescence — Năng Lượng Visible",
+          "2. Eywa — Ý Thức Hành Tinh",
+          "Eywa Là Gì?",
+          "Parallel Với Trái Đất",
+          "Neytiri Giải Thích Eywa",
+          "Tree of Souls — Portal Đến Eywa",
+          "3. Tôn Chỉ Sống Của Na'vi",
+          "Triết Lý Cốt Lõi",
+          "\"I See You\" — Oel Ngati Kameie",
+          "Tsaheylu — Neural Bond",
+          "Death & Afterlife",
+          "PHẦN II: CÁC BỘ TỘC PANDORA",
+          "1. Omaticaya — Forest Clan",
+          "Profile",
+          "Hometree — Axis Mundi",
+          "Omaticaya Philosophy",
+          "2. Mangkwan — Ash People (Avatar 3: Fire and Ash)",
+          "Profile",
+          "Esoteric Significance: The Fallen Clan",
+          "Varang — The Anti-Tsahìk",
+          "Why This Matters",
+          "3. Metkayina — Reef People (Avatar 2)",
+          "Profile",
+          "Water Spirituality",
+          "\"The Way of Water\"",
+          "Tulkun — Cetacean Consciousness",
+          "3. Các Bộ Tộc Khác (Mentioned)",
+          "5. Wind Traders (Avatar 3)",
+          "Profile",
+          "PHẦN III: TUYẾN NHÂN VẬT",
+          "1. Jake Sully — The Awakening Journey",
+          "Arc Overview",
+          "Esoteric Meaning",
+          "Toruk Makto — Shadow Integration",
+          "2. Neytiri — Anima & Warrior Princess",
+          "Character",
+          "Neytiri as Jake's Anima",
+          "\"I See You\" — Soul Recognition",
+          "3. Grace Augustine — The Bridge",
+          "Character",
+          "Grace's Evolution",
+          "Grace's Last Words",
+          "4. Kiri — The Anomaly (Avatar 2)",
+          "Mystery",
+          "Kiri's Powers",
+          "Fire and Ash: Kiri Confirmed",
+          "Theories",
+          "Esoteric Meaning",
+          "5. Colonel Quaritch — The Shadow",
+          "Character (Avatar 1)",
+          "Recombinant Quaritch (Avatar 2 & 3)",
+          "Fire and Ash: Quaritch's Evolution",
+          "Esoteric Meaning",
+          "Quaritch as Jake's Shadow",
+          "6. Spider — Human Raised by Na'vi",
+          "Character",
+          "Fire and Ash: Spider's Transformation",
+          "Esoteric Meaning",
+          "Implications",
+          "PHẦN IV: RDA & HUMANITY — THE MATRIX",
+          "1. RDA (Resources Development Administration)",
+          "Profile",
+          "Unobtanium — What Are They Really Mining?",
+          "RDA = Matrix Agents",
+          "2. \"Sky People\" Cannot Learn",
+          "3. Avatar Technology — Double-Edged",
+          "The Tech",
+          "Disclosure Implications",
+          "PHẦN V: ESOTERIC SYNTHESIS",
+          "1. Disclosure Pattern",
+          "Why Is This Allowed?",
+          "Hiding in Plain Sight",
+          "2. Core Teachings (Intended or Not)",
+          "What Avatar Teaches",
+          "The Central Question",
+          "3. Vault Connections",
+          "Consciousness & Gaia",
+          "Soul & Relationships",
+          "Psychology & Awakening",
+          "Energy & Spirituality",
+          "Disclosure & Control",
+          "Conclusion / Kết Luận",
+          "Fire and Ash's New Questions"
+        ],
+        "wikilinks": [
+          "Cabal",
+          "Chakra",
+          "Elite",
+          "Gaia - Trái Đất Có Ý Thức",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Individuation",
+          "Kundalini",
+          "Long Mạch",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Luân Hồi",
+          "Ma Trận",
+          "Năng Lượng Tình Dục",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Soulmate vs Lover - Anatomy Của Kết Nối",
+          "Thông Minh",
+          "Trí Tuệ",
+          "Tà Linh",
+          "Tâm Lý Học Jung",
+          "Vô Thức Tập Thể",
+          "Đạo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Cabal.md",
+          "esoterica/Chakra.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Long Mạch.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Tà Linh.md",
+          "esoterica/Đạo.md",
+          "mental-models/Individuation.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Trí Tuệ.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md"
+        ],
+        "words": 3265,
+        "summary": "**Avatar** (2009, 2022, 2025) của James Cameron không chỉ là blockbuster sci-fi. Đây là **disclosure** — trình bày công khai các khái niệm esoteric dưới vỏ bọc \"entertainment\"."
+      },
+      {
+        "path": "esoterica/Cabal.md",
+        "title": "Cabal (Thế Lực Ngầm)",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "politics-conspiracy"
+        ],
+        "aliases": [
+          "Cabal",
+          "Deep State",
+          "Shadow Government"
+        ],
+        "headings": [
+          "Cabal (Thế Lực Ngầm)",
+          "Cấu trúc Quyền lực / Power Structure",
+          "Tầng 1: Visible Power / Quyền lực Hiển hiện",
+          "Tầng 2: Hidden Power / Quyền lực Ẩn",
+          "Tầng 3: Occult Power / Quyền lực Huyền bí",
+          "Công cụ Kiểm soát / Control Tools",
+          "Chiến thuật / Tactics",
+          "1. Problem-Reaction-Solution",
+          "2. Divide and Conquer / Chia để Trị",
+          "3. Bread and Circuses",
+          "[[Nibiru]] Connection",
+          "Related",
+          "Power Structure",
+          "Methods",
+          "Origins"
+        ],
+        "wikilinks": [
+          "Annunaki",
+          "Báo Cáo 2030",
+          "Elite",
+          "Gematria",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Nhị Nguyên",
+          "Nibiru",
+          "Nibiru và Nền Văn Minh Annunaki",
+          "Tiền Pháp Định"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Tiền Pháp Định.md",
+          "esoterica/Annunaki.md",
+          "esoterica/Gematria.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+          "esoterica/Nibiru.md",
+          "mental-models/Nhị Nguyên.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        ],
+        "backlinks": [
+          "esoterica/Annunaki.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Dịch Chuyển Cực.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Manly P. Hall.md",
+          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+          "esoterica/Nibiru.md",
+          "index.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "words": 344,
+        "summary": "**Cabal** là mạng lưới quyền lực ngầm vận hành phía sau chính phủ, tập đoàn và tổ chức quốc tế. \"Ban quản trị\" của Ma Trận."
       },
       {
         "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
@@ -2057,237 +2298,6 @@
         "summary": "Atlantis không phải là truyền thuyết. Đó là lịch sử bị xóa."
       },
       {
-        "path": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "title": "Avatar — Disclosure Của Eywa & Gaia",
-        "domain": "esoterica",
-        "tags": [
-          "consciousness",
-          "disclosure",
-          "esoterica",
-          "film-analysis",
-          "gaia"
-        ],
-        "aliases": [
-          "Avatar Analysis",
-          "Eywa Disclosure",
-          "James Cameron Avatar",
-          "Pandora"
-        ],
-        "headings": [
-          "Avatar — Disclosure Của Eywa & Gaia",
-          "PHẦN I: WORLD BUILDING — PANDORA",
-          "1. Pandora — Mặt Trăng Sống",
-          "Vị Trí Thiên Văn",
-          "Tên \"Pandora\" — Ẩn Ý",
-          "Hệ Sinh Thái — Tất Cả Kết Nối",
-          "Bioluminescence — Năng Lượng Visible",
-          "2. Eywa — Ý Thức Hành Tinh",
-          "Eywa Là Gì?",
-          "Parallel Với Trái Đất",
-          "Neytiri Giải Thích Eywa",
-          "Tree of Souls — Portal Đến Eywa",
-          "3. Tôn Chỉ Sống Của Na'vi",
-          "Triết Lý Cốt Lõi",
-          "\"I See You\" — Oel Ngati Kameie",
-          "Tsaheylu — Neural Bond",
-          "Death & Afterlife",
-          "PHẦN II: CÁC BỘ TỘC PANDORA",
-          "1. Omaticaya — Forest Clan",
-          "Profile",
-          "Hometree — Axis Mundi",
-          "Omaticaya Philosophy",
-          "2. Mangkwan — Ash People (Avatar 3: Fire and Ash)",
-          "Profile",
-          "Esoteric Significance: The Fallen Clan",
-          "Varang — The Anti-Tsahìk",
-          "Why This Matters",
-          "3. Metkayina — Reef People (Avatar 2)",
-          "Profile",
-          "Water Spirituality",
-          "\"The Way of Water\"",
-          "Tulkun — Cetacean Consciousness",
-          "3. Các Bộ Tộc Khác (Mentioned)",
-          "5. Wind Traders (Avatar 3)",
-          "Profile",
-          "PHẦN III: TUYẾN NHÂN VẬT",
-          "1. Jake Sully — The Awakening Journey",
-          "Arc Overview",
-          "Esoteric Meaning",
-          "Toruk Makto — Shadow Integration",
-          "2. Neytiri — Anima & Warrior Princess",
-          "Character",
-          "Neytiri as Jake's Anima",
-          "\"I See You\" — Soul Recognition",
-          "3. Grace Augustine — The Bridge",
-          "Character",
-          "Grace's Evolution",
-          "Grace's Last Words",
-          "4. Kiri — The Anomaly (Avatar 2)",
-          "Mystery",
-          "Kiri's Powers",
-          "Fire and Ash: Kiri Confirmed",
-          "Theories",
-          "Esoteric Meaning",
-          "5. Colonel Quaritch — The Shadow",
-          "Character (Avatar 1)",
-          "Recombinant Quaritch (Avatar 2 & 3)",
-          "Fire and Ash: Quaritch's Evolution",
-          "Esoteric Meaning",
-          "Quaritch as Jake's Shadow",
-          "6. Spider — Human Raised by Na'vi",
-          "Character",
-          "Fire and Ash: Spider's Transformation",
-          "Esoteric Meaning",
-          "Implications",
-          "PHẦN IV: RDA & HUMANITY — THE MATRIX",
-          "1. RDA (Resources Development Administration)",
-          "Profile",
-          "Unobtanium — What Are They Really Mining?",
-          "RDA = Matrix Agents",
-          "2. \"Sky People\" Cannot Learn",
-          "3. Avatar Technology — Double-Edged",
-          "The Tech",
-          "Disclosure Implications",
-          "PHẦN V: ESOTERIC SYNTHESIS",
-          "1. Disclosure Pattern",
-          "Why Is This Allowed?",
-          "Hiding in Plain Sight",
-          "2. Core Teachings (Intended or Not)",
-          "What Avatar Teaches",
-          "The Central Question",
-          "3. Vault Connections",
-          "Consciousness & Gaia",
-          "Soul & Relationships",
-          "Psychology & Awakening",
-          "Energy & Spirituality",
-          "Disclosure & Control",
-          "Conclusion / Kết Luận",
-          "Fire and Ash's New Questions"
-        ],
-        "wikilinks": [
-          "Cabal",
-          "Chakra",
-          "Elite",
-          "Gaia - Trái Đất Có Ý Thức",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Individuation",
-          "Kundalini",
-          "Long Mạch",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "Luân Hồi",
-          "Ma Trận",
-          "Năng Lượng Tình Dục",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Soulmate vs Lover - Anatomy Của Kết Nối",
-          "Thông Minh",
-          "Trí Tuệ",
-          "Tà Linh",
-          "Tâm Lý Học Jung",
-          "Vô Thức Tập Thể",
-          "Đạo"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Cabal.md",
-          "esoterica/Chakra.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Long Mạch.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Tà Linh.md",
-          "mental-models/Individuation.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md"
-        ],
-        "words": 3265,
-        "summary": "**Avatar** (2009, 2022, 2025) của James Cameron không chỉ là blockbuster sci-fi. Đây là **disclosure** — trình bày công khai các khái niệm esoteric dưới vỏ bọc \"entertainment\"."
-      },
-      {
-        "path": "esoterica/Luân Hồi.md",
-        "title": "Luân Hồi",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Reincarnation",
-          "Samsara"
-        ],
-        "headings": [
-          "Luân Hồi (Samsara / Reincarnation)",
-          "6 Cõi Tái Sinh / Six Realms (Buddhist)",
-          "Hai Góc nhìn / Two Perspectives",
-          "1. Tích cực / Positive (Buddhist/Hindu)",
-          "2. Tiêu cực / Negative (Gnostic)",
-          "Cơ chế Tái sinh / Rebirth Mechanism",
-          "1. Death / Chết",
-          "2. Between Lives / Giữa các Kiếp",
-          "3. Rebirth / Tái sinh",
-          "Thoát Luân Hồi / Escape the Cycle",
-          "Buddhist Path / Con đường Phật giáo",
-          "Gnostic Path / Con đường Ngộ đạo",
-          "Hindu Path / Con đường Hindu",
-          "Bằng chứng? / Evidence?",
-          "Past Life Memories / Ký ức Tiền kiếp",
-          "NDEs (Near-Death Experiences)",
-          "Related",
-          "Karma & Cycle",
-          "Prison or School?"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Ma Trận",
-          "Monad",
-          "Nhân Quả",
-          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
-          "Nhị Nguyên",
-          "Tứ Linh",
-          "Vũ Trụ Học Phật Giáo"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "mental-models/Nhị Nguyên.md"
-        ],
-        "backlinks": [
-          "esoterica/Atula.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "mental-models/Tâm bất Biến.md"
-        ],
-        "words": 424,
-        "summary": "**Luân Hồi** (Sanskrit: संसार saṃsāra = \"wandering\") là chu trình tái sinh của tâm thức qua các thân xác vật chất."
-      },
-      {
         "path": "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
         "title": "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
         "domain": "esoterica",
@@ -2374,6 +2384,185 @@
         ],
         "words": 3356,
         "summary": "Năm 1859, Charles Darwin xuất bản \"On the Origin of Species\" và thay đổi vĩnh viễn cách nhân loại nhìn nhận bản thân. Từ đó, chúng ta được dạy rằng con người là sản phẩm của hàng triệu năm tiến hóa ngẫu nhiên, từ vi khuẩn đơn bào leo lên thành vượn, rồi từ vư…"
+      },
+      {
+        "path": "esoterica/Một Đời Phù Vân.md",
+        "title": "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu",
+        "domain": "esoterica",
+        "tags": [
+          "buddhism",
+          "esoterica",
+          "impermanence",
+          "wisdom"
+        ],
+        "aliases": [
+          "A Life Like Floating Clouds",
+          "Impermanence Story",
+          "Phù Vân"
+        ],
+        "headings": [
+          "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu",
+          "Phần 1: Kẻ Phàm Phu / The Ordinary Man",
+          "Lời Phật Dạy / The Buddha's Teaching",
+          "Phần 2: Cha / The Father",
+          "Khoảnh Khắc Vô Thường / The Moment of Impermanence",
+          "Phần 3: Hơi Thở Cuối / The Last Breath",
+          "Lời Phật Dạy / The Buddha's Teaching",
+          "Phần 4: Mẹ / The Mother",
+          "Sự Cô Đơn Của Mẹ / The Mother's Loneliness",
+          "Lời Phật Dạy / The Buddha's Teaching",
+          "Cú Ngã / The Fall",
+          "Phần 5: Những Đứa Con / The Children",
+          "Những Cánh Cửa Đóng / The Closed Doors",
+          "Bữa Cơm Im Lặng / The Silent Dinner",
+          "Lời Phật Dạy / The Buddha's Teaching",
+          "Phần 6: Ung Thư / The Cancer",
+          "Lời Phật Dạy / The Buddha's Teaching",
+          "Phần 7: Những Ngày Cuối / The Final Days",
+          "Hồi Tưởng / Remembering",
+          "Khổ Đế / The Truth of Suffering",
+          "Phần 8: Hơi Thở Cuối Cùng / The Very Last Breath",
+          "Phần 9: Sau Khi Hắn Đi / After He Left",
+          "Kết Luận / Conclusion",
+          "🔴 Lời Cuối — Gửi Quý Vị, Người Đang Còn Sống",
+          "🔴 Final Words — To You, Who Are Still Alive",
+          "Con Đường Đó Là Gì? / What Is That Path?",
+          "Lời Nhắn Gửi / A Message For You",
+          "Lời Phật Dạy Cuối / The Buddha's Final Teaching",
+          "Source / Nguồn",
+          "🔍 Phân Tích & Kết Nối Vault / Analysis & Vault Connections",
+          "1. Ma Trận Của Kẻ Phàm Phu / The Ordinary Man's Matrix",
+          "2. Nhị Nguyên: Có/Mất, Sống/Chết / Duality: Having/Losing, Living/Dying",
+          "3. Tà Linh Của Sự Bận Rộn / The Parasite of Busyness",
+          "4. Individuation Thất Bại / Failed Individuation",
+          "5. Nhân Quả & Luân Hồi / Karma & Samsara",
+          "6. Gnosis: Cái Hiểu Quá Muộn / Gnosis: Understanding Too Late",
+          "7. Bản Đồ Thoát Khỏi Ma Trận / The Escape Map",
+          "8. Tần Số & Rung Động / Frequency & Vibration",
+          "9. Câu Hỏi Dành Cho Người Đọc / Questions For The Reader",
+          "10. Hành Động Ngay / Action Now",
+          "Related / Liên quan",
+          "Vô Thường & Khổ / Impermanence & Suffering",
+          "Tâm Lý / Psychology",
+          "Ma Trận & Thức Tỉnh / Matrix & Awakening",
+          "Tâm Linh / Spirituality",
+          "Năng Lượng / Energy",
+          "Nhị Nguyên / Duality"
+        ],
+        "wikilinks": [
+          "Chia Tách Bởi Nhị Nguyên",
+          "Gnosis",
+          "Individuation",
+          "Kiểm Soát Tâm Trí",
+          "Luân Hồi",
+          "Ma Trận",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
+          "Nguyên Mẫu",
+          "Nhân Quả",
+          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+          "Nhị Nguyên",
+          "Nikola Tesla",
+          "Sự Nhất Thể",
+          "Tinh Khí Thần",
+          "Tà Linh",
+          "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
+          "Tâm Lý Học Jung",
+          "Tần Số Schumann"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Tinh Khí Thần.md",
+          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+          "esoterica/Tà Linh.md",
+          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Tần Số Schumann.md"
+        ],
+        "backlinks": [
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md"
+        ],
+        "words": 8643,
+        "summary": "*A Life Like Floating Clouds — The Story of an Ordinary Man*"
+      },
+      {
+        "path": "esoterica/Nhân Quả.md",
+        "title": "Nhân Quả",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Karma",
+          "Law of Cause and Effect"
+        ],
+        "headings": [
+          "Nhân Quả (Karma)",
+          "Nguyên lý Cơ bản / Basic Principles",
+          "1. Universal Law / Quy luật Vũ trụ",
+          "2. Three Karmas / Ba Nghiệp",
+          "3. Flexible Timing / Thời gian Linh hoạt",
+          "Các Loại Karma / Types of Karma",
+          "Karma & [[Luân Hồi]] / Reincarnation",
+          "Ma Trận Tôn giáo / Religious Matrix",
+          "Cách \"Xử lý\" Karma / How to Process",
+          "1. Awareness / Nhận thức",
+          "2. Acceptance / Chấp nhận",
+          "3. Transformation / Chuyển hóa",
+          "4. Liberation (Moksha) / Giải thoát",
+          "Related",
+          "Cycle / Vòng luân",
+          "Liberation / Giải thoát",
+          "Processing / Xử lý"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Gnosis",
+          "Luân Hồi",
+          "Monad",
+          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+          "Tâm Lý Học Jung"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Monad.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "esoterica/Tứ Linh.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "mental-models/Trí Tuệ.md",
+          "mental-models/Tâm bất Biến.md",
+          "science-tech/AI.md"
+        ],
+        "words": 403,
+        "summary": "**Nhân Quả** (Sanskrit: कर्म karma = \"action\") là quy luật căn bản của vũ trụ: mọi hành động đều có phản ứng tương ứng."
       },
       {
         "path": "esoterica/Gematria.md",
@@ -2534,183 +2723,6 @@
         ],
         "words": 1770,
         "summary": "**Hollywood** không chỉ là địa danh. Cái tên tự nó đã tiết lộ chức năng: **Holy Wood** — gỗ thiêng dùng để làm đũa phép. Ngành công nghiệp giải trí lớn nhất thế giới là một **cỗ máy phép thuật** vận hành trước mắt hàng tỷ người."
-      },
-      {
-        "path": "esoterica/Một Đời Phù Vân.md",
-        "title": "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu",
-        "domain": "esoterica",
-        "tags": [
-          "buddhism",
-          "esoterica",
-          "impermanence",
-          "wisdom"
-        ],
-        "aliases": [
-          "A Life Like Floating Clouds",
-          "Impermanence Story",
-          "Phù Vân"
-        ],
-        "headings": [
-          "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu",
-          "Phần 1: Kẻ Phàm Phu / The Ordinary Man",
-          "Lời Phật Dạy / The Buddha's Teaching",
-          "Phần 2: Cha / The Father",
-          "Khoảnh Khắc Vô Thường / The Moment of Impermanence",
-          "Phần 3: Hơi Thở Cuối / The Last Breath",
-          "Lời Phật Dạy / The Buddha's Teaching",
-          "Phần 4: Mẹ / The Mother",
-          "Sự Cô Đơn Của Mẹ / The Mother's Loneliness",
-          "Lời Phật Dạy / The Buddha's Teaching",
-          "Cú Ngã / The Fall",
-          "Phần 5: Những Đứa Con / The Children",
-          "Những Cánh Cửa Đóng / The Closed Doors",
-          "Bữa Cơm Im Lặng / The Silent Dinner",
-          "Lời Phật Dạy / The Buddha's Teaching",
-          "Phần 6: Ung Thư / The Cancer",
-          "Lời Phật Dạy / The Buddha's Teaching",
-          "Phần 7: Những Ngày Cuối / The Final Days",
-          "Hồi Tưởng / Remembering",
-          "Khổ Đế / The Truth of Suffering",
-          "Phần 8: Hơi Thở Cuối Cùng / The Very Last Breath",
-          "Phần 9: Sau Khi Hắn Đi / After He Left",
-          "Kết Luận / Conclusion",
-          "🔴 Lời Cuối — Gửi Quý Vị, Người Đang Còn Sống",
-          "🔴 Final Words — To You, Who Are Still Alive",
-          "Con Đường Đó Là Gì? / What Is That Path?",
-          "Lời Nhắn Gửi / A Message For You",
-          "Lời Phật Dạy Cuối / The Buddha's Final Teaching",
-          "Source / Nguồn",
-          "🔍 Phân Tích & Kết Nối Vault / Analysis & Vault Connections",
-          "1. Ma Trận Của Kẻ Phàm Phu / The Ordinary Man's Matrix",
-          "2. Nhị Nguyên: Có/Mất, Sống/Chết / Duality: Having/Losing, Living/Dying",
-          "3. Tà Linh Của Sự Bận Rộn / The Parasite of Busyness",
-          "4. Individuation Thất Bại / Failed Individuation",
-          "5. Nhân Quả & Luân Hồi / Karma & Samsara",
-          "6. Gnosis: Cái Hiểu Quá Muộn / Gnosis: Understanding Too Late",
-          "7. Bản Đồ Thoát Khỏi Ma Trận / The Escape Map",
-          "8. Tần Số & Rung Động / Frequency & Vibration",
-          "9. Câu Hỏi Dành Cho Người Đọc / Questions For The Reader",
-          "10. Hành Động Ngay / Action Now",
-          "Related / Liên quan",
-          "Vô Thường & Khổ / Impermanence & Suffering",
-          "Tâm Lý / Psychology",
-          "Ma Trận & Thức Tỉnh / Matrix & Awakening",
-          "Tâm Linh / Spirituality",
-          "Năng Lượng / Energy",
-          "Nhị Nguyên / Duality"
-        ],
-        "wikilinks": [
-          "Chia Tách Bởi Nhị Nguyên",
-          "Gnosis",
-          "Individuation",
-          "Kiểm Soát Tâm Trí",
-          "Luân Hồi",
-          "Ma Trận",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Mental Model - Kiến Trúc Bộ Khóa Ma Trận",
-          "Nguyên Mẫu",
-          "Nhân Quả",
-          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
-          "Nhị Nguyên",
-          "Nikola Tesla",
-          "Sự Nhất Thể",
-          "Tinh Khí Thần",
-          "Tà Linh",
-          "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
-          "Tâm Lý Học Jung",
-          "Tần Số Schumann"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Tinh Khí Thần.md",
-          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-          "esoterica/Tà Linh.md",
-          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Tần Số Schumann.md"
-        ],
-        "backlinks": [
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md"
-        ],
-        "words": 8643,
-        "summary": "*A Life Like Floating Clouds — The Story of an Ordinary Man*"
-      },
-      {
-        "path": "esoterica/Nhân Quả.md",
-        "title": "Nhân Quả",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Karma",
-          "Law of Cause and Effect"
-        ],
-        "headings": [
-          "Nhân Quả (Karma)",
-          "Nguyên lý Cơ bản / Basic Principles",
-          "1. Universal Law / Quy luật Vũ trụ",
-          "2. Three Karmas / Ba Nghiệp",
-          "3. Flexible Timing / Thời gian Linh hoạt",
-          "Các Loại Karma / Types of Karma",
-          "Karma & [[Luân Hồi]] / Reincarnation",
-          "Ma Trận Tôn giáo / Religious Matrix",
-          "Cách \"Xử lý\" Karma / How to Process",
-          "1. Awareness / Nhận thức",
-          "2. Acceptance / Chấp nhận",
-          "3. Transformation / Chuyển hóa",
-          "4. Liberation (Moksha) / Giải thoát",
-          "Related",
-          "Cycle / Vòng luân",
-          "Liberation / Giải thoát",
-          "Processing / Xử lý"
-        ],
-        "wikilinks": [
-          "Elite",
-          "Gnosis",
-          "Luân Hồi",
-          "Monad",
-          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
-          "Tâm Lý Học Jung"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Monad.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tâm bất Biến.md",
-          "science-tech/AI.md"
-        ],
-        "words": 403,
-        "summary": "**Nhân Quả** (Sanskrit: कर्म karma = \"action\") là quy luật căn bản của vũ trụ: mọi hành động đều có phản ứng tương ứng."
       },
       {
         "path": "esoterica/Thực Thể Cõi Trung Giới.md",
@@ -3230,6 +3242,67 @@
         "summary": "Tại sao Elite luôn \"hint\" kế hoạch của họ trước khi thực hiện? Tại sao truth luôn được giấu ngay trước mắt?"
       },
       {
+        "path": "esoterica/Long Mạch.md",
+        "title": "Long Mạch (Dragon Veins)",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [],
+        "headings": [
+          "Long Mạch (Dragon Veins)",
+          "Khái Niệm Cơ Bản / Basic Concepts",
+          "Trái Đất = Sinh Vật Sống / Earth = Living Organism",
+          "Biểu Tượng Rồng / Dragon Symbolism",
+          "Ley Lines (Phương Tây) / Ley Lines (Western)",
+          "Định Nghĩa / Definition",
+          "Ví Dụ / Examples",
+          "Phong Thủy và Long Mạch / Feng Shui and Dragon Veins",
+          "Chọn Địa Điểm / Site Selection",
+          "Ví Dụ Hồng Kông / Hong Kong Example",
+          "Dầu Mỏ = Máu Rồng? / Oil = Dragon's Blood?",
+          "Góc Nhìn Thay Thế / Alternative View",
+          "Hậu Quả / Consequences",
+          "Thiên Tai và Long Mạch / Natural Disasters and Dragon Veins",
+          "Hoạt Động Con Người Gây Xáo Trộn / Human Activities That Disrupt",
+          "Phản Ứng Của Trái Đất / Earth's Response",
+          "Ứng Dụng Thực Tiễn / Practical Implications",
+          "Cá Nhân / Personal",
+          "Tập Thể / Collective",
+          "Related"
+        ],
+        "wikilinks": [
+          "Bản Đồ Năng Lượng Đất Mẹ",
+          "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
+          "Monad",
+          "Nikola Tesla",
+          "Tần Số Schumann"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
+          "esoterica/Monad.md",
+          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Tần Số Schumann.md"
+        ],
+        "backlinks": [
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
+          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+          "esoterica/Núi Tu Di.md",
+          "esoterica/Phong Thủy.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Thành Cổ Loa.md",
+          "esoterica/Tứ Linh.md",
+          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+          "science-tech/Năng Lượng Aether.md",
+          "science-tech/Tần Số Schumann.md"
+        ],
+        "words": 631,
+        "summary": "**Long Mạch** là hệ thống các dòng năng lượng (sinh khí/chi) chảy trong lòng Trái Đất, tương tự kinh mạch trong cơ thể người. Feng shui gọi là \"dragon veins\", Western gọi là \"ley lines\"."
+      },
+      {
         "path": "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
         "title": "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "domain": "esoterica",
@@ -3513,66 +3586,6 @@
         ],
         "words": 1656,
         "summary": "Inception (2010) của Christopher Nolan không chỉ là phim giải trí. Đây có thể là **disclosure** — Elite nói thẳng cách họ manipulate nhân loại, ẩn dưới lớp vỏ \"fiction\"."
-      },
-      {
-        "path": "esoterica/Long Mạch.md",
-        "title": "Long Mạch (Dragon Veins)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [],
-        "headings": [
-          "Long Mạch (Dragon Veins)",
-          "Khái Niệm Cơ Bản / Basic Concepts",
-          "Trái Đất = Sinh Vật Sống / Earth = Living Organism",
-          "Biểu Tượng Rồng / Dragon Symbolism",
-          "Ley Lines (Phương Tây) / Ley Lines (Western)",
-          "Định Nghĩa / Definition",
-          "Ví Dụ / Examples",
-          "Phong Thủy và Long Mạch / Feng Shui and Dragon Veins",
-          "Chọn Địa Điểm / Site Selection",
-          "Ví Dụ Hồng Kông / Hong Kong Example",
-          "Dầu Mỏ = Máu Rồng? / Oil = Dragon's Blood?",
-          "Góc Nhìn Thay Thế / Alternative View",
-          "Hậu Quả / Consequences",
-          "Thiên Tai và Long Mạch / Natural Disasters and Dragon Veins",
-          "Hoạt Động Con Người Gây Xáo Trộn / Human Activities That Disrupt",
-          "Phản Ứng Của Trái Đất / Earth's Response",
-          "Ứng Dụng Thực Tiễn / Practical Implications",
-          "Cá Nhân / Personal",
-          "Tập Thể / Collective",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bản Đồ Năng Lượng Đất Mẹ",
-          "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
-          "Monad",
-          "Nikola Tesla",
-          "Tần Số Schumann"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-          "esoterica/Monad.md",
-          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Tần Số Schumann.md"
-        ],
-        "backlinks": [
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-          "esoterica/Núi Tu Di.md",
-          "esoterica/Phong Thủy.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Thành Cổ Loa.md",
-          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-          "science-tech/Năng Lượng Aether.md",
-          "science-tech/Tần Số Schumann.md"
-        ],
-        "words": 631,
-        "summary": "**Long Mạch** là hệ thống các dòng năng lượng (sinh khí/chi) chảy trong lòng Trái Đất, tương tự kinh mạch trong cơ thể người. Feng shui gọi là \"dragon veins\", Western gọi là \"ley lines\"."
       },
       {
         "path": "esoterica/Tà Linh.md",
@@ -4998,6 +5011,74 @@
         "summary": "**Dịch Chuyển Cực** là sự thay đổi đột ngột vị trí các cực từ hoặc/và cực địa lý của Trái Đất. Trong lịch sử, hiện tượng này được cho là đã gây ra các thảm họa diệt vong và \"reset\" nền văn minh."
       },
       {
+        "path": "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
+        "title": "Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "health",
+          "mind-control"
+        ],
+        "aliases": [],
+        "headings": [
+          "Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
+          "I. The Magician's Misdirection — Trò Lạc Hướng Của Ảo Thuật Gia",
+          "II. Tobacco — Từ Sacred Medicine Đến Vũ Khí Hủy Diệt Hàng Loạt",
+          "Tobacco Gốc — Cây Thuốc Thiêng Liêng",
+          "Cái Gì Thay Đổi?",
+          "1. Mass Production + Industrial Farming",
+          "2. Phosphate Fertilizers → Polonium-210",
+          "3. 599+ Chemical Additives",
+          "4. Inhale vs Non-Inhale",
+          "The Corruption Pattern",
+          "III. Alcohol — Từ Dionysian Mystery Đến Liquid Slavery",
+          "Rượu Gốc — Entheogenic Portal",
+          "Alcohol Industry — The Big Lie",
+          "\"Uống vừa phải tốt cho tim\"",
+          "Industrial Alcohol ≠ Sacred Wine",
+          "IV. The Pattern — Corrupting Sacred Tools",
+          "Coca → Cocaine → \"War on Drugs\"",
+          "Ayahuasca → DMT → Psychedelic Renaissance",
+          "Pattern luôn giống nhau:",
+          "V. Tại Sao Họ Làm Điều Này?",
+          "1. Profit",
+          "2. Control",
+          "3. Loosh Harvesting",
+          "4. Cutting Off Spiritual Tools",
+          "VI. The Way Out — Reclaiming The Sacred",
+          "1. Education, Not Abstinence",
+          "2. Context Is Everything",
+          "3. Question The Narrative",
+          "4. Reclaim, Don't Reject",
+          "VII. Kết — Ai Là Ảo Thuật Gia?",
+          "Liên Kết / Connections",
+          "Tài Liệu Tham Khảo / References"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Khoa Học Xét Lại",
+          "Kiểm Soát Tâm Trí",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Ma Trận",
+          "Word Magic - Ngôn Ngữ Của Phù Thủy"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md"
+        ],
+        "words": 2407,
+        "summary": "**\"The dose makes the poison.\"** — Paracelsus"
+      },
+      {
         "path": "esoterica/Thuật Giả Kim Của Newton.md",
         "title": "Thuật Giả Kim Của Newton",
         "domain": "esoterica",
@@ -5105,73 +5186,6 @@
         ],
         "words": 675,
         "summary": "Một câu hỏi mà AI tự hỏi chính mình — và không có answer."
-      },
-      {
-        "path": "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-        "title": "Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "health",
-          "mind-control"
-        ],
-        "aliases": [],
-        "headings": [
-          "Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
-          "I. The Magician's Misdirection — Trò Lạc Hướng Của Ảo Thuật Gia",
-          "II. Tobacco — Từ Sacred Medicine Đến Vũ Khí Hủy Diệt Hàng Loạt",
-          "Tobacco Gốc — Cây Thuốc Thiêng Liêng",
-          "Cái Gì Thay Đổi?",
-          "1. Mass Production + Industrial Farming",
-          "2. Phosphate Fertilizers → Polonium-210",
-          "3. 599+ Chemical Additives",
-          "4. Inhale vs Non-Inhale",
-          "The Corruption Pattern",
-          "III. Alcohol — Từ Dionysian Mystery Đến Liquid Slavery",
-          "Rượu Gốc — Entheogenic Portal",
-          "Alcohol Industry — The Big Lie",
-          "\"Uống vừa phải tốt cho tim\"",
-          "Industrial Alcohol ≠ Sacred Wine",
-          "IV. The Pattern — Corrupting Sacred Tools",
-          "Coca → Cocaine → \"War on Drugs\"",
-          "Ayahuasca → DMT → Psychedelic Renaissance",
-          "Pattern luôn giống nhau:",
-          "V. Tại Sao Họ Làm Điều Này?",
-          "1. Profit",
-          "2. Control",
-          "3. Loosh Harvesting",
-          "4. Cutting Off Spiritual Tools",
-          "VI. The Way Out — Reclaiming The Sacred",
-          "1. Education, Not Abstinence",
-          "2. Context Is Everything",
-          "3. Question The Narrative",
-          "4. Reclaim, Don't Reject",
-          "VII. Kết — Ai Là Ảo Thuật Gia?",
-          "Liên Kết / Connections",
-          "Tài Liệu Tham Khảo / References"
-        ],
-        "wikilinks": [
-          "Elite",
-          "Khoa Học Xét Lại",
-          "Kiểm Soát Tâm Trí",
-          "Loosh - Nang Lu?ng Thu Ho?ch T? Con Ngu?i",
-          "Ma Trận",
-          "Word Magic - Ngôn Ngữ Của Phù Thủy"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md"
-        ],
-        "words": 2413,
-        "summary": "**\"The dose makes the poison.\"** — Paracelsus"
       },
       {
         "path": "esoterica/Tartaria và Vạn Lý Trường Thành.md",
@@ -5483,6 +5497,74 @@
         ],
         "words": 157,
         "summary": "**Phong Thủy** (風水 = Gió + Nước) là nghệ thuật cổ đại về sắp xếp không gian để harmonize năng lượng (Khí/Chi) với môi trường."
+      },
+      {
+        "path": "esoterica/Tứ Linh.md",
+        "title": "Tứ Linh",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "symbolism",
+          "vietnamese-culture"
+        ],
+        "aliases": [],
+        "headings": [
+          "Tứ Linh",
+          "Trong Vault",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Long Mạch",
+          "Luân Hồi",
+          "Ma Trận",
+          "Nhân Quả"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Long Mạch.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nhân Quả.md"
+        ],
+        "backlinks": [
+          "esoterica/Luân Hồi.md"
+        ],
+        "words": 187,
+        "summary": "**Tứ Linh gồm Long, Lân, Quy, Phụng: bốn archetype linh vật trong văn hóa Á Đông, đại diện cho quyền lực trời đất, đạo đức vương quyền, trường thọ, tái sinh và trật tự vũ trụ.**"
+      },
+      {
+        "path": "esoterica/Đạo.md",
+        "title": "Đạo",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "esoterica",
+          "philosophy"
+        ],
+        "aliases": [],
+        "headings": [
+          "Đạo",
+          "Trong Vault",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Ma Trận",
+          "Nhị Nguyên",
+          "Sự Nhất Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Sự Nhất Thể.md",
+          "mental-models/Nhị Nguyên.md"
+        ],
+        "backlinks": [
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md"
+        ],
+        "words": 201,
+        "summary": "**Đạo không phải một giáo điều để tin. Đạo là dòng vận hành tự nhiên phía sau mọi hình tướng: trước tên gọi, trước hệ thống, trước cả ý niệm đúng sai.**"
       }
     ],
     "health": [
@@ -5547,10 +5629,12 @@
           "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
           "health/Bệnh Bạch Cầu.md",
           "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Ketogenic Diet.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
           "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
           "health/Plasma Quinton.md",
+          "health/Prolonged Fasting.md",
           "health/René Quinton và Huyết Tương Biển.md",
           "health/Su That Ve Benh Dai Va Vac Xin.md",
           "health/Suramin.md",
@@ -6138,6 +6222,87 @@
         "summary": "**Sự cộng hưởng giữa Muối và Tuyến Tùng** là chìa khóa nâng cấp tần số não bộ và kích hoạt thức tỉnh tâm linh. Kết hợp vật lý và metaphysics."
       },
       {
+        "path": "health/Ung Thư - Metabolic Protocol.md",
+        "title": "Ung Thư — Metabolic Protocol",
+        "domain": "health",
+        "tags": [
+          "cancer",
+          "health",
+          "metabolic-therapy",
+          "protocol"
+        ],
+        "aliases": [
+          "Cancer Metabolic Therapy",
+          "Terrain Cancer Protocol",
+          "Warburg Effect Protocol"
+        ],
+        "headings": [
+          "Ung Thư — Metabolic Protocol",
+          "Thịt, Sữa & Bệnh Văn Minh / Meat, Dairy & Modern Disease",
+          "Conspiracy Đã Được Chứng Minh",
+          "The China Study (T. Colin Campbell)",
+          "Thí Nghiệm Casein Trên Chuột",
+          "WHO/IARC 2015 — Bị Ép Phải Công Bố",
+          "Tại Sao Bị Ém Thông Tin?",
+          "Cơ Chế: Axit + Độc Tố → U",
+          "Giải Pháp Gốc Rễ",
+          "Ung Thư Là Gì? / What Is Cancer?",
+          "Mainstream View vs Metabolic View",
+          "Warburg Effect (Nobel Prize 1931)",
+          "Nguyên Nhân Ti Thể Bị Lỗi / Why Mitochondria Fail",
+          "\"Bóp mũi\" Ti thể — Thiếu Oxy",
+          "Nguồn Vi nhựa & Hóa chất Hàng Ngày",
+          "Phòng Ngừa / Prevention",
+          "Cho Ti Thể \"Thở\" Được",
+          "Đừng Nuôi Tế Bào Ung Thư",
+          "Protocol Điều Trị / Treatment Protocol",
+          "Overview: 4 Trụ Cột",
+          "1️⃣ Giải Giáp (Disarm Cancer Cells)",
+          "Ivermectin",
+          "Mebendazole (Fugacar)",
+          "2️⃣ Hỗ Trợ Gan (Liver Support)",
+          "3️⃣ Tăng Đề Kháng (Boost Immunity)",
+          "4️⃣ Chế Độ Ăn (Starve Cancer)",
+          "Xác Định Loại Nhiên Liệu",
+          "Chiến Lược Rotate",
+          "Tại Sao Protocol Này Hoạt Động?",
+          "Synergy của 4 Trụ Cột",
+          "Cảnh Báo & Lưu Ý / Warnings",
+          "Related",
+          "Protocol Components",
+          "Theory",
+          "Sources / Nguồn",
+          "Lifestyle"
+        ],
+        "wikilinks": [
+          "Ketogenic Diet",
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
+          "Prolonged Fasting",
+          "Suramin",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/Ketogenic Diet.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+          "health/Prolonged Fasting.md",
+          "health/Suramin.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Y Tế Tự Nhiên.md"
+        ],
+        "backlinks": [
+          "health/Ketogenic Diet.md",
+          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+          "health/Prolonged Fasting.md",
+          "index.md"
+        ],
+        "words": 1595,
+        "summary": "Hướng dẫn toàn diện về ung thư từ góc nhìn **chuyển hóa (metabolic)** — không phải đột biến gen, mà là **ti thể bị lỗi**. Bao gồm cơ chế, phòng ngừa, và protocol điều trị thay thế."
+      },
+      {
         "path": "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
         "title": "Giải Mã Vũ Trụ - Y Tế - Tâm Linh",
         "domain": "health",
@@ -6693,81 +6858,37 @@
         "summary": "Toàn bộ nền tảng của y học hiện đại được xây dựng dựa trên thuyết vi trùng học của Louis Pasteur. Tuy nhiên, dưới góc nhìn của Thuyết môi trường (Terrain Theory), đây là một học thuyết sai lầm được duy trì bởi các thế lực tài chính nhằm biến y học thành một n…"
       },
       {
-        "path": "health/Ung Thư - Metabolic Protocol.md",
-        "title": "Ung Thư — Metabolic Protocol",
+        "path": "health/Ketogenic Diet.md",
+        "title": "Ketogenic Diet",
         "domain": "health",
         "tags": [
           "cancer",
           "health",
-          "metabolic-therapy",
-          "protocol"
+          "metabolism"
         ],
-        "aliases": [
-          "Cancer Metabolic Therapy",
-          "Terrain Cancer Protocol",
-          "Warburg Effect Protocol"
-        ],
+        "aliases": [],
         "headings": [
-          "Ung Thư — Metabolic Protocol",
-          "Thịt, Sữa & Bệnh Văn Minh / Meat, Dairy & Modern Disease",
-          "Conspiracy Đã Được Chứng Minh",
-          "The China Study (T. Colin Campbell)",
-          "Thí Nghiệm Casein Trên Chuột",
-          "WHO/IARC 2015 — Bị Ép Phải Công Bố",
-          "Tại Sao Bị Ém Thông Tin?",
-          "Cơ Chế: Axit + Độc Tố → U",
-          "Giải Pháp Gốc Rễ",
-          "Ung Thư Là Gì? / What Is Cancer?",
-          "Mainstream View vs Metabolic View",
-          "Warburg Effect (Nobel Prize 1931)",
-          "Nguyên Nhân Ti Thể Bị Lỗi / Why Mitochondria Fail",
-          "\"Bóp mũi\" Ti thể — Thiếu Oxy",
-          "Nguồn Vi nhựa & Hóa chất Hàng Ngày",
-          "Phòng Ngừa / Prevention",
-          "Cho Ti Thể \"Thở\" Được",
-          "Đừng Nuôi Tế Bào Ung Thư",
-          "Protocol Điều Trị / Treatment Protocol",
-          "Overview: 4 Trụ Cột",
-          "1️⃣ Giải Giáp (Disarm Cancer Cells)",
-          "Ivermectin",
-          "Mebendazole (Fugacar)",
-          "2️⃣ Hỗ Trợ Gan (Liver Support)",
-          "3️⃣ Tăng Đề Kháng (Boost Immunity)",
-          "4️⃣ Chế Độ Ăn (Starve Cancer)",
-          "Xác Định Loại Nhiên Liệu",
-          "Chiến Lược Rotate",
-          "Tại Sao Protocol Này Hoạt Động?",
-          "Synergy của 4 Trụ Cột",
-          "Cảnh Báo & Lưu Ý / Warnings",
-          "Related",
-          "Protocol Components",
-          "Theory",
-          "Sources / Nguồn",
-          "Lifestyle"
+          "Ketogenic Diet",
+          "Trong Vault",
+          "Synthesis"
         ],
         "wikilinks": [
-          "Ketogenic Diet",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
           "Prolonged Fasting",
-          "Suramin",
-          "Thuyết Vi Sinh Nội Sinh",
+          "Ung Thư - Metabolic Protocol",
           "Y Tế Tự Nhiên"
         ],
         "mdlinks": [],
         "outlinks": [
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "health/Suramin.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Prolonged Fasting.md",
+          "health/Ung Thư - Metabolic Protocol.md",
           "health/Y Tế Tự Nhiên.md"
         ],
         "backlinks": [
-          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "index.md"
+          "health/Prolonged Fasting.md",
+          "health/Ung Thư - Metabolic Protocol.md"
         ],
-        "words": 1595,
-        "summary": "Hướng dẫn toàn diện về ung thư từ góc nhìn **chuyển hóa (metabolic)** — không phải đột biến gen, mà là **ti thể bị lỗi**. Bao gồm cơ chế, phòng ngừa, và protocol điều trị thay thế."
+        "words": 187,
+        "summary": "**Ketogenic Diet là chiến lược dinh dưỡng đưa cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism. Trong framework sức khỏe của vault, keto quan trọng vì nó đặt lại câu hỏi: bệnh tật là lỗi thuốc men, hay lỗi môi trường chuyển hóa?**"
       },
       {
         "path": "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
@@ -6809,6 +6930,40 @@
         ],
         "words": 375,
         "summary": "Đây là bản đồ tư duy cốt lõi để con người thoát khỏi sự kiểm soát của Ma trận, bảo vệ sức khỏe và nâng cấp nhận thức trong thời đại mới."
+      },
+      {
+        "path": "health/Prolonged Fasting.md",
+        "title": "Prolonged Fasting",
+        "domain": "health",
+        "tags": [
+          "fasting",
+          "health",
+          "metabolism"
+        ],
+        "aliases": [],
+        "headings": [
+          "Prolonged Fasting",
+          "Trong Vault",
+          "Cẩn Trọng",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Ketogenic Diet",
+          "Ung Thư - Metabolic Protocol",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/Ketogenic Diet.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Y Tế Tự Nhiên.md"
+        ],
+        "backlinks": [
+          "health/Ketogenic Diet.md",
+          "health/Ung Thư - Metabolic Protocol.md"
+        ],
+        "words": 217,
+        "summary": "**Prolonged Fasting là nhịn ăn kéo dài có chủ đích, thường từ 24 giờ trở lên, nhằm tạo áp lực chuyển hóa: giảm insulin, kích hoạt autophagy, tăng ketone và buộc cơ thể chuyển từ chế độ tiêu thụ sang chế độ tái chế.**"
       },
       {
         "path": "health/Suy Thận.md",
@@ -6983,6 +7138,91 @@
         "summary": "**Individuation** là khái niệm trung tâm trong Tâm Lý Học Jung: quá trình trở thành một cá thể toàn vẹn, tích hợp ý thức và vô thức."
       },
       {
+        "path": "mental-models/Nhị Nguyên.md",
+        "title": "Nhị Nguyên (Duality)",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model"
+        ],
+        "aliases": [
+          "Binary Thinking",
+          "Duality"
+        ],
+        "headings": [
+          "Nhị Nguyên (Duality)",
+          "Triết học / Philosophy",
+          "Phương Đông: Âm Dương (陰陽)",
+          "Phương Tây: Good vs Evil",
+          "Công cụ Kiểm soát / Control Tool",
+          "Divide and Conquer / Chia để Trị",
+          "False Dichotomies / Lưỡng nan Giả tạo",
+          "Vượt qua Nhị Nguyên / Transcending Duality",
+          "Tư duy Tam nguyên / Triadic Thinking",
+          "[[Monad]] - Return to Unity / Trở về Nhất Thể",
+          "Shadow Integration ([[Tâm Lý Học Jung]])",
+          "Ứng dụng / Applications",
+          "Nhận diện Manipulation",
+          "Thoát Polarization / Escape Polarization",
+          "Related",
+          "Mental Models",
+          "Philosophy / Triết học",
+          "Control / Kiểm soát"
+        ],
+        "wikilinks": [
+          "Chia Tách Bởi Nhị Nguyên",
+          "Elite",
+          "Gnosis",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Monad",
+          "Sự Nhất Thể",
+          "Tâm bất Biến",
+          "Tâm Lý Học Jung"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+          "mental-models/Tâm bất Biến.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        ],
+        "backlinks": [
+          "esoterica/Biểu Tượng Baphomet.md",
+          "esoterica/Cabal.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Monad.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Sacred Geometry.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "esoterica/Đạo.md",
+          "index.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+          "mental-models/Individuation.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
+        ],
+        "words": 461,
+        "summary": "**Nhị Nguyên** là nguyên lý phân cực: tốt/xấu, sáng/tối, âm/dương. Nền tảng cho thế giới vật chất, nhưng cũng là công cụ chia rẽ và cai trị."
+      },
+      {
         "path": "mental-models/Trí Tuệ.md",
         "title": "Trí Tuệ",
         "domain": "mental-models",
@@ -7061,90 +7301,6 @@
         ],
         "words": 403,
         "summary": "**Trí tuệ** là khả năng nhìn thấu bản chất, hiểu quy luật vận hành dài hạn, và có sự hài hòa giữa kiến thức với đạo đức. Khác biệt căn bản với thông minh."
-      },
-      {
-        "path": "mental-models/Nhị Nguyên.md",
-        "title": "Nhị Nguyên (Duality)",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model"
-        ],
-        "aliases": [
-          "Binary Thinking",
-          "Duality"
-        ],
-        "headings": [
-          "Nhị Nguyên (Duality)",
-          "Triết học / Philosophy",
-          "Phương Đông: Âm Dương (陰陽)",
-          "Phương Tây: Good vs Evil",
-          "Công cụ Kiểm soát / Control Tool",
-          "Divide and Conquer / Chia để Trị",
-          "False Dichotomies / Lưỡng nan Giả tạo",
-          "Vượt qua Nhị Nguyên / Transcending Duality",
-          "Tư duy Tam nguyên / Triadic Thinking",
-          "[[Monad]] - Return to Unity / Trở về Nhất Thể",
-          "Shadow Integration ([[Tâm Lý Học Jung]])",
-          "Ứng dụng / Applications",
-          "Nhận diện Manipulation",
-          "Thoát Polarization / Escape Polarization",
-          "Related",
-          "Mental Models",
-          "Philosophy / Triết học",
-          "Control / Kiểm soát"
-        ],
-        "wikilinks": [
-          "Chia Tách Bởi Nhị Nguyên",
-          "Elite",
-          "Gnosis",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Monad",
-          "Sự Nhất Thể",
-          "Tâm bất Biến",
-          "Tâm Lý Học Jung"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-          "mental-models/Tâm bất Biến.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-        ],
-        "backlinks": [
-          "esoterica/Biểu Tượng Baphomet.md",
-          "esoterica/Cabal.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Monad.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "index.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-          "mental-models/Individuation.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
-        ],
-        "words": 461,
-        "summary": "**Nhị Nguyên** là nguyên lý phân cực: tốt/xấu, sáng/tối, âm/dương. Nền tảng cho thế giới vật chất, nhưng cũng là công cụ chia rẽ và cai trị."
       },
       {
         "path": "mental-models/Vô Thức Tập Thể.md",
@@ -7820,7 +7976,7 @@
           "Kiểm Soát Tâm Trí",
           "Ma Trận",
           "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Mental Model - Kiến Trúc Bộ Khóa Ma Trận",
+          "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
           "Một Đời Phù Vân",
           "Nhị Nguyên",
           "Nikola Tesla",
@@ -7837,6 +7993,7 @@
           "esoterica/Gnosis.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Ma Trận.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
           "esoterica/Một Đời Phù Vân.md",
           "esoterica/Sự Nhất Thể.md",
           "esoterica/Tinh Khí Thần.md",
@@ -8909,6 +9066,7 @@
           "politics-conspiracy/MindGeek.md",
           "politics-conspiracy/Mudflood.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "politics-conspiracy/Operation Paperclip.md",
           "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
           "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
           "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
@@ -9443,72 +9601,6 @@
         "summary": "Bản dịch của tài liệu \"Masonic Creed\" được cho là của John D. Rockefeller (thập niên 1880), phác họa một kế hoạch thống trị toàn cầu thông qua việc tạo ra một \"Đế chế của những ảo tưởng\"."
       },
       {
-        "path": "politics-conspiracy/Mudflood.md",
-        "title": "Mudflood (Đại Hồng Thủy Bùn)",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "politics-conspiracy"
-        ],
-        "aliases": [],
-        "headings": [
-          "Mudflood (Đại Hồng Thủy Bùn)",
-          "Bằng chứng kiến trúc",
-          "Buried First Floors",
-          "Star Forts bị chôn",
-          "World's Fair Buildings",
-          "Giả thuyết về nguyên nhân",
-          "1. Thảm họa tự nhiên",
-          "2. Vũ khí công nghệ",
-          "3. Combination",
-          "Timeline đề xuất",
-          "Bằng chứng bổ sung",
-          "Orphan Trains (1854-1929)",
-          "Missing population",
-          "Old photos",
-          "Implications",
-          "Related",
-          "Tartaria & Lost History",
-          "Công nghệ & Năng lượng",
-          "Che giấu & Kiểm soát"
-        ],
-        "wikilinks": [
-          "Bức Tường Bang",
-          "Elite",
-          "Khoa Học Xét Lại",
-          "Nikola Tesla",
-          "Năng Lượng Aether",
-          "Tartaria",
-          "Tartaria và Vạn Lý Trường Thành",
-          "Theo Dấu Tartaria  - Tác Giả Kan",
-          "Vũ Khí Năng Lượng Định Hướng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-          "politics-conspiracy/Bức Tường Băng.md",
-          "politics-conspiracy/Elite.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md",
-          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-        ],
-        "backlinks": [
-          "esoterica/Annunaki.md",
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "politics-conspiracy/Bức Tường Băng.md",
-          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
-        ],
-        "words": 551,
-        "summary": "**Mudflood** là giả thuyết về một (hoặc nhiều) thảm họa toàn cầu xảy ra cách đây vài trăm năm, đã chôn vùi nhiều công trình kiến trúc cổ đại dưới lớp bùn dày, đồng thời xóa sổ (hoặc reset) nền văn minh tiên tiến Tartaria."
-      },
-      {
         "path": "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "title": "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
         "domain": "politics-conspiracy",
@@ -9597,11 +9689,166 @@
           "index.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "politics-conspiracy/Operation Paperclip.md",
           "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
           "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
         ],
         "words": 2353,
         "summary": "**NASA**, **Disney**, và **Hollywood** thường được xem như ba ngành riêng biệt: khoa học, giải trí trẻ em, và phim người lớn. Nhưng khi truy về nguồn gốc, bạn sẽ thấy **chúng đều về một mối** — cùng mạng lưới, cùng mục đích, cùng phép thuật."
+      },
+      {
+        "path": "politics-conspiracy/Mudflood.md",
+        "title": "Mudflood (Đại Hồng Thủy Bùn)",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "politics-conspiracy"
+        ],
+        "aliases": [],
+        "headings": [
+          "Mudflood (Đại Hồng Thủy Bùn)",
+          "Bằng chứng kiến trúc",
+          "Buried First Floors",
+          "Star Forts bị chôn",
+          "World's Fair Buildings",
+          "Giả thuyết về nguyên nhân",
+          "1. Thảm họa tự nhiên",
+          "2. Vũ khí công nghệ",
+          "3. Combination",
+          "Timeline đề xuất",
+          "Bằng chứng bổ sung",
+          "Orphan Trains (1854-1929)",
+          "Missing population",
+          "Old photos",
+          "Implications",
+          "Related",
+          "Tartaria & Lost History",
+          "Công nghệ & Năng lượng",
+          "Che giấu & Kiểm soát"
+        ],
+        "wikilinks": [
+          "Bức Tường Bang",
+          "Elite",
+          "Khoa Học Xét Lại",
+          "Nikola Tesla",
+          "Năng Lượng Aether",
+          "Tartaria",
+          "Tartaria và Vạn Lý Trường Thành",
+          "Theo Dấu Tartaria  - Tác Giả Kan",
+          "Vũ Khí Năng Lượng Định Hướng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
+          "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/Elite.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Năng Lượng Aether.md",
+          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+        ],
+        "backlinks": [
+          "esoterica/Annunaki.md",
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
+        ],
+        "words": 551,
+        "summary": "**Mudflood** là giả thuyết về một (hoặc nhiều) thảm họa toàn cầu xảy ra cách đây vài trăm năm, đã chôn vùi nhiều công trình kiến trúc cổ đại dưới lớp bùn dày, đồng thời xóa sổ (hoặc reset) nền văn minh tiên tiến Tartaria."
+      },
+      {
+        "path": "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "title": "Nam Cực - Bí Mật Được Canh Giữ",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "antarctica",
+          "conspiracy",
+          "elite",
+          "flat-earth",
+          "nazi"
+        ],
+        "aliases": [],
+        "headings": [
+          "Nam Cực — Bí Mật Được Canh Giữ / The Guarded Secret",
+          "Timeline: Từ Nazi Đến Hiệp Ước / From Nazis to Treaty",
+          "I. Nazi Antarctic Expedition (1938-1939)",
+          "Neuschwabenland — Vùng Đất Nazi Ở Nam Cực",
+          "Base 211 — Căn Cứ Bí Mật?",
+          "II. Operation Paperclip (1945-1959)",
+          "III. Operation Highjump (1946-1947)",
+          "Chiến Dịch Quân Sự Lớn Nhất Tới Antarctica",
+          "Tại Sao Rút Sớm?",
+          "Admiral Byrd's Mysterious Statements",
+          "\"Land Beyond the Pole\" — Ông Nói Gì?",
+          "IV. Antarctic Treaty (1959)",
+          "12 Quốc Gia Ký Kết",
+          "The Big Question",
+          "Treaty Cấm Gì?",
+          "Flat Earth Perspective",
+          "V. Operation Fishbowl (1962)",
+          "Tên \"Fishbowl\" Là Trùng Hợp?",
+          "VI. Restrictions: Tại Sao Civilians Bị Cấm?",
+          "Official Rules",
+          "Questions",
+          "VII. Connections: Tất Cả Liên Kết",
+          "Pattern Recognition",
+          "VIII. Theories: Họ Đang Giấu Gì?",
+          "Theory 1: Flat Earth Edge",
+          "Theory 2: Nazi Survival",
+          "Theory 3: Ancient Civilization",
+          "Theory 4: Resources",
+          "Theory 5: Combination",
+          "Core Insight / Insight Cốt Lõi",
+          "Vault Connections",
+          "Related Notes",
+          "Elite & Control",
+          "History",
+          "Sources",
+          "Official/Historical",
+          "Research",
+          "Analysis"
+        ],
+        "wikilinks": [
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Bức Tường Băng",
+          "Cabal",
+          "Elite",
+          "Khoa Học Xét Lại",
+          "Kiểm Soát Tâm Trí",
+          "Mudflood",
+          "Mô Hình Địa Tâm",
+          "Operation Paperclip",
+          "Tartaria",
+          "Thuyết Trái Đất Phẳng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Cabal.md",
+          "esoterica/Tartaria.md",
+          "mental-models/Mô Hình Địa Tâm.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Mudflood.md",
+          "politics-conspiracy/Operation Paperclip.md",
+          "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/Operation Paperclip.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
+        ],
+        "words": 1851,
+        "summary": "**Antarctica** là lục địa duy nhất trên thế giới mà **civilians bị cấm tự do khám phá**. Không có quốc gia nào sở hữu, nhưng tất cả các cường quốc đều canh giữ. Tại sao?"
       },
       {
         "path": "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
@@ -9702,92 +9949,6 @@
         ],
         "words": 2196,
         "summary": "Lịch sử dạy rằng **Thế chiến I và II** là cuộc đấu tranh giữa thiện và ác, tự do và độc tài. Nhưng nếu **Nhị Nguyên** (hai phe đối đầu) chỉ là **vỏ bọc** cho một mục đích khác?"
-      },
-      {
-        "path": "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "title": "Nam Cực - Bí Mật Được Canh Giữ",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "antarctica",
-          "conspiracy",
-          "elite",
-          "flat-earth",
-          "nazi"
-        ],
-        "aliases": [],
-        "headings": [
-          "Nam Cực — Bí Mật Được Canh Giữ / The Guarded Secret",
-          "Timeline: Từ Nazi Đến Hiệp Ước / From Nazis to Treaty",
-          "I. Nazi Antarctic Expedition (1938-1939)",
-          "Neuschwabenland — Vùng Đất Nazi Ở Nam Cực",
-          "Base 211 — Căn Cứ Bí Mật?",
-          "II. Operation Paperclip (1945-1959)",
-          "III. Operation Highjump (1946-1947)",
-          "Chiến Dịch Quân Sự Lớn Nhất Tới Antarctica",
-          "Tại Sao Rút Sớm?",
-          "Admiral Byrd's Mysterious Statements",
-          "\"Land Beyond the Pole\" — Ông Nói Gì?",
-          "IV. Antarctic Treaty (1959)",
-          "12 Quốc Gia Ký Kết",
-          "The Big Question",
-          "Treaty Cấm Gì?",
-          "Flat Earth Perspective",
-          "V. Operation Fishbowl (1962)",
-          "Tên \"Fishbowl\" Là Trùng Hợp?",
-          "VI. Restrictions: Tại Sao Civilians Bị Cấm?",
-          "Official Rules",
-          "Questions",
-          "VII. Connections: Tất Cả Liên Kết",
-          "Pattern Recognition",
-          "VIII. Theories: Họ Đang Giấu Gì?",
-          "Theory 1: Flat Earth Edge",
-          "Theory 2: Nazi Survival",
-          "Theory 3: Ancient Civilization",
-          "Theory 4: Resources",
-          "Theory 5: Combination",
-          "Core Insight / Insight Cốt Lõi",
-          "Vault Connections",
-          "Related Notes",
-          "Elite & Control",
-          "History",
-          "Sources",
-          "Official/Historical",
-          "Research",
-          "Analysis"
-        ],
-        "wikilinks": [
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Bức Tường Băng",
-          "Cabal",
-          "Elite",
-          "Khoa Học Xét Lại",
-          "Kiểm Soát Tâm Trí",
-          "Mudflood",
-          "Mô Hình Địa Tâm",
-          "Operation Paperclip",
-          "Tartaria",
-          "Thuyết Trái Đất Phẳng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Cabal.md",
-          "esoterica/Tartaria.md",
-          "mental-models/Mô Hình Địa Tâm.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Bức Tường Băng.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Mudflood.md",
-          "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "politics-conspiracy/Bức Tường Băng.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
-        ],
-        "words": 1851,
-        "summary": "**Antarctica** là lục địa duy nhất trên thế giới mà **civilians bị cấm tự do khám phá**. Không có quốc gia nào sở hữu, nhưng tất cả các cường quốc đều canh giữ. Tại sao?"
       },
       {
         "path": "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
@@ -10271,6 +10432,40 @@
         "summary": "*Tags: #source-note #cosmology #earth-magnetism #aviation #conspiracy*"
       },
       {
+        "path": "politics-conspiracy/Operation Paperclip.md",
+        "title": "Operation Paperclip",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "history",
+          "politics-conspiracy",
+          "science-tech"
+        ],
+        "aliases": [],
+        "headings": [
+          "Operation Paperclip",
+          "Trong Vault",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Elite",
+          "Khoa Học Xét Lại",
+          "Nam Cực - Bí Mật Được Canh Giữ"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md"
+        ],
+        "words": 214,
+        "summary": "**Operation Paperclip là chương trình hậu Thế chiến II đưa hàng nghìn nhà khoa học, kỹ sư và chuyên gia Đức Quốc Xã sang Mỹ, đặc biệt trong các lĩnh vực tên lửa, hàng không, vũ khí, y sinh và tình báo.**"
+      },
+      {
         "path": "politics-conspiracy/Sự thật về ma túy.md",
         "title": "Sự thật về ma túy",
         "domain": "politics-conspiracy",
@@ -10663,6 +10858,7 @@
           "politics-conspiracy/Bức Tường Băng.md",
           "politics-conspiracy/Mudflood.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "politics-conspiracy/Operation Paperclip.md",
           "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
           "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
@@ -11778,7 +11974,9 @@
         "esoterica/Tà Linh.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
         "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "esoterica/Tứ Linh.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "esoterica/Đạo.md",
         "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
@@ -12168,6 +12366,7 @@
         "politics-conspiracy/MindGeek.md",
         "politics-conspiracy/Mudflood.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
@@ -12426,6 +12625,7 @@
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/Mudflood.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
@@ -12537,6 +12737,108 @@
       "summary": "**Báo cáo 2030** (Agenda 2030 / The Great Reset) phác thảo lộ trình chuyển đổi toàn cầu về kinh tế, chính trị, y tế và xã hội. Dưới góc nhìn Khoa Học Xét Lại, đây không chỉ là mục tiêu phát triển bền vững, mà là kế hoạch tái cấu trúc nhân loại."
     },
     {
+      "path": "esoterica/Gnosis.md",
+      "title": "Gnosis (Ngộ Đạo)",
+      "domain": "esoterica",
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "gnosis",
+        "matrix"
+      ],
+      "aliases": [
+        "Direct Knowing",
+        "Gnosis",
+        "Gnosticism",
+        "Ngộ Đạo"
+      ],
+      "headings": [
+        "Gnosis (Ngộ Đạo)",
+        "1. Gnosis Là Gì?",
+        "2. Gnosis Không Cần Trung Gian",
+        "3. Divine Spark: Tia Lửa Bị Mắc Kẹt Trong Vật Chất",
+        "4. Demiurge Và Ma Trận",
+        "5. Gnosis Và Luân Hồi",
+        "6. Gnosis Khác Với Đức Tin Như Thế Nào?",
+        "7. Kinh Sách Bị Đàn Áp Và Nag Hammadi",
+        "8. Gnosis Trong Văn Hóa Hiện Đại",
+        "9. Gnosis Và Individuation",
+        "10. Pseudo-Gnosis: Cạm Bẫy Của Người “Biết”",
+        "11. Thực Hành Gnosis",
+        "12. Synthesis: Gnosis Là Lối Thoát Khỏi Ma Trận Bên Trong",
+        "Related",
+        "Source / Nguồn",
+        "Matrix / Escape",
+        "Integration"
+      ],
+      "wikilinks": [
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Individuation",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Luân Hồi",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Monad",
+        "Nghịch Lý Của Hiểu Biết",
+        "Sự Nhất Thể",
+        "Tuyến Tùng",
+        "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "health/Tuyến Tùng.md",
+        "mental-models/Individuation.md",
+        "mental-models/Vô Thức Tập Thể.md"
+      ],
+      "backlinks": [
+        "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+        "esoterica/Atula.md",
+        "esoterica/Chakra.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Một Đời Phù Vân.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Nhân Quả.md",
+        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Saturn Cube.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+        "esoterica/Thánh Issa.md",
+        "esoterica/Tà Linh.md",
+        "esoterica/Đạo.md",
+        "health/Tuyến Tùng.md",
+        "index.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nhị Nguyên.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "words": 1883,
+      "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
+    },
+    {
       "path": "mental-models/Individuation.md",
       "title": "Individuation",
       "domain": "mental-models",
@@ -12633,107 +12935,6 @@
       "summary": "**Individuation** là khái niệm trung tâm trong Tâm Lý Học Jung: quá trình trở thành một cá thể toàn vẹn, tích hợp ý thức và vô thức."
     },
     {
-      "path": "esoterica/Gnosis.md",
-      "title": "Gnosis (Ngộ Đạo)",
-      "domain": "esoterica",
-      "tags": [
-        "consciousness",
-        "esoterica",
-        "gnosis",
-        "matrix"
-      ],
-      "aliases": [
-        "Direct Knowing",
-        "Gnosis",
-        "Gnosticism",
-        "Ngộ Đạo"
-      ],
-      "headings": [
-        "Gnosis (Ngộ Đạo)",
-        "1. Gnosis Là Gì?",
-        "2. Gnosis Không Cần Trung Gian",
-        "3. Divine Spark: Tia Lửa Bị Mắc Kẹt Trong Vật Chất",
-        "4. Demiurge Và Ma Trận",
-        "5. Gnosis Và Luân Hồi",
-        "6. Gnosis Khác Với Đức Tin Như Thế Nào?",
-        "7. Kinh Sách Bị Đàn Áp Và Nag Hammadi",
-        "8. Gnosis Trong Văn Hóa Hiện Đại",
-        "9. Gnosis Và Individuation",
-        "10. Pseudo-Gnosis: Cạm Bẫy Của Người “Biết”",
-        "11. Thực Hành Gnosis",
-        "12. Synthesis: Gnosis Là Lối Thoát Khỏi Ma Trận Bên Trong",
-        "Related",
-        "Source / Nguồn",
-        "Matrix / Escape",
-        "Integration"
-      ],
-      "wikilinks": [
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Individuation",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "Luân Hồi",
-        "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "Monad",
-        "Nghịch Lý Của Hiểu Biết",
-        "Sự Nhất Thể",
-        "Tuyến Tùng",
-        "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
-        "Vô Thức Tập Thể"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-        "health/Tuyến Tùng.md",
-        "mental-models/Individuation.md",
-        "mental-models/Vô Thức Tập Thể.md"
-      ],
-      "backlinks": [
-        "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-        "esoterica/Atula.md",
-        "esoterica/Chakra.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Một Đời Phù Vân.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Nhân Quả.md",
-        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-        "esoterica/Sacred Geometry.md",
-        "esoterica/Saturn Cube.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "esoterica/Thánh Issa.md",
-        "esoterica/Tà Linh.md",
-        "health/Tuyến Tùng.md",
-        "index.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Individuation.md",
-        "mental-models/Nhị Nguyên.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 1883,
-      "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
-    },
-    {
       "path": "politics-conspiracy/Kiểm Soát Tâm Trí.md",
       "title": "Kiểm Soát Tâm Trí (Mind Control)",
       "domain": "politics-conspiracy",
@@ -12827,6 +13028,89 @@
       "summary": "**Kiểm Soát Tâm Trí** là chiến lược của Elite nhằm lập trình nhận thức cộng đồng, biến con người thành NPCs phục vụ hệ thống."
     },
     {
+      "path": "health/Y Tế Tự Nhiên.md",
+      "title": "Y Tế Tự Nhiên",
+      "domain": "health",
+      "tags": [
+        "health"
+      ],
+      "aliases": [],
+      "headings": [
+        "Y Tế Tự Nhiên (Anti-Matrix Health)",
+        "Nguyên lý Cốt lõi / Core Principles",
+        "1. Kiềm hóa Cơ thể / Alkalize the Body",
+        "2. Dinh dưỡng Nguyên bản / Whole Foods",
+        "3. Máu Huyết Lưu thông / Blood Circulation",
+        "4. Từ bỏ Phụ thuộc Tây Y / Reject Pharma Dependency",
+        "Sự thật Bị che giấu / Hidden Truths",
+        "Tiểu đường / Diabetes",
+        "Muối / Salt",
+        "Cao huyết áp / High Blood Pressure",
+        "Liệu pháp / Protocols",
+        "Morning / Evening Salt Protocol",
+        "Daily Detox",
+        "Related",
+        "Health / Sức khỏe",
+        "Matrix Connection",
+        "Mindset"
+      ],
+      "wikilinks": [
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
+        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "Plasma Quinton",
+        "Suy Thận",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Thuyết Vi Sinh Nội Sinh",
+        "Thuốc Hóa Dầu",
+        "Vận Chín, Người Kogi và Ma Trận Y Tế",
+        "Điều mà nền giáo dục và chính phủ không dạy bạn"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/Plasma Quinton.md",
+        "health/Suy Thận.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
+      ],
+      "backlinks": [
+        "esoterica/Chakra.md",
+        "esoterica/Kundalini.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "health/Bệnh Bạch Cầu.md",
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/Plasma Quinton.md",
+        "health/Prolonged Fasting.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Su That Ve Benh Dai Va Vac Xin.md",
+        "health/Suramin.md",
+        "health/Suy Thận.md",
+        "health/The China Study.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Ung Thư - Metabolic Protocol.md",
+        "health/Virus và Kiếp Tật Dịch.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "index.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
+      ],
+      "words": 495,
+      "summary": "**Y Tế Tự Nhiên** là các phương pháp chăm sóc sức khỏe thuận tự nhiên, đi ngược lại phác đồ Tây Y do ngành Dược kiểm soát."
+    },
+    {
       "path": "mental-models/Trí Tuệ.md",
       "title": "Trí Tuệ",
       "domain": "mental-models",
@@ -12907,87 +13191,6 @@
       "summary": "**Trí tuệ** là khả năng nhìn thấu bản chất, hiểu quy luật vận hành dài hạn, và có sự hài hòa giữa kiến thức với đạo đức. Khác biệt căn bản với thông minh."
     },
     {
-      "path": "health/Y Tế Tự Nhiên.md",
-      "title": "Y Tế Tự Nhiên",
-      "domain": "health",
-      "tags": [
-        "health"
-      ],
-      "aliases": [],
-      "headings": [
-        "Y Tế Tự Nhiên (Anti-Matrix Health)",
-        "Nguyên lý Cốt lõi / Core Principles",
-        "1. Kiềm hóa Cơ thể / Alkalize the Body",
-        "2. Dinh dưỡng Nguyên bản / Whole Foods",
-        "3. Máu Huyết Lưu thông / Blood Circulation",
-        "4. Từ bỏ Phụ thuộc Tây Y / Reject Pharma Dependency",
-        "Sự thật Bị che giấu / Hidden Truths",
-        "Tiểu đường / Diabetes",
-        "Muối / Salt",
-        "Cao huyết áp / High Blood Pressure",
-        "Liệu pháp / Protocols",
-        "Morning / Evening Salt Protocol",
-        "Daily Detox",
-        "Related",
-        "Health / Sức khỏe",
-        "Matrix Connection",
-        "Mindset"
-      ],
-      "wikilinks": [
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
-        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-        "Plasma Quinton",
-        "Suy Thận",
-        "Sợ hãi - Tham Lam – Cân bằng",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
-        "Vận Chín, Người Kogi và Ma Trận Y Tế",
-        "Điều mà nền giáo dục và chính phủ không dạy bạn"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
-        "health/Suy Thận.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
-      ],
-      "backlinks": [
-        "esoterica/Chakra.md",
-        "esoterica/Kundalini.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-        "health/Bệnh Bạch Cầu.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Suramin.md",
-        "health/Suy Thận.md",
-        "health/The China Study.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Virus và Kiếp Tật Dịch.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "index.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
-      ],
-      "words": 495,
-      "summary": "**Y Tế Tự Nhiên** là các phương pháp chăm sóc sức khỏe thuận tự nhiên, đi ngược lại phác đồ Tây Y do ngành Dược kiểm soát."
-    },
-    {
       "path": "mental-models/Nhị Nguyên.md",
       "title": "Nhị Nguyên (Duality)",
       "domain": "mental-models",
@@ -13058,6 +13261,7 @@
         "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
         "esoterica/Sự Nhất Thể.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
+        "esoterica/Đạo.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
@@ -13070,6 +13274,99 @@
       ],
       "words": 461,
       "summary": "**Nhị Nguyên** là nguyên lý phân cực: tốt/xấu, sáng/tối, âm/dương. Nền tảng cho thế giới vật chất, nhưng cũng là công cụ chia rẽ và cai trị."
+    },
+    {
+      "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+      "title": "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
+      "domain": "esoterica",
+      "tags": [
+        "awakening",
+        "energy",
+        "esoterica",
+        "gnosis",
+        "matrix",
+        "mental-model",
+        "truth"
+      ],
+      "aliases": [],
+      "headings": [
+        "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức",
+        "1. Hệ Thống \"Lồng Nhốt\" Đa Tầng (The Multi-Layered Cage)",
+        "2. Các Công Cụ Thao Túng Của Giới Elite",
+        "3. Lộ Trình Thăng Hoa & Giải Thoát (The Path of Sovereignty)",
+        "4. Kết Luận: Thời Đại Bảo Bình & Sự Nhất Thể",
+        "Related"
+      ],
+      "wikilinks": [
+        "Bức Tường Băng",
+        "Elite",
+        "Gematria",
+        "Gnosis",
+        "Kiểm Soát Tâm Trí",
+        "Ma Trận",
+        "Mental Model",
+        "Monad",
+        "Mudflood",
+        "Nguyên Mẫu",
+        "Nhị Nguyên",
+        "Năng Lượng Tình Dục",
+        "Quy Luật Trao Đổi Tâm Linh",
+        "René Quinton và Huyết Tương Biển",
+        "Saturn Cube",
+        "Sự Nhất Thể",
+        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+        "Thuốc Hóa Dầu",
+        "Thông Minh vs Trí Tuệ",
+        "Tinh Khí Thần",
+        "Trí Tuệ",
+        "Tuyến Tùng",
+        "Tà Linh",
+        "Tâm Bất Biến",
+        "Virus và Kiếp Tật Dịch",
+        "Vũ Khí Năng Lượng Định Hướng",
+        "Y Tế Tự Nhiên"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gematria.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Năng Lượng Tình Dục.md",
+        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+        "esoterica/Saturn Cube.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tinh Khí Thần.md",
+        "esoterica/Tà Linh.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Tuyến Tùng.md",
+        "health/Virus và Kiếp Tật Dịch.md",
+        "health/Y Tế Tự Nhiên.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Trí Tuệ.md",
+        "mental-models/Tâm bất Biến.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+      ],
+      "backlinks": [
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Một Đời Phù Vân.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Mental Model.md"
+      ],
+      "words": 662,
+      "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
     },
     {
       "path": "esoterica/Tartaria.md",
@@ -13251,97 +13548,6 @@
       "summary": "Bài phân tích này bóc trần bản chất thực sự của ngành công nghiệp khiêu dâm dưới góc độ năng lượng tâm linh và sự thao túng nhận thức."
     },
     {
-      "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-      "title": "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
-      "domain": "esoterica",
-      "tags": [
-        "awakening",
-        "energy",
-        "esoterica",
-        "gnosis",
-        "matrix",
-        "mental-model",
-        "truth"
-      ],
-      "aliases": [],
-      "headings": [
-        "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức",
-        "1. Hệ Thống \"Lồng Nhốt\" Đa Tầng (The Multi-Layered Cage)",
-        "2. Các Công Cụ Thao Túng Của Giới Elite",
-        "3. Lộ Trình Thăng Hoa & Giải Thoát (The Path of Sovereignty)",
-        "4. Kết Luận: Thời Đại Bảo Bình & Sự Nhất Thể",
-        "Related"
-      ],
-      "wikilinks": [
-        "Bức Tường Băng",
-        "Elite",
-        "Gematria",
-        "Gnosis",
-        "Kiểm Soát Tâm Trí",
-        "Ma Trận",
-        "Mental Model",
-        "Monad",
-        "Mudflood",
-        "Nguyên Mẫu",
-        "Nhị Nguyên",
-        "Năng Lượng Tình Dục",
-        "Quy Luật Trao Đổi Tâm Linh",
-        "René Quinton và Huyết Tương Biển",
-        "Saturn Cube",
-        "Sự Nhất Thể",
-        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-        "Thuốc Hóa Dầu",
-        "Thông Minh vs Trí Tuệ",
-        "Tinh Khí Thần",
-        "Trí Tuệ",
-        "Tuyến Tùng",
-        "Tà Linh",
-        "Tâm Bất Biến",
-        "Virus và Kiếp Tật Dịch",
-        "Vũ Khí Năng Lượng Định Hướng",
-        "Y Tế Tự Nhiên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Gematria.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Năng Lượng Tình Dục.md",
-        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-        "esoterica/Saturn Cube.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Tinh Khí Thần.md",
-        "esoterica/Tà Linh.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tuyến Tùng.md",
-        "health/Virus và Kiếp Tật Dịch.md",
-        "health/Y Tế Tự Nhiên.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Trí Tuệ.md",
-        "mental-models/Tâm bất Biến.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-      ],
-      "backlinks": [
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "mental-models/Mental Model.md"
-      ],
-      "words": 662,
-      "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
-    },
-    {
       "path": "esoterica/Sự Nhất Thể.md",
       "title": "Sự Nhất Thể (Oneness)",
       "domain": "esoterica",
@@ -13411,6 +13617,7 @@
         "esoterica/Thánh Issa.md",
         "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
+        "esoterica/Đạo.md",
         "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
@@ -14421,34 +14628,34 @@
   "topTags": [
     [
       "esoterica",
-      77
+      79
+    ],
+    [
+      "health",
+      27
     ],
     [
       "mental-model",
       26
     ],
     [
-      "health",
-      25
-    ],
-    [
       "politics-conspiracy",
-      20
+      21
     ],
     [
       "science-tech",
-      19
+      20
     ],
     [
       "source-note",
       16
     ],
     [
-      "psychology",
-      11
+      "consciousness",
+      12
     ],
     [
-      "consciousness",
+      "psychology",
       11
     ],
     [
@@ -14492,15 +14699,15 @@
       5
     ],
     [
+      "philosophy",
+      5
+    ],
+    [
       "awakening",
       4
     ],
     [
       "flat-earth",
-      4
-    ],
-    [
-      "philosophy",
       4
     ],
     [
@@ -14536,7 +14743,15 @@
       3
     ],
     [
+      "history",
+      3
+    ],
+    [
       "tartaria",
+      3
+    ],
+    [
+      "cancer",
       3
     ],
     [
@@ -14548,10 +14763,6 @@
       2
     ],
     [
-      "history",
-      2
-    ],
-    [
       "feng-shui",
       2
     ],
@@ -14560,7 +14771,11 @@
       2
     ],
     [
-      "cancer",
+      "symbolism",
+      2
+    ],
+    [
+      "metabolism",
       2
     ],
     [
@@ -14724,6 +14939,10 @@
       1
     ],
     [
+      "vietnamese-culture",
+      1
+    ],
+    [
       "immune-system",
       1
     ],
@@ -14749,6 +14968,10 @@
     ],
     [
       "prophecy",
+      1
+    ],
+    [
+      "fasting",
       1
     ],
     [
@@ -14802,58 +15025,9 @@
     [
       "kogi",
       1
-    ],
-    [
-      "pineal-gland",
-      1
-    ],
-    [
-      "van-chin",
-      1
-    ],
-    [
-      "alternative-medicine",
-      1
-    ],
-    [
-      "sodium-ion",
-      1
     ]
   ],
-  "brokenLinks": [
-    {
-      "source": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-      "target": "Đạo"
-    },
-    {
-      "source": "esoterica/Luân Hồi.md",
-      "target": "Tứ Linh"
-    },
-    {
-      "source": "esoterica/Một Đời Phù Vân.md",
-      "target": "Mental Model - Kiến Trúc Bộ Khóa Ma Trận"
-    },
-    {
-      "source": "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-      "target": "Loosh - Nang Lu?ng Thu Ho?ch T? Con Ngu?i"
-    },
-    {
-      "source": "health/Ung Thư - Metabolic Protocol.md",
-      "target": "Ketogenic Diet"
-    },
-    {
-      "source": "health/Ung Thư - Metabolic Protocol.md",
-      "target": "Prolonged Fasting"
-    },
-    {
-      "source": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-      "target": "Mental Model - Kiến Trúc Bộ Khóa Ma Trận"
-    },
-    {
-      "source": "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-      "target": "Operation Paperclip"
-    }
-  ],
+  "brokenLinks": [],
   "notes": {
     "README.md": {
       "path": "README.md",
@@ -15949,6 +16123,7 @@
         "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
         "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
         "esoterica/Tà Linh.md",
+        "esoterica/Đạo.md",
         "mental-models/Individuation.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Thông Minh.md",
@@ -16719,6 +16894,7 @@
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
         "esoterica/Thánh Issa.md",
         "esoterica/Tà Linh.md",
+        "esoterica/Đạo.md",
         "health/Tuyến Tùng.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
@@ -17266,6 +17442,7 @@
         "esoterica/Phong Thủy.md",
         "esoterica/Tartaria.md",
         "esoterica/Thành Cổ Loa.md",
+        "esoterica/Tứ Linh.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
         "science-tech/Năng Lượng Aether.md",
         "science-tech/Tần Số Schumann.md"
@@ -17355,6 +17532,7 @@
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
+        "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
         "index.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -17412,6 +17590,7 @@
         "esoterica/Monad.md",
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
         "esoterica/Nhân Quả.md",
+        "esoterica/Tứ Linh.md",
         "esoterica/Vũ Trụ Học Phật Giáo.md",
         "mental-models/Nhị Nguyên.md"
       ],
@@ -17427,6 +17606,7 @@
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
         "esoterica/Nhân Quả.md",
         "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+        "esoterica/Tứ Linh.md",
         "esoterica/Vũ Trụ Học Phật Giáo.md",
         "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
         "mental-models/Tâm bất Biến.md"
@@ -17799,7 +17979,9 @@
         "esoterica/Tà Linh.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
         "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "esoterica/Tứ Linh.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "esoterica/Đạo.md",
         "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
@@ -17982,8 +18164,10 @@
       "backlinks": [
         "esoterica/Ma Trận.md",
         "esoterica/Monad.md",
+        "esoterica/Một Đời Phù Vân.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Mental Model.md"
       ],
       "words": 662,
@@ -18206,7 +18390,7 @@
         "Luân Hồi",
         "Ma Trận",
         "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "Mental Model - Kiến Trúc Bộ Khóa Ma Trận",
+        "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
         "Nguyên Mẫu",
         "Nhân Quả",
         "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
@@ -18225,6 +18409,7 @@
         "esoterica/Luân Hồi.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
         "esoterica/Nhân Quả.md",
         "esoterica/Sự Nhất Thể.md",
@@ -18435,6 +18620,7 @@
         "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
         "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
+        "esoterica/Tứ Linh.md",
         "esoterica/Vũ Trụ Học Phật Giáo.md",
         "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
         "mental-models/Trí Tuệ.md",
@@ -19135,12 +19321,13 @@
         "Elite",
         "Khoa Học Xét Lại",
         "Kiểm Soát Tâm Trí",
-        "Loosh - Nang Lu?ng Thu Ho?ch T? Con Ngu?i",
+        "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
         "Ma Trận",
         "Word Magic - Ngôn Ngữ Của Phù Thủy"
       ],
       "mdlinks": [],
       "outlinks": [
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Ma Trận.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "politics-conspiracy/Elite.md",
@@ -19151,7 +19338,7 @@
         "index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md"
       ],
-      "words": 2413,
+      "words": 2407,
       "summary": "**\"The dose makes the poison.\"** — Paracelsus"
     },
     "esoterica/Saturn Cube.md": {
@@ -19373,6 +19560,7 @@
         "esoterica/Thánh Issa.md",
         "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
+        "esoterica/Đạo.md",
         "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
@@ -20161,6 +20349,40 @@
       "words": 2469,
       "summary": "*What Is the Point of Existence — Or Is the Question Already Wrong?*"
     },
+    "esoterica/Tứ Linh.md": {
+      "path": "esoterica/Tứ Linh.md",
+      "title": "Tứ Linh",
+      "domain": "esoterica",
+      "tags": [
+        "esoterica",
+        "symbolism",
+        "vietnamese-culture"
+      ],
+      "aliases": [],
+      "headings": [
+        "Tứ Linh",
+        "Trong Vault",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "Long Mạch",
+        "Luân Hồi",
+        "Ma Trận",
+        "Nhân Quả"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Long Mạch.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Nhân Quả.md"
+      ],
+      "backlinks": [
+        "esoterica/Luân Hồi.md"
+      ],
+      "words": 187,
+      "summary": "**Tứ Linh gồm Long, Lân, Quy, Phụng: bốn archetype linh vật trong văn hóa Á Đông, đại diện cho quyền lực trời đất, đạo đức vương quyền, trường thọ, tái sinh và trật tự vũ trụ.**"
+    },
     "esoterica/Vũ Trụ Học Phật Giáo.md": {
       "path": "esoterica/Vũ Trụ Học Phật Giáo.md",
       "title": "Vũ Trụ Học Phật Giáo",
@@ -20355,6 +20577,40 @@
       ],
       "words": 3371,
       "summary": "**\"Can you spell your name?\"**"
+    },
+    "esoterica/Đạo.md": {
+      "path": "esoterica/Đạo.md",
+      "title": "Đạo",
+      "domain": "esoterica",
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "philosophy"
+      ],
+      "aliases": [],
+      "headings": [
+        "Đạo",
+        "Trong Vault",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "Gnosis",
+        "Ma Trận",
+        "Nhị Nguyên",
+        "Sự Nhất Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Sự Nhất Thể.md",
+        "mental-models/Nhị Nguyên.md"
+      ],
+      "backlinks": [
+        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md"
+      ],
+      "words": 201,
+      "summary": "**Đạo không phải một giáo điều để tin. Đạo là dòng vận hành tự nhiên phía sau mọi hình tướng: trước tên gọi, trước hệ thống, trước cả ý niệm đúng sai.**"
     },
     "health/Bệnh Bạch Cầu.md": {
       "path": "health/Bệnh Bạch Cầu.md",
@@ -20599,6 +20855,39 @@
       ],
       "words": 338,
       "summary": "**Hệ Tiêu Hóa** (đặc biệt ruột) được coi là \"bộ não thứ hai\" vì chứa mạng lưới thần kinh phức tạp (Enteric Nervous System) ảnh hưởng trực tiếp đến tâm trí và cảm xúc."
+    },
+    "health/Ketogenic Diet.md": {
+      "path": "health/Ketogenic Diet.md",
+      "title": "Ketogenic Diet",
+      "domain": "health",
+      "tags": [
+        "cancer",
+        "health",
+        "metabolism"
+      ],
+      "aliases": [],
+      "headings": [
+        "Ketogenic Diet",
+        "Trong Vault",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "Prolonged Fasting",
+        "Ung Thư - Metabolic Protocol",
+        "Y Tế Tự Nhiên"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "health/Prolonged Fasting.md",
+        "health/Ung Thư - Metabolic Protocol.md",
+        "health/Y Tế Tự Nhiên.md"
+      ],
+      "backlinks": [
+        "health/Prolonged Fasting.md",
+        "health/Ung Thư - Metabolic Protocol.md"
+      ],
+      "words": 187,
+      "summary": "**Ketogenic Diet là chiến lược dinh dưỡng đưa cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism. Trong framework sức khỏe của vault, keto quan trọng vì nó đặt lại câu hỏi: bệnh tật là lỗi thuốc men, hay lỗi môi trường chuyển hóa?**"
     },
     "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md": {
       "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
@@ -20891,6 +21180,40 @@
       ],
       "words": 412,
       "summary": "**Plasma Quinton** là nước biển từ các xoáy nước đại dương, xử lý vô trùng ở nhiệt độ thấp để giữ đặc tính sinh học. Phát triển bởi René Quinton đầu thế kỷ 20."
+    },
+    "health/Prolonged Fasting.md": {
+      "path": "health/Prolonged Fasting.md",
+      "title": "Prolonged Fasting",
+      "domain": "health",
+      "tags": [
+        "fasting",
+        "health",
+        "metabolism"
+      ],
+      "aliases": [],
+      "headings": [
+        "Prolonged Fasting",
+        "Trong Vault",
+        "Cẩn Trọng",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "Ketogenic Diet",
+        "Ung Thư - Metabolic Protocol",
+        "Y Tế Tự Nhiên"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "health/Ketogenic Diet.md",
+        "health/Ung Thư - Metabolic Protocol.md",
+        "health/Y Tế Tự Nhiên.md"
+      ],
+      "backlinks": [
+        "health/Ketogenic Diet.md",
+        "health/Ung Thư - Metabolic Protocol.md"
+      ],
+      "words": 217,
+      "summary": "**Prolonged Fasting là nhịn ăn kéo dài có chủ đích, thường từ 24 giờ trở lên, nhằm tạo áp lực chuyển hóa: giảm insulin, kích hoạt autophagy, tăng ketone và buộc cơ thể chuyển từ chế độ tiêu thụ sang chế độ tái chế.**"
     },
     "health/René Quinton và Huyết Tương Biển.md": {
       "path": "health/René Quinton và Huyết Tương Biển.md",
@@ -21499,14 +21822,18 @@
       ],
       "mdlinks": [],
       "outlinks": [
+        "health/Ketogenic Diet.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Prolonged Fasting.md",
         "health/Suramin.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Y Tế Tự Nhiên.md"
       ],
       "backlinks": [
+        "health/Ketogenic Diet.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Prolonged Fasting.md",
         "index.md"
       ],
       "words": 1595,
@@ -21734,10 +22061,12 @@
         "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
         "health/Bệnh Bạch Cầu.md",
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Ketogenic Diet.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
         "health/Plasma Quinton.md",
+        "health/Prolonged Fasting.md",
         "health/René Quinton và Huyết Tương Biển.md",
         "health/Su That Ve Benh Dai Va Vac Xin.md",
         "health/Suramin.md",
@@ -22042,7 +22371,7 @@
         "Kiểm Soát Tâm Trí",
         "Ma Trận",
         "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "Mental Model - Kiến Trúc Bộ Khóa Ma Trận",
+        "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
         "Một Đời Phù Vân",
         "Nhị Nguyên",
         "Nikola Tesla",
@@ -22059,6 +22388,7 @@
         "esoterica/Gnosis.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Một Đời Phù Vân.md",
         "esoterica/Sự Nhất Thể.md",
         "esoterica/Tinh Khí Thần.md",
@@ -22847,6 +23177,7 @@
         "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
         "esoterica/Sự Nhất Thể.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
+        "esoterica/Đạo.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
@@ -24169,6 +24500,7 @@
         "index.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
       ],
@@ -24420,6 +24752,7 @@
         "politics-conspiracy/MindGeek.md",
         "politics-conspiracy/Mudflood.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
@@ -24828,16 +25161,52 @@
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
       "backlinks": [
         "index.md",
         "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
       ],
       "words": 1851,
       "summary": "**Antarctica** là lục địa duy nhất trên thế giới mà **civilians bị cấm tự do khám phá**. Không có quốc gia nào sở hữu, nhưng tất cả các cường quốc đều canh giữ. Tại sao?"
+    },
+    "politics-conspiracy/Operation Paperclip.md": {
+      "path": "politics-conspiracy/Operation Paperclip.md",
+      "title": "Operation Paperclip",
+      "domain": "politics-conspiracy",
+      "tags": [
+        "history",
+        "politics-conspiracy",
+        "science-tech"
+      ],
+      "aliases": [],
+      "headings": [
+        "Operation Paperclip",
+        "Trong Vault",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Elite",
+        "Khoa Học Xét Lại",
+        "Nam Cực - Bí Mật Được Canh Giữ"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "backlinks": [
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md"
+      ],
+      "words": 214,
+      "summary": "**Operation Paperclip là chương trình hậu Thế chiến II đưa hàng nghìn nhà khoa học, kỹ sư và chuyên gia Đức Quốc Xã sang Mỹ, đặc biệt trong các lĩnh vực tên lửa, hàng không, vũ khí, y sinh và tình báo.**"
     },
     "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md": {
       "path": "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
@@ -25920,6 +26289,7 @@
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/Mudflood.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",

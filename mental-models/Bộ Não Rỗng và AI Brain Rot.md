@@ -439,7 +439,7 @@ Trong kỷ nguyên AI, cái gì cũng chạy theo tốc độ. Nhưng những ng
 - [[Ma Trận]] — Hệ thống ảo tưởng
 - [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]
 - [[Kiểm Soát Tâm Trí]]
-- [[Mental Model - Kiến Trúc Bộ Khóa Ma Trận]]
+- [[Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]]
 
 ### Thức Tỉnh / Awakening
 - [[Một Đời Phù Vân]] — Câu chuyện về người không bao giờ dừng lại

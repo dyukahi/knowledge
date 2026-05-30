@@ -9,7 +9,7 @@ related:
   - "[[Kiểm Soát Tâm Trí]]"
   - "[[Word Magic - Ngôn Ngữ Của Phù Thủy]]"
   - "[[Khoa Học Xét Lại]]"
-  - "[[Loosh - Nang Lu?ng Thu Ho?ch T? Con Ngu?i]]"
+  - "[[Loosh - Năng Lượng Thu Hoạch Từ Con Người]]"
 ---
 
 # Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ
@@ -251,7 +251,7 @@ Người nghiện dễ kiểm soát. Họ predictable, họ cần fix, họ sẽ
 
 ### 3. Loosh Harvesting
 
-Theo framework của [[Loosh - Nang Lu?ng Thu Ho?ch T? Con Ngu?i]], addiction tạo ra một vòng lặp năng lượng tiêu cực:
+Theo framework của [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]], addiction tạo ra một vòng lặp năng lượng tiêu cực:
 - Craving → temporary satisfaction → guilt/shame → craving lại
 - Mỗi cycle = energy leak
 - Energy đó đi đâu?
@@ -341,7 +341,7 @@ Nhưng medicine không profitable. Addiction thì có.
 - **[[Elite]]** — Ai đứng sau corruption này?
 - **[[Ma Trận]]** — Bức tranh lớn của hệ thống kiểm soát
 - **[[Kiểm Soát Tâm Trí]]** — Psychological warfare
-- **[[Loosh - Nang Lu?ng Thu Ho?ch T? Con Ngu?i]]** — Energy harvesting từ addiction
+- **[[Loosh - Năng Lượng Thu Hoạch Từ Con Người]]** — Energy harvesting từ addiction
 - **[[Khoa Học Xét Lại]]** — Khi "science" bị mua
 - **[[Word Magic - Ngôn Ngữ Của Phù Thủy]]** — Ngôn ngữ của deception
 
