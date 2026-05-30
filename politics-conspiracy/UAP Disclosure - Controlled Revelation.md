@@ -19,6 +19,21 @@ related:
 
 ---
 
+## Evidence Discipline / Cách Đọc Disclosure
+
+Disclosure là vùng rất dễ trộn fact với speculation. Bài này cần đọc theo bốn tầng:
+
+| Tầng | Cách đọc | Ví dụ |
+|---|---|---|
+| **Fact / documentable** | official reports, hearings, agency pages, named whistleblowers | NYT 2017, Pentagon videos, AARO, Congressional hearings, `war.gov/ufo` |
+| **Pattern / intelligence reading** | limited hangout, controlled release, timing, private-sector involvement | rolling disclosure, unresolved-only cases, narrative pacing |
+| **Symbol / media reading** | alien archetype, Hollywood sync, fear/awe programming | Spielberg, NASA/Disney/Hollywood, “A LIE IN” word magic |
+| **Speculative synthesis** | Blue Beam, breakaway civilization, NHI origin, spiritual/demonic mask | vault hypothesis, not raw fact |
+
+Câu hỏi đúng không phải chỉ là “UAP có thật không?”. Câu hỏi sâu hơn là: **nếu có thật, tại sao public được biết theo format này, vào thời điểm này, qua các kênh này?**
+
+---
+
 ## Timeline Disclosure Gần Đây / Recent Disclosure Timeline
 
 | Year | Event | Note |
