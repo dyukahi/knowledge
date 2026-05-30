@@ -6,6 +6,35 @@ tags: [politics-conspiracy, esoterica]
 status: refined
 ---
 
+
+---
+
+## Evidence Discipline / Cách Đọc Claim
+
+Bài này thuộc nhóm politics/conspiracy nên cần tách rõ nhiều tầng claim:
+
+| Tầng | Cách đọc | Ví dụ |
+|---|---|---|
+| **Fact / documentable** | tài liệu, sự kiện, public record, lời nói/chính sách có thể kiểm | official docs, hearings, corporate records, timelines |
+| **Pattern / systems reading** | incentive, timing, coordination, institutional convergence | crisis → solution, limited hangout, policy sync |
+| **Symbol / myth reading** | archetype, logo, ritual, media framing, language spell | predictive programming, public myth, occult symbolism |
+| **Speculative synthesis** | mô hình vault nối nhiều tầng lại | [[Ma Trận]], [[Elite]], [[Kiểm Soát Tâm Trí]] |
+
+Không nên đọc tầng speculative như fact thô. Nhưng cũng không nên dùng fact-level để phủ định toàn bộ pattern và symbolic intelligence.
+
+---
+
+## Source Register / Nguồn Nên Đối Chiếu
+
+Khi citation pass sâu hơn, ưu tiên:
+
+- official documents, speeches, laws, public records,
+- tier-1 reporting / archival sources,
+- primary video/transcript/source material nếu có,
+- financial/policy/institutional records,
+- historical context từ nhiều phía,
+- các node liên quan: [[Ma Trận]], [[Elite]], [[MOC - Epistemology & Propaganda]].
+
 # Sự Thật Đen Tối Về Phim Khiêu Dâm (The Dark Truth About Porn)
 
 Bài phân tích này bóc trần bản chất thực sự của ngành công nghiệp khiêu dâm dưới góc độ năng lượng tâm linh và sự thao túng nhận thức.

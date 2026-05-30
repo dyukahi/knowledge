@@ -5,6 +5,35 @@ date: 2026-04-15
 tags: [science-tech]
 status: refined
 ---
+
+---
+
+## Evidence Discipline / Cách Đọc Claim
+
+Bài này thuộc nhóm science/tech revisionism. Cần phân biệt **science as method** và **science as institution**.
+
+| Tầng | Cách đọc | Ví dụ |
+|---|---|---|
+| **Fact / documentable** | paper, experiment, technical spec, historical record | published studies, patents, official docs |
+| **Method critique** | assumption, replication, measurement, falsifiability | model limitations, methodology gaps |
+| **Institution critique** | funding, censorship, career incentive, regulatory capture | consensus management, grant politics |
+| **Speculative synthesis** | suppressed tech, alternative cosmology, hidden model | [[Khoa Học Xét Lại]], [[MOC - Science Revisionism]] |
+
+Khoa Học Xét Lại không phải quyền tin bừa. Nó là kỷ luật không để institution định nghĩa thay mình cái gì được phép hỏi.
+
+---
+
+## Source Register / Nguồn Nên Đối Chiếu
+
+Khi audit sâu hơn, ưu tiên:
+
+- primary papers, patents, technical documentation,
+- replication attempts and criticism,
+- funding/conflict-of-interest records,
+- historical source material,
+- mainstream model trước, alternative model sau,
+- các node liên quan: [[Khoa Học Xét Lại]], [[Cách Đọc Red Pill Wiki]], [[MOC - Science Revisionism]].
+
 # Năng Lượng Aether (Aether Energy)
 
 **Aether** (Ê-te) là dạng vật chất tinh vi lấp đầy mọi không gian vũ trụ — môi trường truyền dẫn cho ánh sáng và lực điện từ. Trong truyền thống huyền bí: Akasha, Prana, Chi, năng lượng gốc vô hình.

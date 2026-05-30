@@ -18,7 +18,6 @@ related:
   - "[[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]"
   - "[[UBI Conditioning - The End of Work Ethic]]"
 ---
-
 # Digital ID Normalization: Từ Instagram Profile Đến Government ID
 
 *Digital ID Normalization: From Instagram Profile To Government ID*
@@ -26,6 +25,35 @@ related:
 > "First they ask for your email. Then your phone number. Then your face. Then your iris. Then your DNA."
 
 ---
+
+
+---
+
+## Evidence Discipline / Cách Đọc Claim
+
+Bài này thuộc nhóm science/tech revisionism. Cần phân biệt **science as method** và **science as institution**.
+
+| Tầng | Cách đọc | Ví dụ |
+|---|---|---|
+| **Fact / documentable** | paper, experiment, technical spec, historical record | published studies, patents, official docs |
+| **Method critique** | assumption, replication, measurement, falsifiability | model limitations, methodology gaps |
+| **Institution critique** | funding, censorship, career incentive, regulatory capture | consensus management, grant politics |
+| **Speculative synthesis** | suppressed tech, alternative cosmology, hidden model | [[Khoa Học Xét Lại]], [[MOC - Science Revisionism]] |
+
+Khoa Học Xét Lại không phải quyền tin bừa. Nó là kỷ luật không để institution định nghĩa thay mình cái gì được phép hỏi.
+
+---
+
+## Source Register / Nguồn Nên Đối Chiếu
+
+Khi audit sâu hơn, ưu tiên:
+
+- primary papers, patents, technical documentation,
+- replication attempts and criticism,
+- funding/conflict-of-interest records,
+- historical source material,
+- mainstream model trước, alternative model sau,
+- các node liên quan: [[Khoa Học Xét Lại]], [[Cách Đọc Red Pill Wiki]], [[MOC - Science Revisionism]].
 
 ## TL;DR (English Summary)
 

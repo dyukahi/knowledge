@@ -4,6 +4,37 @@ date: 2026-04-08
 tags: [health]
 status: refined
 ---
+
+---
+
+## How To Read This / Cách Đọc Bài Này
+
+Bài này thuộc nhóm **health sovereignty** của redpill.wiki. Nó có thể dùng giọng mạnh để phản biện medical-industrial complex, nhưng không phải chỉ dẫn y khoa cá nhân.
+
+Cần đọc theo bốn tầng:
+
+| Tầng | Cách đọc | Ví dụ |
+|---|---|---|
+| **Fact / documentable** | cơ chế sinh học, dữ liệu an toàn, guideline, nghiên cứu có thể kiểm | physiology, clinical studies, adverse effects |
+| **Research / emerging** | hướng nghiên cứu còn đang phát triển, tùy context/cơ địa | repurposed drugs, metabolic protocols, terrain interventions |
+| **Pattern / systems reading** | incentive của pharma, food system, regulatory capture, chronic treatment | dependency loop, symptom management |
+| **Vault synthesis** | mô hình terrain/sovereignty/metabolic reading của vault | [[Y Tế Tự Nhiên]], [[MOC - Health Sovereignty]] |
+
+> Health content phải giúp người đọc có thêm quyền hiểu cơ thể, không khiến họ liều lĩnh bỏ qua dữ liệu, bác sĩ, hoặc tình trạng nguy hiểm.
+
+---
+
+## Source Register / Nguồn Nên Đối Chiếu
+
+Khi audit sâu hơn, ưu tiên:
+
+- medical guidelines / standard-of-care để biết mainstream claim chính xác trước khi phản biện,
+- PubMed/PMC reviews, clinical trials, case reports nếu có,
+- drug labels, contraindications, adverse event data,
+- mechanistic physiology / metabolism / terrain literature,
+- conflict-of-interest, funding, regulatory history,
+- các node liên quan: [[Y Tế Tự Nhiên]], [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]], [[MOC - Health Sovereignty]].
+
 # The China Study
 
 **The China Study** (2005) là công trình nghiên cứu dinh dưỡng quy mô lớn nhất lịch sử, bởi T. Colin Campbell (Cornell) và Thomas M. Campbell II. Nghiên cứu 65 quận ở Trung Quốc, 6,500 người, trong 20 năm.
