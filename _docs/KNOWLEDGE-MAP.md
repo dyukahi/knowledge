@@ -4,12 +4,12 @@
 
 ## Snapshot
 
-- **Notes scanned:** 182
-- **Top-level domains:** 7
+- **Notes scanned:** 183
+- **Top-level domains:** 8
 - **Tags detected:** 166
 - **Resolved internal edges:** 1656
 - **Broken/unresolved links:** 0
-- **Orphan notes:** 2
+- **Orphan notes:** 3
 
 ## Zettelkasten Reading
 
@@ -46,13 +46,13 @@ Recommended note types:
 - [[health/Tuyến Tùng|Tuyến Tùng]] — degree `29`, backlinks `22`, outlinks `7` — #health
 - [[health/Vận Chín, Người Kogi và Ma Trận Y Tế|Vận Chín, Người Kogi và Ma Trận Y Tế]] — degree `25`, backlinks `14`, outlinks `11` — #awakening, #health, #kogi, #matrix, #pineal-gland
 - [[health/Kính Chiếu Yêu - Nhìn Thấu Tây Y|Kính Chiếu Yêu — Nhìn Thấu Tây Y]] — degree `19`, backlinks `10`, outlinks `9` — #health
-- [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]] — degree `18`, backlinks `11`, outlinks `7` — #3, #health
 - [[health/Suramin|Suramin]] — degree `17`, backlinks `8`, outlinks `9` — #health
+- [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]] — degree `17`, backlinks `10`, outlinks `7` — #3, #health
 - [[health/Plasma Quinton|Plasma Quinton (Huyết Tương Biển)]] — degree `15`, backlinks `11`, outlinks `4` — #health
 - [[health/Ung Thư - Metabolic Protocol|Ung Thư — Metabolic Protocol]] — degree `15`, backlinks `8`, outlinks `7` — #cancer, #health, #metabolic-therapy, #protocol
-- [[health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư|Mebendazole — Thuốc Tẩy Giun Chống Ung Thư]] — degree `13`, backlinks `5`, outlinks `8` — #cancer, #health, #repurposed-drugs
-- [[health/Cơ Chế Tự Bảo Vệ Của Cơ Thể|Cơ Chế Tự Bảo Vệ Của Cơ Thể]] — degree `11`, backlinks `6`, outlinks `5` — #health, #immune-system, #terrain-theory
-- [[health/Ketogenic Diet|Ketogenic Diet]] — degree `11`, backlinks `4`, outlinks `7` — #cancer, #health, #metabolism, #sovereignty
+- [[health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư|Mebendazole — Thuốc Tẩy Giun Chống Ung Thư]] — degree `13`, backlinks `5`, outlinks `8` — #cancer, #health, #metabolism, #repurposed-drugs
+- [[health/Ketogenic Diet|Ketogenic Diet]] — degree `12`, backlinks `5`, outlinks `7` — #cancer, #health, #metabolism, #sovereignty
+- [[health/Prolonged Fasting|Prolonged Fasting]] — degree `12`, backlinks `5`, outlinks `7` — #fasting, #health, #metabolism, #sovereignty
 - … 14 more notes in this domain. See JSON for full list.
 
 ### Mental Models / Mô hình tư duy `mental-models` — 26 notes
@@ -121,13 +121,17 @@ Recommended note types:
 - [[index|Red Pill Wiki]] — degree `97`, backlinks `0`, outlinks `97` — #index, #navigation
 - [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `27`, backlinks `3`, outlinks `24` — #consciousness, #esoterica, #moc
 - [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `23`, backlinks `7`, outlinks `16` — #epistemology, #meta, #navigation
-- [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `22`, backlinks `6`, outlinks `16` — #health, #moc, #sovereignty
+- [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `23`, backlinks `7`, outlinks `16` — #health, #moc, #sovereignty
 - [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]] — degree `20`, backlinks `4`, outlinks `16` — #esoterica, #hidden-history, #moc
 - [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `20`, backlinks `4`, outlinks `16` — #epistemology, #moc, #propaganda
 - [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `20`, backlinks `4`, outlinks `16` — #moc, #revisionist-science, #science-tech
 - [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `14`, backlinks `3`, outlinks `11` — #crypto-finance, #moc, #sovereignty
 - [[claude|Schema (LLM Instructions)]] — degree `0`, backlinks `0`, outlinks `0`
 - [[README|🧠 Knowledge Base]] — degree `0`, backlinks `0`, outlinks `0`
+
+### Docs / Meta `_docs` — 1 notes
+
+- [[_docs/EDITORIAL-AUDIT|Editorial Audit - Red Pill Wiki]] — degree `0`, backlinks `0`, outlinks `0`
 
 ## Current Hub Notes
 
@@ -213,9 +217,9 @@ High-degree notes are good candidates for hub/MOC treatment.
 - `#revisionist-science` — 3 notes: [[esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu|Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]]; [[MOC - Science Revisionism|MOC - Science Revisionism]]; [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]]
 - `#hidden-history` — 3 notes: [[esoterica/Tứ Linh|Tứ Linh]]; [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]]; [[politics-conspiracy/Operation Paperclip|Operation Paperclip]]
 - `#cancer` — 3 notes: [[health/Ketogenic Diet|Ketogenic Diet]]; [[health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư|Mebendazole — Thuốc Tẩy Giun Chống Ung Thư]]; [[health/Ung Thư - Metabolic Protocol|Ung Thư — Metabolic Protocol]]
+- `#metabolism` — 3 notes: [[health/Ketogenic Diet|Ketogenic Diet]]; [[health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư|Mebendazole — Thuốc Tẩy Giun Chống Ung Thư]]; [[health/Prolonged Fasting|Prolonged Fasting]]
 - `#1` — 2 notes: [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]]; [[science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ|Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]]
 - `#meta` — 2 notes: [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]]; [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]]
-- `#navigation` — 2 notes: [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]]; [[index|Red Pill Wiki]]
 
 ## Suggested MOCs / Maps of Content
 
@@ -243,9 +247,9 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[science-tech/Nikola Tesla|Nikola Tesla]]
 - [[science-tech/Năng Lượng Aether|Năng Lượng Aether]]
 - [[health/Vận Chín, Người Kogi và Ma Trận Y Tế|Vận Chín, Người Kogi và Ma Trận Y Tế]]
-- [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]]
 - [[science-tech/Tần Số Schumann|Tần Số Schumann (Schumann Resonance)]]
 - [[health/Plasma Quinton|Plasma Quinton (Huyết Tương Biển)]]
+- [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]]
 - [[health/Kính Chiếu Yêu - Nhìn Thấu Tây Y|Kính Chiếu Yêu — Nhìn Thấu Tây Y]]
 - [[science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z|TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z?]]
 
@@ -306,13 +310,14 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]]
 - [[health/Vận Chín, Người Kogi và Ma Trận Y Tế|Vận Chín, Người Kogi và Ma Trận Y Tế]]
 - [[science-tech/Tần Số Schumann|Tần Số Schumann (Schumann Resonance)]]
-- [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]]
 - [[health/Plasma Quinton|Plasma Quinton (Huyết Tương Biển)]]
+- [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]]
 
 ## Orphan / Low-Connectivity Notes
 
 Orphans are not necessarily bad. In Zettelkasten terms, they are unfinished integration points. Either link them into MOCs or mark as standalone reference notes.
 
+- [[_docs/EDITORIAL-AUDIT|Editorial Audit - Red Pill Wiki]] — `_docs`
 - [[claude|Schema (LLM Instructions)]] — `root`
 - [[README|🧠 Knowledge Base]] — `root`
 

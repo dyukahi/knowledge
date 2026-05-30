@@ -1,7 +1,8 @@
 {
   "stats": {
-    "notes": 182,
+    "notes": 183,
     "domains": {
+      "_docs": 1,
       "root": 10,
       "crypto-finance": 10,
       "esoterica": 71,
@@ -13,9 +14,35 @@
     "tags": 166,
     "wikilinkEdges": 1656,
     "brokenLinks": 0,
-    "orphans": 2
+    "orphans": 3
   },
   "domains": {
+    "_docs": [
+      {
+        "path": "_docs/EDITORIAL-AUDIT.md",
+        "title": "Editorial Audit - Red Pill Wiki",
+        "domain": "_docs",
+        "tags": [],
+        "aliases": [],
+        "headings": [
+          "Editorial Audit - Red Pill Wiki",
+          "Purpose",
+          "Current Heuristics",
+          "Priority Rewrite Queue",
+          "Thin Notes",
+          "Table-Heavy / Old Format Candidates",
+          "Low-Structure Candidates",
+          "Rewrite Protocol",
+          "First Recommended Batch"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [],
+        "words": 1126,
+        "summary": "Generated: 2026-05-30"
+      }
+    ],
     "crypto-finance": [
       {
         "path": "crypto-finance/Bitcoin.md",
@@ -6089,78 +6116,6 @@
         "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
       },
       {
-        "path": "health/Thuốc Hóa Dầu.md",
-        "title": "Thuốc Hóa Dầu (Petrochemical Medicine)",
-        "domain": "health",
-        "tags": [
-          "3",
-          "health"
-        ],
-        "aliases": [
-          "Petrochemical Medicine",
-          "Rockefeller Medicine"
-        ],
-        "headings": [
-          "Thuốc Hóa Dầu (Petrochemical Medicine)",
-          "Lịch Sử: Rockefeller Medicine / History: Rockefeller Medicine",
-          "Trước 1910 / Before 1910",
-          "Flexner Report (1910)",
-          "Tại sao? / Why?",
-          "Cơ Chế Hoạt Động / How It Works",
-          "Mô hình Allopathic / Allopathic Model",
-          "So sánh / Comparison",
-          "Vấn Đề / Problems",
-          "1. Không chữa tận gốc / Never Cured, Only \"Managed\"",
-          "2. Tác dụng phụ / Side Effects",
-          "3. Động lực tài chính / Financial Incentive",
-          "4. Đàn áp y học thay thế / Suppression of Alternatives",
-          "Ví Dụ / Examples",
-          "Thuốc gốc hóa dầu phổ biến / Common Petrochemical Drugs",
-          "Đã thay thế cái gì? / What They Replaced",
-          "Giải Pháp Thay Thế / The Alternative",
-          "[[Thuyết Vi Sinh Nội Sinh]] / Terrain Theory",
-          "Phương pháp tự nhiên / Natural Approaches",
-          "Kết Luận / Conclusion",
-          "Related / Liên quan",
-          "Lịch sử & Kiểm soát / History & Control",
-          "Y học thay thế / Alternative Medicine"
-        ],
-        "wikilinks": [
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Elite",
-          "Khế Ước Bí Mật Rockefeller",
-          "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-          "Plasma Quinton",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Vận Chín, Người Kogi và Ma Trận Y Tế"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/Plasma Quinton.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
-        ],
-        "backlinks": [
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Y Tế Tự Nhiên.md",
-          "index.md",
-          "MOC - Health Sovereignty.md",
-          "MOC - Science Revisionism.md"
-        ],
-        "words": 762,
-        "summary": "**Thuốc Hóa Dầu** là các dược phẩm có nguồn gốc từ hóa chất chưng cất dầu mỏ. Nền tảng của y học hiện đại được thiết lập để thay thế tri thức y học tự nhiên."
-      },
-      {
         "path": "health/Suramin.md",
         "title": "Suramin",
         "domain": "health",
@@ -6226,6 +6181,77 @@
         ],
         "words": 391,
         "summary": "**Suramin** là hợp chất từ vỏ cây thông, phát hiện năm 1916. Trong y tế tự nhiên, được nghiên cứu về tác động lên hệ thần kinh và nhận thức."
+      },
+      {
+        "path": "health/Thuốc Hóa Dầu.md",
+        "title": "Thuốc Hóa Dầu (Petrochemical Medicine)",
+        "domain": "health",
+        "tags": [
+          "3",
+          "health"
+        ],
+        "aliases": [
+          "Petrochemical Medicine",
+          "Rockefeller Medicine"
+        ],
+        "headings": [
+          "Thuốc Hóa Dầu (Petrochemical Medicine)",
+          "Lịch Sử: Rockefeller Medicine / History: Rockefeller Medicine",
+          "Trước 1910 / Before 1910",
+          "Flexner Report (1910)",
+          "Tại sao? / Why?",
+          "Cơ Chế Hoạt Động / How It Works",
+          "Mô hình Allopathic / Allopathic Model",
+          "So sánh / Comparison",
+          "Vấn Đề / Problems",
+          "1. Không chữa tận gốc / Never Cured, Only \"Managed\"",
+          "2. Tác dụng phụ / Side Effects",
+          "3. Động lực tài chính / Financial Incentive",
+          "4. Đàn áp y học thay thế / Suppression of Alternatives",
+          "Ví Dụ / Examples",
+          "Thuốc gốc hóa dầu phổ biến / Common Petrochemical Drugs",
+          "Đã thay thế cái gì? / What They Replaced",
+          "Giải Pháp Thay Thế / The Alternative",
+          "[[Thuyết Vi Sinh Nội Sinh]] / Terrain Theory",
+          "Phương pháp tự nhiên / Natural Approaches",
+          "Kết Luận / Conclusion",
+          "Related / Liên quan",
+          "Lịch sử & Kiểm soát / History & Control",
+          "Y học thay thế / Alternative Medicine"
+        ],
+        "wikilinks": [
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Elite",
+          "Khế Ước Bí Mật Rockefeller",
+          "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+          "Plasma Quinton",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Vận Chín, Người Kogi và Ma Trận Y Tế"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+          "health/Plasma Quinton.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
+        ],
+        "backlinks": [
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Y Tế Tự Nhiên.md",
+          "index.md",
+          "MOC - Health Sovereignty.md",
+          "MOC - Science Revisionism.md"
+        ],
+        "words": 762,
+        "summary": "**Thuốc Hóa Dầu** là các dược phẩm có nguồn gốc từ hóa chất chưng cất dầu mỏ. Nền tảng của y học hiện đại được thiết lập để thay thế tri thức y học tự nhiên."
       },
       {
         "path": "health/Plasma Quinton.md",
@@ -6383,67 +6409,57 @@
         "tags": [
           "cancer",
           "health",
+          "metabolism",
           "repurposed-drugs"
         ],
         "aliases": [
           "Benzimidazole",
           "Fenbendazole",
           "Fugacar",
-          "MBZ"
+          "MBZ",
+          "Vermox"
         ],
         "headings": [
           "Mebendazole — Thuốc Tẩy Giun Chống Ung Thư",
-          "Cơ Chế Chống Ung Thư / Anti-Cancer Mechanisms",
-          "1. Phá Vỡ Microtubule / Microtubule Disruption",
-          "2. Chống Tạo Mạch / Anti-Angiogenesis",
-          "3. Kích Hoạt Apoptosis / Apoptosis Activation",
-          "4. Autophagy",
-          "5. Đánh Thức Hệ Miễn Dịch / Immune Activation",
-          "6. Chặn Di Căn / Anti-Metastasis",
-          "Nghiên Cứu Khoa Học / Scientific Studies",
-          "In Vitro (Phòng thí nghiệm)",
-          "In Vivo (Trên chuột)",
-          "Clinical Trials (Trên người)",
-          "Góc Nhìn Terrain Theory / Alternative Perspective",
-          "Giả Thuyết Ký Sinh / Parasite Hypothesis",
-          "Ký Sinh Trùng Thao Túng Hành Vi Vật Chủ / Parasite Mind Control",
-          "Các Ví Dụ Được Chứng Minh / Proven Examples",
-          "Toxoplasma & Con Người / Toxoplasma in Humans",
-          "Ký Sinh & Thèm Đường / Parasites & Sugar Cravings",
-          "Implications — Nếu Đúng Thì Sao?",
-          "Protocol Xổ Giun Định Kỳ / Regular Deworming Protocol",
-          "Kết Nối Với Suramin",
-          "Liều Dùng & Cảnh Báo / Dosage & Warnings",
-          "Liều Tẩy Giun Thông Thường",
-          "Liều Trong Nghiên Cứu Ung Thư",
-          "⚠️ CẢNH BÁO / WARNINGS",
-          "Fenbendazole vs Mebendazole",
-          "Related",
-          "Protocol",
-          "Health / Sức khỏe",
-          "Matrix Connection",
-          "Research"
+          "Medical Caution / Cẩn Trọng",
+          "Evidence Discipline / Cách Đọc Bài Này",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Mebendazole Là Gì?",
+          "2. Cơ Chế Được Nghiên Cứu",
+          "Microtubule Disruption",
+          "Anti-Angiogenesis",
+          "Apoptosis & Cell Cycle Stress",
+          "Immune / Tumor Microenvironment",
+          "3. Research Level: Mạnh Ở Đâu, Yếu Ở Đâu?",
+          "4. Parasite Hypothesis / Ký Sinh Và Terrain",
+          "5. Parasite Mind Control: Vì Sao Liên Quan?",
+          "6. Protocol Talk: Nên Rất Cẩn Trọng",
+          "7. Vì Sao Big Pharma Không Mặn Mà?",
+          "8. Practical Reading",
+          "Source Register / Nguồn Cần Đối Chiếu",
+          "Synthesis",
+          "Related"
         ],
         "wikilinks": [
+          "Ketogenic Diet",
           "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "MOC - Health Sovereignty",
+          "Prolonged Fasting",
           "Suramin",
-          "The China Study",
           "Thuyết Vi Sinh Nội Sinh",
-          "Thuốc Hóa Dầu",
           "Ung Thư - Metabolic Protocol",
-          "Y Tế Tự Nhiên",
-          "Điều mà nền giáo dục và chính phủ không dạy bạn"
+          "Y Tế Tự Nhiên"
         ],
         "mdlinks": [],
         "outlinks": [
+          "health/Ketogenic Diet.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Prolonged Fasting.md",
           "health/Suramin.md",
-          "health/The China Study.md",
           "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Thuốc Hóa Dầu.md",
           "health/Ung Thư - Metabolic Protocol.md",
           "health/Y Tế Tự Nhiên.md",
-          "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
+          "MOC - Health Sovereignty.md"
         ],
         "backlinks": [
           "health/Suramin.md",
@@ -6452,8 +6468,129 @@
           "index.md",
           "MOC - Health Sovereignty.md"
         ],
-        "words": 1267,
-        "summary": "**Mebendazole (MBZ)** là thuốc tẩy giun OTC (Fugacar, Vermox) được nghiên cứu như liệu pháp chống ung thư. Một ví dụ điển hình của \"drug repurposing\" — thuốc cũ, công dụng mới."
+        "words": 1456,
+        "summary": "**Mebendazole (MBZ) là thuốc tẩy giun cũ, rẻ, hết patent, đang được nghiên cứu như một candidate trong drug repurposing chống ung thư. Điểm đáng chú ý không phải “thuốc tẩy giun chữa ung thư” theo kiểu headline, mà là pattern: nhiều thuốc antiparasitic/antimi…"
+      },
+      {
+        "path": "health/Ketogenic Diet.md",
+        "title": "Ketogenic Diet",
+        "domain": "health",
+        "tags": [
+          "cancer",
+          "health",
+          "metabolism",
+          "sovereignty"
+        ],
+        "aliases": [
+          "Chế Độ Ăn Keto",
+          "Keto",
+          "Ketosis"
+        ],
+        "headings": [
+          "Ketogenic Diet",
+          "Medical Caution / Cẩn Trọng",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Keto Là Gì?",
+          "2. Vì Sao Insulin Quan Trọng?",
+          "3. Keto Và Ung Thư / Cancer Metabolism",
+          "4. Keto Và Fasting",
+          "5. Keto Sạch vs Keto Bẩn",
+          "6. Rủi Ro Và Sai Lầm",
+          "7. Practical Frame",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Cách Đọc Red Pill Wiki",
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "MOC - Health Sovereignty",
+          "Prolonged Fasting",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Ung Thư - Metabolic Protocol",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Prolonged Fasting.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Y Tế Tự Nhiên.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "backlinks": [
+          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+          "health/Prolonged Fasting.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "index.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 948,
+        "summary": "**Ketogenic Diet không chỉ là trend giảm cân. Ở tầng metabolic, keto là một cách chuyển cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism, đặt lại câu hỏi rất căn bản: bệnh tật là lỗi thuốc men, hay là lỗi môi trường chuyển hóa?**"
+      },
+      {
+        "path": "health/Prolonged Fasting.md",
+        "title": "Prolonged Fasting",
+        "domain": "health",
+        "tags": [
+          "fasting",
+          "health",
+          "metabolism",
+          "sovereignty"
+        ],
+        "aliases": [
+          "Extended Fasting",
+          "Fasting",
+          "Nhịn Ăn Kéo Dài"
+        ],
+        "headings": [
+          "Prolonged Fasting",
+          "Medical Caution / Cẩn Trọng",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Prolonged Fasting Là Gì?",
+          "2. Vì Sao Fasting Tồn Tại Trong Tự Nhiên?",
+          "3. Cơ Chế Chính",
+          "Insulin Reset",
+          "Ketosis",
+          "Autophagy",
+          "Digestive Rest",
+          "4. Fasting Và Ung Thư",
+          "5. Electrolytes: Chỗ Nhiều Người Sai",
+          "6. Spiritual Layer",
+          "7. Sai Lầm Phổ Biến",
+          "8. Practical Frame",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Gnosis",
+          "Individuation",
+          "Ketogenic Diet",
+          "MOC - Health Sovereignty",
+          "Ung Thư - Metabolic Protocol",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Ketogenic Diet.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Y Tế Tự Nhiên.md",
+          "mental-models/Individuation.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "backlinks": [
+          "health/Ketogenic Diet.md",
+          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "index.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 982,
+        "summary": "**Prolonged Fasting là nhịn ăn kéo dài có chủ đích để đưa cơ thể từ chế độ tiêu hóa/liên tục nạp sang chế độ sửa chữa/tái chế: giảm insulin, tăng ketone, kích hoạt autophagy và buộc metabolism nhớ lại một nhịp cổ xưa hơn.**"
       },
       {
         "path": "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
@@ -6517,63 +6654,6 @@
         "summary": "Triệu chứng bệnh lý không phải là kẻ thù cần tiêu diệt. **Sốt, ho, và tiêu chảy** thực chất là những chiến binh bảo vệ và là cơ chế tự làm sạch của cơ thể."
       },
       {
-        "path": "health/Ketogenic Diet.md",
-        "title": "Ketogenic Diet",
-        "domain": "health",
-        "tags": [
-          "cancer",
-          "health",
-          "metabolism",
-          "sovereignty"
-        ],
-        "aliases": [
-          "Chế Độ Ăn Keto",
-          "Keto",
-          "Ketosis"
-        ],
-        "headings": [
-          "Ketogenic Diet",
-          "Medical Caution / Cẩn Trọng",
-          "Vault Position / Vị Trí Trong Vault",
-          "1. Keto Là Gì?",
-          "2. Vì Sao Insulin Quan Trọng?",
-          "3. Keto Và Ung Thư / Cancer Metabolism",
-          "4. Keto Và Fasting",
-          "5. Keto Sạch vs Keto Bẩn",
-          "6. Rủi Ro Và Sai Lầm",
-          "7. Practical Frame",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Cách Đọc Red Pill Wiki",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "MOC - Health Sovereignty",
-          "Prolonged Fasting",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Ung Thư - Metabolic Protocol",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Prolonged Fasting.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "backlinks": [
-          "health/Prolonged Fasting.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "index.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "words": 948,
-        "summary": "**Ketogenic Diet không chỉ là trend giảm cân. Ở tầng metabolic, keto là một cách chuyển cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism, đặt lại câu hỏi rất căn bản: bệnh tật là lỗi thuốc men, hay là lỗi môi trường chuyển hóa?**"
-      },
-      {
         "path": "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
         "title": "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
         "domain": "health",
@@ -6622,68 +6702,6 @@
         ],
         "words": 461,
         "summary": "Bài viết chiêm nghiệm về vai trò tâm linh và sinh học tối thượng của Muối, vạch trần âm mưu của thế lực ngầm trong việc cắt đứt sợi dây liên kết giữa con người và cội nguồn đại dương."
-      },
-      {
-        "path": "health/Prolonged Fasting.md",
-        "title": "Prolonged Fasting",
-        "domain": "health",
-        "tags": [
-          "fasting",
-          "health",
-          "metabolism",
-          "sovereignty"
-        ],
-        "aliases": [
-          "Extended Fasting",
-          "Fasting",
-          "Nhịn Ăn Kéo Dài"
-        ],
-        "headings": [
-          "Prolonged Fasting",
-          "Medical Caution / Cẩn Trọng",
-          "Vault Position / Vị Trí Trong Vault",
-          "1. Prolonged Fasting Là Gì?",
-          "2. Vì Sao Fasting Tồn Tại Trong Tự Nhiên?",
-          "3. Cơ Chế Chính",
-          "Insulin Reset",
-          "Ketosis",
-          "Autophagy",
-          "Digestive Rest",
-          "4. Fasting Và Ung Thư",
-          "5. Electrolytes: Chỗ Nhiều Người Sai",
-          "6. Spiritual Layer",
-          "7. Sai Lầm Phổ Biến",
-          "8. Practical Frame",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Gnosis",
-          "Individuation",
-          "Ketogenic Diet",
-          "MOC - Health Sovereignty",
-          "Ung Thư - Metabolic Protocol",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Ketogenic Diet.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Y Tế Tự Nhiên.md",
-          "mental-models/Individuation.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "backlinks": [
-          "health/Ketogenic Diet.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "index.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "words": 982,
-        "summary": "**Prolonged Fasting là nhịn ăn kéo dài có chủ đích để đưa cơ thể từ chế độ tiêu hóa/liên tục nạp sang chế độ sửa chữa/tái chế: giảm insulin, tăng ketone, kích hoạt autophagy và buộc metabolism nhớ lại một nhịp cổ xưa hơn.**"
       },
       {
         "path": "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
@@ -6989,56 +7007,6 @@
         "summary": "*Natural Healing Formulas (Master Note)*"
       },
       {
-        "path": "health/The China Study.md",
-        "title": "The China Study",
-        "domain": "health",
-        "tags": [
-          "health"
-        ],
-        "aliases": [],
-        "headings": [
-          "The China Study",
-          "Kết Luận Chính",
-          "1. Animal Protein = Disease Promoter",
-          "2. Diseases of Affluence",
-          "3. Whole Food Plant-Based = Optimal",
-          "Controversy & Criticism",
-          "Supporters say:",
-          "Critics say:",
-          "Balanced View",
-          "Liên Hệ Với Vận Chín, Người Kogi và Ma Trận Y Tế",
-          "Food Industry",
-          "Pharma Industry",
-          "Key Quotes",
-          "Practical Takeaways",
-          "Start with:",
-          "Advanced:",
-          "Related"
-        ],
-        "wikilinks": [
-          "Công Thức Chữa Lành Tự Nhiên",
-          "Elite",
-          "Ma Trận",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Y Tế Tự Nhiên.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "mental-models/Tâm Lý Học Jung.md"
-        ],
-        "words": 380,
-        "summary": "**The China Study** (2005) là công trình nghiên cứu dinh dưỡng quy mô lớn nhất lịch sử, bởi T. Colin Campbell (Cornell) và Thomas M. Campbell II. Nghiên cứu 65 quận ở Trung Quốc, 6,500 người, trong 20 năm."
-      },
-      {
         "path": "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "title": "Y Tế Tự Nhiên & Năng Lượng Mới",
         "domain": "health",
@@ -7133,6 +7101,55 @@
         ],
         "words": 1204,
         "summary": "Toàn bộ nền tảng của y học hiện đại được xây dựng dựa trên thuyết vi trùng học của Louis Pasteur. Tuy nhiên, dưới góc nhìn của Thuyết môi trường (Terrain Theory), đây là một học thuyết sai lầm được duy trì bởi các thế lực tài chính nhằm biến y học thành một n…"
+      },
+      {
+        "path": "health/The China Study.md",
+        "title": "The China Study",
+        "domain": "health",
+        "tags": [
+          "health"
+        ],
+        "aliases": [],
+        "headings": [
+          "The China Study",
+          "Kết Luận Chính",
+          "1. Animal Protein = Disease Promoter",
+          "2. Diseases of Affluence",
+          "3. Whole Food Plant-Based = Optimal",
+          "Controversy & Criticism",
+          "Supporters say:",
+          "Critics say:",
+          "Balanced View",
+          "Liên Hệ Với Vận Chín, Người Kogi và Ma Trận Y Tế",
+          "Food Industry",
+          "Pharma Industry",
+          "Key Quotes",
+          "Practical Takeaways",
+          "Start with:",
+          "Advanced:",
+          "Related"
+        ],
+        "wikilinks": [
+          "Công Thức Chữa Lành Tự Nhiên",
+          "Elite",
+          "Ma Trận",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Y Tế Tự Nhiên.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "mental-models/Tâm Lý Học Jung.md"
+        ],
+        "words": 380,
+        "summary": "**The China Study** (2005) là công trình nghiên cứu dinh dưỡng quy mô lớn nhất lịch sử, bởi T. Colin Campbell (Cornell) và Thomas M. Campbell II. Nghiên cứu 65 quận ở Trung Quốc, 6,500 người, trong 20 năm."
       },
       {
         "path": "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
@@ -10385,46 +10402,6 @@
         "summary": "**UAP Disclosure** (Tiết lộ Hiện tượng Bất thường Trên không) là quá trình chính phủ \"giải mật\" thông tin về UFO/UAP. Nhưng câu hỏi thực sự không phải *\"UFO có thật không?\"* mà là *\"Tại sao Elite lại cho phép tiết lộ điều này ngay bây giờ?\"*"
       },
       {
-        "path": "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "title": "Điều mà nền giáo dục và chính phủ không dạy bạn",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "politics-conspiracy"
-        ],
-        "aliases": [],
-        "headings": [
-          "Điều mà nền giáo dục và chính phủ không dạy bạn",
-          "Giới thiệu: Nhận thức đầu tiên về tiền bạc",
-          "Vấn đề cốt lõi: Chỉ được dạy cách kiếm tiền, không được dạy về tiền",
-          "Sự thật phũ phàng: Giá trị tiền tiết kiệm của bạn đang tiến về 0",
-          "\"The Game\": Một cuộc chơi không công bằng",
-          "Giải pháp: Làm thế nào để thoát khỏi cuộc chơi?",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bitcoin",
-          "Tiền Pháp Định"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Tiền Pháp Định.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Giàu Không Nhờ May Mắn.md",
-          "crypto-finance/Tiền Pháp Định.md",
-          "esoterica/Thuật Giả Kim Của Newton.md",
-          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "health/Y Tế Tự Nhiên.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-          "politics-conspiracy/Thuyết Trái Đất Phẳng.md"
-        ],
-        "words": 1002,
-        "summary": "Bài viết bắt đầu từ trải nghiệm quen thuộc của mỗi đứa trẻ Việt Nam: tiền mừng tuổi trong dịp Tết. Đây là thời điểm lần đầu tiên chúng ta có nhận thức rõ ràng về giá trị và sức mạnh của đồng tiền. Chúng ta được dạy rằng tiền có thể dùng để mua những thứ mình…"
-      },
-      {
         "path": "politics-conspiracy/Operation Paperclip.md",
         "title": "Operation Paperclip",
         "domain": "politics-conspiracy",
@@ -10480,6 +10457,45 @@
         ],
         "words": 1258,
         "summary": "**Operation Paperclip là chương trình hậu Thế chiến II đưa các nhà khoa học, kỹ sư và chuyên gia Đức Quốc Xã sang Mỹ. Ở tầng lịch sử, đây là Cold War talent acquisition. Ở tầng vault, nó là bằng chứng rằng empire không chỉ đánh bại kẻ thù — nó hấp thụ tri thứ…"
+      },
+      {
+        "path": "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "title": "Điều mà nền giáo dục và chính phủ không dạy bạn",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "politics-conspiracy"
+        ],
+        "aliases": [],
+        "headings": [
+          "Điều mà nền giáo dục và chính phủ không dạy bạn",
+          "Giới thiệu: Nhận thức đầu tiên về tiền bạc",
+          "Vấn đề cốt lõi: Chỉ được dạy cách kiếm tiền, không được dạy về tiền",
+          "Sự thật phũ phàng: Giá trị tiền tiết kiệm của bạn đang tiến về 0",
+          "\"The Game\": Một cuộc chơi không công bằng",
+          "Giải pháp: Làm thế nào để thoát khỏi cuộc chơi?",
+          "Related"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Tiền Pháp Định"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Tiền Pháp Định.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/Tiền Pháp Định.md",
+          "esoterica/Thuật Giả Kim Của Newton.md",
+          "health/Y Tế Tự Nhiên.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+          "politics-conspiracy/Thuyết Trái Đất Phẳng.md"
+        ],
+        "words": 1002,
+        "summary": "Bài viết bắt đầu từ trải nghiệm quen thuộc của mỗi đứa trẻ Việt Nam: tiền mừng tuổi trong dịp Tết. Đây là thời điểm lần đầu tiên chúng ta có nhận thức rõ ràng về giá trị và sức mạnh của đồng tiền. Chúng ta được dạy rằng tiền có thể dùng để mua những thứ mình…"
       },
       {
         "path": "politics-conspiracy/MindGeek.md",
@@ -11287,6 +11303,7 @@
           "esoterica/Ma Trận.md",
           "health/Ketogenic Diet.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
           "health/Prolonged Fasting.md",
           "index.md",
           "science-tech/Khoa Học Xét Lại.md"
@@ -15413,6 +15430,30 @@
   ],
   "orphans": [
     {
+      "path": "_docs/EDITORIAL-AUDIT.md",
+      "title": "Editorial Audit - Red Pill Wiki",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Editorial Audit - Red Pill Wiki",
+        "Purpose",
+        "Current Heuristics",
+        "Priority Rewrite Queue",
+        "Thin Notes",
+        "Table-Heavy / Old Format Candidates",
+        "Low-Structure Candidates",
+        "Rewrite Protocol",
+        "First Recommended Batch"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 1126,
+      "summary": "Generated: 2026-05-30"
+    },
+    {
       "path": "claude.md",
       "title": "Schema (LLM Instructions)",
       "domain": "root",
@@ -15909,6 +15950,10 @@
       3
     ],
     [
+      "metabolism",
+      3
+    ],
+    [
       "1",
       2
     ],
@@ -15938,10 +15983,6 @@
     ],
     [
       "symbolism",
-      2
-    ],
-    [
-      "metabolism",
       2
     ],
     [
@@ -16553,6 +16594,7 @@
         "esoterica/Ma Trận.md",
         "health/Ketogenic Diet.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Prolonged Fasting.md",
         "index.md",
         "science-tech/Khoa Học Xét Lại.md"
@@ -16639,6 +16681,30 @@
       "backlinks": [],
       "words": 78,
       "summary": "Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu."
+    },
+    "_docs/EDITORIAL-AUDIT.md": {
+      "path": "_docs/EDITORIAL-AUDIT.md",
+      "title": "Editorial Audit - Red Pill Wiki",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Editorial Audit - Red Pill Wiki",
+        "Purpose",
+        "Current Heuristics",
+        "Priority Rewrite Queue",
+        "Thin Notes",
+        "Table-Heavy / Old Format Candidates",
+        "Low-Structure Candidates",
+        "Rewrite Protocol",
+        "First Recommended Batch"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 1126,
+      "summary": "Generated: 2026-05-30"
     },
     "claude.md": {
       "path": "claude.md",
@@ -22624,6 +22690,7 @@
         "MOC - Health Sovereignty.md"
       ],
       "backlinks": [
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Prolonged Fasting.md",
         "health/Ung Thư - Metabolic Protocol.md",
         "index.md",
@@ -22715,67 +22782,57 @@
       "tags": [
         "cancer",
         "health",
+        "metabolism",
         "repurposed-drugs"
       ],
       "aliases": [
         "Benzimidazole",
         "Fenbendazole",
         "Fugacar",
-        "MBZ"
+        "MBZ",
+        "Vermox"
       ],
       "headings": [
         "Mebendazole — Thuốc Tẩy Giun Chống Ung Thư",
-        "Cơ Chế Chống Ung Thư / Anti-Cancer Mechanisms",
-        "1. Phá Vỡ Microtubule / Microtubule Disruption",
-        "2. Chống Tạo Mạch / Anti-Angiogenesis",
-        "3. Kích Hoạt Apoptosis / Apoptosis Activation",
-        "4. Autophagy",
-        "5. Đánh Thức Hệ Miễn Dịch / Immune Activation",
-        "6. Chặn Di Căn / Anti-Metastasis",
-        "Nghiên Cứu Khoa Học / Scientific Studies",
-        "In Vitro (Phòng thí nghiệm)",
-        "In Vivo (Trên chuột)",
-        "Clinical Trials (Trên người)",
-        "Góc Nhìn Terrain Theory / Alternative Perspective",
-        "Giả Thuyết Ký Sinh / Parasite Hypothesis",
-        "Ký Sinh Trùng Thao Túng Hành Vi Vật Chủ / Parasite Mind Control",
-        "Các Ví Dụ Được Chứng Minh / Proven Examples",
-        "Toxoplasma & Con Người / Toxoplasma in Humans",
-        "Ký Sinh & Thèm Đường / Parasites & Sugar Cravings",
-        "Implications — Nếu Đúng Thì Sao?",
-        "Protocol Xổ Giun Định Kỳ / Regular Deworming Protocol",
-        "Kết Nối Với Suramin",
-        "Liều Dùng & Cảnh Báo / Dosage & Warnings",
-        "Liều Tẩy Giun Thông Thường",
-        "Liều Trong Nghiên Cứu Ung Thư",
-        "⚠️ CẢNH BÁO / WARNINGS",
-        "Fenbendazole vs Mebendazole",
-        "Related",
-        "Protocol",
-        "Health / Sức khỏe",
-        "Matrix Connection",
-        "Research"
+        "Medical Caution / Cẩn Trọng",
+        "Evidence Discipline / Cách Đọc Bài Này",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Mebendazole Là Gì?",
+        "2. Cơ Chế Được Nghiên Cứu",
+        "Microtubule Disruption",
+        "Anti-Angiogenesis",
+        "Apoptosis & Cell Cycle Stress",
+        "Immune / Tumor Microenvironment",
+        "3. Research Level: Mạnh Ở Đâu, Yếu Ở Đâu?",
+        "4. Parasite Hypothesis / Ký Sinh Và Terrain",
+        "5. Parasite Mind Control: Vì Sao Liên Quan?",
+        "6. Protocol Talk: Nên Rất Cẩn Trọng",
+        "7. Vì Sao Big Pharma Không Mặn Mà?",
+        "8. Practical Reading",
+        "Source Register / Nguồn Cần Đối Chiếu",
+        "Synthesis",
+        "Related"
       ],
       "wikilinks": [
+        "Ketogenic Diet",
         "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "MOC - Health Sovereignty",
+        "Prolonged Fasting",
         "Suramin",
-        "The China Study",
         "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
         "Ung Thư - Metabolic Protocol",
-        "Y Tế Tự Nhiên",
-        "Điều mà nền giáo dục và chính phủ không dạy bạn"
+        "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
+        "health/Ketogenic Diet.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Prolonged Fasting.md",
         "health/Suramin.md",
-        "health/The China Study.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
         "health/Ung Thư - Metabolic Protocol.md",
         "health/Y Tế Tự Nhiên.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
+        "MOC - Health Sovereignty.md"
       ],
       "backlinks": [
         "health/Suramin.md",
@@ -22784,8 +22841,8 @@
         "index.md",
         "MOC - Health Sovereignty.md"
       ],
-      "words": 1267,
-      "summary": "**Mebendazole (MBZ)** là thuốc tẩy giun OTC (Fugacar, Vermox) được nghiên cứu như liệu pháp chống ung thư. Một ví dụ điển hình của \"drug repurposing\" — thuốc cũ, công dụng mới."
+      "words": 1456,
+      "summary": "**Mebendazole (MBZ) là thuốc tẩy giun cũ, rẻ, hết patent, đang được nghiên cứu như một candidate trong drug repurposing chống ung thư. Điểm đáng chú ý không phải “thuốc tẩy giun chữa ung thư” theo kiểu headline, mà là pattern: nhiều thuốc antiparasitic/antimi…"
     },
     "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md": {
       "path": "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
@@ -22995,6 +23052,7 @@
       ],
       "backlinks": [
         "health/Ketogenic Diet.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Ung Thư - Metabolic Protocol.md",
         "index.md",
         "MOC - Health Sovereignty.md"
@@ -23244,7 +23302,6 @@
         "politics-conspiracy/Elite.md"
       ],
       "backlinks": [
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "mental-models/Tâm Lý Học Jung.md"
       ],
@@ -23399,7 +23456,6 @@
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Y Tế Tự Nhiên.md",
@@ -27701,7 +27757,6 @@
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/Tiền Pháp Định.md",
         "esoterica/Thuật Giả Kim Của Newton.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Y Tế Tự Nhiên.md",
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",

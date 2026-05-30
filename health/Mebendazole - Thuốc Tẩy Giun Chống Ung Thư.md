@@ -1,269 +1,239 @@
 ---
 title: "Mebendazole — Thuốc Tẩy Giun Chống Ung Thư"
-aliases: ["MBZ", "Fugacar", "Fenbendazole", "Benzimidazole"]
+aliases: ["MBZ", "Fugacar", "Vermox", "Fenbendazole", "Benzimidazole"]
 date: 2026-05-03
-tags: [health, cancer, repurposed-drugs]
+tags: [health, cancer, repurposed-drugs, metabolism]
 status: refined
+related:
+  - "[[Ung Thư - Metabolic Protocol]]"
+  - "[[Kính Chiếu Yêu - Nhìn Thấu Tây Y]]"
+  - "[[Thuyết Vi Sinh Nội Sinh]]"
+  - "[[Suramin]]"
+  - "[[Ketogenic Diet]]"
+  - "[[Prolonged Fasting]]"
+  - "[[MOC - Health Sovereignty]]"
 ---
 
 # Mebendazole — Thuốc Tẩy Giun Chống Ung Thư
 
-**Mebendazole (MBZ)** là thuốc tẩy giun OTC (Fugacar, Vermox) được nghiên cứu như liệu pháp chống ung thư. Một ví dụ điển hình của "drug repurposing" — thuốc cũ, công dụng mới.
+**Mebendazole (MBZ) là thuốc tẩy giun cũ, rẻ, hết patent, đang được nghiên cứu như một candidate trong drug repurposing chống ung thư. Điểm đáng chú ý không phải “thuốc tẩy giun chữa ung thư” theo kiểu headline, mà là pattern: nhiều thuốc antiparasitic/antimicrobial có tác động lên microtubule, metabolism, angiogenesis, immune signaling và tumor microenvironment.**
 
-*Mebendazole (MBZ) is an OTC deworming drug (Fugacar, Vermox) being researched as anti-cancer therapy. A classic example of "drug repurposing" — old drug, new use.*
-
-> Thuốc rẻ tiền, hết hạn bảo hộ sáng chế → Big Pharma không có lợi nhuận để quảng bá → Bị "quên lãng" dù có nghiên cứu peer-reviewed.
+*Mebendazole is an old, cheap, off-patent deworming drug being studied as a cancer drug-repurposing candidate. The important point is not the simplistic headline “dewormer cures cancer,” but the pattern: many antiparasitic/antimicrobial drugs affect microtubules, metabolism, angiogenesis, immune signaling, and the tumor microenvironment.*
 
 ---
 
-## Cơ Chế Chống Ung Thư / Anti-Cancer Mechanisms
+## Medical Caution / Cẩn Trọng
+
+Bài này là knowledge-vault synthesis, không phải medical advice. Mebendazole không được phê duyệt như standard cancer treatment. Không tự ý dùng liều cao/kéo dài, đặc biệt nếu đang hóa trị, xạ trị, dùng thuốc gan, thuốc chống đông, hoặc có bệnh nền. Cần bác sĩ/người có chuyên môn theo dõi nếu dùng ngoài chỉ định.
+
+> Drug repurposing đáng nghiên cứu. Nhưng “rẻ và bị bỏ quên” không đồng nghĩa tự động an toàn hoặc chữa được mọi thứ.
+
+---
+
+## Evidence Discipline / Cách Đọc Bài Này
+
+| Tầng | Cách đọc | Ví dụ |
+|---|---|---|
+| **Fact / documentable** | MBZ là thuốc anti-helminthic; có cơ chế gắn tubulin; có nghiên cứu in vitro/in vivo | microtubule disruption, anti-angiogenesis signals |
+| **Research / emerging** | case reports, small trials, preclinical cancer models | glioblastoma, melanoma, GI cancer studies |
+| **Pattern / systems reading** | thuốc off-patent ít incentive quảng bá | drug repurposing vs pharma profit model |
+| **Vault synthesis** | parasite/metabolic terrain, antiparasitic-cancer pattern | MBZ, [[Suramin]], terrain theory |
+
+Cách đọc đúng: MBZ là **candidate** trong một terrain/metabolic/repurposing framework, không phải magic bullet.
+
+---
+
+## Vault Position / Vị Trí Trong Vault
+
+Trong redpill.wiki, Mebendazole nằm ở giao điểm của:
+
+- [[Ung Thư - Metabolic Protocol]] — cancer như terrain/metabolic problem
+- [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]] — medical-industrial incentives
+- [[Thuyết Vi Sinh Nội Sinh]] — terrain quyết định biểu hiện bệnh
+- [[Suramin]] — antiparasitic/repurposed drug pattern
+- [[Ketogenic Diet]] và [[Prolonged Fasting]] — metabolic pressure tools
+
+Nó là một case study tốt cho câu hỏi lớn hơn:
+
+> Có bao nhiêu thuốc cũ, rẻ, hết patent bị bỏ qua không phải vì vô dụng, mà vì chúng không fit profit model?
+
+---
+
+## 1. Mebendazole Là Gì?
+
+Mebendazole là thuốc nhóm benzimidazole, dùng phổ biến để trị giun/ký sinh trùng đường ruột. Nó hoạt động bằng cách can thiệp vào tubulin/microtubule của ký sinh, khiến ký sinh không hấp thụ glucose hiệu quả và chết.
+
+Điều khiến MBZ được chú ý trong cancer research: tế bào ung thư cũng phụ thuộc mạnh vào cytoskeleton, microtubule dynamics, division machinery và metabolic adaptation.
+
+| Tầng | MBZ làm gì? |
+|---|---|
+| Parasite | phá rối tubulin, làm ký sinh mất năng lượng |
+| Cancer research | nghiên cứu tác động lên microtubule, apoptosis, angiogenesis |
+| Systems lens | thuốc rẻ/off-patent, ít incentive phát triển thành blockbuster |
+
+---
+
+## 2. Cơ Chế Được Nghiên Cứu
+
+### Microtubule Disruption
+
+Microtubule là cấu trúc quan trọng cho phân chia tế bào. Nhiều thuốc hóa trị nổi tiếng cũng nhắm vào microtubule. MBZ được nghiên cứu vì có thể can thiệp tubulin dynamics ở tế bào ung thư.
+
+### Anti-Angiogenesis
+
+Khối u cần mạch máu để phát triển. Một số nghiên cứu preclinical gợi ý MBZ có thể ảnh hưởng các pathway liên quan tạo mạch như VEGF/VEGFR signaling.
+
+### Apoptosis & Cell Cycle Stress
+
+Một số model cho thấy MBZ có thể kích hoạt apoptosis/cell-cycle arrest ở một số dòng tế bào ung thư.
+
+### Immune / Tumor Microenvironment
+
+Có hướng nghiên cứu xem MBZ ảnh hưởng tumor microenvironment và immune signaling như thế nào, nhưng đây vẫn là vùng cần thêm data.
 
 ```mermaid
 flowchart TD
-    MBZ["Mebendazole"]
-    
-    MBZ --> A["🔬 Phá vỡ Microtubule"]
-    MBZ --> B["🩸 Chống tạo mạch"]
-    MBZ --> C["💀 Kích hoạt Apoptosis"]
-    MBZ --> D["🔄 Autophagy"]
-    MBZ --> E["🛡️ Đánh thức Miễn dịch"]
-    MBZ --> F["🚫 Chặn Di căn"]
-    
-    A --> A1["Chặn phân chia tế bào G2/M"]
-    B --> B1["Ức chế VEGFR2"]
-    C --> C1["Tăng Bax, p53 | Giảm Bcl-2"]
-    D --> D1["Tăng LC3, Beclin-1"]
-    E --> E1["Chuyển M2 → M1 macrophage"]
-    F --> F1["Ức chế MMP"]
+    MBZ[Mebendazole] --> A[Microtubule Stress]
+    MBZ --> B[Anti-Angiogenesis Signals]
+    MBZ --> C[Apoptosis / Cell Cycle Effects]
+    MBZ --> D[Metabolic / Parasite-Terrain Hypothesis]
+    A --> E[Research Candidate]
+    B --> E
+    C --> E
+    D --> E
 ```
 
-### 1. Phá Vỡ Microtubule / Microtubule Disruption
+---
 
-| Cơ chế | Mô tả |
-|--------|-------|
-| **Gắn vào tubulin** | MBZ gắn vào β-tubulin, ngăn polymer hóa |
-| **Chặn G2/M** | Tế bào ung thư không thể phân chia |
-| **IC50** | 0.1–0.32 μM (rất thấp, hiệu quả cao) |
+## 3. Research Level: Mạnh Ở Đâu, Yếu Ở Đâu?
 
-> Giống cơ chế của vincristine, paclitaxel — nhưng MBZ ít độc hơn nhiều.
+| Evidence type | Ý nghĩa | Giới hạn |
+|---|---|---|
+| In vitro | thấy cơ chế trên cell lines | không tự động translate sang người |
+| Animal studies | thấy tín hiệu trong organism | dose/metabolism khác người |
+| Case reports | gợi ý đáng chú ý | không chứng minh causality |
+| Small trials | bắt đầu kiểm tra safety/efficacy | cần larger trials |
+| Anecdotes | tạo hypothesis | dễ bị survivorship bias |
 
-### 2. Chống Tạo Mạch / Anti-Angiogenesis
-
-| Target | Effect |
-|--------|--------|
-| **VEGFR2** | Ức chế receptor tạo mạch máu mới |
-| **HIF-1/HIF-2** | Chặn yếu tố thiếu oxy (hypoxia) |
-| **Result** | Khối u không được nuôi dưỡng |
-
-### 3. Kích Hoạt Apoptosis / Apoptosis Activation
-
-| Protein | Thay đổi |
-|---------|----------|
-| **Bax** | ↑ Tăng (pro-apoptotic) |
-| **p53** | ↑ Ổn định hóa |
-| **Bcl-2** | ↓ Giảm (anti-apoptotic) |
-| **XIAP** | ↓ Giảm |
-| **Caspase 3/9** | ↑ Kích hoạt |
-
-### 4. Autophagy
-
-- Tăng protein tự thực bào: **LC3**, **Beclin-1**
-- Tế bào ung thư "tự ăn" chính mình
-- Synergy với apoptosis
-
-### 5. Đánh Thức Hệ Miễn Dịch / Immune Activation
-
-| Từ | Sang | Ý nghĩa |
-|----|------|---------|
-| **M2 macrophage** | **M1 macrophage** | Từ "thân thiện khối u" → "giết ung thư" |
-
-### 6. Chặn Di Căn / Anti-Metastasis
-
-- Ức chế **MMP** (Matrix Metalloproteinases)
-- Ngăn tế bào ung thư xâm lấn mô xung quanh
-- Hiệu quả ở nồng độ thấp (0.1 μM)
+Đây là chỗ cần tỉnh táo: nhiều chất “giết cancer cells in vitro” nhưng không thành therapy hiệu quả ở người. MBZ đáng nghiên cứu vì nhiều signal hội tụ, không phải vì đã được chứng minh như cure.
 
 ---
 
-## Nghiên Cứu Khoa Học / Scientific Studies
+## 4. Parasite Hypothesis / Ký Sinh Và Terrain
 
-### In Vitro (Phòng thí nghiệm)
+Một nhánh đọc trong vault: cancer terrain có thể liên quan parasite/fungal/toxin load ở một số context. Đây là tầng speculative/terrain synthesis, không phải consensus oncology.
 
-| Cancer Type | IC50 | Source |
-|-------------|------|--------|
-| **Melanoma** | 0.32 μM | ecancer 2014 |
-| **Lung cancer** | < 1 μM | PMC6769799 |
-| **Breast cancer** | Active | PMC9954103 |
-| **Glioblastoma** | Active | Case reports |
+Điểm đáng chú ý là pattern:
 
-### In Vivo (Trên chuột)
+- MBZ: antiparasitic, cancer research candidate
+- [[Suramin]]: antiparasitic, có nhiều hiệu ứng sinh học khác
+- Ivermectin/fenbendazole: cũng thường xuất hiện trong drug-repurposing discussions
 
-| Model | Dose | Result |
-|-------|------|--------|
-| **Medulloblastoma** | 50 mg/kg/day | Retarded tumor growth |
-| **Glioblastoma** | 50 mg/kg/day | Stopped tumor growth |
-| **Melanoma** | High dose | Tumor regression |
+Có thể đọc theo hai hướng:
 
-### Clinical Trials (Trên người)
+| Mainstream-ish reading | Terrain/vault reading |
+|---|---|
+| MBZ tác động trực tiếp lên cancer cell pathways | MBZ cũng có thể thay đổi parasite/microbiome/toxin terrain |
+| Cancer là clonal disease | Cancer là metabolic + terrain collapse |
+| Repurposed drug là adjunct candidate | Repurposed drug là dấu hiệu system bỏ qua thuốc rẻ |
 
-| Trial | Phase | Cancer Type | Result |
-|-------|-------|-------------|--------|
-| **Nature 2021** | Phase 2a | GI cancer | Safe, some efficacy |
-| **Case reports** | N/A | Adrenocortical, Colon | Tumor regression reported |
+Cần giữ cả hai mà không giả vờ tầng speculative là fact.
 
 ---
 
-## Góc Nhìn Terrain Theory / Alternative Perspective
+## 5. Parasite Mind Control: Vì Sao Liên Quan?
 
-Theo [[Thuyết Vi Sinh Nội Sinh]] và [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]]:
+Ký sinh trùng có thể thao túng hành vi vật chủ trong nhiều loài. Đây là fact sinh học thú vị, nhưng khi extrapolate sang con người phải cẩn trọng.
 
-> *"Khối u là nơi gom độc tố — cơ thể đang tự bảo vệ, không phải tự tấn công."*
+Ví dụ thường được nhắc:
 
-### Giả Thuyết Ký Sinh / Parasite Hypothesis
+- **Toxoplasma gondii**: liên quan thay đổi hành vi ở rodents; ở người có correlation với một số trait/risk nhưng không nên nói quá.
+- **Ophiocordyceps**: nấm zombie ở kiến.
+- **Dicrocoelium dendriticum**: thay đổi hành vi kiến để hoàn tất life cycle.
+- **Leucochloridium**: làm ốc sên dễ bị chim ăn.
 
-| Mainstream View | Terrain View |
-|-----------------|--------------|
-| MBZ giết tế bào ung thư | MBZ diệt ký sinh trùng/nấm trong khối u |
-| Cancer = genetic mutation | Cancer = toxin accumulation + parasites |
-| MBZ = chemotherapy nhẹ | MBZ = detox + antiparasitic |
+Trong vault, phần này không nhằm nói “mọi craving là ký sinh điều khiển”. Nó nhằm mở một câu hỏi:
 
----
-
-## Ký Sinh Trùng Thao Túng Hành Vi Vật Chủ / Parasite Mind Control
-
-Một trong những khám phá đáng kinh ngạc nhất: **ký sinh trùng có thể thay đổi hành vi, sở thích, thậm chí tâm lý của vật chủ** để phục vụ mục đích sinh tồn của chúng.
-
-*One of the most astonishing discoveries: parasites can alter the behavior, preferences, even psychology of their hosts to serve the parasite's survival.*
-
-### Các Ví Dụ Được Chứng Minh / Proven Examples
-
-| Ký sinh / Parasite | Vật chủ / Host | Hành vi bị thao túng / Manipulated Behavior |
-|--------------------|----------------|---------------------------------------------|
-| **Toxoplasma gondii** | Chuột → Mèo | Chuột **mất sợ mèo**, thậm chí bị hấp dẫn bởi mùi nước tiểu mèo |
-| **Ophiocordyceps** (nấm zombie) | Kiến | Kiến leo lên cao, cắn lá, chết để nấm phát tán bào tử |
-| **Dicrocoelium dendriticum** (sán lá gan) | Kiến → Bò | Kiến leo lên ngọn cỏ buổi tối, chờ bị bò ăn |
-| **Spinochordodes tellinii** (giun tóc) | Dế | Dế nhảy vào nước tự chết (giun cần nước để sinh sản) |
-| **Leucochloridium** (sán dẹp) | Ốc sên → Chim | Râu ốc phình lên, nhấp nháy như sâu để chim ăn |
-
-### Toxoplasma & Con Người / Toxoplasma in Humans
-
-**Toxoplasma gondii** không chỉ ảnh hưởng chuột — nó cũng nhiễm **30-50% dân số thế giới**:
-
-| Nghiên cứu / Study | Phát hiện / Finding |
-|--------------------|---------------------|
-| Flegr et al. | Người nhiễm T. gondii có **phản xạ chậm hơn**, dễ gặp tai nạn xe |
-| Nhiều nghiên cứu | Correlation với **risk-taking behavior**, thay đổi tính cách |
-| Case studies | Liên quan đến một số **rối loạn tâm thần**? |
-
-### Ký Sinh & Thèm Đường / Parasites & Sugar Cravings
-
-**Quan sát thực tế:** Nhiều người sau khi xổ giun báo cáo:
-- ✅ **Hết thèm ngọt** 
-- ✅ **Insulin ổn định hơn**
-- ✅ **Cân bằng năng lượng tốt hơn**
-
-**Giả thuyết:**
-
-```mermaid
-flowchart LR
-    P["Ký sinh trùng đường ruột<br/>Intestinal parasites"]
-    G["Tiêu thụ GLUCOSE<br/>của vật chủ"]
-    S["Tiết chất kích thích<br/>THÈM ĐƯỜNG"]
-    H["Vật chủ ăn nhiều đường hơn"]
-    F["Ký sinh được nuôi dưỡng"]
-    
-    P --> G --> S --> H --> F --> P
-```
-
-> **Sau khi xổ giun:** Không còn ký sinh → Không còn "tín hiệu" đòi đường → Hết thèm ngọt!
-
-### Implications — Nếu Đúng Thì Sao?
-
-| Câu hỏi | Possibility |
-|---------|-------------|
-| "Tại sao tôi thèm ngọt?" | Có thể không phải **bạn** thèm — mà **ký sinh** đang ra lệnh |
-| "Tại sao tôi có hành vi lạ?" | Một số hành vi có thể bị **thao túng** bởi ký sinh? |
-| "Xổ giun định kỳ?" | Có thể là **mental hygiene**, không chỉ physical |
-
-### Protocol Xổ Giun Định Kỳ / Regular Deworming Protocol
-
-| Thuốc | Liều | Cách dùng |
-|-------|------|-----------|
-| **Mebendazole 500mg** | 1 viên/ngày | 3 ngày liên tiếp |
-| **Thời điểm** | Sáng, bụng rỗng | Với dầu olive |
-| **Tần suất** | 2-4 lần/năm | Hoặc khi có dấu hiệu |
-
-**Dấu hiệu cần xổ giun:**
-- Thèm ngọt bất thường
-- Ngứa hậu môn (đặc biệt ban đêm)
-- Đau bụng không rõ nguyên nhân
-- Mệt mỏi, thiếu năng lượng
-- Nghiến răng khi ngủ
-
-### Kết Nối Với Suramin
-
-[[Suramin]] cũng là thuốc anti-parasitic với tác dụng phụ là... chống ung thư và reset hệ thần kinh.
-
-Pattern: **Thuốc tẩy giun/ký sinh → Chống ung thư** ?
+> Nếu vi sinh/ký sinh có thể ảnh hưởng hành vi, vậy health sovereignty không thể chỉ nhìn cơ thể như cái máy cơ học.
 
 ---
 
-## Liều Dùng & Cảnh Báo / Dosage & Warnings
+## 6. Protocol Talk: Nên Rất Cẩn Trọng
 
-### Liều Tẩy Giun Thông Thường
+Các protocol dân gian/internet thường nhắc MBZ/Fenbendazole theo lịch xoay vòng. Nhưng đây là vùng nguy hiểm nếu copy mù.
 
-| Product | Dose | Frequency |
-|---------|------|-----------|
-| **Fugacar 500mg** | 500mg | 1 lần duy nhất |
-| **Vermox 100mg** | 100mg x 2 | 3 ngày |
+Các điểm cần theo dõi nếu có người chuyên môn cân nhắc:
 
-### Liều Trong Nghiên Cứu Ung Thư
+- liver enzymes,
+- drug interactions,
+- blood counts,
+- GI side effects,
+- cancer type,
+- standard treatment timing,
+- dose/duration,
+- supplement interactions.
 
-| Protocol | Dose | Duration |
-|----------|------|----------|
-| **Joe Tippens** | 222mg/day | 3 days on, 4 off |
-| **Clinical trials** | Up to 200mg/kg/day | Continuous |
-| **Mouse studies** | 50mg/kg/day | Daily |
-
-### ⚠️ CẢNH BÁO / WARNINGS
-
-| Risk | Description |
-|------|-------------|
-| **Không FDA approved** | Chưa được phê duyệt cho ung thư |
-| **Tương tác thuốc** | Có thể tương tác với chemo |
-| **Gan** | Liều cao có thể ảnh hưởng gan |
-| **Cần bác sĩ** | Không tự ý dùng liều cao kéo dài |
-
-> **Disclaimer:** Bài viết chỉ mang tính tham khảo. Không thay thế tư vấn y khoa chuyên nghiệp.
+Không nên lấy anecdote của người khác làm đơn thuốc cho mình.
 
 ---
 
-## Fenbendazole vs Mebendazole
+## 7. Vì Sao Big Pharma Không Mặn Mà?
 
-| Property | Fenbendazole | Mebendazole |
-|----------|--------------|-------------|
-| **Nguồn gốc** | Thuốc thú y | Thuốc người |
-| **Nổi tiếng** | Joe Tippens protocol | Clinical trials |
-| **Cơ chế** | Tương tự | Tương tự |
-| **Độ an toàn** | Ít data ở người | Nhiều data hơn |
-| **Giá** | Rẻ hơn | Đắt hơn chút |
+Drug repurposing gặp vấn đề incentive:
+
+- thuốc hết patent khó độc quyền,
+- trial lớn tốn tiền,
+- ROI thấp hơn drug mới,
+- không dễ marketing như breakthrough therapy,
+- nếu hiệu quả adjunct rẻ, nó có thể đe dọa revenue model.
+
+Điều này không chứng minh MBZ là cure. Nhưng nó giải thích vì sao nhiều candidate rẻ không được đẩy mạnh như thuốc mới có patent.
+
+Đây là classic [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]]: không chỉ hỏi “có hiệu quả không?”, mà hỏi “ai có incentive để tìm câu trả lời?”.
+
+---
+
+## 8. Practical Reading
+
+Nếu đọc bài này để tự học, hãy giữ khung:
+
+1. MBZ là repurposing candidate, không phải miracle cure.
+2. Preclinical evidence đáng chú ý nhưng chưa đủ cho certainty.
+3. Nếu có cancer, không tự ý thay standard care bằng internet protocol.
+4. Metabolic terrain vẫn quan trọng: sleep, food, insulin, inflammation, stress, toxin load.
+5. Cần đọc MBZ trong hệ rộng hơn: [[Ung Thư - Metabolic Protocol]], [[Ketogenic Diet]], [[Prolonged Fasting]], [[Y Tế Tự Nhiên]].
+
+---
+
+## Source Register / Nguồn Cần Đối Chiếu
+
+Khi citation pass sâu hơn, ưu tiên:
+
+- PubMed/PMC reviews on mebendazole and cancer drug repurposing.
+- Studies on benzimidazoles, tubulin binding, anti-angiogenesis, apoptosis.
+- Clinical trial registry entries for MBZ in cancer.
+- Case reports: glioblastoma, adrenocortical carcinoma, colon/GI cancers.
+- Safety data from standard anti-helminthic use and high-dose contexts.
+- Conventional oncology guidelines for each cancer type.
+
+---
+
+## Synthesis
+
+Mebendazole là một node nhỏ nhưng rất giàu pattern. Nó chạm vào cancer metabolism, parasite hypothesis, drug repurposing, pharma incentive và health sovereignty.
+
+Nó không nên được thần thánh hóa. Nhưng cũng không nên bị dismiss chỉ vì nó rẻ, cũ, và không có marketing budget.
+
+> Câu hỏi không phải “MBZ có phải phép màu không?”. Câu hỏi đúng hơn là: hệ thống y tế hiện tại có thật sự được thiết kế để tìm mọi câu trả lời rẻ, cũ và không thể độc quyền không?
 
 ---
 
 ## Related
 
-### Protocol
-- [[Ung Thư - Metabolic Protocol]] — Full protocol: Giải giáp + Liver support + Immunity + Diet
-
-### Health / Sức khỏe
-- [[Suramin]] — Anti-parasitic, Third Eye
-- [[Thuyết Vi Sinh Nội Sinh]] — Terrain theory
-- [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]] — Nhìn khác về ung thư
-- [[Y Tế Tự Nhiên]] — Natural health
-
-### Matrix Connection
-- [[Thuốc Hóa Dầu]] — Big Pharma interests
-- [[Điều mà nền giáo dục và chính phủ không dạy bạn]]
-
-### Research
-- [[The China Study]] — Diet & cancer connection
+- [[Ung Thư - Metabolic Protocol]]
+- [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]]
+- [[Thuyết Vi Sinh Nội Sinh]]
+- [[Suramin]]
+- [[Ketogenic Diet]]
+- [[Prolonged Fasting]]
+- [[MOC - Health Sovereignty]]
