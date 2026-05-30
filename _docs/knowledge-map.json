@@ -11,7 +11,7 @@
       "science-tech": 16
     },
     "tags": 166,
-    "wikilinkEdges": 1654,
+    "wikilinkEdges": 1656,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -6013,6 +6013,82 @@
         "summary": "Bài viết tổng hợp các kiến thức về chu kỳ chuyển hóa nhân loại (Vận Chín), trí tuệ của dân tộc Kogi và sự thật về các hệ thống kiểm soát nhận thức/thân xác con người."
       },
       {
+        "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+        "domain": "health",
+        "tags": [
+          "health"
+        ],
+        "aliases": [
+          "Seeing Through Western Medicine",
+          "They Live Medicine"
+        ],
+        "headings": [
+          "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+          "How To Read This / Cách Đọc Bài Này",
+          "Vòng Lặp Lệ Thuộc / The Dependency Loop",
+          "1. Ghép Tạng — Ngành Công Nghiệp Tội Ác",
+          "Sự Thật Đen Tối / Dark Truths",
+          "Tỷ Lệ Sống / Survival Rates",
+          "Cuộc Sống Sau Ghép / Life After Transplant",
+          "2. Ung Thư — Điều Trị Hay Giết Người?",
+          "Khi Nào Khối U Nguy Hiểm? / When Is a Tumor Dangerous?",
+          "Điều Trị = Di Căn / Treatment = Metastasis",
+          "3. Tiểu Đường — Lừa Dối Về Đường",
+          "Vòng Lặp Thuốc / The Drug Loop",
+          "Bản Chất Thực Sự / The Real Nature",
+          "Tội Ác Của Việc Kiêng Đường / The Crime of Sugar Restriction",
+          "4. Các Bệnh Khác — Cùng Pattern",
+          "Viêm Gan B / Hepatitis B",
+          "Táo Bón / Constipation",
+          "Suy Thận / Kidney Failure",
+          "Mất Ngủ / Insomnia",
+          "Cao Huyết Áp / Hypertension",
+          "Mỡ Máu / High Cholesterol",
+          "Kết Luận / Conclusion",
+          "Thay Thế / Alternative",
+          "Related",
+          "Source Register / Nguồn Cần Đối Chiếu"
+        ],
+        "wikilinks": [
+          "Công Thức Chữa Lành Tự Nhiên",
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Elite",
+          "Ma Trận",
+          "MOC - Health Sovereignty",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Thuốc Hóa Dầu",
+          "Ung Thư - Metabolic Protocol",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Thuốc Hóa Dầu.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Y Tế Tự Nhiên.md",
+          "MOC - Health Sovereignty.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Ma Trận.md",
+          "health/Ketogenic Diet.md",
+          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Y Tế Tự Nhiên.md",
+          "index.md",
+          "MOC - Health Sovereignty.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 1852,
+        "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
+      },
+      {
         "path": "health/Thuốc Hóa Dầu.md",
         "title": "Thuốc Hóa Dầu (Petrochemical Medicine)",
         "domain": "health",
@@ -6083,76 +6159,6 @@
         ],
         "words": 762,
         "summary": "**Thuốc Hóa Dầu** là các dược phẩm có nguồn gốc từ hóa chất chưng cất dầu mỏ. Nền tảng của y học hiện đại được thiết lập để thay thế tri thức y học tự nhiên."
-      },
-      {
-        "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-        "domain": "health",
-        "tags": [
-          "health"
-        ],
-        "aliases": [
-          "Seeing Through Western Medicine",
-          "They Live Medicine"
-        ],
-        "headings": [
-          "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-          "Vòng Lặp Lệ Thuộc / The Dependency Loop",
-          "1. Ghép Tạng — Ngành Công Nghiệp Tội Ác",
-          "Sự Thật Đen Tối / Dark Truths",
-          "Tỷ Lệ Sống / Survival Rates",
-          "Cuộc Sống Sau Ghép / Life After Transplant",
-          "2. Ung Thư — Điều Trị Hay Giết Người?",
-          "Khi Nào Khối U Nguy Hiểm? / When Is a Tumor Dangerous?",
-          "Điều Trị = Di Căn / Treatment = Metastasis",
-          "3. Tiểu Đường — Lừa Dối Về Đường",
-          "Vòng Lặp Thuốc / The Drug Loop",
-          "Bản Chất Thực Sự / The Real Nature",
-          "Tội Ác Của Việc Kiêng Đường / The Crime of Sugar Restriction",
-          "4. Các Bệnh Khác — Cùng Pattern",
-          "Viêm Gan B / Hepatitis B",
-          "Táo Bón / Constipation",
-          "Suy Thận / Kidney Failure",
-          "Mất Ngủ / Insomnia",
-          "Cao Huyết Áp / Hypertension",
-          "Mỡ Máu / High Cholesterol",
-          "Kết Luận / Conclusion",
-          "Thay Thế / Alternative",
-          "Related"
-        ],
-        "wikilinks": [
-          "Công Thức Chữa Lành Tự Nhiên",
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Elite",
-          "Ma Trận",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Thuốc Hóa Dầu",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Thuốc Hóa Dầu.md",
-          "health/Y Tế Tự Nhiên.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Ma Trận.md",
-          "health/Ketogenic Diet.md",
-          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Y Tế Tự Nhiên.md",
-          "index.md",
-          "MOC - Health Sovereignty.md",
-          "MOC - Science Revisionism.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 1574,
-        "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
       },
       {
         "path": "health/Suramin.md",
@@ -6300,6 +6306,7 @@
         ],
         "headings": [
           "Ung Thư — Metabolic Protocol",
+          "Evidence Discipline / Cách Đọc Protocol Này",
           "Thịt, Sữa & Bệnh Văn Minh / Meat, Dairy & Modern Disease",
           "Conspiracy Đã Được Chứng Minh",
           "The China Study (T. Colin Campbell)",
@@ -6334,7 +6341,8 @@
           "Protocol Components",
           "Theory",
           "Sources / Nguồn",
-          "Lifestyle"
+          "Lifestyle",
+          "Source Register / Nguồn Cần Đối Chiếu"
         ],
         "wikilinks": [
           "Ketogenic Diet",
@@ -6358,13 +6366,14 @@
         "backlinks": [
           "Cách Đọc Red Pill Wiki.md",
           "health/Ketogenic Diet.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
           "health/Prolonged Fasting.md",
           "index.md",
           "MOC - Health Sovereignty.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
-        "words": 1595,
+        "words": 1923,
         "summary": "Hướng dẫn toàn diện về ung thư từ góc nhìn **chuyển hóa (metabolic)** — không phải đột biến gen, mà là **ti thể bị lỗi**. Bao gồm cơ chế, phòng ngừa, và protocol điều trị thay thế."
       },
       {
@@ -11275,6 +11284,7 @@
         "backlinks": [
           "esoterica/Ma Trận.md",
           "health/Ketogenic Diet.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/Prolonged Fasting.md",
           "index.md",
           "science-tech/Khoa Học Xét Lại.md"
@@ -16539,6 +16549,7 @@
       "backlinks": [
         "esoterica/Ma Trận.md",
         "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Prolonged Fasting.md",
         "index.md",
         "science-tech/Khoa Học Xét Lại.md"
@@ -22631,6 +22642,7 @@
       ],
       "headings": [
         "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+        "How To Read This / Cách Đọc Bài Này",
         "Vòng Lặp Lệ Thuộc / The Dependency Loop",
         "1. Ghép Tạng — Ngành Công Nghiệp Tội Ác",
         "Sự Thật Đen Tối / Dark Truths",
@@ -22652,15 +22664,18 @@
         "Mỡ Máu / High Cholesterol",
         "Kết Luận / Conclusion",
         "Thay Thế / Alternative",
-        "Related"
+        "Related",
+        "Source Register / Nguồn Cần Đối Chiếu"
       ],
       "wikilinks": [
         "Công Thức Chữa Lành Tự Nhiên",
         "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
         "Elite",
         "Ma Trận",
+        "MOC - Health Sovereignty",
         "Thuyết Vi Sinh Nội Sinh",
         "Thuốc Hóa Dầu",
+        "Ung Thư - Metabolic Protocol",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
@@ -22670,7 +22685,9 @@
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Thuốc Hóa Dầu.md",
+        "health/Ung Thư - Metabolic Protocol.md",
         "health/Y Tế Tự Nhiên.md",
+        "MOC - Health Sovereignty.md",
         "politics-conspiracy/Elite.md"
       ],
       "backlinks": [
@@ -22685,7 +22702,7 @@
         "MOC - Science Revisionism.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 1574,
+      "words": 1852,
       "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
     },
     "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md": {
@@ -23549,6 +23566,7 @@
       ],
       "headings": [
         "Ung Thư — Metabolic Protocol",
+        "Evidence Discipline / Cách Đọc Protocol Này",
         "Thịt, Sữa & Bệnh Văn Minh / Meat, Dairy & Modern Disease",
         "Conspiracy Đã Được Chứng Minh",
         "The China Study (T. Colin Campbell)",
@@ -23583,7 +23601,8 @@
         "Protocol Components",
         "Theory",
         "Sources / Nguồn",
-        "Lifestyle"
+        "Lifestyle",
+        "Source Register / Nguồn Cần Đối Chiếu"
       ],
       "wikilinks": [
         "Ketogenic Diet",
@@ -23607,13 +23626,14 @@
       "backlinks": [
         "Cách Đọc Red Pill Wiki.md",
         "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Prolonged Fasting.md",
         "index.md",
         "MOC - Health Sovereignty.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 1595,
+      "words": 1923,
       "summary": "Hướng dẫn toàn diện về ung thư từ góc nhìn **chuyển hóa (metabolic)** — không phải đột biến gen, mà là **ti thể bị lỗi**. Bao gồm cơ chế, phòng ngừa, và protocol điều trị thay thế."
     },
     "health/Virus và Kiếp Tật Dịch.md": {

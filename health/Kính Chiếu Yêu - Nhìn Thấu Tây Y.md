@@ -17,6 +17,23 @@ Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ c
 
 ---
 
+## How To Read This / Cách Đọc Bài Này
+
+Bài này là một **system critique** về medical-industrial complex, không phải lời khuyên y khoa cá nhân. Nó dùng metaphor mạnh để buộc người đọc nhìn incentive, dependency loop và blind trust trong Tây Y.
+
+Cần tách bốn tầng:
+
+| Tầng | Cách đọc | Ví dụ |
+|---|---|---|
+| **Fact / documentable** | sự thật y khoa, side effect, survival statistics, industry record | drug adverse effects, transplant protocols, pharma settlements |
+| **Pattern / system critique** | symptom management, dependency loop, profit incentives | chronic medication, recurring treatment, insurance/pharma logic |
+| **Interpretive / terrain view** | body as self-healing terrain, symptom as signal | [[Thuyết Vi Sinh Nội Sinh]], [[Y Tế Tự Nhiên]] |
+| **Polemic / redpill language** | câu chữ mạnh để phá hypnosis | “kính chiếu yêu”, “ngành công nghiệp”, “Ma Trận y tế” |
+
+Không nên lấy polemic language làm medical instruction. Cũng không nên vì tone mạnh mà bỏ qua pattern thật về incentive và dependency.
+
+---
+
 ## Vòng Lặp Lệ Thuộc / The Dependency Loop
 
 ```mermaid
@@ -246,3 +263,19 @@ Xem [[Y Tế Tự Nhiên]] để tìm hiểu các phương pháp chữa lành th
 - [[Y Tế Tự Nhiên]] — Alternative approaches
 - [[Ma Trận]] — The bigger system
 - [[Elite]] — Who benefits
+
+
+---
+
+## Source Register / Nguồn Cần Đối Chiếu
+
+Các nhóm nguồn cần ưu tiên nếu audit/citation pass sâu hơn:
+
+- **Medical guidelines / standard-of-care** — để biết mainstream claim chính xác trước khi phản biện.
+- **Drug labels and adverse event data** — side effects, contraindications, long-term risks.
+- **Pharma settlements / regulatory records** — incentive, fraud, marketing abuse, captured regulation.
+- **Transplant ethics literature** — brain death criteria, organ procurement protocols, informed consent debates.
+- **Terrain theory / nutrition / metabolism literature** — dùng như counter-frame, cần phân biệt evidence mạnh/yếu.
+- **Health sovereignty nodes** — [[Y Tế Tự Nhiên]], [[Thuyết Vi Sinh Nội Sinh]], [[Ung Thư - Metabolic Protocol]], [[MOC - Health Sovereignty]].
+
+> Với health content, mục tiêu không phải làm người đọc sợ bác sĩ. Mục tiêu là làm người đọc ngừng outsource toàn bộ quyền hiểu cơ thể.

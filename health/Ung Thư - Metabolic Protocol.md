@@ -12,7 +12,24 @@ Hướng dẫn toàn diện về ung thư từ góc nhìn **chuyển hóa (metab
 
 *Comprehensive guide to cancer from a metabolic perspective — not genetic mutation, but mitochondrial dysfunction. Includes mechanism, prevention, and alternative treatment protocols.*
 
-> **Disclaimer:** Bài viết chỉ mang tính tham khảo. Không thay thế tư vấn y khoa chuyên nghiệp.
+> **Disclaimer:** Bài viết chỉ mang tính tham khảo. Không thay thế tư vấn y khoa chuyên nghiệp. Ung thư là tình trạng nghiêm trọng; mọi thay đổi lớn về điều trị, thuốc, fasting, keto, hoặc repurposed drugs cần được cân nhắc với người có chuyên môn và theo dõi bằng dữ liệu.
+
+---
+
+## Evidence Discipline / Cách Đọc Protocol Này
+
+Bài này dùng giọng mạnh vì nó là một metabolic/terrain counter-frame với oncology chính thống. Nhưng cần đọc đúng tầng claim:
+
+| Tầng | Cách đọc | Ví dụ |
+|---|---|---|
+| **Fact / documentable** | cơ chế sinh học hoặc phân loại có nguồn kiểm được | Warburg effect, IARC processed meat Group 1, insulin/glucose metabolism |
+| **Research / emerging** | có nghiên cứu nhưng còn tùy cancer type, context, trial quality | keto adjunct therapy, fasting around treatment, drug repurposing |
+| **Pattern / systems reading** | incentive của oncology/pharma/food system | chronic treatment, lobby, funding bias, dietary guideline politics |
+| **Vault synthesis** | terrain/metabolic protocol tổng hợp nhiều hướng | mitochondria, detox, fasting, keto, antiparasitic repurposing |
+
+Không nên đọc bài này như “bỏ hết điều trị chính thống”. Cách đọc đúng là: hiểu thêm một frame metabolic/terrain để đặt câu hỏi tốt hơn, giảm blind trust, và biết cần theo dõi dữ liệu gì.
+
+> Strong synthesis is not permission for reckless certainty.
 
 ---
 
@@ -326,3 +343,20 @@ flowchart TD
 ### Lifestyle
 - [[Prolonged Fasting]] — Autophagy activation
 - [[Ketogenic Diet]] — Starve cancer cells
+
+
+---
+
+## Source Register / Nguồn Cần Đối Chiếu
+
+Các nhóm nguồn nên được dùng khi citation pass sâu hơn:
+
+- **Otto Warburg / cancer metabolism** — Warburg effect, mitochondrial respiration vs fermentation.
+- **WHO/IARC Monographs** — processed meat Group 1, red meat Group 2A classification.
+- **The China Study / T. Colin Campbell** — epidemiology and casein/cancer discussion; cần đọc cùng criticism để tránh one-sided certainty.
+- **Fasting / autophagy literature** — Yoshinori Ohsumi/autophagy background, fasting-mimicking diet studies, clinical context.
+- **Ketogenic diet and oncology reviews** — adjunct therapy evidence, cancer-type specificity, contraindications.
+- **Drug repurposing literature** — mebendazole/ivermectin/metformin/doxycycline mechanisms and evidence quality.
+- **Conventional oncology guidelines** — dùng để biết standard-of-care đang nói gì trước khi phản biện.
+
+> Với health nodes, source discipline quan trọng hơn cảm giác “nghe có lý”. Body không phải nơi để thử niềm tin một cách mù quáng.

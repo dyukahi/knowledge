@@ -7,7 +7,7 @@
 - **Notes scanned:** 182
 - **Top-level domains:** 7
 - **Tags detected:** 166
-- **Resolved internal edges:** 1654
+- **Resolved internal edges:** 1656
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 2
 
@@ -45,11 +45,11 @@ Recommended note types:
 - [[health/Thuyết Vi Sinh Nội Sinh|Thuyết Vi Sinh Nội Sinh (Terrain Theory)]] — degree `34`, backlinks `24`, outlinks `10` — #health
 - [[health/Tuyến Tùng|Tuyến Tùng]] — degree `29`, backlinks `22`, outlinks `7` — #health
 - [[health/Vận Chín, Người Kogi và Ma Trận Y Tế|Vận Chín, Người Kogi và Ma Trận Y Tế]] — degree `25`, backlinks `14`, outlinks `11` — #awakening, #health, #kogi, #matrix, #pineal-gland
+- [[health/Kính Chiếu Yêu - Nhìn Thấu Tây Y|Kính Chiếu Yêu — Nhìn Thấu Tây Y]] — degree `19`, backlinks `10`, outlinks `9` — #health
 - [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]] — degree `18`, backlinks `11`, outlinks `7` — #3, #health
-- [[health/Kính Chiếu Yêu - Nhìn Thấu Tây Y|Kính Chiếu Yêu — Nhìn Thấu Tây Y]] — degree `17`, backlinks `10`, outlinks `7` — #health
 - [[health/Suramin|Suramin]] — degree `17`, backlinks `8`, outlinks `9` — #health
 - [[health/Plasma Quinton|Plasma Quinton (Huyết Tương Biển)]] — degree `15`, backlinks `11`, outlinks `4` — #health
-- [[health/Ung Thư - Metabolic Protocol|Ung Thư — Metabolic Protocol]] — degree `14`, backlinks `7`, outlinks `7` — #cancer, #health, #metabolic-therapy, #protocol
+- [[health/Ung Thư - Metabolic Protocol|Ung Thư — Metabolic Protocol]] — degree `15`, backlinks `8`, outlinks `7` — #cancer, #health, #metabolic-therapy, #protocol
 - [[health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư|Mebendazole — Thuốc Tẩy Giun Chống Ung Thư]] — degree `13`, backlinks `5`, outlinks `8` — #cancer, #health, #repurposed-drugs
 - [[health/Cơ Chế Tự Bảo Vệ Của Cơ Thể|Cơ Chế Tự Bảo Vệ Của Cơ Thể]] — degree `11`, backlinks `6`, outlinks `5` — #health, #immune-system, #terrain-theory
 - [[health/Ketogenic Diet|Ketogenic Diet]] — degree `11`, backlinks `4`, outlinks `7` — #cancer, #health, #metabolism, #sovereignty
@@ -121,7 +121,7 @@ Recommended note types:
 - [[index|Red Pill Wiki]] — degree `97`, backlinks `0`, outlinks `97` — #index, #navigation
 - [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `27`, backlinks `3`, outlinks `24` — #consciousness, #esoterica, #moc
 - [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `23`, backlinks `7`, outlinks `16` — #epistemology, #meta, #navigation
-- [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `21`, backlinks `5`, outlinks `16` — #health, #moc, #sovereignty
+- [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `22`, backlinks `6`, outlinks `16` — #health, #moc, #sovereignty
 - [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]] — degree `20`, backlinks `4`, outlinks `16` — #esoterica, #hidden-history, #moc
 - [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `20`, backlinks `4`, outlinks `16` — #epistemology, #moc, #propaganda
 - [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `20`, backlinks `4`, outlinks `16` — #moc, #revisionist-science, #science-tech
