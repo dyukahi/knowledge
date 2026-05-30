@@ -11,7 +11,7 @@
       "science-tech": 16
     },
     "tags": 166,
-    "wikilinkEdges": 1643,
+    "wikilinkEdges": 1651,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -1053,6 +1053,7 @@
           "esoterica/Thánh Issa.md",
           "esoterica/Tà Linh.md",
           "esoterica/Đạo.md",
+          "health/Prolonged Fasting.md",
           "health/Tuyến Tùng.md",
           "index.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
@@ -5839,6 +5840,7 @@
           "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
           "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
           "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+          "health/Ketogenic Diet.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
           "health/Plasma Quinton.md",
@@ -6083,6 +6085,76 @@
         "summary": "**Thuốc Hóa Dầu** là các dược phẩm có nguồn gốc từ hóa chất chưng cất dầu mỏ. Nền tảng của y học hiện đại được thiết lập để thay thế tri thức y học tự nhiên."
       },
       {
+        "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+        "domain": "health",
+        "tags": [
+          "health"
+        ],
+        "aliases": [
+          "Seeing Through Western Medicine",
+          "They Live Medicine"
+        ],
+        "headings": [
+          "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+          "Vòng Lặp Lệ Thuộc / The Dependency Loop",
+          "1. Ghép Tạng — Ngành Công Nghiệp Tội Ác",
+          "Sự Thật Đen Tối / Dark Truths",
+          "Tỷ Lệ Sống / Survival Rates",
+          "Cuộc Sống Sau Ghép / Life After Transplant",
+          "2. Ung Thư — Điều Trị Hay Giết Người?",
+          "Khi Nào Khối U Nguy Hiểm? / When Is a Tumor Dangerous?",
+          "Điều Trị = Di Căn / Treatment = Metastasis",
+          "3. Tiểu Đường — Lừa Dối Về Đường",
+          "Vòng Lặp Thuốc / The Drug Loop",
+          "Bản Chất Thực Sự / The Real Nature",
+          "Tội Ác Của Việc Kiêng Đường / The Crime of Sugar Restriction",
+          "4. Các Bệnh Khác — Cùng Pattern",
+          "Viêm Gan B / Hepatitis B",
+          "Táo Bón / Constipation",
+          "Suy Thận / Kidney Failure",
+          "Mất Ngủ / Insomnia",
+          "Cao Huyết Áp / Hypertension",
+          "Mỡ Máu / High Cholesterol",
+          "Kết Luận / Conclusion",
+          "Thay Thế / Alternative",
+          "Related"
+        ],
+        "wikilinks": [
+          "Công Thức Chữa Lành Tự Nhiên",
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Elite",
+          "Ma Trận",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Thuốc Hóa Dầu",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Thuốc Hóa Dầu.md",
+          "health/Y Tế Tự Nhiên.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Ma Trận.md",
+          "health/Ketogenic Diet.md",
+          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Y Tế Tự Nhiên.md",
+          "index.md",
+          "MOC - Health Sovereignty.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 1574,
+        "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
+      },
+      {
         "path": "health/Suramin.md",
         "title": "Suramin",
         "domain": "health",
@@ -6148,75 +6220,6 @@
         ],
         "words": 391,
         "summary": "**Suramin** là hợp chất từ vỏ cây thông, phát hiện năm 1916. Trong y tế tự nhiên, được nghiên cứu về tác động lên hệ thần kinh và nhận thức."
-      },
-      {
-        "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-        "domain": "health",
-        "tags": [
-          "health"
-        ],
-        "aliases": [
-          "Seeing Through Western Medicine",
-          "They Live Medicine"
-        ],
-        "headings": [
-          "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-          "Vòng Lặp Lệ Thuộc / The Dependency Loop",
-          "1. Ghép Tạng — Ngành Công Nghiệp Tội Ác",
-          "Sự Thật Đen Tối / Dark Truths",
-          "Tỷ Lệ Sống / Survival Rates",
-          "Cuộc Sống Sau Ghép / Life After Transplant",
-          "2. Ung Thư — Điều Trị Hay Giết Người?",
-          "Khi Nào Khối U Nguy Hiểm? / When Is a Tumor Dangerous?",
-          "Điều Trị = Di Căn / Treatment = Metastasis",
-          "3. Tiểu Đường — Lừa Dối Về Đường",
-          "Vòng Lặp Thuốc / The Drug Loop",
-          "Bản Chất Thực Sự / The Real Nature",
-          "Tội Ác Của Việc Kiêng Đường / The Crime of Sugar Restriction",
-          "4. Các Bệnh Khác — Cùng Pattern",
-          "Viêm Gan B / Hepatitis B",
-          "Táo Bón / Constipation",
-          "Suy Thận / Kidney Failure",
-          "Mất Ngủ / Insomnia",
-          "Cao Huyết Áp / Hypertension",
-          "Mỡ Máu / High Cholesterol",
-          "Kết Luận / Conclusion",
-          "Thay Thế / Alternative",
-          "Related"
-        ],
-        "wikilinks": [
-          "Công Thức Chữa Lành Tự Nhiên",
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Elite",
-          "Ma Trận",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Thuốc Hóa Dầu",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Thuốc Hóa Dầu.md",
-          "health/Y Tế Tự Nhiên.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Ma Trận.md",
-          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Y Tế Tự Nhiên.md",
-          "index.md",
-          "MOC - Health Sovereignty.md",
-          "MOC - Science Revisionism.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 1574,
-        "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
       },
       {
         "path": "health/Plasma Quinton.md",
@@ -6444,6 +6447,124 @@
         "summary": "**Mebendazole (MBZ)** là thuốc tẩy giun OTC (Fugacar, Vermox) được nghiên cứu như liệu pháp chống ung thư. Một ví dụ điển hình của \"drug repurposing\" — thuốc cũ, công dụng mới."
       },
       {
+        "path": "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "title": "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+        "domain": "health",
+        "tags": [
+          "health",
+          "immune-system",
+          "terrain-theory"
+        ],
+        "aliases": [
+          "Body's Self-Defense",
+          "Immune Response"
+        ],
+        "headings": [
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể (Body's Self-Defense Mechanisms)",
+          "1. Cơ Chế Sốt / Fever Mechanism",
+          "Cách hoạt động / How It Works",
+          "Chi tiết / Details",
+          "Vấn đề với thuốc hạ sốt / Problem With Fever Reducers",
+          "Khi nào sốt nguy hiểm? / When Is Fever Dangerous?",
+          "2. Cơ Chế Ho / Cough Mechanism",
+          "Cách hoạt động / How It Works",
+          "Tại sao ho quan trọng? / Why Is Cough Important?",
+          "Liên kết ruột - phổi / Gut-Lung Connection",
+          "3. Cơ Chế Tiêu Chảy / Diarrhea Mechanism",
+          "Cách hoạt động / How It Works",
+          "Tại sao tiêu chảy quan trọng? / Why Is Diarrhea Important?",
+          "Xử lý đúng cách / Correct Approach",
+          "Tổng Kết / Summary",
+          "Triệu chứng là đồng minh / Symptoms Are Allies",
+          "Nguyên tắc vàng / Golden Principle",
+          "Related / Liên quan",
+          "Y học tự nhiên / Natural Medicine",
+          "Hệ tiêu hóa / Digestive System"
+        ],
+        "wikilinks": [
+          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Thuốc Hóa Dầu",
+          "Vận Chín, Người Kogi và Ma Trận Y Tế",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Thuốc Hóa Dầu.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "health/Y Tế Tự Nhiên.md"
+        ],
+        "backlinks": [
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Prolonged Fasting.md",
+          "health/Thuốc Hóa Dầu.md",
+          "index.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 835,
+        "summary": "Triệu chứng bệnh lý không phải là kẻ thù cần tiêu diệt. **Sốt, ho, và tiêu chảy** thực chất là những chiến binh bảo vệ và là cơ chế tự làm sạch của cơ thể."
+      },
+      {
+        "path": "health/Ketogenic Diet.md",
+        "title": "Ketogenic Diet",
+        "domain": "health",
+        "tags": [
+          "cancer",
+          "health",
+          "metabolism",
+          "sovereignty"
+        ],
+        "aliases": [
+          "Chế Độ Ăn Keto",
+          "Keto",
+          "Ketosis"
+        ],
+        "headings": [
+          "Ketogenic Diet",
+          "Medical Caution / Cẩn Trọng",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Keto Là Gì?",
+          "2. Vì Sao Insulin Quan Trọng?",
+          "3. Keto Và Ung Thư / Cancer Metabolism",
+          "4. Keto Và Fasting",
+          "5. Keto Sạch vs Keto Bẩn",
+          "6. Rủi Ro Và Sai Lầm",
+          "7. Practical Frame",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Cách Đọc Red Pill Wiki",
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "MOC - Health Sovereignty",
+          "Prolonged Fasting",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Ung Thư - Metabolic Protocol",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Prolonged Fasting.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Y Tế Tự Nhiên.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "backlinks": [
+          "health/Prolonged Fasting.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "index.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 948,
+        "summary": "**Ketogenic Diet không chỉ là trend giảm cân. Ở tầng metabolic, keto là một cách chuyển cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism, đặt lại câu hỏi rất căn bản: bệnh tật là lỗi thuốc men, hay là lỗi môi trường chuyển hóa?**"
+      },
+      {
         "path": "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
         "title": "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
         "domain": "health",
@@ -6492,6 +6613,68 @@
         ],
         "words": 461,
         "summary": "Bài viết chiêm nghiệm về vai trò tâm linh và sinh học tối thượng của Muối, vạch trần âm mưu của thế lực ngầm trong việc cắt đứt sợi dây liên kết giữa con người và cội nguồn đại dương."
+      },
+      {
+        "path": "health/Prolonged Fasting.md",
+        "title": "Prolonged Fasting",
+        "domain": "health",
+        "tags": [
+          "fasting",
+          "health",
+          "metabolism",
+          "sovereignty"
+        ],
+        "aliases": [
+          "Extended Fasting",
+          "Fasting",
+          "Nhịn Ăn Kéo Dài"
+        ],
+        "headings": [
+          "Prolonged Fasting",
+          "Medical Caution / Cẩn Trọng",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Prolonged Fasting Là Gì?",
+          "2. Vì Sao Fasting Tồn Tại Trong Tự Nhiên?",
+          "3. Cơ Chế Chính",
+          "Insulin Reset",
+          "Ketosis",
+          "Autophagy",
+          "Digestive Rest",
+          "4. Fasting Và Ung Thư",
+          "5. Electrolytes: Chỗ Nhiều Người Sai",
+          "6. Spiritual Layer",
+          "7. Sai Lầm Phổ Biến",
+          "8. Practical Frame",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Gnosis",
+          "Individuation",
+          "Ketogenic Diet",
+          "MOC - Health Sovereignty",
+          "Ung Thư - Metabolic Protocol",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Ketogenic Diet.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Y Tế Tự Nhiên.md",
+          "mental-models/Individuation.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "backlinks": [
+          "health/Ketogenic Diet.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "index.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 982,
+        "summary": "**Prolonged Fasting là nhịn ăn kéo dài có chủ đích để đưa cơ thể từ chế độ tiêu hóa/liên tục nạp sang chế độ sửa chữa/tái chế: giảm insulin, tăng ketone, kích hoạt autophagy và buộc metabolism nhớ lại một nhịp cổ xưa hơn.**"
       },
       {
         "path": "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
@@ -6556,66 +6739,6 @@
         ],
         "words": 415,
         "summary": "**Sự cộng hưởng giữa Muối và Tuyến Tùng** là chìa khóa nâng cấp tần số não bộ và kích hoạt thức tỉnh tâm linh. Kết hợp vật lý và metaphysics."
-      },
-      {
-        "path": "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "title": "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-        "domain": "health",
-        "tags": [
-          "health",
-          "immune-system",
-          "terrain-theory"
-        ],
-        "aliases": [
-          "Body's Self-Defense",
-          "Immune Response"
-        ],
-        "headings": [
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể (Body's Self-Defense Mechanisms)",
-          "1. Cơ Chế Sốt / Fever Mechanism",
-          "Cách hoạt động / How It Works",
-          "Chi tiết / Details",
-          "Vấn đề với thuốc hạ sốt / Problem With Fever Reducers",
-          "Khi nào sốt nguy hiểm? / When Is Fever Dangerous?",
-          "2. Cơ Chế Ho / Cough Mechanism",
-          "Cách hoạt động / How It Works",
-          "Tại sao ho quan trọng? / Why Is Cough Important?",
-          "Liên kết ruột - phổi / Gut-Lung Connection",
-          "3. Cơ Chế Tiêu Chảy / Diarrhea Mechanism",
-          "Cách hoạt động / How It Works",
-          "Tại sao tiêu chảy quan trọng? / Why Is Diarrhea Important?",
-          "Xử lý đúng cách / Correct Approach",
-          "Tổng Kết / Summary",
-          "Triệu chứng là đồng minh / Symptoms Are Allies",
-          "Nguyên tắc vàng / Golden Principle",
-          "Related / Liên quan",
-          "Y học tự nhiên / Natural Medicine",
-          "Hệ tiêu hóa / Digestive System"
-        ],
-        "wikilinks": [
-          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Thuốc Hóa Dầu",
-          "Vận Chín, Người Kogi và Ma Trận Y Tế",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Thuốc Hóa Dầu.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên.md"
-        ],
-        "backlinks": [
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Thuốc Hóa Dầu.md",
-          "index.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "words": 835,
-        "summary": "Triệu chứng bệnh lý không phải là kẻ thù cần tiêu diệt. **Sốt, ho, và tiêu chảy** thực chất là những chiến binh bảo vệ và là cơ chế tự làm sạch của cơ thể."
       },
       {
         "path": "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
@@ -6954,77 +7077,6 @@
         "summary": "Bài viết tổng hợp những luận điểm phản biện về y học hiện đại (vắc-xin, virus, bệnh huyết áp) và giới thiệu tiềm năng của nước biển/Natri như một nguồn năng lượng thay thế xăng dầu."
       },
       {
-        "path": "health/Ketogenic Diet.md",
-        "title": "Ketogenic Diet",
-        "domain": "health",
-        "tags": [
-          "cancer",
-          "health",
-          "metabolism"
-        ],
-        "aliases": [],
-        "headings": [
-          "Ketogenic Diet",
-          "Trong Vault",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Prolonged Fasting",
-          "Ung Thư - Metabolic Protocol",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "health/Prolonged Fasting.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Y Tế Tự Nhiên.md"
-        ],
-        "backlinks": [
-          "health/Prolonged Fasting.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "index.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "words": 187,
-        "summary": "**Ketogenic Diet là chiến lược dinh dưỡng đưa cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism. Trong framework sức khỏe của vault, keto quan trọng vì nó đặt lại câu hỏi: bệnh tật là lỗi thuốc men, hay lỗi môi trường chuyển hóa?**"
-      },
-      {
-        "path": "health/Prolonged Fasting.md",
-        "title": "Prolonged Fasting",
-        "domain": "health",
-        "tags": [
-          "fasting",
-          "health",
-          "metabolism"
-        ],
-        "aliases": [],
-        "headings": [
-          "Prolonged Fasting",
-          "Trong Vault",
-          "Cẩn Trọng",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Ketogenic Diet",
-          "Ung Thư - Metabolic Protocol",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "health/Ketogenic Diet.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Y Tế Tự Nhiên.md"
-        ],
-        "backlinks": [
-          "health/Ketogenic Diet.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "index.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "words": 217,
-        "summary": "**Prolonged Fasting là nhịn ăn kéo dài có chủ đích, thường từ 24 giờ trở lên, nhằm tạo áp lực chuyển hóa: giảm insulin, kích hoạt autophagy, tăng ketone và buộc cơ thể chuyển từ chế độ tiêu thụ sang chế độ tái chế.**"
-      },
-      {
         "path": "health/Su That Ve Benh Dai Va Vac Xin.md",
         "title": "Sự Thật Về Bệnh Dại Và Vắc Xin (Góc Nhìn Terrain Theory)",
         "domain": "health",
@@ -7263,6 +7315,7 @@
           "esoterica/Tinh Khí Thần.md",
           "esoterica/Tình Yêu Tỉnh Thức.md",
           "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+          "health/Prolonged Fasting.md",
           "index.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -11132,6 +11185,7 @@
         ],
         "backlinks": [
           "esoterica/Ma Trận.md",
+          "health/Ketogenic Diet.md",
           "index.md",
           "MOC - Epistemology & Propaganda.md",
           "MOC - Science Revisionism.md",
@@ -11140,6 +11194,71 @@
         ],
         "words": 1154,
         "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
+      },
+      {
+        "path": "MOC - Health Sovereignty.md",
+        "title": "MOC - Health Sovereignty",
+        "domain": "root",
+        "tags": [
+          "health",
+          "moc",
+          "sovereignty"
+        ],
+        "aliases": [],
+        "headings": [
+          "MOC - Health Sovereignty",
+          "Start Here",
+          "Metabolic Protocols",
+          "Terrain & Body Systems",
+          "Matrix Health",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+          "Ketogenic Diet",
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
+          "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+          "Plasma Quinton",
+          "Prolonged Fasting",
+          "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
+          "Suramin",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Thuốc Hóa Dầu",
+          "Tuyến Tùng",
+          "Ung Thư - Metabolic Protocol",
+          "Vận Chín, Người Kogi và Ma Trận Y Tế",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+          "health/Ketogenic Diet.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+          "health/Plasma Quinton.md",
+          "health/Prolonged Fasting.md",
+          "health/Suramin.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Thuốc Hóa Dầu.md",
+          "health/Tuyến Tùng.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "health/Y Tế Tự Nhiên.md"
+        ],
+        "backlinks": [
+          "esoterica/Ma Trận.md",
+          "health/Ketogenic Diet.md",
+          "health/Prolonged Fasting.md",
+          "index.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 184,
+        "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng.**"
       },
       {
         "path": "MOC - Epistemology & Propaganda.md",
@@ -11267,69 +11386,6 @@
         ],
         "words": 176,
         "summary": "**Bản đồ này gom các note về nền văn minh cổ, reset lịch sử, hidden chronology, long mạch, old world architecture và khả năng quá khứ không tuyến tính như sách giáo khoa kể.**"
-      },
-      {
-        "path": "MOC - Health Sovereignty.md",
-        "title": "MOC - Health Sovereignty",
-        "domain": "root",
-        "tags": [
-          "health",
-          "moc",
-          "sovereignty"
-        ],
-        "aliases": [],
-        "headings": [
-          "MOC - Health Sovereignty",
-          "Start Here",
-          "Metabolic Protocols",
-          "Terrain & Body Systems",
-          "Matrix Health",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-          "Ketogenic Diet",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
-          "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-          "Plasma Quinton",
-          "Prolonged Fasting",
-          "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
-          "Suramin",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Thuốc Hóa Dầu",
-          "Tuyến Tùng",
-          "Ung Thư - Metabolic Protocol",
-          "Vận Chín, Người Kogi và Ma Trận Y Tế",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-          "health/Ketogenic Diet.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/Plasma Quinton.md",
-          "health/Prolonged Fasting.md",
-          "health/Suramin.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Thuốc Hóa Dầu.md",
-          "health/Tuyến Tùng.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên.md"
-        ],
-        "backlinks": [
-          "esoterica/Ma Trận.md",
-          "index.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 184,
-        "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng.**"
       },
       {
         "path": "MOC - Science Revisionism.md",
@@ -13560,6 +13616,111 @@
       "summary": "Bài viết này là **bản tổng hợp hoàn chỉnh** về Ma Trận — cấu trúc, các lớp kiểm soát, mục đích tồn tại, và **con đường thoát ra**. Đây là meta-framework xâu chuỗi toàn bộ kiến thức trong vault."
     },
     {
+      "path": "esoterica/Gnosis.md",
+      "title": "Gnosis (Ngộ Đạo)",
+      "domain": "esoterica",
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "gnosis",
+        "matrix"
+      ],
+      "aliases": [
+        "Direct Knowing",
+        "Gnosis",
+        "Gnosticism",
+        "Ngộ Đạo"
+      ],
+      "headings": [
+        "Gnosis (Ngộ Đạo)",
+        "1. Gnosis Là Gì?",
+        "2. Gnosis Không Cần Trung Gian",
+        "3. Divine Spark: Tia Lửa Bị Mắc Kẹt Trong Vật Chất",
+        "4. Demiurge Và Ma Trận",
+        "5. Gnosis Và Luân Hồi",
+        "6. Gnosis Khác Với Đức Tin Như Thế Nào?",
+        "7. Kinh Sách Bị Đàn Áp Và Nag Hammadi",
+        "8. Gnosis Trong Văn Hóa Hiện Đại",
+        "9. Gnosis Và Individuation",
+        "10. Pseudo-Gnosis: Cạm Bẫy Của Người “Biết”",
+        "11. Thực Hành Gnosis",
+        "12. Synthesis: Gnosis Là Lối Thoát Khỏi Ma Trận Bên Trong",
+        "Related",
+        "Source / Nguồn",
+        "Matrix / Escape",
+        "Integration"
+      ],
+      "wikilinks": [
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Individuation",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Luân Hồi",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Monad",
+        "Nghịch Lý Của Hiểu Biết",
+        "Sự Nhất Thể",
+        "Tuyến Tùng",
+        "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "health/Tuyến Tùng.md",
+        "mental-models/Individuation.md",
+        "mental-models/Vô Thức Tập Thể.md"
+      ],
+      "backlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+        "esoterica/Atula.md",
+        "esoterica/Chakra.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Một Đời Phù Vân.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Nhân Quả.md",
+        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Saturn Cube.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+        "esoterica/Thánh Issa.md",
+        "esoterica/Tà Linh.md",
+        "esoterica/Đạo.md",
+        "health/Prolonged Fasting.md",
+        "health/Tuyến Tùng.md",
+        "index.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nhị Nguyên.md",
+        "MOC - Esoterica & Consciousness.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
+      ],
+      "words": 1883,
+      "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
+    },
+    {
       "path": "politics-conspiracy/Báo Cáo 2030.md",
       "title": "Báo Cáo 2030",
       "domain": "politics-conspiracy",
@@ -13760,110 +13921,6 @@
       "summary": "**Kiểm Soát Tâm Trí** là chiến lược của Elite nhằm lập trình nhận thức cộng đồng, biến con người thành NPCs phục vụ hệ thống."
     },
     {
-      "path": "esoterica/Gnosis.md",
-      "title": "Gnosis (Ngộ Đạo)",
-      "domain": "esoterica",
-      "tags": [
-        "consciousness",
-        "esoterica",
-        "gnosis",
-        "matrix"
-      ],
-      "aliases": [
-        "Direct Knowing",
-        "Gnosis",
-        "Gnosticism",
-        "Ngộ Đạo"
-      ],
-      "headings": [
-        "Gnosis (Ngộ Đạo)",
-        "1. Gnosis Là Gì?",
-        "2. Gnosis Không Cần Trung Gian",
-        "3. Divine Spark: Tia Lửa Bị Mắc Kẹt Trong Vật Chất",
-        "4. Demiurge Và Ma Trận",
-        "5. Gnosis Và Luân Hồi",
-        "6. Gnosis Khác Với Đức Tin Như Thế Nào?",
-        "7. Kinh Sách Bị Đàn Áp Và Nag Hammadi",
-        "8. Gnosis Trong Văn Hóa Hiện Đại",
-        "9. Gnosis Và Individuation",
-        "10. Pseudo-Gnosis: Cạm Bẫy Của Người “Biết”",
-        "11. Thực Hành Gnosis",
-        "12. Synthesis: Gnosis Là Lối Thoát Khỏi Ma Trận Bên Trong",
-        "Related",
-        "Source / Nguồn",
-        "Matrix / Escape",
-        "Integration"
-      ],
-      "wikilinks": [
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Individuation",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "Luân Hồi",
-        "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "Monad",
-        "Nghịch Lý Của Hiểu Biết",
-        "Sự Nhất Thể",
-        "Tuyến Tùng",
-        "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
-        "Vô Thức Tập Thể"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-        "health/Tuyến Tùng.md",
-        "mental-models/Individuation.md",
-        "mental-models/Vô Thức Tập Thể.md"
-      ],
-      "backlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-        "esoterica/Atula.md",
-        "esoterica/Chakra.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Một Đời Phù Vân.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Nhân Quả.md",
-        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-        "esoterica/Sacred Geometry.md",
-        "esoterica/Saturn Cube.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "esoterica/Thánh Issa.md",
-        "esoterica/Tà Linh.md",
-        "esoterica/Đạo.md",
-        "health/Tuyến Tùng.md",
-        "index.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Individuation.md",
-        "mental-models/Nhị Nguyên.md",
-        "MOC - Esoterica & Consciousness.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
-      ],
-      "words": 1883,
-      "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
-    },
-    {
       "path": "mental-models/Individuation.md",
       "title": "Individuation",
       "domain": "mental-models",
@@ -13936,6 +13993,7 @@
         "esoterica/Tinh Khí Thần.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
         "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "health/Prolonged Fasting.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -14307,6 +14365,93 @@
       "summary": "**Trí tuệ** là khả năng nhìn thấu bản chất, hiểu quy luật vận hành dài hạn, và có sự hài hòa giữa kiến thức với đạo đức. Khác biệt căn bản với thông minh."
     },
     {
+      "path": "health/Thuyết Vi Sinh Nội Sinh.md",
+      "title": "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
+      "domain": "health",
+      "tags": [
+        "health"
+      ],
+      "aliases": [
+        "Terrain Theory",
+        "Thuyết Địa Hình"
+      ],
+      "headings": [
+        "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
+        "Germ Theory vs Terrain Theory",
+        "Microzymas — Khái niệm Cốt lõi / Core Concept",
+        "Béchamp's Discovery",
+        "Pleomorphism Flow",
+        "Bằng chứng / Evidence",
+        "Germ Theory Failures",
+        "Terrain Success Stories",
+        "Modern Research",
+        "Ứng dụng / Application",
+        "Clean the Terrain / Làm sạch Terrain",
+        "Detox Protocols",
+        "Tại sao bị Suppressed? / Why Suppressed?",
+        "Follow the Money",
+        "Pasteur vs Béchamp",
+        "Pasteur's Deathbed Confession?",
+        "Related",
+        "Health / Sức khỏe",
+        "Science / Khoa học",
+        "Matrix Connection"
+      ],
+      "wikilinks": [
+        "Công Thức Chữa Lành Tự Nhiên",
+        "Khoa Học Xét Lại",
+        "Plasma Quinton",
+        "Su That Ve Benh Dai Va Vac Xin",
+        "Suramin",
+        "The China Study",
+        "Thuốc Hóa Dầu",
+        "Virus và Kiếp Tật Dịch",
+        "Vận Chín, Người Kogi và Ma Trận Y Tế",
+        "Y Tế Tự Nhiên"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "health/Plasma Quinton.md",
+        "health/Su That Ve Benh Dai Va Vac Xin.md",
+        "health/Suramin.md",
+        "health/The China Study.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Virus và Kiếp Tật Dịch.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "health/Y Tế Tự Nhiên.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "backlinks": [
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Vận Chín.md",
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Plasma Quinton.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Su That Ve Benh Dai Va Vac Xin.md",
+        "health/Suramin.md",
+        "health/The China Study.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Tuyến Tùng.md",
+        "health/Ung Thư - Metabolic Protocol.md",
+        "health/Virus và Kiếp Tật Dịch.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "health/Y Tế Tự Nhiên.md",
+        "index.md",
+        "MOC - Health Sovereignty.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "words": 579,
+      "summary": "**Terrain Theory** do Antoine Béchamp đề xuất, đối lập với Germ Theory của Louis Pasteur. Thay vì vi khuẩn/virus gây bệnh, chính môi trường bên trong cơ thể (terrain) quyết định sức khỏe."
+    },
+    {
       "path": "esoterica/Tartaria.md",
       "title": "Tartaria",
       "domain": "esoterica",
@@ -14480,92 +14625,6 @@
       ],
       "words": 662,
       "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
-    },
-    {
-      "path": "health/Thuyết Vi Sinh Nội Sinh.md",
-      "title": "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
-      "domain": "health",
-      "tags": [
-        "health"
-      ],
-      "aliases": [
-        "Terrain Theory",
-        "Thuyết Địa Hình"
-      ],
-      "headings": [
-        "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
-        "Germ Theory vs Terrain Theory",
-        "Microzymas — Khái niệm Cốt lõi / Core Concept",
-        "Béchamp's Discovery",
-        "Pleomorphism Flow",
-        "Bằng chứng / Evidence",
-        "Germ Theory Failures",
-        "Terrain Success Stories",
-        "Modern Research",
-        "Ứng dụng / Application",
-        "Clean the Terrain / Làm sạch Terrain",
-        "Detox Protocols",
-        "Tại sao bị Suppressed? / Why Suppressed?",
-        "Follow the Money",
-        "Pasteur vs Béchamp",
-        "Pasteur's Deathbed Confession?",
-        "Related",
-        "Health / Sức khỏe",
-        "Science / Khoa học",
-        "Matrix Connection"
-      ],
-      "wikilinks": [
-        "Công Thức Chữa Lành Tự Nhiên",
-        "Khoa Học Xét Lại",
-        "Plasma Quinton",
-        "Su That Ve Benh Dai Va Vac Xin",
-        "Suramin",
-        "The China Study",
-        "Thuốc Hóa Dầu",
-        "Virus và Kiếp Tật Dịch",
-        "Vận Chín, Người Kogi và Ma Trận Y Tế",
-        "Y Tế Tự Nhiên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Plasma Quinton.md",
-        "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Suramin.md",
-        "health/The China Study.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Virus và Kiếp Tật Dịch.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "backlinks": [
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Vận Chín.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Plasma Quinton.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Suramin.md",
-        "health/The China Study.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tuyến Tùng.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Virus và Kiếp Tật Dịch.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "health/Y Tế Tự Nhiên.md",
-        "index.md",
-        "MOC - Health Sovereignty.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 579,
-      "summary": "**Terrain Theory** do Antoine Béchamp đề xuất, đối lập với Germ Theory của Louis Pasteur. Thay vì vi khuẩn/virus gây bệnh, chính môi trường bên trong cơ thể (terrain) quyết định sức khỏe."
     },
     {
       "path": "esoterica/Monad.md",
@@ -15753,6 +15812,10 @@
       4
     ],
     [
+      "sovereignty",
+      4
+    ],
+    [
       "elite",
       4
     ],
@@ -15854,10 +15917,6 @@
     ],
     [
       "mental-models",
-      2
-    ],
-    [
-      "sovereignty",
       2
     ],
     [
@@ -16128,6 +16187,7 @@
       ],
       "backlinks": [
         "esoterica/Ma Trận.md",
+        "health/Ketogenic Diet.md",
         "index.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Science Revisionism.md",
@@ -16453,6 +16513,8 @@
       ],
       "backlinks": [
         "esoterica/Ma Trận.md",
+        "health/Ketogenic Diet.md",
+        "health/Prolonged Fasting.md",
         "index.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
@@ -18394,6 +18456,7 @@
         "esoterica/Thánh Issa.md",
         "esoterica/Tà Linh.md",
         "esoterica/Đạo.md",
+        "health/Prolonged Fasting.md",
         "health/Tuyến Tùng.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
@@ -22352,6 +22415,7 @@
       ],
       "backlinks": [
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Prolonged Fasting.md",
         "health/Thuốc Hóa Dầu.md",
         "index.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
@@ -22478,24 +22542,46 @@
       "tags": [
         "cancer",
         "health",
-        "metabolism"
+        "metabolism",
+        "sovereignty"
       ],
-      "aliases": [],
+      "aliases": [
+        "Chế Độ Ăn Keto",
+        "Keto",
+        "Ketosis"
+      ],
       "headings": [
         "Ketogenic Diet",
-        "Trong Vault",
-        "Synthesis"
+        "Medical Caution / Cẩn Trọng",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Keto Là Gì?",
+        "2. Vì Sao Insulin Quan Trọng?",
+        "3. Keto Và Ung Thư / Cancer Metabolism",
+        "4. Keto Và Fasting",
+        "5. Keto Sạch vs Keto Bẩn",
+        "6. Rủi Ro Và Sai Lầm",
+        "7. Practical Frame",
+        "Synthesis",
+        "Related"
       ],
       "wikilinks": [
+        "Cách Đọc Red Pill Wiki",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "MOC - Health Sovereignty",
         "Prolonged Fasting",
+        "Thuyết Vi Sinh Nội Sinh",
         "Ung Thư - Metabolic Protocol",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Prolonged Fasting.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Ung Thư - Metabolic Protocol.md",
-        "health/Y Tế Tự Nhiên.md"
+        "health/Y Tế Tự Nhiên.md",
+        "MOC - Health Sovereignty.md"
       ],
       "backlinks": [
         "health/Prolonged Fasting.md",
@@ -22503,8 +22589,8 @@
         "index.md",
         "MOC - Health Sovereignty.md"
       ],
-      "words": 187,
-      "summary": "**Ketogenic Diet là chiến lược dinh dưỡng đưa cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism. Trong framework sức khỏe của vault, keto quan trọng vì nó đặt lại câu hỏi: bệnh tật là lỗi thuốc men, hay lỗi môi trường chuyển hóa?**"
+      "words": 948,
+      "summary": "**Ketogenic Diet không chỉ là trend giảm cân. Ở tầng metabolic, keto là một cách chuyển cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism, đặt lại câu hỏi rất căn bản: bệnh tật là lỗi thuốc men, hay là lỗi môi trường chuyển hóa?**"
     },
     "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md": {
       "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
@@ -22564,6 +22650,7 @@
       "backlinks": [
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Ma Trận.md",
+        "health/Ketogenic Diet.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Ung Thư - Metabolic Protocol.md",
         "health/Y Tế Tự Nhiên.md",
@@ -22814,25 +22901,51 @@
       "tags": [
         "fasting",
         "health",
-        "metabolism"
+        "metabolism",
+        "sovereignty"
       ],
-      "aliases": [],
+      "aliases": [
+        "Extended Fasting",
+        "Fasting",
+        "Nhịn Ăn Kéo Dài"
+      ],
       "headings": [
         "Prolonged Fasting",
-        "Trong Vault",
-        "Cẩn Trọng",
-        "Synthesis"
+        "Medical Caution / Cẩn Trọng",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Prolonged Fasting Là Gì?",
+        "2. Vì Sao Fasting Tồn Tại Trong Tự Nhiên?",
+        "3. Cơ Chế Chính",
+        "Insulin Reset",
+        "Ketosis",
+        "Autophagy",
+        "Digestive Rest",
+        "4. Fasting Và Ung Thư",
+        "5. Electrolytes: Chỗ Nhiều Người Sai",
+        "6. Spiritual Layer",
+        "7. Sai Lầm Phổ Biến",
+        "8. Practical Frame",
+        "Synthesis",
+        "Related"
       ],
       "wikilinks": [
+        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+        "Gnosis",
+        "Individuation",
         "Ketogenic Diet",
+        "MOC - Health Sovereignty",
         "Ung Thư - Metabolic Protocol",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
+        "esoterica/Gnosis.md",
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "health/Ketogenic Diet.md",
         "health/Ung Thư - Metabolic Protocol.md",
-        "health/Y Tế Tự Nhiên.md"
+        "health/Y Tế Tự Nhiên.md",
+        "mental-models/Individuation.md",
+        "MOC - Health Sovereignty.md"
       ],
       "backlinks": [
         "health/Ketogenic Diet.md",
@@ -22840,8 +22953,8 @@
         "index.md",
         "MOC - Health Sovereignty.md"
       ],
-      "words": 217,
-      "summary": "**Prolonged Fasting là nhịn ăn kéo dài có chủ đích, thường từ 24 giờ trở lên, nhằm tạo áp lực chuyển hóa: giảm insulin, kích hoạt autophagy, tăng ketone và buộc cơ thể chuyển từ chế độ tiêu thụ sang chế độ tái chế.**"
+      "words": 982,
+      "summary": "**Prolonged Fasting là nhịn ăn kéo dài có chủ đích để đưa cơ thể từ chế độ tiêu hóa/liên tục nạp sang chế độ sửa chữa/tái chế: giảm insulin, tăng ketone, kích hoạt autophagy và buộc metabolism nhớ lại một nhịp cổ xưa hơn.**"
     },
     "health/René Quinton và Huyết Tương Biển.md": {
       "path": "health/René Quinton và Huyết Tương Biển.md",
@@ -23156,6 +23269,7 @@
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
         "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "health/Ketogenic Diet.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Plasma Quinton.md",
@@ -24446,6 +24560,7 @@
         "esoterica/Tinh Khí Thần.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
         "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "health/Prolonged Fasting.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
