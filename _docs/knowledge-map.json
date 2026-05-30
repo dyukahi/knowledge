@@ -11,7 +11,7 @@
       "science-tech": 16
     },
     "tags": 166,
-    "wikilinkEdges": 1651,
+    "wikilinkEdges": 1654,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -10298,6 +10298,7 @@
           "Cách Đọc Red Pill Wiki.md",
           "index.md",
           "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Operation Paperclip.md",
           "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
         ],
         "words": 4834,
@@ -10411,6 +10412,63 @@
         ],
         "words": 1002,
         "summary": "Bài viết bắt đầu từ trải nghiệm quen thuộc của mỗi đứa trẻ Việt Nam: tiền mừng tuổi trong dịp Tết. Đây là thời điểm lần đầu tiên chúng ta có nhận thức rõ ràng về giá trị và sức mạnh của đồng tiền. Chúng ta được dạy rằng tiền có thể dùng để mua những thứ mình…"
+      },
+      {
+        "path": "politics-conspiracy/Operation Paperclip.md",
+        "title": "Operation Paperclip",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "hidden-history",
+          "history",
+          "politics-conspiracy",
+          "science-tech"
+        ],
+        "aliases": [
+          "Chiến Dịch Kẹp Giấy",
+          "Nazi Scientists in America",
+          "Project Paperclip"
+        ],
+        "headings": [
+          "Operation Paperclip",
+          "Evidence Discipline / Cách Đọc Claim",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Operation Paperclip Là Gì?",
+          "2. Wernher Von Braun Và NASA Myth",
+          "3. Science, Morality And Empire",
+          "4. Paperclip Và Military-Industrial Complex",
+          "5. Antarctica Connection",
+          "6. Paperclip Và Technocracy",
+          "7. Từ Paperclip Đến Disclosure",
+          "8. Bài Học Cốt Lõi",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Elite",
+          "Khoa Học Xét Lại",
+          "MOC - Ancient Civilizations & Hidden History",
+          "MOC - Science Revisionism",
+          "Nam Cực - Bí Mật Được Canh Giữ"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md"
+        ],
+        "words": 1258,
+        "summary": "**Operation Paperclip là chương trình hậu Thế chiến II đưa các nhà khoa học, kỹ sư và chuyên gia Đức Quốc Xã sang Mỹ. Ở tầng lịch sử, đây là Cold War talent acquisition. Ở tầng vault, nó là bằng chứng rằng empire không chỉ đánh bại kẻ thù — nó hấp thụ tri thứ…"
       },
       {
         "path": "politics-conspiracy/MindGeek.md",
@@ -10594,42 +10652,6 @@
         ],
         "words": 323,
         "summary": "**MAGA** (Make America Great Again) là một khẩu hiệu chính trị nổi tiếng, nhưng dưới góc nhìn của Gematria và thuyết âm mưu, nó mang những lớp ý nghĩa mã hóa sâu hơn. - MAGA = Make Argentina Great Again (cho thấy sự lặp lại của kịch bản chính trị ở các quốc g…"
-      },
-      {
-        "path": "politics-conspiracy/Operation Paperclip.md",
-        "title": "Operation Paperclip",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "history",
-          "politics-conspiracy",
-          "science-tech"
-        ],
-        "aliases": [],
-        "headings": [
-          "Operation Paperclip",
-          "Trong Vault",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Elite",
-          "Khoa Học Xét Lại",
-          "Nam Cực - Bí Mật Được Canh Giữ"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md"
-        ],
-        "words": 214,
-        "summary": "**Operation Paperclip là chương trình hậu Thế chiến II đưa hàng nghìn nhà khoa học, kỹ sư và chuyên gia Đức Quốc Xã sang Mỹ, đặc biệt trong các lĩnh vực tên lửa, hàng không, vũ khí, y sinh và tình báo.**"
       },
       {
         "path": "politics-conspiracy/Dark MAGA.md",
@@ -11261,6 +11283,70 @@
         "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng.**"
       },
       {
+        "path": "MOC - Ancient Civilizations & Hidden History.md",
+        "title": "MOC - Ancient Civilizations & Hidden History",
+        "domain": "root",
+        "tags": [
+          "esoterica",
+          "hidden-history",
+          "moc"
+        ],
+        "aliases": [],
+        "headings": [
+          "MOC - Ancient Civilizations & Hidden History",
+          "Start Here",
+          "Civilizations & Resets",
+          "Earth Grid & Sacred Geography",
+          "Cosmic Cycles",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Annunaki",
+          "Atlantis",
+          "Bức Tường Băng",
+          "Chu Kỳ Hoàng Đạo",
+          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+          "Gaia - Trái Đất Có Ý Thức",
+          "Lemuria",
+          "Long Mạch",
+          "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
+          "Nam Cực - Bí Mật Được Canh Giữ",
+          "Phong Thủy",
+          "Tartaria",
+          "Tartaria và Vạn Lý Trường Thành",
+          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
+          "Thế Chiến - Chiến Dịch Dọn Dẹp",
+          "Vận Chín"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Annunaki.md",
+          "esoterica/Atlantis.md",
+          "esoterica/Chu Kỳ Hoàng Đạo.md",
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "esoterica/Lemuria.md",
+          "esoterica/Long Mạch.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Phong Thủy.md",
+          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Vận Chín.md",
+          "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
+        ],
+        "backlinks": [
+          "esoterica/Tứ Linh.md",
+          "index.md",
+          "politics-conspiracy/Operation Paperclip.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 176,
+        "summary": "**Bản đồ này gom các note về nền văn minh cổ, reset lịch sử, hidden chronology, long mạch, old world architecture và khả năng quá khứ không tuyến tính như sách giáo khoa kể.**"
+      },
+      {
         "path": "MOC - Epistemology & Propaganda.md",
         "title": "MOC - Epistemology & Propaganda",
         "domain": "root",
@@ -11325,69 +11411,6 @@
         "summary": "**Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**"
       },
       {
-        "path": "MOC - Ancient Civilizations & Hidden History.md",
-        "title": "MOC - Ancient Civilizations & Hidden History",
-        "domain": "root",
-        "tags": [
-          "esoterica",
-          "hidden-history",
-          "moc"
-        ],
-        "aliases": [],
-        "headings": [
-          "MOC - Ancient Civilizations & Hidden History",
-          "Start Here",
-          "Civilizations & Resets",
-          "Earth Grid & Sacred Geography",
-          "Cosmic Cycles",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Annunaki",
-          "Atlantis",
-          "Bức Tường Băng",
-          "Chu Kỳ Hoàng Đạo",
-          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
-          "Gaia - Trái Đất Có Ý Thức",
-          "Lemuria",
-          "Long Mạch",
-          "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
-          "Nam Cực - Bí Mật Được Canh Giữ",
-          "Phong Thủy",
-          "Tartaria",
-          "Tartaria và Vạn Lý Trường Thành",
-          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
-          "Thế Chiến - Chiến Dịch Dọn Dẹp",
-          "Vận Chín"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Annunaki.md",
-          "esoterica/Atlantis.md",
-          "esoterica/Chu Kỳ Hoàng Đạo.md",
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-          "esoterica/Lemuria.md",
-          "esoterica/Long Mạch.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Phong Thủy.md",
-          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Vận Chín.md",
-          "politics-conspiracy/Bức Tường Băng.md",
-          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
-        ],
-        "backlinks": [
-          "esoterica/Tứ Linh.md",
-          "index.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 176,
-        "summary": "**Bản đồ này gom các note về nền văn minh cổ, reset lịch sử, hidden chronology, long mạch, old world architecture và khả năng quá khứ không tuyến tính như sách giáo khoa kể.**"
-      },
-      {
         "path": "MOC - Science Revisionism.md",
         "title": "MOC - Science Revisionism",
         "domain": "root",
@@ -11445,6 +11468,7 @@
         "backlinks": [
           "index.md",
           "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Operation Paperclip.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
         "words": 171,
@@ -15864,6 +15888,10 @@
       3
     ],
     [
+      "hidden-history",
+      3
+    ],
+    [
       "cancer",
       3
     ],
@@ -15893,10 +15921,6 @@
     ],
     [
       "healing",
-      2
-    ],
-    [
-      "hidden-history",
       2
     ],
     [
@@ -16255,6 +16279,7 @@
       "backlinks": [
         "esoterica/Tứ Linh.md",
         "index.md",
+        "politics-conspiracy/Operation Paperclip.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
       "words": 176,
@@ -16579,6 +16604,7 @@
       "backlinks": [
         "index.md",
         "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Operation Paperclip.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
       "words": 171,
@@ -26062,6 +26088,7 @@
         "Cách Đọc Red Pill Wiki.md",
         "index.md",
         "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
       ],
       "words": 4834,
@@ -27052,24 +27079,45 @@
       "title": "Operation Paperclip",
       "domain": "politics-conspiracy",
       "tags": [
+        "hidden-history",
         "history",
         "politics-conspiracy",
         "science-tech"
       ],
-      "aliases": [],
+      "aliases": [
+        "Chiến Dịch Kẹp Giấy",
+        "Nazi Scientists in America",
+        "Project Paperclip"
+      ],
       "headings": [
         "Operation Paperclip",
-        "Trong Vault",
-        "Synthesis"
+        "Evidence Discipline / Cách Đọc Claim",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Operation Paperclip Là Gì?",
+        "2. Wernher Von Braun Và NASA Myth",
+        "3. Science, Morality And Empire",
+        "4. Paperclip Và Military-Industrial Complex",
+        "5. Antarctica Connection",
+        "6. Paperclip Và Technocracy",
+        "7. Từ Paperclip Đến Disclosure",
+        "8. Bài Học Cốt Lõi",
+        "Synthesis",
+        "Related"
       ],
       "wikilinks": [
+        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
         "Elite",
         "Khoa Học Xét Lại",
+        "MOC - Ancient Civilizations & Hidden History",
+        "MOC - Science Revisionism",
         "Nam Cực - Bí Mật Được Canh Giữ"
       ],
       "mdlinks": [],
       "outlinks": [
+        "MOC - Ancient Civilizations & Hidden History.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
@@ -27080,8 +27128,8 @@
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md"
       ],
-      "words": 214,
-      "summary": "**Operation Paperclip là chương trình hậu Thế chiến II đưa hàng nghìn nhà khoa học, kỹ sư và chuyên gia Đức Quốc Xã sang Mỹ, đặc biệt trong các lĩnh vực tên lửa, hàng không, vũ khí, y sinh và tình báo.**"
+      "words": 1258,
+      "summary": "**Operation Paperclip là chương trình hậu Thế chiến II đưa các nhà khoa học, kỹ sư và chuyên gia Đức Quốc Xã sang Mỹ. Ở tầng lịch sử, đây là Cold War talent acquisition. Ở tầng vault, nó là bằng chứng rằng empire không chỉ đánh bại kẻ thù — nó hấp thụ tri thứ…"
     },
     "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md": {
       "path": "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",

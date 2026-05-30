@@ -7,7 +7,7 @@
 - **Notes scanned:** 182
 - **Top-level domains:** 7
 - **Tags detected:** 166
-- **Resolved internal edges:** 1651
+- **Resolved internal edges:** 1654
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 2
 
@@ -84,7 +84,7 @@ Recommended note types:
 - [[politics-conspiracy/Mudflood|Mudflood (Đại Hồng Thủy Bùn)]] — degree `18`, backlinks `9`, outlinks `9` — #politics-conspiracy
 - [[politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ|Nam Cực - Bí Mật Được Canh Giữ]] — degree `16`, backlinks `6`, outlinks `10` — #antarctica, #conspiracy, #elite, #flat-earth, #nazi
 - [[politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp|Thế Chiến — Chiến Dịch Dọn Dẹp]] — degree `15`, backlinks `3`, outlinks `12` — #conspiracy, #history, #old-world, #tartaria, #ww1
-- [[politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa|A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa]] — degree `13`, backlinks `4`, outlinks `9` — #esoterica, #politics-conspiracy, #science-tech
+- [[politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa|A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa]] — degree `14`, backlinks `5`, outlinks `9` — #esoterica, #politics-conspiracy, #science-tech
 - … 11 more notes in this domain. See JSON for full list.
 
 ### Science & Tech `science-tech` — 16 notes
@@ -122,9 +122,9 @@ Recommended note types:
 - [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `27`, backlinks `3`, outlinks `24` — #consciousness, #esoterica, #moc
 - [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `23`, backlinks `7`, outlinks `16` — #epistemology, #meta, #navigation
 - [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `21`, backlinks `5`, outlinks `16` — #health, #moc, #sovereignty
+- [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]] — degree `20`, backlinks `4`, outlinks `16` — #esoterica, #hidden-history, #moc
 - [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `20`, backlinks `4`, outlinks `16` — #epistemology, #moc, #propaganda
-- [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]] — degree `19`, backlinks `3`, outlinks `16` — #esoterica, #hidden-history, #moc
-- [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `19`, backlinks `3`, outlinks `16` — #moc, #revisionist-science, #science-tech
+- [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `20`, backlinks `4`, outlinks `16` — #moc, #revisionist-science, #science-tech
 - [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `14`, backlinks `3`, outlinks `11` — #crypto-finance, #moc, #sovereignty
 - [[claude|Schema (LLM Instructions)]] — degree `0`, backlinks `0`, outlinks `0`
 - [[README|🧠 Knowledge Base]] — degree `0`, backlinks `0`, outlinks `0`
@@ -211,11 +211,11 @@ High-degree notes are good candidates for hub/MOC treatment.
 - `#history` — 3 notes: [[esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ|Lịch Sử Song Song — Khi Thế Giới Đồng Bộ]]; [[politics-conspiracy/Operation Paperclip|Operation Paperclip]]; [[politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp|Thế Chiến — Chiến Dịch Dọn Dẹp]]
 - `#tartaria` — 3 notes: [[esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ|Lịch Sử Song Song — Khi Thế Giới Đồng Bộ]]; [[esoterica/Tartaria và Vạn Lý Trường Thành|Tartaria và Vạn Lý Trường Thành]]; [[politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp|Thế Chiến — Chiến Dịch Dọn Dẹp]]
 - `#revisionist-science` — 3 notes: [[esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu|Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]]; [[MOC - Science Revisionism|MOC - Science Revisionism]]; [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]]
+- `#hidden-history` — 3 notes: [[esoterica/Tứ Linh|Tứ Linh]]; [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]]; [[politics-conspiracy/Operation Paperclip|Operation Paperclip]]
 - `#cancer` — 3 notes: [[health/Ketogenic Diet|Ketogenic Diet]]; [[health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư|Mebendazole — Thuốc Tẩy Giun Chống Ung Thư]]; [[health/Ung Thư - Metabolic Protocol|Ung Thư — Metabolic Protocol]]
 - `#1` — 2 notes: [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]]; [[science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ|Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]]
 - `#meta` — 2 notes: [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]]; [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - `#navigation` — 2 notes: [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]]; [[index|Red Pill Wiki]]
-- `#2` — 2 notes: [[esoterica/AI Và Câu Hỏi Về Ý Thức|AI Và Câu Hỏi Về Ý Thức]]; [[science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ|Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]]
 
 ## Suggested MOCs / Maps of Content
 
