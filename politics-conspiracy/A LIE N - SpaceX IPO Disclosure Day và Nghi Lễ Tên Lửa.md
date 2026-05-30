@@ -64,6 +64,22 @@ Không cần tin rằng “tất cả được dàn dựng 100%”. Chỉ cần 
 
 ---
 
+## Evidence Discipline / Cách Đọc Nguồn
+
+Bài này cố tình tách ba tầng đọc để tránh lẫn fact với symbolic synthesis:
+
+| Tầng | Cách đọc | Ví dụ trong bài |
+|---|---|---|
+| **Documentable events** | Sự kiện có thể đối chiếu qua nguồn public/tier-1/official | IPO reporting, government release, film listings, outbreak reports |
+| **Pattern reading** | Các event được đặt cạnh nhau để xem nhịp, timing, incentive | disclosure window, Hollywood sync, financialization of space myth |
+| **Symbolic synthesis** | Đọc archetype/nghi lễ/interface, không trình bày như fact thô | rocket-obelisk, Dr. Doom/Musk, alien as truth payload + false interface |
+
+Nói cách khác: phần timeline cần nguồn. Phần pattern cần logic. Phần symbol cần đọc như symbolic intelligence, không phải headline journalism.
+
+Nếu một chi tiết factual bị update về sau, thesis của bài vẫn không phụ thuộc vào một headline duy nhất. Thesis nằm ở cấu trúc: **alien narrative đang được official hóa đồng thời qua state, media, market, cinema và technocracy.**
+
+---
+
 ## 2. A LIE N: Word Magic Ngay Trong Cái Tên
 
 Trong bài [[UAP Disclosure - Controlled Revelation]], alien đã được giải mã như một word spell:
@@ -452,17 +468,36 @@ Trước khi là kỹ thuật, nó là một lời triệu hồi.
 
 ## Tài Liệu Tham Khảo / References
 
-- Reuters — SpaceX accelerated IPO timeline, June 2026 Nasdaq target, ~$75B raise / ~$1.75T valuation.
-- Quartz — SpaceX IPO targets June 12 Nasdaq debut.
-- Reuters / CBS / Time — Trump February 2026 directive to identify and declassify UFO/UAP/extraterrestrial files.
-- U.S. Department of War — `war.gov/ufo` PURSUE / UAP file releases, first tranche May 8 2026.
-- CNN / BBC / Time / Guardian — Pentagon UAP file release coverage.
-- USA Today / Newsweek — Trump May 17 2026 AI-generated handcuffed alien image.
-- Universal Pictures / IMDb / Variety / Hollywood Reporter — Steven Spielberg *Disclosure Day*.
-- NEON / Deadline / FirstShowing — Na Hong-jin *HOPE* official teaser and Fall 2026 release.
-- WHO Disease Outbreak News / ECDC / NEJM — MV Hondius Andes hantavirus outbreak.
-- George Pendle — *Strange Angel: The Otherworldly Life of Rocket Scientist John Whiteside Parsons*.
-- Aleister Crowley — *The Amalantrah Working* / LAM material.
+### Primary / Official Sources
+
+- **U.S. Department of War / Pentagon** — `https://www.war.gov/ufo` / PURSUE UAP file release portal. Dùng cho tầng fact về official disclosure channel.
+- **Truth Social / Trump official channel** — dùng để đối chiếu các post trực tiếp liên quan UFO/alien imagery hoặc declassification messaging.
+- **Universal Pictures / official film materials** — dùng để xác nhận film slate, title, trailer/press material cho *Disclosure Day*.
+- **NEON official materials** — dùng để xác nhận *HOPE* của Na Hong-jin và release window.
+- **WHO Disease Outbreak News** — `https://www.who.int/emergencies/disease-outbreak-news` / dùng cho outbreak-level verification.
+- **ECDC** — `https://www.ecdc.europa.eu/` / dùng cho European public-health follow-up.
+
+### Tier-1 / Public Reporting
+
+- **Reuters** — SpaceX IPO reporting; Trump/UAP declassification coverage; MV Hondius / Andes hantavirus coverage where available.
+- **CBS News / TIME** — Trump February 2026 UFO/UAP/extraterrestrial-file directive coverage.
+- **CNN / BBC / The Guardian / TIME** — Pentagon/Department of War UAP release coverage.
+- **USA Today / Newsweek** — Trump May 2026 AI-generated alien image coverage.
+- **Variety / The Hollywood Reporter / IMDb** — Spielberg *Disclosure Day* listing, production and release coverage.
+- **Deadline / FirstShowing** — *HOPE* teaser/release reporting.
+- **Quartz / Yahoo Finance / Investing.com** — market-facing SpaceX IPO summaries, ticker/valuation reporting where available.
+- **NEJM** — medical writeup / clinical context for Andes hantavirus outbreak if published.
+
+### Books / Historical Context
+
+- **George Pendle — *Strange Angel: The Otherworldly Life of Rocket Scientist John Whiteside Parsons***. Dùng cho Jack Parsons, JPL, Thelema, Babalon Working context.
+- **Aleister Crowley — *The Amalantrah Working* / LAM material**. Dùng cho Crowley-LAM occult/NHI symbolism.
+- **Marvel canon / character history** — dùng cho Dr. Strange và Dr. Doom như archetypal comparison, không phải factual evidence về Musk/Crowley.
+
+### Internal Vault Frameworks
+
 - [[UAP Disclosure - Controlled Revelation]]
 - [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]
 - [[Karma Disclosure - Truth Hidden In Plain Sight]]
+- [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
+- [[Cách Đọc Red Pill Wiki]]

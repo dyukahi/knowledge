@@ -11,7 +11,7 @@
       "science-tech": 16
     },
     "tags": 160,
-    "wikilinkEdges": 1511,
+    "wikilinkEdges": 1515,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -5487,6 +5487,76 @@
         "summary": "*What Is the Point of Existence — Or Is the Question Already Wrong?*"
       },
       {
+        "path": "esoterica/Tứ Linh.md",
+        "title": "Tứ Linh",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "symbolism",
+          "vietnamese-culture"
+        ],
+        "aliases": [],
+        "headings": [
+          "Tứ Linh",
+          "Trong Vault",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Long Mạch",
+          "Luân Hồi",
+          "Ma Trận",
+          "Nhân Quả"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Long Mạch.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nhân Quả.md"
+        ],
+        "backlinks": [
+          "esoterica/Luân Hồi.md",
+          "index.md"
+        ],
+        "words": 187,
+        "summary": "**Tứ Linh gồm Long, Lân, Quy, Phụng: bốn archetype linh vật trong văn hóa Á Đông, đại diện cho quyền lực trời đất, đạo đức vương quyền, trường thọ, tái sinh và trật tự vũ trụ.**"
+      },
+      {
+        "path": "esoterica/Đạo.md",
+        "title": "Đạo",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "esoterica",
+          "philosophy"
+        ],
+        "aliases": [],
+        "headings": [
+          "Đạo",
+          "Trong Vault",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Ma Trận",
+          "Nhị Nguyên",
+          "Sự Nhất Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Sự Nhất Thể.md",
+          "mental-models/Nhị Nguyên.md"
+        ],
+        "backlinks": [
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "index.md"
+        ],
+        "words": 201,
+        "summary": "**Đạo không phải một giáo điều để tin. Đạo là dòng vận hành tự nhiên phía sau mọi hình tướng: trước tên gọi, trước hệ thống, trước cả ý niệm đúng sai.**"
+      },
+      {
         "path": "esoterica/Phong Thủy.md",
         "title": "Phong Thủy",
         "domain": "esoterica",
@@ -5522,74 +5592,6 @@
         ],
         "words": 157,
         "summary": "**Phong Thủy** (風水 = Gió + Nước) là nghệ thuật cổ đại về sắp xếp không gian để harmonize năng lượng (Khí/Chi) với môi trường."
-      },
-      {
-        "path": "esoterica/Tứ Linh.md",
-        "title": "Tứ Linh",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "symbolism",
-          "vietnamese-culture"
-        ],
-        "aliases": [],
-        "headings": [
-          "Tứ Linh",
-          "Trong Vault",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Long Mạch",
-          "Luân Hồi",
-          "Ma Trận",
-          "Nhân Quả"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Long Mạch.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nhân Quả.md"
-        ],
-        "backlinks": [
-          "esoterica/Luân Hồi.md"
-        ],
-        "words": 187,
-        "summary": "**Tứ Linh gồm Long, Lân, Quy, Phụng: bốn archetype linh vật trong văn hóa Á Đông, đại diện cho quyền lực trời đất, đạo đức vương quyền, trường thọ, tái sinh và trật tự vũ trụ.**"
-      },
-      {
-        "path": "esoterica/Đạo.md",
-        "title": "Đạo",
-        "domain": "esoterica",
-        "tags": [
-          "consciousness",
-          "esoterica",
-          "philosophy"
-        ],
-        "aliases": [],
-        "headings": [
-          "Đạo",
-          "Trong Vault",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Ma Trận",
-          "Nhị Nguyên",
-          "Sự Nhất Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Sự Nhất Thể.md",
-          "mental-models/Nhị Nguyên.md"
-        ],
-        "backlinks": [
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md"
-        ],
-        "words": 201,
-        "summary": "**Đạo không phải một giáo điều để tin. Đạo là dòng vận hành tự nhiên phía sau mọi hình tướng: trước tên gọi, trước hệ thống, trước cả ý niệm đúng sai.**"
       }
     ],
     "health": [
@@ -10062,6 +10064,76 @@
         "summary": "**UAP Disclosure** (Tiết lộ Hiện tượng Bất thường Trên không) là quá trình chính phủ \"giải mật\" thông tin về UFO/UAP. Nhưng câu hỏi thực sự không phải *\"UFO có thật không?\"* mà là *\"Tại sao Elite lại cho phép tiết lộ điều này ngay bây giờ?\"*"
       },
       {
+        "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "title": "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "esoterica",
+          "politics-conspiracy",
+          "science-tech"
+        ],
+        "aliases": [],
+        "headings": [
+          "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+          "Bài Này Nằm Ở Đâu Trong Vault?",
+          "1. Timeline 2026: Khi Alien Bước Vào Mainstream",
+          "Evidence Discipline / Cách Đọc Nguồn",
+          "2. A LIE N: Word Magic Ngay Trong Cái Tên",
+          "3. Spielberg: E.T. Và Disclosure Day",
+          "4. HOPE: Alien Không Chỉ Là Narrative Mỹ",
+          "5. Crowley Và LAM: Grey Alien Trước Khi Grey Alien Thành Văn Hóa Đại Chúng",
+          "6. Jack Parsons: Tên Lửa Sinh Ra Từ Phòng Thí Nghiệm Và Đền Thờ",
+          "7. SpaceX: Obelisk Của Kỷ Nguyên Technocracy",
+          "8. Obelisk: Từ Osiris Đến Apollo, Từ Apollo Đến Starship",
+          "9. Hollywood Là Phép Thuật: Predictive Programming Và Revelation Method",
+          "10. Marvel Arc: Từ Dr. Strange Đến Dr. Doom",
+          "Dr. Strange = Aleister Crowley Archetype",
+          "Jack Parsons = Cầu Nối Giữa Strange Và Doom",
+          "Dr. Doom = Elon Musk Archetype",
+          "11. Controlled Opposition: Không Ai Là Hero Hoàn Toàn",
+          "12. Hantavirus, X-Files Và “It Wasn't The Hantavirus”",
+          "13. Synthesis: Tại Sao SpaceX IPO Đúng Lúc Disclosure?",
+          "14. Moon Landing Moment 2.0 — Reality Được Cập Nhật",
+          "15. Vault Synthesis: Alien Là Một Interface",
+          "16. Kết Luận: Trong Giả Có Thật, Trong Thật Có Giả",
+          "Tài Liệu Tham Khảo / References",
+          "Primary / Official Sources",
+          "Tier-1 / Public Reporting",
+          "Books / Historical Context",
+          "Internal Vault Frameworks"
+        ],
+        "wikilinks": [
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Cách Đọc Red Pill Wiki",
+          "Elite",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Khoa Học Xét Lại",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "UAP Disclosure - Controlled Revelation"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "index.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
+        ],
+        "words": 4834,
+        "summary": "**Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở lại với người ngoài hành tinh, Trump đẩy narrative alien vào mainstream, Hollywood mở nghi lễ bằng hình ảnh, còn Elon Musk đưa obelisk hiện đại của…"
+      },
+      {
         "path": "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
         "title": "Điều mà nền giáo dục và chính phủ không dạy bạn",
         "domain": "politics-conspiracy",
@@ -10101,69 +10173,6 @@
         ],
         "words": 1002,
         "summary": "Bài viết bắt đầu từ trải nghiệm quen thuộc của mỗi đứa trẻ Việt Nam: tiền mừng tuổi trong dịp Tết. Đây là thời điểm lần đầu tiên chúng ta có nhận thức rõ ràng về giá trị và sức mạnh của đồng tiền. Chúng ta được dạy rằng tiền có thể dùng để mua những thứ mình…"
-      },
-      {
-        "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "title": "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "esoterica",
-          "politics-conspiracy",
-          "science-tech"
-        ],
-        "aliases": [],
-        "headings": [
-          "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
-          "Bài Này Nằm Ở Đâu Trong Vault?",
-          "1. Timeline 2026: Khi Alien Bước Vào Mainstream",
-          "2. A LIE N: Word Magic Ngay Trong Cái Tên",
-          "3. Spielberg: E.T. Và Disclosure Day",
-          "4. HOPE: Alien Không Chỉ Là Narrative Mỹ",
-          "5. Crowley Và LAM: Grey Alien Trước Khi Grey Alien Thành Văn Hóa Đại Chúng",
-          "6. Jack Parsons: Tên Lửa Sinh Ra Từ Phòng Thí Nghiệm Và Đền Thờ",
-          "7. SpaceX: Obelisk Của Kỷ Nguyên Technocracy",
-          "8. Obelisk: Từ Osiris Đến Apollo, Từ Apollo Đến Starship",
-          "9. Hollywood Là Phép Thuật: Predictive Programming Và Revelation Method",
-          "10. Marvel Arc: Từ Dr. Strange Đến Dr. Doom",
-          "Dr. Strange = Aleister Crowley Archetype",
-          "Jack Parsons = Cầu Nối Giữa Strange Và Doom",
-          "Dr. Doom = Elon Musk Archetype",
-          "11. Controlled Opposition: Không Ai Là Hero Hoàn Toàn",
-          "12. Hantavirus, X-Files Và “It Wasn't The Hantavirus”",
-          "13. Synthesis: Tại Sao SpaceX IPO Đúng Lúc Disclosure?",
-          "14. Moon Landing Moment 2.0 — Reality Được Cập Nhật",
-          "15. Vault Synthesis: Alien Là Một Interface",
-          "16. Kết Luận: Trong Giả Có Thật, Trong Thật Có Giả",
-          "Tài Liệu Tham Khảo / References"
-        ],
-        "wikilinks": [
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Elite",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Khoa Học Xét Lại",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "UAP Disclosure - Controlled Revelation"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "index.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
-        ],
-        "words": 4521,
-        "summary": "**Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở lại với người ngoài hành tinh, Trump đẩy narrative alien vào mainstream, Hollywood mở nghi lễ bằng hình ảnh, còn Elon Musk đưa obelisk hiện đại của…"
       },
       {
         "path": "politics-conspiracy/MindGeek.md",
@@ -10390,6 +10399,41 @@
         "summary": "**Dark MAGA** ban đầu xuất hiện như một meme chính trị trực tuyến, thể hiện một phiên bản cực đoan, báo thù, không nhân nhượng của phong trào MAGA (ủng hộ Donald Trump). Tuy nhiên, dưới góc độ biểu tượng học và tín hiệu của giới tinh hoa, Dark MAGA mang những…"
       },
       {
+        "path": "politics-conspiracy/Operation Paperclip.md",
+        "title": "Operation Paperclip",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "history",
+          "politics-conspiracy",
+          "science-tech"
+        ],
+        "aliases": [],
+        "headings": [
+          "Operation Paperclip",
+          "Trong Vault",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Elite",
+          "Khoa Học Xét Lại",
+          "Nam Cực - Bí Mật Được Canh Giữ"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md"
+        ],
+        "words": 214,
+        "summary": "**Operation Paperclip là chương trình hậu Thế chiến II đưa hàng nghìn nhà khoa học, kỹ sư và chuyên gia Đức Quốc Xã sang Mỹ, đặc biệt trong các lĩnh vực tên lửa, hàng không, vũ khí, y sinh và tình báo.**"
+      },
+      {
         "path": "politics-conspiracy/Trái Đất Phẳng.md",
         "title": "Trái Đất Phẳng",
         "domain": "politics-conspiracy",
@@ -10475,40 +10519,6 @@
         ],
         "words": 516,
         "summary": "*Tags: #source-note #cosmology #earth-magnetism #aviation #conspiracy*"
-      },
-      {
-        "path": "politics-conspiracy/Operation Paperclip.md",
-        "title": "Operation Paperclip",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "history",
-          "politics-conspiracy",
-          "science-tech"
-        ],
-        "aliases": [],
-        "headings": [
-          "Operation Paperclip",
-          "Trong Vault",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Elite",
-          "Khoa Học Xét Lại",
-          "Nam Cực - Bí Mật Được Canh Giữ"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md"
-        ],
-        "words": 214,
-        "summary": "**Operation Paperclip là chương trình hậu Thế chiến II đưa hàng nghìn nhà khoa học, kỹ sư và chuyên gia Đức Quốc Xã sang Mỹ, đặc biệt trong các lĩnh vực tên lửa, hàng không, vũ khí, y sinh và tình báo.**"
       },
       {
         "path": "politics-conspiracy/Sự thật về ma túy.md",
@@ -10641,6 +10651,7 @@
           "Nhị Nguyên",
           "Nikola Tesla",
           "Năng Lượng Tình Dục",
+          "Operation Paperclip",
           "Plasma Quinton",
           "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
           "Privacy",
@@ -10673,6 +10684,7 @@
           "Tâm Lý Học Tiến Hóa Về Giới Tính",
           "Tư Duy Lũy Thừa",
           "Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu",
+          "Tứ Linh",
           "UAP Disclosure - Controlled Revelation",
           "UBI Conditioning - The End of Work Ethic",
           "Ung Thư - Metabolic Protocol",
@@ -10681,7 +10693,8 @@
           "Vận Chín",
           "Word Magic - Ngôn Ngữ Của Phù Thủy",
           "Y Tế Tự Nhiên",
-          "Điều Mà Trường Học Không Dạy Về Tiền"
+          "Điều Mà Trường Học Không Dạy Về Tiền",
+          "Đạo"
         ],
         "mdlinks": [],
         "outlinks": [
@@ -10724,8 +10737,10 @@
           "esoterica/Thực Thể Cõi Trung Giới.md",
           "esoterica/Tà Linh.md",
           "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+          "esoterica/Tứ Linh.md",
           "esoterica/Vận Chín.md",
           "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "esoterica/Đạo.md",
           "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
           "health/Ketogenic Diet.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
@@ -10765,6 +10780,7 @@
           "politics-conspiracy/Kiểm Soát Tâm Trí.md",
           "politics-conspiracy/MindGeek.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "politics-conspiracy/Operation Paperclip.md",
           "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
           "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
           "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
@@ -10780,7 +10796,7 @@
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
         ],
         "backlinks": [],
-        "words": 2888,
+        "words": 2977,
         "summary": "Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu."
       },
       {
@@ -10843,7 +10859,8 @@
           "science-tech/Khoa Học Xét Lại.md"
         ],
         "backlinks": [
-          "index.md"
+          "index.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md"
         ],
         "words": 1154,
         "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
@@ -12256,6 +12273,7 @@
         "Nhị Nguyên",
         "Nikola Tesla",
         "Năng Lượng Tình Dục",
+        "Operation Paperclip",
         "Plasma Quinton",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Privacy",
@@ -12288,6 +12306,7 @@
         "Tâm Lý Học Tiến Hóa Về Giới Tính",
         "Tư Duy Lũy Thừa",
         "Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu",
+        "Tứ Linh",
         "UAP Disclosure - Controlled Revelation",
         "UBI Conditioning - The End of Work Ethic",
         "Ung Thư - Metabolic Protocol",
@@ -12296,7 +12315,8 @@
         "Vận Chín",
         "Word Magic - Ngôn Ngữ Của Phù Thủy",
         "Y Tế Tự Nhiên",
-        "Điều Mà Trường Học Không Dạy Về Tiền"
+        "Điều Mà Trường Học Không Dạy Về Tiền",
+        "Đạo"
       ],
       "mdlinks": [],
       "outlinks": [
@@ -12339,8 +12359,10 @@
         "esoterica/Thực Thể Cõi Trung Giới.md",
         "esoterica/Tà Linh.md",
         "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "esoterica/Tứ Linh.md",
         "esoterica/Vận Chín.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "esoterica/Đạo.md",
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "health/Ketogenic Diet.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
@@ -12380,6 +12402,7 @@
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/MindGeek.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
@@ -12395,7 +12418,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
       "backlinks": [],
-      "words": 2888,
+      "words": 2977,
       "summary": "Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu."
     },
     {
@@ -14672,6 +14695,7 @@
         "Nhị Nguyên",
         "Nikola Tesla",
         "Năng Lượng Tình Dục",
+        "Operation Paperclip",
         "Plasma Quinton",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Privacy",
@@ -14704,6 +14728,7 @@
         "Tâm Lý Học Tiến Hóa Về Giới Tính",
         "Tư Duy Lũy Thừa",
         "Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu",
+        "Tứ Linh",
         "UAP Disclosure - Controlled Revelation",
         "UBI Conditioning - The End of Work Ethic",
         "Ung Thư - Metabolic Protocol",
@@ -14712,7 +14737,8 @@
         "Vận Chín",
         "Word Magic - Ngôn Ngữ Của Phù Thủy",
         "Y Tế Tự Nhiên",
-        "Điều Mà Trường Học Không Dạy Về Tiền"
+        "Điều Mà Trường Học Không Dạy Về Tiền",
+        "Đạo"
       ],
       "mdlinks": [],
       "outlinks": [
@@ -14755,8 +14781,10 @@
         "esoterica/Thực Thể Cõi Trung Giới.md",
         "esoterica/Tà Linh.md",
         "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "esoterica/Tứ Linh.md",
         "esoterica/Vận Chín.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "esoterica/Đạo.md",
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "health/Ketogenic Diet.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
@@ -14796,6 +14824,7 @@
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/MindGeek.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
@@ -14811,7 +14840,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
       "backlinks": [],
-      "words": 2888,
+      "words": 2977,
       "summary": "Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu."
     }
   ],
@@ -15280,7 +15309,8 @@
         "science-tech/Khoa Học Xét Lại.md"
       ],
       "backlinks": [
-        "index.md"
+        "index.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md"
       ],
       "words": 1154,
       "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
@@ -20659,7 +20689,8 @@
         "esoterica/Nhân Quả.md"
       ],
       "backlinks": [
-        "esoterica/Luân Hồi.md"
+        "esoterica/Luân Hồi.md",
+        "index.md"
       ],
       "words": 187,
       "summary": "**Tứ Linh gồm Long, Lân, Quy, Phụng: bốn archetype linh vật trong văn hóa Á Đông, đại diện cho quyền lực trời đất, đạo đức vương quyền, trường thọ, tái sinh và trật tự vũ trụ.**"
@@ -20888,7 +20919,8 @@
         "mental-models/Nhị Nguyên.md"
       ],
       "backlinks": [
-        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md"
+        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "index.md"
       ],
       "words": 201,
       "summary": "**Đạo không phải một giáo điều để tin. Đạo là dòng vận hành tự nhiên phía sau mọi hình tướng: trước tên gọi, trước hệ thống, trước cả ý niệm đúng sai.**"
@@ -22464,6 +22496,7 @@
         "Nhị Nguyên",
         "Nikola Tesla",
         "Năng Lượng Tình Dục",
+        "Operation Paperclip",
         "Plasma Quinton",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Privacy",
@@ -22496,6 +22529,7 @@
         "Tâm Lý Học Tiến Hóa Về Giới Tính",
         "Tư Duy Lũy Thừa",
         "Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu",
+        "Tứ Linh",
         "UAP Disclosure - Controlled Revelation",
         "UBI Conditioning - The End of Work Ethic",
         "Ung Thư - Metabolic Protocol",
@@ -22504,7 +22538,8 @@
         "Vận Chín",
         "Word Magic - Ngôn Ngữ Của Phù Thủy",
         "Y Tế Tự Nhiên",
-        "Điều Mà Trường Học Không Dạy Về Tiền"
+        "Điều Mà Trường Học Không Dạy Về Tiền",
+        "Đạo"
       ],
       "mdlinks": [],
       "outlinks": [
@@ -22547,8 +22582,10 @@
         "esoterica/Thực Thể Cõi Trung Giới.md",
         "esoterica/Tà Linh.md",
         "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "esoterica/Tứ Linh.md",
         "esoterica/Vận Chín.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "esoterica/Đạo.md",
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "health/Ketogenic Diet.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
@@ -22588,6 +22625,7 @@
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/MindGeek.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
@@ -22603,7 +22641,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
       "backlinks": [],
-      "words": 2888,
+      "words": 2977,
       "summary": "Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu."
     },
     "mental-models/Bộ Não Rỗng và AI Brain Rot.md": {
@@ -24519,6 +24557,7 @@
         "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
         "Bài Này Nằm Ở Đâu Trong Vault?",
         "1. Timeline 2026: Khi Alien Bước Vào Mainstream",
+        "Evidence Discipline / Cách Đọc Nguồn",
         "2. A LIE N: Word Magic Ngay Trong Cái Tên",
         "3. Spielberg: E.T. Và Disclosure Day",
         "4. HOPE: Alien Không Chỉ Là Narrative Mỹ",
@@ -24537,10 +24576,15 @@
         "14. Moon Landing Moment 2.0 — Reality Được Cập Nhật",
         "15. Vault Synthesis: Alien Là Một Interface",
         "16. Kết Luận: Trong Giả Có Thật, Trong Thật Có Giả",
-        "Tài Liệu Tham Khảo / References"
+        "Tài Liệu Tham Khảo / References",
+        "Primary / Official Sources",
+        "Tier-1 / Public Reporting",
+        "Books / Historical Context",
+        "Internal Vault Frameworks"
       ],
       "wikilinks": [
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Cách Đọc Red Pill Wiki",
         "Elite",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "Karma Disclosure - Truth Hidden In Plain Sight",
@@ -24551,6 +24595,7 @@
       ],
       "mdlinks": [],
       "outlinks": [
+        "Cách Đọc Red Pill Wiki.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
         "esoterica/Ma Trận.md",
@@ -24565,7 +24610,7 @@
         "index.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
       ],
-      "words": 4521,
+      "words": 4834,
       "summary": "**Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở lại với người ngoài hành tinh, Trump đẩy narrative alien vào mainstream, Hollywood mở nghi lễ bằng hình ảnh, còn Elon Musk đưa obelisk hiện đại của…"
     },
     "politics-conspiracy/Báo Cáo 2030.md": {
@@ -25518,6 +25563,7 @@
         "science-tech/Khoa Học Xét Lại.md"
       ],
       "backlinks": [
+        "index.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md"
       ],
       "words": 214,
