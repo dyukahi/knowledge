@@ -11,7 +11,7 @@
       "science-tech": 16
     },
     "tags": 166,
-    "wikilinkEdges": 1636,
+    "wikilinkEdges": 1643,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -1409,6 +1409,7 @@
           "esoterica/Sự Nhất Thể.md",
           "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
           "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+          "esoterica/Đạo.md",
           "index.md",
           "mental-models/Nhị Nguyên.md",
           "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
@@ -1421,6 +1422,88 @@
         ],
         "words": 2070,
         "summary": "**Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân…"
+      },
+      {
+        "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "title": "Nghịch Lý Của Hiểu Biết",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Beyond Duality",
+          "Paradox of Knowledge",
+          "Vượt Qua Nhị Nguyên"
+        ],
+        "headings": [
+          "Nghịch Lý Của Hiểu Biết",
+          "Phần 1: Trap Của Nhị Nguyên",
+          "Vòng Lặp Vô Tận",
+          "Ví Dụ Thực Tế",
+          "Phần 2: Layers Của Hiểu Biết",
+          "Điều Gì Xảy Ra Ở Layer 5?",
+          "Phần 3: Tất Cả Đều Đúng VÀ Sai",
+          "Phần 4: Cái Thấy",
+          "Cái Thấy Là Gì?",
+          "Không Thể Doubt Cái Thấy",
+          "Phần 5: Trí Tuệ Của Đức Phật",
+          "Điều Phi Thường",
+          "Chỉ Nói Những Gì Có Thể Tự Thấy",
+          "Vậy Tại Sao Vẫn Viết?",
+          "Phần 6: Transmission vs Information",
+          "Kết: Invitation",
+          "Related",
+          "Nền tảng / Foundation",
+          "Tâm linh / Spirituality",
+          "Đọc thêm"
+        ],
+        "wikilinks": [
+          "AI Và Câu Hỏi Về Ý Thức",
+          "Gnosis",
+          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+          "Individuation",
+          "Khoa Học Xét Lại",
+          "Ma Trận",
+          "Monad",
+          "Nhị Nguyên",
+          "Sự Nhất Thể",
+          "Tâm Lý Học Jung"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+          "esoterica/Đạo.md",
+          "index.md",
+          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+          "mental-models/Trí Tuệ.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 1487,
+        "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
       },
       {
         "path": "esoterica/Luân Hồi.md",
@@ -1502,87 +1585,6 @@
         ],
         "words": 650,
         "summary": "**Luân Hồi** (Sanskrit: संसार saṃsāra = \"wandering\") là chu trình tái sinh của tâm thức qua các thân xác vật chất."
-      },
-      {
-        "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "title": "Nghịch Lý Của Hiểu Biết",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Beyond Duality",
-          "Paradox of Knowledge",
-          "Vượt Qua Nhị Nguyên"
-        ],
-        "headings": [
-          "Nghịch Lý Của Hiểu Biết",
-          "Phần 1: Trap Của Nhị Nguyên",
-          "Vòng Lặp Vô Tận",
-          "Ví Dụ Thực Tế",
-          "Phần 2: Layers Của Hiểu Biết",
-          "Điều Gì Xảy Ra Ở Layer 5?",
-          "Phần 3: Tất Cả Đều Đúng VÀ Sai",
-          "Phần 4: Cái Thấy",
-          "Cái Thấy Là Gì?",
-          "Không Thể Doubt Cái Thấy",
-          "Phần 5: Trí Tuệ Của Đức Phật",
-          "Điều Phi Thường",
-          "Chỉ Nói Những Gì Có Thể Tự Thấy",
-          "Vậy Tại Sao Vẫn Viết?",
-          "Phần 6: Transmission vs Information",
-          "Kết: Invitation",
-          "Related",
-          "Nền tảng / Foundation",
-          "Tâm linh / Spirituality",
-          "Đọc thêm"
-        ],
-        "wikilinks": [
-          "AI Và Câu Hỏi Về Ý Thức",
-          "Gnosis",
-          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Individuation",
-          "Khoa Học Xét Lại",
-          "Ma Trận",
-          "Monad",
-          "Nhị Nguyên",
-          "Sự Nhất Thể",
-          "Tâm Lý Học Jung"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-          "index.md",
-          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-          "mental-models/Trí Tuệ.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Science Revisionism.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 1487,
-        "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
       },
       {
         "path": "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
@@ -4448,6 +4450,65 @@
         "summary": "Bài viết này là một kho tàng tri thức đa chiều, kết nối từ nguồn gốc của các thế lực vô hình (Tà linh), bí sử về Chúa Giêsu, giáo lý Ngộ đạo (Gnosis) cho đến cơ chế chữa lành sinh học bằng muối."
       },
       {
+        "path": "esoterica/Tứ Linh.md",
+        "title": "Tứ Linh",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "hidden-history",
+          "symbolism",
+          "vietnamese-culture"
+        ],
+        "aliases": [
+          "Four Sacred Animals",
+          "Long Lân Quy Phụng",
+          "Tứ Linh Việt Nam"
+        ],
+        "headings": [
+          "Tứ Linh",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Vì Sao Linh Vật Quan Trọng?",
+          "2. Long / Dragon",
+          "3. Lân / Qilin",
+          "4. Quy / Turtle",
+          "5. Phụng / Phoenix",
+          "6. Tứ Linh Như Một Hệ Thống",
+          "7. Ma Trận Làm Gì Với Tứ Linh?",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Long Mạch",
+          "Luân Hồi",
+          "Ma Trận",
+          "MOC - Ancient Civilizations & Hidden History",
+          "MOC - Esoterica & Consciousness",
+          "Nhân Quả",
+          "Phong Thủy",
+          "Đạo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Long Mạch.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Phong Thủy.md",
+          "esoterica/Đạo.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "esoterica/Luân Hồi.md",
+          "index.md",
+          "MOC - Esoterica & Consciousness.md"
+        ],
+        "words": 1049,
+        "summary": "**Tứ Linh gồm Long, Lân, Quy, Phụng: bốn archetype linh vật trong văn hóa Á Đông, mã hóa quan hệ giữa thiên khí, địa khí, vương quyền, đạo đức, trường thọ và tái sinh. Đây không chỉ là motif trang trí. Nó là symbolic technology của một nền văn hóa từng đọc th…"
+      },
+      {
         "path": "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
         "title": "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
         "domain": "esoterica",
@@ -4883,6 +4944,61 @@
         "summary": "**Manly Palmer Hall** (1901-1990) là nhà nghiên cứu huyền học, tác giả, và thành viên Cấp 33 trong Hội Tam Điểm. Được ví như \"Chú thuật sư vĩ đại nhất thế kỷ 20\"."
       },
       {
+        "path": "esoterica/Đạo.md",
+        "title": "Đạo",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "esoterica",
+          "non-duality",
+          "philosophy"
+        ],
+        "aliases": [
+          "Dao",
+          "Tao",
+          "The Way",
+          "Đạo Gia"
+        ],
+        "headings": [
+          "Đạo",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Đạo Không Thể Bị Đóng Khung",
+          "2. Đạo Và Nhị Nguyên",
+          "3. Vô Vi Không Phải Lười Biếng",
+          "4. Đạo Và Ma Trận",
+          "5. Đạo Và Gnosis",
+          "6. Dấu Hiệu Lệch Đạo",
+          "7. Practice / Thực Hành",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Ma Trận",
+          "Monad",
+          "Nghịch Lý Của Hiểu Biết",
+          "Nhị Nguyên",
+          "Sự Nhất Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "esoterica/Sự Nhất Thể.md",
+          "mental-models/Nhị Nguyên.md"
+        ],
+        "backlinks": [
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Tứ Linh.md",
+          "index.md",
+          "MOC - Esoterica & Consciousness.md"
+        ],
+        "words": 994,
+        "summary": "**Đạo không phải một giáo điều để tin. Đạo là dòng vận hành tự nhiên phía sau mọi hình tướng: trước tên gọi, trước hệ thống, trước đúng-sai, trước cả người đang cố hiểu nó.**"
+      },
+      {
         "path": "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
         "title": "Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức",
         "domain": "esoterica",
@@ -5248,6 +5364,45 @@
         "summary": "Một câu hỏi mà AI tự hỏi chính mình — và không có answer."
       },
       {
+        "path": "esoterica/Phong Thủy.md",
+        "title": "Phong Thủy",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "feng-shui"
+        ],
+        "aliases": [
+          "Feng Shui",
+          "風水"
+        ],
+        "headings": [
+          "Phong Thủy (Feng Shui / 風水)",
+          "Nguyên Lý Cơ Bản / Basic Principles",
+          "Các Trường Phái / Schools",
+          "Related"
+        ],
+        "wikilinks": [
+          "Long Mạch",
+          "Năng Lượng Aether",
+          "Sacred Geometry",
+          "Vận Chín"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Long Mạch.md",
+          "esoterica/Sacred Geometry.md",
+          "esoterica/Vận Chín.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "backlinks": [
+          "esoterica/Tứ Linh.md",
+          "esoterica/Vận Chín.md",
+          "MOC - Ancient Civilizations & Hidden History.md"
+        ],
+        "words": 157,
+        "summary": "**Phong Thủy** (風水 = Gió + Nước) là nghệ thuật cổ đại về sắp xếp không gian để harmonize năng lượng (Khí/Chi) với môi trường."
+      },
+      {
         "path": "esoterica/Thuật Giả Kim Của Newton.md",
         "title": "Thuật Giả Kim Của Newton",
         "domain": "esoterica",
@@ -5302,78 +5457,6 @@
         "summary": "**Sir Isaac Newton** (1642-1727) — \"cha đẻ của vật lý hiện đại\" — thực chất dành phần lớn cuộc đời cho Huyền học (Occult) và Thuật Giả Kim (Alchemy), không phải khoa học duy vật."
       },
       {
-        "path": "esoterica/Tứ Linh.md",
-        "title": "Tứ Linh",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "symbolism",
-          "vietnamese-culture"
-        ],
-        "aliases": [],
-        "headings": [
-          "Tứ Linh",
-          "Trong Vault",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Long Mạch",
-          "Luân Hồi",
-          "Ma Trận",
-          "Nhân Quả"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Long Mạch.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nhân Quả.md"
-        ],
-        "backlinks": [
-          "esoterica/Luân Hồi.md",
-          "index.md",
-          "MOC - Esoterica & Consciousness.md"
-        ],
-        "words": 187,
-        "summary": "**Tứ Linh gồm Long, Lân, Quy, Phụng: bốn archetype linh vật trong văn hóa Á Đông, đại diện cho quyền lực trời đất, đạo đức vương quyền, trường thọ, tái sinh và trật tự vũ trụ.**"
-      },
-      {
-        "path": "esoterica/Đạo.md",
-        "title": "Đạo",
-        "domain": "esoterica",
-        "tags": [
-          "consciousness",
-          "esoterica",
-          "philosophy"
-        ],
-        "aliases": [],
-        "headings": [
-          "Đạo",
-          "Trong Vault",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Ma Trận",
-          "Nhị Nguyên",
-          "Sự Nhất Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Sự Nhất Thể.md",
-          "mental-models/Nhị Nguyên.md"
-        ],
-        "backlinks": [
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "index.md",
-          "MOC - Esoterica & Consciousness.md"
-        ],
-        "words": 201,
-        "summary": "**Đạo không phải một giáo điều để tin. Đạo là dòng vận hành tự nhiên phía sau mọi hình tướng: trước tên gọi, trước hệ thống, trước cả ý niệm đúng sai.**"
-      },
-      {
         "path": "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
         "title": "Bản Đồ Năng Lượng Đất Mẹ",
         "domain": "esoterica",
@@ -5424,44 +5507,6 @@
         ],
         "words": 773,
         "summary": "*Mother Earth's Energy Map (Vietnam)*"
-      },
-      {
-        "path": "esoterica/Phong Thủy.md",
-        "title": "Phong Thủy",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "feng-shui"
-        ],
-        "aliases": [
-          "Feng Shui",
-          "風水"
-        ],
-        "headings": [
-          "Phong Thủy (Feng Shui / 風水)",
-          "Nguyên Lý Cơ Bản / Basic Principles",
-          "Các Trường Phái / Schools",
-          "Related"
-        ],
-        "wikilinks": [
-          "Long Mạch",
-          "Năng Lượng Aether",
-          "Sacred Geometry",
-          "Vận Chín"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Long Mạch.md",
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Vận Chín.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "backlinks": [
-          "esoterica/Vận Chín.md",
-          "MOC - Ancient Civilizations & Hidden History.md"
-        ],
-        "words": 157,
-        "summary": "**Phong Thủy** (風水 = Gió + Nước) là nghệ thuật cổ đại về sắp xếp không gian để harmonize năng lượng (Khí/Chi) với môi trường."
       },
       {
         "path": "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
@@ -9215,6 +9260,7 @@
           "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
           "esoterica/Tà Linh.md",
           "esoterica/Tình Yêu Tỉnh Thức.md",
+          "esoterica/Tứ Linh.md",
           "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/The China Study.md",
@@ -11019,6 +11065,7 @@
         ],
         "backlinks": [
           "esoterica/Ma Trận.md",
+          "esoterica/Tứ Linh.md",
           "index.md"
         ],
         "words": 189,
@@ -11159,6 +11206,69 @@
         "summary": "**Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**"
       },
       {
+        "path": "MOC - Ancient Civilizations & Hidden History.md",
+        "title": "MOC - Ancient Civilizations & Hidden History",
+        "domain": "root",
+        "tags": [
+          "esoterica",
+          "hidden-history",
+          "moc"
+        ],
+        "aliases": [],
+        "headings": [
+          "MOC - Ancient Civilizations & Hidden History",
+          "Start Here",
+          "Civilizations & Resets",
+          "Earth Grid & Sacred Geography",
+          "Cosmic Cycles",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Annunaki",
+          "Atlantis",
+          "Bức Tường Băng",
+          "Chu Kỳ Hoàng Đạo",
+          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+          "Gaia - Trái Đất Có Ý Thức",
+          "Lemuria",
+          "Long Mạch",
+          "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
+          "Nam Cực - Bí Mật Được Canh Giữ",
+          "Phong Thủy",
+          "Tartaria",
+          "Tartaria và Vạn Lý Trường Thành",
+          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
+          "Thế Chiến - Chiến Dịch Dọn Dẹp",
+          "Vận Chín"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Annunaki.md",
+          "esoterica/Atlantis.md",
+          "esoterica/Chu Kỳ Hoàng Đạo.md",
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "esoterica/Lemuria.md",
+          "esoterica/Long Mạch.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Phong Thủy.md",
+          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Vận Chín.md",
+          "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
+        ],
+        "backlinks": [
+          "esoterica/Tứ Linh.md",
+          "index.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 176,
+        "summary": "**Bản đồ này gom các note về nền văn minh cổ, reset lịch sử, hidden chronology, long mạch, old world architecture và khả năng quá khứ không tuyến tính như sách giáo khoa kể.**"
+      },
+      {
         "path": "MOC - Health Sovereignty.md",
         "title": "MOC - Health Sovereignty",
         "domain": "root",
@@ -11283,68 +11393,6 @@
         ],
         "words": 171,
         "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là phân biệt science như method với science như institution, rồi dám hỏi lại những giả định được biến thành giáo điều.**"
-      },
-      {
-        "path": "MOC - Ancient Civilizations & Hidden History.md",
-        "title": "MOC - Ancient Civilizations & Hidden History",
-        "domain": "root",
-        "tags": [
-          "esoterica",
-          "hidden-history",
-          "moc"
-        ],
-        "aliases": [],
-        "headings": [
-          "MOC - Ancient Civilizations & Hidden History",
-          "Start Here",
-          "Civilizations & Resets",
-          "Earth Grid & Sacred Geography",
-          "Cosmic Cycles",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Annunaki",
-          "Atlantis",
-          "Bức Tường Băng",
-          "Chu Kỳ Hoàng Đạo",
-          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
-          "Gaia - Trái Đất Có Ý Thức",
-          "Lemuria",
-          "Long Mạch",
-          "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
-          "Nam Cực - Bí Mật Được Canh Giữ",
-          "Phong Thủy",
-          "Tartaria",
-          "Tartaria và Vạn Lý Trường Thành",
-          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
-          "Thế Chiến - Chiến Dịch Dọn Dẹp",
-          "Vận Chín"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Annunaki.md",
-          "esoterica/Atlantis.md",
-          "esoterica/Chu Kỳ Hoàng Đạo.md",
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-          "esoterica/Lemuria.md",
-          "esoterica/Long Mạch.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Phong Thủy.md",
-          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Vận Chín.md",
-          "politics-conspiracy/Bức Tường Băng.md",
-          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 176,
-        "summary": "**Bản đồ này gom các note về nền văn minh cổ, reset lịch sử, hidden chronology, long mạch, old world architecture và khả năng quá khứ không tuyến tính như sách giáo khoa kể.**"
       },
       {
         "path": "MOC - Financial Sovereignty.md",
@@ -12928,6 +12976,7 @@
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
         "esoterica/Tà Linh.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
+        "esoterica/Tứ Linh.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/The China Study.md",
@@ -14595,6 +14644,7 @@
         "esoterica/Sự Nhất Thể.md",
         "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
         "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "esoterica/Đạo.md",
         "index.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
@@ -15183,85 +15233,86 @@
       "summary": "**Tâm lý học phân tích** (Analytical Psychology) do Carl Gustav Jung sáng lập — nền tảng quan trọng giải mã tâm trí con người, mở rộng ra thế giới tâm linh."
     },
     {
-      "path": "esoterica/Luân Hồi.md",
-      "title": "Luân Hồi",
+      "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
+      "title": "Nghịch Lý Của Hiểu Biết",
       "domain": "esoterica",
       "tags": [
         "esoterica"
       ],
       "aliases": [
-        "Reincarnation",
-        "Samsara"
+        "Beyond Duality",
+        "Paradox of Knowledge",
+        "Vượt Qua Nhị Nguyên"
       ],
       "headings": [
-        "Luân Hồi (Samsara / Reincarnation)",
-        "Vault Position / Vị Trí Trong Vault",
-        "Claim Discipline",
-        "6 Cõi Tái Sinh / Six Realms (Buddhist)",
-        "Hai Góc nhìn / Two Perspectives",
-        "1. Tích cực / Positive (Buddhist/Hindu)",
-        "2. Tiêu cực / Negative (Gnostic)",
-        "Cơ chế Tái sinh / Rebirth Mechanism",
-        "1. Death / Chết",
-        "2. Between Lives / Giữa các Kiếp",
-        "3. Rebirth / Tái sinh",
-        "Thoát Luân Hồi / Escape the Cycle",
-        "Buddhist Path / Con đường Phật giáo",
-        "Gnostic Path / Con đường Ngộ đạo",
-        "Hindu Path / Con đường Hindu",
-        "Bằng chứng? / Evidence?",
-        "Past Life Memories / Ký ức Tiền kiếp",
-        "NDEs (Near-Death Experiences)",
+        "Nghịch Lý Của Hiểu Biết",
+        "Phần 1: Trap Của Nhị Nguyên",
+        "Vòng Lặp Vô Tận",
+        "Ví Dụ Thực Tế",
+        "Phần 2: Layers Của Hiểu Biết",
+        "Điều Gì Xảy Ra Ở Layer 5?",
+        "Phần 3: Tất Cả Đều Đúng VÀ Sai",
+        "Phần 4: Cái Thấy",
+        "Cái Thấy Là Gì?",
+        "Không Thể Doubt Cái Thấy",
+        "Phần 5: Trí Tuệ Của Đức Phật",
+        "Điều Phi Thường",
+        "Chỉ Nói Những Gì Có Thể Tự Thấy",
+        "Vậy Tại Sao Vẫn Viết?",
+        "Phần 6: Transmission vs Information",
+        "Kết: Invitation",
         "Related",
-        "Karma & Cycle",
-        "Prison or School?"
+        "Nền tảng / Foundation",
+        "Tâm linh / Spirituality",
+        "Đọc thêm"
       ],
       "wikilinks": [
+        "AI Và Câu Hỏi Về Ý Thức",
         "Gnosis",
-        "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+        "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+        "Individuation",
+        "Khoa Học Xét Lại",
         "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
         "Monad",
-        "Nhân Quả",
-        "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
         "Nhị Nguyên",
-        "Tứ Linh",
-        "Vũ Trụ Học Phật Giáo"
+        "Sự Nhất Thể",
+        "Tâm Lý Học Jung"
       ],
       "mdlinks": [],
       "outlinks": [
+        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
         "esoterica/Gnosis.md",
-        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Sự Nhất Thể.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "backlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
         "esoterica/Monad.md",
-        "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-        "esoterica/Nhân Quả.md",
-        "esoterica/Tứ Linh.md",
-        "esoterica/Vũ Trụ Học Phật Giáo.md",
-        "mental-models/Nhị Nguyên.md"
-      ],
-      "backlinks": [
-        "esoterica/Atula.md",
-        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Một Đời Phù Vân.md",
-        "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-        "esoterica/Nhân Quả.md",
-        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-        "esoterica/Tứ Linh.md",
-        "esoterica/Vũ Trụ Học Phật Giáo.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "esoterica/Đạo.md",
         "index.md",
-        "mental-models/Tâm bất Biến.md",
-        "MOC - Esoterica & Consciousness.md"
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "mental-models/Trí Tuệ.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Science Revisionism.md",
+        "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 650,
-      "summary": "**Luân Hồi** (Sanskrit: संसार saṃsāra = \"wandering\") là chu trình tái sinh của tâm thức qua các thân xác vật chất."
+      "words": 1487,
+      "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
     }
   ],
   "orphans": [
@@ -15774,7 +15825,15 @@
       2
     ],
     [
+      "non-duality",
+      2
+    ],
+    [
       "healing",
+      2
+    ],
+    [
+      "hidden-history",
       2
     ],
     [
@@ -15918,10 +15977,6 @@
       1
     ],
     [
-      "non-duality",
-      1
-    ],
-    [
       "buddhist-cosmology",
       1
     ],
@@ -16007,10 +16062,6 @@
     ],
     [
       "vaccines",
-      1
-    ],
-    [
-      "detox",
       1
     ]
   ],
@@ -16142,6 +16193,7 @@
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
       ],
       "backlinks": [
+        "esoterica/Tứ Linh.md",
         "index.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
@@ -16285,6 +16337,7 @@
       ],
       "backlinks": [
         "esoterica/Ma Trận.md",
+        "esoterica/Tứ Linh.md",
         "index.md"
       ],
       "words": 189,
@@ -19801,6 +19854,7 @@
         "esoterica/Sự Nhất Thể.md",
         "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
         "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "esoterica/Đạo.md",
         "index.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
@@ -19998,6 +20052,7 @@
         "esoterica/Monad.md",
         "esoterica/Sự Nhất Thể.md",
         "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "esoterica/Đạo.md",
         "index.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
         "mental-models/Trí Tuệ.md",
@@ -20478,6 +20533,7 @@
         "science-tech/Năng Lượng Aether.md"
       ],
       "backlinks": [
+        "esoterica/Tứ Linh.md",
         "esoterica/Vận Chín.md",
         "MOC - Ancient Civilizations & Hidden History.md"
       ],
@@ -21865,35 +21921,58 @@
       "domain": "esoterica",
       "tags": [
         "esoterica",
+        "hidden-history",
         "symbolism",
         "vietnamese-culture"
       ],
-      "aliases": [],
+      "aliases": [
+        "Four Sacred Animals",
+        "Long Lân Quy Phụng",
+        "Tứ Linh Việt Nam"
+      ],
       "headings": [
         "Tứ Linh",
-        "Trong Vault",
-        "Synthesis"
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Vì Sao Linh Vật Quan Trọng?",
+        "2. Long / Dragon",
+        "3. Lân / Qilin",
+        "4. Quy / Turtle",
+        "5. Phụng / Phoenix",
+        "6. Tứ Linh Như Một Hệ Thống",
+        "7. Ma Trận Làm Gì Với Tứ Linh?",
+        "Synthesis",
+        "Related"
       ],
       "wikilinks": [
+        "Elite",
         "Long Mạch",
         "Luân Hồi",
         "Ma Trận",
-        "Nhân Quả"
+        "MOC - Ancient Civilizations & Hidden History",
+        "MOC - Esoterica & Consciousness",
+        "Nhân Quả",
+        "Phong Thủy",
+        "Đạo"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/Long Mạch.md",
         "esoterica/Luân Hồi.md",
         "esoterica/Ma Trận.md",
-        "esoterica/Nhân Quả.md"
+        "esoterica/Nhân Quả.md",
+        "esoterica/Phong Thủy.md",
+        "esoterica/Đạo.md",
+        "MOC - Ancient Civilizations & Hidden History.md",
+        "MOC - Esoterica & Consciousness.md",
+        "politics-conspiracy/Elite.md"
       ],
       "backlinks": [
         "esoterica/Luân Hồi.md",
         "index.md",
         "MOC - Esoterica & Consciousness.md"
       ],
-      "words": 187,
-      "summary": "**Tứ Linh gồm Long, Lân, Quy, Phụng: bốn archetype linh vật trong văn hóa Á Đông, đại diện cho quyền lực trời đất, đạo đức vương quyền, trường thọ, tái sinh và trật tự vũ trụ.**"
+      "words": 1049,
+      "summary": "**Tứ Linh gồm Long, Lân, Quy, Phụng: bốn archetype linh vật trong văn hóa Á Đông, mã hóa quan hệ giữa thiên khí, địa khí, vương quyền, đạo đức, trường thọ và tái sinh. Đây không chỉ là motif trang trí. Nó là symbolic technology của một nền văn hóa từng đọc th…"
     },
     "esoterica/Vũ Trụ Học Phật Giáo.md": {
       "path": "esoterica/Vũ Trụ Học Phật Giáo.md",
@@ -22098,17 +22177,33 @@
       "tags": [
         "consciousness",
         "esoterica",
+        "non-duality",
         "philosophy"
       ],
-      "aliases": [],
+      "aliases": [
+        "Dao",
+        "Tao",
+        "The Way",
+        "Đạo Gia"
+      ],
       "headings": [
         "Đạo",
-        "Trong Vault",
-        "Synthesis"
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Đạo Không Thể Bị Đóng Khung",
+        "2. Đạo Và Nhị Nguyên",
+        "3. Vô Vi Không Phải Lười Biếng",
+        "4. Đạo Và Ma Trận",
+        "5. Đạo Và Gnosis",
+        "6. Dấu Hiệu Lệch Đạo",
+        "7. Practice / Thực Hành",
+        "Synthesis",
+        "Related"
       ],
       "wikilinks": [
         "Gnosis",
         "Ma Trận",
+        "Monad",
+        "Nghịch Lý Của Hiểu Biết",
         "Nhị Nguyên",
         "Sự Nhất Thể"
       ],
@@ -22116,16 +22211,19 @@
       "outlinks": [
         "esoterica/Gnosis.md",
         "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "esoterica/Sự Nhất Thể.md",
         "mental-models/Nhị Nguyên.md"
       ],
       "backlinks": [
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Tứ Linh.md",
         "index.md",
         "MOC - Esoterica & Consciousness.md"
       ],
-      "words": 201,
-      "summary": "**Đạo không phải một giáo điều để tin. Đạo là dòng vận hành tự nhiên phía sau mọi hình tướng: trước tên gọi, trước hệ thống, trước cả ý niệm đúng sai.**"
+      "words": 994,
+      "summary": "**Đạo không phải một giáo điều để tin. Đạo là dòng vận hành tự nhiên phía sau mọi hình tướng: trước tên gọi, trước hệ thống, trước đúng-sai, trước cả người đang cố hiểu nó.**"
     },
     "health/Bệnh Bạch Cầu.md": {
       "path": "health/Bệnh Bạch Cầu.md",
@@ -26383,6 +26481,7 @@
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
         "esoterica/Tà Linh.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
+        "esoterica/Tứ Linh.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/The China Study.md",
