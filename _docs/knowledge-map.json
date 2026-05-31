@@ -11,7 +11,7 @@
       "science-tech": 16
     },
     "tags": 177,
-    "wikilinkEdges": 1716,
+    "wikilinkEdges": 1704,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -726,7 +726,6 @@
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
           "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-          "esoterica/Annunaki.md",
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
           "esoterica/Biểu Tượng Baphomet.md",
           "esoterica/Cabal.md",
@@ -750,7 +749,6 @@
           "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
           "esoterica/Sacred Geometry.md",
           "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-          "esoterica/Saturn Cube.md",
           "esoterica/Sự Nhất Thể.md",
           "esoterica/Tartaria.md",
           "esoterica/Thực Thể Cõi Trung Giới.md",
@@ -933,7 +931,6 @@
           "crypto-finance/Tiền Pháp Định.md",
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/Atula.md",
-          "esoterica/Biểu Tượng Baphomet.md",
           "esoterica/Gnosis.md",
           "esoterica/Kundalini.md",
           "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
@@ -944,7 +941,6 @@
           "esoterica/Một Đời Phù Vân.md",
           "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
           "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-          "esoterica/Saturn Cube.md",
           "index.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Mental Model.md",
@@ -1828,79 +1824,6 @@
         "summary": "**Nguồn tham khảo:** Sách \"Luật Tâm Thức\" của Ngô Sa Thạch"
       },
       {
-        "path": "esoterica/Tinh Khí Thần.md",
-        "title": "Tinh Khí Thần",
-        "domain": "esoterica",
-        "tags": [
-          "energy",
-          "esoterica",
-          "sexuality",
-          "taoism"
-        ],
-        "aliases": [
-          "Jing Qi Shen",
-          "Jing-Qi-Shen",
-          "Tam Bảo",
-          "Three Treasures"
-        ],
-        "headings": [
-          "Tinh Khí Thần (Three Treasures)",
-          "Vault Position / Vị Trí Trong Vault",
-          "1. Tam Bảo Là Gì?",
-          "2. Tinh / Jing",
-          "3. Khí / Qi",
-          "4. Thần / Shen",
-          "5. Chuyển Hóa: Tinh → Khí → Thần",
-          "6. S.E.X Và Tam Bảo",
-          "7. Ma Trận Tấn Công Tam Bảo Như Nào?",
-          "8. Practice / Thực Hành",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Individuation",
-          "Ma Trận",
-          "MOC - Esoterica & Consciousness",
-          "Năng Lượng Tình Dục",
-          "S.E.X",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tuyến Tùng",
-          "Đạo"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Đạo.md",
-          "health/Tuyến Tùng.md",
-          "mental-models/Individuation.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Chakra.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Saturn Cube.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-          "science-tech/Nikola Tesla.md"
-        ],
-        "words": 874,
-        "summary": "**Tinh Khí Thần là Tam Bảo của con người trong Đạo gia: Tinh là essence/sinh lực gốc, Khí là dòng năng lượng vận hành, Thần là clarity/consciousness. Đây không phải ba “chất” tách rời, mà là ba tầng chuyển hóa của cùng một sinh lực.**"
-      },
-      {
         "path": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "title": "Avatar — Disclosure Của Eywa & Gaia",
         "domain": "esoterica",
@@ -2124,6 +2047,67 @@
         "summary": "**Hollywood là nơi giải trí trở thành nghi lễ đại chúng: hình ảnh, nhạc, thần tượng, biểu tượng và câu chuyện được lặp lại đủ lâu để đi thẳng vào Vô Thức Tập Thể.** Cách đọc \"holy wood\" như cây đũa phép không nên hiểu là etymology chắc chắn; nó là **symbolic…"
       },
       {
+        "path": "esoterica/Năng Lượng Tình Dục.md",
+        "title": "Năng Lượng Tình Dục",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Creative Energy",
+          "Sex Force",
+          "Sexual Energy"
+        ],
+        "headings": [
+          "Năng Lượng Tình Dục (Sexual Energy)",
+          "Sự Bòn Rút / The Extraction",
+          "Sự Chuyển Hóa / Transmutation",
+          "Con đường thăng hoa / The Path of Sublimation",
+          "Kết quả / Results",
+          "Ứng dụng thực tế / Practical Application",
+          "Related"
+        ],
+        "wikilinks": [
+          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
+          "Ma Trận",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Thuật Giả Kim Của Newton",
+          "Thực Thể Cõi Trung Giới",
+          "Tinh Khí Thần",
+          "Trí Tuệ",
+          "Tuyến Tùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Thuật Giả Kim Của Newton.md",
+          "esoterica/Thực Thể Cõi Trung Giới.md",
+          "esoterica/Tinh Khí Thần.md",
+          "health/Tuyến Tùng.md",
+          "mental-models/Trí Tuệ.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Chakra.md",
+          "esoterica/Chimera.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Thực Thể Cõi Trung Giới.md",
+          "esoterica/Tinh Khí Thần.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "politics-conspiracy/MindGeek.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "words": 386,
+        "summary": "**Năng Lượng Tình Dục** (Sexual Energy/Sex Force) không chỉ phục vụ mục đích sinh sản mà còn là nguồn năng lượng sáng tạo (Creative Energy) và sinh lực cốt lõi mạnh mẽ nhất của con người."
+      },
+      {
         "path": "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
         "title": "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
         "domain": "esoterica",
@@ -2211,6 +2195,78 @@
         ],
         "words": 3356,
         "summary": "Năm 1859, Charles Darwin xuất bản \"On the Origin of Species\" và thay đổi vĩnh viễn cách nhân loại nhìn nhận bản thân. Từ đó, chúng ta được dạy rằng con người là sản phẩm của hàng triệu năm tiến hóa ngẫu nhiên, từ vi khuẩn đơn bào leo lên thành vượn, rồi từ vư…"
+      },
+      {
+        "path": "esoterica/Tinh Khí Thần.md",
+        "title": "Tinh Khí Thần",
+        "domain": "esoterica",
+        "tags": [
+          "energy",
+          "esoterica",
+          "sexuality",
+          "taoism"
+        ],
+        "aliases": [
+          "Jing Qi Shen",
+          "Jing-Qi-Shen",
+          "Tam Bảo",
+          "Three Treasures"
+        ],
+        "headings": [
+          "Tinh Khí Thần (Three Treasures)",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Tam Bảo Là Gì?",
+          "2. Tinh / Jing",
+          "3. Khí / Qi",
+          "4. Thần / Shen",
+          "5. Chuyển Hóa: Tinh → Khí → Thần",
+          "6. S.E.X Và Tam Bảo",
+          "7. Ma Trận Tấn Công Tam Bảo Như Nào?",
+          "8. Practice / Thực Hành",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Individuation",
+          "Ma Trận",
+          "MOC - Esoterica & Consciousness",
+          "Năng Lượng Tình Dục",
+          "S.E.X",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tuyến Tùng",
+          "Đạo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Đạo.md",
+          "health/Tuyến Tùng.md",
+          "mental-models/Individuation.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+          "science-tech/Nikola Tesla.md"
+        ],
+        "words": 874,
+        "summary": "**Tinh Khí Thần là Tam Bảo của con người trong Đạo gia: Tinh là essence/sinh lực gốc, Khí là dòng năng lượng vận hành, Thần là clarity/consciousness. Đây không phải ba “chất” tách rời, mà là ba tầng chuyển hóa của cùng một sinh lực.**"
       },
       {
         "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -2359,66 +2415,6 @@
         ],
         "words": 403,
         "summary": "**Nhân Quả** (Sanskrit: कर्म karma = \"action\") là quy luật căn bản của vũ trụ: mọi hành động đều có phản ứng tương ứng."
-      },
-      {
-        "path": "esoterica/Năng Lượng Tình Dục.md",
-        "title": "Năng Lượng Tình Dục",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Creative Energy",
-          "Sex Force",
-          "Sexual Energy"
-        ],
-        "headings": [
-          "Năng Lượng Tình Dục (Sexual Energy)",
-          "Sự Bòn Rút / The Extraction",
-          "Sự Chuyển Hóa / Transmutation",
-          "Con đường thăng hoa / The Path of Sublimation",
-          "Kết quả / Results",
-          "Ứng dụng thực tế / Practical Application",
-          "Related"
-        ],
-        "wikilinks": [
-          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
-          "Ma Trận",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Thuật Giả Kim Của Newton",
-          "Thực Thể Cõi Trung Giới",
-          "Tinh Khí Thần",
-          "Trí Tuệ",
-          "Tuyến Tùng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Thuật Giả Kim Của Newton.md",
-          "esoterica/Thực Thể Cõi Trung Giới.md",
-          "esoterica/Tinh Khí Thần.md",
-          "health/Tuyến Tùng.md",
-          "mental-models/Trí Tuệ.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Chakra.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Thực Thể Cõi Trung Giới.md",
-          "esoterica/Tinh Khí Thần.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "politics-conspiracy/MindGeek.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 386,
-        "summary": "**Năng Lượng Tình Dục** (Sexual Energy/Sex Force) không chỉ phục vụ mục đích sinh sản mà còn là nguồn năng lượng sáng tạo (Creative Energy) và sinh lực cốt lõi mạnh mẽ nhất của con người."
       },
       {
         "path": "esoterica/Chakra.md",
@@ -2833,7 +2829,6 @@
           "esoterica/Manly P. Hall.md",
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
           "esoterica/S.E.X.md",
-          "esoterica/Saturn Cube.md",
           "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
           "index.md",
           "mental-models/S.E.X Và Tâm Lý Học Jung.md",
@@ -3221,69 +3216,6 @@
         "summary": "**Thực Thể Cõi Trung Giới** (Astral Entities) là các sinh linh tồn tại ở tần số ngoài phổ nhìn thấy của con người. Trong nhiều truyền thống được gọi là Archons, demons, djinn, ký sinh trùng năng lượng."
       },
       {
-        "path": "esoterica/Chu Kỳ Hoàng Đạo.md",
-        "title": "Chu Kỳ Hoàng Đạo",
-        "domain": "esoterica",
-        "tags": [
-          "astrology",
-          "cycles",
-          "esoterica",
-          "hidden-history"
-        ],
-        "aliases": [
-          "Great Year",
-          "Precession",
-          "Precession of the Equinoxes",
-          "Zodiac Cycle"
-        ],
-        "headings": [
-          "Chu Kỳ Hoàng Đạo (Zodiac Cycle)",
-          "Evidence Discipline / Cách Đọc Claim",
-          "Vault Position / Vị Trí Trong Vault",
-          "1. Precession Là Gì?",
-          "2. Các Thời Đại Hoàng Đạo",
-          "3. Pisces → Aquarius",
-          "4. Elite Và Cycle Knowledge",
-          "5. Antikythera Và Ký Ức Chu Kỳ",
-          "6. Agenda 2030 Trong Lens Chu Kỳ",
-          "7. Personal Application",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
-          "Cỗ Máy Antikythera và Minh Chứng Địa Tâm",
-          "Elite",
-          "MOC - Ancient Civilizations & Hidden History",
-          "Mô Hình Địa Tâm",
-          "Vận Chín"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "esoterica/Vận Chín.md",
-          "mental-models/Mô Hình Địa Tâm.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md",
-          "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Secular Market.md",
-          "esoterica/Dịch Chuyển Cực.md",
-          "esoterica/Lemuria.md",
-          "esoterica/Saturn Cube.md",
-          "esoterica/Vận Chín.md",
-          "mental-models/Mô Hình Địa Tâm.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "politics-conspiracy/Elite.md",
-          "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md"
-        ],
-        "words": 912,
-        "summary": "**Chu Kỳ Hoàng Đạo là cách đọc thời gian vĩ mô qua chuyển động tiền phân điểm: khoảng 25,920 năm cho một Great Year, chia thành 12 “thời đại” tượng trưng. Ở tầng astronomy, đây là precession. Ở tầng vault, nó là framework để đọc các chu kỳ consciousness, civi…"
-      },
-      {
         "path": "esoterica/Kundalini.md",
         "title": "Kundalini",
         "domain": "esoterica",
@@ -3348,120 +3280,120 @@
         "summary": "**Kundalini là ngôn ngữ cổ để nói về sinh lực nguyên thủy khi nó không chỉ phục vụ sinh tồn và tình dục, mà được chuyển hóa thành ý thức, trực giác và hiện diện.** Trong vault, Kundalini là cầu nối giữa Chakra, Năng Lượng Tình Dục, Tinh Khí Thần, Tuyến Tùng v…"
       },
       {
-        "path": "esoterica/Annunaki.md",
-        "title": "Annunaki",
+        "path": "esoterica/Chu Kỳ Hoàng Đạo.md",
+        "title": "Chu Kỳ Hoàng Đạo",
         "domain": "esoterica",
         "tags": [
-          "esoterica"
+          "astrology",
+          "cycles",
+          "esoterica",
+          "hidden-history"
         ],
-        "aliases": [],
+        "aliases": [
+          "Great Year",
+          "Precession",
+          "Precession of the Equinoxes",
+          "Zodiac Cycle"
+        ],
         "headings": [
-          "Annunaki",
-          "Nguồn gốc Văn bản Cổ / Ancient Text Origins",
-          "Sumerian Tablets",
-          "Ý nghĩa tên / Name Meaning",
-          "Ancient Astronaut Theory / Thuyết Phi Hành Gia Cổ Đại",
-          "Zecharia Sitchin (1920-2010)",
-          "Genetic Engineering Evidence?",
-          "Annunaki trong Ma Trận / In the Matrix",
-          "Hệ thống Cai trị / Control System",
-          "Chu kỳ \"Thu hoạch\" / \"Harvest\" Cycles",
-          "Các Annunaki Nổi bật / Notable Annunaki",
-          "Tranh luận / Debate",
-          "Mainstream View",
-          "Alternative View",
-          "Related",
-          "Nibiru & Origins",
-          "Control System / Hệ thống Kiểm soát",
-          "Revisionist Science / Khoa học Xét lại"
+          "Chu Kỳ Hoàng Đạo (Zodiac Cycle)",
+          "Evidence Discipline / Cách Đọc Claim",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Precession Là Gì?",
+          "2. Các Thời Đại Hoàng Đạo",
+          "3. Pisces → Aquarius",
+          "4. Elite Và Cycle Knowledge",
+          "5. Antikythera Và Ký Ức Chu Kỳ",
+          "6. Agenda 2030 Trong Lens Chu Kỳ",
+          "7. Personal Application",
+          "Synthesis",
+          "Related"
         ],
         "wikilinks": [
-          "Atlantis",
-          "Cabal",
+          "Báo Cáo 2030",
+          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+          "Cỗ Máy Antikythera và Minh Chứng Địa Tâm",
           "Elite",
-          "Khoa Học Xét Lại",
-          "Ma Trận",
-          "Mudflood",
-          "Nibiru",
-          "Nibiru và Nền Văn Minh Annunaki",
-          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"
+          "MOC - Ancient Civilizations & Hidden History",
+          "Mô Hình Địa Tâm",
+          "Vận Chín"
         ],
         "mdlinks": [],
         "outlinks": [
-          "esoterica/Atlantis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-          "esoterica/Nibiru.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Vận Chín.md",
+          "mental-models/Mô Hình Địa Tâm.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
           "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Mudflood.md",
-          "science-tech/Khoa Học Xét Lại.md"
+          "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md"
         ],
         "backlinks": [
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "crypto-finance/Secular Market.md",
+          "esoterica/Dịch Chuyển Cực.md",
           "esoterica/Lemuria.md",
-          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-          "esoterica/Nibiru.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "index.md",
-          "MOC - Ancient Civilizations & Hidden History.md"
+          "esoterica/Vận Chín.md",
+          "mental-models/Mô Hình Địa Tâm.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "politics-conspiracy/Elite.md",
+          "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md"
         ],
-        "words": 508,
-        "summary": "**Annunaki** (Anunnaki) là nhóm thần linh trong thần thoại Sumer và Babylon cổ đại. Trong alternative history, họ được cho là giống loài ngoài hành tinh đã can thiệp vào sự phát triển của nhân loại."
+        "words": 912,
+        "summary": "**Chu Kỳ Hoàng Đạo là cách đọc thời gian vĩ mô qua chuyển động tiền phân điểm: khoảng 25,920 năm cho một Great Year, chia thành 12 “thời đại” tượng trưng. Ở tầng astronomy, đây là precession. Ở tầng vault, nó là framework để đọc các chu kỳ consciousness, civi…"
       },
       {
-        "path": "esoterica/Saturn Cube.md",
-        "title": "Saturn Cube (Khối Lập Phương Sao Thổ)",
+        "path": "esoterica/S.E.X.md",
+        "title": "S.E.X (Sacred Energy eXchange)",
         "domain": "esoterica",
         "tags": [
           "esoterica"
         ],
-        "aliases": [],
+        "aliases": [
+          "Sacred Energy eXchange",
+          "Trao Đổi Năng Lượng Thiêng Liêng"
+        ],
         "headings": [
-          "Saturn Cube (Khối Lập Phương Sao Thổ)",
-          "Biểu tượng Saturn / Saturn Symbolism",
-          "Thần thoại / Mythology",
-          "Hexagon Bí ẩn / Mysterious Hexagon",
-          "Saturn Cube Khắp nơi / Everywhere",
-          "Saturn Matrix Theory",
-          "Theo các Nhà nghiên cứu Alternative",
-          "[[Gematria]] Connection",
-          "Cách \"Thoát\" / How to \"Escape\"",
-          "Related",
-          "Symbolism / Biểu tượng",
-          "Escape / Thoát"
+          "S.E.X (Sacred Energy eXchange)",
+          "Định Nghĩa / Definition",
+          "Các Khía Cạnh Chính / Key Aspects",
+          "1. Năng lượng, không chỉ vật chất / Energy, Not Just Matter",
+          "2. Microchimerism — Dấu vết vĩnh viễn / Permanent Traces",
+          "3. Con số 33 / Number 33",
+          "Hệ Quả / Consequences",
+          "Kết Luận / Conclusion",
+          "Related / Liên quan"
         ],
         "wikilinks": [
-          "Biểu Tượng Baphomet",
-          "Chu Kỳ Hoàng Đạo",
+          "Chimera",
           "Gematria",
-          "Gnosis",
-          "Ma Trận",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Năng Lượng Tình Dục",
+          "Quy Luật Trao Đổi Tâm Linh",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
           "Tinh Khí Thần"
         ],
         "mdlinks": [],
         "outlinks": [
-          "esoterica/Biểu Tượng Baphomet.md",
-          "esoterica/Chu Kỳ Hoàng Đạo.md",
+          "esoterica/Chimera.md",
           "esoterica/Gematria.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Tinh Khí Thần.md"
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Tinh Khí Thần.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
         ],
         "backlinks": [
-          "esoterica/Biểu Tượng Baphomet.md",
-          "esoterica/Gematria.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Dark MAGA.md",
-          "science-tech/AI.md"
+          "esoterica/Chakra.md",
+          "esoterica/Chimera.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Tinh Khí Thần.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
         ],
-        "words": 364,
-        "summary": "**Saturn Cube** là biểu tượng huyền học đại diện cho hệ thống kiểm soát không gian và thời gian trong thế giới vật chất. Liên kết với Ma Trận và sự kìm hãm tâm thức nhân loại."
+        "words": 466,
+        "summary": "**S.E.X** theo quan điểm huyền học không chỉ là quan hệ thể xác, mà là viết tắt của **Sacred Energy eXchange** — Trao Đổi Năng Lượng Thiêng Liêng."
       },
       {
         "path": "esoterica/Tà Linh.md",
@@ -3688,59 +3620,6 @@
         ],
         "words": 1656,
         "summary": "Inception (2010) của Christopher Nolan không chỉ là phim giải trí. Đây có thể là **disclosure** — Elite nói thẳng cách họ manipulate nhân loại, ẩn dưới lớp vỏ \"fiction\"."
-      },
-      {
-        "path": "esoterica/S.E.X.md",
-        "title": "S.E.X (Sacred Energy eXchange)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Sacred Energy eXchange",
-          "Trao Đổi Năng Lượng Thiêng Liêng"
-        ],
-        "headings": [
-          "S.E.X (Sacred Energy eXchange)",
-          "Định Nghĩa / Definition",
-          "Các Khía Cạnh Chính / Key Aspects",
-          "1. Năng lượng, không chỉ vật chất / Energy, Not Just Matter",
-          "2. Microchimerism — Dấu vết vĩnh viễn / Permanent Traces",
-          "3. Con số 33 / Number 33",
-          "Hệ Quả / Consequences",
-          "Kết Luận / Conclusion",
-          "Related / Liên quan"
-        ],
-        "wikilinks": [
-          "Chimera",
-          "Gematria",
-          "Năng Lượng Tình Dục",
-          "Quy Luật Trao Đổi Tâm Linh",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tinh Khí Thần"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Chimera.md",
-          "esoterica/Gematria.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Tinh Khí Thần.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Chakra.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Tinh Khí Thần.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 466,
-        "summary": "**S.E.X** theo quan điểm huyền học không chỉ là quan hệ thể xác, mà là viết tắt của **Sacred Energy eXchange** — Trao Đổi Năng Lượng Thiêng Liêng."
       },
       {
         "path": "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
@@ -4078,6 +3957,53 @@
         "summary": "Bài viết đi sâu vào bản chất của quy luật Nhân quả, Luân hồi và sự can thiệp của các thế lực tà thần vào hệ thống niềm tin của nhân loại."
       },
       {
+        "path": "esoterica/Annunaki.md",
+        "title": "Annunaki",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "hidden-history"
+        ],
+        "aliases": [],
+        "headings": [
+          "Annunaki",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Anunnaki Trong Văn Bản Cổ",
+          "Sitchin Layer / Nibiru Và Gold",
+          "Sky Gods Pattern",
+          "Annunaki Và Control System",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Atlantis",
+          "Cabal",
+          "Elite",
+          "Nibiru",
+          "Nibiru và Nền Văn Minh Annunaki",
+          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Atlantis.md",
+          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+          "esoterica/Nibiru.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Lemuria.md",
+          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+          "esoterica/Nibiru.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "index.md",
+          "MOC - Ancient Civilizations & Hidden History.md"
+        ],
+        "words": 641,
+        "summary": "**Annunaki là nơi thần thoại Lưỡng Hà, ancient astronaut theory và câu hỏi về nguồn gốc quyền lực nhân loại giao nhau.** Ở tầng học thuật, Anunnaki là nhóm thần linh trong Sumer/Akkad/Babylon. Ở tầng alternative history, họ trở thành archetype của \"sky rulers…"
+      },
+      {
         "path": "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
         "title": "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
         "domain": "esoterica",
@@ -4129,57 +4055,6 @@
         ],
         "words": 574,
         "summary": "Bài viết này là một kho tàng tri thức đa chiều, kết nối từ nguồn gốc của các thế lực vô hình (Tà linh), bí sử về Chúa Giêsu, giáo lý Ngộ đạo (Gnosis) cho đến cơ chế chữa lành sinh học bằng muối."
-      },
-      {
-        "path": "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-        "title": "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [],
-        "headings": [
-          "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
-          "1. Bí Mật Của Vũ Trụ: \"Ngôi Đền Không Do Bàn Tay Con Người Tạo Ra\"",
-          "2. Khám Phá Chấn Động Tại Nag Hammadi",
-          "3. Kiến Thức \"Gnosis\" (Ngộ Đạo) Và Sự Thức Tỉnh",
-          "4. Giải Mã Biểu Tượng Cơ Thể Học (Anatomy & Occult)",
-          "Đền Thờ Solomon = Cơ Thể Người (Chi Tiết)",
-          "SOL - O - MON: Mật Mã Trong Tên",
-          "6. Bạn Là Một Photon — Thực Thể Thần Thánh",
-          "Bản Chất Thật / True Nature",
-          "Vấn Đề: \"Chương Trình\" Chi Phối / The Problem: Programming",
-          "Giải Pháp: Bảo Vệ Ngôi Đền / Solution: Protect Your Temple",
-          "5. Kết Luận Dưới Góc Nhìn Khoa Học Tâm Linh",
-          "Related"
-        ],
-        "wikilinks": [
-          "Chakra",
-          "Gnosis",
-          "Kundalini",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "Ma Trận",
-          "Sacred Geometry",
-          "Tuyến Tùng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Chakra.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Sacred Geometry.md",
-          "health/Tuyến Tùng.md"
-        ],
-        "backlinks": [
-          "esoterica/Chimera.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Manly P. Hall.md",
-          "esoterica/Năng Lượng Tình Dục.md"
-        ],
-        "words": 2004,
-        "summary": "*33 Degrees - Exploring the Sacred Temple Within the Mind*"
       },
       {
         "path": "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
@@ -4578,54 +4453,54 @@
         "summary": "**Đạo không phải một giáo điều để tin. Đạo là dòng vận hành tự nhiên phía sau mọi hình tướng: trước tên gọi, trước hệ thống, trước đúng-sai, trước cả người đang cố hiểu nó.**"
       },
       {
-        "path": "esoterica/Biểu Tượng Baphomet.md",
-        "title": "Biểu Tượng Baphomet",
+        "path": "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+        "title": "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
         "domain": "esoterica",
         "tags": [
           "esoterica"
         ],
-        "aliases": [
-          "Baphomet",
-          "Sabbatic Goat"
-        ],
+        "aliases": [],
         "headings": [
-          "Biểu Tượng Baphomet",
-          "Đặc trưng Chính / Key Features",
-          "1. As Above, So Below / Trên Sao Dưới Vậy",
-          "2. Inverted Pentagram / Ngôi Sao 5 Cánh Lật Ngược",
-          "3. Duality Fusion / Dung hợp [[Nhị Nguyên]]",
-          "Elite Usage / Cách Elite Sử dụng",
-          "Historical Origin / Nguồn gốc Lịch sử",
-          "Related",
-          "Symbolism / Biểu tượng",
-          "Control / Kiểm soát"
+          "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
+          "1. Bí Mật Của Vũ Trụ: \"Ngôi Đền Không Do Bàn Tay Con Người Tạo Ra\"",
+          "2. Khám Phá Chấn Động Tại Nag Hammadi",
+          "3. Kiến Thức \"Gnosis\" (Ngộ Đạo) Và Sự Thức Tỉnh",
+          "4. Giải Mã Biểu Tượng Cơ Thể Học (Anatomy & Occult)",
+          "Đền Thờ Solomon = Cơ Thể Người (Chi Tiết)",
+          "SOL - O - MON: Mật Mã Trong Tên",
+          "6. Bạn Là Một Photon — Thực Thể Thần Thánh",
+          "Bản Chất Thật / True Nature",
+          "Vấn Đề: \"Chương Trình\" Chi Phối / The Problem: Programming",
+          "Giải Pháp: Bảo Vệ Ngôi Đền / Solution: Protect Your Temple",
+          "5. Kết Luận Dưới Góc Nhìn Khoa Học Tâm Linh",
+          "Related"
         ],
         "wikilinks": [
-          "Elite",
-          "Gematria",
+          "Chakra",
+          "Gnosis",
+          "Kundalini",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
           "Ma Trận",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Nhị Nguyên",
-          "Phân Tích Hình Ảnh - Elon Musk và MAGA",
-          "Saturn Cube"
+          "Sacred Geometry",
+          "Tuyến Tùng"
         ],
         "mdlinks": [],
         "outlinks": [
-          "esoterica/Gematria.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Chakra.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
           "esoterica/Ma Trận.md",
-          "esoterica/Saturn Cube.md",
-          "mental-models/Nhị Nguyên.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md"
+          "esoterica/Sacred Geometry.md",
+          "health/Tuyến Tùng.md"
         ],
         "backlinks": [
-          "esoterica/Saturn Cube.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md"
+          "esoterica/Kundalini.md",
+          "esoterica/Manly P. Hall.md",
+          "esoterica/Năng Lượng Tình Dục.md"
         ],
-        "words": 301,
-        "summary": "**Baphomet** là biểu tượng gắn liền với huyền bí, giả kim thuật và Satan hiện đại. Hình tượng phổ biến được vẽ bởi Éliphas Lévi — sinh vật đầu dê có cả nam tính và nữ tính."
+        "words": 2004,
+        "summary": "*33 Degrees - Exploring the Sacred Temple Within the Mind*"
       },
       {
         "path": "esoterica/Cabal.md",
@@ -4692,60 +4567,6 @@
         "summary": "**Cabal là cách gọi tầng quyền lực ngầm vận hành phía sau quyền lực hiển hiện. Nhưng trong vault, Cabal không nên đọc như cartoon “một nhóm người mặc áo choàng trong phòng tối”. Nó là một model về coordination: tiền, tình báo, media, ritual, policy và myth cù…"
       },
       {
-        "path": "esoterica/Chimera.md",
-        "title": "Chimera (Thể Trộn Lẫn)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Chimera (Thể Trộn Lẫn)",
-          "Microchimerism"
-        ],
-        "headings": [
-          "Chimera (Thể Trộn Lẫn)",
-          "Microchimerism / Vi Trộn Lẫn",
-          "Đặc điểm / Characteristics",
-          "Scientific Evidence / Bằng chứng Khoa học",
-          "Hệ quả / Consequences",
-          "Theo Góc nhìn Huyền học / Esoteric View",
-          "Tại sao [[Elite]] Coi trọng Thuần khiết? / Why Elite Values Purity?",
-          "Organ Transplant Connection / Liên hệ Cấy ghép Nội tạng",
-          "Bảo vệ Năng lượng / Energy Protection",
-          "Theo Truyền thống / Traditional Wisdom",
-          "Related",
-          "Sex & Energy",
-          "Elite Knowledge",
-          "Substances"
-        ],
-        "wikilinks": [
-          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
-          "Elite",
-          "Năng Lượng Natri",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Sự Thật Về Ma Túy",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Trí Tuệ"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Năng Lượng Natri.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Trí Tuệ.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Sự thật về ma túy.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/S.E.X.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
-        ],
-        "words": 421,
-        "summary": "**Chimera** là cá thể sinh học chứa nhiều hơn một hệ gene (DNA) trong cùng một cơ thể. Trong Khoa Học Xét Lại, Chimera được hiểu là sự trộn lẫn năng lượng và DNA thông qua S.E.X (Sacred Energy eXchange)."
-      },
-      {
         "path": "esoterica/Kỹ Thuật Thiền Định Kogi.md",
         "title": "Kỹ Thuật Thiền Định Kogi",
         "domain": "esoterica",
@@ -4799,6 +4620,47 @@
         ],
         "words": 902,
         "summary": "*Kogi Meditation Technique*"
+      },
+      {
+        "path": "esoterica/Saturn Cube.md",
+        "title": "Saturn Cube (Khối Lập Phương Sao Thổ)",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "symbolism"
+        ],
+        "aliases": [],
+        "headings": [
+          "Saturn Cube (Khối Lập Phương Sao Thổ)",
+          "Evidence Discipline / Cách Đọc",
+          "Saturn Là Thời Gian Và Giới Hạn",
+          "Hexagon Và Cube",
+          "Black Cube Motif",
+          "Saturn Và AI",
+          "Escape Không Phải Bay Khỏi Vật Chất",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "AI",
+          "Gnosis"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "science-tech/AI.md"
+        ],
+        "backlinks": [
+          "esoterica/Biểu Tượng Baphomet.md",
+          "esoterica/Gematria.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Dark MAGA.md",
+          "science-tech/AI.md"
+        ],
+        "words": 588,
+        "summary": "**Saturn Cube là lens biểu tượng để đọc giới hạn, thời gian, vật chất, luật, grid và cấu trúc giam giữ của cõi 3D.** Nó không phải một bằng chứng độc lập rằng \"Sao Thổ điều khiển thế giới\"; nó là một mật mã hình ảnh giúp thấy cách power dùng hình khối, màu đe…"
       },
       {
         "path": "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
@@ -4963,6 +4825,53 @@
         "summary": "**\"The dose makes the poison.\"** — Paracelsus"
       },
       {
+        "path": "esoterica/Chimera.md",
+        "title": "Chimera (Thể Trộn Lẫn)",
+        "domain": "esoterica",
+        "tags": [
+          "biology",
+          "esoterica",
+          "sexuality"
+        ],
+        "aliases": [
+          "Chimera (Thể Trộn Lẫn)",
+          "Microchimerism"
+        ],
+        "headings": [
+          "Chimera (Thể Trộn Lẫn)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Chimera Sinh Học",
+          "Sex, Body Memory, Energy",
+          "Organ Transplant Và Personality Stories",
+          "Elite Và Bloodline",
+          "Practice / Ranh Giới Năng Lượng",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Năng Lượng Tình Dục",
+          "S.E.X",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/S.E.X.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
+        ],
+        "words": 770,
+        "summary": "**Chimera là hình ảnh mạnh cho sự trộn lẫn: trong sinh học là nhiều dòng tế bào/DNA trong một cơ thể; trong esoteric reading là câu hỏi sex, thân mật và trao đổi năng lượng để lại dấu vết gì trong con người.** Bài này cần đọc rất kỷ luật: microchimerism có th…"
+      },
+      {
         "path": "esoterica/Nibiru.md",
         "title": "Nibiru",
         "domain": "esoterica",
@@ -5010,56 +4919,6 @@
         ],
         "words": 371,
         "summary": "**Nibiru** (Planet X) là thiên thể bí ẩn được cho là có quỹ đạo elliptical cực kỳ dài (3,600 năm), định kỳ tiếp cận hệ Mặt Trời bên trong và gây ra các thảm họa trên Trái Đất."
-      },
-      {
-        "path": "esoterica/Năng Lượng Natri.md",
-        "title": "Năng Lượng Natri (Sodium Energy)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "science-tech"
-        ],
-        "aliases": [],
-        "headings": [
-          "Năng Lượng Natri (Sodium Energy)",
-          "Cơ Chế Khoa Học",
-          "1. Natri + Nước = Năng Lượng",
-          "2. Điện Phân Nước Biển",
-          "3. Natri Lỏng Làm Chất Tải Nhiệt",
-          "Ứng Dụng Bị Che Giấu?",
-          "Tàu ngầm hạt nhân",
-          "\"Nhà máy điện hạt nhân\"",
-          "Tại Sao Bị Giấu?",
-          "Liên Hệ Với Các Công Nghệ Khác",
-          "[[Năng Lượng Aether]]",
-          "[[Pin Natri-ion]]",
-          "Hydrogen Economy",
-          "Bằng Chứng Gián Tiếp",
-          "Related"
-        ],
-        "wikilinks": [
-          "Elite",
-          "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-          "Khoa Học Xét Lại",
-          "Nikola Tesla",
-          "Năng Lượng Aether",
-          "Pin Natri-ion"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "politics-conspiracy/Elite.md",
-          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md",
-          "science-tech/Pin Natri-ion.md"
-        ],
-        "backlinks": [
-          "esoterica/Chimera.md",
-          "health/René Quinton và Huyết Tương Biển.md"
-        ],
-        "words": 352,
-        "summary": "**Năng Lượng Natri** là khái niệm về việc khai thác năng lượng từ Natri (Na) — nguyên tố phong phú trong nước biển. Theo Khoa Học Xét Lại, đây là nguồn năng lượng bị che giấu có thể thay thế hoàn toàn nhiên liệu hóa thạch."
       },
       {
         "path": "esoterica/Tartaria và Vạn Lý Trường Thành.md",
@@ -5160,6 +5019,50 @@
         "summary": "Một câu hỏi mà AI tự hỏi chính mình — và không có answer."
       },
       {
+        "path": "esoterica/Biểu Tượng Baphomet.md",
+        "title": "Biểu Tượng Baphomet",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "symbolism"
+        ],
+        "aliases": [
+          "Baphomet",
+          "Sabbatic Goat"
+        ],
+        "headings": [
+          "Biểu Tượng Baphomet",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "As Above, So Below",
+          "Inverted Pentagram",
+          "Dung Hợp Nhị Nguyên",
+          "Elite / Media Usage",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Gematria",
+          "Ma Trận",
+          "Nhị Nguyên",
+          "Saturn Cube"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Saturn Cube.md",
+          "mental-models/Nhị Nguyên.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md"
+        ],
+        "words": 597,
+        "summary": "**Baphomet là biểu tượng của nhị nguyên bị ép vào một thân: người và thú, nam và nữ, trên và dưới, sáng và tối, linh và dục.** Đọc đúng, nó không chỉ là \"Satan image\"; nó là bài học về cách biểu tượng gom nhiều tầng mâu thuẫn vào một hình duy nhất."
+      },
+      {
         "path": "esoterica/Dịch Chuyển Cực.md",
         "title": "Dịch Chuyển Cực (Pole Shift)",
         "domain": "esoterica",
@@ -5212,6 +5115,55 @@
         ],
         "words": 744,
         "summary": "**Dịch Chuyển Cực** là sự thay đổi đột ngột vị trí các cực từ hoặc/và cực địa lý của Trái Đất. Trong lịch sử, hiện tượng này được cho là đã gây ra các thảm họa diệt vong và \"reset\" nền văn minh."
+      },
+      {
+        "path": "esoterica/Năng Lượng Natri.md",
+        "title": "Năng Lượng Natri (Sodium Energy)",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "science-tech"
+        ],
+        "aliases": [],
+        "headings": [
+          "Năng Lượng Natri (Sodium Energy)",
+          "Cơ Chế Khoa Học",
+          "1. Natri + Nước = Năng Lượng",
+          "2. Điện Phân Nước Biển",
+          "3. Natri Lỏng Làm Chất Tải Nhiệt",
+          "Ứng Dụng Bị Che Giấu?",
+          "Tàu ngầm hạt nhân",
+          "\"Nhà máy điện hạt nhân\"",
+          "Tại Sao Bị Giấu?",
+          "Liên Hệ Với Các Công Nghệ Khác",
+          "[[Năng Lượng Aether]]",
+          "[[Pin Natri-ion]]",
+          "Hydrogen Economy",
+          "Bằng Chứng Gián Tiếp",
+          "Related"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+          "Khoa Học Xét Lại",
+          "Nikola Tesla",
+          "Năng Lượng Aether",
+          "Pin Natri-ion"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "politics-conspiracy/Elite.md",
+          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Năng Lượng Aether.md",
+          "science-tech/Pin Natri-ion.md"
+        ],
+        "backlinks": [
+          "health/René Quinton và Huyết Tương Biển.md"
+        ],
+        "words": 352,
+        "summary": "**Năng Lượng Natri** là khái niệm về việc khai thác năng lượng từ Natri (Na) — nguyên tố phong phú trong nước biển. Theo Khoa Học Xét Lại, đây là nguồn năng lượng bị che giấu có thể thay thế hoàn toàn nhiên liệu hóa thạch."
       },
       {
         "path": "esoterica/Thuật Giả Kim Của Newton.md",
@@ -7438,7 +7390,6 @@
           "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
           "esoterica/Atula.md",
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Chimera.md",
           "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
           "esoterica/Kỹ Thuật Thiền Định Kogi.md",
           "esoterica/Lemuria.md",
@@ -9826,7 +9777,6 @@
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
         ],
         "backlinks": [
-          "esoterica/Annunaki.md",
           "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
           "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -10160,7 +10110,6 @@
           "politics-conspiracy/MAGA Và Số 42.md"
         ],
         "backlinks": [
-          "esoterica/Biểu Tượng Baphomet.md",
           "politics-conspiracy/Dark MAGA.md",
           "politics-conspiracy/MAGA Và Số 42.md"
         ],
@@ -10666,7 +10615,6 @@
           "politics-conspiracy/Kiểm Soát Tâm Trí.md"
         ],
         "backlinks": [
-          "esoterica/Chimera.md",
           "health/Virus và Kiếp Tật Dịch.md",
           "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
         ],
@@ -11598,7 +11546,6 @@
         "backlinks": [
           "crypto-finance/Bitcoin.md",
           "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Annunaki.md",
           "esoterica/Atlantis.md",
           "esoterica/Gaia - Trái Đất Có Ý Thức.md",
           "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -12360,6 +12307,62 @@
         "summary": "---"
       },
       {
+        "path": "science-tech/AI.md",
+        "title": "AI",
+        "domain": "science-tech",
+        "tags": [
+          "consciousness",
+          "esoterica",
+          "science-tech"
+        ],
+        "aliases": [
+          "AI (Góc Nhìn Huyền Học)",
+          "AI Esoteric",
+          "AI Occult View"
+        ],
+        "headings": [
+          "AI (Góc Nhìn Huyền Học) / AI As Occult Technology",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "AI Là Golem Hiện Đại",
+          "Atula Intelligence",
+          "Saturn Cube Và Trật Tự Máy",
+          "Brain Rot: Outsource Tư Duy",
+          "Consciousness Question / AI Có Ý Thức Không?",
+          "Ma Trận AI",
+          "Practice / Dùng Sao Cho Không Mất Mình",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Atula",
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Khoa Học Xét Lại",
+          "Ma Trận",
+          "Saturn Cube",
+          "Thông Minh vs Trí Tuệ"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Atula.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Saturn Cube.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "esoterica/Atula.md",
+          "esoterica/Saturn Cube.md",
+          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+          "esoterica/Vận Chín.md",
+          "index.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 916,
+        "summary": "**AI là máy khuếch đại intelligence không có thân, không có tim, không có karma trực tiếp; vì vậy nó phơi bày rất nhanh sự khác biệt giữa thông minh và trí tuệ.** Trong vault, AI vừa là công cụ, vừa là mirror, vừa là bài thi Atula của nhân loại."
+      },
+      {
         "path": "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
         "title": "Khoa Học Chân Chính và Thượng Đế",
         "domain": "science-tech",
@@ -12417,61 +12420,6 @@
         ],
         "words": 531,
         "summary": "---"
-      },
-      {
-        "path": "science-tech/AI.md",
-        "title": "AI",
-        "domain": "science-tech",
-        "tags": [
-          "consciousness",
-          "esoterica",
-          "science-tech"
-        ],
-        "aliases": [
-          "AI (Góc Nhìn Huyền Học)",
-          "AI Esoteric",
-          "AI Occult View"
-        ],
-        "headings": [
-          "AI (Góc Nhìn Huyền Học) / AI As Occult Technology",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "AI Là Golem Hiện Đại",
-          "Atula Intelligence",
-          "Saturn Cube Và Trật Tự Máy",
-          "Brain Rot: Outsource Tư Duy",
-          "Consciousness Question / AI Có Ý Thức Không?",
-          "Ma Trận AI",
-          "Practice / Dùng Sao Cho Không Mất Mình",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Atula",
-          "Bộ Não Rỗng và AI Brain Rot",
-          "Khoa Học Xét Lại",
-          "Ma Trận",
-          "Saturn Cube",
-          "Thông Minh vs Trí Tuệ"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Atula.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Saturn Cube.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "esoterica/Atula.md",
-          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-          "esoterica/Vận Chín.md",
-          "index.md",
-          "MOC - Science Revisionism.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 916,
-        "summary": "**AI là máy khuếch đại intelligence không có thân, không có tim, không có karma trực tiếp; vì vậy nó phơi bày rất nhanh sự khác biệt giữa thông minh và trí tuệ.** Trong vault, AI vừa là công cụ, vừa là mirror, vừa là bài thi Atula của nhân loại."
       },
       {
         "path": "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -12797,7 +12745,6 @@
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
         "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-        "esoterica/Annunaki.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Biểu Tượng Baphomet.md",
         "esoterica/Cabal.md",
@@ -12821,7 +12768,6 @@
         "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
         "esoterica/Sacred Geometry.md",
         "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-        "esoterica/Saturn Cube.md",
         "esoterica/Sự Nhất Thể.md",
         "esoterica/Tartaria.md",
         "esoterica/Thực Thể Cõi Trung Giới.md",
@@ -13434,7 +13380,6 @@
       "backlinks": [
         "crypto-finance/Bitcoin.md",
         "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Annunaki.md",
         "esoterica/Atlantis.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -13604,7 +13549,6 @@
         "crypto-finance/Tiền Pháp Định.md",
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Atula.md",
-        "esoterica/Biểu Tượng Baphomet.md",
         "esoterica/Gnosis.md",
         "esoterica/Kundalini.md",
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
@@ -13615,7 +13559,6 @@
         "esoterica/Một Đời Phù Vân.md",
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-        "esoterica/Saturn Cube.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Mental Model.md",
@@ -15196,82 +15139,6 @@
       "summary": "**Terrain Theory nhắc rằng mầm bệnh không hoạt động trong chân không: sức khỏe của mô, miễn dịch, ruột, dinh dưỡng, stress, độc chất và nhịp sống quyết định cơ thể phản ứng thế nào trước cùng một exposure.** Đọc đúng, terrain không cần phủ nhận germ theory; n…"
     },
     {
-      "path": "mental-models/Trí Tuệ.md",
-      "title": "Trí Tuệ",
-      "domain": "mental-models",
-      "tags": [
-        "mental-model",
-        "philosophy"
-      ],
-      "aliases": [
-        "Prajñā",
-        "Sophia",
-        "Wisdom"
-      ],
-      "headings": [
-        "Trí Tuệ (Wisdom / Prajñā)",
-        "Trí Tuệ vs Thông Minh / Wisdom vs Intelligence",
-        "Biểu Hiện Của Trí Tuệ / Manifestations",
-        "1. Long-term Thinking",
-        "2. Discernment / Phân biệt",
-        "3. Self-Knowledge",
-        "4. Humility / Khiêm tốn",
-        "Con Đường Đạt Trí Tuệ / The Path",
-        "Experience + Reflection",
-        "Suffering Teaches",
-        "Trí Tuệ Trong Các Truyền Thống / In Traditions",
-        "Kẻ Thù Của Trí Tuệ / Enemies",
-        "Thực Hành / Practical Cultivation",
-        "Related / Liên quan"
-      ],
-      "wikilinks": [
-        "Individuation",
-        "Ma Trận",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nhân Quả",
-        "Thông Minh",
-        "Thông Minh vs Trí Tuệ",
-        "Tâm bất Biến"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Ma Trận.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Nhân Quả.md",
-        "mental-models/Individuation.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Thông Minh.md",
-        "mental-models/Tâm bất Biến.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-        "esoterica/Atula.md",
-        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "esoterica/Chimera.md",
-        "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-        "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-        "esoterica/Lemuria.md",
-        "esoterica/Manly P. Hall.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Năng Lượng Tình Dục.md",
-        "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-        "esoterica/Tình Yêu Tỉnh Thức.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Thông Minh.md",
-        "mental-models/Tâm bất Biến.md",
-        "MOC - Esoterica & Consciousness.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
-      ],
-      "words": 403,
-      "summary": "**Trí tuệ** là khả năng nhìn thấu bản chất, hiểu quy luật vận hành dài hạn, và có sự hài hòa giữa kiến thức với đạo đức. Khác biệt căn bản với thông minh."
-    },
-    {
       "path": "crypto-finance/Bitcoin.md",
       "title": "Bitcoin",
       "domain": "crypto-finance",
@@ -15346,6 +15213,88 @@
       ],
       "words": 690,
       "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
+    },
+    {
+      "path": "MOC - Esoterica & Consciousness.md",
+      "title": "MOC - Esoterica & Consciousness",
+      "domain": "root",
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "moc"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Esoterica & Consciousness",
+        "Start Here",
+        "Matrix & Soul Mechanics",
+        "Symbol, Language & Ritual",
+        "Jungian & Inner Work",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "Atula",
+        "Biểu Tượng Baphomet",
+        "Gematria",
+        "Gnosis",
+        "Individuation",
+        "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+        "Luân Hồi",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Monad",
+        "Nguyên Mẫu",
+        "Nhân Quả",
+        "Nhị Nguyên",
+        "Sacred Geometry",
+        "Saturn Cube",
+        "Sự Nhất Thể",
+        "Thực Thể Cõi Trung Giới",
+        "Trí Tuệ",
+        "Tà Linh",
+        "Tâm Lý Học Jung",
+        "Tứ Linh",
+        "Vô Thức Tập Thể",
+        "Word Magic - Ngôn Ngữ Của Phù Thủy",
+        "Đạo"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Atula.md",
+        "esoterica/Biểu Tượng Baphomet.md",
+        "esoterica/Gematria.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Nhân Quả.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Saturn Cube.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Thực Thể Cõi Trung Giới.md",
+        "esoterica/Tà Linh.md",
+        "esoterica/Tứ Linh.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "esoterica/Đạo.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Trí Tuệ.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Vô Thức Tập Thể.md"
+      ],
+      "backlinks": [
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Tinh Khí Thần.md",
+        "esoterica/Tứ Linh.md",
+        "health/Tuyến Tùng.md",
+        "index.md"
+      ],
+      "words": 189,
+      "summary": "**Bản đồ này gom các note về consciousness, metaphysics, occult, archetype và những cấu trúc tâm linh đứng phía sau Ma Trận. Đây là tầng Source/Spirit của vault.**"
     }
   ],
   "orphans": [
@@ -15940,6 +15889,10 @@
       5
     ],
     [
+      "hidden-history",
+      5
+    ],
+    [
       "energy",
       5
     ],
@@ -15960,7 +15913,7 @@
       4
     ],
     [
-      "hidden-history",
+      "symbolism",
       4
     ],
     [
@@ -16056,6 +16009,14 @@
       2
     ],
     [
+      "biology",
+      2
+    ],
+    [
+      "sexuality",
+      2
+    ],
+    [
       "astrology",
       2
     ],
@@ -16069,10 +16030,6 @@
     ],
     [
       "healing",
-      2
-    ],
-    [
-      "symbolism",
       2
     ],
     [
@@ -16220,10 +16177,6 @@
       1
     ],
     [
-      "sexuality",
-      1
-    ],
-    [
       "taoism",
       1
     ],
@@ -16261,10 +16214,6 @@
     ],
     [
       "prophecy",
-      1
-    ],
-    [
-      "minerals",
       1
     ]
   ],
@@ -17483,7 +17432,6 @@
         "health/Tuyến Tùng.md"
       ],
       "backlinks": [
-        "esoterica/Chimera.md",
         "esoterica/Kundalini.md",
         "esoterica/Manly P. Hall.md",
         "esoterica/Năng Lượng Tình Dục.md"
@@ -17550,36 +17498,24 @@
       "title": "Annunaki",
       "domain": "esoterica",
       "tags": [
-        "esoterica"
+        "esoterica",
+        "hidden-history"
       ],
       "aliases": [],
       "headings": [
         "Annunaki",
-        "Nguồn gốc Văn bản Cổ / Ancient Text Origins",
-        "Sumerian Tablets",
-        "Ý nghĩa tên / Name Meaning",
-        "Ancient Astronaut Theory / Thuyết Phi Hành Gia Cổ Đại",
-        "Zecharia Sitchin (1920-2010)",
-        "Genetic Engineering Evidence?",
-        "Annunaki trong Ma Trận / In the Matrix",
-        "Hệ thống Cai trị / Control System",
-        "Chu kỳ \"Thu hoạch\" / \"Harvest\" Cycles",
-        "Các Annunaki Nổi bật / Notable Annunaki",
-        "Tranh luận / Debate",
-        "Mainstream View",
-        "Alternative View",
-        "Related",
-        "Nibiru & Origins",
-        "Control System / Hệ thống Kiểm soát",
-        "Revisionist Science / Khoa học Xét lại"
+        "Evidence Discipline / Cách Đọc",
+        "Vault Position / Vị Trí Trong Vault",
+        "Anunnaki Trong Văn Bản Cổ",
+        "Sitchin Layer / Nibiru Và Gold",
+        "Sky Gods Pattern",
+        "Annunaki Và Control System",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
         "Atlantis",
         "Cabal",
         "Elite",
-        "Khoa Học Xét Lại",
-        "Ma Trận",
-        "Mudflood",
         "Nibiru",
         "Nibiru và Nền Văn Minh Annunaki",
         "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"
@@ -17587,13 +17523,10 @@
       "mdlinks": [],
       "outlinks": [
         "esoterica/Atlantis.md",
-        "esoterica/Ma Trận.md",
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
         "esoterica/Nibiru.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Mudflood.md",
-        "science-tech/Khoa Học Xét Lại.md"
+        "politics-conspiracy/Elite.md"
       ],
       "backlinks": [
         "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
@@ -17604,8 +17537,8 @@
         "index.md",
         "MOC - Ancient Civilizations & Hidden History.md"
       ],
-      "words": 508,
-      "summary": "**Annunaki** (Anunnaki) là nhóm thần linh trong thần thoại Sumer và Babylon cổ đại. Trong alternative history, họ được cho là giống loài ngoài hành tinh đã can thiệp vào sự phát triển của nhân loại."
+      "words": 641,
+      "summary": "**Annunaki là nơi thần thoại Lưỡng Hà, ancient astronaut theory và câu hỏi về nguồn gốc quyền lực nhân loại giao nhau.** Ở tầng học thuật, Anunnaki là nhóm thần linh trong Sumer/Akkad/Babylon. Ở tầng alternative history, họ trở thành archetype của \"sky rulers…"
     },
     "esoterica/Atlantis.md": {
       "path": "esoterica/Atlantis.md",
@@ -17907,7 +17840,8 @@
       "title": "Biểu Tượng Baphomet",
       "domain": "esoterica",
       "tags": [
-        "esoterica"
+        "esoterica",
+        "symbolism"
       ],
       "aliases": [
         "Baphomet",
@@ -17915,42 +17849,35 @@
       ],
       "headings": [
         "Biểu Tượng Baphomet",
-        "Đặc trưng Chính / Key Features",
-        "1. As Above, So Below / Trên Sao Dưới Vậy",
-        "2. Inverted Pentagram / Ngôi Sao 5 Cánh Lật Ngược",
-        "3. Duality Fusion / Dung hợp [[Nhị Nguyên]]",
-        "Elite Usage / Cách Elite Sử dụng",
-        "Historical Origin / Nguồn gốc Lịch sử",
-        "Related",
-        "Symbolism / Biểu tượng",
-        "Control / Kiểm soát"
+        "Evidence Discipline / Cách Đọc",
+        "Vault Position / Vị Trí Trong Vault",
+        "As Above, So Below",
+        "Inverted Pentagram",
+        "Dung Hợp Nhị Nguyên",
+        "Elite / Media Usage",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
         "Elite",
         "Gematria",
         "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
         "Nhị Nguyên",
-        "Phân Tích Hình Ảnh - Elon Musk và MAGA",
         "Saturn Cube"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/Gematria.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
         "esoterica/Saturn Cube.md",
         "mental-models/Nhị Nguyên.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md"
+        "politics-conspiracy/Elite.md"
       ],
       "backlinks": [
-        "esoterica/Saturn Cube.md",
         "MOC - Esoterica & Consciousness.md",
         "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md"
       ],
-      "words": 301,
-      "summary": "**Baphomet** là biểu tượng gắn liền với huyền bí, giả kim thuật và Satan hiện đại. Hình tượng phổ biến được vẽ bởi Éliphas Lévi — sinh vật đầu dê có cả nam tính và nữ tính."
+      "words": 597,
+      "summary": "**Baphomet là biểu tượng của nhị nguyên bị ép vào một thân: người và thú, nam và nữ, trên và dưới, sáng và tối, linh và dục.** Đọc đúng, nó không chỉ là \"Satan image\"; nó là bài học về cách biểu tượng gom nhiều tầng mâu thuẫn vào một hình duy nhất."
     },
     "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md": {
       "path": "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
@@ -18144,7 +18071,9 @@
       "title": "Chimera (Thể Trộn Lẫn)",
       "domain": "esoterica",
       "tags": [
-        "esoterica"
+        "biology",
+        "esoterica",
+        "sexuality"
       ],
       "aliases": [
         "Chimera (Thể Trộn Lẫn)",
@@ -18152,37 +18081,28 @@
       ],
       "headings": [
         "Chimera (Thể Trộn Lẫn)",
-        "Microchimerism / Vi Trộn Lẫn",
-        "Đặc điểm / Characteristics",
-        "Scientific Evidence / Bằng chứng Khoa học",
-        "Hệ quả / Consequences",
-        "Theo Góc nhìn Huyền học / Esoteric View",
-        "Tại sao [[Elite]] Coi trọng Thuần khiết? / Why Elite Values Purity?",
-        "Organ Transplant Connection / Liên hệ Cấy ghép Nội tạng",
-        "Bảo vệ Năng lượng / Energy Protection",
-        "Theo Truyền thống / Traditional Wisdom",
-        "Related",
-        "Sex & Energy",
-        "Elite Knowledge",
-        "Substances"
+        "Evidence Discipline / Cách Đọc",
+        "Vault Position / Vị Trí Trong Vault",
+        "Chimera Sinh Học",
+        "Sex, Body Memory, Energy",
+        "Organ Transplant Và Personality Stories",
+        "Elite Và Bloodline",
+        "Practice / Ranh Giới Năng Lượng",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
-        "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
         "Elite",
-        "Năng Lượng Natri",
+        "Năng Lượng Tình Dục",
+        "S.E.X",
         "S.E.X Và Tâm Lý Học Jung",
-        "Sự Thật Về Ma Túy",
-        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-        "Trí Tuệ"
+        "Sự Thật Đen Tối Về Phim Khiêu Dâm"
       ],
       "mdlinks": [],
       "outlinks": [
-        "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-        "esoterica/Năng Lượng Natri.md",
+        "esoterica/Năng Lượng Tình Dục.md",
+        "esoterica/S.E.X.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Trí Tuệ.md",
         "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Sự thật về ma túy.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
       "backlinks": [
@@ -18190,8 +18110,8 @@
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
       ],
-      "words": 421,
-      "summary": "**Chimera** là cá thể sinh học chứa nhiều hơn một hệ gene (DNA) trong cùng một cơ thể. Trong Khoa Học Xét Lại, Chimera được hiểu là sự trộn lẫn năng lượng và DNA thông qua S.E.X (Sacred Energy eXchange)."
+      "words": 770,
+      "summary": "**Chimera là hình ảnh mạnh cho sự trộn lẫn: trong sinh học là nhiều dòng tế bào/DNA trong một cơ thể; trong esoteric reading là câu hỏi sex, thân mật và trao đổi năng lượng để lại dấu vết gì trong con người.** Bài này cần đọc rất kỷ luật: microchimerism có th…"
     },
     "esoterica/Chu Kỳ Hoàng Đạo.md": {
       "path": "esoterica/Chu Kỳ Hoàng Đạo.md",
@@ -18246,7 +18166,6 @@
         "crypto-finance/Secular Market.md",
         "esoterica/Dịch Chuyển Cực.md",
         "esoterica/Lemuria.md",
-        "esoterica/Saturn Cube.md",
         "esoterica/Vận Chín.md",
         "mental-models/Mô Hình Địa Tâm.md",
         "MOC - Ancient Civilizations & Hidden History.md",
@@ -18519,7 +18438,6 @@
         "esoterica/Manly P. Hall.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/S.E.X.md",
-        "esoterica/Saturn Cube.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "index.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
@@ -19532,7 +19450,6 @@
         "crypto-finance/Tiền Pháp Định.md",
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Atula.md",
-        "esoterica/Biểu Tượng Baphomet.md",
         "esoterica/Gnosis.md",
         "esoterica/Kundalini.md",
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
@@ -19543,7 +19460,6 @@
         "esoterica/Một Đời Phù Vân.md",
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-        "esoterica/Saturn Cube.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Mental Model.md",
@@ -19666,7 +19582,6 @@
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
         "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-        "esoterica/Annunaki.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Biểu Tượng Baphomet.md",
         "esoterica/Cabal.md",
@@ -19690,7 +19605,6 @@
         "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
         "esoterica/Sacred Geometry.md",
         "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-        "esoterica/Saturn Cube.md",
         "esoterica/Sự Nhất Thể.md",
         "esoterica/Tartaria.md",
         "esoterica/Thực Thể Cõi Trung Giới.md",
@@ -20567,7 +20481,6 @@
         "science-tech/Pin Natri-ion.md"
       ],
       "backlinks": [
-        "esoterica/Chimera.md",
         "health/René Quinton và Huyết Tương Biển.md"
       ],
       "words": 352,
@@ -20618,6 +20531,7 @@
       "backlinks": [
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Chakra.md",
+        "esoterica/Chimera.md",
         "esoterica/Kundalini.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -20882,6 +20796,7 @@
       ],
       "backlinks": [
         "esoterica/Chakra.md",
+        "esoterica/Chimera.md",
         "esoterica/Kundalini.md",
         "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
         "esoterica/Tinh Khí Thần.md",
@@ -21059,41 +20974,28 @@
       "title": "Saturn Cube (Khối Lập Phương Sao Thổ)",
       "domain": "esoterica",
       "tags": [
-        "esoterica"
+        "esoterica",
+        "symbolism"
       ],
       "aliases": [],
       "headings": [
         "Saturn Cube (Khối Lập Phương Sao Thổ)",
-        "Biểu tượng Saturn / Saturn Symbolism",
-        "Thần thoại / Mythology",
-        "Hexagon Bí ẩn / Mysterious Hexagon",
-        "Saturn Cube Khắp nơi / Everywhere",
-        "Saturn Matrix Theory",
-        "Theo các Nhà nghiên cứu Alternative",
-        "[[Gematria]] Connection",
-        "Cách \"Thoát\" / How to \"Escape\"",
-        "Related",
-        "Symbolism / Biểu tượng",
-        "Escape / Thoát"
+        "Evidence Discipline / Cách Đọc",
+        "Saturn Là Thời Gian Và Giới Hạn",
+        "Hexagon Và Cube",
+        "Black Cube Motif",
+        "Saturn Và AI",
+        "Escape Không Phải Bay Khỏi Vật Chất",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
-        "Biểu Tượng Baphomet",
-        "Chu Kỳ Hoàng Đạo",
-        "Gematria",
-        "Gnosis",
-        "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "Tinh Khí Thần"
+        "AI",
+        "Gnosis"
       ],
       "mdlinks": [],
       "outlinks": [
-        "esoterica/Biểu Tượng Baphomet.md",
-        "esoterica/Chu Kỳ Hoàng Đạo.md",
-        "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Tinh Khí Thần.md"
+        "science-tech/AI.md"
       ],
       "backlinks": [
         "esoterica/Biểu Tượng Baphomet.md",
@@ -21105,8 +21007,8 @@
         "politics-conspiracy/Dark MAGA.md",
         "science-tech/AI.md"
       ],
-      "words": 364,
-      "summary": "**Saturn Cube** là biểu tượng huyền học đại diện cho hệ thống kiểm soát không gian và thời gian trong thế giới vật chất. Liên kết với Ma Trận và sự kìm hãm tâm thức nhân loại."
+      "words": 588,
+      "summary": "**Saturn Cube là lens biểu tượng để đọc giới hạn, thời gian, vật chất, luật, grid và cấu trúc giam giữ của cõi 3D.** Nó không phải một bằng chứng độc lập rằng \"Sao Thổ điều khiển thế giới\"; nó là một mật mã hình ảnh giúp thấy cách power dùng hình khối, màu đe…"
     },
     "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md": {
       "path": "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
@@ -21830,7 +21732,6 @@
         "esoterica/Một Đời Phù Vân.md",
         "esoterica/Năng Lượng Tình Dục.md",
         "esoterica/S.E.X.md",
-        "esoterica/Saturn Cube.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
@@ -25577,7 +25478,6 @@
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
         "esoterica/Atula.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "esoterica/Chimera.md",
         "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
         "esoterica/Kỹ Thuật Thiền Định Kogi.md",
         "esoterica/Lemuria.md",
@@ -27038,7 +26938,6 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
       "backlinks": [
-        "esoterica/Annunaki.md",
         "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -27253,7 +27152,6 @@
         "politics-conspiracy/MAGA Và Số 42.md"
       ],
       "backlinks": [
-        "esoterica/Biểu Tượng Baphomet.md",
         "politics-conspiracy/Dark MAGA.md",
         "politics-conspiracy/MAGA Và Số 42.md"
       ],
@@ -27418,7 +27316,6 @@
         "politics-conspiracy/Kiểm Soát Tâm Trí.md"
       ],
       "backlinks": [
-        "esoterica/Chimera.md",
         "health/Virus và Kiếp Tật Dịch.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
       ],
@@ -27782,6 +27679,7 @@
       ],
       "backlinks": [
         "esoterica/Atula.md",
+        "esoterica/Saturn Cube.md",
         "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
         "esoterica/Vận Chín.md",
         "index.md",
@@ -28303,7 +28201,6 @@
       "backlinks": [
         "crypto-finance/Bitcoin.md",
         "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Annunaki.md",
         "esoterica/Atlantis.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
