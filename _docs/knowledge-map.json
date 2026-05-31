@@ -11,7 +11,7 @@
       "science-tech": 16
     },
     "tags": 177,
-    "wikilinkEdges": 1700,
+    "wikilinkEdges": 1692,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -5633,7 +5633,6 @@
           "health/Bệnh Bạch Cầu.md",
           "health/Công Thức Chữa Lành Tự Nhiên.md",
           "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
           "health/Ketogenic Diet.md",
           "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
           "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
@@ -5798,7 +5797,6 @@
           "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
           "esoterica/Năng Lượng Tình Dục.md",
           "esoterica/Tinh Khí Thần.md",
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
           "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
           "health/Suramin.md",
           "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
@@ -5874,7 +5872,6 @@
           "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
           "health/Bệnh Bạch Cầu.md",
           "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
           "health/Su That Ve Benh Dai Va Vac Xin.md",
           "health/Suy Thận.md",
           "MOC - Health Sovereignty.md"
@@ -6138,73 +6135,6 @@
         ],
         "words": 954,
         "summary": "**Triệu chứng không phải lúc nào cũng là kẻ thù; nhiều triệu chứng là cách cơ thể cô lập, đẩy ra, làm nóng, làm loãng, ho, ói, tiêu chảy hoặc nghỉ bắt buộc để bảo vệ terrain.** Nhưng hiểu cơ thể không có nghĩa là lãng mạn hóa nguy hiểm: sốt cao, mất nước, khó…"
-      },
-      {
-        "path": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "title": "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-        "domain": "health",
-        "tags": [
-          "health"
-        ],
-        "aliases": [],
-        "headings": [
-          "How To Read This / Cách Đọc Bài Này",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-          "Gut-Brain Axis",
-          "Enteric Nervous System (ENS)",
-          "Vagus Nerve Highway",
-          "Neurotransmitter Production",
-          "Microbiome = Inner Universe",
-          "Stats",
-          "Functions",
-          "Khi Gut Bị Phá Hoại",
-          "Nguyên nhân",
-          "Hậu quả",
-          "Ma Trận & Food System",
-          "Deliberate Destruction?",
-          "Why?",
-          "Phục Hồi Gut Health",
-          "Remove",
-          "Replace",
-          "Reinoculate",
-          "Repair",
-          "Spiritual Implications",
-          "Intuition",
-          "Vibration",
-          "Related"
-        ],
-        "wikilinks": [
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Ma Trận",
-          "MOC - Health Sovereignty",
-          "Plasma Quinton",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Trí Tuệ",
-          "Tuyến Tùng",
-          "Vận Chín, Người Kogi và Ma Trận Y Tế",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Plasma Quinton.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Tuyến Tùng.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên.md",
-          "mental-models/Trí Tuệ.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "backlinks": [
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "words": 558,
-        "summary": "---"
       },
       {
         "path": "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
@@ -6786,6 +6716,52 @@
         ],
         "words": 723,
         "summary": "---"
+      },
+      {
+        "path": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "title": "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+        "domain": "health",
+        "tags": [
+          "health"
+        ],
+        "aliases": [],
+        "headings": [
+          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+          "Medical Caution / Cảnh Báo Y Khoa",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Kỷ Luật Bằng Chứng",
+          "Gut-Brain Axis",
+          "Microbiome Là Nội Vũ Trụ",
+          "Food System Và Ma Trận",
+          "Phục Hồi Ruột: Nền Trước Mẹo",
+          "Gut Feeling Và Trực Giác",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Ma Trận",
+          "MOC - Health Sovereignty",
+          "Plasma Quinton",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Trí Tuệ",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "health/Plasma Quinton.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Y Tế Tự Nhiên.md",
+          "mental-models/Trí Tuệ.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "backlinks": [
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 848,
+        "summary": "**Ruột không chỉ là ống tiêu hóa. Nó là interface giữa thức ăn, miễn dịch, microbiome, thần kinh phế vị, hormone, cảm xúc và clarity của tâm trí.** Gọi ruột là \"bộ não thứ hai\" không phải thơ; đó là cách nhắc rằng consciousness embodied trong một cơ thể có vi…"
       },
       {
         "path": "health/Virus và Kiếp Tật Dịch.md",
@@ -11000,90 +10976,6 @@
         "summary": "**Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**"
       },
       {
-        "path": "Cách Đọc Red Pill Wiki.md",
-        "title": "Cách Đọc Red Pill Wiki",
-        "domain": "root",
-        "tags": [
-          "epistemology",
-          "meta",
-          "navigation"
-        ],
-        "aliases": [],
-        "headings": [
-          "Cách Đọc Red Pill Wiki",
-          "1. Đừng Tin. Hãy Thấy.",
-          "2. Bốn Tầng Đọc",
-          "3. Fact Không Đủ. Nhưng Không Có Fact Thì Dễ Bay.",
-          "4. Ma Trận Là Interface, Không Chỉ Nhà Tù",
-          "5. Symbol Không Phải Trang Trí",
-          "6. Đừng Biến Red Pill Thành Tôn Giáo Mới",
-          "7. Cách Đọc Một Bài Bất Kỳ",
-          "8. Reading Paths",
-          "9. Synthesis"
-        ],
-        "wikilinks": [
-          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-          "Elite",
-          "Gnosis",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Khoa Học Xét Lại",
-          "Kiểm Soát Tâm Trí",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Ma Trận",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Monad",
-          "Nghịch Lý Của Hiểu Biết",
-          "Sự Nhất Thể",
-          "UAP Disclosure - Controlled Revelation",
-          "Ung Thư - Metabolic Protocol",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "esoterica/Sự Nhất Thể.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Y Tế Tự Nhiên.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Vận Chín.md",
-          "health/Ketogenic Diet.md",
-          "index.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-          "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Pin Natri-ion.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-          "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-          "science-tech/Walter Russell.md"
-        ],
-        "words": 1154,
-        "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
-      },
-      {
         "path": "MOC - Science Revisionism.md",
         "title": "MOC - Science Revisionism",
         "domain": "root",
@@ -11161,6 +11053,88 @@
         ],
         "words": 171,
         "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là phân biệt science như method với science như institution, rồi dám hỏi lại những giả định được biến thành giáo điều.**"
+      },
+      {
+        "path": "Cách Đọc Red Pill Wiki.md",
+        "title": "Cách Đọc Red Pill Wiki",
+        "domain": "root",
+        "tags": [
+          "epistemology",
+          "meta",
+          "navigation"
+        ],
+        "aliases": [],
+        "headings": [
+          "Cách Đọc Red Pill Wiki",
+          "1. Đừng Tin. Hãy Thấy.",
+          "2. Bốn Tầng Đọc",
+          "3. Fact Không Đủ. Nhưng Không Có Fact Thì Dễ Bay.",
+          "4. Ma Trận Là Interface, Không Chỉ Nhà Tù",
+          "5. Symbol Không Phải Trang Trí",
+          "6. Đừng Biến Red Pill Thành Tôn Giáo Mới",
+          "7. Cách Đọc Một Bài Bất Kỳ",
+          "8. Reading Paths",
+          "9. Synthesis"
+        ],
+        "wikilinks": [
+          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Elite",
+          "Gnosis",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Khoa Học Xét Lại",
+          "Kiểm Soát Tâm Trí",
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "Ma Trận",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Monad",
+          "Nghịch Lý Của Hiểu Biết",
+          "Sự Nhất Thể",
+          "UAP Disclosure - Controlled Revelation",
+          "Ung Thư - Metabolic Protocol",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "esoterica/Sự Nhất Thể.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Y Tế Tự Nhiên.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Vận Chín.md",
+          "health/Ketogenic Diet.md",
+          "index.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+          "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+        ],
+        "words": 1154,
+        "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
       },
       {
         "path": "MOC - Esoterica & Consciousness.md",
@@ -11548,7 +11522,6 @@
           "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
           "science-tech/Nikola Tesla.md",
           "science-tech/Năng Lượng Aether.md",
-          "science-tech/Pin Natri-ion.md",
           "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
           "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
           "science-tech/Tần Số Schumann.md",
@@ -11684,7 +11657,6 @@
           "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
           "science-tech/Khoa Học Xét Lại.md",
           "science-tech/Năng Lượng Aether.md",
-          "science-tech/Pin Natri-ion.md",
           "science-tech/Walter Russell.md"
         ],
         "words": 1010,
@@ -12183,74 +12155,6 @@
         "summary": "---"
       },
       {
-        "path": "science-tech/Walter Russell.md",
-        "title": "Walter Russell",
-        "domain": "science-tech",
-        "tags": [
-          "science-tech"
-        ],
-        "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
-        ],
-        "headings": [
-          "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Walter Russell (1871–1963)",
-          "Tiểu Sử Phi Thường",
-          "Renaissance Man",
-          "Cosmic Illumination (1921)",
-          "Core Teachings",
-          "1. The Universe is Light",
-          "2. Two-Way Universe",
-          "3. Wave Theory",
-          "4. Mind is Cause",
-          "Scientific Contributions",
-          "Periodic Table",
-          "Cosmology",
-          "Transmutation",
-          "Published Works",
-          "Why Marginalized?",
-          "Challenges to Mainstream",
-          "Similar to Tesla",
-          "Legacy",
-          "University of Science and Philosophy",
-          "Modern Interest",
-          "Quotes",
-          "Related"
-        ],
-        "wikilinks": [
-          "Cách Đọc Red Pill Wiki",
-          "Khoa Học Chân Chính và Thượng Đế",
-          "Khoa Học Xét Lại",
-          "MOC - Science Revisionism",
-          "Monad",
-          "Nikola Tesla",
-          "Năng Lượng Aether",
-          "Sự Nhất Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "MOC - Science Revisionism.md",
-          "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "backlinks": [
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Thuật Giả Kim Của Newton.md",
-          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-          "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "words": 547,
-        "summary": "---"
-      },
-      {
         "path": "science-tech/AI.md",
         "title": "AI",
         "domain": "science-tech",
@@ -12307,62 +12211,54 @@
         "summary": "**AI là máy khuếch đại intelligence không có thân, không có tim, không có karma trực tiếp; vì vậy nó phơi bày rất nhanh sự khác biệt giữa thông minh và trí tuệ.** Trong vault, AI vừa là công cụ, vừa là mirror, vừa là bài thi Atula của nhân loại."
       },
       {
-        "path": "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
-        "title": "Khoa Học Chân Chính và Thượng Đế",
+        "path": "science-tech/Walter Russell.md",
+        "title": "Walter Russell",
         "domain": "science-tech",
         "tags": [
-          "god",
-          "leibniz",
-          "science",
-          "science-tech",
-          "source-note",
-          "spirituality",
-          "tesla",
-          "walter-russell"
+          "science-tech"
         ],
-        "aliases": [],
+        "aliases": [
+          "Walter Russell (Hiền Triết Hiện Đại)"
+        ],
         "headings": [
+          "Walter Russell",
           "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Khoa Học Chân Chính và Thượng Đế",
-          "1. Gottfried Leibniz: Ông Tổ Máy Tính và Thuyết Monad",
-          "2. Walter Russell: Hiền Triết Của Ánh Sáng",
-          "3. Nikola Tesla: Người Tiếp Nhận Từ Vũ Trụ",
-          "Kết Luận",
-          "Liên kết hệ thống",
-          "Related"
+          "Vault Position / Vị Trí Trong Vault",
+          "Renaissance Man",
+          "Universe Of Motion",
+          "Mind Is Cause",
+          "Russell Và Tesla",
+          "Vì Sao Bị Gạt Ra Rìa?",
+          "Cách Đọc Russell Hôm Nay",
+          "Core Insight / Chốt Lại"
         ],
         "wikilinks": [
-          "Cách Đọc Red Pill Wiki",
-          "Gnosis",
           "Khoa Học Xét Lại",
           "MOC - Science Revisionism",
           "Monad",
           "Nikola Tesla",
-          "Sự Nhất Thể",
-          "Thánh Issa",
-          "Trí Tuệ",
-          "Walter Russell"
+          "Năng Lượng Aether",
+          "Sự Nhất Thể"
         ],
         "mdlinks": [],
         "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Gnosis.md",
           "esoterica/Monad.md",
           "esoterica/Sự Nhất Thể.md",
-          "esoterica/Thánh Issa.md",
-          "mental-models/Trí Tuệ.md",
           "MOC - Science Revisionism.md",
           "science-tech/Khoa Học Xét Lại.md",
           "science-tech/Nikola Tesla.md",
-          "science-tech/Walter Russell.md"
+          "science-tech/Năng Lượng Aether.md"
         ],
         "backlinks": [
+          "esoterica/Sacred Geometry.md",
           "esoterica/Thuật Giả Kim Của Newton.md",
-          "science-tech/Walter Russell.md"
+          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+          "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Năng Lượng Aether.md"
         ],
-        "words": 531,
-        "summary": "---"
+        "words": 800,
+        "summary": "**Walter Russell là archetype của nhà hiền triết-nghệ sĩ bước vào khoa học bằng trực giác vũ trụ: ánh sáng, chuyển động, nhịp, polarity và mind như nguyên nhân.** Đọc Russell đúng nghĩa là tách ba tầng: tiểu sử có thể kiểm, hệ thống triết học của ông, và các…"
       },
       {
         "path": "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -12418,6 +12314,63 @@
           "esoterica/Long Mạch.md"
         ],
         "words": 649,
+        "summary": "---"
+      },
+      {
+        "path": "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+        "title": "Khoa Học Chân Chính và Thượng Đế",
+        "domain": "science-tech",
+        "tags": [
+          "god",
+          "leibniz",
+          "science",
+          "science-tech",
+          "source-note",
+          "spirituality",
+          "tesla",
+          "walter-russell"
+        ],
+        "aliases": [],
+        "headings": [
+          "Evidence Discipline / Cách Đọc Claim",
+          "Source Register / Nguồn Nên Đối Chiếu",
+          "Khoa Học Chân Chính và Thượng Đế",
+          "1. Gottfried Leibniz: Ông Tổ Máy Tính và Thuyết Monad",
+          "2. Walter Russell: Hiền Triết Của Ánh Sáng",
+          "3. Nikola Tesla: Người Tiếp Nhận Từ Vũ Trụ",
+          "Kết Luận",
+          "Liên kết hệ thống",
+          "Related"
+        ],
+        "wikilinks": [
+          "Cách Đọc Red Pill Wiki",
+          "Gnosis",
+          "Khoa Học Xét Lại",
+          "MOC - Science Revisionism",
+          "Monad",
+          "Nikola Tesla",
+          "Sự Nhất Thể",
+          "Thánh Issa",
+          "Trí Tuệ",
+          "Walter Russell"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Thánh Issa.md",
+          "mental-models/Trí Tuệ.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Walter Russell.md"
+        ],
+        "backlinks": [
+          "esoterica/Thuật Giả Kim Của Newton.md"
+        ],
+        "words": 531,
         "summary": "---"
       },
       {
@@ -12535,48 +12488,35 @@
         ],
         "aliases": [],
         "headings": [
-          "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu",
           "Pin Natri-ion (Sodium-ion Battery)",
-          "So Sánh với Lithium-ion",
-          "Tại Sao Quan Trọng",
-          "1. Resource Independence",
-          "2. Environmental",
-          "3. Cost Revolution",
-          "Applications",
-          "Transportation",
-          "Grid Storage",
-          "Consumer Electronics",
-          "Companies Leading",
-          "Metaphysical Connection",
-          "Timeline",
-          "Related"
+          "Evidence Discipline / Cách Đọc Claim",
+          "Vault Position / Vị Trí Trong Vault",
+          "Sodium Vs Lithium",
+          "Tại Sao Quan Trọng?",
+          "Use Case Thực Tế",
+          "Biển, Muối Và Energy Symbolism",
+          "Bitcoin Và Lưu Trữ Năng Lượng",
+          "Core Insight / Chốt Lại"
         ],
         "wikilinks": [
           "Bitcoin",
-          "Cách Đọc Red Pill Wiki",
-          "Khoa Học Xét Lại",
           "MOC - Science Revisionism",
-          "Nikola Tesla",
           "René Quinton và Huyết Tương Biển",
           "Y Tế Tự Nhiên & Năng Lượng Mới"
         ],
         "mdlinks": [],
         "outlinks": [
           "crypto-finance/Bitcoin.md",
-          "Cách Đọc Red Pill Wiki.md",
           "health/René Quinton và Huyết Tương Biển.md",
           "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-          "MOC - Science Revisionism.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md"
+          "MOC - Science Revisionism.md"
         ],
         "backlinks": [
           "esoterica/Năng Lượng Natri.md",
           "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
         ],
-        "words": 464,
-        "summary": "---"
+        "words": 735,
+        "summary": "**Pin Natri-ion là lời nhắc rằng energy sovereignty không chỉ nằm ở \"công nghệ mới\", mà nằm ở chuỗi cung ứng, nguyên liệu, khả năng scale và quyền thoát khỏi monopoly tài nguyên.** Sodium không có mật độ năng lượng thần kỳ như lithium, nhưng nó có một ưu thế…"
       }
     ]
   },
@@ -13362,7 +13302,6 @@
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
         "science-tech/Nikola Tesla.md",
         "science-tech/Năng Lượng Aether.md",
-        "science-tech/Pin Natri-ion.md",
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
         "science-tech/Tần Số Schumann.md",
@@ -14159,90 +14098,6 @@
       "summary": "**Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**"
     },
     {
-      "path": "Cách Đọc Red Pill Wiki.md",
-      "title": "Cách Đọc Red Pill Wiki",
-      "domain": "root",
-      "tags": [
-        "epistemology",
-        "meta",
-        "navigation"
-      ],
-      "aliases": [],
-      "headings": [
-        "Cách Đọc Red Pill Wiki",
-        "1. Đừng Tin. Hãy Thấy.",
-        "2. Bốn Tầng Đọc",
-        "3. Fact Không Đủ. Nhưng Không Có Fact Thì Dễ Bay.",
-        "4. Ma Trận Là Interface, Không Chỉ Nhà Tù",
-        "5. Symbol Không Phải Trang Trí",
-        "6. Đừng Biến Red Pill Thành Tôn Giáo Mới",
-        "7. Cách Đọc Một Bài Bất Kỳ",
-        "8. Reading Paths",
-        "9. Synthesis"
-      ],
-      "wikilinks": [
-        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-        "Elite",
-        "Gnosis",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "Khoa Học Xét Lại",
-        "Kiểm Soát Tâm Trí",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "Monad",
-        "Nghịch Lý Của Hiểu Biết",
-        "Sự Nhất Thể",
-        "UAP Disclosure - Controlled Revelation",
-        "Ung Thư - Metabolic Protocol",
-        "Y Tế Tự Nhiên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Gnosis.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Sự Nhất Thể.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Y Tế Tự Nhiên.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "backlinks": [
-        "esoterica/Ma Trận.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/Vận Chín.md",
-        "health/Ketogenic Diet.md",
-        "index.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Pin Natri-ion.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-        "science-tech/Walter Russell.md"
-      ],
-      "words": 1154,
-      "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
-    },
-    {
       "path": "esoterica/Monad.md",
       "title": "Monad (Đơn Thể Tối Cao)",
       "domain": "esoterica",
@@ -14503,95 +14358,86 @@
       "summary": "**Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh — ta/người, sáng/tối, tinh thần/vật chất, thắng/thua — có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qu…"
     },
     {
-      "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-      "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-      "domain": "health",
+      "path": "Cách Đọc Red Pill Wiki.md",
+      "title": "Cách Đọc Red Pill Wiki",
+      "domain": "root",
       "tags": [
-        "health"
+        "epistemology",
+        "meta",
+        "navigation"
       ],
-      "aliases": [
-        "Seeing Through Western Medicine",
-        "They Live Medicine"
-      ],
+      "aliases": [],
       "headings": [
-        "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-        "How To Read This / Cách Đọc Bài Này",
-        "Vòng Lặp Lệ Thuộc / The Dependency Loop",
-        "1. Ghép Tạng — Ngành Công Nghiệp Tội Ác",
-        "Sự Thật Đen Tối / Dark Truths",
-        "Tỷ Lệ Sống / Survival Rates",
-        "Cuộc Sống Sau Ghép / Life After Transplant",
-        "2. Ung Thư — Điều Trị Hay Giết Người?",
-        "Khi Nào Khối U Nguy Hiểm? / When Is a Tumor Dangerous?",
-        "Điều Trị = Di Căn / Treatment = Metastasis",
-        "3. Tiểu Đường — Lừa Dối Về Đường",
-        "Vòng Lặp Thuốc / The Drug Loop",
-        "Bản Chất Thực Sự / The Real Nature",
-        "Tội Ác Của Việc Kiêng Đường / The Crime of Sugar Restriction",
-        "4. Các Bệnh Khác — Cùng Pattern",
-        "Viêm Gan B / Hepatitis B",
-        "Táo Bón / Constipation",
-        "Suy Thận / Kidney Failure",
-        "Mất Ngủ / Insomnia",
-        "Cao Huyết Áp / Hypertension",
-        "Mỡ Máu / High Cholesterol",
-        "Kết Luận / Conclusion",
-        "Thay Thế / Alternative",
-        "Related",
-        "Source Register / Nguồn Cần Đối Chiếu"
+        "Cách Đọc Red Pill Wiki",
+        "1. Đừng Tin. Hãy Thấy.",
+        "2. Bốn Tầng Đọc",
+        "3. Fact Không Đủ. Nhưng Không Có Fact Thì Dễ Bay.",
+        "4. Ma Trận Là Interface, Không Chỉ Nhà Tù",
+        "5. Symbol Không Phải Trang Trí",
+        "6. Đừng Biến Red Pill Thành Tôn Giáo Mới",
+        "7. Cách Đọc Một Bài Bất Kỳ",
+        "8. Reading Paths",
+        "9. Synthesis"
       ],
       "wikilinks": [
-        "Công Thức Chữa Lành Tự Nhiên",
-        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
         "Elite",
+        "Gnosis",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Khoa Học Xét Lại",
+        "Kiểm Soát Tâm Trí",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
         "Ma Trận",
-        "MOC - Health Sovereignty",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Monad",
+        "Nghịch Lý Của Hiểu Biết",
+        "Sự Nhất Thể",
+        "UAP Disclosure - Controlled Revelation",
         "Ung Thư - Metabolic Protocol",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
+        "esoterica/Monad.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Sự Nhất Thể.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Ung Thư - Metabolic Protocol.md",
         "health/Y Tế Tự Nhiên.md",
-        "MOC - Health Sovereignty.md",
-        "politics-conspiracy/Elite.md"
-      ],
-      "backlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Ma Trận.md",
-        "health/Bệnh Bạch Cầu.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/Ketogenic Diet.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Suy Thận.md",
-        "health/The China Study.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Virus và Kiếp Tật Dịch.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "health/Y Tế Tự Nhiên.md",
-        "index.md",
-        "MOC - Health Sovereignty.md",
-        "MOC - Science Revisionism.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 1852,
-      "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
+      "backlinks": [
+        "esoterica/Ma Trận.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Vận Chín.md",
+        "health/Ketogenic Diet.md",
+        "index.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+      ],
+      "words": 1154,
+      "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
     },
     {
       "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -14685,6 +14531,96 @@
       ],
       "words": 662,
       "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
+    },
+    {
+      "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+      "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+      "domain": "health",
+      "tags": [
+        "health"
+      ],
+      "aliases": [
+        "Seeing Through Western Medicine",
+        "They Live Medicine"
+      ],
+      "headings": [
+        "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+        "How To Read This / Cách Đọc Bài Này",
+        "Vòng Lặp Lệ Thuộc / The Dependency Loop",
+        "1. Ghép Tạng — Ngành Công Nghiệp Tội Ác",
+        "Sự Thật Đen Tối / Dark Truths",
+        "Tỷ Lệ Sống / Survival Rates",
+        "Cuộc Sống Sau Ghép / Life After Transplant",
+        "2. Ung Thư — Điều Trị Hay Giết Người?",
+        "Khi Nào Khối U Nguy Hiểm? / When Is a Tumor Dangerous?",
+        "Điều Trị = Di Căn / Treatment = Metastasis",
+        "3. Tiểu Đường — Lừa Dối Về Đường",
+        "Vòng Lặp Thuốc / The Drug Loop",
+        "Bản Chất Thực Sự / The Real Nature",
+        "Tội Ác Của Việc Kiêng Đường / The Crime of Sugar Restriction",
+        "4. Các Bệnh Khác — Cùng Pattern",
+        "Viêm Gan B / Hepatitis B",
+        "Táo Bón / Constipation",
+        "Suy Thận / Kidney Failure",
+        "Mất Ngủ / Insomnia",
+        "Cao Huyết Áp / Hypertension",
+        "Mỡ Máu / High Cholesterol",
+        "Kết Luận / Conclusion",
+        "Thay Thế / Alternative",
+        "Related",
+        "Source Register / Nguồn Cần Đối Chiếu"
+      ],
+      "wikilinks": [
+        "Công Thức Chữa Lành Tự Nhiên",
+        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+        "Elite",
+        "Ma Trận",
+        "MOC - Health Sovereignty",
+        "Thuyết Vi Sinh Nội Sinh",
+        "Thuốc Hóa Dầu",
+        "Ung Thư - Metabolic Protocol",
+        "Y Tế Tự Nhiên"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Ma Trận.md",
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Ung Thư - Metabolic Protocol.md",
+        "health/Y Tế Tự Nhiên.md",
+        "MOC - Health Sovereignty.md",
+        "politics-conspiracy/Elite.md"
+      ],
+      "backlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Ma Trận.md",
+        "health/Bệnh Bạch Cầu.md",
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+        "health/Ketogenic Diet.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Su That Ve Benh Dai Va Vac Xin.md",
+        "health/Suy Thận.md",
+        "health/The China Study.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+        "health/Ung Thư - Metabolic Protocol.md",
+        "health/Virus và Kiếp Tật Dịch.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "health/Y Tế Tự Nhiên.md",
+        "index.md",
+        "MOC - Health Sovereignty.md",
+        "MOC - Science Revisionism.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "words": 1852,
+      "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
     },
     {
       "path": "mental-models/Nhị Nguyên.md",
@@ -14991,85 +14927,6 @@
       "summary": "**Tartaria** là tên gọi một đế chế rộng lớn xuất hiện trên bản đồ cổ châu Âu (thế kỷ 15-19), bao phủ phần lớn Á-Âu. Theo Khoa học xét lại, đây có thể là nền văn minh tiên tiến với công nghệ vượt thời đại đã bị xóa sổ khỏi lịch sử."
     },
     {
-      "path": "health/Tuyến Tùng.md",
-      "title": "Tuyến Tùng",
-      "domain": "health",
-      "tags": [
-        "consciousness",
-        "esoterica",
-        "health"
-      ],
-      "aliases": [
-        "Con Mắt Thứ Ba",
-        "Pineal Gland",
-        "Third Eye"
-      ],
-      "headings": [
-        "Tuyến Tùng (Pineal Gland / Third Eye)",
-        "Medical Caution / Cẩn Trọng",
-        "Vault Position / Vị Trí Trong Vault",
-        "1. Sinh Lý Học Cơ Bản",
-        "2. Third Eye Trong Truyền Thống",
-        "3. Calcification / Vôi Hóa",
-        "4. Ma Trận Và Ánh Sáng Giả",
-        "5. Detox Và Activation: Đọc Sao Cho Đúng?",
-        "6. Pineal, Dream Và Gnosis",
-        "Practical Protocol",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "Gnosis",
-        "Ma Trận",
-        "MOC - Esoterica & Consciousness",
-        "MOC - Health Sovereignty",
-        "Suramin",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Tâm Lý Học Jung",
-        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-        "Tần Số Schumann",
-        "Vô Thức Tập Thể"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Gnosis.md",
-        "esoterica/Ma Trận.md",
-        "health/Suramin.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "MOC - Esoterica & Consciousness.md",
-        "MOC - Health Sovereignty.md",
-        "science-tech/Tần Số Schumann.md"
-      ],
-      "backlinks": [
-        "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-        "esoterica/Chakra.md",
-        "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-        "esoterica/Kundalini.md",
-        "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-        "esoterica/Năng Lượng Tình Dục.md",
-        "esoterica/Tinh Khí Thần.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
-        "health/Suramin.md",
-        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "index.md",
-        "MOC - Health Sovereignty.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "science-tech/Tần Số Schumann.md"
-      ],
-      "words": 984,
-      "summary": "**Tuyến Tùng là một cơ quan nhỏ ở trung tâm não, nổi tiếng với vai trò điều hòa melatonin và nhịp ngày-đêm. Nhưng trong truyền thống esoteric, nó còn được đọc như “con mắt thứ ba”: interface giữa sinh lý học, ánh sáng, giấc ngủ, trực giác và khả năng biết trự…"
-    },
-    {
       "path": "MOC - Esoterica & Consciousness.md",
       "title": "MOC - Esoterica & Consciousness",
       "domain": "root",
@@ -15231,6 +15088,84 @@
       ],
       "words": 517,
       "summary": "**Tâm lý học phân tích** (Analytical Psychology) do Carl Gustav Jung sáng lập — nền tảng quan trọng giải mã tâm trí con người, mở rộng ra thế giới tâm linh."
+    },
+    {
+      "path": "health/Tuyến Tùng.md",
+      "title": "Tuyến Tùng",
+      "domain": "health",
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "health"
+      ],
+      "aliases": [
+        "Con Mắt Thứ Ba",
+        "Pineal Gland",
+        "Third Eye"
+      ],
+      "headings": [
+        "Tuyến Tùng (Pineal Gland / Third Eye)",
+        "Medical Caution / Cẩn Trọng",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Sinh Lý Học Cơ Bản",
+        "2. Third Eye Trong Truyền Thống",
+        "3. Calcification / Vôi Hóa",
+        "4. Ma Trận Và Ánh Sáng Giả",
+        "5. Detox Và Activation: Đọc Sao Cho Đúng?",
+        "6. Pineal, Dream Và Gnosis",
+        "Practical Protocol",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "Gnosis",
+        "Ma Trận",
+        "MOC - Esoterica & Consciousness",
+        "MOC - Health Sovereignty",
+        "Suramin",
+        "Thuyết Vi Sinh Nội Sinh",
+        "Tâm Lý Học Jung",
+        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+        "Tần Số Schumann",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Ma Trận.md",
+        "health/Suramin.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "MOC - Esoterica & Consciousness.md",
+        "MOC - Health Sovereignty.md",
+        "science-tech/Tần Số Schumann.md"
+      ],
+      "backlinks": [
+        "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+        "esoterica/Chakra.md",
+        "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+        "esoterica/Kundalini.md",
+        "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Năng Lượng Tình Dục.md",
+        "esoterica/Tinh Khí Thần.md",
+        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
+        "health/Suramin.md",
+        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "index.md",
+        "MOC - Health Sovereignty.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "science-tech/Tần Số Schumann.md"
+      ],
+      "words": 984,
+      "summary": "**Tuyến Tùng là một cơ quan nhỏ ở trung tâm não, nổi tiếng với vai trò điều hòa melatonin và nhịp ngày-đêm. Nhưng trong truyền thống esoteric, nó còn được đọc như “con mắt thứ ba”: interface giữa sinh lý học, ánh sáng, giấc ngủ, trực giác và khả năng biết trự…"
     }
   ],
   "orphans": [
@@ -16230,11 +16165,9 @@
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
         "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Pin Natri-ion.md",
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-        "science-tech/Walter Russell.md"
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
       "words": 1154,
       "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
@@ -22392,51 +22325,30 @@
       ],
       "aliases": [],
       "headings": [
-        "How To Read This / Cách Đọc Bài Này",
-        "Source Register / Nguồn Nên Đối Chiếu",
         "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+        "Medical Caution / Cảnh Báo Y Khoa",
+        "Vault Position / Vị Trí Trong Vault",
+        "Evidence Discipline / Kỷ Luật Bằng Chứng",
         "Gut-Brain Axis",
-        "Enteric Nervous System (ENS)",
-        "Vagus Nerve Highway",
-        "Neurotransmitter Production",
-        "Microbiome = Inner Universe",
-        "Stats",
-        "Functions",
-        "Khi Gut Bị Phá Hoại",
-        "Nguyên nhân",
-        "Hậu quả",
-        "Ma Trận & Food System",
-        "Deliberate Destruction?",
-        "Why?",
-        "Phục Hồi Gut Health",
-        "Remove",
-        "Replace",
-        "Reinoculate",
-        "Repair",
-        "Spiritual Implications",
-        "Intuition",
-        "Vibration",
-        "Related"
+        "Microbiome Là Nội Vũ Trụ",
+        "Food System Và Ma Trận",
+        "Phục Hồi Ruột: Nền Trước Mẹo",
+        "Gut Feeling Và Trực Giác",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
         "Ma Trận",
         "MOC - Health Sovereignty",
         "Plasma Quinton",
         "Thuyết Vi Sinh Nội Sinh",
         "Trí Tuệ",
-        "Tuyến Tùng",
-        "Vận Chín, Người Kogi và Ma Trận Y Tế",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/Ma Trận.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Plasma Quinton.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Tuyến Tùng.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "health/Y Tế Tự Nhiên.md",
         "mental-models/Trí Tuệ.md",
         "MOC - Health Sovereignty.md"
@@ -22447,8 +22359,8 @@
         "mental-models/Tâm Lý Học Jung.md",
         "MOC - Health Sovereignty.md"
       ],
-      "words": 558,
-      "summary": "---"
+      "words": 848,
+      "summary": "**Ruột không chỉ là ống tiêu hóa. Nó là interface giữa thức ăn, miễn dịch, microbiome, thần kinh phế vị, hormone, cảm xúc và clarity của tâm trí.** Gọi ruột là \"bộ não thứ hai\" không phải thơ; đó là cách nhắc rằng consciousness embodied trong một cơ thể có vi…"
     },
     "health/Ketogenic Diet.md": {
       "path": "health/Ketogenic Diet.md",
@@ -22577,7 +22489,6 @@
         "health/Bệnh Bạch Cầu.md",
         "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
         "health/Ketogenic Diet.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
@@ -23350,7 +23261,6 @@
         "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
         "esoterica/Năng Lượng Tình Dục.md",
         "esoterica/Tinh Khí Thần.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
         "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
         "health/Suramin.md",
         "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
@@ -23631,7 +23541,6 @@
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
         "health/Bệnh Bạch Cầu.md",
         "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
         "health/Su That Ve Benh Dai Va Vac Xin.md",
         "health/Suy Thận.md",
         "MOC - Health Sovereignty.md"
@@ -27988,8 +27897,7 @@
         "science-tech/Walter Russell.md"
       ],
       "backlinks": [
-        "esoterica/Thuật Giả Kim Của Newton.md",
-        "science-tech/Walter Russell.md"
+        "esoterica/Thuật Giả Kim Của Newton.md"
       ],
       "words": 531,
       "summary": "---"
@@ -28138,7 +28046,6 @@
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
         "science-tech/Nikola Tesla.md",
         "science-tech/Năng Lượng Aether.md",
-        "science-tech/Pin Natri-ion.md",
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
         "science-tech/Tần Số Schumann.md",
@@ -28208,7 +28115,6 @@
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Năng Lượng Aether.md",
-        "science-tech/Pin Natri-ion.md",
         "science-tech/Walter Russell.md"
       ],
       "words": 1010,
@@ -28289,48 +28195,35 @@
       ],
       "aliases": [],
       "headings": [
-        "Evidence Discipline / Cách Đọc Claim",
-        "Source Register / Nguồn Nên Đối Chiếu",
         "Pin Natri-ion (Sodium-ion Battery)",
-        "So Sánh với Lithium-ion",
-        "Tại Sao Quan Trọng",
-        "1. Resource Independence",
-        "2. Environmental",
-        "3. Cost Revolution",
-        "Applications",
-        "Transportation",
-        "Grid Storage",
-        "Consumer Electronics",
-        "Companies Leading",
-        "Metaphysical Connection",
-        "Timeline",
-        "Related"
+        "Evidence Discipline / Cách Đọc Claim",
+        "Vault Position / Vị Trí Trong Vault",
+        "Sodium Vs Lithium",
+        "Tại Sao Quan Trọng?",
+        "Use Case Thực Tế",
+        "Biển, Muối Và Energy Symbolism",
+        "Bitcoin Và Lưu Trữ Năng Lượng",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
         "Bitcoin",
-        "Cách Đọc Red Pill Wiki",
-        "Khoa Học Xét Lại",
         "MOC - Science Revisionism",
-        "Nikola Tesla",
         "René Quinton và Huyết Tương Biển",
         "Y Tế Tự Nhiên & Năng Lượng Mới"
       ],
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Bitcoin.md",
-        "Cách Đọc Red Pill Wiki.md",
         "health/René Quinton và Huyết Tương Biển.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "MOC - Science Revisionism.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md"
+        "MOC - Science Revisionism.md"
       ],
       "backlinks": [
         "esoterica/Năng Lượng Natri.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
       ],
-      "words": 464,
-      "summary": "---"
+      "words": 735,
+      "summary": "**Pin Natri-ion là lời nhắc rằng energy sovereignty không chỉ nằm ở \"công nghệ mới\", mà nằm ở chuỗi cung ứng, nguyên liệu, khả năng scale và quyền thoát khỏi monopoly tài nguyên.** Sodium không có mật độ năng lượng thần kỳ như lithium, nhưng nó có một ưu thế…"
     },
     "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md": {
       "path": "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
@@ -28647,34 +28540,18 @@
         "Walter Russell (Hiền Triết Hiện Đại)"
       ],
       "headings": [
+        "Walter Russell",
         "Evidence Discipline / Cách Đọc Claim",
-        "Source Register / Nguồn Nên Đối Chiếu",
-        "Walter Russell (1871–1963)",
-        "Tiểu Sử Phi Thường",
+        "Vault Position / Vị Trí Trong Vault",
         "Renaissance Man",
-        "Cosmic Illumination (1921)",
-        "Core Teachings",
-        "1. The Universe is Light",
-        "2. Two-Way Universe",
-        "3. Wave Theory",
-        "4. Mind is Cause",
-        "Scientific Contributions",
-        "Periodic Table",
-        "Cosmology",
-        "Transmutation",
-        "Published Works",
-        "Why Marginalized?",
-        "Challenges to Mainstream",
-        "Similar to Tesla",
-        "Legacy",
-        "University of Science and Philosophy",
-        "Modern Interest",
-        "Quotes",
-        "Related"
+        "Universe Of Motion",
+        "Mind Is Cause",
+        "Russell Và Tesla",
+        "Vì Sao Bị Gạt Ra Rìa?",
+        "Cách Đọc Russell Hôm Nay",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
-        "Cách Đọc Red Pill Wiki",
-        "Khoa Học Chân Chính và Thượng Đế",
         "Khoa Học Xét Lại",
         "MOC - Science Revisionism",
         "Monad",
@@ -28684,11 +28561,9 @@
       ],
       "mdlinks": [],
       "outlinks": [
-        "Cách Đọc Red Pill Wiki.md",
         "esoterica/Monad.md",
         "esoterica/Sự Nhất Thể.md",
         "MOC - Science Revisionism.md",
-        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Nikola Tesla.md",
         "science-tech/Năng Lượng Aether.md"
@@ -28701,8 +28576,8 @@
         "science-tech/Nikola Tesla.md",
         "science-tech/Năng Lượng Aether.md"
       ],
-      "words": 547,
-      "summary": "---"
+      "words": 800,
+      "summary": "**Walter Russell là archetype của nhà hiền triết-nghệ sĩ bước vào khoa học bằng trực giác vũ trụ: ánh sáng, chuyển động, nhịp, polarity và mind như nguyên nhân.** Đọc Russell đúng nghĩa là tách ba tầng: tiểu sử có thể kiểm, hệ thống triết học của ông, và các…"
     }
   }
 }
