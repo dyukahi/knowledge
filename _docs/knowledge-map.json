@@ -10,8 +10,8 @@
       "politics-conspiracy": 23,
       "science-tech": 16
     },
-    "tags": 177,
-    "wikilinkEdges": 1654,
+    "tags": 176,
+    "wikilinkEdges": 1653,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -800,7 +800,6 @@
           "politics-conspiracy/Mudflood.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
           "politics-conspiracy/Sự thật về ma túy.md",
-          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
           "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
           "politics-conspiracy/Trái Đất Phẳng.md",
           "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
@@ -9133,7 +9132,6 @@
           "politics-conspiracy/Mudflood.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
           "politics-conspiracy/Sự thật về ma túy.md",
-          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
           "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
           "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
           "politics-conspiracy/Trái Đất Phẳng.md",
@@ -10135,56 +10133,6 @@
         "summary": "**MindGeek** (đổi tên thành Aylo năm 2023) là tập đoàn công nghệ kiểm soát phần lớn ngành công nghiệp phim khiêu dâm toàn cầu. Một trong những công ty có ảnh hưởng lớn nhất nhưng ít được biết đến."
       },
       {
-        "path": "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-        "title": "Sự Thật Về Vụ Sập Tháp Đôi WTC",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "911",
-          "DEW",
-          "khoa-hoc-xet-lai",
-          "politics-conspiracy",
-          "WTC"
-        ],
-        "aliases": [],
-        "headings": [
-          "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Sự Thật Về Vụ Sập Tháp Đôi WTC",
-          "Tóm Tắt Các Luận Điểm Phi Logic Trong Sự Kiện 9/11",
-          "Mâu Thuẫn Về Lực Tác Động Và Độ Dày Thép",
-          "Bất Thường Về Cách Tòa Nhà Sụp Đổ",
-          "Dấu Hiệu Của Nhiệt Siêu Cấp Và Tự Bốc Cháy",
-          "Giả Thuyết Vũ Khí Năng Lượng & Phản Ứng Hạt Nhân",
-          "Liên Kết Bổ Sung",
-          "Related"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Elite",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "MOC - Epistemology & Propaganda",
-          "Vũ Khí Năng Lượng Định Hướng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-        ],
-        "backlinks": [
-          "esoterica/Gematria.md",
-          "index.md",
-          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-        ],
-        "words": 722,
-        "summary": "---"
-      },
-      {
         "path": "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
         "title": "Bão Từ Bắc Cực vs Bão Mặt Trời",
         "domain": "politics-conspiracy",
@@ -10294,6 +10242,58 @@
         ],
         "words": 768,
         "summary": "**MAGA là khẩu hiệu chính trị trước khi là biểu tượng huyền học. Nhưng trong vault, khẩu hiệu không chỉ được đọc ở tầng policy; nó còn được đọc như sigil đại chúng: một cụm chữ ngắn, lặp lại, dễ hô, dễ mặc, dễ biến thành identity.** Số 42, gematria và các lớp…"
+      },
+      {
+        "path": "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+        "title": "Sự Thật Về Vụ Sập Tháp Đôi WTC",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "911",
+          "false-flag",
+          "politics-conspiracy",
+          "wtc"
+        ],
+        "aliases": [
+          "9/11 WTC",
+          "World Trade Center Collapse",
+          "WTC Controlled Demolition",
+          "WTC DEW"
+        ],
+        "headings": [
+          "Sự Thật Về Vụ Sập Tháp Đôi WTC",
+          "Evidence Discipline / Cách Đọc Claim",
+          "Vault Position / Vị Trí Trong Vault",
+          "Vì Sao 9/11 Là Hub Của Ma Trận Chính Trị",
+          "Collapse Questions / Các Câu Hỏi Về Sụp Đổ",
+          "Thermitic Material, Explosives, DEW, Nuclear: Tách Cơ Chế",
+          "Dấu Hiệu Nhiệt Và Vật Liệu",
+          "Psychological Operation Layer",
+          "What A Mature Investigation Does",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Elite",
+          "Khoa Học Xét Lại",
+          "MOC - Epistemology & Propaganda",
+          "Vũ Khí Năng Lượng Định Hướng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Elite.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+        ],
+        "backlinks": [
+          "esoterica/Gematria.md",
+          "index.md",
+          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+        ],
+        "words": 854,
+        "summary": "**9/11 là một node mà redpill phải đọc bằng hai tay: một tay giữ nghi ngờ chính đáng trước official story, tay kia giữ kỷ luật bằng chứng trước các giả thuyết thay thế.** Nếu chỉ tin nhà nước, người đọc bỏ qua incentive chiến tranh và surveillance. Nếu tin mọ…"
       },
       {
         "path": "politics-conspiracy/Trái Đất Phẳng.md",
@@ -11475,6 +11475,7 @@
           "politics-conspiracy/Mudflood.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
           "politics-conspiracy/Operation Paperclip.md",
+          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
           "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
           "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
           "science-tech/AI.md",
@@ -12652,7 +12653,6 @@
         "politics-conspiracy/Mudflood.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/Trái Đất Phẳng.md",
         "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
@@ -13233,6 +13233,7 @@
         "politics-conspiracy/Mudflood.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Operation Paperclip.md",
+        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "science-tech/AI.md",
@@ -13486,7 +13487,6 @@
         "politics-conspiracy/Mudflood.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/Trái Đất Phẳng.md",
@@ -19722,7 +19722,6 @@
         "politics-conspiracy/Mudflood.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/Trái Đất Phẳng.md",
         "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
@@ -26741,7 +26740,6 @@
         "politics-conspiracy/Mudflood.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/Trái Đất Phẳng.md",
@@ -27148,39 +27146,41 @@
       "domain": "politics-conspiracy",
       "tags": [
         "911",
-        "DEW",
-        "khoa-hoc-xet-lai",
+        "false-flag",
         "politics-conspiracy",
-        "WTC"
+        "wtc"
       ],
-      "aliases": [],
+      "aliases": [
+        "9/11 WTC",
+        "World Trade Center Collapse",
+        "WTC Controlled Demolition",
+        "WTC DEW"
+      ],
       "headings": [
-        "Evidence Discipline / Cách Đọc Claim",
-        "Source Register / Nguồn Nên Đối Chiếu",
         "Sự Thật Về Vụ Sập Tháp Đôi WTC",
-        "Tóm Tắt Các Luận Điểm Phi Logic Trong Sự Kiện 9/11",
-        "Mâu Thuẫn Về Lực Tác Động Và Độ Dày Thép",
-        "Bất Thường Về Cách Tòa Nhà Sụp Đổ",
-        "Dấu Hiệu Của Nhiệt Siêu Cấp Và Tự Bốc Cháy",
-        "Giả Thuyết Vũ Khí Năng Lượng & Phản Ứng Hạt Nhân",
-        "Liên Kết Bổ Sung",
-        "Related"
+        "Evidence Discipline / Cách Đọc Claim",
+        "Vault Position / Vị Trí Trong Vault",
+        "Vì Sao 9/11 Là Hub Của Ma Trận Chính Trị",
+        "Collapse Questions / Các Câu Hỏi Về Sụp Đổ",
+        "Thermitic Material, Explosives, DEW, Nuclear: Tách Cơ Chế",
+        "Dấu Hiệu Nhiệt Và Vật Liệu",
+        "Psychological Operation Layer",
+        "What A Mature Investigation Does",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
         "Báo Cáo 2030",
         "Elite",
-        "Kiểm Soát Tâm Trí",
-        "Ma Trận",
+        "Khoa Học Xét Lại",
         "MOC - Epistemology & Propaganda",
         "Vũ Khí Năng Lượng Định Hướng"
       ],
       "mdlinks": [],
       "outlinks": [
-        "esoterica/Ma Trận.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
       "backlinks": [
@@ -27189,8 +27189,8 @@
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
-      "words": 722,
-      "summary": "---"
+      "words": 854,
+      "summary": "**9/11 là một node mà redpill phải đọc bằng hai tay: một tay giữ nghi ngờ chính đáng trước official story, tay kia giữ kỷ luật bằng chứng trước các giả thuyết thay thế.** Nếu chỉ tin nhà nước, người đọc bỏ qua incentive chiến tranh và surveillance. Nếu tin mọ…"
     },
     "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md": {
       "path": "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
@@ -28192,6 +28192,7 @@
         "politics-conspiracy/Mudflood.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Operation Paperclip.md",
+        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "science-tech/AI.md",
