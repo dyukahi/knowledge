@@ -10,8 +10,8 @@
       "politics-conspiracy": 23,
       "science-tech": 16
     },
-    "tags": 180,
-    "wikilinkEdges": 1656,
+    "tags": 179,
+    "wikilinkEdges": 1658,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -3855,7 +3855,7 @@
           "esoterica/Gnosis.md",
           "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
           "esoterica/Ma Trận.md",
-          "health/Plasma Quinton.md",
+          "health/René Quinton và Huyết Tương Biển.md",
           "health/Suramin.md"
         ],
         "backlinks": [
@@ -4252,58 +4252,6 @@
         "summary": "**Quy Luật Trao Đổi Tâm Linh** là cơ chế đánh đổi năng lượng khi con người tương tác với các thế lực siêu nhiên — đặc biệt khi cầu xin từ bên ngoài thay vì phát triển từ bên trong."
       },
       {
-        "path": "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-        "title": "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "gnosis",
-          "healing",
-          "jesus",
-          "occult",
-          "salt",
-          "source-note",
-          "spirituality"
-        ],
-        "aliases": [],
-        "headings": [
-          "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
-          "1. Nguồn Gốc Tà Linh & Sự Chi phối Năng Lượng",
-          "2. Giải Mã Gnosis: Sự Thật Bị Che Giấu Về Tôn Giáo",
-          "3. Khoa Học Chân Chính vs. Ma Trận Dối Trá",
-          "4. Chữa Lành Bằng Muối & Chanh",
-          "Liên kết hệ thống",
-          "Related"
-        ],
-        "wikilinks": [
-          "AI",
-          "Khế Ước Bí Mật Rockefeller",
-          "Ma Trận",
-          "Monad",
-          "Sự Nhất Thể",
-          "Walter Russell",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "health/Y Tế Tự Nhiên.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-          "science-tech/AI.md",
-          "science-tech/Walter Russell.md"
-        ],
-        "backlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Thánh Issa.md",
-          "health/René Quinton và Huyết Tương Biển.md"
-        ],
-        "words": 574,
-        "summary": "Bài viết này là một kho tàng tri thức đa chiều, kết nối từ nguồn gốc của các thế lực vô hình (Tà linh), bí sử về Chúa Giêsu, giáo lý Ngộ đạo (Gnosis) cho đến cơ chế chữa lành sinh học bằng muối."
-      },
-      {
         "path": "esoterica/Tình Yêu Tỉnh Thức.md",
         "title": "Tình Yêu Tỉnh Thức",
         "domain": "esoterica",
@@ -4544,61 +4492,6 @@
         "summary": "**Cabal là cách gọi tầng quyền lực ngầm vận hành phía sau quyền lực hiển hiện. Nhưng trong vault, Cabal không nên đọc như cartoon “một nhóm người mặc áo choàng trong phòng tối”. Nó là một model về coordination: tiền, tình báo, media, ritual, policy và myth cù…"
       },
       {
-        "path": "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-        "title": "Kỹ Thuật Thiền Định Kogi",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [],
-        "headings": [
-          "Kỹ Thuật Thiền Định Kogi",
-          "Người Kogi Là Ai? / Who Are the Kogi?",
-          "Background / Bối cảnh",
-          "Message to World / Thông điệp đến Thế giới",
-          "Phương Pháp 9 Năm Trong Bóng Tối / The 9-Year Darkness Method",
-          "Lựa chọn / Selection",
-          "Training (0-9 tuổi) / Đào tạo (0-9 years)",
-          "Environment / Môi trường",
-          "Result / Kết quả",
-          "Aluna - The Spirit World / Aluna - Cõi Tinh Thần",
-          "Definition / Định nghĩa",
-          "Mama's Role / Vai trò của Mama",
-          "Why Darkness? / Tại Sao Bóng Tối?",
-          "Pineal Gland Activation / Kích hoạt Tuyến Tùng",
-          "Modern Parallel: Darkness Retreats / Tương đương Hiện đại: Nhập thất Bóng tối",
-          "Practical Applications / Ứng Dụng Thực Tế",
-          "We Can't Do 9 Years, But: / Chúng ta không thể làm 9 năm, nhưng:",
-          "Kogi Wisdom on Earth / Trí Tuệ Kogi về Trái Đất",
-          "Related"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Lemuria",
-          "Long Mạch",
-          "Trí Tuệ",
-          "Tuyến Tùng",
-          "Vận Chín, Người Kogi và Ma Trận Y Tế"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Lemuria.md",
-          "esoterica/Long Mạch.md",
-          "health/Tuyến Tùng.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "mental-models/Trí Tuệ.md"
-        ],
-        "backlinks": [
-          "esoterica/Chakra.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md"
-        ],
-        "words": 902,
-        "summary": "*Kogi Meditation Technique*"
-      },
-      {
         "path": "esoterica/Phong Thủy.md",
         "title": "Phong Thủy",
         "domain": "esoterica",
@@ -4651,6 +4544,57 @@
         ],
         "words": 1033,
         "summary": "**Phong Thủy không phải mẹo đặt cây, treo gương, chọn màu để “hên”. Nó là một hệ đọc không gian: địa hình, hướng, dòng khí, nhịp thời gian và tâm lý cư trú cùng tạo ra một trường ảnh hưởng lên con người.**"
+      },
+      {
+        "path": "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "title": "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "gnosis",
+          "healing",
+          "jesus",
+          "occult",
+          "salt",
+          "source-note",
+          "spirituality"
+        ],
+        "aliases": [],
+        "headings": [
+          "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
+          "1. Nguồn Gốc Tà Linh & Sự Chi phối Năng Lượng",
+          "2. Giải Mã Gnosis: Sự Thật Bị Che Giấu Về Tôn Giáo",
+          "3. Khoa Học Chân Chính vs. Ma Trận Dối Trá",
+          "4. Chữa Lành Bằng Muối & Chanh",
+          "Liên kết hệ thống",
+          "Related"
+        ],
+        "wikilinks": [
+          "AI",
+          "Khế Ước Bí Mật Rockefeller",
+          "Ma Trận",
+          "Monad",
+          "Sự Nhất Thể",
+          "Walter Russell",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "health/Y Tế Tự Nhiên.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+          "science-tech/AI.md",
+          "science-tech/Walter Russell.md"
+        ],
+        "backlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Thánh Issa.md"
+        ],
+        "words": 574,
+        "summary": "Bài viết này là một kho tàng tri thức đa chiều, kết nối từ nguồn gốc của các thế lực vô hình (Tà linh), bí sử về Chúa Giêsu, giáo lý Ngộ đạo (Gnosis) cho đến cơ chế chữa lành sinh học bằng muối."
       },
       {
         "path": "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
@@ -4742,6 +4686,60 @@
         ],
         "words": 769,
         "summary": "*The Soul's Journey and the Power of Conscious Love*"
+      },
+      {
+        "path": "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+        "title": "Kỹ Thuật Thiền Định Kogi",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [],
+        "headings": [
+          "Kỹ Thuật Thiền Định Kogi",
+          "Người Kogi Là Ai? / Who Are the Kogi?",
+          "Background / Bối cảnh",
+          "Message to World / Thông điệp đến Thế giới",
+          "Phương Pháp 9 Năm Trong Bóng Tối / The 9-Year Darkness Method",
+          "Lựa chọn / Selection",
+          "Training (0-9 tuổi) / Đào tạo (0-9 years)",
+          "Environment / Môi trường",
+          "Result / Kết quả",
+          "Aluna - The Spirit World / Aluna - Cõi Tinh Thần",
+          "Definition / Định nghĩa",
+          "Mama's Role / Vai trò của Mama",
+          "Why Darkness? / Tại Sao Bóng Tối?",
+          "Pineal Gland Activation / Kích hoạt Tuyến Tùng",
+          "Modern Parallel: Darkness Retreats / Tương đương Hiện đại: Nhập thất Bóng tối",
+          "Practical Applications / Ứng Dụng Thực Tế",
+          "We Can't Do 9 Years, But: / Chúng ta không thể làm 9 năm, nhưng:",
+          "Kogi Wisdom on Earth / Trí Tuệ Kogi về Trái Đất",
+          "Related"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Lemuria",
+          "Long Mạch",
+          "Trí Tuệ",
+          "Tuyến Tùng",
+          "Vận Chín, Người Kogi và Ma Trận Y Tế"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Lemuria.md",
+          "esoterica/Long Mạch.md",
+          "health/Tuyến Tùng.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "mental-models/Trí Tuệ.md"
+        ],
+        "backlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md"
+        ],
+        "words": 902,
+        "summary": "*Kogi Meditation Technique*"
       },
       {
         "path": "esoterica/Manly P. Hall.md",
@@ -5526,7 +5524,7 @@
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
           "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/Plasma Quinton.md",
+          "health/René Quinton và Huyết Tương Biển.md",
           "health/Suramin.md",
           "health/Thuyết Vi Sinh Nội Sinh.md",
           "health/Thuốc Hóa Dầu.md",
@@ -5614,7 +5612,7 @@
           "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
           "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
           "health/Ketogenic Diet.md",
-          "health/Plasma Quinton.md",
+          "health/René Quinton và Huyết Tương Biển.md",
           "health/Thuốc Hóa Dầu.md",
           "health/Y Tế Tự Nhiên.md",
           "MOC - Health Sovereignty.md",
@@ -5789,13 +5787,11 @@
         "backlinks": [
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/Ma Trận.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
           "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
           "health/Ketogenic Diet.md",
           "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
           "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
           "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/René Quinton và Huyết Tương Biển.md",
           "health/Su That Ve Benh Dai Va Vac Xin.md",
           "health/Thuốc Hóa Dầu.md",
           "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
@@ -5810,6 +5806,68 @@
         ],
         "words": 1852,
         "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
+      },
+      {
+        "path": "health/René Quinton và Huyết Tương Biển.md",
+        "title": "René Quinton và Huyết Tương Biển",
+        "domain": "health",
+        "tags": [
+          "health",
+          "minerals",
+          "seawater",
+          "terrain-theory"
+        ],
+        "aliases": [
+          "Huyết Tương Biển",
+          "Plasma Quinton",
+          "Quinton Marine Plasma",
+          "René Quinton"
+        ],
+        "headings": [
+          "René Quinton và Huyết Tương Biển",
+          "Medical Caution / Cảnh Báo Y Khoa",
+          "Evidence Discipline / Kỷ Luật Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Quinton Đặt Câu Hỏi Gì?",
+          "Đại Dương Bên Trong / The Inner Ocean",
+          "Vì Sao Plasma Quinton Hấp Dẫn?",
+          "Muối Không Chỉ Là NaCl, Nhưng Cũng Không Phải Thần Dược",
+          "Cách Đọc Trưởng Thành",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+          "Năng Lượng Natri",
+          "Plasma Quinton",
+          "Suy Thận",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Năng Lượng Natri.md",
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+          "health/Suy Thận.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Y Tế Tự Nhiên.md"
+        ],
+        "backlinks": [
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Tà Linh.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+          "health/Plasma Quinton.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+          "health/Y Tế Tự Nhiên.md",
+          "index.md",
+          "MOC - Health Sovereignty.md",
+          "science-tech/Pin Natri-ion.md"
+        ],
+        "words": 952,
+        "summary": "**René Quinton quan trọng với vault không phải vì mọi claim lịch sử quanh \"huyết tương biển\" đều nên tin nguyên xi, mà vì ông đặt lại một câu hỏi lớn: nội môi của cơ thể có liên hệ gì với đại dương nguyên thủy, khoáng chất và điều kiện sống của tế bào?** Đọc…"
       },
       {
         "path": "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
@@ -5872,7 +5930,6 @@
         "backlinks": [
           "esoterica/Kỹ Thuật Thiền Định Kogi.md",
           "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
           "health/Su That Ve Benh Dai Va Vac Xin.md",
           "MOC - Health Sovereignty.md"
         ],
@@ -5968,64 +6025,6 @@
         "summary": "Hướng dẫn toàn diện về ung thư từ góc nhìn **chuyển hóa (metabolic)** — không phải đột biến gen, mà là **ti thể bị lỗi**. Bao gồm cơ chế, phòng ngừa, và protocol điều trị thay thế."
       },
       {
-        "path": "health/Thuốc Hóa Dầu.md",
-        "title": "Thuốc Hóa Dầu (Petrochemical Medicine)",
-        "domain": "health",
-        "tags": [
-          "health",
-          "medical-industrial-complex",
-          "pharma"
-        ],
-        "aliases": [
-          "Allopathic Medicine",
-          "Petrochemical Medicine",
-          "Rockefeller Medicine"
-        ],
-        "headings": [
-          "Thuốc Hóa Dầu (Petrochemical Medicine)",
-          "Medical Caution / Cẩn Trọng",
-          "Evidence Discipline / Cách Đọc Claim",
-          "1. Vấn Đề Không Phải Thuốc, Mà Là Incentive",
-          "2. Rockefeller / Flexner Lens",
-          "3. Allopathic Loop",
-          "4. Terrain Bị Lãng Quên",
-          "5. Petrochemical Logic",
-          "6. Khi Nào Thuốc Là Cần Thiết?",
-          "7. Health Sovereignty Frame",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Khế Ước Bí Mật Rockefeller",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "MOC - Health Sovereignty",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
-        ],
-        "backlinks": [
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Y Tế Tự Nhiên.md",
-          "index.md",
-          "MOC - Health Sovereignty.md",
-          "MOC - Science Revisionism.md"
-        ],
-        "words": 901,
-        "summary": "**Thuốc Hóa Dầu là cách gọi phê phán nền y học dược phẩm hiện đại khi nó ưu tiên molecule tổng hợp, patent, symptom management và chronic treatment hơn terrain, dinh dưỡng, ánh sáng, giấc ngủ, khoáng chất và khả năng tự chữa của cơ thể. Vấn đề không phải “mọi…"
-      },
-      {
         "path": "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "title": "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
         "domain": "health",
@@ -6066,6 +6065,7 @@
         ],
         "backlinks": [
           "esoterica/Vận Chín.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/Prolonged Fasting.md",
           "health/Suy Thận.md",
@@ -6127,6 +6127,7 @@
           "MOC - Health Sovereignty.md"
         ],
         "backlinks": [
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
           "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
           "health/Prolonged Fasting.md",
           "health/Thuyết Vi Sinh Nội Sinh.md",
@@ -6137,6 +6138,184 @@
         ],
         "words": 948,
         "summary": "**Ketogenic Diet không chỉ là trend giảm cân. Ở tầng metabolic, keto là một cách chuyển cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism, đặt lại câu hỏi rất căn bản: bệnh tật là lỗi thuốc men, hay là lỗi môi trường chuyển hóa?**"
+      },
+      {
+        "path": "health/Thuốc Hóa Dầu.md",
+        "title": "Thuốc Hóa Dầu (Petrochemical Medicine)",
+        "domain": "health",
+        "tags": [
+          "health",
+          "medical-industrial-complex",
+          "pharma"
+        ],
+        "aliases": [
+          "Allopathic Medicine",
+          "Petrochemical Medicine",
+          "Rockefeller Medicine"
+        ],
+        "headings": [
+          "Thuốc Hóa Dầu (Petrochemical Medicine)",
+          "Medical Caution / Cẩn Trọng",
+          "Evidence Discipline / Cách Đọc Claim",
+          "1. Vấn Đề Không Phải Thuốc, Mà Là Incentive",
+          "2. Rockefeller / Flexner Lens",
+          "3. Allopathic Loop",
+          "4. Terrain Bị Lãng Quên",
+          "5. Petrochemical Logic",
+          "6. Khi Nào Thuốc Là Cần Thiết?",
+          "7. Health Sovereignty Frame",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Khế Ước Bí Mật Rockefeller",
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "MOC - Health Sovereignty",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Y Tế Tự Nhiên.md",
+          "MOC - Health Sovereignty.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
+        ],
+        "backlinks": [
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Y Tế Tự Nhiên.md",
+          "index.md",
+          "MOC - Health Sovereignty.md",
+          "MOC - Science Revisionism.md"
+        ],
+        "words": 901,
+        "summary": "**Thuốc Hóa Dầu là cách gọi phê phán nền y học dược phẩm hiện đại khi nó ưu tiên molecule tổng hợp, patent, symptom management và chronic treatment hơn terrain, dinh dưỡng, ánh sáng, giấc ngủ, khoáng chất và khả năng tự chữa của cơ thể. Vấn đề không phải “mọi…"
+      },
+      {
+        "path": "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "title": "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "domain": "health",
+        "tags": [
+          "age-of-aquarius",
+          "healing",
+          "health",
+          "occult",
+          "prophecy",
+          "salt",
+          "source-note",
+          "spirituality"
+        ],
+        "aliases": [],
+        "headings": [
+          "How To Read This / Cách Đọc Bài Này",
+          "Source Register / Nguồn Nên Đối Chiếu",
+          "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+          "1. Muối: Bản Di Chúc Của Biển Cả",
+          "2. Chu Kỳ Thời Gian và Sự Thức Tỉnh",
+          "3. Ma Trận Giả Dối và Thuốc Hóa Dầu",
+          "4. Lời Tiên Tri Về Ngày Trở Về",
+          "Liên kết hệ thống",
+          "Related"
+        ],
+        "wikilinks": [
+          "Khế Ước Bí Mật Rockefeller",
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "Ma Trận",
+          "MOC - Health Sovereignty",
+          "René Quinton và Huyết Tương Biển",
+          "Thuốc Hóa Dầu",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Thuốc Hóa Dầu.md",
+          "health/Y Tế Tự Nhiên.md",
+          "MOC - Health Sovereignty.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
+        ],
+        "backlinks": [
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/Plasma Quinton.md",
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "health/Y Tế Tự Nhiên.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 681,
+        "summary": "---"
+      },
+      {
+        "path": "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "title": "Công Thức Chữa Lành Tự Nhiên",
+        "domain": "health",
+        "tags": [
+          "healing",
+          "health",
+          "lifestyle",
+          "terrain-theory"
+        ],
+        "aliases": [
+          "Healing Stack",
+          "Master Note Chữa Lành",
+          "Natural Healing Formulas"
+        ],
+        "headings": [
+          "Công Thức Chữa Lành Tự Nhiên",
+          "Medical Caution / Cảnh Báo Y Khoa",
+          "Evidence Discipline / Kỷ Luật Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Layer 1: Ngủ Và Nhịp Sinh Học",
+          "Layer 2: Thức Ăn Thật",
+          "Layer 3: Nước, Muối Và Khoáng",
+          "Layer 4: Ruột Và Nội Môi",
+          "Layer 5: Ánh Nắng, Vận Động, Hơi Thở",
+          "Layer 6: Giảm Độc Tải Và Nhiễu Tâm",
+          "Đừng Biến Stack Thành Mê Tín",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Bệnh Bạch Cầu",
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+          "Ketogenic Diet",
+          "MOC - Health Sovereignty",
+          "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+          "René Quinton và Huyết Tương Biển",
+          "Suy Thận",
+          "The China Study",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/Bệnh Bạch Cầu.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+          "health/Ketogenic Diet.md",
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Suy Thận.md",
+          "health/The China Study.md",
+          "health/Y Tế Tự Nhiên.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "backlinks": [
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md"
+        ],
+        "words": 1060,
+        "summary": "**\"Công thức chữa lành\" không phải menu thần dược. Nó là một stack nền: ngủ, ánh sáng, thức ăn thật, nước, khoáng, vận động, ruột, hơi thở, giảm độc tải và kỷ luật biết khi nào cần y khoa.** Nếu bỏ phần kỷ luật, natural healing rất dễ biến thành một giáo phái…"
       },
       {
         "path": "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
@@ -6206,63 +6385,6 @@
         ],
         "words": 1456,
         "summary": "**Mebendazole (MBZ) là thuốc tẩy giun cũ, rẻ, hết patent, đang được nghiên cứu như một candidate trong drug repurposing chống ung thư. Điểm đáng chú ý không phải “thuốc tẩy giun chữa ung thư” theo kiểu headline, mà là pattern: nhiều thuốc antiparasitic/antimi…"
-      },
-      {
-        "path": "health/Plasma Quinton.md",
-        "title": "Plasma Quinton (Huyết Tương Biển)",
-        "domain": "health",
-        "tags": [
-          "health",
-          "minerals",
-          "terrain"
-        ],
-        "aliases": [
-          "Huyết Tương Biển",
-          "Marine Plasma",
-          "Quinton Plasma",
-          "Seawater Therapy"
-        ],
-        "headings": [
-          "Plasma Quinton (Huyết Tương Biển)",
-          "Medical Caution / Cẩn Trọng",
-          "Evidence Discipline / Cách Đọc Claim",
-          "Vault Position / Vị Trí Trong Vault",
-          "1. René Quinton Và Ý Tưởng Nội Môi Biển",
-          "2. Isotonic vs Hypertonic",
-          "3. Terrain Logic",
-          "4. Vì Sao Muối Và Khoáng Bị Hiểu Sai?",
-          "5. Rủi Ro Và Bẫy",
-          "6. Practical Frame",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "MOC - Health Sovereignty",
-          "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-          "René Quinton và Huyết Tương Biển",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/René Quinton và Huyết Tương Biển.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "backlinks": [
-          "esoterica/Tà Linh.md",
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-          "health/René Quinton và Huyết Tương Biển.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-          "health/Y Tế Tự Nhiên.md",
-          "index.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "words": 898,
-        "summary": "**Plasma Quinton là nước biển được xử lý theo phương pháp René Quinton, thường được đọc trong health sovereignty như một cách hỗ trợ terrain khoáng chất và nội môi. Điểm cốt lõi không phải “nước biển chữa mọi bệnh”, mà là câu hỏi sâu hơn: cơ thể có thể tự sửa…"
       },
       {
         "path": "health/Suramin.md",
@@ -6379,61 +6501,6 @@
         "summary": "---"
       },
       {
-        "path": "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "title": "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-        "domain": "health",
-        "tags": [
-          "age-of-aquarius",
-          "healing",
-          "health",
-          "occult",
-          "prophecy",
-          "salt",
-          "source-note",
-          "spirituality"
-        ],
-        "aliases": [],
-        "headings": [
-          "How To Read This / Cách Đọc Bài Này",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-          "1. Muối: Bản Di Chúc Của Biển Cả",
-          "2. Chu Kỳ Thời Gian và Sự Thức Tỉnh",
-          "3. Ma Trận Giả Dối và Thuốc Hóa Dầu",
-          "4. Lời Tiên Tri Về Ngày Trở Về",
-          "Liên kết hệ thống",
-          "Related"
-        ],
-        "wikilinks": [
-          "Khế Ước Bí Mật Rockefeller",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Ma Trận",
-          "MOC - Health Sovereignty",
-          "René Quinton và Huyết Tương Biển",
-          "Thuốc Hóa Dầu",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/René Quinton và Huyết Tương Biển.md",
-          "health/Thuốc Hóa Dầu.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
-        ],
-        "backlinks": [
-          "health/Plasma Quinton.md",
-          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "words": 681,
-        "summary": "---"
-      },
-      {
         "path": "health/Prolonged Fasting.md",
         "title": "Prolonged Fasting",
         "domain": "health",
@@ -6497,58 +6564,6 @@
         "summary": "**Prolonged Fasting là nhịn ăn kéo dài có chủ đích để đưa cơ thể từ chế độ tiêu hóa/liên tục nạp sang chế độ sửa chữa/tái chế: giảm insulin, tăng ketone, kích hoạt autophagy và buộc metabolism nhớ lại một nhịp cổ xưa hơn.**"
       },
       {
-        "path": "health/René Quinton và Huyết Tương Biển.md",
-        "title": "René Quinton và Huyết Tương Biển",
-        "domain": "health",
-        "tags": [
-          "biology",
-          "health",
-          "rene-quinton",
-          "seawater",
-          "source-note",
-          "terrain-theory"
-        ],
-        "aliases": [],
-        "headings": [
-          "How To Read This / Cách Đọc Bài Này",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "René Quinton và Huyết Tương Biển (Plasma Quinton)",
-          "1. René Quinton (1866–1925)",
-          "2. Plasma de Quinton (Huyết tương biển)",
-          "3. Thông điệp cốt lõi",
-          "Liên kết hệ thống",
-          "Related"
-        ],
-        "wikilinks": [
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "MOC - Health Sovereignty",
-          "Năng Lượng Natri",
-          "Plasma Quinton",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Năng Lượng Natri.md",
-          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Plasma Quinton.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "backlinks": [
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/Plasma Quinton.md",
-          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-          "science-tech/Pin Natri-ion.md"
-        ],
-        "words": 555,
-        "summary": "---"
-      },
-      {
         "path": "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
         "title": "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
         "domain": "health",
@@ -6604,7 +6619,7 @@
           "esoterica/Sự Nhất Thể.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/Plasma Quinton.md",
+          "health/René Quinton và Huyết Tương Biển.md",
           "health/Suramin.md",
           "health/Tuyến Tùng.md",
           "health/Y Tế Tự Nhiên.md",
@@ -6649,13 +6664,14 @@
         "mdlinks": [],
         "outlinks": [
           "esoterica/Ma Trận.md",
-          "health/Plasma Quinton.md",
+          "health/René Quinton và Huyết Tương Biển.md",
           "health/Thuyết Vi Sinh Nội Sinh.md",
           "health/Y Tế Tự Nhiên.md",
           "mental-models/Trí Tuệ.md",
           "MOC - Health Sovereignty.md"
         ],
         "backlinks": [
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
           "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
           "health/Thuyết Vi Sinh Nội Sinh.md",
           "mental-models/Tâm Lý Học Jung.md",
@@ -6715,50 +6731,6 @@
         ],
         "backlinks": [],
         "words": 723,
-        "summary": "---"
-      },
-      {
-        "path": "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "title": "Công Thức Chữa Lành Tự Nhiên",
-        "domain": "health",
-        "tags": [
-          "health"
-        ],
-        "aliases": [],
-        "headings": [
-          "How To Read This / Cách Đọc Bài Này",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Công Thức Chữa Lành Tự Nhiên (Master Note)",
-          "1. Công Thức Muối Biển / Sea Salt Formula",
-          "2. Liệu Pháp Ánh Nắng (Dương Hóa) / Sunlight Therapy (Solar Charging)",
-          "3. Chế Độ Ăn Uống Khoa Học / Scientific Diet",
-          "4. Tẩy Độc Nội Môi / Internal Detoxification",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bệnh Bạch Cầu",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Kỹ Thuật Thiền Định Kogi",
-          "MOC - Health Sovereignty",
-          "Suy Thận",
-          "Vận Chín, Người Kogi và Ma Trận Y Tế",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-          "health/Bệnh Bạch Cầu.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Suy Thận.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "backlinks": [
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md"
-        ],
-        "words": 719,
         "summary": "---"
       },
       {
@@ -6862,6 +6834,98 @@
         "summary": "---"
       },
       {
+        "path": "health/Plasma Quinton.md",
+        "title": "Plasma Quinton (Huyết Tương Biển)",
+        "domain": "health",
+        "tags": [
+          "health",
+          "minerals",
+          "terrain"
+        ],
+        "aliases": [
+          "Huyết Tương Biển",
+          "Marine Plasma",
+          "Quinton Plasma",
+          "Seawater Therapy"
+        ],
+        "headings": [
+          "Plasma Quinton (Huyết Tương Biển)",
+          "Medical Caution / Cẩn Trọng",
+          "Evidence Discipline / Cách Đọc Claim",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. René Quinton Và Ý Tưởng Nội Môi Biển",
+          "2. Isotonic vs Hypertonic",
+          "3. Terrain Logic",
+          "4. Vì Sao Muối Và Khoáng Bị Hiểu Sai?",
+          "5. Rủi Ro Và Bẫy",
+          "6. Practical Frame",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "MOC - Health Sovereignty",
+          "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+          "René Quinton và Huyết Tương Biển",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Y Tế Tự Nhiên.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "backlinks": [],
+        "words": 898,
+        "summary": "**Plasma Quinton là nước biển được xử lý theo phương pháp René Quinton, thường được đọc trong health sovereignty như một cách hỗ trợ terrain khoáng chất và nội môi. Điểm cốt lõi không phải “nước biển chữa mọi bệnh”, mà là câu hỏi sâu hơn: cơ thể có thể tự sửa…"
+      },
+      {
+        "path": "health/Suy Thận.md",
+        "title": "Suy Thận (Kidney Failure)",
+        "domain": "health",
+        "tags": [
+          "health",
+          "kidney",
+          "sovereignty",
+          "terrain"
+        ],
+        "aliases": [
+          "Chronic Kidney Disease",
+          "CKD",
+          "Kidney Failure",
+          "Suy Thận"
+        ],
+        "headings": [
+          "Suy Thận (Kidney Failure)",
+          "Medical Caution / Cảnh Báo Y Khoa",
+          "Evidence Discipline / Kỷ Luật Đọc",
+          "Thận Là Bộ Lọc Và Bộ Điều Hòa / Filter And Regulator",
+          "Terrain Reading / Đọc Nền Nội Môi",
+          "Muối, Nước Và Cái Bẫy Cực Đoan / Salt, Water, Extremes",
+          "Medical-Industrial Pattern / Vòng Phụ Thuộc",
+          "Practical Sovereignty / Hướng Tự Chủ An Toàn",
+          "Kết Luận / Closing"
+        ],
+        "wikilinks": [
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Y Tế Tự Nhiên.md"
+        ],
+        "backlinks": [
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md"
+        ],
+        "words": 910,
+        "summary": "**Suy thận là khi bộ lọc sống của cơ thể không còn giữ được nhịp lọc máu, nước, điện giải và chất thải. Đọc theo health sovereignty, đây không chỉ là “một cơ quan hỏng”, mà là tín hiệu cả terrain: đường huyết, huyết áp, độc tải, viêm, thuốc, ăn uống, stress v…"
+      },
+      {
         "path": "health/Virus và Kiếp Tật Dịch.md",
         "title": "Virus và Kiếp Tật Dịch",
         "domain": "health",
@@ -6904,49 +6968,6 @@
         ],
         "words": 830,
         "summary": "**Virus là nơi health sovereignty phải giữ hai mắt mở: một mắt nhìn dữ liệu sinh học về mầm bệnh, miễn dịch và lây truyền; mắt kia nhìn terrain, độc tải, sợ hãi, truyền thông và nghiệp tập thể khiến một đợt bệnh trở thành một nghi lễ xã hội.**"
-      },
-      {
-        "path": "health/Suy Thận.md",
-        "title": "Suy Thận (Kidney Failure)",
-        "domain": "health",
-        "tags": [
-          "health",
-          "kidney",
-          "sovereignty",
-          "terrain"
-        ],
-        "aliases": [
-          "Chronic Kidney Disease",
-          "CKD",
-          "Kidney Failure",
-          "Suy Thận"
-        ],
-        "headings": [
-          "Suy Thận (Kidney Failure)",
-          "Medical Caution / Cảnh Báo Y Khoa",
-          "Evidence Discipline / Kỷ Luật Đọc",
-          "Thận Là Bộ Lọc Và Bộ Điều Hòa / Filter And Regulator",
-          "Terrain Reading / Đọc Nền Nội Môi",
-          "Muối, Nước Và Cái Bẫy Cực Đoan / Salt, Water, Extremes",
-          "Medical-Industrial Pattern / Vòng Phụ Thuộc",
-          "Practical Sovereignty / Hướng Tự Chủ An Toàn",
-          "Kết Luận / Closing"
-        ],
-        "wikilinks": [
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Y Tế Tự Nhiên.md"
-        ],
-        "backlinks": [
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md"
-        ],
-        "words": 910,
-        "summary": "**Suy thận là khi bộ lọc sống của cơ thể không còn giữ được nhịp lọc máu, nước, điện giải và chất thải. Đọc theo health sovereignty, đây không chỉ là “một cơ quan hỏng”, mà là tín hiệu cả terrain: đường huyết, huyết áp, độc tải, viêm, thuốc, ăn uống, stress v…"
       },
       {
         "path": "health/Bệnh Bạch Cầu.md",
@@ -7025,7 +7046,9 @@
           "esoterica/Ma Trận.md",
           "health/Y Tế Tự Nhiên.md"
         ],
-        "backlinks": [],
+        "backlinks": [
+          "health/Công Thức Chữa Lành Tự Nhiên.md"
+        ],
         "words": 853,
         "summary": "**The China Study quan trọng không phải vì nó “chứng minh mọi thịt sữa đều độc”. Nó quan trọng vì nó kéo dinh dưỡng ra khỏi calorie-counting rẻ tiền và đặt câu hỏi lớn hơn: food system nào tạo ra bệnh mạn tính, và ai hưởng lợi khi con người quên sức mạnh của…"
       }
@@ -8020,6 +8043,7 @@
           "esoterica/Chakra.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
           "index.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
           "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
@@ -10687,8 +10711,8 @@
           "health/Ketogenic Diet.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "health/Plasma Quinton.md",
           "health/Prolonged Fasting.md",
+          "health/René Quinton và Huyết Tương Biển.md",
           "health/Suramin.md",
           "health/Thuyết Vi Sinh Nội Sinh.md",
           "health/Thuốc Hóa Dầu.md",
@@ -10790,8 +10814,8 @@
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
           "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/Plasma Quinton.md",
           "health/Prolonged Fasting.md",
+          "health/René Quinton và Huyết Tương Biển.md",
           "health/Suramin.md",
           "health/Thuyết Vi Sinh Nội Sinh.md",
           "health/Thuốc Hóa Dầu.md",
@@ -10813,7 +10837,6 @@
           "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
           "health/Plasma Quinton.md",
           "health/Prolonged Fasting.md",
-          "health/René Quinton và Huyết Tương Biển.md",
           "health/Su That Ve Benh Dai Va Vac Xin.md",
           "health/Suramin.md",
           "health/Thuyết Vi Sinh Nội Sinh.md",
@@ -13016,8 +13039,8 @@
         "health/Ketogenic Diet.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Plasma Quinton.md",
         "health/Prolonged Fasting.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Suramin.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Thuốc Hóa Dầu.md",
@@ -13622,7 +13645,7 @@
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Suramin.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Thuốc Hóa Dầu.md",
@@ -13886,8 +13909,8 @@
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
         "health/Prolonged Fasting.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Suramin.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Thuốc Hóa Dầu.md",
@@ -13909,7 +13932,6 @@
         "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
         "health/Plasma Quinton.md",
         "health/Prolonged Fasting.md",
-        "health/René Quinton và Huyết Tương Biển.md",
         "health/Su That Ve Benh Dai Va Vac Xin.md",
         "health/Suramin.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
@@ -14712,7 +14734,7 @@
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
         "health/Ketogenic Diet.md",
-        "health/Plasma Quinton.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Thuốc Hóa Dầu.md",
         "health/Y Tế Tự Nhiên.md",
         "MOC - Health Sovereignty.md",
@@ -14979,90 +15001,87 @@
       "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
     },
     {
-      "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-      "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-      "domain": "health",
+      "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
+      "title": "Nghịch Lý Của Hiểu Biết",
+      "domain": "esoterica",
       "tags": [
-        "health"
+        "esoterica"
       ],
       "aliases": [
-        "Seeing Through Western Medicine",
-        "They Live Medicine"
+        "Beyond Duality",
+        "Paradox of Knowledge",
+        "Vượt Qua Nhị Nguyên"
       ],
       "headings": [
-        "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-        "How To Read This / Cách Đọc Bài Này",
-        "Vòng Lặp Lệ Thuộc / The Dependency Loop",
-        "1. Ghép Tạng — Ngành Công Nghiệp Tội Ác",
-        "Sự Thật Đen Tối / Dark Truths",
-        "Tỷ Lệ Sống / Survival Rates",
-        "Cuộc Sống Sau Ghép / Life After Transplant",
-        "2. Ung Thư — Điều Trị Hay Giết Người?",
-        "Khi Nào Khối U Nguy Hiểm? / When Is a Tumor Dangerous?",
-        "Điều Trị = Di Căn / Treatment = Metastasis",
-        "3. Tiểu Đường — Lừa Dối Về Đường",
-        "Vòng Lặp Thuốc / The Drug Loop",
-        "Bản Chất Thực Sự / The Real Nature",
-        "Tội Ác Của Việc Kiêng Đường / The Crime of Sugar Restriction",
-        "4. Các Bệnh Khác — Cùng Pattern",
-        "Viêm Gan B / Hepatitis B",
-        "Táo Bón / Constipation",
-        "Suy Thận / Kidney Failure",
-        "Mất Ngủ / Insomnia",
-        "Cao Huyết Áp / Hypertension",
-        "Mỡ Máu / High Cholesterol",
-        "Kết Luận / Conclusion",
-        "Thay Thế / Alternative",
+        "Nghịch Lý Của Hiểu Biết",
+        "Phần 1: Trap Của Nhị Nguyên",
+        "Vòng Lặp Vô Tận",
+        "Ví Dụ Thực Tế",
+        "Phần 2: Layers Của Hiểu Biết",
+        "Điều Gì Xảy Ra Ở Layer 5?",
+        "Phần 3: Tất Cả Đều Đúng VÀ Sai",
+        "Phần 4: Cái Thấy",
+        "Cái Thấy Là Gì?",
+        "Không Thể Doubt Cái Thấy",
+        "Phần 5: Trí Tuệ Của Đức Phật",
+        "Điều Phi Thường",
+        "Chỉ Nói Những Gì Có Thể Tự Thấy",
+        "Vậy Tại Sao Vẫn Viết?",
+        "Phần 6: Transmission vs Information",
+        "Kết: Invitation",
         "Related",
-        "Source Register / Nguồn Cần Đối Chiếu"
+        "Nền tảng / Foundation",
+        "Tâm linh / Spirituality",
+        "Đọc thêm"
       ],
       "wikilinks": [
-        "Công Thức Chữa Lành Tự Nhiên",
-        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-        "Elite",
+        "AI Và Câu Hỏi Về Ý Thức",
+        "Gnosis",
+        "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+        "Individuation",
+        "Khoa Học Xét Lại",
         "Ma Trận",
-        "MOC - Health Sovereignty",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
-        "Ung Thư - Metabolic Protocol",
-        "Y Tế Tự Nhiên"
+        "Monad",
+        "Nhị Nguyên",
+        "Sự Nhất Thể",
+        "Tâm Lý Học Jung"
       ],
       "mdlinks": [],
       "outlinks": [
+        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
         "esoterica/Ma Trận.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Y Tế Tự Nhiên.md",
-        "MOC - Health Sovereignty.md",
-        "politics-conspiracy/Elite.md"
+        "esoterica/Monad.md",
+        "esoterica/Sự Nhất Thể.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "science-tech/Khoa Học Xét Lại.md"
       ],
       "backlinks": [
         "Cách Đọc Red Pill Wiki.md",
+        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "health/Ketogenic Diet.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "health/Y Tế Tự Nhiên.md",
+        "esoterica/Monad.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "esoterica/Đạo.md",
         "index.md",
-        "MOC - Health Sovereignty.md",
+        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "mental-models/Trí Tuệ.md",
+        "MOC - Epistemology & Propaganda.md",
         "MOC - Science Revisionism.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 1852,
-      "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
+      "words": 1487,
+      "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
     }
   ],
   "orphans": [
@@ -15294,8 +15313,8 @@
         "health/Ketogenic Diet.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Plasma Quinton.md",
         "health/Prolonged Fasting.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Suramin.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Thuốc Hóa Dầu.md",
@@ -15842,44 +15861,52 @@
       "summary": "**Thánh Issa** là tên gọi của Chúa Giêsu trong các bản thảo cổ tại tu viện Hemis (Ladakh, Tây Tạng). Giải đáp câu hỏi: Jesus ở đâu từ 12-30 tuổi?"
     },
     {
-      "path": "health/The China Study.md",
-      "title": "The China Study",
+      "path": "health/Plasma Quinton.md",
+      "title": "Plasma Quinton (Huyết Tương Biển)",
       "domain": "health",
       "tags": [
-        "epidemiology",
         "health",
-        "nutrition",
-        "plant-based"
+        "minerals",
+        "terrain"
       ],
       "aliases": [
-        "China Study",
-        "T. Colin Campbell",
-        "Whole Food Plant-Based"
+        "Huyết Tương Biển",
+        "Marine Plasma",
+        "Quinton Plasma",
+        "Seawater Therapy"
       ],
       "headings": [
-        "The China Study",
-        "Medical Caution / Cảnh Báo Y Khoa",
-        "Evidence Discipline / Kỷ Luật Đọc",
-        "Luận Điểm Chính / Core Claim",
-        "Where It Is Strong / Nơi Nó Mạnh",
-        "Where It Overreaches / Nơi Nó Dễ Quá Tay",
-        "Plant-Based Không Đồng Nghĩa Với Sạch / Plant-Based Is Not Automatically Clean",
-        "The Industry Layer / Lớp Công Nghiệp",
-        "Practical Takeaways / Rút Ra Thực Dụng",
-        "Kết Luận / Closing"
+        "Plasma Quinton (Huyết Tương Biển)",
+        "Medical Caution / Cẩn Trọng",
+        "Evidence Discipline / Cách Đọc Claim",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. René Quinton Và Ý Tưởng Nội Môi Biển",
+        "2. Isotonic vs Hypertonic",
+        "3. Terrain Logic",
+        "4. Vì Sao Muối Và Khoáng Bị Hiểu Sai?",
+        "5. Rủi Ro Và Bẫy",
+        "6. Practical Frame",
+        "Synthesis",
+        "Related"
       ],
       "wikilinks": [
-        "Ma Trận",
+        "MOC - Health Sovereignty",
+        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "René Quinton và Huyết Tương Biển",
+        "Thuyết Vi Sinh Nội Sinh",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
-        "esoterica/Ma Trận.md",
-        "health/Y Tế Tự Nhiên.md"
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Y Tế Tự Nhiên.md",
+        "MOC - Health Sovereignty.md"
       ],
       "backlinks": [],
-      "words": 853,
-      "summary": "**The China Study quan trọng không phải vì nó “chứng minh mọi thịt sữa đều độc”. Nó quan trọng vì nó kéo dinh dưỡng ra khỏi calorie-counting rẻ tiền và đặt câu hỏi lớn hơn: food system nào tạo ra bệnh mạn tính, và ai hưởng lợi khi con người quên sức mạnh của…"
+      "words": 898,
+      "summary": "**Plasma Quinton là nước biển được xử lý theo phương pháp René Quinton, thường được đọc trong health sovereignty như một cách hỗ trợ terrain khoáng chất và nội môi. Điểm cốt lõi không phải “nước biển chữa mọi bệnh”, mà là câu hỏi sâu hơn: cơ thể có thể tự sửa…"
     }
   ],
   "sinks": [],
@@ -15914,7 +15941,7 @@
     ],
     [
       "source-note",
-      13
+      12
     ],
     [
       "crypto-finance",
@@ -15937,6 +15964,10 @@
       8
     ],
     [
+      "terrain-theory",
+      8
+    ],
+    [
       "sovereignty",
       7
     ],
@@ -15950,10 +15981,6 @@
     ],
     [
       "revisionist-science",
-      7
-    ],
-    [
-      "terrain-theory",
       7
     ],
     [
@@ -16045,6 +16072,10 @@
       3
     ],
     [
+      "healing",
+      3
+    ],
+    [
       "terrain",
       3
     ],
@@ -16081,10 +16112,6 @@
       2
     ],
     [
-      "biology",
-      2
-    ],
-    [
       "sexuality",
       2
     ],
@@ -16101,11 +16128,15 @@
       2
     ],
     [
-      "healing",
+      "lifestyle",
       2
     ],
     [
       "repurposed-drugs",
+      2
+    ],
+    [
+      "minerals",
       2
     ],
     [
@@ -16142,6 +16173,10 @@
     ],
     [
       "gaia",
+      1
+    ],
+    [
+      "biology",
       1
     ],
     [
@@ -16274,14 +16309,6 @@
     ],
     [
       "immune-system",
-      1
-    ],
-    [
-      "anti-matrix",
-      1
-    ],
-    [
-      "lifestyle",
       1
     ]
   ],
@@ -16698,8 +16725,8 @@
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
         "health/Prolonged Fasting.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Suramin.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Thuốc Hóa Dầu.md",
@@ -16721,7 +16748,6 @@
         "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
         "health/Plasma Quinton.md",
         "health/Prolonged Fasting.md",
-        "health/René Quinton và Huyết Tương Biển.md",
         "health/Su That Ve Benh Dai Va Vac Xin.md",
         "health/Suramin.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
@@ -19000,7 +19026,6 @@
       "backlinks": [
         "esoterica/Chakra.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md"
       ],
       "words": 902,
@@ -21853,8 +21878,7 @@
       "backlinks": [
         "esoterica/Gnosis.md",
         "esoterica/Một Đời Phù Vân.md",
-        "esoterica/Thánh Issa.md",
-        "health/René Quinton và Huyết Tương Biển.md"
+        "esoterica/Thánh Issa.md"
       ],
       "words": 574,
       "summary": "Bài viết này là một kho tàng tri thức đa chiều, kết nối từ nguồn gốc của các thế lực vô hình (Tà linh), bí sử về Chúa Giêsu, giáo lý Ngộ đạo (Gnosis) cho đến cơ chế chữa lành sinh học bằng muối."
@@ -21899,7 +21923,7 @@
         "esoterica/Gnosis.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Ma Trận.md",
-        "health/Plasma Quinton.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Suramin.md"
       ],
       "backlinks": [
@@ -22360,44 +22384,63 @@
       "title": "Công Thức Chữa Lành Tự Nhiên",
       "domain": "health",
       "tags": [
-        "health"
+        "healing",
+        "health",
+        "lifestyle",
+        "terrain-theory"
       ],
-      "aliases": [],
+      "aliases": [
+        "Healing Stack",
+        "Master Note Chữa Lành",
+        "Natural Healing Formulas"
+      ],
       "headings": [
-        "How To Read This / Cách Đọc Bài Này",
-        "Source Register / Nguồn Nên Đối Chiếu",
-        "Công Thức Chữa Lành Tự Nhiên (Master Note)",
-        "1. Công Thức Muối Biển / Sea Salt Formula",
-        "2. Liệu Pháp Ánh Nắng (Dương Hóa) / Sunlight Therapy (Solar Charging)",
-        "3. Chế Độ Ăn Uống Khoa Học / Scientific Diet",
-        "4. Tẩy Độc Nội Môi / Internal Detoxification",
-        "Related"
+        "Công Thức Chữa Lành Tự Nhiên",
+        "Medical Caution / Cảnh Báo Y Khoa",
+        "Evidence Discipline / Kỷ Luật Đọc",
+        "Vault Position / Vị Trí Trong Vault",
+        "Layer 1: Ngủ Và Nhịp Sinh Học",
+        "Layer 2: Thức Ăn Thật",
+        "Layer 3: Nước, Muối Và Khoáng",
+        "Layer 4: Ruột Và Nội Môi",
+        "Layer 5: Ánh Nắng, Vận Động, Hơi Thở",
+        "Layer 6: Giảm Độc Tải Và Nhiễu Tâm",
+        "Đừng Biến Stack Thành Mê Tín",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
         "Bệnh Bạch Cầu",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "Kỹ Thuật Thiền Định Kogi",
+        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+        "Ketogenic Diet",
         "MOC - Health Sovereignty",
+        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "René Quinton và Huyết Tương Biển",
         "Suy Thận",
-        "Vận Chín, Người Kogi và Ma Trận Y Tế",
+        "The China Study",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
-        "esoterica/Kỹ Thuật Thiền Định Kogi.md",
         "health/Bệnh Bạch Cầu.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "health/Ketogenic Diet.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Suy Thận.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "health/The China Study.md",
         "health/Y Tế Tự Nhiên.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "MOC - Health Sovereignty.md"
       ],
       "backlinks": [
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Thuyết Vi Sinh Nội Sinh.md"
       ],
-      "words": 719,
-      "summary": "---"
+      "words": 1060,
+      "summary": "**\"Công thức chữa lành\" không phải menu thần dược. Nó là một stack nền: ngủ, ánh sáng, thức ăn thật, nước, khoáng, vận động, ruột, hơi thở, giảm độc tải và kỷ luật biết khi nào cần y khoa.** Nếu bỏ phần kỷ luật, natural healing rất dễ biến thành một giáo phái…"
     },
     "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md": {
       "path": "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
@@ -22440,6 +22483,7 @@
       ],
       "backlinks": [
         "esoterica/Vận Chín.md",
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Prolonged Fasting.md",
         "health/Suy Thận.md",
@@ -22541,13 +22585,14 @@
       "mdlinks": [],
       "outlinks": [
         "esoterica/Ma Trận.md",
-        "health/Plasma Quinton.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Y Tế Tự Nhiên.md",
         "mental-models/Trí Tuệ.md",
         "MOC - Health Sovereignty.md"
       ],
       "backlinks": [
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "mental-models/Tâm Lý Học Jung.md",
@@ -22605,6 +22650,7 @@
         "MOC - Health Sovereignty.md"
       ],
       "backlinks": [
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Prolonged Fasting.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
@@ -22680,13 +22726,11 @@
       "backlinks": [
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Ma Trận.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
         "health/Ketogenic Diet.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
         "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/René Quinton và Huyết Tương Biển.md",
         "health/Su That Ve Benh Dai Va Vac Xin.md",
         "health/Thuốc Hóa Dầu.md",
         "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
@@ -22864,7 +22908,9 @@
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
       ],
       "backlinks": [
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/Plasma Quinton.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "health/Y Tế Tự Nhiên.md",
@@ -22917,16 +22963,7 @@
         "health/Y Tế Tự Nhiên.md",
         "MOC - Health Sovereignty.md"
       ],
-      "backlinks": [
-        "esoterica/Tà Linh.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-        "health/Y Tế Tự Nhiên.md",
-        "index.md",
-        "MOC - Health Sovereignty.md"
-      ],
+      "backlinks": [],
       "words": 898,
       "summary": "**Plasma Quinton là nước biển được xử lý theo phương pháp René Quinton, thường được đọc trong health sovereignty như một cách hỗ trợ terrain khoáng chất và nội môi. Điểm cốt lõi không phải “nước biển chữa mọi bệnh”, mà là câu hỏi sâu hơn: cơ thể có thể tự sửa…"
     },
@@ -22998,52 +23035,62 @@
       "title": "René Quinton và Huyết Tương Biển",
       "domain": "health",
       "tags": [
-        "biology",
         "health",
-        "rene-quinton",
+        "minerals",
         "seawater",
-        "source-note",
         "terrain-theory"
       ],
-      "aliases": [],
+      "aliases": [
+        "Huyết Tương Biển",
+        "Plasma Quinton",
+        "Quinton Marine Plasma",
+        "René Quinton"
+      ],
       "headings": [
-        "How To Read This / Cách Đọc Bài Này",
-        "Source Register / Nguồn Nên Đối Chiếu",
-        "René Quinton và Huyết Tương Biển (Plasma Quinton)",
-        "1. René Quinton (1866–1925)",
-        "2. Plasma de Quinton (Huyết tương biển)",
-        "3. Thông điệp cốt lõi",
-        "Liên kết hệ thống",
-        "Related"
+        "René Quinton và Huyết Tương Biển",
+        "Medical Caution / Cảnh Báo Y Khoa",
+        "Evidence Discipline / Kỷ Luật Đọc",
+        "Vault Position / Vị Trí Trong Vault",
+        "Quinton Đặt Câu Hỏi Gì?",
+        "Đại Dương Bên Trong / The Inner Ocean",
+        "Vì Sao Plasma Quinton Hấp Dẫn?",
+        "Muối Không Chỉ Là NaCl, Nhưng Cũng Không Phải Thần Dược",
+        "Cách Đọc Trưởng Thành",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "MOC - Health Sovereignty",
+        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
         "Năng Lượng Natri",
         "Plasma Quinton",
+        "Suy Thận",
         "Thuyết Vi Sinh Nội Sinh",
-        "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/Năng Lượng Natri.md",
-        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Plasma Quinton.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/Suy Thận.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Y Tế Tự Nhiên.md",
-        "MOC - Health Sovereignty.md"
+        "health/Y Tế Tự Nhiên.md"
       ],
       "backlinks": [
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Tà Linh.md",
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
         "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
         "health/Plasma Quinton.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "health/Y Tế Tự Nhiên.md",
+        "index.md",
+        "MOC - Health Sovereignty.md",
         "science-tech/Pin Natri-ion.md"
       ],
-      "words": 555,
-      "summary": "---"
+      "words": 952,
+      "summary": "**René Quinton quan trọng với vault không phải vì mọi claim lịch sử quanh \"huyết tương biển\" đều nên tin nguyên xi, mà vì ông đặt lại một câu hỏi lớn: nội môi của cơ thể có liên hệ gì với đại dương nguyên thủy, khoáng chất và điều kiện sống của tế bào?** Đọc…"
     },
     "health/Su That Ve Benh Dai Va Vac Xin.md": {
       "path": "health/Su That Ve Benh Dai Va Vac Xin.md",
@@ -23192,6 +23239,7 @@
       ],
       "backlinks": [
         "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md"
       ],
       "words": 910,
@@ -23233,7 +23281,9 @@
         "esoterica/Ma Trận.md",
         "health/Y Tế Tự Nhiên.md"
       ],
-      "backlinks": [],
+      "backlinks": [
+        "health/Công Thức Chữa Lành Tự Nhiên.md"
+      ],
       "words": 853,
       "summary": "**The China Study quan trọng không phải vì nó “chứng minh mọi thịt sữa đều độc”. Nó quan trọng vì nó kéo dinh dưỡng ra khỏi calorie-counting rẻ tiền và đặt câu hỏi lớn hơn: food system nào tạo ra bệnh mạn tính, và ai hưởng lợi khi con người quên sức mạnh của…"
     },
@@ -23278,7 +23328,7 @@
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
         "health/Ketogenic Diet.md",
-        "health/Plasma Quinton.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Thuốc Hóa Dầu.md",
         "health/Y Tế Tự Nhiên.md",
         "MOC - Health Sovereignty.md",
@@ -23503,7 +23553,7 @@
         "esoterica/Sự Nhất Thể.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Suramin.md",
         "health/Tuyến Tùng.md",
         "health/Y Tế Tự Nhiên.md",
@@ -23710,7 +23760,6 @@
       "backlinks": [
         "esoterica/Kỹ Thuật Thiền Định Kogi.md",
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/Su That Ve Benh Dai Va Vac Xin.md",
         "MOC - Health Sovereignty.md"
       ],
@@ -23810,7 +23859,7 @@
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Suramin.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Thuốc Hóa Dầu.md",
@@ -24047,8 +24096,8 @@
         "health/Ketogenic Diet.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Plasma Quinton.md",
         "health/Prolonged Fasting.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Suramin.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Thuốc Hóa Dầu.md",
@@ -24413,6 +24462,7 @@
         "esoterica/Chakra.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
         "index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
