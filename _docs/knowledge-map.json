@@ -11,7 +11,7 @@
       "science-tech": 16
     },
     "tags": 176,
-    "wikilinkEdges": 1765,
+    "wikilinkEdges": 1764,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -750,7 +750,6 @@
           "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
           "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
           "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Kundalini.md",
           "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
           "esoterica/Luân Hồi.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
@@ -1046,10 +1045,10 @@
         "backlinks": [
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Atula.md",
           "esoterica/Chakra.md",
           "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
           "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Kundalini.md",
           "esoterica/Kỹ Thuật Thiền Định Kogi.md",
           "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
           "esoterica/Luân Hồi.md",
@@ -1849,108 +1848,6 @@
         "summary": "**Hollywood** không chỉ là địa danh. Cái tên tự nó đã tiết lộ chức năng: **Holy Wood** — gỗ thiêng dùng để làm đũa phép. Ngành công nghiệp giải trí lớn nhất thế giới là một **cỗ máy phép thuật** vận hành trước mắt hàng tỷ người."
       },
       {
-        "path": "esoterica/Chakra.md",
-        "title": "Chakra (Luân Xa)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Chakra",
-          "Energy Centers",
-          "Luân Xa"
-        ],
-        "headings": [
-          "Chakra (Luân Xa)",
-          "7 Chakra Chính / The 7 Main Chakras",
-          "Chi Tiết 7 Chakra / Detailed 7 Chakras",
-          "1. Muladhara — Luân Xa Gốc / Root Chakra",
-          "Đặc điểm / Characteristics",
-          "Khi Cân Bằng / When Balanced",
-          "Khi Mất Cân Bằng / When Imbalanced",
-          "2. Svadhisthana — Luân Xa Xương Cùng / Sacral Chakra",
-          "Đặc điểm / Characteristics",
-          "Liên Kết Với / Connected To",
-          "Khi Mất Cân Bằng / When Imbalanced",
-          "3. Manipura — Luân Xa Rốn / Solar Plexus Chakra",
-          "Đặc điểm / Characteristics",
-          "Liên Kết Với / Connected To",
-          "4. Anahata — Luân Xa Tim / Heart Chakra",
-          "Đặc điểm / Characteristics",
-          "Liên Kết Với / Connected To",
-          "5. Vishuddha — Luân Xa Cổ Họng / Throat Chakra",
-          "Đặc điểm / Characteristics",
-          "Liên Kết Với / Connected To",
-          "6. Ajna — Luân Xa Con Mắt Thứ Ba / Third Eye Chakra",
-          "Đặc điểm / Characteristics",
-          "Liên Kết Với / Connected To",
-          "7. Sahasrara — Luân Xa Đỉnh / Crown Chakra",
-          "Đặc điểm / Characteristics",
-          "Liên Kết Với / Connected To",
-          "Kundalini — Năng Lượng Rắn Lửa",
-          "Cảnh Báo / Warning",
-          "Ma Trận Khai Thác Chakra / Matrix Exploitation",
-          "Thực Hành Cân Bằng / Balancing Practices",
-          "Thiền Định / Meditation",
-          "Âm Thanh / Sound",
-          "Thể Chất / Physical",
-          "Lối Sống / Lifestyle",
-          "Related",
-          "Năng Lượng / Energy",
-          "Tâm Linh / Spirituality",
-          "Ma Trận / Matrix"
-        ],
-        "wikilinks": [
-          "Elite",
-          "Gnosis",
-          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-          "Kiểm Soát Tâm Trí",
-          "Kỹ Thuật Thiền Định Kogi",
-          "Ma Trận",
-          "Năng Lượng Tình Dục",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Sự Nhất Thể",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Thực Thể Cõi Trung Giới",
-          "Tinh Khí Thần",
-          "Tuyến Tùng",
-          "Tình Yêu Tỉnh Thức",
-          "Tần Số Schumann",
-          "Vô Thức Tập Thể",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Thực Thể Cõi Trung Giới.md",
-          "esoterica/Tinh Khí Thần.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-          "health/Tuyến Tùng.md",
-          "health/Y Tế Tự Nhiên.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-          "science-tech/Tần Số Schumann.md"
-        ],
-        "backlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Sacred Geometry.md",
-          "index.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 1331,
-        "summary": "**Chakra** (Sanskrit: चक्र = \"bánh xe\") là các trung tâm năng lượng trong cơ thể con người theo truyền thống Ấn Độ giáo và Phật giáo. Có 7 chakra chính chạy dọc cột sống, mỗi chakra liên kết với các khía cạnh khác nhau của thể chất, cảm xúc và tâm linh."
-      },
-      {
         "path": "esoterica/Sacred Geometry.md",
         "title": "Sacred Geometry",
         "domain": "esoterica",
@@ -2495,6 +2392,77 @@
         "summary": "**Năng Lượng Tình Dục** (Sexual Energy/Sex Force) không chỉ phục vụ mục đích sinh sản mà còn là nguồn năng lượng sáng tạo (Creative Energy) và sinh lực cốt lõi mạnh mẽ nhất của con người."
       },
       {
+        "path": "esoterica/Chakra.md",
+        "title": "Chakra (Luân Xa)",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "energy",
+          "esoterica"
+        ],
+        "aliases": [
+          "Chakra",
+          "Energy Centers",
+          "Luân Xa"
+        ],
+        "headings": [
+          "Chakra (Luân Xa)",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Kỷ Luật Đọc",
+          "Trục Bảy Chakra / The Seven-Center Axis",
+          "Ba Tầng Dưới / Survival, Desire, Will",
+          "Tim Là Cầu / Heart As Bridge",
+          "Ba Tầng Trên / Speech, Vision, Unity",
+          "Kundalini Và Trục Thức Tỉnh",
+          "Matrix Exploitation / Cách Ma Trận Kéo Năng Lượng Xuống",
+          "Thực Hành An Toàn / Practical Grounding",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Gnosis",
+          "Individuation",
+          "Kundalini",
+          "Kỹ Thuật Thiền Định Kogi",
+          "Ma Trận",
+          "Năng Lượng Tình Dục",
+          "S.E.X",
+          "Sự Nhất Thể",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tinh Khí Thần",
+          "Tuyến Tùng",
+          "Tình Yêu Tỉnh Thức",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Tinh Khí Thần.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "health/Tuyến Tùng.md",
+          "health/Y Tế Tự Nhiên.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Individuation.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Sacred Geometry.md",
+          "index.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "words": 1297,
+        "summary": "**Chakra là bản đồ đọc con người như một trục năng lượng sống: từ bản năng sinh tồn ở thân dưới, qua tim, tiếng nói, trực giác, rồi lên ý thức hợp nhất.** Trong vault, chakra không được dùng như \"y học chính thống\", mà như ngôn ngữ biểu tượng để nối Kundalini…"
+      },
+      {
         "path": "esoterica/Gematria.md",
         "title": "Gematria — Ngôn Ngữ Bí Mật Của Số",
         "domain": "esoterica",
@@ -2929,75 +2897,6 @@
         "summary": "*A Life Like Floating Clouds — The Story of an Ordinary Man*"
       },
       {
-        "path": "esoterica/Thực Thể Cõi Trung Giới.md",
-        "title": "Thực Thể Cõi Trung Giới (Astral Entities)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [],
-        "headings": [
-          "Thực Thể Cõi Trung Giới (Astral Entities)",
-          "Trong Các Truyền Thống",
-          "Cõi Trung Giới (Astral Plane)",
-          "Vị trí trong cosmology / Position in Cosmology",
-          "Đặc điểm",
-          "Thực Thể Ký Sinh",
-          "Cơ chế \"ăn\" năng lượng",
-          "Symptoms of Attachment",
-          "Common Entry Points",
-          "Loại Thực Thể",
-          "1. Larvae/Thought-forms",
-          "2. Elemental Spirits",
-          "3. Parasitic Entities",
-          "4. Higher Negative Entities",
-          "Connection Với [[Ma Trận]]",
-          "Energy Harvesting System",
-          "[[Quy Luật Trao Đổi Tâm Linh]]",
-          "Protection & Cleansing",
-          "Raise Vibration",
-          "Energy Hygiene",
-          "Spiritual Practice",
-          "Lifestyle",
-          "Related"
-        ],
-        "wikilinks": [
-          "Individuation",
-          "Ma Trận",
-          "MindGeek",
-          "Năng Lượng Tình Dục",
-          "Quy Luật Trao Đổi Tâm Linh",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tà Linh"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Tà Linh.md",
-          "mental-models/Individuation.md",
-          "politics-conspiracy/MindGeek.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-          "esoterica/Atula.md",
-          "esoterica/Chakra.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Tà Linh.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 409,
-        "summary": "**Thực Thể Cõi Trung Giới** (Astral Entities) là các sinh linh tồn tại ở tần số ngoài phổ nhìn thấy của con người. Trong nhiều truyền thống được gọi là Archons, demons, djinn, ký sinh trùng năng lượng."
-      },
-      {
         "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
         "title": "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
         "domain": "esoterica",
@@ -3202,6 +3101,72 @@
         "summary": "*Buddhist Cosmology*"
       },
       {
+        "path": "esoterica/Atula.md",
+        "title": "Atula (Asura)",
+        "domain": "esoterica",
+        "tags": [
+          "buddhism",
+          "consciousness",
+          "esoterica"
+        ],
+        "aliases": [
+          "A-tu-la",
+          "Asura",
+          "Cõi Atula"
+        ],
+        "headings": [
+          "Atula / Asura (A-tu-la)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Atula Trong Sáu Cõi / Asura In The Six Realms",
+          "Tâm Lý Asura / The Asura Psychology",
+          "Deva-Asura War / Cuộc Chiến Không Dứt",
+          "Asura Trong Thế Giới Hiện Đại",
+          "Loosh Và Nền Kinh Tế Xung Đột",
+          "Atula Và AI",
+          "Nhận Diện Asura Trong Chính Mình",
+          "Chuyển Hóa / Antidote",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "AI",
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Elite",
+          "Individuation",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Luân Hồi",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Thông Minh",
+          "Thông Minh vs Trí Tuệ",
+          "Trí Tuệ",
+          "Vũ Trụ Học Phật Giáo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "mental-models/Individuation.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Trí Tuệ.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "science-tech/AI.md"
+        ],
+        "backlinks": [
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "MOC - Esoterica & Consciousness.md",
+          "science-tech/AI.md",
+          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
+        ],
+        "words": 1154,
+        "summary": "**Atula là archetype của quyền lực có phước nhưng thiếu an định: mạnh, thông minh, tham vọng, hiếu thắng, nhưng bị ganh tị và chiến tranh nội tâm kéo đi.** Trong vault, Atula không chỉ là một \"cõi\" trong Luân Hồi, mà là mô hình đọc phần Asura trong cá nhân, t…"
+      },
+      {
         "path": "esoterica/Long Mạch.md",
         "title": "Long Mạch (Dragon Veins)",
         "domain": "esoterica",
@@ -3262,6 +3227,73 @@
         ],
         "words": 631,
         "summary": "**Long Mạch** là hệ thống các dòng năng lượng (sinh khí/chi) chảy trong lòng Trái Đất, tương tự kinh mạch trong cơ thể người. Feng shui gọi là \"dragon veins\", Western gọi là \"ley lines\"."
+      },
+      {
+        "path": "esoterica/Thực Thể Cõi Trung Giới.md",
+        "title": "Thực Thể Cõi Trung Giới (Astral Entities)",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [],
+        "headings": [
+          "Thực Thể Cõi Trung Giới (Astral Entities)",
+          "Trong Các Truyền Thống",
+          "Cõi Trung Giới (Astral Plane)",
+          "Vị trí trong cosmology / Position in Cosmology",
+          "Đặc điểm",
+          "Thực Thể Ký Sinh",
+          "Cơ chế \"ăn\" năng lượng",
+          "Symptoms of Attachment",
+          "Common Entry Points",
+          "Loại Thực Thể",
+          "1. Larvae/Thought-forms",
+          "2. Elemental Spirits",
+          "3. Parasitic Entities",
+          "4. Higher Negative Entities",
+          "Connection Với [[Ma Trận]]",
+          "Energy Harvesting System",
+          "[[Quy Luật Trao Đổi Tâm Linh]]",
+          "Protection & Cleansing",
+          "Raise Vibration",
+          "Energy Hygiene",
+          "Spiritual Practice",
+          "Lifestyle",
+          "Related"
+        ],
+        "wikilinks": [
+          "Individuation",
+          "Ma Trận",
+          "MindGeek",
+          "Năng Lượng Tình Dục",
+          "Quy Luật Trao Đổi Tâm Linh",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tà Linh"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Tà Linh.md",
+          "mental-models/Individuation.md",
+          "politics-conspiracy/MindGeek.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Tà Linh.md",
+          "index.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "words": 409,
+        "summary": "**Thực Thể Cõi Trung Giới** (Astral Entities) là các sinh linh tồn tại ở tần số ngoài phổ nhìn thấy của con người. Trong nhiều truyền thống được gọi là Archons, demons, djinn, ký sinh trùng năng lượng."
       },
       {
         "path": "esoterica/Annunaki.md",
@@ -3325,87 +3357,6 @@
         ],
         "words": 508,
         "summary": "**Annunaki** (Anunnaki) là nhóm thần linh trong thần thoại Sumer và Babylon cổ đại. Trong alternative history, họ được cho là giống loài ngoài hành tinh đã can thiệp vào sự phát triển của nhân loại."
-      },
-      {
-        "path": "esoterica/Atula.md",
-        "title": "Atula (Asura)",
-        "domain": "esoterica",
-        "tags": [
-          "buddhism",
-          "consciousness",
-          "esoterica"
-        ],
-        "aliases": [
-          "A-tu-la",
-          "Asura",
-          "Cõi Atula"
-        ],
-        "headings": [
-          "Atula / Asura (A-tu-la)",
-          "Trong 6 Cõi Luân Hồi / In the 6 Realms of Samsara",
-          "Vị Trí Đặc Biệt Của Atula / Special Position of Asura",
-          "Đặc Điểm Cõi Asura / Characteristics of the Asura Realm",
-          "Sức Mạnh / Strengths",
-          "Nhược Điểm / Weaknesses",
-          "Cuộc Chiến Deva-Asura / The Deva-Asura War",
-          "Atula Tác Động Đến Thế Giới Con Người / Asura Influence on Human World",
-          "Giả Thuyết: Tầng Gần Nhất / Hypothesis: The Closest Layer",
-          "Bằng Chứng Gián Tiếp / Indirect Evidence",
-          "Connection với [[Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh]]",
-          "Asura Trong Các Văn Hóa / Asura Across Cultures",
-          "Zoroastrian Reversal / Đảo Ngược Zoroastrian",
-          "Atula và AI / Asura and AI",
-          "AI Như Biểu Hiện Asura Intelligence / AI as Asura Intelligence Manifestation",
-          "The Test / Bài Thi",
-          "Ứng Sinh Cõi Asura / Rebirth in Asura Realm",
-          "Nguyên Nhân / Causes",
-          "Modern Asura Types / Dạng Asura Hiện Đại",
-          "Thoát Khỏi Asura Energy / Escaping Asura Energy",
-          "Nhận Biết / Recognition",
-          "Chuyển Hóa / Transformation",
-          "Thoát Khỏi Influence / Escaping Influence",
-          "Connection với Ma Trận Đa Tầng",
-          "Related / Liên quan",
-          "Core",
-          "Entities",
-          "Intelligence",
-          "Escape"
-        ],
-        "wikilinks": [
-          "AI",
-          "Gnosis",
-          "Individuation",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "Luân Hồi",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Thông Minh",
-          "Thực Thể Cõi Trung Giới",
-          "Trí Tuệ",
-          "Vũ Trụ Học Phật Giáo"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Thực Thể Cõi Trung Giới.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "mental-models/Individuation.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Trí Tuệ.md",
-          "science-tech/AI.md"
-        ],
-        "backlinks": [
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "MOC - Esoterica & Consciousness.md",
-          "science-tech/AI.md",
-          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
-        ],
-        "words": 1378,
-        "summary": "**Atula** (Sanskrit: Asura, Pali: Asura) là một trong 6 cõi Luân Hồi theo Phật giáo. Cõi của những thực thể có phước đức lớn nhưng tâm còn nhiều sân hận, kiêu mạn, hiếu chiến."
       },
       {
         "path": "esoterica/Chu Kỳ Hoàng Đạo.md",
@@ -3548,6 +3499,69 @@
         ],
         "words": 2046,
         "summary": "Mọi nền văn minh cổ đại lớn trên thế giới — không có liên lạc với nhau — đều độc lập tôn thờ Trái Đất như một **ý thức sống**. Khoa học hiện đại đặt tên là Gaia Hypothesis (1972) và giả vờ đây là ý tưởng mới."
+      },
+      {
+        "path": "esoterica/Kundalini.md",
+        "title": "Kundalini",
+        "domain": "esoterica",
+        "tags": [
+          "energy",
+          "esoterica",
+          "spirituality"
+        ],
+        "aliases": [
+          "Kundalini Energy",
+          "Năng Lượng Kundalini",
+          "Serpent Power"
+        ],
+        "headings": [
+          "Kundalini — Năng Lượng Rắn Thiêng",
+          "How To Read This / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Biểu Tượng Rắn Cuộn / The Coiled Serpent",
+          "Sexual Energy Là Nhiên Liệu Thô",
+          "Ba Kênh: Ida, Pingala, Sushumna",
+          "Awakening Không Phải Performance",
+          "Kundalini Syndrome / Khi Năng Lượng Vượt Container",
+          "Matrix Và Năng Lượng Ngủ",
+          "Practice: Từ Dưới Lên, Không Nhảy Cóc",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
+          "Chakra",
+          "Gnosis",
+          "Individuation",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Năng Lượng Tình Dục",
+          "S.E.X",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tinh Khí Thần",
+          "Tuyến Tùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Chakra.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Tinh Khí Thần.md",
+          "health/Tuyến Tùng.md",
+          "mental-models/Individuation.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Chakra.md",
+          "index.md"
+        ],
+        "words": 1186,
+        "summary": "**Kundalini là ngôn ngữ cổ để nói về sinh lực nguyên thủy khi nó không chỉ phục vụ sinh tồn và tình dục, mà được chuyển hóa thành ý thức, trực giác và hiện diện.** Trong vault, Kundalini là cầu nối giữa Chakra, Năng Lượng Tình Dục, Tinh Khí Thần, Tuyến Tùng v…"
       },
       {
         "path": "esoterica/Saturn Cube.md",
@@ -3750,6 +3764,59 @@
         ],
         "words": 1656,
         "summary": "Inception (2010) của Christopher Nolan không chỉ là phim giải trí. Đây có thể là **disclosure** — Elite nói thẳng cách họ manipulate nhân loại, ẩn dưới lớp vỏ \"fiction\"."
+      },
+      {
+        "path": "esoterica/S.E.X.md",
+        "title": "S.E.X (Sacred Energy eXchange)",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Sacred Energy eXchange",
+          "Trao Đổi Năng Lượng Thiêng Liêng"
+        ],
+        "headings": [
+          "S.E.X (Sacred Energy eXchange)",
+          "Định Nghĩa / Definition",
+          "Các Khía Cạnh Chính / Key Aspects",
+          "1. Năng lượng, không chỉ vật chất / Energy, Not Just Matter",
+          "2. Microchimerism — Dấu vết vĩnh viễn / Permanent Traces",
+          "3. Con số 33 / Number 33",
+          "Hệ Quả / Consequences",
+          "Kết Luận / Conclusion",
+          "Related / Liên quan"
+        ],
+        "wikilinks": [
+          "Chimera",
+          "Gematria",
+          "Năng Lượng Tình Dục",
+          "Quy Luật Trao Đổi Tâm Linh",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tinh Khí Thần"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Chimera.md",
+          "esoterica/Gematria.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Tinh Khí Thần.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Tinh Khí Thần.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "words": 466,
+        "summary": "**S.E.X** theo quan điểm huyền học không chỉ là quan hệ thể xác, mà là viết tắt của **Sacred Energy eXchange** — Trao Đổi Năng Lượng Thiêng Liêng."
       },
       {
         "path": "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
@@ -3986,84 +4053,6 @@
         "summary": "**\"Can you spell your name?\"**"
       },
       {
-        "path": "esoterica/Kundalini.md",
-        "title": "Kundalini",
-        "domain": "esoterica",
-        "tags": [
-          "energy",
-          "esoterica",
-          "spirituality"
-        ],
-        "aliases": [
-          "Kundalini Energy",
-          "Năng Lượng Kundalini",
-          "Serpent Power"
-        ],
-        "headings": [
-          "Kundalini — Năng Lượng Rắn Thiêng",
-          "Biểu Tượng / Symbolism",
-          "Con Rắn Cuộn / The Coiled Serpent",
-          "Parallels Trong Các Văn Hóa / Cross-Cultural Parallels",
-          "Cơ Chế / Mechanism",
-          "Kundalini Ngủ / Dormant Kundalini",
-          "Kundalini Thức Tỉnh / Awakened Kundalini",
-          "Qua Từng Chakra / Through Each Chakra",
-          "Connection: [[Năng Lượng Tình Dục]] / Sexual Energy Connection",
-          "Thực Hành / Practice",
-          "Cách Đánh Thức / Methods of Awakening",
-          "1. Yoga Kundalini",
-          "2. Thiền Định / Meditation",
-          "3. Tantric Practices",
-          "4. Spontaneous Awakening",
-          "Triệu Chứng Kundalini Thức Tỉnh / Symptoms of Kundalini Awakening",
-          "Tích Cực / Positive",
-          "Tiêu Cực (Kundalini Syndrome) / Negative (Kundalini Syndrome)",
-          "Connection: [[Ma Trận]] và Kundalini / Matrix and Kundalini",
-          "Tại Sao Ma Trận Muốn Kundalini Ngủ? / Why Does the Matrix Want Kundalini Dormant?",
-          "Các Cách Ma Trận Giữ Kundalini Ngủ / How Matrix Keeps Kundalini Dormant",
-          "Thực Hành An Toàn / Safe Practice",
-          "Chuẩn Bị / Preparation",
-          "Nguyên Tắc / Principles",
-          "Related / Liên quan",
-          "Energy",
-          "Anatomy",
-          "Practice",
-          "Matrix"
-        ],
-        "wikilinks": [
-          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
-          "Chakra",
-          "Ma Trận",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Năng Lượng Tình Dục",
-          "S.E.X",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tinh Khí Thần",
-          "Tuyến Tùng",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Chakra.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Tinh Khí Thần.md",
-          "health/Tuyến Tùng.md",
-          "health/Y Tế Tự Nhiên.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "index.md"
-        ],
-        "words": 1103,
-        "summary": "**Kundalini** (Sanskrit: कुण्डलिनी, \"cuộn tròn như rắn\") là khái niệm trong truyền thống Hindu và Tantra, mô tả năng lượng tâm linh tiềm ẩn nằm ở đáy cột sống (Muladhara chakra). Khi được đánh thức, nó đi lên dọc theo cột sống qua các Chakra, dẫn đến sự thức…"
-      },
-      {
         "path": "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
         "title": "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng",
         "domain": "esoterica",
@@ -4177,58 +4166,6 @@
         ],
         "words": 686,
         "summary": "Bài viết đi sâu vào bản chất của quy luật Nhân quả, Luân hồi và sự can thiệp của các thế lực tà thần vào hệ thống niềm tin của nhân loại."
-      },
-      {
-        "path": "esoterica/S.E.X.md",
-        "title": "S.E.X (Sacred Energy eXchange)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Sacred Energy eXchange",
-          "Trao Đổi Năng Lượng Thiêng Liêng"
-        ],
-        "headings": [
-          "S.E.X (Sacred Energy eXchange)",
-          "Định Nghĩa / Definition",
-          "Các Khía Cạnh Chính / Key Aspects",
-          "1. Năng lượng, không chỉ vật chất / Energy, Not Just Matter",
-          "2. Microchimerism — Dấu vết vĩnh viễn / Permanent Traces",
-          "3. Con số 33 / Number 33",
-          "Hệ Quả / Consequences",
-          "Kết Luận / Conclusion",
-          "Related / Liên quan"
-        ],
-        "wikilinks": [
-          "Chimera",
-          "Gematria",
-          "Năng Lượng Tình Dục",
-          "Quy Luật Trao Đổi Tâm Linh",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tinh Khí Thần"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Chimera.md",
-          "esoterica/Gematria.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Tinh Khí Thần.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Kundalini.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Tinh Khí Thần.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 466,
-        "summary": "**S.E.X** theo quan điểm huyền học không chỉ là quan hệ thể xác, mà là viết tắt của **Sacred Energy eXchange** — Trao Đổi Năng Lượng Thiêng Liêng."
       },
       {
         "path": "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
@@ -5753,7 +5690,6 @@
         "backlinks": [
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/Chakra.md",
-          "esoterica/Kundalini.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Ma Trận.md",
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -6337,73 +6273,6 @@
         "summary": "**Plasma Quinton là nước biển được xử lý theo phương pháp René Quinton, thường được đọc trong health sovereignty như một cách hỗ trợ terrain khoáng chất và nội môi. Điểm cốt lõi không phải “nước biển chữa mọi bệnh”, mà là câu hỏi sâu hơn: cơ thể có thể tự sửa…"
       },
       {
-        "path": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "title": "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-        "domain": "health",
-        "tags": [
-          "health"
-        ],
-        "aliases": [],
-        "headings": [
-          "How To Read This / Cách Đọc Bài Này",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-          "Gut-Brain Axis",
-          "Enteric Nervous System (ENS)",
-          "Vagus Nerve Highway",
-          "Neurotransmitter Production",
-          "Microbiome = Inner Universe",
-          "Stats",
-          "Functions",
-          "Khi Gut Bị Phá Hoại",
-          "Nguyên nhân",
-          "Hậu quả",
-          "Ma Trận & Food System",
-          "Deliberate Destruction?",
-          "Why?",
-          "Phục Hồi Gut Health",
-          "Remove",
-          "Replace",
-          "Reinoculate",
-          "Repair",
-          "Spiritual Implications",
-          "Intuition",
-          "Vibration",
-          "Related"
-        ],
-        "wikilinks": [
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Ma Trận",
-          "MOC - Health Sovereignty",
-          "Plasma Quinton",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Trí Tuệ",
-          "Tuyến Tùng",
-          "Vận Chín, Người Kogi và Ma Trận Y Tế",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Plasma Quinton.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Tuyến Tùng.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên.md",
-          "mental-models/Trí Tuệ.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "backlinks": [
-          "esoterica/Chakra.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "words": 558,
-        "summary": "---"
-      },
-      {
         "path": "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
         "title": "Mebendazole — Thuốc Tẩy Giun Chống Ung Thư",
         "domain": "health",
@@ -6650,6 +6519,72 @@
         ],
         "backlinks": [],
         "words": 842,
+        "summary": "---"
+      },
+      {
+        "path": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "title": "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+        "domain": "health",
+        "tags": [
+          "health"
+        ],
+        "aliases": [],
+        "headings": [
+          "How To Read This / Cách Đọc Bài Này",
+          "Source Register / Nguồn Nên Đối Chiếu",
+          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+          "Gut-Brain Axis",
+          "Enteric Nervous System (ENS)",
+          "Vagus Nerve Highway",
+          "Neurotransmitter Production",
+          "Microbiome = Inner Universe",
+          "Stats",
+          "Functions",
+          "Khi Gut Bị Phá Hoại",
+          "Nguyên nhân",
+          "Hậu quả",
+          "Ma Trận & Food System",
+          "Deliberate Destruction?",
+          "Why?",
+          "Phục Hồi Gut Health",
+          "Remove",
+          "Replace",
+          "Reinoculate",
+          "Repair",
+          "Spiritual Implications",
+          "Intuition",
+          "Vibration",
+          "Related"
+        ],
+        "wikilinks": [
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "Ma Trận",
+          "MOC - Health Sovereignty",
+          "Plasma Quinton",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Trí Tuệ",
+          "Tuyến Tùng",
+          "Vận Chín, Người Kogi và Ma Trận Y Tế",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Plasma Quinton.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Tuyến Tùng.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "health/Y Tế Tự Nhiên.md",
+          "mental-models/Trí Tuệ.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "backlinks": [
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 558,
         "summary": "---"
       },
       {
@@ -7399,7 +7334,9 @@
         "backlinks": [
           "esoterica/Atula.md",
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Chakra.md",
           "esoterica/Gnosis.md",
+          "esoterica/Kundalini.md",
           "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Ma Trận.md",
@@ -7578,7 +7515,6 @@
         ],
         "backlinks": [
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Chakra.md",
           "esoterica/Gaia - Trái Đất Có Ý Thức.md",
           "esoterica/Gnosis.md",
           "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
@@ -8124,8 +8060,8 @@
         ],
         "backlinks": [
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Chakra.md",
           "esoterica/Chimera.md",
+          "esoterica/Kundalini.md",
           "esoterica/S.E.X.md",
           "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
           "esoterica/Tinh Khí Thần.md",
@@ -8362,6 +8298,69 @@
         "summary": "**Nguyên mẫu** là những hình ảnh và suy nghĩ mang ý nghĩa phổ quát qua nhiều nền văn hóa, xuất phát từ Vô Thức Tập Thể của nhân loại."
       },
       {
+        "path": "mental-models/Thông Minh vs Trí Tuệ.md",
+        "title": "Thông Minh vs Trí Tuệ",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model",
+          "philosophy"
+        ],
+        "aliases": [
+          "Intelligence vs Wisdom",
+          "Smart vs Wise"
+        ],
+        "headings": [
+          "Thông Minh vs Trí Tuệ (Intelligence vs Wisdom)",
+          "Tổng Quan / Overview",
+          "So Sánh Bản Chất / Fundamental Comparison",
+          "1. Trong Đối Nhân Xử Thế / In Interpersonal Dealings",
+          "2. Trong Y Tế & Sức Khỏe / In Healthcare",
+          "3. Trong Học Tập & Kiến Thức / In Learning",
+          "4. Trong Quan Niệm Giàu Có / Concepts of Wealth",
+          "Vì Sao Điều Này Quan Trọng? / Why This Matters",
+          "Trong Context [[Ma Trận]]",
+          "Trong [[Individuation]]",
+          "Practical: Nhận Diện / How to Recognize",
+          "Dấu hiệu của Thông Minh (chưa có Trí Tuệ)",
+          "Dấu hiệu của Trí Tuệ",
+          "Kết Luận / Conclusion",
+          "Related / Liên quan"
+        ],
+        "wikilinks": [
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Individuation",
+          "Ma Trận",
+          "Thông Minh",
+          "Trí Tuệ",
+          "Tư Duy Lũy Thừa",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Y Tế Tự Nhiên.md",
+          "mental-models/Individuation.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md"
+        ],
+        "backlinks": [
+          "esoterica/Atula.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "index.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        ],
+        "words": 800,
+        "summary": "Bài viết phân tích sự khác biệt bản chất giữa \"Thông minh\" (Intelligence) và \"Trí tuệ\" (Wisdom) thông qua nhiều khía cạnh của đời sống — từ cách đối nhân xử thế, kinh doanh đến chăm sóc sức khỏe và quan niệm về sự giàu có."
+      },
+      {
         "path": "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "title": "UBI Conditioning - The End of Work Ethic",
         "domain": "mental-models",
@@ -8444,68 +8443,6 @@
         "summary": "*UBI Conditioning: Gen Z And The End of Work Ethic*"
       },
       {
-        "path": "mental-models/Thông Minh vs Trí Tuệ.md",
-        "title": "Thông Minh vs Trí Tuệ",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model",
-          "philosophy"
-        ],
-        "aliases": [
-          "Intelligence vs Wisdom",
-          "Smart vs Wise"
-        ],
-        "headings": [
-          "Thông Minh vs Trí Tuệ (Intelligence vs Wisdom)",
-          "Tổng Quan / Overview",
-          "So Sánh Bản Chất / Fundamental Comparison",
-          "1. Trong Đối Nhân Xử Thế / In Interpersonal Dealings",
-          "2. Trong Y Tế & Sức Khỏe / In Healthcare",
-          "3. Trong Học Tập & Kiến Thức / In Learning",
-          "4. Trong Quan Niệm Giàu Có / Concepts of Wealth",
-          "Vì Sao Điều Này Quan Trọng? / Why This Matters",
-          "Trong Context [[Ma Trận]]",
-          "Trong [[Individuation]]",
-          "Practical: Nhận Diện / How to Recognize",
-          "Dấu hiệu của Thông Minh (chưa có Trí Tuệ)",
-          "Dấu hiệu của Trí Tuệ",
-          "Kết Luận / Conclusion",
-          "Related / Liên quan"
-        ],
-        "wikilinks": [
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Individuation",
-          "Ma Trận",
-          "Thông Minh",
-          "Trí Tuệ",
-          "Tư Duy Lũy Thừa",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Y Tế Tự Nhiên.md",
-          "mental-models/Individuation.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tư Duy Lũy Thừa.md"
-        ],
-        "backlinks": [
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "index.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-        ],
-        "words": 800,
-        "summary": "Bài viết phân tích sự khác biệt bản chất giữa \"Thông minh\" (Intelligence) và \"Trí tuệ\" (Wisdom) thông qua nhiều khía cạnh của đời sống — từ cách đối nhân xử thế, kinh doanh đến chăm sóc sức khỏe và quan niệm về sự giàu có."
-      },
-      {
         "path": "mental-models/Thông Minh.md",
         "title": "Thông Minh",
         "domain": "mental-models",
@@ -8557,6 +8494,74 @@
         ],
         "words": 329,
         "summary": "**Thông minh** là khả năng thu thập, xử lý thông tin, tính toán nhanh và phân tích sắc bén để giải quyết vấn đề. Khác với Trí Tuệ, thông minh thiên về logic và có thể được đo lường (IQ)."
+      },
+      {
+        "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "domain": "mental-models",
+        "tags": [
+          "matrix",
+          "mental-model",
+          "psychology",
+          "social-media"
+        ],
+        "aliases": [
+          "Attention Economy",
+          "Dopamine Economy",
+          "Kinh Tế Dopamine"
+        ],
+        "headings": [
+          "Dopamine Economy — Nền Kinh Tế Của Sự Thèm Muốn",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Dopamine Không Phải Hạnh Phúc",
+          "2. Attention Là Hàng Hóa",
+          "3. Variable Reward: Máy Đánh Bạc Trong Túi",
+          "4. Các Kênh Hijack Chính",
+          "Social Media",
+          "Porn",
+          "Food",
+          "Gaming / Gambling",
+          "News / Politics",
+          "5. Dopamine Và Loosh",
+          "6. Tại Sao Ý Chí Không Đủ?",
+          "7. Escape Strategy",
+          "1. Remove Cues",
+          "2. Restore Natural Rewards",
+          "3. Dopamine Fasting Đúng Nghĩa",
+          "4. Replace, Not Just Remove",
+          "8. Dấu Hiệu Đang Bị Kinh Tế Dopamine Nuốt",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Kiểm Soát Tâm Trí",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Ma Trận",
+          "Năng Lượng Tình Dục",
+          "Schadenfreude - Dopamine Phản Diện",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "index.md",
+          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md"
+        ],
+        "words": 892,
+        "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
       },
       {
         "path": "mental-models/Tư Duy Lũy Thừa.md",
@@ -8692,73 +8697,6 @@
         ],
         "words": 1513,
         "summary": "*Climate Anxiety as Control: When Fear Becomes a Tool*"
-      },
-      {
-        "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-        "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "domain": "mental-models",
-        "tags": [
-          "matrix",
-          "mental-model",
-          "psychology",
-          "social-media"
-        ],
-        "aliases": [
-          "Attention Economy",
-          "Dopamine Economy",
-          "Kinh Tế Dopamine"
-        ],
-        "headings": [
-          "Dopamine Economy — Nền Kinh Tế Của Sự Thèm Muốn",
-          "Vault Position / Vị Trí Trong Vault",
-          "1. Dopamine Không Phải Hạnh Phúc",
-          "2. Attention Là Hàng Hóa",
-          "3. Variable Reward: Máy Đánh Bạc Trong Túi",
-          "4. Các Kênh Hijack Chính",
-          "Social Media",
-          "Porn",
-          "Food",
-          "Gaming / Gambling",
-          "News / Politics",
-          "5. Dopamine Và Loosh",
-          "6. Tại Sao Ý Chí Không Đủ?",
-          "7. Escape Strategy",
-          "1. Remove Cues",
-          "2. Restore Natural Rewards",
-          "3. Dopamine Fasting Đúng Nghĩa",
-          "4. Replace, Not Just Remove",
-          "8. Dấu Hiệu Đang Bị Kinh Tế Dopamine Nuốt",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bộ Não Rỗng và AI Brain Rot",
-          "Kiểm Soát Tâm Trí",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "Ma Trận",
-          "Năng Lượng Tình Dục",
-          "Schadenfreude - Dopamine Phản Diện",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "index.md",
-          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md"
-        ],
-        "words": 892,
-        "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
       },
       {
         "path": "mental-models/Schadenfreude - Dopamine Phản Diện.md",
@@ -9333,10 +9271,10 @@
           "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
           "esoterica/Annunaki.md",
           "esoterica/Atlantis.md",
+          "esoterica/Atula.md",
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
           "esoterica/Biểu Tượng Baphomet.md",
           "esoterica/Cabal.md",
-          "esoterica/Chakra.md",
           "esoterica/Chimera.md",
           "esoterica/Chu Kỳ Hoàng Đạo.md",
           "esoterica/Dịch Chuyển Cực.md",
@@ -9469,7 +9407,6 @@
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
           "esoterica/Cabal.md",
-          "esoterica/Chakra.md",
           "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
           "esoterica/Ma Trận.md",
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -9896,6 +9833,7 @@
           "science-tech/Khoa Học Xét Lại.md"
         ],
         "backlinks": [
+          "esoterica/Atula.md",
           "index.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Elite.md",
@@ -12187,7 +12125,6 @@
         ],
         "backlinks": [
           "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-          "esoterica/Chakra.md",
           "esoterica/Gaia - Trái Đất Có Ý Thức.md",
           "esoterica/Long Mạch.md",
           "esoterica/Một Đời Phù Vân.md",
@@ -13177,7 +13114,6 @@
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Kundalini.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Luân Hồi.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
@@ -13390,10 +13326,10 @@
         "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
         "esoterica/Annunaki.md",
         "esoterica/Atlantis.md",
+        "esoterica/Atula.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Biểu Tượng Baphomet.md",
         "esoterica/Cabal.md",
-        "esoterica/Chakra.md",
         "esoterica/Chimera.md",
         "esoterica/Chu Kỳ Hoàng Đạo.md",
         "esoterica/Dịch Chuyển Cực.md",
@@ -14079,7 +14015,6 @@
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
         "esoterica/Cabal.md",
-        "esoterica/Chakra.md",
         "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
         "esoterica/Ma Trận.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -14193,10 +14128,10 @@
       "backlinks": [
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-        "esoterica/Atula.md",
         "esoterica/Chakra.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Kundalini.md",
         "esoterica/Kỹ Thuật Thiền Định Kogi.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Luân Hồi.md",
@@ -14231,105 +14166,6 @@
       ],
       "words": 1883,
       "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
-    },
-    {
-      "path": "health/Y Tế Tự Nhiên.md",
-      "title": "Y Tế Tự Nhiên",
-      "domain": "health",
-      "tags": [
-        "health"
-      ],
-      "aliases": [],
-      "headings": [
-        "How To Read This / Cách Đọc Bài Này",
-        "Source Register / Nguồn Nên Đối Chiếu",
-        "Y Tế Tự Nhiên (Anti-Matrix Health)",
-        "Nguyên lý Cốt lõi / Core Principles",
-        "1. Kiềm hóa Cơ thể / Alkalize the Body",
-        "2. Dinh dưỡng Nguyên bản / Whole Foods",
-        "3. Máu Huyết Lưu thông / Blood Circulation",
-        "4. Từ bỏ Phụ thuộc Tây Y / Reject Pharma Dependency",
-        "Sự thật Bị che giấu / Hidden Truths",
-        "Tiểu đường / Diabetes",
-        "Muối / Salt",
-        "Cao huyết áp / High Blood Pressure",
-        "Liệu pháp / Protocols",
-        "Morning / Evening Salt Protocol",
-        "Daily Detox",
-        "Related",
-        "Health / Sức khỏe",
-        "Matrix Connection",
-        "Mindset"
-      ],
-      "wikilinks": [
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
-        "MOC - Health Sovereignty",
-        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-        "Plasma Quinton",
-        "Suy Thận",
-        "Sợ hãi - Tham Lam – Cân bằng",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
-        "Vận Chín, Người Kogi và Ma Trận Y Tế",
-        "Y Tế Tự Nhiên",
-        "Điều mà nền giáo dục và chính phủ không dạy bạn"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
-        "health/Suy Thận.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "MOC - Health Sovereignty.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
-      ],
-      "backlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Chakra.md",
-        "esoterica/Kundalini.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-        "health/Bệnh Bạch Cầu.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/Ketogenic Diet.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
-        "health/Prolonged Fasting.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Suramin.md",
-        "health/Suy Thận.md",
-        "health/The China Study.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Virus và Kiếp Tật Dịch.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "index.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "MOC - Health Sovereignty.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 715,
-      "summary": "---"
     },
     {
       "path": "politics-conspiracy/Báo Cáo 2030.md",
@@ -14436,6 +14272,104 @@
       "summary": "**Báo cáo 2030** (Agenda 2030 / The Great Reset) phác thảo lộ trình chuyển đổi toàn cầu về kinh tế, chính trị, y tế và xã hội. Dưới góc nhìn Khoa Học Xét Lại, đây không chỉ là mục tiêu phát triển bền vững, mà là kế hoạch tái cấu trúc nhân loại."
     },
     {
+      "path": "health/Y Tế Tự Nhiên.md",
+      "title": "Y Tế Tự Nhiên",
+      "domain": "health",
+      "tags": [
+        "health"
+      ],
+      "aliases": [],
+      "headings": [
+        "How To Read This / Cách Đọc Bài Này",
+        "Source Register / Nguồn Nên Đối Chiếu",
+        "Y Tế Tự Nhiên (Anti-Matrix Health)",
+        "Nguyên lý Cốt lõi / Core Principles",
+        "1. Kiềm hóa Cơ thể / Alkalize the Body",
+        "2. Dinh dưỡng Nguyên bản / Whole Foods",
+        "3. Máu Huyết Lưu thông / Blood Circulation",
+        "4. Từ bỏ Phụ thuộc Tây Y / Reject Pharma Dependency",
+        "Sự thật Bị che giấu / Hidden Truths",
+        "Tiểu đường / Diabetes",
+        "Muối / Salt",
+        "Cao huyết áp / High Blood Pressure",
+        "Liệu pháp / Protocols",
+        "Morning / Evening Salt Protocol",
+        "Daily Detox",
+        "Related",
+        "Health / Sức khỏe",
+        "Matrix Connection",
+        "Mindset"
+      ],
+      "wikilinks": [
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
+        "MOC - Health Sovereignty",
+        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "Plasma Quinton",
+        "Suy Thận",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Thuyết Vi Sinh Nội Sinh",
+        "Thuốc Hóa Dầu",
+        "Vận Chín, Người Kogi và Ma Trận Y Tế",
+        "Y Tế Tự Nhiên",
+        "Điều mà nền giáo dục và chính phủ không dạy bạn"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/Plasma Quinton.md",
+        "health/Suy Thận.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "MOC - Health Sovereignty.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
+      ],
+      "backlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Chakra.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "health/Bệnh Bạch Cầu.md",
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/Plasma Quinton.md",
+        "health/Prolonged Fasting.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Su That Ve Benh Dai Va Vac Xin.md",
+        "health/Suramin.md",
+        "health/Suy Thận.md",
+        "health/The China Study.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+        "health/Ung Thư - Metabolic Protocol.md",
+        "health/Virus và Kiếp Tật Dịch.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "index.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "MOC - Health Sovereignty.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "words": 715,
+      "summary": "---"
+    },
+    {
       "path": "mental-models/Individuation.md",
       "title": "Individuation",
       "domain": "mental-models",
@@ -14487,7 +14421,9 @@
       "backlinks": [
         "esoterica/Atula.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Chakra.md",
         "esoterica/Gnosis.md",
+        "esoterica/Kundalini.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
@@ -15494,85 +15430,6 @@
       "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
     },
     {
-      "path": "mental-models/Vô Thức Tập Thể.md",
-      "title": "Vô Thức Tập Thể",
-      "domain": "mental-models",
-      "tags": [
-        "consciousness",
-        "jung",
-        "mental-model"
-      ],
-      "aliases": [
-        "Akashic Records",
-        "Collective Unconscious",
-        "Vô Thức Tập Thể (Akashic Records)"
-      ],
-      "headings": [
-        "Vô Thức Tập Thể (Collective Unconscious)",
-        "Vault Position / Vị Trí Trong Vault",
-        "1. Jung Nói Gì?",
-        "2. Archetype Là Gì?",
-        "3. Dream, Myth Và Culture",
-        "4. Akashic Records Connection",
-        "5. Thiên Tài Và “Download”",
-        "6. Ma Trận Và Vô Thức Tập Thể",
-        "7. Individuation Là Cách Lấy Lại Quyền Truy Cập",
-        "Practice / Thực Hành",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "Gnosis",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Individuation",
-        "Ma Trận",
-        "Monad",
-        "Nguyên Mẫu",
-        "Năng Lượng Aether",
-        "Tâm Lý Học Jung"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Gnosis.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "mental-models/Individuation.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "science-tech/Năng Lượng Aether.md"
-      ],
-      "backlinks": [
-        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "esoterica/Chakra.md",
-        "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-        "esoterica/Monad.md",
-        "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/Sacred Geometry.md",
-        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-        "health/Tuyến Tùng.md",
-        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-        "index.md",
-        "mental-models/Individuation.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "MOC - Esoterica & Consciousness.md",
-        "science-tech/Nikola Tesla.md"
-      ],
-      "words": 896,
-      "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
-    },
-    {
       "path": "health/Tuyến Tùng.md",
       "title": "Tuyến Tùng",
       "domain": "health",
@@ -15753,6 +15610,84 @@
       ],
       "words": 1285,
       "summary": "---"
+    },
+    {
+      "path": "mental-models/Vô Thức Tập Thể.md",
+      "title": "Vô Thức Tập Thể",
+      "domain": "mental-models",
+      "tags": [
+        "consciousness",
+        "jung",
+        "mental-model"
+      ],
+      "aliases": [
+        "Akashic Records",
+        "Collective Unconscious",
+        "Vô Thức Tập Thể (Akashic Records)"
+      ],
+      "headings": [
+        "Vô Thức Tập Thể (Collective Unconscious)",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Jung Nói Gì?",
+        "2. Archetype Là Gì?",
+        "3. Dream, Myth Và Culture",
+        "4. Akashic Records Connection",
+        "5. Thiên Tài Và “Download”",
+        "6. Ma Trận Và Vô Thức Tập Thể",
+        "7. Individuation Là Cách Lấy Lại Quyền Truy Cập",
+        "Practice / Thực Hành",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "Gnosis",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Individuation",
+        "Ma Trận",
+        "Monad",
+        "Nguyên Mẫu",
+        "Năng Lượng Aether",
+        "Tâm Lý Học Jung"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "science-tech/Năng Lượng Aether.md"
+      ],
+      "backlinks": [
+        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Monad.md",
+        "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+        "health/Tuyến Tùng.md",
+        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+        "index.md",
+        "mental-models/Individuation.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "MOC - Esoterica & Consciousness.md",
+        "science-tech/Nikola Tesla.md"
+      ],
+      "words": 896,
+      "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
     },
     {
       "path": "mental-models/Trí Tuệ.md",
@@ -16266,7 +16201,7 @@
     ],
     [
       "consciousness",
-      19
+      20
     ],
     [
       "source-note",
@@ -16317,6 +16252,10 @@
       5
     ],
     [
+      "energy",
+      5
+    ],
+    [
       "mind-control",
       5
     ],
@@ -16338,10 +16277,6 @@
     ],
     [
       "cosmology",
-      4
-    ],
-    [
-      "energy",
       4
     ],
     [
@@ -18087,58 +18022,43 @@
       ],
       "headings": [
         "Atula / Asura (A-tu-la)",
-        "Trong 6 Cõi Luân Hồi / In the 6 Realms of Samsara",
-        "Vị Trí Đặc Biệt Của Atula / Special Position of Asura",
-        "Đặc Điểm Cõi Asura / Characteristics of the Asura Realm",
-        "Sức Mạnh / Strengths",
-        "Nhược Điểm / Weaknesses",
-        "Cuộc Chiến Deva-Asura / The Deva-Asura War",
-        "Atula Tác Động Đến Thế Giới Con Người / Asura Influence on Human World",
-        "Giả Thuyết: Tầng Gần Nhất / Hypothesis: The Closest Layer",
-        "Bằng Chứng Gián Tiếp / Indirect Evidence",
-        "Connection với [[Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh]]",
-        "Asura Trong Các Văn Hóa / Asura Across Cultures",
-        "Zoroastrian Reversal / Đảo Ngược Zoroastrian",
-        "Atula và AI / Asura and AI",
-        "AI Như Biểu Hiện Asura Intelligence / AI as Asura Intelligence Manifestation",
-        "The Test / Bài Thi",
-        "Ứng Sinh Cõi Asura / Rebirth in Asura Realm",
-        "Nguyên Nhân / Causes",
-        "Modern Asura Types / Dạng Asura Hiện Đại",
-        "Thoát Khỏi Asura Energy / Escaping Asura Energy",
-        "Nhận Biết / Recognition",
-        "Chuyển Hóa / Transformation",
-        "Thoát Khỏi Influence / Escaping Influence",
-        "Connection với Ma Trận Đa Tầng",
-        "Related / Liên quan",
-        "Core",
-        "Entities",
-        "Intelligence",
-        "Escape"
+        "Evidence Discipline / Cách Đọc",
+        "Vault Position / Vị Trí Trong Vault",
+        "Atula Trong Sáu Cõi / Asura In The Six Realms",
+        "Tâm Lý Asura / The Asura Psychology",
+        "Deva-Asura War / Cuộc Chiến Không Dứt",
+        "Asura Trong Thế Giới Hiện Đại",
+        "Loosh Và Nền Kinh Tế Xung Đột",
+        "Atula Và AI",
+        "Nhận Diện Asura Trong Chính Mình",
+        "Chuyển Hóa / Antidote",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
         "AI",
-        "Gnosis",
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Elite",
         "Individuation",
         "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
         "Luân Hồi",
         "Ma Trận - Giải Phẫu Hoàn Chỉnh",
         "Thông Minh",
-        "Thực Thể Cõi Trung Giới",
+        "Thông Minh vs Trí Tuệ",
         "Trí Tuệ",
         "Vũ Trụ Học Phật Giáo"
       ],
       "mdlinks": [],
       "outlinks": [
-        "esoterica/Gnosis.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Luân Hồi.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Thực Thể Cõi Trung Giới.md",
         "esoterica/Vũ Trụ Học Phật Giáo.md",
         "mental-models/Individuation.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Thông Minh.md",
         "mental-models/Trí Tuệ.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Elite.md",
         "science-tech/AI.md"
       ],
       "backlinks": [
@@ -18149,8 +18069,8 @@
         "science-tech/AI.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
       ],
-      "words": 1378,
-      "summary": "**Atula** (Sanskrit: Asura, Pali: Asura) là một trong 6 cõi Luân Hồi theo Phật giáo. Cõi của những thực thể có phước đức lớn nhưng tâm còn nhiều sân hận, kiêu mạn, hiếu chiến."
+      "words": 1154,
+      "summary": "**Atula là archetype của quyền lực có phước nhưng thiếu an định: mạnh, thông minh, tham vọng, hiếu thắng, nhưng bị ganh tị và chiến tranh nội tâm kéo đi.** Trong vault, Atula không chỉ là một \"cõi\" trong Luân Hồi, mà là mô hình đọc phần Asura trong cá nhân, t…"
     },
     "esoterica/Avatar - Disclosure Của Eywa & Gaia.md": {
       "path": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
@@ -18484,6 +18404,8 @@
       "title": "Chakra (Luân Xa)",
       "domain": "esoterica",
       "tags": [
+        "consciousness",
+        "energy",
         "esoterica"
       ],
       "aliases": [
@@ -18493,82 +18415,49 @@
       ],
       "headings": [
         "Chakra (Luân Xa)",
-        "7 Chakra Chính / The 7 Main Chakras",
-        "Chi Tiết 7 Chakra / Detailed 7 Chakras",
-        "1. Muladhara — Luân Xa Gốc / Root Chakra",
-        "Đặc điểm / Characteristics",
-        "Khi Cân Bằng / When Balanced",
-        "Khi Mất Cân Bằng / When Imbalanced",
-        "2. Svadhisthana — Luân Xa Xương Cùng / Sacral Chakra",
-        "Đặc điểm / Characteristics",
-        "Liên Kết Với / Connected To",
-        "Khi Mất Cân Bằng / When Imbalanced",
-        "3. Manipura — Luân Xa Rốn / Solar Plexus Chakra",
-        "Đặc điểm / Characteristics",
-        "Liên Kết Với / Connected To",
-        "4. Anahata — Luân Xa Tim / Heart Chakra",
-        "Đặc điểm / Characteristics",
-        "Liên Kết Với / Connected To",
-        "5. Vishuddha — Luân Xa Cổ Họng / Throat Chakra",
-        "Đặc điểm / Characteristics",
-        "Liên Kết Với / Connected To",
-        "6. Ajna — Luân Xa Con Mắt Thứ Ba / Third Eye Chakra",
-        "Đặc điểm / Characteristics",
-        "Liên Kết Với / Connected To",
-        "7. Sahasrara — Luân Xa Đỉnh / Crown Chakra",
-        "Đặc điểm / Characteristics",
-        "Liên Kết Với / Connected To",
-        "Kundalini — Năng Lượng Rắn Lửa",
-        "Cảnh Báo / Warning",
-        "Ma Trận Khai Thác Chakra / Matrix Exploitation",
-        "Thực Hành Cân Bằng / Balancing Practices",
-        "Thiền Định / Meditation",
-        "Âm Thanh / Sound",
-        "Thể Chất / Physical",
-        "Lối Sống / Lifestyle",
-        "Related",
-        "Năng Lượng / Energy",
-        "Tâm Linh / Spirituality",
-        "Ma Trận / Matrix"
+        "Vault Position / Vị Trí Trong Vault",
+        "Evidence Discipline / Kỷ Luật Đọc",
+        "Trục Bảy Chakra / The Seven-Center Axis",
+        "Ba Tầng Dưới / Survival, Desire, Will",
+        "Tim Là Cầu / Heart As Bridge",
+        "Ba Tầng Trên / Speech, Vision, Unity",
+        "Kundalini Và Trục Thức Tỉnh",
+        "Matrix Exploitation / Cách Ma Trận Kéo Năng Lượng Xuống",
+        "Thực Hành An Toàn / Practical Grounding",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
-        "Elite",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "Gnosis",
-        "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-        "Kiểm Soát Tâm Trí",
+        "Individuation",
+        "Kundalini",
         "Kỹ Thuật Thiền Định Kogi",
         "Ma Trận",
         "Năng Lượng Tình Dục",
-        "S.E.X Và Tâm Lý Học Jung",
+        "S.E.X",
         "Sự Nhất Thể",
         "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-        "Thực Thể Cõi Trung Giới",
         "Tinh Khí Thần",
         "Tuyến Tùng",
         "Tình Yêu Tỉnh Thức",
-        "Tần Số Schumann",
-        "Vô Thức Tập Thể",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/Gnosis.md",
+        "esoterica/Kundalini.md",
         "esoterica/Kỹ Thuật Thiền Định Kogi.md",
         "esoterica/Ma Trận.md",
         "esoterica/Năng Lượng Tình Dục.md",
+        "esoterica/S.E.X.md",
         "esoterica/Sự Nhất Thể.md",
-        "esoterica/Thực Thể Cõi Trung Giới.md",
         "esoterica/Tinh Khí Thần.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
         "health/Tuyến Tùng.md",
         "health/Y Tế Tự Nhiên.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-        "science-tech/Tần Số Schumann.md"
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Individuation.md",
+        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
       "backlinks": [
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
@@ -18578,8 +18467,8 @@
         "index.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
-      "words": 1331,
-      "summary": "**Chakra** (Sanskrit: चक्र = \"bánh xe\") là các trung tâm năng lượng trong cơ thể con người theo truyền thống Ấn Độ giáo và Phật giáo. Có 7 chakra chính chạy dọc cột sống, mỗi chakra liên kết với các khía cạnh khác nhau của thể chất, cảm xúc và tâm linh."
+      "words": 1297,
+      "summary": "**Chakra là bản đồ đọc con người như một trục năng lượng sống: từ bản năng sinh tồn ở thân dưới, qua tim, tiếng nói, trực giác, rồi lên ý thức hợp nhất.** Trong vault, chakra không được dùng như \"y học chính thống\", mà như ngôn ngữ biểu tượng để nối Kundalini…"
     },
     "esoterica/Chimera.md": {
       "path": "esoterica/Chimera.md",
@@ -19042,10 +18931,10 @@
       "backlinks": [
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-        "esoterica/Atula.md",
         "esoterica/Chakra.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Kundalini.md",
         "esoterica/Kỹ Thuật Thiền Định Kogi.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Luân Hồi.md",
@@ -19392,67 +19281,52 @@
       ],
       "headings": [
         "Kundalini — Năng Lượng Rắn Thiêng",
-        "Biểu Tượng / Symbolism",
-        "Con Rắn Cuộn / The Coiled Serpent",
-        "Parallels Trong Các Văn Hóa / Cross-Cultural Parallels",
-        "Cơ Chế / Mechanism",
-        "Kundalini Ngủ / Dormant Kundalini",
-        "Kundalini Thức Tỉnh / Awakened Kundalini",
-        "Qua Từng Chakra / Through Each Chakra",
-        "Connection: [[Năng Lượng Tình Dục]] / Sexual Energy Connection",
-        "Thực Hành / Practice",
-        "Cách Đánh Thức / Methods of Awakening",
-        "1. Yoga Kundalini",
-        "2. Thiền Định / Meditation",
-        "3. Tantric Practices",
-        "4. Spontaneous Awakening",
-        "Triệu Chứng Kundalini Thức Tỉnh / Symptoms of Kundalini Awakening",
-        "Tích Cực / Positive",
-        "Tiêu Cực (Kundalini Syndrome) / Negative (Kundalini Syndrome)",
-        "Connection: [[Ma Trận]] và Kundalini / Matrix and Kundalini",
-        "Tại Sao Ma Trận Muốn Kundalini Ngủ? / Why Does the Matrix Want Kundalini Dormant?",
-        "Các Cách Ma Trận Giữ Kundalini Ngủ / How Matrix Keeps Kundalini Dormant",
-        "Thực Hành An Toàn / Safe Practice",
-        "Chuẩn Bị / Preparation",
-        "Nguyên Tắc / Principles",
-        "Related / Liên quan",
-        "Energy",
-        "Anatomy",
-        "Practice",
-        "Matrix"
+        "How To Read This / Cách Đọc",
+        "Vault Position / Vị Trí Trong Vault",
+        "Biểu Tượng Rắn Cuộn / The Coiled Serpent",
+        "Sexual Energy Là Nhiên Liệu Thô",
+        "Ba Kênh: Ida, Pingala, Sushumna",
+        "Awakening Không Phải Performance",
+        "Kundalini Syndrome / Khi Năng Lượng Vượt Container",
+        "Matrix Và Năng Lượng Ngủ",
+        "Practice: Từ Dưới Lên, Không Nhảy Cóc",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
         "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
         "Chakra",
-        "Ma Trận",
+        "Gnosis",
+        "Individuation",
         "Ma Trận - Giải Phẫu Hoàn Chỉnh",
         "Năng Lượng Tình Dục",
         "S.E.X",
+        "S.E.X Và Tâm Lý Học Jung",
         "Sự Thật Đen Tối Về Phim Khiêu Dâm",
         "Tinh Khí Thần",
-        "Tuyến Tùng",
-        "Y Tế Tự Nhiên"
+        "Tuyến Tùng"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
         "esoterica/Chakra.md",
+        "esoterica/Gnosis.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
         "esoterica/Năng Lượng Tình Dục.md",
         "esoterica/S.E.X.md",
         "esoterica/Tinh Khí Thần.md",
         "health/Tuyến Tùng.md",
-        "health/Y Tế Tự Nhiên.md",
+        "mental-models/Individuation.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
       "backlinks": [
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Chakra.md",
         "index.md"
       ],
-      "words": 1103,
-      "summary": "**Kundalini** (Sanskrit: कुण्डलिनी, \"cuộn tròn như rắn\") là khái niệm trong truyền thống Hindu và Tantra, mô tả năng lượng tâm linh tiềm ẩn nằm ở đáy cột sống (Muladhara chakra). Khi được đánh thức, nó đi lên dọc theo cột sống qua các Chakra, dẫn đến sự thức…"
+      "words": 1186,
+      "summary": "**Kundalini là ngôn ngữ cổ để nói về sinh lực nguyên thủy khi nó không chỉ phục vụ sinh tồn và tình dục, mà được chuyển hóa thành ý thức, trực giác và hiện diện.** Trong vault, Kundalini là cầu nối giữa Chakra, Năng Lượng Tình Dục, Tinh Khí Thần, Tuyến Tùng v…"
     },
     "esoterica/Kỹ Thuật Thiền Định Kogi.md": {
       "path": "esoterica/Kỹ Thuật Thiền Định Kogi.md",
@@ -20168,7 +20042,6 @@
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Kundalini.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Luân Hồi.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
@@ -21401,6 +21274,7 @@
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
       "backlinks": [
+        "esoterica/Chakra.md",
         "esoterica/Kundalini.md",
         "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
         "esoterica/Tinh Khí Thần.md",
@@ -22274,8 +22148,6 @@
       ],
       "backlinks": [
         "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-        "esoterica/Atula.md",
-        "esoterica/Chakra.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Năng Lượng Tình Dục.md",
@@ -23165,7 +23037,6 @@
         "MOC - Health Sovereignty.md"
       ],
       "backlinks": [
-        "esoterica/Chakra.md",
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "mental-models/Tâm Lý Học Jung.md",
         "MOC - Health Sovereignty.md"
@@ -24506,7 +24377,6 @@
       "backlinks": [
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Chakra.md",
-        "esoterica/Kundalini.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -25086,6 +24956,7 @@
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
       "backlinks": [
+        "esoterica/Chakra.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
         "index.md",
@@ -25226,7 +25097,9 @@
       "backlinks": [
         "esoterica/Atula.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Chakra.md",
         "esoterica/Gnosis.md",
+        "esoterica/Kundalini.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
@@ -25788,8 +25661,8 @@
       ],
       "backlinks": [
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "esoterica/Chakra.md",
         "esoterica/Chimera.md",
+        "esoterica/Kundalini.md",
         "esoterica/S.E.X.md",
         "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
         "esoterica/Tinh Khí Thần.md",
@@ -26012,6 +25885,7 @@
         "mental-models/Tư Duy Lũy Thừa.md"
       ],
       "backlinks": [
+        "esoterica/Atula.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "index.md",
         "mental-models/Mental Model.md",
@@ -26617,7 +26491,6 @@
       ],
       "backlinks": [
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "esoterica/Chakra.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gnosis.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
@@ -26971,6 +26844,7 @@
         "science-tech/Khoa Học Xét Lại.md"
       ],
       "backlinks": [
+        "esoterica/Atula.md",
         "index.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Elite.md",
@@ -27249,10 +27123,10 @@
         "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
         "esoterica/Annunaki.md",
         "esoterica/Atlantis.md",
+        "esoterica/Atula.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Biểu Tượng Baphomet.md",
         "esoterica/Cabal.md",
-        "esoterica/Chakra.md",
         "esoterica/Chimera.md",
         "esoterica/Chu Kỳ Hoàng Đạo.md",
         "esoterica/Dịch Chuyển Cực.md",
@@ -27456,7 +27330,6 @@
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
         "esoterica/Cabal.md",
-        "esoterica/Chakra.md",
         "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
         "esoterica/Ma Trận.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -29541,7 +29414,6 @@
       ],
       "backlinks": [
         "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-        "esoterica/Chakra.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Long Mạch.md",
         "esoterica/Một Đời Phù Vân.md",

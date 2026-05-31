@@ -118,8 +118,11 @@ class Note:
 def collect_files() -> list[Path]:
     files = []
     for p in ROOT.rglob("*.md"):
-        parts = set(p.relative_to(ROOT).parts)
+        rel_parts = p.relative_to(ROOT).parts
+        parts = set(rel_parts)
         if parts & EXCLUDE_DIRS:
+            continue
+        if any(part.startswith(".") for part in rel_parts):
             continue
         if p == OUT_MD:
             continue
