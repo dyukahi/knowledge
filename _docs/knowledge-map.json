@@ -10,8 +10,8 @@
       "politics-conspiracy": 23,
       "science-tech": 16
     },
-    "tags": 177,
-    "wikilinkEdges": 1692,
+    "tags": 180,
+    "wikilinkEdges": 1693,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -1033,6 +1033,7 @@
           "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Ma Trận.md",
+          "esoterica/Manly P. Hall.md",
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
           "esoterica/Monad.md",
           "esoterica/Một Đời Phù Vân.md",
@@ -1399,6 +1400,7 @@
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Núi Tu Di.md",
           "esoterica/Nỏ Thần.md",
+          "esoterica/Phong Thủy.md",
           "esoterica/Tartaria và Vạn Lý Trường Thành.md",
           "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
           "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
@@ -1583,6 +1585,7 @@
           "esoterica/Ma Trận.md",
           "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
           "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Tà Linh.md",
           "index.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -2050,67 +2053,6 @@
         "summary": "**Avatar** (2009, 2022, 2025) của James Cameron không chỉ là blockbuster sci-fi. Đây là **disclosure** — trình bày công khai các khái niệm esoteric dưới vỏ bọc \"entertainment\"."
       },
       {
-        "path": "esoterica/Năng Lượng Tình Dục.md",
-        "title": "Năng Lượng Tình Dục",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Creative Energy",
-          "Sex Force",
-          "Sexual Energy"
-        ],
-        "headings": [
-          "Năng Lượng Tình Dục (Sexual Energy)",
-          "Sự Bòn Rút / The Extraction",
-          "Sự Chuyển Hóa / Transmutation",
-          "Con đường thăng hoa / The Path of Sublimation",
-          "Kết quả / Results",
-          "Ứng dụng thực tế / Practical Application",
-          "Related"
-        ],
-        "wikilinks": [
-          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
-          "Ma Trận",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Thuật Giả Kim Của Newton",
-          "Thực Thể Cõi Trung Giới",
-          "Tinh Khí Thần",
-          "Trí Tuệ",
-          "Tuyến Tùng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Thuật Giả Kim Của Newton.md",
-          "esoterica/Thực Thể Cõi Trung Giới.md",
-          "esoterica/Tinh Khí Thần.md",
-          "health/Tuyến Tùng.md",
-          "mental-models/Trí Tuệ.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Chakra.md",
-          "esoterica/Chimera.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Thực Thể Cõi Trung Giới.md",
-          "esoterica/Tinh Khí Thần.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "politics-conspiracy/MindGeek.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 386,
-        "summary": "**Năng Lượng Tình Dục** (Sexual Energy/Sex Force) không chỉ phục vụ mục đích sinh sản mà còn là nguồn năng lượng sáng tạo (Creative Energy) và sinh lực cốt lõi mạnh mẽ nhất của con người."
-      },
-      {
         "path": "esoterica/Tinh Khí Thần.md",
         "title": "Tinh Khí Thần",
         "domain": "esoterica",
@@ -2181,6 +2123,78 @@
         ],
         "words": 874,
         "summary": "**Tinh Khí Thần là Tam Bảo của con người trong Đạo gia: Tinh là essence/sinh lực gốc, Khí là dòng năng lượng vận hành, Thần là clarity/consciousness. Đây không phải ba “chất” tách rời, mà là ba tầng chuyển hóa của cùng một sinh lực.**"
+      },
+      {
+        "path": "esoterica/Chakra.md",
+        "title": "Chakra (Luân Xa)",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "energy",
+          "esoterica"
+        ],
+        "aliases": [
+          "Chakra",
+          "Energy Centers",
+          "Luân Xa"
+        ],
+        "headings": [
+          "Chakra (Luân Xa)",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Kỷ Luật Đọc",
+          "Trục Bảy Chakra / The Seven-Center Axis",
+          "Ba Tầng Dưới / Survival, Desire, Will",
+          "Tim Là Cầu / Heart As Bridge",
+          "Ba Tầng Trên / Speech, Vision, Unity",
+          "Kundalini Và Trục Thức Tỉnh",
+          "Matrix Exploitation / Cách Ma Trận Kéo Năng Lượng Xuống",
+          "Thực Hành An Toàn / Practical Grounding",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Gnosis",
+          "Individuation",
+          "Kundalini",
+          "Kỹ Thuật Thiền Định Kogi",
+          "Ma Trận",
+          "Năng Lượng Tình Dục",
+          "S.E.X",
+          "Sự Nhất Thể",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tinh Khí Thần",
+          "Tuyến Tùng",
+          "Tình Yêu Tỉnh Thức",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Tinh Khí Thần.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "health/Tuyến Tùng.md",
+          "health/Y Tế Tự Nhiên.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Individuation.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Sacred Geometry.md",
+          "index.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "words": 1297,
+        "summary": "**Chakra là bản đồ đọc con người như một trục năng lượng sống: từ bản năng sinh tồn ở thân dưới, qua tim, tiếng nói, trực giác, rồi lên ý thức hợp nhất.** Trong vault, chakra không được dùng như \"y học chính thống\", mà như ngôn ngữ biểu tượng để nối Kundalini…"
       },
       {
         "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -2350,77 +2364,6 @@
         ],
         "words": 3356,
         "summary": "Năm 1859, Charles Darwin xuất bản \"On the Origin of Species\" và thay đổi vĩnh viễn cách nhân loại nhìn nhận bản thân. Từ đó, chúng ta được dạy rằng con người là sản phẩm của hàng triệu năm tiến hóa ngẫu nhiên, từ vi khuẩn đơn bào leo lên thành vượn, rồi từ vư…"
-      },
-      {
-        "path": "esoterica/Chakra.md",
-        "title": "Chakra (Luân Xa)",
-        "domain": "esoterica",
-        "tags": [
-          "consciousness",
-          "energy",
-          "esoterica"
-        ],
-        "aliases": [
-          "Chakra",
-          "Energy Centers",
-          "Luân Xa"
-        ],
-        "headings": [
-          "Chakra (Luân Xa)",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Kỷ Luật Đọc",
-          "Trục Bảy Chakra / The Seven-Center Axis",
-          "Ba Tầng Dưới / Survival, Desire, Will",
-          "Tim Là Cầu / Heart As Bridge",
-          "Ba Tầng Trên / Speech, Vision, Unity",
-          "Kundalini Và Trục Thức Tỉnh",
-          "Matrix Exploitation / Cách Ma Trận Kéo Năng Lượng Xuống",
-          "Thực Hành An Toàn / Practical Grounding",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Gnosis",
-          "Individuation",
-          "Kundalini",
-          "Kỹ Thuật Thiền Định Kogi",
-          "Ma Trận",
-          "Năng Lượng Tình Dục",
-          "S.E.X",
-          "Sự Nhất Thể",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tinh Khí Thần",
-          "Tuyến Tùng",
-          "Tình Yêu Tỉnh Thức",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Tinh Khí Thần.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "health/Tuyến Tùng.md",
-          "health/Y Tế Tự Nhiên.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Individuation.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Sacred Geometry.md",
-          "index.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 1297,
-        "summary": "**Chakra là bản đồ đọc con người như một trục năng lượng sống: từ bản năng sinh tồn ở thân dưới, qua tim, tiếng nói, trực giác, rồi lên ý thức hợp nhất.** Trong vault, chakra không được dùng như \"y học chính thống\", mà như ngôn ngữ biểu tượng để nối Kundalini…"
       },
       {
         "path": "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
@@ -2635,6 +2578,69 @@
         ],
         "words": 8643,
         "summary": "*A Life Like Floating Clouds — The Story of an Ordinary Man*"
+      },
+      {
+        "path": "esoterica/Năng Lượng Tình Dục.md",
+        "title": "Năng Lượng Tình Dục",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "esoterica",
+          "transmutation"
+        ],
+        "aliases": [
+          "Creative Energy",
+          "Sex Force",
+          "Sexual Energy",
+          "Sinh Lực Tình Dục"
+        ],
+        "headings": [
+          "Năng Lượng Tình Dục (Sexual Energy)",
+          "Vault Position / Vị Trí Trong Bản Đồ",
+          "Claim Discipline / Kỷ Luật Tuyên Bố",
+          "Sinh Lực Không Có Đạo Đức Sẵn / Life Force Is Neutral",
+          "Extraction Loop / Vòng Bòn Rút",
+          "Transmutation / Chuyển Hóa",
+          "Porn As Anti-Initiation / Khiêu Dâm Như Nghi Lễ Ngược",
+          "Dấu Hiệu Lệch Và Dấu Hiệu Đúng / Distortion And Alignment",
+          "Practice Notes / Ghi Chú Thực Hành",
+          "Kết Luận / Closing"
+        ],
+        "wikilinks": [
+          "Chakra",
+          "Kundalini",
+          "Ma Trận",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tinh Khí Thần",
+          "Tuyến Tùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Tinh Khí Thần.md",
+          "health/Tuyến Tùng.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Chakra.md",
+          "esoterica/Chimera.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Thực Thể Cõi Trung Giới.md",
+          "esoterica/Tinh Khí Thần.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "politics-conspiracy/MindGeek.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "words": 950,
+        "summary": "**Năng lượng tình dục là sinh lực sáng tạo ở tầng thô nhất và mạnh nhất: nó có thể sinh ra một cơ thể, phá nát một đời người, hoặc được chuyển hóa thành ý chí, nghệ thuật, trí tuệ và hiện diện.**"
       },
       {
         "path": "esoterica/Gematria.md",
@@ -2954,6 +2960,71 @@
         "summary": "Khoa học hiện đại dạy rằng lịch sử là một đường thẳng tiến lên: từ vi khuẩn đến cá, từ cá đến vượn, từ vượn đến người, từ hang động đến smartphone. Mỗi thế hệ \"tiến bộ\" hơn thế hệ trước. Chúng ta đang ở đỉnh cao của văn minh."
       },
       {
+        "path": "esoterica/Kundalini.md",
+        "title": "Kundalini",
+        "domain": "esoterica",
+        "tags": [
+          "energy",
+          "esoterica",
+          "spirituality"
+        ],
+        "aliases": [
+          "Kundalini Energy",
+          "Năng Lượng Kundalini",
+          "Serpent Power"
+        ],
+        "headings": [
+          "Kundalini — Năng Lượng Rắn Thiêng",
+          "How To Read This / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Biểu Tượng Rắn Cuộn / The Coiled Serpent",
+          "Sexual Energy Là Nhiên Liệu Thô",
+          "Ba Kênh: Ida, Pingala, Sushumna",
+          "Awakening Không Phải Performance",
+          "Kundalini Syndrome / Khi Năng Lượng Vượt Container",
+          "Matrix Và Năng Lượng Ngủ",
+          "Practice: Từ Dưới Lên, Không Nhảy Cóc",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
+          "Chakra",
+          "Gnosis",
+          "Individuation",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Năng Lượng Tình Dục",
+          "S.E.X",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tinh Khí Thần",
+          "Tuyến Tùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Chakra.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Tinh Khí Thần.md",
+          "health/Tuyến Tùng.md",
+          "mental-models/Individuation.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Chakra.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "index.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "words": 1186,
+        "summary": "**Kundalini là ngôn ngữ cổ để nói về sinh lực nguyên thủy khi nó không chỉ phục vụ sinh tồn và tình dục, mà được chuyển hóa thành ý thức, trực giác và hiện diện.** Trong vault, Kundalini là cầu nối giữa Chakra, Năng Lượng Tình Dục, Tinh Khí Thần, Tuyến Tùng v…"
+      },
+      {
         "path": "esoterica/Lemuria.md",
         "title": "Lemuria (Mu)",
         "domain": "esoterica",
@@ -3126,137 +3197,6 @@
         ],
         "words": 928,
         "summary": "**Predictive programming là giả thuyết rằng media không chỉ phản ánh tương lai mà còn tập cho công chúng cảm thấy tương lai đó quen thuộc trước khi nó được triển khai.** Đọc đúng, đây không phải trò gom mọi trùng hợp thành \"tiên tri\"; đây là kỷ luật nhìn repe…"
-      },
-      {
-        "path": "esoterica/Thực Thể Cõi Trung Giới.md",
-        "title": "Thực Thể Cõi Trung Giới (Astral Entities)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [],
-        "headings": [
-          "Thực Thể Cõi Trung Giới (Astral Entities)",
-          "Trong Các Truyền Thống",
-          "Cõi Trung Giới (Astral Plane)",
-          "Vị trí trong cosmology / Position in Cosmology",
-          "Đặc điểm",
-          "Thực Thể Ký Sinh",
-          "Cơ chế \"ăn\" năng lượng",
-          "Symptoms of Attachment",
-          "Common Entry Points",
-          "Loại Thực Thể",
-          "1. Larvae/Thought-forms",
-          "2. Elemental Spirits",
-          "3. Parasitic Entities",
-          "4. Higher Negative Entities",
-          "Connection Với [[Ma Trận]]",
-          "Energy Harvesting System",
-          "[[Quy Luật Trao Đổi Tâm Linh]]",
-          "Protection & Cleansing",
-          "Raise Vibration",
-          "Energy Hygiene",
-          "Spiritual Practice",
-          "Lifestyle",
-          "Related"
-        ],
-        "wikilinks": [
-          "Individuation",
-          "Ma Trận",
-          "MindGeek",
-          "Năng Lượng Tình Dục",
-          "Quy Luật Trao Đổi Tâm Linh",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tà Linh"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Tà Linh.md",
-          "mental-models/Individuation.md",
-          "politics-conspiracy/MindGeek.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Tà Linh.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 409,
-        "summary": "**Thực Thể Cõi Trung Giới** (Astral Entities) là các sinh linh tồn tại ở tần số ngoài phổ nhìn thấy của con người. Trong nhiều truyền thống được gọi là Archons, demons, djinn, ký sinh trùng năng lượng."
-      },
-      {
-        "path": "esoterica/Kundalini.md",
-        "title": "Kundalini",
-        "domain": "esoterica",
-        "tags": [
-          "energy",
-          "esoterica",
-          "spirituality"
-        ],
-        "aliases": [
-          "Kundalini Energy",
-          "Năng Lượng Kundalini",
-          "Serpent Power"
-        ],
-        "headings": [
-          "Kundalini — Năng Lượng Rắn Thiêng",
-          "How To Read This / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Biểu Tượng Rắn Cuộn / The Coiled Serpent",
-          "Sexual Energy Là Nhiên Liệu Thô",
-          "Ba Kênh: Ida, Pingala, Sushumna",
-          "Awakening Không Phải Performance",
-          "Kundalini Syndrome / Khi Năng Lượng Vượt Container",
-          "Matrix Và Năng Lượng Ngủ",
-          "Practice: Từ Dưới Lên, Không Nhảy Cóc",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
-          "Chakra",
-          "Gnosis",
-          "Individuation",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Năng Lượng Tình Dục",
-          "S.E.X",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tinh Khí Thần",
-          "Tuyến Tùng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Chakra.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Tinh Khí Thần.md",
-          "health/Tuyến Tùng.md",
-          "mental-models/Individuation.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Chakra.md",
-          "index.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 1186,
-        "summary": "**Kundalini là ngôn ngữ cổ để nói về sinh lực nguyên thủy khi nó không chỉ phục vụ sinh tồn và tình dục, mà được chuyển hóa thành ý thức, trực giác và hiện diện.** Trong vault, Kundalini là cầu nối giữa Chakra, Năng Lượng Tình Dục, Tinh Khí Thần, Tuyến Tùng v…"
       },
       {
         "path": "esoterica/Chu Kỳ Hoàng Đạo.md",
@@ -3505,69 +3445,69 @@
         "summary": "**Saturn Cube là lens biểu tượng để đọc giới hạn, thời gian, vật chất, luật, grid và cấu trúc giam giữ của cõi 3D.** Nó không phải bằng chứng độc lập rằng \"Sao Thổ điều khiển thế giới\"; nó là một mặt mã hình ảnh giúp thấy cách power dùng hình khối, màu đen, v…"
       },
       {
-        "path": "esoterica/Tà Linh.md",
-        "title": "Tà Linh",
+        "path": "esoterica/Thực Thể Cõi Trung Giới.md",
+        "title": "Thực Thể Cõi Trung Giới (Astral Entities)",
         "domain": "esoterica",
         "tags": [
           "esoterica"
         ],
-        "aliases": [
-          "Archons",
-          "Energy Parasites",
-          "Tà Linh",
-          "Tà Linh (Energy Parasites)"
-        ],
+        "aliases": [],
         "headings": [
-          "Tà Linh (Energy Parasites)",
-          "Các Tên Gọi Khác",
-          "Nguồn Gốc (Theo Các Truyền Thống)",
-          "Book of Enoch",
-          "Gnostic tradition",
-          "Carlos Castaneda",
-          "Cách Hoạt Động",
-          "1. Frequency Matching (Cộng Hưởng Tần Số)",
-          "2. Thought Insertion",
-          "3. Energy Drainage",
-          "Môi Trường Chúng Thích",
-          "Cách Bảo Vệ",
-          "1. Raise Frequency",
-          "2. Energy Hygiene",
-          "3. Awareness",
-          "4. Detox",
-          "Liên Hệ Với Ma Trận",
+          "Thực Thể Cõi Trung Giới (Astral Entities)",
+          "Trong Các Truyền Thống",
+          "Cõi Trung Giới (Astral Plane)",
+          "Vị trí trong cosmology / Position in Cosmology",
+          "Đặc điểm",
+          "Thực Thể Ký Sinh",
+          "Cơ chế \"ăn\" năng lượng",
+          "Symptoms of Attachment",
+          "Common Entry Points",
+          "Loại Thực Thể",
+          "1. Larvae/Thought-forms",
+          "2. Elemental Spirits",
+          "3. Parasitic Entities",
+          "4. Higher Negative Entities",
+          "Connection Với [[Ma Trận]]",
+          "Energy Harvesting System",
+          "[[Quy Luật Trao Đổi Tâm Linh]]",
+          "Protection & Cleansing",
+          "Raise Vibration",
+          "Energy Hygiene",
+          "Spiritual Practice",
+          "Lifestyle",
           "Related"
         ],
         "wikilinks": [
-          "Elite",
-          "Gnosis",
+          "Individuation",
           "Ma Trận",
-          "Plasma Quinton",
-          "Suramin",
-          "Thực Thể Cõi Trung Giới",
-          "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện"
+          "MindGeek",
+          "Năng Lượng Tình Dục",
+          "Quy Luật Trao Đổi Tâm Linh",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tà Linh"
         ],
         "mdlinks": [],
         "outlinks": [
-          "esoterica/Gnosis.md",
           "esoterica/Ma Trận.md",
-          "esoterica/Thực Thể Cõi Trung Giới.md",
-          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-          "health/Plasma Quinton.md",
-          "health/Suramin.md",
-          "politics-conspiracy/Elite.md"
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Tà Linh.md",
+          "mental-models/Individuation.md",
+          "politics-conspiracy/MindGeek.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
         ],
         "backlinks": [
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Thực Thể Cõi Trung Giới.md",
           "index.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Esoterica & Consciousness.md"
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
         ],
-        "words": 377,
-        "summary": "**Tà Linh** là những thực thể phi vật chất ký sinh vào trường năng lượng của con người, nuôi dưỡng bằng cảm xúc rung động thấp như sợ hãi, giận dữ, dục vọng và tuyệt vọng."
+        "words": 409,
+        "summary": "**Thực Thể Cõi Trung Giới** (Astral Entities) là các sinh linh tồn tại ở tần số ngoài phổ nhìn thấy của con người. Trong nhiều truyền thống được gọi là Archons, demons, djinn, ký sinh trùng năng lượng."
       },
       {
         "path": "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
@@ -3988,57 +3928,168 @@
         "summary": "Bài viết đi sâu vào bản chất của quy luật Nhân quả, Luân hồi và sự can thiệp của các thế lực tà thần vào hệ thống niềm tin của nhân loại."
       },
       {
-        "path": "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-        "title": "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
+        "path": "esoterica/Tà Linh.md",
+        "title": "Tà Linh",
         "domain": "esoterica",
         "tags": [
+          "consciousness",
           "esoterica",
-          "gnosis",
-          "healing",
-          "jesus",
-          "occult",
-          "salt",
-          "source-note",
-          "spirituality"
+          "gnosis"
         ],
-        "aliases": [],
+        "aliases": [
+          "Archons",
+          "Energy Parasites",
+          "Flyers",
+          "Tà Linh",
+          "Tà Linh (Energy Parasites)",
+          "Wetiko"
+        ],
         "headings": [
-          "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
-          "1. Nguồn Gốc Tà Linh & Sự Chi phối Năng Lượng",
-          "2. Giải Mã Gnosis: Sự Thật Bị Che Giấu Về Tôn Giáo",
-          "3. Khoa Học Chân Chính vs. Ma Trận Dối Trá",
-          "4. Chữa Lành Bằng Muối & Chanh",
-          "Liên kết hệ thống",
-          "Related"
+          "Tà Linh (Energy Parasites)",
+          "How To Read This / Cách Đọc",
+          "Tên Gọi Qua Các Truyền Thống / Names Across Traditions",
+          "Cơ Chế Ký Sinh / Parasitic Mechanics",
+          "Dấu Hiệu Bị Bám / Signs Of Attachment",
+          "Môi Trường Chúng Thích / Feeding Environments",
+          "Liên Hệ Với Ma Trận / Matrix Function",
+          "Energy Hygiene / Vệ Sinh Năng Lượng",
+          "Kết Luận / Closing"
         ],
         "wikilinks": [
-          "AI",
-          "Khế Ước Bí Mật Rockefeller",
+          "Gnosis",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
           "Ma Trận",
-          "Monad",
-          "Sự Nhất Thể",
-          "Walter Russell",
-          "Y Tế Tự Nhiên"
+          "Plasma Quinton",
+          "Suramin"
         ],
         "mdlinks": [],
         "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
           "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "health/Y Tế Tự Nhiên.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-          "science-tech/AI.md",
-          "science-tech/Walter Russell.md"
+          "health/Plasma Quinton.md",
+          "health/Suramin.md"
         ],
         "backlinks": [
-          "esoterica/Gnosis.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
           "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Thánh Issa.md",
-          "esoterica/Tà Linh.md",
-          "health/René Quinton và Huyết Tương Biển.md"
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Thực Thể Cõi Trung Giới.md",
+          "index.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Esoterica & Consciousness.md"
         ],
-        "words": 574,
-        "summary": "Bài viết này là một kho tàng tri thức đa chiều, kết nối từ nguồn gốc của các thế lực vô hình (Tà linh), bí sử về Chúa Giêsu, giáo lý Ngộ đạo (Gnosis) cho đến cơ chế chữa lành sinh học bằng muối."
+        "words": 888,
+        "summary": "**Tà Linh là ngôn ngữ biểu tượng để nói về những lực ký sinh trên attention, cảm xúc và sinh lực của con người. Đọc thấp thì đó là trauma loop, nghiện, thought-form và môi trường độc. Đọc cao thì đó là Archon, Wetiko, thực thể trung giới và cơ chế harvest loo…"
+      },
+      {
+        "path": "esoterica/Núi Tu Di.md",
+        "title": "Núi Tu Di",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Mount Meru",
+          "Núi Tu Di",
+          "Núi Tu Di (Mount Meru)"
+        ],
+        "headings": [
+          "Núi Tu Di (Mount Meru)",
+          "Trong Các Truyền Thống",
+          "Cấu Trúc Vũ Trụ (Buddhist)",
+          "Bốn Đại Châu",
+          "Modern Interpretations",
+          "1. Magnetic North Pole",
+          "2. Hyperborea",
+          "3. Flat Earth Model",
+          "4. Inner Earth",
+          "Symbolic Meaning",
+          "Axis Mundi",
+          "Microcosm-Macrocosm",
+          "Why Hidden?",
+          "Related"
+        ],
+        "wikilinks": [
+          "Long Mạch",
+          "Mô Hình Địa Tâm",
+          "Tartaria",
+          "Tartaria và Vạn Lý Trường Thành",
+          "Thuyết Trái Đất Phẳng",
+          "Vũ Trụ Học Phật Giáo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Long Mạch.md",
+          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "mental-models/Mô Hình Địa Tâm.md",
+          "politics-conspiracy/Thuyết Trái Đất Phẳng.md"
+        ],
+        "backlinks": [
+          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
+          "esoterica/Phong Thủy.md",
+          "esoterica/Sacred Geometry.md",
+          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "politics-conspiracy/Trái Đất Phẳng.md"
+        ],
+        "words": 318,
+        "summary": "**Núi Tu Di** (Sanskrit: Sumeru, Pali: Sineru) là trung tâm vũ trụ theo cosmology Phật giáo, Hindu và Jain. Trục thế giới mà quanh đó Mặt Trời, Mặt Trăng và các vì sao xoay."
+      },
+      {
+        "path": "esoterica/Thành Cổ Loa.md",
+        "title": "Thành Cổ Loa",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Cổ Loa",
+          "Thành Cổ Loa"
+        ],
+        "headings": [
+          "Thành Cổ Loa",
+          "Cấu Trúc",
+          "3 Vòng Thành Xoắn Ốc",
+          "Thiết kế độc đáo",
+          "Góc Nhìn Khoa Học Xét Lại",
+          "Tại sao hình xoắn ốc?",
+          "Công nghệ xây dựng",
+          "So Sánh Với Công Trình Khác",
+          "Nỏ Thần Connection",
+          "Bí Ẩn Chưa Giải",
+          "Hiện Trạng",
+          "Related"
+        ],
+        "wikilinks": [
+          "Khoa Học Xét Lại",
+          "Long Mạch",
+          "Nỏ Thần",
+          "Tartaria",
+          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Long Mạch.md",
+          "esoterica/Nỏ Thần.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Nỏ Thần.md",
+          "esoterica/Phong Thủy.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
+        ],
+        "words": 387,
+        "summary": "**Thành Cổ Loa** là kinh đô của nước Âu Lạc thời An Dương Vương (~257-208 BCE), nổi tiếng với cấu trúc xoắn ốc độc đáo — một trong những công trình phòng thủ cổ đại ấn tượng nhất Đông Nam Á."
       },
       {
         "path": "esoterica/Annunaki.md",
@@ -4138,61 +4189,6 @@
         "summary": "Tài liệu này tổng hợp giả thuyết về sự hiện diện của chủng tộc Annunaki, hành tinh Nibiru (Hành tinh X) và vai trò của lực lượng Cabal trong việc quản lý \"phòng thí nghiệm\" Trái Đất."
       },
       {
-        "path": "esoterica/Núi Tu Di.md",
-        "title": "Núi Tu Di",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Mount Meru",
-          "Núi Tu Di",
-          "Núi Tu Di (Mount Meru)"
-        ],
-        "headings": [
-          "Núi Tu Di (Mount Meru)",
-          "Trong Các Truyền Thống",
-          "Cấu Trúc Vũ Trụ (Buddhist)",
-          "Bốn Đại Châu",
-          "Modern Interpretations",
-          "1. Magnetic North Pole",
-          "2. Hyperborea",
-          "3. Flat Earth Model",
-          "4. Inner Earth",
-          "Symbolic Meaning",
-          "Axis Mundi",
-          "Microcosm-Macrocosm",
-          "Why Hidden?",
-          "Related"
-        ],
-        "wikilinks": [
-          "Long Mạch",
-          "Mô Hình Địa Tâm",
-          "Tartaria",
-          "Tartaria và Vạn Lý Trường Thành",
-          "Thuyết Trái Đất Phẳng",
-          "Vũ Trụ Học Phật Giáo"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Long Mạch.md",
-          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "mental-models/Mô Hình Địa Tâm.md",
-          "politics-conspiracy/Thuyết Trái Đất Phẳng.md"
-        ],
-        "backlinks": [
-          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "politics-conspiracy/Trái Đất Phẳng.md"
-        ],
-        "words": 318,
-        "summary": "**Núi Tu Di** (Sanskrit: Sumeru, Pali: Sineru) là trung tâm vũ trụ theo cosmology Phật giáo, Hindu và Jain. Trục thế giới mà quanh đó Mặt Trời, Mặt Trăng và các vì sao xoay."
-      },
-      {
         "path": "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
         "title": "Quy Luật Trao Đổi Tâm Linh",
         "domain": "esoterica",
@@ -4256,55 +4252,56 @@
         "summary": "**Quy Luật Trao Đổi Tâm Linh** là cơ chế đánh đổi năng lượng khi con người tương tác với các thế lực siêu nhiên — đặc biệt khi cầu xin từ bên ngoài thay vì phát triển từ bên trong."
       },
       {
-        "path": "esoterica/Thành Cổ Loa.md",
-        "title": "Thành Cổ Loa",
+        "path": "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "title": "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
         "domain": "esoterica",
         "tags": [
-          "esoterica"
+          "esoterica",
+          "gnosis",
+          "healing",
+          "jesus",
+          "occult",
+          "salt",
+          "source-note",
+          "spirituality"
         ],
-        "aliases": [
-          "Cổ Loa",
-          "Thành Cổ Loa"
-        ],
+        "aliases": [],
         "headings": [
-          "Thành Cổ Loa",
-          "Cấu Trúc",
-          "3 Vòng Thành Xoắn Ốc",
-          "Thiết kế độc đáo",
-          "Góc Nhìn Khoa Học Xét Lại",
-          "Tại sao hình xoắn ốc?",
-          "Công nghệ xây dựng",
-          "So Sánh Với Công Trình Khác",
-          "Nỏ Thần Connection",
-          "Bí Ẩn Chưa Giải",
-          "Hiện Trạng",
+          "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
+          "1. Nguồn Gốc Tà Linh & Sự Chi phối Năng Lượng",
+          "2. Giải Mã Gnosis: Sự Thật Bị Che Giấu Về Tôn Giáo",
+          "3. Khoa Học Chân Chính vs. Ma Trận Dối Trá",
+          "4. Chữa Lành Bằng Muối & Chanh",
+          "Liên kết hệ thống",
           "Related"
         ],
         "wikilinks": [
-          "Khoa Học Xét Lại",
-          "Long Mạch",
-          "Nỏ Thần",
-          "Tartaria",
-          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"
+          "AI",
+          "Khế Ước Bí Mật Rockefeller",
+          "Ma Trận",
+          "Monad",
+          "Sự Nhất Thể",
+          "Walter Russell",
+          "Y Tế Tự Nhiên"
         ],
         "mdlinks": [],
         "outlinks": [
-          "esoterica/Long Mạch.md",
-          "esoterica/Nỏ Thần.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "science-tech/Khoa Học Xét Lại.md"
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "health/Y Tế Tự Nhiên.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+          "science-tech/AI.md",
+          "science-tech/Walter Russell.md"
         ],
         "backlinks": [
-          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Nỏ Thần.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
+          "esoterica/Gnosis.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Thánh Issa.md",
+          "health/René Quinton và Huyết Tương Biển.md"
         ],
-        "words": 387,
-        "summary": "**Thành Cổ Loa** là kinh đô của nước Âu Lạc thời An Dương Vương (~257-208 BCE), nổi tiếng với cấu trúc xoắn ốc độc đáo — một trong những công trình phòng thủ cổ đại ấn tượng nhất Đông Nam Á."
+        "words": 574,
+        "summary": "Bài viết này là một kho tàng tri thức đa chiều, kết nối từ nguồn gốc của các thế lực vô hình (Tà linh), bí sử về Chúa Giêsu, giáo lý Ngộ đạo (Gnosis) cho đến cơ chế chữa lành sinh học bằng muối."
       },
       {
         "path": "esoterica/Tình Yêu Tỉnh Thức.md",
@@ -4483,56 +4480,6 @@
         "summary": "**Đạo không phải một giáo điều để tin. Đạo là dòng vận hành tự nhiên phía sau mọi hình tướng: trước tên gọi, trước hệ thống, trước đúng-sai, trước cả người đang cố hiểu nó.**"
       },
       {
-        "path": "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-        "title": "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [],
-        "headings": [
-          "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
-          "1. Bí Mật Của Vũ Trụ: \"Ngôi Đền Không Do Bàn Tay Con Người Tạo Ra\"",
-          "2. Khám Phá Chấn Động Tại Nag Hammadi",
-          "3. Kiến Thức \"Gnosis\" (Ngộ Đạo) Và Sự Thức Tỉnh",
-          "4. Giải Mã Biểu Tượng Cơ Thể Học (Anatomy & Occult)",
-          "Đền Thờ Solomon = Cơ Thể Người (Chi Tiết)",
-          "SOL - O - MON: Mật Mã Trong Tên",
-          "6. Bạn Là Một Photon — Thực Thể Thần Thánh",
-          "Bản Chất Thật / True Nature",
-          "Vấn Đề: \"Chương Trình\" Chi Phối / The Problem: Programming",
-          "Giải Pháp: Bảo Vệ Ngôi Đền / Solution: Protect Your Temple",
-          "5. Kết Luận Dưới Góc Nhìn Khoa Học Tâm Linh",
-          "Related"
-        ],
-        "wikilinks": [
-          "Chakra",
-          "Gnosis",
-          "Kundalini",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "Ma Trận",
-          "Sacred Geometry",
-          "Tuyến Tùng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Chakra.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Sacred Geometry.md",
-          "health/Tuyến Tùng.md"
-        ],
-        "backlinks": [
-          "esoterica/Kundalini.md",
-          "esoterica/Manly P. Hall.md",
-          "esoterica/Năng Lượng Tình Dục.md"
-        ],
-        "words": 2004,
-        "summary": "*33 Degrees - Exploring the Sacred Temple Within the Mind*"
-      },
-      {
         "path": "esoterica/Cabal.md",
         "title": "Cabal (Thế Lực Ngầm)",
         "domain": "esoterica",
@@ -4652,6 +4599,109 @@
         "summary": "*Kogi Meditation Technique*"
       },
       {
+        "path": "esoterica/Phong Thủy.md",
+        "title": "Phong Thủy",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "feng-shui",
+          "geomancy"
+        ],
+        "aliases": [
+          "Feng Shui",
+          "Wind Water",
+          "風水"
+        ],
+        "headings": [
+          "Phong Thủy (Feng Shui / 風水)",
+          "Vault Position / Vị Trí Trong Bản Đồ",
+          "Evidence Discipline / Kỷ Luật Đọc",
+          "Khí Là Dòng, Không Phải Vật / Qi As Flow",
+          "Năm Trục Cơ Bản / Five Core Axes",
+          "Loan Đầu Và Lý Khí / Form And Compass",
+          "Long Mạch / Dragon Veins",
+          "Shadow Side / Mặt Tối Của Phong Thủy",
+          "Practical Reading / Cách Đọc Thực Dụng",
+          "Kết Luận / Closing"
+        ],
+        "wikilinks": [
+          "Long Mạch",
+          "MOC - Esoterica & Consciousness",
+          "Núi Tu Di",
+          "Năng Lượng Aether",
+          "Sacred Geometry",
+          "Tartaria",
+          "Thành Cổ Loa",
+          "Vận Chín"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Long Mạch.md",
+          "esoterica/Núi Tu Di.md",
+          "esoterica/Sacred Geometry.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Thành Cổ Loa.md",
+          "esoterica/Vận Chín.md",
+          "MOC - Esoterica & Consciousness.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "backlinks": [
+          "esoterica/Tứ Linh.md",
+          "MOC - Ancient Civilizations & Hidden History.md"
+        ],
+        "words": 1033,
+        "summary": "**Phong Thủy không phải mẹo đặt cây, treo gương, chọn màu để “hên”. Nó là một hệ đọc không gian: địa hình, hướng, dòng khí, nhịp thời gian và tâm lý cư trú cùng tạo ra một trường ảnh hưởng lên con người.**"
+      },
+      {
+        "path": "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+        "title": "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [],
+        "headings": [
+          "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
+          "1. Bí Mật Của Vũ Trụ: \"Ngôi Đền Không Do Bàn Tay Con Người Tạo Ra\"",
+          "2. Khám Phá Chấn Động Tại Nag Hammadi",
+          "3. Kiến Thức \"Gnosis\" (Ngộ Đạo) Và Sự Thức Tỉnh",
+          "4. Giải Mã Biểu Tượng Cơ Thể Học (Anatomy & Occult)",
+          "Đền Thờ Solomon = Cơ Thể Người (Chi Tiết)",
+          "SOL - O - MON: Mật Mã Trong Tên",
+          "6. Bạn Là Một Photon — Thực Thể Thần Thánh",
+          "Bản Chất Thật / True Nature",
+          "Vấn Đề: \"Chương Trình\" Chi Phối / The Problem: Programming",
+          "Giải Pháp: Bảo Vệ Ngôi Đền / Solution: Protect Your Temple",
+          "5. Kết Luận Dưới Góc Nhìn Khoa Học Tâm Linh",
+          "Related"
+        ],
+        "wikilinks": [
+          "Chakra",
+          "Gnosis",
+          "Kundalini",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Ma Trận",
+          "Sacred Geometry",
+          "Tuyến Tùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Sacred Geometry.md",
+          "health/Tuyến Tùng.md"
+        ],
+        "backlinks": [
+          "esoterica/Kundalini.md",
+          "esoterica/Manly P. Hall.md"
+        ],
+        "words": 2004,
+        "summary": "*33 Degrees - Exploring the Sacred Temple Within the Mind*"
+      },
+      {
         "path": "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
         "title": "Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức",
         "domain": "esoterica",
@@ -4692,6 +4742,56 @@
         ],
         "words": 769,
         "summary": "*The Soul's Journey and the Power of Conscious Love*"
+      },
+      {
+        "path": "esoterica/Manly P. Hall.md",
+        "title": "Manly P. Hall",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "freemasonry",
+          "symbolism"
+        ],
+        "aliases": [
+          "33rd Degree Mason",
+          "Manly Palmer Hall",
+          "The Secret Teachings of All Ages"
+        ],
+        "headings": [
+          "Manly P. Hall: Người Giải Mã Biểu Tượng",
+          "Vault Position / Vị Trí Trong Bản Đồ",
+          "Claim Discipline / Kỷ Luật Đọc",
+          "The Secret Teachings / Cánh Cửa Vào Mysteries",
+          "Freemasonry Và Cấp 33 / Freemasonry And The 33rd Degree",
+          "Symbolism As Operating System / Biểu Tượng Như Hệ Điều Hành",
+          "Hall Không Phải Giáo Chủ / Not A Guru",
+          "Ứng Dụng Trong Vault / How The Vault Uses Hall",
+          "Kết Luận / Closing"
+        ],
+        "wikilinks": [
+          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
+          "Cabal",
+          "Gematria",
+          "Gnosis",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "MOC - Esoterica & Consciousness"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Gematria.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
+        ],
+        "words": 915,
+        "summary": "**Manly Palmer Hall quan trọng không phải vì ông “biết hết bí mật”. Ông quan trọng vì ông cho thấy giới hiện đại đã quên một ngôn ngữ mà các truyền thống quyền lực vẫn dùng: biểu tượng, nghi lễ, số học, kiến trúc và initiation.**"
       },
       {
         "path": "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
@@ -4853,56 +4953,6 @@
         ],
         "words": 770,
         "summary": "**Chimera là hình ảnh mạnh cho sự trộn lẫn: trong sinh học là nhiều dòng tế bào/DNA trong một cơ thể; trong esoteric reading là câu hỏi sex, thân mật và trao đổi năng lượng để lại dấu vết gì trong con người.** Bài này cần đọc rất kỷ luật: microchimerism có th…"
-      },
-      {
-        "path": "esoterica/Manly P. Hall.md",
-        "title": "Manly P. Hall",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "33rd Degree Mason",
-          "Manly Palmer Hall"
-        ],
-        "headings": [
-          "Manly P. Hall: Chú Thuật Sư Cấp 33 Hội Tam Điểm",
-          "Vai trò Tam Điểm / Freemasonry Role",
-          "Chuyên môn / Expertise",
-          "\"The Secret Teachings of All Ages\" (1928)",
-          "Nội dung / Contents",
-          "Tại sao Quan trọng? / Why Important?",
-          "Mối Liên kết Quyền lực / Power Structure Connection",
-          "[[33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí|33 Tầng Bậc]]",
-          "Ứng dụng / Applications",
-          "Quotes / Trích dẫn",
-          "Related",
-          "Power / Quyền lực",
-          "Knowledge / Tri thức"
-        ],
-        "wikilinks": [
-          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
-          "Cabal",
-          "Elite",
-          "Gematria",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Trí Tuệ"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Gematria.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "mental-models/Trí Tuệ.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "esoterica/Gematria.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
-        ],
-        "words": 395,
-        "summary": "**Manly Palmer Hall** (1901-1990) là nhà nghiên cứu huyền học, tác giả, và thành viên Cấp 33 trong Hội Tam Điểm. Được ví như \"Chú thuật sư vĩ đại nhất thế kỷ 20\"."
       },
       {
         "path": "esoterica/Nibiru.md",
@@ -5155,60 +5205,6 @@
         "summary": "**Năng Lượng Natri** là khái niệm về việc khai thác năng lượng từ Natri (Na) — nguyên tố phong phú trong nước biển. Theo Khoa Học Xét Lại, đây là nguồn năng lượng bị che giấu có thể thay thế hoàn toàn nhiên liệu hóa thạch."
       },
       {
-        "path": "esoterica/Thuật Giả Kim Của Newton.md",
-        "title": "Thuật Giả Kim Của Newton",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [],
-        "headings": [
-          "Thuật Giả Kim Của Newton",
-          "Sự Thật Bị Giấu",
-          "Số lượng tài liệu",
-          "Keynes Discovery (1936)",
-          "Why Hidden?",
-          "Newton's Alchemy",
-          "Goals",
-          "Methods",
-          "His Beliefs",
-          "Newton's Hidden Theology",
-          "Anti-Trinitarian",
-          "Biblical Chronology",
-          "Prisca Sapientia",
-          "Implications for Modern Science",
-          "Gravity vs Electrostatics",
-          "Aether Connection",
-          "What Education Doesn't Teach",
-          "The Curated Newton",
-          "Why It Matters",
-          "Other \"Hidden\" Scientist-Mystics",
-          "Related"
-        ],
-        "wikilinks": [
-          "Khoa Học Chân Chính và Thượng Đế",
-          "Khoa Học Xét Lại",
-          "Nikola Tesla",
-          "Năng Lượng Aether",
-          "Walter Russell",
-          "Điều mà nền giáo dục và chính phủ không dạy bạn"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-          "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md",
-          "science-tech/Walter Russell.md"
-        ],
-        "backlinks": [
-          "esoterica/Năng Lượng Tình Dục.md"
-        ],
-        "words": 389,
-        "summary": "**Sir Isaac Newton** (1642-1727) — \"cha đẻ của vật lý hiện đại\" — thực chất dành phần lớn cuộc đời cho Huyền học (Occult) và Thuật Giả Kim (Alchemy), không phải khoa học duy vật."
-      },
-      {
         "path": "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
         "title": "Bản Đồ Năng Lượng Đất Mẹ",
         "domain": "esoterica",
@@ -5261,44 +5257,6 @@
         "summary": "*Mother Earth's Energy Map (Vietnam)*"
       },
       {
-        "path": "esoterica/Phong Thủy.md",
-        "title": "Phong Thủy",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "feng-shui"
-        ],
-        "aliases": [
-          "Feng Shui",
-          "風水"
-        ],
-        "headings": [
-          "Phong Thủy (Feng Shui / 風水)",
-          "Nguyên Lý Cơ Bản / Basic Principles",
-          "Các Trường Phái / Schools",
-          "Related"
-        ],
-        "wikilinks": [
-          "Long Mạch",
-          "Năng Lượng Aether",
-          "Sacred Geometry",
-          "Vận Chín"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Long Mạch.md",
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Vận Chín.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "backlinks": [
-          "esoterica/Tứ Linh.md",
-          "MOC - Ancient Civilizations & Hidden History.md"
-        ],
-        "words": 157,
-        "summary": "**Phong Thủy** (風水 = Gió + Nước) là nghệ thuật cổ đại về sắp xếp không gian để harmonize năng lượng (Khí/Chi) với môi trường."
-      },
-      {
         "path": "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
         "title": "Theo Dấu Tartaria - Tác Giả Kan",
         "domain": "esoterica",
@@ -5334,6 +5292,58 @@
         ],
         "words": 1020,
         "summary": "Chuỗi bài viết **Theo Dấu Tartaria** (Tracking Tartaria) của Thượng sĩ Kan (Kiên Trần) được thực hiện trong khoảng thời gian 2021-2022. Đây là một bộ tài liệu mang tính chất giải ảo lịch sử cực kỳ chi tiết, đưa ra những góc nhìn sắc bén dưới lăng kính của Kho…"
+      },
+      {
+        "path": "esoterica/Thuật Giả Kim Của Newton.md",
+        "title": "Thuật Giả Kim Của Newton",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [],
+        "headings": [
+          "Thuật Giả Kim Của Newton",
+          "Sự Thật Bị Giấu",
+          "Số lượng tài liệu",
+          "Keynes Discovery (1936)",
+          "Why Hidden?",
+          "Newton's Alchemy",
+          "Goals",
+          "Methods",
+          "His Beliefs",
+          "Newton's Hidden Theology",
+          "Anti-Trinitarian",
+          "Biblical Chronology",
+          "Prisca Sapientia",
+          "Implications for Modern Science",
+          "Gravity vs Electrostatics",
+          "Aether Connection",
+          "What Education Doesn't Teach",
+          "The Curated Newton",
+          "Why It Matters",
+          "Other \"Hidden\" Scientist-Mystics",
+          "Related"
+        ],
+        "wikilinks": [
+          "Khoa Học Chân Chính và Thượng Đế",
+          "Khoa Học Xét Lại",
+          "Nikola Tesla",
+          "Năng Lượng Aether",
+          "Walter Russell",
+          "Điều mà nền giáo dục và chính phủ không dạy bạn"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+          "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Năng Lượng Aether.md",
+          "science-tech/Walter Russell.md"
+        ],
+        "backlinks": [],
+        "words": 389,
+        "summary": "**Sir Isaac Newton** (1642-1727) — \"cha đẻ của vật lý hiện đại\" — thực chất dành phần lớn cuộc đời cho Huyền học (Occult) và Thuật Giả Kim (Alchemy), không phải khoa học duy vật."
       },
       {
         "path": "esoterica/Thánh Issa.md",
@@ -7511,9 +7521,7 @@
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
           "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
           "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-          "esoterica/Manly P. Hall.md",
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
           "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
           "esoterica/Tình Yêu Tỉnh Thức.md",
           "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
@@ -9023,7 +9031,6 @@
           "esoterica/Sự Nhất Thể.md",
           "esoterica/Tartaria.md",
           "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Tà Linh.md",
           "esoterica/Tình Yêu Tỉnh Thức.md",
           "esoterica/Tứ Linh.md",
           "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
@@ -11210,6 +11217,8 @@
         "backlinks": [
           "esoterica/Luân Hồi.md",
           "esoterica/Ma Trận.md",
+          "esoterica/Manly P. Hall.md",
+          "esoterica/Phong Thủy.md",
           "esoterica/Saturn Cube.md",
           "esoterica/Tinh Khí Thần.md",
           "esoterica/Tứ Linh.md",
@@ -12870,7 +12879,6 @@
         "esoterica/Sự Nhất Thể.md",
         "esoterica/Tartaria.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "esoterica/Tà Linh.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
         "esoterica/Tứ Linh.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
@@ -13639,6 +13647,7 @@
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
+        "esoterica/Manly P. Hall.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Monad.md",
         "esoterica/Một Đời Phù Vân.md",
@@ -14623,6 +14632,172 @@
       "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
     },
     {
+      "path": "esoterica/Tartaria.md",
+      "title": "Tartaria",
+      "domain": "esoterica",
+      "tags": [
+        "esoterica"
+      ],
+      "aliases": [],
+      "headings": [
+        "Tartaria (Grand Tartary)",
+        "Tartaria trên Bản đồ / Tartaria on Maps",
+        "Bằng chứng / Evidence",
+        "Phạm vi / Scope",
+        "Câu hỏi / Questions",
+        "Công nghệ Tartarian / Tartarian Technology",
+        "1. Năng lượng tự do / Free Energy",
+        "2. Kiến trúc vượt thời đại / Advanced Architecture",
+        "3. Hệ thống kênh toàn cầu / Global Canal System",
+        "Mudflood Theory / Thuyết Đại Hồng Thủy Bùn",
+        "Tartaria và Việt Nam / Tartaria & Vietnam",
+        "Tại sao bị Che giấu? / Why Hidden?",
+        "Related",
+        "Tartaria Deep Dive",
+        "Lost Technology / Công nghệ Thất lạc",
+        "Matrix & Cover-up / Ma Trận & Che giấu"
+      ],
+      "wikilinks": [
+        "Báo Cáo 2030",
+        "Bức Tường Bang",
+        "Elite",
+        "Khoa Học Xét Lại",
+        "Long Mạch",
+        "Ma Trận",
+        "Mudflood",
+        "Nikola Tesla",
+        "Năng Lượng Aether",
+        "Tartaria và Vạn Lý Trường Thành",
+        "Theo Dấu Tartaria  - Tác Giả Kan",
+        "Thành Cổ Loa"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Long Mạch.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+        "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
+        "esoterica/Thành Cổ Loa.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Mudflood.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Năng Lượng Aether.md"
+      ],
+      "backlinks": [
+        "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+        "esoterica/Lemuria.md",
+        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Núi Tu Di.md",
+        "esoterica/Nỏ Thần.md",
+        "esoterica/Phong Thủy.md",
+        "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+        "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
+        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+        "esoterica/Thành Cổ Loa.md",
+        "index.md",
+        "MOC - Ancient Civilizations & Hidden History.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "words": 642,
+      "summary": "**Tartaria** là tên gọi một đế chế rộng lớn xuất hiện trên bản đồ cổ châu Âu (thế kỷ 15-19), bao phủ phần lớn Á-Âu. Theo Khoa học xét lại, đây có thể là nền văn minh tiên tiến với công nghệ vượt thời đại đã bị xóa sổ khỏi lịch sử."
+    },
+    {
+      "path": "MOC - Esoterica & Consciousness.md",
+      "title": "MOC - Esoterica & Consciousness",
+      "domain": "root",
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "moc"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Esoterica & Consciousness",
+        "Start Here",
+        "Matrix & Soul Mechanics",
+        "Symbol, Language & Ritual",
+        "Jungian & Inner Work",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "Atula",
+        "Biểu Tượng Baphomet",
+        "Gematria",
+        "Gnosis",
+        "Individuation",
+        "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+        "Luân Hồi",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Monad",
+        "Nguyên Mẫu",
+        "Nhân Quả",
+        "Nhị Nguyên",
+        "Sacred Geometry",
+        "Saturn Cube",
+        "Sự Nhất Thể",
+        "Thực Thể Cõi Trung Giới",
+        "Trí Tuệ",
+        "Tà Linh",
+        "Tâm Lý Học Jung",
+        "Tứ Linh",
+        "Vô Thức Tập Thể",
+        "Word Magic - Ngôn Ngữ Của Phù Thủy",
+        "Đạo"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Atula.md",
+        "esoterica/Biểu Tượng Baphomet.md",
+        "esoterica/Gematria.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Nhân Quả.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Saturn Cube.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Thực Thể Cõi Trung Giới.md",
+        "esoterica/Tà Linh.md",
+        "esoterica/Tứ Linh.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "esoterica/Đạo.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Trí Tuệ.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Vô Thức Tập Thể.md"
+      ],
+      "backlinks": [
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Manly P. Hall.md",
+        "esoterica/Phong Thủy.md",
+        "esoterica/Saturn Cube.md",
+        "esoterica/Tinh Khí Thần.md",
+        "esoterica/Tứ Linh.md",
+        "health/Tuyến Tùng.md",
+        "index.md"
+      ],
+      "words": 189,
+      "summary": "**Bản đồ này gom các note về consciousness, metaphysics, occult, archetype và những cấu trúc tâm linh đứng phía sau Ma Trận. Đây là tầng Source/Spirit của vault.**"
+    },
+    {
       "path": "mental-models/Nhị Nguyên.md",
       "title": "Nhị Nguyên (Duality)",
       "domain": "mental-models",
@@ -14845,169 +15020,6 @@
       ],
       "words": 994,
       "summary": "**Terrain Theory nói một điều đơn giản nhưng bị làm phẳng: mầm bệnh không hành động trong chân không. Nó gặp một cơ thể có miễn dịch, ruột, dinh dưỡng, stress, độc chất, nhịp ngủ và bệnh nền riêng.** Vì vậy cùng một exposure có thể cho hai kết quả khác nhau.…"
-    },
-    {
-      "path": "esoterica/Tartaria.md",
-      "title": "Tartaria",
-      "domain": "esoterica",
-      "tags": [
-        "esoterica"
-      ],
-      "aliases": [],
-      "headings": [
-        "Tartaria (Grand Tartary)",
-        "Tartaria trên Bản đồ / Tartaria on Maps",
-        "Bằng chứng / Evidence",
-        "Phạm vi / Scope",
-        "Câu hỏi / Questions",
-        "Công nghệ Tartarian / Tartarian Technology",
-        "1. Năng lượng tự do / Free Energy",
-        "2. Kiến trúc vượt thời đại / Advanced Architecture",
-        "3. Hệ thống kênh toàn cầu / Global Canal System",
-        "Mudflood Theory / Thuyết Đại Hồng Thủy Bùn",
-        "Tartaria và Việt Nam / Tartaria & Vietnam",
-        "Tại sao bị Che giấu? / Why Hidden?",
-        "Related",
-        "Tartaria Deep Dive",
-        "Lost Technology / Công nghệ Thất lạc",
-        "Matrix & Cover-up / Ma Trận & Che giấu"
-      ],
-      "wikilinks": [
-        "Báo Cáo 2030",
-        "Bức Tường Bang",
-        "Elite",
-        "Khoa Học Xét Lại",
-        "Long Mạch",
-        "Ma Trận",
-        "Mudflood",
-        "Nikola Tesla",
-        "Năng Lượng Aether",
-        "Tartaria và Vạn Lý Trường Thành",
-        "Theo Dấu Tartaria  - Tác Giả Kan",
-        "Thành Cổ Loa"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Long Mạch.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-        "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-        "esoterica/Thành Cổ Loa.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Mudflood.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md",
-        "science-tech/Năng Lượng Aether.md"
-      ],
-      "backlinks": [
-        "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-        "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-        "esoterica/Lemuria.md",
-        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Núi Tu Di.md",
-        "esoterica/Nỏ Thần.md",
-        "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-        "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "esoterica/Thành Cổ Loa.md",
-        "index.md",
-        "MOC - Ancient Civilizations & Hidden History.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 642,
-      "summary": "**Tartaria** là tên gọi một đế chế rộng lớn xuất hiện trên bản đồ cổ châu Âu (thế kỷ 15-19), bao phủ phần lớn Á-Âu. Theo Khoa học xét lại, đây có thể là nền văn minh tiên tiến với công nghệ vượt thời đại đã bị xóa sổ khỏi lịch sử."
-    },
-    {
-      "path": "MOC - Esoterica & Consciousness.md",
-      "title": "MOC - Esoterica & Consciousness",
-      "domain": "root",
-      "tags": [
-        "consciousness",
-        "esoterica",
-        "moc"
-      ],
-      "aliases": [],
-      "headings": [
-        "MOC - Esoterica & Consciousness",
-        "Start Here",
-        "Matrix & Soul Mechanics",
-        "Symbol, Language & Ritual",
-        "Jungian & Inner Work",
-        "Synthesis"
-      ],
-      "wikilinks": [
-        "Atula",
-        "Biểu Tượng Baphomet",
-        "Gematria",
-        "Gnosis",
-        "Individuation",
-        "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-        "Luân Hồi",
-        "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "Monad",
-        "Nguyên Mẫu",
-        "Nhân Quả",
-        "Nhị Nguyên",
-        "Sacred Geometry",
-        "Saturn Cube",
-        "Sự Nhất Thể",
-        "Thực Thể Cõi Trung Giới",
-        "Trí Tuệ",
-        "Tà Linh",
-        "Tâm Lý Học Jung",
-        "Tứ Linh",
-        "Vô Thức Tập Thể",
-        "Word Magic - Ngôn Ngữ Của Phù Thủy",
-        "Đạo"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Atula.md",
-        "esoterica/Biểu Tượng Baphomet.md",
-        "esoterica/Gematria.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Nhân Quả.md",
-        "esoterica/Sacred Geometry.md",
-        "esoterica/Saturn Cube.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Thực Thể Cõi Trung Giới.md",
-        "esoterica/Tà Linh.md",
-        "esoterica/Tứ Linh.md",
-        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "esoterica/Đạo.md",
-        "mental-models/Individuation.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Trí Tuệ.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Vô Thức Tập Thể.md"
-      ],
-      "backlinks": [
-        "esoterica/Luân Hồi.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Saturn Cube.md",
-        "esoterica/Tinh Khí Thần.md",
-        "esoterica/Tứ Linh.md",
-        "health/Tuyến Tùng.md",
-        "index.md"
-      ],
-      "words": 189,
-      "summary": "**Bản đồ này gom các note về consciousness, metaphysics, occult, archetype và những cấu trúc tâm linh đứng phía sau Ma Trận. Đây là tầng Source/Spirit của vault.**"
     },
     {
       "path": "mental-models/Tâm Lý Học Jung.md",
@@ -15683,6 +15695,58 @@
       "backlinks": [],
       "words": 1424,
       "summary": "---"
+    },
+    {
+      "path": "esoterica/Thuật Giả Kim Của Newton.md",
+      "title": "Thuật Giả Kim Của Newton",
+      "domain": "esoterica",
+      "tags": [
+        "esoterica"
+      ],
+      "aliases": [],
+      "headings": [
+        "Thuật Giả Kim Của Newton",
+        "Sự Thật Bị Giấu",
+        "Số lượng tài liệu",
+        "Keynes Discovery (1936)",
+        "Why Hidden?",
+        "Newton's Alchemy",
+        "Goals",
+        "Methods",
+        "His Beliefs",
+        "Newton's Hidden Theology",
+        "Anti-Trinitarian",
+        "Biblical Chronology",
+        "Prisca Sapientia",
+        "Implications for Modern Science",
+        "Gravity vs Electrostatics",
+        "Aether Connection",
+        "What Education Doesn't Teach",
+        "The Curated Newton",
+        "Why It Matters",
+        "Other \"Hidden\" Scientist-Mystics",
+        "Related"
+      ],
+      "wikilinks": [
+        "Khoa Học Chân Chính và Thượng Đế",
+        "Khoa Học Xét Lại",
+        "Nikola Tesla",
+        "Năng Lượng Aether",
+        "Walter Russell",
+        "Điều mà nền giáo dục và chính phủ không dạy bạn"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Năng Lượng Aether.md",
+        "science-tech/Walter Russell.md"
+      ],
+      "backlinks": [],
+      "words": 389,
+      "summary": "**Sir Isaac Newton** (1642-1727) — \"cha đẻ của vật lý hiện đại\" — thực chất dành phần lớn cuộc đời cho Huyền học (Occult) và Thuật Giả Kim (Alchemy), không phải khoa học duy vật."
     }
   ],
   "sinks": [],
@@ -15701,7 +15765,7 @@
     ],
     [
       "consciousness",
-      22
+      24
     ],
     [
       "science-tech",
@@ -15764,6 +15828,10 @@
       5
     ],
     [
+      "symbolism",
+      5
+    ],
+    [
       "energy",
       5
     ],
@@ -15784,11 +15852,11 @@
       4
     ],
     [
-      "symbolism",
+      "cosmology",
       4
     ],
     [
-      "cosmology",
+      "gnosis",
       4
     ],
     [
@@ -15821,10 +15889,6 @@
     ],
     [
       "cycles",
-      3
-    ],
-    [
-      "gnosis",
       3
     ],
     [
@@ -15988,6 +16052,10 @@
       1
     ],
     [
+      "freemasonry",
+      1
+    ],
+    [
       "truth",
       1
     ],
@@ -16017,6 +16085,14 @@
     ],
     [
       "nibiru",
+      1
+    ],
+    [
+      "transmutation",
+      1
+    ],
+    [
+      "geomancy",
       1
     ],
     [
@@ -16073,18 +16149,6 @@
     ],
     [
       "lifestyle",
-      1
-    ],
-    [
-      "strategy",
-      1
-    ],
-    [
-      "age-of-aquarius",
-      1
-    ],
-    [
-      "prophecy",
       1
     ]
   ],
@@ -16393,6 +16457,8 @@
       "backlinks": [
         "esoterica/Luân Hồi.md",
         "esoterica/Ma Trận.md",
+        "esoterica/Manly P. Hall.md",
+        "esoterica/Phong Thủy.md",
         "esoterica/Saturn Cube.md",
         "esoterica/Tinh Khí Thần.md",
         "esoterica/Tứ Linh.md",
@@ -17304,8 +17370,7 @@
       ],
       "backlinks": [
         "esoterica/Kundalini.md",
-        "esoterica/Manly P. Hall.md",
-        "esoterica/Năng Lượng Tình Dục.md"
+        "esoterica/Manly P. Hall.md"
       ],
       "words": 2004,
       "summary": "*33 Degrees - Exploring the Sacred Temple Within the Mind*"
@@ -17930,6 +17995,7 @@
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Kundalini.md",
+        "esoterica/Năng Lượng Tình Dục.md",
         "esoterica/Sacred Geometry.md",
         "index.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
@@ -18397,6 +18463,7 @@
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
+        "esoterica/Manly P. Hall.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Monad.md",
         "esoterica/Một Đời Phù Vân.md",
@@ -18753,6 +18820,7 @@
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Chakra.md",
+        "esoterica/Năng Lượng Tình Dục.md",
         "index.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
@@ -19012,6 +19080,7 @@
         "esoterica/Ma Trận.md",
         "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+        "esoterica/Tà Linh.md",
         "index.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -19537,41 +19606,41 @@
       "title": "Manly P. Hall",
       "domain": "esoterica",
       "tags": [
-        "esoterica"
+        "esoterica",
+        "freemasonry",
+        "symbolism"
       ],
       "aliases": [
         "33rd Degree Mason",
-        "Manly Palmer Hall"
+        "Manly Palmer Hall",
+        "The Secret Teachings of All Ages"
       ],
       "headings": [
-        "Manly P. Hall: Chú Thuật Sư Cấp 33 Hội Tam Điểm",
-        "Vai trò Tam Điểm / Freemasonry Role",
-        "Chuyên môn / Expertise",
-        "\"The Secret Teachings of All Ages\" (1928)",
-        "Nội dung / Contents",
-        "Tại sao Quan trọng? / Why Important?",
-        "Mối Liên kết Quyền lực / Power Structure Connection",
-        "[[33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí|33 Tầng Bậc]]",
-        "Ứng dụng / Applications",
-        "Quotes / Trích dẫn",
-        "Related",
-        "Power / Quyền lực",
-        "Knowledge / Tri thức"
+        "Manly P. Hall: Người Giải Mã Biểu Tượng",
+        "Vault Position / Vị Trí Trong Bản Đồ",
+        "Claim Discipline / Kỷ Luật Đọc",
+        "The Secret Teachings / Cánh Cửa Vào Mysteries",
+        "Freemasonry Và Cấp 33 / Freemasonry And The 33rd Degree",
+        "Symbolism As Operating System / Biểu Tượng Như Hệ Điều Hành",
+        "Hall Không Phải Giáo Chủ / Not A Guru",
+        "Ứng Dụng Trong Vault / How The Vault Uses Hall",
+        "Kết Luận / Closing"
       ],
       "wikilinks": [
         "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
         "Cabal",
-        "Elite",
         "Gematria",
+        "Gnosis",
         "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "Trí Tuệ"
+        "MOC - Esoterica & Consciousness"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
         "esoterica/Gematria.md",
+        "esoterica/Gnosis.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "mental-models/Trí Tuệ.md",
+        "MOC - Esoterica & Consciousness.md",
         "politics-conspiracy/Elite.md"
       ],
       "backlinks": [
@@ -19579,8 +19648,8 @@
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
       ],
-      "words": 395,
-      "summary": "**Manly Palmer Hall** (1901-1990) là nhà nghiên cứu huyền học, tác giả, và thành viên Cấp 33 trong Hội Tam Điểm. Được ví như \"Chú thuật sư vĩ đại nhất thế kỷ 20\"."
+      "words": 915,
+      "summary": "**Manly Palmer Hall quan trọng không phải vì ông “biết hết bí mật”. Ông quan trọng vì ông cho thấy giới hiện đại đã quên một ngôn ngữ mà các truyền thống quyền lực vẫn dùng: biểu tượng, nghi lễ, số học, kiến trúc và initiation.**"
     },
     "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md": {
       "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -20281,6 +20350,7 @@
       ],
       "backlinks": [
         "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
+        "esoterica/Phong Thủy.md",
         "esoterica/Sacred Geometry.md",
         "esoterica/Tartaria và Vạn Lý Trường Thành.md",
         "esoterica/Vũ Trụ Học Phật Giáo.md",
@@ -20343,41 +20413,43 @@
       "title": "Năng Lượng Tình Dục",
       "domain": "esoterica",
       "tags": [
-        "esoterica"
+        "consciousness",
+        "esoterica",
+        "transmutation"
       ],
       "aliases": [
         "Creative Energy",
         "Sex Force",
-        "Sexual Energy"
+        "Sexual Energy",
+        "Sinh Lực Tình Dục"
       ],
       "headings": [
         "Năng Lượng Tình Dục (Sexual Energy)",
-        "Sự Bòn Rút / The Extraction",
-        "Sự Chuyển Hóa / Transmutation",
-        "Con đường thăng hoa / The Path of Sublimation",
-        "Kết quả / Results",
-        "Ứng dụng thực tế / Practical Application",
-        "Related"
+        "Vault Position / Vị Trí Trong Bản Đồ",
+        "Claim Discipline / Kỷ Luật Tuyên Bố",
+        "Sinh Lực Không Có Đạo Đức Sẵn / Life Force Is Neutral",
+        "Extraction Loop / Vòng Bòn Rút",
+        "Transmutation / Chuyển Hóa",
+        "Porn As Anti-Initiation / Khiêu Dâm Như Nghi Lễ Ngược",
+        "Dấu Hiệu Lệch Và Dấu Hiệu Đúng / Distortion And Alignment",
+        "Practice Notes / Ghi Chú Thực Hành",
+        "Kết Luận / Closing"
       ],
       "wikilinks": [
-        "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
+        "Chakra",
+        "Kundalini",
         "Ma Trận",
         "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-        "Thuật Giả Kim Của Newton",
-        "Thực Thể Cõi Trung Giới",
         "Tinh Khí Thần",
-        "Trí Tuệ",
         "Tuyến Tùng"
       ],
       "mdlinks": [],
       "outlinks": [
-        "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+        "esoterica/Chakra.md",
+        "esoterica/Kundalini.md",
         "esoterica/Ma Trận.md",
-        "esoterica/Thuật Giả Kim Của Newton.md",
-        "esoterica/Thực Thể Cõi Trung Giới.md",
         "esoterica/Tinh Khí Thần.md",
         "health/Tuyến Tùng.md",
-        "mental-models/Trí Tuệ.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
       "backlinks": [
@@ -20396,8 +20468,8 @@
         "politics-conspiracy/MindGeek.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
-      "words": 386,
-      "summary": "**Năng Lượng Tình Dục** (Sexual Energy/Sex Force) không chỉ phục vụ mục đích sinh sản mà còn là nguồn năng lượng sáng tạo (Creative Energy) và sinh lực cốt lõi mạnh mẽ nhất của con người."
+      "words": 950,
+      "summary": "**Năng lượng tình dục là sinh lực sáng tạo ở tầng thô nhất và mạnh nhất: nó có thể sinh ra một cơ thể, phá nát một đời người, hoặc được chuyển hóa thành ý chí, nghệ thuật, trí tuệ và hiện diện.**"
     },
     "esoterica/Nỏ Thần.md": {
       "path": "esoterica/Nỏ Thần.md",
@@ -20449,37 +20521,53 @@
       "domain": "esoterica",
       "tags": [
         "esoterica",
-        "feng-shui"
+        "feng-shui",
+        "geomancy"
       ],
       "aliases": [
         "Feng Shui",
+        "Wind Water",
         "風水"
       ],
       "headings": [
         "Phong Thủy (Feng Shui / 風水)",
-        "Nguyên Lý Cơ Bản / Basic Principles",
-        "Các Trường Phái / Schools",
-        "Related"
+        "Vault Position / Vị Trí Trong Bản Đồ",
+        "Evidence Discipline / Kỷ Luật Đọc",
+        "Khí Là Dòng, Không Phải Vật / Qi As Flow",
+        "Năm Trục Cơ Bản / Five Core Axes",
+        "Loan Đầu Và Lý Khí / Form And Compass",
+        "Long Mạch / Dragon Veins",
+        "Shadow Side / Mặt Tối Của Phong Thủy",
+        "Practical Reading / Cách Đọc Thực Dụng",
+        "Kết Luận / Closing"
       ],
       "wikilinks": [
         "Long Mạch",
+        "MOC - Esoterica & Consciousness",
+        "Núi Tu Di",
         "Năng Lượng Aether",
         "Sacred Geometry",
+        "Tartaria",
+        "Thành Cổ Loa",
         "Vận Chín"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/Long Mạch.md",
+        "esoterica/Núi Tu Di.md",
         "esoterica/Sacred Geometry.md",
+        "esoterica/Tartaria.md",
+        "esoterica/Thành Cổ Loa.md",
         "esoterica/Vận Chín.md",
+        "MOC - Esoterica & Consciousness.md",
         "science-tech/Năng Lượng Aether.md"
       ],
       "backlinks": [
         "esoterica/Tứ Linh.md",
         "MOC - Ancient Civilizations & Hidden History.md"
       ],
-      "words": 157,
-      "summary": "**Phong Thủy** (風水 = Gió + Nước) là nghệ thuật cổ đại về sắp xếp không gian để harmonize năng lượng (Khí/Chi) với môi trường."
+      "words": 1033,
+      "summary": "**Phong Thủy không phải mẹo đặt cây, treo gương, chọn màu để “hên”. Nó là một hệ đọc không gian: địa hình, hướng, dòng khí, nhịp thời gian và tâm lý cư trú cùng tạo ra một trường ảnh hưởng lên con người.**"
     },
     "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md": {
       "path": "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
@@ -21161,6 +21249,7 @@
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Núi Tu Di.md",
         "esoterica/Nỏ Thần.md",
+        "esoterica/Phong Thủy.md",
         "esoterica/Tartaria và Vạn Lý Trường Thành.md",
         "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
@@ -21351,9 +21440,7 @@
         "science-tech/Năng Lượng Aether.md",
         "science-tech/Walter Russell.md"
       ],
-      "backlinks": [
-        "esoterica/Năng Lượng Tình Dục.md"
-      ],
+      "backlinks": [],
       "words": 389,
       "summary": "**Sir Isaac Newton** (1642-1727) — \"cha đẻ của vật lý hiện đại\" — thực chất dành phần lớn cuộc đời cho Huyền học (Occult) và Thuật Giả Kim (Alchemy), không phải khoa học duy vật."
     },
@@ -21401,6 +21488,7 @@
         "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Nỏ Thần.md",
+        "esoterica/Phong Thủy.md",
         "esoterica/Tartaria.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
@@ -21517,9 +21605,7 @@
         "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Năng Lượng Tình Dục.md",
         "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-        "esoterica/Tà Linh.md",
         "index.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Esoterica & Consciousness.md",
@@ -21647,7 +21733,6 @@
         "esoterica/Gnosis.md",
         "esoterica/Một Đời Phù Vân.md",
         "esoterica/Thánh Issa.md",
-        "esoterica/Tà Linh.md",
         "health/René Quinton và Huyết Tương Biển.md"
       ],
       "words": 574,
@@ -21658,52 +21743,43 @@
       "title": "Tà Linh",
       "domain": "esoterica",
       "tags": [
-        "esoterica"
+        "consciousness",
+        "esoterica",
+        "gnosis"
       ],
       "aliases": [
         "Archons",
         "Energy Parasites",
+        "Flyers",
         "Tà Linh",
-        "Tà Linh (Energy Parasites)"
+        "Tà Linh (Energy Parasites)",
+        "Wetiko"
       ],
       "headings": [
         "Tà Linh (Energy Parasites)",
-        "Các Tên Gọi Khác",
-        "Nguồn Gốc (Theo Các Truyền Thống)",
-        "Book of Enoch",
-        "Gnostic tradition",
-        "Carlos Castaneda",
-        "Cách Hoạt Động",
-        "1. Frequency Matching (Cộng Hưởng Tần Số)",
-        "2. Thought Insertion",
-        "3. Energy Drainage",
-        "Môi Trường Chúng Thích",
-        "Cách Bảo Vệ",
-        "1. Raise Frequency",
-        "2. Energy Hygiene",
-        "3. Awareness",
-        "4. Detox",
-        "Liên Hệ Với Ma Trận",
-        "Related"
+        "How To Read This / Cách Đọc",
+        "Tên Gọi Qua Các Truyền Thống / Names Across Traditions",
+        "Cơ Chế Ký Sinh / Parasitic Mechanics",
+        "Dấu Hiệu Bị Bám / Signs Of Attachment",
+        "Môi Trường Chúng Thích / Feeding Environments",
+        "Liên Hệ Với Ma Trận / Matrix Function",
+        "Energy Hygiene / Vệ Sinh Năng Lượng",
+        "Kết Luận / Closing"
       ],
       "wikilinks": [
-        "Elite",
         "Gnosis",
+        "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
         "Ma Trận",
         "Plasma Quinton",
-        "Suramin",
-        "Thực Thể Cõi Trung Giới",
-        "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện"
+        "Suramin"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/Gnosis.md",
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Ma Trận.md",
-        "esoterica/Thực Thể Cõi Trung Giới.md",
-        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
         "health/Plasma Quinton.md",
-        "health/Suramin.md",
-        "politics-conspiracy/Elite.md"
+        "health/Suramin.md"
       ],
       "backlinks": [
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
@@ -21715,8 +21791,8 @@
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Esoterica & Consciousness.md"
       ],
-      "words": 377,
-      "summary": "**Tà Linh** là những thực thể phi vật chất ký sinh vào trường năng lượng của con người, nuôi dưỡng bằng cảm xúc rung động thấp như sợ hãi, giận dữ, dục vọng và tuyệt vọng."
+      "words": 888,
+      "summary": "**Tà Linh là ngôn ngữ biểu tượng để nói về những lực ký sinh trên attention, cảm xúc và sinh lực của con người. Đọc thấp thì đó là trauma loop, nghiện, thought-form và môi trường độc. Đọc cao thì đó là Archon, Wetiko, thực thể trung giới và cơ chế harvest loo…"
     },
     "esoterica/Tình Yêu Tỉnh Thức.md": {
       "path": "esoterica/Tình Yêu Tỉnh Thức.md",
@@ -25290,9 +25366,7 @@
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
         "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-        "esoterica/Manly P. Hall.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Năng Lượng Tình Dục.md",
         "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
         "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
@@ -26358,7 +26432,6 @@
         "esoterica/Sự Nhất Thể.md",
         "esoterica/Tartaria.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "esoterica/Tà Linh.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
         "esoterica/Tứ Linh.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
