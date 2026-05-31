@@ -10,8 +10,8 @@
       "politics-conspiracy": 23,
       "science-tech": 16
     },
-    "tags": 180,
-    "wikilinkEdges": 1693,
+    "tags": 183,
+    "wikilinkEdges": 1679,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -5564,7 +5564,6 @@
           "health/Thuốc Hóa Dầu.md",
           "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
           "health/Ung Thư - Metabolic Protocol.md",
-          "health/Virus và Kiếp Tật Dịch.md",
           "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
           "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
           "index.md",
@@ -5575,96 +5574,6 @@
         ],
         "words": 1127,
         "summary": "**Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…"
-      },
-      {
-        "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-        "domain": "health",
-        "tags": [
-          "health"
-        ],
-        "aliases": [
-          "Seeing Through Western Medicine",
-          "They Live Medicine"
-        ],
-        "headings": [
-          "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-          "How To Read This / Cách Đọc Bài Này",
-          "Vòng Lặp Lệ Thuộc / The Dependency Loop",
-          "1. Ghép Tạng — Ngành Công Nghiệp Tội Ác",
-          "Sự Thật Đen Tối / Dark Truths",
-          "Tỷ Lệ Sống / Survival Rates",
-          "Cuộc Sống Sau Ghép / Life After Transplant",
-          "2. Ung Thư — Điều Trị Hay Giết Người?",
-          "Khi Nào Khối U Nguy Hiểm? / When Is a Tumor Dangerous?",
-          "Điều Trị = Di Căn / Treatment = Metastasis",
-          "3. Tiểu Đường — Lừa Dối Về Đường",
-          "Vòng Lặp Thuốc / The Drug Loop",
-          "Bản Chất Thực Sự / The Real Nature",
-          "Tội Ác Của Việc Kiêng Đường / The Crime of Sugar Restriction",
-          "4. Các Bệnh Khác — Cùng Pattern",
-          "Viêm Gan B / Hepatitis B",
-          "Táo Bón / Constipation",
-          "Suy Thận / Kidney Failure",
-          "Mất Ngủ / Insomnia",
-          "Cao Huyết Áp / Hypertension",
-          "Mỡ Máu / High Cholesterol",
-          "Kết Luận / Conclusion",
-          "Thay Thế / Alternative",
-          "Related",
-          "Source Register / Nguồn Cần Đối Chiếu"
-        ],
-        "wikilinks": [
-          "Công Thức Chữa Lành Tự Nhiên",
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Elite",
-          "Ma Trận",
-          "MOC - Health Sovereignty",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Thuốc Hóa Dầu",
-          "Ung Thư - Metabolic Protocol",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Thuốc Hóa Dầu.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Ma Trận.md",
-          "health/Bệnh Bạch Cầu.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "health/Ketogenic Diet.md",
-          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
-          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/René Quinton và Huyết Tương Biển.md",
-          "health/Su That Ve Benh Dai Va Vac Xin.md",
-          "health/Suy Thận.md",
-          "health/The China Study.md",
-          "health/Thuốc Hóa Dầu.md",
-          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Virus và Kiếp Tật Dịch.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-          "health/Y Tế Tự Nhiên.md",
-          "index.md",
-          "MOC - Health Sovereignty.md",
-          "MOC - Science Revisionism.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 1852,
-        "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
       },
       {
         "path": "health/Thuyết Vi Sinh Nội Sinh.md",
@@ -5725,7 +5634,6 @@
           "health/René Quinton và Huyết Tương Biển.md",
           "health/Su That Ve Benh Dai Va Vac Xin.md",
           "health/Suramin.md",
-          "health/The China Study.md",
           "health/Thuốc Hóa Dầu.md",
           "health/Tuyến Tùng.md",
           "health/Ung Thư - Metabolic Protocol.md",
@@ -5820,6 +5728,92 @@
         "summary": "**Tuyến Tùng là một cơ quan nhỏ ở trung tâm não, nổi tiếng với vai trò điều hòa melatonin và nhịp ngày-đêm. Nhưng trong truyền thống esoteric, nó còn được đọc như “con mắt thứ ba”: interface giữa sinh lý học, ánh sáng, giấc ngủ, trực giác và khả năng biết trự…"
       },
       {
+        "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+        "domain": "health",
+        "tags": [
+          "health"
+        ],
+        "aliases": [
+          "Seeing Through Western Medicine",
+          "They Live Medicine"
+        ],
+        "headings": [
+          "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+          "How To Read This / Cách Đọc Bài Này",
+          "Vòng Lặp Lệ Thuộc / The Dependency Loop",
+          "1. Ghép Tạng — Ngành Công Nghiệp Tội Ác",
+          "Sự Thật Đen Tối / Dark Truths",
+          "Tỷ Lệ Sống / Survival Rates",
+          "Cuộc Sống Sau Ghép / Life After Transplant",
+          "2. Ung Thư — Điều Trị Hay Giết Người?",
+          "Khi Nào Khối U Nguy Hiểm? / When Is a Tumor Dangerous?",
+          "Điều Trị = Di Căn / Treatment = Metastasis",
+          "3. Tiểu Đường — Lừa Dối Về Đường",
+          "Vòng Lặp Thuốc / The Drug Loop",
+          "Bản Chất Thực Sự / The Real Nature",
+          "Tội Ác Của Việc Kiêng Đường / The Crime of Sugar Restriction",
+          "4. Các Bệnh Khác — Cùng Pattern",
+          "Viêm Gan B / Hepatitis B",
+          "Táo Bón / Constipation",
+          "Suy Thận / Kidney Failure",
+          "Mất Ngủ / Insomnia",
+          "Cao Huyết Áp / Hypertension",
+          "Mỡ Máu / High Cholesterol",
+          "Kết Luận / Conclusion",
+          "Thay Thế / Alternative",
+          "Related",
+          "Source Register / Nguồn Cần Đối Chiếu"
+        ],
+        "wikilinks": [
+          "Công Thức Chữa Lành Tự Nhiên",
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Elite",
+          "Ma Trận",
+          "MOC - Health Sovereignty",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Thuốc Hóa Dầu",
+          "Ung Thư - Metabolic Protocol",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Thuốc Hóa Dầu.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Y Tế Tự Nhiên.md",
+          "MOC - Health Sovereignty.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Ma Trận.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "health/Ketogenic Diet.md",
+          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+          "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Su That Ve Benh Dai Va Vac Xin.md",
+          "health/Thuốc Hóa Dầu.md",
+          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+          "health/Y Tế Tự Nhiên.md",
+          "index.md",
+          "MOC - Health Sovereignty.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 1852,
+        "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
+      },
+      {
         "path": "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "title": "Vận Chín, Người Kogi và Ma Trận Y Tế",
         "domain": "health",
@@ -5880,72 +5874,12 @@
         "backlinks": [
           "esoterica/Kỹ Thuật Thiền Định Kogi.md",
           "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-          "health/Bệnh Bạch Cầu.md",
           "health/Công Thức Chữa Lành Tự Nhiên.md",
           "health/Su That Ve Benh Dai Va Vac Xin.md",
-          "health/Suy Thận.md",
           "MOC - Health Sovereignty.md"
         ],
         "words": 905,
         "summary": "---"
-      },
-      {
-        "path": "health/Thuốc Hóa Dầu.md",
-        "title": "Thuốc Hóa Dầu (Petrochemical Medicine)",
-        "domain": "health",
-        "tags": [
-          "health",
-          "medical-industrial-complex",
-          "pharma"
-        ],
-        "aliases": [
-          "Allopathic Medicine",
-          "Petrochemical Medicine",
-          "Rockefeller Medicine"
-        ],
-        "headings": [
-          "Thuốc Hóa Dầu (Petrochemical Medicine)",
-          "Medical Caution / Cẩn Trọng",
-          "Evidence Discipline / Cách Đọc Claim",
-          "1. Vấn Đề Không Phải Thuốc, Mà Là Incentive",
-          "2. Rockefeller / Flexner Lens",
-          "3. Allopathic Loop",
-          "4. Terrain Bị Lãng Quên",
-          "5. Petrochemical Logic",
-          "6. Khi Nào Thuốc Là Cần Thiết?",
-          "7. Health Sovereignty Frame",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Khế Ước Bí Mật Rockefeller",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "MOC - Health Sovereignty",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
-        ],
-        "backlinks": [
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Y Tế Tự Nhiên.md",
-          "index.md",
-          "MOC - Health Sovereignty.md",
-          "MOC - Science Revisionism.md"
-        ],
-        "words": 901,
-        "summary": "**Thuốc Hóa Dầu là cách gọi phê phán nền y học dược phẩm hiện đại khi nó ưu tiên molecule tổng hợp, patent, symptom management và chronic treatment hơn terrain, dinh dưỡng, ánh sáng, giấc ngủ, khoáng chất và khả năng tự chữa của cơ thể. Vấn đề không phải “mọi…"
       },
       {
         "path": "health/Ung Thư - Metabolic Protocol.md",
@@ -6023,6 +5957,7 @@
         ],
         "backlinks": [
           "Cách Đọc Red Pill Wiki.md",
+          "health/Bệnh Bạch Cầu.md",
           "health/Ketogenic Diet.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
@@ -6033,6 +5968,117 @@
         ],
         "words": 1923,
         "summary": "Hướng dẫn toàn diện về ung thư từ góc nhìn **chuyển hóa (metabolic)** — không phải đột biến gen, mà là **ti thể bị lỗi**. Bao gồm cơ chế, phòng ngừa, và protocol điều trị thay thế."
+      },
+      {
+        "path": "health/Thuốc Hóa Dầu.md",
+        "title": "Thuốc Hóa Dầu (Petrochemical Medicine)",
+        "domain": "health",
+        "tags": [
+          "health",
+          "medical-industrial-complex",
+          "pharma"
+        ],
+        "aliases": [
+          "Allopathic Medicine",
+          "Petrochemical Medicine",
+          "Rockefeller Medicine"
+        ],
+        "headings": [
+          "Thuốc Hóa Dầu (Petrochemical Medicine)",
+          "Medical Caution / Cẩn Trọng",
+          "Evidence Discipline / Cách Đọc Claim",
+          "1. Vấn Đề Không Phải Thuốc, Mà Là Incentive",
+          "2. Rockefeller / Flexner Lens",
+          "3. Allopathic Loop",
+          "4. Terrain Bị Lãng Quên",
+          "5. Petrochemical Logic",
+          "6. Khi Nào Thuốc Là Cần Thiết?",
+          "7. Health Sovereignty Frame",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Khế Ước Bí Mật Rockefeller",
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "MOC - Health Sovereignty",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Y Tế Tự Nhiên.md",
+          "MOC - Health Sovereignty.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
+        ],
+        "backlinks": [
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Y Tế Tự Nhiên.md",
+          "index.md",
+          "MOC - Health Sovereignty.md",
+          "MOC - Science Revisionism.md"
+        ],
+        "words": 901,
+        "summary": "**Thuốc Hóa Dầu là cách gọi phê phán nền y học dược phẩm hiện đại khi nó ưu tiên molecule tổng hợp, patent, symptom management và chronic treatment hơn terrain, dinh dưỡng, ánh sáng, giấc ngủ, khoáng chất và khả năng tự chữa của cơ thể. Vấn đề không phải “mọi…"
+      },
+      {
+        "path": "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "title": "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+        "domain": "health",
+        "tags": [
+          "health",
+          "immune-system",
+          "terrain-theory"
+        ],
+        "aliases": [
+          "Body's Self-Defense",
+          "Immune Response"
+        ],
+        "headings": [
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Medical Caution / Cảnh Báo Y Tế",
+          "Vault Position / Vị Trí Trong Vault",
+          "Sốt / Fever",
+          "Ho / Cough",
+          "Tiêu Chảy / Diarrhea",
+          "Viêm / Inflammation",
+          "Dập Triệu Chứng vs Hỗ Trợ Cơ Thể",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+          "MOC - Health Sovereignty",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Thuốc Hóa Dầu",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Thuốc Hóa Dầu.md",
+          "health/Y Tế Tự Nhiên.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "backlinks": [
+          "esoterica/Vận Chín.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Prolonged Fasting.md",
+          "health/Suy Thận.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Y Tế Tự Nhiên.md",
+          "index.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 954,
+        "summary": "**Triệu chứng không phải lúc nào cũng là kẻ thù; nhiều triệu chứng là cách cơ thể cô lập, đẩy ra, làm nóng, làm loãng, ho, ói, tiêu chảy hoặc nghỉ bắt buộc để bảo vệ terrain.** Nhưng hiểu cơ thể không có nghĩa là lãng mạn hóa nguy hiểm: sốt cao, mất nước, khó…"
       },
       {
         "path": "health/Ketogenic Diet.md",
@@ -6093,58 +6139,6 @@
         ],
         "words": 948,
         "summary": "**Ketogenic Diet không chỉ là trend giảm cân. Ở tầng metabolic, keto là một cách chuyển cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism, đặt lại câu hỏi rất căn bản: bệnh tật là lỗi thuốc men, hay là lỗi môi trường chuyển hóa?**"
-      },
-      {
-        "path": "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "title": "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-        "domain": "health",
-        "tags": [
-          "health",
-          "immune-system",
-          "terrain-theory"
-        ],
-        "aliases": [
-          "Body's Self-Defense",
-          "Immune Response"
-        ],
-        "headings": [
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Medical Caution / Cảnh Báo Y Tế",
-          "Vault Position / Vị Trí Trong Vault",
-          "Sốt / Fever",
-          "Ho / Cough",
-          "Tiêu Chảy / Diarrhea",
-          "Viêm / Inflammation",
-          "Dập Triệu Chứng vs Hỗ Trợ Cơ Thể",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-          "MOC - Health Sovereignty",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Thuốc Hóa Dầu",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Thuốc Hóa Dầu.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "backlinks": [
-          "esoterica/Vận Chín.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Prolonged Fasting.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Y Tế Tự Nhiên.md",
-          "index.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "words": 954,
-        "summary": "**Triệu chứng không phải lúc nào cũng là kẻ thù; nhiều triệu chứng là cách cơ thể cô lập, đẩy ra, làm nóng, làm loãng, ho, ói, tiêu chảy hoặc nghỉ bắt buộc để bảo vệ terrain.** Nhưng hiểu cơ thể không có nghĩa là lãng mạn hóa nguy hiểm: sốt cao, mất nước, khó…"
       },
       {
         "path": "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
@@ -6627,52 +6621,6 @@
         "summary": "**Sự cộng hưởng giữa Muối và Tuyến Tùng** là chìa khóa nâng cấp tần số não bộ và kích hoạt thức tỉnh tâm linh. Kết hợp vật lý và metaphysics."
       },
       {
-        "path": "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "title": "Công Thức Chữa Lành Tự Nhiên",
-        "domain": "health",
-        "tags": [
-          "health"
-        ],
-        "aliases": [],
-        "headings": [
-          "How To Read This / Cách Đọc Bài Này",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Công Thức Chữa Lành Tự Nhiên (Master Note)",
-          "1. Công Thức Muối Biển / Sea Salt Formula",
-          "2. Liệu Pháp Ánh Nắng (Dương Hóa) / Sunlight Therapy (Solar Charging)",
-          "3. Chế Độ Ăn Uống Khoa Học / Scientific Diet",
-          "4. Tẩy Độc Nội Môi / Internal Detoxification",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bệnh Bạch Cầu",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Kỹ Thuật Thiền Định Kogi",
-          "MOC - Health Sovereignty",
-          "Suy Thận",
-          "Vận Chín, Người Kogi và Ma Trận Y Tế",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-          "health/Bệnh Bạch Cầu.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Suy Thận.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "backlinks": [
-          "health/Bệnh Bạch Cầu.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/The China Study.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md"
-        ],
-        "words": 719,
-        "summary": "---"
-      },
-      {
         "path": "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "title": "Y Tế Tự Nhiên & Năng Lượng Mới",
         "domain": "health",
@@ -6774,51 +6722,47 @@
         "summary": "**Ruột không chỉ là ống tiêu hóa. Nó là interface giữa thức ăn, miễn dịch, microbiome, thần kinh phế vị, hormone, cảm xúc và clarity của tâm trí.** Gọi ruột là \"bộ não thứ hai\" không phải thơ; đó là cách nhắc rằng consciousness embodied trong một cơ thể có vi…"
       },
       {
-        "path": "health/Virus và Kiếp Tật Dịch.md",
-        "title": "Virus và Kiếp Tật Dịch",
+        "path": "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "title": "Công Thức Chữa Lành Tự Nhiên",
         "domain": "health",
         "tags": [
-          "health",
-          "karma",
-          "source-note",
-          "spirituality",
-          "terrain-theory",
-          "virus"
+          "health"
         ],
         "aliases": [],
         "headings": [
           "How To Read This / Cách Đọc Bài Này",
           "Source Register / Nguồn Nên Đối Chiếu",
-          "Virus và Kiếp Tật Dịch",
-          "1. Bản Chất Thực Sự Của \"Virus\"",
-          "2. Thuốc \"Trường Sinh\" và Tàn Dư Tà Thần",
-          "Liên kết hệ thống",
+          "Công Thức Chữa Lành Tự Nhiên (Master Note)",
+          "1. Công Thức Muối Biển / Sea Salt Formula",
+          "2. Liệu Pháp Ánh Nắng (Dương Hóa) / Sunlight Therapy (Solar Charging)",
+          "3. Chế Độ Ăn Uống Khoa Học / Scientific Diet",
+          "4. Tẩy Độc Nội Môi / Internal Detoxification",
           "Related"
         ],
         "wikilinks": [
-          "Khế Ước Bí Mật Rockefeller",
+          "Bệnh Bạch Cầu",
           "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "Kỹ Thuật Thiền Định Kogi",
           "MOC - Health Sovereignty",
-          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
-          "Sự Thật Về Ma Túy",
-          "Thuyết Vi Sinh Nội Sinh",
+          "Suy Thận",
+          "Vận Chín, Người Kogi và Ma Trận Y Tế",
           "Y Tế Tự Nhiên"
         ],
         "mdlinks": [],
         "outlinks": [
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+          "health/Bệnh Bạch Cầu.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Suy Thận.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
           "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-          "politics-conspiracy/Sự thật về ma túy.md"
+          "MOC - Health Sovereignty.md"
         ],
         "backlinks": [
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "health/Su That Ve Benh Dai Va Vac Xin.md"
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md"
         ],
-        "words": 554,
+        "words": 719,
         "summary": "---"
       },
       {
@@ -6924,143 +6868,174 @@
         "summary": "---"
       },
       {
-        "path": "health/The China Study.md",
-        "title": "The China Study",
+        "path": "health/Virus và Kiếp Tật Dịch.md",
+        "title": "Virus và Kiếp Tật Dịch",
         "domain": "health",
         "tags": [
-          "health"
+          "health",
+          "spirituality",
+          "terrain-theory",
+          "virus"
         ],
-        "aliases": [],
+        "aliases": [
+          "Kiếp Tật Dịch",
+          "Terrain Theory and Virus",
+          "Virus"
+        ],
         "headings": [
-          "How To Read This / Cách Đọc Bài Này",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "The China Study",
-          "Kết Luận Chính",
-          "1. Animal Protein = Disease Promoter",
-          "2. Diseases of Affluence",
-          "3. Whole Food Plant-Based = Optimal",
-          "Controversy & Criticism",
-          "Supporters say:",
-          "Critics say:",
-          "Balanced View",
-          "Liên Hệ Với Vận Chín, Người Kogi và Ma Trận Y Tế",
-          "Food Industry",
-          "Pharma Industry",
-          "Key Quotes",
-          "Practical Takeaways",
-          "Start with:",
-          "Advanced:",
-          "Related"
+          "Virus và Kiếp Tật Dịch",
+          "Medical Caution / Cảnh Báo Y Khoa",
+          "Evidence Discipline / Kỷ Luật Đọc",
+          "Virus Và Terrain / Germ Plus Terrain",
+          "Pandemic As Control Interface / Đại Dịch Như Giao Diện Kiểm Soát",
+          "Kiếp Tật Dịch / Spiritual Layer",
+          "Vaccine, Thuốc Và Quyền Đồng Thuận / Consent",
+          "Practical Orientation / Định Hướng Thực Dụng",
+          "Kết Luận / Closing"
         ],
         "wikilinks": [
-          "Công Thức Chữa Lành Tự Nhiên",
-          "Elite",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Ma Trận",
-          "MOC - Health Sovereignty",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Y Tế Tự Nhiên"
+          "Khế Ước Bí Mật Rockefeller",
+          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+          "Thuyết Vi Sinh Nội Sinh"
         ],
         "mdlinks": [],
         "outlinks": [
-          "esoterica/Ma Trận.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
           "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md",
-          "politics-conspiracy/Elite.md"
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
         ],
         "backlinks": [
-          "mental-models/Tâm Lý Học Jung.md"
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "health/Su That Ve Benh Dai Va Vac Xin.md"
         ],
-        "words": 600,
-        "summary": "---"
-      },
-      {
-        "path": "health/Bệnh Bạch Cầu.md",
-        "title": "Bệnh Bạch Cầu",
-        "domain": "health",
-        "tags": [
-          "health"
-        ],
-        "aliases": [],
-        "headings": [
-          "How To Read This / Cách Đọc Bài Này",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Bệnh Bạch Cầu (Ung Thư Máu)",
-          "Phản Biện Cơ Chế / Challenging the Mechanism",
-          "Góc Nhìn Tây Y / Western Medicine View",
-          "Góc Nhìn Xét Lại / Revisionist View",
-          "Nguyên Nhân Gây Tổn Thương Tủy / Causes of Bone Marrow Damage",
-          "Phương Pháp Phục Hồi Tự Nhiên / Natural Recovery Methods",
-          "Ánh Nắng Mặt Trời / Sunlight",
-          "Muối Biển Tự Nhiên / Natural Sea Salt",
-          "Đào Thải Độc Tố / Toxin Elimination",
-          "Related"
-        ],
-        "wikilinks": [
-          "Công Thức Chữa Lành Tự Nhiên",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "MOC - Health Sovereignty",
-          "Vận Chín, Người Kogi và Ma Trận Y Tế",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "backlinks": [
-          "health/Công Thức Chữa Lành Tự Nhiên.md"
-        ],
-        "words": 621,
-        "summary": "---"
+        "words": 830,
+        "summary": "**Virus là nơi health sovereignty phải giữ hai mắt mở: một mắt nhìn dữ liệu sinh học về mầm bệnh, miễn dịch và lây truyền; mắt kia nhìn terrain, độc tải, sợ hãi, truyền thông và nghiệp tập thể khiến một đợt bệnh trở thành một nghi lễ xã hội.**"
       },
       {
         "path": "health/Suy Thận.md",
         "title": "Suy Thận (Kidney Failure)",
         "domain": "health",
         "tags": [
-          "detox",
           "health",
           "kidney",
-          "salt"
+          "sovereignty",
+          "terrain"
         ],
         "aliases": [
-          "Suy Thận (Kidney Failure)"
+          "Chronic Kidney Disease",
+          "CKD",
+          "Kidney Failure",
+          "Suy Thận"
         ],
         "headings": [
-          "How To Read This / Cách Đọc Bài Này",
-          "Source Register / Nguồn Nên Đối Chiếu",
           "Suy Thận (Kidney Failure)",
-          "Nguyên Nhân Gây Bệnh",
-          "Cơ Chế Tự Bảo Vệ",
-          "Phương Pháp Phục Hồi Cấp Bách",
-          "Related"
+          "Medical Caution / Cảnh Báo Y Khoa",
+          "Evidence Discipline / Kỷ Luật Đọc",
+          "Thận Là Bộ Lọc Và Bộ Điều Hòa / Filter And Regulator",
+          "Terrain Reading / Đọc Nền Nội Môi",
+          "Muối, Nước Và Cái Bẫy Cực Đoan / Salt, Water, Extremes",
+          "Medical-Industrial Pattern / Vòng Phụ Thuộc",
+          "Practical Sovereignty / Hướng Tự Chủ An Toàn",
+          "Kết Luận / Closing"
         ],
         "wikilinks": [
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "MOC - Health Sovereignty",
-          "Vận Chín, Người Kogi và Ma Trận Y Tế",
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
           "Y Tế Tự Nhiên"
         ],
         "mdlinks": [],
         "outlinks": [
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md"
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Y Tế Tự Nhiên.md"
         ],
         "backlinks": [
           "health/Công Thức Chữa Lành Tự Nhiên.md",
           "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md"
         ],
-        "words": 474,
-        "summary": "---"
+        "words": 910,
+        "summary": "**Suy thận là khi bộ lọc sống của cơ thể không còn giữ được nhịp lọc máu, nước, điện giải và chất thải. Đọc theo health sovereignty, đây không chỉ là “một cơ quan hỏng”, mà là tín hiệu cả terrain: đường huyết, huyết áp, độc tải, viêm, thuốc, ăn uống, stress v…"
+      },
+      {
+        "path": "health/Bệnh Bạch Cầu.md",
+        "title": "Bệnh Bạch Cầu",
+        "domain": "health",
+        "tags": [
+          "blood",
+          "cancer",
+          "health",
+          "terrain"
+        ],
+        "aliases": [
+          "Blood Cancer",
+          "Leukemia",
+          "Ung Thư Máu"
+        ],
+        "headings": [
+          "Bệnh Bạch Cầu (Leukemia)",
+          "Medical Caution / Cảnh Báo Y Khoa",
+          "Evidence Discipline / Kỷ Luật Đọc",
+          "Bạch Cầu Không Phải Kẻ Thù Đơn Giản / White Cells Are Not Simple Enemies",
+          "Terrain Around Blood / Nền Của Máu",
+          "Treatment Reality / Thực Tế Điều Trị",
+          "Sunlight, Salt, Detox / Đừng Biến Hỗ Trợ Thành Thần Dược",
+          "Practical Questions / Câu Hỏi Nên Hỏi",
+          "Kết Luận / Closing"
+        ],
+        "wikilinks": [
+          "Ung Thư - Metabolic Protocol",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Y Tế Tự Nhiên.md"
+        ],
+        "backlinks": [
+          "health/Công Thức Chữa Lành Tự Nhiên.md"
+        ],
+        "words": 834,
+        "summary": "**Bệnh bạch cầu là ung thư của hệ tạo máu, thường bắt đầu trong tủy xương và làm rối loạn sản xuất tế bào máu. Đọc theo health sovereignty, đây là một nơi phải rất tỉnh: không được phủ nhận tính nguy hiểm của leukemia, nhưng cũng không được bỏ qua terrain đã…"
+      },
+      {
+        "path": "health/The China Study.md",
+        "title": "The China Study",
+        "domain": "health",
+        "tags": [
+          "epidemiology",
+          "health",
+          "nutrition",
+          "plant-based"
+        ],
+        "aliases": [
+          "China Study",
+          "T. Colin Campbell",
+          "Whole Food Plant-Based"
+        ],
+        "headings": [
+          "The China Study",
+          "Medical Caution / Cảnh Báo Y Khoa",
+          "Evidence Discipline / Kỷ Luật Đọc",
+          "Luận Điểm Chính / Core Claim",
+          "Where It Is Strong / Nơi Nó Mạnh",
+          "Where It Overreaches / Nơi Nó Dễ Quá Tay",
+          "Plant-Based Không Đồng Nghĩa Với Sạch / Plant-Based Is Not Automatically Clean",
+          "The Industry Layer / Lớp Công Nghiệp",
+          "Practical Takeaways / Rút Ra Thực Dụng",
+          "Kết Luận / Closing"
+        ],
+        "wikilinks": [
+          "Ma Trận",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "health/Y Tế Tự Nhiên.md"
+        ],
+        "backlinks": [
+          "mental-models/Tâm Lý Học Jung.md"
+        ],
+        "words": 853,
+        "summary": "**The China Study quan trọng không phải vì nó “chứng minh mọi thịt sữa đều độc”. Nó quan trọng vì nó kéo dinh dưỡng ra khỏi calorie-counting rẻ tiền và đặt câu hỏi lớn hơn: food system nào tạo ra bệnh mạn tính, và ai hưởng lợi khi con người quên sức mạnh của…"
       }
     ],
     "mental-models": [
@@ -9035,7 +9010,6 @@
           "esoterica/Tứ Linh.md",
           "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/The China Study.md",
           "index.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
           "mental-models/S.E.X Và Tâm Lý Học Jung.md",
@@ -10557,7 +10531,6 @@
           "politics-conspiracy/Kiểm Soát Tâm Trí.md"
         ],
         "backlinks": [
-          "health/Virus và Kiếp Tật Dịch.md",
           "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
         ],
         "words": 1257,
@@ -10870,7 +10843,6 @@
         ],
         "backlinks": [
           "esoterica/Ma Trận.md",
-          "health/Bệnh Bạch Cầu.md",
           "health/Công Thức Chữa Lành Tự Nhiên.md",
           "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
           "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
@@ -10885,13 +10857,10 @@
           "health/René Quinton và Huyết Tương Biển.md",
           "health/Su That Ve Benh Dai Va Vac Xin.md",
           "health/Suramin.md",
-          "health/Suy Thận.md",
-          "health/The China Study.md",
           "health/Thuyết Vi Sinh Nội Sinh.md",
           "health/Thuốc Hóa Dầu.md",
           "health/Tuyến Tùng.md",
           "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-          "health/Virus và Kiếp Tật Dịch.md",
           "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
           "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
           "health/Y Tế Tự Nhiên.md",
@@ -12883,7 +12852,6 @@
         "esoterica/Tứ Linh.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/The China Study.md",
         "index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
@@ -13753,7 +13721,6 @@
         "health/Thuốc Hóa Dầu.md",
         "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
         "health/Ung Thư - Metabolic Protocol.md",
-        "health/Virus và Kiếp Tật Dịch.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "index.md",
@@ -13856,94 +13823,6 @@
       "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là bước tâ…"
     },
     {
-      "path": "MOC - Health Sovereignty.md",
-      "title": "MOC - Health Sovereignty",
-      "domain": "root",
-      "tags": [
-        "health",
-        "moc",
-        "sovereignty"
-      ],
-      "aliases": [],
-      "headings": [
-        "MOC - Health Sovereignty",
-        "Start Here",
-        "Metabolic Protocols",
-        "Terrain & Body Systems",
-        "Matrix Health",
-        "Synthesis"
-      ],
-      "wikilinks": [
-        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-        "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-        "Ketogenic Diet",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
-        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-        "Plasma Quinton",
-        "Prolonged Fasting",
-        "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
-        "Suramin",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
-        "Tuyến Tùng",
-        "Ung Thư - Metabolic Protocol",
-        "Vận Chín, Người Kogi và Ma Trận Y Tế",
-        "Y Tế Tự Nhiên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/Ketogenic Diet.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
-        "health/Prolonged Fasting.md",
-        "health/Suramin.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tuyến Tùng.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên.md"
-      ],
-      "backlinks": [
-        "esoterica/Ma Trận.md",
-        "health/Bệnh Bạch Cầu.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/Ketogenic Diet.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
-        "health/Prolonged Fasting.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Suramin.md",
-        "health/Suy Thận.md",
-        "health/The China Study.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tuyến Tùng.md",
-        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-        "health/Virus và Kiếp Tật Dịch.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "health/Y Tế Tự Nhiên.md",
-        "index.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 184,
-      "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng.**"
-    },
-    {
       "path": "politics-conspiracy/Báo Cáo 2030.md",
       "title": "Báo Cáo 2030",
       "domain": "politics-conspiracy",
@@ -14024,6 +13903,90 @@
       ],
       "words": 941,
       "summary": "**Agenda 2030 nên được đọc như một stack hạ tầng quản trị: khí hậu, y tế, tiền tệ, danh tính số, thành phố thông minh, dữ liệu hành vi và truyền thông đạo đức được ghép lại thành permission architecture.** Bề mặt là phát triển bền vững; câu hỏi vault giữ lại…"
+    },
+    {
+      "path": "MOC - Health Sovereignty.md",
+      "title": "MOC - Health Sovereignty",
+      "domain": "root",
+      "tags": [
+        "health",
+        "moc",
+        "sovereignty"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Health Sovereignty",
+        "Start Here",
+        "Metabolic Protocols",
+        "Terrain & Body Systems",
+        "Matrix Health",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+        "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+        "Ketogenic Diet",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
+        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "Plasma Quinton",
+        "Prolonged Fasting",
+        "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
+        "Suramin",
+        "Thuyết Vi Sinh Nội Sinh",
+        "Thuốc Hóa Dầu",
+        "Tuyến Tùng",
+        "Ung Thư - Metabolic Protocol",
+        "Vận Chín, Người Kogi và Ma Trận Y Tế",
+        "Y Tế Tự Nhiên"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/Plasma Quinton.md",
+        "health/Prolonged Fasting.md",
+        "health/Suramin.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Tuyến Tùng.md",
+        "health/Ung Thư - Metabolic Protocol.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "health/Y Tế Tự Nhiên.md"
+      ],
+      "backlinks": [
+        "esoterica/Ma Trận.md",
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/Plasma Quinton.md",
+        "health/Prolonged Fasting.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Su That Ve Benh Dai Va Vac Xin.md",
+        "health/Suramin.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Tuyến Tùng.md",
+        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "health/Y Tế Tự Nhiên.md",
+        "index.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "words": 184,
+      "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng.**"
     },
     {
       "path": "MOC - Epistemology & Propaganda.md",
@@ -14542,96 +14505,6 @@
       "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
     },
     {
-      "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-      "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-      "domain": "health",
-      "tags": [
-        "health"
-      ],
-      "aliases": [
-        "Seeing Through Western Medicine",
-        "They Live Medicine"
-      ],
-      "headings": [
-        "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
-        "How To Read This / Cách Đọc Bài Này",
-        "Vòng Lặp Lệ Thuộc / The Dependency Loop",
-        "1. Ghép Tạng — Ngành Công Nghiệp Tội Ác",
-        "Sự Thật Đen Tối / Dark Truths",
-        "Tỷ Lệ Sống / Survival Rates",
-        "Cuộc Sống Sau Ghép / Life After Transplant",
-        "2. Ung Thư — Điều Trị Hay Giết Người?",
-        "Khi Nào Khối U Nguy Hiểm? / When Is a Tumor Dangerous?",
-        "Điều Trị = Di Căn / Treatment = Metastasis",
-        "3. Tiểu Đường — Lừa Dối Về Đường",
-        "Vòng Lặp Thuốc / The Drug Loop",
-        "Bản Chất Thực Sự / The Real Nature",
-        "Tội Ác Của Việc Kiêng Đường / The Crime of Sugar Restriction",
-        "4. Các Bệnh Khác — Cùng Pattern",
-        "Viêm Gan B / Hepatitis B",
-        "Táo Bón / Constipation",
-        "Suy Thận / Kidney Failure",
-        "Mất Ngủ / Insomnia",
-        "Cao Huyết Áp / Hypertension",
-        "Mỡ Máu / High Cholesterol",
-        "Kết Luận / Conclusion",
-        "Thay Thế / Alternative",
-        "Related",
-        "Source Register / Nguồn Cần Đối Chiếu"
-      ],
-      "wikilinks": [
-        "Công Thức Chữa Lành Tự Nhiên",
-        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-        "Elite",
-        "Ma Trận",
-        "MOC - Health Sovereignty",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
-        "Ung Thư - Metabolic Protocol",
-        "Y Tế Tự Nhiên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Ma Trận.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Y Tế Tự Nhiên.md",
-        "MOC - Health Sovereignty.md",
-        "politics-conspiracy/Elite.md"
-      ],
-      "backlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Ma Trận.md",
-        "health/Bệnh Bạch Cầu.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "health/Ketogenic Diet.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Suy Thận.md",
-        "health/The China Study.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Virus và Kiếp Tật Dịch.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "health/Y Tế Tự Nhiên.md",
-        "index.md",
-        "MOC - Health Sovereignty.md",
-        "MOC - Science Revisionism.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 1852,
-      "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
-    },
-    {
       "path": "esoterica/Tartaria.md",
       "title": "Tartaria",
       "domain": "esoterica",
@@ -15005,7 +14878,6 @@
         "health/René Quinton và Huyết Tương Biển.md",
         "health/Su That Ve Benh Dai Va Vac Xin.md",
         "health/Suramin.md",
-        "health/The China Study.md",
         "health/Thuốc Hóa Dầu.md",
         "health/Tuyến Tùng.md",
         "health/Ung Thư - Metabolic Protocol.md",
@@ -15178,6 +15050,82 @@
       ],
       "words": 984,
       "summary": "**Tuyến Tùng là một cơ quan nhỏ ở trung tâm não, nổi tiếng với vai trò điều hòa melatonin và nhịp ngày-đêm. Nhưng trong truyền thống esoteric, nó còn được đọc như “con mắt thứ ba”: interface giữa sinh lý học, ánh sáng, giấc ngủ, trực giác và khả năng biết trự…"
+    },
+    {
+      "path": "crypto-finance/Bitcoin.md",
+      "title": "Bitcoin",
+      "domain": "crypto-finance",
+      "tags": [
+        "crypto-finance"
+      ],
+      "aliases": [],
+      "headings": [
+        "Bitcoin",
+        "Tại sao Bitcoin quan trọng? / Why Bitcoin Matters?",
+        "1. Phi tập trung & Không cần niềm tin / Decentralized & Trustless",
+        "2. Cung cấp hạn chế / Hard Cap",
+        "3. Proof-of-Work & Bảo mật / Security",
+        "Bitcoin trong bối cảnh Ma Trận / Bitcoin vs The Matrix",
+        "Mối đe dọa từ CBDC / CBDC Threat",
+        "Bitcoin và Privacy / Bitcoin & Privacy",
+        "Chu kỳ thị trường / Market Cycles",
+        "Related",
+        "Core Articles / Bài viết chính",
+        "Monetary System / Hệ thống tiền tệ",
+        "Gen Z & Agenda 2030",
+        "Investment Mindset / Tâm lý đầu tư"
+      ],
+      "wikilinks": [
+        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "Báo Cáo 2030",
+        "Elite",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giàu Không Nhờ May Mắn",
+        "Khoa Học Xét Lại",
+        "Privacy",
+        "Secular Market",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Tiền Giấy - Tiền Mặt",
+        "Tiền Pháp Định",
+        "Tiền tiền tiền"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Secular Market.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Tiền tiền tiền.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Elite.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Secular Market.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Tiền tiền tiền.md",
+        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "index.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "MOC - Financial Sovereignty.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/Pin Natri-ion.md"
+      ],
+      "words": 690,
+      "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
     }
   ],
   "orphans": [
@@ -15777,7 +15725,7 @@
     ],
     [
       "source-note",
-      16
+      15
     ],
     [
       "crypto-finance",
@@ -15816,12 +15764,12 @@
       7
     ],
     [
-      "moc",
+      "sovereignty",
       6
     ],
     [
-      "sovereignty",
-      5
+      "moc",
+      6
     ],
     [
       "hidden-history",
@@ -15837,10 +15785,6 @@
     ],
     [
       "mind-control",
-      5
-    ],
-    [
-      "salt",
       5
     ],
     [
@@ -15872,6 +15816,14 @@
       4
     ],
     [
+      "salt",
+      4
+    ],
+    [
+      "cancer",
+      4
+    ],
+    [
       "elite",
       4
     ],
@@ -15896,10 +15848,6 @@
       3
     ],
     [
-      "karma",
-      3
-    ],
-    [
       "history",
       3
     ],
@@ -15912,7 +15860,7 @@
       3
     ],
     [
-      "cancer",
+      "terrain",
       3
     ],
     [
@@ -15953,6 +15901,10 @@
     ],
     [
       "astrology",
+      2
+    ],
+    [
+      "karma",
       2
     ],
     [
@@ -16140,15 +16092,11 @@
       1
     ],
     [
+      "blood",
+      1
+    ],
+    [
       "immune-system",
-      1
-    ],
-    [
-      "anti-matrix",
-      1
-    ],
-    [
-      "lifestyle",
       1
     ]
   ],
@@ -16580,7 +16528,6 @@
       ],
       "backlinks": [
         "esoterica/Ma Trận.md",
-        "health/Bệnh Bạch Cầu.md",
         "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
@@ -16595,13 +16542,10 @@
         "health/René Quinton và Huyết Tương Biển.md",
         "health/Su That Ve Benh Dai Va Vac Xin.md",
         "health/Suramin.md",
-        "health/Suy Thận.md",
-        "health/The China Study.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Thuốc Hóa Dầu.md",
         "health/Tuyến Tùng.md",
         "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-        "health/Virus và Kiếp Tật Dịch.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "health/Y Tế Tự Nhiên.md",
@@ -22198,43 +22142,41 @@
       "title": "Bệnh Bạch Cầu",
       "domain": "health",
       "tags": [
-        "health"
+        "blood",
+        "cancer",
+        "health",
+        "terrain"
       ],
-      "aliases": [],
+      "aliases": [
+        "Blood Cancer",
+        "Leukemia",
+        "Ung Thư Máu"
+      ],
       "headings": [
-        "How To Read This / Cách Đọc Bài Này",
-        "Source Register / Nguồn Nên Đối Chiếu",
-        "Bệnh Bạch Cầu (Ung Thư Máu)",
-        "Phản Biện Cơ Chế / Challenging the Mechanism",
-        "Góc Nhìn Tây Y / Western Medicine View",
-        "Góc Nhìn Xét Lại / Revisionist View",
-        "Nguyên Nhân Gây Tổn Thương Tủy / Causes of Bone Marrow Damage",
-        "Phương Pháp Phục Hồi Tự Nhiên / Natural Recovery Methods",
-        "Ánh Nắng Mặt Trời / Sunlight",
-        "Muối Biển Tự Nhiên / Natural Sea Salt",
-        "Đào Thải Độc Tố / Toxin Elimination",
-        "Related"
+        "Bệnh Bạch Cầu (Leukemia)",
+        "Medical Caution / Cảnh Báo Y Khoa",
+        "Evidence Discipline / Kỷ Luật Đọc",
+        "Bạch Cầu Không Phải Kẻ Thù Đơn Giản / White Cells Are Not Simple Enemies",
+        "Terrain Around Blood / Nền Của Máu",
+        "Treatment Reality / Thực Tế Điều Trị",
+        "Sunlight, Salt, Detox / Đừng Biến Hỗ Trợ Thành Thần Dược",
+        "Practical Questions / Câu Hỏi Nên Hỏi",
+        "Kết Luận / Closing"
       ],
       "wikilinks": [
-        "Công Thức Chữa Lành Tự Nhiên",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "MOC - Health Sovereignty",
-        "Vận Chín, Người Kogi và Ma Trận Y Tế",
+        "Ung Thư - Metabolic Protocol",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên.md",
-        "MOC - Health Sovereignty.md"
+        "health/Ung Thư - Metabolic Protocol.md",
+        "health/Y Tế Tự Nhiên.md"
       ],
       "backlinks": [
         "health/Công Thức Chữa Lành Tự Nhiên.md"
       ],
-      "words": 621,
-      "summary": "---"
+      "words": 834,
+      "summary": "**Bệnh bạch cầu là ung thư của hệ tạo máu, thường bắt đầu trong tủy xương và làm rối loạn sản xuất tế bào máu. Đọc theo health sovereignty, đây là một nơi phải rất tỉnh: không được phủ nhận tính nguy hiểm của leukemia, nhưng cũng không được bỏ qua terrain đã…"
     },
     "health/Công Thức Chữa Lành Tự Nhiên.md": {
       "path": "health/Công Thức Chữa Lành Tự Nhiên.md",
@@ -22274,9 +22216,7 @@
         "MOC - Health Sovereignty.md"
       ],
       "backlinks": [
-        "health/Bệnh Bạch Cầu.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/The China Study.md",
         "health/Thuyết Vi Sinh Nội Sinh.md"
       ],
       "words": 719,
@@ -22325,6 +22265,7 @@
         "esoterica/Vận Chín.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Prolonged Fasting.md",
+        "health/Suy Thận.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Y Tế Tự Nhiên.md",
         "index.md",
@@ -22562,7 +22503,6 @@
       "backlinks": [
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Ma Trận.md",
-        "health/Bệnh Bạch Cầu.md",
         "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
         "health/Ketogenic Diet.md",
@@ -22571,12 +22511,9 @@
         "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
         "health/René Quinton và Huyết Tương Biển.md",
         "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Suy Thận.md",
-        "health/The China Study.md",
         "health/Thuốc Hóa Dầu.md",
         "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
         "health/Ung Thư - Metabolic Protocol.md",
-        "health/Virus và Kiếp Tật Dịch.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "health/Y Tế Tự Nhiên.md",
@@ -23047,96 +22984,85 @@
       "title": "Suy Thận (Kidney Failure)",
       "domain": "health",
       "tags": [
-        "detox",
         "health",
         "kidney",
-        "salt"
+        "sovereignty",
+        "terrain"
       ],
       "aliases": [
-        "Suy Thận (Kidney Failure)"
+        "Chronic Kidney Disease",
+        "CKD",
+        "Kidney Failure",
+        "Suy Thận"
       ],
       "headings": [
-        "How To Read This / Cách Đọc Bài Này",
-        "Source Register / Nguồn Nên Đối Chiếu",
         "Suy Thận (Kidney Failure)",
-        "Nguyên Nhân Gây Bệnh",
-        "Cơ Chế Tự Bảo Vệ",
-        "Phương Pháp Phục Hồi Cấp Bách",
-        "Related"
+        "Medical Caution / Cảnh Báo Y Khoa",
+        "Evidence Discipline / Kỷ Luật Đọc",
+        "Thận Là Bộ Lọc Và Bộ Điều Hòa / Filter And Regulator",
+        "Terrain Reading / Đọc Nền Nội Môi",
+        "Muối, Nước Và Cái Bẫy Cực Đoan / Salt, Water, Extremes",
+        "Medical-Industrial Pattern / Vòng Phụ Thuộc",
+        "Practical Sovereignty / Hướng Tự Chủ An Toàn",
+        "Kết Luận / Closing"
       ],
       "wikilinks": [
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "MOC - Health Sovereignty",
-        "Vận Chín, Người Kogi và Ma Trận Y Tế",
+        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên.md",
-        "MOC - Health Sovereignty.md"
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Y Tế Tự Nhiên.md"
       ],
       "backlinks": [
         "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md"
       ],
-      "words": 474,
-      "summary": "---"
+      "words": 910,
+      "summary": "**Suy thận là khi bộ lọc sống của cơ thể không còn giữ được nhịp lọc máu, nước, điện giải và chất thải. Đọc theo health sovereignty, đây không chỉ là “một cơ quan hỏng”, mà là tín hiệu cả terrain: đường huyết, huyết áp, độc tải, viêm, thuốc, ăn uống, stress v…"
     },
     "health/The China Study.md": {
       "path": "health/The China Study.md",
       "title": "The China Study",
       "domain": "health",
       "tags": [
-        "health"
+        "epidemiology",
+        "health",
+        "nutrition",
+        "plant-based"
       ],
-      "aliases": [],
+      "aliases": [
+        "China Study",
+        "T. Colin Campbell",
+        "Whole Food Plant-Based"
+      ],
       "headings": [
-        "How To Read This / Cách Đọc Bài Này",
-        "Source Register / Nguồn Nên Đối Chiếu",
         "The China Study",
-        "Kết Luận Chính",
-        "1. Animal Protein = Disease Promoter",
-        "2. Diseases of Affluence",
-        "3. Whole Food Plant-Based = Optimal",
-        "Controversy & Criticism",
-        "Supporters say:",
-        "Critics say:",
-        "Balanced View",
-        "Liên Hệ Với Vận Chín, Người Kogi và Ma Trận Y Tế",
-        "Food Industry",
-        "Pharma Industry",
-        "Key Quotes",
-        "Practical Takeaways",
-        "Start with:",
-        "Advanced:",
-        "Related"
+        "Medical Caution / Cảnh Báo Y Khoa",
+        "Evidence Discipline / Kỷ Luật Đọc",
+        "Luận Điểm Chính / Core Claim",
+        "Where It Is Strong / Nơi Nó Mạnh",
+        "Where It Overreaches / Nơi Nó Dễ Quá Tay",
+        "Plant-Based Không Đồng Nghĩa Với Sạch / Plant-Based Is Not Automatically Clean",
+        "The Industry Layer / Lớp Công Nghiệp",
+        "Practical Takeaways / Rút Ra Thực Dụng",
+        "Kết Luận / Closing"
       ],
       "wikilinks": [
-        "Công Thức Chữa Lành Tự Nhiên",
-        "Elite",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
         "Ma Trận",
-        "MOC - Health Sovereignty",
-        "Thuyết Vi Sinh Nội Sinh",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/Ma Trận.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Y Tế Tự Nhiên.md",
-        "MOC - Health Sovereignty.md",
-        "politics-conspiracy/Elite.md"
+        "health/Y Tế Tự Nhiên.md"
       ],
       "backlinks": [
         "mental-models/Tâm Lý Học Jung.md"
       ],
-      "words": 600,
-      "summary": "---"
+      "words": 853,
+      "summary": "**The China Study quan trọng không phải vì nó “chứng minh mọi thịt sữa đều độc”. Nó quan trọng vì nó kéo dinh dưỡng ra khỏi calorie-counting rẻ tiền và đặt câu hỏi lớn hơn: food system nào tạo ra bệnh mạn tính, và ai hưởng lợi khi con người quên sức mạnh của…"
     },
     "health/Thuyết Vi Sinh Nội Sinh.md": {
       "path": "health/Thuyết Vi Sinh Nội Sinh.md",
@@ -23197,7 +23123,6 @@
         "health/René Quinton và Huyết Tương Biển.md",
         "health/Su That Ve Benh Dai Va Vac Xin.md",
         "health/Suramin.md",
-        "health/The China Study.md",
         "health/Thuốc Hóa Dầu.md",
         "health/Tuyến Tùng.md",
         "health/Ung Thư - Metabolic Protocol.md",
@@ -23495,6 +23420,7 @@
       ],
       "backlinks": [
         "Cách Đọc Red Pill Wiki.md",
+        "health/Bệnh Bạch Cầu.md",
         "health/Ketogenic Diet.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
@@ -23512,47 +23438,43 @@
       "domain": "health",
       "tags": [
         "health",
-        "karma",
-        "source-note",
         "spirituality",
         "terrain-theory",
         "virus"
       ],
-      "aliases": [],
+      "aliases": [
+        "Kiếp Tật Dịch",
+        "Terrain Theory and Virus",
+        "Virus"
+      ],
       "headings": [
-        "How To Read This / Cách Đọc Bài Này",
-        "Source Register / Nguồn Nên Đối Chiếu",
         "Virus và Kiếp Tật Dịch",
-        "1. Bản Chất Thực Sự Của \"Virus\"",
-        "2. Thuốc \"Trường Sinh\" và Tàn Dư Tà Thần",
-        "Liên kết hệ thống",
-        "Related"
+        "Medical Caution / Cảnh Báo Y Khoa",
+        "Evidence Discipline / Kỷ Luật Đọc",
+        "Virus Và Terrain / Germ Plus Terrain",
+        "Pandemic As Control Interface / Đại Dịch Như Giao Diện Kiểm Soát",
+        "Kiếp Tật Dịch / Spiritual Layer",
+        "Vaccine, Thuốc Và Quyền Đồng Thuận / Consent",
+        "Practical Orientation / Định Hướng Thực Dụng",
+        "Kết Luận / Closing"
       ],
       "wikilinks": [
         "Khế Ước Bí Mật Rockefeller",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "MOC - Health Sovereignty",
         "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
-        "Sự Thật Về Ma Túy",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Y Tế Tự Nhiên"
+        "Thuyết Vi Sinh Nội Sinh"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Y Tế Tự Nhiên.md",
-        "MOC - Health Sovereignty.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/Sự thật về ma túy.md"
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
       ],
       "backlinks": [
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "health/Su That Ve Benh Dai Va Vac Xin.md"
       ],
-      "words": 554,
-      "summary": "---"
+      "words": 830,
+      "summary": "**Virus là nơi health sovereignty phải giữ hai mắt mở: một mắt nhìn dữ liệu sinh học về mầm bệnh, miễn dịch và lây truyền; mắt kia nhìn terrain, độc tải, sợ hãi, truyền thông và nghiệp tập thể khiến một đợt bệnh trở thành một nghi lễ xã hội.**"
     },
     "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md": {
       "path": "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
@@ -23615,10 +23537,8 @@
       "backlinks": [
         "esoterica/Kỹ Thuật Thiền Định Kogi.md",
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-        "health/Bệnh Bạch Cầu.md",
         "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Suy Thận.md",
         "MOC - Health Sovereignty.md"
       ],
       "words": 905,
@@ -23755,7 +23675,6 @@
         "health/Thuốc Hóa Dầu.md",
         "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
         "health/Ung Thư - Metabolic Protocol.md",
-        "health/Virus và Kiếp Tật Dịch.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "index.md",
@@ -26436,7 +26355,6 @@
         "esoterica/Tứ Linh.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/The China Study.md",
         "index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
@@ -27196,7 +27114,6 @@
         "politics-conspiracy/Kiểm Soát Tâm Trí.md"
       ],
       "backlinks": [
-        "health/Virus và Kiếp Tật Dịch.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
       ],
       "words": 1257,
