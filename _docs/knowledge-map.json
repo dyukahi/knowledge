@@ -10,8 +10,8 @@
       "politics-conspiracy": 23,
       "science-tech": 16
     },
-    "tags": 179,
-    "wikilinkEdges": 1658,
+    "tags": 177,
+    "wikilinkEdges": 1657,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -1332,7 +1332,6 @@
           "esoterica/Monad.md",
           "esoterica/Một Đời Phù Vân.md",
           "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Mental Model.md"
         ],
@@ -5002,6 +5001,56 @@
         "summary": "**Nibiru** (Planet X) là thiên thể bí ẩn được cho là có quỹ đạo elliptical cực kỳ dài (3,600 năm), định kỳ tiếp cận hệ Mặt Trời bên trong và gây ra các thảm họa trên Trái Đất."
       },
       {
+        "path": "esoterica/Năng Lượng Natri.md",
+        "title": "Năng Lượng Natri (Sodium Energy)",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "science-tech"
+        ],
+        "aliases": [],
+        "headings": [
+          "Năng Lượng Natri (Sodium Energy)",
+          "Cơ Chế Khoa Học",
+          "1. Natri + Nước = Năng Lượng",
+          "2. Điện Phân Nước Biển",
+          "3. Natri Lỏng Làm Chất Tải Nhiệt",
+          "Ứng Dụng Bị Che Giấu?",
+          "Tàu ngầm hạt nhân",
+          "\"Nhà máy điện hạt nhân\"",
+          "Tại Sao Bị Giấu?",
+          "Liên Hệ Với Các Công Nghệ Khác",
+          "[[Năng Lượng Aether]]",
+          "[[Pin Natri-ion]]",
+          "Hydrogen Economy",
+          "Bằng Chứng Gián Tiếp",
+          "Related"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+          "Khoa Học Xét Lại",
+          "Nikola Tesla",
+          "Năng Lượng Aether",
+          "Pin Natri-ion"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "politics-conspiracy/Elite.md",
+          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Năng Lượng Aether.md",
+          "science-tech/Pin Natri-ion.md"
+        ],
+        "backlinks": [
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
+        ],
+        "words": 352,
+        "summary": "**Năng Lượng Natri** là khái niệm về việc khai thác năng lượng từ Natri (Na) — nguyên tố phong phú trong nước biển. Theo Khoa Học Xét Lại, đây là nguồn năng lượng bị che giấu có thể thay thế hoàn toàn nhiên liệu hóa thạch."
+      },
+      {
         "path": "esoterica/Tartaria và Vạn Lý Trường Thành.md",
         "title": "Tartaria và Vạn Lý Trường Thành",
         "domain": "esoterica",
@@ -5152,55 +5201,6 @@
         ],
         "words": 744,
         "summary": "**Dịch Chuyển Cực** là sự thay đổi đột ngột vị trí các cực từ hoặc/và cực địa lý của Trái Đất. Trong lịch sử, hiện tượng này được cho là đã gây ra các thảm họa diệt vong và \"reset\" nền văn minh."
-      },
-      {
-        "path": "esoterica/Năng Lượng Natri.md",
-        "title": "Năng Lượng Natri (Sodium Energy)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "science-tech"
-        ],
-        "aliases": [],
-        "headings": [
-          "Năng Lượng Natri (Sodium Energy)",
-          "Cơ Chế Khoa Học",
-          "1. Natri + Nước = Năng Lượng",
-          "2. Điện Phân Nước Biển",
-          "3. Natri Lỏng Làm Chất Tải Nhiệt",
-          "Ứng Dụng Bị Che Giấu?",
-          "Tàu ngầm hạt nhân",
-          "\"Nhà máy điện hạt nhân\"",
-          "Tại Sao Bị Giấu?",
-          "Liên Hệ Với Các Công Nghệ Khác",
-          "[[Năng Lượng Aether]]",
-          "[[Pin Natri-ion]]",
-          "Hydrogen Economy",
-          "Bằng Chứng Gián Tiếp",
-          "Related"
-        ],
-        "wikilinks": [
-          "Elite",
-          "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-          "Khoa Học Xét Lại",
-          "Nikola Tesla",
-          "Năng Lượng Aether",
-          "Pin Natri-ion"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "politics-conspiracy/Elite.md",
-          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md",
-          "science-tech/Pin Natri-ion.md"
-        ],
-        "backlinks": [
-          "health/René Quinton và Huyết Tương Biển.md"
-        ],
-        "words": 352,
-        "summary": "**Năng Lượng Natri** là khái niệm về việc khai thác năng lượng từ Natri (Na) — nguyên tố phong phú trong nước biển. Theo Khoa Học Xét Lại, đây là nguồn năng lượng bị che giấu có thể thay thế hoàn toàn nhiên liệu hóa thạch."
       },
       {
         "path": "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
@@ -5634,7 +5634,6 @@
           "health/Tuyến Tùng.md",
           "health/Ung Thư - Metabolic Protocol.md",
           "health/Virus và Kiếp Tật Dịch.md",
-          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
           "health/Y Tế Tự Nhiên.md",
           "index.md",
           "MOC - Health Sovereignty.md",
@@ -5797,7 +5796,6 @@
           "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
           "health/Ung Thư - Metabolic Protocol.md",
           "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
           "health/Y Tế Tự Nhiên.md",
           "index.md",
           "MOC - Health Sovereignty.md",
@@ -6140,6 +6138,64 @@
         "summary": "**Ketogenic Diet không chỉ là trend giảm cân. Ở tầng metabolic, keto là một cách chuyển cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism, đặt lại câu hỏi rất căn bản: bệnh tật là lỗi thuốc men, hay là lỗi môi trường chuyển hóa?**"
       },
       {
+        "path": "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "title": "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "domain": "health",
+        "tags": [
+          "age-of-aquarius",
+          "healing",
+          "health",
+          "occult",
+          "prophecy",
+          "salt",
+          "source-note",
+          "spirituality"
+        ],
+        "aliases": [],
+        "headings": [
+          "How To Read This / Cách Đọc Bài Này",
+          "Source Register / Nguồn Nên Đối Chiếu",
+          "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+          "1. Muối: Bản Di Chúc Của Biển Cả",
+          "2. Chu Kỳ Thời Gian và Sự Thức Tỉnh",
+          "3. Ma Trận Giả Dối và Thuốc Hóa Dầu",
+          "4. Lời Tiên Tri Về Ngày Trở Về",
+          "Liên kết hệ thống",
+          "Related"
+        ],
+        "wikilinks": [
+          "Khế Ước Bí Mật Rockefeller",
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "Ma Trận",
+          "MOC - Health Sovereignty",
+          "René Quinton và Huyết Tương Biển",
+          "Thuốc Hóa Dầu",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Thuốc Hóa Dầu.md",
+          "health/Y Tế Tự Nhiên.md",
+          "MOC - Health Sovereignty.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
+        ],
+        "backlinks": [
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/Plasma Quinton.md",
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+          "health/Y Tế Tự Nhiên.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 681,
+        "summary": "---"
+      },
+      {
         "path": "health/Thuốc Hóa Dầu.md",
         "title": "Thuốc Hóa Dầu (Petrochemical Medicine)",
         "domain": "health",
@@ -6196,63 +6252,6 @@
         ],
         "words": 901,
         "summary": "**Thuốc Hóa Dầu là cách gọi phê phán nền y học dược phẩm hiện đại khi nó ưu tiên molecule tổng hợp, patent, symptom management và chronic treatment hơn terrain, dinh dưỡng, ánh sáng, giấc ngủ, khoáng chất và khả năng tự chữa của cơ thể. Vấn đề không phải “mọi…"
-      },
-      {
-        "path": "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "title": "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-        "domain": "health",
-        "tags": [
-          "age-of-aquarius",
-          "healing",
-          "health",
-          "occult",
-          "prophecy",
-          "salt",
-          "source-note",
-          "spirituality"
-        ],
-        "aliases": [],
-        "headings": [
-          "How To Read This / Cách Đọc Bài Này",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-          "1. Muối: Bản Di Chúc Của Biển Cả",
-          "2. Chu Kỳ Thời Gian và Sự Thức Tỉnh",
-          "3. Ma Trận Giả Dối và Thuốc Hóa Dầu",
-          "4. Lời Tiên Tri Về Ngày Trở Về",
-          "Liên kết hệ thống",
-          "Related"
-        ],
-        "wikilinks": [
-          "Khế Ước Bí Mật Rockefeller",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Ma Trận",
-          "MOC - Health Sovereignty",
-          "René Quinton và Huyết Tương Biển",
-          "Thuốc Hóa Dầu",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/René Quinton và Huyết Tương Biển.md",
-          "health/Thuốc Hóa Dầu.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
-        ],
-        "backlinks": [
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Plasma Quinton.md",
-          "health/René Quinton và Huyết Tương Biển.md",
-          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "words": 681,
-        "summary": "---"
       },
       {
         "path": "health/Công Thức Chữa Lành Tự Nhiên.md",
@@ -6685,53 +6684,56 @@
         "title": "Y Tế Tự Nhiên & Năng Lượng Mới",
         "domain": "health",
         "tags": [
-          "alternative-medicine",
           "energy",
           "health",
-          "salt",
-          "sodium-ion",
-          "source-note",
+          "science-tech",
           "terrain-theory"
         ],
-        "aliases": [],
+        "aliases": [
+          "Natri-ion và Y Tế Tự Nhiên",
+          "Natural Health and New Energy",
+          "Sodium Sovereignty"
+        ],
         "headings": [
-          "How To Read This / Cách Đọc Bài Này",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Y Tế Tự Nhiên & Năng Lượng Mới (Natri-ion)",
-          "1. Y Học Phản Biện & Cơ Chế \"Bãi Rác\"",
-          "2. Quyền Năng Của Muối & Đôi Bàn Chân",
-          "3. Năng Lượng Mới: Natri Lỏng & Pin Natri-ion",
-          "Liên kết hệ thống",
-          "Related"
+          "Y Tế Tự Nhiên & Năng Lượng Mới",
+          "Medical Caution / Cảnh Báo Y Khoa",
+          "Evidence Discipline / Kỷ Luật Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Sodium Trong Cơ Thể / Sodium In The Body",
+          "Cao Huyết Áp: Tín Hiệu Nhưng Không Được Lãng Mạn Hóa",
+          "Muối, Biển Và Nội Môi",
+          "Sodium Trong Công Nghệ / Sodium In Energy Tech",
+          "Rockefeller Pattern: Dependency Là Mẫu Số Chung",
+          "Claims Cần Hạ Nhiệt",
+          "Practice / Hướng Đi Thực Dụng",
+          "Core Insight / Chốt Lại"
         ],
         "wikilinks": [
-          "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
           "Khế Ước Bí Mật Rockefeller",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
           "MOC - Health Sovereignty",
+          "MOC - Science Revisionism",
+          "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+          "Năng Lượng Natri",
           "Pin Natri-ion",
           "René Quinton và Huyết Tương Biển",
-          "Sự Thật Về Ma Túy",
-          "Thuyết Vi Sinh Nội Sinh",
+          "Suy Thận",
           "Y Tế Tự Nhiên"
         ],
         "mdlinks": [],
         "outlinks": [
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "esoterica/Năng Lượng Natri.md",
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
           "health/René Quinton và Huyết Tương Biển.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Suy Thận.md",
           "health/Y Tế Tự Nhiên.md",
           "MOC - Health Sovereignty.md",
+          "MOC - Science Revisionism.md",
           "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-          "politics-conspiracy/Sự thật về ma túy.md",
-          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
           "science-tech/Pin Natri-ion.md"
         ],
         "backlinks": [],
-        "words": 723,
-        "summary": "---"
+        "words": 1148,
+        "summary": "**Bài này là cầu nối giữa hai câu hỏi tưởng xa nhau: cơ thể cần khoáng và điện giải để sống; civilization cần vật liệu và năng lượng để thoát độc quyền.** Natri, muối, biển, pin sodium-ion và health sovereignty có thể cùng tạo một motif mạnh, nhưng không được…"
       },
       {
         "path": "health/Su That Ve Benh Dai Va Vac Xin.md",
@@ -6834,6 +6836,51 @@
         "summary": "---"
       },
       {
+        "path": "health/Suy Thận.md",
+        "title": "Suy Thận (Kidney Failure)",
+        "domain": "health",
+        "tags": [
+          "health",
+          "kidney",
+          "sovereignty",
+          "terrain"
+        ],
+        "aliases": [
+          "Chronic Kidney Disease",
+          "CKD",
+          "Kidney Failure",
+          "Suy Thận"
+        ],
+        "headings": [
+          "Suy Thận (Kidney Failure)",
+          "Medical Caution / Cảnh Báo Y Khoa",
+          "Evidence Discipline / Kỷ Luật Đọc",
+          "Thận Là Bộ Lọc Và Bộ Điều Hòa / Filter And Regulator",
+          "Terrain Reading / Đọc Nền Nội Môi",
+          "Muối, Nước Và Cái Bẫy Cực Đoan / Salt, Water, Extremes",
+          "Medical-Industrial Pattern / Vòng Phụ Thuộc",
+          "Practical Sovereignty / Hướng Tự Chủ An Toàn",
+          "Kết Luận / Closing"
+        ],
+        "wikilinks": [
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Y Tế Tự Nhiên.md"
+        ],
+        "backlinks": [
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
+        ],
+        "words": 910,
+        "summary": "**Suy thận là khi bộ lọc sống của cơ thể không còn giữ được nhịp lọc máu, nước, điện giải và chất thải. Đọc theo health sovereignty, đây không chỉ là “một cơ quan hỏng”, mà là tín hiệu cả terrain: đường huyết, huyết áp, độc tải, viêm, thuốc, ăn uống, stress v…"
+      },
+      {
         "path": "health/Plasma Quinton.md",
         "title": "Plasma Quinton (Huyết Tương Biển)",
         "domain": "health",
@@ -6880,50 +6927,6 @@
         "backlinks": [],
         "words": 898,
         "summary": "**Plasma Quinton là nước biển được xử lý theo phương pháp René Quinton, thường được đọc trong health sovereignty như một cách hỗ trợ terrain khoáng chất và nội môi. Điểm cốt lõi không phải “nước biển chữa mọi bệnh”, mà là câu hỏi sâu hơn: cơ thể có thể tự sửa…"
-      },
-      {
-        "path": "health/Suy Thận.md",
-        "title": "Suy Thận (Kidney Failure)",
-        "domain": "health",
-        "tags": [
-          "health",
-          "kidney",
-          "sovereignty",
-          "terrain"
-        ],
-        "aliases": [
-          "Chronic Kidney Disease",
-          "CKD",
-          "Kidney Failure",
-          "Suy Thận"
-        ],
-        "headings": [
-          "Suy Thận (Kidney Failure)",
-          "Medical Caution / Cảnh Báo Y Khoa",
-          "Evidence Discipline / Kỷ Luật Đọc",
-          "Thận Là Bộ Lọc Và Bộ Điều Hòa / Filter And Regulator",
-          "Terrain Reading / Đọc Nền Nội Môi",
-          "Muối, Nước Và Cái Bẫy Cực Đoan / Salt, Water, Extremes",
-          "Medical-Industrial Pattern / Vòng Phụ Thuộc",
-          "Practical Sovereignty / Hướng Tự Chủ An Toàn",
-          "Kết Luận / Closing"
-        ],
-        "wikilinks": [
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Y Tế Tự Nhiên.md"
-        ],
-        "backlinks": [
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/René Quinton và Huyết Tương Biển.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md"
-        ],
-        "words": 910,
-        "summary": "**Suy thận là khi bộ lọc sống của cơ thể không còn giữ được nhịp lọc máu, nước, điện giải và chất thải. Đọc theo health sovereignty, đây không chỉ là “một cơ quan hỏng”, mà là tín hiệu cả terrain: đường huyết, huyết áp, độc tải, viêm, thuốc, ăn uống, stress v…"
       },
       {
         "path": "health/Virus và Kiếp Tật Dịch.md",
@@ -10513,9 +10516,7 @@
           "politics-conspiracy/Elite.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md"
         ],
-        "backlinks": [
-          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
-        ],
+        "backlinks": [],
         "words": 1257,
         "summary": "Bài viết này trình bày một góc nhìn phản biện về ma túy, nghiện, và Cuộc chiến chống ma túy, kêu gọi người đọc cởi bỏ định kiến và xem xét vấn đề từ nhiều phía. Tác giả lập luận rằng những hiểu biết phổ thông về ma túy phần lớn là sai lầm và cuộc chiến chống…"
       }
@@ -11074,6 +11075,7 @@
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
         ],
         "backlinks": [
+          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
           "index.md",
           "mental-models/Mô Hình Địa Tâm.md",
           "politics-conspiracy/Elite.md",
@@ -11774,100 +11776,6 @@
         "summary": "*Digital ID Normalization: From Instagram Profile To Government ID*"
       },
       {
-        "path": "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "title": "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-        "domain": "science-tech",
-        "tags": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6",
-          "7",
-          "8",
-          "conspiracy",
-          "revisionist",
-          "science-tech"
-        ],
-        "aliases": [],
-        "headings": [
-          "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-          "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "🎯 Tóm Tắt / Summary",
-          "📜 Timeline: Ai Phát Hiện Gì?",
-          "🔴 Red Flag #1: Ai Fund Nghiên Cứu?",
-          "Rockefeller Foundation",
-          "🔴 Red Flag #2: Einstein — Thiên Tài Hay Sản Phẩm?",
-          "Plagiarism Claims Có Cơ Sở",
-          "Mileva Marić — Vợ Bị Xóa Tên?",
-          "E=mc² Chưa Được Prove?",
-          "🔴 Red Flag #3: LNT Model — Fraud Có Giấy Tờ",
-          "Hermann Muller & Nobel Lie",
-          "🔴 Red Flag #4: Radium Girls — Industry Biết Trước",
-          "1920s Factory Scandal",
-          "🔴 Red Flag #5: Reactor vs Bomb — Khác Nhau Hoàn Toàn",
-          "Official Physics",
-          "Chain Reaction — Fermi's Chicago Pile-1",
-          "🔴 Red Flag #6: Trinity Test — Timeline Bất Hợp Lý",
-          "🔴 Red Flag #7: Radiation Fear vs Reality",
-          "Case Study: Ramsar, Iran",
-          "Radiation Hormesis",
-          "Chernobyl Wildlife",
-          "Fukushima Deaths",
-          "🔴 Red Flag #8: DEW — Vũ Khí Thật Sự?",
-          "Directed Energy Weapons (Confirmed)",
-          "9/11 Dustification Theory (Dr. Judy Wood)",
-          "Could DEW Explain Hiroshima?",
-          "🧩 Connecting The Dots",
-          "🎯 Cui Bono? Ai Hưởng Lợi?",
-          "📊 Confidence Assessment",
-          "📚 Sources & Further Reading",
-          "Books",
-          "Researchers",
-          "Archives",
-          "🔮 Kết Luận",
-          "Related"
-        ],
-        "wikilinks": [
-          "Cách Đọc Red Pill Wiki",
-          "Elite",
-          "Khoa Học Xét Lại",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "MOC - Science Revisionism",
-          "Năng Lượng Aether",
-          "Sự Thật Về Vụ Sập Tháp Đôi WTC",
-          "Thế Chiến - Chiến Dịch Dọn Dẹp",
-          "Vũ Khí Năng Lượng Định Hướng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Ma Trận.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Năng Lượng Aether.md",
-          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-        ],
-        "backlinks": [
-          "esoterica/Năng Lượng Natri.md",
-          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-          "index.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 2249,
-        "summary": "*Decoding Nuclear Energy & The Radiation Hoax*"
-      },
-      {
         "path": "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
         "title": "Transhumanism và Gen Z - Cool Tech hay Slippery Slope?",
         "domain": "science-tech",
@@ -11972,6 +11880,99 @@
         ],
         "words": 1890,
         "summary": "*Transhumanism and Gen Z: Cool Tech or Slippery Slope?*"
+      },
+      {
+        "path": "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "title": "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+        "domain": "science-tech",
+        "tags": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "conspiracy",
+          "revisionist",
+          "science-tech"
+        ],
+        "aliases": [],
+        "headings": [
+          "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+          "Evidence Discipline / Cách Đọc Claim",
+          "Source Register / Nguồn Nên Đối Chiếu",
+          "🎯 Tóm Tắt / Summary",
+          "📜 Timeline: Ai Phát Hiện Gì?",
+          "🔴 Red Flag #1: Ai Fund Nghiên Cứu?",
+          "Rockefeller Foundation",
+          "🔴 Red Flag #2: Einstein — Thiên Tài Hay Sản Phẩm?",
+          "Plagiarism Claims Có Cơ Sở",
+          "Mileva Marić — Vợ Bị Xóa Tên?",
+          "E=mc² Chưa Được Prove?",
+          "🔴 Red Flag #3: LNT Model — Fraud Có Giấy Tờ",
+          "Hermann Muller & Nobel Lie",
+          "🔴 Red Flag #4: Radium Girls — Industry Biết Trước",
+          "1920s Factory Scandal",
+          "🔴 Red Flag #5: Reactor vs Bomb — Khác Nhau Hoàn Toàn",
+          "Official Physics",
+          "Chain Reaction — Fermi's Chicago Pile-1",
+          "🔴 Red Flag #6: Trinity Test — Timeline Bất Hợp Lý",
+          "🔴 Red Flag #7: Radiation Fear vs Reality",
+          "Case Study: Ramsar, Iran",
+          "Radiation Hormesis",
+          "Chernobyl Wildlife",
+          "Fukushima Deaths",
+          "🔴 Red Flag #8: DEW — Vũ Khí Thật Sự?",
+          "Directed Energy Weapons (Confirmed)",
+          "9/11 Dustification Theory (Dr. Judy Wood)",
+          "Could DEW Explain Hiroshima?",
+          "🧩 Connecting The Dots",
+          "🎯 Cui Bono? Ai Hưởng Lợi?",
+          "📊 Confidence Assessment",
+          "📚 Sources & Further Reading",
+          "Books",
+          "Researchers",
+          "Archives",
+          "🔮 Kết Luận",
+          "Related"
+        ],
+        "wikilinks": [
+          "Cách Đọc Red Pill Wiki",
+          "Elite",
+          "Khoa Học Xét Lại",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "MOC - Science Revisionism",
+          "Năng Lượng Aether",
+          "Sự Thật Về Vụ Sập Tháp Đôi WTC",
+          "Thế Chiến - Chiến Dịch Dọn Dẹp",
+          "Vũ Khí Năng Lượng Định Hướng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Ma Trận.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Năng Lượng Aether.md",
+          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+        ],
+        "backlinks": [
+          "esoterica/Năng Lượng Natri.md",
+          "index.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 2249,
+        "summary": "*Decoding Nuclear Energy & The Radiation Hoax*"
       },
       {
         "path": "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
@@ -14212,99 +14213,6 @@
       "summary": "**Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh — ta/người, sáng/tối, tinh thần/vật chất, thắng/thua — có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qu…"
     },
     {
-      "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-      "title": "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
-      "domain": "esoterica",
-      "tags": [
-        "awakening",
-        "energy",
-        "esoterica",
-        "gnosis",
-        "matrix",
-        "mental-model",
-        "truth"
-      ],
-      "aliases": [],
-      "headings": [
-        "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức",
-        "1. Hệ Thống \"Lồng Nhốt\" Đa Tầng (The Multi-Layered Cage)",
-        "2. Các Công Cụ Thao Túng Của Giới Elite",
-        "3. Lộ Trình Thăng Hoa & Giải Thoát (The Path of Sovereignty)",
-        "4. Kết Luận: Thời Đại Bảo Bình & Sự Nhất Thể",
-        "Related"
-      ],
-      "wikilinks": [
-        "Bức Tường Băng",
-        "Elite",
-        "Gematria",
-        "Gnosis",
-        "Kiểm Soát Tâm Trí",
-        "Ma Trận",
-        "Mental Model",
-        "Monad",
-        "Mudflood",
-        "Nguyên Mẫu",
-        "Nhị Nguyên",
-        "Năng Lượng Tình Dục",
-        "Quy Luật Trao Đổi Tâm Linh",
-        "René Quinton và Huyết Tương Biển",
-        "Saturn Cube",
-        "Sự Nhất Thể",
-        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-        "Thuốc Hóa Dầu",
-        "Thông Minh vs Trí Tuệ",
-        "Tinh Khí Thần",
-        "Trí Tuệ",
-        "Tuyến Tùng",
-        "Tà Linh",
-        "Tâm Bất Biến",
-        "Virus và Kiếp Tật Dịch",
-        "Vũ Khí Năng Lượng Định Hướng",
-        "Y Tế Tự Nhiên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Gematria.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Năng Lượng Tình Dục.md",
-        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-        "esoterica/Saturn Cube.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Tinh Khí Thần.md",
-        "esoterica/Tà Linh.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tuyến Tùng.md",
-        "health/Virus và Kiếp Tật Dịch.md",
-        "health/Y Tế Tự Nhiên.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Trí Tuệ.md",
-        "mental-models/Tâm bất Biến.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-      ],
-      "backlinks": [
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Một Đời Phù Vân.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Mental Model.md"
-      ],
-      "words": 662,
-      "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
-    },
-    {
       "path": "esoterica/Tartaria.md",
       "title": "Tartaria",
       "domain": "esoterica",
@@ -14384,6 +14292,83 @@
       ],
       "words": 642,
       "summary": "**Tartaria** là tên gọi một đế chế rộng lớn xuất hiện trên bản đồ cổ châu Âu (thế kỷ 15-19), bao phủ phần lớn Á-Âu. Theo Khoa học xét lại, đây có thể là nền văn minh tiên tiến với công nghệ vượt thời đại đã bị xóa sổ khỏi lịch sử."
+    },
+    {
+      "path": "MOC - Science Revisionism.md",
+      "title": "MOC - Science Revisionism",
+      "domain": "root",
+      "tags": [
+        "moc",
+        "revisionist-science",
+        "science-tech"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Science Revisionism",
+        "Start Here",
+        "Cosmology & Physics",
+        "Technology & Control",
+        "Biology & Medicine Interface",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "AI",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Cách Đọc Red Pill Wiki",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+        "Khoa Học Xét Lại",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "Mô Hình Địa Tâm",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nikola Tesla",
+        "Năng Lượng Aether",
+        "Thuyết Trái Đất Phẳng",
+        "Thuyết Vi Sinh Nội Sinh",
+        "Thuốc Hóa Dầu",
+        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+        "Vũ Khí Năng Lượng Định Hướng"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/AI.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Năng Lượng Aether.md",
+        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+      ],
+      "backlinks": [
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "index.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Operation Paperclip.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+        "science-tech/Tần Số Schumann.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
+        "science-tech/Walter Russell.md"
+      ],
+      "words": 171,
+      "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là phân biệt science như method với science như institution, rồi dám hỏi lại những giả định được biến thành giáo điều.**"
     },
     {
       "path": "MOC - Esoterica & Consciousness.md",
@@ -14471,80 +14456,96 @@
       "summary": "**Bản đồ này gom các note về consciousness, metaphysics, occult, archetype và những cấu trúc tâm linh đứng phía sau Ma Trận. Đây là tầng Source/Spirit của vault.**"
     },
     {
-      "path": "MOC - Science Revisionism.md",
-      "title": "MOC - Science Revisionism",
-      "domain": "root",
+      "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+      "title": "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
+      "domain": "esoterica",
       "tags": [
-        "moc",
-        "revisionist-science",
-        "science-tech"
+        "awakening",
+        "energy",
+        "esoterica",
+        "gnosis",
+        "matrix",
+        "mental-model",
+        "truth"
       ],
       "aliases": [],
       "headings": [
-        "MOC - Science Revisionism",
-        "Start Here",
-        "Cosmology & Physics",
-        "Technology & Control",
-        "Biology & Medicine Interface",
-        "Synthesis"
+        "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức",
+        "1. Hệ Thống \"Lồng Nhốt\" Đa Tầng (The Multi-Layered Cage)",
+        "2. Các Công Cụ Thao Túng Của Giới Elite",
+        "3. Lộ Trình Thăng Hoa & Giải Thoát (The Path of Sovereignty)",
+        "4. Kết Luận: Thời Đại Bảo Bình & Sự Nhất Thể",
+        "Related"
       ],
       "wikilinks": [
-        "AI",
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-        "Khoa Học Xét Lại",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "Mô Hình Địa Tâm",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nikola Tesla",
-        "Năng Lượng Aether",
-        "Thuyết Trái Đất Phẳng",
-        "Thuyết Vi Sinh Nội Sinh",
+        "Bức Tường Băng",
+        "Elite",
+        "Gematria",
+        "Gnosis",
+        "Kiểm Soát Tâm Trí",
+        "Ma Trận",
+        "Mental Model",
+        "Monad",
+        "Mudflood",
+        "Nguyên Mẫu",
+        "Nhị Nguyên",
+        "Năng Lượng Tình Dục",
+        "Quy Luật Trao Đổi Tâm Linh",
+        "René Quinton và Huyết Tương Biển",
+        "Saturn Cube",
+        "Sự Nhất Thể",
+        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
         "Thuốc Hóa Dầu",
-        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
-        "Vũ Khí Năng Lượng Định Hướng"
+        "Thông Minh vs Trí Tuệ",
+        "Tinh Khí Thần",
+        "Trí Tuệ",
+        "Tuyến Tùng",
+        "Tà Linh",
+        "Tâm Bất Biến",
+        "Virus và Kiếp Tật Dịch",
+        "Vũ Khí Năng Lượng Định Hướng",
+        "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "esoterica/Gematria.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Năng Lượng Tình Dục.md",
+        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+        "esoterica/Saturn Cube.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tinh Khí Thần.md",
+        "esoterica/Tà Linh.md",
+        "health/René Quinton và Huyết Tương Biển.md",
         "health/Thuốc Hóa Dầu.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/AI.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md",
-        "science-tech/Năng Lượng Aether.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+        "health/Tuyến Tùng.md",
+        "health/Virus và Kiếp Tật Dịch.md",
+        "health/Y Tế Tự Nhiên.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Trí Tuệ.md",
+        "mental-models/Tâm bất Biến.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
       "backlinks": [
-        "index.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Operation Paperclip.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-        "science-tech/Tần Số Schumann.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-        "science-tech/Walter Russell.md"
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Một Đời Phù Vân.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Mental Model.md"
       ],
-      "words": 171,
-      "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là phân biệt science như method với science như institution, rồi dám hỏi lại những giả định được biến thành giáo điều.**"
+      "words": 662,
+      "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
     },
     {
       "path": "mental-models/Nhị Nguyên.md",
@@ -14694,80 +14695,6 @@
       "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
     },
     {
-      "path": "health/Thuyết Vi Sinh Nội Sinh.md",
-      "title": "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
-      "domain": "health",
-      "tags": [
-        "health",
-        "terrain-theory"
-      ],
-      "aliases": [
-        "Terrain Theory",
-        "Thuyết Địa Hình"
-      ],
-      "headings": [
-        "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
-        "Medical Caution / Cảnh Báo Y Tế",
-        "Vault Position / Vị Trí Trong Vault",
-        "Evidence Discipline / Kỷ Luật Bằng Chứng",
-        "Germ Và Terrain Không Phải Hai Phe",
-        "Terrain Gồm Những Gì?",
-        "Microzymas Và Pleomorphism",
-        "Vì Sao Mô Hình Diệt Mầm Bệnh Thắng?",
-        "Terrain Practice / Làm Sạch Đất",
-        "Core Insight / Chốt Lại"
-      ],
-      "wikilinks": [
-        "Công Thức Chữa Lành Tự Nhiên",
-        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-        "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-        "Ketogenic Diet",
-        "Khoa Học Xét Lại",
-        "MOC - Health Sovereignty",
-        "Plasma Quinton",
-        "Thuốc Hóa Dầu",
-        "Y Tế Tự Nhiên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/Ketogenic Diet.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Y Tế Tự Nhiên.md",
-        "MOC - Health Sovereignty.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "backlinks": [
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/Ketogenic Diet.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Plasma Quinton.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Suramin.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tuyến Tùng.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Virus và Kiếp Tật Dịch.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "health/Y Tế Tự Nhiên.md",
-        "index.md",
-        "MOC - Health Sovereignty.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 994,
-      "summary": "**Terrain Theory nói một điều đơn giản nhưng bị làm phẳng: mầm bệnh không hành động trong chân không. Nó gặp một cơ thể có miễn dịch, ruột, dinh dưỡng, stress, độc chất, nhịp ngủ và bệnh nền riêng.** Vì vậy cùng một exposure có thể cho hai kết quả khác nhau.…"
-    },
-    {
       "path": "Cách Đọc Red Pill Wiki.md",
       "title": "Cách Đọc Red Pill Wiki",
       "domain": "root",
@@ -14845,6 +14772,79 @@
       ],
       "words": 1154,
       "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
+    },
+    {
+      "path": "health/Thuyết Vi Sinh Nội Sinh.md",
+      "title": "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
+      "domain": "health",
+      "tags": [
+        "health",
+        "terrain-theory"
+      ],
+      "aliases": [
+        "Terrain Theory",
+        "Thuyết Địa Hình"
+      ],
+      "headings": [
+        "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
+        "Medical Caution / Cảnh Báo Y Tế",
+        "Vault Position / Vị Trí Trong Vault",
+        "Evidence Discipline / Kỷ Luật Bằng Chứng",
+        "Germ Và Terrain Không Phải Hai Phe",
+        "Terrain Gồm Những Gì?",
+        "Microzymas Và Pleomorphism",
+        "Vì Sao Mô Hình Diệt Mầm Bệnh Thắng?",
+        "Terrain Practice / Làm Sạch Đất",
+        "Core Insight / Chốt Lại"
+      ],
+      "wikilinks": [
+        "Công Thức Chữa Lành Tự Nhiên",
+        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+        "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+        "Ketogenic Diet",
+        "Khoa Học Xét Lại",
+        "MOC - Health Sovereignty",
+        "Plasma Quinton",
+        "Thuốc Hóa Dầu",
+        "Y Tế Tự Nhiên"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "health/Ketogenic Diet.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Y Tế Tự Nhiên.md",
+        "MOC - Health Sovereignty.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "backlinks": [
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Plasma Quinton.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Su That Ve Benh Dai Va Vac Xin.md",
+        "health/Suramin.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Tuyến Tùng.md",
+        "health/Ung Thư - Metabolic Protocol.md",
+        "health/Virus và Kiếp Tật Dịch.md",
+        "health/Y Tế Tự Nhiên.md",
+        "index.md",
+        "MOC - Health Sovereignty.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "words": 994,
+      "summary": "**Terrain Theory nói một điều đơn giản nhưng bị làm phẳng: mầm bệnh không hành động trong chân không. Nó gặp một cơ thể có miễn dịch, ruột, dinh dưỡng, stress, độc chất, nhịp ngủ và bệnh nền riêng.** Vì vậy cùng một exposure có thể cho hai kết quả khác nhau.…"
     },
     {
       "path": "health/Tuyến Tùng.md",
@@ -15551,59 +15551,6 @@
       "summary": "**Cabal là cách gọi tầng quyền lực ngầm vận hành phía sau quyền lực hiển hiện. Nhưng trong vault, Cabal không nên đọc như cartoon “một nhóm người mặc áo choàng trong phòng tối”. Nó là một model về coordination: tiền, tình báo, media, ritual, policy và myth cù…"
     },
     {
-      "path": "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-      "title": "Y Tế Tự Nhiên & Năng Lượng Mới",
-      "domain": "health",
-      "tags": [
-        "alternative-medicine",
-        "energy",
-        "health",
-        "salt",
-        "sodium-ion",
-        "source-note",
-        "terrain-theory"
-      ],
-      "aliases": [],
-      "headings": [
-        "How To Read This / Cách Đọc Bài Này",
-        "Source Register / Nguồn Nên Đối Chiếu",
-        "Y Tế Tự Nhiên & Năng Lượng Mới (Natri-ion)",
-        "1. Y Học Phản Biện & Cơ Chế \"Bãi Rác\"",
-        "2. Quyền Năng Của Muối & Đôi Bàn Chân",
-        "3. Năng Lượng Mới: Natri Lỏng & Pin Natri-ion",
-        "Liên kết hệ thống",
-        "Related"
-      ],
-      "wikilinks": [
-        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-        "Khế Ước Bí Mật Rockefeller",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
-        "MOC - Health Sovereignty",
-        "Pin Natri-ion",
-        "René Quinton và Huyết Tương Biển",
-        "Sự Thật Về Ma Túy",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Y Tế Tự Nhiên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Y Tế Tự Nhiên.md",
-        "MOC - Health Sovereignty.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/Sự thật về ma túy.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Pin Natri-ion.md"
-      ],
-      "backlinks": [],
-      "words": 723,
-      "summary": "---"
-    },
-    {
       "path": "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
       "title": "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
       "domain": "science-tech",
@@ -15656,6 +15603,62 @@
       "backlinks": [],
       "words": 634,
       "summary": "---"
+    },
+    {
+      "path": "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+      "title": "Y Tế Tự Nhiên & Năng Lượng Mới",
+      "domain": "health",
+      "tags": [
+        "energy",
+        "health",
+        "science-tech",
+        "terrain-theory"
+      ],
+      "aliases": [
+        "Natri-ion và Y Tế Tự Nhiên",
+        "Natural Health and New Energy",
+        "Sodium Sovereignty"
+      ],
+      "headings": [
+        "Y Tế Tự Nhiên & Năng Lượng Mới",
+        "Medical Caution / Cảnh Báo Y Khoa",
+        "Evidence Discipline / Kỷ Luật Đọc",
+        "Vault Position / Vị Trí Trong Vault",
+        "Sodium Trong Cơ Thể / Sodium In The Body",
+        "Cao Huyết Áp: Tín Hiệu Nhưng Không Được Lãng Mạn Hóa",
+        "Muối, Biển Và Nội Môi",
+        "Sodium Trong Công Nghệ / Sodium In Energy Tech",
+        "Rockefeller Pattern: Dependency Là Mẫu Số Chung",
+        "Claims Cần Hạ Nhiệt",
+        "Practice / Hướng Đi Thực Dụng",
+        "Core Insight / Chốt Lại"
+      ],
+      "wikilinks": [
+        "Khế Ước Bí Mật Rockefeller",
+        "MOC - Health Sovereignty",
+        "MOC - Science Revisionism",
+        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "Năng Lượng Natri",
+        "Pin Natri-ion",
+        "René Quinton và Huyết Tương Biển",
+        "Suy Thận",
+        "Y Tế Tự Nhiên"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Năng Lượng Natri.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Suy Thận.md",
+        "health/Y Tế Tự Nhiên.md",
+        "MOC - Health Sovereignty.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "science-tech/Pin Natri-ion.md"
+      ],
+      "backlinks": [],
+      "words": 1148,
+      "summary": "**Bài này là cầu nối giữa hai câu hỏi tưởng xa nhau: cơ thể cần khoáng và điện giải để sống; civilization cần vật liệu và năng lượng để thoát độc quyền.** Natri, muối, biển, pin sodium-ion và health sovereignty có thể cùng tạo một motif mạnh, nhưng không được…"
     },
     {
       "path": "health/Su That Ve Benh Dai Va Vac Xin.md",
@@ -15907,6 +15910,47 @@
       "backlinks": [],
       "words": 898,
       "summary": "**Plasma Quinton là nước biển được xử lý theo phương pháp René Quinton, thường được đọc trong health sovereignty như một cách hỗ trợ terrain khoáng chất và nội môi. Điểm cốt lõi không phải “nước biển chữa mọi bệnh”, mà là câu hỏi sâu hơn: cơ thể có thể tự sửa…"
+    },
+    {
+      "path": "politics-conspiracy/Sự thật về ma túy.md",
+      "title": "Sự thật về ma túy",
+      "domain": "politics-conspiracy",
+      "tags": [
+        "politics-conspiracy"
+      ],
+      "aliases": [],
+      "headings": [
+        "Sự thật về ma túy",
+        "Evidence Discipline / Cách Đọc Claim",
+        "Source Register / Nguồn Nên Đối Chiếu",
+        "1. Liệu tất cả những gì chúng ta biết về ma túy đều sai?",
+        "Thách thức định kiến về nghiện",
+        "2. Sự thất bại của Cuộc chiến chống ma túy",
+        "Nguồn gốc và hậu quả",
+        "Lập luận kinh tế: Cung - Cầu",
+        "3. Lý do thực sự đằng sau việc cấm đoán?",
+        "4. Giải pháp thay thế: Hợp pháp hóa ma túy và giảm tác hại",
+        "Kết luận: Giáo dục và thay đổi môi trường",
+        "Related"
+      ],
+      "wikilinks": [
+        "Elite",
+        "Kiểm Soát Tâm Trí",
+        "Ma Trận",
+        "MOC - Epistemology & Propaganda",
+        "Thông Minh"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Ma Trận.md",
+        "mental-models/Thông Minh.md",
+        "MOC - Epistemology & Propaganda.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+      ],
+      "backlinks": [],
+      "words": 1257,
+      "summary": "Bài viết này trình bày một góc nhìn phản biện về ma túy, nghiện, và Cuộc chiến chống ma túy, kêu gọi người đọc cởi bỏ định kiến và xem xét vấn đề từ nhiều phía. Tác giả lập luận rằng những hiểu biết phổ thông về ma túy phần lớn là sai lầm và cuộc chiến chống…"
     }
   ],
   "sinks": [],
@@ -15929,7 +15973,7 @@
     ],
     [
       "science-tech",
-      22
+      23
     ],
     [
       "politics-conspiracy",
@@ -15940,15 +15984,15 @@
       13
     ],
     [
-      "source-note",
-      12
-    ],
-    [
       "crypto-finance",
       11
     ],
     [
       "matrix",
+      11
+    ],
+    [
+      "source-note",
       11
     ],
     [
@@ -16028,10 +16072,6 @@
       4
     ],
     [
-      "salt",
-      4
-    ],
-    [
       "cancer",
       4
     ],
@@ -16073,6 +16113,10 @@
     ],
     [
       "healing",
+      3
+    ],
+    [
+      "salt",
       3
     ],
     [
@@ -16819,6 +16863,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
       "backlinks": [
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "index.md",
         "mental-models/Mô Hình Địa Tâm.md",
         "politics-conspiracy/Elite.md",
@@ -19885,7 +19930,6 @@
         "esoterica/Monad.md",
         "esoterica/Một Đời Phù Vân.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Mental Model.md"
       ],
@@ -20550,7 +20594,8 @@
         "science-tech/Pin Natri-ion.md"
       ],
       "backlinks": [
-        "health/René Quinton và Huyết Tương Biển.md"
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
       ],
       "words": 352,
       "summary": "**Năng Lượng Natri** là khái niệm về việc khai thác năng lượng từ Natri (Na) — nguyên tố phong phú trong nước biển. Theo Khoa Học Xét Lại, đây là nguồn năng lượng bị che giấu có thể thay thế hoàn toàn nhiên liệu hóa thạch."
@@ -22736,7 +22781,6 @@
         "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
         "health/Ung Thư - Metabolic Protocol.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "health/Y Tế Tự Nhiên.md",
         "index.md",
         "MOC - Health Sovereignty.md",
@@ -22913,6 +22957,7 @@
         "health/René Quinton và Huyết Tương Biển.md",
         "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "health/Y Tế Tự Nhiên.md",
         "MOC - Health Sovereignty.md"
       ],
@@ -23240,7 +23285,8 @@
       "backlinks": [
         "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/René Quinton và Huyết Tương Biển.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md"
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
       ],
       "words": 910,
       "summary": "**Suy thận là khi bộ lọc sống của cơ thể không còn giữ được nhịp lọc máu, nước, điện giải và chất thải. Đọc theo health sovereignty, đây không chỉ là “một cơ quan hỏng”, mà là tín hiệu cả terrain: đường huyết, huyết áp, độc tải, viêm, thuốc, ăn uống, stress v…"
@@ -23350,7 +23396,6 @@
         "health/Tuyến Tùng.md",
         "health/Ung Thư - Metabolic Protocol.md",
         "health/Virus và Kiếp Tật Dịch.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "health/Y Tế Tự Nhiên.md",
         "index.md",
         "MOC - Health Sovereignty.md",
@@ -23771,53 +23816,56 @@
       "title": "Y Tế Tự Nhiên & Năng Lượng Mới",
       "domain": "health",
       "tags": [
-        "alternative-medicine",
         "energy",
         "health",
-        "salt",
-        "sodium-ion",
-        "source-note",
+        "science-tech",
         "terrain-theory"
       ],
-      "aliases": [],
+      "aliases": [
+        "Natri-ion và Y Tế Tự Nhiên",
+        "Natural Health and New Energy",
+        "Sodium Sovereignty"
+      ],
       "headings": [
-        "How To Read This / Cách Đọc Bài Này",
-        "Source Register / Nguồn Nên Đối Chiếu",
-        "Y Tế Tự Nhiên & Năng Lượng Mới (Natri-ion)",
-        "1. Y Học Phản Biện & Cơ Chế \"Bãi Rác\"",
-        "2. Quyền Năng Của Muối & Đôi Bàn Chân",
-        "3. Năng Lượng Mới: Natri Lỏng & Pin Natri-ion",
-        "Liên kết hệ thống",
-        "Related"
+        "Y Tế Tự Nhiên & Năng Lượng Mới",
+        "Medical Caution / Cảnh Báo Y Khoa",
+        "Evidence Discipline / Kỷ Luật Đọc",
+        "Vault Position / Vị Trí Trong Vault",
+        "Sodium Trong Cơ Thể / Sodium In The Body",
+        "Cao Huyết Áp: Tín Hiệu Nhưng Không Được Lãng Mạn Hóa",
+        "Muối, Biển Và Nội Môi",
+        "Sodium Trong Công Nghệ / Sodium In Energy Tech",
+        "Rockefeller Pattern: Dependency Là Mẫu Số Chung",
+        "Claims Cần Hạ Nhiệt",
+        "Practice / Hướng Đi Thực Dụng",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
-        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
         "Khế Ước Bí Mật Rockefeller",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
         "MOC - Health Sovereignty",
+        "MOC - Science Revisionism",
+        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "Năng Lượng Natri",
         "Pin Natri-ion",
         "René Quinton và Huyết Tương Biển",
-        "Sự Thật Về Ma Túy",
-        "Thuyết Vi Sinh Nội Sinh",
+        "Suy Thận",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "esoterica/Năng Lượng Natri.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
         "health/René Quinton và Huyết Tương Biển.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Suy Thận.md",
         "health/Y Tế Tự Nhiên.md",
         "MOC - Health Sovereignty.md",
+        "MOC - Science Revisionism.md",
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/Sự thật về ma túy.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Pin Natri-ion.md"
       ],
       "backlinks": [],
-      "words": 723,
-      "summary": "---"
+      "words": 1148,
+      "summary": "**Bài này là cầu nối giữa hai câu hỏi tưởng xa nhau: cơ thể cần khoáng và điện giải để sống; civilization cần vật liệu và năng lượng để thoát độc quyền.** Natri, muối, biển, pin sodium-ion và health sovereignty có thể cùng tạo một motif mạnh, nhưng không được…"
     },
     "health/Y Tế Tự Nhiên.md": {
       "path": "health/Y Tế Tự Nhiên.md",
@@ -27301,9 +27349,7 @@
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md"
       ],
-      "backlinks": [
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
-      ],
+      "backlinks": [],
       "words": 1257,
       "summary": "Bài viết này trình bày một góc nhìn phản biện về ma túy, nghiện, và Cuộc chiến chống ma túy, kêu gọi người đọc cởi bỏ định kiến và xem xét vấn đề từ nhiều phía. Tác giả lập luận rằng những hiểu biết phổ thông về ma túy phần lớn là sai lầm và cuộc chiến chống…"
     },
@@ -27950,7 +27996,6 @@
       ],
       "backlinks": [
         "esoterica/Năng Lượng Natri.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "index.md",
         "MOC - Science Revisionism.md",
         "politics-conspiracy/Elite.md",
