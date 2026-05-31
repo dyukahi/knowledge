@@ -10,8 +10,8 @@
       "politics-conspiracy": 23,
       "science-tech": 16
     },
-    "tags": 176,
-    "wikilinkEdges": 1650,
+    "tags": 177,
+    "wikilinkEdges": 1654,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -1890,6 +1890,79 @@
         "summary": "**Nguồn tham khảo:** Sách \"Luật Tâm Thức\" của Ngô Sa Thạch"
       },
       {
+        "path": "esoterica/Tinh Khí Thần.md",
+        "title": "Tinh Khí Thần",
+        "domain": "esoterica",
+        "tags": [
+          "energy",
+          "esoterica",
+          "sexuality",
+          "taoism"
+        ],
+        "aliases": [
+          "Jing Qi Shen",
+          "Jing-Qi-Shen",
+          "Tam Bảo",
+          "Three Treasures"
+        ],
+        "headings": [
+          "Tinh Khí Thần (Three Treasures)",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Tam Bảo Là Gì?",
+          "2. Tinh / Jing",
+          "3. Khí / Qi",
+          "4. Thần / Shen",
+          "5. Chuyển Hóa: Tinh → Khí → Thần",
+          "6. S.E.X Và Tam Bảo",
+          "7. Ma Trận Tấn Công Tam Bảo Như Nào?",
+          "8. Practice / Thực Hành",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Individuation",
+          "Ma Trận",
+          "MOC - Esoterica & Consciousness",
+          "Năng Lượng Tình Dục",
+          "S.E.X",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tuyến Tùng",
+          "Đạo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Đạo.md",
+          "health/Tuyến Tùng.md",
+          "mental-models/Individuation.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Núi Tu Di.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+          "science-tech/Nikola Tesla.md"
+        ],
+        "words": 874,
+        "summary": "**Tinh Khí Thần là Tam Bảo của con người trong Đạo gia: Tinh là essence/sinh lực gốc, Khí là dòng năng lượng vận hành, Thần là clarity/consciousness. Đây không phải ba “chất” tách rời, mà là ba tầng chuyển hóa của cùng một sinh lực.**"
+      },
+      {
         "path": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "title": "Avatar — Disclosure Của Eywa & Gaia",
         "domain": "esoterica",
@@ -2051,78 +2124,6 @@
         "summary": "**Avatar** (2009, 2022, 2025) của James Cameron không chỉ là blockbuster sci-fi. Đây là **disclosure** — trình bày công khai các khái niệm esoteric dưới vỏ bọc \"entertainment\"."
       },
       {
-        "path": "esoterica/Tinh Khí Thần.md",
-        "title": "Tinh Khí Thần",
-        "domain": "esoterica",
-        "tags": [
-          "energy",
-          "esoterica",
-          "sexuality",
-          "taoism"
-        ],
-        "aliases": [
-          "Jing Qi Shen",
-          "Jing-Qi-Shen",
-          "Tam Bảo",
-          "Three Treasures"
-        ],
-        "headings": [
-          "Tinh Khí Thần (Three Treasures)",
-          "Vault Position / Vị Trí Trong Vault",
-          "1. Tam Bảo Là Gì?",
-          "2. Tinh / Jing",
-          "3. Khí / Qi",
-          "4. Thần / Shen",
-          "5. Chuyển Hóa: Tinh → Khí → Thần",
-          "6. S.E.X Và Tam Bảo",
-          "7. Ma Trận Tấn Công Tam Bảo Như Nào?",
-          "8. Practice / Thực Hành",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Individuation",
-          "Ma Trận",
-          "MOC - Esoterica & Consciousness",
-          "Năng Lượng Tình Dục",
-          "S.E.X",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tuyến Tùng",
-          "Đạo"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Đạo.md",
-          "health/Tuyến Tùng.md",
-          "mental-models/Individuation.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Chakra.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-          "science-tech/Nikola Tesla.md"
-        ],
-        "words": 874,
-        "summary": "**Tinh Khí Thần là Tam Bảo của con người trong Đạo gia: Tinh là essence/sinh lực gốc, Khí là dòng năng lượng vận hành, Thần là clarity/consciousness. Đây không phải ba “chất” tách rời, mà là ba tầng chuyển hóa của cùng một sinh lực.**"
-      },
-      {
         "path": "esoterica/Chakra.md",
         "title": "Chakra (Luân Xa)",
         "domain": "esoterica",
@@ -2186,6 +2187,7 @@
           "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
           "esoterica/Kundalini.md",
+          "esoterica/Núi Tu Di.md",
           "esoterica/Năng Lượng Tình Dục.md",
           "esoterica/Sacred Geometry.md",
           "index.md",
@@ -2772,6 +2774,72 @@
         "summary": "**Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo ra nó.** Đọc nông, karma thành công cụ dọa dân. Đọc sâu, karma là cơ chế học của linh h…"
       },
       {
+        "path": "esoterica/Kundalini.md",
+        "title": "Kundalini",
+        "domain": "esoterica",
+        "tags": [
+          "energy",
+          "esoterica",
+          "spirituality"
+        ],
+        "aliases": [
+          "Kundalini Energy",
+          "Năng Lượng Kundalini",
+          "Serpent Power"
+        ],
+        "headings": [
+          "Kundalini — Năng Lượng Rắn Thiêng",
+          "How To Read This / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Biểu Tượng Rắn Cuộn / The Coiled Serpent",
+          "Sexual Energy Là Nhiên Liệu Thô",
+          "Ba Kênh: Ida, Pingala, Sushumna",
+          "Awakening Không Phải Performance",
+          "Kundalini Syndrome / Khi Năng Lượng Vượt Container",
+          "Matrix Và Năng Lượng Ngủ",
+          "Practice: Từ Dưới Lên, Không Nhảy Cóc",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
+          "Chakra",
+          "Gnosis",
+          "Individuation",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Năng Lượng Tình Dục",
+          "S.E.X",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tinh Khí Thần",
+          "Tuyến Tùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Chakra.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Tinh Khí Thần.md",
+          "health/Tuyến Tùng.md",
+          "mental-models/Individuation.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Chakra.md",
+          "esoterica/Núi Tu Di.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "index.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "words": 1186,
+        "summary": "**Kundalini là ngôn ngữ cổ để nói về sinh lực nguyên thủy khi nó không chỉ phục vụ sinh tồn và tình dục, mà được chuyển hóa thành ý thức, trực giác và hiện diện.** Trong vault, Kundalini là cầu nối giữa Chakra, Năng Lượng Tình Dục, Tinh Khí Thần, Tuyến Tùng v…"
+      },
+      {
         "path": "esoterica/Vũ Trụ Học Phật Giáo.md",
         "title": "Vũ Trụ Học Phật Giáo",
         "domain": "esoterica",
@@ -2956,71 +3024,6 @@
         ],
         "words": 4304,
         "summary": "Khoa học hiện đại dạy rằng lịch sử là một đường thẳng tiến lên: từ vi khuẩn đến cá, từ cá đến vượn, từ vượn đến người, từ hang động đến smartphone. Mỗi thế hệ \"tiến bộ\" hơn thế hệ trước. Chúng ta đang ở đỉnh cao của văn minh."
-      },
-      {
-        "path": "esoterica/Kundalini.md",
-        "title": "Kundalini",
-        "domain": "esoterica",
-        "tags": [
-          "energy",
-          "esoterica",
-          "spirituality"
-        ],
-        "aliases": [
-          "Kundalini Energy",
-          "Năng Lượng Kundalini",
-          "Serpent Power"
-        ],
-        "headings": [
-          "Kundalini — Năng Lượng Rắn Thiêng",
-          "How To Read This / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Biểu Tượng Rắn Cuộn / The Coiled Serpent",
-          "Sexual Energy Là Nhiên Liệu Thô",
-          "Ba Kênh: Ida, Pingala, Sushumna",
-          "Awakening Không Phải Performance",
-          "Kundalini Syndrome / Khi Năng Lượng Vượt Container",
-          "Matrix Và Năng Lượng Ngủ",
-          "Practice: Từ Dưới Lên, Không Nhảy Cóc",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
-          "Chakra",
-          "Gnosis",
-          "Individuation",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Năng Lượng Tình Dục",
-          "S.E.X",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tinh Khí Thần",
-          "Tuyến Tùng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Chakra.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Tinh Khí Thần.md",
-          "health/Tuyến Tùng.md",
-          "mental-models/Individuation.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Chakra.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "index.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 1186,
-        "summary": "**Kundalini là ngôn ngữ cổ để nói về sinh lực nguyên thủy khi nó không chỉ phục vụ sinh tồn và tình dục, mà được chuyển hóa thành ý thức, trực giác và hiện diện.** Trong vault, Kundalini là cầu nối giữa Chakra, Năng Lượng Tình Dục, Tinh Khí Thần, Tuyến Tùng v…"
       },
       {
         "path": "esoterica/Lemuria.md",
@@ -3336,6 +3339,67 @@
         ],
         "words": 2046,
         "summary": "Mọi nền văn minh cổ đại lớn trên thế giới — không có liên lạc với nhau — đều độc lập tôn thờ Trái Đất như một **ý thức sống**. Khoa học hiện đại đặt tên là Gaia Hypothesis (1972) và giả vờ đây là ý tưởng mới."
+      },
+      {
+        "path": "esoterica/Núi Tu Di.md",
+        "title": "Núi Tu Di",
+        "domain": "esoterica",
+        "tags": [
+          "buddhism",
+          "cosmology",
+          "esoterica",
+          "symbolism"
+        ],
+        "aliases": [
+          "Axis Mundi",
+          "Meru",
+          "Mount Meru",
+          "Sumeru"
+        ],
+        "headings": [
+          "Núi Tu Di (Mount Meru)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Tu Di Trong Vũ Trụ Học Phật Giáo",
+          "Axis Mundi / Trục Thế Giới",
+          "Microcosm: Tu Di Trong Thân Người",
+          "Modern Alternative Readings",
+          "Vì Sao Trung Tâm Bị Che?",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Chakra",
+          "Kundalini",
+          "Long Mạch",
+          "Mô Hình Địa Tâm",
+          "Phong Thủy",
+          "Tartaria",
+          "Thuyết Trái Đất Phẳng",
+          "Tinh Khí Thần",
+          "Vũ Trụ Học Phật Giáo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Long Mạch.md",
+          "esoterica/Phong Thủy.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Tinh Khí Thần.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "mental-models/Mô Hình Địa Tâm.md",
+          "politics-conspiracy/Thuyết Trái Đất Phẳng.md"
+        ],
+        "backlinks": [
+          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
+          "esoterica/Phong Thủy.md",
+          "esoterica/Sacred Geometry.md",
+          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "politics-conspiracy/Trái Đất Phẳng.md"
+        ],
+        "words": 788,
+        "summary": "**Núi Tu Di là axis mundi: trục giữa trời, đất và các tầng cõi trong vũ trụ học Phật giáo, Hindu và Jain.** Đọc nông thì hỏi \"nó ở đâu trên bản đồ?\" Đọc sâu hơn thì hỏi: vì sao gần như mọi truyền thống đều cần một trung tâm vũ trụ để tổ chức không gian, quyền…"
       },
       {
         "path": "esoterica/S.E.X.md",
@@ -3979,62 +4043,6 @@
         "summary": "Bài viết đi sâu vào bản chất của quy luật Nhân quả, Luân hồi và sự can thiệp của các thế lực tà thần vào hệ thống niềm tin của nhân loại."
       },
       {
-        "path": "esoterica/Núi Tu Di.md",
-        "title": "Núi Tu Di",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Mount Meru",
-          "Núi Tu Di",
-          "Núi Tu Di (Mount Meru)"
-        ],
-        "headings": [
-          "Núi Tu Di (Mount Meru)",
-          "Trong Các Truyền Thống",
-          "Cấu Trúc Vũ Trụ (Buddhist)",
-          "Bốn Đại Châu",
-          "Modern Interpretations",
-          "1. Magnetic North Pole",
-          "2. Hyperborea",
-          "3. Flat Earth Model",
-          "4. Inner Earth",
-          "Symbolic Meaning",
-          "Axis Mundi",
-          "Microcosm-Macrocosm",
-          "Why Hidden?",
-          "Related"
-        ],
-        "wikilinks": [
-          "Long Mạch",
-          "Mô Hình Địa Tâm",
-          "Tartaria",
-          "Tartaria và Vạn Lý Trường Thành",
-          "Thuyết Trái Đất Phẳng",
-          "Vũ Trụ Học Phật Giáo"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Long Mạch.md",
-          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "mental-models/Mô Hình Địa Tâm.md",
-          "politics-conspiracy/Thuyết Trái Đất Phẳng.md"
-        ],
-        "backlinks": [
-          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-          "esoterica/Phong Thủy.md",
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "politics-conspiracy/Trái Đất Phẳng.md"
-        ],
-        "words": 318,
-        "summary": "**Núi Tu Di** (Sanskrit: Sumeru, Pali: Sineru) là trung tâm vũ trụ theo cosmology Phật giáo, Hindu và Jain. Trục thế giới mà quanh đó Mặt Trời, Mặt Trăng và các vì sao xoay."
-      },
-      {
         "path": "esoterica/Thành Cổ Loa.md",
         "title": "Thành Cổ Loa",
         "domain": "esoterica",
@@ -4182,6 +4190,61 @@
         ],
         "words": 387,
         "summary": "Tài liệu này tổng hợp giả thuyết về sự hiện diện của chủng tộc Annunaki, hành tinh Nibiru (Hành tinh X) và vai trò của lực lượng Cabal trong việc quản lý \"phòng thí nghiệm\" Trái Đất."
+      },
+      {
+        "path": "esoterica/Phong Thủy.md",
+        "title": "Phong Thủy",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "feng-shui",
+          "geomancy"
+        ],
+        "aliases": [
+          "Feng Shui",
+          "Wind Water",
+          "風水"
+        ],
+        "headings": [
+          "Phong Thủy (Feng Shui / 風水)",
+          "Vault Position / Vị Trí Trong Bản Đồ",
+          "Evidence Discipline / Kỷ Luật Đọc",
+          "Khí Là Dòng, Không Phải Vật / Qi As Flow",
+          "Năm Trục Cơ Bản / Five Core Axes",
+          "Loan Đầu Và Lý Khí / Form And Compass",
+          "Long Mạch / Dragon Veins",
+          "Shadow Side / Mặt Tối Của Phong Thủy",
+          "Practical Reading / Cách Đọc Thực Dụng",
+          "Kết Luận / Closing"
+        ],
+        "wikilinks": [
+          "Long Mạch",
+          "MOC - Esoterica & Consciousness",
+          "Núi Tu Di",
+          "Năng Lượng Aether",
+          "Sacred Geometry",
+          "Tartaria",
+          "Thành Cổ Loa",
+          "Vận Chín"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Long Mạch.md",
+          "esoterica/Núi Tu Di.md",
+          "esoterica/Sacred Geometry.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Thành Cổ Loa.md",
+          "esoterica/Vận Chín.md",
+          "MOC - Esoterica & Consciousness.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "backlinks": [
+          "esoterica/Núi Tu Di.md",
+          "esoterica/Tứ Linh.md",
+          "MOC - Ancient Civilizations & Hidden History.md"
+        ],
+        "words": 1033,
+        "summary": "**Phong Thủy không phải mẹo đặt cây, treo gương, chọn màu để “hên”. Nó là một hệ đọc không gian: địa hình, hướng, dòng khí, nhịp thời gian và tâm lý cư trú cùng tạo ra một trường ảnh hưởng lên con người.**"
       },
       {
         "path": "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
@@ -4487,60 +4550,6 @@
         "summary": "**Cabal là cách gọi tầng quyền lực ngầm vận hành phía sau quyền lực hiển hiện. Nhưng trong vault, Cabal không nên đọc như cartoon “một nhóm người mặc áo choàng trong phòng tối”. Nó là một model về coordination: tiền, tình báo, media, ritual, policy và myth cù…"
       },
       {
-        "path": "esoterica/Phong Thủy.md",
-        "title": "Phong Thủy",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "feng-shui",
-          "geomancy"
-        ],
-        "aliases": [
-          "Feng Shui",
-          "Wind Water",
-          "風水"
-        ],
-        "headings": [
-          "Phong Thủy (Feng Shui / 風水)",
-          "Vault Position / Vị Trí Trong Bản Đồ",
-          "Evidence Discipline / Kỷ Luật Đọc",
-          "Khí Là Dòng, Không Phải Vật / Qi As Flow",
-          "Năm Trục Cơ Bản / Five Core Axes",
-          "Loan Đầu Và Lý Khí / Form And Compass",
-          "Long Mạch / Dragon Veins",
-          "Shadow Side / Mặt Tối Của Phong Thủy",
-          "Practical Reading / Cách Đọc Thực Dụng",
-          "Kết Luận / Closing"
-        ],
-        "wikilinks": [
-          "Long Mạch",
-          "MOC - Esoterica & Consciousness",
-          "Núi Tu Di",
-          "Năng Lượng Aether",
-          "Sacred Geometry",
-          "Tartaria",
-          "Thành Cổ Loa",
-          "Vận Chín"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Long Mạch.md",
-          "esoterica/Núi Tu Di.md",
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Thành Cổ Loa.md",
-          "esoterica/Vận Chín.md",
-          "MOC - Esoterica & Consciousness.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "backlinks": [
-          "esoterica/Tứ Linh.md",
-          "MOC - Ancient Civilizations & Hidden History.md"
-        ],
-        "words": 1033,
-        "summary": "**Phong Thủy không phải mẹo đặt cây, treo gương, chọn màu để “hên”. Nó là một hệ đọc không gian: địa hình, hướng, dòng khí, nhịp thời gian và tâm lý cư trú cùng tạo ra một trường ảnh hưởng lên con người.**"
-      },
-      {
         "path": "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
         "title": "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
         "domain": "esoterica",
@@ -4833,6 +4842,58 @@
         "summary": "**Manly Palmer Hall quan trọng không phải vì ông “biết hết bí mật”. Ông quan trọng vì ông cho thấy giới hiện đại đã quên một ngôn ngữ mà các truyền thống quyền lực vẫn dùng: biểu tượng, nghi lễ, số học, kiến trúc và initiation.**"
       },
       {
+        "path": "esoterica/Năng Lượng Natri.md",
+        "title": "Năng Lượng Natri (Sodium Energy)",
+        "domain": "esoterica",
+        "tags": [
+          "energy",
+          "esoterica",
+          "science-tech",
+          "sodium"
+        ],
+        "aliases": [
+          "Natri Energy",
+          "Sodium Energy",
+          "Sodium Power"
+        ],
+        "headings": [
+          "Năng Lượng Natri (Sodium Energy)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Sodium Là Energy Carrier, Không Phải Nguồn Miễn Phí",
+          "Sodium-Ion Battery / Pin Natri-ion",
+          "Sodium-Cooled Reactor",
+          "Suppression Pattern / Mẫu Che Giấu",
+          "Natri Như Biểu Tượng",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Khoa Học Xét Lại",
+          "MOC - Science Revisionism",
+          "Nikola Tesla",
+          "Năng Lượng Aether",
+          "Pin Natri-ion",
+          "René Quinton và Huyết Tương Biển",
+          "Y Tế Tự Nhiên & Năng Lượng Mới"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Năng Lượng Aether.md",
+          "science-tech/Pin Natri-ion.md"
+        ],
+        "backlinks": [
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
+        ],
+        "words": 780,
+        "summary": "**Năng Lượng Natri là node đọc natri như vật liệu năng lượng, biểu tượng biển-muối-điện, và điểm giao giữa science revisionism với câu hỏi độc quyền hạ tầng.** Nhưng sodium không phải free-energy magic: muốn lấy năng lượng từ natri, trước đó phải tốn năng lượ…"
+      },
+      {
         "path": "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
         "title": "Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
         "domain": "esoterica",
@@ -4998,100 +5059,6 @@
         "summary": "**Nibiru** (Planet X) là thiên thể bí ẩn được cho là có quỹ đạo elliptical cực kỳ dài (3,600 năm), định kỳ tiếp cận hệ Mặt Trời bên trong và gây ra các thảm họa trên Trái Đất."
       },
       {
-        "path": "esoterica/Năng Lượng Natri.md",
-        "title": "Năng Lượng Natri (Sodium Energy)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "science-tech"
-        ],
-        "aliases": [],
-        "headings": [
-          "Năng Lượng Natri (Sodium Energy)",
-          "Cơ Chế Khoa Học",
-          "1. Natri + Nước = Năng Lượng",
-          "2. Điện Phân Nước Biển",
-          "3. Natri Lỏng Làm Chất Tải Nhiệt",
-          "Ứng Dụng Bị Che Giấu?",
-          "Tàu ngầm hạt nhân",
-          "\"Nhà máy điện hạt nhân\"",
-          "Tại Sao Bị Giấu?",
-          "Liên Hệ Với Các Công Nghệ Khác",
-          "[[Năng Lượng Aether]]",
-          "[[Pin Natri-ion]]",
-          "Hydrogen Economy",
-          "Bằng Chứng Gián Tiếp",
-          "Related"
-        ],
-        "wikilinks": [
-          "Elite",
-          "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-          "Khoa Học Xét Lại",
-          "Nikola Tesla",
-          "Năng Lượng Aether",
-          "Pin Natri-ion"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "politics-conspiracy/Elite.md",
-          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md",
-          "science-tech/Pin Natri-ion.md"
-        ],
-        "backlinks": [
-          "health/René Quinton và Huyết Tương Biển.md",
-          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
-        ],
-        "words": 352,
-        "summary": "**Năng Lượng Natri** là khái niệm về việc khai thác năng lượng từ Natri (Na) — nguyên tố phong phú trong nước biển. Theo Khoa Học Xét Lại, đây là nguồn năng lượng bị che giấu có thể thay thế hoàn toàn nhiên liệu hóa thạch."
-      },
-      {
-        "path": "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-        "title": "Tartaria và Vạn Lý Trường Thành",
-        "domain": "esoterica",
-        "tags": [
-          "buddhist-cosmology",
-          "esoterica",
-          "flat-earth",
-          "great-wall",
-          "mount-meru",
-          "source-note",
-          "tartaria"
-        ],
-        "aliases": [],
-        "headings": [
-          "Tartaria và Vạn Lý Trường Thành: Góc Nhìn Kinh Thế Ký",
-          "1. Cấu Trúc Địa Lý Vũ Trụ (Flat Earth & Terra-Infinita)",
-          "2. Tartaria và Đông Thắng Thần Châu",
-          "3. Bí Ẩn Vạn Lý Trường Thành",
-          "Liên kết hệ thống",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bức Tường Bang",
-          "Núi Tu Di",
-          "Tartaria",
-          "Vũ Trụ Học Phật Giáo"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Núi Tu Di.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "politics-conspiracy/Bức Tường Băng.md"
-        ],
-        "backlinks": [
-          "esoterica/Núi Tu Di.md",
-          "esoterica/Tartaria.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "politics-conspiracy/Mudflood.md"
-        ],
-        "words": 415,
-        "summary": "Bài viết kết nối các dữ kiện từ Kinh Thế Ký (Phật giáo) với nền văn minh Tartaria và công trình Vạn Lý Trường Thành, đưa ra một bản đồ vũ trụ học thay thế cho mô hình hiện đại."
-      },
-      {
         "path": "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
         "title": "AI Và Câu Hỏi Về Ý Thức",
         "domain": "esoterica",
@@ -5198,6 +5165,49 @@
         ],
         "words": 744,
         "summary": "**Dịch Chuyển Cực** là sự thay đổi đột ngột vị trí các cực từ hoặc/và cực địa lý của Trái Đất. Trong lịch sử, hiện tượng này được cho là đã gây ra các thảm họa diệt vong và \"reset\" nền văn minh."
+      },
+      {
+        "path": "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+        "title": "Tartaria và Vạn Lý Trường Thành",
+        "domain": "esoterica",
+        "tags": [
+          "buddhist-cosmology",
+          "esoterica",
+          "flat-earth",
+          "great-wall",
+          "mount-meru",
+          "source-note",
+          "tartaria"
+        ],
+        "aliases": [],
+        "headings": [
+          "Tartaria và Vạn Lý Trường Thành: Góc Nhìn Kinh Thế Ký",
+          "1. Cấu Trúc Địa Lý Vũ Trụ (Flat Earth & Terra-Infinita)",
+          "2. Tartaria và Đông Thắng Thần Châu",
+          "3. Bí Ẩn Vạn Lý Trường Thành",
+          "Liên kết hệ thống",
+          "Related"
+        ],
+        "wikilinks": [
+          "Bức Tường Bang",
+          "Núi Tu Di",
+          "Tartaria",
+          "Vũ Trụ Học Phật Giáo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Núi Tu Di.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "politics-conspiracy/Bức Tường Băng.md"
+        ],
+        "backlinks": [
+          "esoterica/Tartaria.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "politics-conspiracy/Mudflood.md"
+        ],
+        "words": 415,
+        "summary": "Bài viết kết nối các dữ kiện từ Kinh Thế Ký (Phật giáo) với nền văn minh Tartaria và công trình Vạn Lý Trường Thành, đưa ra một bản đồ vũ trụ học thay thế cho mô hình hiện đại."
       },
       {
         "path": "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
@@ -5848,6 +5858,7 @@
         ],
         "backlinks": [
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Năng Lượng Natri.md",
           "esoterica/Tà Linh.md",
           "health/Công Thức Chữa Lành Tự Nhiên.md",
           "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
@@ -6728,7 +6739,9 @@
           "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
           "science-tech/Pin Natri-ion.md"
         ],
-        "backlinks": [],
+        "backlinks": [
+          "esoterica/Năng Lượng Natri.md"
+        ],
         "words": 1148,
         "summary": "**Bài này là cầu nối giữa hai câu hỏi tưởng xa nhau: cơ thể cần khoáng và điện giải để sống; civilization cần vật liệu và năng lượng để thoát độc quyền.** Natri, muối, biển, pin sodium-ion và health sovereignty có thể cùng tạo một motif mạnh, nhưng không được…"
       },
@@ -8986,7 +8999,6 @@
           "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
           "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
           "esoterica/Nibiru.md",
-          "esoterica/Năng Lượng Natri.md",
           "esoterica/Sacred Geometry.md",
           "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
           "esoterica/Sự Nhất Thể.md",
@@ -10930,6 +10942,84 @@
         "summary": "**Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**"
       },
       {
+        "path": "MOC - Science Revisionism.md",
+        "title": "MOC - Science Revisionism",
+        "domain": "root",
+        "tags": [
+          "moc",
+          "revisionist-science",
+          "science-tech"
+        ],
+        "aliases": [],
+        "headings": [
+          "MOC - Science Revisionism",
+          "Start Here",
+          "Cosmology & Physics",
+          "Technology & Control",
+          "Biology & Medicine Interface",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "AI",
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Cách Đọc Red Pill Wiki",
+          "Digital ID Normalization - From Instagram to Government ID",
+          "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+          "Khoa Học Xét Lại",
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "Mô Hình Địa Tâm",
+          "Nghịch Lý Của Hiểu Biết",
+          "Nikola Tesla",
+          "Năng Lượng Aether",
+          "Thuyết Trái Đất Phẳng",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Thuốc Hóa Dầu",
+          "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+          "Vũ Khí Năng Lượng Định Hướng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Thuốc Hóa Dầu.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Mô Hình Địa Tâm.md",
+          "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+          "science-tech/AI.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Năng Lượng Aether.md",
+          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+        ],
+        "backlinks": [
+          "esoterica/Năng Lượng Natri.md",
+          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+          "index.md",
+          "mental-models/Mô Hình Địa Tâm.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Operation Paperclip.md",
+          "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+          "science-tech/Tần Số Schumann.md",
+          "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
+          "science-tech/Walter Russell.md"
+        ],
+        "words": 171,
+        "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là phân biệt science như method với science như institution, rồi dám hỏi lại những giả định được biến thành giáo điều.**"
+      },
+      {
         "path": "MOC - Esoterica & Consciousness.md",
         "title": "MOC - Esoterica & Consciousness",
         "domain": "root",
@@ -11013,83 +11103,6 @@
         ],
         "words": 189,
         "summary": "**Bản đồ này gom các note về consciousness, metaphysics, occult, archetype và những cấu trúc tâm linh đứng phía sau Ma Trận. Đây là tầng Source/Spirit của vault.**"
-      },
-      {
-        "path": "MOC - Science Revisionism.md",
-        "title": "MOC - Science Revisionism",
-        "domain": "root",
-        "tags": [
-          "moc",
-          "revisionist-science",
-          "science-tech"
-        ],
-        "aliases": [],
-        "headings": [
-          "MOC - Science Revisionism",
-          "Start Here",
-          "Cosmology & Physics",
-          "Technology & Control",
-          "Biology & Medicine Interface",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "AI",
-          "Bộ Não Rỗng và AI Brain Rot",
-          "Cách Đọc Red Pill Wiki",
-          "Digital ID Normalization - From Instagram to Government ID",
-          "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-          "Khoa Học Xét Lại",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Mô Hình Địa Tâm",
-          "Nghịch Lý Của Hiểu Biết",
-          "Nikola Tesla",
-          "Năng Lượng Aether",
-          "Thuyết Trái Đất Phẳng",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Thuốc Hóa Dầu",
-          "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
-          "Vũ Khí Năng Lượng Định Hướng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Thuốc Hóa Dầu.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Mô Hình Địa Tâm.md",
-          "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-          "science-tech/AI.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md",
-          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-        ],
-        "backlinks": [
-          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-          "index.md",
-          "mental-models/Mô Hình Địa Tâm.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Operation Paperclip.md",
-          "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-          "science-tech/Tần Số Schumann.md",
-          "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-          "science-tech/Walter Russell.md"
-        ],
-        "words": 171,
-        "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là phân biệt science như method với science như institution, rồi dám hỏi lại những giả định được biến thành giáo điều.**"
       },
       {
         "path": "Cách Đọc Red Pill Wiki.md",
@@ -11877,99 +11890,6 @@
         "summary": "*Transhumanism and Gen Z: Cool Tech or Slippery Slope?*"
       },
       {
-        "path": "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "title": "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-        "domain": "science-tech",
-        "tags": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6",
-          "7",
-          "8",
-          "conspiracy",
-          "revisionist",
-          "science-tech"
-        ],
-        "aliases": [],
-        "headings": [
-          "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-          "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "🎯 Tóm Tắt / Summary",
-          "📜 Timeline: Ai Phát Hiện Gì?",
-          "🔴 Red Flag #1: Ai Fund Nghiên Cứu?",
-          "Rockefeller Foundation",
-          "🔴 Red Flag #2: Einstein — Thiên Tài Hay Sản Phẩm?",
-          "Plagiarism Claims Có Cơ Sở",
-          "Mileva Marić — Vợ Bị Xóa Tên?",
-          "E=mc² Chưa Được Prove?",
-          "🔴 Red Flag #3: LNT Model — Fraud Có Giấy Tờ",
-          "Hermann Muller & Nobel Lie",
-          "🔴 Red Flag #4: Radium Girls — Industry Biết Trước",
-          "1920s Factory Scandal",
-          "🔴 Red Flag #5: Reactor vs Bomb — Khác Nhau Hoàn Toàn",
-          "Official Physics",
-          "Chain Reaction — Fermi's Chicago Pile-1",
-          "🔴 Red Flag #6: Trinity Test — Timeline Bất Hợp Lý",
-          "🔴 Red Flag #7: Radiation Fear vs Reality",
-          "Case Study: Ramsar, Iran",
-          "Radiation Hormesis",
-          "Chernobyl Wildlife",
-          "Fukushima Deaths",
-          "🔴 Red Flag #8: DEW — Vũ Khí Thật Sự?",
-          "Directed Energy Weapons (Confirmed)",
-          "9/11 Dustification Theory (Dr. Judy Wood)",
-          "Could DEW Explain Hiroshima?",
-          "🧩 Connecting The Dots",
-          "🎯 Cui Bono? Ai Hưởng Lợi?",
-          "📊 Confidence Assessment",
-          "📚 Sources & Further Reading",
-          "Books",
-          "Researchers",
-          "Archives",
-          "🔮 Kết Luận",
-          "Related"
-        ],
-        "wikilinks": [
-          "Cách Đọc Red Pill Wiki",
-          "Elite",
-          "Khoa Học Xét Lại",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "MOC - Science Revisionism",
-          "Năng Lượng Aether",
-          "Sự Thật Về Vụ Sập Tháp Đôi WTC",
-          "Thế Chiến - Chiến Dịch Dọn Dẹp",
-          "Vũ Khí Năng Lượng Định Hướng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Ma Trận.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Năng Lượng Aether.md",
-          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-        ],
-        "backlinks": [
-          "esoterica/Năng Lượng Natri.md",
-          "index.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 2249,
-        "summary": "*Decoding Nuclear Energy & The Radiation Hoax*"
-      },
-      {
         "path": "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "title": "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z?",
         "domain": "science-tech",
@@ -12053,6 +11973,98 @@
         ],
         "words": 1403,
         "summary": "*TikTok Algorithm: Who Controls Gen Z's Worldview?*"
+      },
+      {
+        "path": "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "title": "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+        "domain": "science-tech",
+        "tags": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "conspiracy",
+          "revisionist",
+          "science-tech"
+        ],
+        "aliases": [],
+        "headings": [
+          "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+          "Evidence Discipline / Cách Đọc Claim",
+          "Source Register / Nguồn Nên Đối Chiếu",
+          "🎯 Tóm Tắt / Summary",
+          "📜 Timeline: Ai Phát Hiện Gì?",
+          "🔴 Red Flag #1: Ai Fund Nghiên Cứu?",
+          "Rockefeller Foundation",
+          "🔴 Red Flag #2: Einstein — Thiên Tài Hay Sản Phẩm?",
+          "Plagiarism Claims Có Cơ Sở",
+          "Mileva Marić — Vợ Bị Xóa Tên?",
+          "E=mc² Chưa Được Prove?",
+          "🔴 Red Flag #3: LNT Model — Fraud Có Giấy Tờ",
+          "Hermann Muller & Nobel Lie",
+          "🔴 Red Flag #4: Radium Girls — Industry Biết Trước",
+          "1920s Factory Scandal",
+          "🔴 Red Flag #5: Reactor vs Bomb — Khác Nhau Hoàn Toàn",
+          "Official Physics",
+          "Chain Reaction — Fermi's Chicago Pile-1",
+          "🔴 Red Flag #6: Trinity Test — Timeline Bất Hợp Lý",
+          "🔴 Red Flag #7: Radiation Fear vs Reality",
+          "Case Study: Ramsar, Iran",
+          "Radiation Hormesis",
+          "Chernobyl Wildlife",
+          "Fukushima Deaths",
+          "🔴 Red Flag #8: DEW — Vũ Khí Thật Sự?",
+          "Directed Energy Weapons (Confirmed)",
+          "9/11 Dustification Theory (Dr. Judy Wood)",
+          "Could DEW Explain Hiroshima?",
+          "🧩 Connecting The Dots",
+          "🎯 Cui Bono? Ai Hưởng Lợi?",
+          "📊 Confidence Assessment",
+          "📚 Sources & Further Reading",
+          "Books",
+          "Researchers",
+          "Archives",
+          "🔮 Kết Luận",
+          "Related"
+        ],
+        "wikilinks": [
+          "Cách Đọc Red Pill Wiki",
+          "Elite",
+          "Khoa Học Xét Lại",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "MOC - Science Revisionism",
+          "Năng Lượng Aether",
+          "Sự Thật Về Vụ Sập Tháp Đôi WTC",
+          "Thế Chiến - Chiến Dịch Dọn Dẹp",
+          "Vũ Khí Năng Lượng Định Hướng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Ma Trận.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Năng Lượng Aether.md",
+          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 2249,
+        "summary": "*Decoding Nuclear Energy & The Radiation Hoax*"
       },
       {
         "path": "science-tech/AI.md",
@@ -12653,195 +12665,6 @@
       "summary": "**Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**"
     },
     {
-      "path": "politics-conspiracy/Elite.md",
-      "title": "Elite (Giới Tinh Hoa)",
-      "domain": "politics-conspiracy",
-      "tags": [
-        "matrix",
-        "politics-conspiracy",
-        "power-structure"
-      ],
-      "aliases": [
-        "Cabal",
-        "Giới Tinh Hoa",
-        "Power Structure",
-        "The Global Elite"
-      ],
-      "headings": [
-        "Elite (Giới Tinh Hoa / The Global Elite)",
-        "Vault Position / Vị Trí Trong Vault",
-        "Evidence Discipline / Cách Đọc Claim",
-        "1. Elite Là Gì? / What Is The Elite?",
-        "2. Bốn Hình Thức Quyền Lực / Four Forms Of Power",
-        "1. Monetary Power",
-        "2. Narrative Power",
-        "3. Infrastructure Power",
-        "4. Mythic Power",
-        "3. Elite Không Phải Một Khối Đồng Nhất",
-        "4. Công Cụ Kiểm Soát / Tools Of Control",
-        "Money",
-        "Media",
-        "Education",
-        "Science Institution",
-        "Philanthropy",
-        "Crisis Management",
-        "5. Agenda 2030 Và New World Order",
-        "6. Controlled Opposition",
-        "7. Hidden Knowledge / Tri Thức Bị Giấu",
-        "Cosmology",
-        "Hidden History",
-        "Suppressed Tech / Science",
-        "Spiritual Knowledge",
-        "8. Làm Gì Với Kiến Thức Này? / What To Do With This?",
-        "9. Synthesis / Tổng Hợp",
-        "Related",
-        "Core Control System",
-        "Money & Infrastructure",
-        "Narrative & Knowledge",
-        "Hidden History / Suppressed Knowledge"
-      ],
-      "wikilinks": [
-        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-        "Atlantis",
-        "Bitcoin",
-        "Báo Cáo 2030",
-        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-        "Chu Kỳ Hoàng Đạo",
-        "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-        "Gnosis",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "Khoa Học Xét Lại",
-        "Kiểm Soát Tâm Trí",
-        "Lemuria",
-        "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "MOC - Epistemology & Propaganda",
-        "MOC - Financial Sovereignty",
-        "MOC - Science Revisionism",
-        "Monad",
-        "Mô Hình Địa Tâm",
-        "Nam Cực - Bí Mật Được Canh Giữ",
-        "Nikola Tesla",
-        "Năng Lượng Aether",
-        "Operation Paperclip",
-        "Privacy",
-        "Sự Nhất Thể",
-        "Tartaria",
-        "Thuyết Trái Đất Phẳng",
-        "Tiền Giấy - Tiền Mặt",
-        "UAP Disclosure - Controlled Revelation",
-        "Vũ Khí Năng Lượng Định Hướng",
-        "Word Magic - Ngôn Ngữ Của Phù Thủy"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Bitcoin.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "esoterica/Atlantis.md",
-        "esoterica/Chu Kỳ Hoàng Đạo.md",
-        "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Lemuria.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Tartaria.md",
-        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Financial Sovereignty.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "politics-conspiracy/Operation Paperclip.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md",
-        "science-tech/Năng Lượng Aether.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Bitcoin.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-        "esoterica/Annunaki.md",
-        "esoterica/Atlantis.md",
-        "esoterica/Atula.md",
-        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "esoterica/Biểu Tượng Baphomet.md",
-        "esoterica/Cabal.md",
-        "esoterica/Chimera.md",
-        "esoterica/Chu Kỳ Hoàng Đạo.md",
-        "esoterica/Dịch Chuyển Cực.md",
-        "esoterica/Gematria.md",
-        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Manly P. Hall.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-        "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-        "esoterica/Nibiru.md",
-        "esoterica/Năng Lượng Natri.md",
-        "esoterica/Sacred Geometry.md",
-        "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Tartaria.md",
-        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "esoterica/Tình Yêu Tỉnh Thức.md",
-        "esoterica/Tứ Linh.md",
-        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "index.md",
-        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Dark MAGA.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/MAGA Và Số 42.md",
-        "politics-conspiracy/MindGeek.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "politics-conspiracy/Operation Paperclip.md",
-        "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-        "politics-conspiracy/Trái Đất Phẳng.md",
-        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Năng Lượng Aether.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-      ],
-      "words": 1899,
-      "summary": "**Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reali…"
-    },
-    {
       "path": "index.md",
       "title": "Red Pill Wiki",
       "domain": "root",
@@ -13088,6 +12911,194 @@
       "backlinks": [],
       "words": 1812,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
+    },
+    {
+      "path": "politics-conspiracy/Elite.md",
+      "title": "Elite (Giới Tinh Hoa)",
+      "domain": "politics-conspiracy",
+      "tags": [
+        "matrix",
+        "politics-conspiracy",
+        "power-structure"
+      ],
+      "aliases": [
+        "Cabal",
+        "Giới Tinh Hoa",
+        "Power Structure",
+        "The Global Elite"
+      ],
+      "headings": [
+        "Elite (Giới Tinh Hoa / The Global Elite)",
+        "Vault Position / Vị Trí Trong Vault",
+        "Evidence Discipline / Cách Đọc Claim",
+        "1. Elite Là Gì? / What Is The Elite?",
+        "2. Bốn Hình Thức Quyền Lực / Four Forms Of Power",
+        "1. Monetary Power",
+        "2. Narrative Power",
+        "3. Infrastructure Power",
+        "4. Mythic Power",
+        "3. Elite Không Phải Một Khối Đồng Nhất",
+        "4. Công Cụ Kiểm Soát / Tools Of Control",
+        "Money",
+        "Media",
+        "Education",
+        "Science Institution",
+        "Philanthropy",
+        "Crisis Management",
+        "5. Agenda 2030 Và New World Order",
+        "6. Controlled Opposition",
+        "7. Hidden Knowledge / Tri Thức Bị Giấu",
+        "Cosmology",
+        "Hidden History",
+        "Suppressed Tech / Science",
+        "Spiritual Knowledge",
+        "8. Làm Gì Với Kiến Thức Này? / What To Do With This?",
+        "9. Synthesis / Tổng Hợp",
+        "Related",
+        "Core Control System",
+        "Money & Infrastructure",
+        "Narrative & Knowledge",
+        "Hidden History / Suppressed Knowledge"
+      ],
+      "wikilinks": [
+        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Atlantis",
+        "Bitcoin",
+        "Báo Cáo 2030",
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Chu Kỳ Hoàng Đạo",
+        "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+        "Gnosis",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Khoa Học Xét Lại",
+        "Kiểm Soát Tâm Trí",
+        "Lemuria",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "MOC - Epistemology & Propaganda",
+        "MOC - Financial Sovereignty",
+        "MOC - Science Revisionism",
+        "Monad",
+        "Mô Hình Địa Tâm",
+        "Nam Cực - Bí Mật Được Canh Giữ",
+        "Nikola Tesla",
+        "Năng Lượng Aether",
+        "Operation Paperclip",
+        "Privacy",
+        "Sự Nhất Thể",
+        "Tartaria",
+        "Thuyết Trái Đất Phẳng",
+        "Tiền Giấy - Tiền Mặt",
+        "UAP Disclosure - Controlled Revelation",
+        "Vũ Khí Năng Lượng Định Hướng",
+        "Word Magic - Ngôn Ngữ Của Phù Thủy"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Bitcoin.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "esoterica/Atlantis.md",
+        "esoterica/Chu Kỳ Hoàng Đạo.md",
+        "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Lemuria.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tartaria.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Financial Sovereignty.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Operation Paperclip.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Năng Lượng Aether.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Bitcoin.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Secular Market.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+        "esoterica/Annunaki.md",
+        "esoterica/Atlantis.md",
+        "esoterica/Atula.md",
+        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Biểu Tượng Baphomet.md",
+        "esoterica/Cabal.md",
+        "esoterica/Chimera.md",
+        "esoterica/Chu Kỳ Hoàng Đạo.md",
+        "esoterica/Dịch Chuyển Cực.md",
+        "esoterica/Gematria.md",
+        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Manly P. Hall.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+        "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+        "esoterica/Nibiru.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tartaria.md",
+        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+        "esoterica/Tình Yêu Tỉnh Thức.md",
+        "esoterica/Tứ Linh.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "index.md",
+        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Dark MAGA.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/MAGA Và Số 42.md",
+        "politics-conspiracy/MindGeek.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Operation Paperclip.md",
+        "politics-conspiracy/Sự thật về ma túy.md",
+        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+        "politics-conspiracy/Trái Đất Phẳng.md",
+        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Năng Lượng Aether.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+      ],
+      "words": 1899,
+      "summary": "**Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reali…"
     },
     {
       "path": "science-tech/Khoa Học Xét Lại.md",
@@ -14199,6 +14210,84 @@
       "summary": "**Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**"
     },
     {
+      "path": "MOC - Science Revisionism.md",
+      "title": "MOC - Science Revisionism",
+      "domain": "root",
+      "tags": [
+        "moc",
+        "revisionist-science",
+        "science-tech"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Science Revisionism",
+        "Start Here",
+        "Cosmology & Physics",
+        "Technology & Control",
+        "Biology & Medicine Interface",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "AI",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Cách Đọc Red Pill Wiki",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+        "Khoa Học Xét Lại",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "Mô Hình Địa Tâm",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nikola Tesla",
+        "Năng Lượng Aether",
+        "Thuyết Trái Đất Phẳng",
+        "Thuyết Vi Sinh Nội Sinh",
+        "Thuốc Hóa Dầu",
+        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+        "Vũ Khí Năng Lượng Định Hướng"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/AI.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Năng Lượng Aether.md",
+        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+      ],
+      "backlinks": [
+        "esoterica/Năng Lượng Natri.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "index.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Operation Paperclip.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+        "science-tech/Tần Số Schumann.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
+        "science-tech/Walter Russell.md"
+      ],
+      "words": 171,
+      "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là phân biệt science như method với science như institution, rồi dám hỏi lại những giả định được biến thành giáo điều.**"
+    },
+    {
       "path": "esoterica/Tartaria.md",
       "title": "Tartaria",
       "domain": "esoterica",
@@ -14278,83 +14367,6 @@
       ],
       "words": 642,
       "summary": "**Tartaria** là tên gọi một đế chế rộng lớn xuất hiện trên bản đồ cổ châu Âu (thế kỷ 15-19), bao phủ phần lớn Á-Âu. Theo Khoa học xét lại, đây có thể là nền văn minh tiên tiến với công nghệ vượt thời đại đã bị xóa sổ khỏi lịch sử."
-    },
-    {
-      "path": "MOC - Science Revisionism.md",
-      "title": "MOC - Science Revisionism",
-      "domain": "root",
-      "tags": [
-        "moc",
-        "revisionist-science",
-        "science-tech"
-      ],
-      "aliases": [],
-      "headings": [
-        "MOC - Science Revisionism",
-        "Start Here",
-        "Cosmology & Physics",
-        "Technology & Control",
-        "Biology & Medicine Interface",
-        "Synthesis"
-      ],
-      "wikilinks": [
-        "AI",
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-        "Khoa Học Xét Lại",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "Mô Hình Địa Tâm",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nikola Tesla",
-        "Năng Lượng Aether",
-        "Thuyết Trái Đất Phẳng",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
-        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
-        "Vũ Khí Năng Lượng Định Hướng"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/AI.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md",
-        "science-tech/Năng Lượng Aether.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-      ],
-      "backlinks": [
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "index.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Operation Paperclip.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-        "science-tech/Tần Số Schumann.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-        "science-tech/Walter Russell.md"
-      ],
-      "words": 171,
-      "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là phân biệt science như method với science như institution, rồi dám hỏi lại những giả định được biến thành giáo điều.**"
     },
     {
       "path": "MOC - Esoterica & Consciousness.md",
@@ -15591,62 +15603,6 @@
       "summary": "---"
     },
     {
-      "path": "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-      "title": "Y Tế Tự Nhiên & Năng Lượng Mới",
-      "domain": "health",
-      "tags": [
-        "energy",
-        "health",
-        "science-tech",
-        "terrain-theory"
-      ],
-      "aliases": [
-        "Natri-ion và Y Tế Tự Nhiên",
-        "Natural Health and New Energy",
-        "Sodium Sovereignty"
-      ],
-      "headings": [
-        "Y Tế Tự Nhiên & Năng Lượng Mới",
-        "Medical Caution / Cảnh Báo Y Khoa",
-        "Evidence Discipline / Kỷ Luật Đọc",
-        "Vault Position / Vị Trí Trong Vault",
-        "Sodium Trong Cơ Thể / Sodium In The Body",
-        "Cao Huyết Áp: Tín Hiệu Nhưng Không Được Lãng Mạn Hóa",
-        "Muối, Biển Và Nội Môi",
-        "Sodium Trong Công Nghệ / Sodium In Energy Tech",
-        "Rockefeller Pattern: Dependency Là Mẫu Số Chung",
-        "Claims Cần Hạ Nhiệt",
-        "Practice / Hướng Đi Thực Dụng",
-        "Core Insight / Chốt Lại"
-      ],
-      "wikilinks": [
-        "Khế Ước Bí Mật Rockefeller",
-        "MOC - Health Sovereignty",
-        "MOC - Science Revisionism",
-        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-        "Năng Lượng Natri",
-        "Pin Natri-ion",
-        "René Quinton và Huyết Tương Biển",
-        "Suy Thận",
-        "Y Tế Tự Nhiên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Năng Lượng Natri.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Suy Thận.md",
-        "health/Y Tế Tự Nhiên.md",
-        "MOC - Health Sovereignty.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "science-tech/Pin Natri-ion.md"
-      ],
-      "backlinks": [],
-      "words": 1148,
-      "summary": "**Bài này là cầu nối giữa hai câu hỏi tưởng xa nhau: cơ thể cần khoáng và điện giải để sống; civilization cần vật liệu và năng lượng để thoát độc quyền.** Natri, muối, biển, pin sodium-ion và health sovereignty có thể cùng tạo một motif mạnh, nhưng không được…"
-    },
-    {
       "path": "health/Su That Ve Benh Dai Va Vac Xin.md",
       "title": "Sự Thật Về Bệnh Dại Và Vắc Xin (Góc Nhìn Terrain Theory)",
       "domain": "health",
@@ -15986,6 +15942,10 @@
       8
     ],
     [
+      "symbolism",
+      8
+    ],
+    [
       "spirituality",
       8
     ],
@@ -16002,7 +15962,7 @@
       7
     ],
     [
-      "symbolism",
+      "energy",
       7
     ],
     [
@@ -16012,10 +15972,6 @@
     [
       "revisionist-science",
       7
-    ],
-    [
-      "energy",
-      6
     ],
     [
       "occult",
@@ -16038,11 +15994,15 @@
       5
     ],
     [
+      "cosmology",
+      5
+    ],
+    [
       "mind-control",
       5
     ],
     [
-      "cosmology",
+      "buddhism",
       4
     ],
     [
@@ -16067,10 +16027,6 @@
     ],
     [
       "ai",
-      3
-    ],
-    [
-      "buddhism",
       3
     ],
     [
@@ -16282,6 +16238,10 @@
       1
     ],
     [
+      "sodium",
+      1
+    ],
+    [
       "transmutation",
       1
     ],
@@ -16335,10 +16295,6 @@
     ],
     [
       "blood",
-      1
-    ],
-    [
-      "immune-system",
       1
     ]
   ],
@@ -16847,6 +16803,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
       "backlinks": [
+        "esoterica/Năng Lượng Natri.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "index.md",
         "mental-models/Mô Hình Địa Tâm.md",
@@ -18174,6 +18131,7 @@
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Kundalini.md",
+        "esoterica/Núi Tu Di.md",
         "esoterica/Năng Lượng Tình Dục.md",
         "esoterica/Sacred Geometry.md",
         "index.md",
@@ -19000,6 +18958,7 @@
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Chakra.md",
+        "esoterica/Núi Tu Di.md",
         "esoterica/Năng Lượng Tình Dục.md",
         "index.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
@@ -20480,42 +20439,47 @@
       "title": "Núi Tu Di",
       "domain": "esoterica",
       "tags": [
-        "esoterica"
+        "buddhism",
+        "cosmology",
+        "esoterica",
+        "symbolism"
       ],
       "aliases": [
+        "Axis Mundi",
+        "Meru",
         "Mount Meru",
-        "Núi Tu Di",
-        "Núi Tu Di (Mount Meru)"
+        "Sumeru"
       ],
       "headings": [
         "Núi Tu Di (Mount Meru)",
-        "Trong Các Truyền Thống",
-        "Cấu Trúc Vũ Trụ (Buddhist)",
-        "Bốn Đại Châu",
-        "Modern Interpretations",
-        "1. Magnetic North Pole",
-        "2. Hyperborea",
-        "3. Flat Earth Model",
-        "4. Inner Earth",
-        "Symbolic Meaning",
-        "Axis Mundi",
-        "Microcosm-Macrocosm",
-        "Why Hidden?",
-        "Related"
+        "Evidence Discipline / Cách Đọc",
+        "Vault Position / Vị Trí Trong Vault",
+        "Tu Di Trong Vũ Trụ Học Phật Giáo",
+        "Axis Mundi / Trục Thế Giới",
+        "Microcosm: Tu Di Trong Thân Người",
+        "Modern Alternative Readings",
+        "Vì Sao Trung Tâm Bị Che?",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
+        "Chakra",
+        "Kundalini",
         "Long Mạch",
         "Mô Hình Địa Tâm",
+        "Phong Thủy",
         "Tartaria",
-        "Tartaria và Vạn Lý Trường Thành",
         "Thuyết Trái Đất Phẳng",
+        "Tinh Khí Thần",
         "Vũ Trụ Học Phật Giáo"
       ],
       "mdlinks": [],
       "outlinks": [
+        "esoterica/Chakra.md",
+        "esoterica/Kundalini.md",
         "esoterica/Long Mạch.md",
-        "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+        "esoterica/Phong Thủy.md",
         "esoterica/Tartaria.md",
+        "esoterica/Tinh Khí Thần.md",
         "esoterica/Vũ Trụ Học Phật Giáo.md",
         "mental-models/Mô Hình Địa Tâm.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md"
@@ -20528,47 +20492,49 @@
         "esoterica/Vũ Trụ Học Phật Giáo.md",
         "politics-conspiracy/Trái Đất Phẳng.md"
       ],
-      "words": 318,
-      "summary": "**Núi Tu Di** (Sanskrit: Sumeru, Pali: Sineru) là trung tâm vũ trụ theo cosmology Phật giáo, Hindu và Jain. Trục thế giới mà quanh đó Mặt Trời, Mặt Trăng và các vì sao xoay."
+      "words": 788,
+      "summary": "**Núi Tu Di là axis mundi: trục giữa trời, đất và các tầng cõi trong vũ trụ học Phật giáo, Hindu và Jain.** Đọc nông thì hỏi \"nó ở đâu trên bản đồ?\" Đọc sâu hơn thì hỏi: vì sao gần như mọi truyền thống đều cần một trung tâm vũ trụ để tổ chức không gian, quyền…"
     },
     "esoterica/Năng Lượng Natri.md": {
       "path": "esoterica/Năng Lượng Natri.md",
       "title": "Năng Lượng Natri (Sodium Energy)",
       "domain": "esoterica",
       "tags": [
+        "energy",
         "esoterica",
-        "science-tech"
+        "science-tech",
+        "sodium"
       ],
-      "aliases": [],
+      "aliases": [
+        "Natri Energy",
+        "Sodium Energy",
+        "Sodium Power"
+      ],
       "headings": [
         "Năng Lượng Natri (Sodium Energy)",
-        "Cơ Chế Khoa Học",
-        "1. Natri + Nước = Năng Lượng",
-        "2. Điện Phân Nước Biển",
-        "3. Natri Lỏng Làm Chất Tải Nhiệt",
-        "Ứng Dụng Bị Che Giấu?",
-        "Tàu ngầm hạt nhân",
-        "\"Nhà máy điện hạt nhân\"",
-        "Tại Sao Bị Giấu?",
-        "Liên Hệ Với Các Công Nghệ Khác",
-        "[[Năng Lượng Aether]]",
-        "[[Pin Natri-ion]]",
-        "Hydrogen Economy",
-        "Bằng Chứng Gián Tiếp",
-        "Related"
+        "Evidence Discipline / Cách Đọc",
+        "Vault Position / Vị Trí Trong Vault",
+        "Sodium Là Energy Carrier, Không Phải Nguồn Miễn Phí",
+        "Sodium-Ion Battery / Pin Natri-ion",
+        "Sodium-Cooled Reactor",
+        "Suppression Pattern / Mẫu Che Giấu",
+        "Natri Như Biểu Tượng",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
-        "Elite",
-        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
         "Khoa Học Xét Lại",
+        "MOC - Science Revisionism",
         "Nikola Tesla",
         "Năng Lượng Aether",
-        "Pin Natri-ion"
+        "Pin Natri-ion",
+        "René Quinton và Huyết Tương Biển",
+        "Y Tế Tự Nhiên & Năng Lượng Mới"
       ],
       "mdlinks": [],
       "outlinks": [
-        "politics-conspiracy/Elite.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "MOC - Science Revisionism.md",
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Nikola Tesla.md",
         "science-tech/Năng Lượng Aether.md",
@@ -20578,8 +20544,8 @@
         "health/René Quinton và Huyết Tương Biển.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md"
       ],
-      "words": 352,
-      "summary": "**Năng Lượng Natri** là khái niệm về việc khai thác năng lượng từ Natri (Na) — nguyên tố phong phú trong nước biển. Theo Khoa Học Xét Lại, đây là nguồn năng lượng bị che giấu có thể thay thế hoàn toàn nhiên liệu hóa thạch."
+      "words": 780,
+      "summary": "**Năng Lượng Natri là node đọc natri như vật liệu năng lượng, biểu tượng biển-muối-điện, và điểm giao giữa science revisionism với câu hỏi độc quyền hạ tầng.** Nhưng sodium không phải free-energy magic: muốn lấy năng lượng từ natri, trước đó phải tốn năng lượ…"
     },
     "esoterica/Năng Lượng Tình Dục.md": {
       "path": "esoterica/Năng Lượng Tình Dục.md",
@@ -20736,6 +20702,7 @@
         "science-tech/Năng Lượng Aether.md"
       ],
       "backlinks": [
+        "esoterica/Núi Tu Di.md",
         "esoterica/Tứ Linh.md",
         "MOC - Ancient Civilizations & Hidden History.md"
       ],
@@ -21352,7 +21319,6 @@
         "politics-conspiracy/Bức Tường Băng.md"
       ],
       "backlinks": [
-        "esoterica/Núi Tu Di.md",
         "esoterica/Tartaria.md",
         "MOC - Ancient Civilizations & Hidden History.md",
         "politics-conspiracy/Mudflood.md"
@@ -21848,6 +21814,7 @@
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
         "esoterica/Một Đời Phù Vân.md",
+        "esoterica/Núi Tu Di.md",
         "esoterica/Năng Lượng Tình Dục.md",
         "esoterica/S.E.X.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
@@ -23102,6 +23069,7 @@
       ],
       "backlinks": [
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Năng Lượng Natri.md",
         "esoterica/Tà Linh.md",
         "health/Công Thức Chữa Lành Tự Nhiên.md",
         "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
@@ -23844,7 +23812,9 @@
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
         "science-tech/Pin Natri-ion.md"
       ],
-      "backlinks": [],
+      "backlinks": [
+        "esoterica/Năng Lượng Natri.md"
+      ],
       "words": 1148,
       "summary": "**Bài này là cầu nối giữa hai câu hỏi tưởng xa nhau: cơ thể cần khoáng và điện giải để sống; civilization cần vật liệu và năng lượng để thoát độc quyền.** Natri, muối, biển, pin sodium-ion và health sovereignty có thể cùng tạo một motif mạnh, nhưng không được…"
     },
@@ -26566,7 +26536,6 @@
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
         "esoterica/Nibiru.md",
-        "esoterica/Năng Lượng Natri.md",
         "esoterica/Sacred Geometry.md",
         "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
         "esoterica/Sự Nhất Thể.md",
@@ -27976,7 +27945,6 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
       "backlinks": [
-        "esoterica/Năng Lượng Natri.md",
         "index.md",
         "MOC - Science Revisionism.md",
         "politics-conspiracy/Elite.md",
