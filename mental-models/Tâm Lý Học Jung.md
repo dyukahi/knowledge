@@ -1,140 +1,86 @@
-﻿---
-title: Tâm Lý Học Jung
-date: 2026-04-12
-tags: [mental-model]
-status: refined
 ---
+title: Tâm Lý Học Jung
+aliases: ["Jungian Psychology", "Analytical Psychology", "Carl Jung"]
+date: 2026-04-12
+tags: [mental-model, jung, psychology, consciousness]
+status: refined
+related:
+  - "[[Individuation]]"
+  - "[[Vô Thức Tập Thể]]"
+  - "[[Nguyên Mẫu]]"
+  - "[[Ma Trận]]"
+  - "[[Gnosis]]"
+  - "[[S.E.X Và Tâm Lý Học Jung]]"
+---
+
 # Tâm Lý Học Jung (Jungian Psychology)
 
-**Tâm lý học phân tích** (Analytical Psychology) do Carl Gustav Jung sáng lập — nền tảng quan trọng giải mã tâm trí con người, mở rộng ra thế giới tâm linh.
+**Jung quan trọng vì ông không thu nhỏ con người thành cái máy phản xạ. Ông đọc psyche như một vũ trụ có tầng: ego, shadow, persona, anima/animus, archetype, collective unconscious và Self.**
 
-*Analytical Psychology founded by Carl Gustav Jung — crucial foundation for decoding the human mind, extending into the spiritual world.*
-
----
-
-## Các Khái niệm Cốt lõi / Core Concepts
-
-### 1. [[Individuation]]
-
-Quá trình cốt lõi: hành trình tự nhận thức, tích hợp các mặt đối lập trong tâm hồn để trở thành cá nhân trọn vẹn.
-
-*The core process: journey of self-awareness, integrating opposites in the psyche to become a whole individual.*
-
-### 2. [[Vô Thức Tập Thể]] (Collective Unconscious)
-
-Tầng sâu nhất của tâm trí, nơi lưu trữ ký ức và kinh nghiệm chung của toàn nhân loại.
-
-*The deepest layer of the mind, storing shared memories and experiences of all humanity.*
-
-### 3. [[Nguyên Mẫu]]
-
-Các mô hình phổ quát định hình hành vi con người qua hàng thiên niên kỷ.
-
-*Universal patterns shaping human behavior across millennia.*
+*Jung matters because he refused to reduce the human being to a reaction machine. He read the psyche as a layered cosmos: ego, shadow, persona, anima/animus, archetype, collective unconscious, and Self.*
 
 ---
 
-## Cấu trúc Tâm thức / Structure of Psyche
+## Vault Position / Vị Trí Trong Bản Đồ
 
-```
-Ego (Conscious self / Bản ngã ý thức)
-    ↓
-Personal Unconscious (Vô thức cá nhân)
-    ↓
-Collective Unconscious (Vô thức tập thể)
-    → Archetypes (Nguyên mẫu)
+Tâm Lý Học Jung là hub của cụm [[Individuation]], [[Vô Thức Tập Thể]], [[Nguyên Mẫu]] và nhiều bài esoterica như [[Gnosis]] hoặc [[Ma Trận]]. Nó là cầu giữa psychology và spiritual warfare: muốn thoát programming bên ngoài, trước hết phải thấy programming bên trong.
+
+Jung không được dùng ở đây như giáo chủ. Ông là bộ công cụ để đọc symbol, dream, projection, shadow và myth trong đời sống hiện đại.
+
+---
+
+## Psyche As Layered Reality
+
+Mô hình đơn giản:
+
+```text
+Persona -> Ego -> Personal Unconscious -> Collective Unconscious -> Self
 ```
 
-### Key Archetypes / Nguyên mẫu chính
-
-| Archetype | Description / Mô tả |
-|-----------|---------------------|
-| **Shadow** | Dark side, repressed / Mặt tối, bị đè nén |
-| **Anima/Animus** | Inner feminine/masculine / Nữ/Nam tính bên trong |
-| **Persona** | Social mask / Mặt nạ xã hội |
-| **Self** | Totality, wholeness / Toàn thể, trọn vẹn |
+Persona là mặt nạ xã hội. Ego là trung tâm ý thức hằng ngày. Vô thức cá nhân chứa ký ức, trauma, ham muốn bị nén. [[Vô Thức Tập Thể]] chứa archetype và myth phổ quát. Self là toàn thể lớn hơn ego.
 
 ---
 
-## Shadow Work / Làm việc với Bóng Tối
+## Individuation / Trở Thành Toàn Vẹn
 
-### Process / Quá trình
+[[Individuation]] là quá trình con người ngừng sống như vai diễn và bắt đầu tích hợp các phần bị tách. Nó không phải “tìm bản thân” kiểu lifestyle. Nó là confrontation: nhìn shadow, rút projection, nghe dream, gặp anima/animus, và để ego phục vụ Self thay vì đóng giả vua.
 
-1. **Recognize** — Nhận ra bóng tối / See your shadow
-2. **Accept** — Chấp nhận / Accept it exists
-3. **Integrate** — Tích hợp / Make it conscious
-4. **Transform** — Chuyển hóa / Use its energy positively
-
-### Signs of Shadow / Dấu hiệu của Shadow
-
-- What you hate in others / Điều bạn ghét ở người khác
-- Recurring patterns / Mẫu lặp lại
-- Emotional triggers / Kích hoạt cảm xúc
-- Dreams of dark figures / Mơ về hình bóng tối
+Trong ngôn ngữ [[Ma Trận]], individuation là jailbreak tâm lý. Người chưa tích hợp rất dễ bị propaganda kéo bằng trigger.
 
 ---
 
-## Kết nối Thể chất & Năng lượng / Body & Energy Connection
+## Shadow / Bóng Tối
 
-### Mind-Body
+Shadow là phần bị ego chối bỏ. Nó có thể là hung tính, ham muốn, sợ hãi, tài năng, sự thật, hoặc sức sống bị nén. Thứ mình ghét cay ghét đắng ở người khác thường là nơi shadow xin được nhìn.
 
-Tinh thần minh mẫn cần cơ thể khỏe mạnh:
-*Clear mind needs healthy body:*
-
-- [[Hệ Tiêu Hóa - Bộ Não Thứ Hai]] — Gut-brain axis
-- [[The China Study]] — Nutrition impacts
-
-### Eastern Parallels / Tương đồng Phương Đông
-
-| Jung | Eastern Tradition |
-|------|-------------------|
-| Individuation | Kundalini awakening |
-| Self archetype | Buddha nature |
-| Collective unconscious | Akashic records |
-| Psychic energy (libido) | Chi/Prana |
+Shadow work không phải khoe mình “dark”. Nó là lấy lại năng lượng bị kẹt trong phán xét và xấu hổ.
 
 ---
 
-## Jung và Ma Trận / Jung & the Matrix
+## Archetypes / Nguyên Mẫu
 
-### Individuation = Escaping Matrix
+[[Nguyên Mẫu]] là pattern sâu: Hero, Mother, Trickster, Wise Old Man, Devouring Mother, Shadow King, Sacred Child. Media, religion, politics và advertising đều dùng archetype vì archetype bypass lý trí.
 
-- Không còn bị lập trình / No longer programmed
-- Nhìn thấy projections / See projections
-- Chủ quyền tâm lý / Psychological sovereignty
-- [[Elite]] loses control
-
-### Why Jung Matters Today
-
-- Social media = collective shadow
-- Propaganda targets archetypes
-- Mass manipulation via unconscious
-- Individuation = resistance
+Đây là lý do Jung quan trọng với redpill.wiki: ai hiểu archetype sẽ thấy truyền thông không chỉ đưa thông tin; nó dựng myth để đám đông nhập vai.
 
 ---
 
-## Quotes
+## Jung And Esoterica
 
-> "Until you make the unconscious conscious, it will direct your life and you will call it fate."
+Jung đứng gần esoterica vì ông nghiêm túc với alchemy, dream, synchronicity, mandala, myth và symbol. Điều này không có nghĩa mọi claim huyền học đều đúng. Nó nghĩa là psyche nói bằng biểu tượng trước khi nói bằng logic.
 
-> "One does not become enlightened by imagining figures of light, but by making the darkness conscious."
+[[Gnosis]] và Jung gặp nhau ở điểm này: biết thật không chỉ là đọc thông tin, mà là thấy cấu trúc bên trong mình.
 
 ---
 
-## Related
+## Body And Terrain / Thân Và Nền
 
-### Core Concepts / Khái niệm cốt lõi
-- [[Individuation]]
-- [[Nguyên Mẫu]]
-- [[Vô Thức Tập Thể]]
+Psyche không nổi lơ lửng ngoài thân. Giấc ngủ, ruột, hormone, ánh sáng, thức ăn, chất kích thích, porn, stress và cộng đồng đều ảnh hưởng khả năng làm shadow work. Vì vậy bài này nối với [[Hệ Tiêu Hóa - Bộ Não Thứ Hai]] và các note health sovereignty.
 
-### Body Connection / Kết nối Thể chất
-- [[Hệ Tiêu Hóa - Bộ Não Thứ Hai]]
-- [[The China Study]]
+Một người mất ngủ, nghiện kích thích và ăn rác rất khó “thiền sâu” một cách ổn định.
 
-### Matrix Escape / Thoát Ma Trận
-- [[Ma Trận]]
-- [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
-- [[Kiểm Soát Tâm Trí]]
+---
 
+## Kết Luận / Closing
 
+Tâm Lý Học Jung là bản đồ để ngừng bị vô thức lái mà gọi đó là số phận. Nó không thay thế spiritual path, nhưng nó làm spiritual path bớt ảo tưởng: trước khi nói mình đã thấy ánh sáng, hãy xem bóng tối của mình đang điều khiển ai.
