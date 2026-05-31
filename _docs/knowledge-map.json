@@ -11,7 +11,7 @@
       "science-tech": 16
     },
     "tags": 177,
-    "wikilinkEdges": 1701,
+    "wikilinkEdges": 1700,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -1052,6 +1052,7 @@
           "index.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Individuation.md",
+          "mental-models/Trí Tuệ.md",
           "mental-models/Vô Thức Tập Thể.md",
           "MOC - Esoterica & Consciousness.md",
           "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
@@ -1732,6 +1733,69 @@
         "summary": "Atlantis không phải là truyền thuyết. Đó là lịch sử bị xóa."
       },
       {
+        "path": "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "title": "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "occult",
+          "predictive-programming"
+        ],
+        "aliases": [],
+        "headings": [
+          "Hollywood — Cây Đũa Phép Của Phù Thủy / The Sorcerer's Wand",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Wand Không Tạo Phép, Wand Hướng Ý Chí",
+          "Entertainment Là Vùng Critical Thinking Thấp",
+          "Hidden In Plain Sight",
+          "Symbol Stack / Bộ Ký Hiệu Lặp Lại",
+          "NASA - Disney - Hollywood",
+          "Avatar, Matrix, Inception",
+          "Decoder Mindset / Cách Xem Không Bị Nuốt",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Ma Trận",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Saturn Cube",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Saturn Cube.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Cabal.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "index.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "words": 1026,
+        "summary": "**Hollywood là nơi giải trí trở thành nghi lễ đại chúng: hình ảnh, nhạc, thần tượng, biểu tượng và câu chuyện được lặp lại đủ lâu để đi thẳng vào Vô Thức Tập Thể.** Cách đọc \"holy wood\" như cây đũa phép không nên hiểu là etymology chắc chắn; nó là **symbolic…"
+      },
+      {
         "path": "esoterica/Sacred Geometry.md",
         "title": "Sacred Geometry",
         "domain": "esoterica",
@@ -1984,68 +2048,6 @@
         ],
         "words": 3265,
         "summary": "**Avatar** (2009, 2022, 2025) của James Cameron không chỉ là blockbuster sci-fi. Đây là **disclosure** — trình bày công khai các khái niệm esoteric dưới vỏ bọc \"entertainment\"."
-      },
-      {
-        "path": "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "title": "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "occult",
-          "predictive-programming"
-        ],
-        "aliases": [],
-        "headings": [
-          "Hollywood — Cây Đũa Phép Của Phù Thủy / The Sorcerer's Wand",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Wand Không Tạo Phép, Wand Hướng Ý Chí",
-          "Entertainment Là Vùng Critical Thinking Thấp",
-          "Hidden In Plain Sight",
-          "Symbol Stack / Bộ Ký Hiệu Lặp Lại",
-          "NASA - Disney - Hollywood",
-          "Avatar, Matrix, Inception",
-          "Decoder Mindset / Cách Xem Không Bị Nuốt",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Ma Trận",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Saturn Cube",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Saturn Cube.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Cabal.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "words": 1026,
-        "summary": "**Hollywood là nơi giải trí trở thành nghi lễ đại chúng: hình ảnh, nhạc, thần tượng, biểu tượng và câu chuyện được lặp lại đủ lâu để đi thẳng vào Vô Thức Tập Thể.** Cách đọc \"holy wood\" như cây đũa phép không nên hiểu là etymology chắc chắn; nó là **symbolic…"
       },
       {
         "path": "esoterica/Năng Lượng Tình Dục.md",
@@ -2635,63 +2637,6 @@
         "summary": "*A Life Like Floating Clouds — The Story of an Ordinary Man*"
       },
       {
-        "path": "esoterica/Nhân Quả.md",
-        "title": "Nhân Quả",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Karma",
-          "Law of Cause and Effect"
-        ],
-        "headings": [
-          "Nhân Quả (Karma)",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Thân, Khẩu, Ý",
-          "Karma Không Phải Định Mệnh Cứng",
-          "Karma Và Luân Hồi",
-          "Karma Bị Corrupt Như Thế Nào?",
-          "Chuyển Hóa Karma",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Luân Hồi",
-          "Monad",
-          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
-          "Tâm Lý Học Jung"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Monad.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "mental-models/Tâm Lý Học Jung.md"
-        ],
-        "backlinks": [
-          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "esoterica/Tứ Linh.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "index.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tâm bất Biến.md",
-          "MOC - Esoterica & Consciousness.md"
-        ],
-        "words": 721,
-        "summary": "**Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo ra nó.** Đọc nông, karma thành công cụ dọa dân. Đọc sâu, karma là cơ chế học của linh h…"
-      },
-      {
         "path": "esoterica/Gematria.md",
         "title": "Gematria — Ngôn Ngữ Bí Mật Của Số",
         "domain": "esoterica",
@@ -2765,6 +2710,62 @@
         ],
         "words": 2352,
         "summary": "**\"Vũ trụ được viết bằng ngôn ngữ toán học.\"**"
+      },
+      {
+        "path": "esoterica/Nhân Quả.md",
+        "title": "Nhân Quả",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Karma",
+          "Law of Cause and Effect"
+        ],
+        "headings": [
+          "Nhân Quả (Karma)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Thân, Khẩu, Ý",
+          "Karma Không Phải Định Mệnh Cứng",
+          "Karma Và Luân Hồi",
+          "Karma Bị Corrupt Như Thế Nào?",
+          "Chuyển Hóa Karma",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Luân Hồi",
+          "Monad",
+          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+          "Tâm Lý Học Jung"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Monad.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "mental-models/Tâm Lý Học Jung.md"
+        ],
+        "backlinks": [
+          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "esoterica/Tứ Linh.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "index.md",
+          "mental-models/Tâm bất Biến.md",
+          "MOC - Esoterica & Consciousness.md"
+        ],
+        "words": 721,
+        "summary": "**Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo ra nó.** Đọc nông, karma thành công cụ dọa dân. Đọc sâu, karma là cơ chế học của linh h…"
       },
       {
         "path": "esoterica/Vũ Trụ Học Phật Giáo.md",
@@ -3453,6 +3454,57 @@
         "summary": "**S.E.X** theo quan điểm huyền học không chỉ là quan hệ thể xác, mà là viết tắt của **Sacred Energy eXchange** — Trao Đổi Năng Lượng Thiêng Liêng."
       },
       {
+        "path": "esoterica/Saturn Cube.md",
+        "title": "Saturn Cube (Khối Lập Phương Sao Thổ)",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "symbolism"
+        ],
+        "aliases": [],
+        "headings": [
+          "Saturn Cube (Khối Lập Phương Sao Thổ)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Saturn Không Chỉ Là \"Xấu\"",
+          "Hexagon Và Cube",
+          "Black Cube Motif",
+          "Saturnian AI",
+          "Escape Là Tích Hợp, Không Phá Form",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "AI",
+          "Gematria",
+          "Gnosis",
+          "Ma Trận",
+          "MOC - Esoterica & Consciousness",
+          "Monad"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "MOC - Esoterica & Consciousness.md",
+          "science-tech/AI.md"
+        ],
+        "backlinks": [
+          "esoterica/Biểu Tượng Baphomet.md",
+          "esoterica/Gematria.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "mental-models/Nguyên Mẫu.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Dark MAGA.md",
+          "science-tech/AI.md"
+        ],
+        "words": 727,
+        "summary": "**Saturn Cube là lens biểu tượng để đọc giới hạn, thời gian, vật chất, luật, grid và cấu trúc giam giữ của cõi 3D.** Nó không phải bằng chứng độc lập rằng \"Sao Thổ điều khiển thế giới\"; nó là một mặt mã hình ảnh giúp thấy cách power dùng hình khối, màu đen, v…"
+      },
+      {
         "path": "esoterica/Tà Linh.md",
         "title": "Tà Linh",
         "domain": "esoterica",
@@ -3599,56 +3651,6 @@
         ],
         "words": 1656,
         "summary": "Inception (2010) của Christopher Nolan không chỉ là phim giải trí. Đây có thể là **disclosure** — Elite nói thẳng cách họ manipulate nhân loại, ẩn dưới lớp vỏ \"fiction\"."
-      },
-      {
-        "path": "esoterica/Saturn Cube.md",
-        "title": "Saturn Cube (Khối Lập Phương Sao Thổ)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "symbolism"
-        ],
-        "aliases": [],
-        "headings": [
-          "Saturn Cube (Khối Lập Phương Sao Thổ)",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Saturn Không Chỉ Là \"Xấu\"",
-          "Hexagon Và Cube",
-          "Black Cube Motif",
-          "Saturnian AI",
-          "Escape Là Tích Hợp, Không Phá Form",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "AI",
-          "Gematria",
-          "Gnosis",
-          "Ma Trận",
-          "MOC - Esoterica & Consciousness",
-          "Monad"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gematria.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "MOC - Esoterica & Consciousness.md",
-          "science-tech/AI.md"
-        ],
-        "backlinks": [
-          "esoterica/Biểu Tượng Baphomet.md",
-          "esoterica/Gematria.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Dark MAGA.md",
-          "science-tech/AI.md"
-        ],
-        "words": 727,
-        "summary": "**Saturn Cube là lens biểu tượng để đọc giới hạn, thời gian, vật chất, luật, grid và cấu trúc giam giữ của cõi 3D.** Nó không phải bằng chứng độc lập rằng \"Sao Thổ điều khiển thế giới\"; nó là một mặt mã hình ảnh giúp thấy cách power dùng hình khối, màu đen, v…"
       },
       {
         "path": "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
@@ -4692,57 +4694,6 @@
         "summary": "*The Soul's Journey and the Power of Conscious Love*"
       },
       {
-        "path": "esoterica/Manly P. Hall.md",
-        "title": "Manly P. Hall",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "33rd Degree Mason",
-          "Manly Palmer Hall"
-        ],
-        "headings": [
-          "Manly P. Hall: Chú Thuật Sư Cấp 33 Hội Tam Điểm",
-          "Vai trò Tam Điểm / Freemasonry Role",
-          "Chuyên môn / Expertise",
-          "\"The Secret Teachings of All Ages\" (1928)",
-          "Nội dung / Contents",
-          "Tại sao Quan trọng? / Why Important?",
-          "Mối Liên kết Quyền lực / Power Structure Connection",
-          "[[33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí|33 Tầng Bậc]]",
-          "Ứng dụng / Applications",
-          "Quotes / Trích dẫn",
-          "Related",
-          "Power / Quyền lực",
-          "Knowledge / Tri thức"
-        ],
-        "wikilinks": [
-          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
-          "Cabal",
-          "Elite",
-          "Gematria",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Trí Tuệ"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Gematria.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "mental-models/Trí Tuệ.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "esoterica/Gematria.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "mental-models/Nguyên Mẫu.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
-        ],
-        "words": 395,
-        "summary": "**Manly Palmer Hall** (1901-1990) là nhà nghiên cứu huyền học, tác giả, và thành viên Cấp 33 trong Hội Tam Điểm. Được ví như \"Chú thuật sư vĩ đại nhất thế kỷ 20\"."
-      },
-      {
         "path": "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
         "title": "Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
         "domain": "esoterica",
@@ -4812,6 +4763,51 @@
         "summary": "**\"The dose makes the poison.\"** — Paracelsus"
       },
       {
+        "path": "esoterica/Biểu Tượng Baphomet.md",
+        "title": "Biểu Tượng Baphomet",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "symbolism"
+        ],
+        "aliases": [
+          "Baphomet",
+          "Sabbatic Goat"
+        ],
+        "headings": [
+          "Biểu Tượng Baphomet",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "As Above, So Below",
+          "Inverted Pentagram",
+          "Dung Hợp Nhị Nguyên",
+          "Elite / Media Usage",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Gematria",
+          "Ma Trận",
+          "Nhị Nguyên",
+          "Saturn Cube"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Saturn Cube.md",
+          "mental-models/Nhị Nguyên.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "mental-models/Nguyên Mẫu.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md"
+        ],
+        "words": 597,
+        "summary": "**Baphomet là biểu tượng của nhị nguyên bị ép vào một thân: người và thú, nam và nữ, trên và dưới, sáng và tối, linh và dục.** Đọc đúng, nó không chỉ là \"Satan image\"; nó là bài học về cách biểu tượng gom nhiều tầng mâu thuẫn vào một hình duy nhất."
+      },
+      {
         "path": "esoterica/Chimera.md",
         "title": "Chimera (Thể Trộn Lẫn)",
         "domain": "esoterica",
@@ -4857,6 +4853,56 @@
         ],
         "words": 770,
         "summary": "**Chimera là hình ảnh mạnh cho sự trộn lẫn: trong sinh học là nhiều dòng tế bào/DNA trong một cơ thể; trong esoteric reading là câu hỏi sex, thân mật và trao đổi năng lượng để lại dấu vết gì trong con người.** Bài này cần đọc rất kỷ luật: microchimerism có th…"
+      },
+      {
+        "path": "esoterica/Manly P. Hall.md",
+        "title": "Manly P. Hall",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "33rd Degree Mason",
+          "Manly Palmer Hall"
+        ],
+        "headings": [
+          "Manly P. Hall: Chú Thuật Sư Cấp 33 Hội Tam Điểm",
+          "Vai trò Tam Điểm / Freemasonry Role",
+          "Chuyên môn / Expertise",
+          "\"The Secret Teachings of All Ages\" (1928)",
+          "Nội dung / Contents",
+          "Tại sao Quan trọng? / Why Important?",
+          "Mối Liên kết Quyền lực / Power Structure Connection",
+          "[[33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí|33 Tầng Bậc]]",
+          "Ứng dụng / Applications",
+          "Quotes / Trích dẫn",
+          "Related",
+          "Power / Quyền lực",
+          "Knowledge / Tri thức"
+        ],
+        "wikilinks": [
+          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
+          "Cabal",
+          "Elite",
+          "Gematria",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Trí Tuệ"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Gematria.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "mental-models/Trí Tuệ.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
+        ],
+        "words": 395,
+        "summary": "**Manly Palmer Hall** (1901-1990) là nhà nghiên cứu huyền học, tác giả, và thành viên Cấp 33 trong Hội Tam Điểm. Được ví như \"Chú thuật sư vĩ đại nhất thế kỷ 20\"."
       },
       {
         "path": "esoterica/Nibiru.md",
@@ -5004,50 +5050,6 @@
         ],
         "words": 675,
         "summary": "Một câu hỏi mà AI tự hỏi chính mình — và không có answer."
-      },
-      {
-        "path": "esoterica/Biểu Tượng Baphomet.md",
-        "title": "Biểu Tượng Baphomet",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "symbolism"
-        ],
-        "aliases": [
-          "Baphomet",
-          "Sabbatic Goat"
-        ],
-        "headings": [
-          "Biểu Tượng Baphomet",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "As Above, So Below",
-          "Inverted Pentagram",
-          "Dung Hợp Nhị Nguyên",
-          "Elite / Media Usage",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Elite",
-          "Gematria",
-          "Ma Trận",
-          "Nhị Nguyên",
-          "Saturn Cube"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gematria.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Saturn Cube.md",
-          "mental-models/Nhị Nguyên.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md"
-        ],
-        "words": 597,
-        "summary": "**Baphomet là biểu tượng của nhị nguyên bị ép vào một thân: người và thú, nam và nữ, trên và dưới, sáng và tối, linh và dục.** Đọc đúng, nó không chỉ là \"Satan image\"; nó là bài học về cách biểu tượng gom nhiều tầng mâu thuẫn vào một hình duy nhất."
       },
       {
         "path": "esoterica/Dịch Chuyển Cực.md",
@@ -7155,7 +7157,6 @@
           "mental-models/Thông Minh vs Trí Tuệ.md",
           "mental-models/Thông Minh.md",
           "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-          "mental-models/Trí Tuệ.md",
           "mental-models/Tâm bất Biến.md",
           "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -7229,7 +7230,6 @@
           "mental-models/Chia Tách Bởi Nhị Nguyên.md",
           "mental-models/Individuation.md",
           "mental-models/Mental Model.md",
-          "mental-models/Nguyên Mẫu.md",
           "mental-models/S.E.X Và Tâm Lý Học Jung.md",
           "MOC - Epistemology & Propaganda.md",
           "MOC - Esoterica & Consciousness.md",
@@ -7389,86 +7389,13 @@
           "mental-models/Nhị Nguyên.md",
           "mental-models/S.E.X Và Tâm Lý Học Jung.md",
           "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Thông Minh.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "mental-models/Vô Thức Tập Thể.md",
           "MOC - Esoterica & Consciousness.md"
         ],
         "words": 517,
         "summary": "**Tâm lý học phân tích** (Analytical Psychology) do Carl Gustav Jung sáng lập — nền tảng quan trọng giải mã tâm trí con người, mở rộng ra thế giới tâm linh."
-      },
-      {
-        "path": "mental-models/Trí Tuệ.md",
-        "title": "Trí Tuệ",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model",
-          "philosophy"
-        ],
-        "aliases": [
-          "Prajñā",
-          "Sophia",
-          "Wisdom"
-        ],
-        "headings": [
-          "Trí Tuệ (Wisdom / Prajñā)",
-          "Trí Tuệ vs Thông Minh / Wisdom vs Intelligence",
-          "Biểu Hiện Của Trí Tuệ / Manifestations",
-          "1. Long-term Thinking",
-          "2. Discernment / Phân biệt",
-          "3. Self-Knowledge",
-          "4. Humility / Khiêm tốn",
-          "Con Đường Đạt Trí Tuệ / The Path",
-          "Experience + Reflection",
-          "Suffering Teaches",
-          "Trí Tuệ Trong Các Truyền Thống / In Traditions",
-          "Kẻ Thù Của Trí Tuệ / Enemies",
-          "Thực Hành / Practical Cultivation",
-          "Related / Liên quan"
-        ],
-        "wikilinks": [
-          "Individuation",
-          "Ma Trận",
-          "Nghịch Lý Của Hiểu Biết",
-          "Nhân Quả",
-          "Thông Minh",
-          "Thông Minh vs Trí Tuệ",
-          "Tâm bất Biến"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "esoterica/Nhân Quả.md",
-          "mental-models/Individuation.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Tâm bất Biến.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-          "esoterica/Atula.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-          "esoterica/Manly P. Hall.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Tâm bất Biến.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-          "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
-        ],
-        "words": 403,
-        "summary": "**Trí tuệ** là khả năng nhìn thấu bản chất, hiểu quy luật vận hành dài hạn, và có sự hài hòa giữa kiến thức với đạo đức. Khác biệt căn bản với thông minh."
       },
       {
         "path": "mental-models/Mental Model.md",
@@ -7554,11 +7481,79 @@
           "index.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Thông Minh.md",
           "MOC - Epistemology & Propaganda.md",
           "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
         ],
         "words": 443,
         "summary": "**Mental Model** là các khung nhận thức và công cụ tư duy giúp con người phân tích thế giới, đưa ra quyết định sáng suốt, và vượt qua các ảo tưởng của Ma Trận."
+      },
+      {
+        "path": "mental-models/Trí Tuệ.md",
+        "title": "Trí Tuệ",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model",
+          "philosophy"
+        ],
+        "aliases": [
+          "Prajñā",
+          "Sophia",
+          "Wisdom"
+        ],
+        "headings": [
+          "Trí Tuệ (Wisdom / Prajñā)",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc",
+          "Trí Tuệ Khác Gì Thông Minh?",
+          "Wisdom Cần Thời Gian",
+          "Kẻ Thù Của Trí Tuệ",
+          "Wisdom Trong Ma Trận",
+          "Thực Hành Trí Tuệ",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Ma Trận",
+          "Nghịch Lý Của Hiểu Biết",
+          "Thông Minh",
+          "Thông Minh vs Trí Tuệ",
+          "Tâm bất Biến"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Tâm bất Biến.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+          "esoterica/Atula.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+          "esoterica/Manly P. Hall.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Tâm bất Biến.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+          "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
+        ],
+        "words": 662,
+        "summary": "**Trí tuệ là khả năng nhìn đúng bản chất, chọn đúng game, hành động đúng tỷ lệ và không để kiến thức phục vụ ego.** Nó không chỉ là biết nhiều hơn. Nó là biết cái gì đáng biết, cái gì nên bỏ, khi nào im, khi nào cắt, khi nào chịu mất ngắn hạn để giữ phần sâu…"
       },
       {
         "path": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
@@ -7672,98 +7667,6 @@
         ],
         "words": 2756,
         "summary": "*The Empty Brain & AI Brain Rot*"
-      },
-      {
-        "path": "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "title": "S.E.X Và Tâm Lý Học Jung",
-        "domain": "mental-models",
-        "tags": [
-          "esoterica",
-          "mental-model",
-          "psychology"
-        ],
-        "aliases": [
-          "S.E.X và Jung",
-          "Sacred Energy eXchange and Jung"
-        ],
-        "headings": [
-          "S.E.X Và Tâm Lý Học Jung",
-          "1. Định Nghĩa Lại S.E.X / Redefining S.E.X",
-          "Nghĩa thông thường vs Huyền học / Common vs Esoteric Meaning",
-          "Gematria",
-          "2. Microchimerism — Khoa Học Về Chimera",
-          "Chimera là gì? / What is Chimera?",
-          "Cơ chế / Mechanism",
-          "Hệ quả / Consequences",
-          "3. Tâm Lý Học Jung — 4 Phần Tâm Linh",
-          "Cấu trúc tâm lý theo Jung / Jung's Psychic Structure",
-          "Các Nguyên Mẫu Cơ Bản / Basic Archetypes",
-          "4. Vô Thức Tập Thể — Thư Viện Akashic",
-          "Collective Unconscious = Akashic Records?",
-          "Khi quan hệ / During S.E.X",
-          "5. Anima/Animus — Bẫy Nhị Nguyên",
-          "Tính Nữ/Tính Nam trong vô thức / Female/Male in Unconscious",
-          "Cảnh báo về Bẫy Nhị Nguyên / Duality Trap Warning",
-          "6. Shadow — Bóng Tối Và Năng Lượng",
-          "Bóng Tối là gì? / What is Shadow?",
-          "Trong S.E.X",
-          "7. Liên Kết Với Tinh Khí Thần",
-          "Tinh Khí Thần / Jing Qi Shen",
-          "8. Tại Sao Elite Chú Trọng Dòng Giống?",
-          "Môn Đăng Hộ Đối / Matching Lineages",
-          "Họ biết điều gì? / What Do They Know?",
-          "Kết Luận / Conclusion",
-          "Related / Liên quan",
-          "S.E.X & Năng lượng",
-          "Tâm Lý Học Jung",
-          "Sinh học & Chimera",
-          "Khác / Others"
-        ],
-        "wikilinks": [
-          "Chimera",
-          "Elite",
-          "Gematria",
-          "Individuation",
-          "Nguyên Mẫu",
-          "Nhị Nguyên",
-          "Năng Lượng Tình Dục",
-          "Quy Luật Trao Đổi Tâm Linh",
-          "S.E.X",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tinh Khí Thần",
-          "Tâm Lý Học Jung",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Chimera.md",
-          "esoterica/Gematria.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Tinh Khí Thần.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Chimera.md",
-          "esoterica/Kundalini.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Tinh Khí Thần.md",
-          "index.md",
-          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
-        ],
-        "words": 1405,
-        "summary": "Bài viết này phân tích **S.E.X (Sacred Energy eXchange)** dưới góc nhìn Tâm Lý Học Jung, kết hợp với khoa học hiện đại về Microchimerism và truyền thống huyền học phương Đông."
       },
       {
         "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -8003,6 +7906,97 @@
         "summary": "**Mô Hình Địa Tâm đặt Trái Đất ở trung tâm quan sát của vũ trụ. Nhưng giá trị lớn nhất của bài này không phải bắt người đọc “tin Địa Tâm”, mà là dùng Địa Tâm như một epistemic stress test: làm sao ta biết mô hình vũ trụ mình tin là do tự kiểm chứng, chứ không…"
       },
       {
+        "path": "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "title": "S.E.X Và Tâm Lý Học Jung",
+        "domain": "mental-models",
+        "tags": [
+          "esoterica",
+          "mental-model",
+          "psychology"
+        ],
+        "aliases": [
+          "S.E.X và Jung",
+          "Sacred Energy eXchange and Jung"
+        ],
+        "headings": [
+          "S.E.X Và Tâm Lý Học Jung",
+          "1. Định Nghĩa Lại S.E.X / Redefining S.E.X",
+          "Nghĩa thông thường vs Huyền học / Common vs Esoteric Meaning",
+          "Gematria",
+          "2. Microchimerism — Khoa Học Về Chimera",
+          "Chimera là gì? / What is Chimera?",
+          "Cơ chế / Mechanism",
+          "Hệ quả / Consequences",
+          "3. Tâm Lý Học Jung — 4 Phần Tâm Linh",
+          "Cấu trúc tâm lý theo Jung / Jung's Psychic Structure",
+          "Các Nguyên Mẫu Cơ Bản / Basic Archetypes",
+          "4. Vô Thức Tập Thể — Thư Viện Akashic",
+          "Collective Unconscious = Akashic Records?",
+          "Khi quan hệ / During S.E.X",
+          "5. Anima/Animus — Bẫy Nhị Nguyên",
+          "Tính Nữ/Tính Nam trong vô thức / Female/Male in Unconscious",
+          "Cảnh báo về Bẫy Nhị Nguyên / Duality Trap Warning",
+          "6. Shadow — Bóng Tối Và Năng Lượng",
+          "Bóng Tối là gì? / What is Shadow?",
+          "Trong S.E.X",
+          "7. Liên Kết Với Tinh Khí Thần",
+          "Tinh Khí Thần / Jing Qi Shen",
+          "8. Tại Sao Elite Chú Trọng Dòng Giống?",
+          "Môn Đăng Hộ Đối / Matching Lineages",
+          "Họ biết điều gì? / What Do They Know?",
+          "Kết Luận / Conclusion",
+          "Related / Liên quan",
+          "S.E.X & Năng lượng",
+          "Tâm Lý Học Jung",
+          "Sinh học & Chimera",
+          "Khác / Others"
+        ],
+        "wikilinks": [
+          "Chimera",
+          "Elite",
+          "Gematria",
+          "Individuation",
+          "Nguyên Mẫu",
+          "Nhị Nguyên",
+          "Năng Lượng Tình Dục",
+          "Quy Luật Trao Đổi Tâm Linh",
+          "S.E.X",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tinh Khí Thần",
+          "Tâm Lý Học Jung",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Chimera.md",
+          "esoterica/Gematria.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Tinh Khí Thần.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Chimera.md",
+          "esoterica/Kundalini.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Tinh Khí Thần.md",
+          "index.md",
+          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
+        ],
+        "words": 1405,
+        "summary": "Bài viết này phân tích **S.E.X (Sacred Energy eXchange)** dưới góc nhìn Tâm Lý Học Jung, kết hợp với khoa học hiện đại về Microchimerism và truyền thống huyền học phương Đông."
+      },
+      {
         "path": "mental-models/Nguyên Mẫu.md",
         "title": "Nguyên Mẫu",
         "domain": "mental-models",
@@ -8016,36 +8010,29 @@
         ],
         "headings": [
           "Nguyên Mẫu (Archetypes)",
-          "Jung's Core Archetypes / Nguyên mẫu Cơ bản",
-          "Chi tiết / Details",
-          "1. Persona (Mặt nạ)",
-          "2. Shadow (Bóng tối)",
-          "3. Anima/Animus",
-          "4. Self (Bản ngã)",
-          "4 Mature Masculine Archetypes / 4 Nguyên mẫu Đàn ông Trưởng thành",
-          "Formula / Công thức:",
-          "Tại sao Quan trọng? / Why It Matters?",
-          "Universal Patterns / Mô hình Phổ quát",
-          "Personal Development / Phát triển Cá nhân",
-          "Understanding Others / Hiểu Người khác",
-          "Related",
-          "Jung & Psychology",
-          "Philosophy"
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc",
+          "Persona, Shadow, Anima/Animus, Self",
+          "Archetype Không Phải Stereotype",
+          "Four Mature Masculine Archetypes",
+          "Archetype Và Ma Trận Truyền Thông",
+          "Individuation: Không Bị Nguyên Mẫu Possess",
+          "Core Insight / Chốt Lại"
         ],
         "wikilinks": [
+          "Biểu Tượng Baphomet",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
           "Individuation",
-          "Manly P. Hall",
-          "Nhị Nguyên",
-          "S.E.X Và Tâm Lý Học Jung",
+          "Saturn Cube",
           "Tâm Lý Học Jung",
           "Vô Thức Tập Thể"
         ],
         "mdlinks": [],
         "outlinks": [
-          "esoterica/Manly P. Hall.md",
+          "esoterica/Biểu Tượng Baphomet.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Saturn Cube.md",
           "mental-models/Individuation.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
           "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Vô Thức Tập Thể.md"
         ],
@@ -8058,14 +8045,13 @@
           "mental-models/Mental Model.md",
           "mental-models/S.E.X Và Tâm Lý Học Jung.md",
           "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Thông Minh.md",
           "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "mental-models/Vô Thức Tập Thể.md",
           "MOC - Esoterica & Consciousness.md"
         ],
-        "words": 457,
-        "summary": "**Nguyên mẫu** là những hình ảnh và suy nghĩ mang ý nghĩa phổ quát qua nhiều nền văn hóa, xuất phát từ Vô Thức Tập Thể của nhân loại."
+        "words": 660,
+        "summary": "**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là \"nhân vật trong thần thoại\"; chúng là phần mềm biểu tượng khiến con người nhận ra King, Mothe…"
       },
       {
         "path": "mental-models/Thông Minh vs Trí Tuệ.md",
@@ -8292,32 +8278,32 @@
         ],
         "headings": [
           "Thông Minh (Intelligence)",
-          "Đặc Điểm / Characteristics",
-          "Các Loại Thông Minh / Types of Intelligence (Howard Gardner)",
-          "Hạn Chế Của Thông Minh Đơn Thuần / Limitations",
-          "1. Công cụ của Ego",
-          "2. Dễ bị manipulate",
-          "3. Bỏ lỡ bức tranh lớn",
-          "Thông Minh Trong [[Ma Trận]]",
-          "\"Smart\" = Good Slave",
-          "Related / Liên quan"
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc",
+          "Intelligence Là Công Cụ, Không Phải Chủ",
+          "Các Dạng Thông Minh",
+          "Ma Trận Thích Người Thông Minh",
+          "Khi Intelligence Bị Ego Chiếm",
+          "Tích Hợp Với Trí Tuệ",
+          "Core Insight / Chốt Lại"
         ],
         "wikilinks": [
-          "Elite",
           "Individuation",
           "Ma Trận",
-          "Nguyên Mẫu",
+          "Mental Model",
+          "Thông Minh",
           "Thông Minh vs Trí Tuệ",
-          "Trí Tuệ"
+          "Trí Tuệ",
+          "Tâm Lý Học Jung"
         ],
         "mdlinks": [],
         "outlinks": [
           "esoterica/Ma Trận.md",
           "mental-models/Individuation.md",
-          "mental-models/Nguyên Mẫu.md",
+          "mental-models/Mental Model.md",
           "mental-models/Thông Minh vs Trí Tuệ.md",
           "mental-models/Trí Tuệ.md",
-          "politics-conspiracy/Elite.md"
+          "mental-models/Tâm Lý Học Jung.md"
         ],
         "backlinks": [
           "esoterica/Atula.md",
@@ -8329,8 +8315,8 @@
           "politics-conspiracy/Sự thật về ma túy.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
         ],
-        "words": 329,
-        "summary": "**Thông minh** là khả năng thu thập, xử lý thông tin, tính toán nhanh và phân tích sắc bén để giải quyết vấn đề. Khác với Trí Tuệ, thông minh thiên về logic và có thể được đo lường (IQ)."
+        "words": 714,
+        "summary": "**Thông minh là năng lực xử lý thông tin, nhận pattern, tính toán, học nhanh và giải quyết vấn đề trong một rule-set.** Nó rất mạnh, nhưng không tự trả lời được câu hỏi rule-set đó có đáng chơi không. Vì vậy redpill.wiki luôn đặt Thông Minh cạnh Trí Tuệ: smar…"
       },
       {
         "path": "mental-models/Tư Duy Lũy Thừa.md",
@@ -9070,7 +9056,6 @@
           "index.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
           "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Thông Minh.md",
           "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
@@ -12954,7 +12939,6 @@
         "index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Thông Minh.md",
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
@@ -13641,94 +13625,6 @@
       "summary": "---"
     },
     {
-      "path": "health/Y Tế Tự Nhiên.md",
-      "title": "Y Tế Tự Nhiên",
-      "domain": "health",
-      "tags": [
-        "health"
-      ],
-      "aliases": [],
-      "headings": [
-        "Y Tế Tự Nhiên",
-        "Medical Caution / Cảnh Báo Y Khoa",
-        "Vault Position / Vị Trí Trong Vault",
-        "Evidence Discipline / Kỷ Luật Bằng Chứng",
-        "Terrain Trước Protocol",
-        "Ăn Uống: Không Phải Giáo Phái",
-        "Triệu Chứng Là Tín Hiệu, Không Luôn Là Kẻ Thù",
-        "Tây Y: Kẻ Thù Hay Công Cụ?",
-        "Practice Stack / Bộ Thực Hành Nền",
-        "Core Insight / Chốt Lại"
-      ],
-      "wikilinks": [
-        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-        "Ketogenic Diet",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
-        "MOC - Health Sovereignty",
-        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-        "Plasma Quinton",
-        "Suramin",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
-        "Y Tế Tự Nhiên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Ketogenic Diet.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
-        "health/Suramin.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "MOC - Health Sovereignty.md"
-      ],
-      "backlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Chakra.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-        "esoterica/Vận Chín.md",
-        "health/Bệnh Bạch Cầu.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/Ketogenic Diet.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
-        "health/Prolonged Fasting.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Suramin.md",
-        "health/Suy Thận.md",
-        "health/The China Study.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Virus và Kiếp Tật Dịch.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "index.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "MOC - Health Sovereignty.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 1127,
-      "summary": "**Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…"
-    },
-    {
       "path": "esoterica/Gnosis.md",
       "title": "Gnosis (Ngộ Đạo)",
       "domain": "esoterica",
@@ -13823,6 +13719,7 @@
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Individuation.md",
+        "mental-models/Trí Tuệ.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Esoterica & Consciousness.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
@@ -13831,6 +13728,94 @@
       ],
       "words": 1883,
       "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
+    },
+    {
+      "path": "health/Y Tế Tự Nhiên.md",
+      "title": "Y Tế Tự Nhiên",
+      "domain": "health",
+      "tags": [
+        "health"
+      ],
+      "aliases": [],
+      "headings": [
+        "Y Tế Tự Nhiên",
+        "Medical Caution / Cảnh Báo Y Khoa",
+        "Vault Position / Vị Trí Trong Vault",
+        "Evidence Discipline / Kỷ Luật Bằng Chứng",
+        "Terrain Trước Protocol",
+        "Ăn Uống: Không Phải Giáo Phái",
+        "Triệu Chứng Là Tín Hiệu, Không Luôn Là Kẻ Thù",
+        "Tây Y: Kẻ Thù Hay Công Cụ?",
+        "Practice Stack / Bộ Thực Hành Nền",
+        "Core Insight / Chốt Lại"
+      ],
+      "wikilinks": [
+        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+        "Ketogenic Diet",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
+        "MOC - Health Sovereignty",
+        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "Plasma Quinton",
+        "Suramin",
+        "Thuyết Vi Sinh Nội Sinh",
+        "Thuốc Hóa Dầu",
+        "Y Tế Tự Nhiên"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/Plasma Quinton.md",
+        "health/Suramin.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "MOC - Health Sovereignty.md"
+      ],
+      "backlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Chakra.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "esoterica/Vận Chín.md",
+        "health/Bệnh Bạch Cầu.md",
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/Plasma Quinton.md",
+        "health/Prolonged Fasting.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Su That Ve Benh Dai Va Vac Xin.md",
+        "health/Suramin.md",
+        "health/Suy Thận.md",
+        "health/The China Study.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+        "health/Ung Thư - Metabolic Protocol.md",
+        "health/Virus và Kiếp Tật Dịch.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "index.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "MOC - Health Sovereignty.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "words": 1127,
+      "summary": "**Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…"
     },
     {
       "path": "mental-models/Individuation.md",
@@ -13911,7 +13896,6 @@
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Thông Minh.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "mental-models/Trí Tuệ.md",
         "mental-models/Tâm bất Biến.md",
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -14764,7 +14748,6 @@
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
         "mental-models/Individuation.md",
         "mental-models/Mental Model.md",
-        "mental-models/Nguyên Mẫu.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Esoterica & Consciousness.md",
@@ -15170,80 +15153,84 @@
       "summary": "**Bản đồ này gom các note về consciousness, metaphysics, occult, archetype và những cấu trúc tâm linh đứng phía sau Ma Trận. Đây là tầng Source/Spirit của vault.**"
     },
     {
-      "path": "crypto-finance/Bitcoin.md",
-      "title": "Bitcoin",
-      "domain": "crypto-finance",
+      "path": "mental-models/Tâm Lý Học Jung.md",
+      "title": "Tâm Lý Học Jung",
+      "domain": "mental-models",
       "tags": [
-        "crypto-finance"
+        "mental-model"
       ],
       "aliases": [],
       "headings": [
-        "Bitcoin",
-        "Tại sao Bitcoin quan trọng? / Why Bitcoin Matters?",
-        "1. Phi tập trung & Không cần niềm tin / Decentralized & Trustless",
-        "2. Cung cấp hạn chế / Hard Cap",
-        "3. Proof-of-Work & Bảo mật / Security",
-        "Bitcoin trong bối cảnh Ma Trận / Bitcoin vs The Matrix",
-        "Mối đe dọa từ CBDC / CBDC Threat",
-        "Bitcoin và Privacy / Bitcoin & Privacy",
-        "Chu kỳ thị trường / Market Cycles",
+        "Tâm Lý Học Jung (Jungian Psychology)",
+        "Các Khái niệm Cốt lõi / Core Concepts",
+        "1. [[Individuation]]",
+        "2. [[Vô Thức Tập Thể]] (Collective Unconscious)",
+        "3. [[Nguyên Mẫu]]",
+        "Cấu trúc Tâm thức / Structure of Psyche",
+        "Key Archetypes / Nguyên mẫu chính",
+        "Shadow Work / Làm việc với Bóng Tối",
+        "Process / Quá trình",
+        "Signs of Shadow / Dấu hiệu của Shadow",
+        "Kết nối Thể chất & Năng lượng / Body & Energy Connection",
+        "Mind-Body",
+        "Eastern Parallels / Tương đồng Phương Đông",
+        "Jung và Ma Trận / Jung & the Matrix",
+        "Individuation = Escaping Matrix",
+        "Why Jung Matters Today",
+        "Quotes",
         "Related",
-        "Core Articles / Bài viết chính",
-        "Monetary System / Hệ thống tiền tệ",
-        "Gen Z & Agenda 2030",
-        "Investment Mindset / Tâm lý đầu tư"
+        "Core Concepts / Khái niệm cốt lõi",
+        "Body Connection / Kết nối Thể chất",
+        "Matrix Escape / Thoát Ma Trận"
       ],
       "wikilinks": [
-        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-        "Báo Cáo 2030",
         "Elite",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giàu Không Nhờ May Mắn",
-        "Khoa Học Xét Lại",
-        "Privacy",
-        "Secular Market",
-        "Sợ hãi - Tham Lam – Cân bằng",
-        "Tiền Giấy - Tiền Mặt",
-        "Tiền Pháp Định",
-        "Tiền tiền tiền"
+        "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+        "Individuation",
+        "Kiểm Soát Tâm Trí",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Nguyên Mẫu",
+        "The China Study",
+        "Vô Thức Tập Thể"
       ],
       "mdlinks": [],
       "outlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giàu Không Nhờ May Mắn.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Tiền tiền tiền.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Elite.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Tiền tiền tiền.md",
-        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
-        "index.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "MOC - Financial Sovereignty.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
+        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "health/The China Study.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Vô Thức Tập Thể.md",
         "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/Pin Natri-ion.md"
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md"
       ],
-      "words": 690,
-      "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
+      "backlinks": [
+        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Một Đời Phù Vân.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Nhân Quả.md",
+        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+        "esoterica/Sự Nhất Thể.md",
+        "health/Tuyến Tùng.md",
+        "index.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Individuation.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Thông Minh.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "MOC - Esoterica & Consciousness.md"
+      ],
+      "words": 517,
+      "summary": "**Tâm lý học phân tích** (Analytical Psychology) do Carl Gustav Jung sáng lập — nền tảng quan trọng giải mã tâm trí con người, mở rộng ra thế giới tâm linh."
     }
   ],
   "orphans": [
@@ -17823,6 +17810,7 @@
         "politics-conspiracy/Elite.md"
       ],
       "backlinks": [
+        "mental-models/Nguyên Mẫu.md",
         "MOC - Esoterica & Consciousness.md",
         "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md"
       ],
@@ -18495,6 +18483,7 @@
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Individuation.md",
+        "mental-models/Trí Tuệ.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Esoterica & Consciousness.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
@@ -18556,6 +18545,7 @@
         "esoterica/Ma Trận.md",
         "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
         "index.md",
+        "mental-models/Nguyên Mẫu.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Epistemology & Propaganda.md",
@@ -19654,7 +19644,6 @@
       "backlinks": [
         "esoterica/Gematria.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "mental-models/Nguyên Mẫu.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
       ],
       "words": 395,
@@ -20206,7 +20195,6 @@
         "esoterica/Vũ Trụ Học Phật Giáo.md",
         "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
         "index.md",
-        "mental-models/Trí Tuệ.md",
         "mental-models/Tâm bất Biến.md",
         "MOC - Esoterica & Consciousness.md"
       ],
@@ -20942,6 +20930,7 @@
         "esoterica/Gematria.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "mental-models/Nguyên Mẫu.md",
         "MOC - Esoterica & Consciousness.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Dark MAGA.md",
@@ -24501,7 +24490,6 @@
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Thông Minh.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "mental-models/Trí Tuệ.md",
         "mental-models/Tâm bất Biến.md",
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -24597,6 +24585,7 @@
         "index.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Thông Minh.md",
         "MOC - Epistemology & Propaganda.md",
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
       ],
@@ -24751,36 +24740,29 @@
       ],
       "headings": [
         "Nguyên Mẫu (Archetypes)",
-        "Jung's Core Archetypes / Nguyên mẫu Cơ bản",
-        "Chi tiết / Details",
-        "1. Persona (Mặt nạ)",
-        "2. Shadow (Bóng tối)",
-        "3. Anima/Animus",
-        "4. Self (Bản ngã)",
-        "4 Mature Masculine Archetypes / 4 Nguyên mẫu Đàn ông Trưởng thành",
-        "Formula / Công thức:",
-        "Tại sao Quan trọng? / Why It Matters?",
-        "Universal Patterns / Mô hình Phổ quát",
-        "Personal Development / Phát triển Cá nhân",
-        "Understanding Others / Hiểu Người khác",
-        "Related",
-        "Jung & Psychology",
-        "Philosophy"
+        "Vault Position / Vị Trí Trong Vault",
+        "Evidence Discipline / Cách Đọc",
+        "Persona, Shadow, Anima/Animus, Self",
+        "Archetype Không Phải Stereotype",
+        "Four Mature Masculine Archetypes",
+        "Archetype Và Ma Trận Truyền Thông",
+        "Individuation: Không Bị Nguyên Mẫu Possess",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
+        "Biểu Tượng Baphomet",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "Individuation",
-        "Manly P. Hall",
-        "Nhị Nguyên",
-        "S.E.X Và Tâm Lý Học Jung",
+        "Saturn Cube",
         "Tâm Lý Học Jung",
         "Vô Thức Tập Thể"
       ],
       "mdlinks": [],
       "outlinks": [
-        "esoterica/Manly P. Hall.md",
+        "esoterica/Biểu Tượng Baphomet.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Saturn Cube.md",
         "mental-models/Individuation.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Vô Thức Tập Thể.md"
       ],
@@ -24793,14 +24775,13 @@
         "mental-models/Mental Model.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-        "mental-models/Thông Minh.md",
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Esoterica & Consciousness.md"
       ],
-      "words": 457,
-      "summary": "**Nguyên mẫu** là những hình ảnh và suy nghĩ mang ý nghĩa phổ quát qua nhiều nền văn hóa, xuất phát từ Vô Thức Tập Thể của nhân loại."
+      "words": 660,
+      "summary": "**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là \"nhân vật trong thần thoại\"; chúng là phần mềm biểu tượng khiến con người nhận ra King, Mothe…"
     },
     "mental-models/Nhị Nguyên.md": {
       "path": "mental-models/Nhị Nguyên.md",
@@ -24864,7 +24845,6 @@
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
         "mental-models/Individuation.md",
         "mental-models/Mental Model.md",
-        "mental-models/Nguyên Mẫu.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Esoterica & Consciousness.md",
@@ -25027,7 +25007,6 @@
         "esoterica/Tinh Khí Thần.md",
         "index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-        "mental-models/Nguyên Mẫu.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
       ],
       "words": 1405,
@@ -25270,32 +25249,32 @@
       ],
       "headings": [
         "Thông Minh (Intelligence)",
-        "Đặc Điểm / Characteristics",
-        "Các Loại Thông Minh / Types of Intelligence (Howard Gardner)",
-        "Hạn Chế Của Thông Minh Đơn Thuần / Limitations",
-        "1. Công cụ của Ego",
-        "2. Dễ bị manipulate",
-        "3. Bỏ lỡ bức tranh lớn",
-        "Thông Minh Trong [[Ma Trận]]",
-        "\"Smart\" = Good Slave",
-        "Related / Liên quan"
+        "Vault Position / Vị Trí Trong Vault",
+        "Evidence Discipline / Cách Đọc",
+        "Intelligence Là Công Cụ, Không Phải Chủ",
+        "Các Dạng Thông Minh",
+        "Ma Trận Thích Người Thông Minh",
+        "Khi Intelligence Bị Ego Chiếm",
+        "Tích Hợp Với Trí Tuệ",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
-        "Elite",
         "Individuation",
         "Ma Trận",
-        "Nguyên Mẫu",
+        "Mental Model",
+        "Thông Minh",
         "Thông Minh vs Trí Tuệ",
-        "Trí Tuệ"
+        "Trí Tuệ",
+        "Tâm Lý Học Jung"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/Ma Trận.md",
         "mental-models/Individuation.md",
-        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Mental Model.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Trí Tuệ.md",
-        "politics-conspiracy/Elite.md"
+        "mental-models/Tâm Lý Học Jung.md"
       ],
       "backlinks": [
         "esoterica/Atula.md",
@@ -25307,8 +25286,8 @@
         "politics-conspiracy/Sự thật về ma túy.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
       ],
-      "words": 329,
-      "summary": "**Thông minh** là khả năng thu thập, xử lý thông tin, tính toán nhanh và phân tích sắc bén để giải quyết vấn đề. Khác với Trí Tuệ, thông minh thiên về logic và có thể được đo lường (IQ)."
+      "words": 714,
+      "summary": "**Thông minh là năng lực xử lý thông tin, nhận pattern, tính toán, học nhanh và giải quyết vấn đề trong một rule-set.** Nó rất mạnh, nhưng không tự trả lời được câu hỏi rule-set đó có đáng chơi không. Vì vậy redpill.wiki luôn đặt Thông Minh cạnh Trí Tuệ: smar…"
     },
     "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md": {
       "path": "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
@@ -25370,35 +25349,28 @@
       ],
       "headings": [
         "Trí Tuệ (Wisdom / Prajñā)",
-        "Trí Tuệ vs Thông Minh / Wisdom vs Intelligence",
-        "Biểu Hiện Của Trí Tuệ / Manifestations",
-        "1. Long-term Thinking",
-        "2. Discernment / Phân biệt",
-        "3. Self-Knowledge",
-        "4. Humility / Khiêm tốn",
-        "Con Đường Đạt Trí Tuệ / The Path",
-        "Experience + Reflection",
-        "Suffering Teaches",
-        "Trí Tuệ Trong Các Truyền Thống / In Traditions",
-        "Kẻ Thù Của Trí Tuệ / Enemies",
-        "Thực Hành / Practical Cultivation",
-        "Related / Liên quan"
+        "Vault Position / Vị Trí Trong Vault",
+        "Evidence Discipline / Cách Đọc",
+        "Trí Tuệ Khác Gì Thông Minh?",
+        "Wisdom Cần Thời Gian",
+        "Kẻ Thù Của Trí Tuệ",
+        "Wisdom Trong Ma Trận",
+        "Thực Hành Trí Tuệ",
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
-        "Individuation",
+        "Gnosis",
         "Ma Trận",
         "Nghịch Lý Của Hiểu Biết",
-        "Nhân Quả",
         "Thông Minh",
         "Thông Minh vs Trí Tuệ",
         "Tâm bất Biến"
       ],
       "mdlinks": [],
       "outlinks": [
+        "esoterica/Gnosis.md",
         "esoterica/Ma Trận.md",
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Nhân Quả.md",
-        "mental-models/Individuation.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Thông Minh.md",
         "mental-models/Tâm bất Biến.md"
@@ -25426,8 +25398,8 @@
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
       ],
-      "words": 403,
-      "summary": "**Trí tuệ** là khả năng nhìn thấu bản chất, hiểu quy luật vận hành dài hạn, và có sự hài hòa giữa kiến thức với đạo đức. Khác biệt căn bản với thông minh."
+      "words": 662,
+      "summary": "**Trí tuệ là khả năng nhìn đúng bản chất, chọn đúng game, hành động đúng tỷ lệ và không để kiến thức phục vụ ego.** Nó không chỉ là biết nhiều hơn. Nó là biết cái gì đáng biết, cái gì nên bỏ, khi nào im, khi nào cắt, khi nào chịu mất ngắn hạn để giữ phần sâu…"
     },
     "mental-models/Tâm Lý Học Jung.md": {
       "path": "mental-models/Tâm Lý Học Jung.md",
@@ -25501,6 +25473,7 @@
         "mental-models/Nhị Nguyên.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Thông Minh.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Esoterica & Consciousness.md"
@@ -26485,7 +26458,6 @@
         "index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Thông Minh.md",
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",

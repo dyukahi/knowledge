@@ -1,117 +1,98 @@
-﻿---
+---
 title: "Nguyên Mẫu"
 aliases: ["Nguyên Mẫu", "Archetypes", "Nguyên Mẫu (Archetypes)"]
 date: 2026-04-07
 tags: [mental-model]
 status: refined
+related:
+  - "[[Tâm Lý Học Jung]]"
+  - "[[Vô Thức Tập Thể]]"
+  - "[[Individuation]]"
+  - "[[Nhị Nguyên]]"
+  - "[[S.E.X Và Tâm Lý Học Jung]]"
+  - "[[Manly P. Hall]]"
 ---
 # Nguyên Mẫu (Archetypes)
 
-**Nguyên mẫu** là những hình ảnh và suy nghĩ mang ý nghĩa phổ quát qua nhiều nền văn hóa, xuất phát từ [[Vô Thức Tập Thể]] của nhân loại.
+**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là "nhân vật trong thần thoại"; chúng là phần mềm biểu tượng khiến con người nhận ra King, Mother, Trickster, Hero, Shadow trước khi cần định nghĩa.
 
-*Archetypes are images and thoughts with universal meaning across cultures, originating from humanity's [[Vô Thức Tập Thể|Collective Unconscious]].*
-
----
-
-## Jung's Core Archetypes / Nguyên mẫu Cơ bản
-
-| Archetype | Vietnamese | Description |
-|-----------|------------|-------------|
-| **Persona** | Mặt nạ | Bộ mặt thể hiện với thế giới / Face shown to world |
-| **Shadow** | Bóng tối | Khía cạnh thú tính, năng lượng bị đè nén / Animal nature, repressed energy |
-| **Anima/Animus** | Tính Nữ/Nam | Opposite gender within / Giới tính đối lập bên trong |
-| **Self** | Bản ngã | Sự thống nhất toàn thể / Unified totality |
+*Archetypes are symbolic patterns in the deep psyche: recurring images, roles, energies, and stories that organize human experience.*
 
 ---
 
-## Chi tiết / Details
+## Vault Position / Vị Trí Trong Vault
 
-### 1. Persona (Mặt nạ)
-
-> "Thế giới này là một sân khấu và mỗi người là một diễn viên."
-> "All the world's a stage, and all the men and women merely players."
-
-- Adaptive archetype / Nguyên mẫu thích ứng
-- Necessary for social function / Cần thiết cho xã hội
-- Problem when identified with / Vấn đề khi đồng nhất với nó
-
-### 2. Shadow (Bóng tối)
-
-| Aspect | Description |
-|--------|-------------|
-| **Contains** | Repressed desires, instincts / Ham muốn, bản năng bị đè nén |
-| **Source of** | Creativity AND destruction / Sáng tạo VÀ phá hủy |
-| **Integration** | Key to wholeness / Chìa khóa để trọn vẹn |
-
-### 3. Anima/Animus
-
-| In Men | In Women |
-|--------|----------|
-| **Anima** — Inner feminine | **Animus** — Inner masculine |
-| Emotions, intuition | Logic, assertion |
-| Connection to unconscious | Drive, independence |
-
-→ Nhắc nhở thoát khỏi [[Nhị Nguyên]] trap / Reminder to escape duality trap
-
-### 4. Self (Bản ngã)
-
-- Goal of [[Individuation]]
-- Unification of all archetypes / Thống nhất tất cả nguyên mẫu
-- Symbol: Mandala, Christ, Buddha
-- Transcends ego / Vượt qua cái tôi
+Node này là cầu giữa [[Tâm Lý Học Jung]], [[Vô Thức Tập Thể]] và [[Individuation]]. Nó cũng giúp đọc các bài esoterica như [[Biểu Tượng Baphomet]], [[Saturn Cube]] hay [[Hollywood - Cây Đũa Phép Của Phù Thủy]]: truyền thông không chỉ truyền thông tin, nó kích hoạt nguyên mẫu.
 
 ---
 
-## 4 Mature Masculine Archetypes / 4 Nguyên mẫu Đàn ông Trưởng thành
+## Evidence Discipline / Cách Đọc
 
-| Archetype | Vietnamese | Energy |
-|-----------|------------|--------|
-| **King** | Nhà Vua | Order, blessing, leadership |
-| **Warrior** | Chiến Binh | Action, discipline, boundaries |
-| **Magician** | Pháp Sư | Knowledge, transformation |
-| **Lover** | Người Tình | Passion, connection, aliveness |
-
-### Formula / Công thức:
-```
-Warrior × Magician × Lover = KING
-```
-
-Each has shadow forms (tyrant, sadist, manipulator, addict).
-*Mỗi nguyên mẫu có dạng bóng tối (bạo chúa, kẻ tàn ác, kẻ thao túng, người nghiện).*
+| Tầng claim | Cách đọc |
+|---|---|
+| Psychological | archetype là khái niệm Jung để mô tả pattern tâm lý phổ quát |
+| Cultural | myth, fairy tale, religion, cinema lặp lại cùng hình ảnh vì chúng chạm tầng sâu |
+| Symbolic | King, Mother, Shadow, Trickster là năng lượng, không chỉ nhân vật |
+| Speculative synthesis | archetype như cấu trúc của collective field/Akasha là tầng metaphysical |
 
 ---
 
-## Tại sao Quan trọng? / Why It Matters?
+## Persona, Shadow, Anima/Animus, Self
 
-### Universal Patterns / Mô hình Phổ quát
+Jung thường được đọc qua bốn nguyên mẫu nền:
 
-- Same stories across all cultures / Cùng câu chuyện mọi văn hóa
-- Hero's journey everywhere / Hành trình anh hùng khắp nơi
-- Why myths resonate / Tại sao thần thoại cộng hưởng
+| Nguyên mẫu | Vai trò |
+|---|---|
+| Persona | mặt nạ xã hội giúp ta vận hành với đời |
+| Shadow | phần bị chối bỏ, chứa cả độc tính lẫn sinh lực |
+| Anima/Animus | đối cực tính nam/tính nữ bên trong psyche |
+| Self | trung tâm toàn vẹn vượt ego, mục tiêu của individuation |
 
-### Personal Development / Phát triển Cá nhân
-
-- Identify your dominant archetypes
-- Integrate shadow aspects
-- Balance all energies
-- Path to [[Individuation]]
-
-### Understanding Others / Hiểu Người khác
-
-- Recognize patterns in behavior
-- See beyond surface
-- Compassion through understanding
+Persona không xấu; không có persona ta khó sống xã hội. Shadow không chỉ xấu; trong đó có bản năng, sáng tạo, libido, truth bị đè. Self không phải ego đẹp hơn; nó là trục sâu hơn mà ego phải học quy phục.
 
 ---
 
-## Related
+## Archetype Không Phải Stereotype
 
-### Jung & Psychology
-- [[Tâm Lý Học Jung]] — Source
-- [[Vô Thức Tập Thể]] — Where archetypes live
-- [[Individuation]] — Goal
-- [[S.E.X Và Tâm Lý Học Jung]]
+Stereotype làm người khác phẳng đi. Archetype làm pattern sâu hiện lên. Khi nói "Warrior", không phải mọi người đàn ông phải hung hăng. Warrior là năng lượng boundary, hành động, bảo vệ, discipline. Khi nói "Lover", không phải chỉ romance; đó là khả năng cảm, kết nối, sống động.
 
-### Philosophy
-- [[Nhị Nguyên]] — Anima/Animus transcends
-- [[Manly P. Hall]] — Symbol researcher
+Đọc archetype đúng giúp người ta tự do hơn. Đọc sai sẽ thành nhãn dán mới cho ego.
+
+---
+
+## Four Mature Masculine Archetypes
+
+Mô hình King, Warrior, Magician, Lover hữu ích vì nó cho thấy sự trưởng thành cần nhiều năng lượng cùng lúc:
+
+| Archetype | Năng lượng chín |
+|---|---|
+| King | order, blessing, responsibility, center |
+| Warrior | boundary, courage, execution, sacrifice |
+| Magician | knowledge, transformation, hidden structure |
+| Lover | aliveness, beauty, intimacy, devotion |
+
+Mỗi archetype có shadow. King thành tyrant, Warrior thành sadist hoặc coward, Magician thành manipulator, Lover thành addict. Công việc không phải chọn một role để cosplay; công việc là tích hợp.
+
+---
+
+## Archetype Và Ma Trận Truyền Thông
+
+Hollywood, chính trị, quảng cáo và social media đều làm việc với archetype. Một campaign thành công không chỉ đưa thông điệp; nó gắn sản phẩm hoặc agenda vào Hero, Rebel, Mother, Savior, Victim, Monster hoặc Apocalypse.
+
+Đó là lý do [[Hollywood - Cây Đũa Phép Của Phù Thủy]] quan trọng. Media programming hoạt động vì psyche không phản ứng với dữ kiện trước; nó phản ứng với story trước.
+
+---
+
+## Individuation: Không Bị Nguyên Mẫu Possess
+
+Một người chưa tỉnh thường bị archetype "nhập" mà tưởng đó là mình. Họ không dùng Warrior; họ bị Warrior dùng. Họ không cảm Lover; họ nghiện Lover. Họ không đeo Persona; họ đồng nhất với Persona.
+
+[[Individuation]] là quá trình nhận ra các pattern này, tích hợp shadow và để Self điều phối thay vì để từng archetype cướp tay lái.
+
+---
+
+## Core Insight / Chốt Lại
+
+**Nguyên mẫu là ngôn ngữ sâu của psyche. Ai không biết ngôn ngữ này sẽ bị story của người khác điều khiển; ai biết đọc nó có thể bắt đầu lấy lại quyền viết myth của đời mình.**
+
+*Archetypes are the deep grammar of psyche. Learn the grammar, or someone else will write your myth for you.*
