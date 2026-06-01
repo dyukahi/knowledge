@@ -39,6 +39,21 @@ Pine needle tea cũng không đồng nghĩa với suramin pharmaceutical. Một 
 
 ---
 
+## Source Register / Nguồn Cần Đối Chiếu
+
+Không gắn URL giả cho Suramin. Khi làm citation pass sâu hơn, ưu tiên các nhóm nguồn này:
+
+- **Drug label / pharmacology references** — indication, toxicity, dosing context, contraindications của suramin pharmaceutical.
+- **WHO / tropical medicine references** — African trypanosomiasis và bối cảnh dùng thuốc thật.
+- **Purinergic signaling literature** — P2 receptors, ATP signaling, cell danger response.
+- **Robert Naviaux / autism studies** — small clinical studies, protocol design, safety limits.
+- **Pine needle ethnobotany and toxicology** — tách herbal claims khỏi suramin drug; kiểm loại cây độc, pregnancy cautions.
+- **Regulatory / clinical trial records** — xem claim nào mới là trial, claim nào chỉ là internet lore.
+
+> Source discipline ở đây rất quan trọng: "pine needle tea", "suramin", "third eye" và "cell danger response" là bốn lớp khác nhau, không được trộn thành một câu thần chú.
+
+---
+
 ## Vault Position / Vị Trí Trong Vault
 
 Suramin nối với [[Mebendazole - Thuốc Tẩy Giun Chống Ung Thư]] vì cùng chạm vào pattern: thuốc chống ký sinh trùng có nhiều tác động sinh học ngoài công dụng ban đầu.

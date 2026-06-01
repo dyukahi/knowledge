@@ -34,6 +34,30 @@ Không nên lấy polemic language làm medical instruction. Cũng không nên v
 
 ---
 
+## Medical Caution / Cảnh Báo Y Tế
+
+Bài này không khuyên ngưng thuốc, từ chối cấp cứu, từ chối ghép tạng, bỏ insulin/thuốc huyết áp/thuốc chống đông/kháng sinh/điều trị ung thư, hoặc thay bác sĩ bằng niềm tin internet. Các bệnh như ung thư, tiểu đường, suy thận, viêm gan, tăng huyết áp, nhiễm trùng nặng và biến chứng sau ghép cần theo dõi chuyên môn.
+
+Đọc đúng: bài này là kính soi incentive và dependency loop. Đọc sai: biến mọi can thiệp Tây Y thành "tội ác" trong mọi ca cụ thể. Một hệ thống có thể bị capture mà một thủ thuật vẫn có thể cứu mạng trong đúng ngữ cảnh.
+
+> Chủ quyền sức khỏe không phải là chống bác sĩ bằng phản xạ. Nó là không outsource khả năng đặt câu hỏi, đọc rủi ro và yêu cầu bằng chứng.
+
+---
+
+## Claim-Layer Register / Sổ Phân Tầng Claim
+
+| Claim trong bài | Tầng đọc đúng | Kỷ luật cần giữ |
+|---|---|---|
+| Thuốc có side effects, tolerance, interactions | **Fact / documentable** | drug labels, pharmacovigilance, guideline context |
+| Pharma có incentive, settlements, marketing abuse | **Fact + systems reading** | regulatory records, court records, settlement data |
+| Chronic care có thể tạo dependency loop | **Pattern / system critique** | không áp vào mọi thuốc/case như nhau |
+| Terrain, dinh dưỡng, sleep, stress ảnh hưởng bệnh | **Evidence-supported terrain frame** | nguồn nutrition/metabolic/immune literature |
+| "Tumor gom độc", "treatment = metastasis", "nguyên nhân tử vong là điều trị" | **Polemic / speculative terrain layer** | không trình bày như consensus fact; cần source pass rất mạnh nếu giữ như biomedical claim |
+| "Ghép tạng là ngành công nghiệp tội ác" | **Polemic + ethics critique** | tách brain-death debate, organ trafficking, transplant outcomes và legitimate emergency care |
+| "Hệ thống được thiết kế để kiểm soát dân số" | **Vault synthesis / conspiracy layer** | đọc như macro-pattern hypothesis, không phải fact nếu chưa có nguồn trực tiếp |
+
+---
+
 ## Vòng Lặp Lệ Thuộc / The Dependency Loop
 
 ```mermaid
@@ -58,6 +82,8 @@ flowchart LR
 ## 1. Ghép Tạng — Ngành Công Nghiệp Tội Ác
 
 **The Organ Transplant Industry — A Criminal Enterprise**
+
+**Claim layer:** phần này là ethics/system critique và polemic language. Nó cần được đối chiếu bằng transplant ethics, brain-death criteria, organ trafficking records và survival data; không được đọc như lời khuyên từ chối ghép tạng trong ca cấp cứu.
 
 Trước đây ta từng nghĩ đó là đỉnh cao của y học, là biểu hiện của đạo đức và nhân văn. Nhưng khi nhìn qua "kính chiếu yêu", nó lại hiện ra như một ngành công nghiệp đầy tội ác.
 
@@ -89,6 +115,8 @@ Trước đây ta từng nghĩ đó là đỉnh cao của y học, là biểu hi
 ## 2. Ung Thư — Điều Trị Hay Giết Người?
 
 **Cancer Treatment — Healing or Killing?**
+
+**Claim layer:** đây là terrain/polemic reading về oncology, không phải oncology guideline. Các claim mạnh về sinh thiết, phẫu thuật, hóa trị, xạ trị và di căn cần nguồn lâm sàng riêng; không tự dùng phần này để trì hoãn chẩn đoán hoặc điều trị.
 
 Dòng máu đầy axit và độc tố chạy đến đâu sinh u đến đó. Khối u là nơi gom độc tố — cơ thể đang tự bảo vệ, không phải tự tấn công.
 
@@ -134,6 +162,8 @@ flowchart TD
 ## 3. Tiểu Đường — Lừa Dối Về Đường
 
 **Diabetes — The Sugar Deception**
+
+**Claim layer:** phần này phản biện sugar-only framing và drug-dependency loop. Nó không phủ nhận nhu cầu theo dõi đường huyết, insulin, cấp cứu hạ/tăng đường huyết, hay chăm sóc biến chứng tiểu đường.
 
 ### Vòng Lặp Thuốc / The Drug Loop
 

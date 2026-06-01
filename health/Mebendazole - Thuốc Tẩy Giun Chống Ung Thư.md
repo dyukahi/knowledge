@@ -43,6 +43,19 @@ Cách đọc đúng: MBZ là **candidate** trong một terrain/metabolic/repurpo
 
 ---
 
+## Claim-Layer Register / Sổ Phân Tầng Claim
+
+| Claim | Tầng đọc đúng | Điều cần đối chiếu |
+|---|---|---|
+| MBZ là thuốc trị giun nhóm benzimidazole | **Fact / documentable** | drug label / pharmacology reference |
+| MBZ ảnh hưởng tubulin, angiogenesis, apoptosis trong cancer models | **Research / preclinical** | PubMed/PMC reviews, cell/animal studies |
+| Case reports hoặc small trials cho một số cancer type | **Research / early clinical** | case report, trial registry, protocol details |
+| MBZ có thể nằm trong metabolic cancer stack | **Speculative adjunct synthesis** | phải tách khỏi standard-of-care |
+| Thuốc off-patent bị thiếu incentive phát triển | **Pattern / systems reading** | patent, trial funding, pharma economics |
+| MBZ "chữa ung thư" | **Không được xem là fact trong bài này** | cần RCT/clinical guideline; hiện không được trình bày như cure |
+
+---
+
 ## Vault Position / Vị Trí Trong Vault
 
 Trong redpill.wiki, Mebendazole nằm ở giao điểm của:

@@ -49,6 +49,21 @@ Vault chọn **terrain-first**, không chọn **germ-denial**. Phủ nhận tác
 
 ---
 
+## Source Register / Nguồn Cần Đối Chiếu
+
+Không cần gắn citation rỗng vào từng câu. Citation pass sâu hơn nên dùng các nhóm nguồn sau:
+
+- **Microbiome / host immunity reviews** — gut barrier, immune training, inflammation, infection susceptibility.
+- **Sleep, stress, nutrition and metabolic health literature** — terrain factors có bằng chứng mạnh hơn.
+- **Infectious disease references** — pathogen transmission, sepsis, pneumonia, meningitis, antibiotic indications.
+- **History of medicine sources** — Pasteur, Béchamp, Claude Bernard, pleomorphism; tránh meme hóa lịch sử.
+- **Biofilm / virulence / host-pathogen ecology research** — cầu nối hiện đại giữa germ và terrain.
+- **Public health / vaccine / antibiotic guidelines** — để biết giới hạn của terrain practice trong bệnh cấp.
+
+> Terrain-first cần nguồn hiện đại, không chỉ cần câu chuyện Pasteur vs Béchamp. Đất quan trọng nhất khi nó được đọc cùng dữ liệu miễn dịch, ruột, chuyển hóa và bệnh nhiễm thật.
+
+---
+
 ## Germ Và Terrain Không Phải Hai Phe
 
 Một cái cây không mọc chỉ vì có hạt. Nó cần đất, nước, ánh sáng, nhiệt, vi sinh, mùa. Mầm bệnh cũng vậy: exposure là hạt; cơ thể là đất.
