@@ -31,6 +31,22 @@ related:
 
 ---
 
+## Source Register / Sổ Nguồn
+
+DEW là chủ đề dễ bị kéo từ công nghệ thật sang kết luận quá rộng. Vì vậy nguồn phải đi theo claim:
+
+| Nhóm nguồn | Dùng để kiểm gì | Giới hạn |
+|---|---|---|
+| Tài liệu quân sự / procurement / budget / test range | chương trình, capability công khai, mục tiêu thử nghiệm | thường bỏ qua capability classified hoặc chi tiết thất bại |
+| Patent / paper kỹ thuật / vendor material | nguyên lý laser, microwave, tracking, cooling, power supply | patent không chứng minh hệ thống đã triển khai hiệu quả |
+| Báo cáo hiện trường / forensic event | nhiệt, vật liệu, ảnh, video, telemetry, chain of custody | không đủ nếu thiếu mẫu độc lập và alternative explanation |
+| Báo chí defense / chuyên gia kỹ thuật | timeline triển khai, hệ thống được đặt tên, nhận định capability | dễ lẫn PR, hype quốc phòng và thông tin chưa kiểm chứng |
+| Vault synthesis | liên hệ DEW với 9/11, false flag, suppressed tech, emergency governance | chỉ là tầng giả thuyết/pattern, không phải bằng chứng vận hành |
+
+Quy tắc: **"công nghệ tồn tại" không bằng "công nghệ đã được dùng trong sự kiện X".** Muốn nối DEW với một thảm họa cụ thể phải có dấu vết vật lý, dữ liệu nguồn gốc rõ, và so sánh với cơ chế rẻ hơn.
+
+---
+
 ## DEW Là Gì / What It Is
 
 Directed-energy weapon dùng năng lượng điện từ hoặc chùm năng lượng tập trung để tác động mục tiêu mà không cần đạn nổ truyền thống. Hai nhánh phổ biến trong tài liệu công khai là:

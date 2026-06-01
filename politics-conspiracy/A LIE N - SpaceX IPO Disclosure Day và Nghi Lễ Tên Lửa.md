@@ -70,13 +70,16 @@ Bài này cố tình tách ba tầng đọc để tránh lẫn fact với symbol
 
 | Tầng | Cách đọc | Ví dụ trong bài |
 |---|---|---|
-| **Documentable events** | Sự kiện có thể đối chiếu qua nguồn public/tier-1/official | IPO reporting, government release, film listings, outbreak reports |
+| **Fact / documentable** | Sự kiện có thể đối chiếu qua nguồn public/tier-1/official | IPO reporting, government release, film listings, outbreak reports |
 | **Pattern reading** | Các event được đặt cạnh nhau để xem nhịp, timing, incentive | disclosure window, Hollywood sync, financialization of space myth |
-| **Symbolic synthesis** | Đọc archetype/nghi lễ/interface, không trình bày như fact thô | rocket-obelisk, Dr. Doom/Musk, alien as truth payload + false interface |
+| **Symbol / myth reading** | Đọc archetype/nghi lễ/interface, không trình bày như fact thô | rocket-obelisk, Dr. Doom/Musk, alien as truth payload + false interface |
+| **Speculative synthesis** | Gộp politics, cinema, finance, occult và UAP thành một model vault | ritual calendar, technocratic-cosmic order, A-LIE-N as interface |
 
 Nói cách khác: phần timeline cần nguồn. Phần pattern cần logic. Phần symbol cần đọc như symbolic intelligence, không phải headline journalism.
 
 Nếu một chi tiết factual bị update về sau, thesis của bài vẫn không phụ thuộc vào một headline duy nhất. Thesis nằm ở cấu trúc: **alien narrative đang được official hóa đồng thời qua state, media, market, cinema và technocracy.**
+
+Kỷ luật bổ sung cho bài này: các mốc tương lai hoặc mốc current-event chưa có nguồn gốc trực tiếp phải được đọc như **watchlist claim**, không phải fact đã đóng. Nếu SpaceX IPO, film release, government tranche, outbreak detail hoặc social post chưa có primary source/archived source, nó không được dùng làm cột trụ chứng minh; nó chỉ là điểm cần kiểm.
 
 ---
 
@@ -466,27 +469,24 @@ Trước khi là kỹ thuật, nó là một lời triệu hồi.
 
 ---
 
-## Tài Liệu Tham Khảo / References
+## Source Register / Sổ Nguồn
 
-### Primary / Official Sources
+Register này không phải danh sách citation hoàn chỉnh cho từng câu. Nó là bản đồ nguồn cần dùng để harden bài: fact-level claim cần nguồn gốc trực tiếp; pattern/symbol chỉ được trình bày như pattern/symbol.
 
-- **U.S. Department of War / Pentagon** — `https://www.war.gov/ufo` / PURSUE UAP file release portal. Dùng cho tầng fact về official disclosure channel.
-- **Truth Social / Trump official channel** — dùng để đối chiếu các post trực tiếp liên quan UFO/alien imagery hoặc declassification messaging.
-- **Universal Pictures / official film materials** — dùng để xác nhận film slate, title, trailer/press material cho *Disclosure Day*.
-- **NEON official materials** — dùng để xác nhận *HOPE* của Na Hong-jin và release window.
-- **WHO Disease Outbreak News** — `https://www.who.int/emergencies/disease-outbreak-news` / dùng cho outbreak-level verification.
-- **ECDC** — `https://www.ecdc.europa.eu/` / dùng cho European public-health follow-up.
+### Primary / Official Source Categories
 
-### Tier-1 / Public Reporting
+- **U.S. defense/UAP official channels** — dùng cho tầng fact về official disclosure channel, ngày release, tên chương trình, metadata. Nếu chưa có archive/link cụ thể, chỉ giữ như placeholder.
+- **Trump official/social channel archives** — dùng để đối chiếu post trực tiếp liên quan UFO/alien imagery hoặc declassification messaging.
+- **Official studio/distributor materials** — dùng để xác nhận film slate, title, trailer/press material cho *Disclosure Day* hoặc *HOPE*.
+- **Official exchange/company filings** — dùng để xác nhận IPO, ticker, valuation, exchange date. Không dùng rumor market blog làm fact nếu thiếu filing.
+- **WHO / ECDC / national public-health agencies** — dùng cho outbreak-level verification.
 
-- **Reuters** — SpaceX IPO reporting; Trump/UAP declassification coverage; MV Hondius / Andes hantavirus coverage where available.
-- **CBS News / TIME** — Trump February 2026 UFO/UAP/extraterrestrial-file directive coverage.
-- **CNN / BBC / The Guardian / TIME** — Pentagon/Department of War UAP release coverage.
-- **USA Today / Newsweek** — Trump May 2026 AI-generated alien image coverage.
-- **Variety / The Hollywood Reporter / IMDb** — Spielberg *Disclosure Day* listing, production and release coverage.
-- **Deadline / FirstShowing** — *HOPE* teaser/release reporting.
-- **Quartz / Yahoo Finance / Investing.com** — market-facing SpaceX IPO summaries, ticker/valuation reporting where available.
-- **NEJM** — medical writeup / clinical context for Andes hantavirus outbreak if published.
+### Tier-1 / Public Reporting Categories
+
+- **Wire / mainstream reporting** — dùng để dựng public timeline, nhưng phải phân biệt reporting, rumor và opinion.
+- **Entertainment trade press / official listings** — dùng cho production/release status; không dùng để chứng minh occult reading.
+- **Finance reporting / filings databases** — dùng cho market-facing timeline; filing vẫn mạnh hơn headline.
+- **Medical journals / agency outbreak reports** — dùng cho y tế; symbolic X-Files echo không được biến thành claim cover-up.
 
 ### Books / Historical Context
 

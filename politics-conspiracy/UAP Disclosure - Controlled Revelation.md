@@ -30,6 +30,8 @@ related:
 
 Kỷ luật quan trọng nhất: "không giải thích được" không đồng nghĩa với "đã giải thích bằng alien". Nó chỉ mở một vùng chưa định danh. Vùng đó có thể chứa lỗi sensor, công nghệ nước ngoài, black project, hiện tượng khí quyển, spoofing, NHI, hoặc một thứ chưa nằm trong taxonomy hiện tại.
 
+Nếu một release chính thức được nêu mà chưa có link/tài liệu gốc trong bài, nó phải được đọc như **source placeholder cần đối chiếu**, không phải citation hoàn chỉnh. Disclosure là chủ đề current-event; chi tiết ngày, tên chương trình và cơ quan phát hành có thể đổi hoặc bị reframe về sau.
+
 ---
 
 ## Timeline Gần Đây / Recent Timeline
@@ -138,12 +140,19 @@ Bài [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]] là case s
 
 ---
 
-## Sources / Nguồn Chính Thức Đã Kiểm Tra
+## Source Register / Sổ Nguồn
 
-- U.S. Department of War, "Department of War Releases Unidentified Anomalous Phenomena Files in Historic Transparency Effort", 2026-05-08.
-- U.S. Department of War, "Department of War Publishes Second Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO", 2026-05-22.
-- WAR.GOV/UFO, "Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)".
-- DOD/AARO annual reporting and official UAP records pages.
+Các dòng dưới đây là register nguồn cần đối chiếu theo tầng claim. Chỉ nguồn có tài liệu gốc, archive, hoặc trang chính thức mới được dùng cho fact-level claim; các nguồn còn lại chỉ hỗ trợ pattern/symbol reading.
+
+| Nhóm nguồn | Dùng để kiểm gì | Giới hạn |
+|---|---|---|
+| AARO / DOD / ODNI / Congressional record | hearing, báo cáo, video/tài liệu được công bố, định nghĩa UAP | nhà nước chọn phần được release; không phải raw archive đầy đủ |
+| Trang release chính thức nếu tồn tại trong hồ sơ | ngày release, tên chương trình, tranche tài liệu, metadata | cần archive/link cụ thể trước khi coi là citation hoàn chỉnh |
+| Báo chí public-record | timeline mainstream hóa, ai nói gì, phản ứng chính trị | không tự chứng minh bản chất hiện tượng |
+| Nhân chứng / whistleblower | hướng điều tra, claim nội bộ, điểm cần subpoena | lời kể không thay thế bằng chứng vật lý hoặc tài liệu gốc |
+| Vault synthesis | Blue Beam, breakaway civilization, interdimensional/NHI, Hollywood sync | giả thuyết/pattern/symbol; không được đọc như fact |
+
+Các mục "DoW/WAR.GOV/PURSUE" trong bài chỉ được giữ ở tầng timeline/source placeholder cho đến khi người viết gắn được nguồn gốc cụ thể. Nếu không có nguồn gốc cụ thể, chúng không được dùng làm trụ chứng minh cho kết luận về NHI, Blue Beam hay psyop.
 
 ---
 
