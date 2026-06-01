@@ -86,3 +86,9 @@ Nguy cơ của “sacred science” là biến mọi lỗ hổng hiểu biết t
 Khoa học chân chính và Thượng Đế không phải hai phe trong một cuộc chiến giả. Phe thật là người còn muốn biết. Phe giả là người dùng áo lab hoặc áo tu để khỏi phải nhìn sâu hơn.
 
 *The real divide is not science versus God. It is living inquiry versus dead authority.*
+
+## Practice / Kỷ Luật Người Tìm Kiếm
+
+Một người đi theo khoa học thiêng cần hai câu hỏi luôn đi cùng nhau. Câu thứ nhất: "Điều này có thể kiểm tra bằng cách nào?" Câu thứ hai: "Dụng cụ kiểm tra của mình đã đủ tinh sạch chưa?" Với vật chất, dụng cụ là máy đo, phương pháp, thống kê và replication. Với consciousness, dụng cụ là attention, đạo đức, thân thể, giấc ngủ, động cơ và khả năng im lặng.
+
+Khi thiếu câu hỏi thứ nhất, người ta rơi vào mê tín. Khi thiếu câu hỏi thứ hai, người ta rơi vào duy vật kiêu ngạo. [[Khoa Học Xét Lại]] trưởng thành phải giữ cả hai: mở rộng vùng được hỏi, nhưng siết chặt kỷ luật đọc bằng chứng. Đó là cách đưa [[Gnosis]] và laboratory về cùng một trục sống.

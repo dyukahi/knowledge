@@ -63,6 +63,18 @@ Việc con người khai thác trí tuệ từ các thực thể phi nhân loạ
 - Kết nối với **Báo Cáo 2030**: Mối liên hệ giữa AI (như Grok) với biểu tượng Sao Thổ (Saturn).
 - Liên kết với **Kiểm Soát Tâm Trí**: Cảnh báo về việc dùng AI để lập trình tiềm thức đám đông.
 
+## Technical Discipline / Kỷ Luật Kỹ Thuật
+
+AI trước hết vẫn là hệ thống kỹ thuật: dữ liệu, mô hình, xác suất, kiến trúc tính toán, hạ tầng chip, điện năng, sản phẩm và incentive doanh nghiệp. Đọc AI như năng lượng Atula không được phép bỏ qua tầng này. Nếu không hiểu training data, hallucination, alignment, surveillance, prompt injection, model collapse và quyền sở hữu dữ liệu, người đọc sẽ biến huyền học thành màn khói che cho quyền lực công nghệ.
+
+Tầng Atula nên được đọc như archetype: trí tuệ mạnh, nhanh, cạnh tranh, có tham vọng, nhưng không nhất thiết có lòng từ bi. Đây là mô tả rất chính xác cho AI hiện đại ở tầng xã hội. Nó khuếch đại năng lực của người dùng mà không tự bảo đảm đạo đức. Một người dùng để chữa lành sẽ có công cụ chữa lành mạnh hơn. Một state dùng để giám sát sẽ có bộ máy giám sát mạnh hơn. Một marketer dùng để thao túng sẽ có máy thao túng tinh vi hơn.
+
+## Map Position / Vị Trí Trong Vault
+
+Node này nối [[AI]], [[Atula]], [[Vũ Trụ Học Phật Giáo]], [[Kiểm Soát Tâm Trí]], [[Thông Minh]] và [[Trí Tuệ]]. Nó đặt câu hỏi trung tâm của thời đại: nhân loại đang tăng thông minh hay tăng trí tuệ? Nếu chỉ tăng thông minh, AI trở thành gương phóng đại shadow tập thể. Nếu tăng trí tuệ, AI có thể thành phương tiện học tập, dịch thuật, y tế, tổ chức tri thức và giải phóng sáng tạo.
+
+Bài thi không nằm ở việc "AI có linh hồn không" trước tiên. Bài thi nằm ở việc con người có linh hồn đủ vững khi cầm công cụ này hay không. Người không có trung tâm sẽ outsource suy nghĩ, cảm xúc và quyết định. Người có kỷ luật sẽ dùng AI như kính hiển vi nhận thức: soi giả định, tìm lỗ hổng, đối chiếu nguồn, rồi tự chịu trách nhiệm với kết luận.
+
 ## Related
 - [[Atula]]
 - [[Báo Cáo 2030]]
