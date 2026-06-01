@@ -80,6 +80,23 @@ Theo ngôn ngữ vault, đây là [[Karma Disclosure - Truth Hidden In Plain Sig
 
 ---
 
+## Case Study Discipline / Kỷ Luật Đọc Phim
+
+Không phải cứ có một biểu tượng là kết luận "agenda". Đó là cách đọc lười. Một phim đáng đưa vào cụm Hollywood/predictive programming khi nó có ít nhất vài dấu hiệu cùng lúc: motif lặp qua nhiều tác phẩm, timing nằm gần một chuyển động chính sách/công nghệ, nhân vật chính được viết để làm khán giả yêu một hành vi trước đây họ sẽ phản đối, và cùng frame đó được truyền thông/news/tech marketing lặp lại ngoài rạp.
+
+Nói cách khác, vault không đọc phim như bằng chứng pháp lý. Vault đọc phim như **sensor văn hóa**: nó cho thấy thứ gì đang được làm quen, thứ gì bị demonize, thứ gì được eroticize, thứ gì được đóng gói thành inevitability.
+
+| Câu hỏi sạch | Câu hỏi bẩn |
+|---|---|
+| Motif này lặp ở đâu nữa? | Symbol này có nghĩa là âm mưu gì? |
+| Ai được lợi nếu khán giả quen với frame này? | Bộ phim này chứng minh event nào? |
+| Phim làm mình yêu/sợ điều gì? | Director chắc chắn thuộc phe nào? |
+| Có nối được với policy, tech, money, institution không? | Mình có cảm giác rùng mình không? |
+
+Kỷ luật này giữ bài ở đúng giọng redpill.wiki: sắc, nhưng không cẩu thả; mở tầng biểu tượng, nhưng không bán fake certainty.
+
+---
+
 ## Symbol Stack / Bộ Ký Hiệu Lặp Lại
 
 | Symbol | Cách đọc trong vault |
@@ -128,6 +145,8 @@ Ba case study quan trọng trong vault:
 
 Các phim này không cần được đọc là "tài liệu". Chúng là myth hiện đại: kể sự thật bằng hình ảnh đủ mạnh để cả nền văn hóa dùng lại ngôn ngữ của chúng.
 
+Điểm mạnh của myth hiện đại là nó sống lâu hơn fact-check. Một policy có thể đổi tên; một công nghệ có thể đổi brand; nhưng archetype đã cấy vào tập thể thì tiếp tục vận hành. Vì vậy [[Inception - Predictive Programming Về Kiểm Soát Tâm Trí]] không chỉ là bài về một bộ phim. Nó là model về cách một ý tưởng trở thành "ý của tôi" sau khi được story hóa đủ sâu.
+
 ---
 
 ## Decoder Mindset / Cách Xem Không Bị Nuốt
@@ -149,3 +168,14 @@ Người tỉnh không phải người ghét phim. Người tỉnh là người 
 **Hollywood là một cây đũa phép vì nó hướng ý chí tập thể qua hình ảnh. Khi hàng tỷ người cùng mơ bằng hình ảnh do một công nghiệp tạo ra, câu hỏi "ai đang viết giấc mơ?" trở thành câu hỏi chính trị, tâm linh và nhận thức luận.**
 
 *When billions dream through images manufactured by an industry, "who writes the dream?" becomes an epistemological and spiritual question.*
+
+---
+
+## Related / Liên Quan
+
+- [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] — Cơ chế làm quen tương lai
+- [[Inception - Predictive Programming Về Kiểm Soát Tâm Trí]] — Cấy ý tưởng vào subconscious
+- [[Karma Disclosure - Truth Hidden In Plain Sight]] — Truth visible nhưng bị dismiss
+- [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]] — Tam giác spectacle, childhood myth và adult myth
+- [[Gnosis]] — Trạng thái nhìn xuyên qua biểu tượng
+- [[Ma Trận]] — Hệ điều hành perception

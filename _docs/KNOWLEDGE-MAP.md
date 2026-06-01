@@ -7,7 +7,7 @@
 - **Notes scanned:** 182
 - **Top-level domains:** 7
 - **Tags detected:** 174
-- **Resolved internal edges:** 1704
+- **Resolved internal edges:** 1710
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 2
 
@@ -26,22 +26,22 @@ Recommended note types:
 ### Esoterica / Huyền học `esoterica` — 71 notes
 
 - [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `112`, backlinks `86`, outlinks `26` — #consciousness, #control-system, #esoterica, #matrix
+- [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `53`, backlinks `41`, outlinks `12` — #consciousness, #esoterica, #gnosis, #matrix
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `53`, backlinks `22`, outlinks `31` — #consciousness, #esoterica, #matrix, #meta
-- [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `52`, backlinks `40`, outlinks `12` — #consciousness, #esoterica, #gnosis, #matrix
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `36`, backlinks `25`, outlinks `11` — #consciousness, #esoterica, #metaphysics
 - [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `35`, backlinks `7`, outlinks `28` — #awakening, #energy, #esoterica, #gnosis, #matrix
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `35`, backlinks `26`, outlinks `9` — #consciousness, #esoterica, #non-duality
-- [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]] — degree `29`, backlinks `19`, outlinks `10` — #esoterica
+- [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]] — degree `30`, backlinks `20`, outlinks `10` — #esoterica
 - [[esoterica/Tartaria|Tartaria]] — degree `28`, backlinks `21`, outlinks `7` — #esoterica
 - [[esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh - Năng Lượng Thu Hoạch Từ Con Người]] — degree `26`, backlinks `16`, outlinks `10` — #consciousness, #esoterica, #matrix
 - [[esoterica/Vũ Trụ Học Phật Giáo|Vũ Trụ Học Phật Giáo]] — degree `26`, backlinks `13`, outlinks `13` — #esoterica
+- [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]] — degree `25`, backlinks `17`, outlinks `8` — #esoterica, #occult, #predictive-programming
 - [[esoterica/Luân Hồi|Luân Hồi]] — degree `25`, backlinks `17`, outlinks `8` — #consciousness, #esoterica, #reincarnation
-- [[esoterica/Sacred Geometry|Sacred Geometry]] — degree `24`, backlinks `7`, outlinks `17` — #esoterica
 - … 59 more notes in this domain. See JSON for full list.
 
 ### Health / Sức khỏe `health` — 26 notes
 
-- [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `46`, backlinks `36`, outlinks `10` — #health
+- [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `47`, backlinks `37`, outlinks `10` — #health
 - [[health/Thuyết Vi Sinh Nội Sinh|Thuyết Vi Sinh Nội Sinh (Terrain Theory)]] — degree `30`, backlinks `21`, outlinks `9` — #health, #terrain-theory
 - [[health/Tuyến Tùng|Tuyến Tùng]] — degree `30`, backlinks `20`, outlinks `10` — #consciousness, #esoterica, #health
 - [[health/Kính Chiếu Yêu - Nhìn Thấu Tây Y|Kính Chiếu Yêu — Nhìn Thấu Tây Y]] — degree `25`, backlinks `16`, outlinks `9` — #health
@@ -59,7 +59,7 @@ Recommended note types:
 
 - [[mental-models/Individuation|Individuation]] — degree `45`, backlinks `37`, outlinks `8` — #consciousness, #jung, #mental-model
 - [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]] — degree `34`, backlinks `28`, outlinks `6` — #consciousness, #mental-model
-- [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `31`, backlinks `23`, outlinks `8` — #consciousness, #jung, #mental-model
+- [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `32`, backlinks `24`, outlinks `8` — #consciousness, #jung, #mental-model
 - [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]] — degree `28`, backlinks `21`, outlinks `7` — #consciousness, #jung, #mental-model, #psychology
 - [[mental-models/Trí Tuệ|Trí Tuệ]] — degree `25`, backlinks `19`, outlinks `6` — #mental-model, #philosophy
 - [[mental-models/Bộ Não Rỗng và AI Brain Rot|Bộ Não Rỗng và AI Brain Rot]] — degree `24`, backlinks `7`, outlinks `17` — #ai, #consciousness, #mental-model, #technology
@@ -68,7 +68,7 @@ Recommended note types:
 - [[mental-models/Mô Hình Địa Tâm|Mô Hình Địa Tâm (Geocentrism)]] — degree `22`, backlinks `16`, outlinks `6` — #cosmology, #esoterica, #mental-model, #science-tech
 - [[mental-models/Gen Z - Phân Tích Phản Biện|Gen Z - Phân Tích Phản Biện]] — degree `21`, backlinks `10`, outlinks `11` — #agenda-2030, #generation, #mental-model, #psychology, #society
 - [[mental-models/Nguyên Mẫu|Nguyên Mẫu]] — degree `19`, backlinks `12`, outlinks `7` — #mental-model
-- [[mental-models/Thông Minh vs Trí Tuệ|Thông Minh vs Trí Tuệ]] — degree `18`, backlinks `11`, outlinks `7` — #mental-model, #philosophy
+- [[mental-models/Thông Minh vs Trí Tuệ|Thông Minh vs Trí Tuệ]] — degree `19`, backlinks `11`, outlinks `8` — #mental-model, #philosophy
 - … 14 more notes in this domain. See JSON for full list.
 
 ### Politics & Conspiracy `politics-conspiracy` — 23 notes
@@ -80,7 +80,7 @@ Recommended note types:
 - [[politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood|Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood]] — degree `24`, backlinks `11`, outlinks `13` — #conspiracy, #elite, #mind-control, #occult, #predictive-programming
 - [[politics-conspiracy/Bức Tường Băng|Bức Tường Băng (Ice Wall)]] — degree `23`, backlinks `11`, outlinks `12` — #esoterica, #politics-conspiracy
 - [[politics-conspiracy/Khế Ước Bí Mật Rockefeller|Khế Ước Bí Mật Rockefeller (The Secret Covenant)]] — degree `22`, backlinks `11`, outlinks `11` — #conspiracy, #control, #elite, #matrix, #politics-conspiracy
-- [[politics-conspiracy/Thuyết Trái Đất Phẳng|Thuyết Trái Đất Phẳng (Flat Earth Theory)]] — degree `22`, backlinks `15`, outlinks `7` — #cosmology, #epistemology, #esoterica, #politics-conspiracy
+- [[politics-conspiracy/Thuyết Trái Đất Phẳng|Thuyết Trái Đất Phẳng (Flat Earth Theory)]] — degree `21`, backlinks `14`, outlinks `7` — #cosmology, #epistemology, #esoterica, #politics-conspiracy
 - [[politics-conspiracy/Mudflood|Mudflood (Đại Hồng Thủy Bùn)]] — degree `20`, backlinks `8`, outlinks `12` — #politics-conspiracy
 - [[politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ|Nam Cực - Bí Mật Được Canh Giữ]] — degree `19`, backlinks `7`, outlinks `12` — #antarctica, #conspiracy, #elite, #flat-earth, #nazi
 - [[politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp|Thế Chiến — Chiến Dịch Dọn Dẹp]] — degree `16`, backlinks `3`, outlinks `13` — #conspiracy, #history, #old-world, #tartaria, #ww1
@@ -141,13 +141,13 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reali…
 4. [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]] — degree `77` · backlinks `51` · outlinks `26`
    - **Khoa Học Xét Lại không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution: một bên là quan sát, kiểm chứng, phản biện; một bên là funding, prestige, consensus, censorship, career incentive và quyền lực.**
-5. [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `53` · backlinks `22` · outlinks `31`
-   - Bài viết này là **bản tổng hợp hoàn chỉnh** về Ma Trận — cấu trúc, các lớp kiểm soát, mục đích tồn tại, và **con đường thoát ra**. Đây là meta-framework xâu chuỗi toàn bộ kiến thức trong vault.
-6. [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `52` · backlinks `40` · outlinks `12`
+5. [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `53` · backlinks `41` · outlinks `12`
    - **Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…
+6. [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `53` · backlinks `22` · outlinks `31`
+   - Bài viết này là **bản tổng hợp hoàn chỉnh** về Ma Trận — cấu trúc, các lớp kiểm soát, mục đích tồn tại, và **con đường thoát ra**. Đây là meta-framework xâu chuỗi toàn bộ kiến thức trong vault.
 7. [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `50` · backlinks `39` · outlinks `11`
    - ---
-8. [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `46` · backlinks `36` · outlinks `10`
+8. [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `47` · backlinks `37` · outlinks `10`
    - **Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…
 9. [[mental-models/Individuation|Individuation]] — degree `45` · backlinks `37` · outlinks `8`
    - **Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là bước tâ…
@@ -169,10 +169,10 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**
 18. [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `33` · backlinks `9` · outlinks `24`
    - **Bản đồ này gom các note về consciousness, metaphysics, occult, archetype và những cấu trúc tâm linh đứng phía sau Ma Trận. Đây là tầng Source/Spirit của vault.**
-19. [[crypto-finance/Bitcoin|Bitcoin]] — degree `32` · backlinks `19` · outlinks `13`
-   - **Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước.
-20. [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `31` · backlinks `23` · outlinks `8`
+19. [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `32` · backlinks `24` · outlinks `8`
    - **Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…
+20. [[crypto-finance/Bitcoin|Bitcoin]] — degree `32` · backlinks `19` · outlinks `13`
+   - **Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước.
 
 ## Tag Constellations
 
