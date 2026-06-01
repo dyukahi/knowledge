@@ -19,15 +19,21 @@ related:
 > 
 > *"Fiat" in Latin means "let it be done" — money exists only because the government says it exists.*
 
+---
+
+## Evidence Discipline / Cách Đọc
+
+Fact: fiat hiện đại không được đổi cố định sang vàng, central banks điều tiết lãi suất và cung tiền, nhà nước dùng luật và thuế để neo nhu cầu với đơn vị tiền tệ. Pattern: hệ này có xu hướng ưu tiên người gần nguồn tín dụng, bơm asset trước lương, và biến inflation thành thuế ẩn. Synthesis của vault: fiat là hạ tầng quyền lực, không chỉ là công cụ thanh toán.
+
+*Fact: modern fiat is not fixed-convertible into gold and is managed through central banking, credit, law, and taxation. Pattern: it favors those closest to new credit and turns inflation into a hidden tax.*
+
+Đây không phải lời khuyên đầu tư. Nó là bài nền cho [[Tiền Giấy - Tiền Mặt]], [[Bitcoin]], [[Gen Z và CBDC - Programmable Money Psychology]] và câu hỏi lớn hơn: ai được quyền phát hành thực tại kinh tế?
+
 ## Đặc Điểm Của Tiền Pháp Định (Characteristics of Fiat Currency)
 
-| Đặc điểm (Characteristic) | Giải thích (Explanation) |
-|----------|------------|
-| **Không có backing / No backing** | Không được bảo chứng bởi vàng, bạc hay hàng hóa / *Not backed by gold, silver, or commodities* |
-| **In vô hạn / Unlimited printing** | Ngân hàng trung ương có thể in bao nhiêu tùy ý / *Central banks can print as much as they want* |
-| **Dựa trên nợ / Debt-based** | Mỗi đồng tiền mới = thêm nợ vào hệ thống / *Each new dollar = more debt in the system* |
-| **Mất giá theo thời gian / Depreciates over time** | Lạm phát là tính năng, không phải bug / *Inflation is a feature, not a bug* |
-| **Bắt buộc sử dụng / Forced usage** | Legal tender laws ép buộc chấp nhận / *Legal tender laws force acceptance* |
+Tiền pháp định có năm đặc điểm phải đọc cùng nhau. Nó không còn được bảo chứng cố định bởi vàng hay hàng hóa; nguồn cung có thể mở rộng theo quyết định chính sách; phần lớn tiền mới đi qua tín dụng và nợ; sức mua có xu hướng giảm theo thời gian; và legal tender/tax obligation buộc xã hội tiếp tục cần nó.
+
+Điểm nguy hiểm không nằm ở từng đặc điểm riêng lẻ. Điểm nguy hiểm là combo: một hệ thống có thể mở rộng cung tiền, bắt dân dùng đơn vị đó, rồi gọi sự mất sức mua là "bình thường".
 
 ## Lịch Sử Ngắn Gọn (Brief History)
 
@@ -45,9 +51,9 @@ related:
 
 ### 1971 → Nay: Hậu quả (1971 → Now: Consequences)
 
-- Nợ toàn cầu tăng 40x / *Global debt increased 40x*
-- Bất bình đẳng giàu nghèo tăng vọt / *Wealth inequality skyrocketed*
-- Tài sản (nhà, stock) tăng giá, lương đứng yên / *Assets (houses, stocks) rose in price, wages stagnated*
+Sau 1971, vấn đề không chỉ là "in tiền nhiều hơn". Vấn đề là discipline vật lý yếu đi, trong khi hệ thống tài chính hóa mạnh hơn. Nợ toàn cầu phình ra, asset financialization tăng tốc, nhà và stock hấp thụ dòng tiền mới nhanh hơn lương. Người có asset thấy mình "giàu hơn"; người sống bằng lương thấy đời sống đắt hơn.
+
+Không cần biến mọi thứ thành một âm mưu đơn tuyến. Chỉ cần nhìn incentive: ai được nhận tín dụng trước, ai giữ asset trước, ai trả giá sau bằng sức mua.
 
 ## Cách Tiền Pháp Định Bòn Rút Tài Sản (How Fiat Currency Extracts Wealth)
 
@@ -74,6 +80,8 @@ Tiền in ra chảy vào stocks, bất động sản, chứ không vào lương.
 
 ## Tiền Pháp Định vs Các Lựa Chọn Khác (Fiat vs Other Options)
 
+So sánh fiat với vàng và [[Bitcoin]] hữu ích nếu không biến nó thành meme đơn giản. Vàng có lịch sử dài và physical scarcity, nhưng khó chia nhỏ, khó vận chuyển, dễ bị custody hóa. Bitcoin có scarcity số và self-custody, nhưng cần internet, private key discipline và [[Privacy]]. Fiat tiện, thanh khoản cao, được luật bảo vệ, nhưng đổi lại là debasement và permission risk.
+
 | Loại tiền (Type) | Ai kiểm soát (Who controls) | Giới hạn (Limit) | Inflation |
 |-----------|--------------|----------|-----------|
 | **Fiat** | Central Banks / *Ngân hàng TW* | Không / *None* | ~2-10%/năm (official) |
@@ -90,10 +98,7 @@ Tiền in ra chảy vào stocks, bất động sản, chứ không vào lương.
 
 ## Exit Options (Lựa Chọn Thoát Ra)
 
-- **[[Bitcoin]]**: Hard money kỹ thuật số / *Digital hard money*
-- **Vàng/Bạc (Gold/Silver)**: Hard money truyền thống / *Traditional hard money*
-- **Real assets**: Bất động sản, commodities / *Real estate, commodities*
-- **Skills**: Giá trị không bị in thêm / *Value that can't be printed*
+Exit không có nghĩa là all-in vào một vật thờ mới. Exit là giảm phụ thuộc vào một ledger duy nhất. [[Bitcoin]] là hard money kỹ thuật số; vàng/bạc là hard money vật lý; real assets là quyền sở hữu gắn với nhu cầu thật; skills là giá trị không bị in thêm; [[Privacy]] là lớp bảo vệ để các lựa chọn kia không biến thành hồ sơ giám sát.
 
 ## Related
 

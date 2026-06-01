@@ -36,13 +36,9 @@ related:
 
 Fiat currency là tiền có giá trị vì nhà nước công nhận, hệ thống thuế yêu cầu, ngân hàng chấp nhận, và xã hội cùng tin. Nó không cần intrinsic value như vàng; nó cần network effect và coercive backing.
 
-| Đặc điểm | Hệ quả |
-|---|---|
-| phát hành tập trung | người ở gần vòi tiền hưởng lợi trước |
-| cung có thể mở rộng | sức mua bị pha loãng |
-| legal tender | người dân bị buộc dùng trong nhiều nghĩa vụ |
-| debt-based system | tăng trưởng cần tín dụng mới |
-| lãi suất điều khiển | chu kỳ boom-bust bị chính sách hóa |
+Vì vậy fiat không chỉ là "tiền giấy". Fiat là một operating system: central bank phát hành và điều tiết; commercial banks tạo tín dụng; nhà nước thu thuế bằng đơn vị đó; truyền thông dạy dân xem inflation như thời tiết. Khi operating system này chạy lâu, người dân thường nhầm tiền với giá trị, nhầm account balance với quyền sở hữu, và nhầm convenience với tự do.
+
+Các đặc điểm quan trọng vẫn cần nhớ: phát hành tập trung tạo lợi thế cho người ở gần vòi tiền; cung có thể mở rộng làm sức mua bị pha loãng; legal tender buộc người dân dùng fiat trong nhiều nghĩa vụ; debt-based system cần tín dụng mới để tiếp tục tăng trưởng; lãi suất điều khiển làm chu kỳ boom-bust bị chính sách hóa.
 
 ---
 
@@ -84,7 +80,7 @@ Tiền mặt vẫn là fiat, vẫn bị lạm phát. Nhưng cash có một thứ
 | khó freeze từng giao dịch nhỏ | dễ freeze, flag, reverse |
 | bất tiện hơn | tiện hơn nhưng phụ thuộc hơn |
 
-Đây là lý do loại bỏ cash không chỉ là upgrade UX. Nó là thay đổi cấu trúc quyền lực.
+Đây là lý do loại bỏ cash không chỉ là upgrade UX. Nó là thay đổi cấu trúc quyền lực. Khi tiền trở thành account-based hoàn toàn, mọi giao dịch có thể đi qua identity, policy, scoring, compliance và thuật toán fraud. Một xã hội cashless có thể rất mượt, nhưng cái giá là mọi người mất khả năng giao dịch nhỏ, riêng tư, offline, không cần giải thích.
 
 ---
 
@@ -109,7 +105,7 @@ Không cần tất cả xảy ra mới đáng lo. Chỉ cần hạ tầng cho ph
 
 [[Bitcoin]] là phản ứng với fiat: scarcity số, self-custody, settlement ngoài central bank. Nhưng [[Bitcoin Sẽ Chết Nếu Không Có Privacy]] nhắc rằng transparency quá mức có thể biến Bitcoin thành surveillance asset nếu người dùng không hiểu privacy.
 
-Các lớp redundancy:
+Các lớp redundancy không thay thế nhau; chúng che các loại rủi ro khác nhau. Cash che rủi ro hạ tầng và giám sát giao dịch nhỏ. Bitcoin che rủi ro debasement và confiscation ở cấp hệ thống, nhưng cần custody và privacy. Gold/silver che rủi ro internet và counterparty. Skills/community là wealth ngoài ledger: thứ không ai in thêm được, cũng không freeze bằng một nút bấm.
 
 | Lớp | Vai trò |
 |---|---|

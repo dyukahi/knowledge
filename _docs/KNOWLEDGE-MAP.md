@@ -7,7 +7,7 @@
 - **Notes scanned:** 182
 - **Top-level domains:** 7
 - **Tags detected:** 174
-- **Resolved internal edges:** 1699
+- **Resolved internal edges:** 1704
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 2
 
@@ -105,13 +105,13 @@ Recommended note types:
 
 ### Crypto & Finance `crypto-finance` — 10 notes
 
-- [[crypto-finance/Bitcoin|Bitcoin]] — degree `31`, backlinks `19`, outlinks `12` — #crypto-finance
+- [[crypto-finance/Bitcoin|Bitcoin]] — degree `32`, backlinks `19`, outlinks `13` — #crypto-finance
+- [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]] — degree `22`, backlinks `11`, outlinks `11` — #crypto-finance
 - [[crypto-finance/Tiền Giấy - Tiền Mặt|Tiền Giấy - Tiền Mặt (Fiat Currency)]] — degree `22`, backlinks `18`, outlinks `4` — #crypto-finance, #privacy
 - [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]] — degree `21`, backlinks `15`, outlinks `6` — #1, #agenda-2030, #cbdc, #crypto-finance, #generation
-- [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]] — degree `20`, backlinks `10`, outlinks `10` — #crypto-finance
+- [[crypto-finance/Tiền Pháp Định|Tiền Pháp Định (Fiat Currency)]] — degree `15`, backlinks `7`, outlinks `8` — #crypto-finance
 - [[crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền|Điều Mà Trường Học Không Dạy Về Tiền]] — degree `15`, backlinks `3`, outlinks `12` — #crypto-finance
 - [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]] — degree `14`, backlinks `8`, outlinks `6` — #bitcoin, #crypto-finance, #privacy, #sovereignty
-- [[crypto-finance/Tiền Pháp Định|Tiền Pháp Định (Fiat Currency)]] — degree `14`, backlinks `7`, outlinks `7` — #crypto-finance
 - [[crypto-finance/Giàu Không Nhờ May Mắn|Giàu Không Nhờ May Mắn (How to Get Rich Without Getting Lucky)]] — degree `12`, backlinks `3`, outlinks `9` — #crypto-finance
 - [[crypto-finance/Secular Market|Secular Market (Thị Trường Chu Kỳ Dài)]] — degree `9`, backlinks `2`, outlinks `7` — #crypto-finance
 - [[crypto-finance/Tiền tiền tiền|Tiền, tiền, tiền... (P.1) / Money, Money, Money... (P.1)]] — degree `4`, backlinks `1`, outlinks `3` — #crypto-finance
@@ -125,7 +125,7 @@ Recommended note types:
 - [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `33`, backlinks `9`, outlinks `24` — #consciousness, #esoterica, #moc
 - [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `31`, backlinks `15`, outlinks `16` — #epistemology, #meta, #navigation
 - [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]] — degree `23`, backlinks `7`, outlinks `16` — #esoterica, #hidden-history, #moc
-- [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `16`, backlinks `5`, outlinks `11` — #crypto-finance, #moc, #sovereignty
+- [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `18`, backlinks `7`, outlinks `11` — #crypto-finance, #moc, #sovereignty
 - [[claude|Schema (LLM Instructions)]] — degree `0`, backlinks `0`, outlinks `0`
 - [[README|🧠 Knowledge Base]] — degree `0`, backlinks `0`, outlinks `0`
 
@@ -169,10 +169,10 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**
 18. [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `33` · backlinks `9` · outlinks `24`
    - **Bản đồ này gom các note về consciousness, metaphysics, occult, archetype và những cấu trúc tâm linh đứng phía sau Ma Trận. Đây là tầng Source/Spirit của vault.**
-19. [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `31` · backlinks `23` · outlinks `8`
-   - **Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…
-20. [[crypto-finance/Bitcoin|Bitcoin]] — degree `31` · backlinks `19` · outlinks `12`
+19. [[crypto-finance/Bitcoin|Bitcoin]] — degree `32` · backlinks `19` · outlinks `13`
    - **Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước.
+20. [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `31` · backlinks `23` · outlinks `8`
+   - **Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…
 
 ## Tag Constellations
 
@@ -275,8 +275,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]]
 - [[politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm|Sự Thật Đen Tối Về Phim Khiêu Dâm]]
 - [[politics-conspiracy/Thuyết Trái Đất Phẳng|Thuyết Trái Đất Phẳng (Flat Earth Theory)]]
-- [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]]
 - [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]]
+- [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]]
 - [[politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood|Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood]]
 
 ### MOC - Ancient Civilizations & Hidden History
