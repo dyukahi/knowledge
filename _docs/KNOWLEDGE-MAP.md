@@ -7,7 +7,7 @@
 - **Notes scanned:** 182
 - **Top-level domains:** 7
 - **Tags detected:** 174
-- **Resolved internal edges:** 1683
+- **Resolved internal edges:** 1699
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 2
 
@@ -29,8 +29,8 @@ Recommended note types:
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `53`, backlinks `22`, outlinks `31` — #consciousness, #esoterica, #matrix, #meta
 - [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `52`, backlinks `40`, outlinks `12` — #consciousness, #esoterica, #gnosis, #matrix
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `36`, backlinks `25`, outlinks `11` — #consciousness, #esoterica, #metaphysics
+- [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `35`, backlinks `7`, outlinks `28` — #awakening, #energy, #esoterica, #gnosis, #matrix
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `35`, backlinks `26`, outlinks `9` — #consciousness, #esoterica, #non-duality
-- [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `34`, backlinks `6`, outlinks `28` — #awakening, #energy, #esoterica, #gnosis, #matrix
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]] — degree `29`, backlinks `19`, outlinks `10` — #esoterica
 - [[esoterica/Tartaria|Tartaria]] — degree `28`, backlinks `21`, outlinks `7` — #esoterica
 - [[esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh - Năng Lượng Thu Hoạch Từ Con Người]] — degree `26`, backlinks `16`, outlinks `10` — #consciousness, #esoterica, #matrix
@@ -61,13 +61,13 @@ Recommended note types:
 - [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]] — degree `34`, backlinks `28`, outlinks `6` — #consciousness, #mental-model
 - [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `31`, backlinks `23`, outlinks `8` — #consciousness, #jung, #mental-model
 - [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]] — degree `28`, backlinks `21`, outlinks `7` — #consciousness, #jung, #mental-model, #psychology
+- [[mental-models/Trí Tuệ|Trí Tuệ]] — degree `25`, backlinks `19`, outlinks `6` — #mental-model, #philosophy
 - [[mental-models/Bộ Não Rỗng và AI Brain Rot|Bộ Não Rỗng và AI Brain Rot]] — degree `24`, backlinks `7`, outlinks `17` — #ai, #consciousness, #mental-model, #technology
-- [[mental-models/Trí Tuệ|Trí Tuệ]] — degree `24`, backlinks `18`, outlinks `6` — #mental-model, #philosophy
 - [[mental-models/S.E.X Và Tâm Lý Học Jung|S.E.X Và Tâm Lý Học Jung]] — degree `23`, backlinks `10`, outlinks `13` — #esoterica, #mental-model, #psychology
 - [[mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính|Tâm Lý Học Tiến Hóa Về Giới Tính]] — degree `23`, backlinks `1`, outlinks `22` — #mental-models
 - [[mental-models/Mô Hình Địa Tâm|Mô Hình Địa Tâm (Geocentrism)]] — degree `22`, backlinks `16`, outlinks `6` — #cosmology, #esoterica, #mental-model, #science-tech
 - [[mental-models/Gen Z - Phân Tích Phản Biện|Gen Z - Phân Tích Phản Biện]] — degree `21`, backlinks `10`, outlinks `11` — #agenda-2030, #generation, #mental-model, #psychology, #society
-- [[mental-models/Nguyên Mẫu|Nguyên Mẫu]] — degree `18`, backlinks `11`, outlinks `7` — #mental-model
+- [[mental-models/Nguyên Mẫu|Nguyên Mẫu]] — degree `19`, backlinks `12`, outlinks `7` — #mental-model
 - [[mental-models/Thông Minh vs Trí Tuệ|Thông Minh vs Trí Tuệ]] — degree `18`, backlinks `11`, outlinks `7` — #mental-model, #philosophy
 - … 14 more notes in this domain. See JSON for full list.
 
@@ -118,7 +118,7 @@ Recommended note types:
 
 ### root `root` — 10 notes
 
-- [[index|Red Pill Wiki]] — degree `97`, backlinks `0`, outlinks `97` — #index, #navigation
+- [[index|Red Pill Wiki]] — degree `113`, backlinks `0`, outlinks `113` — #index, #navigation
 - [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `39`, backlinks `23`, outlinks `16` — #health, #moc, #sovereignty
 - [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `35`, backlinks `19`, outlinks `16` — #moc, #revisionist-science, #science-tech
 - [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `34`, backlinks `18`, outlinks `16` — #epistemology, #moc, #propaganda
@@ -133,10 +133,10 @@ Recommended note types:
 
 High-degree notes are good candidates for hub/MOC treatment.
 
-1. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `112` · backlinks `86` · outlinks `26`
-   - **Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**
-2. [[index|Red Pill Wiki]] — degree `97` · backlinks `0` · outlinks `97`
+1. [[index|Red Pill Wiki]] — degree `113` · backlinks `0` · outlinks `113`
    - **Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn.
+2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `112` · backlinks `86` · outlinks `26`
+   - **Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**
 3. [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `93` · backlinks `59` · outlinks `34`
    - **Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reali…
 4. [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]] — degree `77` · backlinks `51` · outlinks `26`
@@ -161,12 +161,12 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh — ta/người, sáng/tối, tinh thần/vật chất, thắng/thua — có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qu…
 14. [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `35` · backlinks `19` · outlinks `16`
    - **Science Revisionism trong vault không phải phản khoa học. Nó là phân biệt science như method với science như institution, rồi dám hỏi lại những giả định được biến thành giáo điều.**
-15. [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]] — degree `34` · backlinks `28` · outlinks `6`
-   - **Nhị nguyên là cơ chế Một tự phân cực thành hai để tạo trải nghiệm: sáng/tối, nam/nữ, âm/dương, đúng/sai, ta/địch.** Nó không xấu; nó là grammar của cõi vật chất. Cái bẫy bắt đầu khi con người quên field lớn hơn và để hai cực dựng thành nhà tù nhận thức.
-16. [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `34` · backlinks `18` · outlinks `16`
-   - **Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**
-17. [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `34` · backlinks `6` · outlinks `28`
+15. [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `35` · backlinks `7` · outlinks `28`
    - Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng.
+16. [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]] — degree `34` · backlinks `28` · outlinks `6`
+   - **Nhị nguyên là cơ chế Một tự phân cực thành hai để tạo trải nghiệm: sáng/tối, nam/nữ, âm/dương, đúng/sai, ta/địch.** Nó không xấu; nó là grammar của cõi vật chất. Cái bẫy bắt đầu khi con người quên field lớn hơn và để hai cực dựng thành nhà tù nhận thức.
+17. [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `34` · backlinks `18` · outlinks `16`
+   - **Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**
 18. [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `33` · backlinks `9` · outlinks `24`
    - **Bản đồ này gom các note về consciousness, metaphysics, occult, archetype và những cấu trúc tâm linh đứng phía sau Ma Trận. Đây là tầng Source/Spirit của vault.**
 19. [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `31` · backlinks `23` · outlinks `8`
@@ -232,7 +232,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]]
 - [[esoterica/Tartaria|Tartaria]]
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
-- [[health/Tuyến Tùng|Tuyến Tùng]]
+- [[mental-models/Trí Tuệ|Trí Tuệ]]
 
 ### MOC - Health Sovereignty
 
@@ -258,9 +258,9 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]]
 - [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]]
 - [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]]
+- [[mental-models/Trí Tuệ|Trí Tuệ]]
 - [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]]
 - [[politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm|Sự Thật Đen Tối Về Phim Khiêu Dâm]]
-- [[mental-models/Trí Tuệ|Trí Tuệ]]
 - [[mental-models/Mô Hình Địa Tâm|Mô Hình Địa Tâm (Geocentrism)]]
 - [[politics-conspiracy/Thuyết Trái Đất Phẳng|Thuyết Trái Đất Phẳng (Flat Earth Theory)]]
 

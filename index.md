@@ -251,6 +251,14 @@ Các bài dưới đây là nơi framework gặp sự kiện, culture hoặc bod
 
 ## Recent Updates / Cập Nhật Gần Đây
 
+### June 1, 2026
+
+- **Editorial maturity pass** — expanded all remaining thin articles under 700 words; high-risk health/politics/science notes now carry claim/source discipline; broken links remain 0.
+- **Ancient history & hidden cosmology** — matured [[Thành Cổ Loa]], [[Nỏ Thần]], [[Thánh Issa]], [[Tartaria]], [[Tartaria và Vạn Lý Trường Thành]], [[Nibiru]], [[Nibiru và Nền Văn Minh Annunaki]].
+- **Energy, psyche & awakening** — expanded [[S.E.X]], [[Tình Yêu Tỉnh Thức]], [[Long Mạch]], [[Thực Thể Cõi Trung Giới]], [[Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]], [[Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]].
+- **Mental models & science revisionism** — matured [[Tâm Lý Học Jung]], [[Nguyên Mẫu]], [[Trí Tuệ]], [[Sợ hãi - Tham Lam – Cân bằng]], [[Khoa Học Chân Chính và Thượng Đế]], [[Pin Natri-ion]].
+- **Navigation status** — `index.md` + MOC layer remain the main entry system; `_docs/KNOWLEDGE-MAP.md` regenerated after the pass.
+
 ### May 30, 2026
 
 - **[[Cách Đọc Red Pill Wiki]]** — new meta guide for reading the vault without turning it into dogma.
