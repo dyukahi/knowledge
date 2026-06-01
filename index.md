@@ -136,9 +136,20 @@ Chọn path theo câu hỏi đang cháy nhất trong đầu. Không cần đọc
 
 ---
 
-## MOC Layer / Bản Đồ Chuyên Đề
+## Domain Gateways & MOC Layer / Cổng Chủ Đề & Bản Đồ Chuyên Đề
 
-Nếu `index.md` là cổng vào chính, các MOC dưới đây là bản đồ chuyên đề để đi sâu mà không bị lạc trong graph.
+Nếu `index.md` là cổng vào chính, **domain gateways** là landing pages để đi sâu theo từng vùng; các MOC là bản đồ chuyên đề cắt ngang nhiều folder.
+
+### Domain Gateways
+
+- [[crypto-finance/index|Crypto & Finance Gateway]] — money, Bitcoin, privacy, financial sovereignty
+- [[esoterica/index|Esoterica Gateway]] — Source, Monad, Gnosis, soul mechanics, hidden history
+- [[health/index|Health Sovereignty Gateway]] — terrain, metabolism, body sovereignty, medical-industrial critique
+- [[mental-models/index|Mental Models Gateway]] — psychology, discernment, thinking tools, Jungian maps
+- [[politics-conspiracy/index|Politics & Conspiracy Gateway]] — power structure, propaganda, controlled narratives
+- [[science-tech/index|Science & Tech Gateway]] — revisionist science, AI, cosmology, suppressed tech
+
+### MOC Layer
 
 - [[MOC - Esoterica & Consciousness]] — metaphysics, Source, Monad, Gnosis, soul mechanics
 - [[MOC - Health Sovereignty]] — body sovereignty, terrain, metabolic protocols
