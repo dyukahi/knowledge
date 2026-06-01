@@ -32,43 +32,65 @@ related:
 
 ## Curated Reading Paths
 
-### 1. Core Thinking Discipline
+### 1. Beginner Path — Thinking Tools Before Identity
 
-1. [[Mental Model]]
-2. [[Tư Duy Lũy Thừa]]
-3. [[Thông Minh vs Trí Tuệ]]
-4. [[Tâm bất Biến]]
-5. [[Nghịch Lý Của Hiểu Biết]]
+Orientation: start here to learn models as lenses, not new beliefs. The point is cleaner perception and better action.
 
-### 2. Jung, Shadow & Individuation
+1. [[Mental Model]] — define what a model is and is not.
+2. [[Tư Duy Lũy Thừa]] — learn compounding as thought discipline.
+3. [[Thông Minh vs Trí Tuệ]] — separate cleverness from wisdom.
+4. [[Tâm bất Biến]] — build inner stability before bigger claims.
+5. [[Nghịch Lý Của Hiểu Biết]] — keep certainty from hardening into ego.
 
-1. [[Tâm Lý Học Jung]]
-2. [[Nguyên Mẫu]]
-3. [[Vô Thức Tập Thể]]
-4. [[Individuation]]
-5. [[S.E.X Và Tâm Lý Học Jung]]
+### 2. Power-User Path — Jung, Shadow, Individuation
 
-### 3. Dopamine, Desire & Control
+Orientation: for readers ready to stop analyzing the world as a way to avoid the self. Jung is useful only when the shadow is brought home.
 
-1. [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]
-2. [[Bộ Não Rỗng và AI Brain Rot]]
-3. [[Schadenfreude - Dopamine Phản Diện]]
-4. [[Sợ hãi - Tham Lam – Cân bằng]]
-5. [[Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien]]
+1. [[Tâm Lý Học Jung]] — enter the symbolic psychology frame.
+2. [[Nguyên Mẫu]] — learn archetypes as recurring psychic forms.
+3. [[Vô Thức Tập Thể]] — expand from personal mind to shared pattern.
+4. [[Individuation]] — move toward integration instead of persona polishing.
+5. [[S.E.X Và Tâm Lý Học Jung]] — apply shadow work to desire and relationship.
 
-### 4. Duality, Identity & Perception
+### 3. High-Risk Caution Path — Dopamine, Addiction, Manipulation
 
-1. [[Nhị Nguyên]]
-2. [[Chia Tách Bởi Nhị Nguyên]]
-3. [[Sự Thật Ẩn Sau Con Người Bạn]]
-4. [[Privacy Is The New Wealth]]
+Orientation: this path can become self-shame if read badly. Use it to understand loops, triggers and incentives, then recover agency.
 
-### 5. Gen Z, Compliance & Future Self
+1. [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — map desire as economy.
+2. [[Bộ Não Rỗng và AI Brain Rot]] — examine cognitive outsourcing and attention decay.
+3. [[Schadenfreude - Dopamine Phản Diện]] — identify the dark reward loop.
+4. [[Sợ hãi - Tham Lam – Cân bằng]] — study the market inside the nervous system.
+5. [[Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien]] — read addiction anatomy without moral theater.
 
-1. [[Gen Z - Phân Tích Phản Biện]]
-2. [[Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa]]
-3. [[Climate Anxiety as Control - Fear-Based Compliance]]
-4. [[UBI Conditioning - The End of Work Ethic]]
+### 4. Perception Path — Duality, Identity, Self-Deception
+
+Orientation: use this when the mind keeps splitting reality into enemies and saviors. The path returns every model to the observer.
+
+1. [[Nhị Nguyên]] — define the split.
+2. [[Chia Tách Bởi Nhị Nguyên]] — see how division becomes control surface.
+3. [[Sự Thật Ẩn Sau Con Người Bạn]] — turn the lens inward.
+4. [[Tâm bất Biến]] — stabilize before reacting.
+5. [[Privacy Is The New Wealth]] — connect inner boundary to outer sovereignty.
+
+### 5. Cross-Domain Bridge Path — Gen Z, Compliance, Future Self
+
+Orientation: this bridge links psychology to politics, finance and tech. It asks how a generation is trained before it is governed.
+
+1. [[Gen Z - Phân Tích Phản Biện]] — start with the generational profile.
+2. [[Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa]] — read fragility and exhaustion without contempt.
+3. [[Climate Anxiety as Control - Fear-Based Compliance]] — connect fear to policy obedience.
+4. [[UBI Conditioning - The End of Work Ethic]] — follow dependency as psychology.
+5. [[Gen Z và CBDC - Programmable Money Psychology]] — bridge into financial control.
+
+### 6. AI-Age Agency Path — Mind Versus Machine
+
+Orientation: for readers dealing with algorithmic worldview, AI dependence and attention collapse. The route keeps intelligence under human command.
+
+1. [[Bộ Não Rỗng và AI Brain Rot]] — diagnose cognitive offload.
+2. [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — study algorithmic worldview shaping.
+3. [[AI]] — place machine intelligence in the larger agency question.
+4. [[Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]] — read AI as civilizational and spiritual test.
+5. [[Thông Minh vs Trí Tuệ]] — return to wisdom as the final filter.
 
 ---
 

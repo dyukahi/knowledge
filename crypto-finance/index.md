@@ -33,41 +33,55 @@ related:
 
 ## Curated Reading Paths
 
-### 1. Money Literacy Foundation
+### 1. Beginner Path — Money Literacy Before Markets
 
-1. [[Điều Mà Trường Học Không Dạy Về Tiền]]
-2. [[Tiền tiền tiền]]
-3. [[Tiền Giấy - Tiền Mặt]]
-4. [[Tiền Pháp Định]]
+Orientation: start here if money still feels like salary, price and bank balance. This path builds the base layer before Bitcoin, CBDC or charts.
 
-### 2. Bitcoin Exit Path
+1. [[Điều Mà Trường Học Không Dạy Về Tiền]] — expose the missing curriculum.
+2. [[Tiền tiền tiền]] — read money as stored attention, labor and choice.
+3. [[Tiền Giấy - Tiền Mặt]] — separate cash, paper promise and permission rail.
+4. [[Tiền Pháp Định]] — see fiat as debt architecture, not neutral medium.
+5. [[Giàu Không Nhờ May Mắn]] — move from complaint into agency and production.
 
-1. [[Bitcoin]]
-2. [[Bitcoin Sẽ Chết Nếu Không Có Privacy]]
-3. [[Privacy]]
-4. [[Privacy Is The New Wealth]]
+### 2. Power-User Path — Bitcoin, Privacy, Exit
 
-### 3. Fiat, CBDC & Programmable Compliance
+Orientation: for readers ready to treat Bitcoin as sovereignty infrastructure, not a ticker. The order moves from base money to the privacy layer that keeps exit alive.
 
-1. [[Tiền Pháp Định]]
-2. [[Gen Z và CBDC - Programmable Money Psychology]]
-3. [[Digital ID Normalization - From Instagram to Government ID]]
-4. [[UBI Conditioning - The End of Work Ethic]]
-5. [[Báo Cáo 2030]]
+1. [[Bitcoin]] — anchor the exit-money thesis.
+2. [[Bitcoin Sẽ Chết Nếu Không Có Privacy]] — stress-test transparent money as control surface.
+3. [[Privacy]] — define privacy as boundary, not secrecy theater.
+4. [[Privacy Is The New Wealth]] — connect financial privacy to status, leverage and survival.
+5. [[Secular Market]] — place conviction inside long-cycle market discipline.
 
-### 4. Wealth Psychology & Compounding
+### 3. High-Risk Caution Path — CBDC, UBI, Programmable Compliance
 
-1. [[Giàu Không Nhờ May Mắn]]
-2. [[Tư Duy Lũy Thừa]]
-3. [[Secular Market]]
-4. [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]
+Orientation: read this path slowly. It can become panic porn if the reader skips claim layers, but it is essential for understanding how money becomes behavior management.
 
-### 5. Privacy As Boundary
+1. [[Tiền Pháp Định]] — establish why centralized issuance matters.
+2. [[Gen Z và CBDC - Programmable Money Psychology]] — study programmable money as training, not just policy.
+3. [[Digital ID Normalization - From Instagram to Government ID]] — follow identity as the access layer.
+4. [[UBI Conditioning - The End of Work Ethic]] — examine dependency as incentive design.
+5. [[Báo Cáo 2030]] — map the governance stack behind the financial rail.
 
-1. [[Privacy]]
-2. [[Privacy Is The New Wealth]]
-3. [[Kiểm Soát Tâm Trí]]
-4. [[Ma Trận]]
+### 4. Wealth Psychology Path — Time Preference & Desire
+
+Orientation: sovereignty fails when the nervous system is still owned by impulse. This path links money to patience, compounding and dopamine discipline.
+
+1. [[Giàu Không Nhờ May Mắn]] — start with production, leverage and ownership.
+2. [[Tư Duy Lũy Thừa]] — install compounding as mental operating system.
+3. [[Secular Market]] — learn patience across long waves.
+4. [[Sợ hãi - Tham Lam – Cân bằng]] — watch fear and greed hijack allocation.
+5. [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — see desire as the market under the market.
+
+### 5. Cross-Domain Bridge Path — Money, Mind, Power
+
+Orientation: use this when finance starts touching politics, psychology and esoterica. The bridge shows why money is also a spell, a governance API and a boundary test.
+
+1. [[Privacy]] — begin with the personal boundary.
+2. [[Kiểm Soát Tâm Trí]] — connect money rails to attention and behavior control.
+3. [[Ma Trận]] — read finance as one subsystem inside perception management.
+4. [[Digital ID Normalization - From Instagram to Government ID]] — bridge into technocratic identity.
+5. [[Báo Cáo 2030]] — zoom out to the policy architecture.
 
 ---
 

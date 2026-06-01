@@ -33,42 +33,65 @@ Giữ đầu lạnh. Một số bài chạm vào 9/11, UAP, Agenda 2030, NASA/Di
 
 ## Curated Reading Paths
 
-### 1. Power Structure Foundation
+### 1. Beginner Path — Power Structure Without Hysteria
 
-1. [[Elite]]
-2. [[Cabal]]
-3. [[Ma Trận]]
-4. [[Kiểm Soát Tâm Trí]]
-5. [[Báo Cáo 2030]]
+Orientation: start with structure before spectacle. The question is not "who can I blame?" but "which incentives, institutions and narratives repeat?"
 
-### 2. Agenda 2030, Identity & Compliance
+1. [[Elite]] — define the power-structure lens.
+2. [[Cabal]] — read coordination claims with layer discipline.
+3. [[Ma Trận]] — place politics inside perception management.
+4. [[Kiểm Soát Tâm Trí]] — study attention and fear as infrastructure.
+5. [[Điều mà nền giáo dục và chính phủ không dạy bạn]] — return to the civic blind spot.
 
-1. [[Báo Cáo 2030]]
-2. [[Digital ID Normalization - From Instagram to Government ID]]
-3. [[Gen Z và CBDC - Programmable Money Psychology]]
-4. [[Climate Anxiety as Control - Fear-Based Compliance]]
-5. [[UBI Conditioning - The End of Work Ethic]]
+### 2. Power-User Path — Governance Stack & Compliance
 
-### 3. Disclosure, Space & Controlled Revelation
+Orientation: for readers ready to connect climate, identity, money, welfare and data into one policy architecture.
 
-1. [[UAP Disclosure - Controlled Revelation]]
-2. [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]]
-3. [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]
-4. [[Karma Disclosure - Truth Hidden In Plain Sight]]
+1. [[Báo Cáo 2030]] — map the multi-domain governance stack.
+2. [[Digital ID Normalization - From Instagram to Government ID]] — follow identity as the access layer.
+3. [[Gen Z và CBDC - Programmable Money Psychology]] — connect money to programmable behavior.
+4. [[Climate Anxiety as Control - Fear-Based Compliance]] — see fear as compliance fuel.
+5. [[UBI Conditioning - The End of Work Ethic]] — examine dependency as statecraft.
 
-### 4. War, History & Statecraft
+### 3. High-Risk Caution Path — Events, Evidence, Controlled Opposition
 
-1. [[Operation Paperclip]]
-2. [[Thế Chiến - Chiến Dịch Dọn Dẹp]]
-3. [[Sự Thật Về Vụ Sập Tháp Đôi WTC]]
-4. [[Nam Cực - Bí Mật Được Canh Giữ]]
+Orientation: this is the dangerous shelf. Treat each claim by evidence level, keep official record, anomalies and speculative synthesis separate.
 
-### 5. Addiction, Sex & Social Control
+1. [[Sự Thật Về Vụ Sập Tháp Đôi WTC]] — practice evidence separation on a high-risk event.
+2. [[Operation Paperclip]] — anchor hidden statecraft in documented history.
+3. [[Thế Chiến - Chiến Dịch Dọn Dẹp]] — read war as cleanup and reset hypothesis.
+4. [[Nam Cực - Bí Mật Được Canh Giữ]] — enter guarded geography without losing claim discipline.
+5. [[Dark MAGA]] — test controlled-opposition and symbolic-politics readings.
 
-1. [[Sự thật về ma túy]]
-2. [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
-3. [[MindGeek]]
-4. [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]
+### 4. Disclosure Path — Space, UAP, Ritual Tech
+
+Orientation: disclosure is rarely just revelation. This route reads timing, theater, space mythology and limited hangout.
+
+1. [[UAP Disclosure - Controlled Revelation]] — start with disclosure as management.
+2. [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]] — study tech spectacle and ritual timing.
+3. [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]] — connect NASA, Disney and Hollywood as myth engines.
+4. [[Karma Disclosure - Truth Hidden In Plain Sight]] — see revelation as consent ritual.
+5. [[Mô Hình Địa Tâm]] — bridge into cosmology as contested worldview.
+
+### 5. Social Control Path — Addiction, Sex, Reward Loops
+
+Orientation: politics does not stop at elections. It enters the body through reward, shame, porn, drugs and attention.
+
+1. [[Sự thật về ma túy]] — map chemical control and social damage.
+2. [[Sự Thật Đen Tối Về Phim Khiêu Dâm]] — study pornography as behavior conditioning.
+3. [[MindGeek]] — follow platform ownership and distribution.
+4. [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — connect addiction to market design.
+5. [[S.E.X]] — bridge into energy, intimacy and esoterica.
+
+### 6. Cross-Domain Bridge Path — Hidden History, Earth, Cosmology
+
+Orientation: use this when political power starts managing history, maps and cosmology. The bridge connects state narrative to memory of the world itself.
+
+1. [[Mudflood]] — enter reset-history politics.
+2. [[Trái Đất Phẳng]] — read cosmology as power narrative, not just geometry argument.
+3. [[Bức Tường Băng]] — connect geography to boundary mythology.
+4. [[Nam Cực - Bí Mật Được Canh Giữ]] — follow guarded terrain.
+5. [[Tartaria]] — bridge into esoterica and ancient memory.
 
 ---
 

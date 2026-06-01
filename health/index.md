@@ -33,41 +33,55 @@ related:
 
 ## Curated Reading Paths
 
-### 1. Health Sovereignty Foundation
+### 1. Beginner Path — Body Literacy Before Protocol
 
-1. [[Y Tế Tự Nhiên]]
-2. [[MOC - Health Sovereignty]]
-3. [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]]
-4. [[Cơ Chế Tự Bảo Vệ Của Cơ Thể]]
+Orientation: start here if health has been reduced to diagnosis, pills and fear. The goal is not rebellion for its own sake; it is learning to read the body again.
 
-### 2. Terrain, Immunity & Microbe Lens
+1. [[Y Tế Tự Nhiên]] — establish sovereignty without rejecting emergency care.
+2. [[MOC - Health Sovereignty]] — see the domain map before the rabbit holes.
+3. [[Cơ Chế Tự Bảo Vệ Của Cơ Thể]] — treat symptoms as signals before enemies.
+4. [[Hệ Tiêu Hóa - Bộ Não Thứ Hai]] — ground health in gut, terrain and regulation.
+5. [[Công Thức Chữa Lành Tự Nhiên]] — turn principles into a simple self-care frame.
 
-1. [[Thuyết Vi Sinh Nội Sinh]]
-2. [[Hệ Tiêu Hóa - Bộ Não Thứ Hai]]
-3. [[Công Thức Chữa Lành Tự Nhiên]]
-4. [[Virus và Kiếp Tật Dịch]]
+### 2. Power-User Path — Terrain, Immunity, Metabolism
 
-### 3. Metabolic Cancer Path
+Orientation: for readers ready to move past germ-war slogans into terrain, energy and metabolic context. Keep mechanisms distinct from protocols.
 
-1. [[Ung Thư - Metabolic Protocol]]
-2. [[Ketogenic Diet]]
-3. [[Prolonged Fasting]]
-4. [[Mebendazole - Thuốc Tẩy Giun Chống Ung Thư]]
-5. [[Suramin]]
+1. [[Thuyết Vi Sinh Nội Sinh]] — enter terrain theory as model, not dogma.
+2. [[Virus và Kiếp Tật Dịch]] — read contagion narratives through fear and biology.
+3. [[Ketogenic Diet]] — study metabolic switching.
+4. [[Prolonged Fasting]] — examine repair, autophagy and restraint.
+5. [[René Quinton và Huyết Tương Biển]] — connect mineral terrain to sea-plasma theory.
 
-### 4. Body, Salt, Light & Pineal Interface
+### 3. High-Risk Caution Path — Cancer, Drugs, Medical Decisions
 
-1. [[Tuyến Tùng]]
-2. [[Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh]]
-3. [[Plasma Quinton]]
-4. [[Tần số cộng hưởng giữa Muối và Tuyến tùng]]
+Orientation: this path is for research literacy, not self-treatment. Anything involving cancer, repurposed drugs or serious disease belongs beside qualified care and careful source review.
 
-### 5. Medical Matrix & Industrial Capture
+1. [[Ung Thư - Metabolic Protocol]] — read the metabolic thesis with caution labels on.
+2. [[Ketogenic Diet]] — understand why fuel metabolism enters the cancer discussion.
+3. [[Prolonged Fasting]] — separate therapeutic fasting claims from personal risk.
+4. [[Mebendazole - Thuốc Tẩy Giun Chống Ung Thư]] — examine repurposed-drug claims.
+5. [[Suramin]] — keep experimental compounds in the high-risk bucket.
 
-1. [[Thuốc Hóa Dầu]]
-2. [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]]
-3. [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
-4. [[Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ]]
+### 4. Medical Matrix Path — Incentives, Fear, Capture
+
+Orientation: this route studies the institution, not individual doctors as villains. Follow money, liability, protocol and narrative.
+
+1. [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]] — start with the institutional lens.
+2. [[Thuốc Hóa Dầu]] — trace pharma, petroleum chemistry and dependency.
+3. [[Vận Chín, Người Kogi và Ma Trận Y Tế]] — connect modern medicine to worldview control.
+4. [[Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ]] — see sacred medicine turned commodity.
+5. [[Báo Cáo 2030]] — bridge health into governance and compliance.
+
+### 5. Cross-Domain Bridge Path — Salt, Pineal, Energy Body
+
+Orientation: use this bridge when health becomes esoterica and science-tech at once. Read the body as chemistry, temple and antenna, but keep claim layers clean.
+
+1. [[Tuyến Tùng]] — enter the pineal as biological and symbolic node.
+2. [[Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh]] — read salt as mineral, memory and myth.
+3. [[Plasma Quinton]] — connect sea water, plasma and terrain.
+4. [[Tần số cộng hưởng giữa Muối và Tuyến tùng]] — hold resonance claims carefully.
+5. [[Giải Mã Vũ Trụ - Y Tế - Tâm Linh]] — cross into cosmology and spiritual medicine.
 
 ---
 

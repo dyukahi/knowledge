@@ -7,7 +7,7 @@
 - **Notes scanned:** 188
 - **Top-level domains:** 7
 - **Tags detected:** 178
-- **Resolved internal edges:** 1892
+- **Resolved internal edges:** 1916
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 2
 
@@ -28,12 +28,12 @@ Recommended note types:
 - [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `117`, backlinks `91`, outlinks `26` — #consciousness, #control-system, #esoterica, #matrix
 - [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `54`, backlinks `42`, outlinks `12` — #consciousness, #esoterica, #gnosis, #matrix
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `54`, backlinks `23`, outlinks `31` — #consciousness, #esoterica, #matrix, #meta
-- [[esoterica/index|Esoterica Domain Gateway]] — degree `38`, backlinks `4`, outlinks `34` — #consciousness, #domain-gateway, #esoterica
+- [[esoterica/index|Esoterica Domain Gateway]] — degree `43`, backlinks `4`, outlinks `39` — #consciousness, #domain-gateway, #esoterica
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `37`, backlinks `26`, outlinks `11` — #consciousness, #esoterica, #metaphysics
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `36`, backlinks `27`, outlinks `9` — #consciousness, #esoterica, #non-duality
 - [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `35`, backlinks `7`, outlinks `28` — #awakening, #energy, #esoterica, #gnosis, #matrix
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]] — degree `33`, backlinks `23`, outlinks `10` — #esoterica
-- [[esoterica/Tartaria|Tartaria]] — degree `29`, backlinks `22`, outlinks `7` — #esoterica
+- [[esoterica/Tartaria|Tartaria]] — degree `30`, backlinks `23`, outlinks `7` — #esoterica
 - [[esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh - Năng Lượng Thu Hoạch Từ Con Người]] — degree `27`, backlinks `17`, outlinks `10` — #consciousness, #esoterica, #matrix
 - [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]] — degree `26`, backlinks `18`, outlinks `8` — #esoterica, #occult, #predictive-programming
 - [[esoterica/Karma Disclosure - Truth Hidden In Plain Sight|Karma Disclosure - Truth Hidden In Plain Sight]] — degree `26`, backlinks `15`, outlinks `11` — #conspiracy, #esoterica, #karma
@@ -44,8 +44,8 @@ Recommended note types:
 - [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `48`, backlinks `38`, outlinks `10` — #health
 - [[health/Thuyết Vi Sinh Nội Sinh|Thuyết Vi Sinh Nội Sinh (Terrain Theory)]] — degree `31`, backlinks `22`, outlinks `9` — #health, #terrain-theory
 - [[health/Tuyến Tùng|Tuyến Tùng]] — degree `31`, backlinks `21`, outlinks `10` — #consciousness, #esoterica, #health
-- [[health/index|Health Domain Gateway]] — degree `28`, backlinks `2`, outlinks `26` — #domain-gateway, #health, #sovereignty
-- [[health/Kính Chiếu Yêu - Nhìn Thấu Tây Y|Kính Chiếu Yêu — Nhìn Thấu Tây Y]] — degree `26`, backlinks `17`, outlinks `9` — #health
+- [[health/index|Health Domain Gateway]] — degree `30`, backlinks `2`, outlinks `28` — #domain-gateway, #health, #sovereignty
+- [[health/Kính Chiếu Yêu - Nhìn Thấu Tây Y|Kính Chiếu Yêu — Nhìn Thấu Tây Y]] — degree `27`, backlinks `18`, outlinks `9` — #health
 - [[health/René Quinton và Huyết Tương Biển|René Quinton và Huyết Tương Biển]] — degree `20`, backlinks `15`, outlinks `5` — #health, #minerals, #seawater, #terrain-theory
 - [[health/Vận Chín, Người Kogi và Ma Trận Y Tế|Vận Chín, Người Kogi và Ma Trận Y Tế]] — degree `18`, backlinks `5`, outlinks `13` — #awakening, #health, #kogi, #matrix, #pineal-gland
 - [[health/Ung Thư - Metabolic Protocol|Ung Thư — Metabolic Protocol]] — degree `17`, backlinks `10`, outlinks `7` — #cancer, #health, #metabolic-therapy, #protocol
@@ -58,31 +58,31 @@ Recommended note types:
 ### Mental Models / Mô hình tư duy `mental-models` — 27 notes
 
 - [[mental-models/Individuation|Individuation]] — degree `46`, backlinks `38`, outlinks `8` — #consciousness, #jung, #mental-model
-- [[mental-models/index|Mental Models Domain Gateway]] — degree `37`, backlinks `5`, outlinks `32` — #domain-gateway, #epistemology, #mental-model
+- [[mental-models/index|Mental Models Domain Gateway]] — degree `41`, backlinks `5`, outlinks `36` — #domain-gateway, #epistemology, #mental-model
 - [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]] — degree `35`, backlinks `29`, outlinks `6` — #consciousness, #mental-model
 - [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `33`, backlinks `25`, outlinks `8` — #consciousness, #jung, #mental-model
 - [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]] — degree `29`, backlinks `22`, outlinks `7` — #consciousness, #jung, #mental-model, #psychology
 - [[mental-models/Bộ Não Rỗng và AI Brain Rot|Bộ Não Rỗng và AI Brain Rot]] — degree `26`, backlinks `9`, outlinks `17` — #ai, #consciousness, #mental-model, #technology
 - [[mental-models/Trí Tuệ|Trí Tuệ]] — degree `25`, backlinks `19`, outlinks `6` — #mental-model, #philosophy
+- [[mental-models/Mô Hình Địa Tâm|Mô Hình Địa Tâm (Geocentrism)]] — degree `24`, backlinks `18`, outlinks `6` — #cosmology, #esoterica, #mental-model, #science-tech
 - [[mental-models/S.E.X Và Tâm Lý Học Jung|S.E.X Và Tâm Lý Học Jung]] — degree `24`, backlinks `11`, outlinks `13` — #esoterica, #mental-model, #psychology
-- [[mental-models/Mô Hình Địa Tâm|Mô Hình Địa Tâm (Geocentrism)]] — degree `23`, backlinks `17`, outlinks `6` — #cosmology, #esoterica, #mental-model, #science-tech
 - [[mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính|Tâm Lý Học Tiến Hóa Về Giới Tính]] — degree `23`, backlinks `1`, outlinks `22` — #mental-models
 - [[mental-models/Gen Z - Phân Tích Phản Biện|Gen Z - Phân Tích Phản Biện]] — degree `22`, backlinks `11`, outlinks `11` — #agenda-2030, #generation, #mental-model, #psychology, #society
-- [[mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — degree `20`, backlinks `13`, outlinks `7` — #matrix, #mental-model, #psychology, #social-media
+- [[mental-models/Thông Minh vs Trí Tuệ|Thông Minh vs Trí Tuệ]] — degree `21`, backlinks `13`, outlinks `8` — #mental-model, #philosophy
 - … 15 more notes in this domain. See JSON for full list.
 
 ### Politics & Conspiracy `politics-conspiracy` — 24 notes
 
 - [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `93`, backlinks `59`, outlinks `34` — #matrix, #politics-conspiracy, #power-structure
 - [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `52`, backlinks `42`, outlinks `10` — #consciousness, #politics-conspiracy, #propaganda
-- [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `42`, backlinks `33`, outlinks `9` — #agenda-2030, #governance, #politics-conspiracy
-- [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `32`, backlinks `4`, outlinks `28` — #domain-gateway, #politics-conspiracy, #power-structure
+- [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `43`, backlinks `34`, outlinks `9` — #agenda-2030, #governance, #politics-conspiracy
+- [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `40`, backlinks `4`, outlinks `36` — #domain-gateway, #politics-conspiracy, #power-structure
 - [[politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood|Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood]] — degree `26`, backlinks `13`, outlinks `13` — #conspiracy, #elite, #mind-control, #occult, #predictive-programming
 - [[politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm|Sự Thật Đen Tối Về Phim Khiêu Dâm]] — degree `26`, backlinks `18`, outlinks `8` — #dopamine, #esoterica, #politics-conspiracy
-- [[politics-conspiracy/Bức Tường Băng|Bức Tường Băng (Ice Wall)]] — degree `23`, backlinks `11`, outlinks `12` — #esoterica, #politics-conspiracy
+- [[politics-conspiracy/Bức Tường Băng|Bức Tường Băng (Ice Wall)]] — degree `24`, backlinks `12`, outlinks `12` — #esoterica, #politics-conspiracy
 - [[politics-conspiracy/Thuyết Trái Đất Phẳng|Thuyết Trái Đất Phẳng (Flat Earth Theory)]] — degree `22`, backlinks `15`, outlinks `7` — #cosmology, #epistemology, #esoterica, #politics-conspiracy
 - [[politics-conspiracy/Khế Ước Bí Mật Rockefeller|Khế Ước Bí Mật Rockefeller (The Secret Covenant)]] — degree `21`, backlinks `10`, outlinks `11` — #conspiracy, #control, #elite, #matrix, #politics-conspiracy
-- [[politics-conspiracy/Mudflood|Mudflood (Đại Hồng Thủy Bùn)]] — degree `20`, backlinks `8`, outlinks `12` — #politics-conspiracy
+- [[politics-conspiracy/Mudflood|Mudflood (Đại Hồng Thủy Bùn)]] — degree `21`, backlinks `9`, outlinks `12` — #politics-conspiracy
 - [[politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ|Nam Cực - Bí Mật Được Canh Giữ]] — degree `20`, backlinks `8`, outlinks `12` — #antarctica, #conspiracy, #elite, #flat-earth, #nazi
 - [[politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp|Thế Chiến — Chiến Dịch Dọn Dẹp]] — degree `17`, backlinks `4`, outlinks `13` — #conspiracy, #history, #old-world, #tartaria, #ww1
 - … 12 more notes in this domain. See JSON for full list.
@@ -90,24 +90,24 @@ Recommended note types:
 ### Science & Tech `science-tech` — 17 notes
 
 - [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]] — degree `79`, backlinks `53`, outlinks `26` — #epistemology, #revisionist-science, #science-tech
-- [[science-tech/index|Science & Tech Domain Gateway]] — degree `35`, backlinks `5`, outlinks `30` — #domain-gateway, #revisionist-science, #science-tech
+- [[science-tech/index|Science & Tech Domain Gateway]] — degree `39`, backlinks `5`, outlinks `34` — #domain-gateway, #revisionist-science, #science-tech
 - [[science-tech/Năng Lượng Aether|Năng Lượng Aether]] — degree `28`, backlinks `22`, outlinks `6` — #revisionist-science, #science-tech
 - [[science-tech/Nikola Tesla|Nikola Tesla]] — degree `26`, backlinks `19`, outlinks `7` — #science-tech
 - [[science-tech/Tần Số Schumann|Tần Số Schumann (Schumann Resonance)]] — degree `22`, backlinks `14`, outlinks `8` — #consciousness, #earth-frequency, #science-tech
 - [[science-tech/Digital ID Normalization - From Instagram to Government ID|Digital ID Normalization - From Instagram to Government ID]] — degree `21`, backlinks `12`, outlinks `9` — #agenda-2030, #generation, #psychology, #science-tech, #surveillance
+- [[science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z|TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z?]] — degree `18`, backlinks `10`, outlinks `8` — #agenda-2030, #generation, #information-warfare, #psychology, #science-tech
 - [[science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope|Transhumanism và Gen Z - Cool Tech hay Slippery Slope?]] — degree `18`, backlinks `7`, outlinks `11` — #agenda-2030, #generation, #psychology, #science-tech, #transhumanism
-- [[science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z|TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z?]] — degree `17`, backlinks `9`, outlinks `8` — #agenda-2030, #generation, #information-warfare, #psychology, #science-tech
-- [[science-tech/AI|AI]] — degree `16`, backlinks `10`, outlinks `6` — #consciousness, #esoterica, #science-tech
+- [[science-tech/AI|AI]] — degree `17`, backlinks `11`, outlinks `6` — #consciousness, #esoterica, #science-tech
 - [[science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ|Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]] — degree `16`, backlinks `6`, outlinks `10` — #1, #2, #3, #4, #5
-- [[science-tech/Vũ Khí Năng Lượng Định Hướng|Vũ Khí Năng Lượng Định Hướng]] — degree `13`, backlinks `9`, outlinks `4` — #defense-tech, #revisionist-science, #science-tech
-- [[science-tech/Walter Russell|Walter Russell]] — degree `13`, backlinks `7`, outlinks `6` — #science-tech
+- [[science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại|Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]] — degree `13`, backlinks `2`, outlinks `11` — #ai, #atula, #buddhism, #karma, #occult
+- [[science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad|Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]] — degree `13`, backlinks `4`, outlinks `9` — #awakening, #long-mach, #monad, #natural-disasters, #philosophy
 - … 5 more notes in this domain. See JSON for full list.
 
 ### Crypto & Finance `crypto-finance` — 11 notes
 
 - [[crypto-finance/Bitcoin|Bitcoin]] — degree `33`, backlinks `20`, outlinks `13` — #crypto-finance
-- [[crypto-finance/index|Crypto & Finance Domain Gateway]] — degree `27`, backlinks `3`, outlinks `24` — #crypto-finance, #domain-gateway, #financial-sovereignty
-- [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]] — degree `23`, backlinks `17`, outlinks `6` — #1, #agenda-2030, #cbdc, #crypto-finance, #generation
+- [[crypto-finance/index|Crypto & Finance Domain Gateway]] — degree `28`, backlinks `3`, outlinks `25` — #crypto-finance, #domain-gateway, #financial-sovereignty
+- [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]] — degree `25`, backlinks `19`, outlinks `6` — #1, #agenda-2030, #cbdc, #crypto-finance, #generation
 - [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]] — degree `23`, backlinks `12`, outlinks `11` — #crypto-finance
 - [[crypto-finance/Tiền Giấy - Tiền Mặt|Tiền Giấy - Tiền Mặt (Fiat Currency)]] — degree `23`, backlinks `19`, outlinks `4` — #crypto-finance, #privacy
 - [[crypto-finance/Tiền Pháp Định|Tiền Pháp Định (Fiat Currency)]] — degree `16`, backlinks `8`, outlinks `8` — #crypto-finance
@@ -152,28 +152,28 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…
 9. [[mental-models/Individuation|Individuation]] — degree `46` · backlinks `38` · outlinks `8`
    - **Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là bước tâ…
-10. [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `42` · backlinks `33` · outlinks `9`
+10. [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `43` · backlinks `34` · outlinks `9`
    - **Agenda 2030 nên được đọc như một stack hạ tầng quản trị: khí hậu, y tế, tiền tệ, danh tính số, thành phố thông minh, dữ liệu hành vi và truyền thông đạo đức được ghép lại thành permission architecture.** Bề mặt là phát triển bền vững; câu hỏi vault giữ lại…
-11. [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `41` · backlinks `25` · outlinks `16`
-   - **Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng.**
-12. [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `40` · backlinks `24` · outlinks `16`
-   - **Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**
-13. [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `39` · backlinks `23` · outlinks `16`
-   - **Science Revisionism trong vault không phải phản khoa học. Nó là phân biệt science như method với science như institution, rồi dám hỏi lại những giả định được biến thành giáo điều.**
-14. [[esoterica/index|Esoterica Domain Gateway]] — degree `38` · backlinks `4` · outlinks `34`
+11. [[esoterica/index|Esoterica Domain Gateway]] — degree `43` · backlinks `4` · outlinks `39`
    - **Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…
-15. [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `37` · backlinks `26` · outlinks `11`
-   - **Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân…
-16. [[mental-models/index|Mental Models Domain Gateway]] — degree `37` · backlinks `5` · outlinks `32`
+12. [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `41` · backlinks `25` · outlinks `16`
+   - **Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng.**
+13. [[mental-models/index|Mental Models Domain Gateway]] — degree `41` · backlinks `5` · outlinks `36`
    - **Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…
-17. [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `36` · backlinks `27` · outlinks `9`
+14. [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `40` · backlinks `24` · outlinks `16`
+   - **Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**
+15. [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `40` · backlinks `4` · outlinks `36`
+   - **Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng "âm…
+16. [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `39` · backlinks `23` · outlinks `16`
+   - **Science Revisionism trong vault không phải phản khoa học. Nó là phân biệt science như method với science như institution, rồi dám hỏi lại những giả định được biến thành giáo điều.**
+17. [[science-tech/index|Science & Tech Domain Gateway]] — degree `39` · backlinks `5` · outlinks `34`
+   - **Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…
+18. [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `37` · backlinks `26` · outlinks `11`
+   - **Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân…
+19. [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `36` · backlinks `27` · outlinks `9`
    - **Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh — ta/người, sáng/tối, tinh thần/vật chất, thắng/thua — có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qu…
-18. [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]] — degree `35` · backlinks `29` · outlinks `6`
+20. [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]] — degree `35` · backlinks `29` · outlinks `6`
    - **Nhị nguyên là cơ chế Một tự phân cực thành hai để tạo trải nghiệm: sáng/tối, nam/nữ, âm/dương, đúng/sai, ta/địch.** Nó không xấu; nó là grammar của cõi vật chất. Cái bẫy bắt đầu khi con người quên field lớn hơn và để hai cực dựng thành nhà tù nhận thức.
-19. [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `35` · backlinks `11` · outlinks `24`
-   - **Bản đồ này gom các note về consciousness, metaphysics, occult, archetype và những cấu trúc tâm linh đứng phía sau Ma Trận. Đây là tầng Source/Spirit của vault.**
-20. [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `35` · backlinks `7` · outlinks `28`
-   - Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng.
 
 ## Tag Constellations
 
@@ -232,8 +232,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]]
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
-- [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]]
 - [[esoterica/Tartaria|Tartaria]]
+- [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]]
 
 ### MOC - Health Sovereignty
 
@@ -248,7 +248,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[science-tech/Tần Số Schumann|Tần Số Schumann (Schumann Resonance)]]
 - [[science-tech/Digital ID Normalization - From Instagram to Government ID|Digital ID Normalization - From Instagram to Government ID]]
 - [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]]
-- [[health/Cơ Chế Tự Bảo Vệ Của Cơ Thể|Cơ Chế Tự Bảo Vệ Của Cơ Thể]]
+- [[science-tech/AI|AI]]
 
 ### MOC - Epistemology & Propaganda
 
@@ -261,8 +261,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]]
 - [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]]
 - [[mental-models/Trí Tuệ|Trí Tuệ]]
-- [[politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm|Sự Thật Đen Tối Về Phim Khiêu Dâm]]
 - [[mental-models/Mô Hình Địa Tâm|Mô Hình Địa Tâm (Geocentrism)]]
+- [[politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm|Sự Thật Đen Tối Về Phim Khiêu Dâm]]
 - [[politics-conspiracy/Thuyết Trái Đất Phẳng|Thuyết Trái Đất Phẳng (Flat Earth Theory)]]
 
 ### MOC - Financial Sovereignty
@@ -272,8 +272,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]]
 - [[MOC - Health Sovereignty|MOC - Health Sovereignty]]
 - [[crypto-finance/Bitcoin|Bitcoin]]
-- [[crypto-finance/Tiền Giấy - Tiền Mặt|Tiền Giấy - Tiền Mặt (Fiat Currency)]]
 - [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]]
+- [[crypto-finance/Tiền Giấy - Tiền Mặt|Tiền Giấy - Tiền Mặt (Fiat Currency)]]
 - [[politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm|Sự Thật Đen Tối Về Phim Khiêu Dâm]]
 - [[politics-conspiracy/Thuyết Trái Đất Phẳng|Thuyết Trái Đất Phẳng (Flat Earth Theory)]]
 - [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]]
@@ -292,8 +292,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]]
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
-- [[science-tech/Năng Lượng Aether|Năng Lượng Aether]]
 - [[esoterica/Tartaria|Tartaria]]
+- [[science-tech/Năng Lượng Aether|Năng Lượng Aether]]
 
 ### MOC - Science Revisionism
 
@@ -308,7 +308,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[health/Tuyến Tùng|Tuyến Tùng]]
 - [[science-tech/Nikola Tesla|Nikola Tesla]]
 - [[health/Kính Chiếu Yêu - Nhìn Thấu Tây Y|Kính Chiếu Yêu — Nhìn Thấu Tây Y]]
-- [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]]
+- [[mental-models/Mô Hình Địa Tâm|Mô Hình Địa Tâm (Geocentrism)]]
 
 ## Orphan / Low-Connectivity Notes
 
