@@ -11,7 +11,7 @@
       "science-tech": 16
     },
     "tags": 176,
-    "wikilinkEdges": 1713,
+    "wikilinkEdges": 1712,
     "brokenLinks": 0,
     "orphans": 2
   },
@@ -5745,7 +5745,7 @@
           "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
-        "words": 994,
+        "words": 1207,
         "summary": "**Terrain Theory nói một điều đơn giản nhưng bị làm phẳng: mầm bệnh không hành động trong chân không. Nó gặp một cơ thể có miễn dịch, ruột, dinh dưỡng, stress, độc chất, nhịp ngủ và bệnh nền riêng.** Vì vậy cùng một exposure có thể cho hai kết quả khác nhau.…"
       },
       {
@@ -6177,7 +6177,7 @@
           "mental-models/Thông Minh vs Trí Tuệ.md",
           "MOC - Health Sovereignty.md"
         ],
-        "words": 954,
+        "words": 1110,
         "summary": "**Triệu chứng không phải lúc nào cũng là kẻ thù; nhiều triệu chứng là cách cơ thể cô lập, đẩy ra, làm nóng, làm loãng, ho, ói, tiêu chảy hoặc nghỉ bắt buộc để bảo vệ terrain.** Nhưng hiểu cơ thể không có nghĩa là lãng mạn hóa nguy hiểm: sốt cao, mất nước, khó…"
       },
       {
@@ -8084,68 +8084,6 @@
         "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không.** Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trậ…"
       },
       {
-        "path": "mental-models/Mental Model.md",
-        "title": "Mental Model",
-        "domain": "mental-models",
-        "tags": [
-          "epistemology",
-          "mental-model"
-        ],
-        "aliases": [
-          "Cognitive Model",
-          "Mô Hình Tư Duy",
-          "Thinking Model"
-        ],
-        "headings": [
-          "Mental Model",
-          "Vault Position",
-          "Evidence Discipline / Cách Dùng Model",
-          "Bản Đồ Không Phải Lãnh Thổ",
-          "Model Nền Cần Có",
-          "Mental Models Against The Matrix",
-          "Kết Hợp Nhiều Model",
-          "Model Và Identity",
-          "Quy Trình Xây Thư Viện Model",
-          "Failure Modes",
-          "Chốt Lại",
-          "Related"
-        ],
-        "wikilinks": [
-          "Individuation",
-          "Khoa Học Xét Lại",
-          "Ma Trận",
-          "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
-          "Nhị Nguyên",
-          "Thông Minh vs Trí Tuệ",
-          "Tư Duy Lũy Thừa",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "index.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "MOC - Epistemology & Propaganda.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-        ],
-        "words": 1169,
-        "summary": "**Mental model là bản đồ vận hành của reality trong đầu bạn.** Người có model nghèo bị sự kiện kéo đi. Người có model tốt thấy cấu trúc phía sau sự kiện, dự đoán hậu quả tốt hơn và chọn phản ứng tỉnh hơn. Trong redpill.wiki, mental model không phải mẹo năng s…"
-      },
-      {
         "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "domain": "mental-models",
@@ -8211,10 +8149,73 @@
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
           "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
           "mental-models/Tư Duy Lũy Thừa.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
           "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
         ],
         "words": 892,
         "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
+      },
+      {
+        "path": "mental-models/Mental Model.md",
+        "title": "Mental Model",
+        "domain": "mental-models",
+        "tags": [
+          "epistemology",
+          "mental-model"
+        ],
+        "aliases": [
+          "Cognitive Model",
+          "Mô Hình Tư Duy",
+          "Thinking Model"
+        ],
+        "headings": [
+          "Mental Model",
+          "Vault Position",
+          "Evidence Discipline / Cách Dùng Model",
+          "Bản Đồ Không Phải Lãnh Thổ",
+          "Model Nền Cần Có",
+          "Mental Models Against The Matrix",
+          "Kết Hợp Nhiều Model",
+          "Model Và Identity",
+          "Quy Trình Xây Thư Viện Model",
+          "Failure Modes",
+          "Chốt Lại",
+          "Related"
+        ],
+        "wikilinks": [
+          "Individuation",
+          "Khoa Học Xét Lại",
+          "Ma Trận",
+          "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
+          "Nhị Nguyên",
+          "Thông Minh vs Trí Tuệ",
+          "Tư Duy Lũy Thừa",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "index.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "MOC - Epistemology & Propaganda.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        ],
+        "words": 1169,
+        "summary": "**Mental model là bản đồ vận hành của reality trong đầu bạn.** Người có model nghèo bị sự kiện kéo đi. Người có model tốt thấy cấu trúc phía sau sự kiện, dự đoán hậu quả tốt hơn và chọn phản ứng tỉnh hơn. Trong redpill.wiki, mental model không phải mẹo năng s…"
       },
       {
         "path": "mental-models/Tư Duy Lũy Thừa.md",
@@ -9147,43 +9148,33 @@
         "title": "Kiểm Soát Tâm Trí (Mind Control)",
         "domain": "politics-conspiracy",
         "tags": [
-          "politics-conspiracy"
+          "consciousness",
+          "politics-conspiracy",
+          "propaganda"
         ],
         "aliases": [],
         "headings": [
+          "Kiểm Soát Tâm Trí (Mind Control)",
+          "Vault Position / Vị Trí Trong Vault",
           "Evidence Discipline / Cách Đọc Claim",
           "Source Register / Nguồn Nên Đối Chiếu",
-          "Kiểm Soát Tâm Trí (Mind Control)",
-          "Các Tầng Kiểm Soát (Levels of Control)",
-          "Level 1: Giáo Dục (Education)",
-          "Level 2: Truyền Thông (Media)",
-          "Level 3: Giải Trí (Entertainment)",
-          "Level 4: Kiểm Soát Xã Hội (Social Control)",
-          "Level 5: Hóa Chất (Chemical)",
+          "Control Stack / Các Tầng Kiểm Soát",
           "Cướp Dopamine (Dopamine Hijacking)",
-          "Sản Phẩm \"Miễn Phí\" Gây Nghiện (Addictive \"Free\" Products)",
-          "Hậu Quả (Results)",
           "MK-Ultra & Beyond",
-          "Lịch sử (đã được ghi nhận) (Historical - Documented)",
-          "Suy Đoán Hiện Đại (Modern Speculation)",
+          "Chemical And Body Layer / Tầng Cơ Thể",
+          "Crisis Template / Mẫu Khủng Hoảng",
           "Thoát Khỏi (Breaking Free)",
-          "1. Chế Độ Thông Tin (Information Diet)",
-          "2. Detox Kỹ Thuật Số (Digital Detox)",
-          "3. Chủ Quyền Cơ Thể (Body Sovereignty)",
-          "4. Rèn Luyện Tâm Trí (Mind Training)",
-          "5. Cộng Đồng (Community)",
-          "Related"
+          "Core Insight / Chốt Lại"
         ],
         "wikilinks": [
           "Báo Cáo 2030",
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
           "Elite",
           "Individuation",
-          "Khế Ước Bí Mật Rockefeller",
           "Kiểm Soát Tâm Trí",
           "Ma Trận",
-          "MindGeek",
           "MOC - Epistemology & Propaganda",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
           "Trí Tuệ",
           "Tuyến Tùng",
           "Điều mà nền giáo dục và chính phủ không dạy bạn"
@@ -9192,14 +9183,13 @@
         "outlinks": [
           "esoterica/Ma Trận.md",
           "health/Tuyến Tùng.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Individuation.md",
           "mental-models/Trí Tuệ.md",
           "MOC - Epistemology & Propaganda.md",
           "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-          "politics-conspiracy/MindGeek.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
           "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
         ],
         "backlinks": [
@@ -9243,8 +9233,8 @@
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
-        "words": 857,
-        "summary": "---"
+        "words": 1360,
+        "summary": "**Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…"
       },
       {
         "path": "politics-conspiracy/Báo Cáo 2030.md",
@@ -9324,78 +9314,8 @@
           "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
         ],
-        "words": 941,
+        "words": 1195,
         "summary": "**Agenda 2030 nên được đọc như một stack hạ tầng quản trị: khí hậu, y tế, tiền tệ, danh tính số, thành phố thông minh, dữ liệu hành vi và truyền thông đạo đức được ghép lại thành permission architecture.** Bề mặt là phát triển bền vững; câu hỏi vault giữ lại…"
-      },
-      {
-        "path": "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-        "title": "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "dopamine",
-          "esoterica",
-          "politics-conspiracy"
-        ],
-        "aliases": [
-          "Porn Truth",
-          "The Dark Truth About Porn"
-        ],
-        "headings": [
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Vì Sao \"Miễn Phí\"?",
-          "Dopamine Escalation",
-          "Sexual Energy Không Chỉ Là Moral Issue",
-          "Lower Chakra Capture",
-          "Mind Control Không Cần Âm Mưu Cartoon",
-          "Esoteric Layer / Tầng Huyền Học",
-          "Recovery / Thoát Vòng",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Chakra",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Kiểm Soát Tâm Trí",
-          "Kundalini",
-          "Năng Lượng Tình Dục",
-          "S.E.X",
-          "Thực Thể Cõi Trung Giới",
-          "Tinh Khí Thần"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Chakra.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Thực Thể Cõi Trung Giới.md",
-          "esoterica/Tinh Khí Thần.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-        ],
-        "backlinks": [
-          "esoterica/Chakra.md",
-          "esoterica/Chimera.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Thực Thể Cõi Trung Giới.md",
-          "esoterica/Tinh Khí Thần.md",
-          "index.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/MindGeek.md"
-        ],
-        "words": 916,
-        "summary": "**Porn không chỉ là nội dung người lớn; nó là một hệ thống công nghiệp hóa ham muốn, biến năng lượng tình dục thành dopamine loop, data, shame, fantasy và dependency.** Trong vault, porn được đọc ở ba tầng cùng lúc: neurobiology của nghiện, political economy…"
       },
       {
         "path": "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
@@ -9493,6 +9413,7 @@
           "index.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
           "politics-conspiracy/Operation Paperclip.md",
           "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
@@ -9502,6 +9423,75 @@
         ],
         "words": 2517,
         "summary": "**NASA**, **Disney**, và **Hollywood** thường được xem như ba ngành riêng biệt: khoa học, giải trí trẻ em, và phim người lớn. Nhưng khi truy về nguồn gốc, bạn sẽ thấy **chúng đều về một mối** — cùng mạng lưới, cùng mục đích, cùng phép thuật."
+      },
+      {
+        "path": "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+        "title": "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "dopamine",
+          "esoterica",
+          "politics-conspiracy"
+        ],
+        "aliases": [
+          "Porn Truth",
+          "The Dark Truth About Porn"
+        ],
+        "headings": [
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Vì Sao \"Miễn Phí\"?",
+          "Dopamine Escalation",
+          "Sexual Energy Không Chỉ Là Moral Issue",
+          "Lower Chakra Capture",
+          "Mind Control Không Cần Âm Mưu Cartoon",
+          "Esoteric Layer / Tầng Huyền Học",
+          "Recovery / Thoát Vòng",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Chakra",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Kiểm Soát Tâm Trí",
+          "Kundalini",
+          "Năng Lượng Tình Dục",
+          "S.E.X",
+          "Thực Thể Cõi Trung Giới",
+          "Tinh Khí Thần"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Thực Thể Cõi Trung Giới.md",
+          "esoterica/Tinh Khí Thần.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        ],
+        "backlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Chimera.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Thực Thể Cõi Trung Giới.md",
+          "esoterica/Tinh Khí Thần.md",
+          "index.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+          "politics-conspiracy/MindGeek.md"
+        ],
+        "words": 916,
+        "summary": "**Porn không chỉ là nội dung người lớn; nó là một hệ thống công nghiệp hóa ham muốn, biến năng lượng tình dục thành dopamine loop, data, shame, fantasy và dependency.** Trong vault, porn được đọc ở ba tầng cùng lúc: neurobiology của nghiện, political economy…"
       },
       {
         "path": "politics-conspiracy/Bức Tường Băng.md",
@@ -9650,7 +9640,6 @@
           "health/Virus và Kiếp Tật Dịch.md",
           "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
           "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
           "politics-conspiracy/MindGeek.md",
           "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md"
         ],
@@ -10182,65 +10171,6 @@
         "summary": "**Operation Paperclip là chương trình hậu Thế chiến II đưa các nhà khoa học, kỹ sư và chuyên gia Đức Quốc Xã sang Mỹ. Ở tầng lịch sử, đây là Cold War talent acquisition. Ở tầng vault, nó là bằng chứng rằng empire không chỉ đánh bại kẻ thù — nó hấp thụ tri thứ…"
       },
       {
-        "path": "politics-conspiracy/MindGeek.md",
-        "title": "MindGeek (Aylo)",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "politics-conspiracy"
-        ],
-        "aliases": [],
-        "headings": [
-          "MindGeek (Aylo)",
-          "Quy Mô Độc Quyền (Monopoly Scale)",
-          "Các nền tảng thuộc sở hữu (Owned Platforms)",
-          "Lưu Lượng (Traffic)",
-          "Mô Hình Kinh Doanh (Business Model)",
-          "Nội Dung \"Miễn Phí\" (\"Free\" Content)",
-          "Quảng Cáo (Advertising)",
-          "Góc Nhìn Kiểm Soát Tâm Trí (Mind Control Angle)",
-          "1. Cướp Dopamine (Dopamine Hijacking)",
-          "2. Cạn Kiệt Năng Lượng Tình Dục (Sexual Energy Drain)",
-          "3. Lập Trình Xã Hội (Social Programming)",
-          "4. Vũ Khí Hóa Dữ Liệu (Data Weaponization)",
-          "Tranh Cãi (Controversies)",
-          "Bóc Lột Trẻ Em (2020+) (Child Exploitation)",
-          "Buôn Người (Trafficking)",
-          "Sở Hữu Mờ Ám (Ownership Opacity)",
-          "Ai Đứng Đằng Sau? (Who's Behind It?)",
-          "Chính Thức (Official)",
-          "Góc Nhìn Âm Mưu (Conspiracy View)",
-          "Related",
-          "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu"
-        ],
-        "wikilinks": [
-          "Elite",
-          "Khế Ước Bí Mật Rockefeller",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "MOC - Epistemology & Propaganda",
-          "Năng Lượng Tình Dục",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Thực Thể Cõi Trung Giới.md",
-          "index.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-        ],
-        "words": 806,
-        "summary": "**MindGeek** (đổi tên thành Aylo năm 2023) là tập đoàn công nghệ kiểm soát phần lớn ngành công nghiệp phim khiêu dâm toàn cầu. Một trong những công ty có ảnh hưởng lớn nhất nhưng ít được biết đến."
-      },
-      {
         "path": "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
         "title": "Điều mà nền giáo dục và chính phủ không dạy bạn",
         "domain": "politics-conspiracy",
@@ -10338,6 +10268,64 @@
         "summary": "**MAGA là khẩu hiệu chính trị trước khi là biểu tượng huyền học. Nhưng trong vault, khẩu hiệu không chỉ được đọc ở tầng policy; nó còn được đọc như sigil đại chúng: một cụm chữ ngắn, lặp lại, dễ hô, dễ mặc, dễ biến thành identity.** Số 42, gematria và các lớp…"
       },
       {
+        "path": "politics-conspiracy/MindGeek.md",
+        "title": "MindGeek (Aylo)",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "politics-conspiracy"
+        ],
+        "aliases": [],
+        "headings": [
+          "MindGeek (Aylo)",
+          "Quy Mô Độc Quyền (Monopoly Scale)",
+          "Các nền tảng thuộc sở hữu (Owned Platforms)",
+          "Lưu Lượng (Traffic)",
+          "Mô Hình Kinh Doanh (Business Model)",
+          "Nội Dung \"Miễn Phí\" (\"Free\" Content)",
+          "Quảng Cáo (Advertising)",
+          "Góc Nhìn Kiểm Soát Tâm Trí (Mind Control Angle)",
+          "1. Cướp Dopamine (Dopamine Hijacking)",
+          "2. Cạn Kiệt Năng Lượng Tình Dục (Sexual Energy Drain)",
+          "3. Lập Trình Xã Hội (Social Programming)",
+          "4. Vũ Khí Hóa Dữ Liệu (Data Weaponization)",
+          "Tranh Cãi (Controversies)",
+          "Bóc Lột Trẻ Em (2020+) (Child Exploitation)",
+          "Buôn Người (Trafficking)",
+          "Sở Hữu Mờ Ám (Ownership Opacity)",
+          "Ai Đứng Đằng Sau? (Who's Behind It?)",
+          "Chính Thức (Official)",
+          "Góc Nhìn Âm Mưu (Conspiracy View)",
+          "Related",
+          "Evidence Discipline / Cách Đọc Claim",
+          "Source Register / Nguồn Nên Đối Chiếu"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Khế Ước Bí Mật Rockefeller",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "MOC - Epistemology & Propaganda",
+          "Năng Lượng Tình Dục",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/Thực Thể Cõi Trung Giới.md",
+          "index.md"
+        ],
+        "words": 806,
+        "summary": "**MindGeek** (đổi tên thành Aylo năm 2023) là tập đoàn công nghệ kiểm soát phần lớn ngành công nghiệp phim khiêu dâm toàn cầu. Một trong những công ty có ảnh hưởng lớn nhất nhưng ít được biết đến."
+      },
+      {
         "path": "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
         "title": "Sự Thật Về Vụ Sập Tháp Đôi WTC",
         "domain": "politics-conspiracy",
@@ -10432,7 +10420,7 @@
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Elite.md"
         ],
-        "words": 991,
+        "words": 1211,
         "summary": "**UAP Disclosure không chỉ là câu hỏi \"UFO có thật không?\" mà là câu hỏi ai được quyền tiết lộ, tiết lộ theo nhịp nào, bằng bằng chứng nào, và đóng khung công chúng phải hiểu hiện tượng đó ra sao.** Trong vault, disclosure được đọc như một case study về Elite…"
       },
       {
@@ -13700,43 +13688,33 @@
       "title": "Kiểm Soát Tâm Trí (Mind Control)",
       "domain": "politics-conspiracy",
       "tags": [
-        "politics-conspiracy"
+        "consciousness",
+        "politics-conspiracy",
+        "propaganda"
       ],
       "aliases": [],
       "headings": [
+        "Kiểm Soát Tâm Trí (Mind Control)",
+        "Vault Position / Vị Trí Trong Vault",
         "Evidence Discipline / Cách Đọc Claim",
         "Source Register / Nguồn Nên Đối Chiếu",
-        "Kiểm Soát Tâm Trí (Mind Control)",
-        "Các Tầng Kiểm Soát (Levels of Control)",
-        "Level 1: Giáo Dục (Education)",
-        "Level 2: Truyền Thông (Media)",
-        "Level 3: Giải Trí (Entertainment)",
-        "Level 4: Kiểm Soát Xã Hội (Social Control)",
-        "Level 5: Hóa Chất (Chemical)",
+        "Control Stack / Các Tầng Kiểm Soát",
         "Cướp Dopamine (Dopamine Hijacking)",
-        "Sản Phẩm \"Miễn Phí\" Gây Nghiện (Addictive \"Free\" Products)",
-        "Hậu Quả (Results)",
         "MK-Ultra & Beyond",
-        "Lịch sử (đã được ghi nhận) (Historical - Documented)",
-        "Suy Đoán Hiện Đại (Modern Speculation)",
+        "Chemical And Body Layer / Tầng Cơ Thể",
+        "Crisis Template / Mẫu Khủng Hoảng",
         "Thoát Khỏi (Breaking Free)",
-        "1. Chế Độ Thông Tin (Information Diet)",
-        "2. Detox Kỹ Thuật Số (Digital Detox)",
-        "3. Chủ Quyền Cơ Thể (Body Sovereignty)",
-        "4. Rèn Luyện Tâm Trí (Mind Training)",
-        "5. Cộng Đồng (Community)",
-        "Related"
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
         "Báo Cáo 2030",
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "Elite",
         "Individuation",
-        "Khế Ước Bí Mật Rockefeller",
         "Kiểm Soát Tâm Trí",
         "Ma Trận",
-        "MindGeek",
         "MOC - Epistemology & Propaganda",
-        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
         "Trí Tuệ",
         "Tuyến Tùng",
         "Điều mà nền giáo dục và chính phủ không dạy bạn"
@@ -13745,14 +13723,13 @@
       "outlinks": [
         "esoterica/Ma Trận.md",
         "health/Tuyến Tùng.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Individuation.md",
         "mental-models/Trí Tuệ.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/MindGeek.md",
-        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
         "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
       ],
       "backlinks": [
@@ -13796,8 +13773,8 @@
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 857,
-      "summary": "---"
+      "words": 1360,
+      "summary": "**Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…"
     },
     {
       "path": "health/Y Tế Tự Nhiên.md",
@@ -14056,7 +14033,7 @@
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
-      "words": 941,
+      "words": 1195,
       "summary": "**Agenda 2030 nên được đọc như một stack hạ tầng quản trị: khí hậu, y tế, tiền tệ, danh tính số, thành phố thông minh, dữ liệu hành vi và truyền thông đạo đức được ghép lại thành permission architecture.** Bề mặt là phát triển bền vững; câu hỏi vault giữ lại…"
     },
     {
@@ -15044,7 +15021,7 @@
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 994,
+      "words": 1207,
       "summary": "**Terrain Theory nói một điều đơn giản nhưng bị làm phẳng: mầm bệnh không hành động trong chân không. Nó gặp một cơ thể có miễn dịch, ruột, dinh dưỡng, stress, độc chất, nhịp ngủ và bệnh nền riêng.** Vì vậy cùng một exposure có thể cho hai kết quả khác nhau.…"
     },
     {
@@ -16139,12 +16116,12 @@
       82
     ],
     [
-      "health",
+      "consciousness",
       28
     ],
     [
-      "consciousness",
-      27
+      "health",
+      28
     ],
     [
       "mental-model",
@@ -16263,6 +16240,10 @@
       4
     ],
     [
+      "propaganda",
+      4
+    ],
+    [
       "privacy",
       3
     ],
@@ -16304,10 +16285,6 @@
     ],
     [
       "metabolism",
-      3
-    ],
-    [
-      "propaganda",
       3
     ],
     [
@@ -22822,7 +22799,7 @@
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "MOC - Health Sovereignty.md"
       ],
-      "words": 954,
+      "words": 1110,
       "summary": "**Triệu chứng không phải lúc nào cũng là kẻ thù; nhiều triệu chứng là cách cơ thể cô lập, đẩy ra, làm nóng, làm loãng, ho, ói, tiêu chảy hoặc nghỉ bắt buộc để bảo vệ terrain.** Nhưng hiểu cơ thể không có nghĩa là lãng mạn hóa nguy hiểm: sốt cao, mất nước, khó…"
     },
     "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md": {
@@ -23688,7 +23665,7 @@
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 994,
+      "words": 1207,
       "summary": "**Terrain Theory nói một điều đơn giản nhưng bị làm phẳng: mầm bệnh không hành động trong chân không. Nó gặp một cơ thể có miễn dịch, ruột, dinh dưỡng, stress, độc chất, nhịp ngủ và bệnh nền riêng.** Vì vậy cùng một exposure có thể cho hai kết quả khác nhau.…"
     },
     "health/Thuốc Hóa Dầu.md": {
@@ -24814,6 +24791,7 @@
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
         "mental-models/Tư Duy Lũy Thừa.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
       "words": 892,
@@ -26465,7 +26443,7 @@
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
-      "words": 941,
+      "words": 1195,
       "summary": "**Agenda 2030 nên được đọc như một stack hạ tầng quản trị: khí hậu, y tế, tiền tệ, danh tính số, thành phố thông minh, dữ liệu hành vi và truyền thông đạo đức được ghép lại thành permission architecture.** Bề mặt là phát triển bền vững; câu hỏi vault giữ lại…"
     },
     "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md": {
@@ -26610,6 +26588,7 @@
         "index.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
@@ -27002,7 +26981,6 @@
         "health/Virus và Kiếp Tật Dịch.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/MindGeek.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md"
       ],
@@ -27014,43 +26992,33 @@
       "title": "Kiểm Soát Tâm Trí (Mind Control)",
       "domain": "politics-conspiracy",
       "tags": [
-        "politics-conspiracy"
+        "consciousness",
+        "politics-conspiracy",
+        "propaganda"
       ],
       "aliases": [],
       "headings": [
+        "Kiểm Soát Tâm Trí (Mind Control)",
+        "Vault Position / Vị Trí Trong Vault",
         "Evidence Discipline / Cách Đọc Claim",
         "Source Register / Nguồn Nên Đối Chiếu",
-        "Kiểm Soát Tâm Trí (Mind Control)",
-        "Các Tầng Kiểm Soát (Levels of Control)",
-        "Level 1: Giáo Dục (Education)",
-        "Level 2: Truyền Thông (Media)",
-        "Level 3: Giải Trí (Entertainment)",
-        "Level 4: Kiểm Soát Xã Hội (Social Control)",
-        "Level 5: Hóa Chất (Chemical)",
+        "Control Stack / Các Tầng Kiểm Soát",
         "Cướp Dopamine (Dopamine Hijacking)",
-        "Sản Phẩm \"Miễn Phí\" Gây Nghiện (Addictive \"Free\" Products)",
-        "Hậu Quả (Results)",
         "MK-Ultra & Beyond",
-        "Lịch sử (đã được ghi nhận) (Historical - Documented)",
-        "Suy Đoán Hiện Đại (Modern Speculation)",
+        "Chemical And Body Layer / Tầng Cơ Thể",
+        "Crisis Template / Mẫu Khủng Hoảng",
         "Thoát Khỏi (Breaking Free)",
-        "1. Chế Độ Thông Tin (Information Diet)",
-        "2. Detox Kỹ Thuật Số (Digital Detox)",
-        "3. Chủ Quyền Cơ Thể (Body Sovereignty)",
-        "4. Rèn Luyện Tâm Trí (Mind Training)",
-        "5. Cộng Đồng (Community)",
-        "Related"
+        "Core Insight / Chốt Lại"
       ],
       "wikilinks": [
         "Báo Cáo 2030",
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "Elite",
         "Individuation",
-        "Khế Ước Bí Mật Rockefeller",
         "Kiểm Soát Tâm Trí",
         "Ma Trận",
-        "MindGeek",
         "MOC - Epistemology & Propaganda",
-        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
         "Trí Tuệ",
         "Tuyến Tùng",
         "Điều mà nền giáo dục và chính phủ không dạy bạn"
@@ -27059,14 +27027,13 @@
       "outlinks": [
         "esoterica/Ma Trận.md",
         "health/Tuyến Tùng.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Individuation.md",
         "mental-models/Trí Tuệ.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/MindGeek.md",
-        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
         "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
       ],
       "backlinks": [
@@ -27110,8 +27077,8 @@
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 857,
-      "summary": "---"
+      "words": 1360,
+      "summary": "**Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…"
     },
     "politics-conspiracy/MAGA Và Số 42.md": {
       "path": "politics-conspiracy/MAGA Và Số 42.md",
@@ -27218,8 +27185,7 @@
       ],
       "backlinks": [
         "esoterica/Thực Thể Cõi Trung Giới.md",
-        "index.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        "index.md"
       ],
       "words": 806,
       "summary": "**MindGeek** (đổi tên thành Aylo năm 2023) là tập đoàn công nghệ kiểm soát phần lớn ngành công nghiệp phim khiêu dâm toàn cầu. Một trong những công ty có ảnh hưởng lớn nhất nhưng ít được biết đến."
@@ -27618,7 +27584,6 @@
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/MindGeek.md"
       ],
       "words": 916,
@@ -27933,7 +27898,7 @@
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Elite.md"
       ],
-      "words": 991,
+      "words": 1211,
       "summary": "**UAP Disclosure không chỉ là câu hỏi \"UFO có thật không?\" mà là câu hỏi ai được quyền tiết lộ, tiết lộ theo nhịp nào, bằng bằng chứng nào, và đóng khung công chúng phải hiểu hiện tượng đó ra sao.** Trong vault, disclosure được đọc như một case study về Elite…"
     },
     "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md": {

@@ -28,9 +28,13 @@ related:
 | Symbol/media reading | alien archetype, Hollywood sync, NASA/Disney/Hollywood stack | đọc như myth và programming |
 | Speculative synthesis | Blue Beam, breakaway civilization, NHI, interdimensional beings | ghi rõ là giả thuyết vault |
 
+Kỷ luật quan trọng nhất: "không giải thích được" không đồng nghĩa với "đã giải thích bằng alien". Nó chỉ mở một vùng chưa định danh. Vùng đó có thể chứa lỗi sensor, công nghệ nước ngoài, black project, hiện tượng khí quyển, spoofing, NHI, hoặc một thứ chưa nằm trong taxonomy hiện tại.
+
 ---
 
 ## Timeline Gần Đây / Recent Timeline
+
+Timeline dưới đây giữ lại xương sống documentable để người đọc không bị cuốn ngay vào myth. Nó không chứng minh toàn bộ giả thuyết disclosure; nó chỉ cho thấy nhịp mainstream hóa của chủ đề.
 
 | Năm | Sự kiện |
 |---|---|
@@ -43,6 +47,8 @@ related:
 | 2026 | WAR.GOV/UFO/PURSUE công bố tranche tài liệu ngày 2026-05-08 và tranche thứ hai ngày 2026-05-22 |
 
 Điểm kỷ luật: có release chính thức không có nghĩa là mọi narrative kèm theo đều đúng. "Unidentified" nghĩa là chưa định danh trong hồ sơ đó, không tự động nghĩa là extraterrestrial.
+
+Nhịp release cũng là một phần của thông điệp. Công chúng không chỉ nhận dữ liệu; công chúng nhận dữ liệu qua cadence, người phát ngôn, logo tổ chức, tiêu đề báo chí và lời bình của "expert". Vì vậy disclosure luôn là hiện tượng kép: vừa là hồ sơ, vừa là sân khấu.
 
 ---
 
@@ -78,6 +84,8 @@ Trong intelligence language, đây gần với limited hangout: tiết lộ mộ
 
 Vault không phủ nhận hiện tượng. Vault hỏi: **ai đang làm curator của hiện tượng?**
 
+Câu hỏi curator quan trọng hơn câu hỏi "tin hay không tin". Nếu chỉ tranh cãi alien thật hay giả, người đọc bỏ lỡ tầng quyền lực: ai giữ raw data, ai chọn clip, ai đặt tên, ai phân loại threat, ai được phỏng vấn, và ai bị gạt khỏi khung chính thống.
+
 ---
 
 ## Threat Frame / Khung Mối Đe Dọa
@@ -94,6 +102,8 @@ Khi disclosure được đặt trong ngôn ngữ national security, công chúng
 ---
 
 ## Các Giả Thuyết Lớn / Hypothesis Stack
+
+Giả thuyết stack không phải menu để chọn phe. Nó là cách giữ trí óc không bị một narrative chiếm dụng quá sớm.
 
 | Giả thuyết | Điểm mạnh | Điểm yếu |
 |---|---|---|
