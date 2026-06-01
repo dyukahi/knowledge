@@ -33,6 +33,18 @@ Bài viết này là một kho tàng tri thức đa chiều, kết nối từ ng
 - Bổ sung vào **Y Tế Tự Nhiên (Anti-Matrix Health)**: Chi tiết về cách dùng muối chanh hóa giải đau dạ dày.
 - Kết nối với **AI (Góc Nhìn Huyền Học)**: Về sự cộng hưởng tần số và bài thi của nhân loại.
 
+## Evidence Discipline / Cách Đọc
+
+Bài này gom nhiều tầng rất mạnh, nên cần đọc theo bản đồ chứ không đọc như một chuỗi kết luận ngang nhau. Tầng văn bản gồm Enoch, Gnostic material, truyền thống về Watchers, Jesus, Maria Madalena và Giuđa. Tầng y-sinh gồm muối, chanh, bicarbonat, niêm mạc dạ dày và các cơ chế cần đối chiếu với sinh lý học. Tầng tâm linh gồm tà linh, tần số, cộng hưởng và gnosis. Tầng vault synthesis nối các mảnh đó vào một mô hình thức tỉnh toàn diện.
+
+Kỷ luật là không lấy phần đúng ở tầng này để bảo kê phần chưa kiểm ở tầng khác. Việc có truyền thống Gnostic không tự động chứng minh mọi claim về muối. Việc có cơ chế sinh học về niêm mạc không tự động chứng minh Watchers. Nhưng khi đọc đúng tầng, bài này có giá trị như một bản đồ: con người bị kiểm soát qua thân, tâm, lịch sử thiêng và khả năng biết trực tiếp.
+
+## Map Position / Vị Trí Trong Vault
+
+Node này là cầu lớn giữa [[Tà Linh]], [[Gnosis]], [[Thánh Issa]], [[Y Tế Tự Nhiên]], [[Monad]] và [[Ma Trận]]. Nó cho thấy redpill.wiki không xem "thức tỉnh" là một cú đổi ý kiến chính trị. Thức tỉnh thật phải đi qua nhiều lớp: làm sạch thân, thấy rõ shadow, đọc lại tôn giáo, phân biệt authority với Source, và ngừng nuôi các trường năng lượng thấp bằng attention.
+
+Điểm chốt là toàn diện nhưng không hỗn loạn. Người chỉ chăm thân mà không nhìn tâm sẽ khỏe hơn nhưng vẫn bị programming. Người chỉ nói gnosis mà bỏ qua thân có thể thành ảo tưởng. Người chỉ săn tà linh mà không có tình yêu sẽ tự biến mình thành tần số chiến tranh. Bản đồ đúng phải đưa người đọc về [[Sự Nhất Thể]]: rõ ràng hơn, tỉnh hơn, và ít bị kéo bởi sợ hãi hơn.
+
 ## Related
 - [[AI]]
 - [[Khế Ước Bí Mật Rockefeller]]

@@ -117,6 +117,18 @@ Theo [[Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]]:
 
 ---
 
+## Evidence Discipline / Cách Đọc
+
+Long Mạch cần được đọc trên ba lớp. Lớp địa lý - sinh thái: núi, sông, mạch nước ngầm, đứt gãy địa chất, gió, độ ẩm và hệ sinh thái thật sự ảnh hưởng đời sống con người. Lớp văn hóa: phong thủy mã hóa kinh nghiệm chọn đất, hướng gió, nguồn nước, phòng thủ và cảm nhận cảnh quan qua ngôn ngữ khí. Lớp năng lượng: ley lines, dragon veins và Gaia consciousness là synthesis huyền học, cần quan sát bằng trải nghiệm, bản đồ và tương quan thay vì khẳng định vội như thiết bị đo đã xác nhận.
+
+Kỷ luật là không biến mọi thiên tai thành "rồng giận" theo nghĩa đơn giản. Khai mỏ, đập thủy điện, fracking, phá rừng và đô thị hóa có tác động vật lý thật: áp lực đất, dòng nước, nhiệt đảo đô thị, sạt lở, mất đa dạng sinh học. Ngôn ngữ Long Mạch thêm một lớp đạo đức: đất không phải vật chết để khai thác vô hạn.
+
+## Map Position / Vị Trí Trong Vault
+
+Trong vault, Long Mạch nối [[Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]], [[Bản Đồ Năng Lượng Đất Mẹ]], [[Tần Số Schumann]], [[Năng Lượng Aether]] và [[Gaia - Trái Đất Có Ý Thức]]. Nó là model để đọc Trái Đất như một cơ thể có circulation, stress và khả năng tự cân bằng.
+
+Ứng dụng thực tế không cần thần bí quá mức: sống gần cây, nước sạch, ánh sáng mặt trời, địa hình ổn, cộng đồng lành và ít nhiễu công nghiệp thường tốt hơn sống trong bê tông, tiếng ồn, ô nhiễm và cô lập. Đó là nơi phong thủy gặp biology. Nếu gọi đất là Gaia, hãy chứng minh bằng hành vi: đừng chỉ thờ biểu tượng rồng, hãy ngừng hút cạn long thể như một mỏ vô tri.
+
 ## Related
 
 - [[Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]]

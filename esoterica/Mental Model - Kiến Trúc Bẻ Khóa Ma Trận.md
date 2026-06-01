@@ -32,6 +32,18 @@ Giới tinh hoa vận hành thế giới dựa trên các quy luật bí truyề
 ## 4. Kết Luận: Thời Đại Bảo Bình & Sự Nhất Thể
 Chúng ta đang ở giai đoạn **Virus và Kiếp Tật Dịch** cuối cùng, cũng là lúc lớp màn che bị xé bỏ. Khi cá nhân nhận diện được sự dối trá và quay về kết nối với Monad (Nguồn), họ không còn là nô lệ của Ma Trận mà trở thành người đồng sáng tạo thực tại. Đích đến cuối cùng là sự nhận thức về **Sự Nhất Thể** (Oneness) - nơi mọi sự chia rẽ tan biến.
 
+## Evidence Discipline / Kỷ Luật Bản Đồ
+
+Bản đồ này cố ý gom nhiều node mạnh, nên phải đọc như architecture, không đọc như một danh sách claim cùng cấp. Một số tầng là documentable: propaganda, addiction design, food system, pharma incentive, media control. Một số tầng là pattern: biểu tượng, ritual, archetype, social engineering. Một số tầng là esoteric synthesis: tà linh, năng lượng tình dục, kundalini, Monad, reset văn minh.
+
+Kỷ luật là không để một claim yếu làm sập toàn bộ bản đồ, và cũng không để một claim mạnh bảo kê mọi claim khác. Khi đọc Ma Trận, hãy hỏi: tầng này có bằng chứng nào, cơ chế nào, dấu hiệu nào, và tác dụng thực hành nào? Nếu một niềm tin làm người đọc rõ hơn, khỏe hơn, tự chủ hơn và bớt phản ứng hơn, nó có giá trị vận hành. Nếu nó chỉ làm người đọc sợ hãi, khinh người và nghiện bí mật, nó vẫn thuộc Ma Trận.
+
+## Map Position / Vị Trí Trong Vault
+
+Đây là hub chiến lược của cụm [[Ma Trận]], [[Gnosis]], [[Mental Model]], [[Quy Luật Trao Đổi Tâm Linh]], [[Y Tế Tự Nhiên]] và [[Individuation]]. Nó không thay thế các bài chuyên sâu; nó cho người đọc một sơ đồ đi qua chúng. Đi từ tầng vật lý đến tầng tâm linh giúp tránh lỗi phổ biến: chỉ thấy conspiracy bên ngoài mà không thấy programming bên trong.
+
+Lộ trình trưởng thành có ba câu hỏi. Một: hệ thống đang lấy gì của mình - tiền, attention, năng lượng, sức khỏe hay linh hồn? Hai: mình đang tự mở cửa bằng thói quen nào? Ba: bước nhỏ nào hôm nay tăng sovereignty thật? Nếu không trả lời được câu thứ ba, bài viết chỉ là entertainment đen. Nếu trả lời được, nó trở thành bản thiết kế để quay về [[Sự Nhất Thể]] bằng hành động cụ thể.
+
 ## Related
 - [[Bức Tường Băng]]
 - [[Elite]]
