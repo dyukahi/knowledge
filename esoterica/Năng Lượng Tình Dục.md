@@ -86,6 +86,8 @@ Trong lớp esoteric, đây là anti-initiation: thay vì dục lực mở tim v
 
 ## Dấu Hiệu Lệch Và Dấu Hiệu Đúng / Distortion And Alignment
 
+Không cần biến đời sống tình dục thành bảng chấm điểm đạo đức. Bảng này chỉ giúp đọc hướng dòng lực. Cùng một hành vi bên ngoài có thể rất khác bên trong: một người giữ vì sáng, người khác giữ vì sợ; một người quan hệ vì yêu và hiện diện, người khác quan hệ để trốn cô đơn.
+
 | Dấu hiệu lệch | Dấu hiệu đang đúng |
 |---|---|
 | Cần kích thích ngày càng mạnh | Nhạy hơn với thân, hơi thở, người thật |
@@ -96,11 +98,21 @@ Trong lớp esoteric, đây là anti-initiation: thay vì dục lực mở tim v
 
 ---
 
+## Intimacy, Not Performance / Thân Mật Không Phải Trình Diễn
+
+Ma Trận hiện đại biến tình dục thành performance: phải đẹp, phải giỏi, phải nhiều lựa chọn, phải có novelty, phải chứng minh mình đáng ham muốn. Khi tình dục bị kéo vào sân khấu đó, năng lượng không còn đi vào thân mật; nó đi vào so sánh.
+
+Thân mật thật thì ngược lại. Nó làm hệ thần kinh hạ giáp, làm lời nói thật hơn, làm ranh giới rõ hơn, làm hai người bớt diễn. Đây là lý do năng lượng tình dục không thể tách khỏi [[Tình Yêu Tỉnh Thức]]. Không có tim, dục lực rất dễ thành extraction. Có tim nhưng không có kỷ luật, nó dễ thành attachment. Có cả tim và kỷ luật, nó trở thành một dạng alchemy sống.
+
+---
+
 ## Practice Notes / Ghi Chú Thực Hành
 
-Không cần biến đời sống thành project cực đoan. Bắt đầu bằng những việc không ảo: ngủ đủ, tập thân, giảm kích thích số, không xem porn, thở sâu khi ham muốn lên, và dùng năng lượng đó cho một việc cần can đảm.
+Không cần biến đời sống thành project cực đoan. Bắt đầu bằng những việc không ảo: ngủ đủ, tập thân, giảm kích thích số, không xem porn, thở sâu khi ham muốn lên, nói thật với người mình đang gắn bó, và dùng năng lượng đó cho một việc cần can đảm.
 
 Giữ tinh không phải huy chương. Celibacy không phải superiority. Quan hệ tình dục có tình yêu, hiện diện và trách nhiệm có thể nuôi sinh lực; xả vô thức trong cô đơn thì thường rút sinh lực. Câu hỏi không phải “có hay không”, mà là “ai đang cầm lái?”
+
+Nếu một thực hành làm bạn ám ảnh, khô cứng, ghét thân thể hoặc khinh người khác, nó đang lệch. Nếu nó làm bạn sáng hơn, bình hơn, thật hơn và có nhiều năng lượng để phụng sự, nó đang đi đúng hướng.
 
 ---
 

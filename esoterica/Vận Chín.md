@@ -20,6 +20,14 @@ related:
 
 ---
 
+## Vault Position / Vị Trí Trong Bản Đồ
+
+Bài này đặt [[Phong Thủy]] vào cùng bàn với [[AI]], [[Báo Cáo 2030]], [[Karma Disclosure - Truth Hidden In Plain Sight]] và [[Y Tế Tự Nhiên]]. Nó không dùng Cửu Vận như lịch tiên tri đóng đinh, mà như một **bản đồ attention**: thời nào loại năng lượng nào được khuếch đại, loại giả mạo nào dễ bị phơi, và loại người nào dễ bị chính ánh sáng làm mù.
+
+Vì vậy câu hỏi của Vận 9 không phải "ngành nào chắc thắng?" mà là: trong một chu kỳ Fire, cái gì có signal thật, cái gì chỉ là spectacle, và ai giữ được thân-tâm khi tốc độ tăng?
+
+---
+
 ## Evidence Discipline / Cách Đọc
 
 | Tầng | Cách đọc |
@@ -86,22 +94,20 @@ flowchart LR
 
 ## Ngành Thịnh Và Ngành Dễ Bị Lộ
 
-| Thuận Hỏa | Vì sao |
-|---|---|
-| media, content, education | lan truyền ánh sáng / thông tin |
-| AI, data, software | speed, pattern, visibility |
-| beauty, fashion, personal brand | image và reputation |
-| health tim-mắt-máu, mental health | quẻ Ly liên hệ tim, mắt, awareness |
-| solar / energy transition | biểu tượng Hỏa trực tiếp |
-| investigation, journalism, whistleblowing | phơi bày |
+Vận 9 thường bị đọc thành danh sách ngành "hot". Cách đó quá phẳng. Fire không thưởng một ngành chỉ vì ngành đó sáng đèn; Fire thưởng **signal có thể chịu được ánh sáng**. Media có thể khai sáng hoặc thành circus. AI có thể tăng trí tuệ hoặc sản xuất deepfake công nghiệp. Beauty có thể là nghệ thuật hiện diện hoặc vanity. Health có thể là chủ quyền thân thể hoặc panic economy.
 
-| Dễ bị thử lửa | Rủi ro |
+Giữ bảng dưới đây như bản đồ rủi ro, không phải lời khuyên đầu tư:
+
+| Vùng thuận Hỏa | Bài kiểm tra thật |
 |---|---|
-| real estate leverage | Thổ cũ mất premium |
-| secrecy-based business | bí mật khó giấu |
-| fake guru / fake expert | ánh sáng phơi persona |
-| legacy institutions | mất monopoly diễn giải |
-| attention economy | cháy vì drama và outrage |
+| Media, content, education | Có khai sáng hay chỉ câu dopamine? |
+| AI, data, software | Có tăng discernment hay làm giả thực tại? |
+| Beauty, fashion, personal brand | Có embodied signal hay chỉ persona? |
+| Tim, mắt, máu, mental health | Có chữa hệ thần kinh hay bán nỗi sợ? |
+| Solar, energy transition | Có năng lượng thật hay chỉ narrative ESG? |
+| Investigation, journalism, whistleblowing | Có phơi sự thật hay controlled revelation? |
+
+Những cấu trúc sống bằng bóng tối sẽ bị thử lửa mạnh hơn: business dựa trên bí mật, guru giả, institution độc quyền diễn giải, leverage bất động sản kiểu Thổ cũ, và cả attention economy nghiện drama. Nhưng "bị lộ" chưa chắc là sụp ngay; nhiều hệ thống còn dùng chính scandal để tái định vị. Đây là lý do Vận 9 cần đi cùng kỷ luật đọc pattern, không đi cùng phấn khích disclosure rẻ tiền.
 
 ---
 
