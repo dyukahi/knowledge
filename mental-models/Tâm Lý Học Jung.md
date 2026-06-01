@@ -84,3 +84,9 @@ Một người mất ngủ, nghiện kích thích và ăn rác rất khó “thi
 ## Kết Luận / Closing
 
 Tâm Lý Học Jung là bản đồ để ngừng bị vô thức lái mà gọi đó là số phận. Nó không thay thế spiritual path, nhưng nó làm spiritual path bớt ảo tưởng: trước khi nói mình đã thấy ánh sáng, hãy xem bóng tối của mình đang điều khiển ai.
+
+## Thực Hành / Practice Layer
+
+Jung chỉ hữu ích khi được đem xuống đời sống hằng ngày. Một giấc mơ lặp lại, một người mình ghét vô lý, một cơn ghen, một lần mất kiểm soát, một hình tượng cứ xuất hiện trong phim hoặc tôn giáo đều có thể là dữ liệu psyche. Thực hành căn bản là ghi lại, không vội phán xét, rồi hỏi: phần nào trong mình đang nói qua hình ảnh này?
+
+Trong redpill.wiki, đây là lớp phòng thủ chống [[Kiểm Soát Tâm Trí]]. Người không biết shadow của mình sẽ bị media chọn shadow thay. Người không biết archetype đang điều khiển mình sẽ tưởng mọi lựa chọn đều tự do. Jung giúp kéo quyền diễn giải trở lại bên trong, nhưng vẫn cần khiêm tốn: một biểu tượng có thể mở đường, không phải lúc nào cũng là mệnh lệnh.

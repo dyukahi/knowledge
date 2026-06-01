@@ -95,3 +95,9 @@ Binaural beats, thiền, thở, đi bộ, cầu nguyện hoặc journaling đề
 ## Kết Luận / Closing
 
 Thị trường trung tính hơn cái ego tưởng. Ma Trận chỉ cần kéo con người khỏi trung tâm bằng hai sợi dây: sợ mất và ham thêm. Cân bằng là cắt bớt hai sợi dây đó để nhìn reality không qua cơn co giật của đám đông.
+
+## Decision Filter / Bộ Lọc Quyết Định
+
+Trước một quyết định lớn, hãy hỏi ba câu. Một: nếu không ai biết kết quả, mình còn muốn làm không? Hai: nếu giá giảm một nửa hoặc cơ hội biến mất trong sáu tháng, thesis còn đứng không? Ba: quyết định này tăng sovereignty hay chỉ tăng dopamine? Ba câu này kéo tâm trí ra khỏi đám đông và đưa nó về trách nhiệm cá nhân.
+
+Trong [[Bitcoin]] hay đời sống, người cân bằng không phải người luôn đúng. Họ là người có thể sai mà không tan rã, có thể thắng mà không hóa tham, có thể chờ mà không thấy mình bị bỏ lại. Đây là sự giàu có khó đo hơn portfolio: năng lực không bán linh hồn cho cảm xúc ngắn hạn.

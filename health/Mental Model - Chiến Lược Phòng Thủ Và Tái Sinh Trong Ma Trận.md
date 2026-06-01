@@ -62,6 +62,18 @@ Khi audit sâu hơn, ưu tiên:
 - **5 Năng lực sống còn:** Chữa lành tự nhiên, Tư duy sáng tạo, Kết nối cảm xúc, Nội tâm vững vàng, Ảnh hưởng cá nhân sâu sắc.
 - **Sứ mệnh:** Quay về với Đất, Nước, Gió, Lửa, trân quý sự sống và bảo vệ cân bằng của Mẹ Trái Đất.
 
+## Practical Discipline / Kỷ Luật Thực Hành
+
+Chiến lược này không nên biến thành checklist cực đoan. Mỗi bước cần một nhịp an toàn: nhận diện trước, giảm độc tố dễ thấy trước, xây nền ngủ - ăn - vận động - ánh sáng trước, rồi mới thử những can thiệp sâu hơn. Health sovereignty không phải tự biến mình thành bác sĩ, mà là lấy lại quyền đặt câu hỏi, quyền đọc nhãn, quyền hiểu cơ thể và quyền từ chối dependency không cần thiết.
+
+Ở tầng sinh học, các tín hiệu cần theo dõi rất cụ thể: giấc ngủ, tiêu hóa, nhịp tim nghỉ, năng lượng buổi sáng, phản ứng với thức ăn, tình trạng da, tâm trạng, libido, khả năng tập trung. Nếu một protocol làm con người hoang mang, kiệt sức, mất ngủ hoặc tách khỏi đời sống thực, đó không phải tái sinh mà là một dạng control mới.
+
+## Map Position / Vị Trí Trong Vault
+
+Bài này là cầu giữa [[MOC - Health Sovereignty]], [[Y Tế Tự Nhiên]], [[Tuyến Tùng]], [[Tần Số Schumann]], [[Vận Chín]] và [[Ma Trận]]. Nó đặt health vào vị trí chiến lược: không có thân thể ổn định thì nhận thức dễ bị kéo bởi sợ hãi, dục vọng, đau mãn tính và fatigue.
+
+Điểm trưởng thành là phòng thủ và tái sinh phải đi cùng nhau. Phòng thủ giúp giảm tác nhân độc, giảm propaganda y tế, giảm phụ thuộc. Tái sinh giúp xây năng lượng sống, cộng đồng, kỷ luật và mục đích. Nếu chỉ phòng thủ, người đọc dễ thành paranoid. Nếu chỉ tái sinh, người đọc dễ ngây thơ trước hệ thống. Hai cánh này phải cân bằng để health sovereignty không biến thành một bản ngã "anti" mới.
+
 ## Related
 - [[Ma Trận]]
 - [[Tuyến Tùng]]

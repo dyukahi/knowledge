@@ -84,3 +84,9 @@ Tích hợp không phải trung lập yếu đuối. Nó là năng lực thấy 
 ## Kết Luận / Closing
 
 Chia tách bởi nhị nguyên là lỗi sâu của perception. Khi mind quên nền Một, nó biến polarity thành chiến tranh. Khi nhớ lại nền Một, polarity trở thành nhạc cụ: hai dây căng tạo âm, không tạo nhà tù.
+
+## Practice / Bài Tập Nhìn Lại
+
+Một bài tập đơn giản: khi gặp một vấn đề khiến mình lập tức chọn phe, hãy viết lại lập trường của phe kia theo cách họ có thể gật đầu. Nếu không làm được, mình chưa hiểu đối thủ; mình chỉ đang đánh nhau với hình nộm trong đầu. Sau đó hỏi tiếp: nỗi sợ nào khiến mình cần phe kia phải hoàn toàn sai?
+
+Điều này không có nghĩa bỏ phân định thiện ác. Có hành vi cần ngăn, có hệ thống cần phản biện, có boundary cần giữ. Nhưng phản biện không cần mất trung tâm. Người còn trung tâm có thể nói "không" mà không biến cả thế giới thành kẻ thù. Đây là nền của [[Tâm bất Biến]] và cũng là thuốc giải cho binary programming của [[Ma Trận]].
