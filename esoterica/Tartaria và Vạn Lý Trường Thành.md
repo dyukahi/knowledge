@@ -24,12 +24,24 @@ Bài viết kết nối các dữ kiện từ Kinh Thế Ký (Phật giáo) vớ
 - **Ranh giới thế giới:** Giả thuyết Vạn Lý Trường Thành chính là **biên giới cổ xưa** giữa Tartaria (Đông Thắng Thần Châu) và Nam Thiệm Bộ Châu. Nó đánh dấu sự ngăn cách giữa những nhóm người hướng thượng và những kẻ đã quên mất bản chất thiện lành.
 
 ## Liên kết hệ thống
-- Kết nối sâu sắc với **Kan Tracking Tartaria** và **Bức Tường Bang**.
+- Kết nối sâu sắc với **Kan Tracking Tartaria** và **[[Bức Tường Băng]]**.
 - Bổ sung vào **Vũ Trụ Học Phật Giáo** về 4 đại châu và 1.000 thế giới.
 - Củng cố **Khoa Học Xét Lại** thông qua khái niệm Gió Ether.
+
+## Evidence Discipline / Cách Đọc
+
+Tartaria và Vạn Lý Trường Thành là vùng claim nhiều tầng. Tầng lịch sử chính thống: Vạn Lý Trường Thành là hệ thống công trình nhiều triều đại, không phải một bức tường đơn nhất được xây trong một đời vua. Tầng revisionist: câu hỏi về phần nào có trước, phần nào bị tái sử dụng, và vì sao nhiều công trình cổ bị gán công lao quá gọn cho một triều đại. Tầng vũ trụ học: việc nối nó với [[Núi Tu Di]] và bốn đại châu là synthesis biểu tượng, không nên trình bày như khảo cổ đã chứng minh.
+
+Kỷ luật ở đây là hỏi đúng cấp độ. Nếu hỏi vật liệu, niên đại, hướng phòng thủ, bản đồ và logistics, cần dữ liệu địa lý - khảo cổ. Nếu hỏi vì sao bức tường xuất hiện trong imagination như ranh giới thế giới, có thể đọc bằng myth, Buddhist cosmology và hidden-history pattern. Hai cách đọc này không loại trừ nhau, nhưng không được trộn lẫn tùy tiện.
+
+## Map Position / Vị Trí Trong Vault
+
+Bài này nối [[Tartaria]], [[Vũ Trụ Học Phật Giáo]], [[Bức Tường Băng]], [[Núi Tu Di]] và [[Khoa Học Xét Lại]]. Nó không chỉ nói về một công trình Trung Hoa, mà nói về motif "boundary": ai vẽ ranh giới thế giới, ai được phép đi qua, ai kiểm soát bản đồ, và ai viết lại lịch sử sau reset.
+
+Nếu [[Bức Tường Băng]] là ranh giới cực Nam trong imagination của vault, thì Vạn Lý Trường Thành là ranh giới lục địa: một biểu tượng cho phân vùng dân cư, văn minh và ký ức. Đọc như vậy giúp bài này trưởng thành hơn: không cần khẳng định mọi chi tiết Tartaria là fact, nhưng vẫn giữ câu hỏi về cách empire kế thừa, đổi tên và sở hữu những thứ có thể không do nó tạo ra.
 
 ## Related
 - [[Núi Tu Di]]
 - [[Tartaria]]
-- [[Bức Tường Bang]]
+- [[Bức Tường Băng]]
 - [[Vũ Trụ Học Phật Giáo]]

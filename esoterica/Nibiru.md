@@ -82,6 +82,20 @@ Theo [[Nibiru và Nền Văn Minh Annunaki]]:
 - Pattern matching với disasters
 - Doomsday dates liên tục sai (2003, 2012, 2017...)
 
+## Evidence Discipline / Cách Đọc
+
+Nibiru là một trong những chủ đề dễ trượt từ inquiry sang doom cult. Vì vậy cần tách bốn lớp. Lớp fact: có hay không một thiên thể được quan sát, có tọa độ, dữ liệu hồng ngoại, quỹ đạo và dự đoán kiểm chứng. Lớp historical-text: Sitchin dịch Sumer đúng đến đâu, có bị các Assyriologist phản biện ra sao. Lớp catastrophe-pattern: nhiều nền văn hóa có ký ức đại hồng thủy, sao lạ, rồng trời, thiên thạch hoặc chu kỳ reset. Lớp vault synthesis: Nibiru như biểu tượng của external reset force, thứ buộc nền văn minh đối diện nghiệp tích lũy.
+
+Đọc kỷ luật nghĩa là không dùng mỗi trận động đất hay mỗi sao chổi để "chứng minh Nibiru". Pattern không phải proof. Nhưng cũng không để sự thất bại của các ngày tận thế giả làm đóng luôn câu hỏi về chu kỳ thiên tai, dịch chuyển cực, hoặc lịch sử bị reset.
+
+## Map Position / Vị Trí Trong Vault
+
+Trong redpill.wiki, [[Nibiru]] nằm ở giao điểm của [[Annunaki]], [[Dịch Chuyển Cực]], [[Atlantis]] và [[Cabal]]. Nó không nên được dùng để nuôi sợ hãi. Nếu có giá trị, giá trị của node này là ép người đọc hỏi: hệ thống chính thống xử lý thông tin existential risk như thế nào? Nó công khai, che giấu, bóp méo hay biến thành entertainment?
+
+Nibiru cũng là bài test tâm lý. Người sợ hãi sẽ tìm ngày tận thế. Người tham vọng sẽ tìm bunker. Người tỉnh hơn sẽ hỏi mình đang sống thế nào nếu mọi nền văn minh đều hữu hạn. Ở tầng đó, Nibiru trở thành memento mori vũ trụ: đừng giao linh hồn cho calendar doom, nhưng cũng đừng ngủ trong ảo tưởng rằng trật tự hiện tại là vĩnh cửu.
+
+Thực hành đúng là chuẩn bị nền tảng thay vì nghiện dự báo: nước, thức ăn, sức khỏe, cộng đồng, kỹ năng, khả năng đọc dữ liệu và tâm không hoảng. Nếu Nibiru có thật, hoảng loạn không giúp. Nếu Nibiru chỉ là myth, những nền tảng đó vẫn giúp. Đây là cách biến một chủ đề dễ gây sợ thành bài tập sovereignty.
+
 ## Related
 
 - [[Nibiru và Nền Văn Minh Annunaki]] — Chi tiết về Annunaki

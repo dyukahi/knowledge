@@ -66,6 +66,20 @@ Liên hệ hiện đại:
 - Unique design trong Đông Nam Á
 - Cần advanced engineering
 
+## Evidence Discipline / Cách Đọc
+
+Nỏ Thần nằm giữa ba tầng claim. Tầng chắc nhất là văn hóa - truyền thuyết An Dương Vương, Mỵ Châu, Trọng Thủy và Cổ Loa là ký ức lõi của lịch sử Việt cổ. Tầng thứ hai là khảo cổ - Cổ Loa có dấu vết đô thị, quân sự, luyện kim và tổ chức xã hội phức tạp hơn mô hình "bộ lạc đơn giản" thường được dạy. Tầng thứ ba là suy luận công nghệ - Nỏ Thần có thể là vũ khí liên châu, cơ chế bắn nhanh, hệ thống phòng thủ đồng bộ, hoặc biểu tượng mã hóa cho một lợi thế quân sự đã mất.
+
+Kỷ luật ở đây là không ép huyền thoại thành fact thô, nhưng cũng không vứt huyền thoại như chuyện trẻ con. Huyền thoại thường bảo quản ký ức kỹ thuật bằng ngôn ngữ biểu tượng: rùa vàng là tri thức nền đất và nước; móng rùa là vật liệu/cơ cấu then chốt; lẫy nỏ là "single point of failure" của cả hệ thống phòng thủ.
+
+## Map Position / Vị Trí Trong Vault
+
+Trong vault, Nỏ Thần nối [[Thành Cổ Loa]], [[Khoa Học Xét Lại]], [[Tartaria]] và cụm lost technology. Nó là phiên bản Việt của motif toàn cầu: một nền văn minh sở hữu kỹ thuật cao hơn hình ảnh sách giáo khoa, rồi sụp vì betrayal, infiltration hoặc reset ký ức.
+
+Bài học hiện đại rất trực tiếp. Quốc gia có thể có công nghệ, nhưng nếu không giữ được boundary văn hóa và an ninh nhận thức, công nghệ đó trở thành tài sản của kẻ khác. Mỵ Châu không chỉ là "người con gái lụy tình"; nàng là biểu tượng của việc trao mã nguồn cho đối thủ vì không phân biệt tình cảm cá nhân với sinh mệnh cộng đồng. Đây là lý do Nỏ Thần nên được đọc như mental model về sovereignty, không chỉ là truyền thuyết chiến tranh.
+
+Ở tầng cá nhân, Nỏ Thần hỏi mỗi người đang giữ "lẫy nỏ" nào: mật khẩu, dữ liệu, năng lượng tình dục, bí mật gia đình, chiến lược tài chính, hay niềm tin cốt lõi. Thất bại thường không đến vì thiếu sức mạnh, mà vì trao điểm then chốt cho người chưa chứng minh được phẩm chất. Đây là bài học an ninh mềm của huyền thoại.
+
 ## Related
 
 - [[Thành Cổ Loa]] — Công trình của An Dương Vương

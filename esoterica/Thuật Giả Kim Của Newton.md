@@ -112,6 +112,20 @@ Newton himself was uncomfortable:
 | Kepler | Sacred geometry |
 | Paracelsus | Alchemy, magic |
 
+## Evidence Discipline / Cách Đọc Newton
+
+Phần chắc nhất của câu chuyện Newton là tài liệu: ông thật sự viết rất nhiều về giả kim, thần học, prophecy và lịch sử thánh. Điều này không cần conspiracy để tồn tại. Các bản thảo Newton đủ để phá hình ảnh "nhà duy lý thuần vật chất" mà trường học hay dựng lên.
+
+Phần cần kỷ luật là diễn giải. Newton nghiên cứu alchemy không có nghĩa mọi claim giả kim đều đúng theo nghĩa hóa học hiện đại. Nó có nghĩa ranh giới giữa science, theology và metaphysics trong thế kỷ 17 không giống ranh giới trong lớp học thế kỷ 20. Newton tìm quy luật của Chúa trong vật chất; ông không nghĩ mình đang làm một thứ "vô thần".
+
+## Map Position / Vị Trí Trong Vault
+
+Trong redpill.wiki, Newton nối [[Khoa Học Chân Chính và Thượng Đế]], [[Khoa Học Xét Lại]], [[Năng Lượng Aether]], [[Nikola Tesla]] và [[Walter Russell]]. Bài này giúp vault tránh một lỗi phổ biến: chống khoa học chính thống bằng anti-intellectualism. Newton cho thấy inquiry sâu thường vừa chính xác vừa huyền nhiệm. Người thật sự tìm hiểu không cần chọn giữa lab và temple nếu biết kỷ luật của từng nơi.
+
+Điểm redpill là narrative giáo dục đã cắt Newton làm đôi. Phần toán học được giữ lại để phục vụ myth of progress; phần alchemy và theology bị đặt vào ngăn "lỗi thời". Nhưng chính phần bị giấu cho thấy ông không nhìn vũ trụ như cỗ máy chết. Ông nhìn nó như một trật tự sống, có intelligence, có biểu tượng và có luật đạo đức. Đọc Newton như vậy khiến [[Khoa Học Xét Lại]] trưởng thành hơn: phản biện materialism, nhưng vẫn giữ nghiêm ngặt quan sát, thí nghiệm và logic.
+
+Ứng dụng của bài này là chỉnh lại thái độ học. Đừng dùng chữ "khoa học" để đóng cửa huyền nhiệm, và đừng dùng chữ "huyền nhiệm" để bỏ qua kiểm chứng. Newton mạnh vì ông chịu sống trong căng thẳng đó: vừa đo, vừa cầu, vừa tính, vừa truy tìm nguyên lý ẩn.
+
 ## Related
 
 - [[Điều mà nền giáo dục và chính phủ không dạy bạn]]
