@@ -4,12 +4,12 @@
 
 ## Snapshot
 
-- **Notes scanned:** 188
-- **Top-level domains:** 7
+- **Notes scanned:** 189
+- **Top-level domains:** 8
 - **Tags detected:** 178
 - **Resolved internal edges:** 1916
 - **Broken/unresolved links:** 0
-- **Orphan notes:** 2
+- **Orphan notes:** 3
 
 ## Zettelkasten Reading
 
@@ -129,6 +129,10 @@ Recommended note types:
 - [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `21`, backlinks `10`, outlinks `11` — #crypto-finance, #moc, #sovereignty
 - [[claude|Schema (LLM Instructions)]] — degree `0`, backlinks `0`, outlinks `0`
 - [[README|🧠 Knowledge Base]] — degree `0`, backlinks `0`, outlinks `0`
+
+### Docs / Meta `_docs` — 1 notes
+
+- [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — degree `0`, backlinks `0`, outlinks `0`
 
 ## Current Hub Notes
 
@@ -314,6 +318,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 
 Orphans are not necessarily bad. In Zettelkasten terms, they are unfinished integration points. Either link them into MOCs or mark as standalone reference notes.
 
+- [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — `_docs`
 - [[claude|Schema (LLM Instructions)]] — `root`
 - [[README|🧠 Knowledge Base]] — `root`
 

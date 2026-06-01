@@ -1,7 +1,8 @@
 {
   "stats": {
-    "notes": 188,
+    "notes": 189,
     "domains": {
+      "_docs": 1,
       "root": 10,
       "crypto-finance": 11,
       "esoterica": 72,
@@ -13,9 +14,48 @@
     "tags": 178,
     "wikilinkEdges": 1916,
     "brokenLinks": 0,
-    "orphans": 2
+    "orphans": 3
   },
   "domains": {
+    "_docs": [
+      {
+        "path": "_docs/CONTENT-SERIES.md",
+        "title": "Red Pill Wiki - Flagship Public Content Series",
+        "domain": "_docs",
+        "tags": [],
+        "aliases": [],
+        "headings": [
+          "Red Pill Wiki - Flagship Public Content Series",
+          "Editorial Rules For All Series",
+          "Priority Scale",
+          "1. Ma Trận - Operating System Of Perception",
+          "2. Cách Đọc Red Pill Wiki - Method Before Belief",
+          "3. Khoa Học Xét Lại - Science As Method, Not Priesthood",
+          "4. Y Tế Tự Nhiên - Body Sovereignty Without Recklessness",
+          "5. Ung Thư - Metabolic Protocol Research Literacy",
+          "6. Bitcoin Sẽ Chết Nếu Không Có Privacy",
+          "7. A LIE N - Disclosure, SpaceX, And Ritual Tech",
+          "8. Hollywood - Predictive Programming And The Screen As Wand",
+          "9. Dopamine Economy - The Economy Of Craving",
+          "10. Sự Nhất Thể / Monad / Gnosis - The Source Trilogy",
+          "30-Day Publishing Calendar",
+          "Backlog After Day 30",
+          "Repurposing Workflow",
+          "1. Start From The Vault Article",
+          "2. Build The Anchor Package",
+          "3. Claim-Layer Pass",
+          "4. Platform Adaptation",
+          "5. Feedback Loop",
+          "6. Production Order"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [],
+        "words": 4403,
+        "summary": "Private planning document for public distribution. Kept under `_docs/`, which is excluded from Quartz publishing by `quartz.config.ts`."
+      }
+    ],
     "crypto-finance": [
       {
         "path": "crypto-finance/Bitcoin.md",
@@ -16334,6 +16374,43 @@
   ],
   "orphans": [
     {
+      "path": "_docs/CONTENT-SERIES.md",
+      "title": "Red Pill Wiki - Flagship Public Content Series",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Red Pill Wiki - Flagship Public Content Series",
+        "Editorial Rules For All Series",
+        "Priority Scale",
+        "1. Ma Trận - Operating System Of Perception",
+        "2. Cách Đọc Red Pill Wiki - Method Before Belief",
+        "3. Khoa Học Xét Lại - Science As Method, Not Priesthood",
+        "4. Y Tế Tự Nhiên - Body Sovereignty Without Recklessness",
+        "5. Ung Thư - Metabolic Protocol Research Literacy",
+        "6. Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "7. A LIE N - Disclosure, SpaceX, And Ritual Tech",
+        "8. Hollywood - Predictive Programming And The Screen As Wand",
+        "9. Dopamine Economy - The Economy Of Craving",
+        "10. Sự Nhất Thể / Monad / Gnosis - The Source Trilogy",
+        "30-Day Publishing Calendar",
+        "Backlog After Day 30",
+        "Repurposing Workflow",
+        "1. Start From The Vault Article",
+        "2. Build The Anchor Package",
+        "3. Claim-Layer Pass",
+        "4. Platform Adaptation",
+        "5. Feedback Loop",
+        "6. Production Order"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 4403,
+      "summary": "Private planning document for public distribution. Kept under `_docs/`, which is excluded from Quartz publishing by `quartz.config.ts`."
+    },
+    {
       "path": "claude.md",
       "title": "Schema (LLM Instructions)",
       "domain": "root",
@@ -17667,6 +17744,43 @@
       "backlinks": [],
       "words": 78,
       "summary": "Chào mừng đến với kho tri thức — nơi tập hợp các nghiên cứu độc lập về Khoa Học Xét Lại, tâm linh, tài chính, và các chủ đề bị mainstream che giấu."
+    },
+    "_docs/CONTENT-SERIES.md": {
+      "path": "_docs/CONTENT-SERIES.md",
+      "title": "Red Pill Wiki - Flagship Public Content Series",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Red Pill Wiki - Flagship Public Content Series",
+        "Editorial Rules For All Series",
+        "Priority Scale",
+        "1. Ma Trận - Operating System Of Perception",
+        "2. Cách Đọc Red Pill Wiki - Method Before Belief",
+        "3. Khoa Học Xét Lại - Science As Method, Not Priesthood",
+        "4. Y Tế Tự Nhiên - Body Sovereignty Without Recklessness",
+        "5. Ung Thư - Metabolic Protocol Research Literacy",
+        "6. Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "7. A LIE N - Disclosure, SpaceX, And Ritual Tech",
+        "8. Hollywood - Predictive Programming And The Screen As Wand",
+        "9. Dopamine Economy - The Economy Of Craving",
+        "10. Sự Nhất Thể / Monad / Gnosis - The Source Trilogy",
+        "30-Day Publishing Calendar",
+        "Backlog After Day 30",
+        "Repurposing Workflow",
+        "1. Start From The Vault Article",
+        "2. Build The Anchor Package",
+        "3. Claim-Layer Pass",
+        "4. Platform Adaptation",
+        "5. Feedback Loop",
+        "6. Production Order"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 4403,
+      "summary": "Private planning document for public distribution. Kept under `_docs/`, which is excluded from Quartz publishing by `quartz.config.ts`."
     },
     "claude.md": {
       "path": "claude.md",
