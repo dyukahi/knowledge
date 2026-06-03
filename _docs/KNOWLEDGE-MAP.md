@@ -7,7 +7,7 @@
 - **Notes scanned:** 190
 - **Top-level domains:** 8
 - **Tags detected:** 180
-- **Resolved internal edges:** 1932
+- **Resolved internal edges:** 1934
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 3
 
@@ -106,21 +106,21 @@ Recommended note types:
 ### Crypto & Finance `crypto-finance` — 12 notes
 
 - [[crypto-finance/Bitcoin|Bitcoin]] — degree `35`, backlinks `21`, outlinks `14` — #crypto-finance
+- [[crypto-finance/index|Crypto & Finance Domain Gateway]] — degree `29`, backlinks `3`, outlinks `26` — #crypto-finance, #domain-gateway, #financial-sovereignty
 - [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]] — degree `29`, backlinks `20`, outlinks `9` — #agenda-2030, #cbdc, #crypto-finance, #generation, #privacy
-- [[crypto-finance/index|Crypto & Finance Domain Gateway]] — degree `28`, backlinks `3`, outlinks `25` — #crypto-finance, #domain-gateway, #financial-sovereignty
 - [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]] — degree `24`, backlinks `13`, outlinks `11` — #crypto-finance
 - [[crypto-finance/Tiền Giấy - Tiền Mặt|Tiền Giấy - Tiền Mặt (Fiat Currency)]] — degree `23`, backlinks `19`, outlinks `4` — #crypto-finance, #privacy
 - [[crypto-finance/Tiền Pháp Định|Tiền Pháp Định (Fiat Currency)]] — degree `18`, backlinks `10`, outlinks `8` — #crypto-finance
 - [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]] — degree `17`, backlinks `10`, outlinks `7` — #bitcoin, #crypto-finance, #privacy, #sovereignty
+- [[crypto-finance/Chainlink - Mắt Xích Của Tokenized World|Chainlink - Mắt Xích Của Tokenized World]] — degree `16`, backlinks `7`, outlinks `9` — #cbdc, #crypto-finance, #sovereignty, #tokenization, #word-magic
 - [[crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền|Điều Mà Trường Học Không Dạy Về Tiền]] — degree `16`, backlinks `4`, outlinks `12` — #crypto-finance
-- [[crypto-finance/Chainlink - Mắt Xích Của Tokenized World|Chainlink - Mắt Xích Của Tokenized World]] — degree `14`, backlinks `5`, outlinks `9` — #cbdc, #crypto-finance, #sovereignty, #tokenization, #word-magic
 - [[crypto-finance/Giàu Không Nhờ May Mắn|Giàu Không Nhờ May Mắn (How to Get Rich Without Getting Lucky)]] — degree `13`, backlinks `4`, outlinks `9` — #crypto-finance
 - [[crypto-finance/Secular Market|Secular Market (Thị Trường Chu Kỳ Dài)]] — degree `10`, backlinks `3`, outlinks `7` — #crypto-finance
 - [[crypto-finance/Tiền tiền tiền|Tiền, tiền, tiền... (P.1) / Money, Money, Money... (P.1)]] — degree `5`, backlinks `2`, outlinks `3` — #crypto-finance
 
 ### root `root` — 10 notes
 
-- [[index|Red Pill Wiki]] — degree `125`, backlinks `6`, outlinks `119` — #index, #navigation
+- [[index|Red Pill Wiki]] — degree `126`, backlinks `6`, outlinks `120` — #index, #navigation
 - [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `41`, backlinks `25`, outlinks `16` — #epistemology, #moc, #propaganda
 - [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `41`, backlinks `25`, outlinks `16` — #health, #moc, #sovereignty
 - [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `39`, backlinks `23`, outlinks `16` — #moc, #revisionist-science, #science-tech
@@ -139,7 +139,7 @@ Recommended note types:
 
 High-degree notes are good candidates for hub/MOC treatment.
 
-1. [[index|Red Pill Wiki]] — degree `125` · backlinks `6` · outlinks `119`
+1. [[index|Red Pill Wiki]] — degree `126` · backlinks `6` · outlinks `120`
    - **Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn.
 2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `117` · backlinks `91` · outlinks `26`
    - **Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**

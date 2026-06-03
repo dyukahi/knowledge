@@ -49,9 +49,10 @@ Orientation: for readers ready to treat Bitcoin as sovereignty infrastructure, n
 
 1. [[Bitcoin]] — anchor the exit-money thesis.
 2. [[Bitcoin Sẽ Chết Nếu Không Có Privacy]] — stress-test transparent money as control surface.
-3. [[Privacy]] — define privacy as boundary, not secrecy theater.
-4. [[Privacy Is The New Wealth]] — connect financial privacy to status, leverage and survival.
-5. [[Secular Market]] — place conviction inside long-cycle market discipline.
+3. [[Chainlink - Mắt Xích Của Tokenized World]] — read oracle/RWA/tokenization as the bridge from ledger money to banking rails.
+4. [[Privacy]] — define privacy as boundary, not secrecy theater.
+5. [[Privacy Is The New Wealth]] — connect financial privacy to status, leverage and survival.
+6. [[Secular Market]] — place conviction inside long-cycle market discipline.
 
 ### 3. High-Risk Caution Path — CBDC, UBI, Programmable Compliance
 
@@ -59,9 +60,10 @@ Orientation: read this path slowly. It can become panic porn if the reader skips
 
 1. [[Tiền Pháp Định]] — establish why centralized issuance matters.
 2. [[Gen Z và CBDC - Programmable Money Psychology]] — study programmable money as training, not just policy.
-3. [[Digital ID Normalization - From Instagram to Government ID]] — follow identity as the access layer.
-4. [[UBI Conditioning - The End of Work Ethic]] — examine dependency as incentive design.
-5. [[Báo Cáo 2030]] — map the governance stack behind the financial rail.
+3. [[Chainlink - Mắt Xích Của Tokenized World]] — follow how oracle infrastructure can connect assets, banks and identity-aware rails.
+4. [[Digital ID Normalization - From Instagram to Government ID]] — follow identity as the access layer.
+5. [[UBI Conditioning - The End of Work Ethic]] — examine dependency as incentive design.
+6. [[Báo Cáo 2030]] — map the governance stack behind the financial rail.
 
 ### 4. Wealth Psychology Path — Time Preference & Desire
 
@@ -101,6 +103,7 @@ Orientation: use this when finance starts touching politics, psychology and esot
 - [[Bitcoin Sẽ Chết Nếu Không Có Privacy]] — why transparent money can become a control surface.
 - [[Tiền Pháp Định]] — fiat as debt, permission and debasement architecture.
 - [[Gen Z và CBDC - Programmable Money Psychology]] — how programmable money trains behavior before law arrives.
+- [[Chainlink - Mắt Xích Của Tokenized World]] — oracle, RWA and tokenization bridge between crypto and banking rails.
 - [[Điều Mà Trường Học Không Dạy Về Tiền]] — basic literacy the system omits.
 
 ---
