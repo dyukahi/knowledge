@@ -126,13 +126,13 @@ Chọn path theo câu hỏi đang cháy nhất trong đầu. Không cần đọc
 
 ### 7. Gen Z & Agenda 2030 Path
 
-1. [[Gen Z - Phân Tích Phản Biện]]
-2. [[Gen Z và CBDC - Programmable Money Psychology]]
-3. [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]
-4. [[UBI Conditioning - The End of Work Ethic]]
-5. [[Digital ID Normalization - From Instagram to Government ID]]
-6. [[Climate Anxiety as Control - Fear-Based Compliance]]
-7. [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]]
+1. [[Gen Z - Phân Tích Phản Biện]] — overview: platformized reality and generational conditioning
+2. [[Gen Z và CBDC - Programmable Money Psychology]] — cashless native psychology and programmable money
+3. [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — attention warfare and algorithmic worldview
+4. [[UBI Conditioning - The End of Work Ethic]] — work despair, AI displacement and dependency rails
+5. [[Digital ID Normalization - From Instagram to Government ID]] — identity as access layer
+6. [[Climate Anxiety as Control - Fear-Based Compliance]] — eco-anxiety, carbon wallets and fear compliance
+7. [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]] — human upgrade pressure and body-data sovereignty
 
 ---
 
@@ -265,6 +265,7 @@ Các bài dưới đây là nơi framework gặp sự kiện, culture hoặc bod
 
 ### June 3, 2026
 
+- **Gen Z & Agenda 2030 series rewrite** — rewrote the full path into a sharper flagship arc: Gen Z overview, TikTok/attention warfare, UBI dependency rails, Digital ID access layer, Climate Anxiety compliance and Transhumanism/body-data sovereignty.
 - **[[Chainlink - Mắt Xích Của Tokenized World]]** — new bridge note connecting oracle infrastructure, RWA/tokenization, banking rails, word magic, maritime flow language and the Sergey/Satoshi hypothesis as speculative layer.
 - **[[Gen Z và CBDC - Programmable Money Psychology]]** — rewritten as a flagship conditioning-pipeline article: cashless native psychology, crypto UX as training layer, digital ID, programmable money, algorithmic fairness and privacy exit strategy.
 - **Navigation status** — `index.md`, `crypto-finance/index.md`, [[MOC - Financial Sovereignty]] and `_docs/KNOWLEDGE-MAP.md` updated; broken links remain 0.

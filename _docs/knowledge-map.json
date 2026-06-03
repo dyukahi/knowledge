@@ -11,8 +11,8 @@
       "politics-conspiracy": 24,
       "science-tech": 17
     },
-    "tags": 180,
-    "wikilinkEdges": 1934,
+    "tags": 182,
+    "wikilinkEdges": 1924,
     "brokenLinks": 0,
     "orphans": 3
   },
@@ -133,7 +133,6 @@
           "esoterica/Ma Trận.md",
           "index.md",
           "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-          "mental-models/UBI Conditioning - The End of Work Ethic.md",
           "MOC - Financial Sovereignty.md",
           "politics-conspiracy/Báo Cáo 2030.md",
           "politics-conspiracy/Elite.md",
@@ -456,8 +455,6 @@
           "esoterica/Cabal.md",
           "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
           "index.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/UBI Conditioning - The End of Work Ethic.md",
           "MOC - Financial Sovereignty.md",
           "politics-conspiracy/Báo Cáo 2030.md",
           "politics-conspiracy/Elite.md",
@@ -521,6 +518,7 @@
           "crypto-finance/Tiền tiền tiền.md",
           "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
           "index.md",
+          "mental-models/UBI Conditioning - The End of Work Ethic.md",
           "MOC - Financial Sovereignty.md",
           "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
         ],
@@ -7782,6 +7780,7 @@
           "6. AI-Age Agency Path — Mind Versus Machine",
           "Key Hubs",
           "Flagship Articles",
+          "Gen Z & Agenda 2030 Path",
           "Related Gateways"
         ],
         "wikilinks": [
@@ -7868,7 +7867,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 866,
+        "words": 910,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -8207,7 +8206,8 @@
           "MOC - Science Revisionism.md",
           "science-tech/AI.md",
           "science-tech/index.md",
-          "science-tech/Khoa Học Xét Lại.md"
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
         ],
         "words": 2756,
         "summary": "*The Empty Brain & AI Brain Rot*"
@@ -8533,149 +8533,6 @@
         "summary": "Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about mal…"
       },
       {
-        "path": "mental-models/Gen Z - Phân Tích Phản Biện.md",
-        "title": "Gen Z - Phân Tích Phản Biện",
-        "domain": "mental-models",
-        "tags": [
-          "agenda-2030",
-          "generation",
-          "mental-model",
-          "psychology",
-          "society"
-        ],
-        "aliases": [
-          "Gen Z",
-          "Generation Z",
-          "Thế hệ Z"
-        ],
-        "headings": [
-          "Gen Z - Phân Tích Phản Biện (Critical Analysis)",
-          "🔗 Gen Z & Agenda 2030: The Perfect Match?",
-          "10 Câu Hỏi Phản Biện",
-          "1. Trầm cảm cao kỷ lục dù điều kiện tốt nhất?",
-          "2. Quiet quitting, job hopping, năng suất thấp?",
-          "3. Né trách nhiệm trưởng thành?",
-          "4. Activism = Performative?",
-          "5. Dễ bị TikTok brainwash, cancel culture?",
-          "6. Tại sao CEO vẫn là Gen X/Millennial?",
-          "7. Kiến thức lịch sử/tài chính yếu?",
-          "8. \"Inclusive\" nhưng cực đoan với ý kiến trái chiều?",
-          "9. Phụ thuộc validation mạng xã hội?",
-          "10. Có sẵn sàng làm chủ tương lai?",
-          "Tổng Kết",
-          "🎯 Kết Luận Cuối / Final Conclusion",
-          "Mở Rộng (Có Thể Phát Triển)",
-          "Related"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Climate Anxiety as Control - Fear-Based Compliance",
-          "Digital ID Normalization - From Instagram to Government ID",
-          "Gen Z và CBDC - Programmable Money Psychology",
-          "Mental Model",
-          "Thông Minh",
-          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-          "Tiền Giấy - Tiền Mặt",
-          "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
-          "Tư Duy Lũy Thừa",
-          "UBI Conditioning - The End of Work Ethic"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "mental-models/UBI Conditioning - The End of Work Ethic.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "index.md",
-          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-          "mental-models/index.md",
-          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-          "mental-models/UBI Conditioning - The End of Work Ethic.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
-        ],
-        "words": 1253,
-        "summary": "10 câu hỏi phản biện về \"thế hệ vượt trội\" Gen Z — và mối liên hệ với Báo Cáo 2030."
-      },
-      {
-        "path": "mental-models/Thông Minh vs Trí Tuệ.md",
-        "title": "Thông Minh vs Trí Tuệ",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model",
-          "philosophy"
-        ],
-        "aliases": [
-          "Intelligence vs Wisdom",
-          "Smart vs Wise"
-        ],
-        "headings": [
-          "Thông Minh vs Trí Tuệ (Intelligence vs Wisdom)",
-          "Vault Position / Vị Trí Trong Vault",
-          "Bản Đồ Nhanh / Quick Map",
-          "Khác Biệt Gốc / Root Difference",
-          "Trong Đối Nhân Xử Thế / Human Dealings",
-          "Trong Học Tập & Kiến Thức / Learning",
-          "Trong Sức Khỏe / Health Sovereignty",
-          "Trong Tiền Bạc & Thành Công / Wealth",
-          "Vì Sao Ma Trận Thích Người Thông Minh Nhưng Sợ Người Trí Tuệ",
-          "Nhận Diện Trong Đời Thường / Recognition",
-          "Kết Luận / Conclusion",
-          "Related / Liên quan"
-        ],
-        "wikilinks": [
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Individuation",
-          "Ma Trận",
-          "Nghịch Lý Của Hiểu Biết",
-          "Thông Minh",
-          "Trí Tuệ",
-          "Tư Duy Lũy Thừa",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Y Tế Tự Nhiên.md",
-          "mental-models/Individuation.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tư Duy Lũy Thừa.md"
-        ],
-        "backlinks": [
-          "esoterica/Atula.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "index.md",
-          "mental-models/index.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "science-tech/AI.md",
-          "science-tech/index.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-        ],
-        "words": 1460,
-        "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không.** Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trậ…"
-      },
-      {
         "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "domain": "mental-models",
@@ -8739,16 +8596,92 @@
           "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
           "health/Công Thức Chữa Lành Tự Nhiên.md",
           "index.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/index.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
           "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
           "mental-models/Tư Duy Lũy Thừa.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
         ],
         "words": 892,
         "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
+      },
+      {
+        "path": "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "title": "Gen Z - Phân Tích Phản Biện",
+        "domain": "mental-models",
+        "tags": [
+          "agenda-2030",
+          "generation",
+          "mental-model",
+          "psychology",
+          "society"
+        ],
+        "aliases": [
+          "Gen Z",
+          "Gen Z Agenda 2030",
+          "Generation Z",
+          "Thế hệ Z"
+        ],
+        "headings": [
+          "Gen Z - Phân Tích Phản Biện",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. The Setup: Một Thế Hệ Sinh Ra Sau Khi Interface Đã Thắng",
+          "2. Agenda 2030 Lens: Perfect Match Hay Overread?",
+          "3. Mental Health Crisis: Nạn Nhân Hay Gateway?",
+          "4. Ownership Collapse: Không Sở Hữu Gì Và Gọi Đó Là Lifestyle",
+          "5. Algorithmic Worldview: Không Chọn Narrative, Được Feed Narrative",
+          "6. Performative Activism: Crowd-Sourced Morality",
+          "7. Inclusive Nhưng Dễ Thành Permission Culture",
+          "8. Work Ethic Và Learned Helplessness",
+          "9. Social Credit Đã Có Dạng Mềm",
+          "10. The Gen Z Trap Và The Gen Z Gift",
+          "Series Map / Gen Z & Agenda 2030 Path",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Climate Anxiety as Control - Fear-Based Compliance",
+          "Digital ID Normalization - From Instagram to Government ID",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Gen Z - Phân Tích Phản Biện",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "MOC - Financial Sovereignty",
+          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+          "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+          "UBI Conditioning - The End of Work Ethic"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/UBI Conditioning - The End of Work Ethic.md",
+          "MOC - Financial Sovereignty.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "index.md",
+          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+          "mental-models/index.md",
+          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+          "mental-models/UBI Conditioning - The End of Work Ethic.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
+        ],
+        "words": 1513,
+        "summary": "**Gen Z không phải “thế hệ hỏng”, cũng không phải “thế hệ cứu thế giới”. Họ là thế hệ đầu tiên lớn lên trong một môi trường nơi attention, identity, money, desire và fear đều được platform hóa. Muốn hiểu Gen Z, đừng hỏi họ tốt hay xấu. Hỏi: hệ thống nào đã th…"
       },
       {
         "path": "mental-models/Nguyên Mẫu.md",
@@ -8812,6 +8745,127 @@
         "summary": "**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là \"nhân vật trong thần thoại\". Chúng là phần mềm biểu tượng khiến con người nhận ra King, Mothe…"
       },
       {
+        "path": "mental-models/Thông Minh vs Trí Tuệ.md",
+        "title": "Thông Minh vs Trí Tuệ",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model",
+          "philosophy"
+        ],
+        "aliases": [
+          "Intelligence vs Wisdom",
+          "Smart vs Wise"
+        ],
+        "headings": [
+          "Thông Minh vs Trí Tuệ (Intelligence vs Wisdom)",
+          "Vault Position / Vị Trí Trong Vault",
+          "Bản Đồ Nhanh / Quick Map",
+          "Khác Biệt Gốc / Root Difference",
+          "Trong Đối Nhân Xử Thế / Human Dealings",
+          "Trong Học Tập & Kiến Thức / Learning",
+          "Trong Sức Khỏe / Health Sovereignty",
+          "Trong Tiền Bạc & Thành Công / Wealth",
+          "Vì Sao Ma Trận Thích Người Thông Minh Nhưng Sợ Người Trí Tuệ",
+          "Nhận Diện Trong Đời Thường / Recognition",
+          "Kết Luận / Conclusion",
+          "Related / Liên quan"
+        ],
+        "wikilinks": [
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Individuation",
+          "Ma Trận",
+          "Nghịch Lý Của Hiểu Biết",
+          "Thông Minh",
+          "Trí Tuệ",
+          "Tư Duy Lũy Thừa",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Y Tế Tự Nhiên.md",
+          "mental-models/Individuation.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md"
+        ],
+        "backlinks": [
+          "esoterica/Atula.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "science-tech/AI.md",
+          "science-tech/index.md"
+        ],
+        "words": 1460,
+        "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không.** Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trậ…"
+      },
+      {
+        "path": "mental-models/Tư Duy Lũy Thừa.md",
+        "title": "Tư Duy Lũy Thừa",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model"
+        ],
+        "aliases": [
+          "Exponential Thinking",
+          "Non-linear Growth"
+        ],
+        "headings": [
+          "Tư Duy Lũy Thừa (Exponential Thinking)",
+          "Vault Position / Vị Trí Trong Map",
+          "Tổng Quan / Overview",
+          "Các Khái Niệm Cốt Lõi / Core Concepts",
+          "1. Tính Phi Tuyến Tính / Non-linearity",
+          "2. Phương Pháp Rèn Luyện / Training Method",
+          "3. Thung Lũng Tích Lũy / Valley of Accumulation",
+          "4. Bước Ngoặt / Tipping Point",
+          "5. Sự Kiên Nhẫn / Patience",
+          "Ứng Dụng Thực Tế / Practical Application",
+          "Evidence Discipline / Kỷ Luật Chứng Cứ",
+          "Related / Liên quan"
+        ],
+        "wikilinks": [
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Individuation",
+          "Ma Trận",
+          "Mental Model",
+          "Thông Minh vs Trí Tuệ"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Individuation.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/index.md",
+          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "MOC - Financial Sovereignty.md"
+        ],
+        "words": 1286,
+        "summary": "**Tư duy lũy thừa là khả năng nhìn thấy giai đoạn tích lũy vô hình trước khi kết quả bùng nổ.** Nó chống lại ảo giác tuyến tính của trường học, công sở và dopamine economy: làm một chút, nhận một chút, thấy thưởng ngay. Những kết quả đột phá thường đến từ cườ…"
+      },
+      {
         "path": "mental-models/Mental Model.md",
         "title": "Mental Model",
         "domain": "mental-models",
@@ -8863,74 +8917,14 @@
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
           "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
           "index.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/index.md",
           "mental-models/Privacy Is The New Wealth.md",
           "mental-models/Thông Minh.md",
           "mental-models/Tư Duy Lũy Thừa.md",
-          "MOC - Epistemology & Propaganda.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+          "MOC - Epistemology & Propaganda.md"
         ],
         "words": 1169,
         "summary": "**Mental model là bản đồ vận hành của reality trong đầu bạn.** Người có model nghèo bị sự kiện kéo đi. Người có model tốt thấy cấu trúc phía sau sự kiện, dự đoán hậu quả tốt hơn và chọn phản ứng tỉnh hơn. Trong redpill.wiki, mental model không phải mẹo năng s…"
-      },
-      {
-        "path": "mental-models/Tư Duy Lũy Thừa.md",
-        "title": "Tư Duy Lũy Thừa",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model"
-        ],
-        "aliases": [
-          "Exponential Thinking",
-          "Non-linear Growth"
-        ],
-        "headings": [
-          "Tư Duy Lũy Thừa (Exponential Thinking)",
-          "Vault Position / Vị Trí Trong Map",
-          "Tổng Quan / Overview",
-          "Các Khái Niệm Cốt Lõi / Core Concepts",
-          "1. Tính Phi Tuyến Tính / Non-linearity",
-          "2. Phương Pháp Rèn Luyện / Training Method",
-          "3. Thung Lũng Tích Lũy / Valley of Accumulation",
-          "4. Bước Ngoặt / Tipping Point",
-          "5. Sự Kiên Nhẫn / Patience",
-          "Ứng Dụng Thực Tế / Practical Application",
-          "Evidence Discipline / Kỷ Luật Chứng Cứ",
-          "Related / Liên quan"
-        ],
-        "wikilinks": [
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Individuation",
-          "Ma Trận",
-          "Mental Model",
-          "Thông Minh vs Trí Tuệ"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Individuation.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Giàu Không Nhờ May Mắn.md",
-          "crypto-finance/index.md",
-          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "index.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/index.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "MOC - Financial Sovereignty.md"
-        ],
-        "words": 1286,
-        "summary": "**Tư duy lũy thừa là khả năng nhìn thấy giai đoạn tích lũy vô hình trước khi kết quả bùng nổ.** Nó chống lại ảo giác tuyến tính của trường học, công sở và dopamine economy: làm một chút, nhận một chút, thấy thưởng ngay. Những kết quả đột phá thường đến từ cườ…"
       },
       {
         "path": "mental-models/UBI Conditioning - The End of Work Ethic.md",
@@ -8944,59 +8938,45 @@
           "psychology"
         ],
         "aliases": [
+          "Dependency Rails",
           "Quiet Quitting",
           "UBI",
           "Universal Basic Income",
           "Work Ethic"
         ],
         "headings": [
-          "UBI Conditioning: Gen Z Và Sự Kết Thúc Của Work Ethic",
-          "TL;DR (English Summary)",
-          "TL;DR (Tiếng Việt)",
-          "Phần 1: The Great Decoupling — Khi Công Việc Mất Ý Nghĩa",
-          "1.1 Tại Sao Gen Z \"Quiet Quitting\"?",
-          "1.2 Từ Quiet Quitting Đến Quiet Quitting Life",
-          "Phần 2: The UBI Pipeline — Ai Được Lợi?",
-          "2.1 Lộ Trình Conditioning",
-          "2.2 Ai Đang Push UBI?",
-          "Phần 3: UBI + CBDC = The Control Grid",
-          "3.1 UBI Đơn Thuần vs UBI + CBDC",
-          "3.2 Programmable UBI — Các Scenario",
-          "3.3 The Dependency Trap",
-          "Phần 4: Gen Z — The Perfect Test Subjects",
-          "4.1 Tại Sao Gen Z Dễ Accept UBI Nhất?",
-          "4.2 Antiwork Subreddit — Case Study",
-          "4.3 AI Anxiety — Fuel Cho UBI Fire",
-          "Phần 5: The Historical Pattern — Bread and Circuses",
-          "5.1 Rome's Welfare System",
-          "5.2 Modern Equivalent",
-          "Phần 6: Counter-Arguments & Reality Check",
-          "6.1 \"UBI Gives Freedom\"",
-          "6.2 \"AI Will Take All Jobs Anyway\"",
-          "6.3 \"Gen Z Just Wants Work-Life Balance\"",
-          "Phần 7: Exit Strategy — Avoiding The Trap",
-          "For Gen Z:",
-          "For Society:",
-          "Kết Luận",
-          "Related",
-          "Sources"
+          "UBI Conditioning - The End of Work Ethic",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Work Ethic Không Tự Nhiên Mà Chết",
+          "2. Quiet Quitting Là Triệu Chứng, Không Phải Gốc Bệnh",
+          "3. Antiwork Narrative: Liberation Hay Soft Surrender?",
+          "4. UBI Có Hai Linh Hồn",
+          "UBI như freedom floor",
+          "UBI như dependency rail",
+          "5. UBI + CBDC Là Cấu Hình Rủi Ro Nhất",
+          "6. AI Displacement Là Catalyst",
+          "7. Dependency Trap",
+          "8. Work Ethic Cần Được Rebuilt, Không Phục Cổ",
+          "9. UBI Claim Discipline",
+          "Synthesis",
+          "Related"
         ],
         "wikilinks": [
-          "Bitcoin",
           "Báo Cáo 2030",
+          "Digital ID Normalization - From Instagram to Government ID",
           "Gen Z - Phân Tích Phản Biện",
           "Gen Z và CBDC - Programmable Money Psychology",
-          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-          "Tiền Giấy - Tiền Mặt"
+          "MOC - Financial Sovereignty",
+          "Tiền Pháp Định"
         ],
         "mdlinks": [],
         "outlinks": [
-          "crypto-finance/Bitcoin.md",
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "crypto-finance/Tiền Pháp Định.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "MOC - Financial Sovereignty.md",
           "politics-conspiracy/Báo Cáo 2030.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
         ],
         "backlinks": [
           "crypto-finance/index.md",
@@ -9008,11 +8988,10 @@
           "mental-models/Schadenfreude - Dopamine Phản Diện.md",
           "MOC - Financial Sovereignty.md",
           "politics-conspiracy/index.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
         ],
-        "words": 1430,
-        "summary": "*UBI Conditioning: Gen Z And The End of Work Ethic*"
+        "words": 1118,
+        "summary": "**UBI không chỉ là câu hỏi kinh tế: “ai trả tiền?” Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
       },
       {
         "path": "mental-models/Privacy Is The New Wealth.md",
@@ -9152,56 +9131,32 @@
         "tags": [
           "agenda-2030",
           "climate",
+          "compliance",
           "generation",
           "mental-model",
           "psychology"
         ],
         "aliases": [
+          "Carbon Wallet",
           "Climate Anxiety",
           "Climate Doomerism",
           "Climate Fear",
           "Eco-Anxiety"
         ],
         "headings": [
-          "Climate Anxiety as Control: Khi Nỗi Sợ Trở Thành Công Cụ",
-          "TL;DR (English Summary)",
-          "TL;DR (Tiếng Việt)",
-          "Phần 1: Gen Z — Thế Hệ Lo Âu Nhất Về Khí Hậu",
-          "1.1 Số Liệu Đáng Lo",
-          "1.2 Eco-Anxiety Là Gì?",
-          "1.3 \"Doomerism\" — Khi Lo Âu Trở Thành Tuyệt Vọng",
-          "Phần 2: Fear-Based Control — Cơ Chế Hoạt Động",
-          "2.1 The Fear → Solution Pipeline",
-          "2.2 Amplification Engine — How Fear Spreads",
-          "2.3 The Guilt Machine",
-          "Phần 3: Carbon Tracking — The Coming Control Grid",
-          "3.1 Personal Carbon Allowance (PCA)",
-          "3.2 How It Would Work (CBDC + Carbon)",
-          "3.3 Who's Exempt?",
-          "Phần 4: 15-Minute Cities — Convenience or Cage?",
-          "4.1 The Official Narrative",
-          "4.2 The Concern",
-          "4.3 The Slippery Slope",
-          "Phần 5: Gen Z & The Childless Future",
-          "5.1 Climate Change = No Kids?",
-          "5.2 Cui Bono? (Who Benefits?)",
-          "5.3 The Real Math",
-          "Phần 6: Real vs Manufactured — Separating Facts",
-          "6.1 What's Real",
-          "6.2 What's Manufactured/Exaggerated",
-          "6.3 The Nuanced Truth",
-          "Phần 7: The Psychological Operation",
-          "7.1 Fear Hierarchy",
-          "7.2 Learned Helplessness",
-          "7.3 The Savior Complex",
-          "Phần 8: Exit Strategy — Rational Climate Response",
-          "Level 1: Perspective",
-          "Level 2: Action Without Fear",
-          "Level 3: Reject Control Disguised as Green",
-          "Level 4: Reclaim Agency",
-          "Kết Luận",
-          "Related",
-          "Sources"
+          "Climate Anxiety as Control - Fear-Based Compliance",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Eco-Anxiety Là Gì?",
+          "2. Từ Fear Sang Compliance",
+          "3. Personal Guilt Machine",
+          "4. Climate Doomerism Là Paralysis",
+          "5. Carbon Wallet: Từ Moral Metric Sang Permission Rail",
+          "6. 15-Minute City: Convenience Hay Cage?",
+          "7. Greenwashing Và Elite Exemption",
+          "8. Climate Anxiety Trong Gen Z Path",
+          "9. Claim Discipline: Không Rơi Vào Hai Cực",
+          "Synthesis",
+          "Related"
         ],
         "wikilinks": [
           "Báo Cáo 2030",
@@ -9229,59 +9184,8 @@
           "politics-conspiracy/index.md",
           "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
         ],
-        "words": 1513,
-        "summary": "*Climate Anxiety as Control: When Fear Becomes a Tool*"
-      },
-      {
-        "path": "mental-models/Thông Minh.md",
-        "title": "Thông Minh",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model"
-        ],
-        "aliases": [
-          "Intelligence"
-        ],
-        "headings": [
-          "Thông Minh (Intelligence)",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Cách Đọc",
-          "Intelligence Là Công Cụ, Không Phải Chủ",
-          "Các Dạng Thông Minh",
-          "Ma Trận Thích Người Thông Minh",
-          "Khi Intelligence Bị Ego Chiếm",
-          "Tích Hợp Với Trí Tuệ",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Individuation",
-          "Ma Trận",
-          "Mental Model",
-          "Thông Minh",
-          "Thông Minh vs Trí Tuệ",
-          "Trí Tuệ",
-          "Tâm Lý Học Jung"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "mental-models/Individuation.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tâm Lý Học Jung.md"
-        ],
-        "backlinks": [
-          "esoterica/Atula.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Trí Tuệ.md",
-          "politics-conspiracy/Sự thật về ma túy.md",
-          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
-        ],
-        "words": 714,
-        "summary": "**Thông minh là năng lực xử lý thông tin, nhận pattern, tính toán, học nhanh và giải quyết vấn đề trong một rule-set.** Nó rất mạnh, nhưng không tự trả lời được câu hỏi rule-set đó có đáng chơi không. Vì vậy redpill.wiki luôn đặt Thông Minh cạnh Trí Tuệ: smar…"
+        "words": 1096,
+        "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ “cứu hành tinh”.**"
       },
       {
         "path": "mental-models/Chia Tách Bởi Nhị Nguyên.md",
@@ -9409,6 +9313,56 @@
         ],
         "words": 1577,
         "summary": "**Schadenfreude** (tiếng Đức: *Schaden* = thiệt hại, *Freude* = niềm vui) là cảm giác khoái lạc khi chứng kiến người khác gặp bất hạnh. Não bộ release dopamine — cùng chất hóa học khi ăn ngon, sex, hoặc thắng cược — nhưng nguồn kích thích là nỗi đau của người…"
+      },
+      {
+        "path": "mental-models/Thông Minh.md",
+        "title": "Thông Minh",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model"
+        ],
+        "aliases": [
+          "Intelligence"
+        ],
+        "headings": [
+          "Thông Minh (Intelligence)",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc",
+          "Intelligence Là Công Cụ, Không Phải Chủ",
+          "Các Dạng Thông Minh",
+          "Ma Trận Thích Người Thông Minh",
+          "Khi Intelligence Bị Ego Chiếm",
+          "Tích Hợp Với Trí Tuệ",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Individuation",
+          "Ma Trận",
+          "Mental Model",
+          "Thông Minh",
+          "Thông Minh vs Trí Tuệ",
+          "Trí Tuệ",
+          "Tâm Lý Học Jung"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "mental-models/Individuation.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Trí Tuệ.md",
+          "mental-models/Tâm Lý Học Jung.md"
+        ],
+        "backlinks": [
+          "esoterica/Atula.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Trí Tuệ.md",
+          "politics-conspiracy/Sự thật về ma túy.md",
+          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
+        ],
+        "words": 714,
+        "summary": "**Thông minh là năng lực xử lý thông tin, nhận pattern, tính toán, học nhanh và giải quyết vấn đề trong một rule-set.** Nó rất mạnh, nhưng không tự trả lời được câu hỏi rule-set đó có đáng chơi không. Vì vậy redpill.wiki luôn đặt Thông Minh cạnh Trí Tuệ: smar…"
       },
       {
         "path": "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -9910,7 +9864,8 @@
           "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-          "science-tech/Khoa Học Xét Lại.md"
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
         ],
         "words": 1360,
         "summary": "**Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…"
@@ -11734,7 +11689,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 2123,
+        "words": 2201,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -11973,7 +11928,6 @@
           "politics-conspiracy/index.md",
           "politics-conspiracy/Operation Paperclip.md",
           "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
           "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -11981,8 +11935,6 @@
           "science-tech/Khoa Học Xét Lại.md",
           "science-tech/Nikola Tesla.md",
           "science-tech/Pin Natri-ion.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
           "science-tech/Tần Số Schumann.md",
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
           "science-tech/Walter Russell.md"
@@ -12149,14 +12101,11 @@
           "MOC - Epistemology & Propaganda.md",
           "MOC - Science Revisionism.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
           "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
           "science-tech/index.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
+          "science-tech/Khoa Học Xét Lại.md"
         ],
         "words": 1337,
         "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
@@ -12290,7 +12239,9 @@
           "esoterica/Cabal.md",
           "esoterica/Ma Trận.md",
           "index.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/index.md",
+          "mental-models/UBI Conditioning - The End of Work Ethic.md",
           "politics-conspiracy/Elite.md",
           "politics-conspiracy/index.md"
         ],
@@ -12477,7 +12428,6 @@
           "politics-conspiracy/Trái Đất Phẳng.md",
           "science-tech/AI.md",
           "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
           "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -12485,8 +12435,6 @@
           "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
           "science-tech/Nikola Tesla.md",
           "science-tech/Năng Lượng Aether.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
           "science-tech/Tần Số Schumann.md",
           "science-tech/Walter Russell.md"
         ],
@@ -12519,6 +12467,7 @@
           "6. Cross-Domain Bridge Path — Technocracy, Identity, Body",
           "Key Hubs",
           "Flagship Articles",
+          "Gen Z Technology Control Path",
           "Related Gateways"
         ],
         "wikilinks": [
@@ -12601,7 +12550,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 862,
+        "words": 911,
         "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
       },
       {
@@ -12811,6 +12760,7 @@
         "domain": "science-tech",
         "tags": [
           "agenda-2030",
+          "digital-id",
           "generation",
           "psychology",
           "science-tech",
@@ -12820,70 +12770,40 @@
           "Biometric ID",
           "Digital ID",
           "Digital Identity",
-          "EU Digital Wallet"
+          "Identity Wallet",
+          "Verify to Exist"
         ],
         "headings": [
-          "Digital ID Normalization: Từ Instagram Profile Đến Government ID",
-          "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "TL;DR (English Summary)",
-          "TL;DR (Tiếng Việt)",
-          "Phần 1: The Identity Pipeline — Từ MySpace Đến Biometric ID",
-          "1.1 Gen Z: Digital Identity Natives",
-          "1.2 Normalization Process",
-          "Phần 2: Social Media — The Training Ground",
-          "2.1 What Gen Z Voluntarily Shares",
-          "2.2 Platform → Government Pipeline",
-          "Phần 3: Age Verification — The Trojan Horse",
-          "3.1 \"Protect The Children\"",
-          "3.2 The Slippery Slope (That's Actually a Ski Jump)",
-          "Phần 4: EU Digital Identity Wallet — The Blueprint",
-          "4.1 What Is EUDI Wallet?",
-          "4.2 \"Selective Disclosure\" — The Lie",
-          "4.3 Privacy Concerns (From Privacy Groups)",
-          "Phần 5: Worldcoin — The Crypto Trojan Horse",
-          "5.1 What Is Worldcoin?",
-          "5.2 What Actually Happened",
-          "5.3 The Real Goal",
-          "Phần 6: Gen Z Psychology — Why They Accept It",
-          "6.1 \"I Have Nothing To Hide\"",
-          "6.2 \"It's For Security\"",
-          "6.3 \"Everyone's Doing It\"",
-          "6.4 \"It's Convenient\"",
-          "Phần 7: The Endgame — Digital Existence Permit",
-          "7.1 2030 Scenario",
-          "7.2 Kill Switch Capability",
-          "Phần 8: Exit Strategy — Digital Sovereignty",
-          "Level 1: Awareness",
-          "Level 2: Minimize",
-          "Level 3: Alternatives",
-          "Level 4: Resistance",
-          "Kết Luận",
-          "Related",
-          "Sources"
+          "Digital ID Normalization - From Instagram to Government ID",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Từ Identity Vật Lý Sang Identity Interface",
+          "2. Platform Là Training Ground",
+          "3. Gen Z Đã Tự Build Hồ Sơ Trước Khi Nhà Nước Hỏi",
+          "4. Age Verification: Trojan Horse Của Universal ID",
+          "5. Digital ID + CBDC: Cặp Đôi Nguy Hiểm",
+          "6. Selective Disclosure: Tốt Trên Giấy, Phụ Thuộc Governance",
+          "7. Biometrics: Khi Password Là Cơ Thể",
+          "8. “Verify To Exist”",
+          "9. Digital ID Có Thể Tốt Không?",
+          "Synthesis",
+          "Related"
         ],
         "wikilinks": [
           "Báo Cáo 2030",
-          "Cách Đọc Red Pill Wiki",
           "Gen Z - Phân Tích Phản Biện",
           "Gen Z và CBDC - Programmable Money Psychology",
-          "Khoa Học Xét Lại",
-          "MOC - Science Revisionism",
           "Privacy",
-          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+          "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
           "UBI Conditioning - The End of Work Ethic"
         ],
         "mdlinks": [],
         "outlinks": [
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Privacy.md",
-          "Cách Đọc Red Pill Wiki.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/UBI Conditioning - The End of Work Ethic.md",
-          "MOC - Science Revisionism.md",
           "politics-conspiracy/Báo Cáo 2030.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
         ],
         "backlinks": [
           "crypto-finance/index.md",
@@ -12892,209 +12812,17 @@
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/UBI Conditioning - The End of Work Ethic.md",
           "MOC - Epistemology & Propaganda.md",
           "MOC - Science Revisionism.md",
           "politics-conspiracy/Báo Cáo 2030.md",
           "politics-conspiracy/index.md",
           "science-tech/index.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
           "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
         ],
-        "words": 1687,
-        "summary": "*Digital ID Normalization: From Instagram Profile To Government ID*"
-      },
-      {
-        "path": "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "title": "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z?",
-        "domain": "science-tech",
-        "tags": [
-          "agenda-2030",
-          "generation",
-          "information-warfare",
-          "psychology",
-          "science-tech"
-        ],
-        "aliases": [
-          "Information Warfare",
-          "TikTok Algorithm",
-          "TikTok Brain"
-        ],
-        "headings": [
-          "TikTok Algorithm: Ai Kiểm Soát Worldview Của Gen Z?",
-          "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "TL;DR (English Summary)",
-          "TL;DR (Tiếng Việt)",
-          "Phần 1: Dopamine Machine — Cách TikTok Hack Não Gen Z",
-          "1.1 The 8-Second Brain",
-          "1.2 Cơ Chế Nghiện",
-          "1.3 \"TikTok Brain\" Là Gì?",
-          "Phần 2: Algorithm — The Black Box Of Mind Control",
-          "2.1 For You Page (FYP) Hoạt Động Thế Nào?",
-          "2.2 Bạn Không Chọn Content — Content Chọn Bạn",
-          "Phần 3: ByteDance & CCP — The Elephant In The Room",
-          "3.1 Ai Sở Hữu TikTok?",
-          "3.2 Algorithm Đã Được Share Với CCP",
-          "3.3 November 2025 Leak — The Smoking Gun",
-          "Phần 4: Information Warfare — What CCP Gains",
-          "4.1 Divide & Conquer",
-          "4.2 Attention Drain",
-          "4.3 Cultural Programming",
-          "Phần 5: The TikTok Deal (2026) — Solution Hay Illusion?",
-          "5.1 Chuyện Gì Đã Xảy Ra?",
-          "5.2 Vấn Đề Vẫn Còn",
-          "Phần 6: So Sánh — TikTok vs Các Platform Khác",
-          "Phần 7: Exit Strategy Cho Gen Z",
-          "Level 1: Awareness",
-          "Level 2: Reduction",
-          "Level 3: Diversification",
-          "Level 4: Detox",
-          "Level 5: Exit",
-          "Kết Luận",
-          "Related",
-          "Sources"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Cách Đọc Red Pill Wiki",
-          "Gen Z - Phân Tích Phản Biện",
-          "Gen Z và CBDC - Programmable Money Psychology",
-          "Khoa Học Xét Lại",
-          "Mental Model",
-          "MOC - Science Revisionism",
-          "Thông Minh vs Trí Tuệ"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/index.md",
-          "mental-models/UBI Conditioning - The End of Work Ethic.md",
-          "MOC - Epistemology & Propaganda.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-          "science-tech/index.md",
-          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
-        ],
-        "words": 1403,
-        "summary": "*TikTok Algorithm: Who Controls Gen Z's Worldview?*"
-      },
-      {
-        "path": "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-        "title": "Transhumanism và Gen Z - Cool Tech hay Slippery Slope?",
-        "domain": "science-tech",
-        "tags": [
-          "agenda-2030",
-          "generation",
-          "psychology",
-          "science-tech",
-          "transhumanism"
-        ],
-        "aliases": [
-          "Biohacking",
-          "Cyborg",
-          "Human Enhancement",
-          "Neuralink",
-          "Transhumanism"
-        ],
-        "headings": [
-          "Transhumanism và Gen Z: Cool Tech hay Slippery Slope?",
-          "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "TL;DR (English Summary)",
-          "TL;DR (Tiếng Việt)",
-          "Phần 1: Transhumanism 101",
-          "1.1 Transhumanism Là Gì?",
-          "1.2 Các Công Nghệ Đang Phát Triển",
-          "1.3 The Silicon Valley Vision",
-          "Phần 2: Gen Z — The Augmentation-Ready Generation",
-          "2.1 Tại Sao Gen Z Dễ Accept Nhất?",
-          "2.2 Survey Data",
-          "Phần 3: The Medical → Enhancement → Mandatory Pipeline",
-          "3.1 Phase 1: Medical Necessity",
-          "3.2 Phase 2: Enhancement Optional",
-          "3.3 Phase 3: Enhancement Expected",
-          "3.4 Phase 4: Enhancement Mandatory",
-          "3.5 Historical Pattern",
-          "Phần 4: Sweden — The Beta Test",
-          "4.1 What's Happening",
-          "4.2 Why Sweden?",
-          "4.3 WEF Promotion",
-          "4.4 The Normalization Effect",
-          "Phần 5: Neuralink — Brain-Computer Interface",
-          "5.1 Current Status (2026)",
-          "5.2 The Musk Vision",
-          "5.3 The Concerns",
-          "Phần 6: The Control Potential",
-          "6.1 RFID/NFC Chips",
-          "6.2 Neural Interfaces",
-          "6.3 Sci-Fi → Reality Timeline",
-          "Phần 7: The Philosophical Trap",
-          "7.1 The \"Choice\" Illusion",
-          "7.2 The Disability Argument",
-          "7.3 The Progress Trap",
-          "Phần 8: Gen Z — Questions To Ask",
-          "Before Embracing Enhancement:",
-          "The Ultimate Question:",
-          "Phần 9: Exit Strategy — Maintaining Human Autonomy",
-          "Level 1: Awareness",
-          "Level 2: Delay",
-          "Level 3: Alternatives",
-          "Level 4: Resistance",
-          "Level 5: Philosophy",
-          "Kết Luận",
-          "Series Complete: Gen Z & The 2030 Agenda",
-          "Related",
-          "Sources"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Climate Anxiety as Control - Fear-Based Compliance",
-          "Cách Đọc Red Pill Wiki",
-          "Digital ID Normalization - From Instagram to Government ID",
-          "Gen Z - Phân Tích Phản Biện",
-          "Gen Z và CBDC - Programmable Money Psychology",
-          "Khoa Học Xét Lại",
-          "MOC - Science Revisionism",
-          "Privacy",
-          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-          "UBI Conditioning - The End of Work Ethic"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/Privacy.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/UBI Conditioning - The End of Work Ethic.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Privacy.md",
-          "index.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "MOC - Science Revisionism.md",
-          "science-tech/index.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 1890,
-        "summary": "*Transhumanism and Gen Z: Cool Tech or Slippery Slope?*"
+        "words": 1092,
+        "summary": "**Digital ID không xuất hiện từ hư không. Nó đi sau một quá trình dài nơi con người tự nguyện biến mình thành profile: tên thật, mặt thật, location, social graph, reputation, behavior, preference. Government ID wallet chỉ là bước formal hóa thứ platform đã no…"
       },
       {
         "path": "science-tech/AI.md",
@@ -13151,7 +12879,8 @@
           "MOC - Science Revisionism.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
           "science-tech/index.md",
-          "science-tech/Khoa Học Xét Lại.md"
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
         ],
         "words": 916,
         "summary": "**AI là máy khuếch đại intelligence không có thân, không có tim, không có karma trực tiếp; vì vậy nó phơi bày rất nhanh sự khác biệt giữa thông minh và trí tuệ.** Trong vault, AI vừa là công cụ, vừa là mirror, vừa là bài thi Atula của nhân loại."
@@ -13248,6 +12977,145 @@
         ],
         "words": 2249,
         "summary": "*Decoding Nuclear Energy & The Radiation Hoax*"
+      },
+      {
+        "path": "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+        "title": "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+        "domain": "science-tech",
+        "tags": [
+          "agenda-2030",
+          "ai",
+          "generation",
+          "psychology",
+          "science-tech",
+          "transhumanism"
+        ],
+        "aliases": [
+          "Biohacking",
+          "Cyborg",
+          "Human Enhancement",
+          "Human Upgrade",
+          "Neuralink",
+          "Transhumanism"
+        ],
+        "headings": [
+          "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Transhumanism Là Gì?",
+          "2. Gen Z Dễ Accept Vì Đã Sống Như Cyborg Mềm",
+          "3. Cool Aesthetic Là Gateway",
+          "4. Medical → Enhancement → Mandatory",
+          "Phase 1: Medical restoration",
+          "Phase 2: Optional enhancement",
+          "Phase 3: Competitive expectation",
+          "Phase 4: Access requirement",
+          "5. Body Data Là Data Sâu Nhất",
+          "6. Digital ID Và Transhumanism Gặp Nhau Ở Biometrics",
+          "7. Enhancement Inequality",
+          "8. AI Merger: Cứu Người Hay Hấp Thụ Người?",
+          "9. Claim Discipline",
+          "10. Sovereign Tech vs Captive Tech",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "AI",
+          "Báo Cáo 2030",
+          "Climate Anxiety as Control - Fear-Based Compliance",
+          "Digital ID Normalization - From Instagram to Government ID",
+          "Gen Z - Phân Tích Phản Biện",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Privacy"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Privacy.md",
+          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "science-tech/AI.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Privacy.md",
+          "index.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/index.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 1162,
+        "summary": "**Transhumanism được bán như tự do nâng cấp bản thân. Nhưng nếu hạ tầng nâng cấp nằm trong tay Big Tech, military, insurance, employer và state, câu hỏi không còn là “con người có nên mạnh hơn không?” Câu hỏi là: ai sở hữu layer nằm giữa cơ thể, tâm trí và má…"
+      },
+      {
+        "path": "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+        "title": "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "domain": "science-tech",
+        "tags": [
+          "agenda-2030",
+          "dopamine",
+          "generation",
+          "information-warfare",
+          "psychology",
+          "science-tech"
+        ],
+        "aliases": [
+          "Algorithmic Worldview",
+          "For You Page",
+          "Information Warfare",
+          "TikTok Algorithm",
+          "TikTok Brain"
+        ],
+        "headings": [
+          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z?",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Version 2026 Của Rothschild Quote",
+          "2. TikTok Không Chỉ Cho Bạn Xem Nội Dung. Nó Đọc Bạn.",
+          "3. Dopamine Slot Machine",
+          "4. Short-Form Feed Và Não Bị Cắt Nhỏ",
+          "5. Worldview Không Được Dạy. Nó Được Feed.",
+          "6. TikTok Và China Risk: Đọc Cho Chặt",
+          "7. Douyin vs TikTok: Câu Hỏi Đáng Hỏi",
+          "8. Algorithmic Censorship Mềm",
+          "9. Gen Z Như Cultural Operating System",
+          "10. TikTok Không Phải Kẻ Duy Nhất",
+          "11. Exit Không Phải Delete App Rồi Xong",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Digital ID Normalization - From Instagram to Government ID",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Gen Z - Phân Tích Phản Biện",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Kiểm Soát Tâm Trí"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/index.md",
+          "MOC - Epistemology & Propaganda.md",
+          "science-tech/index.md"
+        ],
+        "words": 1270,
+        "summary": "**TikTok không chỉ là app giải trí. Nó là một feedback engine: đo phản ứng vi mô của người dùng, tối ưu dopamine, rồi lặp lại frame cho đến khi worldview có cảm giác như tự chọn. Ai kiểm soát feed không cần kiểm soát mọi suy nghĩ. Chỉ cần kiểm soát thứ xuất h…"
       },
       {
         "path": "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
@@ -13929,7 +13797,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2123,
+      "words": 2201,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -14456,7 +14324,6 @@
         "politics-conspiracy/Trái Đất Phẳng.md",
         "science-tech/AI.md",
         "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -14464,8 +14331,6 @@
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
         "science-tech/Nikola Tesla.md",
         "science-tech/Năng Lượng Aether.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
         "science-tech/Tần Số Schumann.md",
         "science-tech/Walter Russell.md"
       ],
@@ -14815,7 +14680,8 @@
         "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Khoa Học Xét Lại.md"
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
       ],
       "words": 1360,
       "summary": "**Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…"
@@ -15401,6 +15267,7 @@
         "6. AI-Age Agency Path — Mind Versus Machine",
         "Key Hubs",
         "Flagship Articles",
+        "Gen Z & Agenda 2030 Path",
         "Related Gateways"
       ],
       "wikilinks": [
@@ -15487,7 +15354,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 866,
+      "words": 910,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
@@ -15606,89 +15473,6 @@
       "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
     },
     {
-      "path": "MOC - Science Revisionism.md",
-      "title": "MOC - Science Revisionism",
-      "domain": "root",
-      "tags": [
-        "moc",
-        "revisionist-science",
-        "science-tech"
-      ],
-      "aliases": [],
-      "headings": [
-        "MOC - Science Revisionism",
-        "Start Here",
-        "Cosmology & Physics",
-        "Technology & Control",
-        "Biology & Medicine Interface",
-        "Synthesis"
-      ],
-      "wikilinks": [
-        "AI",
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-        "Khoa Học Xét Lại",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "Mô Hình Địa Tâm",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nikola Tesla",
-        "Năng Lượng Aether",
-        "Thuyết Trái Đất Phẳng",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
-        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
-        "Vũ Khí Năng Lượng Định Hướng"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/AI.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md",
-        "science-tech/Năng Lượng Aether.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-      ],
-      "backlinks": [
-        "esoterica/index.md",
-        "esoterica/Năng Lượng Natri.md",
-        "health/index.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "index.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Operation Paperclip.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md",
-        "science-tech/Pin Natri-ion.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-        "science-tech/Tần Số Schumann.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-        "science-tech/Walter Russell.md"
-      ],
-      "words": 171,
-      "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là phân biệt science như method với science như institution, rồi dám hỏi lại những giả định được biến thành giáo điều.**"
-    },
-    {
       "path": "science-tech/index.md",
       "title": "Science & Tech Domain Gateway",
       "domain": "science-tech",
@@ -15714,6 +15498,7 @@
         "6. Cross-Domain Bridge Path — Technocracy, Identity, Body",
         "Key Hubs",
         "Flagship Articles",
+        "Gen Z Technology Control Path",
         "Related Gateways"
       ],
       "wikilinks": [
@@ -15796,7 +15581,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 862,
+      "words": 911,
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
     },
     {
@@ -15985,6 +15770,86 @@
       "summary": "**Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh — ta/người, sáng/tối, tinh thần/vật chất, thắng/thua — có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qu…"
     },
     {
+      "path": "MOC - Science Revisionism.md",
+      "title": "MOC - Science Revisionism",
+      "domain": "root",
+      "tags": [
+        "moc",
+        "revisionist-science",
+        "science-tech"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Science Revisionism",
+        "Start Here",
+        "Cosmology & Physics",
+        "Technology & Control",
+        "Biology & Medicine Interface",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "AI",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Cách Đọc Red Pill Wiki",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+        "Khoa Học Xét Lại",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "Mô Hình Địa Tâm",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nikola Tesla",
+        "Năng Lượng Aether",
+        "Thuyết Trái Đất Phẳng",
+        "Thuyết Vi Sinh Nội Sinh",
+        "Thuốc Hóa Dầu",
+        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+        "Vũ Khí Năng Lượng Định Hướng"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/AI.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Năng Lượng Aether.md",
+        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+      ],
+      "backlinks": [
+        "esoterica/index.md",
+        "esoterica/Năng Lượng Natri.md",
+        "health/index.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "index.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Operation Paperclip.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "science-tech/index.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Pin Natri-ion.md",
+        "science-tech/Tần Số Schumann.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
+        "science-tech/Walter Russell.md"
+      ],
+      "words": 171,
+      "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là phân biệt science như method với science như institution, rồi dám hỏi lại những giả định được biến thành giáo điều.**"
+    },
+    {
       "path": "mental-models/Nhị Nguyên.md",
       "title": "Nhị Nguyên (Duality)",
       "domain": "mental-models",
@@ -16057,92 +15922,6 @@
       ],
       "words": 727,
       "summary": "**Nhị nguyên là cơ chế Một tự phân cực thành hai để tạo trải nghiệm: sáng/tối, nam/nữ, âm/dương, đúng/sai, ta/địch.** Nó không xấu; nó là grammar của cõi vật chất. Cái bẫy bắt đầu khi con người quên field lớn hơn và để hai cực dựng thành nhà tù nhận thức."
-    },
-    {
-      "path": "crypto-finance/Bitcoin.md",
-      "title": "Bitcoin",
-      "domain": "crypto-finance",
-      "tags": [
-        "crypto-finance"
-      ],
-      "aliases": [],
-      "headings": [
-        "Bitcoin",
-        "Vault Position / Vị Trí Trong Map",
-        "Tại sao Bitcoin quan trọng? / Why Bitcoin Matters?",
-        "1. Phi tập trung & Không cần niềm tin / Decentralized & Trustless",
-        "2. Cung cấp hạn chế / Hard Cap",
-        "3. Proof-of-Work & Bảo mật / Security",
-        "Bitcoin trong bối cảnh Ma Trận / Bitcoin vs The Matrix",
-        "Mối đe dọa từ CBDC / CBDC Threat",
-        "Bitcoin như lớp giới thiệu ledger money",
-        "Bitcoin và Privacy / Bitcoin & Privacy",
-        "Chu kỳ thị trường / Market Cycles",
-        "Related",
-        "Core Articles / Bài viết chính",
-        "Monetary System / Hệ thống tiền tệ",
-        "Gen Z & Agenda 2030",
-        "Investment Mindset / Tâm lý đầu tư",
-        "Bitcoin As Ledger Conditioning / Bitcoin Như Lớp Làm Quen Với Ledger"
-      ],
-      "wikilinks": [
-        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-        "Báo Cáo 2030",
-        "Chainlink - Mắt Xích Của Tokenized World",
-        "Elite",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giàu Không Nhờ May Mắn",
-        "Khoa Học Xét Lại",
-        "MOC - Financial Sovereignty",
-        "Privacy",
-        "Secular Market",
-        "Sợ hãi - Tham Lam – Cân bằng",
-        "Tiền Giấy - Tiền Mặt",
-        "Tiền Pháp Định",
-        "Tiền tiền tiền"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giàu Không Nhờ May Mắn.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Tiền tiền tiền.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "MOC - Financial Sovereignty.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Elite.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giàu Không Nhờ May Mắn.md",
-        "crypto-finance/index.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Tiền tiền tiền.md",
-        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "index.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "MOC - Financial Sovereignty.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/Pin Natri-ion.md"
-      ],
-      "words": 1321,
-      "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
     },
     {
       "path": "MOC - Esoterica & Consciousness.md",
@@ -16329,88 +16108,89 @@
       "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
     },
     {
-      "path": "Cách Đọc Red Pill Wiki.md",
-      "title": "Cách Đọc Red Pill Wiki",
-      "domain": "root",
+      "path": "crypto-finance/Bitcoin.md",
+      "title": "Bitcoin",
+      "domain": "crypto-finance",
       "tags": [
-        "epistemology",
-        "meta",
-        "navigation"
+        "crypto-finance"
       ],
       "aliases": [],
       "headings": [
-        "Cách Đọc Red Pill Wiki",
-        "1. Đừng Tin. Hãy Thấy.",
-        "2. Bốn Tầng Đọc",
-        "Claim Discipline Cho Crypto / CBDC Dots",
-        "3. Fact Không Đủ. Nhưng Không Có Fact Thì Dễ Bay.",
-        "4. Ma Trận Là Interface, Không Chỉ Nhà Tù",
-        "5. Symbol Không Phải Trang Trí",
-        "6. Đừng Biến Red Pill Thành Tôn Giáo Mới",
-        "7. Cách Đọc Một Bài Bất Kỳ",
-        "8. Reading Paths",
-        "9. Synthesis"
+        "Bitcoin",
+        "Vault Position / Vị Trí Trong Map",
+        "Tại sao Bitcoin quan trọng? / Why Bitcoin Matters?",
+        "1. Phi tập trung & Không cần niềm tin / Decentralized & Trustless",
+        "2. Cung cấp hạn chế / Hard Cap",
+        "3. Proof-of-Work & Bảo mật / Security",
+        "Bitcoin trong bối cảnh Ma Trận / Bitcoin vs The Matrix",
+        "Mối đe dọa từ CBDC / CBDC Threat",
+        "Bitcoin như lớp giới thiệu ledger money",
+        "Bitcoin và Privacy / Bitcoin & Privacy",
+        "Chu kỳ thị trường / Market Cycles",
+        "Related",
+        "Core Articles / Bài viết chính",
+        "Monetary System / Hệ thống tiền tệ",
+        "Gen Z & Agenda 2030",
+        "Investment Mindset / Tâm lý đầu tư",
+        "Bitcoin As Ledger Conditioning / Bitcoin Như Lớp Làm Quen Với Ledger"
       ],
       "wikilinks": [
-        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "Báo Cáo 2030",
         "Chainlink - Mắt Xích Của Tokenized World",
         "Elite",
-        "Gnosis",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giàu Không Nhờ May Mắn",
         "Khoa Học Xét Lại",
-        "Kiểm Soát Tâm Trí",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "Monad",
-        "Nghịch Lý Của Hiểu Biết",
-        "Sự Nhất Thể",
-        "UAP Disclosure - Controlled Revelation",
-        "Ung Thư - Metabolic Protocol",
-        "Y Tế Tự Nhiên"
+        "MOC - Financial Sovereignty",
+        "Privacy",
+        "Secular Market",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Tiền Giấy - Tiền Mặt",
+        "Tiền Pháp Định",
+        "Tiền tiền tiền"
       ],
       "mdlinks": [],
       "outlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Sự Nhất Thể.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Y Tế Tự Nhiên.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Secular Market.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Tiền tiền tiền.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "MOC - Financial Sovereignty.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
       "backlinks": [
-        "esoterica/index.md",
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/index.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Secular Market.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Tiền tiền tiền.md",
+        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/Vận Chín.md",
-        "health/Ketogenic Diet.md",
         "index.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "MOC - Financial Sovereignty.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/Pin Natri-ion.md"
       ],
-      "words": 1337,
-      "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
+      "words": 1321,
+      "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
     },
     {
       "path": "mental-models/Vô Thức Tập Thể.md",
@@ -16490,6 +16270,93 @@
       ],
       "words": 896,
       "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
+    },
+    {
+      "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
+      "title": "Nghịch Lý Của Hiểu Biết",
+      "domain": "esoterica",
+      "tags": [
+        "esoterica"
+      ],
+      "aliases": [
+        "Beyond Duality",
+        "Paradox of Knowledge",
+        "Vượt Qua Nhị Nguyên"
+      ],
+      "headings": [
+        "Nghịch Lý Của Hiểu Biết",
+        "Phần 1: Trap Của Nhị Nguyên",
+        "Vòng Lặp Vô Tận",
+        "Ví Dụ Thực Tế",
+        "Phần 2: Layers Của Hiểu Biết",
+        "Điều Gì Xảy Ra Ở Layer 5?",
+        "Phần 3: Tất Cả Đều Đúng VÀ Sai",
+        "Phần 4: Cái Thấy",
+        "Cái Thấy Là Gì?",
+        "Không Thể Doubt Cái Thấy",
+        "Phần 5: Trí Tuệ Của Đức Phật",
+        "Điều Phi Thường",
+        "Chỉ Nói Những Gì Có Thể Tự Thấy",
+        "Vậy Tại Sao Vẫn Viết?",
+        "Phần 6: Transmission vs Information",
+        "Kết: Invitation",
+        "Related",
+        "Nền tảng / Foundation",
+        "Tâm linh / Spirituality",
+        "Đọc thêm"
+      ],
+      "wikilinks": [
+        "AI Và Câu Hỏi Về Ý Thức",
+        "Gnosis",
+        "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+        "Individuation",
+        "Khoa Học Xét Lại",
+        "Ma Trận",
+        "Monad",
+        "Nhị Nguyên",
+        "Sự Nhất Thể",
+        "Tâm Lý Học Jung"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Sự Nhất Thể.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "backlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/index.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "esoterica/Đạo.md",
+        "index.md",
+        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "mental-models/index.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "mental-models/Trí Tuệ.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Science Revisionism.md",
+        "science-tech/index.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "words": 1487,
+      "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
     }
   ],
   "orphans": [
@@ -17005,6 +16872,10 @@
       4
     ],
     [
+      "ai",
+      4
+    ],
+    [
       "buddhism",
       4
     ],
@@ -17035,10 +16906,6 @@
     [
       "propaganda",
       4
-    ],
-    [
-      "ai",
-      3
     ],
     [
       "feng-shui",
@@ -17078,6 +16945,10 @@
     ],
     [
       "metabolism",
+      3
+    ],
+    [
+      "dopamine",
       3
     ],
     [
@@ -17130,10 +17001,6 @@
     ],
     [
       "society",
-      2
-    ],
-    [
-      "dopamine",
       2
     ],
     [
@@ -17371,14 +17238,11 @@
         "MOC - Epistemology & Propaganda.md",
         "MOC - Science Revisionism.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
         "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
+        "science-tech/Khoa Học Xét Lại.md"
       ],
       "words": 1337,
       "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
@@ -17684,7 +17548,9 @@
         "esoterica/Cabal.md",
         "esoterica/Ma Trận.md",
         "index.md",
+        "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/index.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/index.md"
       ],
@@ -17842,7 +17708,6 @@
         "politics-conspiracy/index.md",
         "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -17850,8 +17715,6 @@
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Nikola Tesla.md",
         "science-tech/Pin Natri-ion.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
         "science-tech/Tần Số Schumann.md",
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
         "science-tech/Walter Russell.md"
@@ -18074,7 +17937,6 @@
         "esoterica/Ma Trận.md",
         "index.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "MOC - Financial Sovereignty.md",
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Elite.md",
@@ -18479,8 +18341,6 @@
         "esoterica/Cabal.md",
         "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
         "index.md",
-        "mental-models/Gen Z - Phân Tích Phản Biện.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "MOC - Financial Sovereignty.md",
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Elite.md",
@@ -18544,6 +18404,7 @@
         "crypto-finance/Tiền tiền tiền.md",
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
         "index.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "MOC - Financial Sovereignty.md",
         "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
       ],
@@ -25836,7 +25697,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2123,
+      "words": 2201,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Bộ Não Rỗng và AI Brain Rot.md": {
@@ -25949,7 +25810,8 @@
         "MOC - Science Revisionism.md",
         "science-tech/AI.md",
         "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md"
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
       ],
       "words": 2756,
       "summary": "*The Empty Brain & AI Brain Rot*"
@@ -26014,56 +25876,32 @@
       "tags": [
         "agenda-2030",
         "climate",
+        "compliance",
         "generation",
         "mental-model",
         "psychology"
       ],
       "aliases": [
+        "Carbon Wallet",
         "Climate Anxiety",
         "Climate Doomerism",
         "Climate Fear",
         "Eco-Anxiety"
       ],
       "headings": [
-        "Climate Anxiety as Control: Khi Nỗi Sợ Trở Thành Công Cụ",
-        "TL;DR (English Summary)",
-        "TL;DR (Tiếng Việt)",
-        "Phần 1: Gen Z — Thế Hệ Lo Âu Nhất Về Khí Hậu",
-        "1.1 Số Liệu Đáng Lo",
-        "1.2 Eco-Anxiety Là Gì?",
-        "1.3 \"Doomerism\" — Khi Lo Âu Trở Thành Tuyệt Vọng",
-        "Phần 2: Fear-Based Control — Cơ Chế Hoạt Động",
-        "2.1 The Fear → Solution Pipeline",
-        "2.2 Amplification Engine — How Fear Spreads",
-        "2.3 The Guilt Machine",
-        "Phần 3: Carbon Tracking — The Coming Control Grid",
-        "3.1 Personal Carbon Allowance (PCA)",
-        "3.2 How It Would Work (CBDC + Carbon)",
-        "3.3 Who's Exempt?",
-        "Phần 4: 15-Minute Cities — Convenience or Cage?",
-        "4.1 The Official Narrative",
-        "4.2 The Concern",
-        "4.3 The Slippery Slope",
-        "Phần 5: Gen Z & The Childless Future",
-        "5.1 Climate Change = No Kids?",
-        "5.2 Cui Bono? (Who Benefits?)",
-        "5.3 The Real Math",
-        "Phần 6: Real vs Manufactured — Separating Facts",
-        "6.1 What's Real",
-        "6.2 What's Manufactured/Exaggerated",
-        "6.3 The Nuanced Truth",
-        "Phần 7: The Psychological Operation",
-        "7.1 Fear Hierarchy",
-        "7.2 Learned Helplessness",
-        "7.3 The Savior Complex",
-        "Phần 8: Exit Strategy — Rational Climate Response",
-        "Level 1: Perspective",
-        "Level 2: Action Without Fear",
-        "Level 3: Reject Control Disguised as Green",
-        "Level 4: Reclaim Agency",
-        "Kết Luận",
-        "Related",
-        "Sources"
+        "Climate Anxiety as Control - Fear-Based Compliance",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Eco-Anxiety Là Gì?",
+        "2. Từ Fear Sang Compliance",
+        "3. Personal Guilt Machine",
+        "4. Climate Doomerism Là Paralysis",
+        "5. Carbon Wallet: Từ Moral Metric Sang Permission Rail",
+        "6. 15-Minute City: Convenience Hay Cage?",
+        "7. Greenwashing Và Elite Exemption",
+        "8. Climate Anxiety Trong Gen Z Path",
+        "9. Claim Discipline: Không Rơi Vào Hai Cực",
+        "Synthesis",
+        "Related"
       ],
       "wikilinks": [
         "Báo Cáo 2030",
@@ -26091,8 +25929,8 @@
         "politics-conspiracy/index.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
       ],
-      "words": 1513,
-      "summary": "*Climate Anxiety as Control: When Fear Becomes a Tool*"
+      "words": 1096,
+      "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ “cứu hành tinh”.**"
     },
     "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md": {
       "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -26158,13 +25996,15 @@
         "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
         "health/Công Thức Chữa Lành Tự Nhiên.md",
         "index.md",
+        "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
         "mental-models/Tư Duy Lũy Thừa.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
       ],
       "words": 892,
       "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
@@ -26182,50 +26022,46 @@
       ],
       "aliases": [
         "Gen Z",
+        "Gen Z Agenda 2030",
         "Generation Z",
         "Thế hệ Z"
       ],
       "headings": [
-        "Gen Z - Phân Tích Phản Biện (Critical Analysis)",
-        "🔗 Gen Z & Agenda 2030: The Perfect Match?",
-        "10 Câu Hỏi Phản Biện",
-        "1. Trầm cảm cao kỷ lục dù điều kiện tốt nhất?",
-        "2. Quiet quitting, job hopping, năng suất thấp?",
-        "3. Né trách nhiệm trưởng thành?",
-        "4. Activism = Performative?",
-        "5. Dễ bị TikTok brainwash, cancel culture?",
-        "6. Tại sao CEO vẫn là Gen X/Millennial?",
-        "7. Kiến thức lịch sử/tài chính yếu?",
-        "8. \"Inclusive\" nhưng cực đoan với ý kiến trái chiều?",
-        "9. Phụ thuộc validation mạng xã hội?",
-        "10. Có sẵn sàng làm chủ tương lai?",
-        "Tổng Kết",
-        "🎯 Kết Luận Cuối / Final Conclusion",
-        "Mở Rộng (Có Thể Phát Triển)",
+        "Gen Z - Phân Tích Phản Biện",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. The Setup: Một Thế Hệ Sinh Ra Sau Khi Interface Đã Thắng",
+        "2. Agenda 2030 Lens: Perfect Match Hay Overread?",
+        "3. Mental Health Crisis: Nạn Nhân Hay Gateway?",
+        "4. Ownership Collapse: Không Sở Hữu Gì Và Gọi Đó Là Lifestyle",
+        "5. Algorithmic Worldview: Không Chọn Narrative, Được Feed Narrative",
+        "6. Performative Activism: Crowd-Sourced Morality",
+        "7. Inclusive Nhưng Dễ Thành Permission Culture",
+        "8. Work Ethic Và Learned Helplessness",
+        "9. Social Credit Đã Có Dạng Mềm",
+        "10. The Gen Z Trap Và The Gen Z Gift",
+        "Series Map / Gen Z & Agenda 2030 Path",
+        "Synthesis",
         "Related"
       ],
       "wikilinks": [
         "Báo Cáo 2030",
         "Climate Anxiety as Control - Fear-Based Compliance",
         "Digital ID Normalization - From Instagram to Government ID",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
-        "Mental Model",
-        "Thông Minh",
+        "MOC - Financial Sovereignty",
         "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "Tiền Giấy - Tiền Mặt",
         "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
-        "Tư Duy Lũy Thừa",
         "UBI Conditioning - The End of Work Ethic"
       ],
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Thông Minh.md",
-        "mental-models/Tư Duy Lũy Thừa.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "MOC - Financial Sovereignty.md",
         "politics-conspiracy/Báo Cáo 2030.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
@@ -26244,8 +26080,8 @@
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
       ],
-      "words": 1253,
-      "summary": "10 câu hỏi phản biện về \"thế hệ vượt trội\" Gen Z — và mối liên hệ với Báo Cáo 2030."
+      "words": 1513,
+      "summary": "**Gen Z không phải “thế hệ hỏng”, cũng không phải “thế hệ cứu thế giới”. Họ là thế hệ đầu tiên lớn lên trong một môi trường nơi attention, identity, money, desire và fear đều được platform hóa. Muốn hiểu Gen Z, đừng hỏi họ tốt hay xấu. Hỏi: hệ thống nào đã th…"
     },
     "mental-models/Individuation.md": {
       "path": "mental-models/Individuation.md",
@@ -26391,13 +26227,11 @@
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
         "index.md",
-        "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/index.md",
         "mental-models/Privacy Is The New Wealth.md",
         "mental-models/Thông Minh.md",
         "mental-models/Tư Duy Lũy Thừa.md",
-        "MOC - Epistemology & Propaganda.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        "MOC - Epistemology & Propaganda.md"
       ],
       "words": 1169,
       "summary": "**Mental model là bản đồ vận hành của reality trong đầu bạn.** Người có model nghèo bị sự kiện kéo đi. Người có model tốt thấy cấu trúc phía sau sự kiện, dự đoán hậu quả tốt hơn và chọn phản ứng tỉnh hơn. Trong redpill.wiki, mental model không phải mẹo năng s…"
@@ -27078,8 +26912,7 @@
         "mental-models/Trí Tuệ.md",
         "mental-models/Tư Duy Lũy Thừa.md",
         "science-tech/AI.md",
-        "science-tech/index.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        "science-tech/index.md"
       ],
       "words": 1460,
       "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không.** Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trậ…"
@@ -27126,7 +26959,6 @@
       "backlinks": [
         "esoterica/Atula.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Trí Tuệ.md",
         "politics-conspiracy/Sự thật về ma túy.md",
@@ -27519,7 +27351,6 @@
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "index.md",
-        "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/index.md",
         "mental-models/Mental Model.md",
         "mental-models/Privacy Is The New Wealth.md",
@@ -27543,59 +27374,45 @@
         "psychology"
       ],
       "aliases": [
+        "Dependency Rails",
         "Quiet Quitting",
         "UBI",
         "Universal Basic Income",
         "Work Ethic"
       ],
       "headings": [
-        "UBI Conditioning: Gen Z Và Sự Kết Thúc Của Work Ethic",
-        "TL;DR (English Summary)",
-        "TL;DR (Tiếng Việt)",
-        "Phần 1: The Great Decoupling — Khi Công Việc Mất Ý Nghĩa",
-        "1.1 Tại Sao Gen Z \"Quiet Quitting\"?",
-        "1.2 Từ Quiet Quitting Đến Quiet Quitting Life",
-        "Phần 2: The UBI Pipeline — Ai Được Lợi?",
-        "2.1 Lộ Trình Conditioning",
-        "2.2 Ai Đang Push UBI?",
-        "Phần 3: UBI + CBDC = The Control Grid",
-        "3.1 UBI Đơn Thuần vs UBI + CBDC",
-        "3.2 Programmable UBI — Các Scenario",
-        "3.3 The Dependency Trap",
-        "Phần 4: Gen Z — The Perfect Test Subjects",
-        "4.1 Tại Sao Gen Z Dễ Accept UBI Nhất?",
-        "4.2 Antiwork Subreddit — Case Study",
-        "4.3 AI Anxiety — Fuel Cho UBI Fire",
-        "Phần 5: The Historical Pattern — Bread and Circuses",
-        "5.1 Rome's Welfare System",
-        "5.2 Modern Equivalent",
-        "Phần 6: Counter-Arguments & Reality Check",
-        "6.1 \"UBI Gives Freedom\"",
-        "6.2 \"AI Will Take All Jobs Anyway\"",
-        "6.3 \"Gen Z Just Wants Work-Life Balance\"",
-        "Phần 7: Exit Strategy — Avoiding The Trap",
-        "For Gen Z:",
-        "For Society:",
-        "Kết Luận",
-        "Related",
-        "Sources"
+        "UBI Conditioning - The End of Work Ethic",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Work Ethic Không Tự Nhiên Mà Chết",
+        "2. Quiet Quitting Là Triệu Chứng, Không Phải Gốc Bệnh",
+        "3. Antiwork Narrative: Liberation Hay Soft Surrender?",
+        "4. UBI Có Hai Linh Hồn",
+        "UBI như freedom floor",
+        "UBI như dependency rail",
+        "5. UBI + CBDC Là Cấu Hình Rủi Ro Nhất",
+        "6. AI Displacement Là Catalyst",
+        "7. Dependency Trap",
+        "8. Work Ethic Cần Được Rebuilt, Không Phục Cổ",
+        "9. UBI Claim Discipline",
+        "Synthesis",
+        "Related"
       ],
       "wikilinks": [
-        "Bitcoin",
         "Báo Cáo 2030",
+        "Digital ID Normalization - From Instagram to Government ID",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "Tiền Giấy - Tiền Mặt"
+        "MOC - Financial Sovereignty",
+        "Tiền Pháp Định"
       ],
       "mdlinks": [],
       "outlinks": [
-        "crypto-finance/Bitcoin.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "MOC - Financial Sovereignty.md",
         "politics-conspiracy/Báo Cáo 2030.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
       ],
       "backlinks": [
         "crypto-finance/index.md",
@@ -27607,11 +27424,10 @@
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "MOC - Financial Sovereignty.md",
         "politics-conspiracy/index.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
       ],
-      "words": 1430,
-      "summary": "*UBI Conditioning: Gen Z And The End of Work Ethic*"
+      "words": 1118,
+      "summary": "**UBI không chỉ là câu hỏi kinh tế: “ai trả tiền?” Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
     },
     "mental-models/Vô Thức Tập Thể.md": {
       "path": "mental-models/Vô Thức Tập Thể.md",
@@ -27717,6 +27533,7 @@
         "6. AI-Age Agency Path — Mind Versus Machine",
         "Key Hubs",
         "Flagship Articles",
+        "Gen Z & Agenda 2030 Path",
         "Related Gateways"
       ],
       "wikilinks": [
@@ -27803,7 +27620,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 866,
+      "words": 910,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
@@ -28602,7 +28419,8 @@
         "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Khoa Học Xét Lại.md"
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
       ],
       "words": 1360,
       "summary": "**Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…"
@@ -29657,7 +29475,8 @@
         "MOC - Science Revisionism.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md"
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
       ],
       "words": 916,
       "summary": "**AI là máy khuếch đại intelligence không có thân, không có tim, không có karma trực tiếp; vì vậy nó phơi bày rất nhanh sự khác biệt giữa thông minh và trí tuệ.** Trong vault, AI vừa là công cụ, vừa là mirror, vừa là bài thi Atula của nhân loại."
@@ -29714,6 +29533,7 @@
       "domain": "science-tech",
       "tags": [
         "agenda-2030",
+        "digital-id",
         "generation",
         "psychology",
         "science-tech",
@@ -29723,70 +29543,40 @@
         "Biometric ID",
         "Digital ID",
         "Digital Identity",
-        "EU Digital Wallet"
+        "Identity Wallet",
+        "Verify to Exist"
       ],
       "headings": [
-        "Digital ID Normalization: Từ Instagram Profile Đến Government ID",
-        "Evidence Discipline / Cách Đọc Claim",
-        "Source Register / Nguồn Nên Đối Chiếu",
-        "TL;DR (English Summary)",
-        "TL;DR (Tiếng Việt)",
-        "Phần 1: The Identity Pipeline — Từ MySpace Đến Biometric ID",
-        "1.1 Gen Z: Digital Identity Natives",
-        "1.2 Normalization Process",
-        "Phần 2: Social Media — The Training Ground",
-        "2.1 What Gen Z Voluntarily Shares",
-        "2.2 Platform → Government Pipeline",
-        "Phần 3: Age Verification — The Trojan Horse",
-        "3.1 \"Protect The Children\"",
-        "3.2 The Slippery Slope (That's Actually a Ski Jump)",
-        "Phần 4: EU Digital Identity Wallet — The Blueprint",
-        "4.1 What Is EUDI Wallet?",
-        "4.2 \"Selective Disclosure\" — The Lie",
-        "4.3 Privacy Concerns (From Privacy Groups)",
-        "Phần 5: Worldcoin — The Crypto Trojan Horse",
-        "5.1 What Is Worldcoin?",
-        "5.2 What Actually Happened",
-        "5.3 The Real Goal",
-        "Phần 6: Gen Z Psychology — Why They Accept It",
-        "6.1 \"I Have Nothing To Hide\"",
-        "6.2 \"It's For Security\"",
-        "6.3 \"Everyone's Doing It\"",
-        "6.4 \"It's Convenient\"",
-        "Phần 7: The Endgame — Digital Existence Permit",
-        "7.1 2030 Scenario",
-        "7.2 Kill Switch Capability",
-        "Phần 8: Exit Strategy — Digital Sovereignty",
-        "Level 1: Awareness",
-        "Level 2: Minimize",
-        "Level 3: Alternatives",
-        "Level 4: Resistance",
-        "Kết Luận",
-        "Related",
-        "Sources"
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Từ Identity Vật Lý Sang Identity Interface",
+        "2. Platform Là Training Ground",
+        "3. Gen Z Đã Tự Build Hồ Sơ Trước Khi Nhà Nước Hỏi",
+        "4. Age Verification: Trojan Horse Của Universal ID",
+        "5. Digital ID + CBDC: Cặp Đôi Nguy Hiểm",
+        "6. Selective Disclosure: Tốt Trên Giấy, Phụ Thuộc Governance",
+        "7. Biometrics: Khi Password Là Cơ Thể",
+        "8. “Verify To Exist”",
+        "9. Digital ID Có Thể Tốt Không?",
+        "Synthesis",
+        "Related"
       ],
       "wikilinks": [
         "Báo Cáo 2030",
-        "Cách Đọc Red Pill Wiki",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
-        "Khoa Học Xét Lại",
-        "MOC - Science Revisionism",
         "Privacy",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
         "UBI Conditioning - The End of Work Ethic"
       ],
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Privacy.md",
-        "Cách Đọc Red Pill Wiki.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "MOC - Science Revisionism.md",
         "politics-conspiracy/Báo Cáo 2030.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
       ],
       "backlinks": [
         "crypto-finance/index.md",
@@ -29795,15 +29585,17 @@
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Science Revisionism.md",
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/index.md",
         "science-tech/index.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
       ],
-      "words": 1687,
-      "summary": "*Digital ID Normalization: From Instagram Profile To Government ID*"
+      "words": 1092,
+      "summary": "**Digital ID không xuất hiện từ hư không. Nó đi sau một quá trình dài nơi con người tự nguyện biến mình thành profile: tên thật, mặt thật, location, social graph, reputation, behavior, preference. Government ID wallet chỉ là bước formal hóa thứ platform đã no…"
     },
     "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md": {
       "path": "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
@@ -30213,7 +30005,6 @@
         "politics-conspiracy/Trái Đất Phẳng.md",
         "science-tech/AI.md",
         "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -30221,8 +30012,6 @@
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
         "science-tech/Nikola Tesla.md",
         "science-tech/Năng Lượng Aether.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
         "science-tech/Tần Số Schumann.md",
         "science-tech/Walter Russell.md"
       ],
@@ -30418,75 +30207,58 @@
     },
     "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md": {
       "path": "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-      "title": "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z?",
+      "title": "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
       "domain": "science-tech",
       "tags": [
         "agenda-2030",
+        "dopamine",
         "generation",
         "information-warfare",
         "psychology",
         "science-tech"
       ],
       "aliases": [
+        "Algorithmic Worldview",
+        "For You Page",
         "Information Warfare",
         "TikTok Algorithm",
         "TikTok Brain"
       ],
       "headings": [
-        "TikTok Algorithm: Ai Kiểm Soát Worldview Của Gen Z?",
-        "Evidence Discipline / Cách Đọc Claim",
-        "Source Register / Nguồn Nên Đối Chiếu",
-        "TL;DR (English Summary)",
-        "TL;DR (Tiếng Việt)",
-        "Phần 1: Dopamine Machine — Cách TikTok Hack Não Gen Z",
-        "1.1 The 8-Second Brain",
-        "1.2 Cơ Chế Nghiện",
-        "1.3 \"TikTok Brain\" Là Gì?",
-        "Phần 2: Algorithm — The Black Box Of Mind Control",
-        "2.1 For You Page (FYP) Hoạt Động Thế Nào?",
-        "2.2 Bạn Không Chọn Content — Content Chọn Bạn",
-        "Phần 3: ByteDance & CCP — The Elephant In The Room",
-        "3.1 Ai Sở Hữu TikTok?",
-        "3.2 Algorithm Đã Được Share Với CCP",
-        "3.3 November 2025 Leak — The Smoking Gun",
-        "Phần 4: Information Warfare — What CCP Gains",
-        "4.1 Divide & Conquer",
-        "4.2 Attention Drain",
-        "4.3 Cultural Programming",
-        "Phần 5: The TikTok Deal (2026) — Solution Hay Illusion?",
-        "5.1 Chuyện Gì Đã Xảy Ra?",
-        "5.2 Vấn Đề Vẫn Còn",
-        "Phần 6: So Sánh — TikTok vs Các Platform Khác",
-        "Phần 7: Exit Strategy Cho Gen Z",
-        "Level 1: Awareness",
-        "Level 2: Reduction",
-        "Level 3: Diversification",
-        "Level 4: Detox",
-        "Level 5: Exit",
-        "Kết Luận",
-        "Related",
-        "Sources"
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z?",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Version 2026 Của Rothschild Quote",
+        "2. TikTok Không Chỉ Cho Bạn Xem Nội Dung. Nó Đọc Bạn.",
+        "3. Dopamine Slot Machine",
+        "4. Short-Form Feed Và Não Bị Cắt Nhỏ",
+        "5. Worldview Không Được Dạy. Nó Được Feed.",
+        "6. TikTok Và China Risk: Đọc Cho Chặt",
+        "7. Douyin vs TikTok: Câu Hỏi Đáng Hỏi",
+        "8. Algorithmic Censorship Mềm",
+        "9. Gen Z Như Cultural Operating System",
+        "10. TikTok Không Phải Kẻ Duy Nhất",
+        "11. Exit Không Phải Delete App Rồi Xong",
+        "Synthesis",
+        "Related"
       ],
       "wikilinks": [
         "Báo Cáo 2030",
-        "Cách Đọc Red Pill Wiki",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
-        "Khoa Học Xét Lại",
-        "Mental Model",
-        "MOC - Science Revisionism",
-        "Thông Minh vs Trí Tuệ"
+        "Kiểm Soát Tâm Trí"
       ],
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "Cách Đọc Red Pill Wiki.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "MOC - Science Revisionism.md",
         "politics-conspiracy/Báo Cáo 2030.md",
-        "science-tech/Khoa Học Xét Lại.md"
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
       ],
       "backlinks": [
         "index.md",
@@ -30494,21 +30266,19 @@
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/index.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "MOC - Epistemology & Propaganda.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/index.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
+        "science-tech/index.md"
       ],
-      "words": 1403,
-      "summary": "*TikTok Algorithm: Who Controls Gen Z's Worldview?*"
+      "words": 1270,
+      "summary": "**TikTok không chỉ là app giải trí. Nó là một feedback engine: đo phản ứng vi mô của người dùng, tối ưu dopamine, rồi lặp lại frame cho đến khi worldview có cảm giác như tự chọn. Ai kiểm soát feed không cần kiểm soát mọi suy nghĩ. Chỉ cần kiểm soát thứ xuất h…"
     },
     "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md": {
       "path": "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-      "title": "Transhumanism và Gen Z - Cool Tech hay Slippery Slope?",
+      "title": "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
       "domain": "science-tech",
       "tags": [
         "agenda-2030",
+        "ai",
         "generation",
         "psychology",
         "science-tech",
@@ -30518,85 +30288,48 @@
         "Biohacking",
         "Cyborg",
         "Human Enhancement",
+        "Human Upgrade",
         "Neuralink",
         "Transhumanism"
       ],
       "headings": [
-        "Transhumanism và Gen Z: Cool Tech hay Slippery Slope?",
-        "Evidence Discipline / Cách Đọc Claim",
-        "Source Register / Nguồn Nên Đối Chiếu",
-        "TL;DR (English Summary)",
-        "TL;DR (Tiếng Việt)",
-        "Phần 1: Transhumanism 101",
-        "1.1 Transhumanism Là Gì?",
-        "1.2 Các Công Nghệ Đang Phát Triển",
-        "1.3 The Silicon Valley Vision",
-        "Phần 2: Gen Z — The Augmentation-Ready Generation",
-        "2.1 Tại Sao Gen Z Dễ Accept Nhất?",
-        "2.2 Survey Data",
-        "Phần 3: The Medical → Enhancement → Mandatory Pipeline",
-        "3.1 Phase 1: Medical Necessity",
-        "3.2 Phase 2: Enhancement Optional",
-        "3.3 Phase 3: Enhancement Expected",
-        "3.4 Phase 4: Enhancement Mandatory",
-        "3.5 Historical Pattern",
-        "Phần 4: Sweden — The Beta Test",
-        "4.1 What's Happening",
-        "4.2 Why Sweden?",
-        "4.3 WEF Promotion",
-        "4.4 The Normalization Effect",
-        "Phần 5: Neuralink — Brain-Computer Interface",
-        "5.1 Current Status (2026)",
-        "5.2 The Musk Vision",
-        "5.3 The Concerns",
-        "Phần 6: The Control Potential",
-        "6.1 RFID/NFC Chips",
-        "6.2 Neural Interfaces",
-        "6.3 Sci-Fi → Reality Timeline",
-        "Phần 7: The Philosophical Trap",
-        "7.1 The \"Choice\" Illusion",
-        "7.2 The Disability Argument",
-        "7.3 The Progress Trap",
-        "Phần 8: Gen Z — Questions To Ask",
-        "Before Embracing Enhancement:",
-        "The Ultimate Question:",
-        "Phần 9: Exit Strategy — Maintaining Human Autonomy",
-        "Level 1: Awareness",
-        "Level 2: Delay",
-        "Level 3: Alternatives",
-        "Level 4: Resistance",
-        "Level 5: Philosophy",
-        "Kết Luận",
-        "Series Complete: Gen Z & The 2030 Agenda",
-        "Related",
-        "Sources"
+        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Transhumanism Là Gì?",
+        "2. Gen Z Dễ Accept Vì Đã Sống Như Cyborg Mềm",
+        "3. Cool Aesthetic Là Gateway",
+        "4. Medical → Enhancement → Mandatory",
+        "Phase 1: Medical restoration",
+        "Phase 2: Optional enhancement",
+        "Phase 3: Competitive expectation",
+        "Phase 4: Access requirement",
+        "5. Body Data Là Data Sâu Nhất",
+        "6. Digital ID Và Transhumanism Gặp Nhau Ở Biometrics",
+        "7. Enhancement Inequality",
+        "8. AI Merger: Cứu Người Hay Hấp Thụ Người?",
+        "9. Claim Discipline",
+        "10. Sovereign Tech vs Captive Tech",
+        "Synthesis",
+        "Related"
       ],
       "wikilinks": [
+        "AI",
         "Báo Cáo 2030",
         "Climate Anxiety as Control - Fear-Based Compliance",
-        "Cách Đọc Red Pill Wiki",
         "Digital ID Normalization - From Instagram to Government ID",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
-        "Khoa Học Xét Lại",
-        "MOC - Science Revisionism",
-        "Privacy",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "UBI Conditioning - The End of Work Ethic"
+        "Privacy"
       ],
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Privacy.md",
-        "Cách Đọc Red Pill Wiki.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "MOC - Science Revisionism.md",
         "politics-conspiracy/Báo Cáo 2030.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        "science-tech/AI.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
       ],
       "backlinks": [
         "crypto-finance/Privacy.md",
@@ -30604,11 +30337,12 @@
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "MOC - Science Revisionism.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/index.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 1890,
-      "summary": "*Transhumanism and Gen Z: Cool Tech or Slippery Slope?*"
+      "words": 1162,
+      "summary": "**Transhumanism được bán như tự do nâng cấp bản thân. Nhưng nếu hạ tầng nâng cấp nằm trong tay Big Tech, military, insurance, employer và state, câu hỏi không còn là “con người có nên mạnh hơn không?” Câu hỏi là: ai sở hữu layer nằm giữa cơ thể, tâm trí và má…"
     },
     "science-tech/Tần Số Schumann.md": {
       "path": "science-tech/Tần Số Schumann.md",
@@ -30806,6 +30540,7 @@
         "6. Cross-Domain Bridge Path — Technocracy, Identity, Body",
         "Key Hubs",
         "Flagship Articles",
+        "Gen Z Technology Control Path",
         "Related Gateways"
       ],
       "wikilinks": [
@@ -30888,7 +30623,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 862,
+      "words": 911,
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
     }
   }

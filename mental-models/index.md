@@ -114,6 +114,15 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 
 ---
 
+---
+
+## Gen Z & Agenda 2030 Path
+
+- [[Gen Z - Phân Tích Phản Biện]] — platformized reality and generational conditioning.
+- [[UBI Conditioning - The End of Work Ethic]] — work despair, AI displacement and dependency rails.
+- [[Climate Anxiety as Control - Fear-Based Compliance]] — eco-anxiety, carbon wallets and fear compliance.
+
+
 ## Related Gateways
 
 - [[Red Pill Wiki|Root Index]]

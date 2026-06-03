@@ -115,6 +115,15 @@ Orientation: use this when tech becomes governance and medicine. The route shows
 
 ---
 
+---
+
+## Gen Z Technology Control Path
+
+- [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — attention warfare and algorithmic worldview.
+- [[Digital ID Normalization - From Instagram to Government ID]] — identity wallet and verify-to-exist risk.
+- [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]] — body-data sovereignty and upgrade pressure.
+
+
 ## Related Gateways
 
 - [[Red Pill Wiki|Root Index]]
