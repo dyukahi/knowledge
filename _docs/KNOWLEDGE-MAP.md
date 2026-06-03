@@ -7,7 +7,7 @@
 - **Notes scanned:** 190
 - **Top-level domains:** 8
 - **Tags detected:** 180
-- **Resolved internal edges:** 1930
+- **Resolved internal edges:** 1932
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 3
 
@@ -106,12 +106,12 @@ Recommended note types:
 ### Crypto & Finance `crypto-finance` — 12 notes
 
 - [[crypto-finance/Bitcoin|Bitcoin]] — degree `35`, backlinks `21`, outlinks `14` — #crypto-finance
+- [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]] — degree `29`, backlinks `20`, outlinks `9` — #agenda-2030, #cbdc, #crypto-finance, #generation, #privacy
 - [[crypto-finance/index|Crypto & Finance Domain Gateway]] — degree `28`, backlinks `3`, outlinks `25` — #crypto-finance, #domain-gateway, #financial-sovereignty
-- [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]] — degree `27`, backlinks `20`, outlinks `7` — #1, #agenda-2030, #cbdc, #crypto-finance, #generation
 - [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]] — degree `24`, backlinks `13`, outlinks `11` — #crypto-finance
 - [[crypto-finance/Tiền Giấy - Tiền Mặt|Tiền Giấy - Tiền Mặt (Fiat Currency)]] — degree `23`, backlinks `19`, outlinks `4` — #crypto-finance, #privacy
+- [[crypto-finance/Tiền Pháp Định|Tiền Pháp Định (Fiat Currency)]] — degree `18`, backlinks `10`, outlinks `8` — #crypto-finance
 - [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]] — degree `17`, backlinks `10`, outlinks `7` — #bitcoin, #crypto-finance, #privacy, #sovereignty
-- [[crypto-finance/Tiền Pháp Định|Tiền Pháp Định (Fiat Currency)]] — degree `17`, backlinks `9`, outlinks `8` — #crypto-finance
 - [[crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền|Điều Mà Trường Học Không Dạy Về Tiền]] — degree `16`, backlinks `4`, outlinks `12` — #crypto-finance
 - [[crypto-finance/Chainlink - Mắt Xích Của Tokenized World|Chainlink - Mắt Xích Của Tokenized World]] — degree `14`, backlinks `5`, outlinks `9` — #cbdc, #crypto-finance, #sovereignty, #tokenization, #word-magic
 - [[crypto-finance/Giàu Không Nhờ May Mắn|Giàu Không Nhờ May Mắn (How to Get Rich Without Getting Lucky)]] — degree `13`, backlinks `4`, outlinks `9` — #crypto-finance
@@ -127,7 +127,7 @@ Recommended note types:
 - [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `35`, backlinks `11`, outlinks `24` — #consciousness, #esoterica, #moc
 - [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `34`, backlinks `17`, outlinks `17` — #epistemology, #meta, #navigation
 - [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]] — degree `26`, backlinks `10`, outlinks `16` — #esoterica, #hidden-history, #moc
-- [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `23`, backlinks `11`, outlinks `12` — #crypto-finance, #moc, #sovereignty
+- [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `24`, backlinks `12`, outlinks `12` — #crypto-finance, #moc, #sovereignty
 - [[claude|Schema (LLM Instructions)]] — degree `0`, backlinks `0`, outlinks `0`
 - [[README|🧠 Knowledge Base]] — degree `0`, backlinks `0`, outlinks `0`
 
@@ -208,6 +208,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 - `#moc` — 6 notes: [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]]; [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]]; [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]]; [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]]; [[MOC - Health Sovereignty|MOC - Health Sovereignty]]
 - `#hidden-history` — 5 notes: [[esoterica/Annunaki|Annunaki]]; [[esoterica/Chu Kỳ Hoàng Đạo|Chu Kỳ Hoàng Đạo]]; [[esoterica/Tứ Linh|Tứ Linh]]; [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]]; [[politics-conspiracy/Operation Paperclip|Operation Paperclip]]
 - `#mind-control` — 5 notes: [[esoterica/Gematria|Gematria — Ngôn Ngữ Bí Mật Của Số]]; [[esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]; [[esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ|Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ]]; [[esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy|Word Magic - Ngôn Ngữ Của Phù Thủy]]; [[politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood|Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood]]
+- `#privacy` — 4 notes: [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]]; [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]]; [[crypto-finance/Tiền Giấy - Tiền Mặt|Tiền Giấy - Tiền Mặt (Fiat Currency)]]; [[mental-models/Privacy Is The New Wealth|Privacy Is The New Wealth]]
 - `#buddhism` — 4 notes: [[esoterica/Atula|Atula (Asura)]]; [[esoterica/Một Đời Phù Vân|Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu]]; [[esoterica/Núi Tu Di|Núi Tu Di]]; [[science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại|Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]]
 - `#cycles` — 4 notes: [[esoterica/Chu Kỳ Hoàng Đạo|Chu Kỳ Hoàng Đạo]]; [[esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas|Chu Kỳ Vũ Trụ - Yugas & Kalpas]]; [[esoterica/Dịch Chuyển Cực|Dịch Chuyển Cực (Pole Shift)]]; [[esoterica/Vận Chín|Vận Chín (Period 9)]]
 - `#cosmology` — 4 notes: [[esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas|Chu Kỳ Vũ Trụ - Yugas & Kalpas]]; [[esoterica/Núi Tu Di|Núi Tu Di]]; [[mental-models/Mô Hình Địa Tâm|Mô Hình Địa Tâm (Geocentrism)]]; [[politics-conspiracy/Thuyết Trái Đất Phẳng|Thuyết Trái Đất Phẳng (Flat Earth Theory)]]
@@ -216,7 +217,6 @@ High-degree notes are good candidates for hub/MOC treatment.
 - `#jung` — 4 notes: [[esoterica/Soulmate vs Lover - Anatomy Của Kết Nối|Soulmate vs Lover — Anatomy Của Kết Nối]]; [[mental-models/Individuation|Individuation]]; [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]]; [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]]
 - `#cancer` — 4 notes: [[health/Bệnh Bạch Cầu|Bệnh Bạch Cầu]]; [[health/Ketogenic Diet|Ketogenic Diet]]; [[health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư|Mebendazole — Thuốc Tẩy Giun Chống Ung Thư]]; [[health/Ung Thư - Metabolic Protocol|Ung Thư — Metabolic Protocol]]
 - `#propaganda` — 4 notes: [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]]; [[politics-conspiracy/Dark MAGA|Dark MAGA]]; [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]]; [[politics-conspiracy/MAGA Và Số 42|MAGA Và Số 42]]
-- `#privacy` — 3 notes: [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]]; [[crypto-finance/Tiền Giấy - Tiền Mặt|Tiền Giấy - Tiền Mặt (Fiat Currency)]]; [[mental-models/Privacy Is The New Wealth|Privacy Is The New Wealth]]
 - `#ai` — 3 notes: [[esoterica/AI Và Câu Hỏi Về Ý Thức|AI Và Câu Hỏi Về Ý Thức]]; [[mental-models/Bộ Não Rỗng và AI Brain Rot|Bộ Não Rỗng và AI Brain Rot]]; [[science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại|Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]]
 - `#feng-shui` — 3 notes: [[esoterica/Bản Đồ Năng Lượng Đất Mẹ|Bản Đồ Năng Lượng Đất Mẹ]]; [[esoterica/Phong Thủy|Phong Thủy]]; [[esoterica/Vận Chín|Vận Chín (Period 9)]]
 - `#power-structure` — 3 notes: [[esoterica/Cabal|Cabal (Thế Lực Ngầm)]]; [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]]; [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]]
@@ -283,7 +283,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]]
 - [[politics-conspiracy/Thuyết Trái Đất Phẳng|Thuyết Trái Đất Phẳng (Flat Earth Theory)]]
 - [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]]
-- [[politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood|Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood]]
+- [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]]
 
 ### MOC - Ancient Civilizations & Hidden History
 

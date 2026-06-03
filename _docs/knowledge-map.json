@@ -12,7 +12,7 @@
       "science-tech": 17
     },
     "tags": 180,
-    "wikilinkEdges": 1930,
+    "wikilinkEdges": 1932,
     "brokenLinks": 0,
     "orphans": 3
   },
@@ -144,6 +144,105 @@
         "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
       },
       {
+        "path": "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "title": "Gen Z và CBDC - Programmable Money Psychology",
+        "domain": "crypto-finance",
+        "tags": [
+          "agenda-2030",
+          "cbdc",
+          "crypto-finance",
+          "generation",
+          "privacy",
+          "psychology"
+        ],
+        "aliases": [
+          "Cashless Native",
+          "CBDC Psychology",
+          "Digital Money Conditioning",
+          "Gen Z CBDC",
+          "Programmable Money"
+        ],
+        "headings": [
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. CBDC Là Gì?",
+          "2. Programmable Money Nghĩa Là Gì?",
+          "3. Gen Z: Cashless Native",
+          "4. Convenience Là Gateway Drug",
+          "5. Subscription Mindset → Rental Money Mindset",
+          "6. Crypto UX Như Training Layer Cho CBDC",
+          "7. Digital ID Là Điểm Khóa",
+          "8. Algorithmic Fairness: Cái Bẫy Tâm Lý",
+          "9. Climate Anxiety → Carbon Wallet Acceptance",
+          "10. Rollout Playbook",
+          "Phase 1: Normalization",
+          "Phase 2: Incentivization",
+          "Phase 3: Integration",
+          "Phase 4: Friction",
+          "Phase 5: Permission Economy",
+          "11. CBDC vs Bitcoin: Sự Lựa Chọn Bị Che Mờ",
+          "12. Red Flags Gen Z Thường Không Nhìn Thấy",
+          "“Nó giống Apple Pay thôi mà.”",
+          "“Em không có gì phải giấu.”",
+          "“Government sẽ không abuse đâu.”",
+          "“Optional mà.”",
+          "“Crypto vẫn là lối thoát.”",
+          "13. Exit Strategy Không Phải Hoảng Loạn",
+          "Short-term",
+          "Medium-term",
+          "Long-term",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+          "Báo Cáo 2030",
+          "Chainlink - Mắt Xích Của Tokenized World",
+          "Gen Z - Phân Tích Phản Biện",
+          "MOC - Financial Sovereignty",
+          "Privacy",
+          "Tiền Giấy - Tiền Mặt",
+          "Tiền Pháp Định"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/Privacy.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "crypto-finance/Tiền Pháp Định.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "MOC - Financial Sovereignty.md",
+          "politics-conspiracy/Báo Cáo 2030.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/index.md",
+          "crypto-finance/Privacy.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "crypto-finance/Tiền Pháp Định.md",
+          "index.md",
+          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/index.md",
+          "mental-models/UBI Conditioning - The End of Work Ethic.md",
+          "MOC - Financial Sovereignty.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/index.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/index.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
+        ],
+        "words": 2390,
+        "summary": "**CBDC không chỉ là một upgrade kỹ thuật của tiền tệ. Nó là một bài toán tâm lý học: làm sao để một thế hệ tự nguyện bước từ tiền mặt ẩn danh sang tiền số định danh, lập trình được và giám sát được. Gen Z là thế hệ quan trọng nhất trong quá trình này vì họ kh…"
+      },
+      {
         "path": "crypto-finance/index.md",
         "title": "Crypto & Finance Domain Gateway",
         "domain": "crypto-finance",
@@ -232,93 +331,6 @@
         ],
         "words": 782,
         "summary": "**Crypto & Finance là nơi vault đọc tiền như operating system của time, labor, consent và freedom.** Tiền không chỉ là price chart. Nó là hạ tầng quyết định ai được lưu trữ giá trị, ai bị debase, ai bị surveil, ai được permission để giao dịch, và ai vẫn còn e…"
-      },
-      {
-        "path": "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "title": "Gen Z và CBDC - Programmable Money Psychology",
-        "domain": "crypto-finance",
-        "tags": [
-          "1",
-          "agenda-2030",
-          "cbdc",
-          "crypto-finance",
-          "generation",
-          "psychology"
-        ],
-        "aliases": [
-          "CBDC Psychology",
-          "Gen Z CBDC",
-          "Programmable Money"
-        ],
-        "headings": [
-          "Gen Z và CBDC: Tâm Lý Học Đằng Sau \"Tiền Lập Trình Được\" (Gen Z and CBDC: The Psychology Behind \"Programmable Money\")",
-          "CBDC Là Gì? (What is CBDC?)",
-          "Crypto UX như lớp conditioning",
-          "Crypto UX Như Training Layer Cho CBDC",
-          "Tại Sao Gen Z Là \"Perfect Target\"? (Why is Gen Z the \"Perfect Target\"?)",
-          "1. Digital Native = Cashless Native",
-          "2. Subscription Mindset → Rental Money Mindset",
-          "3. Social Credit → Financial Credit",
-          "4. Climate Anxiety → Carbon Wallet Acceptance",
-          "5. Trust in Institutions (Ironically)",
-          "Psychological Manipulation Playbook (Sách Lược Thao Túng Tâm Lý)",
-          "Phase 1: Normalization (Đang xảy ra) / *Phase 1: Normalization (Happening now)*",
-          "Phase 2: Incentivization (2025-2027) / *Phase 2: Incentivization (2025-2027)*",
-          "Phase 3: Friction (2027-2030) / *Phase 3: Friction (2027-2030)*",
-          "Phase 4: Elimination (2030+) / *Phase 4: Elimination (2030+)*",
-          "CBDC vs Bitcoin: The Choice Gen Z Doesn't Know They Have (Sự Lựa Chọn Gen Z Không Biết Họ Có)",
-          "Trung Quốc: Beta Test Đã Hoàn Thành (China: Beta Test Complete)",
-          "Red Flags Gen Z Không Nhận Ra (Red Flags Gen Z Doesn't See)",
-          "Exit Strategy (Cho Những Ai Thức Tỉnh) / *Exit Strategy (For the Awakened)*",
-          "Short-term (Ngắn hạn):",
-          "Medium-term (Trung hạn):",
-          "Long-term (Dài hạn):",
-          "Kết Luận (Conclusion)",
-          "Đọc Thêm (Further Reading)"
-        ],
-        "wikilinks": [
-          "Bitcoin",
-          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-          "Báo Cáo 2030",
-          "Chainlink - Mắt Xích Của Tokenized World",
-          "Gen Z - Phân Tích Phản Biện",
-          "Privacy",
-          "Tiền Giấy - Tiền Mặt"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-          "crypto-finance/Privacy.md",
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "politics-conspiracy/Báo Cáo 2030.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-          "crypto-finance/index.md",
-          "crypto-finance/Privacy.md",
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-          "crypto-finance/Tiền Pháp Định.md",
-          "index.md",
-          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/index.md",
-          "mental-models/UBI Conditioning - The End of Work Ethic.md",
-          "MOC - Financial Sovereignty.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/index.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-          "science-tech/index.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
-        ],
-        "words": 1956,
-        "summary": "---"
       },
       {
         "path": "crypto-finance/Privacy.md",
@@ -453,6 +465,67 @@
         "summary": "**Tiền mặt là lớp privacy cuối cùng trong hệ tiền pháp định; còn fiat là hệ tiền dựa trên niềm tin, luật cưỡng chế và khả năng phát hành của nhà nước/ngân hàng trung ương.** Trong vault, bài này không chỉ nói về lạm phát. Nó nói về cash như một quyền tự do an…"
       },
       {
+        "path": "crypto-finance/Tiền Pháp Định.md",
+        "title": "Tiền Pháp Định (Fiat Currency)",
+        "domain": "crypto-finance",
+        "tags": [
+          "crypto-finance"
+        ],
+        "aliases": [],
+        "headings": [
+          "Tiền Pháp Định (Fiat Currency)",
+          "Evidence Discipline / Cách Đọc",
+          "Đặc Điểm Của Tiền Pháp Định (Characteristics of Fiat Currency)",
+          "Lịch Sử Ngắn Gọn (Brief History)",
+          "Trước 1971: Hệ thống Bretton Woods (Before 1971: Bretton Woods System)",
+          "1971: Nixon Shock",
+          "1971 → Nay: Hậu quả (1971 → Now: Consequences)",
+          "Cách Tiền Pháp Định Bòn Rút Tài Sản (How Fiat Currency Extracts Wealth)",
+          "1. Thuế Lạm Phát (Inflation Tax)",
+          "2. Cantillon Effect (Hiệu ứng Cantillon)",
+          "3. Asset Inflation (Lạm phát tài sản)",
+          "Tiền Pháp Định vs Các Lựa Chọn Khác (Fiat vs Other Options)",
+          "Tại Sao Hệ Thống Vẫn Tồn Tại? (Why Does the System Still Exist?)",
+          "Exit Options (Lựa Chọn Thoát Ra)",
+          "Related"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Báo Cáo 2030",
+          "Elite",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Privacy",
+          "Tiền Giấy - Tiền Mặt",
+          "Điều mà nền giáo dục và chính phủ không dạy bạn"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Privacy.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/index.md",
+          "crypto-finance/Tiền tiền tiền.md",
+          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+          "index.md",
+          "MOC - Financial Sovereignty.md",
+          "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
+        ],
+        "words": 1152,
+        "summary": "**Tiền Pháp Định** (Fiat Currency) là hệ thống tiền tệ không có giá trị nội tại, được in ấn dựa trên nợ và lòng tin. Đây là công cụ cốt lõi của Elite để kiểm soát kinh tế và bòn rút tài sản của nhân loại."
+      },
+      {
         "path": "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "title": "Bitcoin Sẽ Chết Nếu Không Có Privacy",
         "domain": "crypto-finance",
@@ -517,66 +590,6 @@
         ],
         "words": 1049,
         "summary": "**Bitcoin có thể sống như store of value mà thiếu privacy một thời gian. Nhưng nếu muốn trở thành tiền tệ tự do thật sự, Bitcoin cần fungibility. Và không có privacy thì không có fungibility. Một đồng tiền bị truy vết, chấm điểm, blacklist và phân loại “sạch/…"
-      },
-      {
-        "path": "crypto-finance/Tiền Pháp Định.md",
-        "title": "Tiền Pháp Định (Fiat Currency)",
-        "domain": "crypto-finance",
-        "tags": [
-          "crypto-finance"
-        ],
-        "aliases": [],
-        "headings": [
-          "Tiền Pháp Định (Fiat Currency)",
-          "Evidence Discipline / Cách Đọc",
-          "Đặc Điểm Của Tiền Pháp Định (Characteristics of Fiat Currency)",
-          "Lịch Sử Ngắn Gọn (Brief History)",
-          "Trước 1971: Hệ thống Bretton Woods (Before 1971: Bretton Woods System)",
-          "1971: Nixon Shock",
-          "1971 → Nay: Hậu quả (1971 → Now: Consequences)",
-          "Cách Tiền Pháp Định Bòn Rút Tài Sản (How Fiat Currency Extracts Wealth)",
-          "1. Thuế Lạm Phát (Inflation Tax)",
-          "2. Cantillon Effect (Hiệu ứng Cantillon)",
-          "3. Asset Inflation (Lạm phát tài sản)",
-          "Tiền Pháp Định vs Các Lựa Chọn Khác (Fiat vs Other Options)",
-          "Tại Sao Hệ Thống Vẫn Tồn Tại? (Why Does the System Still Exist?)",
-          "Exit Options (Lựa Chọn Thoát Ra)",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bitcoin",
-          "Báo Cáo 2030",
-          "Elite",
-          "Gen Z và CBDC - Programmable Money Psychology",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Privacy",
-          "Tiền Giấy - Tiền Mặt",
-          "Điều mà nền giáo dục và chính phủ không dạy bạn"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/Privacy.md",
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-          "crypto-finance/Giàu Không Nhờ May Mắn.md",
-          "crypto-finance/index.md",
-          "crypto-finance/Tiền tiền tiền.md",
-          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-          "index.md",
-          "MOC - Financial Sovereignty.md",
-          "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
-        ],
-        "words": 1152,
-        "summary": "**Tiền Pháp Định** (Fiat Currency) là hệ thống tiền tệ không có giá trị nội tại, được in ấn dựa trên nợ và lòng tin. Đây là công cụ cốt lõi của Elite để kiểm soát kinh tế và bòn rút tài sản của nhân loại."
       },
       {
         "path": "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
@@ -12264,6 +12277,7 @@
           "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Bitcoin.md",
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
           "esoterica/Cabal.md",
@@ -16977,6 +16991,10 @@
       5
     ],
     [
+      "privacy",
+      4
+    ],
+    [
       "buddhism",
       4
     ],
@@ -17007,10 +17025,6 @@
     [
       "propaganda",
       4
-    ],
-    [
-      "privacy",
-      3
     ],
     [
       "ai",
@@ -17066,10 +17080,6 @@
     ],
     [
       "cbdc",
-      2
-    ],
-    [
-      "1",
       2
     ],
     [
@@ -17270,6 +17280,10 @@
     ],
     [
       "ancient-civilizations",
+      1
+    ],
+    [
+      "taoism",
       1
     ]
   ],
@@ -17654,6 +17668,7 @@
         "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Bitcoin.md",
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
         "esoterica/Cabal.md",
@@ -18129,43 +18144,51 @@
       "title": "Gen Z và CBDC - Programmable Money Psychology",
       "domain": "crypto-finance",
       "tags": [
-        "1",
         "agenda-2030",
         "cbdc",
         "crypto-finance",
         "generation",
+        "privacy",
         "psychology"
       ],
       "aliases": [
+        "Cashless Native",
         "CBDC Psychology",
+        "Digital Money Conditioning",
         "Gen Z CBDC",
         "Programmable Money"
       ],
       "headings": [
-        "Gen Z và CBDC: Tâm Lý Học Đằng Sau \"Tiền Lập Trình Được\" (Gen Z and CBDC: The Psychology Behind \"Programmable Money\")",
-        "CBDC Là Gì? (What is CBDC?)",
-        "Crypto UX như lớp conditioning",
-        "Crypto UX Như Training Layer Cho CBDC",
-        "Tại Sao Gen Z Là \"Perfect Target\"? (Why is Gen Z the \"Perfect Target\"?)",
-        "1. Digital Native = Cashless Native",
-        "2. Subscription Mindset → Rental Money Mindset",
-        "3. Social Credit → Financial Credit",
-        "4. Climate Anxiety → Carbon Wallet Acceptance",
-        "5. Trust in Institutions (Ironically)",
-        "Psychological Manipulation Playbook (Sách Lược Thao Túng Tâm Lý)",
-        "Phase 1: Normalization (Đang xảy ra) / *Phase 1: Normalization (Happening now)*",
-        "Phase 2: Incentivization (2025-2027) / *Phase 2: Incentivization (2025-2027)*",
-        "Phase 3: Friction (2027-2030) / *Phase 3: Friction (2027-2030)*",
-        "Phase 4: Elimination (2030+) / *Phase 4: Elimination (2030+)*",
-        "CBDC vs Bitcoin: The Choice Gen Z Doesn't Know They Have (Sự Lựa Chọn Gen Z Không Biết Họ Có)",
-        "Trung Quốc: Beta Test Đã Hoàn Thành (China: Beta Test Complete)",
-        "Red Flags Gen Z Không Nhận Ra (Red Flags Gen Z Doesn't See)",
-        "Exit Strategy (Cho Những Ai Thức Tỉnh) / *Exit Strategy (For the Awakened)*",
-        "Short-term (Ngắn hạn):",
-        "Medium-term (Trung hạn):",
-        "Long-term (Dài hạn):",
-        "Kết Luận (Conclusion)",
-        "Đọc Thêm (Further Reading)"
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. CBDC Là Gì?",
+        "2. Programmable Money Nghĩa Là Gì?",
+        "3. Gen Z: Cashless Native",
+        "4. Convenience Là Gateway Drug",
+        "5. Subscription Mindset → Rental Money Mindset",
+        "6. Crypto UX Như Training Layer Cho CBDC",
+        "7. Digital ID Là Điểm Khóa",
+        "8. Algorithmic Fairness: Cái Bẫy Tâm Lý",
+        "9. Climate Anxiety → Carbon Wallet Acceptance",
+        "10. Rollout Playbook",
+        "Phase 1: Normalization",
+        "Phase 2: Incentivization",
+        "Phase 3: Integration",
+        "Phase 4: Friction",
+        "Phase 5: Permission Economy",
+        "11. CBDC vs Bitcoin: Sự Lựa Chọn Bị Che Mờ",
+        "12. Red Flags Gen Z Thường Không Nhìn Thấy",
+        "“Nó giống Apple Pay thôi mà.”",
+        "“Em không có gì phải giấu.”",
+        "“Government sẽ không abuse đâu.”",
+        "“Optional mà.”",
+        "“Crypto vẫn là lối thoát.”",
+        "13. Exit Strategy Không Phải Hoảng Loạn",
+        "Short-term",
+        "Medium-term",
+        "Long-term",
+        "Synthesis",
+        "Related"
       ],
       "wikilinks": [
         "Bitcoin",
@@ -18173,8 +18196,10 @@
         "Báo Cáo 2030",
         "Chainlink - Mắt Xích Của Tokenized World",
         "Gen Z - Phân Tích Phản Biện",
+        "MOC - Financial Sovereignty",
         "Privacy",
-        "Tiền Giấy - Tiền Mặt"
+        "Tiền Giấy - Tiền Mặt",
+        "Tiền Pháp Định"
       ],
       "mdlinks": [],
       "outlinks": [
@@ -18183,7 +18208,9 @@
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "MOC - Financial Sovereignty.md",
         "politics-conspiracy/Báo Cáo 2030.md"
       ],
       "backlinks": [
@@ -18208,8 +18235,8 @@
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
       ],
-      "words": 1956,
-      "summary": "---"
+      "words": 2390,
+      "summary": "**CBDC không chỉ là một upgrade kỹ thuật của tiền tệ. Nó là một bài toán tâm lý học: làm sao để một thế hệ tự nguyện bước từ tiền mặt ẩn danh sang tiền số định danh, lập trình được và giám sát được. Gen Z là thế hệ quan trọng nhất trong quá trình này vì họ kh…"
     },
     "crypto-finance/Giàu Không Nhờ May Mắn.md": {
       "path": "crypto-finance/Giàu Không Nhờ May Mắn.md",
@@ -18499,6 +18526,7 @@
       "backlinks": [
         "crypto-finance/Bitcoin.md",
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/index.md",
         "crypto-finance/Tiền tiền tiền.md",
