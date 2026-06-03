@@ -222,6 +222,19 @@ Một xã hội tự do cần resilience để nghe cái mình ghét. Một xã 
 
 ## 8. Work Ethic Và Learned Helplessness
 
+### China youth unemployment meme: credential → gig → lottery
+
+Một meme viral bên Trung Quốc tóm tắt đường sống của người trẻ thất nghiệp: học thạc sĩ/thi biên chế, rồi mở sạp/mở quán/làm KOL, rồi ship hàng/chạy xe, rồi bảo an/dọn dẹp/bảo mẫu, cuối cùng là xổ số. Nó buồn cười vì nó đúng cấu trúc.
+
+Đây là downward funnel của một thế hệ khi effort không còn convert thành ownership:
+
+```text
+credential race → state security → hustle → gig work → low-status service → fantasy exit
+```
+
+Nó nối trực tiếp với [[UBI Conditioning - The End of Work Ethic]]: nếu work không còn hứa hẹn future, dependency rail bắt đầu trông giống safety.
+
+
 Quiet quitting không chỉ là lười. Nó là phản ứng với một phương trình không còn thuyết phục:
 
 ```text

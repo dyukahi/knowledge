@@ -266,6 +266,7 @@ Các bài dưới đây là nơi framework gặp sự kiện, culture hoặc bod
 ### June 3, 2026
 
 - **Gen Z & Agenda 2030 series rewrite** — rewrote the full path into a sharper flagship arc: Gen Z overview, TikTok/attention warfare, UBI dependency rails, Digital ID access layer, Climate Anxiety compliance and Transhumanism/body-data sovereignty.
+- **China youth unemployment meme case study** — added the credential → state security → hustle → gig work → service fallback → lottery/fantasy exit funnel to [[UBI Conditioning - The End of Work Ethic]] and [[Gen Z - Phân Tích Phản Biện]].
 - **[[Chainlink - Mắt Xích Của Tokenized World]]** — new bridge note connecting oracle infrastructure, RWA/tokenization, banking rails, word magic, maritime flow language and the Sergey/Satoshi hypothesis as speculative layer.
 - **[[Gen Z và CBDC - Programmable Money Psychology]]** — rewritten as a flagship conditioning-pipeline article: cashless native psychology, crypto UX as training layer, digital ID, programmable money, algorithmic fairness and privacy exit strategy.
 - **Navigation status** — `index.md`, `crypto-finance/index.md`, [[MOC - Financial Sovereignty]] and `_docs/KNOWLEDGE-MAP.md` updated; broken links remain 0.

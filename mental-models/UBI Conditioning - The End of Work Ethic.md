@@ -246,6 +246,50 @@ Nhưng phải hỏi:
 
 ---
 
+---
+
+## 10. Case Study: “5 Con Đường” Của Người Trẻ Thất Nghiệp Trung Quốc
+
+Một meme viral bên Trung Quốc mô tả người trẻ thất nghiệp có vài đường đi xuống theo tầng:
+
+```text
+1. học thạc sĩ / thi công chức / thi biên chế
+2. mở sạp / mở quán / làm KOL
+3. ship đồ ăn / ship hàng / chạy xe ôm
+4. bảo an / bảo khiết / bảo mẫu
+5. chơi xổ số, biết đâu đổi đời
+```
+
+Nhìn như đùa, nhưng nó là một employment funnel rất thật:
+
+```mermaid
+flowchart TD
+    A[Credential Race] --> B[State Security Path]
+    B --> C[Small Business Hustle]
+    C --> D[Gig Economy]
+    D --> E[Low-Status Service Work]
+    E --> F[Lottery / Fantasy Exit]
+```
+
+Đây là khi một nền kinh tế không còn convert effort thành ownership đủ tốt. Người trẻ học nhiều hơn, online hơn, cạnh tranh hơn, nhưng lane sống lại bị nén xuống:
+
+- **Credential race**: học thêm không hẳn vì yêu tri thức, mà để trì hoãn thất nghiệp và mua thêm legitimacy.
+- **State security path**: thi công chức/biên chế là phản ứng tự nhiên khi private economy không còn đáng tin.
+- **Small business hustle**: mở quán, mở sạp, làm KOL nghe như entrepreneurship, nhưng nhiều khi là self-exploitation với rủi ro cá nhân hóa.
+- **Gig economy**: ship hàng/chạy xe là absorber của unemployment, linh hoạt ở bề mặt nhưng ít security và không có ownership ladder.
+- **Service fallback**: bảo an, dọn dẹp, bảo mẫu là downward mobility sau khi credential không đổi được income.
+- **Lottery**: khi meritocracy mất uy tín, luck economy trở thành fantasy exit.
+
+Câu bình luận đáng nhớ:
+
+> “Đang áp lực về thất nghiệp, thấy ai cũng thất nghiệp như mình thì tôi yên tâm rồi.”
+
+Đây là collective despair. Nó không giải quyết thất nghiệp, nhưng giúp người trẻ ngừng cảm thấy mình là loser cá nhân.
+
+Case này làm rõ thesis của bài: UBI/dependency rails không xuất hiện trong vacuum. Chúng xuất hiện sau khi work ethic bị bào mòn bởi một hệ thống nơi cố gắng không còn đảm bảo dignity, ownership hay future.
+
+> Khi work không còn dẫn tới ownership, người trẻ sẽ tìm safety. Nếu safety chỉ còn đến từ state/app/allowance, dependency không cần bị ép. Nó tự trở thành lựa chọn hợp lý.
+
 ## Synthesis
 
 UBI có thể là floor của tự do hoặc leash của dependency. Sự khác biệt nằm ở architecture.
