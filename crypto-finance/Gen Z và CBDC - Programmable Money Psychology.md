@@ -16,6 +16,7 @@ related:
   - "[[Tiền Giấy - Tiền Mặt]]"
   - "[[Bitcoin]]"
   - "[[Privacy]]"
+  - "[[Chainlink - Mắt Xích Của Tokenized World]]"
 ---
 
 # Gen Z và CBDC: Tâm Lý Học Đằng Sau "Tiền Lập Trình Được" (Gen Z and CBDC: The Psychology Behind "Programmable Money")
@@ -42,7 +43,32 @@ related:
 - Tiền có thể bị **đóng băng tức thì** nếu bạn vi phạm / *Money can be frozen instantly if you violate rules*
 - Tiền có thể bị **trừ tự động** (thuế, phạt, nợ) / *Money can be auto-deducted (taxes, fines, debts)*
 
+### Crypto UX như lớp conditioning
+
+CBDC không cần xuất hiện như cú sốc. Nó có thể xuất hiện như bản nâng cấp “an toàn, hợp pháp, được bảo chứng” của thứ crypto/stablecoin đã làm Gen Z quen từ trước: wallet, address, QR transfer, token, onchain balance, instant settlement, digital custody.
+
+[[Bitcoin]] normalizes ledger money. Stablecoin normalizes digital dollar. [[Chainlink - Mắt Xích Của Tokenized World|Chainlink/oracle layer]] normalizes việc tài sản thật, dữ liệu thật và banking rails bước vào chain. Khi digital ID được gắn vào wallet, programmable money không còn là theory; nó trở thành permission layer của đời sống.
+
 ---
+
+## Crypto UX Như Training Layer Cho CBDC
+
+CBDC không cần xuất hiện từ hư không. Mass đã được làm quen trước qua crypto UX:
+
+- wallet,
+- address,
+- token,
+- stablecoin,
+- gas fee,
+- public transaction history,
+- smart contract,
+- onchain reputation,
+- tokenized asset.
+
+Theo tầng systems reading, [[Bitcoin]] giới thiệu ledger money, Ethereum giới thiệu programmable contracts, còn [[Chainlink - Mắt Xích Của Tokenized World]] đại diện cho oracle layer nối blockchain với dữ liệu/tài sản/ngân hàng ngoài đời. Khi các lớp này cộng với digital ID, CBDC có thể được packaged như phiên bản “an toàn, hợp pháp, tiện lợi” của thứ mà crypto đã làm Gen Z quen từ trước.
+
+> Crypto cho cảm giác thoát khỏi ngân hàng, nhưng cũng dạy mass sống trong một thế giới nơi tiền có address, lịch sử và rule.
+
 
 ## Tại Sao Gen Z Là "Perfect Target"? (Why is Gen Z the "Perfect Target"?)
 

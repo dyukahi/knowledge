@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 189,
+    "notes": 190,
     "domains": {
       "_docs": 1,
       "root": 10,
-      "crypto-finance": 11,
+      "crypto-finance": 12,
       "esoterica": 72,
       "health": 27,
       "mental-models": 27,
       "politics-conspiracy": 24,
       "science-tech": 17
     },
-    "tags": 178,
-    "wikilinkEdges": 1916,
+    "tags": 180,
+    "wikilinkEdges": 1930,
     "brokenLinks": 0,
     "orphans": 3
   },
@@ -74,17 +74,20 @@
           "3. Proof-of-Work & Bảo mật / Security",
           "Bitcoin trong bối cảnh Ma Trận / Bitcoin vs The Matrix",
           "Mối đe dọa từ CBDC / CBDC Threat",
+          "Bitcoin như lớp giới thiệu ledger money",
           "Bitcoin và Privacy / Bitcoin & Privacy",
           "Chu kỳ thị trường / Market Cycles",
           "Related",
           "Core Articles / Bài viết chính",
           "Monetary System / Hệ thống tiền tệ",
           "Gen Z & Agenda 2030",
-          "Investment Mindset / Tâm lý đầu tư"
+          "Investment Mindset / Tâm lý đầu tư",
+          "Bitcoin As Ledger Conditioning / Bitcoin Như Lớp Làm Quen Với Ledger"
         ],
         "wikilinks": [
           "Bitcoin Sẽ Chết Nếu Không Có Privacy",
           "Báo Cáo 2030",
+          "Chainlink - Mắt Xích Của Tokenized World",
           "Elite",
           "Gen Z và CBDC - Programmable Money Psychology",
           "Giàu Không Nhờ May Mắn",
@@ -100,6 +103,7 @@
         "mdlinks": [],
         "outlinks": [
           "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
           "crypto-finance/Privacy.md",
@@ -115,6 +119,7 @@
         ],
         "backlinks": [
           "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
           "crypto-finance/index.md",
@@ -135,7 +140,7 @@
           "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
           "science-tech/Pin Natri-ion.md"
         ],
-        "words": 1022,
+        "words": 1321,
         "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
       },
       {
@@ -248,6 +253,8 @@
         "headings": [
           "Gen Z và CBDC: Tâm Lý Học Đằng Sau \"Tiền Lập Trình Được\" (Gen Z and CBDC: The Psychology Behind \"Programmable Money\")",
           "CBDC Là Gì? (What is CBDC?)",
+          "Crypto UX như lớp conditioning",
+          "Crypto UX Như Training Layer Cho CBDC",
           "Tại Sao Gen Z Là \"Perfect Target\"? (Why is Gen Z the \"Perfect Target\"?)",
           "1. Digital Native = Cashless Native",
           "2. Subscription Mindset → Rental Money Mindset",
@@ -273,6 +280,7 @@
           "Bitcoin",
           "Bitcoin Sẽ Chết Nếu Không Có Privacy",
           "Báo Cáo 2030",
+          "Chainlink - Mắt Xích Của Tokenized World",
           "Gen Z - Phân Tích Phản Biện",
           "Privacy",
           "Tiền Giấy - Tiền Mặt"
@@ -281,6 +289,7 @@
         "outlinks": [
           "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Privacy.md",
           "crypto-finance/Tiền Giấy - Tiền Mặt.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
@@ -289,6 +298,7 @@
         "backlinks": [
           "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
           "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -307,7 +317,7 @@
           "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
           "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
         ],
-        "words": 1719,
+        "words": 1956,
         "summary": "---"
       },
       {
@@ -370,6 +380,7 @@
         "backlinks": [
           "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
           "crypto-finance/index.md",
@@ -442,6 +453,72 @@
         "summary": "**Tiền mặt là lớp privacy cuối cùng trong hệ tiền pháp định; còn fiat là hệ tiền dựa trên niềm tin, luật cưỡng chế và khả năng phát hành của nhà nước/ngân hàng trung ương.** Trong vault, bài này không chỉ nói về lạm phát. Nó nói về cash như một quyền tự do an…"
       },
       {
+        "path": "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "title": "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "domain": "crypto-finance",
+        "tags": [
+          "bitcoin",
+          "crypto-finance",
+          "privacy",
+          "sovereignty"
+        ],
+        "aliases": [
+          "Bitcoin Privacy",
+          "Bitcoin Will Die Without Privacy",
+          "Fungibility"
+        ],
+        "headings": [
+          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Fungibility Là Gì?",
+          "2. Bitcoin Không Anonymous",
+          "Public ledger như hồ sơ tài chính vĩnh viễn",
+          "Chainlink, Oracles Và Public Ledger Risk",
+          "3. Dirty Bitcoin Problem",
+          "4. War On Cash",
+          "5. Privacy Không Phải Che Giấu Tội Lỗi",
+          "6. Giải Pháp",
+          "On Bitcoin",
+          "Outside Bitcoin",
+          "7. Bitcoin Có Thể Thích Nghi Không?",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Chainlink - Mắt Xích Của Tokenized World",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "MOC - Financial Sovereignty",
+          "Privacy",
+          "Privacy Is The New Wealth",
+          "Tiền Giấy - Tiền Mặt"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Privacy.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "MOC - Financial Sovereignty.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/index.md",
+          "crypto-finance/Privacy.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+          "index.md",
+          "MOC - Financial Sovereignty.md"
+        ],
+        "words": 1049,
+        "summary": "**Bitcoin có thể sống như store of value mà thiếu privacy một thời gian. Nhưng nếu muốn trở thành tiền tệ tự do thật sự, Bitcoin cần fungibility. Và không có privacy thì không có fungibility. Một đồng tiền bị truy vết, chấm điểm, blacklist và phân loại “sạch/…"
+      },
+      {
         "path": "crypto-finance/Tiền Pháp Định.md",
         "title": "Tiền Pháp Định (Fiat Currency)",
         "domain": "crypto-finance",
@@ -489,6 +566,7 @@
         ],
         "backlinks": [
           "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
           "crypto-finance/index.md",
           "crypto-finance/Tiền tiền tiền.md",
@@ -584,65 +662,69 @@
         "summary": "Trong quá trình tìm hiểu sâu về tài chính, nhiều người mới nhận ra mình \"nghèo mạt\" — không phải vì thiếu tiền, mà vì **thiếu kiến thức về tiền**."
       },
       {
-        "path": "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "title": "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "path": "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "title": "Chainlink - Mắt Xích Của Tokenized World",
         "domain": "crypto-finance",
         "tags": [
-          "bitcoin",
+          "cbdc",
           "crypto-finance",
-          "privacy",
-          "sovereignty"
+          "sovereignty",
+          "tokenization",
+          "word-magic"
         ],
         "aliases": [
-          "Bitcoin Privacy",
-          "Bitcoin Will Die Without Privacy",
-          "Fungibility"
+          "Chainlink",
+          "Oracle Layer",
+          "Sergey Nazarov",
+          "Tokenized World"
         ],
         "headings": [
-          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+          "Chainlink - Mắt Xích Của Tokenized World",
           "Vault Position / Vị Trí Trong Vault",
-          "1. Fungibility Là Gì?",
-          "2. Bitcoin Không Anonymous",
-          "3. Dirty Bitcoin Problem",
-          "4. War On Cash",
-          "5. Privacy Không Phải Che Giấu Tội Lỗi",
-          "6. Giải Pháp",
-          "On Bitcoin",
-          "Outside Bitcoin",
-          "7. Bitcoin Có Thể Thích Nghi Không?",
+          "Evidence Discipline / Cách Đọc Claim",
+          "1. Bitcoin Mở Cổng, Chainlink Nối Cổng",
+          "2. Word Magic: Chain, Link, Block, Bank, Channel",
+          "3. Luật Biển, Dòng Chảy Và Claim",
+          "4. Oracle Layer Là Gì?",
+          "5. Tokenized Assets Và Banking Integration",
+          "6. Transparency Hay Total Visibility?",
+          "7. Sergey Nazarov / Satoshi Hypothesis",
+          "8. Crypto Như Conditioning Layer Cho CBDC",
           "Synthesis",
           "Related"
         ],
         "wikilinks": [
           "Bitcoin",
+          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
           "Gen Z và CBDC - Programmable Money Psychology",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "MOC - Epistemology & Propaganda",
           "MOC - Financial Sovereignty",
           "Privacy",
-          "Privacy Is The New Wealth",
-          "Tiền Giấy - Tiền Mặt"
+          "Tiền Pháp Định",
+          "Word Magic - Ngôn Ngữ Của Phù Thủy"
         ],
         "mdlinks": [],
         "outlinks": [
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Bitcoin.md",
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Privacy.md",
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-          "mental-models/Privacy Is The New Wealth.md",
+          "crypto-finance/Tiền Pháp Định.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "MOC - Epistemology & Propaganda.md",
           "MOC - Financial Sovereignty.md"
         ],
         "backlinks": [
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Bitcoin.md",
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/Giàu Không Nhờ May Mắn.md",
-          "crypto-finance/index.md",
-          "crypto-finance/Privacy.md",
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-          "index.md",
+          "Cách Đọc Red Pill Wiki.md",
           "MOC - Financial Sovereignty.md"
         ],
-        "words": 832,
-        "summary": "**Bitcoin có thể sống như store of value mà thiếu privacy một thời gian. Nhưng nếu muốn trở thành tiền tệ tự do thật sự, Bitcoin cần fungibility. Và không có privacy thì không có fungibility. Một đồng tiền bị truy vết, chấm điểm, blacklist và phân loại “sạch/…"
+        "words": 1513,
+        "summary": "**Chainlink không chỉ là một oracle protocol trong crypto. Trong vault, nó là mắt xích biểu tượng và hạ tầng nối blockchain với tài sản thật, dữ liệu thật, ngân hàng, SWIFT, RWA và eventually programmable money. Nếu Bitcoin làm mass quen với tiền trên ledger,…"
       },
       {
         "path": "crypto-finance/Giàu Không Nhờ May Mắn.md",
@@ -1794,6 +1876,86 @@
         "summary": "**Tartaria là một case study về cách lịch sử, bản đồ, kiến trúc và ký ức tập thể có thể bị đọc theo nhiều tầng cùng lúc.** Tầng fact: \"Tartary\" từng xuất hiện trên nhiều bản đồ châu Âu để chỉ các vùng rộng lớn ở Á-Âu, thường mơ hồ theo hiểu biết địa lý của th…"
       },
       {
+        "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "title": "Karma Disclosure - Truth Hidden In Plain Sight",
+        "domain": "esoterica",
+        "tags": [
+          "conspiracy",
+          "esoterica",
+          "karma"
+        ],
+        "aliases": [
+          "Elite Disclosure",
+          "Hidden In Plain Sight",
+          "Karma Disclosure",
+          "Predictive Programming Karma"
+        ],
+        "headings": [
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Evidence Discipline / Cách Đọc",
+          "Vị Trí Trong Vault / Vault Position",
+          "Luật Consent Ở Tầng Biểu Tượng",
+          "Fiction Là Vùng Disclosure Mềm",
+          "Hidden In Plain Sight",
+          "Timeline Không Phải Bằng Chứng Tự Động",
+          "Tại Sao Người Ta Không Thấy?",
+          "Decoder Mindset / Cách Đọc Không Paranoid",
+          "Counter-Arguments / Phản Biện Cần Giữ",
+          "Kết / Core Synthesis",
+          "Related",
+          "Nền tảng / Foundation",
+          "Ứng dụng / Application",
+          "Meta"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+          "Khoa Học Xét Lại",
+          "Luân Hồi",
+          "Ma Trận",
+          "Nghịch Lý Của Hiểu Biết",
+          "Nhân Quả",
+          "Nhị Nguyên",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Gematria.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/index.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Vận Chín.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "index.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/index.md"
+        ],
+        "words": 1472,
+        "summary": "**Karma Disclosure là giả thuyết rằng quyền lực không chỉ che giấu kế hoạch; nó còn để lại dấu vết công khai dưới dạng fiction, symbol, ritual, slogan hoặc \"joke\" để biến sự thật thành thứ ai cũng thấy nhưng ít người xử lý.** Đọc đúng, đây không phải giấy phé…"
+      },
+      {
         "path": "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "title": "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
         "domain": "esoterica",
@@ -1956,85 +2118,6 @@
         ],
         "words": 1398,
         "summary": "**Hollywood là nơi giải trí trở thành nghi lễ đại chúng: hình ảnh, nhạc, thần tượng, biểu tượng và câu chuyện được lặp lại đủ lâu để đi thẳng vào Vô Thức Tập Thể.** Cách đọc \"holy wood\" như cây đũa phép không nên hiểu là etymology chắc chắn; nó là **symbolic…"
-      },
-      {
-        "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "title": "Karma Disclosure - Truth Hidden In Plain Sight",
-        "domain": "esoterica",
-        "tags": [
-          "conspiracy",
-          "esoterica",
-          "karma"
-        ],
-        "aliases": [
-          "Elite Disclosure",
-          "Hidden In Plain Sight",
-          "Karma Disclosure",
-          "Predictive Programming Karma"
-        ],
-        "headings": [
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Evidence Discipline / Cách Đọc",
-          "Vị Trí Trong Vault / Vault Position",
-          "Luật Consent Ở Tầng Biểu Tượng",
-          "Fiction Là Vùng Disclosure Mềm",
-          "Hidden In Plain Sight",
-          "Timeline Không Phải Bằng Chứng Tự Động",
-          "Tại Sao Người Ta Không Thấy?",
-          "Decoder Mindset / Cách Đọc Không Paranoid",
-          "Counter-Arguments / Phản Biện Cần Giữ",
-          "Kết / Core Synthesis",
-          "Related",
-          "Nền tảng / Foundation",
-          "Ứng dụng / Application",
-          "Meta"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Khoa Học Xét Lại",
-          "Luân Hồi",
-          "Ma Trận",
-          "Nghịch Lý Của Hiểu Biết",
-          "Nhân Quả",
-          "Nhị Nguyên",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Gematria.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/index.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Vận Chín.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/index.md"
-        ],
-        "words": 1472,
-        "summary": "**Karma Disclosure là giả thuyết rằng quyền lực không chỉ che giấu kế hoạch; nó còn để lại dấu vết công khai dưới dạng fiction, symbol, ritual, slogan hoặc \"joke\" để biến sự thật thành thứ ai cũng thấy nhưng ít người xử lý.** Đọc đúng, đây không phải giấy phé…"
       },
       {
         "path": "esoterica/Luân Hồi.md",
@@ -3810,6 +3893,76 @@
         "summary": "**Tà Linh là ngôn ngữ biểu tượng để nói về những lực ký sinh trên attention, cảm xúc và sinh lực của con người. Đọc thấp thì đó là trauma loop, nghiện, thought-form và môi trường độc. Đọc cao thì đó là Archon, Wetiko, thực thể trung giới và cơ chế harvest loo…"
       },
       {
+        "path": "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "title": "Word Magic - Ngôn Ngữ Của Phù Thủy",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "mind-control"
+        ],
+        "aliases": [],
+        "headings": [
+          "Word Magic — Ngôn Ngữ Của Phù Thủy",
+          "I. Spelling Is Casting Spells",
+          "II. The Phoenicians — Những Người Tạo Ra Phép Thuật",
+          "II.5. English — Ngôn Ngữ Của Đế Chế",
+          "Language of the Colonizer",
+          "Tại sao English \"Nặng Spell\" nhất?",
+          "English + Gematria = Perfect Storm",
+          "III. Hidden In Plain Sight — Sự Thật Được Giấu Ngay Trước Mắt",
+          "Những từ về vũ trụ",
+          "Những từ về sự lừa dối",
+          "IV. Legal Word Magic — Phép Thuật Trong Tòa Án",
+          "V. Maritime Admiralty Law — Luật Của Biển",
+          "Birth = Berth",
+          "Currency = Current-Sea",
+          "Citizenship = Citizen-SHIP",
+          "Why Maritime?",
+          "VI. Gematria — Khi Chữ Cái Là Số",
+          "VII. Cymatics — Âm Thanh Tạo Hình",
+          "VIII. Corporate Spell-Casting — Khi Công Ty Niệm Chú",
+          "Logos Là Sigils",
+          "Slogans Là Incantations",
+          "IX. Breaking The Spell — Phá Vỡ Bùa Chú",
+          "X. Kết",
+          "Liên Kết / Connections",
+          "Tài Liệu Tham Khảo / References"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Gematria",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Manly P. Hall",
+          "UAP Disclosure - Controlled Revelation"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Manly P. Hall.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "esoterica/Biểu Tượng Baphomet.md",
+          "esoterica/Gematria.md",
+          "esoterica/index.md",
+          "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
+          "index.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "words": 3371,
+        "summary": "**\"Can you spell your name?\"**"
+      },
+      {
         "path": "esoterica/Saturn Cube.md",
         "title": "Saturn Cube (Khối Lập Phương Sao Thổ)",
         "domain": "esoterica",
@@ -3929,75 +4082,6 @@
         ],
         "words": 737,
         "summary": "**Thực Thể Cõi Trung Giới** (Astral Entities) là các sinh linh tồn tại ở tần số ngoài phổ nhìn thấy của con người. Trong nhiều truyền thống được gọi là Archons, demons, djinn, ký sinh trùng năng lượng."
-      },
-      {
-        "path": "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "title": "Word Magic - Ngôn Ngữ Của Phù Thủy",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "mind-control"
-        ],
-        "aliases": [],
-        "headings": [
-          "Word Magic — Ngôn Ngữ Của Phù Thủy",
-          "I. Spelling Is Casting Spells",
-          "II. The Phoenicians — Những Người Tạo Ra Phép Thuật",
-          "II.5. English — Ngôn Ngữ Của Đế Chế",
-          "Language of the Colonizer",
-          "Tại sao English \"Nặng Spell\" nhất?",
-          "English + Gematria = Perfect Storm",
-          "III. Hidden In Plain Sight — Sự Thật Được Giấu Ngay Trước Mắt",
-          "Những từ về vũ trụ",
-          "Những từ về sự lừa dối",
-          "IV. Legal Word Magic — Phép Thuật Trong Tòa Án",
-          "V. Maritime Admiralty Law — Luật Của Biển",
-          "Birth = Berth",
-          "Currency = Current-Sea",
-          "Citizenship = Citizen-SHIP",
-          "Why Maritime?",
-          "VI. Gematria — Khi Chữ Cái Là Số",
-          "VII. Cymatics — Âm Thanh Tạo Hình",
-          "VIII. Corporate Spell-Casting — Khi Công Ty Niệm Chú",
-          "Logos Là Sigils",
-          "Slogans Là Incantations",
-          "IX. Breaking The Spell — Phá Vỡ Bùa Chú",
-          "X. Kết",
-          "Liên Kết / Connections",
-          "Tài Liệu Tham Khảo / References"
-        ],
-        "wikilinks": [
-          "Elite",
-          "Gematria",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "Manly P. Hall",
-          "UAP Disclosure - Controlled Revelation"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gematria.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Manly P. Hall.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
-        ],
-        "backlinks": [
-          "esoterica/Biểu Tượng Baphomet.md",
-          "esoterica/Gematria.md",
-          "esoterica/index.md",
-          "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "words": 3371,
-        "summary": "**\"Can you spell your name?\"**"
       },
       {
         "path": "esoterica/Chu Kỳ Hoàng Đạo.md",
@@ -11634,6 +11718,91 @@
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
+        "path": "MOC - Epistemology & Propaganda.md",
+        "title": "MOC - Epistemology & Propaganda",
+        "domain": "root",
+        "tags": [
+          "epistemology",
+          "moc",
+          "propaganda"
+        ],
+        "aliases": [],
+        "headings": [
+          "MOC - Epistemology & Propaganda",
+          "Start Here",
+          "Mind Control & Media",
+          "Language & Frame Control",
+          "Institutional Knowledge",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Climate Anxiety as Control - Fear-Based Compliance",
+          "Cách Đọc Red Pill Wiki",
+          "Digital ID Normalization - From Instagram to Government ID",
+          "Gematria",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Khoa Học Xét Lại",
+          "Kiểm Soát Tâm Trí",
+          "Mental Model",
+          "Nghịch Lý Của Hiểu Biết",
+          "Nhị Nguyên",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+          "Word Magic - Ngôn Ngữ Của Phù Thủy"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Gematria.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Nhị Nguyên.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/index.md",
+          "esoterica/Cabal.md",
+          "esoterica/index.md",
+          "esoterica/Ma Trận.md",
+          "health/index.md",
+          "index.md",
+          "mental-models/index.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/MAGA Và Số 42.md",
+          "politics-conspiracy/MindGeek.md",
+          "politics-conspiracy/Mudflood.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "politics-conspiracy/Sự thật về ma túy.md",
+          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+          "politics-conspiracy/Trái Đất Phẳng.md",
+          "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+          "science-tech/index.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 189,
+        "summary": "**Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**"
+      },
+      {
         "path": "MOC - Health Sovereignty.md",
         "title": "MOC - Health Sovereignty",
         "domain": "root",
@@ -11717,90 +11886,6 @@
         ],
         "words": 184,
         "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng.**"
-      },
-      {
-        "path": "MOC - Epistemology & Propaganda.md",
-        "title": "MOC - Epistemology & Propaganda",
-        "domain": "root",
-        "tags": [
-          "epistemology",
-          "moc",
-          "propaganda"
-        ],
-        "aliases": [],
-        "headings": [
-          "MOC - Epistemology & Propaganda",
-          "Start Here",
-          "Mind Control & Media",
-          "Language & Frame Control",
-          "Institutional Knowledge",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Bộ Não Rỗng và AI Brain Rot",
-          "Climate Anxiety as Control - Fear-Based Compliance",
-          "Cách Đọc Red Pill Wiki",
-          "Digital ID Normalization - From Instagram to Government ID",
-          "Gematria",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Khoa Học Xét Lại",
-          "Kiểm Soát Tâm Trí",
-          "Mental Model",
-          "Nghịch Lý Của Hiểu Biết",
-          "Nhị Nguyên",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-          "Word Magic - Ngôn Ngữ Của Phù Thủy"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Gematria.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Nhị Nguyên.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-        ],
-        "backlinks": [
-          "crypto-finance/index.md",
-          "esoterica/Cabal.md",
-          "esoterica/index.md",
-          "esoterica/Ma Trận.md",
-          "health/index.md",
-          "index.md",
-          "mental-models/index.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Bức Tường Băng.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/MAGA Và Số 42.md",
-          "politics-conspiracy/MindGeek.md",
-          "politics-conspiracy/Mudflood.md",
-          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-          "politics-conspiracy/Sự thật về ma túy.md",
-          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-          "politics-conspiracy/Trái Đất Phẳng.md",
-          "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-          "science-tech/index.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 189,
-        "summary": "**Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**"
       },
       {
         "path": "MOC - Science Revisionism.md",
@@ -11986,6 +12071,7 @@
           "Cách Đọc Red Pill Wiki",
           "1. Đừng Tin. Hãy Thấy.",
           "2. Bốn Tầng Đọc",
+          "Claim Discipline Cho Crypto / CBDC Dots",
           "3. Fact Không Đủ. Nhưng Không Có Fact Thì Dễ Bay.",
           "4. Ma Trận Là Interface, Không Chỉ Nhà Tù",
           "5. Symbol Không Phải Trang Trí",
@@ -11996,6 +12082,7 @@
         ],
         "wikilinks": [
           "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Chainlink - Mắt Xích Của Tokenized World",
           "Elite",
           "Gnosis",
           "Hollywood - Cây Đũa Phép Của Phù Thủy",
@@ -12014,6 +12101,7 @@
         ],
         "mdlinks": [],
         "outlinks": [
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "esoterica/Gnosis.md",
           "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
           "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -12050,7 +12138,7 @@
           "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
           "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
         ],
-        "words": 1154,
+        "words": 1337,
         "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
       },
       {
@@ -12138,12 +12226,15 @@
           "Start Here",
           "Bitcoin & Privacy",
           "Fiat, Debt & Control",
+          "Tokenization & Onchain Control",
+          "Tokenized World / Oracle Layer",
           "Market Cycles",
           "Synthesis"
         ],
         "wikilinks": [
           "Bitcoin",
           "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+          "Chainlink - Mắt Xích Của Tokenized World",
           "Gen Z và CBDC - Programmable Money Psychology",
           "Privacy",
           "Privacy Is The New Wealth",
@@ -12158,6 +12249,7 @@
         "outlinks": [
           "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Privacy.md",
           "crypto-finance/Secular Market.md",
@@ -12171,6 +12263,7 @@
         "backlinks": [
           "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
           "esoterica/Cabal.md",
@@ -12180,7 +12273,7 @@
           "politics-conspiracy/Elite.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 155,
+        "words": 262,
         "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào hệ thống tiền pháp định, ngân hàng trung ương, surveillance finance hoặc programmable money.**"
       },
       {
@@ -15090,6 +15183,91 @@
       "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
     },
     {
+      "path": "MOC - Epistemology & Propaganda.md",
+      "title": "MOC - Epistemology & Propaganda",
+      "domain": "root",
+      "tags": [
+        "epistemology",
+        "moc",
+        "propaganda"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Epistemology & Propaganda",
+        "Start Here",
+        "Mind Control & Media",
+        "Language & Frame Control",
+        "Institutional Knowledge",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "Báo Cáo 2030",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Climate Anxiety as Control - Fear-Based Compliance",
+        "Cách Đọc Red Pill Wiki",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Gematria",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Khoa Học Xét Lại",
+        "Kiểm Soát Tâm Trí",
+        "Mental Model",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nhị Nguyên",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "Word Magic - Ngôn Ngữ Của Phù Thủy"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Gematria.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nhị Nguyên.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/index.md",
+        "esoterica/Cabal.md",
+        "esoterica/index.md",
+        "esoterica/Ma Trận.md",
+        "health/index.md",
+        "index.md",
+        "mental-models/index.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/MAGA Và Số 42.md",
+        "politics-conspiracy/MindGeek.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Sự thật về ma túy.md",
+        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+        "politics-conspiracy/Trái Đất Phẳng.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/index.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "words": 189,
+      "summary": "**Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**"
+    },
+    {
       "path": "MOC - Health Sovereignty.md",
       "title": "MOC - Health Sovereignty",
       "domain": "root",
@@ -15287,90 +15465,6 @@
       ],
       "words": 866,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
-    },
-    {
-      "path": "MOC - Epistemology & Propaganda.md",
-      "title": "MOC - Epistemology & Propaganda",
-      "domain": "root",
-      "tags": [
-        "epistemology",
-        "moc",
-        "propaganda"
-      ],
-      "aliases": [],
-      "headings": [
-        "MOC - Epistemology & Propaganda",
-        "Start Here",
-        "Mind Control & Media",
-        "Language & Frame Control",
-        "Institutional Knowledge",
-        "Synthesis"
-      ],
-      "wikilinks": [
-        "Báo Cáo 2030",
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Climate Anxiety as Control - Fear-Based Compliance",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Gematria",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "Khoa Học Xét Lại",
-        "Kiểm Soát Tâm Trí",
-        "Mental Model",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nhị Nguyên",
-        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "Word Magic - Ngôn Ngữ Của Phù Thủy"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Gematria.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nhị Nguyên.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-      ],
-      "backlinks": [
-        "crypto-finance/index.md",
-        "esoterica/Cabal.md",
-        "esoterica/index.md",
-        "esoterica/Ma Trận.md",
-        "health/index.md",
-        "index.md",
-        "mental-models/index.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/MAGA Và Số 42.md",
-        "politics-conspiracy/MindGeek.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-        "politics-conspiracy/Trái Đất Phẳng.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 189,
-      "summary": "**Đây là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên, và bị đóng khung reality qua education, media, language, science institution và algorithm.**"
     },
     {
       "path": "politics-conspiracy/index.md",
@@ -15941,6 +16035,92 @@
       "summary": "**Nhị nguyên là cơ chế Một tự phân cực thành hai để tạo trải nghiệm: sáng/tối, nam/nữ, âm/dương, đúng/sai, ta/địch.** Nó không xấu; nó là grammar của cõi vật chất. Cái bẫy bắt đầu khi con người quên field lớn hơn và để hai cực dựng thành nhà tù nhận thức."
     },
     {
+      "path": "crypto-finance/Bitcoin.md",
+      "title": "Bitcoin",
+      "domain": "crypto-finance",
+      "tags": [
+        "crypto-finance"
+      ],
+      "aliases": [],
+      "headings": [
+        "Bitcoin",
+        "Vault Position / Vị Trí Trong Map",
+        "Tại sao Bitcoin quan trọng? / Why Bitcoin Matters?",
+        "1. Phi tập trung & Không cần niềm tin / Decentralized & Trustless",
+        "2. Cung cấp hạn chế / Hard Cap",
+        "3. Proof-of-Work & Bảo mật / Security",
+        "Bitcoin trong bối cảnh Ma Trận / Bitcoin vs The Matrix",
+        "Mối đe dọa từ CBDC / CBDC Threat",
+        "Bitcoin như lớp giới thiệu ledger money",
+        "Bitcoin và Privacy / Bitcoin & Privacy",
+        "Chu kỳ thị trường / Market Cycles",
+        "Related",
+        "Core Articles / Bài viết chính",
+        "Monetary System / Hệ thống tiền tệ",
+        "Gen Z & Agenda 2030",
+        "Investment Mindset / Tâm lý đầu tư",
+        "Bitcoin As Ledger Conditioning / Bitcoin Như Lớp Làm Quen Với Ledger"
+      ],
+      "wikilinks": [
+        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "Báo Cáo 2030",
+        "Chainlink - Mắt Xích Của Tokenized World",
+        "Elite",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giàu Không Nhờ May Mắn",
+        "Khoa Học Xét Lại",
+        "MOC - Financial Sovereignty",
+        "Privacy",
+        "Secular Market",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Tiền Giấy - Tiền Mặt",
+        "Tiền Pháp Định",
+        "Tiền tiền tiền"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Secular Market.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Tiền tiền tiền.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "MOC - Financial Sovereignty.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Elite.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/index.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Secular Market.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Tiền tiền tiền.md",
+        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "index.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "MOC - Financial Sovereignty.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/Pin Natri-ion.md"
+      ],
+      "words": 1321,
+      "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
+    },
+    {
       "path": "MOC - Esoterica & Consciousness.md",
       "title": "MOC - Esoterica & Consciousness",
       "domain": "root",
@@ -16125,6 +16305,90 @@
       "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
     },
     {
+      "path": "Cách Đọc Red Pill Wiki.md",
+      "title": "Cách Đọc Red Pill Wiki",
+      "domain": "root",
+      "tags": [
+        "epistemology",
+        "meta",
+        "navigation"
+      ],
+      "aliases": [],
+      "headings": [
+        "Cách Đọc Red Pill Wiki",
+        "1. Đừng Tin. Hãy Thấy.",
+        "2. Bốn Tầng Đọc",
+        "Claim Discipline Cho Crypto / CBDC Dots",
+        "3. Fact Không Đủ. Nhưng Không Có Fact Thì Dễ Bay.",
+        "4. Ma Trận Là Interface, Không Chỉ Nhà Tù",
+        "5. Symbol Không Phải Trang Trí",
+        "6. Đừng Biến Red Pill Thành Tôn Giáo Mới",
+        "7. Cách Đọc Một Bài Bất Kỳ",
+        "8. Reading Paths",
+        "9. Synthesis"
+      ],
+      "wikilinks": [
+        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Chainlink - Mắt Xích Của Tokenized World",
+        "Elite",
+        "Gnosis",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Khoa Học Xét Lại",
+        "Kiểm Soát Tâm Trí",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Monad",
+        "Nghịch Lý Của Hiểu Biết",
+        "Sự Nhất Thể",
+        "UAP Disclosure - Controlled Revelation",
+        "Ung Thư - Metabolic Protocol",
+        "Y Tế Tự Nhiên"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Sự Nhất Thể.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Ung Thư - Metabolic Protocol.md",
+        "health/Y Tế Tự Nhiên.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "backlinks": [
+        "esoterica/index.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Vận Chín.md",
+        "health/Ketogenic Diet.md",
+        "index.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "science-tech/index.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
+      ],
+      "words": 1337,
+      "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
+    },
+    {
       "path": "mental-models/Vô Thức Tập Thể.md",
       "title": "Vô Thức Tập Thể",
       "domain": "mental-models",
@@ -16202,174 +16466,6 @@
       ],
       "words": 896,
       "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
-    },
-    {
-      "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
-      "title": "Nghịch Lý Của Hiểu Biết",
-      "domain": "esoterica",
-      "tags": [
-        "esoterica"
-      ],
-      "aliases": [
-        "Beyond Duality",
-        "Paradox of Knowledge",
-        "Vượt Qua Nhị Nguyên"
-      ],
-      "headings": [
-        "Nghịch Lý Của Hiểu Biết",
-        "Phần 1: Trap Của Nhị Nguyên",
-        "Vòng Lặp Vô Tận",
-        "Ví Dụ Thực Tế",
-        "Phần 2: Layers Của Hiểu Biết",
-        "Điều Gì Xảy Ra Ở Layer 5?",
-        "Phần 3: Tất Cả Đều Đúng VÀ Sai",
-        "Phần 4: Cái Thấy",
-        "Cái Thấy Là Gì?",
-        "Không Thể Doubt Cái Thấy",
-        "Phần 5: Trí Tuệ Của Đức Phật",
-        "Điều Phi Thường",
-        "Chỉ Nói Những Gì Có Thể Tự Thấy",
-        "Vậy Tại Sao Vẫn Viết?",
-        "Phần 6: Transmission vs Information",
-        "Kết: Invitation",
-        "Related",
-        "Nền tảng / Foundation",
-        "Tâm linh / Spirituality",
-        "Đọc thêm"
-      ],
-      "wikilinks": [
-        "AI Và Câu Hỏi Về Ý Thức",
-        "Gnosis",
-        "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-        "Individuation",
-        "Khoa Học Xét Lại",
-        "Ma Trận",
-        "Monad",
-        "Nhị Nguyên",
-        "Sự Nhất Thể",
-        "Tâm Lý Học Jung"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Sự Nhất Thể.md",
-        "mental-models/Individuation.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "backlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-        "esoterica/index.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-        "esoterica/Đạo.md",
-        "index.md",
-        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-        "mental-models/index.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "mental-models/Trí Tuệ.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Science Revisionism.md",
-        "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 1487,
-      "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
-    },
-    {
-      "path": "crypto-finance/Bitcoin.md",
-      "title": "Bitcoin",
-      "domain": "crypto-finance",
-      "tags": [
-        "crypto-finance"
-      ],
-      "aliases": [],
-      "headings": [
-        "Bitcoin",
-        "Vault Position / Vị Trí Trong Map",
-        "Tại sao Bitcoin quan trọng? / Why Bitcoin Matters?",
-        "1. Phi tập trung & Không cần niềm tin / Decentralized & Trustless",
-        "2. Cung cấp hạn chế / Hard Cap",
-        "3. Proof-of-Work & Bảo mật / Security",
-        "Bitcoin trong bối cảnh Ma Trận / Bitcoin vs The Matrix",
-        "Mối đe dọa từ CBDC / CBDC Threat",
-        "Bitcoin và Privacy / Bitcoin & Privacy",
-        "Chu kỳ thị trường / Market Cycles",
-        "Related",
-        "Core Articles / Bài viết chính",
-        "Monetary System / Hệ thống tiền tệ",
-        "Gen Z & Agenda 2030",
-        "Investment Mindset / Tâm lý đầu tư"
-      ],
-      "wikilinks": [
-        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-        "Báo Cáo 2030",
-        "Elite",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giàu Không Nhờ May Mắn",
-        "Khoa Học Xét Lại",
-        "MOC - Financial Sovereignty",
-        "Privacy",
-        "Secular Market",
-        "Sợ hãi - Tham Lam – Cân bằng",
-        "Tiền Giấy - Tiền Mặt",
-        "Tiền Pháp Định",
-        "Tiền tiền tiền"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giàu Không Nhờ May Mắn.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Tiền tiền tiền.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "MOC - Financial Sovereignty.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Elite.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giàu Không Nhờ May Mắn.md",
-        "crypto-finance/index.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Tiền tiền tiền.md",
-        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "index.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "MOC - Financial Sovereignty.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/Pin Natri-ion.md"
-      ],
-      "words": 1022,
-      "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
     }
   ],
   "orphans": [
@@ -16801,24 +16897,24 @@
       22
     ],
     [
-      "psychology",
+      "crypto-finance",
       13
     ],
     [
-      "crypto-finance",
-      12
+      "psychology",
+      13
     ],
     [
       "matrix",
       11
     ],
     [
-      "source-note",
+      "sovereignty",
       9
     ],
     [
-      "sovereignty",
-      8
+      "source-note",
+      9
     ],
     [
       "agenda-2030",
@@ -16969,6 +17065,10 @@
       2
     ],
     [
+      "cbdc",
+      2
+    ],
+    [
       "1",
       2
     ],
@@ -17021,7 +17121,11 @@
       2
     ],
     [
-      "cbdc",
+      "tokenization",
+      1
+    ],
+    [
+      "word-magic",
       1
     ],
     [
@@ -17167,14 +17271,6 @@
     [
       "ancient-civilizations",
       1
-    ],
-    [
-      "taoism",
-      1
-    ],
-    [
-      "jesus",
-      1
     ]
   ],
   "brokenLinks": [],
@@ -17193,6 +17289,7 @@
         "Cách Đọc Red Pill Wiki",
         "1. Đừng Tin. Hãy Thấy.",
         "2. Bốn Tầng Đọc",
+        "Claim Discipline Cho Crypto / CBDC Dots",
         "3. Fact Không Đủ. Nhưng Không Có Fact Thì Dễ Bay.",
         "4. Ma Trận Là Interface, Không Chỉ Nhà Tù",
         "5. Symbol Không Phải Trang Trí",
@@ -17203,6 +17300,7 @@
       ],
       "wikilinks": [
         "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Chainlink - Mắt Xích Của Tokenized World",
         "Elite",
         "Gnosis",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
@@ -17221,6 +17319,7 @@
       ],
       "mdlinks": [],
       "outlinks": [
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "esoterica/Gnosis.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -17257,7 +17356,7 @@
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
       ],
-      "words": 1154,
+      "words": 1337,
       "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
     },
     "MOC - Ancient Civilizations & Hidden History.md": {
@@ -17386,6 +17485,7 @@
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
       ],
       "backlinks": [
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/index.md",
         "esoterica/Cabal.md",
         "esoterica/index.md",
@@ -17516,12 +17616,15 @@
         "Start Here",
         "Bitcoin & Privacy",
         "Fiat, Debt & Control",
+        "Tokenization & Onchain Control",
+        "Tokenized World / Oracle Layer",
         "Market Cycles",
         "Synthesis"
       ],
       "wikilinks": [
         "Bitcoin",
         "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "Chainlink - Mắt Xích Của Tokenized World",
         "Gen Z và CBDC - Programmable Money Psychology",
         "Privacy",
         "Privacy Is The New Wealth",
@@ -17536,6 +17639,7 @@
       "outlinks": [
         "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Bitcoin.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Secular Market.md",
@@ -17549,6 +17653,7 @@
       "backlinks": [
         "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Bitcoin.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
         "esoterica/Cabal.md",
@@ -17558,7 +17663,7 @@
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 155,
+      "words": 262,
       "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào hệ thống tiền pháp định, ngân hàng trung ương, surveillance finance hoặc programmable money.**"
     },
     "MOC - Health Sovereignty.md": {
@@ -17822,6 +17927,8 @@
         "Vault Position / Vị Trí Trong Vault",
         "1. Fungibility Là Gì?",
         "2. Bitcoin Không Anonymous",
+        "Public ledger như hồ sơ tài chính vĩnh viễn",
+        "Chainlink, Oracles Và Public Ledger Risk",
         "3. Dirty Bitcoin Problem",
         "4. War On Cash",
         "5. Privacy Không Phải Che Giấu Tội Lỗi",
@@ -17834,6 +17941,7 @@
       ],
       "wikilinks": [
         "Bitcoin",
+        "Chainlink - Mắt Xích Của Tokenized World",
         "Gen Z và CBDC - Programmable Money Psychology",
         "MOC - Financial Sovereignty",
         "Privacy",
@@ -17843,6 +17951,7 @@
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Bitcoin.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -17851,6 +17960,7 @@
       ],
       "backlinks": [
         "crypto-finance/Bitcoin.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/index.md",
@@ -17860,7 +17970,7 @@
         "index.md",
         "MOC - Financial Sovereignty.md"
       ],
-      "words": 832,
+      "words": 1049,
       "summary": "**Bitcoin có thể sống như store of value mà thiếu privacy một thời gian. Nhưng nếu muốn trở thành tiền tệ tự do thật sự, Bitcoin cần fungibility. Và không có privacy thì không có fungibility. Một đồng tiền bị truy vết, chấm điểm, blacklist và phân loại “sạch/…"
     },
     "crypto-finance/Bitcoin.md": {
@@ -17880,17 +17990,20 @@
         "3. Proof-of-Work & Bảo mật / Security",
         "Bitcoin trong bối cảnh Ma Trận / Bitcoin vs The Matrix",
         "Mối đe dọa từ CBDC / CBDC Threat",
+        "Bitcoin như lớp giới thiệu ledger money",
         "Bitcoin và Privacy / Bitcoin & Privacy",
         "Chu kỳ thị trường / Market Cycles",
         "Related",
         "Core Articles / Bài viết chính",
         "Monetary System / Hệ thống tiền tệ",
         "Gen Z & Agenda 2030",
-        "Investment Mindset / Tâm lý đầu tư"
+        "Investment Mindset / Tâm lý đầu tư",
+        "Bitcoin As Ledger Conditioning / Bitcoin Như Lớp Làm Quen Với Ledger"
       ],
       "wikilinks": [
         "Bitcoin Sẽ Chết Nếu Không Có Privacy",
         "Báo Cáo 2030",
+        "Chainlink - Mắt Xích Của Tokenized World",
         "Elite",
         "Gen Z và CBDC - Programmable Money Psychology",
         "Giàu Không Nhờ May Mắn",
@@ -17906,6 +18019,7 @@
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/Privacy.md",
@@ -17921,6 +18035,7 @@
       ],
       "backlinks": [
         "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/index.md",
@@ -17941,8 +18056,73 @@
         "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
         "science-tech/Pin Natri-ion.md"
       ],
-      "words": 1022,
+      "words": 1321,
       "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
+    },
+    "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md": {
+      "path": "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+      "title": "Chainlink - Mắt Xích Của Tokenized World",
+      "domain": "crypto-finance",
+      "tags": [
+        "cbdc",
+        "crypto-finance",
+        "sovereignty",
+        "tokenization",
+        "word-magic"
+      ],
+      "aliases": [
+        "Chainlink",
+        "Oracle Layer",
+        "Sergey Nazarov",
+        "Tokenized World"
+      ],
+      "headings": [
+        "Chainlink - Mắt Xích Của Tokenized World",
+        "Vault Position / Vị Trí Trong Vault",
+        "Evidence Discipline / Cách Đọc Claim",
+        "1. Bitcoin Mở Cổng, Chainlink Nối Cổng",
+        "2. Word Magic: Chain, Link, Block, Bank, Channel",
+        "3. Luật Biển, Dòng Chảy Và Claim",
+        "4. Oracle Layer Là Gì?",
+        "5. Tokenized Assets Và Banking Integration",
+        "6. Transparency Hay Total Visibility?",
+        "7. Sergey Nazarov / Satoshi Hypothesis",
+        "8. Crypto Như Conditioning Layer Cho CBDC",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "Bitcoin",
+        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "MOC - Epistemology & Propaganda",
+        "MOC - Financial Sovereignty",
+        "Privacy",
+        "Tiền Pháp Định",
+        "Word Magic - Ngôn Ngữ Của Phù Thủy"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Bitcoin.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Financial Sovereignty.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Bitcoin.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "MOC - Financial Sovereignty.md"
+      ],
+      "words": 1513,
+      "summary": "**Chainlink không chỉ là một oracle protocol trong crypto. Trong vault, nó là mắt xích biểu tượng và hạ tầng nối blockchain với tài sản thật, dữ liệu thật, ngân hàng, SWIFT, RWA và eventually programmable money. Nếu Bitcoin làm mass quen với tiền trên ledger,…"
     },
     "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md": {
       "path": "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
@@ -17964,6 +18144,8 @@
       "headings": [
         "Gen Z và CBDC: Tâm Lý Học Đằng Sau \"Tiền Lập Trình Được\" (Gen Z and CBDC: The Psychology Behind \"Programmable Money\")",
         "CBDC Là Gì? (What is CBDC?)",
+        "Crypto UX như lớp conditioning",
+        "Crypto UX Như Training Layer Cho CBDC",
         "Tại Sao Gen Z Là \"Perfect Target\"? (Why is Gen Z the \"Perfect Target\"?)",
         "1. Digital Native = Cashless Native",
         "2. Subscription Mindset → Rental Money Mindset",
@@ -17989,6 +18171,7 @@
         "Bitcoin",
         "Bitcoin Sẽ Chết Nếu Không Có Privacy",
         "Báo Cáo 2030",
+        "Chainlink - Mắt Xích Của Tokenized World",
         "Gen Z - Phân Tích Phản Biện",
         "Privacy",
         "Tiền Giấy - Tiền Mặt"
@@ -17997,6 +18180,7 @@
       "outlinks": [
         "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Bitcoin.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
@@ -18005,6 +18189,7 @@
       "backlinks": [
         "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Bitcoin.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -18023,7 +18208,7 @@
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
       ],
-      "words": 1719,
+      "words": 1956,
       "summary": "---"
     },
     "crypto-finance/Giàu Không Nhờ May Mắn.md": {
@@ -18139,6 +18324,7 @@
       "backlinks": [
         "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Bitcoin.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/index.md",
@@ -18312,6 +18498,7 @@
       ],
       "backlinks": [
         "crypto-finance/Bitcoin.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/index.md",
         "crypto-finance/Tiền tiền tiền.md",
@@ -19964,6 +20151,7 @@
         "science-tech/Khoa Học Xét Lại.md"
       ],
       "backlinks": [
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
@@ -23440,6 +23628,7 @@
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
       ],
       "backlinks": [
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "esoterica/Biểu Tượng Baphomet.md",
         "esoterica/Gematria.md",
         "esoterica/index.md",
