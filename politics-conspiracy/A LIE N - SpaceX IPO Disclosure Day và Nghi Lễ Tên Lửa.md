@@ -233,27 +233,7 @@ Tên lửa là obelisk chuyển động. Nếu obelisk cổ đại cố định 
 
 Kennedy tuyên bố đưa người lên Mặt Trăng. Apollo 11 là obelisk bay lên lunar realm. Nếu đọc theo motif Osiris-Horus-MoonChild, chương trình không gian không chỉ là khoa học quốc gia. Nó là nghi lễ chuyển hệ thống.
 
-Elon Musk tiếp tục motif đó: Starship là obelisk của kỷ nguyên Mars, AI và post-human civilization.
-
----
-
-## 8.5. SpaceX, Sky Fear Và Obelisk Lửa
-
-Bài satellite [[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]] mở rộng dot này: nếu Moon landing desacralized the sky, thì SpaceX securitizes the sky.
-
-Moon landing nói với collective unconscious:
-
-> We can touch heaven.
-
-SpaceX/Starlink/UAP/disclosure nói điều khác:
-
-> Heaven is now infrastructure, market and threat.
-
-Rocket không chỉ là engineering. Nó là obelisk lửa: trục dương của techno-king phóng lên thiên giới. Elon Musk không chỉ là founder; ông là archetype techno-king đứng ở giao điểm SpaceX, Starlink, Tesla, Neuralink, X và xAI.
-
-“Death of King Elon” không nên đọc như lời tiên tri ám sát. Cách đọc chặt hơn là ritual death of persona: khoảnh khắc founder myth bị giết hoặc contained, còn hạ tầng biểu tượng được empire/priesthood hấp thụ.
-
-> Vua dựng tháp. Đế chế tiếp quản tháp.
+Elon Musk tiếp tục motif đó: Starship là obelisk của kỷ nguyên Mars, AI và post-human civilization. Dot mở rộng về SpaceX như obelisk lửa, sky fear và techno-king được tách riêng ở [[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]] để bài này không lệch khỏi trục A LIE N/disclosure.
 
 ---
 
