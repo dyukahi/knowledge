@@ -26,6 +26,18 @@ CBDC thường được giải thích quá khô: Central Bank Digital Currency, 
 
 Đây là chuyển đổi rất lớn. Tiền không còn chỉ là phương tiện trao đổi. Nó trở thành permission event.
 
+## Từ Khóa Cần Hiểu
+
+**CBDC** là tiền kỹ thuật số do ngân hàng trung ương phát hành. Nó không chỉ là “app ngân hàng mới”; nếu thiết kế theo hướng programmable và gắn identity, nó có thể trở thành monetary rail có rule native.
+
+**Programmable money** là tiền có thể mang điều kiện sử dụng: hết hạn, giới hạn danh mục mua, tự động trừ thuế/phạt, freeze theo trigger, hoặc gắn với compliance. Tiền không chỉ hỏi “có đủ số dư không?”, mà hỏi “có được phép dùng không?”.
+
+**Permission event** là một giao dịch trong đó hành động mua/bán/chuyển tiền cần được hệ thống cho phép theo identity, rule, location hoặc category.
+
+**Cashless native** là người lớn lên với tiền như số dư trên màn hình, không có ký ức mạnh về cash như bearer instrument tự do.
+
+**Tokenized money** là tiền tồn tại như token/entry trên ledger, dễ chuyển, dễ audit, nhưng cũng dễ gắn metadata và rule nếu thiếu privacy.
+
 ## Cashless Native
 
 Gen Z lớn lên với tiền như một số dư trên màn hình. Với nhiều người, tiền mặt là chậm, bẩn, bất tiện, khó tracking, không có reward và hơi “boomer”. Còn digital wallet thì nhanh, sạch, có notification, có cashback, có lịch sử giao dịch, có QR code, có social proof.

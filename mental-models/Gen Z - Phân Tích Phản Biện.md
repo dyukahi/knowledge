@@ -27,6 +27,16 @@ Một người Boomer còn nhớ tiền mặt là mặc định. Một người 
 
 Platform native nghĩa là lớn lên trong một thế giới nơi mọi thứ quan trọng đều có giao diện: tình bạn có profile, desire có recommendation, tiền có app, học có short video, dating có swipe, status có follower, morality có public signal, worldview có feed, và self-worth có metric. Khi đời sống được chuyển thành interface, quyền lực nằm ở người viết rule của interface.
 
+## Từ Khóa Cần Hiểu
+
+**Platformized reality** là thực tại nơi các hành vi căn bản của con người — học, yêu, mua, làm việc, thể hiện bản thân, tranh luận, kiếm tiền — đều đi qua platform. Khi đó platform không chỉ phục vụ đời sống; nó bắt đầu định nghĩa đời sống.
+
+**Interface** là lớp trung gian giữa con người và reality. App ngân hàng là interface với tiền. TikTok là interface với culture. Digital ID là interface với quyền truy cập. Ai viết rule của interface sẽ ảnh hưởng cách mình cảm nhận tự do.
+
+**Access over ownership** nghĩa là con người không còn sở hữu vật/tài sản theo nghĩa mạnh, mà thuê quyền dùng qua account, subscription hoặc permission. Đây là nền tâm lý của “you will own nothing” nếu không được nhận diện.
+
+**Social engineering mềm** không cần ép buộc trực tiếp. Nó chỉ cần thiết kế môi trường sao cho một lựa chọn có vẻ tiện, hiện đại và tự nhiên hơn mọi lựa chọn khác.
+
 ## Không Sở Hữu Gì Và Gọi Đó Là Lifestyle
 
 Câu “you will own nothing and be happy” thường bị đọc như một khẩu hiệu xa lạ từ Davos. Nhưng nếu nhìn Gen Z, điều đáng sợ là nó không cần xuất hiện như mệnh lệnh. Nó có thể xuất hiện như một lifestyle đã được normal hóa.

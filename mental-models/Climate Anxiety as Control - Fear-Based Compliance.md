@@ -19,6 +19,20 @@ Bài này không phủ định vấn đề môi trường. Ô nhiễm, phá rừ
 
 Eco-anxiety là nỗi lo dai dẳng về tương lai môi trường. Với Gen Z, nó không chỉ là ý kiến chính trị. Nó nằm trong nervous system: có nên sinh con không, có đáng xây career không, có tương lai không, mình có tội vì tiêu dùng không. Khi fear đi vào identity, policy không còn cần ép từ ngoài. Người ta tự kiểm duyệt, tự giới hạn, tự xin rule để bớt tội.
 
+## Từ Khóa Cần Hiểu
+
+**Eco-anxiety** là nỗi lo dai dẳng về môi trường và tương lai khí hậu. Nó có thể là phản ứng thật trước vấn đề thật, nhưng cũng có thể bị weaponize.
+
+**Doomerism** là niềm tin rằng mọi thứ đã quá muộn. Nó làm người trẻ mất agency và dễ chấp nhận bất kỳ solution nào được đóng gói như cứu rỗi.
+
+**Fear-based compliance** là cơ chế dùng sợ hãi để khiến con người tự nguyện chấp nhận rule, monitoring hoặc restriction.
+
+**Carbon wallet** là ví/score theo dõi carbon footprint của hành vi tiêu dùng. Nếu gắn với payment rail và digital ID, nó có thể chuyển từ awareness tool thành permission layer.
+
+**Greenwashing** là khi tổ chức dùng ngôn ngữ môi trường để tạo legitimacy mà không thay đổi cấu trúc gây hại thật.
+
+**15-minute city** là ý tưởng sống gần nơi làm, mua sắm và dịch vụ. Nó có mặt tốt, nhưng rủi ro xuất hiện khi bị ghép với zone restriction, camera, permit và fine tự động.
+
 ## Guilt Machine
 
 Một trong những trò mạnh nhất là chuyển gánh nặng hệ thống thành guilt cá nhân. Burger của bạn giết hành tinh. Chuyến bay của bạn giết hành tinh. Xe của bạn giết hành tinh. Con cái của bạn là carbon burden. Trong khi đó military, private jets, industrial agriculture, planned obsolescence, shipping, corporate supply chains và regulatory capture thường ít bị người trẻ nhìn thấy ở cùng scale.
