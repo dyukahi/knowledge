@@ -7,9 +7,9 @@
 - **Notes scanned:** 197
 - **Top-level domains:** 8
 - **Tags detected:** 193
-- **Resolved internal edges:** 1977
+- **Resolved internal edges:** 1976
 - **Broken/unresolved links:** 0
-- **Orphan notes:** 3
+- **Orphan notes:** 4
 
 ## Zettelkasten Reading
 
@@ -135,8 +135,8 @@ Recommended note types:
 
 ### Docs / Meta `_docs` — 2 notes
 
-- [[_docs/WORLD-CUP-2026-PATTERN-AUDIT|World Cup 2026 Pattern Audit — Pre-Tournament Evidence Snapshot]] — degree `1`, backlinks `1`, outlinks `0` — #FIFAWorldCup, #WeAre26
 - [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/WORLD-CUP-2026-PATTERN-AUDIT|World Cup 2026 Pattern Audit — Pre-Tournament Evidence Snapshot]] — degree `0`, backlinks `0`, outlinks `0` — #FIFAWorldCup, #WeAre26
 
 ## Current Hub Notes
 
@@ -323,6 +323,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 Orphans are not necessarily bad. In Zettelkasten terms, they are unfinished integration points. Either link them into MOCs or mark as standalone reference notes.
 
 - [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — `_docs`
+- [[_docs/WORLD-CUP-2026-PATTERN-AUDIT|World Cup 2026 Pattern Audit — Pre-Tournament Evidence Snapshot]] — `_docs`
 - [[claude|Schema (LLM Instructions)]] — `root`
 - [[README|🧠 Knowledge Base]] — `root`
 

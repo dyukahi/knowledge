@@ -138,7 +138,7 @@ Nếu Brazil chơi tệ, phụ thuộc một cá nhân, hoặc media chuyển sa
 
 ## Pre-Tournament Snapshot — 4/6/2026
 
-Snapshot này được thêm trước khi World Cup 26 đá trận nào, để bài không bay khỏi sân cỏ. Chi tiết nguồn nằm trong [[WORLD-CUP-2026-PATTERN-AUDIT]]. Ở đây chỉ giữ phần ảnh hưởng trực tiếp đến thesis.
+Snapshot này được thêm trước khi World Cup 26 đá trận nào, để bài không bay khỏi sân cỏ. Chi tiết nguồn được lưu nội bộ trong `_docs` để audit lại khi cần; phần dưới chỉ giữ những dữ kiện ảnh hưởng trực tiếp đến thesis.
 
 **Fact/documentable:** FIFA đăng bài *Neymar's return highlights Brazil squad* ngày 19/5/2026, sau đợt công bố đội hình tại Museum of Tomorrow, Rio de Janeiro. Danh sách 26 người của Carlo Ancelotti có Neymar, Vinícius Junior, Raphinha, Endrick, Gabriel Martinelli, Gabriel Magalhães, Marquinhos, Casemiro, Bruno Guimarães, Alisson và Ederson. FIFA cũng ghi Brazil mở bảng C gặp Morocco ngày 13/6 tại New York New Jersey, gặp Haiti ngày 19/6 tại Philadelphia, rồi gặp Scotland ngày 24/6 tại Miami. Điểm cần sửa trong cách đọc cũ: đây không còn là thesis “Brazil without Neymar”. Đúng hơn là **Brazil với một Neymar wounded/returning, nhưng không nhất thiết còn là center của field**.
 
