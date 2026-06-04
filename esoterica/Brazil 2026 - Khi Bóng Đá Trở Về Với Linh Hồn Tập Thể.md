@@ -183,7 +183,7 @@ Trong trường này, một champion quá cá nhân hóa có thể lệch nhịp
 
 ## 26, 8 Và Back-To-Back Loop
 
-**26** không chỉ là năm. Nếu rút gọn số học phổ thông, 2 + 6 = **8**; và 8 xoay ngang là ký hiệu vô cực. Không dùng điều này như bằng chứng, nhưng như một texture, nó làm **WE ARE 26** sâu hơn: đây không chỉ là một tournament trong năm 2026, mà là một identity loop.
+**26** không chỉ là năm. Nếu rút gọn số học phổ thông, 2 + 6 = **8**; và 8 xoay ngang là ký hiệu vô cực. Không dùng điều này như bằng chứng, nhưng như một texture, nó làm **WE ARE 26** sâu hơn: đây không chỉ là một tournament trong năm 2026, mà là một identity loop. **Chúng ta không chỉ bước vào năm 26; chúng ta bước vào một loop mới.**
 
 World Cup 26 đầy motif “back”: back to summer sau Qatar mùa đông, back to the Americas, Mexico host lần thứ ba, USA trở lại sau 1994, Messi ở America, creator lyric “bringing it back to the crib”, và Brazil thesis như “football soul returns”.
 

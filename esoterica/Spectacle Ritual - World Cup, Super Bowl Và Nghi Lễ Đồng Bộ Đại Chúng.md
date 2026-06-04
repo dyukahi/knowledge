@@ -101,7 +101,7 @@ Euro 2024 của Spain là nghi lễ crown một thế hệ. World Cup 2022 của
 
 ## 26 Như Vòng 8: Infinity, Return Và Reality Loop
 
-Trong tầng literal, 26 chỉ là năm của tournament. Nhưng trong tầng symbol, 26 rút về 8, và 8 xoay ngang là infinity. Đây không phải chứng minh bí mật nào; nó là một cách đọc texture của slogan **WE ARE 26**.
+Trong tầng literal, 26 chỉ là năm của tournament. Nhưng trong tầng symbol, 26 rút về 8, và 8 xoay ngang là infinity. Đây không phải chứng minh bí mật nào; nó là một cách đọc texture của slogan **WE ARE 26**: **chúng ta không chỉ bước vào năm 26; chúng ta bước vào một loop mới.**
 
 Nếu 2026 là một mass synchronization year, 8/infinity nói bằng ngôn ngữ loop: return, repeat, cycle, recurrence. World Cup trở lại mùa hè. World Cup trở lại châu Mỹ. Mexico host lần thứ ba. USA trở lại sau 1994. South America có thể đi back-to-back nếu Brazil tiếp nối Argentina 2022. SpaceX đưa attention lên orbit, nơi vòng quay và quỹ đạo là ngôn ngữ căn bản.
 
