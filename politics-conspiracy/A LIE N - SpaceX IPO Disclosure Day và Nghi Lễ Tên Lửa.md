@@ -13,6 +13,7 @@ related:
   - "[[Hollywood - Cây Đũa Phép Của Phù Thủy]]"
   - "[[Khoa Học Xét Lại]]"
   - "[[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]]"
+  - "[[Mỹ Là Ai Cập Tái Sinh]]"
 ---
 
 # A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa
@@ -233,7 +234,7 @@ Tên lửa là obelisk chuyển động. Nếu obelisk cổ đại cố định 
 
 Kennedy tuyên bố đưa người lên Mặt Trăng. Apollo 11 là obelisk bay lên lunar realm. Nếu đọc theo motif Osiris-Horus-MoonChild, chương trình không gian không chỉ là khoa học quốc gia. Nó là nghi lễ chuyển hệ thống.
 
-Elon Musk tiếp tục motif đó: Starship là obelisk của kỷ nguyên Mars, AI và post-human civilization. Dot mở rộng về SpaceX như obelisk lửa, sky fear và techno-king được tách riêng ở [[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]] để bài này không lệch khỏi trục A LIE N/disclosure.
+Elon Musk tiếp tục motif đó: Starship là obelisk của kỷ nguyên Mars, AI và post-human civilization. Dot [[Mỹ Là Ai Cập Tái Sinh]] làm rõ vì sao America dùng Egypt grammar ở scale hiện đại: dollar-pyramid, Washington obelisk, Apollo sky ritual và rocket như obelisk lửa. Dot mở rộng về SpaceX như obelisk lửa, sky fear và techno-king được tách riêng ở [[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]] để bài này không lệch khỏi trục A LIE N/disclosure.
 
 ---
 

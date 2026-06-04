@@ -111,7 +111,8 @@ Orientation: use this when political power starts managing history, maps and cos
 - [[Kiểm Soát Tâm Trí]] — attention, fear, reward and memory as political infrastructure.
 - [[UAP Disclosure - Controlled Revelation]] — disclosure as narrative management.
 - [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]]
-- [[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]] — 2026 case study in tech, ritual and disclosure symbolism.
+- [[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]]
+- [[Mỹ Là Ai Cập Tái Sinh]] — 2026 case study in tech, ritual and disclosure symbolism.
 - [[Sự Thật Về Vụ Sập Tháp Đôi WTC]] — high-risk historical case requiring careful evidence separation.
 
 ---

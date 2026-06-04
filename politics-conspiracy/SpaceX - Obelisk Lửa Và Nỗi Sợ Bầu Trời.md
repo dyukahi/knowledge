@@ -18,6 +18,7 @@ related:
   - "[[Elite]]"
   - "[[Ma Trận]]"
   - "[[Khoa Học Xét Lại]]"
+  - "[[Mỹ Là Ai Cập Tái Sinh]]"
 ---
 
 # SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời

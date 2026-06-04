@@ -1,6 +1,6 @@
 {
   "stats": {
-    "notes": 194,
+    "notes": 195,
     "domains": {
       "_docs": 1,
       "root": 11,
@@ -8,11 +8,11 @@
       "esoterica": 72,
       "health": 27,
       "mental-models": 28,
-      "politics-conspiracy": 25,
+      "politics-conspiracy": 26,
       "science-tech": 17
     },
-    "tags": 186,
-    "wikilinkEdges": 1995,
+    "tags": 187,
+    "wikilinkEdges": 2009,
     "brokenLinks": 0,
     "orphans": 3
   },
@@ -2062,6 +2062,7 @@
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Elite.md",
           "politics-conspiracy/index.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
         ],
         "words": 1472,
@@ -3832,6 +3833,77 @@
         "summary": "**Tình Yêu Tỉnh Thức** không phải cảm xúc lãng mạn được làm đẹp bằng ngôn ngữ tâm linh. Nó là năng lực yêu mà không chiếm hữu, thấy rõ mà không lạnh lùng, bao dung mà không tự phản bội. Trong vault này, tình yêu tỉnh thức nối Nhân Quả, Nhị Nguyên, Trí Tuệ, In…"
       },
       {
+        "path": "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "title": "Word Magic - Ngôn Ngữ Của Phù Thủy",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "mind-control"
+        ],
+        "aliases": [],
+        "headings": [
+          "Word Magic — Ngôn Ngữ Của Phù Thủy",
+          "I. Spelling Is Casting Spells",
+          "II. The Phoenicians — Những Người Tạo Ra Phép Thuật",
+          "II.5. English — Ngôn Ngữ Của Đế Chế",
+          "Language of the Colonizer",
+          "Tại sao English \"Nặng Spell\" nhất?",
+          "English + Gematria = Perfect Storm",
+          "III. Hidden In Plain Sight — Sự Thật Được Giấu Ngay Trước Mắt",
+          "Những từ về vũ trụ",
+          "Những từ về sự lừa dối",
+          "IV. Legal Word Magic — Phép Thuật Trong Tòa Án",
+          "V. Maritime Admiralty Law — Luật Của Biển",
+          "Birth = Berth",
+          "Currency = Current-Sea",
+          "Citizenship = Citizen-SHIP",
+          "Why Maritime?",
+          "VI. Gematria — Khi Chữ Cái Là Số",
+          "VII. Cymatics — Âm Thanh Tạo Hình",
+          "VIII. Corporate Spell-Casting — Khi Công Ty Niệm Chú",
+          "Logos Là Sigils",
+          "Slogans Là Incantations",
+          "IX. Breaking The Spell — Phá Vỡ Bùa Chú",
+          "X. Kết",
+          "Liên Kết / Connections",
+          "Tài Liệu Tham Khảo / References"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Gematria",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Manly P. Hall",
+          "UAP Disclosure - Controlled Revelation"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Manly P. Hall.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "esoterica/Biểu Tượng Baphomet.md",
+          "esoterica/Gematria.md",
+          "esoterica/index.md",
+          "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
+          "index.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
+        ],
+        "words": 3371,
+        "summary": "**\"Can you spell your name?\"**"
+      },
+      {
         "path": "esoterica/Atula.md",
         "title": "Atula (Asura)",
         "domain": "esoterica",
@@ -4007,76 +4079,6 @@
         ],
         "words": 888,
         "summary": "**Tà Linh là ngôn ngữ biểu tượng để nói về những lực ký sinh trên attention, cảm xúc và sinh lực của con người. Đọc thấp thì đó là trauma loop, nghiện, thought-form và môi trường độc. Đọc cao thì đó là Archon, Wetiko, thực thể trung giới và cơ chế harvest loo…"
-      },
-      {
-        "path": "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "title": "Word Magic - Ngôn Ngữ Của Phù Thủy",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "mind-control"
-        ],
-        "aliases": [],
-        "headings": [
-          "Word Magic — Ngôn Ngữ Của Phù Thủy",
-          "I. Spelling Is Casting Spells",
-          "II. The Phoenicians — Những Người Tạo Ra Phép Thuật",
-          "II.5. English — Ngôn Ngữ Của Đế Chế",
-          "Language of the Colonizer",
-          "Tại sao English \"Nặng Spell\" nhất?",
-          "English + Gematria = Perfect Storm",
-          "III. Hidden In Plain Sight — Sự Thật Được Giấu Ngay Trước Mắt",
-          "Những từ về vũ trụ",
-          "Những từ về sự lừa dối",
-          "IV. Legal Word Magic — Phép Thuật Trong Tòa Án",
-          "V. Maritime Admiralty Law — Luật Của Biển",
-          "Birth = Berth",
-          "Currency = Current-Sea",
-          "Citizenship = Citizen-SHIP",
-          "Why Maritime?",
-          "VI. Gematria — Khi Chữ Cái Là Số",
-          "VII. Cymatics — Âm Thanh Tạo Hình",
-          "VIII. Corporate Spell-Casting — Khi Công Ty Niệm Chú",
-          "Logos Là Sigils",
-          "Slogans Là Incantations",
-          "IX. Breaking The Spell — Phá Vỡ Bùa Chú",
-          "X. Kết",
-          "Liên Kết / Connections",
-          "Tài Liệu Tham Khảo / References"
-        ],
-        "wikilinks": [
-          "Elite",
-          "Gematria",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "Manly P. Hall",
-          "UAP Disclosure - Controlled Revelation"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gematria.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Manly P. Hall.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-          "esoterica/Biểu Tượng Baphomet.md",
-          "esoterica/Gematria.md",
-          "esoterica/index.md",
-          "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "words": 3371,
-        "summary": "**\"Can you spell your name?\"**"
       },
       {
         "path": "esoterica/Chu Kỳ Hoàng Đạo.md",
@@ -9963,6 +9965,7 @@
           "politics-conspiracy/MAGA Và Số 42.md",
           "politics-conspiracy/MindGeek.md",
           "politics-conspiracy/Mudflood.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
           "politics-conspiracy/Operation Paperclip.md",
           "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -10215,6 +10218,7 @@
           "MOC - Science Revisionism",
           "Mudflood",
           "Mô Hình Địa Tâm",
+          "Mỹ Là Ai Cập Tái Sinh",
           "Nam Cực - Bí Mật Được Canh Giữ",
           "Operation Paperclip",
           "Red Pill Wiki",
@@ -10258,6 +10262,7 @@
           "politics-conspiracy/Kiểm Soát Tâm Trí.md",
           "politics-conspiracy/MindGeek.md",
           "politics-conspiracy/Mudflood.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
           "politics-conspiracy/Operation Paperclip.md",
           "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -10277,7 +10282,7 @@
           "mental-models/index.md",
           "science-tech/index.md"
         ],
-        "words": 854,
+        "words": 860,
         "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
       },
       {
@@ -10379,6 +10384,7 @@
           "politics-conspiracy/Elite.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
           "politics-conspiracy/Operation Paperclip.md",
           "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -10756,6 +10762,86 @@
         "summary": "---"
       },
       {
+        "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "title": "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "esoterica",
+          "politics-conspiracy",
+          "science-tech"
+        ],
+        "aliases": [],
+        "headings": [
+          "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+          "Bài Này Nằm Ở Đâu Trong Vault?",
+          "1. Timeline 2026: Khi Alien Bước Vào Mainstream",
+          "Evidence Discipline / Cách Đọc Nguồn",
+          "2. A LIE N: Word Magic Ngay Trong Cái Tên",
+          "3. Spielberg: E.T. Và Disclosure Day",
+          "4. HOPE: Alien Không Chỉ Là Narrative Mỹ",
+          "5. Crowley Và LAM: Grey Alien Trước Khi Grey Alien Thành Văn Hóa Đại Chúng",
+          "6. Jack Parsons: Tên Lửa Sinh Ra Từ Phòng Thí Nghiệm Và Đền Thờ",
+          "7. SpaceX: Obelisk Của Kỷ Nguyên Technocracy",
+          "8. Obelisk: Từ Osiris Đến Apollo, Từ Apollo Đến Starship",
+          "9. Hollywood Là Phép Thuật: Predictive Programming Và Revelation Method",
+          "10. Marvel Arc: Từ Dr. Strange Đến Dr. Doom",
+          "Dr. Strange = Aleister Crowley Archetype",
+          "Jack Parsons = Cầu Nối Giữa Strange Và Doom",
+          "Dr. Doom = Elon Musk Archetype",
+          "11. Controlled Opposition: Không Ai Là Hero Hoàn Toàn",
+          "12. Hantavirus, X-Files Và “It Wasn't The Hantavirus”",
+          "13. Synthesis: Tại Sao SpaceX IPO Đúng Lúc Disclosure?",
+          "14. Moon Landing Moment 2.0 — Reality Được Cập Nhật",
+          "15. Vault Synthesis: Alien Là Một Interface",
+          "16. Kết Luận: Trong Giả Có Thật, Trong Thật Có Giả",
+          "Source Register / Sổ Nguồn",
+          "Primary / Official Source Categories",
+          "Tier-1 / Public Reporting Categories",
+          "Books / Historical Context",
+          "Internal Vault Frameworks"
+        ],
+        "wikilinks": [
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Cách Đọc Red Pill Wiki",
+          "Elite",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Khoa Học Xét Lại",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Mỹ Là Ai Cập Tái Sinh",
+          "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
+          "UAP Disclosure - Controlled Revelation"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "index.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+          "politics-conspiracy/Operation Paperclip.md",
+          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
+        ],
+        "words": 4998,
+        "summary": "**Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở lại với người ngoài hành tinh, Trump đẩy narrative alien vào mainstream, Hollywood mở nghi lễ bằng hình ảnh, còn Elon Musk đưa obelisk hiện đại của…"
+      },
+      {
         "path": "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "title": "Nam Cực - Bí Mật Được Canh Giữ",
         "domain": "politics-conspiracy",
@@ -10851,83 +10937,6 @@
         ],
         "words": 2015,
         "summary": "**Antarctica** là lục địa duy nhất trên thế giới mà **civilians bị cấm tự do khám phá**. Không có quốc gia nào sở hữu, nhưng tất cả các cường quốc đều canh giữ. Tại sao?"
-      },
-      {
-        "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "title": "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "esoterica",
-          "politics-conspiracy",
-          "science-tech"
-        ],
-        "aliases": [],
-        "headings": [
-          "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
-          "Bài Này Nằm Ở Đâu Trong Vault?",
-          "1. Timeline 2026: Khi Alien Bước Vào Mainstream",
-          "Evidence Discipline / Cách Đọc Nguồn",
-          "2. A LIE N: Word Magic Ngay Trong Cái Tên",
-          "3. Spielberg: E.T. Và Disclosure Day",
-          "4. HOPE: Alien Không Chỉ Là Narrative Mỹ",
-          "5. Crowley Và LAM: Grey Alien Trước Khi Grey Alien Thành Văn Hóa Đại Chúng",
-          "6. Jack Parsons: Tên Lửa Sinh Ra Từ Phòng Thí Nghiệm Và Đền Thờ",
-          "7. SpaceX: Obelisk Của Kỷ Nguyên Technocracy",
-          "8. Obelisk: Từ Osiris Đến Apollo, Từ Apollo Đến Starship",
-          "9. Hollywood Là Phép Thuật: Predictive Programming Và Revelation Method",
-          "10. Marvel Arc: Từ Dr. Strange Đến Dr. Doom",
-          "Dr. Strange = Aleister Crowley Archetype",
-          "Jack Parsons = Cầu Nối Giữa Strange Và Doom",
-          "Dr. Doom = Elon Musk Archetype",
-          "11. Controlled Opposition: Không Ai Là Hero Hoàn Toàn",
-          "12. Hantavirus, X-Files Và “It Wasn't The Hantavirus”",
-          "13. Synthesis: Tại Sao SpaceX IPO Đúng Lúc Disclosure?",
-          "14. Moon Landing Moment 2.0 — Reality Được Cập Nhật",
-          "15. Vault Synthesis: Alien Là Một Interface",
-          "16. Kết Luận: Trong Giả Có Thật, Trong Thật Có Giả",
-          "Source Register / Sổ Nguồn",
-          "Primary / Official Source Categories",
-          "Tier-1 / Public Reporting Categories",
-          "Books / Historical Context",
-          "Internal Vault Frameworks"
-        ],
-        "wikilinks": [
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Cách Đọc Red Pill Wiki",
-          "Elite",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Khoa Học Xét Lại",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
-          "UAP Disclosure - Controlled Revelation"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "index.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Operation Paperclip.md",
-          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
-        ],
-        "words": 4967,
-        "summary": "**Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở lại với người ngoài hành tinh, Trump đẩy narrative alien vào mainstream, Hollywood mở nghi lễ bằng hình ảnh, còn Elon Musk đưa obelisk hiện đại của…"
       },
       {
         "path": "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
@@ -11034,6 +11043,133 @@
         ],
         "words": 2360,
         "summary": "Lịch sử dạy rằng **Thế chiến I và II** là cuộc đấu tranh giữa thiện và ác, tự do và độc tài. Nhưng nếu **Nhị Nguyên** (hai phe đối đầu) chỉ là **vỏ bọc** cho một mục đích khác?"
+      },
+      {
+        "path": "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+        "title": "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "esoterica",
+          "politics-conspiracy",
+          "science-tech",
+          "space",
+          "symbolism"
+        ],
+        "aliases": [
+          "Death of King Elon",
+          "Elon Techno-King",
+          "Rocket Obelisk",
+          "Sky Fear",
+          "SpaceX Obelisk"
+        ],
+        "headings": [
+          "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
+          "Vault Position / Vị Trí Trong Vault",
+          "Moon Landing: Khi Thiên Giới Bị Chạm Vào",
+          "SpaceX: Khi Bầu Trời Trở Thành Hạ Tầng",
+          "Từ “We Go Up” Sang “Something Comes Down”",
+          "Rocket Là Obelisk Lửa",
+          "Elon Musk Như Techno-King",
+          "Death Of King Elon Không Nhất Thiết Là Cái Chết Thân Xác",
+          "Obelisk Vẫn Đứng Sau Khi Vua Rơi",
+          "Sky Fear Là Governance Layer",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Elite",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Khoa Học Xét Lại",
+          "Ma Trận",
+          "UAP Disclosure - Controlled Revelation"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
+        ],
+        "words": 2378,
+        "summary": "**Nếu Moon landing là nghi lễ làm con người tin rằng bầu trời có thể bị chạm tới, thì SpaceX là nghi lễ biến bầu trời thành hạ tầng phải được quản trị, quân sự hóa, tài chính hóa và sợ hãi hóa. Rocket hiện đại là obelisk lửa: trục dương của techno-king phóng…"
+      },
+      {
+        "path": "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+        "title": "Mỹ Là Ai Cập Tái Sinh",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "america",
+          "esoterica",
+          "hidden-history",
+          "politics-conspiracy",
+          "symbolism"
+        ],
+        "aliases": [
+          "Ai Cập Tái Sinh",
+          "America as Real Egypt",
+          "America Is Egypt Reborn",
+          "American Egypt",
+          "New Egypt"
+        ],
+        "headings": [
+          "Mỹ Là Ai Cập Tái Sinh",
+          "Vault Position / Vị Trí Trong Vault",
+          "Egypt Là Archetype Gì?",
+          "America Dùng Lại Grammar Đó",
+          "Dollar Bill Là Papyrus Spell Hiện Đại",
+          "NASA Và Apollo: Sky Priesthood Phiên Bản Mới",
+          "Obelisk Đá Và Obelisk Lửa",
+          "America Không Chỉ Là Egypt",
+          "Real Egypt Nghĩa Là Gì?",
+          "Why It Matters",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Elite",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "MOC - Ancient Civilizations & Hidden History",
+          "MOC - Epistemology & Propaganda",
+          "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
+          "Word Magic - Ngôn Ngữ Của Phù Thủy"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/index.md"
+        ],
+        "words": 1559,
+        "summary": "**Mỹ không phải Ai Cập theo nghĩa literal địa lý. Mỹ là Ai Cập nghi lễ của kỷ nguyên hiện đại: cùng grammar quyền lực, nhưng đổi chất liệu từ đá, đền thờ và priesthood cổ sang dollar, agency, Hollywood, NASA, Wall Street, rocket và satellite. Egypt không chết…"
       },
       {
         "path": "politics-conspiracy/Trái Đất Phẳng.md",
@@ -11148,68 +11284,6 @@
         ],
         "words": 1258,
         "summary": "**Operation Paperclip là chương trình hậu Thế chiến II đưa các nhà khoa học, kỹ sư và chuyên gia Đức Quốc Xã sang Mỹ. Ở tầng lịch sử, đây là Cold War talent acquisition. Ở tầng vault, nó là bằng chứng rằng empire không chỉ đánh bại kẻ thù — nó hấp thụ tri thứ…"
-      },
-      {
-        "path": "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-        "title": "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "esoterica",
-          "politics-conspiracy",
-          "science-tech",
-          "space",
-          "symbolism"
-        ],
-        "aliases": [
-          "Death of King Elon",
-          "Elon Techno-King",
-          "Rocket Obelisk",
-          "Sky Fear",
-          "SpaceX Obelisk"
-        ],
-        "headings": [
-          "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
-          "Vault Position / Vị Trí Trong Vault",
-          "Moon Landing: Khi Thiên Giới Bị Chạm Vào",
-          "SpaceX: Khi Bầu Trời Trở Thành Hạ Tầng",
-          "Từ “We Go Up” Sang “Something Comes Down”",
-          "Rocket Là Obelisk Lửa",
-          "Elon Musk Như Techno-King",
-          "Death Of King Elon Không Nhất Thiết Là Cái Chết Thân Xác",
-          "Obelisk Vẫn Đứng Sau Khi Vua Rơi",
-          "Sky Fear Là Governance Layer",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Elite",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Khoa Học Xét Lại",
-          "Ma Trận",
-          "UAP Disclosure - Controlled Revelation"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/index.md"
-        ],
-        "words": 2378,
-        "summary": "**Nếu Moon landing là nghi lễ làm con người tin rằng bầu trời có thể bị chạm tới, thì SpaceX là nghi lễ biến bầu trời thành hạ tầng phải được quản trị, quân sự hóa, tài chính hóa và sợ hãi hóa. Rocket hiện đại là obelisk lửa: trục dương của techno-king phóng…"
       },
       {
         "path": "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
@@ -11777,6 +11851,7 @@
           "Monad",
           "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
           "Mô Hình Địa Tâm",
+          "Mỹ Là Ai Cập Tái Sinh",
           "Nam Cực - Bí Mật Được Canh Giữ",
           "Nghịch Lý Của Hiểu Biết",
           "Nguyên Mẫu",
@@ -11948,6 +12023,7 @@
           "politics-conspiracy/index.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md",
           "politics-conspiracy/MindGeek.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
           "politics-conspiracy/Operation Paperclip.md",
           "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -11976,7 +12052,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 2442,
+        "words": 2495,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -12013,6 +12089,7 @@
           "Khoa Học Xét Lại",
           "Kiểm Soát Tâm Trí",
           "Mental Model",
+          "Mỹ Là Ai Cập Tái Sinh",
           "Nghịch Lý Của Hiểu Biết",
           "Nhị Nguyên",
           "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
@@ -12035,6 +12112,7 @@
           "politics-conspiracy/Báo Cáo 2030.md",
           "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
           "science-tech/Khoa Học Xét Lại.md",
           "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
@@ -12060,6 +12138,7 @@
           "politics-conspiracy/MAGA Và Số 42.md",
           "politics-conspiracy/MindGeek.md",
           "politics-conspiracy/Mudflood.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
           "politics-conspiracy/Sự thật về ma túy.md",
           "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
@@ -12069,7 +12148,7 @@
           "science-tech/index.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
-        "words": 619,
+        "words": 636,
         "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
       },
       {
@@ -12527,6 +12606,7 @@
           "Civilizations & Resets",
           "Earth Grid & Sacred Geography",
           "Cosmic Cycles & Chronology",
+          "Modern Empire As Ancient Grammar",
           "Synthesis",
           "Related"
         ],
@@ -12542,8 +12622,10 @@
           "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
           "MOC - Epistemology & Propaganda",
           "MOC - Esoterica & Consciousness",
+          "Mỹ Là Ai Cập Tái Sinh",
           "Nam Cực - Bí Mật Được Canh Giữ",
           "Phong Thủy",
+          "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
           "Tartaria",
           "Tartaria và Vạn Lý Trường Thành",
           "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
@@ -12568,7 +12650,9 @@
           "MOC - Epistemology & Propaganda.md",
           "MOC - Esoterica & Consciousness.md",
           "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
           "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
         ],
         "backlinks": [
@@ -12579,11 +12663,12 @@
           "esoterica/Tứ Linh.md",
           "index.md",
           "politics-conspiracy/index.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "politics-conspiracy/Operation Paperclip.md",
           "science-tech/index.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
-        "words": 558,
+        "words": 623,
         "summary": "**Ancient Civilizations & Hidden History là bản đồ đọc quá khứ như một chiến trường ký ức. Nó gom các note về nền văn minh cổ, reset lịch sử, hidden chronology, old world architecture, long mạch, cosmic cycles và khả năng lịch sử không tuyến tính, sạch sẽ, ti…"
       },
       {
@@ -14010,6 +14095,7 @@
         "Monad",
         "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
         "Mô Hình Địa Tâm",
+        "Mỹ Là Ai Cập Tái Sinh",
         "Nam Cực - Bí Mật Được Canh Giữ",
         "Nghịch Lý Của Hiểu Biết",
         "Nguyên Mẫu",
@@ -14181,6 +14267,7 @@
         "politics-conspiracy/index.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/MindGeek.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -14209,7 +14296,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2442,
+      "words": 2495,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -14579,6 +14666,7 @@
         "politics-conspiracy/MAGA Và Số 42.md",
         "politics-conspiracy/MindGeek.md",
         "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -15191,6 +15279,102 @@
       "summary": "**Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…"
     },
     {
+      "path": "MOC - Epistemology & Propaganda.md",
+      "title": "MOC - Epistemology & Propaganda",
+      "domain": "root",
+      "tags": [
+        "epistemology",
+        "moc",
+        "propaganda"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Epistemology & Propaganda",
+        "How To Read This Map",
+        "Start Here",
+        "Reading Discipline",
+        "Mind Control & Media",
+        "Language, Symbol & Frame Control",
+        "Institutional Knowledge",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Báo Cáo 2030",
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Climate Anxiety as Control - Fear-Based Compliance",
+        "Cách Đọc Red Pill Wiki",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Gematria",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Khoa Học Xét Lại",
+        "Kiểm Soát Tâm Trí",
+        "Mental Model",
+        "Mỹ Là Ai Cập Tái Sinh",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nhị Nguyên",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "Word Magic - Ngôn Ngữ Của Phù Thủy"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Gematria.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nhị Nguyên.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/index.md",
+        "esoterica/Cabal.md",
+        "esoterica/index.md",
+        "esoterica/Ma Trận.md",
+        "health/index.md",
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Ancient Civilizations & Hidden History.md",
+        "MOC - Esoterica & Consciousness.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/MAGA Và Số 42.md",
+        "politics-conspiracy/MindGeek.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Sự thật về ma túy.md",
+        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+        "politics-conspiracy/Trái Đất Phẳng.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/index.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "words": 636,
+      "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
+    },
+    {
       "path": "mental-models/Individuation.md",
       "title": "Individuation",
       "domain": "mental-models",
@@ -15281,99 +15465,6 @@
       ],
       "words": 1007,
       "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là bước tâ…"
-    },
-    {
-      "path": "MOC - Epistemology & Propaganda.md",
-      "title": "MOC - Epistemology & Propaganda",
-      "domain": "root",
-      "tags": [
-        "epistemology",
-        "moc",
-        "propaganda"
-      ],
-      "aliases": [],
-      "headings": [
-        "MOC - Epistemology & Propaganda",
-        "How To Read This Map",
-        "Start Here",
-        "Reading Discipline",
-        "Mind Control & Media",
-        "Language, Symbol & Frame Control",
-        "Institutional Knowledge",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-        "Báo Cáo 2030",
-        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-        "Climate Anxiety as Control - Fear-Based Compliance",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Gematria",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "Khoa Học Xét Lại",
-        "Kiểm Soát Tâm Trí",
-        "Mental Model",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nhị Nguyên",
-        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "Word Magic - Ngôn Ngữ Của Phù Thủy"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Gematria.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nhị Nguyên.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/index.md",
-        "esoterica/Cabal.md",
-        "esoterica/index.md",
-        "esoterica/Ma Trận.md",
-        "health/index.md",
-        "index.md",
-        "mental-models/index.md",
-        "MOC - Ancient Civilizations & Hidden History.md",
-        "MOC - Esoterica & Consciousness.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/MAGA Và Số 42.md",
-        "politics-conspiracy/MindGeek.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-        "politics-conspiracy/Trái Đất Phẳng.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 619,
-      "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     {
       "path": "mental-models/index.md",
@@ -15792,6 +15883,125 @@
       "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng. Nó không phải ghét bác sĩ hay phủ định cấp cứu hiện đại. Nó là không để hệ thống định nghĩa thay mình thế…"
     },
     {
+      "path": "politics-conspiracy/index.md",
+      "title": "Politics & Conspiracy Domain Gateway",
+      "domain": "politics-conspiracy",
+      "tags": [
+        "domain-gateway",
+        "politics-conspiracy",
+        "power-structure"
+      ],
+      "aliases": [
+        "Chính Trị & Âm Mưu",
+        "Politics & Conspiracy",
+        "Power Structure"
+      ],
+      "headings": [
+        "Politics & Conspiracy Domain Gateway",
+        "How To Read This Domain",
+        "Curated Reading Paths",
+        "1. Beginner Path — Power Structure Without Hysteria",
+        "2. Power-User Path — Governance Stack & Compliance",
+        "3. High-Risk Caution Path — Events, Evidence, Controlled Opposition",
+        "4. Disclosure Path — Space, UAP, Ritual Tech",
+        "5. Social Control Path — Addiction, Sex, Reward Loops",
+        "6. Cross-Domain Bridge Path — Hidden History, Earth, Cosmology",
+        "Key Hubs",
+        "Flagship Articles",
+        "Related Gateways"
+      ],
+      "wikilinks": [
+        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Báo Cáo 2030",
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Bức Tường Băng",
+        "Cabal",
+        "Climate Anxiety as Control - Fear-Based Compliance",
+        "crypto-finance/index",
+        "Dark MAGA",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Elite",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Kiểm Soát Tâm Trí",
+        "Ma Trận",
+        "mental-models/index",
+        "MindGeek",
+        "MOC - Ancient Civilizations & Hidden History",
+        "MOC - Epistemology & Propaganda",
+        "MOC - Financial Sovereignty",
+        "MOC - Science Revisionism",
+        "Mudflood",
+        "Mô Hình Địa Tâm",
+        "Mỹ Là Ai Cập Tái Sinh",
+        "Nam Cực - Bí Mật Được Canh Giữ",
+        "Operation Paperclip",
+        "Red Pill Wiki",
+        "S.E.X",
+        "science-tech/index",
+        "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
+        "Sự thật về ma túy",
+        "Sự Thật Về Vụ Sập Tháp Đôi WTC",
+        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+        "Tartaria",
+        "Thế Chiến - Chiến Dịch Dọn Dẹp",
+        "Trái Đất Phẳng",
+        "UAP Disclosure - Controlled Revelation",
+        "UBI Conditioning - The End of Work Ethic",
+        "Điều mà nền giáo dục và chính phủ không dạy bạn"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/index.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/S.E.X.md",
+        "esoterica/Tartaria.md",
+        "index.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/index.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "MOC - Ancient Civilizations & Hidden History.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Financial Sovereignty.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Dark MAGA.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/MindGeek.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Operation Paperclip.md",
+        "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+        "politics-conspiracy/Sự thật về ma túy.md",
+        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+        "politics-conspiracy/Trái Đất Phẳng.md",
+        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/index.md"
+      ],
+      "backlinks": [
+        "crypto-finance/index.md",
+        "index.md",
+        "mental-models/index.md",
+        "science-tech/index.md"
+      ],
+      "words": 860,
+      "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
+    },
+    {
       "path": "MOC - Esoterica & Consciousness.md",
       "title": "MOC - Esoterica & Consciousness",
       "domain": "root",
@@ -15891,123 +16101,6 @@
       ],
       "words": 606,
       "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
-    },
-    {
-      "path": "politics-conspiracy/index.md",
-      "title": "Politics & Conspiracy Domain Gateway",
-      "domain": "politics-conspiracy",
-      "tags": [
-        "domain-gateway",
-        "politics-conspiracy",
-        "power-structure"
-      ],
-      "aliases": [
-        "Chính Trị & Âm Mưu",
-        "Politics & Conspiracy",
-        "Power Structure"
-      ],
-      "headings": [
-        "Politics & Conspiracy Domain Gateway",
-        "How To Read This Domain",
-        "Curated Reading Paths",
-        "1. Beginner Path — Power Structure Without Hysteria",
-        "2. Power-User Path — Governance Stack & Compliance",
-        "3. High-Risk Caution Path — Events, Evidence, Controlled Opposition",
-        "4. Disclosure Path — Space, UAP, Ritual Tech",
-        "5. Social Control Path — Addiction, Sex, Reward Loops",
-        "6. Cross-Domain Bridge Path — Hidden History, Earth, Cosmology",
-        "Key Hubs",
-        "Flagship Articles",
-        "Related Gateways"
-      ],
-      "wikilinks": [
-        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-        "Báo Cáo 2030",
-        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-        "Bức Tường Băng",
-        "Cabal",
-        "Climate Anxiety as Control - Fear-Based Compliance",
-        "crypto-finance/index",
-        "Dark MAGA",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "Elite",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "Kiểm Soát Tâm Trí",
-        "Ma Trận",
-        "mental-models/index",
-        "MindGeek",
-        "MOC - Ancient Civilizations & Hidden History",
-        "MOC - Epistemology & Propaganda",
-        "MOC - Financial Sovereignty",
-        "MOC - Science Revisionism",
-        "Mudflood",
-        "Mô Hình Địa Tâm",
-        "Nam Cực - Bí Mật Được Canh Giữ",
-        "Operation Paperclip",
-        "Red Pill Wiki",
-        "S.E.X",
-        "science-tech/index",
-        "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
-        "Sự thật về ma túy",
-        "Sự Thật Về Vụ Sập Tháp Đôi WTC",
-        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-        "Tartaria",
-        "Thế Chiến - Chiến Dịch Dọn Dẹp",
-        "Trái Đất Phẳng",
-        "UAP Disclosure - Controlled Revelation",
-        "UBI Conditioning - The End of Work Ethic",
-        "Điều mà nền giáo dục và chính phủ không dạy bạn"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/index.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/S.E.X.md",
-        "esoterica/Tartaria.md",
-        "index.md",
-        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-        "mental-models/index.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "MOC - Ancient Civilizations & Hidden History.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Financial Sovereignty.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Dark MAGA.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/MindGeek.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "politics-conspiracy/Operation Paperclip.md",
-        "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-        "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-        "politics-conspiracy/Trái Đất Phẳng.md",
-        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/index.md"
-      ],
-      "backlinks": [
-        "crypto-finance/index.md",
-        "index.md",
-        "mental-models/index.md",
-        "science-tech/index.md"
-      ],
-      "words": 854,
-      "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
     },
     {
       "path": "MOC - Science Revisionism.md",
@@ -17228,7 +17321,7 @@
   "topTags": [
     [
       "esoterica",
-      84
+      85
     ],
     [
       "mental-model",
@@ -17248,7 +17341,7 @@
     ],
     [
       "politics-conspiracy",
-      23
+      24
     ],
     [
       "crypto-finance",
@@ -17263,11 +17356,11 @@
       11
     ],
     [
-      "sovereignty",
-      9
+      "symbolism",
+      10
     ],
     [
-      "symbolism",
+      "sovereignty",
       9
     ],
     [
@@ -17311,6 +17404,10 @@
       6
     ],
     [
+      "hidden-history",
+      6
+    ],
+    [
       "occult",
       6
     ],
@@ -17321,10 +17418,6 @@
     [
       "philosophy",
       6
-    ],
-    [
-      "hidden-history",
-      5
     ],
     [
       "mind-control",
@@ -17727,6 +17820,7 @@
         "Civilizations & Resets",
         "Earth Grid & Sacred Geography",
         "Cosmic Cycles & Chronology",
+        "Modern Empire As Ancient Grammar",
         "Synthesis",
         "Related"
       ],
@@ -17742,8 +17836,10 @@
         "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
         "MOC - Epistemology & Propaganda",
         "MOC - Esoterica & Consciousness",
+        "Mỹ Là Ai Cập Tái Sinh",
         "Nam Cực - Bí Mật Được Canh Giữ",
         "Phong Thủy",
+        "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
         "Tartaria",
         "Tartaria và Vạn Lý Trường Thành",
         "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
@@ -17768,7 +17864,9 @@
         "MOC - Epistemology & Propaganda.md",
         "MOC - Esoterica & Consciousness.md",
         "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
       ],
       "backlinks": [
@@ -17779,11 +17877,12 @@
         "esoterica/Tứ Linh.md",
         "index.md",
         "politics-conspiracy/index.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/Operation Paperclip.md",
         "science-tech/index.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 558,
+      "words": 623,
       "summary": "**Ancient Civilizations & Hidden History là bản đồ đọc quá khứ như một chiến trường ký ức. Nó gom các note về nền văn minh cổ, reset lịch sử, hidden chronology, old world architecture, long mạch, cosmic cycles và khả năng lịch sử không tuyến tính, sạch sẽ, ti…"
     },
     "MOC - Epistemology & Propaganda.md": {
@@ -17820,6 +17919,7 @@
         "Khoa Học Xét Lại",
         "Kiểm Soát Tâm Trí",
         "Mental Model",
+        "Mỹ Là Ai Cập Tái Sinh",
         "Nghịch Lý Của Hiểu Biết",
         "Nhị Nguyên",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
@@ -17842,6 +17942,7 @@
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
@@ -17867,6 +17968,7 @@
         "politics-conspiracy/MAGA Và Số 42.md",
         "politics-conspiracy/MindGeek.md",
         "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Sự thật về ma túy.md",
         "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
@@ -17876,7 +17978,7 @@
         "science-tech/index.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 619,
+      "words": 636,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     "MOC - Esoterica & Consciousness.md": {
@@ -20745,6 +20847,7 @@
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/index.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
       ],
       "words": 1472,
@@ -24219,7 +24322,8 @@
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Esoterica & Consciousness.md",
-        "politics-conspiracy/Elite.md"
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
       ],
       "words": 3371,
       "summary": "**\"Can you spell your name?\"**"
@@ -26186,6 +26290,7 @@
         "Monad",
         "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
         "Mô Hình Địa Tâm",
+        "Mỹ Là Ai Cập Tái Sinh",
         "Nam Cực - Bí Mật Được Canh Giữ",
         "Nghịch Lý Của Hiểu Biết",
         "Nguyên Mẫu",
@@ -26357,6 +26462,7 @@
         "politics-conspiracy/index.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/MindGeek.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -26385,7 +26491,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2442,
+      "words": 2495,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
@@ -28463,6 +28569,7 @@
         "Khoa Học Xét Lại",
         "Kiểm Soát Tâm Trí",
         "Ma Trận",
+        "Mỹ Là Ai Cập Tái Sinh",
         "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
         "UAP Disclosure - Controlled Revelation"
       ],
@@ -28475,6 +28582,7 @@
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "science-tech/Khoa Học Xét Lại.md"
@@ -28485,11 +28593,12 @@
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/index.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
       ],
-      "words": 4967,
+      "words": 4998,
       "summary": "**Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở lại với người ngoài hành tinh, Trump đẩy narrative alien vào mainstream, Hollywood mở nghi lễ bằng hình ảnh, còn Elon Musk đưa obelisk hiện đại của…"
     },
     "politics-conspiracy/Báo Cáo 2030.md": {
@@ -28724,6 +28833,7 @@
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -29040,6 +29150,7 @@
         "politics-conspiracy/MAGA Và Số 42.md",
         "politics-conspiracy/MindGeek.md",
         "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -29409,6 +29520,69 @@
       "words": 715,
       "summary": "---"
     },
+    "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md": {
+      "path": "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+      "title": "Mỹ Là Ai Cập Tái Sinh",
+      "domain": "politics-conspiracy",
+      "tags": [
+        "america",
+        "esoterica",
+        "hidden-history",
+        "politics-conspiracy",
+        "symbolism"
+      ],
+      "aliases": [
+        "Ai Cập Tái Sinh",
+        "America as Real Egypt",
+        "America Is Egypt Reborn",
+        "American Egypt",
+        "New Egypt"
+      ],
+      "headings": [
+        "Mỹ Là Ai Cập Tái Sinh",
+        "Vault Position / Vị Trí Trong Vault",
+        "Egypt Là Archetype Gì?",
+        "America Dùng Lại Grammar Đó",
+        "Dollar Bill Là Papyrus Spell Hiện Đại",
+        "NASA Và Apollo: Sky Priesthood Phiên Bản Mới",
+        "Obelisk Đá Và Obelisk Lửa",
+        "America Không Chỉ Là Egypt",
+        "Real Egypt Nghĩa Là Gì?",
+        "Why It Matters",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Elite",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "MOC - Ancient Civilizations & Hidden History",
+        "MOC - Epistemology & Propaganda",
+        "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
+        "Word Magic - Ngôn Ngữ Của Phù Thủy"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "MOC - Ancient Civilizations & Hidden History.md",
+        "MOC - Epistemology & Propaganda.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "MOC - Ancient Civilizations & Hidden History.md",
+        "MOC - Epistemology & Propaganda.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/index.md"
+      ],
+      "words": 1559,
+      "summary": "**Mỹ không phải Ai Cập theo nghĩa literal địa lý. Mỹ là Ai Cập nghi lễ của kỷ nguyên hiện đại: cùng grammar quyền lực, nhưng đổi chất liệu từ đá, đền thờ và priesthood cổ sang dollar, agency, Hollywood, NASA, Wall Street, rocket và satellite. Egypt không chết…"
+    },
     "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md": {
       "path": "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
       "title": "Nam Cực - Bí Mật Được Canh Giữ",
@@ -29671,9 +29845,11 @@
       ],
       "backlinks": [
         "index.md",
+        "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Science Revisionism.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/index.md"
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
       ],
       "words": 2378,
       "summary": "**Nếu Moon landing là nghi lễ làm con người tin rằng bầu trời có thể bị chạm tới, thì SpaceX là nghi lễ biến bầu trời thành hạ tầng phải được quản trị, quân sự hóa, tài chính hóa và sợ hãi hóa. Rocket hiện đại là obelisk lửa: trục dương của techno-king phóng…"
@@ -30173,6 +30349,7 @@
         "MOC - Science Revisionism",
         "Mudflood",
         "Mô Hình Địa Tâm",
+        "Mỹ Là Ai Cập Tái Sinh",
         "Nam Cực - Bí Mật Được Canh Giữ",
         "Operation Paperclip",
         "Red Pill Wiki",
@@ -30216,6 +30393,7 @@
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/MindGeek.md",
         "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Operation Paperclip.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -30235,7 +30413,7 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 854,
+      "words": 860,
       "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
     },
     "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md": {

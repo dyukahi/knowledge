@@ -8,6 +8,7 @@ related:
   - "[[Atlantis]]"
   - "[[Lịch Sử Song Song — Khi Thế Giới Đồng Bộ]]"
   - "[[MOC - Esoterica & Consciousness]]"
+  - "[[Mỹ Là Ai Cập Tái Sinh]]"
 ---
 
 # MOC - Ancient Civilizations & Hidden History
@@ -68,6 +69,15 @@ Reset không nhất thiết là một event duy nhất. Nó có thể là chiế
 - [[Vận Chín]] — transition lens trong hệ Đông phương.
 
 Nếu lịch sử mainstream đọc thời gian như đường thẳng, hidden history thường đọc thời gian như vòng xoắn: lặp lại, reset, quên, nhớ lại.
+
+---
+
+## Modern Empire As Ancient Grammar
+
+- [[Mỹ Là Ai Cập Tái Sinh]] — America as ritual Egypt updated through dollar, obelisk, NASA, Hollywood, Wall Street and rockets.
+- [[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]] — rocket as fire obelisk and sky governance layer.
+
+Ancient civilizations không chỉ nằm ở quá khứ. Một số grammar quyền lực cổ vẫn vận hành trong modern empire, chỉ đổi technology stack.
 
 ---
 

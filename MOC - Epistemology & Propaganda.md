@@ -8,6 +8,7 @@ related:
   - "[[Khoa Học Xét Lại]]"
   - "[[Kiểm Soát Tâm Trí]]"
   - "[[Word Magic - Ngôn Ngữ Của Phù Thủy]]"
+  - "[[Mỹ Là Ai Cập Tái Sinh]]"
 ---
 
 # MOC - Epistemology & Propaganda
@@ -64,6 +65,7 @@ Propaganda hiện đại ít giống một bài diễn văn. Nó giống một m
 - [[Gematria]] — number/symbol layer khi đọc culture và ritual timing.
 - [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]] — science screen, child myth screen, adult cinema screen.
 - [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]] — case study alien/disclosure như multi-channel programming.
+- [[Mỹ Là Ai Cập Tái Sinh]] — America as symbol system: dollar, obelisk, pyramid, NASA and civic religion.
 
 Ai đặt tên được hiện tượng thường thắng nửa trận. UFO thành UAP là một ví dụ: cùng một hiện tượng, nhưng frame đã đổi từ fringe sang institutional.
 
