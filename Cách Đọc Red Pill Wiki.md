@@ -44,6 +44,8 @@ Họ hỏi:
 
 Red pill không phải là đổi từ niềm tin mainstream sang niềm tin alternative. Red pill là nhìn thấy cơ chế tạo niềm tin.
 
+Nếu mới vào vault, mở [[Glossary - Từ Điển Red Pill Wiki]] để nắm vocabulary trước, rồi dùng [[Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng]] như firewall khi gặp claim mạnh, nhạy cảm hoặc speculative.
+
 ---
 
 ## 2. Bốn Tầng Đọc

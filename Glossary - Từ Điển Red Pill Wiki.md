@@ -20,7 +20,7 @@ related:
 
 ## Matrix / Ma Trận
 
-[[Ma Trận]] là hệ điều hành của perception: tập hợp language, media, money, education, medicine, law, identity và fear khiến con người tưởng interface là reality. Ma Trận không chỉ là “nhóm xấu bên ngoài”; nó còn là phần trong ta đã học cách tự kiểm duyệt câu hỏi.
+[[Ma Trận]] là hệ điều hành của perception: language, media, money, education, medicine, law, identity và fear khiến con người tưởng interface là reality. Ma Trận không chỉ là “nhóm xấu bên ngoài”; nó còn là phần trong ta đã học cách tự kiểm duyệt câu hỏi.
 
 Xem thêm: [[Ma Trận - Giải Phẫu Hoàn Chỉnh]], [[Elite]], [[Kiểm Soát Tâm Trí]].
 
@@ -91,6 +91,66 @@ Xem thêm: [[MOC - Financial Sovereignty]], [[Gen Z và CBDC - Programmable Mone
 [[MOC - Health Sovereignty|Health Sovereignty]] là quyền tự đọc cơ thể, hiểu terrain và không outsource toàn bộ sinh mệnh cho medical-industrial incentives. Nó không phải lời mời bỏ cấp cứu, ghét bác sĩ, hoặc tự dùng protocol nguy hiểm.
 
 Đọc health notes như map về terrain/metabolism/incentive/claim discipline, không như toa thuốc cá nhân.
+
+---
+
+## Science Revisionism / Khoa Học Xét Lại
+
+[[Khoa Học Xét Lại]] là kỷ luật phân biệt science như **method** với science như **institution**. Method cần quan sát, kiểm chứng, phản biện. Institution có funding, prestige, censorship, career incentive và politics.
+
+Revisionism không phải anti-science. Nó là quyền đặt lại câu hỏi khi consensus được dùng như vũ khí đóng khung reality.
+
+---
+
+## Elite
+
+[[Elite]] là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, media frame, education, medical consensus, infrastructure và permission structure. Trong vault, Elite không chỉ là “nhóm người xấu”; nó là hệ incentive + institution + bloodline/network + worldview.
+
+---
+
+## Agenda 2030
+
+[[Báo Cáo 2030|Agenda 2030]] được vault đọc như một stack governance: climate, health, money, digital identity, smart city, data compliance và đạo đức truyền thông. Tầng fact là policy/report/public agenda. Tầng pattern là permission architecture. Tầng speculation là cách nó nối vào Ma Trận lớn hơn.
+
+---
+
+## Overton Window
+
+**Overton Window** là cửa sổ những ý tưởng được xem là “có thể nói công khai” trong một xã hội. Power không chỉ thắng bằng cách cấm ý tưởng; nó thắng bằng cách dịch chuyển cửa sổ để cái hôm qua là cực đoan thành cái hôm nay là bình thường.
+
+Xem thêm: [[Kiểm Soát Tâm Trí]], [[MOC - Epistemology & Propaganda]].
+
+---
+
+## CBDC
+
+**CBDC** là Central Bank Digital Currency: tiền kỹ thuật số do ngân hàng trung ương phát hành hoặc quản trị. Vault đọc CBDC ở ba tầng: fact-level là pilots/papers; pattern-level là programmable money + compliance; sovereignty-level là câu hỏi về privacy, cash, consent và financial exit.
+
+Xem thêm: [[Gen Z và CBDC - Programmable Money Psychology]], [[Tiền Giấy - Tiền Mặt]].
+
+---
+
+## RWA
+
+**RWA** là Real World Assets được tokenized: trái phiếu, bất động sản, hàng hóa, credit, fund share hoặc data quyền sở hữu được đưa lên blockchain/programmable rails. RWA là cầu nối giữa tài chính truyền thống và [[Chainlink - Mắt Xích Của Tokenized World|Tokenized World]], không tự động là liberation hay prison. Hạ tầng nào thắng sẽ quyết định nó phục vụ sovereignty hay compliance.
+
+---
+
+## Privacy
+
+[[Privacy]] là quyền giữ vùng bất khả xâm phạm cho body, mind, money, relationship và thought. Privacy không phải “có gì xấu mới giấu”; nó là precondition của tự do, intimacy, dissent và spiritual sovereignty.
+
+---
+
+## Terrain Theory
+
+[[Thuyết Vi Sinh Nội Sinh|Terrain Theory]] là lens xem bệnh không chỉ như kẻ thù bên ngoài tấn công, mà như phản ứng của terrain: môi trường nội mô, chuyển hóa, độc tố, stress, dinh dưỡng, ánh sáng, nước, điện giải và nervous system. Đây là health lens, không phải giấy phép phủ định mọi pathogen hoặc bỏ emergency care.
+
+---
+
+## Sacred Geometry
+
+[[Sacred Geometry]] là cách đọc hình học như language của form: tỷ lệ, pattern, symmetry, spiral, circle, cube, star, temple và body. Trong vault, Sacred Geometry nằm giữa math, art, architecture, symbol và metaphysics. Đừng dùng nó để chứng minh bừa; dùng nó để thấy cấu trúc lặp lại giữa micro và macro.
 
 ---
 

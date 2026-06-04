@@ -34,7 +34,7 @@ Sai lầm lớn nhất là dùng tầng 4 để giả làm tầng 1, hoặc dùn
 
 ## 2. High-Risk Claims Đọc Như Nào
 
-High-risk claims gồm: health protocol, biomedical repurposed drugs, identity hypothesis, financial/control infrastructure, alien/disclosure, ritual timing, claims về elite coordination.
+High-risk claims gồm: health protocol, sex/gender/identity, politics-conspiracy, finance/crypto, current-events predictions, biomedical repurposed drugs, alien/disclosure, ritual timing, claims về elite coordination.
 
 Khi gặp high-risk claim, đọc theo protocol:
 
@@ -61,7 +61,46 @@ Nếu một bài health làm bạn muốn hành động cực đoan ngay, dừng
 
 ---
 
-## 4. Finance / CBDC / Tokenized World Claims
+## 4. Sex / Gender / Identity Claims
+
+Các bài về sex, gender, dục tính, Jungian psychology hoặc social engineering rất dễ trượt từ pattern reading sang essentialism cứng. Đọc theo kỷ luật này:
+
+- **Fact:** phân biệt dữ liệu sinh học, hành vi học, policy, media trend và case cá nhân.
+- **Pattern:** incentive nào đang đẩy confusion, addiction, identity capture hoặc market expansion?
+- **Symbol:** anima/animus, sacred union, inversion, androgyny hoặc archetype nào đang được kích hoạt?
+- **Speculation:** claim về agenda, ritual inversion hoặc metaphysical sex phải được đánh dấu là synthesis, không biến thành kết án con người thật.
+
+Critique system, incentive và spell. Đừng dùng vault để dehumanize cá nhân.
+
+---
+
+## 5. Politics / Conspiracy Claims
+
+Politics-conspiracy notes phải phân biệt **coordination** với **omnipotence**. Elite có network, incentive và institutional memory; điều đó không có nghĩa mọi actor đều biết toàn bộ script.
+
+- Public document không tự chứng minh motive ẩn.
+- Pattern lặp lại không tự chứng minh một phòng họp duy nhất.
+- Symbolic timing không tự convict cá nhân.
+- “Có lợi cho ai?” là câu hỏi mở đầu, không phải verdict.
+
+Đọc [[Elite]], [[Báo Cáo 2030]] và [[MOC - Epistemology & Propaganda]] như maps of power, không như giấy phép paranoia.
+
+---
+
+## 6. Current Events / Prediction Claims
+
+Với dự đoán sự kiện hiện tại, giữ humility cao hơn bình thường. Current events có noise, psyop, bad data, bot amplification và emotional contagion.
+
+- Ghi rõ cái gì đã xảy ra, cái gì đang diễn giải, cái gì là forecast.
+- Ưu tiên scenario range thay vì một prophecy duy nhất.
+- Nếu prediction fail, update model thay vì bảo vệ ego.
+- Không dùng numerology, symbol hoặc “vibe” để biến forecast thành certainty.
+
+Prediction tốt là tool quản trị attention và risk. Prediction tệ là dopamine disguised as insight.
+
+---
+
+## 7. Finance / CBDC / Tokenized World Claims
 
 Finance notes phải tách survival khỏi grand theory.
 
@@ -74,7 +113,7 @@ Finance notes phải tách survival khỏi grand theory.
 
 ---
 
-## 5. Spectacle / Ritual / Disclosure Claims
+## 8. Spectacle / Ritual / Disclosure Claims
 
 Spectacle reading là đọc cách attention tập thể được gom, sync và gắn emotion vào event. Nó không cần khẳng định mọi producer đều conscious occultist.
 
@@ -88,7 +127,7 @@ Ritual reading tốt làm người đọc tỉnh hơn. Ritual reading tệ làm 
 
 ---
 
-## 6. What Counts As “Source” Here
+## 9. What Counts As “Source” Here
 
 Vault dùng nhiều loại source/lens, nhưng không đánh đồng chúng:
 
@@ -102,7 +141,7 @@ Các loại này không cùng trọng lượng. Một paper không chứng minh 
 
 ---
 
-## 7. Synthesis
+## 10. Synthesis
 
 Source discipline không làm vault yếu đi. Nó làm vault sắc hơn.
 
