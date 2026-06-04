@@ -181,6 +181,23 @@ Trong trường này, một champion quá cá nhân hóa có thể lệch nhịp
 
 ---
 
+## 26, 8 Và Back-To-Back Loop
+
+**26** không chỉ là năm. Nếu rút gọn số học phổ thông, 2 + 6 = **8**; và 8 xoay ngang là ký hiệu vô cực. Không dùng điều này như bằng chứng, nhưng như một texture, nó làm **WE ARE 26** sâu hơn: đây không chỉ là một tournament trong năm 2026, mà là một identity loop.
+
+World Cup 26 đầy motif “back”: back to summer sau Qatar mùa đông, back to the Americas, Mexico host lần thứ ba, USA trở lại sau 1994, Messi ở America, creator lyric “bringing it back to the crib”, và Brazil thesis như “football soul returns”.
+
+Nếu Brazil thắng, nó không chỉ là Brazil return. Nó tạo một back-to-back South America arc:
+
+```text
+2022 Argentina = một vị vua Nam Mỹ hoàn tất đời mình
+2026 Brazil = linh hồn tập thể Nam Mỹ mở chu kỳ mới
+```
+
+Điều này đẹp hơn Argentina repeat. Nó không phải một cá nhân giữ crown hai lần, mà là một continent giữ field hai kỳ liên tiếp. 2022 đóng hero myth; 2026 có thể mở field myth.
+
+---
+
 ## TRIONDA: Ba Làn Sóng Và Một Tournament Không Có Một Mũi Nhọn
 
 Bóng thi đấu chính thức của 2026 là **TRIONDA**, được giải thích như “three waves”. Bề mặt là ba nước chủ nhà: Canada, Mexico, United States. Nhưng wordplay tự nó đã quan trọng: tri, three, onda, wave.

@@ -99,6 +99,27 @@ Euro 2024 của Spain là nghi lễ crown một thế hệ. World Cup 2022 của
 
 ---
 
+## 26 Như Vòng 8: Infinity, Return Và Reality Loop
+
+Trong tầng literal, 26 chỉ là năm của tournament. Nhưng trong tầng symbol, 26 rút về 8, và 8 xoay ngang là infinity. Đây không phải chứng minh bí mật nào; nó là một cách đọc texture của slogan **WE ARE 26**.
+
+Nếu 2026 là một mass synchronization year, 8/infinity nói bằng ngôn ngữ loop: return, repeat, cycle, recurrence. World Cup trở lại mùa hè. World Cup trở lại châu Mỹ. Mexico host lần thứ ba. USA trở lại sau 1994. South America có thể đi back-to-back nếu Brazil tiếp nối Argentina 2022. SpaceX đưa attention lên orbit, nơi vòng quay và quỹ đạo là ngôn ngữ căn bản.
+
+Back-to-back ở đây không chỉ là liên tiếp. Nó là mirror:
+
+```text
+2022: king closure
+2026: field opening
+Argentina: one man completes old myth
+Brazil: collective body restores football soul
+Earth field: World Cup
+Sky field: SpaceX / orbit / satellite
+```
+
+8 cũng có hai vòng: above và below, sky và earth, data và body, orbit và stadium. Nếu World Cup 26 là ground ritual và SpaceX 12/6 là sky ritual, thì 26→8 trở thành một symbol rất gọn cho earth-sky loop của reality reset.
+
+---
+
 ## SpaceX 12/6 Và Sky Layer Của Cùng Một Reset
 
 Nếu đặt World Cup 26 cạnh [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]], một trục mới hiện ra.
