@@ -1,6 +1,7 @@
 ---
 title: "Cách Đọc Red Pill Wiki"
-aliases: ["Start Here", "Reading Paths", "Bắt Đầu Ở Đây", "Lộ Trình Đọc"]
+description: "Start Here guide for redpill.wiki: how to read fact, pattern, symbol, and speculative synthesis without turning the vault into dogma."
+aliases: ["Start Here", "Reading Paths", "Bắt Đầu Ở Đây", "Lộ Trình Đọc", "How to Read Red Pill Wiki", "Reader Guide"]
 date: 2026-05-30
 tags: [meta, navigation, epistemology]
 status: refined
@@ -44,7 +45,7 @@ Họ hỏi:
 
 Red pill không phải là đổi từ niềm tin mainstream sang niềm tin alternative. Red pill là nhìn thấy cơ chế tạo niềm tin.
 
-Nếu mới vào vault, mở [[Glossary - Từ Điển Red Pill Wiki]] để nắm vocabulary trước, rồi dùng [[Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng]] như firewall khi gặp claim mạnh, nhạy cảm hoặc speculative.
+Nếu mới vào vault, mở [[Glossary - Từ Điển Red Pill Wiki]] để nắm vocabulary trước, rồi dùng [[Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng]] như firewall khi gặp claim mạnh, nhạy cảm hoặc speculative. Với các sự kiện đang nóng, dùng [[Current Events Lab - Phòng Thí Nghiệm Sự Kiện]] như phòng thí nghiệm public để xem protocol này vận hành trên case cụ thể.
 
 ---
 
