@@ -4,10 +4,10 @@
 
 ## Snapshot
 
-- **Notes scanned:** 196
+- **Notes scanned:** 197
 - **Top-level domains:** 8
-- **Tags detected:** 191
-- **Resolved internal edges:** 1976
+- **Tags detected:** 193
+- **Resolved internal edges:** 1977
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 3
 
@@ -133,8 +133,9 @@ Recommended note types:
 - [[claude|Schema (LLM Instructions)]] — degree `0`, backlinks `0`, outlinks `0`
 - [[README|🧠 Knowledge Base]] — degree `0`, backlinks `0`, outlinks `0`
 
-### Docs / Meta `_docs` — 1 notes
+### Docs / Meta `_docs` — 2 notes
 
+- [[_docs/WORLD-CUP-2026-PATTERN-AUDIT|World Cup 2026 Pattern Audit — Pre-Tournament Evidence Snapshot]] — degree `1`, backlinks `1`, outlinks `0` — #FIFAWorldCup, #WeAre26
 - [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — degree `0`, backlinks `0`, outlinks `0`
 
 ## Current Hub Notes
