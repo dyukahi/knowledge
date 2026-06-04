@@ -15,100 +15,81 @@ related:
 
 # MOC - Market Psychology & Risk
 
-**Market Psychology & Risk là bản đồ đọc thị trường như một hệ tâm lý đám đông, ownership transfer và noise architecture. Trước khi hỏi “mua gì để giàu?”, phải hỏi: ai đang đứng bên kia giao dịch, mình có sống sót đủ lâu không, và cảm xúc nào đang lái tay mình?**
+**Market Psychology & Risk là bản đồ đọc thị trường như nơi tâm lý con người bị ép lộ ra bằng tiền thật. Chart là hậu quả, flow là bằng chứng, narrative là lớp giải thích đến sau. Trước khi hỏi “mua gì để giàu?”, phải hỏi: mình có sống sót đủ lâu không, ai đang đứng bên kia giao dịch, và cảm xúc nào đang lái tay mình?**
 
 *Market Psychology & Risk maps markets as crowd psychology, ownership transfer, and noise architecture.*
 
 ---
 
+## How To Read This Map
+
+Map này là phần thực chiến của [[MOC - Financial Sovereignty]]. Nó không cố biến người đọc thành trader. Nó dạy người đọc không trở thành exit liquidity.
+
+Có ba câu hỏi nền:
+
+1. Nếu mình sai, mình chết kiểu nào?
+2. Nếu mình mua/bán, ai đang đứng bên kia?
+3. Mình đang phản ứng với signal hay dopamine?
+
+Một market participant trưởng thành không phải người đoán đúng mọi lần. Đó là người biết mình có thể sai, và vẫn sống sót sau khi sai.
+
+---
+
 ## Start Here
 
-1. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — survival before upside; chống leverage, dopamine trading và sĩ diện.
-2. [[Ai Đứng Bên Kia Giao Dịch]] — mỗi top/bottom là ownership transfer giữa người kiên nhẫn và người nôn nóng.
+1. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — survival before upside.
+2. [[Ai Đứng Bên Kia Giao Dịch]] — top/bottom như ownership transfer.
 3. [[Sợ hãi - Tham Lam – Cân bằng]] — fear/greed như hai cực làm méo quyết định.
-4. [[Secular Market]] — đặt mọi quyết định vào chu kỳ dài thay vì nến ngắn.
-5. [[Tư Duy Lũy Thừa]] — compounding cần thời gian, và leverage giết thời gian.
+4. [[Secular Market]] — đặt quyết định vào chu kỳ dài.
+5. [[Tư Duy Lũy Thừa]] — compounding cần thời gian và kỷ luật.
 
 ---
 
-## Core Principle
+## Survival Layer
 
-> Market không chỉ là nơi tài sản được định giá. Nó là nơi tâm lý con người bị ép lộ ra bằng tiền thật.
-
-Chart là hậu quả. Flow là bằng chứng. Narrative là lớp giải thích đến sau.
-
-Nếu chỉ đọc chart, dễ quên người. Nếu chỉ đọc narrative, dễ quên tiền. Nếu chỉ đọc cảm xúc, dễ thành exit liquidity.
-
----
-
-## Risk Survival Layer
-
-- [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — note nền về không đòn bẩy, không lifestyle flex, không dopamine trading, giữ runway.
-- [[Tư Duy Lũy Thừa]] — compounding là cuộc chơi của người còn sống.
+- [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — note nền về không đòn bẩy, không lifestyle flex, không dopamine trading.
+- [[Tư Duy Lũy Thừa]] — lũy thừa chỉ thưởng cho người còn sống.
 - [[Thông Minh vs Trí Tuệ]] — intelligence tìm upside; wisdom quản downside.
 
-Câu hỏi chính:
-
-```text
-Làm sao để không x0 trước khi nghĩ tới x10?
-```
+Survival không sexy. Nhưng tất cả upside đều cần một điều kiện trước: chưa bị xóa sổ.
 
 ---
 
 ## Ownership Transfer Layer
 
-- [[Ai Đứng Bên Kia Giao Dịch]] — top là khi buyer cuối cùng xuất hiện; bottom là khi seller cuối cùng bị ép bán.
+- [[Ai Đứng Bên Kia Giao Dịch]] — mọi cây nến là dấu vết của người mua và người bán.
 - [[Secular Market]] — chu kỳ dài như quá trình chuyển tài sản giữa weak hands và strong hands.
 - [[Bitcoin]] — case study của conviction, liquidity, halving narrative và institutional flow.
 
-Câu hỏi chính:
-
-```text
-Nếu mình mua, ai đang bán cho mình và vì sao?
-Nếu mình bán, ai đang mua của mình và vì sao?
-```
+Top thường là lúc tin tốt nhất vì người đến muộn cần lý do để mua. Bottom thường là lúc tin xấu nhất vì người bị ép bán cần lý do để buông.
 
 ---
 
 ## Emotion & Dopamine Layer
 
 - [[Sợ hãi - Tham Lam – Cân bằng]] — cảm xúc không biến mất; chỉ có thể được nhận diện và quản trị.
-- [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — futures group, chart 1 phút và PnL screenshot là casino dopamine.
-- [[Bộ Não Rỗng và AI Brain Rot]] — attention bị băm nhỏ làm khả năng ra quyết định dài hạn yếu đi.
+- [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — futures group, chart một phút và PnL screenshot là casino dopamine.
+- [[Bộ Não Rỗng và AI Brain Rot]] — attention bị băm nhỏ làm quyết định dài hạn yếu đi.
 
-Câu hỏi chính:
-
-```text
-Mình đang phản ứng với signal hay đang bị dopamine kéo dây?
-```
+Market không chỉ lấy tiền của người ngu. Nó lấy tiền của người không quản được nervous system.
 
 ---
 
 ## Macro & Liquidity Layer
 
 - [[Tiền Pháp Định]] — fiat, credit và debasement là nền của asset inflation.
-- [[MOC - Financial Sovereignty]] — money as operating system of consent, labor, time and freedom.
+- [[MOC - Financial Sovereignty]] — tiền như operating system của consent, labor, time và freedom.
 - [[Chainlink - Mắt Xích Của Tokenized World]] — khi tài sản được tokenized, flow và permission layer càng quan trọng.
 
-Câu hỏi chính:
-
-```text
-Thanh khoản đang đi vào đâu, rời khỏi đâu, và ai bị ép phải hành động?
-```
+Liquidity không phải khái niệm trừu tượng. Nó là câu hỏi ai có cash, ai cần cash, ai bị ép bán, và ai đủ kiên nhẫn để hấp thụ.
 
 ---
 
-## Practical Checklist
+## Practical Filter
 
-Trước khi vào lệnh/mua tài sản:
+Trước khi vào market, tự hỏi: mình có dùng đòn bẩy không, nếu sai timing 6-12 tháng có sống được không, tin này tạo demand thật hay chỉ tạo exit liquidity, mình đang mua thesis hay mua cảm xúc, và nếu giá giảm 30-50% thì mình có bị forced sell không.
 
-- Mình có dùng đòn bẩy không?
-- Nếu sai timing 6-12 tháng, mình có sống được không?
-- Ai đang đứng bên kia giao dịch?
-- Tin này tạo demand thật hay exit liquidity?
-- Mình đang mua thesis hay mua cảm xúc?
-- Nếu giá giảm 30-50%, mình có forced sell không?
-- Mình có đang làm giàu cho sàn, bank, influencer hay group kèo không?
+Nếu không trả lời được, đừng vội gọi đó là conviction. Có thể đó chỉ là dopamine được đặt tên đẹp.
 
 ---
 
@@ -120,9 +101,7 @@ Market psychology không phải “đọc tâm lý đám đông để thắng đ
 > Người khá hơn hỏi: dòng tiền đang ở đâu?  
 > Người sống sót hỏi: nếu mình sai, mình chết kiểu nào?
 
-Câu cuối:
-
-> Risk management là spiritual practice của người chơi market. Nó bắt ego quỳ xuống trước reality.
+Risk management là spiritual practice của người chơi market. Nó bắt ego quỳ xuống trước reality.
 
 ---
 
