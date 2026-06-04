@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 195,
+    "notes": 196,
     "domains": {
       "_docs": 1,
       "root": 11,
       "crypto-finance": 13,
-      "esoterica": 72,
+      "esoterica": 73,
       "health": 27,
       "mental-models": 28,
       "politics-conspiracy": 26,
       "science-tech": 17
     },
-    "tags": 187,
-    "wikilinkEdges": 1966,
+    "tags": 191,
+    "wikilinkEdges": 1976,
     "brokenLinks": 0,
     "orphans": 3
   },
@@ -1409,6 +1409,7 @@
         "wikilinks": [
           "Atlantis",
           "Biểu Tượng Baphomet",
+          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
           "Chakra",
           "Cách Đọc Red Pill Wiki",
           "Gematria",
@@ -1452,6 +1453,7 @@
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/Atlantis.md",
           "esoterica/Biểu Tượng Baphomet.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
           "esoterica/Chakra.md",
           "esoterica/Gematria.md",
           "esoterica/Gnosis.md",
@@ -1495,7 +1497,7 @@
           "mental-models/index.md",
           "science-tech/index.md"
         ],
-        "words": 893,
+        "words": 945,
         "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
       },
       {
@@ -1869,6 +1871,89 @@
         "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
       },
       {
+        "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "title": "Karma Disclosure - Truth Hidden In Plain Sight",
+        "domain": "esoterica",
+        "tags": [
+          "conspiracy",
+          "esoterica",
+          "karma"
+        ],
+        "aliases": [
+          "Elite Disclosure",
+          "Hidden In Plain Sight",
+          "Karma Disclosure",
+          "Predictive Programming Karma"
+        ],
+        "headings": [
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Evidence Discipline / Cách Đọc",
+          "Vị Trí Trong Vault / Vault Position",
+          "Luật Consent Ở Tầng Biểu Tượng",
+          "Fiction Là Vùng Disclosure Mềm",
+          "Hidden In Plain Sight",
+          "Timeline Không Phải Bằng Chứng Tự Động",
+          "Tại Sao Người Ta Không Thấy?",
+          "Decoder Mindset / Cách Đọc Không Paranoid",
+          "Counter-Arguments / Phản Biện Cần Giữ",
+          "Kết / Core Synthesis",
+          "Related",
+          "Nền tảng / Foundation",
+          "Ứng dụng / Application",
+          "Meta"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+          "Khoa Học Xét Lại",
+          "Luân Hồi",
+          "Ma Trận",
+          "Nghịch Lý Của Hiểu Biết",
+          "Nhân Quả",
+          "Nhị Nguyên",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Gematria.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/index.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Vận Chín.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "index.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
+        ],
+        "words": 1472,
+        "summary": "**Karma Disclosure là giả thuyết rằng quyền lực không chỉ che giấu kế hoạch; nó còn để lại dấu vết công khai dưới dạng fiction, symbol, ritual, slogan hoặc \"joke\" để biến sự thật thành thứ ai cũng thấy nhưng ít người xử lý.** Đọc đúng, đây không phải giấy phé…"
+      },
+      {
         "path": "esoterica/Tartaria.md",
         "title": "Tartaria",
         "domain": "esoterica",
@@ -1936,88 +2021,6 @@
         "summary": "**Tartaria là một case study về cách lịch sử, bản đồ, kiến trúc và ký ức tập thể có thể bị đọc theo nhiều tầng cùng lúc.** Tầng fact: \"Tartary\" từng xuất hiện trên nhiều bản đồ châu Âu để chỉ các vùng rộng lớn ở Á-Âu, thường mơ hồ theo hiểu biết địa lý của th…"
       },
       {
-        "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "title": "Karma Disclosure - Truth Hidden In Plain Sight",
-        "domain": "esoterica",
-        "tags": [
-          "conspiracy",
-          "esoterica",
-          "karma"
-        ],
-        "aliases": [
-          "Elite Disclosure",
-          "Hidden In Plain Sight",
-          "Karma Disclosure",
-          "Predictive Programming Karma"
-        ],
-        "headings": [
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Evidence Discipline / Cách Đọc",
-          "Vị Trí Trong Vault / Vault Position",
-          "Luật Consent Ở Tầng Biểu Tượng",
-          "Fiction Là Vùng Disclosure Mềm",
-          "Hidden In Plain Sight",
-          "Timeline Không Phải Bằng Chứng Tự Động",
-          "Tại Sao Người Ta Không Thấy?",
-          "Decoder Mindset / Cách Đọc Không Paranoid",
-          "Counter-Arguments / Phản Biện Cần Giữ",
-          "Kết / Core Synthesis",
-          "Related",
-          "Nền tảng / Foundation",
-          "Ứng dụng / Application",
-          "Meta"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Khoa Học Xét Lại",
-          "Luân Hồi",
-          "Ma Trận",
-          "Nghịch Lý Của Hiểu Biết",
-          "Nhân Quả",
-          "Nhị Nguyên",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Gematria.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/index.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Vận Chín.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
-          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
-        ],
-        "words": 1472,
-        "summary": "**Karma Disclosure là giả thuyết rằng quyền lực không chỉ che giấu kế hoạch; nó còn để lại dấu vết công khai dưới dạng fiction, symbol, ritual, slogan hoặc \"joke\" để biến sự thật thành thứ ai cũng thấy nhưng ít người xử lý.** Đọc đúng, đây không phải giấy phé…"
-      },
-      {
         "path": "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "title": "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "domain": "esoterica",
@@ -2066,6 +2069,7 @@
         "backlinks": [
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
           "esoterica/Cabal.md",
           "esoterica/Gaia - Trái Đất Có Ý Thức.md",
           "esoterica/Gnosis.md",
@@ -3189,6 +3193,82 @@
         "summary": "**Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo ra nó.** Đọc nông, karma thành công cụ dọa dân. Đọc sâu, karma là cơ chế học của linh h…"
       },
       {
+        "path": "esoterica/Gematria.md",
+        "title": "Gematria — Ngôn Ngữ Bí Mật Của Số",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "mind-control"
+        ],
+        "aliases": [],
+        "headings": [
+          "Gematria — Ngôn Ngữ Bí Mật Của Số",
+          "I. Nguồn Gốc — Khi Chữ Cái Là Số",
+          "Pythagoras và Miletus",
+          "Hebrew và Kabbalah",
+          "Gematria Cổ Hơn English",
+          "II. Các Hệ Thống — Nhiều Chiều, Một Ngôn Ngữ",
+          "Simple/Ordinal Gematria",
+          "Reverse Ordinal",
+          "Full Reduction",
+          "English Extended",
+          "III. Ngôn Ngữ Của Elite — Đánh Dấu Trong Bóng Tối",
+          "Tại Sao Elite Dùng Gematria?",
+          "9/11 — Case Study",
+          "Pattern Trong Tin Tức",
+          "IV. Thương Hiệu và Sigils — Gematria Trong Cuộc Sống Hằng Ngày",
+          "Google",
+          "Amazon",
+          "Apple",
+          "V. Decode Bạn — Tên Của Bạn Là Gì?",
+          "Cách tính",
+          "Ý nghĩa các con số gốc",
+          "VI. Cảnh Báo — Con Dao Hai Lưỡi",
+          "Pattern Recognition Bias",
+          "Confirmation Bias",
+          "Healthy Approach",
+          "VII. Kết — Bạn Có Muốn Thấy Không?",
+          "Liên Kết / Connections",
+          "Tài Liệu Tham Khảo / References"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Ma Trận",
+          "Manly P. Hall",
+          "Saturn Cube",
+          "Sự Thật Về Vụ Sập Tháp Đôi WTC",
+          "Word Magic - Ngôn Ngữ Của Phù Thủy"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Manly P. Hall.md",
+          "esoterica/Saturn Cube.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md"
+        ],
+        "backlinks": [
+          "esoterica/Biểu Tượng Baphomet.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Cabal.md",
+          "esoterica/index.md",
+          "esoterica/Manly P. Hall.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Saturn Cube.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "index.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/MAGA Và Số 42.md"
+        ],
+        "words": 2352,
+        "summary": "**\"Vũ trụ được viết bằng ngôn ngữ toán học.\"**"
+      },
+      {
         "path": "esoterica/Một Đời Phù Vân.md",
         "title": "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu",
         "domain": "esoterica",
@@ -3302,6 +3382,70 @@
         "summary": "*A Life Like Floating Clouds — The Story of an Ordinary Man*"
       },
       {
+        "path": "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "title": "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "hollywood",
+          "matrix",
+          "mind-control"
+        ],
+        "aliases": [
+          "Lập Trình Tiên Đoán",
+          "Predictive Programming"
+        ],
+        "headings": [
+          "Predictive Programming — Cấy Tương Lai Vào Tiềm Thức",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Công Thức / The Loop",
+          "Vì Sao Fiction Mạnh?",
+          "Case Patterns / Các Mẫu Hình",
+          "The Simpsons Problem",
+          "Inception Là Meta-Case",
+          "Red Flags / Dấu Hiệu Nên Đọc Kỹ",
+          "Không Paranoid, Không Ngây Thơ",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Cách Đọc Red Pill Wiki",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Ma Trận.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        ],
+        "backlinks": [
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/index.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "index.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
+        ],
+        "words": 928,
+        "summary": "**Predictive programming là giả thuyết rằng media không chỉ phản ánh tương lai mà còn tập cho công chúng cảm thấy tương lai đó quen thuộc trước khi nó được triển khai.** Đọc đúng, đây không phải trò gom mọi trùng hợp thành \"tiên tri\"; đây là kỷ luật nhìn repe…"
+      },
+      {
         "path": "esoterica/S.E.X.md",
         "title": "S.E.X (Sacred Energy eXchange)",
         "domain": "esoterica",
@@ -3364,81 +3508,6 @@
         ],
         "words": 1261,
         "summary": "**S.E.X** trong cách đọc esoteric là **Sacred Energy eXchange**: trao đổi năng lượng thiêng liêng. Điều này không phủ định sinh học, khoái cảm hay tâm lý. Nó đặt tình dục vào đúng độ sâu: một hành động nơi thân thể, hệ thần kinh, ký ức, hormone, vô thức, nghi…"
-      },
-      {
-        "path": "esoterica/Gematria.md",
-        "title": "Gematria — Ngôn Ngữ Bí Mật Của Số",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "mind-control"
-        ],
-        "aliases": [],
-        "headings": [
-          "Gematria — Ngôn Ngữ Bí Mật Của Số",
-          "I. Nguồn Gốc — Khi Chữ Cái Là Số",
-          "Pythagoras và Miletus",
-          "Hebrew và Kabbalah",
-          "Gematria Cổ Hơn English",
-          "II. Các Hệ Thống — Nhiều Chiều, Một Ngôn Ngữ",
-          "Simple/Ordinal Gematria",
-          "Reverse Ordinal",
-          "Full Reduction",
-          "English Extended",
-          "III. Ngôn Ngữ Của Elite — Đánh Dấu Trong Bóng Tối",
-          "Tại Sao Elite Dùng Gematria?",
-          "9/11 — Case Study",
-          "Pattern Trong Tin Tức",
-          "IV. Thương Hiệu và Sigils — Gematria Trong Cuộc Sống Hằng Ngày",
-          "Google",
-          "Amazon",
-          "Apple",
-          "V. Decode Bạn — Tên Của Bạn Là Gì?",
-          "Cách tính",
-          "Ý nghĩa các con số gốc",
-          "VI. Cảnh Báo — Con Dao Hai Lưỡi",
-          "Pattern Recognition Bias",
-          "Confirmation Bias",
-          "Healthy Approach",
-          "VII. Kết — Bạn Có Muốn Thấy Không?",
-          "Liên Kết / Connections",
-          "Tài Liệu Tham Khảo / References"
-        ],
-        "wikilinks": [
-          "Elite",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Ma Trận",
-          "Manly P. Hall",
-          "Saturn Cube",
-          "Sự Thật Về Vụ Sập Tháp Đôi WTC",
-          "Word Magic - Ngôn Ngữ Của Phù Thủy"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Manly P. Hall.md",
-          "esoterica/Saturn Cube.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md"
-        ],
-        "backlinks": [
-          "esoterica/Biểu Tượng Baphomet.md",
-          "esoterica/Cabal.md",
-          "esoterica/index.md",
-          "esoterica/Manly P. Hall.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Saturn Cube.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "index.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/MAGA Và Số 42.md"
-        ],
-        "words": 2352,
-        "summary": "**\"Vũ trụ được viết bằng ngôn ngữ toán học.\"**"
       },
       {
         "path": "esoterica/Kundalini.md",
@@ -3506,69 +3575,6 @@
         ],
         "words": 1186,
         "summary": "**Kundalini là ngôn ngữ cổ để nói về sinh lực nguyên thủy khi nó không chỉ phục vụ sinh tồn và tình dục, mà được chuyển hóa thành ý thức, trực giác và hiện diện.** Trong vault, Kundalini là cầu nối giữa Chakra, Năng Lượng Tình Dục, Tinh Khí Thần, Tuyến Tùng v…"
-      },
-      {
-        "path": "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "title": "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "hollywood",
-          "matrix",
-          "mind-control"
-        ],
-        "aliases": [
-          "Lập Trình Tiên Đoán",
-          "Predictive Programming"
-        ],
-        "headings": [
-          "Predictive Programming — Cấy Tương Lai Vào Tiềm Thức",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Công Thức / The Loop",
-          "Vì Sao Fiction Mạnh?",
-          "Case Patterns / Các Mẫu Hình",
-          "The Simpsons Problem",
-          "Inception Là Meta-Case",
-          "Red Flags / Dấu Hiệu Nên Đọc Kỹ",
-          "Không Paranoid, Không Ngây Thơ",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Cách Đọc Red Pill Wiki",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Ma Trận.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-        ],
-        "backlinks": [
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/index.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
-        ],
-        "words": 928,
-        "summary": "**Predictive programming là giả thuyết rằng media không chỉ phản ánh tương lai mà còn tập cho công chúng cảm thấy tương lai đó quen thuộc trước khi nó được triển khai.** Đọc đúng, đây không phải trò gom mọi trùng hợp thành \"tiên tri\"; đây là kỷ luật nhìn repe…"
       },
       {
         "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
@@ -5124,6 +5130,69 @@
         ],
         "words": 1049,
         "summary": "**Tứ Linh gồm Long, Lân, Quy, Phụng: bốn archetype linh vật trong văn hóa Á Đông, mã hóa quan hệ giữa thiên khí, địa khí, vương quyền, đạo đức, trường thọ và tái sinh. Đây không chỉ là motif trang trí. Nó là symbolic technology của một nền văn hóa từng đọc th…"
+      },
+      {
+        "path": "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "title": "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+        "domain": "esoterica",
+        "tags": [
+          "collective-unconscious",
+          "esoterica",
+          "football",
+          "media",
+          "predictive-programming",
+          "symbolism",
+          "world-cup"
+        ],
+        "aliases": [
+          "Brazil 2026",
+          "Collective Field Myth",
+          "Joga Bonito 2026",
+          "Return of Football Soul",
+          "World Cup 2026 Brazil Symbolism"
+        ],
+        "headings": [
+          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc Bài Này",
+          "Từ Khóa Cần Hiểu",
+          "2022 Là King Myth, 2026 Có Vẻ Là Field Myth",
+          "WE ARE 26 Và Sự Tan Của Một Trung Tâm Duy Nhất",
+          "TRIONDA: Ba Làn Sóng Và Một Tournament Không Có Một Mũi Nhọn",
+          "Brazil Không Cần Neymar Để Là Brazil",
+          "Vinícius, Endrick, Rodrygo Và Cái Bẫy Của Một Gương Mặt Mới",
+          "IShowSpeed, Brazil Flag Và Creator-Culture Omen",
+          "Spain Và England: Data Pick Không Phải Myth Pick",
+          "Khi Một Nhà Vô Địch Không Cần Được Nhớ Bằng Một Gương Mặt",
+          "Synthesis: Brazil Như Linh Hồn Bóng Đá Trở Về",
+          "Related"
+        ],
+        "wikilinks": [
+          "Gematria",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "MOC - Epistemology & Propaganda",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "MOC - Epistemology & Propaganda.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        ],
+        "backlinks": [
+          "esoterica/index.md",
+          "index.md",
+          "MOC - Epistemology & Propaganda.md"
+        ],
+        "words": 2584,
+        "summary": "**Nếu World Cup 2022 là nghi lễ hoàn tất myth cá nhân của Messi, World Cup 2026 có vẻ đang được dựng như một nghi lễ tập thể: ba quốc gia, bốn mươi tám đội, ba làn sóng, nhiều thành phố, nhiều poster, nhiều concert, nhiều creator và một field truyền thông phâ…"
       },
       {
         "path": "esoterica/Cabal.md",
@@ -8055,6 +8124,7 @@
         ],
         "backlinks": [
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
           "esoterica/Gaia - Trái Đất Có Ý Thức.md",
           "esoterica/Gnosis.md",
           "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
@@ -11664,6 +11734,7 @@
           "Avatar - Disclosure Của Eywa & Gaia",
           "Bitcoin",
           "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
           "Báo Cáo 2030",
           "Bộ Não Rỗng và AI Brain Rot",
           "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
@@ -11799,6 +11870,7 @@
           "esoterica/Annunaki.md",
           "esoterica/Atlantis.md",
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
           "esoterica/Chakra.md",
           "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
           "esoterica/Gaia - Trái Đất Có Ý Thức.md",
@@ -11919,7 +11991,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 2614,
+        "words": 2701,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -11945,6 +12017,7 @@
         ],
         "wikilinks": [
           "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
           "Báo Cáo 2030",
           "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
           "Climate Anxiety as Control - Fear-Based Compliance",
@@ -11966,6 +12039,7 @@
         "mdlinks": [],
         "outlinks": [
           "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
           "esoterica/Gematria.md",
           "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
           "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -11987,6 +12061,7 @@
         "backlinks": [
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/index.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
           "esoterica/Cabal.md",
           "esoterica/index.md",
           "esoterica/Ma Trận.md",
@@ -12015,7 +12090,7 @@
           "science-tech/index.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
-        "words": 636,
+        "words": 699,
         "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
       },
       {
@@ -13680,6 +13755,48 @@
         "summary": "**Antikythera là bằng chứng mạnh rằng cổ nhân có thiên văn cơ học tinh vi hơn narrative phổ thông từng dạy. Nhưng nó không tự động “chứng minh Địa Tâm là thật”; nó chứng minh rằng một mô hình bầu trời nhìn từ Trái Đất có thể được mã hóa cơ khí với độ phức tạp…"
       },
       {
+        "path": "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+        "title": "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "domain": "science-tech",
+        "tags": [
+          "agenda-2030",
+          "dopamine",
+          "generation",
+          "information-warfare",
+          "psychology",
+          "science-tech"
+        ],
+        "aliases": [
+          "Algorithmic Worldview",
+          "For You Page",
+          "Information Warfare",
+          "TikTok Algorithm",
+          "TikTok Brain"
+        ],
+        "headings": [
+          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z?",
+          "Từ Khóa Cần Hiểu",
+          "Não Bị Cắt Nhỏ",
+          "Worldview Được Feed",
+          "Censorship Mềm",
+          "Exit"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "index.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/index.md",
+          "MOC - Epistemology & Propaganda.md",
+          "science-tech/index.md"
+        ],
+        "words": 889,
+        "summary": "**TikTok không chỉ là app giải trí. Nó là một feedback engine: đo phản ứng vi mô của người dùng, tối ưu dopamine, rồi lặp lại frame cho đến khi worldview có cảm giác như tự chọn. Ai kiểm soát feed không cần kiểm soát mọi suy nghĩ. Chỉ cần kiểm soát thứ xuất h…"
+      },
+      {
         "path": "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
         "title": "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
         "domain": "science-tech",
@@ -13722,47 +13839,6 @@
         ],
         "words": 821,
         "summary": "**Transhumanism được bán như tự do nâng cấp bản thân. Nhưng nếu hạ tầng nâng cấp nằm trong tay Big Tech, military, insurance, employer và state, câu hỏi không còn là “con người có nên mạnh hơn không?” Câu hỏi là: ai sở hữu layer nằm giữa cơ thể, tâm trí và má…"
-      },
-      {
-        "path": "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "title": "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "domain": "science-tech",
-        "tags": [
-          "agenda-2030",
-          "dopamine",
-          "generation",
-          "information-warfare",
-          "psychology",
-          "science-tech"
-        ],
-        "aliases": [
-          "Algorithmic Worldview",
-          "For You Page",
-          "Information Warfare",
-          "TikTok Algorithm",
-          "TikTok Brain"
-        ],
-        "headings": [
-          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z?",
-          "Từ Khóa Cần Hiểu",
-          "Não Bị Cắt Nhỏ",
-          "Worldview Được Feed",
-          "Censorship Mềm",
-          "Exit"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [
-          "index.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/index.md",
-          "MOC - Epistemology & Propaganda.md",
-          "science-tech/index.md"
-        ],
-        "words": 889,
-        "summary": "**TikTok không chỉ là app giải trí. Nó là một feedback engine: đo phản ứng vi mô của người dùng, tối ưu dopamine, rồi lặp lại frame cho đến khi worldview có cảm giác như tự chọn. Ai kiểm soát feed không cần kiểm soát mọi suy nghĩ. Chỉ cần kiểm soát thứ xuất h…"
       }
     ]
   },
@@ -13825,6 +13901,7 @@
         "Avatar - Disclosure Của Eywa & Gaia",
         "Bitcoin",
         "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
         "Báo Cáo 2030",
         "Bộ Não Rỗng và AI Brain Rot",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
@@ -13960,6 +14037,7 @@
         "esoterica/Annunaki.md",
         "esoterica/Atlantis.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Chakra.md",
         "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
@@ -14080,7 +14158,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2614,
+      "words": 2701,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -14973,6 +15051,105 @@
       "summary": "**Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…"
     },
     {
+      "path": "MOC - Epistemology & Propaganda.md",
+      "title": "MOC - Epistemology & Propaganda",
+      "domain": "root",
+      "tags": [
+        "epistemology",
+        "moc",
+        "propaganda"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Epistemology & Propaganda",
+        "How To Read This Map",
+        "Start Here",
+        "Reading Discipline",
+        "Mind Control & Media",
+        "Language, Symbol & Frame Control",
+        "Institutional Knowledge",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+        "Báo Cáo 2030",
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Climate Anxiety as Control - Fear-Based Compliance",
+        "Cách Đọc Red Pill Wiki",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Gematria",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Khoa Học Xét Lại",
+        "Kiểm Soát Tâm Trí",
+        "Mental Model",
+        "Mỹ Là Ai Cập Tái Sinh",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nhị Nguyên",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "Word Magic - Ngôn Ngữ Của Phù Thủy"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "esoterica/Gematria.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nhị Nguyên.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/index.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "esoterica/Cabal.md",
+        "esoterica/index.md",
+        "esoterica/Ma Trận.md",
+        "health/index.md",
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Ancient Civilizations & Hidden History.md",
+        "MOC - Esoterica & Consciousness.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/MAGA Và Số 42.md",
+        "politics-conspiracy/MindGeek.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Sự thật về ma túy.md",
+        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+        "politics-conspiracy/Trái Đất Phẳng.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/index.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "words": 699,
+      "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
+    },
+    {
       "path": "health/Y Tế Tự Nhiên.md",
       "title": "Y Tế Tự Nhiên",
       "domain": "health",
@@ -15060,102 +15237,6 @@
       ],
       "words": 1127,
       "summary": "**Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…"
-    },
-    {
-      "path": "MOC - Epistemology & Propaganda.md",
-      "title": "MOC - Epistemology & Propaganda",
-      "domain": "root",
-      "tags": [
-        "epistemology",
-        "moc",
-        "propaganda"
-      ],
-      "aliases": [],
-      "headings": [
-        "MOC - Epistemology & Propaganda",
-        "How To Read This Map",
-        "Start Here",
-        "Reading Discipline",
-        "Mind Control & Media",
-        "Language, Symbol & Frame Control",
-        "Institutional Knowledge",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-        "Báo Cáo 2030",
-        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-        "Climate Anxiety as Control - Fear-Based Compliance",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Gematria",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "Khoa Học Xét Lại",
-        "Kiểm Soát Tâm Trí",
-        "Mental Model",
-        "Mỹ Là Ai Cập Tái Sinh",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nhị Nguyên",
-        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "Word Magic - Ngôn Ngữ Của Phù Thủy"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Gematria.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nhị Nguyên.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/index.md",
-        "esoterica/Cabal.md",
-        "esoterica/index.md",
-        "esoterica/Ma Trận.md",
-        "health/index.md",
-        "index.md",
-        "mental-models/index.md",
-        "MOC - Ancient Civilizations & Hidden History.md",
-        "MOC - Esoterica & Consciousness.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/MAGA Và Số 42.md",
-        "politics-conspiracy/MindGeek.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
-        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-        "politics-conspiracy/Trái Đất Phẳng.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 636,
-      "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     {
       "path": "mental-models/Individuation.md",
@@ -15401,6 +15482,7 @@
       "wikilinks": [
         "Atlantis",
         "Biểu Tượng Baphomet",
+        "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
         "Chakra",
         "Cách Đọc Red Pill Wiki",
         "Gematria",
@@ -15444,6 +15526,7 @@
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Atlantis.md",
         "esoterica/Biểu Tượng Baphomet.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Chakra.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
@@ -15487,7 +15570,7 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 893,
+      "words": 945,
       "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
     },
     {
@@ -16523,6 +16606,86 @@
       "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
     },
     {
+      "path": "mental-models/Vô Thức Tập Thể.md",
+      "title": "Vô Thức Tập Thể",
+      "domain": "mental-models",
+      "tags": [
+        "consciousness",
+        "jung",
+        "mental-model"
+      ],
+      "aliases": [
+        "Akashic Records",
+        "Collective Unconscious",
+        "Vô Thức Tập Thể (Akashic Records)"
+      ],
+      "headings": [
+        "Vô Thức Tập Thể (Collective Unconscious)",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Jung Nói Gì?",
+        "2. Archetype Là Gì?",
+        "3. Dream, Myth Và Culture",
+        "4. Akashic Records Connection",
+        "5. Thiên Tài Và “Download”",
+        "6. Ma Trận Và Vô Thức Tập Thể",
+        "7. Individuation Là Cách Lấy Lại Quyền Truy Cập",
+        "Practice / Thực Hành",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "Gnosis",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Individuation",
+        "Ma Trận",
+        "Monad",
+        "Nguyên Mẫu",
+        "Năng Lượng Aether",
+        "Tâm Lý Học Jung"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "science-tech/Năng Lượng Aether.md"
+      ],
+      "backlinks": [
+        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Monad.md",
+        "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+        "health/Tuyến Tùng.md",
+        "index.md",
+        "mental-models/index.md",
+        "mental-models/Individuation.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "MOC - Esoterica & Consciousness.md",
+        "science-tech/Nikola Tesla.md"
+      ],
+      "words": 896,
+      "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
+    },
+    {
       "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
       "title": "Nghịch Lý Của Hiểu Biết",
       "domain": "esoterica",
@@ -16609,85 +16772,6 @@
       ],
       "words": 1487,
       "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
-    },
-    {
-      "path": "mental-models/Vô Thức Tập Thể.md",
-      "title": "Vô Thức Tập Thể",
-      "domain": "mental-models",
-      "tags": [
-        "consciousness",
-        "jung",
-        "mental-model"
-      ],
-      "aliases": [
-        "Akashic Records",
-        "Collective Unconscious",
-        "Vô Thức Tập Thể (Akashic Records)"
-      ],
-      "headings": [
-        "Vô Thức Tập Thể (Collective Unconscious)",
-        "Vault Position / Vị Trí Trong Vault",
-        "1. Jung Nói Gì?",
-        "2. Archetype Là Gì?",
-        "3. Dream, Myth Và Culture",
-        "4. Akashic Records Connection",
-        "5. Thiên Tài Và “Download”",
-        "6. Ma Trận Và Vô Thức Tập Thể",
-        "7. Individuation Là Cách Lấy Lại Quyền Truy Cập",
-        "Practice / Thực Hành",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "Gnosis",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Individuation",
-        "Ma Trận",
-        "Monad",
-        "Nguyên Mẫu",
-        "Năng Lượng Aether",
-        "Tâm Lý Học Jung"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Gnosis.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "mental-models/Individuation.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "science-tech/Năng Lượng Aether.md"
-      ],
-      "backlinks": [
-        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-        "esoterica/Monad.md",
-        "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/Sacred Geometry.md",
-        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-        "health/Tuyến Tùng.md",
-        "index.md",
-        "mental-models/index.md",
-        "mental-models/Individuation.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "MOC - Esoterica & Consciousness.md",
-        "science-tech/Nikola Tesla.md"
-      ],
-      "words": 896,
-      "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
     }
   ],
   "orphans": [
@@ -17181,6 +17265,48 @@
       "summary": "**UBI không chỉ là câu hỏi kinh tế “ai trả tiền?”. Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
     },
     {
+      "path": "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+      "title": "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+      "domain": "science-tech",
+      "tags": [
+        "agenda-2030",
+        "dopamine",
+        "generation",
+        "information-warfare",
+        "psychology",
+        "science-tech"
+      ],
+      "aliases": [
+        "Algorithmic Worldview",
+        "For You Page",
+        "Information Warfare",
+        "TikTok Algorithm",
+        "TikTok Brain"
+      ],
+      "headings": [
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z?",
+        "Từ Khóa Cần Hiểu",
+        "Não Bị Cắt Nhỏ",
+        "Worldview Được Feed",
+        "Censorship Mềm",
+        "Exit"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "index.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "mental-models/index.md",
+        "MOC - Epistemology & Propaganda.md",
+        "science-tech/index.md"
+      ],
+      "words": 889,
+      "summary": "**TikTok không chỉ là app giải trí. Nó là một feedback engine: đo phản ứng vi mô của người dùng, tối ưu dopamine, rồi lặp lại frame cho đến khi worldview có cảm giác như tự chọn. Ai kiểm soát feed không cần kiểm soát mọi suy nghĩ. Chỉ cần kiểm soát thứ xuất h…"
+    },
+    {
       "path": "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
       "title": "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
       "domain": "science-tech",
@@ -17263,53 +17389,12 @@
       ],
       "words": 779,
       "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
-    },
-    {
-      "path": "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-      "title": "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-      "domain": "science-tech",
-      "tags": [
-        "agenda-2030",
-        "dopamine",
-        "generation",
-        "information-warfare",
-        "psychology",
-        "science-tech"
-      ],
-      "aliases": [
-        "Algorithmic Worldview",
-        "For You Page",
-        "Information Warfare",
-        "TikTok Algorithm",
-        "TikTok Brain"
-      ],
-      "headings": [
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z?",
-        "Từ Khóa Cần Hiểu",
-        "Não Bị Cắt Nhỏ",
-        "Worldview Được Feed",
-        "Censorship Mềm",
-        "Exit"
-      ],
-      "wikilinks": [],
-      "mdlinks": [],
-      "outlinks": [],
-      "backlinks": [
-        "index.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Gen Z - Phân Tích Phản Biện.md",
-        "mental-models/index.md",
-        "MOC - Epistemology & Propaganda.md",
-        "science-tech/index.md"
-      ],
-      "words": 889,
-      "summary": "**TikTok không chỉ là app giải trí. Nó là một feedback engine: đo phản ứng vi mô của người dùng, tối ưu dopamine, rồi lặp lại frame cho đến khi worldview có cảm giác như tự chọn. Ai kiểm soát feed không cần kiểm soát mọi suy nghĩ. Chỉ cần kiểm soát thứ xuất h…"
     }
   ],
   "topTags": [
     [
       "esoterica",
-      85
+      86
     ],
     [
       "mental-model",
@@ -17340,12 +17425,12 @@
       13
     ],
     [
-      "matrix",
+      "symbolism",
       11
     ],
     [
-      "symbolism",
-      10
+      "matrix",
+      11
     ],
     [
       "sovereignty",
@@ -17428,6 +17513,10 @@
       4
     ],
     [
+      "predictive-programming",
+      4
+    ],
+    [
       "cycles",
       4
     ],
@@ -17465,10 +17554,6 @@
     ],
     [
       "power-structure",
-      3
-    ],
-    [
-      "predictive-programming",
       3
     ],
     [
@@ -17588,6 +17673,22 @@
       1
     ],
     [
+      "collective-unconscious",
+      1
+    ],
+    [
+      "football",
+      1
+    ],
+    [
+      "media",
+      1
+    ],
+    [
+      "world-cup",
+      1
+    ],
+    [
       "earth-energy",
       1
     ],
@@ -17689,22 +17790,6 @@
     ],
     [
       "relationships",
-      1
-    ],
-    [
-      "soul",
-      1
-    ],
-    [
-      "buddhist-cosmology",
-      1
-    ],
-    [
-      "great-wall",
-      1
-    ],
-    [
-      "mount-meru",
       1
     ]
   ],
@@ -17896,6 +17981,7 @@
       ],
       "wikilinks": [
         "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
         "Báo Cáo 2030",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
         "Climate Anxiety as Control - Fear-Based Compliance",
@@ -17917,6 +18003,7 @@
       "mdlinks": [],
       "outlinks": [
         "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Gematria.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -17938,6 +18025,7 @@
       "backlinks": [
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/index.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Cabal.md",
         "esoterica/index.md",
         "esoterica/Ma Trận.md",
@@ -17966,7 +18054,7 @@
         "science-tech/index.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 636,
+      "words": 699,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     "MOC - Esoterica & Consciousness.md": {
@@ -19827,6 +19915,69 @@
       "words": 1362,
       "summary": "**Baphomet là một biểu tượng của đối cực bị nén vào một thân: người và thú, nam và nữ, trên và dưới, sáng và tối, linh và dục.** Đọc nông, nó chỉ là \"hình Satan\". Đọc kỹ, nó là một bài test về symbolic literacy: người nhìn có phân biệt được lịch sử, huyền học…"
     },
+    "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md": {
+      "path": "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+      "title": "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+      "domain": "esoterica",
+      "tags": [
+        "collective-unconscious",
+        "esoterica",
+        "football",
+        "media",
+        "predictive-programming",
+        "symbolism",
+        "world-cup"
+      ],
+      "aliases": [
+        "Brazil 2026",
+        "Collective Field Myth",
+        "Joga Bonito 2026",
+        "Return of Football Soul",
+        "World Cup 2026 Brazil Symbolism"
+      ],
+      "headings": [
+        "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+        "Vault Position / Vị Trí Trong Vault",
+        "Evidence Discipline / Cách Đọc Bài Này",
+        "Từ Khóa Cần Hiểu",
+        "2022 Là King Myth, 2026 Có Vẻ Là Field Myth",
+        "WE ARE 26 Và Sự Tan Của Một Trung Tâm Duy Nhất",
+        "TRIONDA: Ba Làn Sóng Và Một Tournament Không Có Một Mũi Nhọn",
+        "Brazil Không Cần Neymar Để Là Brazil",
+        "Vinícius, Endrick, Rodrygo Và Cái Bẫy Của Một Gương Mặt Mới",
+        "IShowSpeed, Brazil Flag Và Creator-Culture Omen",
+        "Spain Và England: Data Pick Không Phải Myth Pick",
+        "Khi Một Nhà Vô Địch Không Cần Được Nhớ Bằng Một Gương Mặt",
+        "Synthesis: Brazil Như Linh Hồn Bóng Đá Trở Về",
+        "Related"
+      ],
+      "wikilinks": [
+        "Gematria",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "MOC - Epistemology & Propaganda",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gematria.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "MOC - Epistemology & Propaganda.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+      ],
+      "backlinks": [
+        "esoterica/index.md",
+        "index.md",
+        "MOC - Epistemology & Propaganda.md"
+      ],
+      "words": 2584,
+      "summary": "**Nếu World Cup 2022 là nghi lễ hoàn tất myth cá nhân của Messi, World Cup 2026 có vẻ đang được dựng như một nghi lễ tập thể: ba quốc gia, bốn mươi tám đội, ba làn sóng, nhiều thành phố, nhiều poster, nhiều concert, nhiều creator và một field truyền thông phâ…"
+    },
     "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md": {
       "path": "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
       "title": "Bản Đồ Năng Lượng Đất Mẹ",
@@ -20385,6 +20536,7 @@
       ],
       "backlinks": [
         "esoterica/Biểu Tượng Baphomet.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Cabal.md",
         "esoterica/index.md",
         "esoterica/Manly P. Hall.md",
@@ -20560,6 +20712,7 @@
       "backlinks": [
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Cabal.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gnosis.md",
@@ -20768,6 +20921,7 @@
       "backlinks": [
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
@@ -22694,6 +22848,7 @@
       ],
       "backlinks": [
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/index.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -24293,6 +24448,7 @@
       "wikilinks": [
         "Atlantis",
         "Biểu Tượng Baphomet",
+        "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
         "Chakra",
         "Cách Đọc Red Pill Wiki",
         "Gematria",
@@ -24336,6 +24492,7 @@
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Atlantis.md",
         "esoterica/Biểu Tượng Baphomet.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Chakra.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
@@ -24379,7 +24536,7 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 893,
+      "words": 945,
       "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
     },
     "esoterica/Đạo.md": {
@@ -26171,6 +26328,7 @@
         "Avatar - Disclosure Của Eywa & Gaia",
         "Bitcoin",
         "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
         "Báo Cáo 2030",
         "Bộ Não Rỗng và AI Brain Rot",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
@@ -26306,6 +26464,7 @@
         "esoterica/Annunaki.md",
         "esoterica/Atlantis.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Chakra.md",
         "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
@@ -26426,7 +26585,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2614,
+      "words": 2701,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
@@ -28230,6 +28389,7 @@
       ],
       "backlinks": [
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gnosis.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
@@ -31106,6 +31266,7 @@
       "mdlinks": [],
       "outlinks": [],
       "backlinks": [
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",

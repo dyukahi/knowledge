@@ -54,6 +54,7 @@ Discernment không phải nghi ngờ mọi thứ. Discernment là biết mỗi c
 - [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] — tương lai được diễn tập trước bằng fiction.
 - [[Karma Disclosure - Truth Hidden In Plain Sight]] — revelation method, consent và truth in plain sight.
 - [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — algorithmic feed như worldview assignment.
+- [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — World Cup 2026 as a case study in collective media myth, creator culture and symbolic prediction discipline.
 
 Propaganda hiện đại ít giống một bài diễn văn. Nó giống một môi trường sống.
 
@@ -65,6 +66,7 @@ Propaganda hiện đại ít giống một bài diễn văn. Nó giống một m
 - [[Gematria]] — number/symbol layer khi đọc culture và ritual timing.
 - [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]] — science screen, child myth screen, adult cinema screen.
 - [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]] — case study alien/disclosure như multi-channel programming.
+- [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — sports/media symbolism, wordplay, creator culture and myth-template reading.
 - [[Mỹ Là Ai Cập Tái Sinh]] — America as symbol system: dollar, obelisk, pyramid, NASA and civic religion.
 
 Ai đặt tên được hiện tượng thường thắng nửa trận. UFO thành UAP là một ví dụ: cùng một hiện tượng, nhưng frame đã đổi từ fringe sang institutional.
@@ -95,6 +97,7 @@ Epistemology là phòng tuyến đầu tiên của sovereignty.
 ## Related
 
 - [[Cách Đọc Red Pill Wiki]]
+- [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]
 - [[Khoa Học Xét Lại]]
 - [[Kiểm Soát Tâm Trí]]
 - [[Word Magic - Ngôn Ngữ Của Phù Thủy]]
