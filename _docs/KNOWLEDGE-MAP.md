@@ -7,7 +7,7 @@
 - **Notes scanned:** 194
 - **Top-level domains:** 8
 - **Tags detected:** 186
-- **Resolved internal edges:** 1983
+- **Resolved internal edges:** 1984
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 3
 
@@ -129,7 +129,7 @@ Recommended note types:
 - [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `32`, backlinks `17`, outlinks `15` — #crypto-finance, #moc, #sovereignty
 - [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `31`, backlinks `14`, outlinks `17` — #epistemology, #meta, #navigation
 - [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]] — degree `26`, backlinks `10`, outlinks `16` — #esoterica, #hidden-history, #moc
-- [[MOC - Market Psychology & Risk|MOC - Market Psychology & Risk]] — degree `16`, backlinks `4`, outlinks `12` — #crypto-finance, #market-psychology, #mental-model, #moc, #risk-management
+- [[MOC - Market Psychology & Risk|MOC - Market Psychology & Risk]] — degree `17`, backlinks `5`, outlinks `12` — #crypto-finance, #market-psychology, #mental-model, #moc, #risk-management
 - [[claude|Schema (LLM Instructions)]] — degree `0`, backlinks `0`, outlinks `0`
 - [[README|🧠 Knowledge Base]] — degree `0`, backlinks `0`, outlinks `0`
 

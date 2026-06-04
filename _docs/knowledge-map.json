@@ -12,7 +12,7 @@
       "science-tech": 17
     },
     "tags": 186,
-    "wikilinkEdges": 1983,
+    "wikilinkEdges": 1984,
     "brokenLinks": 0,
     "orphans": 3
   },
@@ -9053,6 +9053,74 @@
         "summary": "**Mental model là bản đồ vận hành của reality trong đầu bạn.** Người có model nghèo bị sự kiện kéo đi. Người có model tốt thấy cấu trúc phía sau sự kiện, dự đoán hậu quả tốt hơn và chọn phản ứng tỉnh hơn. Trong redpill.wiki, mental model không phải mẹo năng s…"
       },
       {
+        "path": "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "title": "Ai Đứng Bên Kia Giao Dịch",
+        "domain": "mental-models",
+        "tags": [
+          "crowd-psychology",
+          "crypto-finance",
+          "market-psychology",
+          "mental-model",
+          "risk-management"
+        ],
+        "aliases": [
+          "Bull Bear Psychology",
+          "Câu Chuyện Bò và Gấu",
+          "Ownership Transfer",
+          "Tâm Lý Đám Đông Thị Trường",
+          "Who Is On The Other Side"
+        ],
+        "headings": [
+          "Ai Đứng Bên Kia Giao Dịch",
+          "Vault Position / Vị Trí Trong Vault",
+          "Câu Chuyện Bò Và Gấu",
+          "Bãi Cỏ Không Sai. Vấn Đề Là Ai Vào Lúc Nào",
+          "Mỗi Giao Dịch Là Một Cuộc Gặp Mặt",
+          "Top Không Thiếu Tin Tốt",
+          "Bottom Không Cần Tin Tốt",
+          "Elliott Wave Nếu Đọc Như Ownership Transfer",
+          "Bull Market Là Bán Risk Cho Người Đến Muộn",
+          "Bear Market Là Thanh Lọc Ownership",
+          "The Egg Man Problem",
+          "Checklist Cuối Cùng",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "MOC - Financial Sovereignty",
+          "MOC - Market Psychology & Risk",
+          "Secular Market",
+          "Sợ hãi - Tham Lam – Cân bằng",
+          "Tư Duy Lũy Thừa"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/Secular Market.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "MOC - Financial Sovereignty.md",
+          "MOC - Market Psychology & Risk.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/index.md",
+          "crypto-finance/Secular Market.md",
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+          "MOC - Financial Sovereignty.md",
+          "MOC - Market Psychology & Risk.md"
+        ],
+        "words": 2567,
+        "summary": "**Chart không phải đường giá. Chart là lịch sử của ownership transfer. Mỗi cây nến là dấu vết của một cuộc đổi tay: có người đủ sợ để bán, có người đủ tin để mua. Ở vùng top và bottom, câu hỏi quan trọng nhất không phải “tin tốt hay tin xấu?”, mà là: ai đang…"
+      },
+      {
         "path": "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "title": "UBI Conditioning - The End of Work Ethic",
         "domain": "mental-models",
@@ -9119,73 +9187,6 @@
         ],
         "words": 1501,
         "summary": "**UBI không chỉ là câu hỏi kinh tế: “ai trả tiền?” Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
-      },
-      {
-        "path": "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "title": "Ai Đứng Bên Kia Giao Dịch",
-        "domain": "mental-models",
-        "tags": [
-          "crowd-psychology",
-          "crypto-finance",
-          "market-psychology",
-          "mental-model",
-          "risk-management"
-        ],
-        "aliases": [
-          "Bull Bear Psychology",
-          "Câu Chuyện Bò và Gấu",
-          "Ownership Transfer",
-          "Tâm Lý Đám Đông Thị Trường",
-          "Who Is On The Other Side"
-        ],
-        "headings": [
-          "Ai Đứng Bên Kia Giao Dịch",
-          "Vault Position / Vị Trí Trong Vault",
-          "1. Câu Chuyện Bò Và Gấu",
-          "2. Mapping Câu Chuyện Sang Thị Trường",
-          "3. Mỗi Transaction Là Một Câu Hỏi",
-          "4. Top: Buyer Cuối Cùng Đã Xuất Hiện",
-          "5. Bottom: Seller Cuối Cùng Bị Ép Bán",
-          "6. Elliott Wave Như Ownership Transfer",
-          "7. Bull Market Là Quá Trình Bán Risk Cho Người Đến Muộn",
-          "8. Bear Market Là Quá Trình Thanh Lọc Ownership",
-          "9. The Egg Man Problem",
-          "10. Practical Checklist",
-          "11. Signal Và Noise",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bitcoin",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-          "MOC - Financial Sovereignty",
-          "Secular Market",
-          "Sợ hãi - Tham Lam – Cân bằng",
-          "Tư Duy Lũy Thừa"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "crypto-finance/Secular Market.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "MOC - Financial Sovereignty.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "crypto-finance/index.md",
-          "crypto-finance/Secular Market.md",
-          "index.md",
-          "mental-models/index.md",
-          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-          "MOC - Financial Sovereignty.md",
-          "MOC - Market Psychology & Risk.md"
-        ],
-        "words": 1540,
-        "summary": "**Mỗi giao dịch luôn có hai phía: người mua và người bán. Câu hỏi quan trọng nhất ở vùng top và bottom không phải “tin tốt hay tin xấu?”, mà là: ai đang đứng bên kia giao dịch của mình, và vì sao họ chấp nhận đứng đó?**"
       },
       {
         "path": "mental-models/Privacy Is The New Wealth.md",
@@ -12602,6 +12603,7 @@
         "backlinks": [
           "crypto-finance/index.md",
           "index.md",
+          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
           "mental-models/index.md",
           "MOC - Financial Sovereignty.md"
         ],
@@ -18094,6 +18096,7 @@
       "backlinks": [
         "crypto-finance/index.md",
         "index.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/index.md",
         "MOC - Financial Sovereignty.md"
       ],
@@ -26287,17 +26290,16 @@
       "headings": [
         "Ai Đứng Bên Kia Giao Dịch",
         "Vault Position / Vị Trí Trong Vault",
-        "1. Câu Chuyện Bò Và Gấu",
-        "2. Mapping Câu Chuyện Sang Thị Trường",
-        "3. Mỗi Transaction Là Một Câu Hỏi",
-        "4. Top: Buyer Cuối Cùng Đã Xuất Hiện",
-        "5. Bottom: Seller Cuối Cùng Bị Ép Bán",
-        "6. Elliott Wave Như Ownership Transfer",
-        "7. Bull Market Là Quá Trình Bán Risk Cho Người Đến Muộn",
-        "8. Bear Market Là Quá Trình Thanh Lọc Ownership",
-        "9. The Egg Man Problem",
-        "10. Practical Checklist",
-        "11. Signal Và Noise",
+        "Câu Chuyện Bò Và Gấu",
+        "Bãi Cỏ Không Sai. Vấn Đề Là Ai Vào Lúc Nào",
+        "Mỗi Giao Dịch Là Một Cuộc Gặp Mặt",
+        "Top Không Thiếu Tin Tốt",
+        "Bottom Không Cần Tin Tốt",
+        "Elliott Wave Nếu Đọc Như Ownership Transfer",
+        "Bull Market Là Bán Risk Cho Người Đến Muộn",
+        "Bear Market Là Thanh Lọc Ownership",
+        "The Egg Man Problem",
+        "Checklist Cuối Cùng",
         "Synthesis",
         "Related"
       ],
@@ -26306,6 +26308,7 @@
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "MOC - Financial Sovereignty",
+        "MOC - Market Psychology & Risk",
         "Secular Market",
         "Sợ hãi - Tham Lam – Cân bằng",
         "Tư Duy Lũy Thừa"
@@ -26318,7 +26321,8 @@
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
         "mental-models/Tư Duy Lũy Thừa.md",
-        "MOC - Financial Sovereignty.md"
+        "MOC - Financial Sovereignty.md",
+        "MOC - Market Psychology & Risk.md"
       ],
       "backlinks": [
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
@@ -26330,8 +26334,8 @@
         "MOC - Financial Sovereignty.md",
         "MOC - Market Psychology & Risk.md"
       ],
-      "words": 1540,
-      "summary": "**Mỗi giao dịch luôn có hai phía: người mua và người bán. Câu hỏi quan trọng nhất ở vùng top và bottom không phải “tin tốt hay tin xấu?”, mà là: ai đang đứng bên kia giao dịch của mình, và vì sao họ chấp nhận đứng đó?**"
+      "words": 2567,
+      "summary": "**Chart không phải đường giá. Chart là lịch sử của ownership transfer. Mỗi cây nến là dấu vết của một cuộc đổi tay: có người đủ sợ để bán, có người đủ tin để mua. Ở vùng top và bottom, câu hỏi quan trọng nhất không phải “tin tốt hay tin xấu?”, mà là: ai đang…"
     },
     "mental-models/Bộ Não Rỗng và AI Brain Rot.md": {
       "path": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
