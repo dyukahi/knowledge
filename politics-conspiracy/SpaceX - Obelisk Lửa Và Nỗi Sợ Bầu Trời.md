@@ -135,7 +135,7 @@ SpaceX cho ông bầu trời. Starlink cho ông lưới trời. Tesla cho ông c
 
 Đây là lý do Elon không chỉ match Iron Man. Iron Man là mask thân thiện với đại chúng: genius, funny, flawed, heroic. Shadow archetype sâu hơn là Dr. Doom: scientist-magician, technocrat-king, savior-villain, người tin rằng mình đủ thông minh để tái cấu trúc reality thay cho số đông.
 
-Elon trong myth hiện đại là Prometheus + Pharaoh + engineer-priest. Ông mang lửa xuống cho con người, nhưng cũng dựng tháp lửa hướng lên trời.
+Elon trong myth hiện đại là Prometheus + Pharaoh + engineer-priest. Ông mang lửa xuống cho con người, nhưng cũng dựng tháp lửa hướng lên trời. Ở tầng Revelation archetype, đây cũng là False Prophet function: làm signs and wonders bằng technology, khiến hạ tầng của empire có vẻ như salvation.
 
 Và mọi techno-king đều gặp một câu hỏi cổ:
 

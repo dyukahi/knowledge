@@ -273,6 +273,7 @@ Các bài dưới đây là nơi framework gặp sự kiện, culture hoặc bod
 
 ### June 4, 2026
 
+- **Trump Moonchild / Elon False Prophet dot** — added symbolic layer to [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]] and [[Mỹ Là Ai Cập Tái Sinh]]: Trump as lunar Beast-function, Elon as False Prophet / Dr. Doom archetype, X as the platform that returned the Beast's voice.
 - **[[Mỹ Là Ai Cập Tái Sinh]]** — new symbolic empire note: America as ritual Egypt updated through dollar, obelisk, NASA/Apollo, Hollywood, Wall Street and rockets.
 - **MOC layer polish** — rewrote all 7 MOC maps into a consistent navigation + essay style, synced root index counts and rebuilt the vault map.
 - **[[MOC - Market Psychology & Risk]]** — new focused map for survival discipline, ownership transfer, fear/greed, dopamine and secular market risk.
