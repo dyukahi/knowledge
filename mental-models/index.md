@@ -116,6 +116,16 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 
 ---
 
+---
+
+## Money, Dopamine & Survival Discipline
+
+- [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — survival before upside; financial noise discipline.
+- [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — why markets, apps and platforms monetize craving.
+- [[Sợ hãi - Tham Lam – Cân bằng]] — emotional balance before allocation.
+- [[Tư Duy Lũy Thừa]] — compounding requires time, and leverage kills time.
+
+
 ## Gen Z & Agenda 2030 Path
 
 - [[Gen Z - Phân Tích Phản Biện]] — platformized reality and generational conditioning.

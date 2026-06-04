@@ -225,3 +225,9 @@ Một người mất attention sẽ mất memory, mất will, mất depth, mất
 - [[Schadenfreude - Dopamine Phản Diện]]
 - [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
 - [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]]
+---
+
+## Financial Dopamine: Futures Group Là TikTok Của Lòng Tham
+
+[[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] là ứng dụng thực chiến của mental model này trong tài chính: giữ vốn, chống dopamine, tránh leverage và sống sót trước khi tìm upside.
+

@@ -23,9 +23,16 @@ related:
 1. [[Điều Mà Trường Học Không Dạy Về Tiền]]
 2. [[Tiền Giấy - Tiền Mặt]]
 3. [[Tiền Pháp Định]]
-4. [[Bitcoin]]
-5. [[Privacy]]
-6. [[Chainlink - Mắt Xích Của Tokenized World]]
+4. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]
+5. [[Bitcoin]]
+6. [[Privacy]]
+7. [[Chainlink - Mắt Xích Của Tokenized World]]
+
+---
+
+## Survival Discipline
+
+- [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — survival before upside; chống leverage, dopamine trading, sĩ diện và noise tài chính.
 
 ---
 

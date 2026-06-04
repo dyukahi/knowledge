@@ -41,7 +41,8 @@ Orientation: start here if money still feels like salary, price and bank balance
 2. [[Tiền tiền tiền]] — read money as stored attention, labor and choice.
 3. [[Tiền Giấy - Tiền Mặt]] — separate cash, paper promise and permission rail.
 4. [[Tiền Pháp Định]] — see fiat as debt architecture, not neutral medium.
-5. [[Giàu Không Nhờ May Mắn]] — move from complaint into agency and production.
+5. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — install survival discipline before markets, Bitcoin or leverage.
+6. [[Giàu Không Nhờ May Mắn]] — move from complaint into agency and production.
 
 ### 2. Power-User Path — Bitcoin, Privacy, Exit
 
@@ -102,6 +103,7 @@ Orientation: use this when finance starts touching politics, psychology and esot
 - [[Privacy]] — the boundary layer of free exchange.
 - [[Bitcoin Sẽ Chết Nếu Không Có Privacy]] — why transparent money can become a control surface.
 - [[Tiền Pháp Định]] — fiat as debt, permission and debasement architecture.
+- [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — financial noise discipline and risk survival.
 - [[Gen Z và CBDC - Programmable Money Psychology]] — how programmable money trains behavior before law arrives.
 - [[Chainlink - Mắt Xích Của Tokenized World]] — oracle, RWA and tokenization bridge between crypto and banking rails.
 - [[Điều Mà Trường Học Không Dạy Về Tiền]] — basic literacy the system omits.

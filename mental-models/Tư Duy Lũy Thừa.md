@@ -162,3 +162,9 @@ Nếu câu trả lời là không, bạn không đang compound. Bạn chỉ đan
 - [[Thông Minh vs Trí Tuệ]] — Trí tuệ biết chờ đợi, thông minh muốn kết quả ngay
 - [[Individuation]] — Quá trình phát triển cũng phi tuyến tính
 - [[Ma Trận]] — Hệ thống thiết kế để giữ bạn trong linear trap
+---
+
+## Compounding Cần Sống Sót
+
+[[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] là ứng dụng thực chiến của mental model này trong tài chính: giữ vốn, chống dopamine, tránh leverage và sống sót trước khi tìm upside.
+

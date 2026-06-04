@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 190,
+    "notes": 191,
     "domains": {
       "_docs": 1,
       "root": 10,
-      "crypto-finance": 12,
+      "crypto-finance": 13,
       "esoterica": 72,
       "health": 27,
       "mental-models": 27,
       "politics-conspiracy": 24,
       "science-tech": 17
     },
-    "tags": 182,
-    "wikilinkEdges": 1924,
+    "tags": 183,
+    "wikilinkEdges": 1942,
     "brokenLinks": 0,
     "orphans": 3
   },
@@ -122,6 +122,7 @@
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
           "crypto-finance/Secular Market.md",
@@ -178,6 +179,7 @@
           "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
           "Gen Z và CBDC - Programmable Money Psychology",
           "Giàu Không Nhờ May Mắn",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
           "Kiểm Soát Tâm Trí",
           "Ma Trận",
           "mental-models/index",
@@ -204,6 +206,7 @@
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/Privacy.md",
           "crypto-finance/Secular Market.md",
           "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -231,7 +234,7 @@
           "mental-models/index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 837,
+        "words": 866,
         "summary": "**Crypto & Finance là nơi vault đọc tiền như operating system của time, labor, consent và freedom.** Tiền không chỉ là price chart. Nó là hạ tầng quyết định ai được lưu trữ giá trị, ai bị debase, ai bị surveil, ai được permission để giao dịch, và ai vẫn còn e…"
       },
       {
@@ -514,6 +517,7 @@
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
           "crypto-finance/Tiền tiền tiền.md",
           "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
@@ -524,6 +528,78 @@
         ],
         "words": 1152,
         "summary": "**Tiền Pháp Định** (Fiat Currency) là hệ thống tiền tệ không có giá trị nội tại, được in ấn dựa trên nợ và lòng tin. Đây là công cụ cốt lõi của Elite để kiểm soát kinh tế và bòn rút tài sản của nhân loại."
+      },
+      {
+        "path": "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "title": "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "domain": "crypto-finance",
+        "tags": [
+          "crypto-finance",
+          "dopamine",
+          "financial-sovereignty",
+          "mental-model",
+          "risk-management"
+        ],
+        "aliases": [
+          "5 Luật Sống Sót Tài Chính",
+          "Financial Noise Discipline",
+          "Không Chết Trước Khi Giàu",
+          "Survival Before Upside"
+        ],
+        "headings": [
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. System Không Chỉ Làm Bạn Nghèo Bằng Lạm Phát",
+          "2. Luật Một: Không Đòn Bẩy",
+          "3. Luật Hai: Không Nợ Tâm Lý",
+          "4. Luật Ba: Sống Rẻ, Không Sĩ Diện",
+          "5. Luật Bốn: Có Hệ Thống, Không Dopamine Trading",
+          "6. Luật Năm: Phản Biện Và Đa Nghi",
+          "7. Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "8. Survival Before Upside",
+          "9. Cash Không Sexy Nhưng Có Quyền Lực",
+          "10. Financial Sovereignty Là Kỷ Luật Cơ Thể",
+          "11. Five Rules / Năm Luật Gọn",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Mental Model",
+          "MOC - Financial Sovereignty",
+          "Nghịch Lý Của Hiểu Biết",
+          "Sợ hãi - Tham Lam – Cân bằng",
+          "Thông Minh vs Trí Tuệ",
+          "Tiền Pháp Định",
+          "Tư Duy Lũy Thừa",
+          "Điều Mà Trường Học Không Dạy Về Tiền"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Tiền Pháp Định.md",
+          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "MOC - Financial Sovereignty.md"
+        ],
+        "backlinks": [
+          "crypto-finance/index.md",
+          "index.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/index.md",
+          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "MOC - Financial Sovereignty.md"
+        ],
+        "words": 1305,
+        "summary": "**Financial sovereignty không bắt đầu bằng Bitcoin, macro thesis hay chart đẹp. Nó bắt đầu bằng khả năng không tự tay đốt tiền của mình. Trong một hệ thống được thiết kế để làm nhiễu dopamine, sĩ diện, FOMO và leverage, giữ được tiền đã là một dạng trí tuệ.**"
       },
       {
         "path": "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
@@ -590,73 +666,6 @@
         ],
         "words": 1049,
         "summary": "**Bitcoin có thể sống như store of value mà thiếu privacy một thời gian. Nhưng nếu muốn trở thành tiền tệ tự do thật sự, Bitcoin cần fungibility. Và không có privacy thì không có fungibility. Một đồng tiền bị truy vết, chấm điểm, blacklist và phân loại “sạch/…"
-      },
-      {
-        "path": "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "title": "Chainlink - Mắt Xích Của Tokenized World",
-        "domain": "crypto-finance",
-        "tags": [
-          "cbdc",
-          "crypto-finance",
-          "sovereignty",
-          "tokenization",
-          "word-magic"
-        ],
-        "aliases": [
-          "Chainlink",
-          "Oracle Layer",
-          "Sergey Nazarov",
-          "Tokenized World"
-        ],
-        "headings": [
-          "Chainlink - Mắt Xích Của Tokenized World",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Cách Đọc Claim",
-          "1. Bitcoin Mở Cổng, Chainlink Nối Cổng",
-          "2. Word Magic: Chain, Link, Block, Bank, Channel",
-          "3. Luật Biển, Dòng Chảy Và Claim",
-          "4. Oracle Layer Là Gì?",
-          "5. Tokenized Assets Và Banking Integration",
-          "6. Transparency Hay Total Visibility?",
-          "7. Sergey Nazarov / Satoshi Hypothesis",
-          "8. Crypto Như Conditioning Layer Cho CBDC",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bitcoin",
-          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-          "Gen Z và CBDC - Programmable Money Psychology",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "MOC - Epistemology & Propaganda",
-          "MOC - Financial Sovereignty",
-          "Privacy",
-          "Tiền Pháp Định",
-          "Word Magic - Ngôn Ngữ Của Phù Thủy"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/Privacy.md",
-          "crypto-finance/Tiền Pháp Định.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Financial Sovereignty.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/index.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "index.md",
-          "MOC - Financial Sovereignty.md"
-        ],
-        "words": 1513,
-        "summary": "**Chainlink không chỉ là một oracle protocol trong crypto. Trong vault, nó là mắt xích biểu tượng và hạ tầng nối blockchain với tài sản thật, dữ liệu thật, ngân hàng, SWIFT, RWA và eventually programmable money. Nếu Bitcoin làm mass quen với tiền trên ledger,…"
       },
       {
         "path": "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
@@ -734,12 +743,80 @@
         ],
         "backlinks": [
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
           "index.md",
           "MOC - Financial Sovereignty.md"
         ],
         "words": 2222,
         "summary": "Trong quá trình tìm hiểu sâu về tài chính, nhiều người mới nhận ra mình \"nghèo mạt\" — không phải vì thiếu tiền, mà vì **thiếu kiến thức về tiền**."
+      },
+      {
+        "path": "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "title": "Chainlink - Mắt Xích Của Tokenized World",
+        "domain": "crypto-finance",
+        "tags": [
+          "cbdc",
+          "crypto-finance",
+          "sovereignty",
+          "tokenization",
+          "word-magic"
+        ],
+        "aliases": [
+          "Chainlink",
+          "Oracle Layer",
+          "Sergey Nazarov",
+          "Tokenized World"
+        ],
+        "headings": [
+          "Chainlink - Mắt Xích Của Tokenized World",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc Claim",
+          "1. Bitcoin Mở Cổng, Chainlink Nối Cổng",
+          "2. Word Magic: Chain, Link, Block, Bank, Channel",
+          "3. Luật Biển, Dòng Chảy Và Claim",
+          "4. Oracle Layer Là Gì?",
+          "5. Tokenized Assets Và Banking Integration",
+          "6. Transparency Hay Total Visibility?",
+          "7. Sergey Nazarov / Satoshi Hypothesis",
+          "8. Crypto Như Conditioning Layer Cho CBDC",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "MOC - Epistemology & Propaganda",
+          "MOC - Financial Sovereignty",
+          "Privacy",
+          "Tiền Pháp Định",
+          "Word Magic - Ngôn Ngữ Của Phù Thủy"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Privacy.md",
+          "crypto-finance/Tiền Pháp Định.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Financial Sovereignty.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/index.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "index.md",
+          "MOC - Financial Sovereignty.md"
+        ],
+        "words": 1513,
+        "summary": "**Chainlink không chỉ là một oracle protocol trong crypto. Trong vault, nó là mắt xích biểu tượng và hạ tầng nối blockchain với tài sản thật, dữ liệu thật, ngân hàng, SWIFT, RWA và eventually programmable money. Nếu Bitcoin làm mass quen với tiền trên ledger,…"
       },
       {
         "path": "crypto-finance/Giàu Không Nhờ May Mắn.md",
@@ -1796,6 +1873,7 @@
           "science-tech/Khoa Học Xét Lại.md"
         ],
         "backlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
           "esoterica/Gnosis.md",
@@ -7780,6 +7858,7 @@
           "6. AI-Age Agency Path — Mind Versus Machine",
           "Key Hubs",
           "Flagship Articles",
+          "Money, Dopamine & Survival Discipline",
           "Gen Z & Agenda 2030 Path",
           "Related Gateways"
         ],
@@ -7794,6 +7873,7 @@
           "Gen Z - Phân Tích Phản Biện",
           "Gen Z và CBDC - Programmable Money Psychology",
           "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
           "Individuation",
           "Kiểm Soát Tâm Trí",
           "Ma Trận",
@@ -7824,6 +7904,7 @@
         "mdlinks": [],
         "outlinks": [
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
           "esoterica/index.md",
           "esoterica/Ma Trận.md",
@@ -7867,7 +7948,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 910,
+        "words": 964,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -8279,6 +8360,87 @@
         "summary": "**Trí tuệ là khả năng nhìn đúng bản chất, chọn đúng game, hành động đúng tỷ lệ và không để kiến thức phục vụ ego.** Nó không chỉ là biết nhiều hơn. Nó là biết cái gì đáng biết, cái gì nên bỏ, khi nào im, khi nào cắt, khi nào chịu mất ngắn hạn để giữ phần sâu…"
       },
       {
+        "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "domain": "mental-models",
+        "tags": [
+          "matrix",
+          "mental-model",
+          "psychology",
+          "social-media"
+        ],
+        "aliases": [
+          "Attention Economy",
+          "Dopamine Economy",
+          "Kinh Tế Dopamine"
+        ],
+        "headings": [
+          "Dopamine Economy — Nền Kinh Tế Của Sự Thèm Muốn",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Dopamine Không Phải Hạnh Phúc",
+          "2. Attention Là Hàng Hóa",
+          "3. Variable Reward: Máy Đánh Bạc Trong Túi",
+          "4. Các Kênh Hijack Chính",
+          "Social Media",
+          "Porn",
+          "Food",
+          "Gaming / Gambling",
+          "News / Politics",
+          "5. Dopamine Và Loosh",
+          "6. Tại Sao Ý Chí Không Đủ?",
+          "7. Escape Strategy",
+          "1. Remove Cues",
+          "2. Restore Natural Rewards",
+          "3. Dopamine Fasting Đúng Nghĩa",
+          "4. Replace, Not Just Remove",
+          "8. Dấu Hiệu Đang Bị Kinh Tế Dopamine Nuốt",
+          "Synthesis",
+          "Related",
+          "Financial Dopamine: Futures Group Là TikTok Của Lòng Tham"
+        ],
+        "wikilinks": [
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Kiểm Soát Tâm Trí",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Ma Trận",
+          "Năng Lượng Tình Dục",
+          "Schadenfreude - Dopamine Phản Diện",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/index.md",
+          "esoterica/Chakra.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "index.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/index.md",
+          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        ],
+        "words": 933,
+        "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
+      },
+      {
         "path": "mental-models/Mô Hình Địa Tâm.md",
         "title": "Mô Hình Địa Tâm (Geocentrism)",
         "domain": "mental-models",
@@ -8533,81 +8695,72 @@
         "summary": "Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about mal…"
       },
       {
-        "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-        "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "path": "mental-models/Thông Minh vs Trí Tuệ.md",
+        "title": "Thông Minh vs Trí Tuệ",
         "domain": "mental-models",
         "tags": [
-          "matrix",
           "mental-model",
-          "psychology",
-          "social-media"
+          "philosophy"
         ],
         "aliases": [
-          "Attention Economy",
-          "Dopamine Economy",
-          "Kinh Tế Dopamine"
+          "Intelligence vs Wisdom",
+          "Smart vs Wise"
         ],
         "headings": [
-          "Dopamine Economy — Nền Kinh Tế Của Sự Thèm Muốn",
+          "Thông Minh vs Trí Tuệ (Intelligence vs Wisdom)",
           "Vault Position / Vị Trí Trong Vault",
-          "1. Dopamine Không Phải Hạnh Phúc",
-          "2. Attention Là Hàng Hóa",
-          "3. Variable Reward: Máy Đánh Bạc Trong Túi",
-          "4. Các Kênh Hijack Chính",
-          "Social Media",
-          "Porn",
-          "Food",
-          "Gaming / Gambling",
-          "News / Politics",
-          "5. Dopamine Và Loosh",
-          "6. Tại Sao Ý Chí Không Đủ?",
-          "7. Escape Strategy",
-          "1. Remove Cues",
-          "2. Restore Natural Rewards",
-          "3. Dopamine Fasting Đúng Nghĩa",
-          "4. Replace, Not Just Remove",
-          "8. Dấu Hiệu Đang Bị Kinh Tế Dopamine Nuốt",
-          "Synthesis",
-          "Related"
+          "Bản Đồ Nhanh / Quick Map",
+          "Khác Biệt Gốc / Root Difference",
+          "Trong Đối Nhân Xử Thế / Human Dealings",
+          "Trong Học Tập & Kiến Thức / Learning",
+          "Trong Sức Khỏe / Health Sovereignty",
+          "Trong Tiền Bạc & Thành Công / Wealth",
+          "Vì Sao Ma Trận Thích Người Thông Minh Nhưng Sợ Người Trí Tuệ",
+          "Nhận Diện Trong Đời Thường / Recognition",
+          "Kết Luận / Conclusion",
+          "Related / Liên quan",
+          "Intelligence Tìm Upside, Wisdom Quản Downside"
         ],
         "wikilinks": [
-          "Bộ Não Rỗng và AI Brain Rot",
-          "Kiểm Soát Tâm Trí",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Individuation",
           "Ma Trận",
-          "Năng Lượng Tình Dục",
-          "Schadenfreude - Dopamine Phản Diện",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm"
+          "Nghịch Lý Của Hiểu Biết",
+          "Thông Minh",
+          "Trí Tuệ",
+          "Tư Duy Lũy Thừa",
+          "Y Tế Tự Nhiên"
         ],
         "mdlinks": [],
         "outlinks": [
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Y Tế Tự Nhiên.md",
+          "mental-models/Individuation.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md"
         ],
         "backlinks": [
-          "crypto-finance/index.md",
-          "esoterica/Chakra.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "esoterica/Atula.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
           "index.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/index.md",
-          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Trí Tuệ.md",
           "mental-models/Tư Duy Lũy Thừa.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+          "science-tech/AI.md",
+          "science-tech/index.md"
         ],
-        "words": 892,
-        "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
+        "words": 1498,
+        "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không.** Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trậ…"
       },
       {
         "path": "mental-models/Gen Z - Phân Tích Phản Biện.md",
@@ -8746,70 +8899,6 @@
         "summary": "**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là \"nhân vật trong thần thoại\". Chúng là phần mềm biểu tượng khiến con người nhận ra King, Mothe…"
       },
       {
-        "path": "mental-models/Thông Minh vs Trí Tuệ.md",
-        "title": "Thông Minh vs Trí Tuệ",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model",
-          "philosophy"
-        ],
-        "aliases": [
-          "Intelligence vs Wisdom",
-          "Smart vs Wise"
-        ],
-        "headings": [
-          "Thông Minh vs Trí Tuệ (Intelligence vs Wisdom)",
-          "Vault Position / Vị Trí Trong Vault",
-          "Bản Đồ Nhanh / Quick Map",
-          "Khác Biệt Gốc / Root Difference",
-          "Trong Đối Nhân Xử Thế / Human Dealings",
-          "Trong Học Tập & Kiến Thức / Learning",
-          "Trong Sức Khỏe / Health Sovereignty",
-          "Trong Tiền Bạc & Thành Công / Wealth",
-          "Vì Sao Ma Trận Thích Người Thông Minh Nhưng Sợ Người Trí Tuệ",
-          "Nhận Diện Trong Đời Thường / Recognition",
-          "Kết Luận / Conclusion",
-          "Related / Liên quan"
-        ],
-        "wikilinks": [
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Individuation",
-          "Ma Trận",
-          "Nghịch Lý Của Hiểu Biết",
-          "Thông Minh",
-          "Trí Tuệ",
-          "Tư Duy Lũy Thừa",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Y Tế Tự Nhiên.md",
-          "mental-models/Individuation.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tư Duy Lũy Thừa.md"
-        ],
-        "backlinks": [
-          "esoterica/Atula.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "index.md",
-          "mental-models/index.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "science-tech/AI.md",
-          "science-tech/index.md"
-        ],
-        "words": 1460,
-        "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không.** Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trậ…"
-      },
-      {
         "path": "mental-models/Tư Duy Lũy Thừa.md",
         "title": "Tư Duy Lũy Thừa",
         "domain": "mental-models",
@@ -8832,10 +8921,12 @@
           "5. Sự Kiên Nhẫn / Patience",
           "Ứng Dụng Thực Tế / Practical Application",
           "Evidence Discipline / Kỷ Luật Chứng Cứ",
-          "Related / Liên quan"
+          "Related / Liên quan",
+          "Compounding Cần Sống Sót"
         ],
         "wikilinks": [
           "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
           "Individuation",
           "Ma Trận",
           "Mental Model",
@@ -8843,6 +8934,7 @@
         ],
         "mdlinks": [],
         "outlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "esoterica/Ma Trận.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Individuation.md",
@@ -8851,6 +8943,7 @@
         ],
         "backlinks": [
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
           "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
@@ -8863,7 +8956,7 @@
           "mental-models/Thông Minh vs Trí Tuệ.md",
           "MOC - Financial Sovereignty.md"
         ],
-        "words": 1286,
+        "words": 1322,
         "summary": "**Tư duy lũy thừa là khả năng nhìn thấy giai đoạn tích lũy vô hình trước khi kết quả bùng nổ.** Nó chống lại ảo giác tuyến tính của trường học, công sở và dopamine economy: làm một chút, nhận một chút, thấy thưởng ngay. Những kết quả đột phá thường đến từ cườ…"
       },
       {
@@ -8915,6 +9008,7 @@
           "science-tech/Khoa Học Xét Lại.md"
         ],
         "backlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
           "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
           "index.md",
@@ -9317,6 +9411,61 @@
         "summary": "**Schadenfreude** (tiếng Đức: *Schaden* = thiệt hại, *Freude* = niềm vui) là cảm giác khoái lạc khi chứng kiến người khác gặp bất hạnh. Não bộ release dopamine — cùng chất hóa học khi ăn ngon, sex, hoặc thắng cược — nhưng nguồn kích thích là nỗi đau của người…"
       },
       {
+        "path": "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "title": "Sợ hãi - Tham Lam – Cân bằng",
+        "domain": "mental-models",
+        "tags": [
+          "bitcoin",
+          "finance",
+          "mental-model",
+          "psychology"
+        ],
+        "aliases": [
+          "Cân Bằng Cảm Xúc Thị Trường",
+          "Fear and Greed",
+          "Fear Greed Balance"
+        ],
+        "headings": [
+          "Sợ hãi - Tham Lam – Cân bằng",
+          "Vault Position / Vị Trí Trong Bản Đồ",
+          "Fear / Sợ Hãi",
+          "Greed / Tham Lam",
+          "The Crowd Oscillator / Bộ Dao Động Đám Đông",
+          "Matrix Uses Both Poles",
+          "Balance / Cân Bằng",
+          "Tools / Công Cụ Thực Hành",
+          "Kết Luận / Closing",
+          "Decision Filter / Bộ Lọc Quyết Định",
+          "Market Emotion Và Survival Discipline"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Kiểm Soát Tâm Trí",
+          "Privacy Is The New Wealth",
+          "Tư Duy Lũy Thừa"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/index.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "index.md",
+          "mental-models/index.md"
+        ],
+        "words": 852,
+        "summary": "**Sợ hãi và tham lam là hai cực điều khiển thị trường, chính trị và đời sống cá nhân. Người chưa có trung tâm sẽ mua narrative của đám đông: sợ khi cần quan sát, tham khi cần kỷ luật.**"
+      },
+      {
         "path": "mental-models/Thông Minh.md",
         "title": "Thông Minh",
         "domain": "mental-models",
@@ -9434,57 +9583,6 @@
         ],
         "words": 9318,
         "summary": "Năm 18 tuổi, mình từng đọc được ở đâu đó rằng: 1 lần chơi đá (Meth) có thể mang đến cảm giác của 10 lần làm tình. Từng viết 1 truyện ngắn với tiêu đề này (lạc đâu mất rồi), và sau đó cứ băn khoăn mãi về cái fact này, tự hỏi khi nào mình được kiểm chứng? 20 nă…"
-      },
-      {
-        "path": "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "title": "Sợ hãi - Tham Lam – Cân bằng",
-        "domain": "mental-models",
-        "tags": [
-          "bitcoin",
-          "finance",
-          "mental-model",
-          "psychology"
-        ],
-        "aliases": [
-          "Cân Bằng Cảm Xúc Thị Trường",
-          "Fear and Greed",
-          "Fear Greed Balance"
-        ],
-        "headings": [
-          "Sợ hãi - Tham Lam – Cân bằng",
-          "Vault Position / Vị Trí Trong Bản Đồ",
-          "Fear / Sợ Hãi",
-          "Greed / Tham Lam",
-          "The Crowd Oscillator / Bộ Dao Động Đám Đông",
-          "Matrix Uses Both Poles",
-          "Balance / Cân Bằng",
-          "Tools / Công Cụ Thực Hành",
-          "Kết Luận / Closing",
-          "Decision Filter / Bộ Lọc Quyết Định"
-        ],
-        "wikilinks": [
-          "Bitcoin",
-          "Kiểm Soát Tâm Trí",
-          "Privacy Is The New Wealth",
-          "Tư Duy Lũy Thừa"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Giàu Không Nhờ May Mắn.md",
-          "crypto-finance/index.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "index.md",
-          "mental-models/index.md"
-        ],
-        "words": 815,
-        "summary": "**Sợ hãi và tham lam là hai cực điều khiển thị trường, chính trị và đời sống cá nhân. Người chưa có trung tâm sẽ mua narrative của đám đông: sợ khi cần quan sát, tham khi cần kỷ luật.**"
       },
       {
         "path": "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
@@ -11430,6 +11528,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "June 4, 2026",
           "June 3, 2026",
           "June 1, 2026",
           "May 30, 2026",
@@ -11465,6 +11564,7 @@
           "Gen Z - Phân Tích Phản Biện",
           "Gen Z và CBDC - Programmable Money Psychology",
           "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
           "Gnosis",
           "health/index",
           "Hollywood - Cây Đũa Phép Của Phù Thủy",
@@ -11566,6 +11666,7 @@
           "crypto-finance/Bitcoin.md",
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
           "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -11691,7 +11792,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 2236,
+        "words": 2273,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -12113,6 +12214,78 @@
         "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…"
       },
       {
+        "path": "MOC - Financial Sovereignty.md",
+        "title": "MOC - Financial Sovereignty",
+        "domain": "root",
+        "tags": [
+          "crypto-finance",
+          "moc",
+          "sovereignty"
+        ],
+        "aliases": [],
+        "headings": [
+          "MOC - Financial Sovereignty",
+          "Start Here",
+          "Survival Discipline",
+          "Bitcoin & Privacy",
+          "Fiat, Debt & Control",
+          "Tokenization & Onchain Control",
+          "Tokenized World / Oracle Layer",
+          "Market Cycles",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+          "Chainlink - Mắt Xích Của Tokenized World",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Privacy",
+          "Privacy Is The New Wealth",
+          "Secular Market",
+          "Tiền Giấy - Tiền Mặt",
+          "Tiền Pháp Định",
+          "Tư Duy Lũy Thừa",
+          "UBI Conditioning - The End of Work Ethic",
+          "Điều Mà Trường Học Không Dạy Về Tiền"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/Privacy.md",
+          "crypto-finance/Secular Market.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "crypto-finance/Tiền Pháp Định.md",
+          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "mental-models/UBI Conditioning - The End of Work Ethic.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/index.md",
+          "crypto-finance/Privacy.md",
+          "esoterica/Cabal.md",
+          "esoterica/Ma Trận.md",
+          "index.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/index.md",
+          "mental-models/UBI Conditioning - The End of Work Ethic.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/index.md"
+        ],
+        "words": 292,
+        "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào hệ thống tiền pháp định, ngân hàng trung ương, surveillance finance hoặc programmable money.**"
+      },
+      {
         "path": "MOC - Ancient Civilizations & Hidden History.md",
         "title": "MOC - Ancient Civilizations & Hidden History",
         "domain": "root",
@@ -12181,74 +12354,6 @@
         ],
         "words": 176,
         "summary": "**Bản đồ này gom các note về nền văn minh cổ, reset lịch sử, hidden chronology, long mạch, old world architecture và khả năng quá khứ không tuyến tính như sách giáo khoa kể.**"
-      },
-      {
-        "path": "MOC - Financial Sovereignty.md",
-        "title": "MOC - Financial Sovereignty",
-        "domain": "root",
-        "tags": [
-          "crypto-finance",
-          "moc",
-          "sovereignty"
-        ],
-        "aliases": [],
-        "headings": [
-          "MOC - Financial Sovereignty",
-          "Start Here",
-          "Bitcoin & Privacy",
-          "Fiat, Debt & Control",
-          "Tokenization & Onchain Control",
-          "Tokenized World / Oracle Layer",
-          "Market Cycles",
-          "Synthesis"
-        ],
-        "wikilinks": [
-          "Bitcoin",
-          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-          "Chainlink - Mắt Xích Của Tokenized World",
-          "Gen Z và CBDC - Programmable Money Psychology",
-          "Privacy",
-          "Privacy Is The New Wealth",
-          "Secular Market",
-          "Tiền Giấy - Tiền Mặt",
-          "Tiền Pháp Định",
-          "Tư Duy Lũy Thừa",
-          "UBI Conditioning - The End of Work Ethic",
-          "Điều Mà Trường Học Không Dạy Về Tiền"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/Privacy.md",
-          "crypto-finance/Secular Market.md",
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-          "crypto-finance/Tiền Pháp Định.md",
-          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "mental-models/UBI Conditioning - The End of Work Ethic.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/index.md",
-          "crypto-finance/Privacy.md",
-          "esoterica/Cabal.md",
-          "esoterica/Ma Trận.md",
-          "index.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/index.md",
-          "mental-models/UBI Conditioning - The End of Work Ethic.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/index.md"
-        ],
-        "words": 262,
-        "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào hệ thống tiền pháp định, ngân hàng trung ương, surveillance finance hoặc programmable money.**"
       },
       {
         "path": "claude.md",
@@ -13538,6 +13643,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "June 4, 2026",
         "June 3, 2026",
         "June 1, 2026",
         "May 30, 2026",
@@ -13573,6 +13679,7 @@
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
         "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Gnosis",
         "health/index",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
@@ -13674,6 +13781,7 @@
         "crypto-finance/Bitcoin.md",
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -13799,7 +13907,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2236,
+      "words": 2273,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -15075,6 +15183,124 @@
       "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
     },
     {
+      "path": "mental-models/index.md",
+      "title": "Mental Models Domain Gateway",
+      "domain": "mental-models",
+      "tags": [
+        "domain-gateway",
+        "epistemology",
+        "mental-model"
+      ],
+      "aliases": [
+        "Mental Models",
+        "Mô Hình Tư Duy"
+      ],
+      "headings": [
+        "Mental Models Domain Gateway",
+        "How To Read This Domain",
+        "Curated Reading Paths",
+        "1. Beginner Path — Thinking Tools Before Identity",
+        "2. Power-User Path — Jung, Shadow, Individuation",
+        "3. High-Risk Caution Path — Dopamine, Addiction, Manipulation",
+        "4. Perception Path — Duality, Identity, Self-Deception",
+        "5. Cross-Domain Bridge Path — Gen Z, Compliance, Future Self",
+        "6. AI-Age Agency Path — Mind Versus Machine",
+        "Key Hubs",
+        "Flagship Articles",
+        "Money, Dopamine & Survival Discipline",
+        "Gen Z & Agenda 2030 Path",
+        "Related Gateways"
+      ],
+      "wikilinks": [
+        "AI",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Chia Tách Bởi Nhị Nguyên",
+        "Climate Anxiety as Control - Fear-Based Compliance",
+        "crypto-finance/index",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "esoterica/index",
+        "Gen Z - Phân Tích Phản Biện",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Individuation",
+        "Kiểm Soát Tâm Trí",
+        "Ma Trận",
+        "Mental Model",
+        "MOC - Epistemology & Propaganda",
+        "MOC - Esoterica & Consciousness",
+        "MOC - Financial Sovereignty",
+        "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nguyên Mẫu",
+        "Nhị Nguyên",
+        "politics-conspiracy/index",
+        "Privacy Is The New Wealth",
+        "Red Pill Wiki",
+        "S.E.X Và Tâm Lý Học Jung",
+        "Schadenfreude - Dopamine Phản Diện",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Sự Thật Ẩn Sau Con Người Bạn",
+        "Thông Minh vs Trí Tuệ",
+        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "Tâm bất Biến",
+        "Tâm Lý Học Jung",
+        "Tư Duy Lũy Thừa",
+        "UBI Conditioning - The End of Work Ethic",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/index.md",
+        "esoterica/index.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "index.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "mental-models/Individuation.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "mental-models/Tâm bất Biến.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Esoterica & Consciousness.md",
+        "MOC - Financial Sovereignty.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "science-tech/AI.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+      ],
+      "backlinks": [
+        "crypto-finance/index.md",
+        "esoterica/index.md",
+        "health/index.md",
+        "index.md",
+        "politics-conspiracy/index.md"
+      ],
+      "words": 964,
+      "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
+    },
+    {
       "path": "MOC - Epistemology & Propaganda.md",
       "title": "MOC - Epistemology & Propaganda",
       "domain": "root",
@@ -15243,121 +15469,6 @@
       ],
       "words": 184,
       "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng.**"
-    },
-    {
-      "path": "mental-models/index.md",
-      "title": "Mental Models Domain Gateway",
-      "domain": "mental-models",
-      "tags": [
-        "domain-gateway",
-        "epistemology",
-        "mental-model"
-      ],
-      "aliases": [
-        "Mental Models",
-        "Mô Hình Tư Duy"
-      ],
-      "headings": [
-        "Mental Models Domain Gateway",
-        "How To Read This Domain",
-        "Curated Reading Paths",
-        "1. Beginner Path — Thinking Tools Before Identity",
-        "2. Power-User Path — Jung, Shadow, Individuation",
-        "3. High-Risk Caution Path — Dopamine, Addiction, Manipulation",
-        "4. Perception Path — Duality, Identity, Self-Deception",
-        "5. Cross-Domain Bridge Path — Gen Z, Compliance, Future Self",
-        "6. AI-Age Agency Path — Mind Versus Machine",
-        "Key Hubs",
-        "Flagship Articles",
-        "Gen Z & Agenda 2030 Path",
-        "Related Gateways"
-      ],
-      "wikilinks": [
-        "AI",
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Chia Tách Bởi Nhị Nguyên",
-        "Climate Anxiety as Control - Fear-Based Compliance",
-        "crypto-finance/index",
-        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "esoterica/index",
-        "Gen Z - Phân Tích Phản Biện",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
-        "Individuation",
-        "Kiểm Soát Tâm Trí",
-        "Ma Trận",
-        "Mental Model",
-        "MOC - Epistemology & Propaganda",
-        "MOC - Esoterica & Consciousness",
-        "MOC - Financial Sovereignty",
-        "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nguyên Mẫu",
-        "Nhị Nguyên",
-        "politics-conspiracy/index",
-        "Privacy Is The New Wealth",
-        "Red Pill Wiki",
-        "S.E.X Và Tâm Lý Học Jung",
-        "Schadenfreude - Dopamine Phản Diện",
-        "Sợ hãi - Tham Lam – Cân bằng",
-        "Sự Thật Ẩn Sau Con Người Bạn",
-        "Thông Minh vs Trí Tuệ",
-        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "Tâm bất Biến",
-        "Tâm Lý Học Jung",
-        "Tư Duy Lũy Thừa",
-        "UBI Conditioning - The End of Work Ethic",
-        "Vô Thức Tập Thể"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/index.md",
-        "esoterica/index.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "index.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-        "mental-models/Gen Z - Phân Tích Phản Biện.md",
-        "mental-models/Individuation.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Privacy Is The New Wealth.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "mental-models/Tâm bất Biến.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Tư Duy Lũy Thừa.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Esoterica & Consciousness.md",
-        "MOC - Financial Sovereignty.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "science-tech/AI.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-      ],
-      "backlinks": [
-        "crypto-finance/index.md",
-        "esoterica/index.md",
-        "health/index.md",
-        "index.md",
-        "politics-conspiracy/index.md"
-      ],
-      "words": 910,
-      "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
       "path": "politics-conspiracy/index.md",
@@ -15926,6 +16037,92 @@
       "summary": "**Nhị nguyên là cơ chế Một tự phân cực thành hai để tạo trải nghiệm: sáng/tối, nam/nữ, âm/dương, đúng/sai, ta/địch.** Nó không xấu; nó là grammar của cõi vật chất. Cái bẫy bắt đầu khi con người quên field lớn hơn và để hai cực dựng thành nhà tù nhận thức."
     },
     {
+      "path": "crypto-finance/Bitcoin.md",
+      "title": "Bitcoin",
+      "domain": "crypto-finance",
+      "tags": [
+        "crypto-finance"
+      ],
+      "aliases": [],
+      "headings": [
+        "Bitcoin",
+        "Vault Position / Vị Trí Trong Map",
+        "Tại sao Bitcoin quan trọng? / Why Bitcoin Matters?",
+        "1. Phi tập trung & Không cần niềm tin / Decentralized & Trustless",
+        "2. Cung cấp hạn chế / Hard Cap",
+        "3. Proof-of-Work & Bảo mật / Security",
+        "Bitcoin trong bối cảnh Ma Trận / Bitcoin vs The Matrix",
+        "Mối đe dọa từ CBDC / CBDC Threat",
+        "Bitcoin như lớp giới thiệu ledger money",
+        "Bitcoin và Privacy / Bitcoin & Privacy",
+        "Chu kỳ thị trường / Market Cycles",
+        "Related",
+        "Core Articles / Bài viết chính",
+        "Monetary System / Hệ thống tiền tệ",
+        "Gen Z & Agenda 2030",
+        "Investment Mindset / Tâm lý đầu tư",
+        "Bitcoin As Ledger Conditioning / Bitcoin Như Lớp Làm Quen Với Ledger"
+      ],
+      "wikilinks": [
+        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "Báo Cáo 2030",
+        "Chainlink - Mắt Xích Của Tokenized World",
+        "Elite",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giàu Không Nhờ May Mắn",
+        "Khoa Học Xét Lại",
+        "MOC - Financial Sovereignty",
+        "Privacy",
+        "Secular Market",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Tiền Giấy - Tiền Mặt",
+        "Tiền Pháp Định",
+        "Tiền tiền tiền"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Secular Market.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Tiền tiền tiền.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "MOC - Financial Sovereignty.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Elite.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/index.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Secular Market.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Tiền tiền tiền.md",
+        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "index.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "MOC - Financial Sovereignty.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/Pin Natri-ion.md"
+      ],
+      "words": 1321,
+      "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
+    },
+    {
       "path": "MOC - Esoterica & Consciousness.md",
       "title": "MOC - Esoterica & Consciousness",
       "domain": "root",
@@ -16110,89 +16307,92 @@
       "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
     },
     {
-      "path": "crypto-finance/Bitcoin.md",
-      "title": "Bitcoin",
-      "domain": "crypto-finance",
+      "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
+      "title": "Nghịch Lý Của Hiểu Biết",
+      "domain": "esoterica",
       "tags": [
-        "crypto-finance"
+        "esoterica"
       ],
-      "aliases": [],
+      "aliases": [
+        "Beyond Duality",
+        "Paradox of Knowledge",
+        "Vượt Qua Nhị Nguyên"
+      ],
       "headings": [
-        "Bitcoin",
-        "Vault Position / Vị Trí Trong Map",
-        "Tại sao Bitcoin quan trọng? / Why Bitcoin Matters?",
-        "1. Phi tập trung & Không cần niềm tin / Decentralized & Trustless",
-        "2. Cung cấp hạn chế / Hard Cap",
-        "3. Proof-of-Work & Bảo mật / Security",
-        "Bitcoin trong bối cảnh Ma Trận / Bitcoin vs The Matrix",
-        "Mối đe dọa từ CBDC / CBDC Threat",
-        "Bitcoin như lớp giới thiệu ledger money",
-        "Bitcoin và Privacy / Bitcoin & Privacy",
-        "Chu kỳ thị trường / Market Cycles",
+        "Nghịch Lý Của Hiểu Biết",
+        "Phần 1: Trap Của Nhị Nguyên",
+        "Vòng Lặp Vô Tận",
+        "Ví Dụ Thực Tế",
+        "Phần 2: Layers Của Hiểu Biết",
+        "Điều Gì Xảy Ra Ở Layer 5?",
+        "Phần 3: Tất Cả Đều Đúng VÀ Sai",
+        "Phần 4: Cái Thấy",
+        "Cái Thấy Là Gì?",
+        "Không Thể Doubt Cái Thấy",
+        "Phần 5: Trí Tuệ Của Đức Phật",
+        "Điều Phi Thường",
+        "Chỉ Nói Những Gì Có Thể Tự Thấy",
+        "Vậy Tại Sao Vẫn Viết?",
+        "Phần 6: Transmission vs Information",
+        "Kết: Invitation",
         "Related",
-        "Core Articles / Bài viết chính",
-        "Monetary System / Hệ thống tiền tệ",
-        "Gen Z & Agenda 2030",
-        "Investment Mindset / Tâm lý đầu tư",
-        "Bitcoin As Ledger Conditioning / Bitcoin Như Lớp Làm Quen Với Ledger"
+        "Nền tảng / Foundation",
+        "Tâm linh / Spirituality",
+        "Đọc thêm"
       ],
       "wikilinks": [
-        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-        "Báo Cáo 2030",
-        "Chainlink - Mắt Xích Của Tokenized World",
-        "Elite",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giàu Không Nhờ May Mắn",
+        "AI Và Câu Hỏi Về Ý Thức",
+        "Gnosis",
+        "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+        "Individuation",
         "Khoa Học Xét Lại",
-        "MOC - Financial Sovereignty",
-        "Privacy",
-        "Secular Market",
-        "Sợ hãi - Tham Lam – Cân bằng",
-        "Tiền Giấy - Tiền Mặt",
-        "Tiền Pháp Định",
-        "Tiền tiền tiền"
+        "Ma Trận",
+        "Monad",
+        "Nhị Nguyên",
+        "Sự Nhất Thể",
+        "Tâm Lý Học Jung"
       ],
       "mdlinks": [],
       "outlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giàu Không Nhờ May Mắn.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Tiền tiền tiền.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "MOC - Financial Sovereignty.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Elite.md",
+        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Sự Nhất Thể.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Tâm Lý Học Jung.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
       "backlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giàu Không Nhờ May Mắn.md",
-        "crypto-finance/index.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Tiền tiền tiền.md",
-        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/index.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "esoterica/Đạo.md",
         "index.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "MOC - Financial Sovereignty.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/Pin Natri-ion.md"
+        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "mental-models/index.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "mental-models/Trí Tuệ.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Science Revisionism.md",
+        "science-tech/index.md",
+        "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 1321,
-      "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
+      "words": 1487,
+      "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
     },
     {
       "path": "mental-models/Vô Thức Tập Thể.md",
@@ -16272,93 +16472,6 @@
       ],
       "words": 896,
       "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
-    },
-    {
-      "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
-      "title": "Nghịch Lý Của Hiểu Biết",
-      "domain": "esoterica",
-      "tags": [
-        "esoterica"
-      ],
-      "aliases": [
-        "Beyond Duality",
-        "Paradox of Knowledge",
-        "Vượt Qua Nhị Nguyên"
-      ],
-      "headings": [
-        "Nghịch Lý Của Hiểu Biết",
-        "Phần 1: Trap Của Nhị Nguyên",
-        "Vòng Lặp Vô Tận",
-        "Ví Dụ Thực Tế",
-        "Phần 2: Layers Của Hiểu Biết",
-        "Điều Gì Xảy Ra Ở Layer 5?",
-        "Phần 3: Tất Cả Đều Đúng VÀ Sai",
-        "Phần 4: Cái Thấy",
-        "Cái Thấy Là Gì?",
-        "Không Thể Doubt Cái Thấy",
-        "Phần 5: Trí Tuệ Của Đức Phật",
-        "Điều Phi Thường",
-        "Chỉ Nói Những Gì Có Thể Tự Thấy",
-        "Vậy Tại Sao Vẫn Viết?",
-        "Phần 6: Transmission vs Information",
-        "Kết: Invitation",
-        "Related",
-        "Nền tảng / Foundation",
-        "Tâm linh / Spirituality",
-        "Đọc thêm"
-      ],
-      "wikilinks": [
-        "AI Và Câu Hỏi Về Ý Thức",
-        "Gnosis",
-        "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-        "Individuation",
-        "Khoa Học Xét Lại",
-        "Ma Trận",
-        "Monad",
-        "Nhị Nguyên",
-        "Sự Nhất Thể",
-        "Tâm Lý Học Jung"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Sự Nhất Thể.md",
-        "mental-models/Individuation.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "backlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-        "esoterica/index.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-        "esoterica/Đạo.md",
-        "index.md",
-        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-        "mental-models/index.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "mental-models/Trí Tuệ.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Science Revisionism.md",
-        "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 1487,
-      "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
     }
   ],
   "orphans": [
@@ -16779,7 +16892,7 @@
     ],
     [
       "mental-model",
-      27
+      28
     ],
     [
       "science-tech",
@@ -16791,7 +16904,7 @@
     ],
     [
       "crypto-finance",
-      13
+      14
     ],
     [
       "psychology",
@@ -16874,6 +16987,10 @@
       4
     ],
     [
+      "dopamine",
+      4
+    ],
+    [
       "ai",
       4
     ],
@@ -16950,10 +17067,6 @@
       3
     ],
     [
-      "dopamine",
-      3
-    ],
-    [
       "elite",
       3
     ],
@@ -16963,6 +17076,10 @@
     ],
     [
       "cbdc",
+      2
+    ],
+    [
+      "financial-sovereignty",
       2
     ],
     [
@@ -17018,7 +17135,7 @@
       1
     ],
     [
-      "financial-sovereignty",
+      "risk-management",
       1
     ],
     [
@@ -17159,10 +17276,6 @@
     ],
     [
       "ancient-civilizations",
-      1
-    ],
-    [
-      "taoism",
       1
     ]
   ],
@@ -17504,6 +17617,7 @@
       "headings": [
         "MOC - Financial Sovereignty",
         "Start Here",
+        "Survival Discipline",
         "Bitcoin & Privacy",
         "Fiat, Debt & Control",
         "Tokenization & Onchain Control",
@@ -17516,6 +17630,7 @@
         "Bitcoin Sẽ Chết Nếu Không Có Privacy",
         "Chainlink - Mắt Xích Của Tokenized World",
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Privacy",
         "Privacy Is The New Wealth",
         "Secular Market",
@@ -17531,6 +17646,7 @@
         "crypto-finance/Bitcoin.md",
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Secular Market.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -17545,6 +17661,7 @@
         "crypto-finance/Bitcoin.md",
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
         "esoterica/Cabal.md",
@@ -17556,7 +17673,7 @@
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 262,
+      "words": 292,
       "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào hệ thống tiền pháp định, ngân hàng trung ương, surveillance finance hoặc programmable money.**"
     },
     "MOC - Health Sovereignty.md": {
@@ -17928,6 +18045,7 @@
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Secular Market.md",
@@ -18167,6 +18285,78 @@
       "words": 1239,
       "summary": "**Giàu Không Nhờ May Mắn** là cách đọc redpill về wealth: không coi giàu có là trúng số, không coi tiền là thần, và không coi địa vị là tự do. Bài gốc của Naval Ravikant hữu ích vì nó tách rõ ba thứ thường bị trộn lẫn: wealth, money và status. Trong vault này…"
     },
+    "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md": {
+      "path": "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+      "title": "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+      "domain": "crypto-finance",
+      "tags": [
+        "crypto-finance",
+        "dopamine",
+        "financial-sovereignty",
+        "mental-model",
+        "risk-management"
+      ],
+      "aliases": [
+        "5 Luật Sống Sót Tài Chính",
+        "Financial Noise Discipline",
+        "Không Chết Trước Khi Giàu",
+        "Survival Before Upside"
+      ],
+      "headings": [
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. System Không Chỉ Làm Bạn Nghèo Bằng Lạm Phát",
+        "2. Luật Một: Không Đòn Bẩy",
+        "3. Luật Hai: Không Nợ Tâm Lý",
+        "4. Luật Ba: Sống Rẻ, Không Sĩ Diện",
+        "5. Luật Bốn: Có Hệ Thống, Không Dopamine Trading",
+        "6. Luật Năm: Phản Biện Và Đa Nghi",
+        "7. Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "8. Survival Before Upside",
+        "9. Cash Không Sexy Nhưng Có Quyền Lực",
+        "10. Financial Sovereignty Là Kỷ Luật Cơ Thể",
+        "11. Five Rules / Năm Luật Gọn",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "Bitcoin",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Mental Model",
+        "MOC - Financial Sovereignty",
+        "Nghịch Lý Của Hiểu Biết",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Thông Minh vs Trí Tuệ",
+        "Tiền Pháp Định",
+        "Tư Duy Lũy Thừa",
+        "Điều Mà Trường Học Không Dạy Về Tiền"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Bitcoin.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "MOC - Financial Sovereignty.md"
+      ],
+      "backlinks": [
+        "crypto-finance/index.md",
+        "index.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/index.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "MOC - Financial Sovereignty.md"
+      ],
+      "words": 1305,
+      "summary": "**Financial sovereignty không bắt đầu bằng Bitcoin, macro thesis hay chart đẹp. Nó bắt đầu bằng khả năng không tự tay đốt tiền của mình. Trong một hệ thống được thiết kế để làm nhiễu dopamine, sĩ diện, FOMO và leverage, giữ được tiền đã là một dạng trí tuệ.**"
+    },
     "crypto-finance/Privacy.md": {
       "path": "crypto-finance/Privacy.md",
       "title": "Privacy (Quyền Riêng Tư)",
@@ -18402,6 +18592,7 @@
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "crypto-finance/Tiền tiền tiền.md",
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
@@ -18485,6 +18676,7 @@
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "Gen Z và CBDC - Programmable Money Psychology",
         "Giàu Không Nhờ May Mắn",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Kiểm Soát Tâm Trí",
         "Ma Trận",
         "mental-models/index",
@@ -18511,6 +18703,7 @@
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Secular Market.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -18538,7 +18731,7 @@
         "mental-models/index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 837,
+      "words": 866,
       "summary": "**Crypto & Finance là nơi vault đọc tiền như operating system của time, labor, consent và freedom.** Tiền không chỉ là price chart. Nó là hạ tầng quyết định ai được lưu trữ giá trị, ai bị debase, ai bị surveil, ai được permission để giao dịch, và ai vẫn còn e…"
     },
     "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md": {
@@ -18617,6 +18810,7 @@
       ],
       "backlinks": [
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "index.md",
         "MOC - Financial Sovereignty.md"
@@ -21398,6 +21592,7 @@
         "science-tech/Khoa Học Xét Lại.md"
       ],
       "backlinks": [
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
         "esoterica/Gnosis.md",
@@ -25438,6 +25633,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "June 4, 2026",
         "June 3, 2026",
         "June 1, 2026",
         "May 30, 2026",
@@ -25473,6 +25669,7 @@
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
         "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Gnosis",
         "health/index",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
@@ -25574,6 +25771,7 @@
         "crypto-finance/Bitcoin.md",
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -25699,7 +25897,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2236,
+      "words": 2273,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Bộ Não Rỗng và AI Brain Rot.md": {
@@ -25970,10 +26168,12 @@
         "4. Replace, Not Just Remove",
         "8. Dấu Hiệu Đang Bị Kinh Tế Dopamine Nuốt",
         "Synthesis",
-        "Related"
+        "Related",
+        "Financial Dopamine: Futures Group Là TikTok Của Lòng Tham"
       ],
       "wikilinks": [
         "Bộ Não Rỗng và AI Brain Rot",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Kiểm Soát Tâm Trí",
         "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
         "Ma Trận",
@@ -25983,6 +26183,7 @@
       ],
       "mdlinks": [],
       "outlinks": [
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Ma Trận.md",
         "esoterica/Năng Lượng Tình Dục.md",
@@ -25992,6 +26193,7 @@
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
       "backlinks": [
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "esoterica/Chakra.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
@@ -26008,7 +26210,7 @@
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
       ],
-      "words": 892,
+      "words": 933,
       "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
     },
     "mental-models/Gen Z - Phân Tích Phản Biện.md": {
@@ -26227,6 +26429,7 @@
         "science-tech/Khoa Học Xét Lại.md"
       ],
       "backlinks": [
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
         "index.md",
@@ -26774,10 +26977,12 @@
         "Balance / Cân Bằng",
         "Tools / Công Cụ Thực Hành",
         "Kết Luận / Closing",
-        "Decision Filter / Bộ Lọc Quyết Định"
+        "Decision Filter / Bộ Lọc Quyết Định",
+        "Market Emotion Và Survival Discipline"
       ],
       "wikilinks": [
         "Bitcoin",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Kiểm Soát Tâm Trí",
         "Privacy Is The New Wealth",
         "Tư Duy Lũy Thừa"
@@ -26785,6 +26990,7 @@
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Bitcoin.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "mental-models/Privacy Is The New Wealth.md",
         "mental-models/Tư Duy Lũy Thừa.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md"
@@ -26792,12 +26998,13 @@
       "backlinks": [
         "crypto-finance/Bitcoin.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "index.md",
         "mental-models/index.md"
       ],
-      "words": 815,
+      "words": 852,
       "summary": "**Sợ hãi và tham lam là hai cực điều khiển thị trường, chính trị và đời sống cá nhân. Người chưa có trung tâm sẽ mua narrative của đám đông: sợ khi cần quan sát, tham khi cần kỷ luật.**"
     },
     "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md": {
@@ -26880,10 +27087,12 @@
         "Vì Sao Ma Trận Thích Người Thông Minh Nhưng Sợ Người Trí Tuệ",
         "Nhận Diện Trong Đời Thường / Recognition",
         "Kết Luận / Conclusion",
-        "Related / Liên quan"
+        "Related / Liên quan",
+        "Intelligence Tìm Upside, Wisdom Quản Downside"
       ],
       "wikilinks": [
         "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Individuation",
         "Ma Trận",
         "Nghịch Lý Của Hiểu Biết",
@@ -26894,6 +27103,7 @@
       ],
       "mdlinks": [],
       "outlinks": [
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "esoterica/Ma Trận.md",
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
@@ -26904,6 +27114,7 @@
         "mental-models/Tư Duy Lũy Thừa.md"
       ],
       "backlinks": [
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "esoterica/Atula.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "index.md",
@@ -26917,7 +27128,7 @@
         "science-tech/AI.md",
         "science-tech/index.md"
       ],
-      "words": 1460,
+      "words": 1498,
       "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không.** Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trậ…"
     },
     "mental-models/Thông Minh.md": {
@@ -27331,10 +27542,12 @@
         "5. Sự Kiên Nhẫn / Patience",
         "Ứng Dụng Thực Tế / Practical Application",
         "Evidence Discipline / Kỷ Luật Chứng Cứ",
-        "Related / Liên quan"
+        "Related / Liên quan",
+        "Compounding Cần Sống Sót"
       ],
       "wikilinks": [
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Individuation",
         "Ma Trận",
         "Mental Model",
@@ -27342,6 +27555,7 @@
       ],
       "mdlinks": [],
       "outlinks": [
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "esoterica/Ma Trận.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Individuation.md",
@@ -27350,6 +27564,7 @@
       ],
       "backlinks": [
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
@@ -27362,7 +27577,7 @@
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "MOC - Financial Sovereignty.md"
       ],
-      "words": 1286,
+      "words": 1322,
       "summary": "**Tư duy lũy thừa là khả năng nhìn thấy giai đoạn tích lũy vô hình trước khi kết quả bùng nổ.** Nó chống lại ảo giác tuyến tính của trường học, công sở và dopamine economy: làm một chút, nhận một chút, thấy thưởng ngay. Những kết quả đột phá thường đến từ cườ…"
     },
     "mental-models/UBI Conditioning - The End of Work Ethic.md": {
@@ -27537,6 +27752,7 @@
         "6. AI-Age Agency Path — Mind Versus Machine",
         "Key Hubs",
         "Flagship Articles",
+        "Money, Dopamine & Survival Discipline",
         "Gen Z & Agenda 2030 Path",
         "Related Gateways"
       ],
@@ -27551,6 +27767,7 @@
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
         "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Individuation",
         "Kiểm Soát Tâm Trí",
         "Ma Trận",
@@ -27581,6 +27798,7 @@
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "esoterica/index.md",
         "esoterica/Ma Trận.md",
@@ -27624,7 +27842,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 910,
+      "words": 964,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {

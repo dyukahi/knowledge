@@ -205,6 +205,7 @@ Các bài dưới đây là nơi framework gặp sự kiện, culture hoặc bod
 - [[Bitcoin]] | [[Privacy]] | [[Privacy Is The New Wealth]]
 - [[Tiền Giấy - Tiền Mặt]] | [[Tiền Pháp Định]] | [[Điều Mà Trường Học Không Dạy Về Tiền]]
 - [[Bitcoin Sẽ Chết Nếu Không Có Privacy]]
+- [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]
 - [[Gen Z và CBDC - Programmable Money Psychology]]
 - [[Chainlink - Mắt Xích Của Tokenized World]]
 
@@ -262,6 +263,10 @@ Các bài dưới đây là nơi framework gặp sự kiện, culture hoặc bod
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### June 4, 2026
+
+- **[[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]** — new financial survival / mental model bridge: no leverage, no lifestyle flex, no dopamine trading, critical thinking and risk-first sovereignty.
 
 ### June 3, 2026
 
