@@ -295,7 +295,7 @@ Các bài dưới đây là nơi framework gặp sự kiện, culture hoặc bod
 - **China youth unemployment meme case study** — added the credential → state security → hustle → gig work → service fallback → lottery/fantasy exit funnel to [[UBI Conditioning - The End of Work Ethic]] and [[Gen Z - Phân Tích Phản Biện]].
 - **[[Chainlink - Mắt Xích Của Tokenized World]]** — new bridge note connecting oracle infrastructure, RWA/tokenization, banking rails, word magic, maritime flow language and the Sergey/Satoshi hypothesis as speculative layer.
 - **[[Gen Z và CBDC - Programmable Money Psychology]]** — rewritten as a flagship conditioning-pipeline article: cashless native psychology, crypto UX as training layer, digital ID, programmable money, algorithmic fairness and privacy exit strategy.
-- **Navigation status** — `index.md`, `crypto-finance/index.md`, [[MOC - Financial Sovereignty]] and `_docs/KNOWLEDGE-MAP.md` updated; broken links remain 0.
+- **Navigation status** — root index, crypto-finance gateway and [[MOC - Financial Sovereignty]] updated; broken links remain 0.
 
 ### June 1, 2026
 
@@ -303,7 +303,7 @@ Các bài dưới đây là nơi framework gặp sự kiện, culture hoặc bod
 - **Ancient history & hidden cosmology** — matured [[Thành Cổ Loa]], [[Nỏ Thần]], [[Thánh Issa]], [[Tartaria]], [[Tartaria và Vạn Lý Trường Thành]], [[Nibiru]], [[Nibiru và Nền Văn Minh Annunaki]].
 - **Energy, psyche & awakening** — expanded [[S.E.X]], [[Tình Yêu Tỉnh Thức]], [[Long Mạch]], [[Thực Thể Cõi Trung Giới]], [[Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]], [[Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]].
 - **Mental models & science revisionism** — matured [[Tâm Lý Học Jung]], [[Nguyên Mẫu]], [[Trí Tuệ]], [[Sợ hãi - Tham Lam – Cân bằng]], [[Khoa Học Chân Chính và Thượng Đế]], [[Pin Natri-ion]].
-- **Navigation status** — `index.md` + MOC layer remain the main entry system; `_docs/KNOWLEDGE-MAP.md` regenerated after the pass.
+- **Navigation status** — root index + MOC layer remain the main entry system; broken links remain 0 after the pass.
 
 ### May 30, 2026
 

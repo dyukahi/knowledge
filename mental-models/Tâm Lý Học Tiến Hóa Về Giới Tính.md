@@ -2,13 +2,21 @@
 title: "Tâm Lý Học Tiến Hóa Về Giới Tính"
 aliases: ["Evolutionary Psychology of Gender", "Sexual Economics", "Red Pill Psychology"]
 date: 2026-04-27
-updated: 2026-05-14
+updated: 2026-06-04
 tags: [mental-models]
 status: refined
 ---
 # Tâm Lý Học Tiến Hóa Về Giới Tính
 
 Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì "political correctness". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about male-female psychology that modern society deliberately hides for political correctness. But these patterns are programmed into DNA through millions of years of evolution — they don't disappear just because society wants them to.*
+
+---
+
+## Evidence Discipline / Cách Đọc Bài Này
+
+Bài này là một **mental-model lens**, không phải phán quyết đạo đức về từng cá nhân nam, nữ hay LGBT/progressive/feminist. Những đoạn về sinh học tiến hóa nên đọc như **pattern tendencies**, không phải định mệnh cố định cho mọi người. Những đoạn về [[Ma Trận]], frequency, Karma Disclosure và Matrix attractor thuộc tầng **systems / symbolic / speculative synthesis** của vault, cần đọc cùng protocol trong [[Cách Đọc Red Pill Wiki]].
+
+Điểm cần giữ sạch: dùng model để thấy incentive, desire và social engineering rõ hơn; không dùng model để dehumanize bất kỳ nhóm người nào.
 
 ---
 

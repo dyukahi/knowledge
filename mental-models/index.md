@@ -109,6 +109,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — desire hijacking as economic architecture.
 - [[Bộ Não Rỗng và AI Brain Rot]] — cognitive offloading and agency collapse.
 - [[Thông Minh vs Trí Tuệ]] — why cleverness can still serve the Matrix.
+- [[Tâm Lý Học Tiến Hóa Về Giới Tính]] — high-risk sex/gender psychology lens; read with claim discipline, not as identity war.
 - [[Individuation]] — the inner path from persona to Self.
 - [[Tư Duy Lũy Thừa]] — compounding as a mental operating system.
 
