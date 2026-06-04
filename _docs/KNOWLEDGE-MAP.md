@@ -7,7 +7,7 @@
 - **Notes scanned:** 198
 - **Top-level domains:** 8
 - **Tags detected:** 194
-- **Resolved internal edges:** 1988
+- **Resolved internal edges:** 1989
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 4
 
@@ -51,8 +51,8 @@ Recommended note types:
 - [[mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — degree `24`, backlinks `16`, outlinks `8` — #matrix, #mental-model, #psychology, #social-media
 - [[mental-models/Mô Hình Địa Tâm|Mô Hình Địa Tâm (Geocentrism)]] — degree `24`, backlinks `18`, outlinks `6` — #cosmology, #esoterica, #mental-model, #science-tech
 - [[mental-models/S.E.X Và Tâm Lý Học Jung|S.E.X Và Tâm Lý Học Jung]] — degree `24`, backlinks `11`, outlinks `13` — #esoterica, #mental-model, #psychology
+- [[mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính|Tâm Lý Học Tiến Hóa Về Giới Tính]] — degree `24`, backlinks `1`, outlinks `23` — #mental-models
 - [[mental-models/Thông Minh vs Trí Tuệ|Thông Minh vs Trí Tuệ]] — degree `23`, backlinks `14`, outlinks `9` — #mental-model, #philosophy
-- [[mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính|Tâm Lý Học Tiến Hóa Về Giới Tính]] — degree `23`, backlinks `1`, outlinks `22` — #mental-models
 - … 16 more notes in this domain. See JSON for full list.
 
 ### Health / Sức khỏe `health` — 27 notes
