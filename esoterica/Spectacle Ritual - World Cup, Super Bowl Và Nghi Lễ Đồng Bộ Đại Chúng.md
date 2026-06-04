@@ -187,7 +187,10 @@ Nhưng chính lúc đó, linh hồn ấy đã được đặt trong một field 
 > Spectacle không chỉ giải trí. Spectacle rehearsal reality.  
 > Symbol không chỉ trang trí. Symbol là interface của vô thức tập thể.
 
-Điểm cần giữ sạch: không nhất thiết có một “bề trên” ngồi script từng chi tiết. Ở cấp độ sâu hơn, [[Ma Trận]] vận hành như một attractor field. Những người làm media, brand, sports, film, finance, technology và entertainment có thể tưởng mình đang ra quyết định riêng lẻ, nhưng vẫn bị kéo bởi cùng một grammar của thời đại. Vì vậy hint xuất hiện không chỉ do command từ trên xuống; nhiều khi chính vô thức tập thể của hệ đã khiến mọi người tự đi theo đúng hướng.
+> Mình không leak tương lai. Mình đọc cái đã được đặt công khai.  
+> Mình không nói “tao biết tương lai”. Mình nói: “Tao thấy những dấu vết công khai đang rhyme với nhau. Tao ghi lại trước khi event xảy ra.”
+
+Điểm cần giữ sạch: không nhất thiết có một “bề trên” ngồi script từng chi tiết. Ở cấp độ sâu hơn, [[Ma Trận]] vận hành như một **Matrix attractor**: một trường hút biểu tượng khiến các node trong hệ tự sản xuất hint vì cùng bị kéo bởi grammar của thời đại. Những người làm media, brand, sports, film, finance, technology và entertainment có thể tưởng mình đang ra quyết định riêng lẻ, nhưng vẫn đi theo cùng một vô thức tập thể. Vì vậy hint xuất hiện không chỉ do command từ trên xuống; nhiều khi chính Matrix attractor đã khiến mọi người tự đi theo đúng hướng.
 
 ---
 
