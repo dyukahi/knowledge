@@ -7,7 +7,7 @@
 - **Notes scanned:** 195
 - **Top-level domains:** 8
 - **Tags detected:** 187
-- **Resolved internal edges:** 1967
+- **Resolved internal edges:** 1966
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 3
 
@@ -105,10 +105,10 @@ Recommended note types:
 
 ### Crypto & Finance `crypto-finance` — 13 notes
 
-- [[crypto-finance/Bitcoin|Bitcoin]] — degree `37`, backlinks `23`, outlinks `14` — #crypto-finance
+- [[crypto-finance/Bitcoin|Bitcoin]] — degree `36`, backlinks `22`, outlinks `14` — #crypto-finance
 - [[crypto-finance/index|Crypto & Finance Domain Gateway]] — degree `32`, backlinks `3`, outlinks `29` — #crypto-finance, #domain-gateway, #financial-sovereignty
-- [[crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền|Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — degree `21`, backlinks `10`, outlinks `11` — #crypto-finance, #dopamine, #financial-sovereignty, #mental-model, #risk-management
 - [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]] — degree `21`, backlinks `10`, outlinks `11` — #crypto-finance
+- [[crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền|Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — degree `20`, backlinks `10`, outlinks `10` — #crypto-finance, #dopamine, #financial-sovereignty, #mental-model, #risk-management
 - [[crypto-finance/Tiền Giấy - Tiền Mặt|Tiền Giấy - Tiền Mặt (Fiat Currency)]] — degree `20`, backlinks `16`, outlinks `4` — #crypto-finance, #privacy
 - [[crypto-finance/Tiền Pháp Định|Tiền Pháp Định (Fiat Currency)]] — degree `19`, backlinks `11`, outlinks `8` — #crypto-finance
 - [[crypto-finance/Chainlink - Mắt Xích Của Tokenized World|Chainlink - Mắt Xích Của Tokenized World]] — degree `17`, backlinks `8`, outlinks `9` — #cbdc, #crypto-finance, #sovereignty, #tokenization, #word-magic
@@ -129,7 +129,7 @@ Recommended note types:
 - [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `31`, backlinks `14`, outlinks `17` — #epistemology, #meta, #navigation
 - [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]] — degree `31`, backlinks `11`, outlinks `20` — #esoterica, #hidden-history, #moc
 - [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `29`, backlinks `14`, outlinks `15` — #crypto-finance, #moc, #sovereignty
-- [[MOC - Market Psychology & Risk|MOC - Market Psychology & Risk]] — degree `17`, backlinks `5`, outlinks `12` — #crypto-finance, #market-psychology, #mental-model, #moc, #risk-management
+- [[MOC - Market Psychology & Risk|MOC - Market Psychology & Risk]] — degree `18`, backlinks `6`, outlinks `12` — #crypto-finance, #market-psychology, #mental-model, #moc, #risk-management
 - [[claude|Schema (LLM Instructions)]] — degree `0`, backlinks `0`, outlinks `0`
 - [[README|🧠 Knowledge Base]] — degree `0`, backlinks `0`, outlinks `0`
 
@@ -177,10 +177,10 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…
 18. [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `37` · backlinks `26` · outlinks `11`
    - **Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân…
-19. [[crypto-finance/Bitcoin|Bitcoin]] — degree `37` · backlinks `23` · outlinks `14`
-   - **Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước.
-20. [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `36` · backlinks `27` · outlinks `9`
+19. [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `36` · backlinks `27` · outlinks `9`
    - **Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh — ta/người, sáng/tối, tinh thần/vật chất, thắng/thua — có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qu…
+20. [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `36` · backlinks `27` · outlinks `9`
+   - **Agenda 2030 nên được đọc như một stack hạ tầng quản trị: khí hậu, y tế, tiền tệ, danh tính số, thành phố thông minh, dữ liệu hành vi và truyền thông đạo đức được ghép lại thành permission architecture.** Bề mặt là phát triển bền vững; câu hỏi vault giữ lại…
 
 ## Tag Constellations
 
