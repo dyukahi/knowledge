@@ -120,6 +120,9 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 
 ## Money, Dopamine & Survival Discipline
 
+- [[MOC - Market Psychology & Risk]] — focused map for market emotion, ownership transfer and survival risk.
+
+
 - [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — survival before upside; financial noise discipline.
 - [[Ai Đứng Bên Kia Giao Dịch]] — every market cycle as ownership transfer between strong and weak hands.
 - [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — why markets, apps and platforms monetize craving.

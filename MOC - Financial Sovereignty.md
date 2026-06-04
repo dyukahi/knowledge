@@ -8,6 +8,7 @@ related:
   - "[[Privacy]]"
   - "[[Tiền Giấy - Tiền Mặt]]"
   - "[[Chainlink - Mắt Xích Của Tokenized World]]"
+  - "[[MOC - Market Psychology & Risk]]"
 ---
 
 # MOC - Financial Sovereignty
@@ -71,6 +72,7 @@ Chainlink nằm ở vùng giao giữa crypto, banking và programmable money: or
 
 ## Market Cycles & Ownership Transfer
 
+- [[MOC - Market Psychology & Risk]] — focused map for risk survival, ownership transfer, emotion and dopamine discipline.
 - [[Secular Market]]
 - [[Tư Duy Lũy Thừa]]
 - [[Ai Đứng Bên Kia Giao Dịch]] — top/bottom as ownership transfer; who buys, who sells, and why.

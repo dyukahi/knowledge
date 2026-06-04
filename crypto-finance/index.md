@@ -92,6 +92,7 @@ Orientation: use this when finance starts touching politics, psychology and esot
 ## Key Hubs
 
 - [[MOC - Financial Sovereignty]] — main money, Bitcoin and privacy map.
+- [[MOC - Market Psychology & Risk]] — risk survival and market psychology map.
 - [[MOC - Epistemology & Propaganda]] — why financial narratives shape consent.
 - [[politics-conspiracy/index|Politics & Conspiracy Gateway]] — CBDC, governance, permission architecture.
 - [[mental-models/index|Mental Models Gateway]] — incentives, desire, time preference and discipline.
