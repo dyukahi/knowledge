@@ -26,6 +26,12 @@ CBDC thường được giải thích quá khô: Central Bank Digital Currency, 
 
 Đây là chuyển đổi rất lớn. Tiền không còn chỉ là phương tiện trao đổi. Nó trở thành permission event.
 
+## Evidence Discipline / Cách Đọc
+
+Bài này không nói “mọi CBDC chắc chắn sẽ thành dystopia”. Nó đọc **incentive và design surface**: tiền định danh, ví số, digital ID, social UX và thói quen cashless có thể ghép thành programmable money nếu governance đi theo hướng kiểm soát. Fact layer là các thử nghiệm CBDC/digital ID/cashless; pattern layer là tâm lý chấp nhận convenience; speculative layer là mức độ chúng được tích hợp thành permission system.
+
+*The danger is not one app. The danger is the stack.*
+
 ## Từ Khóa Cần Hiểu
 
 **CBDC** là tiền kỹ thuật số do ngân hàng trung ương phát hành. Nó không chỉ là “app ngân hàng mới”; nếu thiết kế theo hướng programmable và gắn identity, nó có thể trở thành monetary rail có rule native.

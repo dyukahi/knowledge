@@ -25,6 +25,14 @@ Nếu [[Sự Nhất Thể]] là đại dương, Monad là giọt nước vẫn m
 
 ---
 
+## Evidence Discipline / Cách Đọc
+
+Monad là khái niệm metaphysical. Nó không được dùng như một “fact” khoa học theo nghĩa đo đạc vật lý, mà như một model để đọc linh hồn, Source, [[Gnosis]] và cảm giác phân tách trong [[Ma Trận]]. Khi bài viết nói “Monad”, hãy đọc như ngôn ngữ biểu tượng cho tầng bất khả phân của ý thức, không phải một vật thể nằm đâu đó trong cơ thể.
+
+*Monad is a metaphysical pointer: useful when it clarifies experience, dangerous when turned into dogma.*
+
+---
+
 ## 1. Monad Là Gì?
 
 Từ “Monad” đến từ Hy Lạp *monás* — nghĩa là đơn vị, cái Một, điểm không thể phân chia thêm. Trong nhiều truyền thống, Monad được dùng để chỉ nguyên lý đầu tiên: cái Một sinh ra mọi thứ nhưng bản thân nó không bị sinh ra bởi thứ gì khác.

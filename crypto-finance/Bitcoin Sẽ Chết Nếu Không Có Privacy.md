@@ -22,6 +22,14 @@ related:
 
 ---
 
+## Evidence Discipline / Cách Đọc
+
+“Bitcoin sẽ chết” ở đây là thesis chiến lược, không phải dự đoán giá ngắn hạn. Bài này phân biệt Bitcoin như asset, Bitcoin như settlement network, và Bitcoin như công cụ sovereignty. Privacy yếu không nhất thiết giết price action ngay; nó giết khả năng dùng Bitcoin như tiền tự do nếu surveillance, address clustering, custodial rails và compliance chokepoints trở thành default.
+
+*This is a sovereignty thesis, not financial advice.*
+
+---
+
 ## Vault Position / Vị Trí Trong Vault
 
 Bài này nằm trong [[MOC - Financial Sovereignty]], nối [[Bitcoin]], [[Privacy]], [[Tiền Giấy - Tiền Mặt]] và [[Gen Z và CBDC - Programmable Money Psychology]].

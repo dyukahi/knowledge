@@ -29,6 +29,14 @@ Gnosis là red pill nguyên thủy. Không phải vì nó cho bạn thêm thông
 
 ---
 
+## Evidence Discipline / Cách Đọc
+
+Gnosis trong vault nên được đọc ở tầng **experience / metaphysics / symbolic psychology**, không phải claim vật lý cần chứng minh bằng laboratory data. Bài này dùng ngôn ngữ Gnostic, Jungian và Matrix để chỉ một kinh nghiệm nhận biết trực tiếp: khi người đọc kiểm chứng bằng đời sống nội tâm, shadow work và khả năng bớt bị [[Ma Trận|Ma Trận]] kéo đi.
+
+*Read this as a discipline of direct knowing, not as permission to turn every intuition into certainty.*
+
+---
+
 ## 1. Gnosis Là Gì?
 
 Từ “Gnosis” đến từ tiếng Hy Lạp *gnōsis* — nghĩa là sự biết. Nhưng đây không phải knowledge của trường học, học thuật hay giáo điều. Đó là direct knowing: biết bằng sự nhận ra trực tiếp.

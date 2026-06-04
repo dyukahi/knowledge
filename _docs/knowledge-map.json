@@ -12,7 +12,7 @@
       "science-tech": 17
     },
     "tags": 196,
-    "wikilinkEdges": 2040,
+    "wikilinkEdges": 2041,
     "brokenLinks": 0,
     "orphans": 4
   },
@@ -420,6 +420,7 @@
         ],
         "headings": [
           "Gen Z và CBDC - Programmable Money Psychology",
+          "Evidence Discipline / Cách Đọc",
           "Từ Khóa Cần Hiểu",
           "Cashless Native",
           "Crypto Như Training Layer",
@@ -457,7 +458,7 @@
           "science-tech/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 1253,
+        "words": 1341,
         "summary": "**CBDC không chỉ là nâng cấp kỹ thuật của tiền. Nó là bài toán tâm lý học: làm sao để một thế hệ tự nguyện đi từ cash ẩn danh sang tiền số định danh, lập trình được và giám sát được. Gen Z là thế hệ quan trọng nhất vì họ không cần bị ép rời khỏi cash; nhiều n…"
       },
       {
@@ -768,6 +769,7 @@
         ],
         "headings": [
           "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+          "Evidence Discipline / Cách Đọc",
           "Vault Position / Vị Trí Trong Vault",
           "1. Fungibility Là Gì?",
           "2. Bitcoin Không Anonymous",
@@ -813,7 +815,7 @@
           "index.md",
           "MOC - Financial Sovereignty.md"
         ],
-        "words": 1049,
+        "words": 1125,
         "summary": "**Bitcoin có thể sống như store of value mà thiếu privacy một thời gian. Nhưng nếu muốn trở thành tiền tệ tự do thật sự, Bitcoin cần fungibility. Và không có privacy thì không có fungibility. Một đồng tiền bị truy vết, chấm điểm, blacklist và phân loại “sạch/…"
       },
       {
@@ -1184,6 +1186,7 @@
         ],
         "headings": [
           "Gnosis (Ngộ Đạo)",
+          "Evidence Discipline / Cách Đọc",
           "1. Gnosis Là Gì?",
           "2. Gnosis Không Cần Trung Gian",
           "3. Divine Spark: Tia Lửa Bị Mắc Kẹt Trong Vật Chất",
@@ -1275,7 +1278,7 @@
           "politics-conspiracy/Elite.md",
           "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
         ],
-        "words": 1883,
+        "words": 1968,
         "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
       },
       {
@@ -1560,6 +1563,7 @@
         ],
         "headings": [
           "Monad (Đơn Thể Tối Cao)",
+          "Evidence Discipline / Cách Đọc",
           "1. Monad Là Gì?",
           "2. Một Khái Niệm, Nhiều Tên Gọi",
           "3. Monad, Linh Hồn Và Bản Ngã Khác Nhau Thế Nào?",
@@ -1636,7 +1640,7 @@
           "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
           "science-tech/Walter Russell.md"
         ],
-        "words": 2070,
+        "words": 2158,
         "summary": "**Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân…"
       },
       {
@@ -4203,6 +4207,77 @@
         "summary": "**Saturn Cube là lens biểu tượng để đọc giới hạn, thời gian, vật chất, luật, grid và cấu trúc giam giữ của cõi 3D.** Nó không phải bằng chứng độc lập rằng \"Sao Thổ điều khiển thế giới\"; nó là một mặt mã hình ảnh giúp thấy cách power dùng hình khối, màu đen, v…"
       },
       {
+        "path": "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+        "title": "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+        "domain": "esoterica",
+        "tags": [
+          "collective-unconscious",
+          "esoterica",
+          "media",
+          "predictive-programming",
+          "propaganda",
+          "ritual"
+        ],
+        "aliases": [
+          "Mass Synchronization Ritual",
+          "Nghi Lễ Đại Chúng",
+          "Planetary Spectacle",
+          "Spectacle Ritual",
+          "Super Bowl Halftime Ritual",
+          "World Cup Ritual"
+        ],
+        "headings": [
+          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc",
+          "Từ Khóa Cần Hiểu",
+          "Sân Vận Động Là Temple Hiện Đại",
+          "Super Bowl Halftime Show: Nghi Lễ Ở Giữa Trận",
+          "World Cup Và Euro: Nghi Lễ Của Quốc Gia Được Platform Hóa",
+          "26 Như Vòng 8: Infinity, Return Và Reality Loop",
+          "SpaceX 12/6 Và Sky Layer Của Cùng Một Reset",
+          "Reset Reality Bằng Celebration, Không Phải Bằng Cưỡng Bức",
+          "Bề Trên Muốn Gì Qua Collective Spectacle?",
+          "Brazil 2026 Như Sugar Layer Của Field Reset",
+          "Hint Không Nhất Thiết Là Một Kịch Bản Trung Ương",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Ma Trận",
+          "Mỹ Là Ai Cập Tái Sinh",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/index.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "index.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "MOC - Epistemology & Propaganda.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "words": 2379,
+        "summary": "**World Cup, Euro và Super Bowl halftime show không chỉ là giải đấu hoặc giải trí. Chúng là những nghi lễ đồng bộ đại chúng: hàng trăm triệu đến hàng tỷ nervous systems cùng nhìn một sân khấu, cùng nghe một nhịp, cùng nhận một bộ symbol, cùng bước vào một emo…"
+      },
+      {
         "path": "esoterica/Thực Thể Cõi Trung Giới.md",
         "title": "Thực Thể Cõi Trung Giới (Astral Entities)",
         "domain": "esoterica",
@@ -4331,76 +4406,6 @@
         ],
         "words": 788,
         "summary": "**Núi Tu Di là axis mundi: trục giữa trời, đất và các tầng cõi trong vũ trụ học Phật giáo, Hindu và Jain.** Đọc nông thì hỏi \"nó ở đâu trên bản đồ?\" Đọc sâu hơn thì hỏi: vì sao gần như mọi truyền thống đều cần một trung tâm vũ trụ để tổ chức không gian, quyền…"
-      },
-      {
-        "path": "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-        "title": "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
-        "domain": "esoterica",
-        "tags": [
-          "collective-unconscious",
-          "esoterica",
-          "media",
-          "predictive-programming",
-          "propaganda",
-          "ritual"
-        ],
-        "aliases": [
-          "Mass Synchronization Ritual",
-          "Nghi Lễ Đại Chúng",
-          "Planetary Spectacle",
-          "Spectacle Ritual",
-          "Super Bowl Halftime Ritual",
-          "World Cup Ritual"
-        ],
-        "headings": [
-          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Cách Đọc",
-          "Từ Khóa Cần Hiểu",
-          "Sân Vận Động Là Temple Hiện Đại",
-          "Super Bowl Halftime Show: Nghi Lễ Ở Giữa Trận",
-          "World Cup Và Euro: Nghi Lễ Của Quốc Gia Được Platform Hóa",
-          "26 Như Vòng 8: Infinity, Return Và Reality Loop",
-          "SpaceX 12/6 Và Sky Layer Của Cùng Một Reset",
-          "Reset Reality Bằng Celebration, Không Phải Bằng Cưỡng Bức",
-          "Bề Trên Muốn Gì Qua Collective Spectacle?",
-          "Brazil 2026 Như Sugar Layer Của Field Reset",
-          "Hint Không Nhất Thiết Là Một Kịch Bản Trung Ương",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Ma Trận",
-          "Mỹ Là Ai Cập Tái Sinh",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/index.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Epistemology & Propaganda.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "words": 2379,
-        "summary": "**World Cup, Euro và Super Bowl halftime show không chỉ là giải đấu hoặc giải trí. Chúng là những nghi lễ đồng bộ đại chúng: hàng trăm triệu đến hàng tỷ nervous systems cùng nhìn một sân khấu, cùng nghe một nhịp, cùng nhận một bộ symbol, cùng bước vào một emo…"
       },
       {
         "path": "esoterica/Thành Cổ Loa.md",
@@ -8157,6 +8162,7 @@
         ],
         "headings": [
           "Vô Thức Tập Thể (Collective Unconscious)",
+          "Evidence Discipline / Cách Đọc",
           "Vault Position / Vị Trí Trong Vault",
           "1. Jung Nói Gì?",
           "2. Archetype Là Gì?",
@@ -8177,6 +8183,7 @@
           "Monad",
           "Nguyên Mẫu",
           "Năng Lượng Aether",
+          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
           "Tâm Lý Học Jung"
         ],
         "mdlinks": [],
@@ -8185,6 +8192,7 @@
           "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
           "esoterica/Ma Trận.md",
           "esoterica/Monad.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
           "mental-models/Individuation.md",
           "mental-models/Nguyên Mẫu.md",
           "mental-models/Tâm Lý Học Jung.md",
@@ -8221,7 +8229,7 @@
           "MOC - Esoterica & Consciousness.md",
           "science-tech/Nikola Tesla.md"
         ],
-        "words": 896,
+        "words": 990,
         "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
       },
       {
@@ -15089,6 +15097,7 @@
       ],
       "headings": [
         "Gnosis (Ngộ Đạo)",
+        "Evidence Discipline / Cách Đọc",
         "1. Gnosis Là Gì?",
         "2. Gnosis Không Cần Trung Gian",
         "3. Divine Spark: Tia Lửa Bị Mắc Kẹt Trong Vật Chất",
@@ -15180,7 +15189,7 @@
         "politics-conspiracy/Elite.md",
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
       ],
-      "words": 1883,
+      "words": 1968,
       "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
     },
     {
@@ -16675,6 +16684,92 @@
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
     },
     {
+      "path": "mental-models/Vô Thức Tập Thể.md",
+      "title": "Vô Thức Tập Thể",
+      "domain": "mental-models",
+      "tags": [
+        "consciousness",
+        "jung",
+        "mental-model"
+      ],
+      "aliases": [
+        "Akashic Records",
+        "Collective Unconscious",
+        "Vô Thức Tập Thể (Akashic Records)"
+      ],
+      "headings": [
+        "Vô Thức Tập Thể (Collective Unconscious)",
+        "Evidence Discipline / Cách Đọc",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Jung Nói Gì?",
+        "2. Archetype Là Gì?",
+        "3. Dream, Myth Và Culture",
+        "4. Akashic Records Connection",
+        "5. Thiên Tài Và “Download”",
+        "6. Ma Trận Và Vô Thức Tập Thể",
+        "7. Individuation Là Cách Lấy Lại Quyền Truy Cập",
+        "Practice / Thực Hành",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "Gnosis",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Individuation",
+        "Ma Trận",
+        "Monad",
+        "Nguyên Mẫu",
+        "Năng Lượng Aether",
+        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+        "Tâm Lý Học Jung"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "science-tech/Năng Lượng Aether.md"
+      ],
+      "backlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Monad.md",
+        "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+        "Glossary - Từ Điển Red Pill Wiki.md",
+        "health/Tuyến Tùng.md",
+        "index.md",
+        "mental-models/index.md",
+        "mental-models/Individuation.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "MOC - Esoterica & Consciousness.md",
+        "science-tech/Nikola Tesla.md"
+      ],
+      "words": 990,
+      "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
+    },
+    {
       "path": "esoterica/Monad.md",
       "title": "Monad (Đơn Thể Tối Cao)",
       "domain": "esoterica",
@@ -16691,6 +16786,7 @@
       ],
       "headings": [
         "Monad (Đơn Thể Tối Cao)",
+        "Evidence Discipline / Cách Đọc",
         "1. Monad Là Gì?",
         "2. Một Khái Niệm, Nhiều Tên Gọi",
         "3. Monad, Linh Hồn Và Bản Ngã Khác Nhau Thế Nào?",
@@ -16767,91 +16863,8 @@
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
         "science-tech/Walter Russell.md"
       ],
-      "words": 2070,
+      "words": 2158,
       "summary": "**Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân…"
-    },
-    {
-      "path": "mental-models/Vô Thức Tập Thể.md",
-      "title": "Vô Thức Tập Thể",
-      "domain": "mental-models",
-      "tags": [
-        "consciousness",
-        "jung",
-        "mental-model"
-      ],
-      "aliases": [
-        "Akashic Records",
-        "Collective Unconscious",
-        "Vô Thức Tập Thể (Akashic Records)"
-      ],
-      "headings": [
-        "Vô Thức Tập Thể (Collective Unconscious)",
-        "Vault Position / Vị Trí Trong Vault",
-        "1. Jung Nói Gì?",
-        "2. Archetype Là Gì?",
-        "3. Dream, Myth Và Culture",
-        "4. Akashic Records Connection",
-        "5. Thiên Tài Và “Download”",
-        "6. Ma Trận Và Vô Thức Tập Thể",
-        "7. Individuation Là Cách Lấy Lại Quyền Truy Cập",
-        "Practice / Thực Hành",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "Gnosis",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Individuation",
-        "Ma Trận",
-        "Monad",
-        "Nguyên Mẫu",
-        "Năng Lượng Aether",
-        "Tâm Lý Học Jung"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Gnosis.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "mental-models/Individuation.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "science-tech/Năng Lượng Aether.md"
-      ],
-      "backlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-        "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-        "esoterica/Monad.md",
-        "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/Sacred Geometry.md",
-        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-        "Glossary - Từ Điển Red Pill Wiki.md",
-        "health/Tuyến Tùng.md",
-        "index.md",
-        "mental-models/index.md",
-        "mental-models/Individuation.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "MOC - Esoterica & Consciousness.md",
-        "science-tech/Nikola Tesla.md"
-      ],
-      "words": 896,
-      "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
     },
     {
       "path": "crypto-finance/Bitcoin.md",
@@ -19261,6 +19274,7 @@
       ],
       "headings": [
         "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "Evidence Discipline / Cách Đọc",
         "Vault Position / Vị Trí Trong Vault",
         "1. Fungibility Là Gì?",
         "2. Bitcoin Không Anonymous",
@@ -19306,7 +19320,7 @@
         "index.md",
         "MOC - Financial Sovereignty.md"
       ],
-      "words": 1049,
+      "words": 1125,
       "summary": "**Bitcoin có thể sống như store of value mà thiếu privacy một thời gian. Nhưng nếu muốn trở thành tiền tệ tự do thật sự, Bitcoin cần fungibility. Và không có privacy thì không có fungibility. Một đồng tiền bị truy vết, chấm điểm, blacklist và phân loại “sạch/…"
     },
     "crypto-finance/Bitcoin.md": {
@@ -19488,6 +19502,7 @@
       ],
       "headings": [
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Evidence Discipline / Cách Đọc",
         "Từ Khóa Cần Hiểu",
         "Cashless Native",
         "Crypto Như Training Layer",
@@ -19525,7 +19540,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 1253,
+      "words": 1341,
       "summary": "**CBDC không chỉ là nâng cấp kỹ thuật của tiền. Nó là bài toán tâm lý học: làm sao để một thế hệ tự nguyện đi từ cash ẩn danh sang tiền số định danh, lập trình được và giám sát được. Gen Z là thế hệ quan trọng nhất vì họ không cần bị ép rời khỏi cash; nhiều n…"
     },
     "crypto-finance/Giàu Không Nhờ May Mắn.md": {
@@ -21290,6 +21305,7 @@
       ],
       "headings": [
         "Gnosis (Ngộ Đạo)",
+        "Evidence Discipline / Cách Đọc",
         "1. Gnosis Là Gì?",
         "2. Gnosis Không Cần Trung Gian",
         "3. Divine Spark: Tia Lửa Bị Mắc Kẹt Trong Vật Chất",
@@ -21381,7 +21397,7 @@
         "politics-conspiracy/Elite.md",
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
       ],
-      "words": 1883,
+      "words": 1968,
       "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
     },
     "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md": {
@@ -22744,6 +22760,7 @@
       ],
       "headings": [
         "Monad (Đơn Thể Tối Cao)",
+        "Evidence Discipline / Cách Đọc",
         "1. Monad Là Gì?",
         "2. Một Khái Niệm, Nhiều Tên Gọi",
         "3. Monad, Linh Hồn Và Bản Ngã Khác Nhau Thế Nào?",
@@ -22820,7 +22837,7 @@
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
         "science-tech/Walter Russell.md"
       ],
-      "words": 2070,
+      "words": 2158,
       "summary": "**Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân…"
     },
     "esoterica/Một Đời Phù Vân.md": {
@@ -24092,6 +24109,7 @@
         "Glossary - Từ Điển Red Pill Wiki.md",
         "index.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Vô Thức Tập Thể.md",
         "MOC - Epistemology & Propaganda.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
@@ -29163,6 +29181,7 @@
       ],
       "headings": [
         "Vô Thức Tập Thể (Collective Unconscious)",
+        "Evidence Discipline / Cách Đọc",
         "Vault Position / Vị Trí Trong Vault",
         "1. Jung Nói Gì?",
         "2. Archetype Là Gì?",
@@ -29183,6 +29202,7 @@
         "Monad",
         "Nguyên Mẫu",
         "Năng Lượng Aether",
+        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
         "Tâm Lý Học Jung"
       ],
       "mdlinks": [],
@@ -29191,6 +29211,7 @@
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/Ma Trận.md",
         "esoterica/Monad.md",
+        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
         "mental-models/Individuation.md",
         "mental-models/Nguyên Mẫu.md",
         "mental-models/Tâm Lý Học Jung.md",
@@ -29227,7 +29248,7 @@
         "MOC - Esoterica & Consciousness.md",
         "science-tech/Nikola Tesla.md"
       ],
-      "words": 896,
+      "words": 990,
       "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
     },
     "mental-models/index.md": {

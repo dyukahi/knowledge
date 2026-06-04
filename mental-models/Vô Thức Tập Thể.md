@@ -21,6 +21,14 @@ related:
 
 ---
 
+## Evidence Discipline / Cách Đọc
+
+Vô Thức Tập Thể nằm giữa Jungian psychology, myth reading và esoteric synthesis. Có những phần có thể đọc như tâm lý học biểu tượng; có những phần chỉ nên đọc như pattern language để hiểu vì sao media, ritual và [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng|spectacle ritual]] có thể đồng bộ cảm xúc tập thể. Đừng biến archetype thành “bằng chứng” cho một claim cụ thể nếu chưa có nguồn ở tầng fact.
+
+*Archetype is a lens, not a courtroom exhibit.*
+
+---
+
 ## Vault Position / Vị Trí Trong Vault
 
 Trong redpill.wiki, Vô Thức Tập Thể nối [[Tâm Lý Học Jung]], [[Nguyên Mẫu]], [[Individuation]], [[Hollywood - Cây Đũa Phép Của Phù Thủy]], [[Gnosis]] và [[Năng Lượng Aether]].
