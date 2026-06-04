@@ -28,6 +28,8 @@ Health sovereignty có ba tầng: hiểu cơ thể, hiểu hệ thống y tế, 
 
 ## Start Here
 
+Nếu mới vào từ root, xem thêm [[Cách Đọc Red Pill Wiki#4 Health Sovereignty|Health Sovereignty Reading Path]] để giữ đúng medical caution trước khi đi vào protocol.
+
 1. [[Y Tế Tự Nhiên]] — healing outside full institutional dependency.
 2. [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]] — medical-industrial critique và incentive map.
 3. [[Thuyết Vi Sinh Nội Sinh]] — terrain lens trước khi tin mọi thứ là external enemy.

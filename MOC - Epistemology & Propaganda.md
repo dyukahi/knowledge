@@ -29,6 +29,8 @@ Vault không cổ vũ niềm tin mới. Nó luyện lại quyền nhìn.
 
 ## Start Here
 
+Root onboarding sống ở [[Cách Đọc Red Pill Wiki]], đặc biệt path [[Cách Đọc Red Pill Wiki#5 Current Events Lab|Current Events Lab]] cho cách đọc case nóng mà không rơi vào fear/hype.
+
 1. [[Cách Đọc Red Pill Wiki]] — protocol fact / pattern / symbol / speculative synthesis.
 2. [[Khoa Học Xét Lại]] — phân biệt science as method và science as institution.
 3. [[Nghịch Lý Của Hiểu Biết]] — không để framework thành nhà tù mới.

@@ -32,6 +32,8 @@ Nếu bỏ tầng survival, người đọc dễ hiểu đúng narrative nhưng 
 
 ## Start Here
 
+Nếu mới vào từ root, xem thêm [[Cách Đọc Red Pill Wiki#3 Money  Control Rails|Money / Control Rails]] để đọc finance như survival → sovereignty → control architecture.
+
 1. [[Điều Mà Trường Học Không Dạy Về Tiền]] — học lại nền tảng money literacy.
 2. [[Tiền Giấy - Tiền Mặt]] — phân biệt cash, paper promise và permission rail.
 3. [[Tiền Pháp Định]] — fiat như debt architecture, không phải neutral medium.
