@@ -284,3 +284,9 @@ Câu chốt:
 - [[Thông Minh vs Trí Tuệ]]
 - [[Mental Model]]
 - [[Nghịch Lý Của Hiểu Biết]]
+
+---
+
+## Ownership Transfer
+
+[[Ai Đứng Bên Kia Giao Dịch]] là checklist giao dịch đi kèm: trước khi mua/bán, luôn hỏi ai đang đứng bên kia và vì sao.

@@ -95,3 +95,9 @@ Không cần timing hoàn hảo, nhưng cần **đúng phe của secular trend**
 ### Thức tỉnh tài chính (Financial Awakening)
 - [[Báo Cáo 2030]] — Great Reset và chuyển đổi kinh tế / *Great Reset and economic transition*
 - [[Elite]] — Ai kiểm soát dòng chảy tài sản / *Who controls asset flows*
+
+---
+
+## Ownership Transfer
+
+[[Ai Đứng Bên Kia Giao Dịch]] đọc secular cycles như quá trình ownership transfer giữa người kiên nhẫn và người nôn nóng.

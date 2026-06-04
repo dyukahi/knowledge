@@ -72,7 +72,8 @@ Orientation: sovereignty fails when the nervous system is still owned by impulse
 
 1. [[Giàu Không Nhờ May Mắn]] — start with production, leverage and ownership.
 2. [[Tư Duy Lũy Thừa]] — install compounding as mental operating system.
-3. [[Secular Market]] — learn patience across long waves.
+3. [[Ai Đứng Bên Kia Giao Dịch]] — understand every top/bottom as ownership transfer.
+4. [[Secular Market]] — learn patience across long waves.
 4. [[Sợ hãi - Tham Lam – Cân bằng]] — watch fear and greed hijack allocation.
 5. [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — see desire as the market under the market.
 
@@ -104,6 +105,7 @@ Orientation: use this when finance starts touching politics, psychology and esot
 - [[Bitcoin Sẽ Chết Nếu Không Có Privacy]] — why transparent money can become a control surface.
 - [[Tiền Pháp Định]] — fiat as debt, permission and debasement architecture.
 - [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — financial noise discipline and risk survival.
+- [[Ai Đứng Bên Kia Giao Dịch]] — bull/bear crowd psychology and transaction-side discipline.
 - [[Gen Z và CBDC - Programmable Money Psychology]] — how programmable money trains behavior before law arrives.
 - [[Chainlink - Mắt Xích Của Tokenized World]] — oracle, RWA and tokenization bridge between crypto and banking rails.
 - [[Điều Mà Trường Học Không Dạy Về Tiền]] — basic literacy the system omits.

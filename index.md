@@ -206,6 +206,7 @@ Các bài dưới đây là nơi framework gặp sự kiện, culture hoặc bod
 - [[Tiền Giấy - Tiền Mặt]] | [[Tiền Pháp Định]] | [[Điều Mà Trường Học Không Dạy Về Tiền]]
 - [[Bitcoin Sẽ Chết Nếu Không Có Privacy]]
 - [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]
+- [[Ai Đứng Bên Kia Giao Dịch]]
 - [[Gen Z và CBDC - Programmable Money Psychology]]
 - [[Chainlink - Mắt Xích Của Tokenized World]]
 
@@ -267,6 +268,7 @@ Các bài dưới đây là nơi framework gặp sự kiện, culture hoặc bod
 ### June 4, 2026
 
 - **[[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]** — new financial survival / mental model bridge: no leverage, no lifestyle flex, no dopamine trading, critical thinking and risk-first sovereignty.
+- **[[Ai Đứng Bên Kia Giao Dịch]]** — new market psychology mental model using the bull/bear forest story to explain top/bottom ownership transfer and the “who buys/who sells?” question.
 
 ### June 3, 2026
 

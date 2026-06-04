@@ -107,3 +107,8 @@ Trong [[Bitcoin]] hay đời sống, người cân bằng không phải người
 
 [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] là ứng dụng thực chiến của mental model này trong tài chính: giữ vốn, chống dopamine, tránh leverage và sống sót trước khi tìm upside.
 
+---
+
+## Ownership Transfer
+
+[[Ai Đứng Bên Kia Giao Dịch]] bổ sung câu hỏi thực chiến cho vùng cực đoan cảm xúc: ở top ai còn chưa mua, ở bottom ai còn bị ép bán?

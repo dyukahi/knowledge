@@ -69,10 +69,11 @@ Chainlink/oracle/RWA layer là nơi financial sovereignty gặp bài test mới:
 Chainlink nằm ở vùng giao giữa crypto, banking và programmable money: oracle/data bridge, RWA, proof-of-reserve, cross-chain messaging và institutional settlement. Đây là dot quan trọng để đọc transition từ Bitcoin như ledger money sang tài sản toàn cầu được tokenized.
 
 
-## Market Cycles
+## Market Cycles & Ownership Transfer
 
 - [[Secular Market]]
 - [[Tư Duy Lũy Thừa]]
+- [[Ai Đứng Bên Kia Giao Dịch]] — top/bottom as ownership transfer; who buys, who sells, and why.
 
 ---
 
