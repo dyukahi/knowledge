@@ -28,6 +28,21 @@ related:
 
 ---
 
+
+## Evidence Discipline / Cach Doc Claim
+
+This note reads America as a political-symbolic system, not as a literal claim that ancient Egypt secretly runs the United States.
+
+| Claim layer | Safe reading |
+|---|---|
+| Fact / documentable | Public architecture, state symbols, the dollar bill, NASA/Apollo language, Washington Monument, and documented Masonic/Founding imagery when sources are available. |
+| Pattern / systems | Repeating imperial grammar: obelisk, sun-cult, temple-state, expert priesthood, ritual calendar. |
+| Symbol / myth | Egypt as an archetype of power encoding cosmos into stone, money, and state ceremony. |
+| Speculative synthesis | "America as Egypt reborn" is a vault model, not a single-track historical conclusion. |
+
+*Documentable artifacts come first. Mythic resonance and vault synthesis stay in their own lane.*
+
+---
 ## Vault Position / Vị Trí Trong Vault
 
 Bài này nối [[MOC - Ancient Civilizations & Hidden History]] với [[MOC - Epistemology & Propaganda]]. Nó không nói “Mỹ là Ai Cập 100%” như claim thô. Nó đọc America như một **syncretic empire**: Ai Cập, Rome, Babylon, Atlantis và Israel được trộn lại dưới giao diện cộng hòa hiện đại.

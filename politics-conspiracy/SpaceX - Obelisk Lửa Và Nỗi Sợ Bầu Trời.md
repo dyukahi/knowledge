@@ -29,6 +29,21 @@ related:
 
 ---
 
+
+## Evidence Discipline / Cach Doc Claim
+
+This note does not forecast a specific event or make legal accusations about individuals. It reads SpaceX and rocket culture as technocratic symbolism: sky becoming infrastructure, rocket as fire-obelisk, and Elon Musk as a media avatar of the techno-king.
+
+| Claim layer | Safe reading |
+|---|---|
+| Fact / documentable | SpaceX, Starlink, launch imagery, contracts, public media, public statements, and the "go to Mars" narrative. |
+| Pattern / systems | Privatized space, military-commercial overlap, platformized sky, dependence on satellite infrastructure. |
+| Symbol / myth | Rocket/obelisk/fire/sky ladder as old archetypes repackaged through engineering. |
+| Speculative synthesis | "Death of king Elon," sky-fear, and ritual timing are mythic readings, not literal forecasts. |
+
+*The symbolic layer is useful only when it does not pretend to be court-grade evidence.*
+
+---
 ## Vault Position / Vị Trí Trong Vault
 
 Bài này là một satellite note của [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]]. Bài A LIE N đọc disclosure như điểm hội tụ giữa state, Hollywood, market, occult rocket history và alien narrative. Bài này chỉ zoom vào một trục hẹp hơn: bầu trời đã được chuyển nghĩa như thế nào từ cõi thần linh sang hạ tầng kỹ trị.
