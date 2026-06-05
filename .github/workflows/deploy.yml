@@ -53,6 +53,11 @@ jobs:
         working-directory: ./quartz
         run: npx quartz build
 
+      - name: Copy SEO static files
+        run: |
+          if [ -f content/robots.txt ]; then cp content/robots.txt quartz/public/robots.txt; fi
+          if [ -f content/llms.txt ]; then cp content/llms.txt quartz/public/llms.txt; fi
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

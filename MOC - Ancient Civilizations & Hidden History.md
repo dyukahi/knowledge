@@ -1,5 +1,7 @@
 ---
+
 title: "MOC - Ancient Civilizations & Hidden History"
+description: "Map of ancient civilizations, lost history, Tartaria, archaeology anomalies, and hidden-history research paths in Red Pill Wiki."
 date: 2026-06-04
 tags: [moc, hidden-history, esoterica]
 status: refined

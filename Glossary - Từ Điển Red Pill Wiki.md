@@ -1,5 +1,7 @@
 ---
+
 title: "Glossary - Từ Điển Red Pill Wiki"
+description: "Core glossary for Red Pill Wiki terms, sovereignty frameworks, esoteric concepts, propaganda models, health sovereignty, and financial independence."
 aliases: ["Glossary", "Từ Điển Red Pill Wiki", "Vault Glossary"]
 date: 2026-06-05
 tags: [meta, glossary, navigation]

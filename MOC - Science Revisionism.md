@@ -1,5 +1,7 @@
 ---
+
 title: "MOC - Science Revisionism"
+description: "Map of science revisionism, suppressed research, paradigm challenges, energy, cosmology, medicine, and technology anomalies."
 date: 2026-06-04
 tags: [moc, science-tech, revisionist-science]
 status: refined

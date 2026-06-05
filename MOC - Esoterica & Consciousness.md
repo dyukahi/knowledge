@@ -1,5 +1,7 @@
 ---
+
 title: "MOC - Esoterica & Consciousness"
+description: "Map of esoterica, consciousness, Gnosis, Kabbalah, non-duality, symbolic systems, and spiritual sovereignty frameworks."
 date: 2026-06-04
 tags: [moc, esoterica, consciousness]
 status: refined

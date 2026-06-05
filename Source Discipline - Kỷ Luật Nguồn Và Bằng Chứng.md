@@ -1,5 +1,7 @@
 ---
+
 title: "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng"
+description: "Red Pill Wiki evidence standard: how to separate documented fact, systems pattern, symbolic reading, and speculative synthesis."
 aliases: ["Source Discipline", "Evidence Discipline", "Kỷ Luật Bằng Chứng", "Claim Discipline"]
 date: 2026-06-05
 tags: [meta, epistemology, evidence]
