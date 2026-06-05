@@ -1,4 +1,4 @@
-﻿import { i18n } from "../i18n"
+import { i18n } from "../i18n"
 import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
@@ -14,7 +14,9 @@ function cleanBaseUrl(baseUrl: string | undefined): string {
 function pageUrl(baseUrl: string, slug: string | undefined): string {
   const root = `https://${baseUrl}`
   if (!slug || slug === "index" || slug === "404") return `${root}/`
-  return `${root}/${slug.replace(/^\/+|\/+$/g, "")}`
+  const normalizedSlug = slug.replace(/^\/+|\/+$/g, "")
+  if (normalizedSlug.endsWith("/index")) return `${root}/${normalizedSlug.slice(0, -"index".length)}`
+  return `${root}/${normalizedSlug}`
 }
 
 function toIsoDate(value: unknown): string | undefined {

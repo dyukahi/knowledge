@@ -29,7 +29,7 @@ related:
 
 ---
 
-# PHẦN I: WORLD BUILDING — PANDORA
+## PHẦN I: WORLD BUILDING — PANDORA
 
 ## 1. Pandora — Mặt Trăng Sống
 
@@ -198,7 +198,7 @@ Na'vi belief:
 
 ---
 
-# PHẦN II: CÁC BỘ TỘC PANDORA
+## PHẦN II: CÁC BỘ TỘC PANDORA
 
 ## 1. Omaticaya — Forest Clan
 
@@ -352,7 +352,7 @@ Metkayina có connection khác với Eywa — qua **biển**.
 
 ---
 
-# PHẦN III: TUYẾN NHÂN VẬT
+## PHẦN III: TUYẾN NHÂN VẬT
 
 ## 1. Jake Sully — The Awakening Journey
 
@@ -642,7 +642,7 @@ Kiri, dựa trên intuition, đặt một **woodsprite** vào miệng Spider và
 
 ---
 
-# PHẦN IV: RDA & HUMANITY — THE MATRIX
+## PHẦN IV: RDA & HUMANITY — THE MATRIX
 
 ## 1. RDA (Resources Development Administration)
 
@@ -714,7 +714,7 @@ Mo'at explaining why most humans can't learn:
 
 ---
 
-# PHẦN V: ESOTERIC SYNTHESIS
+## PHẦN V: ESOTERIC SYNTHESIS
 
 ## 1. Disclosure Pattern
 
