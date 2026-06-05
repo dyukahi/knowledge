@@ -1,7 +1,13 @@
 ---
 title: "Walter Russell"
 description: "Walter Russell là archetype của nhà hiền triết nghệ sĩ bước vào khoa học bằng trực giác vũ trụ: ánh sáng, chuyển động, nhịp, polarity và mind như nguyên nhân"
-aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+aliases:
+  - Walter Russell
+  - Walter Russell Là Ai
+  - The Universal One
+  - The Secret of Light
+  - Walter Russell Cosmology
+  - Walter Russell Hiền Triết Hiện Đại
 date: 2026-04-08
 tags: [science-tech]
 status: refined
@@ -37,6 +43,16 @@ related:
 ## Vault Position / Vị Trí Trong Vault
 
 Russell đứng cạnh [[Nikola Tesla]] trong [[MOC - Science Revisionism]]: cả hai được đọc như người chạm vào energy bằng trực giác sâu hơn mô hình công nghiệp. Ông cũng nối với [[Năng Lượng Aether]], [[Sự Nhất Thể]] và [[Monad]] vì hệ thống của ông không tách vật chất khỏi mind.
+
+---
+
+## Từ Khóa Cần Hiểu
+
+**The Universal One** là tác phẩm Russell dùng để trình bày một vũ trụ luận dựa trên light, wave, polarity và mind. Đọc nó như một hệ metaphysics-khoa học, không như textbook physics đã được consensus xác nhận.
+
+**The Secret of Light** là cửa vào dễ đọc hơn cho trực giác của Russell: ánh sáng không chỉ là hiện tượng vật lý mà là nguyên lý biểu hiện. Với vault, đây là bridge giữa [[Khoa Học Xét Lại]] và [[Sự Nhất Thể]].
+
+**Russell cosmology** đặt nhịp, polarity và return ở trung tâm. Nó gần với ngôn ngữ hermetic hơn là ngôn ngữ phòng lab hiện đại, nên cần đọc bằng hai mắt: một mắt symbolic, một mắt verification.
 
 ---
 

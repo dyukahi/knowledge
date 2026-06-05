@@ -1,6 +1,12 @@
 ---
 title: "Privacy Is The New Wealth"
 description: "Privacy Is The New Wealth: 'Người giàu thật sự không xuất hiện trên Forbes. Họ trả tiền để biến mất.'"
+aliases:
+  - Privacy Is The New Wealth
+  - Sự Riêng Tư Là Tài Sản Mới
+  - Privacy Wealth
+  - Ẩn Danh Là Giàu Có
+  - Surveillance Capitalism Wealth
 date: 2026-04-28
 tags: [mental-model, privacy, wealth, survival]
 status: refined
@@ -155,12 +161,12 @@ Privacy đã trở thành **luxury goods** với giá cả tương xứng.
 
 | Service | Chi phí ước tính / Estimated Cost |
 |---------|-----------------------------------|
-| Family Office | $1M+/năm / $1M+/year |
-| Private Banking (Singapore, Swiss) | $100K+ minimum |
-| Trust structures, Offshore entities | $50K+ setup |
-| Personal security team | $500K-2M/năm / $500K-2M/year |
-| Digital privacy consultant | $10K-50K |
-| Secure comms, burner phones | Vài nghìn $/năm / A few thousand $/year |
+| Family Office | \$1M+/năm / \$1M+/year |
+| Private Banking (Singapore, Swiss) | \$100K+ minimum |
+| Trust structures, Offshore entities | \$50K+ setup |
+| Personal security team | \$500K-2M/năm / \$500K-2M/year |
+| Digital privacy consultant | \$10K-50K |
+| Secure comms, burner phones | Vài nghìn \$/năm / A few thousand \$/year |
 
 ### Tools Của Người Giàu / Tools of the Wealthy
 

@@ -1,17 +1,22 @@
 ---
-title: "Walter Russell"
-description: "Avatar — Disclosure Của Eywa & Gaia \"I See You.\" — Không phải nhìn bằng mắt. Mà là thấy bằng linh hồn. \"I See You.\" — Not seeing with eyes. But seeing with soul."
-aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+title: "Avatar - Disclosure Của Eywa & Gaia"
+description: "Avatar của James Cameron được đọc như disclosure biểu tượng về Eywa, Gaia, consciousness, thân thể sinh học và ký ức hành tinh."
+aliases:
+  - Avatar
+  - Avatar Eywa
+  - Avatar Gaia
+  - Avatar Disclosure
+  - I See You
 date: 2026-04-08
-tags: [science-tech]
+tags: [esoterica, symbolism, consciousness]
 status: refined
 related:
-  - "[[MOC - Science Revisionism]]"
-  - "[[Khoa Học Xét Lại]]"
-  - "[[Nikola Tesla]]"
-  - "[[Năng Lượng Aether]]"
+  - "[[MOC - Esoterica & Consciousness]]"
   - "[[Sự Nhất Thể]]"
+  - "[[Gaia]]"
   - "[[Monad]]"
+  - "[[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]"
+  - "[[Karma Disclosure - Truth Hidden In Plain Sight]]"
 ---
 # Avatar — Disclosure Của Eywa & Gaia
 

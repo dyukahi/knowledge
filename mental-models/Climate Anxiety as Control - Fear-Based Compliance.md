@@ -33,6 +33,19 @@ Eco-anxiety là nỗi lo dai dẳng về tương lai môi trường. Với Gen Z
 
 **15-minute city** là ý tưởng sống gần nơi làm, mua sắm và dịch vụ. Nó có mặt tốt, nhưng rủi ro xuất hiện khi bị ghép với zone restriction, camera, permit và fine tự động.
 
+## Evidence Discipline / Cách Đọc
+
+| Tầng claim | Cách đọc |
+|---|---|
+| Fact / documentable | Ô nhiễm, phá rừng, độc chất công nghiệp và biến động khí hậu là vấn đề thật cần xử lý bằng dữ liệu |
+| Psychology | Eco-anxiety là trạng thái lo âu có thể ảnh hưởng quyết định sống, sinh con, career và tiêu dùng |
+| Pattern / systems | Nỗi sợ thật có thể bị đóng gói thành compliance layer: score, permit, offset, restriction |
+| Speculative synthesis | Carbon wallet + digital ID + payment rail có thể thành hạ tầng permission nếu xã hội chấp nhận vì guilt |
+
+Kỷ luật ở đây rất quan trọng: vault không dùng bài này để phủ định môi trường. Vault dùng bài này để tách **ecology thật** khỏi **governance interface**. Một bên là đất, nước, rừng, độc chất, chuỗi cung ứng. Bên kia là dashboard, credit, score, permit và quyền di chuyển.
+
+---
+
 ## Guilt Machine
 
 Một trong những trò mạnh nhất là chuyển gánh nặng hệ thống thành guilt cá nhân. Burger của bạn giết hành tinh. Chuyến bay của bạn giết hành tinh. Xe của bạn giết hành tinh. Con cái của bạn là carbon burden. Trong khi đó military, private jets, industrial agriculture, planned obsolescence, shipping, corporate supply chains và regulatory capture thường ít bị người trẻ nhìn thấy ở cùng scale.
