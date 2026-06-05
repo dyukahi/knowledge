@@ -1,5 +1,6 @@
 ---
 title: "Suy Thận (Kidney Failure)"
+description: "Suy thận, đặc biệt suy thận cấp hoặc giai đoạn cuối, là tình trạng nguy hiểm. Phù, khó thở, lú lẫn, đau ngực, kali cao, tiểu ít"
 aliases: ["Suy Thận", "Kidney Failure", "Chronic Kidney Disease", "CKD"]
 date: 2026-04-08
 tags: [health, kidney, terrain, sovereignty]
@@ -11,7 +12,6 @@ related:
   - "[[Kính Chiếu Yêu - Nhìn Thấu Tây Y]]"
   - "[[Vận Chín, Người Kogi và Ma Trận Y Tế]]"
 ---
-
 # Suy Thận (Kidney Failure)
 
 **Suy thận là khi bộ lọc sống của cơ thể không còn giữ được nhịp lọc máu, nước, điện giải và chất thải. Đọc theo health sovereignty, đây không chỉ là “một cơ quan hỏng”, mà là tín hiệu cả terrain: đường huyết, huyết áp, độc tải, viêm, thuốc, ăn uống, stress và lối sống đã đẩy thận quá giới hạn.**

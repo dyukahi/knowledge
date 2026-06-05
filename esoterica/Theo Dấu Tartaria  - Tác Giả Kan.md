@@ -1,3 +1,9 @@
+---
+title: "Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan"
+description: "Chuỗi bài viết Theo Dấu Tartaria (Tracking Tartaria) của Thượng sĩ Kan (Kiên Trần) được thực hiện trong khoảng thời gian 2021 2022"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: Theo Dấu Tartaria - Tác Giả Kan
 date: 2026-04-07
@@ -9,7 +15,7 @@ status: refined
 Chuỗi bài viết **Theo Dấu Tartaria** (Tracking Tartaria) của Thượng sĩ Kan (Kiên Trần) được thực hiện trong khoảng thời gian 2021-2022. Đây là một bộ tài liệu mang tính chất giải ảo lịch sử cực kỳ chi tiết, đưa ra những góc nhìn sắc bén dưới lăng kính của Khoa Học Xét Lại. Thông qua việc lật lại các tư liệu, hình ảnh, và kiến trúc cổ xưa, Kan đặt nghi vấn về những sự lừa dối khổng lồ của nền sử học chính thống Phương Tây đối với phần còn lại của nhân loại.
 
 ## 1. Tại Sao Rome Điêu Tàn? – Bí Ẩn Về Giovanni Battista Piranesi
-Trong tập mở đầu, Kan giới thiệu về họa sĩ và nhà điêu khắc Giovanni Battista Piranesi (1720 – 1778). Theo chính sử, những bức tranh khắc axit (etching) của Piranesi mô tả sự điêu tàn của Rome chỉ là "sản phẩm của trí tưởng tượng". 
+Trong tập mở đầu, Kan giới thiệu về họa sĩ và nhà điêu khắc Giovanni Battista Piranesi (1720 – 1778). Theo chính sử, những bức tranh khắc axit (etching) của Piranesi mô tả sự điêu tàn của Rome chỉ là "sản phẩm của trí tưởng tượng".
 * **Nghi vấn (Occam's Razor):** Kan chỉ ra rằng mức độ chi tiết trong các kiệt tác của Piranesi là quá chân thực. Rất có thể Piranesi chỉ đơn giản là đang họa lại *cảnh thật* mà ông tận mắt chứng kiến.
 * **Thảm họa ẩn giấu:** Câu hỏi lớn được đặt ra: Điều gì đã xảy ra cách đây chỉ khoảng 300 năm khiến một đại đô thị như Rome rơi vào cảnh hoang tàn, đổ nát đến vậy? Lịch sử dường như đã bị tẩy xóa, và những bí mật có thể đang nằm sâu trong thư viện mật của Vatican.
 
@@ -22,7 +28,7 @@ Kan dẫn dắt người đọc tới Bảo tàng Sansevero ở Napoli (Ý), nơ
 ## 3. Chìm Theo Titanic - Vở Kịch Của Giới Tinh Hoa Wall Street
 Titanic không chỉ là một con tàu hay một bộ phim tình cảm hư cấu, mà là một thuyết âm mưu vĩ đại liên quan trực tiếp đến tiền tệ và chiến tranh.
 * **Thủ tiêu sự chống đối:** Con tàu Titanic thuộc sở hữu của White Star Line, dưới sự kiểm soát của J.P. Morgan. Sự cố chìm tàu năm 1912 được cho là một vụ ám sát khổng lồ nhằm tiêu diệt các tỷ phú phản đối việc thành lập Cục Dự Trữ Liên Bang (Federal Reserve).
-* **Chuỗi sự kiện đẫm máu:** 
+* **Chuỗi sự kiện đẫm máu:**
  * 1912: Titanic chìm.
  * 1913: Lập Federal Reserve (Ngân hàng tư nhân kiểm soát tiền tệ).
  * 1914: Khởi mào Thế Chiến I.

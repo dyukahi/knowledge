@@ -1,5 +1,6 @@
 ---
 title: "Trí Tuệ"
+description: "Trí tuệ là khả năng nhìn đúng bản chất, chọn đúng game, hành động đúng tỷ lệ và không để kiến thức phục vụ ego. Nó không chỉ là biết nhiều hơn"
 aliases: ["Wisdom", "Prajñā", "Sophia"]
 date: 2026-04-08
 tags: [mental-model, philosophy]

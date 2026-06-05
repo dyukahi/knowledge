@@ -59,14 +59,14 @@ Cameron đặt tên này không ngẫu nhiên:
 ```mermaid
 flowchart TD
     E["EYWA<br/>Planetary Consciousness"]
-    
+
     E --> T["Trees<br/>Neural storage"]
     E --> A["Animals<br/>Tsaheylu compatible"]
     E --> N["Na'vi<br/>Conscious connection"]
     E --> F["Flora<br/>Bioluminescent"]
-    
+
     T & A & N & F --> NET["Neural Network<br/>10^14 electrochemical connections"]
-    
+
     NET --> E
 ```
 
@@ -127,12 +127,12 @@ Toàn bộ Pandora **phát sáng** về đêm.
 ```mermaid
 flowchart TD
     TS["Tree of Souls<br/>(Vitraya Ramunong)"]
-    
+
     TS --> U["Upload consciousness<br/>(death ritual)"]
     TS --> D["Download wisdom<br/>(prayer, seeking)"]
     TS --> C["Communicate with ancestors"]
     TS --> T["Transfer consciousness<br/>(Jake's transformation)"]
-    
+
     TS --> E["= EYWA ACCESS POINT"]
 ```
 
@@ -495,14 +495,14 @@ Grace — the scientist — confirms Eywa exists at death.
 ```mermaid
 flowchart TD
     K["KIRI"]
-    
+
     T1["Theory 1: Eywa's Avatar<br/>Eywa incarnate in Na'vi form"]
     T2["Theory 2: Grace Reborn<br/>Grace consciousness → Eywa → new body"]
     T3["Theory 3: Immaculate Conception<br/>Divine birth pattern"]
     T4["Theory 4: Experiment<br/>Eywa testing new form"]
-    
+
     K --> T1 & T2 & T3 & T4
-    
+
     S["Seizures = FIREWALL"]
     S --> F1["Premature access blocked"]
     S --> F2["Protection from overload"]
@@ -564,7 +564,7 @@ flowchart TD
     Q1 --> Q2["Memories uploaded to avatar"]
     Q2 --> Q3["Recombinant born"]
     Q3 --> Q4["Same memories<br/>Different body<br/>Is it him?"]
-    
+
     Q4 --> P["= Reincarnation question<br/>What makes 'you' YOU?"]
 ```
 

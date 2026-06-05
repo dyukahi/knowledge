@@ -1,5 +1,6 @@
 ---
 title: "Chakra (Luân Xa)"
+description: "Chakra là bản đồ đọc con người như một trục năng lượng sống: từ bản năng sinh tồn ở thân dưới, qua tim, tiếng nói, trực giác, rồi lên ý thức hợp nhất. Trong vault"
 aliases: ["Chakra", "Luân Xa", "Energy Centers"]
 date: 2026-04-26
 tags: [esoterica, consciousness, energy]

@@ -1,5 +1,6 @@
 ---
 title: "Cabal (Thế Lực Ngầm)"
+description: "Elite là tầng power structure có thể mô tả bằng institution, finance và policy. Cabal là tầng shadow symbolic hơn: nơi power không chỉ vận hành bằng luật và tiền"
 aliases: ["Cabal", "Shadow Government", "Deep State", "Thế Lực Ngầm"]
 date: 2026-04-08
 tags: [esoterica, politics-conspiracy, power-structure]
@@ -12,7 +13,6 @@ related:
   - "[[Nhị Nguyên]]"
   - "[[MOC - Epistemology & Propaganda]]"
 ---
-
 # Cabal (Thế Lực Ngầm)
 
 **Cabal là cách gọi tầng quyền lực ngầm vận hành phía sau quyền lực hiển hiện. Nhưng trong vault, Cabal không nên đọc như cartoon “một nhóm người mặc áo choàng trong phòng tối”. Nó là một model về coordination: tiền, tình báo, media, ritual, policy và myth cùng điều hướng Ma Trận từ phía sau sân khấu.**

@@ -1,5 +1,6 @@
 ---
 title: "Núi Tu Di"
+description: "Núi Tu Di là axis mundi: trục giữa trời, đất và các tầng cõi trong vũ trụ học Phật giáo, Hindu và Jain"
 aliases: ["Mount Meru", "Sumeru", "Meru", "Axis Mundi"]
 date: 2026-04-08
 tags: [esoterica, cosmology, buddhism, symbolism]

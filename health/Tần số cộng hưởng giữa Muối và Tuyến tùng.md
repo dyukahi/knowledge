@@ -1,5 +1,6 @@
 ---
 title: "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
+description: "Muối và tuyến tùng không nên được đọc như một công thức 'kích hoạt con mắt thứ ba' đơn giản. Đây là một node giao nhau giữa điện giải học, nhịp sinh học"
 date: 2026-04-08
 tags: [health]
 status: refined

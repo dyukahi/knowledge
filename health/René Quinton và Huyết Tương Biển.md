@@ -1,5 +1,6 @@
 ---
 title: "René Quinton và Huyết Tương Biển"
+description: "René Quinton quan trọng với vault không phải vì mọi claim lịch sử quanh 'huyết tương biển' đều nên tin nguyên xi"
 aliases: ["René Quinton", "Huyết Tương Biển", "Plasma Quinton", "Quinton Marine Plasma"]
 date: 2026-04-08
 tags: [health, terrain-theory, minerals, seawater]

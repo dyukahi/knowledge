@@ -1,5 +1,6 @@
 ---
 title: Sự thật về ma túy
+description: "Phân tích phản biện về ma túy, nghiện và cuộc chiến chống ma túy, đặt trọng tâm vào cơ chế kiểm soát, định kiến xã hội và kỷ luật nguồn."
 date: 2026-04-07
 tags: [politics-conspiracy]
 status: refined

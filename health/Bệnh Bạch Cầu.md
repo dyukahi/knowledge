@@ -1,5 +1,6 @@
 ---
 title: "Bệnh Bạch Cầu"
+description: "Leukemia, nhất là acute leukemia, có thể tiến triển nhanh và nguy hiểm tính mạng. Sốt kéo dài, bầm tím bất thường, chảy máu, thiếu máu nặng, nhiễm trùng lặp lại"
 aliases: ["Leukemia", "Ung Thư Máu", "Blood Cancer"]
 date: 2026-04-08
 tags: [health, cancer, blood, terrain]
@@ -11,7 +12,6 @@ related:
   - "[[Công Thức Chữa Lành Tự Nhiên]]"
   - "[[Kính Chiếu Yêu - Nhìn Thấu Tây Y]]"
 ---
-
 # Bệnh Bạch Cầu (Leukemia)
 
 **Bệnh bạch cầu là ung thư của hệ tạo máu, thường bắt đầu trong tủy xương và làm rối loạn sản xuất tế bào máu. Đọc theo health sovereignty, đây là một nơi phải rất tỉnh: không được phủ nhận tính nguy hiểm của leukemia, nhưng cũng không được bỏ qua terrain đã làm máu, miễn dịch và tủy xương suy yếu.**

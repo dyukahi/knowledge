@@ -1,5 +1,6 @@
 ---
 title: "Hollywood - Cây Đũa Phép Của Phù Thủy"
+description: "Hollywood là nơi giải trí trở thành nghi lễ đại chúng: hình ảnh, nhạc, thần tượng, biểu tượng và câu chuyện được lặp lại đủ lâu để đi thẳng vào Vô Thức Tập Thể"
 date: 2026-04-29
 tags: [esoterica, predictive-programming, occult]
 status: refined

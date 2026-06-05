@@ -1,3 +1,9 @@
+---
+title: "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng"
+description: "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng: title: Mental Model Tầng Sâu Nhận Thức & Năng Lượng"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: Mental Model - Tầng Sâu Nhận Thức & Năng Lượng
 aliases: ["Deep Consciousness & Energy Layers"]

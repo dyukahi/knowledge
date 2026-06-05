@@ -99,8 +99,8 @@ Nếu không trả lời được, đừng vội gọi đó là conviction. Có 
 
 Market psychology không phải “đọc tâm lý đám đông để thắng đám đông” theo kiểu kiêu ngạo. Nó là kỷ luật nhận ra mình cũng là một phần của đám đông.
 
-> Người mới hỏi: giá sẽ đi đâu?  
-> Người khá hơn hỏi: dòng tiền đang ở đâu?  
+> Người mới hỏi: giá sẽ đi đâu?
+> Người khá hơn hỏi: dòng tiền đang ở đâu?
 > Người sống sót hỏi: nếu mình sai, mình chết kiểu nào?
 
 Risk management là spiritual practice của người chơi market. Nó bắt ego quỳ xuống trước reality.

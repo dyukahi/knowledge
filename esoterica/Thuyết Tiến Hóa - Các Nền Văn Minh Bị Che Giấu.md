@@ -42,19 +42,19 @@ flowchart TD
         C[Charles Darwin<br/>On the Origin of Species 1859]
         W[Gia đình Wedgwood<br/>Tiền và ảnh hưởng]
     end
-    
+
     subgraph "Đẩy vào Mainstream"
         H[Thomas Huxley<br/>Darwin's Bulldog]
         X[X Club<br/>Kiểm soát Royal Society]
         R[Royal Society<br/>Định hình khoa học Anh]
     end
-    
+
     subgraph "Hậu duệ và Agenda"
         A[Aldous Huxley<br/>Brave New World]
         J[Julian Huxley<br/>UNESCO, Eugenics]
         U[Transhumanism]
     end
-    
+
     E --> C
     W --> C
     C --> H
@@ -141,7 +141,7 @@ flowchart TD
     S["Smithsonian thu thập"]
     V["Bộ xương biến mất"]
     E["Narrative: không có bằng chứng"]
-    
+
     D --> S --> V --> E
 ```
 

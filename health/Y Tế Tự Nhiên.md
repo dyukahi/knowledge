@@ -1,5 +1,6 @@
 ---
 title: "Y Tế Tự Nhiên"
+description: "Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ"
 date: 2026-04-07
 tags: [health]
 status: refined

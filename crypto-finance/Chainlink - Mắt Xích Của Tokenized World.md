@@ -1,5 +1,6 @@
 ---
 title: "Chainlink - Mắt Xích Của Tokenized World"
+description: "Bài này nằm trong MOC Financial Sovereignty, nhưng nó cũng nối sang MOC Epistemology & Propaganda vì ngôn ngữ của crypto tự nó đã là một dạng word magic."
 aliases: ["Chainlink", "Oracle Layer", "Tokenized World", "Sergey Nazarov"]
 date: 2026-06-03
 tags: [crypto-finance, tokenization, cbdc, word-magic, sovereignty]
@@ -15,7 +16,6 @@ related:
   - "[[MOC - Financial Sovereignty]]"
   - "[[MOC - Epistemology & Propaganda]]"
 ---
-
 # Chainlink - Mắt Xích Của Tokenized World
 
 **Chainlink không chỉ là một oracle protocol trong crypto. Trong vault, nó là mắt xích biểu tượng và hạ tầng nối blockchain với tài sản thật, dữ liệu thật, ngân hàng, SWIFT, RWA và eventually programmable money. Nếu [[Bitcoin]] làm mass quen với tiền trên ledger, Chainlink làm ledger nói chuyện với hệ thống tài sản toàn cầu.**

@@ -1,5 +1,6 @@
 ---
 title: "Tứ Linh"
+description: "Trong redpill.wiki, Tứ Linh nằm ở giao điểm của symbolism, Long Mạch, Phong Thủy, hidden history và consciousness."
 aliases: ["Four Sacred Animals", "Long Lân Quy Phụng", "Tứ Linh Việt Nam"]
 date: 2026-05-30
 tags: [esoterica, symbolism, vietnamese-culture, hidden-history]
@@ -12,7 +13,6 @@ related:
   - "[[Đạo]]"
   - "[[Ma Trận]]"
 ---
-
 # Tứ Linh
 
 **Tứ Linh gồm Long, Lân, Quy, Phụng: bốn archetype linh vật trong văn hóa Á Đông, mã hóa quan hệ giữa thiên khí, địa khí, vương quyền, đạo đức, trường thọ và tái sinh. Đây không chỉ là motif trang trí. Nó là symbolic technology của một nền văn hóa từng đọc thế giới như một cơ thể sống.**

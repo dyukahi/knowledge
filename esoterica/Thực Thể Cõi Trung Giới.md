@@ -1,3 +1,9 @@
+---
+title: "Thực Thể Cõi Trung Giới (Astral Entities)"
+description: "title: Thực Thể Cõi Trung Giới (Astral Entities) — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: Thực Thể Cõi Trung Giới (Astral Entities)
 date: 2026-04-07
@@ -28,7 +34,7 @@ flowchart TB
     C["Cõi Thượng Giới | Causal/Mental<br/>Higher realms"]
     A["Cõi Trung Giới | Astral<br/>Emotional realm"]
     P["Cõi Hạ Giới | Physical<br/>Material world"]
-    
+
     C --> A --> P
 ```
 

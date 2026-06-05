@@ -1,5 +1,6 @@
 ---
 title: "Sự Thật Đen Tối Về Phim Khiêu Dâm"
+description: "Porn không chỉ là nội dung người lớn; nó là một hệ thống công nghiệp hóa ham muốn, biến năng lượng tình dục thành dopamine loop, data, shame, fantasy và dependency"
 aliases: ["The Dark Truth About Porn", "Porn Truth"]
 date: 2026-04-07
 tags: [politics-conspiracy, esoterica, dopamine]

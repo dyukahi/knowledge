@@ -1,5 +1,6 @@
 ---
 title: "Tiền, tiền, tiền... (P.1) / Money, Money, Money... (P.1)"
+description: "'Hãy để tao kiểm soát tiền của một quốc gia, và tao sẽ không quan tâm đến ai là người làm ra luật' – Mayer Amschel Bauer Rothschild"
 date: 2026-04-07
 tags: [crypto-finance]
 status: refined
@@ -7,11 +8,10 @@ related:
   - "[[Tiền Giấy - Tiền Mặt]]"
   - "[[Bitcoin]]"
 ---
-
 # Tiền, tiền, tiền... (P.1) — Money, Money, Money... (P.1)
 
 > "Hãy để tao kiểm soát tiền của một quốc gia, và tao sẽ không quan tâm đến ai là người làm ra luật" – Mayer Amschel Bauer Rothschild
-> 
+>
 > *"Let me control the money of a nation, and I care not who makes its laws" – Mayer Amschel Bauer Rothschild*
 
 Bài viết giới thiệu về Tiền, một ngôn ngữ chung duy nhất kết nối 7,6 tỷ người trên toàn thế giới bất chấp mọi khác biệt về chủng tộc, văn hoá, tôn giáo. Tuy nhiên, cũng chính vì tiền mà hàng tỷ người trở thành nô lệ cho nó, do quyền lực in và kiểm soát tiền tệ nằm trong tay một số ít người.

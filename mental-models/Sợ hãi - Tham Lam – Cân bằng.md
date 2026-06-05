@@ -1,5 +1,6 @@
 ---
 title: Sợ hãi - Tham Lam – Cân bằng
+description: "Bài này nối mental models với Bitcoin, Kiểm Soát Tâm Trí và Privacy Is The New Wealth. Trong thị trường, fear greed là cảm xúc giá. Trong Ma Trận"
 aliases: ["Fear Greed Balance", "Fear and Greed", "Cân Bằng Cảm Xúc Thị Trường"]
 date: 2026-04-07
 tags: [mental-model, finance, psychology, bitcoin]
@@ -11,7 +12,6 @@ related:
   - "[[Tư Duy Lũy Thừa]]"
   - "[[Schadenfreude - Dopamine Phản Diện]]"
 ---
-
 # Sợ hãi - Tham Lam – Cân bằng
 
 **Sợ hãi và tham lam là hai cực điều khiển thị trường, chính trị và đời sống cá nhân. Người chưa có trung tâm sẽ mua narrative của đám đông: sợ khi cần quan sát, tham khi cần kỷ luật.**

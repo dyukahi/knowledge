@@ -1,3 +1,9 @@
+---
+title: "Nỏ Thần"
+description: "aliases: ['Nỏ Thần', 'Linh Quang Kim Quy Thần Nỏ'] — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: "Nỏ Thần"
 aliases: ["Nỏ Thần", "Linh Quang Kim Quy Thần Nỏ"]

@@ -1,5 +1,6 @@
 ---
 title: "UAP Disclosure - Controlled Revelation"
+description: "UAP Disclosure không chỉ là câu hỏi 'UFO có thật không?' mà là câu hỏi ai được quyền tiết lộ, tiết lộ theo nhịp nào, bằng bằng chứng nào"
 date: 2026-05-09
 tags: [politics-conspiracy, esoterica, disclosure]
 status: refined

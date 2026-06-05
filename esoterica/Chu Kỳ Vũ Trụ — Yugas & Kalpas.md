@@ -51,7 +51,7 @@ flowchart LR
     T["TRETA YUGA<br/>Thời Bạc"]
     D["DVAPARA YUGA<br/>Thời Đồng"]
     K["KALI YUGA<br/>Thời Sắt"]
-    
+
     S --> T --> D --> K
     K -.->|"Pralaya / Reset"| S
 ```

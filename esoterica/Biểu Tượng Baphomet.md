@@ -1,5 +1,6 @@
 ---
 title: "Biểu Tượng Baphomet"
+description: "Baphomet là một biểu tượng của đối cực bị nén vào một thân: người và thú, nam và nữ, trên và dưới, sáng và tối, linh và dục. Đọc nông, nó chỉ là 'hình Satan'. Đọc kỹ"
 aliases: ["Baphomet", "Sabbatic Goat"]
 date: 2026-04-07
 tags: [esoterica, symbolism]
@@ -11,7 +12,6 @@ related:
   - "[[Ma Trận]]"
   - "[[Elite]]"
 ---
-
 # Biểu Tượng Baphomet
 
 **Baphomet là một biểu tượng của đối cực bị nén vào một thân: người và thú, nam và nữ, trên và dưới, sáng và tối, linh và dục.** Đọc nông, nó chỉ là "hình Satan". Đọc kỹ, nó là một bài test về symbolic literacy: người nhìn có phân biệt được lịch sử, huyền học, propaganda, shock aesthetic và suy diễn không?

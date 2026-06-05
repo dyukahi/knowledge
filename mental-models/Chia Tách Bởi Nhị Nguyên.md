@@ -1,5 +1,6 @@
 ---
 title: Chia Tách Bởi Nhị Nguyên
+description: "Bài này là nhánh con của Nhị Nguyên và nối thẳng sang Sự Nhất Thể, Monad và Ma Trận. Nếu Nhị Nguyên là grammar của cõi trải nghiệm"
 aliases: ["Separation by Duality", "Dualistic Split", "Ảo Tưởng Chia Tách"]
 date: 2026-04-07
 tags: [mental-model, consciousness, duality]
@@ -11,7 +12,6 @@ related:
   - "[[Ma Trận]]"
   - "[[Nghịch Lý Của Hiểu Biết]]"
 ---
-
 # Chia Tách Bởi Nhị Nguyên
 
 **Chia tách bởi nhị nguyên là khoảnh khắc tâm trí nhìn một trường thống nhất rồi cắt nó thành hai phe: đúng/sai, ta/người, sáng/tối, biết/không biết. Cái bẫy không nằm ở hai cực; cái bẫy nằm ở việc quên nền Một đang chứa cả hai.**

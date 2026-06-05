@@ -1,5 +1,6 @@
 ---
 title: "Tư Duy Lũy Thừa"
+description: "Tư duy lũy thừa là khả năng nhìn thấy giai đoạn tích lũy vô hình trước khi kết quả bùng nổ. Nó chống lại ảo giác tuyến tính của trường học"
 aliases: ["Exponential Thinking", "Non-linear Growth"]
 date: 2026-04-07
 tags: [mental-model]
@@ -10,7 +11,6 @@ related:
   - "[[Individuation]]"
   - "[[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]"
 ---
-
 # Tư Duy Lũy Thừa (Exponential Thinking)
 
 **Tư duy lũy thừa là khả năng nhìn thấy giai đoạn tích lũy vô hình trước khi kết quả bùng nổ.** Nó chống lại ảo giác tuyến tính của trường học, công sở và dopamine economy: làm một chút, nhận một chút, thấy thưởng ngay. Những kết quả đột phá thường đến từ cường độ đúng, hệ thống đúng, thời gian đủ dài, rồi một điểm bẻ cong.
@@ -35,7 +35,7 @@ flowchart LR
         L1["Input"] --> L2["Output"]
         L3["1 hour work"] --> L4["1 unit result"]
     end
-    
+
     subgraph "Exponential / Lũy thừa"
         E1["Intense effort"] --> E2["Accumulation"]
         E2 --> E3["Tipping point"]
@@ -96,7 +96,7 @@ flowchart LR
     A["Effort starts"] --> B["Valley of Disappointment"]
     B --> C["Tipping Point"]
     C --> D["Exponential growth"]
-    
+
     B -.->|"Most people quit here"| X["Give up"]
 ```
 
@@ -167,4 +167,3 @@ Nếu câu trả lời là không, bạn không đang compound. Bạn chỉ đan
 ## Compounding Cần Sống Sót
 
 [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] là ứng dụng thực chiến của mental model này trong tài chính: giữ vốn, chống dopamine, tránh leverage và sống sót trước khi tìm upside.
-

@@ -1,5 +1,6 @@
 ---
 title: "Privacy (Quyền Riêng Tư)"
+description: "Privacy là quyền cơ bản của con người — quyền giữ cho mình những gì thuộc về mình: suy nghĩ, tài sản, hoạt động cá nhân. Trong kỷ nguyên số và giám sát toàn diện"
 date: 2026-04-07
 tags: [crypto-finance]
 status: refined
@@ -30,7 +31,7 @@ Privacy là lớp nền của [[MOC - Financial Sovereignty|financial sovereignt
 
 > *"Nếu bạn không có gì để giấu, bạn không có gì để sợ"*
 > *"If you have nothing to hide, you have nothing to fear"*
-> 
+>
 > **Đây là propaganda nguy hiểm nhất / This is the most dangerous propaganda.**
 
 ### 1. Privacy ≠ Che giấu tội ác / Privacy ≠ Hiding Crimes

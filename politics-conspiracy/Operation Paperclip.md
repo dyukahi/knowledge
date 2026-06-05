@@ -1,5 +1,6 @@
 ---
 title: "Operation Paperclip"
+description: "Trong redpill.wiki, Operation Paperclip là bridge giữa hidden history, Khoa Học Xét Lại, Elite, NASA/Disney/Hollywood"
 aliases: ["Project Paperclip", "Nazi Scientists in America", "Chiến Dịch Kẹp Giấy"]
 date: 2026-05-30
 tags: [politics-conspiracy, history, science-tech, hidden-history]
@@ -12,7 +13,6 @@ related:
   - "[[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]]"
   - "[[MOC - Ancient Civilizations & Hidden History]]"
 ---
-
 # Operation Paperclip
 
 **Operation Paperclip là chương trình hậu Thế chiến II đưa các nhà khoa học, kỹ sư và chuyên gia Đức Quốc Xã sang Mỹ. Ở tầng lịch sử, đây là Cold War talent acquisition. Ở tầng vault, nó là bằng chứng rằng empire không chỉ đánh bại kẻ thù — nó hấp thụ tri thức của kẻ thù rồi đổi logo cho infrastructure mới.**

@@ -352,8 +352,8 @@ Trump kích hoạt đám đông. Elon cung cấp miracle-tech và hạ tầng. T
 
 Cặp này không cần được đọc như “hai người biết mình đang đóng vai gì”. Archetype thường vận hành qua persona, incentive và collective projection.
 
-> Trump làm con thú có tiếng nói.  
-> Elon làm con thú có hạ tầng.  
+> Trump làm con thú có tiếng nói.
+> Elon làm con thú có hạ tầng.
 > Beast gọi đám đông. False Prophet dựng phép lạ. Empire nhận worship.
 
 ---

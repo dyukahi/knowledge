@@ -1,3 +1,9 @@
+---
+title: "S.E.X Và Tâm Lý Học Jung"
+description: "S.E.X Và Tâm Lý Học Jung: aliases: ['Sacred Energy eXchange and Jung', 'S.E.X và Jung']"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: "S.E.X Và Tâm Lý Học Jung"
 aliases: ["Sacred Energy eXchange and Jung", "S.E.X và Jung"]
@@ -86,16 +92,16 @@ flowchart TB
     subgraph Conscious["Ý thức | Conscious"]
         Ego["Bản ngã | Ego"]
     end
-    
+
     subgraph Unconscious["Vô thức | Unconscious"]
         Personal["Vô thức cá nhân | Personal Unconscious"]
         Collective["Vô thức tập thể | Collective Unconscious"]
     end
-    
+
     subgraph Archetypes["Nguyên mẫu | Archetypes"]
         Arc["Vua, Pháp sư, Chiến binh, Người tình"]
     end
-    
+
     Ego --> Personal --> Collective --> Arc
 ```
 

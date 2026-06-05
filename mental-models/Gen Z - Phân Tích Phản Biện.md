@@ -1,5 +1,6 @@
 ---
 title: "Gen Z - Phân Tích Phản Biện"
+description: "Bài này là cổng vào series Gen Z & Agenda 2030 . Nó không nhằm chửi một thế hệ. Nó đọc Gen Z như case study của social engineering mềm: không cần cưỡng ép quá lộ nếu một"
 aliases: ["Gen Z", "Generation Z", "Thế hệ Z", "Gen Z Agenda 2030"]
 date: 2026-06-04
 tags: [mental-model, society, psychology, generation, agenda-2030]
@@ -14,7 +15,6 @@ related:
   - "[[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]"
   - "[[Báo Cáo 2030]]"
 ---
-
 # Gen Z - Phân Tích Phản Biện
 
 **Gen Z không phải thế hệ hỏng, cũng không phải thế hệ cứu thế giới. Họ là thế hệ đầu tiên lớn lên trong một thực tại nơi attention, identity, money, work, fear và body đều được platform hóa trước khi họ đủ lớn để gọi tên điều đó. Muốn hiểu Gen Z, đừng hỏi họ tốt hay xấu. Hỏi xem hệ thống nào đã thiết kế môi trường quanh họ.**
@@ -75,7 +75,7 @@ Series này đọc sáu tầng capture: attention, money, work, identity, fear v
 
 Gen Z không phải vấn đề. Gen Z là triệu chứng rõ nhất của một thực tại đã platform hóa con người.
 
-> Đừng confuse interface với reality.  
-> Đừng confuse convenience với freedom.  
-> Đừng confuse access với ownership.  
+> Đừng confuse interface với reality.
+> Đừng confuse convenience với freedom.
+> Đừng confuse access với ownership.
 > Đừng confuse safety với sovereignty.

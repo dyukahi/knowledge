@@ -1,5 +1,6 @@
 ---
 title: "Suramin"
+description: "Suramin pharmaceutical không phải trà thảo mộc. Đây là thuốc mạnh, có thể có độc tính và cần supervision y khoa. Không tự ý dùng suramin dạng thuốc."
 aliases: ["Pine Needle Tea", "Trà Lá Thông", "Suramin Sodium"]
 date: 2026-04-07
 tags: [health, repurposed-drugs, nervous-system]
@@ -11,7 +12,6 @@ related:
   - "[[Thuyết Vi Sinh Nội Sinh]]"
   - "[[MOC - Health Sovereignty]]"
 ---
-
 # Suramin
 
 **Suramin là một thuốc antiparasitic tổng hợp được phát triển từ đầu thế kỷ 20, nổi tiếng trong điều trị một số bệnh ký sinh trùng như African sleeping sickness. Trong vault, Suramin quan trọng vì nó nằm ở giao điểm của antiparasitic medicine, purinergic signaling, nervous-system reset, autism research và các claim dân gian quanh trà lá thông.**

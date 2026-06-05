@@ -1,5 +1,6 @@
 ---
 title: "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức"
+description: "Predictive programming là giả thuyết rằng media không chỉ phản ánh tương lai mà còn tập cho công chúng cảm thấy tương lai đó quen thuộc trước khi nó được triển khai"
 aliases: ["Predictive Programming", "Lập Trình Tiên Đoán"]
 date: 2026-04-29
 tags: [esoterica, matrix, hollywood, mind-control]

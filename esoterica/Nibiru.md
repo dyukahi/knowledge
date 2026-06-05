@@ -1,3 +1,9 @@
+---
+title: "Nibiru (Hành Tinh X)"
+description: "Nibiru (Planet X) là thiên thể bí ẩn được cho là có quỹ đạo elliptical cực kỳ dài (3,600 năm), định kỳ tiếp cận hệ Mặt Trời bên trong và gây ra các thảm họa trên Trái"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: "Nibiru"
 date: 2026-04-08

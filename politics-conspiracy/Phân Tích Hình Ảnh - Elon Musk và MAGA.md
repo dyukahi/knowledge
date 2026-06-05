@@ -1,5 +1,6 @@
 ---
 title: "Phân Tích Hình Ảnh - Elon Musk và MAGA"
+description: "Một hình ảnh chính trị không chỉ truyền thông tin; nó truyền vai diễn. Khi Elon Musk, Mars, Dark MAGA, Tesla, pentagram và meme occult bị đặt chung trong một frame"
 aliases: ["Elon Musk MAGA Symbolism", "Elon Dark MAGA Image Analysis", "Musk MAGA Occult Reading"]
 date: 2026-04-07
 tags: [politics-conspiracy, symbolism, elon-musk, maga]

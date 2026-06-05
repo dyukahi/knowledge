@@ -1,5 +1,6 @@
 ---
 title: Tâm Lý Học Jung
+description: "Tâm Lý Học Jung là hub của cụm Individuation, Vô Thức Tập Thể, Nguyên Mẫu và nhiều bài esoterica như Gnosis hoặc Ma Trận"
 aliases: ["Jungian Psychology", "Analytical Psychology", "Carl Jung"]
 date: 2026-04-12
 tags: [mental-model, jung, psychology, consciousness]
@@ -12,7 +13,6 @@ related:
   - "[[Gnosis]]"
   - "[[S.E.X Và Tâm Lý Học Jung]]"
 ---
-
 # Tâm Lý Học Jung (Jungian Psychology)
 
 **Jung quan trọng vì ông không thu nhỏ con người thành cái máy phản xạ. Ông đọc psyche như một vũ trụ có tầng: ego, shadow, persona, anima/animus, archetype, collective unconscious và Self.**

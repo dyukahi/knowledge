@@ -1,5 +1,6 @@
 ---
 title: Quy Luật Trao Đổi Tâm Linh
+description: "Quy Luật Trao Đổi Tâm Linh nói một điều đơn giản: khi con người xin quyền lực từ bên ngoài trước khi có nội lực bên trong, món quà thường đi kèm một sợi dây. Trong vault"
 aliases: ["Spiritual Exchange Law", "Energy Exchange", "Luật Trao Đổi Năng Lượng"]
 date: 2026-04-07
 tags: [esoterica, consciousness, discernment]

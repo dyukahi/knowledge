@@ -1,5 +1,6 @@
 ---
 title: "Transhumanism và Gen Z - Cool Tech hay Slippery Slope"
+description: "Không nên phản xạ “tech xấu”. Medical technology có thể cứu người thật. Prosthetics, pacemaker, cochlear implant, brain computer interface cho người liệt"
 aliases: ["Transhumanism", "Human Enhancement", "Neuralink", "Biohacking", "Cyborg", "Human Upgrade"]
 date: 2026-06-04
 tags: [science-tech, psychology, generation, agenda-2030, transhumanism, ai]
@@ -11,7 +12,6 @@ related:
   - "[[AI]]"
   - "[[Privacy]]"
 ---
-
 # Transhumanism và Gen Z - Cool Tech hay Slippery Slope
 
 **Transhumanism được bán như tự do nâng cấp bản thân. Nhưng nếu hạ tầng nâng cấp nằm trong tay Big Tech, military, insurance, employer và state, câu hỏi không còn là “con người có nên mạnh hơn không?” Câu hỏi là: ai sở hữu layer nằm giữa cơ thể, tâm trí và máy móc?**

@@ -43,7 +43,7 @@ sequenceDiagram
     participant A as Neuron A
     participant S as Khe Synapse
     participant B as Neuron B
-    
+
     A->>S: Phóng dopamine
     S->>B: Gắn vào thụ thể
     Note over B: Truyền tín hiệu khoái lạc

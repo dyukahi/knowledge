@@ -1,10 +1,10 @@
 ---
 title: "Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu?"
+description: "Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu?: What Is the Point of Existence — Or Is the Question Already Wrong?"
 date: 2026-05-01
 tags: [esoterica, philosophy, meaning, consciousness]
 status: refined
 ---
-
 # Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu?
 
 *What Is the Point of Existence — Or Is the Question Already Wrong?*

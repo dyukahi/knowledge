@@ -1,5 +1,6 @@
 ---
 title: "Secular Market (Thị Trường Chu Kỳ Dài)"
+description: "Secular Market chỉ các xu hướng vĩ mô kéo dài hàng thập kỷ (10 30 năm), chi phối sự dịch chuyển tài sản và định hình lại cấu trúc kinh tế toàn cầu"
 date: 2026-04-07
 tags: [crypto-finance]
 status: refined
@@ -8,7 +9,6 @@ related:
   - "[[Chu Kỳ Hoàng Đạo]]"
   - "[[Ma Trận - Giải Phẫu Hoàn Chỉnh]]"
 ---
-
 # Secular Market (Thị Trường Chu Kỳ Dài)
 
 **Secular Market** chỉ các xu hướng vĩ mô kéo dài hàng thập kỷ (10-30 năm), chi phối sự dịch chuyển tài sản và định hình lại cấu trúc kinh tế toàn cầu. Khác với các chu kỳ ngắn (cyclical), secular trends là những làn sóng lớn quyết định ai giàu ai nghèo trong cả một thế hệ.

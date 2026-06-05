@@ -1,5 +1,6 @@
 ---
 title: "Privacy Is The New Wealth"
+description: "Privacy Is The New Wealth: 'Người giàu thật sự không xuất hiện trên Forbes. Họ trả tiền để biến mất.'"
 date: 2026-04-28
 tags: [mental-model, privacy, wealth, survival]
 status: refined
@@ -25,17 +26,17 @@ graph TD
         A --> D[Đồng Hồ Đắt / Expensive Watches]
         B & C & D --> E[Nhiều Người Biết = Thành Công / More People Know = Success]
     end
-    
+
     subgraph "THẾ KỶ 21: GIÀU = ẨN DANH | 21ST CENTURY: RICH = ANONYMOUS"
         F[Tài Sản / Assets] --> G[Privacy Infrastructure]
         F --> H[Offshore Structures]
         F --> I[Stealth Identity]
         G & H & I --> J[Không Ai Biết = An Toàn / No One Knows = Safe]
     end
-    
+
     E -.->|"Surveillance Capitalism"| K{TARGET}
     J -.->|"Chiến Lược Sinh Tồn / Survival Strategy"| L{PROTECTED}
-    
+
     K --> M[Kidnapping]
     K --> N[Extortion]
     K --> O[Lawsuits]
@@ -76,7 +77,7 @@ flowchart LR
         C -->|Phân tích / Analyze| D[Dự Đoán Hành Vi / Behavior Prediction]
         D -->|Bán cho / Sell to| E[Highest Bidder]
     end
-    
+
     E --> F[Advertisers]
     E --> G[Bảo Hiểm / Insurance]
     E --> H[Chính Phủ / Government]
@@ -182,7 +183,7 @@ flowchart TD
         D --> E[Post Nhiều Hơn / Post More]
         E --> A
     end
-    
+
     subgraph "AI HƯỞNG LỢI? / WHO BENEFITS?"
         E --> F[Platform: Engagement → Ads]
         E --> G[Brands: Influence → Sales]
@@ -244,21 +245,21 @@ graph TD
         A3[Password Manager]
         A4[VPN Public WiFi]
     end
-    
+
     subgraph "LEVEL 2: STEALTH MINDSET"
         B1[Không Post Assets / Don't Post Assets]
         B2[Không Share Location / Don't Share Location]
         B3[Tách Identity Online/Offline / Separate Identities]
         B4[Giả Nghèo Khi Cần / Act Poor When Needed]
     end
-    
+
     subgraph "LEVEL 3: INFRASTRUCTURE"
         C1[Family Office / Trusts]
         C2[Self-Custody Crypto]
         C3[Multi-Bank Relationships]
         C4[Data Broker Removal]
     end
-    
+
     A1 & A2 & A3 & A4 --> B1 & B2 & B3 & B4
     B1 & B2 & B3 & B4 --> C1 & C2 & C3 & C4
 ```

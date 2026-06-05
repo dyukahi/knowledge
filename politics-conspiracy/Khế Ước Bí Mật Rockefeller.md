@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Khế Ước Bí Mật Rockefeller (The Secret Covenant)"
+description: "Khế ước Rockefeller như mô hình kiểm soát nhận thức, nối elite, ranh giới thế giới và kỷ luật đọc biểu tượng."
 date: 2026-04-08
 tags: [politics-conspiracy]
 status: refined
@@ -106,9 +107,9 @@ Kết nối: [[Tiền Giấy - Tiền Mặt]], [[Báo Cáo 2030]]
 
 ## Mối Liên Hệ Với Bức Tường Bang (Connection to Ice Wall Manifesto)
 
-Khế ước này chính là "phần mềm" vận hành cái "khung củi vật lý" được mô tả trong [[Bức Tường Bang]]. Trong khi Bức tường băng giới hạn không gian di chuyển, Khế ước Rockefeller giới hạn nhận thức và khả năng thức tỉnh của con người bên trong cái lồng đó.
+Khế ước này chính là "phần mềm" vận hành cái "khung củi vật lý" được mô tả trong [[Bức Tường Băng]]. Trong khi Bức tường băng giới hạn không gian di chuyển, Khế ước Rockefeller giới hạn nhận thức và khả năng thức tỉnh của con người bên trong cái lồng đó.
 
-*This covenant is the "software" operating the "physical cage" described in [[Bức Tường Bang|Ice Wall Manifesto]]. While the Ice Wall limits physical movement, the Rockefeller Covenant limits perception and awakening capacity within that cage.*
+*This covenant is the "software" operating the "physical cage" described in [[Bức Tường Băng|Ice Wall Manifesto]]. While the Ice Wall limits physical movement, the Rockefeller Covenant limits perception and awakening capacity within that cage.*
 
 ## Related
 - [[Báo Cáo 2030]]
@@ -117,7 +118,7 @@ Khế ước này chính là "phần mềm" vận hành cái "khung củi vật 
 - [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]
 - [[Thuyết Vi Sinh Nội Sinh]]
 - [[Tiền Giấy - Tiền Mặt]]
-- [[Bức Tường Bang]]
+- [[Bức Tường Băng]]
 - [[Y Tế Tự Nhiên]]
 - [[Điều mà nền giáo dục và chính phủ không dạy bạn]]
 - [[Kiểm Soát Tâm Trí]] — Cơ chế kiểm soát / Control mechanism

@@ -20,7 +20,7 @@ related:
 ---
 
 > **Câu hỏi trung tâm của thập kỷ tới:**
-> 
+>
 > Nếu trí nhớ ở cloud, tính toán ở máy, suy luận ở AI, cảm xúc được làm dịu bởi content, bản sắc được định hình bởi thuật toán, quyết định được gợi ý bởi chatbot, thân thể bị bỏ quên, và quan hệ người được thay bằng parasocial — **cái gì còn lại để gọi là "con người"?**
 
 > *If memory is in the cloud, computation on machines, reasoning by AI, emotions soothed by content, identity shaped by algorithms, decisions suggested by chatbots, body forgotten, and human relationships replaced by parasocial connections — **what remains to call "human"?***
@@ -53,7 +53,7 @@ flowchart TB
     L3["Lớp 3: Suy luận → AI | Layer 3: Reasoning → AI"]
     L2["Lớp 2: Tính toán → Máy | Layer 2: Compute → Machine"]
     L1["Lớp 1: Bộ nhớ → Cloud | Layer 1: Memory → Cloud"]
-    
+
     L3 --> L2 --> L1
 ```
 
@@ -152,7 +152,7 @@ flowchart TD
     S4["Dopamine loop"]
     S5["Chú ý vỡ vụn | Attention fragmentation"]
     S6["Mất quyền tự chủ | Agency decay"]
-    
+
     S1 --> S2 --> S3 --> S4 --> S5 --> S6
     S6 -->|"Repeat"| S1
 ```
@@ -398,7 +398,7 @@ Nghe có vẻ ironic, nhưng em nghĩ:
 4. **Hãy sai đôi khi.** Cognitive debt không chỉ đến từ việc dùng AI — nó đến từ việc luôn muốn "đúng ngay" mà không chịu sai để học.
 
 > **"Appamādo amatapadaṃ"** — Không buông lung là con đường bất tử.
-> 
+>
 > Trong thời đại AI, "không buông lung" nghĩa là: chủ động chọn khi nào dùng công cụ, khi nào tự làm. Chủ động chọn chiều sâu thay vì tốc độ. Chủ động giữ quyền làm người.
 
 *In the age of AI, "heedfulness" means: consciously choosing when to use tools, when to do it yourself. Consciously choosing depth over speed. Consciously retaining the right to be human.*
@@ -465,4 +465,3 @@ Trong kỷ nguyên AI, cái gì cũng chạy theo tốc độ. Nhưng những ng
 - [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]]
 - [[Digital ID Normalization - From Instagram to Government ID]]
 - [[UBI Conditioning - The End of Work Ethic]]
-

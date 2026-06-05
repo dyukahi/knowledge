@@ -1,5 +1,6 @@
 ---
 title: "Cơ Chế Tự Bảo Vệ Của Cơ Thể"
+description: "Triệu chứng không phải lúc nào cũng là kẻ thù; nhiều triệu chứng là cách cơ thể cô lập, đẩy ra, làm nóng, làm loãng, ho, ói"
 aliases: ["Body's Self-Defense", "Immune Response"]
 date: 2026-04-17
 tags: [health, terrain-theory, immune-system]

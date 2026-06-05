@@ -1,5 +1,6 @@
 ---
 title: "Digital ID Normalization - From Instagram to Government ID"
+description: "Trước đây identity là thứ bạn lấy ra khi cần: khai sinh, hộ chiếu, căn cước, bằng lái. Bây giờ identity là một lớp chạy nền. Email, phone, device ID, Face ID"
 aliases: ["Digital ID", "Digital Identity", "Biometric ID", "Identity Wallet", "Verify to Exist"]
 date: 2026-06-04
 tags: [science-tech, psychology, generation, agenda-2030, surveillance, digital-id]
@@ -10,7 +11,6 @@ related:
   - "[[Privacy]]"
   - "[[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]]"
 ---
-
 # Digital ID Normalization - From Instagram to Government ID
 
 **Digital ID không xuất hiện từ hư không. Nó đi sau một quá trình dài nơi con người tự nguyện biến mình thành profile: tên thật, mặt thật, location, social graph, reputation, behavior, preference. Government ID wallet chỉ là bước formal hóa thứ platform đã normalize trước.**

@@ -1,5 +1,6 @@
 ---
 title: "Tà Linh"
+description: "Bài này không yêu cầu người đọc tin ngay vào thực thể vô hình như một fact vật lý. Nó đặt bốn lớp cạnh nhau:"
 aliases: ["Tà Linh", "Energy Parasites", "Archons", "Tà Linh (Energy Parasites)", "Wetiko", "Flyers"]
 date: 2026-04-08
 tags: [esoterica, gnosis, consciousness]
@@ -12,7 +13,6 @@ related:
   - "[[Thực Thể Cõi Trung Giới]]"
   - "[[Atula]]"
 ---
-
 # Tà Linh (Energy Parasites)
 
 **Tà Linh là ngôn ngữ biểu tượng để nói về những lực ký sinh trên attention, cảm xúc và sinh lực của con người. Đọc thấp thì đó là trauma loop, nghiện, thought-form và môi trường độc. Đọc cao thì đó là Archon, Wetiko, thực thể trung giới và cơ chế harvest loosh.**

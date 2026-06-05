@@ -1,5 +1,6 @@
 ---
 title: "Nghịch Lý Của Hiểu Biết"
+description: "Có một trap mà mind không thể thoát bằng thinking: Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó."
 aliases: ["Paradox of Knowledge", "Vượt Qua Nhị Nguyên", "Beyond Duality"]
 date: 2026-04-27
 tags: [esoterica]
@@ -25,7 +26,7 @@ flowchart TD
     D[Tìm được D phủ định C]
     L[Vòng lặp vô tận]
     N[Không bao giờ thấy bản chất]
-    
+
     A --> B --> C --> D --> L --> N
     N -.->|"Quay lại"| A
 ```
@@ -64,7 +65,7 @@ flowchart TD
     L4["Layer 4: Framework Collapse - mọi foundation có thể là hoax"]
     L5["Layer 5: Paradox - không còn framework nào để bám"]
     L6["Layer 6: ???"]
-    
+
     L1 --> L2 --> L3 --> L4 --> L5 --> L6
 ```
 
@@ -126,9 +127,9 @@ flowchart TB
         B[Beliefs]
         D[Debates]
     end
-    
+
     S[Cái Thấy - The Seeing]
-    
+
     S -->|"Không bị affect"| Objects
 ```
 

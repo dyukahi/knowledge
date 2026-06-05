@@ -1,11 +1,11 @@
 ---
 title: Thành Cổ Loa
+description: "Thành Cổ Loa là kinh đô của nước Âu Lạc thời An Dương Vương, thường được nhớ qua truyền thuyết Nỏ Thần, Mỵ Châu Trọng Thủy và bi kịch mất nước. Nhưng nếu đọc sâu hơn"
 aliases: ["Thành Cổ Loa", "Cổ Loa"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
-
 # Thành Cổ Loa
 
 **Thành Cổ Loa** là kinh đô của nước Âu Lạc thời An Dương Vương, thường được nhớ qua truyền thuyết [[Nỏ Thần]], Mỵ Châu - Trọng Thủy và bi kịch mất nước. Nhưng nếu đọc sâu hơn, Cổ Loa không chỉ là di tích khảo cổ. Nó là một cấu trúc xoắn ốc hiếm, một bài toán phòng thủ, một biểu tượng long mạch, và một ký ức về trình độ tổ chức xã hội cổ ở vùng châu thổ Bắc Bộ.

@@ -1,5 +1,6 @@
 ---
 title: "Gen Z và CBDC - Programmable Money Psychology"
+description: "CBDC thường được giải thích quá khô: Central Bank Digital Currency, tiền kỹ thuật số do ngân hàng trung ương phát hành. Định nghĩa đó đúng, nhưng chưa chạm vào vấn đề"
 aliases: ["Gen Z CBDC", "CBDC Psychology", "Programmable Money", "Cashless Native", "Digital Money Conditioning"]
 date: 2026-06-04
 tags: [crypto-finance, psychology, generation, agenda-2030, cbdc, privacy]
@@ -15,7 +16,6 @@ related:
   - "[[Digital ID Normalization - From Instagram to Government ID]]"
   - "[[MOC - Financial Sovereignty]]"
 ---
-
 # Gen Z và CBDC - Programmable Money Psychology
 
 **CBDC không chỉ là nâng cấp kỹ thuật của tiền. Nó là bài toán tâm lý học: làm sao để một thế hệ tự nguyện đi từ cash ẩn danh sang tiền số định danh, lập trình được và giám sát được. Gen Z là thế hệ quan trọng nhất vì họ không cần bị ép rời khỏi cash; nhiều người gần như chưa từng sống trong một thế giới nơi cash là mặc định.**

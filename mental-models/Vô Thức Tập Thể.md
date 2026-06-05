@@ -1,5 +1,6 @@
 ---
 title: "Vô Thức Tập Thể"
+description: "Vô Thức Tập Thể nằm giữa Jungian psychology, myth reading và esoteric synthesis. Có những phần có thể đọc như tâm lý học biểu tượng"
 aliases: ["Collective Unconscious", "Vô Thức Tập Thể (Akashic Records)", "Akashic Records"]
 date: 2026-04-07
 tags: [mental-model, jung, consciousness]
@@ -12,7 +13,6 @@ related:
   - "[[Gnosis]]"
   - "[[Monad]]"
 ---
-
 # Vô Thức Tập Thể (Collective Unconscious)
 
 **Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic field.**

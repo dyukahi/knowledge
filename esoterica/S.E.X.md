@@ -1,11 +1,11 @@
 ---
 title: "S.E.X (Sacred Energy eXchange)"
+description: "S.E.X trong cách đọc esoteric là Sacred Energy eXchange : trao đổi năng lượng thiêng liêng. Điều này không phủ định sinh học, khoái cảm hay tâm lý"
 aliases: ["Sacred Energy eXchange", "Trao Đổi Năng Lượng Thiêng Liêng"]
 date: 2026-04-07
 tags: [esoterica]
 status: refined
 ---
-
 # S.E.X (Sacred Energy eXchange)
 
 **S.E.X** trong cách đọc esoteric là **Sacred Energy eXchange**: trao đổi năng lượng thiêng liêng. Điều này không phủ định sinh học, khoái cảm hay tâm lý. Nó đặt tình dục vào đúng độ sâu: một hành động nơi thân thể, hệ thần kinh, ký ức, hormone, vô thức, nghiệp và năng lượng sống gặp nhau.

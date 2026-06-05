@@ -1,3 +1,9 @@
+---
+title: "Bức Tường Băng (Ice Wall)"
+description: "Bức Tường Băng (Ice Wall): aliases: ['Ice Wall', 'Antarctic Ice Wall', 'Bức Tường Bang']"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: "Bức Tường Băng (Ice Wall)"
 aliases: ["Ice Wall", "Antarctic Ice Wall", "Bức Tường Bang"]
@@ -55,19 +61,19 @@ flowchart TB
     subgraph Sky["Bầu trời | Sky"]
         Sun["Mặt Trời/Trăng | Sun/Moon"]
     end
-    
+
     subgraph Surface["Mặt đất | Surface"]
         Land["Lục địa | Continents"]
     end
-    
+
     subgraph Edge["Rìa | Edge"]
         Ice["Tường băng | Ice Wall"]
     end
-    
+
     subgraph Beyond["Bên ngoài | Beyond"]
         Unknown["Chưa biết? | Unknown?"]
     end
-    
+
     Sky --- Surface --- Edge --- Beyond
 ```
 

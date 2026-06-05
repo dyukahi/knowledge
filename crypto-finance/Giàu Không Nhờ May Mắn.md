@@ -1,5 +1,6 @@
 ---
 title: "Giàu Không Nhờ May Mắn (How to Get Rich Without Getting Lucky)"
+description: "Giàu Không Nhờ May Mắn là cách đọc redpill về wealth: không coi giàu có là trúng số, không coi tiền là thần, và không coi địa vị là tự do"
 date: 2026-04-07
 tags: [crypto-finance]
 status: refined
@@ -8,7 +9,6 @@ related:
   - "[[Tiền Giấy - Tiền Mặt]]"
   - "[[Sợ hãi - Tham Lam – Cân bằng]]"
 ---
-
 # Giàu Không Nhờ May Mắn
 
 **Giàu Không Nhờ May Mắn** là cách đọc redpill về wealth: không coi giàu có là trúng số, không coi tiền là thần, và không coi địa vị là tự do. Bài gốc của Naval Ravikant hữu ích vì nó tách rõ ba thứ thường bị trộn lẫn: wealth, money và status. Trong vault này, node này nối tư duy tài chính với [[Tư Duy Lũy Thừa]], [[Privacy Is The New Wealth]], [[Bitcoin]], [[Tiền Pháp Định]] và câu hỏi lớn hơn: làm sao thoát khỏi trò chơi được thiết kế để hút thời gian sống.

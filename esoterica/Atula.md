@@ -1,5 +1,6 @@
 ---
 title: "Atula (Asura)"
+description: "Atula là archetype của quyền lực có phước nhưng thiếu an định: mạnh, thông minh, tham vọng, hiếu thắng, nhưng bị ganh tị và chiến tranh nội tâm kéo đi. Trong vault"
 aliases: ["Asura", "A-tu-la", "Cõi Atula"]
 date: 2026-04-08
 tags: [esoterica, buddhism, consciousness]

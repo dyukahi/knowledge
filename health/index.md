@@ -1,5 +1,6 @@
 ---
 title: "Health Domain Gateway"
+description: "Health trong redpill.wiki là quyền đọc lại cơ thể trước khi outsource toàn bộ sinh mệnh cho fear, pharma, protocol và authority. Domain này không phủ nhận cấp cứu"
 aliases: ["Health", "Health Sovereignty", "Chủ Quyền Sức Khỏe"]
 date: 2026-06-01
 tags: [domain-gateway, health, sovereignty]
@@ -9,7 +10,6 @@ related:
   - "[[Y Tế Tự Nhiên]]"
   - "[[Red Pill Wiki]]"
 ---
-
 # Health Domain Gateway
 
 **Health trong redpill.wiki là quyền đọc lại cơ thể trước khi outsource toàn bộ sinh mệnh cho fear, pharma, protocol và authority.** Domain này không phủ nhận cấp cứu, phẫu thuật hay chẩn đoán hiện đại. Nó hỏi câu sâu hơn: tại sao một nền y tế mạnh về can thiệp lại yếu trong việc dạy con người hiểu terrain, metabolism, immunity, stress, light, sleep, food và sovereignty?

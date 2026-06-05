@@ -1,5 +1,6 @@
 ---
 title: "Mental Models Domain Gateway"
+description: "Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality. Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology"
 aliases: ["Mental Models", "Mô Hình Tư Duy"]
 date: 2026-06-01
 tags: [domain-gateway, mental-model, epistemology]
@@ -9,7 +10,6 @@ related:
   - "[[Mental Model]]"
   - "[[Red Pill Wiki]]"
 ---
-
 # Mental Models Domain Gateway
 
 **Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esoterica hỏi "ta là ai?", mental models hỏi "cơ chế nào đang khiến ta nhìn sai?"

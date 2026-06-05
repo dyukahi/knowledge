@@ -1,5 +1,6 @@
 ---
 title: "Esoterica Domain Gateway"
+description: "Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics"
 aliases: ["Esoterica", "Tâm Linh & Ý Thức"]
 date: 2026-06-01
 tags: [domain-gateway, esoterica, consciousness]
@@ -9,7 +10,6 @@ related:
   - "[[MOC - Ancient Civilizations & Hidden History]]"
   - "[[Red Pill Wiki]]"
 ---
-
 # Esoterica Domain Gateway
 
 **Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt direct knowing với fantasy, symbol với fact, và awakening với một bản ngã spiritual mới.

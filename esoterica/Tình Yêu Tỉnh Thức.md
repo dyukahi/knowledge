@@ -1,10 +1,10 @@
 ---
 title: Tình Yêu Tỉnh Thức
+description: "Tình Yêu Tỉnh Thức không phải cảm xúc lãng mạn được làm đẹp bằng ngôn ngữ tâm linh. Nó là năng lực yêu mà không chiếm hữu, thấy rõ mà không lạnh lùng"
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
-
 # Tình Yêu Tỉnh Thức
 
 **Tình Yêu Tỉnh Thức** không phải cảm xúc lãng mạn được làm đẹp bằng ngôn ngữ tâm linh. Nó là năng lực yêu mà không chiếm hữu, thấy rõ mà không lạnh lùng, bao dung mà không tự phản bội. Trong vault này, tình yêu tỉnh thức nối [[Nhân Quả]], [[Nhị Nguyên]], [[Trí Tuệ]], [[Individuation]], [[Sự Nhất Thể]] và [[Năng Lượng Tình Dục]].

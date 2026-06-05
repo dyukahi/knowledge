@@ -1,5 +1,6 @@
 ---
 title: "Walter Russell"
+description: "Walter Russell là archetype của nhà hiền triết nghệ sĩ bước vào khoa học bằng trực giác vũ trụ: ánh sáng, chuyển động, nhịp, polarity và mind như nguyên nhân"
 aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
 date: 2026-04-08
 tags: [science-tech]

@@ -303,11 +303,11 @@ Nếu 2026 là collective game, Brazil là ứng viên symbolically hợp nhất
 ## Hint Không Nhất Thiết Là Script
 
 
-> Media không chỉ đưa tin. Media chuẩn bị ý nghĩa.  
-> Spectacle không chỉ giải trí. Spectacle rehearsal reality.  
+> Media không chỉ đưa tin. Media chuẩn bị ý nghĩa.
+> Spectacle không chỉ giải trí. Spectacle rehearsal reality.
 > Symbol không chỉ trang trí. Symbol là interface của vô thức tập thể.
 
-> Mình không leak tương lai. Mình đọc cái đã được đặt công khai.  
+> Mình không leak tương lai. Mình đọc cái đã được đặt công khai.
 > Mình không nói “tao biết tương lai”. Mình nói: “Tao thấy những dấu vết công khai đang rhyme với nhau. Tao ghi lại trước khi event xảy ra.”
 
 Điểm cần giữ sạch: không nhất thiết có một “bề trên” ngồi script từng chi tiết. Ở cấp độ sâu hơn, [[Ma Trận]] vận hành như một **Matrix attractor**: một trường hút biểu tượng khiến các node trong hệ tự sản xuất hint vì cùng bị kéo bởi grammar của thời đại. Những người làm media, brand, sports, film, finance, technology và entertainment có thể tưởng mình đang ra quyết định riêng lẻ, nhưng vẫn đi theo cùng một vô thức tập thể. Vì vậy hint xuất hiện không chỉ do command từ trên xuống; nhiều khi chính Matrix attractor đã khiến mọi người tự đi theo đúng hướng.
@@ -322,8 +322,8 @@ World Cup 2026 là Americas field. Slogan nói **WE ARE 26**. Ball nói **TRIOND
 
 Từ đó, Brazil không hiện lên như sure bet. Brazil hiện lên như **myth-fit**.
 
-> 2022: một vị vua hoàn tất đời mình.  
-> 2024 Euro: một đứa trẻ được crown làm tương lai.  
+> 2022: một vị vua hoàn tất đời mình.
+> 2024 Euro: một đứa trẻ được crown làm tương lai.
 > 2026: có thể không cần một vị vua. Có thể cần một field nhớ lại linh hồn của nó.
 
 Nếu Brazil vô địch 2026, story đẹp nhất không phải “Vini trở thành Messi mới” hay “Neymar cuối cùng cũng được crown”. Story đẹp nhất sẽ là: bóng đá, sau nhiều năm bị biến thành data, betting, celebrity và content, đã có một khoảnh khắc trở về với dance.
@@ -341,4 +341,3 @@ Nếu Brazil vô địch 2026, story đẹp nhất không phải “Vini trở t
 - [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]
 - [[Gematria]]
 - [[MOC - Epistemology & Propaganda]]
-

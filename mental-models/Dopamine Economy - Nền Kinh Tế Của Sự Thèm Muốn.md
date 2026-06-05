@@ -1,5 +1,6 @@
 ---
 title: "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn"
+description: "Bài này nằm giữa Ma Trận, Kiểm Soát Tâm Trí, Bộ Não Rỗng và AI Brain Rot, Schadenfreude Dopamine Phản Diện và Sự Thật Đen Tối Về Phim Khiêu Dâm."
 aliases: ["Dopamine Economy", "Attention Economy", "Kinh Tế Dopamine"]
 date: 2026-04-29
 tags: [mental-model, psychology, matrix, social-media]
@@ -12,7 +13,6 @@ related:
   - "[[Sự Thật Đen Tối Về Phim Khiêu Dâm]]"
   - "[[Loosh - Năng Lượng Thu Hoạch Từ Con Người]]"
 ---
-
 # Dopamine Economy — Nền Kinh Tế Của Sự Thèm Muốn
 
 **Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**
@@ -230,4 +230,3 @@ Một người mất attention sẽ mất memory, mất will, mất depth, mất
 ## Financial Dopamine: Futures Group Là TikTok Của Lòng Tham
 
 [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] là ứng dụng thực chiến của mental model này trong tài chính: giữ vốn, chống dopamine, tránh leverage và sống sót trước khi tìm upside.
-

@@ -1,5 +1,6 @@
 ---
 title: Nhân Quả
+description: "Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo"
 aliases: ["Karma", "Law of Cause and Effect"]
 date: 2026-04-08
 tags: [esoterica]

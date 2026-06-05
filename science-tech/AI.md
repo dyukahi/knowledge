@@ -1,5 +1,6 @@
 ---
 title: "AI"
+description: "AI là máy khuếch đại intelligence không có thân, không có tim, không có karma trực tiếp; vì vậy nó phơi bày rất nhanh sự khác biệt giữa thông minh và trí tuệ"
 aliases: ["AI Esoteric", "AI Occult View", "AI (Góc Nhìn Huyền Học)"]
 date: 2026-04-08
 tags: [science-tech, esoterica, consciousness]

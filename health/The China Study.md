@@ -1,5 +1,6 @@
 ---
 title: "The China Study"
+description: "Dinh dưỡng là high impact nhưng không phải tôn giáo. Người có bệnh thận, thiếu máu, rối loạn ăn uống, trẻ em, phụ nữ mang thai, người già, vận động viên"
 aliases: ["China Study", "T. Colin Campbell", "Whole Food Plant-Based"]
 date: 2026-04-08
 tags: [health, nutrition, plant-based, epidemiology]
@@ -11,7 +12,6 @@ related:
   - "[[Thuyết Vi Sinh Nội Sinh]]"
   - "[[Ma Trận]]"
 ---
-
 # The China Study
 
 **The China Study quan trọng không phải vì nó “chứng minh mọi thịt sữa đều độc”. Nó quan trọng vì nó kéo dinh dưỡng ra khỏi calorie-counting rẻ tiền và đặt câu hỏi lớn hơn: food system nào tạo ra bệnh mạn tính, và ai hưởng lợi khi con người quên sức mạnh của thức ăn thật?**

@@ -1,5 +1,6 @@
 ---
 title: "Giữ Tiền Quan Trọng Hơn Kiếm Tiền"
+description: "Bài này nằm giữa MOC Financial Sovereignty và Mental Model. Nó không phải bài trading. Trading chỉ là một ví dụ nơi lỗi tài chính hiện ra nhanh và đau"
 aliases:
   - 5 Luật Sống Sót Tài Chính
   - Survival Before Upside
@@ -21,7 +22,6 @@ related:
   - "[[Nghịch Lý Của Hiểu Biết]]"
   - "[[Ai Đứng Bên Kia Giao Dịch]]"
 ---
-
 # Giữ Tiền Quan Trọng Hơn Kiếm Tiền
 
 **Financial sovereignty không bắt đầu bằng Bitcoin, macro thesis, chart đẹp hay một cú trade đúng. Nó bắt đầu bằng khả năng không tự tay phá vốn, phá runway, phá tâm trí và phá quyền chọn của mình. Trong một hệ thống được thiết kế để làm nhiễu dopamine, sĩ diện, FOMO, nợ và so sánh xã hội, giữ được tiền đã là một dạng trí tuệ.**
@@ -172,8 +172,8 @@ Một: không đòn bẩy dưới mọi hình thức nếu chưa hiểu rủi ro
 
 Financial sovereignty không phải chỉ là chống central bank hay mua Bitcoin. Nó bắt đầu ở tầng thấp hơn: không để hệ thống làm nhiễu tâm trí đến mức mình tự phá vốn, tự trói cashflow, tự tăng burn rate và tự bán quyền chọn của mình.
 
-> Hiểu Ma Trận mà vẫn bị sĩ diện bắt mua thứ không cần thì chưa thoát Ma Trận.  
-> Biết fiat là scam mà vẫn nợ thẻ tín dụng để flex thì vẫn đang thờ fiat.  
+> Hiểu Ma Trận mà vẫn bị sĩ diện bắt mua thứ không cần thì chưa thoát Ma Trận.
+> Biết fiat là scam mà vẫn nợ thẻ tín dụng để flex thì vẫn đang thờ fiat.
 > Tin vào Bitcoin mà không giữ được risk thì không phải sovereign, chỉ là người có niềm tin nhưng thiếu runway.
 
 Giữ tiền là giữ thời gian. Giữ thời gian là giữ quyền chọn. Giữ quyền chọn là giữ tự do.

@@ -1,3 +1,9 @@
+---
+title: "Kiểm Soát Tâm Trí (Mind Control)"
+description: "Kiểm Soát Tâm Trí (Mind Control): tags: [politics conspiracy, propaganda, consciousness]"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: "Kiểm Soát Tâm Trí (Mind Control)"
 date: 2026-04-07

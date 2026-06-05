@@ -1,5 +1,6 @@
 ---
 title: "Thông Minh"
+description: "Thông minh là năng lực xử lý thông tin, nhận pattern, tính toán, học nhanh và giải quyết vấn đề trong một rule set. Nó rất mạnh"
 aliases: ["Intelligence"]
 date: 2026-04-08
 tags: [mental-model]

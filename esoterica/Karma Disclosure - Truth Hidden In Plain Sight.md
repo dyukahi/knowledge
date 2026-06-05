@@ -1,5 +1,6 @@
 ---
 title: "Karma Disclosure - Truth Hidden In Plain Sight"
+description: "Karma Disclosure là giả thuyết rằng quyền lực không chỉ che giấu kế hoạch; nó còn để lại dấu vết công khai dưới dạng fiction, symbol, ritual"
 aliases: ["Karma Disclosure", "Hidden In Plain Sight", "Predictive Programming Karma", "Elite Disclosure"]
 date: 2026-05-08
 tags: [esoterica, conspiracy, karma]

@@ -1,5 +1,6 @@
 ---
 title: "Monad (Đơn Thể Tối Cao)"
+description: "Nếu Sự Nhất Thể là đại dương, Monad là giọt nước vẫn mang toàn bộ bản chất của đại dương. Nếu Ma Trận là trò chơi phân mảnh, Monad là player thật đứng sau nhân vật"
 aliases: ["Monad", "The One", "Đơn Thể", "Tia Lửa Thần Thánh"]
 date: 2026-04-08
 tags: [esoterica, consciousness, metaphysics]
@@ -14,7 +15,6 @@ related:
   - "[[Individuation]]"
   - "[[Vô Thức Tập Thể]]"
 ---
-
 # Monad (Đơn Thể Tối Cao)
 
 **Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân xác và [[Ma Trận]].**

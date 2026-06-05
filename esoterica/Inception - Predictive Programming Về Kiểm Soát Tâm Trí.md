@@ -1,5 +1,6 @@
 ---
 title: "Inception - Predictive Programming Về Kiểm Soát Tâm Trí"
+description: "Inception (2010) của Christopher Nolan không chỉ là phim giải trí. Đây có thể là disclosure — Elite nói thẳng cách họ manipulate nhân loại, ẩn dưới lớp vỏ 'fiction'."
 aliases: ["Inception Analysis", "Dream Manipulation", "Idea Planting"]
 date: 2026-04-27
 tags: [esoterica, predictive-programming]
@@ -37,12 +38,12 @@ flowchart TD
     T[Tell trực tiếp]
     R[Conscious mind resist]
     F[Fail]
-    
+
     P[Plant ở subconscious]
     G[Idea grows organically]
     O[Nghĩ là idea của mình]
     S[Success - không resist]
-    
+
     T --> R --> F
     P --> G --> O --> S
 ```
@@ -71,7 +72,7 @@ flowchart TD
     L2[Level 2: Hotel]
     L3[Level 3: Snow Fortress]
     L4[Limbo - Vô thức thuần túy]
-    
+
     R --> L1 --> L2 --> L3 --> L4
 ```
 
@@ -118,13 +119,13 @@ flowchart TD
         T[Cô giáo reinforce]
         C[Culture/media normalize]
     end
-    
+
     subgraph Result[Kết quả]
         B[Belief: Đây là giá trị của tôi]
         A[Action: Đội phụ nữ lên đầu]
         R[Không resist vì nghĩ là chính mình]
     end
-    
+
     Inception --> Result
 ```
 
@@ -231,7 +232,7 @@ Cobb đã inception vợ (Mal) với idea "thế giới này không real" để 
 
 ### Tại Sao Elite Cần Disclose?
 
-Như đã discuss trong [[Karma Disclosure - Truth Hidden In Plain Sight]]: **Karma requires disclosure.** 
+Như đã discuss trong [[Karma Disclosure - Truth Hidden In Plain Sight]]: **Karma requires disclosure.**
 
 Nếu họ nói cho bạn (qua "fiction") và bạn không nghe → đó là **your choice**. Free will preserved.
 

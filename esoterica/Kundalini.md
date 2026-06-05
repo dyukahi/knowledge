@@ -1,5 +1,6 @@
 ---
 title: "Kundalini"
+description: "Kundalini là ngôn ngữ cổ để nói về sinh lực nguyên thủy khi nó không chỉ phục vụ sinh tồn và tình dục, mà được chuyển hóa thành ý thức, trực giác và hiện diện"
 aliases: ["Kundalini Energy", "Năng Lượng Kundalini", "Serpent Power"]
 date: 2026-04-29
 tags: [esoterica, energy, spirituality]

@@ -147,6 +147,6 @@ Các loại này không cùng trọng lượng. Một paper không chứng minh 
 
 Source discipline không làm vault yếu đi. Nó làm vault sắc hơn.
 
-> Khi các tầng claim được tách rõ, người đọc có thể đi sâu mà không bay.  
-> Khi source discipline bị bỏ, red pill biến thành religion mới.  
+> Khi các tầng claim được tách rõ, người đọc có thể đi sâu mà không bay.
+> Khi source discipline bị bỏ, red pill biến thành religion mới.
 > Mục tiêu không phải tin mạnh hơn. Mục tiêu là nhìn rõ hơn.

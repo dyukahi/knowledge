@@ -1,5 +1,6 @@
 ---
 title: "Ma Trận (The Matrix)"
+description: "Ma Trận là hub trung tâm của redpill.wiki. Hầu hết các node khác là một lớp, một cơ quan, hoặc một symptom của Ma Trận: tiền tệ, giáo dục, truyền thông, y tế, religion"
 aliases: ["The Matrix", "Matrix Control System", "Ma Trận Kiểm Soát"]
 date: 2026-04-07
 tags: [esoterica, matrix, consciousness, control-system]
@@ -14,7 +15,6 @@ related:
   - "[[Loosh - Năng Lượng Thu Hoạch Từ Con Người]]"
   - "[[Báo Cáo 2030]]"
 ---
-
 # Ma Trận (The Matrix)
 
 **Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có [[Monad]] quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**

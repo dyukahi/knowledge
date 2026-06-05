@@ -1,5 +1,6 @@
 ---
 title: "Thuyết Trái Đất Phẳng (Flat Earth Theory)"
+description: "Bài này không khẳng định mọi claim Flat Earth đúng. Nó dùng Flat Earth như stress test cho authority, ridicule và model dependence."
 aliases: ["Flat Earth", "Trái Đất Phẳng", "Flat Earth Theory"]
 date: 2026-04-05
 tags: [politics-conspiracy, esoterica, cosmology, epistemology]
@@ -12,7 +13,6 @@ related:
   - "[[Bức Tường Băng]]"
   - "[[MOC - Science Revisionism]]"
 ---
-
 # Thuyết Trái Đất Phẳng (Flat Earth Theory)
 
 **Thuyết Trái Đất Phẳng là một trong những chủ đề gây tranh cãi nhất của Khoa Học Xét Lại. Giá trị chính của nó trong vault không phải bắt người đọc tin Trái Đất phẳng, mà là buộc họ đối diện câu hỏi epistemology: bao nhiêu phần “vũ trụ” ta tin là observation trực tiếp, và bao nhiêu phần là trust vào institution?**

@@ -1,5 +1,6 @@
 ---
 title: "Soulmate vs Lover — Anatomy Của Kết Nối"
+description: "Soulmate vs Lover — Anatomy Của Kết Nối: 'Lover là người bạn muốn. Soulmate là người bạn nhận ra.'"
 date: 2026-04-30
 tags: [esoterica, relationships, jung, soul]
 status: refined
@@ -25,21 +26,21 @@ flowchart TD
         L3["Passion, desire"]
         L4["'I want you'"]
     end
-    
+
     subgraph SOULMATE["SOULMATE"]
         S1["Soul recognition"]
         S2["Karmic resonance"]
         S3["Growth catalyst"]
         S4["'I know you'"]
     end
-    
+
     subgraph TWIN["TWIN FLAME"]
         T1["Same soul, split"]
         T2["Mirror reflection"]
         T3["Intense triggering"]
         T4["'I am you'"]
     end
-    
+
     LOVER --> Q["Có thể trở thành"]
     Q --> SOULMATE
     SOULMATE --> R["Rare case"]
@@ -437,13 +438,13 @@ flowchart TD
     A["Lover"] --> B["Body + Emotions<br>'I want you'"]
     C["Soulmate"] --> D["Soul + Karma<br>'I know you'"]
     E["Twin Flame"] --> F["Same Soul?<br>'I am you'"]
-    
+
     B --> G["Can evolve into"]
     G --> D
-    
+
     D --> H["Rare case"]
     H --> F
-    
+
     ALL["All types"] --> I["Opportunity for growth"]
     I --> J["Individuation<br>Becoming whole"]
 ```

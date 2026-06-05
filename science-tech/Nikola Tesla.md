@@ -1,5 +1,6 @@
 ---
 title: "Nikola Tesla"
+description: "Nikola Tesla là archetype của nhà phát minh đứng giữa hai thế giới: một chân trong kỹ thuật điện có thể kiểm chứng, một chân trong trực giác về năng lượng"
 aliases: ["Nikola Tesla", "Tesla", "Nikola Tesla (Tần Số và Rung Động)"]
 date: 2026-04-08
 tags: [science-tech]

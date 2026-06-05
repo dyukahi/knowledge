@@ -1,5 +1,6 @@
 ---
 title: "Schadenfreude - Dopamine Phản Diện"
+description: "Schadenfreude - Dopamine Phản Diện: 'Không có gì sướng bằng thấy kẻ thù ngã ngựa.'"
 date: 2026-04-29
 tags: [mental-model, psychology, dark-side, dopamine]
 status: refined
@@ -24,14 +25,14 @@ flowchart TD
         B[Perceived Injustice - Bất công] --> D
         C[Out-group - Phe đối lập] --> D
     end
-    
+
     D[Người đó gặp bất hạnh / That person suffers] --> E[Schadenfreude]
     E --> F[Dopamine Release]
     F --> G[Khoái cảm / Pleasure]
     G --> H[Muốn thêm / Want more]
     H --> I[Tìm kiếm drama / Seek drama]
     I --> D
-    
+
     subgraph "VÒNG LẶP NGHIỆN / ADDICTION LOOP"
         F --> G --> H --> I
     end
@@ -70,7 +71,7 @@ graph LR
         B[Rivalry] --> D
         C[Justice] --> D
     end
-    
+
     D --> E[Dopamine]
 ```
 
@@ -169,7 +170,7 @@ graph TD
     C --> D[In-group bonding qua shared hate / through shared hate]
     D --> E[Tribal identity mạnh hơn / stronger]
     E --> A
-    
+
     F[Kẻ kiểm soát / Controllers] --> A
     F --> |Điều khiển narrative / Control narrative| G[Ai là villain? / Who's the villain?]
     G --> A
@@ -208,14 +209,14 @@ Schadenfreude mạnh nhất ở người có:
 ```mermaid
 graph LR
     A[Người khác đau khổ / Others suffer]
-    
+
     A --> B[Empathy Response]
     A --> C[Schadenfreude Response]
-    
+
     B --> D[Mirror neurons active]
     B --> E[Compassion]
     B --> F[Helping behavior]
-    
+
     C --> G[Reward circuits active]
     C --> H[Dopamine]
     C --> I[Seeking more]

@@ -1,10 +1,10 @@
 ---
 title: Vũ Trụ Học Phật Giáo
+description: "Vũ Trụ Học Phật Giáo không chỉ là bản đồ 'trời đất' theo nghĩa vật lý. Nó là một cấu trúc biểu tượng đạo đức tâm thức mô tả các cõi tồn tại, chu kỳ thành trụ hoại không"
 date: 2026-04-05
 tags: [esoterica]
 status: refined
 ---
-
 # Vũ Trụ Học Phật Giáo
 
 **Vũ Trụ Học Phật Giáo** không chỉ là bản đồ "trời đất" theo nghĩa vật lý. Nó là một cấu trúc biểu tượng - đạo đức - tâm thức mô tả các cõi tồn tại, chu kỳ thành trụ hoại không, nghiệp, tái sinh và vị trí đặc biệt của cõi người. Đọc đúng, nó không cần cạnh tranh trực tiếp với textbook thiên văn. Nó trả lời một câu hỏi khác: ý thức sa xuống vật chất như thế nào, và làm sao thoát khỏi vòng lặp đó?

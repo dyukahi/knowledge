@@ -1,5 +1,6 @@
 ---
 title: "Bão Từ Bắc Cực vs Bão Mặt Trời"
+description: "Bão từ là nơi khoa học không gian, từ trường Trái Đất và các mô hình vũ trụ xét lại va vào nhau. Tầng mainstream nói geomagnetic storms chủ yếu liên quan hoạt động Mặt"
 aliases: ["Bão Từ", "Geomagnetic Storm"]
 date: 2026-04-08
 tags: [politics-conspiracy, science]

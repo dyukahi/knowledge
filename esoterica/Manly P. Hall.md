@@ -1,5 +1,6 @@
 ---
 title: "Manly P. Hall"
+description: "Bài này nằm trong MOC Esoterica & Consciousness, nối Gnosis, Gematria, 33 Tầng Bậc Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí và Cabal"
 aliases: ["Manly Palmer Hall", "33rd Degree Mason", "The Secret Teachings of All Ages"]
 date: 2026-04-15
 tags: [esoterica, symbolism, freemasonry]
@@ -12,7 +13,6 @@ related:
   - "[[Cabal]]"
   - "[[Ma Trận - Giải Phẫu Hoàn Chỉnh]]"
 ---
-
 # Manly P. Hall: Người Giải Mã Biểu Tượng
 
 **Manly Palmer Hall quan trọng không phải vì ông “biết hết bí mật”. Ông quan trọng vì ông cho thấy giới hiện đại đã quên một ngôn ngữ mà các truyền thống quyền lực vẫn dùng: biểu tượng, nghi lễ, số học, kiến trúc và initiation.**

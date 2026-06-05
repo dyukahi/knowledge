@@ -1,5 +1,6 @@
 ---
 title: "Saturn Cube (Khối Lập Phương Sao Thổ)"
+description: "Saturn Cube là lens biểu tượng để đọc giới hạn, thời gian, vật chất, luật, grid và cấu trúc giam giữ của cõi 3D"
 date: 2026-04-07
 tags: [esoterica, symbolism]
 status: refined

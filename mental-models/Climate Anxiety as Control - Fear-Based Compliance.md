@@ -1,5 +1,6 @@
 ---
 title: "Climate Anxiety as Control - Fear-Based Compliance"
+description: "Bài này không phủ định vấn đề môi trường. Ô nhiễm, phá rừng, đất chết, nước độc, industrial toxicity và khí hậu biến động là thật"
 aliases: ["Climate Anxiety", "Eco-Anxiety", "Climate Fear", "Climate Doomerism", "Carbon Wallet"]
 date: 2026-06-04
 tags: [mental-model, psychology, generation, agenda-2030, climate, compliance]
@@ -10,7 +11,6 @@ related:
   - "[[Digital ID Normalization - From Instagram to Government ID]]"
   - "[[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]"
 ---
-
 # Climate Anxiety as Control - Fear-Based Compliance
 
 **Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**

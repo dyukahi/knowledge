@@ -36,12 +36,12 @@ flowchart LR
     subgraph F[Phụ Nữ Kiểm Soát]
         S[Tình dục / Sex]
     end
-    
+
     subgraph M[Đàn Ông Kiểm Soát]
         R[Mối quan hệ]
         C[Cam kết dài hạn]
     end
-    
+
     F <-.-> M
 ```
 
@@ -67,7 +67,7 @@ flowchart TD
     B[Bạn ở thế thượng phong tâm lý]
     C[Đối tác cảm nhận được điều đó]
     D[Họ đối xử tốt hơn với bạn]
-    
+
     A --> B --> C --> D
     D -.->|Positive loop| A
 ```
@@ -118,7 +118,7 @@ flowchart TD
     D["2000s: LGBT normalization<br/><i>Tolerance → Celebration</i>"]
     E["2010s: Trans agenda<br/><i>Hormone blockers cho trẻ</i>"]
     F["2020s: Pedophilia?<br/><i>MAPs, Cuties, Drag Queen Story Hour</i>"]
-    
+
     A --> B --> C --> D --> E --> F
 ```
 
@@ -146,7 +146,7 @@ flowchart LR
     C["Celebration<br/><i>Pride Month</i>"]
     I["Imposition<br/><i>Trẻ em chọn giới tính</i>"]
     S["Sterilization<br/><i>Hormone blockers</i>"]
-    
+
     T --> C --> I --> S
 ```
 
@@ -169,7 +169,7 @@ flowchart TD
     F["Phá vỡ gia đình"]
     G["Giảm dân số"]
     C["Kiểm soát dễ hơn"]
-    
+
     M1 --> M3
     M2 --> M3
     M3 --> M4

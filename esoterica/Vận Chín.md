@@ -1,5 +1,6 @@
 ---
 title: "Vận Chín (Period 9)"
+description: "Vận Chín là khung Phong thủy đọc giai đoạn 2024 2044 như thời kỳ Hỏa: ánh sáng, tốc độ, hình ảnh, phơi bày, tim mắt máu, reputation và cuộc chiến giữa thật với giả"
 aliases: ["Vận 9", "Period 9", "九運", "Cửu Vận"]
 date: 2026-04-08
 tags: [esoterica, feng-shui, cycles]

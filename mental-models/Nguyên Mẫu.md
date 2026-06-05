@@ -1,5 +1,6 @@
 ---
 title: "Nguyên Mẫu"
+description: "Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại"
 aliases: ["Nguyên Mẫu", "Archetypes", "Nguyên Mẫu (Archetypes)"]
 date: 2026-04-07
 tags: [mental-model]

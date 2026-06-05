@@ -1,5 +1,6 @@
 ---
 title: Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ
+description: "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ: 'Sự sợ hãi phóng xạ có thể là công cụ kiểm soát lớn nhất thế kỷ 20.'"
 date: 2026-05-01
 tags: [science-tech, conspiracy, revisionist]
 status: expanded
@@ -106,15 +107,15 @@ flowchart TD
     R --> L[Ernest Lawrence Cyclotron]
     R --> G[Göttingen Physics]
     R --> P[Institut Poincaré]
-    
+
     B --> M[Manhattan Project Scientists]
     L --> M
     G --> M
-    
+
     M --> N[Nuclear Narrative]
-    
+
     R2[Rockefeller Oil Empire] -.-> |Same Family| R
-    
+
     N --> F[Nuclear Fear]
     F --> S[Nuclear Energy Suppressed]
     S --> |Benefits| R2
@@ -195,14 +196,14 @@ flowchart TD
 flowchart TD
     M[Muller 1927] --> |Claims| A[All radiation harmful]
     A --> L[LNT Model]
-    
+
     S[Stern Evidence - IGNORED] --> |Shows| T[Threshold exists - low doses safe]
     M --> |IGNORES| S
-    
+
     L --> N[Nobel Prize 1946]
     N --> W[Worldwide adoption]
     W --> R[All radiation regulations]
-    
+
     R --> F[Irrational Fear]
     F --> SN[Nuclear Energy Suppressed]
 ```
@@ -396,36 +397,36 @@ flowchart TD
         RF --> Physics[Nuclear Physics Research]
         RF --> Scientists[Bohr Lawrence etc]
     end
-    
+
     subgraph THEORY["Theory"]
         E[Einstein E=mc2]
         P[Poincare Lorentz]
         P --> |Plagiarized?| E
         E --> Narrative[Nuclear Theory Established]
     end
-    
+
     subgraph FEAR["Fear Creation"]
         M[Muller LNT FRAUD]
         M --> Regs[Radiation Regulations]
         Regs --> Fear[Irrational Fear]
     end
-    
+
     subgraph DEMONSTRATION["Demonstration"]
         MP[Manhattan Project]
         MP --> Trinity[Trinity Test RUSHED]
         Trinity --> HN[Hiroshima Nagasaki]
     end
-    
+
     subgraph CONTROL["Control"]
         Fear --> Suppress[Nuclear Energy Suppressed]
         Suppress --> Oil[Oil Gas Dominance]
         Oil --> |Owned by| RF
-        
+
         HN --> MAD[Mutual Assured Destruction]
         MAD --> Arms[Endless Arms Race]
         Arms --> MIC[Military Industrial Complex]
     end
-    
+
     Physics --> Scientists
     Scientists --> MP
 ```

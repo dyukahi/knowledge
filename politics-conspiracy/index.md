@@ -1,5 +1,6 @@
 ---
 title: "Politics & Conspiracy Domain Gateway"
+description: "Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure"
 aliases: ["Politics & Conspiracy", "Power Structure", "Chính Trị & Âm Mưu"]
 date: 2026-06-01
 tags: [domain-gateway, politics-conspiracy, power-structure]
@@ -9,7 +10,6 @@ related:
   - "[[Elite]]"
   - "[[Red Pill Wiki]]"
 ---
-
 # Politics & Conspiracy Domain Gateway
 
 **Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng "âm mưu" như trò giật gân. Nó dùng conspiracy như câu hỏi về coordination, secrecy, incentive và permission architecture.

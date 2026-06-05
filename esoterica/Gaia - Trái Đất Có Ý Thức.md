@@ -1,3 +1,9 @@
+---
+title: "Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness"
+description: "Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness: tags: [esoterica, consciousness, ancient wisdom]"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: "Gaia - Trái Đất Có Ý Thức"
 date: 2026-04-29
@@ -26,20 +32,20 @@ flowchart TD
         D[Lakota: Grandmother Earth]
         E[Ai Cập: Nut]
     end
-    
+
     A & B & C & D & E --> F[Cùng một quan sát / Same observation]
     F --> G[Trái Đất là sinh vật sống / Earth is a living being]
-    
+
     subgraph "1972"
         H[James Lovelock]
         I[Gaia Hypothesis]
     end
-    
+
     H --> I
     I --> J[Khoa học thừa nhận / Science acknowledges]
-    
+
     G -.->|10,000 năm / 10,000 years| I
-    
+
     K[Dismissed as primitive] -.-> A & B & C & D & E
 ```
 
@@ -122,7 +128,7 @@ flowchart LR
         B -->|Carbon| A
         D -->|Support| E[Weakened Tree]
     end
-    
+
     F[Underground Fungal Network] --> A & B & C & D & E
 ```
 
@@ -153,7 +159,7 @@ flowchart TD
     A[Lightning strikes] --> B[Electromagnetic pulse]
     B --> C[Resonates in cavity]
     C --> D[7.83 Hz fundamental]
-    
+
     D --> E[Human brainwaves]
     E --> F[Theta-Alpha boundary]
     F --> G[Meditation state]
@@ -212,12 +218,12 @@ flowchart TD
     B --> C[Extraction is guilt-free]
     C --> D[Industrial exploitation]
     D --> E[Profit for few]
-    
+
     F[Indigenous wisdom] --> G[Earth is alive]
     G --> H[Extraction = harm to relative]
     H --> I[Limits on exploitation]
     I --> J[Less profit]
-    
+
     J --> K[Suppress F]
     K --> L[Call it primitive/superstition]
 ```
@@ -352,4 +358,3 @@ Sự phân biệt đó thay đổi mọi thứ. / That distinction changes every
 - Schumann, W.O. — Original resonance research (1952)
 - Indigenous traditions worldwide — 10,000+ years of observation
 - James Cameron — *Avatar* (2009)
-

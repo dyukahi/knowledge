@@ -1,5 +1,6 @@
 ---
 title: "Điều Mà Trường Học Không Dạy Về Tiền"
+description: "Trong quá trình tìm hiểu sâu về tài chính, nhiều người mới nhận ra mình 'nghèo mạt' — không phải vì thiếu tiền, mà vì thiếu kiến thức về tiền ."
 aliases: ["What School Doesn't Teach About Money", "Financial Education Gap", "Giáo Dục Tài Chính"]
 date: 2026-04-27
 tags: [crypto-finance]
@@ -25,7 +26,7 @@ flowchart LR
     E[Employees]
     T[Taxpayers]
     C[Consumers]
-    
+
     S -->|"Produces"| E
     E -->|"Becomes"| T
     T -->|"Becomes"| C
@@ -56,7 +57,7 @@ flowchart TD
     L[Lifestyle inflate]
     D[Vay nợ - xe, nhà]
     W[Làm việc trả nợ]
-    
+
     J --> S --> L --> D --> W --> J
 ```
 
@@ -111,7 +112,7 @@ flowchart LR
         E2 --> E3[Tiền còn lại]
         E3 --> E4[Chi tiêu]
     end
-    
+
     subgraph Owner[Chủ Doanh Nghiệp]
         O1[Doanh thu] --> O2[Chi phí]
         O2 --> O3[Lợi nhuận]
@@ -150,14 +151,14 @@ flowchart TB
         A3[Doanh nghiệp tự vận hành]
         A4[Bản quyền, IP]
     end
-    
+
     subgraph Liabilities[Nợ - Tiền RA]
         L1[Xe hơi trả góp]
         L2[Nhà ở trả góp]
         L3[Đồ xa xỉ]
         L4[Subscription không dùng]
     end
-    
+
     Assets -->|"Tạo ra"| M[Tiền]
     M -->|"Bị ăn bởi"| Liabilities
 ```
@@ -236,7 +237,7 @@ flowchart LR
     L[Học thêm]
     R[Nhận ra mình không biết gì]
     W[Khiêm tốn + Tiếp tục học]
-    
+
     I --> C
     C -->|"Bắt đầu học thật"| L
     L --> R
@@ -274,7 +275,7 @@ flowchart LR
     I[Lạm phát]
     Y[Tiền bạn giảm giá trị]
     W[Bạn làm việc nhiều hơn]
-    
+
     CB --> M --> I --> Y --> W --> CB
 ```
 

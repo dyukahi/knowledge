@@ -84,9 +84,9 @@ Health sovereignty bắt đầu từ những thứ không sexy: ngủ, nắng, n
 
 Chủ quyền sức khỏe không phải chống bác sĩ. Nó là chống sự bất lực học được trước cơ thể mình.
 
-> Cơ thể không phải enemy.  
-> Triệu chứng không phải lúc nào cũng là lỗi.  
-> Hệ thống y tế không phải thần.  
+> Cơ thể không phải enemy.
+> Triệu chứng không phải lúc nào cũng là lỗi.
+> Hệ thống y tế không phải thần.
 > Và tự do sức khỏe bắt đầu khi mình học lại ngôn ngữ của chính cơ thể.
 
 ---

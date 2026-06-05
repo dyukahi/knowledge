@@ -1,5 +1,6 @@
 ---
 title: "Pin Natri-ion (Sodium-ion Battery)"
+description: "Pin Natri ion là lời nhắc rằng energy sovereignty không chỉ nằm ở 'công nghệ mới', mà nằm ở vật liệu, chuỗi cung ứng, scale và quyền thoát khỏi monopoly tài nguyên"
 aliases: ["Sodium-ion Battery", "Na-ion Battery", "Pin Sodium-ion"]
 date: 2026-04-08
 tags: [science-tech, energy, batteries, sovereignty]

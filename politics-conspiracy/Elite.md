@@ -1,5 +1,6 @@
 ---
 title: "Elite (Giới Tinh Hoa)"
+description: "Trong redpill.wiki, Elite là node nối tầng institutional của Ma Trận với các applied systems:"
 aliases: ["The Global Elite", "Cabal", "Power Structure", "Giới Tinh Hoa"]
 date: 2026-04-12
 tags: [politics-conspiracy, power-structure, matrix]
@@ -13,7 +14,6 @@ related:
   - "[[UAP Disclosure - Controlled Revelation]]"
   - "[[MOC - Epistemology & Propaganda]]"
 ---
-
 # Elite (Giới Tinh Hoa / The Global Elite)
 
 **Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reality tự nhiên.**

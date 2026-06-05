@@ -1,5 +1,6 @@
 ---
 title: "Bitcoin Sẽ Chết Nếu Không Có Privacy"
+description: "“Bitcoin sẽ chết” ở đây là thesis chiến lược, không phải dự đoán giá ngắn hạn. Bài này phân biệt Bitcoin như asset, Bitcoin như settlement network"
 aliases: ["Bitcoin Will Die Without Privacy", "Bitcoin Privacy", "Fungibility"]
 date: 2026-04-07
 tags: [crypto-finance, bitcoin, privacy, sovereignty]
@@ -13,7 +14,6 @@ related:
   - "[[MOC - Financial Sovereignty]]"
   - "[[Chainlink - Mắt Xích Của Tokenized World]]"
 ---
-
 # Bitcoin Sẽ Chết Nếu Không Có Privacy
 
 **Bitcoin có thể sống như store of value mà thiếu privacy một thời gian. Nhưng nếu muốn trở thành tiền tệ tự do thật sự, Bitcoin cần fungibility. Và không có privacy thì không có fungibility. Một đồng tiền bị truy vết, chấm điểm, blacklist và phân loại “sạch/bẩn” cuối cùng sẽ bị kéo ngược về Ma Trận tài chính mà nó sinh ra để thoát khỏi.**

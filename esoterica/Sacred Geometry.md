@@ -1,3 +1,9 @@
+---
+title: "Sacred Geometry (Hình Học Thiêng)"
+description: "aliases: ['Sacred Geometry', 'Hình Học Thiêng', 'Hình Học Thiêng Liêng', 'Sacred Geometry (Hình Học Thiêng)']"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: "Sacred Geometry"
 aliases: ["Sacred Geometry", "Hình Học Thiêng", "Hình Học Thiêng Liêng", "Sacred Geometry (Hình Học Thiêng)"]
@@ -255,7 +261,7 @@ flowchart TB
     ST[Structure - Cấu trúc]
     E[Elements - Nguyên tố]
     W[Wholeness - Toàn thể]
-    
+
     S --> D --> ST --> E --> W
     W -.->|Return| S
 ```
@@ -353,13 +359,13 @@ Sacred Geometry không chỉ là kiến thức "đẹp" — nó có liên hệ s
 flowchart LR
     SG[Sacred Geometry]
     M[Matrix]
-    
+
     SG -->|"Unity"| U[Sự Nhất Thể]
     M -->|"Division"| D[Chia rẽ]
-    
+
     SG -->|"Creation"| C[Sáng tạo]
     M -->|"Extraction"| E[Rút kiệt]
-    
+
     SG -->|"Knowledge"| K[Hiểu biết]
     M -->|"Ignorance"| I[Vô minh]
 ```

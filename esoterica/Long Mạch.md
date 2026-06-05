@@ -1,3 +1,9 @@
+---
+title: "Long Mạch (Dragon Veins)"
+description: "Long Mạch là hệ thống các dòng năng lượng (sinh khí/chi) chảy trong lòng Trái Đất, tương tự kinh mạch trong cơ thể người. Feng shui gọi là 'dragon veins'"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: "Long Mạch (Dragon Veins)"
 date: 2026-04-08

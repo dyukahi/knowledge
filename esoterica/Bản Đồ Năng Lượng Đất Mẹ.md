@@ -1,5 +1,6 @@
 ---
 title: Bản Đồ Năng Lượng Đất Mẹ
+description: "Bài này mở rộng Long Mạch và Phong Thủy vào địa lý Việt Nam, đồng thời nối với Gaia Trái Đất Có Ý Thức và Giải Mã Thiên Tai, Long Mạch và Triết Học Monad"
 aliases: ["Mother Earth's Energy Map", "Bản Đồ Long Mạch Việt Nam", "Energy Map Vietnam"]
 date: 2026-04-08
 tags: [esoterica, feng-shui, earth-energy]

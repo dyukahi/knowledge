@@ -1,5 +1,6 @@
 ---
 title: "Y Tế Tự Nhiên & Năng Lượng Mới"
+description: "Bài này là cầu nối giữa hai câu hỏi tưởng xa nhau: cơ thể cần khoáng và điện giải để sống; civilization cần vật liệu và năng lượng để thoát độc quyền. Natri, muối, biển"
 aliases: ["Natural Health and New Energy", "Natri-ion và Y Tế Tự Nhiên", "Sodium Sovereignty"]
 date: 2026-04-08
 tags: [health, energy, terrain-theory, science-tech]

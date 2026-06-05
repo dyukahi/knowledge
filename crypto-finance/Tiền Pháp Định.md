@@ -1,5 +1,6 @@
 ---
 title: "Tiền Pháp Định (Fiat Currency)"
+description: "Tiền Pháp Định (Fiat Currency) là hệ thống tiền tệ không có giá trị nội tại, được in ấn dựa trên nợ và lòng tin"
 date: 2026-04-07
 tags: [crypto-finance]
 status: refined
@@ -8,7 +9,6 @@ related:
   - "[[Bitcoin]]"
   - "[[Elite]]"
 ---
-
 # Tiền Pháp Định (Fiat Currency)
 
 **Tiền Pháp Định** (Fiat Currency) là hệ thống tiền tệ không có giá trị nội tại, được in ấn dựa trên nợ và lòng tin. Đây là công cụ cốt lõi của [[Elite]] để kiểm soát kinh tế và bòn rút tài sản của nhân loại.
@@ -16,7 +16,7 @@ related:
 *Fiat Currency is a monetary system with no intrinsic value, printed based on debt and trust. This is the core tool of the Elite to control the economy and extract wealth from humanity.*
 
 > "Fiat" trong tiếng Latin nghĩa là "hãy để nó xảy ra" — tiền tồn tại chỉ vì chính phủ nói nó tồn tại.
-> 
+>
 > *"Fiat" in Latin means "let it be done" — money exists only because the government says it exists.*
 
 ---

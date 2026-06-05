@@ -1,5 +1,6 @@
 ---
 title: "Hệ Tiêu Hóa - Bộ Não Thứ Hai"
+description: "Ruột không chỉ là ống tiêu hóa. Nó là interface giữa thức ăn, miễn dịch, microbiome, thần kinh phế vị, hormone, cảm xúc và clarity của tâm trí"
 date: 2026-04-08
 tags: [health]
 status: refined

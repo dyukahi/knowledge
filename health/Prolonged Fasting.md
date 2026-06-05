@@ -1,5 +1,6 @@
 ---
 title: "Prolonged Fasting"
+description: "Bài này là knowledge vault synthesis, không phải medical advice. Fasting kéo dài không phù hợp cho mọi người. Người có bệnh nền, đang dùng thuốc tiểu đường/huyết áp"
 aliases: ["Extended Fasting", "Nhịn Ăn Kéo Dài", "Fasting"]
 date: 2026-05-30
 tags: [health, metabolism, fasting, sovereignty]
@@ -11,7 +12,6 @@ related:
   - "[[Cơ Chế Tự Bảo Vệ Của Cơ Thể]]"
   - "[[MOC - Health Sovereignty]]"
 ---
-
 # Prolonged Fasting
 
 **Prolonged Fasting là nhịn ăn kéo dài có chủ đích để đưa cơ thể từ chế độ tiêu hóa/liên tục nạp sang chế độ sửa chữa/tái chế: giảm insulin, tăng ketone, kích hoạt autophagy và buộc metabolism nhớ lại một nhịp cổ xưa hơn.**

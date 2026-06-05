@@ -1,5 +1,6 @@
 ---
 title: "Phong Thủy"
+description: "Bài này nằm ở giao điểm giữa MOC Esoterica & Consciousness, Long Mạch, Sacred Geometry và Vận Chín. Trong redpill.wiki"
 aliases: ["Feng Shui", "風水", "Wind Water"]
 date: 2026-05-05
 tags: [esoterica, feng-shui, geomancy]
@@ -11,7 +12,6 @@ related:
   - "[[Sacred Geometry]]"
   - "[[Năng Lượng Aether]]"
 ---
-
 # Phong Thủy (Feng Shui / 風水)
 
 **Phong Thủy không phải mẹo đặt cây, treo gương, chọn màu để “hên”. Nó là một hệ đọc không gian: địa hình, hướng, dòng khí, nhịp thời gian và tâm lý cư trú cùng tạo ra một trường ảnh hưởng lên con người.**

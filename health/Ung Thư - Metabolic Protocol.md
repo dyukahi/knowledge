@@ -1,11 +1,11 @@
 ---
 title: "Ung Thư — Metabolic Protocol"
+description: "Hướng dẫn toàn diện về ung thư từ góc nhìn chuyển hóa (metabolic) — không phải đột biến gen, mà là ti thể bị lỗi . Bao gồm cơ chế, phòng ngừa"
 aliases: ["Cancer Metabolic Therapy", "Warburg Effect Protocol", "Terrain Cancer Protocol"]
 date: 2026-05-04
 tags: [health, cancer, metabolic-therapy, protocol]
 status: refined
 ---
-
 # Ung Thư — Metabolic Protocol
 
 Hướng dẫn toàn diện về ung thư từ góc nhìn **chuyển hóa (metabolic)** — không phải đột biến gen, mà là **ti thể bị lỗi**. Bao gồm cơ chế, phòng ngừa, và protocol điều trị thay thế.
@@ -102,11 +102,11 @@ flowchart TD
     A["Dairy & Meat Lobby"] --> B["Tài trợ nghiên cứu"]
     A --> C["Lobby chính phủ"]
     A --> D["Kiểm soát USDA guidelines"]
-    
+
     B --> E["Nghiên cứu có lợi được publish"]
     C --> F["Chính sách 'Got Milk?' campaign"]
     D --> G["Food Pyramid ưu tiên dairy"]
-    
+
     E --> H["Công chúng không biết sự thật"]
     F --> H
     G --> H
@@ -154,7 +154,7 @@ flowchart TD
     A["Ti thể khỏe mạnh"] --> B["Đốt Glucose + O2"]
     B --> C["36 ATP / glucose"]
     C --> D["Hiệu quả cao"]
-    
+
     E["Ti thể bị damage"] --> F["Sống sót → Chuyển Glycolysis"]
     F --> G["Lên men đường (không cần O2)"]
     G --> H["2 ATP / glucose"]
@@ -222,7 +222,7 @@ flowchart LR
     A["1. GIẢI GIÁP"] --> B["2. HỖ TRỢ GAN"]
     B --> C["3. TĂNG ĐỀ KHÁNG"]
     C --> D["4. CHẾ ĐỘ ĂN"]
-    
+
     A1["Ivermectin + Mebendazole"] --> A
     B1["NAC + Milk Thistle"] --> B
     C1["D3 + C + Zinc + Lactoferrin"] --> C
@@ -326,13 +326,13 @@ flowchart LR
 flowchart TD
     A1["Ivermectin"] --> A2["Phá lớp bảo vệ"]
     A3["Mebendazole"] --> A2
-    
+
     B1["NAC + Milk Thistle"] --> B2["Giải độc thuốc"]
-    
+
     C1["D3 + Zinc + C"] --> C2["Immune cells tấn công"]
-    
+
     D1["Keto/Fasting"] --> D2["Cắt năng lượng"]
-    
+
     A2 --> C2
     D2 --> E["Ung thư chết đói + bị tiêu diệt"]
     C2 --> E

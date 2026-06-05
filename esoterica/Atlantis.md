@@ -99,12 +99,12 @@ graph LR
         B[Moonlight] --> D
         C[Starlight] --> D
     end
-    
+
     subgraph Crystal Chamber
         D --> E[Hexagonal Prism<br/>6 Sides]
         E --> F[Energy Amplification]
     end
-    
+
     subgraph Output
         F --> G[Wireless Power<br/>Transmission]
         G --> H[Healing]
@@ -158,15 +158,15 @@ Nghe quen không? Đây là pattern cơ bản của mọi nền văn minh: servi
 graph TD
     A[Atlantean Society] --> B[Children of Law of One]
     A --> C[Sons of Belial]
-    
+
     B --> D[Service to Others]
     B --> E[Healing Technology]
     B --> F[Consciousness Elevation]
-    
+
     C --> G[Service to Self]
     C --> H[Weapon Technology]
     C --> I[Power & Domination]
-    
+
     C --> J[Control of Tuaoi Stone]
     J --> K[Frequency Weaponization]
     K --> L[Geological Instability]
@@ -221,14 +221,14 @@ graph TD
     A --> C[Missing Ships/Planes]
     A --> D[Electronic Failure]
     A --> E[Time Distortion Reports]
-    
+
     F[Possible Explanation] --> G[Damaged Tuaoi Stone<br/>Still Active]
     G --> H[Irregular Energy Bursts]
     H --> B
     H --> C
     H --> D
     H --> E
-    
+
     I[Evidence Found] --> J[Bimini Road 1968]
     I --> K[Underwater Pyramid 1978]
     I --> L[Crystal Sphere Claims]
@@ -293,13 +293,13 @@ graph LR
         A2 --> A3[Loss of Control]
         A3 --> A4[Destruction]
     end
-    
+
     subgraph Modern
         M1[Nuclear/AI Tech] --> M2[Weaponization]
         M2 --> M3[?]
         M3 --> M4[?]
     end
-    
+
     A4 -.->|Pattern| M1
 ```
 

@@ -1,5 +1,6 @@
 ---
 title: "Tuyến Tùng"
+description: "Bài này nằm giữa health và esoterica. Các phần về melatonin/circadian rhythm thuộc tầng sinh lý học. Các phần về “third eye”, DMT"
 aliases: ["Pineal Gland", "Third Eye", "Con Mắt Thứ Ba"]
 date: 2026-04-07
 tags: [health, esoterica, consciousness]
@@ -13,7 +14,6 @@ related:
   - "[[MOC - Health Sovereignty]]"
   - "[[MOC - Esoterica & Consciousness]]"
 ---
-
 # Tuyến Tùng (Pineal Gland / Third Eye)
 
 **Tuyến Tùng là một cơ quan nhỏ ở trung tâm não, nổi tiếng với vai trò điều hòa melatonin và nhịp ngày-đêm. Nhưng trong truyền thống esoteric, nó còn được đọc như “con mắt thứ ba”: interface giữa sinh lý học, ánh sáng, giấc ngủ, trực giác và khả năng biết trực tiếp.**

@@ -1,11 +1,11 @@
 ---
 title: "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ"
+description: "Lịch sử không phải những đường thẳng riêng lẻ mà là một tấm thảm đan xen — khi Việt Nam đang làm gì thì thế giới cũng đang chuyển động"
 aliases: ["Parallel History", "Axial Age", "Timeline Connections", "Tartaria", "Cosmic Egg"]
 date: 2026-05-04
 tags: [esoterica, history, timeline, connections, tartaria, giants]
 status: refined
 ---
-
 # Lịch Sử Song Song — Khi Thế Giới Đồng Bộ
 
 Lịch sử không phải những đường thẳng riêng lẻ mà là một tấm thảm đan xen — khi Việt Nam đang làm gì thì thế giới cũng đang chuyển động. Bài này đặt câu hỏi: **Tại sao những "trùng hợp" này lại xảy ra?**
@@ -27,12 +27,12 @@ Theo [[Bức Tường Băng|Ice Wall Manifesto]], toàn bộ tạo hóa nằm tr
 ```mermaid
 flowchart TB
     SUN["Nguồn Sáng Trung Tâm / Central Light Source"]
-    
+
     E1["EARTH 1"]
     E2["EARTH 2"]
     E3["EARTH 3"]
     E4["...vô hạn / infinite..."]
-    
+
     SUN --> E1
     SUN --> E2
     SUN --> E3
@@ -50,7 +50,7 @@ flowchart TD
     E["EARTH - gần sáng / near light<br/>Vật chất CAO / Tâm linh THẤP"]
     A["ATLAS - tầng giữa / middle"]
     K["AKUPARA - xa sáng / far from light<br/>Vật chất THẤP / Tâm linh CAO"]
-    
+
     E --> A --> K
 ```
 
@@ -105,7 +105,7 @@ flowchart TD
     FL["ĐẠI HỒNG THỦY / GREAT FLOOD ~11,600 TCN"]
     GT["Göbekli Tepe bị CHÔN / buried"]
     PF["POST-FLOOD Giants 3-9m"]
-    
+
     OW --> YD --> FL --> GT
     FL --> PF
 ```
@@ -140,7 +140,7 @@ flowchart TD
     KF["1048 CN: Khazaria sụp đổ → di cư Châu Âu"]
     TT["1400s-1800s: TARTARY trên bản đồ"]
     TD["1800s: Tartary BIẾN MẤT"]
-    
+
     SC --> KH --> JC --> KF --> TT --> TD
 ```
 
@@ -295,7 +295,7 @@ flowchart TD
     M["MA TRẬN / MATRIX - 4 Bức Tường"]
     H["NHÂN LOẠI / HUMANITY - Nông trại cảm xúc"]
     L["LOOSH / ORGONE - Năng lượng thu hoạch"]
-    
+
     R --> A --> E --> M --> H
     H --> L --> R
 ```

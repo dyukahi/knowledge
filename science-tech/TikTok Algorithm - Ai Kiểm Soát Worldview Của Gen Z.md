@@ -1,5 +1,6 @@
 ---
 title: "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z"
+description: "Một cuốn sách có tác giả. Một bộ phim có đạo diễn. Một bài báo có tòa soạn. Còn feed thì khác. Feed giống như thời tiết: nó bao quanh người dùng đến mức người ta quên"
 aliases: ["TikTok Algorithm", "TikTok Brain", "Information Warfare", "Algorithmic Worldview", "For You Page"]
 date: 2026-06-04
 tags: [science-tech, psychology, generation, agenda-2030, information-warfare, dopamine]
@@ -11,7 +12,6 @@ related:
   - "[[Bộ Não Rỗng và AI Brain Rot]]"
   - "[[Digital ID Normalization - From Instagram to Government ID]]"
 ---
-
 # TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z?
 
 **TikTok không chỉ là app giải trí. Nó là một feedback engine: đo phản ứng vi mô của người dùng, tối ưu dopamine, rồi lặp lại frame cho đến khi worldview có cảm giác như tự chọn. Ai kiểm soát feed không cần kiểm soát mọi suy nghĩ. Chỉ cần kiểm soát thứ xuất hiện trước khi suy nghĩ hình thành.**

@@ -1,5 +1,6 @@
 ---
 title: "Annunaki"
+description: "Annunaki là nơi thần thoại Lưỡng Hà, ancient astronaut theory và câu hỏi về nguồn gốc quyền lực nhân loại giao nhau. Ở tầng học thuật"
 date: 2026-04-08
 tags: [esoterica, hidden-history]
 status: refined

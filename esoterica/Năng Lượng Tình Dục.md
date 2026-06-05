@@ -1,5 +1,6 @@
 ---
 title: Năng Lượng Tình Dục
+description: "Bài này nối Tinh Khí Thần, Kundalini, Chakra, Tuyến Tùng và Sự Thật Đen Tối Về Phim Khiêu Dâm. Nó không phải bài đạo đức tình dục, cũng không phải lời kêu gọi khổ hạnh"
 aliases: ["Sexual Energy", "Sex Force", "Creative Energy", "Sinh Lực Tình Dục"]
 date: 2026-04-07
 tags: [esoterica, consciousness, transmutation]
@@ -12,7 +13,6 @@ related:
   - "[[Tuyến Tùng]]"
   - "[[Thuật Giả Kim Của Newton]]"
 ---
-
 # Năng Lượng Tình Dục (Sexual Energy)
 
 **Năng lượng tình dục là sinh lực sáng tạo ở tầng thô nhất và mạnh nhất: nó có thể sinh ra một cơ thể, phá nát một đời người, hoặc được chuyển hóa thành ý chí, nghệ thuật, trí tuệ và hiện diện.**

@@ -1,5 +1,6 @@
 ---
 title: "Science & Tech Domain Gateway"
+description: "Science & Tech là nơi vault tách science as method khỏi science as institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget"
 aliases: ["Science & Tech", "Khoa Học & Công Nghệ", "Science Revisionism"]
 date: 2026-06-01
 tags: [domain-gateway, science-tech, revisionist-science]
@@ -9,7 +10,6 @@ related:
   - "[[Khoa Học Xét Lại]]"
   - "[[Red Pill Wiki]]"
 ---
-
 # Science & Tech Domain Gateway
 
 **Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorship thành thần học mới.

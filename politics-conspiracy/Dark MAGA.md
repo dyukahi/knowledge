@@ -1,5 +1,6 @@
 ---
 title: "Dark MAGA"
+description: "Dark MAGA là meme chính trị khi restoration myth chuyển sang revenge myth: không còn chỉ 'làm nước Mỹ vĩ đại trở lại', mà là trở lại bằng phẫn nộ"
 aliases: ["Dark MAGA Meme", "Dark Mage", "MAGA War Symbolism"]
 date: 2026-04-07
 tags: [politics-conspiracy, symbolism, propaganda, meme-warfare]

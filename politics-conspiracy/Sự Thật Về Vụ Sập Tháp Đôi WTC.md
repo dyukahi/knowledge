@@ -1,5 +1,6 @@
 ---
 title: "Sự Thật Về Vụ Sập Tháp Đôi WTC"
+description: "9/11 là một node mà redpill phải đọc bằng hai tay: một tay giữ nghi ngờ chính đáng trước official story, tay kia giữ kỷ luật bằng chứng trước các giả thuyết thay thế"
 aliases: ["9/11 WTC", "World Trade Center Collapse", "WTC Controlled Demolition", "WTC DEW"]
 date: 2026-04-07
 tags: [politics-conspiracy, 911, wtc, false-flag]

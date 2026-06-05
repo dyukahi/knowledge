@@ -1,11 +1,11 @@
 ---
 title: "Trái Đất Phẳng"
+description: "Trái Đất Phẳng là một node cửa ngõ: nó không chỉ hỏi 'hình dạng địa cầu là gì', mà còn hỏi con người hiện đại biết thế giới bằng kinh nghiệm trực tiếp"
 aliases: ["Flat Earth"]
 date: 2026-04-07
 tags: [politics-conspiracy]
 status: refined
 ---
-
 # Trái Đất Phẳng
 
 **Trái Đất Phẳng** là một node cửa ngõ: nó không chỉ hỏi "hình dạng địa cầu là gì", mà còn hỏi con người hiện đại biết thế giới bằng kinh nghiệm trực tiếp, bằng mô hình toán học, hay bằng niềm tin vào thể chế trung gian. Vì vậy bài này không thay thế bài chuyên sâu [[Thuyết Trái Đất Phẳng]], mà đặt chủ đề vào đúng vị trí của redpill.wiki: một bài kiểm tra về nhận thức luận, quyền lực tri thức và cơ chế tạo đồng thuận.

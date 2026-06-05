@@ -1,5 +1,6 @@
 ---
 title: "Công Thức Chữa Lành Tự Nhiên"
+description: "'Công thức chữa lành' không phải menu thần dược. Nó là một stack nền: ngủ, ánh sáng, thức ăn thật, nước, khoáng, vận động, ruột, hơi thở"
 aliases: ["Natural Healing Formulas", "Master Note Chữa Lành", "Healing Stack"]
 date: 2026-04-08
 tags: [health, terrain-theory, healing, lifestyle]

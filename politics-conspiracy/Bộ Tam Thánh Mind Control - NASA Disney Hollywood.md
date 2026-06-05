@@ -63,7 +63,7 @@ flowchart TD
         C[Freemasonry]
         D[Occult Networks<br>Crowley - Thelema]
     end
-    
+
     A --> NASA
     A --> DISNEY[Disney]
     B --> DISNEY
@@ -73,17 +73,17 @@ flowchart TD
     C --> HOLLY
     D --> NASA
     D --> HOLLY
-    
+
     subgraph "BỘ TAM THÁNH / THE TRINITY"
         NASA["🚀 NASA<br>Phim hoạt hình cho người lớn<br>Adult Cartoons"]
         DISNEY["🏰 Disney<br>Programming trẻ em<br>Child Programming"]
         HOLLY["🎬 Hollywood<br>Phim cho người lớn<br>Adult Films"]
     end
-    
+
     NASA --> M[MIND CONTROL]
     DISNEY --> M
     HOLLY --> M
-    
+
     M --> REALITY["Định hình nhận thức<br>Shape Perception"]
 ```
 
@@ -130,10 +130,10 @@ flowchart LR
     A[Aleister Crowley<br>The Beast 666] -->|Thelema| B[Jack Parsons<br>JPL Co-founder]
     B -->|Babalon Working| C[L. Ron Hubbard<br>Scientology founder]
     B -->|Founded| D[JPL → NASA]
-    
+
     A -->|OTO| E[Agape Lodge<br>Hollywood]
     E --> F[Hollywood Occult Scene]
-    
+
     D --> G[Space Program]
     F --> G
 ```
@@ -214,10 +214,10 @@ flowchart TD
     C --> E[Disney TV Shows<br>1954-1957]
     E --> F[Man in Space Series]
     F --> G[Programming Americans<br>for Space Race]
-    
+
     D --> H[Moon Landing<br>1969]
     G --> H
-    
+
     H --> I[Collective Belief<br>Vũ trụ quan / Cosmology]
 ```
 
@@ -340,19 +340,19 @@ Xem chi tiết tại [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
 ```mermaid
 flowchart TD
     OP[Operation Paperclip<br>1945] --> NAZI[1,600+ Nazi Scientists]
-    
+
     NAZI --> VON[Wernher von Braun]
     NAZI --> OTHER[Other Scientists]
-    
+
     VON --> NASA1[NASA Director]
     VON --> DISNEY1[Disney TV Consultant]
-    
+
     OTHER --> MK[MK-Ultra Programs]
     MK --> CIA1[CIA]
-    
+
     CIA1 --> DISNEY2[Disney<br>FBI/CIA connections]
     CIA1 --> HOLLY1[Hollywood<br>Entertainment Liaison]
-    
+
     NASA1 --> SCREEN[SCREEN<br>Magic Mirror]
     DISNEY2 --> SCREEN
     HOLLY1 --> SCREEN
@@ -373,15 +373,15 @@ flowchart TD
 ```mermaid
 flowchart LR
     A[Aleister Crowley<br>1875-1947] --> B[Thelema Religion]
-    
+
     B --> C[Jack Parsons<br>JPL/NASA]
     B --> D[L. Ron Hubbard<br>Scientology]
     B --> E[Hollywood Occultists]
-    
+
     C --> F[Space Program]
     D --> G[Celebrity Religion]
     E --> H[Entertainment Industry]
-    
+
     F & G & H --> I[Same Occult Root]
 ```
 
@@ -447,11 +447,11 @@ flowchart TD
     A[NASA] --> D[Định hình nhận thức<br>Shape Perception]
     B[Disney] --> D
     C[Hollywood] --> D
-    
+
     D --> E[Controllable Population]
     D --> F[Accepted Narratives]
     D --> G[Predictable Behavior]
-    
+
     E & F & G --> H[MATRIX<br>Ma Trận Kiểm Soát]
 ```
 

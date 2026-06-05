@@ -1,5 +1,6 @@
 ---
 title: "Gnosis (Ngộ Đạo)"
+description: "Gnosis là red pill nguyên thủy. Không phải vì nó cho bạn thêm thông tin, mà vì nó làm sụp đổ false identity."
 aliases: ["Gnosis", "Gnosticism", "Ngộ Đạo", "Direct Knowing"]
 date: 2026-04-08
 tags: [esoterica, gnosis, consciousness, matrix]
@@ -14,7 +15,6 @@ related:
   - "[[Tuyến Tùng]]"
   - "[[Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]]"
 ---
-
 # Gnosis (Ngộ Đạo)
 
 **Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên dưới thân xác, bản ngã và [[Ma Trận]], vẫn còn một tia lửa bất khả phân của [[Monad]].**

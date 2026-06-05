@@ -1,5 +1,6 @@
 ---
 title: "Năng Lượng Natri (Sodium Energy)"
+description: "Năng Lượng Natri là node đọc natri như vật liệu năng lượng, biểu tượng biển muối điện, và điểm giao giữa science revisionism với câu hỏi độc quyền hạ tầng"
 aliases: ["Sodium Energy", "Natri Energy", "Sodium Power"]
 date: 2026-04-08
 tags: [esoterica, science-tech, energy, sodium]

@@ -1,5 +1,6 @@
 ---
 title: Cỗ Máy Antikythera và Minh Chứng Địa Tâm
+description: "Antikythera thường được gọi là analog computer cổ nhất còn biết đến. Các mảnh đồng rỉ sét của nó hé lộ một hệ bánh răng dùng để tính vị trí thiên văn, chu kỳ Mặt Trăng"
 aliases: ["Antikythera Mechanism", "Ancient Greek Astronomical Calculator", "Cỗ Máy Antikythera"]
 date: 2026-04-08
 tags: [science-tech, ancient-tech, astronomy, revisionist-science]
@@ -11,7 +12,6 @@ related:
   - "[[Chu Kỳ Hoàng Đạo]]"
   - "[[Thuyết Trái Đất Phẳng]]"
 ---
-
 # Cỗ Máy Antikythera và Minh Chứng Địa Tâm
 
 **Antikythera là bằng chứng mạnh rằng cổ nhân có thiên văn cơ học tinh vi hơn narrative phổ thông từng dạy. Nhưng nó không tự động “chứng minh Địa Tâm là thật”; nó chứng minh rằng một mô hình bầu trời nhìn từ Trái Đất có thể được mã hóa cơ khí với độ phức tạp đáng kinh ngạc.**

@@ -1,5 +1,6 @@
 ---
 title: "MAGA Và Số 42"
+description: "MAGA là khẩu hiệu chính trị trước khi là biểu tượng huyền học. Nhưng trong vault, khẩu hiệu không chỉ được đọc ở tầng policy"
 aliases: ["MAGA and 42", "MAGA Gematria", "MAGA Symbolism"]
 date: 2026-04-07
 tags: [politics-conspiracy, symbolism, gematria, propaganda]

@@ -1,5 +1,6 @@
 ---
 title: "Nhị Nguyên (Duality)"
+description: "Nhị nguyên là cơ chế Một tự phân cực thành hai để tạo trải nghiệm: sáng/tối, nam/nữ, âm/dương, đúng/sai, ta/địch. Nó không xấu; nó là grammar của cõi vật chất"
 aliases: ["Duality", "Binary Thinking"]
 date: 2026-04-07
 tags: [mental-model, consciousness]

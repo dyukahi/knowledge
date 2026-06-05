@@ -1,5 +1,6 @@
 ---
 title: "Tinh Khí Thần"
+description: "Trong redpill.wiki, Tinh Khí Thần là node nối Đạo, Năng Lượng Tình Dục, S.E.X, Tuyến Tùng, Individuation và health sovereignty."
 aliases: ["Three Treasures", "Jing Qi Shen", "Tam Bảo", "Jing-Qi-Shen"]
 date: 2026-04-07
 tags: [esoterica, taoism, energy, sexuality]
@@ -13,7 +14,6 @@ related:
   - "[[Individuation]]"
   - "[[MOC - Esoterica & Consciousness]]"
 ---
-
 # Tinh Khí Thần (Three Treasures)
 
 **Tinh Khí Thần là Tam Bảo của con người trong Đạo gia: Tinh là essence/sinh lực gốc, Khí là dòng năng lượng vận hành, Thần là clarity/consciousness. Đây không phải ba “chất” tách rời, mà là ba tầng chuyển hóa của cùng một sinh lực.**

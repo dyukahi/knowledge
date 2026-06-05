@@ -1,5 +1,6 @@
 ---
 title: "AI Và Câu Hỏi Về Ý Thức"
+description: "AI buộc con người hỏi lại một câu cũ bằng ngôn ngữ mới: nói về ý thức có giống có ý thức không? Một mô hình có thể viết về Nghịch Lý Của Hiểu Biết"
 aliases: ["AI and Consciousness", "Is AI Conscious", "AI Black Magic"]
 date: 2026-04-27
 tags: [esoterica, ai]

@@ -199,7 +199,7 @@ Trước khi bán, hỏi:
 - Tin xấu này là structural break hay capitulation headline?
 - Còn forced sellers lớn nào chưa xả không?
 
-Ở top, hỏi: **ai còn chưa mua?**  
+Ở top, hỏi: **ai còn chưa mua?**
 Ở bottom, hỏi: **ai còn bị ép bán?**
 
 ---

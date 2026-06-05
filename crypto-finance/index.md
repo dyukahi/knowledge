@@ -1,5 +1,6 @@
 ---
 title: "Crypto & Finance Domain Gateway"
+description: "Crypto & Finance là nơi vault đọc tiền như operating system của time, labor, consent và freedom. Tiền không chỉ là price chart"
 aliases: ["Crypto & Finance", "Financial Sovereignty", "Tài Chính Chủ Quyền"]
 date: 2026-06-01
 tags: [domain-gateway, crypto-finance, financial-sovereignty]
@@ -9,7 +10,6 @@ related:
   - "[[Bitcoin]]"
   - "[[Red Pill Wiki]]"
 ---
-
 # Crypto & Finance Domain Gateway
 
 **Crypto & Finance là nơi vault đọc tiền như operating system của time, labor, consent và freedom.** Tiền không chỉ là price chart. Nó là hạ tầng quyết định ai được lưu trữ giá trị, ai bị debase, ai bị surveil, ai được permission để giao dịch, và ai vẫn còn exit khi hệ thống chuyển sang programmable money.

@@ -1,3 +1,9 @@
+---
+title: "Thánh Issa (Hành trình Tây Tạng của Chúa)"
+description: "Thánh Issa là tên gọi của Chúa Giêsu trong các bản thảo cổ tại tu viện Hemis (Ladakh, Tây Tạng). Giải đáp câu hỏi: Jesus ở đâu từ 12 30 tuổi?"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: "Thánh Issa"
 date: 2026-04-08

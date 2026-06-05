@@ -1,5 +1,6 @@
 ---
 title: "Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ"
+description: "Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ: Hay nói cách khác: Context makes the medicine."
 date: 2026-05-10
 tags: [esoterica, mind-control, health]
 status: refined
@@ -11,7 +12,6 @@ related:
   - "[[Khoa Học Xét Lại]]"
   - "[[Loosh - Năng Lượng Thu Hoạch Từ Con Người]]"
 ---
-
 # Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ
 
 **"The dose makes the poison."** — Paracelsus

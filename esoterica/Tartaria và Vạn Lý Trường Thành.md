@@ -1,3 +1,9 @@
+---
+title: "Tartaria và Vạn Lý Trường Thành: Góc Nhìn Kinh Thế Ký"
+description: "Bài viết kết nối các dữ kiện từ Kinh Thế Ký (Phật giáo) với nền văn minh Tartaria và công trình Vạn Lý Trường Thành"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: Tartaria và Vạn Lý Trường Thành
 date: 2026-04-08

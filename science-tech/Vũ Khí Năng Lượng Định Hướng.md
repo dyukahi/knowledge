@@ -1,5 +1,6 @@
 ---
 title: "Vũ Khí Năng Lượng Định Hướng"
+description: "DEW là chủ đề dễ bị kéo từ công nghệ thật sang kết luận quá rộng. Vì vậy nguồn phải đi theo claim:"
 aliases: ["Directed Energy Weapon", "DEW", "High-Energy Laser", "High-Power Microwave"]
 date: 2026-04-07
 tags: [science-tech, defense-tech, revisionist-science]
@@ -11,7 +12,6 @@ related:
   - "[[Báo Cáo 2030]]"
   - "[[Elite]]"
 ---
-
 # Vũ Khí Năng Lượng Định Hướng (DEW)
 
 **DEW là công nghệ thật: laser năng lượng cao, microwave công suất cao và các hệ thống gây nhiễu/đốt/disable mục tiêu bằng năng lượng tập trung. Nhưng từ “DEW tồn tại” đến “DEW giải thích mọi thảm họa” là một bước nhảy claim cần kỷ luật.**

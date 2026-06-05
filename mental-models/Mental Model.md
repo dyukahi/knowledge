@@ -1,5 +1,6 @@
 ---
 title: "Mental Model"
+description: "Mental model là bản đồ vận hành của reality trong đầu bạn. Người có model nghèo bị sự kiện kéo đi. Người có model tốt thấy cấu trúc phía sau sự kiện"
 aliases: ["Mô Hình Tư Duy", "Thinking Model", "Cognitive Model"]
 date: 2026-04-07
 tags: [mental-model, epistemology]
@@ -12,7 +13,6 @@ related:
   - "[[Tư Duy Lũy Thừa]]"
   - "[[Thông Minh vs Trí Tuệ]]"
 ---
-
 # Mental Model
 
 **Mental model là bản đồ vận hành của reality trong đầu bạn.** Người có model nghèo bị sự kiện kéo đi. Người có model tốt thấy cấu trúc phía sau sự kiện, dự đoán hậu quả tốt hơn và chọn phản ứng tỉnh hơn. Trong redpill.wiki, mental model không phải mẹo năng suất; nó là công cụ chủ quyền nhận thức.

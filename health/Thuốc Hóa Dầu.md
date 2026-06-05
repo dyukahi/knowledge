@@ -1,5 +1,6 @@
 ---
 title: "Thuốc Hóa Dầu (Petrochemical Medicine)"
+description: "Không tự ý ngừng thuốc đang dùng. Một số thuốc cứu mạng thật: kháng sinh đúng lúc, insulin, thuốc cấp cứu, gây mê phẫu thuật, thuốc tim mạch trong tình huống cần thiết."
 aliases: ["Petrochemical Medicine", "Rockefeller Medicine", "Allopathic Medicine"]
 date: 2026-04-08
 tags: [health, pharma, medical-industrial-complex]
@@ -11,7 +12,6 @@ related:
   - "[[Thuyết Vi Sinh Nội Sinh]]"
   - "[[MOC - Health Sovereignty]]"
 ---
-
 # Thuốc Hóa Dầu (Petrochemical Medicine)
 
 **Thuốc Hóa Dầu là cách gọi phê phán nền y học dược phẩm hiện đại khi nó ưu tiên molecule tổng hợp, patent, symptom management và chronic treatment hơn terrain, dinh dưỡng, ánh sáng, giấc ngủ, khoáng chất và khả năng tự chữa của cơ thể. Vấn đề không phải “mọi thuốc đều xấu”, mà là incentive của cả hệ thống đang nghiêng về quản lý bệnh hơn là phục hồi sức khỏe.**

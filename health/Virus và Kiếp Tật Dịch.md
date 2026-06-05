@@ -1,5 +1,6 @@
 ---
 title: Virus và Kiếp Tật Dịch
+description: "Bài này không phủ nhận bệnh truyền nhiễm, không khuyên bỏ điều trị, không thay thế bác sĩ. Sốt cao kéo dài, khó thở, mất nước, lơ mơ, đau ngực, tím tái"
 aliases: ["Virus", "Kiếp Tật Dịch", "Terrain Theory and Virus"]
 date: 2026-04-08
 tags: [health, terrain-theory, virus, spirituality]
@@ -12,7 +13,6 @@ related:
   - "[[Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo]]"
   - "[[Ma Trận]]"
 ---
-
 # Virus và Kiếp Tật Dịch
 
 **Virus là nơi health sovereignty phải giữ hai mắt mở: một mắt nhìn dữ liệu sinh học về mầm bệnh, miễn dịch và lây truyền; mắt kia nhìn terrain, độc tải, sợ hãi, truyền thông và nghiệp tập thể khiến một đợt bệnh trở thành một nghi lễ xã hội.**

@@ -1,5 +1,6 @@
 ---
 title: "Mô Hình Địa Tâm (Geocentrism)"
+description: "Ở dạng đơn giản, Địa Tâm nói rằng Trái Đất đứng yên tại trung tâm, còn Mặt Trời, Mặt Trăng và bầu trời quay quanh."
 aliases: ["Geocentrism", "Địa Tâm", "Geocentric Model"]
 date: 2026-04-08
 tags: [mental-model, esoterica, cosmology, science-tech]
@@ -11,7 +12,6 @@ related:
   - "[[Cỗ Máy Antikythera và Minh Chứng Địa Tâm]]"
   - "[[MOC - Science Revisionism]]"
 ---
-
 # Mô Hình Địa Tâm (Geocentrism)
 
 **Mô Hình Địa Tâm đặt Trái Đất ở trung tâm quan sát của vũ trụ. Nhưng giá trị lớn nhất của bài này không phải bắt người đọc “tin Địa Tâm”, mà là dùng Địa Tâm như một epistemic stress test: làm sao ta biết mô hình vũ trụ mình tin là do tự kiểm chứng, chứ không chỉ do institution truyền xuống?**

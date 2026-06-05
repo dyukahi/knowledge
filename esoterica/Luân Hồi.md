@@ -1,5 +1,6 @@
 ---
 title: "Luân Hồi"
+description: "Luân Hồi nằm giữa Monad, Gnosis, Nhân Quả, Ma Trận và Loosh Năng Lượng Thu Hoạch Từ Con Người. Đây là một trong những node nguy hiểm nhất vì nó dễ bị biến thành dogma:"
 aliases: ["Samsara", "Reincarnation", "Tái Sinh"]
 date: 2026-04-08
 tags: [esoterica, consciousness, reincarnation]
@@ -13,7 +14,6 @@ related:
   - "[[Nhị Nguyên]]"
   - "[[MOC - Esoterica & Consciousness]]"
 ---
-
 # Luân Hồi (Samsara / Reincarnation)
 
 **Luân Hồi là vòng tái sinh của tâm thức qua nhiều thân xác, nhưng trong vault nó không được đọc một chiều. Cùng một cơ chế có thể là trường học linh hồn hoặc nhà tù ký ức, tùy mức độ tỉnh thức, consent và khả năng nhớ lại của người tham gia.**

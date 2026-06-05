@@ -1,5 +1,6 @@
 ---
 title: "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí"
+description: "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí: 33 Degrees Exploring the Sacred Temple Within the Mind"
 date: 2026-04-07
 tags: [esoterica]
 status: refined
@@ -97,7 +98,7 @@ flowchart TB
     ALTAR["BÀN THỜ LỄ VẬT / Altar<br/>= BỤNG DƯỚI / Lower Abdomen"]
     JB["JACHIN & BOAZ (2 cột)<br/>= 2 CHÂN / Two Legs"]
     GATE["CỔNG VÀO / Gate<br/>= CHÂN / Feet - Địa Ngục"]
-    
+
     HH --> ARK
     HH --> INNER --> ALTAR --> JB --> GATE
 ```

@@ -84,8 +84,8 @@ Một institution từng nói dối không làm mọi alternative claim đúng. 
 
 Khoa học như method là một trong những công cụ giải phóng mạnh nhất của con người. Khoa học như priesthood là một trong những công cụ đóng khung mạnh nhất của Ma Trận.
 
-> Method hỏi. Institution đóng dấu.  
-> Method sửa sai. Institution giữ mặt mũi.  
+> Method hỏi. Institution đóng dấu.
+> Method sửa sai. Institution giữ mặt mũi.
 > Method cần humility. Priesthood cần obedience.
 
 Science revisionism là giữ method sống sau khi institution đã muốn biến nó thành giáo điều.

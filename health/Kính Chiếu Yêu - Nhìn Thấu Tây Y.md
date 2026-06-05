@@ -1,3 +1,9 @@
+---
+title: "Kính Chiếu Yêu — Nhìn Thấu Tây Y"
+description: "Kính Chiếu Yêu — Nhìn Thấu Tây Y: aliases: ['They Live Medicine', 'Seeing Through Western Medicine']"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: "Kính Chiếu Yêu — Nhìn Thấu Tây Y"
 aliases: ["They Live Medicine", "Seeing Through Western Medicine"]
@@ -69,7 +75,7 @@ flowchart LR
     E["Tăng liều | Increase dose"]
     F["Tổn thương cơ quan | Organ damage"]
     G["Cần thêm thuốc | Need more drugs"]
-    
+
     A --> B --> C --> D --> E --> F --> G --> A
 ```
 
@@ -143,7 +149,7 @@ flowchart TD
     C["Hóa trị + Xạ trị | Chemo + Radiation"]
     W["Cơ thể suy kiệt | Body deteriorates"]
     D["Tử vong | Death"]
-    
+
     T --> B --> S --> M
     M --> C --> W --> D
 ```
@@ -257,7 +263,7 @@ flowchart TD
     M["Media"]
     H["Bệnh viện | Hospitals"]
     U["Người bệnh | Patients"]
-    
+
     P --> E --> D --> H --> U
     P --> M --> U
     P -->|"Tài trợ | Funding"| E

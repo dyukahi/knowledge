@@ -1,3 +1,9 @@
+---
+title: "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad"
+description: "title: Giải Mã Thiên Tai, Long Mạch và Triết Học Monad — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: Giải Mã Thiên Tai, Long Mạch và Triết Học Monad
 date: 2026-04-08

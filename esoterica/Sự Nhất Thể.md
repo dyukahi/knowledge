@@ -1,5 +1,6 @@
 ---
 title: "Sự Nhất Thể (Oneness)"
+description: "Nếu Monad là tia lửa của Source trong mỗi sinh thể, thì Sự Nhất Thể là đại dương nơi mọi tia lửa chưa từng thật sự tách rời. Nếu Gnosis là sự nhớ lại"
 aliases: ["Oneness", "Unity", "Non-duality", "Nhất Thể", "Bất Nhị"]
 date: 2026-04-08
 tags: [esoterica, consciousness, non-duality]
@@ -14,7 +15,6 @@ related:
   - "[[Elite]]"
   - "[[Nghịch Lý Của Hiểu Biết]]"
 ---
-
 # Sự Nhất Thể (Oneness)
 
 **Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh — ta/người, sáng/tối, tinh thần/vật chất, thắng/thua — có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qua vô số đôi mắt.**

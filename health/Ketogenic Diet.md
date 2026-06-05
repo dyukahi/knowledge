@@ -1,5 +1,6 @@
 ---
 title: "Ketogenic Diet"
+description: "Bài này là knowledge vault synthesis, không phải medical advice. Người đang dùng thuốc tiểu đường, huyết áp, phụ nữ mang thai, người có bệnh gan/thận, rối loạn ăn uống"
 aliases: ["Keto", "Ketosis", "Chế Độ Ăn Keto"]
 date: 2026-05-30
 tags: [health, metabolism, cancer, sovereignty]
@@ -12,7 +13,6 @@ related:
   - "[[Kính Chiếu Yêu - Nhìn Thấu Tây Y]]"
   - "[[MOC - Health Sovereignty]]"
 ---
-
 # Ketogenic Diet
 
 **Ketogenic Diet không chỉ là trend giảm cân. Ở tầng metabolic, keto là một cách chuyển cơ thể từ glucose-dominant metabolism sang fat/ketone metabolism, đặt lại câu hỏi rất căn bản: bệnh tật là lỗi thuốc men, hay là lỗi môi trường chuyển hóa?**

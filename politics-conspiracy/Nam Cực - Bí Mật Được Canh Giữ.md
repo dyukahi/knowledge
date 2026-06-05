@@ -1,5 +1,6 @@
 ---
 title: "Nam Cực - Bí Mật Được Canh Giữ"
+description: "'12 quốc gia đang chiến tranh lạnh bỗng dưng đồng ý hợp tác để bảo vệ một vùng băng 'không có gì'.'"
 date: 2026-04-30
 tags: [conspiracy, antarctica, nazi, flat-earth, elite]
 status: refined
@@ -164,12 +165,12 @@ flowchart LR
         G1["South Pole<br>= End point"]
         G2["Nothing beyond"]
     end
-    
+
     subgraph Flat["FLAT EARTH MODEL"]
         F1["Antarctica<br>= Ice Wall"]
         F2["Land beyond?"]
     end
-    
+
     G1 --> G2
     F1 --> F2
 ```
@@ -221,7 +222,7 @@ Trên **flat earth model**, 12 quốc gia này nằm ở các vị trí chiến 
 flowchart TD
     subgraph FE["FLAT EARTH VIEW"]
         CENTER["North Pole<br>Trung tâm"]
-        
+
         CENTER --> USA
         CENTER --> UK
         CENTER --> FR["France"]
@@ -234,7 +235,7 @@ flowchart TD
         CENTER --> SA["South Africa"]
         CENTER --> NOR["Norway"]
         CENTER --> BEL["Belgium"]
-        
+
         USA --> ICE["ICE WALL<br>Antarctica"]
         UK --> ICE
         FR --> ICE
@@ -248,7 +249,7 @@ flowchart TD
         NOR --> ICE
         BEL --> ICE
     end
-    
+
     ICE --> BEYOND["WHAT'S BEYOND?"]
 ```
 
@@ -263,7 +264,7 @@ flowchart TD
 ### Tên "Fishbowl" Là Trùng Hợp?
 
 **Operation Fishbowl** (1962) — series high-altitude nuclear tests:
-- Tên "Fishbowl" = "Bể cá" 
+- Tên "Fishbowl" = "Bể cá"
 - Flat earthers: Họ đang test **firmament** (vòm trời)?
 - Official: "High-altitude nuclear weapons effects research"
 
@@ -309,21 +310,21 @@ flowchart TD
 flowchart TD
     NAZI["Nazi Expedition<br>1938-39"] --> BASE["Base 211?"]
     NAZI --> PAPER["Operation Paperclip<br>1945"]
-    
+
     PAPER --> NASA["NASA<br>von Braun"]
     PAPER --> HIGH["Operation Highjump<br>1946-47"]
-    
+
     HIGH --> BYRD["Admiral Byrd<br>'Land beyond poles'"]
     BYRD --> RETREAT["Early retreat<br>Mysterious"]
-    
+
     RETREAT --> TREATY["Antarctic Treaty<br>1959"]
     TREATY --> FISH["Operation Fishbowl<br>1962"]
-    
+
     NASA --> MOON["Moon Landing<br>1969"]
     FISH --> MOON
-    
+
     TREATY --> TODAY["Today<br>Civilians restricted"]
-    
+
     subgraph QUESTION["THE QUESTION"]
         Q1["What are they hiding?"]
         Q2["Flat Earth edge?"]
@@ -331,7 +332,7 @@ flowchart TD
         Q4["Advanced tech?"]
         Q5["Other civilizations?"]
     end
-    
+
     TODAY --> QUESTION
 ```
 

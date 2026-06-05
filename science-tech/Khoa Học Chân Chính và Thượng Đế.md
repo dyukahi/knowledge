@@ -1,5 +1,6 @@
 ---
 title: Khoa Học Chân Chính và Thượng Đế
+description: "Khoa học như method là quan sát, giả thuyết, đo lường, phản biện, tái kiểm, sửa sai. Khoa học như priesthood là consensus management, credential worship"
 aliases: ["Science and God", "Sacred Science", "Khoa Học Thiêng"]
 date: 2026-04-08
 tags: [science-tech, philosophy, spirituality, revisionist-science]
@@ -13,7 +14,6 @@ related:
   - "[[Gnosis]]"
   - "[[Sự Nhất Thể]]"
 ---
-
 # Khoa Học Chân Chính và Thượng Đế
 
 **Khoa học chân chính không cần giết Thượng Đế để trưởng thành. Nó chỉ cần giết thần tượng giả: giáo điều, authority, career incentive và sự kiêu ngạo nghĩ rằng cái chưa đo được thì không tồn tại.**

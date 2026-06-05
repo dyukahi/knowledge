@@ -1,5 +1,6 @@
 ---
 title: "Mebendazole — Thuốc Tẩy Giun Chống Ung Thư"
+description: "Bài này là knowledge vault synthesis, không phải medical advice. Mebendazole không được phê duyệt như standard cancer treatment. Không tự ý dùng liều cao/kéo dài"
 aliases: ["MBZ", "Fugacar", "Vermox", "Fenbendazole", "Benzimidazole"]
 date: 2026-05-03
 tags: [health, cancer, repurposed-drugs, metabolism]
@@ -13,7 +14,6 @@ related:
   - "[[Prolonged Fasting]]"
   - "[[MOC - Health Sovereignty]]"
 ---
-
 # Mebendazole — Thuốc Tẩy Giun Chống Ung Thư
 
 **Mebendazole (MBZ) là thuốc tẩy giun cũ, rẻ, hết patent, đang được nghiên cứu như một candidate trong drug repurposing chống ung thư. Điểm đáng chú ý không phải “thuốc tẩy giun chữa ung thư” theo kiểu headline, mà là pattern: nhiều thuốc antiparasitic/antimicrobial có tác động lên microtubule, metabolism, angiogenesis, immune signaling và tumor microenvironment.**

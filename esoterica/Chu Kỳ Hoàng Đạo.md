@@ -1,5 +1,6 @@
 ---
 title: "Chu Kỳ Hoàng Đạo"
+description: "Trong redpill.wiki, Chu Kỳ Hoàng Đạo nối với Chu Kỳ Vũ Trụ — Yugas & Kalpas, Vận Chín, Mô Hình Địa Tâm, Cỗ Máy Antikythera và Minh Chứng Địa Tâm và Báo Cáo 2030."
 aliases: ["Zodiac Cycle", "Great Year", "Precession", "Precession of the Equinoxes"]
 date: 2026-04-08
 tags: [esoterica, cycles, astrology, hidden-history]
@@ -12,7 +13,6 @@ related:
   - "[[Báo Cáo 2030]]"
   - "[[MOC - Ancient Civilizations & Hidden History]]"
 ---
-
 # Chu Kỳ Hoàng Đạo (Zodiac Cycle)
 
 **Chu Kỳ Hoàng Đạo là cách đọc thời gian vĩ mô qua chuyển động tiền phân điểm: khoảng 25,920 năm cho một Great Year, chia thành 12 “thời đại” tượng trưng. Ở tầng astronomy, đây là precession. Ở tầng vault, nó là framework để đọc các chu kỳ consciousness, civilization và narrative shift.**

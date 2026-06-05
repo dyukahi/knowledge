@@ -1,5 +1,6 @@
 ---
 title: "Thuyết Vi Sinh Nội Sinh (Terrain Theory)"
+description: "Terrain Theory nói một điều đơn giản nhưng bị làm phẳng: mầm bệnh không hành động trong chân không. Nó gặp một cơ thể có miễn dịch, ruột, dinh dưỡng, stress, độc chất"
 aliases: ["Terrain Theory", "Thuyết Địa Hình"]
 date: 2026-04-08
 tags: [health, terrain-theory]

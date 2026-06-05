@@ -1,3 +1,9 @@
+---
+title: "Nibiru và Nền Văn Minh Annunaki"
+description: "Nibiru và Nền Văn Minh Annunaki: Tags: source note annunaki nibiru cabal matrix ancient history"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: Nibiru và Nền Văn Minh Annunaki
 date: 2026-04-08
@@ -11,7 +17,7 @@ Tài liệu này tổng hợp giả thuyết về sự hiện diện của chủ
 
 ## 1. Nguồn Gốc và "Cuộc Thử Nghiệm"
 - **Annunaki:** Chủng tộc gieo hạt, chỉnh sửa gen và tạo ra các giống loài mới trên Trái Đất.
-- **Trái Đất là phòng thí nghiệm:** Các sinh mệnh từ động vật, thực vật đến con người đều là "hạt giống" được đưa từ các hành tinh xa xôi. 
+- **Trái Đất là phòng thí nghiệm:** Các sinh mệnh từ động vật, thực vật đến con người đều là "hạt giống" được đưa từ các hành tinh xa xôi.
 - **Mục đích:** Tạo ra môi trường trải nghiệm 3D cho các linh hồn.
 
 ## 2. Chu Kỳ Reset và Nibiru
@@ -20,7 +26,7 @@ Tài liệu này tổng hợp giả thuyết về sự hiện diện của chủ
 
 ## 3. Cabal - Những Kẻ Cai Quản "Game"
 - **Nhiệm vụ:** Quản lý nhân loại, tăng độ khó cho "trò chơi", gây ra các bất ổn chính trị, tôn giáo, và che giấu sự thật về UFO/văn minh cổ đại.
-- **Chiến lược:** 
+- **Chiến lược:**
  - Tung ra các thuyết cực đoan (như Thuyết Trái Đất Phẳng) để che đậy sự hiện diện thực sự của Nibiru.
  - Sử dụng dịch bệnh, vắc-xin, và khủng hoảng kinh tế để làm suy yếu con người trước thời điểm thiên tai cao điểm.
  - Kiểm soát truyền thông để ru ngủ đám đông.
@@ -53,4 +59,3 @@ Node này là cầu giữa [[Annunaki]], [[Nibiru]], [[Ma Trận - Giải Phẫu
 - [[Nibiru]]
 - [[Thuyết Trái Đất Phẳng]]
 - [[Vận Chín, Người Kogi và Ma Trận Y Tế]]
-

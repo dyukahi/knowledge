@@ -1,3 +1,9 @@
+---
+title: "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh"
+description: "title: 'Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh' — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh"
 date: 2026-04-08

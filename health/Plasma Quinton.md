@@ -1,5 +1,6 @@
 ---
 title: "Plasma Quinton (Huyết Tương Biển)"
+description: "Bài này là knowledge vault synthesis, không phải medical advice. Người có bệnh thận, tăng huyết áp, rối loạn điện giải, suy tim, đang dùng thuốc"
 aliases: ["Quinton Plasma", "Marine Plasma", "Seawater Therapy", "Huyết Tương Biển"]
 date: 2026-04-08
 tags: [health, terrain, minerals]
@@ -11,7 +12,6 @@ related:
   - "[[Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh]]"
   - "[[MOC - Health Sovereignty]]"
 ---
-
 # Plasma Quinton (Huyết Tương Biển)
 
 **Plasma Quinton là nước biển được xử lý theo phương pháp René Quinton, thường được đọc trong health sovereignty như một cách hỗ trợ terrain khoáng chất và nội môi. Điểm cốt lõi không phải “nước biển chữa mọi bệnh”, mà là câu hỏi sâu hơn: cơ thể có thể tự sửa tốt hơn khi môi trường nội bào được tái khoáng và bớt ô nhiễm không?**

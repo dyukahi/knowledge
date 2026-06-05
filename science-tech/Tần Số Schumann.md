@@ -1,5 +1,6 @@
 ---
 title: "Tần Số Schumann (Schumann Resonance)"
+description: "Không nên biến mọi đau đầu/mất ngủ thành “Schumann spike”. Nhưng cũng không nên xem con người như sinh vật tách khỏi môi trường điện từ của Trái Đất."
 aliases: ["Schumann Resonance", "Earth's Heartbeat", "Nhịp Tim Trái Đất"]
 date: 2026-04-08
 tags: [science-tech, earth-frequency, consciousness]
@@ -12,7 +13,6 @@ related:
   - "[[Bão Từ Bắc Cực vs Bão Mặt Trời]]"
   - "[[MOC - Science Revisionism]]"
 ---
-
 # Tần Số Schumann (Schumann Resonance)
 
 **Tần Số Schumann là các đỉnh cộng hưởng điện từ cực thấp (ELF) hình thành trong khoang giữa bề mặt Trái Đất và tầng điện ly. Ở tầng khoa học, đây là hiện tượng vật lý khí quyển. Ở tầng vault, nó là cửa để đọc Trái Đất như một cơ thể điện-từ sống, nơi con người không tách khỏi nhịp của hành tinh.**

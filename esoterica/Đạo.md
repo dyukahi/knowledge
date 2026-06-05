@@ -1,5 +1,6 @@
 ---
 title: "Đạo"
+description: "Trong redpill.wiki, Đạo là cách đọc phương Đông cho cùng một tầng mà các bài khác gọi là Sự Nhất Thể, Source, field, hoặc nền Một phía sau mọi phân mảnh."
 aliases: ["Dao", "Tao", "The Way", "Đạo Gia"]
 date: 2026-05-30
 tags: [esoterica, consciousness, philosophy, non-duality]
@@ -12,7 +13,6 @@ related:
   - "[[Ma Trận]]"
   - "[[Tâm Lý Học Jung]]"
 ---
-
 # Đạo
 
 **Đạo không phải một giáo điều để tin. Đạo là dòng vận hành tự nhiên phía sau mọi hình tướng: trước tên gọi, trước hệ thống, trước đúng-sai, trước cả người đang cố hiểu nó.**

@@ -1,5 +1,6 @@
 ---
 title: "UBI Conditioning - The End of Work Ethic"
+description: "Work ethic không tự nhiên mà chết. Nó chết khi phương trình cũ không còn thuyết phục. Một thế hệ từng được hứa rằng chăm chỉ sẽ dẫn tới nhà, gia đình"
 aliases: ["UBI", "Universal Basic Income", "Work Ethic", "Quiet Quitting", "Dependency Rails"]
 date: 2026-06-04
 tags: [mental-model, psychology, generation, agenda-2030, economics]
@@ -11,7 +12,6 @@ related:
   - "[[Tiền Pháp Định]]"
   - "[[MOC - Financial Sovereignty]]"
 ---
-
 # UBI Conditioning - The End of Work Ethic
 
 **UBI không chỉ là câu hỏi kinh tế “ai trả tiền?”. Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**

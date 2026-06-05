@@ -1,5 +1,6 @@
 ---
 title: "Individuation"
+description: "Trong redpill.wiki, Individuation là cầu nối giữa psychology và spirituality."
 aliases: ["Self-Actualization", "Individuation (Thành Toàn Bản Ngã)", "Thành Toàn Bản Ngã"]
 date: 2026-04-12
 tags: [mental-model, jung, consciousness]
@@ -13,7 +14,6 @@ related:
   - "[[Ma Trận]]"
   - "[[Nhị Nguyên]]"
 ---
-
 # Individuation (Thành Toàn Bản Ngã)
 
 **Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là bước tâm lý trước khi [[Gnosis]] có thể đứng vững.**

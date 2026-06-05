@@ -1,3 +1,9 @@
+---
+title: "Loosh — Năng Lượng Thu Hoạch Từ Con Người"
+description: "Loosh — Năng Lượng Thu Hoạch Từ Con Người: title: 'Loosh Năng Lượng Thu Hoạch Từ Con Người'"
+date: 2026-06-05
+status: seed
+---
 ﻿---
 title: "Loosh - Năng Lượng Thu Hoạch Từ Con Người"
 aliases: ["Loosh", "Energy Harvesting", "Thu Hoạch Năng Lượng"]
@@ -77,7 +83,7 @@ flowchart TD
         AR["Archons<br/>Kẻ cai quản"]
         H["Humans<br/>Con người"]
     end
-    
+
     S --> A
     D -.->|"fallen from"| A
     D --> AR
@@ -118,7 +124,7 @@ flowchart TD
         T5["Xung đột | Conflict"]
         T6["Porn / Lust"]
     end
-    
+
     subgraph "CẢM XÚC | EMOTIONS"
         E1["Sợ hãi | Fear"]
         E2["Đau khổ | Suffering"]
@@ -127,12 +133,12 @@ flowchart TD
         E5["Xấu hổ | Shame"]
         E6["Thèm khát | Craving"]
     end
-    
+
     subgraph "THU HOẠCH | HARVEST"
         L["LOOSH"]
         C["Collectors / Archons"]
     end
-    
+
     T1 & T2 & T3 & T4 & T5 & T6 --> E1 & E2 & E3 & E4 & E5 & E6
     E1 & E2 & E3 & E4 & E5 & E6 --> L
     L --> C
@@ -162,7 +168,7 @@ flowchart LR
     E["Loosh emission<br/>Phát xạ loosh"]
     F["Crash/Emptiness<br/>Sụp đổ/Trống rỗng"]
     G["Craving for more<br/>Khao khát thêm"]
-    
+
     A --> B --> C --> D --> E --> F --> G
     G --> A
 ```
@@ -207,7 +213,7 @@ flowchart TD
     H["Harvest<br/>Thu hoạch"]
     W["Tunnel of Light<br/>Ánh sáng cuối đường hầm"]
     M["Memory wipe<br/>Xóa ký ức"]
-    
+
     B --> L --> D --> H --> W --> M --> B
 ```
 
@@ -256,9 +262,9 @@ flowchart TD
         M["Mid-level entities<br/>Thực thể trung cấp"]
         L["Larvae / Thought-forms<br/>Ấu trùng / Hình tư tưởng"]
     end
-    
+
     H["Humans<br/>Con người"]
-    
+
     A -->|"command"| M
     M -->|"command"| L
     L -->|"attach to"| H
@@ -314,11 +320,11 @@ flowchart LR
     subgraph "Low Frequency"
         LF["Fear, anger, lust, grief"]
     end
-    
-    subgraph "High Frequency"  
+
+    subgraph "High Frequency"
         HF["Love, joy, peace, bliss"]
     end
-    
+
     LF -->|"easily harvested"| C["Collectors"]
     HF -.->|"repels"| C
 ```
