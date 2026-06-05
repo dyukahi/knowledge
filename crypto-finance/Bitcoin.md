@@ -1,5 +1,7 @@
 ---
 title: "Bitcoin"
+description: "Bitcoin as financial sovereignty infrastructure: decentralization, custody, privacy, fiat exit, and the discipline required to hold value outside permission rails."
+aliases: ["BTC", "Bitcoin sovereignty", "Digital hard money"]
 date: 2026-04-07
 tags: [crypto-finance]
 status: refined
@@ -9,6 +11,7 @@ related:
   - "[[Tiền Giấy - Tiền Mặt]]"
   - "[[Gen Z và CBDC - Programmable Money Psychology]]"
   - "[[Chainlink - Mắt Xích Của Tokenized World]]"
+
 ---
 # Bitcoin
 

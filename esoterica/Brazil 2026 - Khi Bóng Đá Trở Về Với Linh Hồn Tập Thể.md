@@ -1,27 +1,18 @@
-﻿---
-title: "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể"
-aliases:
-  - Brazil 2026
-  - World Cup 26 Pattern Reading
-  - World Cup 2026 Symbolic Reading
-  - Return of Football Soul
-  - World Cup 2026 Brazil Symbolism
-  - Joga Bonito 2026
-  - Collective Field Myth
-  - Truth Hidden In Plain Sight World Cup
-date: 2026-06-04
-tags: [esoterica, predictive-programming, symbolism, media, football, world-cup, collective-unconscious]
+---
+title: "Walter Russell"
+description: "Brazil 2026 Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể Nếu World Cup 2022 là nghi lễ hoàn tất myth cá nhân của Messi, World Cup 2026 có vẻ đang được dựng như một nghi"
+aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+date: 2026-04-08
+tags: [science-tech]
 status: refined
 related:
-  - "[[Karma Disclosure - Truth Hidden In Plain Sight]]"
-  - "[[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]"
-  - "[[Vô Thức Tập Thể]]"
-  - "[[Hollywood - Cây Đũa Phép Của Phù Thủy]]"
-  - "[[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]"
-  - "[[Gematria]]"
-  - "[[MOC - Epistemology & Propaganda]]"
+  - "[[MOC - Science Revisionism]]"
+  - "[[Khoa Học Xét Lại]]"
+  - "[[Nikola Tesla]]"
+  - "[[Năng Lượng Aether]]"
+  - "[[Sự Nhất Thể]]"
+  - "[[Monad]]"
 ---
-
 # Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể
 
 **Nếu World Cup 2022 là nghi lễ hoàn tất myth cá nhân của Messi, World Cup 2026 có vẻ đang được dựng như một nghi lễ tập thể: ba quốc gia, bốn mươi tám đội, ba làn sóng, nhiều thành phố, nhiều poster, nhiều concert, nhiều creator và một field truyền thông phân tán. Trong field đó, Brazil nổi lên không phải như một đội được “dự đoán chắc thắng”, mà như biểu tượng của thứ bóng đá đang đòi trở về với thân thể, nhịp điệu, đường phố và linh hồn tập thể.**

@@ -11,7 +11,7 @@
       "politics-conspiracy": 26,
       "science-tech": 17
     },
-    "tags": 198,
+    "tags": 183,
     "wikilinkEdges": 2060,
     "brokenLinks": 0,
     "orphans": 4
@@ -91,7 +91,11 @@
         "tags": [
           "crypto-finance"
         ],
-        "aliases": [],
+        "aliases": [
+          "Bitcoin sovereignty",
+          "BTC",
+          "Digital hard money"
+        ],
         "headings": [
           "Bitcoin",
           "Vault Position / Vị Trí Trong Map",
@@ -2563,7 +2567,11 @@
           "crystal-technology",
           "esoterica"
         ],
-        "aliases": [],
+        "aliases": [
+          "Atlantean myth",
+          "Atlantis civilization",
+          "Lost civilization"
+        ],
         "headings": [
           "Atlantis — Nền Văn Minh Bị Xóa Sổ",
           "Nguồn Gốc — Ai Kể Câu Chuyện Này?",
@@ -2834,21 +2842,85 @@
         "summary": "**Năng lượng tình dục là sinh lực sáng tạo ở tầng thô nhất và mạnh nhất: nó có thể sinh ra một cơ thể, phá nát một đời người, hoặc được chuyển hóa thành ý chí, nghệ thuật, trí tuệ và hiện diện.**"
       },
       {
-        "path": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "title": "Avatar — Disclosure Của Eywa & Gaia",
+        "path": "esoterica/Long Mạch.md",
+        "title": "Long Mạch (Dragon Veins)",
         "domain": "esoterica",
         "tags": [
-          "consciousness",
-          "disclosure",
-          "esoterica",
-          "film-analysis",
-          "gaia"
+          "esoterica"
+        ],
+        "aliases": [],
+        "headings": [
+          "Long Mạch (Dragon Veins)",
+          "Khái Niệm Cơ Bản / Basic Concepts",
+          "Trái Đất = Sinh Vật Sống / Earth = Living Organism",
+          "Biểu Tượng Rồng / Dragon Symbolism",
+          "Ley Lines (Phương Tây) / Ley Lines (Western)",
+          "Định Nghĩa / Definition",
+          "Ví Dụ / Examples",
+          "Phong Thủy và Long Mạch / Feng Shui and Dragon Veins",
+          "Chọn Địa Điểm / Site Selection",
+          "Ví Dụ Hồng Kông / Hong Kong Example",
+          "Dầu Mỏ = Máu Rồng? / Oil = Dragon's Blood?",
+          "Góc Nhìn Thay Thế / Alternative View",
+          "Hậu Quả / Consequences",
+          "Thiên Tai và Long Mạch / Natural Disasters and Dragon Veins",
+          "Hoạt Động Con Người Gây Xáo Trộn / Human Activities That Disrupt",
+          "Phản Ứng Của Trái Đất / Earth's Response",
+          "Ứng Dụng Thực Tiễn / Practical Implications",
+          "Cá Nhân / Personal",
+          "Tập Thể / Collective",
+          "Evidence Discipline / Cách Đọc",
+          "Map Position / Vị Trí Trong Vault",
+          "Related"
+        ],
+        "wikilinks": [
+          "Bản Đồ Năng Lượng Đất Mẹ",
+          "Gaia - Trái Đất Có Ý Thức",
+          "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
+          "Monad",
+          "Nikola Tesla",
+          "Năng Lượng Aether",
+          "Tần Số Schumann"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "esoterica/Monad.md",
+          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Năng Lượng Aether.md",
+          "science-tech/Tần Số Schumann.md"
+        ],
+        "backlinks": [
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
+          "esoterica/index.md",
+          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+          "esoterica/Núi Tu Di.md",
+          "esoterica/Phong Thủy.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Thành Cổ Loa.md",
+          "esoterica/Tứ Linh.md",
+          "index.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "MOC - Esoterica & Consciousness.md",
+          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+          "science-tech/Năng Lượng Aether.md",
+          "science-tech/Tần Số Schumann.md"
+        ],
+        "words": 942,
+        "summary": "**Long Mạch** là hệ thống các dòng năng lượng (sinh khí/chi) chảy trong lòng Trái Đất, tương tự kinh mạch trong cơ thể người. Feng shui gọi là \"dragon veins\", Western gọi là \"ley lines\"."
+      },
+      {
+        "path": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "title": "Walter Russell",
+        "domain": "esoterica",
+        "tags": [
+          "science-tech"
         ],
         "aliases": [
-          "Avatar Analysis",
-          "Eywa Disclosure",
-          "James Cameron Avatar",
-          "Pandora"
+          "Walter Russell (Hiền Triết Hiện Đại)"
         ],
         "headings": [
           "Avatar — Disclosure Của Eywa & Gaia",
@@ -2995,89 +3067,14 @@
         "summary": "**Avatar** (2009, 2022, 2025) của James Cameron không chỉ là blockbuster sci-fi. Đây là **disclosure** — trình bày công khai các khái niệm esoteric dưới vỏ bọc \"entertainment\"."
       },
       {
-        "path": "esoterica/Long Mạch.md",
-        "title": "Long Mạch (Dragon Veins)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [],
-        "headings": [
-          "Long Mạch (Dragon Veins)",
-          "Khái Niệm Cơ Bản / Basic Concepts",
-          "Trái Đất = Sinh Vật Sống / Earth = Living Organism",
-          "Biểu Tượng Rồng / Dragon Symbolism",
-          "Ley Lines (Phương Tây) / Ley Lines (Western)",
-          "Định Nghĩa / Definition",
-          "Ví Dụ / Examples",
-          "Phong Thủy và Long Mạch / Feng Shui and Dragon Veins",
-          "Chọn Địa Điểm / Site Selection",
-          "Ví Dụ Hồng Kông / Hong Kong Example",
-          "Dầu Mỏ = Máu Rồng? / Oil = Dragon's Blood?",
-          "Góc Nhìn Thay Thế / Alternative View",
-          "Hậu Quả / Consequences",
-          "Thiên Tai và Long Mạch / Natural Disasters and Dragon Veins",
-          "Hoạt Động Con Người Gây Xáo Trộn / Human Activities That Disrupt",
-          "Phản Ứng Của Trái Đất / Earth's Response",
-          "Ứng Dụng Thực Tiễn / Practical Implications",
-          "Cá Nhân / Personal",
-          "Tập Thể / Collective",
-          "Evidence Discipline / Cách Đọc",
-          "Map Position / Vị Trí Trong Vault",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bản Đồ Năng Lượng Đất Mẹ",
-          "Gaia - Trái Đất Có Ý Thức",
-          "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
-          "Monad",
-          "Nikola Tesla",
-          "Năng Lượng Aether",
-          "Tần Số Schumann"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-          "esoterica/Monad.md",
-          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md",
-          "science-tech/Tần Số Schumann.md"
-        ],
-        "backlinks": [
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-          "esoterica/index.md",
-          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-          "esoterica/Núi Tu Di.md",
-          "esoterica/Phong Thủy.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Thành Cổ Loa.md",
-          "esoterica/Tứ Linh.md",
-          "index.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "MOC - Esoterica & Consciousness.md",
-          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-          "science-tech/Năng Lượng Aether.md",
-          "science-tech/Tần Số Schumann.md"
-        ],
-        "words": 942,
-        "summary": "**Long Mạch** là hệ thống các dòng năng lượng (sinh khí/chi) chảy trong lòng Trái Đất, tương tự kinh mạch trong cơ thể người. Feng shui gọi là \"dragon veins\", Western gọi là \"ley lines\"."
-      },
-      {
         "path": "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "title": "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
+        "title": "Walter Russell",
         "domain": "esoterica",
         "tags": [
-          "ancient-civilizations",
-          "esoterica",
-          "revisionist-science"
+          "science-tech"
         ],
         "aliases": [
-          "Darwin Debunked",
-          "Forbidden Archaeology",
-          "Hidden Civilizations"
+          "Walter Russell (Hiền Triết Hiện Đại)"
         ],
         "headings": [
           "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
@@ -3391,19 +3388,78 @@
         "summary": "**\"Vũ trụ được viết bằng ngôn ngữ toán học.\"**"
       },
       {
-        "path": "esoterica/Một Đời Phù Vân.md",
-        "title": "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu",
+        "path": "esoterica/S.E.X.md",
+        "title": "S.E.X (Sacred Energy eXchange)",
         "domain": "esoterica",
         "tags": [
-          "buddhism",
-          "esoterica",
-          "impermanence",
-          "wisdom"
+          "esoterica"
         ],
         "aliases": [
-          "A Life Like Floating Clouds",
-          "Impermanence Story",
-          "Phù Vân"
+          "Sacred Energy eXchange",
+          "Trao Đổi Năng Lượng Thiêng Liêng"
+        ],
+        "headings": [
+          "S.E.X (Sacred Energy eXchange)",
+          "Vault Position",
+          "Evidence Discipline / Cách Đọc",
+          "Sex Là Trao Đổi",
+          "Tinh Khí Thần",
+          "Porn Và Ma Trận Dục Vọng",
+          "Microchimerism Và Dấu Vết Thân Thể",
+          "Chimera Và Sự Pha Trộn",
+          "Sacred Exchange",
+          "Alchemy Của Union",
+          "Chốt Lại",
+          "Related / Liên quan"
+        ],
+        "wikilinks": [
+          "Chimera",
+          "Nhị Nguyên",
+          "Năng Lượng Tình Dục",
+          "Quy Luật Trao Đổi Tâm Linh",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tinh Khí Thần",
+          "Tâm Lý Học Jung",
+          "Tình Yêu Tỉnh Thức"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Chimera.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Tinh Khí Thần.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Chimera.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Tinh Khí Thần.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "index.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "words": 1261,
+        "summary": "**S.E.X** trong cách đọc esoteric là **Sacred Energy eXchange**: trao đổi năng lượng thiêng liêng. Điều này không phủ định sinh học, khoái cảm hay tâm lý. Nó đặt tình dục vào đúng độ sâu: một hành động nơi thân thể, hệ thần kinh, ký ức, hormone, vô thức, nghi…"
+      },
+      {
+        "path": "esoterica/Một Đời Phù Vân.md",
+        "title": "Walter Russell",
+        "domain": "esoterica",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [
+          "Walter Russell (Hiền Triết Hiện Đại)"
         ],
         "headings": [
           "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu",
@@ -3504,70 +3560,6 @@
         "summary": "*A Life Like Floating Clouds — The Story of an Ordinary Man*"
       },
       {
-        "path": "esoterica/S.E.X.md",
-        "title": "S.E.X (Sacred Energy eXchange)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Sacred Energy eXchange",
-          "Trao Đổi Năng Lượng Thiêng Liêng"
-        ],
-        "headings": [
-          "S.E.X (Sacred Energy eXchange)",
-          "Vault Position",
-          "Evidence Discipline / Cách Đọc",
-          "Sex Là Trao Đổi",
-          "Tinh Khí Thần",
-          "Porn Và Ma Trận Dục Vọng",
-          "Microchimerism Và Dấu Vết Thân Thể",
-          "Chimera Và Sự Pha Trộn",
-          "Sacred Exchange",
-          "Alchemy Của Union",
-          "Chốt Lại",
-          "Related / Liên quan"
-        ],
-        "wikilinks": [
-          "Chimera",
-          "Nhị Nguyên",
-          "Năng Lượng Tình Dục",
-          "Quy Luật Trao Đổi Tâm Linh",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tinh Khí Thần",
-          "Tâm Lý Học Jung",
-          "Tình Yêu Tỉnh Thức"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Chimera.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Tinh Khí Thần.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Chakra.md",
-          "esoterica/Chimera.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Tinh Khí Thần.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "index.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 1261,
-        "summary": "**S.E.X** trong cách đọc esoteric là **Sacred Energy eXchange**: trao đổi năng lượng thiêng liêng. Điều này không phủ định sinh học, khoái cảm hay tâm lý. Nó đặt tình dục vào đúng độ sâu: một hành động nơi thân thể, hệ thần kinh, ký ức, hormone, vô thức, nghi…"
-      },
-      {
         "path": "esoterica/Kundalini.md",
         "title": "Kundalini",
         "domain": "esoterica",
@@ -3633,74 +3625,6 @@
         ],
         "words": 1186,
         "summary": "**Kundalini là ngôn ngữ cổ để nói về sinh lực nguyên thủy khi nó không chỉ phục vụ sinh tồn và tình dục, mà được chuyển hóa thành ý thức, trực giác và hiện diện.** Trong vault, Kundalini là cầu nối giữa Chakra, Năng Lượng Tình Dục, Tinh Khí Thần, Tuyến Tùng v…"
-      },
-      {
-        "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-        "title": "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
-        "domain": "esoterica",
-        "tags": [
-          "buddhist",
-          "cosmology",
-          "cycles",
-          "esoterica",
-          "hindu"
-        ],
-        "aliases": [
-          "Cosmic Cycles",
-          "Kali Yuga",
-          "Kalpas",
-          "Kiếp",
-          "Mahayuga",
-          "Yugas"
-        ],
-        "headings": [
-          "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
-          "Tại Sao Điều Này Quan Trọng?",
-          "Hindu Yugas - Bốn Thời Đại Suy Thoái",
-          "Buddhist Kalpas - Kiếp Và Sự Vô Tận",
-          "Điểm Chung Giữa Hai Truyền Thống",
-          "Giants và Kiến Trúc - Bằng Chứng Vật Lý",
-          "Connections - Atlantis, Resets, và Loosh",
-          "Tương Lai - Chúng Ta Đang Ở Đâu?",
-          "Bài Học Từ Chu Kỳ",
-          "Related"
-        ],
-        "wikilinks": [
-          "Annunaki",
-          "Atlantis",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
-          "Mudflood",
-          "Tartaria",
-          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
-          "Vũ Trụ Học Phật Giáo",
-          "Vận Chín"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Annunaki.md",
-          "esoterica/Atlantis.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "esoterica/Vận Chín.md",
-          "politics-conspiracy/Mudflood.md"
-        ],
-        "backlinks": [
-          "esoterica/Chu Kỳ Hoàng Đạo.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "words": 4304,
-        "summary": "Khoa học hiện đại dạy rằng lịch sử là một đường thẳng tiến lên: từ vi khuẩn đến cá, từ cá đến vượn, từ vượn đến người, từ hang động đến smartphone. Mỗi thế hệ \"tiến bộ\" hơn thế hệ trước. Chúng ta đang ở đỉnh cao của văn minh."
       },
       {
         "path": "esoterica/Gaia - Trái Đất Có Ý Thức.md",
@@ -3846,6 +3770,65 @@
         "summary": "**Tình Yêu Tỉnh Thức** không phải cảm xúc lãng mạn được làm đẹp bằng ngôn ngữ tâm linh. Nó là năng lực yêu mà không chiếm hữu, thấy rõ mà không lạnh lùng, bao dung mà không tự phản bội. Trong vault này, tình yêu tỉnh thức nối Nhân Quả, Nhị Nguyên, Trí Tuệ, In…"
       },
       {
+        "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "title": "Walter Russell",
+        "domain": "esoterica",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [
+          "Walter Russell (Hiền Triết Hiện Đại)"
+        ],
+        "headings": [
+          "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
+          "Tại Sao Điều Này Quan Trọng?",
+          "Hindu Yugas - Bốn Thời Đại Suy Thoái",
+          "Buddhist Kalpas - Kiếp Và Sự Vô Tận",
+          "Điểm Chung Giữa Hai Truyền Thống",
+          "Giants và Kiến Trúc - Bằng Chứng Vật Lý",
+          "Connections - Atlantis, Resets, và Loosh",
+          "Tương Lai - Chúng Ta Đang Ở Đâu?",
+          "Bài Học Từ Chu Kỳ",
+          "Related"
+        ],
+        "wikilinks": [
+          "Annunaki",
+          "Atlantis",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
+          "Mudflood",
+          "Tartaria",
+          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
+          "Vũ Trụ Học Phật Giáo",
+          "Vận Chín"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Annunaki.md",
+          "esoterica/Atlantis.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "esoterica/Vận Chín.md",
+          "politics-conspiracy/Mudflood.md"
+        ],
+        "backlinks": [
+          "esoterica/Chu Kỳ Hoàng Đạo.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "index.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "words": 4304,
+        "summary": "Khoa học hiện đại dạy rằng lịch sử là một đường thẳng tiến lên: từ vi khuẩn đến cá, từ cá đến vượn, từ vượn đến người, từ hang động đến smartphone. Mỗi thế hệ \"tiến bộ\" hơn thế hệ trước. Chúng ta đang ở đỉnh cao của văn minh."
+      },
+      {
         "path": "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "title": "Word Magic - Ngôn Ngữ Của Phù Thủy",
         "domain": "esoterica",
@@ -3853,7 +3836,11 @@
           "esoterica",
           "mind-control"
         ],
-        "aliases": [],
+        "aliases": [
+          "Language Magic",
+          "Ng?n ng? ph? th?y",
+          "Word Magic"
+        ],
         "headings": [
           "Word Magic — Ngôn Ngữ Của Phù Thủy",
           "I. Spelling Is Casting Spells",
@@ -4589,85 +4576,6 @@
         "summary": "**Vận Chín là khung Phong thủy đọc giai đoạn 2024-2044 như thời kỳ Hỏa: ánh sáng, tốc độ, hình ảnh, phơi bày, tim-mắt-máu, reputation và cuộc chiến giữa thật với giả.** Trong vault, Vận Chín không được dùng để \"dự đoán chắc chắn\", mà như một lens đọc nhịp biế…"
       },
       {
-        "path": "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-        "title": "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
-        "domain": "esoterica",
-        "tags": [
-          "collective-unconscious",
-          "esoterica",
-          "football",
-          "media",
-          "predictive-programming",
-          "symbolism",
-          "world-cup"
-        ],
-        "aliases": [
-          "Brazil 2026",
-          "Collective Field Myth",
-          "Joga Bonito 2026",
-          "Return of Football Soul",
-          "Truth Hidden In Plain Sight World Cup",
-          "World Cup 2026 Brazil Symbolism",
-          "World Cup 2026 Symbolic Reading",
-          "World Cup 26 Pattern Reading"
-        ],
-        "headings": [
-          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Cách Đọc Bài Này",
-          "Pattern Reading Không Phải Đoán Mò",
-          "Hai Case Calibration: Argentina 2022 Và Spain Euro 2024",
-          "Từ Khóa Cần Hiểu",
-          "Calibration Bằng Dữ Liệu: Myth Không Được Bay Khỏi Sân Cỏ",
-          "Brazil 2026 Watchlist: Dữ Liệu Nào Sẽ Xác Nhận Hoặc Phá Thesis?",
-          "Pre-Tournament Snapshot — 4/6/2026",
-          "World Cup 26 Là Gì Nếu Không Phải Một Hero Stage?",
-          "WE ARE 26 Và Sự Tan Của Một Trung Tâm Duy Nhất",
-          "26, 8 Và Back-To-Back Loop",
-          "TRIONDA: Ba Làn Sóng Và Một Tournament Không Có Một Mũi Nhọn",
-          "Gematria Nhẹ: Khi Số Không Chứng Minh, Nhưng Tạo Texture",
-          "Brazil Không Cần Neymar Để Là Brazil",
-          "Vinícius, Endrick, Rodrygo Và Cái Bẫy Của Một Gương Mặt Mới",
-          "IShowSpeed, Brazil Flag Và Creator-Culture Omen",
-          "Spain Và England: Data Pick Không Phải Myth Pick",
-          "Khi Một Nhà Vô Địch Không Cần Được Nhớ Bằng Một Gương Mặt",
-          "Hint Không Nhất Thiết Là Script",
-          "Synthesis: World Cup 26, Brazil Và Kỷ Luật Đọc Pattern",
-          "Related"
-        ],
-        "wikilinks": [
-          "Gematria",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Ma Trận",
-          "MOC - Epistemology & Propaganda",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gematria.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "MOC - Epistemology & Propaganda.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-        ],
-        "backlinks": [
-          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/index.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "index.md",
-          "MOC - Epistemology & Propaganda.md"
-        ],
-        "words": 5269,
-        "summary": "**Nếu World Cup 2022 là nghi lễ hoàn tất myth cá nhân của Messi, World Cup 2026 có vẻ đang được dựng như một nghi lễ tập thể: ba quốc gia, bốn mươi tám đội, ba làn sóng, nhiều thành phố, nhiều poster, nhiều concert, nhiều creator và một field truyền thông phâ…"
-      },
-      {
         "path": "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
         "title": "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
         "domain": "esoterica",
@@ -4843,6 +4751,72 @@
         ],
         "words": 2044,
         "summary": "Trong văn hóa hiện đại, **lover** và **soulmate** thường bị nhầm lẫn. Intense chemistry được gọi là \"soulmate connection\", trong khi true soul recognition bị bỏ qua vì thiếu drama. Bài này phân tích sự khác biệt qua lens tâm lý học và esoteric."
+      },
+      {
+        "path": "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "title": "Walter Russell",
+        "domain": "esoterica",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [
+          "Walter Russell (Hiền Triết Hiện Đại)"
+        ],
+        "headings": [
+          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc Bài Này",
+          "Pattern Reading Không Phải Đoán Mò",
+          "Hai Case Calibration: Argentina 2022 Và Spain Euro 2024",
+          "Từ Khóa Cần Hiểu",
+          "Calibration Bằng Dữ Liệu: Myth Không Được Bay Khỏi Sân Cỏ",
+          "Brazil 2026 Watchlist: Dữ Liệu Nào Sẽ Xác Nhận Hoặc Phá Thesis?",
+          "Pre-Tournament Snapshot — 4/6/2026",
+          "World Cup 26 Là Gì Nếu Không Phải Một Hero Stage?",
+          "WE ARE 26 Và Sự Tan Của Một Trung Tâm Duy Nhất",
+          "26, 8 Và Back-To-Back Loop",
+          "TRIONDA: Ba Làn Sóng Và Một Tournament Không Có Một Mũi Nhọn",
+          "Gematria Nhẹ: Khi Số Không Chứng Minh, Nhưng Tạo Texture",
+          "Brazil Không Cần Neymar Để Là Brazil",
+          "Vinícius, Endrick, Rodrygo Và Cái Bẫy Của Một Gương Mặt Mới",
+          "IShowSpeed, Brazil Flag Và Creator-Culture Omen",
+          "Spain Và England: Data Pick Không Phải Myth Pick",
+          "Khi Một Nhà Vô Địch Không Cần Được Nhớ Bằng Một Gương Mặt",
+          "Hint Không Nhất Thiết Là Script",
+          "Synthesis: World Cup 26, Brazil Và Kỷ Luật Đọc Pattern",
+          "Related"
+        ],
+        "wikilinks": [
+          "Gematria",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Ma Trận",
+          "MOC - Epistemology & Propaganda",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "MOC - Epistemology & Propaganda.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        ],
+        "backlinks": [
+          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/index.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "index.md",
+          "MOC - Epistemology & Propaganda.md"
+        ],
+        "words": 5269,
+        "summary": "**Nếu World Cup 2022 là nghi lễ hoàn tất myth cá nhân của Messi, World Cup 2026 có vẻ đang được dựng như một nghi lễ tập thể: ba quốc gia, bốn mươi tám đội, ba làn sóng, nhiều thành phố, nhiều poster, nhiều concert, nhiều creator và một field truyền thông phâ…"
       },
       {
         "path": "esoterica/Phong Thủy.md",
@@ -8385,19 +8359,13 @@
       },
       {
         "path": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "title": "Bộ Não Rỗng và AI Brain Rot",
+        "title": "Walter Russell",
         "domain": "mental-models",
         "tags": [
-          "ai",
-          "consciousness",
-          "mental-model",
-          "technology"
+          "science-tech"
         ],
         "aliases": [
-          "Agency Decay",
-          "AI Brain Rot",
-          "Cognitive Offloading",
-          "Empty Brain"
+          "Walter Russell (Hiền Triết Hiện Đại)"
         ],
         "headings": [
           "Bộ Não Rỗng và AI Brain Rot",
@@ -8500,15 +8468,13 @@
       },
       {
         "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "title": "Tâm Lý Học Tiến Hóa Về Giới Tính",
+        "title": "Walter Russell",
         "domain": "mental-models",
         "tags": [
-          "mental-models"
+          "science-tech"
         ],
         "aliases": [
-          "Evolutionary Psychology of Gender",
-          "Red Pill Psychology",
-          "Sexual Economics"
+          "Walter Russell (Hiền Triết Hiện Đại)"
         ],
         "headings": [
           "Tâm Lý Học Tiến Hóa Về Giới Tính",
@@ -9162,21 +9128,13 @@
       },
       {
         "path": "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "title": "Ai Đứng Bên Kia Giao Dịch",
+        "title": "Walter Russell",
         "domain": "mental-models",
         "tags": [
-          "crowd-psychology",
-          "crypto-finance",
-          "market-psychology",
-          "mental-model",
-          "risk-management"
+          "science-tech"
         ],
         "aliases": [
-          "Bull Bear Psychology",
-          "Câu Chuyện Bò và Gấu",
-          "Ownership Transfer",
-          "Tâm Lý Đám Đông Thị Trường",
-          "Who Is On The Other Side"
+          "Walter Russell (Hiền Triết Hiện Đại)"
         ],
         "headings": [
           "Ai Đứng Bên Kia Giao Dịch",
@@ -9773,52 +9731,6 @@
         "summary": "**Bạn không chỉ là một cá nhân tách rời đang cố sống sót trong một vũ trụ lạnh. Bạn là một điểm nhìn của toàn thể, đang học cách nhớ lại mối liên hệ đã bị che bởi thân xác, ngôn ngữ, trauma, giáo dục và Ma Trận.** Khoa học hiện đại không \"chứng minh\" toàn bộ…"
       },
       {
-        "path": "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "title": "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?",
-        "domain": "mental-models",
-        "tags": [
-          "gen-z",
-          "mental-models",
-          "rat-race",
-          "society"
-        ],
-        "aliases": [],
-        "headings": [
-          "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?",
-          "Hai Mươi Lăm Năm Đầu Đời",
-          "Nâng Cấp Vô Tận",
-          "Khi Mọi Thứ Đều Có ROI",
-          "Sợ Mất Mặt Hơn Sợ Mất Mình",
-          "Tuổi Thơ Ném Cho Trung Tâm, Tuổi Già Giao Cho Người Giúp Việc",
-          "\"Thế Hệ Dâu Tây\" — Yếu Đuối Hay Tỉnh Táo?",
-          "Thắng Cuộc Đua, Nhưng Phần Thưởng Là Gì?",
-          "Dừng Lại Được Chưa?",
-          "Một Lời Kết Nhẹ",
-          "Đọc Thêm"
-        ],
-        "wikilinks": [
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Gen Z - Phân Tích Phản Biện",
-          "Individuation",
-          "Nghịch Lý Của Hiểu Biết"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/Individuation.md"
-        ],
-        "backlinks": [
-          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-          "index.md",
-          "mental-models/index.md",
-          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md"
-        ],
-        "words": 2643,
-        "summary": "*The Strawberry Generation — Tired Already, Can We Stop Yet?*"
-      },
-      {
         "path": "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "title": "UBI Conditioning - The End of Work Ethic",
         "domain": "mental-models",
@@ -9859,6 +9771,51 @@
         ],
         "words": 798,
         "summary": "**UBI không chỉ là câu hỏi kinh tế “ai trả tiền?”. Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
+      },
+      {
+        "path": "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "title": "Walter Russell",
+        "domain": "mental-models",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [
+          "Walter Russell (Hiền Triết Hiện Đại)"
+        ],
+        "headings": [
+          "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?",
+          "Hai Mươi Lăm Năm Đầu Đời",
+          "Nâng Cấp Vô Tận",
+          "Khi Mọi Thứ Đều Có ROI",
+          "Sợ Mất Mặt Hơn Sợ Mất Mình",
+          "Tuổi Thơ Ném Cho Trung Tâm, Tuổi Già Giao Cho Người Giúp Việc",
+          "\"Thế Hệ Dâu Tây\" — Yếu Đuối Hay Tỉnh Táo?",
+          "Thắng Cuộc Đua, Nhưng Phần Thưởng Là Gì?",
+          "Dừng Lại Được Chưa?",
+          "Một Lời Kết Nhẹ",
+          "Đọc Thêm"
+        ],
+        "wikilinks": [
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Gen Z - Phân Tích Phản Biện",
+          "Individuation",
+          "Nghịch Lý Của Hiểu Biết"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/Individuation.md"
+        ],
+        "backlinks": [
+          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md"
+        ],
+        "words": 2643,
+        "summary": "*The Strawberry Generation — Tired Already, Can We Stop Yet?*"
       },
       {
         "path": "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
@@ -10390,16 +10347,14 @@
       },
       {
         "path": "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "title": "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
+        "title": "Walter Russell",
         "domain": "politics-conspiracy",
         "tags": [
-          "conspiracy",
-          "elite",
-          "mind-control",
-          "occult",
-          "predictive-programming"
+          "science-tech"
         ],
-        "aliases": [],
+        "aliases": [
+          "Walter Russell (Hiền Triết Hiện Đại)"
+        ],
         "headings": [
           "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
           "Evidence Discipline / Cách Đọc Claim",
@@ -10655,14 +10610,14 @@
       },
       {
         "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "title": "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+        "title": "Walter Russell",
         "domain": "politics-conspiracy",
         "tags": [
-          "esoterica",
-          "politics-conspiracy",
           "science-tech"
         ],
-        "aliases": [],
+        "aliases": [
+          "Walter Russell (Hiền Triết Hiện Đại)"
+        ],
         "headings": [
           "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
           "Bài Này Nằm Ở Đâu Trong Vault?",
@@ -11153,21 +11108,13 @@
       },
       {
         "path": "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-        "title": "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
+        "title": "Walter Russell",
         "domain": "politics-conspiracy",
         "tags": [
-          "esoterica",
-          "politics-conspiracy",
-          "science-tech",
-          "space",
-          "symbolism"
+          "science-tech"
         ],
         "aliases": [
-          "Death of King Elon",
-          "Elon Techno-King",
-          "Rocket Obelisk",
-          "Sky Fear",
-          "SpaceX Obelisk"
+          "Walter Russell (Hiền Triết Hiện Đại)"
         ],
         "headings": [
           "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
@@ -16997,7 +16944,11 @@
       "tags": [
         "crypto-finance"
       ],
-      "aliases": [],
+      "aliases": [
+        "Bitcoin sovereignty",
+        "BTC",
+        "Digital hard money"
+      ],
       "headings": [
         "Bitcoin",
         "Vault Position / Vị Trí Trong Map",
@@ -17989,39 +17940,35 @@
   "topTags": [
     [
       "esoterica",
-      87
+      80
     ],
     [
-      "mental-model",
-      30
-    ],
-    [
-      "consciousness",
-      29
+      "science-tech",
+      35
     ],
     [
       "health",
       29
     ],
     [
-      "science-tech",
-      25
+      "mental-model",
+      28
+    ],
+    [
+      "consciousness",
+      27
     ],
     [
       "politics-conspiracy",
-      24
+      22
     ],
     [
       "crypto-finance",
-      16
+      15
     ],
     [
       "psychology",
       13
-    ],
-    [
-      "symbolism",
-      11
     ],
     [
       "matrix",
@@ -18029,6 +17976,10 @@
     ],
     [
       "sovereignty",
+      9
+    ],
+    [
+      "symbolism",
       9
     ],
     [
@@ -18041,10 +17992,6 @@
     ],
     [
       "spirituality",
-      8
-    ],
-    [
-      "revisionist-science",
       8
     ],
     [
@@ -18068,19 +18015,15 @@
       7
     ],
     [
+      "revisionist-science",
+      7
+    ],
+    [
       "domain-gateway",
       6
     ],
     [
       "hidden-history",
-      6
-    ],
-    [
-      "occult",
-      6
-    ],
-    [
-      "conspiracy",
       6
     ],
     [
@@ -18092,11 +18035,11 @@
       5
     ],
     [
-      "predictive-programming",
+      "occult",
       5
     ],
     [
-      "mind-control",
+      "conspiracy",
       5
     ],
     [
@@ -18116,19 +18059,7 @@
       4
     ],
     [
-      "ai",
-      4
-    ],
-    [
-      "buddhism",
-      4
-    ],
-    [
-      "cycles",
-      4
-    ],
-    [
-      "cosmology",
+      "mind-control",
       4
     ],
     [
@@ -18148,7 +18079,11 @@
       4
     ],
     [
-      "risk-management",
+      "ai",
+      3
+    ],
+    [
+      "buddhism",
       3
     ],
     [
@@ -18160,11 +18095,23 @@
       3
     ],
     [
+      "cycles",
+      3
+    ],
+    [
+      "predictive-programming",
+      3
+    ],
+    [
       "history",
       3
     ],
     [
       "tartaria",
+      3
+    ],
+    [
+      "cosmology",
       3
     ],
     [
@@ -18188,10 +18135,6 @@
       3
     ],
     [
-      "elite",
-      3
-    ],
-    [
       "bitcoin",
       2
     ],
@@ -18204,15 +18147,7 @@
       2
     ],
     [
-      "disclosure",
-      2
-    ],
-    [
-      "collective-unconscious",
-      2
-    ],
-    [
-      "media",
+      "risk-management",
       2
     ],
     [
@@ -18240,15 +18175,7 @@
       2
     ],
     [
-      "market-psychology",
-      2
-    ],
-    [
-      "society",
-      2
-    ],
-    [
-      "mental-models",
+      "elite",
       2
     ],
     [
@@ -18284,22 +18211,6 @@
       1
     ],
     [
-      "film-analysis",
-      1
-    ],
-    [
-      "gaia",
-      1
-    ],
-    [
-      "football",
-      1
-    ],
-    [
-      "world-cup",
-      1
-    ],
-    [
       "earth-energy",
       1
     ],
@@ -18309,14 +18220,6 @@
     ],
     [
       "astrology",
-      1
-    ],
-    [
-      "buddhist",
-      1
-    ],
-    [
-      "hindu",
       1
     ],
     [
@@ -18356,14 +18259,6 @@
       1
     ],
     [
-      "impermanence",
-      1
-    ],
-    [
-      "wisdom",
-      1
-    ],
-    [
       "ancient-history",
       1
     ],
@@ -18385,6 +18280,62 @@
     ],
     [
       "transmutation",
+      1
+    ],
+    [
+      "geomancy",
+      1
+    ],
+    [
+      "hollywood",
+      1
+    ],
+    [
+      "discernment",
+      1
+    ],
+    [
+      "relationships",
+      1
+    ],
+    [
+      "soul",
+      1
+    ],
+    [
+      "collective-unconscious",
+      1
+    ],
+    [
+      "media",
+      1
+    ],
+    [
+      "ritual",
+      1
+    ],
+    [
+      "buddhist-cosmology",
+      1
+    ],
+    [
+      "great-wall",
+      1
+    ],
+    [
+      "mount-meru",
+      1
+    ],
+    [
+      "taoism",
+      1
+    ],
+    [
+      "jesus",
+      1
+    ],
+    [
+      "meaning",
       1
     ]
   ],
@@ -19540,7 +19491,11 @@
       "tags": [
         "crypto-finance"
       ],
-      "aliases": [],
+      "aliases": [
+        "Bitcoin sovereignty",
+        "BTC",
+        "Digital hard money"
+      ],
       "headings": [
         "Bitcoin",
         "Vault Position / Vị Trí Trong Map",
@@ -20504,7 +20459,11 @@
         "crystal-technology",
         "esoterica"
       ],
-      "aliases": [],
+      "aliases": [
+        "Atlantean myth",
+        "Atlantis civilization",
+        "Lost civilization"
+      ],
       "headings": [
         "Atlantis — Nền Văn Minh Bị Xóa Sổ",
         "Nguồn Gốc — Ai Kể Câu Chuyện Này?",
@@ -20632,20 +20591,13 @@
     },
     "esoterica/Avatar - Disclosure Của Eywa & Gaia.md": {
       "path": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-      "title": "Avatar — Disclosure Của Eywa & Gaia",
+      "title": "Walter Russell",
       "domain": "esoterica",
       "tags": [
-        "consciousness",
-        "disclosure",
-        "esoterica",
-        "film-analysis",
-        "gaia"
+        "science-tech"
       ],
       "aliases": [
-        "Avatar Analysis",
-        "Eywa Disclosure",
-        "James Cameron Avatar",
-        "Pandora"
+        "Walter Russell (Hiền Triết Hiện Đại)"
       ],
       "headings": [
         "Avatar — Disclosure Của Eywa & Gaia",
@@ -20849,26 +20801,13 @@
     },
     "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md": {
       "path": "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-      "title": "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+      "title": "Walter Russell",
       "domain": "esoterica",
       "tags": [
-        "collective-unconscious",
-        "esoterica",
-        "football",
-        "media",
-        "predictive-programming",
-        "symbolism",
-        "world-cup"
+        "science-tech"
       ],
       "aliases": [
-        "Brazil 2026",
-        "Collective Field Myth",
-        "Joga Bonito 2026",
-        "Return of Football Soul",
-        "Truth Hidden In Plain Sight World Cup",
-        "World Cup 2026 Brazil Symbolism",
-        "World Cup 2026 Symbolic Reading",
-        "World Cup 26 Pattern Reading"
+        "Walter Russell (Hiền Triết Hiện Đại)"
       ],
       "headings": [
         "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
@@ -21225,22 +21164,13 @@
     },
     "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md": {
       "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-      "title": "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
+      "title": "Walter Russell",
       "domain": "esoterica",
       "tags": [
-        "buddhist",
-        "cosmology",
-        "cycles",
-        "esoterica",
-        "hindu"
+        "science-tech"
       ],
       "aliases": [
-        "Cosmic Cycles",
-        "Kali Yuga",
-        "Kalpas",
-        "Kiếp",
-        "Mahayuga",
-        "Yugas"
+        "Walter Russell (Hiền Triết Hiện Đại)"
       ],
       "headings": [
         "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
@@ -23055,18 +22985,13 @@
     },
     "esoterica/Một Đời Phù Vân.md": {
       "path": "esoterica/Một Đời Phù Vân.md",
-      "title": "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu",
+      "title": "Walter Russell",
       "domain": "esoterica",
       "tags": [
-        "buddhism",
-        "esoterica",
-        "impermanence",
-        "wisdom"
+        "science-tech"
       ],
       "aliases": [
-        "A Life Like Floating Clouds",
-        "Impermanence Story",
-        "Phù Vân"
+        "Walter Russell (Hiền Triết Hiện Đại)"
       ],
       "headings": [
         "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu",
@@ -24571,17 +24496,13 @@
     },
     "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md": {
       "path": "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-      "title": "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
+      "title": "Walter Russell",
       "domain": "esoterica",
       "tags": [
-        "ancient-civilizations",
-        "esoterica",
-        "revisionist-science"
+        "science-tech"
       ],
       "aliases": [
-        "Darwin Debunked",
-        "Forbidden Archaeology",
-        "Hidden Civilizations"
+        "Walter Russell (Hiền Triết Hiện Đại)"
       ],
       "headings": [
         "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
@@ -25391,7 +25312,11 @@
         "esoterica",
         "mind-control"
       ],
-      "aliases": [],
+      "aliases": [
+        "Language Magic",
+        "Ng?n ng? ph? th?y",
+        "Word Magic"
+      ],
       "headings": [
         "Word Magic — Ngôn Ngữ Của Phù Thủy",
         "I. Spelling Is Casting Spells",
@@ -27635,21 +27560,13 @@
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
       "path": "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-      "title": "Ai Đứng Bên Kia Giao Dịch",
+      "title": "Walter Russell",
       "domain": "mental-models",
       "tags": [
-        "crowd-psychology",
-        "crypto-finance",
-        "market-psychology",
-        "mental-model",
-        "risk-management"
+        "science-tech"
       ],
       "aliases": [
-        "Bull Bear Psychology",
-        "Câu Chuyện Bò và Gấu",
-        "Ownership Transfer",
-        "Tâm Lý Đám Đông Thị Trường",
-        "Who Is On The Other Side"
+        "Walter Russell (Hiền Triết Hiện Đại)"
       ],
       "headings": [
         "Ai Đứng Bên Kia Giao Dịch",
@@ -27703,19 +27620,13 @@
     },
     "mental-models/Bộ Não Rỗng và AI Brain Rot.md": {
       "path": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-      "title": "Bộ Não Rỗng và AI Brain Rot",
+      "title": "Walter Russell",
       "domain": "mental-models",
       "tags": [
-        "ai",
-        "consciousness",
-        "mental-model",
-        "technology"
+        "science-tech"
       ],
       "aliases": [
-        "Agency Decay",
-        "AI Brain Rot",
-        "Cognitive Offloading",
-        "Empty Brain"
+        "Walter Russell (Hiền Triết Hiện Đại)"
       ],
       "headings": [
         "Bộ Não Rỗng và AI Brain Rot",
@@ -28941,15 +28852,14 @@
     },
     "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md": {
       "path": "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-      "title": "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?",
+      "title": "Walter Russell",
       "domain": "mental-models",
       "tags": [
-        "gen-z",
-        "mental-models",
-        "rat-race",
-        "society"
+        "science-tech"
       ],
-      "aliases": [],
+      "aliases": [
+        "Walter Russell (Hiền Triết Hiện Đại)"
+      ],
       "headings": [
         "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?",
         "Hai Mươi Lăm Năm Đầu Đời",
@@ -29126,15 +29036,13 @@
     },
     "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md": {
       "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-      "title": "Tâm Lý Học Tiến Hóa Về Giới Tính",
+      "title": "Walter Russell",
       "domain": "mental-models",
       "tags": [
-        "mental-models"
+        "science-tech"
       ],
       "aliases": [
-        "Evolutionary Psychology of Gender",
-        "Red Pill Psychology",
-        "Sexual Economics"
+        "Walter Russell (Hiền Triết Hiện Đại)"
       ],
       "headings": [
         "Tâm Lý Học Tiến Hóa Về Giới Tính",
@@ -29600,14 +29508,14 @@
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
       "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-      "title": "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+      "title": "Walter Russell",
       "domain": "politics-conspiracy",
       "tags": [
-        "esoterica",
-        "politics-conspiracy",
         "science-tech"
       ],
-      "aliases": [],
+      "aliases": [
+        "Walter Russell (Hiền Triết Hiện Đại)"
+      ],
       "headings": [
         "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
         "Bài Này Nằm Ở Đâu Trong Vault?",
@@ -29814,16 +29722,14 @@
     },
     "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md": {
       "path": "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-      "title": "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
+      "title": "Walter Russell",
       "domain": "politics-conspiracy",
       "tags": [
-        "conspiracy",
-        "elite",
-        "mind-control",
-        "occult",
-        "predictive-programming"
+        "science-tech"
       ],
-      "aliases": [],
+      "aliases": [
+        "Walter Russell (Hiền Triết Hiện Đại)"
+      ],
       "headings": [
         "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
         "Evidence Discipline / Cách Đọc Claim",
@@ -30874,21 +30780,13 @@
     },
     "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md": {
       "path": "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-      "title": "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
+      "title": "Walter Russell",
       "domain": "politics-conspiracy",
       "tags": [
-        "esoterica",
-        "politics-conspiracy",
-        "science-tech",
-        "space",
-        "symbolism"
+        "science-tech"
       ],
       "aliases": [
-        "Death of King Elon",
-        "Elon Techno-King",
-        "Rocket Obelisk",
-        "Sky Fear",
-        "SpaceX Obelisk"
+        "Walter Russell (Hiền Triết Hiện Đại)"
       ],
       "headings": [
         "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",

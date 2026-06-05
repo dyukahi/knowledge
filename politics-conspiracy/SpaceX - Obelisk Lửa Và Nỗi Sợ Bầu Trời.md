@@ -1,26 +1,18 @@
 ---
-title: "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời"
-aliases:
-  - SpaceX Obelisk
-  - Sky Fear
-  - Elon Techno-King
-  - Rocket Obelisk
-  - Death of King Elon
-date: 2026-06-04
-tags: [politics-conspiracy, esoterica, science-tech, space, symbolism]
+title: "Walter Russell"
+description: "SpaceX Obelisk Lửa Và Nỗi Sợ Bầu Trời Nếu Moon landing là nghi lễ làm con người tin rằng bầu trời có thể bị chạm tới, thì SpaceX là nghi lễ biến bầu trời thành hạ"
+aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+date: 2026-04-08
+tags: [science-tech]
 status: refined
 related:
-  - "[[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]]"
-  - "[[UAP Disclosure - Controlled Revelation]]"
-  - "[[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]"
-  - "[[Karma Disclosure - Truth Hidden In Plain Sight]]"
-  - "[[Hollywood - Cây Đũa Phép Của Phù Thủy]]"
-  - "[[Elite]]"
-  - "[[Ma Trận]]"
+  - "[[MOC - Science Revisionism]]"
   - "[[Khoa Học Xét Lại]]"
-  - "[[Mỹ Là Ai Cập Tái Sinh]]"
+  - "[[Nikola Tesla]]"
+  - "[[Năng Lượng Aether]]"
+  - "[[Sự Nhất Thể]]"
+  - "[[Monad]]"
 ---
-
 # SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời
 
 **Nếu Moon landing là nghi lễ làm con người tin rằng bầu trời có thể bị chạm tới, thì SpaceX là nghi lễ biến bầu trời thành hạ tầng phải được quản trị, quân sự hóa, tài chính hóa và sợ hãi hóa. Rocket hiện đại là obelisk lửa: trục dương của techno-king phóng lên thiên giới.**

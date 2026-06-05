@@ -1,25 +1,18 @@
 ---
-title: "Ai Đứng Bên Kia Giao Dịch"
-aliases:
-  - Who Is On The Other Side
-  - Câu Chuyện Bò và Gấu
-  - Ownership Transfer
-  - Tâm Lý Đám Đông Thị Trường
-  - Bull Bear Psychology
-date: 2026-06-04
-tags: [mental-model, crypto-finance, market-psychology, risk-management, crowd-psychology]
+title: "Walter Russell"
+description: "Ai Đứng Bên Kia Giao Dịch Chart không phải đường giá. Chart là lịch sử của ownership transfer. Mỗi cây nến là dấu vết của một cuộc đổi tay: có người đủ sợ để bán,"
+aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+date: 2026-04-08
+tags: [science-tech]
 status: refined
 related:
-  - "[[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]"
-  - "[[Sợ hãi - Tham Lam – Cân bằng]]"
-  - "[[Secular Market]]"
-  - "[[Tư Duy Lũy Thừa]]"
-  - "[[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]"
-  - "[[Bitcoin]]"
-  - "[[MOC - Financial Sovereignty]]"
-  - "[[MOC - Market Psychology & Risk]]"
+  - "[[MOC - Science Revisionism]]"
+  - "[[Khoa Học Xét Lại]]"
+  - "[[Nikola Tesla]]"
+  - "[[Năng Lượng Aether]]"
+  - "[[Sự Nhất Thể]]"
+  - "[[Monad]]"
 ---
-
 # Ai Đứng Bên Kia Giao Dịch
 
 **Chart không phải đường giá. Chart là lịch sử của ownership transfer. Mỗi cây nến là dấu vết của một cuộc đổi tay: có người đủ sợ để bán, có người đủ tin để mua. Ở vùng top và bottom, câu hỏi quan trọng nhất không phải “tin tốt hay tin xấu?”, mà là: ai đang đứng bên kia giao dịch của mình?**

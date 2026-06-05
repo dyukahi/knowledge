@@ -1,10 +1,17 @@
 ---
-title: "Tâm Lý Học Tiến Hóa Về Giới Tính"
-aliases: ["Evolutionary Psychology of Gender", "Sexual Economics", "Red Pill Psychology"]
-date: 2026-04-27
-updated: 2026-06-04
-tags: [mental-models]
+title: "Walter Russell"
+description: "Tâm Lý Học Tiến Hóa Về Giới Tính Có những sự thật về tâm lý nam nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập"
+aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+date: 2026-04-08
+tags: [science-tech]
 status: refined
+related:
+  - "[[MOC - Science Revisionism]]"
+  - "[[Khoa Học Xét Lại]]"
+  - "[[Nikola Tesla]]"
+  - "[[Năng Lượng Aether]]"
+  - "[[Sự Nhất Thể]]"
+  - "[[Monad]]"
 ---
 # Tâm Lý Học Tiến Hóa Về Giới Tính
 

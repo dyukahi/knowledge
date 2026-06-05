@@ -1,8 +1,17 @@
 ---
-title: "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood"
-date: 2026-04-30
-tags: [mind-control, predictive-programming, conspiracy, occult, elite]
+title: "Walter Russell"
+description: "Bộ Tam Thánh Mind Control: NASA Disney Hollywood \"Ba đứa con của cùng một cha. Ba màn hình cho cùng một phép thuật.\" \"Three children of the same father. Three"
+aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+date: 2026-04-08
+tags: [science-tech]
 status: refined
+related:
+  - "[[MOC - Science Revisionism]]"
+  - "[[Khoa Học Xét Lại]]"
+  - "[[Nikola Tesla]]"
+  - "[[Năng Lượng Aether]]"
+  - "[[Sự Nhất Thể]]"
+  - "[[Monad]]"
 ---
 # Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood
 

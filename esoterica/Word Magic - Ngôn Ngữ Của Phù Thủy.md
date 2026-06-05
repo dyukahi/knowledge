@@ -1,5 +1,7 @@
 ---
 title: "Word Magic - Ngôn Ngữ Của Phù Thủy"
+description: "Word magic as the occult and psychological power of language: naming, framing, spells, propaganda, and how words shape perception."
+aliases: ["Word Magic", "Language Magic", "Ng?n ng? ph? th?y"]
 date: 2026-05-09
 tags: [esoterica, mind-control]
 status: refined
@@ -8,6 +10,7 @@ related:
   - "[[Ma Trận]]"
   - "[[Kiểm Soát Tâm Trí]]"
   - "[[UAP Disclosure - Controlled Revelation]]"
+
 ---
 
 # Word Magic — Ngôn Ngữ Của Phù Thủy

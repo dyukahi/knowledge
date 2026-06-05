@@ -1,12 +1,18 @@
 ---
-title: "Chu Kỳ Vũ Trụ - Yugas & Kalpas"
-aliases: ["Yugas", "Kalpas", "Cosmic Cycles", "Kali Yuga", "Kiếp", "Mahayuga"]
-date: 2026-05-05
-updated: 2026-05-15
-tags: [esoterica, cosmology, cycles, hindu, buddhist]
+title: "Walter Russell"
+description: "Chu Kỳ Vũ Trụ Yugas & Kalpas \"Thời gian là một vòng tròn, không phải đường thẳng.\" Khoa học hiện đại dạy rằng lịch sử là một đường thẳng tiến lên: từ vi khuẩn đến"
+aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+date: 2026-04-08
+tags: [science-tech]
 status: refined
+related:
+  - "[[MOC - Science Revisionism]]"
+  - "[[Khoa Học Xét Lại]]"
+  - "[[Nikola Tesla]]"
+  - "[[Năng Lượng Aether]]"
+  - "[[Sự Nhất Thể]]"
+  - "[[Monad]]"
 ---
-
 # Chu Kỳ Vũ Trụ - Yugas & Kalpas
 
 > "Thời gian là một vòng tròn, không phải đường thẳng."

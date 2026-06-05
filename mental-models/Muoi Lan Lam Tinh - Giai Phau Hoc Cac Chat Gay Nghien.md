@@ -1,5 +1,6 @@
 ---
 title: "Mười Lần Làm Tình - Giải Phẫu Học Các Chất Gây Nghiện"
+description: "Deep dive into addiction neuroscience, dopamine economy, meth/cocaine/MDMA mechanisms, sexuality, culture, and mind-control incentives."
 aliases: ["Drug Neuroscience", "Meth Cocaine MDMA", "Addiction Psychology"]
 date: 2026-05-12
 tags: [mental-model, psychology, neuroscience, culture]
@@ -14,6 +15,7 @@ related:
   - "[[Ma Trận]]"
   - "[[Elite]]"
   - "[[Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa]]"
+
 ---
 
 # Mười Lần Làm Tình - Giải Phẫu Học Các Chất Gây Nghiện

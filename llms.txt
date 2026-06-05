@@ -11,6 +11,14 @@ Red Pill Wiki is a public second brain organized as an interconnected Quartz kno
 - [Source Discipline](https://redpill.wiki/Source-Discipline---K%E1%BB%B7-Lu%E1%BA%ADt-Ngu%E1%BB%93n-V%C3%A0-B%E1%BA%B1ng-Ch%E1%BB%A9ng)
 - [Glossary](https://redpill.wiki/Glossary---T%E1%BB%AB-%C4%90i%E1%BB%83n-Red-Pill-Wiki)
 
+## About / entity pointers
+
+- Site name: Red Pill Wiki
+- Canonical domain: https://redpill.wiki/
+- Primary language: Vietnamese with English mirrors and bilingual terminology
+- Editorial stance: source discipline, sovereignty, critical thinking, and explicit uncertainty labels
+- Core onboarding: Start Here, Source Discipline, Glossary, and domain MOCs
+
 ## Core maps
 
 - [Esoterica & Consciousness](https://redpill.wiki/MOC---Esoterica--and--Consciousness)

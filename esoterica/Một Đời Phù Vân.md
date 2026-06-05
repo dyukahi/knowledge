@@ -1,12 +1,18 @@
-﻿---
-title: "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu"
-aliases: ["A Life Like Floating Clouds", "Phù Vân", "Impermanence Story"]
-date: 2026-04-21
-tags: [esoterica, buddhism, impermanence, wisdom]
-status: refined
-source: "Khải Tuệ Quang - khaituequang.com"
 ---
-
+title: "Walter Russell"
+description: "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu A Life Like Floating Clouds — The Story of an Ordinary Man Hôm nay tôi xin chia sẻ với quý vị một câu chuyện ẩn dụ."
+aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+date: 2026-04-08
+tags: [science-tech]
+status: refined
+related:
+  - "[[MOC - Science Revisionism]]"
+  - "[[Khoa Học Xét Lại]]"
+  - "[[Nikola Tesla]]"
+  - "[[Năng Lượng Aether]]"
+  - "[[Sự Nhất Thể]]"
+  - "[[Monad]]"
+---
 # Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu
 
 *A Life Like Floating Clouds — The Story of an Ordinary Man*

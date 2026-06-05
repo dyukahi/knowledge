@@ -1,5 +1,7 @@
 ---
 title: "Atlantis"
+description: "Atlantis in Red Pill Wiki as a hidden-history, consciousness, and civilization-cycle lens linking myth, memory, technology, and spiritual decline."
+aliases: ["Atlantis civilization", "Lost civilization", "Atlantean myth"]
 date: 2026-04-08
 updated: 2026-05-13
 tags: [esoterica, ancient-civilization, crystal-technology]
@@ -9,6 +11,7 @@ related:
   - "[[Năng Lượng Aether]]"
   - "[[Nikola Tesla]]"
   - "[[Loosh - Năng Lượng Thu Hoạch Từ Con Người]]"
+
 ---
 
 # Atlantis — Nền Văn Minh Bị Xóa Sổ

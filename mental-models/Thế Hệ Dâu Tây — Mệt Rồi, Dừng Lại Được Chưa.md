@@ -1,10 +1,18 @@
 ---
-title: "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?"
-date: 2026-05-01
-tags: [mental-models, society, gen-z, rat-race]
+title: "Walter Russell"
+description: "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa? The Strawberry Generation — Tired Already, Can We Stop Yet? \"Chúng ta đang thắng cuộc đua, nhưng rồi nhận ra, phần"
+aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+date: 2026-04-08
+tags: [science-tech]
 status: refined
+related:
+  - "[[MOC - Science Revisionism]]"
+  - "[[Khoa Học Xét Lại]]"
+  - "[[Nikola Tesla]]"
+  - "[[Năng Lượng Aether]]"
+  - "[[Sự Nhất Thể]]"
+  - "[[Monad]]"
 ---
-
 # Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?
 
 *The Strawberry Generation — Tired Already, Can We Stop Yet?*

@@ -1,12 +1,18 @@
 ---
-title: "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"
-aliases: ["Darwin Debunked", "Forbidden Archaeology", "Hidden Civilizations"]
+title: "Walter Russell"
+description: "Thuyết Tiến Hóa Các Nền Văn Minh Bị Che Giấu \"Nếu bạn kiểm soát được quá khứ, bạn kiểm soát được tương lai. Nếu bạn kiểm soát được hiện tại, bạn kiểm soát được quá"
+aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
 date: 2026-04-08
-updated: 2026-05-15
-tags: [esoterica, revisionist-science, ancient-civilizations]
+tags: [science-tech]
 status: refined
+related:
+  - "[[MOC - Science Revisionism]]"
+  - "[[Khoa Học Xét Lại]]"
+  - "[[Nikola Tesla]]"
+  - "[[Năng Lượng Aether]]"
+  - "[[Sự Nhất Thể]]"
+  - "[[Monad]]"
 ---
-
 # Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu
 
 > "Nếu bạn kiểm soát được quá khứ, bạn kiểm soát được tương lai. Nếu bạn kiểm soát được hiện tại, bạn kiểm soát được quá khứ." — George Orwell, 1984

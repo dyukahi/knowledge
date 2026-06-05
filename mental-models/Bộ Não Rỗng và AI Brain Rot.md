@@ -1,14 +1,18 @@
-﻿---
-title: "Bộ Não Rỗng và AI Brain Rot"
-aliases: ["Empty Brain", "Cognitive Offloading", "AI Brain Rot", "Agency Decay"]
-date: 2026-04-24
-tags: [mental-model, technology, consciousness, ai]
-status: refined
-sources:
-  - "Harari.ai - Bộ Não Rỗng (https://harari.ai/articles/bo-nao-rong/)"
-  - "Tobias van Schneider - How to reverse AI brain rot (https://vanschneider.com/blog/edition-269/)"
 ---
-
+title: "Walter Russell"
+description: "Bộ Não Rỗng và AI Brain Rot The Empty Brain & AI Brain Rot Câu hỏi trung tâm của thập kỷ tới: Nếu trí nhớ ở cloud, tính toán ở máy, suy luận ở AI, cảm xúc được làm"
+aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+date: 2026-04-08
+tags: [science-tech]
+status: refined
+related:
+  - "[[MOC - Science Revisionism]]"
+  - "[[Khoa Học Xét Lại]]"
+  - "[[Nikola Tesla]]"
+  - "[[Năng Lượng Aether]]"
+  - "[[Sự Nhất Thể]]"
+  - "[[Monad]]"
+---
 # Bộ Não Rỗng và AI Brain Rot
 
 *The Empty Brain & AI Brain Rot*
