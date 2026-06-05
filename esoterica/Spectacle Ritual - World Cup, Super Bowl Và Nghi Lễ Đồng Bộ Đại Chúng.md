@@ -1,5 +1,5 @@
 ---
-title: "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng"
+title: "Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng"
 description: "Bài này mở rộng case Brazil 2026 Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể sang một framework lớn hơn: spectacle ritual "
 aliases:
   - Spectacle Ritual
@@ -21,7 +21,7 @@ related:
   - "[[Ma Trận]]"
   - "[[Mỹ Là Ai Cập Tái Sinh]]"
 ---
-# Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng
+# Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng
 
 **World Cup, Euro và Super Bowl halftime show không chỉ là giải đấu hoặc giải trí. Chúng là những nghi lễ đồng bộ đại chúng: hàng trăm triệu đến hàng tỷ nervous systems cùng nhìn một sân khấu, cùng nghe một nhịp, cùng nhận một bộ symbol, cùng bước vào một emotional field được thiết kế trước. Nếu chính trị ép người ta chia phe, spectacle gom người ta lại bằng cảm xúc.**
 

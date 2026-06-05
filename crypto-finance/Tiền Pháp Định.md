@@ -1,6 +1,11 @@
 ---
 title: "Tiền Pháp Định (Fiat Currency)"
 description: "Tiền Pháp Định (Fiat Currency) là hệ thống tiền tệ không có giá trị nội tại, được in ấn dựa trên nợ và lòng tin"
+aliases:
+  - Fiat Currency
+  - Tiền Fiat
+  - Tiền Pháp Định Là Gì
+  - Fiat Money
 date: 2026-04-07
 tags: [crypto-finance]
 status: refined

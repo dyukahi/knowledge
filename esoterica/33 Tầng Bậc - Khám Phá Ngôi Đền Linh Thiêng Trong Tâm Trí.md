@@ -1,11 +1,11 @@
 ---
-title: "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí"
+title: "33 Tầng Bậc - Ngôi Đền Trong Tâm Trí"
 description: "33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí: 33 Degrees Exploring the Sacred Temple Within the Mind"
 date: 2026-04-07
 tags: [esoterica]
 status: refined
 ---
-# 33 Tầng Bậc (33rd) - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí
+# 33 Tầng Bậc - Ngôi Đền Trong Tâm Trí
 
 *33 Degrees - Exploring the Sacred Temple Within the Mind*
 
