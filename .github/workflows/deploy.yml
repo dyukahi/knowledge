@@ -45,6 +45,9 @@ jobs:
           fi
           if [ -f content/assets/og-image.png ]; then cp content/assets/og-image.png quartz/quartz/static/og-image.png; fi
 
+      - name: Apply redpill.wiki SEO patches
+        run: node content/scripts/patch-quartz-seo.mjs quartz
+
       - name: Install Dependencies
         working-directory: ./quartz
         run: npm ci
@@ -73,4 +76,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
 
