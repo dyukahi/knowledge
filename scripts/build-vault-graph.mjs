@@ -38,6 +38,7 @@ const nodes = notes.map((note) => ({
   words: note.words ?? 0,
   backlinks: (note.backlinks ?? []).length,
   links: (note.wikilinks ?? []).length,
+  aliases: note.aliases ?? [],
   url: "/" + String(note.path)
     .replace(/\\/g, "/")
     .replace(/\.md$/, "")
@@ -128,15 +129,29 @@ let graph, nodes, links, nodeById, scale = 1, ox = 0, oy = 0, dragging = false, 
 const domainOrder = ["root", "esoterica", "politics-conspiracy", "mental-models", "health", "science-tech", "crypto-finance"]
 function resize(){ canvas.width = innerWidth * devicePixelRatio; canvas.height = innerHeight * devicePixelRatio; canvas.style.width = innerWidth+"px"; canvas.style.height = innerHeight+"px"; ctx.setTransform(devicePixelRatio,0,0,devicePixelRatio,0,0); draw() }
 addEventListener("resize", resize)
+function query(){ return search.value.trim().toLowerCase() }
+function shownNodes(){ return nodes.filter(visible) }
 function project(n){ return { x: n.x * scale + ox, y: n.y * scale + oy } }
+function screenPos(n){
+  const q = query()
+  if (!q) return project(n)
+  const shown = shownNodes()
+  const i = Math.max(0, shown.indexOf(n))
+  const cols = Math.max(1, Math.ceil(Math.sqrt(shown.length || 1)))
+  return {
+    x: innerWidth / 2 + (i % cols - (cols - 1) / 2) * 170,
+    y: innerHeight * 0.62 + Math.floor(i / cols) * 110,
+  }
+}
 function unproject(x,y){ return { x:(x-ox)/scale, y:(y-oy)/scale } }
-function seeded(str){ let h=2166136261; for (let i=0;i<str.length;i++) h=(h^str.charCodeAt(i))*16777619; return Math.abs(h) }
+function seeded(str){ let h=2166136261 >>> 0; for (let i=0;i<str.length;i++) h=Math.imul(h ^ str.charCodeAt(i), 16777619) >>> 0; return h }
 function layout(){
   const W = innerWidth, H = innerHeight
   const groups = domainOrder.filter(d => nodes.some(n => n.domain===d))
   const centers = new Map(groups.map((d,i)=>[d,{x: W*(0.18+0.64*((i%4)/3)), y: H*(0.32+0.42*(Math.floor(i/4)))}]))
   for (const n of nodes){ const c=centers.get(n.domain)||{x:W/2,y:H/2}; const r=70+((seeded(n.id)%1000)/1000)*180; const a=(seeded(n.title)%6283)/1000; n.x=c.x+Math.cos(a)*r; n.y=c.y+Math.sin(a)*r; n.vx=0; n.vy=0; n.radius=Math.max(3, Math.min(12, 3 + Math.sqrt(n.backlinks+1)*1.5)) }
-  for (let t=0;t<220;t++) tick(t)
+  // Keep the standalone graph deterministic and lightweight.
+  // A force simulation can explode on dense vault graphs and leave coordinates non-finite.
   ox=0; oy=0; scale=1
 }
 function tick(t){
@@ -144,9 +159,9 @@ function tick(t){
   for (let i=0;i<nodes.length;i++) for (let j=i+1;j<nodes.length;j++){ const a=nodes[i], b=nodes[j]; const dx=b.x-a.x, dy=b.y-a.y, d2=dx*dx+dy*dy+0.01; if(d2>12000) continue; const f=38/d2; a.vx-=dx*f; a.vy-=dy*f; b.vx+=dx*f; b.vy+=dy*f }
   for (const n of nodes){ const c={x:innerWidth/2,y:innerHeight/2}; n.vx+=(c.x-n.x)*0.00008; n.vy+=(c.y-n.y)*0.00008; n.x+=n.vx; n.y+=n.vy; n.vx*=0.82; n.vy*=0.82 }
 }
-function visible(n){ const q=search.value.trim().toLowerCase(); if (domainSelect.value && n.domain!==domainSelect.value) return false; if (q && !(n.title.toLowerCase().includes(q)||n.domain.includes(q))) return false; return true }
-function draw(){ if(!nodes) return; ctx.clearRect(0,0,innerWidth,innerHeight); ctx.lineWidth=0.55; ctx.strokeStyle="rgba(180,190,210,.13)"; ctx.beginPath(); for(const l of links){ const a=nodeById.get(l.source), b=nodeById.get(l.target); if(!a||!b||!visible(a)||!visible(b)) continue; const A=project(a), B=project(b); ctx.moveTo(A.x,A.y); ctx.lineTo(B.x,B.y) } ctx.stroke(); for(const n of nodes){ if(!visible(n)) continue; const p=project(n); ctx.beginPath(); ctx.fillStyle=n.color; ctx.globalAlpha = hover && hover!==n ? .45 : .92; ctx.arc(p.x,p.y,n.radius*scale,0,Math.PI*2); ctx.fill(); if(scale>1.45 || n.backlinks>12){ ctx.globalAlpha=.88; ctx.fillStyle="#f4f4f5"; ctx.font=Math.min(15, 10*scale)+"px system-ui"; ctx.fillText(n.title, p.x+n.radius*scale+4, p.y+4) } } ctx.globalAlpha=1 }
-function hit(x,y){ const u=unproject(x,y); let best=null, bd=18/scale; for(const n of nodes){ if(!visible(n)) continue; const d=Math.hypot(n.x-u.x,n.y-u.y); if(d<Math.max(bd,n.radius+4)){ best=n; bd=d } } return best }
+function visible(n){ const q=query(); if (domainSelect.value && n.domain!==domainSelect.value) return false; if (q && !(n.title.toLowerCase().includes(q)||n.domain.includes(q)||(n.aliases||[]).some(a=>String(a).toLowerCase().includes(q)))) return false; return true }
+function draw(){ if(!nodes) return; ctx.clearRect(0,0,innerWidth,innerHeight); const q=query(); const shown=shownNodes(); ctx.lineWidth=0.55; ctx.strokeStyle="rgba(180,190,210,.13)"; ctx.beginPath(); if(!q){ for(const l of links){ const a=nodeById.get(l.source), b=nodeById.get(l.target); if(!a||!b||!visible(a)||!visible(b)) continue; const A=screenPos(a), B=screenPos(b); ctx.moveTo(A.x,A.y); ctx.lineTo(B.x,B.y) } } ctx.stroke(); for(const n of shown){ const p=screenPos(n); const r=q ? Math.max(10,n.radius*1.2) : n.radius*scale; ctx.beginPath(); ctx.fillStyle=n.color; ctx.globalAlpha = hover && hover!==n ? .45 : .92; ctx.arc(p.x,p.y,r,0,Math.PI*2); ctx.fill(); if(q || scale>1.45 || n.backlinks>12){ ctx.globalAlpha=.88; ctx.fillStyle="#f4f4f5"; ctx.font=(q ? 14 : Math.min(15, 10*scale))+"px system-ui"; ctx.fillText(n.title, p.x+r+5, p.y+5) } } ctx.globalAlpha=1; stats.textContent=(q ? shown.length+" match(es) · " : "")+graph.stats.nodes+" notes · "+graph.stats.links+" links" }
+function hit(x,y){ let best=null, bd=24; for(const n of nodes){ if(!visible(n)) continue; const p=screenPos(n); const r=query()?14:n.radius*scale+5; const d=Math.hypot(p.x-x,p.y-y); if(d<Math.max(bd,r)){ best=n; bd=d } } return best }
 canvas.addEventListener("pointerdown", e=>{ dragging=true; last={x:e.clientX,y:e.clientY}; canvas.setPointerCapture(e.pointerId) })
 canvas.addEventListener("pointermove", e=>{ const h=hit(e.clientX,e.clientY); hover=h; canvas.style.cursor=h?"pointer":dragging?"grabbing":"grab"; if(dragging&&last){ ox+=e.clientX-last.x; oy+=e.clientY-last.y; last={x:e.clientX,y:e.clientY} } draw(); if(h){ tip.style.display="block"; tip.innerHTML="<strong>"+h.title+"</strong><span>"+h.domain+" · "+h.backlinks+" backlinks · "+h.links+" outlinks</span><br><a href=\""+h.url+"\">Mở bài →</a>" } else tip.style.display="none" })
 canvas.addEventListener("pointerup", e=>{ dragging=false; if(hover && Math.hypot(e.clientX-last.x,e.clientY-last.y)<4) location.href=hover.url })
