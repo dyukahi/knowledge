@@ -1,11 +1,6 @@
 ---
-title: "Loosh — Năng Lượng Thu Hoạch Từ Con Người"
-description: "Loosh — Năng Lượng Thu Hoạch Từ Con Người: title: 'Loosh Năng Lượng Thu Hoạch Từ Con Người'"
-date: 2026-06-05
-status: seed
----
-﻿---
 title: "Loosh - Năng Lượng Thu Hoạch Từ Con Người"
+description: "Loosh — Năng Lượng Thu Hoạch Từ Con Người: title: 'Loosh Năng Lượng Thu Hoạch Từ Con Người'"
 aliases: ["Loosh", "Energy Harvesting", "Thu Hoạch Năng Lượng"]
 date: 2026-04-29
 tags: [esoterica, consciousness, matrix]

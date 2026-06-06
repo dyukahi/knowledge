@@ -1,15 +1,11 @@
 ---
-title: "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức"
-description: "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức: Tags: mental model matrix awakening energy gnosis truth"
-date: 2026-06-05
-status: seed
----
-﻿---
 title: Mental Model - Kiến Trúc Bẻ Khóa Ma Trận
+description: "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức: Tags: mental model matrix awakening energy gnosis truth"
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
+
 # Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức
 *Tags: #mental-model #matrix #awakening #energy #gnosis #truth*
 

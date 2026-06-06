@@ -1,16 +1,12 @@
 ---
-title: "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng"
-description: "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng: title: Mental Model Tầng Sâu Nhận Thức & Năng Lượng"
-date: 2026-06-05
-status: seed
----
-﻿---
 title: Mental Model - Tầng Sâu Nhận Thức & Năng Lượng
+description: "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng: title: Mental Model Tầng Sâu Nhận Thức & Năng Lượng"
 aliases: ["Deep Consciousness & Energy Layers"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
+
 # Mental Model - Tầng Sâu Nhận Thức & Năng Lượng
 
 Bản Mental Model này đi sâu vào cơ chế vận hành của con người ở tầng phi vật chất, kết nối giữa tâm lý học chiều sâu, di truyền học năng lượng và các hệ thống niềm tin cổ xưa.

@@ -1,16 +1,12 @@
 ---
 title: "Nỏ Thần"
-description: "aliases: ['Nỏ Thần', 'Linh Quang Kim Quy Thần Nỏ'] — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
-date: 2026-06-05
-status: seed
----
-﻿---
-title: "Nỏ Thần"
+description: "Nỏ Thần như biểu tượng của linh quang, công nghệ thiêng và quyền lực bảo hộ bị phản bội trong ký ức huyền sử Việt."
 aliases: ["Nỏ Thần", "Linh Quang Kim Quy Thần Nỏ"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
+
 # Nỏ Thần
 
 **Nỏ Thần** (còn gọi là Linh Quang Kim Quy Thần Nỏ) là vũ khí huyền thoại của An Dương Vương, tương truyền có khả năng bắn hàng ngàn mũi tên một lần, giúp Âu Lạc đánh bại quân Triệu Đà nhiều lần.

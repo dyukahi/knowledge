@@ -1,11 +1,6 @@
 ---
 title: "S.E.X Và Tâm Lý Học Jung"
-description: "S.E.X Và Tâm Lý Học Jung: aliases: ['Sacred Energy eXchange and Jung', 'S.E.X và Jung']"
-date: 2026-06-05
-status: seed
----
-﻿---
-title: "S.E.X Và Tâm Lý Học Jung"
+description: "S.E.X và Jung đọc tình dục như trao đổi năng lượng, shadow, anima/animus và tiến trình tích hợp vô thức trong quan hệ nam nữ."
 aliases: ["Sacred Energy eXchange and Jung", "S.E.X và Jung"]
 date: 2026-04-07
 tags: [mental-model, esoterica, psychology]

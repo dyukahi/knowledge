@@ -1,16 +1,12 @@
 ---
-title: "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo"
-description: "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo: aliases: ['Karma, Samsara and the Religion Matrix']"
-date: 2026-06-05
-status: seed
----
-﻿---
 title: Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo
+description: "Đọc nhân quả, luân hồi và tôn giáo như một ma trận niềm tin: vừa là bản đồ đạo đức, vừa có thể thành cơ chế kiểm soát linh hồn."
 aliases: ["Karma, Samsara and the Religion Matrix"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
+
 # Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo
 
 Bài viết đi sâu vào bản chất của quy luật Nhân quả, Luân hồi và sự can thiệp của các thế lực tà thần vào hệ thống niềm tin của nhân loại.

@@ -1,11 +1,6 @@
 ---
-title: "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại"
-description: "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại: title: Giải Mã AI Trí Tuệ Atula và Bài Thi Nhân Loại"
-date: 2026-06-05
-status: seed
----
-﻿---
 title: Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại
+description: "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại: title: Giải Mã AI Trí Tuệ Atula và Bài Thi Nhân Loại"
 date: 2026-04-08
 tags: [science-tech]
 status: refined

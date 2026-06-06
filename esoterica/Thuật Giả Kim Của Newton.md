@@ -1,15 +1,11 @@
 ---
 title: "Thuật Giả Kim Của Newton"
 description: "Sir Isaac Newton (1642 1727) — 'cha đẻ của vật lý hiện đại' — thực chất dành phần lớn cuộc đời cho Huyền học (Occult) và Thuật Giả Kim (Alchemy)"
-date: 2026-06-05
-status: seed
----
-﻿---
-title: "Thuật Giả Kim Của Newton"
 date: 2026-04-07
 tags: [esoterica]
 status: refined
 ---
+
 # Thuật Giả Kim Của Newton
 
 **Sir Isaac Newton** (1642-1727) — "cha đẻ của vật lý hiện đại" — thực chất dành phần lớn cuộc đời cho Huyền học (Occult) và Thuật Giả Kim (Alchemy), không phải khoa học duy vật.

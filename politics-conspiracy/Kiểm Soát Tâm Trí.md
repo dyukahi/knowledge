@@ -1,11 +1,6 @@
 ---
 title: "Kiểm Soát Tâm Trí (Mind Control)"
 description: "Kiểm Soát Tâm Trí (Mind Control): tags: [politics conspiracy, propaganda, consciousness]"
-date: 2026-06-05
-status: seed
----
-﻿---
-title: "Kiểm Soát Tâm Trí (Mind Control)"
 date: 2026-04-07
 tags: [politics-conspiracy, propaganda, consciousness]
 status: refined
@@ -17,6 +12,7 @@ related:
   - "[[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]"
   - "[[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]"
 ---
+
 # Kiểm Soát Tâm Trí (Mind Control)
 
 **Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi [[Elite]] kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ họ dùng và lịch sử họ nhớ, phần lớn hành vi có thể được dẫn mà không cần dây xích.

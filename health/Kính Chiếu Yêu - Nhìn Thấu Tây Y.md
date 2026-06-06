@@ -1,16 +1,12 @@
 ---
 title: "Kính Chiếu Yêu — Nhìn Thấu Tây Y"
-description: "Kính Chiếu Yêu — Nhìn Thấu Tây Y: aliases: ['They Live Medicine', 'Seeing Through Western Medicine']"
-date: 2026-06-05
-status: seed
----
-﻿---
-title: "Kính Chiếu Yêu — Nhìn Thấu Tây Y"
+description: "Kính Chiếu Yêu nhìn Tây y như hệ thống quyền lực y tế: mạnh ở cấp cứu nhưng cần được soi incentive, narrative và vùng mù terrain."
 aliases: ["They Live Medicine", "Seeing Through Western Medicine"]
 date: 2026-04-25
 tags: [health]
 status: refined
 ---
+
 # Kính Chiếu Yêu — Nhìn Thấu Tây Y
 
 Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình "nhặt được chiếc kính chiếu yêu", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác.

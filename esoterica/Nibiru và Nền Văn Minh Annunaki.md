@@ -1,15 +1,11 @@
 ---
-title: "Nibiru và Nền Văn Minh Annunaki"
-description: "Nibiru và Nền Văn Minh Annunaki: Tags: source note annunaki nibiru cabal matrix ancient history"
-date: 2026-06-05
-status: seed
----
-﻿---
 title: Nibiru và Nền Văn Minh Annunaki
+description: "Nibiru và Nền Văn Minh Annunaki: Tags: source note annunaki nibiru cabal matrix ancient history"
 date: 2026-04-08
 tags: [esoterica]
 status: refined
 ---
+
 # Nibiru và Nền Văn Minh Annunaki
 *Tags: #source-note #annunaki #nibiru #cabal #matrix #ancient-history*
 

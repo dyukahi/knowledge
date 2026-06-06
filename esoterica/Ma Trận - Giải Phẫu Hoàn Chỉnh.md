@@ -1,11 +1,6 @@
 ---
-title: "Ma Trận — Giải Phẫu Hoàn Chỉnh"
-description: "Ma Trận — Giải Phẫu Hoàn Chỉnh: aliases: ['Complete Matrix Anatomy', 'Thoát Khỏi Ma Trận', 'Matrix Breakdown']"
-date: 2026-06-05
-status: seed
----
-﻿---
 title: "Ma Trận - Giải Phẫu Hoàn Chỉnh"
+description: "Bản tổng hợp hoàn chỉnh về Ma Trận: cấu trúc kiểm soát perception, các lớp thao túng và con đường tỉnh thức khỏi hệ điều hành của ảo tưởng."
 aliases: ["Complete Matrix Anatomy", "Thoát Khỏi Ma Trận", "Matrix Breakdown"]
 date: 2026-04-29
 tags: [esoterica, matrix, consciousness, meta]

@@ -1,16 +1,12 @@
 ---
-title: "Sacred Geometry (Hình Học Thiêng)"
-description: "aliases: ['Sacred Geometry', 'Hình Học Thiêng', 'Hình Học Thiêng Liêng', 'Sacred Geometry (Hình Học Thiêng)']"
-date: 2026-06-05
-status: seed
----
-﻿---
 title: "Sacred Geometry"
+description: "Sacred Geometry là ngôn ngữ hình học của trật tự vũ trụ, nơi số, hình, tỷ lệ và pattern trở thành cầu nối giữa vật chất và tinh thần."
 aliases: ["Sacred Geometry", "Hình Học Thiêng", "Hình Học Thiêng Liêng", "Sacred Geometry (Hình Học Thiêng)"]
 date: 2026-04-26
 tags: [esoterica]
 status: refined
 ---
+
 # Sacred Geometry (Hình Học Thiêng)
 
 **Nguồn tham khảo:** Sách "Luật Tâm Thức" của Ngô Sa Thạch

@@ -1,15 +1,11 @@
 ---
-title: "Thực Thể Cõi Trung Giới (Astral Entities)"
-description: "title: Thực Thể Cõi Trung Giới (Astral Entities) — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
-date: 2026-06-05
-status: seed
----
-﻿---
 title: Thực Thể Cõi Trung Giới (Astral Entities)
+description: "title: Thực Thể Cõi Trung Giới (Astral Entities) — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
 date: 2026-04-07
 tags: [esoterica]
 status: refined
 ---
+
 # Thực Thể Cõi Trung Giới (Astral Entities)
 
 **Thực Thể Cõi Trung Giới** (Astral Entities) là các sinh linh tồn tại ở tần số ngoài phổ nhìn thấy của con người. Trong nhiều truyền thống được gọi là Archons, demons, djinn, ký sinh trùng năng lượng.

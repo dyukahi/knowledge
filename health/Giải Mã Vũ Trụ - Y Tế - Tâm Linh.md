@@ -1,11 +1,6 @@
 ---
-title: "Giải Mã Vũ Trụ - Y Tế - Tâm Linh"
-description: "Bài này thuộc nhóm health sovereignty của redpill.wiki. Nó có thể dùng giọng mạnh để phản biện medical industrial complex, nhưng không phải chỉ dẫn y khoa cá nhân."
-date: 2026-06-05
-status: seed
----
-﻿---
 title: Giải Mã Vũ Trụ - Y Tế - Tâm Linh
+description: "Bài này thuộc nhóm health sovereignty của redpill.wiki. Nó có thể dùng giọng mạnh để phản biện medical industrial complex, nhưng không phải chỉ dẫn y khoa cá nhân."
 date: 2026-04-08
 tags: [health]
 status: refined

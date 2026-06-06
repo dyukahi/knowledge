@@ -11,7 +11,7 @@
       "politics-conspiracy": 26,
       "science-tech": 17
     },
-    "tags": 182,
+    "tags": 183,
     "wikilinkEdges": 2060,
     "brokenLinks": 0,
     "orphans": 9
@@ -1397,10 +1397,19 @@
       },
       {
         "path": "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "title": "Ma Trận — Giải Phẫu Hoàn Chỉnh",
+        "title": "Ma Trận - Giải Phẫu Hoàn Chỉnh",
         "domain": "esoterica",
-        "tags": [],
-        "aliases": [],
+        "tags": [
+          "consciousness",
+          "esoterica",
+          "matrix",
+          "meta"
+        ],
+        "aliases": [
+          "Complete Matrix Anatomy",
+          "Matrix Breakdown",
+          "Thoát Khỏi Ma Trận"
+        ],
         "headings": [
           "Ma Trận — Giải Phẫu Hoàn Chỉnh",
           "Evidence Discipline / Cách Đọc Claim",
@@ -1526,8 +1535,8 @@
           "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
         ],
-        "words": 2007,
-        "summary": "﻿--- title: \"Ma Trận - Giải Phẫu Hoàn Chỉnh\" aliases: [\"Complete Matrix Anatomy\", \"Thoát Khỏi Ma Trận\", \"Matrix Breakdown\"] date: 2026-04-29 tags: [esoterica, matrix, consciousness, meta] status: refined ---"
+        "words": 1979,
+        "summary": "Bài viết này là **bản tổng hợp hoàn chỉnh** về Ma Trận — cấu trúc, các lớp kiểm soát, mục đích tồn tại, và **con đường thoát ra**. Đây là meta-framework xâu chuỗi toàn bộ kiến thức trong vault."
       },
       {
         "path": "esoterica/index.md",
@@ -1751,11 +1760,12 @@
       },
       {
         "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "title": "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức",
+        "title": "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
         "domain": "esoterica",
         "tags": [
           "awakening",
           "energy",
+          "esoterica",
           "gnosis",
           "matrix",
           "mental-model",
@@ -1842,8 +1852,8 @@
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Mental Model.md"
         ],
-        "words": 996,
-        "summary": "﻿--- title: Mental Model - Kiến Trúc Bẻ Khóa Ma Trận date: 2026-04-08 tags: [esoterica] status: refined --- # Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức *Tags: #mental-model #matrix #awakening #energy #gnosis #truth*"
+        "words": 979,
+        "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
       },
       {
         "path": "esoterica/Sự Nhất Thể.md",
@@ -2250,10 +2260,18 @@
       },
       {
         "path": "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-        "title": "Loosh — Năng Lượng Thu Hoạch Từ Con Người",
+        "title": "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
         "domain": "esoterica",
-        "tags": [],
-        "aliases": [],
+        "tags": [
+          "consciousness",
+          "esoterica",
+          "matrix"
+        ],
+        "aliases": [
+          "Energy Harvesting",
+          "Loosh",
+          "Thu Hoạch Năng Lượng"
+        ],
         "headings": [
           "Loosh — Năng Lượng Thu Hoạch Từ Con Người",
           "Nguồn Gốc Thuật Ngữ / Origin of the Term",
@@ -2332,8 +2350,8 @@
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
           "MOC - Esoterica & Consciousness.md"
         ],
-        "words": 1847,
-        "summary": "﻿--- title: \"Loosh - Năng Lượng Thu Hoạch Từ Con Người\" aliases: [\"Loosh\", \"Energy Harvesting\", \"Thu Hoạch Năng Lượng\"] date: 2026-04-29 tags: [esoterica, consciousness, matrix] status: refined ---"
+        "words": 1820,
+        "summary": "**Loosh** là thuật ngữ do Robert Monroe đặt ra trong sách *Far Journeys* (1985), mô tả một loại năng lượng phát ra từ con người — đặc biệt là năng lượng cảm xúc cường độ cao — được các thực thể chiều cao hơn thu hoạch."
       },
       {
         "path": "esoterica/Luân Hồi.md",
@@ -2411,10 +2429,17 @@
       },
       {
         "path": "esoterica/Sacred Geometry.md",
-        "title": "Sacred Geometry (Hình Học Thiêng)",
+        "title": "Sacred Geometry",
         "domain": "esoterica",
-        "tags": [],
-        "aliases": [],
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Hình Học Thiêng",
+          "Hình Học Thiêng Liêng",
+          "Sacred Geometry",
+          "Sacred Geometry (Hình Học Thiêng)"
+        ],
         "headings": [
           "Sacred Geometry (Hình Học Thiêng)",
           "Hình Ảnh / Images",
@@ -2495,8 +2520,8 @@
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "MOC - Esoterica & Consciousness.md"
         ],
-        "words": 2158,
-        "summary": "﻿--- title: \"Sacred Geometry\" aliases: [\"Sacred Geometry\", \"Hình Học Thiêng\", \"Hình Học Thiêng Liêng\", \"Sacred Geometry (Hình Học Thiêng)\"] date: 2026-04-26 tags: [esoterica] status: refined --- # Sacred Geometry (Hình Học Thiêng)"
+        "words": 2132,
+        "summary": "**Nguồn tham khảo:** Sách \"Luật Tâm Thức\" của Ngô Sa Thạch"
       },
       {
         "path": "esoterica/Vũ Trụ Học Phật Giáo.md",
@@ -3090,7 +3115,9 @@
         "path": "esoterica/Long Mạch.md",
         "title": "Long Mạch (Dragon Veins)",
         "domain": "esoterica",
-        "tags": [],
+        "tags": [
+          "esoterica"
+        ],
         "aliases": [],
         "headings": [
           "Long Mạch (Dragon Veins)",
@@ -3152,8 +3179,8 @@
           "science-tech/Năng Lượng Aether.md",
           "science-tech/Tần Số Schumann.md"
         ],
-        "words": 955,
-        "summary": "﻿--- title: \"Long Mạch (Dragon Veins)\" date: 2026-04-08 tags: [esoterica] status: refined --- # Long Mạch (Dragon Veins)"
+        "words": 942,
+        "summary": "**Long Mạch** là hệ thống các dòng năng lượng (sinh khí/chi) chảy trong lòng Trái Đất, tương tự kinh mạch trong cơ thể người. Feng shui gọi là \"dragon veins\", Western gọi là \"ley lines\"."
       },
       {
         "path": "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
@@ -3718,9 +3745,13 @@
       },
       {
         "path": "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-        "title": "Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness",
+        "title": "Gaia - Trái Đất Có Ý Thức",
         "domain": "esoterica",
-        "tags": [],
+        "tags": [
+          "ancient-wisdom",
+          "consciousness",
+          "esoterica"
+        ],
         "aliases": [],
         "headings": [
           "Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness",
@@ -3791,8 +3822,8 @@
           "MOC - Esoterica & Consciousness.md",
           "science-tech/Tần Số Schumann.md"
         ],
-        "words": 2064,
-        "summary": "﻿--- title: \"Gaia - Trái Đất Có Ý Thức\" date: 2026-04-29 tags: [esoterica, consciousness, ancient-wisdom] status: refined --- # Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness"
+        "words": 2046,
+        "summary": "Mọi nền văn minh cổ đại lớn trên thế giới — không có liên lạc với nhau — đều độc lập tôn thờ Trái Đất như một **ý thức sống**. Khoa học hiện đại đặt tên là Gaia Hypothesis (1972) và giả vờ đây là ý tưởng mới."
       },
       {
         "path": "esoterica/Tình Yêu Tỉnh Thức.md",
@@ -4365,7 +4396,9 @@
         "path": "esoterica/Thực Thể Cõi Trung Giới.md",
         "title": "Thực Thể Cõi Trung Giới (Astral Entities)",
         "domain": "esoterica",
-        "tags": [],
+        "tags": [
+          "esoterica"
+        ],
         "aliases": [],
         "headings": [
           "Thực Thể Cõi Trung Giới (Astral Entities)",
@@ -4425,8 +4458,8 @@
           "MOC - Esoterica & Consciousness.md",
           "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
         ],
-        "words": 753,
-        "summary": "﻿--- title: Thực Thể Cõi Trung Giới (Astral Entities) date: 2026-04-07 tags: [esoterica] status: refined --- # Thực Thể Cõi Trung Giới (Astral Entities)"
+        "words": 737,
+        "summary": "**Thực Thể Cõi Trung Giới** (Astral Entities) là các sinh linh tồn tại ở tần số ngoài phổ nhìn thấy của con người. Trong nhiều truyền thống được gọi là Archons, demons, djinn, ký sinh trùng năng lượng."
       },
       {
         "path": "esoterica/Núi Tu Di.md",
@@ -4549,6 +4582,7 @@
         "title": "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
         "domain": "esoterica",
         "tags": [
+          "esoterica",
           "gnosis",
           "healing",
           "jesus",
@@ -4601,8 +4635,8 @@
           "esoterica/Thánh Issa.md",
           "index.md"
         ],
-        "words": 918,
-        "summary": "﻿--- title: Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện date: 2026-04-08 tags: [esoterica] status: refined --- # Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện *Tags: #source-note #gnosis #occult #spirituality #healing #jesus #salt*"
+        "words": 900,
+        "summary": "Bài viết này là một kho tàng tri thức đa chiều, kết nối từ nguồn gốc của các thế lực vô hình (Tà linh), bí sử về Chúa Giêsu, giáo lý Ngộ đạo (Gnosis) cho đến cơ chế chữa lành sinh học bằng muối."
       },
       {
         "path": "esoterica/Vận Chín.md",
@@ -5026,8 +5060,12 @@
         "path": "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
         "title": "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng",
         "domain": "esoterica",
-        "tags": [],
-        "aliases": [],
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Deep Consciousness & Energy Layers"
+        ],
         "headings": [
           "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng",
           "Evidence Discipline / Cách Đọc",
@@ -5073,15 +5111,20 @@
           "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
         ],
         "backlinks": [],
-        "words": 909,
-        "summary": "﻿--- title: Mental Model - Tầng Sâu Nhận Thức & Năng Lượng aliases: [\"Deep Consciousness & Energy Layers\"] date: 2026-04-08 tags: [esoterica] status: refined --- # Mental Model - Tầng Sâu Nhận Thức & Năng Lượng"
+        "words": 887,
+        "summary": "Bản Mental Model này đi sâu vào cơ chế vận hành của con người ở tầng phi vật chất, kết nối giữa tâm lý học chiều sâu, di truyền học năng lượng và các hệ thống niềm tin cổ xưa."
       },
       {
         "path": "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
         "title": "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
         "domain": "esoterica",
-        "tags": [],
-        "aliases": [],
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Karma",
+          "Samsara and the Religion Matrix"
+        ],
         "headings": [
           "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
           "Evidence Discipline / Cách Đọc",
@@ -5124,8 +5167,8 @@
           "esoterica/Thánh Issa.md",
           "health/Virus và Kiếp Tật Dịch.md"
         ],
-        "words": 876,
-        "summary": "﻿--- title: Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo aliases: [\"Karma, Samsara and the Religion Matrix\"] date: 2026-04-08 tags: [esoterica] status: refined --- # Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo"
+        "words": 851,
+        "summary": "Bài viết đi sâu vào bản chất của quy luật Nhân quả, Luân hồi và sự can thiệp của các thế lực tà thần vào hệ thống niềm tin của nhân loại."
       },
       {
         "path": "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
@@ -5135,6 +5178,7 @@
           "ancient-history",
           "annunaki",
           "cabal",
+          "esoterica",
           "matrix",
           "nibiru",
           "source-note"
@@ -5178,8 +5222,8 @@
           "esoterica/Nibiru.md",
           "index.md"
         ],
-        "words": 770,
-        "summary": "﻿--- title: Nibiru và Nền Văn Minh Annunaki date: 2026-04-08 tags: [esoterica] status: refined --- # Nibiru và Nền Văn Minh Annunaki *Tags: #source-note #annunaki #nibiru #cabal #matrix #ancient-history*"
+        "words": 755,
+        "summary": "Tài liệu này tổng hợp giả thuyết về sự hiện diện của chủng tộc Annunaki, hành tinh Nibiru (Hành tinh X) và vai trò của lực lượng Cabal trong việc quản lý \"phòng thí nghiệm\" Trái Đất."
       },
       {
         "path": "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
@@ -5674,9 +5718,11 @@
       },
       {
         "path": "esoterica/Nibiru.md",
-        "title": "Nibiru (Hành Tinh X)",
+        "title": "Nibiru",
         "domain": "esoterica",
-        "tags": [],
+        "tags": [
+          "esoterica"
+        ],
         "aliases": [],
         "headings": [
           "Nibiru (Hành Tinh X)",
@@ -5720,8 +5766,8 @@
           "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
           "index.md"
         ],
-        "words": 749,
-        "summary": "﻿--- title: \"Nibiru\" date: 2026-04-08 tags: [esoterica] status: refined --- # Nibiru (Hành Tinh X)"
+        "words": 739,
+        "summary": "**Nibiru** (Planet X) là thiên thể bí ẩn được cho là có quỹ đạo elliptical cực kỳ dài (3,600 năm), định kỳ tiếp cận hệ Mặt Trời bên trong và gây ra các thảm họa trên Trái Đất."
       },
       {
         "path": "esoterica/Năng Lượng Natri.md",
@@ -5926,7 +5972,9 @@
         "path": "esoterica/Kỹ Thuật Thiền Định Kogi.md",
         "title": "Kỹ Thuật Thiền Định Kogi",
         "domain": "esoterica",
-        "tags": [],
+        "tags": [
+          "esoterica"
+        ],
         "aliases": [],
         "headings": [
           "Kỹ Thuật Thiền Định Kogi",
@@ -5970,15 +6018,16 @@
           "esoterica/Chakra.md",
           "esoterica/Gaia - Trái Đất Có Ý Thức.md"
         ],
-        "words": 916,
-        "summary": "﻿--- title: Kỹ Thuật Thiền Định Kogi date: 2026-04-08 tags: [esoterica] status: refined --- # Kỹ Thuật Thiền Định Kogi"
+        "words": 902,
+        "summary": "*Kogi Meditation Technique*"
       },
       {
         "path": "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-        "title": "Tartaria và Vạn Lý Trường Thành: Góc Nhìn Kinh Thế Ký",
+        "title": "Tartaria và Vạn Lý Trường Thành",
         "domain": "esoterica",
         "tags": [
           "buddhist-cosmology",
+          "esoterica",
           "flat-earth",
           "great-wall",
           "mount-meru",
@@ -6016,8 +6065,8 @@
           "MOC - Ancient Civilizations & Hidden History.md",
           "politics-conspiracy/Mudflood.md"
         ],
-        "words": 750,
-        "summary": "﻿--- title: Tartaria và Vạn Lý Trường Thành date: 2026-04-08 tags: [esoterica] status: refined --- # Tartaria và Vạn Lý Trường Thành: Góc Nhìn Kinh Thế Ký *Tags: #source-note #tartaria #great-wall #buddhist-cosmology #flat-earth #mount-meru*"
+        "words": 735,
+        "summary": "Bài viết kết nối các dữ kiện từ Kinh Thế Ký (Phật giáo) với nền văn minh Tartaria và công trình Vạn Lý Trường Thành, đưa ra một bản đồ vũ trụ học thay thế cho mô hình hiện đại."
       },
       {
         "path": "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
@@ -6070,9 +6119,11 @@
       },
       {
         "path": "esoterica/Thánh Issa.md",
-        "title": "Thánh Issa (Hành trình Tây Tạng của Chúa)",
+        "title": "Thánh Issa",
         "domain": "esoterica",
-        "tags": [],
+        "tags": [
+          "esoterica"
+        ],
         "aliases": [],
         "headings": [
           "Thánh Issa (Hành trình Tây Tạng của Chúa)",
@@ -6119,15 +6170,20 @@
           "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
           "index.md"
         ],
-        "words": 743,
-        "summary": "﻿--- title: \"Thánh Issa\" date: 2026-04-08 tags: [esoterica] status: refined --- # Thánh Issa (Hành trình Tây Tạng của Chúa)"
+        "words": 732,
+        "summary": "**Thánh Issa** là tên gọi của Chúa Giêsu trong các bản thảo cổ tại tu viện Hemis (Ladakh, Tây Tạng). Giải đáp câu hỏi: Jesus ở đâu từ 12-30 tuổi?"
       },
       {
         "path": "esoterica/Nỏ Thần.md",
         "title": "Nỏ Thần",
         "domain": "esoterica",
-        "tags": [],
-        "aliases": [],
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Linh Quang Kim Quy Thần Nỏ",
+          "Nỏ Thần"
+        ],
         "headings": [
           "Nỏ Thần",
           "Huyền Thoại",
@@ -6161,14 +6217,16 @@
           "esoterica/Thành Cổ Loa.md",
           "index.md"
         ],
-        "words": 749,
-        "summary": "﻿--- title: \"Nỏ Thần\" aliases: [\"Nỏ Thần\", \"Linh Quang Kim Quy Thần Nỏ\"] date: 2026-04-08 tags: [esoterica] status: refined --- # Nỏ Thần"
+        "words": 729,
+        "summary": "**Nỏ Thần** (còn gọi là Linh Quang Kim Quy Thần Nỏ) là vũ khí huyền thoại của An Dương Vương, tương truyền có khả năng bắn hàng ngàn mũi tên một lần, giúp Âu Lạc đánh bại quân Triệu Đà nhiều lần."
       },
       {
         "path": "esoterica/Thuật Giả Kim Của Newton.md",
         "title": "Thuật Giả Kim Của Newton",
         "domain": "esoterica",
-        "tags": [],
+        "tags": [
+          "esoterica"
+        ],
         "aliases": [],
         "headings": [
           "Thuật Giả Kim Của Newton",
@@ -6213,8 +6271,8 @@
           "science-tech/Walter Russell.md"
         ],
         "backlinks": [],
-        "words": 757,
-        "summary": "﻿--- title: \"Thuật Giả Kim Của Newton\" date: 2026-04-07 tags: [esoterica] status: refined --- # Thuật Giả Kim Của Newton"
+        "words": 743,
+        "summary": "**Sir Isaac Newton** (1642-1727) — \"cha đẻ của vật lý hiện đại\" — thực chất dành phần lớn cuộc đời cho Huyền học (Occult) và Thuật Giả Kim (Alchemy), không phải khoa học duy vật."
       },
       {
         "path": "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
@@ -6262,9 +6320,11 @@
       },
       {
         "path": "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-        "title": "Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan",
+        "title": "Theo Dấu Tartaria - Tác Giả Kan",
         "domain": "esoterica",
-        "tags": [],
+        "tags": [
+          "esoterica"
+        ],
         "aliases": [],
         "headings": [
           "Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan",
@@ -6291,8 +6351,8 @@
         "backlinks": [
           "politics-conspiracy/Mudflood.md"
         ],
-        "words": 1035,
-        "summary": "﻿--- title: Theo Dấu Tartaria - Tác Giả Kan date: 2026-04-07 tags: [esoterica] status: refined --- # Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan"
+        "words": 1020,
+        "summary": "Chuỗi bài viết **Theo Dấu Tartaria** (Tracking Tartaria) của Thượng sĩ Kan (Kiên Trần) được thực hiện trong khoảng thời gian 2021-2022. Đây là một bộ tài liệu mang tính chất giải ảo lịch sử cực kỳ chi tiết, đưa ra những góc nhìn sắc bén dưới lăng kính của Kho…"
       }
     ],
     "health": [
@@ -6646,8 +6706,13 @@
         "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
         "domain": "health",
-        "tags": [],
-        "aliases": [],
+        "tags": [
+          "health"
+        ],
+        "aliases": [
+          "Seeing Through Western Medicine",
+          "They Live Medicine"
+        ],
         "headings": [
           "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
           "How To Read This / Cách Đọc Bài Này",
@@ -6720,8 +6785,8 @@
           "science-tech/index.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
-        "words": 2310,
-        "summary": "﻿--- title: \"Kính Chiếu Yêu — Nhìn Thấu Tây Y\" aliases: [\"They Live Medicine\", \"Seeing Through Western Medicine\"] date: 2026-04-25 tags: [health] status: refined --- # Kính Chiếu Yêu — Nhìn Thấu Tây Y"
+        "words": 2286,
+        "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
       },
       {
         "path": "health/René Quinton và Huyết Tương Biển.md",
@@ -6789,7 +6854,7 @@
       },
       {
         "path": "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "title": "Vận Chín, Người Kogi và Ma Trận Y Tế - Nhận Thức",
+        "title": "Vận Chín, Người Kogi và Ma Trận Y Tế",
         "domain": "health",
         "tags": [
           "awakening",
@@ -6852,8 +6917,8 @@
           "health/Su That Ve Benh Dai Va Vac Xin.md",
           "MOC - Health Sovereignty.md"
         ],
-        "words": 923,
-        "summary": "﻿--- title: Vận Chín, Người Kogi và Ma Trận Y Tế date: 2026-04-08 tags: [health] status: refined ---"
+        "words": 905,
+        "summary": "---"
       },
       {
         "path": "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
@@ -6980,6 +7045,7 @@
         "tags": [
           "age-of-aquarius",
           "healing",
+          "health",
           "occult",
           "prophecy",
           "salt",
@@ -7028,8 +7094,8 @@
           "health/Y Tế Tự Nhiên.md",
           "MOC - Health Sovereignty.md"
         ],
-        "words": 703,
-        "summary": "﻿--- title: \"Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh\" date: 2026-04-08 tags: [health] status: refined ---"
+        "words": 681,
+        "summary": "---"
       },
       {
         "path": "health/Thuốc Hóa Dầu.md",
@@ -7372,8 +7438,8 @@
         "backlinks": [
           "health/index.md"
         ],
-        "words": 859,
-        "summary": "﻿--- title: Giải Mã Vũ Trụ - Y Tế - Tâm Linh date: 2026-04-08 tags: [health] status: refined ---"
+        "words": 842,
+        "summary": "---"
       },
       {
         "path": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
@@ -7654,8 +7720,8 @@
           "politics-conspiracy/Kiểm Soát Tâm Trí.md"
         ],
         "backlinks": [],
-        "words": 1455,
-        "summary": "﻿--- title: Sự Thật Về Bệnh Dại Và Vắc Xin (Góc Nhìn Terrain Theory) date: 2026-04-17 updated: 2026-04-19 tags: [health, terrain-theory, vaccines, toxemia, pasteur, geison] status: refined ---"
+        "words": 1424,
+        "summary": "---"
       },
       {
         "path": "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
@@ -7704,11 +7770,12 @@
       },
       {
         "path": "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
-        "title": "Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận",
+        "title": "Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận",
         "domain": "health",
         "tags": [
           "anti-matrix",
           "awakening",
+          "health",
           "lifestyle",
           "mental-model",
           "strategy"
@@ -7747,8 +7814,8 @@
           "science-tech/Tần Số Schumann.md"
         ],
         "backlinks": [],
-        "words": 903,
-        "summary": "﻿--- title: Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận date: 2026-04-08 tags: [health] status: refined ---"
+        "words": 882,
+        "summary": "---"
       },
       {
         "path": "health/Suy Thận.md",
@@ -8847,8 +8914,15 @@
         "path": "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "title": "S.E.X Và Tâm Lý Học Jung",
         "domain": "mental-models",
-        "tags": [],
-        "aliases": [],
+        "tags": [
+          "esoterica",
+          "mental-model",
+          "psychology"
+        ],
+        "aliases": [
+          "S.E.X và Jung",
+          "Sacred Energy eXchange and Jung"
+        ],
         "headings": [
           "S.E.X Và Tâm Lý Học Jung",
           "1. Định Nghĩa Lại S.E.X / Redefining S.E.X",
@@ -8926,8 +9000,8 @@
           "mental-models/Nguyên Mẫu.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
         ],
-        "words": 1436,
-        "summary": "﻿--- title: \"S.E.X Và Tâm Lý Học Jung\" aliases: [\"Sacred Energy eXchange and Jung\", \"S.E.X và Jung\"] date: 2026-04-07 tags: [mental-model, esoterica, psychology] status: refined ---"
+        "words": 1405,
+        "summary": "Bài viết này phân tích **S.E.X (Sacred Energy eXchange)** dưới góc nhìn Tâm Lý Học Jung, kết hợp với khoa học hiện đại về Microchimerism và truyền thống huyền học phương Đông."
       },
       {
         "path": "mental-models/Thông Minh vs Trí Tuệ.md",
@@ -10117,7 +10191,11 @@
         "path": "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "title": "Kiểm Soát Tâm Trí (Mind Control)",
         "domain": "politics-conspiracy",
-        "tags": [],
+        "tags": [
+          "consciousness",
+          "politics-conspiracy",
+          "propaganda"
+        ],
         "aliases": [],
         "headings": [
           "Kiểm Soát Tâm Trí (Mind Control)",
@@ -10202,8 +10280,8 @@
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
-        "words": 1405,
-        "summary": "﻿--- title: \"Kiểm Soát Tâm Trí (Mind Control)\" date: 2026-04-07 tags: [politics-conspiracy, propaganda, consciousness] status: refined related: - \"MOC - Epistemology & Propaganda\" - \"Elite\" - \"Ma Trận\" - \"Báo Cáo 2030\" - \"Bộ Tam Thánh Mind Control - NASA Disn…"
+        "words": 1360,
+        "summary": "**Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…"
       },
       {
         "path": "politics-conspiracy/index.md",
@@ -10590,8 +10668,15 @@
         "path": "politics-conspiracy/Bức Tường Băng.md",
         "title": "Bức Tường Băng (Ice Wall)",
         "domain": "politics-conspiracy",
-        "tags": [],
-        "aliases": [],
+        "tags": [
+          "esoterica",
+          "politics-conspiracy"
+        ],
+        "aliases": [
+          "Antarctic Ice Wall",
+          "Bức Tường Bang",
+          "Ice Wall"
+        ],
         "headings": [
           "Evidence Discipline / Cách Đọc Claim",
           "Source Register / Nguồn Nên Đối Chiếu",
@@ -10660,8 +10745,8 @@
           "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
           "politics-conspiracy/Trái Đất Phẳng.md"
         ],
-        "words": 1252,
-        "summary": "﻿--- title: \"Bức Tường Băng (Ice Wall)\" aliases: [\"Ice Wall\", \"Antarctic Ice Wall\", \"Bức Tường Bang\"] date: 2026-04-07 tags: [politics-conspiracy, esoterica] status: refined related: - \"Thuyết Trái Đất Phẳng\" - \"Trái Đất Phẳng\" - \"Nam Cực - Bí Mật Được Canh G…"
+        "words": 1212,
+        "summary": "---"
       },
       {
         "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
@@ -11455,7 +11540,9 @@
         "path": "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
         "title": "Điều mà nền giáo dục và chính phủ không dạy bạn",
         "domain": "politics-conspiracy",
-        "tags": [],
+        "tags": [
+          "politics-conspiracy"
+        ],
         "aliases": [],
         "headings": [
           "Evidence Discipline / Cách Đọc Claim",
@@ -11492,8 +11579,8 @@
           "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md"
         ],
-        "words": 1187,
-        "summary": "﻿--- title: Điều mà nền giáo dục và chính phủ không dạy bạn date: 2026-04-07 tags: [politics-conspiracy] status: refined ---"
+        "words": 1166,
+        "summary": "---"
       },
       {
         "path": "politics-conspiracy/MindGeek.md",
@@ -13825,6 +13912,7 @@
           "buddhism",
           "karma",
           "occult",
+          "science-tech",
           "source-note",
           "spirituality"
         ],
@@ -13872,8 +13960,8 @@
           "mental-models/index.md",
           "science-tech/index.md"
         ],
-        "words": 992,
-        "summary": "﻿--- title: Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại date: 2026-04-08 tags: [science-tech] status: refined ---"
+        "words": 971,
+        "summary": "---"
       },
       {
         "path": "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -13885,6 +13973,7 @@
           "monad",
           "natural-disasters",
           "philosophy",
+          "science-tech",
           "source-note",
           "spirituality"
         ],
@@ -13931,8 +14020,8 @@
           "esoterica/Long Mạch.md",
           "science-tech/index.md"
         ],
-        "words": 980,
-        "summary": "﻿--- title: Giải Mã Thiên Tai, Long Mạch và Triết Học Monad date: 2026-04-08 tags: [science-tech] status: refined ---"
+        "words": 960,
+        "summary": "---"
       },
       {
         "path": "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
@@ -15423,10 +15512,19 @@
     },
     {
       "path": "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-      "title": "Ma Trận — Giải Phẫu Hoàn Chỉnh",
+      "title": "Ma Trận - Giải Phẫu Hoàn Chỉnh",
       "domain": "esoterica",
-      "tags": [],
-      "aliases": [],
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "matrix",
+        "meta"
+      ],
+      "aliases": [
+        "Complete Matrix Anatomy",
+        "Matrix Breakdown",
+        "Thoát Khỏi Ma Trận"
+      ],
       "headings": [
         "Ma Trận — Giải Phẫu Hoàn Chỉnh",
         "Evidence Discipline / Cách Đọc Claim",
@@ -15552,14 +15650,18 @@
         "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
       ],
-      "words": 2007,
-      "summary": "﻿--- title: \"Ma Trận - Giải Phẫu Hoàn Chỉnh\" aliases: [\"Complete Matrix Anatomy\", \"Thoát Khỏi Ma Trận\", \"Matrix Breakdown\"] date: 2026-04-29 tags: [esoterica, matrix, consciousness, meta] status: refined ---"
+      "words": 1979,
+      "summary": "Bài viết này là **bản tổng hợp hoàn chỉnh** về Ma Trận — cấu trúc, các lớp kiểm soát, mục đích tồn tại, và **con đường thoát ra**. Đây là meta-framework xâu chuỗi toàn bộ kiến thức trong vault."
     },
     {
       "path": "politics-conspiracy/Kiểm Soát Tâm Trí.md",
       "title": "Kiểm Soát Tâm Trí (Mind Control)",
       "domain": "politics-conspiracy",
-      "tags": [],
+      "tags": [
+        "consciousness",
+        "politics-conspiracy",
+        "propaganda"
+      ],
       "aliases": [],
       "headings": [
         "Kiểm Soát Tâm Trí (Mind Control)",
@@ -15644,8 +15746,8 @@
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 1405,
-      "summary": "﻿--- title: \"Kiểm Soát Tâm Trí (Mind Control)\" date: 2026-04-07 tags: [politics-conspiracy, propaganda, consciousness] status: refined related: - \"MOC - Epistemology & Propaganda\" - \"Elite\" - \"Ma Trận\" - \"Báo Cáo 2030\" - \"Bộ Tam Thánh Mind Control - NASA Disn…"
+      "words": 1360,
+      "summary": "**Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…"
     },
     {
       "path": "Cách Đọc Red Pill Wiki.md",
@@ -17248,11 +17350,12 @@
     },
     {
       "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-      "title": "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức",
+      "title": "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
       "domain": "esoterica",
       "tags": [
         "awakening",
         "energy",
+        "esoterica",
         "gnosis",
         "matrix",
         "mental-model",
@@ -17339,8 +17442,8 @@
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Mental Model.md"
       ],
-      "words": 996,
-      "summary": "﻿--- title: Mental Model - Kiến Trúc Bẻ Khóa Ma Trận date: 2026-04-08 tags: [esoterica] status: refined --- # Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức *Tags: #mental-model #matrix #awakening #energy #gnosis #truth*"
+      "words": 979,
+      "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
     }
   ],
   "orphans": [
@@ -17553,8 +17656,12 @@
       "path": "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
       "title": "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng",
       "domain": "esoterica",
-      "tags": [],
-      "aliases": [],
+      "tags": [
+        "esoterica"
+      ],
+      "aliases": [
+        "Deep Consciousness & Energy Layers"
+      ],
       "headings": [
         "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng",
         "Evidence Discipline / Cách Đọc",
@@ -17600,8 +17707,8 @@
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
       "backlinks": [],
-      "words": 909,
-      "summary": "﻿--- title: Mental Model - Tầng Sâu Nhận Thức & Năng Lượng aliases: [\"Deep Consciousness & Energy Layers\"] date: 2026-04-08 tags: [esoterica] status: refined --- # Mental Model - Tầng Sâu Nhận Thức & Năng Lượng"
+      "words": 887,
+      "summary": "Bản Mental Model này đi sâu vào cơ chế vận hành của con người ở tầng phi vật chất, kết nối giữa tâm lý học chiều sâu, di truyền học năng lượng và các hệ thống niềm tin cổ xưa."
     },
     {
       "path": "esoterica/Cabal.md",
@@ -17717,16 +17824,17 @@
         "politics-conspiracy/Kiểm Soát Tâm Trí.md"
       ],
       "backlinks": [],
-      "words": 1455,
-      "summary": "﻿--- title: Sự Thật Về Bệnh Dại Và Vắc Xin (Góc Nhìn Terrain Theory) date: 2026-04-17 updated: 2026-04-19 tags: [health, terrain-theory, vaccines, toxemia, pasteur, geison] status: refined ---"
+      "words": 1424,
+      "summary": "---"
     },
     {
       "path": "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
-      "title": "Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận",
+      "title": "Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận",
       "domain": "health",
       "tags": [
         "anti-matrix",
         "awakening",
+        "health",
         "lifestyle",
         "mental-model",
         "strategy"
@@ -17765,14 +17873,16 @@
         "science-tech/Tần Số Schumann.md"
       ],
       "backlinks": [],
-      "words": 903,
-      "summary": "﻿--- title: Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận date: 2026-04-08 tags: [health] status: refined ---"
+      "words": 882,
+      "summary": "---"
     },
     {
       "path": "esoterica/Thuật Giả Kim Của Newton.md",
       "title": "Thuật Giả Kim Của Newton",
       "domain": "esoterica",
-      "tags": [],
+      "tags": [
+        "esoterica"
+      ],
       "aliases": [],
       "headings": [
         "Thuật Giả Kim Của Newton",
@@ -17817,8 +17927,8 @@
         "science-tech/Walter Russell.md"
       ],
       "backlinks": [],
-      "words": 757,
-      "summary": "﻿--- title: \"Thuật Giả Kim Của Newton\" date: 2026-04-07 tags: [esoterica] status: refined --- # Thuật Giả Kim Của Newton"
+      "words": 743,
+      "summary": "**Sir Isaac Newton** (1642-1727) — \"cha đẻ của vật lý hiện đại\" — thực chất dành phần lớn cuộc đời cho Huyền học (Occult) và Thuật Giả Kim (Alchemy), không phải khoa học duy vật."
     },
     {
       "path": "health/Plasma Quinton.md",
@@ -18092,27 +18202,27 @@
   "topTags": [
     [
       "esoterica",
-      61
+      81
     ],
     [
       "science-tech",
-      32
-    ],
-    [
-      "mental-model",
-      27
+      34
     ],
     [
       "health",
-      26
+      29
+    ],
+    [
+      "mental-model",
+      28
     ],
     [
       "consciousness",
-      24
+      28
     ],
     [
       "politics-conspiracy",
-      19
+      22
     ],
     [
       "crypto-finance",
@@ -18120,7 +18230,11 @@
     ],
     [
       "psychology",
-      12
+      13
+    ],
+    [
+      "matrix",
+      11
     ],
     [
       "symbolism",
@@ -18128,10 +18242,6 @@
     ],
     [
       "sovereignty",
-      9
-    ],
-    [
-      "matrix",
       9
     ],
     [
@@ -18183,6 +18293,10 @@
       6
     ],
     [
+      "meta",
+      5
+    ],
+    [
       "occult",
       5
     ],
@@ -18191,15 +18305,15 @@
       5
     ],
     [
+      "propaganda",
+      5
+    ],
+    [
       "privacy",
       4
     ],
     [
       "dopamine",
-      4
-    ],
-    [
-      "meta",
       4
     ],
     [
@@ -18220,10 +18334,6 @@
     ],
     [
       "jung",
-      4
-    ],
-    [
-      "propaganda",
       4
     ],
     [
@@ -18375,6 +18485,10 @@
       1
     ],
     [
+      "ancient-wisdom",
+      1
+    ],
+    [
       "reincarnation",
       1
     ],
@@ -18484,10 +18598,6 @@
     ],
     [
       "meaning",
-      1
-    ],
-    [
-      "vietnamese-culture",
       1
     ]
   ],
@@ -21541,9 +21651,13 @@
     },
     "esoterica/Gaia - Trái Đất Có Ý Thức.md": {
       "path": "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-      "title": "Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness",
+      "title": "Gaia - Trái Đất Có Ý Thức",
       "domain": "esoterica",
-      "tags": [],
+      "tags": [
+        "ancient-wisdom",
+        "consciousness",
+        "esoterica"
+      ],
       "aliases": [],
       "headings": [
         "Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness",
@@ -21614,8 +21728,8 @@
         "MOC - Esoterica & Consciousness.md",
         "science-tech/Tần Số Schumann.md"
       ],
-      "words": 2064,
-      "summary": "﻿--- title: \"Gaia - Trái Đất Có Ý Thức\" date: 2026-04-29 tags: [esoterica, consciousness, ancient-wisdom] status: refined --- # Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness"
+      "words": 2046,
+      "summary": "Mọi nền văn minh cổ đại lớn trên thế giới — không có liên lạc với nhau — đều độc lập tôn thờ Trái Đất như một **ý thức sống**. Khoa học hiện đại đặt tên là Gaia Hypothesis (1972) và giả vờ đây là ý tưởng mới."
     },
     "esoterica/Gematria.md": {
       "path": "esoterica/Gematria.md",
@@ -22160,7 +22274,9 @@
       "path": "esoterica/Kỹ Thuật Thiền Định Kogi.md",
       "title": "Kỹ Thuật Thiền Định Kogi",
       "domain": "esoterica",
-      "tags": [],
+      "tags": [
+        "esoterica"
+      ],
       "aliases": [],
       "headings": [
         "Kỹ Thuật Thiền Định Kogi",
@@ -22204,8 +22320,8 @@
         "esoterica/Chakra.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md"
       ],
-      "words": 916,
-      "summary": "﻿--- title: Kỹ Thuật Thiền Định Kogi date: 2026-04-08 tags: [esoterica] status: refined --- # Kỹ Thuật Thiền Định Kogi"
+      "words": 902,
+      "summary": "*Kogi Meditation Technique*"
     },
     "esoterica/Lemuria.md": {
       "path": "esoterica/Lemuria.md",
@@ -22262,7 +22378,9 @@
       "path": "esoterica/Long Mạch.md",
       "title": "Long Mạch (Dragon Veins)",
       "domain": "esoterica",
-      "tags": [],
+      "tags": [
+        "esoterica"
+      ],
       "aliases": [],
       "headings": [
         "Long Mạch (Dragon Veins)",
@@ -22324,15 +22442,23 @@
         "science-tech/Năng Lượng Aether.md",
         "science-tech/Tần Số Schumann.md"
       ],
-      "words": 955,
-      "summary": "﻿--- title: \"Long Mạch (Dragon Veins)\" date: 2026-04-08 tags: [esoterica] status: refined --- # Long Mạch (Dragon Veins)"
+      "words": 942,
+      "summary": "**Long Mạch** là hệ thống các dòng năng lượng (sinh khí/chi) chảy trong lòng Trái Đất, tương tự kinh mạch trong cơ thể người. Feng shui gọi là \"dragon veins\", Western gọi là \"ley lines\"."
     },
     "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md": {
       "path": "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-      "title": "Loosh — Năng Lượng Thu Hoạch Từ Con Người",
+      "title": "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
       "domain": "esoterica",
-      "tags": [],
-      "aliases": [],
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "matrix"
+      ],
+      "aliases": [
+        "Energy Harvesting",
+        "Loosh",
+        "Thu Hoạch Năng Lượng"
+      ],
       "headings": [
         "Loosh — Năng Lượng Thu Hoạch Từ Con Người",
         "Nguồn Gốc Thuật Ngữ / Origin of the Term",
@@ -22411,8 +22537,8 @@
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "MOC - Esoterica & Consciousness.md"
       ],
-      "words": 1847,
-      "summary": "﻿--- title: \"Loosh - Năng Lượng Thu Hoạch Từ Con Người\" aliases: [\"Loosh\", \"Energy Harvesting\", \"Thu Hoạch Năng Lượng\"] date: 2026-04-29 tags: [esoterica, consciousness, matrix] status: refined ---"
+      "words": 1820,
+      "summary": "**Loosh** là thuật ngữ do Robert Monroe đặt ra trong sách *Far Journeys* (1985), mô tả một loại năng lượng phát ra từ con người — đặc biệt là năng lượng cảm xúc cường độ cao — được các thực thể chiều cao hơn thu hoạch."
     },
     "esoterica/Luân Hồi.md": {
       "path": "esoterica/Luân Hồi.md",
@@ -22592,10 +22718,19 @@
     },
     "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md": {
       "path": "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-      "title": "Ma Trận — Giải Phẫu Hoàn Chỉnh",
+      "title": "Ma Trận - Giải Phẫu Hoàn Chỉnh",
       "domain": "esoterica",
-      "tags": [],
-      "aliases": [],
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "matrix",
+        "meta"
+      ],
+      "aliases": [
+        "Complete Matrix Anatomy",
+        "Matrix Breakdown",
+        "Thoát Khỏi Ma Trận"
+      ],
       "headings": [
         "Ma Trận — Giải Phẫu Hoàn Chỉnh",
         "Evidence Discipline / Cách Đọc Claim",
@@ -22721,8 +22856,8 @@
         "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
       ],
-      "words": 2007,
-      "summary": "﻿--- title: \"Ma Trận - Giải Phẫu Hoàn Chỉnh\" aliases: [\"Complete Matrix Anatomy\", \"Thoát Khỏi Ma Trận\", \"Matrix Breakdown\"] date: 2026-04-29 tags: [esoterica, matrix, consciousness, meta] status: refined ---"
+      "words": 1979,
+      "summary": "Bài viết này là **bản tổng hợp hoàn chỉnh** về Ma Trận — cấu trúc, các lớp kiểm soát, mục đích tồn tại, và **con đường thoát ra**. Đây là meta-framework xâu chuỗi toàn bộ kiến thức trong vault."
     },
     "esoterica/Ma Trận.md": {
       "path": "esoterica/Ma Trận.md",
@@ -22977,11 +23112,12 @@
     },
     "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md": {
       "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-      "title": "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức",
+      "title": "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
       "domain": "esoterica",
       "tags": [
         "awakening",
         "energy",
+        "esoterica",
         "gnosis",
         "matrix",
         "mental-model",
@@ -23068,15 +23204,19 @@
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Mental Model.md"
       ],
-      "words": 996,
-      "summary": "﻿--- title: Mental Model - Kiến Trúc Bẻ Khóa Ma Trận date: 2026-04-08 tags: [esoterica] status: refined --- # Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức *Tags: #mental-model #matrix #awakening #energy #gnosis #truth*"
+      "words": 979,
+      "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
     },
     "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md": {
       "path": "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
       "title": "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng",
       "domain": "esoterica",
-      "tags": [],
-      "aliases": [],
+      "tags": [
+        "esoterica"
+      ],
+      "aliases": [
+        "Deep Consciousness & Energy Layers"
+      ],
       "headings": [
         "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng",
         "Evidence Discipline / Cách Đọc",
@@ -23122,8 +23262,8 @@
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
       "backlinks": [],
-      "words": 909,
-      "summary": "﻿--- title: Mental Model - Tầng Sâu Nhận Thức & Năng Lượng aliases: [\"Deep Consciousness & Energy Layers\"] date: 2026-04-08 tags: [esoterica] status: refined --- # Mental Model - Tầng Sâu Nhận Thức & Năng Lượng"
+      "words": 887,
+      "summary": "Bản Mental Model này đi sâu vào cơ chế vận hành của con người ở tầng phi vật chất, kết nối giữa tâm lý học chiều sâu, di truyền học năng lượng và các hệ thống niềm tin cổ xưa."
     },
     "esoterica/Monad.md": {
       "path": "esoterica/Monad.md",
@@ -23423,8 +23563,13 @@
       "path": "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
       "title": "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
       "domain": "esoterica",
-      "tags": [],
-      "aliases": [],
+      "tags": [
+        "esoterica"
+      ],
+      "aliases": [
+        "Karma",
+        "Samsara and the Religion Matrix"
+      ],
       "headings": [
         "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
         "Evidence Discipline / Cách Đọc",
@@ -23467,8 +23612,8 @@
         "esoterica/Thánh Issa.md",
         "health/Virus và Kiếp Tật Dịch.md"
       ],
-      "words": 876,
-      "summary": "﻿--- title: Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo aliases: [\"Karma, Samsara and the Religion Matrix\"] date: 2026-04-08 tags: [esoterica] status: refined --- # Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo"
+      "words": 851,
+      "summary": "Bài viết đi sâu vào bản chất của quy luật Nhân quả, Luân hồi và sự can thiệp của các thế lực tà thần vào hệ thống niềm tin của nhân loại."
     },
     "esoterica/Nhân Quả.md": {
       "path": "esoterica/Nhân Quả.md",
@@ -23536,6 +23681,7 @@
         "ancient-history",
         "annunaki",
         "cabal",
+        "esoterica",
         "matrix",
         "nibiru",
         "source-note"
@@ -23579,14 +23725,16 @@
         "esoterica/Nibiru.md",
         "index.md"
       ],
-      "words": 770,
-      "summary": "﻿--- title: Nibiru và Nền Văn Minh Annunaki date: 2026-04-08 tags: [esoterica] status: refined --- # Nibiru và Nền Văn Minh Annunaki *Tags: #source-note #annunaki #nibiru #cabal #matrix #ancient-history*"
+      "words": 755,
+      "summary": "Tài liệu này tổng hợp giả thuyết về sự hiện diện của chủng tộc Annunaki, hành tinh Nibiru (Hành tinh X) và vai trò của lực lượng Cabal trong việc quản lý \"phòng thí nghiệm\" Trái Đất."
     },
     "esoterica/Nibiru.md": {
       "path": "esoterica/Nibiru.md",
-      "title": "Nibiru (Hành Tinh X)",
+      "title": "Nibiru",
       "domain": "esoterica",
-      "tags": [],
+      "tags": [
+        "esoterica"
+      ],
       "aliases": [],
       "headings": [
         "Nibiru (Hành Tinh X)",
@@ -23630,8 +23778,8 @@
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
         "index.md"
       ],
-      "words": 749,
-      "summary": "﻿--- title: \"Nibiru\" date: 2026-04-08 tags: [esoterica] status: refined --- # Nibiru (Hành Tinh X)"
+      "words": 739,
+      "summary": "**Nibiru** (Planet X) là thiên thể bí ẩn được cho là có quỹ đạo elliptical cực kỳ dài (3,600 năm), định kỳ tiếp cận hệ Mặt Trời bên trong và gây ra các thảm họa trên Trái Đất."
     },
     "esoterica/Núi Tu Di.md": {
       "path": "esoterica/Núi Tu Di.md",
@@ -23818,8 +23966,13 @@
       "path": "esoterica/Nỏ Thần.md",
       "title": "Nỏ Thần",
       "domain": "esoterica",
-      "tags": [],
-      "aliases": [],
+      "tags": [
+        "esoterica"
+      ],
+      "aliases": [
+        "Linh Quang Kim Quy Thần Nỏ",
+        "Nỏ Thần"
+      ],
       "headings": [
         "Nỏ Thần",
         "Huyền Thoại",
@@ -23853,8 +24006,8 @@
         "esoterica/Thành Cổ Loa.md",
         "index.md"
       ],
-      "words": 749,
-      "summary": "﻿--- title: \"Nỏ Thần\" aliases: [\"Nỏ Thần\", \"Linh Quang Kim Quy Thần Nỏ\"] date: 2026-04-08 tags: [esoterica] status: refined --- # Nỏ Thần"
+      "words": 729,
+      "summary": "**Nỏ Thần** (còn gọi là Linh Quang Kim Quy Thần Nỏ) là vũ khí huyền thoại của An Dương Vương, tương truyền có khả năng bắn hàng ngàn mũi tên một lần, giúp Âu Lạc đánh bại quân Triệu Đà nhiều lần."
     },
     "esoterica/Phong Thủy.md": {
       "path": "esoterica/Phong Thủy.md",
@@ -24101,10 +24254,17 @@
     },
     "esoterica/Sacred Geometry.md": {
       "path": "esoterica/Sacred Geometry.md",
-      "title": "Sacred Geometry (Hình Học Thiêng)",
+      "title": "Sacred Geometry",
       "domain": "esoterica",
-      "tags": [],
-      "aliases": [],
+      "tags": [
+        "esoterica"
+      ],
+      "aliases": [
+        "Hình Học Thiêng",
+        "Hình Học Thiêng Liêng",
+        "Sacred Geometry",
+        "Sacred Geometry (Hình Học Thiêng)"
+      ],
       "headings": [
         "Sacred Geometry (Hình Học Thiêng)",
         "Hình Ảnh / Images",
@@ -24185,8 +24345,8 @@
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Esoterica & Consciousness.md"
       ],
-      "words": 2158,
-      "summary": "﻿--- title: \"Sacred Geometry\" aliases: [\"Sacred Geometry\", \"Hình Học Thiêng\", \"Hình Học Thiêng Liêng\", \"Sacred Geometry (Hình Học Thiêng)\"] date: 2026-04-26 tags: [esoterica] status: refined --- # Sacred Geometry (Hình Học Thiêng)"
+      "words": 2132,
+      "summary": "**Nguồn tham khảo:** Sách \"Luật Tâm Thức\" của Ngô Sa Thạch"
     },
     "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md": {
       "path": "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
@@ -24574,10 +24734,11 @@
     },
     "esoterica/Tartaria và Vạn Lý Trường Thành.md": {
       "path": "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-      "title": "Tartaria và Vạn Lý Trường Thành: Góc Nhìn Kinh Thế Ký",
+      "title": "Tartaria và Vạn Lý Trường Thành",
       "domain": "esoterica",
       "tags": [
         "buddhist-cosmology",
+        "esoterica",
         "flat-earth",
         "great-wall",
         "mount-meru",
@@ -24615,8 +24776,8 @@
         "MOC - Ancient Civilizations & Hidden History.md",
         "politics-conspiracy/Mudflood.md"
       ],
-      "words": 750,
-      "summary": "﻿--- title: Tartaria và Vạn Lý Trường Thành date: 2026-04-08 tags: [esoterica] status: refined --- # Tartaria và Vạn Lý Trường Thành: Góc Nhìn Kinh Thế Ký *Tags: #source-note #tartaria #great-wall #buddhist-cosmology #flat-earth #mount-meru*"
+      "words": 735,
+      "summary": "Bài viết kết nối các dữ kiện từ Kinh Thế Ký (Phật giáo) với nền văn minh Tartaria và công trình Vạn Lý Trường Thành, đưa ra một bản đồ vũ trụ học thay thế cho mô hình hiện đại."
     },
     "esoterica/Tartaria.md": {
       "path": "esoterica/Tartaria.md",
@@ -24687,9 +24848,11 @@
     },
     "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md": {
       "path": "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-      "title": "Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan",
+      "title": "Theo Dấu Tartaria - Tác Giả Kan",
       "domain": "esoterica",
-      "tags": [],
+      "tags": [
+        "esoterica"
+      ],
       "aliases": [],
       "headings": [
         "Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan",
@@ -24716,8 +24879,8 @@
       "backlinks": [
         "politics-conspiracy/Mudflood.md"
       ],
-      "words": 1035,
-      "summary": "﻿--- title: Theo Dấu Tartaria - Tác Giả Kan date: 2026-04-07 tags: [esoterica] status: refined --- # Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan"
+      "words": 1020,
+      "summary": "Chuỗi bài viết **Theo Dấu Tartaria** (Tracking Tartaria) của Thượng sĩ Kan (Kiên Trần) được thực hiện trong khoảng thời gian 2021-2022. Đây là một bộ tài liệu mang tính chất giải ảo lịch sử cực kỳ chi tiết, đưa ra những góc nhìn sắc bén dưới lăng kính của Kho…"
     },
     "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md": {
       "path": "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
@@ -24809,7 +24972,9 @@
       "path": "esoterica/Thuật Giả Kim Của Newton.md",
       "title": "Thuật Giả Kim Của Newton",
       "domain": "esoterica",
-      "tags": [],
+      "tags": [
+        "esoterica"
+      ],
       "aliases": [],
       "headings": [
         "Thuật Giả Kim Của Newton",
@@ -24854,8 +25019,8 @@
         "science-tech/Walter Russell.md"
       ],
       "backlinks": [],
-      "words": 757,
-      "summary": "﻿--- title: \"Thuật Giả Kim Của Newton\" date: 2026-04-07 tags: [esoterica] status: refined --- # Thuật Giả Kim Của Newton"
+      "words": 743,
+      "summary": "**Sir Isaac Newton** (1642-1727) — \"cha đẻ của vật lý hiện đại\" — thực chất dành phần lớn cuộc đời cho Huyền học (Occult) và Thuật Giả Kim (Alchemy), không phải khoa học duy vật."
     },
     "esoterica/Thành Cổ Loa.md": {
       "path": "esoterica/Thành Cổ Loa.md",
@@ -24914,9 +25079,11 @@
     },
     "esoterica/Thánh Issa.md": {
       "path": "esoterica/Thánh Issa.md",
-      "title": "Thánh Issa (Hành trình Tây Tạng của Chúa)",
+      "title": "Thánh Issa",
       "domain": "esoterica",
-      "tags": [],
+      "tags": [
+        "esoterica"
+      ],
       "aliases": [],
       "headings": [
         "Thánh Issa (Hành trình Tây Tạng của Chúa)",
@@ -24963,14 +25130,16 @@
         "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
         "index.md"
       ],
-      "words": 743,
-      "summary": "﻿--- title: \"Thánh Issa\" date: 2026-04-08 tags: [esoterica] status: refined --- # Thánh Issa (Hành trình Tây Tạng của Chúa)"
+      "words": 732,
+      "summary": "**Thánh Issa** là tên gọi của Chúa Giêsu trong các bản thảo cổ tại tu viện Hemis (Ladakh, Tây Tạng). Giải đáp câu hỏi: Jesus ở đâu từ 12-30 tuổi?"
     },
     "esoterica/Thực Thể Cõi Trung Giới.md": {
       "path": "esoterica/Thực Thể Cõi Trung Giới.md",
       "title": "Thực Thể Cõi Trung Giới (Astral Entities)",
       "domain": "esoterica",
-      "tags": [],
+      "tags": [
+        "esoterica"
+      ],
       "aliases": [],
       "headings": [
         "Thực Thể Cõi Trung Giới (Astral Entities)",
@@ -25030,8 +25199,8 @@
         "MOC - Esoterica & Consciousness.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
-      "words": 753,
-      "summary": "﻿--- title: Thực Thể Cõi Trung Giới (Astral Entities) date: 2026-04-07 tags: [esoterica] status: refined --- # Thực Thể Cõi Trung Giới (Astral Entities)"
+      "words": 737,
+      "summary": "**Thực Thể Cõi Trung Giới** (Astral Entities) là các sinh linh tồn tại ở tần số ngoài phổ nhìn thấy của con người. Trong nhiều truyền thống được gọi là Archons, demons, djinn, ký sinh trùng năng lượng."
     },
     "esoterica/Tinh Khí Thần.md": {
       "path": "esoterica/Tinh Khí Thần.md",
@@ -25113,6 +25282,7 @@
       "title": "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
       "domain": "esoterica",
       "tags": [
+        "esoterica",
         "gnosis",
         "healing",
         "jesus",
@@ -25165,8 +25335,8 @@
         "esoterica/Thánh Issa.md",
         "index.md"
       ],
-      "words": 918,
-      "summary": "﻿--- title: Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện date: 2026-04-08 tags: [esoterica] status: refined --- # Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện *Tags: #source-note #gnosis #occult #spirituality #healing #jesus #salt*"
+      "words": 900,
+      "summary": "Bài viết này là một kho tàng tri thức đa chiều, kết nối từ nguồn gốc của các thế lực vô hình (Tà linh), bí sử về Chúa Giêsu, giáo lý Ngộ đạo (Gnosis) cho đến cơ chế chữa lành sinh học bằng muối."
     },
     "esoterica/Tà Linh.md": {
       "path": "esoterica/Tà Linh.md",
@@ -25996,8 +26166,8 @@
       "backlinks": [
         "health/index.md"
       ],
-      "words": 859,
-      "summary": "﻿--- title: Giải Mã Vũ Trụ - Y Tế - Tâm Linh date: 2026-04-08 tags: [health] status: refined ---"
+      "words": 842,
+      "summary": "---"
     },
     "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md": {
       "path": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
@@ -26114,8 +26284,13 @@
       "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
       "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
       "domain": "health",
-      "tags": [],
-      "aliases": [],
+      "tags": [
+        "health"
+      ],
+      "aliases": [
+        "Seeing Through Western Medicine",
+        "They Live Medicine"
+      ],
       "headings": [
         "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
         "How To Read This / Cách Đọc Bài Này",
@@ -26188,8 +26363,8 @@
         "science-tech/index.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 2310,
-      "summary": "﻿--- title: \"Kính Chiếu Yêu — Nhìn Thấu Tây Y\" aliases: [\"They Live Medicine\", \"Seeing Through Western Medicine\"] date: 2026-04-25 tags: [health] status: refined --- # Kính Chiếu Yêu — Nhìn Thấu Tây Y"
+      "words": 2286,
+      "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
     },
     "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md": {
       "path": "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
@@ -26264,11 +26439,12 @@
     },
     "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md": {
       "path": "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
-      "title": "Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận",
+      "title": "Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận",
       "domain": "health",
       "tags": [
         "anti-matrix",
         "awakening",
+        "health",
         "lifestyle",
         "mental-model",
         "strategy"
@@ -26307,8 +26483,8 @@
         "science-tech/Tần Số Schumann.md"
       ],
       "backlinks": [],
-      "words": 903,
-      "summary": "﻿--- title: Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận date: 2026-04-08 tags: [health] status: refined ---"
+      "words": 882,
+      "summary": "---"
     },
     "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md": {
       "path": "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
@@ -26317,6 +26493,7 @@
       "tags": [
         "age-of-aquarius",
         "healing",
+        "health",
         "occult",
         "prophecy",
         "salt",
@@ -26365,8 +26542,8 @@
         "health/Y Tế Tự Nhiên.md",
         "MOC - Health Sovereignty.md"
       ],
-      "words": 703,
-      "summary": "﻿--- title: \"Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh\" date: 2026-04-08 tags: [health] status: refined ---"
+      "words": 681,
+      "summary": "---"
     },
     "health/Plasma Quinton.md": {
       "path": "health/Plasma Quinton.md",
@@ -26594,8 +26771,8 @@
         "politics-conspiracy/Kiểm Soát Tâm Trí.md"
       ],
       "backlinks": [],
-      "words": 1455,
-      "summary": "﻿--- title: Sự Thật Về Bệnh Dại Và Vắc Xin (Góc Nhìn Terrain Theory) date: 2026-04-17 updated: 2026-04-19 tags: [health, terrain-theory, vaccines, toxemia, pasteur, geison] status: refined ---"
+      "words": 1424,
+      "summary": "---"
     },
     "health/Suramin.md": {
       "path": "health/Suramin.md",
@@ -27138,7 +27315,7 @@
     },
     "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md": {
       "path": "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-      "title": "Vận Chín, Người Kogi và Ma Trận Y Tế - Nhận Thức",
+      "title": "Vận Chín, Người Kogi và Ma Trận Y Tế",
       "domain": "health",
       "tags": [
         "awakening",
@@ -27201,8 +27378,8 @@
         "health/Su That Ve Benh Dai Va Vac Xin.md",
         "MOC - Health Sovereignty.md"
       ],
-      "words": 923,
-      "summary": "﻿--- title: Vận Chín, Người Kogi và Ma Trận Y Tế date: 2026-04-08 tags: [health] status: refined ---"
+      "words": 905,
+      "summary": "---"
     },
     "health/Y Tế Tự Nhiên & Năng Lượng Mới.md": {
       "path": "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
@@ -28677,8 +28854,15 @@
       "path": "mental-models/S.E.X Và Tâm Lý Học Jung.md",
       "title": "S.E.X Và Tâm Lý Học Jung",
       "domain": "mental-models",
-      "tags": [],
-      "aliases": [],
+      "tags": [
+        "esoterica",
+        "mental-model",
+        "psychology"
+      ],
+      "aliases": [
+        "S.E.X và Jung",
+        "Sacred Energy eXchange and Jung"
+      ],
       "headings": [
         "S.E.X Và Tâm Lý Học Jung",
         "1. Định Nghĩa Lại S.E.X / Redefining S.E.X",
@@ -28756,8 +28940,8 @@
         "mental-models/Nguyên Mẫu.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
       ],
-      "words": 1436,
-      "summary": "﻿--- title: \"S.E.X Và Tâm Lý Học Jung\" aliases: [\"Sacred Energy eXchange and Jung\", \"S.E.X và Jung\"] date: 2026-04-07 tags: [mental-model, esoterica, psychology] status: refined ---"
+      "words": 1405,
+      "summary": "Bài viết này phân tích **S.E.X (Sacred Energy eXchange)** dưới góc nhìn Tâm Lý Học Jung, kết hợp với khoa học hiện đại về Microchimerism và truyền thống huyền học phương Đông."
     },
     "mental-models/Schadenfreude - Dopamine Phản Diện.md": {
       "path": "mental-models/Schadenfreude - Dopamine Phản Diện.md",
@@ -30051,8 +30235,15 @@
       "path": "politics-conspiracy/Bức Tường Băng.md",
       "title": "Bức Tường Băng (Ice Wall)",
       "domain": "politics-conspiracy",
-      "tags": [],
-      "aliases": [],
+      "tags": [
+        "esoterica",
+        "politics-conspiracy"
+      ],
+      "aliases": [
+        "Antarctic Ice Wall",
+        "Bức Tường Bang",
+        "Ice Wall"
+      ],
       "headings": [
         "Evidence Discipline / Cách Đọc Claim",
         "Source Register / Nguồn Nên Đối Chiếu",
@@ -30121,8 +30312,8 @@
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
         "politics-conspiracy/Trái Đất Phẳng.md"
       ],
-      "words": 1252,
-      "summary": "﻿--- title: \"Bức Tường Băng (Ice Wall)\" aliases: [\"Ice Wall\", \"Antarctic Ice Wall\", \"Bức Tường Bang\"] date: 2026-04-07 tags: [politics-conspiracy, esoterica] status: refined related: - \"Thuyết Trái Đất Phẳng\" - \"Trái Đất Phẳng\" - \"Nam Cực - Bí Mật Được Canh G…"
+      "words": 1212,
+      "summary": "---"
     },
     "politics-conspiracy/Dark MAGA.md": {
       "path": "politics-conspiracy/Dark MAGA.md",
@@ -30438,7 +30629,11 @@
       "path": "politics-conspiracy/Kiểm Soát Tâm Trí.md",
       "title": "Kiểm Soát Tâm Trí (Mind Control)",
       "domain": "politics-conspiracy",
-      "tags": [],
+      "tags": [
+        "consciousness",
+        "politics-conspiracy",
+        "propaganda"
+      ],
       "aliases": [],
       "headings": [
         "Kiểm Soát Tâm Trí (Mind Control)",
@@ -30523,8 +30718,8 @@
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 1405,
-      "summary": "﻿--- title: \"Kiểm Soát Tâm Trí (Mind Control)\" date: 2026-04-07 tags: [politics-conspiracy, propaganda, consciousness] status: refined related: - \"MOC - Epistemology & Propaganda\" - \"Elite\" - \"Ma Trận\" - \"Báo Cáo 2030\" - \"Bộ Tam Thánh Mind Control - NASA Disn…"
+      "words": 1360,
+      "summary": "**Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…"
     },
     "politics-conspiracy/MAGA Và Số 42.md": {
       "path": "politics-conspiracy/MAGA Và Số 42.md",
@@ -31613,7 +31808,9 @@
       "path": "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
       "title": "Điều mà nền giáo dục và chính phủ không dạy bạn",
       "domain": "politics-conspiracy",
-      "tags": [],
+      "tags": [
+        "politics-conspiracy"
+      ],
       "aliases": [],
       "headings": [
         "Evidence Discipline / Cách Đọc Claim",
@@ -31650,8 +31847,8 @@
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md"
       ],
-      "words": 1187,
-      "summary": "﻿--- title: Điều mà nền giáo dục và chính phủ không dạy bạn date: 2026-04-07 tags: [politics-conspiracy] status: refined ---"
+      "words": 1166,
+      "summary": "---"
     },
     "science-tech/AI.md": {
       "path": "science-tech/AI.md",
@@ -31815,6 +32012,7 @@
         "buddhism",
         "karma",
         "occult",
+        "science-tech",
         "source-note",
         "spirituality"
       ],
@@ -31862,8 +32060,8 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 992,
-      "summary": "﻿--- title: Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại date: 2026-04-08 tags: [science-tech] status: refined ---"
+      "words": 971,
+      "summary": "---"
     },
     "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md": {
       "path": "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
@@ -31968,6 +32166,7 @@
         "monad",
         "natural-disasters",
         "philosophy",
+        "science-tech",
         "source-note",
         "spirituality"
       ],
@@ -32014,8 +32213,8 @@
         "esoterica/Long Mạch.md",
         "science-tech/index.md"
       ],
-      "words": 980,
-      "summary": "﻿--- title: Giải Mã Thiên Tai, Long Mạch và Triết Học Monad date: 2026-04-08 tags: [science-tech] status: refined ---"
+      "words": 960,
+      "summary": "---"
     },
     "science-tech/Khoa Học Chân Chính và Thượng Đế.md": {
       "path": "science-tech/Khoa Học Chân Chính và Thượng Đế.md",

@@ -1,15 +1,11 @@
 ---
-title: "Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan"
-description: "Chuỗi bài viết Theo Dấu Tartaria (Tracking Tartaria) của Thượng sĩ Kan (Kiên Trần) được thực hiện trong khoảng thời gian 2021 2022"
-date: 2026-06-05
-status: seed
----
-﻿---
 title: Theo Dấu Tartaria - Tác Giả Kan
+description: "Chuỗi bài viết Theo Dấu Tartaria (Tracking Tartaria) của Thượng sĩ Kan (Kiên Trần) được thực hiện trong khoảng thời gian 2021 2022"
 date: 2026-04-07
 tags: [esoterica]
 status: refined
 ---
+
 # Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan
 
 Chuỗi bài viết **Theo Dấu Tartaria** (Tracking Tartaria) của Thượng sĩ Kan (Kiên Trần) được thực hiện trong khoảng thời gian 2021-2022. Đây là một bộ tài liệu mang tính chất giải ảo lịch sử cực kỳ chi tiết, đưa ra những góc nhìn sắc bén dưới lăng kính của Khoa Học Xét Lại. Thông qua việc lật lại các tư liệu, hình ảnh, và kiến trúc cổ xưa, Kan đặt nghi vấn về những sự lừa dối khổng lồ của nền sử học chính thống Phương Tây đối với phần còn lại của nhân loại.

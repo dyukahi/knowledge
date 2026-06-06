@@ -1,11 +1,6 @@
 ---
 title: "Bức Tường Băng (Ice Wall)"
-description: "Bức Tường Băng (Ice Wall): aliases: ['Ice Wall', 'Antarctic Ice Wall', 'Bức Tường Bang']"
-date: 2026-06-05
-status: seed
----
-﻿---
-title: "Bức Tường Băng (Ice Wall)"
+description: "Bức Tường Băng là biểu tượng ranh giới thế giới: nơi địa lý, Nam Cực, kiểm soát tri thức và tưởng tượng vũ trụ giao nhau."
 aliases: ["Ice Wall", "Antarctic Ice Wall", "Bức Tường Bang"]
 date: 2026-04-07
 tags: [politics-conspiracy, esoterica]

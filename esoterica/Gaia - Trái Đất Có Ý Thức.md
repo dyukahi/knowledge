@@ -1,15 +1,11 @@
 ---
-title: "Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness"
-description: "Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness: tags: [esoterica, consciousness, ancient wisdom]"
-date: 2026-06-05
-status: seed
----
-﻿---
 title: "Gaia - Trái Đất Có Ý Thức"
+description: "Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness: tags: [esoterica, consciousness, ancient wisdom]"
 date: 2026-04-29
 tags: [esoterica, consciousness, ancient-wisdom]
 status: refined
 ---
+
 # Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness
 
 > *"Trái Đất không quên nó là gì. Chúng ta mới là những kẻ đã quên."*

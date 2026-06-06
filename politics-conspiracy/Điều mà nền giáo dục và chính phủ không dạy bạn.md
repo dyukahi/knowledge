@@ -1,11 +1,6 @@
 ---
-title: "Điều mà nền giáo dục và chính phủ không dạy bạn"
-description: "title: Điều mà nền giáo dục và chính phủ không dạy bạn — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
-date: 2026-06-05
-status: seed
----
-﻿---
 title: Điều mà nền giáo dục và chính phủ không dạy bạn
+description: "title: Điều mà nền giáo dục và chính phủ không dạy bạn — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
 date: 2026-04-07
 tags: [politics-conspiracy]
 status: refined
