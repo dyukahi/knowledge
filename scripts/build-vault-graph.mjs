@@ -101,7 +101,9 @@ const html = String.raw`<!doctype html>
   </style>
 </head>
 <body>
-  <canvas id="graph"></canvas>
+  <main id="main-content" aria-label="Vault graph visualization">
+    <canvas id="graph"></canvas>
+  </main>
   <section class="panel">
     <h1>Vault Graph</h1>
     <p>Bản đồ sống của redpill.wiki. Kéo để pan, scroll/pinch để zoom, click node để mở bài.</p>

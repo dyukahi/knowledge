@@ -1,4 +1,4 @@
-﻿name: Deploy Knowledge Base
+name: Deploy Knowledge Base
 on:
   push:
     branches:
@@ -56,6 +56,9 @@ jobs:
         working-directory: ./quartz
         run: npx quartz build
 
+      - name: Patch accessibility output
+        run: node content/scripts/patch-quartz-a11y.mjs quartz/public
+
       - name: Copy SEO static files
         run: |
           if [ -f content/robots.txt ]; then cp content/robots.txt quartz/public/robots.txt; fi
@@ -79,5 +82,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-
