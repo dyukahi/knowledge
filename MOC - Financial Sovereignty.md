@@ -26,7 +26,7 @@ related:
 
 Đọc tài chính trong vault theo ba tầng cùng lúc.
 
-Tầng đầu là survival: giữ tiền, không leverage, không sĩ diện, không biến market thành casino dopamine. Tầng hai là sovereignty: hiểu cash, fiat, Bitcoin, privacy và quyền tự custody. Tầng ba là control architecture: CBDC, stablecoin, tokenized assets, oracle layer, digital ID và programmable compliance.
+Tầng đầu là survival: giữ tiền, không leverage, không sĩ diện, không biến market thành casino dopamine. Tầng hai là sovereignty: hiểu cash, fiat, Bitcoin, privacy và quyền tự custody. Tầng ba là control architecture: CBDC, stablecoin, tokenized assets, oracle layer, digital ID, [[Báo Cáo 2030|Agenda 2030 permission architecture]] và programmable compliance.
 
 Nếu bỏ tầng survival, người đọc dễ hiểu đúng narrative nhưng chết tài khoản. Nếu bỏ tầng sovereignty, họ chỉ biết kiếm tiền trong lồng. Nếu bỏ tầng control architecture, họ không thấy tiền đang chuyển thành hệ điều hành của behavior.
 
@@ -84,6 +84,7 @@ Fiat không chỉ là tiền mất giá. Nó là hệ thống kéo tương lai v
 - [[Chainlink - Mắt Xích Của Tokenized World]] — oracle/data bridge, RWA, proof-of-reserve, cross-chain messaging và banking integration.
 - [[Gen Z và CBDC - Programmable Money Psychology]] — CBDC như official programmable rail.
 - [[Digital ID Normalization - From Instagram to Government ID]] — identity là access layer.
+- [[Báo Cáo 2030]] — governance stack nơi money, identity, climate, health và smart city ghép thành access rails.
 
 Tokenization không chỉ làm finance hiệu quả hơn. Nó làm ownership, compliance, identity và settlement có thể được viết thành code. Câu hỏi không còn chỉ là “ai phát hành tiền?”, mà là: ai đọc dữ liệu, ai xác minh tài sản, ai đóng/mở dòng chảy?
 
@@ -104,3 +105,4 @@ Tiền không chỉ là phương tiện trao đổi. Nó là hệ điều hành 
 - [[Privacy]]
 - [[Tiền Pháp Định]]
 - [[Chainlink - Mắt Xích Của Tokenized World]]
+- [[Báo Cáo 2030]]

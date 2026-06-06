@@ -7,7 +7,7 @@
 - **Notes scanned:** 206
 - **Top-level domains:** 8
 - **Tags detected:** 183
-- **Resolved internal edges:** 2068
+- **Resolved internal edges:** 2071
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 9
 
@@ -75,7 +75,7 @@ Recommended note types:
 
 - [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `97`, backlinks `63`, outlinks `34` — #matrix, #politics-conspiracy, #power-structure
 - [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `52`, backlinks `42`, outlinks `10` — #consciousness, #politics-conspiracy, #propaganda
-- [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `48`, backlinks `31`, outlinks `17` — #agenda-2030, #cbdc, #digital-id, #governance, #politics-conspiracy
+- [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `49`, backlinks `32`, outlinks `17` — #agenda-2030, #cbdc, #digital-id, #governance, #politics-conspiracy
 - [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `42`, backlinks `4`, outlinks `38` — #domain-gateway, #politics-conspiracy, #power-structure
 - [[politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood|Walter Russell]] — degree `30`, backlinks `17`, outlinks `13` — #science-tech
 - [[politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm|Sự Thật Đen Tối Về Phim Khiêu Dâm]] — degree `26`, backlinks `18`, outlinks `8` — #dopamine, #esoterica, #politics-conspiracy
@@ -100,18 +100,18 @@ Recommended note types:
 - [[science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad|Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]] — degree `13`, backlinks `4`, outlinks `9` — #awakening, #long-mach, #monad, #natural-disasters, #philosophy
 - [[science-tech/Vũ Khí Năng Lượng Định Hướng|Vũ Khí Năng Lượng Định Hướng]] — degree `13`, backlinks `9`, outlinks `4` — #defense-tech, #revisionist-science, #science-tech
 - [[science-tech/Walter Russell|Walter Russell]] — degree `13`, backlinks `7`, outlinks `6` — #science-tech
-- [[science-tech/Digital ID Normalization - From Instagram to Government ID|Digital ID Normalization - From Instagram to Government ID]] — degree `11`, backlinks `11`, outlinks `0` — #agenda-2030, #digital-id, #generation, #psychology, #science-tech
+- [[science-tech/Digital ID Normalization - From Instagram to Government ID|Digital ID Normalization - From Instagram to Government ID]] — degree `12`, backlinks `12`, outlinks `0` — #agenda-2030, #digital-id, #generation, #psychology, #science-tech
 - … 5 more notes in this domain. See JSON for full list.
 
 ### root `root` — 14 notes
 
-- [[index|Red Pill Wiki]] — degree `135`, backlinks `7`, outlinks `128` — #index, #navigation
+- [[index|Red Pill Wiki]] — degree `137`, backlinks `7`, outlinks `130` — #index, #navigation
 - [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `55`, backlinks `34`, outlinks `21` — #epistemology, #moc, #propaganda
 - [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `50`, backlinks `18`, outlinks `32` — #epistemology, #meta, #navigation
 - [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `47`, backlinks `30`, outlinks `17` — #health, #moc, #sovereignty
 - [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `43`, backlinks `14`, outlinks `29` — #consciousness, #esoterica, #moc
 - [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `40`, backlinks `21`, outlinks `19` — #moc, #revisionist-science, #science-tech
-- [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `34`, backlinks `18`, outlinks `16` — #crypto-finance, #moc, #sovereignty
+- [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `35`, backlinks `18`, outlinks `17` — #crypto-finance, #moc, #sovereignty
 - [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]] — degree `31`, backlinks `11`, outlinks `20` — #esoterica, #hidden-history, #moc
 - [[Glossary - Từ Điển Red Pill Wiki|Glossary - Từ Điển Red Pill Wiki]] — degree `24`, backlinks `2`, outlinks `22` — #glossary, #meta, #navigation
 - [[Current Events Lab - Phòng Thí Nghiệm Sự Kiện|Current Events Lab - Phòng Thí Nghiệm Sự Kiện]] — degree `19`, backlinks `3`, outlinks `16` — #current-events, #meta, #navigation, #pattern-lab
@@ -149,7 +149,7 @@ Recommended note types:
 
 High-degree notes are good candidates for hub/MOC treatment.
 
-1. [[index|Red Pill Wiki]] — degree `135` · backlinks `7` · outlinks `128`
+1. [[index|Red Pill Wiki]] — degree `137` · backlinks `7` · outlinks `130`
    - **Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn.
 2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `121` · backlinks `95` · outlinks `26`
    - **Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**
@@ -167,10 +167,10 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…
 9. [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `50` · backlinks `18` · outlinks `32`
    - **Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhì…
-10. [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `48` · backlinks `38` · outlinks `10`
-   - **Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…
-11. [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `48` · backlinks `31` · outlinks `17`
+10. [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `49` · backlinks `32` · outlinks `17`
    - **Agenda 2030 không cần được đọc như một âm mưu cartoon. Nó đáng đọc như một hệ điều hành quản trị đang hiện hình qua các mảnh tưởng như rời rạc: khí hậu, y tế, tiền tệ số, danh tính số, thành phố thông minh, dữ liệu hành vi, ESG, AI governance và ngôn ngữ đạ…
+11. [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `48` · backlinks `38` · outlinks `10`
+   - **Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…
 12. [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `47` · backlinks `30` · outlinks `17`
    - **Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng. Nó không phải ghét bác sĩ hay phủ định cấp cứu hiện đại. Nó là không để hệ thống định nghĩa thay mình thế…
 13. [[mental-models/Individuation|Individuation]] — degree `46` · backlinks `38` · outlinks `8`
@@ -262,8 +262,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[health/René Quinton và Huyết Tương Biển|René Quinton và Huyết Tương Biển]]
 - [[science-tech/Tần Số Schumann|Tần Số Schumann (Schumann Resonance)]]
 - [[health/Cơ Chế Tự Bảo Vệ Của Cơ Thể|Cơ Chế Tự Bảo Vệ Của Cơ Thể]]
+- [[science-tech/Digital ID Normalization - From Instagram to Government ID|Digital ID Normalization - From Instagram to Government ID]]
 - [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]]
-- [[science-tech/AI|AI]]
 
 ### MOC - Epistemology & Propaganda
 

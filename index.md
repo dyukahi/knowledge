@@ -154,6 +154,14 @@ Các bài dưới đây là những flagship notes dễ cho người mới thấ
 - **[[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]** — reward hijacking as economic model
 - **[[Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien|Mười Lần Làm Tình - Giải Phẫu Học Các Chất Gây Nghiện]]** — neuroscience của addiction
 
+### Governance, Money & Control Rails
+
+- **[[Báo Cáo 2030]]** — Agenda 2030 as permission architecture: digital ID, CBDC, climate, health, smart city and managed limbo
+- **[[Digital ID Normalization - From Instagram to Government ID]]** — identity as access layer
+- **[[Gen Z và CBDC - Programmable Money Psychology]]** — programmable money psychology and app-native compliance
+- **[[Chainlink - Mắt Xích Của Tokenized World]]** — tokenized assets, oracle rails and onchain control architecture
+- **[[Climate Anxiety as Control - Fear-Based Compliance]]** — climate fear as compliance fuel
+
 ---
 
 ## Current Events Lab / Phòng Thí Nghiệm Sự Kiện
