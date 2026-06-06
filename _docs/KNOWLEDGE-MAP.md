@@ -7,7 +7,7 @@
 - **Notes scanned:** 206
 - **Top-level domains:** 8
 - **Tags detected:** 183
-- **Resolved internal edges:** 2064
+- **Resolved internal edges:** 2066
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 9
 
@@ -36,7 +36,7 @@ Recommended note types:
 - [[esoterica/Karma Disclosure - Truth Hidden In Plain Sight|Karma Disclosure - Truth Hidden In Plain Sight]] — degree `33`, backlinks `22`, outlinks `11` — #conspiracy, #esoterica, #karma
 - [[esoterica/Tartaria|Tartaria]] — degree `30`, backlinks `23`, outlinks `7` — #esoterica
 - [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]] — degree `29`, backlinks `21`, outlinks `8` — #esoterica, #occult, #predictive-programming
-- [[esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh - Năng Lượng Thu Hoạch Từ Con Người]] — degree `27`, backlinks `17`, outlinks `10` — #consciousness, #esoterica, #matrix
+- [[esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh - Năng Lượng Thu Hoạch Từ Con Người]] — degree `28`, backlinks `18`, outlinks `10` — #consciousness, #esoterica, #matrix
 - … 62 more notes in this domain. See JSON for full list.
 
 ### Mental Models / Mô hình tư duy `mental-models` — 28 notes
@@ -75,7 +75,7 @@ Recommended note types:
 
 - [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `97`, backlinks `63`, outlinks `34` — #matrix, #politics-conspiracy, #power-structure
 - [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `52`, backlinks `42`, outlinks `10` — #consciousness, #politics-conspiracy, #propaganda
-- [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `44`, backlinks `31`, outlinks `13` — #agenda-2030, #cbdc, #digital-id, #governance, #politics-conspiracy
+- [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `46`, backlinks `31`, outlinks `15` — #agenda-2030, #cbdc, #digital-id, #governance, #politics-conspiracy
 - [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `42`, backlinks `4`, outlinks `38` — #domain-gateway, #politics-conspiracy, #power-structure
 - [[politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood|Walter Russell]] — degree `29`, backlinks `16`, outlinks `13` — #science-tech
 - [[politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm|Sự Thật Đen Tối Về Phim Khiêu Dâm]] — degree `26`, backlinks `18`, outlinks `8` — #dopamine, #esoterica, #politics-conspiracy
@@ -173,12 +173,12 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng. Nó không phải ghét bác sĩ hay phủ định cấp cứu hiện đại. Nó là không để hệ thống định nghĩa thay mình thế…
 12. [[mental-models/Individuation|Individuation]] — degree `46` · backlinks `38` · outlinks `8`
    - **Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là bước tâ…
-13. [[mental-models/index|Mental Models Domain Gateway]] — degree `45` · backlinks `5` · outlinks `40`
-   - **Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…
-14. [[esoterica/index|Esoterica Domain Gateway]] — degree `45` · backlinks `4` · outlinks `41`
-   - **Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…
-15. [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `44` · backlinks `31` · outlinks `13`
+13. [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `46` · backlinks `31` · outlinks `15`
    - **Agenda 2030 không cần được đọc như một âm mưu cartoon. Nó đáng đọc như một hệ điều hành quản trị đang hiện hình qua các mảnh tưởng như rời rạc: khí hậu, y tế, tiền tệ số, danh tính số, thành phố thông minh, dữ liệu hành vi, ESG, AI governance và ngôn ngữ đạ…
+14. [[mental-models/index|Mental Models Domain Gateway]] — degree `45` · backlinks `5` · outlinks `40`
+   - **Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…
+15. [[esoterica/index|Esoterica Domain Gateway]] — degree `45` · backlinks `4` · outlinks `41`
+   - **Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…
 16. [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `43` · backlinks `14` · outlinks `29`
    - **Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…
 17. [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `42` · backlinks `4` · outlinks `38`
