@@ -1,8 +1,8 @@
 {
   "stats": {
-    "notes": 205,
+    "notes": 206,
     "domains": {
-      "_docs": 6,
+      "_docs": 7,
       "root": 14,
       "crypto-finance": 13,
       "esoterica": 74,
@@ -14,7 +14,7 @@
     "tags": 182,
     "wikilinkEdges": 2060,
     "brokenLinks": 0,
-    "orphans": 8
+    "orphans": 9
   },
   "domains": {
     "_docs": [
@@ -94,6 +94,26 @@
         "backlinks": [],
         "words": 1095,
         "summary": "Updated: 2026-06-05 GMT+7 Status: **hypothesis map until Google Search Console / real SERP data exists** Scope: content-level SEO for `C:\\JustinGit\\knowledge`; excludes GSC setup."
+      },
+      {
+        "path": "_docs/STRATEGY-EXECUTION-LOG.md",
+        "title": "Strategy Execution Log",
+        "domain": "_docs",
+        "tags": [],
+        "aliases": [],
+        "headings": [
+          "Strategy Execution Log",
+          "2026-06-06 — Batch 1: P0/P1 Source Discipline queue",
+          "Completed edits",
+          "Skipped as already safer",
+          "Remaining lower-priority source-discipline queue"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [],
+        "words": 476,
+        "summary": "Scope: targeted the highest-priority public notes from `_docs/VAULT-STRATEGY-AUDIT.md` / `_docs/vault-strategy-audit.json` that were P0/P1 flagship or expand candidates and lacked an obvious `Evidence Discipline`, `Source Discipline`, `Vault Position`, or `Ho…"
       },
       {
         "path": "_docs/THIN-PAGE-CLASSIFICATION.md",
@@ -1383,6 +1403,7 @@
         "aliases": [],
         "headings": [
           "Ma Trận — Giải Phẫu Hoàn Chỉnh",
+          "Evidence Discipline / Cách Đọc Claim",
           "Tiền Đề: Tại Sao Ma Trận Tồn Tại? / Why Does the Matrix Exist?",
           "Con Người Có Tiềm Năng Vĩ Đại / Humans Have Immense Potential",
           "Mục Đích Ma Trận / The Matrix's Purpose",
@@ -1505,7 +1526,7 @@
           "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
         ],
-        "words": 1839,
+        "words": 2007,
         "summary": "﻿--- title: \"Ma Trận - Giải Phẫu Hoàn Chỉnh\" aliases: [\"Complete Matrix Anatomy\", \"Thoát Khỏi Ma Trận\", \"Matrix Breakdown\"] date: 2026-04-29 tags: [esoterica, matrix, consciousness, meta] status: refined ---"
       },
       {
@@ -1927,6 +1948,7 @@
         ],
         "headings": [
           "Nghịch Lý Của Hiểu Biết",
+          "Evidence Discipline / Cách Đọc",
           "Phần 1: Trap Của Nhị Nguyên",
           "Vòng Lặp Vô Tận",
           "Ví Dụ Thực Tế",
@@ -1998,7 +2020,7 @@
           "science-tech/index.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
-        "words": 1487,
+        "words": 1632,
         "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
       },
       {
@@ -3145,6 +3167,7 @@
         ],
         "headings": [
           "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
+          "Source Discipline / Kỷ Luật Nguồn",
           "Darwin - Người Hay Công Cụ?",
           "Ai Đứng Sau Darwin?",
           "Timing Đáng Ngờ",
@@ -3215,7 +3238,7 @@
           "index.md",
           "MOC - Ancient Civilizations & Hidden History.md"
         ],
-        "words": 3356,
+        "words": 3525,
         "summary": "Năm 1859, Charles Darwin xuất bản \"On the Origin of Species\" và thay đổi vĩnh viễn cách nhân loại nhìn nhận bản thân. Từ đó, chúng ta được dạy rằng con người là sản phẩm của hàng triệu năm tiến hóa ngẫu nhiên, từ vi khuẩn đơn bào leo lên thành vượn, rồi từ vư…"
       },
       {
@@ -3844,6 +3867,7 @@
         ],
         "headings": [
           "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
+          "Evidence Discipline / Cách Đọc",
           "Tại Sao Điều Này Quan Trọng?",
           "Hindu Yugas - Bốn Thời Đại Suy Thoái",
           "Buddhist Kalpas - Kiếp Và Sự Vô Tận",
@@ -3888,7 +3912,7 @@
           "MOC - Esoterica & Consciousness.md",
           "politics-conspiracy/Elite.md"
         ],
-        "words": 4304,
+        "words": 4453,
         "summary": "Khoa học hiện đại dạy rằng lịch sử là một đường thẳng tiến lên: từ vi khuẩn đến cá, từ cá đến vượn, từ vượn đến người, từ hang động đến smartphone. Mỗi thế hệ \"tiến bộ\" hơn thế hệ trước. Chúng ta đang ở đỉnh cao của văn minh."
       },
       {
@@ -5006,6 +5030,7 @@
         "aliases": [],
         "headings": [
           "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng",
+          "Evidence Discipline / Cách Đọc",
           "1. Hệ Thống Trao Đổi Năng Lượng / Energy Exchange System",
           "Hấp thụ DNA / DNA Absorption",
           "Hệ quả / Consequences",
@@ -5048,7 +5073,7 @@
           "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
         ],
         "backlinks": [],
-        "words": 778,
+        "words": 909,
         "summary": "﻿--- title: Mental Model - Tầng Sâu Nhận Thức & Năng Lượng aliases: [\"Deep Consciousness & Energy Layers\"] date: 2026-04-08 tags: [esoterica] status: refined --- # Mental Model - Tầng Sâu Nhận Thức & Năng Lượng"
       },
       {
@@ -5059,6 +5084,7 @@
         "aliases": [],
         "headings": [
           "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+          "Evidence Discipline / Cách Đọc",
           "1. Quy Luật Nhân Quả: Trục Vận Hành Của Vũ Trụ / Law of Karma: The Universe's Operating Axis",
           "Bản chất bất di bất dịch / Immutable Nature",
           "Quả báo của giới tinh hoa / Elite's Karmic Retribution",
@@ -5098,7 +5124,7 @@
           "esoterica/Thánh Issa.md",
           "health/Virus và Kiếp Tật Dịch.md"
         ],
-        "words": 711,
+        "words": 876,
         "summary": "﻿--- title: Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo aliases: [\"Karma, Samsara and the Religion Matrix\"] date: 2026-04-08 tags: [esoterica] status: refined --- # Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo"
       },
       {
@@ -9788,6 +9814,7 @@
         ],
         "headings": [
           "UBI Conditioning - The End of Work Ethic",
+          "Source Discipline / Cách Đọc",
           "Từ Khóa Cần Hiểu",
           "UBI Có Hai Linh Hồn",
           "AI Và Cái Cớ Hợp Lý",
@@ -9807,7 +9834,7 @@
           "MOC - Financial Sovereignty.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 798,
+        "words": 946,
         "summary": "**UBI không chỉ là câu hỏi kinh tế “ai trả tiền?”. Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
       },
       {
@@ -15402,6 +15429,7 @@
       "aliases": [],
       "headings": [
         "Ma Trận — Giải Phẫu Hoàn Chỉnh",
+        "Evidence Discipline / Cách Đọc Claim",
         "Tiền Đề: Tại Sao Ma Trận Tồn Tại? / Why Does the Matrix Exist?",
         "Con Người Có Tiềm Năng Vĩ Đại / Humans Have Immense Potential",
         "Mục Đích Ma Trận / The Matrix's Purpose",
@@ -15524,7 +15552,7 @@
         "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
       ],
-      "words": 1839,
+      "words": 2007,
       "summary": "﻿--- title: \"Ma Trận - Giải Phẫu Hoàn Chỉnh\" aliases: [\"Complete Matrix Anatomy\", \"Thoát Khỏi Ma Trận\", \"Matrix Breakdown\"] date: 2026-04-29 tags: [esoterica, matrix, consciousness, meta] status: refined ---"
     },
     {
@@ -17394,6 +17422,26 @@
       "summary": "Updated: 2026-06-05 GMT+7 Status: **hypothesis map until Google Search Console / real SERP data exists** Scope: content-level SEO for `C:\\JustinGit\\knowledge`; excludes GSC setup."
     },
     {
+      "path": "_docs/STRATEGY-EXECUTION-LOG.md",
+      "title": "Strategy Execution Log",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Strategy Execution Log",
+        "2026-06-06 — Batch 1: P0/P1 Source Discipline queue",
+        "Completed edits",
+        "Skipped as already safer",
+        "Remaining lower-priority source-discipline queue"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 476,
+      "summary": "Scope: targeted the highest-priority public notes from `_docs/VAULT-STRATEGY-AUDIT.md` / `_docs/vault-strategy-audit.json` that were P0/P1 flagship or expand candidates and lacked an obvious `Evidence Discipline`, `Source Discipline`, `Vault Position`, or `Ho…"
+    },
+    {
       "path": "_docs/THIN-PAGE-CLASSIFICATION.md",
       "title": "Thin Page Classification - redpill.wiki",
       "domain": "_docs",
@@ -17509,6 +17557,7 @@
       "aliases": [],
       "headings": [
         "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng",
+        "Evidence Discipline / Cách Đọc",
         "1. Hệ Thống Trao Đổi Năng Lượng / Energy Exchange System",
         "Hấp thụ DNA / DNA Absorption",
         "Hệ quả / Consequences",
@@ -17551,7 +17600,7 @@
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
       "backlinks": [],
-      "words": 778,
+      "words": 909,
       "summary": "﻿--- title: Mental Model - Tầng Sâu Nhận Thức & Năng Lượng aliases: [\"Deep Consciousness & Energy Layers\"] date: 2026-04-08 tags: [esoterica] status: refined --- # Mental Model - Tầng Sâu Nhận Thức & Năng Lượng"
     },
     {
@@ -17887,6 +17936,7 @@
       ],
       "headings": [
         "UBI Conditioning - The End of Work Ethic",
+        "Source Discipline / Cách Đọc",
         "Từ Khóa Cần Hiểu",
         "UBI Có Hai Linh Hồn",
         "AI Và Cái Cớ Hợp Lý",
@@ -17906,7 +17956,7 @@
         "MOC - Financial Sovereignty.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 798,
+      "words": 946,
       "summary": "**UBI không chỉ là câu hỏi kinh tế “ai trả tiền?”. Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
     },
     {
@@ -19512,6 +19562,26 @@
       "backlinks": [],
       "words": 1095,
       "summary": "Updated: 2026-06-05 GMT+7 Status: **hypothesis map until Google Search Console / real SERP data exists** Scope: content-level SEO for `C:\\JustinGit\\knowledge`; excludes GSC setup."
+    },
+    "_docs/STRATEGY-EXECUTION-LOG.md": {
+      "path": "_docs/STRATEGY-EXECUTION-LOG.md",
+      "title": "Strategy Execution Log",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Strategy Execution Log",
+        "2026-06-06 — Batch 1: P0/P1 Source Discipline queue",
+        "Completed edits",
+        "Skipped as already safer",
+        "Remaining lower-priority source-discipline queue"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 476,
+      "summary": "Scope: targeted the highest-priority public notes from `_docs/VAULT-STRATEGY-AUDIT.md` / `_docs/vault-strategy-audit.json` that were P0/P1 flagship or expand candidates and lacked an obvious `Evidence Discipline`, `Source Discipline`, `Vault Position`, or `Ho…"
     },
     "_docs/THIN-PAGE-CLASSIFICATION.md": {
       "path": "_docs/THIN-PAGE-CLASSIFICATION.md",
@@ -21370,6 +21440,7 @@
       ],
       "headings": [
         "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
+        "Evidence Discipline / Cách Đọc",
         "Tại Sao Điều Này Quan Trọng?",
         "Hindu Yugas - Bốn Thời Đại Suy Thoái",
         "Buddhist Kalpas - Kiếp Và Sự Vô Tận",
@@ -21414,7 +21485,7 @@
         "MOC - Esoterica & Consciousness.md",
         "politics-conspiracy/Elite.md"
       ],
-      "words": 4304,
+      "words": 4453,
       "summary": "Khoa học hiện đại dạy rằng lịch sử là một đường thẳng tiến lên: từ vi khuẩn đến cá, từ cá đến vượn, từ vượn đến người, từ hang động đến smartphone. Mỗi thế hệ \"tiến bộ\" hơn thế hệ trước. Chúng ta đang ở đỉnh cao của văn minh."
     },
     "esoterica/Dịch Chuyển Cực.md": {
@@ -22527,6 +22598,7 @@
       "aliases": [],
       "headings": [
         "Ma Trận — Giải Phẫu Hoàn Chỉnh",
+        "Evidence Discipline / Cách Đọc Claim",
         "Tiền Đề: Tại Sao Ma Trận Tồn Tại? / Why Does the Matrix Exist?",
         "Con Người Có Tiềm Năng Vĩ Đại / Humans Have Immense Potential",
         "Mục Đích Ma Trận / The Matrix's Purpose",
@@ -22649,7 +22721,7 @@
         "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
       ],
-      "words": 1839,
+      "words": 2007,
       "summary": "﻿--- title: \"Ma Trận - Giải Phẫu Hoàn Chỉnh\" aliases: [\"Complete Matrix Anatomy\", \"Thoát Khỏi Ma Trận\", \"Matrix Breakdown\"] date: 2026-04-29 tags: [esoterica, matrix, consciousness, meta] status: refined ---"
     },
     "esoterica/Ma Trận.md": {
@@ -23007,6 +23079,7 @@
       "aliases": [],
       "headings": [
         "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng",
+        "Evidence Discipline / Cách Đọc",
         "1. Hệ Thống Trao Đổi Năng Lượng / Energy Exchange System",
         "Hấp thụ DNA / DNA Absorption",
         "Hệ quả / Consequences",
@@ -23049,7 +23122,7 @@
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
       "backlinks": [],
-      "words": 778,
+      "words": 909,
       "summary": "﻿--- title: Mental Model - Tầng Sâu Nhận Thức & Năng Lượng aliases: [\"Deep Consciousness & Energy Layers\"] date: 2026-04-08 tags: [esoterica] status: refined --- # Mental Model - Tầng Sâu Nhận Thức & Năng Lượng"
     },
     "esoterica/Monad.md": {
@@ -23271,6 +23344,7 @@
       ],
       "headings": [
         "Nghịch Lý Của Hiểu Biết",
+        "Evidence Discipline / Cách Đọc",
         "Phần 1: Trap Của Nhị Nguyên",
         "Vòng Lặp Vô Tận",
         "Ví Dụ Thực Tế",
@@ -23342,7 +23416,7 @@
         "science-tech/index.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 1487,
+      "words": 1632,
       "summary": "Có một trap mà mind không thể thoát bằng thinking: **Mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó.**"
     },
     "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md": {
@@ -23353,6 +23427,7 @@
       "aliases": [],
       "headings": [
         "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+        "Evidence Discipline / Cách Đọc",
         "1. Quy Luật Nhân Quả: Trục Vận Hành Của Vũ Trụ / Law of Karma: The Universe's Operating Axis",
         "Bản chất bất di bất dịch / Immutable Nature",
         "Quả báo của giới tinh hoa / Elite's Karmic Retribution",
@@ -23392,7 +23467,7 @@
         "esoterica/Thánh Issa.md",
         "health/Virus và Kiếp Tật Dịch.md"
       ],
-      "words": 711,
+      "words": 876,
       "summary": "﻿--- title: Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo aliases: [\"Karma, Samsara and the Religion Matrix\"] date: 2026-04-08 tags: [esoterica] status: refined --- # Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo"
     },
     "esoterica/Nhân Quả.md": {
@@ -24656,6 +24731,7 @@
       ],
       "headings": [
         "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
+        "Source Discipline / Kỷ Luật Nguồn",
         "Darwin - Người Hay Công Cụ?",
         "Ai Đứng Sau Darwin?",
         "Timing Đáng Ngờ",
@@ -24726,7 +24802,7 @@
         "index.md",
         "MOC - Ancient Civilizations & Hidden History.md"
       ],
-      "words": 3356,
+      "words": 3525,
       "summary": "Năm 1859, Charles Darwin xuất bản \"On the Origin of Species\" và thay đổi vĩnh viễn cách nhân loại nhìn nhận bản thân. Từ đó, chúng ta được dạy rằng con người là sản phẩm của hàng triệu năm tiến hóa ngẫu nhiên, từ vi khuẩn đơn bào leo lên thành vượn, rồi từ vư…"
     },
     "esoterica/Thuật Giả Kim Của Newton.md": {
@@ -29415,6 +29491,7 @@
       ],
       "headings": [
         "UBI Conditioning - The End of Work Ethic",
+        "Source Discipline / Cách Đọc",
         "Từ Khóa Cần Hiểu",
         "UBI Có Hai Linh Hồn",
         "AI Và Cái Cớ Hợp Lý",
@@ -29434,7 +29511,7 @@
         "MOC - Financial Sovereignty.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 798,
+      "words": 946,
       "summary": "**UBI không chỉ là câu hỏi kinh tế “ai trả tiền?”. Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
     },
     "mental-models/Vô Thức Tập Thể.md": {

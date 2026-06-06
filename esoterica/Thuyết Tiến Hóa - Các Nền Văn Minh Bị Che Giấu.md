@@ -23,6 +23,19 @@ Năm 1859, Charles Darwin xuất bản "On the Origin of Species" và thay đổ
 
 ---
 
+## Source Discipline / Kỷ Luật Nguồn
+
+Bài này bàn về một chủ đề dễ bị đọc quá tay, nên cần tách claim rõ:
+
+- **Fact / documentable:** Darwin xuất bản *On the Origin of Species* năm 1859; Thomas Huxley, Royal Society, UNESCO, eugenics và các nhân vật lịch sử có hồ sơ công khai để đối chiếu.
+- **Pattern / systems:** câu hỏi về narrative khoa học, incentive của giới học thuật và cách một mô hình trở thành consensus là phân tích hệ thống.
+- **Symbol / myth:** “nền văn minh bị che giấu”, “ký ức bị xóa”, “lịch sử bị viết lại” là ngôn ngữ biểu tượng/huyền sử của vault.
+- **Speculative synthesis:** kết nối Darwinism, elite agenda, văn minh cổ và metaphysics là giả thuyết tổng hợp, không phải kết luận khảo cổ chính thống.
+
+Không dùng bài này như bằng chứng duy nhất để phủ định tiến hóa sinh học. Nếu trích ra ngoài vault, hãy đối chiếu từng claim lịch sử với nguồn sơ cấp hoặc tài liệu học thuật riêng.
+
+---
+
 ## Darwin - Người Hay Công Cụ?
 
 ### Ai Đứng Sau Darwin?

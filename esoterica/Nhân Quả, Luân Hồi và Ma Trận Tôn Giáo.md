@@ -19,6 +19,19 @@ Bài viết đi sâu vào bản chất của quy luật Nhân quả, Luân hồi
 
 ---
 
+## Evidence Discipline / Cách Đọc
+
+Bài này đứng giữa **tôn giáo học, biểu tượng và phê bình hệ thống niềm tin**. Đọc theo 4 lớp:
+
+- **Fact / documentable:** các truyền thống Phật giáo, Hindu giáo, Gnostic và tôn giáo lớn có giáo lý về nghiệp, linh hồn, tái sinh hoặc cứu rỗi có thể đối chiếu trong văn bản truyền thống.
+- **Pattern / systems:** câu hỏi của vault là khi nào giáo lý giải phóng biến thành cơ chế tội lỗi, sợ hãi, nợ nghiệp và obedience.
+- **Symbol / myth:** “luân hồi”, “Ma Trận tôn giáo”, “thoát vòng lặp” là biểu tượng để đọc trải nghiệm tâm linh và kiểm soát niềm tin.
+- **Speculative synthesis:** liên hệ nghiệp/luân hồi với prison planet hoặc kiến trúc thu hoạch năng lượng là giả thuyết huyền học, không phải kết luận tôn giáo hay lịch sử.
+
+*Không dùng bài này để phủ định toàn bộ một truyền thống. Dùng nó để hỏi: phần nào giải phóng consciousness, phần nào tạo dependency?*
+
+---
+
 ## 1. Quy Luật Nhân Quả: Trục Vận Hành Của Vũ Trụ / Law of Karma: The Universe's Operating Axis
 
 ### Bản chất bất di bất dịch / Immutable Nature

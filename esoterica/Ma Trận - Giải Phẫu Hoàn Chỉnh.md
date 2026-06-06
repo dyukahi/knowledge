@@ -23,6 +23,19 @@ Bài viết này là **bản tổng hợp hoàn chỉnh** về [[Ma Trận]] —
 
 ---
 
+## Evidence Discipline / Cách Đọc Claim
+
+Bài này là **meta-framework của vault**, không phải hồ sơ chứng minh một tổ chức hay một thực thể cụ thể. Đọc theo 4 lớp:
+
+- **Fact / documentable:** các hệ thống xã hội có thật như giáo dục, truyền thông, y tế, tài chính, chiến tranh, lao động và nền tảng số.
+- **Pattern / systems:** cách các hệ thống đó có thể tạo vòng lặp phụ thuộc, sợ hãi, phân mảnh chú ý và mất chủ quyền cá nhân.
+- **Symbol / myth:** “Ma Trận”, “bức tường”, “loosh”, “thoát ra” là ngôn ngữ biểu tượng để mô tả trải nghiệm bị điều kiện hóa.
+- **Speculative synthesis:** giả thuyết về thực thể, năng lượng bị thu hoạch hoặc kiến trúc siêu hình là mô hình huyền học của vault, không nên đọc như kết luận thực nghiệm.
+
+*Use this as a map for reading patterns, not as a single-source proof file. Strong claims should be cross-read with the linked notes before being promoted as fact.*
+
+---
+
 ## Tiền Đề: Tại Sao Ma Trận Tồn Tại? / Why Does the Matrix Exist?
 
 ### Con Người Có Tiềm Năng Vĩ Đại / Humans Have Immense Potential

@@ -4,12 +4,12 @@
 
 ## Snapshot
 
-- **Notes scanned:** 205
+- **Notes scanned:** 206
 - **Top-level domains:** 8
 - **Tags detected:** 182
 - **Resolved internal edges:** 2060
 - **Broken/unresolved links:** 0
-- **Orphan notes:** 8
+- **Orphan notes:** 9
 
 ## Zettelkasten Reading
 
@@ -135,11 +135,12 @@ Recommended note types:
 - [[crypto-finance/Secular Market|Secular Market (Thị Trường Chu Kỳ Dài)]] — degree `12`, backlinks `4`, outlinks `8` — #crypto-finance
 - … 1 more notes in this domain. See JSON for full list.
 
-### Docs / Meta `_docs` — 6 notes
+### Docs / Meta `_docs` — 7 notes
 
 - [[_docs/CONTENT-SEO-AUDIT|Content SEO Audit - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/SEO-KEYWORD-MAP|SEO Keyword & Search-Intent Map - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/STRATEGY-EXECUTION-LOG|Strategy Execution Log]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/THIN-PAGE-CLASSIFICATION|Thin Page Classification - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/VAULT-STRATEGY-AUDIT|Vault Strategy Audit — redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/WORLD-CUP-2026-PATTERN-AUDIT|World Cup 2026 Pattern Audit — Pre-Tournament Evidence Snapshot]] — degree `0`, backlinks `0`, outlinks `0` — #FIFAWorldCup, #WeAre26
@@ -331,6 +332,7 @@ Orphans are not necessarily bad. In Zettelkasten terms, they are unfinished inte
 - [[_docs/CONTENT-SEO-AUDIT|Content SEO Audit - redpill.wiki]] — `_docs`
 - [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — `_docs`
 - [[_docs/SEO-KEYWORD-MAP|SEO Keyword & Search-Intent Map - redpill.wiki]] — `_docs`
+- [[_docs/STRATEGY-EXECUTION-LOG|Strategy Execution Log]] — `_docs`
 - [[_docs/THIN-PAGE-CLASSIFICATION|Thin Page Classification - redpill.wiki]] — `_docs`
 - [[_docs/VAULT-STRATEGY-AUDIT|Vault Strategy Audit — redpill.wiki]] — `_docs`
 - [[_docs/WORLD-CUP-2026-PATTERN-AUDIT|World Cup 2026 Pattern Audit — Pre-Tournament Evidence Snapshot]] — `_docs`

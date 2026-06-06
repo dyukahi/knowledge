@@ -27,6 +27,19 @@ Nhưng cả Hindu và Phật giáo - hai truyền thống có nguồn gốc hàn
 
 ---
 
+## Evidence Discipline / Cách Đọc
+
+Bài này thuộc lớp **cosmic cycles + mythic time**, nên không nên đọc như lịch thiên văn đã được chứng minh theo chuẩn hiện đại.
+
+- **Fact / documentable:** Yuga, Kalpa và các chu kỳ thời gian là khái niệm có trong truyền thống Ấn Độ giáo và các hệ thống huyền học liên quan.
+- **Pattern / systems:** so sánh chu kỳ văn minh, suy tàn/tái sinh và nhịp lịch sử là cách đọc pattern, không phải phép đo chính xác.
+- **Symbol / myth:** các con số lớn, thời đại vàng/sắt, ngày tận thế/tái sinh là ngôn ngữ mythic để nói về consciousness cycle.
+- **Speculative synthesis:** liên hệ Yugas/Kalpas với chu kỳ vũ trụ, disclosure hoặc vận hành Ma Trận là mô hình tổng hợp của vault.
+
+*Treat the article as a symbolic timing map. Do not convert mythic chronology into hard prediction without independent evidence.*
+
+---
+
 ## Tại Sao Điều Này Quan Trọng?
 
 Nếu lịch sử là đường thẳng tiến lên, mọi thứ trong quá khứ đều "primitive" hơn hiện tại. Kim tự tháp được xây bởi "nô lệ dùng dây thừng". [[Atlantis]] chỉ là huyền thoại. Giants chỉ là folklore. Và công nghệ cổ đại không thể tồn tại vì "họ chưa phát triển đến mức đó."
