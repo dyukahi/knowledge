@@ -64,8 +64,32 @@ jobs:
           if [ -f content/robots.txt ]; then cp content/robots.txt quartz/public/robots.txt; fi
           if [ -f content/llms.txt ]; then cp content/llms.txt quartz/public/llms.txt; fi
 
-      - name: Build standalone vault graph
-        run: node content/scripts/build-vault-graph.mjs content/_docs/knowledge-map.json quartz/public/vault-graph.html quartz/public/vault-graph-data.json
+      - name: Build native Quartz vault graph page
+        run: |
+          cat > quartz/content/vault-graph.md <<'EOF'
+          ---
+          title: "Vault Graph"
+          description: "Native Quartz graph visualization for redpill.wiki."
+          tags: [meta, graph]
+          ---
+          # Vault Graph
+
+          Native Quartz graph for redpill.wiki. This page intentionally carries the heavy graph runtime while normal articles stay lightweight.
+          EOF
+          cp content/scripts/quartz-overrides/quartz.layout.graph.ts quartz/quartz.layout.ts
+          (cd quartz && npx quartz build -o graph-public)
+          node content/scripts/patch-quartz-a11y.mjs quartz/graph-public
+          cp quartz/graph-public/vault-graph.html quartz/public/vault-graph.html
+          cp quartz/graph-public/postscript.js quartz/public/vault-graph-postscript.js
+          cp quartz/graph-public/index.css quartz/public/vault-graph.css
+          cat >> quartz/public/vault-graph.css <<'EOF'
+          body:has(.graph) .page { max-width: 100%; }
+          body:has(.graph) .center { max-width: min(1500px, 96vw); }
+          body:has(.graph) .graph > h3 { font-size: 1.2rem; margin: 0 0 .5rem; }
+          body:has(.graph) .graph > .graph-outer { height: min(78vh, 860px); min-height: 560px; }
+          body:has(.graph) .graph > .global-graph-outer > .global-graph-container { width: 92vw; height: 86vh; }
+          EOF
+          node content/scripts/rewrite-native-graph-assets.mjs quartz/public/vault-graph.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
