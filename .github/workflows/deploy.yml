@@ -61,6 +61,9 @@ jobs:
           if [ -f content/robots.txt ]; then cp content/robots.txt quartz/public/robots.txt; fi
           if [ -f content/llms.txt ]; then cp content/llms.txt quartz/public/llms.txt; fi
 
+      - name: Build standalone vault graph
+        run: node content/scripts/build-vault-graph.mjs content/_docs/knowledge-map.json quartz/public/vault-graph.html quartz/public/vault-graph-data.json
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
