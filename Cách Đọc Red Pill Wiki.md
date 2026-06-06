@@ -18,9 +18,45 @@ related:
 
 # Cách Đọc Red Pill Wiki
 
-**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Nếu đọc nó như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhìn lại thế giới, nó bắt đầu mở khóa.**
+**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Trước khi tin hoặc phủ định bất kỳ điều gì, hãy nhận biết chính tiến trình thấy đang xảy ra. Nếu đọc vault như một hệ niềm tin mới, bạn đã dùng sai. Nếu đọc nó như một bộ câu hỏi để tự nhìn lại thế giới và chính tâm mình, nó bắt đầu mở khóa.**
 
 *Red Pill Wiki is not a doctrine to memorize. It is a map for moving through layers of reality: fact, pattern, symbol, myth, conspiracy, metaphysics, and direct knowing.*
+
+---
+
+## 0. Trước Khi Tin Hay Phủ Định: Nhận Biết Sự Thấy
+
+Trước khi đi vào bất kỳ rabbit hole nào, hãy dừng lại một nhịp.
+
+Không cần tin ngay.
+
+Không cần phủ định ngay.
+
+Trước hết, nhận biết:
+
+- mình đang thấy điều gì;
+- cảm giác gì đang sinh trong thân;
+- tâm đang muốn kết luận theo hướng nào;
+- mình đang bị hút bởi sợ hãi, phấn khích, giận dữ, hy vọng hay ego “mình biết bí mật”;
+- claim này đang làm mình muốn bám vào nó hay đẩy nó đi.
+
+Đây là **kỷ luật nguồn nội tâm**. Source discipline không chỉ là kiểm nguồn bên ngoài. Nó còn là kiểm chính trạng thái tâm đang đọc nguồn đó.
+
+> Không phủ định điều đang thấy. Không vội khẳng định điều đang thấy. Trước hết, nhận biết rằng sự thấy đang xảy ra.
+
+Một bài trong vault có thể mở ra một pattern thật. Nó cũng có thể kích hoạt fear loop, savior complex, rage với hệ thống, hoặc cảm giác hơn người. Nếu không nhận biết tiến trình thấy, người đọc rất dễ đổi từ nhà tù mainstream sang nhà tù alternative.
+
+Đọc đúng không phải là tìm một niềm tin mới để bám. Đọc đúng là quán chiếu:
+
+- phần nào là fact;
+- phần nào là pattern;
+- phần nào là symbol;
+- phần nào là speculative synthesis;
+- phần nào là phản ứng của chính mình.
+
+Nếu một idea làm bạn tỉnh hơn, grounded hơn, tự chủ hơn, nó có thể là ngón tay tốt. Nếu nó chỉ làm bạn sợ hơn, kiêu hơn, nghiện doomscroll hơn, nó đang biến thành spell.
+
+Ngón tay chỉ mặt trăng. Ngón tay không phải mặt trăng. Và người chỉ cũng chưa chắc đã thấy trăng trọn vẹn.
 
 ---
 

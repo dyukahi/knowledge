@@ -20,16 +20,16 @@ tags: [index, navigation]
 
 ## Start Here / Bắt Đầu Ở Đây
 
-Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một hệ niềm tin mới. Đọc như đang luyện lại quyền nhìn.
+Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một hệ niềm tin mới. Đọc như đang luyện lại quyền nhìn: nhận biết điều đang thấy, trải nghiệm sự thấy, rồi mới phân tầng fact / pattern / symbol / synthesis.
 
-1. **[[Cách Đọc Red Pill Wiki]]** — cách phân biệt fact, pattern, symbol và speculative synthesis
+1. **[[Cách Đọc Red Pill Wiki]]** — bắt đầu bằng nhận biết sự thấy, rồi phân biệt fact, pattern, symbol và speculative synthesis
 2. **[[Glossary - Từ Điển Red Pill Wiki]]** — nắm vocabulary chung trước khi đi sâu vào MOCs
 3. **[[Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng]]** — firewall để đọc claim mạnh mà không overclaim
 4. **[[Khoa Học Xét Lại]]** — học cách đặt lại câu hỏi với “sự thật mặc định”
 5. **[[Ma Trận]]** — nhìn hệ thống kiểm soát như một operating system của perception
 6. **[[Nghịch Lý Của Hiểu Biết]]** — nhớ rằng mọi framework đều là ngón tay chỉ mặt trăng
 
-> Vault này không phải để bạn **tin**. Nó để bạn **thấy** — rồi vượt qua cả cái thấy đó.
+> Vault này không phải để bạn **tin**. Nó để bạn **thấy**, nhận biết tiến trình thấy, rồi vượt qua cả cái thấy đó.
 
 ---
 
