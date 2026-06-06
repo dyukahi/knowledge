@@ -16,11 +16,11 @@ export const sharedPageComponents: SharedLayout = {
 const NativeVaultGraph = Component.Graph({
   localGraph: {
     depth: -1,
-    scale: 0.9,
-    repelForce: 0.7,
-    centerForce: 0.22,
-    linkDistance: 36,
-    fontSize: 0.7,
+    scale: 2.1,
+    repelForce: 1.15,
+    centerForce: 0.32,
+    linkDistance: 58,
+    fontSize: 0.85,
     opacityScale: 1,
     showTags: false,
     focusOnHover: true,
@@ -28,11 +28,11 @@ const NativeVaultGraph = Component.Graph({
   },
   globalGraph: {
     depth: -1,
-    scale: 0.9,
-    repelForce: 0.7,
-    centerForce: 0.22,
-    linkDistance: 36,
-    fontSize: 0.7,
+    scale: 2.1,
+    repelForce: 1.15,
+    centerForce: 0.32,
+    linkDistance: 58,
+    fontSize: 0.85,
     opacityScale: 1,
     showTags: false,
     focusOnHover: true,
@@ -54,6 +54,7 @@ body[data-slug="vault-graph"] #quartz-body {
 }
 body[data-slug="vault-graph"] .left.sidebar,
 body[data-slug="vault-graph"] .right.sidebar,
+body[data-slug="vault-graph"] footer,
 body[data-slug="vault-graph"] .content-meta,
 body[data-slug="vault-graph"] .tags,
 body[data-slug="vault-graph"] main#main-content {
@@ -92,8 +93,8 @@ body[data-slug="vault-graph"] .graph > h3 {
 }
 body[data-slug="vault-graph"] .graph-outer {
   width: 100% !important;
-  height: calc(100vh - 6rem) !important;
-  min-height: 640px !important;
+  height: calc(100vh - 4.25rem) !important;
+  min-height: 680px !important;
   border: 1px solid var(--lightgray) !important;
   border-radius: 14px !important;
   overflow: hidden !important;
@@ -116,8 +117,8 @@ body[data-slug="vault-graph"] canvas {
     padding: 0.75rem !important;
   }
   body[data-slug="vault-graph"] .graph-outer {
-    height: calc(100vh - 4.5rem) !important;
-    min-height: 520px !important;
+    height: calc(100vh - 3.75rem) !important;
+    min-height: 560px !important;
     border-radius: 10px !important;
   }
 }
