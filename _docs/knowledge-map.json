@@ -1,8 +1,8 @@
 {
   "stats": {
-    "notes": 204,
+    "notes": 205,
     "domains": {
-      "_docs": 5,
+      "_docs": 6,
       "root": 14,
       "crypto-finance": 13,
       "esoterica": 74,
@@ -14,7 +14,7 @@
     "tags": 182,
     "wikilinkEdges": 2060,
     "brokenLinks": 0,
-    "orphans": 7
+    "orphans": 8
   },
   "domains": {
     "_docs": [
@@ -111,6 +111,32 @@
         "backlinks": [],
         "words": 947,
         "summary": "Updated: 2026-06-05T19:59:15"
+      },
+      {
+        "path": "_docs/VAULT-STRATEGY-AUDIT.md",
+        "title": "Vault Strategy Audit — redpill.wiki",
+        "domain": "_docs",
+        "tags": [],
+        "aliases": [],
+        "headings": [
+          "Vault Strategy Audit — redpill.wiki",
+          "Executive read",
+          "Domain coverage",
+          "Queue 1 — Flagship candidates",
+          "Queue 2 — Expand candidates",
+          "Queue 3 — Utility / keep-short pages",
+          "Queue 4 — High-risk notes: Source Discipline status",
+          "Queue 5 — SEO potential candidates",
+          "Queue 6 — Current Events Lab candidates",
+          "Recommended next 90-day editorial sequence",
+          "Method notes / limitations"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [],
+        "words": 12479,
+        "summary": "Generated: 2026-06-06 GMT+7 Scope: whole-vault strategy pass based on `_docs/knowledge-map.json`, existing SEO/thin-page docs, root index/MOCs, and targeted article metadata/body scans."
       },
       {
         "path": "_docs/WORLD-CUP-2026-PATTERN-AUDIT.md",
@@ -17385,6 +17411,32 @@
       "summary": "Updated: 2026-06-05T19:59:15"
     },
     {
+      "path": "_docs/VAULT-STRATEGY-AUDIT.md",
+      "title": "Vault Strategy Audit — redpill.wiki",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Vault Strategy Audit — redpill.wiki",
+        "Executive read",
+        "Domain coverage",
+        "Queue 1 — Flagship candidates",
+        "Queue 2 — Expand candidates",
+        "Queue 3 — Utility / keep-short pages",
+        "Queue 4 — High-risk notes: Source Discipline status",
+        "Queue 5 — SEO potential candidates",
+        "Queue 6 — Current Events Lab candidates",
+        "Recommended next 90-day editorial sequence",
+        "Method notes / limitations"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 12479,
+      "summary": "Generated: 2026-06-06 GMT+7 Scope: whole-vault strategy pass based on `_docs/knowledge-map.json`, existing SEO/thin-page docs, root index/MOCs, and targeted article metadata/body scans."
+    },
+    {
       "path": "_docs/WORLD-CUP-2026-PATTERN-AUDIT.md",
       "title": "World Cup 2026 Pattern Audit — Pre-Tournament Evidence Snapshot",
       "domain": "_docs",
@@ -19477,6 +19529,32 @@
       "backlinks": [],
       "words": 947,
       "summary": "Updated: 2026-06-05T19:59:15"
+    },
+    "_docs/VAULT-STRATEGY-AUDIT.md": {
+      "path": "_docs/VAULT-STRATEGY-AUDIT.md",
+      "title": "Vault Strategy Audit — redpill.wiki",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Vault Strategy Audit — redpill.wiki",
+        "Executive read",
+        "Domain coverage",
+        "Queue 1 — Flagship candidates",
+        "Queue 2 — Expand candidates",
+        "Queue 3 — Utility / keep-short pages",
+        "Queue 4 — High-risk notes: Source Discipline status",
+        "Queue 5 — SEO potential candidates",
+        "Queue 6 — Current Events Lab candidates",
+        "Recommended next 90-day editorial sequence",
+        "Method notes / limitations"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 12479,
+      "summary": "Generated: 2026-06-06 GMT+7 Scope: whole-vault strategy pass based on `_docs/knowledge-map.json`, existing SEO/thin-page docs, root index/MOCs, and targeted article metadata/body scans."
     },
     "_docs/WORLD-CUP-2026-PATTERN-AUDIT.md": {
       "path": "_docs/WORLD-CUP-2026-PATTERN-AUDIT.md",

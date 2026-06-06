@@ -1,0 +1,4023 @@
+{
+  "generated_at": "2026-06-06T07:43:00+07:00",
+  "source_map": "_docs/knowledge-map.json",
+  "map_stats": {
+    "notes": 205,
+    "domains": {
+      "_docs": 6,
+      "root": 14,
+      "crypto-finance": 13,
+      "esoterica": 74,
+      "health": 27,
+      "mental-models": 28,
+      "politics-conspiracy": 26,
+      "science-tech": 17
+    },
+    "tags": 182,
+    "wikilinkEdges": 2060,
+    "brokenLinks": 0,
+    "orphans": 8
+  },
+  "coverage": {
+    "audited_public_notes": 199,
+    "domains": {
+      "root": {
+        "notes": 14,
+        "words": 12364,
+        "utility": 13,
+        "risk": 11,
+        "avg_words": 883
+      },
+      "crypto-finance": {
+        "notes": 13,
+        "words": 17607,
+        "utility": 1,
+        "risk": 12,
+        "avg_words": 1354
+      },
+      "esoterica": {
+        "notes": 74,
+        "words": 118067,
+        "utility": 1,
+        "risk": 64,
+        "avg_words": 1596
+      },
+      "health": {
+        "notes": 27,
+        "words": 30271,
+        "utility": 1,
+        "risk": 27,
+        "avg_words": 1121
+      },
+      "mental-models": {
+        "notes": 28,
+        "words": 45849,
+        "utility": 1,
+        "risk": 23,
+        "avg_words": 1637
+      },
+      "politics-conspiracy": {
+        "notes": 26,
+        "words": 38719,
+        "utility": 1,
+        "risk": 26,
+        "avg_words": 1489
+      },
+      "science-tech": {
+        "notes": 17,
+        "words": 17856,
+        "utility": 1,
+        "risk": 15,
+        "avg_words": 1050
+      }
+    },
+    "queue_counts": {
+      "flagship_candidates": 35,
+      "expand_candidates": 27,
+      "utility_keep_short_pages": 43,
+      "high_risk_notes": 70,
+      "seo_potential_candidates": 60,
+      "current_events_lab_candidates": 35
+    }
+  },
+  "queues": {
+    "flagship_candidates": [
+      {
+        "path": "esoterica/Ma Trận.md",
+        "title": "Ma Trận (The Matrix)",
+        "priority": "P0",
+        "score": 244.4,
+        "reason": "High graph centrality (degree 121, backlinks 95) plus 2063 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "politics-conspiracy/Elite.md",
+        "title": "Elite (Giới Tinh Hoa)",
+        "priority": "P0",
+        "score": 208.3,
+        "reason": "High graph centrality (degree 97, backlinks 63) plus 1899 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "science-tech/Khoa Học Xét Lại.md",
+        "title": "Khoa Học Xét Lại",
+        "priority": "P0",
+        "score": 174.3,
+        "reason": "High graph centrality (degree 78, backlinks 52) plus 1606 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Gnosis.md",
+        "title": "Gnosis (Ngộ Đạo)",
+        "priority": "P0",
+        "score": 151.2,
+        "reason": "High graph centrality (degree 55, backlinks 43) plus 1968 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "title": "Ma Trận — Giải Phẫu Hoàn Chỉnh",
+        "priority": "P0",
+        "score": 148.0,
+        "reason": "High graph centrality (degree 55, backlinks 24) plus 1839 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "title": "Kiểm Soát Tâm Trí (Mind Control)",
+        "priority": "P0",
+        "score": 132.9,
+        "reason": "High graph centrality (degree 52, backlinks 42) plus 1405 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Monad.md",
+        "title": "Monad (Đơn Thể Tối Cao)",
+        "priority": "P0",
+        "score": 128.2,
+        "reason": "High graph centrality (degree 38, backlinks 27) plus 2158 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Sự Nhất Thể.md",
+        "title": "Sự Nhất Thể (Oneness)",
+        "priority": "P0",
+        "score": 123.3,
+        "reason": "High graph centrality (degree 35, backlinks 26) plus 1972 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "health/Y Tế Tự Nhiên.md",
+        "title": "Y Tế Tự Nhiên",
+        "priority": "P0",
+        "score": 120.4,
+        "reason": "High graph centrality (degree 48, backlinks 38) plus 1127 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "politics-conspiracy/Báo Cáo 2030.md",
+        "title": "Báo Cáo 2030",
+        "priority": "P0",
+        "score": 116.3,
+        "reason": "High graph centrality (degree 40, backlinks 31) plus 1413 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "mental-models/Individuation.md",
+        "title": "Individuation",
+        "priority": "P0",
+        "score": 114.6,
+        "reason": "High graph centrality (degree 46, backlinks 38) plus 1007 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "crypto-finance/Bitcoin.md",
+        "title": "Bitcoin",
+        "priority": "P0",
+        "score": 109.8,
+        "reason": "High graph centrality (degree 37, backlinks 23) plus 1321 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "title": "Karma Disclosure - Truth Hidden In Plain Sight",
+        "priority": "P0",
+        "score": 108.0,
+        "reason": "High graph centrality (degree 33, backlinks 22) plus 1472 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "health/Thuyết Vi Sinh Nội Sinh.md",
+        "title": "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
+        "priority": "P0",
+        "score": 104.8,
+        "reason": "High graph centrality (degree 33, backlinks 24) plus 1343 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "mental-models/Vô Thức Tập Thể.md",
+        "title": "Vô Thức Tập Thể",
+        "priority": "P0",
+        "score": 102.9,
+        "reason": "High graph centrality (degree 38, backlinks 29) plus 990 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "title": "Walter Russell",
+        "priority": "P0",
+        "score": 100.6,
+        "reason": "High graph centrality (degree 29, backlinks 16) plus 2517 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "title": "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "priority": "P0",
+        "score": 100.5,
+        "reason": "High graph centrality (degree 29, backlinks 21) plus 1398 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "title": "Nghịch Lý Của Hiểu Biết",
+        "priority": "P0",
+        "score": 99.8,
+        "reason": "High graph centrality (degree 34, backlinks 24) plus 1487 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+        "priority": "P0",
+        "score": 97.8,
+        "reason": "High graph centrality (degree 27, backlinks 18) plus 2310 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "title": "Walter Russell",
+        "priority": "P0",
+        "score": 96.4,
+        "reason": "High graph centrality (degree 26, backlinks 9) plus 2756 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "title": "Walter Russell",
+        "priority": "P0",
+        "score": 96.4,
+        "reason": "High graph centrality (degree 26, backlinks 2) plus 3179 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "title": "Loosh — Năng Lượng Thu Hoạch Từ Con Người",
+        "priority": "P0",
+        "score": 94.0,
+        "reason": "High graph centrality (degree 27, backlinks 17) plus 1847 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "health/Tuyến Tùng.md",
+        "title": "Tuyến Tùng",
+        "priority": "P0",
+        "score": 93.0,
+        "reason": "High graph centrality (degree 31, backlinks 21) plus 984 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "mental-models/Nhị Nguyên.md",
+        "title": "Nhị Nguyên (Duality)",
+        "priority": "P0",
+        "score": 92.2,
+        "reason": "High graph centrality (degree 35, backlinks 29) plus 727 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "title": "Walter Russell",
+        "priority": "P0",
+        "score": 92.2,
+        "reason": "High graph centrality (degree 23, backlinks 12) plus 5389 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "title": "Avatar - Disclosure Của Eywa & Gaia",
+        "priority": "P0",
+        "score": 90.8,
+        "reason": "High graph centrality (degree 22, backlinks 2) plus 3265 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+        "title": "Walter Russell",
+        "priority": "P0",
+        "score": 90.8,
+        "reason": "High graph centrality (degree 22, backlinks 7) plus 3356 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Tartaria.md",
+        "title": "Tartaria",
+        "priority": "P0",
+        "score": 90.3,
+        "reason": "High graph centrality (degree 30, backlinks 23) plus 1331 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Một Đời Phù Vân.md",
+        "title": "Walter Russell",
+        "priority": "P0",
+        "score": 88.0,
+        "reason": "High graph centrality (degree 20, backlinks 1) plus 8643 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "title": "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "priority": "P0",
+        "score": 87.1,
+        "reason": "High graph centrality (degree 20, backlinks 10) plus 1963 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Sacred Geometry.md",
+        "title": "Sacred Geometry (Hình Học Thiêng)",
+        "priority": "P0",
+        "score": 86.4,
+        "reason": "High graph centrality (degree 26, backlinks 9) plus 2158 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "title": "Walter Russell",
+        "priority": "P0",
+        "score": 85.2,
+        "reason": "High graph centrality (degree 18, backlinks 9) plus 4304 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+        "title": "Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness",
+        "priority": "P0",
+        "score": 85.2,
+        "reason": "High graph centrality (degree 18, backlinks 9) plus 2064 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "science-tech/Năng Lượng Aether.md",
+        "title": "Năng Lượng Aether",
+        "priority": "P0",
+        "score": 84.9,
+        "reason": "High graph centrality (degree 28, backlinks 22) plus 830 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      },
+      {
+        "path": "mental-models/Tâm Lý Học Jung.md",
+        "title": "Tâm Lý Học Jung",
+        "priority": "P0",
+        "score": 84.5,
+        "reason": "High graph centrality (degree 29, backlinks 22) plus 756 words; strong candidate to become/serve as a public landing article.",
+        "next_action": "Tighten intro/meta, add Source/Vault Position if controversial, ensure 5-8 strategic internal links, then consider featuring in index/MOC."
+      }
+    ],
+    "expand_candidates": [
+      {
+        "path": "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+        "title": "Nibiru và Nền Văn Minh Annunaki",
+        "priority": "P0",
+        "score": 100,
+        "reason": "already classified as expand in thin-page audit; short but connected (770 words, degree 12); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "politics-conspiracy/MindGeek.md",
+        "title": "MindGeek (Aylo)",
+        "priority": "P0",
+        "score": 80,
+        "reason": "already classified as expand in thin-page audit; short but connected (806 words, degree 10)",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "esoterica/Nibiru.md",
+        "title": "Nibiru (Hành Tinh X)",
+        "priority": "P1",
+        "score": 75,
+        "reason": "already classified as expand in thin-page audit; matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+        "title": "Tartaria và Vạn Lý Trường Thành: Góc Nhìn Kinh Thế Ký",
+        "priority": "P1",
+        "score": 75,
+        "reason": "already classified as expand in thin-page audit; matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "title": "Climate Anxiety as Control - Fear-Based Compliance",
+        "priority": "P1",
+        "score": 75,
+        "reason": "already classified as expand in thin-page audit; matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "title": "UBI Conditioning - The End of Work Ethic",
+        "priority": "P1",
+        "score": 75,
+        "reason": "already classified as expand in thin-page audit; matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "science-tech/Walter Russell.md",
+        "title": "Walter Russell",
+        "priority": "P1",
+        "score": 75,
+        "reason": "already classified as expand in thin-page audit; matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "title": "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng",
+        "priority": "P1",
+        "score": 60,
+        "reason": "short but connected (778 words, degree 12); matches an SEO/search-intent cluster; controversial topic lacks obvious source-discipline framing",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+        "title": "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+        "priority": "P1",
+        "score": 60,
+        "reason": "short but connected (711 words, degree 12); matches an SEO/search-intent cluster; controversial topic lacks obvious source-discipline framing",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "esoterica/Saturn Cube.md",
+        "title": "Saturn Cube (Khối Lập Phương Sao Thổ)",
+        "priority": "P1",
+        "score": 55,
+        "reason": "already classified as expand in thin-page audit",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "crypto-finance/Secular Market.md",
+        "title": "Secular Market (Thị Trường Chu Kỳ Dài)",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (782 words, degree 12); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "esoterica/Nhân Quả.md",
+        "title": "Nhân Quả",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (721 words, degree 21); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "esoterica/Thực Thể Cõi Trung Giới.md",
+        "title": "Thực Thể Cõi Trung Giới (Astral Entities)",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (753 words, degree 16); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "esoterica/Tinh Khí Thần.md",
+        "title": "Tinh Khí Thần",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (874 words, degree 25); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "esoterica/Tà Linh.md",
+        "title": "Tà Linh",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (888 words, degree 17); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+        "title": "Giải Mã Vũ Trụ - Y Tế - Tâm Linh",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (859 words, degree 13); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "title": "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (848 words, degree 13); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "title": "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (703 words, degree 16); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "title": "Chia Tách Bởi Nhị Nguyên",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (775 words, degree 12); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "mental-models/Mô Hình Địa Tâm.md",
+        "title": "Mô Hình Địa Tâm (Geocentrism)",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (821 words, degree 24); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "mental-models/Nhị Nguyên.md",
+        "title": "Nhị Nguyên (Duality)",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (727 words, degree 35); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "title": "Sợ hãi - Tham Lam – Cân bằng",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (885 words, degree 14); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "mental-models/Tâm Lý Học Jung.md",
+        "title": "Tâm Lý Học Jung",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (756 words, degree 29); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "title": "Khế Ước Bí Mật Rockefeller (The Secret Covenant)",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (829 words, degree 21); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "title": "Thuyết Trái Đất Phẳng (Flat Earth Theory)",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (836 words, degree 22); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "title": "Digital ID Normalization - From Instagram to Government ID",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (837 words, degree 11); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      },
+      {
+        "path": "science-tech/Năng Lượng Aether.md",
+        "title": "Năng Lượng Aether",
+        "priority": "P2",
+        "score": 45,
+        "reason": "short but connected (830 words, degree 28); matches an SEO/search-intent cluster",
+        "next_action": "Expand only with a defined angle: add Vault Position/Evidence Discipline, glossary terms if needed, and 3-5 contextual internal links. Avoid padding for word count."
+      }
+    ],
+    "utility_keep_short_pages": [
+      {
+        "path": "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+        "title": "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "Cách Đọc Red Pill Wiki.md",
+        "title": "Cách Đọc Red Pill Wiki",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "Glossary - Từ Điển Red Pill Wiki.md",
+        "title": "Glossary - Từ Điển Red Pill Wiki",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "MOC - Ancient Civilizations & Hidden History.md",
+        "title": "MOC - Ancient Civilizations & Hidden History",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "MOC - Epistemology & Propaganda.md",
+        "title": "MOC - Epistemology & Propaganda",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "MOC - Esoterica & Consciousness.md",
+        "title": "MOC - Esoterica & Consciousness",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "MOC - Financial Sovereignty.md",
+        "title": "MOC - Financial Sovereignty",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "MOC - Health Sovereignty.md",
+        "title": "MOC - Health Sovereignty",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "MOC - Market Psychology & Risk.md",
+        "title": "MOC - Market Psychology & Risk",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "MOC - Science Revisionism.md",
+        "title": "MOC - Science Revisionism",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "README.md",
+        "title": "🧠 Knowledge Base",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md",
+        "title": "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "crypto-finance/Secular Market.md",
+        "title": "Secular Market (Thị Trường Chu Kỳ Dài)",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "crypto-finance/index.md",
+        "title": "Crypto & Finance Domain Gateway",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "esoterica/Chimera.md",
+        "title": "Chimera (Thể Trộn Lẫn)",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+        "title": "Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "esoterica/Lemuria.md",
+        "title": "Lemuria (Mu)",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "title": "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+        "title": "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "esoterica/Nhân Quả.md",
+        "title": "Nhân Quả",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "esoterica/Núi Tu Di.md",
+        "title": "Núi Tu Di",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "esoterica/Năng Lượng Natri.md",
+        "title": "Năng Lượng Natri (Sodium Energy)",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "esoterica/Nỏ Thần.md",
+        "title": "Nỏ Thần",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "esoterica/Thuật Giả Kim Của Newton.md",
+        "title": "Thuật Giả Kim Của Newton",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "esoterica/Thánh Issa.md",
+        "title": "Thánh Issa (Hành trình Tây Tạng của Chúa)",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "esoterica/Thực Thể Cõi Trung Giới.md",
+        "title": "Thực Thể Cõi Trung Giới (Astral Entities)",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "esoterica/index.md",
+        "title": "Esoterica Domain Gateway",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "title": "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "health/index.md",
+        "title": "Health Domain Gateway",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "index.md",
+        "title": "Red Pill Wiki",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "title": "Chia Tách Bởi Nhị Nguyên",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "mental-models/Mô Hình Địa Tâm.md",
+        "title": "Mô Hình Địa Tâm (Geocentrism)",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "mental-models/Nhị Nguyên.md",
+        "title": "Nhị Nguyên (Duality)",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "mental-models/Thông Minh.md",
+        "title": "Thông Minh",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "mental-models/Tâm Lý Học Jung.md",
+        "title": "Tâm Lý Học Jung",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "mental-models/index.md",
+        "title": "Mental Models Domain Gateway",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "politics-conspiracy/Dark MAGA.md",
+        "title": "Dark MAGA",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "politics-conspiracy/MAGA Và Số 42.md",
+        "title": "MAGA Và Số 42",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "politics-conspiracy/Mudflood.md",
+        "title": "Mudflood (Đại Hồng Thủy Bùn)",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
+        "title": "Phân Tích Hình Ảnh - Elon Musk và MAGA",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "politics-conspiracy/index.md",
+        "title": "Politics & Conspiracy Domain Gateway",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
+        "title": "Cỗ Máy Antikythera và Minh Chứng Địa Tâm",
+        "classification": "keep",
+        "reason": "Short evergreen note acceptable until it becomes a priority page.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      },
+      {
+        "path": "science-tech/index.md",
+        "title": "Science & Tech Domain Gateway",
+        "classification": "utility",
+        "reason": "Navigation/reference/short evergreen page where usefulness beats length.",
+        "next_action": "Keep short; improve snippets/internal links opportunistically, do not force artificial expansion."
+      }
+    ],
+    "high_risk_notes": [
+      {
+        "path": "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+        "title": "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "cbdc",
+          "digital id",
+          "disclosure",
+          "kiểm soát",
+          "uap"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "how to read",
+          "không phải",
+          "kỷ luật nguồn",
+          "source discipline",
+          "speculative",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "Cách Đọc Red Pill Wiki.md",
+        "title": "Cách Đọc Red Pill Wiki",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "cbdc",
+          "digital id",
+          "disclosure",
+          "elite",
+          "kiểm soát",
+          "terrain",
+          "thuốc"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "fact /",
+          "giả thuyết",
+          "how to read",
+          "không phải",
+          "kỷ luật nguồn",
+          "pattern /",
+          "source discipline"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "Glossary - Từ Điển Red Pill Wiki.md",
+        "title": "Glossary - Từ Điển Red Pill Wiki",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "cbdc",
+          "digital id",
+          "disclosure",
+          "elite",
+          "kiểm soát",
+          "terrain"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "giả thuyết",
+          "không phải",
+          "kỷ luật nguồn",
+          "source discipline",
+          "speculative"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "MOC - Epistemology & Propaganda.md",
+        "title": "MOC - Epistemology & Propaganda",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "climate anxiety",
+          "digital id",
+          "disclosure",
+          "kiểm soát",
+          "mind control",
+          "uap"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "fact /",
+          "how to read",
+          "không phải",
+          "pattern /",
+          "source discipline",
+          "speculative",
+          "symbol /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "MOC - Health Sovereignty.md",
+        "title": "MOC - Health Sovereignty",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "cancer",
+          "fasting",
+          "metabolic",
+          "pharma",
+          "terrain",
+          "thuốc",
+          "ung thư",
+          "vi sinh"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "how to read",
+          "không phải",
+          "source discipline"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "MOC - Science Revisionism.md",
+        "title": "MOC - Science Revisionism",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "digital id",
+          "directed energy",
+          "hạt nhân",
+          "nuclear",
+          "terrain",
+          "thuốc",
+          "trái đất phẳng",
+          "vi sinh"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "how to read",
+          "không phải",
+          "source discipline"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md",
+        "title": "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "cancer",
+          "cbdc",
+          "digital id",
+          "disclosure",
+          "elite",
+          "metabolic"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "giả thuyết",
+          "không phải",
+          "kỷ luật nguồn",
+          "medical advice",
+          "pattern /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "crypto-finance/Bitcoin.md",
+        "title": "Bitcoin",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "cbdc",
+          "elite",
+          "kiểm soát"
+        ],
+        "source_safety_signals": [
+          "không phải",
+          "speculative",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "title": "Gen Z và CBDC - Programmable Money Psychology",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "cbdc",
+          "digital id",
+          "kiểm soát",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "không phải",
+          "speculative"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "crypto-finance/Privacy.md",
+        "title": "Privacy (Quyền Riêng Tư)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "cbdc",
+          "digital id",
+          "elite",
+          "kiểm soát"
+        ],
+        "source_safety_signals": [
+          "không phải",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "crypto-finance/Secular Market.md",
+        "title": "Secular Market (Thị Trường Chu Kỳ Dài)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "elite",
+          "kiểm soát"
+        ],
+        "source_safety_signals": [
+          "không phải"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "title": "Tiền Giấy - Tiền Mặt (Fiat Currency)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "cbdc",
+          "elite"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "không phải",
+          "speculative"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "crypto-finance/index.md",
+        "title": "Crypto & Finance Domain Gateway",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "cbdc",
+          "digital id",
+          "kiểm soát",
+          "porn"
+        ],
+        "source_safety_signals": [
+          "how to read",
+          "không phải",
+          "speculative"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "title": "Điều Mà Trường Học Không Dạy Về Tiền",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "elite",
+          "khế ước",
+          "kiểm soát",
+          "mind control",
+          "rockefeller",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "không phải"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Atlantis.md",
+        "title": "Atlantis",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "antarctica",
+          "elite",
+          "kiểm soát",
+          "mind control",
+          "vũ khí"
+        ],
+        "source_safety_signals": [
+          "không phải"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Cabal.md",
+        "title": "Cabal (Thế Lực Ngầm)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "cbdc",
+          "digital id",
+          "disclosure",
+          "elite",
+          "kiểm soát"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /",
+          "speculative",
+          "symbol /",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Chimera.md",
+        "title": "Chimera (Thể Trộn Lẫn)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "elite",
+          "thuốc",
+          "vũ khí"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "không phải",
+          "speculative",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Chu Kỳ Hoàng Đạo.md",
+        "title": "Chu Kỳ Hoàng Đạo",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "cancer",
+          "disclosure",
+          "elite"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "speculative",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "title": "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "agenda",
+          "disclosure",
+          "elite",
+          "kiểm soát",
+          "mind control"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "không phải",
+          "speculative",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+        "title": "Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "thuốc",
+          "vaccine",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "không phải"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "title": "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "disclosure",
+          "elite",
+          "kiểm soát",
+          "mind control"
+        ],
+        "source_safety_signals": [
+          "không phải"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "title": "Ma Trận — Giải Phẫu Hoàn Chỉnh",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "elite",
+          "kiểm soát",
+          "thuốc",
+          "trái đất phẳng",
+          "vi sinh",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "giả thuyết",
+          "không phải"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Ma Trận.md",
+        "title": "Ma Trận (The Matrix)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "disclosure",
+          "elite",
+          "kiểm soát",
+          "pharma",
+          "porn",
+          "terrain",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "fact /",
+          "how to read",
+          "không phải",
+          "pattern /",
+          "speculative",
+          "symbol /",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "title": "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "elite",
+          "kiểm soát",
+          "pharma",
+          "thuốc",
+          "vũ khí",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "evidence discipline"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+        "title": "Nibiru và Nền Văn Minh Annunaki",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "kiểm soát",
+          "trái đất phẳng",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "evidence discipline",
+          "giả thuyết",
+          "không phải"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Núi Tu Di.md",
+        "title": "Núi Tu Di",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "antarctica",
+          "flat earth",
+          "trái đất phẳng"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "giả thuyết",
+          "không phải",
+          "speculative",
+          "symbol /",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Năng Lượng Natri.md",
+        "title": "Năng Lượng Natri (Sodium Energy)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "hạt nhân",
+          "kiểm soát",
+          "radiation",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /",
+          "speculative",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "title": "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "disclosure",
+          "elite",
+          "kiểm soát",
+          "vaccine"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "giả thuyết",
+          "không phải",
+          "speculative",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
+        "title": "Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "cancer",
+          "elite",
+          "kiểm soát",
+          "mind control",
+          "pharma",
+          "thuốc",
+          "ung thư",
+          "vũ khí"
+        ],
+        "source_safety_signals": [
+          "không phải"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Thực Thể Cõi Trung Giới.md",
+        "title": "Thực Thể Cõi Trung Giới (Astral Entities)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "kiểm soát",
+          "mindgeek",
+          "porn"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "kỷ luật nguồn"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "title": "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "khế ước",
+          "kiểm soát",
+          "rockefeller",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "không phải",
+          "kỷ luật nguồn"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Vận Chín.md",
+        "title": "Vận Chín (Period 9)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "disclosure",
+          "uap",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "không phải",
+          "speculative",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "title": "Word Magic - Ngôn Ngữ Của Phù Thủy",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "disclosure",
+          "elite",
+          "kiểm soát",
+          "uap",
+          "vũ khí"
+        ],
+        "source_safety_signals": [
+          "không phải"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "esoterica/Đạo.md",
+        "title": "Đạo",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "kiểm soát",
+          "terrain",
+          "thuốc"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "không phải",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Bệnh Bạch Cầu.md",
+        "title": "Bệnh Bạch Cầu",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "cancer",
+          "fasting",
+          "kiểm soát",
+          "metabolic",
+          "terrain",
+          "thuốc",
+          "ung thư",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "title": "Công Thức Chữa Lành Tự Nhiên",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "fasting",
+          "hạt nhân",
+          "metabolic",
+          "porn",
+          "terrain",
+          "thuốc",
+          "ung thư",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "title": "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "terrain",
+          "thuốc",
+          "vi sinh",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "không phải",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+        "title": "Giải Mã Vũ Trụ - Y Tế - Tâm Linh",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "kiểm soát",
+          "metabolic",
+          "pharma",
+          "terrain",
+          "vi sinh",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "fact /",
+          "how to read",
+          "không phải",
+          "pattern /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "title": "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "fasting",
+          "kiểm soát",
+          "pharma",
+          "terrain",
+          "vi sinh",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Ketogenic Diet.md",
+        "title": "Ketogenic Diet",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "cancer",
+          "fasting",
+          "metabolic",
+          "terrain",
+          "thuốc",
+          "ung thư",
+          "vi sinh",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "không phải",
+          "medical advice",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "cancer",
+          "elite",
+          "kiểm soát",
+          "metabolic",
+          "pharma",
+          "radiation",
+          "terrain",
+          "thuốc"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "fact /",
+          "how to read",
+          "không phải",
+          "pattern /",
+          "speculative"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "title": "Mebendazole — Thuốc Tẩy Giun Chống Ung Thư",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "cancer",
+          "fasting",
+          "metabolic",
+          "mind control",
+          "pharma",
+          "terrain",
+          "thuốc",
+          "ung thư"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "medical advice",
+          "pattern /",
+          "speculative",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
+        "title": "Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "kiểm soát",
+          "metabolic",
+          "pharma",
+          "terrain",
+          "thuốc",
+          "vi sinh",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "fact /",
+          "how to read",
+          "không phải",
+          "kỷ luật nguồn",
+          "pattern /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "title": "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "khế ước",
+          "kiểm soát",
+          "metabolic",
+          "pharma",
+          "rockefeller",
+          "terrain",
+          "thuốc",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "fact /",
+          "how to read",
+          "không phải",
+          "kỷ luật nguồn",
+          "pattern /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Plasma Quinton.md",
+        "title": "Plasma Quinton (Huyết Tương Biển)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "fasting",
+          "terrain",
+          "thuốc",
+          "vi sinh",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "medical advice",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Prolonged Fasting.md",
+        "title": "Prolonged Fasting",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "cancer",
+          "fasting",
+          "metabolic",
+          "thuốc",
+          "ung thư",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "không phải",
+          "medical advice",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/René Quinton và Huyết Tương Biển.md",
+        "title": "René Quinton và Huyết Tương Biển",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "terrain",
+          "thuốc",
+          "vi sinh",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Su That Ve Benh Dai Va Vac Xin.md",
+        "title": "Sự Thật Về Bệnh Dại Và Vắc Xin (Góc Nhìn Terrain Theory)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "khế ước",
+          "kiểm soát",
+          "metabolic",
+          "pharma",
+          "rockefeller",
+          "terrain",
+          "vaccine",
+          "vi sinh"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "fact /",
+          "how to read",
+          "không phải",
+          "kỷ luật nguồn",
+          "pattern /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Suramin.md",
+        "title": "Suramin",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "cancer",
+          "pharma",
+          "terrain",
+          "thuốc",
+          "ung thư",
+          "vi sinh",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "source discipline",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Suy Thận.md",
+        "title": "Suy Thận (Kidney Failure)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "kiểm soát",
+          "metabolic",
+          "terrain",
+          "thuốc",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/The China Study.md",
+        "title": "The China Study",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "cancer",
+          "pharma",
+          "terrain",
+          "thuốc",
+          "ung thư",
+          "vi sinh",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Thuyết Vi Sinh Nội Sinh.md",
+        "title": "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "metabolic",
+          "pharma",
+          "terrain",
+          "thuốc",
+          "vaccine",
+          "vi sinh",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /",
+          "speculative",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Thuốc Hóa Dầu.md",
+        "title": "Thuốc Hóa Dầu (Petrochemical Medicine)",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "fasting",
+          "khế ước",
+          "pharma",
+          "rockefeller",
+          "terrain",
+          "thuốc",
+          "vi sinh",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Tuyến Tùng.md",
+        "title": "Tuyến Tùng",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "terrain",
+          "vi sinh"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "không phải",
+          "speculative",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+        "title": "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "thuốc",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "giả thuyết",
+          "không phải",
+          "pattern /",
+          "speculative",
+          "symbol /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Ung Thư - Metabolic Protocol.md",
+        "title": "Ung Thư — Metabolic Protocol",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "cancer",
+          "fasting",
+          "kiểm soát",
+          "metabolic",
+          "pharma",
+          "radiation",
+          "terrain",
+          "thuốc"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /",
+          "source discipline",
+          "speculative"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Virus và Kiếp Tật Dịch.md",
+        "title": "Virus và Kiếp Tật Dịch",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "khế ước",
+          "kiểm soát",
+          "rockefeller",
+          "terrain",
+          "thuốc",
+          "vaccine",
+          "vi sinh",
+          "y tế"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /",
+          "symbol /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "title": "Vận Chín, Người Kogi và Ma Trận Y Tế - Nhận Thức",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "khế ước",
+          "kiểm soát",
+          "metabolic",
+          "pharma",
+          "rockefeller",
+          "terrain",
+          "thuốc",
+          "ung thư"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "fact /",
+          "how to read",
+          "không phải",
+          "pattern /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "title": "Y Tế Tự Nhiên & Năng Lượng Mới",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "hạt nhân",
+          "khế ước",
+          "kiểm soát",
+          "pharma",
+          "rockefeller",
+          "terrain",
+          "thuốc",
+          "vaccine"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /",
+          "speculative",
+          "symbol /",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/Y Tế Tự Nhiên.md",
+        "title": "Y Tế Tự Nhiên",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "fasting",
+          "kiểm soát",
+          "metabolic",
+          "pharma",
+          "terrain",
+          "thuốc",
+          "ung thư",
+          "vi sinh"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "health/index.md",
+        "title": "Health Domain Gateway",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "cancer",
+          "fasting",
+          "metabolic",
+          "pharma",
+          "terrain",
+          "thuốc",
+          "ung thư"
+        ],
+        "source_safety_signals": [
+          "giả thuyết",
+          "how to read",
+          "không phải",
+          "source discipline",
+          "speculative"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "index.md",
+        "title": "Red Pill Wiki",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "cancer",
+          "cbdc",
+          "climate anxiety",
+          "digital id",
+          "disclosure",
+          "elite"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "không phải",
+          "kỷ luật nguồn",
+          "source discipline",
+          "speculative",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "title": "Climate Anxiety as Control - Fear-Based Compliance",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "cbdc",
+          "climate anxiety",
+          "digital id",
+          "elite",
+          "kiểm soát"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "pattern /",
+          "speculative"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "fasting",
+          "kiểm soát",
+          "porn"
+        ],
+        "source_safety_signals": [
+          "không phải",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "title": "Gen Z - Phân Tích Phản Biện",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "cbdc",
+          "climate anxiety",
+          "digital id",
+          "kiểm soát"
+        ],
+        "source_safety_signals": [
+          "không phải"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "mental-models/Tâm Lý Học Jung.md",
+        "title": "Tâm Lý Học Jung",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "kiểm soát",
+          "porn",
+          "terrain"
+        ],
+        "source_safety_signals": [
+          "không phải",
+          "vault position"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "title": "Walter Russell",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "disclosure",
+          "elite",
+          "hạt nhân",
+          "kiểm soát",
+          "mind control",
+          "nazi"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "không phải",
+          "speculative"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "title": "UBI Conditioning - The End of Work Ethic",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "cbdc",
+          "digital id"
+        ],
+        "source_safety_signals": [
+          "không phải"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "mental-models/index.md",
+        "title": "Mental Models Domain Gateway",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "2030",
+          "agenda",
+          "cbdc",
+          "climate anxiety",
+          "kiểm soát"
+        ],
+        "source_safety_signals": [
+          "how to read",
+          "không phải"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      },
+      {
+        "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "title": "Walter Russell",
+        "priority": "P1",
+        "status": "already-safer",
+        "risk_signals": [
+          "disclosure",
+          "elite",
+          "kiểm soát",
+          "mind control",
+          "uap"
+        ],
+        "source_safety_signals": [
+          "cách đọc",
+          "evidence discipline",
+          "fact /",
+          "không phải",
+          "speculative",
+          "symbol /"
+        ],
+        "reason": "Controversial/high-stakes topic but already shows source/evidence or caveat language; still worth spot-checking before flagship promotion.",
+        "next_action": "Preserve framing; verify strongest claims before further promotion."
+      }
+    ],
+    "seo_potential_candidates": [
+      {
+        "path": "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+        "title": "Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng",
+        "cluster": "predictive_programming",
+        "priority": "P0",
+        "score": 147,
+        "search_intent": "Understand media spectacle, symbolism, and synchronized mass attention",
+        "keyword_hypotheses_vi": [
+          "predictive programming là gì",
+          "nghi lễ đại chúng",
+          "biểu tượng Hollywood"
+        ],
+        "keyword_hypotheses_en": [
+          "predictive programming",
+          "spectacle ritual",
+          "Hollywood occult symbolism"
+        ],
+        "reason": "Matches 6 cluster signals and has degree 17; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "esoterica/Ma Trận.md",
+        "title": "Ma Trận (The Matrix)",
+        "cluster": "matrix_perception",
+        "priority": "P0",
+        "score": 140,
+        "search_intent": "Decode reality, consciousness, epistemology, and perception models",
+        "keyword_hypotheses_vi": [
+          "ma trận là gì",
+          "thoát khỏi ma trận",
+          "ngộ đạo là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "matrix meaning",
+          "gnosis meaning",
+          "collective unconscious"
+        ],
+        "reason": "Matches 4 cluster signals and has degree 121; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "title": "Gen Z và CBDC - Programmable Money Psychology",
+        "cluster": "financial_sovereignty",
+        "priority": "P0",
+        "score": 131,
+        "search_intent": "Money psychology, fiat critique, Bitcoin privacy, CBDC/control rails",
+        "keyword_hypotheses_vi": [
+          "tiền pháp định là gì",
+          "bitcoin privacy",
+          "cbdc là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "fiat currency",
+          "Bitcoin privacy",
+          "CBDC programmable money"
+        ],
+        "reason": "Matches 5 cluster signals and has degree 21; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "title": "Chainlink - Mắt Xích Của Tokenized World",
+        "cluster": "financial_sovereignty",
+        "priority": "P0",
+        "score": 130,
+        "search_intent": "Money psychology, fiat critique, Bitcoin privacy, CBDC/control rails",
+        "keyword_hypotheses_vi": [
+          "tiền pháp định là gì",
+          "bitcoin privacy",
+          "cbdc là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "fiat currency",
+          "Bitcoin privacy",
+          "CBDC programmable money"
+        ],
+        "reason": "Matches 5 cluster signals and has degree 20; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "esoterica/Gnosis.md",
+        "title": "Gnosis (Ngộ Đạo)",
+        "cluster": "matrix_perception",
+        "priority": "P0",
+        "score": 120,
+        "search_intent": "Decode reality, consciousness, epistemology, and perception models",
+        "keyword_hypotheses_vi": [
+          "ma trận là gì",
+          "thoát khỏi ma trận",
+          "ngộ đạo là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "matrix meaning",
+          "gnosis meaning",
+          "collective unconscious"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 55; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "title": "Ma Trận — Giải Phẫu Hoàn Chỉnh",
+        "cluster": "matrix_perception",
+        "priority": "P0",
+        "score": 120,
+        "search_intent": "Decode reality, consciousness, epistemology, and perception models",
+        "keyword_hypotheses_vi": [
+          "ma trận là gì",
+          "thoát khỏi ma trận",
+          "ngộ đạo là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "matrix meaning",
+          "gnosis meaning",
+          "collective unconscious"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 55; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "title": "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "cluster": "financial_sovereignty",
+        "priority": "P0",
+        "score": 110,
+        "search_intent": "Money psychology, fiat critique, Bitcoin privacy, CBDC/control rails",
+        "keyword_hypotheses_vi": [
+          "tiền pháp định là gì",
+          "bitcoin privacy",
+          "cbdc là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "fiat currency",
+          "Bitcoin privacy",
+          "CBDC programmable money"
+        ],
+        "reason": "Matches 4 cluster signals and has degree 20; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "crypto-finance/Bitcoin.md",
+        "title": "Bitcoin",
+        "cluster": "financial_sovereignty",
+        "priority": "P0",
+        "score": 107,
+        "search_intent": "Money psychology, fiat critique, Bitcoin privacy, CBDC/control rails",
+        "keyword_hypotheses_vi": [
+          "tiền pháp định là gì",
+          "bitcoin privacy",
+          "cbdc là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "fiat currency",
+          "Bitcoin privacy",
+          "CBDC programmable money"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 37; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "title": "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "cluster": "financial_sovereignty",
+        "priority": "P0",
+        "score": 106,
+        "search_intent": "Money psychology, fiat critique, Bitcoin privacy, CBDC/control rails",
+        "keyword_hypotheses_vi": [
+          "tiền pháp định là gì",
+          "bitcoin privacy",
+          "cbdc là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "fiat currency",
+          "Bitcoin privacy",
+          "CBDC programmable money"
+        ],
+        "reason": "Matches 4 cluster signals and has degree 16; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "health/Ung Thư - Metabolic Protocol.md",
+        "title": "Ung Thư — Metabolic Protocol",
+        "cluster": "health_sovereignty",
+        "priority": "P0",
+        "score": 106,
+        "search_intent": "Natural health, terrain theory, metabolic protocols, and medical skepticism",
+        "keyword_hypotheses_vi": [
+          "y tế tự nhiên",
+          "terrain theory",
+          "ung thư metabolic protocol"
+        ],
+        "keyword_hypotheses_en": [
+          "health sovereignty",
+          "terrain theory",
+          "metabolic cancer protocol"
+        ],
+        "reason": "Matches 4 cluster signals and has degree 16; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "title": "Mebendazole — Thuốc Tẩy Giun Chống Ung Thư",
+        "cluster": "health_sovereignty",
+        "priority": "P0",
+        "score": 104,
+        "search_intent": "Natural health, terrain theory, metabolic protocols, and medical skepticism",
+        "keyword_hypotheses_vi": [
+          "y tế tự nhiên",
+          "terrain theory",
+          "ung thư metabolic protocol"
+        ],
+        "keyword_hypotheses_en": [
+          "health sovereignty",
+          "terrain theory",
+          "metabolic cancer protocol"
+        ],
+        "reason": "Matches 4 cluster signals and has degree 14; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "title": "Tiền Giấy - Tiền Mặt (Fiat Currency)",
+        "cluster": "financial_sovereignty",
+        "priority": "P0",
+        "score": 101,
+        "search_intent": "Money psychology, fiat critique, Bitcoin privacy, CBDC/control rails",
+        "keyword_hypotheses_vi": [
+          "tiền pháp định là gì",
+          "bitcoin privacy",
+          "cbdc là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "fiat currency",
+          "Bitcoin privacy",
+          "CBDC programmable money"
+        ],
+        "reason": "Matches 4 cluster signals and has degree 21; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "Cách Đọc Red Pill Wiki.md",
+        "title": "Cách Đọc Red Pill Wiki",
+        "cluster": "redpill_onboarding",
+        "priority": "P0",
+        "score": 100,
+        "search_intent": "Brand, source discipline, glossary, methodology, and how to read the vault",
+        "keyword_hypotheses_vi": [
+          "redpill wiki",
+          "cách đọc red pill wiki",
+          "từ điển red pill"
+        ],
+        "keyword_hypotheses_en": [
+          "redpill wiki",
+          "red pill wiki Vietnamese",
+          "how to read redpill wiki"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 50; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "index.md",
+        "title": "Red Pill Wiki",
+        "cluster": "redpill_onboarding",
+        "priority": "P0",
+        "score": 100,
+        "search_intent": "Brand, source discipline, glossary, methodology, and how to read the vault",
+        "keyword_hypotheses_vi": [
+          "redpill wiki",
+          "cách đọc red pill wiki",
+          "từ điển red pill"
+        ],
+        "keyword_hypotheses_en": [
+          "redpill wiki",
+          "red pill wiki Vietnamese",
+          "how to read redpill wiki"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 135; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "title": "Kiểm Soát Tâm Trí (Mind Control)",
+        "cluster": "matrix_perception",
+        "priority": "P0",
+        "score": 100,
+        "search_intent": "Decode reality, consciousness, epistemology, and perception models",
+        "keyword_hypotheses_vi": [
+          "ma trận là gì",
+          "thoát khỏi ma trận",
+          "ngộ đạo là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "matrix meaning",
+          "gnosis meaning",
+          "collective unconscious"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 52; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "science-tech/Khoa Học Xét Lại.md",
+        "title": "Khoa Học Xét Lại",
+        "cluster": "science_revisionism",
+        "priority": "P0",
+        "score": 100,
+        "search_intent": "Alternative science, suppressed tech, cosmology, aether, and institution critique",
+        "keyword_hypotheses_vi": [
+          "khoa học xét lại",
+          "Nikola Tesla",
+          "năng lượng aether"
+        ],
+        "keyword_hypotheses_en": [
+          "science revisionism",
+          "Nikola Tesla suppressed technology",
+          "aether energy"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 78; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "title": "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "cluster": "predictive_programming",
+        "priority": "P0",
+        "score": 99,
+        "search_intent": "Understand media spectacle, symbolism, and synchronized mass attention",
+        "keyword_hypotheses_vi": [
+          "predictive programming là gì",
+          "nghi lễ đại chúng",
+          "biểu tượng Hollywood"
+        ],
+        "keyword_hypotheses_en": [
+          "predictive programming",
+          "spectacle ritual",
+          "Hollywood occult symbolism"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 29; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "title": "Walter Russell",
+        "cluster": "science_revisionism",
+        "priority": "P0",
+        "score": 99,
+        "search_intent": "Alternative science, suppressed tech, cosmology, aether, and institution critique",
+        "keyword_hypotheses_vi": [
+          "khoa học xét lại",
+          "Nikola Tesla",
+          "năng lượng aether"
+        ],
+        "keyword_hypotheses_en": [
+          "science revisionism",
+          "Nikola Tesla suppressed technology",
+          "aether energy"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 29; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "MOC - Market Psychology & Risk.md",
+        "title": "MOC - Market Psychology & Risk",
+        "cluster": "financial_sovereignty",
+        "priority": "P0",
+        "score": 98,
+        "search_intent": "Money psychology, fiat critique, Bitcoin privacy, CBDC/control rails",
+        "keyword_hypotheses_vi": [
+          "tiền pháp định là gì",
+          "bitcoin privacy",
+          "cbdc là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "fiat currency",
+          "Bitcoin privacy",
+          "CBDC programmable money"
+        ],
+        "reason": "Matches 4 cluster signals and has degree 18; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "health/Y Tế Tự Nhiên.md",
+        "title": "Y Tế Tự Nhiên",
+        "cluster": "health_sovereignty",
+        "priority": "P0",
+        "score": 98,
+        "search_intent": "Natural health, terrain theory, metabolic protocols, and medical skepticism",
+        "keyword_hypotheses_vi": [
+          "y tế tự nhiên",
+          "terrain theory",
+          "ung thư metabolic protocol"
+        ],
+        "keyword_hypotheses_en": [
+          "health sovereignty",
+          "terrain theory",
+          "metabolic cancer protocol"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 48; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "health/Ketogenic Diet.md",
+        "title": "Ketogenic Diet",
+        "cluster": "health_sovereignty",
+        "priority": "P0",
+        "score": 96,
+        "search_intent": "Natural health, terrain theory, metabolic protocols, and medical skepticism",
+        "keyword_hypotheses_vi": [
+          "y tế tự nhiên",
+          "terrain theory",
+          "ung thư metabolic protocol"
+        ],
+        "keyword_hypotheses_en": [
+          "health sovereignty",
+          "terrain theory",
+          "metabolic cancer protocol"
+        ],
+        "reason": "Matches 4 cluster signals and has degree 16; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "mental-models/Individuation.md",
+        "title": "Individuation",
+        "cluster": "matrix_perception",
+        "priority": "P0",
+        "score": 96,
+        "search_intent": "Decode reality, consciousness, epistemology, and perception models",
+        "keyword_hypotheses_vi": [
+          "ma trận là gì",
+          "thoát khỏi ma trận",
+          "ngộ đạo là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "matrix meaning",
+          "gnosis meaning",
+          "collective unconscious"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 46; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "science-tech/Nikola Tesla.md",
+        "title": "Nikola Tesla",
+        "cluster": "science_revisionism",
+        "priority": "P0",
+        "score": 96,
+        "search_intent": "Alternative science, suppressed tech, cosmology, aether, and institution critique",
+        "keyword_hypotheses_vi": [
+          "khoa học xét lại",
+          "Nikola Tesla",
+          "năng lượng aether"
+        ],
+        "keyword_hypotheses_en": [
+          "science revisionism",
+          "Nikola Tesla suppressed technology",
+          "aether energy"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 26; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "title": "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức",
+        "cluster": "matrix_perception",
+        "priority": "P0",
+        "score": 95,
+        "search_intent": "Decode reality, consciousness, epistemology, and perception models",
+        "keyword_hypotheses_vi": [
+          "ma trận là gì",
+          "thoát khỏi ma trận",
+          "ngộ đạo là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "matrix meaning",
+          "gnosis meaning",
+          "collective unconscious"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 35; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "Glossary - Từ Điển Red Pill Wiki.md",
+        "title": "Glossary - Từ Điển Red Pill Wiki",
+        "cluster": "redpill_onboarding",
+        "priority": "P0",
+        "score": 94,
+        "search_intent": "Brand, source discipline, glossary, methodology, and how to read the vault",
+        "keyword_hypotheses_vi": [
+          "redpill wiki",
+          "cách đọc red pill wiki",
+          "từ điển red pill"
+        ],
+        "keyword_hypotheses_en": [
+          "redpill wiki",
+          "red pill wiki Vietnamese",
+          "how to read redpill wiki"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 24; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "MOC - Financial Sovereignty.md",
+        "title": "MOC - Financial Sovereignty",
+        "cluster": "financial_sovereignty",
+        "priority": "P0",
+        "score": 94,
+        "search_intent": "Money psychology, fiat critique, Bitcoin privacy, CBDC/control rails",
+        "keyword_hypotheses_vi": [
+          "tiền pháp định là gì",
+          "bitcoin privacy",
+          "cbdc là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "fiat currency",
+          "Bitcoin privacy",
+          "CBDC programmable money"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 34; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "crypto-finance/Tiền Pháp Định.md",
+        "title": "Tiền Pháp Định (Fiat Currency)",
+        "cluster": "financial_sovereignty",
+        "priority": "P0",
+        "score": 89,
+        "search_intent": "Money psychology, fiat critique, Bitcoin privacy, CBDC/control rails",
+        "keyword_hypotheses_vi": [
+          "tiền pháp định là gì",
+          "bitcoin privacy",
+          "cbdc là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "fiat currency",
+          "Bitcoin privacy",
+          "CBDC programmable money"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 19; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "title": "Walter Russell",
+        "cluster": "science_revisionism",
+        "priority": "P0",
+        "score": 88,
+        "search_intent": "Alternative science, suppressed tech, cosmology, aether, and institution critique",
+        "keyword_hypotheses_vi": [
+          "khoa học xét lại",
+          "Nikola Tesla",
+          "năng lượng aether"
+        ],
+        "keyword_hypotheses_en": [
+          "science revisionism",
+          "Nikola Tesla suppressed technology",
+          "aether energy"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 18; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "science-tech/Năng Lượng Aether.md",
+        "title": "Năng Lượng Aether",
+        "cluster": "science_revisionism",
+        "priority": "P0",
+        "score": 88,
+        "search_intent": "Alternative science, suppressed tech, cosmology, aether, and institution critique",
+        "keyword_hypotheses_vi": [
+          "khoa học xét lại",
+          "Nikola Tesla",
+          "năng lượng aether"
+        ],
+        "keyword_hypotheses_en": [
+          "science revisionism",
+          "Nikola Tesla suppressed technology",
+          "aether energy"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 28; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "MOC - Health Sovereignty.md",
+        "title": "MOC - Health Sovereignty",
+        "cluster": "health_sovereignty",
+        "priority": "P0",
+        "score": 86,
+        "search_intent": "Natural health, terrain theory, metabolic protocols, and medical skepticism",
+        "keyword_hypotheses_vi": [
+          "y tế tự nhiên",
+          "terrain theory",
+          "ung thư metabolic protocol"
+        ],
+        "keyword_hypotheses_en": [
+          "health sovereignty",
+          "terrain theory",
+          "metabolic cancer protocol"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 46; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "title": "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+        "cluster": "science_revisionism",
+        "priority": "P0",
+        "score": 86,
+        "search_intent": "Alternative science, suppressed tech, cosmology, aether, and institution critique",
+        "keyword_hypotheses_vi": [
+          "khoa học xét lại",
+          "Nikola Tesla",
+          "năng lượng aether"
+        ],
+        "keyword_hypotheses_en": [
+          "science revisionism",
+          "Nikola Tesla suppressed technology",
+          "aether energy"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 16; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "MOC - Esoterica & Consciousness.md",
+        "title": "MOC - Esoterica & Consciousness",
+        "cluster": "matrix_perception",
+        "priority": "P0",
+        "score": 83,
+        "search_intent": "Decode reality, consciousness, epistemology, and perception models",
+        "keyword_hypotheses_vi": [
+          "ma trận là gì",
+          "thoát khỏi ma trận",
+          "ngộ đạo là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "matrix meaning",
+          "gnosis meaning",
+          "collective unconscious"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 43; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "title": "Giàu Không Nhờ May Mắn",
+        "cluster": "financial_sovereignty",
+        "priority": "P0",
+        "score": 83,
+        "search_intent": "Money psychology, fiat critique, Bitcoin privacy, CBDC/control rails",
+        "keyword_hypotheses_vi": [
+          "tiền pháp định là gì",
+          "bitcoin privacy",
+          "cbdc là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "fiat currency",
+          "Bitcoin privacy",
+          "CBDC programmable money"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 13; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "health/Bệnh Bạch Cầu.md",
+        "title": "Bệnh Bạch Cầu",
+        "cluster": "health_sovereignty",
+        "priority": "P0",
+        "score": 83,
+        "search_intent": "Natural health, terrain theory, metabolic protocols, and medical skepticism",
+        "keyword_hypotheses_vi": [
+          "y tế tự nhiên",
+          "terrain theory",
+          "ung thư metabolic protocol"
+        ],
+        "keyword_hypotheses_en": [
+          "health sovereignty",
+          "terrain theory",
+          "metabolic cancer protocol"
+        ],
+        "reason": "Matches 4 cluster signals and has degree 3; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "health/Thuyết Vi Sinh Nội Sinh.md",
+        "title": "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
+        "cluster": "health_sovereignty",
+        "priority": "P0",
+        "score": 83,
+        "search_intent": "Natural health, terrain theory, metabolic protocols, and medical skepticism",
+        "keyword_hypotheses_vi": [
+          "y tế tự nhiên",
+          "terrain theory",
+          "ung thư metabolic protocol"
+        ],
+        "keyword_hypotheses_en": [
+          "health sovereignty",
+          "terrain theory",
+          "metabolic cancer protocol"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 33; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "title": "Y Tế Tự Nhiên & Năng Lượng Mới",
+        "cluster": "health_sovereignty",
+        "priority": "P0",
+        "score": 81,
+        "search_intent": "Natural health, terrain theory, metabolic protocols, and medical skepticism",
+        "keyword_hypotheses_vi": [
+          "y tế tự nhiên",
+          "terrain theory",
+          "ung thư metabolic protocol"
+        ],
+        "keyword_hypotheses_en": [
+          "health sovereignty",
+          "terrain theory",
+          "metabolic cancer protocol"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 11; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "MOC - Science Revisionism.md",
+        "title": "MOC - Science Revisionism",
+        "cluster": "science_revisionism",
+        "priority": "P0",
+        "score": 80,
+        "search_intent": "Alternative science, suppressed tech, cosmology, aether, and institution critique",
+        "keyword_hypotheses_vi": [
+          "khoa học xét lại",
+          "Nikola Tesla",
+          "năng lượng aether"
+        ],
+        "keyword_hypotheses_en": [
+          "science revisionism",
+          "Nikola Tesla suppressed technology",
+          "aether energy"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 40; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "esoterica/Gnosis.md",
+        "title": "Gnosis (Ngộ Đạo)",
+        "cluster": "health_sovereignty",
+        "priority": "P0",
+        "score": 80,
+        "search_intent": "Natural health, terrain theory, metabolic protocols, and medical skepticism",
+        "keyword_hypotheses_vi": [
+          "y tế tự nhiên",
+          "terrain theory",
+          "ung thư metabolic protocol"
+        ],
+        "keyword_hypotheses_en": [
+          "health sovereignty",
+          "terrain theory",
+          "metabolic cancer protocol"
+        ],
+        "reason": "Matches 1 cluster signals and has degree 55; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "title": "Ma Trận — Giải Phẫu Hoàn Chỉnh",
+        "cluster": "current_events_lab",
+        "priority": "P0",
+        "score": 80,
+        "search_intent": "Read current events as laboratories of narrative, policy, symbol, and compliance",
+        "keyword_hypotheses_vi": [
+          "phòng thí nghiệm sự kiện",
+          "phân tích sự kiện",
+          "UAP disclosure"
+        ],
+        "keyword_hypotheses_en": [
+          "current events lab",
+          "controlled revelation",
+          "digital ID normalization"
+        ],
+        "reason": "Matches 1 cluster signals and has degree 55; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "index.md",
+        "title": "Red Pill Wiki",
+        "cluster": "health_sovereignty",
+        "priority": "P0",
+        "score": 80,
+        "search_intent": "Natural health, terrain theory, metabolic protocols, and medical skepticism",
+        "keyword_hypotheses_vi": [
+          "y tế tự nhiên",
+          "terrain theory",
+          "ung thư metabolic protocol"
+        ],
+        "keyword_hypotheses_en": [
+          "health sovereignty",
+          "terrain theory",
+          "metabolic cancer protocol"
+        ],
+        "reason": "Matches 1 cluster signals and has degree 135; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "politics-conspiracy/Elite.md",
+        "title": "Elite (Giới Tinh Hoa)",
+        "cluster": "matrix_perception",
+        "priority": "P0",
+        "score": 80,
+        "search_intent": "Decode reality, consciousness, epistemology, and perception models",
+        "keyword_hypotheses_vi": [
+          "ma trận là gì",
+          "thoát khỏi ma trận",
+          "ngộ đạo là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "matrix meaning",
+          "gnosis meaning",
+          "collective unconscious"
+        ],
+        "reason": "Matches 1 cluster signals and has degree 97; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "politics-conspiracy/Elite.md",
+        "title": "Elite (Giới Tinh Hoa)",
+        "cluster": "financial_sovereignty",
+        "priority": "P0",
+        "score": 80,
+        "search_intent": "Money psychology, fiat critique, Bitcoin privacy, CBDC/control rails",
+        "keyword_hypotheses_vi": [
+          "tiền pháp định là gì",
+          "bitcoin privacy",
+          "cbdc là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "fiat currency",
+          "Bitcoin privacy",
+          "CBDC programmable money"
+        ],
+        "reason": "Matches 1 cluster signals and has degree 97; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "title": "Kiểm Soát Tâm Trí (Mind Control)",
+        "cluster": "current_events_lab",
+        "priority": "P0",
+        "score": 80,
+        "search_intent": "Read current events as laboratories of narrative, policy, symbol, and compliance",
+        "keyword_hypotheses_vi": [
+          "phòng thí nghiệm sự kiện",
+          "phân tích sự kiện",
+          "UAP disclosure"
+        ],
+        "keyword_hypotheses_en": [
+          "current events lab",
+          "controlled revelation",
+          "digital ID normalization"
+        ],
+        "reason": "Matches 1 cluster signals and has degree 52; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "title": "Vận Chín, Người Kogi và Ma Trận Y Tế - Nhận Thức",
+        "cluster": "matrix_perception",
+        "priority": "P1",
+        "score": 78,
+        "search_intent": "Decode reality, consciousness, epistemology, and perception models",
+        "keyword_hypotheses_vi": [
+          "ma trận là gì",
+          "thoát khỏi ma trận",
+          "ngộ đạo là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "matrix meaning",
+          "gnosis meaning",
+          "collective unconscious"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 18; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "mental-models/Vô Thức Tập Thể.md",
+        "title": "Vô Thức Tập Thể",
+        "cluster": "matrix_perception",
+        "priority": "P1",
+        "score": 78,
+        "search_intent": "Decode reality, consciousness, epistemology, and perception models",
+        "keyword_hypotheses_vi": [
+          "ma trận là gì",
+          "thoát khỏi ma trận",
+          "ngộ đạo là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "matrix meaning",
+          "gnosis meaning",
+          "collective unconscious"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 38; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "title": "Loosh — Năng Lượng Thu Hoạch Từ Con Người",
+        "cluster": "matrix_perception",
+        "priority": "P1",
+        "score": 77,
+        "search_intent": "Decode reality, consciousness, epistemology, and perception models",
+        "keyword_hypotheses_vi": [
+          "ma trận là gì",
+          "thoát khỏi ma trận",
+          "ngộ đạo là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "matrix meaning",
+          "gnosis meaning",
+          "collective unconscious"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 27; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "health/Thuốc Hóa Dầu.md",
+        "title": "Thuốc Hóa Dầu (Petrochemical Medicine)",
+        "cluster": "health_sovereignty",
+        "priority": "P1",
+        "score": 76,
+        "search_intent": "Natural health, terrain theory, metabolic protocols, and medical skepticism",
+        "keyword_hypotheses_vi": [
+          "y tế tự nhiên",
+          "terrain theory",
+          "ung thư metabolic protocol"
+        ],
+        "keyword_hypotheses_en": [
+          "health sovereignty",
+          "terrain theory",
+          "metabolic cancer protocol"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 16; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "title": "Walter Russell",
+        "cluster": "science_revisionism",
+        "priority": "P1",
+        "score": 76,
+        "search_intent": "Alternative science, suppressed tech, cosmology, aether, and institution critique",
+        "keyword_hypotheses_vi": [
+          "khoa học xét lại",
+          "Nikola Tesla",
+          "năng lượng aether"
+        ],
+        "keyword_hypotheses_en": [
+          "science revisionism",
+          "Nikola Tesla suppressed technology",
+          "aether energy"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 26; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "title": "Walter Russell",
+        "cluster": "science_revisionism",
+        "priority": "P1",
+        "score": 76,
+        "search_intent": "Alternative science, suppressed tech, cosmology, aether, and institution critique",
+        "keyword_hypotheses_vi": [
+          "khoa học xét lại",
+          "Nikola Tesla",
+          "năng lượng aether"
+        ],
+        "keyword_hypotheses_en": [
+          "science revisionism",
+          "Nikola Tesla suppressed technology",
+          "aether energy"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 26; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "crypto-finance/Tiền tiền tiền.md",
+        "title": "Tiền, tiền, tiền... (P.1) / Money, Money, Money... (P.1)",
+        "cluster": "financial_sovereignty",
+        "priority": "P1",
+        "score": 75,
+        "search_intent": "Money psychology, fiat critique, Bitcoin privacy, CBDC/control rails",
+        "keyword_hypotheses_vi": [
+          "tiền pháp định là gì",
+          "bitcoin privacy",
+          "cbdc là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "fiat currency",
+          "Bitcoin privacy",
+          "CBDC programmable money"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 5; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "mental-models/Nhị Nguyên.md",
+        "title": "Nhị Nguyên (Duality)",
+        "cluster": "matrix_perception",
+        "priority": "P1",
+        "score": 75,
+        "search_intent": "Decode reality, consciousness, epistemology, and perception models",
+        "keyword_hypotheses_vi": [
+          "ma trận là gì",
+          "thoát khỏi ma trận",
+          "ngộ đạo là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "matrix meaning",
+          "gnosis meaning",
+          "collective unconscious"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 35; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "crypto-finance/Privacy.md",
+        "title": "Privacy (Quyền Riêng Tư)",
+        "cluster": "financial_sovereignty",
+        "priority": "P1",
+        "score": 73,
+        "search_intent": "Money psychology, fiat critique, Bitcoin privacy, CBDC/control rails",
+        "keyword_hypotheses_vi": [
+          "tiền pháp định là gì",
+          "bitcoin privacy",
+          "cbdc là gì"
+        ],
+        "keyword_hypotheses_en": [
+          "fiat currency",
+          "Bitcoin privacy",
+          "CBDC programmable money"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 23; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+        "title": "Giải Mã Vũ Trụ - Y Tế - Tâm Linh",
+        "cluster": "health_sovereignty",
+        "priority": "P1",
+        "score": 73,
+        "search_intent": "Natural health, terrain theory, metabolic protocols, and medical skepticism",
+        "keyword_hypotheses_vi": [
+          "y tế tự nhiên",
+          "terrain theory",
+          "ung thư metabolic protocol"
+        ],
+        "keyword_hypotheses_en": [
+          "health sovereignty",
+          "terrain theory",
+          "metabolic cancer protocol"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 13; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "title": "Walter Russell",
+        "cluster": "predictive_programming",
+        "priority": "P1",
+        "score": 73,
+        "search_intent": "Understand media spectacle, symbolism, and synchronized mass attention",
+        "keyword_hypotheses_vi": [
+          "predictive programming là gì",
+          "nghi lễ đại chúng",
+          "biểu tượng Hollywood"
+        ],
+        "keyword_hypotheses_en": [
+          "predictive programming",
+          "spectacle ritual",
+          "Hollywood occult symbolism"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 23; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "title": "Walter Russell",
+        "cluster": "science_revisionism",
+        "priority": "P1",
+        "score": 73,
+        "search_intent": "Alternative science, suppressed tech, cosmology, aether, and institution critique",
+        "keyword_hypotheses_vi": [
+          "khoa học xét lại",
+          "Nikola Tesla",
+          "năng lượng aether"
+        ],
+        "keyword_hypotheses_en": [
+          "science revisionism",
+          "Nikola Tesla suppressed technology",
+          "aether energy"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 23; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "science-tech/Walter Russell.md",
+        "title": "Walter Russell",
+        "cluster": "science_revisionism",
+        "priority": "P1",
+        "score": 73,
+        "search_intent": "Alternative science, suppressed tech, cosmology, aether, and institution critique",
+        "keyword_hypotheses_vi": [
+          "khoa học xét lại",
+          "Nikola Tesla",
+          "năng lượng aether"
+        ],
+        "keyword_hypotheses_en": [
+          "science revisionism",
+          "Nikola Tesla suppressed technology",
+          "aether energy"
+        ],
+        "reason": "Matches 3 cluster signals and has degree 13; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+        "title": "Walter Russell",
+        "cluster": "science_revisionism",
+        "priority": "P1",
+        "score": 72,
+        "search_intent": "Alternative science, suppressed tech, cosmology, aether, and institution critique",
+        "keyword_hypotheses_vi": [
+          "khoa học xét lại",
+          "Nikola Tesla",
+          "năng lượng aether"
+        ],
+        "keyword_hypotheses_en": [
+          "science revisionism",
+          "Nikola Tesla suppressed technology",
+          "aether energy"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 22; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "health/Tuyến Tùng.md",
+        "title": "Tuyến Tùng",
+        "cluster": "health_sovereignty",
+        "priority": "P1",
+        "score": 71,
+        "search_intent": "Natural health, terrain theory, metabolic protocols, and medical skepticism",
+        "keyword_hypotheses_vi": [
+          "y tế tự nhiên",
+          "terrain theory",
+          "ung thư metabolic protocol"
+        ],
+        "keyword_hypotheses_en": [
+          "health sovereignty",
+          "terrain theory",
+          "metabolic cancer protocol"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 31; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "MOC - Epistemology & Propaganda.md",
+        "title": "MOC - Epistemology & Propaganda",
+        "cluster": "redpill_onboarding",
+        "priority": "P1",
+        "score": 70,
+        "search_intent": "Brand, source discipline, glossary, methodology, and how to read the vault",
+        "keyword_hypotheses_vi": [
+          "redpill wiki",
+          "cách đọc red pill wiki",
+          "từ điển red pill"
+        ],
+        "keyword_hypotheses_en": [
+          "redpill wiki",
+          "red pill wiki Vietnamese",
+          "how to read redpill wiki"
+        ],
+        "reason": "Matches 1 cluster signals and has degree 55; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      },
+      {
+        "path": "esoterica/Một Đời Phù Vân.md",
+        "title": "Walter Russell",
+        "cluster": "science_revisionism",
+        "priority": "P1",
+        "score": 70,
+        "search_intent": "Alternative science, suppressed tech, cosmology, aether, and institution critique",
+        "keyword_hypotheses_vi": [
+          "khoa học xét lại",
+          "Nikola Tesla",
+          "năng lượng aether"
+        ],
+        "keyword_hypotheses_en": [
+          "science revisionism",
+          "Nikola Tesla suppressed technology",
+          "aether energy"
+        ],
+        "reason": "Matches 2 cluster signals and has degree 20; likely search landing/support page.",
+        "next_action": "Add answer-first definition, tighten description/aliases, and link from relevant MOC/cluster page."
+      }
+    ],
+    "current_events_lab_candidates": [
+      {
+        "path": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "title": "Avatar - Disclosure Của Eywa & Gaia",
+        "priority": "P1",
+        "signals": [
+          "disclosure"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "title": "Walter Russell",
+        "priority": "P1",
+        "signals": [
+          "2026",
+          "world cup"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+        "title": "Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "title": "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+        "priority": "P1",
+        "signals": [
+          "disclosure"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "title": "Karma Disclosure - Truth Hidden In Plain Sight",
+        "priority": "P1",
+        "signals": [
+          "disclosure"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+        "title": "Kỹ Thuật Thiền Định Kogi",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Long Mạch.md",
+        "title": "Long Mạch (Dragon Veins)",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "title": "Loosh — Năng Lượng Thu Hoạch Từ Con Người",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "title": "Ma Trận — Giải Phẫu Hoàn Chỉnh",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "title": "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "title": "Mental Model - Tầng Sâu Nhận Thức & Năng Lượng",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+        "title": "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+        "title": "Nibiru và Nền Văn Minh Annunaki",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Nibiru.md",
+        "title": "Nibiru (Hành Tinh X)",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Nỏ Thần.md",
+        "title": "Nỏ Thần",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Sacred Geometry.md",
+        "title": "Sacred Geometry (Hình Học Thiêng)",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+        "title": "Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng",
+        "priority": "P1",
+        "signals": [
+          "world cup"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+        "title": "Tartaria và Vạn Lý Trường Thành: Góc Nhìn Kinh Thế Ký",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
+        "title": "Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Thuật Giả Kim Của Newton.md",
+        "title": "Thuật Giả Kim Của Newton",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Thánh Issa.md",
+        "title": "Thánh Issa (Hành trình Tây Tạng của Chúa)",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Thực Thể Cõi Trung Giới.md",
+        "title": "Thực Thể Cõi Trung Giới (Astral Entities)",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "title": "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+        "title": "Giải Mã Vũ Trụ - Y Tế - Tâm Linh",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
+        "title": "Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "title": "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "health/Su That Ve Benh Dai Va Vac Xin.md",
+        "title": "Sự Thật Về Bệnh Dại Và Vắc Xin (Góc Nhìn Terrain Theory)",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "title": "Vận Chín, Người Kogi và Ma Trận Y Tế - Nhận Thức",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "title": "Climate Anxiety as Control - Fear-Based Compliance",
+        "priority": "P1",
+        "signals": [
+          "climate anxiety"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "title": "S.E.X Và Tâm Lý Học Jung",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "title": "Walter Russell",
+        "priority": "P1",
+        "signals": [
+          "2026",
+          "disclosure"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "politics-conspiracy/Bức Tường Băng.md",
+        "title": "Bức Tường Băng (Ice Wall)",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "politics-conspiracy/Dark MAGA.md",
+        "title": "Dark MAGA",
+        "priority": "P1",
+        "signals": [
+          "maga"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      },
+      {
+        "path": "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "title": "Kiểm Soát Tâm Trí (Mind Control)",
+        "priority": "P1",
+        "signals": [
+          "2026"
+        ],
+        "reason": "Event/policy/media-specific note suitable for the Current Events Lab format.",
+        "next_action": "Convert/promote as lab case: timestamp facts, define pattern hypothesis, mark symbol/speculation layers, and link to Source Discipline."
+      }
+    ]
+  },
+  "method": "Map-first audit using graph degree/backlinks/outlinks, word count, prior SEO/thin-page docs, keyword cluster signals, and targeted body scans for source-discipline/risk terms. This is editorial guidance, not a claim-validity review."
+}
