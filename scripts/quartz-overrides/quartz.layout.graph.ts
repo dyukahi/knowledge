@@ -44,15 +44,26 @@ const GraphPageStyles: QuartzComponent = () => null
 GraphPageStyles.css = `
 body[data-slug="vault-graph"] .page {
   max-width: none !important;
-  width: 100vw !important;
-  margin: 0 !important;
+  width: 100% !important;
 }
 body[data-slug="vault-graph"] #quartz-body {
-  grid-template: "grid-header" "grid-center" / minmax(0, 1fr) !important;
-  grid-template-columns: minmax(0, 1fr) !important;
-  column-gap: 0 !important;
+  grid-template:
+    "grid-sidebar-left grid-header"
+    "grid-sidebar-left grid-center" / 280px minmax(0, 1fr) !important;
+  gap: 0 !important;
+  padding: 0 1rem 0 0 !important;
 }
-body[data-slug="vault-graph"] .left.sidebar,
+body[data-slug="vault-graph"] .left.sidebar {
+  display: flex !important;
+  grid-area: grid-sidebar-left !important;
+  position: sticky !important;
+  top: 0 !important;
+  height: 100vh !important;
+  padding: 2rem 1.25rem !important;
+  gap: 1rem !important;
+  z-index: 2 !important;
+  background: var(--light) !important;
+}
 body[data-slug="vault-graph"] .right.sidebar,
 body[data-slug="vault-graph"] footer,
 body[data-slug="vault-graph"] .content-meta,
@@ -63,21 +74,23 @@ body[data-slug="vault-graph"] main#main-content {
 body[data-slug="vault-graph"] .center {
   grid-area: grid-center !important;
   max-width: none !important;
-  width: 100vw !important;
+  min-width: 0 !important;
+  width: 100% !important;
   margin: 0 !important;
-  padding: 1rem clamp(1rem, 2vw, 2rem) !important;
+  padding: 0 0 1rem !important;
 }
 body[data-slug="vault-graph"] .page-header {
   grid-area: grid-header !important;
-  margin: 0 !important;
   width: 100% !important;
+  margin: 0 !important;
+  padding: 1.25rem 0 0.75rem !important;
 }
 body[data-slug="vault-graph"] .popover-hint {
   width: 100% !important;
 }
 body[data-slug="vault-graph"] .page-header > .popover-hint > h1 {
-  margin: 0 0 0.75rem !important;
-  font-size: clamp(1.4rem, 2.5vw, 2.4rem) !important;
+  margin: 0 !important;
+  font-size: clamp(1.4rem, 2.4vw, 2.2rem) !important;
 }
 body[data-slug="vault-graph"] .graph {
   width: 100% !important;
@@ -93,8 +106,8 @@ body[data-slug="vault-graph"] .graph > h3 {
 }
 body[data-slug="vault-graph"] .graph-outer {
   width: 100% !important;
-  height: calc(100vh - 4.25rem) !important;
-  min-height: 680px !important;
+  height: calc(100vh - 5.25rem) !important;
+  min-height: 650px !important;
   border: 1px solid var(--lightgray) !important;
   border-radius: 14px !important;
   overflow: hidden !important;
@@ -113,12 +126,26 @@ body[data-slug="vault-graph"] canvas {
   max-width: none !important;
 }
 @media (max-width: 800px) {
-  body[data-slug="vault-graph"] .center {
-    padding: 0.75rem !important;
+  body[data-slug="vault-graph"] #quartz-body {
+    grid-template:
+      "grid-sidebar-left"
+      "grid-header"
+      "grid-center" / minmax(0, 1fr) !important;
+    padding: 0 0.75rem 0.75rem !important;
+  }
+  body[data-slug="vault-graph"] .left.sidebar {
+    position: static !important;
+    height: auto !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    padding: 1rem 0 0.5rem !important;
+  }
+  body[data-slug="vault-graph"] .page-header {
+    padding: 0.25rem 0 0.5rem !important;
   }
   body[data-slug="vault-graph"] .graph-outer {
-    height: calc(100vh - 3.75rem) !important;
-    min-height: 560px !important;
+    height: calc(100vh - 8rem) !important;
+    min-height: 520px !important;
     border-radius: 10px !important;
   }
 }
