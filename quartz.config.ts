@@ -8,8 +8,8 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Red Pill Wiki",
     pageTitleSuffix: " | redpill.wiki",
-    enableSPA: true,
-    enablePopovers: true,
+    enableSPA: false,
+    enablePopovers: false,
     analytics: null,
     locale: "vi-VN",
     baseUrl: "redpill.wiki",
@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian", "_docs", "_inbox", "_templates", "CLAUDE.md", "claude.md"],
     defaultDateType: "created",
     theme: {
-      fontOrigin: "googleFonts",
+      fontOrigin: "local",
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",

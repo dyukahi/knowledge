@@ -5,6 +5,7 @@ const quartzRoot = process.argv[2] ? path.resolve(process.argv[2]) : process.cwd
 const repoRoot = path.resolve(new URL("..", import.meta.url).pathname.replace(/^\/(.:\/)/, "$1"))
 const overridesRoot = path.join(repoRoot, "scripts", "quartz-overrides")
 const copies = [
+  [path.join(overridesRoot, "quartz.layout.ts"), path.join(quartzRoot, "quartz.layout.ts")],
   [path.join(overridesRoot, "components", "Head.tsx"), path.join(quartzRoot, "quartz", "components", "Head.tsx")],
   [path.join(overridesRoot, "components", "ArticleTitle.tsx"), path.join(quartzRoot, "quartz", "components", "ArticleTitle.tsx")],
   [path.join(overridesRoot, "util", "glob.ts"), path.join(quartzRoot, "quartz", "util", "glob.ts")],
