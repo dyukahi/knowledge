@@ -111,6 +111,7 @@ const html = String.raw`<!doctype html>
     <div class="controls">
       <input id="search" placeholder="Tìm note…" />
       <select id="domain"><option value="">All domains</option></select>
+      <button id="loadGraph">Load graph</button>
       <button id="reset">Reset</button>
     </div>
     <div class="legend" id="legend"></div>
@@ -166,8 +167,22 @@ canvas.addEventListener("pointerdown", e=>{ dragging=true; last={x:e.clientX,y:e
 canvas.addEventListener("pointermove", e=>{ const h=hit(e.clientX,e.clientY); hover=h; canvas.style.cursor=h?"pointer":dragging?"grabbing":"grab"; if(dragging&&last){ ox+=e.clientX-last.x; oy+=e.clientY-last.y; last={x:e.clientX,y:e.clientY} } draw(); if(h){ tip.style.display="block"; tip.innerHTML="<strong>"+h.title+"</strong><span>"+h.domain+" · "+h.backlinks+" backlinks · "+h.links+" outlinks</span><br><a href=\""+h.url+"\">Mở bài →</a>" } else tip.style.display="none" })
 canvas.addEventListener("pointerup", e=>{ dragging=false; if(hover && Math.hypot(e.clientX-last.x,e.clientY-last.y)<4) location.href=hover.url })
 canvas.addEventListener("wheel", e=>{ e.preventDefault(); const before=unproject(e.clientX,e.clientY); scale*=Math.exp(-e.deltaY*0.001); scale=Math.max(.35,Math.min(4,scale)); const after=project(before); ox+=e.clientX-after.x; oy+=e.clientY-after.y; draw() }, {passive:false})
-search.addEventListener("input", draw); domainSelect.addEventListener("change", draw); document.getElementById("reset").onclick=()=>{ layout(); draw() }
-fetch("/vault-graph-data.json").then(r=>r.json()).then(data=>{ graph=data; nodes=data.nodes; links=data.links; nodeById=new Map(nodes.map(n=>[n.id,n])); for(const d of domainOrder){ if(nodes.some(n=>n.domain===d)){ const opt=document.createElement("option"); opt.value=d; opt.textContent=d; domainSelect.appendChild(opt) } } legend.innerHTML=Object.entries(data.domains).map(([d,c])=>"<span><i class=\"dot\" style=\"background:"+c+"\"></i>"+d+"</span>").join(""); stats.textContent=data.stats.nodes+" notes · "+data.stats.links+" links"; resize(); layout(); draw() })
+search.addEventListener("input", draw); domainSelect.addEventListener("change", draw); document.getElementById("reset").onclick=()=>{ if(!nodes) return loadGraph(); layout(); draw() }
+stats.textContent="Click Load graph để mở bản đồ"
+let loading=false
+async function loadGraph(){
+  if(nodes || loading) return
+  loading=true
+  stats.textContent="Loading graph…"
+  const data=await fetch("/vault-graph-data.json").then(r=>r.json())
+  graph=data; nodes=data.nodes; links=data.links; nodeById=new Map(nodes.map(n=>[n.id,n]))
+  for(const d of domainOrder){ if(nodes.some(n=>n.domain===d) && ![...domainSelect.options].some(o=>o.value===d)){ const opt=document.createElement("option"); opt.value=d; opt.textContent=d; domainSelect.appendChild(opt) } }
+  legend.innerHTML=Object.entries(data.domains).map(([d,c])=>"<span><i class=\"dot\" style=\"background:"+c+"\"></i>"+d+"</span>").join("")
+  stats.textContent=data.stats.nodes+" notes · "+data.stats.links+" links"
+  resize(); layout(); draw()
+}
+document.getElementById("loadGraph").onclick=loadGraph
+search.addEventListener("focus", loadGraph, { once:true })
 </script>
 </body>
 </html>`

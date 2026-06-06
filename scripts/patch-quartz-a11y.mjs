@@ -21,6 +21,10 @@ for (const file of walk(publicRoot)) {
   // Quartz heading anchors currently render with role="anchor"; ARIA has no such role.
   html = html.replace(/\srole="anchor"/g, "")
 
+  // Give icon-only explorer toggle buttons accessible names.
+  html = html.replace(/(<button\s+type="button"\s+class="explorer-toggle mobile-explorer[^"]*"(?![^>]*aria-label=))/g, '$1 aria-label="Mở menu điều hướng"')
+  html = html.replace(/(<button\s+type="button"\s+class="title-button explorer-toggle desktop-explorer"(?![^>]*aria-label=))/g, '$1 aria-label="Thu gọn hoặc mở rộng menu điều hướng"')
+
   // Keep aria-expanded on interactive toggles, not passive explorer content containers.
   html = html.replace(/(<div\s+id="explorer-[^"]+"\s+class="explorer-content")\s+aria-expanded="(?:true|false)"(\s+role="group">)/g, "$1$2")
 
