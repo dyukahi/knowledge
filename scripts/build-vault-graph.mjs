@@ -93,6 +93,9 @@ const html = String.raw`<!doctype html>
     input { flex:1 1 190px; min-width:0; }
     button { cursor:pointer; }
     .legend { display:flex; flex-wrap:wrap; gap:8px 12px; margin-top:10px; font-size:12px; color:var(--muted); }
+    .results { display:none; margin-top:10px; max-height:220px; overflow:auto; border-top:1px solid var(--line); padding-top:8px; }
+    .result { display:block; width:100%; text-align:left; margin:4px 0; padding:8px 10px; }
+    .result small { display:block; color:var(--muted); margin-top:2px; }
     .dot { display:inline-block; width:9px; height:9px; border-radius:99px; margin-right:5px; vertical-align:middle; }
     .tip { position:fixed; right:16px; bottom:16px; max-width:min(420px, calc(100vw - 32px)); background: color-mix(in srgb, var(--panel) 90%, transparent); border:1px solid var(--line); border-radius:16px; padding:14px 16px; backdrop-filter: blur(10px); display:none; }
     .tip strong { display:block; margin-bottom:4px; }
@@ -115,6 +118,7 @@ const html = String.raw`<!doctype html>
       <button id="reset">Reset</button>
     </div>
     <div class="legend" id="legend"></div>
+    <div class="results" id="results"></div>
     <p class="small" id="stats">Loading…</p>
   </section>
   <aside class="tip" id="tip"></aside>
@@ -126,23 +130,45 @@ const domainSelect = document.getElementById("domain")
 const legend = document.getElementById("legend")
 const tip = document.getElementById("tip")
 const stats = document.getElementById("stats")
-let graph, nodes, links, nodeById, scale = 1, ox = 0, oy = 0, dragging = false, last = null, hover = null
+const results = document.getElementById("results")
+let graph, nodes, links, nodeById, scale = 1, ox = 0, oy = 0, dragging = false, last = null, hover = null, focusedId = null, animating = false, raf = 0
 const domainOrder = ["root", "esoterica", "politics-conspiracy", "mental-models", "health", "science-tech", "crypto-finance"]
 function resize(){ canvas.width = innerWidth * devicePixelRatio; canvas.height = innerHeight * devicePixelRatio; canvas.style.width = innerWidth+"px"; canvas.style.height = innerHeight+"px"; ctx.setTransform(devicePixelRatio,0,0,devicePixelRatio,0,0); draw() }
 addEventListener("resize", resize)
 function query(){ return search.value.trim().toLowerCase() }
-function shownNodes(){ return nodes.filter(visible) }
+function matchesQuery(n){ const q=query(); return !q || n.title.toLowerCase().includes(q)||n.domain.includes(q)||(n.aliases||[]).some(a=>String(a).toLowerCase().includes(q)) }
+function neighborsOf(id){ const set=new Set([id]); for(const l of links){ if(l.source===id) set.add(l.target); if(l.target===id) set.add(l.source) } return set }
+function shownNodes(){ if(!nodes) return []; if(focusedId){ const ns=neighborsOf(focusedId); return nodes.filter(n=>ns.has(n.id)) } return nodes.filter(visible) }
+function shownLinks(){ if(!links) return []; if(focusedId){ const ns=neighborsOf(focusedId); return links.filter(l=>ns.has(l.source)&&ns.has(l.target)&&(l.source===focusedId||l.target===focusedId)) } return query()?[]:links.filter(l=>visible(nodeById.get(l.source)||{})&&visible(nodeById.get(l.target)||{})) }
 function project(n){ return { x: n.x * scale + ox, y: n.y * scale + oy } }
 function screenPos(n){
+  if (focusedId) {
+    if (n.id===focusedId) return {x: innerWidth/2, y: innerHeight/2}
+    const shown=shownNodes().filter(x=>x.id!==focusedId)
+    const i=Math.max(0, shown.indexOf(n)); const a=(Math.PI*2*i)/Math.max(1, shown.length); const r=Math.min(innerWidth,innerHeight)*0.32
+    return {x: innerWidth/2 + Math.cos(a)*r, y: innerHeight/2 + Math.sin(a)*r}
+  }
   const q = query()
   if (!q) return project(n)
   const shown = shownNodes()
   const i = Math.max(0, shown.indexOf(n))
   const cols = Math.max(1, Math.ceil(Math.sqrt(shown.length || 1)))
-  return {
-    x: innerWidth / 2 + (i % cols - (cols - 1) / 2) * 170,
-    y: innerHeight * 0.62 + Math.floor(i / cols) * 110,
-  }
+  return { x: innerWidth / 2 + (i % cols - (cols - 1) / 2) * 170, y: innerHeight * 0.62 + Math.floor(i / cols) * 110 }
+}
+function displayPos(n){
+  const t=screenPos(n)
+  if(!Number.isFinite(n.sx)||!Number.isFinite(n.sy)){ n.sx=t.x; n.sy=t.y }
+  n.sx += (t.x-n.sx)*0.16
+  n.sy += (t.y-n.sy)*0.16
+  return {x:n.sx,y:n.sy}
+}
+function invalidatePositions(){ if(!nodes) return; for(const n of nodes){ n.sx=NaN; n.sy=NaN } }
+function startAnim(ms=3600){
+  if(animating) return
+  animating=true
+  const end=performance.now()+ms
+  const step=()=>{ draw(); if(performance.now()<end){ raf=requestAnimationFrame(step) } else { animating=false; cancelAnimationFrame(raf); draw() } }
+  raf=requestAnimationFrame(step)
 }
 function unproject(x,y){ return { x:(x-ox)/scale, y:(y-oy)/scale } }
 function seeded(str){ let h=2166136261 >>> 0; for (let i=0;i<str.length;i++) h=Math.imul(h ^ str.charCodeAt(i), 16777619) >>> 0; return h }
@@ -160,14 +186,16 @@ function tick(t){
   for (let i=0;i<nodes.length;i++) for (let j=i+1;j<nodes.length;j++){ const a=nodes[i], b=nodes[j]; const dx=b.x-a.x, dy=b.y-a.y, d2=dx*dx+dy*dy+0.01; if(d2>12000) continue; const f=38/d2; a.vx-=dx*f; a.vy-=dy*f; b.vx+=dx*f; b.vy+=dy*f }
   for (const n of nodes){ const c={x:innerWidth/2,y:innerHeight/2}; n.vx+=(c.x-n.x)*0.00008; n.vy+=(c.y-n.y)*0.00008; n.x+=n.vx; n.y+=n.vy; n.vx*=0.82; n.vy*=0.82 }
 }
-function visible(n){ const q=query(); if (domainSelect.value && n.domain!==domainSelect.value) return false; if (q && !(n.title.toLowerCase().includes(q)||n.domain.includes(q)||(n.aliases||[]).some(a=>String(a).toLowerCase().includes(q)))) return false; return true }
-function draw(){ if(!nodes) return; ctx.clearRect(0,0,innerWidth,innerHeight); const q=query(); const shown=shownNodes(); ctx.lineWidth=0.55; ctx.strokeStyle="rgba(180,190,210,.13)"; ctx.beginPath(); if(!q){ for(const l of links){ const a=nodeById.get(l.source), b=nodeById.get(l.target); if(!a||!b||!visible(a)||!visible(b)) continue; const A=screenPos(a), B=screenPos(b); ctx.moveTo(A.x,A.y); ctx.lineTo(B.x,B.y) } } ctx.stroke(); for(const n of shown){ const p=screenPos(n); const r=q ? Math.max(10,n.radius*1.2) : n.radius*scale; ctx.beginPath(); ctx.fillStyle=n.color; ctx.globalAlpha = hover && hover!==n ? .45 : .92; ctx.arc(p.x,p.y,r,0,Math.PI*2); ctx.fill(); if(q || scale>1.45 || n.backlinks>12){ ctx.globalAlpha=.88; ctx.fillStyle="#f4f4f5"; ctx.font=(q ? 14 : Math.min(15, 10*scale))+"px system-ui"; ctx.fillText(n.title, p.x+r+5, p.y+5) } } ctx.globalAlpha=1; stats.textContent=(q ? shown.length+" match(es) · " : "")+graph.stats.nodes+" notes · "+graph.stats.links+" links" }
-function hit(x,y){ let best=null, bd=24; for(const n of nodes){ if(!visible(n)) continue; const p=screenPos(n); const r=query()?14:n.radius*scale+5; const d=Math.hypot(p.x-x,p.y-y); if(d<Math.max(bd,r)){ best=n; bd=d } } return best }
+function visible(n){ if(!n) return false; if (domainSelect.value && n.domain!==domainSelect.value) return false; return matchesQuery(n) }
+function updateResults(){ if(!nodes) return; const q=query(); results.innerHTML=""; if(!q){ results.style.display="none"; return } const matches=nodes.filter(visible).slice(0,24); results.style.display="block"; if(!matches.length){ results.innerHTML="<p>No matches</p>"; return } for(const n of matches){ const b=document.createElement("button"); b.className="result"; b.dataset.id=n.id; b.innerHTML=n.title+"<small>"+n.domain+" · "+n.backlinks+" backlinks</small>"; b.onclick=()=>focusNode(n.id); results.appendChild(b) } }
+function focusNode(id){ focusedId=id; search.value=(nodeById.get(id)||{}).title||search.value; results.style.display="none"; results.innerHTML=""; invalidatePositions(); draw(); startAnim() }
+function draw(){ if(!nodes) return; ctx.clearRect(0,0,innerWidth,innerHeight); const q=query(); const shown=shownNodes(); ctx.lineWidth=focusedId?1.2:0.55; ctx.strokeStyle=focusedId?"rgba(132,165,157,.55)":"rgba(180,190,210,.13)"; ctx.beginPath(); for(const l of shownLinks()){ const a=nodeById.get(l.source), b=nodeById.get(l.target); if(!a||!b) continue; const A=displayPos(a), B=displayPos(b); ctx.moveTo(A.x,A.y); ctx.lineTo(B.x,B.y) } ctx.stroke(); for(const n of shown){ const p=displayPos(n); const isFocus=n.id===focusedId; const r=isFocus?18:(focusedId?10:(q ? Math.max(10,n.radius*1.2) : n.radius*scale)); ctx.beginPath(); ctx.fillStyle=isFocus?"#fbbf24":n.color; ctx.globalAlpha = hover && hover!==n ? .45 : .94; ctx.arc(p.x,p.y,r,0,Math.PI*2); ctx.fill(); if(focusedId || q || scale>1.45 || n.backlinks>12){ ctx.globalAlpha=.92; ctx.fillStyle="#f4f4f5"; ctx.font=(isFocus?"700 ":"")+(focusedId||q ? 14 : Math.min(15, 10*scale))+"px system-ui"; ctx.fillText(n.title, p.x+r+5, p.y+5) } } ctx.globalAlpha=1; stats.textContent=(focusedId ? "Focus: "+(nodeById.get(focusedId)?.title||"")+" · "+(shown.length-1)+" connected nodes · " : q ? shown.length+" match(es) · " : "")+graph.stats.nodes+" notes · "+graph.stats.links+" links" }
+function hit(x,y){ let best=null, bd=24; for(const n of shownNodes()){ const p=displayPos(n); const r=focusedId?(n.id===focusedId?22:14):(query()?14:n.radius*scale+5); const d=Math.hypot(p.x-x,p.y-y); if(d<Math.max(bd,r)){ best=n; bd=d } } return best }
 canvas.addEventListener("pointerdown", e=>{ dragging=true; last={x:e.clientX,y:e.clientY}; canvas.setPointerCapture(e.pointerId) })
 canvas.addEventListener("pointermove", e=>{ const h=hit(e.clientX,e.clientY); hover=h; canvas.style.cursor=h?"pointer":dragging?"grabbing":"grab"; if(dragging&&last){ ox+=e.clientX-last.x; oy+=e.clientY-last.y; last={x:e.clientX,y:e.clientY} } draw(); if(h){ tip.style.display="block"; tip.innerHTML="<strong>"+h.title+"</strong><span>"+h.domain+" · "+h.backlinks+" backlinks · "+h.links+" outlinks</span><br><a href=\""+h.url+"\">Mở bài →</a>" } else tip.style.display="none" })
-canvas.addEventListener("pointerup", e=>{ dragging=false; if(hover && Math.hypot(e.clientX-last.x,e.clientY-last.y)<4) location.href=hover.url })
+canvas.addEventListener("pointerup", e=>{ dragging=false; if(hover && Math.hypot(e.clientX-last.x,e.clientY-last.y)<4){ if(focusedId===hover.id) location.href=hover.url; else focusNode(hover.id) } })
 canvas.addEventListener("wheel", e=>{ e.preventDefault(); const before=unproject(e.clientX,e.clientY); scale*=Math.exp(-e.deltaY*0.001); scale=Math.max(.35,Math.min(4,scale)); const after=project(before); ox+=e.clientX-after.x; oy+=e.clientY-after.y; draw() }, {passive:false})
-search.addEventListener("input", draw); domainSelect.addEventListener("change", draw); document.getElementById("reset").onclick=()=>{ if(!nodes) return loadGraph(); layout(); draw() }
+search.addEventListener("input", ()=>{ focusedId=null; updateResults(); invalidatePositions(); draw(); startAnim(1200) }); domainSelect.addEventListener("change", ()=>{ focusedId=null; updateResults(); invalidatePositions(); draw(); startAnim(1200) }); document.getElementById("reset").onclick=()=>{ if(!nodes) return loadGraph(); focusedId=null; search.value=""; results.style.display="none"; layout(); invalidatePositions(); draw(); startAnim() }
 stats.textContent="Click Load graph để mở bản đồ"
 let loading=false
 async function loadGraph(){
@@ -179,7 +207,7 @@ async function loadGraph(){
   for(const d of domainOrder){ if(nodes.some(n=>n.domain===d) && ![...domainSelect.options].some(o=>o.value===d)){ const opt=document.createElement("option"); opt.value=d; opt.textContent=d; domainSelect.appendChild(opt) } }
   legend.innerHTML=Object.entries(data.domains).map(([d,c])=>"<span><i class=\"dot\" style=\"background:"+c+"\"></i>"+d+"</span>").join("")
   stats.textContent=data.stats.nodes+" notes · "+data.stats.links+" links"
-  resize(); layout(); draw()
+  resize(); layout(); invalidatePositions(); draw(); startAnim()
 }
 document.getElementById("loadGraph").onclick=loadGraph
 search.addEventListener("focus", loadGraph, { once:true })
