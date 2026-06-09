@@ -245,6 +245,10 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ## Recent Updates / Cập Nhật Gần Đây
 
+### June 9, 2026
+
+- **[[Fact-Check Thua Care-Check]]** — new soft redpill / everyday propaganda note: why correct information can lose to emotional access, how scams sell care/status rather than products, and why protecting elders requires presence before persuasion.
+
 ### June 4, 2026
 
 - **[[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]** — new framework note connecting World Cup, Euro, Super Bowl halftime shows and SpaceX 12/6 as mass synchronization rituals in a broader reality reset.
