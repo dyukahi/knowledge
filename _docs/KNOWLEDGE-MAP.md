@@ -4,7 +4,7 @@
 
 ## Snapshot
 
-- **Notes scanned:** 206
+- **Notes scanned:** 209
 - **Top-level domains:** 8
 - **Tags detected:** 183
 - **Resolved internal edges:** 2071
@@ -39,7 +39,7 @@ Recommended note types:
 - [[esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh - Năng Lượng Thu Hoạch Từ Con Người]] — degree `28`, backlinks `18`, outlinks `10` — #consciousness, #esoterica, #matrix
 - … 62 more notes in this domain. See JSON for full list.
 
-### Mental Models / Mô hình tư duy `mental-models` — 28 notes
+### Mental Models / Mô hình tư duy `mental-models` — 29 notes
 
 - [[mental-models/Individuation|Individuation]] — degree `46`, backlinks `38`, outlinks `8` — #consciousness, #jung, #mental-model
 - [[mental-models/index|Mental Models Domain Gateway]] — degree `45`, backlinks `5`, outlinks `40` — #domain-gateway, #epistemology, #mental-model
@@ -50,6 +50,7 @@ Recommended note types:
 - [[mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính|Walter Russell]] — degree `26`, backlinks `2`, outlinks `24` — #science-tech
 - [[mental-models/Trí Tuệ|Trí Tuệ]] — degree `25`, backlinks `19`, outlinks `6` — #mental-model, #philosophy
 - [[mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — degree `24`, backlinks `16`, outlinks `8` — #matrix, #mental-model, #psychology, #social-media
+- [[mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình|Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] — bridge note — #care-economy, #family, #matrix, #mental-model, #attention, #loosh
 - [[mental-models/Mô Hình Địa Tâm|Mô Hình Địa Tâm (Geocentrism)]] — degree `24`, backlinks `18`, outlinks `6` — #cosmology, #esoterica, #mental-model, #science-tech
 - [[mental-models/S.E.X Và Tâm Lý Học Jung|S.E.X Và Tâm Lý Học Jung]] — degree `24`, backlinks `11`, outlinks `13` — #esoterica, #mental-model, #psychology
 - [[mental-models/Thông Minh vs Trí Tuệ|Thông Minh vs Trí Tuệ]] — degree `23`, backlinks `14`, outlinks `9` — #mental-model, #philosophy
@@ -144,6 +145,11 @@ Recommended note types:
 - [[_docs/THIN-PAGE-CLASSIFICATION|Thin Page Classification - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/VAULT-STRATEGY-AUDIT|Vault Strategy Audit — redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/WORLD-CUP-2026-PATTERN-AUDIT|World Cup 2026 Pattern Audit — Pre-Tournament Evidence Snapshot]] — degree `0`, backlinks `0`, outlinks `0` — #FIFAWorldCup, #WeAre26
+
+### Care Economy / Family Trust Loop
+
+- [[mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình|Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] — bridge note connecting dual-income exhaustion, outsourced care, child attack surfaces, elder late-life extraction, loosh/battery language and family trust collapse.
+- Related hubs: [[MOC - Epistemology & Propaganda]], [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí]], [[mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|Dopamine Economy]], [[esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh]], [[esoterica/S.E.X|S.E.X]].
 
 ## Current Hub Notes
 
