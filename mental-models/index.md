@@ -59,8 +59,9 @@ Orientation: this path can become self-shame if read badly. Use it to understand
 1. [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — map desire as economy.
 2. [[Bộ Não Rỗng và AI Brain Rot]] — examine cognitive outsourcing and attention decay.
 3. [[Schadenfreude - Dopamine Phản Diện]] — identify the dark reward loop.
-4. [[Sợ hãi - Tham Lam – Cân bằng]] — study the market inside the nervous system.
-5. [[Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien]] — read addiction anatomy without moral theater.
+4. [[Fact-Check Thua Care-Check]] — see why emotional access can defeat correct information.
+5. [[Sợ hãi - Tham Lam – Cân bằng]] — study the market inside the nervous system.
+6. [[Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien]] — read addiction anatomy without moral theater.
 
 ### 4. Perception Path — Duality, Identity, Self-Deception
 

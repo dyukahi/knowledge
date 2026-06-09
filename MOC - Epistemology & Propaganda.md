@@ -58,6 +58,7 @@ Discernment không phải nghi ngờ mọi thứ. Discernment là biết mỗi c
 - [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] — tương lai được diễn tập trước bằng fiction.
 - [[Karma Disclosure - Truth Hidden In Plain Sight]] — revelation method, consent và truth in plain sight.
 - [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — algorithmic feed như worldview assignment.
+- [[Fact-Check Thua Care-Check]] — why correct information can lose to emotional access and intimacy engineering.
 - [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — World Cup 2026 as a case study in collective media myth, creator culture and symbolic prediction discipline.
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — sports spectacle, halftime shows and launches as synchronized mass ritual.
 
