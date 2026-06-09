@@ -247,7 +247,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### June 9, 2026
 
-- **[[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]]** - new deeper care-economy note: how market capture, dual-income exhaustion, outsourced care, attention extraction, child grooming risk and family trust collapse make elders and children seek emotional containers outside the home.
+- **[[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]]** - new deeper care-economy note: how market capture, dual-income exhaustion, outsourced care, attention extraction, child grooming risk, elder late-life extraction and family trust collapse make vulnerable generations seek emotional containers outside the home.
 
 ### June 4, 2026
 
