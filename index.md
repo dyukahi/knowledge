@@ -247,7 +247,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### June 9, 2026
 
-- **[[Fact-Check Thua Care-Check]]** - new soft redpill / everyday propaganda note: why correct information can lose to emotional access, how scams sell care/status rather than products, and why both elders and children need emotional safety before persuasion.
+- **[[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]]** - new deeper care-economy note: how market capture, dual-income exhaustion, outsourced care, attention extraction and family trust collapse make both elders and children seek emotional containers outside the home.
 
 ### June 4, 2026
 
