@@ -1,6 +1,6 @@
 ---
 title: "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức"
-description: "Đọc chuỗi đề Ngữ văn 2024–2026 như một quá trình làm mềm ký ức và thay hình mẫu khát vọng: từ dòng sông, vùng trời Tổ quốc đến Code và Cát, Spiderum và American tech-founder grammar."
+description: "Đọc chuỗi đề Ngữ văn 2024–2026 như một quá trình làm mềm ký ức và thay hình mẫu khát vọng: từ dòng sông, vùng trời Tổ quốc đến Code và Cát, Agenda 2030 grammar và American tech-founder mythology."
 aliases:
   - De Van 2026 Va Nghi Le Thay Ky Uc
   - Code Va Cat Trong De Van
@@ -68,7 +68,7 @@ Claim layers:
 | Symbol | Đề thi như ritual chọn ký ức tập thể: quá khứ nào được làm mềm, tương lai nào được thần tượng hóa. |
 | Speculative synthesis | Chuỗi này có thể đọc như một mảnh của [[Mỹ Là Ai Cập Tái Sinh]]: empire không chỉ xuất khẩu hàng hóa, mà xuất khẩu grammar khát vọng. |
 
-Các liên hệ như Mr Pips, Fulbright, “cách mạng màu” hiện vẫn chỉ là research leads nếu chưa có nguồn trực tiếp. Không dùng làm claim public trong bài này.
+Bài này tránh các claim chưa có bằng chứng trực tiếp. Trục chính ở đây là ngữ liệu, câu hỏi, biểu tượng và grammar giáo dục.
 
 ---
 ## 2024: Ký Ức Được Mỹ Học Hóa
@@ -319,6 +319,116 @@ Khi quá khứ đã hiền, đẹp và phi xung đột, nó không còn là mệ
 Nó trở thành chất liệu biểu đạt.
 
 ---
+## Từ National Synthesis Sang Global Integration
+
+Muốn hiểu vì sao sự vắng mặt của Hồ Chí Minh trong ritual giáo dục lại đáng chú ý, không nên chỉ đọc Bác Hồ như một tác giả hay một nhân vật lịch sử.
+
+Trong thế kỷ 20 Việt Nam, Hồ Chí Minh từng vận hành như một **national synthesis symbol**.
+
+Một biểu tượng tổng hợp.
+
+Bác Hồ nối được những trục vốn rất khó nối:
+
+```text
+dân tộc chủ nghĩa
+độc lập
+chống thực dân
+đạo đức cách mạng
+chủ nghĩa xã hội
+ý niệm thống nhất quốc gia
+```
+
+Dù có tranh luận thế nào về lịch sử, chính sách hay mô hình xã hội chủ nghĩa, function biểu tượng này vẫn rất thật.
+
+Nó cho phép Việt Nam kể một câu chuyện thống nhất:
+
+```text
+Chúng ta bị đô hộ.
+Chúng ta đứng lên.
+Chúng ta giành độc lập.
+Chúng ta thống nhất.
+Chúng ta xây xã hội mới.
+```
+
+Đó là grammar của sovereignty.
+
+Câu hỏi nền của nó là:
+
+```text
+Ai là chủ đất nước này?
+Dân tộc này có quyền tự quyết không?
+Con người Việt Nam đứng ở đâu trước đế quốc?
+```
+
+Nhưng trong grammar giáo dục mới, câu hỏi này mờ dần. Nó không biến mất bằng một lệnh cấm. Nó bị thay bằng một bộ câu hỏi khác:
+
+```text
+Bạn có năng lực gì trong thế giới biến động?
+Bạn có thích nghi tốt không?
+Bạn có sáng tạo không?
+Bạn có hội nhập được không?
+Bạn có trở thành công dân toàn cầu được không?
+Bạn có aligned với chuẩn phát triển bền vững không?
+```
+
+Đây là bước chuyển từ:
+
+```text
+độc lập dân tộc + chủ nghĩa xã hội
+```
+
+sang:
+
+```text
+hội nhập
+phát triển bền vững
+công dân toàn cầu
+năng lực cá nhân
+sáng tạo
+khai phóng
+AI
+chuyển đổi số
+ESG
+Agenda 2030 grammar
+```
+
+Ở đây, Agenda 2030 không cần được hiểu như một âm mưu bí mật. Nó có thể đọc trước hết như một **permission architecture**: một bộ ngôn ngữ quản trị mới làm cho các thay đổi về giáo dục, dữ liệu, khí hậu, giới, phát triển bền vững, năng lực lao động và quản trị số trở nên hợp lý, văn minh, khó phản đối.
+
+Cái mất đi không phải là lòng yêu nước bề mặt.
+
+Cái mất đi là trục tự chủ.
+
+Trước đây, giáo dục hỏi:
+
+```text
+Làm sao để thành người Việt Nam độc lập, có trách nhiệm với dân tộc?
+```
+
+Giờ câu hỏi dịch dần thành:
+
+```text
+Làm sao để thành cá nhân có năng lực, linh hoạt, sáng tạo,
+thích nghi với thế giới biến động,
+đóng góp vào mục tiêu phát triển toàn cầu?
+```
+
+Nghe rất đẹp.
+
+Nhưng nó thay trục chính danh:
+
+```text
+sovereignty → integration
+```
+
+Khi Hồ Chí Minh biến mất khỏi ritual giáo dục, cái biến mất không chỉ là một tác giả trong đề Văn.
+
+Đó là sự mờ đi của câu hỏi độc lập dân tộc trước câu hỏi hội nhập toàn cầu.
+
+Một khi dân tộc không còn được dạy để hỏi “ta có tự chủ không?”, mà chủ yếu được dạy để hỏi “ta có thích nghi tốt không?”, thì quá trình hội nhập đã vượt khỏi kinh tế.
+
+Nó đã đi vào linh hồn giáo dục.
+
+---
 ## American Egypt: Empire Không Cần Bạn Thờ Pharaoh
 
 Trong vault có bài [[Mỹ Là Ai Cập Tái Sinh]]. Bài đó không nói Mỹ là Ai Cập theo nghĩa địa lý hay huyết thống. Nó đọc America như một hệ thống biểu tượng chính trị: cùng grammar quyền lực của Egypt, nhưng đổi vật liệu.
@@ -393,19 +503,27 @@ Nói cách khác, không phải mọi năm đều tech hóa.
 Nhưng mỗi vài năm, ritual thi cử lại hé một layer mới của hệ điều hành cảm xúc.
 
 ---
-## Research Method: Kiếm Dữ Kiện Kiểu Gì Khi Không Thể Tìm Hết?
+## Evidence Limit / Giới Hạn Bằng Chứng
 
-Không cần gom mọi dữ kiện để bài đứng vững. Nhưng cần gom đúng loại dữ kiện.
+Không cần gom mọi dữ kiện để bài đứng vững. Nhưng cần biết dữ kiện nào đang gánh claim nào.
 
-Ưu tiên theo thứ tự:
+Bài này dựa trên:
 
-1. **Ảnh/PDF đề chính thức**: nguồn mạnh nhất. Lưu local, OCR, trích đúng dòng.
-2. **Báo lớn đăng ảnh đề**: Vietnamnet, Tuổi Trẻ, VnExpress, Lao Động, Dân Trí, Đại Biểu Nhân Dân.
-3. **Trang đáp án/giải đề**: dùng để cross-check tác phẩm, nhưng không dùng làm source chính nếu không có ảnh đề.
-4. **Bài phân tích giáo viên**: chỉ dùng để xem reception, không dùng để xác nhận đề.
-5. **Search snippets**: chỉ là lead, không phải evidence.
+1. **Ảnh đề / OCR đề** cho 2024, 2025, 2026.
+2. **Báo lớn đăng ảnh hoặc mô tả đề** như Vietnamnet, Tuổi Trẻ, Đại Biểu Nhân Dân.
+3. **Trang sách** xác nhận *Code và Cát* của Phan Tuấn (Huskywannafly), nhà phát hành Spiderum, NXB Thế Giới, 2026.
+4. **Corpus check sơ bộ 2016–2025** để tránh nói quá rằng mọi năm đều tech hóa.
 
-Với thesis kiểu này, không cần chứng minh “tất cả đề đều như vậy”. Chỉ cần chứng minh sequence đủ rõ:
+Những gì bài **không** claim:
+
+```text
+Không claim có network bí mật đã được chứng minh.
+Không claim mọi đề gần đây đều global-tech-market hóa.
+Không claim 2024/2025 xóa lịch sử.
+Không claim Agenda 2030 là một âm mưu đã chứng minh trong case này.
+```
+
+Claim chính hẹp hơn và sạch hơn:
 
 ```text
 2024: nguồn cội được nói bằng mỹ học/cá tính.
@@ -413,22 +531,11 @@ Với thesis kiểu này, không cần chứng minh “tất cả đề đều n
 2026: tương lai được nói bằng Silicon Valley icons.
 ```
 
-Sau đó giữ các phần chưa đủ nguồn ở research lead.
-
----
-## Research Leads / Chưa Đưa Thành Claim
-
-Các hướng cần kiểm chứng thêm:
+Từ đó đọc ra một shift:
 
 ```text
-Gom bản scan/PDF chính thức 2016–2026 để làm corpus edition sạch hơn, OCR từng đề và lưu citation theo từng trang.
-Kiểm tra quy trình chọn ngữ liệu đề thi của Bộ GD&ĐT.
-Rà các tác giả/ngữ liệu đề thi theo hệ sinh thái xuất bản: NXB, tạp chí, platform, nhóm biên soạn.
-Kiểm tra Huskywannafly / Phan Tuấn có network cụ thể nào với startup, khai phóng, Fulbright, Mr Pips hay không.
-Kiểm tra Spiderum có overlap nhân sự / funding / truyền thông / event với các hệ sinh thái này không.
+sovereignty memory → global integration grammar
 ```
-
-Cho tới khi có nguồn, các điểm này là research leads. Không dùng như kết luận public.
 
 ---
 ## Synthesis
@@ -454,6 +561,7 @@ lịch sử → cảm xúc
 Tổ quốc → trải nghiệm
 cộng đồng → cá tính
 bổn phận → diễn giải
+sovereignty → integration
 khát vọng dân tộc → founder mythology
 ```
 
@@ -465,7 +573,11 @@ Rồi khi tưởng tượng về tương lai, nó mượn thần tượng của 
 
 American Egypt không cần chinh phục bạn bằng quân đội.
 
-Nó chỉ cần khiến bạn mượn ngôn ngữ của nó, hình mẫu của nó, thước đo thành công của nó, mỗi khi bạn tưởng tượng về chính mình.
+Agenda 2030 grammar không cần bắt bạn ghét dân tộc mình.
+
+Nó chỉ cần khiến bạn chuyển câu hỏi từ “ta có tự chủ không?” sang “ta có thích nghi tốt không?”.
+
+Và American Egypt chỉ cần khiến bạn mượn ngôn ngữ của nó, hình mẫu của nó, thước đo thành công của nó, mỗi khi bạn tưởng tượng về chính mình.
 
 Và nếu ta không còn chú ý đến những nghi lễ nhỏ như đề thi, một ngày nào đó, giới trẻ sẽ không cần bị bắt quên lịch sử.
 
