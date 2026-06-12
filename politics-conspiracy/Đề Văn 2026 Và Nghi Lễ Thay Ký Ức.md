@@ -1,12 +1,13 @@
 ---
 title: "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức"
-description: "Đọc đề Ngữ văn tốt nghiệp THPT 2026 như một nghi lễ chọn ký ức tập thể: từ Code và Cát, Spiderum, Steve Jobs, Zuckerberg, Musk đến American Egypt và việc tái lập hình mẫu khát vọng cho giới trẻ Việt Nam."
+description: "Đọc chuỗi đề Ngữ văn 2024–2026 như một quá trình làm mềm ký ức và thay hình mẫu khát vọng: từ dòng sông, vùng trời Tổ quốc đến Code và Cát, Spiderum và American tech-founder grammar."
 aliases:
   - De Van 2026 Va Nghi Le Thay Ky Uc
   - Code Va Cat Trong De Van
   - Steve Jobs Viet Nam
   - Spiderum De Thi THPT
   - American Tech Aspiration Trong Giao Duc Viet Nam
+  - De Van 2024 2025 2026 Lam Mem Ky Uc
 date: 2026-06-12
 tags: [politics-conspiracy, education, propaganda, symbolism, american-egypt, vietnam, spiderum, exam]
 status: draft
@@ -21,56 +22,200 @@ related:
 
 Một quốc gia không cần xóa lịch sử.
 
-Chỉ cần thay hình mẫu trong đề thi.
+Chỉ cần đổi cách thế hệ sau cảm về lịch sử.
 
-Đề Ngữ văn tốt nghiệp THPT 2026, qua ảnh đề được đối chiếu, dùng ngữ liệu từ **Code và Cát — Những Quyền Lực Công Nghệ Xoay Chuyển Thế Giới** của **Phan Tuấn**, NXB Thế Giới, 2026, trang 8-10. Phần viết sau đó nhắc tới Steve Jobs, Mark Zuckerberg, Elon Musk, rồi yêu cầu học sinh trả lời câu hỏi: làm thế nào để có những “Steve Jobs Việt Nam”.
+Không cần cấm quá khứ.
 
-Bề mặt, đây là một đề hiện đại: công nghệ, AI, quyền lực tri thức, sáng tạo, tương lai.
+Chỉ cần làm quá khứ trở nên mềm hơn, đẹp hơn, ít xung đột hơn, dễ tiêu hóa hơn trong ngôn ngữ của cá tính, cảm xúc, trải nghiệm và sáng tạo cá nhân.
 
-Nhưng ở tầng sâu hơn, đây là một case rất rõ về việc **ngữ liệu thi cử trở thành nghi lễ chọn ký ức tập thể**.
+Rồi đến một lúc, khi hỏi về tương lai, hệ thống không cần ép học sinh mơ theo hình mẫu ngoại lai. Nó chỉ cần đặt sẵn những biểu tượng được phép ngưỡng mộ.
 
-Đề Văn không chỉ kiểm tra học sinh đọc hiểu. Nó cũng nói với học sinh: thời đại này muốn các em ngưỡng mộ ai.
+Đề Ngữ văn 2026, với *Code và Cát*, Spiderum, AI, Steve Jobs, Zuckerberg, Musk và câu hỏi “Steve Jobs Việt Nam”, không nên được đọc như một sự kiện rời rạc. Nó hợp lý hơn khi đặt sau một chuỗi dịch chuyển mềm trong đề Văn các năm gần đây.
+
+2024: ký ức được mỹ học hóa.
+
+2025: chiến tranh và Tổ quốc được cảm xúc hóa.
+
+2026: khát vọng quốc gia được American-tech hóa.
+
+Đây không phải là “xóa lịch sử” kiểu thô.
+
+Đây là thay hệ điều hành cảm xúc của lịch sử.
 
 ---
 ## Evidence Discipline / Cách Đọc Claim
 
-Bài này không nói “có âm mưu bí mật đã được chứng minh”. Bài này đọc đề thi như một artifact văn hóa - chính trị, theo bốn tầng.
+Bài này không chứng minh một âm mưu bí mật. Nó đọc đề thi như một artifact văn hóa - chính trị.
 
-| Claim layer | Safe reading |
+Đề thi quốc gia không chỉ là bài kiểm tra. Nó là một nghi lễ chung: hàng triệu học sinh, phụ huynh, giáo viên và truyền thông nhìn vào cùng một văn bản, cùng một lúc, dưới danh nghĩa chính thống của nhà nước giáo dục.
+
+Những gì xuất hiện trong đề không chỉ được “trích dẫn”. Nó được ban một dạng chính danh.
+
+Vì vậy, câu hỏi không phải:
+
+> Đề này đúng hay sai?
+
+Câu hỏi sâu hơn là:
+
+> Đề này đang dạy thế hệ sau cảm về quá khứ, hiện tại và tương lai theo cách nào?
+
+Claim layers:
+
+| Layer | Cách đọc |
 |---|---|
-| Fact / documentable | Ảnh đề cho thấy ngữ liệu trích từ *Code và Cát* của Phan Tuấn, NXB Thế Giới, 2026; phần viết nhắc Steve Jobs, Mark Zuckerberg, Elon Musk và câu hỏi “Steve Jobs Việt Nam”. Trang bán sách xác nhận *Code và Cát* là sách của Phan Tuấn (Huskywannafly), nhà phát hành Spiderum, NXB Thế Giới, 2026. Profile Spiderum của Huskywannafly tồn tại và có nhiều bài về công nghệ, Mỹ-Trung, AI, xã hội hiện đại. |
-| Pattern / systems | Đề thi quốc gia đưa một text từ hệ sinh thái tri thức internet/công nghệ-xã hội vào vị trí ngữ liệu chính thống; đồng thời dùng founder Mỹ làm mẫu hình khát vọng cho học sinh Việt Nam. |
-| Symbol / myth | Đề thi là nghi lễ chọn ký ức. Khi tiền nhân Việt Nam lùi khỏi ritual này và Silicon Valley icon bước vào, hệ thống đang dịch chuyển aspiration model. |
-| Speculative synthesis | Đây có thể đọc như một mảnh của “American Egypt”: empire không chỉ xuất khẩu sản phẩm, mà xuất khẩu hình mẫu tương lai, mythology của thiên tài công nghệ, và grammar khát vọng. |
+| Fact | Văn bản nào xuất hiện trong đề, tác giả nào, câu hỏi nào, hình mẫu nào được nêu. |
+| Pattern | Các đề gần nhau có cùng dịch chuyển ngôn ngữ không: từ lịch sử cụ thể sang cảm xúc/cá tính, từ Tổ quốc sang trải nghiệm, từ tương lai Việt Nam sang Silicon Valley. |
+| Symbol | Đề thi như ritual chọn ký ức tập thể: quá khứ nào được làm mềm, tương lai nào được thần tượng hóa. |
+| Speculative synthesis | Chuỗi này có thể đọc như một mảnh của [[Mỹ Là Ai Cập Tái Sinh]]: empire không chỉ xuất khẩu hàng hóa, mà xuất khẩu grammar khát vọng. |
 
-Các liên hệ Mr Pips, Fulbright, “cách mạng màu” hiện chỉ là **research leads** nếu chưa có bằng chứng trực tiếp. Không dùng như claim public trong bài này.
+Các liên hệ như Mr Pips, Fulbright, “cách mạng màu” hiện vẫn chỉ là research leads nếu chưa có nguồn trực tiếp. Không dùng làm claim public trong bài này.
 
 ---
-## Fact Layer: Cái Gì Đã Verify Được?
+## 2024: Ký Ức Được Mỹ Học Hóa
 
-Từ ảnh đề:
+Đề Ngữ văn tốt nghiệp THPT 2024 trích *Dòng sông và những thế hệ của nước* của Nguyễn Quang Thiều, trong *Viết & đọc - Chuyên đề mùa thu 2023*, NXB Hội Nhà văn.
+
+Đoạn đọc hiểu xoay quanh hình ảnh dòng sông, các thế hệ nước và các thế hệ nghệ sĩ.
+
+Ý chính của văn bản rất đẹp:
+
+```text
+Thế hệ nước này tiếp thế hệ nước trước để tạo ra vẻ đẹp dòng sông.
+Thế hệ nghệ sĩ này tiếp thế hệ nghệ sĩ trước để tạo ra lịch sử nghệ thuật nhân loại.
+Nếu không có thế hệ nghệ sĩ trước, thế hệ sau không có nguồn lực để sáng tạo và khai phá.
+Nếu thế hệ sau chỉ sao chép thế hệ trước, nghệ thuật ngừng chảy và đi tới cái chết.
+Đừng tách rời con nước hôm qua với con nước hôm nay.
+Đừng tách rời các thế hệ khỏi dòng chảy nghệ thuật.
+```
+
+Câu nghị luận xã hội yêu cầu học sinh viết về:
+
+```text
+ý nghĩa của việc tôn trọng cá tính
+```
+
+Phần nghị luận văn học vào *Đất Nước* của Nguyễn Khoa Điềm, nhưng hướng hỏi là nhận xét về sự kết hợp giữa cảm xúc và suy tư của nhà thơ.
+
+Bề mặt, 2024 không hề “xóa nguồn cội”. Ngược lại, nó nói rất rõ về continuity: hôm nay không được tách khỏi hôm qua, cá nhân không tách khỏi dòng chảy thế hệ.
+
+Nhưng chính ở đây có một dịch chuyển tinh vi.
+
+Nguồn cội không hiện ra như lịch sử chính trị cụ thể.
+
+Nó hiện ra như mỹ học:
+
+```text
+dòng sông
+thế hệ
+nghệ thuật
+cá tính
+cảm xúc
+suy tư
+```
+
+Ngay cả *Đất Nước* cũng được tiếp cận chủ yếu qua thẩm mỹ của cảm xúc và suy tư, hơn là ontology chính trị của Nhân dân, kháng chiến, chủ quyền, cộng đồng lịch sử.
+
+Nói đúng hơn:
+
+```text
+2024 không cắt đứt quá khứ.
+2024 làm quá khứ trở nên mềm, đẹp, phi xung đột.
+```
+
+Đây là memory continuity bị aesthetic hóa.
+
+Quá khứ vẫn còn đó, nhưng được bọc trong ngôn ngữ humanistic: dòng chảy, thế hệ, nghệ thuật, cá tính.
+
+Không sai về văn chương.
+
+Nhưng rất đáng đọc về mặt ritual.
+
+---
+## 2025: Chiến Tranh Và Tổ Quốc Được Cảm Xúc Hóa
+
+Đề 2025 còn thú vị hơn, vì đây là năm đầu tiên của Chương trình GDPT 2018, với nguyên tắc đề Ngữ văn không dùng ngữ liệu trong sách giáo khoa cho nhóm thí sinh chương trình mới.
+
+Ngữ liệu đọc hiểu là *Những vùng trời khác nhau* của Nguyễn Minh Châu.
+
+Bối cảnh là thời kỳ chống Mỹ. Lê và Sơn là pháo thủ. Hai người từng cùng chiến đấu, rồi chia tay ở chiến địa. Một người ra Hà Nội, một người ở lại vùng trời quê hương.
+
+Các chi tiết trong đề rất rõ:
+
+```text
+chia nhau tấm giẻ nỉ
+vài tấm đồ sực mùi thuốc đạn
+chia nhau bầu trời Tổ quốc trên đầu
+```
+
+Câu hỏi đọc hiểu còn nối văn bản với Chế Lan Viên:
+
+```text
+Khi ta ở, chỉ là nơi đất ở
+Khi ta đi, đất đã hóa tâm hồn!
+```
+
+Phần viết yêu cầu:
+
+```text
+Câu 1: phân tích tình cảm của Lê dành cho Sơn.
+Câu 2: từ văn bản và bối cảnh đất nước đang có nhiều thay đổi lớn lao,
+viết bài nghị luận với chủ đề:
+Vùng trời quê hương nào cũng là bầu trời Tổ quốc.
+```
+
+Ở đây, chiến tranh và Tổ quốc vẫn hiện diện. Không thể nói là bị xóa.
+
+Nhưng chúng hiện diện qua một hệ cảm xúc rất mềm:
+
+```text
+tình bạn
+quê hương
+vùng trời
+tâm hồn
+người lính
+ký ức cá nhân
+```
+
+Đề không hỏi trực diện về chiến tranh chống Mỹ như lịch sử chính trị.
+
+Không hỏi về kẻ thù.
+
+Không hỏi về chủ quyền theo nghĩa xung đột.
+
+Không hỏi về hy sinh như mệnh lệnh đạo đức.
+
+Không hỏi về lý tưởng cách mạng.
+
+Nó hỏi về tình cảm của Lê dành cho Sơn, về vùng trời quê hương, về bầu trời Tổ quốc, về đất hóa tâm hồn.
+
+Một lần nữa: không sai về văn chương.
+
+Nhưng pattern rất rõ.
+
+```text
+2025 không xóa chiến tranh.
+2025 làm chiến tranh trở thành ký ức cảm xúc.
+```
+
+Tổ quốc không còn được đặt trước học sinh như một cấu trúc lịch sử - chính trị đòi hỏi bổn phận.
+
+Tổ quốc được đặt như một bầu trời cảm xúc mà mỗi vùng quê đều có phần.
+
+Đây là patriotic memory bị affective hóa.
+
+---
+## 2026: Khát Vọng Quốc Gia Được American-Tech Hóa
+
+Đến 2026, shift trở nên rõ hơn.
+
+Ảnh đề Ngữ văn 2026 cho thấy phần Đọc hiểu trích:
 
 ```text
 CODE VÀ CÁT - Những quyền lực công nghệ xoay chuyển thế giới,
 Phan Tuấn, NXB Thế Giới, 2026, tr.8-10
 ```
 
-Phần đọc hiểu xoay quanh Gutenberg, máy in, tri thức, Shakespeare, Đế quốc Ottoman, quyền lực công nghệ và AI.
-
-Phần viết nêu:
-
-```text
-Nước Mĩ có Steve Jobs, Mark Zuckerberg, Elon Musk,...
-với những phát minh công nghệ góp phần làm thay đổi thế giới.
-```
-
-Rồi yêu cầu học sinh viết khoảng 200 chữ trả lời câu hỏi:
-
-```text
-Làm thế nào để có những “Steve Jobs Việt Nam”?
-```
-
-Từ trang bán sách:
+Trang bán sách xác nhận:
 
 ```text
 CODE VÀ CÁT – Những Quyền Lực Công Nghệ Xoay Chuyển Thế Giới
@@ -78,76 +223,34 @@ Tác giả: Phan Tuấn (Huskywannafly)
 Nhà phát hành: Spiderum
 Nhà xuất bản: NXB Thế Giới
 Năm phát hành: 2026
-Số trang: 312
 ```
 
-Trang giới thiệu sách mô tả nội dung liên quan tới Google, Apple, Netflix, AI, dopamine, thuật toán tái lập trình bộ não, đường ống dẫn tri thức, dòng chảy tiền, chính trị, kinh tế và kỹ thuật.
+Nội dung sách được giới thiệu quanh Google, Apple, Netflix, AI, dopamine, thuật toán tái lập trình bộ não, đường ống dẫn tri thức, dòng chảy tiền, chính trị, kinh tế và kỹ thuật.
 
-Từ profile Spiderum của Huskywannafly:
+Bản thân việc dùng một ngữ liệu đương đại không tự động sai. Học sinh nên biết đọc AI, dữ liệu, nền tảng, công nghệ và quyền lực hiện đại.
 
-- Có bài về Trung Quốc trong cuộc đua công nghệ.
-- Có bài về Trump, Rubio và “liên minh bóng tối”.
-- Có bài về chiến lược sở hữu người dùng của các công ty AI.
-- Có bài về xã hội hiện đại chống lại việc làm cha mẹ.
-- Có bài về tuyển sinh đại học, nước Mỹ, tài chính, xã hội.
+Nhưng phần viết mới là điểm quyết định.
 
-Điểm cần công bằng: Huskywannafly không nên bị gọi là “vô danh” theo nghĩa không có ảnh hưởng trong hệ sinh thái Spiderum. Trong ecosystem đó, đây là một cây viết nổi bật.
+Đề nêu:
 
-Nhưng điều đó không làm câu hỏi biến mất.
+```text
+Nước Mĩ có Steve Jobs, Mark Zuckerberg, Elon Musk,...
+với những phát minh công nghệ góp phần làm thay đổi thế giới.
+```
 
-Vấn đề không phải là một cây viết Spiderum có viết giỏi hay không.
+Rồi yêu cầu học sinh trả lời câu hỏi:
 
-Vấn đề là: **bằng cơ chế nào một text từ hệ sinh thái đó đi vào đề thi quốc gia?**
+```text
+Làm thế nào để có những “Steve Jobs Việt Nam”?
+```
 
----
-## Đề Thi Là Ritual Memory Selection
+Đây không còn chỉ là hiện đại hóa ngữ liệu.
 
-Thi tốt nghiệp không chỉ là kiểm tra kiến thức. Nó là một nghi lễ quốc gia.
+Đây là nhập khẩu hình mẫu khát vọng.
 
-Mỗi năm, hàng triệu học sinh, phụ huynh, giáo viên, truyền thông cùng nhìn vào cùng một đề. Những gì xuất hiện trong đề được cấp một dạng chính danh đặc biệt.
+Khi đề thi quốc gia hỏi học sinh tưởng tượng về tương lai Việt Nam, nó không gọi tên Trần Đại Nghĩa, Tạ Quang Bửu, Lương Định Của, Phạm Ngọc Thạch, Đặng Văn Ngữ hay những tiền nhân khoa học - kỹ thuật - giáo dục từng xây nền quốc gia trong chiến tranh, nghèo đói, cấm vận và tái thiết.
 
-Đề Văn vì vậy không trung tính.
-
-Nó nói:
-
-> Đây là thứ thế hệ này cần đọc.
-
-> Đây là loại ngôn ngữ thế hệ này cần diễn giải.
-
-> Đây là hình mẫu thế hệ này được yêu cầu suy nghĩ về.
-
-Khi một tác phẩm văn học Việt Nam xuất hiện trong đề, nó không chỉ là “văn bản”. Nó là ký ức được truyền tiếp.
-
-Khi một text công nghệ-xã hội từ hệ sinh thái Spiderum xuất hiện trong đề, nó cũng không chỉ là “ngữ liệu đọc hiểu”. Nó là một tín hiệu:
-
-> tri thức công nghệ, quyền lực nền tảng, AI, dữ liệu, Silicon Valley và platform discourse đã đi vào ritual giáo dục chính thống.
-
-Một lần thì có thể là lựa chọn đề.
-
-Một pattern lặp lại thì là dịch chuyển canon.
-
----
-## Từ Tiền Nhân Sang Founder Mỹ
-
-Câu hỏi “làm sao để có những Steve Jobs Việt Nam” nghe hiện đại, tích cực, khuyến khích sáng tạo.
-
-Nhưng bên dưới nó có một vấn đề rất lạnh.
-
-Ngay cả khi tưởng tượng về tương lai Việt Nam, đề vẫn mượn hình mẫu từ Mỹ.
-
-Không phải Trần Đại Nghĩa.
-
-Không phải Tạ Quang Bửu.
-
-Không phải Lương Định Của.
-
-Không phải Phạm Ngọc Thạch.
-
-Không phải Đặng Văn Ngữ.
-
-Không phải những kỹ sư, nhà khoa học, nhà giáo dục, nhà quân sự, nhà văn hóa Việt Nam từng thật sự gánh nền móng quốc gia trong chiến tranh, nghèo đói, cấm vận và tái thiết.
-
-Mà là:
+Nó gọi tên Silicon Valley:
 
 ```text
 Steve Jobs
@@ -155,54 +258,68 @@ Mark Zuckerberg
 Elon Musk
 ```
 
-Vấn đề không phải Jobs, Zuckerberg, Musk không đáng học.
+Vấn đề không phải họ không đáng học.
 
-Vấn đề là đề thi quốc gia chọn ai làm biểu tượng khi yêu cầu học sinh tưởng tượng về năng lực Việt Nam.
-
-Một nền giáo dục khỏe mạnh hoàn toàn có thể dạy học sinh về AI, bán dẫn, dữ liệu, startup, Silicon Valley.
-
-Nhưng nếu hình mẫu khát vọng luôn phải nhập khẩu, thì câu hỏi là:
-
-> Có phải chúng ta đang đào tạo công dân Việt Nam, hay người tiêu dùng giấc mơ của empire khác?
-
----
-## Spiderum Không Phải Vấn Đề Cá Nhân
-
-Không cần biến Huskywannafly thành target cá nhân.
-
-Càng không cần phủ nhận việc một cây viết từ internet có thể viết tốt.
-
-Vấn đề nằm ở cơ chế chính danh.
-
-Một text đi qua đường:
+Vấn đề là khi đề thi quốc gia đặt câu hỏi “tương lai Việt Nam cần gì?”, nó chọn ai làm biểu tượng cho giấc mơ đó.
 
 ```text
-Spiderum author
-→ sách do Spiderum phát hành
-→ NXB Thế Giới
-→ đề thi Ngữ văn quốc gia
+2026 không chỉ nói về công nghệ.
+2026 đặt tương lai Việt Nam trong grammar của American tech-founder mythology.
 ```
 
-Đường đi này cần được hỏi rõ.
-
-Ai chọn ngữ liệu?
-
-Tiêu chí là gì?
-
-Có hội đồng đọc, phản biện, cân nhắc hệ giá trị không?
-
-Nó được chọn vì chất lượng văn bản, vì chủ đề công nghệ, vì tính thời sự, hay vì một định hướng aspiration mới?
-
-Một đề Văn không phải bảng xếp hạng content platform.
-
-Nó là ritual giáo dục quốc gia.
-
-Khi một hệ sinh thái tri thức tư nhân/internet bước vào ritual đó, câu hỏi không phải “có được không”. Câu hỏi là:
-
-> nó đang thay thế cái gì?
+Đây là national aspiration bị American-tech hóa.
 
 ---
-## American Egypt: Khi Empire Xuất Khẩu Hình Mẫu
+## Chuỗi 2024–2026: Không Xóa, Mà Đổi Hệ Điều Hành Cảm Xúc
+
+Đọc rời từng năm, mỗi đề đều có thể được bảo vệ.
+
+2024 nói về dòng chảy thế hệ và cá tính.
+
+2025 nói về người lính, quê hương và bầu trời Tổ quốc.
+
+2026 nói về công nghệ và khát vọng sáng tạo.
+
+Không có cái nào tự nó “sai”.
+
+Nhưng đặt cạnh nhau, một sequence hiện ra:
+
+| Năm | Chất liệu chính | Dịch chuyển |
+|---|---|---|
+| 2024 | Dòng sông, thế hệ, nghệ thuật, cá tính, *Đất Nước* | Ký ức được mỹ học hóa |
+| 2025 | Người lính, tình bạn, quê hương, bầu trời Tổ quốc | Chiến tranh/Tổ quốc được cảm xúc hóa |
+| 2026 | AI, code, Spiderum, Steve Jobs, Zuckerberg, Musk | Khát vọng quốc gia được American-tech hóa |
+
+Đây không phải là sự biến mất của lịch sử.
+
+Nó tinh vi hơn.
+
+```text
+Lịch sử không biến mất.
+Nó được chuyển từ xương sống của cộng đồng
+thành chất liệu cảm xúc cho cá nhân diễn giải.
+```
+
+Từ bổn phận sang trải nghiệm.
+
+Từ chính trị sang mỹ học.
+
+Từ cộng đồng sang cá tính/tâm hồn.
+
+Từ tiền nhân sang hình mẫu toàn cầu.
+
+Từ Tổ quốc như lịch sử sống sang Tổ quốc như cảm xúc đẹp.
+
+Từ tương lai Việt Nam như tiếp nối nội lực dân tộc sang tương lai Việt Nam như phiên bản địa phương của Silicon Valley.
+
+Đây là lật sử mềm ở dạng trưởng thành hơn: không phủ nhận quá khứ, mà làm quá khứ hiền đi.
+
+Khi quá khứ đã hiền, đẹp và phi xung đột, nó không còn là mệnh lệnh đạo đức hay ký ức chính trị.
+
+Nó trở thành chất liệu biểu đạt.
+
+---
+## American Egypt: Empire Không Cần Bạn Thờ Pharaoh
 
 Trong vault có bài [[Mỹ Là Ai Cập Tái Sinh]]. Bài đó không nói Mỹ là Ai Cập theo nghĩa địa lý hay huyết thống. Nó đọc America như một hệ thống biểu tượng chính trị: cùng grammar quyền lực của Egypt, nhưng đổi vật liệu.
 
@@ -214,7 +331,7 @@ Egypt cổ quản lý afterlife.
 
 American Egypt quản lý debt-life, screen-life, space-life, identity-life và aspiration-life.
 
-Trong frame này, Steve Jobs, Zuckerberg, Musk không chỉ là doanh nhân. Họ là **archetype xuất khẩu**:
+Trong frame này, Jobs, Zuckerberg, Musk không chỉ là doanh nhân. Họ là archetype xuất khẩu:
 
 ```text
 founder thiên tài
@@ -225,13 +342,12 @@ kẻ biến code thành empire
 
 Khi đề Văn Việt Nam hỏi học sinh làm sao có “Steve Jobs Việt Nam”, nó đang vận hành một grammar rất Mỹ:
 
-> tương lai = công nghệ
-
-> công nghệ = founder
-
-> founder = Silicon Valley
-
-> Silicon Valley = hình mẫu để dân tộc khác bắt chước
+```text
+tương lai = công nghệ
+công nghệ = founder
+founder = Silicon Valley
+Silicon Valley = hình mẫu để dân tộc khác bắt chước
+```
 
 Đây là American Egypt ở tầng aspiration.
 
@@ -240,106 +356,64 @@ Nó không cần bắt bạn thờ pharaoh.
 Nó chỉ cần khiến bạn mượn hình mẫu của nó mỗi khi tưởng tượng về tương lai của chính mình.
 
 ---
-## Lật Sử Mềm Không Cần Cấm Sách
+## Corpus Check 2016–2025: Đừng Overclaim
 
-Lật sử thô là phá tượng, đốt sách, cấm tên.
+Rà nhanh các đề Ngữ văn chính thức/được báo lớn đăng lại giai đoạn 2016–2025 cho thấy: chưa thấy *Nhật ký trong tù* hoặc tác phẩm Hồ Chí Minh xuất hiện trong các bản đề đã kiểm tra.
 
-Lật sử mềm tinh vi hơn.
+Nhưng đây chỉ nên được xem là preliminary corpus map, không phải edition học thuật cuối cùng. Một số năm cần bản scan/PDF chính thức độ phân giải cao để OCR và trích dẫn theo từng trang.
 
-Nó không cần nói tiền nhân sai.
+Bảng sơ bộ:
 
-Nó chỉ cần khiến tiền nhân vắng mặt dần khỏi những nghi lễ quan trọng.
+| Năm | Ngữ liệu / tác phẩm nổi bật | Pattern |
+|---|---|---|
+| 2016 | “Tiếng Việt” – Lưu Quang Vũ; A. L. Ghéc-xen; *Vợ nhặt* | Ngôn ngữ, cộng đồng, đời sống |
+| 2017 | *Thiện, Ác và Smartphone* – Đặng Hoàng Giang; *Đất Nước* | Đời sống số, smartphone, đạo đức internet |
+| 2018 | “Đánh thức tiềm lực” – Nguyễn Duy; *Chiếc thuyền ngoài xa* | Tiềm lực đất nước, nhân sinh |
+| 2019 | “Trước biển” – Vũ Quần Phương; *Ai đã đặt tên cho dòng sông?* | Biển, ý chí, không gian quê hương |
+| 2020 | Đọc hiểu về trân trọng cuộc sống; *Đất Nước* | Đời sống, gratitude, đất nước |
+| 2021 | Sống hết mình / cống hiến; *Sóng* | Cảm xúc, cống hiến, tình yêu |
+| 2022 | Ý chí / nghị lực; *Chiếc thuyền ngoài xa* | Nhân sinh, nghịch cảnh |
+| 2023 | Cân bằng cảm xúc / bản lĩnh; *Vợ nhặt* | Tâm lý, đời sống, bản lĩnh |
+| 2024 | Nguyễn Quang Thiều; *Đất Nước* | Aesthetic hóa ký ức |
+| 2025 | Nguyễn Minh Châu; vùng trời Tổ quốc | Affective hóa chiến tranh/Tổ quốc |
 
-Không cần cấm *Nhật ký trong tù*.
+Điều này không chứng minh một đường thẳng “global-tech-market hóa” qua từng năm.
 
-Chỉ cần một thế hệ không còn gặp nó ở nơi quyết định ký ức học đường.
-
-Không cần phủ nhận nhà khoa học Việt Nam.
-
-Chỉ cần khi hỏi về tương lai, đề thi nêu Jobs, Zuckerberg, Musk trước.
-
-Không cần xóa lịch sử.
-
-Chỉ cần thay câu hỏi.
-
-Từ:
-
-```text
-Chúng ta là ai?
-```
-
-sang:
+Evidence hiện tại cho thấy đúng hơn là các điểm nhô:
 
 ```text
-Làm sao để có Steve Jobs Việt Nam?
+2017: smartphone / đạo đức đời sống số
+2024: continuity được aesthetic hóa
+2025: Tổ quốc/chiến tranh được affective hóa
+2026: khát vọng bị American-tech hóa
 ```
 
-Một dân tộc không cần bị bắt quên nguồn cội.
+Nói cách khác, không phải mọi năm đều tech hóa.
 
-Nó chỉ cần không còn được yêu cầu nhớ.
+Nhưng mỗi vài năm, ritual thi cử lại hé một layer mới của hệ điều hành cảm xúc.
 
 ---
-## Ukraine V2: Chỉ Là Warning, Không Phải Kết Luận
+## Research Method: Kiếm Dữ Kiện Kiểu Gì Khi Không Thể Tìm Hết?
 
-Nếu nối sang địa chính trị, cần cẩn thận.
+Không cần gom mọi dữ kiện để bài đứng vững. Nhưng cần gom đúng loại dữ kiện.
 
-Không nên nói: Việt Nam chắc chắn thành Ukraine V2.
+Ưu tiên theo thứ tự:
 
-Nói đúng hơn:
+1. **Ảnh/PDF đề chính thức**: nguồn mạnh nhất. Lưu local, OCR, trích đúng dòng.
+2. **Báo lớn đăng ảnh đề**: Vietnamnet, Tuổi Trẻ, VnExpress, Lao Động, Dân Trí, Đại Biểu Nhân Dân.
+3. **Trang đáp án/giải đề**: dùng để cross-check tác phẩm, nhưng không dùng làm source chính nếu không có ảnh đề.
+4. **Bài phân tích giáo viên**: chỉ dùng để xem reception, không dùng để xác nhận đề.
+5. **Search snippets**: chỉ là lead, không phải evidence.
 
-> Một xã hội quên nguồn cội, nhập khẩu hình mẫu khát vọng, và bị kích hoạt lòng yêu nước bằng cảm xúc thay vì chiến lược, sẽ dễ bị kéo vào proxy narrative hơn khi khủng hoảng địa chính trị nổ ra.
-
-Yêu nước không sai.
-
-Chống ngoại xâm không sai.
-
-Sai là khi yêu nước bị biến thành công tắc cảm xúc, trong khi năng lực tự chủ thật sự không được xây.
-
-Nếu một mặt giáo dục làm nhạt ký ức tiền nhân, mặt khác truyền thông kích hoạt nationalism rời khỏi kỷ luật chiến lược, thì dân tộc có thể bị đẩy vào thế rất nguy hiểm:
+Với thesis kiểu này, không cần chứng minh “tất cả đề đều như vậy”. Chỉ cần chứng minh sequence đủ rõ:
 
 ```text
-cảm thấy mình đang bảo vệ chính nghĩa
-nhưng thực ra đang đứng trong bàn cờ của người khác
+2024: nguồn cội được nói bằng mỹ học/cá tính.
+2025: Tổ quốc được nói bằng cảm xúc quê hương/tình bạn.
+2026: tương lai được nói bằng Silicon Valley icons.
 ```
 
-Đây là warning, không phải prophecy.
-
----
-## Corpus Check 2016–2025: Hồ Chí Minh Có Vắng Mặt Không?
-
-Sau khi rà lại các đề Ngữ văn chính thức/được báo lớn đăng lại giai đoạn 2016–2025, pattern sơ bộ như sau. Lưu ý: đây là **preliminary corpus map**, dựa trên báo lớn/ảnh đề/nguồn lưu trữ công khai; vài năm cần gom PDF/ảnh đề độ phân giải cao để chốt từng dòng xuất xứ như một edition phê bình.
-
-| Năm | Kỳ thi | Ngữ liệu đọc hiểu / nguồn | Nghị luận văn học | Hồ Chí Minh / Nhật ký trong tù? | Tech / global / market? |
-|---|---|---|---|---|---|
-| 2016 | THPT quốc gia | “Tiếng Việt” – Lưu Quang Vũ; đoạn theo A. L. Ghéc-xen, SGK Ngữ văn 11 | *Vợ nhặt* – Kim Lân | Không thấy | Không |
-| 2017 | THPT quốc gia | *Thiện, Ác và Smartphone* – Đặng Hoàng Giang, NXB Hội Nhà văn 2017 | *Đất Nước* – Nguyễn Khoa Điềm | Không thấy | Có: smartphone, đời sống số, thấu cảm thời internet |
-| 2018 | THPT quốc gia | “Đánh thức tiềm lực” – Nguyễn Duy | *Chiếc thuyền ngoài xa* – Nguyễn Minh Châu; liên hệ *Hai đứa trẻ* – Thạch Lam | Không thấy | Gián tiếp: phát triển đất nước/tiềm lực, không phải market/tech rõ |
-| 2019 | THPT quốc gia | “Trước biển” – Vũ Quần Phương | *Ai đã đặt tên cho dòng sông?* – Hoàng Phủ Ngọc Tường | Không thấy | Không |
-| 2020 | Tốt nghiệp THPT | Đọc hiểu về trân trọng cuộc sống mỗi ngày | *Đất Nước* – Nguyễn Khoa Điềm | Không thấy | Không |
-| 2021 | Tốt nghiệp THPT | Đọc hiểu về sống hết mình / cống hiến | *Sóng* – Xuân Quỳnh | Không thấy | Không |
-| 2022 | Tốt nghiệp THPT | Đọc hiểu về ý chí / nghị lực | *Chiếc thuyền ngoài xa* – Nguyễn Minh Châu | Không thấy | Không |
-| 2023 | Tốt nghiệp THPT | Đọc hiểu về cân bằng cảm xúc / bản lĩnh sống | *Vợ nhặt* – Kim Lân | Không thấy | Không |
-| 2024 | Tốt nghiệp THPT | “Dòng sông và những thế hệ của nước” – Nguyễn Quang Thiều | *Đất Nước* – Nguyễn Khoa Điềm | Không thấy | Không; thiên về thế hệ, nguồn cội |
-| 2025 | Tốt nghiệp THPT, CT GDPT 2018 | “Những vùng trời khác nhau” – Nguyễn Minh Châu | Cấu trúc mới, viết về văn bản/nhân vật trong cùng ngữ liệu | Không thấy | Không; chiến tranh, quê hương, Tổ quốc |
-
-Nguồn rà nhanh gồm Vietnamnet, VnExpress, Tuổi Trẻ, Lao Động, Đại Biểu Nhân Dân và các trang đăng ảnh/toàn văn đề. Một số năm nguồn đọc hiểu chưa có ảnh độ phân giải đủ để chốt từng dòng xuất xứ, nên bảng này nên đọc là **corpus check sơ bộ có nguồn báo**, chưa phải edition phê bình cuối cùng.
-
-Nhưng với câu hỏi chính, kết luận đủ dùng ở mức corpus sơ bộ:
-
-```text
-Trong các bản đề/ảnh đề/bài báo lớn đã rà 2016–2025, chưa thấy Nhật ký trong tù hoặc tác phẩm Hồ Chí Minh xuất hiện trong đề chính thức môn Ngữ văn.
-```
-
-Điểm đáng chú ý hơn: không phải đề nào cũng “toàn cầu hóa/công nghệ hóa”. Giai đoạn 2016–2025 vẫn chủ yếu xoay quanh đời sống, bản lĩnh, đất nước, văn học Việt Nam hiện đại. Case tech rõ nhất trước 2026 là **2017 – Thiện, Ác và Smartphone**. 2026 vì vậy không phải sự xuất hiện đầu tiên của ngữ liệu đương đại/công nghệ, nhưng là một bước mạnh hơn vì nó nối trực tiếp:
-
-```text
-text công nghệ / platform discourse
-→ Spiderum publishing ecosystem
-→ Silicon Valley icons
-→ câu hỏi “Steve Jobs Việt Nam”
-```
-
-Nói chính xác hơn: không phải “đề gần đây tăng đều global-tech-market”. Evidence hiện có cho thấy **các điểm nhô**: 2017 smartphone, 2026 Code và Cát / AI / Silicon Valley. Pattern không phải đường thẳng tăng tuyến tính, mà là những lần ngữ liệu tech-aspiration được đưa vào ritual thi cử.
+Sau đó giữ các phần chưa đủ nguồn ở research lead.
 
 ---
 ## Research Leads / Chưa Đưa Thành Claim
@@ -347,10 +421,11 @@ Nói chính xác hơn: không phải “đề gần đây tăng đều global-te
 Các hướng cần kiểm chứng thêm:
 
 ```text
-Huskywannafly / Phan Tuấn có network cụ thể nào với các nhóm startup, khai phóng, Fulbright, Mr Pips hay không?
-Spiderum có overlap nhân sự / funding / truyền thông / event với các hệ sinh thái này không?
-Quy trình chọn ngữ liệu đề thi của Bộ GD&ĐT vận hành ra sao?
 Gom bản scan/PDF chính thức 2016–2026 để làm corpus edition sạch hơn, OCR từng đề và lưu citation theo từng trang.
+Kiểm tra quy trình chọn ngữ liệu đề thi của Bộ GD&ĐT.
+Rà các tác giả/ngữ liệu đề thi theo hệ sinh thái xuất bản: NXB, tạp chí, platform, nhóm biên soạn.
+Kiểm tra Huskywannafly / Phan Tuấn có network cụ thể nào với startup, khai phóng, Fulbright, Mr Pips hay không.
+Kiểm tra Spiderum có overlap nhân sự / funding / truyền thông / event với các hệ sinh thái này không.
 ```
 
 Cho tới khi có nguồn, các điểm này là research leads. Không dùng như kết luận public.
@@ -358,34 +433,42 @@ Cho tới khi có nguồn, các điểm này là research leads. Không dùng nh
 ---
 ## Synthesis
 
-Đề Văn 2026 có thể được đọc như một artifact nhỏ của một dịch chuyển lớn hơn.
+Đề Văn không chỉ hỏi học sinh đọc hiểu.
 
-Không phải vì một cuốn sách Spiderum tự nó nguy hiểm.
+Nó cho học sinh biết thời đại này muốn các em cảm gì, nhớ gì, ngưỡng mộ ai.
 
-Không phải vì học sinh không nên biết về công nghệ.
+Nếu 2024 làm quá khứ trở thành dòng sông đẹp, 2025 làm Tổ quốc trở thành bầu trời cảm xúc, thì 2026 làm tương lai trở thành câu hỏi: làm sao để có Steve Jobs Việt Nam?
 
-Mà vì đề thi quốc gia là nơi hệ thống chọn ký ức nào được truyền tiếp và hình mẫu nào được đặt trước mặt thế hệ trẻ.
+Đây là một sequence rất mềm.
 
-Khi ngữ liệu từ tech-platform discourse bước vào đề Văn, và câu hỏi tương lai được đóng khung bằng Jobs, Zuckerberg, Musk, ta đang thấy một aspiration grammar mới.
+Không có cú đập bàn.
 
-Nó hiện đại.
+Không có lệnh cấm.
 
-Nó hấp dẫn.
+Không có lời tuyên bố rằng lịch sử cũ phải bị bỏ đi.
 
-Nó có vẻ khai phóng.
+Chỉ có sự thay đổi dần dần trong ngôn ngữ:
 
-Nhưng nó cũng đặt một câu hỏi khó chịu:
+```text
+lịch sử → cảm xúc
+Tổ quốc → trải nghiệm
+cộng đồng → cá tính
+bổn phận → diễn giải
+khát vọng dân tộc → founder mythology
+```
 
-> Nếu tương lai Việt Nam chỉ có thể được tưởng tượng bằng biểu tượng Mỹ, thì ai đang viết giấc mơ cho thế hệ sau?
+Một dân tộc không cần bị bắt quên nguồn cội.
+
+Nó chỉ cần được dạy cảm về nguồn cội như một chất liệu đẹp, mềm, phi xung đột.
+
+Rồi khi tưởng tượng về tương lai, nó mượn thần tượng của empire.
 
 American Egypt không cần chinh phục bạn bằng quân đội.
 
-Nó chỉ cần khiến bạn mượn thần tượng của nó, ngôn ngữ của nó, thước đo thành công của nó, mỗi khi bạn tưởng tượng về chính mình.
+Nó chỉ cần khiến bạn mượn ngôn ngữ của nó, hình mẫu của nó, thước đo thành công của nó, mỗi khi bạn tưởng tượng về chính mình.
 
-Đề Văn không chỉ hỏi học sinh đọc hiểu.
+Và nếu ta không còn chú ý đến những nghi lễ nhỏ như đề thi, một ngày nào đó, giới trẻ sẽ không cần bị bắt quên lịch sử.
 
-Nó cho học sinh biết thời đại này muốn các em ngưỡng mộ ai.
+Các em vẫn nhớ.
 
-Và nếu ta không còn chú ý đến điều đó, một ngày nào đó, giới trẻ sẽ không cần bị bắt quên nguồn cội.
-
-Các em chỉ đơn giản là chưa từng được yêu cầu nhớ.
+Nhưng chỉ nhớ như một cảm xúc đẹp.

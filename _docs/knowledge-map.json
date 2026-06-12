@@ -12079,6 +12079,7 @@
         "aliases": [
           "American Tech Aspiration Trong Giao Duc Viet Nam",
           "Code Va Cat Trong De Van",
+          "De Van 2024 2025 2026 Lam Mem Ky Uc",
           "De Van 2026 Va Nghi Le Thay Ky Uc",
           "Spiderum De Thi THPT",
           "Steve Jobs Viet Nam"
@@ -12086,14 +12087,13 @@
         "headings": [
           "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức",
           "Evidence Discipline / Cách Đọc Claim",
-          "Fact Layer: Cái Gì Đã Verify Được?",
-          "Đề Thi Là Ritual Memory Selection",
-          "Từ Tiền Nhân Sang Founder Mỹ",
-          "Spiderum Không Phải Vấn Đề Cá Nhân",
-          "American Egypt: Khi Empire Xuất Khẩu Hình Mẫu",
-          "Lật Sử Mềm Không Cần Cấm Sách",
-          "Ukraine V2: Chỉ Là Warning, Không Phải Kết Luận",
-          "Corpus Check 2016–2025: Hồ Chí Minh Có Vắng Mặt Không?",
+          "2024: Ký Ức Được Mỹ Học Hóa",
+          "2025: Chiến Tranh Và Tổ Quốc Được Cảm Xúc Hóa",
+          "2026: Khát Vọng Quốc Gia Được American-Tech Hóa",
+          "Chuỗi 2024–2026: Không Xóa, Mà Đổi Hệ Điều Hành Cảm Xúc",
+          "American Egypt: Empire Không Cần Bạn Thờ Pharaoh",
+          "Corpus Check 2016–2025: Đừng Overclaim",
+          "Research Method: Kiếm Dữ Kiện Kiểu Gì Khi Không Thể Tìm Hết?",
           "Research Leads / Chưa Đưa Thành Claim",
           "Synthesis"
         ],
@@ -12108,7 +12108,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 2783,
+        "words": 2975,
         "summary": "Một quốc gia không cần xóa lịch sử."
       }
     ],
@@ -32298,6 +32298,7 @@
       "aliases": [
         "American Tech Aspiration Trong Giao Duc Viet Nam",
         "Code Va Cat Trong De Van",
+        "De Van 2024 2025 2026 Lam Mem Ky Uc",
         "De Van 2026 Va Nghi Le Thay Ky Uc",
         "Spiderum De Thi THPT",
         "Steve Jobs Viet Nam"
@@ -32305,14 +32306,13 @@
       "headings": [
         "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức",
         "Evidence Discipline / Cách Đọc Claim",
-        "Fact Layer: Cái Gì Đã Verify Được?",
-        "Đề Thi Là Ritual Memory Selection",
-        "Từ Tiền Nhân Sang Founder Mỹ",
-        "Spiderum Không Phải Vấn Đề Cá Nhân",
-        "American Egypt: Khi Empire Xuất Khẩu Hình Mẫu",
-        "Lật Sử Mềm Không Cần Cấm Sách",
-        "Ukraine V2: Chỉ Là Warning, Không Phải Kết Luận",
-        "Corpus Check 2016–2025: Hồ Chí Minh Có Vắng Mặt Không?",
+        "2024: Ký Ức Được Mỹ Học Hóa",
+        "2025: Chiến Tranh Và Tổ Quốc Được Cảm Xúc Hóa",
+        "2026: Khát Vọng Quốc Gia Được American-Tech Hóa",
+        "Chuỗi 2024–2026: Không Xóa, Mà Đổi Hệ Điều Hành Cảm Xúc",
+        "American Egypt: Empire Không Cần Bạn Thờ Pharaoh",
+        "Corpus Check 2016–2025: Đừng Overclaim",
+        "Research Method: Kiếm Dữ Kiện Kiểu Gì Khi Không Thể Tìm Hết?",
         "Research Leads / Chưa Đưa Thành Claim",
         "Synthesis"
       ],
@@ -32327,7 +32327,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 2783,
+      "words": 2975,
       "summary": "Một quốc gia không cần xóa lịch sử."
     },
     "science-tech/AI.md": {
