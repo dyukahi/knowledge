@@ -307,7 +307,7 @@ nhưng thực ra đang đứng trong bàn cờ của người khác
 ---
 ## Corpus Check 2016–2025: Hồ Chí Minh Có Vắng Mặt Không?
 
-Sau khi rà lại các đề Ngữ văn chính thức/được báo lớn đăng lại giai đoạn 2016–2025, pattern sơ bộ như sau.
+Sau khi rà lại các đề Ngữ văn chính thức/được báo lớn đăng lại giai đoạn 2016–2025, pattern sơ bộ như sau. Lưu ý: đây là **preliminary corpus map**, dựa trên báo lớn/ảnh đề/nguồn lưu trữ công khai; vài năm cần gom PDF/ảnh đề độ phân giải cao để chốt từng dòng xuất xứ như một edition phê bình.
 
 | Năm | Kỳ thi | Ngữ liệu đọc hiểu / nguồn | Nghị luận văn học | Hồ Chí Minh / Nhật ký trong tù? | Tech / global / market? |
 |---|---|---|---|---|---|
@@ -324,10 +324,10 @@ Sau khi rà lại các đề Ngữ văn chính thức/được báo lớn đăng
 
 Nguồn rà nhanh gồm Vietnamnet, VnExpress, Tuổi Trẻ, Lao Động, Đại Biểu Nhân Dân và các trang đăng ảnh/toàn văn đề. Một số năm nguồn đọc hiểu chưa có ảnh độ phân giải đủ để chốt từng dòng xuất xứ, nên bảng này nên đọc là **corpus check sơ bộ có nguồn báo**, chưa phải edition phê bình cuối cùng.
 
-Nhưng với câu hỏi chính, kết luận đủ dùng:
+Nhưng với câu hỏi chính, kết luận đủ dùng ở mức corpus sơ bộ:
 
 ```text
-2016–2025: chưa thấy Nhật ký trong tù hoặc tác phẩm Hồ Chí Minh xuất hiện trong đề chính thức môn Ngữ văn.
+Trong các bản đề/ảnh đề/bài báo lớn đã rà 2016–2025, chưa thấy Nhật ký trong tù hoặc tác phẩm Hồ Chí Minh xuất hiện trong đề chính thức môn Ngữ văn.
 ```
 
 Điểm đáng chú ý hơn: không phải đề nào cũng “toàn cầu hóa/công nghệ hóa”. Giai đoạn 2016–2025 vẫn chủ yếu xoay quanh đời sống, bản lĩnh, đất nước, văn học Việt Nam hiện đại. Case tech rõ nhất trước 2026 là **2017 – Thiện, Ác và Smartphone**. 2026 vì vậy không phải sự xuất hiện đầu tiên của ngữ liệu đương đại/công nghệ, nhưng là một bước mạnh hơn vì nó nối trực tiếp:
@@ -350,7 +350,7 @@ Các hướng cần kiểm chứng thêm:
 Huskywannafly / Phan Tuấn có network cụ thể nào với các nhóm startup, khai phóng, Fulbright, Mr Pips hay không?
 Spiderum có overlap nhân sự / funding / truyền thông / event với các hệ sinh thái này không?
 Quy trình chọn ngữ liệu đề thi của Bộ GD&ĐT vận hành ra sao?
-Có thể gom bản scan/PDF chính thức 2016–2026 để làm corpus edition sạch hơn không?
+Gom bản scan/PDF chính thức 2016–2026 để làm corpus edition sạch hơn, OCR từng đề và lưu citation theo từng trang.
 ```
 
 Cho tới khi có nguồn, các điểm này là research leads. Không dùng như kết luận public.
