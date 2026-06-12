@@ -1,19 +1,19 @@
 {
   "stats": {
-    "notes": 206,
+    "notes": 208,
     "domains": {
       "_docs": 7,
       "root": 14,
       "crypto-finance": 13,
       "esoterica": 74,
       "health": 27,
-      "mental-models": 28,
-      "politics-conspiracy": 26,
+      "mental-models": 29,
+      "politics-conspiracy": 27,
       "science-tech": 17
     },
-    "tags": 183,
-    "wikilinkEdges": 2071,
-    "brokenLinks": 0,
+    "tags": 193,
+    "wikilinkEdges": 2078,
+    "brokenLinks": 5,
     "orphans": 9
   },
   "domains": {
@@ -1240,6 +1240,7 @@
           "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
           "index.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Chia Tách Bởi Nhị Nguyên.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/index.md",
@@ -2348,6 +2349,7 @@
           "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
           "esoterica/Tà Linh.md",
           "index.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
           "MOC - Esoterica & Consciousness.md",
@@ -3272,6 +3274,205 @@
         "summary": "Năm 1859, Charles Darwin xuất bản \"On the Origin of Species\" và thay đổi vĩnh viễn cách nhân loại nhìn nhận bản thân. Từ đó, chúng ta được dạy rằng con người là sản phẩm của hàng triệu năm tiến hóa ngẫu nhiên, từ vi khuẩn đơn bào leo lên thành vượn, rồi từ vư…"
       },
       {
+        "path": "esoterica/Nhân Quả.md",
+        "title": "Nhân Quả",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Karma",
+          "Law of Cause and Effect"
+        ],
+        "headings": [
+          "Nhân Quả (Karma)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Thân, Khẩu, Ý",
+          "Karma Không Phải Định Mệnh Cứng",
+          "Karma Và Luân Hồi",
+          "Karma Bị Corrupt Như Thế Nào?",
+          "Chuyển Hóa Karma",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Luân Hồi",
+          "Monad",
+          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+          "Tâm Lý Học Jung"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Monad.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "mental-models/Tâm Lý Học Jung.md"
+        ],
+        "backlinks": [
+          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+          "esoterica/index.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "esoterica/Tứ Linh.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "index.md",
+          "mental-models/Tâm bất Biến.md",
+          "MOC - Esoterica & Consciousness.md"
+        ],
+        "words": 721,
+        "summary": "**Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo ra nó.** Đọc nông, karma thành công cụ dọa dân. Đọc sâu, karma là cơ chế học của linh h…"
+      },
+      {
+        "path": "esoterica/S.E.X.md",
+        "title": "S.E.X (Sacred Energy eXchange)",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Sacred Energy eXchange",
+          "Trao Đổi Năng Lượng Thiêng Liêng"
+        ],
+        "headings": [
+          "S.E.X (Sacred Energy eXchange)",
+          "Vault Position",
+          "Evidence Discipline / Cách Đọc",
+          "Sex Là Trao Đổi",
+          "Tinh Khí Thần",
+          "Porn Và Ma Trận Dục Vọng",
+          "Microchimerism Và Dấu Vết Thân Thể",
+          "Chimera Và Sự Pha Trộn",
+          "Sacred Exchange",
+          "Alchemy Của Union",
+          "Chốt Lại",
+          "Related / Liên quan"
+        ],
+        "wikilinks": [
+          "Chimera",
+          "Nhị Nguyên",
+          "Năng Lượng Tình Dục",
+          "Quy Luật Trao Đổi Tâm Linh",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tinh Khí Thần",
+          "Tâm Lý Học Jung",
+          "Tình Yêu Tỉnh Thức"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Chimera.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Tinh Khí Thần.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Chimera.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Tinh Khí Thần.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "index.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "words": 1261,
+        "summary": "**S.E.X** trong cách đọc esoteric là **Sacred Energy eXchange**: trao đổi năng lượng thiêng liêng. Điều này không phủ định sinh học, khoái cảm hay tâm lý. Nó đặt tình dục vào đúng độ sâu: một hành động nơi thân thể, hệ thần kinh, ký ức, hormone, vô thức, nghi…"
+      },
+      {
+        "path": "esoterica/Gematria.md",
+        "title": "Gematria — Ngôn Ngữ Bí Mật Của Số",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "mind-control"
+        ],
+        "aliases": [],
+        "headings": [
+          "Gematria — Ngôn Ngữ Bí Mật Của Số",
+          "I. Nguồn Gốc — Khi Chữ Cái Là Số",
+          "Pythagoras và Miletus",
+          "Hebrew và Kabbalah",
+          "Gematria Cổ Hơn English",
+          "II. Các Hệ Thống — Nhiều Chiều, Một Ngôn Ngữ",
+          "Simple/Ordinal Gematria",
+          "Reverse Ordinal",
+          "Full Reduction",
+          "English Extended",
+          "III. Ngôn Ngữ Của Elite — Đánh Dấu Trong Bóng Tối",
+          "Tại Sao Elite Dùng Gematria?",
+          "9/11 — Case Study",
+          "Pattern Trong Tin Tức",
+          "IV. Thương Hiệu và Sigils — Gematria Trong Cuộc Sống Hằng Ngày",
+          "Google",
+          "Amazon",
+          "Apple",
+          "V. Decode Bạn — Tên Của Bạn Là Gì?",
+          "Cách tính",
+          "Ý nghĩa các con số gốc",
+          "VI. Cảnh Báo — Con Dao Hai Lưỡi",
+          "Pattern Recognition Bias",
+          "Confirmation Bias",
+          "Healthy Approach",
+          "VII. Kết — Bạn Có Muốn Thấy Không?",
+          "Liên Kết / Connections",
+          "Tài Liệu Tham Khảo / References"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Ma Trận",
+          "Manly P. Hall",
+          "Saturn Cube",
+          "Sự Thật Về Vụ Sập Tháp Đôi WTC",
+          "Word Magic - Ngôn Ngữ Của Phù Thủy"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Manly P. Hall.md",
+          "esoterica/Saturn Cube.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md"
+        ],
+        "backlinks": [
+          "esoterica/Biểu Tượng Baphomet.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Cabal.md",
+          "esoterica/index.md",
+          "esoterica/Manly P. Hall.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Saturn Cube.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "index.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/MAGA Và Số 42.md"
+        ],
+        "words": 2352,
+        "summary": "**\"Vũ trụ được viết bằng ngôn ngữ toán học.\"**"
+      },
+      {
         "path": "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "title": "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
         "domain": "esoterica",
@@ -3365,211 +3566,12 @@
           "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
           "esoterica/index.md",
           "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "index.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "MOC - Ancient Civilizations & Hidden History.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
         "words": 2444,
         "summary": "Lịch sử không phải những đường thẳng riêng lẻ mà là một tấm thảm đan xen — khi Việt Nam đang làm gì thì thế giới cũng đang chuyển động. Bài này đặt câu hỏi: **Tại sao những \"trùng hợp\" này lại xảy ra?**"
-      },
-      {
-        "path": "esoterica/Nhân Quả.md",
-        "title": "Nhân Quả",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Karma",
-          "Law of Cause and Effect"
-        ],
-        "headings": [
-          "Nhân Quả (Karma)",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Thân, Khẩu, Ý",
-          "Karma Không Phải Định Mệnh Cứng",
-          "Karma Và Luân Hồi",
-          "Karma Bị Corrupt Như Thế Nào?",
-          "Chuyển Hóa Karma",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Luân Hồi",
-          "Monad",
-          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
-          "Tâm Lý Học Jung"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Monad.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "mental-models/Tâm Lý Học Jung.md"
-        ],
-        "backlinks": [
-          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-          "esoterica/index.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "esoterica/Tứ Linh.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "index.md",
-          "mental-models/Tâm bất Biến.md",
-          "MOC - Esoterica & Consciousness.md"
-        ],
-        "words": 721,
-        "summary": "**Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo ra nó.** Đọc nông, karma thành công cụ dọa dân. Đọc sâu, karma là cơ chế học của linh h…"
-      },
-      {
-        "path": "esoterica/Gematria.md",
-        "title": "Gematria — Ngôn Ngữ Bí Mật Của Số",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "mind-control"
-        ],
-        "aliases": [],
-        "headings": [
-          "Gematria — Ngôn Ngữ Bí Mật Của Số",
-          "I. Nguồn Gốc — Khi Chữ Cái Là Số",
-          "Pythagoras và Miletus",
-          "Hebrew và Kabbalah",
-          "Gematria Cổ Hơn English",
-          "II. Các Hệ Thống — Nhiều Chiều, Một Ngôn Ngữ",
-          "Simple/Ordinal Gematria",
-          "Reverse Ordinal",
-          "Full Reduction",
-          "English Extended",
-          "III. Ngôn Ngữ Của Elite — Đánh Dấu Trong Bóng Tối",
-          "Tại Sao Elite Dùng Gematria?",
-          "9/11 — Case Study",
-          "Pattern Trong Tin Tức",
-          "IV. Thương Hiệu và Sigils — Gematria Trong Cuộc Sống Hằng Ngày",
-          "Google",
-          "Amazon",
-          "Apple",
-          "V. Decode Bạn — Tên Của Bạn Là Gì?",
-          "Cách tính",
-          "Ý nghĩa các con số gốc",
-          "VI. Cảnh Báo — Con Dao Hai Lưỡi",
-          "Pattern Recognition Bias",
-          "Confirmation Bias",
-          "Healthy Approach",
-          "VII. Kết — Bạn Có Muốn Thấy Không?",
-          "Liên Kết / Connections",
-          "Tài Liệu Tham Khảo / References"
-        ],
-        "wikilinks": [
-          "Elite",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Ma Trận",
-          "Manly P. Hall",
-          "Saturn Cube",
-          "Sự Thật Về Vụ Sập Tháp Đôi WTC",
-          "Word Magic - Ngôn Ngữ Của Phù Thủy"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Manly P. Hall.md",
-          "esoterica/Saturn Cube.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md"
-        ],
-        "backlinks": [
-          "esoterica/Biểu Tượng Baphomet.md",
-          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-          "esoterica/Cabal.md",
-          "esoterica/index.md",
-          "esoterica/Manly P. Hall.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Saturn Cube.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "index.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/MAGA Và Số 42.md"
-        ],
-        "words": 2352,
-        "summary": "**\"Vũ trụ được viết bằng ngôn ngữ toán học.\"**"
-      },
-      {
-        "path": "esoterica/S.E.X.md",
-        "title": "S.E.X (Sacred Energy eXchange)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Sacred Energy eXchange",
-          "Trao Đổi Năng Lượng Thiêng Liêng"
-        ],
-        "headings": [
-          "S.E.X (Sacred Energy eXchange)",
-          "Vault Position",
-          "Evidence Discipline / Cách Đọc",
-          "Sex Là Trao Đổi",
-          "Tinh Khí Thần",
-          "Porn Và Ma Trận Dục Vọng",
-          "Microchimerism Và Dấu Vết Thân Thể",
-          "Chimera Và Sự Pha Trộn",
-          "Sacred Exchange",
-          "Alchemy Của Union",
-          "Chốt Lại",
-          "Related / Liên quan"
-        ],
-        "wikilinks": [
-          "Chimera",
-          "Nhị Nguyên",
-          "Năng Lượng Tình Dục",
-          "Quy Luật Trao Đổi Tâm Linh",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tinh Khí Thần",
-          "Tâm Lý Học Jung",
-          "Tình Yêu Tỉnh Thức"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Chimera.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Tinh Khí Thần.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Chakra.md",
-          "esoterica/Chimera.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Tinh Khí Thần.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "index.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 1261,
-        "summary": "**S.E.X** trong cách đọc esoteric là **Sacred Energy eXchange**: trao đổi năng lượng thiêng liêng. Điều này không phủ định sinh học, khoái cảm hay tâm lý. Nó đặt tình dục vào đúng độ sâu: một hành động nơi thân thể, hệ thần kinh, ký ức, hormone, vô thức, nghi…"
       },
       {
         "path": "esoterica/Một Đời Phù Vân.md",
@@ -3963,66 +3965,6 @@
         "summary": "**Tình Yêu Tỉnh Thức** không phải cảm xúc lãng mạn được làm đẹp bằng ngôn ngữ tâm linh. Nó là năng lực yêu mà không chiếm hữu, thấy rõ mà không lạnh lùng, bao dung mà không tự phản bội. Trong vault này, tình yêu tỉnh thức nối Nhân Quả, Nhị Nguyên, Trí Tuệ, In…"
       },
       {
-        "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-        "title": "Walter Russell",
-        "domain": "esoterica",
-        "tags": [
-          "science-tech"
-        ],
-        "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
-        ],
-        "headings": [
-          "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
-          "Evidence Discipline / Cách Đọc",
-          "Tại Sao Điều Này Quan Trọng?",
-          "Hindu Yugas - Bốn Thời Đại Suy Thoái",
-          "Buddhist Kalpas - Kiếp Và Sự Vô Tận",
-          "Điểm Chung Giữa Hai Truyền Thống",
-          "Giants và Kiến Trúc - Bằng Chứng Vật Lý",
-          "Connections - Atlantis, Resets, và Loosh",
-          "Tương Lai - Chúng Ta Đang Ở Đâu?",
-          "Bài Học Từ Chu Kỳ",
-          "Related"
-        ],
-        "wikilinks": [
-          "Annunaki",
-          "Atlantis",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
-          "Mudflood",
-          "Tartaria",
-          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
-          "Vũ Trụ Học Phật Giáo",
-          "Vận Chín"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Annunaki.md",
-          "esoterica/Atlantis.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "esoterica/Vận Chín.md",
-          "politics-conspiracy/Mudflood.md"
-        ],
-        "backlinks": [
-          "esoterica/Chu Kỳ Hoàng Đạo.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "words": 4453,
-        "summary": "Khoa học hiện đại dạy rằng lịch sử là một đường thẳng tiến lên: từ vi khuẩn đến cá, từ cá đến vượn, từ vượn đến người, từ hang động đến smartphone. Mỗi thế hệ \"tiến bộ\" hơn thế hệ trước. Chúng ta đang ở đỉnh cao của văn minh."
-      },
-      {
         "path": "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "title": "Word Magic - Ngôn Ngữ Của Phù Thủy",
         "domain": "esoterica",
@@ -4273,6 +4215,65 @@
         ],
         "words": 888,
         "summary": "**Tà Linh là ngôn ngữ biểu tượng để nói về những lực ký sinh trên attention, cảm xúc và sinh lực của con người. Đọc thấp thì đó là trauma loop, nghiện, thought-form và môi trường độc. Đọc cao thì đó là Archon, Wetiko, thực thể trung giới và cơ chế harvest loo…"
+      },
+      {
+        "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "title": "Walter Russell",
+        "domain": "esoterica",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [
+          "Walter Russell (Hiền Triết Hiện Đại)"
+        ],
+        "headings": [
+          "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
+          "Evidence Discipline / Cách Đọc",
+          "Tại Sao Điều Này Quan Trọng?",
+          "Hindu Yugas - Bốn Thời Đại Suy Thoái",
+          "Buddhist Kalpas - Kiếp Và Sự Vô Tận",
+          "Điểm Chung Giữa Hai Truyền Thống",
+          "Giants và Kiến Trúc - Bằng Chứng Vật Lý",
+          "Connections - Atlantis, Resets, và Loosh",
+          "Tương Lai - Chúng Ta Đang Ở Đâu?",
+          "Bài Học Từ Chu Kỳ",
+          "Related"
+        ],
+        "wikilinks": [
+          "Annunaki",
+          "Atlantis",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
+          "Mudflood",
+          "Tartaria",
+          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
+          "Vũ Trụ Học Phật Giáo",
+          "Vận Chín"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Annunaki.md",
+          "esoterica/Atlantis.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "esoterica/Vận Chín.md",
+          "politics-conspiracy/Mudflood.md"
+        ],
+        "backlinks": [
+          "esoterica/Chu Kỳ Hoàng Đạo.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "words": 4453,
+        "summary": "Khoa học hiện đại dạy rằng lịch sử là một đường thẳng tiến lên: từ vi khuẩn đến cá, từ cá đến vượn, từ vượn đến người, từ hang động đến smartphone. Mỗi thế hệ \"tiến bộ\" hơn thế hệ trước. Chúng ta đang ở đỉnh cao của văn minh."
       },
       {
         "path": "esoterica/Chu Kỳ Hoàng Đạo.md",
@@ -4905,6 +4906,7 @@
           "World Cup 26 Là Gì Nếu Không Phải Một Hero Stage?",
           "WE ARE 26 Và Sự Tan Của Một Trung Tâm Duy Nhất",
           "26, 8 Và Back-To-Back Loop",
+          "2002 → 2026: Ba Vòng 8 Và Một Chu Kỳ Brazil Return",
           "TRIONDA: Ba Làn Sóng Và Một Tournament Không Có Một Mũi Nhọn",
           "Gematria Nhẹ: Khi Số Không Chứng Minh, Nhưng Tạo Texture",
           "Brazil Không Cần Neymar Để Là Brazil",
@@ -4945,7 +4947,7 @@
           "index.md",
           "MOC - Epistemology & Propaganda.md"
         ],
-        "words": 5269,
+        "words": 5517,
         "summary": "**Nếu World Cup 2022 là nghi lễ hoàn tất myth cá nhân của Messi, World Cup 2026 có vẻ đang được dựng như một nghi lễ tập thể: ba quốc gia, bốn mươi tám đội, ba làn sóng, nhiều thành phố, nhiều poster, nhiều concert, nhiều creator và một field truyền thông phâ…"
       },
       {
@@ -6280,6 +6282,42 @@
         "summary": "**Sir Isaac Newton** (1642-1727) — \"cha đẻ của vật lý hiện đại\" — thực chất dành phần lớn cuộc đời cho Huyền học (Occult) và Thuật Giả Kim (Alchemy), không phải khoa học duy vật."
       },
       {
+        "path": "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
+        "title": "Theo Dấu Tartaria - Tác Giả Kan",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [],
+        "headings": [
+          "Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan",
+          "1. Tại Sao Rome Điêu Tàn? – Bí Ẩn Về Giovanni Battista Piranesi",
+          "2. Giải Ảo (Disillusion) – Tượng Điêu Khắc \"Il Disinganno\"",
+          "3. Chìm Theo Titanic - Vở Kịch Của Giới Tinh Hoa Wall Street",
+          "4. Đế Chế Tartaria Bị Lãng Quên & Kiến Trúc Vĩ Đại",
+          "5. Tổng Kết Giá Trị Từ \"Tracking Tartaria\"",
+          "Related"
+        ],
+        "wikilinks": [
+          "Năng Lượng Aether",
+          "Tartaria",
+          "Tiền Giấy - Tiền Mặt",
+          "Trí Tuệ"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "esoterica/Tartaria.md",
+          "mental-models/Trí Tuệ.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "backlinks": [
+          "politics-conspiracy/Mudflood.md"
+        ],
+        "words": 1020,
+        "summary": "Chuỗi bài viết **Theo Dấu Tartaria** (Tracking Tartaria) của Thượng sĩ Kan (Kiên Trần) được thực hiện trong khoảng thời gian 2021-2022. Đây là một bộ tài liệu mang tính chất giải ảo lịch sử cực kỳ chi tiết, đưa ra những góc nhìn sắc bén dưới lăng kính của Kho…"
+      },
+      {
         "path": "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
         "title": "Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu?",
         "domain": "esoterica",
@@ -6317,47 +6355,9 @@
           "mental-models/Individuation.md",
           "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md"
         ],
-        "backlinks": [
-          "index.md"
-        ],
+        "backlinks": [],
         "words": 2469,
         "summary": "*What Is the Point of Existence — Or Is the Question Already Wrong?*"
-      },
-      {
-        "path": "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-        "title": "Theo Dấu Tartaria - Tác Giả Kan",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [],
-        "headings": [
-          "Theo Dấu Tartaria (Tracking Tartaria) - Tác Giả: Kan",
-          "1. Tại Sao Rome Điêu Tàn? – Bí Ẩn Về Giovanni Battista Piranesi",
-          "2. Giải Ảo (Disillusion) – Tượng Điêu Khắc \"Il Disinganno\"",
-          "3. Chìm Theo Titanic - Vở Kịch Của Giới Tinh Hoa Wall Street",
-          "4. Đế Chế Tartaria Bị Lãng Quên & Kiến Trúc Vĩ Đại",
-          "5. Tổng Kết Giá Trị Từ \"Tracking Tartaria\"",
-          "Related"
-        ],
-        "wikilinks": [
-          "Năng Lượng Aether",
-          "Tartaria",
-          "Tiền Giấy - Tiền Mặt",
-          "Trí Tuệ"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-          "esoterica/Tartaria.md",
-          "mental-models/Trí Tuệ.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "backlinks": [
-          "politics-conspiracy/Mudflood.md"
-        ],
-        "words": 1020,
-        "summary": "Chuỗi bài viết **Theo Dấu Tartaria** (Tracking Tartaria) của Thượng sĩ Kan (Kiên Trần) được thực hiện trong khoảng thời gian 2021-2022. Đây là một bộ tài liệu mang tính chất giải ảo lịch sử cực kỳ chi tiết, đưa ra những góc nhìn sắc bén dưới lăng kính của Kho…"
       }
     ],
     "health": [
@@ -8118,6 +8118,7 @@
           "health/Prolonged Fasting.md",
           "index.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/index.md",
           "mental-models/Mental Model.md",
           "mental-models/Nguyên Mẫu.md",
@@ -8170,6 +8171,7 @@
           "AI",
           "Ai Đứng Bên Kia Giao Dịch",
           "Bộ Não Rỗng và AI Brain Rot",
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
           "Chia Tách Bởi Nhị Nguyên",
           "Climate Anxiety as Control - Fear-Based Compliance",
           "crypto-finance/index",
@@ -8219,6 +8221,7 @@
           "index.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Chia Tách Bởi Nhị Nguyên.md",
           "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -8258,7 +8261,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1017,
+        "words": 1039,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -8480,6 +8483,7 @@
           "health/Tuyến Tùng.md",
           "index.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/index.md",
           "mental-models/Individuation.md",
           "mental-models/Nguyên Mẫu.md",
@@ -8701,72 +8705,6 @@
         "summary": "Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about mal…"
       },
       {
-        "path": "mental-models/Trí Tuệ.md",
-        "title": "Trí Tuệ",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model",
-          "philosophy"
-        ],
-        "aliases": [
-          "Prajñā",
-          "Sophia",
-          "Wisdom"
-        ],
-        "headings": [
-          "Trí Tuệ (Wisdom / Prajñā)",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Cách Đọc",
-          "Trí Tuệ Khác Gì Thông Minh?",
-          "Wisdom Cần Thời Gian, Nhưng Không Chỉ Là Tuổi",
-          "Kẻ Thù Của Trí Tuệ",
-          "Trí Tuệ Trong Ma Trận",
-          "Gnosis Và Trí Tuệ Thân Xác",
-          "Thực Hành Trí Tuệ",
-          "Chốt Lại / Core Insight"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Ma Trận",
-          "Nghịch Lý Của Hiểu Biết",
-          "Thông Minh",
-          "Thông Minh vs Trí Tuệ",
-          "Tâm bất Biến"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Tâm bất Biến.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-          "esoterica/Atula.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "index.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Tâm bất Biến.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
-        ],
-        "words": 1107,
-        "summary": "**Trí tuệ là khả năng nhìn đúng bản chất, chọn đúng game, hành động đúng tỷ lệ và không để kiến thức phục vụ ego.** Nó không chỉ là biết nhiều hơn. Nó là biết cái gì đáng biết, cái gì nên bỏ, khi nào im, khi nào cắt, khi nào chịu mất ngắn hạn để giữ phần sâu…"
-      },
-      {
         "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "domain": "mental-models",
@@ -8835,6 +8773,7 @@
           "health/Công Thức Chữa Lành Tự Nhiên.md",
           "index.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/index.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
           "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
@@ -8846,6 +8785,72 @@
         ],
         "words": 933,
         "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
+      },
+      {
+        "path": "mental-models/Trí Tuệ.md",
+        "title": "Trí Tuệ",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model",
+          "philosophy"
+        ],
+        "aliases": [
+          "Prajñā",
+          "Sophia",
+          "Wisdom"
+        ],
+        "headings": [
+          "Trí Tuệ (Wisdom / Prajñā)",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc",
+          "Trí Tuệ Khác Gì Thông Minh?",
+          "Wisdom Cần Thời Gian, Nhưng Không Chỉ Là Tuổi",
+          "Kẻ Thù Của Trí Tuệ",
+          "Trí Tuệ Trong Ma Trận",
+          "Gnosis Và Trí Tuệ Thân Xác",
+          "Thực Hành Trí Tuệ",
+          "Chốt Lại / Core Insight"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Ma Trận",
+          "Nghịch Lý Của Hiểu Biết",
+          "Thông Minh",
+          "Thông Minh vs Trí Tuệ",
+          "Tâm bất Biến"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Tâm bất Biến.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+          "esoterica/Atula.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "index.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Tâm bất Biến.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
+        ],
+        "words": 1107,
+        "summary": "**Trí tuệ là khả năng nhìn đúng bản chất, chọn đúng game, hành động đúng tỷ lệ và không để kiến thức phục vụ ego.** Nó không chỉ là biết nhiều hơn. Nó là biết cái gì đáng biết, cái gì nên bỏ, khi nào im, khi nào cắt, khi nào chịu mất ngắn hạn để giữ phần sâu…"
       },
       {
         "path": "mental-models/Mô Hình Địa Tâm.md",
@@ -9400,65 +9405,6 @@
         "summary": "Bài viết trình bày một triết lý về sự giàu có trong thế kỷ 21, nơi **privacy** (sự riêng tư) đã trở thành thước đo quyền lực thực sự thay vì phô trương tài sản. Trong thời đại surveillance capitalism, khả năng \"biến mất\" trở thành luxury goods đắt nhất."
       },
       {
-        "path": "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "title": "Sợ hãi - Tham Lam – Cân bằng",
-        "domain": "mental-models",
-        "tags": [
-          "bitcoin",
-          "finance",
-          "mental-model",
-          "psychology"
-        ],
-        "aliases": [
-          "Cân Bằng Cảm Xúc Thị Trường",
-          "Fear and Greed",
-          "Fear Greed Balance"
-        ],
-        "headings": [
-          "Sợ hãi - Tham Lam – Cân bằng",
-          "Vault Position / Vị Trí Trong Bản Đồ",
-          "Fear / Sợ Hãi",
-          "Greed / Tham Lam",
-          "The Crowd Oscillator / Bộ Dao Động Đám Đông",
-          "Matrix Uses Both Poles",
-          "Balance / Cân Bằng",
-          "Tools / Công Cụ Thực Hành",
-          "Kết Luận / Closing",
-          "Decision Filter / Bộ Lọc Quyết Định",
-          "Market Emotion Và Survival Discipline",
-          "Ownership Transfer"
-        ],
-        "wikilinks": [
-          "Ai Đứng Bên Kia Giao Dịch",
-          "Bitcoin",
-          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-          "Kiểm Soát Tâm Trí",
-          "Privacy Is The New Wealth",
-          "Tư Duy Lũy Thừa"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Giàu Không Nhờ May Mắn.md",
-          "crypto-finance/index.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "index.md",
-          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-          "mental-models/index.md",
-          "MOC - Market Psychology & Risk.md"
-        ],
-        "words": 885,
-        "summary": "**Sợ hãi và tham lam là hai cực điều khiển thị trường, chính trị và đời sống cá nhân. Người chưa có trung tâm sẽ mua narrative của đám đông: sợ khi cần quan sát, tham khi cần kỷ luật.**"
-      },
-      {
         "path": "mental-models/Tâm bất Biến.md",
         "title": "Tâm Bất Biến",
         "domain": "mental-models",
@@ -9517,6 +9463,64 @@
         ],
         "words": 1150,
         "summary": "**Tâm Bất Biến không phải là không cảm thấy gì. Nó là khả năng cảm thấy đầy đủ mà không để cơn sóng bên trong cướp tay lái.** Người có tâm bất biến vẫn đau, vẫn thương, vẫn giận, vẫn hành động; khác biệt là họ không để phản ứng đầu tiên trở thành mệnh lệnh cu…"
+      },
+      {
+        "path": "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "title": "Sợ hãi - Tham Lam – Cân bằng",
+        "domain": "mental-models",
+        "tags": [
+          "bitcoin",
+          "finance",
+          "mental-model",
+          "psychology"
+        ],
+        "aliases": [
+          "Cân Bằng Cảm Xúc Thị Trường",
+          "Fear and Greed",
+          "Fear Greed Balance"
+        ],
+        "headings": [
+          "Sợ hãi - Tham Lam – Cân bằng",
+          "Vault Position / Vị Trí Trong Bản Đồ",
+          "Fear / Sợ Hãi",
+          "Greed / Tham Lam",
+          "The Crowd Oscillator / Bộ Dao Động Đám Đông",
+          "Matrix Uses Both Poles",
+          "Balance / Cân Bằng",
+          "Tools / Công Cụ Thực Hành",
+          "Kết Luận / Closing",
+          "Decision Filter / Bộ Lọc Quyết Định",
+          "Market Emotion Và Survival Discipline",
+          "Ownership Transfer"
+        ],
+        "wikilinks": [
+          "Ai Đứng Bên Kia Giao Dịch",
+          "Bitcoin",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Kiểm Soát Tâm Trí",
+          "Privacy Is The New Wealth",
+          "Tư Duy Lũy Thừa"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/index.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/index.md",
+          "MOC - Market Psychology & Risk.md"
+        ],
+        "words": 885,
+        "summary": "**Sợ hãi và tham lam là hai cực điều khiển thị trường, chính trị và đời sống cá nhân. Người chưa có trung tâm sẽ mua narrative của đám đông: sợ khi cần quan sát, tham khi cần kỷ luật.**"
       },
       {
         "path": "mental-models/Chia Tách Bởi Nhị Nguyên.md",
@@ -9694,6 +9698,71 @@
         ],
         "words": 714,
         "summary": "**Thông minh là năng lực xử lý thông tin, nhận pattern, tính toán, học nhanh và giải quyết vấn đề trong một rule-set.** Nó rất mạnh, nhưng không tự trả lời được câu hỏi rule-set đó có đáng chơi không. Vì vậy redpill.wiki luôn đặt Thông Minh cạnh Trí Tuệ: smar…"
+      },
+      {
+        "path": "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "title": "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "domain": "mental-models",
+        "tags": [
+          "attention",
+          "care-economy",
+          "family",
+          "loosh",
+          "matrix",
+          "mental-models",
+          "propaganda"
+        ],
+        "aliases": [
+          "Care Economy",
+          "Fact-Check Thua Care-Check",
+          "Family Trust Loop"
+        ],
+        "headings": [
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+          "1. Care Là Hạ Tầng Vô Hình Của Gia Đình",
+          "2. Nữ Quyền Bị Market Capture",
+          "3. Dual-Income Necessity: Cả Nhà Bị Kéo Ra Khỏi Nhà",
+          "4. Outsource Trẻ Con, Outsource Người Già",
+          "5. Khi Container Gia Đình Hỏng, Trẻ Em Thành Attack Surface",
+          "6. Người Già Không Được Nghỉ: Late-Life Labor Và Battery Extraction",
+          "7. Từ Care Economy Sang Loosh Economy",
+          "8. Fact-Check Thua Care-Check",
+          "9. Scam Như Intimacy Engineering",
+          "10. Mirror Pattern: Vì Sao Trẻ Con Cũng Ít Kể Chuyện",
+          "11. Family Trust Loop",
+          "12. Shadow Layer: Thương Nhưng Thành Kiểm Soát",
+          "13. Protective Practice: Rebuild The Container",
+          "Vault Position"
+        ],
+        "wikilinks": [
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Fact-Check Thua Care-Check",
+          "Individuation",
+          "Kiểm Soát Tâm Trí",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Ma Trận",
+          "S.E.X",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+          "Tâm Lý Học Jung"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/S.E.X.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Individuation.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "MOC - Epistemology & Propaganda.md"
+        ],
+        "words": 3861,
+        "summary": "Gia đình không bị phá bằng một cú đánh."
       },
       {
         "path": "mental-models/Gen Z - Phân Tích Phản Biện.md",
@@ -9953,7 +10022,6 @@
         ],
         "backlinks": [
           "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-          "index.md",
           "mental-models/index.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md"
         ],
@@ -10259,6 +10327,7 @@
           "health/Su That Ve Benh Dai Va Vac Xin.md",
           "index.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/index.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -11296,64 +11365,6 @@
         "summary": "Lịch sử dạy rằng **Thế chiến I và II** là cuộc đấu tranh giữa thiện và ác, tự do và độc tài. Nhưng nếu **Nhị Nguyên** (hai phe đối đầu) chỉ là **vỏ bọc** cho một mục đích khác?"
       },
       {
-        "path": "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-        "title": "Walter Russell",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "science-tech"
-        ],
-        "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
-        ],
-        "headings": [
-          "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
-          "Evidence Discipline / Cach Doc Claim",
-          "Vault Position / Vị Trí Trong Vault",
-          "Moon Landing: Khi Thiên Giới Bị Chạm Vào",
-          "SpaceX: Khi Bầu Trời Trở Thành Hạ Tầng",
-          "Từ “We Go Up” Sang “Something Comes Down”",
-          "Rocket Là Obelisk Lửa",
-          "Elon Musk Như Techno-King",
-          "Death Of King Elon Không Nhất Thiết Là Cái Chết Thân Xác",
-          "Obelisk Vẫn Đứng Sau Khi Vua Rơi",
-          "Sky Fear Là Governance Layer",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Elite",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Khoa Học Xét Lại",
-          "Ma Trận",
-          "UAP Disclosure - Controlled Revelation"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-          "index.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
-        ],
-        "words": 2529,
-        "summary": "**Nếu Moon landing là nghi lễ làm con người tin rằng bầu trời có thể bị chạm tới, thì SpaceX là nghi lễ biến bầu trời thành hạ tầng phải được quản trị, quân sự hóa, tài chính hóa và sợ hãi hóa. Rocket hiện đại là obelisk lửa: trục dương của techno-king phóng…"
-      },
-      {
         "path": "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "title": "Mỹ Là Ai Cập Tái Sinh",
         "domain": "politics-conspiracy",
@@ -11414,10 +11425,69 @@
           "MOC - Ancient Civilizations & Hidden History.md",
           "MOC - Epistemology & Propaganda.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/index.md"
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md"
         ],
         "words": 1932,
         "summary": "**Mỹ không phải Ai Cập theo nghĩa literal địa lý. Mỹ là Ai Cập nghi lễ của kỷ nguyên hiện đại: cùng grammar quyền lực, nhưng đổi chất liệu từ đá, đền thờ và priesthood cổ sang dollar, agency, Hollywood, NASA, Wall Street, rocket và satellite. Egypt không chết…"
+      },
+      {
+        "path": "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+        "title": "Walter Russell",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [
+          "Walter Russell (Hiền Triết Hiện Đại)"
+        ],
+        "headings": [
+          "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
+          "Evidence Discipline / Cach Doc Claim",
+          "Vault Position / Vị Trí Trong Vault",
+          "Moon Landing: Khi Thiên Giới Bị Chạm Vào",
+          "SpaceX: Khi Bầu Trời Trở Thành Hạ Tầng",
+          "Từ “We Go Up” Sang “Something Comes Down”",
+          "Rocket Là Obelisk Lửa",
+          "Elon Musk Như Techno-King",
+          "Death Of King Elon Không Nhất Thiết Là Cái Chết Thân Xác",
+          "Obelisk Vẫn Đứng Sau Khi Vua Rơi",
+          "Sky Fear Là Governance Layer",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Elite",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Khoa Học Xét Lại",
+          "Ma Trận",
+          "UAP Disclosure - Controlled Revelation"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+          "index.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
+        ],
+        "words": 2529,
+        "summary": "**Nếu Moon landing là nghi lễ làm con người tin rằng bầu trời có thể bị chạm tới, thì SpaceX là nghi lễ biến bầu trời thành hạ tầng phải được quản trị, quân sự hóa, tài chính hóa và sợ hãi hóa. Rocket hiện đại là obelisk lửa: trục dương của techno-king phóng…"
       },
       {
         "path": "politics-conspiracy/Trái Đất Phẳng.md",
@@ -11989,6 +12059,51 @@
         ],
         "words": 1257,
         "summary": "Bài viết này trình bày một góc nhìn phản biện về ma túy, nghiện, và Cuộc chiến chống ma túy, kêu gọi người đọc cởi bỏ định kiến và xem xét vấn đề từ nhiều phía. Tác giả lập luận rằng những hiểu biết phổ thông về ma túy phần lớn là sai lầm và cuộc chiến chống…"
+      },
+      {
+        "path": "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
+        "title": "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "american-egypt",
+          "education",
+          "exam",
+          "politics-conspiracy",
+          "propaganda",
+          "spiderum",
+          "symbolism",
+          "vietnam"
+        ],
+        "aliases": [
+          "American Tech Aspiration Trong Giao Duc Viet Nam",
+          "Code Va Cat Trong De Van",
+          "De Van 2026 Va Nghi Le Thay Ky Uc",
+          "Spiderum De Thi THPT",
+          "Steve Jobs Viet Nam"
+        ],
+        "headings": [
+          "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức",
+          "Evidence Discipline / Cách Đọc Claim",
+          "Fact Layer: Cái Gì Đã Verify Được?",
+          "Đề Thi Là Ritual Memory Selection",
+          "Từ Tiền Nhân Sang Founder Mỹ",
+          "Spiderum Không Phải Vấn Đề Cá Nhân",
+          "American Egypt: Khi Empire Xuất Khẩu Hình Mẫu",
+          "Lật Sử Mềm Không Cần Cấm Sách",
+          "Ukraine V2: Chỉ Là Warning, Không Phải Kết Luận",
+          "Research Leads / Chưa Đưa Thành Claim",
+          "Synthesis"
+        ],
+        "wikilinks": [
+          "Mỹ Là Ai Cập Tái Sinh"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
+        ],
+        "backlinks": [],
+        "words": 2178,
+        "summary": "Một quốc gia không cần xóa lịch sử."
       }
     ],
     "root": [
@@ -12033,6 +12148,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "June 9, 2026",
           "June 4, 2026",
           "June 3, 2026",
           "June 1, 2026",
@@ -12055,9 +12171,10 @@
           "Bộ Não Rỗng và AI Brain Rot",
           "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
           "Cabal",
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
           "Chainlink - Mắt Xích Của Tokenized World",
           "Chakra",
-          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+          "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
           "Climate Anxiety as Control - Fear-Based Compliance",
           "crypto-finance/index",
           "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
@@ -12089,7 +12206,7 @@
           "Long Mạch",
           "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
           "Luân Hồi",
-          "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
+          "Lịch Sử Song Song - Khi Thế Giới Đồng Bộ",
           "Ma Trận",
           "Ma Trận - Giải Phẫu Hoàn Chỉnh",
           "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
@@ -12135,7 +12252,7 @@
           "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
           "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
           "Suramin",
-          "Sợ hãi - Tham Lam – Cân bằng",
+          "Sợ hãi - Tham Lam - Cân bằng",
           "Sự Nhất Thể",
           "Sự Thật Về Vụ Sập Tháp Đôi WTC",
           "Sự Thật Đen Tối Về Phim Khiêu Dâm",
@@ -12149,7 +12266,7 @@
           "Thánh Issa",
           "Thông Minh vs Trí Tuệ",
           "Thế Chiến - Chiến Dịch Dọn Dẹp",
-          "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
+          "Thế Hệ Dâu Tây - Mệt Rồi, Dừng Lại Được Chưa",
           "Thực Thể Cõi Trung Giới",
           "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
           "Tiền Giấy - Tiền Mặt",
@@ -12162,7 +12279,7 @@
           "Tâm Lý Học Jung",
           "Tình Yêu Tỉnh Thức",
           "Tư Duy Lũy Thừa",
-          "Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu",
+          "Tồn Tại Để Làm Gì - Hay Câu Hỏi Đã Sai Từ Đầu",
           "Tứ Linh",
           "UAP Disclosure - Controlled Revelation",
           "UBI Conditioning - The End of Work Ethic",
@@ -12193,7 +12310,6 @@
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
           "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
           "esoterica/Chakra.md",
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
           "esoterica/Gaia - Trái Đất Có Ý Thức.md",
           "esoterica/Gematria.md",
           "esoterica/Gnosis.md",
@@ -12205,7 +12321,6 @@
           "esoterica/Long Mạch.md",
           "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
           "esoterica/Luân Hồi.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Ma Trận.md",
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -12230,7 +12345,6 @@
           "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
           "esoterica/Tà Linh.md",
           "esoterica/Tình Yêu Tỉnh Thức.md",
-          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
           "esoterica/Tứ Linh.md",
           "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
           "esoterica/Đạo.md",
@@ -12250,6 +12364,7 @@
           "health/Y Tế Tự Nhiên.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
@@ -12263,9 +12378,7 @@
           "mental-models/Privacy Is The New Wealth.md",
           "mental-models/S.E.X Và Tâm Lý Học Jung.md",
           "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
           "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
           "mental-models/Trí Tuệ.md",
           "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Tư Duy Lũy Thừa.md",
@@ -12316,7 +12429,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 2787,
+        "words": 2857,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -12345,6 +12458,7 @@
           "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
           "Báo Cáo 2030",
           "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
           "Climate Anxiety as Control - Fear-Based Compliance",
           "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
           "Cách Đọc Red Pill Wiki",
@@ -12375,6 +12489,7 @@
           "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
           "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
           "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
           "mental-models/Mental Model.md",
           "mental-models/Nhị Nguyên.md",
@@ -12423,7 +12538,7 @@
           "science-tech/Khoa Học Xét Lại.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 776,
+        "words": 809,
         "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
       },
       {
@@ -13296,6 +13411,7 @@
           "Cách Đọc Red Pill Wiki.md",
           "Glossary - Từ Điển Red Pill Wiki.md",
           "index.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "politics-conspiracy/Báo Cáo 2030.md"
         ],
         "words": 1103,
@@ -14523,6 +14639,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "June 9, 2026",
         "June 4, 2026",
         "June 3, 2026",
         "June 1, 2026",
@@ -14545,9 +14662,10 @@
         "Bộ Não Rỗng và AI Brain Rot",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
         "Cabal",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "Chainlink - Mắt Xích Của Tokenized World",
         "Chakra",
-        "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+        "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
         "Climate Anxiety as Control - Fear-Based Compliance",
         "crypto-finance/index",
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
@@ -14579,7 +14697,7 @@
         "Long Mạch",
         "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
         "Luân Hồi",
-        "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
+        "Lịch Sử Song Song - Khi Thế Giới Đồng Bộ",
         "Ma Trận",
         "Ma Trận - Giải Phẫu Hoàn Chỉnh",
         "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
@@ -14625,7 +14743,7 @@
         "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
         "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
         "Suramin",
-        "Sợ hãi - Tham Lam – Cân bằng",
+        "Sợ hãi - Tham Lam - Cân bằng",
         "Sự Nhất Thể",
         "Sự Thật Về Vụ Sập Tháp Đôi WTC",
         "Sự Thật Đen Tối Về Phim Khiêu Dâm",
@@ -14639,7 +14757,7 @@
         "Thánh Issa",
         "Thông Minh vs Trí Tuệ",
         "Thế Chiến - Chiến Dịch Dọn Dẹp",
-        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
+        "Thế Hệ Dâu Tây - Mệt Rồi, Dừng Lại Được Chưa",
         "Thực Thể Cõi Trung Giới",
         "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
         "Tiền Giấy - Tiền Mặt",
@@ -14652,7 +14770,7 @@
         "Tâm Lý Học Jung",
         "Tình Yêu Tỉnh Thức",
         "Tư Duy Lũy Thừa",
-        "Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu",
+        "Tồn Tại Để Làm Gì - Hay Câu Hỏi Đã Sai Từ Đầu",
         "Tứ Linh",
         "UAP Disclosure - Controlled Revelation",
         "UBI Conditioning - The End of Work Ethic",
@@ -14683,7 +14801,6 @@
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Chakra.md",
-        "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
@@ -14695,7 +14812,6 @@
         "esoterica/Long Mạch.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Luân Hồi.md",
-        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -14720,7 +14836,6 @@
         "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
         "esoterica/Tà Linh.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
-        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
         "esoterica/Tứ Linh.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "esoterica/Đạo.md",
@@ -14740,6 +14855,7 @@
         "health/Y Tế Tự Nhiên.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
@@ -14753,9 +14869,7 @@
         "mental-models/Privacy Is The New Wealth.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
         "mental-models/Trí Tuệ.md",
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Tư Duy Lũy Thừa.md",
@@ -14806,7 +14920,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2787,
+      "words": 2857,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -14967,6 +15081,7 @@
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/index.md",
@@ -15357,6 +15472,115 @@
       "summary": "**Khoa Học Xét Lại không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution: một bên là quan sát, kiểm chứng, phản biện; một bên là funding, prestige, consensus, censorship, career incentive và quyền lực.**"
     },
     {
+      "path": "MOC - Epistemology & Propaganda.md",
+      "title": "MOC - Epistemology & Propaganda",
+      "domain": "root",
+      "tags": [
+        "epistemology",
+        "moc",
+        "propaganda"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Epistemology & Propaganda",
+        "How To Read This Map",
+        "Start Here",
+        "Reading Discipline",
+        "Mind Control & Media",
+        "Language, Symbol & Frame Control",
+        "Institutional Knowledge",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+        "Báo Cáo 2030",
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Climate Anxiety as Control - Fear-Based Compliance",
+        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
+        "Cách Đọc Red Pill Wiki",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Gematria",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Khoa Học Xét Lại",
+        "Kiểm Soát Tâm Trí",
+        "Mental Model",
+        "Mỹ Là Ai Cập Tái Sinh",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nhị Nguyên",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "Word Magic - Ngôn Ngữ Của Phù Thủy"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "esoterica/Gematria.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nhị Nguyên.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/index.md",
+        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "esoterica/Cabal.md",
+        "esoterica/index.md",
+        "esoterica/Ma Trận.md",
+        "Glossary - Từ Điển Red Pill Wiki.md",
+        "health/index.md",
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Ancient Civilizations & Hidden History.md",
+        "MOC - Esoterica & Consciousness.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/MAGA Và Số 42.md",
+        "politics-conspiracy/MindGeek.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Sự thật về ma túy.md",
+        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+        "politics-conspiracy/Trái Đất Phẳng.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/index.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "words": 809,
+      "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
+    },
+    {
       "path": "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
       "title": "Ma Trận - Giải Phẫu Hoàn Chỉnh",
       "domain": "esoterica",
@@ -15614,113 +15838,6 @@
       "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
     },
     {
-      "path": "MOC - Epistemology & Propaganda.md",
-      "title": "MOC - Epistemology & Propaganda",
-      "domain": "root",
-      "tags": [
-        "epistemology",
-        "moc",
-        "propaganda"
-      ],
-      "aliases": [],
-      "headings": [
-        "MOC - Epistemology & Propaganda",
-        "How To Read This Map",
-        "Start Here",
-        "Reading Discipline",
-        "Mind Control & Media",
-        "Language, Symbol & Frame Control",
-        "Institutional Knowledge",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-        "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
-        "Báo Cáo 2030",
-        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-        "Climate Anxiety as Control - Fear-Based Compliance",
-        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Gematria",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "Khoa Học Xét Lại",
-        "Kiểm Soát Tâm Trí",
-        "Mental Model",
-        "Mỹ Là Ai Cập Tái Sinh",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nhị Nguyên",
-        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "Word Magic - Ngôn Ngữ Của Phù Thủy"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-        "esoterica/Gematria.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nhị Nguyên.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/index.md",
-        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-        "esoterica/Cabal.md",
-        "esoterica/index.md",
-        "esoterica/Ma Trận.md",
-        "Glossary - Từ Điển Red Pill Wiki.md",
-        "health/index.md",
-        "index.md",
-        "mental-models/index.md",
-        "MOC - Ancient Civilizations & Hidden History.md",
-        "MOC - Esoterica & Consciousness.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/MAGA Và Số 42.md",
-        "politics-conspiracy/MindGeek.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
-        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-        "politics-conspiracy/Trái Đất Phẳng.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-      ],
-      "words": 776,
-      "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
-    },
-    {
       "path": "politics-conspiracy/Kiểm Soát Tâm Trí.md",
       "title": "Kiểm Soát Tâm Trí (Mind Control)",
       "domain": "politics-conspiracy",
@@ -15787,6 +15904,7 @@
         "health/Su That Ve Benh Dai Va Vac Xin.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -16165,6 +16283,99 @@
       "summary": "**Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…"
     },
     {
+      "path": "mental-models/Individuation.md",
+      "title": "Individuation",
+      "domain": "mental-models",
+      "tags": [
+        "consciousness",
+        "jung",
+        "mental-model"
+      ],
+      "aliases": [
+        "Individuation (Thành Toàn Bản Ngã)",
+        "Self-Actualization",
+        "Thành Toàn Bản Ngã"
+      ],
+      "headings": [
+        "Individuation (Thành Toàn Bản Ngã)",
+        "Vault Position / Vị Trí Trong Vault",
+        "1. Persona: Mặt Nạ Cần Thiết Nhưng Nguy Hiểm",
+        "2. Shadow: Cái Bị Đẩy Xuống Dưới",
+        "3. Anima / Animus",
+        "4. Self: Không Phải Ego Lớn Hơn",
+        "5. Individuation Và Ma Trận",
+        "6. Beyond Nhị Nguyên",
+        "7. Practice / Thực Hành",
+        "8. Common Traps",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "Gnosis",
+        "Ma Trận",
+        "Monad",
+        "Nguyên Mẫu",
+        "Nhị Nguyên",
+        "Sự Nhất Thể",
+        "Tâm Lý Học Jung",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Sự Nhất Thể.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Vô Thức Tập Thể.md"
+      ],
+      "backlinks": [
+        "esoterica/Atula.md",
+        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Chakra.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Kundalini.md",
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Monad.md",
+        "esoterica/Một Đời Phù Vân.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Thực Thể Cõi Trung Giới.md",
+        "esoterica/Tinh Khí Thần.md",
+        "esoterica/Tình Yêu Tỉnh Thức.md",
+        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "health/Prolonged Fasting.md",
+        "index.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/index.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Thông Minh.md",
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "mental-models/Tâm bất Biến.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "MOC - Esoterica & Consciousness.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+      ],
+      "words": 1007,
+      "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là bước tâ…"
+    },
+    {
       "path": "MOC - Health Sovereignty.md",
       "title": "MOC - Health Sovereignty",
       "domain": "root",
@@ -16260,98 +16471,6 @@
       "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng. Nó không phải ghét bác sĩ hay phủ định cấp cứu hiện đại. Nó là không để hệ thống định nghĩa thay mình thế…"
     },
     {
-      "path": "mental-models/Individuation.md",
-      "title": "Individuation",
-      "domain": "mental-models",
-      "tags": [
-        "consciousness",
-        "jung",
-        "mental-model"
-      ],
-      "aliases": [
-        "Individuation (Thành Toàn Bản Ngã)",
-        "Self-Actualization",
-        "Thành Toàn Bản Ngã"
-      ],
-      "headings": [
-        "Individuation (Thành Toàn Bản Ngã)",
-        "Vault Position / Vị Trí Trong Vault",
-        "1. Persona: Mặt Nạ Cần Thiết Nhưng Nguy Hiểm",
-        "2. Shadow: Cái Bị Đẩy Xuống Dưới",
-        "3. Anima / Animus",
-        "4. Self: Không Phải Ego Lớn Hơn",
-        "5. Individuation Và Ma Trận",
-        "6. Beyond Nhị Nguyên",
-        "7. Practice / Thực Hành",
-        "8. Common Traps",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "Gnosis",
-        "Ma Trận",
-        "Monad",
-        "Nguyên Mẫu",
-        "Nhị Nguyên",
-        "Sự Nhất Thể",
-        "Tâm Lý Học Jung",
-        "Vô Thức Tập Thể"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Gnosis.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Sự Nhất Thể.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Vô Thức Tập Thể.md"
-      ],
-      "backlinks": [
-        "esoterica/Atula.md",
-        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "esoterica/Chakra.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Kundalini.md",
-        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-        "esoterica/Monad.md",
-        "esoterica/Một Đời Phù Vân.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Thực Thể Cõi Trung Giới.md",
-        "esoterica/Tinh Khí Thần.md",
-        "esoterica/Tình Yêu Tỉnh Thức.md",
-        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-        "health/Prolonged Fasting.md",
-        "index.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/index.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Thông Minh.md",
-        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "mental-models/Tâm bất Biến.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "mental-models/Tư Duy Lũy Thừa.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "MOC - Esoterica & Consciousness.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-      ],
-      "words": 1007,
-      "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là bước tâ…"
-    },
-    {
       "path": "mental-models/index.md",
       "title": "Mental Models Domain Gateway",
       "domain": "mental-models",
@@ -16384,6 +16503,7 @@
         "AI",
         "Ai Đứng Bên Kia Giao Dịch",
         "Bộ Não Rỗng và AI Brain Rot",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "Chia Tách Bởi Nhị Nguyên",
         "Climate Anxiety as Control - Fear-Based Compliance",
         "crypto-finance/index",
@@ -16433,6 +16553,7 @@
         "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -16472,7 +16593,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1017,
+      "words": 1039,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
@@ -18029,6 +18150,48 @@
       "summary": "**Sir Isaac Newton** (1642-1727) — \"cha đẻ của vật lý hiện đại\" — thực chất dành phần lớn cuộc đời cho Huyền học (Occult) và Thuật Giả Kim (Alchemy), không phải khoa học duy vật."
     },
     {
+      "path": "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+      "title": "Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu?",
+      "domain": "esoterica",
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "meaning",
+        "philosophy"
+      ],
+      "aliases": [],
+      "headings": [
+        "Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu?",
+        "Những Câu Trả Lời Cũ",
+        "Tại Sao Không Cái Nào Thỏa Mãn Hoàn Toàn",
+        "Có Lẽ Câu Hỏi Đã Sai Từ Đầu",
+        "Vũ Trụ Không Hỏi \"Để Làm Gì\"",
+        "Một Góc Nhìn Khác",
+        "Cái Gì Đang Thấy Tất Cả Những Thứ Này?",
+        "Và Nếu Không Có Câu Trả Lời?",
+        "Một Kết Mở",
+        "Đọc Thêm"
+      ],
+      "wikilinks": [
+        "Individuation",
+        "Ma Trận",
+        "Monad",
+        "Nghịch Lý Của Hiểu Biết",
+        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "mental-models/Individuation.md",
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md"
+      ],
+      "backlinks": [],
+      "words": 2469,
+      "summary": "*What Is the Point of Existence — Or Is the Question Already Wrong?*"
+    },
+    {
       "path": "health/Plasma Quinton.md",
       "title": "Plasma Quinton (Huyết Tương Biển)",
       "domain": "health",
@@ -18075,6 +18238,51 @@
       "backlinks": [],
       "words": 898,
       "summary": "**Plasma Quinton là nước biển được xử lý theo phương pháp René Quinton, thường được đọc trong health sovereignty như một cách hỗ trợ terrain khoáng chất và nội môi. Điểm cốt lõi không phải “nước biển chữa mọi bệnh”, mà là câu hỏi sâu hơn: cơ thể có thể tự sửa…"
+    },
+    {
+      "path": "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
+      "title": "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức",
+      "domain": "politics-conspiracy",
+      "tags": [
+        "american-egypt",
+        "education",
+        "exam",
+        "politics-conspiracy",
+        "propaganda",
+        "spiderum",
+        "symbolism",
+        "vietnam"
+      ],
+      "aliases": [
+        "American Tech Aspiration Trong Giao Duc Viet Nam",
+        "Code Va Cat Trong De Van",
+        "De Van 2026 Va Nghi Le Thay Ky Uc",
+        "Spiderum De Thi THPT",
+        "Steve Jobs Viet Nam"
+      ],
+      "headings": [
+        "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức",
+        "Evidence Discipline / Cách Đọc Claim",
+        "Fact Layer: Cái Gì Đã Verify Được?",
+        "Đề Thi Là Ritual Memory Selection",
+        "Từ Tiền Nhân Sang Founder Mỹ",
+        "Spiderum Không Phải Vấn Đề Cá Nhân",
+        "American Egypt: Khi Empire Xuất Khẩu Hình Mẫu",
+        "Lật Sử Mềm Không Cần Cấm Sách",
+        "Ukraine V2: Chỉ Là Warning, Không Phải Kết Luận",
+        "Research Leads / Chưa Đưa Thành Claim",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "Mỹ Là Ai Cập Tái Sinh"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
+      ],
+      "backlinks": [],
+      "words": 2178,
+      "summary": "Một quốc gia không cần xóa lịch sử."
     }
   ],
   "sinks": [
@@ -18322,7 +18530,7 @@
     ],
     [
       "politics-conspiracy",
-      22
+      23
     ],
     [
       "crypto-finance",
@@ -18334,11 +18542,11 @@
     ],
     [
       "matrix",
-      11
+      12
     ],
     [
       "symbolism",
-      10
+      11
     ],
     [
       "sovereignty",
@@ -18373,6 +18581,10 @@
       7
     ],
     [
+      "propaganda",
+      7
+    ],
+    [
       "moc",
       7
     ],
@@ -18402,10 +18614,6 @@
     ],
     [
       "conspiracy",
-      5
-    ],
-    [
-      "propaganda",
       5
     ],
     [
@@ -18701,7 +18909,28 @@
       1
     ]
   ],
-  "brokenLinks": [],
+  "brokenLinks": [
+    {
+      "source": "index.md",
+      "target": "Chu Kỳ Vũ Trụ - Yugas & Kalpas"
+    },
+    {
+      "source": "index.md",
+      "target": "Lịch Sử Song Song - Khi Thế Giới Đồng Bộ"
+    },
+    {
+      "source": "index.md",
+      "target": "Sợ hãi - Tham Lam - Cân bằng"
+    },
+    {
+      "source": "index.md",
+      "target": "Thế Hệ Dâu Tây - Mệt Rồi, Dừng Lại Được Chưa"
+    },
+    {
+      "source": "index.md",
+      "target": "Tồn Tại Để Làm Gì - Hay Câu Hỏi Đã Sai Từ Đầu"
+    }
+  ],
   "notes": {
     "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md": {
       "path": "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
@@ -19104,6 +19333,7 @@
         "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
         "Báo Cáo 2030",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "Climate Anxiety as Control - Fear-Based Compliance",
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
         "Cách Đọc Red Pill Wiki",
@@ -19134,6 +19364,7 @@
         "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
         "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Mental Model.md",
         "mental-models/Nhị Nguyên.md",
@@ -19182,7 +19413,7 @@
         "science-tech/Khoa Học Xét Lại.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 776,
+      "words": 809,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     "MOC - Esoterica & Consciousness.md": {
@@ -19696,6 +19927,7 @@
         "Cách Đọc Red Pill Wiki.md",
         "Glossary - Từ Điển Red Pill Wiki.md",
         "index.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "politics-conspiracy/Báo Cáo 2030.md"
       ],
       "words": 1103,
@@ -21304,6 +21536,7 @@
         "World Cup 26 Là Gì Nếu Không Phải Một Hero Stage?",
         "WE ARE 26 Và Sự Tan Của Một Trung Tâm Duy Nhất",
         "26, 8 Và Back-To-Back Loop",
+        "2002 → 2026: Ba Vòng 8 Và Một Chu Kỳ Brazil Return",
         "TRIONDA: Ba Làn Sóng Và Một Tournament Không Có Một Mũi Nhọn",
         "Gematria Nhẹ: Khi Số Không Chứng Minh, Nhưng Tạo Texture",
         "Brazil Không Cần Neymar Để Là Brazil",
@@ -21344,7 +21577,7 @@
         "index.md",
         "MOC - Epistemology & Propaganda.md"
       ],
-      "words": 5269,
+      "words": 5517,
       "summary": "**Nếu World Cup 2022 là nghi lễ hoàn tất myth cá nhân của Messi, World Cup 2026 có vẻ đang được dựng như một nghi lễ tập thể: ba quốc gia, bốn mươi tám đội, ba làn sóng, nhiều thành phố, nhiều poster, nhiều concert, nhiều creator và một field truyền thông phâ…"
     },
     "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md": {
@@ -21695,7 +21928,6 @@
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
         "esoterica/Vũ Trụ Học Phật Giáo.md",
-        "index.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Esoterica & Consciousness.md",
@@ -22640,6 +22872,7 @@
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
         "esoterica/Tà Linh.md",
         "index.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "MOC - Esoterica & Consciousness.md",
@@ -22816,7 +23049,6 @@
         "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
         "esoterica/index.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "index.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Ancient Civilizations & Hidden History.md",
         "science-tech/Khoa Học Xét Lại.md"
@@ -23126,6 +23358,7 @@
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/index.md",
@@ -24353,6 +24586,7 @@
         "esoterica/Tinh Khí Thần.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
         "index.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "politics-conspiracy/index.md",
@@ -25607,9 +25841,7 @@
         "mental-models/Individuation.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md"
       ],
-      "backlinks": [
-        "index.md"
-      ],
+      "backlinks": [],
       "words": 2469,
       "summary": "*What Is the Point of Existence — Or Is the Question Already Wrong?*"
     },
@@ -27781,6 +28013,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "June 9, 2026",
         "June 4, 2026",
         "June 3, 2026",
         "June 1, 2026",
@@ -27803,9 +28036,10 @@
         "Bộ Não Rỗng và AI Brain Rot",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
         "Cabal",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "Chainlink - Mắt Xích Của Tokenized World",
         "Chakra",
-        "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+        "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
         "Climate Anxiety as Control - Fear-Based Compliance",
         "crypto-finance/index",
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
@@ -27837,7 +28071,7 @@
         "Long Mạch",
         "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
         "Luân Hồi",
-        "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
+        "Lịch Sử Song Song - Khi Thế Giới Đồng Bộ",
         "Ma Trận",
         "Ma Trận - Giải Phẫu Hoàn Chỉnh",
         "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
@@ -27883,7 +28117,7 @@
         "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
         "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
         "Suramin",
-        "Sợ hãi - Tham Lam – Cân bằng",
+        "Sợ hãi - Tham Lam - Cân bằng",
         "Sự Nhất Thể",
         "Sự Thật Về Vụ Sập Tháp Đôi WTC",
         "Sự Thật Đen Tối Về Phim Khiêu Dâm",
@@ -27897,7 +28131,7 @@
         "Thánh Issa",
         "Thông Minh vs Trí Tuệ",
         "Thế Chiến - Chiến Dịch Dọn Dẹp",
-        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
+        "Thế Hệ Dâu Tây - Mệt Rồi, Dừng Lại Được Chưa",
         "Thực Thể Cõi Trung Giới",
         "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
         "Tiền Giấy - Tiền Mặt",
@@ -27910,7 +28144,7 @@
         "Tâm Lý Học Jung",
         "Tình Yêu Tỉnh Thức",
         "Tư Duy Lũy Thừa",
-        "Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu",
+        "Tồn Tại Để Làm Gì - Hay Câu Hỏi Đã Sai Từ Đầu",
         "Tứ Linh",
         "UAP Disclosure - Controlled Revelation",
         "UBI Conditioning - The End of Work Ethic",
@@ -27941,7 +28175,6 @@
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Chakra.md",
-        "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
@@ -27953,7 +28186,6 @@
         "esoterica/Long Mạch.md",
         "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
         "esoterica/Luân Hồi.md",
-        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -27978,7 +28210,6 @@
         "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
         "esoterica/Tà Linh.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
-        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
         "esoterica/Tứ Linh.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "esoterica/Đạo.md",
@@ -27998,6 +28229,7 @@
         "health/Y Tế Tự Nhiên.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
@@ -28011,9 +28243,7 @@
         "mental-models/Privacy Is The New Wealth.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
         "mental-models/Trí Tuệ.md",
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Tư Duy Lũy Thừa.md",
@@ -28064,7 +28294,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2787,
+      "words": 2857,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
@@ -28236,6 +28466,71 @@
       "words": 2756,
       "summary": "*The Empty Brain & AI Brain Rot*"
     },
+    "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md": {
+      "path": "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+      "title": "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+      "domain": "mental-models",
+      "tags": [
+        "attention",
+        "care-economy",
+        "family",
+        "loosh",
+        "matrix",
+        "mental-models",
+        "propaganda"
+      ],
+      "aliases": [
+        "Care Economy",
+        "Fact-Check Thua Care-Check",
+        "Family Trust Loop"
+      ],
+      "headings": [
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "1. Care Là Hạ Tầng Vô Hình Của Gia Đình",
+        "2. Nữ Quyền Bị Market Capture",
+        "3. Dual-Income Necessity: Cả Nhà Bị Kéo Ra Khỏi Nhà",
+        "4. Outsource Trẻ Con, Outsource Người Già",
+        "5. Khi Container Gia Đình Hỏng, Trẻ Em Thành Attack Surface",
+        "6. Người Già Không Được Nghỉ: Late-Life Labor Và Battery Extraction",
+        "7. Từ Care Economy Sang Loosh Economy",
+        "8. Fact-Check Thua Care-Check",
+        "9. Scam Như Intimacy Engineering",
+        "10. Mirror Pattern: Vì Sao Trẻ Con Cũng Ít Kể Chuyện",
+        "11. Family Trust Loop",
+        "12. Shadow Layer: Thương Nhưng Thành Kiểm Soát",
+        "13. Protective Practice: Rebuild The Container",
+        "Vault Position"
+      ],
+      "wikilinks": [
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Fact-Check Thua Care-Check",
+        "Individuation",
+        "Kiểm Soát Tâm Trí",
+        "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+        "Ma Trận",
+        "S.E.X",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+        "Tâm Lý Học Jung"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/S.E.X.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Individuation.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Epistemology & Propaganda.md"
+      ],
+      "words": 3861,
+      "summary": "Gia đình không bị phá bằng một cú đánh."
+    },
     "mental-models/Chia Tách Bởi Nhị Nguyên.md": {
       "path": "mental-models/Chia Tách Bởi Nhị Nguyên.md",
       "title": "Chia Tách Bởi Nhị Nguyên",
@@ -28399,6 +28694,7 @@
         "health/Công Thức Chữa Lành Tự Nhiên.md",
         "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
@@ -28536,6 +28832,7 @@
         "health/Prolonged Fasting.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/index.md",
         "mental-models/Mental Model.md",
         "mental-models/Nguyên Mẫu.md",
@@ -29183,7 +29480,6 @@
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/index.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/index.md",
         "MOC - Market Psychology & Risk.md"
@@ -29404,7 +29700,6 @@
       ],
       "backlinks": [
         "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-        "index.md",
         "mental-models/index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md"
       ],
@@ -29536,6 +29831,7 @@
         "health/Tuyến Tùng.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
         "mental-models/Nguyên Mẫu.md",
@@ -29932,6 +30228,7 @@
         "AI",
         "Ai Đứng Bên Kia Giao Dịch",
         "Bộ Não Rỗng và AI Brain Rot",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "Chia Tách Bởi Nhị Nguyên",
         "Climate Anxiety as Control - Fear-Based Compliance",
         "crypto-finance/index",
@@ -29981,6 +30278,7 @@
         "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -30020,7 +30318,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1017,
+      "words": 1039,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
@@ -30852,6 +31150,7 @@
         "health/Su That Ve Benh Dai Va Vac Xin.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -31127,7 +31426,8 @@
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/index.md"
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md"
       ],
       "words": 1932,
       "summary": "**Mỹ không phải Ai Cập theo nghĩa literal địa lý. Mỹ là Ai Cập nghi lễ của kỷ nguyên hiện đại: cùng grammar quyền lực, nhưng đổi chất liệu từ đá, đền thờ và priesthood cổ sang dollar, agency, Hollywood, NASA, Wall Street, rocket và satellite. Egypt không chết…"
@@ -32009,6 +32309,51 @@
       ],
       "words": 1166,
       "summary": "---"
+    },
+    "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md": {
+      "path": "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
+      "title": "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức",
+      "domain": "politics-conspiracy",
+      "tags": [
+        "american-egypt",
+        "education",
+        "exam",
+        "politics-conspiracy",
+        "propaganda",
+        "spiderum",
+        "symbolism",
+        "vietnam"
+      ],
+      "aliases": [
+        "American Tech Aspiration Trong Giao Duc Viet Nam",
+        "Code Va Cat Trong De Van",
+        "De Van 2026 Va Nghi Le Thay Ky Uc",
+        "Spiderum De Thi THPT",
+        "Steve Jobs Viet Nam"
+      ],
+      "headings": [
+        "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức",
+        "Evidence Discipline / Cách Đọc Claim",
+        "Fact Layer: Cái Gì Đã Verify Được?",
+        "Đề Thi Là Ritual Memory Selection",
+        "Từ Tiền Nhân Sang Founder Mỹ",
+        "Spiderum Không Phải Vấn Đề Cá Nhân",
+        "American Egypt: Khi Empire Xuất Khẩu Hình Mẫu",
+        "Lật Sử Mềm Không Cần Cấm Sách",
+        "Ukraine V2: Chỉ Là Warning, Không Phải Kết Luận",
+        "Research Leads / Chưa Đưa Thành Claim",
+        "Synthesis"
+      ],
+      "wikilinks": [
+        "Mỹ Là Ai Cập Tái Sinh"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
+      ],
+      "backlinks": [],
+      "words": 2178,
+      "summary": "Một quốc gia không cần xóa lịch sử."
     },
     "science-tech/AI.md": {
       "path": "science-tech/AI.md",
