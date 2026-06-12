@@ -113,6 +113,7 @@ Orientation: use this when political power starts managing history, maps and cos
 - [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]]
 - [[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]]
 - [[Mỹ Là Ai Cập Tái Sinh]] — 2026 case study in tech, ritual and disclosure symbolism.
+- [[Đề Văn 2026 Và Nghi Lễ Thay Ký Ức]] — education, exam ritual, Silicon Valley aspiration and soft memory reset.
 - [[Sự Thật Về Vụ Sập Tháp Đôi WTC]] — high-risk historical case requiring careful evidence separation.
 
 ---

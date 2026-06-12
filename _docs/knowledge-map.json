@@ -12,7 +12,7 @@
       "science-tech": 17
     },
     "tags": 193,
-    "wikilinkEdges": 2078,
+    "wikilinkEdges": 2080,
     "brokenLinks": 5,
     "orphans": 9
   },
@@ -10550,7 +10550,8 @@
           "Trái Đất Phẳng",
           "UAP Disclosure - Controlled Revelation",
           "UBI Conditioning - The End of Work Ethic",
-          "Điều mà nền giáo dục và chính phủ không dạy bạn"
+          "Điều mà nền giáo dục và chính phủ không dạy bạn",
+          "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức"
         ],
         "mdlinks": [],
         "outlinks": [
@@ -10590,6 +10591,7 @@
           "politics-conspiracy/Trái Đất Phẳng.md",
           "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
           "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+          "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
           "science-tech/index.md"
         ],
@@ -10599,7 +10601,7 @@
           "mental-models/index.md",
           "science-tech/index.md"
         ],
-        "words": 860,
+        "words": 879,
         "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
       },
       {
@@ -12101,7 +12103,10 @@
         "outlinks": [
           "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
         ],
-        "backlinks": [],
+        "backlinks": [
+          "index.md",
+          "politics-conspiracy/index.md"
+        ],
         "words": 2178,
         "summary": "Một quốc gia không cần xóa lịch sử."
       }
@@ -12289,7 +12294,8 @@
           "Word Magic - Ngôn Ngữ Của Phù Thủy",
           "Y Tế Tự Nhiên",
           "Điều Mà Trường Học Không Dạy Về Tiền",
-          "Đạo"
+          "Đạo",
+          "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức"
         ],
         "mdlinks": [],
         "outlinks": [
@@ -12407,6 +12413,7 @@
           "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
           "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
           "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+          "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
           "science-tech/AI.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
@@ -12429,7 +12436,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 2857,
+        "words": 2892,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14780,7 +14787,8 @@
         "Word Magic - Ngôn Ngữ Của Phù Thủy",
         "Y Tế Tự Nhiên",
         "Điều Mà Trường Học Không Dạy Về Tiền",
-        "Đạo"
+        "Đạo",
+        "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức"
       ],
       "mdlinks": [],
       "outlinks": [
@@ -14898,6 +14906,7 @@
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+        "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
@@ -14920,7 +14929,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2857,
+      "words": 2892,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -16889,7 +16898,8 @@
         "Trái Đất Phẳng",
         "UAP Disclosure - Controlled Revelation",
         "UBI Conditioning - The End of Work Ethic",
-        "Điều mà nền giáo dục và chính phủ không dạy bạn"
+        "Điều mà nền giáo dục và chính phủ không dạy bạn",
+        "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức"
       ],
       "mdlinks": [],
       "outlinks": [
@@ -16929,6 +16939,7 @@
         "politics-conspiracy/Trái Đất Phẳng.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/index.md"
       ],
@@ -16938,7 +16949,7 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 860,
+      "words": 879,
       "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
     },
     {
@@ -18238,51 +18249,6 @@
       "backlinks": [],
       "words": 898,
       "summary": "**Plasma Quinton là nước biển được xử lý theo phương pháp René Quinton, thường được đọc trong health sovereignty như một cách hỗ trợ terrain khoáng chất và nội môi. Điểm cốt lõi không phải “nước biển chữa mọi bệnh”, mà là câu hỏi sâu hơn: cơ thể có thể tự sửa…"
-    },
-    {
-      "path": "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
-      "title": "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức",
-      "domain": "politics-conspiracy",
-      "tags": [
-        "american-egypt",
-        "education",
-        "exam",
-        "politics-conspiracy",
-        "propaganda",
-        "spiderum",
-        "symbolism",
-        "vietnam"
-      ],
-      "aliases": [
-        "American Tech Aspiration Trong Giao Duc Viet Nam",
-        "Code Va Cat Trong De Van",
-        "De Van 2026 Va Nghi Le Thay Ky Uc",
-        "Spiderum De Thi THPT",
-        "Steve Jobs Viet Nam"
-      ],
-      "headings": [
-        "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức",
-        "Evidence Discipline / Cách Đọc Claim",
-        "Fact Layer: Cái Gì Đã Verify Được?",
-        "Đề Thi Là Ritual Memory Selection",
-        "Từ Tiền Nhân Sang Founder Mỹ",
-        "Spiderum Không Phải Vấn Đề Cá Nhân",
-        "American Egypt: Khi Empire Xuất Khẩu Hình Mẫu",
-        "Lật Sử Mềm Không Cần Cấm Sách",
-        "Ukraine V2: Chỉ Là Warning, Không Phải Kết Luận",
-        "Research Leads / Chưa Đưa Thành Claim",
-        "Synthesis"
-      ],
-      "wikilinks": [
-        "Mỹ Là Ai Cập Tái Sinh"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
-      ],
-      "backlinks": [],
-      "words": 2178,
-      "summary": "Một quốc gia không cần xóa lịch sử."
     }
   ],
   "sinks": [
@@ -28154,7 +28120,8 @@
         "Word Magic - Ngôn Ngữ Của Phù Thủy",
         "Y Tế Tự Nhiên",
         "Điều Mà Trường Học Không Dạy Về Tiền",
-        "Đạo"
+        "Đạo",
+        "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức"
       ],
       "mdlinks": [],
       "outlinks": [
@@ -28272,6 +28239,7 @@
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+        "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
@@ -28294,7 +28262,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2857,
+      "words": 2892,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
@@ -32212,7 +32180,8 @@
         "Trái Đất Phẳng",
         "UAP Disclosure - Controlled Revelation",
         "UBI Conditioning - The End of Work Ethic",
-        "Điều mà nền giáo dục và chính phủ không dạy bạn"
+        "Điều mà nền giáo dục và chính phủ không dạy bạn",
+        "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức"
       ],
       "mdlinks": [],
       "outlinks": [
@@ -32252,6 +32221,7 @@
         "politics-conspiracy/Trái Đất Phẳng.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/index.md"
       ],
@@ -32261,7 +32231,7 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 860,
+      "words": 879,
       "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
     },
     "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md": {
@@ -32351,7 +32321,10 @@
       "outlinks": [
         "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
       ],
-      "backlinks": [],
+      "backlinks": [
+        "index.md",
+        "politics-conspiracy/index.md"
+      ],
       "words": 2178,
       "summary": "Một quốc gia không cần xóa lịch sử."
     },
