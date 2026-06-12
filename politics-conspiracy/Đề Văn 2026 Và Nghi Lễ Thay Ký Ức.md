@@ -305,6 +305,43 @@ nhưng thực ra đang đứng trong bàn cờ của người khác
 Đây là warning, không phải prophecy.
 
 ---
+## Corpus Check 2016–2025: Hồ Chí Minh Có Vắng Mặt Không?
+
+Sau khi rà lại các đề Ngữ văn chính thức/được báo lớn đăng lại giai đoạn 2016–2025, pattern sơ bộ như sau.
+
+| Năm | Kỳ thi | Ngữ liệu đọc hiểu / nguồn | Nghị luận văn học | Hồ Chí Minh / Nhật ký trong tù? | Tech / global / market? |
+|---|---|---|---|---|---|
+| 2016 | THPT quốc gia | “Tiếng Việt” – Lưu Quang Vũ; đoạn theo A. L. Ghéc-xen, SGK Ngữ văn 11 | *Vợ nhặt* – Kim Lân | Không thấy | Không |
+| 2017 | THPT quốc gia | *Thiện, Ác và Smartphone* – Đặng Hoàng Giang, NXB Hội Nhà văn 2017 | *Đất Nước* – Nguyễn Khoa Điềm | Không thấy | Có: smartphone, đời sống số, thấu cảm thời internet |
+| 2018 | THPT quốc gia | “Đánh thức tiềm lực” – Nguyễn Duy | *Chiếc thuyền ngoài xa* – Nguyễn Minh Châu; liên hệ *Hai đứa trẻ* – Thạch Lam | Không thấy | Gián tiếp: phát triển đất nước/tiềm lực, không phải market/tech rõ |
+| 2019 | THPT quốc gia | “Trước biển” – Vũ Quần Phương | *Ai đã đặt tên cho dòng sông?* – Hoàng Phủ Ngọc Tường | Không thấy | Không |
+| 2020 | Tốt nghiệp THPT | Đọc hiểu về trân trọng cuộc sống mỗi ngày | *Đất Nước* – Nguyễn Khoa Điềm | Không thấy | Không |
+| 2021 | Tốt nghiệp THPT | Đọc hiểu về sống hết mình / cống hiến | *Sóng* – Xuân Quỳnh | Không thấy | Không |
+| 2022 | Tốt nghiệp THPT | Đọc hiểu về ý chí / nghị lực | *Chiếc thuyền ngoài xa* – Nguyễn Minh Châu | Không thấy | Không |
+| 2023 | Tốt nghiệp THPT | Đọc hiểu về cân bằng cảm xúc / bản lĩnh sống | *Vợ nhặt* – Kim Lân | Không thấy | Không |
+| 2024 | Tốt nghiệp THPT | “Dòng sông và những thế hệ của nước” – Nguyễn Quang Thiều | *Đất Nước* – Nguyễn Khoa Điềm | Không thấy | Không; thiên về thế hệ, nguồn cội |
+| 2025 | Tốt nghiệp THPT, CT GDPT 2018 | “Những vùng trời khác nhau” – Nguyễn Minh Châu | Cấu trúc mới, viết về văn bản/nhân vật trong cùng ngữ liệu | Không thấy | Không; chiến tranh, quê hương, Tổ quốc |
+
+Nguồn rà nhanh gồm Vietnamnet, VnExpress, Tuổi Trẻ, Lao Động, Đại Biểu Nhân Dân và các trang đăng ảnh/toàn văn đề. Một số năm nguồn đọc hiểu chưa có ảnh độ phân giải đủ để chốt từng dòng xuất xứ, nên bảng này nên đọc là **corpus check sơ bộ có nguồn báo**, chưa phải edition phê bình cuối cùng.
+
+Nhưng với câu hỏi chính, kết luận đủ dùng:
+
+```text
+2016–2025: chưa thấy Nhật ký trong tù hoặc tác phẩm Hồ Chí Minh xuất hiện trong đề chính thức môn Ngữ văn.
+```
+
+Điểm đáng chú ý hơn: không phải đề nào cũng “toàn cầu hóa/công nghệ hóa”. Giai đoạn 2016–2025 vẫn chủ yếu xoay quanh đời sống, bản lĩnh, đất nước, văn học Việt Nam hiện đại. Case tech rõ nhất trước 2026 là **2017 – Thiện, Ác và Smartphone**. 2026 vì vậy không phải sự xuất hiện đầu tiên của ngữ liệu đương đại/công nghệ, nhưng là một bước mạnh hơn vì nó nối trực tiếp:
+
+```text
+text công nghệ / platform discourse
+→ Spiderum publishing ecosystem
+→ Silicon Valley icons
+→ câu hỏi “Steve Jobs Việt Nam”
+```
+
+Nói chính xác hơn: không phải “đề gần đây tăng đều global-tech-market”. Evidence hiện có cho thấy **các điểm nhô**: 2017 smartphone, 2026 Code và Cát / AI / Silicon Valley. Pattern không phải đường thẳng tăng tuyến tính, mà là những lần ngữ liệu tech-aspiration được đưa vào ritual thi cử.
+
+---
 ## Research Leads / Chưa Đưa Thành Claim
 
 Các hướng cần kiểm chứng thêm:
@@ -313,8 +350,7 @@ Các hướng cần kiểm chứng thêm:
 Huskywannafly / Phan Tuấn có network cụ thể nào với các nhóm startup, khai phóng, Fulbright, Mr Pips hay không?
 Spiderum có overlap nhân sự / funding / truyền thông / event với các hệ sinh thái này không?
 Quy trình chọn ngữ liệu đề thi của Bộ GD&ĐT vận hành ra sao?
-Trong 2016–2025, Nhật ký trong tù và các tác phẩm Hồ Chí Minh xuất hiện/tần suất thế nào trong đề chính thức?
-Các đề gần đây có xu hướng tăng ngữ liệu đương đại/global-tech/market không?
+Có thể gom bản scan/PDF chính thức 2016–2026 để làm corpus edition sạch hơn không?
 ```
 
 Cho tới khi có nguồn, các điểm này là research leads. Không dùng như kết luận public.
