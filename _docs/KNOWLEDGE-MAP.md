@@ -7,7 +7,7 @@
 - **Notes scanned:** 209
 - **Top-level domains:** 8
 - **Tags detected:** 195
-- **Resolved internal edges:** 2084
+- **Resolved internal edges:** 2085
 - **Broken/unresolved links:** 5
 - **Orphan notes:** 9
 
@@ -105,7 +105,7 @@ Recommended note types:
 
 ### root `root` — 14 notes
 
-- [[index|Red Pill Wiki]] — degree `134`, backlinks `7`, outlinks `127` — #index, #navigation
+- [[index|Red Pill Wiki]] — degree `135`, backlinks `7`, outlinks `128` — #index, #navigation
 - [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `56`, backlinks `34`, outlinks `22` — #epistemology, #moc, #propaganda
 - [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `50`, backlinks `18`, outlinks `32` — #epistemology, #meta, #navigation
 - [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `47`, backlinks `30`, outlinks `17` — #health, #moc, #sovereignty
@@ -149,7 +149,7 @@ Recommended note types:
 
 High-degree notes are good candidates for hub/MOC treatment.
 
-1. [[index|Red Pill Wiki]] — degree `134` · backlinks `7` · outlinks `127`
+1. [[index|Red Pill Wiki]] — degree `135` · backlinks `7` · outlinks `128`
    - **Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn.
 2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `122` · backlinks `96` · outlinks `26`
    - **Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**

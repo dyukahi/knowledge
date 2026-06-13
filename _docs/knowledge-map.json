@@ -12,7 +12,7 @@
       "science-tech": 18
     },
     "tags": 195,
-    "wikilinkEdges": 2084,
+    "wikilinkEdges": 2085,
     "brokenLinks": 5,
     "orphans": 9
   },
@@ -12168,6 +12168,7 @@
         "wikilinks": [
           "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
           "AI",
+          "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
           "Ai Đứng Bên Kia Giao Dịch",
           "Annunaki",
           "Atlantis",
@@ -12417,6 +12418,7 @@
           "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
           "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
           "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
+          "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
           "science-tech/AI.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
@@ -12439,7 +12441,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 2892,
+        "words": 2907,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14651,10 +14653,11 @@
           "science-tech/AI.md"
         ],
         "backlinks": [
+          "index.md",
           "MOC - Science Revisionism.md",
           "science-tech/index.md"
         ],
-        "words": 2936,
+        "words": 3326,
         "summary": "**Bản quyền thắng người dùng lậu. Nhưng nó chưa chắc thắng được cái máy học từ tất cả mọi người.**"
       }
     ]
@@ -14713,6 +14716,7 @@
       "wikilinks": [
         "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
         "AI",
+        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "Ai Đứng Bên Kia Giao Dịch",
         "Annunaki",
         "Atlantis",
@@ -14962,6 +14966,7 @@
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
+        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
@@ -14984,7 +14989,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2892,
+      "words": 2907,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -28052,6 +28057,7 @@
       "wikilinks": [
         "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
         "AI",
+        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "Ai Đứng Bên Kia Giao Dịch",
         "Annunaki",
         "Atlantis",
@@ -28301,6 +28307,7 @@
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
+        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
@@ -28323,7 +28330,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 2892,
+      "words": 2907,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
@@ -32433,10 +32440,11 @@
         "science-tech/AI.md"
       ],
       "backlinks": [
+        "index.md",
         "MOC - Science Revisionism.md",
         "science-tech/index.md"
       ],
-      "words": 2936,
+      "words": 3326,
       "summary": "**Bản quyền thắng người dùng lậu. Nhưng nó chưa chắc thắng được cái máy học từ tất cả mọi người.**"
     },
     "science-tech/AI.md": {
