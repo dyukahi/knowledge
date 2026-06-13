@@ -76,14 +76,19 @@ trò chơi điện tử trên môi trường mạng
 
 Nói cách khác: cái từng nằm trong vùng xám của thói quen giờ được kéo vào vùng sáng của quản trị.
 
-Với phần mềm, khung pháp lý hình sự cũng không phải chuyện tưởng tượng. Điều 225 Bộ luật Hình sự Việt Nam xử lý hành vi xâm phạm quyền tác giả, quyền liên quan khi đủ yếu tố quy mô/thiệt hại/lợi bất chính. Không nên vội khẳng định mọi cửa hàng cài Windows lậu sẽ bị hình sự hóa, nhưng có thể nói chính xác hơn:
+Với phần mềm, khung pháp lý hình sự không còn là chuyện giả định. Ngày 11/6/2026, theo Công an tỉnh Phú Thọ được Cổng Thông tin điện tử Chính phủ đăng lại, Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ đã khởi tố vụ án hình sự về “Tội xâm phạm quyền tác giả, quyền liên quan” theo Điều 225 Bộ luật Hình sự, liên quan đến hành vi sử dụng trái phép phần mềm máy tính có bản quyền.
+
+Bài đăng gọi đây là vụ án đầu tiên trên phạm vi cả nước được khởi tố liên quan đến hành vi sử dụng trái phép phần mềm máy tính có bản quyền. Case cụ thể: Công ty TNHH Thương mại và Dịch vụ Sông Lam ở Phú Thọ bị xác định đã cung cấp 81 máy tính cho nhiều doanh nghiệp, đơn vị; các máy này được cài sẵn Windows và Microsoft Office có dấu hiệu sử dụng công cụ kích hoạt trái phép như crack, key lậu, activator. Cơ quan điều tra đồng thời khám xét 5 địa điểm tại Hà Nội và Phú Thọ, rồi mở rộng xác minh tại một cơ sở giáo dục có thêm 350 máy tính có dấu hiệu tương tự.
+
+Chi tiết này làm cú sốc rõ hơn:
 
 ```text
-khi enforcement đi từ nhắc nhở/hành chính sang logic điều tra quy mô thương mại,
-thói quen cài phần mềm lậu không còn là chuyện kỹ thuật nhỏ.
+thói quen cài Windows/Office lậu
+không còn chỉ là chuyện kỹ thuật nhỏ ở tiệm máy tính
+mà đã bước vào logic điều tra hình sự khi đủ quy mô và yếu tố thương mại
 ```
 
-Nó trở thành rủi ro pháp lý.
+Nó trở thành rủi ro pháp lý thật.
 
 ---
 ## 2. Khi Quán Cà Phê Cũng Thành Điểm Thu Phí
@@ -393,11 +398,11 @@ cái gì trong bạn không thể bị model hóa thành output rẻ tiền?
 - U.S. Copyright Office, *Copyright and Artificial Intelligence* initiative. Part 2: *Copyrightability* published 29/01/2025; Part 3 pre-publication on generative AI training released 09/05/2025.
 - VCPMC website: thủ tục cấp phép, loại hình sử dụng, biểu mức; VCPMC là tổ chức quản lý tập thể quyền tác giả âm nhạc tại Việt Nam.
 - VCPMC repost/news, “Bộ Văn hóa, Thể thao và Du lịch tăng cường kiểm tra, xử lý vi phạm bản quyền”, về kế hoạch triển khai Công điện 38/CĐ-TTg 2026, tập trung kiểm tra quyền tác giả/quyền liên quan, gồm chương trình máy tính, phim, âm nhạc, truyền hình, trò chơi điện tử trên môi trường mạng.
+- Cổng Thông tin điện tử Chính phủ, “Lần đầu tiên KHỞI TỐ vụ án dùng Windows, Microsoft Office lậu”, dẫn Công an tỉnh Phú Thọ: ngày 11/6/2026 khởi tố vụ án hình sự theo Điều 225 Bộ luật Hình sự; case Công ty TNHH Thương mại và Dịch vụ Sông Lam cung cấp 81 máy tính cài Windows/Office có dấu hiệu dùng crack/key lậu/activator, mở rộng thêm 350 máy tại một cơ sở giáo dục.
 - VCPMC repost/news, “Thêm công cụ mới giúp phát hiện vi phạm bản quyền trong tác phẩm âm nhạc AI”, về Musixmatch Sentinel và rủi ro nội dung AI dùng lời bài hát/tác phẩm có bản quyền.
 - Khung pháp lý Việt Nam: Điều 225 Bộ luật Hình sự về tội xâm phạm quyền tác giả, quyền liên quan. Bài này không khẳng định mọi case phần mềm lậu đều bị hình sự hóa; chỉ dùng như legal anchor cho khả năng enforcement khi đủ yếu tố.
 
 ## Research Leads Chưa Đưa Thành Fact
 
-- Claim “công ty bán máy tính bị xử lý hình sự vì cài Windows lậu” cần case/source cụ thể nếu muốn nêu tên vụ việc.
 - Claim “Claude Fable 5 bị Mỹ cấm xuất khẩu” chưa được xác minh trong lần kiểm tra này; không đưa vào thân bài như fact.
 - Cần thêm số liệu cụ thể về mức phí âm nhạc theo diện tích/quy mô nếu muốn viết bài follow-up riêng về VCPMC và public performance rights tại Việt Nam.
