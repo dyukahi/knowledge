@@ -1,6 +1,6 @@
 {
   "stats": {
-    "notes": 208,
+    "notes": 209,
     "domains": {
       "_docs": 7,
       "root": 14,
@@ -9,10 +9,10 @@
       "health": 27,
       "mental-models": 29,
       "politics-conspiracy": 27,
-      "science-tech": 17
+      "science-tech": 18
     },
-    "tags": 193,
-    "wikilinkEdges": 2080,
+    "tags": 195,
+    "wikilinkEdges": 2084,
     "brokenLinks": 5,
     "orphans": 9
   },
@@ -8600,6 +8600,7 @@
           "mental-models/index.md",
           "MOC - Market Psychology & Risk.md",
           "MOC - Science Revisionism.md",
+          "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
           "science-tech/AI.md",
           "science-tech/index.md",
           "science-tech/Khoa Học Xét Lại.md"
@@ -12090,6 +12091,7 @@
           "2024: Ký Ức Được Mỹ Học Hóa",
           "2025: Chiến Tranh Và Tổ Quốc Được Cảm Xúc Hóa",
           "2026: Khát Vọng Quốc Gia Được American-Tech Hóa",
+          "Câu Hỏi Sai Về Thiên Tài",
           "Chuỗi 2024–2026: Không Xóa, Mà Đổi Hệ Điều Hành Cảm Xúc",
           "Từ National Synthesis Sang Global Integration",
           "American Egypt: Empire Không Cần Bạn Thờ Pharaoh",
@@ -12108,7 +12110,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 3446,
+        "words": 4375,
         "summary": "Một quốc gia không cần xóa lịch sử."
       }
     ],
@@ -12898,6 +12900,7 @@
         ],
         "wikilinks": [
           "AI",
+          "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
           "Bộ Não Rỗng và AI Brain Rot",
           "Cách Đọc Red Pill Wiki",
           "Digital ID Normalization - From Instagram to Government ID",
@@ -12930,6 +12933,7 @@
           "MOC - Health Sovereignty.md",
           "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
           "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+          "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
           "science-tech/AI.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
@@ -12962,7 +12966,7 @@
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
           "science-tech/Walter Russell.md"
         ],
-        "words": 597,
+        "words": 612,
         "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
       },
       {
@@ -13651,6 +13655,7 @@
         ],
         "wikilinks": [
           "AI",
+          "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
           "Báo Cáo 2030",
           "Bão Từ Bắc Cực vs Bão Mặt Trời",
           "Bộ Não Rỗng và AI Brain Rot",
@@ -13705,6 +13710,7 @@
           "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+          "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
           "science-tech/AI.md",
           "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
@@ -13729,7 +13735,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 911,
+        "words": 946,
         "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
       },
       {
@@ -13986,6 +13992,7 @@
           "index.md",
           "mental-models/index.md",
           "MOC - Science Revisionism.md",
+          "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
           "science-tech/index.md",
           "science-tech/Khoa Học Xét Lại.md"
@@ -14602,6 +14609,53 @@
         ],
         "words": 930,
         "summary": "**Transhumanism được bán như tự do nâng cấp bản thân. Nhưng nếu hạ tầng nâng cấp nằm trong tay Big Tech, military, insurance, employer và state, câu hỏi không còn là “con người có nên mạnh hơn không?” Câu hỏi là: ai sở hữu layer nằm giữa cơ thể, tâm trí và má…"
+      },
+      {
+        "path": "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
+        "title": "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
+        "domain": "science-tech",
+        "tags": [
+          "ai",
+          "digital-economy",
+          "intellectual-property",
+          "science-tech"
+        ],
+        "aliases": [
+          "AI And Copyright",
+          "AI Và Bản Quyền",
+          "The Death of Industrial Copyright"
+        ],
+        "headings": [
+          "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
+          "Evidence Discipline / Cách Đọc",
+          "1. Cú Sốc Bản Quyền Muộn",
+          "2. Khi Quán Cà Phê Cũng Thành Điểm Thu Phí",
+          "3. Bản Quyền Như Toll Gate Của Đời Sống Số",
+          "4. AI Xuất Hiện Như Vùng Xám",
+          "5. Quán Cà Phê Mở Nhạc AI",
+          "6. Phần Mềm Bản Quyền Và Cú Đánh Từ “Vừa Đủ Dùng”",
+          "7. Piracy Metaphysical",
+          "8. Bản Quyền Thắng Người Dùng, Nhưng Gặp AI",
+          "9. Người Sáng Tạo Sẽ Chết Không?",
+          "10. Chốt",
+          "Nguồn / Research Notes",
+          "Research Leads Chưa Đưa Thành Fact"
+        ],
+        "wikilinks": [
+          "AI",
+          "Bộ Não Rỗng và AI Brain Rot"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "science-tech/AI.md"
+        ],
+        "backlinks": [
+          "MOC - Science Revisionism.md",
+          "science-tech/index.md"
+        ],
+        "words": 2936,
+        "summary": "**Bản quyền thắng người dùng lậu. Nhưng nó chưa chắc thắng được cái máy học từ tất cả mọi người.**"
       }
     ]
   },
@@ -16976,6 +17030,7 @@
       ],
       "wikilinks": [
         "AI",
+        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "Bộ Não Rỗng và AI Brain Rot",
         "Cách Đọc Red Pill Wiki",
         "Digital ID Normalization - From Instagram to Government ID",
@@ -17008,6 +17063,7 @@
         "MOC - Health Sovereignty.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
@@ -17040,7 +17096,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
         "science-tech/Walter Russell.md"
       ],
-      "words": 597,
+      "words": 612,
       "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
     },
     {
@@ -17074,6 +17130,7 @@
       ],
       "wikilinks": [
         "AI",
+        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "Báo Cáo 2030",
         "Bão Từ Bắc Cực vs Bão Mặt Trời",
         "Bộ Não Rỗng và AI Brain Rot",
@@ -17128,6 +17185,7 @@
         "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
@@ -17152,7 +17210,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 911,
+      "words": 946,
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
     },
     {
@@ -18481,7 +18539,7 @@
     ],
     [
       "science-tech",
-      34
+      35
     ],
     [
       "health",
@@ -18596,6 +18654,10 @@
       4
     ],
     [
+      "ai",
+      4
+    ],
+    [
       "mind-control",
       4
     ],
@@ -18617,10 +18679,6 @@
     ],
     [
       "cbdc",
-      3
-    ],
-    [
-      "ai",
       3
     ],
     [
@@ -19751,6 +19809,7 @@
       ],
       "wikilinks": [
         "AI",
+        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "Bộ Não Rỗng và AI Brain Rot",
         "Cách Đọc Red Pill Wiki",
         "Digital ID Normalization - From Instagram to Government ID",
@@ -19783,6 +19842,7 @@
         "MOC - Health Sovereignty.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
@@ -19815,7 +19875,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
         "science-tech/Walter Russell.md"
       ],
-      "words": 597,
+      "words": 612,
       "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
     },
     "README.md": {
@@ -28428,6 +28488,7 @@
         "mental-models/index.md",
         "MOC - Market Psychology & Risk.md",
         "MOC - Science Revisionism.md",
+        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/index.md",
         "science-tech/Khoa Học Xét Lại.md"
@@ -32309,6 +32370,7 @@
         "2024: Ký Ức Được Mỹ Học Hóa",
         "2025: Chiến Tranh Và Tổ Quốc Được Cảm Xúc Hóa",
         "2026: Khát Vọng Quốc Gia Được American-Tech Hóa",
+        "Câu Hỏi Sai Về Thiên Tài",
         "Chuỗi 2024–2026: Không Xóa, Mà Đổi Hệ Điều Hành Cảm Xúc",
         "Từ National Synthesis Sang Global Integration",
         "American Egypt: Empire Không Cần Bạn Thờ Pharaoh",
@@ -32327,8 +32389,55 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 3446,
+      "words": 4375,
       "summary": "Một quốc gia không cần xóa lịch sử."
+    },
+    "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md": {
+      "path": "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
+      "title": "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
+      "domain": "science-tech",
+      "tags": [
+        "ai",
+        "digital-economy",
+        "intellectual-property",
+        "science-tech"
+      ],
+      "aliases": [
+        "AI And Copyright",
+        "AI Và Bản Quyền",
+        "The Death of Industrial Copyright"
+      ],
+      "headings": [
+        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
+        "Evidence Discipline / Cách Đọc",
+        "1. Cú Sốc Bản Quyền Muộn",
+        "2. Khi Quán Cà Phê Cũng Thành Điểm Thu Phí",
+        "3. Bản Quyền Như Toll Gate Của Đời Sống Số",
+        "4. AI Xuất Hiện Như Vùng Xám",
+        "5. Quán Cà Phê Mở Nhạc AI",
+        "6. Phần Mềm Bản Quyền Và Cú Đánh Từ “Vừa Đủ Dùng”",
+        "7. Piracy Metaphysical",
+        "8. Bản Quyền Thắng Người Dùng, Nhưng Gặp AI",
+        "9. Người Sáng Tạo Sẽ Chết Không?",
+        "10. Chốt",
+        "Nguồn / Research Notes",
+        "Research Leads Chưa Đưa Thành Fact"
+      ],
+      "wikilinks": [
+        "AI",
+        "Bộ Não Rỗng và AI Brain Rot"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "science-tech/AI.md"
+      ],
+      "backlinks": [
+        "MOC - Science Revisionism.md",
+        "science-tech/index.md"
+      ],
+      "words": 2936,
+      "summary": "**Bản quyền thắng người dùng lậu. Nhưng nó chưa chắc thắng được cái máy học từ tất cả mọi người.**"
     },
     "science-tech/AI.md": {
       "path": "science-tech/AI.md",
@@ -32383,6 +32492,7 @@
         "index.md",
         "mental-models/index.md",
         "MOC - Science Revisionism.md",
+        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/index.md",
         "science-tech/Khoa Học Xét Lại.md"
@@ -33389,6 +33499,7 @@
       ],
       "wikilinks": [
         "AI",
+        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "Báo Cáo 2030",
         "Bão Từ Bắc Cực vs Bão Mặt Trời",
         "Bộ Não Rỗng và AI Brain Rot",
@@ -33443,6 +33554,7 @@
         "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
@@ -33467,7 +33579,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 911,
+      "words": 946,
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
     }
   }

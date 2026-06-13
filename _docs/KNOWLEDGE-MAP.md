@@ -4,10 +4,10 @@
 
 ## Snapshot
 
-- **Notes scanned:** 208
+- **Notes scanned:** 209
 - **Top-level domains:** 8
-- **Tags detected:** 193
-- **Resolved internal edges:** 2080
+- **Tags detected:** 195
+- **Resolved internal edges:** 2084
 - **Broken/unresolved links:** 5
 - **Orphan notes:** 9
 
@@ -46,7 +46,7 @@ Recommended note types:
 - [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `38`, backlinks `29`, outlinks `9` — #consciousness, #jung, #mental-model
 - [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]] — degree `35`, backlinks `29`, outlinks `6` — #consciousness, #mental-model
 - [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]] — degree `30`, backlinks `23`, outlinks `7` — #consciousness, #jung, #mental-model, #psychology
-- [[mental-models/Bộ Não Rỗng và AI Brain Rot|Walter Russell]] — degree `26`, backlinks `9`, outlinks `17` — #science-tech
+- [[mental-models/Bộ Não Rỗng và AI Brain Rot|Walter Russell]] — degree `27`, backlinks `10`, outlinks `17` — #science-tech
 - [[mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính|Walter Russell]] — degree `26`, backlinks `2`, outlinks `24` — #science-tech
 - [[mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — degree `25`, backlinks `17`, outlinks `8` — #matrix, #mental-model, #psychology, #social-media
 - [[mental-models/Trí Tuệ|Trí Tuệ]] — degree `25`, backlinks `19`, outlinks `6` — #mental-model, #philosophy
@@ -87,21 +87,21 @@ Recommended note types:
 - [[politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ|Nam Cực - Bí Mật Được Canh Giữ]] — degree `20`, backlinks `8`, outlinks `12` — #antarctica, #conspiracy, #elite, #flat-earth, #nazi
 - … 15 more notes in this domain. See JSON for full list.
 
-### Science & Tech `science-tech` — 17 notes
+### Science & Tech `science-tech` — 18 notes
 
 - [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]] — degree `78`, backlinks `52`, outlinks `26` — #epistemology, #revisionist-science, #science-tech
-- [[science-tech/index|Science & Tech Domain Gateway]] — degree `39`, backlinks `5`, outlinks `34` — #domain-gateway, #revisionist-science, #science-tech
+- [[science-tech/index|Science & Tech Domain Gateway]] — degree `40`, backlinks `5`, outlinks `35` — #domain-gateway, #revisionist-science, #science-tech
 - [[science-tech/Năng Lượng Aether|Năng Lượng Aether]] — degree `28`, backlinks `22`, outlinks `6` — #revisionist-science, #science-tech
 - [[science-tech/Nikola Tesla|Nikola Tesla]] — degree `26`, backlinks `19`, outlinks `7` — #science-tech
 - [[science-tech/Tần Số Schumann|Tần Số Schumann (Schumann Resonance)]] — degree `22`, backlinks `14`, outlinks `8` — #consciousness, #earth-frequency, #science-tech
-- [[science-tech/AI|AI]] — degree `17`, backlinks `11`, outlinks `6` — #consciousness, #esoterica, #science-tech
+- [[science-tech/AI|AI]] — degree `18`, backlinks `12`, outlinks `6` — #consciousness, #esoterica, #science-tech
 - [[science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ|Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]] — degree `16`, backlinks `6`, outlinks `10` — #1, #2, #3, #4, #5
 - [[science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại|Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]] — degree `13`, backlinks `2`, outlinks `11` — #ai, #atula, #buddhism, #karma, #occult
 - [[science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad|Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]] — degree `13`, backlinks `4`, outlinks `9` — #awakening, #long-mach, #monad, #natural-disasters, #philosophy
 - [[science-tech/Vũ Khí Năng Lượng Định Hướng|Vũ Khí Năng Lượng Định Hướng]] — degree `13`, backlinks `9`, outlinks `4` — #defense-tech, #revisionist-science, #science-tech
 - [[science-tech/Walter Russell|Walter Russell]] — degree `13`, backlinks `7`, outlinks `6` — #science-tech
 - [[science-tech/Digital ID Normalization - From Instagram to Government ID|Digital ID Normalization - From Instagram to Government ID]] — degree `12`, backlinks `12`, outlinks `0` — #agenda-2030, #digital-id, #generation, #psychology, #science-tech
-- … 5 more notes in this domain. See JSON for full list.
+- … 6 more notes in this domain. See JSON for full list.
 
 ### root `root` — 14 notes
 
@@ -110,7 +110,7 @@ Recommended note types:
 - [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `50`, backlinks `18`, outlinks `32` — #epistemology, #meta, #navigation
 - [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `47`, backlinks `30`, outlinks `17` — #health, #moc, #sovereignty
 - [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `43`, backlinks `14`, outlinks `29` — #consciousness, #esoterica, #moc
-- [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `40`, backlinks `21`, outlinks `19` — #moc, #revisionist-science, #science-tech
+- [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `41`, backlinks `21`, outlinks `20` — #moc, #revisionist-science, #science-tech
 - [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `35`, backlinks `18`, outlinks `17` — #crypto-finance, #moc, #sovereignty
 - [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]] — degree `31`, backlinks `11`, outlinks `20` — #esoterica, #hidden-history, #moc
 - [[Glossary - Từ Điển Red Pill Wiki|Glossary - Từ Điển Red Pill Wiki]] — degree `24`, backlinks `2`, outlinks `22` — #glossary, #meta, #navigation
@@ -183,9 +183,9 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…
 17. [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `43` · backlinks `4` · outlinks `39`
    - **Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng "âm…
-18. [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `40` · backlinks `21` · outlinks `19`
+18. [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `41` · backlinks `21` · outlinks `20`
    - **Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…
-19. [[science-tech/index|Science & Tech Domain Gateway]] — degree `39` · backlinks `5` · outlinks `34`
+19. [[science-tech/index|Science & Tech Domain Gateway]] — degree `40` · backlinks `5` · outlinks `35`
    - **Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…
 20. [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `38` · backlinks `29` · outlinks `9`
    - **Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…
@@ -193,7 +193,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 ## Tag Constellations
 
 - `#esoterica` — 81 notes: [[esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí|33 Tầng Bậc - Ngôi Đền Trong Tâm Trí]]; [[esoterica/AI Và Câu Hỏi Về Ý Thức|AI Và Câu Hỏi Về Ý Thức]]; [[esoterica/Annunaki|Annunaki]]; [[esoterica/Atlantis|Atlantis]]; [[esoterica/Atula|Atula (Asura)]]
-- `#science-tech` — 34 notes: [[esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể|Walter Russell]]; [[esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas|Walter Russell]]; [[esoterica/Dịch Chuyển Cực|Dịch Chuyển Cực (Pole Shift)]]; [[esoterica/Một Đời Phù Vân|Walter Russell]]; [[esoterica/Năng Lượng Natri|Năng Lượng Natri (Sodium Energy)]]
+- `#science-tech` — 35 notes: [[esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể|Walter Russell]]; [[esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas|Walter Russell]]; [[esoterica/Dịch Chuyển Cực|Dịch Chuyển Cực (Pole Shift)]]; [[esoterica/Một Đời Phù Vân|Walter Russell]]; [[esoterica/Năng Lượng Natri|Năng Lượng Natri (Sodium Energy)]]
 - `#health` — 29 notes: [[esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ|Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ]]; [[health/Bệnh Bạch Cầu|Bệnh Bạch Cầu]]; [[health/Công Thức Chữa Lành Tự Nhiên|Công Thức Chữa Lành Tự Nhiên]]; [[health/Cơ Chế Tự Bảo Vệ Của Cơ Thể|Cơ Chế Tự Bảo Vệ Của Cơ Thể]]; [[health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh|Giải Mã Vũ Trụ - Y Tế - Tâm Linh]]
 - `#mental-model` — 28 notes: [[crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền|Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]; [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]]; [[health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận|Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận]]; [[mental-models/Chia Tách Bởi Nhị Nguyên|Chia Tách Bởi Nhị Nguyên]]; [[mental-models/Climate Anxiety as Control - Fear-Based Compliance|Climate Anxiety as Control - Fear-Based Compliance]]
 - `#consciousness` — 28 notes: [[esoterica/Atula|Atula (Asura)]]; [[esoterica/Avatar - Disclosure Của Eywa & Gaia|Avatar - Disclosure Của Eywa & Gaia]]; [[esoterica/Chakra|Chakra (Luân Xa)]]; [[esoterica/Gaia - Trái Đất Có Ý Thức|Gaia - Trái Đất Có Ý Thức]]; [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]]
@@ -222,13 +222,13 @@ High-degree notes are good candidates for hub/MOC treatment.
 - `#privacy` — 4 notes: [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]]; [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]]; [[crypto-finance/Tiền Giấy - Tiền Mặt|Tiền Giấy - Tiền Mặt (Fiat Currency)]]; [[mental-models/Privacy Is The New Wealth|Privacy Is The New Wealth]]
 - `#dopamine` — 4 notes: [[crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền|Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]; [[mental-models/Schadenfreude - Dopamine Phản Diện|Schadenfreude - Dopamine Phản Diện]]; [[politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm|Sự Thật Đen Tối Về Phim Khiêu Dâm]]; [[science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z|TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]
 - `#navigation` — 4 notes: [[Current Events Lab - Phòng Thí Nghiệm Sự Kiện|Current Events Lab - Phòng Thí Nghiệm Sự Kiện]]; [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]]; [[Glossary - Từ Điển Red Pill Wiki|Glossary - Từ Điển Red Pill Wiki]]; [[index|Red Pill Wiki]]
+- `#ai` — 4 notes: [[esoterica/AI Và Câu Hỏi Về Ý Thức|AI Và Câu Hỏi Về Ý Thức]]; [[science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp|AI Và Cái Chết Của Bản Quyền Công Nghiệp]]; [[science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại|Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]]; [[science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope|Transhumanism và Gen Z - Cool Tech hay Slippery Slope]]
 - `#mind-control` — 4 notes: [[esoterica/Gematria|Gematria — Ngôn Ngữ Bí Mật Của Số]]; [[esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]; [[esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ|Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ]]; [[esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy|Word Magic - Ngôn Ngữ Của Phù Thủy]]
 - `#gnosis` — 4 notes: [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]]; [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]]; [[esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện|Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]]; [[esoterica/Tà Linh|Tà Linh]]
 - `#awakening` — 4 notes: [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]]; [[health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận|Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận]]; [[health/Vận Chín, Người Kogi và Ma Trận Y Tế|Vận Chín, Người Kogi và Ma Trận Y Tế]]; [[science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad|Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]]
 - `#jung` — 4 notes: [[esoterica/Soulmate vs Lover - Anatomy Của Kết Nối|Soulmate vs Lover — Anatomy Của Kết Nối]]; [[mental-models/Individuation|Individuation]]; [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]]; [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]]
 - `#cancer` — 4 notes: [[health/Bệnh Bạch Cầu|Bệnh Bạch Cầu]]; [[health/Ketogenic Diet|Ketogenic Diet]]; [[health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư|Mebendazole — Thuốc Tẩy Giun Chống Ung Thư]]; [[health/Ung Thư - Metabolic Protocol|Ung Thư — Metabolic Protocol]]
 - `#cbdc` — 3 notes: [[crypto-finance/Chainlink - Mắt Xích Của Tokenized World|Chainlink - Mắt Xích Của Tokenized World]]; [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]]; [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]]
-- `#ai` — 3 notes: [[esoterica/AI Và Câu Hỏi Về Ý Thức|AI Và Câu Hỏi Về Ý Thức]]; [[science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại|Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]]; [[science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope|Transhumanism và Gen Z - Cool Tech hay Slippery Slope]]
 - `#buddhism` — 3 notes: [[esoterica/Atula|Atula (Asura)]]; [[esoterica/Núi Tu Di|Núi Tu Di]]; [[science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại|Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]]
 - `#feng-shui` — 3 notes: [[esoterica/Bản Đồ Năng Lượng Đất Mẹ|Bản Đồ Năng Lượng Đất Mẹ]]; [[esoterica/Phong Thủy|Phong Thủy]]; [[esoterica/Vận Chín|Vận Chín (Period 9)]]
 - `#power-structure` — 3 notes: [[esoterica/Cabal|Cabal (Thế Lực Ngầm)]]; [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]]; [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]]
@@ -261,9 +261,9 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[health/Kính Chiếu Yêu - Nhìn Thấu Tây Y|Kính Chiếu Yêu — Nhìn Thấu Tây Y]]
 - [[health/René Quinton và Huyết Tương Biển|René Quinton và Huyết Tương Biển]]
 - [[science-tech/Tần Số Schumann|Tần Số Schumann (Schumann Resonance)]]
+- [[science-tech/AI|AI]]
 - [[health/Cơ Chế Tự Bảo Vệ Của Cơ Thể|Cơ Chế Tự Bảo Vệ Của Cơ Thể]]
 - [[science-tech/Digital ID Normalization - From Instagram to Government ID|Digital ID Normalization - From Instagram to Government ID]]
-- [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]]
 
 ### MOC - Epistemology & Propaganda
 
