@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 209,
+    "notes": 210,
     "domains": {
       "_docs": 7,
       "root": 14,
       "crypto-finance": 13,
       "esoterica": 74,
       "health": 27,
-      "mental-models": 29,
+      "mental-models": 30,
       "politics-conspiracy": 27,
       "science-tech": 18
     },
-    "tags": 195,
-    "wikilinkEdges": 2085,
+    "tags": 196,
+    "wikilinkEdges": 2088,
     "brokenLinks": 5,
     "orphans": 9
   },
@@ -8175,6 +8175,7 @@
           "Chia Tách Bởi Nhị Nguyên",
           "Climate Anxiety as Control - Fear-Based Compliance",
           "crypto-finance/index",
+          "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
           "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
           "esoterica/index",
           "Gen Z - Phân Tích Phản Biện",
@@ -8224,6 +8225,7 @@
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Chia Tách Bởi Nhị Nguyên.md",
           "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+          "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/Individuation.md",
@@ -8261,7 +8263,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1039,
+        "words": 1074,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -8596,6 +8598,7 @@
         "backlinks": [
           "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
           "index.md",
+          "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/index.md",
           "MOC - Market Psychology & Risk.md",
@@ -10069,6 +10072,51 @@
         ],
         "words": 921,
         "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
+      },
+      {
+        "path": "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+        "title": "Cái Gì Trong Bạn Không Thể Bị Model Hóa?",
+        "domain": "mental-models",
+        "tags": [
+          "ai",
+          "attention",
+          "creativity",
+          "discernment",
+          "mental-models",
+          "sovereignty"
+        ],
+        "aliases": [
+          "Cái Gì Không Thể Bị Model Hóa",
+          "Human Value After Output Collapse",
+          "What Cannot Be Modeled?"
+        ],
+        "headings": [
+          "Cái Gì Trong Bạn Không Thể Bị Model Hóa?",
+          "1. Output Collapse",
+          "2. Model Hóa Không Giống Hiểu",
+          "3. Taste Là Bộ Lọc Của Linh Hồn",
+          "4. Discernment: Khả Năng Thấy Cái Không Được Nói",
+          "5. Lived Experience: Phần Đã Được Sống",
+          "6. Moral Stance: Bạn Đứng Ở Đâu?",
+          "7. Symbolic Depth: Khả Năng Nối Tầng",
+          "8. Attention Sovereignty: Không Bị Kéo Đi",
+          "9. The Last Scarcity",
+          "10. Vậy Cái Gì Không Thể Bị Model Hóa Rẻ Tiền?",
+          "11. Chốt"
+        ],
+        "wikilinks": [
+          "Bộ Não Rỗng và AI Brain Rot"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md"
+        ],
+        "words": 2160,
+        "summary": "Một thời gian dài, xã hội đo con người bằng output."
       }
     ],
     "politics-conspiracy": [
@@ -12189,6 +12237,7 @@
           "crypto-finance/index",
           "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
           "Cách Đọc Red Pill Wiki",
+          "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
           "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
           "Digital ID Normalization - From Instagram to Government ID",
           "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
@@ -12377,6 +12426,7 @@
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+          "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/index.md",
@@ -12442,7 +12492,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 3028,
+        "words": 3081,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14658,7 +14708,7 @@
           "MOC - Science Revisionism.md",
           "science-tech/index.md"
         ],
-        "words": 3326,
+        "words": 3340,
         "summary": "**Bản quyền thắng người dùng lậu. Nhưng nó chưa chắc thắng được cái máy học từ tất cả mọi người.**"
       }
     ]
@@ -14738,6 +14788,7 @@
         "crypto-finance/index",
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
         "Cách Đọc Red Pill Wiki",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
         "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
         "Digital ID Normalization - From Instagram to Government ID",
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
@@ -14926,6 +14977,7 @@
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/index.md",
@@ -14991,7 +15043,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 3028,
+      "words": 3081,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -16578,6 +16630,7 @@
         "Chia Tách Bởi Nhị Nguyên",
         "Climate Anxiety as Control - Fear-Based Compliance",
         "crypto-finance/index",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "esoterica/index",
         "Gen Z - Phân Tích Phản Biện",
@@ -16627,6 +16680,7 @@
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/Individuation.md",
@@ -16664,7 +16718,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1039,
+      "words": 1074,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
@@ -18582,7 +18636,7 @@
     ],
     [
       "sovereignty",
-      9
+      10
     ],
     [
       "source-note",
@@ -18641,6 +18695,10 @@
       5
     ],
     [
+      "ai",
+      5
+    ],
+    [
       "occult",
       5
     ],
@@ -18658,10 +18716,6 @@
     ],
     [
       "navigation",
-      4
-    ],
-    [
-      "ai",
       4
     ],
     [
@@ -18761,6 +18815,10 @@
       2
     ],
     [
+      "discernment",
+      2
+    ],
+    [
       "non-duality",
       2
     ],
@@ -18774,6 +18832,14 @@
     ],
     [
       "minerals",
+      2
+    ],
+    [
+      "attention",
+      2
+    ],
+    [
+      "mental-models",
       2
     ],
     [
@@ -18897,10 +18963,6 @@
       1
     ],
     [
-      "discernment",
-      1
-    ],
-    [
       "relationships",
       1
     ],
@@ -18930,14 +18992,6 @@
     ],
     [
       "mount-meru",
-      1
-    ],
-    [
-      "taoism",
-      1
-    ],
-    [
-      "jesus",
       1
     ]
   ],
@@ -28080,6 +28134,7 @@
         "crypto-finance/index",
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
         "Cách Đọc Red Pill Wiki",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
         "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
         "Digital ID Normalization - From Instagram to Government ID",
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
@@ -28268,6 +28323,7 @@
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/index.md",
@@ -28333,7 +28389,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 3028,
+      "words": 3081,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
@@ -28494,6 +28550,7 @@
       "backlinks": [
         "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
         "index.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/index.md",
         "MOC - Market Psychology & Risk.md",
@@ -28664,6 +28721,51 @@
       ],
       "words": 921,
       "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
+    },
+    "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md": {
+      "path": "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+      "title": "Cái Gì Trong Bạn Không Thể Bị Model Hóa?",
+      "domain": "mental-models",
+      "tags": [
+        "ai",
+        "attention",
+        "creativity",
+        "discernment",
+        "mental-models",
+        "sovereignty"
+      ],
+      "aliases": [
+        "Cái Gì Không Thể Bị Model Hóa",
+        "Human Value After Output Collapse",
+        "What Cannot Be Modeled?"
+      ],
+      "headings": [
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa?",
+        "1. Output Collapse",
+        "2. Model Hóa Không Giống Hiểu",
+        "3. Taste Là Bộ Lọc Của Linh Hồn",
+        "4. Discernment: Khả Năng Thấy Cái Không Được Nói",
+        "5. Lived Experience: Phần Đã Được Sống",
+        "6. Moral Stance: Bạn Đứng Ở Đâu?",
+        "7. Symbolic Depth: Khả Năng Nối Tầng",
+        "8. Attention Sovereignty: Không Bị Kéo Đi",
+        "9. The Last Scarcity",
+        "10. Vậy Cái Gì Không Thể Bị Model Hóa Rẻ Tiền?",
+        "11. Chốt"
+      ],
+      "wikilinks": [
+        "Bộ Não Rỗng và AI Brain Rot"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md"
+      ],
+      "words": 2160,
+      "summary": "Một thời gian dài, xã hội đo con người bằng output."
     },
     "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md": {
       "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -30272,6 +30374,7 @@
         "Chia Tách Bởi Nhị Nguyên",
         "Climate Anxiety as Control - Fear-Based Compliance",
         "crypto-finance/index",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "esoterica/index",
         "Gen Z - Phân Tích Phản Biện",
@@ -30321,6 +30424,7 @@
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/Individuation.md",
@@ -30358,7 +30462,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1039,
+      "words": 1074,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
@@ -32447,7 +32551,7 @@
         "MOC - Science Revisionism.md",
         "science-tech/index.md"
       ],
-      "words": 3326,
+      "words": 3340,
       "summary": "**Bản quyền thắng người dùng lậu. Nhưng nó chưa chắc thắng được cái máy học từ tất cả mọi người.**"
     },
     "science-tech/AI.md": {

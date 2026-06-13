@@ -88,10 +88,11 @@ Orientation: this bridge links psychology to politics, finance and tech. It asks
 Orientation: for readers dealing with algorithmic worldview, AI dependence and attention collapse. The route keeps intelligence under human command.
 
 1. [[Bộ Não Rỗng và AI Brain Rot]] — diagnose cognitive offload.
-2. [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — study algorithmic worldview shaping.
-3. [[AI]] — place machine intelligence in the larger agency question.
-4. [[Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]] — read AI as civilizational and spiritual test.
-5. [[Thông Minh vs Trí Tuệ]] — return to wisdom as the final filter.
+2. [[Cái Gì Trong Bạn Không Thể Bị Model Hóa]] — ask what remains valuable after AI makes output cheap.
+3. [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — study algorithmic worldview shaping.
+4. [[AI]] — place machine intelligence in the larger agency question.
+5. [[Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]] — read AI as civilizational and spiritual test.
+6. [[Thông Minh vs Trí Tuệ]] — return to wisdom as the final filter.
 
 ---
 
@@ -109,6 +110,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Mental Model]] — the domain's root concept.
 - [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — desire hijacking as economic architecture.
 - [[Bộ Não Rỗng và AI Brain Rot]] — cognitive offloading and agency collapse.
+- [[Cái Gì Trong Bạn Không Thể Bị Model Hóa]] — human value after AI-driven output collapse.
 - [[Thông Minh vs Trí Tuệ]] — why cleverness can still serve the Matrix.
 - [[Tâm Lý Học Tiến Hóa Về Giới Tính]] — high-risk sex/gender psychology lens; read with claim discipline, not as identity war.
 - [[Individuation]] — the inner path from persona to Self.
