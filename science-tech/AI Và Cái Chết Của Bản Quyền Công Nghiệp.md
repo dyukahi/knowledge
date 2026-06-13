@@ -252,6 +252,10 @@ nhưng vừa đúng workflow của mình
 
 Nhưng tầng phần mềm bản quyền đơn giản - thứ bán vì người dùng không biết code - bị ép giá rất mạnh.
 
+Tháng 6/2026, chính Anthropic đăng trên X rằng chính phủ Hoa Kỳ, viện dẫn lý do an ninh quốc gia, đã ban hành một chỉ thị kiểm soát xuất khẩu yêu cầu tạm dừng toàn bộ quyền truy cập vào Fable 5 và Mythos 5 đối với bất kỳ công dân nước ngoài nào, dù ở trong hay ngoài Hoa Kỳ, bao gồm cả nhân viên nước ngoài của Anthropic. Theo statement này, hệ quả trực tiếp là Anthropic phải đột ngột vô hiệu hóa Fable 5 và Mythos 5 cho tất cả khách hàng để bảo đảm tuân thủ.
+
+Không cần thổi phồng statement này thành huyền thoại. Chỉ riêng việc một model agentic/software-capability mới bị đặt vào logic kiểm soát xuất khẩu đã đủ nói lên điều quan trọng: phần mềm AI không còn được nhìn như một SaaS bình thường. Nó được nhìn như năng lực chiến lược.
+
 Crack từng là kẻ thù của phần mềm bản quyền.
 
 AI còn nguy hiểm hơn crack.
@@ -400,9 +404,9 @@ cái gì trong bạn không thể bị model hóa thành output rẻ tiền?
 - VCPMC repost/news, “Bộ Văn hóa, Thể thao và Du lịch tăng cường kiểm tra, xử lý vi phạm bản quyền”, về kế hoạch triển khai Công điện 38/CĐ-TTg 2026, tập trung kiểm tra quyền tác giả/quyền liên quan, gồm chương trình máy tính, phim, âm nhạc, truyền hình, trò chơi điện tử trên môi trường mạng.
 - Cổng Thông tin điện tử Chính phủ, “Lần đầu tiên KHỞI TỐ vụ án dùng Windows, Microsoft Office lậu”, dẫn Công an tỉnh Phú Thọ: ngày 11/6/2026 khởi tố vụ án hình sự theo Điều 225 Bộ luật Hình sự; case Công ty TNHH Thương mại và Dịch vụ Sông Lam cung cấp 81 máy tính cài Windows/Office có dấu hiệu dùng crack/key lậu/activator, mở rộng thêm 350 máy tại một cơ sở giáo dục.
 - VCPMC repost/news, “Thêm công cụ mới giúp phát hiện vi phạm bản quyền trong tác phẩm âm nhạc AI”, về Musixmatch Sentinel và rủi ro nội dung AI dùng lời bài hát/tác phẩm có bản quyền.
+- Anthropic official X account, status `2065597531644743999`: statement that the US government issued an export-control directive to suspend access to Fable 5 and Mythos 5 for foreign nationals, including foreign-national Anthropic employees; Anthropic says it had to disable access for all customers to ensure compliance.
 - Khung pháp lý Việt Nam: Điều 225 Bộ luật Hình sự về tội xâm phạm quyền tác giả, quyền liên quan. Bài này không khẳng định mọi case phần mềm lậu đều bị hình sự hóa; chỉ dùng như legal anchor cho khả năng enforcement khi đủ yếu tố.
 
 ## Research Leads Chưa Đưa Thành Fact
 
-- Claim “Claude Fable 5 bị Mỹ cấm xuất khẩu” chưa được xác minh trong lần kiểm tra này; không đưa vào thân bài như fact.
 - Cần thêm số liệu cụ thể về mức phí âm nhạc theo diện tích/quy mô nếu muốn viết bài follow-up riêng về VCPMC và public performance rights tại Việt Nam.
