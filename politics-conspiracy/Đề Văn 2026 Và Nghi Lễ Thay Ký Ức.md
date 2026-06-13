@@ -270,6 +270,100 @@ Vấn đề là khi đề thi quốc gia đặt câu hỏi “tương lai Việt
 Đây là national aspiration bị American-tech hóa.
 
 ---
+## Câu Hỏi Sai Về Thiên Tài
+
+Ngay cả nếu bỏ qua tầng biểu tượng, câu hỏi “làm thế nào để có những Steve Jobs Việt Nam” vẫn sai ở tầng cơ chế.
+
+Nó hỏi về một con người, trong khi chính ngữ liệu đọc hiểu của đề lại nói về hạ tầng.
+
+Đoạn *Code và Cát* trong đề dùng câu chuyện Gutenberg để lập luận rằng tri thức không tự lan truyền nhờ vài cá nhân vĩ đại. Trước máy in, tri thức bị giam trong tu viện, lâu đài, thư viện và tầng lớp có quyền tiếp cận. Máy in tạo ra hạ tầng nhân bản tri thức. Shakespeare không chỉ sống nhờ tài năng của riêng ông; di sản của ông sống được vì có công nghệ in, có First Folio, có một cơ chế lưu trữ và phân phối làm tác phẩm không tan biến.
+
+Đó là institutionalism khá rõ:
+
+```text
+vĩ nhân không đứng ngoài hạ tầng
+vĩ nhân là hàm số của hạ tầng
+```
+
+Nhưng ngay sau đó, đề lại hỏi học sinh làm sao để có “Steve Jobs Việt Nam”. Câu hỏi này kéo học sinh về Great Man theory: lịch sử như sản phẩm của vài cá nhân kiệt xuất, đổi mới như thứ có thể được “tạo ra” bằng cách nuôi dưỡng thiên tài.
+
+Cùng một tờ đề, hai bản thể luận đi ngược nhau.
+
+Phần đọc hiểu nói:
+
+```text
+hãy nhìn hạ tầng tri thức
+```
+
+Phần làm văn lại hỏi:
+
+```text
+làm sao tạo ra vĩ nhân
+```
+
+Một câu hỏi không định nghĩa được đối tượng của nó thì không thể trả lời, chỉ có thể hưởng ứng.
+
+“Steve Jobs” trong đề là gì?
+
+```text
+nhà phát minh?
+nhà sáng lập?
+người tích hợp công nghệ?
+biểu tượng văn hóa?
+người tạo vốn hóa thị trường?
+```
+
+Mỗi cách hiểu dẫn tới một câu trả lời khác nhau, nhưng đề không cho dữ kiện để chọn. Nó mang hình thức của một câu hỏi mở, nhưng vận hành như một khẩu hiệu: không tìm câu trả lời, mà kiểm tra mức độ hưởng ứng.
+
+Nếu đặt cạnh lịch sử Mỹ, nghịch lý này càng rõ.
+
+Ngày 4 tháng 10 năm 1957, Sputnik bay qua bầu trời nước Mỹ. Nó chỉ là một quả cầu kim loại phát tiếng bíp, nhưng đã đặt nước Mỹ vào một cơn khủng hoảng nhận thức. Báo chí Liên Xô khi đó chỉ gọi người đứng sau chương trình là “Tổng công trình sư”. Tên thật của ông, Sergei Korolev, được giữ kín cho đến sau khi ông qua đời.
+
+Nếu diễn đạt bằng ngôn ngữ của đề Văn 2026, nước Mỹ mùa thu năm ấy có thể đã tự hỏi: làm thế nào để có những Korolev của nước Mỹ?
+
+Nhưng họ không trả lời bằng cách lập ủy ban đi tìm thiên tài.
+
+Họ xây hạ tầng.
+
+Năm 1958, Quốc hội Mỹ lập ARPA để tài trợ những dự án nghiên cứu rủi ro cao mà thị trường chưa thấy hấp dẫn. Cùng năm, Đạo luật Giáo dục Quốc phòng rót tiền lớn vào toán, khoa học, ngoại ngữ và tín dụng học tập. Họ không “sản xuất thiên tài” theo nghĩa trực tiếp. Họ tạo ra những khoảng trống thể chế để khi tài năng xuất hiện, tài năng đó có chỗ đứng.
+
+Năm mươi năm sau, Steve Jobs đứng trên sân khấu giới thiệu iPhone. Gần như mọi công nghệ lõi bên trong nó - internet, GPS, màn hình cảm ứng đa điểm, trợ lý giọng nói - đều truy nguyên được về các dòng vốn công và hạ tầng nghiên cứu dài hạn. Jobs không phải phủ định vai trò của hạ tầng. Jobs là bằng chứng cho hạ tầng.
+
+Đây là điểm William Baumol đã nói rất rõ: mật độ những con người tham vọng, tháo vát, dám chấp nhận rủi ro không khác nhau quá nhiều giữa các xã hội. Thứ thay đổi là cấu trúc trả thưởng. Xã hội trả thưởng cho hành vi nào, tài năng sẽ chảy vào hành vi đó.
+
+```text
+Không thiếu người giỏi.
+Chỉ thiếu cấu trúc khiến người giỏi dùng tài năng vào việc cần dùng.
+```
+
+Vì vậy, câu hỏi đúng không phải là “làm thế nào để có Steve Jobs Việt Nam?”.
+
+Câu hỏi đúng là:
+
+```text
+người trẻ tài năng nhất của Việt Nam hôm nay
+đang được hệ thống trả thưởng để trở thành ai?
+```
+
+Người xây?
+
+Người thi?
+
+Người biết viết đúng barem?
+
+Người biết tham gia cơn giận đạo đức trên mạng xã hội?
+
+Hay người đủ sức tạo ra một cấu trúc mới?
+
+Đây là chỗ câu hỏi của đề thi tự tố cáo chính nó. Một đề thi high-stakes hỏi học sinh về sáng tạo, nhưng chính hình thức của nó lại buộc học sinh trả lời bằng công thức an toàn. Một học sinh viết rằng Việt Nam cần cơ chế phân bổ vốn chấp nhận thất bại, hạ tầng nghiên cứu công và thị trường đủ mở để tích hợp công nghệ có thể sẽ lệch barem. Một học sinh viết rằng người trẻ cần nuôi dưỡng đam mê, dám nghĩ dám làm, không ngại thất bại, lại có khả năng an toàn hơn.
+
+Như vậy, câu hỏi dở không trung tính.
+
+Nó trừng phạt chiều sâu và trả thưởng cho sáo ngữ.
+
+Một đề thi tốt không nên hỏi học sinh cách tạo ra thiên tài. Nó nên buộc người lớn hỏi: hệ thống này đang trả thưởng cho loại tài năng nào?
+
+---
 ## Chuỗi 2024–2026: Không Xóa, Mà Đổi Hệ Điều Hành Cảm Xúc
 
 Đọc rời từng năm, mỗi đề đều có thể được bảo vệ.
