@@ -236,7 +236,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### 🔬 Science & Tech
 
-- [[Khoa Học Xét Lại]] | [[AI]] | [[Nikola Tesla]]
+- [[Khoa Học Xét Lại]] | [[AI]] | [[AI Và Cái Chết Của Bản Quyền Công Nghiệp]] | [[Nikola Tesla]]
 - [[Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]]
 - [[Vũ Khí Năng Lượng Định Hướng]]
 - [[Mô Hình Địa Tâm]] | [[Thuyết Trái Đất Phẳng]]
@@ -246,6 +246,12 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### June 13, 2026
+
+- **[[AI Và Cái Chết Của Bản Quyền Công Nghiệp]]** - new science-tech note on AI, copyright, software piracy enforcement, public music licensing, AI-generated works and the generation economy; includes the Phú Thọ criminal Windows/Office case and Anthropic Fable/Mythos export-control statement.
+- **[[Đề Văn 2026 Và Nghi Lễ Thay Ký Ức]]** - merged the Korolev/Sputnik/ARPA/Baumol institutional lens into the 2026 literature-exam memory ritual note, reframing “Steve Jobs Việt Nam” as a question about incentive structures rather than heroic individuals.
+- **Knowledge map refresh** - vault map rebuilt after the AI copyright and exam-note updates; root counts synced to 209 notes and Science & Tech 18 notes.
 
 ### June 9, 2026
 
