@@ -150,4 +150,5 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[crypto-finance/index|Crypto & Finance Gateway]]
 
 ## Notes
+- [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
 - [[Luân Hồi Trên Home Screen]]
