@@ -248,6 +248,10 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ## Recent Updates / Cập Nhật Gần Đây
 
+### June 14, 2026
+
+- **[[Luân Hồi Trên Home Screen]]** - new mental-models mini-essay reading home screen folders as modern samsara: seven deadly sins as app interfaces, dopamine economy as infrastructure, productivity as the subtle cage, and notification loops as micro-reincarnation.
+
 ### June 13, 2026
 
 - **[[Cái Gì Trong Bạn Không Thể Bị Model Hóa]]** - new mental-models note on human value after AI-driven output collapse: lived experience, taste, discernment, moral stance, symbolic depth and attention sovereignty as the scarce layer beneath cheap generative output.
@@ -325,5 +329,3 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 *Maintained by Bé Tôm 🦐 for Justin | [redpill.wiki](https://redpill.wiki)*
 
-### Recent Updates
-- 2026-06-14: Added [[Luân Hồi Trên Home Screen]] — a short note on home screen folders, seven sins, dopamine economy, and modern samsara.
