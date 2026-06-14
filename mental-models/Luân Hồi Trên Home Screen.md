@@ -13,6 +13,10 @@ related:
 
 # Luân Hồi Trên Home Screen
 
+![Home Screen Samsara](../assets/illustrations/home-screen-samsara.png)
+
+*Một home screen tưởng là tiện ích, nhưng cũng có thể đọc như bánh xe luân hồi của attention.*
+
 Ngày xưa, [[Luân Hồi]] được vẽ như một bánh xe.
 
 Ngày nay, nó nằm trên home screen.
