@@ -250,3 +250,7 @@ Hiểu game không có nghĩa phải chơi bẩn. Mục đích là hiểu dynami
 ### History & Cycles
 - [[Chu Kỳ Vũ Trụ — Yugas & Kalpas]] — Civilizational cycles
 - [[Lịch Sử Song Song — Khi Thế Giới Đồng Bộ]] — Hidden history
+## Tình Nghĩa Và Pair Bonding Khi Thân Thể Xuống Cấp
+
+Nếu bài này đọc attraction, hypergamy, sexual selection và pair bonding ở tầng bản năng, thì [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]] đọc cùng vấn đề ở cuối vòng đời: khi eros, dopamine, status và thân thể đều xuống cấp, thứ còn lại không phải market value mà là covenant, care work và khả năng không bỏ chạy khỏi phần tàn tạ của nhau. Đây là mặt già của cùng một cơ chế: pair bonding không chỉ để chọn bạn tình lúc trẻ, mà còn để tạo một hạ tầng chăm sóc khi con người không còn tối ưu được bằng thị trường.
+

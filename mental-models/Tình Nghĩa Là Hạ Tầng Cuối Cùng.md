@@ -88,6 +88,8 @@ Thứ đắt nhất là người không bỏ chạy khỏi phần đang hư củ
 
 ## Dopamine Market Và Sự Phản Bội Nhẹ Nhàng
 
+Đây là nơi note này nối trực tiếp với [[Tâm Lý Học Tiến Hóa Về Giới Tính]]. Hypergamy, novelty-seeking, sexual selection và pair bonding không biến mất trong xã hội hiện đại; chúng được thị trường hóa, gamify và khuếch đại qua app, status signal, porn, dating culture và attention economy.
+
 [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|Dopamine economy]] không chỉ nằm trong app, game, porn, shopping hay short video.
 
 Nó cũng tái cấu trúc cách con người hiểu tình yêu.
