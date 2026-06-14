@@ -324,3 +324,6 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 *Maintained by Bé Tôm 🦐 for Justin | [redpill.wiki](https://redpill.wiki)*
+
+### Recent Updates
+- 2026-06-14: Added [[Luân Hồi Trên Home Screen]] — a short note on home screen folders, seven sins, dopamine economy, and modern samsara.

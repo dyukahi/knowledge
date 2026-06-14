@@ -148,3 +148,6 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[esoterica/index|Esoterica Gateway]]
 - [[politics-conspiracy/index|Politics & Conspiracy Gateway]]
 - [[crypto-finance/index|Crypto & Finance Gateway]]
+
+## Notes
+- [[Luân Hồi Trên Home Screen]]

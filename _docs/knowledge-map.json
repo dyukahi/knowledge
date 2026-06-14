@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 210,
+    "notes": 211,
     "domains": {
       "_docs": 7,
       "root": 14,
       "crypto-finance": 13,
       "esoterica": 74,
       "health": 27,
-      "mental-models": 30,
+      "mental-models": 31,
       "politics-conspiracy": 27,
       "science-tech": 18
     },
-    "tags": 196,
-    "wikilinkEdges": 2088,
+    "tags": 200,
+    "wikilinkEdges": 2093,
     "brokenLinks": 5,
     "orphans": 9
   },
@@ -1245,6 +1245,7 @@
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/index.md",
           "mental-models/Individuation.md",
+          "mental-models/Luân Hồi Trên Home Screen.md",
           "mental-models/Mental Model.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
           "mental-models/Mô Hình Địa Tâm.md",
@@ -2426,6 +2427,7 @@
           "esoterica/Vũ Trụ Học Phật Giáo.md",
           "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
           "index.md",
+          "mental-models/Luân Hồi Trên Home Screen.md",
           "mental-models/Tâm bất Biến.md",
           "MOC - Esoterica & Consciousness.md"
         ],
@@ -8601,6 +8603,7 @@
           "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/index.md",
+          "mental-models/Luân Hồi Trên Home Screen.md",
           "MOC - Market Psychology & Risk.md",
           "MOC - Science Revisionism.md",
           "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
@@ -8610,6 +8613,89 @@
         ],
         "words": 2756,
         "summary": "*The Empty Brain & AI Brain Rot*"
+      },
+      {
+        "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "domain": "mental-models",
+        "tags": [
+          "matrix",
+          "mental-model",
+          "psychology",
+          "social-media"
+        ],
+        "aliases": [
+          "Attention Economy",
+          "Dopamine Economy",
+          "Kinh Tế Dopamine"
+        ],
+        "headings": [
+          "Dopamine Economy — Nền Kinh Tế Của Sự Thèm Muốn",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Dopamine Không Phải Hạnh Phúc",
+          "2. Attention Là Hàng Hóa",
+          "3. Variable Reward: Máy Đánh Bạc Trong Túi",
+          "4. Các Kênh Hijack Chính",
+          "Social Media",
+          "Porn",
+          "Food",
+          "Gaming / Gambling",
+          "News / Politics",
+          "5. Dopamine Và Loosh",
+          "6. Tại Sao Ý Chí Không Đủ?",
+          "7. Escape Strategy",
+          "1. Remove Cues",
+          "2. Restore Natural Rewards",
+          "3. Dopamine Fasting Đúng Nghĩa",
+          "4. Replace, Not Just Remove",
+          "8. Dấu Hiệu Đang Bị Kinh Tế Dopamine Nuốt",
+          "Synthesis",
+          "Related",
+          "Financial Dopamine: Futures Group Là TikTok Của Lòng Tham"
+        ],
+        "wikilinks": [
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Kiểm Soát Tâm Trí",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Ma Trận",
+          "Năng Lượng Tình Dục",
+          "Schadenfreude - Dopamine Phản Diện",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/index.md",
+          "esoterica/Chakra.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "index.md",
+          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/index.md",
+          "mental-models/Luân Hồi Trên Home Screen.md",
+          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "MOC - Market Psychology & Risk.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "words": 933,
+        "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
       },
       {
         "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -8707,88 +8793,6 @@
         ],
         "words": 3179,
         "summary": "Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about mal…"
-      },
-      {
-        "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-        "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "domain": "mental-models",
-        "tags": [
-          "matrix",
-          "mental-model",
-          "psychology",
-          "social-media"
-        ],
-        "aliases": [
-          "Attention Economy",
-          "Dopamine Economy",
-          "Kinh Tế Dopamine"
-        ],
-        "headings": [
-          "Dopamine Economy — Nền Kinh Tế Của Sự Thèm Muốn",
-          "Vault Position / Vị Trí Trong Vault",
-          "1. Dopamine Không Phải Hạnh Phúc",
-          "2. Attention Là Hàng Hóa",
-          "3. Variable Reward: Máy Đánh Bạc Trong Túi",
-          "4. Các Kênh Hijack Chính",
-          "Social Media",
-          "Porn",
-          "Food",
-          "Gaming / Gambling",
-          "News / Politics",
-          "5. Dopamine Và Loosh",
-          "6. Tại Sao Ý Chí Không Đủ?",
-          "7. Escape Strategy",
-          "1. Remove Cues",
-          "2. Restore Natural Rewards",
-          "3. Dopamine Fasting Đúng Nghĩa",
-          "4. Replace, Not Just Remove",
-          "8. Dấu Hiệu Đang Bị Kinh Tế Dopamine Nuốt",
-          "Synthesis",
-          "Related",
-          "Financial Dopamine: Futures Group Là TikTok Của Lòng Tham"
-        ],
-        "wikilinks": [
-          "Bộ Não Rỗng và AI Brain Rot",
-          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-          "Kiểm Soát Tâm Trí",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "Ma Trận",
-          "Năng Lượng Tình Dục",
-          "Schadenfreude - Dopamine Phản Diện",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "crypto-finance/index.md",
-          "esoterica/Chakra.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "index.md",
-          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-          "mental-models/index.md",
-          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "MOC - Market Psychology & Risk.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 933,
-        "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
       },
       {
         "path": "mental-models/Trí Tuệ.md",
@@ -10074,6 +10078,50 @@
         "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
       },
       {
+        "path": "mental-models/Luân Hồi Trên Home Screen.md",
+        "title": "Luân Hồi Trên Home Screen",
+        "domain": "mental-models",
+        "tags": [
+          "attention",
+          "dopamine-economy",
+          "ma-tran",
+          "mental-models",
+          "samsara",
+          "technology"
+        ],
+        "aliases": [
+          "Digital Samsara",
+          "Home Screen Samsara",
+          "Seven Sins Home Screen"
+        ],
+        "headings": [
+          "Luân Hồi Trên Home Screen",
+          "Seven Sins, New Interface",
+          "Ma Trận Không Cần Nhà Tù",
+          "Productivity Là Cái Lồng Sang Nhất",
+          "Luân Hồi Bằng Notification",
+          "Attention Là Cửa Thoát"
+        ],
+        "wikilinks": [
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Luân Hồi",
+          "Ma Trận"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md"
+        ],
+        "backlinks": [],
+        "words": 970,
+        "summary": "Ngày xưa, Luân Hồi được vẽ như một bánh xe."
+      },
+      {
         "path": "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
         "title": "Cái Gì Trong Bạn Không Thể Bị Model Hóa?",
         "domain": "mental-models",
@@ -10113,7 +10161,8 @@
         ],
         "backlinks": [
           "index.md",
-          "mental-models/index.md"
+          "mental-models/index.md",
+          "mental-models/Luân Hồi Trên Home Screen.md"
         ],
         "words": 2160,
         "summary": "Một thời gian dài, xã hội đo con người bằng output."
@@ -12158,7 +12207,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 4375,
+        "words": 4337,
         "summary": "Một quốc gia không cần xóa lịch sử."
       }
     ],
@@ -15209,6 +15258,7 @@
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
+        "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Mental Model.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/Mô Hình Địa Tâm.md",
@@ -18369,6 +18419,50 @@
       "backlinks": [],
       "words": 898,
       "summary": "**Plasma Quinton là nước biển được xử lý theo phương pháp René Quinton, thường được đọc trong health sovereignty như một cách hỗ trợ terrain khoáng chất và nội môi. Điểm cốt lõi không phải “nước biển chữa mọi bệnh”, mà là câu hỏi sâu hơn: cơ thể có thể tự sửa…"
+    },
+    {
+      "path": "mental-models/Luân Hồi Trên Home Screen.md",
+      "title": "Luân Hồi Trên Home Screen",
+      "domain": "mental-models",
+      "tags": [
+        "attention",
+        "dopamine-economy",
+        "ma-tran",
+        "mental-models",
+        "samsara",
+        "technology"
+      ],
+      "aliases": [
+        "Digital Samsara",
+        "Home Screen Samsara",
+        "Seven Sins Home Screen"
+      ],
+      "headings": [
+        "Luân Hồi Trên Home Screen",
+        "Seven Sins, New Interface",
+        "Ma Trận Không Cần Nhà Tù",
+        "Productivity Là Cái Lồng Sang Nhất",
+        "Luân Hồi Bằng Notification",
+        "Attention Là Cửa Thoát"
+      ],
+      "wikilinks": [
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Luân Hồi",
+        "Ma Trận"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md"
+      ],
+      "backlinks": [],
+      "words": 970,
+      "summary": "Ngày xưa, Luân Hồi được vẽ như một bánh xe."
     }
   ],
   "sinks": [
@@ -18795,6 +18889,14 @@
       3
     ],
     [
+      "attention",
+      3
+    ],
+    [
+      "mental-models",
+      3
+    ],
+    [
       "bitcoin",
       2
     ],
@@ -18832,14 +18934,6 @@
     ],
     [
       "minerals",
-      2
-    ],
-    [
-      "attention",
-      2
-    ],
-    [
-      "mental-models",
       2
     ],
     [
@@ -23037,6 +23131,7 @@
         "esoterica/Vũ Trụ Học Phật Giáo.md",
         "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
         "index.md",
+        "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Tâm bất Biến.md",
         "MOC - Esoterica & Consciousness.md"
       ],
@@ -23451,6 +23546,7 @@
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
+        "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Mental Model.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/Mô Hình Địa Tâm.md",
@@ -28553,6 +28649,7 @@
         "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/index.md",
+        "mental-models/Luân Hồi Trên Home Screen.md",
         "MOC - Market Psychology & Risk.md",
         "MOC - Science Revisionism.md",
         "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
@@ -28762,7 +28859,8 @@
       ],
       "backlinks": [
         "index.md",
-        "mental-models/index.md"
+        "mental-models/index.md",
+        "mental-models/Luân Hồi Trên Home Screen.md"
       ],
       "words": 2160,
       "summary": "Một thời gian dài, xã hội đo con người bằng output."
@@ -28838,6 +28936,7 @@
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/index.md",
+        "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
         "mental-models/Tư Duy Lũy Thừa.md",
@@ -28993,6 +29092,50 @@
       ],
       "words": 1007,
       "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là bước tâ…"
+    },
+    "mental-models/Luân Hồi Trên Home Screen.md": {
+      "path": "mental-models/Luân Hồi Trên Home Screen.md",
+      "title": "Luân Hồi Trên Home Screen",
+      "domain": "mental-models",
+      "tags": [
+        "attention",
+        "dopamine-economy",
+        "ma-tran",
+        "mental-models",
+        "samsara",
+        "technology"
+      ],
+      "aliases": [
+        "Digital Samsara",
+        "Home Screen Samsara",
+        "Seven Sins Home Screen"
+      ],
+      "headings": [
+        "Luân Hồi Trên Home Screen",
+        "Seven Sins, New Interface",
+        "Ma Trận Không Cần Nhà Tù",
+        "Productivity Là Cái Lồng Sang Nhất",
+        "Luân Hồi Bằng Notification",
+        "Attention Là Cửa Thoát"
+      ],
+      "wikilinks": [
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Luân Hồi",
+        "Ma Trận"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md"
+      ],
+      "backlinks": [],
+      "words": 970,
+      "summary": "Ngày xưa, Luân Hồi được vẽ như một bánh xe."
     },
     "mental-models/Mental Model.md": {
       "path": "mental-models/Mental Model.md",
@@ -32503,7 +32646,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 4375,
+      "words": 4337,
       "summary": "Một quốc gia không cần xóa lịch sử."
     },
     "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md": {
