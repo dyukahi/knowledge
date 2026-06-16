@@ -20,6 +20,8 @@ related:
 
 > Một trong những câu chuyện dễ thương nhất để nói với trẻ con là: em bé không đến từ bụng mẹ, mà được nhặt trong bụi bắp cải. Nghe vô hại. Nhưng symbol không bao giờ chỉ là trò đùa. Một nền văn hóa kể chuyện trẻ em “mọc từ ruộng” đang vô thức tập cho mình tưởng tượng một đứa trẻ không cần womb, không cần lineage, không cần câu chuyện cha-mẹ-con, chỉ cần được tìm thấy, nhận nuôi, đăng ký và mang về nhà.
 
+![Những chiếc nôi phát sáng giữa ruộng bắp cải dưới bóng cây gia đình](../assets/illustrations/cabbage-baby-field-nursery.png)
+
 “Em bé bắp cải” là motif cũ. Ở tầng folklore, nó là cách người lớn né câu hỏi sex/reproduction với trẻ con. Ở tầng toy culture, nó thành một dòng búp bê được “adopt”, có giấy khai sinh, có tên, có câu chuyện được personalize. Ở tầng system, nó là một rehearsal mềm cho một tương lai nơi đứa trẻ không còn được tưởng tượng như kết quả của covenant và dòng máu, mà như một unit được grown, selected, delivered và assigned vào household.
 
 Bài này không nói rằng mọi người từng chơi búp bê Cabbage Patch đều bị lập trình. Nó cũng không nói nhà sản xuất đồ chơi “chứng minh” agenda artificial womb. Đọc đúng hơn: đây là một **symbolic nursery**. Văn hóa đại chúng tập cho ta thấy một motif nhiều lần cho đến khi điều từng kỳ lạ trở nên dễ thương, rồi bình thường, rồi inevitable.
@@ -52,6 +54,8 @@ Một đứa trẻ không “được sinh ra” mà “được đem tới”. 
 ---
 
 ## 2. Cabbage Patch Kids: Adoption As Product Ritual
+
+![Bắp cải, giấy chứng nhận và hộp delivery như still life của child logistics](../assets/illustrations/cabbage-baby-certificate-delivery.png)
 
 Cabbage Patch Kids không chỉ là búp bê. Nó là một mini-ritual của adoption. Mỗi con búp bê có tên, có “birth certificate”, có hồ sơ cá nhân, và người mua không chỉ mua toy, mà “adopt” một em bé.
 

@@ -22,6 +22,8 @@ related:
 
 > Orphan Train cũ chở thân xác trẻ em rời khỏi thành phố. Orphan Train mới không cần đường ray. Nó chở phôi qua clinic, attention qua màn hình, identity qua curriculum, desire qua algorithm, và ký ức qua cloud.
 
+![Một đứa trẻ đứng giữa đường ray cũ và mạng lưới quản trị hiện đại](../assets/illustrations/orphan-train-20-lineage-system.png)
+
 Một đứa trẻ hôm nay vẫn có thể ngủ trong một căn nhà, có người lớn ký giấy tờ, có trường học, bảo hiểm, tài khoản iCloud, đồng hồ thông minh, lịch tiêm, lớp kỹ năng, camera trong phòng và app theo dõi giấc ngủ. Nhưng câu hỏi thật không phải là đứa trẻ có được quản lý tốt hay không. Câu hỏi là nó còn thuộc về một dòng máu, một ký ức, một vòng care, một nghĩa tình, hay đã trở thành công dân đầu tiên của một hệ thống không cần gia đình.
 
 Bài này không nói rằng mọi công nghệ sinh sản đều xấu, mọi gia đình phi truyền thống đều thiếu tình thương, hay mọi trường học và màn hình đều là công cụ tà ác. Nó hỏi một câu khác: khi nhiều hạ tầng cùng kéo trẻ em ra khỏi lineage, khỏi care loop và khỏi memory của gia đình, thì đích đến của sự kéo đó là gì?
@@ -159,6 +161,8 @@ Gay family cũng cần đọc cẩn thận. Không phải mọi gia đình đồ
 ---
 
 ## 8. Artificial Womb Và Đứa Trẻ Như Sản Phẩm Logistics
+
+![Delivery room như hạ tầng logistics giữa cradle và family tree](../assets/illustrations/orphan-train-20-delivery-room.png)
 
 Artificial womb / ectogenesis là motif đáng theo dõi vì nó sẽ được bán bằng ngôn ngữ rất đẹp: an toàn hơn, bình đẳng hơn, tiện hơn, kiểm soát tốt hơn, giảm rủi ro cho phụ nữ, giúp người không thể sinh con có con, tối ưu môi trường phát triển. Một phần lợi ích có thể là thật. Nhưng tầng vault hỏi: khi womb trở thành infrastructure, ai vận hành infrastructure đó?
 
