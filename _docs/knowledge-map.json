@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 212,
+    "notes": 213,
     "domains": {
       "_docs": 7,
       "root": 14,
       "crypto-finance": 13,
       "esoterica": 74,
       "health": 27,
-      "mental-models": 32,
+      "mental-models": 33,
       "politics-conspiracy": 27,
       "science-tech": 18
     },
-    "tags": 202,
-    "wikilinkEdges": 2098,
+    "tags": 203,
+    "wikilinkEdges": 2107,
     "brokenLinks": 5,
     "orphans": 9
   },
@@ -2178,6 +2178,7 @@
           "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
           "esoterica/Thành Cổ Loa.md",
           "index.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
           "MOC - Ancient Civilizations & Hidden History.md",
           "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Bức Tường Băng.md",
@@ -2602,6 +2603,75 @@
         "summary": "**Vũ Trụ Học Phật Giáo** không chỉ là bản đồ \"trời đất\" theo nghĩa vật lý. Nó là một cấu trúc biểu tượng - đạo đức - tâm thức mô tả các cõi tồn tại, chu kỳ thành trụ hoại không, nghiệp, tái sinh và vị trí đặc biệt của cõi người. Đọc đúng, nó không cần cạnh tr…"
       },
       {
+        "path": "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "title": "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "hollywood",
+          "matrix",
+          "mind-control"
+        ],
+        "aliases": [
+          "Lập Trình Tiên Đoán",
+          "Predictive Programming"
+        ],
+        "headings": [
+          "Predictive Programming — Cấy Tương Lai Vào Tiềm Thức",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Công Thức / The Loop",
+          "Vì Sao Fiction Mạnh?",
+          "Case Patterns / Các Mẫu Hình",
+          "The Simpsons Problem",
+          "Inception Là Meta-Case",
+          "Red Flags / Dấu Hiệu Nên Đọc Kỹ",
+          "Không Paranoid, Không Ngây Thơ",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Cách Đọc Red Pill Wiki",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Ma Trận.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/index.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "index.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "words": 928,
+        "summary": "**Predictive programming là giả thuyết rằng media không chỉ phản ánh tương lai mà còn tập cho công chúng cảm thấy tương lai đó quen thuộc trước khi nó được triển khai.** Đọc đúng, đây không phải trò gom mọi trùng hợp thành \"tiên tri\"; đây là kỷ luật nhìn repe…"
+      },
+      {
         "path": "esoterica/Tinh Khí Thần.md",
         "title": "Tinh Khí Thần",
         "domain": "esoterica",
@@ -2748,74 +2818,6 @@
         ],
         "words": 3850,
         "summary": "Atlantis không phải là truyền thuyết. Đó là lịch sử bị xóa."
-      },
-      {
-        "path": "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "title": "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "hollywood",
-          "matrix",
-          "mind-control"
-        ],
-        "aliases": [
-          "Lập Trình Tiên Đoán",
-          "Predictive Programming"
-        ],
-        "headings": [
-          "Predictive Programming — Cấy Tương Lai Vào Tiềm Thức",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Công Thức / The Loop",
-          "Vì Sao Fiction Mạnh?",
-          "Case Patterns / Các Mẫu Hình",
-          "The Simpsons Problem",
-          "Inception Là Meta-Case",
-          "Red Flags / Dấu Hiệu Nên Đọc Kỹ",
-          "Không Paranoid, Không Ngây Thơ",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Cách Đọc Red Pill Wiki",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Ma Trận.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/index.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "words": 928,
-        "summary": "**Predictive programming là giả thuyết rằng media không chỉ phản ánh tương lai mà còn tập cho công chúng cảm thấy tương lai đó quen thuộc trước khi nó được triển khai.** Đọc đúng, đây không phải trò gom mọi trùng hợp thành \"tiên tri\"; đây là kỷ luật nhìn repe…"
       },
       {
         "path": "esoterica/Chakra.md",
@@ -8119,6 +8121,7 @@
           "Tâm bất Biến",
           "Tâm Lý Học Jung",
           "Tâm Lý Học Tiến Hóa Về Giới Tính",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
           "Tư Duy Lũy Thừa",
           "UBI Conditioning - The End of Work Ethic",
           "Vô Thức Tập Thể"
@@ -8156,6 +8159,7 @@
           "mental-models/Tâm bất Biến.md",
           "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
           "mental-models/Tư Duy Lũy Thừa.md",
           "mental-models/UBI Conditioning - The End of Work Ethic.md",
           "mental-models/Vô Thức Tập Thể.md",
@@ -8176,7 +8180,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1080,
+        "words": 1087,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -8619,6 +8623,108 @@
         "summary": "*The Empty Brain & AI Brain Rot*"
       },
       {
+        "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "title": "Walter Russell",
+        "domain": "mental-models",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [
+          "Walter Russell (Hiền Triết Hiện Đại)"
+        ],
+        "headings": [
+          "Tâm Lý Học Tiến Hóa Về Giới Tính",
+          "Evidence Discipline / Cách Đọc Bài Này",
+          "Kinh Tế Học Tình Dục",
+          "Tại Sao Phụ Nữ Cần Mối Quan Hệ Hơn?",
+          "Quyền Lực Thực Sự Trong Mối Quan Hệ",
+          "Giá Trị Sinh Tồn và Giá Trị Sinh Sản",
+          "Hội Chứng \"Trai Ngoan\"",
+          "Chọn Lọc Tự Nhiên — Bài Học Từ Người Nuôi Giống",
+          "Ma Trận và Agenda Giới Tính",
+          "Bước Một: Phá Vỡ Hàng Rào Tinh Thần",
+          "Bước Hai: Chimera và DNA Mixing",
+          "Bước Ba: Feminism Biến Tướng",
+          "Bước Bốn: LGBT Normalization và Trans Agenda",
+          "Bước Cuối: Ranh Giới Tuổi Tác",
+          "Mục Đích Cuối Cùng",
+          "Deeper Layer: Waveform và Karma",
+          "Karma Disclosure",
+          "Pattern Trong Chu Kỳ Ngàn Năm",
+          "Tóm Tắt",
+          "Related",
+          "Sex & Energy",
+          "Psychology",
+          "Ma Trận & Control",
+          "Disclosure & Programming",
+          "History & Cycles",
+          "Tình Nghĩa Và Pair Bonding Khi Thân Thể Xuống Cấp"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Chimera",
+          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+          "Cách Đọc Red Pill Wiki",
+          "Elite",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Individuation",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Kiểm Soát Tâm Trí",
+          "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
+          "Ma Trận",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Nguyên Mẫu",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "S.E.X",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Sacred Geometry",
+          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Thực Thể Cõi Trung Giới",
+          "Tà Linh",
+          "Tâm Lý Học Jung",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+          "Vô Thức Tập Thể",
+          "Word Magic - Ngôn Ngữ Của Phù Thủy"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Chimera.md",
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Sacred Geometry.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "esoterica/Thực Thể Cõi Trung Giới.md",
+          "esoterica/Tà Linh.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "mental-models/index.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md"
+        ],
+        "words": 3293,
+        "summary": "Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about mal…"
+      },
+      {
         "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "domain": "mental-models",
@@ -8691,6 +8797,7 @@
           "mental-models/index.md",
           "mental-models/Luân Hồi Trên Home Screen.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
           "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
           "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
           "mental-models/Tư Duy Lũy Thừa.md",
@@ -8701,103 +8808,6 @@
         ],
         "words": 933,
         "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
-      },
-      {
-        "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "title": "Walter Russell",
-        "domain": "mental-models",
-        "tags": [
-          "science-tech"
-        ],
-        "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
-        ],
-        "headings": [
-          "Tâm Lý Học Tiến Hóa Về Giới Tính",
-          "Evidence Discipline / Cách Đọc Bài Này",
-          "Kinh Tế Học Tình Dục",
-          "Tại Sao Phụ Nữ Cần Mối Quan Hệ Hơn?",
-          "Quyền Lực Thực Sự Trong Mối Quan Hệ",
-          "Giá Trị Sinh Tồn và Giá Trị Sinh Sản",
-          "Hội Chứng \"Trai Ngoan\"",
-          "Chọn Lọc Tự Nhiên — Bài Học Từ Người Nuôi Giống",
-          "Ma Trận và Agenda Giới Tính",
-          "Bước Một: Phá Vỡ Hàng Rào Tinh Thần",
-          "Bước Hai: Chimera và DNA Mixing",
-          "Bước Ba: Feminism Biến Tướng",
-          "Bước Bốn: LGBT Normalization và Trans Agenda",
-          "Bước Cuối: Ranh Giới Tuổi Tác",
-          "Mục Đích Cuối Cùng",
-          "Deeper Layer: Waveform và Karma",
-          "Karma Disclosure",
-          "Pattern Trong Chu Kỳ Ngàn Năm",
-          "Tóm Tắt",
-          "Related",
-          "Sex & Energy",
-          "Psychology",
-          "Ma Trận & Control",
-          "Disclosure & Programming",
-          "History & Cycles"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Chimera",
-          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
-          "Cách Đọc Red Pill Wiki",
-          "Elite",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Individuation",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Kiểm Soát Tâm Trí",
-          "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
-          "Ma Trận",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Nguyên Mẫu",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "S.E.X",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Sacred Geometry",
-          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Thực Thể Cõi Trung Giới",
-          "Tà Linh",
-          "Tâm Lý Học Jung",
-          "Vô Thức Tập Thể",
-          "Word Magic - Ngôn Ngữ Của Phù Thủy"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Chimera.md",
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "esoterica/Thực Thể Cõi Trung Giới.md",
-          "esoterica/Tà Linh.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "mental-models/index.md"
-        ],
-        "words": 3179,
-        "summary": "Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about mal…"
       },
       {
         "path": "mental-models/Trí Tuệ.md",
@@ -9956,6 +9966,54 @@
         "summary": "**Bạn không chỉ là một cá nhân tách rời đang cố sống sót trong một vũ trụ lạnh. Bạn là một điểm nhìn của toàn thể, đang học cách nhớ lại mối liên hệ đã bị che bởi thân xác, ngôn ngữ, trauma, giáo dục và Ma Trận.** Khoa học hiện đại không \"chứng minh\" toàn bộ…"
       },
       {
+        "path": "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "title": "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+        "domain": "mental-models",
+        "tags": [
+          "care-economy",
+          "covenant",
+          "dopamine-economy",
+          "family",
+          "marriage",
+          "mental-models"
+        ],
+        "aliases": [
+          "Covenant Và Care Work",
+          "Marriage as Last Infrastructure",
+          "Nghĩa Tình Vợ Chồng"
+        ],
+        "headings": [
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+          "Covenant Không Phải Subscription",
+          "Dopamine Market Và Sự Phản Bội Nhẹ Nhàng",
+          "Care Work Là Cơ Sở Hạ Tầng Vô Hình",
+          "Về Già Mới Biết Tình Yêu Có Thật Không",
+          "Ma Trận Ghét Những Hạ Tầng Không Trung Gian",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+        ],
+        "wikilinks": [
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Ma Trận",
+          "Tâm Lý Học Tiến Hóa Về Giới Tính"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
+        ],
+        "words": 1657,
+        "summary": "!Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+      },
+      {
         "path": "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "title": "UBI Conditioning - The End of Work Ethic",
         "domain": "mental-models",
@@ -10131,6 +10189,63 @@
         "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
       },
       {
+        "path": "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "title": "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "domain": "mental-models",
+        "tags": [
+          "care-economy",
+          "dopamine-economy",
+          "family",
+          "matrix",
+          "mental-models",
+          "orphan-train",
+          "predictive-programming",
+          "tartaria",
+          "transhumanism"
+        ],
+        "aliases": [
+          "Artificial Womb Và Orphan Train Mới",
+          "Digital Orphan Train",
+          "Orphan Train 2.0",
+          "Trẻ Em Sau Reset"
+        ],
+        "headings": [
+          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+          "Evidence Discipline / Cách Đọc Bài Này",
+          "1. Orphan Train Cũ: Cơ Thể Trẻ Em Được Chuyển Tuyến",
+          "2. Tartaria, Reset Memory Và Câu Hỏi Về Population Sorting",
+          "3. Orphan Không Chỉ Là Không Có Cha Mẹ",
+          "4. Orphan Train Mới: Không Có Nhà Ga",
+          "5. Gender War Là Ga Khởi Hành",
+          "6. Dopamine Economy Là Máy Cắt Bond",
+          "7. IVF, Surrogacy, Artificial Womb: Khi Sinh Sản Tách Khỏi Dòng Máu",
+          "8. Artificial Womb Và Đứa Trẻ Như Sản Phẩm Logistics",
+          "9. Trẻ Em Người Máy Không Phải Không Có Linh Hồn",
+          "10. Predictive Programming: Phim Ảnh Đã Tập Cho Ta Nhìn Thấy Điều Này",
+          "11. Endpoint: Công Dân Không Cần Gia Đình",
+          "12. Counterspell: Care Infrastructure",
+          "Final Line"
+        ],
+        "wikilinks": [
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Tartaria",
+          "Tâm Lý Học Tiến Hóa Về Giới Tính",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Tartaria.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md"
+        ],
+        "backlinks": [],
+        "words": 2530,
+        "summary": "Đứa trẻ vẫn có thể ngủ trong một căn nhà."
+      },
+      {
         "path": "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
         "title": "Cái Gì Trong Bạn Không Thể Bị Model Hóa?",
         "domain": "mental-models",
@@ -10175,47 +10290,6 @@
         ],
         "words": 2160,
         "summary": "Một thời gian dài, xã hội đo con người bằng output."
-      },
-      {
-        "path": "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-        "title": "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-        "domain": "mental-models",
-        "tags": [
-          "care-economy",
-          "covenant",
-          "dopamine-economy",
-          "family",
-          "marriage",
-          "mental-models"
-        ],
-        "aliases": [
-          "Covenant Và Care Work",
-          "Marriage as Last Infrastructure",
-          "Nghĩa Tình Vợ Chồng"
-        ],
-        "headings": [
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-          "Covenant Không Phải Subscription",
-          "Dopamine Market Và Sự Phản Bội Nhẹ Nhàng",
-          "Care Work Là Cơ Sở Hạ Tầng Vô Hình",
-          "Về Già Mới Biết Tình Yêu Có Thật Không",
-          "Ma Trận Ghét Những Hạ Tầng Không Trung Gian",
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
-        ],
-        "wikilinks": [
-          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Ma Trận"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md"
-        ],
-        "backlinks": [],
-        "words": 1605,
-        "summary": "!Tình Nghĩa Là Hạ Tầng Cuối Cùng"
       }
     ],
     "politics-conspiracy": [
@@ -12437,6 +12511,7 @@
           "Tà Linh",
           "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
           "Tâm Lý Học Jung",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
           "Tình Yêu Tỉnh Thức",
           "Tư Duy Lũy Thừa",
           "Tồn Tại Để Làm Gì - Hay Câu Hỏi Đã Sai Từ Đầu",
@@ -12544,6 +12619,7 @@
           "mental-models/Thông Minh vs Trí Tuệ.md",
           "mental-models/Trí Tuệ.md",
           "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
           "mental-models/Tư Duy Lũy Thừa.md",
           "mental-models/UBI Conditioning - The End of Work Ethic.md",
           "mental-models/Vô Thức Tập Thể.md",
@@ -12594,7 +12670,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 3122,
+        "words": 3160,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14991,6 +15067,7 @@
         "Tà Linh",
         "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
         "Tâm Lý Học Jung",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
         "Tình Yêu Tỉnh Thức",
         "Tư Duy Lũy Thừa",
         "Tồn Tại Để Làm Gì - Hay Câu Hỏi Đã Sai Từ Đầu",
@@ -15098,6 +15175,7 @@
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Trí Tuệ.md",
         "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
         "mental-models/Tư Duy Lũy Thừa.md",
         "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "mental-models/Vô Thức Tập Thể.md",
@@ -15148,7 +15226,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 3122,
+      "words": 3160,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -16419,6 +16497,139 @@
       "summary": "**Agenda 2030 không cần được đọc như một âm mưu cartoon. Nó đáng đọc như một hệ điều hành quản trị đang hiện hình qua các mảnh tưởng như rời rạc: khí hậu, y tế, tiền tệ số, danh tính số, thành phố thông minh, dữ liệu hành vi, ESG, AI governance và ngôn ngữ đạ…"
     },
     {
+      "path": "mental-models/index.md",
+      "title": "Mental Models Domain Gateway",
+      "domain": "mental-models",
+      "tags": [
+        "domain-gateway",
+        "epistemology",
+        "mental-model"
+      ],
+      "aliases": [
+        "Mental Models",
+        "Mô Hình Tư Duy"
+      ],
+      "headings": [
+        "Mental Models Domain Gateway",
+        "How To Read This Domain",
+        "Curated Reading Paths",
+        "1. Beginner Path — Thinking Tools Before Identity",
+        "2. Power-User Path — Jung, Shadow, Individuation",
+        "3. High-Risk Caution Path — Dopamine, Addiction, Manipulation",
+        "4. Perception Path — Duality, Identity, Self-Deception",
+        "5. Cross-Domain Bridge Path — Gen Z, Compliance, Future Self",
+        "6. AI-Age Agency Path — Mind Versus Machine",
+        "Key Hubs",
+        "Flagship Articles",
+        "Money, Dopamine & Survival Discipline",
+        "Gen Z & Agenda 2030 Path",
+        "Related Gateways",
+        "Notes"
+      ],
+      "wikilinks": [
+        "AI",
+        "Ai Đứng Bên Kia Giao Dịch",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Chia Tách Bởi Nhị Nguyên",
+        "Climate Anxiety as Control - Fear-Based Compliance",
+        "crypto-finance/index",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "esoterica/index",
+        "Gen Z - Phân Tích Phản Biện",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Individuation",
+        "Kiểm Soát Tâm Trí",
+        "Luân Hồi Trên Home Screen",
+        "Ma Trận",
+        "Mental Model",
+        "MOC - Epistemology & Propaganda",
+        "MOC - Esoterica & Consciousness",
+        "MOC - Financial Sovereignty",
+        "MOC - Market Psychology & Risk",
+        "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nguyên Mẫu",
+        "Nhị Nguyên",
+        "politics-conspiracy/index",
+        "Privacy Is The New Wealth",
+        "Red Pill Wiki",
+        "S.E.X Và Tâm Lý Học Jung",
+        "Schadenfreude - Dopamine Phản Diện",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Sự Thật Ẩn Sau Con Người Bạn",
+        "Thông Minh vs Trí Tuệ",
+        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "Tâm bất Biến",
+        "Tâm Lý Học Jung",
+        "Tâm Lý Học Tiến Hóa Về Giới Tính",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+        "Tư Duy Lũy Thừa",
+        "UBI Conditioning - The End of Work Ethic",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/index.md",
+        "esoterica/index.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "index.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "mental-models/Individuation.md",
+        "mental-models/Luân Hồi Trên Home Screen.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "mental-models/Tâm bất Biến.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Esoterica & Consciousness.md",
+        "MOC - Financial Sovereignty.md",
+        "MOC - Market Psychology & Risk.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "science-tech/AI.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+      ],
+      "backlinks": [
+        "crypto-finance/index.md",
+        "esoterica/index.md",
+        "health/index.md",
+        "index.md",
+        "politics-conspiracy/index.md"
+      ],
+      "words": 1087,
+      "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
+    },
+    {
       "path": "health/Y Tế Tự Nhiên.md",
       "title": "Y Tế Tự Nhiên",
       "domain": "health",
@@ -16511,137 +16722,6 @@
       ],
       "words": 1127,
       "summary": "**Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…"
-    },
-    {
-      "path": "mental-models/index.md",
-      "title": "Mental Models Domain Gateway",
-      "domain": "mental-models",
-      "tags": [
-        "domain-gateway",
-        "epistemology",
-        "mental-model"
-      ],
-      "aliases": [
-        "Mental Models",
-        "Mô Hình Tư Duy"
-      ],
-      "headings": [
-        "Mental Models Domain Gateway",
-        "How To Read This Domain",
-        "Curated Reading Paths",
-        "1. Beginner Path — Thinking Tools Before Identity",
-        "2. Power-User Path — Jung, Shadow, Individuation",
-        "3. High-Risk Caution Path — Dopamine, Addiction, Manipulation",
-        "4. Perception Path — Duality, Identity, Self-Deception",
-        "5. Cross-Domain Bridge Path — Gen Z, Compliance, Future Self",
-        "6. AI-Age Agency Path — Mind Versus Machine",
-        "Key Hubs",
-        "Flagship Articles",
-        "Money, Dopamine & Survival Discipline",
-        "Gen Z & Agenda 2030 Path",
-        "Related Gateways",
-        "Notes"
-      ],
-      "wikilinks": [
-        "AI",
-        "Ai Đứng Bên Kia Giao Dịch",
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-        "Chia Tách Bởi Nhị Nguyên",
-        "Climate Anxiety as Control - Fear-Based Compliance",
-        "crypto-finance/index",
-        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
-        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "esoterica/index",
-        "Gen Z - Phân Tích Phản Biện",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
-        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-        "Individuation",
-        "Kiểm Soát Tâm Trí",
-        "Luân Hồi Trên Home Screen",
-        "Ma Trận",
-        "Mental Model",
-        "MOC - Epistemology & Propaganda",
-        "MOC - Esoterica & Consciousness",
-        "MOC - Financial Sovereignty",
-        "MOC - Market Psychology & Risk",
-        "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nguyên Mẫu",
-        "Nhị Nguyên",
-        "politics-conspiracy/index",
-        "Privacy Is The New Wealth",
-        "Red Pill Wiki",
-        "S.E.X Và Tâm Lý Học Jung",
-        "Schadenfreude - Dopamine Phản Diện",
-        "Sợ hãi - Tham Lam – Cân bằng",
-        "Sự Thật Ẩn Sau Con Người Bạn",
-        "Thông Minh vs Trí Tuệ",
-        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "Tâm bất Biến",
-        "Tâm Lý Học Jung",
-        "Tâm Lý Học Tiến Hóa Về Giới Tính",
-        "Tư Duy Lũy Thừa",
-        "UBI Conditioning - The End of Work Ethic",
-        "Vô Thức Tập Thể"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/index.md",
-        "esoterica/index.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "index.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
-        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-        "mental-models/Gen Z - Phân Tích Phản Biện.md",
-        "mental-models/Individuation.md",
-        "mental-models/Luân Hồi Trên Home Screen.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Privacy Is The New Wealth.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "mental-models/Tâm bất Biến.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "mental-models/Tư Duy Lũy Thừa.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Esoterica & Consciousness.md",
-        "MOC - Financial Sovereignty.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "science-tech/AI.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-      ],
-      "backlinks": [
-        "crypto-finance/index.md",
-        "esoterica/index.md",
-        "health/index.md",
-        "index.md",
-        "politics-conspiracy/index.md"
-      ],
-      "words": 1080,
-      "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
       "path": "mental-models/Individuation.md",
@@ -18481,45 +18561,61 @@
       "summary": "**Plasma Quinton là nước biển được xử lý theo phương pháp René Quinton, thường được đọc trong health sovereignty như một cách hỗ trợ terrain khoáng chất và nội môi. Điểm cốt lõi không phải “nước biển chữa mọi bệnh”, mà là câu hỏi sâu hơn: cơ thể có thể tự sửa…"
     },
     {
-      "path": "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-      "title": "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+      "path": "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+      "title": "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
       "domain": "mental-models",
       "tags": [
         "care-economy",
-        "covenant",
         "dopamine-economy",
         "family",
-        "marriage",
-        "mental-models"
+        "matrix",
+        "mental-models",
+        "orphan-train",
+        "predictive-programming",
+        "tartaria",
+        "transhumanism"
       ],
       "aliases": [
-        "Covenant Và Care Work",
-        "Marriage as Last Infrastructure",
-        "Nghĩa Tình Vợ Chồng"
+        "Artificial Womb Và Orphan Train Mới",
+        "Digital Orphan Train",
+        "Orphan Train 2.0",
+        "Trẻ Em Sau Reset"
       ],
       "headings": [
-        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-        "Covenant Không Phải Subscription",
-        "Dopamine Market Và Sự Phản Bội Nhẹ Nhàng",
-        "Care Work Là Cơ Sở Hạ Tầng Vô Hình",
-        "Về Già Mới Biết Tình Yêu Có Thật Không",
-        "Ma Trận Ghét Những Hạ Tầng Không Trung Gian",
-        "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+        "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "Evidence Discipline / Cách Đọc Bài Này",
+        "1. Orphan Train Cũ: Cơ Thể Trẻ Em Được Chuyển Tuyến",
+        "2. Tartaria, Reset Memory Và Câu Hỏi Về Population Sorting",
+        "3. Orphan Không Chỉ Là Không Có Cha Mẹ",
+        "4. Orphan Train Mới: Không Có Nhà Ga",
+        "5. Gender War Là Ga Khởi Hành",
+        "6. Dopamine Economy Là Máy Cắt Bond",
+        "7. IVF, Surrogacy, Artificial Womb: Khi Sinh Sản Tách Khỏi Dòng Máu",
+        "8. Artificial Womb Và Đứa Trẻ Như Sản Phẩm Logistics",
+        "9. Trẻ Em Người Máy Không Phải Không Có Linh Hồn",
+        "10. Predictive Programming: Phim Ảnh Đã Tập Cho Ta Nhìn Thấy Điều Này",
+        "11. Endpoint: Công Dân Không Cần Gia Đình",
+        "12. Counterspell: Care Infrastructure",
+        "Final Line"
       ],
       "wikilinks": [
-        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "Ma Trận"
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "Tartaria",
+        "Tâm Lý Học Tiến Hóa Về Giới Tính",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
       ],
       "mdlinks": [],
       "outlinks": [
-        "esoterica/Ma Trận.md",
-        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md"
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Tartaria.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md"
       ],
       "backlinks": [],
-      "words": 1605,
-      "summary": "!Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+      "words": 2530,
+      "summary": "Đứa trẻ vẫn có thể ngủ trong một căn nhà."
     }
   ],
   "sinks": [
@@ -18779,7 +18875,7 @@
     ],
     [
       "matrix",
-      12
+      13
     ],
     [
       "symbolism",
@@ -18858,6 +18954,10 @@
       5
     ],
     [
+      "mental-models",
+      5
+    ],
+    [
       "privacy",
       4
     ],
@@ -18878,6 +18978,14 @@
       4
     ],
     [
+      "predictive-programming",
+      4
+    ],
+    [
+      "tartaria",
+      4
+    ],
+    [
       "awakening",
       4
     ],
@@ -18887,10 +18995,6 @@
     ],
     [
       "cancer",
-      4
-    ],
-    [
-      "mental-models",
       4
     ],
     [
@@ -18914,15 +19018,7 @@
       3
     ],
     [
-      "predictive-programming",
-      3
-    ],
-    [
       "history",
-      3
-    ],
-    [
-      "tartaria",
       3
     ],
     [
@@ -18951,6 +19047,18 @@
     ],
     [
       "attention",
+      3
+    ],
+    [
+      "care-economy",
+      3
+    ],
+    [
+      "family",
+      3
+    ],
+    [
+      "dopamine-economy",
       3
     ],
     [
@@ -18994,15 +19102,7 @@
       2
     ],
     [
-      "care-economy",
-      2
-    ],
-    [
-      "family",
-      2
-    ],
-    [
-      "dopamine-economy",
+      "transhumanism",
       2
     ],
     [
@@ -19139,10 +19239,6 @@
     ],
     [
       "media",
-      1
-    ],
-    [
-      "ritual",
       1
     ]
   ],
@@ -24708,6 +24804,7 @@
         "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
         "Glossary - Từ Điển Red Pill Wiki.md",
         "index.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
@@ -25419,6 +25516,7 @@
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
         "esoterica/Thành Cổ Loa.md",
         "index.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "MOC - Ancient Civilizations & Hidden History.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Bức Tường Băng.md",
@@ -28389,6 +28487,7 @@
         "Tà Linh",
         "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
         "Tâm Lý Học Jung",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
         "Tình Yêu Tỉnh Thức",
         "Tư Duy Lũy Thừa",
         "Tồn Tại Để Làm Gì - Hay Câu Hỏi Đã Sai Từ Đầu",
@@ -28496,6 +28595,7 @@
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Trí Tuệ.md",
         "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
         "mental-models/Tư Duy Lũy Thừa.md",
         "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "mental-models/Vô Thức Tập Thể.md",
@@ -28546,7 +28646,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 3122,
+      "words": 3160,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
@@ -29000,6 +29100,7 @@
         "mental-models/index.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
         "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
         "mental-models/Tư Duy Lũy Thừa.md",
@@ -29536,6 +29637,63 @@
       ],
       "words": 727,
       "summary": "**Nhị nguyên là cơ chế Một tự phân cực thành hai để tạo trải nghiệm: sáng/tối, nam/nữ, âm/dương, đúng/sai, ta/địch.** Nó không xấu; nó là grammar của cõi vật chất. Cái bẫy bắt đầu khi con người quên field lớn hơn và để hai cực dựng thành nhà tù nhận thức."
+    },
+    "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md": {
+      "path": "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+      "title": "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+      "domain": "mental-models",
+      "tags": [
+        "care-economy",
+        "dopamine-economy",
+        "family",
+        "matrix",
+        "mental-models",
+        "orphan-train",
+        "predictive-programming",
+        "tartaria",
+        "transhumanism"
+      ],
+      "aliases": [
+        "Artificial Womb Và Orphan Train Mới",
+        "Digital Orphan Train",
+        "Orphan Train 2.0",
+        "Trẻ Em Sau Reset"
+      ],
+      "headings": [
+        "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "Evidence Discipline / Cách Đọc Bài Này",
+        "1. Orphan Train Cũ: Cơ Thể Trẻ Em Được Chuyển Tuyến",
+        "2. Tartaria, Reset Memory Và Câu Hỏi Về Population Sorting",
+        "3. Orphan Không Chỉ Là Không Có Cha Mẹ",
+        "4. Orphan Train Mới: Không Có Nhà Ga",
+        "5. Gender War Là Ga Khởi Hành",
+        "6. Dopamine Economy Là Máy Cắt Bond",
+        "7. IVF, Surrogacy, Artificial Womb: Khi Sinh Sản Tách Khỏi Dòng Máu",
+        "8. Artificial Womb Và Đứa Trẻ Như Sản Phẩm Logistics",
+        "9. Trẻ Em Người Máy Không Phải Không Có Linh Hồn",
+        "10. Predictive Programming: Phim Ảnh Đã Tập Cho Ta Nhìn Thấy Điều Này",
+        "11. Endpoint: Công Dân Không Cần Gia Đình",
+        "12. Counterspell: Care Infrastructure",
+        "Final Line"
+      ],
+      "wikilinks": [
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "Tartaria",
+        "Tâm Lý Học Tiến Hóa Về Giới Tính",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Tartaria.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md"
+      ],
+      "backlinks": [],
+      "words": 2530,
+      "summary": "Đứa trẻ vẫn có thể ngủ trong một căn nhà."
     },
     "mental-models/Privacy Is The New Wealth.md": {
       "path": "mental-models/Privacy Is The New Wealth.md",
@@ -30232,7 +30390,8 @@
         "Psychology",
         "Ma Trận & Control",
         "Disclosure & Programming",
-        "History & Cycles"
+        "History & Cycles",
+        "Tình Nghĩa Và Pair Bonding Khi Thân Thể Xuống Cấp"
       ],
       "wikilinks": [
         "Báo Cáo 2030",
@@ -30257,6 +30416,7 @@
         "Thực Thể Cõi Trung Giới",
         "Tà Linh",
         "Tâm Lý Học Jung",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
         "Vô Thức Tập Thể",
         "Word Magic - Ngôn Ngữ Của Phù Thủy"
       ],
@@ -30281,6 +30441,7 @@
         "mental-models/Nguyên Mẫu.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
         "mental-models/Vô Thức Tập Thể.md",
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Elite.md",
@@ -30289,9 +30450,11 @@
       ],
       "backlinks": [
         "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-        "mental-models/index.md"
+        "mental-models/index.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md"
       ],
-      "words": 3179,
+      "words": 3293,
       "summary": "Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about mal…"
     },
     "mental-models/Tâm bất Biến.md": {
@@ -30383,16 +30546,23 @@
       "wikilinks": [
         "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "Ma Trận"
+        "Ma Trận",
+        "Tâm Lý Học Tiến Hóa Về Giới Tính"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/Ma Trận.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md"
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
       ],
-      "backlinks": [],
-      "words": 1605,
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
+      ],
+      "words": 1657,
       "summary": "!Tình Nghĩa Là Hạ Tầng Cuối Cùng"
     },
     "mental-models/Tư Duy Lũy Thừa.md": {
@@ -30658,6 +30828,7 @@
         "Tâm bất Biến",
         "Tâm Lý Học Jung",
         "Tâm Lý Học Tiến Hóa Về Giới Tính",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
         "Tư Duy Lũy Thừa",
         "UBI Conditioning - The End of Work Ethic",
         "Vô Thức Tập Thể"
@@ -30695,6 +30866,7 @@
         "mental-models/Tâm bất Biến.md",
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
         "mental-models/Tư Duy Lũy Thừa.md",
         "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "mental-models/Vô Thức Tập Thể.md",
@@ -30715,7 +30887,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1080,
+      "words": 1087,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
