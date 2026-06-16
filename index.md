@@ -314,8 +314,9 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### June 16, 2026
 
+- **[[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]** - new mental-models bridge article reading the cabbage-baby / Cabbage Patch motif as symbolic rehearsal for child logistics, artificial womb, adoption-as-product ritual and Orphan Train 2.0; includes section-level image-gen illustrations.
 - **[[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]** - new mental-models bridge article connecting Orphan Train history, Tartaria/reset-memory questions, family care collapse, dopamine economy, reproductive technology, predictive programming and programmable children; written with explicit fact / pattern / symbol / speculative synthesis discipline.
-- **Knowledge map refresh** - vault map rebuilt after the Orphan Train 2.0 update; root counts synced to 213 notes and Mental Models 33 notes.
+- **Knowledge map refresh** - vault map rebuilt after the Orphan Train 2.0 and Em Bé Bắp Cải updates; root counts synced to 218 notes and Mental Models 34 notes.
 
 ### June 14, 2026
 
