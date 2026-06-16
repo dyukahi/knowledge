@@ -12,7 +12,7 @@
       "science-tech": 18
     },
     "tags": 203,
-    "wikilinkEdges": 2110,
+    "wikilinkEdges": 2111,
     "brokenLinks": 4,
     "orphans": 9
   },
@@ -1250,6 +1250,7 @@
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
           "mental-models/Mô Hình Địa Tâm.md",
           "mental-models/Nhị Nguyên.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
           "mental-models/Privacy Is The New Wealth.md",
           "mental-models/Schadenfreude - Dopamine Phản Diện.md",
           "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
@@ -9969,6 +9970,68 @@
         "summary": "**Bạn không chỉ là một cá nhân tách rời đang cố sống sót trong một vũ trụ lạnh. Bạn là một điểm nhìn của toàn thể, đang học cách nhớ lại mối liên hệ đã bị che bởi thân xác, ngôn ngữ, trauma, giáo dục và Ma Trận.** Khoa học hiện đại không \"chứng minh\" toàn bộ…"
       },
       {
+        "path": "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "title": "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "domain": "mental-models",
+        "tags": [
+          "care-economy",
+          "dopamine-economy",
+          "family",
+          "matrix",
+          "mental-models",
+          "orphan-train",
+          "predictive-programming",
+          "tartaria",
+          "transhumanism"
+        ],
+        "aliases": [
+          "Artificial Womb Và Orphan Train Mới",
+          "Digital Orphan Train",
+          "Orphan Train 2.0",
+          "Trẻ Em Sau Reset"
+        ],
+        "headings": [
+          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+          "Evidence Discipline / Cách Đọc Bài Này",
+          "1. Orphan Train Cũ: Khi Cơ Thể Trẻ Em Được Chuyển Tuyến",
+          "2. Tartaria, Reset Memory Và Population Sorting",
+          "3. Orphan Không Chỉ Là Không Có Cha Mẹ",
+          "4. Orphan Train Mới Không Có Nhà Ga",
+          "5. Gender War Là Ga Khởi Hành",
+          "6. Dopamine Economy Là Máy Cắt Bond",
+          "7. IVF, Surrogacy, Artificial Womb: Khi Sinh Sản Tách Khỏi Dòng Máu",
+          "8. Artificial Womb Và Đứa Trẻ Như Sản Phẩm Logistics",
+          "9. Trẻ Em Người Máy Không Phải Không Có Linh Hồn",
+          "10. Predictive Programming: Phim Ảnh Đã Tập Cho Ta Nhìn Thấy Điều Này",
+          "11. Endpoint: Công Dân Không Cần Gia Đình",
+          "12. Counterspell: Care Infrastructure",
+          "Final Line"
+        ],
+        "wikilinks": [
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Ma Trận",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Tartaria",
+          "Tâm Lý Học Tiến Hóa Về Giới Tính",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Tartaria.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md"
+        ],
+        "words": 2810,
+        "summary": "Một đứa trẻ hôm nay vẫn có thể ngủ trong một căn nhà, có người lớn ký giấy tờ, có trường học, bảo hiểm, tài khoản iCloud, đồng hồ thông minh, lịch tiêm, lớp kỹ năng, camera trong phòng và app theo dõi giấc ngủ. Nhưng câu hỏi thật không phải là đứa trẻ có được…"
+      },
+      {
         "path": "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
         "title": "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
         "domain": "mental-models",
@@ -10105,66 +10168,6 @@
         ],
         "words": 998,
         "summary": "!Home Screen Samsara"
-      },
-      {
-        "path": "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-        "title": "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
-        "domain": "mental-models",
-        "tags": [
-          "care-economy",
-          "dopamine-economy",
-          "family",
-          "matrix",
-          "mental-models",
-          "orphan-train",
-          "predictive-programming",
-          "tartaria",
-          "transhumanism"
-        ],
-        "aliases": [
-          "Artificial Womb Và Orphan Train Mới",
-          "Digital Orphan Train",
-          "Orphan Train 2.0",
-          "Trẻ Em Sau Reset"
-        ],
-        "headings": [
-          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
-          "Evidence Discipline / Cách Đọc Bài Này",
-          "1. Orphan Train Cũ: Cơ Thể Trẻ Em Được Chuyển Tuyến",
-          "2. Tartaria, Reset Memory Và Câu Hỏi Về Population Sorting",
-          "3. Orphan Không Chỉ Là Không Có Cha Mẹ",
-          "4. Orphan Train Mới: Không Có Nhà Ga",
-          "5. Gender War Là Ga Khởi Hành",
-          "6. Dopamine Economy Là Máy Cắt Bond",
-          "7. IVF, Surrogacy, Artificial Womb: Khi Sinh Sản Tách Khỏi Dòng Máu",
-          "8. Artificial Womb Và Đứa Trẻ Như Sản Phẩm Logistics",
-          "9. Trẻ Em Người Máy Không Phải Không Có Linh Hồn",
-          "10. Predictive Programming: Phim Ảnh Đã Tập Cho Ta Nhìn Thấy Điều Này",
-          "11. Endpoint: Công Dân Không Cần Gia Đình",
-          "12. Counterspell: Care Infrastructure",
-          "Final Line"
-        ],
-        "wikilinks": [
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Tartaria",
-          "Tâm Lý Học Tiến Hóa Về Giới Tính",
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Tartaria.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "mental-models/index.md"
-        ],
-        "words": 2530,
-        "summary": "Đứa trẻ vẫn có thể ngủ trong một căn nhà."
       },
       {
         "path": "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
@@ -15413,6 +15416,7 @@
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/Mô Hình Địa Tâm.md",
         "mental-models/Nhị Nguyên.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Privacy Is The New Wealth.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
@@ -23662,6 +23666,7 @@
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/Mô Hình Địa Tâm.md",
         "mental-models/Nhị Nguyên.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Privacy Is The New Wealth.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
@@ -29624,10 +29629,10 @@
       "headings": [
         "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
         "Evidence Discipline / Cách Đọc Bài Này",
-        "1. Orphan Train Cũ: Cơ Thể Trẻ Em Được Chuyển Tuyến",
-        "2. Tartaria, Reset Memory Và Câu Hỏi Về Population Sorting",
+        "1. Orphan Train Cũ: Khi Cơ Thể Trẻ Em Được Chuyển Tuyến",
+        "2. Tartaria, Reset Memory Và Population Sorting",
         "3. Orphan Không Chỉ Là Không Có Cha Mẹ",
-        "4. Orphan Train Mới: Không Có Nhà Ga",
+        "4. Orphan Train Mới Không Có Nhà Ga",
         "5. Gender War Là Ga Khởi Hành",
         "6. Dopamine Economy Là Máy Cắt Bond",
         "7. IVF, Surrogacy, Artificial Womb: Khi Sinh Sản Tách Khỏi Dòng Máu",
@@ -29640,6 +29645,7 @@
       ],
       "wikilinks": [
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Ma Trận",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Tartaria",
         "Tâm Lý Học Tiến Hóa Về Giới Tính",
@@ -29647,6 +29653,7 @@
       ],
       "mdlinks": [],
       "outlinks": [
+        "esoterica/Ma Trận.md",
         "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
         "esoterica/Tartaria.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -29657,8 +29664,8 @@
         "index.md",
         "mental-models/index.md"
       ],
-      "words": 2530,
-      "summary": "Đứa trẻ vẫn có thể ngủ trong một căn nhà."
+      "words": 2810,
+      "summary": "Một đứa trẻ hôm nay vẫn có thể ngủ trong một căn nhà, có người lớn ký giấy tờ, có trường học, bảo hiểm, tài khoản iCloud, đồng hồ thông minh, lịch tiêm, lớp kỹ năng, camera trong phòng và app theo dõi giấc ngủ. Nhưng câu hỏi thật không phải là đứa trẻ có được…"
     },
     "mental-models/Privacy Is The New Wealth.md": {
       "path": "mental-models/Privacy Is The New Wealth.md",

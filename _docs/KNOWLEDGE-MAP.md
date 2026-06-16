@@ -7,7 +7,7 @@
 - **Notes scanned:** 213
 - **Top-level domains:** 8
 - **Tags detected:** 203
-- **Resolved internal edges:** 2110
+- **Resolved internal edges:** 2111
 - **Broken/unresolved links:** 4
 - **Orphan notes:** 9
 
@@ -25,7 +25,7 @@ Recommended note types:
 
 ### Esoterica / Huyền học `esoterica` — 74 notes
 
-- [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `124`, backlinks `98`, outlinks `26` — #consciousness, #control-system, #esoterica, #matrix
+- [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `125`, backlinks `99`, outlinks `26` — #consciousness, #control-system, #esoterica, #matrix
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `56`, backlinks `25`, outlinks `31` — #consciousness, #esoterica, #matrix, #meta
 - [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `55`, backlinks `43`, outlinks `12` — #consciousness, #esoterica, #gnosis, #matrix
 - [[esoterica/index|Esoterica Domain Gateway]] — degree `45`, backlinks `4`, outlinks `41` — #consciousness, #domain-gateway, #esoterica
@@ -151,7 +151,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 
 1. [[index|Red Pill Wiki]] — degree `140` · backlinks `7` · outlinks `133`
    - **Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn.
-2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `124` · backlinks `98` · outlinks `26`
+2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `125` · backlinks `99` · outlinks `26`
    - **Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**
 3. [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `97` · backlinks `63` · outlinks `34`
    - **Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reali…
