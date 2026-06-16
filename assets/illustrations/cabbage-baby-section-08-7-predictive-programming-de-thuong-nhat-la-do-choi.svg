@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="symbolic editorial illustration">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#203b2b"/><stop offset="1" stop-color="#c8b66b"/></linearGradient><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.7" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .08"/></feComponentTransfer></filter></defs>
+<rect width="1200" height="675" fill="url(#g)"/>
+<circle cx="368" cy="466" r="32" fill="#86b56a" opacity="0.18"/>
+<circle cx="505" cy="549" r="49" fill="#86b56a" opacity="0.22"/>
+<circle cx="642" cy="152" r="66" fill="#86b56a" opacity="0.08"/>
+<circle cx="779" cy="235" r="29" fill="#86b56a" opacity="0.12"/>
+<circle cx="916" cy="318" r="46" fill="#86b56a" opacity="0.15"/>
+<circle cx="1053" cy="401" r="63" fill="#86b56a" opacity="0.18"/>
+<circle cx="230" cy="484" r="26" fill="#86b56a" opacity="0.22"/>
+<circle cx="367" cy="567" r="43" fill="#86b56a" opacity="0.08"/>
+
+<path d="M600 130 C560 250 500 320 420 390" fill="none" stroke="#f5e7c6" stroke-width="12" opacity=".5"/>
+<path d="M600 130 C640 250 700 320 780 390" fill="none" stroke="#f5e7c6" stroke-width="12" opacity=".5"/>
+<path d="M420 390 C330 440 260 500 190 585" fill="none" stroke="#86b56a" stroke-width="8" opacity=".55"/>
+<path d="M780 390 C870 440 940 500 1010 585" fill="none" stroke="#86b56a" stroke-width="8" opacity=".55"/>
+<ellipse cx="600" cy="470" rx="210" ry="74" fill="#f5e7c6" opacity=".18"/>
+<rect width="1200" height="675" filter="url(#grain)" opacity=".45"/>
+</svg>
