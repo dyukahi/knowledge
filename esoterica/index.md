@@ -18,6 +18,22 @@ related:
 
 ---
 
+## Core Matrix Pack
+
+Đây là reading path trung tâm cho phần Esoterica/Consciousness của vault. Đọc nó như một ladder: method trước, rồi system, rồi self, rồi source, rồi extraction.
+
+1. [[Cách Đọc Red Pill Wiki]]
+2. [[Ma Trận]]
+3. [[Ma Trận - Giải Phẫu Hoàn Chỉnh]]
+4. [[Monad]]
+5. [[Gnosis]]
+6. [[Sự Nhất Thể]]
+7. [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]]
+
+> Không đọc ngược thành paranoia. Core Matrix Pack là để lấy lại perception, không phải để sợ thêm một thế giới.
+
+---
+
 ## How To Read This Domain
 
 Đọc domain này theo bốn tầng. **Fact/documentable** là lịch sử, văn bản, bản đồ, nhân vật, tác phẩm, biểu tượng có thể truy lại. **Pattern/systems** là cấu trúc lặp lại giữa tôn giáo, media, architecture, trauma và control. **Symbol/myth** là ngôn ngữ archetype: rắn, cube, Source, fall, ascent, initiation. **Speculative synthesis** là nơi vault nối các tầng lại thành model, nhưng không giả vờ đó là chứng cứ cấp một.

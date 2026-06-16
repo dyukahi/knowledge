@@ -339,3 +339,10 @@ Cần acknowledge: *Need to acknowledge:*
 - **Nag Hammadi Library** — Gnostic texts on Archons
 - **Sol Luckman** — Contemporary loosh researcher
 - Vault articles: [[Ma Trận]], [[Thực Thể Cõi Trung Giới]], [[Năng Lượng Tình Dục]]
+
+## Claim Discipline / Cách Đọc Loosh
+
+Loosh là một trong những concept dễ bị đọc sai nhất. Tầng fact không phải là “có máy móc bí mật đo năng lượng cảm xúc” theo nghĩa thô. Tầng fact gần hơn là: attention, emotion, outrage, fear và desire có thể bị đo, kích hoạt, monetized và điều hướng bởi media, platform, politics và commerce.
+
+Tầng pattern là: hệ thống nào càng tạo được nhiều fear, shame, envy, lust, outrage và despair thì càng giữ con người trong vòng phản ứng. Tầng symbol là: cảm xúc thấp giống một dạng fuel, một thứ “năng lượng” bị harvest. Tầng speculative synthesis mới là nơi nối với archon, prison planet hoặc entity feeding. Đọc Loosh đúng là thấy cơ chế extraction trong đời sống, không phải chỉ tin thêm một mythology mới.
+
