@@ -149,6 +149,8 @@ Artificial womb / ectogenesis là motif đáng theo dõi vì nó sẽ được b
 
 Ai sở hữu dữ liệu thai kỳ? Ai quyết định tiêu chuẩn phát triển tối ưu? Ai được cấp quyền sinh con? Ai bị xem là rủi ro sinh học? Ai lập trình môi trường trước khi đứa trẻ có một người mẹ ôm nó? Khi đứa trẻ được sản xuất trong một hệ thống chuẩn hóa, family không còn là nơi sinh ra nó. Family trở thành nơi nhận hàng.
 
+Đây là chỗ wordplay tiếng Anh lộ ra rất sắc: phòng sinh được gọi là **delivery room**. Tầng bình thường: nơi em bé được sinh ra. Tầng ngôn ngữ-thương mại: nơi một item được delivered. Trong grammar của luật biển và thương mại, delivery không chỉ là sinh nở; nó là giao hàng, chuyển quyền kiểm soát, hoàn tất logistics. Đọc như symbol, không phải bằng chứng pháp lý: khi birth bị dịch thành delivery, child dễ bị tưởng tượng như cargo đi qua chain of custody. Family lúc đó không còn là womb-field của lineage, mà là receiving address trong một hệ thống vận chuyển sự sống.
+
 ---
 
 ## 9. Trẻ Em Người Máy Không Phải Không Có Linh Hồn
