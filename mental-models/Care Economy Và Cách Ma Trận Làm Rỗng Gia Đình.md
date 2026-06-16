@@ -29,6 +29,21 @@ Trẻ con không kể nữa. Người già không tin con nữa. Người lớn 
 
 ---
 
+
+## Publication Pack / Family, Dopamine & Orphan Train
+
+Bài này thuộc **Family, Dopamine & Orphan Train Pack**: đọc dating/gender/family collapse như một hệ thống extraction, không như cuộc chiến scapegoat giữa nam và nữ.
+
+Reading path:
+
+1. [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — desire bị capture như infrastructure.
+2. [[Tâm Lý Học Tiến Hóa Về Giới Tính]] — incentive khác nhau của nam/nữ, đọc để hiểu chứ không để hạ nhục.
+3. [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] — care bị rút khỏi nhà và bán lại như service.
+4. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] — trẻ em bị tách khỏi lineage, attention và memory.
+5. [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]] — counterspell: rebuild care, covenant và nghĩa tình.
+
+Rule của pack: critique system/incentive layer, không scapegoat phụ nữ, đàn ông, IVF users, gay families hay trẻ em.
+
 ## 1. Care Là Hạ Tầng Vô Hình Của Gia Đình
 
 Care không chỉ là nấu cơm, trông con, chăm người già hay lau nhà. Care là hạ tầng vô hình giữ cho một gia đình còn là gia đình:

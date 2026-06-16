@@ -18,6 +18,20 @@ related:
 
 ---
 
+## Family, Dopamine & Orphan Train Pack
+
+Đây là pack để đọc crisis của dating, gender, attention và family formation mà không rơi vào incel/PUA/femcel rage-bait. Trục đọc là: desire bị capture → gender incentives bị weaponized → care bị rút khỏi gia đình → trẻ em bị tách khỏi lineage → tình nghĩa trở thành hạ tầng cuối cùng.
+
+1. [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]
+2. [[Tâm Lý Học Tiến Hóa Về Giới Tính]]
+3. [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]]
+4. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
+5. [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
+
+> Rule: critique systems and incentives, not identities.
+
+---
+
 ## How To Read This Domain
 
 Đọc mental models như tools, không như identity. Một model tốt giúp thấy nhiều hơn; một model bị thần tượng hóa sẽ trở thành nhà tù mới. Khi một bài nói về dopamine, Gen Z, sex, fear, greed, intelligence hay Jung, hãy hỏi:

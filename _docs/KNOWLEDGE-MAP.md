@@ -7,7 +7,7 @@
 - **Notes scanned:** 216
 - **Top-level domains:** 8
 - **Tags detected:** 203
-- **Resolved internal edges:** 2150
+- **Resolved internal edges:** 2162
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 11
 
@@ -44,11 +44,11 @@ Recommended note types:
 - [[mental-models/index|Mental Models Domain Gateway]] — degree `50`, backlinks `5`, outlinks `45` — #domain-gateway, #epistemology, #mental-model
 - [[mental-models/Individuation|Individuation]] — degree `47`, backlinks `39`, outlinks `8` — #consciousness, #jung, #mental-model
 - [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `38`, backlinks `29`, outlinks `9` — #consciousness, #jung, #mental-model
+- [[mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính|Tâm Lý Học Tiến Hóa Về Giới Tính]] — degree `36`, backlinks `8`, outlinks `28` — #science-tech
 - [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]] — degree `35`, backlinks `29`, outlinks `6` — #consciousness, #mental-model
-- [[mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính|Tâm Lý Học Tiến Hóa Về Giới Tính]] — degree `31`, backlinks `6`, outlinks `25` — #science-tech
+- [[mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — degree `34`, backlinks `22`, outlinks `12` — #matrix, #mental-model, #psychology, #social-media
 - [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]] — degree `30`, backlinks `23`, outlinks `7` — #consciousness, #jung, #mental-model, #psychology
 - [[mental-models/Bộ Não Rỗng và AI Brain Rot|Bộ Não Rỗng và AI Brain Rot]] — degree `29`, backlinks `12`, outlinks `17` — #science-tech
-- [[mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — degree `29`, backlinks `21`, outlinks `8` — #matrix, #mental-model, #psychology, #social-media
 - [[mental-models/Trí Tuệ|Trí Tuệ]] — degree `25`, backlinks `19`, outlinks `6` — #mental-model, #philosophy
 - [[mental-models/Mô Hình Địa Tâm|Mô Hình Địa Tâm (Geocentrism)]] — degree `24`, backlinks `18`, outlinks `6` — #cosmology, #esoterica, #mental-model, #science-tech
 - [[mental-models/S.E.X Và Tâm Lý Học Jung|S.E.X Và Tâm Lý Học Jung]] — degree `24`, backlinks `11`, outlinks `13` — #esoterica, #mental-model, #psychology
@@ -277,8 +277,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]]
 - [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]]
 - [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]]
-- [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]]
 - [[mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]
+- [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]]
 - [[esoterica/Karma Disclosure - Truth Hidden In Plain Sight|Karma Disclosure - Truth Hidden In Plain Sight]]
 - [[esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]
 - [[mental-models/Trí Tuệ|Trí Tuệ]]
