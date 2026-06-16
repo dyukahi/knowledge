@@ -54,15 +54,7 @@ Nếu không tách tầng, người đọc dễ rơi vào hai bẫy: hoặc dism
 
 ## 1. Elite Là Gì? / What Is The Elite?
 
-Elite là tầng quyền lực có khả năng chuyển ý chí thành infrastructure.
-
-Người bình thường có opinion. Elite có institution.
-
-Người bình thường phản ứng với narrative. Elite tài trợ, test, distribute và normalize narrative.
-
-Người bình thường dùng tiền. Elite thiết kế monetary system.
-
-Người bình thường đọc news. Elite sở hữu hoặc ảnh hưởng gatekeeping layer của news, academia, philanthropy, platform và policy.
+Elite là tầng quyền lực có khả năng chuyển ý chí thành infrastructure. Người bình thường có opinion. Elite có institution. Người bình thường phản ứng với narrative. Elite tài trợ, test, distribute và normalize narrative. Người bình thường dùng tiền. Elite thiết kế monetary system. Người bình thường đọc news. Elite sở hữu hoặc ảnh hưởng gatekeeping layer của news, academia, philanthropy, platform và policy.
 
 ```mermaid
 flowchart TD
@@ -136,9 +128,7 @@ Power bền cần myth.
 
 ## 3. Elite Không Phải Một Khối Đồng Nhất
 
-Một lỗi lớn của cartoon conspiracy là tưởng Elite là một nhóm duy nhất, luôn đồng lòng, luôn kiểm soát hoàn hảo.
-
-Thực tế mạnh hơn:
+Một lỗi lớn của cartoon conspiracy là tưởng Elite là một nhóm duy nhất, luôn đồng lòng, luôn kiểm soát hoàn hảo. Thực tế mạnh hơn:
 
 - có faction,
 - có cạnh tranh,
@@ -177,9 +167,7 @@ Một narrative không cần thắng bằng logic nếu nó kiểm soát emotion
 
 ### Education
 
-Education tạo compliance bằng cách gọi nó là success.
-
-Nó dạy con người:
+Education tạo compliance bằng cách gọi nó là success. Nó dạy con người:
 
 - ngồi yên,
 - chờ chuông,
@@ -190,11 +178,7 @@ Nó dạy con người:
 
 ### Science Institution
 
-Science như method cần được bảo vệ. Science như institution cần được nghi ngờ.
-
-Khi funding, journal prestige, regulatory capture và career incentives quyết định câu hỏi nào được hỏi, science có thể thành priesthood mới.
-
-→ Xem: [[Khoa Học Xét Lại]], [[MOC - Science Revisionism]].
+Science như method cần được bảo vệ. Science như institution cần được nghi ngờ. Khi funding, journal prestige, regulatory capture và career incentives quyết định câu hỏi nào được hỏi, science có thể thành priesthood mới. → Xem: [[Khoa Học Xét Lại]], [[MOC - Science Revisionism]].
 
 ### Philanthropy
 
@@ -252,9 +236,7 @@ New World Order không nhất thiết đến bằng một tuyên bố lập chí
 
 ## 6. Controlled Opposition
 
-Elite system luôn cần opposition. Không có opposition, public sẽ thấy cage quá rõ.
-
-Controlled opposition có nhiều dạng:
+Elite system luôn cần opposition. Không có opposition, public sẽ thấy cage quá rõ. Controlled opposition có nhiều dạng:
 
 | Dạng | Cách vận hành |
 |---|---|
@@ -307,11 +289,7 @@ Elite không chỉ che thông tin. Họ quản lý timing, framing và permissio
 
 ## 8. Làm Gì Với Kiến Thức Này? / What To Do With This?
 
-Mục tiêu không phải sống trong paranoia.
-
-Nếu đọc Elite xong chỉ sợ hơn, ghét hơn, hoặc ám ảnh hơn, bạn mới nuốt poison chứ chưa tiêu hóa knowledge.
-
-Chiến lược đúng:
+Mục tiêu không phải sống trong paranoia. Nếu đọc Elite xong chỉ sợ hơn, ghét hơn, hoặc ám ảnh hơn, bạn mới nuốt poison chứ chưa tiêu hóa knowledge. Chiến lược đúng:
 
 1. **Perception sovereignty** — không để media quyết định nervous system.
 2. **Financial sovereignty** — hiểu tiền, nợ, privacy, asset risk.
@@ -328,11 +306,7 @@ Elite system mạnh khi con người atomized, exhausted, dependent và confused
 
 Elite là tầng người, institution và network vận hành gần mặt đất nhất của [[Ma Trận]]. Nhưng Elite không phải toàn bộ Ma Trận. Elite là operator layer trong một system sâu hơn: perception, incentive, identity, myth và forgetting.
 
-Nếu chỉ căm ghét Elite, người đọc vẫn bị mắc trong binary.
-
-Nếu chỉ phủ định Elite, người đọc bị naive.
-
-Cách đọc đúng là: thấy power structure, thấy incentive, thấy myth, thấy frame, rồi lấy lại sovereignty từng tầng.
+Nếu chỉ căm ghét Elite, người đọc vẫn bị mắc trong binary. Nếu chỉ phủ định Elite, người đọc bị naive. Cách đọc đúng là: thấy power structure, thấy incentive, thấy myth, thấy frame, rồi lấy lại sovereignty từng tầng.
 
 > Elite thắng khi bạn chỉ còn hai lựa chọn: phục tùng hoặc phản ứng. Tự do bắt đầu khi bạn xây lựa chọn thứ ba.
 

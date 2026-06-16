@@ -1,14 +1,14 @@
 {
   "summary": {
     "public_notes": 204,
-    "avg_words": 1500,
+    "avg_words": 1501,
     "missing_description": 0,
     "missing_aliases": 0,
     "thin_lt800": 28,
     "duplicate_titles": 0,
     "mobile_hostile_code": 0,
     "horizontal_chain": 24,
-    "textblock_candidates": 37,
+    "textblock_candidates": 32,
     "broken_links": 0,
     "orphans_public": 2
   },
@@ -159,12 +159,6 @@
     ],
     "textblock_candidates": [
       {
-        "path": "Cách Đọc Red Pill Wiki.md",
-        "short": 20,
-        "paragraphs": 55,
-        "ratio": 0.364
-      },
-      {
         "path": "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "short": 15,
         "paragraphs": 33,
@@ -175,12 +169,6 @@
         "short": 17,
         "paragraphs": 43,
         "ratio": 0.395
-      },
-      {
-        "path": "esoterica/Gnosis.md",
-        "short": 20,
-        "paragraphs": 49,
-        "ratio": 0.408
       },
       {
         "path": "esoterica/Gematria.md",
@@ -321,18 +309,6 @@
         "ratio": 0.444
       },
       {
-        "path": "politics-conspiracy/Báo Cáo 2030.md",
-        "short": 42,
-        "paragraphs": 114,
-        "ratio": 0.368
-      },
-      {
-        "path": "politics-conspiracy/Elite.md",
-        "short": 25,
-        "paragraphs": 54,
-        "ratio": 0.463
-      },
-      {
         "path": "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
         "short": 15,
         "paragraphs": 28,
@@ -345,12 +321,6 @@
         "ratio": 0.361
       },
       {
-        "path": "mental-models/Individuation.md",
-        "short": 13,
-        "paragraphs": 25,
-        "ratio": 0.52
-      },
-      {
         "path": "mental-models/Mô Hình Địa Tâm.md",
         "short": 9,
         "paragraphs": 22,
@@ -358,9 +328,9 @@
       },
       {
         "path": "mental-models/Vô Thức Tập Thể.md",
-        "short": 13,
-        "paragraphs": 27,
-        "ratio": 0.481
+        "short": 10,
+        "paragraphs": 25,
+        "ratio": 0.4
       },
       {
         "path": "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",

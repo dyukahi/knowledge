@@ -37,9 +37,7 @@ Trong redpill.wiki, **Individuation** là cầu nối giữa psychology và spir
 
 ## 1. Persona: Mặt Nạ Cần Thiết Nhưng Nguy Hiểm
 
-Persona là mặt nạ xã hội: vai trò, nghề nghiệp, hình ảnh, danh tính công khai.
-
-Persona không xấu. Không có persona, ta khó vận hành trong xã hội. Bẫy bắt đầu khi con người tưởng persona là Self.
+Persona là mặt nạ xã hội: vai trò, nghề nghiệp, hình ảnh, danh tính công khai. Persona không xấu. Không có persona, ta khó vận hành trong xã hội. Bẫy bắt đầu khi con người tưởng persona là Self.
 
 | Persona | Bẫy |
 |---|---|
@@ -55,9 +53,7 @@ Ma Trận rất thích persona vì persona dễ bị điều khiển bằng sham
 
 ## 2. Shadow: Cái Bị Đẩy Xuống Dưới
 
-Shadow là phần bị phủ nhận: giận dữ, ham muốn, ghen tị, sợ hãi, yếu đuối, quyền lực, sự ích kỷ, cả tài năng bị chôn.
-
-Shadow không biến mất khi bị phủ nhận. Nó đi vòng ra ngoài qua projection.
+Shadow là phần bị phủ nhận: giận dữ, ham muốn, ghen tị, sợ hãi, yếu đuối, quyền lực, sự ích kỷ, cả tài năng bị chôn. Shadow không biến mất khi bị phủ nhận. Nó đi vòng ra ngoài qua projection.
 
 - Ghét người kiêu ngạo vì mình không dám nhận nhu cầu được công nhận.
 - Ghét người giàu vì mình sợ quyền lực của tiền.
@@ -85,9 +81,7 @@ Individuation không xóa giới tính. Nó giúp con người không bị một
 
 ## 4. Self: Không Phải Ego Lớn Hơn
 
-Self trong Jung không phải ego được nâng cấp. Self là toàn thể psyche: conscious + unconscious, personal + archetypal, center + circumference.
-
-Ego cần thiết để sống. Nhưng ego không phải vua.
+Self trong Jung không phải ego được nâng cấp. Self là toàn thể psyche: conscious + unconscious, personal + archetypal, center + circumference. Ego cần thiết để sống. Nhưng ego không phải vua.
 
 Khi ego tưởng mình là Self, đó là inflation. Trong spiritual circles, inflation rất phổ biến: một người có trải nghiệm mạnh rồi tưởng mình đã giác ngộ, được chọn, hoặc hiểu hết Ma Trận.
 
@@ -106,9 +100,7 @@ Khi ego tưởng mình là Self, đó là inflation. Trong spiritual circles, in
 - sexual energy bị hijack bằng porn,
 - spiritual hunger bị hijack bằng guru/system.
 
-Một người càng split bên trong càng dễ bị trigger bên ngoài.
-
-Individuation làm giảm số “nút bấm” mà hệ thống có thể nhấn.
+Một người càng split bên trong càng dễ bị trigger bên ngoài. Individuation làm giảm số “nút bấm” mà hệ thống có thể nhấn.
 
 ```mermaid
 flowchart LR
@@ -124,9 +116,7 @@ flowchart LR
 
 ## 6. Beyond Nhị Nguyên
 
-Người chưa individuation thường cần thế giới đơn giản: tốt/xấu, ta/địch, tỉnh/NPC, chính nghĩa/quỷ dữ.
-
-Individuation giúp psyche chịu được paradox:
+Người chưa individuation thường cần thế giới đơn giản: tốt/xấu, ta/địch, tỉnh/NPC, chính nghĩa/quỷ dữ. Individuation giúp psyche chịu được paradox:
 
 - mình vừa sáng vừa tối,
 - người khác vừa sai vừa có phần đúng,

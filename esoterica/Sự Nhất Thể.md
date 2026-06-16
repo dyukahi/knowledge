@@ -23,15 +23,21 @@ related:
 
 Nếu [[Monad]] là tia lửa của Source trong mỗi sinh thể, thì Sự Nhất Thể là đại dương nơi mọi tia lửa chưa từng thật sự tách rời. Nếu [[Gnosis]] là sự nhớ lại, thì Nhất Thể là thứ được nhớ ở tầng sâu nhất.
 
+## Vault Position / Cách Đọc Sự Nhất Thể
+
+**Sự Nhất Thể** là tầng nền của vault, không phải một khẩu hiệu “love and light” để bỏ qua thực tại. Nếu [[Ma Trận]] là interface chia cắt perception, [[Monad]] là tia ý thức bất khả phân bên trong mỗi sinh thể, và [[Gnosis]] là sự nhớ lại trực tiếp, thì Sự Nhất Thể là mặt nước trước khi có sóng.
+
+Đọc sai Sự Nhất Thể sẽ biến nó thành spiritual bypass: mọi thứ đều là một nên không cần phân biệt thật/giả, thiện/ác, kiểm soát/tự do. Đọc đúng thì ngược lại: vì mọi thứ liên hệ với nhau, mỗi lựa chọn, mỗi lời nói, mỗi hệ thống control và mỗi hành vi care đều có consequence trong cùng một field.
+
+Bài này nên được đọc như metaphysical core, không phải fact claim vật lý. Nó thuộc tầng symbol, philosophy và lived gnosis. Khi nối với [[Ma Trận]], [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]] hoặc [[Kiểm Soát Tâm Trí]], hãy giữ kỷ luật: Sự Nhất Thể là lens để hiểu relation, không phải giấy phép để tuyên bố mọi synthesis là bằng chứng.
+
 ---
 
 ## 1. Nhất Thể Là Gì?
 
 Nhất Thể là trực giác metaphysical rằng thực tại không phải tập hợp những vật thể tách biệt hoàn toàn, mà là một trường sống duy nhất đang tạm phân thành nhiều hình dạng để trải nghiệm chính nó.
 
-Ở tầng giác quan, bạn là bạn, tôi là tôi, cây là cây, đá là đá. Ở tầng sâu hơn, tất cả là pattern trong cùng một field.
-
-Điều này không phủ nhận sự khác biệt. Nó đặt sự khác biệt vào đúng vị trí: khác biệt là biểu hiện, không phải bản chất tối hậu.
+Ở tầng giác quan, bạn là bạn, tôi là tôi, cây là cây, đá là đá. Ở tầng sâu hơn, tất cả là pattern trong cùng một field. Điều này không phủ nhận sự khác biệt. Nó đặt sự khác biệt vào đúng vị trí: khác biệt là biểu hiện, không phải bản chất tối hậu.
 
 | Tầng nhìn | Thấy gì? |
 |---|---|
@@ -84,9 +90,7 @@ flowchart TD
     H --> A
 ```
 
-Vấn đề không phải nhị nguyên tồn tại. Vấn đề là consciousness quên gốc Một và mắc kẹt trong hai cực như thể chúng tuyệt đối tách rời.
-
-Đó là lúc trò chơi thành nhà tù.
+Vấn đề không phải nhị nguyên tồn tại. Vấn đề là consciousness quên gốc Một và mắc kẹt trong hai cực như thể chúng tuyệt đối tách rời. Đó là lúc trò chơi thành nhà tù.
 
 ---
 
@@ -133,9 +137,7 @@ Khi con người nhớ Nhất Thể, Ma Trận mất công cụ mạnh nhất: i
 
 Nhất Thể thật không làm bạn vô cảm. Nó làm bạn thấy đau khổ của người khác không tách khỏi mình. Vì vậy compassion trở nên tự nhiên hơn, không phải đạo đức gượng ép.
 
-Nếu tay trái bị thương, tay phải không nói: “Tất cả là một nên kệ đi.” Tay phải tự nhiên chăm sóc tay trái vì cả hai cùng một thân.
-
-Nhất Thể không xóa trách nhiệm. Nó làm trách nhiệm sâu hơn.
+Nếu tay trái bị thương, tay phải không nói: “Tất cả là một nên kệ đi.” Tay phải tự nhiên chăm sóc tay trái vì cả hai cùng một thân. Nhất Thể không xóa trách nhiệm. Nó làm trách nhiệm sâu hơn.
 
 ---
 
@@ -184,9 +186,7 @@ Không nên ép khoa học hiện đại “chứng minh” Nhất Thể. Nhưng
 | Quantum non-locality | Reality không hoàn toàn local như trực giác thường |
 | Holographic metaphor | Mỗi phần phản chiếu thông tin của toàn thể |
 
-Những mô hình này không phải bằng chứng cuối cùng. Nhưng chúng nhắc ta rằng “vật thể tách biệt tuyệt đối” là một giả định nghèo nàn.
-
-Nhất Thể là trực giác sâu hơn: relation không phải phụ kiện của reality. Relation là cấu trúc của reality.
+Những mô hình này không phải bằng chứng cuối cùng. Nhưng chúng nhắc ta rằng “vật thể tách biệt tuyệt đối” là một giả định nghèo nàn. Nhất Thể là trực giác sâu hơn: relation không phải phụ kiện của reality. Relation là cấu trúc của reality.
 
 ---
 
@@ -236,13 +236,7 @@ Bộ ba này nên đọc cùng nhau:
 | [[Monad]] | Điểm Một bên trong từng sinh thể |
 | [[Gnosis]] | Sự nhớ lại trực tiếp về bản chất đó |
 
-Nếu chỉ có Nhất Thể mà không có Monad, ta dễ rơi vào mơ hồ: “tất cả là một” nhưng không biết cửa vào nằm đâu.
-
-Nếu chỉ có Monad mà không có Nhất Thể, ta dễ biến divine spark thành một “cái tôi cao cấp” mới.
-
-Nếu chỉ có Gnosis mà không có hai nền trên, ta dễ săn trải nghiệm thức tỉnh như săn dopamine tâm linh.
-
-Ba node này tạo thành một trục:
+Nếu chỉ có Nhất Thể mà không có Monad, ta dễ rơi vào mơ hồ: “tất cả là một” nhưng không biết cửa vào nằm đâu. Nếu chỉ có Monad mà không có Nhất Thể, ta dễ biến divine spark thành một “cái tôi cao cấp” mới. Nếu chỉ có Gnosis mà không có hai nền trên, ta dễ săn trải nghiệm thức tỉnh như săn dopamine tâm linh. Ba node này tạo thành một trục:
 
 ```mermaid
 flowchart LR

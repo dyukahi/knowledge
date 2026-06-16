@@ -7,7 +7,7 @@
 - **Notes scanned:** 215
 - **Top-level domains:** 8
 - **Tags detected:** 203
-- **Resolved internal edges:** 2118
+- **Resolved internal edges:** 2120
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 11
 
@@ -30,13 +30,13 @@ Recommended note types:
 - [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `55`, backlinks `43`, outlinks `12` — #consciousness, #esoterica, #gnosis, #matrix
 - [[esoterica/index|Esoterica Domain Gateway]] — degree `45`, backlinks `4`, outlinks `41` — #consciousness, #domain-gateway, #esoterica
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `38`, backlinks `27`, outlinks `11` — #consciousness, #esoterica, #metaphysics
+- [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `37`, backlinks `26`, outlinks `11` — #consciousness, #esoterica, #non-duality
 - [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `35`, backlinks `7`, outlinks `28` — #awakening, #energy, #esoterica, #gnosis, #matrix
-- [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `35`, backlinks `26`, outlinks `9` — #consciousness, #esoterica, #non-duality
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]] — degree `34`, backlinks `24`, outlinks `10` — #esoterica
 - [[esoterica/Karma Disclosure - Truth Hidden In Plain Sight|Karma Disclosure - Truth Hidden In Plain Sight]] — degree `33`, backlinks `22`, outlinks `11` — #conspiracy, #esoterica, #karma
 - [[esoterica/Tartaria|Tartaria]] — degree `32`, backlinks `25`, outlinks `7` — #esoterica
+- [[esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh - Năng Lượng Thu Hoạch Từ Con Người]] — degree `30`, backlinks `20`, outlinks `10` — #consciousness, #esoterica, #matrix
 - [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]] — degree `29`, backlinks `21`, outlinks `8` — #esoterica, #occult, #predictive-programming
-- [[esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh - Năng Lượng Thu Hoạch Từ Con Người]] — degree `29`, backlinks `19`, outlinks `10` — #consciousness, #esoterica, #matrix
 - … 62 more notes in this domain. See JSON for full list.
 
 ### Mental Models / Mô hình tư duy `mental-models` — 33 notes
@@ -74,7 +74,7 @@ Recommended note types:
 ### Politics & Conspiracy `politics-conspiracy` — 27 notes
 
 - [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `97`, backlinks `63`, outlinks `34` — #matrix, #politics-conspiracy, #power-structure
-- [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `53`, backlinks `43`, outlinks `10` — #consciousness, #politics-conspiracy, #propaganda
+- [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `54`, backlinks `44`, outlinks `10` — #consciousness, #politics-conspiracy, #propaganda
 - [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `49`, backlinks `32`, outlinks `17` — #agenda-2030, #cbdc, #digital-id, #governance, #politics-conspiracy
 - [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `43`, backlinks `4`, outlinks `39` — #domain-gateway, #politics-conspiracy, #power-structure
 - [[politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood|Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood]] — degree `30`, backlinks `17`, outlinks `13` — #science-tech
@@ -165,7 +165,7 @@ High-degree notes are good candidates for hub/MOC treatment.
    - Bài viết này là **bản tổng hợp hoàn chỉnh** về Ma Trận — cấu trúc, các lớp kiểm soát, mục đích tồn tại, và **con đường thoát ra**. Đây là meta-framework xâu chuỗi toàn bộ kiến thức trong vault.
 7. [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `55` · backlinks `43` · outlinks `12`
    - **Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…
-8. [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `53` · backlinks `43` · outlinks `10`
+8. [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `54` · backlinks `44` · outlinks `10`
    - **Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…
 9. [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `50` · backlinks `18` · outlinks `32`
    - **Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Trước khi tin hoặc phủ định bất kỳ điều gì, hãy nhận biết chính tiến trình thấy đang xảy ra.…
@@ -302,8 +302,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[esoterica/Ma Trận|Ma Trận (The Matrix)]]
 - [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]]
 - [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]]
-- [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]]
 - [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]]
+- [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]]
 - [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]]
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]]
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]]

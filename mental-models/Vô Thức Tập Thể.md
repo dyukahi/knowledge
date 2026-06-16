@@ -84,9 +84,7 @@ Culture cũng mơ. Cinema là dream công cộng.
 
 ## 4. Akashic Records Connection
 
-Trong Theosophy và nhiều truyền thống esoteric, **Akashic Records** là thư viện ký ức vũ trụ: mọi sự kiện, ý nghĩ, pattern đều được ghi trong field.
-
-Không nên đồng nhất quá nhanh Jung với Akasha. Nhưng hai concept chạm nhau ở một điểm:
+Trong Theosophy và nhiều truyền thống esoteric, **Akashic Records** là thư viện ký ức vũ trụ: mọi sự kiện, ý nghĩ, pattern đều được ghi trong field. Không nên đồng nhất quá nhanh Jung với Akasha. Nhưng hai concept chạm nhau ở một điểm:
 
 > Có một tầng thông tin không thuộc riêng cá nhân.
 
@@ -137,9 +135,7 @@ Khi archetype bị hijack, public tưởng mình đang chọn bằng lý trí. T
 
 ## 7. Individuation Là Cách Lấy Lại Quyền Truy Cập
 
-[[Individuation]] giúp một người đọc symbol mà không bị symbol nuốt.
-
-Người chưa individuation dễ project archetype ra ngoài:
+[[Individuation]] giúp một người đọc symbol mà không bị symbol nuốt. Người chưa individuation dễ project archetype ra ngoài:
 
 - tìm savior,
 - săn enemy,

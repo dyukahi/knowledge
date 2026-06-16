@@ -39,9 +39,7 @@ Từ “Monad” đến từ Hy Lạp *monás* — nghĩa là đơn vị, cái M
 
 Monad không phải một vật thể. Không nằm trong không gian. Không có hình dạng. Không có tuổi. Không thể bị cắt, đốt, giết, mua bán, lập trình hay xóa khỏi tồn tại.
 
-Nó là phần **bất khả xâm phạm** của consciousness.
-
-*The Monad is the inviolable core of consciousness.*
+Nó là phần **bất khả xâm phạm** của consciousness. *The Monad is the inviolable core of consciousness.*
 
 Con người thường nhầm mình là body, job title, personality, trauma, memory, nationality, gender, horoscope, hoặc câu chuyện đời mình. Nhưng tất cả những thứ đó đều là lớp phủ. Monad là cái đang biết tất cả những lớp phủ đó.
 
@@ -112,9 +110,7 @@ Ma Trận không nhất thiết tạo ra Monad. Ma Trận chỉ tạo ra lớp n
 
 ## 5. Hành Trình Thăng Hoa: Gnosis Là Nhớ Lại Monad
 
-Thức tỉnh không phải thêm thông tin. Thức tỉnh là bỏ dần các lớp nhận dạng sai.
-
-[[Gnosis]] không phải “biết nhiều hơn”. Gnosis là khoảnh khắc một phần bên trong nhận ra:
+Thức tỉnh không phải thêm thông tin. Thức tỉnh là bỏ dần các lớp nhận dạng sai. [[Gnosis]] không phải “biết nhiều hơn”. Gnosis là khoảnh khắc một phần bên trong nhận ra:
 
 > “Mình không phải chỉ là nhân vật này.”
 
@@ -148,9 +144,7 @@ flowchart LR
 
 Nhị nguyên không hoàn toàn xấu. Không có nhị nguyên thì không có trải nghiệm. Nhưng nếu consciousness quên rằng hai cực cùng xuất phát từ một gốc, nhị nguyên trở thành nhà tù.
 
-Đó là trick của [[Ma Trận]]: biến phân cực thành chiến tranh vĩnh viễn.
-
-Bạn chọn phe sáng chống phe tối. Phe nam chống phe nữ. Phe tả chống phe hữu. Phe khoa học chống phe tâm linh. Và trong lúc đó, bạn quên câu hỏi gốc:
+Đó là trick của [[Ma Trận]]: biến phân cực thành chiến tranh vĩnh viễn. Bạn chọn phe sáng chống phe tối. Phe nam chống phe nữ. Phe tả chống phe hữu. Phe khoa học chống phe tâm linh. Và trong lúc đó, bạn quên câu hỏi gốc:
 
 > Cái gì đang chứng kiến cả hai phe?
 
@@ -200,17 +194,9 @@ Monad là metaphysical language cho cùng một trực giác: phần nhỏ khôn
 
 ## 9. Monad Trong Đời Sống Thực Tế
 
-Nếu Monad là khái niệm quá trừu tượng, hãy đưa nó về đời sống.
+Nếu Monad là khái niệm quá trừu tượng, hãy đưa nó về đời sống. Khi bạn nổi giận, có một phần biết rằng “cơn giận đang xảy ra”. Phần đó không giận. Nó biết cơn giận. Khi bạn buồn, có một phần biết rằng “nỗi buồn đang ở đây”. Phần đó không chìm hoàn toàn trong buồn. Nó biết nỗi buồn. Khi bạn suy nghĩ, có một phần biết rằng “thoughts đang chạy”. Phần đó không phải thought.
 
-Khi bạn nổi giận, có một phần biết rằng “cơn giận đang xảy ra”. Phần đó không giận. Nó biết cơn giận.
-
-Khi bạn buồn, có một phần biết rằng “nỗi buồn đang ở đây”. Phần đó không chìm hoàn toàn trong buồn. Nó biết nỗi buồn.
-
-Khi bạn suy nghĩ, có một phần biết rằng “thoughts đang chạy”. Phần đó không phải thought.
-
-Monad không phải một ý tưởng xa xôi. Nó là cái biết thầm lặng luôn đứng phía sau mọi trạng thái.
-
-Thực hành đơn giản:
+Monad không phải một ý tưởng xa xôi. Nó là cái biết thầm lặng luôn đứng phía sau mọi trạng thái. Thực hành đơn giản:
 
 1. Dừng lại vài giây.
 2. Nhìn một thought đang xuất hiện.
@@ -246,9 +232,7 @@ Monad không cần được tin như giáo điều. Nó cần được kiểm ch
 
 [[Elite]] có thể kiểm soát tiền. Họ có thể kiểm soát truyền thông. Họ có thể kiểm soát giáo dục, y tế, thuật toán, dopamine, narrative, lịch sử, thậm chí cả khái niệm về vũ trụ.
 
-Nhưng họ không thể sở hữu Monad.
-
-Họ chỉ có thể làm bạn quên nó.
+Nhưng họ không thể sở hữu Monad. Họ chỉ có thể làm bạn quên nó.
 
 Đây là lý do mọi hệ thống kiểm soát đều hoạt động bằng distraction: kéo attention ra ngoài, làm bạn đồng nhất với body, fear, tribe, trauma, desire, và avatar. Một người nhớ Monad không dễ bị cai trị, vì họ không còn tin rằng hệ thống đang giữ thứ cốt lõi của họ.
 
