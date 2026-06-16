@@ -18,6 +18,18 @@ related:
 
 ---
 
+## Financial Sovereignty Pack
+
+Pack này đọc money như hạ tầng quyền lực: fiat dilution, self-custody, privacy, risk survival và tokenized world.
+
+1. [[Bitcoin]]
+2. [[Bitcoin Sẽ Chết Nếu Không Có Privacy]]
+3. [[Privacy]]
+4. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]
+5. [[Chainlink - Mắt Xích Của Tokenized World]]
+
+---
+
 ## How To Read This Domain
 
 Đọc domain này bằng cả economics lẫn sovereignty. Một bài về Bitcoin không phải lời khuyên đầu tư. Một bài về CBDC không phải panic porn. Một bài về privacy không phải paranoia. Hãy tách:

@@ -1,7 +1,7 @@
 {
   "summary": {
     "public_notes": 204,
-    "avg_words": 1508,
+    "avg_words": 1517,
     "missing_description": 0,
     "missing_aliases": 0,
     "thin_lt800": 28,
@@ -160,15 +160,15 @@
     "textblock_candidates": [
       {
         "path": "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "short": 15,
-        "paragraphs": 33,
-        "ratio": 0.455
+        "short": 16,
+        "paragraphs": 37,
+        "ratio": 0.432
       },
       {
         "path": "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "short": 17,
-        "paragraphs": 43,
-        "ratio": 0.395
+        "short": 18,
+        "paragraphs": 47,
+        "ratio": 0.383
       },
       {
         "path": "esoterica/Gematria.md",
@@ -250,9 +250,9 @@
       },
       {
         "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "short": 18,
-        "paragraphs": 39,
-        "ratio": 0.462
+        "short": 19,
+        "paragraphs": 43,
+        "ratio": 0.442
       },
       {
         "path": "health/Plasma Quinton.md",
@@ -268,9 +268,9 @@
       },
       {
         "path": "health/Ketogenic Diet.md",
-        "short": 11,
-        "paragraphs": 23,
-        "ratio": 0.478
+        "short": 12,
+        "paragraphs": 27,
+        "ratio": 0.444
       },
       {
         "path": "science-tech/Tần Số Schumann.md",
@@ -292,9 +292,9 @@
       },
       {
         "path": "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "short": 24,
-        "paragraphs": 50,
-        "ratio": 0.48
+        "short": 25,
+        "paragraphs": 54,
+        "ratio": 0.463
       },
       {
         "path": "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",

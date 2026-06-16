@@ -18,6 +18,19 @@ related:
 
 ---
 
+## Disclosure & Spectacle Pack
+
+Pack này dùng current events để luyện media literacy tầng sâu: ritual, spectacle, predictive programming và disclosure, nhưng vẫn giữ claim discipline.
+
+1. [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]
+2. [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
+3. [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]
+4. [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]]
+5. [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]
+6. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]
+
+---
+
 ## How To Read This Domain
 
 Giữ đầu lạnh. Một số bài chạm vào 9/11, UAP, Agenda 2030, NASA/Disney/Hollywood, Antarctica, drugs, porn, war and elite networks. Đọc theo claim layers:

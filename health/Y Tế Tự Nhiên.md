@@ -118,3 +118,18 @@ Nếu phải rút gọn thành một stack không màu mè:
 **Y Tế Tự Nhiên là nghệ thuật trả quyền quản trị cơ thể về cho người sống trong cơ thể đó. Nhưng quyền lực đi cùng kỷ luật: biết khi nào tự chăm, khi nào cần xét nghiệm, khi nào cần bác sĩ, và khi nào một "liệu pháp tự nhiên" chỉ là marketing khoác áo phản hệ thống.**
 
 *Natural health is body sovereignty with discipline: terrain first, emergency care when needed, and no fake certainty.*
+
+## Publication Pack / Health Sovereignty
+
+Bài này thuộc **Health Sovereignty Pack**: đọc cơ thể như terrain sống, nhưng không biến phản biện y tế thành recklessness.
+
+Reading path:
+
+1. [[Y Tế Tự Nhiên]] — body sovereignty và terrain lens.
+2. [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]] — medical-industrial incentives.
+3. [[Thuyết Vi Sinh Nội Sinh]] — terrain theory vs germ absolutism.
+4. [[Ung Thư - Metabolic Protocol]] — metabolic research literacy.
+5. [[Ketogenic Diet]] — practical metabolic lever, không phải magic cure.
+
+Rule của pack: critique system incentives, nhưng không thay thế bác sĩ bằng niềm tin Telegram.
+

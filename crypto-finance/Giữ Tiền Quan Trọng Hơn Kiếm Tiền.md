@@ -180,6 +180,21 @@ Giữ tiền là giữ thời gian. Giữ thời gian là giữ quyền chọn. 
 
 ---
 
+
+## Publication Pack / Financial Sovereignty
+
+Bài này thuộc **Financial Sovereignty Pack**: đi từ fiat awareness đến self-custody, privacy và rủi ro programmable finance.
+
+Reading path:
+
+1. [[Bitcoin]] — tiền như protocol và exit khỏi fiat dilution.
+2. [[Bitcoin Sẽ Chết Nếu Không Có Privacy]] — sovereignty không có privacy là bẫy.
+3. [[Privacy]] — quyền riêng tư như hạ tầng tự do.
+4. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — risk survival trước alpha.
+5. [[Chainlink - Mắt Xích Của Tokenized World]] — bridge từ crypto sang tokenized real world.
+
+Rule của pack: không biến crypto thành hopium. Sovereignty = custody + privacy + risk discipline.
+
 ## Related
 
 - [[MOC - Financial Sovereignty]]

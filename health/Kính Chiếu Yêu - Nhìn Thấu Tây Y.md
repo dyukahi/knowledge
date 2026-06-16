@@ -81,6 +81,21 @@ flowchart LR
 
 ---
 
+
+## Publication Pack / Health Sovereignty
+
+Bài này thuộc **Health Sovereignty Pack**: đọc cơ thể như terrain sống, nhưng không biến phản biện y tế thành recklessness.
+
+Reading path:
+
+1. [[Y Tế Tự Nhiên]] — body sovereignty và terrain lens.
+2. [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]] — medical-industrial incentives.
+3. [[Thuyết Vi Sinh Nội Sinh]] — terrain theory vs germ absolutism.
+4. [[Ung Thư - Metabolic Protocol]] — metabolic research literacy.
+5. [[Ketogenic Diet]] — practical metabolic lever, không phải magic cure.
+
+Rule của pack: critique system incentives, nhưng không thay thế bác sĩ bằng niềm tin Telegram.
+
 ## 1. Ghép Tạng — Ngành Công Nghiệp Tội Ác
 
 **The Organ Transplant Industry — A Criminal Enterprise**

@@ -18,6 +18,18 @@ related:
 
 ---
 
+## Health Sovereignty Pack
+
+Đọc health trong vault theo thứ tự này để giữ kỷ luật nguồn: body terrain trước, critique incentive sau, protocol cuối cùng. Không dùng symbolic/system reading để tự kê đơn nguy hiểm.
+
+1. [[Y Tế Tự Nhiên]]
+2. [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]]
+3. [[Thuyết Vi Sinh Nội Sinh]]
+4. [[Ung Thư - Metabolic Protocol]]
+5. [[Ketogenic Diet]]
+
+---
+
 ## How To Read This Domain
 
 Đây là domain cần kỷ luật nhất. Một số bài nói về ung thư, thuốc tái định vị, vaccine, vi sinh, fasting, keto và terrain theory. Đừng biến chúng thành lời khuyên y tế cá nhân. Đọc theo tầng:
