@@ -1,6 +1,7 @@
 ---
 
 title: "MOC - Health Sovereignty"
+aliases: ["MOC - Health Sovereignty"]
 description: "Map of metabolic health, natural medicine, Terrain Theory, detox, light biology, and medical-industrial critique frameworks."
 date: 2026-06-04
 tags: [moc, health, sovereignty]

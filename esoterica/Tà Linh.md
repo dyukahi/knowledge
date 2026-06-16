@@ -46,14 +46,12 @@ Truyền thống Gnostic nói về Archons: lực cai quản cõi vật chất v
 
 Tà Linh, nếu đọc như pattern, vận hành qua cộng hưởng:
 
-```text
-Vết thương chưa xử lý
-  -> cảm xúc thấp
-  -> thought-loop
-  -> hành vi tự phá
-  -> mất sinh lực
-  -> càng dễ bị kích hoạt
-```
+> Vết thương chưa xử lý
+>   -> cảm xúc thấp
+>   -> thought-loop
+>   -> hành vi tự phá
+>   -> mất sinh lực
+>   -> càng dễ bị kích hoạt
 
 Nếu đọc theo lớp esoteric, vòng này là điểm bám của thực thể hoặc thought-form. Nếu đọc theo tâm lý học, nó là trauma loop. Nếu đọc theo truyền thông, nó là attention capture. Ba lớp có thể cùng mô tả một hiện tượng từ ba độ sâu khác nhau.
 

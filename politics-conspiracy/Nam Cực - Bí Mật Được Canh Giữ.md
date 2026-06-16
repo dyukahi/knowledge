@@ -1,5 +1,6 @@
 ---
 title: "Nam Cực - Bí Mật Được Canh Giữ"
+aliases: ["Nam Cực - Bí Mật Được Canh Giữ"]
 description: "'12 quốc gia đang chiến tranh lạnh bỗng dưng đồng ý hợp tác để bảo vệ một vùng băng 'không có gì'.'"
 date: 2026-04-30
 tags: [conspiracy, antarctica, nazi, flat-earth, elite]

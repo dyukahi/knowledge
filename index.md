@@ -134,7 +134,7 @@ Các bài dưới đây là những flagship notes dễ cho người mới thấ
 
 ### Ancient History & Cosmology
 
-- **[[Lịch Sử Song Song - Khi Thế Giới Đồng Bộ]]** - unified timeline từ Old World đến hiện tại
+- **[[Lịch Sử Song Song — Khi Thế Giới Đồng Bộ]]** - unified timeline từ Old World đến hiện tại
 - **[[Chu Kỳ Vũ Trụ - Yugas & Kalpas]]** - Hindu/Buddhist cycles, yugas, kalpas, giants evidence
 - **[[Tartaria]]** - nền văn minh bị xóa khỏi lịch sử chính thống
 - **[[Atlantis]]** - crystal tech, Law of One, Bermuda Triangle, Loosh framework
@@ -218,8 +218,8 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Bộ Não Rỗng và AI Brain Rot]] | [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]
 - [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
 - [[Schadenfreude - Dopamine Phản Diện]]
-- [[Thế Hệ Dâu Tây - Mệt Rồi, Dừng Lại Được Chưa]]
-- [[Tồn Tại Để Làm Gì - Hay Câu Hỏi Đã Sai Từ Đầu]]
+- [[Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa]]
+- [[Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu]]
 - [[Cái Gì Trong Bạn Không Thể Bị Model Hóa]]
 - [[Ai Đứng Bên Kia Giao Dịch]]
 - [[Gen Z - Phân Tích Phản Biện]]
@@ -298,7 +298,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - **Editorial maturity pass** - expanded all remaining thin articles under 700 words; high-risk health/politics/science notes now carry claim/source discipline; broken links remain 0.
 - **Ancient history & hidden cosmology** - matured [[Thành Cổ Loa]], [[Nỏ Thần]], [[Thánh Issa]], [[Tartaria]], [[Tartaria và Vạn Lý Trường Thành]], [[Nibiru]], [[Nibiru và Nền Văn Minh Annunaki]].
 - **Energy, psyche & awakening** - expanded [[S.E.X]], [[Tình Yêu Tỉnh Thức]], [[Long Mạch]], [[Thực Thể Cõi Trung Giới]], [[Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]], [[Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]].
-- **Mental models & science revisionism** - matured [[Tâm Lý Học Jung]], [[Nguyên Mẫu]], [[Trí Tuệ]], [[Sợ hãi - Tham Lam - Cân bằng]], [[Khoa Học Chân Chính và Thượng Đế]], [[Pin Natri-ion]].
+- **Mental models & science revisionism** - matured [[Tâm Lý Học Jung]], [[Nguyên Mẫu]], [[Trí Tuệ]], [[Sợ hãi - Tham Lam – Cân bằng]], [[Khoa Học Chân Chính và Thượng Đế]], [[Pin Natri-ion]].
 - **Navigation status** - root index + MOC layer remain the main entry system; broken links remain 0 after the pass.
 
 ### May 30, 2026
@@ -319,7 +319,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]] - Darwin, missing links, OOPArts, giant skeletons, Annunaki connection
 - [[Atlantis]] - Tuaoi Stone, Bermuda Triangle, Law of One, Loosh framework
 - [[Gematria]] and [[Word Magic - Ngôn Ngữ Của Phù Thủy]] - language, number, spelling, corporate sigils
-- [[Thế Hệ Dâu Tây - Mệt Rồi, Dừng Lại Được Chưa]] and [[Tồn Tại Để Làm Gì - Hay Câu Hỏi Đã Sai Từ Đầu]] - existential path
+- [[Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa]] and [[Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu]] - existential path
 
 ---
 

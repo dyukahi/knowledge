@@ -82,13 +82,11 @@ Trong stack đó, oracle/RWA/banking rails nối tài sản thật vào chain; K
 
 Privacy risk không dừng ở Bitcoin base layer. Khi blockchain được nối với oracle, RWA, proof-of-reserve, compliance data và banking rails, public ledger bắt đầu trở thành một phần của **tokenized visibility stack**.
 
-```text
-Address history
-+ KYC mapping
-+ oracle/compliance data
-+ tokenized asset registry
-= financial dossier có thể đọc bằng máy
-```
+> Address history
+> + KYC mapping
+> + oracle/compliance data
+> + tokenized asset registry
+> = financial dossier có thể đọc bằng máy
 
 Vì vậy [[Chainlink - Mắt Xích Của Tokenized World]] là sibling note của bài này: oracle layer làm blockchain hữu dụng hơn cho thế giới thật, nhưng cũng làm khả năng giám sát, scoring và permissioning trở nên sâu hơn nếu không có privacy.
 

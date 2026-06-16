@@ -1,6 +1,7 @@
 ---
 
 title: "MOC - Market Psychology & Risk"
+aliases: ["MOC - Market Psychology & Risk"]
 description: "Map of market psychology, risk management, trading discipline, investor behavior, and sovereignty-oriented finance frameworks."
 date: 2026-06-04
 tags: [moc, mental-model, crypto-finance, market-psychology, risk-management]

@@ -27,29 +27,13 @@ status: refined
 
 ## Vũ Trụ Được Tạo Từ Hình Học
 
-Bạn nghĩ vũ trụ được tạo ra từ vật chất? **Sai rồi.**
-
-*You think the universe is made of matter? Wrong.*
-
-Vũ trụ được tạo ra từ **hình học**.
-
-*The universe is made of **geometry**.*
-
-Trước khi có nguyên tử. Trước khi có ánh sáng. Trước cả thời gian… **Đã có cấu trúc.**
-
-*Before atoms. Before light. Before time itself... There was structure.*
-
-Và cấu trúc đó không phải ngẫu nhiên. Nó **chính xác. Đối xứng. Lặp lại.**
-
-*And that structure is not random. It's precise. Symmetric. Repeating.*
+Bạn nghĩ vũ trụ được tạo ra từ vật chất? **Sai rồi.** *You think the universe is made of matter? Wrong.* Vũ trụ được tạo ra từ **hình học**. *The universe is made of **geometry**.* Trước khi có nguyên tử. Trước khi có ánh sáng. Trước cả thời gian… **Đã có cấu trúc.** *Before atoms. Before light. Before time itself... There was structure.* Và cấu trúc đó không phải ngẫu nhiên. Nó **chính xác. Đối xứng. Lặp lại.** *And that structure is not random. It's precise. Symmetric. Repeating.*
 
 ---
 
 ## Sacred Geometry Ở Đâu? / Where Is It?
 
-Từ ADN của bạn đến quỹ đạo thiên hà, tất cả đều tuân theo cùng một mẫu hình.
-
-*From your DNA to galaxy orbits, everything follows the same pattern.*
+Từ ADN của bạn đến quỹ đạo thiên hà, tất cả đều tuân theo cùng một mẫu hình. *From your DNA to galaxy orbits, everything follows the same pattern.*
 
 | Nơi xuất hiện | Ví dụ |
 |---------------|-------|
@@ -59,9 +43,7 @@ Từ ADN của bạn đến quỹ đạo thiên hà, tất cả đều tuân the
 | **Khoáng vật** | Mạng tinh thể |
 | **Vật lý** | Sóng giao thoa |
 
-Những hình này không được "vẽ ra" vì đẹp. Chúng xuất hiện vì đó là **cách năng lượng ổn định nhất** để tồn tại trong không gian.
-
-*These shapes weren't "drawn" for beauty. They appear because that's the most stable way for energy to exist in space.*
+Những hình này không được "vẽ ra" vì đẹp. Chúng xuất hiện vì đó là **cách năng lượng ổn định nhất** để tồn tại trong không gian. *These shapes weren't "drawn" for beauty. They appear because that's the most stable way for energy to exist in space.*
 
 ---
 
@@ -75,17 +57,13 @@ flowchart LR
     I --> G[Geometry]
 ```
 
-Vật lý hiện đại nói rất rõ: Vũ trụ, ở tầng nền tảng nhất, không phải là "vật chất" — nó là **năng lượng**.
-
-*Modern physics is clear: At its most fundamental level, the universe is not "matter" — it's energy.*
+Vật lý hiện đại nói rất rõ: Vũ trụ, ở tầng nền tảng nhất, không phải là "vật chất" — nó là **năng lượng**. *Modern physics is clear: At its most fundamental level, the universe is not "matter" — it's energy.*
 
 - Nguyên tử không đặc / Atoms aren't solid
 - Hạt cơ bản không phải viên bi nhỏ / Subatomic particles aren't tiny balls
 - Chúng là **dao động của trường năng lượng** / They're vibrations of energy fields
 
-Khi có năng lượng → có dao động → dao động tạo sóng → sóng gặp sóng → **giao thoa** → tạo ra mẫu hình ổn định = **Hình học**.
-
-*Energy → vibration → waves → wave meets wave → interference → stable patterns = Geometry.*
+Khi có năng lượng → có dao động → dao động tạo sóng → sóng gặp sóng → **giao thoa** → tạo ra mẫu hình ổn định = **Hình học**. *Energy → vibration → waves → wave meets wave → interference → stable patterns = Geometry.*
 
 > **Thí nghiệm Cymatics:** Âm thanh rung trên bề mặt cát tạo thành hoa văn hình học hoàn hảo. Không ai "vẽ" chúng — chúng tự xuất hiện khi dao động đạt trạng thái cân bằng.
 >
@@ -95,36 +73,16 @@ Khi có năng lượng → có dao động → dao động tạo sóng → sóng
 
 ## God Source — Trường Ý Thức Tuyệt Đối
 
-Trước mọi dao động. Trước mọi sóng. Trước mọi hình học. Có một **Trường Ý Thức Tuyệt Đối**.
-
-*Before all vibration. Before all waves. Before all geometry. There is an Absolute Consciousness Field.*
-
-Bạn có thể gọi nó là:
+Trước mọi dao động. Trước mọi sóng. Trước mọi hình học. Có một **Trường Ý Thức Tuyệt Đối**. *Before all vibration. Before all waves. Before all geometry. There is an Absolute Consciousness Field.* Bạn có thể gọi nó là:
 - **Nguồn** / The Source
 - **God Source**
-- **The Absolute Field**
-
-Không phải một vị thần mang hình dạng. Mà là **tổng hòa mọi khả năng tồn tại**. Mọi năng lượng. Mọi tiềm năng.
-
-*Not a deity with form. But the totality of all possibilities. All energy. All potential.*
+- **The Absolute Field** Không phải một vị thần mang hình dạng. Mà là **tổng hòa mọi khả năng tồn tại**. Mọi năng lượng. Mọi tiềm năng. *Not a deity with form. But the totality of all possibilities. All energy. All potential.*
 
 ### Tại Sao Phân Chia? / Why Division?
 
-Ở trạng thái nguyên sơ, không có phân tách. Không có trên – dưới. Không có trong – ngoài. Chỉ có **Toàn Thể**.
+Ở trạng thái nguyên sơ, không có phân tách. Không có trên – dưới. Không có trong – ngoài. Chỉ có **Toàn Thể**. *In the primordial state, there's no separation. No up-down. No in-out. Only the Whole.* Nhưng một toàn thể tuyệt đối **không thể "trải nghiệm" chính nó**. *But an absolute whole cannot "experience" itself.* Để có trải nghiệm → phải có đối chiếu → phải có chủ thể và khách thể. *To have experience → requires contrast → requires subject and object.*
 
-*In the primordial state, there's no separation. No up-down. No in-out. Only the Whole.*
-
-Nhưng một toàn thể tuyệt đối **không thể "trải nghiệm" chính nó**.
-
-*But an absolute whole cannot "experience" itself.*
-
-Để có trải nghiệm → phải có đối chiếu → phải có chủ thể và khách thể.
-
-*To have experience → requires contrast → requires subject and object.*
-
-Và vì vậy, God Source bắt đầu... **phân chia**.
-
-*And so, God Source began to... divide.*
+Và vì vậy, God Source bắt đầu... **phân chia**. *And so, God Source began to... divide.*
 
 ---
 
@@ -141,9 +99,7 @@ flowchart TB
     V --> SG[Sacred Geometry]
 ```
 
-Từ God Source, Nguồn phân chia thành hai nguyên lý:
-
-*From God Source, the Source divides into two principles:*
+Từ God Source, Nguồn phân chia thành hai nguyên lý: *From God Source, the Source divides into two principles:*
 
 | Nguyên lý | Đặc điểm | Vai trò |
 |-----------|----------|---------|
@@ -154,21 +110,13 @@ Từ God Source, Nguồn phân chia thành hai nguyên lý:
 >
 > *The Pleiadians call these 2 Beings EH and AH.*
 
-Không phải nam – nữ sinh học. Mà là **hai lực nền tảng của tồn tại**.
-
-*Not biological male-female. But the two foundational forces of existence.*
-
-Khi hai cực này tương tác → dao động bắt đầu → và từ dao động đó, **hình học ra đời**.
-
-*When these two poles interact → vibration begins → and from that vibration, geometry is born.*
+Không phải nam – nữ sinh học. Mà là **hai lực nền tảng của tồn tại**. *Not biological male-female. But the two foundational forces of existence.* Khi hai cực này tương tác → dao động bắt đầu → và từ dao động đó, **hình học ra đời**. *When these two poles interact → vibration begins → and from that vibration, geometry is born.*
 
 ---
 
 ## 5 Khối Platonic — Platonic Solids
 
-Trong không gian 3D, chỉ có đúng **5 khối đa diện đều** tồn tại. Không hơn, không kém.
-
-*In 3D space, there are exactly 5 regular polyhedra. No more, no less.*
+Trong không gian 3D, chỉ có đúng **5 khối đa diện đều** tồn tại. Không hơn, không kém. *In 3D space, there are exactly 5 regular polyhedra. No more, no less.*
 
 ```mermaid
 flowchart LR
@@ -191,27 +139,13 @@ flowchart LR
 Để một khối được gọi là "đa diện đều":
 - Mọi mặt phải giống hệt nhau
 - Mọi góc phải bằng nhau
-- Mọi cạnh phải bằng nhau
-
-Khi bạn thử ghép nhiều hơn 5 cấu trúc như vậy... các góc sẽ vượt quá 360 độ. Không gian không còn "đóng" lại được.
-
-*When you try to create more than 5 such structures... angles exceed 360 degrees. Space can no longer "close."*
-
-**Chính cấu trúc của không gian 3D giới hạn số lượng đối xứng hoàn hảo.**
-
-*The very structure of 3D space limits the number of perfect symmetries.*
+- Mọi cạnh phải bằng nhau Khi bạn thử ghép nhiều hơn 5 cấu trúc như vậy... các góc sẽ vượt quá 360 độ. Không gian không còn "đóng" lại được. *When you try to create more than 5 such structures... angles exceed 360 degrees. Space can no longer "close."* **Chính cấu trúc của không gian 3D giới hạn số lượng đối xứng hoàn hảo.** *The very structure of 3D space limits the number of perfect symmetries.*
 
 ---
 
 ## Merkaba — Hai Tetrahedron Lồng Nhau
 
-Khi **2 khối tứ diện lồng vào nhau**, chúng ta có: **MERKABA**.
-
-*When 2 tetrahedra interlock, we have: MERKABA.*
-
-2 khối tứ diện giao nhau ở 1 điểm: Đó là **năng lượng điểm không** (zero-point energy).
-
-*2 tetrahedra intersect at one point: That is zero-point energy.*
+Khi **2 khối tứ diện lồng vào nhau**, chúng ta có: **MERKABA**. *When 2 tetrahedra interlock, we have: MERKABA.* 2 khối tứ diện giao nhau ở 1 điểm: Đó là **năng lượng điểm không** (zero-point energy). *2 tetrahedra intersect at one point: That is zero-point energy.*
 
 > Các nền văn minh thiên hà sử dụng năng lượng này để phục vụ cho các mục đích khác nhau.
 >
@@ -223,17 +157,11 @@ Khi **2 khối tứ diện lồng vào nhau**, chúng ta có: **MERKABA**.
 
 Khi cấu trúc đạt đến sự hài hòa trọn vẹn:
 - Các vòng tròn bắt đầu giao nhau
-- Các tâm điểm lặp lại theo tỷ lệ hoàn hảo
-
-Một mẫu hình xuất hiện: **Flower of Life**.
-
-*When structure reaches complete harmony, a pattern emerges: Flower of Life.*
+- Các tâm điểm lặp lại theo tỷ lệ hoàn hảo Một mẫu hình xuất hiện: **Flower of Life**. *When structure reaches complete harmony, a pattern emerges: Flower of Life.*
 
 ### Tại Sao Xuất Hiện Khắp Nơi? / Why Everywhere?
 
-Bạn bắt gặp hình ảnh bông hoa sự sống ở nhiều nền văn minh, nhiều nền văn hóa và tôn giáo mà họ **không hề giao thoa với nhau**:
-
-*You find the Flower of Life in many civilizations, cultures, and religions that never interacted:*
+Bạn bắt gặp hình ảnh bông hoa sự sống ở nhiều nền văn minh, nhiều nền văn hóa và tôn giáo mà họ **không hề giao thoa với nhau**: *You find the Flower of Life in many civilizations, cultures, and religions that never interacted:*
 
 - Ai Cập cổ đại
 - Trung Hoa
@@ -242,9 +170,7 @@ Bạn bắt gặp hình ảnh bông hoa sự sống ở nhiều nền văn minh,
 - Celtic
 - Nhật Bản
 
-**Phải chăng, người xưa đã thấu hiểu điều gì đó về trật tự thiêng liêng của vũ trụ?**
-
-*Perhaps the ancients understood something about the sacred order of the universe?*
+**Phải chăng, người xưa đã thấu hiểu điều gì đó về trật tự thiêng liêng của vũ trụ?** *Perhaps the ancients understood something about the sacred order of the universe?*
 
 ---
 
@@ -258,13 +184,9 @@ flowchart TB
     E[Elements - Nguyên tố]
     W[Wholeness - Toàn thể]
 
-    S --> D --> ST --> E --> W
+S --> D --> ST --> E --> W
     W -.->|Return| S
-```
-
-Hình học thiêng không chỉ là hình vẽ. Nó là **hành trình của Ý Thức** đi từ Một → trở về Một.
-
-*Sacred geometry is not just drawings. It's the journey of Consciousness from One → back to One.*
+``` Hình học thiêng không chỉ là hình vẽ. Nó là **hành trình của Ý Thức** đi từ Một → trở về Một. *Sacred geometry is not just drawings. It's the journey of Consciousness from One → back to One.*
 
 | Giai đoạn | Mô tả |
 |-----------|-------|
@@ -278,17 +200,9 @@ Hình học thiêng không chỉ là hình vẽ. Nó là **hành trình của Ý
 
 ## Bạn Là Một Phần Của Hình Học
 
-Nếu bạn chỉ nhìn Sacred Geometry như những hình vẽ đẹp... bạn sẽ bỏ lỡ điều quan trọng nhất.
-
-*If you only see Sacred Geometry as pretty drawings... you'll miss the most important thing.*
-
-Bạn không phải người quan sát.
-
-**Bạn là một giao điểm của năng lượng.**
+Nếu bạn chỉ nhìn Sacred Geometry như những hình vẽ đẹp... bạn sẽ bỏ lỡ điều quan trọng nhất. *If you only see Sacred Geometry as pretty drawings... you'll miss the most important thing.* Bạn không phải người quan sát. **Bạn là một giao điểm của năng lượng.**
 **Một đỉnh trong cấu trúc lớn hơn.**
-**Một phần của hình học mà vũ trụ đang tự vẽ.**
-
-*You're not an observer. You ARE an intersection of energy. A vertex in a larger structure. A part of the geometry the universe is drawing.*
+**Một phần của hình học mà vũ trụ đang tự vẽ.** *You're not an observer. You ARE an intersection of energy. A vertex in a larger structure. A part of the geometry the universe is drawing.*
 
 > Và nếu God Source đang trải nghiệm chính mình... thì bạn không phải người quan sát. **Bạn là trải nghiệm đó.**
 >
@@ -298,34 +212,24 @@ Bạn không phải người quan sát.
 
 ## Giao Điểm Của Mọi Thứ / The Intersection
 
-Sacred Geometry không phải mê tín. Nó là giao điểm giữa:
-
-*Sacred Geometry is not superstition. It's the intersection of:*
+Sacred Geometry không phải mê tín. Nó là giao điểm giữa: *Sacred Geometry is not superstition. It's the intersection of:*
 
 - **Toán học** / Mathematics
 - **Vật lý** / Physics
 - **Sinh học** / Biology
 - **Nhận thức** / Consciousness
 
-Và nếu bạn đi đủ sâu... bạn sẽ bắt đầu tự hỏi:
-
-**Phải chăng ý thức cũng vận hành theo hình học?**
-
-*And if you go deep enough... you'll start asking: Does consciousness also operate by geometry?*
+Và nếu bạn đi đủ sâu... bạn sẽ bắt đầu tự hỏi: **Phải chăng ý thức cũng vận hành theo hình học?** *And if you go deep enough... you'll start asking: Does consciousness also operate by geometry?*
 
 ---
 
 ## Kết Nối Với Ma Trận / Connection to The Matrix
 
-Sacred Geometry không chỉ là kiến thức "đẹp" — nó có liên hệ sâu sắc với [[Ma Trận]] và hệ thống kiểm soát.
-
-*Sacred Geometry isn't just "beautiful" knowledge — it has deep connections to [[Ma Trận|The Matrix]] and control systems.*
+Sacred Geometry không chỉ là kiến thức "đẹp" — nó có liên hệ sâu sắc với [[Ma Trận]] và hệ thống kiểm soát. *Sacred Geometry isn't just "beautiful" knowledge — it has deep connections to [[Ma Trận|The Matrix]] and control systems.*
 
 ### Nhị Nguyên — Công Cụ Kiểm Soát / Duality as Control
 
-[[Nhị Nguyên]] (Divine Feminine/Masculine) là nguyên lý sáng tạo tự nhiên. Nhưng [[Ma Trận]] **bóp méo** nó thành công cụ chia rẽ:
-
-*[[Nhị Nguyên|Duality]] (Divine Feminine/Masculine) is a natural creative principle. But [[Ma Trận|The Matrix]] distorts it into a tool of division:*
+[[Nhị Nguyên]] (Divine Feminine/Masculine) là nguyên lý sáng tạo tự nhiên. Nhưng [[Ma Trận]] **bóp méo** nó thành công cụ chia rẽ: *[[Nhị Nguyên|Duality]] (Divine Feminine/Masculine) is a natural creative principle. But [[Ma Trận|The Matrix]] distorts it into a tool of division:*
 
 | Nguyên lý tự nhiên | Ma Trận bóp méo thành |
 |-------------------|----------------------|
@@ -345,9 +249,7 @@ Sacred Geometry không chỉ là kiến thức "đẹp" — nó có liên hệ s
 3. **Nếu bạn hiểu** bạn là một phần của hình học → bạn nhận ra sức mạnh của mình
 4. **Nếu bạn hiểu** Flower of Life → bạn thấy sự kết nối giữa mọi thứ
 
-→ **Ma Trận mất quyền kiểm soát.**
-
-*If you understand these things → The Matrix loses control.*
+→ **Ma Trận mất quyền kiểm soát.** *If you understand these things → The Matrix loses control.*
 
 ### Sacred Geometry vs Ma Trận
 
@@ -356,21 +258,15 @@ flowchart LR
     SG[Sacred Geometry]
     M[Matrix]
 
-    SG -->|"Unity"| U[Sự Nhất Thể]
-    M -->|"Division"| D[Chia rẽ]
-
-    SG -->|"Creation"| C[Sáng tạo]
-    M -->|"Extraction"| E[Rút kiệt]
-
-    SG -->|"Knowledge"| K[Hiểu biết]
+SG -->|"Unity"| U[Sự Nhất Thể]
+    M -->|"Division"| D[Chia rẽ] SG -->|"Creation"| C[Sáng tạo]
+    M -->|"Extraction"| E[Rút kiệt] SG -->|"Knowledge"| K[Hiểu biết]
     M -->|"Ignorance"| I[Vô minh]
 ```
 
 ### Ứng Dụng Thực Tế / Practical Application
 
-Hiểu Sacred Geometry giúp bạn:
-
-*Understanding Sacred Geometry helps you:*
+Hiểu Sacred Geometry giúp bạn: *Understanding Sacred Geometry helps you:*
 
 - **Nhận ra Nhị Nguyên giả** — Khi media đẩy bạn về một cực (tốt/xấu, ta/địch), hãy nhớ rằng đó là sự bóp méo
 - **Thấy cấu trúc ẩn** — Logo công ty, kiến trúc quyền lực thường sử dụng Sacred Geometry

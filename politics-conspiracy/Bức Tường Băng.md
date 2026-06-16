@@ -57,19 +57,13 @@ flowchart TB
         Sun["Mặt Trời/Trăng | Sun/Moon"]
     end
 
-    subgraph Surface["Mặt đất | Surface"]
+subgraph Surface["Mặt đất | Surface"]
         Land["Lục địa | Continents"]
-    end
-
-    subgraph Edge["Rìa | Edge"]
+    end subgraph Edge["Rìa | Edge"]
         Ice["Tường băng | Ice Wall"]
-    end
-
-    subgraph Beyond["Bên ngoài | Beyond"]
+    end subgraph Beyond["Bên ngoài | Beyond"]
         Unknown["Chưa biết? | Unknown?"]
-    end
-
-    Sky --- Surface --- Edge --- Beyond
+    end Sky --- Surface --- Edge --- Beyond
 ```
 
 > Theo mô hình này: Mặt Trời/Trăng quay trên đầu, các lục địa nằm trên mặt phẳng với Bắc Cực ở giữa, bức tường băng (Nam Cực) là rìa, và phía sau đó là vùng đất chưa được khám phá.
@@ -103,9 +97,7 @@ flowchart TB
 - Tại sao cấm thường dân tự do khám phá?
 - Ai đang bảo vệ cái gì?
 
-*Why cooperation during the Cold War? Why ban civilian free exploration? Who is protecting what?*
-
-Xem thêm: [[Nam Cực - Bí Mật Được Canh Giữ]]
+*Why cooperation during the Cold War? Why ban civilian free exploration? Who is protecting what?* Xem thêm: [[Nam Cực - Bí Mật Được Canh Giữ]]
 
 ---
 
@@ -148,9 +140,7 @@ Xem thêm: [[Nam Cực - Bí Mật Được Canh Giữ]]
 
 ## Bức Tường Bang / The Ice Wall Manifesto
 
-"The Ice Wall Manifesto" là một tài liệu tham khảo cốt lõi cho dự án xây dựng thế giới **"Beyond the Ice Wall" (Bên Kia Bức Tường Băng - BTIW)**.
-
-*"The Ice Wall Manifesto" is a core reference document for the world-building project "Beyond the Ice Wall" (BTIW).*
+"The Ice Wall Manifesto" là một tài liệu tham khảo cốt lõi cho dự án xây dựng thế giới **"Beyond the Ice Wall" (Bên Kia Bức Tường Băng - BTIW)**. *"The Ice Wall Manifesto" is a core reference document for the world-building project "Beyond the Ice Wall" (BTIW).*
 
 ### Các Khái Niệm Cốt Lõi / Core Concepts
 
@@ -176,9 +166,7 @@ Xem thêm: [[Nam Cực - Bí Mật Được Canh Giữ]]
 
 ## Ý Nghĩa Biểu Tượng / Symbolic Meaning
 
-Dù Ice Wall có thật hay không, khái niệm này đại diện cho:
-
-*Whether the Ice Wall is real or not, the concept represents:*
+Dù Ice Wall có thật hay không, khái niệm này đại diện cho: *Whether the Ice Wall is real or not, the concept represents:*
 
 1. **Giới hạn kiến thức / Limits of knowledge** — Những gì chúng ta không được biết / What we're not allowed to know
 2. **Kiểm soát truy cập / Controlled access** — Gác cổng thông tin / Information gatekeeping

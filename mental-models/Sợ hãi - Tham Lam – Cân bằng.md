@@ -48,9 +48,7 @@ Arthur Schopenhauer ví giàu có như nước biển: càng uống càng khát.
 
 Fear và greed tạo sóng sin:
 
-```text
-Extreme fear -> disbelief -> hope -> greed -> euphoria -> denial -> panic -> extreme fear
-```
+> Extreme fear -> disbelief -> hope -> greed -> euphoria -> denial -> panic -> extreme fear
 
 Giá có thể giống nhau nhưng cảm xúc khác nhau. Bitcoin ở một mức giá trong bull market có thể là “đắt quá”; cùng mức đó trong bear market có thể là “sắp chết”. Con số không đổi, narrative đổi.
 

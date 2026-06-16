@@ -1,5 +1,6 @@
 ---
 title: "Nibiru"
+aliases: ["Nibiru"]
 description: "Nibiru (Planet X) là thiên thể bí ẩn được cho là có quỹ đạo elliptical cực kỳ dài (3,600 năm), định kỳ tiếp cận hệ Mặt Trời bên trong và gây ra các thảm họa trên Trái"
 date: 2026-04-08
 tags: [esoterica]
@@ -97,6 +98,19 @@ Trong redpill.wiki, [[Nibiru]] nằm ở giao điểm của [[Annunaki]], [[Dị
 Nibiru cũng là bài test tâm lý. Người sợ hãi sẽ tìm ngày tận thế. Người tham vọng sẽ tìm bunker. Người tỉnh hơn sẽ hỏi mình đang sống thế nào nếu mọi nền văn minh đều hữu hạn. Ở tầng đó, Nibiru trở thành memento mori vũ trụ: đừng giao linh hồn cho calendar doom, nhưng cũng đừng ngủ trong ảo tưởng rằng trật tự hiện tại là vĩnh cửu.
 
 Thực hành đúng là chuẩn bị nền tảng thay vì nghiện dự báo: nước, thức ăn, sức khỏe, cộng đồng, kỹ năng, khả năng đọc dữ liệu và tâm không hoảng. Nếu Nibiru có thật, hoảng loạn không giúp. Nếu Nibiru chỉ là myth, những nền tảng đó vẫn giúp. Đây là cách biến một chủ đề dễ gây sợ thành bài tập sovereignty.
+
+## Vault Position / Cách Đọc Nibiru
+
+Nibiru nên được đọc như một giao điểm giữa thiên văn cổ, myth về chu kỳ hủy diệt và tâm lý tập thể về “vật thể sắp đến”. Tầng fact cần tách khỏi tầng symbol: chưa có bằng chứng thiên văn mainstream cho một hành tinh khổng lồ đang lao vào hệ Mặt Trời theo cách internet thường kể, nhưng motif Nibiru vẫn có giá trị như một pattern về catastrophe memory.
+
+Trong vault, Nibiru không đứng một mình. Nó nối với [[Annunaki]], [[Nibiru và Nền Văn Minh Annunaki]], [[Chu Kỳ Vũ Trụ — Yugas & Kalpas]] và [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]. Nếu đọc đúng, câu hỏi không phải “Nibiru có thật 100% không?”, mà là: vì sao nhiều nền văn hóa giữ memory về vật thể trời, đại hồng thủy, reset và các beings đi xuống từ bầu trời?
+
+## Reading Path
+
+- **Fact layer**: phân biệt astronomy, historical texts và internet rumor.
+- **Pattern layer**: xem Nibiru như ký ức chu kỳ/cataclysm được mã hóa bằng myth.
+- **Symbol layer**: đọc “hành tinh trở lại” như archetype của judgement, reset và disclosure.
+- **Vault synthesis**: nối với Annunaki/Tartaria chỉ như hypothesis, không dùng để thay thế bằng chứng.
 
 ## Related
 

@@ -4,12 +4,12 @@
 
 ## Snapshot
 
-- **Notes scanned:** 213
+- **Notes scanned:** 215
 - **Top-level domains:** 8
 - **Tags detected:** 203
-- **Resolved internal edges:** 2111
-- **Broken/unresolved links:** 4
-- **Orphan notes:** 9
+- **Resolved internal edges:** 2118
+- **Broken/unresolved links:** 0
+- **Orphan notes:** 11
 
 ## Zettelkasten Reading
 
@@ -34,7 +34,7 @@ Recommended note types:
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `35`, backlinks `26`, outlinks `9` — #consciousness, #esoterica, #non-duality
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]] — degree `34`, backlinks `24`, outlinks `10` — #esoterica
 - [[esoterica/Karma Disclosure - Truth Hidden In Plain Sight|Karma Disclosure - Truth Hidden In Plain Sight]] — degree `33`, backlinks `22`, outlinks `11` — #conspiracy, #esoterica, #karma
-- [[esoterica/Tartaria|Tartaria]] — degree `31`, backlinks `24`, outlinks `7` — #esoterica
+- [[esoterica/Tartaria|Tartaria]] — degree `32`, backlinks `25`, outlinks `7` — #esoterica
 - [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]] — degree `29`, backlinks `21`, outlinks `8` — #esoterica, #occult, #predictive-programming
 - [[esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh - Năng Lượng Thu Hoạch Từ Con Người]] — degree `29`, backlinks `19`, outlinks `10` — #consciousness, #esoterica, #matrix
 - … 62 more notes in this domain. See JSON for full list.
@@ -62,8 +62,8 @@ Recommended note types:
 - [[health/Tuyến Tùng|Tuyến Tùng]] — degree `31`, backlinks `21`, outlinks `10` — #consciousness, #esoterica, #health
 - [[health/index|Health Domain Gateway]] — degree `30`, backlinks `2`, outlinks `28` — #domain-gateway, #health, #sovereignty
 - [[health/Kính Chiếu Yêu - Nhìn Thấu Tây Y|Kính Chiếu Yêu — Nhìn Thấu Tây Y]] — degree `27`, backlinks `18`, outlinks `9` — #health
+- [[health/Vận Chín, Người Kogi và Ma Trận Y Tế|Vận Chín, Người Kogi và Ma Trận Y Tế]] — degree `23`, backlinks `11`, outlinks `12` — #awakening, #health, #kogi, #matrix, #pineal-gland
 - [[health/René Quinton và Huyết Tương Biển|René Quinton và Huyết Tương Biển]] — degree `20`, backlinks `15`, outlinks `5` — #health, #minerals, #seawater, #terrain-theory
-- [[health/Vận Chín, Người Kogi và Ma Trận Y Tế|Vận Chín, Người Kogi và Ma Trận Y Tế]] — degree `18`, backlinks `5`, outlinks `13` — #awakening, #health, #kogi, #matrix, #pineal-gland
 - [[health/Cơ Chế Tự Bảo Vệ Của Cơ Thể|Cơ Chế Tự Bảo Vệ Của Cơ Thể]] — degree `17`, backlinks `12`, outlinks `5` — #health, #immune-system, #terrain-theory
 - [[health/Ketogenic Diet|Ketogenic Diet]] — degree `16`, backlinks `9`, outlinks `7` — #cancer, #health, #metabolism, #sovereignty
 - [[health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh|Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh]] — degree `16`, backlinks `9`, outlinks `7` — #age-of-aquarius, #healing, #health, #occult, #prophecy
@@ -105,7 +105,7 @@ Recommended note types:
 
 ### root `root` — 14 notes
 
-- [[index|Red Pill Wiki]] — degree `140`, backlinks `7`, outlinks `133` — #index, #navigation
+- [[index|Red Pill Wiki]] — degree `144`, backlinks `7`, outlinks `137` — #index, #navigation
 - [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `56`, backlinks `34`, outlinks `22` — #epistemology, #moc, #propaganda
 - [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `50`, backlinks `18`, outlinks `32` — #epistemology, #meta, #navigation
 - [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `47`, backlinks `30`, outlinks `17` — #health, #moc, #sovereignty
@@ -135,13 +135,15 @@ Recommended note types:
 - [[crypto-finance/Secular Market|Secular Market (Thị Trường Chu Kỳ Dài)]] — degree `12`, backlinks `4`, outlinks `8` — #crypto-finance
 - … 1 more notes in this domain. See JSON for full list.
 
-### Docs / Meta `_docs` — 7 notes
+### Docs / Meta `_docs` — 9 notes
 
 - [[_docs/CONTENT-SEO-AUDIT|Content SEO Audit - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/SEO-KEYWORD-MAP|SEO Keyword & Search-Intent Map - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/STRATEGY-EXECUTION-LOG|Strategy Execution Log]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/THIN-PAGE-CLASSIFICATION|Thin Page Classification - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/VAULT-QC-AUDIT|Vault QC Audit]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/VAULT-QC-CHECKLIST|Vault QC Checklist]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/VAULT-STRATEGY-AUDIT|Vault Strategy Audit — redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/WORLD-CUP-2026-PATTERN-AUDIT|World Cup 2026 Pattern Audit — Pre-Tournament Evidence Snapshot]] — degree `0`, backlinks `0`, outlinks `0` — #FIFAWorldCup, #WeAre26
 
@@ -149,7 +151,7 @@ Recommended note types:
 
 High-degree notes are good candidates for hub/MOC treatment.
 
-1. [[index|Red Pill Wiki]] — degree `140` · backlinks `7` · outlinks `133`
+1. [[index|Red Pill Wiki]] — degree `144` · backlinks `7` · outlinks `137`
    - **Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn.
 2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `125` · backlinks `99` · outlinks `26`
    - **Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**
@@ -246,8 +248,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]]
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]]
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]]
-- [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
 - [[esoterica/Tartaria|Tartaria]]
+- [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
 - [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]]
 
 ### MOC - Health Sovereignty
@@ -306,8 +308,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]]
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]]
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]]
-- [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
 - [[esoterica/Tartaria|Tartaria]]
+- [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
 - [[esoterica/Karma Disclosure - Truth Hidden In Plain Sight|Karma Disclosure - Truth Hidden In Plain Sight]]
 
 ### MOC - Science Revisionism
@@ -334,6 +336,8 @@ Orphans are not necessarily bad. In Zettelkasten terms, they are unfinished inte
 - [[_docs/SEO-KEYWORD-MAP|SEO Keyword & Search-Intent Map - redpill.wiki]] — `_docs`
 - [[_docs/STRATEGY-EXECUTION-LOG|Strategy Execution Log]] — `_docs`
 - [[_docs/THIN-PAGE-CLASSIFICATION|Thin Page Classification - redpill.wiki]] — `_docs`
+- [[_docs/VAULT-QC-AUDIT|Vault QC Audit]] — `_docs`
+- [[_docs/VAULT-QC-CHECKLIST|Vault QC Checklist]] — `_docs`
 - [[_docs/VAULT-STRATEGY-AUDIT|Vault Strategy Audit — redpill.wiki]] — `_docs`
 - [[_docs/WORLD-CUP-2026-PATTERN-AUDIT|World Cup 2026 Pattern Audit — Pre-Tournament Evidence Snapshot]] — `_docs`
 - [[claude|Schema (LLM Instructions)]] — `root`
@@ -341,10 +345,7 @@ Orphans are not necessarily bad. In Zettelkasten terms, they are unfinished inte
 
 ## Broken / Unresolved Internal Links
 
-- `index.md` → `[[Lịch Sử Song Song - Khi Thế Giới Đồng Bộ]]`
-- `index.md` → `[[Sợ hãi - Tham Lam - Cân bằng]]`
-- `index.md` → `[[Thế Hệ Dâu Tây - Mệt Rồi, Dừng Lại Được Chưa]]`
-- `index.md` → `[[Tồn Tại Để Làm Gì - Hay Câu Hỏi Đã Sai Từ Đầu]]`
+No unresolved wikilinks/markdown links detected.
 
 ## Maintenance Protocol
 

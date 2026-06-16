@@ -1,5 +1,6 @@
 ---
 title: Thực Thể Cõi Trung Giới (Astral Entities)
+aliases: ["Thực Thể Cõi Trung Giới (Astral Entities)", "Thực Thể Cõi Trung Giới"]
 description: "title: Thực Thể Cõi Trung Giới (Astral Entities) — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
 date: 2026-04-07
 tags: [esoterica]

@@ -70,21 +70,19 @@ Bảng dưới đây giữ vai trò bản đồ định hướng, không phải 
 
 Trục Bắc-Nam của Việt Nam có thể đọc như một cột sống dài, hẹp, luôn căng giữa núi và biển. Vì hình thể đất nước mỏng, mọi tổn thương ở rừng đầu nguồn, sông ngòi, đèo núi hoặc duyên hải đều truyền rất nhanh xuống đời sống dân cư.
 
-```text
-Yên Tử
-  ↓
-Thăng Long / Hà Nội
-  ↓
-Hoa Lư - Côn Sơn - Ba Vì
-  ↓
-Huế
-  ↓
-Mỹ Sơn - Ngũ Hành Sơn
-  ↓
-Tây Nguyên
-  ↓
-Núi Bà Đen - Phú Quốc
-```
+> Yên Tử
+>   ↓
+> Thăng Long / Hà Nội
+>   ↓
+> Hoa Lư - Côn Sơn - Ba Vì
+>   ↓
+> Huế
+>   ↓
+> Mỹ Sơn - Ngũ Hành Sơn
+>   ↓
+> Tây Nguyên
+>   ↓
+> Núi Bà Đen - Phú Quốc
 
 Đọc theo phong thủy, đây là trục long mạch. Đọc theo sinh thái, đây là mạng nước-rừng-biển. Đọc theo lịch sử, đây là hành lang mở nước, giữ nước, mất nước, thống nhất, chia cắt rồi nối lại. Ba lớp này không loại trừ nhau; chúng là ba ngôn ngữ cho cùng một cơ thể.
 

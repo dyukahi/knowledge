@@ -23,9 +23,7 @@ related:
 
 ## Vault Position / Vị Trí Trong Vault
 
-Bài này nằm giữa [[Ma Trận]], [[Kiểm Soát Tâm Trí]], [[Bộ Não Rỗng và AI Brain Rot]], [[Schadenfreude - Dopamine Phản Diện]] và [[Sự Thật Đen Tối Về Phim Khiêu Dâm]].
-
-Nếu [[Ma Trận]] là operating system của perception, dopamine economy là module giữ người dùng tương tác tự nguyện.
+Bài này nằm giữa [[Ma Trận]], [[Kiểm Soát Tâm Trí]], [[Bộ Não Rỗng và AI Brain Rot]], [[Schadenfreude - Dopamine Phản Diện]] và [[Sự Thật Đen Tối Về Phim Khiêu Dâm]]. Nếu [[Ma Trận]] là operating system của perception, dopamine economy là module giữ người dùng tương tác tự nguyện.
 
 > Roi da không cần thiết khi phần thưởng đủ gây nghiện.
 
@@ -33,9 +31,7 @@ Nếu [[Ma Trận]] là operating system của perception, dopamine economy là 
 
 ## 1. Dopamine Không Phải Hạnh Phúc
 
-Dopamine thường bị gọi sai là “hormone hạnh phúc”. Chính xác hơn, dopamine liên quan mạnh tới **wanting**, anticipation, seeking, motivation.
-
-Nó tăng trước reward, khi não dự đoán có thứ đáng theo đuổi.
+Dopamine thường bị gọi sai là “hormone hạnh phúc”. Chính xác hơn, dopamine liên quan mạnh tới **wanting**, anticipation, seeking, motivation. Nó tăng trước reward, khi não dự đoán có thứ đáng theo đuổi.
 
 ```mermaid
 flowchart LR
@@ -78,9 +74,7 @@ Phần thưởng không đoán trước gây nghiện mạnh hơn phần thưở
 - không biết match tiếp theo có hấp dẫn hơn không,
 - không biết news tiếp theo có làm mình sốc hơn không.
 
-Đây là slot machine logic.
-
-Một chiếc điện thoại hiện đại là casino cá nhân hóa nằm trong túi.
+Đây là slot machine logic. Một chiếc điện thoại hiện đại là casino cá nhân hóa nằm trong túi.
 
 ---
 
@@ -88,21 +82,15 @@ Một chiếc điện thoại hiện đại là casino cá nhân hóa nằm tron
 
 ### Social Media
 
-Validation loop: post → chờ → check → reward/anxiety → post tiếp.
-
-Social media không chỉ cho dopamine. Nó tạo identity phụ thuộc vào phản hồi.
+Validation loop: post → chờ → check → reward/anxiety → post tiếp. Social media không chỉ cho dopamine. Nó tạo identity phụ thuộc vào phản hồi.
 
 ### Porn
 
-Porn hijack sexual novelty, Coolidge effect và bonding system. Nó không chỉ tiêu hao thời gian; nó tiêu hao [[Năng Lượng Tình Dục]] và làm méo intimacy.
-
-→ Xem: [[Sự Thật Đen Tối Về Phim Khiêu Dâm]].
+Porn hijack sexual novelty, Coolidge effect và bonding system. Nó không chỉ tiêu hao thời gian; nó tiêu hao [[Năng Lượng Tình Dục]] và làm méo intimacy. → Xem: [[Sự Thật Đen Tối Về Phim Khiêu Dâm]].
 
 ### Food
 
-Ultra-processed food được thiết kế theo bliss point: đường, muối, béo, texture, smell, color.
-
-Food không còn chỉ nuôi cơ thể. Nó điều khiển craving.
+Ultra-processed food được thiết kế theo bliss point: đường, muối, béo, texture, smell, color. Food không còn chỉ nuôi cơ thể. Nó điều khiển craving.
 
 ### Gaming / Gambling
 
@@ -116,9 +104,7 @@ Outrage là dopamine tối. [[Schadenfreude - Dopamine Phản Diện]] làm ngư
 
 ## 5. Dopamine Và Loosh
 
-Ở tầng metaphysical, dopamine economy có thể đọc như loosh harvesting công nghiệp hóa.
-
-Không cần đợi chiến tranh lớn. Hệ thống có thể harvest micro-emotions mỗi ngày:
+Ở tầng metaphysical, dopamine economy có thể đọc như loosh harvesting công nghiệp hóa. Không cần đợi chiến tranh lớn. Hệ thống có thể harvest micro-emotions mỗi ngày:
 
 - envy,
 - lust,
@@ -144,11 +130,7 @@ Dopamine economy là nơi capitalism, algorithm và occult energy model gặp nh
 
 ## 6. Tại Sao Ý Chí Không Đủ?
 
-Nhiều người nghĩ mình thiếu kỷ luật. Nhưng phần lớn đang đấu với hệ thống tối ưu bằng A/B testing, neuroscience, behavioral design và AI.
-
-Willpower cá nhân chống lại trillion-dollar engagement machine là trận không cân sức.
-
-Cần đổi environment, không chỉ tự trách.
+Nhiều người nghĩ mình thiếu kỷ luật. Nhưng phần lớn đang đấu với hệ thống tối ưu bằng A/B testing, neuroscience, behavioral design và AI. Willpower cá nhân chống lại trillion-dollar engagement machine là trận không cân sức. Cần đổi environment, không chỉ tự trách.
 
 ---
 
@@ -178,9 +160,7 @@ Không phải hành xác. Là giảm superstimuli để receptor sensitivity và
 
 ### 4. Replace, Not Just Remove
 
-Nếu chỉ bỏ dopamine xấu mà không có meaning, body sẽ relapse.
-
-Cần thay bằng:
+Nếu chỉ bỏ dopamine xấu mà không có meaning, body sẽ relapse. Cần thay bằng:
 
 - purpose,
 - craft,
@@ -209,9 +189,7 @@ Nếu đời thật nhạt, có thể không phải đời thật thiếu màu. 
 
 ## Synthesis
 
-Dopamine Economy là Ma Trận ở cấp nervous system. Nó không cần bạn tin một ideology. Nó chỉ cần bạn không lấy lại được attention.
-
-Một người mất attention sẽ mất memory, mất will, mất depth, mất prayer, mất Gnosis.
+Dopamine Economy là Ma Trận ở cấp nervous system. Nó không cần bạn tin một ideology. Nó chỉ cần bạn không lấy lại được attention. Một người mất attention sẽ mất memory, mất will, mất depth, mất prayer, mất Gnosis.
 
 > Trong thời đại này, giữ được sự chú ý là một hành động tâm linh.
 

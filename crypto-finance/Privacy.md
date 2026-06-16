@@ -1,5 +1,6 @@
 ---
 title: "Privacy (Quyền Riêng Tư)"
+aliases: ["Privacy (Quyền Riêng Tư)", "Privacy"]
 description: "Privacy là quyền cơ bản của con người — quyền giữ cho mình những gì thuộc về mình: suy nghĩ, tài sản, hoạt động cá nhân. Trong kỷ nguyên số và giám sát toàn diện"
 date: 2026-04-07
 tags: [crypto-finance]

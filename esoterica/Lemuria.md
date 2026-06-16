@@ -1,5 +1,6 @@
 ---
 title: "Lemuria (Mu)"
+aliases: ["Lemuria (Mu)", "Lemuria"]
 description: "Lemuria là ký ức về một nhánh văn minh được đọc như feminine template của nhân loại: gần đại dương, trực giác, cộng sinh với Gaia"
 date: 2026-04-07
 tags: [esoterica]

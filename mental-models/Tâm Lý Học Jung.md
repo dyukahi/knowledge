@@ -33,9 +33,7 @@ Jung không được dùng ở đây như giáo chủ. Ông là bộ công cụ 
 
 Mô hình đơn giản:
 
-```text
-Persona -> Ego -> Personal Unconscious -> Collective Unconscious -> Self
-```
+> Persona -> Ego -> Personal Unconscious -> Collective Unconscious -> Self
 
 Persona là mặt nạ xã hội. Ego là trung tâm ý thức hằng ngày. Vô thức cá nhân chứa ký ức, trauma, ham muốn bị nén. [[Vô Thức Tập Thể]] chứa archetype và myth phổ quát. Self là toàn thể lớn hơn ego.
 

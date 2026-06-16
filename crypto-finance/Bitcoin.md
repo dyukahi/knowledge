@@ -140,11 +140,9 @@ Bitcoin là exit ở tầng sovereignty, nhưng ở tầng systems reading nó c
 
 Arc rộng hơn:
 
-```text
-Bitcoin → ledger money
-Ethereum → programmable contracts
-Chainlink → oracle / real-world bridge
-RWA + CBDC → tokenized permission economy
-```
+> Bitcoin → ledger money
+> Ethereum → programmable contracts
+> Chainlink → oracle / real-world bridge
+> RWA + CBDC → tokenized permission economy
 
 Xem thêm: [[Chainlink - Mắt Xích Của Tokenized World]].

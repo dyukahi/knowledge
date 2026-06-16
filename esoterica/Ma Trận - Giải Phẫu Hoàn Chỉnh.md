@@ -35,9 +35,7 @@ Bài này là **meta-framework của vault**, không phải hồ sơ chứng min
 
 ### Con Người Có Tiềm Năng Vĩ Đại / Humans Have Immense Potential
 
-Theo nhiều truyền thống tâm linh:
-
-*According to many spiritual traditions:*
+Theo nhiều truyền thống tâm linh: *According to many spiritual traditions:*
 
 | Truyền thống | Quan điểm |
 |--------------|-----------|
@@ -56,19 +54,11 @@ Theo nhiều truyền thống tâm linh:
 flowchart TD
     H["Con người có tiềm năng vĩ đại"]
 
-    M["MA TRẬN"]
-
-    F["Khiến con người QUÊN"]
+M["MA TRẬN"] F["Khiến con người QUÊN"]
     C["Giữ trong vòng lặp tiêu cực"]
-    E["Thu hoạch năng lượng (Loosh)"]
-
-    H --> M
-    M --> F & C & E
-
-    F & C & E --> R["Con người bị kiểm soát, phục vụ hệ thống"]
-```
-
-→ Xem chi tiết: [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]]
+    E["Thu hoạch năng lượng (Loosh)"] H --> M
+    M --> F & C & E F & C & E --> R["Con người bị kiểm soát, phục vụ hệ thống"]
+``` → Xem chi tiết: [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]]
 
 ---
 
@@ -85,18 +75,14 @@ flowchart TD
         W4["💊 Bức tường 4: Y HỌC + THỰC PHẨM<br/>Suy yếu thể chất & tinh thần"]
     end
 
-    W1 --> W2 --> W3 --> W4
-
-    W4 --> C["CON NGƯỜI BỊ KIỂM SOÁT<br/>Quên tiềm năng, sống trong sợ hãi"]
+W1 --> W2 --> W3 --> W4 W4 --> C["CON NGƯỜI BỊ KIỂM SOÁT<br/>Quên tiềm năng, sống trong sợ hãi"]
 ```
 
 ---
 
 ### Bức Tường 1: Tôn Giáo / Wall 1: Religion
 
-**Cơ chế:** Khiến con người tin mình **nhỏ bé, có tội**, cần trung gian để tiếp cận Thượng Đế.
-
-*Mechanism: Make humans believe they are small, sinful, needing intermediaries to access God.*
+**Cơ chế:** Khiến con người tin mình **nhỏ bé, có tội**, cần trung gian để tiếp cận Thượng Đế. *Mechanism: Make humans believe they are small, sinful, needing intermediaries to access God.*
 
 | Element | Tác dụng |
 |---------|----------|
@@ -105,19 +91,13 @@ flowchart TD
 | **Sợ hãi địa ngục** | Kiểm soát qua fear |
 | **Adam-Eva 6000 năm** | Xóa bỏ lịch sử văn minh cổ |
 
-**Contradiction:** Nếu Adam-Eva chỉ 6000 năm trước, thì mâu thuẫn với [[Atlantis]], [[Lemuria]], [[Tartaria]], Kim Tự Tháp Giza...
-
-**Góc nhìn [[Gnosis|Gnostic]]:** Chúa Giêsu đến để **khai mở nhận thức**, không chỉ cứu rỗi. "Nước Trời" nằm **bên trong** mỗi người.
-
-→ Xem: [[Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo]]
+**Contradiction:** Nếu Adam-Eva chỉ 6000 năm trước, thì mâu thuẫn với [[Atlantis]], [[Lemuria]], [[Tartaria]], Kim Tự Tháp Giza... **Góc nhìn [[Gnosis|Gnostic]]:** Chúa Giêsu đến để **khai mở nhận thức**, không chỉ cứu rỗi. "Nước Trời" nằm **bên trong** mỗi người. → Xem: [[Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo]]
 
 ---
 
 ### Bức Tường 2: Khoa Học / Wall 2: Science
 
-**Cơ chế:** Khiến con người cảm thấy **vô nghĩa** trong vũ trụ vô tận, lạnh lẽo.
-
-*Mechanism: Make humans feel meaningless in an infinite, cold universe.*
+**Cơ chế:** Khiến con người cảm thấy **vô nghĩa** trong vũ trụ vô tận, lạnh lẽo. *Mechanism: Make humans feel meaningless in an infinite, cold universe.*
 
 | Mô hình hiện đại | Tác dụng tâm lý |
 |------------------|-----------------|
@@ -133,17 +113,13 @@ flowchart TD
 | Tuổi thọ ~80 năm | Từng có người sống 84 vạn năm |
 | Một loài người | Người khổng lồ từng tồn tại |
 
-**Giả thuyết:** Cả tôn giáo (Bức tường 1) và khoa học (Bức tường 2) đều serve: **khiến con người cảm thấy nhỏ bé**.
-
-→ Xem: [[Khoa Học Xét Lại]], [[Thuyết Trái Đất Phẳng]], [[Mô Hình Địa Tâm]]
+**Giả thuyết:** Cả tôn giáo (Bức tường 1) và khoa học (Bức tường 2) đều serve: **khiến con người cảm thấy nhỏ bé**. → Xem: [[Khoa Học Xét Lại]], [[Thuyết Trái Đất Phẳng]], [[Mô Hình Địa Tâm]]
 
 ---
 
 ### Bức Tường 3: Chiến Tranh / Wall 3: War
 
-**Cơ chế:** Giữ con người trong **vòng lặp xung đột**, sản xuất [[Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh]] liên tục.
-
-*Mechanism: Keep humans in conflict loops, continuously producing Loosh.*
+**Cơ chế:** Giữ con người trong **vòng lặp xung đột**, sản xuất [[Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh]] liên tục. *Mechanism: Keep humans in conflict loops, continuously producing Loosh.*
 
 ```mermaid
 flowchart LR
@@ -158,9 +134,7 @@ flowchart LR
 
 > *"Cõi Atula, đặc trưng bởi sân hận và hiếu chiến, có nhiều điểm tương đồng với thế giới con người hiện nay."*
 
-**Giả thuyết:** Cõi Atula là tầng **gần nhất** với con người, đang **tác động mạnh** — giải thích tại sao nhân loại luôn trong trạng thái xung đột.
-
-**Khải Huyền = Kế hoạch?**
+**Giả thuyết:** Cõi Atula là tầng **gần nhất** với con người, đang **tác động mạnh** — giải thích tại sao nhân loại luôn trong trạng thái xung đột. **Khải Huyền = Kế hoạch?**
 
 Nếu áp dụng logic [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|Predictive Programming]]: Khải Huyền có thể không phải tiên tri mà là **blueprint được soạn ra** và thực hiện trong tương lai.
 
@@ -170,9 +144,7 @@ Nếu áp dụng logic [[Predictive Programming - Cấy Tương Lai Vào Tiềm 
 
 ### Bức Tường 4: Y Học + Thực Phẩm / Wall 4: Medicine + Food
 
-**Cơ chế:** Suy yếu **thể chất và tinh thần**, khiến con người không còn năng lượng để đặt câu hỏi.
-
-*Mechanism: Weaken body and mind, leaving no energy to question.*
+**Cơ chế:** Suy yếu **thể chất và tinh thần**, khiến con người không còn năng lượng để đặt câu hỏi. *Mechanism: Weaken body and mind, leaving no energy to question.*
 
 | Hệ thống | Tác dụng |
 |----------|----------|
@@ -189,9 +161,7 @@ Nếu áp dụng logic [[Predictive Programming - Cấy Tương Lai Vào Tiềm 
 
 ## Ma Trận Kiểm Soát Kép / Dual Control Matrix
 
-Ngoài 4 bức tường, Ma Trận hoạt động trên **2 trục song song**:
-
-*Beyond the 4 walls, the Matrix operates on 2 parallel axes:*
+Ngoài 4 bức tường, Ma Trận hoạt động trên **2 trục song song**: *Beyond the 4 walls, the Matrix operates on 2 parallel axes:*
 
 ### Trục 1: Kiểm Soát Vật Chất / Material Control
 
@@ -217,9 +187,7 @@ Ngoài 4 bức tường, Ma Trận hoạt động trên **2 trục song song**:
 
 ### Mudflood & Reset
 
-Lịch sử loài người có thể đã bị **reset**. Các nền văn minh tiên tiến cổ đại bị xóa sổ:
-
-*Human history may have been reset. Advanced ancient civilizations erased:*
+Lịch sử loài người có thể đã bị **reset**. Các nền văn minh tiên tiến cổ đại bị xóa sổ: *Human history may have been reset. Advanced ancient civilizations erased:*
 
 - [[Atlantis]] — Công nghệ tiên tiến
 - [[Lemuria]] — Văn minh tâm linh
@@ -290,34 +258,22 @@ flowchart TD
         B4["Phá bức tường y học: Natural"]
     end
 
-    subgraph "TỰ DO | FREEDOM"
+subgraph "TỰ DO | FREEDOM"
         C1["Tâm thức: Individuation"]
         C2["Tài chính: Independence"]
         C3["Tâm lý: Equanimity"]
-    end
-
-    A1 --> A2 --> A3
+    end A1 --> A2 --> A3
     A3 --> B1 & B2 & B3 & B4
-    B1 & B2 & B3 & B4 --> C1 & C2 & C3
-
-    C1 & C2 & C3 --> F["KIẾN TẠO THỰC TẠI CỦA CHÍNH MÌNH"]
+    B1 & B2 & B3 & B4 --> C1 & C2 & C3 C1 & C2 & C3 --> F["KIẾN TẠO THỰC TẠI CỦA CHÍNH MÌNH"]
 ```
 
 ---
 
 ## Kết Luận / Conclusion
 
-Thế giới là một bàn cờ lớn với nhiều lớp bẫy — từ tôn giáo, khoa học, chiến tranh đến y học. Nhưng **sự thức tỉnh đang xảy ra**.
+Thế giới là một bàn cờ lớn với nhiều lớp bẫy — từ tôn giáo, khoa học, chiến tranh đến y học. Nhưng **sự thức tỉnh đang xảy ra**. *The world is a grand chessboard with multiple trap layers — from religion, science, war to medicine. But awakening is happening.* Những cuộc xung đột địa chính trị (Iran-Mỹ, Nga-Ukraine) không chỉ là bề mặt — đó là **lớp che phủ cho cuộc chiến về nhận thức và tâm linh** của con người. *Geopolitical conflicts are not just surface — they cover the deeper war for human consciousness and spirituality.*
 
-*The world is a grand chessboard with multiple trap layers — from religion, science, war to medicine. But awakening is happening.*
-
-Những cuộc xung đột địa chính trị (Iran-Mỹ, Nga-Ukraine) không chỉ là bề mặt — đó là **lớp che phủ cho cuộc chiến về nhận thức và tâm linh** của con người.
-
-*Geopolitical conflicts are not just surface — they cover the deeper war for human consciousness and spirituality.*
-
-Chỉ những ai **thấu hiểu quy luật vận hành** của cỗ máy và **trang bị tư duy độc lập** mới có thể bước ra khỏi bàn cờ và trở thành **người kiến tạo thực tại của chính mình**.
-
-*Only those who understand the machine's operating principles and equip themselves with independent thinking can step off the board and become creators of their own reality.*
+Chỉ những ai **thấu hiểu quy luật vận hành** của cỗ máy và **trang bị tư duy độc lập** mới có thể bước ra khỏi bàn cờ và trở thành **người kiến tạo thực tại của chính mình**. *Only those who understand the machine's operating principles and equip themselves with independent thinking can step off the board and become creators of their own reality.*
 
 ---
 

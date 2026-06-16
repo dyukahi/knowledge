@@ -1,5 +1,6 @@
 ---
 title: "MindGeek (Aylo)"
+aliases: ["MindGeek (Aylo)", "MindGeek"]
 description: "MindGeek (đổi tên thành Aylo năm 2023) là tập đoàn công nghệ kiểm soát phần lớn ngành công nghiệp phim khiêu dâm toàn cầu"
 date: 2026-04-07
 tags: [politics-conspiracy]

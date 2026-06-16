@@ -1,5 +1,6 @@
 ---
 title: "Khế Ước Bí Mật Rockefeller (The Secret Covenant)"
+aliases: ["Khế Ước Bí Mật Rockefeller (The Secret Covenant)", "Khế Ước Bí Mật Rockefeller"]
 description: "Khế ước Rockefeller như mô hình kiểm soát nhận thức, nối elite, ranh giới thế giới và kỷ luật đọc biểu tượng."
 date: 2026-04-08
 tags: [politics-conspiracy]

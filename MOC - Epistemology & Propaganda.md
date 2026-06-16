@@ -1,6 +1,7 @@
 ---
 
 title: "MOC - Epistemology & Propaganda"
+aliases: ["MOC - Epistemology & Propaganda"]
 description: "Map of epistemology, propaganda, narrative control, source discipline, media literacy, and psychological operations frameworks."
 date: 2026-06-04
 tags: [moc, epistemology, propaganda]

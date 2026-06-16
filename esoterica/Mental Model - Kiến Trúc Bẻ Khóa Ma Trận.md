@@ -1,5 +1,6 @@
 ---
 title: Mental Model - Kiến Trúc Bẻ Khóa Ma Trận
+aliases: ["Mental Model - Kiến Trúc Bẻ Khóa Ma Trận"]
 description: "Mental Model: Kiến Trúc Bẻ Khóa Ma Trận & Thăng Hoa Tâm Thức: Tags: mental model matrix awakening energy gnosis truth"
 date: 2026-04-08
 tags: [esoterica]

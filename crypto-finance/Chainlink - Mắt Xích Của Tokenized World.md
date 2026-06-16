@@ -197,12 +197,10 @@ Có một giả thuyết fringe cho rằng Sergey Nazarov có thể liên quan t
 
 Điểm đáng đọc không phải “prove Sergey = Satoshi”. Điểm đáng đọc là arc:
 
-```text
-Satoshi / Bitcoin → introduce ledger money
-Ethereum → introduce programmable contracts
-Sergey / Chainlink → connect contracts to real-world data/assets
-RWA / CBDC → tokenize and permission the world
-```
+> Satoshi / Bitcoin → introduce ledger money
+> Ethereum → introduce programmable contracts
+> Sergey / Chainlink → connect contracts to real-world data/assets
+> RWA / CBDC → tokenize and permission the world
 
 Nếu Satoshi là người mở cổng, thì Sergey/Chainlink là người nối cổng đó vào hệ thống tài sản toàn cầu.
 
@@ -233,9 +231,7 @@ Crypto đã làm mass quen với:
 
 CBDC không cần xuất hiện như cú sốc. Nó có thể xuất hiện như bản nâng cấp “an toàn, hợp pháp, được bảo chứng” của thứ crypto đã normalize.
 
-```text
-Crypto UX → stablecoin rails → tokenized assets → digital ID → CBDC
-```
+> Crypto UX → stablecoin rails → tokenized assets → digital ID → CBDC
 
 Trong stack này, Chainlink/oracle layer là cầu nối làm thế giới thật bước vào ledger.
 

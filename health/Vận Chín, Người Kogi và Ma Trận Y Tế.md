@@ -1,5 +1,6 @@
 ---
 title: Vận Chín, Người Kogi và Ma Trận Y Tế
+aliases: ["Vận Chín, Người Kogi và Ma Trận Y Tế"]
 description: "Bài này thuộc nhóm health sovereignty của redpill.wiki. Nó có thể dùng giọng mạnh để phản biện medical industrial complex, nhưng không phải chỉ dẫn y khoa cá nhân."
 date: 2026-04-08
 tags: [health]

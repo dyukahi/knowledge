@@ -1,5 +1,6 @@
 ---
 title: "Thế Chiến — Chiến Dịch Dọn Dẹp"
+aliases: ["Thế Chiến — Chiến Dịch Dọn Dẹp", "Thế Chiến - Chiến Dịch Dọn Dẹp"]
 description: "'Khi cả hai phe đều serve cùng một master, chiến tranh không phải là xung đột — mà là dự án.'"
 date: 2026-04-30
 tags: [conspiracy, ww1, ww2, tartaria, old-world, history]

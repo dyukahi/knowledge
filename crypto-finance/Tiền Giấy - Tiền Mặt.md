@@ -1,5 +1,6 @@
 ---
 title: "Tiền Giấy - Tiền Mặt (Fiat Currency)"
+aliases: ["Tiền Giấy - Tiền Mặt (Fiat Currency)", "Tiền Giấy - Tiền Mặt"]
 description: "Tiền mặt là lớp privacy cuối cùng trong hệ tiền pháp định; còn fiat là hệ tiền dựa trên niềm tin, luật cưỡng chế và khả năng phát hành của nhà nước/ngân hàng trung ương"
 date: 2026-04-12
 tags: [crypto-finance, privacy]

@@ -1,5 +1,6 @@
 ---
 title: Kỹ Thuật Thiền Định Kogi
+aliases: ["Kỹ Thuật Thiền Định Kogi"]
 description: "Kỹ thuật thiền định Kogi là phương pháp tu tập cổ xưa của các 'Mama' (thầy tinh thần) dân tộc Kogi — người giữ gìn trí tuệ Atlantean còn sót lại tại Sierra Nevada de"
 date: 2026-04-08
 tags: [esoterica]

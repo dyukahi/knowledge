@@ -8,9 +8,7 @@ status: refined
 ---
 # Điều Mà Trường Học Không Dạy Về Tiền
 
-Trong quá trình tìm hiểu sâu về tài chính, nhiều người mới nhận ra mình "nghèo mạt" — không phải vì thiếu tiền, mà vì **thiếu kiến thức về tiền**.
-
-*While diving deep into finance, many people realize they're "financially illiterate" — not because they lack money, but because they lack knowledge about money.*
+Trong quá trình tìm hiểu sâu về tài chính, nhiều người mới nhận ra mình "nghèo mạt" — không phải vì thiếu tiền, mà vì **thiếu kiến thức về tiền**. *While diving deep into finance, many people realize they're "financially illiterate" — not because they lack money, but because they lack knowledge about money.*
 
 > Hệ thống trường học từ tiểu đến đại học **KHÔNG DẠY** gì về làm tiền cả. Dạy xài tiền và vay tiền thì căng.
 >
@@ -27,15 +25,11 @@ flowchart LR
     T[Taxpayers]
     C[Consumers]
 
-    S -->|"Produces"| E
+S -->|"Produces"| E
     E -->|"Becomes"| T
     T -->|"Becomes"| C
     C -->|"Feeds"| S
-```
-
-Hệ thống giáo dục được thiết kế để tạo ra **nhân viên**, không phải chủ doanh nghiệp.
-
-*The education system is designed to produce **employees**, not business owners.*
+``` Hệ thống giáo dục được thiết kế để tạo ra **nhân viên**, không phải chủ doanh nghiệp. *The education system is designed to produce **employees**, not business owners.*
 
 | Trường học dạy | Trường học KHÔNG dạy |
 |----------------|---------------------|
@@ -58,20 +52,12 @@ flowchart TD
     D[Vay nợ - xe, nhà]
     W[Làm việc trả nợ]
 
-    J --> S --> L --> D --> W --> J
-```
-
-Xã hội định nghĩa "thành công":
+J --> S --> L --> D --> W --> J
+``` Xã hội định nghĩa "thành công":
 - Xe đẹp (vay ngân hàng)
 - Nhà to (trả góp 20 năm)
 - Con học trường xịn (học phí cao)
-- Du lịch check-in (thẻ tín dụng)
-
-*Society defines "success" as: nice car (on loan), big house (20-year mortgage), kids in fancy schools, vacation check-ins (on credit).*
-
-**Nhưng tất cả đều là LIABILITIES — những thứ lấy tiền ra khỏi túi bạn.**
-
-*But all of these are LIABILITIES — things that take money OUT of your pocket.*
+- Du lịch check-in (thẻ tín dụng) *Society defines "success" as: nice car (on loan), big house (20-year mortgage), kids in fancy schools, vacation check-ins (on credit).* **Nhưng tất cả đều là LIABILITIES — những thứ lấy tiền ra khỏi túi bạn.** *But all of these are LIABILITIES — things that take money OUT of your pocket.*
 
 > "Người giàu không làm việc vì tiền. Họ để tiền làm việc cho họ."
 > — Robert Kiyosaki
@@ -82,9 +68,7 @@ Xã hội định nghĩa "thành công":
 
 ## Những Khái Niệm "Kỳ Dị" / "Exotic" Concepts
 
-Những thứ người giàu biết từ nhỏ, nhưng bạn phải tự mò:
-
-*Things the rich learn from childhood, but you have to figure out yourself:*
+Những thứ người giàu biết từ nhỏ, nhưng bạn phải tự mò: *Things the rich learn from childhood, but you have to figure out yourself:*
 
 ### 💼 Cấu Trúc Doanh Nghiệp / Business Structures
 
@@ -113,17 +97,13 @@ flowchart LR
         E3 --> E4[Chi tiêu]
     end
 
-    subgraph Owner[Chủ Doanh Nghiệp]
+subgraph Owner[Chủ Doanh Nghiệp]
         O1[Doanh thu] --> O2[Chi phí]
         O2 --> O3[Lợi nhuận]
         O3 --> O4[Thuế TNDN]
     end
-```
-
-**Người làm công:** Kiếm → Đóng thuế → Chi tiêu
-**Chủ doanh nghiệp:** Kiếm → Chi tiêu → Đóng thuế (trên phần còn lại)
-
-*Employee: Earn → Pay tax → Spend*
+``` **Người làm công:** Kiếm → Đóng thuế → Chi tiêu
+**Chủ doanh nghiệp:** Kiếm → Chi tiêu → Đóng thuế (trên phần còn lại) *Employee: Earn → Pay tax → Spend*
 *Business owner: Earn → Spend → Pay tax (on what's left)*
 
 ### 💰 Dòng Tiền vs Thu Nhập / Cash Flow vs Income
@@ -135,9 +115,7 @@ flowchart LR
 | **Tài sản** | Tiền một lần | Tạo dòng tiền liên tục |
 | **Quan trọng** | Bề ngoài | Thực tế |
 
-**Câu hỏi đúng không phải "Bạn kiếm bao nhiêu?" mà là "Bạn giữ được bao nhiêu?"**
-
-*The right question isn't "How much do you earn?" but "How much do you keep?"*
+**Câu hỏi đúng không phải "Bạn kiếm bao nhiêu?" mà là "Bạn giữ được bao nhiêu?"** *The right question isn't "How much do you earn?" but "How much do you keep?"*
 
 ---
 
@@ -152,22 +130,16 @@ flowchart TB
         A4[Bản quyền, IP]
     end
 
-    subgraph Liabilities[Nợ - Tiền RA]
+subgraph Liabilities[Nợ - Tiền RA]
         L1[Xe hơi trả góp]
         L2[Nhà ở trả góp]
         L3[Đồ xa xỉ]
         L4[Subscription không dùng]
-    end
-
-    Assets -->|"Tạo ra"| M[Tiền]
+    end Assets -->|"Tạo ra"| M[Tiền]
     M -->|"Bị ăn bởi"| Liabilities
-```
-
-**Định nghĩa của Robert Kiyosaki:**
+``` **Định nghĩa của Robert Kiyosaki:**
 - **Tài sản:** Đưa tiền VÀO túi bạn
-- **Nợ:** Lấy tiền RA khỏi túi bạn
-
-*Kiyosaki's definitions:*
+- **Nợ:** Lấy tiền RA khỏi túi bạn *Kiyosaki's definitions:*
 - *Asset: Puts money IN your pocket*
 - *Liability: Takes money OUT of your pocket*
 
@@ -182,9 +154,7 @@ flowchart TB
 | Phí đỗ xe | 500K-2 triệu |
 | **Tổng** | **12-17 triệu/tháng** |
 
-Xe 300 triệu vay ngân hàng = **LIABILITY** ăn 12-17 triệu/tháng.
-
-*A 300 million VND car on loan = LIABILITY eating 12-17 million/month.*
+Xe 300 triệu vay ngân hàng = **LIABILITY** ăn 12-17 triệu/tháng. *A 300 million VND car on loan = LIABILITY eating 12-17 million/month.*
 
 > Vay tiền làm con xe 300 củ che nắng che mưa đón con hay cho vợ đi chợ thành "sĩ với đời" — mindset này mà học tài chính thì chỉ để tỏ ra mình thượng đẳng thôi.
 >
@@ -194,33 +164,23 @@ Xe 300 triệu vay ngân hàng = **LIABILITY** ăn 12-17 triệu/tháng.
 
 ## Tại Sao Không Được Dạy? / Why Isn't This Taught?
 
-Đây không phải ngẫu nhiên. Đây là **thiết kế có chủ đích**.
-
-*This isn't accidental. It's by design.*
+Đây không phải ngẫu nhiên. Đây là **thiết kế có chủ đích**. *This isn't accidental. It's by design.*
 
 ### 1. Hệ thống cần nhân viên
 
-Nếu ai cũng biết cách tạo tài sản, ai sẽ làm công?
-
-*If everyone knew how to create assets, who would be employees?*
+Nếu ai cũng biết cách tạo tài sản, ai sẽ làm công? *If everyone knew how to create assets, who would be employees?*
 
 ### 2. Hệ thống cần người tiêu dùng
 
-Nền kinh tế tiêu dùng cần người mua → vay → trả nợ.
-
-*A consumer economy needs people to buy → borrow → pay debt.*
+Nền kinh tế tiêu dùng cần người mua → vay → trả nợ. *A consumer economy needs people to buy → borrow → pay debt.*
 
 ### 3. Hệ thống cần thuế
 
-Người làm công đóng thuế cao nhất, ít cách tối ưu nhất.
-
-*Employees pay the highest taxes with the fewest optimization options.*
+Người làm công đóng thuế cao nhất, ít cách tối ưu nhất. *Employees pay the highest taxes with the fewest optimization options.*
 
 ### 4. Ngân hàng cần người vay
 
-Lãi suất từ người vay = lợi nhuận ngân hàng.
-
-*Interest from borrowers = bank profits.*
+Lãi suất từ người vay = lợi nhuận ngân hàng. *Interest from borrowers = bank profits.*
 
 > Xem thêm: [[Khế Ước Bí Mật Rockefeller]] — Blueprint kiểm soát giáo dục và y tế
 >
@@ -238,16 +198,12 @@ flowchart LR
     R[Nhận ra mình không biết gì]
     W[Khiêm tốn + Tiếp tục học]
 
-    I --> C
+I --> C
     C -->|"Bắt đầu học thật"| L
     L --> R
     R --> W
-```
-
-**Người không biết:** Tự tin, phán xét người khác
-**Người đang học:** Nhận ra mình biết ít, khiêm tốn
-
-*The ignorant: Confident, judgmental*
+``` **Người không biết:** Tự tin, phán xét người khác
+**Người đang học:** Nhận ra mình biết ít, khiêm tốn *The ignorant: Confident, judgmental*
 *The learning: Realizes they know little, humble*
 
 > "Hiểu biết của chúng ta cũng từ may mắn một phần mà có. Không chê bai, chỉ dạy được thì chỉ dạy, không thì tùy ý."
@@ -258,15 +214,11 @@ flowchart LR
 
 ## Đi Sâu Hơn: Tiền Là Gì? / Going Deeper: What Is Money?
 
-Những cuốn sách mainstream (Rich Dad Poor Dad, Think and Grow Rich...) dạy bạn **chơi game tốt hơn**. Nhưng chúng không hỏi: **Ai tạo ra game? Và game có công bằng không?**
-
-*Mainstream books teach you to play the game better. But they don't ask: Who created the game? And is it fair?*
+Những cuốn sách mainstream (Rich Dad Poor Dad, Think and Grow Rich...) dạy bạn **chơi game tốt hơn**. Nhưng chúng không hỏi: **Ai tạo ra game? Và game có công bằng không?** *Mainstream books teach you to play the game better. But they don't ask: Who created the game? And is it fair?*
 
 ### Tiền Fiat — Công Cụ Kiểm Soát / Fiat Money as Control
 
-[[Tiền Pháp Định]] (fiat) không được bảo chứng bởi gì cả — chỉ bởi "lòng tin" và súng của chính phủ.
-
-*Fiat money isn't backed by anything — only "trust" and government guns.*
+[[Tiền Pháp Định]] (fiat) không được bảo chứng bởi gì cả — chỉ bởi "lòng tin" và súng của chính phủ. *Fiat money isn't backed by anything — only "trust" and government guns.*
 
 ```mermaid
 flowchart LR
@@ -276,12 +228,8 @@ flowchart LR
     Y[Tiền bạn giảm giá trị]
     W[Bạn làm việc nhiều hơn]
 
-    CB --> M --> I --> Y --> W --> CB
-```
-
-**"Tiết kiệm tiền" trong hệ thống fiat = MẤT TIỀN.**
-
-*"Saving money" in the fiat system = LOSING MONEY.*
+CB --> M --> I --> Y --> W --> CB
+``` **"Tiết kiệm tiền" trong hệ thống fiat = MẤT TIỀN.** *"Saving money" in the fiat system = LOSING MONEY.*
 
 - Lạm phát thực tế: 7-15%/năm (không phải 2-3% chính phủ nói)
 - Tiền bạn tiết kiệm hôm nay, mất 50% giá trị sau 5-7 năm
@@ -309,9 +257,7 @@ flowchart LR
 
 ### Bitcoin — Lối Thoát? / Bitcoin as Exit?
 
-[[Bitcoin]] là tiền **không thể in thêm** — chỉ có 21 triệu BTC, mãi mãi.
-
-*Bitcoin is money that **cannot be printed** — only 21 million BTC, forever.*
+[[Bitcoin]] là tiền **không thể in thêm** — chỉ có 21 triệu BTC, mãi mãi. *Bitcoin is money that **cannot be printed** — only 21 million BTC, forever.*
 
 | Fiat | Bitcoin |
 |------|---------|
@@ -329,9 +275,7 @@ Xem: [[Bitcoin]] và [[Bitcoin Sẽ Chết Nếu Không Có Privacy]]
 
 ## Trust Fund, Family Office — Không Chỉ Là "Giàu"
 
-Đây không chỉ là công cụ của người giàu. Đây là cách [[Elite]] **bảo vệ tài sản qua nhiều thế hệ** và tránh thuế hợp pháp.
-
-*These aren't just "rich people tools." They're how the [[Elite]] protect wealth across generations and legally avoid taxes.*
+Đây không chỉ là công cụ của người giàu. Đây là cách [[Elite]] **bảo vệ tài sản qua nhiều thế hệ** và tránh thuế hợp pháp. *These aren't just "rich people tools." They're how the [[Elite]] protect wealth across generations and legally avoid taxes.*
 
 ### Tại Sao Gia Đình Thường Mất Tài Sản?
 
@@ -384,9 +328,7 @@ Không có cấu trúc → tài sản bị:
 **Ma Trận:**
 - [[Báo Cáo 2030]] — Agenda của Elite
 - [[Khế Ước Bí Mật Rockefeller]] — Blueprint kiểm soát
-- [[Elite]] — Ai đang điều hành?
-
-**Chiến thuật:**
+- [[Elite]] — Ai đang điều hành? **Chiến thuật:**
 - *Tax-Free Wealth* — Tom Wheelwright
 - *The Sovereign Individual* — Davidson & Rees-Mogg
 
@@ -394,17 +336,7 @@ Không có cấu trúc → tài sản bị:
 
 ## Kết Luận / Conclusion
 
-Bạn không "nghèo" vì thiếu tiền. Bạn "nghèo" vì thiếu kiến thức mà hệ thống cố tình không dạy.
-
-*You're not "poor" because you lack money. You're "poor" because you lack knowledge the system intentionally doesn't teach.*
-
-**Tin tốt:** Kiến thức này có sẵn. Bạn chỉ cần tự học.
-
-*Good news: This knowledge is available. You just have to teach yourself.*
-
-**Tin xấu:** Phải tự học. Không ai dọn sẵn cho bạn.
-
-*Bad news: You have to teach yourself. No one will hand it to you.*
+Bạn không "nghèo" vì thiếu tiền. Bạn "nghèo" vì thiếu kiến thức mà hệ thống cố tình không dạy. *You're not "poor" because you lack money. You're "poor" because you lack knowledge the system intentionally doesn't teach.* **Tin tốt:** Kiến thức này có sẵn. Bạn chỉ cần tự học. *Good news: This knowledge is available. You just have to teach yourself.* **Tin xấu:** Phải tự học. Không ai dọn sẵn cho bạn. *Bad news: You have to teach yourself. No one will hand it to you.*
 
 > Bước đầu tiên của hiểu biết thật sự là nhận ra mình "không biết gì".
 >

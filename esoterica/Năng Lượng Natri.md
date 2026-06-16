@@ -44,9 +44,7 @@ Bài này nối [[Y Tế Tự Nhiên & Năng Lượng Mới]], [[Pin Natri-ion]]
 
 Phản ứng nổi tiếng:
 
-```text
-2Na + 2H2O -> 2NaOH + H2 + heat
-```
+> 2Na + 2H2O -> 2NaOH + H2 + heat
 
 Phản ứng này tỏa nhiệt mạnh và tạo hydrogen. Nhưng sodium kim loại không nằm tự do trong biển; nó nằm trong muối và hợp chất. Để tách Na khỏi NaCl cần năng lượng. Vì vậy sodium giống một **energy carrier/storage medium** hơn là nguồn năng lượng miễn phí.
 

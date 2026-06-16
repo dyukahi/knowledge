@@ -1,5 +1,6 @@
 ---
 title: "Soulmate vs Lover — Anatomy Của Kết Nối"
+aliases: ["Soulmate vs Lover — Anatomy Của Kết Nối", "Soulmate vs Lover - Anatomy Của Kết Nối"]
 description: "Soulmate vs Lover — Anatomy Của Kết Nối: 'Lover là người bạn muốn. Soulmate là người bạn nhận ra.'"
 date: 2026-04-30
 tags: [esoterica, relationships, jung, soul]

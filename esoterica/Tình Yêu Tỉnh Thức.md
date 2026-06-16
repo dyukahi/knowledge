@@ -1,5 +1,6 @@
 ---
 title: Tình Yêu Tỉnh Thức
+aliases: ["Tình Yêu Tỉnh Thức"]
 description: "Tình Yêu Tỉnh Thức không phải cảm xúc lãng mạn được làm đẹp bằng ngôn ngữ tâm linh. Nó là năng lực yêu mà không chiếm hữu, thấy rõ mà không lạnh lùng"
 date: 2026-04-08
 tags: [esoterica]

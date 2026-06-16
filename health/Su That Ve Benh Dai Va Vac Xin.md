@@ -1,5 +1,6 @@
 ---
 title: Sự Thật Về Bệnh Dại Và Vắc Xin (Góc Nhìn Terrain Theory)
+aliases: ["Sự Thật Về Bệnh Dại Và Vắc Xin (Góc Nhìn Terrain Theory)", "Su That Ve Benh Dai Va Vac Xin"]
 description: "title: Sự Thật Về Bệnh Dại Và Vắc Xin (Góc Nhìn Terrain Theory) — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
 date: 2026-04-17
 updated: 2026-04-19

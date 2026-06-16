@@ -71,11 +71,9 @@ Spain Euro 2024 là case của **new generation crown**. Yamal không chỉ là 
 
 Hai case này dạy một rule: media hint tốt không nằm ở dự đoán kết quả, mà ở việc dựng sẵn myth-template cho kết quả.
 
-```text
-Argentina 2022 = one king completes his life
-Spain Euro 2024 = one generation is crowned
-World Cup 26 ? = one field remembers itself
-```
+> Argentina 2022 = one king completes his life
+> Spain Euro 2024 = one generation is crowned
+> World Cup 26 ? = one field remembers itself
 
 Đến đây Brazil mới đáng xét. Không phải vì Brazil xuất hiện một lần. Mà vì Brazil fit loại myth thứ ba: field myth.
 
@@ -180,10 +178,8 @@ World Cup 26 đầy motif “back”: back to summer sau Qatar mùa đông, back
 
 Nếu Brazil thắng, nó không chỉ là Brazil return. Nó tạo một back-to-back South America arc:
 
-```text
-2022 Argentina = một vị vua Nam Mỹ hoàn tất đời mình
-2026 Brazil = linh hồn tập thể Nam Mỹ mở chu kỳ mới
-```
+> 2022 Argentina = một vị vua Nam Mỹ hoàn tất đời mình
+> 2026 Brazil = linh hồn tập thể Nam Mỹ mở chu kỳ mới
 
 Điều này đẹp hơn Argentina repeat. Nó không phải một cá nhân giữ crown hai lần, mà là một continent giữ field hai kỳ liên tiếp. 2022 đóng hero myth; 2026 có thể mở field myth.
 
@@ -197,12 +193,10 @@ Một lớp symbolic texture đáng ghi nhận: Brazil vô địch World Cup 200
 
 Trong bài này, số 8 không được dùng như bằng chứng dự đoán. Nó chỉ là texture của vòng lặp: 8 xoay ngang thành ký hiệu vô cực, gợi ý loop, return, cycle và một nhịp quay lại sau khi trường cũ đã đi hết một vòng dài. Điểm thú vị là **3 × 8** lại cộng hưởng với chính architecture của World Cup 26: ba host nations, TRIONDA / three waves, ba linh vật, nhiều host-city fields và một tournament được dựng như field phân tán thay vì single-hero stage.
 
-```text
-Brazil 2002 = last completed Seleção world-crown
-2002 → 2026 = 24 years
-24 = 3 × 8
-3 waves × loop/cycle texture = Brazil return resonance
-```
+> Brazil 2002 = last completed Seleção world-crown
+> 2002 → 2026 = 24 years
+> 24 = 3 × 8
+> 3 waves × loop/cycle texture = Brazil return resonance
 
 Kỷ luật claim ở đây rất quan trọng: **2002 → 2026 không chứng minh Brazil sẽ vô địch**. Nó chỉ làm Brazil thesis có thêm một resonance layer: một chu kỳ 24 năm, ba vòng 8, và football soul quay lại sau khi World Cup đã đi qua hero closure của Messi, new-generation crown của Spain, rồi bước vào field myth của 2026.
 

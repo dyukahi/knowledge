@@ -1,5 +1,6 @@
 ---
 title: "Schadenfreude - Dopamine Phản Diện"
+aliases: ["Schadenfreude - Dopamine Phản Diện"]
 description: "Schadenfreude - Dopamine Phản Diện: 'Không có gì sướng bằng thấy kẻ thù ngã ngựa.'"
 date: 2026-04-29
 tags: [mental-model, psychology, dark-side, dopamine]
@@ -33,7 +34,7 @@ flowchart TD
     H --> I[Tìm kiếm drama / Seek drama]
     I --> D
 
-    subgraph "VÒNG LẶP NGHIỆN / ADDICTION LOOP"
+subgraph "VÒNG LẶP NGHIỆN / ADDICTION LOOP"
         F --> G --> H --> I
     end
 ```
@@ -44,9 +45,7 @@ flowchart TD
 
 ### Ventral Striatum & Dopamine
 
-Nghiên cứu fMRI cho thấy khi chứng kiến "kẻ xấu" bị trừng phạt:
-
-*fMRI research shows that when witnessing a "bad person" being punished:*
+Nghiên cứu fMRI cho thấy khi chứng kiến "kẻ xấu" bị trừng phạt: *fMRI research shows that when witnessing a "bad person" being punished:*
 
 - **Ventral striatum** (trung tâm reward / reward center) sáng lên / lights up
 - **Dopamine release** tương tự khi nhận tiền thưởng / similar to receiving money
@@ -72,7 +71,7 @@ graph LR
         C[Justice] --> D
     end
 
-    D --> E[Dopamine]
+D --> E[Dopamine]
 ```
 
 ### 1. Aggression-based
@@ -97,9 +96,7 @@ graph LR
 > *"The scenarios that elicit schadenfreude tend to also promote dehumanization."*
 > — Emory University Study
 
-Khi não không còn coi đối tượng là "người":
-
-*When the brain no longer sees the target as "human":*
+Khi não không còn coi đối tượng là "người": *When the brain no longer sees the target as "human":*
 
 - **Empathy circuits tắt / off** — không còn đồng cảm / no more empathy
 - **Moral restraint giảm / decreased** — ít cảm thấy tội lỗi / less guilt
@@ -150,9 +147,7 @@ flowchart LR
 | Time on site | Addiction loop |
 | Ad revenue | Bạn là sản phẩm / You are the product |
 
-Kết nối với [[Privacy Is The New Wealth]]: Platform biến bạn thành sản phẩm, và schadenfreude là một trong những hooks mạnh nhất.
-
-*Connection to [[Privacy Is The New Wealth]]: Platforms turn you into a product, and schadenfreude is one of the strongest hooks.*
+Kết nối với [[Privacy Is The New Wealth]]: Platform biến bạn thành sản phẩm, và schadenfreude là một trong những hooks mạnh nhất. *Connection to [[Privacy Is The New Wealth]]: Platforms turn you into a product, and schadenfreude is one of the strongest hooks.*
 
 ---
 
@@ -171,7 +166,7 @@ graph TD
     D --> E[Tribal identity mạnh hơn / stronger]
     E --> A
 
-    F[Kẻ kiểm soát / Controllers] --> A
+F[Kẻ kiểm soát / Controllers] --> A
     F --> |Điều khiển narrative / Control narrative| G[Ai là villain? / Who's the villain?]
     G --> A
 ```
@@ -189,9 +184,7 @@ graph TD
 
 ## Dark Triad Connection
 
-Schadenfreude mạnh nhất ở người có:
-
-*Schadenfreude is strongest in people with:*
+Schadenfreude mạnh nhất ở người có: *Schadenfreude is strongest in people with:*
 
 | Trait | Biểu hiện / Manifestation |
 |-------|---------------------------|
@@ -210,14 +203,10 @@ Schadenfreude mạnh nhất ở người có:
 graph LR
     A[Người khác đau khổ / Others suffer]
 
-    A --> B[Empathy Response]
-    A --> C[Schadenfreude Response]
-
-    B --> D[Mirror neurons active]
+A --> B[Empathy Response]
+    A --> C[Schadenfreude Response] B --> D[Mirror neurons active]
     B --> E[Compassion]
-    B --> F[Helping behavior]
-
-    C --> G[Reward circuits active]
+    B --> F[Helping behavior] C --> G[Reward circuits active]
     C --> H[Dopamine]
     C --> I[Seeking more]
 ```
@@ -283,11 +272,7 @@ graph LR
 >
 > *"Dopamine from schadenfreude is a loan shark's credit on your virtue. Exorbitant interest: the depletion of empathy and clouding of mind."*
 
-Bạn đang bán cái **vốn** (khả năng đồng cảm, nhân tính) để mua cái **lãi ảo** (dopamine 5 phút).
-
-*You're selling your **capital** (empathy, humanity) to buy **fake interest** (5-minute dopamine).*
-
-Đây là deal cực kỳ lỗ. / This is an extremely bad deal.
+Bạn đang bán cái **vốn** (khả năng đồng cảm, nhân tính) để mua cái **lãi ảo** (dopamine 5 phút). *You're selling your **capital** (empathy, humanity) to buy **fake interest** (5-minute dopamine).* Đây là deal cực kỳ lỗ. / This is an extremely bad deal.
 
 ---
 

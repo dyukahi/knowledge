@@ -1,5 +1,6 @@
 ---
 title: Vũ Trụ Học Phật Giáo
+aliases: ["Vũ Trụ Học Phật Giáo"]
 description: "Vũ Trụ Học Phật Giáo không chỉ là bản đồ 'trời đất' theo nghĩa vật lý. Nó là một cấu trúc biểu tượng đạo đức tâm thức mô tả các cõi tồn tại, chu kỳ thành trụ hoại không"
 date: 2026-04-05
 tags: [esoterica]

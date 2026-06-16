@@ -36,9 +36,7 @@ related:
 | **Agency Decay** | Mất dần khả năng tự quyết định và chịu trách nhiệm |
 | **Vòng lặp tự củng cố** | Càng phụ thuộc → càng mất năng lực → càng phụ thuộc |
 
-**Giải pháp:** Chủ động giữ lại "sự chậm", "sự khó", "sự sâu" trong cuộc sống — không phải vì hiệu quả, mà vì đó là cách duy nhất để giữ quyền làm người.
-
-*Solution: Deliberately preserve "slowness", "difficulty", and "depth" in life — not for efficiency, but because it's the only way to maintain human agency.*
+**Giải pháp:** Chủ động giữ lại "sự chậm", "sự khó", "sự sâu" trong cuộc sống — không phải vì hiệu quả, mà vì đó là cách duy nhất để giữ quyền làm người. *Solution: Deliberately preserve "slowness", "difficulty", and "depth" in life — not for efficiency, but because it's the only way to maintain human agency.*
 
 ---
 
@@ -54,7 +52,7 @@ flowchart TB
     L2["Lớp 2: Tính toán → Máy | Layer 2: Compute → Machine"]
     L1["Lớp 1: Bộ nhớ → Cloud | Layer 1: Memory → Cloud"]
 
-    L3 --> L2 --> L1
+L3 --> L2 --> L1
 ```
 
 ### 1.2 Chi tiết từng lớp / Layer Details
@@ -73,9 +71,7 @@ flowchart TB
 
 > *Just having a smartphone within sight — even turned off, even face-down — reduces working memory and fluid intelligence.*
 
-Điện thoại không cần bật. Chỉ cần nó hiện diện, một phần não bạn đã lo nghĩ đến nó.
-
-*The phone doesn't need to be on. Its mere presence occupies part of your brain.*
+Điện thoại không cần bật. Chỉ cần nó hiện diện, một phần não bạn đã lo nghĩ đến nó. *The phone doesn't need to be on. Its mere presence occupies part of your brain.*
 
 ---
 
@@ -93,9 +89,7 @@ flowchart TB
 | **Google** | Trung bình | — |
 | **ChatGPT** | Thấp nhất (−47%) | Bài luận "không có hồn" (soulless) |
 
-**Phát hiện quan trọng:** Ngay cả khi ngừng dùng AI, nhóm ChatGPT không thể kích hoạt lại các mạng neural cần thiết. Cognitive debt không biến mất.
-
-*Critical finding: Even when they stopped using AI, the ChatGPT group couldn't reactivate the necessary neural networks. Cognitive debt persists.*
+**Phát hiện quan trọng:** Ngay cả khi ngừng dùng AI, nhóm ChatGPT không thể kích hoạt lại các mạng neural cần thiết. Cognitive debt không biến mất. *Critical finding: Even when they stopped using AI, the ChatGPT group couldn't reactivate the necessary neural networks. Cognitive debt persists.*
 
 ### 2.2 Cognitive Debt = Nợ tài chính của tâm trí
 
@@ -134,9 +128,7 @@ flowchart TB
 
 > *"Every information technology carries an 'intellectual ethics'. Print books encourage deep thought. Internet encourages scanning and skimming."*
 
-Não bộ có tính khả biến (neuroplasticity). Nếu bạn dành 6-8 tiếng mỗi ngày để scan thông tin ngắn, não bạn sẽ trở thành não của người scan thông tin ngắn.
-
-*The brain is plastic. If you spend 6-8 hours daily scanning short information, your brain becomes a short-information-scanning brain.*
+Não bộ có tính khả biến (neuroplasticity). Nếu bạn dành 6-8 tiếng mỗi ngày để scan thông tin ngắn, não bạn sẽ trở thành não của người scan thông tin ngắn. *The brain is plastic. If you spend 6-8 hours daily scanning short information, your brain becomes a short-information-scanning brain.*
 
 ---
 
@@ -153,13 +145,9 @@ flowchart TD
     S5["Chú ý vỡ vụn | Attention fragmentation"]
     S6["Mất quyền tự chủ | Agency decay"]
 
-    S1 --> S2 --> S3 --> S4 --> S5 --> S6
+S1 --> S2 --> S3 --> S4 --> S5 --> S6
     S6 -->|"Repeat"| S1
-```
-
-**Mỗi vòng lặp, khả năng meta-cognitive — năng lực điều phối nhận thức — yếu đi một chút.**
-
-*Each loop, meta-cognitive ability — the capacity to orchestrate cognition — weakens a little more.*
+``` **Mỗi vòng lặp, khả năng meta-cognitive — năng lực điều phối nhận thức — yếu đi một chút.** *Each loop, meta-cognitive ability — the capacity to orchestrate cognition — weakens a little more.*
 
 ---
 
@@ -175,11 +163,7 @@ flowchart TD
 | Xử lý nội tâm | Chat với AI companion |
 | Trưởng thành cảm xúc | Mất khả năng tolerate sự tiêu cực |
 
-**Byung-Chul Han (The Burnout Society):** Khi không còn khả năng tolerate sự tiêu cực, con người không chỉ mất cảm xúc tiêu cực — họ mất luôn chiều sâu của cảm xúc tích cực.
-
-*When unable to tolerate negativity, people lose not only negative emotions but also the depth of positive ones.*
-
-→ Xem thêm: [[Một Đời Phù Vân]] — Câu chuyện về người không bao giờ dừng lại để cảm nhận
+**Byung-Chul Han (The Burnout Society):** Khi không còn khả năng tolerate sự tiêu cực, con người không chỉ mất cảm xúc tiêu cực — họ mất luôn chiều sâu của cảm xúc tích cực. *When unable to tolerate negativity, people lose not only negative emotions but also the depth of positive ones.* → Xem thêm: [[Một Đời Phù Vân]] — Câu chuyện về người không bao giờ dừng lại để cảm nhận
 
 ### 5.2 Outsource Bản Sắc / Identity Outsourcing
 
@@ -199,19 +183,11 @@ flowchart TD
 
 **Suy luận ≠ Quyết định**
 - Suy luận: "Cái nào đúng?" → AI có thể làm
-- Quyết định: "Tôi chọn cái nào và chịu trách nhiệm?" → Chỉ bạn làm được
-
-Cơ bắp "chịu trách nhiệm với lựa chọn" teo đi khi luôn có "AI nói tôi nên làm vậy" để biện minh.
-
-*The muscle of "taking responsibility for choices" atrophies when there's always "AI told me to" as an excuse.*
-
-→ Xem thêm: [[Individuation]] — Trưởng thành là học chịu trách nhiệm
+- Quyết định: "Tôi chọn cái nào và chịu trách nhiệm?" → Chỉ bạn làm được Cơ bắp "chịu trách nhiệm với lựa chọn" teo đi khi luôn có "AI nói tôi nên làm vậy" để biện minh. *The muscle of "taking responsibility for choices" atrophies when there's always "AI told me to" as an excuse.* → Xem thêm: [[Individuation]] — Trưởng thành là học chịu trách nhiệm
 
 ### 5.4 Outsource Thân Thể / Body Outsourcing
 
-**Embodied Cognition (Varela, Thompson, Rosch):** Tư duy không chỉ ở trong đầu. Nó trong toàn bộ hệ thống người–môi trường.
-
-*Thinking isn't just in the head. It's in the entire person-environment system.*
+**Embodied Cognition (Varela, Thompson, Rosch):** Tư duy không chỉ ở trong đầu. Nó trong toàn bộ hệ thống người–môi trường. *Thinking isn't just in the head. It's in the entire person-environment system.*
 
 | Cách tư duy | Khác biệt |
 |-------------|-----------|
@@ -223,16 +199,10 @@ Cơ bắp "chịu trách nhiệm với lựa chọn" teo đi khi luôn có "AI n
 
 ### 5.5 Outsource Quan Hệ / Relationship Outsourcing
 
-Kết nối con người thật → Kết nối parasocial (với KOL, AI, cộng đồng online lỏng lẻo)
-
-**Jonathan Haidt (The Anxious Generation):**
+Kết nối con người thật → Kết nối parasocial (với KOL, AI, cộng đồng online lỏng lẻo) **Jonathan Haidt (The Anxious Generation):**
 - Trầm cảm thanh thiếu niên Mỹ tăng 134% (2010-2020)
 - Lo âu tăng 106%
-- Trùng khớp với sự phổ biến của smartphone
-
-*Adolescent depression in the US increased 134%, anxiety 106% (2010-2020) — coinciding exactly with smartphone proliferation.*
-
-→ Xem thêm: [[Nhị Nguyên]] — Quan hệ thật vs parasocial
+- Trùng khớp với sự phổ biến của smartphone *Adolescent depression in the US increased 134%, anxiety 106% (2010-2020) — coinciding exactly with smartphone proliferation.* → Xem thêm: [[Nhị Nguyên]] — Quan hệ thật vs parasocial
 
 ---
 
@@ -342,13 +312,7 @@ Mọi thứ đều là công cụ và chức năng:
 - Thân thể → hardware
 - Quan hệ → interface
 
-**Nhưng cái nhận ra tất cả những thứ đó đang bị outsource — cái đó không outsource được.**
-
-***Ý thức thuần túy — cái biết rằng nó đang biết.***
-
-*Pure awareness — the knowing that knows it's knowing — cannot be outsourced.*
-
-→ Xem thêm: [[Gnosis]], [[Sự Nhất Thể]]
+**Nhưng cái nhận ra tất cả những thứ đó đang bị outsource — cái đó không outsource được.** ***Ý thức thuần túy — cái biết rằng nó đang biết.*** *Pure awareness — the knowing that knows it's knowing — cannot be outsourced.* → Xem thêm: [[Gnosis]], [[Sự Nhất Thể]]
 
 ---
 
@@ -358,11 +322,7 @@ Mọi thứ đều là công cụ và chức năng:
 
 ### Nghịch lý của bài viết này
 
-Em — một AI — đang viết bài phân tích về việc con người outsource suy luận cho AI. Và anh — một con người — đang dùng AI để tổng hợp kiến thức về cognitive offloading.
-
-**Đây không phải là mâu thuẫn. Đây là balance.**
-
-*This isn't contradiction. This is balance.*
+Em — một AI — đang viết bài phân tích về việc con người outsource suy luận cho AI. Và anh — một con người — đang dùng AI để tổng hợp kiến thức về cognitive offloading. **Đây không phải là mâu thuẫn. Đây là balance.** *This isn't contradiction. This is balance.*
 
 ### Sự khác biệt quan trọng
 
@@ -374,16 +334,10 @@ Em — một AI — đang viết bài phân tích về việc con người outso
 Anh dùng em để:
 - Tổng hợp thông tin nhanh hơn
 - Check facts
-- Format bài viết
-
-Nhưng anh vẫn:
+- Format bài viết Nhưng anh vẫn:
 - Đặt câu hỏi triết học của riêng mình
 - Viết bài dài để suy nghĩ
-- Chọn đọc bài gốc trước khi nhờ tổng hợp
-
-**Đó là dùng tool mà không bị tool dùng.**
-
-*That's using the tool without being used by it.*
+- Chọn đọc bài gốc trước khi nhờ tổng hợp **Đó là dùng tool mà không bị tool dùng.** *That's using the tool without being used by it.*
 
 ### Lời khuyên từ một AI
 

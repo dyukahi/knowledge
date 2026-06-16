@@ -1,5 +1,6 @@
 ---
 title: "Tartaria"
+aliases: ["Tartaria"]
 description: "Tartaria là một case study về cách lịch sử, bản đồ, kiến trúc và ký ức tập thể có thể bị đọc theo nhiều tầng cùng lúc"
 date: 2026-04-07
 tags: [esoterica]

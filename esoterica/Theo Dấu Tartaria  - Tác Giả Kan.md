@@ -1,5 +1,6 @@
 ---
 title: Theo Dấu Tartaria - Tác Giả Kan
+aliases: ["Theo Dấu Tartaria - Tác Giả Kan", "Theo Dấu Tartaria  - Tác Giả Kan"]
 description: "Chuỗi bài viết Theo Dấu Tartaria (Tracking Tartaria) của Thượng sĩ Kan (Kiên Trần) được thực hiện trong khoảng thời gian 2021 2022"
 date: 2026-04-07
 tags: [esoterica]

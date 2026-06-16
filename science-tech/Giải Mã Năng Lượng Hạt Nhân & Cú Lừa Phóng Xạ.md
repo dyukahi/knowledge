@@ -1,5 +1,6 @@
 ---
 title: Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ
+aliases: ["Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ"]
 description: "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ: 'Sự sợ hãi phóng xạ có thể là công cụ kiểm soát lớn nhất thế kỷ 20.'"
 date: 2026-05-01
 tags: [science-tech, conspiracy, revisionist]

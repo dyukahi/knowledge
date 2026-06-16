@@ -1,5 +1,6 @@
 ---
 title: "Mudflood (Đại Hồng Thủy Bùn)"
+aliases: ["Mudflood (Đại Hồng Thủy Bùn)", "Mudflood"]
 description: "Mudflood như giả thuyết lịch sử bị chôn vùi, đọc qua kiến trúc, ký ức tập thể và các mô hình kiểm soát dòng thời gian."
 date: 2026-04-07
 tags: [politics-conspiracy]

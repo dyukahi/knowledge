@@ -52,9 +52,7 @@ Một người bị dục lực lái thường nhầm kích thích với sống 
 
 Trong [[Ma Trận]], ham muốn là điểm vào rất rẻ vì nó bypass lý trí. Nội dung khiêu dâm, thuật toán short video, thirst trap, scandal tình dục và quảng cáo đều dùng cùng một đòn: kích thích nhanh, giải phóng dopamine, để lại trống rỗng, rồi mời quay lại.
 
-```text
-Kích thích -> Dopamine spike -> Xả lực -> Trống rỗng -> Tìm kích thích mạnh hơn
-```
+> Kích thích -> Dopamine spike -> Xả lực -> Trống rỗng -> Tìm kích thích mạnh hơn
 
 Vòng này không chỉ lấy thời gian. Nó lấy **khả năng hướng lực**. Người mất khả năng hướng dục lực thường cũng mất khả năng hướng sự nghiệp, học tập, tu tập và quan hệ.
 
@@ -64,13 +62,11 @@ Vòng này không chỉ lấy thời gian. Nó lấy **khả năng hướng lự
 
 Chuyển hóa không có nghĩa là ghét tình dục. Nó nghĩa là không để năng lượng rơi xuống phản xạ thấp nhất mỗi khi nó xuất hiện. Các truyền thống gọi bằng nhiều tên: giữ tinh, brahmacharya, internal alchemy, sublimation, creative channeling.
 
-```text
-Ham muốn thô
-  -> thở và giữ hiện diện
-  -> không xả vô thức
-  -> đưa lực vào thân, tim, ý chí
-  -> hành động sáng tạo hoặc phụng sự
-```
+> Ham muốn thô
+>   -> thở và giữ hiện diện
+>   -> không xả vô thức
+>   -> đưa lực vào thân, tim, ý chí
+>   -> hành động sáng tạo hoặc phụng sự
 
 Lớp biểu tượng của [[Kundalini]] mô tả cùng một đường: năng lượng từ tầng sinh tồn đi qua các trung tâm của [[Chakra]], được tinh lọc thành nhận thức cao hơn. Không nên đọc máy móc như “cứ giữ là giác ngộ”; nếu tâm đầy ám ảnh, giữ chỉ làm áp suất tăng.
 

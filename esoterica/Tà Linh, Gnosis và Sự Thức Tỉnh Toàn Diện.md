@@ -1,5 +1,6 @@
 ---
 title: Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện
+aliases: ["Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện"]
 description: "title: Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
 date: 2026-04-08
 tags: [esoterica]

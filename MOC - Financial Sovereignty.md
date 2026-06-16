@@ -1,6 +1,7 @@
 ---
 
 title: "MOC - Financial Sovereignty"
+aliases: ["MOC - Financial Sovereignty"]
 description: "Map of Bitcoin, privacy, CBDC, tokenized assets, financial sovereignty, and macro/crypto frameworks for independent wealth."
 date: 2026-06-04
 tags: [moc, crypto-finance, sovereignty]

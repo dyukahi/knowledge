@@ -25,11 +25,7 @@ related:
 
 ## Vault Position / Vị Trí Trong Vault
 
-**Khoa Học Xét Lại** là immune system của redpill.wiki.
-
-Không có nó, vault dễ biến thành niềm tin mù. Nhưng nếu dùng sai, nó cũng có thể thành phản xạ phủ định mọi thứ mainstream chỉ vì nó mainstream.
-
-Tinh thần đúng không phải “khoa học chính thống luôn sai”. Tinh thần đúng là:
+**Khoa Học Xét Lại** là immune system của redpill.wiki. Không có nó, vault dễ biến thành niềm tin mù. Nhưng nếu dùng sai, nó cũng có thể thành phản xạ phủ định mọi thứ mainstream chỉ vì nó mainstream. Tinh thần đúng không phải “khoa học chính thống luôn sai”. Tinh thần đúng là:
 
 > Đừng nhầm institution với truth. Đừng nhầm consensus với reality. Đừng nhầm peer review với direct seeing.
 
@@ -166,17 +162,11 @@ Câu hỏi không chỉ là “công nghệ này có thật không?”, mà là:
 
 ### History & Anthropology
 
-Nếu lịch sử loài người không tuyến tính, nếu có reset, civilization lost, giants, ancient tech, thì authority của modern progress myth bị lung lay.
-
-→ Xem: [[Tartaria]], [[Atlantis]], [[Lịch Sử Song Song — Khi Thế Giới Đồng Bộ]], [[MOC - Ancient Civilizations & Hidden History]].
+Nếu lịch sử loài người không tuyến tính, nếu có reset, civilization lost, giants, ancient tech, thì authority của modern progress myth bị lung lay. → Xem: [[Tartaria]], [[Atlantis]], [[Lịch Sử Song Song — Khi Thế Giới Đồng Bộ]], [[MOC - Ancient Civilizations & Hidden History]].
 
 ### AI & Knowledge Interface
 
-AI không chỉ là tool. Nó đang trở thành interface mới giữa con người và knowledge.
-
-Nếu search engine từng gatekeep information, AI sẽ gatekeep synthesis.
-
-→ Xem: [[AI]], [[Bộ Não Rỗng và AI Brain Rot]], [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]].
+AI không chỉ là tool. Nó đang trở thành interface mới giữa con người và knowledge. Nếu search engine từng gatekeep information, AI sẽ gatekeep synthesis. → Xem: [[AI]], [[Bộ Não Rỗng và AI Brain Rot]], [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]].
 
 ---
 
@@ -244,17 +234,13 @@ flowchart TD
     G --> H[Revise If New Data Appears]
 ```
 
-Không có bước “tin ngay”. Cũng không có bước “phủ định ngay”.
-
-Có nhìn, hỏi, rank confidence, rồi update.
+Không có bước “tin ngay”. Cũng không có bước “phủ định ngay”. Có nhìn, hỏi, rank confidence, rồi update.
 
 ---
 
 ## 8. Vì Sao Nó Quan Trọng? / Why It Matters
 
-Nếu science institution bị capture, thì worldview bị capture.
-
-Nếu worldview bị capture, con người sẽ tự giới hạn mình theo model được cấp phép.
+Nếu science institution bị capture, thì worldview bị capture. Nếu worldview bị capture, con người sẽ tự giới hạn mình theo model được cấp phép.
 
 - Nếu cosmology nói bạn là hạt bụi vô nghĩa, bạn sống khác.
 - Nếu medicine nói cơ thể bạn ngu và cần quản lý suốt đời, bạn sống khác.
@@ -267,13 +253,7 @@ Khoa Học Xét Lại không chỉ là debate về facts. Nó là cuộc chiến
 
 ## 9. Synthesis / Tổng Hợp
 
-Khoa Học Xét Lại là một thái độ trí tuệ: critical but not cynical, open but not gullible, skeptical but not spiritually dead.
-
-Nó không thờ mainstream. Nó cũng không thờ alternative.
-
-Nó dùng science như method, nhưng không quỳ trước science như institution.
-
-Nó dám xét lại Newton, Darwin, Einstein, NASA, pharma, virology, cosmology, AI, nhưng cũng dám xét lại chính những model alternative mà nó yêu thích.
+Khoa Học Xét Lại là một thái độ trí tuệ: critical but not cynical, open but not gullible, skeptical but not spiritually dead. Nó không thờ mainstream. Nó cũng không thờ alternative. Nó dùng science như method, nhưng không quỳ trước science như institution. Nó dám xét lại Newton, Darwin, Einstein, NASA, pharma, virology, cosmology, AI, nhưng cũng dám xét lại chính những model alternative mà nó yêu thích.
 
 > Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến thành priesthood.
 
