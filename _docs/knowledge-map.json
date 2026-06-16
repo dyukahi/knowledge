@@ -1,8 +1,8 @@
 {
   "stats": {
-    "notes": 216,
+    "notes": 217,
     "domains": {
-      "_docs": 10,
+      "_docs": 11,
       "root": 14,
       "crypto-finance": 13,
       "esoterica": 74,
@@ -14,7 +14,7 @@
     "tags": 203,
     "wikilinkEdges": 2196,
     "brokenLinks": 0,
-    "orphans": 11
+    "orphans": 12
   },
   "domains": {
     "_docs": [
@@ -289,6 +289,32 @@
         "backlinks": [],
         "words": 12479,
         "summary": "Generated: 2026-06-06 GMT+7 Scope: whole-vault strategy pass based on `_docs/knowledge-map.json`, existing SEO/thin-page docs, root index/MOCs, and targeted article metadata/body scans."
+      },
+      {
+        "path": "_docs/VISUAL-PUBLICATION-AUDIT.md",
+        "title": "Visual Publication Audit — redpill.wiki 9.5 Pass",
+        "domain": "_docs",
+        "tags": [],
+        "aliases": [],
+        "headings": [
+          "Visual Publication Audit — redpill.wiki 9.5 Pass",
+          "Local build",
+          "Pages visually checked",
+          "Observations",
+          "Home / first screen",
+          "Publication Packs",
+          "Orphan Train 2.0",
+          "Ma Trận",
+          "QC state after visual pass",
+          "Remaining non-blockers",
+          "Verdict"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [],
+        "words": 432,
+        "summary": "Date: 2026-06-16 GMT+7 Scope: final visual/public polish after the 9.5 publication-pack work."
       },
       {
         "path": "_docs/WORLD-CUP-2026-PATTERN-AUDIT.md",
@@ -8118,8 +8144,8 @@
           "health"
         ],
         "aliases": [
-          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
-          "Tần số cộng hưởng giữa Muối và Tuyến tùng"
+          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
         ],
         "headings": [
           "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -18831,6 +18857,32 @@
       "summary": "Generated: 2026-06-06 GMT+7 Scope: whole-vault strategy pass based on `_docs/knowledge-map.json`, existing SEO/thin-page docs, root index/MOCs, and targeted article metadata/body scans."
     },
     {
+      "path": "_docs/VISUAL-PUBLICATION-AUDIT.md",
+      "title": "Visual Publication Audit — redpill.wiki 9.5 Pass",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Visual Publication Audit — redpill.wiki 9.5 Pass",
+        "Local build",
+        "Pages visually checked",
+        "Observations",
+        "Home / first screen",
+        "Publication Packs",
+        "Orphan Train 2.0",
+        "Ma Trận",
+        "QC state after visual pass",
+        "Remaining non-blockers",
+        "Verdict"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 432,
+      "summary": "Date: 2026-06-16 GMT+7 Scope: final visual/public polish after the 9.5 publication-pack work."
+    },
+    {
       "path": "_docs/WORLD-CUP-2026-PATTERN-AUDIT.md",
       "title": "World Cup 2026 Pattern Audit — Pre-Tournament Evidence Snapshot",
       "domain": "_docs",
@@ -21283,6 +21335,32 @@
       "backlinks": [],
       "words": 12479,
       "summary": "Generated: 2026-06-06 GMT+7 Scope: whole-vault strategy pass based on `_docs/knowledge-map.json`, existing SEO/thin-page docs, root index/MOCs, and targeted article metadata/body scans."
+    },
+    "_docs/VISUAL-PUBLICATION-AUDIT.md": {
+      "path": "_docs/VISUAL-PUBLICATION-AUDIT.md",
+      "title": "Visual Publication Audit — redpill.wiki 9.5 Pass",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Visual Publication Audit — redpill.wiki 9.5 Pass",
+        "Local build",
+        "Pages visually checked",
+        "Observations",
+        "Home / first screen",
+        "Publication Packs",
+        "Orphan Train 2.0",
+        "Ma Trận",
+        "QC state after visual pass",
+        "Remaining non-blockers",
+        "Verdict"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 432,
+      "summary": "Date: 2026-06-16 GMT+7 Scope: final visual/public polish after the 9.5 publication-pack work."
     },
     "_docs/WORLD-CUP-2026-PATTERN-AUDIT.md": {
       "path": "_docs/WORLD-CUP-2026-PATTERN-AUDIT.md",
@@ -28928,8 +29006,8 @@
         "health"
       ],
       "aliases": [
-        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
-        "Tần số cộng hưởng giữa Muối và Tuyến tùng"
+        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
       ],
       "headings": [
         "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",

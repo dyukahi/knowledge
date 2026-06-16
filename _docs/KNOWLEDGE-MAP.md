@@ -4,12 +4,12 @@
 
 ## Snapshot
 
-- **Notes scanned:** 216
+- **Notes scanned:** 217
 - **Top-level domains:** 8
 - **Tags detected:** 203
 - **Resolved internal edges:** 2196
 - **Broken/unresolved links:** 0
-- **Orphan notes:** 11
+- **Orphan notes:** 12
 
 ## Zettelkasten Reading
 
@@ -135,7 +135,7 @@ Recommended note types:
 - [[crypto-finance/Secular Market|Secular Market (Thị Trường Chu Kỳ Dài)]] — degree `12`, backlinks `4`, outlinks `8` — #crypto-finance
 - … 1 more notes in this domain. See JSON for full list.
 
-### Docs / Meta `_docs` — 10 notes
+### Docs / Meta `_docs` — 11 notes
 
 - [[_docs/VAULT-95-PUBLICATION-RUBRIC|redpill.wiki 9.5 Publication Rubric]] — degree `29`, backlinks `0`, outlinks `29`
 - [[_docs/CONTENT-SEO-AUDIT|Content SEO Audit - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
@@ -146,6 +146,7 @@ Recommended note types:
 - [[_docs/VAULT-QC-AUDIT|Vault QC Audit]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/VAULT-QC-CHECKLIST|Vault QC Checklist]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/VAULT-STRATEGY-AUDIT|Vault Strategy Audit — redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/VISUAL-PUBLICATION-AUDIT|Visual Publication Audit — redpill.wiki 9.5 Pass]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/WORLD-CUP-2026-PATTERN-AUDIT|World Cup 2026 Pattern Audit — Pre-Tournament Evidence Snapshot]] — degree `0`, backlinks `0`, outlinks `0` — #FIFAWorldCup, #WeAre26
 
 ## Current Hub Notes
@@ -340,6 +341,7 @@ Orphans are not necessarily bad. In Zettelkasten terms, they are unfinished inte
 - [[_docs/VAULT-QC-AUDIT|Vault QC Audit]] — `_docs`
 - [[_docs/VAULT-QC-CHECKLIST|Vault QC Checklist]] — `_docs`
 - [[_docs/VAULT-STRATEGY-AUDIT|Vault Strategy Audit — redpill.wiki]] — `_docs`
+- [[_docs/VISUAL-PUBLICATION-AUDIT|Visual Publication Audit — redpill.wiki 9.5 Pass]] — `_docs`
 - [[_docs/WORLD-CUP-2026-PATTERN-AUDIT|World Cup 2026 Pattern Audit — Pre-Tournament Evidence Snapshot]] — `_docs`
 - [[claude|Schema (LLM Instructions)]] — `root`
 - [[README|🧠 Knowledge Base]] — `root`
