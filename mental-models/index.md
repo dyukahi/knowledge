@@ -26,7 +26,8 @@ related:
 2. [[Tâm Lý Học Tiến Hóa Về Giới Tính]]
 3. [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]]
 4. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
-5. [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
+5. [[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]
+6. [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
 
 > Rule: critique systems and incentives, not identities.
 
@@ -168,5 +169,6 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 
 ## Notes
 - [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
+- [[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]
 - [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
 - [[Luân Hồi Trên Home Screen]]
