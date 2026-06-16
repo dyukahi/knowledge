@@ -1,14 +1,14 @@
 {
   "summary": {
-    "public_notes": 205,
-    "avg_words": 1524,
+    "public_notes": 206,
+    "avg_words": 1534,
     "missing_description": 0,
     "missing_aliases": 0,
     "thin_lt800": 28,
     "duplicate_titles": 0,
     "mobile_hostile_code": 0,
-    "horizontal_chain": 24,
-    "textblock_candidates": 32,
+    "horizontal_chain": 25,
+    "textblock_candidates": 33,
     "broken_links": 0,
     "orphans_public": 2
   },
@@ -154,6 +154,7 @@
       "mental-models/Gen Z - Phân Tích Phản Biện.md",
       "mental-models/Schadenfreude - Dopamine Phản Diện.md",
       "mental-models/index.md",
+      "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
       "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
       "mental-models/Sợ hãi - Tham Lam – Cân bằng.md"
     ],
@@ -337,6 +338,12 @@
         "short": 36,
         "paragraphs": 97,
         "ratio": 0.371
+      },
+      {
+        "path": "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
+        "short": 38,
+        "paragraphs": 105,
+        "ratio": 0.362
       },
       {
         "path": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",

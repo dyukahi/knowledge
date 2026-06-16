@@ -120,6 +120,7 @@ Terrain/body sovereignty without reckless contrarianism.
 Dating/gender/family collapse as systems problem, not scapegoat war.
 
 - [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]
+- [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]]
 - [[Tâm Lý Học Tiến Hóa Về Giới Tính]]
 - [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]]
 - [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
@@ -215,6 +216,7 @@ Các bài dưới đây là những flagship notes dễ cho người mới thấ
 - **[[S.E.X Và Tâm Lý Học Jung]]** - sacred energy exchange, Jungian lens, bonding chemistry
 - **[[Sự Thật Đen Tối Về Phim Khiêu Dâm]]** - energy harvesting industry
 - **[[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]** - reward hijacking as economic model
+- **[[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]]** - school-to-work pipeline, income-tier pain architecture and Loosh extraction
 - **[[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]** - family collapse, child lineage, reproductive tech, predictive programming and the new orphan train
 - **[[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]** - cabbage baby / Cabbage Patch motif as symbolic rehearsal for child logistics, artificial womb and Orphan Train 2.0
 - **[[Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien|Mười Lần Làm Tình - Giải Phẫu Học Các Chất Gây Nghiện]]** - neuroscience của addiction
@@ -246,6 +248,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Bitcoin Sẽ Chết Nếu Không Có Privacy]]
 - [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]
 - [[Ai Đứng Bên Kia Giao Dịch]]
+- [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]]
 - [[Gen Z và CBDC - Programmable Money Psychology]]
 - [[Chainlink - Mắt Xích Của Tokenized World]]
 
@@ -284,6 +287,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu]]
 - [[Cái Gì Trong Bạn Không Thể Bị Model Hóa]]
 - [[Ai Đứng Bên Kia Giao Dịch]]
+- [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]]
 - [[Gen Z - Phân Tích Phản Biện]]
 
 ### 🏛️ Politics & Conspiracy
@@ -314,9 +318,10 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### June 16, 2026
 
+- **[[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]]** - new mental-models article using a finance/income ladder video as doorway into Ma Trận, education conditioning, work, income-tier pain architecture, Loosh extraction and the counterspell of real connection; includes section-level image-gen illustrations.
 - **[[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]** - new mental-models bridge article reading the cabbage-baby / Cabbage Patch motif as symbolic rehearsal for child logistics, artificial womb, adoption-as-product ritual and Orphan Train 2.0; includes section-level image-gen illustrations.
 - **[[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]** - new mental-models bridge article connecting Orphan Train history, Tartaria/reset-memory questions, family care collapse, dopamine economy, reproductive technology, predictive programming and programmable children; written with explicit fact / pattern / symbol / speculative synthesis discipline.
-- **Knowledge map refresh** - vault map rebuilt after the Orphan Train 2.0 and Em Bé Bắp Cải updates; root counts synced to 218 notes and Mental Models 34 notes.
+- **Knowledge map refresh** - vault map rebuilt after the Orphan Train 2.0, Em Bé Bắp Cải and Loosh income-ladder updates; root counts synced to 219 notes and Mental Models 35 notes.
 
 ### June 14, 2026
 

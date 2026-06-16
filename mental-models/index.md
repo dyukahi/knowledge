@@ -23,11 +23,12 @@ related:
 Đây là pack để đọc crisis của dating, gender, attention và family formation mà không rơi vào incel/PUA/femcel rage-bait. Trục đọc là: desire bị capture → gender incentives bị weaponized → care bị rút khỏi gia đình → trẻ em bị tách khỏi lineage → tình nghĩa trở thành hạ tầng cuối cùng.
 
 1. [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]
-2. [[Tâm Lý Học Tiến Hóa Về Giới Tính]]
-3. [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]]
-4. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
-5. [[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]
-6. [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
+2. [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]]
+3. [[Tâm Lý Học Tiến Hóa Về Giới Tính]]
+4. [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]]
+5. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
+6. [[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]
+7. [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
 
 > Rule: critique systems and incentives, not identities.
 
@@ -72,12 +73,13 @@ Orientation: for readers ready to stop analyzing the world as a way to avoid the
 Orientation: this path can become self-shame if read badly. Use it to understand loops, triggers and incentives, then recover agency.
 
 1. [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — map desire as economy.
-2. [[Bộ Não Rỗng và AI Brain Rot]] — examine cognitive outsourcing and attention decay.
-3. [[Schadenfreude - Dopamine Phản Diện]] — identify the dark reward loop.
-4. [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] — see why emotional safety decides whether correct information can be heard.
-5. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] — follow family collapse into programmable children and the new orphan train.
-6. [[Sợ hãi - Tham Lam – Cân bằng]] — study the market inside the nervous system.
-6. [[Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien]] — read addiction anatomy without moral theater.
+2. [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]] — follow school, work and income tiers as Loosh/pain architecture.
+3. [[Bộ Não Rỗng và AI Brain Rot]] — examine cognitive outsourcing and attention decay.
+4. [[Schadenfreude - Dopamine Phản Diện]] — identify the dark reward loop.
+5. [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] — see why emotional safety decides whether correct information can be heard.
+6. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] — follow family collapse into programmable children and the new orphan train.
+7. [[Sợ hãi - Tham Lam – Cân bằng]] — study the market inside the nervous system.
+8. [[Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien]] — read addiction anatomy without moral theater.
 
 ### 4. Perception Path — Duality, Identity, Self-Deception
 
@@ -126,6 +128,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 
 - [[Mental Model]] — the domain's root concept.
 - [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — desire hijacking as economic architecture.
+- [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]] — education-to-work pipeline, income-tier pain architecture and Loosh extraction.
 - [[Bộ Não Rỗng và AI Brain Rot]] — cognitive offloading and agency collapse.
 - [[Cái Gì Trong Bạn Không Thể Bị Model Hóa]] — human value after AI-driven output collapse.
 - [[Thông Minh vs Trí Tuệ]] — why cleverness can still serve the Matrix.
@@ -148,6 +151,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — survival before upside; financial noise discipline.
 - [[Ai Đứng Bên Kia Giao Dịch]] — every market cycle as ownership transfer between strong and weak hands.
 - [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — why markets, apps and platforms monetize craving.
+- [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]] — why income levels change the kind of pain extracted, not only the account balance.
 - [[Sợ hãi - Tham Lam – Cân bằng]] — emotional balance before allocation.
 - [[Tư Duy Lũy Thừa]] — compounding requires time, and leverage kills time.
 
@@ -168,6 +172,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[crypto-finance/index|Crypto & Finance Gateway]]
 
 ## Notes
+- [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]]
 - [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
 - [[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]
 - [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
