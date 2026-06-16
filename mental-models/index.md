@@ -60,7 +60,8 @@ Orientation: this path can become self-shame if read badly. Use it to understand
 2. [[Bộ Não Rỗng và AI Brain Rot]] — examine cognitive outsourcing and attention decay.
 3. [[Schadenfreude - Dopamine Phản Diện]] — identify the dark reward loop.
 4. [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] — see why emotional safety decides whether correct information can be heard.
-5. [[Sợ hãi - Tham Lam – Cân bằng]] — study the market inside the nervous system.
+5. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] — follow family collapse into programmable children and the new orphan train.
+6. [[Sợ hãi - Tham Lam – Cân bằng]] — study the market inside the nervous system.
 6. [[Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien]] — read addiction anatomy without moral theater.
 
 ### 4. Perception Path — Duality, Identity, Self-Deception
@@ -101,6 +102,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[MOC - Epistemology & Propaganda]] — knowing, believing, forgetting and frame control.
 - [[MOC - Esoterica & Consciousness]] — Jung, archetype, unconscious and spiritual reading.
 - [[MOC - Financial Sovereignty]] — incentives, time preference and money psychology.
+- [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] → [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] → [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]] — family/care collapse path.
 - [[politics-conspiracy/index|Politics & Conspiracy Gateway]] — mass psychology and governance.
 
 ---
@@ -113,6 +115,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Cái Gì Trong Bạn Không Thể Bị Model Hóa]] — human value after AI-driven output collapse.
 - [[Thông Minh vs Trí Tuệ]] — why cleverness can still serve the Matrix.
 - [[Tâm Lý Học Tiến Hóa Về Giới Tính]] — high-risk sex/gender psychology lens; read with claim discipline, not as identity war.
+- [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] — family collapse, lineage, reproductive technology and programmable children.
 - [[Individuation]] — the inner path from persona to Self.
 - [[Tư Duy Lũy Thừa]] — compounding as a mental operating system.
 
@@ -150,5 +153,6 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[crypto-finance/index|Crypto & Finance Gateway]]
 
 ## Notes
+- [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
 - [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
 - [[Luân Hồi Trên Home Screen]]
