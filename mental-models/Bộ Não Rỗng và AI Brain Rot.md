@@ -1,7 +1,7 @@
 ---
-title: "Walter Russell"
+title: "Bộ Não Rỗng và AI Brain Rot"
 description: "Bộ Não Rỗng và AI Brain Rot The Empty Brain & AI Brain Rot Câu hỏi trung tâm của thập kỷ tới: Nếu trí nhớ ở cloud, tính toán ở máy, suy luận ở AI, cảm xúc được làm"
-aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+aliases: ["Bộ Não Rỗng và AI Brain Rot"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined

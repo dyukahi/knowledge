@@ -1,7 +1,7 @@
 ---
-title: "Walter Russell"
+title: "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood"
 description: "Bộ Tam Thánh Mind Control: NASA Disney Hollywood \"Ba đứa con của cùng một cha. Ba màn hình cho cùng một phép thuật.\" \"Three children of the same father. Three"
-aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+aliases: ["Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined

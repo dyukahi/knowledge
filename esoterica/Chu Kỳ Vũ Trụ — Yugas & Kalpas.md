@@ -1,7 +1,7 @@
 ---
-title: "Walter Russell"
+title: "Chu Kỳ Vũ Trụ - Yugas & Kalpas"
 description: "Chu Kỳ Vũ Trụ Yugas & Kalpas \"Thời gian là một vòng tròn, không phải đường thẳng.\" Khoa học hiện đại dạy rằng lịch sử là một đường thẳng tiến lên: từ vi khuẩn đến"
-aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+aliases: ["Chu Kỳ Vũ Trụ - Yugas & Kalpas"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined

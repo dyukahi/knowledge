@@ -1,7 +1,7 @@
 ---
-title: "Walter Russell"
+title: "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa"
 description: "A LIE N SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở"
-aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+aliases: ["A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined

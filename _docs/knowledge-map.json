@@ -12,8 +12,8 @@
       "science-tech": 18
     },
     "tags": 203,
-    "wikilinkEdges": 2109,
-    "brokenLinks": 5,
+    "wikilinkEdges": 2110,
+    "brokenLinks": 4,
     "orphans": 9
   },
   "domains": {
@@ -3194,13 +3194,13 @@
       },
       {
         "path": "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "title": "Walter Russell",
+        "title": "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
         "domain": "esoterica",
         "tags": [
           "science-tech"
         ],
         "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
+          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"
         ],
         "headings": [
           "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
@@ -3580,13 +3580,13 @@
       },
       {
         "path": "esoterica/Một Đời Phù Vân.md",
-        "title": "Walter Russell",
+        "title": "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu",
         "domain": "esoterica",
         "tags": [
           "science-tech"
         ],
         "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
+          "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu"
         ],
         "headings": [
           "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu",
@@ -3752,6 +3752,66 @@
         ],
         "words": 1186,
         "summary": "**Kundalini là ngôn ngữ cổ để nói về sinh lực nguyên thủy khi nó không chỉ phục vụ sinh tồn và tình dục, mà được chuyển hóa thành ý thức, trực giác và hiện diện.** Trong vault, Kundalini là cầu nối giữa Chakra, Năng Lượng Tình Dục, Tinh Khí Thần, Tuyến Tùng v…"
+      },
+      {
+        "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "title": "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
+        "domain": "esoterica",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [
+          "Chu Kỳ Vũ Trụ - Yugas & Kalpas"
+        ],
+        "headings": [
+          "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
+          "Evidence Discipline / Cách Đọc",
+          "Tại Sao Điều Này Quan Trọng?",
+          "Hindu Yugas - Bốn Thời Đại Suy Thoái",
+          "Buddhist Kalpas - Kiếp Và Sự Vô Tận",
+          "Điểm Chung Giữa Hai Truyền Thống",
+          "Giants và Kiến Trúc - Bằng Chứng Vật Lý",
+          "Connections - Atlantis, Resets, và Loosh",
+          "Tương Lai - Chúng Ta Đang Ở Đâu?",
+          "Bài Học Từ Chu Kỳ",
+          "Related"
+        ],
+        "wikilinks": [
+          "Annunaki",
+          "Atlantis",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
+          "Mudflood",
+          "Tartaria",
+          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
+          "Vũ Trụ Học Phật Giáo",
+          "Vận Chín"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Annunaki.md",
+          "esoterica/Atlantis.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "esoterica/Vận Chín.md",
+          "politics-conspiracy/Mudflood.md"
+        ],
+        "backlinks": [
+          "esoterica/Chu Kỳ Hoàng Đạo.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "index.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "words": 4453,
+        "summary": "Khoa học hiện đại dạy rằng lịch sử là một đường thẳng tiến lên: từ vi khuẩn đến cá, từ cá đến vượn, từ vượn đến người, từ hang động đến smartphone. Mỗi thế hệ \"tiến bộ\" hơn thế hệ trước. Chúng ta đang ở đỉnh cao của văn minh."
       },
       {
         "path": "esoterica/Gaia - Trái Đất Có Ý Thức.md",
@@ -4220,65 +4280,6 @@
         ],
         "words": 888,
         "summary": "**Tà Linh là ngôn ngữ biểu tượng để nói về những lực ký sinh trên attention, cảm xúc và sinh lực của con người. Đọc thấp thì đó là trauma loop, nghiện, thought-form và môi trường độc. Đọc cao thì đó là Archon, Wetiko, thực thể trung giới và cơ chế harvest loo…"
-      },
-      {
-        "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-        "title": "Walter Russell",
-        "domain": "esoterica",
-        "tags": [
-          "science-tech"
-        ],
-        "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
-        ],
-        "headings": [
-          "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
-          "Evidence Discipline / Cách Đọc",
-          "Tại Sao Điều Này Quan Trọng?",
-          "Hindu Yugas - Bốn Thời Đại Suy Thoái",
-          "Buddhist Kalpas - Kiếp Và Sự Vô Tận",
-          "Điểm Chung Giữa Hai Truyền Thống",
-          "Giants và Kiến Trúc - Bằng Chứng Vật Lý",
-          "Connections - Atlantis, Resets, và Loosh",
-          "Tương Lai - Chúng Ta Đang Ở Đâu?",
-          "Bài Học Từ Chu Kỳ",
-          "Related"
-        ],
-        "wikilinks": [
-          "Annunaki",
-          "Atlantis",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
-          "Mudflood",
-          "Tartaria",
-          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
-          "Vũ Trụ Học Phật Giáo",
-          "Vận Chín"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Annunaki.md",
-          "esoterica/Atlantis.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "esoterica/Vận Chín.md",
-          "politics-conspiracy/Mudflood.md"
-        ],
-        "backlinks": [
-          "esoterica/Chu Kỳ Hoàng Đạo.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "words": 4453,
-        "summary": "Khoa học hiện đại dạy rằng lịch sử là một đường thẳng tiến lên: từ vi khuẩn đến cá, từ cá đến vượn, từ vượn đến người, từ hang động đến smartphone. Mỗi thế hệ \"tiến bộ\" hơn thế hệ trước. Chúng ta đang ở đỉnh cao của văn minh."
       },
       {
         "path": "esoterica/Chu Kỳ Hoàng Đạo.md",
@@ -4795,6 +4796,73 @@
         "summary": "**Vận Chín là khung Phong thủy đọc giai đoạn 2024-2044 như thời kỳ Hỏa: ánh sáng, tốc độ, hình ảnh, phơi bày, tim-mắt-máu, reputation và cuộc chiến giữa thật với giả.** Trong vault, Vận Chín không được dùng để \"dự đoán chắc chắn\", mà như một lens đọc nhịp biế…"
       },
       {
+        "path": "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "title": "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+        "domain": "esoterica",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [
+          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể"
+        ],
+        "headings": [
+          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc Bài Này",
+          "Pattern Reading Không Phải Đoán Mò",
+          "Hai Case Calibration: Argentina 2022 Và Spain Euro 2024",
+          "Từ Khóa Cần Hiểu",
+          "Calibration Bằng Dữ Liệu: Myth Không Được Bay Khỏi Sân Cỏ",
+          "Brazil 2026 Watchlist: Dữ Liệu Nào Sẽ Xác Nhận Hoặc Phá Thesis?",
+          "Pre-Tournament Snapshot — 4/6/2026",
+          "World Cup 26 Là Gì Nếu Không Phải Một Hero Stage?",
+          "WE ARE 26 Và Sự Tan Của Một Trung Tâm Duy Nhất",
+          "26, 8 Và Back-To-Back Loop",
+          "2002 → 2026: Ba Vòng 8 Và Một Chu Kỳ Brazil Return",
+          "TRIONDA: Ba Làn Sóng Và Một Tournament Không Có Một Mũi Nhọn",
+          "Gematria Nhẹ: Khi Số Không Chứng Minh, Nhưng Tạo Texture",
+          "Brazil Không Cần Neymar Để Là Brazil",
+          "Vinícius, Endrick, Rodrygo Và Cái Bẫy Của Một Gương Mặt Mới",
+          "IShowSpeed, Brazil Flag Và Creator-Culture Omen",
+          "Spain Và England: Data Pick Không Phải Myth Pick",
+          "Khi Một Nhà Vô Địch Không Cần Được Nhớ Bằng Một Gương Mặt",
+          "Hint Không Nhất Thiết Là Script",
+          "Synthesis: World Cup 26, Brazil Và Kỷ Luật Đọc Pattern",
+          "Related"
+        ],
+        "wikilinks": [
+          "Gematria",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Ma Trận",
+          "MOC - Epistemology & Propaganda",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "MOC - Epistemology & Propaganda.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        ],
+        "backlinks": [
+          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/index.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "index.md",
+          "MOC - Epistemology & Propaganda.md"
+        ],
+        "words": 5517,
+        "summary": "**Nếu World Cup 2022 là nghi lễ hoàn tất myth cá nhân của Messi, World Cup 2026 có vẻ đang được dựng như một nghi lễ tập thể: ba quốc gia, bốn mươi tám đội, ba làn sóng, nhiều thành phố, nhiều poster, nhiều concert, nhiều creator và một field truyền thông phâ…"
+      },
+      {
         "path": "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
         "title": "Soulmate vs Lover — Anatomy Của Kết Nối",
         "domain": "esoterica",
@@ -4887,73 +4955,6 @@
         ],
         "words": 2044,
         "summary": "Trong văn hóa hiện đại, **lover** và **soulmate** thường bị nhầm lẫn. Intense chemistry được gọi là \"soulmate connection\", trong khi true soul recognition bị bỏ qua vì thiếu drama. Bài này phân tích sự khác biệt qua lens tâm lý học và esoteric."
-      },
-      {
-        "path": "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-        "title": "Walter Russell",
-        "domain": "esoterica",
-        "tags": [
-          "science-tech"
-        ],
-        "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
-        ],
-        "headings": [
-          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Cách Đọc Bài Này",
-          "Pattern Reading Không Phải Đoán Mò",
-          "Hai Case Calibration: Argentina 2022 Và Spain Euro 2024",
-          "Từ Khóa Cần Hiểu",
-          "Calibration Bằng Dữ Liệu: Myth Không Được Bay Khỏi Sân Cỏ",
-          "Brazil 2026 Watchlist: Dữ Liệu Nào Sẽ Xác Nhận Hoặc Phá Thesis?",
-          "Pre-Tournament Snapshot — 4/6/2026",
-          "World Cup 26 Là Gì Nếu Không Phải Một Hero Stage?",
-          "WE ARE 26 Và Sự Tan Của Một Trung Tâm Duy Nhất",
-          "26, 8 Và Back-To-Back Loop",
-          "2002 → 2026: Ba Vòng 8 Và Một Chu Kỳ Brazil Return",
-          "TRIONDA: Ba Làn Sóng Và Một Tournament Không Có Một Mũi Nhọn",
-          "Gematria Nhẹ: Khi Số Không Chứng Minh, Nhưng Tạo Texture",
-          "Brazil Không Cần Neymar Để Là Brazil",
-          "Vinícius, Endrick, Rodrygo Và Cái Bẫy Của Một Gương Mặt Mới",
-          "IShowSpeed, Brazil Flag Và Creator-Culture Omen",
-          "Spain Và England: Data Pick Không Phải Myth Pick",
-          "Khi Một Nhà Vô Địch Không Cần Được Nhớ Bằng Một Gương Mặt",
-          "Hint Không Nhất Thiết Là Script",
-          "Synthesis: World Cup 26, Brazil Và Kỷ Luật Đọc Pattern",
-          "Related"
-        ],
-        "wikilinks": [
-          "Gematria",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Ma Trận",
-          "MOC - Epistemology & Propaganda",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gematria.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "MOC - Epistemology & Propaganda.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-        ],
-        "backlinks": [
-          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/index.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "index.md",
-          "MOC - Epistemology & Propaganda.md"
-        ],
-        "words": 5517,
-        "summary": "**Nếu World Cup 2022 là nghi lễ hoàn tất myth cá nhân của Messi, World Cup 2026 có vẻ đang được dựng như một nghi lễ tập thể: ba quốc gia, bốn mươi tám đội, ba làn sóng, nhiều thành phố, nhiều poster, nhiều concert, nhiều creator và một field truyền thông phâ…"
       },
       {
         "path": "esoterica/Phong Thủy.md",
@@ -8514,13 +8515,13 @@
       },
       {
         "path": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "title": "Walter Russell",
+        "title": "Bộ Não Rỗng và AI Brain Rot",
         "domain": "mental-models",
         "tags": [
           "science-tech"
         ],
         "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
+          "Bộ Não Rỗng và AI Brain Rot"
         ],
         "headings": [
           "Bộ Não Rỗng và AI Brain Rot",
@@ -8626,13 +8627,13 @@
       },
       {
         "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "title": "Walter Russell",
+        "title": "Tâm Lý Học Tiến Hóa Về Giới Tính",
         "domain": "mental-models",
         "tags": [
           "science-tech"
         ],
         "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
+          "Tâm Lý Học Tiến Hóa Về Giới Tính"
         ],
         "headings": [
           "Tâm Lý Học Tiến Hóa Về Giới Tính",
@@ -9295,13 +9296,13 @@
       },
       {
         "path": "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "title": "Walter Russell",
+        "title": "Ai Đứng Bên Kia Giao Dịch",
         "domain": "mental-models",
         "tags": [
           "science-tech"
         ],
         "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
+          "Ai Đứng Bên Kia Giao Dịch"
         ],
         "headings": [
           "Ai Đứng Bên Kia Giao Dịch",
@@ -10167,13 +10168,14 @@
       },
       {
         "path": "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "title": "Walter Russell",
+        "title": "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?",
         "domain": "mental-models",
         "tags": [
           "science-tech"
         ],
         "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
+          "Dừng Lại Được Chưa?",
+          "Thế Hệ Dâu Tây — Mệt Rồi"
         ],
         "headings": [
           "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?",
@@ -10833,13 +10835,13 @@
       },
       {
         "path": "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "title": "Walter Russell",
+        "title": "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
         "domain": "politics-conspiracy",
         "tags": [
           "science-tech"
         ],
         "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
+          "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood"
         ],
         "headings": [
           "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
@@ -11012,6 +11014,92 @@
         "summary": "**Porn không chỉ là nội dung người lớn; nó là một hệ thống công nghiệp hóa ham muốn, biến năng lượng tình dục thành dopamine loop, data, shame, fantasy và dependency.** Trong vault, porn được đọc ở ba tầng cùng lúc: neurobiology của nghiện, political economy…"
       },
       {
+        "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "title": "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [
+          "A LIE N - SpaceX IPO",
+          "Disclosure Day và Nghi Lễ Tên Lửa"
+        ],
+        "headings": [
+          "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+          "Bài Này Nằm Ở Đâu Trong Vault?",
+          "1. Timeline 2026: Khi Alien Bước Vào Mainstream",
+          "Evidence Discipline / Cách Đọc Nguồn",
+          "2. A LIE N: Word Magic Ngay Trong Cái Tên",
+          "3. Spielberg: E.T. Và Disclosure Day",
+          "4. HOPE: Alien Không Chỉ Là Narrative Mỹ",
+          "5. Crowley Và LAM: Grey Alien Trước Khi Grey Alien Thành Văn Hóa Đại Chúng",
+          "6. Jack Parsons: Tên Lửa Sinh Ra Từ Phòng Thí Nghiệm Và Đền Thờ",
+          "7. SpaceX: Obelisk Của Kỷ Nguyên Technocracy",
+          "8. Obelisk: Từ Osiris Đến Apollo, Từ Apollo Đến Starship",
+          "9. Hollywood Là Phép Thuật: Predictive Programming Và Revelation Method",
+          "10. Marvel Arc: Từ Dr. Strange Đến Dr. Doom",
+          "Dr. Strange = Aleister Crowley Archetype",
+          "Jack Parsons = Cầu Nối Giữa Strange Và Doom",
+          "Dr. Doom = Elon Musk Archetype",
+          "11. Controlled Opposition: Không Ai Là Hero Hoàn Toàn",
+          "11.5. Trump Moonchild Và Elon False Prophet",
+          "12. Hantavirus, X-Files Và “It Wasn't The Hantavirus”",
+          "13. Synthesis: Tại Sao SpaceX IPO Đúng Lúc Disclosure?",
+          "14. Moon Landing Moment 2.0 — Reality Được Cập Nhật",
+          "15. Vault Synthesis: Alien Là Một Interface",
+          "16. Kết Luận: Trong Giả Có Thật, Trong Thật Có Giả",
+          "Source Register / Sổ Nguồn",
+          "Primary / Official Source Categories",
+          "Tier-1 / Public Reporting Categories",
+          "Books / Historical Context",
+          "Internal Vault Frameworks"
+        ],
+        "wikilinks": [
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Cách Đọc Red Pill Wiki",
+          "Elite",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Khoa Học Xét Lại",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Mỹ Là Ai Cập Tái Sinh",
+          "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
+          "UAP Disclosure - Controlled Revelation"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "index.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+          "politics-conspiracy/Operation Paperclip.md",
+          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "words": 5389,
+        "summary": "**Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở lại với người ngoài hành tinh, Trump đẩy narrative alien vào mainstream, Hollywood mở nghi lễ bằng hình ảnh, còn Elon Musk đưa obelisk hiện đại của…"
+      },
+      {
         "path": "politics-conspiracy/Bức Tường Băng.md",
         "title": "Bức Tường Băng (Ice Wall)",
         "domain": "politics-conspiracy",
@@ -11094,91 +11182,6 @@
         ],
         "words": 1212,
         "summary": "---"
-      },
-      {
-        "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "title": "Walter Russell",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "science-tech"
-        ],
-        "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
-        ],
-        "headings": [
-          "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
-          "Bài Này Nằm Ở Đâu Trong Vault?",
-          "1. Timeline 2026: Khi Alien Bước Vào Mainstream",
-          "Evidence Discipline / Cách Đọc Nguồn",
-          "2. A LIE N: Word Magic Ngay Trong Cái Tên",
-          "3. Spielberg: E.T. Và Disclosure Day",
-          "4. HOPE: Alien Không Chỉ Là Narrative Mỹ",
-          "5. Crowley Và LAM: Grey Alien Trước Khi Grey Alien Thành Văn Hóa Đại Chúng",
-          "6. Jack Parsons: Tên Lửa Sinh Ra Từ Phòng Thí Nghiệm Và Đền Thờ",
-          "7. SpaceX: Obelisk Của Kỷ Nguyên Technocracy",
-          "8. Obelisk: Từ Osiris Đến Apollo, Từ Apollo Đến Starship",
-          "9. Hollywood Là Phép Thuật: Predictive Programming Và Revelation Method",
-          "10. Marvel Arc: Từ Dr. Strange Đến Dr. Doom",
-          "Dr. Strange = Aleister Crowley Archetype",
-          "Jack Parsons = Cầu Nối Giữa Strange Và Doom",
-          "Dr. Doom = Elon Musk Archetype",
-          "11. Controlled Opposition: Không Ai Là Hero Hoàn Toàn",
-          "11.5. Trump Moonchild Và Elon False Prophet",
-          "12. Hantavirus, X-Files Và “It Wasn't The Hantavirus”",
-          "13. Synthesis: Tại Sao SpaceX IPO Đúng Lúc Disclosure?",
-          "14. Moon Landing Moment 2.0 — Reality Được Cập Nhật",
-          "15. Vault Synthesis: Alien Là Một Interface",
-          "16. Kết Luận: Trong Giả Có Thật, Trong Thật Có Giả",
-          "Source Register / Sổ Nguồn",
-          "Primary / Official Source Categories",
-          "Tier-1 / Public Reporting Categories",
-          "Books / Historical Context",
-          "Internal Vault Frameworks"
-        ],
-        "wikilinks": [
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Cách Đọc Red Pill Wiki",
-          "Elite",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Khoa Học Xét Lại",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "Mỹ Là Ai Cập Tái Sinh",
-          "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
-          "UAP Disclosure - Controlled Revelation"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
-          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "index.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
-          "politics-conspiracy/Operation Paperclip.md",
-          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "words": 5389,
-        "summary": "**Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở lại với người ngoài hành tinh, Trump đẩy narrative alien vào mainstream, Hollywood mở nghi lễ bằng hình ảnh, còn Elon Musk đưa obelisk hiện đại của…"
       },
       {
         "path": "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
@@ -11662,13 +11665,13 @@
       },
       {
         "path": "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-        "title": "Walter Russell",
+        "title": "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
         "domain": "politics-conspiracy",
         "tags": [
           "science-tech"
         ],
         "aliases": [
-          "Walter Russell (Hiền Triết Hiện Đại)"
+          "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời"
         ],
         "headings": [
           "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
@@ -12553,6 +12556,7 @@
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
           "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
           "esoterica/Chakra.md",
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
           "esoterica/Gaia - Trái Đất Có Ý Thức.md",
           "esoterica/Gematria.md",
           "esoterica/Gnosis.md",
@@ -15112,6 +15116,7 @@
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Chakra.md",
+        "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
@@ -19201,10 +19206,6 @@
   "brokenLinks": [
     {
       "source": "index.md",
-      "target": "Chu Kỳ Vũ Trụ - Yugas & Kalpas"
-    },
-    {
-      "source": "index.md",
       "target": "Lịch Sử Song Song - Khi Thế Giới Đồng Bộ"
     },
     {
@@ -21806,13 +21807,13 @@
     },
     "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md": {
       "path": "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-      "title": "Walter Russell",
+      "title": "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
       "domain": "esoterica",
       "tags": [
         "science-tech"
       ],
       "aliases": [
-        "Walter Russell (Hiền Triết Hiện Đại)"
+        "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể"
       ],
       "headings": [
         "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
@@ -22170,13 +22171,13 @@
     },
     "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md": {
       "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-      "title": "Walter Russell",
+      "title": "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
       "domain": "esoterica",
       "tags": [
         "science-tech"
       ],
       "aliases": [
-        "Walter Russell (Hiền Triết Hiện Đại)"
+        "Chu Kỳ Vũ Trụ - Yugas & Kalpas"
       ],
       "headings": [
         "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
@@ -22219,6 +22220,7 @@
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
         "esoterica/Vũ Trụ Học Phật Giáo.md",
+        "index.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Esoterica & Consciousness.md",
@@ -24000,13 +24002,13 @@
     },
     "esoterica/Một Đời Phù Vân.md": {
       "path": "esoterica/Một Đời Phù Vân.md",
-      "title": "Walter Russell",
+      "title": "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu",
       "domain": "esoterica",
       "tags": [
         "science-tech"
       ],
       "aliases": [
-        "Walter Russell (Hiền Triết Hiện Đại)"
+        "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu"
       ],
       "headings": [
         "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu",
@@ -25524,13 +25526,13 @@
     },
     "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md": {
       "path": "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-      "title": "Walter Russell",
+      "title": "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
       "domain": "esoterica",
       "tags": [
         "science-tech"
       ],
       "aliases": [
-        "Walter Russell (Hiền Triết Hiện Đại)"
+        "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"
       ],
       "headings": [
         "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
@@ -28480,6 +28482,7 @@
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Chakra.md",
+        "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
@@ -28610,13 +28613,13 @@
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
       "path": "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-      "title": "Walter Russell",
+      "title": "Ai Đứng Bên Kia Giao Dịch",
       "domain": "mental-models",
       "tags": [
         "science-tech"
       ],
       "aliases": [
-        "Walter Russell (Hiền Triết Hiện Đại)"
+        "Ai Đứng Bên Kia Giao Dịch"
       ],
       "headings": [
         "Ai Đứng Bên Kia Giao Dịch",
@@ -28670,13 +28673,13 @@
     },
     "mental-models/Bộ Não Rỗng và AI Brain Rot.md": {
       "path": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-      "title": "Walter Russell",
+      "title": "Bộ Não Rỗng và AI Brain Rot",
       "domain": "mental-models",
       "tags": [
         "science-tech"
       ],
       "aliases": [
-        "Walter Russell (Hiền Triết Hiện Đại)"
+        "Bộ Não Rỗng và AI Brain Rot"
       ],
       "headings": [
         "Bộ Não Rỗng và AI Brain Rot",
@@ -30135,13 +30138,14 @@
     },
     "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md": {
       "path": "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-      "title": "Walter Russell",
+      "title": "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?",
       "domain": "mental-models",
       "tags": [
         "science-tech"
       ],
       "aliases": [
-        "Walter Russell (Hiền Triết Hiện Đại)"
+        "Dừng Lại Được Chưa?",
+        "Thế Hệ Dâu Tây — Mệt Rồi"
       ],
       "headings": [
         "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?",
@@ -30319,13 +30323,13 @@
     },
     "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md": {
       "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-      "title": "Walter Russell",
+      "title": "Tâm Lý Học Tiến Hóa Về Giới Tính",
       "domain": "mental-models",
       "tags": [
         "science-tech"
       ],
       "aliases": [
-        "Walter Russell (Hiền Triết Hiện Đại)"
+        "Tâm Lý Học Tiến Hóa Về Giới Tính"
       ],
       "headings": [
         "Tâm Lý Học Tiến Hóa Về Giới Tính",
@@ -30856,13 +30860,14 @@
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
       "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-      "title": "Walter Russell",
+      "title": "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
       "domain": "politics-conspiracy",
       "tags": [
         "science-tech"
       ],
       "aliases": [
-        "Walter Russell (Hiền Triết Hiện Đại)"
+        "A LIE N - SpaceX IPO",
+        "Disclosure Day và Nghi Lễ Tên Lửa"
       ],
       "headings": [
         "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
@@ -31114,13 +31119,13 @@
     },
     "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md": {
       "path": "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-      "title": "Walter Russell",
+      "title": "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
       "domain": "politics-conspiracy",
       "tags": [
         "science-tech"
       ],
       "aliases": [
-        "Walter Russell (Hiền Triết Hiện Đại)"
+        "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood"
       ],
       "headings": [
         "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
@@ -32174,13 +32179,13 @@
     },
     "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md": {
       "path": "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-      "title": "Walter Russell",
+      "title": "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
       "domain": "politics-conspiracy",
       "tags": [
         "science-tech"
       ],
       "aliases": [
-        "Walter Russell (Hiền Triết Hiện Đại)"
+        "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời"
       ],
       "headings": [
         "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",

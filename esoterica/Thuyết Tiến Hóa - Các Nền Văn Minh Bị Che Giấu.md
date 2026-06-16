@@ -1,7 +1,7 @@
 ---
-title: "Walter Russell"
+title: "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"
 description: "Thuyết Tiến Hóa Các Nền Văn Minh Bị Che Giấu \"Nếu bạn kiểm soát được quá khứ, bạn kiểm soát được tương lai. Nếu bạn kiểm soát được hiện tại, bạn kiểm soát được quá"
-aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+aliases: ["Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined

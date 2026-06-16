@@ -1,7 +1,7 @@
 ---
-title: "Walter Russell"
+title: "Tâm Lý Học Tiến Hóa Về Giới Tính"
 description: "Tâm Lý Học Tiến Hóa Về Giới Tính Có những sự thật về tâm lý nam nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập"
-aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+aliases: ["Tâm Lý Học Tiến Hóa Về Giới Tính"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined

@@ -1,7 +1,7 @@
 ---
-title: "Walter Russell"
+title: "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời"
 description: "SpaceX Obelisk Lửa Và Nỗi Sợ Bầu Trời Nếu Moon landing là nghi lễ làm con người tin rằng bầu trời có thể bị chạm tới, thì SpaceX là nghi lễ biến bầu trời thành hạ"
-aliases: ["Walter Russell (Hiền Triết Hiện Đại)"]
+aliases: ["SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined
