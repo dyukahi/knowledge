@@ -26,9 +26,10 @@ related:
 2. [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]]
 3. [[Tâm Lý Học Tiến Hóa Về Giới Tính]]
 4. [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]]
-5. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
-6. [[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]
-7. [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
+5. [[Giàu Không Phải Để Vợ Không Làm Gì]]
+6. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
+7. [[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]
+8. [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
 
 > Rule: critique systems and incentives, not identities.
 
@@ -77,9 +78,10 @@ Orientation: this path can become self-shame if read badly. Use it to understand
 3. [[Bộ Não Rỗng và AI Brain Rot]] — examine cognitive outsourcing and attention decay.
 4. [[Schadenfreude - Dopamine Phản Diện]] — identify the dark reward loop.
 5. [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] — see why emotional safety decides whether correct information can be heard.
-6. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] — follow family collapse into programmable children and the new orphan train.
-7. [[Sợ hãi - Tham Lam – Cân bằng]] — study the market inside the nervous system.
-8. [[Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien]] — read addiction anatomy without moral theater.
+6. [[Giàu Không Phải Để Vợ Không Làm Gì]] — connect provider fantasy, income ladder, runway and family sovereignty.
+7. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] — follow family collapse into programmable children and the new orphan train.
+8. [[Sợ hãi - Tham Lam – Cân bằng]] — study the market inside the nervous system.
+9. [[Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien]] — read addiction anatomy without moral theater.
 
 ### 4. Perception Path — Duality, Identity, Self-Deception
 
@@ -119,7 +121,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[MOC - Epistemology & Propaganda]] — knowing, believing, forgetting and frame control.
 - [[MOC - Esoterica & Consciousness]] — Jung, archetype, unconscious and spiritual reading.
 - [[MOC - Financial Sovereignty]] — incentives, time preference and money psychology.
-- [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] → [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] → [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]] — family/care collapse path.
+- [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] → [[Giàu Không Phải Để Vợ Không Làm Gì]] → [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] → [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]] — family/care collapse, provider fantasy and sovereignty path.
 - [[politics-conspiracy/index|Politics & Conspiracy Gateway]] — mass psychology and governance.
 
 ---
@@ -152,6 +154,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Ai Đứng Bên Kia Giao Dịch]] — every market cycle as ownership transfer between strong and weak hands.
 - [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — why markets, apps and platforms monetize craving.
 - [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]] — why income levels change the kind of pain extracted, not only the account balance.
+- [[Giàu Không Phải Để Vợ Không Làm Gì]] — provider fantasy, care economy and family sovereignty over market capture.
 - [[Sợ hãi - Tham Lam – Cân bằng]] — emotional balance before allocation.
 - [[Tư Duy Lũy Thừa]] — compounding requires time, and leverage kills time.
 
@@ -177,3 +180,5 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]
 - [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
 - [[Luân Hồi Trên Home Screen]]
+
+- [[Giàu Không Phải Để Vợ Không Làm Gì]]

@@ -316,6 +316,10 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ## Recent Updates / Cập Nhật Gần Đây
 
+### June 17, 2026
+
+- **[[Giàu Không Phải Để Vợ Không Làm Gì]]** - new mental-models bridge article connecting provider fantasy, care economy, lương ladder, runway and family sovereignty; argues that wealth should buy back time to protect care, not turn one spouse into dependence or both spouses into exhausted labor units; includes photoreal/surreal editorial illustrations.
+
 ### June 16, 2026
 
 - **[[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]]** - new mental-models article using a finance/income ladder video as doorway into Ma Trận, education conditioning, work, income-tier pain architecture, Loosh extraction and the counterspell of real connection; includes section-level image-gen illustrations.

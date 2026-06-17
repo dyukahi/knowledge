@@ -1,14 +1,14 @@
 {
   "summary": {
-    "public_notes": 206,
-    "avg_words": 1534,
+    "public_notes": 207,
+    "avg_words": 1543,
     "missing_description": 0,
     "missing_aliases": 0,
     "thin_lt800": 28,
     "duplicate_titles": 0,
     "mobile_hostile_code": 0,
     "horizontal_chain": 25,
-    "textblock_candidates": 33,
+    "textblock_candidates": 34,
     "broken_links": 0,
     "orphans_public": 2
   },
@@ -320,6 +320,12 @@
         "short": 22,
         "paragraphs": 61,
         "ratio": 0.361
+      },
+      {
+        "path": "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+        "short": 33,
+        "paragraphs": 86,
+        "ratio": 0.384
       },
       {
         "path": "mental-models/Mô Hình Địa Tâm.md",

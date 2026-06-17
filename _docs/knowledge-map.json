@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 219,
+    "notes": 220,
     "domains": {
       "_docs": 11,
       "root": 14,
       "crypto-finance": 13,
       "esoterica": 74,
       "health": 27,
-      "mental-models": 35,
+      "mental-models": 36,
       "politics-conspiracy": 27,
       "science-tech": 18
     },
-    "tags": 209,
-    "wikilinkEdges": 2209,
+    "tags": 210,
+    "wikilinkEdges": 2218,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -622,6 +622,7 @@
           "index.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/index.md",
           "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
           "mental-models/Thông Minh vs Trí Tuệ.md",
@@ -2619,6 +2620,7 @@
           "index.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
           "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
           "MOC - Esoterica & Consciousness.md",
@@ -8506,6 +8508,7 @@
           "esoterica/index",
           "Gen Z - Phân Tích Phản Biện",
           "Gen Z và CBDC - Programmable Money Psychology",
+          "Giàu Không Phải Để Vợ Không Làm Gì",
           "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
           "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
           "Individuation",
@@ -8559,6 +8562,7 @@
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/Individuation.md",
           "mental-models/Luân Hồi Trên Home Screen.md",
           "mental-models/Mental Model.md",
@@ -8598,7 +8602,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1437,
+        "words": 1502,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -8781,6 +8785,105 @@
         "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
       },
       {
+        "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "domain": "mental-models",
+        "tags": [
+          "matrix",
+          "mental-model",
+          "psychology",
+          "social-media"
+        ],
+        "aliases": [
+          "Attention Economy",
+          "Dopamine Economy",
+          "Kinh Tế Dopamine"
+        ],
+        "headings": [
+          "Dopamine Economy — Nền Kinh Tế Của Sự Thèm Muốn",
+          "Vault Position / Vị Trí Trong Vault",
+          "Publication Pack / Family, Dopamine & Orphan Train",
+          "1. Dopamine Không Phải Hạnh Phúc",
+          "2. Attention Là Hàng Hóa",
+          "3. Variable Reward: Máy Đánh Bạc Trong Túi",
+          "4. Các Kênh Hijack Chính",
+          "Social Media",
+          "Porn",
+          "Food",
+          "Gaming / Gambling",
+          "News / Politics",
+          "5. Dopamine Và Loosh",
+          "6. Tại Sao Ý Chí Không Đủ?",
+          "7. Escape Strategy",
+          "1. Remove Cues",
+          "2. Restore Natural Rewards",
+          "3. Dopamine Fasting Đúng Nghĩa",
+          "4. Replace, Not Just Remove",
+          "8. Dấu Hiệu Đang Bị Kinh Tế Dopamine Nuốt",
+          "Synthesis",
+          "Related",
+          "Financial Dopamine: Futures Group Là TikTok Của Lòng Tham"
+        ],
+        "wikilinks": [
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Kiểm Soát Tâm Trí",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Ma Trận",
+          "Năng Lượng Tình Dục",
+          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+          "Schadenfreude - Dopamine Phản Diện",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tâm Lý Học Tiến Hóa Về Giới Tính",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/index.md",
+          "esoterica/Chakra.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "index.md",
+          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+          "mental-models/index.md",
+          "mental-models/Luân Hồi Trên Home Screen.md",
+          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
+          "MOC - Market Psychology & Risk.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "words": 1086,
+        "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
+      },
+      {
         "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "title": "Tâm Lý Học Tiến Hóa Về Giới Tính",
         "domain": "mental-models",
@@ -8893,104 +8996,6 @@
         ],
         "words": 3446,
         "summary": "Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about mal…"
-      },
-      {
-        "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-        "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "domain": "mental-models",
-        "tags": [
-          "matrix",
-          "mental-model",
-          "psychology",
-          "social-media"
-        ],
-        "aliases": [
-          "Attention Economy",
-          "Dopamine Economy",
-          "Kinh Tế Dopamine"
-        ],
-        "headings": [
-          "Dopamine Economy — Nền Kinh Tế Của Sự Thèm Muốn",
-          "Vault Position / Vị Trí Trong Vault",
-          "Publication Pack / Family, Dopamine & Orphan Train",
-          "1. Dopamine Không Phải Hạnh Phúc",
-          "2. Attention Là Hàng Hóa",
-          "3. Variable Reward: Máy Đánh Bạc Trong Túi",
-          "4. Các Kênh Hijack Chính",
-          "Social Media",
-          "Porn",
-          "Food",
-          "Gaming / Gambling",
-          "News / Politics",
-          "5. Dopamine Và Loosh",
-          "6. Tại Sao Ý Chí Không Đủ?",
-          "7. Escape Strategy",
-          "1. Remove Cues",
-          "2. Restore Natural Rewards",
-          "3. Dopamine Fasting Đúng Nghĩa",
-          "4. Replace, Not Just Remove",
-          "8. Dấu Hiệu Đang Bị Kinh Tế Dopamine Nuốt",
-          "Synthesis",
-          "Related",
-          "Financial Dopamine: Futures Group Là TikTok Của Lòng Tham"
-        ],
-        "wikilinks": [
-          "Bộ Não Rỗng và AI Brain Rot",
-          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-          "Kiểm Soát Tâm Trí",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "Ma Trận",
-          "Năng Lượng Tình Dục",
-          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
-          "Schadenfreude - Dopamine Phản Diện",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tâm Lý Học Tiến Hóa Về Giới Tính",
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "crypto-finance/index.md",
-          "esoterica/Chakra.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "index.md",
-          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-          "mental-models/index.md",
-          "mental-models/Luân Hồi Trên Home Screen.md",
-          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
-          "MOC - Market Psychology & Risk.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 1086,
-        "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
       },
       {
         "path": "mental-models/Nhị Nguyên.md",
@@ -9549,69 +9554,6 @@
         "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không.** Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trậ…"
       },
       {
-        "path": "mental-models/Tư Duy Lũy Thừa.md",
-        "title": "Tư Duy Lũy Thừa",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model"
-        ],
-        "aliases": [
-          "Exponential Thinking",
-          "Non-linear Growth"
-        ],
-        "headings": [
-          "Tư Duy Lũy Thừa (Exponential Thinking)",
-          "Vault Position / Vị Trí Trong Map",
-          "Tổng Quan / Overview",
-          "Các Khái Niệm Cốt Lõi / Core Concepts",
-          "1. Tính Phi Tuyến Tính / Non-linearity",
-          "2. Phương Pháp Rèn Luyện / Training Method",
-          "3. Thung Lũng Tích Lũy / Valley of Accumulation",
-          "4. Bước Ngoặt / Tipping Point",
-          "5. Sự Kiên Nhẫn / Patience",
-          "Ứng Dụng Thực Tế / Practical Application",
-          "Evidence Discipline / Kỷ Luật Chứng Cứ",
-          "Related / Liên quan",
-          "Compounding Cần Sống Sót"
-        ],
-        "wikilinks": [
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-          "Individuation",
-          "Ma Trận",
-          "Mental Model",
-          "Thông Minh vs Trí Tuệ"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "esoterica/Ma Trận.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Individuation.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Giàu Không Nhờ May Mắn.md",
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "crypto-finance/index.md",
-          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "index.md",
-          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-          "mental-models/index.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "MOC - Financial Sovereignty.md",
-          "MOC - Market Psychology & Risk.md"
-        ],
-        "words": 1322,
-        "summary": "**Tư duy lũy thừa là khả năng nhìn thấy giai đoạn tích lũy vô hình trước khi kết quả bùng nổ.** Nó chống lại ảo giác tuyến tính của trường học, công sở và dopamine economy: làm một chút, nhận một chút, thấy thưởng ngay. Những kết quả đột phá thường đến từ cườ…"
-      },
-      {
         "path": "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "title": "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "domain": "mental-models",
@@ -9680,6 +9622,7 @@
           "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
           "index.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/index.md",
           "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -9689,6 +9632,69 @@
         ],
         "words": 4014,
         "summary": "Gia đình không bị phá bằng một cú đánh. Nó bị làm rỗng từng lớp."
+      },
+      {
+        "path": "mental-models/Tư Duy Lũy Thừa.md",
+        "title": "Tư Duy Lũy Thừa",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model"
+        ],
+        "aliases": [
+          "Exponential Thinking",
+          "Non-linear Growth"
+        ],
+        "headings": [
+          "Tư Duy Lũy Thừa (Exponential Thinking)",
+          "Vault Position / Vị Trí Trong Map",
+          "Tổng Quan / Overview",
+          "Các Khái Niệm Cốt Lõi / Core Concepts",
+          "1. Tính Phi Tuyến Tính / Non-linearity",
+          "2. Phương Pháp Rèn Luyện / Training Method",
+          "3. Thung Lũng Tích Lũy / Valley of Accumulation",
+          "4. Bước Ngoặt / Tipping Point",
+          "5. Sự Kiên Nhẫn / Patience",
+          "Ứng Dụng Thực Tế / Practical Application",
+          "Evidence Discipline / Kỷ Luật Chứng Cứ",
+          "Related / Liên quan",
+          "Compounding Cần Sống Sót"
+        ],
+        "wikilinks": [
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Individuation",
+          "Ma Trận",
+          "Mental Model",
+          "Thông Minh vs Trí Tuệ"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "esoterica/Ma Trận.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Individuation.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/index.md",
+          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "index.md",
+          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/index.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "MOC - Financial Sovereignty.md",
+          "MOC - Market Psychology & Risk.md"
+        ],
+        "words": 1322,
+        "summary": "**Tư duy lũy thừa là khả năng nhìn thấy giai đoạn tích lũy vô hình trước khi kết quả bùng nổ.** Nó chống lại ảo giác tuyến tính của trường học, công sở và dopamine economy: làm một chút, nhận một chút, thấy thưởng ngay. Những kết quả đột phá thường đến từ cườ…"
       },
       {
         "path": "mental-models/Nguyên Mẫu.md",
@@ -9939,12 +9945,71 @@
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/index.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md"
         ],
         "words": 3479,
         "summary": "!Một đứa trẻ đứng giữa đường ray cũ và mạng lưới quản trị hiện đại"
+      },
+      {
+        "path": "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "title": "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+        "domain": "mental-models",
+        "tags": [
+          "care-economy",
+          "covenant",
+          "dopamine-economy",
+          "family",
+          "marriage",
+          "mental-models"
+        ],
+        "aliases": [
+          "Covenant Và Care Work",
+          "Marriage as Last Infrastructure",
+          "Nghĩa Tình Vợ Chồng"
+        ],
+        "headings": [
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+          "Covenant Không Phải Subscription",
+          "Dopamine Market Và Sự Phản Bội Nhẹ Nhàng",
+          "Care Work Là Cơ Sở Hạ Tầng Vô Hình",
+          "Về Già Mới Biết Tình Yêu Có Thật Không",
+          "Ma Trận Ghét Những Hạ Tầng Không Trung Gian",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+          "Publication Pack / Family, Dopamine & Orphan Train"
+        ],
+        "wikilinks": [
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Ma Trận",
+          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+          "Tâm Lý Học Tiến Hóa Về Giới Tính",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "index.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+          "mental-models/index.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md"
+        ],
+        "words": 1810,
+        "summary": "!Tình Nghĩa Là Hạ Tầng Cuối Cùng"
       },
       {
         "path": "mental-models/Privacy Is The New Wealth.md",
@@ -10140,63 +10205,6 @@
         ],
         "words": 1150,
         "summary": "**Tâm Bất Biến không phải là không cảm thấy gì. Nó là khả năng cảm thấy đầy đủ mà không để cơn sóng bên trong cướp tay lái.** Người có tâm bất biến vẫn đau, vẫn thương, vẫn giận, vẫn hành động; khác biệt là họ không để phản ứng đầu tiên trở thành mệnh lệnh cu…"
-      },
-      {
-        "path": "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-        "title": "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-        "domain": "mental-models",
-        "tags": [
-          "care-economy",
-          "covenant",
-          "dopamine-economy",
-          "family",
-          "marriage",
-          "mental-models"
-        ],
-        "aliases": [
-          "Covenant Và Care Work",
-          "Marriage as Last Infrastructure",
-          "Nghĩa Tình Vợ Chồng"
-        ],
-        "headings": [
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-          "Covenant Không Phải Subscription",
-          "Dopamine Market Và Sự Phản Bội Nhẹ Nhàng",
-          "Care Work Là Cơ Sở Hạ Tầng Vô Hình",
-          "Về Già Mới Biết Tình Yêu Có Thật Không",
-          "Ma Trận Ghét Những Hạ Tầng Không Trung Gian",
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-          "Publication Pack / Family, Dopamine & Orphan Train"
-        ],
-        "wikilinks": [
-          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Ma Trận",
-          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
-          "Tâm Lý Học Tiến Hóa Về Giới Tính",
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
-        ],
-        "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-          "index.md",
-          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
-          "mental-models/index.md",
-          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md"
-        ],
-        "words": 1810,
-        "summary": "!Tình Nghĩa Là Hạ Tầng Cuối Cùng"
       },
       {
         "path": "mental-models/Chia Tách Bởi Nhị Nguyên.md",
@@ -10499,6 +10507,66 @@
         "summary": "Năm 18 tuổi, mình từng đọc được ở đâu đó rằng: 1 lần chơi đá (Meth) có thể mang đến cảm giác của 10 lần làm tình. Từng viết 1 truyện ngắn với tiêu đề này (lạc đâu mất rồi), và sau đó cứ băn khoăn mãi về cái fact này, tự hỏi khi nào mình được kiểm chứng? 20 nă…"
       },
       {
+        "path": "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+        "title": "Giàu Không Phải Để Vợ Không Làm Gì",
+        "domain": "mental-models",
+        "tags": [
+          "agency",
+          "care-economy",
+          "family",
+          "financial-sovereignty",
+          "income-ladder",
+          "loosh",
+          "matrix",
+          "mental-models"
+        ],
+        "aliases": [
+          "Family Sovereignty Over Market Capture",
+          "Giàu Không Phải Để Vợ Ở Nhà",
+          "Giàu Để Gia Đình Có Quyền Chọn",
+          "Provider Fantasy Và Care Economy"
+        ],
+        "headings": [
+          "Giàu Không Phải Để Vợ Không Làm Gì",
+          "Cách Đọc Bài Này",
+          "1. Provider Fantasy Và Cái Bẫy Của Sự Dễ Chịu",
+          "2. Girlboss Fantasy Và Cái Bẫy Của Bình Đẳng Kiệt Sức",
+          "3. Care Là Hạ Tầng Mà Thị Trường Không Trả Lương",
+          "4. Dual-Income Necessity: Cả Nhà Bị Kéo Ra Khỏi Nhà",
+          "5. Lương Ladder: Mỗi Tầng Thu Nhập Là Một Kiểu Đau Của Gia Đình",
+          "6. Runway: Tiền Đúng Nghĩa Là Quyền Chọn",
+          "7. Family Sovereignty: Không Ai Là Máy Kiếm Tiền, Không Ai Là Người Phụ Thuộc Vô Hình",
+          "8. Tình Nghĩa Là Counterspell Của Market Capture",
+          "9. Exit: Giàu Để Bảo Vệ Care",
+          "Related Reading"
+        ],
+        "wikilinks": [
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+          "Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md"
+        ],
+        "words": 3360,
+        "summary": "Có một hình mẫu nghe rất ngọt: người chồng kiếm thật nhiều tiền để vợ không cần làm gì."
+      },
+      {
         "path": "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
         "title": "Sự Thật Ẩn Sau Con Người Bạn",
         "domain": "mental-models",
@@ -10553,52 +10621,6 @@
         ],
         "words": 1498,
         "summary": "**Bạn không chỉ là một cá nhân tách rời đang cố sống sót trong một vũ trụ lạnh. Bạn là một điểm nhìn của toàn thể, đang học cách nhớ lại mối liên hệ đã bị che bởi thân xác, ngôn ngữ, trauma, giáo dục và Ma Trận.** Khoa học hiện đại không \"chứng minh\" toàn bộ…"
-      },
-      {
-        "path": "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "title": "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?",
-        "domain": "mental-models",
-        "tags": [
-          "science-tech"
-        ],
-        "aliases": [
-          "Dừng Lại Được Chưa?",
-          "Thế Hệ Dâu Tây — Mệt Rồi"
-        ],
-        "headings": [
-          "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?",
-          "Hai Mươi Lăm Năm Đầu Đời",
-          "Nâng Cấp Vô Tận",
-          "Khi Mọi Thứ Đều Có ROI",
-          "Sợ Mất Mặt Hơn Sợ Mất Mình",
-          "Tuổi Thơ Ném Cho Trung Tâm, Tuổi Già Giao Cho Người Giúp Việc",
-          "\"Thế Hệ Dâu Tây\" — Yếu Đuối Hay Tỉnh Táo?",
-          "Thắng Cuộc Đua, Nhưng Phần Thưởng Là Gì?",
-          "Dừng Lại Được Chưa?",
-          "Một Lời Kết Nhẹ",
-          "Đọc Thêm"
-        ],
-        "wikilinks": [
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Gen Z - Phân Tích Phản Biện",
-          "Individuation",
-          "Nghịch Lý Của Hiểu Biết"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/Individuation.md"
-        ],
-        "backlinks": [
-          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-          "index.md",
-          "mental-models/index.md",
-          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md"
-        ],
-        "words": 2643,
-        "summary": "*The Strawberry Generation — Tired Already, Can We Stop Yet?*"
       },
       {
         "path": "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
@@ -10658,10 +10680,57 @@
         ],
         "backlinks": [
           "index.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/index.md"
         ],
         "words": 3393,
         "summary": "Video của Bin Tài Chính về cuộc sống ở các mức thu nhập là một cửa vào tốt: 5 triệu, 15 triệu, 50 triệu, 100 triệu, 500 triệu. Nhưng nếu chỉ đọc nó như tài chính cá nhân, bài học sẽ dừng ở mức “kiếm nhiều hơn, quản lý tốt hơn, đừng lifestyle inflation”. Đúng,…"
+      },
+      {
+        "path": "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "title": "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?",
+        "domain": "mental-models",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [
+          "Dừng Lại Được Chưa?",
+          "Thế Hệ Dâu Tây — Mệt Rồi"
+        ],
+        "headings": [
+          "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?",
+          "Hai Mươi Lăm Năm Đầu Đời",
+          "Nâng Cấp Vô Tận",
+          "Khi Mọi Thứ Đều Có ROI",
+          "Sợ Mất Mặt Hơn Sợ Mất Mình",
+          "Tuổi Thơ Ném Cho Trung Tâm, Tuổi Già Giao Cho Người Giúp Việc",
+          "\"Thế Hệ Dâu Tây\" — Yếu Đuối Hay Tỉnh Táo?",
+          "Thắng Cuộc Đua, Nhưng Phần Thưởng Là Gì?",
+          "Dừng Lại Được Chưa?",
+          "Một Lời Kết Nhẹ",
+          "Đọc Thêm"
+        ],
+        "wikilinks": [
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Gen Z - Phân Tích Phản Biện",
+          "Individuation",
+          "Nghịch Lý Của Hiểu Biết"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/Individuation.md"
+        ],
+        "backlinks": [
+          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md"
+        ],
+        "words": 2643,
+        "summary": "*The Strawberry Generation — Tired Already, Can We Stop Yet?*"
       },
       {
         "path": "mental-models/UBI Conditioning - The End of Work Ethic.md",
@@ -13040,6 +13109,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "June 17, 2026",
           "June 16, 2026",
           "June 14, 2026",
           "June 13, 2026",
@@ -13087,6 +13157,7 @@
           "Gematria",
           "Gen Z - Phân Tích Phản Biện",
           "Gen Z và CBDC - Programmable Money Psychology",
+          "Giàu Không Phải Để Vợ Không Làm Gì",
           "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
           "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
           "Glossary - Từ Điển Red Pill Wiki",
@@ -13278,6 +13349,7 @@
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/index.md",
           "mental-models/Individuation.md",
           "mental-models/Luân Hồi Trên Home Screen.md",
@@ -13348,7 +13420,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 3803,
+        "words": 3858,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -15639,6 +15711,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "June 17, 2026",
         "June 16, 2026",
         "June 14, 2026",
         "June 13, 2026",
@@ -15686,6 +15759,7 @@
         "Gematria",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Giàu Không Phải Để Vợ Không Làm Gì",
         "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Glossary - Từ Điển Red Pill Wiki",
@@ -15877,6 +15951,7 @@
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
@@ -15947,7 +16022,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 3803,
+      "words": 3858,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -17019,6 +17094,7 @@
         "esoterica/index",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Giàu Không Phải Để Vợ Không Làm Gì",
         "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Individuation",
@@ -17072,6 +17148,7 @@
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Individuation.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Mental Model.md",
@@ -17111,7 +17188,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1437,
+      "words": 1502,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
@@ -19808,11 +19885,11 @@
       23
     ],
     [
-      "crypto-finance",
-      15
+      "matrix",
+      16
     ],
     [
-      "matrix",
+      "crypto-finance",
       15
     ],
     [
@@ -19844,6 +19921,10 @@
       8
     ],
     [
+      "mental-models",
+      8
+    ],
+    [
       "generation",
       7
     ],
@@ -19857,10 +19938,6 @@
     ],
     [
       "propaganda",
-      7
-    ],
-    [
-      "mental-models",
       7
     ],
     [
@@ -19884,6 +19961,10 @@
       6
     ],
     [
+      "care-economy",
+      6
+    ],
+    [
       "meta",
       5
     ],
@@ -19904,7 +19985,7 @@
       5
     ],
     [
-      "care-economy",
+      "family",
       5
     ],
     [
@@ -19944,15 +20025,15 @@
       4
     ],
     [
-      "family",
-      4
-    ],
-    [
       "dopamine-economy",
       4
     ],
     [
       "cbdc",
+      3
+    ],
+    [
+      "financial-sovereignty",
       3
     ],
     [
@@ -20004,11 +20085,11 @@
       3
     ],
     [
-      "bitcoin",
-      2
+      "loosh",
+      3
     ],
     [
-      "financial-sovereignty",
+      "bitcoin",
       2
     ],
     [
@@ -20044,11 +20125,11 @@
       2
     ],
     [
-      "loosh",
+      "orphan-train",
       2
     ],
     [
-      "orphan-train",
+      "agency",
       2
     ],
     [
@@ -20177,10 +20258,6 @@
     ],
     [
       "hollywood",
-      1
-    ],
-    [
-      "relationships",
       1
     ]
   ],
@@ -21996,6 +22073,7 @@
         "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/index.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
@@ -24417,6 +24495,7 @@
         "index.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
         "MOC - Esoterica & Consciousness.md",
@@ -29706,6 +29785,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "June 17, 2026",
         "June 16, 2026",
         "June 14, 2026",
         "June 13, 2026",
@@ -29753,6 +29833,7 @@
         "Gematria",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Giàu Không Phải Để Vợ Không Làm Gì",
         "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Glossary - Từ Điển Red Pill Wiki",
@@ -29944,6 +30025,7 @@
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
@@ -30014,7 +30096,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 3803,
+      "words": 3858,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
@@ -30259,6 +30341,7 @@
         "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
         "index.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/index.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -30490,6 +30573,7 @@
         "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/index.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -30609,6 +30693,66 @@
       ],
       "words": 1333,
       "summary": "**Gen Z không phải thế hệ hỏng, cũng không phải thế hệ cứu thế giới. Họ là thế hệ đầu tiên lớn lên trong một thực tại nơi attention, identity, money, work, fear và body đều được platform hóa trước khi họ đủ lớn để gọi tên điều đó. Muốn hiểu Gen Z, đừng hỏi họ…"
+    },
+    "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md": {
+      "path": "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+      "title": "Giàu Không Phải Để Vợ Không Làm Gì",
+      "domain": "mental-models",
+      "tags": [
+        "agency",
+        "care-economy",
+        "family",
+        "financial-sovereignty",
+        "income-ladder",
+        "loosh",
+        "matrix",
+        "mental-models"
+      ],
+      "aliases": [
+        "Family Sovereignty Over Market Capture",
+        "Giàu Không Phải Để Vợ Ở Nhà",
+        "Giàu Để Gia Đình Có Quyền Chọn",
+        "Provider Fantasy Và Care Economy"
+      ],
+      "headings": [
+        "Giàu Không Phải Để Vợ Không Làm Gì",
+        "Cách Đọc Bài Này",
+        "1. Provider Fantasy Và Cái Bẫy Của Sự Dễ Chịu",
+        "2. Girlboss Fantasy Và Cái Bẫy Của Bình Đẳng Kiệt Sức",
+        "3. Care Là Hạ Tầng Mà Thị Trường Không Trả Lương",
+        "4. Dual-Income Necessity: Cả Nhà Bị Kéo Ra Khỏi Nhà",
+        "5. Lương Ladder: Mỗi Tầng Thu Nhập Là Một Kiểu Đau Của Gia Đình",
+        "6. Runway: Tiền Đúng Nghĩa Là Quyền Chọn",
+        "7. Family Sovereignty: Không Ai Là Máy Kiếm Tiền, Không Ai Là Người Phụ Thuộc Vô Hình",
+        "8. Tình Nghĩa Là Counterspell Của Market Capture",
+        "9. Exit: Giàu Để Bảo Vệ Care",
+        "Related Reading"
+      ],
+      "wikilinks": [
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+        "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+        "Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md"
+      ],
+      "words": 3360,
+      "summary": "Có một hình mẫu nghe rất ngọt: người chồng kiếm thật nhiều tiền để vợ không cần làm gì."
     },
     "mental-models/Individuation.md": {
       "path": "mental-models/Individuation.md",
@@ -31149,6 +31293,7 @@
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/index.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md"
@@ -32044,6 +32189,7 @@
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/index.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -32173,6 +32319,7 @@
       ],
       "backlinks": [
         "index.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/index.md"
       ],
       "words": 3393,
@@ -32352,6 +32499,7 @@
         "esoterica/index",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Giàu Không Phải Để Vợ Không Làm Gì",
         "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Individuation",
@@ -32405,6 +32553,7 @@
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Individuation.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Mental Model.md",
@@ -32444,7 +32593,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1437,
+      "words": 1502,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
