@@ -289,10 +289,10 @@ Nếu BTC đúng trong 5 năm nhưng cấu trúc vốn cần tiền mặt trong 
 
 Giá MSTR và STRC quan trọng, nhưng không phải vì bản thân con số đó có ma thuật. Chúng quan trọng vì chúng cho biết chi phí vốn.
 
-- **MSTR mức cộng thêm cao** = vốn cổ phiếu thường rẻ.
+- **MSTR được trả giá chênh cao** = vốn cổ phiếu thường rẻ.
 - **STRC gần 100** = vốn cổ phiếu ưu đãi rẻ.
 - **STRC 80-90** = vốn cổ phiếu ưu đãi đắt.
-- **MSTR gần giá trị tài sản ròng hoặc dưới giá trị tài sản ròng** = cỗ máy phát hành cổ phiếu thường yếu.
+- **MSTR gần hoặc dưới giá trị tài sản ròng** = cỗ máy phát hành cổ phiếu thường yếu.
 
 Câu hỏi sống còn không phải:
 
@@ -307,11 +307,11 @@ Nếu vẫn có người mua STRC ở 80 vì họ tin BTC sẽ hồi mạnh, Str
 
 Vì vậy công thức thật là:
 
-**Fresh USD inflow > cổ tức/tiền lãi/cổ tức phải đốt + nhu cầu dự trữ.**
+**Dòng USD mới vào > cổ tức + lãi vay phải trả + nhu cầu dự trữ.**
 
 và:
 
-**Expected BTC appreciation > chi phí vốn.**
+**Mức tăng giá BTC kỳ vọng > chi phí vốn.**
 
 Khi hai điều này đúng, Saylor còn chơi. Khi một trong hai gãy, cái hộp bắt đầu bị quyền đòi ăn ngược lại.
 
@@ -327,15 +327,15 @@ Giả sử BTC từ vùng 64-65k giảm thêm khoảng 30%:
 Đây là vùng stress rất khác với một cú nhịp điều chỉnh bình thường. Ở vùng đó, thị trường sẽ hỏi:
 
 - STRC còn bán được không?
-- MSTR còn mức cộng thêm không?
-- Strategy có phải tăng cổ tức mức cổ tức không?
-- tiền mặt dự trữ đủ bao lâu?
-- có dấu hiệu bán BTC không?
-- thị trường vốn còn mở cho Saylor không?
+- MSTR còn được trả giá chênh không?
+- Strategy có phải tăng mức cổ tức không?
+- Tiền mặt dự trữ đủ bao lâu?
+- Có dấu hiệu bán BTC không?
+- Thị trường vốn còn mở cho Saylor không?
 
 Nếu thị trường vẫn tin BTC sẽ vượt đỉnh cũ, Saylor có thể phát hành vốn đắt để mua BTC rẻ. Đây là logic của ông ta:
 
-Logic của Saylor là: tôi trả chi phí vốn cao hôm nay để mua BTC ở vùng thấp. Nếu BTC vượt đỉnh cũ, tôi có thể tái cấp lại nguồn vốn đắt bằng vốn rẻ hơn.
+Tôi chấp nhận trả chi phí vốn cao hôm nay để mua BTC ở vùng thấp. Nếu BTC vượt đỉnh cũ, tôi có thể tái cấp lại nguồn vốn đắt bằng vốn rẻ hơn.
 
 Điều này không phi lý nếu bạn cực tin tăng giá mạnh BTC và tiếp cận được nguồn vốn. Nhưng nó cực nguy hiểm nếu BTC đi ngang lâu hoặc tiếp tục giảm.
 
@@ -345,54 +345,52 @@ Logic của Saylor là: tôi trả chi phí vốn cao hôm nay để mua BTC ở
 
 Exit của Saylor không nhất thiết là bán BTC. Nếu ông ta đúng và BTC hồi mạnh vượt đỉnh cũ, exit đẹp nhất là:
 
-**Exit khỏi vốn đắt, không phải exit khỏi Bitcoin.**
+**Thoát khỏi nguồn vốn đắt, không phải thoát khỏi Bitcoin.**
 
 Kịch bản:
 
 - BTC rơi mạnh.
 - Strategy phát hành vốn đắt để sống và mua thêm BTC.
 - BTC hồi đỉnh cũ.
-- MSTR mức cộng thêm mở lại.
-- rủi ro STRC giảm, hồi gần mệnh giá.
+- Phần giá chênh của MSTR mở lại.
+- Rủi ro STRC giảm, giá hồi gần mệnh giá.
 - Strategy phát hành vốn rẻ hơn.
 - Strategy tái cấp vốn hoặc mua lại cổ phiếu ưu đãi đắt.
 - Strategy xây quỹ dự trữ và mua thêm BTC.
 
-Đây là bài bản gọi vốn trên thị trường vốn:
-
-Cách chơi thị trường vốn ở đây là: gọi vốn đắt trong lúc căng thẳng, dùng sự hồi phục của tài sản để tái cấp vốn rẻ hơn, giữ tài sản, rồi cuốn cấu trúc vốn sang vòng sau.
+Đây là bài bản gọi vốn trên thị trường vốn: gọi vốn đắt trong lúc căng thẳng, dùng sự hồi phục của tài sản để tái cấp vốn rẻ hơn, giữ tài sản, rồi cuốn cấu trúc vốn sang vòng sau.
 
 Nếu thành công, Saylor không cần nói “tôi chốt lời”. Ông ta chỉ cần nói:
 
-“We tối ưu cấu trúc vốn và tăng lượng BTC tính trên mỗi cổ phiếu.”
+“Chúng tôi đã tối ưu cấu trúc vốn và tăng lượng BTC tính trên mỗi cổ phiếu.”
 
-Lợi nhuận cá nhân của Saylor nằm ở cổ phiếu thường MSTR, quyền kiểm soát, vị thế và mức cộng thêm của cái hộp BTC, không nằm ở STRC cổ tức. Nếu MSTR giá trị vốn hóa thị trường tăng mạnh, Saylor giàu lên qua cổ phần thường. Nếu muốn tiền mặt, ông ta có thể bán cổ phiếu cá nhân, vay thế chấp bằng cổ phiếu, hoặc dùng kế hoạch bán có cấu trúc. Tiền mặt công ty gọi được không đi thẳng vào túi cá nhân, nhưng nó làm cái hộp ông ta kiểm soát lớn hơn nếu thị trường định giá nó cao hơn.
+Lợi nhuận cá nhân của Saylor nằm ở cổ phiếu thường MSTR, quyền kiểm soát, vị thế và phần giá chênh của cái hộp BTC, không nằm ở cổ tức STRC. Nếu giá trị vốn hóa thị trường của MSTR tăng mạnh, Saylor giàu lên qua cổ phần thường. Nếu muốn tiền mặt, ông ta có thể bán cổ phiếu cá nhân, vay thế chấp bằng cổ phiếu, hoặc dùng kế hoạch bán có cấu trúc. Tiền mặt công ty gọi được không đi thẳng vào túi cá nhân, nhưng nó làm cái hộp ông ta kiểm soát lớn hơn nếu thị trường định giá nó cao hơn.
 
 ---
 
-## 11. Khi Nào Game Gãy?
+## 11. Khi Nào Trò Chơi Gãy?
 
-Game không gãy chỉ vì BTC giảm. Nó gãy khi niềm tin không còn đủ để nguồn vốn hiện tại.
+Trò chơi không gãy chỉ vì BTC giảm. Nó gãy khi niềm tin không còn đủ để duy trì nguồn vốn hiện tại.
 
 Các tín hiệu nguy hiểm:
 
 1. **STRC chiết khấu sâu và kéo dài**
    Không chỉ một ngày hoảng loạn, mà nhiều tuần/tháng dưới mệnh giá khiến kênh cổ phiếu ưu đãi đắt lên.
 
-2. **MSTR mức cộng thêm co mạnh hoặc biến mất**
+2. **Phần giá chênh của MSTR co mạnh hoặc biến mất**
    Nếu MSTR chỉ còn giao dịch như giá trị tài sản ròng trừ nghĩa vụ phải trả, phát hành cổ phiếu thường mất phép màu.
 
 3. **Mức cổ tức phải tăng mạnh**
    Điều này có thể kéo nhu cầu mua, nhưng cũng xác nhận chi phí vốn tăng.
 
 4. **Strategy phải bán BTC để trả cổ tức/dự trữ**
-   Đây là symbolic rupture: từ accumulator thành potential forced seller.
+   Đây là vết nứt biểu tượng: từ người tích lũy BTC trở thành người có thể bị ép bán BTC.
 
-5. **Công cụ tài chính mới phải đưa điều khoản ngày càng độc**
+5. **Chứng khoán mới phải đưa điều khoản ngày càng nặng**
    Mỗi vòng gọi vốn mới đắt hơn vòng trước cho thấy chồng quyền đòi đang nặng lên.
 
 6. **BTC không hồi đủ nhanh**
-   Không cần BTC về zero. Chỉ cần nằm thấp đủ lâu để nghĩa vụ tiền mặts compound.
+   Không cần BTC về 0. Chỉ cần nằm thấp đủ lâu để nghĩa vụ tiền mặt chồng lên nhau.
 
 Câu hỏi không phải:
 
@@ -406,20 +404,20 @@ Mà là:
 
 ## 12. Bài Học Về Trò Chơi Tài Chính
 
-![Saylor Game Quyền đòi Stack](../assets/illustrations/saylor-game-quyền đòi-stack.png)
+![Chồng Quyền Đòi Quanh Cái Hộp Bitcoin](../assets/illustrations/saylor-game-claim-stack.png)
 
-Case Saylor/MSTR/STRC dạy một bài rất lớn: trong finance, tài sản chỉ là một nửa câu chuyện. Nửa còn lại là **quyền đòi structure**.
+Case Saylor/MSTR/STRC dạy một bài rất lớn: trong tài chính, tài sản chỉ là một nửa câu chuyện. Nửa còn lại là **cấu trúc quyền đòi**.
 
-Một cái hộp có thể chứa tài sản tốt. Nhưng nếu cái hộp đó bị phủ quá nhiều quyền đòi đòi tiền mặt, phần tăng giá của tài sản không tự động cứu mọi tầng người nắm giữ.
+Một cái hộp có thể chứa tài sản tốt. Nhưng nếu cái hộp đó bị phủ quá nhiều lớp quyền đòi cần tiền mặt, phần tăng giá của tài sản không tự động cứu mọi tầng người nắm giữ.
 
 - **Người nắm giữ BTC trực tiếp:** cầm tài sản.
-- **Người cầm cổ phiếu thường MSTR:** cầm quyền đòi cổ phần lên cái hộp BTC, ăn phần tăng giá nhưng chịu pha loãng/biến động mạnh.
-- **Người cầm STRC:** cầm quyền đòi lợi suất ưu đãi, phần tăng giá bị giới hạn, chịu rủi ro tín dụng của công ty phát hành.
-- **Saylor/người nội bộ:** hưởng cổ phần thường/control/mức cộng thêm nếu cái hộp được thị trường định giá cao.
+- **Người nắm giữ cổ phiếu thường MSTR:** nắm cổ phần thường của cái hộp BTC, hưởng phần tăng giá nhưng chịu pha loãng và biến động mạnh.
+- **Người nắm giữ STRC:** nắm cổ phiếu ưu đãi, phần tăng giá bị giới hạn, chịu rủi ro công ty không đủ sức trả cổ tức.
+- **Saylor/người nội bộ:** hưởng cổ phần thường, quyền kiểm soát và phần giá chênh nếu cái hộp được thị trường định giá cao.
 
 Không phải ai trong cùng một câu chuyện niềm tin cũng ăn cùng một kết quả tiền bạc.
 
-Đây là chỗ người mới dễ bị lừa bởi câu chuyện chung. Họ nghe “Strategy mua Bitcoin” rồi tưởng mọi công cụ tài chính quanh Strategy đều là Bitcoin exposure. Không phải. Mỗi tầng quyền đòi có kết quả tiền bạc khác nhau.
+Đây là chỗ người mới dễ bị lừa bởi câu chuyện chung. Họ nghe “Strategy mua Bitcoin” rồi tưởng mọi công cụ tài chính quanh Strategy đều là cách tiếp xúc trực tiếp với Bitcoin. Không phải. Mỗi tầng quyền đòi có kết quả tiền bạc khác nhau.
 
 ---
 
@@ -610,7 +608,7 @@ Nếu Strategy thật sự muốn sống nhiều chu kỳ, lúc BTC hồi mạnh
 
 Đây là cách thoát đúng theo nghĩa vốn structure:
 
-**Exit khỏi vốn đắt, không phải exit khỏi Bitcoin.**
+**Thoát khỏi nguồn vốn đắt, không phải thoát khỏi Bitcoin.**
 
 Nếu làm được, Strategy có thể trở thành một Bitcoin treasury định chế thật sự bền hơn. Nhưng đây là yêu cầu về kỷ luật, không phải conviction.
 
