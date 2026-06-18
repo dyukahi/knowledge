@@ -30,18 +30,18 @@ Michael Saylor và Strategy, trước đây là MicroStrategy, thường đượ
 
 Nếu nói thật gọn:
 
-> MSTR = giá thị trường của cái hộp Bitcoin.
-> STRC = sản phẩm yield để hút USD cho cái hộp đó.
-> BTC = tài sản nằm trong hộp, thuộc balance sheet của công ty.
-> Người mua chứng khoán = người cầm claim lên cái hộp, không cầm BTC trực tiếp.
+- **MSTR** = giá thị trường của cái hộp Bitcoin.
+- **STRC** = sản phẩm yield để hút USD cho cái hộp đó.
+- **BTC** = tài sản nằm trong hộp, thuộc balance sheet của công ty.
+- **Người mua chứng khoán** = người cầm claim lên cái hộp, không cầm BTC trực tiếp.
 
 Bài này không nhằm kết luận Strategy phạm pháp hay là Ponzi theo nghĩa luật. Một security có thể hợp pháp, niêm yết Nasdaq, có prospectus, có disclosure đầy đủ, nhưng vẫn mang cấu trúc kinh tế phụ thuộc vào niềm tin, vốn mới và giá tài sản. Câu hỏi của vault không phải “nó có legal không?” mà là:
 
-> Cơ chế dòng tiền thật là gì?
-> Ai đưa tiền vào?
-> Ai nhận yield?
-> Ai ăn upside?
-> Ai giữ claim khi vòng quay đảo chiều?
+- Cơ chế dòng tiền thật là gì?
+- Ai đưa tiền vào?
+- Ai nhận yield?
+- Ai ăn upside?
+- Ai giữ claim khi vòng quay đảo chiều?
 
 ---
 
@@ -67,11 +67,7 @@ Nếu bạn mua Bitcoin spot và tự custody, bạn có BTC. Nếu bạn mua MS
 
 Vì vậy MSTR không chỉ là “Bitcoin proxy”. Nó là:
 
-> BTC NAV
-> + niềm tin vào Saylor
-> + khả năng gọi vốn tương lai
-> + premium của public-market wrapper
-> - liabilities / dilution / capital stack risk
+MSTR được thị trường định giá như một tổ hợp gồm: **BTC NAV**, cộng với **niềm tin vào Saylor**, **khả năng gọi vốn tương lai**, **premium của public-market wrapper**, rồi trừ đi **liabilities, dilution và capital-stack risk**.
 
 Khi mọi thứ thuận, MSTR có thể trade như một “cái hộp BTC” được định giá cao hơn số BTC bên trong. Khi mọi thứ nghịch, thị trường bắt đầu hỏi: cái hộp này có bao nhiêu claim đang chồng lên nó?
 
@@ -83,26 +79,23 @@ MSTR common equity là tầng ăn upside rõ nhất trong hệ thống.
 
 Nếu BTC tăng mạnh:
 
-> BTC trong hộp tăng giá
-> → NAV của công ty tăng
-> → market có thể trả premium cao hơn
-> → MSTR common tăng mạnh hơn BTC
+- BTC trong hộp tăng giá.
+- NAV của công ty tăng.
+- Market có thể trả premium cao hơn.
+- MSTR common tăng mạnh hơn BTC.
 
 Đây là lý do MSTR hấp dẫn với người tin Bitcoin nhưng muốn chơi bằng public equity. Họ không chỉ muốn exposure với BTC. Họ muốn exposure với **máy gọi vốn mua BTC**.
 
 Saylor’s game không chỉ là:
 
-> mua BTC rồi chờ BTC lên
+**Mua BTC rồi chờ BTC lên.**
 
 Mà là:
 
-> khi MSTR được định giá premium
-> → phát hành giấy claim lấy USD
-> → mua thêm BTC
-> → cái hộp BTC to hơn
-> → narrative mạnh hơn
-> → premium có thể mở rộng hơn
-> → phát hành tiếp
+- Khi MSTR được định giá premium, Strategy phát hành giấy claim để lấy USD.
+- USD đó được dùng để mua thêm BTC.
+- Cái hộp BTC to hơn, narrative mạnh hơn.
+- Nếu premium mở rộng, Strategy lại có thể phát hành tiếp.
 
 Đây là reflexive loop.
 
@@ -131,16 +124,16 @@ STRC hiện được Strategy mô tả là một preferred stock trả dividend 
 
 Nhưng điều quan trọng nhất:
 
-> STRC holder không sở hữu Bitcoin trực tiếp.
-> STRC holder không ăn full upside nếu BTC tăng 10x.
-> STRC holder nhận dividend nếu được declare, và có claim ưu tiên hơn common trên residual assets.
+- STRC holder không sở hữu Bitcoin trực tiếp.
+- STRC holder không ăn full upside nếu BTC tăng 10x.
+- STRC holder nhận dividend nếu được declare, và có claim ưu tiên hơn common trên residual assets.
 
 Nếu BTC tăng mạnh, STRC holder không tự động giàu như người cầm MSTR common. STRC chỉ được lợi gián tiếp vì balance sheet của Strategy khỏe hơn, khả năng trả dividend nhìn an toàn hơn, và giá STRC có thể quay về gần par.
 
 Nói brutal:
 
-> MSTR bán câu chuyện upside của cái hộp BTC.
-> STRC bán câu chuyện income/yield để funding cái hộp BTC.
+- **MSTR** bán câu chuyện upside của cái hộp BTC.
+- **STRC** bán câu chuyện income/yield để funding cái hộp BTC.
 
 ---
 
@@ -166,10 +159,10 @@ Các nguồn khả dĩ:
 
 Vậy dòng tiền thực có thể tóm lại như sau:
 
-> Người mua STRC/common/debt đưa USD cho Strategy.
-> Strategy dùng USD để mua BTC, giữ reserve, trả dividend/coupon.
-> Dividend không đến từ BTC yield, vì BTC không có yield.
-> Dividend đến từ corporate balance sheet và capital markets access.
+- Người mua STRC, common hoặc debt đưa USD cho Strategy.
+- Strategy dùng USD để mua BTC, giữ reserve, trả dividend/coupon.
+- Dividend không đến từ BTC yield, vì BTC không có yield.
+- Dividend đến từ corporate balance sheet và capital markets access.
 
 Nếu mọi thứ thuận, vốn mới vào đủ đều, BTC tăng, MSTR premium mở rộng, và dividend nhìn bền. Nếu mọi thứ nghịch, câu hỏi trở lại rất trần:
 
@@ -185,10 +178,10 @@ Câu trả lời: vì Strategy cần **bán STRC mới**, không chỉ cần STR
 
 Nếu A mua STRC ở 100 rồi bán cho B ở 90:
 
-> A lỗ 10.
-> B có yield cao hơn.
-> Strategy không nhận thêm USD.
-> Strategy vẫn phải trả dividend trên stated amount.
+- A lỗ 10.
+- B có yield cao hơn.
+- Strategy không nhận thêm USD.
+- Strategy vẫn phải trả dividend trên stated amount.
 
 Secondary market không đưa tiền mới vào công ty. Nó chỉ chuyển STRC từ tay người này sang tay người khác.
 
@@ -215,9 +208,9 @@ Ví dụ đơn giản:
 
 Vậy STRC dưới par không giết Strategy ngay. Nhưng nó nói rằng cost of capital đã tăng.
 
-> STRC gần 100 = funding channel còn khỏe.
-> STRC 90 = funding channel bị thương.
-> STRC 80 = market bắt đầu định giá nó như distressed credit.
+- **STRC gần 100** = funding channel còn khỏe.
+- **STRC 90** = funding channel bị thương.
+- **STRC 80** = market bắt đầu định giá nó như distressed credit.
 
 ---
 
@@ -231,11 +224,11 @@ Cần phân biệt hai tầng.
 
 Đây là nơi “đa cấp vibes” xuất hiện:
 
-> người mua instrument mới đưa USD vào
-> → công ty có cash
-> → trả dividend cho preferred holders
-> → duy trì hình ảnh yield product hoạt động
-> → thu hút thêm người mua instrument mới
+- Người mua instrument mới đưa USD vào.
+- Công ty có cash.
+- Công ty trả dividend cho preferred holders.
+- Hình ảnh yield product đang hoạt động được duy trì.
+- Điều đó giúp thu hút thêm người mua instrument mới.
 
 Nó không giống đa cấp retail về hình thức. Không có tuyến dưới đi tuyển tuyến dưới. Không có hoa hồng kiểu MLM. Nhưng grammar dòng tiền có điểm tương đồng:
 
@@ -252,13 +245,11 @@ Nó không giống đa cấp retail về hình thức. Không có tuyến dướ
 
 Nhưng những thứ đó không xóa câu hỏi cơ bản:
 
-> Yield này đến từ đâu?
-> Nếu không từ business cash flow, nó đến từ vốn mới, reserve hoặc asset sale.
+Yield này đến từ đâu? Nếu không từ business cash flow, nó đến từ vốn mới, reserve hoặc asset sale.
 
 Nói theo ngôn ngữ vault:
 
-> Không nhất thiết là Ponzi pháp lý.
-> Nhưng có thể là Ponzi-shaped funding dependency.
+Không nhất thiết là Ponzi pháp lý. Nhưng nó có thể là một **Ponzi-shaped funding dependency**.
 
 ---
 
@@ -268,24 +259,23 @@ Saylor không cần BTC lên mỗi ngày. Ông ta cần thị trường tiếp t
 
 Đây là core game:
 
-> Saylor không trade BTC spot.
-> Saylor trade niềm tin vào BTC tương lai.
+Saylor không trade BTC spot. Ông ta trade **niềm tin vào BTC tương lai**.
 
 Nếu BTC giảm từ 65k về 45k, Strategy chưa chắc phải bán BTC. Nếu còn người tin rằng BTC sẽ vượt đỉnh cũ, và còn người chịu mua MSTR/STRC/debt ở một mức cost nào đó, Saylor vẫn có thể:
 
-> issue paper
-> → nhận USD
-> → trả dividend/reserve
-> → mua thêm BTC giá rẻ
-> → chờ chu kỳ hồi
+- Issue paper.
+- Nhận USD.
+- Trả dividend/reserve.
+- Mua thêm BTC giá rẻ.
+- Chờ chu kỳ hồi.
 
 BTC price thấp không tự động giết mô hình. Điều giết mô hình là:
 
-> paper market closes before BTC thesis has time to play out
+**Paper market closes before BTC thesis has time to play out.**
 
 Hay nói cách khác:
 
-> time-to-recovery > funding runway
+**Time-to-recovery > funding runway.**
 
 Nếu BTC đúng trong 5 năm nhưng capital stack cần cash trong 6 tháng, thì thesis dài hạn vẫn có thể chết vì mismatch thời gian.
 
@@ -295,30 +285,29 @@ Nếu BTC đúng trong 5 năm nhưng capital stack cần cash trong 6 tháng, th
 
 Giá MSTR và STRC quan trọng, nhưng không phải vì bản thân con số đó có ma thuật. Chúng quan trọng vì chúng cho biết cost of capital.
 
-> MSTR premium cao = common equity capital rẻ.
-> STRC gần 100 = preferred capital rẻ.
-> STRC 80-90 = preferred capital đắt.
-> MSTR gần NAV hoặc dưới NAV = common equity machine yếu.
+- **MSTR premium cao** = common equity capital rẻ.
+- **STRC gần 100** = preferred capital rẻ.
+- **STRC 80-90** = preferred capital đắt.
+- **MSTR gần NAV hoặc dưới NAV** = common equity machine yếu.
 
 Câu hỏi sống còn không phải:
 
-> MSTR hôm nay tăng hay giảm?
-> STRC hôm nay tăng hay giảm?
+- MSTR hôm nay tăng hay giảm?
+- STRC hôm nay tăng hay giảm?
 
 Mà là:
 
-> Ở mức giá đó, còn ai đưa USD mới cho Strategy không?
-> Và họ đòi cost bao nhiêu?
+Ở mức giá đó, còn ai đưa USD mới cho Strategy không, và họ đòi cost bao nhiêu?
 
 Nếu vẫn có người mua STRC ở 80 vì họ tin BTC sẽ hồi mạnh, Strategy vẫn có thể raise vốn. Nhưng vốn đó đắt hơn. Mỗi vòng issue ở giá thấp/yield cao tạo thêm claim và cash obligation trên cái hộp BTC.
 
 Vì vậy công thức thật là:
 
-> Fresh USD inflow > dividend/coupon burn + reserve need
+**Fresh USD inflow > dividend/coupon burn + reserve need.**
 
 và:
 
-> Expected BTC appreciation > cost of capital
+**Expected BTC appreciation > cost of capital.**
 
 Khi hai điều này đúng, Saylor còn chơi. Khi một trong hai gãy, cái hộp bắt đầu bị claims ăn ngược lại.
 
@@ -328,8 +317,8 @@ Khi hai điều này đúng, Saylor còn chơi. Khi một trong hai gãy, cái h
 
 Giả sử BTC từ vùng 64-65k giảm thêm khoảng 30%:
 
-> 64k × 0.7 ≈ 44.8k
-> 65k × 0.7 ≈ 45.5k
+- 64k × 0.7 ≈ 44.8k.
+- 65k × 0.7 ≈ 45.5k.
 
 Đây là vùng stress rất khác với một cú pullback bình thường. Ở vùng đó, thị trường sẽ hỏi:
 
@@ -342,9 +331,7 @@ Giả sử BTC từ vùng 64-65k giảm thêm khoảng 30%:
 
 Nếu thị trường vẫn tin BTC sẽ vượt đỉnh cũ, Saylor có thể issue vốn đắt để mua BTC rẻ. Đây là logic của ông ta:
 
-> Tôi trả cost of capital cao hôm nay,
-> nhưng tôi mua BTC ở vùng thấp,
-> và nếu BTC vượt ATH, tôi refinance được vốn đắt bằng vốn rẻ hơn.
+Logic của Saylor là: tôi trả cost of capital cao hôm nay để mua BTC ở vùng thấp. Nếu BTC vượt ATH, tôi có thể refinance vốn đắt bằng vốn rẻ hơn.
 
 Điều này không phi lý nếu bạn cực bullish BTC và có access vốn. Nhưng nó cực nguy hiểm nếu BTC đi ngang lâu hoặc tiếp tục giảm.
 
@@ -354,30 +341,26 @@ Nếu thị trường vẫn tin BTC sẽ vượt đỉnh cũ, Saylor có thể i
 
 Exit của Saylor không nhất thiết là bán BTC. Nếu ông ta đúng và BTC hồi mạnh vượt đỉnh cũ, exit đẹp nhất là:
 
-> exit khỏi vốn đắt, không phải exit khỏi Bitcoin
+**Exit khỏi vốn đắt, không phải exit khỏi Bitcoin.**
 
 Kịch bản:
 
-> BTC rơi mạnh
-> → Strategy issue vốn đắt để sống và mua thêm BTC
-> → BTC hồi ATH
-> → MSTR premium mở lại
-> → STRC risk giảm, hồi gần par
-> → Strategy issue vốn rẻ hơn
-> → refinance/redeem preferred đắt
-> → build reserve
-> → mua thêm BTC
+- BTC rơi mạnh.
+- Strategy issue vốn đắt để sống và mua thêm BTC.
+- BTC hồi ATH.
+- MSTR premium mở lại.
+- STRC risk giảm, hồi gần par.
+- Strategy issue vốn rẻ hơn.
+- Strategy refinance hoặc redeem preferred đắt.
+- Strategy build reserve và mua thêm BTC.
 
 Đây là capital markets playbook:
 
-> raise expensive capital in stress
-> use asset recovery to refinance into cheaper capital
-> keep the asset
-> roll the stack forward
+Capital-markets playbook ở đây là: raise expensive capital in stress, use asset recovery to refinance into cheaper capital, keep the asset, then roll the stack forward.
 
 Nếu thành công, Saylor không cần nói “tôi chốt lời”. Ông ta chỉ cần nói:
 
-> We optimized our capital structure and increased BTC per share.
+“We optimized our capital structure and increased BTC per share.”
 
 Lợi nhuận cá nhân của Saylor nằm ở MSTR common equity, control, status và premium của cái hộp BTC, không nằm ở STRC dividend. Nếu MSTR market cap tăng mạnh, Saylor giàu lên qua equity. Nếu muốn cash, ông ta có thể bán cổ phiếu cá nhân, vay against shares, hoặc dùng structured selling. Corporate cash raise không đi thẳng vào túi cá nhân, nhưng nó làm cái hộp ông ta kiểm soát lớn hơn nếu market định giá nó cao hơn.
 
@@ -425,10 +408,10 @@ Case Saylor/MSTR/STRC dạy một bài rất lớn: trong finance, tài sản ch
 
 Một cái hộp có thể chứa tài sản tốt. Nhưng nếu cái hộp đó bị phủ quá nhiều claim đòi cash, upside của tài sản không tự động cứu mọi tầng holder.
 
-> BTC holder trực tiếp: cầm asset.
-> MSTR common holder: cầm equity claim lên cái hộp BTC, ăn upside nhưng chịu dilution/volatility.
-> STRC holder: cầm preferred yield claim, upside capped, chịu issuer credit risk.
-> Saylor/insiders: hưởng equity/control/premium nếu cái hộp được market định giá cao.
+- **BTC holder trực tiếp:** cầm asset.
+- **MSTR common holder:** cầm equity claim lên cái hộp BTC, ăn upside nhưng chịu dilution/volatility.
+- **STRC holder:** cầm preferred yield claim, upside capped, chịu issuer credit risk.
+- **Saylor/insiders:** hưởng equity/control/premium nếu cái hộp được market định giá cao.
 
 Không phải ai trong cùng một narrative cũng ăn cùng một payoff.
 
@@ -440,17 +423,17 @@ Không phải ai trong cùng một narrative cũng ăn cùng một payoff.
 
 Saylor game có thể được tóm lại bằng một vòng:
 
-> turn BTC into collateral narrative
-> turn narrative into public securities
-> turn securities into USD
-> turn USD into more BTC
-> turn more BTC into higher narrative value
+- Turn BTC into collateral narrative.
+- Turn narrative into public securities.
+- Turn securities into USD.
+- Turn USD into more BTC.
+- Turn more BTC into higher narrative value.
 
 Khi vòng này chạy thuận, Saylor trông như central banker của Bitcoin capital markets.
 
 Khi vòng này chạy nghịch, nó lộ ra một câu hỏi rất cũ:
 
-> Ai đang trả yield, bằng dòng tiền nào?
+**Ai đang trả yield, bằng dòng tiền nào?**
 
 STRC làm câu hỏi đó rõ hơn MSTR. MSTR bán upside narrative. STRC bán income narrative. Nhưng cả hai cùng phụ thuộc vào niềm tin rằng cái hộp BTC sẽ tiếp tục được thị trường định giá cao hơn lượng claim đang chồng lên nó.
 
@@ -471,4 +454,4 @@ Câu hỏi cuối cùng không phải “Saylor có tin Bitcoin không?” Có l
 
 Câu hỏi là:
 
-> Có đủ người tin cùng ông ta, đủ lâu, bằng USD thật, để cái hộp sống tới ngày Bitcoin chứng minh niềm tin đó không?
+**Có đủ người tin cùng ông ta, đủ lâu, bằng USD thật, để cái hộp sống tới ngày Bitcoin chứng minh niềm tin đó không?**
