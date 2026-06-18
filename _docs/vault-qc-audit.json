@@ -1,7 +1,7 @@
 {
   "summary": {
     "public_notes": 208,
-    "avg_words": 1557,
+    "avg_words": 1559,
     "missing_description": 0,
     "missing_aliases": 0,
     "thin_lt800": 28,
@@ -167,9 +167,9 @@
       },
       {
         "path": "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
-        "short": 91,
-        "paragraphs": 157,
-        "ratio": 0.58
+        "short": 100,
+        "paragraphs": 176,
+        "ratio": 0.568
       },
       {
         "path": "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
