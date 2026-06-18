@@ -33,7 +33,7 @@ Nếu nói thật gọn:
 - **MSTR** = giá thị trường của cái hộp Bitcoin.
 - **STRC** = cổ phiếu ưu đãi dùng để hút USD cho cái hộp đó; vì BTC không sinh dòng tiền, mô hình phải dùng tiền mặt của công ty, quỹ dự trữ, tái cấp vốn, vốn mới hoặc bán tài sản để trả cổ tức và duy trì đường băng tài chính.
 - **BTC** = tài sản nằm trong hộp, thuộc bảng cân đối của công ty.
-- **Người mua chứng khoán** = người cầm quyền đòi lên cái hộp, không cầm BTC trực tiếp.
+- **Người mua chứng khoán** = người nắm giữ quyền đòi lên cái hộp, không cầm BTC trực tiếp.
 
 Bài này không nhằm kết luận Strategy phạm pháp hay là Ponzi theo nghĩa luật. Một chứng khoán có thể hợp pháp, niêm yết Nasdaq, có bản cáo bạch, có công bố rủi ro đầy đủ, nhưng vẫn mang cấu trúc kinh tế phụ thuộc vào niềm tin, vốn mới và giá tài sản. Câu hỏi của vault không phải “nó có hợp pháp không?” mà là:
 
@@ -123,7 +123,7 @@ Nhưng điều quan trọng nhất:
 - Người cầm STRC không ăn toàn bộ phần tăng giá nếu BTC tăng 10x.
 - Người cầm STRC nhận cổ tức nếu công ty công bố trả, và được xếp trước cổ phiếu thường khi chia tài sản còn lại.
 
-Nếu BTC tăng mạnh, người cầm STRC không tự động giàu như người cầm cổ phiếu thường MSTR. STRC chỉ được lợi gián tiếp vì bảng cân đối của Strategy khỏe hơn, khả năng trả cổ tức nhìn an toàn hơn, và giá STRC có thể quay về gần mệnh giá. Nói cách khác, người cầm STRC đang mua niềm tin rằng **Strategy sẽ luôn có USD đúng kỳ**, không phải quyền sở hữu trực tiếp phần tăng giá của BTC.
+Nếu BTC tăng mạnh, người nắm giữ STRC không tự động giàu như người nắm giữ cổ phiếu thường MSTR. STRC chỉ được lợi gián tiếp vì bảng cân đối của Strategy khỏe hơn, khả năng trả cổ tức nhìn an toàn hơn, và giá STRC có thể quay về gần mệnh giá. Nói cách khác, người nắm giữ STRC đang mua niềm tin rằng **Strategy sẽ luôn có USD đúng kỳ**, không phải quyền sở hữu trực tiếp phần tăng giá của BTC.
 
 Nói thẳng:
 
@@ -159,7 +159,7 @@ Vậy dòng tiền thực có thể tóm lại như sau:
 - Cổ tức không đến từ lợi suất BTC, vì BTC không có lợi suất.
 - Cổ tức đến từ bảng cân đối công ty và khả năng tiếp cận thị trường vốn.
 
-Nếu mọi thứ thuận, vốn mới vào đủ đều, BTC tăng, MSTR mức cộng thêm mở rộng, và cổ tức nhìn bền. Nhưng vì công bố rủi ro không khóa tỷ lệ sử dụng vốn, câu hỏi chất lượng dòng tiền vẫn phải theo dõi qua thời gian: vốn mới đang chủ yếu mở rộng kho bạc Bitcoin, hay đang cuốn tiếp nghĩa vụ tiền mặt của cổ tức/đường băng tài chính? Nếu mọi thứ nghịch, câu hỏi trở lại rất trần:
+Nếu mọi thứ thuận, vốn mới vào đủ đều, BTC tăng, phần giá chênh của MSTR mở rộng, và cổ tức nhìn bền. Nhưng vì công bố rủi ro không khóa tỷ lệ sử dụng vốn, câu hỏi chất lượng dòng tiền vẫn phải theo dõi qua thời gian: vốn mới đang chủ yếu mở rộng kho bạc Bitcoin, hay đang cuốn tiếp nghĩa vụ tiền mặt của cổ tức/đường băng tài chính? Nếu mọi thứ nghịch, câu hỏi trở lại rất trần:
 
 > Nếu không gọi được vốn mới, ai trả cổ tức bằng tiền thật?
 
@@ -167,7 +167,7 @@ Nếu mọi thứ thuận, vốn mới vào đủ đều, BTC tăng, MSTR mức 
 
 ## 5. Tại Sao STRC Cần Giữ Gần $100?
 
-Một người có thể hỏi: nếu STRC rớt từ 100 xuống 90, người cầm cũ lỗ thì kệ họ. Người mua mới ở 90 vẫn nhận cổ tức trên mệnh giá ghi nhận 100, lợi suất thực còn cao hơn. Vậy Strategy cần giữ mệnh giá làm gì?
+Một người có thể hỏi: nếu STRC rớt từ 100 xuống 90, người nắm giữ cũ lỗ thì kệ họ. Người mua mới ở 90 vẫn nhận cổ tức trên mệnh giá ghi nhận 100, lợi suất thực còn cao hơn. Vậy Strategy cần giữ mệnh giá làm gì?
 
 Câu trả lời: vì Strategy cần **bán STRC mới**, không chỉ cần STRC cũ giao dịch qua lại giữa nhà đầu tư. STRC gần mệnh giá không chỉ đẹp trên biểu đồ; nó giúp Strategy thuyết phục người mới đưa USD trực tiếp cho công ty với chi phí hợp lý.
 
@@ -213,7 +213,7 @@ Vậy STRC dưới mệnh giá không giết Strategy ngay. Nhưng nó nói rằ
 
 Cần phân biệt hai tầng.
 
-**Tầng pháp lý:** STRC là chứng khoán hợp pháp nếu được phát hành, công bố rủi ro và niêm yết đúng luật. Cổ phiếu ưu đãi là sản phẩm bình thường trong tài chính truyền thống. Ngân hàng, utility, quỹ bất động sản niêm yết, công ty bảo hiểm đều có thể phát hành cổ phiếu ưu đãi.
+**Tầng pháp lý:** STRC là chứng khoán hợp pháp nếu được phát hành, công bố rủi ro và niêm yết đúng luật. Cổ phiếu ưu đãi là sản phẩm bình thường trong tài chính truyền thống. Ngân hàng, utility, quỹ bất động sản niêm yết và công ty bảo hiểm đều có thể phát hành cổ phiếu ưu đãi.
 
 **Tầng kinh tế học:** nếu lợi suất trả ra không đến từ dòng tiền kinh doanh thật đủ lớn, mà đến từ dự trữ, vốn mới, tái cấp vốn hoặc bán tài sản, thì nó mang cấu trúc phụ thuộc vào dòng tiền người sau. Đặc biệt khi chính tài liệu chào bán cho phép tiền thu được từ phát hành dùng để trả cổ tức, câu hỏi “người sau nuôi nghĩa vụ của người trước” không còn là câu chửi; nó trở thành câu hỏi phân bổ vốn và cuốn tiếp nghĩa vụ. Nếu tiền mặt trả ra không đến từ dòng tiền kinh doanh, thì nó phải đến từ dự trữ, tái cấp vốn, vốn mới hoặc bán tài sản.
 
@@ -221,9 +221,9 @@ Cần phân biệt hai tầng.
 
 - Người mua công cụ tài chính mới đưa USD vào.
 - Công ty có tiền mặt.
-- Công ty trả cổ tức cho người cầm cổ phiếu ưu đãi.
-- Hình ảnh sản phẩm lợi suất đang hoạt động được duy trì.
-- Điều đó giúp thu hút thêm người mua công cụ tài chính mới.
+- Công ty trả cổ tức cho người nắm giữ cổ phiếu ưu đãi.
+- Hình ảnh “sản phẩm lợi suất đang chạy tốt” được duy trì.
+- Điều đó giúp thu hút thêm người mua chứng khoán mới.
 
 Nó không giống đa cấp bán lẻ về hình thức. Không có tuyến dưới đi tuyển tuyến dưới. Không có hoa hồng kiểu đa cấp bán lẻ. Nhưng ngữ pháp dòng tiền có điểm tương đồng:
 
@@ -232,7 +232,7 @@ Nó không giống đa cấp bán lẻ về hình thức. Không có tuyến dư
 Điểm khác với lừa đảo Ponzi truyền thống:
 
 - có BTC thật trên bảng cân đối;
-- có công ty công khai thật;
+- có công ty đại chúng thật;
 - có công bố rủi ro;
 - có giá thị trường;
 - có các cảnh báo rủi ro;
@@ -246,12 +246,12 @@ Nói theo ngôn ngữ vault:
 
 Không nhất thiết là Ponzi pháp lý. Nhưng nó có thể là một **sự phụ thuộc dòng vốn mang dáng dấp Ponzi**.
 
-Nói thẳng hơn: đây là lý do cấu trúc này nghe **mùi gian trá kinh tế** dù có thể đã được công bố rủi ro hợp pháp. Công bố rủi ro có thể làm một cỗ máy cuốn tiếp nghĩa vụ hợp pháp hơn, nhưng công bố rủi ro không biến dòng tiền đó thành dòng tiền kinh doanh thật. Nếu tiền trả ra cho quyền đòi cũ đến từ dự trữ, tái cấp vốn, vốn mới hoặc bán tài sản, trong khi tài sản lõi không sinh tiền mặt, thì về bản chất kinh tế hệ thống đang dựa vào người vào sau để duy trì nghĩa vụ với người vào trước.
+Nói thẳng hơn: đây là lý do cấu trúc này nghe **mùi gian lận về bản chất kinh tế** dù có thể đã được công bố rủi ro hợp pháp. Công bố rủi ro có thể làm một cỗ máy cuốn tiếp nghĩa vụ hợp pháp hơn, nhưng công bố rủi ro không biến dòng tiền đó thành dòng tiền kinh doanh thật. Nếu tiền trả ra cho quyền đòi cũ đến từ dự trữ, tái cấp vốn, vốn mới hoặc bán tài sản, trong khi tài sản lõi không sinh tiền mặt, thì về bản chất kinh tế hệ thống đang dựa vào người vào sau để duy trì nghĩa vụ với người vào trước.
 
-Đó là khác biệt giữa **gian lận pháp lý** và **mùi gian trá kinh tế**:
+Đó là khác biệt giữa **gian lận pháp lý** và **mùi gian lận về bản chất kinh tế**:
 
 - Gian lận pháp lý cần hành vi lừa dối, ý định gian lận, tuyên bố sai hoặc bỏ sót thông tin trọng yếu.
-- Mùi gian trá kinh tế xuất hiện khi dòng tiền thật không đến từ cỗ máy tạo giá trị, mà đến từ việc cuốn tiếp quyền đòi, gọi vốn mới và giữ niềm tin đủ lâu để vòng quay không dừng.
+- Mùi gian lận về bản chất kinh tế xuất hiện khi dòng tiền thật không đến từ cỗ máy tạo giá trị, mà đến từ việc cuốn tiếp quyền đòi, gọi vốn mới và giữ niềm tin đủ lâu để vòng quay không dừng.
 
 Câu hỏi vault không phải chỉ là “họ có công bố rủi ro không?”. Câu hỏi sâu hơn là: **công bố rủi ro đó có thay đổi bản chất dòng tiền không?** Nếu câu trả lời là không, thì lớp bọc pháp lý chỉ làm cấu trúc sạch hơn về mặt giấy tờ, không làm nó bớt phụ thuộc vào vốn mới.
 
@@ -259,7 +259,7 @@ Câu hỏi vault không phải chỉ là “họ có công bố rủi ro không?
 
 ## 7. Saylor Thật Sự Cần Gì?
 
-Saylor không cần BTC lên mỗi ngày. Ông ta cần thị trường tiếp tục chấp nhận đổi USD lấy giấy quyền đòi của Strategy.
+Saylor không cần BTC lên mỗi ngày. Ông ta cần thị trường tiếp tục chấp nhận đổi USD lấy chứng khoán do Strategy phát hành.
 
 Đây là trò chơi lõi:
 
@@ -267,19 +267,19 @@ Saylor không giao dịch Bitcoin trực tiếp. Ông ta giao dịch **niềm ti
 
 Nếu BTC giảm từ 65k về 45k, Strategy chưa chắc phải bán BTC. Nếu còn người tin rằng BTC sẽ vượt đỉnh cũ, và còn người chịu mua MSTR/STRC/nợ ở một mức chi phí vốn nào đó, Saylor vẫn có thể:
 
-- Phát hành giấy quyền đòi.
+- Phát hành chứng khoán.
 - Nhận USD.
 - Trả cổ tức/dự trữ.
 - Mua thêm BTC giá rẻ.
 - Chờ chu kỳ hồi.
 
-BTC price thấp không tự động giết mô hình. Điều giết mô hình là:
+Giá BTC thấp không tự động giết mô hình. Điều giết mô hình là:
 
-**Thị trường mua giấy quyền đòi đóng lại trước khi luận điểm Bitcoin kịp chứng minh mình đúng.**
+**Thị trường mua chứng khoán mới đóng lại trước khi luận điểm Bitcoin kịp chứng minh mình đúng.**
 
 Hay nói cách khác:
 
-**Thời gian hồi phục dài hơn đường băng vốn.**
+**Thời gian hồi phục dài hơn đường băng tài chính.**
 
 Nếu BTC đúng trong 5 năm nhưng cấu trúc vốn cần tiền mặt trong 6 tháng, thì luận điểm dài hạn vẫn có thể chết vì lệch nhịp thời gian.
 
@@ -410,9 +410,9 @@ Mà là:
 
 Case Saylor/MSTR/STRC dạy một bài rất lớn: trong finance, tài sản chỉ là một nửa câu chuyện. Nửa còn lại là **quyền đòi structure**.
 
-Một cái hộp có thể chứa tài sản tốt. Nhưng nếu cái hộp đó bị phủ quá nhiều quyền đòi đòi tiền mặt, phần tăng giá của tài sản không tự động cứu mọi tầng người cầm.
+Một cái hộp có thể chứa tài sản tốt. Nhưng nếu cái hộp đó bị phủ quá nhiều quyền đòi đòi tiền mặt, phần tăng giá của tài sản không tự động cứu mọi tầng người nắm giữ.
 
-- **BTC người cầm trực tiếp:** cầm tài sản.
+- **BTC người nắm giữ trực tiếp:** cầm tài sản.
 - **Người cầm cổ phiếu thường MSTR:** cầm quyền đòi cổ phần lên cái hộp BTC, ăn phần tăng giá nhưng chịu pha loãng/biến động mạnh.
 - **Người cầm STRC:** cầm quyền đòi lợi suất ưu đãi, phần tăng giá bị giới hạn, chịu rủi ro tín dụng của công ty phát hành.
 - **Saylor/người nội bộ:** hưởng cổ phần thường/control/mức cộng thêm nếu cái hộp được thị trường định giá cao.
@@ -538,7 +538,7 @@ Một điểm quan trọng: Strategy không giấu hoàn toàn chuyện tiền g
 Nói cách khác, công bố rủi ro công khai đã mở sẵn ba cửa:
 
 - mua thêm BTC cho cái hộp;
-- trả cổ tức cho người cầm cổ phiếu ưu đãi;
+- trả cổ tức cho người nắm giữ cổ phiếu ưu đãi;
 - giữ đường băng tài chính/vốn lưu động cho công ty.
 
 Điểm đáng chú ý là họ không chia tỷ lệ cứng kiểu:
@@ -559,7 +559,7 @@ Profit chỉ đến từ:
 - lợi nhuận kinh doanh của mảng kinh doanh thật;
 - lãi đã hiện thực hóa nếu bán tài sản cao hơn giá vốn;
 - lãi/lỗ kế toán tùy chuẩn kế toán;
-- hoặc giá trị vốn hóa thị trường tăng nếu nói theo wealth của cổ phần thường người cầms.
+- hoặc giá trị vốn hóa thị trường tăng nếu nói theo wealth của cổ phần thường người nắm giữs.
 
 Vì vậy câu hỏi cần theo dõi qua thời gian không phải chỉ là “Strategy gọi được bao nhiêu vốn?” mà là:
 
@@ -693,7 +693,7 @@ Nhưng cái vehicle Strategy có thể vẫn tiếp tục scale.
 - **thoát rủi ro cá nhân** — người sáng lập đã giảm rủi ro riêng;
 - **cỗ xe thật sự giảm rủi ro** — công ty thật sự hạ leverage, hạ chồng quyền đòi, hạ nghĩa vụ tiền mặt.
 
-Một người có thể “exit” cá nhân trong khi câu chuyện niềm tin vẫn tiếp tục chạy cho công khai người cầms.
+Một người có thể “exit” cá nhân trong khi câu chuyện niềm tin vẫn tiếp tục chạy cho công khai người nắm giữs.
 
 ### Luận Điểm Đúng, Lớp bọc tài chính Sai
 
