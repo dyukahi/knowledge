@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 220,
+    "notes": 221,
     "domains": {
       "_docs": 11,
       "root": 14,
-      "crypto-finance": 13,
+      "crypto-finance": 14,
       "esoterica": 74,
       "health": 27,
       "mental-models": 36,
       "politics-conspiracy": 27,
       "science-tech": 18
     },
-    "tags": 210,
-    "wikilinkEdges": 2218,
+    "tags": 215,
+    "wikilinkEdges": 2223,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -422,6 +422,7 @@
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
+          "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
           "crypto-finance/Secular Market.md",
           "crypto-finance/Tiền Giấy - Tiền Mặt.md",
           "crypto-finance/Tiền Pháp Định.md",
@@ -492,6 +493,7 @@
           "Privacy",
           "Privacy Is The New Wealth",
           "Red Pill Wiki",
+          "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
           "science-tech/index",
           "Secular Market",
           "Sợ hãi - Tham Lam – Cân bằng",
@@ -511,6 +513,7 @@
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/Privacy.md",
+          "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
           "crypto-finance/Secular Market.md",
           "crypto-finance/Tiền Giấy - Tiền Mặt.md",
           "crypto-finance/Tiền Pháp Định.md",
@@ -539,7 +542,7 @@
           "mental-models/index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 953,
+        "words": 1017,
         "summary": "**Crypto & Finance là nơi vault đọc tiền như operating system của time, labor, consent và freedom.** Tiền không chỉ là price chart. Nó là hạ tầng quyết định ai được lưu trữ giá trị, ai bị debase, ai bị surveil, ai được permission để giao dịch, và ai vẫn còn e…"
       },
       {
@@ -1256,6 +1259,59 @@
         ],
         "words": 782,
         "summary": "**Secular Market** chỉ các xu hướng vĩ mô kéo dài hàng thập kỷ (10-30 năm), chi phối sự dịch chuyển tài sản và định hình lại cấu trúc kinh tế toàn cầu. Khác với các chu kỳ ngắn (cyclical), secular trends là những làn sóng lớn quyết định ai giàu ai nghèo trong…"
+      },
+      {
+        "path": "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
+        "title": "Saylor Game - MSTR, STRC Và Cái Hộp Bitcoin",
+        "domain": "crypto-finance",
+        "tags": [
+          "bitcoin",
+          "capital-markets",
+          "crypto-finance",
+          "financial-engineering",
+          "market-psychology",
+          "market-structure",
+          "mstr",
+          "strc"
+        ],
+        "aliases": [
+          "MSTR Là Cái Hộp Bitcoin",
+          "MSTR STRC Và Cái Hộp Bitcoin",
+          "Saylor Game",
+          "Strategy Bitcoin Treasury Game",
+          "STRC Là Gì"
+        ],
+        "headings": [
+          "Saylor Game - MSTR, STRC Và Cái Hộp Bitcoin",
+          "1. Bắt Đầu Từ Cái Hộp Bitcoin",
+          "2. MSTR Là Giá Của Cái Hộp, Không Phải Chính Bitcoin",
+          "3. STRC Là Gì?",
+          "4. Dividend Đến Từ Đâu?",
+          "5. Tại Sao STRC Cần Giữ Gần $100?",
+          "6. Vì Sao Nói Nó Có “Đa Cấp Vibes”?",
+          "7. Saylor Thật Sự Cần Gì?",
+          "8. Giá MSTR/STRC Là Triệu Chứng, Không Phải Lõi",
+          "9. Nếu BTC Giảm 30% Thì Sao?",
+          "10. Exit Của Saylor Khi Thắng Là Gì?",
+          "11. Khi Nào Game Gãy?",
+          "12. Bài Học Financial Game",
+          "13. Kết Luận: Financialize Niềm Tin"
+        ],
+        "wikilinks": [
+          "Bitcoin"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin.md"
+        ],
+        "backlinks": [
+          "crypto-finance/index.md",
+          "index.md",
+          "MOC - Financial Sovereignty.md",
+          "MOC - Market Psychology & Risk.md"
+        ],
+        "words": 3086,
+        "summary": "!Saylor Game Bitcoin Box"
       },
       {
         "path": "crypto-finance/Tiền tiền tiền.md",
@@ -8149,8 +8205,8 @@
           "health"
         ],
         "aliases": [
-          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
-          "Tần số cộng hưởng giữa Muối và Tuyến tùng"
+          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
         ],
         "headings": [
           "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -13109,6 +13165,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "June 18, 2026",
           "June 17, 2026",
           "June 16, 2026",
           "June 14, 2026",
@@ -13218,6 +13275,7 @@
           "S.E.X Và Tâm Lý Học Jung",
           "Sacred Geometry",
           "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
+          "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
           "Schadenfreude - Dopamine Phản Diện",
           "science-tech/index",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
@@ -13276,6 +13334,7 @@
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
+          "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
           "crypto-finance/Tiền Giấy - Tiền Mặt.md",
           "crypto-finance/Tiền Pháp Định.md",
           "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
@@ -13420,7 +13479,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 3858,
+        "words": 3929,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -13995,6 +14054,7 @@
           "MOC - Market Psychology & Risk",
           "Privacy",
           "Privacy Is The New Wealth",
+          "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
           "Tiền Giấy - Tiền Mặt",
           "Tiền Pháp Định",
           "Tư Duy Lũy Thừa",
@@ -14009,6 +14069,7 @@
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/Privacy.md",
+          "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
           "crypto-finance/Tiền Giấy - Tiền Mặt.md",
           "crypto-finance/Tiền Pháp Định.md",
           "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
@@ -14041,7 +14102,7 @@
           "politics-conspiracy/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 723,
+        "words": 770,
         "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
       },
       {
@@ -14327,6 +14388,7 @@
           "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
           "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
           "MOC - Financial Sovereignty",
+          "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
           "Secular Market",
           "Sợ hãi - Tham Lam – Cân bằng",
           "Thông Minh vs Trí Tuệ",
@@ -14338,6 +14400,7 @@
           "crypto-finance/Bitcoin.md",
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
           "crypto-finance/Secular Market.md",
           "crypto-finance/Tiền Pháp Định.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
@@ -14356,7 +14419,7 @@
           "mental-models/index.md",
           "MOC - Financial Sovereignty.md"
         ],
-        "words": 726,
+        "words": 754,
         "summary": "**Market Psychology & Risk là bản đồ đọc thị trường như nơi tâm lý con người bị ép lộ ra bằng tiền thật. Chart là hậu quả, flow là bằng chứng, narrative là lớp giải thích đến sau. Trước khi hỏi “mua gì để giàu?”, phải hỏi: mình có sống sót đủ lâu không, ai đa…"
       },
       {
@@ -15711,6 +15774,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "June 18, 2026",
         "June 17, 2026",
         "June 16, 2026",
         "June 14, 2026",
@@ -15820,6 +15884,7 @@
         "S.E.X Và Tâm Lý Học Jung",
         "Sacred Geometry",
         "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
+        "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
         "Schadenfreude - Dopamine Phản Diện",
         "science-tech/index",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
@@ -15878,6 +15943,7 @@
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
+        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
         "crypto-finance/Tiền Pháp Định.md",
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
@@ -16022,7 +16088,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 3858,
+      "words": 3929,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -18094,6 +18160,105 @@
       "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
     },
     {
+      "path": "crypto-finance/Bitcoin.md",
+      "title": "Bitcoin",
+      "domain": "crypto-finance",
+      "tags": [
+        "crypto-finance"
+      ],
+      "aliases": [
+        "Bitcoin sovereignty",
+        "BTC",
+        "Digital hard money"
+      ],
+      "headings": [
+        "Bitcoin",
+        "Vault Position / Vị Trí Trong Map",
+        "Tại sao Bitcoin quan trọng? / Why Bitcoin Matters?",
+        "1. Phi tập trung & Không cần niềm tin / Decentralized & Trustless",
+        "2. Cung cấp hạn chế / Hard Cap",
+        "3. Proof-of-Work & Bảo mật / Security",
+        "Bitcoin trong bối cảnh Ma Trận / Bitcoin vs The Matrix",
+        "Mối đe dọa từ CBDC / CBDC Threat",
+        "Bitcoin như lớp giới thiệu ledger money",
+        "Bitcoin và Privacy / Bitcoin & Privacy",
+        "Chu kỳ thị trường / Market Cycles",
+        "Publication Pack / Financial Sovereignty",
+        "Related",
+        "Core Articles / Bài viết chính",
+        "Monetary System / Hệ thống tiền tệ",
+        "Gen Z & Agenda 2030",
+        "Investment Mindset / Tâm lý đầu tư",
+        "Bitcoin As Ledger Conditioning / Bitcoin Như Lớp Làm Quen Với Ledger"
+      ],
+      "wikilinks": [
+        "Bitcoin",
+        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "Báo Cáo 2030",
+        "Chainlink - Mắt Xích Của Tokenized World",
+        "Elite",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giàu Không Nhờ May Mắn",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Khoa Học Xét Lại",
+        "MOC - Financial Sovereignty",
+        "Privacy",
+        "Secular Market",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Tiền Giấy - Tiền Mặt",
+        "Tiền Pháp Định",
+        "Tiền tiền tiền"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Secular Market.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Tiền tiền tiền.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "MOC - Financial Sovereignty.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Elite.md",
+        "science-tech/Khoa Học Xét Lại.md"
+      ],
+      "backlinks": [
+        "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giàu Không Nhờ May Mắn.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/index.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
+        "crypto-finance/Secular Market.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Tiền tiền tiền.md",
+        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "index.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "MOC - Financial Sovereignty.md",
+        "MOC - Market Psychology & Risk.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/Pin Natri-ion.md"
+      ],
+      "words": 1418,
+      "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
+    },
+    {
       "path": "MOC - Science Revisionism.md",
       "title": "MOC - Science Revisionism",
       "domain": "root",
@@ -18186,104 +18351,6 @@
       ],
       "words": 612,
       "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
-    },
-    {
-      "path": "crypto-finance/Bitcoin.md",
-      "title": "Bitcoin",
-      "domain": "crypto-finance",
-      "tags": [
-        "crypto-finance"
-      ],
-      "aliases": [
-        "Bitcoin sovereignty",
-        "BTC",
-        "Digital hard money"
-      ],
-      "headings": [
-        "Bitcoin",
-        "Vault Position / Vị Trí Trong Map",
-        "Tại sao Bitcoin quan trọng? / Why Bitcoin Matters?",
-        "1. Phi tập trung & Không cần niềm tin / Decentralized & Trustless",
-        "2. Cung cấp hạn chế / Hard Cap",
-        "3. Proof-of-Work & Bảo mật / Security",
-        "Bitcoin trong bối cảnh Ma Trận / Bitcoin vs The Matrix",
-        "Mối đe dọa từ CBDC / CBDC Threat",
-        "Bitcoin như lớp giới thiệu ledger money",
-        "Bitcoin và Privacy / Bitcoin & Privacy",
-        "Chu kỳ thị trường / Market Cycles",
-        "Publication Pack / Financial Sovereignty",
-        "Related",
-        "Core Articles / Bài viết chính",
-        "Monetary System / Hệ thống tiền tệ",
-        "Gen Z & Agenda 2030",
-        "Investment Mindset / Tâm lý đầu tư",
-        "Bitcoin As Ledger Conditioning / Bitcoin Như Lớp Làm Quen Với Ledger"
-      ],
-      "wikilinks": [
-        "Bitcoin",
-        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-        "Báo Cáo 2030",
-        "Chainlink - Mắt Xích Của Tokenized World",
-        "Elite",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giàu Không Nhờ May Mắn",
-        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-        "Khoa Học Xét Lại",
-        "MOC - Financial Sovereignty",
-        "Privacy",
-        "Secular Market",
-        "Sợ hãi - Tham Lam – Cân bằng",
-        "Tiền Giấy - Tiền Mặt",
-        "Tiền Pháp Định",
-        "Tiền tiền tiền"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giàu Không Nhờ May Mắn.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Tiền tiền tiền.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "MOC - Financial Sovereignty.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Elite.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "backlinks": [
-        "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giàu Không Nhờ May Mắn.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/index.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Tiền tiền tiền.md",
-        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "index.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "MOC - Financial Sovereignty.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/Pin Natri-ion.md"
-      ],
-      "words": 1418,
-      "summary": "**Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước."
     },
     {
       "path": "science-tech/index.md",
@@ -19885,12 +19952,12 @@
       23
     ],
     [
-      "matrix",
+      "crypto-finance",
       16
     ],
     [
-      "crypto-finance",
-      15
+      "matrix",
+      16
     ],
     [
       "psychology",
@@ -20029,6 +20096,10 @@
       4
     ],
     [
+      "bitcoin",
+      3
+    ],
+    [
       "cbdc",
       3
     ],
@@ -20089,11 +20160,11 @@
       3
     ],
     [
-      "bitcoin",
+      "risk-management",
       2
     ],
     [
-      "risk-management",
+      "market-psychology",
       2
     ],
     [
@@ -20162,6 +20233,26 @@
     ],
     [
       "word-magic",
+      1
+    ],
+    [
+      "capital-markets",
+      1
+    ],
+    [
+      "financial-engineering",
+      1
+    ],
+    [
+      "market-structure",
+      1
+    ],
+    [
+      "mstr",
+      1
+    ],
+    [
+      "strc",
       1
     ],
     [
@@ -20234,30 +20325,6 @@
     ],
     [
       "annunaki",
-      1
-    ],
-    [
-      "cabal",
-      1
-    ],
-    [
-      "nibiru",
-      1
-    ],
-    [
-      "sodium",
-      1
-    ],
-    [
-      "transmutation",
-      1
-    ],
-    [
-      "geomancy",
-      1
-    ],
-    [
-      "hollywood",
       1
     ]
   ],
@@ -20893,6 +20960,7 @@
         "MOC - Market Psychology & Risk",
         "Privacy",
         "Privacy Is The New Wealth",
+        "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
         "Tiền Giấy - Tiền Mặt",
         "Tiền Pháp Định",
         "Tư Duy Lũy Thừa",
@@ -20907,6 +20975,7 @@
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/Privacy.md",
+        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
         "crypto-finance/Tiền Pháp Định.md",
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
@@ -20939,7 +21008,7 @@
         "politics-conspiracy/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 723,
+      "words": 770,
       "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
     },
     "MOC - Health Sovereignty.md": {
@@ -21073,6 +21142,7 @@
         "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "MOC - Financial Sovereignty",
+        "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
         "Secular Market",
         "Sợ hãi - Tham Lam – Cân bằng",
         "Thông Minh vs Trí Tuệ",
@@ -21084,6 +21154,7 @@
         "crypto-finance/Bitcoin.md",
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
         "crypto-finance/Secular Market.md",
         "crypto-finance/Tiền Pháp Định.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
@@ -21102,7 +21173,7 @@
         "mental-models/index.md",
         "MOC - Financial Sovereignty.md"
       ],
-      "words": 726,
+      "words": 754,
       "summary": "**Market Psychology & Risk là bản đồ đọc thị trường như nơi tâm lý con người bị ép lộ ra bằng tiền thật. Chart là hậu quả, flow là bằng chứng, narrative là lớp giải thích đến sau. Trước khi hỏi “mua gì để giàu?”, phải hỏi: mình có sống sót đủ lâu không, ai đa…"
     },
     "MOC - Science Revisionism.md": {
@@ -21775,6 +21846,7 @@
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
+        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
         "crypto-finance/Secular Market.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
         "crypto-finance/Tiền Pháp Định.md",
@@ -22169,6 +22241,59 @@
       "words": 1134,
       "summary": "**Privacy** là quyền cơ bản của con người — quyền giữ cho mình những gì thuộc về mình: suy nghĩ, tài sản, hoạt động cá nhân. Trong kỷ nguyên số và giám sát toàn diện, privacy phải được chủ động bảo vệ."
     },
+    "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md": {
+      "path": "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
+      "title": "Saylor Game - MSTR, STRC Và Cái Hộp Bitcoin",
+      "domain": "crypto-finance",
+      "tags": [
+        "bitcoin",
+        "capital-markets",
+        "crypto-finance",
+        "financial-engineering",
+        "market-psychology",
+        "market-structure",
+        "mstr",
+        "strc"
+      ],
+      "aliases": [
+        "MSTR Là Cái Hộp Bitcoin",
+        "MSTR STRC Và Cái Hộp Bitcoin",
+        "Saylor Game",
+        "Strategy Bitcoin Treasury Game",
+        "STRC Là Gì"
+      ],
+      "headings": [
+        "Saylor Game - MSTR, STRC Và Cái Hộp Bitcoin",
+        "1. Bắt Đầu Từ Cái Hộp Bitcoin",
+        "2. MSTR Là Giá Của Cái Hộp, Không Phải Chính Bitcoin",
+        "3. STRC Là Gì?",
+        "4. Dividend Đến Từ Đâu?",
+        "5. Tại Sao STRC Cần Giữ Gần $100?",
+        "6. Vì Sao Nói Nó Có “Đa Cấp Vibes”?",
+        "7. Saylor Thật Sự Cần Gì?",
+        "8. Giá MSTR/STRC Là Triệu Chứng, Không Phải Lõi",
+        "9. Nếu BTC Giảm 30% Thì Sao?",
+        "10. Exit Của Saylor Khi Thắng Là Gì?",
+        "11. Khi Nào Game Gãy?",
+        "12. Bài Học Financial Game",
+        "13. Kết Luận: Financialize Niềm Tin"
+      ],
+      "wikilinks": [
+        "Bitcoin"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Bitcoin.md"
+      ],
+      "backlinks": [
+        "crypto-finance/index.md",
+        "index.md",
+        "MOC - Financial Sovereignty.md",
+        "MOC - Market Psychology & Risk.md"
+      ],
+      "words": 3086,
+      "summary": "!Saylor Game Bitcoin Box"
+    },
     "crypto-finance/Secular Market.md": {
       "path": "crypto-finance/Secular Market.md",
       "title": "Secular Market (Thị Trường Chu Kỳ Dài)",
@@ -22447,6 +22572,7 @@
         "Privacy",
         "Privacy Is The New Wealth",
         "Red Pill Wiki",
+        "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
         "science-tech/index",
         "Secular Market",
         "Sợ hãi - Tham Lam – Cân bằng",
@@ -22466,6 +22592,7 @@
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/Privacy.md",
+        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
         "crypto-finance/Secular Market.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
         "crypto-finance/Tiền Pháp Định.md",
@@ -22494,7 +22621,7 @@
         "mental-models/index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 953,
+      "words": 1017,
       "summary": "**Crypto & Finance là nơi vault đọc tiền như operating system của time, labor, consent và freedom.** Tiền không chỉ là price chart. Nó là hạ tầng quyết định ai được lưu trữ giá trị, ai bị debase, ai bị surveil, ai được permission để giao dịch, và ai vẫn còn e…"
     },
     "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md": {
@@ -29228,8 +29355,8 @@
         "health"
       ],
       "aliases": [
-        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
-        "Tần số cộng hưởng giữa Muối và Tuyến tùng"
+        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
       ],
       "headings": [
         "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -29785,6 +29912,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "June 18, 2026",
         "June 17, 2026",
         "June 16, 2026",
         "June 14, 2026",
@@ -29894,6 +30022,7 @@
         "S.E.X Và Tâm Lý Học Jung",
         "Sacred Geometry",
         "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
+        "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
         "Schadenfreude - Dopamine Phản Diện",
         "science-tech/index",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
@@ -29952,6 +30081,7 @@
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
+        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
         "crypto-finance/Tiền Pháp Định.md",
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
@@ -30096,7 +30226,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 3858,
+      "words": 3929,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {

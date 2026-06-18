@@ -63,6 +63,7 @@ Survival không sexy. Nhưng tất cả upside đều cần một điều kiện
 - [[Ai Đứng Bên Kia Giao Dịch]] — mọi cây nến là dấu vết của người mua và người bán.
 - [[Secular Market]] — chu kỳ dài như quá trình chuyển tài sản giữa weak hands và strong hands.
 - [[Bitcoin]] — case study của conviction, liquidity, halving narrative và institutional flow.
+- [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — case study về belief-duration arbitrage, claim stack và funding-channel stress.
 
 Top thường là lúc tin tốt nhất vì người đến muộn cần lý do để mua. Bottom thường là lúc tin xấu nhất vì người bị ép bán cần lý do để buông.
 
@@ -118,3 +119,4 @@ Risk management là spiritual practice của người chơi market. Nó bắt eg
 - [[Tư Duy Lũy Thừa]]
 - [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]
 - [[Bitcoin]]
+- [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]

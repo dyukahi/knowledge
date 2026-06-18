@@ -43,7 +43,8 @@ Nếu mới vào từ root, xem thêm [[Cách Đọc Red Pill Wiki#3 Money  Cont
 4. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — survival before upside.
 5. [[Bitcoin]] — exit-money thesis và bài test sovereignty.
 6. [[Privacy]] — boundary layer của free exchange.
-7. [[Chainlink - Mắt Xích Của Tokenized World]] — oracle/RWA bridge vào tokenized finance.
+7. [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — case study về Bitcoin treasury, yield wrappers và claim structure.
+8. [[Chainlink - Mắt Xích Của Tokenized World]] — oracle/RWA bridge vào tokenized finance.
 
 ---
 
@@ -62,6 +63,7 @@ Financial sovereignty mà không có risk discipline thì dễ thành một dạ
 
 - [[Bitcoin]] — khan hiếm kỹ thuật số, self-custody, censorship resistance.
 - [[Bitcoin Sẽ Chết Nếu Không Có Privacy]] — public ledger và rủi ro fungibility.
+- [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — khi Bitcoin được bọc thành public securities, preferred yield và capital stack.
 - [[Privacy]] — privacy như boundary, không phải secrecy theater.
 - [[Privacy Is The New Wealth]] — financial privacy như status, leverage và survival.
 
@@ -106,4 +108,5 @@ Tiền không chỉ là phương tiện trao đổi. Nó là hệ điều hành 
 - [[Privacy]]
 - [[Tiền Pháp Định]]
 - [[Chainlink - Mắt Xích Của Tokenized World]]
+- [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]
 - [[Báo Cáo 2030]]

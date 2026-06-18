@@ -1,14 +1,14 @@
 {
   "summary": {
-    "public_notes": 207,
-    "avg_words": 1543,
+    "public_notes": 208,
+    "avg_words": 1551,
     "missing_description": 0,
     "missing_aliases": 0,
     "thin_lt800": 28,
     "duplicate_titles": 0,
     "mobile_hostile_code": 0,
     "horizontal_chain": 25,
-    "textblock_candidates": 34,
+    "textblock_candidates": 35,
     "broken_links": 0,
     "orphans_public": 2
   },
@@ -18,11 +18,11 @@
     "thin_lt800": [
       {
         "path": "MOC - Financial Sovereignty.md",
-        "words": 723
+        "words": 770
       },
       {
         "path": "MOC - Market Psychology & Risk.md",
-        "words": 726
+        "words": 754
       },
       {
         "path": "MOC - Esoterica & Consciousness.md",
@@ -164,6 +164,12 @@
         "short": 16,
         "paragraphs": 37,
         "ratio": 0.432
+      },
+      {
+        "path": "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
+        "short": 49,
+        "paragraphs": 95,
+        "ratio": 0.516
       },
       {
         "path": "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",

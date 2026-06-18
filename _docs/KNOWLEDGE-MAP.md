@@ -4,10 +4,10 @@
 
 ## Snapshot
 
-- **Notes scanned:** 220
+- **Notes scanned:** 221
 - **Top-level domains:** 8
-- **Tags detected:** 210
-- **Resolved internal edges:** 2218
+- **Tags detected:** 215
+- **Resolved internal edges:** 2223
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 12
 
@@ -103,26 +103,10 @@ Recommended note types:
 - [[science-tech/Digital ID Normalization - From Instagram to Government ID|Digital ID Normalization - From Instagram to Government ID]] — degree `12`, backlinks `12`, outlinks `0` — #agenda-2030, #digital-id, #generation, #psychology, #science-tech
 - … 6 more notes in this domain. See JSON for full list.
 
-### root `root` — 14 notes
+### Crypto & Finance `crypto-finance` — 14 notes
 
-- [[index|Red Pill Wiki]] — degree `148`, backlinks `7`, outlinks `141` — #index, #navigation
-- [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `56`, backlinks `34`, outlinks `22` — #epistemology, #moc, #propaganda
-- [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `51`, backlinks `19`, outlinks `32` — #epistemology, #meta, #navigation
-- [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `47`, backlinks `30`, outlinks `17` — #health, #moc, #sovereignty
-- [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `43`, backlinks `14`, outlinks `29` — #consciousness, #esoterica, #moc
-- [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `41`, backlinks `21`, outlinks `20` — #moc, #revisionist-science, #science-tech
-- [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `35`, backlinks `18`, outlinks `17` — #crypto-finance, #moc, #sovereignty
-- [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]] — degree `31`, backlinks `11`, outlinks `20` — #esoterica, #hidden-history, #moc
-- [[Glossary - Từ Điển Red Pill Wiki|Glossary - Từ Điển Red Pill Wiki]] — degree `24`, backlinks `2`, outlinks `22` — #glossary, #meta, #navigation
-- [[Current Events Lab - Phòng Thí Nghiệm Sự Kiện|Current Events Lab - Phòng Thí Nghiệm Sự Kiện]] — degree `19`, backlinks `3`, outlinks `16` — #current-events, #meta, #navigation, #pattern-lab
-- [[MOC - Market Psychology & Risk|MOC - Market Psychology & Risk]] — degree `18`, backlinks `6`, outlinks `12` — #crypto-finance, #market-psychology, #mental-model, #moc, #risk-management
-- [[Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng|Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng]] — degree `17`, backlinks `6`, outlinks `11` — #epistemology, #evidence, #meta
-- … 2 more notes in this domain. See JSON for full list.
-
-### Crypto & Finance `crypto-finance` — 13 notes
-
-- [[crypto-finance/Bitcoin|Bitcoin]] — degree `40`, backlinks `25`, outlinks `15` — #crypto-finance
-- [[crypto-finance/index|Crypto & Finance Domain Gateway]] — degree `32`, backlinks `3`, outlinks `29` — #crypto-finance, #domain-gateway, #financial-sovereignty
+- [[crypto-finance/Bitcoin|Bitcoin]] — degree `41`, backlinks `26`, outlinks `15` — #crypto-finance
+- [[crypto-finance/index|Crypto & Finance Domain Gateway]] — degree `33`, backlinks `3`, outlinks `30` — #crypto-finance, #domain-gateway, #financial-sovereignty
 - [[crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền|Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — degree `30`, backlinks `16`, outlinks `14` — #crypto-finance, #dopamine, #financial-sovereignty, #mental-model, #risk-management
 - [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]] — degree `27`, backlinks `14`, outlinks `13` — #crypto-finance
 - [[crypto-finance/Chainlink - Mắt Xích Của Tokenized World|Chainlink - Mắt Xích Của Tokenized World]] — degree `25`, backlinks `15`, outlinks `10` — #cbdc, #crypto-finance, #sovereignty, #tokenization, #word-magic
@@ -133,7 +117,23 @@ Recommended note types:
 - [[crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền|Điều Mà Trường Học Không Dạy Về Tiền]] — degree `17`, backlinks `5`, outlinks `12` — #crypto-finance
 - [[crypto-finance/Giàu Không Nhờ May Mắn|Giàu Không Nhờ May Mắn]] — degree `13`, backlinks `4`, outlinks `9` — #crypto-finance
 - [[crypto-finance/Secular Market|Secular Market (Thị Trường Chu Kỳ Dài)]] — degree `12`, backlinks `4`, outlinks `8` — #crypto-finance
-- … 1 more notes in this domain. See JSON for full list.
+- … 2 more notes in this domain. See JSON for full list.
+
+### root `root` — 14 notes
+
+- [[index|Red Pill Wiki]] — degree `149`, backlinks `7`, outlinks `142` — #index, #navigation
+- [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `56`, backlinks `34`, outlinks `22` — #epistemology, #moc, #propaganda
+- [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `51`, backlinks `19`, outlinks `32` — #epistemology, #meta, #navigation
+- [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `47`, backlinks `30`, outlinks `17` — #health, #moc, #sovereignty
+- [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `43`, backlinks `14`, outlinks `29` — #consciousness, #esoterica, #moc
+- [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `41`, backlinks `21`, outlinks `20` — #moc, #revisionist-science, #science-tech
+- [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `36`, backlinks `18`, outlinks `18` — #crypto-finance, #moc, #sovereignty
+- [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]] — degree `31`, backlinks `11`, outlinks `20` — #esoterica, #hidden-history, #moc
+- [[Glossary - Từ Điển Red Pill Wiki|Glossary - Từ Điển Red Pill Wiki]] — degree `24`, backlinks `2`, outlinks `22` — #glossary, #meta, #navigation
+- [[Current Events Lab - Phòng Thí Nghiệm Sự Kiện|Current Events Lab - Phòng Thí Nghiệm Sự Kiện]] — degree `19`, backlinks `3`, outlinks `16` — #current-events, #meta, #navigation, #pattern-lab
+- [[MOC - Market Psychology & Risk|MOC - Market Psychology & Risk]] — degree `19`, backlinks `6`, outlinks `13` — #crypto-finance, #market-psychology, #mental-model, #moc, #risk-management
+- [[Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng|Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng]] — degree `17`, backlinks `6`, outlinks `11` — #epistemology, #evidence, #meta
+- … 2 more notes in this domain. See JSON for full list.
 
 ### Docs / Meta `_docs` — 11 notes
 
@@ -153,7 +153,7 @@ Recommended note types:
 
 High-degree notes are good candidates for hub/MOC treatment.
 
-1. [[index|Red Pill Wiki]] — degree `148` · backlinks `7` · outlinks `141`
+1. [[index|Red Pill Wiki]] — degree `149` · backlinks `7` · outlinks `142`
    - **Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn.
 2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `127` · backlinks `101` · outlinks `26`
    - **Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**
@@ -187,10 +187,10 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…
 17. [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `43` · backlinks `14` · outlinks `29`
    - **Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…
-18. [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `41` · backlinks `21` · outlinks `20`
-   - **Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…
-19. [[crypto-finance/Bitcoin|Bitcoin]] — degree `40` · backlinks `25` · outlinks `15`
+18. [[crypto-finance/Bitcoin|Bitcoin]] — degree `41` · backlinks `26` · outlinks `15`
    - **Bitcoin** là hệ thống tiền tệ phi tập trung đầu tiên trên thế giới, được tạo ra bởi **Satoshi Nakamoto** vào năm 2009. Nó là lối thoát (exit) khỏi hệ thống tiền pháp định và sự kiểm soát tài chính của nhà nước.
+19. [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `41` · backlinks `21` · outlinks `20`
+   - **Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…
 20. [[science-tech/index|Science & Tech Domain Gateway]] — degree `40` · backlinks `5` · outlinks `35`
    - **Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…
 
@@ -202,8 +202,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - `#mental-model` — 28 notes: [[crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền|Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]; [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]]; [[health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận|Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận]]; [[mental-models/Chia Tách Bởi Nhị Nguyên|Chia Tách Bởi Nhị Nguyên]]; [[mental-models/Climate Anxiety as Control - Fear-Based Compliance|Climate Anxiety as Control - Fear-Based Compliance]]
 - `#consciousness` — 28 notes: [[esoterica/Atula|Atula (Asura)]]; [[esoterica/Avatar - Disclosure Của Eywa & Gaia|Avatar - Disclosure Của Eywa & Gaia]]; [[esoterica/Chakra|Chakra (Luân Xa)]]; [[esoterica/Gaia - Trái Đất Có Ý Thức|Gaia - Trái Đất Có Ý Thức]]; [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]]
 - `#politics-conspiracy` — 23 notes: [[esoterica/Cabal|Cabal (Thế Lực Ngầm)]]; [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]]; [[politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời|Bão Từ Bắc Cực vs Bão Mặt Trời]]; [[politics-conspiracy/Bức Tường Băng|Bức Tường Băng (Ice Wall)]]; [[politics-conspiracy/Dark MAGA|Dark MAGA]]
+- `#crypto-finance` — 16 notes: [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]]; [[crypto-finance/Bitcoin|Bitcoin]]; [[crypto-finance/Chainlink - Mắt Xích Của Tokenized World|Chainlink - Mắt Xích Của Tokenized World]]; [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]]; [[crypto-finance/Giàu Không Nhờ May Mắn|Giàu Không Nhờ May Mắn]]
 - `#matrix` — 16 notes: [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]]; [[esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh - Năng Lượng Thu Hoạch Từ Con Người]]; [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]]; [[esoterica/Ma Trận|Ma Trận (The Matrix)]]; [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]]
-- `#crypto-finance` — 15 notes: [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]]; [[crypto-finance/Bitcoin|Bitcoin]]; [[crypto-finance/Chainlink - Mắt Xích Của Tokenized World|Chainlink - Mắt Xích Của Tokenized World]]; [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]]; [[crypto-finance/Giàu Không Nhờ May Mắn|Giàu Không Nhờ May Mắn]]
 - `#psychology` — 13 notes: [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]]; [[mental-models/Climate Anxiety as Control - Fear-Based Compliance|Climate Anxiety as Control - Fear-Based Compliance]]; [[mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]; [[mental-models/Gen Z - Phân Tích Phản Biện|Gen Z - Phân Tích Phản Biện]]; [[mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien|Mười Lần Làm Tình - Giải Phẫu Học Các Chất Gây Nghiện]]
 - `#symbolism` — 11 notes: [[esoterica/Avatar - Disclosure Của Eywa & Gaia|Avatar - Disclosure Của Eywa & Gaia]]; [[esoterica/Biểu Tượng Baphomet|Biểu Tượng Baphomet]]; [[esoterica/Manly P. Hall|Manly P. Hall]]; [[esoterica/Núi Tu Di|Núi Tu Di]]; [[esoterica/Saturn Cube|Saturn Cube (Khối Lập Phương Sao Thổ)]]
 - `#sovereignty` — 10 notes: [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]]; [[crypto-finance/Chainlink - Mắt Xích Của Tokenized World|Chainlink - Mắt Xích Của Tokenized World]]; [[health/index|Health Domain Gateway]]; [[health/Ketogenic Diet|Ketogenic Diet]]; [[health/Prolonged Fasting|Prolonged Fasting]]
@@ -289,8 +289,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]]
 - [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]]
 - [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]]
-- [[MOC - Health Sovereignty|MOC - Health Sovereignty]]
 - [[crypto-finance/Bitcoin|Bitcoin]]
+- [[MOC - Health Sovereignty|MOC - Health Sovereignty]]
 - [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]]
 - [[politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood|Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood]]
 - [[crypto-finance/Chainlink - Mắt Xích Của Tokenized World|Chainlink - Mắt Xích Của Tokenized World]]
