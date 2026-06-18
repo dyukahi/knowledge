@@ -246,6 +246,15 @@ Nói theo ngôn ngữ vault:
 
 Không nhất thiết là Ponzi pháp lý. Nhưng nó có thể là một **Ponzi-shaped funding dependency**.
 
+Nói thẳng hơn: đây là lý do cấu trúc này nghe **fraud-vibes** dù có thể đã được disclose hợp pháp. Disclosure có thể làm một roll-forward machine hợp pháp hơn, nhưng disclosure không biến dòng tiền đó thành productive cash flow. Nếu tiền trả ra cho old claims đến từ reserve, refinancing, vốn mới hoặc asset sale, trong khi tài sản lõi không sinh cash, thì về economic substance hệ thống đang dựa vào người vào sau để duy trì nghĩa vụ với người vào trước.
+
+Đó là khác biệt giữa **legal fraud** và **economic fraud vibes**:
+
+- Legal fraud cần deception, intent, misstatement hoặc omission trọng yếu.
+- Economic fraud vibes xuất hiện khi dòng tiền thật không đến từ engine tạo giá trị, mà đến từ việc roll claims, gọi vốn mới và giữ niềm tin đủ lâu để vòng quay không dừng.
+
+Câu hỏi vault không phải chỉ là “họ có disclose không?”. Câu hỏi sâu hơn là: **disclosure đó có thay đổi bản chất dòng tiền không?** Nếu câu trả lời là không, thì legal wrapper chỉ làm cấu trúc sạch hơn về mặt giấy tờ, không làm nó bớt phụ thuộc vào new money.
+
 ---
 
 ## 7. Saylor Thật Sự Cần Gì?
@@ -565,6 +574,8 @@ sang:
 **funding claim maintenance.**
 
 Đó là nơi “new blood pays old blood” không còn là meme nữa, mà trở thành câu hỏi kế toán: dòng USD mới vào đang mua tài sản mới hay đang trả nghĩa vụ cũ? Nếu phần trả nghĩa vụ cũ ngày càng lớn, model đã chuyển từ financial engineering sang roll-forward dependency.
+
+Và nếu một hệ thống phải liên tục gọi người mới để trả nghĩa vụ cho người cũ, trong khi vẫn bán narrative rằng tất cả đang phục vụ accumulation, thì người đọc bình thường thấy “fraud vibes” là rất hợp lý. Không cần gọi đó là fraud pháp lý để nhận ra economic shape của nó.
 
 ---
 
