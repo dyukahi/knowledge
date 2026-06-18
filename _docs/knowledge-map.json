@@ -544,7 +544,7 @@
           "mental-models/index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1087,
+        "words": 1146,
         "summary": "**Crypto & Finance là nơi vault đọc tiền như operating system của time, labor, consent và freedom.** Tiền không chỉ là price chart. Nó là hạ tầng quyết định ai được lưu trữ giá trị, ai bị debase, ai bị surveil, ai được permission để giao dịch, và ai vẫn còn e…"
       },
       {
@@ -1265,7 +1265,7 @@
       },
       {
         "path": "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
-        "title": "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+        "title": "Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
         "domain": "crypto-finance",
         "tags": [
           "ai-compliance",
@@ -1280,35 +1280,36 @@
           "tokenized-finance"
         ],
         "aliases": [
-          "Bitcoin To Identity Finance",
-          "Bitcoin Treasury Credit Crisis",
           "Bitcoin Wrapper Crash",
+          "Bitcoin Đến Tài Chính Định Danh",
           "BTC Wrapper Crash",
-          "Chainlink Và BTC Wrapper Crash",
+          "Chainlink Và Cú Sập Lớp Bọc Bitcoin",
+          "Cú Sập Lớp Bọc Bitcoin",
+          "Khủng Hoảng Tín Dụng Kho Bạc Bitcoin",
           "Tài Chính Định Danh"
         ],
         "headings": [
-          "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
-          "1. Bitcoin Không Chết, Wrapper Chết",
-          "2. Saylor Model Như Prototype",
-          "3. Khi Model Thắng, Nó Được Copy",
+          "Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+          "1. Bitcoin Không Chết, Lớp Bọc Chết",
+          "2. Mô Hình Saylor Như Bản Thử Đầu Tiên",
+          "3. Khi Mô Hình Thắng, Nó Được Sao Chép",
           "4. Đòn Bẩy Biến Niềm Tin Thành Nghĩa Vụ",
-          "5. Macro Shock: Khi Thanh Khoản Ngừng Phục Vụ Niềm Tin",
-          "6. Forced Selling: Bán Cái Gì Có Bid",
-          "7. Ai Là Forced Seller?",
-          "1. Bitcoin treasury companies",
-          "2. Preferred/yield wrappers",
-          "3. Leveraged funds / credit desks",
-          "4. ETF/structured product desks",
-          "5. Corporate imitators",
-          "8. 2008 Grammar, Bitcoin Asset",
-          "9. Crisis Creates The Reason For Control",
-          "10. Oracle Rails Như Safety Infrastructure",
-          "11. Digital ID Và AI Compliance: Fully Marked Finance",
-          "12. Bitcoin Dạy Ledger, Wrapper Crash Bán Permission",
-          "13. Kernel Truth vs Control Wrapper",
-          "14. Decade Crisis Và 2042 Product",
-          "15. Synthesis"
+          "5. Cú Sốc Thanh Khoản: Khi Tiền Ngừng Phục Vụ Niềm Tin",
+          "6. Bán Cưỡng Bức: Bán Cái Gì Còn Có Người Mua",
+          "7. Ai Là Người Bị Ép Bán?",
+          "1. Công ty kho bạc Bitcoin",
+          "2. Lớp bọc cổ phiếu ưu đãi và lợi suất",
+          "3. Quỹ dùng đòn bẩy và bàn tín dụng",
+          "4. Quỹ hoán đổi danh mục và bàn sản phẩm cấu trúc",
+          "5. Công ty sao chép nhỏ",
+          "8. Ngữ Pháp 2008, Nhưng Tài Sản Là Bitcoin",
+          "9. Khủng Hoảng Tạo Lý Do Cho Kiểm Soát",
+          "10. Đường Ray Xác Minh Dữ Liệu Như Hạ Tầng An Toàn",
+          "11. Định Danh Số Và Tuân Thủ Bằng Trí Tuệ Nhân Tạo",
+          "12. Bitcoin Dạy Sổ Cái, Lớp Bọc Sập Bán Cấp Phép",
+          "13. Hạt Nhân Sự Thật Và Lớp Bọc Kiểm Soát",
+          "14. Khủng Hoảng Thập Kỷ Và Sản Phẩm Sau Chấn Thương",
+          "15. Tổng Hợp"
         ],
         "wikilinks": [
           "Chainlink - Mắt Xích Của Tokenized World",
@@ -1326,8 +1327,8 @@
           "MOC - Financial Sovereignty.md",
           "MOC - Market Psychology & Risk.md"
         ],
-        "words": 2652,
-        "summary": "!BTC Wrapper Crash Credit Stack"
+        "words": 3897,
+        "summary": "!Chồng Tín Dụng Quanh Bitcoin"
       },
       {
         "path": "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
@@ -1392,7 +1393,7 @@
           "MOC - Financial Sovereignty.md",
           "MOC - Market Psychology & Risk.md"
         ],
-        "words": 7303,
+        "words": 7317,
         "summary": "!Saylor Game Bitcoin Box"
       },
       {
@@ -1405,8 +1406,8 @@
         "aliases": [
           "Money",
           "Money... (P.1)",
-          "Tiền",
           "tiền",
+          "Tiền",
           "Tiền tiền tiền",
           "tiền... (P.1) / Money"
         ],
@@ -8287,8 +8288,8 @@
           "health"
         ],
         "aliases": [
-          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
+          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
+          "Tần số cộng hưởng giữa Muối và Tuyến tùng"
         ],
         "headings": [
           "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -13563,7 +13564,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 3997,
+        "words": 4052,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14188,7 +14189,7 @@
           "politics-conspiracy/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 833,
+        "words": 892,
         "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
       },
       {
@@ -14437,7 +14438,7 @@
           "mental-models/index.md",
           "MOC - Financial Sovereignty.md"
         ],
-        "words": 790,
+        "words": 826,
         "summary": "**Market Psychology & Risk là bản đồ đọc thị trường như nơi tâm lý con người bị ép lộ ra bằng tiền thật. Chart là hậu quả, flow là bằng chứng, narrative là lớp giải thích đến sau. Trước khi hỏi “mua gì để giàu?”, phải hỏi: mình có sống sót đủ lâu không, ai đa…"
       },
       {
@@ -16178,7 +16179,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 3997,
+      "words": 4052,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -19043,7 +19044,7 @@
         "politics-conspiracy/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 833,
+      "words": 892,
       "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
     }
   ],
@@ -21105,7 +21106,7 @@
         "politics-conspiracy/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 833,
+      "words": 892,
       "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
     },
     "MOC - Health Sovereignty.md": {
@@ -21272,7 +21273,7 @@
         "mental-models/index.md",
         "MOC - Financial Sovereignty.md"
       ],
-      "words": 790,
+      "words": 826,
       "summary": "**Market Psychology & Risk là bản đồ đọc thị trường như nơi tâm lý con người bị ép lộ ra bằng tiền thật. Chart là hậu quả, flow là bằng chứng, narrative là lớp giải thích đến sau. Trước khi hỏi “mua gì để giàu?”, phải hỏi: mình có sống sót đủ lâu không, ai đa…"
     },
     "MOC - Science Revisionism.md": {
@@ -21798,7 +21799,7 @@
     },
     "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md": {
       "path": "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
-      "title": "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+      "title": "Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
       "domain": "crypto-finance",
       "tags": [
         "ai-compliance",
@@ -21813,35 +21814,36 @@
         "tokenized-finance"
       ],
       "aliases": [
-        "Bitcoin To Identity Finance",
-        "Bitcoin Treasury Credit Crisis",
         "Bitcoin Wrapper Crash",
+        "Bitcoin Đến Tài Chính Định Danh",
         "BTC Wrapper Crash",
-        "Chainlink Và BTC Wrapper Crash",
+        "Chainlink Và Cú Sập Lớp Bọc Bitcoin",
+        "Cú Sập Lớp Bọc Bitcoin",
+        "Khủng Hoảng Tín Dụng Kho Bạc Bitcoin",
         "Tài Chính Định Danh"
       ],
       "headings": [
-        "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
-        "1. Bitcoin Không Chết, Wrapper Chết",
-        "2. Saylor Model Như Prototype",
-        "3. Khi Model Thắng, Nó Được Copy",
+        "Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+        "1. Bitcoin Không Chết, Lớp Bọc Chết",
+        "2. Mô Hình Saylor Như Bản Thử Đầu Tiên",
+        "3. Khi Mô Hình Thắng, Nó Được Sao Chép",
         "4. Đòn Bẩy Biến Niềm Tin Thành Nghĩa Vụ",
-        "5. Macro Shock: Khi Thanh Khoản Ngừng Phục Vụ Niềm Tin",
-        "6. Forced Selling: Bán Cái Gì Có Bid",
-        "7. Ai Là Forced Seller?",
-        "1. Bitcoin treasury companies",
-        "2. Preferred/yield wrappers",
-        "3. Leveraged funds / credit desks",
-        "4. ETF/structured product desks",
-        "5. Corporate imitators",
-        "8. 2008 Grammar, Bitcoin Asset",
-        "9. Crisis Creates The Reason For Control",
-        "10. Oracle Rails Như Safety Infrastructure",
-        "11. Digital ID Và AI Compliance: Fully Marked Finance",
-        "12. Bitcoin Dạy Ledger, Wrapper Crash Bán Permission",
-        "13. Kernel Truth vs Control Wrapper",
-        "14. Decade Crisis Và 2042 Product",
-        "15. Synthesis"
+        "5. Cú Sốc Thanh Khoản: Khi Tiền Ngừng Phục Vụ Niềm Tin",
+        "6. Bán Cưỡng Bức: Bán Cái Gì Còn Có Người Mua",
+        "7. Ai Là Người Bị Ép Bán?",
+        "1. Công ty kho bạc Bitcoin",
+        "2. Lớp bọc cổ phiếu ưu đãi và lợi suất",
+        "3. Quỹ dùng đòn bẩy và bàn tín dụng",
+        "4. Quỹ hoán đổi danh mục và bàn sản phẩm cấu trúc",
+        "5. Công ty sao chép nhỏ",
+        "8. Ngữ Pháp 2008, Nhưng Tài Sản Là Bitcoin",
+        "9. Khủng Hoảng Tạo Lý Do Cho Kiểm Soát",
+        "10. Đường Ray Xác Minh Dữ Liệu Như Hạ Tầng An Toàn",
+        "11. Định Danh Số Và Tuân Thủ Bằng Trí Tuệ Nhân Tạo",
+        "12. Bitcoin Dạy Sổ Cái, Lớp Bọc Sập Bán Cấp Phép",
+        "13. Hạt Nhân Sự Thật Và Lớp Bọc Kiểm Soát",
+        "14. Khủng Hoảng Thập Kỷ Và Sản Phẩm Sau Chấn Thương",
+        "15. Tổng Hợp"
       ],
       "wikilinks": [
         "Chainlink - Mắt Xích Của Tokenized World",
@@ -21859,8 +21861,8 @@
         "MOC - Financial Sovereignty.md",
         "MOC - Market Psychology & Risk.md"
       ],
-      "words": 2652,
-      "summary": "!BTC Wrapper Crash Credit Stack"
+      "words": 3897,
+      "summary": "!Chồng Tín Dụng Quanh Bitcoin"
     },
     "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md": {
       "path": "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
@@ -22470,7 +22472,7 @@
         "MOC - Financial Sovereignty.md",
         "MOC - Market Psychology & Risk.md"
       ],
-      "words": 7303,
+      "words": 7317,
       "summary": "!Saylor Game Bitcoin Box"
     },
     "crypto-finance/Secular Market.md": {
@@ -22669,8 +22671,8 @@
       "aliases": [
         "Money",
         "Money... (P.1)",
-        "Tiền",
         "tiền",
+        "Tiền",
         "Tiền tiền tiền",
         "tiền... (P.1) / Money"
       ],
@@ -22802,7 +22804,7 @@
         "mental-models/index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1087,
+      "words": 1146,
       "summary": "**Crypto & Finance là nơi vault đọc tiền như operating system của time, labor, consent và freedom.** Tiền không chỉ là price chart. Nó là hạ tầng quyết định ai được lưu trữ giá trị, ai bị debase, ai bị surveil, ai được permission để giao dịch, và ai vẫn còn e…"
     },
     "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md": {
@@ -29536,8 +29538,8 @@
         "health"
       ],
       "aliases": [
-        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
+        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
+        "Tần số cộng hưởng giữa Muối và Tuyến tùng"
       ],
       "headings": [
         "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -30409,7 +30411,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 3997,
+      "words": 4052,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {

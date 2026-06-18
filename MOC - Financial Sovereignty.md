@@ -44,7 +44,7 @@ Nếu mới vào từ root, xem thêm [[Cách Đọc Red Pill Wiki#3 Money  Cont
 5. [[Bitcoin]] — exit-money thesis và bài test sovereignty.
 6. [[Privacy]] — boundary layer của free exchange.
 7. [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — case study về Bitcoin treasury, yield wrappers và claim structure.
-8. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — scenario bridge từ BTC wrapper crash sang oracle/RWA, Digital ID và AI compliance finance.
+8. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — cầu nối kịch bản từ cú sập lớp bọc Bitcoin sang tài sản mã hóa, ví định danh số và tuân thủ bằng trí tuệ nhân tạo.
 9. [[Chainlink - Mắt Xích Của Tokenized World]] — oracle/RWA bridge vào tokenized finance.
 
 ---
@@ -65,7 +65,7 @@ Financial sovereignty mà không có risk discipline thì dễ thành một dạ
 - [[Bitcoin]] — khan hiếm kỹ thuật số, self-custody, censorship resistance.
 - [[Bitcoin Sẽ Chết Nếu Không Có Privacy]] — public ledger và rủi ro fungibility.
 - [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — khi Bitcoin được bọc thành public securities, preferred yield và capital stack.
-- [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — khi cú sập wrapper tạo lý do cho regulated tokenized finance.
+- [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — khi cú sập lớp bọc tạo lý do cho tài chính mã hóa có quản lý.
 - [[Privacy]] — privacy như boundary, không phải secrecy theater.
 - [[Privacy Is The New Wealth]] — financial privacy như status, leverage và survival.
 
@@ -111,5 +111,5 @@ Tiền không chỉ là phương tiện trao đổi. Nó là hệ điều hành 
 - [[Tiền Pháp Định]]
 - [[Chainlink - Mắt Xích Của Tokenized World]]
 - [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]
-- [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
+- [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
 - [[Báo Cáo 2030]]

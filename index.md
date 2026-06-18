@@ -137,7 +137,7 @@ From fiat awareness to privacy, self-custody and programmable-finance risk.
 - [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]
 - [[Chainlink - Mắt Xích Của Tokenized World]]
 - [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]
-- [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
+- [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
 
 ### 5. Disclosure & Spectacle Pack
 
@@ -254,7 +254,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Gen Z và CBDC - Programmable Money Psychology]]
 - [[Chainlink - Mắt Xích Của Tokenized World]]
 - [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]
-- [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
+- [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
 
 ### 🔮 Esoterica
 
@@ -322,7 +322,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### June 18, 2026
 
-- **[[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]** - new crypto-finance sequel mapping how a systemic BTC wrapper crash could become the political reason for oracle-verified reserves, Chainlink/RWA rails, Digital ID wallets, AI compliance and fully marked finance.
+- **[[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]** - bài nối tiếp về cách cú sập của các lớp bọc quanh Bitcoin có thể tạo lý do chính trị cho dự trữ được xác minh, tài sản mã hóa, ví định danh số và tài chính bị giám sát bằng trí tuệ nhân tạo.
 - **[[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]** - new crypto-finance case study explaining MSTR as the market price of a Bitcoin box, STRC as a yield/funding product, where preferred dividends can come from, why par matters, and how Saylor's real game is belief-duration arbitrage through public capital markets.
 
 ### June 17, 2026

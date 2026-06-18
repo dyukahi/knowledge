@@ -745,4 +745,4 @@ Nếu câu trả lời là không, lịch sử có thể đọc lại thế này
 
 Nếu mô hình này không chỉ là Strategy mà được copy thành cả một chồng tín dụng kho bạc Bitcoin, cú sập kế tiếp có thể trở thành lý do để bán một hệ tài chính định danh: dự trữ được oracle xác minh, ví định danh số, tuân thủ bằng AI và tài sản mã hóa.
 
-Đọc tiếp: [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]].
+Đọc tiếp: [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]].

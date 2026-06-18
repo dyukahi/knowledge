@@ -28,7 +28,7 @@ Pack này đọc money như hạ tầng quyền lực: fiat dilution, self-custo
 4. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]
 5. [[Chainlink - Mắt Xích Của Tokenized World]]
 6. [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]
-7. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
+7. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
 
 ---
 
@@ -88,7 +88,7 @@ Orientation: sovereignty fails when the nervous system is still owned by impulse
 2. [[Tư Duy Lũy Thừa]] — install compounding as mental operating system.
 3. [[Ai Đứng Bên Kia Giao Dịch]] — understand every top/bottom as ownership transfer.
 4. [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — study a live capital-markets wrapper where Bitcoin belief, preferred yield and fresh USD inflow become one machine.
-5. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — follow how a copied BTC wrapper stack could crash into regulated identity finance.
+5. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — theo dõi cách một chồng lớp bọc Bitcoin bị sao chép có thể sập và mở cửa cho tài chính định danh có quản lý.
 6. [[Secular Market]] — learn patience across long waves.
 4. [[Sợ hãi - Tham Lam – Cân bằng]] — watch fear and greed hijack allocation.
 5. [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — see desire as the market under the market.
@@ -126,7 +126,7 @@ Orientation: use this when finance starts touching politics, psychology and esot
 - [[Gen Z và CBDC - Programmable Money Psychology]] — how programmable money trains behavior before law arrives.
 - [[Chainlink - Mắt Xích Của Tokenized World]] — oracle, RWA and tokenization bridge between crypto and banking rails.
 - [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — MSTR as Bitcoin box, STRC as yield product, and the capital-markets game of funding BTC accumulation with public securities.
-- [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — macro sequel: BTC treasury credit stack, forced selling, crisis-to-consent and Chainlink/RWA/Digital ID/AI compliance rails.
+- [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — bài nối tiếp: chồng tín dụng kho bạc Bitcoin, bán cưỡng bức, khủng hoảng tạo đồng thuận và đường ray tài chính định danh.
 - [[Điều Mà Trường Học Không Dạy Về Tiền]] — basic literacy the system omits.
 
 ---
