@@ -44,7 +44,8 @@ Nếu mới vào từ root, xem thêm [[Cách Đọc Red Pill Wiki#3 Money  Cont
 5. [[Bitcoin]] — exit-money thesis và bài test sovereignty.
 6. [[Privacy]] — boundary layer của free exchange.
 7. [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — case study về Bitcoin treasury, yield wrappers và claim structure.
-8. [[Chainlink - Mắt Xích Của Tokenized World]] — oracle/RWA bridge vào tokenized finance.
+8. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — scenario bridge từ BTC wrapper crash sang oracle/RWA, Digital ID và AI compliance finance.
+9. [[Chainlink - Mắt Xích Của Tokenized World]] — oracle/RWA bridge vào tokenized finance.
 
 ---
 
@@ -64,6 +65,7 @@ Financial sovereignty mà không có risk discipline thì dễ thành một dạ
 - [[Bitcoin]] — khan hiếm kỹ thuật số, self-custody, censorship resistance.
 - [[Bitcoin Sẽ Chết Nếu Không Có Privacy]] — public ledger và rủi ro fungibility.
 - [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — khi Bitcoin được bọc thành public securities, preferred yield và capital stack.
+- [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — khi cú sập wrapper tạo lý do cho regulated tokenized finance.
 - [[Privacy]] — privacy như boundary, không phải secrecy theater.
 - [[Privacy Is The New Wealth]] — financial privacy như status, leverage và survival.
 
@@ -109,4 +111,5 @@ Tiền không chỉ là phương tiện trao đổi. Nó là hệ điều hành 
 - [[Tiền Pháp Định]]
 - [[Chainlink - Mắt Xích Của Tokenized World]]
 - [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]
+- [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
 - [[Báo Cáo 2030]]
