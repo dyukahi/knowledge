@@ -518,7 +518,57 @@ Câu gọn nhất:
 
 ---
 
-## 15. Nếu Saylor Thắng Thì Sao? 2030 Bear Case
+## 15. Use of Proceeds: Họ Có Nói Tiền Dùng Để Làm Gì Không?
+
+Một điểm quan trọng: Strategy không giấu hoàn toàn chuyện tiền raise mới có thể dùng cho nhiều mục đích khác nhau. Trong prospectus ATM common stock, phần **Use of proceeds** nói rằng net proceeds có thể được dùng cho **general corporate purposes**, bao gồm:
+
+- acquisition of bitcoin;
+- paying cash dividends on outstanding preferred stock;
+- working capital.
+
+Nói cách khác, disclosure public đã mở sẵn ba cửa:
+
+- mua thêm BTC cho cái hộp;
+- trả dividend cho preferred holders;
+- giữ runway/working capital cho công ty.
+
+Điểm đáng chú ý là họ không chia tỷ lệ cứng kiểu:
+
+- bao nhiêu phần trăm mua BTC;
+- bao nhiêu phần trăm giữ cash reserve;
+- bao nhiêu phần trăm trả dividend;
+- bao nhiêu phần trăm dùng cho working capital.
+
+Điều này cho Strategy optionality rất lớn. Về mặt legal, nó bảo vệ họ vì họ đã nói rộng. Về mặt systems reading, nó xác nhận rằng vốn mới không chỉ là “mua BTC”. Vốn mới cũng có thể dùng để nuôi chính capital stack đang tồn tại.
+
+Cần phân biệt rõ: **vốn raise mới không phải profit**.
+
+Nếu Strategy issue common/preferred/debt để lấy USD, công ty nhận cash nhưng đổi lại tạo thêm claim, dilution hoặc cash obligation. Đó là financing inflow, không phải lợi nhuận kinh doanh.
+
+Profit chỉ đến từ:
+
+- operating profit của business thật;
+- realized gain nếu bán tài sản cao hơn cost;
+- accounting gains/losses tùy chuẩn kế toán;
+- hoặc market capitalization tăng nếu nói theo wealth của equity holders.
+
+Vì vậy câu hỏi cần watch qua thời gian không phải chỉ là “Strategy raise được bao nhiêu?” mà là:
+
+**Bao nhiêu vốn mới thật sự biến thành BTC accumulation, và bao nhiêu vốn mới đang dùng để maintain dividends, reserve và working capital?**
+
+Nếu tỷ trọng vốn mới ngày càng nghiêng về mua BTC, flywheel vẫn còn đúng narrative. Nếu tỷ trọng ngày càng nghiêng về trả dividend/nuôi runway, flywheel bắt đầu chuyển từ:
+
+**funding BTC accumulation**
+
+sang:
+
+**funding claim maintenance.**
+
+Đó là nơi “new blood pays old blood” không còn là meme nữa, mà trở thành câu hỏi kế toán: dòng USD mới vào đang mua tài sản mới hay đang trả nghĩa vụ cũ?
+
+---
+
+## 16. Nếu Saylor Thắng Thì Sao? 2030 Bear Case
 
 Một câu hỏi khó hơn “Saylor có sống qua cú rơi tiếp theo không?” là:
 
