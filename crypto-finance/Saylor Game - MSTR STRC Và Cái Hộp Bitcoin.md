@@ -205,13 +205,13 @@ Nếu STRC cũ đang trade 90, ai sẽ mua STRC mới ở 100 với cùng risk v
 
 Ví dụ đơn giản:
 
-> Muốn raise $1B cash ở par 100:
-> → issue $1B stated amount
-> → dividend 11.5% = $115M/năm
->
-> Muốn raise $1B cash khi market chỉ trả 80:
-> → phải issue $1.25B stated amount
-> → dividend 11.5% × 1.25B = $143.75M/năm
+- **Muốn raise $1B cash ở par 100:**
+  - issue $1B stated amount;
+  - dividend 11.5% = **$115M/năm**.
+
+- **Muốn raise $1B cash khi market chỉ trả 80:**
+  - phải issue $1.25B stated amount;
+  - dividend 11.5% × 1.25B = **$143.75M/năm**.
 
 Vậy STRC dưới par không giết Strategy ngay. Nhưng nó nói rằng cost of capital đã tăng.
 
