@@ -24,6 +24,8 @@ related:
 
 # BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh
 
+![BTC Wrapper Crash Credit Stack](../assets/illustrations/btc-wrapper-crash-credit-stack.png)
+
 > Cú sập lớn nhất có thể không phải là cái chết của Bitcoin. Nó có thể là cái chết của những lớp giấy claim được dựng quanh niềm tin Bitcoin.
 
 Bài này là sequel của [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]. Bài Saylor đọc một case cụ thể: Strategy/MicroStrategy, MSTR, STRC và cách một Bitcoin treasury company có thể biến niềm tin vào BTC thành public securities, yield products và capital stack nhiều tầng.
@@ -226,6 +228,8 @@ Câu vault:
 
 ## 6. Forced Selling: Bán Cái Gì Có Bid
 
+![BTC Wrapper Crash Forced Selling](../assets/illustrations/btc-wrapper-crash-forced-selling.png)
+
 Forced seller không bán thứ “nên bán”. Forced seller bán thứ bán được.
 
 Trong liquidity crisis:
@@ -366,6 +370,8 @@ Và control stack được bán như medicine.
 ---
 
 ## 10. Oracle Rails Như Safety Infrastructure
+
+![BTC Wrapper Crash Identity Finance](../assets/illustrations/btc-wrapper-crash-identity-finance.png)
 
 Sau crash, system sẽ không nhất thiết cấm Bitcoin outright. Nó có thể nói:
 
