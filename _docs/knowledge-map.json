@@ -1335,13 +1335,13 @@
         "domain": "crypto-finance",
         "tags": [
           "bitcoin",
-          "capital-markets",
           "crypto-finance",
-          "financial-engineering",
+          "ky-thuat-tai-chinh",
           "market-psychology",
           "market-structure",
           "mstr",
-          "strc"
+          "strc",
+          "thi-truong-von"
         ],
         "aliases": [
           "MSTR Là Cái Hộp Bitcoin",
@@ -1355,25 +1355,25 @@
           "1. Bắt Đầu Từ Cái Hộp Bitcoin",
           "2. MSTR Là Giá Của Cái Hộp, Không Phải Chính Bitcoin",
           "3. STRC Là Gì?",
-          "4. Dividend Đến Từ Đâu?",
+          "4. Cổ Tức Đến Từ Đâu?",
           "5. Tại Sao STRC Cần Giữ Gần $100?",
-          "6. Vì Sao Nói Nó Có “Đa Cấp Vibes”?",
+          "6. Vì Sao Nói Nó Có “Mùi Đa Cấp”?",
           "7. Saylor Thật Sự Cần Gì?",
           "8. Giá MSTR/STRC Là Triệu Chứng, Không Phải Lõi",
           "9. Nếu BTC Giảm 30% Thì Sao?",
           "10. Exit Của Saylor Khi Thắng Là Gì?",
           "11. Khi Nào Game Gãy?",
-          "12. Bài Học Financial Game",
-          "13. Kết Luận: Financialize Niềm Tin",
+          "12. Bài Học Về Trò Chơi Tài Chính",
+          "13. Kết Luận: Tài Chính Hóa Niềm Tin",
           "14. Tài Chính Là Kiến Trúc Niềm Tin Có Lịch Thanh Toán",
-          "15. Use of Proceeds: Họ Có Nói Tiền Dùng Để Làm Gì Không?",
+          "15. Tiền Phát Hành Được Dùng Làm Gì: Họ Có Nói Tiền Dùng Để Làm Gì Không?",
           "16. Nếu Saylor Thắng Thì Sao? 2030 Bear Case",
           "Exit Đúng Nếu Ông Ta Kỷ Luật",
-          "Character Risk: Prophet Không Thường Giảm Rủi Ro Khi Được Chứng Minh Đúng",
+          "Rủi Ro Tính Cách: Nhà Tiên Tri Không Thường Giảm Rủi Ro Khi Được Chứng Minh Đúng",
           "Timeline Cynical Bear",
           "Saylor Có Exit On Time Không?",
-          "Thesis Đúng, Wrapper Sai",
-          "The Big Game Ends After It Works",
+          "Luận Điểm Đúng, Lớp bọc tài chính Sai",
+          "Trò Chơi Lớn Thường Gãy Sau Khi Nó Tỏ Ra Hiệu Quả",
           "Sequel / Đọc Tiếp"
         ],
         "wikilinks": [
@@ -1392,7 +1392,7 @@
           "MOC - Financial Sovereignty.md",
           "MOC - Market Psychology & Risk.md"
         ],
-        "words": 5881,
+        "words": 7174,
         "summary": "!Saylor Game Bitcoin Box"
       },
       {
@@ -8287,8 +8287,8 @@
           "health"
         ],
         "aliases": [
-          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
-          "Tần số cộng hưởng giữa Muối và Tuyến tùng"
+          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
         ],
         "headings": [
           "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -20359,11 +20359,7 @@
       1
     ],
     [
-      "capital-markets",
-      1
-    ],
-    [
-      "financial-engineering",
+      "ky-thuat-tai-chinh",
       1
     ],
     [
@@ -20372,6 +20368,10 @@
     ],
     [
       "strc",
+      1
+    ],
+    [
+      "thi-truong-von",
       1
     ],
     [
@@ -22413,13 +22413,13 @@
       "domain": "crypto-finance",
       "tags": [
         "bitcoin",
-        "capital-markets",
         "crypto-finance",
-        "financial-engineering",
+        "ky-thuat-tai-chinh",
         "market-psychology",
         "market-structure",
         "mstr",
-        "strc"
+        "strc",
+        "thi-truong-von"
       ],
       "aliases": [
         "MSTR Là Cái Hộp Bitcoin",
@@ -22433,25 +22433,25 @@
         "1. Bắt Đầu Từ Cái Hộp Bitcoin",
         "2. MSTR Là Giá Của Cái Hộp, Không Phải Chính Bitcoin",
         "3. STRC Là Gì?",
-        "4. Dividend Đến Từ Đâu?",
+        "4. Cổ Tức Đến Từ Đâu?",
         "5. Tại Sao STRC Cần Giữ Gần $100?",
-        "6. Vì Sao Nói Nó Có “Đa Cấp Vibes”?",
+        "6. Vì Sao Nói Nó Có “Mùi Đa Cấp”?",
         "7. Saylor Thật Sự Cần Gì?",
         "8. Giá MSTR/STRC Là Triệu Chứng, Không Phải Lõi",
         "9. Nếu BTC Giảm 30% Thì Sao?",
         "10. Exit Của Saylor Khi Thắng Là Gì?",
         "11. Khi Nào Game Gãy?",
-        "12. Bài Học Financial Game",
-        "13. Kết Luận: Financialize Niềm Tin",
+        "12. Bài Học Về Trò Chơi Tài Chính",
+        "13. Kết Luận: Tài Chính Hóa Niềm Tin",
         "14. Tài Chính Là Kiến Trúc Niềm Tin Có Lịch Thanh Toán",
-        "15. Use of Proceeds: Họ Có Nói Tiền Dùng Để Làm Gì Không?",
+        "15. Tiền Phát Hành Được Dùng Làm Gì: Họ Có Nói Tiền Dùng Để Làm Gì Không?",
         "16. Nếu Saylor Thắng Thì Sao? 2030 Bear Case",
         "Exit Đúng Nếu Ông Ta Kỷ Luật",
-        "Character Risk: Prophet Không Thường Giảm Rủi Ro Khi Được Chứng Minh Đúng",
+        "Rủi Ro Tính Cách: Nhà Tiên Tri Không Thường Giảm Rủi Ro Khi Được Chứng Minh Đúng",
         "Timeline Cynical Bear",
         "Saylor Có Exit On Time Không?",
-        "Thesis Đúng, Wrapper Sai",
-        "The Big Game Ends After It Works",
+        "Luận Điểm Đúng, Lớp bọc tài chính Sai",
+        "Trò Chơi Lớn Thường Gãy Sau Khi Nó Tỏ Ra Hiệu Quả",
         "Sequel / Đọc Tiếp"
       ],
       "wikilinks": [
@@ -22470,7 +22470,7 @@
         "MOC - Financial Sovereignty.md",
         "MOC - Market Psychology & Risk.md"
       ],
-      "words": 5881,
+      "words": 7174,
       "summary": "!Saylor Game Bitcoin Box"
     },
     "crypto-finance/Secular Market.md": {
@@ -29536,8 +29536,8 @@
         "health"
       ],
       "aliases": [
-        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
-        "Tần số cộng hưởng giữa Muối và Tuyến tùng"
+        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
       ],
       "headings": [
         "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
