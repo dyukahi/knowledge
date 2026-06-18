@@ -69,20 +69,20 @@ Vì vậy MSTR không chỉ là “công cụ thay thế Bitcoin”. Nó là:
 
 MSTR được thị trường định giá như một tổ hợp gồm: **giá trị tài sản ròng của lượng BTC trong hộp**, cộng với **niềm tin vào Saylor**, **khả năng gọi vốn tương lai**, **mức cộng thêm của lớp bọc thị trường đại chúng**, rồi trừ đi **nghĩa vụ nợ, pha loãng và rủi ro cấu trúc vốn**.
 
-Khi mọi thứ thuận, MSTR có thể giao dịch như một “cái hộp BTC” được định giá cao hơn số BTC bên trong. Khi mọi thứ nghịch, thị trường bắt đầu hỏi: cái hộp này có bao nhiêu quyền đòi đang chồng lên nó?
+Khi mọi thứ thuận, MSTR có thể được giao dịch như một “cái hộp BTC” mà thị trường trả giá cao hơn số BTC thật bên trong. Khi mọi thứ nghịch, thị trường bắt đầu hỏi: cái hộp này có bao nhiêu quyền đòi đang chồng lên nó?
 
 ---
 
 ## 2. MSTR Là Giá Của Cái Hộp, Không Phải Chính Bitcoin
 
-Cổ phiếu thường MSTR là tầng ăn phần tăng giá rõ nhất trong hệ thống.
+Cổ phiếu thường MSTR là tầng hưởng phần tăng giá rõ nhất trong hệ thống.
 
 Nếu BTC tăng mạnh:
 
 - BTC trong hộp tăng giá.
-- giá trị tài sản ròng của công ty tăng.
-- Thị trường có thể trả mức cộng thêm cao hơn.
-- cổ phiếu thường MSTR tăng mạnh hơn BTC.
+- Giá trị tài sản ròng của công ty tăng.
+- Thị trường có thể trả giá chênh cao hơn cho cái hộp.
+- Cổ phiếu thường MSTR có thể tăng mạnh hơn BTC.
 
 Đây là lý do MSTR hấp dẫn với người tin Bitcoin nhưng muốn chơi bằng cổ phiếu đại chúng. Họ không chỉ muốn mức tiếp xúc với BTC. Họ muốn mức tiếp xúc với **cỗ máy gọi vốn mua BTC**.
 
@@ -92,14 +92,14 @@ Trò chơi của Saylor không chỉ là:
 
 Mà là:
 
-- Khi MSTR được định giá mức cộng thêm, Strategy phát hành giấy quyền đòi để lấy USD.
+- Khi MSTR được thị trường trả giá chênh cao, Strategy phát hành thêm chứng khoán để lấy USD.
 - USD đó được dùng để mua thêm BTC.
 - Cái hộp BTC to hơn, câu chuyện niềm tin mạnh hơn.
-- Nếu mức cộng thêm mở rộng, Strategy lại có thể phát hành tiếp.
+- Nếu phần giá chênh này mở rộng, Strategy lại có thể phát hành tiếp.
 
 Đây là vòng phản thân.
 
-Khi chạy thuận, nó trông như thiên tài tài chính. Khi chạy nghịch, nó trông như một cái hộp tài sản bị phủ ngày càng nhiều quyền đòi tiền mặt.
+Khi chạy thuận, nó trông như thiên tài tài chính. Khi chạy nghịch, nó trông như một cái hộp tài sản bị phủ ngày càng nhiều lớp quyền đòi cần tiền mặt.
 
 ---
 
@@ -121,9 +121,9 @@ Nhưng điều quan trọng nhất:
 
 - Người cầm STRC không sở hữu Bitcoin trực tiếp.
 - Người cầm STRC không ăn toàn bộ phần tăng giá nếu BTC tăng 10x.
-- Người cầm STRC nhận cổ tức nếu công ty công bố trả, và có quyền đòi ưu tiên hơn cổ phiếu thường trên tài sản còn lại.
+- Người cầm STRC nhận cổ tức nếu công ty công bố trả, và được xếp trước cổ phiếu thường khi chia tài sản còn lại.
 
-Nếu BTC tăng mạnh, người cầm STRC không tự động giàu như người cầm cổ phiếu thường MSTR. STRC chỉ được lợi gián tiếp vì bảng cân đối của Strategy khỏe hơn, khả năng trả cổ tức nhìn an toàn hơn, và giá STRC có thể quay về gần mệnh giá. Nói cách khác, người cầm STRC đang mua niềm tin rằng **Strategy sẽ luôn có USD đúng kỳ**, không phải quyền đòi trực tiếp lên phần tăng giá của BTC.
+Nếu BTC tăng mạnh, người cầm STRC không tự động giàu như người cầm cổ phiếu thường MSTR. STRC chỉ được lợi gián tiếp vì bảng cân đối của Strategy khỏe hơn, khả năng trả cổ tức nhìn an toàn hơn, và giá STRC có thể quay về gần mệnh giá. Nói cách khác, người cầm STRC đang mua niềm tin rằng **Strategy sẽ luôn có USD đúng kỳ**, không phải quyền sở hữu trực tiếp phần tăng giá của BTC.
 
 Nói thẳng:
 
