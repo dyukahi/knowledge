@@ -412,7 +412,7 @@ Case Saylor/MSTR/STRC dạy một bài rất lớn: trong finance, tài sản ch
 
 Một cái hộp có thể chứa tài sản tốt. Nhưng nếu cái hộp đó bị phủ quá nhiều quyền đòi đòi tiền mặt, phần tăng giá của tài sản không tự động cứu mọi tầng người nắm giữ.
 
-- **BTC người nắm giữ trực tiếp:** cầm tài sản.
+- **Người nắm giữ BTC trực tiếp:** cầm tài sản.
 - **Người cầm cổ phiếu thường MSTR:** cầm quyền đòi cổ phần lên cái hộp BTC, ăn phần tăng giá nhưng chịu pha loãng/biến động mạnh.
 - **Người cầm STRC:** cầm quyền đòi lợi suất ưu đãi, phần tăng giá bị giới hạn, chịu rủi ro tín dụng của công ty phát hành.
 - **Saylor/người nội bộ:** hưởng cổ phần thường/control/mức cộng thêm nếu cái hộp được thị trường định giá cao.
@@ -559,7 +559,7 @@ Profit chỉ đến từ:
 - lợi nhuận kinh doanh của mảng kinh doanh thật;
 - lãi đã hiện thực hóa nếu bán tài sản cao hơn giá vốn;
 - lãi/lỗ kế toán tùy chuẩn kế toán;
-- hoặc giá trị vốn hóa thị trường tăng nếu nói theo wealth của cổ phần thường người nắm giữs.
+- hoặc giá trị vốn hóa thị trường tăng nếu nói theo tài sản của người nắm giữ cổ phần thường.
 
 Vì vậy câu hỏi cần theo dõi qua thời gian không phải chỉ là “Strategy gọi được bao nhiêu vốn?” mà là:
 
@@ -693,7 +693,7 @@ Nhưng cái vehicle Strategy có thể vẫn tiếp tục scale.
 - **thoát rủi ro cá nhân** — người sáng lập đã giảm rủi ro riêng;
 - **cỗ xe thật sự giảm rủi ro** — công ty thật sự hạ leverage, hạ chồng quyền đòi, hạ nghĩa vụ tiền mặt.
 
-Một người có thể “exit” cá nhân trong khi câu chuyện niềm tin vẫn tiếp tục chạy cho công khai người nắm giữs.
+Một người có thể “exit” cá nhân trong khi câu chuyện niềm tin vẫn tiếp tục chạy cho nhà đầu tư đại chúng.
 
 ### Luận Điểm Đúng, Lớp bọc tài chính Sai
 
