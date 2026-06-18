@@ -111,14 +111,9 @@ STRC là **perpetual preferred stock** của Strategy. Có thể hiểu đơn gi
 
 Nó không phải common stock như MSTR. Nó cũng không hẳn là bond thường. Nó nằm ở giữa:
 
-> Debt / bond
-> ↑ claim mạnh hơn, thường có coupon/maturity rõ hơn
->
-> Preferred stock
-> ↑ ưu tiên hơn common, nhận dividend trước common, upside thường bị giới hạn
->
-> Common stock
-> ↑ claim thấp nhất, ăn upside lớn nhất
+- **Debt / bond:** claim mạnh hơn, thường có coupon/maturity rõ hơn.
+- **Preferred stock:** ưu tiên hơn common, nhận dividend trước common, upside thường bị giới hạn.
+- **Common stock:** claim thấp nhất, ăn upside lớn nhất.
 
 STRC hiện được Strategy mô tả là một preferred stock trả dividend bằng tiền mặt, rate có thể điều chỉnh, và mục tiêu là giúp nó giao dịch quanh **$100 par value**. Theo thông tin công khai từ Strategy, STRC hiện trả annual dividend khoảng **11.5%**, thanh toán semi-monthly sau khi cơ chế trả hai lần mỗi tháng được approve.
 
