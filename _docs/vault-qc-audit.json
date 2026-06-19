@@ -1,7 +1,7 @@
 {
   "summary": {
     "public_notes": 210,
-    "avg_words": 1594,
+    "avg_words": 1595,
     "missing_description": 0,
     "missing_aliases": 0,
     "thin_lt800": 26,
@@ -370,8 +370,8 @@
       {
         "path": "mental-models/Thế Hệ Lọt Khe.md",
         "short": 99,
-        "paragraphs": 155,
-        "ratio": 0.639
+        "paragraphs": 158,
+        "ratio": 0.627
       }
     ],
     "broken_links": [],

@@ -112,6 +112,8 @@ Nghe tiện. Và nhiều khi tiện thật. Nhưng sở hữu và truy cập là
 
 ## 2. AI Và Cái Nghề Không Còn Chắc
 
+![AI Và Bản Đồ Nghề Nghiệp Dịch Chuyển](../assets/illustrations/the-he-lot-khe-ai-job-map.png)
+
 Rồi trí tuệ nhân tạo xuất hiện.
 
 Ngày xưa học một nghề là có thể làm nghề đó vài chục năm. Một người có thể học kế toán, thiết kế, marketing, lập trình, chăm sóc khách hàng, rồi tin rằng nếu mình chịu khó, mình có đường dài để đi.
@@ -278,6 +280,8 @@ Nó còn phải giữ đất cho người bình thường sống, trồng trọt
 
 ## 7. Từ Sở Hữu Sang Quyền Truy Cập Có Điều Kiện
 
+![Quyền Truy Cập Có Điều Kiện Và Ví Định Danh](../assets/illustrations/the-he-lot-khe-access-ubi-wallet.png)
+
 Khi nhà quá đắt, đất quá xa, nghề quá bất ổn, con cái quá tốn, tài sản quá tập trung, hệ thống không cần nói thẳng rằng con người nên từ bỏ sở hữu. Nó chỉ cần làm cho sở hữu trở nên xa dần, rồi đưa ra một gói thay thế mềm hơn:
 
 > Bạn không cần sở hữu nữa. Bạn chỉ cần quyền truy cập.
@@ -323,6 +327,8 @@ Họ làm cho anh không bao giờ mua nổi nhà, rồi bán cho anh gói thuê
 ---
 
 ## 8. Chúng Ta Cần Đầu Tư Vào Thế Hệ Tương Lai
+
+![Nền Móng Chính Sách Cho Thế Hệ Tương Lai](../assets/illustrations/the-he-lot-khe-future-policy-foundation.png)
 
 Bài này không viết để bênh vực sự lười biếng.
 
