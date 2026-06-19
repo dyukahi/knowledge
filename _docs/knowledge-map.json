@@ -11,7 +11,7 @@
       "politics-conspiracy": 27,
       "science-tech": 18
     },
-    "tags": 227,
+    "tags": 229,
     "wikilinkEdges": 2238,
     "brokenLinks": 0,
     "orphans": 12
@@ -1328,12 +1328,12 @@
           "MOC - Financial Sovereignty.md",
           "MOC - Market Psychology & Risk.md"
         ],
-        "words": 3897,
+        "words": 4173,
         "summary": "!Chồng Tín Dụng Quanh Bitcoin"
       },
       {
         "path": "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
-        "title": "Saylor Game - MSTR, STRC Và Cái Hộp Bitcoin",
+        "title": "Saylor Game - MSTR, STRC, STRD, STRF Và Cái Hộp Bitcoin",
         "domain": "crypto-finance",
         "tags": [
           "bitcoin",
@@ -1343,17 +1343,20 @@
           "market-structure",
           "mstr",
           "strc",
+          "strd",
+          "strf",
           "thi-truong-von"
         ],
         "aliases": [
           "MSTR Là Cái Hộp Bitcoin",
+          "MSTR STRC STRD STRF Và Cái Hộp Bitcoin",
           "MSTR STRC Và Cái Hộp Bitcoin",
           "Saylor Game",
           "Strategy Bitcoin Treasury Game",
           "STRC Là Gì"
         ],
         "headings": [
-          "Saylor Game - MSTR, STRC Và Cái Hộp Bitcoin",
+          "Saylor Game - MSTR, STRC, STRD, STRF Và Cái Hộp Bitcoin",
           "1. Bắt Đầu Từ Cái Hộp Bitcoin",
           "2. MSTR Là Giá Của Cái Hộp, Không Phải Chính Bitcoin",
           "3. STRC Là Gì?",
@@ -1394,7 +1397,7 @@
           "MOC - Financial Sovereignty.md",
           "MOC - Market Psychology & Risk.md"
         ],
-        "words": 7317,
+        "words": 7651,
         "summary": "!Saylor Game Bitcoin Box"
       },
       {
@@ -1407,8 +1410,8 @@
         "aliases": [
           "Money",
           "Money... (P.1)",
-          "tiền",
           "Tiền",
+          "tiền",
           "Tiền tiền tiền",
           "tiền... (P.1) / Money"
         ],
@@ -8289,8 +8292,8 @@
           "health"
         ],
         "aliases": [
-          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
+          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
+          "Tần số cộng hưởng giữa Muối và Tuyến tùng"
         ],
         "headings": [
           "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -20457,6 +20460,14 @@
       1
     ],
     [
+      "strd",
+      1
+    ],
+    [
+      "strf",
+      1
+    ],
+    [
       "thi-truong-von",
       1
     ],
@@ -20494,14 +20505,6 @@
     ],
     [
       "reincarnation",
-      1
-    ],
-    [
-      "connections",
-      1
-    ],
-    [
-      "giants",
       1
     ]
   ],
@@ -21946,7 +21949,7 @@
         "MOC - Financial Sovereignty.md",
         "MOC - Market Psychology & Risk.md"
       ],
-      "words": 3897,
+      "words": 4173,
       "summary": "!Chồng Tín Dụng Quanh Bitcoin"
     },
     "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md": {
@@ -22497,7 +22500,7 @@
     },
     "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md": {
       "path": "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
-      "title": "Saylor Game - MSTR, STRC Và Cái Hộp Bitcoin",
+      "title": "Saylor Game - MSTR, STRC, STRD, STRF Và Cái Hộp Bitcoin",
       "domain": "crypto-finance",
       "tags": [
         "bitcoin",
@@ -22507,17 +22510,20 @@
         "market-structure",
         "mstr",
         "strc",
+        "strd",
+        "strf",
         "thi-truong-von"
       ],
       "aliases": [
         "MSTR Là Cái Hộp Bitcoin",
+        "MSTR STRC STRD STRF Và Cái Hộp Bitcoin",
         "MSTR STRC Và Cái Hộp Bitcoin",
         "Saylor Game",
         "Strategy Bitcoin Treasury Game",
         "STRC Là Gì"
       ],
       "headings": [
-        "Saylor Game - MSTR, STRC Và Cái Hộp Bitcoin",
+        "Saylor Game - MSTR, STRC, STRD, STRF Và Cái Hộp Bitcoin",
         "1. Bắt Đầu Từ Cái Hộp Bitcoin",
         "2. MSTR Là Giá Của Cái Hộp, Không Phải Chính Bitcoin",
         "3. STRC Là Gì?",
@@ -22558,7 +22564,7 @@
         "MOC - Financial Sovereignty.md",
         "MOC - Market Psychology & Risk.md"
       ],
-      "words": 7317,
+      "words": 7651,
       "summary": "!Saylor Game Bitcoin Box"
     },
     "crypto-finance/Secular Market.md": {
@@ -22757,8 +22763,8 @@
       "aliases": [
         "Money",
         "Money... (P.1)",
-        "tiền",
         "Tiền",
+        "tiền",
         "Tiền tiền tiền",
         "tiền... (P.1) / Money"
       ],
@@ -29624,8 +29630,8 @@
         "health"
       ],
       "aliases": [
-        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
+        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
+        "Tần số cộng hưởng giữa Muối và Tuyến tùng"
       ],
       "headings": [
         "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",

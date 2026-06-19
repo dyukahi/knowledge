@@ -1,12 +1,13 @@
 ---
-title: "Saylor Game - MSTR, STRC Và Cái Hộp Bitcoin"
-description: "Bài phân tích trường hợp Strategy/MicroStrategy biến Bitcoin thành một cái hộp tài sản công khai, rồi dùng MSTR, STRC và niềm tin thị trường để gọi vốn, trả lợi suất và mua thêm BTC. MSTR là cổ phiếu thường của cái hộp BTC; STRC là cổ phiếu ưu đãi dùng để hút USD; câu hỏi sống còn là ai đang trả cổ tức bằng dòng tiền nào."
+title: "Saylor Game - MSTR, STRC, STRD, STRF Và Cái Hộp Bitcoin"
+description: "Bài phân tích trường hợp Strategy/MicroStrategy biến Bitcoin thành một cái hộp tài sản công khai, rồi dùng MSTR, STRC, STRD, STRF và niềm tin thị trường để gọi vốn, trả lợi suất và mua thêm BTC. MSTR là cổ phiếu thường của cái hộp BTC; các cổ phiếu ưu đãi là lớp quyền đòi dùng để hút USD; câu hỏi sống còn là ai đang trả cổ tức bằng dòng tiền nào."
 date: 2026-06-18
-tags: [crypto-finance, bitcoin, market-structure, ky-thuat-tai-chinh, mstr, strc, thi-truong-von, market-psychology]
+tags: [crypto-finance, bitcoin, market-structure, ky-thuat-tai-chinh, mstr, strc, strd, strf, thi-truong-von, market-psychology]
 status: draft
 aliases:
   - "Saylor Game"
   - "MSTR STRC Và Cái Hộp Bitcoin"
+  - "MSTR STRC STRD STRF Và Cái Hộp Bitcoin"
   - "Strategy Bitcoin Treasury Game"
   - "STRC Là Gì"
   - "MSTR Là Cái Hộp Bitcoin"
@@ -20,7 +21,7 @@ related:
   - "[[Tư Duy Lũy Thừa]]"
 ---
 
-# Saylor Game - MSTR, STRC Và Cái Hộp Bitcoin
+# Saylor Game - MSTR, STRC, STRD, STRF Và Cái Hộp Bitcoin
 
 ![Saylor Game Bitcoin Box](../assets/illustrations/saylor-game-bitcoin-box.png)
 
@@ -31,7 +32,7 @@ Michael Saylor và Strategy, trước đây là MicroStrategy, thường đượ
 Nếu nói thật gọn:
 
 - **MSTR** = giá thị trường của cái hộp Bitcoin.
-- **STRC** = cổ phiếu ưu đãi dùng để hút USD cho cái hộp đó; vì BTC không sinh dòng tiền, mô hình phải dùng tiền mặt của công ty, quỹ dự trữ, tái cấp vốn, vốn mới hoặc bán tài sản để trả cổ tức và duy trì đường băng tài chính.
+- **STRC / STRD / STRF** = các lớp cổ phiếu ưu đãi dùng để hút USD cho cái hộp đó; vì BTC không sinh dòng tiền, mô hình phải dùng tiền mặt của công ty, quỹ dự trữ, tái cấp vốn, vốn mới hoặc bán tài sản để trả cổ tức và duy trì đường băng tài chính.
 - **BTC** = tài sản nằm trong hộp, thuộc bảng cân đối của công ty.
 - **Người mua chứng khoán** = người nắm giữ quyền đòi lên cái hộp, không cầm BTC trực tiếp.
 
@@ -129,6 +130,15 @@ Nói thẳng:
 
 - **MSTR** bán câu chuyện phần tăng giá của cái hộp BTC.
 - **STRC** bán câu chuyện thu nhập/lợi suất để cấp vốn cho cái hộp BTC, đồng thời tạo một dòng nghĩa vụ tiền mặt phải được nuôi bằng tiền mặt thật.
+- **STRD / STRF** cho thấy STRC không còn là một sản phẩm đơn lẻ, mà là một phần của cả dòng cổ phiếu ưu đãi quanh cái hộp BTC.
+
+Theo bảng dữ liệu công khai của Strategy, snapshot thị trường chứng khoán cập nhật **18/06/2026 4:00 PM ET** cho thấy bức tranh đáng chú ý:
+
+- **STRC:** giá khoảng **88.59 USD**, cổ tức biến đổi hiện tại **11.50%**, lợi suất hiệu dụng khoảng **12.98%**.
+- **STRD:** giá khoảng **62.20 USD**, cổ tức cố định **10.00%**, lợi suất hiệu dụng khoảng **16.08%**.
+- **STRF:** giá khoảng **91.03 USD**, cổ tức cố định **10.00%**, lợi suất hiệu dụng khoảng **10.99%**.
+
+Điểm cần đọc đúng: Strategy không “hứa trả 16%” cho STRD. STRD có cổ tức cố định 10%, nhưng vì giá thị trường rơi sâu dưới vùng mệnh giá, người mua mới đang nhìn thấy lợi suất hiệu dụng khoảng 16%. Đó là tín hiệu thị trường đang đòi phần thưởng cao hơn để cầm lớp quyền đòi đó. Nói cách khác, không chỉ STRC có vấn đề mệnh giá; cả chồng cổ phiếu ưu đãi đang cho thấy **chi phí vốn của cái hộp BTC không còn rẻ như câu chuyện ban đầu**.
 
 ---
 
@@ -206,6 +216,8 @@ Vậy STRC dưới mệnh giá không giết Strategy ngay. Nhưng nó nói rằ
 - **STRC gần 100** = kênh gọi vốn còn khỏe.
 - **STRC 90** = kênh gọi vốn bị thương.
 - **STRC 80** = thị trường bắt đầu định giá nó như tín dụng căng thẳng.
+
+Khi nhìn rộng sang STRD và STRF, tín hiệu còn rõ hơn: một lớp cổ phiếu ưu đãi có thể vẫn ghi cổ tức cố định 10%, nhưng nếu thị trường chỉ trả 62 USD cho một cấu trúc quanh mệnh giá 100, lợi suất hiệu dụng nhảy lên vùng 16%. Cái tăng không phải chỉ là “lợi suất hấp dẫn cho người mua mới”; cái tăng là **chi phí vốn mà thị trường đang gán cho Strategy nếu công ty muốn phát hành thêm những lớp quyền đòi tương tự**. Một STRC là sản phẩm. STRC cộng STRD cộng STRF là cấu trúc. Cấu trúc mới là thứ có thể gãy dây chuyền.
 
 ---
 
@@ -530,7 +542,7 @@ Câu gọn nhất:
 Một điểm quan trọng: Strategy không giấu hoàn toàn chuyện tiền gọi vốn mới có thể dùng cho nhiều mục đích khác nhau. Trong bản cáo bạch ATM cổ phiếu thường, phần **Tiền phát hành được dùng làm gì** nói rằng tiền ròng thu được từ phát hành có thể được dùng cho **mục đích chung của công ty**, bao gồm:
 
 - mua Bitcoin;
-- paying cổ tức tiền mặt on outstanding cổ phiếu ưu đãi;
+- trả cổ tức tiền mặt cho cổ phiếu ưu đãi đang lưu hành;
 - vốn lưu động.
 
 Nói cách khác, công bố rủi ro công khai đã mở sẵn ba cửa:
@@ -705,11 +717,11 @@ Bitcoin có thể đúng dài hạn. Nhưng một lớp bọc tài chính quanh 
 - phụ thuộc vào phần giá chênh mà thị trường sẵn sàng trả;
 - rủi ro pháp lý/quản lý;
 - lệch tệp nhà đầu tư;
-- lời hứa lợi suấts không đến từ dòng tiền tự nhiên.
+- lời hứa lợi suất không đến từ dòng tiền tự nhiên.
 
 Nói cách khác:
 
-**BTC can be the winning tài sản. MSTR/STRC can still become the wrong lớp bọc tài chính.**
+**BTC có thể là tài sản thắng cuộc. MSTR/STRC vẫn có thể trở thành lớp bọc tài chính sai.**
 
 Một tài sản tốt không tự động làm mọi cấu trúc tài chính quanh nó trở nên an toàn. Vàng đúng không có nghĩa mọi công ty đào vàng đúng. Bất động sản đúng không có nghĩa mọi sản phẩm vay thế chấp đúng. Bitcoin đúng không có nghĩa mọi lớp bọc kho bạc Bitcoin đúng.
 

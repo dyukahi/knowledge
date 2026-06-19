@@ -29,7 +29,7 @@ related:
 
 > Cú sập lớn nhất có thể không phải là cái chết của Bitcoin. Nó có thể là cái chết của những lớp quyền đòi được dựng quanh niềm tin Bitcoin.
 
-Bài này là phần đọc tiếp của [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]. Bài Saylor đọc một trường hợp cụ thể: Strategy/MicroStrategy, MSTR, STRC và cách một công ty kho bạc Bitcoin có thể biến niềm tin vào BTC thành chứng khoán đại chúng, cổ phiếu ưu đãi, lợi suất và nhiều tầng quyền đòi.
+Bài này là phần đọc tiếp của [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]. Bài Saylor đọc một trường hợp cụ thể: Strategy/MicroStrategy, MSTR, STRC, STRD, STRF và cách một công ty kho bạc Bitcoin có thể biến niềm tin vào BTC thành chứng khoán đại chúng, cổ phiếu ưu đãi, lợi suất và nhiều tầng quyền đòi.
 
 Bài này lùi ra xa hơn một tầng.
 
@@ -88,14 +88,17 @@ Vàng đúng không làm mọi công ty đào vàng đúng. Bất động sản 
 
 ## 2. Mô Hình Saylor Như Bản Thử Đầu Tiên
 
-Strategy/MSTR/STRC là bản thử rất rõ của cấu trúc lớp bọc quanh Bitcoin.
+Strategy/MSTR/STRC là bản thử rất rõ của cấu trúc lớp bọc quanh Bitcoin. Đến khi xuất hiện thêm nhiều lớp cổ phiếu ưu đãi như **STRD** và **STRF**, câu chuyện không còn là một mã STRC riêng lẻ nữa. Nó trở thành một **chồng quyền đòi** quanh cùng một cái hộp BTC.
 
 Tầng đơn giản:
 
 - MSTR bán câu chuyện tăng giá của cái hộp Bitcoin.
 - STRC và cổ phiếu ưu đãi bán câu chuyện thu nhập đều đặn quanh cái hộp đó.
+- STRD và STRF mở rộng câu chuyện này thành nhiều lớp cổ phiếu ưu đãi với điều khoản và giá thị trường khác nhau.
 - Nợ và trái phiếu chuyển đổi bán câu chuyện tín dụng kèm quyền hưởng lợi nếu tài sản tăng.
 - Tất cả phụ thuộc vào niềm tin rằng phần tăng giá tương lai của BTC đủ lớn để bù chi phí vốn hiện tại.
+
+Theo dữ liệu công khai của Strategy, snapshot thị trường chứng khoán cập nhật **18/06/2026 4:00 PM ET** cho thấy: **STRC** có cổ tức biến đổi **11.50%** và lợi suất hiệu dụng khoảng **12.98%**; **STRD** có cổ tức cố định **10.00%** nhưng vì giá quanh **62.20 USD**, lợi suất hiệu dụng khoảng **16.08%**; **STRF** có cổ tức cố định **10.00%** và lợi suất hiệu dụng khoảng **10.99%**. Đây không phải bằng chứng Strategy phạm pháp. Nó là tín hiệu thị trường rất thực: càng nhiều lớp cổ phiếu ưu đãi bị định giá dưới vùng mệnh giá, chi phí vốn của cái hộp BTC càng cao, và vòng quay càng phụ thuộc vào khả năng phát hành/tái cấp vốn tiếp theo.
 
 Trong thị trường hưng phấn, mô hình trông như thiên tài:
 
@@ -291,7 +294,7 @@ Khi không cuốn được nữa, họ bán BTC để trả nghĩa vụ tiền m
 
 ### 2. Lớp bọc cổ phiếu ưu đãi và lợi suất
 
-Nếu sản phẩm lợi suất quanh kho bạc Bitcoin bị nghi ngờ, người nắm giữ bán ra, giá xuống dưới mệnh giá, bên phát hành phải bảo vệ niềm tin hoặc chấp nhận kênh gọi vốn chết.
+Nếu sản phẩm lợi suất quanh kho bạc Bitcoin bị nghi ngờ, người nắm giữ bán ra, giá xuống dưới mệnh giá, bên phát hành phải bảo vệ niềm tin hoặc chấp nhận kênh gọi vốn chết. Một cổ phiếu ưu đãi trả 10% nhưng giao dịch ở vùng tạo lợi suất hiệu dụng 16% không chỉ là “món hời” cho người mua mới; nó là tín hiệu thị trường đang định giá rủi ro cao hơn cho toàn bộ kênh vốn cổ phiếu ưu đãi. Nếu bên phát hành muốn bán thêm lớp tương tự, hoặc phải chấp nhận chiết khấu, hoặc phải nâng cổ tức/điều khoản, hoặc phải chuyển sang nguồn vốn khác.
 
 ### 3. Quỹ dùng đòn bẩy và bàn tín dụng
 
