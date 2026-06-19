@@ -81,9 +81,13 @@ Cổ phiếu thường MSTR là tầng hưởng phần tăng giá rõ nhất tro
 Nếu BTC tăng mạnh:
 
 - BTC trong hộp tăng giá.
-- Giá trị tài sản ròng của công ty tăng.
+- Giá trị tài sản ròng của công ty tăng trên giấy.
 - Thị trường có thể trả giá chênh cao hơn cho cái hộp.
 - Cổ phiếu thường MSTR có thể tăng mạnh hơn BTC.
+
+Điểm thú vị, và cũng hơi quái gở, là phần tăng giá này chủ yếu là **lợi nhuận chưa thực hiện**. Nếu Strategy không bán BTC, số lãi đó chưa biến thành USD thật trong két. Nó là giá trị thị trường của tài sản đang nằm trong hộp. Nhưng thị trường vốn vẫn có thể dùng chính phần giá trị chưa thực hiện đó làm nền cho một câu chuyện mới: công ty giàu hơn, bảng cân đối mạnh hơn, cổ phiếu thường xứng đáng được trả giá cao hơn, và Strategy có thể phát hành thêm chứng khoán để lấy USD thật.
+
+Nói cách khác, Saylor không nhất thiết phải bán BTC để “monetize” cú tăng giá. Ông ta có thể biến lãi chưa thực hiện thành **khả năng gọi vốn**. Đây là ma thuật của thị trường vốn: tài sản chưa bán vẫn có thể trở thành nền cho vốn mới, cổ phiếu mới, nợ mới, cổ phiếu ưu đãi mới và thêm một vòng mua BTC mới.
 
 Đây là lý do MSTR hấp dẫn với người tin Bitcoin nhưng muốn chơi bằng cổ phiếu đại chúng. Họ không chỉ muốn mức tiếp xúc với BTC. Họ muốn mức tiếp xúc với **cỗ máy gọi vốn mua BTC**.
 
