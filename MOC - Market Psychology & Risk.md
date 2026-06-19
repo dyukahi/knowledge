@@ -122,3 +122,5 @@ Risk management là spiritual practice của người chơi market. Nó bắt eg
 - [[Bitcoin]]
 - [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]
 - [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
+
+- [[Thế Hệ Lọt Khe]] — mô hình đọc thế hệ trẻ qua các khe cấu trúc về tài sản, lao động, AI, thừa kế và đất đai.

@@ -99,7 +99,8 @@ Orientation: this bridge links psychology to politics, finance and tech. It asks
 
 1. [[Gen Z - Phân Tích Phản Biện]] — start with the generational profile.
 2. [[Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa]] — read fragility and exhaustion without contempt.
-3. [[Climate Anxiety as Control - Fear-Based Compliance]] — connect fear to policy obedience.
+3. [[Thế Hệ Lọt Khe]] — read housing, AI, inheritance and land policy as structural cracks under the next generation.
+4. [[Climate Anxiety as Control - Fear-Based Compliance]] — connect fear to policy obedience.
 4. [[UBI Conditioning - The End of Work Ethic]] — follow dependency as psychology.
 5. [[Gen Z và CBDC - Programmable Money Psychology]] — bridge into financial control.
 
@@ -138,6 +139,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] — family collapse, lineage, reproductive technology and programmable children.
 - [[Individuation]] — the inner path from persona to Self.
 - [[Tư Duy Lũy Thừa]] — compounding as a mental operating system.
+- [[Thế Hệ Lọt Khe]] — generational economics, housing, AI and land policy as structural psychology.
 
 ---
 
@@ -164,6 +166,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Gen Z - Phân Tích Phản Biện]] — platformized reality and generational conditioning.
 - [[UBI Conditioning - The End of Work Ethic]] — work despair, AI displacement and dependency rails.
 - [[Climate Anxiety as Control - Fear-Based Compliance]] — eco-anxiety, carbon wallets and fear compliance.
+- [[Thế Hệ Lọt Khe]] — housing, AI disruption, inheritance and land capture as the cracks beneath youth fatigue.
 
 
 ## Related Gateways

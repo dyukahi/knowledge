@@ -288,6 +288,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]
 - [[Schadenfreude - Dopamine Phản Diện]]
 - [[Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa]]
+- [[Thế Hệ Lọt Khe]]
 - [[Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu]]
 - [[Cái Gì Trong Bạn Không Thể Bị Model Hóa]]
 - [[Ai Đứng Bên Kia Giao Dịch]]
@@ -319,6 +320,10 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### June 19, 2026
+
+- **[[Thế Hệ Lọt Khe]]** - bài đọc thế hệ trẻ qua các khe cấu trúc: giá nhà, AI, lao động, thừa kế, đất đai, sân golf/resort và chính sách tương lai.
 
 ### June 18, 2026
 
