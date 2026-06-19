@@ -12,7 +12,7 @@
       "science-tech": 18
     },
     "tags": 227,
-    "wikilinkEdges": 2235,
+    "wikilinkEdges": 2238,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -856,6 +856,7 @@
           "index.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/index.md",
+          "mental-models/Thế Hệ Lọt Khe.md",
           "MOC - Financial Sovereignty.md",
           "politics-conspiracy/Báo Cáo 2030.md",
           "politics-conspiracy/Elite.md",
@@ -8288,8 +8289,8 @@
           "health"
         ],
         "aliases": [
-          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
+          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
+          "Tần số cộng hưởng giữa Muối và Tuyến tùng"
         ],
         "headings": [
           "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -8743,7 +8744,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1552,
+        "words": 1560,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -10911,11 +10912,71 @@
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/index.md",
           "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Thế Hệ Lọt Khe.md",
           "MOC - Financial Sovereignty.md",
           "politics-conspiracy/index.md"
         ],
         "words": 946,
         "summary": "**UBI không chỉ là câu hỏi kinh tế “ai trả tiền?”. Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
+      },
+      {
+        "path": "mental-models/Thế Hệ Lọt Khe.md",
+        "title": "Thế Hệ Lọt Khe",
+        "domain": "mental-models",
+        "tags": [
+          "ai",
+          "climate",
+          "generation",
+          "housing",
+          "inequality",
+          "inheritance",
+          "labor",
+          "land",
+          "mental-models",
+          "policy"
+        ],
+        "aliases": [
+          "Generation Falling Through The Cracks",
+          "Lying Flat Và Giá Nhà",
+          "Người Trẻ Và Giấc Mơ Lọt Khe",
+          "Thế Hệ Lọt Khe",
+          "Thế Hệ Nằm Thẳng"
+        ],
+        "headings": [
+          "Thế Hệ Lọt Khe",
+          "1. Khi Nhà Cửa Lọt Khỏi Tay",
+          "2. AI Và Cái Nghề Không Còn Chắc",
+          "3. Khe Giữa Người Có Tài Sản Và Người Không Có Tài Sản",
+          "4. Cú Chuyển Giao Thừa Kế Khổng Lồ",
+          "5. Nằm Thẳng Không Luôn Là Lười",
+          "6. Khe Đất Đai: Khi Giấc Mơ Nhỏ Bị Nuốt",
+          "7. Từ Sở Hữu Sang Quyền Truy Cập Có Điều Kiện",
+          "8. Chúng Ta Cần Đầu Tư Vào Thế Hệ Tương Lai",
+          "9. Khí Hậu Sẽ Thu Tiền Sau",
+          "10. Kết"
+        ],
+        "wikilinks": [
+          "Digital ID Normalization - From Instagram to Government ID",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
+          "Thế Hệ Lọt Khe",
+          "UBI Conditioning - The End of Work Ethic"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+          "mental-models/UBI Conditioning - The End of Work Ethic.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Market Psychology & Risk.md"
+        ],
+        "words": 3317,
+        "summary": "!Thế Hệ Lọt Khe"
       },
       {
         "path": "mental-models/Luân Hồi Trên Home Screen.md",
@@ -11055,57 +11116,6 @@
         ],
         "words": 2214,
         "summary": "!Những chiếc nôi phát sáng giữa ruộng bắp cải dưới bóng cây gia đình"
-      },
-      {
-        "path": "mental-models/Thế Hệ Lọt Khe.md",
-        "title": "Thế Hệ Lọt Khe",
-        "domain": "mental-models",
-        "tags": [
-          "ai",
-          "climate",
-          "generation",
-          "housing",
-          "inequality",
-          "inheritance",
-          "labor",
-          "land",
-          "mental-models",
-          "policy"
-        ],
-        "aliases": [
-          "Generation Falling Through The Cracks",
-          "Lying Flat Và Giá Nhà",
-          "Người Trẻ Và Giấc Mơ Lọt Khe",
-          "Thế Hệ Lọt Khe",
-          "Thế Hệ Nằm Thẳng"
-        ],
-        "headings": [
-          "Thế Hệ Lọt Khe",
-          "1. Khi Nhà Cửa Lọt Khỏi Tay",
-          "2. AI Và Cái Nghề Không Còn Chắc",
-          "3. Khe Giữa Người Có Tài Sản Và Người Không Có Tài Sản",
-          "4. Cú Chuyển Giao Thừa Kế Khổng Lồ",
-          "5. Nằm Thẳng Không Luôn Là Lười",
-          "6. Khe Đất Đai: Khi Giấc Mơ Nhỏ Bị Nuốt",
-          "7. Chúng Ta Cần Đầu Tư Vào Thế Hệ Tương Lai",
-          "8. Khí Hậu Sẽ Thu Tiền Sau",
-          "9. Kết"
-        ],
-        "wikilinks": [
-          "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "mental-models/index.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Market Psychology & Risk.md"
-        ],
-        "words": 2535,
-        "summary": "!Thế Hệ Lọt Khe"
       },
       {
         "path": "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
@@ -13621,7 +13631,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 4090,
+        "words": 4097,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -13734,7 +13744,7 @@
           "science-tech/Khoa Học Xét Lại.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 835,
+        "words": 842,
         "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
       },
       {
@@ -14499,7 +14509,7 @@
           "mental-models/index.md",
           "MOC - Financial Sovereignty.md"
         ],
-        "words": 852,
+        "words": 859,
         "summary": "**Market Psychology & Risk là bản đồ đọc thị trường như nơi tâm lý con người bị ép lộ ra bằng tiền thật. Chart là hậu quả, flow là bằng chứng, narrative là lớp giải thích đến sau. Trước khi hỏi “mua gì để giàu?”, phải hỏi: mình có sống sót đủ lâu không, ai đa…"
       },
       {
@@ -15305,6 +15315,54 @@
         "summary": "*Decoding Nuclear Energy & The Radiation Hoax*"
       },
       {
+        "path": "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "title": "Digital ID Normalization - From Instagram to Government ID",
+        "domain": "science-tech",
+        "tags": [
+          "agenda-2030",
+          "digital-id",
+          "generation",
+          "psychology",
+          "science-tech",
+          "surveillance"
+        ],
+        "aliases": [
+          "Biometric ID",
+          "Digital ID",
+          "Digital Identity",
+          "Identity Wallet",
+          "Verify to Exist"
+        ],
+        "headings": [
+          "Digital ID Normalization - From Instagram to Government ID",
+          "Evidence Discipline / Cach Doc Claim",
+          "Từ Khóa Cần Hiểu",
+          "Từ Profile Đến Passport",
+          "Digital ID + Money",
+          "Biometrics"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [
+          "crypto-finance/index.md",
+          "crypto-finance/Privacy.md",
+          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+          "index.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/Thế Hệ Lọt Khe.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Financial Sovereignty.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/index.md",
+          "science-tech/index.md"
+        ],
+        "words": 837,
+        "summary": "**Digital ID không xuất hiện từ hư không. Nó đi sau một quá trình dài nơi con người tự nguyện biến mình thành profile: tên thật, mặt thật, location, social graph, reputation, behavior, preference. Government ID wallet chỉ là bước formal hóa thứ platform đã no…"
+      },
+      {
         "path": "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "title": "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
         "domain": "science-tech",
@@ -15539,53 +15597,6 @@
         ],
         "words": 923,
         "summary": "**Walter Russell là archetype của nhà hiền triết-nghệ sĩ bước vào khoa học bằng trực giác vũ trụ: ánh sáng, chuyển động, nhịp, polarity và mind như nguyên nhân.** Đọc Russell đúng nghĩa là tách ba tầng: tiểu sử có thể kiểm, hệ thống triết học của ông, và các…"
-      },
-      {
-        "path": "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "title": "Digital ID Normalization - From Instagram to Government ID",
-        "domain": "science-tech",
-        "tags": [
-          "agenda-2030",
-          "digital-id",
-          "generation",
-          "psychology",
-          "science-tech",
-          "surveillance"
-        ],
-        "aliases": [
-          "Biometric ID",
-          "Digital ID",
-          "Digital Identity",
-          "Identity Wallet",
-          "Verify to Exist"
-        ],
-        "headings": [
-          "Digital ID Normalization - From Instagram to Government ID",
-          "Evidence Discipline / Cach Doc Claim",
-          "Từ Khóa Cần Hiểu",
-          "Từ Profile Đến Passport",
-          "Digital ID + Money",
-          "Biometrics"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [
-          "crypto-finance/index.md",
-          "crypto-finance/Privacy.md",
-          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-          "index.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Financial Sovereignty.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/index.md",
-          "science-tech/index.md"
-        ],
-        "words": 837,
-        "summary": "**Digital ID không xuất hiện từ hư không. Nó đi sau một quá trình dài nơi con người tự nguyện biến mình thành profile: tên thật, mặt thật, location, social graph, reputation, behavior, preference. Government ID wallet chỉ là bước formal hóa thứ platform đã no…"
       },
       {
         "path": "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
@@ -16243,7 +16254,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4090,
+      "words": 4097,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -16909,7 +16920,7 @@
         "science-tech/Khoa Học Xét Lại.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 835,
+      "words": 842,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     {
@@ -17413,7 +17424,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1552,
+      "words": 1560,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
@@ -19906,6 +19917,7 @@
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "mental-models/Thế Hệ Lọt Khe.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Financial Sovereignty.md",
         "MOC - Science Revisionism.md",
@@ -19953,6 +19965,7 @@
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/index.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Thế Hệ Lọt Khe.md",
         "MOC - Financial Sovereignty.md",
         "politics-conspiracy/index.md"
       ],
@@ -20982,7 +20995,7 @@
         "science-tech/Khoa Học Xét Lại.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 835,
+      "words": 842,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     "MOC - Esoterica & Consciousness.md": {
@@ -21345,7 +21358,7 @@
         "mental-models/index.md",
         "MOC - Financial Sovereignty.md"
       ],
-      "words": 852,
+      "words": 859,
       "summary": "**Market Psychology & Risk là bản đồ đọc thị trường như nơi tâm lý con người bị ép lộ ra bằng tiền thật. Chart là hậu quả, flow là bằng chứng, narrative là lớp giải thích đến sau. Trước khi hỏi “mua gì để giàu?”, phải hỏi: mình có sống sót đủ lâu không, ai đa…"
     },
     "MOC - Science Revisionism.md": {
@@ -22240,6 +22253,7 @@
         "index.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/index.md",
+        "mental-models/Thế Hệ Lọt Khe.md",
         "MOC - Financial Sovereignty.md",
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Elite.md",
@@ -29610,8 +29624,8 @@
         "health"
       ],
       "aliases": [
-        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
+        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
+        "Tần số cộng hưởng giữa Muối và Tuyến tùng"
       ],
       "headings": [
         "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -30486,7 +30500,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4090,
+      "words": 4097,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
@@ -32248,16 +32262,24 @@
         "4. Cú Chuyển Giao Thừa Kế Khổng Lồ",
         "5. Nằm Thẳng Không Luôn Là Lười",
         "6. Khe Đất Đai: Khi Giấc Mơ Nhỏ Bị Nuốt",
-        "7. Chúng Ta Cần Đầu Tư Vào Thế Hệ Tương Lai",
-        "8. Khí Hậu Sẽ Thu Tiền Sau",
-        "9. Kết"
+        "7. Từ Sở Hữu Sang Quyền Truy Cập Có Điều Kiện",
+        "8. Chúng Ta Cần Đầu Tư Vào Thế Hệ Tương Lai",
+        "9. Khí Hậu Sẽ Thu Tiền Sau",
+        "10. Kết"
       ],
       "wikilinks": [
-        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa"
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
+        "Thế Hệ Lọt Khe",
+        "UBI Conditioning - The End of Work Ethic"
       ],
       "mdlinks": [],
       "outlinks": [
-        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md"
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
       ],
       "backlinks": [
         "index.md",
@@ -32265,7 +32287,7 @@
         "MOC - Epistemology & Propaganda.md",
         "MOC - Market Psychology & Risk.md"
       ],
-      "words": 2535,
+      "words": 3317,
       "summary": "!Thế Hệ Lọt Khe"
     },
     "mental-models/Trí Tuệ.md": {
@@ -32804,6 +32826,7 @@
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/index.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Thế Hệ Lọt Khe.md",
         "MOC - Financial Sovereignty.md",
         "politics-conspiracy/index.md"
       ],
@@ -33037,7 +33060,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1552,
+      "words": 1560,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
@@ -35330,6 +35353,7 @@
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "mental-models/Thế Hệ Lọt Khe.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Financial Sovereignty.md",
         "MOC - Science Revisionism.md",

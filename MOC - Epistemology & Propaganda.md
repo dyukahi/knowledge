@@ -111,4 +111,4 @@ Epistemology là phòng tuyến đầu tiên của sovereignty.
 - [[Word Magic - Ngôn Ngữ Của Phù Thủy]]
 - [[Nghịch Lý Của Hiểu Biết]]
 
-- [[Thế Hệ Lọt Khe]] — mô hình đọc thế hệ trẻ qua các khe cấu trúc về tài sản, lao động, AI, thừa kế và đất đai.
+- [[Thế Hệ Lọt Khe]] — mô hình đọc thế hệ trẻ qua các khe cấu trúc về tài sản, lao động, AI, thừa kế, đất đai, UBI và quyền truy cập có điều kiện.

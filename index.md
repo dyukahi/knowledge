@@ -323,7 +323,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### June 19, 2026
 
-- **[[Thế Hệ Lọt Khe]]** - bài đọc thế hệ trẻ qua các khe cấu trúc: giá nhà, AI, lao động, thừa kế, đất đai, sân golf/resort và chính sách tương lai.
+- **[[Thế Hệ Lọt Khe]]** - bài đọc thế hệ trẻ qua các khe cấu trúc: giá nhà, AI, lao động, thừa kế, đất đai, quyền truy cập có điều kiện, UBI/ví định danh và chính sách tương lai.
 
 ### June 18, 2026
 
