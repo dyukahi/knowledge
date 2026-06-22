@@ -269,6 +269,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Tartaria]] | [[Atlantis]] | [[Lemuria]] | [[Annunaki]]
 - [[Gaia - Trái Đất Có Ý Thức]] | [[Avatar - Disclosure Của Eywa & Gaia]]
 - [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] | [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
+- [[Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]
 - [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]
 
@@ -322,6 +323,10 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### June 22, 2026
+
+- **[[Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]** - bài phân tích điện ảnh full tiếng Việt, prose-first, đọc *Cloud Atlas* như vân đồ của luân hồi, Ma Trận, Gnosis, lời chứng, dấu sao chổi và bản nhạc vang vọng xuyên thời đại; có 7 minh họa section-level.
 
 ### June 19, 2026
 
