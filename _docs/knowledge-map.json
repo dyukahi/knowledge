@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 223,
+    "notes": 224,
     "domains": {
       "_docs": 11,
       "root": 14,
       "crypto-finance": 15,
-      "esoterica": 74,
+      "esoterica": 75,
       "health": 27,
       "mental-models": 37,
       "politics-conspiracy": 27,
       "science-tech": 18
     },
     "tags": 229,
-    "wikilinkEdges": 2238,
+    "wikilinkEdges": 2249,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -1397,7 +1397,7 @@
           "MOC - Financial Sovereignty.md",
           "MOC - Market Psychology & Risk.md"
         ],
-        "words": 7651,
+        "words": 7824,
         "summary": "!Saylor Game Bitcoin Box"
       },
       {
@@ -1559,6 +1559,7 @@
           "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
           "esoterica/Cabal.md",
           "esoterica/Chakra.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
           "esoterica/Gaia - Trái Đất Có Ý Thức.md",
           "esoterica/Gematria.md",
           "esoterica/Gnosis.md",
@@ -1651,6 +1652,121 @@
         ],
         "words": 2063,
         "summary": "**Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**"
+      },
+      {
+        "path": "esoterica/Gnosis.md",
+        "title": "Gnosis (Ngộ Đạo)",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "esoterica",
+          "gnosis",
+          "matrix"
+        ],
+        "aliases": [
+          "Direct Knowing",
+          "Gnosis",
+          "Gnosticism",
+          "Ngộ Đạo"
+        ],
+        "headings": [
+          "Gnosis (Ngộ Đạo)",
+          "Evidence Discipline / Cách Đọc",
+          "1. Gnosis Là Gì?",
+          "2. Gnosis Không Cần Trung Gian",
+          "3. Divine Spark: Tia Lửa Bị Mắc Kẹt Trong Vật Chất",
+          "4. Demiurge Và Ma Trận",
+          "5. Gnosis Và Luân Hồi",
+          "6. Gnosis Khác Với Đức Tin Như Thế Nào?",
+          "7. Kinh Sách Bị Đàn Áp Và Nag Hammadi",
+          "8. Gnosis Trong Văn Hóa Hiện Đại",
+          "9. Gnosis Và Individuation",
+          "10. Pseudo-Gnosis: Cạm Bẫy Của Người “Biết”",
+          "11. Thực Hành Gnosis",
+          "12. Synthesis: Gnosis Là Lối Thoát Khỏi Ma Trận Bên Trong",
+          "Related",
+          "Source / Nguồn",
+          "Matrix / Escape",
+          "Integration"
+        ],
+        "wikilinks": [
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Individuation",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Luân Hồi",
+          "Ma Trận",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Monad",
+          "Nghịch Lý Của Hiểu Biết",
+          "Sự Nhất Thể",
+          "Tuyến Tùng",
+          "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+          "health/Tuyến Tùng.md",
+          "mental-models/Individuation.md",
+          "mental-models/Vô Thức Tập Thể.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Chakra.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/index.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Manly P. Hall.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Sacred Geometry.md",
+          "esoterica/Saturn Cube.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Thánh Issa.md",
+          "esoterica/Thực Thể Cõi Trung Giới.md",
+          "esoterica/Tinh Khí Thần.md",
+          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+          "esoterica/Tà Linh.md",
+          "esoterica/Đạo.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "health/Prolonged Fasting.md",
+          "health/Tuyến Tùng.md",
+          "index.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Individuation.md",
+          "mental-models/Trí Tuệ.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
+        ],
+        "words": 1968,
+        "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
       },
       {
         "path": "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
@@ -1798,120 +1914,6 @@
         "summary": "Bài viết này là **bản tổng hợp hoàn chỉnh** về Ma Trận — cấu trúc, các lớp kiểm soát, mục đích tồn tại, và **con đường thoát ra**. Đây là meta-framework xâu chuỗi toàn bộ kiến thức trong vault."
       },
       {
-        "path": "esoterica/Gnosis.md",
-        "title": "Gnosis (Ngộ Đạo)",
-        "domain": "esoterica",
-        "tags": [
-          "consciousness",
-          "esoterica",
-          "gnosis",
-          "matrix"
-        ],
-        "aliases": [
-          "Direct Knowing",
-          "Gnosis",
-          "Gnosticism",
-          "Ngộ Đạo"
-        ],
-        "headings": [
-          "Gnosis (Ngộ Đạo)",
-          "Evidence Discipline / Cách Đọc",
-          "1. Gnosis Là Gì?",
-          "2. Gnosis Không Cần Trung Gian",
-          "3. Divine Spark: Tia Lửa Bị Mắc Kẹt Trong Vật Chất",
-          "4. Demiurge Và Ma Trận",
-          "5. Gnosis Và Luân Hồi",
-          "6. Gnosis Khác Với Đức Tin Như Thế Nào?",
-          "7. Kinh Sách Bị Đàn Áp Và Nag Hammadi",
-          "8. Gnosis Trong Văn Hóa Hiện Đại",
-          "9. Gnosis Và Individuation",
-          "10. Pseudo-Gnosis: Cạm Bẫy Của Người “Biết”",
-          "11. Thực Hành Gnosis",
-          "12. Synthesis: Gnosis Là Lối Thoát Khỏi Ma Trận Bên Trong",
-          "Related",
-          "Source / Nguồn",
-          "Matrix / Escape",
-          "Integration"
-        ],
-        "wikilinks": [
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Individuation",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Luân Hồi",
-          "Ma Trận",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Monad",
-          "Nghịch Lý Của Hiểu Biết",
-          "Sự Nhất Thể",
-          "Tuyến Tùng",
-          "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-          "health/Tuyến Tùng.md",
-          "mental-models/Individuation.md",
-          "mental-models/Vô Thức Tập Thể.md"
-        ],
-        "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Chakra.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/index.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Manly P. Hall.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Saturn Cube.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Thánh Issa.md",
-          "esoterica/Thực Thể Cõi Trung Giới.md",
-          "esoterica/Tinh Khí Thần.md",
-          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-          "esoterica/Tà Linh.md",
-          "esoterica/Đạo.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "health/Prolonged Fasting.md",
-          "health/Tuyến Tùng.md",
-          "index.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Individuation.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md",
-          "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
-        ],
-        "words": 1968,
-        "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
-      },
-      {
         "path": "esoterica/index.md",
         "title": "Esoterica Domain Gateway",
         "domain": "esoterica",
@@ -1944,6 +1946,7 @@
           "Biểu Tượng Baphomet",
           "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
           "Chakra",
+          "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
           "Cách Đọc Red Pill Wiki",
           "Gematria",
           "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
@@ -1989,6 +1992,7 @@
           "esoterica/Biểu Tượng Baphomet.md",
           "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
           "esoterica/Chakra.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
           "esoterica/Gematria.md",
           "esoterica/Gnosis.md",
           "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
@@ -2032,7 +2036,7 @@
           "mental-models/index.md",
           "science-tech/index.md"
         ],
-        "words": 1077,
+        "words": 1146,
         "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
       },
       {
@@ -2103,6 +2107,7 @@
         "backlinks": [
           "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
           "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
           "esoterica/Gnosis.md",
           "esoterica/index.md",
           "esoterica/Long Mạch.md",
@@ -2229,6 +2234,91 @@
         "summary": "**Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh — ta/người, sáng/tối, tinh thần/vật chất, thắng/thua — có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qu…"
       },
       {
+        "path": "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "title": "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "occult",
+          "predictive-programming"
+        ],
+        "aliases": [
+          "Hollywood - Cây Đũa Phép Của Phù Thủy"
+        ],
+        "headings": [
+          "Hollywood — Cây Đũa Phép Của Phù Thủy / The Sorcerer's Wand",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Wand Không Tạo Phép, Wand Hướng Ý Chí",
+          "Entertainment Là Vùng Critical Thinking Thấp",
+          "Hidden In Plain Sight",
+          "Case Study Discipline / Kỷ Luật Đọc Phim",
+          "Symbol Stack / Bộ Ký Hiệu Lặp Lại",
+          "NASA - Disney - Hollywood",
+          "Avatar, Matrix, Inception",
+          "Decoder Mindset / Cách Xem Không Bị Nuốt",
+          "Core Insight / Chốt Lại",
+          "Publication Pack / Disclosure & Spectacle",
+          "Related / Liên Quan"
+        ],
+        "wikilinks": [
+          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Gnosis",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Ma Trận",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Saturn Cube",
+          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Saturn Cube.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Cabal.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "esoterica/Gnosis.md",
+          "esoterica/index.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "index.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
+        ],
+        "words": 1541,
+        "summary": "**Hollywood là nơi giải trí trở thành nghi lễ đại chúng: hình ảnh, nhạc, thần tượng, biểu tượng và câu chuyện được lặp lại đủ lâu để đi thẳng vào Vô Thức Tập Thể.** Cách đọc \"holy wood\" như cây đũa phép không nên hiểu là etymology chắc chắn; nó là **symbolic…"
+      },
+      {
         "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "title": "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
         "domain": "esoterica",
@@ -2328,88 +2418,91 @@
         "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
       },
       {
-        "path": "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "title": "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "title": "Karma Disclosure - Truth Hidden In Plain Sight",
         "domain": "esoterica",
         "tags": [
+          "conspiracy",
           "esoterica",
-          "occult",
-          "predictive-programming"
+          "karma"
         ],
         "aliases": [
-          "Hollywood - Cây Đũa Phép Của Phù Thủy"
+          "Elite Disclosure",
+          "Hidden In Plain Sight",
+          "Karma Disclosure",
+          "Predictive Programming Karma"
         ],
         "headings": [
-          "Hollywood — Cây Đũa Phép Của Phù Thủy / The Sorcerer's Wand",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
           "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Wand Không Tạo Phép, Wand Hướng Ý Chí",
-          "Entertainment Là Vùng Critical Thinking Thấp",
+          "Vị Trí Trong Vault / Vault Position",
+          "Luật Consent Ở Tầng Biểu Tượng",
+          "Fiction Là Vùng Disclosure Mềm",
           "Hidden In Plain Sight",
-          "Case Study Discipline / Kỷ Luật Đọc Phim",
-          "Symbol Stack / Bộ Ký Hiệu Lặp Lại",
-          "NASA - Disney - Hollywood",
-          "Avatar, Matrix, Inception",
-          "Decoder Mindset / Cách Xem Không Bị Nuốt",
-          "Core Insight / Chốt Lại",
-          "Publication Pack / Disclosure & Spectacle",
-          "Related / Liên Quan"
+          "Timeline Không Phải Bằng Chứng Tự Động",
+          "Tại Sao Người Ta Không Thấy?",
+          "Decoder Mindset / Cách Đọc Không Paranoid",
+          "Counter-Arguments / Phản Biện Cần Giữ",
+          "Kết / Core Synthesis",
+          "Related",
+          "Nền tảng / Foundation",
+          "Ứng dụng / Application",
+          "Meta"
         ],
         "wikilinks": [
-          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
           "Gnosis",
           "Hollywood - Cây Đũa Phép Của Phù Thủy",
           "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Khoa Học Xét Lại",
+          "Luân Hồi",
           "Ma Trận",
+          "Nghịch Lý Của Hiểu Biết",
+          "Nhân Quả",
+          "Nhị Nguyên",
           "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Saturn Cube",
-          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
           "Vô Thức Tập Thể"
         ],
         "mdlinks": [],
         "outlinks": [
-          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
           "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
           "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Luân Hồi.md",
           "esoterica/Ma Trận.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "esoterica/Nhân Quả.md",
           "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Saturn Cube.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "mental-models/Nhị Nguyên.md",
           "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
+          "science-tech/Khoa Học Xét Lại.md"
         ],
         "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
           "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-          "esoterica/Cabal.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+          "esoterica/Gematria.md",
           "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
           "esoterica/index.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Ma Trận.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
           "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "esoterica/Vận Chín.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
           "index.md",
-          "mental-models/Nguyên Mẫu.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Vô Thức Tập Thể.md",
           "MOC - Epistemology & Propaganda.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Elite.md",
           "politics-conspiracy/index.md",
-          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 1541,
-        "summary": "**Hollywood là nơi giải trí trở thành nghi lễ đại chúng: hình ảnh, nhạc, thần tượng, biểu tượng và câu chuyện được lặp lại đủ lâu để đi thẳng vào Vô Thức Tập Thể.** Cách đọc \"holy wood\" như cây đũa phép không nên hiểu là etymology chắc chắn; nó là **symbolic…"
+        "words": 1472,
+        "summary": "**Karma Disclosure là giả thuyết rằng quyền lực không chỉ che giấu kế hoạch; nó còn để lại dấu vết công khai dưới dạng fiction, symbol, ritual, slogan hoặc \"joke\" để biến sự thật thành thứ ai cũng thấy nhưng ít người xử lý.** Đọc đúng, đây không phải giấy phé…"
       },
       {
         "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
@@ -2583,92 +2676,6 @@
         ],
         "words": 1071,
         "summary": "**Predictive programming là giả thuyết rằng media không chỉ phản ánh tương lai mà còn tập cho công chúng cảm thấy tương lai đó quen thuộc trước khi nó được triển khai.** Đọc đúng, đây không phải trò gom mọi trùng hợp thành \"tiên tri\"; đây là kỷ luật nhìn repe…"
-      },
-      {
-        "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "title": "Karma Disclosure - Truth Hidden In Plain Sight",
-        "domain": "esoterica",
-        "tags": [
-          "conspiracy",
-          "esoterica",
-          "karma"
-        ],
-        "aliases": [
-          "Elite Disclosure",
-          "Hidden In Plain Sight",
-          "Karma Disclosure",
-          "Predictive Programming Karma"
-        ],
-        "headings": [
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Evidence Discipline / Cách Đọc",
-          "Vị Trí Trong Vault / Vault Position",
-          "Luật Consent Ở Tầng Biểu Tượng",
-          "Fiction Là Vùng Disclosure Mềm",
-          "Hidden In Plain Sight",
-          "Timeline Không Phải Bằng Chứng Tự Động",
-          "Tại Sao Người Ta Không Thấy?",
-          "Decoder Mindset / Cách Đọc Không Paranoid",
-          "Counter-Arguments / Phản Biện Cần Giữ",
-          "Kết / Core Synthesis",
-          "Related",
-          "Nền tảng / Foundation",
-          "Ứng dụng / Application",
-          "Meta"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Khoa Học Xét Lại",
-          "Luân Hồi",
-          "Ma Trận",
-          "Nghịch Lý Của Hiểu Biết",
-          "Nhân Quả",
-          "Nhị Nguyên",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-          "esoterica/Gematria.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/index.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "esoterica/Vận Chín.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
-          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "words": 1472,
-        "summary": "**Karma Disclosure là giả thuyết rằng quyền lực không chỉ che giấu kế hoạch; nó còn để lại dấu vết công khai dưới dạng fiction, symbol, ritual, slogan hoặc \"joke\" để biến sự thật thành thứ ai cũng thấy nhưng ít người xử lý.** Đọc đúng, đây không phải giấy phé…"
       },
       {
         "path": "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
@@ -2897,6 +2904,7 @@
         "backlinks": [
           "esoterica/Atula.md",
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
           "esoterica/Gnosis.md",
           "esoterica/index.md",
           "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -3863,6 +3871,65 @@
         "summary": "**Long Mạch** là hệ thống các dòng năng lượng (sinh khí/chi) chảy trong lòng Trái Đất, tương tự kinh mạch trong cơ thể người. Feng shui gọi là \"dragon veins\", Western gọi là \"ley lines\"."
       },
       {
+        "path": "esoterica/Nhân Quả.md",
+        "title": "Nhân Quả",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Karma",
+          "Law of Cause and Effect"
+        ],
+        "headings": [
+          "Nhân Quả (Karma)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Thân, Khẩu, Ý",
+          "Karma Không Phải Định Mệnh Cứng",
+          "Karma Và Luân Hồi",
+          "Karma Bị Corrupt Như Thế Nào?",
+          "Chuyển Hóa Karma",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Luân Hồi",
+          "Monad",
+          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+          "Tâm Lý Học Jung"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Monad.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "mental-models/Tâm Lý Học Jung.md"
+        ],
+        "backlinks": [
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+          "esoterica/index.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "esoterica/Tứ Linh.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "index.md",
+          "mental-models/Tâm bất Biến.md",
+          "MOC - Esoterica & Consciousness.md"
+        ],
+        "words": 721,
+        "summary": "**Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo ra nó.** Đọc nông, karma thành công cụ dọa dân. Đọc sâu, karma là cơ chế học của linh h…"
+      },
+      {
         "path": "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "title": "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
         "domain": "esoterica",
@@ -3963,64 +4030,6 @@
         ],
         "words": 2444,
         "summary": "Lịch sử không phải những đường thẳng riêng lẻ mà là một tấm thảm đan xen — khi Việt Nam đang làm gì thì thế giới cũng đang chuyển động. Bài này đặt câu hỏi: **Tại sao những \"trùng hợp\" này lại xảy ra?**"
-      },
-      {
-        "path": "esoterica/Nhân Quả.md",
-        "title": "Nhân Quả",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Karma",
-          "Law of Cause and Effect"
-        ],
-        "headings": [
-          "Nhân Quả (Karma)",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Thân, Khẩu, Ý",
-          "Karma Không Phải Định Mệnh Cứng",
-          "Karma Và Luân Hồi",
-          "Karma Bị Corrupt Như Thế Nào?",
-          "Chuyển Hóa Karma",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Luân Hồi",
-          "Monad",
-          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
-          "Tâm Lý Học Jung"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Monad.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "mental-models/Tâm Lý Học Jung.md"
-        ],
-        "backlinks": [
-          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-          "esoterica/index.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "esoterica/Tứ Linh.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "index.md",
-          "mental-models/Tâm bất Biến.md",
-          "MOC - Esoterica & Consciousness.md"
-        ],
-        "words": 721,
-        "summary": "**Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo ra nó.** Đọc nông, karma thành công cụ dọa dân. Đọc sâu, karma là cơ chế học của linh h…"
       },
       {
         "path": "esoterica/S.E.X.md",
@@ -5809,6 +5818,71 @@
         ],
         "words": 1099,
         "summary": "**Annunaki là nơi thần thoại Lưỡng Hà, ancient astronaut theory và câu hỏi về nguồn gốc quyền lực nhân loại giao nhau.** Ở tầng học thuật, Anunnaki là nhóm thần linh trong truyền thống Sumer-Akkad-Babylon. Ở tầng alternative history, họ trở thành biểu tượng c…"
+      },
+      {
+        "path": "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+        "title": "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "esoterica",
+          "matrix",
+          "predictive-programming",
+          "reincarnation",
+          "symbolism"
+        ],
+        "aliases": [
+          "Cloud Atlas",
+          "Cloud Atlas Vân Đồ",
+          "Phân Tích Cloud Atlas",
+          "Sonmi-451",
+          "Vân Đồ",
+          "Vân Đồ Luân Hồi"
+        ],
+        "headings": [
+          "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
+          "Cách Đọc Bài Này",
+          "Vân Đồ, Sao Chổi Và Bản Nhạc",
+          "Sáu Thời Đại, Sáu Cái Lồng",
+          "Sonmi-451 Và Gnosis Của Nô Lệ Nhân Tạo",
+          "Tuyên Ngôn Của Sonmi",
+          "Khi Lời Chứng Trở Thành Tôn Giáo",
+          "Mạng Lưới Nhân Vật",
+          "Ma Trận Không Biến Mất, Nó Đổi Nhãn",
+          "Karma Là Tiếng Vọng",
+          "Những Cái Bẫy Khi Đọc Cloud Atlas",
+          "Tại Sao Phim Này Chạm Sâu?",
+          "Tổng Hợp",
+          "Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Luân Hồi",
+          "Ma Trận",
+          "Monad",
+          "Nhân Quả",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Nhân Quả.md",
+          "mental-models/Vô Thức Tập Thể.md"
+        ],
+        "backlinks": [
+          "esoterica/index.md",
+          "index.md",
+          "MOC - Esoterica & Consciousness.md"
+        ],
+        "words": 3876,
+        "summary": "!Vân đồ sáu thời đại với sợi sao chổi nối ký ức, âm nhạc và lời chứng"
       },
       {
         "path": "esoterica/Nibiru.md",
@@ -8899,6 +8973,7 @@
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
           "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
           "esoterica/Gaia - Trái Đất Có Ý Thức.md",
           "esoterica/Gnosis.md",
           "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
@@ -13352,6 +13427,7 @@
           "Chakra",
           "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
           "Climate Anxiety as Control - Fear-Based Compliance",
+          "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
           "crypto-finance/index",
           "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
           "Cách Đọc Red Pill Wiki",
@@ -13500,6 +13576,7 @@
           "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
           "esoterica/Chakra.md",
           "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
           "esoterica/Gaia - Trái Đất Có Ý Thức.md",
           "esoterica/Gematria.md",
           "esoterica/Gnosis.md",
@@ -13634,7 +13711,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 4097,
+        "words": 4150,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14004,6 +14081,7 @@
           "Biểu Tượng Baphomet",
           "Chu Kỳ Hoàng Đạo",
           "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+          "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
           "Gaia - Trái Đất Có Ý Thức",
           "Gematria",
           "Gnosis",
@@ -14036,6 +14114,7 @@
           "esoterica/Biểu Tượng Baphomet.md",
           "esoterica/Chu Kỳ Hoàng Đạo.md",
           "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
           "esoterica/Gaia - Trái Đất Có Ý Thức.md",
           "esoterica/Gematria.md",
           "esoterica/Gnosis.md",
@@ -14078,7 +14157,7 @@
           "mental-models/index.md",
           "MOC - Ancient Civilizations & Hidden History.md"
         ],
-        "words": 606,
+        "words": 642,
         "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
       },
       {
@@ -15975,6 +16054,7 @@
         "Chakra",
         "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
         "Climate Anxiety as Control - Fear-Based Compliance",
+        "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
         "crypto-finance/index",
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
         "Cách Đọc Red Pill Wiki",
@@ -16123,6 +16203,7 @@
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Chakra.md",
         "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
@@ -16257,7 +16338,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4097,
+      "words": 4150,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -16374,6 +16455,7 @@
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Cabal.md",
         "esoterica/Chakra.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
@@ -16814,6 +16896,121 @@
       "summary": "**Khoa Học Xét Lại không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution: một bên là quan sát, kiểm chứng, phản biện; một bên là funding, prestige, consensus, censorship, career incentive và quyền lực.**"
     },
     {
+      "path": "esoterica/Gnosis.md",
+      "title": "Gnosis (Ngộ Đạo)",
+      "domain": "esoterica",
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "gnosis",
+        "matrix"
+      ],
+      "aliases": [
+        "Direct Knowing",
+        "Gnosis",
+        "Gnosticism",
+        "Ngộ Đạo"
+      ],
+      "headings": [
+        "Gnosis (Ngộ Đạo)",
+        "Evidence Discipline / Cách Đọc",
+        "1. Gnosis Là Gì?",
+        "2. Gnosis Không Cần Trung Gian",
+        "3. Divine Spark: Tia Lửa Bị Mắc Kẹt Trong Vật Chất",
+        "4. Demiurge Và Ma Trận",
+        "5. Gnosis Và Luân Hồi",
+        "6. Gnosis Khác Với Đức Tin Như Thế Nào?",
+        "7. Kinh Sách Bị Đàn Áp Và Nag Hammadi",
+        "8. Gnosis Trong Văn Hóa Hiện Đại",
+        "9. Gnosis Và Individuation",
+        "10. Pseudo-Gnosis: Cạm Bẫy Của Người “Biết”",
+        "11. Thực Hành Gnosis",
+        "12. Synthesis: Gnosis Là Lối Thoát Khỏi Ma Trận Bên Trong",
+        "Related",
+        "Source / Nguồn",
+        "Matrix / Escape",
+        "Integration"
+      ],
+      "wikilinks": [
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Individuation",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Luân Hồi",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Monad",
+        "Nghịch Lý Của Hiểu Biết",
+        "Sự Nhất Thể",
+        "Tuyến Tùng",
+        "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "health/Tuyến Tùng.md",
+        "mental-models/Individuation.md",
+        "mental-models/Vô Thức Tập Thể.md"
+      ],
+      "backlinks": [
+        "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+        "esoterica/Chakra.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/index.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Kundalini.md",
+        "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Manly P. Hall.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Một Đời Phù Vân.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Nhân Quả.md",
+        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Saturn Cube.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+        "esoterica/Thánh Issa.md",
+        "esoterica/Thực Thể Cõi Trung Giới.md",
+        "esoterica/Tinh Khí Thần.md",
+        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "esoterica/Tà Linh.md",
+        "esoterica/Đạo.md",
+        "Glossary - Từ Điển Red Pill Wiki.md",
+        "health/Prolonged Fasting.md",
+        "health/Tuyến Tùng.md",
+        "index.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Individuation.md",
+        "mental-models/Trí Tuệ.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "MOC - Esoterica & Consciousness.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Elite.md",
+        "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
+      ],
+      "words": 1968,
+      "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
+    },
+    {
       "path": "MOC - Epistemology & Propaganda.md",
       "title": "MOC - Epistemology & Propaganda",
       "domain": "root",
@@ -17070,120 +17267,6 @@
       ],
       "words": 1979,
       "summary": "Bài viết này là **bản tổng hợp hoàn chỉnh** về Ma Trận — cấu trúc, các lớp kiểm soát, mục đích tồn tại, và **con đường thoát ra**. Đây là meta-framework xâu chuỗi toàn bộ kiến thức trong vault."
-    },
-    {
-      "path": "esoterica/Gnosis.md",
-      "title": "Gnosis (Ngộ Đạo)",
-      "domain": "esoterica",
-      "tags": [
-        "consciousness",
-        "esoterica",
-        "gnosis",
-        "matrix"
-      ],
-      "aliases": [
-        "Direct Knowing",
-        "Gnosis",
-        "Gnosticism",
-        "Ngộ Đạo"
-      ],
-      "headings": [
-        "Gnosis (Ngộ Đạo)",
-        "Evidence Discipline / Cách Đọc",
-        "1. Gnosis Là Gì?",
-        "2. Gnosis Không Cần Trung Gian",
-        "3. Divine Spark: Tia Lửa Bị Mắc Kẹt Trong Vật Chất",
-        "4. Demiurge Và Ma Trận",
-        "5. Gnosis Và Luân Hồi",
-        "6. Gnosis Khác Với Đức Tin Như Thế Nào?",
-        "7. Kinh Sách Bị Đàn Áp Và Nag Hammadi",
-        "8. Gnosis Trong Văn Hóa Hiện Đại",
-        "9. Gnosis Và Individuation",
-        "10. Pseudo-Gnosis: Cạm Bẫy Của Người “Biết”",
-        "11. Thực Hành Gnosis",
-        "12. Synthesis: Gnosis Là Lối Thoát Khỏi Ma Trận Bên Trong",
-        "Related",
-        "Source / Nguồn",
-        "Matrix / Escape",
-        "Integration"
-      ],
-      "wikilinks": [
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Individuation",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "Luân Hồi",
-        "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "Monad",
-        "Nghịch Lý Của Hiểu Biết",
-        "Sự Nhất Thể",
-        "Tuyến Tùng",
-        "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
-        "Vô Thức Tập Thể"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-        "health/Tuyến Tùng.md",
-        "mental-models/Individuation.md",
-        "mental-models/Vô Thức Tập Thể.md"
-      ],
-      "backlinks": [
-        "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-        "esoterica/Chakra.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/index.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Kundalini.md",
-        "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Manly P. Hall.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Một Đời Phù Vân.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Nhân Quả.md",
-        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-        "esoterica/Sacred Geometry.md",
-        "esoterica/Saturn Cube.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "esoterica/Thánh Issa.md",
-        "esoterica/Thực Thể Cõi Trung Giới.md",
-        "esoterica/Tinh Khí Thần.md",
-        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-        "esoterica/Tà Linh.md",
-        "esoterica/Đạo.md",
-        "Glossary - Từ Điển Red Pill Wiki.md",
-        "health/Prolonged Fasting.md",
-        "health/Tuyến Tùng.md",
-        "index.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Individuation.md",
-        "mental-models/Trí Tuệ.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "MOC - Esoterica & Consciousness.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Elite.md",
-        "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
-      ],
-      "words": 1968,
-      "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
     },
     {
       "path": "politics-conspiracy/Kiểm Soát Tâm Trí.md",
@@ -18136,6 +18219,7 @@
         "Biểu Tượng Baphomet",
         "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
         "Chakra",
+        "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
         "Cách Đọc Red Pill Wiki",
         "Gematria",
         "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
@@ -18181,6 +18265,7 @@
         "esoterica/Biểu Tượng Baphomet.md",
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Chakra.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
@@ -18224,7 +18309,7 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 1077,
+      "words": 1146,
       "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
     },
     {
@@ -18255,6 +18340,7 @@
         "Biểu Tượng Baphomet",
         "Chu Kỳ Hoàng Đạo",
         "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+        "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
         "Gaia - Trái Đất Có Ý Thức",
         "Gematria",
         "Gnosis",
@@ -18287,6 +18373,7 @@
         "esoterica/Biểu Tượng Baphomet.md",
         "esoterica/Chu Kỳ Hoàng Đạo.md",
         "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
@@ -18329,7 +18416,7 @@
         "mental-models/index.md",
         "MOC - Ancient Civilizations & Hidden History.md"
       ],
-      "words": 606,
+      "words": 642,
       "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
     },
     {
@@ -18526,6 +18613,105 @@
       "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
     },
     {
+      "path": "esoterica/Monad.md",
+      "title": "Monad (Đơn Thể Tối Cao)",
+      "domain": "esoterica",
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "metaphysics"
+      ],
+      "aliases": [
+        "Monad",
+        "The One",
+        "Tia Lửa Thần Thánh",
+        "Đơn Thể"
+      ],
+      "headings": [
+        "Monad (Đơn Thể Tối Cao)",
+        "Evidence Discipline / Cách Đọc",
+        "1. Monad Là Gì?",
+        "2. Một Khái Niệm, Nhiều Tên Gọi",
+        "3. Monad, Linh Hồn Và Bản Ngã Khác Nhau Thế Nào?",
+        "4. Hành Trình Hạ Giáng: Vì Sao Monad Bước Vào Ma Trận?",
+        "5. Hành Trình Thăng Hoa: Gnosis Là Nhớ Lại Monad",
+        "6. Monad Và Nhị Nguyên",
+        "7. Monad Và Ma Trận",
+        "8. Monad Và Khoa Học Xét Lại",
+        "9. Monad Trong Đời Sống Thực Tế",
+        "10. Sai Lầm Khi Hiểu Monad",
+        "Sai lầm 1: “Tôi là God, nên muốn làm gì cũng được”",
+        "Sai lầm 2: “Tất cả là một, nên đau khổ không quan trọng”",
+        "Sai lầm 3: “Trở về Source là bỏ đời sống vật chất”",
+        "Sai lầm 4: “Monad là niềm tin”",
+        "11. Synthesis: Monad Là Cái Không Thể Bị Ma Trận Sở Hữu",
+        "Related",
+        "Source / Nguồn",
+        "Journey / Hành trình",
+        "Matrix / Ma Trận"
+      ],
+      "wikilinks": [
+        "Elite",
+        "Gnosis",
+        "Individuation",
+        "Luân Hồi",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nhị Nguyên",
+        "Sự Nhất Thể",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Sự Nhất Thể.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "politics-conspiracy/Elite.md"
+      ],
+      "backlinks": [
+        "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+        "esoterica/Gnosis.md",
+        "esoterica/index.md",
+        "esoterica/Long Mạch.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Nhân Quả.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Saturn Cube.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "esoterica/Đạo.md",
+        "Glossary - Từ Điển Red Pill Wiki.md",
+        "index.md",
+        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "MOC - Esoterica & Consciousness.md",
+        "politics-conspiracy/Elite.md",
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+        "science-tech/Walter Russell.md"
+      ],
+      "words": 2158,
+      "summary": "**Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân…"
+    },
+    {
       "path": "science-tech/index.md",
       "title": "Science & Tech Domain Gateway",
       "domain": "science-tech",
@@ -18640,104 +18826,6 @@
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
     },
     {
-      "path": "esoterica/Monad.md",
-      "title": "Monad (Đơn Thể Tối Cao)",
-      "domain": "esoterica",
-      "tags": [
-        "consciousness",
-        "esoterica",
-        "metaphysics"
-      ],
-      "aliases": [
-        "Monad",
-        "The One",
-        "Tia Lửa Thần Thánh",
-        "Đơn Thể"
-      ],
-      "headings": [
-        "Monad (Đơn Thể Tối Cao)",
-        "Evidence Discipline / Cách Đọc",
-        "1. Monad Là Gì?",
-        "2. Một Khái Niệm, Nhiều Tên Gọi",
-        "3. Monad, Linh Hồn Và Bản Ngã Khác Nhau Thế Nào?",
-        "4. Hành Trình Hạ Giáng: Vì Sao Monad Bước Vào Ma Trận?",
-        "5. Hành Trình Thăng Hoa: Gnosis Là Nhớ Lại Monad",
-        "6. Monad Và Nhị Nguyên",
-        "7. Monad Và Ma Trận",
-        "8. Monad Và Khoa Học Xét Lại",
-        "9. Monad Trong Đời Sống Thực Tế",
-        "10. Sai Lầm Khi Hiểu Monad",
-        "Sai lầm 1: “Tôi là God, nên muốn làm gì cũng được”",
-        "Sai lầm 2: “Tất cả là một, nên đau khổ không quan trọng”",
-        "Sai lầm 3: “Trở về Source là bỏ đời sống vật chất”",
-        "Sai lầm 4: “Monad là niềm tin”",
-        "11. Synthesis: Monad Là Cái Không Thể Bị Ma Trận Sở Hữu",
-        "Related",
-        "Source / Nguồn",
-        "Journey / Hành trình",
-        "Matrix / Ma Trận"
-      ],
-      "wikilinks": [
-        "Elite",
-        "Gnosis",
-        "Individuation",
-        "Luân Hồi",
-        "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nhị Nguyên",
-        "Sự Nhất Thể",
-        "Vô Thức Tập Thể"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Gnosis.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Sự Nhất Thể.md",
-        "mental-models/Individuation.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "politics-conspiracy/Elite.md"
-      ],
-      "backlinks": [
-        "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Gnosis.md",
-        "esoterica/index.md",
-        "esoterica/Long Mạch.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Nhân Quả.md",
-        "esoterica/Sacred Geometry.md",
-        "esoterica/Saturn Cube.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-        "esoterica/Đạo.md",
-        "Glossary - Từ Điển Red Pill Wiki.md",
-        "index.md",
-        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-        "mental-models/Individuation.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "MOC - Esoterica & Consciousness.md",
-        "politics-conspiracy/Elite.md",
-        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
-        "science-tech/Walter Russell.md"
-      ],
-      "words": 2158,
-      "summary": "**Monad là tia lửa bất khả phân của Nguồn. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể — phần chưa từng rời khỏi Source, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn, thân…"
-    },
-    {
       "path": "mental-models/Vô Thức Tập Thể.md",
       "title": "Vô Thức Tập Thể",
       "domain": "mental-models",
@@ -18793,6 +18881,7 @@
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gnosis.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
@@ -20109,11 +20198,15 @@
   "topTags": [
     [
       "esoterica",
-      81
+      82
     ],
     [
       "science-tech",
       35
+    ],
+    [
+      "consciousness",
+      29
     ],
     [
       "health",
@@ -20121,10 +20214,6 @@
     ],
     [
       "mental-model",
-      28
-    ],
-    [
-      "consciousness",
       28
     ],
     [
@@ -20137,7 +20226,7 @@
     ],
     [
       "matrix",
-      16
+      17
     ],
     [
       "psychology",
@@ -20145,7 +20234,7 @@
     ],
     [
       "symbolism",
-      11
+      12
     ],
     [
       "sovereignty",
@@ -20208,6 +20297,10 @@
       6
     ],
     [
+      "predictive-programming",
+      6
+    ],
+    [
       "philosophy",
       6
     ],
@@ -20221,10 +20314,6 @@
     ],
     [
       "occult",
-      5
-    ],
-    [
-      "predictive-programming",
       5
     ],
     [
@@ -20357,6 +20446,10 @@
     ],
     [
       "sexuality",
+      2
+    ],
+    [
+      "reincarnation",
       2
     ],
     [
@@ -20501,10 +20594,6 @@
     ],
     [
       "ancient-wisdom",
-      1
-    ],
-    [
-      "reincarnation",
       1
     ]
   ],
@@ -21029,6 +21118,7 @@
         "Biểu Tượng Baphomet",
         "Chu Kỳ Hoàng Đạo",
         "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+        "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
         "Gaia - Trái Đất Có Ý Thức",
         "Gematria",
         "Gnosis",
@@ -21061,6 +21151,7 @@
         "esoterica/Biểu Tượng Baphomet.md",
         "esoterica/Chu Kỳ Hoàng Đạo.md",
         "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
@@ -21103,7 +21194,7 @@
         "mental-models/index.md",
         "MOC - Ancient Civilizations & Hidden History.md"
       ],
-      "words": 606,
+      "words": 642,
       "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
     },
     "MOC - Financial Sovereignty.md": {
@@ -22564,7 +22655,7 @@
         "MOC - Financial Sovereignty.md",
         "MOC - Market Psychology & Risk.md"
       ],
-      "words": 7651,
+      "words": 7824,
       "summary": "!Saylor Game Bitcoin Box"
     },
     "crypto-finance/Secular Market.md": {
@@ -23927,6 +24018,71 @@
       "words": 4453,
       "summary": "Khoa học hiện đại dạy rằng lịch sử là một đường thẳng tiến lên: từ vi khuẩn đến cá, từ cá đến vượn, từ vượn đến người, từ hang động đến smartphone. Mỗi thế hệ \"tiến bộ\" hơn thế hệ trước. Chúng ta đang ở đỉnh cao của văn minh."
     },
+    "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md": {
+      "path": "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+      "title": "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
+      "domain": "esoterica",
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "matrix",
+        "predictive-programming",
+        "reincarnation",
+        "symbolism"
+      ],
+      "aliases": [
+        "Cloud Atlas",
+        "Cloud Atlas Vân Đồ",
+        "Phân Tích Cloud Atlas",
+        "Sonmi-451",
+        "Vân Đồ",
+        "Vân Đồ Luân Hồi"
+      ],
+      "headings": [
+        "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
+        "Cách Đọc Bài Này",
+        "Vân Đồ, Sao Chổi Và Bản Nhạc",
+        "Sáu Thời Đại, Sáu Cái Lồng",
+        "Sonmi-451 Và Gnosis Của Nô Lệ Nhân Tạo",
+        "Tuyên Ngôn Của Sonmi",
+        "Khi Lời Chứng Trở Thành Tôn Giáo",
+        "Mạng Lưới Nhân Vật",
+        "Ma Trận Không Biến Mất, Nó Đổi Nhãn",
+        "Karma Là Tiếng Vọng",
+        "Những Cái Bẫy Khi Đọc Cloud Atlas",
+        "Tại Sao Phim Này Chạm Sâu?",
+        "Tổng Hợp",
+        "Đọc Tiếp"
+      ],
+      "wikilinks": [
+        "Gnosis",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Luân Hồi",
+        "Ma Trận",
+        "Monad",
+        "Nhân Quả",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Nhân Quả.md",
+        "mental-models/Vô Thức Tập Thể.md"
+      ],
+      "backlinks": [
+        "esoterica/index.md",
+        "index.md",
+        "MOC - Esoterica & Consciousness.md"
+      ],
+      "words": 3876,
+      "summary": "!Vân đồ sáu thời đại với sợi sao chổi nối ký ức, âm nhạc và lời chứng"
+    },
     "esoterica/Dịch Chuyển Cực.md": {
       "path": "esoterica/Dịch Chuyển Cực.md",
       "title": "Dịch Chuyển Cực (Pole Shift)",
@@ -24212,6 +24368,7 @@
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
         "esoterica/Chakra.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/index.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -24318,6 +24475,7 @@
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Cabal.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gnosis.md",
         "esoterica/index.md",
@@ -24531,6 +24689,7 @@
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
@@ -24960,6 +25119,7 @@
       "backlinks": [
         "esoterica/Atula.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gnosis.md",
         "esoterica/index.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -25342,6 +25502,7 @@
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Cabal.md",
         "esoterica/Chakra.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
@@ -25710,6 +25871,7 @@
       "backlinks": [
         "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
         "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gnosis.md",
         "esoterica/index.md",
         "esoterica/Long Mạch.md",
@@ -26031,6 +26193,7 @@
         "mental-models/Tâm Lý Học Jung.md"
       ],
       "backlinks": [
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
         "esoterica/index.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -28259,6 +28422,7 @@
         "Biểu Tượng Baphomet",
         "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
         "Chakra",
+        "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
         "Cách Đọc Red Pill Wiki",
         "Gematria",
         "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
@@ -28304,6 +28468,7 @@
         "esoterica/Biểu Tượng Baphomet.md",
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Chakra.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
@@ -28347,7 +28512,7 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 1077,
+      "words": 1146,
       "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
     },
     "esoterica/Đạo.md": {
@@ -30224,6 +30389,7 @@
         "Chakra",
         "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
         "Climate Anxiety as Control - Fear-Based Compliance",
+        "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
         "crypto-finance/index",
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
         "Cách Đọc Red Pill Wiki",
@@ -30372,6 +30538,7 @@
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Chakra.md",
         "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gematria.md",
         "esoterica/Gnosis.md",
@@ -30506,7 +30673,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4097,
+      "words": 4150,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
@@ -32895,6 +33062,7 @@
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
         "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "esoterica/Gnosis.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",

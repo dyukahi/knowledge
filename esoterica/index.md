@@ -85,8 +85,9 @@ Orientation: follow language, number, geometry and cinema as programming surface
 3. [[Sacred Geometry]] — read form as encoded metaphysics.
 4. [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] — watch media rehearse futures.
 5. [[Hollywood - Cây Đũa Phép Của Phù Thủy]] — see entertainment as ritual theater.
-6. [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — read football, creator culture and World Cup 2026 as collective field myth.
-7. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — expand sports and halftime shows into mass synchronization ritual theory.
+6. [[Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]] — đọc luân hồi, lời chứng và các hình thức nô lệ của Ma Trận qua sáu tuyến thời gian.
+7. [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — read football, creator culture and World Cup 2026 as collective field myth.
+8. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — expand sports and halftime shows into mass synchronization ritual theory.
 
 ### 5. Cross-Domain Bridge Path — Ancient Memory, Earth Grid, Science
 
@@ -127,6 +128,7 @@ Orientation: this is the practice-facing route. It turns esoterica back inward, 
 - [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — World Cup 2026, Brazil and the return of football soul as a symbolic case study.
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — World Cup, Euro, Super Bowl and launches as synchronized mass ritual.
 - [[Hollywood - Cây Đũa Phép Của Phù Thủy]] — cinema as ritual rehearsal and symbolic programming.
+- [[Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]] — case study điện ảnh về luân hồi, Gnosis, lời chứng và nô lệ Ma Trận qua sáu thời đại.
 - [[Sự Nhất Thể]] / [[Monad]] / [[Gnosis]] — the Source axis of the vault.
 - [[Tartaria]] and [[Atlantis]] — hidden-history case studies for reading fact, myth and reset narratives separately.
 

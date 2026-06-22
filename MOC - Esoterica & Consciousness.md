@@ -44,6 +44,7 @@ Các bài trong map này nên được đọc qua các tầng: direct experience
 
 - [[Ma Trận]] — reality như interface kiểm soát perception.
 - [[Ma Trận - Giải Phẫu Hoàn Chỉnh]] — anatomy sâu của control system.
+- [[Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]] — case study điện ảnh về nô lệ Ma Trận, ký ức linh hồn và lời chứng qua sáu tuyến thời gian.
 - [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]] — emotion/attention như năng lượng bị thu hoạch.
 - [[Nhân Quả]] — cause/effect vượt khỏi moral simplification.
 - [[Thực Thể Cõi Trung Giới]], [[Tà Linh]], [[Atula]] — các dạng entity/archetype ở tầng trung giới và tâm thức.
