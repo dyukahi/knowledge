@@ -1410,8 +1410,8 @@
         "aliases": [
           "Money",
           "Money... (P.1)",
-          "Tiền",
           "tiền",
+          "Tiền",
           "Tiền tiền tiền",
           "tiền... (P.1) / Money"
         ],
@@ -5850,6 +5850,7 @@
           "Tuyên Ngôn Của Sonmi",
           "Khi Lời Chứng Trở Thành Tôn Giáo",
           "Mạng Lưới Nhân Vật",
+          "Diễn Viên Lặp Vai Và Ngữ Pháp Của Ma Trận",
           "Ma Trận Không Biến Mất, Nó Đổi Nhãn",
           "Karma Là Tiếng Vọng",
           "Những Cái Bẫy Khi Đọc Cloud Atlas",
@@ -5883,7 +5884,7 @@
           "index.md",
           "MOC - Esoterica & Consciousness.md"
         ],
-        "words": 4782,
+        "words": 5326,
         "summary": "!Vân đồ sáu thời đại với sợi sao chổi nối ký ức, âm nhạc và lời chứng"
       },
       {
@@ -22858,8 +22859,8 @@
       "aliases": [
         "Money",
         "Money... (P.1)",
-        "Tiền",
         "tiền",
+        "Tiền",
         "Tiền tiền tiền",
         "tiền... (P.1) / Money"
       ],
@@ -24053,6 +24054,7 @@
         "Tuyên Ngôn Của Sonmi",
         "Khi Lời Chứng Trở Thành Tôn Giáo",
         "Mạng Lưới Nhân Vật",
+        "Diễn Viên Lặp Vai Và Ngữ Pháp Của Ma Trận",
         "Ma Trận Không Biến Mất, Nó Đổi Nhãn",
         "Karma Là Tiếng Vọng",
         "Những Cái Bẫy Khi Đọc Cloud Atlas",
@@ -24086,7 +24088,7 @@
         "index.md",
         "MOC - Esoterica & Consciousness.md"
       ],
-      "words": 4782,
+      "words": 5326,
       "summary": "!Vân đồ sáu thời đại với sợi sao chổi nối ký ức, âm nhạc và lời chứng"
     },
     "esoterica/Dịch Chuyển Cực.md": {

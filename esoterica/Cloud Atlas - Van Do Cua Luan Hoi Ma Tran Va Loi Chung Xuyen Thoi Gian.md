@@ -69,7 +69,7 @@ Sextet còn làm một việc mà hình ảnh không làm được: nó đi qua 
 
 Nếu xem lại phim, có hai dấu vết nên để ý. Dấu thứ nhất là **bản nhạc**. *Cloud Atlas Sextet* được sinh ra trong tuyến Frobisher: Ayrs nghe một giai điệu trong mơ, Frobisher nhận ra và gọi nó thành Sextet. Sau đó nó không ở yên trong năm 1936. Luisa Rey nghe bản thu ở cửa hàng đĩa và có cảm giác quen lạ, như thể ký ức không đi bằng lời mà đi bằng âm. Về sau, motif của Sextet tiếp tục vang trong score của phim, khi rõ thành bản nhạc, khi chìm thành nền cảm xúc. Nó là cách phim cho người xem “nghe” thấy sự liên tục trước khi hiểu nó bằng đầu óc.
 
-Dấu thứ hai là **birthmark hình sao chổi**. Trong phim, dấu này xuất hiện trên các nhân vật trung tâm của từng tuyến: Adam Ewing, Robert Frobisher, Luisa Rey, Timothy Cavendish, Sonmi-451 và Zachry. Vị trí trên cơ thể không phải điều quan trọng nhất; điều quan trọng là phim dùng cùng một hình sao chổi để đánh dấu những người đang mang một điểm lệch khỏi kịch bản của thời đại mình. Họ không giống nhau về tính cách, đạo đức hay mức độ tỉnh thức. Nhưng họ cùng là những chỗ dòng thời gian đổi hướng.
+Dấu thứ hai là **dấu sao chổi hình sao chổi**. Trong phim, dấu này xuất hiện trên các nhân vật trung tâm của từng tuyến: Adam Ewing, Robert Frobisher, Luisa Rey, Timothy Cavendish, Sonmi-451 và Zachry. Vị trí trên cơ thể không phải điều quan trọng nhất; điều quan trọng là phim dùng cùng một hình sao chổi để đánh dấu những người đang mang một điểm lệch khỏi kịch bản của thời đại mình. Họ không giống nhau về tính cách, đạo đức hay mức độ tỉnh thức. Nhưng họ cùng là những chỗ dòng thời gian đổi hướng.
 
 Vì vậy, sao chổi và Sextet là một cặp dấu vết: một cái nhìn thấy trên thân thể, một cái nghe thấy trong trường âm. Sao chổi nói: có một quỹ đạo đang đi qua nhiều hiện thân. Sextet nói: có một ký ức đang vang qua nhiều thời đại. Một dấu bằng ánh sáng, một dấu bằng âm thanh. Cả hai giúp người xem cảm được điều mà phim không cần giải thích trực tiếp: đời sống không khép lại ở biên giới của một cá nhân.
 
@@ -178,6 +178,20 @@ Có chức năng giữ cổng: Haskell Moore giữ trật tự nô lệ, Ayrs gi
 Có chức năng mở khóa: Autua mở mắt Adam, Frobisher mở tần số âm nhạc cho Luisa, Sixsmith mở hồ sơ cho Luisa, Cavendish vô tình mở mầm nổi loạn cho Sonmi, Hae-Joo mở thế giới bên ngoài cho Sonmi, Meronym mở đường trời cho Zachry. Người mở khóa không cứu thay. Họ chỉ chứng minh cái lồng không phải toàn bộ thực tại.
 
 Và có chức năng ăn người: Goose đầu độc Adam để lấy vàng, Ayrs hút thiên tài của Frobisher, tập đoàn năng lượng hy sinh an toàn công chúng, viện dưỡng lão hút tự do người già, Neo Seoul ăn thân xác fabricant, bộ lạc Kona hiện thực hóa motif ăn thịt người. Đây là mẫu hình loosh/ăn thịt người ở nhiều tầng: vật chất, sáng tạo, thông tin, tuổi già, thân xác và sinh tồn bộ lạc.
+
+### Diễn Viên Lặp Vai Và Ngữ Pháp Của Ma Trận
+
+Dấu sao chổi giúp ta theo dõi các nhân vật trung tâm, nhưng đó không phải lớp lặp duy nhất của phim. *Cloud Atlas* còn dùng chính dàn diễn viên như một ngữ pháp biểu tượng: cùng một gương mặt đi qua nhiều thời đại, đổi giới tính, đổi chủng tộc, đổi vị trí xã hội, nhưng thường giữ lại một chức năng sâu hơn.
+
+Điểm này rất quan trọng vì nó tránh cách đọc quá đơn giản rằng “ai có dấu sao chổi thì mới là linh hồn chính, còn các vai khác chỉ là phụ”. Dấu sao chổi đánh dấu một đường sao chổi. Nhưng các diễn viên lặp vai cho thấy những lực khác cũng tái hiện: người giữ cổng, kẻ săn mồi, người làm chứng, người mở khóa, người bị cám dỗ, kẻ ăn người. Nói cách khác, không chỉ linh hồn tái sinh. Cả Ma Trận cũng tái sinh qua chức năng.
+
+Hugo Weaving là ví dụ rõ nhất cho tuyến phản lực Ma Trận. Qua nhiều thời đại, ông thường xuất hiện như người giữ cổng hoặc lực cưỡng chế: Haskell Moore bảo vệ trật tự nô lệ, Bill Smoke truy sát Luisa Rey, Nurse Noakes giữ Cavendish trong nhà tù chăm sóc, Boardman Mephi đại diện cho bộ máy Neo Seoul, Old Georgie là tiếng nói sợ hãi trong đầu Zachry. Cùng một gương mặt không nhất thiết nghĩa là cùng một linh hồn theo nghĩa đen. Nhưng ở tầng điện ảnh, nó khiến người xem cảm được rằng Ma Trận có một giọng nói quen: nó đổi áo, nhưng vẫn thì thầm cùng một câu — ở yên trong cái lồng của mày.
+
+Hugh Grant cũng mang một tuyến tối khác: quyền lực săn mồi. Từ thực dân, quý tộc, doanh nghiệp, gia đình phản bội đến thủ lĩnh bộ lạc ăn thịt người, chức năng lặp lại là một dạng đói. Không phải lúc nào cũng đói theo nghĩa đen. Có khi là đói quyền lực, đói tiền, đói kiểm soát, đói thân xác người khác. Đến tuyến Kona, phim chỉ làm mẫu hình đó thành hình ảnh trần trụi nhất.
+
+Tom Hanks thú vị hơn vì ông không chỉ là phản diện hay chính diện. Ông đi từ Goose, kẻ đầu độc để lấy vàng, qua nhiều vai trung gian, tới Zachry, người bị Old Georgie cám dỗ nhưng vẫn có khả năng chọn khác. Đây là một cung chuyển hóa: cùng một năng lượng có thể đi từ săn mồi sang bảo vệ, từ sợ hãi sang kể lại, từ bị Ma Trận dùng sang bắt đầu thoát khỏi giọng nói của nó.
+
+Vì vậy, khi xem lại phim, đừng chỉ hỏi “ai có dấu sao chổi?”. Hãy hỏi thêm: cùng một diễn viên đang mang chức năng gì qua các thời đại? Có gương mặt nào cứ xuất hiện như cửa khóa? Có gương mặt nào cứ xuất hiện như kẻ ăn người? Có gương mặt nào đi từ tối sang sáng? Đây là tầng mà *Cloud Atlas* trở thành một bản đồ không chỉ của linh hồn, mà của chính các lực đang tranh nhau quyền viết lại linh hồn.
 
 ---
 
