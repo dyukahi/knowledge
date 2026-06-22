@@ -65,6 +65,14 @@ Dấu sao chổi là đường bằng ánh sáng. Nó xuất hiện trên các n
 
 Sextet còn làm một việc mà hình ảnh không làm được: nó đi qua lý trí. Một bản nhạc không cần giải thích trước khi chạm vào người nghe. Luisa Rey không cần biết Frobisher là ai để cảm thấy bản nhạc quen. Người xem cũng không cần nắm hết cấu trúc phim để nhận ra có một giai điệu đang gọi các đời sống rời rạc về cùng một trường ký ức. Đây là chỗ *Cloud Atlas* rất gần với [[Vô Thức Tập Thể]]: ký ức không chỉ là thứ được kể lại, mà còn là thứ được ngân lên.
 
+### Dấu Vết Khi Xem Phim
+
+Nếu xem lại phim, có hai dấu vết nên để ý. Dấu thứ nhất là **bản nhạc**. *Cloud Atlas Sextet* được sinh ra trong tuyến Frobisher: Ayrs nghe một giai điệu trong mơ, Frobisher nhận ra và gọi nó thành Sextet. Sau đó nó không ở yên trong năm 1936. Luisa Rey nghe bản thu ở cửa hàng đĩa và có cảm giác quen lạ, như thể ký ức không đi bằng lời mà đi bằng âm. Về sau, motif của Sextet tiếp tục vang trong score của phim, khi rõ thành bản nhạc, khi chìm thành nền cảm xúc. Nó là cách phim cho người xem “nghe” thấy sự liên tục trước khi hiểu nó bằng đầu óc.
+
+Dấu thứ hai là **birthmark hình sao chổi**. Trong phim, dấu này xuất hiện trên các nhân vật trung tâm của từng tuyến: Adam Ewing, Robert Frobisher, Luisa Rey, Timothy Cavendish, Sonmi-451 và Zachry. Vị trí trên cơ thể không phải điều quan trọng nhất; điều quan trọng là phim dùng cùng một hình sao chổi để đánh dấu những người đang mang một điểm lệch khỏi kịch bản của thời đại mình. Họ không giống nhau về tính cách, đạo đức hay mức độ tỉnh thức. Nhưng họ cùng là những chỗ dòng thời gian đổi hướng.
+
+Vì vậy, sao chổi và Sextet là một cặp dấu vết: một cái nhìn thấy trên thân thể, một cái nghe thấy trong trường âm. Sao chổi nói: có một quỹ đạo đang đi qua nhiều hiện thân. Sextet nói: có một ký ức đang vang qua nhiều thời đại. Một dấu bằng ánh sáng, một dấu bằng âm thanh. Cả hai giúp người xem cảm được điều mà phim không cần giải thích trực tiếp: đời sống không khép lại ở biên giới của một cá nhân.
+
 ---
 
 ## Sáu Thời Đại, Sáu Cái Lồng
