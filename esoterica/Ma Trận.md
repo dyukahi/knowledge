@@ -17,6 +17,8 @@ related:
 ---
 # Ma Trận (The Matrix)
 
+![Một con người đứng trước lớp giao diện trong suốt của thành phố, ký ức, truyền thông và hệ thần kinh, với tia sáng nhỏ trong tim](../assets/illustrations/matrix/00-hero-perception-interface.png)
+
 **Ma Trận không chỉ là một bộ phim, một thuyết âm mưu, hay một nhóm người xấu đứng sau sân khấu. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có [[Monad]] quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**
 
 *The Matrix is not merely a movie, a conspiracy theory, or a group of villains behind the curtain. It is an operating system of perception: an interface that makes a being with a [[Monad]] forget what it is, identify with a social avatar, and self-operate according to pre-designed rules.*
@@ -58,6 +60,8 @@ Không phải avatar nào cũng giả. Avatar là interface cần thiết để 
 
 ## Ba Tầng Của Cái Lồng
 
+![Ba lớp lồng trong suốt bao quanh con người: vật chất, attention và spiritual veil, với một ngọn lửa nhỏ ở trung tâm](../assets/illustrations/matrix/01-layers-of-the-cage.png)
+
 Ma Trận vận hành qua nhiều tầng cùng lúc. Nếu chỉ nhìn một tầng, người đọc dễ rơi vào simplification: hoặc chỉ thấy politics, hoặc chỉ thấy money, hoặc chỉ thấy aliens, hoặc chỉ thấy psychology. Vault đọc Ma Trận như một hệ nhiều lớp.
 
 ### 1. Physical Matrix: Cơ Thể, Thời Gian, Tiền Và Không Gian
@@ -75,6 +79,8 @@ Tầng tâm lý không kiểm soát bằng xích. Nó kiểm soát bằng nhịp
 News dạy bạn sợ gì hôm nay. Social media dạy bạn tức gì hôm nay. Porn và dopamine economy dạy cơ thể tìm khoái cảm ở đâu. Politics dạy bạn ghét ai. Advertising dạy bạn thiếu cái gì. Influencer culture dạy bạn phải thành phiên bản nào. Algorithm không cần bắt bạn tin mọi thứ. Nó chỉ cần biết nút nào khiến bạn click, rage, envy, desire, defend, confess, buy hoặc scroll thêm.
 
 Cái nguy hiểm nhất của tầng này là nó biến perception thành reflex. Trước khi bạn kịp thấy, bạn đã phản ứng. Trước khi bạn kịp hỏi, bạn đã chọn phe. Trước khi bạn kịp nghe một người thật, bạn đã áp một label lên họ.
+
+![Bữa cơm ấm áp dưới chiếc đèn bụi mờ, nơi bàn tay chia sẻ thức ăn quan trọng hơn ánh mắt kiểm toán trên trần nhà](../assets/illustrations/matrix/02-care-table-vs-auditor-eye.png)
 
 Một ví dụ rất đời: bạn bước vào nhà người khác ăn cơm, thấy cái đèn chùm bám bụi, và trong một giây toàn bộ lòng hiếu khách bị mắt kiểm toán của bạn nuốt mất. Đó cũng là Ma Trận. Không phải vì cái đèn có âm mưu. Mà vì perception của bạn đã được huấn luyện để làm auditor trước khi làm guest.
 
@@ -170,6 +176,8 @@ Vì vậy, Ma Trận không chỉ là deception. Nó có thể là comfort. Nó 
 
 ## Gnosis: Vết Nứt Trong Interface
 
+![Một bàn tay chạm vào giao diện thủy tinh của thực tại, tạo ra vết nứt sáng mở về phía bình minh](../assets/illustrations/matrix/03-gnosis-crack-interface.png)
+
 Thoát Ma Trận không bắt đầu bằng việc biết thêm một danh sách bí mật. Nó bắt đầu bằng một vết nứt trong interface.
 
 Một khoảnh khắc bạn nhận ra mình đang phản ứng theo programming. Một khoảnh khắc bạn thấy mình đang săn lỗi để tránh cảm ơn. Một khoảnh khắc bạn nhận ra nỗi sợ của mình không phải hoàn toàn của mình. Một khoảnh khắc bạn thấy ideology đang cho ego cảm giác superior. Một khoảnh khắc bạn không còn gọi exhaustion là ambition. Một khoảnh khắc bạn nhìn một bữa cơm và thấy tình thay vì bụi.
@@ -183,6 +191,8 @@ Nhưng Gnosis phải đi cùng humility. Nếu không, red pill biến thành eg
 ---
 
 ## Chiến Lược Thoát Không Phải Rage Quit
+
+![Con đường rời khỏi mê cung thành phố neon về phía bình minh, đi qua thân thể, bàn ăn gia đình, chìa khóa riêng tư, khu vườn và ngọn lửa bên trong](../assets/illustrations/matrix/04-exit-sovereignty-path.png)
 
 Thoát Ma Trận không phải bỏ phố lên núi, ghét tất cả mọi người, hay biến đời sống thành bunker tinh thần. Thoát là quá trình lấy lại sovereignty theo nhiều tầng.
 

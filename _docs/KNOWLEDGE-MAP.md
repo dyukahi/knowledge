@@ -156,7 +156,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 1. [[index|Red Pill Wiki]] — degree `153` · backlinks `7` · outlinks `146`
    - **Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn.
 2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `133` · backlinks `103` · outlinks `30`
-   - **Ma Trận không chỉ là một bộ phim, một thuyết âm mưu, hay một nhóm người xấu đứng sau sân khấu. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật ch…
+   - !Một con người đứng trước lớp giao diện trong suốt của thành phố, ký ức, truyền thông và hệ thần kinh, với tia sáng nhỏ trong tim
 3. [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `98` · backlinks `64` · outlinks `34`
    - **Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reali…
 4. [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]] — degree `78` · backlinks `52` · outlinks `26`
