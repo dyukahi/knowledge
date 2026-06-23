@@ -162,7 +162,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 4. [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]] — degree `78` · backlinks `52` · outlinks `26`
    - **Khoa Học Xét Lại không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution: một bên là quan sát, kiểm chứng, phản biện; một bên là funding, prestige, consensus, censorship, career incentive và quyền lực.**
 5. [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `60` · backlinks `26` · outlinks `34`
-   - **Nếu Ma Trận là bài cửa chính để hiểu Ma Trận như hệ điều hành của perception, thì bài này là bản mổ sâu: Ma Trận vận hành qua những lớp nào, các lớp đó nối với nhau ra sao, và vì sao một người có thể tưởng mình tự do trong khi phần lớn phản ứng, ham muốn, s…
+   - !Giải phẫu Ma Trận như một cơ thể nhiều lớp: thân thể, attention, gia đình, tiền, định chế, narrative và spiritual interface bao quanh một ngọn lửa bên trong
 6. [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `58` · backlinks `46` · outlinks `12`
    - **Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…
 7. [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `57` · backlinks `34` · outlinks `23`
