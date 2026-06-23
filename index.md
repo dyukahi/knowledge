@@ -145,8 +145,8 @@ Current events as ritual/media/predictive programming, without pretending symbol
 
 - [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]
 - [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
-- [[Dune — Paul, Leto II Và Golden Path]]
-- [[Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]
+- [[Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]]
+- [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]
 - [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]
 - [[A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa]]
 - [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]
@@ -195,8 +195,8 @@ Các bài dưới đây là những flagship notes dễ cho người mới thấ
 - **[[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]** - World Cup 2026 as collective field myth: WE ARE 26, TRIONDA, Brazil flag/creator culture and the return of football soul
 - **[[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]** - sports, halftime shows and launches as mass synchronization rituals for reality migration
 - **[[Hollywood - Cây Đũa Phép Của Phù Thủy]]** - cinema như rehearsal của collective emotion
-- **[[Dune — Paul, Leto II Và Golden Path]]** - case study điện ảnh về messiah trap, prescience, Golden Path và câu hỏi liệu một người có quyền thành quái vật để cứu tương lai loài người không
-- **[[Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]** - case study điện ảnh về luân hồi, Gnosis, lời chứng và các hình thức nô lệ của Ma Trận qua sáu thời đại
+- **[[Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]]** - case study điện ảnh về messiah trap, prescience, Golden Path và câu hỏi liệu một người có quyền thành quái vật để cứu tương lai loài người không
+- **[[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]** - case study điện ảnh về luân hồi, Gnosis, lời chứng và các hình thức nô lệ của Ma Trận qua sáu thời đại
 - **[[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]** - one system, three screens
 
 ### Ancient History & Cosmology
@@ -271,7 +271,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Tartaria]] | [[Atlantis]] | [[Lemuria]] | [[Annunaki]]
 - [[Gaia - Trái Đất Có Ý Thức]] | [[Avatar - Disclosure Của Eywa & Gaia]]
 - [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] | [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
-- [[Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]
+- [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]
 - [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]
 
@@ -326,10 +326,10 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ## Recent Updates / Cập Nhật Gần Đây
 
-- **[[Dune — Paul, Leto II Và Golden Path]]** - bài phân tích *Dune* full tiếng Việt, đọc Paul/Leto II/Golden Path như bi kịch của messiah trap, prescience và Ma Trận định mệnh; kèm dự đoán hướng *Dune 3* theo *Dune Messiah*.
+- **[[Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]]** - bài phân tích *Dune* full tiếng Việt, đọc Paul/Leto II/Golden Path như bi kịch của messiah trap, prescience và Ma Trận định mệnh; kèm dự đoán hướng *Dune 3* theo *Dune Messiah*.
 ### June 22, 2026
 
-- **[[Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]** - bài phân tích điện ảnh full tiếng Việt, prose-first, đọc *Cloud Atlas* như vân đồ của luân hồi, Ma Trận, Gnosis, lời chứng, dấu sao chổi và bản nhạc vang vọng xuyên thời đại; có 7 minh họa section-level.
+- **[[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]** - bài phân tích điện ảnh full tiếng Việt, prose-first, đọc *Cloud Atlas* như vân đồ của luân hồi, Ma Trận, Gnosis, lời chứng, dấu sao chổi và bản nhạc vang vọng xuyên thời đại; có 7 minh họa section-level.
 
 ### June 19, 2026
 
