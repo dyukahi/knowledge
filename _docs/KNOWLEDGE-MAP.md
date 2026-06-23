@@ -7,7 +7,7 @@
 - **Notes scanned:** 225
 - **Top-level domains:** 8
 - **Tags detected:** 229
-- **Resolved internal edges:** 2260
+- **Resolved internal edges:** 2264
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 12
 
@@ -25,7 +25,7 @@ Recommended note types:
 
 ### Esoterica / Huyền học `esoterica` — 76 notes
 
-- [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `129`, backlinks `103`, outlinks `26` — #consciousness, #control-system, #esoterica, #matrix
+- [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `133`, backlinks `103`, outlinks `30` — #consciousness, #control-system, #esoterica, #matrix
 - [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `58`, backlinks `46`, outlinks `12` — #consciousness, #esoterica, #gnosis, #matrix
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `57`, backlinks `26`, outlinks `31` — #consciousness, #esoterica, #matrix, #meta
 - [[esoterica/index|Esoterica Domain Gateway]] — degree `47`, backlinks `4`, outlinks `43` — #consciousness, #domain-gateway, #esoterica
@@ -107,7 +107,7 @@ Recommended note types:
 
 - [[crypto-finance/Bitcoin|Bitcoin]] — degree `41`, backlinks `26`, outlinks `15` — #crypto-finance
 - [[crypto-finance/index|Crypto & Finance Domain Gateway]] — degree `34`, backlinks `3`, outlinks `31` — #crypto-finance, #domain-gateway, #financial-sovereignty
-- [[crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền|Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — degree `30`, backlinks `16`, outlinks `14` — #crypto-finance, #dopamine, #financial-sovereignty, #mental-model, #risk-management
+- [[crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền|Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — degree `31`, backlinks `17`, outlinks `14` — #crypto-finance, #dopamine, #financial-sovereignty, #mental-model, #risk-management
 - [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]] — degree `27`, backlinks `14`, outlinks `13` — #crypto-finance
 - [[crypto-finance/Chainlink - Mắt Xích Của Tokenized World|Chainlink - Mắt Xích Của Tokenized World]] — degree `26`, backlinks `16`, outlinks `10` — #cbdc, #crypto-finance, #sovereignty, #tokenization, #word-magic
 - [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]] — degree `22`, backlinks `20`, outlinks `2` — #agenda-2030, #cbdc, #crypto-finance, #generation, #privacy
@@ -132,7 +132,7 @@ Recommended note types:
 - [[Glossary - Từ Điển Red Pill Wiki|Glossary - Từ Điển Red Pill Wiki]] — degree `24`, backlinks `2`, outlinks `22` — #glossary, #meta, #navigation
 - [[MOC - Market Psychology & Risk|MOC - Market Psychology & Risk]] — degree `21`, backlinks `6`, outlinks `15` — #crypto-finance, #market-psychology, #mental-model, #moc, #risk-management
 - [[Current Events Lab - Phòng Thí Nghiệm Sự Kiện|Current Events Lab - Phòng Thí Nghiệm Sự Kiện]] — degree `19`, backlinks `3`, outlinks `16` — #current-events, #meta, #navigation, #pattern-lab
-- [[Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng|Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng]] — degree `17`, backlinks `6`, outlinks `11` — #epistemology, #evidence, #meta
+- [[Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng|Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng]] — degree `18`, backlinks `7`, outlinks `11` — #epistemology, #evidence, #meta
 - … 2 more notes in this domain. See JSON for full list.
 
 ### Docs / Meta `_docs` — 11 notes
@@ -155,8 +155,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 
 1. [[index|Red Pill Wiki]] — degree `153` · backlinks `7` · outlinks `146`
    - **Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn.
-2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `129` · backlinks `103` · outlinks `26`
-   - **Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**
+2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `133` · backlinks `103` · outlinks `30`
+   - **Ma Trận không chỉ là một bộ phim, một thuyết âm mưu, hay một nhóm người xấu đứng sau sân khấu. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật ch…
 3. [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `98` · backlinks `64` · outlinks `34`
    - **Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reali…
 4. [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]] — degree `78` · backlinks `52` · outlinks `26`

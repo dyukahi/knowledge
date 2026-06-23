@@ -12,7 +12,7 @@
       "science-tech": 18
     },
     "tags": 229,
-    "wikilinkEdges": 2260,
+    "wikilinkEdges": 2264,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -624,6 +624,7 @@
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
+          "esoterica/Ma Trận.md",
           "index.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -1410,8 +1411,8 @@
         "aliases": [
           "Money",
           "Money... (P.1)",
-          "tiền",
           "Tiền",
+          "tiền",
           "Tiền tiền tiền",
           "tiền... (P.1) / Money"
         ],
@@ -1462,29 +1463,23 @@
         ],
         "headings": [
           "Ma Trận (The Matrix)",
-          "Vault Position / Vị Trí Trong Vault",
-          "How To Read This / Cách Đọc Bài Này",
-          "1. Ma Trận Là Gì? / What Is The Matrix?",
-          "2. Ba Tầng Cốt Lõi / Three Core Layers",
-          "Tầng 1: Physical Matrix",
-          "Tầng 2: Psychological Matrix",
-          "Tầng 3: Spiritual Matrix",
-          "3. Cơ Chế Vận Hành / Operating Mechanisms",
+          "Cách Đọc Bài Này",
+          "Ma Trận Là Interface Giữa Awareness Và World",
+          "Ba Tầng Của Cái Lồng",
+          "1. Physical Matrix: Cơ Thể, Thời Gian, Tiền Và Không Gian",
+          "2. Psychological Matrix: Attention, Shame Và Identity",
+          "3. Spiritual Matrix: Quên Source, Rồi Mua Lại Source Qua Trung Gian",
+          "Cơ Chế Vận Hành",
           "Problem → Reaction → Solution",
-          "Divide and Conquer",
+          "Divide And Conquer",
           "Normalization",
           "Reward Hijacking",
-          "4. Mục Đích / Why Does The Matrix Exist?",
-          "5. Ai Vận Hành Ma Trận? / Who Runs The Matrix?",
-          "6. Ma Trận Và Bản Ngã / Matrix And The Avatar",
-          "7. False Awakening / Tỉnh Giả",
-          "8. Escape Strategy / Chiến Lược Thoát",
-          "1. Perception Sovereignty",
-          "2. Body Sovereignty",
-          "3. Financial Sovereignty",
-          "4. Spiritual Sovereignty",
-          "9. Synthesis / Tổng Hợp",
-          "Related",
+          "Ai Vận Hành Ma Trận?",
+          "Ma Trận Trong Đời Sống Hiện Nay",
+          "Gnosis: Vết Nứt Trong Interface",
+          "Chiến Lược Thoát Không Phải Rage Quit",
+          "Tổng Hợp",
+          "Reading Path / Đọc Tiếp",
           "Core Matrix Framework",
           "Operators & Control Tools",
           "Energy, Soul & Escape"
@@ -1492,8 +1487,10 @@
         "wikilinks": [
           "Bitcoin",
           "Báo Cáo 2030",
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
           "Cách Đọc Red Pill Wiki",
           "Elite",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
           "Gnosis",
           "Hollywood - Cây Đũa Phép Của Phù Thủy",
           "Individuation",
@@ -1514,12 +1511,15 @@
           "Nhị Nguyên",
           "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
           "Privacy",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
           "Sự Nhất Thể",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
           "Y Tế Tự Nhiên"
         ],
         "mdlinks": [],
         "outlinks": [
           "crypto-finance/Bitcoin.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/Privacy.md",
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/Gnosis.md",
@@ -1535,8 +1535,10 @@
           "esoterica/Sự Nhất Thể.md",
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "health/Y Tế Tự Nhiên.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Individuation.md",
           "mental-models/Nhị Nguyên.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
           "MOC - Epistemology & Propaganda.md",
           "MOC - Esoterica & Consciousness.md",
           "MOC - Financial Sovereignty.md",
@@ -1544,7 +1546,8 @@
           "politics-conspiracy/Báo Cáo 2030.md",
           "politics-conspiracy/Elite.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "science-tech/Khoa Học Xét Lại.md"
+          "science-tech/Khoa Học Xét Lại.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
         "backlinks": [
           "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
@@ -1651,8 +1654,8 @@
           "science-tech/Khoa Học Xét Lại.md",
           "science-tech/Tần Số Schumann.md"
         ],
-        "words": 2063,
-        "summary": "**Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**"
+        "words": 2889,
+        "summary": "**Ma Trận không chỉ là một bộ phim, một thuyết âm mưu, hay một nhóm người xấu đứng sau sân khấu. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật ch…"
       },
       {
         "path": "esoterica/Gnosis.md",
@@ -8449,8 +8452,8 @@
           "health"
         ],
         "aliases": [
-          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
-          "Tần số cộng hưởng giữa Muối và Tuyến tùng"
+          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
         ],
         "headings": [
           "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -9924,6 +9927,7 @@
         ],
         "backlinks": [
           "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "esoterica/Ma Trận.md",
           "index.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
@@ -10302,6 +10306,7 @@
         ],
         "backlinks": [
           "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "esoterica/Ma Trận.md",
           "index.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -14812,6 +14817,7 @@
         "backlinks": [
           "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
           "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Ma Trận.md",
           "Glossary - Từ Điển Red Pill Wiki.md",
           "index.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
@@ -16451,29 +16457,23 @@
       ],
       "headings": [
         "Ma Trận (The Matrix)",
-        "Vault Position / Vị Trí Trong Vault",
-        "How To Read This / Cách Đọc Bài Này",
-        "1. Ma Trận Là Gì? / What Is The Matrix?",
-        "2. Ba Tầng Cốt Lõi / Three Core Layers",
-        "Tầng 1: Physical Matrix",
-        "Tầng 2: Psychological Matrix",
-        "Tầng 3: Spiritual Matrix",
-        "3. Cơ Chế Vận Hành / Operating Mechanisms",
+        "Cách Đọc Bài Này",
+        "Ma Trận Là Interface Giữa Awareness Và World",
+        "Ba Tầng Của Cái Lồng",
+        "1. Physical Matrix: Cơ Thể, Thời Gian, Tiền Và Không Gian",
+        "2. Psychological Matrix: Attention, Shame Và Identity",
+        "3. Spiritual Matrix: Quên Source, Rồi Mua Lại Source Qua Trung Gian",
+        "Cơ Chế Vận Hành",
         "Problem → Reaction → Solution",
-        "Divide and Conquer",
+        "Divide And Conquer",
         "Normalization",
         "Reward Hijacking",
-        "4. Mục Đích / Why Does The Matrix Exist?",
-        "5. Ai Vận Hành Ma Trận? / Who Runs The Matrix?",
-        "6. Ma Trận Và Bản Ngã / Matrix And The Avatar",
-        "7. False Awakening / Tỉnh Giả",
-        "8. Escape Strategy / Chiến Lược Thoát",
-        "1. Perception Sovereignty",
-        "2. Body Sovereignty",
-        "3. Financial Sovereignty",
-        "4. Spiritual Sovereignty",
-        "9. Synthesis / Tổng Hợp",
-        "Related",
+        "Ai Vận Hành Ma Trận?",
+        "Ma Trận Trong Đời Sống Hiện Nay",
+        "Gnosis: Vết Nứt Trong Interface",
+        "Chiến Lược Thoát Không Phải Rage Quit",
+        "Tổng Hợp",
+        "Reading Path / Đọc Tiếp",
         "Core Matrix Framework",
         "Operators & Control Tools",
         "Energy, Soul & Escape"
@@ -16481,8 +16481,10 @@
       "wikilinks": [
         "Bitcoin",
         "Báo Cáo 2030",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "Cách Đọc Red Pill Wiki",
         "Elite",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Gnosis",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "Individuation",
@@ -16503,12 +16505,15 @@
         "Nhị Nguyên",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Privacy",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
         "Sự Nhất Thể",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Bitcoin.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/Privacy.md",
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Gnosis.md",
@@ -16524,8 +16529,10 @@
         "esoterica/Sự Nhất Thể.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Y Tế Tự Nhiên.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Individuation.md",
         "mental-models/Nhị Nguyên.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Esoterica & Consciousness.md",
         "MOC - Financial Sovereignty.md",
@@ -16533,7 +16540,8 @@
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "science-tech/Khoa Học Xét Lại.md"
+        "science-tech/Khoa Học Xét Lại.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
       "backlinks": [
         "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
@@ -16640,8 +16648,8 @@
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Tần Số Schumann.md"
       ],
-      "words": 2063,
-      "summary": "**Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**"
+      "words": 2889,
+      "summary": "**Ma Trận không chỉ là một bộ phim, một thuyết âm mưu, hay một nhóm người xấu đứng sau sân khấu. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật ch…"
     },
     {
       "path": "politics-conspiracy/Elite.md",
@@ -21726,6 +21734,7 @@
       "backlinks": [
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
         "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Ma Trận.md",
         "Glossary - Từ Điển Red Pill Wiki.md",
         "index.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
@@ -22593,6 +22602,7 @@
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
+        "esoterica/Ma Trận.md",
         "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -22957,8 +22967,8 @@
       "aliases": [
         "Money",
         "Money... (P.1)",
-        "tiền",
         "Tiền",
+        "tiền",
         "Tiền tiền tiền",
         "tiền... (P.1) / Money"
       ],
@@ -25586,29 +25596,23 @@
       ],
       "headings": [
         "Ma Trận (The Matrix)",
-        "Vault Position / Vị Trí Trong Vault",
-        "How To Read This / Cách Đọc Bài Này",
-        "1. Ma Trận Là Gì? / What Is The Matrix?",
-        "2. Ba Tầng Cốt Lõi / Three Core Layers",
-        "Tầng 1: Physical Matrix",
-        "Tầng 2: Psychological Matrix",
-        "Tầng 3: Spiritual Matrix",
-        "3. Cơ Chế Vận Hành / Operating Mechanisms",
+        "Cách Đọc Bài Này",
+        "Ma Trận Là Interface Giữa Awareness Và World",
+        "Ba Tầng Của Cái Lồng",
+        "1. Physical Matrix: Cơ Thể, Thời Gian, Tiền Và Không Gian",
+        "2. Psychological Matrix: Attention, Shame Và Identity",
+        "3. Spiritual Matrix: Quên Source, Rồi Mua Lại Source Qua Trung Gian",
+        "Cơ Chế Vận Hành",
         "Problem → Reaction → Solution",
-        "Divide and Conquer",
+        "Divide And Conquer",
         "Normalization",
         "Reward Hijacking",
-        "4. Mục Đích / Why Does The Matrix Exist?",
-        "5. Ai Vận Hành Ma Trận? / Who Runs The Matrix?",
-        "6. Ma Trận Và Bản Ngã / Matrix And The Avatar",
-        "7. False Awakening / Tỉnh Giả",
-        "8. Escape Strategy / Chiến Lược Thoát",
-        "1. Perception Sovereignty",
-        "2. Body Sovereignty",
-        "3. Financial Sovereignty",
-        "4. Spiritual Sovereignty",
-        "9. Synthesis / Tổng Hợp",
-        "Related",
+        "Ai Vận Hành Ma Trận?",
+        "Ma Trận Trong Đời Sống Hiện Nay",
+        "Gnosis: Vết Nứt Trong Interface",
+        "Chiến Lược Thoát Không Phải Rage Quit",
+        "Tổng Hợp",
+        "Reading Path / Đọc Tiếp",
         "Core Matrix Framework",
         "Operators & Control Tools",
         "Energy, Soul & Escape"
@@ -25616,8 +25620,10 @@
       "wikilinks": [
         "Bitcoin",
         "Báo Cáo 2030",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "Cách Đọc Red Pill Wiki",
         "Elite",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Gnosis",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "Individuation",
@@ -25638,12 +25644,15 @@
         "Nhị Nguyên",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Privacy",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
         "Sự Nhất Thể",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
         "Y Tế Tự Nhiên"
       ],
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Bitcoin.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/Privacy.md",
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Gnosis.md",
@@ -25659,8 +25668,10 @@
         "esoterica/Sự Nhất Thể.md",
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "health/Y Tế Tự Nhiên.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Individuation.md",
         "mental-models/Nhị Nguyên.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Esoterica & Consciousness.md",
         "MOC - Financial Sovereignty.md",
@@ -25668,7 +25679,8 @@
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "science-tech/Khoa Học Xét Lại.md"
+        "science-tech/Khoa Học Xét Lại.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
       "backlinks": [
         "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
@@ -25775,8 +25787,8 @@
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Tần Số Schumann.md"
       ],
-      "words": 2063,
-      "summary": "**Ma Trận không chỉ là một bộ phim hay một “âm mưu” bên ngoài. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật chơi được thiết kế sẵn.**"
+      "words": 2889,
+      "summary": "**Ma Trận không chỉ là một bộ phim, một thuyết âm mưu, hay một nhóm người xấu đứng sau sân khấu. Ma Trận là hệ điều hành của perception: lớp interface khiến một sinh thể có Monad quên mình là ai, đồng nhất với avatar xã hội, rồi tự vận hành theo những luật ch…"
     },
     "esoterica/Manly P. Hall.md": {
       "path": "esoterica/Manly P. Hall.md",
@@ -29981,8 +29993,8 @@
         "health"
       ],
       "aliases": [
-        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
-        "Tần số cộng hưởng giữa Muối và Tuyến tùng"
+        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
       ],
       "headings": [
         "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -31105,6 +31117,7 @@
       ],
       "backlinks": [
         "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+        "esoterica/Ma Trận.md",
         "index.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
@@ -33011,6 +33024,7 @@
       ],
       "backlinks": [
         "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+        "esoterica/Ma Trận.md",
         "index.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
