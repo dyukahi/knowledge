@@ -11,8 +11,8 @@
       "politics-conspiracy": 27,
       "science-tech": 18
     },
-    "tags": 235,
-    "wikilinkEdges": 2207,
+    "tags": 236,
+    "wikilinkEdges": 2208,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -5253,6 +5253,63 @@
         "summary": "Trong văn hóa hiện đại, **lover** và **soulmate** thường bị nhầm lẫn. Intense chemistry được gọi là \"soulmate connection\", trong khi true soul recognition bị bỏ qua vì thiếu drama. Bài này phân tích sự khác biệt qua lens tâm lý học và esoteric."
       },
       {
+        "path": "esoterica/Annunaki.md",
+        "title": "Annunaki",
+        "domain": "esoterica",
+        "tags": [
+          "annunaki",
+          "esoterica",
+          "hidden-history"
+        ],
+        "aliases": [
+          "Ancient Astronauts",
+          "Annunaki",
+          "Anunnaki",
+          "Sky Rulers"
+        ],
+        "headings": [
+          "Annunaki",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Anunnaki Trong Văn Bản Cổ",
+          "Sitchin Layer: Nibiru, Gold Và Genetic Labor",
+          "Sky Gods Pattern",
+          "Annunaki Và Hệ Điều Hành Quyền Lực",
+          "Annunaki, Atlantis Và Hidden History",
+          "Kết",
+          "Reading Path / Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "Atlantis",
+          "Cabal",
+          "Elite",
+          "Nibiru",
+          "Nibiru và Nền Văn Minh Annunaki",
+          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
+          "UAP Disclosure - Controlled Revelation"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Atlantis.md",
+          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+          "esoterica/Nibiru.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
+        ],
+        "backlinks": [
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+          "esoterica/Nibiru.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "index.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
+        ],
+        "words": 1249,
+        "summary": "**Annunaki là nơi thần thoại Lưỡng Hà, ancient astronaut theory và câu hỏi về nguồn gốc quyền lực nhân loại giao nhau. Ở tầng học thuật, Anunnaki là nhóm thần linh trong truyền thống Sumer-Akkad-Babylon. Ở tầng alternative history, họ trở thành biểu tượng của…"
+      },
+      {
         "path": "esoterica/Phong Thủy.md",
         "title": "Phong Thủy",
         "domain": "esoterica",
@@ -5308,56 +5365,6 @@
         ],
         "words": 1033,
         "summary": "**Phong Thủy không phải mẹo đặt cây, treo gương, chọn màu để “hên”. Nó là một hệ đọc không gian: địa hình, hướng, dòng khí, nhịp thời gian và tâm lý cư trú cùng tạo ra một trường ảnh hưởng lên con người.**"
-      },
-      {
-        "path": "esoterica/Annunaki.md",
-        "title": "Annunaki",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "hidden-history"
-        ],
-        "aliases": [
-          "Annunaki"
-        ],
-        "headings": [
-          "Annunaki",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Anunnaki Trong Văn Bản Cổ",
-          "Sitchin Layer: Nibiru, Gold Và Genetic Labor",
-          "Sky Gods Pattern / Motif Thần Từ Trời",
-          "Annunaki Và Hệ Điều Hành Quyền Lực",
-          "Annunaki, Atlantis Và Hidden History",
-          "Chốt Lại / Core Insight"
-        ],
-        "wikilinks": [
-          "Atlantis",
-          "Cabal",
-          "Elite",
-          "Nibiru",
-          "Nibiru và Nền Văn Minh Annunaki",
-          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Atlantis.md",
-          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-          "esoterica/Nibiru.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-          "esoterica/Nibiru.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "index.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
-        ],
-        "words": 1099,
-        "summary": "**Annunaki là nơi thần thoại Lưỡng Hà, ancient astronaut theory và câu hỏi về nguồn gốc quyền lực nhân loại giao nhau.** Ở tầng học thuật, Anunnaki là nhóm thần linh trong truyền thống Sumer-Akkad-Babylon. Ở tầng alternative history, họ trở thành biểu tượng c…"
       },
       {
         "path": "esoterica/Biểu Tượng Baphomet.md",
@@ -11665,11 +11672,18 @@
         "title": "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
         "domain": "politics-conspiracy",
         "tags": [
-          "science-tech"
+          "disclosure",
+          "politics-conspiracy",
+          "science-tech",
+          "spectacle",
+          "word-magic"
         ],
         "aliases": [
-          "A LIE N - SpaceX IPO",
-          "Disclosure Day và Nghi Lễ Tên Lửa"
+          "A LIE N",
+          "Alien Word Magic",
+          "Nghi Lễ Tên Lửa",
+          "Rocket Ritual",
+          "SpaceX IPO Disclosure Day"
         ],
         "headings": [
           "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
@@ -11751,7 +11765,7 @@
           "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 5532,
+        "words": 5639,
         "summary": "**Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở lại với người ngoài hành tinh, Trump đẩy narrative alien vào mainstream, Hollywood mở nghi lễ bằng hình ảnh, còn Elon Musk đưa obelisk hiện đại của…"
       },
       {
@@ -12399,6 +12413,70 @@
         "summary": "Lịch sử dạy rằng **Thế chiến I và II** là cuộc đấu tranh giữa thiện và ác, tự do và độc tài. Nhưng nếu **Nhị Nguyên** (hai phe đối đầu) chỉ là **vỏ bọc** cho một mục đích khác?"
       },
       {
+        "path": "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+        "title": "UAP Disclosure - Controlled Revelation",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "disclosure",
+          "esoterica",
+          "politics-conspiracy",
+          "uap"
+        ],
+        "aliases": [
+          "Controlled Disclosure",
+          "Controlled Revelation",
+          "Tiết Lộ UFO",
+          "UAP Disclosure",
+          "UFO Disclosure"
+        ],
+        "headings": [
+          "UAP Disclosure - Controlled Revelation",
+          "Evidence Discipline / Cách Đọc Disclosure",
+          "Vault Position / Vị Trí Trong Vault",
+          "Controlled Revelation Là Gì?",
+          "Cái Được Thấy Và Cái Bị Che",
+          "Threat Frame: Khi Bầu Trời Đi Qua Security State",
+          "Hollywood Đã Tập Public Từ Lâu",
+          "Hypothesis Stack: Giữ Nhiều Model Cùng Lúc",
+          "A LIE N Và Word Magic",
+          "Decoder Questions / Câu Hỏi Cần Giữ",
+          "Kết",
+          "Reading Path / Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Annunaki",
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Elite",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Ma Trận",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Annunaki.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+          "esoterica/Annunaki.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "index.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
+        ],
+        "words": 1602,
+        "summary": "**UAP Disclosure không chỉ là câu hỏi “UFO có thật không?”. Nó là câu hỏi ai được quyền tiết lộ, tiết lộ theo nhịp nào, bằng chứng nào, giữ lại phần nào, và đóng khung công chúng phải hiểu hiện tượng đó ra sao. Trong vault, disclosure được đọc như case study…"
+      },
+      {
         "path": "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "title": "Mỹ Là Ai Cập Tái Sinh",
         "domain": "politics-conspiracy",
@@ -12522,69 +12600,6 @@
         ],
         "words": 2529,
         "summary": "**Nếu Moon landing là nghi lễ làm con người tin rằng bầu trời có thể bị chạm tới, thì SpaceX là nghi lễ biến bầu trời thành hạ tầng phải được quản trị, quân sự hóa, tài chính hóa và sợ hãi hóa. Rocket hiện đại là obelisk lửa: trục dương của techno-king phóng…"
-      },
-      {
-        "path": "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-        "title": "UAP Disclosure - Controlled Revelation",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "disclosure",
-          "esoterica",
-          "politics-conspiracy",
-          "uap"
-        ],
-        "aliases": [
-          "Controlled Disclosure",
-          "Controlled Revelation",
-          "Tiết Lộ UFO",
-          "UAP Disclosure",
-          "UFO Disclosure"
-        ],
-        "headings": [
-          "UAP Disclosure - Controlled Revelation",
-          "Evidence Discipline / Cách Đọc Disclosure",
-          "Vault Position / Vị Trí Trong Vault",
-          "Controlled Revelation Là Gì?",
-          "Cái Được Thấy Và Cái Bị Che",
-          "Threat Frame: Khi Bầu Trời Đi Qua Security State",
-          "Hollywood Đã Tập Public Từ Lâu",
-          "Hypothesis Stack: Giữ Nhiều Model Cùng Lúc",
-          "A LIE N Và Word Magic",
-          "Decoder Questions / Câu Hỏi Cần Giữ",
-          "Kết",
-          "Reading Path / Đọc Tiếp"
-        ],
-        "wikilinks": [
-          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-          "Annunaki",
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Elite",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Ma Trận",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Annunaki.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "index.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
-        ],
-        "words": 1602,
-        "summary": "**UAP Disclosure không chỉ là câu hỏi “UFO có thật không?”. Nó là câu hỏi ai được quyền tiết lộ, tiết lộ theo nhịp nào, bằng chứng nào, giữ lại phần nào, và đóng khung công chúng phải hiểu hiện tượng đó ra sao. Trong vault, disclosure được đọc như case study…"
       },
       {
         "path": "politics-conspiracy/Trái Đất Phẳng.md",
@@ -19880,7 +19895,7 @@
     ],
     [
       "politics-conspiracy",
-      24
+      25
     ],
     [
       "matrix",
@@ -20107,6 +20122,10 @@
       2
     ],
     [
+      "word-magic",
+      2
+    ],
+    [
       "risk-management",
       2
     ],
@@ -20120,6 +20139,10 @@
     ],
     [
       "fiat",
+      2
+    ],
+    [
+      "annunaki",
       2
     ],
     [
@@ -20179,6 +20202,10 @@
       2
     ],
     [
+      "disclosure",
+      2
+    ],
+    [
       "FIFAWorldCup",
       1
     ],
@@ -20215,10 +20242,6 @@
       1
     ],
     [
-      "word-magic",
-      1
-    ],
-    [
       "ky-thuat-tai-chinh",
       1
     ],
@@ -20248,14 +20271,6 @@
     ],
     [
       "monetary-system",
-      1
-    ],
-    [
-      "current-events",
-      1
-    ],
-    [
-      "pattern-lab",
       1
     ]
   ],
@@ -22796,11 +22811,15 @@
       "title": "Annunaki",
       "domain": "esoterica",
       "tags": [
+        "annunaki",
         "esoterica",
         "hidden-history"
       ],
       "aliases": [
-        "Annunaki"
+        "Ancient Astronauts",
+        "Annunaki",
+        "Anunnaki",
+        "Sky Rulers"
       ],
       "headings": [
         "Annunaki",
@@ -22808,10 +22827,11 @@
         "Vault Position / Vị Trí Trong Vault",
         "Anunnaki Trong Văn Bản Cổ",
         "Sitchin Layer: Nibiru, Gold Và Genetic Labor",
-        "Sky Gods Pattern / Motif Thần Từ Trời",
+        "Sky Gods Pattern",
         "Annunaki Và Hệ Điều Hành Quyền Lực",
         "Annunaki, Atlantis Và Hidden History",
-        "Chốt Lại / Core Insight"
+        "Kết",
+        "Reading Path / Đọc Tiếp"
       ],
       "wikilinks": [
         "Atlantis",
@@ -22819,7 +22839,8 @@
         "Elite",
         "Nibiru",
         "Nibiru và Nền Văn Minh Annunaki",
-        "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"
+        "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
+        "UAP Disclosure - Controlled Revelation"
       ],
       "mdlinks": [],
       "outlinks": [
@@ -22827,7 +22848,8 @@
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
         "esoterica/Nibiru.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "politics-conspiracy/Elite.md"
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
       ],
       "backlinks": [
         "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
@@ -22838,8 +22860,8 @@
         "MOC - Ancient Civilizations & Hidden History.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
       ],
-      "words": 1099,
-      "summary": "**Annunaki là nơi thần thoại Lưỡng Hà, ancient astronaut theory và câu hỏi về nguồn gốc quyền lực nhân loại giao nhau.** Ở tầng học thuật, Anunnaki là nhóm thần linh trong truyền thống Sumer-Akkad-Babylon. Ở tầng alternative history, họ trở thành biểu tượng c…"
+      "words": 1249,
+      "summary": "**Annunaki là nơi thần thoại Lưỡng Hà, ancient astronaut theory và câu hỏi về nguồn gốc quyền lực nhân loại giao nhau. Ở tầng học thuật, Anunnaki là nhóm thần linh trong truyền thống Sumer-Akkad-Babylon. Ở tầng alternative history, họ trở thành biểu tượng của…"
     },
     "esoterica/Atlantis.md": {
       "path": "esoterica/Atlantis.md",
@@ -32868,11 +32890,18 @@
       "title": "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
       "domain": "politics-conspiracy",
       "tags": [
-        "science-tech"
+        "disclosure",
+        "politics-conspiracy",
+        "science-tech",
+        "spectacle",
+        "word-magic"
       ],
       "aliases": [
-        "A LIE N - SpaceX IPO",
-        "Disclosure Day và Nghi Lễ Tên Lửa"
+        "A LIE N",
+        "Alien Word Magic",
+        "Nghi Lễ Tên Lửa",
+        "Rocket Ritual",
+        "SpaceX IPO Disclosure Day"
       ],
       "headings": [
         "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
@@ -32954,7 +32983,7 @@
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 5532,
+      "words": 5639,
       "summary": "**Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở lại với người ngoài hành tinh, Trump đẩy narrative alien vào mainstream, Hollywood mở nghi lễ bằng hình ảnh, còn Elon Musk đưa obelisk hiện đại của…"
     },
     "politics-conspiracy/Báo Cáo 2030.md": {
@@ -34579,6 +34608,7 @@
       ],
       "backlinks": [
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+        "esoterica/Annunaki.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "index.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",

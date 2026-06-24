@@ -1,23 +1,26 @@
 ---
 title: "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa"
-description: "A LIE N SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở"
-aliases: ["A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa"]
+description: "A LIE N là case study disclosure/spectacle: SpaceX IPO, UAP release, Hollywood alien myth, rocket ritual và word magic hội tụ thành một interface giữa truth payload và false frame."
+aliases: ["A LIE N", "SpaceX IPO Disclosure Day", "Nghi Lễ Tên Lửa", "Alien Word Magic", "Rocket Ritual"]
 date: 2026-04-08
-tags: [science-tech]
+tags: [politics-conspiracy, science-tech, disclosure, spectacle, word-magic]
 status: refined
 related:
-  - "[[MOC - Science Revisionism]]"
+  - "[[UAP Disclosure - Controlled Revelation]]"
+  - "[[Hollywood - Cây Đũa Phép Của Phù Thủy]]"
+  - "[[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]"
+  - "[[Karma Disclosure - Truth Hidden In Plain Sight]]"
+  - "[[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]"
+  - "[[Elite]]"
   - "[[Khoa Học Xét Lại]]"
-  - "[[Nikola Tesla]]"
-  - "[[Năng Lượng Aether]]"
-  - "[[Sự Nhất Thể]]"
-  - "[[Monad]]"
 ---
 # A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa
 
 **Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở lại với người ngoài hành tinh, Trump đẩy narrative alien vào mainstream, Hollywood mở nghi lễ bằng hình ảnh, còn Elon Musk đưa obelisk hiện đại của nhân loại lên sàn chứng khoán. Tên lửa chưa bao giờ chỉ là khoa học. Nó luôn là phép thuật.**
 
 *June 12, 2026 is not merely the day SpaceX steps onto Nasdaq. It is a convergence point: UFO disclosure, Spielberg returning to extraterrestrials, Trump pushing the alien narrative into the mainstream, Hollywood opening the ritual through images, and Elon Musk taking humanity's modern obelisk public. The rocket was never just science. It was always a spell.*
+
+![Rocket launch như nghi lễ obelisk hiện đại, đèn sàn chứng khoán, bầu trời UFO disclosure và màn hình cinema hội tụ thành spectacle A LIE N](../assets/illustrations/a-lie-n/00-hero-rocket-disclosure-ritual.png)
 
 Bài này là phần mở rộng của [[UAP Disclosure - Controlled Revelation]]. Nếu bài kia đặt câu hỏi **“tại sao họ disclose ngay bây giờ?”**, thì bài này hỏi sâu hơn: **“tại sao disclosure lại đi cùng SpaceX, Spielberg, Crowley, Jack Parsons và nghi lễ tên lửa?”**
 
@@ -100,6 +103,9 @@ Kỷ luật bổ sung cho bài này: các mốc tương lai hoặc mốc current
 
 ## 2. A LIE N: Word Magic Ngay Trong Cái Tên
 
+![Bóng alien được tạo từ các mảnh chữ và ánh sáng vỡ, biểu tượng truth payload nằm trong false interface của word magic](../assets/illustrations/a-lie-n/01-word-magic-alien.png)
+
+
 Trong bài [[UAP Disclosure - Controlled Revelation]], alien đã được giải mã như một word spell:
 
 | Word | Breakdown | Hidden Meaning |
@@ -163,6 +169,9 @@ Trong framework [[Kiểm Soát Tâm Trí]], đây là multi-channel programming:
 ---
 
 ## 5. Crowley Và LAM: Grey Alien Trước Khi Grey Alien Thành Văn Hóa Đại Chúng
+
+![Bóng phòng occult, grey alien archetype, phòng thí nghiệm rocket và vòng nghi lễ nối nhau tinh tế qua biểu tượng Jack Parsons, Crowley và LAM](../assets/illustrations/a-lie-n/02-crowley-lam-rocket.png)
+
 
 Aleister Crowley vẽ LAM năm 1919. Hình ảnh này trông giống archetype Grey Alien phổ biến sau này: đầu lớn, mặt nhỏ, mắt sâu, cảm giác phi nhân loại.
 
