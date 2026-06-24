@@ -12,7 +12,7 @@
       "science-tech": 18
     },
     "tags": 235,
-    "wikilinkEdges": 2202,
+    "wikilinkEdges": 2207,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -610,7 +610,8 @@
           "index.md",
           "MOC - Financial Sovereignty.md",
           "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md"
+          "politics-conspiracy/Elite.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
         ],
         "words": 1733,
         "summary": "**Privacy không phải quyền che giấu tội lỗi. Privacy là quyền có một căn phòng bên trong và bên ngoài nơi con người chưa bị đo, chấm điểm, dự đoán, bán lại hoặc trừng phạt. Không có privacy, tự do ngôn luận biến thành self-censorship, tự do tài chính biến thà…"
@@ -678,7 +679,6 @@
           "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
           "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Bitcoin.md",
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
           "crypto-finance/Tiền Pháp Định.md",
@@ -697,86 +697,6 @@
         ],
         "words": 1758,
         "summary": "**Financial sovereignty không bắt đầu bằng Bitcoin, macro thesis, chart đẹp hay một cú trade đúng. Nó bắt đầu bằng khả năng không tự tay phá vốn, phá runway, phá tâm trí và phá quyền chọn của mình. Trong một hệ thống được thiết kế để làm nhiễu dopamine, sĩ di…"
-      },
-      {
-        "path": "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "title": "Chainlink - Mắt Xích Của Tokenized World",
-        "domain": "crypto-finance",
-        "tags": [
-          "cbdc",
-          "crypto-finance",
-          "sovereignty",
-          "tokenization",
-          "word-magic"
-        ],
-        "aliases": [
-          "Chainlink",
-          "Oracle Layer",
-          "Sergey Nazarov",
-          "Tokenized World"
-        ],
-        "headings": [
-          "Chainlink - Mắt Xích Của Tokenized World",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Cách Đọc Claim",
-          "Publication Pack / Financial Sovereignty",
-          "1. Bitcoin Mở Cổng, Chainlink Nối Cổng",
-          "2. Word Magic: Chain, Link, Block, Bank, Channel",
-          "3. Luật Biển, Dòng Chảy Và Claim",
-          "4. Oracle Layer Là Gì?",
-          "5. Tokenized Assets Và Banking Integration",
-          "6. Transparency Hay Total Visibility?",
-          "7. Sergey Nazarov / Satoshi Hypothesis",
-          "8. Crypto Như Conditioning Layer Cho CBDC",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bitcoin",
-          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-          "Chainlink - Mắt Xích Của Tokenized World",
-          "Gen Z và CBDC - Programmable Money Psychology",
-          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "MOC - Epistemology & Propaganda",
-          "MOC - Financial Sovereignty",
-          "Privacy",
-          "Tiền Pháp Định",
-          "Word Magic - Ngôn Ngữ Của Phù Thủy"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "crypto-finance/Privacy.md",
-          "crypto-finance/Tiền Pháp Định.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Financial Sovereignty.md"
-        ],
-        "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "crypto-finance/index.md",
-          "crypto-finance/Privacy.md",
-          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "index.md",
-          "MOC - Financial Sovereignty.md",
-          "MOC - Market Psychology & Risk.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "words": 1609,
-        "summary": "**Chainlink không chỉ là một oracle protocol trong crypto. Trong vault, nó là mắt xích biểu tượng và hạ tầng nối blockchain với tài sản thật, dữ liệu thật, ngân hàng, SWIFT, RWA và eventually programmable money. Nếu Bitcoin làm mass quen với tiền trên ledger,…"
       },
       {
         "path": "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -825,6 +745,7 @@
         "backlinks": [
           "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Bitcoin.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
@@ -839,10 +760,142 @@
           "MOC - Financial Sovereignty.md",
           "politics-conspiracy/Báo Cáo 2030.md",
           "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
         ],
         "words": 1026,
         "summary": "**Tiền mặt là lớp privacy analog cuối cùng trong hệ tiền pháp định. Nó vẫn là fiat, vẫn bị lạm phát, vẫn phụ thuộc vào issuer. Nhưng khác với digital fiat, cash cho phép giao dịch nhỏ, offline, bearer, ít dấu vết và không cần account permission. Trong kỷ nguy…"
+      },
+      {
+        "path": "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "title": "Gen Z và CBDC - Programmable Money Psychology",
+        "domain": "crypto-finance",
+        "tags": [
+          "agenda-2030",
+          "cbdc",
+          "crypto-finance",
+          "generation",
+          "privacy",
+          "psychology"
+        ],
+        "aliases": [
+          "Cashless Native",
+          "CBDC Psychology",
+          "Digital Money Conditioning",
+          "Gen Z CBDC",
+          "Programmable Money"
+        ],
+        "headings": [
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Evidence Discipline / Cách Đọc",
+          "Cashless Native",
+          "Crypto Như Training Layer",
+          "Digital ID Là Điểm Khóa",
+          "Convenience Là Gateway Drug",
+          "Redpill Của CBDC"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Chainlink - Mắt Xích Của Tokenized World",
+          "Digital ID Normalization - From Instagram to Government ID",
+          "Tiền Giấy - Tiền Mặt"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/index.md",
+          "crypto-finance/Privacy.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "crypto-finance/Tiền Pháp Định.md",
+          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "index.md",
+          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/index.md",
+          "mental-models/Thế Hệ Lọt Khe.md",
+          "MOC - Financial Sovereignty.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/index.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/index.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "words": 1011,
+        "summary": "**CBDC không chỉ là nâng cấp kỹ thuật của tiền. Nó là bài toán tâm lý học: làm sao để một thế hệ tự nguyện đi từ cash ẩn danh sang tiền số định danh, lập trình được và giám sát được. Gen Z quan trọng vì họ không cần bị ép rời khỏi cash; nhiều người gần như ch…"
+      },
+      {
+        "path": "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "title": "Chainlink - Mắt Xích Của Tokenized World",
+        "domain": "crypto-finance",
+        "tags": [
+          "cbdc",
+          "crypto-finance",
+          "sovereignty",
+          "tokenization",
+          "word-magic"
+        ],
+        "aliases": [
+          "CCIP",
+          "Chainlink",
+          "Oracle Layer",
+          "Sergey Nazarov",
+          "Tokenized World"
+        ],
+        "headings": [
+          "Chainlink - Mắt Xích Của Tokenized World",
+          "Evidence Discipline / Cách Đọc",
+          "Bitcoin Mở Cổng, Chainlink Nối Cổng",
+          "Oracle Là Gì Và Vì Sao Quan Trọng?",
+          "Tokenized World Và RWA",
+          "Word Magic: Chain, Link, Current, Bank",
+          "Sovereignty Question",
+          "Kết",
+          "Publication Pack / Financial Sovereignty"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+          "Báo Cáo 2030",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Privacy"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Privacy.md",
+          "politics-conspiracy/Báo Cáo 2030.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/index.md",
+          "crypto-finance/Privacy.md",
+          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "index.md",
+          "MOC - Financial Sovereignty.md",
+          "MOC - Market Psychology & Risk.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "words": 973,
+        "summary": "**Chainlink không chỉ là một oracle protocol trong crypto. Trong vault, nó là mắt xích biểu tượng và hạ tầng nối blockchain với dữ liệu thật, tài sản thật, ngân hàng, SWIFT, RWA và eventually programmable money. Nếu Bitcoin làm mass quen với tiền trên ledger,…"
       },
       {
         "path": "crypto-finance/Tiền Pháp Định.md",
@@ -896,7 +949,6 @@
         ],
         "backlinks": [
           "crypto-finance/Bitcoin.md",
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
@@ -910,68 +962,6 @@
         ],
         "words": 1205,
         "summary": "**Tiền pháp định là hệ tiền tồn tại vì nhà nước công nhận, thuế yêu cầu, ngân hàng chấp nhận và xã hội tiếp tục tin. Nó không cần giá trị nội tại như vàng; nó cần decree, debt, legal tender và network effect. Quyền phát hành fiat là quyền pha loãng thời gian…"
-      },
-      {
-        "path": "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "title": "Gen Z và CBDC - Programmable Money Psychology",
-        "domain": "crypto-finance",
-        "tags": [
-          "agenda-2030",
-          "cbdc",
-          "crypto-finance",
-          "generation",
-          "privacy",
-          "psychology"
-        ],
-        "aliases": [
-          "Cashless Native",
-          "CBDC Psychology",
-          "Digital Money Conditioning",
-          "Gen Z CBDC",
-          "Programmable Money"
-        ],
-        "headings": [
-          "Gen Z và CBDC - Programmable Money Psychology",
-          "Evidence Discipline / Cách Đọc",
-          "Từ Khóa Cần Hiểu",
-          "Cashless Native",
-          "Crypto Như Training Layer",
-          "Digital ID Là Điểm Khóa",
-          "Convenience Là Gateway Drug",
-          "Gen Z Và Algorithmic Fairness",
-          "Redpill Của CBDC"
-        ],
-        "wikilinks": [
-          "Bitcoin",
-          "Chainlink - Mắt Xích Của Tokenized World"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-          "crypto-finance/index.md",
-          "crypto-finance/Privacy.md",
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-          "crypto-finance/Tiền Pháp Định.md",
-          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "index.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/index.md",
-          "mental-models/Thế Hệ Lọt Khe.md",
-          "MOC - Financial Sovereignty.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/index.md",
-          "science-tech/index.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "words": 1341,
-        "summary": "**CBDC không chỉ là nâng cấp kỹ thuật của tiền. Nó là bài toán tâm lý học: làm sao để một thế hệ tự nguyện đi từ cash ẩn danh sang tiền số định danh, lập trình được và giám sát được. Gen Z là thế hệ quan trọng nhất vì họ không cần bị ép rời khỏi cash; nhiều n…"
       },
       {
         "path": "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
@@ -1620,6 +1610,7 @@
           "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
           "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
           "science-tech/AI.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
           "science-tech/Khoa Học Xét Lại.md",
           "science-tech/Tần Số Schumann.md"
@@ -2574,7 +2565,6 @@
           "mental-models/Vô Thức Tập Thể.md"
         ],
         "backlinks": [
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
           "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
@@ -4724,7 +4714,6 @@
           "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
         ],
         "backlinks": [
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "esoterica/Biểu Tượng Baphomet.md",
           "esoterica/Gematria.md",
           "esoterica/index.md",
@@ -8346,8 +8335,8 @@
           "health"
         ],
         "aliases": [
-          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
-          "Tần số cộng hưởng giữa Muối và Tuyến tùng"
+          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
         ],
         "headings": [
           "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -10690,6 +10679,57 @@
         "summary": "**Gen Z không phải thế hệ hỏng, cũng không phải thế hệ cứu thế giới. Họ là thế hệ đầu tiên lớn lên trong một thực tại nơi attention, identity, money, work, fear và body đều được platform hóa trước khi họ đủ lớn để gọi tên điều đó. Muốn hiểu Gen Z, đừng hỏi họ…"
       },
       {
+        "path": "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "title": "Climate Anxiety as Control - Fear-Based Compliance",
+        "domain": "mental-models",
+        "tags": [
+          "agenda-2030",
+          "climate",
+          "compliance",
+          "generation",
+          "mental-model",
+          "psychology"
+        ],
+        "aliases": [
+          "Carbon Wallet",
+          "Climate Anxiety",
+          "Climate Doomerism",
+          "Climate Fear",
+          "Eco-Anxiety"
+        ],
+        "headings": [
+          "Climate Anxiety as Control - Fear-Based Compliance",
+          "Evidence Discipline / Cách Đọc",
+          "Eco-Anxiety Và Guilt Machine",
+          "Doomerism Là Mất Agency",
+          "Carbon Wallet Và Permission Layer",
+          "15-Minute City: Tốt Hay Cage?",
+          "Ecology Thật vs Technocratic Fear",
+          "Kết"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Digital ID Normalization - From Instagram to Government ID",
+          "Gen Z và CBDC - Programmable Money Psychology"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/index.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/index.md"
+        ],
+        "words": 971,
+        "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
+      },
+      {
         "path": "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "title": "Giàu Không Phải Để Vợ Không Làm Gì",
         "domain": "mental-models",
@@ -11065,47 +11105,6 @@
         ],
         "words": 998,
         "summary": "!Home Screen Samsara"
-      },
-      {
-        "path": "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "title": "Climate Anxiety as Control - Fear-Based Compliance",
-        "domain": "mental-models",
-        "tags": [
-          "agenda-2030",
-          "climate",
-          "compliance",
-          "generation",
-          "mental-model",
-          "psychology"
-        ],
-        "aliases": [
-          "Carbon Wallet",
-          "Climate Anxiety",
-          "Climate Doomerism",
-          "Climate Fear",
-          "Eco-Anxiety"
-        ],
-        "headings": [
-          "Climate Anxiety as Control - Fear-Based Compliance",
-          "Từ Khóa Cần Hiểu",
-          "Evidence Discipline / Cách Đọc",
-          "Guilt Machine",
-          "Carbon Wallet",
-          "Environmental Reality vs Technocratic Fear"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [
-          "index.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/index.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/index.md"
-        ],
-        "words": 921,
-        "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
       },
       {
         "path": "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
@@ -11623,6 +11622,7 @@
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
         ],
         "backlinks": [
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/index.md",
           "crypto-finance/Secular Market.md",
           "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -11640,6 +11640,7 @@
           "Glossary - Từ Điển Red Pill Wiki.md",
           "health/index.md",
           "index.md",
+          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "MOC - Epistemology & Propaganda.md",
           "MOC - Financial Sovereignty.md",
@@ -11650,6 +11651,7 @@
           "politics-conspiracy/MAGA Và Số 42.md",
           "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
           "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
           "science-tech/index.md",
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
@@ -13608,7 +13610,6 @@
           "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
         ],
         "backlinks": [
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/index.md",
           "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
           "Cách Đọc Red Pill Wiki.md",
@@ -14139,7 +14140,6 @@
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
         ],
         "backlinks": [
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
@@ -15057,6 +15057,70 @@
         "summary": "**Tần Số Schumann là các đỉnh cộng hưởng điện từ cực thấp (ELF) hình thành trong khoang giữa bề mặt Trái Đất và tầng điện ly. Ở tầng khoa học, đây là hiện tượng vật lý khí quyển. Ở tầng vault, nó là cửa để đọc Trái Đất như một cơ thể điện-từ sống, nơi con ngư…"
       },
       {
+        "path": "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "title": "Digital ID Normalization - From Instagram to Government ID",
+        "domain": "science-tech",
+        "tags": [
+          "agenda-2030",
+          "digital-id",
+          "generation",
+          "psychology",
+          "science-tech",
+          "surveillance"
+        ],
+        "aliases": [
+          "Biometric ID",
+          "Digital ID",
+          "Digital Identity",
+          "Identity Wallet",
+          "Verify to Exist"
+        ],
+        "headings": [
+          "Digital ID Normalization - From Instagram to Government ID",
+          "Evidence Discipline / Cách Đọc",
+          "Từ Profile Đến Passport",
+          "Digital ID + Money",
+          "Biometrics: Cơ Thể Thành Password",
+          "Verify To Exist",
+          "Kết",
+          "Reading Path / Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Ma Trận",
+          "Privacy",
+          "Tiền Giấy - Tiền Mặt"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Privacy.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "esoterica/Ma Trận.md",
+          "politics-conspiracy/Báo Cáo 2030.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/index.md",
+          "crypto-finance/Privacy.md",
+          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+          "index.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/Thế Hệ Lọt Khe.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Financial Sovereignty.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/index.md",
+          "science-tech/index.md"
+        ],
+        "words": 867,
+        "summary": "**Digital ID không xuất hiện từ hư không. Nó đi sau một quá trình dài nơi con người tự nguyện biến mình thành profile: tên thật, mặt thật, location, social graph, reputation, behavior, preference. Government ID wallet chỉ là bước formal hóa thứ platform đã no…"
+      },
+      {
         "path": "science-tech/AI.md",
         "title": "AI",
         "domain": "science-tech",
@@ -15210,54 +15274,6 @@
         ],
         "words": 2249,
         "summary": "*Decoding Nuclear Energy & The Radiation Hoax*"
-      },
-      {
-        "path": "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "title": "Digital ID Normalization - From Instagram to Government ID",
-        "domain": "science-tech",
-        "tags": [
-          "agenda-2030",
-          "digital-id",
-          "generation",
-          "psychology",
-          "science-tech",
-          "surveillance"
-        ],
-        "aliases": [
-          "Biometric ID",
-          "Digital ID",
-          "Digital Identity",
-          "Identity Wallet",
-          "Verify to Exist"
-        ],
-        "headings": [
-          "Digital ID Normalization - From Instagram to Government ID",
-          "Evidence Discipline / Cach Doc Claim",
-          "Từ Khóa Cần Hiểu",
-          "Từ Profile Đến Passport",
-          "Digital ID + Money",
-          "Biometrics"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [
-          "crypto-finance/index.md",
-          "crypto-finance/Privacy.md",
-          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-          "index.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/Thế Hệ Lọt Khe.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Financial Sovereignty.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/index.md",
-          "science-tech/index.md"
-        ],
-        "words": 837,
-        "summary": "**Digital ID không xuất hiện từ hư không. Nó đi sau một quá trình dài nơi con người tự nguyện biến mình thành profile: tên thật, mặt thật, location, social graph, reputation, behavior, preference. Government ID wallet chỉ là bước formal hóa thứ platform đã no…"
       },
       {
         "path": "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
@@ -16365,6 +16381,7 @@
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
         "science-tech/AI.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Tần Số Schumann.md"
@@ -16982,7 +16999,6 @@
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
       ],
       "backlinks": [
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/index.md",
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
         "Cách Đọc Red Pill Wiki.md",
@@ -18105,6 +18121,7 @@
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
       ],
       "backlinks": [
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/index.md",
         "crypto-finance/Secular Market.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -18122,6 +18139,7 @@
         "Glossary - Từ Điển Red Pill Wiki.md",
         "health/index.md",
         "index.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Financial Sovereignty.md",
@@ -18132,6 +18150,7 @@
         "politics-conspiracy/MAGA Và Số 42.md",
         "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
         "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/index.md",
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
@@ -18705,94 +18724,6 @@
       "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
     },
     {
-      "path": "MOC - Financial Sovereignty.md",
-      "title": "MOC - Financial Sovereignty",
-      "domain": "root",
-      "tags": [
-        "crypto-finance",
-        "moc",
-        "sovereignty"
-      ],
-      "aliases": [
-        "MOC - Financial Sovereignty"
-      ],
-      "headings": [
-        "MOC - Financial Sovereignty",
-        "How To Read This Map",
-        "Start Here",
-        "Survival Before Sovereignty",
-        "Bitcoin, Privacy & Exit",
-        "Fiat, Debt & Dependency",
-        "Tokenized World & Onchain Control",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "Ai Đứng Bên Kia Giao Dịch",
-        "Bitcoin",
-        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-        "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
-        "Báo Cáo 2030",
-        "Chainlink - Mắt Xích Của Tokenized World",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-        "MOC - Market Psychology & Risk",
-        "Privacy",
-        "Privacy Is The New Wealth",
-        "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
-        "Tiền Giấy - Tiền Mặt",
-        "Tiền Pháp Định",
-        "Tư Duy Lũy Thừa",
-        "UBI Conditioning - The End of Work Ethic",
-        "Điều Mà Trường Học Không Dạy Về Tiền"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Bitcoin.md",
-        "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/Privacy Is The New Wealth.md",
-        "mental-models/Tư Duy Lũy Thừa.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/index.md",
-        "crypto-finance/Privacy.md",
-        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Cabal.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "Glossary - Từ Điển Red Pill Wiki.md",
-        "index.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/index.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/index.md",
-        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-      ],
-      "words": 892,
-      "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
-    },
-    {
       "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
       "title": "Tâm Lý Học Tiến Hóa Về Giới Tính",
       "domain": "mental-models",
@@ -18905,6 +18836,92 @@
       ],
       "words": 3446,
       "summary": "Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about mal…"
+    },
+    {
+      "path": "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+      "title": "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+      "domain": "esoterica",
+      "tags": [
+        "esoterica",
+        "hollywood",
+        "matrix",
+        "mind-control",
+        "predictive-programming"
+      ],
+      "aliases": [
+        "Cấy Tương Lai",
+        "Future Rehearsal",
+        "Lập Trình Tiên Đoán",
+        "Predictive Programming"
+      ],
+      "headings": [
+        "Predictive Programming — Cấy Tương Lai Vào Tiềm Thức",
+        "Evidence Discipline / Cách Đọc",
+        "Vault Position / Vị Trí Trong Vault",
+        "Công Thức: Seed, Repeat, Frame, Normalize, Implement",
+        "Vì Sao Fiction Mạnh Hơn Tuyên Truyền Thẳng?",
+        "The Simpsons Problem",
+        "Inception Là Meta-Case",
+        "Case Patterns / Các Cụm Tương Lai Được Tập Dượt",
+        "Hidden In Plain Sight",
+        "Không Paranoid, Không Ngây Thơ",
+        "Kết",
+        "Publication Pack / Disclosure & Spectacle"
+      ],
+      "wikilinks": [
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Kiểm Soát Tâm Trí",
+        "Ma Trận",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+      ],
+      "backlinks": [
+        "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "esoterica/Dune - Paul Leto II Va Golden Path.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/index.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Nibiru.md",
+        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+        "Glossary - Từ Điển Red Pill Wiki.md",
+        "index.md",
+        "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "MOC - Epistemology & Propaganda.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "words": 1653,
+      "summary": "**Predictive programming là giả thuyết rằng media không chỉ phản ánh tương lai, mà còn tập cho công chúng cảm thấy tương lai đó quen thuộc trước khi nó được triển khai thành policy, market, technology hoặc social norm. Nó không cần bạn tin ngay. Nó chỉ cần bạ…"
     }
   ],
   "orphans": [
@@ -19708,54 +19725,6 @@
   ],
   "sinks": [
     {
-      "path": "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-      "title": "Digital ID Normalization - From Instagram to Government ID",
-      "domain": "science-tech",
-      "tags": [
-        "agenda-2030",
-        "digital-id",
-        "generation",
-        "psychology",
-        "science-tech",
-        "surveillance"
-      ],
-      "aliases": [
-        "Biometric ID",
-        "Digital ID",
-        "Digital Identity",
-        "Identity Wallet",
-        "Verify to Exist"
-      ],
-      "headings": [
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Evidence Discipline / Cach Doc Claim",
-        "Từ Khóa Cần Hiểu",
-        "Từ Profile Đến Passport",
-        "Digital ID + Money",
-        "Biometrics"
-      ],
-      "wikilinks": [],
-      "mdlinks": [],
-      "outlinks": [],
-      "backlinks": [
-        "crypto-finance/index.md",
-        "crypto-finance/Privacy.md",
-        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-        "index.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Gen Z - Phân Tích Phản Biện.md",
-        "mental-models/Thế Hệ Lọt Khe.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Financial Sovereignty.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/index.md",
-        "science-tech/index.md"
-      ],
-      "words": 837,
-      "summary": "**Digital ID không xuất hiện từ hư không. Nó đi sau một quá trình dài nơi con người tự nguyện biến mình thành profile: tên thật, mặt thật, location, social graph, reputation, behavior, preference. Government ID wallet chỉ là bước formal hóa thứ platform đã no…"
-    },
-    {
       "path": "mental-models/UBI Conditioning - The End of Work Ethic.md",
       "title": "UBI Conditioning - The End of Work Ethic",
       "domain": "mental-models",
@@ -19842,47 +19811,6 @@
       ],
       "words": 1016,
       "summary": "**TikTok không chỉ là app giải trí. Nó là một feedback engine: đo phản ứng vi mô của người dùng, tối ưu dopamine, rồi lặp lại frame cho đến khi worldview có cảm giác như tự chọn. Ai kiểm soát feed không cần kiểm soát mọi suy nghĩ. Chỉ cần kiểm soát thứ xuất h…"
-    },
-    {
-      "path": "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-      "title": "Climate Anxiety as Control - Fear-Based Compliance",
-      "domain": "mental-models",
-      "tags": [
-        "agenda-2030",
-        "climate",
-        "compliance",
-        "generation",
-        "mental-model",
-        "psychology"
-      ],
-      "aliases": [
-        "Carbon Wallet",
-        "Climate Anxiety",
-        "Climate Doomerism",
-        "Climate Fear",
-        "Eco-Anxiety"
-      ],
-      "headings": [
-        "Climate Anxiety as Control - Fear-Based Compliance",
-        "Từ Khóa Cần Hiểu",
-        "Evidence Discipline / Cách Đọc",
-        "Guilt Machine",
-        "Carbon Wallet",
-        "Environmental Reality vs Technocratic Fear"
-      ],
-      "wikilinks": [],
-      "mdlinks": [],
-      "outlinks": [],
-      "backlinks": [
-        "index.md",
-        "mental-models/Gen Z - Phân Tích Phản Biện.md",
-        "mental-models/index.md",
-        "MOC - Epistemology & Propaganda.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/index.md"
-      ],
-      "words": 921,
-      "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
     },
     {
       "path": "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
@@ -20786,7 +20714,6 @@
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
       ],
       "backlinks": [
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/index.md",
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
         "Cách Đọc Red Pill Wiki.md",
@@ -20998,7 +20925,6 @@
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
       ],
       "backlinks": [
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
@@ -21934,6 +21860,7 @@
         "word-magic"
       ],
       "aliases": [
+        "CCIP",
         "Chainlink",
         "Oracle Layer",
         "Sergey Nazarov",
@@ -21941,45 +21868,29 @@
       ],
       "headings": [
         "Chainlink - Mắt Xích Của Tokenized World",
-        "Vault Position / Vị Trí Trong Vault",
-        "Evidence Discipline / Cách Đọc Claim",
-        "Publication Pack / Financial Sovereignty",
-        "1. Bitcoin Mở Cổng, Chainlink Nối Cổng",
-        "2. Word Magic: Chain, Link, Block, Bank, Channel",
-        "3. Luật Biển, Dòng Chảy Và Claim",
-        "4. Oracle Layer Là Gì?",
-        "5. Tokenized Assets Và Banking Integration",
-        "6. Transparency Hay Total Visibility?",
-        "7. Sergey Nazarov / Satoshi Hypothesis",
-        "8. Crypto Như Conditioning Layer Cho CBDC",
-        "Synthesis",
-        "Related"
+        "Evidence Discipline / Cách Đọc",
+        "Bitcoin Mở Cổng, Chainlink Nối Cổng",
+        "Oracle Là Gì Và Vì Sao Quan Trọng?",
+        "Tokenized World Và RWA",
+        "Word Magic: Chain, Link, Current, Bank",
+        "Sovereignty Question",
+        "Kết",
+        "Publication Pack / Financial Sovereignty"
       ],
       "wikilinks": [
         "Bitcoin",
         "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-        "Chainlink - Mắt Xích Của Tokenized World",
+        "Báo Cáo 2030",
         "Gen Z và CBDC - Programmable Money Psychology",
-        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "MOC - Epistemology & Propaganda",
-        "MOC - Financial Sovereignty",
-        "Privacy",
-        "Tiền Pháp Định",
-        "Word Magic - Ngôn Ngữ Của Phù Thủy"
+        "Privacy"
       ],
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Bitcoin.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/Privacy.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Financial Sovereignty.md"
+        "politics-conspiracy/Báo Cáo 2030.md"
       ],
       "backlinks": [
         "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
@@ -21999,8 +21910,8 @@
         "politics-conspiracy/Báo Cáo 2030.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 1609,
-      "summary": "**Chainlink không chỉ là một oracle protocol trong crypto. Trong vault, nó là mắt xích biểu tượng và hạ tầng nối blockchain với tài sản thật, dữ liệu thật, ngân hàng, SWIFT, RWA và eventually programmable money. Nếu Bitcoin làm mass quen với tiền trên ledger,…"
+      "words": 973,
+      "summary": "**Chainlink không chỉ là một oracle protocol trong crypto. Trong vault, nó là mắt xích biểu tượng và hạ tầng nối blockchain với dữ liệu thật, tài sản thật, ngân hàng, SWIFT, RWA và eventually programmable money. Nếu Bitcoin làm mass quen với tiền trên ledger,…"
     },
     "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md": {
       "path": "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
@@ -22024,22 +21935,24 @@
       "headings": [
         "Gen Z và CBDC - Programmable Money Psychology",
         "Evidence Discipline / Cách Đọc",
-        "Từ Khóa Cần Hiểu",
         "Cashless Native",
         "Crypto Như Training Layer",
         "Digital ID Là Điểm Khóa",
         "Convenience Là Gateway Drug",
-        "Gen Z Và Algorithmic Fairness",
         "Redpill Của CBDC"
       ],
       "wikilinks": [
         "Bitcoin",
-        "Chainlink - Mắt Xích Của Tokenized World"
+        "Chainlink - Mắt Xích Của Tokenized World",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Tiền Giấy - Tiền Mặt"
       ],
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Bitcoin.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md"
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
       ],
       "backlinks": [
         "crypto-finance/Bitcoin.md",
@@ -22052,17 +21965,19 @@
         "Cách Đọc Red Pill Wiki.md",
         "Glossary - Từ Điển Red Pill Wiki.md",
         "index.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/index.md",
         "mental-models/Thế Hệ Lọt Khe.md",
         "MOC - Financial Sovereignty.md",
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/index.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 1341,
-      "summary": "**CBDC không chỉ là nâng cấp kỹ thuật của tiền. Nó là bài toán tâm lý học: làm sao để một thế hệ tự nguyện đi từ cash ẩn danh sang tiền số định danh, lập trình được và giám sát được. Gen Z là thế hệ quan trọng nhất vì họ không cần bị ép rời khỏi cash; nhiều n…"
+      "words": 1011,
+      "summary": "**CBDC không chỉ là nâng cấp kỹ thuật của tiền. Nó là bài toán tâm lý học: làm sao để một thế hệ tự nguyện đi từ cash ẩn danh sang tiền số định danh, lập trình được và giám sát được. Gen Z quan trọng vì họ không cần bị ép rời khỏi cash; nhiều người gần như ch…"
     },
     "crypto-finance/Giàu Không Nhờ May Mắn.md": {
       "path": "crypto-finance/Giàu Không Nhờ May Mắn.md",
@@ -22181,7 +22096,6 @@
         "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
         "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Bitcoin.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Tiền Pháp Định.md",
@@ -22281,7 +22195,8 @@
         "index.md",
         "MOC - Financial Sovereignty.md",
         "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Elite.md"
+        "politics-conspiracy/Elite.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
       ],
       "words": 1733,
       "summary": "**Privacy không phải quyền che giấu tội lỗi. Privacy là quyền có một căn phòng bên trong và bên ngoài nơi con người chưa bị đo, chấm điểm, dự đoán, bán lại hoặc trừng phạt. Không có privacy, tự do ngôn luận biến thành self-censorship, tự do tài chính biến thà…"
@@ -22462,6 +22377,7 @@
       "backlinks": [
         "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Bitcoin.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
@@ -22476,7 +22392,8 @@
         "MOC - Financial Sovereignty.md",
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
       ],
       "words": 1026,
       "summary": "**Tiền mặt là lớp privacy analog cuối cùng trong hệ tiền pháp định. Nó vẫn là fiat, vẫn bị lạm phát, vẫn phụ thuộc vào issuer. Nhưng khác với digital fiat, cash cho phép giao dịch nhỏ, offline, bearer, ít dấu vết và không cần account permission. Trong kỷ nguy…"
@@ -22533,7 +22450,6 @@
       ],
       "backlinks": [
         "crypto-finance/Bitcoin.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
@@ -24438,7 +24354,6 @@
         "mental-models/Vô Thức Tập Thể.md"
       ],
       "backlinks": [
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
         "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
@@ -25341,6 +25256,7 @@
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
         "science-tech/AI.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Tần Số Schumann.md"
@@ -28092,7 +28008,6 @@
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
       ],
       "backlinks": [
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "esoterica/Biểu Tượng Baphomet.md",
         "esoterica/Gematria.md",
         "esoterica/index.md",
@@ -29511,8 +29426,8 @@
         "health"
       ],
       "aliases": [
-        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
-        "Tần số cộng hưởng giữa Muối và Tuyến tùng"
+        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
       ],
       "headings": [
         "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -30721,15 +30636,25 @@
       ],
       "headings": [
         "Climate Anxiety as Control - Fear-Based Compliance",
-        "Từ Khóa Cần Hiểu",
         "Evidence Discipline / Cách Đọc",
-        "Guilt Machine",
-        "Carbon Wallet",
-        "Environmental Reality vs Technocratic Fear"
+        "Eco-Anxiety Và Guilt Machine",
+        "Doomerism Là Mất Agency",
+        "Carbon Wallet Và Permission Layer",
+        "15-Minute City: Tốt Hay Cage?",
+        "Ecology Thật vs Technocratic Fear",
+        "Kết"
       ],
-      "wikilinks": [],
+      "wikilinks": [
+        "Báo Cáo 2030",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Gen Z và CBDC - Programmable Money Psychology"
+      ],
       "mdlinks": [],
-      "outlinks": [],
+      "outlinks": [
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
+      ],
       "backlinks": [
         "index.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
@@ -30738,7 +30663,7 @@
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 921,
+      "words": 971,
       "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
     },
     "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md": {
@@ -33092,6 +33017,7 @@
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
       ],
       "backlinks": [
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/index.md",
         "crypto-finance/Secular Market.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -33109,6 +33035,7 @@
         "Glossary - Từ Điển Red Pill Wiki.md",
         "health/index.md",
         "index.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Financial Sovereignty.md",
@@ -33119,6 +33046,7 @@
         "politics-conspiracy/MAGA Và Số 42.md",
         "politics-conspiracy/Phân Tích Hình Ảnh - Elon Musk và MAGA.md",
         "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/index.md",
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
@@ -35065,21 +34993,37 @@
       ],
       "headings": [
         "Digital ID Normalization - From Instagram to Government ID",
-        "Evidence Discipline / Cach Doc Claim",
-        "Từ Khóa Cần Hiểu",
+        "Evidence Discipline / Cách Đọc",
         "Từ Profile Đến Passport",
         "Digital ID + Money",
-        "Biometrics"
+        "Biometrics: Cơ Thể Thành Password",
+        "Verify To Exist",
+        "Kết",
+        "Reading Path / Đọc Tiếp"
       ],
-      "wikilinks": [],
+      "wikilinks": [
+        "Báo Cáo 2030",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Ma Trận",
+        "Privacy",
+        "Tiền Giấy - Tiền Mặt"
+      ],
       "mdlinks": [],
-      "outlinks": [],
+      "outlinks": [
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "esoterica/Ma Trận.md",
+        "politics-conspiracy/Báo Cáo 2030.md"
+      ],
       "backlinks": [
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/Thế Hệ Lọt Khe.md",
         "MOC - Epistemology & Propaganda.md",
@@ -35089,7 +35033,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 837,
+      "words": 867,
       "summary": "**Digital ID không xuất hiện từ hư không. Nó đi sau một quá trình dài nơi con người tự nguyện biến mình thành profile: tên thật, mặt thật, location, social graph, reputation, behavior, preference. Government ID wallet chỉ là bước formal hóa thứ platform đã no…"
     },
     "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md": {
