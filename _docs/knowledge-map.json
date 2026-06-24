@@ -12,7 +12,7 @@
       "science-tech": 18
     },
     "tags": 240,
-    "wikilinkEdges": 2210,
+    "wikilinkEdges": 2209,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -2078,6 +2078,7 @@
           "mental-models/Individuation.md",
           "mental-models/Nhị Nguyên.md",
           "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+          "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Vô Thức Tập Thể.md",
           "MOC - Esoterica & Consciousness.md",
           "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -2159,6 +2160,7 @@
           "mental-models/Nhị Nguyên.md",
           "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
           "mental-models/Tâm bất Biến.md",
+          "mental-models/Tâm Lý Học Jung.md",
           "MOC - Esoterica & Consciousness.md",
           "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
           "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
@@ -3182,88 +3184,6 @@
         "summary": "**Tinh Khí Thần là Tam Bảo của con người trong Đạo gia: Tinh là essence/sinh lực gốc, Khí là dòng năng lượng vận hành, Thần là clarity/consciousness. Đây không phải ba “chất” tách rời, mà là ba tầng chuyển hóa của cùng một sinh lực.**"
       },
       {
-        "path": "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-        "title": "Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng",
-        "domain": "esoterica",
-        "tags": [
-          "collective-unconscious",
-          "esoterica",
-          "media",
-          "predictive-programming",
-          "propaganda",
-          "ritual"
-        ],
-        "aliases": [
-          "Mass Synchronization Ritual",
-          "Nghi Lễ Đại Chúng",
-          "Planetary Spectacle",
-          "Spectacle Ritual",
-          "Super Bowl Halftime Ritual",
-          "World Cup Ritual"
-        ],
-        "headings": [
-          "Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Cách Đọc",
-          "Từ Khóa Cần Hiểu",
-          "Sân Vận Động Là Temple Hiện Đại",
-          "Super Bowl Halftime Show: Nghi Lễ Ở Giữa Trận",
-          "World Cup Và Euro: Nghi Lễ Của Quốc Gia Được Platform Hóa",
-          "26 Như Vòng 8: Infinity, Return Và Reality Loop",
-          "SpaceX 12/6 Và Sky Layer Của Cùng Một Reset",
-          "Reset Reality Bằng Celebration, Không Phải Bằng Cưỡng Bức",
-          "Bề Trên Muốn Gì Qua Collective Spectacle?",
-          "Brazil 2026 Như Sugar Layer Của Field Reset",
-          "Hint Không Nhất Thiết Là Một Kịch Bản Trung Ương",
-          "Synthesis",
-          "Publication Pack / Disclosure & Spectacle",
-          "Related"
-        ],
-        "wikilinks": [
-          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Ma Trận",
-          "Mỹ Là Ai Cập Tái Sinh",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
-        ],
-        "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-          "esoterica/index.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/index.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "words": 2515,
-        "summary": "**World Cup, Euro và Super Bowl halftime show không chỉ là giải đấu hoặc giải trí. Chúng là những nghi lễ đồng bộ đại chúng: hàng trăm triệu đến hàng tỷ nervous systems cùng nhìn một sân khấu, cùng nghe một nhịp, cùng nhận một bộ symbol, cùng bước vào một emo…"
-      },
-      {
         "path": "esoterica/Atlantis.md",
         "title": "Atlantis",
         "domain": "esoterica",
@@ -3476,6 +3396,87 @@
         ],
         "words": 1194,
         "summary": "**Năng lượng tình dục là sinh lực sáng tạo ở tầng thô nhất và mạnh nhất: nó có thể sinh ra một cơ thể, phá nát một đời người, hoặc được chuyển hóa thành ý chí, nghệ thuật, trí tuệ và hiện diện.**"
+      },
+      {
+        "path": "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+        "title": "Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng",
+        "domain": "esoterica",
+        "tags": [
+          "collective-unconscious",
+          "esoterica",
+          "media",
+          "predictive-programming",
+          "propaganda",
+          "ritual"
+        ],
+        "aliases": [
+          "Mass Synchronization Ritual",
+          "Nghi Lễ Đại Chúng",
+          "Planetary Spectacle",
+          "Spectacle Ritual",
+          "Super Bowl Halftime Ritual",
+          "World Cup Ritual"
+        ],
+        "headings": [
+          "Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc",
+          "Từ Khóa Cần Hiểu",
+          "Sân Vận Động Là Temple Hiện Đại",
+          "Super Bowl Halftime Show: Nghi Lễ Ở Giữa Trận",
+          "World Cup Và Euro: Nghi Lễ Của Quốc Gia Được Platform Hóa",
+          "26 Như Vòng 8: Infinity, Return Và Reality Loop",
+          "SpaceX 12/6 Và Sky Layer Của Cùng Một Reset",
+          "Reset Reality Bằng Celebration, Không Phải Bằng Cưỡng Bức",
+          "Bề Trên Muốn Gì Qua Collective Spectacle?",
+          "Brazil 2026 Như Sugar Layer Của Field Reset",
+          "Hint Không Nhất Thiết Là Một Kịch Bản Trung Ương",
+          "Synthesis",
+          "Publication Pack / Disclosure & Spectacle",
+          "Related"
+        ],
+        "wikilinks": [
+          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Ma Trận",
+          "Mỹ Là Ai Cập Tái Sinh",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/index.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "index.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/index.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "words": 2515,
+        "summary": "**World Cup, Euro và Super Bowl halftime show không chỉ là giải đấu hoặc giải trí. Chúng là những nghi lễ đồng bộ đại chúng: hàng trăm triệu đến hàng tỷ nervous systems cùng nhìn một sân khấu, cùng nghe một nhịp, cùng nhận một bộ symbol, cùng bước vào một emo…"
       },
       {
         "path": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
@@ -8117,57 +8118,6 @@
         "summary": "---"
       },
       {
-        "path": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "title": "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-        "domain": "health",
-        "tags": [
-          "health"
-        ],
-        "aliases": [
-          "Hệ Tiêu Hóa - Bộ Não Thứ Hai"
-        ],
-        "headings": [
-          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-          "Medical Caution / Cảnh Báo Y Khoa",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Kỷ Luật Bằng Chứng",
-          "Gut-Brain Axis",
-          "Microbiome Là Nội Vũ Trụ",
-          "Food System Và Ma Trận",
-          "Phục Hồi Ruột: Nền Trước Mẹo",
-          "Gut Feeling Và Trực Giác",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Ma Trận",
-          "MOC - Health Sovereignty",
-          "Plasma Quinton",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Trí Tuệ",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "health/René Quinton và Huyết Tương Biển.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Y Tế Tự Nhiên.md",
-          "mental-models/Trí Tuệ.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/index.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "MOC - Health Sovereignty.md"
-        ],
-        "words": 848,
-        "summary": "**Ruột không chỉ là ống tiêu hóa. Nó là interface giữa thức ăn, miễn dịch, microbiome, thần kinh phế vị, hormone, cảm xúc và clarity của tâm trí.** Gọi ruột là \"bộ não thứ hai\" không phải thơ; đó là cách nhắc rằng consciousness embodied trong một cơ thể có vi…"
-      },
-      {
         "path": "health/Suramin.md",
         "title": "Suramin",
         "domain": "health",
@@ -8223,6 +8173,56 @@
         ],
         "words": 1071,
         "summary": "**Suramin là một thuốc antiparasitic tổng hợp được phát triển từ đầu thế kỷ 20, nổi tiếng trong điều trị một số bệnh ký sinh trùng như African sleeping sickness. Trong vault, Suramin quan trọng vì nó nằm ở giao điểm của antiparasitic medicine, purinergic sign…"
+      },
+      {
+        "path": "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "title": "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+        "domain": "health",
+        "tags": [
+          "health"
+        ],
+        "aliases": [
+          "Hệ Tiêu Hóa - Bộ Não Thứ Hai"
+        ],
+        "headings": [
+          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+          "Medical Caution / Cảnh Báo Y Khoa",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Kỷ Luật Bằng Chứng",
+          "Gut-Brain Axis",
+          "Microbiome Là Nội Vũ Trụ",
+          "Food System Và Ma Trận",
+          "Phục Hồi Ruột: Nền Trước Mẹo",
+          "Gut Feeling Và Trực Giác",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Ma Trận",
+          "MOC - Health Sovereignty",
+          "Plasma Quinton",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Trí Tuệ",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Y Tế Tự Nhiên.md",
+          "mental-models/Trí Tuệ.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/index.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 848,
+        "summary": "**Ruột không chỉ là ống tiêu hóa. Nó là interface giữa thức ăn, miễn dịch, microbiome, thần kinh phế vị, hormone, cảm xúc và clarity của tâm trí.** Gọi ruột là \"bộ não thứ hai\" không phải thơ; đó là cách nhắc rằng consciousness embodied trong một cơ thể có vi…"
       },
       {
         "path": "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
@@ -8919,16 +8919,12 @@
           "Vô Thức Tập Thể (Collective Unconscious)",
           "Evidence Discipline / Cách Đọc",
           "Vault Position / Vị Trí Trong Vault",
-          "1. Jung Nói Gì?",
-          "2. Archetype Là Gì?",
-          "3. Dream, Myth Và Culture",
-          "4. Akashic Records Connection",
-          "5. Thiên Tài Và “Download”",
-          "6. Ma Trận Và Vô Thức Tập Thể",
-          "7. Individuation Là Cách Lấy Lại Quyền Truy Cập",
-          "Practice / Thực Hành",
-          "Synthesis",
-          "Related"
+          "Jung Nói Gì?",
+          "Archetype Là Gì?",
+          "Dream, Myth Và Culture",
+          "Akashic Records Connection",
+          "Ma Trận Và Vô Thức Tập Thể",
+          "Kết"
         ],
         "wikilinks": [
           "Gnosis",
@@ -8938,7 +8934,6 @@
           "Monad",
           "Nguyên Mẫu",
           "Năng Lượng Aether",
-          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
           "Tâm Lý Học Jung"
         ],
         "mdlinks": [],
@@ -8947,7 +8942,6 @@
           "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
           "esoterica/Ma Trận.md",
           "esoterica/Monad.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
           "mental-models/Individuation.md",
           "mental-models/Nguyên Mẫu.md",
           "mental-models/Tâm Lý Học Jung.md",
@@ -8984,8 +8978,8 @@
           "MOC - Esoterica & Consciousness.md",
           "science-tech/Nikola Tesla.md"
         ],
-        "words": 990,
-        "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
+        "words": 799,
+        "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
       },
       {
         "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -9206,22 +9200,24 @@
         "domain": "mental-models",
         "tags": [
           "consciousness",
+          "duality",
           "mental-model"
         ],
         "aliases": [
           "Binary Thinking",
-          "Duality"
+          "Duality",
+          "Nhị Nguyên"
         ],
         "headings": [
           "Nhị Nguyên (Duality)",
           "Vault Position / Vị Trí Trong Vault",
-          "Claim Discipline / Kỷ Luật Đọc",
+          "Claim Discipline / Cách Đọc",
           "Âm Dương Không Phải Good vs Evil",
           "False Dichotomy / Lưỡng Nan Giả",
           "Shadow Projection",
           "Triadic Thinking / Tư Duy Tam Nguyên",
           "Tâm Bất Biến",
-          "Core Insight / Chốt Lại"
+          "Kết"
         ],
         "wikilinks": [
           "Chia Tách Bởi Nhị Nguyên",
@@ -9270,8 +9266,8 @@
           "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
           "politics-conspiracy/Trái Đất Phẳng.md"
         ],
-        "words": 727,
-        "summary": "**Nhị nguyên là cơ chế Một tự phân cực thành hai để tạo trải nghiệm: sáng/tối, nam/nữ, âm/dương, đúng/sai, ta/địch.** Nó không xấu; nó là grammar của cõi vật chất. Cái bẫy bắt đầu khi con người quên field lớn hơn và để hai cực dựng thành nhà tù nhận thức."
+        "words": 778,
+        "summary": "!Một field sáng duy nhất phân cực thành hai lực bổ sung, duality nằm bên trong unity chứ không tách khỏi unity"
       },
       {
         "path": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
@@ -9402,34 +9398,33 @@
         ],
         "headings": [
           "Tâm Lý Học Jung (Jungian Psychology)",
-          "Vault Position / Vị Trí Trong Bản Đồ",
-          "Psyche As Layered Reality",
-          "Individuation / Trở Thành Toàn Vẹn",
+          "Vault Position / Vị Trí Trong Vault",
+          "Psyche Như Một Vũ Trụ Có Tầng",
           "Shadow / Bóng Tối",
           "Archetypes / Nguyên Mẫu",
-          "Jung And Esoterica",
-          "Body And Terrain / Thân Và Nền",
-          "Kết Luận / Closing",
-          "Thực Hành / Practice Layer"
+          "Individuation / Thành Toàn Bản Ngã",
+          "Jung Và Esoterica",
+          "Practice / Thực Hành",
+          "Kết"
         ],
         "wikilinks": [
           "Gnosis",
-          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
           "Individuation",
-          "Kiểm Soát Tâm Trí",
           "Ma Trận",
+          "Monad",
           "Nguyên Mẫu",
+          "Sự Nhất Thể",
           "Vô Thức Tập Thể"
         ],
         "mdlinks": [],
         "outlinks": [
           "esoterica/Gnosis.md",
           "esoterica/Ma Trận.md",
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
           "mental-models/Individuation.md",
           "mental-models/Nguyên Mẫu.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+          "mental-models/Vô Thức Tập Thể.md"
         ],
         "backlinks": [
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
@@ -9454,8 +9449,8 @@
           "mental-models/Vô Thức Tập Thể.md",
           "MOC - Esoterica & Consciousness.md"
         ],
-        "words": 755,
-        "summary": "**Jung quan trọng vì ông không thu nhỏ con người thành cái máy phản xạ. Ông đọc psyche như một vũ trụ có tầng: ego, shadow, persona, anima/animus, archetype, collective unconscious và Self.**"
+        "words": 860,
+        "summary": "!Psyche Jungian như một vũ trụ nội tâm nhiều tầng: persona, ego, shadow, archetype và Self hiện lên như mandala ánh sáng"
       },
       {
         "path": "mental-models/Trí Tuệ.md",
@@ -11421,7 +11416,6 @@
           "mental-models/index.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
           "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-          "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "MOC - Epistemology & Propaganda.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
@@ -17274,7 +17268,6 @@
         "mental-models/index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
@@ -18468,6 +18461,7 @@
         "mental-models/Individuation.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Esoterica & Consciousness.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -18495,16 +18489,12 @@
         "Vô Thức Tập Thể (Collective Unconscious)",
         "Evidence Discipline / Cách Đọc",
         "Vault Position / Vị Trí Trong Vault",
-        "1. Jung Nói Gì?",
-        "2. Archetype Là Gì?",
-        "3. Dream, Myth Và Culture",
-        "4. Akashic Records Connection",
-        "5. Thiên Tài Và “Download”",
-        "6. Ma Trận Và Vô Thức Tập Thể",
-        "7. Individuation Là Cách Lấy Lại Quyền Truy Cập",
-        "Practice / Thực Hành",
-        "Synthesis",
-        "Related"
+        "Jung Nói Gì?",
+        "Archetype Là Gì?",
+        "Dream, Myth Và Culture",
+        "Akashic Records Connection",
+        "Ma Trận Và Vô Thức Tập Thể",
+        "Kết"
       ],
       "wikilinks": [
         "Gnosis",
@@ -18514,7 +18504,6 @@
         "Monad",
         "Nguyên Mẫu",
         "Năng Lượng Aether",
-        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
         "Tâm Lý Học Jung"
       ],
       "mdlinks": [],
@@ -18523,7 +18512,6 @@
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/Ma Trận.md",
         "esoterica/Monad.md",
-        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
         "mental-models/Individuation.md",
         "mental-models/Nguyên Mẫu.md",
         "mental-models/Tâm Lý Học Jung.md",
@@ -18560,8 +18548,89 @@
         "MOC - Esoterica & Consciousness.md",
         "science-tech/Nikola Tesla.md"
       ],
-      "words": 990,
-      "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
+      "words": 799,
+      "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
+    },
+    {
+      "path": "esoterica/Sự Nhất Thể.md",
+      "title": "Sự Nhất Thể (Oneness)",
+      "domain": "esoterica",
+      "tags": [
+        "consciousness",
+        "esoterica",
+        "non-duality"
+      ],
+      "aliases": [
+        "Bất Nhị",
+        "Nhất Thể",
+        "Non-duality",
+        "Oneness",
+        "Unity"
+      ],
+      "headings": [
+        "Sự Nhất Thể (Oneness)",
+        "Evidence Discipline / Cách Đọc",
+        "Một Nền, Vô Số Hình Dạng",
+        "Nhất Thể Và Nhị Nguyên",
+        "Ma Trận Là Công Nghệ Của Chia Tách",
+        "Nhất Thể Không Phải Love-And-Light Bypass",
+        "Ego, Individuation Và Cái Một",
+        "Political Và Spiritual Implication",
+        "Kết",
+        "Reading Path / Đọc Tiếp"
+      ],
+      "wikilinks": [
+        "Elite",
+        "Gnosis",
+        "Individuation",
+        "Ma Trận",
+        "Monad",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nhị Nguyên"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nhị Nguyên.md",
+        "politics-conspiracy/Elite.md"
+      ],
+      "backlinks": [
+        "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+        "esoterica/Chakra.md",
+        "esoterica/Gnosis.md",
+        "esoterica/index.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Một Đời Phù Vân.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Saturn Cube.md",
+        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+        "esoterica/Thánh Issa.md",
+        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "esoterica/Tình Yêu Tỉnh Thức.md",
+        "esoterica/Vũ Trụ Học Phật Giáo.md",
+        "esoterica/Đạo.md",
+        "index.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Tâm bất Biến.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "MOC - Esoterica & Consciousness.md",
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+        "science-tech/Walter Russell.md"
+      ],
+      "words": 1360,
+      "summary": "**Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh: ta/người, sáng/tối, tinh thần/vật chất, thắng/thua, có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qua…"
     },
     {
       "path": "health/Thuyết Vi Sinh Nội Sinh.md",
@@ -18859,86 +18928,6 @@
       ],
       "words": 3446,
       "summary": "Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about mal…"
-    },
-    {
-      "path": "esoterica/Sự Nhất Thể.md",
-      "title": "Sự Nhất Thể (Oneness)",
-      "domain": "esoterica",
-      "tags": [
-        "consciousness",
-        "esoterica",
-        "non-duality"
-      ],
-      "aliases": [
-        "Bất Nhị",
-        "Nhất Thể",
-        "Non-duality",
-        "Oneness",
-        "Unity"
-      ],
-      "headings": [
-        "Sự Nhất Thể (Oneness)",
-        "Evidence Discipline / Cách Đọc",
-        "Một Nền, Vô Số Hình Dạng",
-        "Nhất Thể Và Nhị Nguyên",
-        "Ma Trận Là Công Nghệ Của Chia Tách",
-        "Nhất Thể Không Phải Love-And-Light Bypass",
-        "Ego, Individuation Và Cái Một",
-        "Political Và Spiritual Implication",
-        "Kết",
-        "Reading Path / Đọc Tiếp"
-      ],
-      "wikilinks": [
-        "Elite",
-        "Gnosis",
-        "Individuation",
-        "Ma Trận",
-        "Monad",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nhị Nguyên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Gnosis.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "mental-models/Individuation.md",
-        "mental-models/Nhị Nguyên.md",
-        "politics-conspiracy/Elite.md"
-      ],
-      "backlinks": [
-        "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-        "esoterica/Chakra.md",
-        "esoterica/Gnosis.md",
-        "esoterica/index.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Một Đời Phù Vân.md",
-        "esoterica/Sacred Geometry.md",
-        "esoterica/Saturn Cube.md",
-        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "esoterica/Thánh Issa.md",
-        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-        "esoterica/Tình Yêu Tỉnh Thức.md",
-        "esoterica/Vũ Trụ Học Phật Giáo.md",
-        "esoterica/Đạo.md",
-        "index.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-        "mental-models/Individuation.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-        "mental-models/Tâm bất Biến.md",
-        "MOC - Esoterica & Consciousness.md",
-        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
-        "science-tech/Walter Russell.md"
-      ],
-      "words": 1360,
-      "summary": "**Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh: ta/người, sáng/tối, tinh thần/vật chất, thắng/thua, có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qua…"
     }
   ],
   "orphans": [
@@ -20188,6 +20177,10 @@
       2
     ],
     [
+      "duality",
+      2
+    ],
+    [
       "climate",
       2
     ],
@@ -20269,10 +20262,6 @@
     ],
     [
       "thi-truong-von",
-      1
-    ],
-    [
-      "cash",
       1
     ]
   ],
@@ -25572,6 +25561,7 @@
         "mental-models/Individuation.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Esoterica & Consciousness.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -26897,7 +26887,6 @@
         "Glossary - Từ Điển Red Pill Wiki.md",
         "index.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "mental-models/Vô Thức Tập Thể.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/index.md",
@@ -26978,6 +26967,7 @@
         "mental-models/Nhị Nguyên.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
         "mental-models/Tâm bất Biến.md",
+        "mental-models/Tâm Lý Học Jung.md",
         "MOC - Esoterica & Consciousness.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
@@ -28502,7 +28492,6 @@
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "health/index.md",
         "health/Thuyết Vi Sinh Nội Sinh.md",
-        "mental-models/Tâm Lý Học Jung.md",
         "MOC - Health Sovereignty.md"
       ],
       "words": 848,
@@ -31409,22 +31398,24 @@
       "domain": "mental-models",
       "tags": [
         "consciousness",
+        "duality",
         "mental-model"
       ],
       "aliases": [
         "Binary Thinking",
-        "Duality"
+        "Duality",
+        "Nhị Nguyên"
       ],
       "headings": [
         "Nhị Nguyên (Duality)",
         "Vault Position / Vị Trí Trong Vault",
-        "Claim Discipline / Kỷ Luật Đọc",
+        "Claim Discipline / Cách Đọc",
         "Âm Dương Không Phải Good vs Evil",
         "False Dichotomy / Lưỡng Nan Giả",
         "Shadow Projection",
         "Triadic Thinking / Tư Duy Tam Nguyên",
         "Tâm Bất Biến",
-        "Core Insight / Chốt Lại"
+        "Kết"
       ],
       "wikilinks": [
         "Chia Tách Bởi Nhị Nguyên",
@@ -31473,8 +31464,8 @@
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/Trái Đất Phẳng.md"
       ],
-      "words": 727,
-      "summary": "**Nhị nguyên là cơ chế Một tự phân cực thành hai để tạo trải nghiệm: sáng/tối, nam/nữ, âm/dương, đúng/sai, ta/địch.** Nó không xấu; nó là grammar của cõi vật chất. Cái bẫy bắt đầu khi con người quên field lớn hơn và để hai cực dựng thành nhà tù nhận thức."
+      "words": 778,
+      "summary": "!Một field sáng duy nhất phân cực thành hai lực bổ sung, duality nằm bên trong unity chứ không tách khỏi unity"
     },
     "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md": {
       "path": "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
@@ -32207,34 +32198,33 @@
       ],
       "headings": [
         "Tâm Lý Học Jung (Jungian Psychology)",
-        "Vault Position / Vị Trí Trong Bản Đồ",
-        "Psyche As Layered Reality",
-        "Individuation / Trở Thành Toàn Vẹn",
+        "Vault Position / Vị Trí Trong Vault",
+        "Psyche Như Một Vũ Trụ Có Tầng",
         "Shadow / Bóng Tối",
         "Archetypes / Nguyên Mẫu",
-        "Jung And Esoterica",
-        "Body And Terrain / Thân Và Nền",
-        "Kết Luận / Closing",
-        "Thực Hành / Practice Layer"
+        "Individuation / Thành Toàn Bản Ngã",
+        "Jung Và Esoterica",
+        "Practice / Thực Hành",
+        "Kết"
       ],
       "wikilinks": [
         "Gnosis",
-        "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
         "Individuation",
-        "Kiểm Soát Tâm Trí",
         "Ma Trận",
+        "Monad",
         "Nguyên Mẫu",
+        "Sự Nhất Thể",
         "Vô Thức Tập Thể"
       ],
       "mdlinks": [],
       "outlinks": [
         "esoterica/Gnosis.md",
         "esoterica/Ma Trận.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "esoterica/Monad.md",
+        "esoterica/Sự Nhất Thể.md",
         "mental-models/Individuation.md",
         "mental-models/Nguyên Mẫu.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        "mental-models/Vô Thức Tập Thể.md"
       ],
       "backlinks": [
         "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
@@ -32259,8 +32249,8 @@
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Esoterica & Consciousness.md"
       ],
-      "words": 755,
-      "summary": "**Jung quan trọng vì ông không thu nhỏ con người thành cái máy phản xạ. Ông đọc psyche như một vũ trụ có tầng: ego, shadow, persona, anima/animus, archetype, collective unconscious và Self.**"
+      "words": 860,
+      "summary": "!Psyche Jungian như một vũ trụ nội tâm nhiều tầng: persona, ego, shadow, archetype và Self hiện lên như mandala ánh sáng"
     },
     "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md": {
       "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -32681,16 +32671,12 @@
         "Vô Thức Tập Thể (Collective Unconscious)",
         "Evidence Discipline / Cách Đọc",
         "Vault Position / Vị Trí Trong Vault",
-        "1. Jung Nói Gì?",
-        "2. Archetype Là Gì?",
-        "3. Dream, Myth Và Culture",
-        "4. Akashic Records Connection",
-        "5. Thiên Tài Và “Download”",
-        "6. Ma Trận Và Vô Thức Tập Thể",
-        "7. Individuation Là Cách Lấy Lại Quyền Truy Cập",
-        "Practice / Thực Hành",
-        "Synthesis",
-        "Related"
+        "Jung Nói Gì?",
+        "Archetype Là Gì?",
+        "Dream, Myth Và Culture",
+        "Akashic Records Connection",
+        "Ma Trận Và Vô Thức Tập Thể",
+        "Kết"
       ],
       "wikilinks": [
         "Gnosis",
@@ -32700,7 +32686,6 @@
         "Monad",
         "Nguyên Mẫu",
         "Năng Lượng Aether",
-        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
         "Tâm Lý Học Jung"
       ],
       "mdlinks": [],
@@ -32709,7 +32694,6 @@
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/Ma Trận.md",
         "esoterica/Monad.md",
-        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
         "mental-models/Individuation.md",
         "mental-models/Nguyên Mẫu.md",
         "mental-models/Tâm Lý Học Jung.md",
@@ -32746,8 +32730,8 @@
         "MOC - Esoterica & Consciousness.md",
         "science-tech/Nikola Tesla.md"
       ],
-      "words": 990,
-      "summary": "**Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong ngôn ngữ Jung, nó là nền của nguyên mẫu. Trong ngôn ngữ esoteric, nó chạm gần tới Akashic…"
+      "words": 799,
+      "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
     },
     "mental-models/index.md": {
       "path": "mental-models/index.md",
@@ -33619,7 +33603,6 @@
         "mental-models/index.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",

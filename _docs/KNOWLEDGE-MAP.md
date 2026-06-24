@@ -7,7 +7,7 @@
 - **Notes scanned:** 225
 - **Top-level domains:** 8
 - **Tags detected:** 240
-- **Resolved internal edges:** 2210
+- **Resolved internal edges:** 2209
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 12
 
@@ -29,8 +29,8 @@ Recommended note types:
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `58`, backlinks `24`, outlinks `34` — #consciousness, #esoterica, #matrix, #meta
 - [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `56`, backlinks `44`, outlinks `12` — #consciousness, #esoterica, #gnosis, #matrix
 - [[esoterica/index|Esoterica Domain Gateway]] — degree `47`, backlinks `4`, outlinks `43` — #consciousness, #domain-gateway, #esoterica
-- [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `38`, backlinks `30`, outlinks `8` — #consciousness, #esoterica, #metaphysics
-- [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `35`, backlinks `28`, outlinks `7` — #consciousness, #esoterica, #non-duality
+- [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `39`, backlinks `31`, outlinks `8` — #consciousness, #esoterica, #metaphysics
+- [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `36`, backlinks `29`, outlinks `7` — #consciousness, #esoterica, #non-duality
 - [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `34`, backlinks `6`, outlinks `28` — #awakening, #energy, #esoterica, #gnosis, #matrix
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]] — degree `34`, backlinks `26`, outlinks `8` — #consciousness, #epistemology, #esoterica, #gnosis
 - [[esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] — degree `34`, backlinks `25`, outlinks `9` — #esoterica, #hollywood, #matrix, #mind-control, #predictive-programming
@@ -43,10 +43,10 @@ Recommended note types:
 
 - [[mental-models/index|Mental Models Domain Gateway]] — degree `54`, backlinks `5`, outlinks `49` — #domain-gateway, #epistemology, #mental-model
 - [[mental-models/Individuation|Individuation]] — degree `48`, backlinks `40`, outlinks `8` — #consciousness, #individuation, #jung, #mental-model
-- [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `38`, backlinks `29`, outlinks `9` — #consciousness, #jung, #mental-model
+- [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]] — degree `37`, backlinks `29`, outlinks `8` — #consciousness, #jung, #mental-model
 - [[mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — degree `36`, backlinks `24`, outlinks `12` — #matrix, #mental-model, #psychology, #social-media
 - [[mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính|Tâm Lý Học Tiến Hóa Về Giới Tính]] — degree `36`, backlinks `8`, outlinks `28` — #science-tech
-- [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]] — degree `34`, backlinks `28`, outlinks `6` — #consciousness, #mental-model
+- [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]] — degree `34`, backlinks `28`, outlinks `6` — #consciousness, #duality, #mental-model
 - [[mental-models/Bộ Não Rỗng và AI Brain Rot|Bộ Não Rỗng và AI Brain Rot]] — degree `29`, backlinks `12`, outlinks `17` — #science-tech
 - [[mental-models/Tâm Lý Học Jung|Tâm Lý Học Jung]] — degree `28`, backlinks `21`, outlinks `7` — #consciousness, #jung, #mental-model, #psychology
 - [[mental-models/Trí Tuệ|Trí Tuệ]] — degree `25`, backlinks `19`, outlinks `6` — #mental-model, #philosophy
@@ -74,7 +74,7 @@ Recommended note types:
 ### Politics & Conspiracy `politics-conspiracy` — 27 notes
 
 - [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `74`, backlinks `61`, outlinks `13` — #elite, #matrix, #politics-conspiracy, #power-structure
-- [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `52`, backlinks `42`, outlinks `10` — #consciousness, #politics-conspiracy, #propaganda
+- [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `51`, backlinks `41`, outlinks `10` — #consciousness, #politics-conspiracy, #propaganda
 - [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `47`, backlinks `4`, outlinks `43` — #domain-gateway, #politics-conspiracy, #power-structure
 - [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `43`, backlinks `34`, outlinks `9` — #agenda-2030, #cbdc, #digital-id, #governance, #politics-conspiracy
 - [[politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa|A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa]] — degree `27`, backlinks `13`, outlinks `14` — #disclosure, #politics-conspiracy, #science-tech, #spectacle, #word-magic
@@ -169,7 +169,7 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…
 8. [[mental-models/index|Mental Models Domain Gateway]] — degree `54` · backlinks `5` · outlinks `49`
    - **Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…
-9. [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `52` · backlinks `42` · outlinks `10`
+9. [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `51` · backlinks `41` · outlinks `10`
    - **Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…
 10. [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `51` · backlinks `19` · outlinks `32`
    - **Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Trước khi tin hoặc phủ định bất kỳ điều gì, hãy nhận biết chính tiến trình thấy đang xảy ra.…
@@ -191,7 +191,7 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…
 19. [[science-tech/index|Science & Tech Domain Gateway]] — degree `40` · backlinks `5` · outlinks `35`
    - **Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…
-20. [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `38` · backlinks `30` · outlinks `8`
+20. [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `39` · backlinks `31` · outlinks `8`
    - **Monad là tia lửa bất khả phân của Source. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể: phần chưa từng rời khỏi Sự Nhất Thể, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn,…
 
 ## Tag Constellations
@@ -246,9 +246,9 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[mental-models/Individuation|Individuation]]
 - [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]]
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]]
+- [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]]
 - [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]]
 - [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]]
-- [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]]
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
 - [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]]
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]]
