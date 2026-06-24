@@ -11,7 +11,7 @@
       "politics-conspiracy": 27,
       "science-tech": 18
     },
-    "tags": 236,
+    "tags": 237,
     "wikilinkEdges": 2208,
     "brokenLinks": 0,
     "orphans": 12
@@ -2271,6 +2271,90 @@
         "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
       },
       {
+        "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "title": "Nghịch Lý Của Hiểu Biết",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "epistemology",
+          "esoterica",
+          "gnosis"
+        ],
+        "aliases": [
+          "Beyond Duality",
+          "Cái Thấy",
+          "Framework Collapse",
+          "Paradox of Knowledge",
+          "Vượt Qua Nhị Nguyên"
+        ],
+        "headings": [
+          "Nghịch Lý Của Hiểu Biết",
+          "Evidence Discipline / Cách Đọc",
+          "Trap Của Nhị Nguyên",
+          "Mỗi Framework Đều Có Shadow",
+          "Layers Của Hiểu Biết",
+          "Không Phải A Hay B, Mà Là Cái Thấy Cả A Và B",
+          "Cái Thấy Không Phải Opinion",
+          "Đức Phật, Lão Tử Và Ngón Tay Chỉ Mặt Trăng",
+          "Vì Sao Vẫn Cần Framework?",
+          "Information Và Transmission",
+          "Practical Use: Đọc Vault Mà Không Tẩu Hỏa",
+          "Kết",
+          "Reading Path / Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Elite",
+          "Gnosis",
+          "Individuation",
+          "Ma Trận",
+          "Monad",
+          "Nhị Nguyên",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nhị Nguyên.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Elite.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Privacy.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/index.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+          "esoterica/Đạo.md",
+          "index.md",
+          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+          "mental-models/index.md",
+          "mental-models/Individuation.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+          "mental-models/Trí Tuệ.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/Elite.md",
+          "science-tech/index.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 2340,
+        "summary": "**Có một trap mà mind không thể thoát bằng thinking: mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó. Cứ đi đủ sâu vào bất kỳ framework nào, bạn sẽ gặp counter-framework của nó. Cứ cố thắng bằng argument, bạn sẽ bị kéo vào vòng lặp vô tận. Ngh…"
+      },
+      {
         "path": "esoterica/Sự Nhất Thể.md",
         "title": "Sự Nhất Thể (Oneness)",
         "domain": "esoterica",
@@ -2429,89 +2513,6 @@
         ],
         "words": 1539,
         "summary": "**Hollywood là nơi giải trí trở thành nghi lễ đại chúng: hình ảnh, nhạc, thần tượng, biểu tượng và câu chuyện được lặp đủ lâu để đi thẳng vào Vô Thức Tập Thể. Cách đọc “holy wood” như cây đũa phép không nên hiểu là etymology chắc chắn; nó là symbolic key để t…"
-      },
-      {
-        "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "title": "Nghịch Lý Của Hiểu Biết",
-        "domain": "esoterica",
-        "tags": [
-          "consciousness",
-          "epistemology",
-          "esoterica",
-          "gnosis"
-        ],
-        "aliases": [
-          "Beyond Duality",
-          "Cái Thấy",
-          "Framework Collapse",
-          "Paradox of Knowledge",
-          "Vượt Qua Nhị Nguyên"
-        ],
-        "headings": [
-          "Nghịch Lý Của Hiểu Biết",
-          "Evidence Discipline / Cách Đọc",
-          "Trap Của Nhị Nguyên",
-          "Mỗi Framework Đều Có Shadow",
-          "Layers Của Hiểu Biết",
-          "Không Phải A Hay B, Mà Là Cái Thấy Cả A Và B",
-          "Cái Thấy Không Phải Opinion",
-          "Đức Phật, Lão Tử Và Ngón Tay Chỉ Mặt Trăng",
-          "Vì Sao Vẫn Cần Framework?",
-          "Information Và Transmission",
-          "Practical Use: Đọc Vault Mà Không Tẩu Hỏa",
-          "Kết",
-          "Reading Path / Đọc Tiếp"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Elite",
-          "Gnosis",
-          "Individuation",
-          "Ma Trận",
-          "Monad",
-          "Nhị Nguyên",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nhị Nguyên.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Privacy.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/index.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-          "esoterica/Đạo.md",
-          "index.md",
-          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-          "mental-models/index.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-          "mental-models/Trí Tuệ.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Elite.md",
-          "science-tech/index.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 2340,
-        "summary": "**Có một trap mà mind không thể thoát bằng thinking: mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó. Cứ đi đủ sâu vào bất kỳ framework nào, bạn sẽ gặp counter-framework của nó. Cứ cố thắng bằng argument, bạn sẽ bị kéo vào vòng lặp vô tận. Ngh…"
       },
       {
         "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
@@ -8342,8 +8343,8 @@
           "health"
         ],
         "aliases": [
-          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
+          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
+          "Tần số cộng hưởng giữa Muối và Tuyến tùng"
         ],
         "headings": [
           "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -8806,33 +8807,35 @@
         "domain": "mental-models",
         "tags": [
           "consciousness",
+          "individuation",
           "jung",
           "mental-model"
         ],
         "aliases": [
           "Individuation (Thành Toàn Bản Ngã)",
+          "Jungian Individuation",
           "Self-Actualization",
           "Thành Toàn Bản Ngã"
         ],
         "headings": [
           "Individuation (Thành Toàn Bản Ngã)",
           "Vault Position / Vị Trí Trong Vault",
-          "1. Persona: Mặt Nạ Cần Thiết Nhưng Nguy Hiểm",
-          "2. Shadow: Cái Bị Đẩy Xuống Dưới",
-          "3. Anima / Animus",
-          "4. Self: Không Phải Ego Lớn Hơn",
-          "5. Individuation Và Ma Trận",
-          "6. Beyond Nhị Nguyên",
-          "7. Practice / Thực Hành",
-          "8. Common Traps",
-          "Synthesis",
-          "Related"
+          "Persona: Mặt Nạ Cần Thiết Nhưng Nguy Hiểm",
+          "Shadow: Cái Bị Đẩy Xuống Dưới",
+          "Anima / Animus Và Đối Cực Bên Trong",
+          "Self: Không Phải Ego Lớn Hơn",
+          "Individuation Và Ma Trận",
+          "Beyond Nhị Nguyên",
+          "Practice / Thực Hành",
+          "Common Traps",
+          "Kết",
+          "Reading Path / Đọc Tiếp"
         ],
         "wikilinks": [
           "Gnosis",
           "Ma Trận",
           "Monad",
-          "Nguyên Mẫu",
+          "Nghịch Lý Của Hiểu Biết",
           "Nhị Nguyên",
           "Sự Nhất Thể",
           "Tâm Lý Học Jung",
@@ -8843,8 +8846,8 @@
           "esoterica/Gnosis.md",
           "esoterica/Ma Trận.md",
           "esoterica/Monad.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
           "esoterica/Sự Nhất Thể.md",
-          "mental-models/Nguyên Mẫu.md",
           "mental-models/Nhị Nguyên.md",
           "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Vô Thức Tập Thể.md"
@@ -8891,8 +8894,8 @@
           "MOC - Esoterica & Consciousness.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md"
         ],
-        "words": 1007,
-        "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là bước tâ…"
+        "words": 1347,
+        "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…"
       },
       {
         "path": "mental-models/Vô Thức Tập Thể.md",
@@ -9759,67 +9762,6 @@
         "summary": "**Mô Hình Địa Tâm đặt Trái Đất ở trung tâm quan sát của vũ trụ. Nhưng giá trị lớn nhất của bài này không phải bắt người đọc “tin Địa Tâm”, mà là dùng Địa Tâm như một epistemic stress test: làm sao ta biết mô hình vũ trụ mình tin là do tự kiểm chứng, chứ không…"
       },
       {
-        "path": "mental-models/Nguyên Mẫu.md",
-        "title": "Nguyên Mẫu",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model"
-        ],
-        "aliases": [
-          "Archetypes",
-          "Nguyên Mẫu",
-          "Nguyên Mẫu (Archetypes)"
-        ],
-        "headings": [
-          "Nguyên Mẫu (Archetypes)",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Cách Đọc",
-          "Archetype Khác Gì Stereotype?",
-          "Bốn Trục Jung Nền Tảng",
-          "King, Warrior, Magician, Lover",
-          "Archetype Và Ma Trận Truyền Thông",
-          "Individuation: Không Bị Nguyên Mẫu Possess",
-          "Archetype Trong Tình Dục Và Quan Hệ",
-          "Chốt Lại / Core Insight"
-        ],
-        "wikilinks": [
-          "Biểu Tượng Baphomet",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Individuation",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Saturn Cube",
-          "Tâm Lý Học Jung",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Biểu Tượng Baphomet.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Saturn Cube.md",
-          "mental-models/Individuation.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "mental-models/Vô Thức Tập Thể.md"
-        ],
-        "backlinks": [
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "index.md",
-          "mental-models/index.md",
-          "mental-models/Individuation.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "MOC - Esoterica & Consciousness.md"
-        ],
-        "words": 1096,
-        "summary": "**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là \"nhân vật trong thần thoại\". Chúng là phần mềm biểu tượng khiến con người nhận ra King, Mothe…"
-      },
-      {
         "path": "mental-models/Thông Minh vs Trí Tuệ.md",
         "title": "Thông Minh vs Trí Tuệ",
         "domain": "mental-models",
@@ -9881,6 +9823,66 @@
         ],
         "words": 1370,
         "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không. Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trận.…"
+      },
+      {
+        "path": "mental-models/Nguyên Mẫu.md",
+        "title": "Nguyên Mẫu",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model"
+        ],
+        "aliases": [
+          "Archetypes",
+          "Nguyên Mẫu",
+          "Nguyên Mẫu (Archetypes)"
+        ],
+        "headings": [
+          "Nguyên Mẫu (Archetypes)",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc",
+          "Archetype Khác Gì Stereotype?",
+          "Bốn Trục Jung Nền Tảng",
+          "King, Warrior, Magician, Lover",
+          "Archetype Và Ma Trận Truyền Thông",
+          "Individuation: Không Bị Nguyên Mẫu Possess",
+          "Archetype Trong Tình Dục Và Quan Hệ",
+          "Chốt Lại / Core Insight"
+        ],
+        "wikilinks": [
+          "Biểu Tượng Baphomet",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Individuation",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Saturn Cube",
+          "Tâm Lý Học Jung",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Biểu Tượng Baphomet.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Saturn Cube.md",
+          "mental-models/Individuation.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Vô Thức Tập Thể.md"
+        ],
+        "backlinks": [
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "MOC - Esoterica & Consciousness.md"
+        ],
+        "words": 1096,
+        "summary": "**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là \"nhân vật trong thần thoại\". Chúng là phần mềm biểu tượng khiến con người nhận ra King, Mothe…"
       },
       {
         "path": "mental-models/Tư Duy Lũy Thừa.md",
@@ -17524,33 +17526,35 @@
       "domain": "mental-models",
       "tags": [
         "consciousness",
+        "individuation",
         "jung",
         "mental-model"
       ],
       "aliases": [
         "Individuation (Thành Toàn Bản Ngã)",
+        "Jungian Individuation",
         "Self-Actualization",
         "Thành Toàn Bản Ngã"
       ],
       "headings": [
         "Individuation (Thành Toàn Bản Ngã)",
         "Vault Position / Vị Trí Trong Vault",
-        "1. Persona: Mặt Nạ Cần Thiết Nhưng Nguy Hiểm",
-        "2. Shadow: Cái Bị Đẩy Xuống Dưới",
-        "3. Anima / Animus",
-        "4. Self: Không Phải Ego Lớn Hơn",
-        "5. Individuation Và Ma Trận",
-        "6. Beyond Nhị Nguyên",
-        "7. Practice / Thực Hành",
-        "8. Common Traps",
-        "Synthesis",
-        "Related"
+        "Persona: Mặt Nạ Cần Thiết Nhưng Nguy Hiểm",
+        "Shadow: Cái Bị Đẩy Xuống Dưới",
+        "Anima / Animus Và Đối Cực Bên Trong",
+        "Self: Không Phải Ego Lớn Hơn",
+        "Individuation Và Ma Trận",
+        "Beyond Nhị Nguyên",
+        "Practice / Thực Hành",
+        "Common Traps",
+        "Kết",
+        "Reading Path / Đọc Tiếp"
       ],
       "wikilinks": [
         "Gnosis",
         "Ma Trận",
         "Monad",
-        "Nguyên Mẫu",
+        "Nghịch Lý Của Hiểu Biết",
         "Nhị Nguyên",
         "Sự Nhất Thể",
         "Tâm Lý Học Jung",
@@ -17561,8 +17565,8 @@
         "esoterica/Gnosis.md",
         "esoterica/Ma Trận.md",
         "esoterica/Monad.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "esoterica/Sự Nhất Thể.md",
-        "mental-models/Nguyên Mẫu.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Vô Thức Tập Thể.md"
@@ -17609,8 +17613,8 @@
         "MOC - Esoterica & Consciousness.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md"
       ],
-      "words": 1007,
-      "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là bước tâ…"
+      "words": 1347,
+      "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…"
     },
     {
       "path": "MOC - Health Sovereignty.md",
@@ -25758,6 +25762,7 @@
         "index.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
         "mental-models/index.md",
+        "mental-models/Individuation.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
         "mental-models/Trí Tuệ.md",
@@ -29448,8 +29453,8 @@
         "health"
       ],
       "aliases": [
-        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
+        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
+        "Tần số cộng hưởng giữa Muối và Tuyến tùng"
       ],
       "headings": [
         "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -31001,33 +31006,35 @@
       "domain": "mental-models",
       "tags": [
         "consciousness",
+        "individuation",
         "jung",
         "mental-model"
       ],
       "aliases": [
         "Individuation (Thành Toàn Bản Ngã)",
+        "Jungian Individuation",
         "Self-Actualization",
         "Thành Toàn Bản Ngã"
       ],
       "headings": [
         "Individuation (Thành Toàn Bản Ngã)",
         "Vault Position / Vị Trí Trong Vault",
-        "1. Persona: Mặt Nạ Cần Thiết Nhưng Nguy Hiểm",
-        "2. Shadow: Cái Bị Đẩy Xuống Dưới",
-        "3. Anima / Animus",
-        "4. Self: Không Phải Ego Lớn Hơn",
-        "5. Individuation Và Ma Trận",
-        "6. Beyond Nhị Nguyên",
-        "7. Practice / Thực Hành",
-        "8. Common Traps",
-        "Synthesis",
-        "Related"
+        "Persona: Mặt Nạ Cần Thiết Nhưng Nguy Hiểm",
+        "Shadow: Cái Bị Đẩy Xuống Dưới",
+        "Anima / Animus Và Đối Cực Bên Trong",
+        "Self: Không Phải Ego Lớn Hơn",
+        "Individuation Và Ma Trận",
+        "Beyond Nhị Nguyên",
+        "Practice / Thực Hành",
+        "Common Traps",
+        "Kết",
+        "Reading Path / Đọc Tiếp"
       ],
       "wikilinks": [
         "Gnosis",
         "Ma Trận",
         "Monad",
-        "Nguyên Mẫu",
+        "Nghịch Lý Của Hiểu Biết",
         "Nhị Nguyên",
         "Sự Nhất Thể",
         "Tâm Lý Học Jung",
@@ -31038,8 +31045,8 @@
         "esoterica/Gnosis.md",
         "esoterica/Ma Trận.md",
         "esoterica/Monad.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "esoterica/Sự Nhất Thể.md",
-        "mental-models/Nguyên Mẫu.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Vô Thức Tập Thể.md"
@@ -31086,8 +31093,8 @@
         "MOC - Esoterica & Consciousness.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md"
       ],
-      "words": 1007,
-      "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là bước tâ…"
+      "words": 1347,
+      "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…"
     },
     "mental-models/Luân Hồi Trên Home Screen.md": {
       "path": "mental-models/Luân Hồi Trên Home Screen.md",
@@ -31384,7 +31391,6 @@
         "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
         "index.md",
         "mental-models/index.md",
-        "mental-models/Individuation.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Tâm Lý Học Jung.md",
