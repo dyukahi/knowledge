@@ -327,6 +327,11 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ## Recent Updates / Cập Nhật Gần Đây
 
 - **[[Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]]** - bài phân tích *Dune* full tiếng Việt, đọc Paul/Leto II/Golden Path như bi kịch của messiah trap, prescience và Ma Trận định mệnh; kèm dự đoán hướng *Dune 3* theo *Dune Messiah*.
+### June 24, 2026
+
+- **Six-article revisionist/esoterica rewrite pass** - refined [[Khoa Học Xét Lại]], [[Chu Kỳ Vũ Trụ - Yugas & Kalpas]], [[Atlantis]], [[Lemuria]], [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]] and [[Nikola Tesla]] with tighter claim discipline, stronger vault positioning, cleaner prose and section-level illustrations.
+- **Knowledge map refresh** - vault map rebuilt after the six-article rewrite pass; broken links remain at 0.
+
 ### June 22, 2026
 
 - **[[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]** - bài phân tích điện ảnh full tiếng Việt, prose-first, đọc *Cloud Atlas* như vân đồ của luân hồi, Ma Trận, Gnosis, lời chứng, dấu sao chổi và bản nhạc vang vọng xuyên thời đại; có 7 minh họa section-level.
