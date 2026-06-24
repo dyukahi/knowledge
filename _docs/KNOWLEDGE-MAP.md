@@ -6,7 +6,7 @@
 
 - **Notes scanned:** 225
 - **Top-level domains:** 8
-- **Tags detected:** 231
+- **Tags detected:** 234
 - **Resolved internal edges:** 2215
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 12
@@ -25,8 +25,8 @@ Recommended note types:
 
 ### Esoterica / Huyền học `esoterica` — 76 notes
 
-- [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `136`, backlinks `106`, outlinks `30` — #consciousness, #control-system, #esoterica, #matrix
-- [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `59`, backlinks `25`, outlinks `34` — #consciousness, #esoterica, #matrix, #meta
+- [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `137`, backlinks `107`, outlinks `30` — #consciousness, #control-system, #esoterica, #matrix
+- [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `58`, backlinks `24`, outlinks `34` — #consciousness, #esoterica, #matrix, #meta
 - [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `57`, backlinks `45`, outlinks `12` — #consciousness, #esoterica, #gnosis, #matrix
 - [[esoterica/index|Esoterica Domain Gateway]] — degree `47`, backlinks `4`, outlinks `43` — #consciousness, #domain-gateway, #esoterica
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `37`, backlinks `29`, outlinks `8` — #consciousness, #esoterica, #metaphysics
@@ -107,13 +107,13 @@ Recommended note types:
 
 - [[crypto-finance/Bitcoin|Bitcoin]] — degree `34`, backlinks `26`, outlinks `8` — #bitcoin, #crypto-finance, #financial-sovereignty
 - [[crypto-finance/index|Crypto & Finance Domain Gateway]] — degree `34`, backlinks `3`, outlinks `31` — #crypto-finance, #domain-gateway, #financial-sovereignty
-- [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]] — degree `30`, backlinks `16`, outlinks `14` — #crypto-finance, #financial-sovereignty, #privacy, #surveillance
-- [[crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền|Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — degree `28`, backlinks `18`, outlinks `10` — #crypto-finance, #dopamine, #financial-sovereignty, #mental-model, #risk-management
+- [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]] — degree `31`, backlinks `17`, outlinks `14` — #crypto-finance, #financial-sovereignty, #privacy, #surveillance
+- [[crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền|Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — degree `29`, backlinks `19`, outlinks `10` — #crypto-finance, #dopamine, #financial-sovereignty, #mental-model, #risk-management
 - [[crypto-finance/Chainlink - Mắt Xích Của Tokenized World|Chainlink - Mắt Xích Của Tokenized World]] — degree `26`, backlinks `16`, outlinks `10` — #cbdc, #crypto-finance, #sovereignty, #tokenization, #word-magic
-- [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]] — degree `21`, backlinks `19`, outlinks `2` — #agenda-2030, #cbdc, #crypto-finance, #generation, #privacy
-- [[crypto-finance/Tiền Giấy - Tiền Mặt|Tiền Giấy - Tiền Mặt (Fiat Currency)]] — degree `21`, backlinks `17`, outlinks `4` — #crypto-finance, #privacy
-- [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]] — degree `19`, backlinks `11`, outlinks `8` — #bitcoin, #crypto-finance, #privacy, #sovereignty
-- [[crypto-finance/Tiền Pháp Định|Tiền Pháp Định (Fiat Currency)]] — degree `19`, backlinks `11`, outlinks `8` — #crypto-finance
+- [[crypto-finance/Tiền Giấy - Tiền Mặt|Tiền Giấy - Tiền Mặt (Fiat Currency)]] — degree `23`, backlinks `17`, outlinks `6` — #cash, #crypto-finance, #fiat, #privacy
+- [[crypto-finance/Tiền Pháp Định|Tiền Pháp Định (Fiat Currency)]] — degree `21`, backlinks `12`, outlinks `9` — #crypto-finance, #fiat, #monetary-system
+- [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]] — degree `20`, backlinks `18`, outlinks `2` — #agenda-2030, #cbdc, #crypto-finance, #generation, #privacy
+- [[crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy|Bitcoin Sẽ Chết Nếu Không Có Privacy]] — degree `17`, backlinks `12`, outlinks `5` — #bitcoin, #crypto-finance, #privacy, #sovereignty
 - [[crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền|Điều Mà Trường Học Không Dạy Về Tiền]] — degree `16`, backlinks `4`, outlinks `12` — #crypto-finance
 - [[crypto-finance/Giàu Không Nhờ May Mắn|Giàu Không Nhờ May Mắn]] — degree `12`, backlinks `3`, outlinks `9` — #crypto-finance
 - [[crypto-finance/Secular Market|Secular Market (Thị Trường Chu Kỳ Dài)]] — degree `11`, backlinks `3`, outlinks `8` — #crypto-finance
@@ -127,7 +127,7 @@ Recommended note types:
 - [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `47`, backlinks `30`, outlinks `17` — #health, #moc, #sovereignty
 - [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `45`, backlinks `14`, outlinks `31` — #consciousness, #esoterica, #moc
 - [[MOC - Science Revisionism|MOC - Science Revisionism]] — degree `40`, backlinks `20`, outlinks `20` — #moc, #revisionist-science, #science-tech
-- [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `37`, backlinks `18`, outlinks `19` — #crypto-finance, #moc, #sovereignty
+- [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `36`, backlinks `17`, outlinks `19` — #crypto-finance, #moc, #sovereignty
 - [[MOC - Ancient Civilizations & Hidden History|MOC - Ancient Civilizations & Hidden History]] — degree `31`, backlinks `11`, outlinks `20` — #esoterica, #hidden-history, #moc
 - [[Glossary - Từ Điển Red Pill Wiki|Glossary - Từ Điển Red Pill Wiki]] — degree `24`, backlinks `2`, outlinks `22` — #glossary, #meta, #navigation
 - [[Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng|Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng]] — degree `21`, backlinks `10`, outlinks `11` — #epistemology, #evidence, #meta
@@ -155,13 +155,13 @@ High-degree notes are good candidates for hub/MOC treatment.
 
 1. [[index|Red Pill Wiki]] — degree `153` · backlinks `7` · outlinks `146`
    - **Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn.
-2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `136` · backlinks `106` · outlinks `30`
+2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `137` · backlinks `107` · outlinks `30`
    - !Một con người đứng trước lớp giao diện trong suốt của thành phố, ký ức, truyền thông và hệ thần kinh, với tia sáng nhỏ trong tim
 3. [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `76` · backlinks `63` · outlinks `13`
    - **Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reali…
 4. [[science-tech/Khoa Học Xét Lại|Khoa Học Xét Lại]] — degree `76` · backlinks `50` · outlinks `26`
    - **Khoa Học Xét Lại không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution: một bên là quan sát, kiểm chứng, phản biện; một bên là funding, prestige, consensus, censorship, career incentive và quyền lực.**
-5. [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `59` · backlinks `25` · outlinks `34`
+5. [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `58` · backlinks `24` · outlinks `34`
    - !Giải phẫu Ma Trận như một cơ thể nhiều lớp: thân thể, attention, gia đình, tiền, định chế, narrative và spiritual interface bao quanh một ngọn lửa bên trong
 6. [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `57` · backlinks `45` · outlinks `12`
    - **Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…
@@ -251,8 +251,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]]
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
 - [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]]
-- [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]
+- [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 
 ### MOC - Health Sovereignty
 
@@ -291,12 +291,12 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]]
 - [[crypto-finance/Bitcoin|Bitcoin]]
 - [[MOC - Health Sovereignty|MOC - Health Sovereignty]]
-- [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]]
 - [[crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền|Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]
 - [[crypto-finance/Chainlink - Mắt Xích Của Tokenized World|Chainlink - Mắt Xích Của Tokenized World]]
-- [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]]
-- [[politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood|Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood]]
+- [[crypto-finance/Gen Z và CBDC - Programmable Money Psychology|Gen Z và CBDC - Programmable Money Psychology]]
 - [[crypto-finance/Privacy|Privacy (Quyền Riêng Tư)]]
+- [[politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood|Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood]]
+- [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]]
 - [[crypto-finance/Tiền Giấy - Tiền Mặt|Tiền Giấy - Tiền Mặt (Fiat Currency)]]
 
 ### MOC - Ancient Civilizations & Hidden History
@@ -311,8 +311,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]]
 - [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]]
 - [[esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]
-- [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
+- [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 
 ### MOC - Science Revisionism
 

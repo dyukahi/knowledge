@@ -11,7 +11,7 @@
       "politics-conspiracy": 27,
       "science-tech": 18
     },
-    "tags": 231,
+    "tags": 234,
     "wikilinkEdges": 2215,
     "brokenLinks": 0,
     "orphans": 12
@@ -601,6 +601,7 @@
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
           "crypto-finance/Tiền Pháp Định.md",
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
@@ -680,6 +681,7 @@
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
+          "crypto-finance/Tiền Pháp Định.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Ma Trận.md",
           "index.md",
@@ -777,6 +779,139 @@
         "summary": "**Chainlink không chỉ là một oracle protocol trong crypto. Trong vault, nó là mắt xích biểu tượng và hạ tầng nối blockchain với tài sản thật, dữ liệu thật, ngân hàng, SWIFT, RWA và eventually programmable money. Nếu Bitcoin làm mass quen với tiền trên ledger,…"
       },
       {
+        "path": "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "title": "Tiền Giấy - Tiền Mặt (Fiat Currency)",
+        "domain": "crypto-finance",
+        "tags": [
+          "cash",
+          "crypto-finance",
+          "fiat",
+          "privacy"
+        ],
+        "aliases": [
+          "Cash",
+          "Paper Money",
+          "Physical Cash",
+          "Tiền Giấy - Tiền Mặt"
+        ],
+        "headings": [
+          "Tiền Giấy - Tiền Mặt (Fiat Currency)",
+          "Evidence Discipline / Cách Đọc",
+          "Fiat Là Operating System, Cash Là Bearer Interface",
+          "Cash vs Digital Fiat",
+          "War On Cash",
+          "CBDC Và Programmable Money",
+          "Cash, Bitcoin Và Redundancy",
+          "Kết",
+          "Reading Path / Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+          "Báo Cáo 2030",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Privacy",
+          "Tiền Pháp Định"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Privacy.md",
+          "crypto-finance/Tiền Pháp Định.md",
+          "politics-conspiracy/Báo Cáo 2030.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/index.md",
+          "crypto-finance/Privacy.md",
+          "crypto-finance/Secular Market.md",
+          "crypto-finance/Tiền Pháp Định.md",
+          "crypto-finance/Tiền tiền tiền.md",
+          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+          "esoterica/Cabal.md",
+          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "index.md",
+          "MOC - Financial Sovereignty.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
+        ],
+        "words": 1026,
+        "summary": "**Tiền mặt là lớp privacy analog cuối cùng trong hệ tiền pháp định. Nó vẫn là fiat, vẫn bị lạm phát, vẫn phụ thuộc vào issuer. Nhưng khác với digital fiat, cash cho phép giao dịch nhỏ, offline, bearer, ít dấu vết và không cần account permission. Trong kỷ nguy…"
+      },
+      {
+        "path": "crypto-finance/Tiền Pháp Định.md",
+        "title": "Tiền Pháp Định (Fiat Currency)",
+        "domain": "crypto-finance",
+        "tags": [
+          "crypto-finance",
+          "fiat",
+          "monetary-system"
+        ],
+        "aliases": [
+          "Fiat Currency",
+          "Fiat Money",
+          "Tiền Fiat",
+          "Tiền Pháp Định Là Gì"
+        ],
+        "headings": [
+          "Tiền Pháp Định (Fiat Currency)",
+          "Evidence Discipline / Cách Đọc",
+          "Fiat Là Gì?",
+          "1971 Và Kỷ Nguyên Fiat Thuần",
+          "Inflation Là Thuế Ẩn",
+          "Debt-Based Money Và Vòng Lặp Nghĩa Vụ",
+          "Fiat Và Elite",
+          "Fiat, Cash, CBDC Và Bitcoin",
+          "Kết",
+          "Reading Path / Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+          "Báo Cáo 2030",
+          "Elite",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Ma Trận",
+          "Privacy",
+          "Tiền Giấy - Tiền Mặt"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/Privacy.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "esoterica/Ma Trận.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/index.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "crypto-finance/Tiền tiền tiền.md",
+          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+          "index.md",
+          "MOC - Financial Sovereignty.md",
+          "MOC - Market Psychology & Risk.md",
+          "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
+        ],
+        "words": 1205,
+        "summary": "**Tiền pháp định là hệ tiền tồn tại vì nhà nước công nhận, thuế yêu cầu, ngân hàng chấp nhận và xã hội tiếp tục tin. Nó không cần giá trị nội tại như vàng; nó cần decree, debt, legal tender và network effect. Quyền phát hành fiat là quyền pha loãng thời gian…"
+      },
+      {
         "path": "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "title": "Gen Z và CBDC - Programmable Money Psychology",
         "domain": "crypto-finance",
@@ -816,7 +951,6 @@
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md"
         ],
         "backlinks": [
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Bitcoin.md",
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/index.md",
@@ -840,64 +974,6 @@
         "summary": "**CBDC không chỉ là nâng cấp kỹ thuật của tiền. Nó là bài toán tâm lý học: làm sao để một thế hệ tự nguyện đi từ cash ẩn danh sang tiền số định danh, lập trình được và giám sát được. Gen Z là thế hệ quan trọng nhất vì họ không cần bị ép rời khỏi cash; nhiều n…"
       },
       {
-        "path": "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "title": "Tiền Giấy - Tiền Mặt (Fiat Currency)",
-        "domain": "crypto-finance",
-        "tags": [
-          "crypto-finance",
-          "privacy"
-        ],
-        "aliases": [
-          "Tiền Giấy - Tiền Mặt",
-          "Tiền Giấy - Tiền Mặt (Fiat Currency)"
-        ],
-        "headings": [
-          "Tiền Giấy - Tiền Mặt (Fiat Currency)",
-          "Evidence Discipline / Cách Đọc",
-          "Fiat Là Gì?",
-          "1971 Và Kỷ Nguyên Fiat Thuần",
-          "Inflation Là Thuế Ẩn",
-          "Cash vs Digital Fiat",
-          "CBDC Và Programmable Money",
-          "Bitcoin, Privacy, Redundancy",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Bitcoin",
-          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-          "Báo Cáo 2030",
-          "Gen Z và CBDC - Programmable Money Psychology"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "politics-conspiracy/Báo Cáo 2030.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Giàu Không Nhờ May Mắn.md",
-          "crypto-finance/index.md",
-          "crypto-finance/Privacy.md",
-          "crypto-finance/Secular Market.md",
-          "crypto-finance/Tiền Pháp Định.md",
-          "crypto-finance/Tiền tiền tiền.md",
-          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-          "esoterica/Cabal.md",
-          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "index.md",
-          "MOC - Financial Sovereignty.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
-        ],
-        "words": 979,
-        "summary": "**Tiền mặt là lớp privacy cuối cùng trong hệ tiền pháp định; còn fiat là hệ tiền dựa trên niềm tin, luật cưỡng chế và khả năng phát hành của nhà nước/ngân hàng trung ương.** Trong vault, bài này không chỉ nói về lạm phát. Nó nói về cash như một quyền tự do an…"
-      },
-      {
         "path": "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "title": "Bitcoin Sẽ Chết Nếu Không Có Privacy",
         "domain": "crypto-finance",
@@ -910,48 +986,37 @@
         "aliases": [
           "Bitcoin Privacy",
           "Bitcoin Will Die Without Privacy",
-          "Fungibility"
+          "Fungibility",
+          "No Privacy No Fungibility"
         ],
         "headings": [
           "Bitcoin Sẽ Chết Nếu Không Có Privacy",
           "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Publication Pack / Financial Sovereignty",
-          "1. Fungibility Là Gì?",
-          "2. Bitcoin Không Anonymous",
-          "Public ledger như hồ sơ tài chính vĩnh viễn",
-          "Chainlink, Oracles Và Public Ledger Risk",
-          "3. Dirty Bitcoin Problem",
-          "4. War On Cash",
-          "5. Privacy Không Phải Che Giấu Tội Lỗi",
-          "6. Giải Pháp",
-          "On Bitcoin",
-          "Outside Bitcoin",
-          "7. Bitcoin Có Thể Thích Nghi Không?",
-          "Synthesis",
-          "Related"
+          "Fungibility Là Gì?",
+          "Bitcoin Không Anonymous",
+          "Dirty Bitcoin Problem",
+          "KYC, ETF Và Custodial Capture",
+          "Chainlink, Oracles Và Tokenized Visibility Stack",
+          "War On Cash Và Bitcoin Privacy",
+          "Privacy Practice Không Phải Crime",
+          "Kết",
+          "Publication Pack / Financial Sovereignty"
         ],
         "wikilinks": [
           "Bitcoin",
           "Bitcoin Sẽ Chết Nếu Không Có Privacy",
           "Chainlink - Mắt Xích Của Tokenized World",
-          "Gen Z và CBDC - Programmable Money Psychology",
           "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-          "MOC - Financial Sovereignty",
           "Privacy",
-          "Privacy Is The New Wealth",
           "Tiền Giấy - Tiền Mặt"
         ],
         "mdlinks": [],
         "outlinks": [
           "crypto-finance/Bitcoin.md",
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/Privacy.md",
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "MOC - Financial Sovereignty.md"
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md"
         ],
         "backlinks": [
           "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
@@ -962,79 +1027,13 @@
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
           "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "crypto-finance/Tiền Pháp Định.md",
           "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
           "index.md",
           "MOC - Financial Sovereignty.md"
         ],
-        "words": 1222,
-        "summary": "**Bitcoin có thể sống như store of value mà thiếu privacy một thời gian. Nhưng nếu muốn trở thành tiền tệ tự do thật sự, Bitcoin cần fungibility. Và không có privacy thì không có fungibility. Một đồng tiền bị truy vết, chấm điểm, blacklist và phân loại “sạch/…"
-      },
-      {
-        "path": "crypto-finance/Tiền Pháp Định.md",
-        "title": "Tiền Pháp Định (Fiat Currency)",
-        "domain": "crypto-finance",
-        "tags": [
-          "crypto-finance"
-        ],
-        "aliases": [
-          "Fiat Currency",
-          "Fiat Money",
-          "Tiền Fiat",
-          "Tiền Pháp Định Là Gì"
-        ],
-        "headings": [
-          "Tiền Pháp Định (Fiat Currency)",
-          "Evidence Discipline / Cách Đọc",
-          "Đặc Điểm Của Tiền Pháp Định (Characteristics of Fiat Currency)",
-          "Lịch Sử Ngắn Gọn (Brief History)",
-          "Trước 1971: Hệ thống Bretton Woods (Before 1971: Bretton Woods System)",
-          "1971: Nixon Shock",
-          "1971 → Nay: Hậu quả (1971 → Now: Consequences)",
-          "Cách Tiền Pháp Định Bòn Rút Tài Sản (How Fiat Currency Extracts Wealth)",
-          "1. Thuế Lạm Phát (Inflation Tax)",
-          "2. Cantillon Effect (Hiệu ứng Cantillon)",
-          "3. Asset Inflation (Lạm phát tài sản)",
-          "Tiền Pháp Định vs Các Lựa Chọn Khác (Fiat vs Other Options)",
-          "Tại Sao Hệ Thống Vẫn Tồn Tại? (Why Does the System Still Exist?)",
-          "Exit Options (Lựa Chọn Thoát Ra)",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bitcoin",
-          "Báo Cáo 2030",
-          "Elite",
-          "Gen Z và CBDC - Programmable Money Psychology",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Privacy",
-          "Tiền Giấy - Tiền Mặt",
-          "Điều mà nền giáo dục và chính phủ không dạy bạn"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/Privacy.md",
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-          "crypto-finance/Giàu Không Nhờ May Mắn.md",
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "crypto-finance/index.md",
-          "crypto-finance/Tiền tiền tiền.md",
-          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-          "index.md",
-          "MOC - Financial Sovereignty.md",
-          "MOC - Market Psychology & Risk.md",
-          "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
-        ],
-        "words": 1152,
-        "summary": "**Tiền Pháp Định** (Fiat Currency) là hệ thống tiền tệ không có giá trị nội tại, được in ấn dựa trên nợ và lòng tin. Đây là công cụ cốt lõi của Elite để kiểm soát kinh tế và bòn rút tài sản của nhân loại."
+        "words": 1241,
+        "summary": "**Bitcoin có thể sống như store of value mà thiếu privacy một thời gian. Giá có thể tăng, ETF có thể hút vốn, treasury companies có thể mua thêm. Nhưng nếu Bitcoin muốn là tiền tự do thật sự, nó cần fungibility. Và không có privacy thì không có fungibility. M…"
       },
       {
         "path": "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
@@ -1522,6 +1521,7 @@
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
           "crypto-finance/Privacy.md",
+          "crypto-finance/Tiền Pháp Định.md",
           "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
@@ -1741,7 +1741,6 @@
         "backlinks": [
           "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
           "crypto-finance/Secular Market.md",
-          "crypto-finance/Tiền Pháp Định.md",
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/Atula.md",
           "esoterica/Gnosis.md",
@@ -10218,6 +10217,65 @@
         "summary": "!Một đứa trẻ đứng giữa đường ray cũ và mạng lưới quản trị hiện đại"
       },
       {
+        "path": "mental-models/Tâm bất Biến.md",
+        "title": "Tâm Bất Biến",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model"
+        ],
+        "aliases": [
+          "Equanimity",
+          "Upekkhā",
+          "Xả"
+        ],
+        "headings": [
+          "Tâm Bất Biến (Equanimity / Upekkhā)",
+          "Vault Position / Vị Trí Trong Vault",
+          "Định Nghĩa / Definition",
+          "Cùng Một Nguyên Lý Qua Nhiều Truyền Thống",
+          "Tứ Vô Lượng Tâm / Four Brahmaviharas",
+          "Trong Đời Thường / Practical Field",
+          "Con Đường Rèn Luyện / Path",
+          "1. Hiểu [[Nhân Quả]]",
+          "2. Chiêm nghiệm vô thường",
+          "3. Rèn [[Trí Tuệ]]",
+          "4. Thiền định và thân",
+          "Trong [[Individuation]]",
+          "Góc Nhìn Khắc Kỷ / Stoic Lens",
+          "Bài Test / Field Test",
+          "Related"
+        ],
+        "wikilinks": [
+          "Individuation",
+          "Luân Hồi",
+          "Ma Trận",
+          "Nhân Quả",
+          "Sự Nhất Thể",
+          "Trí Tuệ",
+          "Tâm bất Biến"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Sự Nhất Thể.md",
+          "mental-models/Individuation.md",
+          "mental-models/Trí Tuệ.md"
+        ],
+        "backlinks": [
+          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+          "mental-models/index.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+          "mental-models/Trí Tuệ.md"
+        ],
+        "words": 1150,
+        "summary": "**Tâm Bất Biến không phải là không cảm thấy gì. Nó là khả năng cảm thấy đầy đủ mà không để cơn sóng bên trong cướp tay lái.** Người có tâm bất biến vẫn đau, vẫn thương, vẫn giận, vẫn hành động; khác biệt là họ không để phản ứng đầu tiên trở thành mệnh lệnh cu…"
+      },
+      {
         "path": "mental-models/Privacy Is The New Wealth.md",
         "title": "Privacy Is The New Wealth",
         "domain": "mental-models",
@@ -10279,7 +10337,6 @@
           "mental-models/Tư Duy Lũy Thừa.md"
         ],
         "backlinks": [
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Giàu Không Nhờ May Mắn.md",
           "crypto-finance/index.md",
           "esoterica/Thành Cổ Loa.md",
@@ -10291,65 +10348,6 @@
         ],
         "words": 1856,
         "summary": "Bài viết trình bày một triết lý về sự giàu có trong thế kỷ 21, nơi **privacy** (sự riêng tư) đã trở thành thước đo quyền lực thực sự thay vì phô trương tài sản. Trong thời đại surveillance capitalism, khả năng \"biến mất\" trở thành luxury goods đắt nhất."
-      },
-      {
-        "path": "mental-models/Tâm bất Biến.md",
-        "title": "Tâm Bất Biến",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model"
-        ],
-        "aliases": [
-          "Equanimity",
-          "Upekkhā",
-          "Xả"
-        ],
-        "headings": [
-          "Tâm Bất Biến (Equanimity / Upekkhā)",
-          "Vault Position / Vị Trí Trong Vault",
-          "Định Nghĩa / Definition",
-          "Cùng Một Nguyên Lý Qua Nhiều Truyền Thống",
-          "Tứ Vô Lượng Tâm / Four Brahmaviharas",
-          "Trong Đời Thường / Practical Field",
-          "Con Đường Rèn Luyện / Path",
-          "1. Hiểu [[Nhân Quả]]",
-          "2. Chiêm nghiệm vô thường",
-          "3. Rèn [[Trí Tuệ]]",
-          "4. Thiền định và thân",
-          "Trong [[Individuation]]",
-          "Góc Nhìn Khắc Kỷ / Stoic Lens",
-          "Bài Test / Field Test",
-          "Related"
-        ],
-        "wikilinks": [
-          "Individuation",
-          "Luân Hồi",
-          "Ma Trận",
-          "Nhân Quả",
-          "Sự Nhất Thể",
-          "Trí Tuệ",
-          "Tâm bất Biến"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/Sự Nhất Thể.md",
-          "mental-models/Individuation.md",
-          "mental-models/Trí Tuệ.md"
-        ],
-        "backlinks": [
-          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-          "mental-models/index.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-          "mental-models/Trí Tuệ.md"
-        ],
-        "words": 1150,
-        "summary": "**Tâm Bất Biến không phải là không cảm thấy gì. Nó là khả năng cảm thấy đầy đủ mà không để cơn sóng bên trong cướp tay lái.** Người có tâm bất biến vẫn đau, vẫn thương, vẫn giận, vẫn hành động; khác biệt là họ không để phản ứng đầu tiên trở thành mệnh lệnh cu…"
       },
       {
         "path": "mental-models/Schadenfreude - Dopamine Phản Diện.md",
@@ -12768,54 +12766,6 @@
         "summary": "**Operation Paperclip là chương trình hậu Thế chiến II đưa các nhà khoa học, kỹ sư và chuyên gia Đức Quốc Xã sang Mỹ. Ở tầng lịch sử, đây là Cold War talent acquisition. Ở tầng vault, nó là bằng chứng rằng empire không chỉ đánh bại kẻ thù — nó hấp thụ tri thứ…"
       },
       {
-        "path": "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "title": "Điều mà nền giáo dục và chính phủ không dạy bạn",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "politics-conspiracy"
-        ],
-        "aliases": [
-          "Điều mà nền giáo dục và chính phủ không dạy bạn"
-        ],
-        "headings": [
-          "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Điều mà nền giáo dục và chính phủ không dạy bạn",
-          "Giới thiệu: Nhận thức đầu tiên về tiền bạc",
-          "Vấn đề cốt lõi: Chỉ được dạy cách kiếm tiền, không được dạy về tiền",
-          "Sự thật phũ phàng: Giá trị tiền tiết kiệm của bạn đang tiến về 0",
-          "\"The Game\": Một cuộc chơi không công bằng",
-          "Giải pháp: Làm thế nào để thoát khỏi cuộc chơi?",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bitcoin",
-          "Elite",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "MOC - Epistemology & Propaganda",
-          "Tiền Pháp Định"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Tiền Pháp Định.md",
-          "esoterica/Ma Trận.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Tiền Pháp Định.md",
-          "esoterica/Thuật Giả Kim Của Newton.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-        ],
-        "words": 1166,
-        "summary": "---"
-      },
-      {
         "path": "politics-conspiracy/MindGeek.md",
         "title": "MindGeek (Aylo)",
         "domain": "politics-conspiracy",
@@ -12930,6 +12880,53 @@
         ],
         "words": 1066,
         "summary": "**9/11 là một node mà redpill phải đọc bằng hai tay: một tay giữ nghi ngờ chính đáng trước official story, tay kia giữ kỷ luật bằng chứng trước các giả thuyết thay thế.** Nếu chỉ tin nhà nước, người đọc bỏ qua incentive chiến tranh và surveillance. Nếu tin mọ…"
+      },
+      {
+        "path": "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "title": "Điều mà nền giáo dục và chính phủ không dạy bạn",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "politics-conspiracy"
+        ],
+        "aliases": [
+          "Điều mà nền giáo dục và chính phủ không dạy bạn"
+        ],
+        "headings": [
+          "Evidence Discipline / Cách Đọc Claim",
+          "Source Register / Nguồn Nên Đối Chiếu",
+          "Điều mà nền giáo dục và chính phủ không dạy bạn",
+          "Giới thiệu: Nhận thức đầu tiên về tiền bạc",
+          "Vấn đề cốt lõi: Chỉ được dạy cách kiếm tiền, không được dạy về tiền",
+          "Sự thật phũ phàng: Giá trị tiền tiết kiệm của bạn đang tiến về 0",
+          "\"The Game\": Một cuộc chơi không công bằng",
+          "Giải pháp: Làm thế nào để thoát khỏi cuộc chơi?",
+          "Related"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Elite",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "MOC - Epistemology & Propaganda",
+          "Tiền Pháp Định"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Tiền Pháp Định.md",
+          "esoterica/Ma Trận.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        ],
+        "backlinks": [
+          "esoterica/Thuật Giả Kim Của Newton.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        ],
+        "words": 1166,
+        "summary": "---"
       },
       {
         "path": "politics-conspiracy/Dark MAGA.md",
@@ -14211,7 +14208,6 @@
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
         ],
         "backlinks": [
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
@@ -16339,6 +16335,7 @@
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
+        "crypto-finance/Tiền Pháp Định.md",
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
@@ -16842,7 +16839,6 @@
       "backlinks": [
         "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
         "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Pháp Định.md",
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Atula.md",
         "esoterica/Gnosis.md",
@@ -18600,95 +18596,6 @@
       "summary": "**Monad là tia lửa bất khả phân của Source. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể: phần chưa từng rời khỏi Sự Nhất Thể, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn,…"
     },
     {
-      "path": "MOC - Financial Sovereignty.md",
-      "title": "MOC - Financial Sovereignty",
-      "domain": "root",
-      "tags": [
-        "crypto-finance",
-        "moc",
-        "sovereignty"
-      ],
-      "aliases": [
-        "MOC - Financial Sovereignty"
-      ],
-      "headings": [
-        "MOC - Financial Sovereignty",
-        "How To Read This Map",
-        "Start Here",
-        "Survival Before Sovereignty",
-        "Bitcoin, Privacy & Exit",
-        "Fiat, Debt & Dependency",
-        "Tokenized World & Onchain Control",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "Ai Đứng Bên Kia Giao Dịch",
-        "Bitcoin",
-        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-        "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
-        "Báo Cáo 2030",
-        "Chainlink - Mắt Xích Của Tokenized World",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-        "MOC - Market Psychology & Risk",
-        "Privacy",
-        "Privacy Is The New Wealth",
-        "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
-        "Tiền Giấy - Tiền Mặt",
-        "Tiền Pháp Định",
-        "Tư Duy Lũy Thừa",
-        "UBI Conditioning - The End of Work Ethic",
-        "Điều Mà Trường Học Không Dạy Về Tiền"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Bitcoin.md",
-        "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/Privacy Is The New Wealth.md",
-        "mental-models/Tư Duy Lũy Thừa.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/index.md",
-        "crypto-finance/Privacy.md",
-        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Cabal.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "Glossary - Từ Điển Red Pill Wiki.md",
-        "index.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/index.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/index.md",
-        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-      ],
-      "words": 892,
-      "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
-    },
-    {
       "path": "health/Thuyết Vi Sinh Nội Sinh.md",
       "title": "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
       "domain": "health",
@@ -18870,6 +18777,94 @@
       ],
       "words": 1086,
       "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
+    },
+    {
+      "path": "MOC - Financial Sovereignty.md",
+      "title": "MOC - Financial Sovereignty",
+      "domain": "root",
+      "tags": [
+        "crypto-finance",
+        "moc",
+        "sovereignty"
+      ],
+      "aliases": [
+        "MOC - Financial Sovereignty"
+      ],
+      "headings": [
+        "MOC - Financial Sovereignty",
+        "How To Read This Map",
+        "Start Here",
+        "Survival Before Sovereignty",
+        "Bitcoin, Privacy & Exit",
+        "Fiat, Debt & Dependency",
+        "Tokenized World & Onchain Control",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "Ai Đứng Bên Kia Giao Dịch",
+        "Bitcoin",
+        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+        "Báo Cáo 2030",
+        "Chainlink - Mắt Xích Của Tokenized World",
+        "Cách Đọc Red Pill Wiki",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "MOC - Market Psychology & Risk",
+        "Privacy",
+        "Privacy Is The New Wealth",
+        "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
+        "Tiền Giấy - Tiền Mặt",
+        "Tiền Pháp Định",
+        "Tư Duy Lũy Thừa",
+        "UBI Conditioning - The End of Work Ethic",
+        "Điều Mà Trường Học Không Dạy Về Tiền"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Bitcoin.md",
+        "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "MOC - Market Psychology & Risk.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/index.md",
+        "crypto-finance/Privacy.md",
+        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Cabal.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "Glossary - Từ Điển Red Pill Wiki.md",
+        "index.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/index.md",
+        "MOC - Market Psychology & Risk.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/index.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "words": 892,
+      "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
     },
     {
       "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -20266,6 +20261,10 @@
       2
     ],
     [
+      "fiat",
+      2
+    ],
+    [
       "sexuality",
       2
     ],
@@ -20390,23 +20389,19 @@
       1
     ],
     [
+      "cash",
+      1
+    ],
+    [
+      "monetary-system",
+      1
+    ],
+    [
       "current-events",
       1
     ],
     [
       "pattern-lab",
-      1
-    ],
-    [
-      "ancient-civilization",
-      1
-    ],
-    [
-      "crystal-technology",
-      1
-    ],
-    [
-      "earth-energy",
       1
     ]
   ],
@@ -21078,7 +21073,6 @@
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
       ],
       "backlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
@@ -21872,48 +21866,37 @@
       "aliases": [
         "Bitcoin Privacy",
         "Bitcoin Will Die Without Privacy",
-        "Fungibility"
+        "Fungibility",
+        "No Privacy No Fungibility"
       ],
       "headings": [
         "Bitcoin Sẽ Chết Nếu Không Có Privacy",
         "Evidence Discipline / Cách Đọc",
-        "Vault Position / Vị Trí Trong Vault",
-        "Publication Pack / Financial Sovereignty",
-        "1. Fungibility Là Gì?",
-        "2. Bitcoin Không Anonymous",
-        "Public ledger như hồ sơ tài chính vĩnh viễn",
-        "Chainlink, Oracles Và Public Ledger Risk",
-        "3. Dirty Bitcoin Problem",
-        "4. War On Cash",
-        "5. Privacy Không Phải Che Giấu Tội Lỗi",
-        "6. Giải Pháp",
-        "On Bitcoin",
-        "Outside Bitcoin",
-        "7. Bitcoin Có Thể Thích Nghi Không?",
-        "Synthesis",
-        "Related"
+        "Fungibility Là Gì?",
+        "Bitcoin Không Anonymous",
+        "Dirty Bitcoin Problem",
+        "KYC, ETF Và Custodial Capture",
+        "Chainlink, Oracles Và Tokenized Visibility Stack",
+        "War On Cash Và Bitcoin Privacy",
+        "Privacy Practice Không Phải Crime",
+        "Kết",
+        "Publication Pack / Financial Sovereignty"
       ],
       "wikilinks": [
         "Bitcoin",
         "Bitcoin Sẽ Chết Nếu Không Có Privacy",
         "Chainlink - Mắt Xích Của Tokenized World",
-        "Gen Z và CBDC - Programmable Money Psychology",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-        "MOC - Financial Sovereignty",
         "Privacy",
-        "Privacy Is The New Wealth",
         "Tiền Giấy - Tiền Mặt"
       ],
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Bitcoin.md",
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/Privacy.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "mental-models/Privacy Is The New Wealth.md",
-        "MOC - Financial Sovereignty.md"
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md"
       ],
       "backlinks": [
         "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
@@ -21924,12 +21907,13 @@
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
         "index.md",
         "MOC - Financial Sovereignty.md"
       ],
-      "words": 1222,
-      "summary": "**Bitcoin có thể sống như store of value mà thiếu privacy một thời gian. Nhưng nếu muốn trở thành tiền tệ tự do thật sự, Bitcoin cần fungibility. Và không có privacy thì không có fungibility. Một đồng tiền bị truy vết, chấm điểm, blacklist và phân loại “sạch/…"
+      "words": 1241,
+      "summary": "**Bitcoin có thể sống như store of value mà thiếu privacy một thời gian. Giá có thể tăng, ETF có thể hút vốn, treasury companies có thể mua thêm. Nhưng nếu Bitcoin muốn là tiền tự do thật sự, nó cần fungibility. Và không có privacy thì không có fungibility. M…"
     },
     "crypto-finance/Bitcoin.md": {
       "path": "crypto-finance/Bitcoin.md",
@@ -22133,7 +22117,6 @@
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md"
       ],
       "backlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Bitcoin.md",
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/index.md",
@@ -22276,6 +22259,7 @@
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
+        "crypto-finance/Tiền Pháp Định.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
         "index.md",
@@ -22363,6 +22347,7 @@
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
         "crypto-finance/Tiền Pháp Định.md",
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
@@ -22510,35 +22495,43 @@
       "title": "Tiền Giấy - Tiền Mặt (Fiat Currency)",
       "domain": "crypto-finance",
       "tags": [
+        "cash",
         "crypto-finance",
+        "fiat",
         "privacy"
       ],
       "aliases": [
-        "Tiền Giấy - Tiền Mặt",
-        "Tiền Giấy - Tiền Mặt (Fiat Currency)"
+        "Cash",
+        "Paper Money",
+        "Physical Cash",
+        "Tiền Giấy - Tiền Mặt"
       ],
       "headings": [
         "Tiền Giấy - Tiền Mặt (Fiat Currency)",
         "Evidence Discipline / Cách Đọc",
-        "Fiat Là Gì?",
-        "1971 Và Kỷ Nguyên Fiat Thuần",
-        "Inflation Là Thuế Ẩn",
+        "Fiat Là Operating System, Cash Là Bearer Interface",
         "Cash vs Digital Fiat",
+        "War On Cash",
         "CBDC Và Programmable Money",
-        "Bitcoin, Privacy, Redundancy",
-        "Core Insight / Chốt Lại"
+        "Cash, Bitcoin Và Redundancy",
+        "Kết",
+        "Reading Path / Đọc Tiếp"
       ],
       "wikilinks": [
         "Bitcoin",
         "Bitcoin Sẽ Chết Nếu Không Có Privacy",
         "Báo Cáo 2030",
-        "Gen Z và CBDC - Programmable Money Psychology"
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Privacy",
+        "Tiền Pháp Định"
       ],
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Bitcoin.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Tiền Pháp Định.md",
         "politics-conspiracy/Báo Cáo 2030.md"
       ],
       "backlinks": [
@@ -22560,15 +22553,17 @@
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md"
       ],
-      "words": 979,
-      "summary": "**Tiền mặt là lớp privacy cuối cùng trong hệ tiền pháp định; còn fiat là hệ tiền dựa trên niềm tin, luật cưỡng chế và khả năng phát hành của nhà nước/ngân hàng trung ương.** Trong vault, bài này không chỉ nói về lạm phát. Nó nói về cash như một quyền tự do an…"
+      "words": 1026,
+      "summary": "**Tiền mặt là lớp privacy analog cuối cùng trong hệ tiền pháp định. Nó vẫn là fiat, vẫn bị lạm phát, vẫn phụ thuộc vào issuer. Nhưng khác với digital fiat, cash cho phép giao dịch nhỏ, offline, bearer, ít dấu vết và không cần account permission. Trong kỷ nguy…"
     },
     "crypto-finance/Tiền Pháp Định.md": {
       "path": "crypto-finance/Tiền Pháp Định.md",
       "title": "Tiền Pháp Định (Fiat Currency)",
       "domain": "crypto-finance",
       "tags": [
-        "crypto-finance"
+        "crypto-finance",
+        "fiat",
+        "monetary-system"
       ],
       "aliases": [
         "Fiat Currency",
@@ -22579,40 +22574,37 @@
       "headings": [
         "Tiền Pháp Định (Fiat Currency)",
         "Evidence Discipline / Cách Đọc",
-        "Đặc Điểm Của Tiền Pháp Định (Characteristics of Fiat Currency)",
-        "Lịch Sử Ngắn Gọn (Brief History)",
-        "Trước 1971: Hệ thống Bretton Woods (Before 1971: Bretton Woods System)",
-        "1971: Nixon Shock",
-        "1971 → Nay: Hậu quả (1971 → Now: Consequences)",
-        "Cách Tiền Pháp Định Bòn Rút Tài Sản (How Fiat Currency Extracts Wealth)",
-        "1. Thuế Lạm Phát (Inflation Tax)",
-        "2. Cantillon Effect (Hiệu ứng Cantillon)",
-        "3. Asset Inflation (Lạm phát tài sản)",
-        "Tiền Pháp Định vs Các Lựa Chọn Khác (Fiat vs Other Options)",
-        "Tại Sao Hệ Thống Vẫn Tồn Tại? (Why Does the System Still Exist?)",
-        "Exit Options (Lựa Chọn Thoát Ra)",
-        "Related"
+        "Fiat Là Gì?",
+        "1971 Và Kỷ Nguyên Fiat Thuần",
+        "Inflation Là Thuế Ẩn",
+        "Debt-Based Money Và Vòng Lặp Nghĩa Vụ",
+        "Fiat Và Elite",
+        "Fiat, Cash, CBDC Và Bitcoin",
+        "Kết",
+        "Reading Path / Đọc Tiếp"
       ],
       "wikilinks": [
         "Bitcoin",
+        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
         "Báo Cáo 2030",
         "Elite",
         "Gen Z và CBDC - Programmable Money Psychology",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Ma Trận",
         "Privacy",
-        "Tiền Giấy - Tiền Mặt",
-        "Điều mà nền giáo dục và chính phủ không dạy bạn"
+        "Tiền Giấy - Tiền Mặt"
       ],
       "mdlinks": [],
       "outlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Bitcoin.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
         "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
+        "politics-conspiracy/Elite.md"
       ],
       "backlinks": [
         "crypto-finance/Bitcoin.md",
@@ -22620,6 +22612,7 @@
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
         "crypto-finance/Tiền tiền tiền.md",
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
         "index.md",
@@ -22627,8 +22620,8 @@
         "MOC - Market Psychology & Risk.md",
         "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
       ],
-      "words": 1152,
-      "summary": "**Tiền Pháp Định** (Fiat Currency) là hệ thống tiền tệ không có giá trị nội tại, được in ấn dựa trên nợ và lòng tin. Đây là công cụ cốt lõi của Elite để kiểm soát kinh tế và bòn rút tài sản của nhân loại."
+      "words": 1205,
+      "summary": "**Tiền pháp định là hệ tiền tồn tại vì nhà nước công nhận, thuế yêu cầu, ngân hàng chấp nhận và xã hội tiếp tục tin. Nó không cần giá trị nội tại như vàng; nó cần decree, debt, legal tender và network effect. Quyền phát hành fiat là quyền pha loãng thời gian…"
     },
     "crypto-finance/Tiền tiền tiền.md": {
       "path": "crypto-finance/Tiền tiền tiền.md",
@@ -25191,7 +25184,6 @@
       "backlinks": [
         "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
         "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Pháp Định.md",
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/Atula.md",
         "esoterica/Gnosis.md",
@@ -25327,6 +25319,7 @@
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
         "crypto-finance/Privacy.md",
+        "crypto-finance/Tiền Pháp Định.md",
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
         "Cách Đọc Red Pill Wiki.md",
         "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
@@ -31746,7 +31739,6 @@
         "mental-models/Tư Duy Lũy Thừa.md"
       ],
       "backlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/index.md",
         "esoterica/Thành Cổ Loa.md",
@@ -34982,7 +34974,6 @@
         "politics-conspiracy/Kiểm Soát Tâm Trí.md"
       ],
       "backlinks": [
-        "crypto-finance/Tiền Pháp Định.md",
         "esoterica/Thuật Giả Kim Của Newton.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
