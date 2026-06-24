@@ -3,6 +3,7 @@ title: "Luân Hồi Trên Home Screen"
 description: "Một đọc ngắn về seven deadly sins như folder app hiện đại: home screen biến luân hồi thành giao diện, dopamine economy thành hạ tầng, và attention thành chiến trường chủ quyền."
 aliases: ["Home Screen Samsara", "Digital Samsara", "Seven Sins Home Screen"]
 tags: [mental-models, dopamine-economy, attention, ma-tran, samsara, technology]
+status: refined
 related:
   - "[[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]"
   - "[[Ma Trận]]"

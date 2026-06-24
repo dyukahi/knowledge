@@ -3,6 +3,7 @@ title: "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
 description: "Một note về hôn nhân như covenant và care infrastructure: khi eros, dopamine, tiền bạc và thân thể đều xuống cấp, thứ còn giữ con người khỏi rơi là người không bỏ chạy khỏi phần tàn tạ của mình."
 aliases: ["Marriage as Last Infrastructure", "Nghĩa Tình Vợ Chồng", "Covenant Và Care Work"]
 tags: [mental-models, family, marriage, care-economy, dopamine-economy, covenant]
+status: refined
 related:
   - "[[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]]"
   - "[[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]"

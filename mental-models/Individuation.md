@@ -1,6 +1,6 @@
 ---
 title: "Individuation"
-description: "Trong redpill.wiki, Individuation là cầu nối giữa psychology và spirituality."
+description: "Trong redpill.wiki, Individuation là cầu nối giữa psychology và spirituality: quá trình tích hợp shadow, persona và Self để Gnosis không biến thành spiritual inflation."
 aliases: ["Self-Actualization", "Individuation (Thành Toàn Bản Ngã)", "Thành Toàn Bản Ngã"]
 date: 2026-04-12
 tags: [mental-model, jung, consciousness]
