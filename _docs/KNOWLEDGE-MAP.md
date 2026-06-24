@@ -6,8 +6,8 @@
 
 - **Notes scanned:** 225
 - **Top-level domains:** 8
-- **Tags detected:** 234
-- **Resolved internal edges:** 2215
+- **Tags detected:** 235
+- **Resolved internal edges:** 2212
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 12
 
@@ -57,7 +57,7 @@ Recommended note types:
 
 ### Health / Sức khỏe `health` — 27 notes
 
-- [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `50`, backlinks `39`, outlinks `11` — #health
+- [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `49`, backlinks `38`, outlinks `11` — #health
 - [[health/Thuyết Vi Sinh Nội Sinh|Thuyết Vi Sinh Nội Sinh (Terrain Theory)]] — degree `36`, backlinks `25`, outlinks `11` — #health, #terrain-theory
 - [[health/Kính Chiếu Yêu - Nhìn Thấu Tây Y|Kính Chiếu Yêu — Nhìn Thấu Tây Y]] — degree `31`, backlinks `21`, outlinks `10` — #health
 - [[health/index|Health Domain Gateway]] — degree `30`, backlinks `2`, outlinks `28` — #domain-gateway, #health, #sovereignty
@@ -66,7 +66,7 @@ Recommended note types:
 - [[health/René Quinton và Huyết Tương Biển|René Quinton và Huyết Tương Biển]] — degree `20`, backlinks `15`, outlinks `5` — #health, #minerals, #seawater, #terrain-theory
 - [[health/Ung Thư - Metabolic Protocol|Ung Thư — Metabolic Protocol]] — degree `19`, backlinks `12`, outlinks `7` — #cancer, #health, #metabolic-therapy, #protocol
 - [[health/Ketogenic Diet|Ketogenic Diet]] — degree `18`, backlinks `11`, outlinks `7` — #cancer, #health, #metabolism, #sovereignty
-- [[health/Cơ Chế Tự Bảo Vệ Của Cơ Thể|Cơ Chế Tự Bảo Vệ Của Cơ Thể]] — degree `17`, backlinks `12`, outlinks `5` — #health, #immune-system, #terrain-theory
+- [[health/Cơ Chế Tự Bảo Vệ Của Cơ Thể|Cơ Chế Tự Bảo Vệ Của Cơ Thể]] — degree `16`, backlinks `11`, outlinks `5` — #health, #immune-system, #terrain-theory
 - [[health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh|Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh]] — degree `16`, backlinks `9`, outlinks `7` — #age-of-aquarius, #healing, #health, #occult, #prophecy
 - [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]] — degree `15`, backlinks `10`, outlinks `5` — #health, #medical-industrial-complex, #pharma
 - … 15 more notes in this domain. See JSON for full list.
@@ -173,7 +173,7 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…
 10. [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `51` · backlinks `19` · outlinks `32`
    - **Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Trước khi tin hoặc phủ định bất kỳ điều gì, hãy nhận biết chính tiến trình thấy đang xảy ra.…
-11. [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `50` · backlinks `39` · outlinks `11`
+11. [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `49` · backlinks `38` · outlinks `11`
    - **Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…
 12. [[mental-models/Individuation|Individuation]] — degree `48` · backlinks `40` · outlinks `8`
    - **Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là bước tâ…
@@ -267,7 +267,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[science-tech/Tần Số Schumann|Tần Số Schumann (Schumann Resonance)]]
 - [[science-tech/Digital ID Normalization - From Instagram to Government ID|Digital ID Normalization - From Instagram to Government ID]]
 - [[science-tech/AI|AI]]
-- [[health/Cơ Chế Tự Bảo Vệ Của Cơ Thể|Cơ Chế Tự Bảo Vệ Của Cơ Thể]]
+- [[health/Ketogenic Diet|Ketogenic Diet]]
 
 ### MOC - Epistemology & Propaganda
 

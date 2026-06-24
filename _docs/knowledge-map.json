@@ -11,8 +11,8 @@
       "politics-conspiracy": 27,
       "science-tech": 18
     },
-    "tags": 234,
-    "wikilinkEdges": 2215,
+    "tags": 235,
+    "wikilinkEdges": 2212,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -7025,7 +7025,6 @@
           "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
           "index.md",
           "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
           "MOC - Health Sovereignty.md",
           "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
           "science-tech/Khoa Học Xét Lại.md"
@@ -7735,7 +7734,6 @@
           "health/Thuyết Vi Sinh Nội Sinh.md",
           "health/Y Tế Tự Nhiên.md",
           "index.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
           "MOC - Health Sovereignty.md"
         ],
         "words": 1110,
@@ -8354,8 +8352,8 @@
           "health"
         ],
         "aliases": [
-          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
-          "Tần số cộng hưởng giữa Muối và Tuyến tùng"
+          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
         ],
         "headings": [
           "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -9771,75 +9769,6 @@
         "summary": "**Mô Hình Địa Tâm đặt Trái Đất ở trung tâm quan sát của vũ trụ. Nhưng giá trị lớn nhất của bài này không phải bắt người đọc “tin Địa Tâm”, mà là dùng Địa Tâm như một epistemic stress test: làm sao ta biết mô hình vũ trụ mình tin là do tự kiểm chứng, chứ không…"
       },
       {
-        "path": "mental-models/Thông Minh vs Trí Tuệ.md",
-        "title": "Thông Minh vs Trí Tuệ",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model",
-          "philosophy"
-        ],
-        "aliases": [
-          "Intelligence vs Wisdom",
-          "Smart vs Wise"
-        ],
-        "headings": [
-          "Thông Minh vs Trí Tuệ (Intelligence vs Wisdom)",
-          "Vault Position / Vị Trí Trong Vault",
-          "Bản Đồ Nhanh / Quick Map",
-          "Khác Biệt Gốc / Root Difference",
-          "Trong Đối Nhân Xử Thế / Human Dealings",
-          "Trong Học Tập & Kiến Thức / Learning",
-          "Trong Sức Khỏe / Health Sovereignty",
-          "Trong Tiền Bạc & Thành Công / Wealth",
-          "Vì Sao Ma Trận Thích Người Thông Minh Nhưng Sợ Người Trí Tuệ",
-          "Nhận Diện Trong Đời Thường / Recognition",
-          "Kết Luận / Conclusion",
-          "Related / Liên quan",
-          "Intelligence Tìm Upside, Wisdom Quản Downside"
-        ],
-        "wikilinks": [
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-          "Individuation",
-          "Ma Trận",
-          "Nghịch Lý Của Hiểu Biết",
-          "Thông Minh",
-          "Trí Tuệ",
-          "Tư Duy Lũy Thừa",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Y Tế Tự Nhiên.md",
-          "mental-models/Individuation.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tư Duy Lũy Thừa.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "esoterica/Atula.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "index.md",
-          "mental-models/index.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "MOC - Market Psychology & Risk.md",
-          "science-tech/AI.md",
-          "science-tech/index.md"
-        ],
-        "words": 1498,
-        "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không.** Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trậ…"
-      },
-      {
         "path": "mental-models/Nguyên Mẫu.md",
         "title": "Nguyên Mẫu",
         "domain": "mental-models",
@@ -9901,6 +9830,69 @@
         "summary": "**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là \"nhân vật trong thần thoại\". Chúng là phần mềm biểu tượng khiến con người nhận ra King, Mothe…"
       },
       {
+        "path": "mental-models/Thông Minh vs Trí Tuệ.md",
+        "title": "Thông Minh vs Trí Tuệ",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model",
+          "philosophy",
+          "wisdom"
+        ],
+        "aliases": [
+          "Intelligence vs Wisdom",
+          "Smart vs Wise",
+          "Thông Minh và Trí Tuệ"
+        ],
+        "headings": [
+          "Thông Minh vs Trí Tuệ (Intelligence vs Wisdom)",
+          "Vault Position / Vị Trí Trong Vault",
+          "Khác Biệt Gốc",
+          "Ma Trận Thích Người Thông Minh Nhưng Sợ Người Trí Tuệ",
+          "Trong Đối Nhân Xử Thế",
+          "Trong Học Tập Và Knowledge",
+          "Trong Tiền Bạc",
+          "Trong Sức Khỏe",
+          "Dấu Hiệu Nhận Biết",
+          "Kết",
+          "Reading Path / Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Individuation",
+          "Ma Trận",
+          "Nghịch Lý Của Hiểu Biết",
+          "Thông Minh",
+          "Trí Tuệ"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "mental-models/Individuation.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Trí Tuệ.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "esoterica/Atula.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "MOC - Market Psychology & Risk.md",
+          "science-tech/AI.md",
+          "science-tech/index.md"
+        ],
+        "words": 1370,
+        "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không. Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trận.…"
+      },
+      {
         "path": "mental-models/Tư Duy Lũy Thừa.md",
         "title": "Tư Duy Lũy Thừa",
         "domain": "mental-models",
@@ -9954,7 +9946,6 @@
           "mental-models/Privacy Is The New Wealth.md",
           "mental-models/Schadenfreude - Dopamine Phản Diện.md",
           "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
           "MOC - Financial Sovereignty.md",
           "MOC - Market Psychology & Risk.md"
         ],
@@ -17553,7 +17544,6 @@
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "index.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
         "MOC - Health Sovereignty.md",
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
         "science-tech/Khoa Học Xét Lại.md"
@@ -28527,7 +28517,6 @@
         "health/Thuyết Vi Sinh Nội Sinh.md",
         "health/Y Tế Tự Nhiên.md",
         "index.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
         "MOC - Health Sovereignty.md"
       ],
       "words": 1110,
@@ -29593,8 +29582,8 @@
         "health"
       ],
       "aliases": [
-        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
-        "Tần số cộng hưởng giữa Muối và Tuyến tùng"
+        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
       ],
       "headings": [
         "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -29998,7 +29987,6 @@
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "index.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
         "MOC - Health Sovereignty.md",
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
         "science-tech/Khoa Học Xét Lại.md"
@@ -32039,49 +32027,43 @@
       "domain": "mental-models",
       "tags": [
         "mental-model",
-        "philosophy"
+        "philosophy",
+        "wisdom"
       ],
       "aliases": [
         "Intelligence vs Wisdom",
-        "Smart vs Wise"
+        "Smart vs Wise",
+        "Thông Minh và Trí Tuệ"
       ],
       "headings": [
         "Thông Minh vs Trí Tuệ (Intelligence vs Wisdom)",
         "Vault Position / Vị Trí Trong Vault",
-        "Bản Đồ Nhanh / Quick Map",
-        "Khác Biệt Gốc / Root Difference",
-        "Trong Đối Nhân Xử Thế / Human Dealings",
-        "Trong Học Tập & Kiến Thức / Learning",
-        "Trong Sức Khỏe / Health Sovereignty",
-        "Trong Tiền Bạc & Thành Công / Wealth",
-        "Vì Sao Ma Trận Thích Người Thông Minh Nhưng Sợ Người Trí Tuệ",
-        "Nhận Diện Trong Đời Thường / Recognition",
-        "Kết Luận / Conclusion",
-        "Related / Liên quan",
-        "Intelligence Tìm Upside, Wisdom Quản Downside"
+        "Khác Biệt Gốc",
+        "Ma Trận Thích Người Thông Minh Nhưng Sợ Người Trí Tuệ",
+        "Trong Đối Nhân Xử Thế",
+        "Trong Học Tập Và Knowledge",
+        "Trong Tiền Bạc",
+        "Trong Sức Khỏe",
+        "Dấu Hiệu Nhận Biết",
+        "Kết",
+        "Reading Path / Đọc Tiếp"
       ],
       "wikilinks": [
-        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Individuation",
         "Ma Trận",
         "Nghịch Lý Của Hiểu Biết",
         "Thông Minh",
-        "Trí Tuệ",
-        "Tư Duy Lũy Thừa",
-        "Y Tế Tự Nhiên"
+        "Trí Tuệ"
       ],
       "mdlinks": [],
       "outlinks": [
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "esoterica/Ma Trận.md",
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Y Tế Tự Nhiên.md",
         "mental-models/Individuation.md",
         "mental-models/Thông Minh.md",
-        "mental-models/Trí Tuệ.md",
-        "mental-models/Tư Duy Lũy Thừa.md"
+        "mental-models/Trí Tuệ.md"
       ],
       "backlinks": [
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
@@ -32099,8 +32081,8 @@
         "science-tech/AI.md",
         "science-tech/index.md"
       ],
-      "words": 1498,
-      "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không.** Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trậ…"
+      "words": 1370,
+      "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không. Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trận.…"
     },
     "mental-models/Thông Minh.md": {
       "path": "mental-models/Thông Minh.md",
@@ -32683,7 +32665,6 @@
         "mental-models/Privacy Is The New Wealth.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
         "MOC - Financial Sovereignty.md",
         "MOC - Market Psychology & Risk.md"
       ],
