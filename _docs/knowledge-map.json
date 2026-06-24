@@ -12,7 +12,7 @@
       "science-tech": 18
     },
     "tags": 235,
-    "wikilinkEdges": 2212,
+    "wikilinkEdges": 2202,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -1378,8 +1378,8 @@
         "aliases": [
           "Money",
           "Money... (P.1)",
-          "Tiền",
           "tiền",
+          "Tiền",
           "Tiền tiền tiền",
           "tiền... (P.1) / Money"
         ],
@@ -1874,7 +1874,6 @@
           "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Vô Thức Tập Thể.md",
           "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
         ],
         "words": 2747,
@@ -2594,6 +2593,7 @@
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "MOC - Epistemology & Propaganda.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -2761,7 +2761,6 @@
           "index.md",
           "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
           "MOC - Ancient Civilizations & Hidden History.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Bức Tường Băng.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/Mudflood.md",
@@ -3018,6 +3017,81 @@
         "summary": "**Vũ Trụ Học Phật Giáo** không chỉ là bản đồ \"trời đất\" theo nghĩa vật lý. Nó là một cấu trúc biểu tượng - đạo đức - tâm thức mô tả các cõi tồn tại, chu kỳ thành trụ hoại không, nghiệp, tái sinh và vị trí đặc biệt của cõi người. Đọc đúng, nó không cần cạnh tr…"
       },
       {
+        "path": "esoterica/Tinh Khí Thần.md",
+        "title": "Tinh Khí Thần",
+        "domain": "esoterica",
+        "tags": [
+          "energy",
+          "esoterica",
+          "sexuality",
+          "taoism"
+        ],
+        "aliases": [
+          "Jing Qi Shen",
+          "Jing-Qi-Shen",
+          "Tam Bảo",
+          "Three Treasures"
+        ],
+        "headings": [
+          "Tinh Khí Thần (Three Treasures)",
+          "Vault Position / Vị Trí Trong Vault",
+          "1. Tam Bảo Là Gì?",
+          "2. Tinh / Jing",
+          "3. Khí / Qi",
+          "4. Thần / Shen",
+          "5. Chuyển Hóa: Tinh → Khí → Thần",
+          "6. S.E.X Và Tam Bảo",
+          "7. Ma Trận Tấn Công Tam Bảo Như Nào?",
+          "8. Practice / Thực Hành",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Individuation",
+          "Ma Trận",
+          "MOC - Esoterica & Consciousness",
+          "Năng Lượng Tình Dục",
+          "S.E.X",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tuyến Tùng",
+          "Đạo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Đạo.md",
+          "health/Tuyến Tùng.md",
+          "mental-models/Individuation.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/index.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Núi Tu Di.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+          "science-tech/Nikola Tesla.md"
+        ],
+        "words": 874,
+        "summary": "**Tinh Khí Thần là Tam Bảo của con người trong Đạo gia: Tinh là essence/sinh lực gốc, Khí là dòng năng lượng vận hành, Thần là clarity/consciousness. Đây không phải ba “chất” tách rời, mà là ba tầng chuyển hóa của cùng một sinh lực.**"
+      },
+      {
         "path": "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
         "title": "Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng",
         "domain": "esoterica",
@@ -3093,87 +3167,11 @@
           "mental-models/Vô Thức Tập Thể.md",
           "MOC - Epistemology & Propaganda.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
         "words": 2515,
         "summary": "**World Cup, Euro và Super Bowl halftime show không chỉ là giải đấu hoặc giải trí. Chúng là những nghi lễ đồng bộ đại chúng: hàng trăm triệu đến hàng tỷ nervous systems cùng nhìn một sân khấu, cùng nghe một nhịp, cùng nhận một bộ symbol, cùng bước vào một emo…"
-      },
-      {
-        "path": "esoterica/Tinh Khí Thần.md",
-        "title": "Tinh Khí Thần",
-        "domain": "esoterica",
-        "tags": [
-          "energy",
-          "esoterica",
-          "sexuality",
-          "taoism"
-        ],
-        "aliases": [
-          "Jing Qi Shen",
-          "Jing-Qi-Shen",
-          "Tam Bảo",
-          "Three Treasures"
-        ],
-        "headings": [
-          "Tinh Khí Thần (Three Treasures)",
-          "Vault Position / Vị Trí Trong Vault",
-          "1. Tam Bảo Là Gì?",
-          "2. Tinh / Jing",
-          "3. Khí / Qi",
-          "4. Thần / Shen",
-          "5. Chuyển Hóa: Tinh → Khí → Thần",
-          "6. S.E.X Và Tam Bảo",
-          "7. Ma Trận Tấn Công Tam Bảo Như Nào?",
-          "8. Practice / Thực Hành",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Individuation",
-          "Ma Trận",
-          "MOC - Esoterica & Consciousness",
-          "Năng Lượng Tình Dục",
-          "S.E.X",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tuyến Tùng",
-          "Đạo"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Đạo.md",
-          "health/Tuyến Tùng.md",
-          "mental-models/Individuation.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Chakra.md",
-          "esoterica/index.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Núi Tu Di.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-          "science-tech/Nikola Tesla.md"
-        ],
-        "words": 874,
-        "summary": "**Tinh Khí Thần là Tam Bảo của con người trong Đạo gia: Tinh là essence/sinh lực gốc, Khí là dòng năng lượng vận hành, Thần là clarity/consciousness. Đây không phải ba “chất” tách rời, mà là ba tầng chuyển hóa của cùng một sinh lực.**"
       },
       {
         "path": "esoterica/Atlantis.md",
@@ -3770,85 +3768,6 @@
         "summary": "**Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo ra nó.** Đọc nông, karma thành công cụ dọa dân. Đọc sâu, karma là cơ chế học của linh h…"
       },
       {
-        "path": "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-        "title": "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
-        "domain": "esoterica",
-        "tags": [
-          "science-tech"
-        ],
-        "aliases": [
-          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể"
-        ],
-        "headings": [
-          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Cách Đọc Bài Này",
-          "Pattern Reading Không Phải Đoán Mò",
-          "Hai Case Calibration: Argentina 2022 Và Spain Euro 2024",
-          "Từ Khóa Cần Hiểu",
-          "Calibration Bằng Dữ Liệu: Myth Không Được Bay Khỏi Sân Cỏ",
-          "Brazil 2026 Watchlist: Dữ Liệu Nào Sẽ Xác Nhận Hoặc Phá Thesis?",
-          "Pre-Tournament Snapshot — 4/6/2026",
-          "World Cup 26 Là Gì Nếu Không Phải Một Hero Stage?",
-          "WE ARE 26 Và Sự Tan Của Một Trung Tâm Duy Nhất",
-          "26, 8 Và Back-To-Back Loop",
-          "2002 → 2026: Ba Vòng 8 Và Một Chu Kỳ Brazil Return",
-          "TRIONDA: Ba Làn Sóng Và Một Tournament Không Có Một Mũi Nhọn",
-          "Gematria Nhẹ: Khi Số Không Chứng Minh, Nhưng Tạo Texture",
-          "Brazil Không Cần Neymar Để Là Brazil",
-          "Vinícius, Endrick, Rodrygo Và Cái Bẫy Của Một Gương Mặt Mới",
-          "IShowSpeed, Brazil Flag Và Creator-Culture Omen",
-          "Spain Và England: Data Pick Không Phải Myth Pick",
-          "Khi Một Nhà Vô Địch Không Cần Được Nhớ Bằng Một Gương Mặt",
-          "Hint Không Nhất Thiết Là Script",
-          "Synthesis: World Cup 26, Brazil Và Kỷ Luật Đọc Pattern",
-          "Publication Pack / Disclosure & Spectacle",
-          "Related"
-        ],
-        "wikilinks": [
-          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Gematria",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Ma Trận",
-          "MOC - Epistemology & Propaganda",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
-          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gematria.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-        ],
-        "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/index.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "index.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/index.md"
-        ],
-        "words": 5657,
-        "summary": "**Nếu World Cup 2022 là nghi lễ hoàn tất myth cá nhân của Messi, World Cup 2026 có vẻ đang được dựng như một nghi lễ tập thể: ba quốc gia, bốn mươi tám đội, ba làn sóng, nhiều thành phố, nhiều poster, nhiều concert, nhiều creator và một field truyền thông phâ…"
-      },
-      {
         "path": "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "title": "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
         "domain": "esoterica",
@@ -4014,6 +3933,84 @@
         ],
         "words": 1261,
         "summary": "**S.E.X** trong cách đọc esoteric là **Sacred Energy eXchange**: trao đổi năng lượng thiêng liêng. Điều này không phủ định sinh học, khoái cảm hay tâm lý. Nó đặt tình dục vào đúng độ sâu: một hành động nơi thân thể, hệ thần kinh, ký ức, hormone, vô thức, nghi…"
+      },
+      {
+        "path": "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+        "title": "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+        "domain": "esoterica",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [
+          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể"
+        ],
+        "headings": [
+          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc Bài Này",
+          "Pattern Reading Không Phải Đoán Mò",
+          "Hai Case Calibration: Argentina 2022 Và Spain Euro 2024",
+          "Từ Khóa Cần Hiểu",
+          "Calibration Bằng Dữ Liệu: Myth Không Được Bay Khỏi Sân Cỏ",
+          "Brazil 2026 Watchlist: Dữ Liệu Nào Sẽ Xác Nhận Hoặc Phá Thesis?",
+          "Pre-Tournament Snapshot — 4/6/2026",
+          "World Cup 26 Là Gì Nếu Không Phải Một Hero Stage?",
+          "WE ARE 26 Và Sự Tan Của Một Trung Tâm Duy Nhất",
+          "26, 8 Và Back-To-Back Loop",
+          "2002 → 2026: Ba Vòng 8 Và Một Chu Kỳ Brazil Return",
+          "TRIONDA: Ba Làn Sóng Và Một Tournament Không Có Một Mũi Nhọn",
+          "Gematria Nhẹ: Khi Số Không Chứng Minh, Nhưng Tạo Texture",
+          "Brazil Không Cần Neymar Để Là Brazil",
+          "Vinícius, Endrick, Rodrygo Và Cái Bẫy Của Một Gương Mặt Mới",
+          "IShowSpeed, Brazil Flag Và Creator-Culture Omen",
+          "Spain Và England: Data Pick Không Phải Myth Pick",
+          "Khi Một Nhà Vô Địch Không Cần Được Nhớ Bằng Một Gương Mặt",
+          "Hint Không Nhất Thiết Là Script",
+          "Synthesis: World Cup 26, Brazil Và Kỷ Luật Đọc Pattern",
+          "Publication Pack / Disclosure & Spectacle",
+          "Related"
+        ],
+        "wikilinks": [
+          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Gematria",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Ma Trận",
+          "MOC - Epistemology & Propaganda",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/index.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "index.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/index.md"
+        ],
+        "words": 5657,
+        "summary": "**Nếu World Cup 2022 là nghi lễ hoàn tất myth cá nhân của Messi, World Cup 2026 có vẻ đang được dựng như một nghi lễ tập thể: ba quốc gia, bốn mươi tám đội, ba làn sóng, nhiều thành phố, nhiều poster, nhiều concert, nhiều creator và một field truyền thông phâ…"
       },
       {
         "path": "esoterica/Gematria.md",
@@ -4415,71 +4412,6 @@
         "summary": "Mọi nền văn minh cổ đại lớn trên thế giới — không có liên lạc với nhau — đều độc lập tôn thờ Trái Đất như một **ý thức sống**. Khoa học hiện đại đặt tên là Gaia Hypothesis (1972) và giả vờ đây là ý tưởng mới."
       },
       {
-        "path": "esoterica/Saturn Cube.md",
-        "title": "Saturn Cube (Khối Lập Phương Sao Thổ)",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "matrix",
-          "saturn",
-          "symbolism"
-        ],
-        "aliases": [
-          "Black Cube Saturn",
-          "Khối Lập Phương Sao Thổ",
-          "Saturn Cube",
-          "Saturn Symbolism"
-        ],
-        "headings": [
-          "Saturn Cube (Khối Lập Phương Sao Thổ)",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Saturn Không Chỉ Là “Xấu”",
-          "Hexagon Và Cube",
-          "Black Cube Motif",
-          "Khi Nào Lens Này Hữu Dụng?",
-          "Saturnian AI",
-          "Escape Là Tích Hợp, Không Phá Form",
-          "Kết",
-          "Reading Path / Đọc Tiếp"
-        ],
-        "wikilinks": [
-          "AI",
-          "Gematria",
-          "Gnosis",
-          "Ma Trận",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "MOC - Esoterica & Consciousness",
-          "Monad",
-          "Sự Nhất Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gematria.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "MOC - Esoterica & Consciousness.md",
-          "science-tech/AI.md"
-        ],
-        "backlinks": [
-          "esoterica/Biểu Tượng Baphomet.md",
-          "esoterica/Gematria.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/index.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "mental-models/Nguyên Mẫu.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Dark MAGA.md",
-          "science-tech/AI.md"
-        ],
-        "words": 1172,
-        "summary": "**Saturn Cube là lens biểu tượng để đọc giới hạn, thời gian, vật chất, luật, grid và cấu trúc giam giữ của cõi 3D. Nó không phải bằng chứng độc lập rằng “Sao Thổ điều khiển thế giới”; nó là một mặt mã hình ảnh giúp thấy cách power dùng hình khối, màu đen, vòn…"
-      },
-      {
         "path": "esoterica/Tình Yêu Tỉnh Thức.md",
         "title": "Tình Yêu Tỉnh Thức",
         "domain": "esoterica",
@@ -4607,6 +4539,70 @@
         ],
         "words": 1154,
         "summary": "**Atula là archetype của quyền lực có phước nhưng thiếu an định: mạnh, thông minh, tham vọng, hiếu thắng, nhưng bị ganh tị và chiến tranh nội tâm kéo đi.** Trong vault, Atula không chỉ là một \"cõi\" trong Luân Hồi, mà là mô hình đọc phần Asura trong cá nhân, t…"
+      },
+      {
+        "path": "esoterica/Saturn Cube.md",
+        "title": "Saturn Cube (Khối Lập Phương Sao Thổ)",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "matrix",
+          "saturn",
+          "symbolism"
+        ],
+        "aliases": [
+          "Black Cube Saturn",
+          "Khối Lập Phương Sao Thổ",
+          "Saturn Cube",
+          "Saturn Symbolism"
+        ],
+        "headings": [
+          "Saturn Cube (Khối Lập Phương Sao Thổ)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Saturn Không Chỉ Là “Xấu”",
+          "Hexagon Và Cube",
+          "Black Cube Motif",
+          "Khi Nào Lens Này Hữu Dụng?",
+          "Saturnian AI",
+          "Escape Là Tích Hợp, Không Phá Form",
+          "Kết",
+          "Reading Path / Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "AI",
+          "Gematria",
+          "Gnosis",
+          "Ma Trận",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "MOC - Esoterica & Consciousness",
+          "Monad",
+          "Sự Nhất Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "MOC - Esoterica & Consciousness.md",
+          "science-tech/AI.md"
+        ],
+        "backlinks": [
+          "esoterica/Biểu Tượng Baphomet.md",
+          "esoterica/Gematria.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/index.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "mental-models/Nguyên Mẫu.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Dark MAGA.md",
+          "science-tech/AI.md"
+        ],
+        "words": 1172,
+        "summary": "**Saturn Cube là lens biểu tượng để đọc giới hạn, thời gian, vật chất, luật, grid và cấu trúc giam giữ của cõi 3D. Nó không phải bằng chứng độc lập rằng “Sao Thổ điều khiển thế giới”; nó là một mặt mã hình ảnh giúp thấy cách power dùng hình khối, màu đen, vòn…"
       },
       {
         "path": "esoterica/Tà Linh.md",
@@ -5268,88 +5264,6 @@
         "summary": "Trong văn hóa hiện đại, **lover** và **soulmate** thường bị nhầm lẫn. Intense chemistry được gọi là \"soulmate connection\", trong khi true soul recognition bị bỏ qua vì thiếu drama. Bài này phân tích sự khác biệt qua lens tâm lý học và esoteric."
       },
       {
-        "path": "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-        "title": "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "predictive-programming"
-        ],
-        "aliases": [
-          "Dream Manipulation",
-          "Idea Planting",
-          "Inception Analysis"
-        ],
-        "headings": [
-          "Inception — Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Core Concept: Inception — Cấy Ý Tưởng",
-          "Tại Sao Không Thể \"Nói Thẳng\"?",
-          "Điều Kiện Để Inception Thành Công",
-          "Dream Layers — Tầng Ý Thức",
-          "Cấu Trúc Trong Phim",
-          "Limbo — Tầng Sâu Nhất",
-          "Áp Dụng Vào Thực Tế / Real World Application",
-          "Cách Elite \"Inception\" Nhân Loại",
-          "Ví Dụ Cụ Thể: Nice Guy Syndrome",
-          "Ví Dụ: Consumerism",
-          "Ví Dụ: Fear of Being Different",
-          "Projections — Hệ Miễn Dịch Của Tâm Trí",
-          "Trong Phim",
-          "Trong Thực Tế",
-          "Totem — Cách Biết Mình Đang Dream",
-          "Trong Phim",
-          "Trong Thực Tế",
-          "Mal — Inception Đi Sai",
-          "Trong Phim",
-          "Bài Học",
-          "Disclosure Hay Coincidence?",
-          "Tại Sao Elite Cần Disclose?",
-          "Evidence Inception Là Disclosure",
-          "Các Phim Disclosure Khác",
-          "Tự Bảo Vệ / Self-Protection",
-          "1. Trace Origin Của Ideas",
-          "2. Observe Projections",
-          "3. Build Your Totem",
-          "4. Question \"Natural\" Feelings",
-          "Kết: Wake Up Call",
-          "Related",
-          "Kiểm Soát Tâm Trí / Mind Control",
-          "Ma Trận / Matrix",
-          "Predictive Programming"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Gen Z - Phân Tích Phản Biện",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "Nghịch Lý Của Hiểu Biết",
-          "Tâm Lý Học Jung",
-          "Tâm Lý Học Tiến Hóa Về Giới Tính",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-        ],
-        "backlinks": [
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
-        ],
-        "words": 1656,
-        "summary": "Inception (2010) của Christopher Nolan không chỉ là phim giải trí. Đây có thể là **disclosure** — Elite nói thẳng cách họ manipulate nhân loại, ẩn dưới lớp vỏ \"fiction\"."
-      },
-      {
         "path": "esoterica/Phong Thủy.md",
         "title": "Phong Thủy",
         "domain": "esoterica",
@@ -5511,6 +5425,87 @@
         ],
         "words": 1362,
         "summary": "**Baphomet là một biểu tượng của đối cực bị nén vào một thân: người và thú, nam và nữ, trên và dưới, sáng và tối, linh và dục.** Đọc nông, nó chỉ là \"hình Satan\". Đọc kỹ, nó là một bài test về symbolic literacy: người nhìn có phân biệt được lịch sử, huyền học…"
+      },
+      {
+        "path": "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "title": "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "predictive-programming"
+        ],
+        "aliases": [
+          "Dream Manipulation",
+          "Idea Planting",
+          "Inception Analysis"
+        ],
+        "headings": [
+          "Inception — Predictive Programming Về Kiểm Soát Tâm Trí",
+          "Core Concept: Inception — Cấy Ý Tưởng",
+          "Tại Sao Không Thể \"Nói Thẳng\"?",
+          "Điều Kiện Để Inception Thành Công",
+          "Dream Layers — Tầng Ý Thức",
+          "Cấu Trúc Trong Phim",
+          "Limbo — Tầng Sâu Nhất",
+          "Áp Dụng Vào Thực Tế / Real World Application",
+          "Cách Elite \"Inception\" Nhân Loại",
+          "Ví Dụ Cụ Thể: Nice Guy Syndrome",
+          "Ví Dụ: Consumerism",
+          "Ví Dụ: Fear of Being Different",
+          "Projections — Hệ Miễn Dịch Của Tâm Trí",
+          "Trong Phim",
+          "Trong Thực Tế",
+          "Totem — Cách Biết Mình Đang Dream",
+          "Trong Phim",
+          "Trong Thực Tế",
+          "Mal — Inception Đi Sai",
+          "Trong Phim",
+          "Bài Học",
+          "Disclosure Hay Coincidence?",
+          "Tại Sao Elite Cần Disclose?",
+          "Evidence Inception Là Disclosure",
+          "Các Phim Disclosure Khác",
+          "Tự Bảo Vệ / Self-Protection",
+          "1. Trace Origin Của Ideas",
+          "2. Observe Projections",
+          "3. Build Your Totem",
+          "4. Question \"Natural\" Feelings",
+          "Kết: Wake Up Call",
+          "Related",
+          "Kiểm Soát Tâm Trí / Mind Control",
+          "Ma Trận / Matrix",
+          "Predictive Programming"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Gen Z - Phân Tích Phản Biện",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Nghịch Lý Của Hiểu Biết",
+          "Tâm Lý Học Jung",
+          "Tâm Lý Học Tiến Hóa Về Giới Tính",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        ],
+        "backlinks": [
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md"
+        ],
+        "words": 1656,
+        "summary": "Inception (2010) của Christopher Nolan không chỉ là phim giải trí. Đây có thể là **disclosure** — Elite nói thẳng cách họ manipulate nhân loại, ẩn dưới lớp vỏ \"fiction\"."
       },
       {
         "path": "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
@@ -6230,56 +6225,6 @@
         "summary": "*The Soul's Journey and the Power of Conscious Love*"
       },
       {
-        "path": "esoterica/Manly P. Hall.md",
-        "title": "Manly P. Hall",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "freemasonry",
-          "symbolism"
-        ],
-        "aliases": [
-          "33rd Degree Mason",
-          "Manly Palmer Hall",
-          "The Secret Teachings of All Ages"
-        ],
-        "headings": [
-          "Manly P. Hall: Người Giải Mã Biểu Tượng",
-          "Vault Position / Vị Trí Trong Bản Đồ",
-          "Claim Discipline / Kỷ Luật Đọc",
-          "The Secret Teachings / Cánh Cửa Vào Mysteries",
-          "Freemasonry Và Cấp 33 / Freemasonry And The 33rd Degree",
-          "Symbolism As Operating System / Biểu Tượng Như Hệ Điều Hành",
-          "Hall Không Phải Giáo Chủ / Not A Guru",
-          "Ứng Dụng Trong Vault / How The Vault Uses Hall",
-          "Kết Luận / Closing"
-        ],
-        "wikilinks": [
-          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
-          "Cabal",
-          "Gematria",
-          "Gnosis",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "MOC - Esoterica & Consciousness"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Gematria.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "esoterica/Gematria.md",
-          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
-        ],
-        "words": 915,
-        "summary": "**Manly Palmer Hall quan trọng không phải vì ông “biết hết bí mật”. Ông quan trọng vì ông cho thấy giới hiện đại đã quên một ngôn ngữ mà các truyền thống quyền lực vẫn dùng: biểu tượng, nghi lễ, số học, kiến trúc và initiation.**"
-      },
-      {
         "path": "esoterica/Năng Lượng Natri.md",
         "title": "Năng Lượng Natri (Sodium Energy)",
         "domain": "esoterica",
@@ -6532,6 +6477,55 @@
         ],
         "words": 902,
         "summary": "*Kogi Meditation Technique*"
+      },
+      {
+        "path": "esoterica/Manly P. Hall.md",
+        "title": "Manly P. Hall",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "freemasonry",
+          "symbolism"
+        ],
+        "aliases": [
+          "33rd Degree Mason",
+          "Manly Palmer Hall",
+          "The Secret Teachings of All Ages"
+        ],
+        "headings": [
+          "Manly P. Hall: Người Giải Mã Biểu Tượng",
+          "Vault Position / Vị Trí Trong Bản Đồ",
+          "Claim Discipline / Kỷ Luật Đọc",
+          "The Secret Teachings / Cánh Cửa Vào Mysteries",
+          "Freemasonry Và Cấp 33 / Freemasonry And The 33rd Degree",
+          "Symbolism As Operating System / Biểu Tượng Như Hệ Điều Hành",
+          "Hall Không Phải Giáo Chủ / Not A Guru",
+          "Ứng Dụng Trong Vault / How The Vault Uses Hall",
+          "Kết Luận / Closing"
+        ],
+        "wikilinks": [
+          "33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí",
+          "Cabal",
+          "Gematria",
+          "Gnosis",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "MOC - Esoterica & Consciousness"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Gematria.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "esoterica/Gematria.md",
+          "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md"
+        ],
+        "words": 915,
+        "summary": "**Manly Palmer Hall quan trọng không phải vì ông “biết hết bí mật”. Ông quan trọng vì ông cho thấy giới hiện đại đã quên một ngôn ngữ mà các truyền thống quyền lực vẫn dùng: biểu tượng, nghi lễ, số học, kiến trúc và initiation.**"
       },
       {
         "path": "esoterica/Tartaria và Vạn Lý Trường Thành.md",
@@ -8352,8 +8346,8 @@
           "health"
         ],
         "aliases": [
-          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
+          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
+          "Tần số cộng hưởng giữa Muối và Tuyến tùng"
         ],
         "headings": [
           "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -11313,7 +11307,6 @@
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Bức Tường Băng.md",
           "politics-conspiracy/Dark MAGA.md",
           "politics-conspiracy/index.md",
@@ -11421,7 +11414,6 @@
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "MOC - Epistemology & Propaganda.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Bức Tường Băng.md",
           "politics-conspiracy/Elite.md",
           "politics-conspiracy/index.md",
@@ -11667,126 +11659,6 @@
         "summary": "**Agenda 2030 không cần được đọc như một âm mưu cartoon. Nó đáng đọc như một hệ điều hành quản trị đang hiện hình qua các mảnh tưởng như rời rạc: khí hậu, y tế, tiền tệ số, danh tính số, thành phố thông minh, dữ liệu hành vi, ESG, AI governance và ngôn ngữ đạ…"
       },
       {
-        "path": "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "title": "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "science-tech"
-        ],
-        "aliases": [
-          "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood"
-        ],
-        "headings": [
-          "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
-          "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Tổng Quan / Overview",
-          "Cùng Một Công Thức / Same Formula",
-          "I. NASA — Phim Hoạt Hình Cho Người Lớn / Adult Cartoons",
-          "Origin Story: Operation Paperclip",
-          "Jack Parsons: Occult Father of NASA",
-          "Von Braun + Disney Connection",
-          "NASA = Expensive CGI Studio?",
-          "II. Disney — Programming Trẻ Em Từ Bé / Programming Children From Birth",
-          "Walt Disney: FBI Informant",
-          "Disney + Nazi Scientists",
-          "Club 33 — Freemasonry Connection",
-          "Disney + MK-Ultra: Programming Trẻ Em",
-          "Occult Symbolism in Disney",
-          "III. Hollywood — Ma Thuật Cho Người Lớn / Magic for Adults",
-          "CIA Entertainment Liaison Office",
-          "Etymology: Holy Wood",
-          "Predictive Programming Examples",
-          "IV. Connections: Cùng Một Mạng Lưới / Same Network",
-          "Operation Paperclip → All Three",
-          "Freemasonry Throughout",
-          "Crowley's Influence",
-          "V. Cơ Chế Mind Control / Mind Control Mechanism",
-          "Three-Pronged Attack",
-          "The Screen as Scrying Mirror",
-          "Disclosure / Karmic Loophole",
-          "VI. The Same Magic / Cùng Một Phép Thuật",
-          "All Three Use Same Tools",
-          "Same Outcome",
-          "VII. Practical Implications / Ứng Dụng Thực Tiễn",
-          "Khi Tiêu Thụ Media / When Consuming Media",
-          "Questions to Ask",
-          "Core Insight / Insight Cốt Lõi",
-          "Vault Connections",
-          "Related Notes",
-          "Occult & Elite",
-          "Science & Control",
-          "Sources",
-          "Operation Paperclip & NASA",
-          "Disney",
-          "Hollywood",
-          "Mind Control",
-          "Publication Pack / Disclosure & Spectacle"
-        ],
-        "wikilinks": [
-          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-          "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Cabal",
-          "Elite",
-          "Gnosis",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Khoa Học Xét Lại",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "Manly P. Hall",
-          "MOC - Epistemology & Propaganda",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Saturn Cube",
-          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
-          "Tartaria",
-          "Thuyết Trái Đất Phẳng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Manly P. Hall.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Saturn Cube.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "esoterica/Tartaria.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-          "esoterica/Atula.md",
-          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "index.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
-          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-          "politics-conspiracy/Operation Paperclip.md",
-          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-          "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 2660,
-        "summary": "**NASA**, **Disney**, và **Hollywood** thường được xem như ba ngành riêng biệt: khoa học, giải trí trẻ em, và phim người lớn. Nhưng khi truy về nguồn gốc, bạn sẽ thấy **chúng đều về một mối** — cùng mạng lưới, cùng mục đích, cùng phép thuật."
-      },
-      {
         "path": "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "title": "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
         "domain": "politics-conspiracy",
@@ -11870,7 +11742,6 @@
           "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
           "index.md",
           "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "politics-conspiracy/Operation Paperclip.md",
@@ -11950,6 +11821,76 @@
         ],
         "words": 916,
         "summary": "**Porn không chỉ là nội dung người lớn; nó là một hệ thống công nghiệp hóa ham muốn, biến năng lượng tình dục thành dopamine loop, data, shame, fantasy và dependency.** Trong vault, porn được đọc ở ba tầng cùng lúc: neurobiology của nghiện, political economy…"
+      },
+      {
+        "path": "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "title": "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "hollywood",
+          "mind-control",
+          "politics-conspiracy",
+          "science-tech"
+        ],
+        "aliases": [
+          "Bộ Tam Thánh Mind Control",
+          "Industrial Myth Trinity",
+          "NASA Disney Hollywood",
+          "Three Screens"
+        ],
+        "headings": [
+          "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
+          "Evidence Discipline / Cách Đọc",
+          "Ba Màn Hình Của Cùng Một Myth Machine",
+          "NASA: Sky Myth Cho Người Lớn",
+          "Disney: Childhood Myth Và Emotional Grammar",
+          "Hollywood: Adult Dream Factory",
+          "Space, Alien Và Disclosure Stack",
+          "Mind Control Không Nhất Thiết Là Thôi Miên Thô",
+          "Decoder Mindset",
+          "Kết",
+          "Reading Path / Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Khoa Học Xét Lại",
+          "Ma Trận",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "UAP Disclosure - Controlled Revelation"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "esoterica/Atula.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "index.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "politics-conspiracy/Operation Paperclip.md",
+          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+          "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 1525,
+        "summary": "**NASA, Disney và Hollywood thường được nhìn như ba ngành riêng: khoa học không gian, giải trí trẻ em, và phim người lớn. Nhưng trong vault, chúng còn có thể được đọc như ba màn hình của cùng một hệ myth công nghiệp: NASA quản sky myth cho người lớn cần “khoa…"
       },
       {
         "path": "politics-conspiracy/Bức Tường Băng.md",
@@ -12238,7 +12179,6 @@
           "mental-models/Mô Hình Địa Tâm.md",
           "MOC - Science Revisionism.md",
           "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Bức Tường Băng.md",
           "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
           "politics-conspiracy/Trái Đất Phẳng.md",
@@ -12636,6 +12576,7 @@
           "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
           "index.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Elite.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
@@ -13682,7 +13623,6 @@
           "MOC - Ancient Civilizations & Hidden History.md",
           "MOC - Esoterica & Consciousness.md",
           "MOC - Science Revisionism.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Bức Tường Băng.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
@@ -16433,135 +16373,6 @@
       "summary": "!Một con người đứng trước lớp giao diện trong suốt của thành phố, ký ức, truyền thông và hệ thần kinh, với tia sáng nhỏ trong tim"
     },
     {
-      "path": "politics-conspiracy/Elite.md",
-      "title": "Elite (Giới Tinh Hoa)",
-      "domain": "politics-conspiracy",
-      "tags": [
-        "elite",
-        "matrix",
-        "politics-conspiracy",
-        "power-structure"
-      ],
-      "aliases": [
-        "Cabal",
-        "Default Option Designers",
-        "Giới Tinh Hoa",
-        "Power Structure",
-        "The Global Elite"
-      ],
-      "headings": [
-        "Elite (Giới Tinh Hoa / The Global Elite)",
-        "Evidence Discipline / Cách Đọc Claim",
-        "Vault Position / Vị Trí Trong Vault",
-        "Elite Là Gì?",
-        "Bốn Hình Thức Quyền Lực",
-        "Default Options Là Quyền Lực Thật",
-        "Không Cartoon Conspiracy",
-        "Elite Và Ma Trận",
-        "Sovereignty Response",
-        "Kết",
-        "Reading Path / Đọc Tiếp"
-      ],
-      "wikilinks": [
-        "Bitcoin",
-        "Báo Cáo 2030",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Khoa Học Xét Lại",
-        "Kiểm Soát Tâm Trí",
-        "Ma Trận",
-        "MOC - Financial Sovereignty",
-        "Nghịch Lý Của Hiểu Biết",
-        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-        "Privacy",
-        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
-        "Tiền Giấy - Tiền Mặt",
-        "UAP Disclosure - Controlled Revelation"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Bitcoin.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "MOC - Financial Sovereignty.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Secular Market.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-        "esoterica/Annunaki.md",
-        "esoterica/Atlantis.md",
-        "esoterica/Atula.md",
-        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "esoterica/Biểu Tượng Baphomet.md",
-        "esoterica/Cabal.md",
-        "esoterica/Chimera.md",
-        "esoterica/Chu Kỳ Hoàng Đạo.md",
-        "esoterica/Dune - Paul Leto II Va Golden Path.md",
-        "esoterica/Gematria.md",
-        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Manly P. Hall.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-        "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-        "esoterica/Nibiru.md",
-        "esoterica/Sacred Geometry.md",
-        "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "esoterica/Tứ Linh.md",
-        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "Glossary - Từ Điển Red Pill Wiki.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "index.md",
-        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Dark MAGA.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/MAGA Và Số 42.md",
-        "politics-conspiracy/MindGeek.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
-        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "politics-conspiracy/Operation Paperclip.md",
-        "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-        "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-        "politics-conspiracy/Trái Đất Phẳng.md",
-        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Năng Lượng Aether.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-      ],
-      "words": 1561,
-      "summary": "**Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reali…"
-    },
-    {
       "path": "science-tech/Khoa Học Xét Lại.md",
       "title": "Khoa Học Xét Lại",
       "domain": "science-tech",
@@ -16715,6 +16526,134 @@
       ],
       "words": 1606,
       "summary": "**Khoa Học Xét Lại không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution: một bên là quan sát, kiểm chứng, phản biện; một bên là funding, prestige, consensus, censorship, career incentive và quyền lực.**"
+    },
+    {
+      "path": "politics-conspiracy/Elite.md",
+      "title": "Elite (Giới Tinh Hoa)",
+      "domain": "politics-conspiracy",
+      "tags": [
+        "elite",
+        "matrix",
+        "politics-conspiracy",
+        "power-structure"
+      ],
+      "aliases": [
+        "Cabal",
+        "Default Option Designers",
+        "Giới Tinh Hoa",
+        "Power Structure",
+        "The Global Elite"
+      ],
+      "headings": [
+        "Elite (Giới Tinh Hoa / The Global Elite)",
+        "Evidence Discipline / Cách Đọc Claim",
+        "Vault Position / Vị Trí Trong Vault",
+        "Elite Là Gì?",
+        "Bốn Hình Thức Quyền Lực",
+        "Default Options Là Quyền Lực Thật",
+        "Không Cartoon Conspiracy",
+        "Elite Và Ma Trận",
+        "Sovereignty Response",
+        "Kết",
+        "Reading Path / Đọc Tiếp"
+      ],
+      "wikilinks": [
+        "Bitcoin",
+        "Báo Cáo 2030",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Khoa Học Xét Lại",
+        "Kiểm Soát Tâm Trí",
+        "Ma Trận",
+        "MOC - Financial Sovereignty",
+        "Nghịch Lý Của Hiểu Biết",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "Privacy",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+        "Tiền Giấy - Tiền Mặt",
+        "UAP Disclosure - Controlled Revelation"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Bitcoin.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "MOC - Financial Sovereignty.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Secular Market.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+        "esoterica/Annunaki.md",
+        "esoterica/Atlantis.md",
+        "esoterica/Atula.md",
+        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Biểu Tượng Baphomet.md",
+        "esoterica/Cabal.md",
+        "esoterica/Chimera.md",
+        "esoterica/Chu Kỳ Hoàng Đạo.md",
+        "esoterica/Dune - Paul Leto II Va Golden Path.md",
+        "esoterica/Gematria.md",
+        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Manly P. Hall.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+        "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+        "esoterica/Nibiru.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+        "esoterica/Tứ Linh.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "Glossary - Từ Điển Red Pill Wiki.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "index.md",
+        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Dark MAGA.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/MAGA Và Số 42.md",
+        "politics-conspiracy/MindGeek.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Operation Paperclip.md",
+        "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+        "politics-conspiracy/Sự thật về ma túy.md",
+        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+        "politics-conspiracy/Trái Đất Phẳng.md",
+        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Năng Lượng Aether.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "words": 1561,
+      "summary": "**Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reali…"
     },
     {
       "path": "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
@@ -16963,7 +16902,6 @@
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Esoterica & Consciousness.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
       ],
       "words": 2747,
@@ -17059,7 +16997,6 @@
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Esoterica & Consciousness.md",
         "MOC - Science Revisionism.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
@@ -17305,7 +17242,6 @@
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/index.md",
@@ -20016,7 +19952,7 @@
     ],
     [
       "politics-conspiracy",
-      23
+      24
     ],
     [
       "matrix",
@@ -20123,6 +20059,10 @@
       5
     ],
     [
+      "mind-control",
+      5
+    ],
+    [
       "gnosis",
       5
     ],
@@ -20144,10 +20084,6 @@
     ],
     [
       "navigation",
-      4
-    ],
-    [
-      "mind-control",
       4
     ],
     [
@@ -20192,6 +20128,10 @@
     ],
     [
       "cycles",
+      3
+    ],
+    [
+      "hollywood",
       3
     ],
     [
@@ -20264,10 +20204,6 @@
     ],
     [
       "prophecy",
-      2
-    ],
-    [
-      "hollywood",
       2
     ],
     [
@@ -20865,7 +20801,6 @@
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Esoterica & Consciousness.md",
         "MOC - Science Revisionism.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
@@ -22623,8 +22558,8 @@
       "aliases": [
         "Money",
         "Money... (P.1)",
-        "Tiền",
         "tiền",
+        "Tiền",
         "Tiền tiền tiền",
         "tiền... (P.1) / Money"
       ],
@@ -23417,7 +23352,6 @@
         "index.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/index.md"
       ],
       "words": 5657,
@@ -24241,7 +24175,6 @@
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Esoterica & Consciousness.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
       ],
       "words": 2747,
@@ -24448,8 +24381,7 @@
       "backlinks": [
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md"
       ],
       "words": 1656,
       "summary": "Inception (2010) của Christopher Nolan không chỉ là phim giải trí. Đây có thể là **disclosure** — Elite nói thẳng cách họ manipulate nhân loại, ẩn dưới lớp vỏ \"fiction\"."
@@ -24525,6 +24457,7 @@
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -25459,8 +25392,7 @@
       ],
       "backlinks": [
         "esoterica/Gematria.md",
-        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md"
       ],
       "words": 915,
       "summary": "**Manly Palmer Hall quan trọng không phải vì ông “biết hết bí mật”. Ông quan trọng vì ông cho thấy giới hiện đại đã quên một ngôn ngữ mà các truyền thống quyền lực vẫn dùng: biểu tượng, nghi lễ, số học, kiến trúc và initiation.**"
@@ -26856,7 +26788,6 @@
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "mental-models/Nguyên Mẫu.md",
         "MOC - Esoterica & Consciousness.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Dark MAGA.md",
         "science-tech/AI.md"
       ],
@@ -27036,7 +26967,6 @@
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
@@ -27232,7 +27162,6 @@
         "index.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "MOC - Ancient Civilizations & Hidden History.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Mudflood.md",
@@ -29582,8 +29511,8 @@
         "health"
       ],
       "aliases": [
-        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
+        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
+        "Tần số cộng hưởng giữa Muối và Tuyến tùng"
       ],
       "headings": [
         "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -33093,7 +33022,6 @@
         "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
         "index.md",
         "MOC - Epistemology & Propaganda.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/Operation Paperclip.md",
@@ -33251,95 +33179,45 @@
       "title": "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
       "domain": "politics-conspiracy",
       "tags": [
+        "hollywood",
+        "mind-control",
+        "politics-conspiracy",
         "science-tech"
       ],
       "aliases": [
-        "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood"
+        "Bộ Tam Thánh Mind Control",
+        "Industrial Myth Trinity",
+        "NASA Disney Hollywood",
+        "Three Screens"
       ],
       "headings": [
         "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood",
-        "Evidence Discipline / Cách Đọc Claim",
-        "Source Register / Nguồn Nên Đối Chiếu",
-        "Tổng Quan / Overview",
-        "Cùng Một Công Thức / Same Formula",
-        "I. NASA — Phim Hoạt Hình Cho Người Lớn / Adult Cartoons",
-        "Origin Story: Operation Paperclip",
-        "Jack Parsons: Occult Father of NASA",
-        "Von Braun + Disney Connection",
-        "NASA = Expensive CGI Studio?",
-        "II. Disney — Programming Trẻ Em Từ Bé / Programming Children From Birth",
-        "Walt Disney: FBI Informant",
-        "Disney + Nazi Scientists",
-        "Club 33 — Freemasonry Connection",
-        "Disney + MK-Ultra: Programming Trẻ Em",
-        "Occult Symbolism in Disney",
-        "III. Hollywood — Ma Thuật Cho Người Lớn / Magic for Adults",
-        "CIA Entertainment Liaison Office",
-        "Etymology: Holy Wood",
-        "Predictive Programming Examples",
-        "IV. Connections: Cùng Một Mạng Lưới / Same Network",
-        "Operation Paperclip → All Three",
-        "Freemasonry Throughout",
-        "Crowley's Influence",
-        "V. Cơ Chế Mind Control / Mind Control Mechanism",
-        "Three-Pronged Attack",
-        "The Screen as Scrying Mirror",
-        "Disclosure / Karmic Loophole",
-        "VI. The Same Magic / Cùng Một Phép Thuật",
-        "All Three Use Same Tools",
-        "Same Outcome",
-        "VII. Practical Implications / Ứng Dụng Thực Tiễn",
-        "Khi Tiêu Thụ Media / When Consuming Media",
-        "Questions to Ask",
-        "Core Insight / Insight Cốt Lõi",
-        "Vault Connections",
-        "Related Notes",
-        "Occult & Elite",
-        "Science & Control",
-        "Sources",
-        "Operation Paperclip & NASA",
-        "Disney",
-        "Hollywood",
-        "Mind Control",
-        "Publication Pack / Disclosure & Spectacle"
+        "Evidence Discipline / Cách Đọc",
+        "Ba Màn Hình Của Cùng Một Myth Machine",
+        "NASA: Sky Myth Cho Người Lớn",
+        "Disney: Childhood Myth Và Emotional Grammar",
+        "Hollywood: Adult Dream Factory",
+        "Space, Alien Và Disclosure Stack",
+        "Mind Control Không Nhất Thiết Là Thôi Miên Thô",
+        "Decoder Mindset",
+        "Kết",
+        "Reading Path / Đọc Tiếp"
       ],
       "wikilinks": [
-        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-        "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
-        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-        "Cabal",
-        "Elite",
-        "Gnosis",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
         "Khoa Học Xét Lại",
-        "Kiểm Soát Tâm Trí",
         "Ma Trận",
-        "Manly P. Hall",
-        "MOC - Epistemology & Propaganda",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-        "Saturn Cube",
-        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
-        "Tartaria",
-        "Thuyết Trái Đất Phẳng"
+        "UAP Disclosure - Controlled Revelation"
       ],
       "mdlinks": [],
       "outlinks": [
-        "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-        "esoterica/Gnosis.md",
         "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
         "esoterica/Ma Trận.md",
-        "esoterica/Manly P. Hall.md",
         "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/Saturn Cube.md",
-        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-        "esoterica/Tartaria.md",
-        "MOC - Epistemology & Propaganda.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
       "backlinks": [
@@ -33363,8 +33241,8 @@
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 2660,
-      "summary": "**NASA**, **Disney**, và **Hollywood** thường được xem như ba ngành riêng biệt: khoa học, giải trí trẻ em, và phim người lớn. Nhưng khi truy về nguồn gốc, bạn sẽ thấy **chúng đều về một mối** — cùng mạng lưới, cùng mục đích, cùng phép thuật."
+      "words": 1525,
+      "summary": "**NASA, Disney và Hollywood thường được nhìn như ba ngành riêng: khoa học không gian, giải trí trẻ em, và phim người lớn. Nhưng trong vault, chúng còn có thể được đọc như ba màn hình của cùng một hệ myth công nghiệp: NASA quản sky myth cho người lớn cần “khoa…"
     },
     "politics-conspiracy/Bức Tường Băng.md": {
       "path": "politics-conspiracy/Bức Tường Băng.md",
@@ -33602,7 +33480,6 @@
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/Dark MAGA.md",
         "politics-conspiracy/index.md",
@@ -33782,7 +33659,6 @@
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/index.md",
@@ -34549,7 +34425,6 @@
         "mental-models/Mô Hình Địa Tâm.md",
         "MOC - Science Revisionism.md",
         "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Trái Đất Phẳng.md",
@@ -34779,6 +34654,7 @@
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
         "index.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
