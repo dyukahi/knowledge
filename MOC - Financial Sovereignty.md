@@ -11,6 +11,7 @@ related:
   - "[[Privacy]]"
   - "[[Tiền Giấy - Tiền Mặt]]"
   - "[[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]"
+  - "[[Vàng, Golden Age Và Màn Che Của Mặt Trăng]]"
   - "[[Chainlink - Mắt Xích Của Tokenized World]]"
   - "[[MOC - Market Psychology & Risk]]"
 ---
@@ -41,7 +42,8 @@ Nếu mới vào từ root, xem thêm [[Cách Đọc Red Pill Wiki#3 Money  Cont
 2. [[Tiền Giấy - Tiền Mặt]] — phân biệt cash, paper promise và permission rail.
 3. [[Tiền Pháp Định]] — fiat như debt architecture, không phải neutral medium.
 4. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — survival before upside.
-5. [[Bitcoin]] — exit-money thesis và bài test sovereignty.
+5. [[Vàng, Golden Age Và Màn Che Của Mặt Trăng]] — gold as memory object and no-pressure accumulation discipline.
+6. [[Bitcoin]] — exit-money thesis và bài test sovereignty.
 6. [[Privacy]] — boundary layer của free exchange.
 7. [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — case study về Bitcoin treasury, yield wrappers và claim structure.
 8. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — cầu nối kịch bản từ cú sập lớp bọc Bitcoin sang tài sản mã hóa, ví định danh số và tuân thủ bằng trí tuệ nhân tạo.
@@ -52,6 +54,7 @@ Nếu mới vào từ root, xem thêm [[Cách Đọc Red Pill Wiki#3 Money  Cont
 ## Survival Before Sovereignty
 
 - [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — không đòn bẩy, không dopamine trading, không lifestyle flex, giữ runway.
+- [[Vàng, Golden Age Và Màn Che Của Mặt Trăng]] — vàng như anchor ngoài fiat/CBDC, nhưng vẫn phải tôn trọng chu kỳ bull/bear.
 - [[MOC - Market Psychology & Risk]] — map riêng cho risk survival, ownership transfer, fear/greed và liquidity.
 - [[Ai Đứng Bên Kia Giao Dịch]] — mọi top/bottom là câu hỏi ai đang mua, ai đang bán.
 - [[Tư Duy Lũy Thừa]] — compounding cần thời gian; leverage giết thời gian.
