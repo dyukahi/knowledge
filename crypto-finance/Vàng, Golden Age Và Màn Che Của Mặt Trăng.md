@@ -49,11 +49,13 @@ Nói gọn:
 
 ![Một cosmic egg nhiều tầng với Earth ở tầng trên gần lõi sáng, dưới là các tầng snowman mờ dần vào bóng tối](../assets/illustrations/gold-golden-age/02-cosmic-egg-earth-core.png)
 
-Trong [[Bức Tường Băng]], toàn bộ tạo hóa nằm trong một **Trứng Vũ Trụ**. Thế giới không được mô tả như một quả cầu trôi trong không gian trống, mà như một cấu trúc snowman nhiều tầng. Trái Đất là tầng trên cùng, dưới là Atlas và Akupara.
+Trong [[Bức Tường Băng]], toàn bộ tạo hóa nằm trong một **Trứng Vũ Trụ**. Nhưng Trứng Vũ Trụ không chỉ chứa một snowman duy nhất. Nó chứa **vô hạn cấu trúc snowman**. Mỗi snowman là một cụm thế giới nhiều tầng.
+
+Trái Đất của chúng ta thuộc về **một** snowman structure cụ thể có ba tầng: **Earth** ở tầng trên cùng, dưới là **Atlas**, rồi **Akupara**. Nói cách khác: Earth không phải toàn bộ Trứng Vũ Trụ; Earth là tầng trên của một cấu trúc ba tầng nằm trong biển cấu trúc vô hạn bên trong Trứng Vũ Trụ.
 
 Đây không phải tầng sự kiện. Đây là khung biểu tượng và giả thuyết.
 
-Nếu đọc mô hình này như biểu tượng, hướng nhìn rất quan trọng: Trái Đất không phải tầng thấp nhất. Trái Đất là tầng gần lõi Trứng Vũ Trụ hơn. Càng gần lõi, vật chất càng có thể được đọc như đậm đặc hơn: không chỉ dày về khối lượng vật lý, mà dày về ký ức, thông tin và áp lực tạo hình.
+Nếu đọc mô hình này như biểu tượng, hướng nhìn rất quan trọng: Trái Đất không phải tầng thấp nhất trong snowman của mình. Trái Đất là tầng gần lõi/nguồn hơn so với Atlas và Akupara. Càng gần lõi, vật chất càng có thể được đọc như đậm đặc hơn: không chỉ dày về khối lượng vật lý, mà dày về ký ức, thông tin và áp lực tạo hình.
 
 Trong reading này, vàng không còn là "kim loại quý dưới đất" đơn giản. Nó có thể đọc như **core-proximity metal**: vật chất giữ dấu vết của tầng gần source hơn.
 
