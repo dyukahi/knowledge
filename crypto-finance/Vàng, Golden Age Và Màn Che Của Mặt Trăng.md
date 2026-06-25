@@ -91,16 +91,14 @@ Tầng sự kiện: Mặt Trăng ảnh hưởng thủy triều, ánh sáng đêm
 
 Tầng biểu tượng và giả thuyết: nếu Trái Đất là tầng gần lõi/nguồn hơn, Mặt Trăng có thể được đọc như một **lớp phản chiếu, lớp màn che, lớp điều nhịp tần số**. Nó không cần che bằng tường. Nó che bằng nhịp, ánh sáng phản chiếu, chu kỳ, ham muốn, sợ hãi và ký ức ngắn.
 
-Architecture này có thể viết như sau:
+Nếu nối với mô hình Trứng Vũ Trụ ở trên, cách viết sạch hơn là:
 
 ```text
-Lõi Trứng Vũ Trụ / Nguồn
-        ↓
-Trái Đất = vật chất đậm đặc + ký ức + vàng + sự sống
-        ↓
-Màn che Mặt Trăng = nhịp, phản chiếu, phát sóng, lớp lọc gây quên
-        ↓
-Nhận thức con người = đời ngắn, nhớ ngắn, ý thức chạy theo chu kỳ tin tức
+Trứng Vũ Trụ
+└─ mặt trong của vỏ trứng: vô hạn snowman structures bám quanh
+   └─ một snowman structure của chúng ta: Earth → Atlas → Akupara
+      └─ Earth = tầng đỉnh hướng vào tâm/lõi, nơi vật chất/ký ức/vàng/sự sống đậm đặc hơn
+         └─ Mặt Trăng = lớp phản chiếu và điều nhịp quanh Earth, làm nhận thức con người chạy theo chu kỳ ngắn
 ```
 
 Đây là phần tổng hợp giả thuyết, không phải tuyên bố sự kiện. Nhưng nó giải thích vì sao con người có thể đứng trên một tầng đầy ký ức mà vẫn bị huấn luyện để chỉ nhìn 10 năm trước mặt.
