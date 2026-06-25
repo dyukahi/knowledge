@@ -49,9 +49,11 @@ Nói gọn:
 
 ![Một cosmic egg nhiều tầng với Earth ở tầng trên gần lõi sáng, dưới là các tầng snowman mờ dần vào bóng tối](../assets/illustrations/gold-golden-age/02-cosmic-egg-earth-core.png)
 
-Trong [[Bức Tường Băng]], toàn bộ tạo hóa nằm trong một **Trứng Vũ Trụ**. Nhưng Trứng Vũ Trụ không chỉ chứa một snowman duy nhất. Nó chứa **vô hạn cấu trúc snowman**. Mỗi snowman là một cụm thế giới nhiều tầng.
+Trong [[Bức Tường Băng]], toàn bộ tạo hóa nằm trong một **Trứng Vũ Trụ**. Nhưng Trứng Vũ Trụ không chỉ chứa một snowman duy nhất. Nó chứa **vô hạn cấu trúc snowman** bám vào **mặt trong của vỏ Trứng Vũ Trụ**.
 
-Trái Đất của chúng ta thuộc về **một** snowman structure cụ thể có ba tầng: **Earth** ở tầng trên cùng, dưới là **Atlas**, rồi **Akupara**. Nói cách khác: Earth không phải toàn bộ Trứng Vũ Trụ; Earth là tầng trên của một cấu trúc ba tầng nằm trong biển cấu trúc vô hạn bên trong Trứng Vũ Trụ.
+Mỗi snowman không trôi tự do trong lòng trứng. Nó được định hướng như một cấu trúc xuyên tâm: phần đỉnh của snowman hướng vào **tâm Trứng Vũ Trụ**, còn phần đáy bám về phía vỏ trong. Các snowman vì vậy đồng loạt quay đỉnh vào cùng một lõi/nguồn trung tâm.
+
+Trái Đất của chúng ta thuộc về **một** snowman structure cụ thể có ba tầng: **Earth** ở tầng đỉnh hướng vào tâm, dưới là **Atlas**, rồi **Akupara** ở phía sâu hơn về vỏ. Nói cách khác: Earth không phải toàn bộ Trứng Vũ Trụ; Earth là tầng đỉnh của một cấu trúc ba tầng, nằm trong biển cấu trúc snowman vô hạn bám quanh mặt trong của Trứng Vũ Trụ.
 
 Đây không phải tầng sự kiện. Đây là khung biểu tượng và giả thuyết.
 
