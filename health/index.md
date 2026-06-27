@@ -94,12 +94,14 @@ Orientation: use this bridge when health becomes esoterica and science-tech at o
 3. [[Plasma Quinton]] — connect sea water, plasma and terrain.
 4. [[Tần số cộng hưởng giữa Muối và Tuyến tùng]] — hold resonance claims carefully.
 5. [[Giải Mã Vũ Trụ - Y Tế - Tâm Linh]] — cross into cosmology and spiritual medicine.
+6. [[Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học]] — bridge hormone/body sovereignty into marriage and family formation.
 
 ---
 
 ## Key Hubs
 
 - [[MOC - Health Sovereignty]] — main health map and starting spine.
+- [[Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học]] — cross-domain bridge on hormones, contraception, abortion-politics and family sovereignty.
 - [[MOC - Science Revisionism]] — science as method vs medicine as institution.
 - [[MOC - Epistemology & Propaganda]] — fear, compliance, consensus and narrative control.
 - [[esoterica/index|Esoterica Gateway]] — body as energy system, pineal, salt, spirit-body bridge.

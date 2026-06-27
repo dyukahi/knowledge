@@ -75,6 +75,16 @@ Critique đúng không cần caricature. Một hệ thống có thể cứu ngư
 
 ---
 
+
+## Family, Hormones & Body Sovereignty
+
+- [[Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học]] — contraception, abortion, endocrine disruption, marriage and family formation through claim discipline.
+- [[Năng Lượng Tình Dục]] — sexual energy as life-force and creative sovereignty.
+- [[Chimera]] — biological exchange and intimacy symbolism without pseudo-medical certainty.
+- [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] — family care infrastructure as health terrain.
+
+Body sovereignty không chỉ là protocol cá nhân. Nó cũng là khả năng nhìn hormone, fertility, sex, stress, environment và family formation như một hệ sinh thái. Không dùng health language để shame; không dùng freedom language để quên body consequences.
+
 ## Practical Grounding
 
 Health sovereignty bắt đầu từ những thứ không sexy: ngủ, nắng, nước, khoáng, vận động, giảm độc tố, ăn thật, thở, cộng đồng, bớt stress, bớt dopamine industrial. Protocol cao siêu mà nền sống nát thì chỉ là một dạng spiritual bypass bằng supplement.

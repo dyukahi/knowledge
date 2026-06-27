@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 226,
+    "notes": 227,
     "domains": {
       "_docs": 11,
       "root": 14,
       "crypto-finance": 16,
       "esoterica": 76,
       "health": 27,
-      "mental-models": 37,
+      "mental-models": 38,
       "politics-conspiracy": 27,
       "science-tech": 18
     },
-    "tags": 250,
-    "wikilinkEdges": 2192,
+    "tags": 252,
+    "wikilinkEdges": 2208,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -1252,12 +1252,12 @@
         ],
         "headings": [
           "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
-          "1. Vàng Không Sinh Ra Từ Earth",
-          "2. Cosmic Egg Và Snowman: Earth Gần Lõi Hơn Ta Tưởng",
-          "3. Golden Age: Khi Gold Là Trạng Thái, Không Chỉ Là Commodity",
-          "4. Moon Veil: Ký Ức Ngắn Và Ánh Sáng Phản Chiếu",
+          "1. Vàng Không Sinh Ra Từ Trái Đất",
+          "2. Trứng Vũ Trụ Và Snowman: Trái Đất Gần Lõi Hơn Ta Tưởng",
+          "3. Thời Đại Vàng: Khi Vàng Là Trạng Thái, Không Chỉ Là Hàng Hóa",
+          "4. Màn Che Mặt Trăng: Ký Ức Ngắn Và Ánh Sáng Phản Chiếu",
           "5. Golden Age Bị Chính Trị Hóa",
-          "6. Fiat, CBDC Và Money Không Còn Ký Ức",
+          "6. Fiat, CBDC Và Tiền Không Còn Ký Ức",
           "7. Vàng Vẫn Có Chu Kỳ: Accumulate Without Pressure",
           "Chốt",
           "Xem Tiếp"
@@ -1288,8 +1288,8 @@
           "index.md",
           "MOC - Financial Sovereignty.md"
         ],
-        "words": 1981,
-        "summary": "**Vàng không chỉ là tài sản. Nó là vật chất của ký ức dài: cosmic matter nằm trong Earth, biểu tượng của Golden Age, và một anchor ngoài những hệ tiền được lập trình bởi issuer. Nhưng vàng vẫn đi qua bull và bear. Muốn giữ một tài sản ngoài thời gian, đừng mu…"
+        "words": 2304,
+        "summary": "**Vàng không chỉ là tài sản. Nó là vật chất của ký ức dài: vật chất vũ trụ nằm trong Trái Đất, biểu tượng của Thời Đại Vàng, và một điểm neo nằm ngoài các hệ tiền do bên phát hành lập trình. Nhưng vàng vẫn đi qua chu kỳ tăng và giảm. Muốn giữ một tài sản ngoà…"
       },
       {
         "path": "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
@@ -1437,8 +1437,8 @@
         "aliases": [
           "Money",
           "Money... (P.1)",
-          "tiền",
           "Tiền",
+          "tiền",
           "Tiền tiền tiền",
           "tiền... (P.1) / Money"
         ],
@@ -1640,6 +1640,7 @@
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Chia Tách Bởi Nhị Nguyên.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "mental-models/index.md",
           "mental-models/Individuation.md",
           "mental-models/Luân Hồi Trên Home Screen.md",
@@ -2972,6 +2973,76 @@
         "summary": "!A surreal human city at night emitting visible emotional currents into unseen collectors above"
       },
       {
+        "path": "esoterica/Năng Lượng Tình Dục.md",
+        "title": "Năng Lượng Tình Dục",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "esoterica",
+          "transmutation"
+        ],
+        "aliases": [
+          "Creative Energy",
+          "Sex Force",
+          "Sexual Energy",
+          "Sinh Lực Tình Dục"
+        ],
+        "headings": [
+          "Năng Lượng Tình Dục (Sexual Energy)",
+          "Vault Position / Vị Trí Trong Bản Đồ",
+          "Claim Discipline / Kỷ Luật Tuyên Bố",
+          "Sinh Lực Không Có Đạo Đức Sẵn / Life Force Is Neutral",
+          "Extraction Loop / Vòng Bòn Rút",
+          "Transmutation / Chuyển Hóa",
+          "Porn As Anti-Initiation / Khiêu Dâm Như Nghi Lễ Ngược",
+          "Dấu Hiệu Lệch Và Dấu Hiệu Đúng / Distortion And Alignment",
+          "Intimacy, Not Performance / Thân Mật Không Phải Trình Diễn",
+          "Practice Notes / Ghi Chú Thực Hành",
+          "Kết Luận / Closing"
+        ],
+        "wikilinks": [
+          "Chakra",
+          "Kundalini",
+          "Ma Trận",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tinh Khí Thần",
+          "Tuyến Tùng",
+          "Tình Yêu Tỉnh Thức"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Tinh Khí Thần.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "health/Tuyến Tùng.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Chakra.md",
+          "esoterica/Chimera.md",
+          "esoterica/index.md",
+          "esoterica/Kundalini.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Thực Thể Cõi Trung Giới.md",
+          "esoterica/Tinh Khí Thần.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "MOC - Health Sovereignty.md",
+          "politics-conspiracy/MindGeek.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "words": 1194,
+        "summary": "**Năng lượng tình dục là sinh lực sáng tạo ở tầng thô nhất và mạnh nhất: nó có thể sinh ra một cơ thể, phá nát một đời người, hoặc được chuyển hóa thành ý chí, nghệ thuật, trí tuệ và hiện diện.**"
+      },
+      {
         "path": "esoterica/Sacred Geometry.md",
         "title": "Sacred Geometry",
         "domain": "esoterica",
@@ -3284,74 +3355,6 @@
         ],
         "words": 1297,
         "summary": "**Chakra là bản đồ đọc con người như một trục năng lượng sống: từ bản năng sinh tồn ở thân dưới, qua tim, tiếng nói, trực giác, rồi lên ý thức hợp nhất.** Trong vault, chakra không được dùng như \"y học chính thống\", mà như ngôn ngữ biểu tượng để nối Kundalini…"
-      },
-      {
-        "path": "esoterica/Năng Lượng Tình Dục.md",
-        "title": "Năng Lượng Tình Dục",
-        "domain": "esoterica",
-        "tags": [
-          "consciousness",
-          "esoterica",
-          "transmutation"
-        ],
-        "aliases": [
-          "Creative Energy",
-          "Sex Force",
-          "Sexual Energy",
-          "Sinh Lực Tình Dục"
-        ],
-        "headings": [
-          "Năng Lượng Tình Dục (Sexual Energy)",
-          "Vault Position / Vị Trí Trong Bản Đồ",
-          "Claim Discipline / Kỷ Luật Tuyên Bố",
-          "Sinh Lực Không Có Đạo Đức Sẵn / Life Force Is Neutral",
-          "Extraction Loop / Vòng Bòn Rút",
-          "Transmutation / Chuyển Hóa",
-          "Porn As Anti-Initiation / Khiêu Dâm Như Nghi Lễ Ngược",
-          "Dấu Hiệu Lệch Và Dấu Hiệu Đúng / Distortion And Alignment",
-          "Intimacy, Not Performance / Thân Mật Không Phải Trình Diễn",
-          "Practice Notes / Ghi Chú Thực Hành",
-          "Kết Luận / Closing"
-        ],
-        "wikilinks": [
-          "Chakra",
-          "Kundalini",
-          "Ma Trận",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-          "Tinh Khí Thần",
-          "Tuyến Tùng",
-          "Tình Yêu Tỉnh Thức"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Chakra.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Tinh Khí Thần.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "health/Tuyến Tùng.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Chakra.md",
-          "esoterica/Chimera.md",
-          "esoterica/index.md",
-          "esoterica/Kundalini.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Thực Thể Cõi Trung Giới.md",
-          "esoterica/Tinh Khí Thần.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "politics-conspiracy/MindGeek.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "words": 1194,
-        "summary": "**Năng lượng tình dục là sinh lực sáng tạo ở tầng thô nhất và mạnh nhất: nó có thể sinh ra một cơ thể, phá nát một đời người, hoặc được chuyển hóa thành ý chí, nghệ thuật, trí tuệ và hiện diện.**"
       },
       {
         "path": "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
@@ -4287,6 +4290,70 @@
         "summary": "Lịch sử không phải những đường thẳng riêng lẻ mà là một tấm thảm đan xen — khi Việt Nam đang làm gì thì thế giới cũng đang chuyển động. Bài này đặt câu hỏi: **Tại sao những \"trùng hợp\" này lại xảy ra?**"
       },
       {
+        "path": "esoterica/Tình Yêu Tỉnh Thức.md",
+        "title": "Tình Yêu Tỉnh Thức",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Tình Yêu Tỉnh Thức"
+        ],
+        "headings": [
+          "Tình Yêu Tỉnh Thức",
+          "Vault Position",
+          "Evidence Discipline / Cách Đọc",
+          "Từ Eros Đến Agape",
+          "Không Chiếm Hữu",
+          "Ranh Giới Là Một Dạng Tình Yêu",
+          "Tình Yêu Và Shadow Projection",
+          "Năng Lượng Tình Dục Và Sự Hiện Diện",
+          "Tình Yêu Phá Ma Trận Như Thế Nào",
+          "Thực Hành",
+          "Chốt Lại",
+          "Related"
+        ],
+        "wikilinks": [
+          "Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức",
+          "Individuation",
+          "Ma Trận",
+          "Nhân Quả",
+          "Nhị Nguyên",
+          "Năng Lượng Tình Dục",
+          "Quy Luật Trao Đổi Tâm Linh",
+          "S.E.X",
+          "Sự Nhất Thể",
+          "Tinh Khí Thần",
+          "Trí Tuệ"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Tinh Khí Thần.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/Trí Tuệ.md"
+        ],
+        "backlinks": [
+          "esoterica/Chakra.md",
+          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+          "esoterica/index.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "index.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md"
+        ],
+        "words": 1300,
+        "summary": "**Tình Yêu Tỉnh Thức** không phải cảm xúc lãng mạn được làm đẹp bằng ngôn ngữ tâm linh. Nó là năng lực yêu mà không chiếm hữu, thấy rõ mà không lạnh lùng, bao dung mà không tự phản bội. Trong vault này, tình yêu tỉnh thức nối Nhân Quả, Nhị Nguyên, Trí Tuệ, In…"
+      },
+      {
         "path": "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "title": "Gaia - Trái Đất Có Ý Thức",
         "domain": "esoterica",
@@ -4369,69 +4436,6 @@
         ],
         "words": 2046,
         "summary": "Mọi nền văn minh cổ đại lớn trên thế giới — không có liên lạc với nhau — đều độc lập tôn thờ Trái Đất như một **ý thức sống**. Khoa học hiện đại đặt tên là Gaia Hypothesis (1972) và giả vờ đây là ý tưởng mới."
-      },
-      {
-        "path": "esoterica/Tình Yêu Tỉnh Thức.md",
-        "title": "Tình Yêu Tỉnh Thức",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Tình Yêu Tỉnh Thức"
-        ],
-        "headings": [
-          "Tình Yêu Tỉnh Thức",
-          "Vault Position",
-          "Evidence Discipline / Cách Đọc",
-          "Từ Eros Đến Agape",
-          "Không Chiếm Hữu",
-          "Ranh Giới Là Một Dạng Tình Yêu",
-          "Tình Yêu Và Shadow Projection",
-          "Năng Lượng Tình Dục Và Sự Hiện Diện",
-          "Tình Yêu Phá Ma Trận Như Thế Nào",
-          "Thực Hành",
-          "Chốt Lại",
-          "Related"
-        ],
-        "wikilinks": [
-          "Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức",
-          "Individuation",
-          "Ma Trận",
-          "Nhân Quả",
-          "Nhị Nguyên",
-          "Năng Lượng Tình Dục",
-          "Quy Luật Trao Đổi Tâm Linh",
-          "S.E.X",
-          "Sự Nhất Thể",
-          "Tinh Khí Thần",
-          "Trí Tuệ"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Tinh Khí Thần.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/Trí Tuệ.md"
-        ],
-        "backlinks": [
-          "esoterica/Chakra.md",
-          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-          "esoterica/index.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "index.md"
-        ],
-        "words": 1300,
-        "summary": "**Tình Yêu Tỉnh Thức** không phải cảm xúc lãng mạn được làm đẹp bằng ngôn ngữ tâm linh. Nó là năng lực yêu mà không chiếm hữu, thấy rõ mà không lạnh lùng, bao dung mà không tự phản bội. Trong vault này, tình yêu tỉnh thức nối Nhân Quả, Nhị Nguyên, Trí Tuệ, In…"
       },
       {
         "path": "esoterica/Atula.md",
@@ -6068,6 +6072,55 @@
         "summary": "**Cabal là cách gọi tầng quyền lực ngầm vận hành phía sau quyền lực hiển hiện. Nhưng trong vault, Cabal không nên đọc như cartoon “một nhóm người mặc áo choàng trong phòng tối”. Nó là một model về coordination: tiền, tình báo, media, ritual, policy và myth cù…"
       },
       {
+        "path": "esoterica/Chimera.md",
+        "title": "Chimera (Thể Trộn Lẫn)",
+        "domain": "esoterica",
+        "tags": [
+          "biology",
+          "esoterica",
+          "sexuality"
+        ],
+        "aliases": [
+          "Chimera (Thể Trộn Lẫn)",
+          "Microchimerism"
+        ],
+        "headings": [
+          "Chimera (Thể Trộn Lẫn)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Chimera Sinh Học",
+          "Sex, Body Memory, Energy",
+          "Organ Transplant Và Personality Stories",
+          "Elite Và Bloodline",
+          "Practice / Ranh Giới Năng Lượng",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Elite",
+          "Năng Lượng Tình Dục",
+          "S.E.X",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Sự Thật Đen Tối Về Phim Khiêu Dâm"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/S.E.X.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+        ],
+        "backlinks": [
+          "esoterica/S.E.X.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 770,
+        "summary": "**Chimera là hình ảnh mạnh cho sự trộn lẫn: trong sinh học là nhiều dòng tế bào/DNA trong một cơ thể; trong esoteric reading là câu hỏi sex, thân mật và trao đổi năng lượng để lại dấu vết gì trong con người.** Bài này cần đọc rất kỷ luật: microchimerism có th…"
+      },
+      {
         "path": "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
         "title": "Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
         "domain": "esoterica",
@@ -6337,53 +6390,6 @@
         ],
         "words": 1362,
         "summary": "**Bản Đồ Năng Lượng Đất Mẹ không phải bản đồ du lịch tâm linh. Nó là cách đọc Việt Nam như một cơ thể sống: núi là xương, sông là mạch, rừng là phổi, biển là trường trao đổi, và các điểm thiêng là nơi ký ức đất dày lên.**"
-      },
-      {
-        "path": "esoterica/Chimera.md",
-        "title": "Chimera (Thể Trộn Lẫn)",
-        "domain": "esoterica",
-        "tags": [
-          "biology",
-          "esoterica",
-          "sexuality"
-        ],
-        "aliases": [
-          "Chimera (Thể Trộn Lẫn)",
-          "Microchimerism"
-        ],
-        "headings": [
-          "Chimera (Thể Trộn Lẫn)",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Chimera Sinh Học",
-          "Sex, Body Memory, Energy",
-          "Organ Transplant Và Personality Stories",
-          "Elite Và Bloodline",
-          "Practice / Ranh Giới Năng Lượng",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Elite",
-          "Năng Lượng Tình Dục",
-          "S.E.X",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Sự Thật Đen Tối Về Phim Khiêu Dâm"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Năng Lượng Tình Dục.md",
-          "esoterica/S.E.X.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-        ],
-        "backlinks": [
-          "esoterica/S.E.X.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
-        ],
-        "words": 770,
-        "summary": "**Chimera là hình ảnh mạnh cho sự trộn lẫn: trong sinh học là nhiều dòng tế bào/DNA trong một cơ thể; trong esoteric reading là câu hỏi sex, thân mật và trao đổi năng lượng để lại dấu vết gì trong con người.** Bài này cần đọc rất kỷ luật: microchimerism có th…"
       },
       {
         "path": "esoterica/Kỹ Thuật Thiền Định Kogi.md",
@@ -7122,6 +7128,105 @@
         "summary": "**Terrain Theory nói một điều đơn giản nhưng bị làm phẳng: mầm bệnh không hành động trong chân không. Nó gặp một cơ thể có miễn dịch, ruột, dinh dưỡng, stress, độc chất, nhịp ngủ và bệnh nền riêng.** Vì vậy cùng một exposure có thể cho hai kết quả khác nhau.…"
       },
       {
+        "path": "health/index.md",
+        "title": "Health Domain Gateway",
+        "domain": "health",
+        "tags": [
+          "domain-gateway",
+          "health",
+          "sovereignty"
+        ],
+        "aliases": [
+          "Chủ Quyền Sức Khỏe",
+          "Health",
+          "Health Sovereignty"
+        ],
+        "headings": [
+          "Health Domain Gateway",
+          "Health Sovereignty Pack",
+          "How To Read This Domain",
+          "Curated Reading Paths",
+          "1. Beginner Path — Body Literacy Before Protocol",
+          "2. Power-User Path — Terrain, Immunity, Metabolism",
+          "3. High-Risk Caution Path — Cancer, Drugs, Medical Decisions",
+          "4. Medical Matrix Path — Incentives, Fear, Capture",
+          "5. Cross-Domain Bridge Path — Salt, Pineal, Energy Body",
+          "Key Hubs",
+          "Flagship Articles",
+          "Related Gateways"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Công Thức Chữa Lành Tự Nhiên",
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "esoterica/index",
+          "Giải Mã Vũ Trụ - Y Tế - Tâm Linh",
+          "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+          "Ketogenic Diet",
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
+          "mental-models/index",
+          "MOC - Epistemology & Propaganda",
+          "MOC - Health Sovereignty",
+          "MOC - Science Revisionism",
+          "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+          "Plasma Quinton",
+          "Prolonged Fasting",
+          "Red Pill Wiki",
+          "René Quinton và Huyết Tương Biển",
+          "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
+          "science-tech/index",
+          "Suramin",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Thuốc Hóa Dầu",
+          "Tuyến Tùng",
+          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
+          "Ung Thư - Metabolic Protocol",
+          "Virus và Kiếp Tật Dịch",
+          "Vận Chín, Người Kogi và Ma Trận Y Tế",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/index.md",
+          "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+          "health/Ketogenic Diet.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+          "health/Prolonged Fasting.md",
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Suramin.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Thuốc Hóa Dầu.md",
+          "health/Tuyến Tùng.md",
+          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Virus và Kiếp Tật Dịch.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "health/Y Tế Tự Nhiên.md",
+          "index.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+          "mental-models/index.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Health Sovereignty.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "science-tech/index.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "science-tech/index.md"
+        ],
+        "words": 942,
+        "summary": "**Health trong redpill.wiki là quyền đọc lại cơ thể trước khi outsource toàn bộ sinh mệnh cho fear, pharma, protocol và authority.** Domain này không phủ nhận cấp cứu, phẫu thuật hay chẩn đoán hiện đại. Nó hỏi câu sâu hơn: tại sao một nền y tế mạnh về can thi…"
+      },
+      {
         "path": "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "title": "Kính Chiếu Yêu — Nhìn Thấu Tây Y",
         "domain": "health",
@@ -7213,103 +7318,6 @@
         ],
         "words": 2379,
         "summary": "Mọi thứ ban đầu dường như rất bình thường, cuộc sống cứ cuốn con người vào vòng xoáy của vật chất, danh vọng và bệnh tật. Cho đến một ngày, vô tình \"nhặt được chiếc kính chiếu yêu\", khi đeo vào, ta lại nhìn thấy một thế giới hoàn toàn khác."
-      },
-      {
-        "path": "health/index.md",
-        "title": "Health Domain Gateway",
-        "domain": "health",
-        "tags": [
-          "domain-gateway",
-          "health",
-          "sovereignty"
-        ],
-        "aliases": [
-          "Chủ Quyền Sức Khỏe",
-          "Health",
-          "Health Sovereignty"
-        ],
-        "headings": [
-          "Health Domain Gateway",
-          "Health Sovereignty Pack",
-          "How To Read This Domain",
-          "Curated Reading Paths",
-          "1. Beginner Path — Body Literacy Before Protocol",
-          "2. Power-User Path — Terrain, Immunity, Metabolism",
-          "3. High-Risk Caution Path — Cancer, Drugs, Medical Decisions",
-          "4. Medical Matrix Path — Incentives, Fear, Capture",
-          "5. Cross-Domain Bridge Path — Salt, Pineal, Energy Body",
-          "Key Hubs",
-          "Flagship Articles",
-          "Related Gateways"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Công Thức Chữa Lành Tự Nhiên",
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "esoterica/index",
-          "Giải Mã Vũ Trụ - Y Tế - Tâm Linh",
-          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-          "Ketogenic Diet",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
-          "mental-models/index",
-          "MOC - Epistemology & Propaganda",
-          "MOC - Health Sovereignty",
-          "MOC - Science Revisionism",
-          "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-          "Plasma Quinton",
-          "Prolonged Fasting",
-          "Red Pill Wiki",
-          "René Quinton và Huyết Tương Biển",
-          "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
-          "science-tech/index",
-          "Suramin",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Thuốc Hóa Dầu",
-          "Tuyến Tùng",
-          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-          "Ung Thư - Metabolic Protocol",
-          "Virus và Kiếp Tật Dịch",
-          "Vận Chín, Người Kogi và Ma Trận Y Tế",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/index.md",
-          "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-          "health/Ketogenic Diet.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/Prolonged Fasting.md",
-          "health/René Quinton và Huyết Tương Biển.md",
-          "health/Suramin.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Thuốc Hóa Dầu.md",
-          "health/Tuyến Tùng.md",
-          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Virus và Kiếp Tật Dịch.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên.md",
-          "index.md",
-          "mental-models/index.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Health Sovereignty.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "science-tech/index.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "science-tech/index.md"
-        ],
-        "words": 901,
-        "summary": "**Health trong redpill.wiki là quyền đọc lại cơ thể trước khi outsource toàn bộ sinh mệnh cho fear, pharma, protocol và authority.** Domain này không phủ nhận cấp cứu, phẫu thuật hay chẩn đoán hiện đại. Nó hỏi câu sâu hơn: tại sao một nền y tế mạnh về can thi…"
       },
       {
         "path": "health/Tuyến Tùng.md",
@@ -8354,8 +8362,8 @@
           "health"
         ],
         "aliases": [
-          "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
+          "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
+          "Tần số cộng hưởng giữa Muối và Tuyến tùng"
         ],
         "headings": [
           "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -8716,6 +8724,7 @@
           "Giàu Không Phải Để Vợ Không Làm Gì",
           "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
           "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
           "Individuation",
           "Kiểm Soát Tâm Trí",
           "Luân Hồi Trên Home Screen",
@@ -8769,6 +8778,7 @@
           "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "mental-models/Individuation.md",
           "mental-models/Luân Hồi Trên Home Screen.md",
           "mental-models/Mental Model.md",
@@ -8807,9 +8817,10 @@
           "esoterica/index.md",
           "health/index.md",
           "index.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1560,
+        "words": 1627,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -8908,86 +8919,6 @@
         "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…"
       },
       {
-        "path": "mental-models/Vô Thức Tập Thể.md",
-        "title": "Vô Thức Tập Thể",
-        "domain": "mental-models",
-        "tags": [
-          "consciousness",
-          "jung",
-          "mental-model"
-        ],
-        "aliases": [
-          "Akashic Records",
-          "Collective Unconscious",
-          "Vô Thức Tập Thể (Akashic Records)"
-        ],
-        "headings": [
-          "Vô Thức Tập Thể (Collective Unconscious)",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Jung Nói Gì?",
-          "Archetype Là Gì?",
-          "Dream, Myth Và Culture",
-          "Akashic Records Connection",
-          "Ma Trận Và Vô Thức Tập Thể",
-          "Kết"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Individuation",
-          "Ma Trận",
-          "Monad",
-          "Nguyên Mẫu",
-          "Năng Lượng Aether",
-          "Tâm Lý Học Jung"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
-          "esoterica/Dune - Paul Leto II Va Golden Path.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "health/Tuyến Tùng.md",
-          "index.md",
-          "mental-models/index.md",
-          "mental-models/Individuation.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Esoterica & Consciousness.md",
-          "science-tech/Nikola Tesla.md"
-        ],
-        "words": 799,
-        "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
-      },
-      {
         "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "domain": "mental-models",
@@ -9069,6 +9000,7 @@
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "mental-models/index.md",
           "mental-models/Luân Hồi Trên Home Screen.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -9085,6 +9017,86 @@
         ],
         "words": 1086,
         "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
+      },
+      {
+        "path": "mental-models/Vô Thức Tập Thể.md",
+        "title": "Vô Thức Tập Thể",
+        "domain": "mental-models",
+        "tags": [
+          "consciousness",
+          "jung",
+          "mental-model"
+        ],
+        "aliases": [
+          "Akashic Records",
+          "Collective Unconscious",
+          "Vô Thức Tập Thể (Akashic Records)"
+        ],
+        "headings": [
+          "Vô Thức Tập Thể (Collective Unconscious)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Jung Nói Gì?",
+          "Archetype Là Gì?",
+          "Dream, Myth Và Culture",
+          "Akashic Records Connection",
+          "Ma Trận Và Vô Thức Tập Thể",
+          "Kết"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Individuation",
+          "Ma Trận",
+          "Monad",
+          "Nguyên Mẫu",
+          "Năng Lượng Aether",
+          "Tâm Lý Học Jung"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+          "esoterica/Dune - Paul Leto II Va Golden Path.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Sacred Geometry.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "health/Tuyến Tùng.md",
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/Individuation.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Esoterica & Consciousness.md",
+          "science-tech/Nikola Tesla.md"
+        ],
+        "words": 799,
+        "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
       },
       {
         "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -9457,6 +9469,90 @@
         "summary": "!Psyche Jungian như một vũ trụ nội tâm nhiều tầng: persona, ego, shadow, archetype và Self hiện lên như mandala ánh sáng"
       },
       {
+        "path": "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "title": "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "domain": "mental-models",
+        "tags": [
+          "attention",
+          "care-economy",
+          "family",
+          "loosh",
+          "matrix",
+          "mental-models",
+          "propaganda"
+        ],
+        "aliases": [
+          "Care Economy",
+          "Fact-Check Thua Care-Check",
+          "Family Trust Loop"
+        ],
+        "headings": [
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+          "Publication Pack / Family, Dopamine & Orphan Train",
+          "1. Care Là Hạ Tầng Vô Hình Của Gia Đình",
+          "2. Nữ Quyền Bị Market Capture",
+          "3. Dual-Income Necessity: Cả Nhà Bị Kéo Ra Khỏi Nhà",
+          "4. Outsource Trẻ Con, Outsource Người Già",
+          "5. Khi Container Gia Đình Hỏng, Trẻ Em Thành Attack Surface",
+          "6. Người Già Không Được Nghỉ: Late-Life Labor Và Battery Extraction",
+          "7. Từ Care Economy Sang Loosh Economy",
+          "8. Fact-Check Thua Care-Check",
+          "9. Scam Như Intimacy Engineering",
+          "10. Mirror Pattern: Vì Sao Trẻ Con Cũng Ít Kể Chuyện",
+          "11. Family Trust Loop",
+          "12. Shadow Layer: Thương Nhưng Thành Kiểm Soát",
+          "13. Protective Practice: Rebuild The Container",
+          "Vault Position"
+        ],
+        "wikilinks": [
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Fact-Check Thua Care-Check",
+          "Individuation",
+          "Kiểm Soát Tâm Trí",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Ma Trận",
+          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+          "S.E.X",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+          "Tâm Lý Học Jung",
+          "Tâm Lý Học Tiến Hóa Về Giới Tính",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/S.E.X.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Individuation.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "index.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+          "mental-models/index.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 4014,
+        "summary": "Gia đình không bị phá bằng một cú đánh. Nó bị làm rỗng từng lớp."
+      },
+      {
         "path": "mental-models/Trí Tuệ.md",
         "title": "Trí Tuệ",
         "domain": "mental-models",
@@ -9614,88 +9710,6 @@
         ],
         "words": 1405,
         "summary": "Bài viết này phân tích **S.E.X (Sacred Energy eXchange)** dưới góc nhìn Tâm Lý Học Jung, kết hợp với khoa học hiện đại về Microchimerism và truyền thống huyền học phương Đông."
-      },
-      {
-        "path": "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-        "title": "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-        "domain": "mental-models",
-        "tags": [
-          "attention",
-          "care-economy",
-          "family",
-          "loosh",
-          "matrix",
-          "mental-models",
-          "propaganda"
-        ],
-        "aliases": [
-          "Care Economy",
-          "Fact-Check Thua Care-Check",
-          "Family Trust Loop"
-        ],
-        "headings": [
-          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-          "Publication Pack / Family, Dopamine & Orphan Train",
-          "1. Care Là Hạ Tầng Vô Hình Của Gia Đình",
-          "2. Nữ Quyền Bị Market Capture",
-          "3. Dual-Income Necessity: Cả Nhà Bị Kéo Ra Khỏi Nhà",
-          "4. Outsource Trẻ Con, Outsource Người Già",
-          "5. Khi Container Gia Đình Hỏng, Trẻ Em Thành Attack Surface",
-          "6. Người Già Không Được Nghỉ: Late-Life Labor Và Battery Extraction",
-          "7. Từ Care Economy Sang Loosh Economy",
-          "8. Fact-Check Thua Care-Check",
-          "9. Scam Như Intimacy Engineering",
-          "10. Mirror Pattern: Vì Sao Trẻ Con Cũng Ít Kể Chuyện",
-          "11. Family Trust Loop",
-          "12. Shadow Layer: Thương Nhưng Thành Kiểm Soát",
-          "13. Protective Practice: Rebuild The Container",
-          "Vault Position"
-        ],
-        "wikilinks": [
-          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Fact-Check Thua Care-Check",
-          "Individuation",
-          "Kiểm Soát Tâm Trí",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "Ma Trận",
-          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
-          "S.E.X",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
-          "Tâm Lý Học Jung",
-          "Tâm Lý Học Tiến Hóa Về Giới Tính",
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/S.E.X.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Individuation.md",
-          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "index.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
-          "mental-models/index.md",
-          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
-          "MOC - Epistemology & Propaganda.md"
-        ],
-        "words": 4014,
-        "summary": "Gia đình không bị phá bằng một cú đánh. Nó bị làm rỗng từng lớp."
       },
       {
         "path": "mental-models/Mô Hình Địa Tâm.md",
@@ -9888,6 +9902,67 @@
         "summary": "**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là \"nhân vật trong thần thoại\". Chúng là phần mềm biểu tượng khiến con người nhận ra King, Mothe…"
       },
       {
+        "path": "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "title": "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+        "domain": "mental-models",
+        "tags": [
+          "care-economy",
+          "covenant",
+          "dopamine-economy",
+          "family",
+          "marriage",
+          "mental-models"
+        ],
+        "aliases": [
+          "Covenant Và Care Work",
+          "Marriage as Last Infrastructure",
+          "Nghĩa Tình Vợ Chồng"
+        ],
+        "headings": [
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+          "Covenant Không Phải Subscription",
+          "Dopamine Market Và Sự Phản Bội Nhẹ Nhàng",
+          "Care Work Là Cơ Sở Hạ Tầng Vô Hình",
+          "Về Già Mới Biết Tình Yêu Có Thật Không",
+          "Ma Trận Ghét Những Hạ Tầng Không Trung Gian",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+          "Publication Pack / Family, Dopamine & Orphan Train"
+        ],
+        "wikilinks": [
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Ma Trận",
+          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+          "Tâm Lý Học Tiến Hóa Về Giới Tính",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "index.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+          "mental-models/index.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md"
+        ],
+        "words": 1810,
+        "summary": "!Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+      },
+      {
         "path": "mental-models/Tư Duy Lũy Thừa.md",
         "title": "Tư Duy Lũy Thừa",
         "domain": "mental-models",
@@ -10008,66 +10083,6 @@
         ],
         "words": 1169,
         "summary": "**Mental model là bản đồ vận hành của reality trong đầu bạn.** Người có model nghèo bị sự kiện kéo đi. Người có model tốt thấy cấu trúc phía sau sự kiện, dự đoán hậu quả tốt hơn và chọn phản ứng tỉnh hơn. Trong redpill.wiki, mental model không phải mẹo năng s…"
-      },
-      {
-        "path": "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-        "title": "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-        "domain": "mental-models",
-        "tags": [
-          "care-economy",
-          "covenant",
-          "dopamine-economy",
-          "family",
-          "marriage",
-          "mental-models"
-        ],
-        "aliases": [
-          "Covenant Và Care Work",
-          "Marriage as Last Infrastructure",
-          "Nghĩa Tình Vợ Chồng"
-        ],
-        "headings": [
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-          "Covenant Không Phải Subscription",
-          "Dopamine Market Và Sự Phản Bội Nhẹ Nhàng",
-          "Care Work Là Cơ Sở Hạ Tầng Vô Hình",
-          "Về Già Mới Biết Tình Yêu Có Thật Không",
-          "Ma Trận Ghét Những Hạ Tầng Không Trung Gian",
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-          "Publication Pack / Family, Dopamine & Orphan Train"
-        ],
-        "wikilinks": [
-          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Ma Trận",
-          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
-          "Tâm Lý Học Tiến Hóa Về Giới Tính",
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
-        ],
-        "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "index.md",
-          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
-          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
-          "mental-models/index.md",
-          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md"
-        ],
-        "words": 1810,
-        "summary": "!Tình Nghĩa Là Hạ Tầng Cuối Cùng"
       },
       {
         "path": "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
@@ -10201,6 +10216,75 @@
         ],
         "words": 3479,
         "summary": "!Một đứa trẻ đứng giữa đường ray cũ và mạng lưới quản trị hiện đại"
+      },
+      {
+        "path": "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+        "title": "Hormone, Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+        "domain": "mental-models",
+        "tags": [
+          "dopamine-economy",
+          "family",
+          "health-sovereignty",
+          "hormones",
+          "marriage",
+          "mental-models"
+        ],
+        "aliases": [
+          "Biology Politicized",
+          "Birth Control Và Ma Trận Gia Đình",
+          "Hormone Và Hôn Nhân"
+        ],
+        "headings": [
+          "Hormone, Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+          "Vault Position / Vị Trí Trong Vault",
+          "Claim Discipline / Kỷ Luật Tuyên Bố",
+          "Từ Khóa Cần Hiểu",
+          "1. Hôn Nhân Không Còn Là Vé Vào Cửa Của Sex",
+          "2. Birth Control: Tự Do Thật, Nhưng Không Miễn Phí",
+          "3. Abortion Politics: Khi Tử Cung Thành Chiến Trường Ý Thức Hệ",
+          "4. Hormone Không Phải Định Mệnh, Nhưng Cũng Không Phải Chi Tiết Phụ",
+          "5. Endocrine Disruption: Ma Trận Đi Qua Nước, Nhựa, Ánh Sáng Và Stress",
+          "6. Childfree Luxury Và Cái Bẫy Hedonism",
+          "7. Hôn Nhân Như Infrastructure Của Sinh Học Và Linh Hồn",
+          "8. Đọc Bài Rant Gốc Như Thế Nào?",
+          "Phần có thể giữ",
+          "Phần phải bỏ",
+          "Phần cần nâng cấp",
+          "Sovereignty Practice / Thực Hành Chủ Quyền",
+          "Chốt Lại",
+          "Related"
+        ],
+        "wikilinks": [
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+          "Chimera",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Ma Trận",
+          "mental-models/index",
+          "MOC - Health Sovereignty",
+          "Năng Lượng Tình Dục",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+          "Tình Yêu Tỉnh Thức"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Chimera.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/index.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "backlinks": [
+          "health/index.md",
+          "index.md",
+          "mental-models/index.md",
+          "MOC - Health Sovereignty.md"
+        ],
+        "words": 3112,
+        "summary": "**Hiện đại không phá hôn nhân chỉ bằng tự do tình dục. Nó phá bằng cách tách tình dục khỏi sinh sản, sinh sản khỏi nghĩa vụ, nghĩa vụ khỏi danh dự, rồi gọi phần trống rỗng còn lại là tự do cá nhân. Nhưng phản ứng ngược kiểu đổ toàn bộ lỗi lên phụ nữ, thuốc tr…"
       },
       {
         "path": "mental-models/Tâm bất Biến.md",
@@ -13286,6 +13370,7 @@
           "Gnosis",
           "health/index",
           "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
           "Individuation",
           "Karma Disclosure - Truth Hidden In Plain Sight",
           "Ketogenic Diet",
@@ -13480,6 +13565,7 @@
           "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "mental-models/index.md",
           "mental-models/Individuation.md",
           "mental-models/Luân Hồi Trên Home Screen.md",
@@ -13551,7 +13637,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 4503,
+        "words": 4549,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -13662,6 +13748,113 @@
         ],
         "words": 842,
         "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
+      },
+      {
+        "path": "MOC - Health Sovereignty.md",
+        "title": "MOC - Health Sovereignty",
+        "domain": "root",
+        "tags": [
+          "health",
+          "moc",
+          "sovereignty"
+        ],
+        "aliases": [
+          "MOC - Health Sovereignty"
+        ],
+        "headings": [
+          "MOC - Health Sovereignty",
+          "How To Read This Map",
+          "Start Here",
+          "Terrain & Body Systems",
+          "Metabolic & Cancer Protocols",
+          "Matrix Health & Industrial Corruption",
+          "Family, Hormones & Body Sovereignty",
+          "Practical Grounding",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+          "Chimera",
+          "Cách Đọc Red Pill Wiki",
+          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+          "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+          "Ketogenic Diet",
+          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+          "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
+          "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+          "Năng Lượng Tình Dục",
+          "Plasma Quinton",
+          "Prolonged Fasting",
+          "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
+          "Suramin",
+          "Thuyết Vi Sinh Nội Sinh",
+          "Thuốc Hóa Dầu",
+          "Tuyến Tùng",
+          "Ung Thư - Metabolic Protocol",
+          "Vận Chín, Người Kogi và Ma Trận Y Tế",
+          "Y Tế Tự Nhiên"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Chimera.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+          "health/Ketogenic Diet.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+          "health/Prolonged Fasting.md",
+          "health/René Quinton và Huyết Tương Biển.md",
+          "health/Suramin.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Thuốc Hóa Dầu.md",
+          "health/Tuyến Tùng.md",
+          "health/Ung Thư - Metabolic Protocol.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "health/Y Tế Tự Nhiên.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "health/Công Thức Chữa Lành Tự Nhiên.md",
+          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+          "health/index.md",
+          "health/Ketogenic Diet.md",
+          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+          "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
+          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+          "health/Plasma Quinton.md",
+          "health/Prolonged Fasting.md",
+          "health/Su That Ve Benh Dai Va Vac Xin.md",
+          "health/Suramin.md",
+          "health/Thuyết Vi Sinh Nội Sinh.md",
+          "health/Thuốc Hóa Dầu.md",
+          "health/Tuyến Tùng.md",
+          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+          "health/Y Tế Tự Nhiên.md",
+          "index.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/index.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "words": 732,
+        "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng. Nó không phải ghét bác sĩ hay phủ định cấp cứu hiện đại. Nó là không để hệ thống định nghĩa thay mình thế…"
       },
       {
         "path": "Cách Đọc Red Pill Wiki.md",
@@ -13791,103 +13984,6 @@
         ],
         "words": 2021,
         "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Trước khi tin hoặc phủ định bất kỳ điều gì, hãy nhận biết chính tiến trình thấy đang xảy ra.…"
-      },
-      {
-        "path": "MOC - Health Sovereignty.md",
-        "title": "MOC - Health Sovereignty",
-        "domain": "root",
-        "tags": [
-          "health",
-          "moc",
-          "sovereignty"
-        ],
-        "aliases": [
-          "MOC - Health Sovereignty"
-        ],
-        "headings": [
-          "MOC - Health Sovereignty",
-          "How To Read This Map",
-          "Start Here",
-          "Terrain & Body Systems",
-          "Metabolic & Cancer Protocols",
-          "Matrix Health & Industrial Corruption",
-          "Practical Grounding",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Cách Đọc Red Pill Wiki",
-          "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-          "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-          "Ketogenic Diet",
-          "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-          "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
-          "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-          "Plasma Quinton",
-          "Prolonged Fasting",
-          "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
-          "Suramin",
-          "Thuyết Vi Sinh Nội Sinh",
-          "Thuốc Hóa Dầu",
-          "Tuyến Tùng",
-          "Ung Thư - Metabolic Protocol",
-          "Vận Chín, Người Kogi và Ma Trận Y Tế",
-          "Y Tế Tự Nhiên"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-          "health/Ketogenic Diet.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/Prolonged Fasting.md",
-          "health/René Quinton và Huyết Tương Biển.md",
-          "health/Suramin.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Thuốc Hóa Dầu.md",
-          "health/Tuyến Tùng.md",
-          "health/Ung Thư - Metabolic Protocol.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "health/Công Thức Chữa Lành Tự Nhiên.md",
-          "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-          "health/index.md",
-          "health/Ketogenic Diet.md",
-          "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-          "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-          "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
-          "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-          "health/Plasma Quinton.md",
-          "health/Prolonged Fasting.md",
-          "health/Su That Ve Benh Dai Va Vac Xin.md",
-          "health/Suramin.md",
-          "health/Thuyết Vi Sinh Nội Sinh.md",
-          "health/Thuốc Hóa Dầu.md",
-          "health/Tuyến Tùng.md",
-          "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-          "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-          "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-          "health/Y Tế Tự Nhiên.md",
-          "index.md",
-          "MOC - Science Revisionism.md",
-          "science-tech/index.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "words": 628,
-        "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng. Nó không phải ghét bác sĩ hay phủ định cấp cứu hiện đại. Nó là không để hệ thống định nghĩa thay mình thế…"
       },
       {
         "path": "MOC - Esoterica & Consciousness.md",
@@ -15882,6 +15978,7 @@
         "Gnosis",
         "health/index",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
         "Individuation",
         "Karma Disclosure - Truth Hidden In Plain Sight",
         "Ketogenic Diet",
@@ -16076,6 +16173,7 @@
         "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
@@ -16147,7 +16245,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4503,
+      "words": 4549,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -16319,6 +16417,7 @@
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
@@ -16745,6 +16844,153 @@
       "summary": "!Giải phẫu Ma Trận như một cơ thể nhiều lớp: thân thể, attention, gia đình, tiền, định chế, narrative và spiritual interface bao quanh một ngọn lửa bên trong"
     },
     {
+      "path": "mental-models/index.md",
+      "title": "Mental Models Domain Gateway",
+      "domain": "mental-models",
+      "tags": [
+        "domain-gateway",
+        "epistemology",
+        "mental-model"
+      ],
+      "aliases": [
+        "Mental Models",
+        "Mô Hình Tư Duy"
+      ],
+      "headings": [
+        "Mental Models Domain Gateway",
+        "Family, Dopamine & Orphan Train Pack",
+        "How To Read This Domain",
+        "Curated Reading Paths",
+        "1. Beginner Path — Thinking Tools Before Identity",
+        "2. Power-User Path — Jung, Shadow, Individuation",
+        "3. High-Risk Caution Path — Dopamine, Addiction, Manipulation",
+        "4. Perception Path — Duality, Identity, Self-Deception",
+        "5. Cross-Domain Bridge Path — Gen Z, Compliance, Future Self",
+        "6. AI-Age Agency Path — Mind Versus Machine",
+        "Key Hubs",
+        "Flagship Articles",
+        "Money, Dopamine & Survival Discipline",
+        "Gen Z & Agenda 2030 Path",
+        "Related Gateways",
+        "Notes"
+      ],
+      "wikilinks": [
+        "AI",
+        "Ai Đứng Bên Kia Giao Dịch",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Chia Tách Bởi Nhị Nguyên",
+        "Climate Anxiety as Control - Fear-Based Compliance",
+        "crypto-finance/index",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu",
+        "esoterica/index",
+        "Gen Z - Phân Tích Phản Biện",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giàu Không Phải Để Vợ Không Làm Gì",
+        "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+        "Individuation",
+        "Kiểm Soát Tâm Trí",
+        "Luân Hồi Trên Home Screen",
+        "Ma Trận",
+        "Mental Model",
+        "MOC - Epistemology & Propaganda",
+        "MOC - Esoterica & Consciousness",
+        "MOC - Financial Sovereignty",
+        "MOC - Market Psychology & Risk",
+        "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nguyên Mẫu",
+        "Nhị Nguyên",
+        "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "politics-conspiracy/index",
+        "Privacy Is The New Wealth",
+        "Red Pill Wiki",
+        "S.E.X Và Tâm Lý Học Jung",
+        "Schadenfreude - Dopamine Phản Diện",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Sự Thật Ẩn Sau Con Người Bạn",
+        "Thông Minh vs Trí Tuệ",
+        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
+        "Thế Hệ Lọt Khe",
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "Tâm bất Biến",
+        "Tâm Lý Học Jung",
+        "Tâm Lý Học Tiến Hóa Về Giới Tính",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+        "Tư Duy Lũy Thừa",
+        "Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào",
+        "UBI Conditioning - The End of Work Ethic",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/index.md",
+        "esoterica/index.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "index.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+        "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+        "mental-models/Individuation.md",
+        "mental-models/Luân Hồi Trên Home Screen.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "mental-models/Thế Hệ Lọt Khe.md",
+        "mental-models/Tâm bất Biến.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Esoterica & Consciousness.md",
+        "MOC - Financial Sovereignty.md",
+        "MOC - Market Psychology & Risk.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "science-tech/AI.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+      ],
+      "backlinks": [
+        "crypto-finance/index.md",
+        "esoterica/index.md",
+        "health/index.md",
+        "index.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+        "politics-conspiracy/index.md"
+      ],
+      "words": 1627,
+      "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
+    },
+    {
       "path": "esoterica/Gnosis.md",
       "title": "Gnosis (Ngộ Đạo)",
       "domain": "esoterica",
@@ -16856,150 +17102,6 @@
       "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
     },
     {
-      "path": "mental-models/index.md",
-      "title": "Mental Models Domain Gateway",
-      "domain": "mental-models",
-      "tags": [
-        "domain-gateway",
-        "epistemology",
-        "mental-model"
-      ],
-      "aliases": [
-        "Mental Models",
-        "Mô Hình Tư Duy"
-      ],
-      "headings": [
-        "Mental Models Domain Gateway",
-        "Family, Dopamine & Orphan Train Pack",
-        "How To Read This Domain",
-        "Curated Reading Paths",
-        "1. Beginner Path — Thinking Tools Before Identity",
-        "2. Power-User Path — Jung, Shadow, Individuation",
-        "3. High-Risk Caution Path — Dopamine, Addiction, Manipulation",
-        "4. Perception Path — Duality, Identity, Self-Deception",
-        "5. Cross-Domain Bridge Path — Gen Z, Compliance, Future Self",
-        "6. AI-Age Agency Path — Mind Versus Machine",
-        "Key Hubs",
-        "Flagship Articles",
-        "Money, Dopamine & Survival Discipline",
-        "Gen Z & Agenda 2030 Path",
-        "Related Gateways",
-        "Notes"
-      ],
-      "wikilinks": [
-        "AI",
-        "Ai Đứng Bên Kia Giao Dịch",
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-        "Chia Tách Bởi Nhị Nguyên",
-        "Climate Anxiety as Control - Fear-Based Compliance",
-        "crypto-finance/index",
-        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
-        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu",
-        "esoterica/index",
-        "Gen Z - Phân Tích Phản Biện",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giàu Không Phải Để Vợ Không Làm Gì",
-        "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
-        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-        "Individuation",
-        "Kiểm Soát Tâm Trí",
-        "Luân Hồi Trên Home Screen",
-        "Ma Trận",
-        "Mental Model",
-        "MOC - Epistemology & Propaganda",
-        "MOC - Esoterica & Consciousness",
-        "MOC - Financial Sovereignty",
-        "MOC - Market Psychology & Risk",
-        "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nguyên Mẫu",
-        "Nhị Nguyên",
-        "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
-        "politics-conspiracy/index",
-        "Privacy Is The New Wealth",
-        "Red Pill Wiki",
-        "S.E.X Và Tâm Lý Học Jung",
-        "Schadenfreude - Dopamine Phản Diện",
-        "Sợ hãi - Tham Lam – Cân bằng",
-        "Sự Thật Ẩn Sau Con Người Bạn",
-        "Thông Minh vs Trí Tuệ",
-        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
-        "Thế Hệ Lọt Khe",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "Tâm bất Biến",
-        "Tâm Lý Học Jung",
-        "Tâm Lý Học Tiến Hóa Về Giới Tính",
-        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-        "Tư Duy Lũy Thừa",
-        "Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào",
-        "UBI Conditioning - The End of Work Ethic",
-        "Vô Thức Tập Thể"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/index.md",
-        "esoterica/index.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "index.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
-        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-        "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
-        "mental-models/Gen Z - Phân Tích Phản Biện.md",
-        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
-        "mental-models/Individuation.md",
-        "mental-models/Luân Hồi Trên Home Screen.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-        "mental-models/Privacy Is The New Wealth.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "mental-models/Thế Hệ Lọt Khe.md",
-        "mental-models/Tâm bất Biến.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-        "mental-models/Tư Duy Lũy Thừa.md",
-        "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Esoterica & Consciousness.md",
-        "MOC - Financial Sovereignty.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "science-tech/AI.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-      ],
-      "backlinks": [
-        "crypto-finance/index.md",
-        "esoterica/index.md",
-        "health/index.md",
-        "index.md",
-        "politics-conspiracy/index.md"
-      ],
-      "words": 1560,
-      "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
-    },
-    {
       "path": "MOC - Epistemology & Propaganda.md",
       "title": "MOC - Epistemology & Propaganda",
       "domain": "root",
@@ -17107,6 +17209,113 @@
       ],
       "words": 842,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
+    },
+    {
+      "path": "MOC - Health Sovereignty.md",
+      "title": "MOC - Health Sovereignty",
+      "domain": "root",
+      "tags": [
+        "health",
+        "moc",
+        "sovereignty"
+      ],
+      "aliases": [
+        "MOC - Health Sovereignty"
+      ],
+      "headings": [
+        "MOC - Health Sovereignty",
+        "How To Read This Map",
+        "Start Here",
+        "Terrain & Body Systems",
+        "Metabolic & Cancer Protocols",
+        "Matrix Health & Industrial Corruption",
+        "Family, Hormones & Body Sovereignty",
+        "Practical Grounding",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Chimera",
+        "Cách Đọc Red Pill Wiki",
+        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+        "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+        "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
+        "Ketogenic Diet",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
+        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "Năng Lượng Tình Dục",
+        "Plasma Quinton",
+        "Prolonged Fasting",
+        "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
+        "Suramin",
+        "Thuyết Vi Sinh Nội Sinh",
+        "Thuốc Hóa Dầu",
+        "Tuyến Tùng",
+        "Ung Thư - Metabolic Protocol",
+        "Vận Chín, Người Kogi và Ma Trận Y Tế",
+        "Y Tế Tự Nhiên"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Chimera.md",
+        "esoterica/Năng Lượng Tình Dục.md",
+        "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/Prolonged Fasting.md",
+        "health/René Quinton và Huyết Tương Biển.md",
+        "health/Suramin.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Tuyến Tùng.md",
+        "health/Ung Thư - Metabolic Protocol.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "health/Y Tế Tự Nhiên.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md"
+      ],
+      "backlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "Glossary - Từ Điển Red Pill Wiki.md",
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
+        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+        "health/index.md",
+        "health/Ketogenic Diet.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
+        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
+        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
+        "health/Plasma Quinton.md",
+        "health/Prolonged Fasting.md",
+        "health/Su That Ve Benh Dai Va Vac Xin.md",
+        "health/Suramin.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "health/Tuyến Tùng.md",
+        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
+        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "health/Y Tế Tự Nhiên.md",
+        "index.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+        "MOC - Science Revisionism.md",
+        "science-tech/index.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "words": 732,
+      "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng. Nó không phải ghét bác sĩ hay phủ định cấp cứu hiện đại. Nó là không để hệ thống định nghĩa thay mình thế…"
     },
     {
       "path": "Cách Đọc Red Pill Wiki.md",
@@ -17524,103 +17733,6 @@
       ],
       "words": 1347,
       "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…"
-    },
-    {
-      "path": "MOC - Health Sovereignty.md",
-      "title": "MOC - Health Sovereignty",
-      "domain": "root",
-      "tags": [
-        "health",
-        "moc",
-        "sovereignty"
-      ],
-      "aliases": [
-        "MOC - Health Sovereignty"
-      ],
-      "headings": [
-        "MOC - Health Sovereignty",
-        "How To Read This Map",
-        "Start Here",
-        "Terrain & Body Systems",
-        "Metabolic & Cancer Protocols",
-        "Matrix Health & Industrial Corruption",
-        "Practical Grounding",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "Cách Đọc Red Pill Wiki",
-        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-        "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-        "Ketogenic Diet",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
-        "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
-        "Plasma Quinton",
-        "Prolonged Fasting",
-        "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
-        "Suramin",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
-        "Tuyến Tùng",
-        "Ung Thư - Metabolic Protocol",
-        "Vận Chín, Người Kogi và Ma Trận Y Tế",
-        "Y Tế Tự Nhiên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/Ketogenic Diet.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Prolonged Fasting.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Suramin.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tuyến Tùng.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên.md"
-      ],
-      "backlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "Glossary - Từ Điển Red Pill Wiki.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/index.md",
-        "health/Ketogenic Diet.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận.md",
-        "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
-        "health/Plasma Quinton.md",
-        "health/Prolonged Fasting.md",
-        "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Suramin.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tuyến Tùng.md",
-        "health/Tần số cộng hưởng giữa Muối và Tuyến tùng.md",
-        "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "health/Y Tế Tự Nhiên.md",
-        "index.md",
-        "MOC - Science Revisionism.md",
-        "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-      ],
-      "words": 628,
-      "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng. Nó không phải ghét bác sĩ hay phủ định cấp cứu hiện đại. Nó là không để hệ thống định nghĩa thay mình thế…"
     },
     {
       "path": "esoterica/index.md",
@@ -18465,6 +18577,106 @@
       "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
     },
     {
+      "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+      "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+      "domain": "mental-models",
+      "tags": [
+        "matrix",
+        "mental-model",
+        "psychology",
+        "social-media"
+      ],
+      "aliases": [
+        "Attention Economy",
+        "Dopamine Economy",
+        "Kinh Tế Dopamine"
+      ],
+      "headings": [
+        "Dopamine Economy — Nền Kinh Tế Của Sự Thèm Muốn",
+        "Vault Position / Vị Trí Trong Vault",
+        "Publication Pack / Family, Dopamine & Orphan Train",
+        "1. Dopamine Không Phải Hạnh Phúc",
+        "2. Attention Là Hàng Hóa",
+        "3. Variable Reward: Máy Đánh Bạc Trong Túi",
+        "4. Các Kênh Hijack Chính",
+        "Social Media",
+        "Porn",
+        "Food",
+        "Gaming / Gambling",
+        "News / Politics",
+        "5. Dopamine Và Loosh",
+        "6. Tại Sao Ý Chí Không Đủ?",
+        "7. Escape Strategy",
+        "1. Remove Cues",
+        "2. Restore Natural Rewards",
+        "3. Dopamine Fasting Đúng Nghĩa",
+        "4. Replace, Not Just Remove",
+        "8. Dấu Hiệu Đang Bị Kinh Tế Dopamine Nuốt",
+        "Synthesis",
+        "Related",
+        "Financial Dopamine: Futures Group Là TikTok Của Lòng Tham"
+      ],
+      "wikilinks": [
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Kiểm Soát Tâm Trí",
+        "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+        "Ma Trận",
+        "Năng Lượng Tình Dục",
+        "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "Schadenfreude - Dopamine Phản Diện",
+        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+        "Tâm Lý Học Tiến Hóa Về Giới Tính",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Năng Lượng Tình Dục.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+      ],
+      "backlinks": [
+        "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/index.md",
+        "esoterica/Chakra.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "health/Công Thức Chữa Lành Tự Nhiên.md",
+        "index.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+        "mental-models/index.md",
+        "mental-models/Luân Hồi Trên Home Screen.md",
+        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
+        "MOC - Market Psychology & Risk.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+      ],
+      "words": 1086,
+      "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
+    },
+    {
       "path": "esoterica/Sự Nhất Thể.md",
       "title": "Sự Nhất Thể (Oneness)",
       "domain": "esoterica",
@@ -18628,105 +18840,6 @@
       ],
       "words": 1436,
       "summary": "**Terrain Theory nói một điều đơn giản nhưng bị làm phẳng: mầm bệnh không hành động trong chân không. Nó gặp một cơ thể có miễn dịch, ruột, dinh dưỡng, stress, độc chất, nhịp ngủ và bệnh nền riêng.** Vì vậy cùng một exposure có thể cho hai kết quả khác nhau.…"
-    },
-    {
-      "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-      "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-      "domain": "mental-models",
-      "tags": [
-        "matrix",
-        "mental-model",
-        "psychology",
-        "social-media"
-      ],
-      "aliases": [
-        "Attention Economy",
-        "Dopamine Economy",
-        "Kinh Tế Dopamine"
-      ],
-      "headings": [
-        "Dopamine Economy — Nền Kinh Tế Của Sự Thèm Muốn",
-        "Vault Position / Vị Trí Trong Vault",
-        "Publication Pack / Family, Dopamine & Orphan Train",
-        "1. Dopamine Không Phải Hạnh Phúc",
-        "2. Attention Là Hàng Hóa",
-        "3. Variable Reward: Máy Đánh Bạc Trong Túi",
-        "4. Các Kênh Hijack Chính",
-        "Social Media",
-        "Porn",
-        "Food",
-        "Gaming / Gambling",
-        "News / Politics",
-        "5. Dopamine Và Loosh",
-        "6. Tại Sao Ý Chí Không Đủ?",
-        "7. Escape Strategy",
-        "1. Remove Cues",
-        "2. Restore Natural Rewards",
-        "3. Dopamine Fasting Đúng Nghĩa",
-        "4. Replace, Not Just Remove",
-        "8. Dấu Hiệu Đang Bị Kinh Tế Dopamine Nuốt",
-        "Synthesis",
-        "Related",
-        "Financial Dopamine: Futures Group Là TikTok Của Lòng Tham"
-      ],
-      "wikilinks": [
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-        "Kiểm Soát Tâm Trí",
-        "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-        "Ma Trận",
-        "Năng Lượng Tình Dục",
-        "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
-        "Schadenfreude - Dopamine Phản Diện",
-        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-        "Tâm Lý Học Tiến Hóa Về Giới Tính",
-        "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Năng Lượng Tình Dục.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-      ],
-      "backlinks": [
-        "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/index.md",
-        "esoterica/Chakra.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "index.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
-        "mental-models/index.md",
-        "mental-models/Luân Hồi Trên Home Screen.md",
-        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-        "mental-models/Tư Duy Lũy Thừa.md",
-        "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
-      ],
-      "words": 1086,
-      "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
     },
     {
       "path": "MOC - Financial Sovereignty.md",
@@ -19800,15 +19913,15 @@
       11
     ],
     [
+      "mental-models",
+      10
+    ],
+    [
       "predictive-programming",
       9
     ],
     [
       "source-note",
-      9
-    ],
-    [
-      "mental-models",
       9
     ],
     [
@@ -19864,6 +19977,10 @@
       6
     ],
     [
+      "family",
+      6
+    ],
+    [
       "bitcoin",
       5
     ],
@@ -19896,7 +20013,7 @@
       5
     ],
     [
-      "family",
+      "dopamine-economy",
       5
     ],
     [
@@ -19925,10 +20042,6 @@
     ],
     [
       "cancer",
-      4
-    ],
-    [
-      "dopamine-economy",
       4
     ],
     [
@@ -20084,6 +20197,10 @@
       2
     ],
     [
+      "marriage",
+      2
+    ],
+    [
       "transhumanism",
       2
     ],
@@ -20145,10 +20262,6 @@
     ],
     [
       "strd",
-      1
-    ],
-    [
-      "strf",
       1
     ]
   ],
@@ -20859,18 +20972,23 @@
         "Terrain & Body Systems",
         "Metabolic & Cancer Protocols",
         "Matrix Health & Industrial Corruption",
+        "Family, Hormones & Body Sovereignty",
         "Practical Grounding",
         "Synthesis",
         "Related"
       ],
       "wikilinks": [
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Chimera",
         "Cách Đọc Red Pill Wiki",
         "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
+        "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
         "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
         "Ketogenic Diet",
         "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
         "Mebendazole - Thuốc Tẩy Giun Chống Ung Thư",
         "Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh",
+        "Năng Lượng Tình Dục",
         "Plasma Quinton",
         "Prolonged Fasting",
         "Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ",
@@ -20885,6 +21003,8 @@
       "mdlinks": [],
       "outlinks": [
         "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Chimera.md",
+        "esoterica/Năng Lượng Tình Dục.md",
         "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
         "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
         "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
@@ -20900,7 +21020,9 @@
         "health/Tuyến Tùng.md",
         "health/Ung Thư - Metabolic Protocol.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
-        "health/Y Tế Tự Nhiên.md"
+        "health/Y Tế Tự Nhiên.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md"
       ],
       "backlinks": [
         "Cách Đọc Red Pill Wiki.md",
@@ -20929,12 +21051,13 @@
         "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
         "health/Y Tế Tự Nhiên.md",
         "index.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "MOC - Science Revisionism.md",
         "science-tech/index.md",
         "science-tech/Khoa Học Xét Lại.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 628,
+      "words": 732,
       "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng. Nó không phải ghét bác sĩ hay phủ định cấp cứu hiện đại. Nó là không để hệ thống định nghĩa thay mình thế…"
     },
     "MOC - Market Psychology & Risk.md": {
@@ -22374,8 +22497,8 @@
       "aliases": [
         "Money",
         "Money... (P.1)",
-        "tiền",
         "Tiền",
+        "tiền",
         "Tiền tiền tiền",
         "tiền... (P.1) / Money"
       ],
@@ -22430,12 +22553,12 @@
       ],
       "headings": [
         "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
-        "1. Vàng Không Sinh Ra Từ Earth",
-        "2. Cosmic Egg Và Snowman: Earth Gần Lõi Hơn Ta Tưởng",
-        "3. Golden Age: Khi Gold Là Trạng Thái, Không Chỉ Là Commodity",
-        "4. Moon Veil: Ký Ức Ngắn Và Ánh Sáng Phản Chiếu",
+        "1. Vàng Không Sinh Ra Từ Trái Đất",
+        "2. Trứng Vũ Trụ Và Snowman: Trái Đất Gần Lõi Hơn Ta Tưởng",
+        "3. Thời Đại Vàng: Khi Vàng Là Trạng Thái, Không Chỉ Là Hàng Hóa",
+        "4. Màn Che Mặt Trăng: Ký Ức Ngắn Và Ánh Sáng Phản Chiếu",
         "5. Golden Age Bị Chính Trị Hóa",
-        "6. Fiat, CBDC Và Money Không Còn Ký Ức",
+        "6. Fiat, CBDC Và Tiền Không Còn Ký Ức",
         "7. Vàng Vẫn Có Chu Kỳ: Accumulate Without Pressure",
         "Chốt",
         "Xem Tiếp"
@@ -22466,8 +22589,8 @@
         "index.md",
         "MOC - Financial Sovereignty.md"
       ],
-      "words": 1981,
-      "summary": "**Vàng không chỉ là tài sản. Nó là vật chất của ký ức dài: cosmic matter nằm trong Earth, biểu tượng của Golden Age, và một anchor ngoài những hệ tiền được lập trình bởi issuer. Nhưng vàng vẫn đi qua bull và bear. Muốn giữ một tài sản ngoài thời gian, đừng mu…"
+      "words": 2304,
+      "summary": "**Vàng không chỉ là tài sản. Nó là vật chất của ký ức dài: vật chất vũ trụ nằm trong Trái Đất, biểu tượng của Thời Đại Vàng, và một điểm neo nằm ngoài các hệ tiền do bên phát hành lập trình. Nhưng vàng vẫn đi qua chu kỳ tăng và giảm. Muốn giữ một tài sản ngoà…"
     },
     "crypto-finance/index.md": {
       "path": "crypto-finance/index.md",
@@ -23462,8 +23585,10 @@
       ],
       "backlinks": [
         "esoterica/S.E.X.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "MOC - Health Sovereignty.md"
       ],
       "words": 770,
       "summary": "**Chimera là hình ảnh mạnh cho sự trộn lẫn: trong sinh học là nhiều dòng tế bào/DNA trong một cơ thể; trong esoteric reading là câu hỏi sex, thân mật và trao đổi năng lượng để lại dấu vết gì trong con người.** Bài này cần đọc rất kỷ luật: microchimerism có th…"
@@ -25136,6 +25261,7 @@
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
@@ -26074,7 +26200,9 @@
         "esoterica/Tinh Khí Thần.md",
         "esoterica/Tình Yêu Tỉnh Thức.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "MOC - Health Sovereignty.md",
         "politics-conspiracy/MindGeek.md",
         "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
       ],
@@ -27631,7 +27759,8 @@
         "esoterica/Năng Lượng Tình Dục.md",
         "esoterica/S.E.X.md",
         "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-        "index.md"
+        "index.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md"
       ],
       "words": 1300,
       "summary": "**Tình Yêu Tỉnh Thức** không phải cảm xúc lãng mạn được làm đẹp bằng ngôn ngữ tâm linh. Nó là năng lực yêu mà không chiếm hữu, thấy rõ mà không lạnh lùng, bao dung mà không tự phản bội. Trong vault này, tình yêu tỉnh thức nối Nhân Quả, Nhị Nguyên, Trí Tuệ, In…"
@@ -29344,8 +29473,8 @@
         "health"
       ],
       "aliases": [
-        "Tần số cộng hưởng giữa Muối và Tuyến tùng",
-        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng"
+        "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
+        "Tần số cộng hưởng giữa Muối và Tuyến tùng"
       ],
       "headings": [
         "Tần Số Cộng Hưởng Giữa Muối và Tuyến Tùng",
@@ -29787,6 +29916,7 @@
         "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
         "esoterica/index",
         "Giải Mã Vũ Trụ - Y Tế - Tâm Linh",
+        "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
         "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
         "Ketogenic Diet",
         "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
@@ -29836,6 +29966,7 @@
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "health/Y Tế Tự Nhiên.md",
         "index.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Health Sovereignty.md",
@@ -29847,7 +29978,7 @@
         "index.md",
         "science-tech/index.md"
       ],
-      "words": 901,
+      "words": 942,
       "summary": "**Health trong redpill.wiki là quyền đọc lại cơ thể trước khi outsource toàn bộ sinh mệnh cho fear, pharma, protocol và authority.** Domain này không phủ nhận cấp cứu, phẫu thuật hay chẩn đoán hiện đại. Nó hỏi câu sâu hơn: tại sao một nền y tế mạnh về can thi…"
     },
     "index.md": {
@@ -29959,6 +30090,7 @@
         "Gnosis",
         "health/index",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
         "Individuation",
         "Karma Disclosure - Truth Hidden In Plain Sight",
         "Ketogenic Diet",
@@ -30153,6 +30285,7 @@
         "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
@@ -30224,7 +30357,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4503,
+      "words": 4549,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
@@ -30470,12 +30603,14 @@
         "index.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
         "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
-        "MOC - Epistemology & Propaganda.md"
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Health Sovereignty.md"
       ],
       "words": 4014,
       "summary": "Gia đình không bị phá bằng một cú đánh. Nó bị làm rỗng từng lớp."
@@ -30711,6 +30846,7 @@
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -30889,6 +31025,75 @@
       ],
       "words": 3360,
       "summary": "Có một hình mẫu nghe rất ngọt: người chồng kiếm thật nhiều tiền để vợ không cần làm gì."
+    },
+    "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md": {
+      "path": "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+      "title": "Hormone, Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+      "domain": "mental-models",
+      "tags": [
+        "dopamine-economy",
+        "family",
+        "health-sovereignty",
+        "hormones",
+        "marriage",
+        "mental-models"
+      ],
+      "aliases": [
+        "Biology Politicized",
+        "Birth Control Và Ma Trận Gia Đình",
+        "Hormone Và Hôn Nhân"
+      ],
+      "headings": [
+        "Hormone, Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+        "Vault Position / Vị Trí Trong Vault",
+        "Claim Discipline / Kỷ Luật Tuyên Bố",
+        "Từ Khóa Cần Hiểu",
+        "1. Hôn Nhân Không Còn Là Vé Vào Cửa Của Sex",
+        "2. Birth Control: Tự Do Thật, Nhưng Không Miễn Phí",
+        "3. Abortion Politics: Khi Tử Cung Thành Chiến Trường Ý Thức Hệ",
+        "4. Hormone Không Phải Định Mệnh, Nhưng Cũng Không Phải Chi Tiết Phụ",
+        "5. Endocrine Disruption: Ma Trận Đi Qua Nước, Nhựa, Ánh Sáng Và Stress",
+        "6. Childfree Luxury Và Cái Bẫy Hedonism",
+        "7. Hôn Nhân Như Infrastructure Của Sinh Học Và Linh Hồn",
+        "8. Đọc Bài Rant Gốc Như Thế Nào?",
+        "Phần có thể giữ",
+        "Phần phải bỏ",
+        "Phần cần nâng cấp",
+        "Sovereignty Practice / Thực Hành Chủ Quyền",
+        "Chốt Lại",
+        "Related"
+      ],
+      "wikilinks": [
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Chimera",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Ma Trận",
+        "mental-models/index",
+        "MOC - Health Sovereignty",
+        "Năng Lượng Tình Dục",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+        "Tình Yêu Tỉnh Thức"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Chimera.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Năng Lượng Tình Dục.md",
+        "esoterica/Tình Yêu Tỉnh Thức.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/index.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "MOC - Health Sovereignty.md"
+      ],
+      "backlinks": [
+        "health/index.md",
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Health Sovereignty.md"
+      ],
+      "words": 3112,
+      "summary": "**Hiện đại không phá hôn nhân chỉ bằng tự do tình dục. Nó phá bằng cách tách tình dục khỏi sinh sản, sinh sản khỏi nghĩa vụ, nghĩa vụ khỏi danh dự, rồi gọi phần trống rỗng còn lại là tự do cá nhân. Nhưng phản ứng ngược kiểu đổ toàn bộ lỗi lên phụ nữ, thuốc tr…"
     },
     "mental-models/Individuation.md": {
       "path": "mental-models/Individuation.md",
@@ -32374,6 +32579,7 @@
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -32678,6 +32884,7 @@
         "Giàu Không Phải Để Vợ Không Làm Gì",
         "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
         "Individuation",
         "Kiểm Soát Tâm Trí",
         "Luân Hồi Trên Home Screen",
@@ -32731,6 +32938,7 @@
         "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/Individuation.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Mental Model.md",
@@ -32769,9 +32977,10 @@
         "esoterica/index.md",
         "health/index.md",
         "index.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1560,
+      "words": 1627,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
