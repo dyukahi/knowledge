@@ -328,9 +328,12 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ## Recent Updates / Cập Nhật Gần Đây
 
-- **Hormone, Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học** — new Mental Models/Health bridge on marriage, contraception, abortion-politics, endocrine disruption and family sovereignty with claim discipline.
+### June 27, 2026
+
+- **[[Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học|Hormone, Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học]]** - bài Mental Models/Health bridge đọc hôn nhân, thuốc tránh thai, phá thai, rối loạn nội tiết từ môi trường và chủ quyền gia đình bằng kỷ luật tuyên bố, không rơi vào thói ghét phụ nữ hay sự chắc chắn giả.
 - **[[Vàng, Golden Age Và Màn Che Của Mặt Trăng]]** - bài crypto-finance/esoterica bridge đọc vàng như cosmic memory, Golden Age symbol, anchor ngoài fiat/CBDC, nhưng vẫn là asset có chu kỳ cần tích lũy không áp lực và không margin.
 - **[[Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]]** - bài phân tích *Dune* full tiếng Việt, đọc Paul/Leto II/Golden Path như bi kịch của messiah trap, prescience và Ma Trận định mệnh; kèm dự đoán hướng *Dune 3* theo *Dune Messiah*.
+
 ### June 24, 2026
 
 - **Six-article revisionist/esoterica rewrite pass** - refined [[Khoa Học Xét Lại]], [[Chu Kỳ Vũ Trụ - Yugas & Kalpas]], [[Atlantis]], [[Lemuria]], [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]] and [[Nikola Tesla]] with tighter claim discipline, stronger vault positioning, cleaner prose and section-level illustrations.
