@@ -46,6 +46,7 @@ Root onboarding sống ở [[Cách Đọc Red Pill Wiki]], đặc biệt [[Curre
 - [[Cách Đọc Red Pill Wiki]] — bài nền để không biến vault thành dogma.
 - [[Nghịch Lý Của Hiểu Biết]] — mọi framework đều là ngón tay chỉ mặt trăng.
 - [[Mental Model]] — model là công cụ, không phải reality.
+- [[Abilene Paradox - Nghịch Lý Đồng Thuận Giả|Nghịch Lý Abilene]] — khi đồng thuận công khai che giấu preference thật của từng người.
 - [[Nhị Nguyên]] — thấy cách tâm trí bị kéo vào hai cực giả.
 
 Discernment không phải nghi ngờ mọi thứ. Discernment là biết mỗi claim đang nằm ở tầng nào.

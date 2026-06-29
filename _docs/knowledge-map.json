@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 227,
+    "notes": 228,
     "domains": {
       "_docs": 11,
       "root": 14,
       "crypto-finance": 16,
       "esoterica": 76,
       "health": 27,
-      "mental-models": 38,
+      "mental-models": 39,
       "politics-conspiracy": 27,
       "science-tech": 18
     },
-    "tags": 252,
-    "wikilinkEdges": 2208,
+    "tags": 253,
+    "wikilinkEdges": 2217,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -1636,6 +1636,7 @@
           "health/Tuyến Tùng.md",
           "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
           "index.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Chia Tách Bởi Nhị Nguyên.md",
@@ -8708,6 +8709,7 @@
           "Notes"
         ],
         "wikilinks": [
+          "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
           "AI",
           "Ai Đứng Bên Kia Giao Dịch",
           "Bộ Não Rỗng và AI Brain Rot",
@@ -8768,6 +8770,7 @@
           "esoterica/Ma Trận.md",
           "esoterica/Nghịch Lý Của Hiểu Biết.md",
           "index.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
@@ -8820,7 +8823,7 @@
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1627,
+        "words": 1667,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -8917,6 +8920,87 @@
         ],
         "words": 1347,
         "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…"
+      },
+      {
+        "path": "mental-models/Vô Thức Tập Thể.md",
+        "title": "Vô Thức Tập Thể",
+        "domain": "mental-models",
+        "tags": [
+          "consciousness",
+          "jung",
+          "mental-model"
+        ],
+        "aliases": [
+          "Akashic Records",
+          "Collective Unconscious",
+          "Vô Thức Tập Thể (Akashic Records)"
+        ],
+        "headings": [
+          "Vô Thức Tập Thể (Collective Unconscious)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Jung Nói Gì?",
+          "Archetype Là Gì?",
+          "Dream, Myth Và Culture",
+          "Akashic Records Connection",
+          "Ma Trận Và Vô Thức Tập Thể",
+          "Kết"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Individuation",
+          "Ma Trận",
+          "Monad",
+          "Nguyên Mẫu",
+          "Năng Lượng Aether",
+          "Tâm Lý Học Jung"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+          "esoterica/Dune - Paul Leto II Va Golden Path.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Sacred Geometry.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "health/Tuyến Tùng.md",
+          "index.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+          "mental-models/index.md",
+          "mental-models/Individuation.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Esoterica & Consciousness.md",
+          "science-tech/Nikola Tesla.md"
+        ],
+        "words": 799,
+        "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
       },
       {
         "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -9017,86 +9101,6 @@
         ],
         "words": 1086,
         "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
-      },
-      {
-        "path": "mental-models/Vô Thức Tập Thể.md",
-        "title": "Vô Thức Tập Thể",
-        "domain": "mental-models",
-        "tags": [
-          "consciousness",
-          "jung",
-          "mental-model"
-        ],
-        "aliases": [
-          "Akashic Records",
-          "Collective Unconscious",
-          "Vô Thức Tập Thể (Akashic Records)"
-        ],
-        "headings": [
-          "Vô Thức Tập Thể (Collective Unconscious)",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Jung Nói Gì?",
-          "Archetype Là Gì?",
-          "Dream, Myth Và Culture",
-          "Akashic Records Connection",
-          "Ma Trận Và Vô Thức Tập Thể",
-          "Kết"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Individuation",
-          "Ma Trận",
-          "Monad",
-          "Nguyên Mẫu",
-          "Năng Lượng Aether",
-          "Tâm Lý Học Jung"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
-          "esoterica/Dune - Paul Leto II Va Golden Path.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "health/Tuyến Tùng.md",
-          "index.md",
-          "mental-models/index.md",
-          "mental-models/Individuation.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Esoterica & Consciousness.md",
-          "science-tech/Nikola Tesla.md"
-        ],
-        "words": 799,
-        "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
       },
       {
         "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -9902,6 +9906,69 @@
         "summary": "**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là \"nhân vật trong thần thoại\". Chúng là phần mềm biểu tượng khiến con người nhận ra King, Mothe…"
       },
       {
+        "path": "mental-models/Mental Model.md",
+        "title": "Mental Model",
+        "domain": "mental-models",
+        "tags": [
+          "epistemology",
+          "mental-model"
+        ],
+        "aliases": [
+          "Cognitive Model",
+          "Mô Hình Tư Duy",
+          "Thinking Model"
+        ],
+        "headings": [
+          "Mental Model",
+          "Vault Position",
+          "Evidence Discipline / Cách Dùng Model",
+          "Bản Đồ Không Phải Lãnh Thổ",
+          "Model Nền Cần Có",
+          "Mental Models Against The Matrix",
+          "Kết Hợp Nhiều Model",
+          "Model Và Identity",
+          "Quy Trình Xây Thư Viện Model",
+          "Failure Modes",
+          "Chốt Lại",
+          "Related"
+        ],
+        "wikilinks": [
+          "Individuation",
+          "Khoa Học Xét Lại",
+          "Ma Trận",
+          "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
+          "Nhị Nguyên",
+          "Thông Minh vs Trí Tuệ",
+          "Tư Duy Lũy Thừa",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "index.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+          "mental-models/index.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "MOC - Epistemology & Propaganda.md"
+        ],
+        "words": 1169,
+        "summary": "**Mental model là bản đồ vận hành của reality trong đầu bạn.** Người có model nghèo bị sự kiện kéo đi. Người có model tốt thấy cấu trúc phía sau sự kiện, dự đoán hậu quả tốt hơn và chọn phản ứng tỉnh hơn. Trong redpill.wiki, mental model không phải mẹo năng s…"
+      },
+      {
         "path": "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
         "title": "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
         "domain": "mental-models",
@@ -10021,68 +10088,6 @@
         ],
         "words": 1322,
         "summary": "**Tư duy lũy thừa là khả năng nhìn thấy giai đoạn tích lũy vô hình trước khi kết quả bùng nổ.** Nó chống lại ảo giác tuyến tính của trường học, công sở và dopamine economy: làm một chút, nhận một chút, thấy thưởng ngay. Những kết quả đột phá thường đến từ cườ…"
-      },
-      {
-        "path": "mental-models/Mental Model.md",
-        "title": "Mental Model",
-        "domain": "mental-models",
-        "tags": [
-          "epistemology",
-          "mental-model"
-        ],
-        "aliases": [
-          "Cognitive Model",
-          "Mô Hình Tư Duy",
-          "Thinking Model"
-        ],
-        "headings": [
-          "Mental Model",
-          "Vault Position",
-          "Evidence Discipline / Cách Dùng Model",
-          "Bản Đồ Không Phải Lãnh Thổ",
-          "Model Nền Cần Có",
-          "Mental Models Against The Matrix",
-          "Kết Hợp Nhiều Model",
-          "Model Và Identity",
-          "Quy Trình Xây Thư Viện Model",
-          "Failure Modes",
-          "Chốt Lại",
-          "Related"
-        ],
-        "wikilinks": [
-          "Individuation",
-          "Khoa Học Xét Lại",
-          "Ma Trận",
-          "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
-          "Nhị Nguyên",
-          "Thông Minh vs Trí Tuệ",
-          "Tư Duy Lũy Thừa",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "index.md",
-          "mental-models/index.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "MOC - Epistemology & Propaganda.md"
-        ],
-        "words": 1169,
-        "summary": "**Mental model là bản đồ vận hành của reality trong đầu bạn.** Người có model nghèo bị sự kiện kéo đi. Người có model tốt thấy cấu trúc phía sau sự kiện, dự đoán hậu quả tốt hơn và chọn phản ứng tỉnh hơn. Trong redpill.wiki, mental model không phải mẹo năng s…"
       },
       {
         "path": "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
@@ -10773,6 +10778,62 @@
         ],
         "words": 1333,
         "summary": "**Gen Z không phải thế hệ hỏng, cũng không phải thế hệ cứu thế giới. Họ là thế hệ đầu tiên lớn lên trong một thực tại nơi attention, identity, money, work, fear và body đều được platform hóa trước khi họ đủ lớn để gọi tên điều đó. Muốn hiểu Gen Z, đừng hỏi họ…"
+      },
+      {
+        "path": "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+        "title": "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+        "domain": "mental-models",
+        "tags": [
+          "epistemology",
+          "group-dynamics",
+          "mental-model",
+          "propaganda"
+        ],
+        "aliases": [
+          "False Consensus Trap",
+          "Im Lặng Tập Thể",
+          "Nghịch Lý Abilene",
+          "Pluralistic Ignorance",
+          "Sự Thiếu Hiểu Biết Số Đông"
+        ],
+        "headings": [
+          "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+          "Vault Position / Vị Trí Trong Vault",
+          "Từ Khóa Cần Hiểu",
+          "Câu Chuyện Abilene / The Trip Nobody Wanted",
+          "Cơ Chế Tâm Lý / Psychological Mechanism",
+          "Abilene Khác Groupthink Thế Nào?",
+          "Abilene Trong Gia Đình, Công Ty Và Xã Hội",
+          "Claim Discipline Khi Dùng Model Này",
+          "Dấu Hiệu Nhận Biết Một Chuyến Xe Abilene",
+          "Cách Thoát Khỏi Abilene",
+          "Kết / The Real Red Pill",
+          "Related"
+        ],
+        "wikilinks": [
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Mental Model",
+          "MOC - Epistemology & Propaganda",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "MOC - Epistemology & Propaganda.md"
+        ],
+        "words": 1982,
+        "summary": "**Nghịch lý Abilene là bi kịch của một tập thể tự phản bội chính mình: không ai thật sự muốn đi, nhưng ai cũng lên xe vì tưởng người khác muốn đi. Nó không phải vấn đề thiếu ý kiến. Nó là vấn đề mọi người nuốt ý kiến của mình để giữ hòa khí, rồi cả nhóm cùng…"
       },
       {
         "path": "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
@@ -11496,6 +11557,7 @@
           "Glossary - Từ Điển Red Pill Wiki.md",
           "health/Su That Ve Benh Dai Va Vac Xin.md",
           "index.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
@@ -13308,6 +13370,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "June 29, 2026",
           "June 27, 2026",
           "June 24, 2026",
           "June 22, 2026",
@@ -13329,6 +13392,7 @@
         "wikilinks": [
           "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
           "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+          "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
           "AI",
           "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
           "Ai Đứng Bên Kia Giao Dịch",
@@ -13557,6 +13621,7 @@
           "health/Tuyến Tùng.md",
           "health/Ung Thư - Metabolic Protocol.md",
           "health/Y Tế Tự Nhiên.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
@@ -13638,7 +13703,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 4586,
+        "words": 4651,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -13666,6 +13731,7 @@
         ],
         "wikilinks": [
           "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
           "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
           "Báo Cáo 2030",
           "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
@@ -13701,6 +13767,7 @@
           "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
           "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
           "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
           "mental-models/Mental Model.md",
@@ -13726,6 +13793,7 @@
           "Glossary - Từ Điển Red Pill Wiki.md",
           "health/index.md",
           "index.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
           "mental-models/index.md",
           "MOC - Ancient Civilizations & Hidden History.md",
           "MOC - Esoterica & Consciousness.md",
@@ -13747,7 +13815,7 @@
           "science-tech/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 842,
+        "words": 864,
         "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
       },
       {
@@ -14521,6 +14589,7 @@
           "esoterica/Nghịch Lý Của Hiểu Biết.md",
           "Glossary - Từ Điển Red Pill Wiki.md",
           "index.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "politics-conspiracy/Elite.md",
           "science-tech/Khoa Học Xét Lại.md"
@@ -15917,6 +15986,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "June 29, 2026",
         "June 27, 2026",
         "June 24, 2026",
         "June 22, 2026",
@@ -15938,6 +16008,7 @@
       "wikilinks": [
         "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
         "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
         "AI",
         "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "Ai Đứng Bên Kia Giao Dịch",
@@ -16166,6 +16237,7 @@
         "health/Tuyến Tùng.md",
         "health/Ung Thư - Metabolic Protocol.md",
         "health/Y Tế Tự Nhiên.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
@@ -16247,7 +16319,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4586,
+      "words": 4651,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -16415,6 +16487,7 @@
         "health/Tuyến Tùng.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
@@ -16877,6 +16950,7 @@
         "Notes"
       ],
       "wikilinks": [
+        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
         "AI",
         "Ai Đứng Bên Kia Giao Dịch",
         "Bộ Não Rỗng và AI Brain Rot",
@@ -16937,6 +17011,7 @@
         "esoterica/Ma Trận.md",
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
@@ -16989,7 +17064,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1627,
+      "words": 1667,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
@@ -17128,6 +17203,7 @@
       ],
       "wikilinks": [
         "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
         "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
         "Báo Cáo 2030",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
@@ -17163,6 +17239,7 @@
         "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
         "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Mental Model.md",
@@ -17188,6 +17265,7 @@
         "Glossary - Từ Điển Red Pill Wiki.md",
         "health/index.md",
         "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/index.md",
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Esoterica & Consciousness.md",
@@ -17209,7 +17287,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 842,
+      "words": 864,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     {
@@ -17318,6 +17396,104 @@
       ],
       "words": 732,
       "summary": "**Health Sovereignty là quyền tự đọc cơ thể, tự hiểu terrain, và không outsource toàn bộ sinh mệnh cho một medical-industrial system có incentive riêng. Nó không phải ghét bác sĩ hay phủ định cấp cứu hiện đại. Nó là không để hệ thống định nghĩa thay mình thế…"
+    },
+    {
+      "path": "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+      "title": "Kiểm Soát Tâm Trí (Mind Control)",
+      "domain": "politics-conspiracy",
+      "tags": [
+        "consciousness",
+        "politics-conspiracy",
+        "propaganda"
+      ],
+      "aliases": [
+        "Kiểm Soát Tâm Trí",
+        "Kiểm Soát Tâm Trí (Mind Control)"
+      ],
+      "headings": [
+        "Kiểm Soát Tâm Trí (Mind Control)",
+        "Vault Position / Vị Trí Trong Vault",
+        "Evidence Discipline / Cách Đọc Claim",
+        "Source Register / Nguồn Nên Đối Chiếu",
+        "Control Stack / Các Tầng Kiểm Soát",
+        "Cướp Dopamine (Dopamine Hijacking)",
+        "MK-Ultra & Beyond",
+        "Chemical And Body Layer / Tầng Cơ Thể",
+        "Crisis Template / Mẫu Khủng Hoảng",
+        "Thoát Khỏi (Breaking Free)",
+        "Core Insight / Chốt Lại"
+      ],
+      "wikilinks": [
+        "Báo Cáo 2030",
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Elite",
+        "Individuation",
+        "Kiểm Soát Tâm Trí",
+        "Ma Trận",
+        "MOC - Epistemology & Propaganda",
+        "Trí Tuệ",
+        "Tuyến Tùng",
+        "Điều mà nền giáo dục và chính phủ không dạy bạn"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Ma Trận.md",
+        "health/Tuyến Tùng.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Individuation.md",
+        "mental-models/Trí Tuệ.md",
+        "MOC - Epistemology & Propaganda.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
+      ],
+      "backlinks": [
+        "crypto-finance/index.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+        "esoterica/Cabal.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Một Đời Phù Vân.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
+        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "Glossary - Từ Điển Red Pill Wiki.md",
+        "health/Su That Ve Benh Dai Va Vac Xin.md",
+        "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/index.md",
+        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "MOC - Epistemology & Propaganda.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "politics-conspiracy/MAGA Và Số 42.md",
+        "politics-conspiracy/MindGeek.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Sự thật về ma túy.md",
+        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md"
+      ],
+      "words": 1360,
+      "summary": "**Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…"
     },
     {
       "path": "Cách Đọc Red Pill Wiki.md",
@@ -17447,103 +17623,6 @@
       ],
       "words": 2021,
       "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Trước khi tin hoặc phủ định bất kỳ điều gì, hãy nhận biết chính tiến trình thấy đang xảy ra.…"
-    },
-    {
-      "path": "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-      "title": "Kiểm Soát Tâm Trí (Mind Control)",
-      "domain": "politics-conspiracy",
-      "tags": [
-        "consciousness",
-        "politics-conspiracy",
-        "propaganda"
-      ],
-      "aliases": [
-        "Kiểm Soát Tâm Trí",
-        "Kiểm Soát Tâm Trí (Mind Control)"
-      ],
-      "headings": [
-        "Kiểm Soát Tâm Trí (Mind Control)",
-        "Vault Position / Vị Trí Trong Vault",
-        "Evidence Discipline / Cách Đọc Claim",
-        "Source Register / Nguồn Nên Đối Chiếu",
-        "Control Stack / Các Tầng Kiểm Soát",
-        "Cướp Dopamine (Dopamine Hijacking)",
-        "MK-Ultra & Beyond",
-        "Chemical And Body Layer / Tầng Cơ Thể",
-        "Crisis Template / Mẫu Khủng Hoảng",
-        "Thoát Khỏi (Breaking Free)",
-        "Core Insight / Chốt Lại"
-      ],
-      "wikilinks": [
-        "Báo Cáo 2030",
-        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "Elite",
-        "Individuation",
-        "Kiểm Soát Tâm Trí",
-        "Ma Trận",
-        "MOC - Epistemology & Propaganda",
-        "Trí Tuệ",
-        "Tuyến Tùng",
-        "Điều mà nền giáo dục và chính phủ không dạy bạn"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Ma Trận.md",
-        "health/Tuyến Tùng.md",
-        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-        "mental-models/Individuation.md",
-        "mental-models/Trí Tuệ.md",
-        "MOC - Epistemology & Propaganda.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md"
-      ],
-      "backlinks": [
-        "crypto-finance/index.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-        "esoterica/Cabal.md",
-        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Một Đời Phù Vân.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-        "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "Glossary - Từ Điển Red Pill Wiki.md",
-        "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "index.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-        "mental-models/index.md",
-        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "MOC - Epistemology & Propaganda.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/MAGA Và Số 42.md",
-        "politics-conspiracy/MindGeek.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md"
-      ],
-      "words": 1360,
-      "summary": "**Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…"
     },
     {
       "path": "health/Y Tế Tự Nhiên.md",
@@ -18564,6 +18643,7 @@
         "Glossary - Từ Điển Red Pill Wiki.md",
         "health/Tuyến Tùng.md",
         "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
         "mental-models/Mental Model.md",
@@ -19879,12 +19959,12 @@
       31
     ],
     [
-      "health",
+      "mental-model",
       29
     ],
     [
-      "mental-model",
-      28
+      "health",
+      29
     ],
     [
       "politics-conspiracy",
@@ -19919,6 +19999,10 @@
       10
     ],
     [
+      "epistemology",
+      9
+    ],
+    [
       "predictive-programming",
       9
     ],
@@ -19935,15 +20019,15 @@
       8
     ],
     [
-      "epistemology",
-      8
-    ],
-    [
       "energy",
       8
     ],
     [
       "spirituality",
+      8
+    ],
+    [
+      "propaganda",
       8
     ],
     [
@@ -19953,10 +20037,6 @@
     [
       "revisionist-science",
       8
-    ],
-    [
-      "propaganda",
-      7
     ],
     [
       "moc",
@@ -20673,6 +20753,7 @@
       ],
       "wikilinks": [
         "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
         "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể",
         "Báo Cáo 2030",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
@@ -20708,6 +20789,7 @@
         "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
         "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
         "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Mental Model.md",
@@ -20733,6 +20815,7 @@
         "Glossary - Từ Điển Red Pill Wiki.md",
         "health/index.md",
         "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/index.md",
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Esoterica & Consciousness.md",
@@ -20754,7 +20837,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 842,
+      "words": 864,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     "MOC - Esoterica & Consciousness.md": {
@@ -21306,6 +21389,7 @@
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "Glossary - Từ Điển Red Pill Wiki.md",
         "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "politics-conspiracy/Elite.md",
         "science-tech/Khoa Học Xét Lại.md"
@@ -25259,6 +25343,7 @@
         "health/Tuyến Tùng.md",
         "health/Vận Chín, Người Kogi và Ma Trận Y Tế.md",
         "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
@@ -30030,6 +30115,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "June 29, 2026",
         "June 27, 2026",
         "June 24, 2026",
         "June 22, 2026",
@@ -30051,6 +30137,7 @@
       "wikilinks": [
         "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
         "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa",
+        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
         "AI",
         "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "Ai Đứng Bên Kia Giao Dịch",
@@ -30279,6 +30366,7 @@
         "health/Tuyến Tùng.md",
         "health/Ung Thư - Metabolic Protocol.md",
         "health/Y Tế Tự Nhiên.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
@@ -30360,8 +30448,64 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4586,
+      "words": 4651,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
+    },
+    "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
+      "path": "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+      "title": "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+      "domain": "mental-models",
+      "tags": [
+        "epistemology",
+        "group-dynamics",
+        "mental-model",
+        "propaganda"
+      ],
+      "aliases": [
+        "False Consensus Trap",
+        "Im Lặng Tập Thể",
+        "Nghịch Lý Abilene",
+        "Pluralistic Ignorance",
+        "Sự Thiếu Hiểu Biết Số Đông"
+      ],
+      "headings": [
+        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+        "Vault Position / Vị Trí Trong Vault",
+        "Từ Khóa Cần Hiểu",
+        "Câu Chuyện Abilene / The Trip Nobody Wanted",
+        "Cơ Chế Tâm Lý / Psychological Mechanism",
+        "Abilene Khác Groupthink Thế Nào?",
+        "Abilene Trong Gia Đình, Công Ty Và Xã Hội",
+        "Claim Discipline Khi Dùng Model Này",
+        "Dấu Hiệu Nhận Biết Một Chuyến Xe Abilene",
+        "Cách Thoát Khỏi Abilene",
+        "Kết / The Real Red Pill",
+        "Related"
+      ],
+      "wikilinks": [
+        "Kiểm Soát Tâm Trí",
+        "Ma Trận",
+        "Mental Model",
+        "MOC - Epistemology & Propaganda",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Ma Trận.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "MOC - Epistemology & Propaganda.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Epistemology & Propaganda.md"
+      ],
+      "words": 1982,
+      "summary": "**Nghịch lý Abilene là bi kịch của một tập thể tự phản bội chính mình: không ai thật sự muốn đi, nhưng ai cũng lên xe vì tưởng người khác muốn đi. Nó không phải vấn đề thiếu ý kiến. Nó là vấn đề mọi người nuốt ý kiến của mình để giữ hòa khí, rồi cả nhóm cùng…"
     },
     "mental-models/Ai Đứng Bên Kia Giao Dịch.md": {
       "path": "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
@@ -31293,6 +31437,7 @@
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
         "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/index.md",
         "mental-models/Privacy Is The New Wealth.md",
         "mental-models/Thông Minh.md",
@@ -32825,6 +32970,7 @@
         "Glossary - Từ Điển Red Pill Wiki.md",
         "health/Tuyến Tùng.md",
         "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
         "mental-models/Mental Model.md",
@@ -32871,6 +33017,7 @@
         "Notes"
       ],
       "wikilinks": [
+        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
         "AI",
         "Ai Đứng Bên Kia Giao Dịch",
         "Bộ Não Rỗng và AI Brain Rot",
@@ -32931,6 +33078,7 @@
         "esoterica/Ma Trận.md",
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
@@ -32983,7 +33131,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1627,
+      "words": 1667,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
@@ -33705,6 +33853,7 @@
         "Glossary - Từ Điển Red Pill Wiki.md",
         "health/Su That Ve Benh Dai Va Vac Xin.md",
         "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
