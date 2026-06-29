@@ -1,6 +1,6 @@
 ---
 title: "Lemuria (Mu)"
-aliases: ["Lemuria (Mu)", "Lemuria", "Mu", "Lemurian Civilization"]
+aliases: ["Lemuria", "Mu", "Lemurian Civilization"]
 description: "Lemuria là ký ức myth-history về một văn minh oceanic, feminine, trực giác và Gaia-aligned."
 date: 2026-04-07
 updated: 2026-06-24

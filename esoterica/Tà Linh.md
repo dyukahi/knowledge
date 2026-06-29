@@ -1,7 +1,7 @@
 ---
 title: "Tà Linh"
 description: "Bài này không yêu cầu người đọc tin ngay vào thực thể vô hình như một fact vật lý. Nó đặt bốn lớp cạnh nhau:"
-aliases: ["Tà Linh", "Energy Parasites", "Archons", "Tà Linh (Energy Parasites)", "Wetiko", "Flyers"]
+aliases: ["Energy Parasites", "Archons", "Tà Linh (Energy Parasites)", "Wetiko", "Flyers"]
 date: 2026-04-08
 tags: [esoterica, gnosis, consciousness]
 status: refined

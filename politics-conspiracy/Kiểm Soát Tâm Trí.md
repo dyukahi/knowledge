@@ -1,6 +1,6 @@
 ---
 title: "Kiểm Soát Tâm Trí (Mind Control)"
-aliases: ["Kiểm Soát Tâm Trí (Mind Control)", "Kiểm Soát Tâm Trí"]
+aliases: ["Kiểm Soát Tâm Trí"]
 description: "Kiểm Soát Tâm Trí (Mind Control): tags: [politics conspiracy, propaganda, consciousness]"
 date: 2026-04-07
 tags: [politics-conspiracy, propaganda, consciousness]

@@ -1,7 +1,7 @@
 ---
 title: "Nỏ Thần"
 description: "Nỏ Thần như biểu tượng của linh quang, công nghệ thiêng và quyền lực bảo hộ bị phản bội trong ký ức huyền sử Việt."
-aliases: ["Nỏ Thần", "Linh Quang Kim Quy Thần Nỏ"]
+aliases: ["Linh Quang Kim Quy Thần Nỏ"]
 date: 2026-04-08
 tags: [esoterica]
 status: refined

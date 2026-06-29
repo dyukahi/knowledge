@@ -1,6 +1,5 @@
 ---
 title: "Thánh Issa"
-aliases: ["Thánh Issa"]
 description: "Thánh Issa là tên gọi của Chúa Giêsu trong các bản thảo cổ tại tu viện Hemis (Ladakh, Tây Tạng). Giải đáp câu hỏi: Jesus ở đâu từ 12 30 tuổi?"
 date: 2026-04-08
 tags: [esoterica]

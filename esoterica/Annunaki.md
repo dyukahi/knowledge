@@ -1,6 +1,6 @@
 ---
 title: "Annunaki"
-aliases: ["Annunaki", "Anunnaki", "Sky Rulers", "Ancient Astronauts"]
+aliases: ["Anunnaki", "Sky Rulers", "Ancient Astronauts"]
 description: "Annunaki là giao điểm giữa thần thoại Lưỡng Hà, ancient astronaut theory và câu hỏi quyền lực: vì sao trật tự nhân loại thường tự nhận nguồn gốc từ trời?"
 date: 2026-04-08
 tags: [esoterica, hidden-history, annunaki]

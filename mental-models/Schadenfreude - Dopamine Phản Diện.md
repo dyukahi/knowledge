@@ -1,6 +1,5 @@
 ---
 title: "Schadenfreude - Dopamine Phản Diện"
-aliases: ["Schadenfreude - Dopamine Phản Diện"]
 description: "Schadenfreude - Dopamine Phản Diện: 'Không có gì sướng bằng thấy kẻ thù ngã ngựa.'"
 date: 2026-04-29
 tags: [mental-model, psychology, dark-side, dopamine]

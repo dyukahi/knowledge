@@ -1,6 +1,6 @@
 ---
 title: "Secular Market (Thị Trường Chu Kỳ Dài)"
-aliases: ["Secular Market (Thị Trường Chu Kỳ Dài)", "Secular Market"]
+aliases: ["Secular Market"]
 description: "Secular Market chỉ các xu hướng vĩ mô kéo dài hàng thập kỷ (10 30 năm), chi phối sự dịch chuyển tài sản và định hình lại cấu trúc kinh tế toàn cầu"
 date: 2026-04-07
 tags: [crypto-finance]

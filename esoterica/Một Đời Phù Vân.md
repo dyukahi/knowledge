@@ -1,7 +1,6 @@
 ---
 title: "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu"
 description: "Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu A Life Like Floating Clouds — The Story of an Ordinary Man Hôm nay tôi xin chia sẻ với quý vị một câu chuyện ẩn dụ."
-aliases: ["Một Đời Phù Vân — Câu Chuyện Của Kẻ Phàm Phu"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined

@@ -1,6 +1,6 @@
 ---
 title: "Tiền, tiền, tiền... (P.1) / Money, Money, Money... (P.1)"
-aliases: ["Tiền, tiền, tiền... (P.1) / Money, Money, Money... (P.1)", "Tiền tiền tiền"]
+aliases: ["Tiền tiền tiền"]
 description: "'Hãy để tao kiểm soát tiền của một quốc gia, và tao sẽ không quan tâm đến ai là người làm ra luật' – Mayer Amschel Bauer Rothschild"
 date: 2026-04-07
 tags: [crypto-finance]

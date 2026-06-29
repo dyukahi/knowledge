@@ -1,7 +1,6 @@
 ---
 title: "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"
 description: "Thuyết Tiến Hóa Các Nền Văn Minh Bị Che Giấu \"Nếu bạn kiểm soát được quá khứ, bạn kiểm soát được tương lai. Nếu bạn kiểm soát được hiện tại, bạn kiểm soát được quá"
-aliases: ["Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu"]
 date: 2026-04-08
 tags: [science-tech, hidden-history, evolution, civilization]
 status: refined

@@ -1,7 +1,6 @@
 ---
 title: "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể"
 description: "Brazil 2026 Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể Nếu World Cup 2022 là nghi lễ hoàn tất myth cá nhân của Messi, World Cup 2026 có vẻ đang được dựng như một nghi"
-aliases: ["Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined

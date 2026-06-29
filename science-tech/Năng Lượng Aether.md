@@ -1,7 +1,7 @@
 ---
 title: "Năng Lượng Aether"
 description: "Aether là một trong những câu hỏi bị đóng khung mạnh nhất trong lịch sử khoa học: không gian là rỗng thật, hay là một medium năng lượng mà khoa học hiện đại đã đổi tên"
-aliases: ["Năng Lượng Aether", "Aether Energy", "Free Energy"]
+aliases: ["Aether Energy", "Free Energy"]
 date: 2026-04-15
 tags: [science-tech, revisionist-science]
 status: refined

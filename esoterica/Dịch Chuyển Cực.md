@@ -1,7 +1,7 @@
 ---
 title: "Dịch Chuyển Cực (Pole Shift)"
 description: "Dịch Chuyển Cực là một cụm từ bị trộn lẫn giữa khoa học địa từ, giả thuyết địa chất và ký ức thảm họa cổ đại. Muốn đọc đúng"
-aliases: ["Dịch Chuyển Cực (Pole Shift)", "Pole Shift", "Geomagnetic Reversal", "Crustal Displacement"]
+aliases: ["Pole Shift", "Geomagnetic Reversal", "Crustal Displacement"]
 date: 2026-04-08
 tags: [esoterica, science-tech, cycles]
 status: refined

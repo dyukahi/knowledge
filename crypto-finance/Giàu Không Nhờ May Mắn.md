@@ -1,6 +1,5 @@
 ---
 title: "Giàu Không Nhờ May Mắn"
-aliases: ["Giàu Không Nhờ May Mắn"]
 description: "Giàu Không Nhờ May Mắn là cách đọc redpill về wealth: không coi giàu có là trúng số, không coi tiền là thần, và không coi địa vị là tự do"
 date: 2026-04-07
 tags: [crypto-finance]

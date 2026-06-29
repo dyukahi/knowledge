@@ -1,6 +1,5 @@
 ---
 title: "Gaia - Trái Đất Có Ý Thức"
-aliases: ["Gaia - Trái Đất Có Ý Thức"]
 description: "Gaia — Trái Đất Có Ý Thức / Earth as Living Consciousness: tags: [esoterica, consciousness, ancient wisdom]"
 date: 2026-04-29
 tags: [esoterica, consciousness, ancient-wisdom]

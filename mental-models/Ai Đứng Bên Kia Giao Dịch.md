@@ -1,7 +1,6 @@
 ---
 title: "Ai Đứng Bên Kia Giao Dịch"
 description: "Ai Đứng Bên Kia Giao Dịch Chart không phải đường giá. Chart là lịch sử của ownership transfer. Mỗi cây nến là dấu vết của một cuộc đổi tay: có người đủ sợ để bán,"
-aliases: ["Ai Đứng Bên Kia Giao Dịch"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined

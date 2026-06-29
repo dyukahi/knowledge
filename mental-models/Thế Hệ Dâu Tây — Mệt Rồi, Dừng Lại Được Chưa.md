@@ -1,7 +1,6 @@
 ---
 title: "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?"
 description: "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa? The Strawberry Generation — Tired Already, Can We Stop Yet? \"Chúng ta đang thắng cuộc đua, nhưng rồi nhận ra, phần"
-aliases: ["Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa?"]
 date: 2026-04-08
 tags: [science-tech]
 status: refined

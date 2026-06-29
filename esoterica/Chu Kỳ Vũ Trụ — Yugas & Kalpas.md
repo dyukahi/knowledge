@@ -1,7 +1,7 @@
 ---
 title: "Chu Kỳ Vũ Trụ - Yugas & Kalpas"
 description: "Yugas & Kalpas đọc thời gian như vòng xoắn suy thoái, reset và tái sinh, không phải đường thẳng tiến bộ đều đều."
-aliases: ["Chu Kỳ Vũ Trụ - Yugas & Kalpas", "Yugas", "Kalpas", "Cosmic Cycles"]
+aliases: ["Yugas", "Kalpas", "Cosmic Cycles"]
 date: 2026-04-08
 updated: 2026-06-24
 tags: [esoterica, hidden-history, cosmic-cycles]

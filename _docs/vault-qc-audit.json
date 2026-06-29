@@ -1,24 +1,48 @@
 {
   "summary": {
-    "public_notes": 210,
-    "avg_words": 1595,
+    "public_notes": 215,
+    "avg_words": 1618,
     "missing_description": 0,
-    "missing_aliases": 0,
-    "thin_lt800": 26,
+    "missing_aliases": 23,
+    "thin_lt800": 25,
     "duplicate_titles": 0,
-    "mobile_hostile_code": 0,
+    "mobile_hostile_code": 1,
     "horizontal_chain": 25,
-    "textblock_candidates": 37,
+    "textblock_candidates": 31,
     "broken_links": 0,
     "orphans_public": 2
   },
   "issues": {
     "missing_description": [],
-    "missing_aliases": [],
+    "missing_aliases": [
+      "MOC - Financial Sovereignty.md",
+      "MOC - Market Psychology & Risk.md",
+      "MOC - Esoterica & Consciousness.md",
+      "MOC - Ancient Civilizations & Hidden History.md",
+      "MOC - Science Revisionism.md",
+      "MOC - Health Sovereignty.md",
+      "MOC - Epistemology & Propaganda.md",
+      "crypto-finance/Giàu Không Nhờ May Mắn.md",
+      "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+      "esoterica/Thuật Giả Kim Của Newton.md",
+      "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+      "esoterica/Thánh Issa.md",
+      "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+      "esoterica/Tartaria.md",
+      "esoterica/Một Đời Phù Vân.md",
+      "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
+      "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+      "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+      "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+      "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+      "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+      "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+      "mental-models/Bộ Não Rỗng và AI Brain Rot.md"
+    ],
     "thin_lt800": [
       {
         "path": "MOC - Esoterica & Consciousness.md",
-        "words": 606
+        "words": 662
       },
       {
         "path": "MOC - Ancient Civilizations & Hidden History.md",
@@ -34,7 +58,7 @@
       },
       {
         "path": "MOC - Health Sovereignty.md",
-        "words": 628
+        "words": 732
       },
       {
         "path": "crypto-finance/Secular Market.md",
@@ -51,10 +75,6 @@
       {
         "path": "esoterica/Nỏ Thần.md",
         "words": 729
-      },
-      {
-        "path": "esoterica/Lemuria.md",
-        "words": 794
       },
       {
         "path": "esoterica/Chimera.md",
@@ -109,30 +129,33 @@
         "words": 714
       },
       {
-        "path": "mental-models/Tâm Lý Học Jung.md",
-        "words": 755
-      },
-      {
         "path": "mental-models/Chia Tách Bởi Nhị Nguyên.md",
         "words": 775
       },
       {
+        "path": "mental-models/Vô Thức Tập Thể.md",
+        "words": 799
+      },
+      {
         "path": "mental-models/Nhị Nguyên.md",
-        "words": 727
+        "words": 778
       }
     ],
     "duplicate_titles": [],
-    "mobile_hostile_code": [],
+    "mobile_hostile_code": [
+      "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md"
+    ],
     "horizontal_chain": [
       "index.md",
       "Cách Đọc Red Pill Wiki.md",
       "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-      "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
       "esoterica/Gaia - Trái Đất Có Ý Thức.md",
       "esoterica/Thánh Issa.md",
+      "esoterica/Ma Trận.md",
       "esoterica/Sacred Geometry.md",
       "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
       "esoterica/Năng Lượng Tình Dục.md",
+      "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
       "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
       "esoterica/Chu Kỳ Hoàng Đạo.md",
       "esoterica/Kỹ Thuật Thiền Định Kogi.md",
@@ -141,7 +164,6 @@
       "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
       "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
       "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-      "mental-models/Tâm Lý Học Jung.md",
       "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
       "mental-models/Gen Z - Phân Tích Phản Biện.md",
       "mental-models/Schadenfreude - Dopamine Phản Diện.md",
@@ -152,40 +174,22 @@
     ],
     "textblock_candidates": [
       {
-        "path": "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "short": 16,
-        "paragraphs": 37,
-        "ratio": 0.432
-      },
-      {
         "path": "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
-        "short": 92,
-        "paragraphs": 129,
-        "ratio": 0.713
+        "short": 91,
+        "paragraphs": 130,
+        "ratio": 0.7
       },
       {
         "path": "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
         "short": 93,
-        "paragraphs": 195,
-        "ratio": 0.477
-      },
-      {
-        "path": "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "short": 18,
-        "paragraphs": 47,
-        "ratio": 0.383
+        "paragraphs": 200,
+        "ratio": 0.465
       },
       {
         "path": "esoterica/Gematria.md",
         "short": 46,
         "paragraphs": 89,
         "ratio": 0.517
-      },
-      {
-        "path": "esoterica/Ma Trận.md",
-        "short": 20,
-        "paragraphs": 48,
-        "ratio": 0.417
       },
       {
         "path": "esoterica/Tinh Khí Thần.md",
@@ -284,22 +288,10 @@
         "ratio": 0.435
       },
       {
-        "path": "science-tech/Khoa Học Xét Lại.md",
-        "short": 16,
-        "paragraphs": 38,
-        "ratio": 0.421
-      },
-      {
         "path": "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "short": 35,
         "paragraphs": 87,
         "ratio": 0.402
-      },
-      {
-        "path": "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "short": 25,
-        "paragraphs": 54,
-        "ratio": 0.463
       },
       {
         "path": "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
@@ -336,12 +328,6 @@
         "short": 9,
         "paragraphs": 22,
         "ratio": 0.409
-      },
-      {
-        "path": "mental-models/Vô Thức Tập Thể.md",
-        "short": 10,
-        "paragraphs": 25,
-        "ratio": 0.4
       },
       {
         "path": "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",

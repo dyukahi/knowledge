@@ -1,7 +1,7 @@
 ---
 title: "Chimera (Thể Trộn Lẫn)"
 description: "Chimera là hình ảnh mạnh cho sự trộn lẫn: trong sinh học là nhiều dòng tế bào/DNA trong một cơ thể; trong esoteric reading là câu hỏi sex"
-aliases: ["Chimera (Thể Trộn Lẫn)", "Microchimerism"]
+aliases: ["Microchimerism"]
 date: 2026-04-07
 tags: [esoterica, biology, sexuality]
 status: refined

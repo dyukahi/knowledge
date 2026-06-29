@@ -1,7 +1,7 @@
 ---
 title: "Nikola Tesla"
 description: "Nikola Tesla là archetype của nhà phát minh đứng giữa kỹ thuật điện kiểm chứng và trực giác về năng lượng, tần số, trường."
-aliases: ["Nikola Tesla", "Tesla", "Nikola Tesla (Tần Số và Rung Động)"]
+aliases: ["Tesla", "Nikola Tesla (Tần Số và Rung Động)"]
 date: 2026-04-08
 updated: 2026-06-24
 tags: [science-tech, revisionist-science, energy]

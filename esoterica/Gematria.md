@@ -1,6 +1,6 @@
 ---
 title: "Gematria — Ngôn Ngữ Bí Mật Của Số"
-aliases: ["Gematria — Ngôn Ngữ Bí Mật Của Số", "Gematria", "Gematria - Ngôn Ngữ Bí Mật Của Số"]
+aliases: ["Gematria", "Gematria - Ngôn Ngữ Bí Mật Của Số"]
 description: "Galileo không nói ẩn dụ. Ông nói theo nghĩa đen. Và những người nắm quyền lực trên thế giới này — họ đọc được ngôn ngữ đó. Họ VIẾT bằng ngôn ngữ đó."
 date: 2026-05-09
 tags: [esoterica, mind-control]
