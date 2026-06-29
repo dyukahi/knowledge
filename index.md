@@ -330,7 +330,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### June 29, 2026
 
-- **[[Abilene Paradox - Nghịch Lý Đồng Thuận Giả]]** - new mental-models article on pluralistic ignorance, preference falsification and group decisions nobody truly wants; linked into Mental Models Gateway and Epistemology & Propaganda with explicit fact / pattern / symbol / synthesis discipline.
+- **[[Abilene Paradox - Nghịch Lý Đồng Thuận Giả]]** - new illustrated mental-models article on pluralistic ignorance, preference falsification and group decisions nobody truly wants; linked into Mental Models Gateway and Epistemology & Propaganda with explicit fact / pattern / symbol / synthesis discipline.
 - **Knowledge map refresh** - vault map rebuilt after the Abilene article; root counts synced to 228 notes and Mental Models 39 notes; broken links remain 0.
 
 ### June 27, 2026
