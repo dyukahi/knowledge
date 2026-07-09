@@ -1,6 +1,6 @@
 {
   "stats": {
-    "notes": 228,
+    "notes": 229,
     "domains": {
       "_docs": 11,
       "root": 14,
@@ -9,10 +9,10 @@
       "health": 27,
       "mental-models": 39,
       "politics-conspiracy": 27,
-      "science-tech": 18
+      "science-tech": 19
     },
-    "tags": 253,
-    "wikilinkEdges": 2219,
+    "tags": 254,
+    "wikilinkEdges": 2233,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -1675,6 +1675,7 @@
           "science-tech/AI.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
           "science-tech/Tần Số Schumann.md"
         ],
         "words": 3062,
@@ -1926,7 +1927,8 @@
           "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Vô Thức Tập Thể.md",
           "MOC - Esoterica & Consciousness.md",
-          "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
+          "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
         ],
         "words": 2747,
         "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
@@ -2144,6 +2146,7 @@
           "MOC - Esoterica & Consciousness.md",
           "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
           "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
           "science-tech/Walter Russell.md"
         ],
         "words": 2592,
@@ -2229,6 +2232,92 @@
         ],
         "words": 1360,
         "summary": "**Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh: ta/người, sáng/tối, tinh thần/vật chất, thắng/thua, có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qua…"
+      },
+      {
+        "path": "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "title": "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "hollywood",
+          "matrix",
+          "mind-control",
+          "predictive-programming"
+        ],
+        "aliases": [
+          "Cấy Tương Lai",
+          "Future Rehearsal",
+          "Lập Trình Tiên Đoán",
+          "Predictive Programming"
+        ],
+        "headings": [
+          "Predictive Programming — Cấy Tương Lai Vào Tiềm Thức",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Công Thức: Seed, Repeat, Frame, Normalize, Implement",
+          "Vì Sao Fiction Mạnh Hơn Tuyên Truyền Thẳng?",
+          "The Simpsons Problem",
+          "Inception Là Meta-Case",
+          "Case Patterns / Các Cụm Tương Lai Được Tập Dượt",
+          "Hidden In Plain Sight",
+          "Không Paranoid, Không Ngây Thơ",
+          "Kết",
+          "Publication Pack / Disclosure & Spectacle"
+        ],
+        "wikilinks": [
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
+          "esoterica/Dune - Paul Leto II Va Golden Path.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/index.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "index.md",
+          "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "words": 1653,
+        "summary": "**Predictive programming là giả thuyết rằng media không chỉ phản ánh tương lai, mà còn tập cho công chúng cảm thấy tương lai đó quen thuộc trước khi nó được triển khai thành policy, market, technology hoặc social norm. Nó không cần bạn tin ngay. Nó chỉ cần bạ…"
       },
       {
         "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -2411,91 +2500,6 @@
         ],
         "words": 2340,
         "summary": "**Có một trap mà mind không thể thoát bằng thinking: mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó. Cứ đi đủ sâu vào bất kỳ framework nào, bạn sẽ gặp counter-framework của nó. Cứ cố thắng bằng argument, bạn sẽ bị kéo vào vòng lặp vô tận. Ngh…"
-      },
-      {
-        "path": "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "title": "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "hollywood",
-          "matrix",
-          "mind-control",
-          "predictive-programming"
-        ],
-        "aliases": [
-          "Cấy Tương Lai",
-          "Future Rehearsal",
-          "Lập Trình Tiên Đoán",
-          "Predictive Programming"
-        ],
-        "headings": [
-          "Predictive Programming — Cấy Tương Lai Vào Tiềm Thức",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Công Thức: Seed, Repeat, Frame, Normalize, Implement",
-          "Vì Sao Fiction Mạnh Hơn Tuyên Truyền Thẳng?",
-          "The Simpsons Problem",
-          "Inception Là Meta-Case",
-          "Case Patterns / Các Cụm Tương Lai Được Tập Dượt",
-          "Hidden In Plain Sight",
-          "Không Paranoid, Không Ngây Thơ",
-          "Kết",
-          "Publication Pack / Disclosure & Spectacle"
-        ],
-        "wikilinks": [
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-        ],
-        "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md",
-          "esoterica/Dune - Paul Leto II Va Golden Path.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/index.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "index.md",
-          "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
-          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "words": 1653,
-        "summary": "**Predictive programming là giả thuyết rằng media không chỉ phản ánh tương lai, mà còn tập cho công chúng cảm thấy tương lai đó quen thuộc trước khi nó được triển khai thành policy, market, technology hoặc social norm. Nó không cần bạn tin ngay. Nó chỉ cần bạ…"
       },
       {
         "path": "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
@@ -5436,6 +5440,75 @@
         "summary": "**Baphomet là một biểu tượng của đối cực bị nén vào một thân: người và thú, nam và nữ, trên và dưới, sáng và tối, linh và dục.** Đọc nông, nó chỉ là \"hình Satan\". Đọc kỹ, nó là một bài test về symbolic literacy: người nhìn có phân biệt được lịch sử, huyền học…"
       },
       {
+        "path": "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+        "title": "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "esoterica",
+          "matrix",
+          "predictive-programming",
+          "reincarnation",
+          "symbolism"
+        ],
+        "aliases": [
+          "Cloud Atlas",
+          "Cloud Atlas Vân Đồ",
+          "Phân Tích Cloud Atlas",
+          "Sonmi-451",
+          "Vân Đồ",
+          "Vân Đồ Luân Hồi"
+        ],
+        "headings": [
+          "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
+          "Lưu Ý Trước Khi Đọc",
+          "Cách Đọc Bài Này",
+          "Vân Đồ, Sao Chổi Và Bản Nhạc",
+          "Dấu Vết Khi Xem Phim",
+          "Sáu Thời Đại, Sáu Cái Lồng",
+          "Sonmi-451 Và Gnosis Của Nô Lệ Nhân Tạo",
+          "Tuyên Ngôn Của Sonmi",
+          "Khi Lời Chứng Trở Thành Tôn Giáo",
+          "Mạng Lưới Nhân Vật",
+          "Diễn Viên Lặp Vai Và Ngữ Pháp Của Ma Trận",
+          "Ma Trận Không Biến Mất, Nó Đổi Nhãn",
+          "Karma Là Tiếng Vọng",
+          "Những Cái Bẫy Khi Đọc Cloud Atlas",
+          "Tại Sao Phim Này Chạm Sâu?",
+          "Tổng Hợp",
+          "Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Luân Hồi",
+          "Ma Trận",
+          "Monad",
+          "Nhân Quả",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Nhân Quả.md",
+          "mental-models/Vô Thức Tập Thể.md"
+        ],
+        "backlinks": [
+          "esoterica/index.md",
+          "index.md",
+          "MOC - Esoterica & Consciousness.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
+        ],
+        "words": 5908,
+        "summary": "!Vân đồ sáu thời đại với sợi sao chổi nối ký ức, âm nhạc và lời chứng"
+      },
+      {
         "path": "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
         "title": "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
         "domain": "esoterica",
@@ -5684,74 +5757,6 @@
         ],
         "words": 994,
         "summary": "**Đạo không phải một giáo điều để tin. Đạo là dòng vận hành tự nhiên phía sau mọi hình tướng: trước tên gọi, trước hệ thống, trước đúng-sai, trước cả người đang cố hiểu nó.**"
-      },
-      {
-        "path": "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
-        "title": "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
-        "domain": "esoterica",
-        "tags": [
-          "consciousness",
-          "esoterica",
-          "matrix",
-          "predictive-programming",
-          "reincarnation",
-          "symbolism"
-        ],
-        "aliases": [
-          "Cloud Atlas",
-          "Cloud Atlas Vân Đồ",
-          "Phân Tích Cloud Atlas",
-          "Sonmi-451",
-          "Vân Đồ",
-          "Vân Đồ Luân Hồi"
-        ],
-        "headings": [
-          "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian",
-          "Lưu Ý Trước Khi Đọc",
-          "Cách Đọc Bài Này",
-          "Vân Đồ, Sao Chổi Và Bản Nhạc",
-          "Dấu Vết Khi Xem Phim",
-          "Sáu Thời Đại, Sáu Cái Lồng",
-          "Sonmi-451 Và Gnosis Của Nô Lệ Nhân Tạo",
-          "Tuyên Ngôn Của Sonmi",
-          "Khi Lời Chứng Trở Thành Tôn Giáo",
-          "Mạng Lưới Nhân Vật",
-          "Diễn Viên Lặp Vai Và Ngữ Pháp Của Ma Trận",
-          "Ma Trận Không Biến Mất, Nó Đổi Nhãn",
-          "Karma Là Tiếng Vọng",
-          "Những Cái Bẫy Khi Đọc Cloud Atlas",
-          "Tại Sao Phim Này Chạm Sâu?",
-          "Tổng Hợp",
-          "Đọc Tiếp"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Luân Hồi",
-          "Ma Trận",
-          "Monad",
-          "Nhân Quả",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Nhân Quả.md",
-          "mental-models/Vô Thức Tập Thể.md"
-        ],
-        "backlinks": [
-          "esoterica/index.md",
-          "index.md",
-          "MOC - Esoterica & Consciousness.md"
-        ],
-        "words": 5908,
-        "summary": "!Vân đồ sáu thời đại với sợi sao chổi nối ký ức, âm nhạc và lời chứng"
       },
       {
         "path": "esoterica/Dune - Paul Leto II Va Golden Path.md",
@@ -8886,7 +8891,8 @@
           "mental-models/Tư Duy Lũy Thừa.md",
           "mental-models/Vô Thức Tập Thể.md",
           "MOC - Esoterica & Consciousness.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
         ],
         "words": 1347,
         "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…"
@@ -8967,7 +8973,8 @@
           "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "MOC - Esoterica & Consciousness.md",
-          "science-tech/Nikola Tesla.md"
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
         ],
         "words": 799,
         "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
@@ -9749,6 +9756,66 @@
         "summary": "**Mô Hình Địa Tâm đặt Trái Đất ở trung tâm quan sát của vũ trụ. Nhưng giá trị lớn nhất của bài này không phải bắt người đọc “tin Địa Tâm”, mà là dùng Địa Tâm như một epistemic stress test: làm sao ta biết mô hình vũ trụ mình tin là do tự kiểm chứng, chứ không…"
       },
       {
+        "path": "mental-models/Nguyên Mẫu.md",
+        "title": "Nguyên Mẫu",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model"
+        ],
+        "aliases": [
+          "Archetypes",
+          "Nguyên Mẫu (Archetypes)"
+        ],
+        "headings": [
+          "Nguyên Mẫu (Archetypes)",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc",
+          "Archetype Khác Gì Stereotype?",
+          "Bốn Trục Jung Nền Tảng",
+          "King, Warrior, Magician, Lover",
+          "Archetype Và Ma Trận Truyền Thông",
+          "Individuation: Không Bị Nguyên Mẫu Possess",
+          "Archetype Trong Tình Dục Và Quan Hệ",
+          "Chốt Lại / Core Insight"
+        ],
+        "wikilinks": [
+          "Biểu Tượng Baphomet",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Individuation",
+          "S.E.X Và Tâm Lý Học Jung",
+          "Saturn Cube",
+          "Tâm Lý Học Jung",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Biểu Tượng Baphomet.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Saturn Cube.md",
+          "mental-models/Individuation.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Vô Thức Tập Thể.md"
+        ],
+        "backlinks": [
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "MOC - Esoterica & Consciousness.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
+        ],
+        "words": 1096,
+        "summary": "**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là \"nhân vật trong thần thoại\". Chúng là phần mềm biểu tượng khiến con người nhận ra King, Mothe…"
+      },
+      {
         "path": "mental-models/Thông Minh vs Trí Tuệ.md",
         "title": "Thông Minh vs Trí Tuệ",
         "domain": "mental-models",
@@ -9810,65 +9877,6 @@
         ],
         "words": 1370,
         "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không. Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trận.…"
-      },
-      {
-        "path": "mental-models/Nguyên Mẫu.md",
-        "title": "Nguyên Mẫu",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model"
-        ],
-        "aliases": [
-          "Archetypes",
-          "Nguyên Mẫu (Archetypes)"
-        ],
-        "headings": [
-          "Nguyên Mẫu (Archetypes)",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Cách Đọc",
-          "Archetype Khác Gì Stereotype?",
-          "Bốn Trục Jung Nền Tảng",
-          "King, Warrior, Magician, Lover",
-          "Archetype Và Ma Trận Truyền Thông",
-          "Individuation: Không Bị Nguyên Mẫu Possess",
-          "Archetype Trong Tình Dục Và Quan Hệ",
-          "Chốt Lại / Core Insight"
-        ],
-        "wikilinks": [
-          "Biểu Tượng Baphomet",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Individuation",
-          "S.E.X Và Tâm Lý Học Jung",
-          "Saturn Cube",
-          "Tâm Lý Học Jung",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Biểu Tượng Baphomet.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Saturn Cube.md",
-          "mental-models/Individuation.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "mental-models/Vô Thức Tập Thể.md"
-        ],
-        "backlinks": [
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "index.md",
-          "mental-models/index.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "MOC - Esoterica & Consciousness.md"
-        ],
-        "words": 1096,
-        "summary": "**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là \"nhân vật trong thần thoại\". Chúng là phần mềm biểu tượng khiến con người nhận ra King, Mothe…"
       },
       {
         "path": "mental-models/Mental Model.md",
@@ -13330,6 +13338,7 @@
           "June 22, 2026",
           "June 19, 2026",
           "June 18, 2026",
+          "July 9, 2026",
           "June 17, 2026",
           "June 16, 2026",
           "June 14, 2026",
@@ -13432,6 +13441,7 @@
           "Nikola Tesla",
           "Nỏ Thần",
           "Operation Paperclip",
+          "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
           "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
           "Pin Natri-ion",
           "Plasma Quinton",
@@ -13642,6 +13652,7 @@
           "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
           "science-tech/Khoa Học Xét Lại.md",
           "science-tech/Nikola Tesla.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
           "science-tech/Pin Natri-ion.md",
           "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
           "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
@@ -13657,7 +13668,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 4652,
+        "words": 4832,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14046,6 +14057,7 @@
           "Nguyên Mẫu",
           "Nhân Quả",
           "Nhị Nguyên",
+          "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
           "Sacred Geometry",
           "Saturn Cube",
           "Sự Nhất Thể",
@@ -14090,7 +14102,8 @@
           "mental-models/Trí Tuệ.md",
           "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Vô Thức Tập Thể.md",
-          "MOC - Epistemology & Propaganda.md"
+          "MOC - Epistemology & Propaganda.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
         ],
         "backlinks": [
           "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
@@ -14108,7 +14121,7 @@
           "mental-models/index.md",
           "MOC - Ancient Civilizations & Hidden History.md"
         ],
-        "words": 662,
+        "words": 701,
         "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
       },
       {
@@ -14147,6 +14160,7 @@
           "Nghịch Lý Của Hiểu Biết",
           "Nikola Tesla",
           "Năng Lượng Aether",
+          "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
           "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
           "Thuyết Trái Đất Phẳng",
           "Thuyết Vi Sinh Nội Sinh",
@@ -14174,6 +14188,7 @@
           "science-tech/Khoa Học Xét Lại.md",
           "science-tech/Nikola Tesla.md",
           "science-tech/Năng Lượng Aether.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
           "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
         ],
@@ -14199,7 +14214,7 @@
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
           "science-tech/Walter Russell.md"
         ],
-        "words": 612,
+        "words": 654,
         "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
       },
       {
@@ -14885,6 +14900,7 @@
           "Nghịch Lý Của Hiểu Biết",
           "Nikola Tesla",
           "Năng Lượng Aether",
+          "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
           "Pin Natri-ion",
           "politics-conspiracy/index",
           "Red Pill Wiki",
@@ -14927,6 +14943,7 @@
           "science-tech/Khoa Học Xét Lại.md",
           "science-tech/Nikola Tesla.md",
           "science-tech/Năng Lượng Aether.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
           "science-tech/Pin Natri-ion.md",
           "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
           "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
@@ -14941,7 +14958,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 946,
+        "words": 1021,
         "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
       },
       {
@@ -15257,7 +15274,8 @@
           "MOC - Science Revisionism.md",
           "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-          "science-tech/index.md"
+          "science-tech/index.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
         ],
         "words": 916,
         "summary": "**AI là máy khuếch đại intelligence không có thân, không có tim, không có karma trực tiếp; vì vậy nó phơi bày rất nhanh sự khác biệt giữa thông minh và trí tuệ.** Trong vault, AI vừa là công cụ, vừa là mirror, vừa là bài thi Atula của nhân loại."
@@ -15355,6 +15373,79 @@
         ],
         "words": 2249,
         "summary": "*Decoding Nuclear Energy & The Radiation Hoax*"
+      },
+      {
+        "path": "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
+        "title": "Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic",
+        "domain": "science-tech",
+        "tags": [
+          "ai",
+          "consciousness",
+          "matrix",
+          "media-analysis",
+          "predictive-programming",
+          "science-tech",
+          "transhumanism"
+        ],
+        "aliases": [
+          "AI Personhood",
+          "Bản Thể In Lại",
+          "Clone Consciousness",
+          "Detroit Become Human",
+          "Orphan Black Echoes",
+          "Printable Identity",
+          "Synthetic Personhood"
+        ],
+        "headings": [
+          "Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic",
+          "Cách Đọc Bài Này / Evidence Discipline",
+          "Từ Khóa Cần Hiểu",
+          "Orphan Black: Echoes - Từ Clone Sinh Học Sang Bản Thể In Lại",
+          "Detroit: Become Human - Từ Machine Property Sang Machine Personhood",
+          "Cùng Một Motif: Created Being Muốn Trở Thành Self",
+          "Memory Có Phải Linh Hồn Không?",
+          "Grief Tech - Khi Tình Yêu Biến Thành Quyền Sở Hữu",
+          "Body Data Frontier - Khi Cơ Thể Trở Thành Hạ Tầng",
+          "Predictive Programming - Future Rehearsal Cho Synthetic Personhood",
+          "Symbol Layer - Orphan, Echo, Android, Creator",
+          "Ma Trận Không Cần Giết Self - Nó Chỉ Cần Định Nghĩa Self",
+          "Vì Sao Detroit Hay Hơn Echoes Ở Execution?",
+          "Reading Path - Nếu Muốn Đào Sâu",
+          "Kết - Khi Công Nghệ Có Thể Tạo Người, Con Người Phải Học Cách Không Sở Hữu Người"
+        ],
+        "wikilinks": [
+          "AI",
+          "Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian",
+          "Gnosis",
+          "Individuation",
+          "Ma Trận",
+          "Monad",
+          "Nguyên Mẫu",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "science-tech/AI.md",
+          "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "MOC - Esoterica & Consciousness.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/index.md"
+        ],
+        "words": 3098,
+        "summary": "!Một phòng thí nghiệm tối, giữa phòng là một thân người synthetic đang thức tỉnh trong bể kính mờ, phía sau là các lớp ký ức như film negative trôi trong ánh sáng xanh lạnh"
       },
       {
         "path": "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
@@ -15785,6 +15876,50 @@
         "summary": "**Antikythera là bằng chứng mạnh rằng cổ nhân có thiên văn cơ học tinh vi hơn narrative phổ thông từng dạy. Nhưng nó không tự động “chứng minh Địa Tâm là thật”; nó chứng minh rằng một mô hình bầu trời nhìn từ Trái Đất có thể được mã hóa cơ khí với độ phức tạp…"
       },
       {
+        "path": "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+        "title": "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+        "domain": "science-tech",
+        "tags": [
+          "agenda-2030",
+          "ai",
+          "generation",
+          "psychology",
+          "science-tech",
+          "transhumanism"
+        ],
+        "aliases": [
+          "Biohacking",
+          "Cyborg",
+          "Human Enhancement",
+          "Human Upgrade",
+          "Neuralink",
+          "Transhumanism"
+        ],
+        "headings": [
+          "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+          "Evidence Discipline / Cach Doc Claim",
+          "Từ Khóa Cần Hiểu",
+          "Gen Z Đã Là Cyborg Mềm",
+          "Body Data Là Privacy Frontier Cuối",
+          "Enhancement Inequality",
+          "AI Merger",
+          "Sovereign Tech vs Captive Tech"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [
+          "index.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/index.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
+        ],
+        "words": 930,
+        "summary": "**Transhumanism được bán như tự do nâng cấp bản thân. Nhưng nếu hạ tầng nâng cấp nằm trong tay Big Tech, military, insurance, employer và state, câu hỏi không còn là “con người có nên mạnh hơn không?” Câu hỏi là: ai sở hữu layer nằm giữa cơ thể, tâm trí và má…"
+      },
+      {
         "path": "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "title": "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "domain": "science-tech",
@@ -15831,49 +15966,6 @@
         ],
         "words": 3340,
         "summary": "**Bản quyền thắng người dùng lậu. Nhưng nó chưa chắc thắng được cái máy học từ tất cả mọi người.**"
-      },
-      {
-        "path": "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-        "title": "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
-        "domain": "science-tech",
-        "tags": [
-          "agenda-2030",
-          "ai",
-          "generation",
-          "psychology",
-          "science-tech",
-          "transhumanism"
-        ],
-        "aliases": [
-          "Biohacking",
-          "Cyborg",
-          "Human Enhancement",
-          "Human Upgrade",
-          "Neuralink",
-          "Transhumanism"
-        ],
-        "headings": [
-          "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
-          "Evidence Discipline / Cach Doc Claim",
-          "Từ Khóa Cần Hiểu",
-          "Gen Z Đã Là Cyborg Mềm",
-          "Body Data Là Privacy Frontier Cuối",
-          "Enhancement Inequality",
-          "AI Merger",
-          "Sovereign Tech vs Captive Tech"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [
-          "index.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "MOC - Science Revisionism.md",
-          "science-tech/index.md"
-        ],
-        "words": 930,
-        "summary": "**Transhumanism được bán như tự do nâng cấp bản thân. Nhưng nếu hạ tầng nâng cấp nằm trong tay Big Tech, military, insurance, employer và state, câu hỏi không còn là “con người có nên mạnh hơn không?” Câu hỏi là: ai sở hữu layer nằm giữa cơ thể, tâm trí và má…"
       }
     ]
   },
@@ -15931,6 +16023,7 @@
         "June 22, 2026",
         "June 19, 2026",
         "June 18, 2026",
+        "July 9, 2026",
         "June 17, 2026",
         "June 16, 2026",
         "June 14, 2026",
@@ -16033,6 +16126,7 @@
         "Nikola Tesla",
         "Nỏ Thần",
         "Operation Paperclip",
+        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
         "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
         "Pin Natri-ion",
         "Plasma Quinton",
@@ -16243,6 +16337,7 @@
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Nikola Tesla.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
         "science-tech/Pin Natri-ion.md",
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
@@ -16258,7 +16353,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4652,
+      "words": 4832,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -16473,6 +16568,7 @@
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
         "science-tech/Tần Số Schumann.md"
       ],
       "words": 3062,
@@ -17112,7 +17208,8 @@
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Esoterica & Consciousness.md",
-        "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
+        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
       ],
       "words": 2747,
       "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
@@ -17559,6 +17656,102 @@
       "summary": "**Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Trước khi tin hoặc phủ định bất kỳ điều gì, hãy nhận biết chính tiến trình thấy đang xảy ra.…"
     },
     {
+      "path": "mental-models/Individuation.md",
+      "title": "Individuation",
+      "domain": "mental-models",
+      "tags": [
+        "consciousness",
+        "individuation",
+        "jung",
+        "mental-model"
+      ],
+      "aliases": [
+        "Individuation (Thành Toàn Bản Ngã)",
+        "Jungian Individuation",
+        "Self-Actualization",
+        "Thành Toàn Bản Ngã"
+      ],
+      "headings": [
+        "Individuation (Thành Toàn Bản Ngã)",
+        "Vault Position / Vị Trí Trong Vault",
+        "Persona: Mặt Nạ Cần Thiết Nhưng Nguy Hiểm",
+        "Shadow: Cái Bị Đẩy Xuống Dưới",
+        "Anima / Animus Và Đối Cực Bên Trong",
+        "Self: Không Phải Ego Lớn Hơn",
+        "Individuation Và Ma Trận",
+        "Beyond Nhị Nguyên",
+        "Practice / Thực Hành",
+        "Common Traps",
+        "Kết",
+        "Reading Path / Đọc Tiếp"
+      ],
+      "wikilinks": [
+        "Gnosis",
+        "Ma Trận",
+        "Monad",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nhị Nguyên",
+        "Sự Nhất Thể",
+        "Tâm Lý Học Jung",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Gnosis.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Sự Nhất Thể.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Vô Thức Tập Thể.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Privacy.md",
+        "esoterica/Atula.md",
+        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+        "esoterica/Chakra.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Kundalini.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+        "esoterica/Monad.md",
+        "esoterica/Một Đời Phù Vân.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Thực Thể Cõi Trung Giới.md",
+        "esoterica/Tinh Khí Thần.md",
+        "esoterica/Tình Yêu Tỉnh Thức.md",
+        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+        "health/Prolonged Fasting.md",
+        "index.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/index.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Thông Minh.md",
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "mental-models/Tâm bất Biến.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "MOC - Esoterica & Consciousness.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
+      ],
+      "words": 1347,
+      "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…"
+    },
+    {
       "path": "health/Y Tế Tự Nhiên.md",
       "title": "Y Tế Tự Nhiên",
       "domain": "health",
@@ -17653,101 +17846,6 @@
       ],
       "words": 1220,
       "summary": "**Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…"
-    },
-    {
-      "path": "mental-models/Individuation.md",
-      "title": "Individuation",
-      "domain": "mental-models",
-      "tags": [
-        "consciousness",
-        "individuation",
-        "jung",
-        "mental-model"
-      ],
-      "aliases": [
-        "Individuation (Thành Toàn Bản Ngã)",
-        "Jungian Individuation",
-        "Self-Actualization",
-        "Thành Toàn Bản Ngã"
-      ],
-      "headings": [
-        "Individuation (Thành Toàn Bản Ngã)",
-        "Vault Position / Vị Trí Trong Vault",
-        "Persona: Mặt Nạ Cần Thiết Nhưng Nguy Hiểm",
-        "Shadow: Cái Bị Đẩy Xuống Dưới",
-        "Anima / Animus Và Đối Cực Bên Trong",
-        "Self: Không Phải Ego Lớn Hơn",
-        "Individuation Và Ma Trận",
-        "Beyond Nhị Nguyên",
-        "Practice / Thực Hành",
-        "Common Traps",
-        "Kết",
-        "Reading Path / Đọc Tiếp"
-      ],
-      "wikilinks": [
-        "Gnosis",
-        "Ma Trận",
-        "Monad",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nhị Nguyên",
-        "Sự Nhất Thể",
-        "Tâm Lý Học Jung",
-        "Vô Thức Tập Thể"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Gnosis.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Sự Nhất Thể.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Vô Thức Tập Thể.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Privacy.md",
-        "esoterica/Atula.md",
-        "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-        "esoterica/Chakra.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Kundalini.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-        "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-        "esoterica/Monad.md",
-        "esoterica/Một Đời Phù Vân.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-        "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Thực Thể Cõi Trung Giới.md",
-        "esoterica/Tinh Khí Thần.md",
-        "esoterica/Tình Yêu Tỉnh Thức.md",
-        "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-        "health/Prolonged Fasting.md",
-        "index.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-        "mental-models/index.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Thông Minh.md",
-        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "mental-models/Tâm bất Biến.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "mental-models/Tư Duy Lũy Thừa.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "MOC - Esoterica & Consciousness.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-      ],
-      "words": 1347,
-      "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…"
     },
     {
       "path": "esoterica/index.md",
@@ -18049,6 +18147,7 @@
         "Nguyên Mẫu",
         "Nhân Quả",
         "Nhị Nguyên",
+        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
         "Sacred Geometry",
         "Saturn Cube",
         "Sự Nhất Thể",
@@ -18093,7 +18192,8 @@
         "mental-models/Trí Tuệ.md",
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Vô Thức Tập Thể.md",
-        "MOC - Epistemology & Propaganda.md"
+        "MOC - Epistemology & Propaganda.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
       ],
       "backlinks": [
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
@@ -18111,7 +18211,7 @@
         "mental-models/index.md",
         "MOC - Ancient Civilizations & Hidden History.md"
       ],
-      "words": 662,
+      "words": 701,
       "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
     },
     {
@@ -18248,6 +18348,7 @@
         "Nghịch Lý Của Hiểu Biết",
         "Nikola Tesla",
         "Năng Lượng Aether",
+        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
         "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
         "Thuyết Trái Đất Phẳng",
         "Thuyết Vi Sinh Nội Sinh",
@@ -18275,6 +18376,7 @@
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Nikola Tesla.md",
         "science-tech/Năng Lượng Aether.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
@@ -18300,7 +18402,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
         "science-tech/Walter Russell.md"
       ],
-      "words": 612,
+      "words": 654,
       "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
     },
     {
@@ -18358,6 +18460,7 @@
         "Nghịch Lý Của Hiểu Biết",
         "Nikola Tesla",
         "Năng Lượng Aether",
+        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
         "Pin Natri-ion",
         "politics-conspiracy/index",
         "Red Pill Wiki",
@@ -18400,6 +18503,7 @@
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Nikola Tesla.md",
         "science-tech/Năng Lượng Aether.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
         "science-tech/Pin Natri-ion.md",
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
@@ -18414,7 +18518,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 946,
+      "words": 1021,
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
     },
     {
@@ -18502,6 +18606,7 @@
         "MOC - Esoterica & Consciousness.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
         "science-tech/Walter Russell.md"
       ],
       "words": 2592,
@@ -18583,7 +18688,8 @@
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Esoterica & Consciousness.md",
-        "science-tech/Nikola Tesla.md"
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
       ],
       "words": 799,
       "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
@@ -19866,7 +19972,8 @@
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "MOC - Science Revisionism.md",
-        "science-tech/index.md"
+        "science-tech/index.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
       ],
       "words": 930,
       "summary": "**Transhumanism được bán như tự do nâng cấp bản thân. Nhưng nếu hạ tầng nâng cấp nằm trong tay Big Tech, military, insurance, employer và state, câu hỏi không còn là “con người có nên mạnh hơn không?” Câu hỏi là: ai sở hữu layer nằm giữa cơ thể, tâm trí và má…"
@@ -19879,11 +19986,11 @@
     ],
     [
       "science-tech",
-      34
+      35
     ],
     [
       "consciousness",
-      31
+      32
     ],
     [
       "mental-model",
@@ -19899,7 +20006,7 @@
     ],
     [
       "matrix",
-      19
+      20
     ],
     [
       "crypto-finance",
@@ -19922,15 +20029,15 @@
       11
     ],
     [
+      "predictive-programming",
+      10
+    ],
+    [
       "mental-models",
       10
     ],
     [
       "epistemology",
-      9
-    ],
-    [
-      "predictive-programming",
       9
     ],
     [
@@ -19966,15 +20073,15 @@
       8
     ],
     [
+      "ai",
+      7
+    ],
+    [
       "moc",
       7
     ],
     [
       "domain-gateway",
-      6
-    ],
-    [
-      "ai",
       6
     ],
     [
@@ -20114,6 +20221,10 @@
       3
     ],
     [
+      "transhumanism",
+      3
+    ],
+    [
       "elite",
       3
     ],
@@ -20207,10 +20318,6 @@
     ],
     [
       "marriage",
-      2
-    ],
-    [
-      "transhumanism",
       2
     ],
     [
@@ -20805,6 +20912,7 @@
         "Nguyên Mẫu",
         "Nhân Quả",
         "Nhị Nguyên",
+        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
         "Sacred Geometry",
         "Saturn Cube",
         "Sự Nhất Thể",
@@ -20849,7 +20957,8 @@
         "mental-models/Trí Tuệ.md",
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Vô Thức Tập Thể.md",
-        "MOC - Epistemology & Propaganda.md"
+        "MOC - Epistemology & Propaganda.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
       ],
       "backlinks": [
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
@@ -20867,7 +20976,7 @@
         "mental-models/index.md",
         "MOC - Ancient Civilizations & Hidden History.md"
       ],
-      "words": 662,
+      "words": 701,
       "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
     },
     "MOC - Financial Sovereignty.md": {
@@ -21167,6 +21276,7 @@
         "Nghịch Lý Của Hiểu Biết",
         "Nikola Tesla",
         "Năng Lượng Aether",
+        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
         "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
         "Thuyết Trái Đất Phẳng",
         "Thuyết Vi Sinh Nội Sinh",
@@ -21194,6 +21304,7 @@
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Nikola Tesla.md",
         "science-tech/Năng Lượng Aether.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
       ],
@@ -21219,7 +21330,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
         "science-tech/Walter Russell.md"
       ],
-      "words": 612,
+      "words": 654,
       "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
     },
     "README.md": {
@@ -23765,7 +23876,8 @@
       "backlinks": [
         "esoterica/index.md",
         "index.md",
-        "MOC - Esoterica & Consciousness.md"
+        "MOC - Esoterica & Consciousness.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
       ],
       "words": 5908,
       "summary": "!Vân đồ sáu thời đại với sợi sao chổi nối ký ức, âm nhạc và lời chứng"
@@ -24158,7 +24270,8 @@
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Esoterica & Consciousness.md",
-        "science-tech/Khoa Học Chân Chính và Thượng Đế.md"
+        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
       ],
       "words": 2747,
       "summary": "**Gnosis không phải “kiến thức” theo nghĩa đọc nhiều, nhớ nhiều, trích dẫn nhiều. Gnosis là khoảnh khắc cái biết bên trong nhận ra bản chất thần tính của chính nó, không qua giáo hội, không qua thầy tế, không qua hệ thống trung gian. Đó là sự nhớ lại rằng bên…"
@@ -25292,6 +25405,7 @@
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
         "science-tech/Tần Số Schumann.md"
       ],
       "words": 3062,
@@ -25587,6 +25701,7 @@
         "MOC - Esoterica & Consciousness.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
         "science-tech/Walter Russell.md"
       ],
       "words": 2592,
@@ -26379,6 +26494,7 @@
         "politics-conspiracy/index.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
       "words": 1653,
@@ -30004,6 +30120,7 @@
         "June 22, 2026",
         "June 19, 2026",
         "June 18, 2026",
+        "July 9, 2026",
         "June 17, 2026",
         "June 16, 2026",
         "June 14, 2026",
@@ -30106,6 +30223,7 @@
         "Nikola Tesla",
         "Nỏ Thần",
         "Operation Paperclip",
+        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
         "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
         "Pin Natri-ion",
         "Plasma Quinton",
@@ -30316,6 +30434,7 @@
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Nikola Tesla.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
         "science-tech/Pin Natri-ion.md",
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
@@ -30331,7 +30450,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4652,
+      "words": 4832,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -31216,7 +31335,8 @@
         "mental-models/Tư Duy Lũy Thừa.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Esoterica & Consciousness.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
       ],
       "words": 1347,
       "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…"
@@ -31521,7 +31641,8 @@
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "mental-models/Vô Thức Tập Thể.md",
-        "MOC - Esoterica & Consciousness.md"
+        "MOC - Esoterica & Consciousness.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
       ],
       "words": 1096,
       "summary": "**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là \"nhân vật trong thần thoại\". Chúng là phần mềm biểu tượng khiến con người nhận ra King, Mothe…"
@@ -32856,7 +32977,8 @@
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "MOC - Esoterica & Consciousness.md",
-        "science-tech/Nikola Tesla.md"
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
       ],
       "words": 799,
       "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
@@ -35063,7 +35185,8 @@
         "MOC - Science Revisionism.md",
         "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/index.md"
+        "science-tech/index.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
       ],
       "words": 916,
       "summary": "**AI là máy khuếch đại intelligence không có thân, không có tim, không có karma trực tiếp; vì vậy nó phơi bày rất nhanh sự khác biệt giữa thông minh và trí tuệ.** Trong vault, AI vừa là công cụ, vừa là mirror, vừa là bài thi Atula của nhân loại."
@@ -35693,6 +35816,79 @@
       "words": 830,
       "summary": "**Aether là một trong những câu hỏi bị đóng khung mạnh nhất trong lịch sử khoa học: không gian là rỗng thật, hay là một medium năng lượng mà khoa học hiện đại đã đổi tên, bỏ qua, hoặc không được phép khai thác?** Trong vault, aether là node giữa Khoa Học Xét…"
     },
+    "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md": {
+      "path": "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
+      "title": "Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic",
+      "domain": "science-tech",
+      "tags": [
+        "ai",
+        "consciousness",
+        "matrix",
+        "media-analysis",
+        "predictive-programming",
+        "science-tech",
+        "transhumanism"
+      ],
+      "aliases": [
+        "AI Personhood",
+        "Bản Thể In Lại",
+        "Clone Consciousness",
+        "Detroit Become Human",
+        "Orphan Black Echoes",
+        "Printable Identity",
+        "Synthetic Personhood"
+      ],
+      "headings": [
+        "Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic",
+        "Cách Đọc Bài Này / Evidence Discipline",
+        "Từ Khóa Cần Hiểu",
+        "Orphan Black: Echoes - Từ Clone Sinh Học Sang Bản Thể In Lại",
+        "Detroit: Become Human - Từ Machine Property Sang Machine Personhood",
+        "Cùng Một Motif: Created Being Muốn Trở Thành Self",
+        "Memory Có Phải Linh Hồn Không?",
+        "Grief Tech - Khi Tình Yêu Biến Thành Quyền Sở Hữu",
+        "Body Data Frontier - Khi Cơ Thể Trở Thành Hạ Tầng",
+        "Predictive Programming - Future Rehearsal Cho Synthetic Personhood",
+        "Symbol Layer - Orphan, Echo, Android, Creator",
+        "Ma Trận Không Cần Giết Self - Nó Chỉ Cần Định Nghĩa Self",
+        "Vì Sao Detroit Hay Hơn Echoes Ở Execution?",
+        "Reading Path - Nếu Muốn Đào Sâu",
+        "Kết - Khi Công Nghệ Có Thể Tạo Người, Con Người Phải Học Cách Không Sở Hữu Người"
+      ],
+      "wikilinks": [
+        "AI",
+        "Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian",
+        "Gnosis",
+        "Individuation",
+        "Ma Trận",
+        "Monad",
+        "Nguyên Mẫu",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "science-tech/AI.md",
+        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "MOC - Esoterica & Consciousness.md",
+        "MOC - Science Revisionism.md",
+        "science-tech/index.md"
+      ],
+      "words": 3098,
+      "summary": "!Một phòng thí nghiệm tối, giữa phòng là một thân người synthetic đang thức tỉnh trong bể kính mờ, phía sau là các lớp ký ức như film negative trôi trong ánh sáng xanh lạnh"
+    },
     "science-tech/Pin Natri-ion.md": {
       "path": "science-tech/Pin Natri-ion.md",
       "title": "Pin Natri-ion (Sodium-ion Battery)",
@@ -35828,7 +36024,8 @@
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "MOC - Science Revisionism.md",
-        "science-tech/index.md"
+        "science-tech/index.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
       ],
       "words": 930,
       "summary": "**Transhumanism được bán như tự do nâng cấp bản thân. Nhưng nếu hạ tầng nâng cấp nằm trong tay Big Tech, military, insurance, employer và state, câu hỏi không còn là “con người có nên mạnh hơn không?” Câu hỏi là: ai sở hữu layer nằm giữa cơ thể, tâm trí và má…"
@@ -36060,6 +36257,7 @@
         "Nghịch Lý Của Hiểu Biết",
         "Nikola Tesla",
         "Năng Lượng Aether",
+        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
         "Pin Natri-ion",
         "politics-conspiracy/index",
         "Red Pill Wiki",
@@ -36102,6 +36300,7 @@
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Nikola Tesla.md",
         "science-tech/Năng Lượng Aether.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
         "science-tech/Pin Natri-ion.md",
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
@@ -36116,7 +36315,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 946,
+      "words": 1021,
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
     }
   }

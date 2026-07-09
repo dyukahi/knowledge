@@ -57,6 +57,7 @@ Cosmology không chỉ nói vũ trụ trông thế nào. Nó định nghĩa con 
 - [[Digital ID Normalization - From Instagram to Government ID]] — identity infrastructure và verify-to-exist risk.
 - [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]] — body-data sovereignty và upgrade pressure.
 - [[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]] — space tech như myth, security layer và sky governance.
+- [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic]] — Orphan Black: Echoes / Detroit như case study về printable identity, AI personhood và transhumanism.
 
 Technology không neutral nếu ownership, incentive và access layer không neutral.
 
