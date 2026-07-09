@@ -6,7 +6,7 @@
 
 - **Notes scanned:** 230
 - **Top-level domains:** 8
-- **Tags detected:** 262
+- **Tags detected:** 264
 - **Resolved internal edges:** 2240
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 12

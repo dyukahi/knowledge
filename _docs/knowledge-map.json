@@ -11,7 +11,7 @@
       "politics-conspiracy": 27,
       "science-tech": 19
     },
-    "tags": 262,
+    "tags": 264,
     "wikilinkEdges": 2240,
     "brokenLinks": 0,
     "orphans": 12
@@ -1366,6 +1366,7 @@
         "title": "PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận",
         "domain": "crypto-finance",
         "tags": [
+          "bank-run",
           "cashflow",
           "certificate",
           "crypto-finance",
@@ -1373,14 +1374,17 @@
           "financial-sovereignty",
           "gold",
           "hard-assets",
+          "kim-ly",
           "market-psychology",
           "pnj",
           "trust"
         ],
         "aliases": [
+          "Bank Run Kim Hoàn",
           "Giấy Kiểm Định Kim Cương",
           "Hard Asset Và Giấy Tờ",
           "Kim Cương Mẹ Bồng Con",
+          "Kim Lý Kim Cương",
           "Niềm Tin Chứng Nhận",
           "PNJ Kim Cương Vàng",
           "PNJ Lab Kim Cương",
@@ -1394,6 +1398,8 @@
           "“Mẹ Bồng Con” - Khi Giấy Bồng Sai Viên Đá",
           "Kim Cương Không Chỉ Là Carbon - Nó Là Carbon Có Danh Tính",
           "Chính Sách Thu Đổi Là Nơi Niềm Tin Gặp Tiền Mặt",
+          "Kim Lý - Tiền Lệ Bank-Run Trước PNJ",
+          "PNJ Có Trụ Được Không? Câu Hỏi Nằm Ở Bộ Đệm Tiền Mặt",
           "PNJ Là Một Cỗ Máy Niềm Tin, Không Chỉ Là Nhà Bán Lẻ",
           "Từ Kim Cương Sang Vàng - Vì Sao Hard Asset Vẫn Cần Trust Layer",
           "Nối Với Chainlink, Proof-of-Reserve Và Tài Chính Định Danh",
@@ -1419,7 +1425,7 @@
           "index.md",
           "MOC - Financial Sovereignty.md"
         ],
-        "words": 2901,
+        "words": 3678,
         "summary": "**Một viên kim cương không chỉ bán bằng độ trong, giác cắt hay carat. Nó bán bằng giấy kiểm định, nguồn gốc, mã số, thương hiệu và niềm tin rằng viên đá trước mặt đúng là viên đá được mô tả trên giấy. Vụ PNJ Labs làm lộ một tầng rất quan trọng của tài sản xa…"
       },
       {
@@ -20444,15 +20450,15 @@
       1
     ],
     [
+      "bank-run",
+      1
+    ],
+    [
       "cashflow",
       1
     ],
     [
       "certificate",
-      1
-    ],
-    [
-      "diamond",
       1
     ]
   ],
@@ -22329,6 +22335,7 @@
       "title": "PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận",
       "domain": "crypto-finance",
       "tags": [
+        "bank-run",
         "cashflow",
         "certificate",
         "crypto-finance",
@@ -22336,14 +22343,17 @@
         "financial-sovereignty",
         "gold",
         "hard-assets",
+        "kim-ly",
         "market-psychology",
         "pnj",
         "trust"
       ],
       "aliases": [
+        "Bank Run Kim Hoàn",
         "Giấy Kiểm Định Kim Cương",
         "Hard Asset Và Giấy Tờ",
         "Kim Cương Mẹ Bồng Con",
+        "Kim Lý Kim Cương",
         "Niềm Tin Chứng Nhận",
         "PNJ Kim Cương Vàng",
         "PNJ Lab Kim Cương",
@@ -22357,6 +22367,8 @@
         "“Mẹ Bồng Con” - Khi Giấy Bồng Sai Viên Đá",
         "Kim Cương Không Chỉ Là Carbon - Nó Là Carbon Có Danh Tính",
         "Chính Sách Thu Đổi Là Nơi Niềm Tin Gặp Tiền Mặt",
+        "Kim Lý - Tiền Lệ Bank-Run Trước PNJ",
+        "PNJ Có Trụ Được Không? Câu Hỏi Nằm Ở Bộ Đệm Tiền Mặt",
         "PNJ Là Một Cỗ Máy Niềm Tin, Không Chỉ Là Nhà Bán Lẻ",
         "Từ Kim Cương Sang Vàng - Vì Sao Hard Asset Vẫn Cần Trust Layer",
         "Nối Với Chainlink, Proof-of-Reserve Và Tài Chính Định Danh",
@@ -22382,7 +22394,7 @@
         "index.md",
         "MOC - Financial Sovereignty.md"
       ],
-      "words": 2901,
+      "words": 3678,
       "summary": "**Một viên kim cương không chỉ bán bằng độ trong, giác cắt hay carat. Nó bán bằng giấy kiểm định, nguồn gốc, mã số, thương hiệu và niềm tin rằng viên đá trước mặt đúng là viên đá được mô tả trên giấy. Vụ PNJ Labs làm lộ một tầng rất quan trọng của tài sản xa…"
     },
     "crypto-finance/Privacy.md": {
