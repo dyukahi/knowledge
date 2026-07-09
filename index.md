@@ -331,6 +331,11 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ## Recent Updates / Cập Nhật Gần Đây
 
+### July 9, 2026
+
+- **[[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]]** - bài science-tech / esoterica bridge full tiếng Việt, đọc nhân bản, người máy, tái dựng ký ức, công nghệ chữa nỗi đau mất mát, bản thể có thể in lại và tư cách làm người của bản thể nhân tạo qua Orphan Black: Echoes, Detroit: Become Human, Ma Trận, AI/golem và predictive programming; có minh họa theo từng section.
+- **Cập nhật knowledge map** - đã rebuild vault map sau bài về bản thể nhân tạo; root count đồng bộ 229 notes, Science & Tech 19 notes, broken links 0.
+
 ### June 29, 2026
 
 - **[[Abilene Paradox - Nghịch Lý Đồng Thuận Giả]]** - new illustrated mental-models article on pluralistic ignorance, preference falsification and group decisions nobody truly wants; linked into Mental Models Gateway and Epistemology & Propaganda with explicit fact / pattern / symbol / synthesis discipline.
@@ -359,11 +364,6 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 - **[[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]** - bài nối tiếp về cách cú sập của các lớp bọc quanh Bitcoin có thể tạo lý do chính trị cho dự trữ được xác minh, tài sản mã hóa, ví định danh số và tài chính bị giám sát bằng trí tuệ nhân tạo.
 - **[[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]** - new crypto-finance case study explaining MSTR as the market price of a Bitcoin box, STRC as a yield/funding product, where preferred dividends can come from, why par matters, and how Saylor's real game is belief-duration arbitrage through public capital markets.
-
-### July 9, 2026
-
-- **[[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]]** - bài science-tech / esoterica bridge full tiếng Việt, đọc nhân bản, người máy, tái dựng ký ức, công nghệ chữa nỗi đau mất mát, bản thể có thể in lại và tư cách làm người của bản thể nhân tạo qua Orphan Black: Echoes, Detroit: Become Human, Ma Trận, AI/golem và predictive programming; có minh họa theo từng section.
-- **Cập nhật knowledge map** - đã rebuild vault map sau bài về bản thể nhân tạo; root count đồng bộ 229 notes, Science & Tech 19 notes, broken links 0.
 
 ### June 17, 2026
 
