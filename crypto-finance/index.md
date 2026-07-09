@@ -59,7 +59,7 @@ Orientation: start here if money still feels like salary, price and bank balance
 5. [[Vàng, Golden Age Và Màn Che Của Mặt Trăng]] — read gold as cosmic memory, market-cycle asset and outside-grid anchor.
 6. [[PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan|PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận]] — study certificate trust, physical-asset oracle risk and buyback liquidity.
 7. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — install survival discipline before markets, Bitcoin or leverage.
-6. [[Giàu Không Nhờ May Mắn]] — move from complaint into agency and production.
+8. [[Giàu Không Nhờ May Mắn]] — move from complaint into agency and production.
 
 ### 2. Power-User Path — Bitcoin, Privacy, Exit
 

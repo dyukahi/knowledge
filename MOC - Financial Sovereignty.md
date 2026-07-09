@@ -44,10 +44,10 @@ Nếu mới vào từ root, xem thêm [[Cách Đọc Red Pill Wiki#3 Money  Cont
 5. [[Vàng, Golden Age Và Màn Che Của Mặt Trăng]] — gold as memory object and no-pressure accumulation discipline.
 6. [[PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan|PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận]] — certificate trust, kim cương, hard asset metadata và liquidity under stress.
 7. [[Bitcoin]] — exit-money thesis và bài test sovereignty.
-6. [[Privacy]] — boundary layer của free exchange.
-7. [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — case study về Bitcoin treasury, yield wrappers và claim structure.
-8. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — cầu nối kịch bản từ cú sập lớp bọc Bitcoin sang tài sản mã hóa, ví định danh số và tuân thủ bằng trí tuệ nhân tạo.
-9. [[Chainlink - Mắt Xích Của Tokenized World]] — oracle/RWA bridge vào tokenized finance.
+8. [[Privacy]] — boundary layer của free exchange.
+9. [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — case study về Bitcoin treasury, yield wrappers và claim structure.
+10. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — cầu nối kịch bản từ cú sập lớp bọc Bitcoin sang tài sản mã hóa, ví định danh số và tuân thủ bằng trí tuệ nhân tạo.
+11. [[Chainlink - Mắt Xích Của Tokenized World]] — oracle/RWA bridge vào tokenized finance.
 
 ---
 
