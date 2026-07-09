@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 229,
+    "notes": 230,
     "domains": {
       "_docs": 11,
       "root": 14,
-      "crypto-finance": 16,
+      "crypto-finance": 17,
       "esoterica": 76,
       "health": 27,
       "mental-models": 39,
       "politics-conspiracy": 27,
       "science-tech": 19
     },
-    "tags": 256,
-    "wikilinkEdges": 2233,
+    "tags": 262,
+    "wikilinkEdges": 2240,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -346,6 +346,113 @@
     ],
     "crypto-finance": [
       {
+        "path": "crypto-finance/index.md",
+        "title": "Crypto & Finance Domain Gateway",
+        "domain": "crypto-finance",
+        "tags": [
+          "crypto-finance",
+          "domain-gateway",
+          "financial-sovereignty"
+        ],
+        "aliases": [
+          "Crypto & Finance",
+          "Financial Sovereignty",
+          "Tài Chính Chủ Quyền"
+        ],
+        "headings": [
+          "Crypto & Finance Domain Gateway",
+          "Financial Sovereignty Pack",
+          "How To Read This Domain",
+          "Curated Reading Paths",
+          "1. Beginner Path — Money Literacy Before Markets",
+          "2. Power-User Path — Bitcoin, Privacy, Exit",
+          "3. High-Risk Caution Path — CBDC, UBI, Programmable Compliance",
+          "4. Wealth Psychology Path — Time Preference & Desire",
+          "5. Cross-Domain Bridge Path — Money, Mind, Power",
+          "Key Hubs",
+          "Flagship Articles",
+          "Related Gateways"
+        ],
+        "wikilinks": [
+          "Ai Đứng Bên Kia Giao Dịch",
+          "Bitcoin",
+          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+          "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+          "Báo Cáo 2030",
+          "Chainlink - Mắt Xích Của Tokenized World",
+          "Digital ID Normalization - From Instagram to Government ID",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Giàu Không Nhờ May Mắn",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "mental-models/index",
+          "MOC - Epistemology & Propaganda",
+          "MOC - Financial Sovereignty",
+          "MOC - Market Psychology & Risk",
+          "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
+          "politics-conspiracy/index",
+          "Privacy",
+          "Privacy Is The New Wealth",
+          "Red Pill Wiki",
+          "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
+          "science-tech/index",
+          "Secular Market",
+          "Sợ hãi - Tham Lam – Cân bằng",
+          "Tiền Giấy - Tiền Mặt",
+          "Tiền Pháp Định",
+          "Tiền tiền tiền",
+          "Tư Duy Lũy Thừa",
+          "UBI Conditioning - The End of Work Ethic",
+          "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
+          "Điều Mà Trường Học Không Dạy Về Tiền"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
+          "crypto-finance/Privacy.md",
+          "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
+          "crypto-finance/Secular Market.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "crypto-finance/Tiền Pháp Định.md",
+          "crypto-finance/Tiền tiền tiền.md",
+          "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md",
+          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+          "esoterica/Ma Trận.md",
+          "index.md",
+          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/index.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "mental-models/UBI Conditioning - The End of Work Ethic.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Financial Sovereignty.md",
+          "MOC - Market Psychology & Risk.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/index.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "politics-conspiracy/index.md"
+        ],
+        "words": 1298,
+        "summary": "**Crypto & Finance là nơi vault đọc tiền như operating system của time, labor, consent và freedom.** Tiền không chỉ là price chart. Nó là hạ tầng quyết định ai được lưu trữ giá trị, ai bị debase, ai bị surveil, ai được permission để giao dịch, và ai vẫn còn e…"
+      },
+      {
         "path": "crypto-finance/Bitcoin.md",
         "title": "Bitcoin",
         "domain": "crypto-finance",
@@ -427,111 +534,6 @@
         ],
         "words": 2000,
         "summary": "**Bitcoin không chỉ là một tài sản để trade. Nó là một protocol tiền tệ sinh ra từ câu hỏi rất căn bản: con người có thể giữ giá trị, chuyển giá trị và tự xác minh luật chơi mà không cần xin phép ngân hàng, nhà nước hay platform không? Nếu fiat là tiền dựa tr…"
-      },
-      {
-        "path": "crypto-finance/index.md",
-        "title": "Crypto & Finance Domain Gateway",
-        "domain": "crypto-finance",
-        "tags": [
-          "crypto-finance",
-          "domain-gateway",
-          "financial-sovereignty"
-        ],
-        "aliases": [
-          "Crypto & Finance",
-          "Financial Sovereignty",
-          "Tài Chính Chủ Quyền"
-        ],
-        "headings": [
-          "Crypto & Finance Domain Gateway",
-          "Financial Sovereignty Pack",
-          "How To Read This Domain",
-          "Curated Reading Paths",
-          "1. Beginner Path — Money Literacy Before Markets",
-          "2. Power-User Path — Bitcoin, Privacy, Exit",
-          "3. High-Risk Caution Path — CBDC, UBI, Programmable Compliance",
-          "4. Wealth Psychology Path — Time Preference & Desire",
-          "5. Cross-Domain Bridge Path — Money, Mind, Power",
-          "Key Hubs",
-          "Flagship Articles",
-          "Related Gateways"
-        ],
-        "wikilinks": [
-          "Ai Đứng Bên Kia Giao Dịch",
-          "Bitcoin",
-          "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-          "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
-          "Báo Cáo 2030",
-          "Chainlink - Mắt Xích Của Tokenized World",
-          "Digital ID Normalization - From Instagram to Government ID",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Gen Z và CBDC - Programmable Money Psychology",
-          "Giàu Không Nhờ May Mắn",
-          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "mental-models/index",
-          "MOC - Epistemology & Propaganda",
-          "MOC - Financial Sovereignty",
-          "MOC - Market Psychology & Risk",
-          "politics-conspiracy/index",
-          "Privacy",
-          "Privacy Is The New Wealth",
-          "Red Pill Wiki",
-          "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
-          "science-tech/index",
-          "Secular Market",
-          "Sợ hãi - Tham Lam – Cân bằng",
-          "Tiền Giấy - Tiền Mặt",
-          "Tiền Pháp Định",
-          "Tiền tiền tiền",
-          "Tư Duy Lũy Thừa",
-          "UBI Conditioning - The End of Work Ethic",
-          "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
-          "Điều Mà Trường Học Không Dạy Về Tiền"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/Giàu Không Nhờ May Mắn.md",
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "crypto-finance/Privacy.md",
-          "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
-          "crypto-finance/Secular Market.md",
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-          "crypto-finance/Tiền Pháp Định.md",
-          "crypto-finance/Tiền tiền tiền.md",
-          "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md",
-          "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-          "esoterica/Ma Trận.md",
-          "index.md",
-          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/index.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "mental-models/UBI Conditioning - The End of Work Ethic.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Financial Sovereignty.md",
-          "MOC - Market Psychology & Risk.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-          "science-tech/index.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "mental-models/index.md",
-          "politics-conspiracy/index.md"
-        ],
-        "words": 1189,
-        "summary": "**Crypto & Finance là nơi vault đọc tiền như operating system của time, labor, consent và freedom.** Tiền không chỉ là price chart. Nó là hạ tầng quyết định ai được lưu trữ giá trị, ai bị debase, ai bị surveil, ai được permission để giao dịch, và ai vẫn còn e…"
       },
       {
         "path": "crypto-finance/Privacy.md",
@@ -683,6 +685,7 @@
           "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
           "crypto-finance/Bitcoin.md",
           "crypto-finance/index.md",
+          "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
           "crypto-finance/Privacy.md",
           "crypto-finance/Tiền Pháp Định.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
@@ -889,6 +892,7 @@
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
+          "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
           "crypto-finance/Privacy.md",
           "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
           "Cách Đọc Red Pill Wiki.md",
@@ -1167,6 +1171,70 @@
         "summary": "**Giàu Không Nhờ May Mắn** là cách đọc redpill về wealth: không coi giàu có là trúng số, không coi tiền là thần, và không coi địa vị là tự do. Bài gốc của Naval Ravikant hữu ích vì nó tách rõ ba thứ thường bị trộn lẫn: wealth, money và status. Trong vault này…"
       },
       {
+        "path": "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md",
+        "title": "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
+        "domain": "crypto-finance",
+        "tags": [
+          "cbdc",
+          "cosmic-egg",
+          "crypto-finance",
+          "gold",
+          "golden-age",
+          "market-cycles",
+          "moon",
+          "precious-metals",
+          "sovereignty",
+          "yugas"
+        ],
+        "aliases": [
+          "Gold and Golden Age",
+          "Gold as Memory Object",
+          "Vàng Như Vật Chất Ký Ức",
+          "Vàng Và Golden Age"
+        ],
+        "headings": [
+          "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
+          "1. Vàng Không Sinh Ra Từ Trái Đất",
+          "2. Trứng Vũ Trụ Và Snowman: Trái Đất Gần Lõi Hơn Ta Tưởng",
+          "3. Thời Đại Vàng: Khi Vàng Là Trạng Thái, Không Chỉ Là Hàng Hóa",
+          "4. Màn Che Mặt Trăng: Ký Ức Ngắn Và Ánh Sáng Phản Chiếu",
+          "5. Golden Age Bị Chính Trị Hóa",
+          "6. Fiat, CBDC Và Tiền Không Còn Ký Ức",
+          "7. Vàng Vẫn Có Chu Kỳ: Accumulate Without Pressure",
+          "Chốt",
+          "Xem Tiếp"
+        ],
+        "wikilinks": [
+          "Annunaki",
+          "Bitcoin",
+          "Bức Tường Băng",
+          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "MAGA Và Số 42",
+          "Tiền Giấy - Tiền Mặt",
+          "Tiền Pháp Định"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+          "crypto-finance/Tiền Pháp Định.md",
+          "esoterica/Annunaki.md",
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/MAGA Và Số 42.md"
+        ],
+        "backlinks": [
+          "crypto-finance/index.md",
+          "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
+          "index.md",
+          "MOC - Financial Sovereignty.md"
+        ],
+        "words": 2304,
+        "summary": "**Vàng không chỉ là tài sản. Nó là vật chất của ký ức dài: vật chất vũ trụ nằm trong Trái Đất, biểu tượng của Thời Đại Vàng, và một điểm neo nằm ngoài các hệ tiền do bên phát hành lập trình. Nhưng vàng vẫn đi qua chu kỳ tăng và giảm. Muốn giữ một tài sản ngoà…"
+      },
+      {
         "path": "crypto-finance/Secular Market.md",
         "title": "Secular Market (Thị Trường Chu Kỳ Dài)",
         "domain": "crypto-finance",
@@ -1224,69 +1292,6 @@
         ],
         "words": 782,
         "summary": "**Secular Market** chỉ các xu hướng vĩ mô kéo dài hàng thập kỷ (10-30 năm), chi phối sự dịch chuyển tài sản và định hình lại cấu trúc kinh tế toàn cầu. Khác với các chu kỳ ngắn (cyclical), secular trends là những làn sóng lớn quyết định ai giàu ai nghèo trong…"
-      },
-      {
-        "path": "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md",
-        "title": "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
-        "domain": "crypto-finance",
-        "tags": [
-          "cbdc",
-          "cosmic-egg",
-          "crypto-finance",
-          "gold",
-          "golden-age",
-          "market-cycles",
-          "moon",
-          "precious-metals",
-          "sovereignty",
-          "yugas"
-        ],
-        "aliases": [
-          "Gold and Golden Age",
-          "Gold as Memory Object",
-          "Vàng Như Vật Chất Ký Ức",
-          "Vàng Và Golden Age"
-        ],
-        "headings": [
-          "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
-          "1. Vàng Không Sinh Ra Từ Trái Đất",
-          "2. Trứng Vũ Trụ Và Snowman: Trái Đất Gần Lõi Hơn Ta Tưởng",
-          "3. Thời Đại Vàng: Khi Vàng Là Trạng Thái, Không Chỉ Là Hàng Hóa",
-          "4. Màn Che Mặt Trăng: Ký Ức Ngắn Và Ánh Sáng Phản Chiếu",
-          "5. Golden Age Bị Chính Trị Hóa",
-          "6. Fiat, CBDC Và Tiền Không Còn Ký Ức",
-          "7. Vàng Vẫn Có Chu Kỳ: Accumulate Without Pressure",
-          "Chốt",
-          "Xem Tiếp"
-        ],
-        "wikilinks": [
-          "Annunaki",
-          "Bitcoin",
-          "Bức Tường Băng",
-          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
-          "Gen Z và CBDC - Programmable Money Psychology",
-          "MAGA Và Số 42",
-          "Tiền Giấy - Tiền Mặt",
-          "Tiền Pháp Định"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-          "crypto-finance/Tiền Pháp Định.md",
-          "esoterica/Annunaki.md",
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "politics-conspiracy/Bức Tường Băng.md",
-          "politics-conspiracy/MAGA Và Số 42.md"
-        ],
-        "backlinks": [
-          "crypto-finance/index.md",
-          "index.md",
-          "MOC - Financial Sovereignty.md"
-        ],
-        "words": 2304,
-        "summary": "**Vàng không chỉ là tài sản. Nó là vật chất của ký ức dài: vật chất vũ trụ nằm trong Trái Đất, biểu tượng của Thời Đại Vàng, và một điểm neo nằm ngoài các hệ tiền do bên phát hành lập trình. Nhưng vàng vẫn đi qua chu kỳ tăng và giảm. Muốn giữ một tài sản ngoà…"
       },
       {
         "path": "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
@@ -1347,6 +1352,7 @@
         ],
         "backlinks": [
           "crypto-finance/index.md",
+          "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
           "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
           "index.md",
           "MOC - Financial Sovereignty.md",
@@ -1354,6 +1360,67 @@
         ],
         "words": 4173,
         "summary": "!Chồng Tín Dụng Quanh Bitcoin"
+      },
+      {
+        "path": "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
+        "title": "PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận",
+        "domain": "crypto-finance",
+        "tags": [
+          "cashflow",
+          "certificate",
+          "crypto-finance",
+          "diamond",
+          "financial-sovereignty",
+          "gold",
+          "hard-assets",
+          "market-psychology",
+          "pnj",
+          "trust"
+        ],
+        "aliases": [
+          "Giấy Kiểm Định Kim Cương",
+          "Hard Asset Và Giấy Tờ",
+          "Kim Cương Mẹ Bồng Con",
+          "Niềm Tin Chứng Nhận",
+          "PNJ Kim Cương Vàng",
+          "PNJ Lab Kim Cương",
+          "PNJ Labs"
+        ],
+        "headings": [
+          "PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận",
+          "Cách Đọc Bài Này / Kỷ Luật Tuyên Bố",
+          "Từ Khóa Cần Hiểu",
+          "Fact Layer - Vụ PNJ Labs Đang Nói Gì?",
+          "“Mẹ Bồng Con” - Khi Giấy Bồng Sai Viên Đá",
+          "Kim Cương Không Chỉ Là Carbon - Nó Là Carbon Có Danh Tính",
+          "Chính Sách Thu Đổi Là Nơi Niềm Tin Gặp Tiền Mặt",
+          "PNJ Là Một Cỗ Máy Niềm Tin, Không Chỉ Là Nhà Bán Lẻ",
+          "Từ Kim Cương Sang Vàng - Vì Sao Hard Asset Vẫn Cần Trust Layer",
+          "Nối Với Chainlink, Proof-of-Reserve Và Tài Chính Định Danh",
+          "Cashflow - Khi Lòng Tin Bị Stress, Người Giữ Tài Sản Cần Tiền Mặt",
+          "Vàng Cũng Không Thoát Khỏi Bài Test Này",
+          "Kết - Tài Sản Cứng, Danh Tính Mềm"
+        ],
+        "wikilinks": [
+          "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+          "Chainlink - Mắt Xích Của Tokenized World",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Vàng, Golden Age Và Màn Che Của Mặt Trăng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md"
+        ],
+        "backlinks": [
+          "crypto-finance/index.md",
+          "index.md",
+          "MOC - Financial Sovereignty.md"
+        ],
+        "words": 2901,
+        "summary": "**Một viên kim cương không chỉ bán bằng độ trong, giác cắt hay carat. Nó bán bằng giấy kiểm định, nguồn gốc, mã số, thương hiệu và niềm tin rằng viên đá trước mặt đúng là viên đá được mô tả trên giấy. Vụ PNJ Labs làm lộ một tầng rất quan trọng của tài sản xa…"
       },
       {
         "path": "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
@@ -13445,6 +13512,7 @@
           "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
           "Pin Natri-ion",
           "Plasma Quinton",
+          "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
           "politics-conspiracy/index",
           "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
           "Privacy",
@@ -13515,6 +13583,7 @@
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
           "crypto-finance/index.md",
+          "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
           "crypto-finance/Privacy.md",
           "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
           "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -13668,7 +13737,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 4863,
+        "words": 4953,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14250,6 +14319,7 @@
           "Gen Z và CBDC - Programmable Money Psychology",
           "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
           "MOC - Market Psychology & Risk",
+          "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
           "Privacy",
           "Privacy Is The New Wealth",
           "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
@@ -14268,6 +14338,7 @@
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
           "crypto-finance/Privacy.md",
           "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
           "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -14301,7 +14372,7 @@
           "politics-conspiracy/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 935,
+        "words": 1066,
         "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
       },
       {
@@ -16130,6 +16201,7 @@
         "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
         "Pin Natri-ion",
         "Plasma Quinton",
+        "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
         "politics-conspiracy/index",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Privacy",
@@ -16200,6 +16272,7 @@
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
+        "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -16353,7 +16426,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4863,
+      "words": 4953,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -18795,6 +18868,95 @@
       "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
     },
     {
+      "path": "MOC - Financial Sovereignty.md",
+      "title": "MOC - Financial Sovereignty",
+      "domain": "root",
+      "tags": [
+        "crypto-finance",
+        "moc",
+        "sovereignty"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Financial Sovereignty",
+        "How To Read This Map",
+        "Start Here",
+        "Survival Before Sovereignty",
+        "Bitcoin, Privacy & Exit",
+        "Fiat, Debt & Dependency",
+        "Tokenized World & Onchain Control",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "Ai Đứng Bên Kia Giao Dịch",
+        "Bitcoin",
+        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+        "Báo Cáo 2030",
+        "Chainlink - Mắt Xích Của Tokenized World",
+        "Cách Đọc Red Pill Wiki",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "MOC - Market Psychology & Risk",
+        "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
+        "Privacy",
+        "Privacy Is The New Wealth",
+        "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
+        "Tiền Giấy - Tiền Mặt",
+        "Tiền Pháp Định",
+        "Tư Duy Lũy Thừa",
+        "UBI Conditioning - The End of Work Ethic",
+        "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
+        "Điều Mà Trường Học Không Dạy Về Tiền"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Bitcoin.md",
+        "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md",
+        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "MOC - Market Psychology & Risk.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/index.md",
+        "crypto-finance/Privacy.md",
+        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Cabal.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "Glossary - Từ Điển Red Pill Wiki.md",
+        "index.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/index.md",
+        "MOC - Market Psychology & Risk.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/index.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "words": 1066,
+      "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
+    },
+    {
       "path": "esoterica/Sự Nhất Thể.md",
       "title": "Sự Nhất Thể (Oneness)",
       "domain": "esoterica",
@@ -18958,93 +19120,6 @@
       ],
       "words": 1436,
       "summary": "**Terrain Theory nói một điều đơn giản nhưng bị làm phẳng: mầm bệnh không hành động trong chân không. Nó gặp một cơ thể có miễn dịch, ruột, dinh dưỡng, stress, độc chất, nhịp ngủ và bệnh nền riêng.** Vì vậy cùng một exposure có thể cho hai kết quả khác nhau.…"
-    },
-    {
-      "path": "MOC - Financial Sovereignty.md",
-      "title": "MOC - Financial Sovereignty",
-      "domain": "root",
-      "tags": [
-        "crypto-finance",
-        "moc",
-        "sovereignty"
-      ],
-      "aliases": [],
-      "headings": [
-        "MOC - Financial Sovereignty",
-        "How To Read This Map",
-        "Start Here",
-        "Survival Before Sovereignty",
-        "Bitcoin, Privacy & Exit",
-        "Fiat, Debt & Dependency",
-        "Tokenized World & Onchain Control",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "Ai Đứng Bên Kia Giao Dịch",
-        "Bitcoin",
-        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-        "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
-        "Báo Cáo 2030",
-        "Chainlink - Mắt Xích Của Tokenized World",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-        "MOC - Market Psychology & Risk",
-        "Privacy",
-        "Privacy Is The New Wealth",
-        "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
-        "Tiền Giấy - Tiền Mặt",
-        "Tiền Pháp Định",
-        "Tư Duy Lũy Thừa",
-        "UBI Conditioning - The End of Work Ethic",
-        "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
-        "Điều Mà Trường Học Không Dạy Về Tiền"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Bitcoin.md",
-        "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md",
-        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/Privacy Is The New Wealth.md",
-        "mental-models/Tư Duy Lũy Thừa.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/index.md",
-        "crypto-finance/Privacy.md",
-        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Cabal.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "Glossary - Từ Điển Red Pill Wiki.md",
-        "index.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/index.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/index.md",
-        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-      ],
-      "words": 935,
-      "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
     }
   ],
   "orphans": [
@@ -20010,7 +20085,7 @@
     ],
     [
       "crypto-finance",
-      18
+      19
     ],
     [
       "psychology",
@@ -20081,6 +20156,10 @@
       7
     ],
     [
+      "financial-sovereignty",
+      6
+    ],
+    [
       "domain-gateway",
       6
     ],
@@ -20102,10 +20181,6 @@
     ],
     [
       "privacy",
-      5
-    ],
-    [
-      "financial-sovereignty",
       5
     ],
     [
@@ -20162,6 +20237,10 @@
     ],
     [
       "digital-id",
+      3
+    ],
+    [
+      "market-psychology",
       3
     ],
     [
@@ -20241,11 +20320,11 @@
       2
     ],
     [
-      "surveillance",
+      "gold",
       2
     ],
     [
-      "market-psychology",
+      "surveillance",
       2
     ],
     [
@@ -20365,19 +20444,15 @@
       1
     ],
     [
-      "ky-thuat-tai-chinh",
+      "cashflow",
       1
     ],
     [
-      "mstr",
+      "certificate",
       1
     ],
     [
-      "strc",
-      1
-    ],
-    [
-      "strd",
+      "diamond",
       1
     ]
   ],
@@ -21012,6 +21087,7 @@
         "Gen Z và CBDC - Programmable Money Psychology",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "MOC - Market Psychology & Risk",
+        "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
         "Privacy",
         "Privacy Is The New Wealth",
         "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
@@ -21030,6 +21106,7 @@
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -21063,7 +21140,7 @@
         "politics-conspiracy/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 935,
+      "words": 1066,
       "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
     },
     "MOC - Health Sovereignty.md": {
@@ -21825,6 +21902,7 @@
       ],
       "backlinks": [
         "crypto-finance/index.md",
+        "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
         "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
         "index.md",
         "MOC - Financial Sovereignty.md",
@@ -22030,6 +22108,7 @@
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
+        "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
         "crypto-finance/Privacy.md",
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
         "Cách Đọc Red Pill Wiki.md",
@@ -22226,6 +22305,7 @@
         "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
         "crypto-finance/Bitcoin.md",
         "crypto-finance/index.md",
+        "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Tiền Pháp Định.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
@@ -22243,6 +22323,67 @@
       ],
       "words": 1758,
       "summary": "**Financial sovereignty không bắt đầu bằng Bitcoin, macro thesis, chart đẹp hay một cú trade đúng. Nó bắt đầu bằng khả năng không tự tay phá vốn, phá runway, phá tâm trí và phá quyền chọn của mình. Trong một hệ thống được thiết kế để làm nhiễu dopamine, sĩ di…"
+    },
+    "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md": {
+      "path": "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
+      "title": "PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận",
+      "domain": "crypto-finance",
+      "tags": [
+        "cashflow",
+        "certificate",
+        "crypto-finance",
+        "diamond",
+        "financial-sovereignty",
+        "gold",
+        "hard-assets",
+        "market-psychology",
+        "pnj",
+        "trust"
+      ],
+      "aliases": [
+        "Giấy Kiểm Định Kim Cương",
+        "Hard Asset Và Giấy Tờ",
+        "Kim Cương Mẹ Bồng Con",
+        "Niềm Tin Chứng Nhận",
+        "PNJ Kim Cương Vàng",
+        "PNJ Lab Kim Cương",
+        "PNJ Labs"
+      ],
+      "headings": [
+        "PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận",
+        "Cách Đọc Bài Này / Kỷ Luật Tuyên Bố",
+        "Từ Khóa Cần Hiểu",
+        "Fact Layer - Vụ PNJ Labs Đang Nói Gì?",
+        "“Mẹ Bồng Con” - Khi Giấy Bồng Sai Viên Đá",
+        "Kim Cương Không Chỉ Là Carbon - Nó Là Carbon Có Danh Tính",
+        "Chính Sách Thu Đổi Là Nơi Niềm Tin Gặp Tiền Mặt",
+        "PNJ Là Một Cỗ Máy Niềm Tin, Không Chỉ Là Nhà Bán Lẻ",
+        "Từ Kim Cương Sang Vàng - Vì Sao Hard Asset Vẫn Cần Trust Layer",
+        "Nối Với Chainlink, Proof-of-Reserve Và Tài Chính Định Danh",
+        "Cashflow - Khi Lòng Tin Bị Stress, Người Giữ Tài Sản Cần Tiền Mặt",
+        "Vàng Cũng Không Thoát Khỏi Bài Test Này",
+        "Kết - Tài Sản Cứng, Danh Tính Mềm"
+      ],
+      "wikilinks": [
+        "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+        "Chainlink - Mắt Xích Của Tokenized World",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Vàng, Golden Age Và Màn Che Của Mặt Trăng"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md"
+      ],
+      "backlinks": [
+        "crypto-finance/index.md",
+        "index.md",
+        "MOC - Financial Sovereignty.md"
+      ],
+      "words": 2901,
+      "summary": "**Một viên kim cương không chỉ bán bằng độ trong, giác cắt hay carat. Nó bán bằng giấy kiểm định, nguồn gốc, mã số, thương hiệu và niềm tin rằng viên đá trước mặt đúng là viên đá được mô tả trên giấy. Vụ PNJ Labs làm lộ một tầng rất quan trọng của tài sản xa…"
     },
     "crypto-finance/Privacy.md": {
       "path": "crypto-finance/Privacy.md",
@@ -22688,6 +22829,7 @@
       ],
       "backlinks": [
         "crypto-finance/index.md",
+        "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
         "index.md",
         "MOC - Financial Sovereignty.md"
       ],
@@ -22740,6 +22882,7 @@
         "MOC - Epistemology & Propaganda",
         "MOC - Financial Sovereignty",
         "MOC - Market Psychology & Risk",
+        "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
         "politics-conspiracy/index",
         "Privacy",
         "Privacy Is The New Wealth",
@@ -22765,6 +22908,7 @@
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giàu Không Nhờ May Mắn.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
         "crypto-finance/Secular Market.md",
@@ -22796,7 +22940,7 @@
         "mental-models/index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1189,
+      "words": 1298,
       "summary": "**Crypto & Finance là nơi vault đọc tiền như operating system của time, labor, consent và freedom.** Tiền không chỉ là price chart. Nó là hạ tầng quyết định ai được lưu trữ giá trị, ai bị debase, ai bị surveil, ai được permission để giao dịch, và ai vẫn còn e…"
     },
     "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md": {
@@ -30227,6 +30371,7 @@
         "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
         "Pin Natri-ion",
         "Plasma Quinton",
+        "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
         "politics-conspiracy/index",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Privacy",
@@ -30297,6 +30442,7 @@
         "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
         "crypto-finance/index.md",
+        "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
         "crypto-finance/Privacy.md",
         "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
         "crypto-finance/Tiền Giấy - Tiền Mặt.md",
@@ -30450,7 +30596,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4863,
+      "words": 4953,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {

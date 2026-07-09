@@ -29,6 +29,7 @@ Pack này đọc money như hạ tầng quyền lực: fiat dilution, self-custo
 5. [[Chainlink - Mắt Xích Của Tokenized World]]
 6. [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]
 7. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
+8. [[PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan|PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận]]
 
 ---
 
@@ -56,7 +57,8 @@ Orientation: start here if money still feels like salary, price and bank balance
 3. [[Tiền Giấy - Tiền Mặt]] — separate cash, paper promise and permission rail.
 4. [[Tiền Pháp Định]] — see fiat as debt architecture, not neutral medium.
 5. [[Vàng, Golden Age Và Màn Che Của Mặt Trăng]] — read gold as cosmic memory, market-cycle asset and outside-grid anchor.
-6. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — install survival discipline before markets, Bitcoin or leverage.
+6. [[PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan|PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận]] — study certificate trust, physical-asset oracle risk and buyback liquidity.
+7. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — install survival discipline before markets, Bitcoin or leverage.
 6. [[Giàu Không Nhờ May Mắn]] — move from complaint into agency and production.
 
 ### 2. Power-User Path — Bitcoin, Privacy, Exit
@@ -129,6 +131,7 @@ Orientation: use this when finance starts touching politics, psychology and esot
 - [[Chainlink - Mắt Xích Của Tokenized World]] — oracle, RWA and tokenization bridge between crypto and banking rails.
 - [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — MSTR as Bitcoin box, STRC as yield product, and the capital-markets game of funding BTC accumulation with public securities.
 - [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — bài nối tiếp: chồng tín dụng kho bạc Bitcoin, bán cưỡng bức, khủng hoảng tạo đồng thuận và đường ray tài chính định danh.
+- [[PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan|PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận]] — scandal PNJ Labs như bài test certificate trust, hard asset metadata, oracle của tài sản vật lý và quyền chờ khi thanh khoản bị stress.
 - [[Điều Mà Trường Học Không Dạy Về Tiền]] — basic literacy the system omits.
 
 ---
