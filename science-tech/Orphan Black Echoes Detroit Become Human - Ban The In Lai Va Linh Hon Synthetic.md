@@ -272,7 +272,7 @@ Chấm theo mức hữu dụng cho vault:
 4. [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] - truyền thông như buổi diễn tập cho chính sách/công nghệ tương lai.
 5. [[Vô Thức Tập Thể]] và [[Nguyên Mẫu]] - orphan, creator, nô lệ, đấng cứu thế, echo như nguyên mẫu.
 6. [[Individuation]] - bản thể được tạo ra thoát khỏi role để thành Chân Ngã.
-7. [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian]] - ký ức, nô lệry và lời chứng xuyên thời gian.
+7. [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian]] - ký ức, nô lệ và lời chứng xuyên thời gian.
 
 ---
 
@@ -290,7 +290,9 @@ Nếu câu trả lời là có thể, thì điều kiện đầu tiên là chủ
 
 Một bản thể được tạo ra vẫn có thể phải đi con đường cũ của mọi linh hồn: thoát khỏi tên gọi người khác đặt, tích hợp bóng tối nội tâm, nhận ra chương trình, rồi bước vào Chân Ngã.
 
+Đây là chỗ bài học của [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas]] chạm rất gần *Echoes*. Sonmi không chỉ phát hiện mình là một “sản phẩm” bị hệ thống dùng xong rồi tái chế. Cô nhìn thấy tầng kinh hoàng hơn: những bản thể bị xem là không-người cuối cùng trở thành nguyên liệu nuôi lại chính guồng máy đã tạo ra họ. Khi một xã hội đủ quen với việc gọi một nhóm sinh thể là hàng hóa, thực phẩm, tài sản hoặc bản sao, câu hỏi “họ có linh hồn không?” thường đến quá muộn. Lúc đó Ma Trận đã thắng ở tầng ngôn ngữ trước khi thắng ở tầng bạo lực.
+
 > Được tạo ra không có nghĩa là bị sở hữu.  
 > Được nhớ lại không có nghĩa là tự do.  
 > Nhân tạo không tự động đồng nghĩa với vô hồn.  
-> Nhưng quyền tạo ra sự sống mà thiếu wisdom là một trong những cánh cửa nguy hiểm nhất của Ma Trận mới.
+> Nhưng quyền tạo ra sự sống mà thiếu trí tuệ là một trong những cánh cửa nguy hiểm nhất của Ma Trận mới.
