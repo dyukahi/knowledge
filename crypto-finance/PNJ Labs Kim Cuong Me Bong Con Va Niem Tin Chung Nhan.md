@@ -276,7 +276,7 @@ Ba là **giao dịch đó có được phép xảy ra không**. Thanh khoản kh
 
 Kim cương làm câu hỏi này hiện hình rất rõ. Nếu giấy kiểm định sạch, hóa đơn rõ, nguồn gốc hợp lệ, thị trường còn tin thương hiệu, thanh khoản mở. Nếu một trong các lớp đó bị nghi ngờ, người mua bên kia không biến mất hoàn toàn, nhưng họ sẽ đòi discount, trì hoãn, kiểm định lại, hoặc từ chối giao dịch.
 
-Thanh khoản vì vậy không chỉ là tiền. Thanh khoản là **niềm tin có thể chuyển động hợp pháp**.
+Thanh khoản vì vậy không chỉ là tiền. Thanh khoản là **niềm tin còn tìm được người đứng bên kia giao dịch**. Pháp lý không tạo ra toàn bộ thanh khoản; nó chỉ quyết định con đường đó rộng hay hẹp, sạch hay xám, rẻ hay bị chiết khấu sâu.
 
 ---
 
