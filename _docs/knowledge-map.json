@@ -12,7 +12,7 @@
       "science-tech": 19
     },
     "tags": 264,
-    "wikilinkEdges": 2240,
+    "wikilinkEdges": 2241,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -1403,11 +1403,13 @@
           "PNJ Là Một Cỗ Máy Niềm Tin, Không Chỉ Là Nhà Bán Lẻ",
           "Từ Kim Cương Sang Vàng - Vì Sao Hard Asset Vẫn Cần Trust Layer",
           "Nối Với Chainlink, Proof-of-Reserve Và Tài Chính Định Danh",
+          "Thanh Khoản - Ai Đứng Bên Kia Giao Dịch?",
           "Cashflow - Khi Lòng Tin Bị Stress, Người Giữ Tài Sản Cần Tiền Mặt",
           "Vàng Cũng Không Thoát Khỏi Bài Test Này",
           "Kết - Tài Sản Cứng, Danh Tính Mềm"
         ],
         "wikilinks": [
+          "Ai Đứng Bên Kia Giao Dịch",
           "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
           "Chainlink - Mắt Xích Của Tokenized World",
           "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
@@ -1418,14 +1420,15 @@
           "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
           "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
           "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md"
+          "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md",
+          "mental-models/Ai Đứng Bên Kia Giao Dịch.md"
         ],
         "backlinks": [
           "crypto-finance/index.md",
           "index.md",
           "MOC - Financial Sovereignty.md"
         ],
-        "words": 3809,
+        "words": 4167,
         "summary": "**Một viên kim cương không chỉ bán bằng độ trong, giác cắt hay carat. Nó bán bằng giấy kiểm định, nguồn gốc, mã số, thương hiệu và niềm tin rằng viên đá trước mặt đúng là viên đá được mô tả trên giấy. Vụ PNJ Labs làm lộ một tầng rất quan trọng của tài sản xa…"
       },
       {
@@ -10182,6 +10185,7 @@
         ],
         "backlinks": [
           "crypto-finance/index.md",
+          "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
           "crypto-finance/Secular Market.md",
           "index.md",
           "mental-models/index.md",
@@ -22372,11 +22376,13 @@
         "PNJ Là Một Cỗ Máy Niềm Tin, Không Chỉ Là Nhà Bán Lẻ",
         "Từ Kim Cương Sang Vàng - Vì Sao Hard Asset Vẫn Cần Trust Layer",
         "Nối Với Chainlink, Proof-of-Reserve Và Tài Chính Định Danh",
+        "Thanh Khoản - Ai Đứng Bên Kia Giao Dịch?",
         "Cashflow - Khi Lòng Tin Bị Stress, Người Giữ Tài Sản Cần Tiền Mặt",
         "Vàng Cũng Không Thoát Khỏi Bài Test Này",
         "Kết - Tài Sản Cứng, Danh Tính Mềm"
       ],
       "wikilinks": [
+        "Ai Đứng Bên Kia Giao Dịch",
         "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
         "Chainlink - Mắt Xích Của Tokenized World",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
@@ -22387,14 +22393,15 @@
         "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
         "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
         "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md"
+        "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md"
       ],
       "backlinks": [
         "crypto-finance/index.md",
         "index.md",
         "MOC - Financial Sovereignty.md"
       ],
-      "words": 3809,
+      "words": 4167,
       "summary": "**Một viên kim cương không chỉ bán bằng độ trong, giác cắt hay carat. Nó bán bằng giấy kiểm định, nguồn gốc, mã số, thương hiệu và niềm tin rằng viên đá trước mặt đúng là viên đá được mô tả trên giấy. Vụ PNJ Labs làm lộ một tầng rất quan trọng của tài sản xa…"
     },
     "crypto-finance/Privacy.md": {
@@ -30719,6 +30726,7 @@
       ],
       "backlinks": [
         "crypto-finance/index.md",
+        "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
         "crypto-finance/Secular Market.md",
         "index.md",
         "mental-models/index.md",

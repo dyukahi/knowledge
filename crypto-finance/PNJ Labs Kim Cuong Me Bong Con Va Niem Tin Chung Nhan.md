@@ -260,6 +260,26 @@ Nếu người giữ cổng bị mua, sợ, tham, hoặc cấu kết, dữ liệ
 
 ---
 
+## Thanh Khoản - Ai Đứng Bên Kia Giao Dịch?
+
+Thanh khoản thường bị hiểu quá đơn giản là “bán được hay không”. Thật ra thanh khoản có ít nhất ba lớp.
+
+Một là **có người ở bên kia giao dịch**. Muốn bán kim cương, vàng, nhà, cổ phiếu hay Bitcoin, luôn phải có người khác chịu đứng bên kia. Giá niêm yết chỉ là con số trên bảng. Giá thật là mức mà một người khác sẵn sàng nhận rủi ro từ tay mình.
+
+Hai là **người đó có đủ tiền mặt không**. Một cửa hàng có thể muốn giữ chữ tín, nhưng nếu cùng lúc quá nhiều khách kích hoạt quyền bán lại, thiện chí phải đi qua két tiền. Đây là lý do bank-run luôn là bài test thanh khoản chứ không chỉ là bài test đạo đức.
+
+Ba là **giao dịch đó có được phép xảy ra không**. Thanh khoản không chỉ tự nhiên mà có. Nó có thể bị mở hoặc đóng bởi pháp lý, giấy tờ, kiểm định, hóa đơn, KYC, nguồn gốc tài sản, hạn mức ngân hàng, chính sách nội bộ và tâm lý rủi ro của bên mua lại. Một tài sản có thể có giá trên lý thuyết nhưng không có thanh khoản hợp pháp nếu đường đi của nó bị nghi ngờ.
+
+Đây là điểm nối với [[Ai Đứng Bên Kia Giao Dịch]]. Mọi tài sản đều cần một người mua cuối cùng. Nhưng trong tài sản vật lý có giấy tờ, câu hỏi còn sâu hơn:
+
+> Ai ở bên kia giao dịch, và họ có được phép tin vào giấy tờ của mình không?
+
+Kim cương làm câu hỏi này hiện hình rất rõ. Nếu giấy kiểm định sạch, hóa đơn rõ, nguồn gốc hợp lệ, thị trường còn tin thương hiệu, thanh khoản mở. Nếu một trong các lớp đó bị nghi ngờ, người mua bên kia không biến mất hoàn toàn, nhưng họ sẽ đòi discount, trì hoãn, kiểm định lại, hoặc từ chối giao dịch.
+
+Thanh khoản vì vậy không chỉ là tiền. Thanh khoản là **niềm tin có thể chuyển động hợp pháp**.
+
+---
+
 ## Cashflow - Khi Lòng Tin Bị Stress, Người Giữ Tài Sản Cần Tiền Mặt
 
 Góc cashflow vẫn quan trọng, nhưng nó không phải điểm bắt đầu. Nó là hậu quả.
