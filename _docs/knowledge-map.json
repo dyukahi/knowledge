@@ -11,7 +11,7 @@
       "politics-conspiracy": 27,
       "science-tech": 19
     },
-    "tags": 254,
+    "tags": 256,
     "wikilinkEdges": 2233,
     "brokenLinks": 0,
     "orphans": 12
@@ -13668,7 +13668,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 4832,
+        "words": 4863,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14121,7 +14121,7 @@
           "mental-models/index.md",
           "MOC - Ancient Civilizations & Hidden History.md"
         ],
-        "words": 701,
+        "words": 714,
         "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
       },
       {
@@ -14214,7 +14214,7 @@
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
           "science-tech/Walter Russell.md"
         ],
-        "words": 654,
+        "words": 665,
         "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
       },
       {
@@ -14958,7 +14958,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1021,
+        "words": 1049,
         "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
       },
       {
@@ -15376,16 +15376,16 @@
       },
       {
         "path": "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
-        "title": "Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic",
+        "title": "Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo",
         "domain": "science-tech",
         "tags": [
           "ai",
-          "consciousness",
           "matrix",
           "media-analysis",
-          "predictive-programming",
+          "predictive-chương trìnhming",
           "science-tech",
-          "transhumanism"
+          "transhumanism",
+          "ý thức"
         ],
         "aliases": [
           "AI Personhood",
@@ -15397,20 +15397,20 @@
           "Synthetic Personhood"
         ],
         "headings": [
-          "Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic",
-          "Cách Đọc Bài Này / Evidence Discipline",
+          "Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo",
+          "Cách Đọc Bài Này / Kỷ Luật Bằng Chứng",
           "Từ Khóa Cần Hiểu",
           "Orphan Black: Echoes - Từ Clone Sinh Học Sang Bản Thể In Lại",
-          "Detroit: Become Human - Từ Machine Property Sang Machine Personhood",
-          "Cùng Một Motif: Created Being Muốn Trở Thành Self",
-          "Memory Có Phải Linh Hồn Không?",
-          "Grief Tech - Khi Tình Yêu Biến Thành Quyền Sở Hữu",
-          "Body Data Frontier - Khi Cơ Thể Trở Thành Hạ Tầng",
-          "Predictive Programming - Future Rehearsal Cho Synthetic Personhood",
-          "Symbol Layer - Orphan, Echo, Android, Creator",
-          "Ma Trận Không Cần Giết Self - Nó Chỉ Cần Định Nghĩa Self",
-          "Vì Sao Detroit Hay Hơn Echoes Ở Execution?",
-          "Reading Path - Nếu Muốn Đào Sâu",
+          "Detroit: Become Human - Từ Tài Sản Máy Móc Sang Tư Cách Làm Người",
+          "Cùng Một Motif: Bản Thể Được Tạo Ra Muốn Trở Thành Chính Mình",
+          "Ký Ức Có Phải Linh Hồn Không?",
+          "Công Nghệ Chữa Nỗi Đau Mất Mát - Khi Tình Yêu Biến Thành Quyền Sở Hữu",
+          "Biên Giới Dữ Liệu Cơ Thể - Khi Cơ Thể Trở Thành Hạ Tầng",
+          "Predictive Programming - Diễn Tập Tương Lai Cho Bản Thể Nhân Tạo",
+          "Tầng Biểu Tượng - Orphan, Echo, Người máy, Creator",
+          "Ma Trận Không Cần Giết Chân Ngã - Nó Chỉ Cần Định Nghĩa Chân Ngã",
+          "Vì Sao Detroit Làm Tốt Hơn Echoes Ở Phần Triển Khai?",
+          "Lộ Trình Đọc - Nếu Muốn Đào Sâu",
           "Kết - Khi Công Nghệ Có Thể Tạo Người, Con Người Phải Học Cách Không Sở Hữu Người"
         ],
         "wikilinks": [
@@ -15444,8 +15444,8 @@
           "MOC - Science Revisionism.md",
           "science-tech/index.md"
         ],
-        "words": 3098,
-        "summary": "!Một phòng thí nghiệm tối, giữa phòng là một thân người synthetic đang thức tỉnh trong bể kính mờ, phía sau là các lớp ký ức như film negative trôi trong ánh sáng xanh lạnh"
+        "words": 3686,
+        "summary": "!Một phòng thí nghiệm tối, giữa phòng là một thân người nhân tạo đang thức tỉnh trong bể kính mờ, phía sau là các lớp ký ức như cuộn phim âm bản trôi trong ánh sáng xanh lạnh"
       },
       {
         "path": "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
@@ -16353,7 +16353,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4832,
+      "words": 4863,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -18211,7 +18211,7 @@
         "mental-models/index.md",
         "MOC - Ancient Civilizations & Hidden History.md"
       ],
-      "words": 701,
+      "words": 714,
       "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
     },
     {
@@ -18402,7 +18402,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
         "science-tech/Walter Russell.md"
       ],
-      "words": 654,
+      "words": 665,
       "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
     },
     {
@@ -18518,7 +18518,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1021,
+      "words": 1049,
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
     },
     {
@@ -19990,7 +19990,7 @@
     ],
     [
       "consciousness",
-      32
+      31
     ],
     [
       "mental-model",
@@ -20029,15 +20029,15 @@
       11
     ],
     [
-      "predictive-programming",
-      10
-    ],
-    [
       "mental-models",
       10
     ],
     [
       "epistemology",
+      9
+    ],
+    [
+      "predictive-programming",
       9
     ],
     [
@@ -20976,7 +20976,7 @@
         "mental-models/index.md",
         "MOC - Ancient Civilizations & Hidden History.md"
       ],
-      "words": 701,
+      "words": 714,
       "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
     },
     "MOC - Financial Sovereignty.md": {
@@ -21330,7 +21330,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
         "science-tech/Walter Russell.md"
       ],
-      "words": 654,
+      "words": 665,
       "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
     },
     "README.md": {
@@ -30450,7 +30450,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4832,
+      "words": 4863,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -35818,16 +35818,16 @@
     },
     "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md": {
       "path": "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
-      "title": "Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic",
+      "title": "Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo",
       "domain": "science-tech",
       "tags": [
         "ai",
-        "consciousness",
         "matrix",
         "media-analysis",
-        "predictive-programming",
+        "predictive-chương trìnhming",
         "science-tech",
-        "transhumanism"
+        "transhumanism",
+        "ý thức"
       ],
       "aliases": [
         "AI Personhood",
@@ -35839,20 +35839,20 @@
         "Synthetic Personhood"
       ],
       "headings": [
-        "Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic",
-        "Cách Đọc Bài Này / Evidence Discipline",
+        "Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo",
+        "Cách Đọc Bài Này / Kỷ Luật Bằng Chứng",
         "Từ Khóa Cần Hiểu",
         "Orphan Black: Echoes - Từ Clone Sinh Học Sang Bản Thể In Lại",
-        "Detroit: Become Human - Từ Machine Property Sang Machine Personhood",
-        "Cùng Một Motif: Created Being Muốn Trở Thành Self",
-        "Memory Có Phải Linh Hồn Không?",
-        "Grief Tech - Khi Tình Yêu Biến Thành Quyền Sở Hữu",
-        "Body Data Frontier - Khi Cơ Thể Trở Thành Hạ Tầng",
-        "Predictive Programming - Future Rehearsal Cho Synthetic Personhood",
-        "Symbol Layer - Orphan, Echo, Android, Creator",
-        "Ma Trận Không Cần Giết Self - Nó Chỉ Cần Định Nghĩa Self",
-        "Vì Sao Detroit Hay Hơn Echoes Ở Execution?",
-        "Reading Path - Nếu Muốn Đào Sâu",
+        "Detroit: Become Human - Từ Tài Sản Máy Móc Sang Tư Cách Làm Người",
+        "Cùng Một Motif: Bản Thể Được Tạo Ra Muốn Trở Thành Chính Mình",
+        "Ký Ức Có Phải Linh Hồn Không?",
+        "Công Nghệ Chữa Nỗi Đau Mất Mát - Khi Tình Yêu Biến Thành Quyền Sở Hữu",
+        "Biên Giới Dữ Liệu Cơ Thể - Khi Cơ Thể Trở Thành Hạ Tầng",
+        "Predictive Programming - Diễn Tập Tương Lai Cho Bản Thể Nhân Tạo",
+        "Tầng Biểu Tượng - Orphan, Echo, Người máy, Creator",
+        "Ma Trận Không Cần Giết Chân Ngã - Nó Chỉ Cần Định Nghĩa Chân Ngã",
+        "Vì Sao Detroit Làm Tốt Hơn Echoes Ở Phần Triển Khai?",
+        "Lộ Trình Đọc - Nếu Muốn Đào Sâu",
         "Kết - Khi Công Nghệ Có Thể Tạo Người, Con Người Phải Học Cách Không Sở Hữu Người"
       ],
       "wikilinks": [
@@ -35886,8 +35886,8 @@
         "MOC - Science Revisionism.md",
         "science-tech/index.md"
       ],
-      "words": 3098,
-      "summary": "!Một phòng thí nghiệm tối, giữa phòng là một thân người synthetic đang thức tỉnh trong bể kính mờ, phía sau là các lớp ký ức như film negative trôi trong ánh sáng xanh lạnh"
+      "words": 3686,
+      "summary": "!Một phòng thí nghiệm tối, giữa phòng là một thân người nhân tạo đang thức tỉnh trong bể kính mờ, phía sau là các lớp ký ức như cuộn phim âm bản trôi trong ánh sáng xanh lạnh"
     },
     "science-tech/Pin Natri-ion.md": {
       "path": "science-tech/Pin Natri-ion.md",
@@ -36315,7 +36315,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1021,
+      "words": 1049,
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
     }
   }

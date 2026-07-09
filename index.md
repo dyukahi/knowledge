@@ -149,7 +149,7 @@ Current events as ritual/media/predictive programming, without pretending symbol
 - [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
 - [[Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]]
 - [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]
-- [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic]]
+- [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]]
 - [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]
 - [[A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa]]
 - [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]
@@ -275,7 +275,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Gaia - Trái Đất Có Ý Thức]] | [[Avatar - Disclosure Của Eywa & Gaia]]
 - [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] | [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
 - [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]
-- [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic]]
+- [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]]
 - [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]
 
@@ -325,7 +325,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Mô Hình Địa Tâm]] | [[Thuyết Trái Đất Phẳng]]
 - [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]
 - [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]]
-- [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic]]
+- [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]]
 
 ---
 
@@ -334,7 +334,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ### June 29, 2026
 
 - **[[Abilene Paradox - Nghịch Lý Đồng Thuận Giả]]** - new illustrated mental-models article on pluralistic ignorance, preference falsification and group decisions nobody truly wants; linked into Mental Models Gateway and Epistemology & Propaganda with explicit fact / pattern / symbol / synthesis discipline.
-- **Knowledge map refresh** - vault map rebuilt after the Abilene article; root counts synced to 228 notes and Mental Models 39 notes; broken links remain 0.
+- **Cập nhật knowledge map** - vault map rebuilt after the Abilene article; root counts synced to 228 notes and Mental Models 39 notes; broken links remain 0.
 
 ### June 27, 2026
 
@@ -345,7 +345,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ### June 24, 2026
 
 - **Six-article revisionist/esoterica rewrite pass** - refined [[Khoa Học Xét Lại]], [[Chu Kỳ Vũ Trụ - Yugas & Kalpas]], [[Atlantis]], [[Lemuria]], [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]] and [[Nikola Tesla]] with tighter claim discipline, stronger vault positioning, cleaner prose and section-level illustrations.
-- **Knowledge map refresh** - vault map rebuilt after the six-article rewrite pass; broken links remain at 0.
+- **Cập nhật knowledge map** - vault map rebuilt after the six-article rewrite pass; broken links remain at 0.
 
 ### June 22, 2026
 
@@ -362,8 +362,8 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### July 9, 2026
 
-- **[[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic]]** - new Vietnamese science-tech / esoterica bridge note reading clone, android, memory reconstruction, grief tech, printable identity and synthetic personhood through Orphan Black: Echoes, Detroit: Become Human, Ma Trận, AI/golem and predictive programming; includes section-level editorial illustrations.
-- **Knowledge map refresh** - vault map rebuilt after the synthetic personhood note; root counts synced to 229 notes and Science & Tech 19 notes, with 0 broken links tracked.
+- **[[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]]** - bài science-tech / esoterica bridge full tiếng Việt, đọc nhân bản, người máy, tái dựng ký ức, công nghệ chữa nỗi đau mất mát, bản thể có thể in lại và tư cách làm người của bản thể nhân tạo qua Orphan Black: Echoes, Detroit: Become Human, Ma Trận, AI/golem và predictive programming; có minh họa theo từng section.
+- **Cập nhật knowledge map** - đã rebuild vault map sau bài về bản thể nhân tạo; root count đồng bộ 229 notes, Science & Tech 19 notes, broken links 0.
 
 ### June 17, 2026
 
@@ -374,7 +374,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - **[[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]]** - new mental-models article using a finance/income ladder video as doorway into Ma Trận, education conditioning, work, income-tier pain architecture, Loosh extraction and the counterspell of real connection; includes section-level image-gen illustrations.
 - **[[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]** - new mental-models bridge article reading the cabbage-baby / Cabbage Patch motif as symbolic rehearsal for child logistics, artificial womb, adoption-as-product ritual and Orphan Train 2.0; includes section-level image-gen illustrations.
 - **[[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]** - new mental-models bridge article connecting Orphan Train history, Tartaria/reset-memory questions, family care collapse, dopamine economy, reproductive technology, predictive programming and programmable children; written with explicit fact / pattern / symbol / speculative synthesis discipline.
-- **Knowledge map refresh** - vault map rebuilt after the Orphan Train 2.0, Em Bé Bắp Cải and Loosh income-ladder updates; root counts synced to 219 notes and Mental Models 35 notes.
+- **Cập nhật knowledge map** - vault map rebuilt after the Orphan Train 2.0, Em Bé Bắp Cải and Loosh income-ladder updates; root counts synced to 219 notes and Mental Models 35 notes.
 
 ### June 14, 2026
 
@@ -386,7 +386,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - **[[Cái Gì Trong Bạn Không Thể Bị Model Hóa]]** - new mental-models note on human value after AI-driven output collapse: lived experience, taste, discernment, moral stance, symbolic depth and attention sovereignty as the scarce layer beneath cheap generative output.
 - **[[AI Và Cái Chết Của Bản Quyền Công Nghiệp]]** - new science-tech note on AI, copyright, software piracy enforcement, public music licensing, AI-generated works and the generation economy; includes the Phú Thọ criminal Windows/Office case and Anthropic Fable/Mythos export-control statement.
 - **[[Đề Văn 2026 Và Nghi Lễ Thay Ký Ức]]** - merged the Korolev/Sputnik/ARPA/Baumol institutional lens into the 2026 literature-exam memory ritual note, reframing “Steve Jobs Việt Nam” as a question about incentive structures rather than heroic individuals.
-- **Knowledge map refresh** - vault map rebuilt after the AI copyright and exam-note updates; root counts synced to 210 notes, Mental Models 30 notes and Science & Tech 18 notes.
+- **Cập nhật knowledge map** - vault map rebuilt after the AI copyright and exam-note updates; root counts synced to 210 notes, Mental Models 30 notes and Science & Tech 18 notes.
 
 ### June 9, 2026
 

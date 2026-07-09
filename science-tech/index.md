@@ -114,7 +114,7 @@ Orientation: use this when tech becomes governance and medicine. The route shows
 - [[Nikola Tesla]] — suppressed-tech archetype and real inventor history.
 - [[Vũ Khí Năng Lượng Định Hướng]] — high-risk tech claim requiring source discipline.
 - [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]] — upgrade culture as governance path.
-- [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic]] — media case study về clone, android, memory và synthetic personhood.
+- [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]] — case study truyền thông về nhân bản, người máy, ký ức và tư cách làm người của bản thể nhân tạo.
 
 ---
 
@@ -125,7 +125,7 @@ Orientation: use this when tech becomes governance and medicine. The route shows
 - [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — attention warfare and algorithmic worldview.
 - [[Digital ID Normalization - From Instagram to Government ID]] — identity wallet and verify-to-exist risk.
 - [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]] — body-data sovereignty and upgrade pressure.
-- [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Synthetic]] — printable identity và AI/biotech personhood as culture rehearsal.
+- [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]] — bản thể có thể in lại và tư cách làm người trong AI/công nghệ sinh học như một buổi diễn tập văn hóa.
 
 
 ## Related Gateways
