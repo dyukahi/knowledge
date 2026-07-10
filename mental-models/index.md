@@ -28,9 +28,10 @@ related:
 4. [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]]
 5. [[Giàu Không Phải Để Vợ Không Làm Gì]]
 6. [[Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học]]
-7. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
-8. [[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]
-9. [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
+7. [[Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người]]
+8. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
+9. [[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]
+10. [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
 
 > Rule: critique systems and incentives, not identities.
 
@@ -141,6 +142,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Thông Minh vs Trí Tuệ]] — why cleverness can still serve the Matrix.
 - [[Tâm Lý Học Tiến Hóa Về Giới Tính]] — high-risk sex/gender psychology lens; read with claim discipline, not as identity war.
 - [[Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học]] — marriage, contraception, abortion-politics and endocrine disruption without misogyny or fake medical certainty.
+- [[Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người]] — Hàn Quốc như cảnh báo giai đoạn muộn, Việt Nam như chẩn đoán sớm, và một lối thoát qua nhà ở, lao động chăm sóc, phẩm giá cùng hạ tầng gia đình.
 - [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] — family collapse, lineage, reproductive technology and programmable children.
 - [[Individuation]] — the inner path from persona to Self.
 - [[Tư Duy Lũy Thừa]] — compounding as a mental operating system.

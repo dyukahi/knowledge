@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 230,
+    "notes": 231,
     "domains": {
       "_docs": 11,
       "root": 14,
       "crypto-finance": 17,
       "esoterica": 76,
       "health": 27,
-      "mental-models": 39,
+      "mental-models": 40,
       "politics-conspiracy": 27,
       "science-tech": 19
     },
-    "tags": 264,
-    "wikilinkEdges": 2241,
+    "tags": 267,
+    "wikilinkEdges": 2248,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -8810,6 +8810,7 @@
           "Tư Duy Lũy Thừa",
           "Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào",
           "UBI Conditioning - The End of Work Ethic",
+          "Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người",
           "Vô Thức Tập Thể"
         ],
         "mdlinks": [],
@@ -8855,6 +8856,7 @@
           "mental-models/Tư Duy Lũy Thừa.md",
           "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
           "mental-models/UBI Conditioning - The End of Work Ethic.md",
+          "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
           "mental-models/Vô Thức Tập Thể.md",
           "MOC - Epistemology & Propaganda.md",
           "MOC - Esoterica & Consciousness.md",
@@ -8874,7 +8876,7 @@
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1667,
+        "words": 1728,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -9262,7 +9264,8 @@
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/index.md",
           "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md"
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+          "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md"
         ],
         "words": 3446,
         "summary": "Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about mal…"
@@ -9599,6 +9602,7 @@
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
           "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
+          "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
           "MOC - Epistemology & Propaganda.md",
           "MOC - Health Sovereignty.md"
         ],
@@ -9955,6 +9959,68 @@
         "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không. Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trận.…"
       },
       {
+        "path": "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "title": "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+        "domain": "mental-models",
+        "tags": [
+          "care-economy",
+          "covenant",
+          "dopamine-economy",
+          "family",
+          "marriage",
+          "mental-models"
+        ],
+        "aliases": [
+          "Covenant Và Care Work",
+          "Marriage as Last Infrastructure",
+          "Nghĩa Tình Vợ Chồng"
+        ],
+        "headings": [
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+          "Covenant Không Phải Subscription",
+          "Dopamine Market Và Sự Phản Bội Nhẹ Nhàng",
+          "Care Work Là Cơ Sở Hạ Tầng Vô Hình",
+          "Về Già Mới Biết Tình Yêu Có Thật Không",
+          "Ma Trận Ghét Những Hạ Tầng Không Trung Gian",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+          "Publication Pack / Family, Dopamine & Orphan Train"
+        ],
+        "wikilinks": [
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Ma Trận",
+          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+          "Tâm Lý Học Tiến Hóa Về Giới Tính",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "index.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+          "mental-models/index.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
+          "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md"
+        ],
+        "words": 1810,
+        "summary": "!Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+      },
+      {
         "path": "mental-models/Mental Model.md",
         "title": "Mental Model",
         "domain": "mental-models",
@@ -10016,67 +10082,6 @@
         ],
         "words": 1169,
         "summary": "**Mental model là bản đồ vận hành của reality trong đầu bạn.** Người có model nghèo bị sự kiện kéo đi. Người có model tốt thấy cấu trúc phía sau sự kiện, dự đoán hậu quả tốt hơn và chọn phản ứng tỉnh hơn. Trong redpill.wiki, mental model không phải mẹo năng s…"
-      },
-      {
-        "path": "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-        "title": "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-        "domain": "mental-models",
-        "tags": [
-          "care-economy",
-          "covenant",
-          "dopamine-economy",
-          "family",
-          "marriage",
-          "mental-models"
-        ],
-        "aliases": [
-          "Covenant Và Care Work",
-          "Marriage as Last Infrastructure",
-          "Nghĩa Tình Vợ Chồng"
-        ],
-        "headings": [
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-          "Covenant Không Phải Subscription",
-          "Dopamine Market Và Sự Phản Bội Nhẹ Nhàng",
-          "Care Work Là Cơ Sở Hạ Tầng Vô Hình",
-          "Về Già Mới Biết Tình Yêu Có Thật Không",
-          "Ma Trận Ghét Những Hạ Tầng Không Trung Gian",
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-          "Publication Pack / Family, Dopamine & Orphan Train"
-        ],
-        "wikilinks": [
-          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Ma Trận",
-          "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
-          "Tâm Lý Học Tiến Hóa Về Giới Tính",
-          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md"
-        ],
-        "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "index.md",
-          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
-          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
-          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
-          "mental-models/index.md",
-          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md"
-        ],
-        "words": 1810,
-        "summary": "!Tình Nghĩa Là Hạ Tầng Cuối Cùng"
       },
       {
         "path": "mental-models/Tư Duy Lũy Thừa.md",
@@ -10334,6 +10339,7 @@
           "health/index.md",
           "index.md",
           "mental-models/index.md",
+          "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
           "MOC - Health Sovereignty.md"
         ],
         "words": 3668,
@@ -11310,6 +11316,73 @@
         ],
         "words": 998,
         "summary": "!Home Screen Samsara"
+      },
+      {
+        "path": "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
+        "title": "Việt Nam Trước Hai Chiến Hào: Khi Nam Nữ Cùng Đòi Quyền Làm Người",
+        "domain": "mental-models",
+        "tags": [
+          "care-economy",
+          "family",
+          "fertility",
+          "gender-polarization",
+          "housing",
+          "mental-models",
+          "south-korea",
+          "vietnam"
+        ],
+        "aliases": [
+          "Khi Nam Nữ Thành Kẻ Thù",
+          "Phân Cực Giới Việt Nam",
+          "Việt Nam Trước Hai Chiến Hào"
+        ],
+        "headings": [
+          "Việt Nam Trước Hai Chiến Hào: Khi Nam Nữ Cùng Đòi Quyền Làm Người",
+          "Vị Trí Trong Kho Tri Thức Và Kỷ Luật Bằng Chứng",
+          "Từ Khóa Cần Hiểu",
+          "1. Hàn Quốc Ở Giai Đoạn Muộn: Khi Nỗi Đau Có Đảng Phái Và Giới Tính",
+          "2. Lá Phiếu 2022 Và 2025: Vết Nứt Không Tự Liền",
+          "3. 4B: Một Biểu Tượng Có Thật, Không Phải Lời Giải Thích Tổng Thể",
+          "4. Việt Nam Ở Giai Đoạn Sớm: Chưa Có Hai Khối, Nhưng Đã Có Vết Nứt",
+          "5. Nhà Ở: Cái Giường Của Gia Đình Đã Thành Tài Sản Đầu Cơ",
+          "6. Gánh Nặng Chăm Sóc: Phụ Nữ Sợ Ca Làm Thứ Hai, Đàn Ông Sợ Không Bao Giờ Đủ",
+          "7. Cỗ Máy Chuyển Nỗi Đau Thành Kẻ Thù",
+          "8. Những Dấu Hiệu Việt Nam Cần Theo Dõi",
+          "9. Những Tài Sản Bảo Vệ Việt Nam Vẫn Còn",
+          "10. Chúng Ta Có Thể Làm Gì?",
+          "10.1. Sửa bài toán vật chất trước khi mở chiến dịch đạo đức",
+          "10.2. Biến làm cha thành quyền và năng lực, không chỉ nghĩa vụ kiếm tiền",
+          "10.3. Bảo vệ phụ nữ mà không hình sự hóa nam tính",
+          "10.4. Chăm sức khỏe tinh thần nam giới mà không trao giấy phép ghét phụ nữ",
+          "10.5. Dạy năng lực hiểu biết về quan hệ, chăm sóc và thuật toán",
+          "10.6. Thiết kế chính sách phổ quát, rồi thêm hỗ trợ theo nhu cầu",
+          "10.7. Trong từng gia đình: chuyển từ “giúp” sang “đồng sở hữu”",
+          "11. Quyền Làm Người Của Cả Hai Giới",
+          "Chốt Lại: Đừng Để Nỗi Đau Đào Hộ Chiến Hào",
+          "Nguồn Và Ghi Chú Đọc Thêm",
+          "Ghi chú về giới hạn nguồn"
+        ],
+        "wikilinks": [
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+          "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+          "Tâm Lý Học Tiến Hóa Về Giới Tính",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md"
+        ],
+        "words": 6249,
+        "summary": "**Hàn Quốc không phải tương lai tất yếu của Việt Nam. Nhưng nó là một lời cảnh báo giai đoạn muộn: khi nhà ở, việc làm, lao động chăm sóc và phẩm giá cùng thất bại, nỗi đau kinh tế rất dễ bị dịch thành chiến tranh giới. Phụ nữ nói “tôi không muốn làm vợ, làm…"
       },
       {
         "path": "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
@@ -13409,6 +13482,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "July 10, 2026",
           "July 9, 2026",
           "June 29, 2026",
           "June 27, 2026",
@@ -13575,6 +13649,7 @@
           "UAP Disclosure - Controlled Revelation",
           "UBI Conditioning - The End of Work Ethic",
           "Ung Thư - Metabolic Protocol",
+          "Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người",
           "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
           "Vô Thức Tập Thể",
           "Vũ Khí Năng Lượng Định Hướng",
@@ -13698,6 +13773,7 @@
           "mental-models/Tư Duy Lũy Thừa.md",
           "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
           "mental-models/UBI Conditioning - The End of Work Ethic.md",
+          "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
           "mental-models/Vô Thức Tập Thể.md",
           "MOC - Ancient Civilizations & Hidden History.md",
           "MOC - Epistemology & Propaganda.md",
@@ -13747,7 +13823,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 4953,
+        "words": 5077,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14629,6 +14705,7 @@
           "index.md",
           "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
           "politics-conspiracy/Elite.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
@@ -16098,6 +16175,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "July 10, 2026",
         "July 9, 2026",
         "June 29, 2026",
         "June 27, 2026",
@@ -16264,6 +16342,7 @@
         "UAP Disclosure - Controlled Revelation",
         "UBI Conditioning - The End of Work Ethic",
         "Ung Thư - Metabolic Protocol",
+        "Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người",
         "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
         "Vô Thức Tập Thể",
         "Vũ Khí Năng Lượng Định Hướng",
@@ -16387,6 +16466,7 @@
         "mental-models/Tư Duy Lũy Thừa.md",
         "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
         "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Epistemology & Propaganda.md",
@@ -16436,7 +16516,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4953,
+      "words": 5077,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -17118,6 +17198,7 @@
         "Tư Duy Lũy Thừa",
         "Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào",
         "UBI Conditioning - The End of Work Ethic",
+        "Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người",
         "Vô Thức Tập Thể"
       ],
       "mdlinks": [],
@@ -17163,6 +17244,7 @@
         "mental-models/Tư Duy Lũy Thừa.md",
         "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
         "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Esoterica & Consciousness.md",
@@ -17182,7 +17264,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1667,
+      "words": 1728,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
@@ -18967,6 +19049,119 @@
       "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
     },
     {
+      "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+      "title": "Tâm Lý Học Tiến Hóa Về Giới Tính",
+      "domain": "mental-models",
+      "tags": [
+        "science-tech"
+      ],
+      "aliases": [],
+      "headings": [
+        "Tâm Lý Học Tiến Hóa Về Giới Tính",
+        "Evidence Discipline / Cách Đọc Bài Này",
+        "Kinh Tế Học Tình Dục",
+        "Tại Sao Phụ Nữ Cần Mối Quan Hệ Hơn?",
+        "Quyền Lực Thực Sự Trong Mối Quan Hệ",
+        "Giá Trị Sinh Tồn và Giá Trị Sinh Sản",
+        "Hội Chứng \"Trai Ngoan\"",
+        "Chọn Lọc Tự Nhiên — Bài Học Từ Người Nuôi Giống",
+        "Ma Trận và Agenda Giới Tính",
+        "Bước Một: Phá Vỡ Hàng Rào Tinh Thần",
+        "Bước Hai: Chimera và DNA Mixing",
+        "Bước Ba: Feminism Biến Tướng",
+        "Bước Bốn: LGBT Normalization và Trans Agenda",
+        "Bước Cuối: Ranh Giới Tuổi Tác",
+        "Mục Đích Cuối Cùng",
+        "Deeper Layer: Waveform và Karma",
+        "Karma Disclosure",
+        "Pattern Trong Chu Kỳ Ngàn Năm",
+        "Tóm Tắt",
+        "Publication Pack / Family, Dopamine & Orphan Train",
+        "Related",
+        "Sex & Energy",
+        "Psychology",
+        "Ma Trận & Control",
+        "Disclosure & Programming",
+        "History & Cycles",
+        "Tình Nghĩa Và Pair Bonding Khi Thân Thể Xuống Cấp"
+      ],
+      "wikilinks": [
+        "Báo Cáo 2030",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Chimera",
+        "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+        "Cách Đọc Red Pill Wiki",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Elite",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Individuation",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Kiểm Soát Tâm Trí",
+        "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "Nguyên Mẫu",
+        "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "S.E.X",
+        "S.E.X Và Tâm Lý Học Jung",
+        "Sacred Geometry",
+        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+        "Thực Thể Cõi Trung Giới",
+        "Tà Linh",
+        "Tâm Lý Học Jung",
+        "Tâm Lý Học Tiến Hóa Về Giới Tính",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+        "Vô Thức Tập Thể",
+        "Word Magic - Ngôn Ngữ Của Phù Thủy"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Chimera.md",
+        "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/S.E.X.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+        "esoterica/Thực Thể Cõi Trung Giới.md",
+        "esoterica/Tà Linh.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Individuation.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md"
+      ],
+      "backlinks": [
+        "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+        "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+        "index.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/index.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md"
+      ],
+      "words": 3446,
+      "summary": "Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about mal…"
+    },
+    {
       "path": "esoterica/Sự Nhất Thể.md",
       "title": "Sự Nhất Thể (Oneness)",
       "domain": "esoterica",
@@ -19046,90 +19241,6 @@
       ],
       "words": 1360,
       "summary": "**Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh: ta/người, sáng/tối, tinh thần/vật chất, thắng/thua, có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qua…"
-    },
-    {
-      "path": "health/Thuyết Vi Sinh Nội Sinh.md",
-      "title": "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
-      "domain": "health",
-      "tags": [
-        "health",
-        "terrain-theory"
-      ],
-      "aliases": [
-        "Terrain Theory",
-        "Thuyết Địa Hình"
-      ],
-      "headings": [
-        "Thuyết Vi Sinh Nội Sinh (Terrain Theory)",
-        "Medical Caution / Cảnh Báo Y Tế",
-        "Vault Position / Vị Trí Trong Vault",
-        "Evidence Discipline / Kỷ Luật Bằng Chứng",
-        "Source Register / Nguồn Cần Đối Chiếu",
-        "Germ Và Terrain Không Phải Hai Phe",
-        "Terrain Gồm Những Gì?",
-        "Microzymas Và Pleomorphism",
-        "Vì Sao Mô Hình Diệt Mầm Bệnh Thắng?",
-        "Terrain Practice / Làm Sạch Đất",
-        "Core Insight / Chốt Lại",
-        "Publication Pack / Health Sovereignty"
-      ],
-      "wikilinks": [
-        "Công Thức Chữa Lành Tự Nhiên",
-        "Cơ Chế Tự Bảo Vệ Của Cơ Thể",
-        "Hệ Tiêu Hóa - Bộ Não Thứ Hai",
-        "Ketogenic Diet",
-        "Khoa Học Xét Lại",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "MOC - Health Sovereignty",
-        "Plasma Quinton",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
-        "Ung Thư - Metabolic Protocol",
-        "Y Tế Tự Nhiên"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "health/Công Thức Chữa Lành Tự Nhiên.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/Ketogenic Diet.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Y Tế Tự Nhiên.md",
-        "MOC - Health Sovereignty.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "backlinks": [
-        "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "Glossary - Từ Điển Red Pill Wiki.md",
-        "health/Cơ Chế Tự Bảo Vệ Của Cơ Thể.md",
-        "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-        "health/Hệ Tiêu Hóa - Bộ Não Thứ Hai.md",
-        "health/index.md",
-        "health/Ketogenic Diet.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Mebendazole - Thuốc Tẩy Giun Chống Ung Thư.md",
-        "health/Plasma Quinton.md",
-        "health/René Quinton và Huyết Tương Biển.md",
-        "health/Su That Ve Benh Dai Va Vac Xin.md",
-        "health/Suramin.md",
-        "health/Thuốc Hóa Dầu.md",
-        "health/Tuyến Tùng.md",
-        "health/Ung Thư - Metabolic Protocol.md",
-        "health/Virus và Kiếp Tật Dịch.md",
-        "health/Y Tế Tự Nhiên.md",
-        "index.md",
-        "MOC - Health Sovereignty.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "science-tech/Khoa Học Xét Lại.md"
-      ],
-      "words": 1436,
-      "summary": "**Terrain Theory nói một điều đơn giản nhưng bị làm phẳng: mầm bệnh không hành động trong chân không. Nó gặp một cơ thể có miễn dịch, ruột, dinh dưỡng, stress, độc chất, nhịp ngủ và bệnh nền riêng.** Vì vậy cùng một exposure có thể cho hai kết quả khác nhau.…"
     }
   ],
   "orphans": [
@@ -20115,7 +20226,7 @@
     ],
     [
       "mental-models",
-      10
+      11
     ],
     [
       "epistemology",
@@ -20162,6 +20273,14 @@
       7
     ],
     [
+      "care-economy",
+      7
+    ],
+    [
+      "family",
+      7
+    ],
+    [
       "moc",
       7
     ],
@@ -20175,14 +20294,6 @@
     ],
     [
       "philosophy",
-      6
-    ],
-    [
-      "care-economy",
-      6
-    ],
-    [
-      "family",
       6
     ],
     [
@@ -20410,7 +20521,15 @@
       2
     ],
     [
+      "housing",
+      2
+    ],
+    [
       "education",
+      2
+    ],
+    [
+      "vietnam",
       2
     ],
     [
@@ -20455,14 +20574,6 @@
     ],
     [
       "bank-run",
-      1
-    ],
-    [
-      "cashflow",
-      1
-    ],
-    [
-      "certificate",
       1
     ]
   ],
@@ -21502,6 +21613,7 @@
         "index.md",
         "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
         "politics-conspiracy/Elite.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
@@ -30277,6 +30389,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "July 10, 2026",
         "July 9, 2026",
         "June 29, 2026",
         "June 27, 2026",
@@ -30443,6 +30556,7 @@
         "UAP Disclosure - Controlled Revelation",
         "UBI Conditioning - The End of Work Ethic",
         "Ung Thư - Metabolic Protocol",
+        "Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người",
         "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
         "Vô Thức Tập Thể",
         "Vũ Khí Năng Lượng Định Hướng",
@@ -30566,6 +30680,7 @@
         "mental-models/Tư Duy Lũy Thừa.md",
         "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
         "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Epistemology & Propaganda.md",
@@ -30615,7 +30730,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 4953,
+      "words": 5077,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -30925,6 +31040,7 @@
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
         "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
+        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Health Sovereignty.md"
       ],
@@ -31406,6 +31522,7 @@
         "health/index.md",
         "index.md",
         "mental-models/index.md",
+        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
         "MOC - Health Sovereignty.md"
       ],
       "words": 3668,
@@ -32774,7 +32891,8 @@
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/index.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md"
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md"
       ],
       "words": 3446,
       "summary": "Có những sự thật về tâm lý nam-nữ mà xã hội hiện đại cố tình che đậy vì \"political correctness\". Nhưng những pattern này được lập trình trong DNA qua hàng triệu năm tiến hóa — chúng không biến mất chỉ vì xã hội muốn chúng biến mất. *There are truths about mal…"
@@ -32894,7 +33012,8 @@
         "mental-models/index.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md"
+        "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
+        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md"
       ],
       "words": 1810,
       "summary": "!Tình Nghĩa Là Hạ Tầng Cuối Cùng"
@@ -33067,6 +33186,73 @@
       "words": 946,
       "summary": "**UBI không chỉ là câu hỏi kinh tế “ai trả tiền?”. Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
     },
+    "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md": {
+      "path": "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
+      "title": "Việt Nam Trước Hai Chiến Hào: Khi Nam Nữ Cùng Đòi Quyền Làm Người",
+      "domain": "mental-models",
+      "tags": [
+        "care-economy",
+        "family",
+        "fertility",
+        "gender-polarization",
+        "housing",
+        "mental-models",
+        "south-korea",
+        "vietnam"
+      ],
+      "aliases": [
+        "Khi Nam Nữ Thành Kẻ Thù",
+        "Phân Cực Giới Việt Nam",
+        "Việt Nam Trước Hai Chiến Hào"
+      ],
+      "headings": [
+        "Việt Nam Trước Hai Chiến Hào: Khi Nam Nữ Cùng Đòi Quyền Làm Người",
+        "Vị Trí Trong Kho Tri Thức Và Kỷ Luật Bằng Chứng",
+        "Từ Khóa Cần Hiểu",
+        "1. Hàn Quốc Ở Giai Đoạn Muộn: Khi Nỗi Đau Có Đảng Phái Và Giới Tính",
+        "2. Lá Phiếu 2022 Và 2025: Vết Nứt Không Tự Liền",
+        "3. 4B: Một Biểu Tượng Có Thật, Không Phải Lời Giải Thích Tổng Thể",
+        "4. Việt Nam Ở Giai Đoạn Sớm: Chưa Có Hai Khối, Nhưng Đã Có Vết Nứt",
+        "5. Nhà Ở: Cái Giường Của Gia Đình Đã Thành Tài Sản Đầu Cơ",
+        "6. Gánh Nặng Chăm Sóc: Phụ Nữ Sợ Ca Làm Thứ Hai, Đàn Ông Sợ Không Bao Giờ Đủ",
+        "7. Cỗ Máy Chuyển Nỗi Đau Thành Kẻ Thù",
+        "8. Những Dấu Hiệu Việt Nam Cần Theo Dõi",
+        "9. Những Tài Sản Bảo Vệ Việt Nam Vẫn Còn",
+        "10. Chúng Ta Có Thể Làm Gì?",
+        "10.1. Sửa bài toán vật chất trước khi mở chiến dịch đạo đức",
+        "10.2. Biến làm cha thành quyền và năng lực, không chỉ nghĩa vụ kiếm tiền",
+        "10.3. Bảo vệ phụ nữ mà không hình sự hóa nam tính",
+        "10.4. Chăm sức khỏe tinh thần nam giới mà không trao giấy phép ghét phụ nữ",
+        "10.5. Dạy năng lực hiểu biết về quan hệ, chăm sóc và thuật toán",
+        "10.6. Thiết kế chính sách phổ quát, rồi thêm hỗ trợ theo nhu cầu",
+        "10.7. Trong từng gia đình: chuyển từ “giúp” sang “đồng sở hữu”",
+        "11. Quyền Làm Người Của Cả Hai Giới",
+        "Chốt Lại: Đừng Để Nỗi Đau Đào Hộ Chiến Hào",
+        "Nguồn Và Ghi Chú Đọc Thêm",
+        "Ghi chú về giới hạn nguồn"
+      ],
+      "wikilinks": [
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+        "Tâm Lý Học Tiến Hóa Về Giới Tính",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md"
+      ],
+      "words": 6249,
+      "summary": "**Hàn Quốc không phải tương lai tất yếu của Việt Nam. Nhưng nó là một lời cảnh báo giai đoạn muộn: khi nhà ở, việc làm, lao động chăm sóc và phẩm giá cùng thất bại, nỗi đau kinh tế rất dễ bị dịch thành chiến tranh giới. Phụ nữ nói “tôi không muốn làm vợ, làm…"
+    },
     "mental-models/Vô Thức Tập Thể.md": {
       "path": "mental-models/Vô Thức Tập Thể.md",
       "title": "Vô Thức Tập Thể",
@@ -33231,6 +33417,7 @@
         "Tư Duy Lũy Thừa",
         "Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào",
         "UBI Conditioning - The End of Work Ethic",
+        "Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người",
         "Vô Thức Tập Thể"
       ],
       "mdlinks": [],
@@ -33276,6 +33463,7 @@
         "mental-models/Tư Duy Lũy Thừa.md",
         "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
         "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Epistemology & Propaganda.md",
         "MOC - Esoterica & Consciousness.md",
@@ -33295,7 +33483,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1667,
+      "words": 1728,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
