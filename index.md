@@ -152,7 +152,7 @@ Current events as ritual/media/predictive programming, without pretending symbol
 - [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]]
 - [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]
 - [[A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa]]
-- [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]
+- [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]]
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]
 
 ---
@@ -195,7 +195,7 @@ Các bài dưới đây là những flagship notes dễ cho người mới thấ
 - **[[Đề Văn 2026 Và Nghi Lễ Thay Ký Ức]]** - đề Ngữ văn THPT như ritual chọn ký ức tập thể: Code và Cát, Spiderum, Silicon Valley aspiration và American Egypt grammar
 - **[[UAP Disclosure - Controlled Revelation]]** - disclosure như limited hangout và narrative management
 - **[[Karma Disclosure - Truth Hidden In Plain Sight]]** - truth hidden in plain sight, consent, revelation method
-- **[[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]** - Brazil→Norway World Cup 2026 pattern post-mortem: Japan Gate rhyme, Viking longship myth, falsification by England, and why an omen must not move after failure
+- **[[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]]** - Brazil→Norway World Cup 2026 pattern post-mortem: Japan Gate rhyme, Viking longship myth, falsification by England, and why an omen must not move after failure
 - **[[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]** - sports, halftime shows and launches as mass synchronization rituals for reality migration
 - **[[Hollywood - Cây Đũa Phép Của Phù Thủy]]** - cinema như rehearsal của collective emotion
 - **[[Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]]** - case study điện ảnh về messiah trap, prescience, Golden Path và câu hỏi liệu một người có quyền thành quái vật để cứu tương lai loài người không
@@ -277,7 +277,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] | [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
 - [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]
 - [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]]
-- [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]
+- [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]]
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]
 
 ### 🏥 Health
@@ -402,7 +402,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ### June 4, 2026
 
 - **[[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]** - new framework note connecting World Cup, Euro, Super Bowl halftime shows and SpaceX 12/6 as mass synchronization rituals in a broader reality reset.
-- **[[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]** - World Cup pattern audit tracing Brazil→Norway, then recording Norway’s elimination as a falsified champion thesis rather than transferring the omen to England.
+- **[[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]]** - World Cup pattern audit tracing Brazil→Norway, then recording Norway’s elimination as a falsified champion thesis rather than transferring the omen to England.
 - **Gen Z key terms pass** - added prose-style "Từ Khóa Cần Hiểu" sections across all 7 Gen Z series articles so dense terms are explained in-flow without turning the essays into dry glossaries.
 - **Gen Z series essay rewrite** - rewrote all 7 Gen Z & Agenda 2030 path articles into deeper prose/essay style with fewer bullets and stronger conceptual flow across attention, money, work, identity, fear and body.
 - **Trump Moonchild / Elon False Prophet dot** - added symbolic layer to [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]] and [[Mỹ Là Ai Cập Tái Sinh]]: Trump as lunar Beast-function, Elon as False Prophet / Dr. Doom archetype, X as the platform that returned the Beast's voice.

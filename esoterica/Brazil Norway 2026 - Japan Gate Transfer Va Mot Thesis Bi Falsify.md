@@ -3,6 +3,7 @@ title: "Brazil → Norway 2026 - Japan Gate Transfer Và Một Thesis Bị Falsi
 description: "Post-mortem một pattern World Cup 2026: Brazil mở signal, Norway được nâng thành Japan Gate candidate, rồi thua England và falsify champion thesis."
 aliases:
   - "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể"
+  - "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify"
   - "Norway 2026 - Japan Gate Transfer Và Điệu Chèo Viking"
   - "Japan Knockout Transfer Rule"
   - "Norway 2026 World Cup"
@@ -476,7 +477,7 @@ Reading path:
 2. [[Hollywood - Cây Đũa Phép Của Phù Thủy]] — screen như wand của collective imagination.
 3. [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]] — ba màn hình của myth công nghiệp.
 4. [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]] — disclosure, rocket ritual và techno-myth.
-5. [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — Brazil-to-Norway transfer, Japan Gate rule và collective football myth.
+5. [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]] — Brazil-to-Norway transfer, Japan Gate rule và collective football myth.
 6. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — spectacle như synchronization infrastructure.
 
 Rule của pack: fact → pattern → symbol → speculative synthesis. Không nhảy thẳng từ coincidence sang certainty.

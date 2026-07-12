@@ -40,7 +40,7 @@ Trước khi đọc, nên mở:
 
 - **[[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]]** — SpaceX IPO, alien/disclosure narrative, Spielberg, Jack Parsons/JPL và rocket như obelisk lửa.
 - **[[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]]** — rocket spectacle, techno-king mythology và fear of the sky.
-- **[[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]** — World Cup 2026 pattern audit: Brazil→Norway, Japan Gate rhyme, Norway thua England và champion thesis bị falsify.
+- **[[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]]** — World Cup 2026 pattern audit: Brazil→Norway, Japan Gate rhyme, Norway thua England và champion thesis bị falsify.
 - **[[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]** — sports, halftime show, launch và ceremony như mass synchronization layer.
 - **[[UAP Disclosure - Controlled Revelation]]** — disclosure như limited hangout, narrative pacing và permission structure.
 

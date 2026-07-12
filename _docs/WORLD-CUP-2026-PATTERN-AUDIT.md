@@ -2,7 +2,7 @@
 
 Date checked: 2026-06-04, before World Cup 26 matches are played.
 
-Purpose: source discipline for `esoterica/Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể.md`. This is not a prediction ledger. It separates fact, pattern, symbol, and speculative reading.
+Purpose: source discipline for `esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md`. This is not a prediction ledger. It separates fact, pattern, symbol, and speculative reading.
 
 ## Brazil football facts
 

@@ -92,7 +92,7 @@ Path:
 2. [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
 3. [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]
 4. [[A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa]]
-5. [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]]
+5. [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]]
 6. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]
 
 ## Pre-publish ritual

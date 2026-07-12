@@ -189,7 +189,7 @@ Vào bằng [[Ma Trận]], rồi dùng [[MOC - Esoterica & Consciousness]] và [
 
 Vào bằng [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]], rồi đi qua [[MOC - Epistemology & Propaganda]] để giữ claim discipline.
 
-Flagship/case notes: [[Hollywood - Cây Đũa Phép Của Phù Thủy]], [[Karma Disclosure - Truth Hidden In Plain Sight]], [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]], [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]], [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]].
+Flagship/case notes: [[Hollywood - Cây Đũa Phép Của Phù Thủy]], [[Karma Disclosure - Truth Hidden In Plain Sight]], [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]], [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]], [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]].
 
 ### 3. Money / Control Rails
 
@@ -207,7 +207,7 @@ Flagship notes: [[Y Tế Tự Nhiên]], [[Kính Chiếu Yêu - Nhìn Thấu Tây
 
 Vào bằng [[Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng]], rồi dùng [[MOC - Epistemology & Propaganda]], [[MOC - Financial Sovereignty]] hoặc [[MOC - Science Revisionism]] tùy case.
 
-Case notes để luyện đọc bốn tầng: [[Karma Disclosure - Truth Hidden In Plain Sight]], [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]], [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]], [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]], [[Chainlink - Mắt Xích Của Tokenized World]], [[Elite]].
+Case notes để luyện đọc bốn tầng: [[Karma Disclosure - Truth Hidden In Plain Sight]], [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]], [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]], [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]], [[Chainlink - Mắt Xích Của Tokenized World]], [[Elite]].
 
 > Current event là phòng lab, không phải altar. Quan sát pattern, giữ humility, và luôn hỏi: tầng nào kiểm được, tầng nào là systems reading, tầng nào chỉ là symbol hoặc synthesis?
 

@@ -57,7 +57,7 @@ Reading path:
 2. [[Hollywood - Cây Đũa Phép Của Phù Thủy]] — screen như wand của collective imagination.
 3. [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]] — ba màn hình của myth công nghiệp.
 4. [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]] — disclosure, rocket ritual và techno-myth.
-5. [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — sports field như collective soul field.
+5. [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]] — sports field như collective soul field.
 6. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — spectacle như synchronization infrastructure.
 
 Rule của pack: fact → pattern → symbol → speculative synthesis. Không nhảy thẳng từ coincidence sang certainty.
