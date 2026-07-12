@@ -87,7 +87,7 @@ Orientation: follow language, number, geometry and cinema as programming surface
 5. [[Hollywood - Cây Đũa Phép Của Phù Thủy]] — see entertainment as ritual theater.
 6. [[Dune — Paul, Leto II Và Golden Path]] — đọc messiah trap, prescience và Golden Path như Ma Trận của định mệnh.
 7. [[Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]] — đọc luân hồi, lời chứng và các hình thức nô lệ của Ma Trận qua sáu tuyến thời gian.
-8. [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — read football, creator culture and World Cup 2026 as collective field myth.
+8. [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — Brazil→Norway World Cup pattern post-mortem and a live lesson in falsifiability.
 8. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — expand sports and halftime shows into mass synchronization ritual theory.
 
 ### 5. Cross-Domain Bridge Path — Ancient Memory, Earth Grid, Science
@@ -126,7 +126,7 @@ Orientation: this is the practice-facing route. It turns esoterica back inward, 
 - [[Ma Trận]] — the core operating system model of perception control.
 - [[Ma Trận - Giải Phẫu Hoàn Chỉnh]] — full anatomy of the Matrix across mind, body, media, finance and spirit.
 - [[Karma Disclosure - Truth Hidden In Plain Sight]] — how revelation can function as consent management.
-- [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — World Cup 2026, Brazil and the return of football soul as a symbolic case study.
+- [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — Japan Gate, Norway’s failed champion thesis and the discipline of not moving an omen after the result.
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — World Cup, Euro, Super Bowl and launches as synchronized mass ritual.
 - [[Hollywood - Cây Đũa Phép Của Phù Thủy]] — cinema as ritual rehearsal and symbolic programming.
 - [[Dune — Paul, Leto II Và Golden Path]] — case study điện ảnh/văn học về đấng cứu thế, lời tiên tri, Golden Path và cái giá của việc thấy tương lai.

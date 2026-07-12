@@ -60,7 +60,7 @@ Discernment không phải nghi ngờ mọi thứ. Discernment là biết mỗi c
 - [[Karma Disclosure - Truth Hidden In Plain Sight]] — revelation method, consent và truth in plain sight.
 - [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — algorithmic feed như worldview assignment.
 - [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] — care economy, broken family containers, child attack surfaces, elder late-life extraction, intimacy engineering and why correct information loses when emotional safety collapses.
-- [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — World Cup 2026 as a case study in collective media myth, creator culture and symbolic prediction discipline.
+- [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — World Cup 2026 as a falsifiability case: collective media myth, Japan Gate rhyme and a failed Norway champion thesis.
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — sports spectacle, halftime shows and launches as synchronized mass ritual.
 
 Propaganda hiện đại ít giống một bài diễn văn. Nó giống một môi trường sống.
@@ -73,7 +73,7 @@ Propaganda hiện đại ít giống một bài diễn văn. Nó giống một m
 - [[Gematria]] — number/symbol layer khi đọc culture và ritual timing.
 - [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]] — science screen, child myth screen, adult cinema screen.
 - [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]] — case study alien/disclosure như multi-channel programming.
-- [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — sports/media symbolism, wordplay, creator culture and myth-template reading.
+- [[Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể]] — sports/media symbolism, post-result calibration and why a failed omen must not be transferred.
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — mass attention synchronization through sports and entertainment rituals.
 - [[Mỹ Là Ai Cập Tái Sinh]] — America as symbol system: dollar, obelisk, pyramid, NASA and civic religion.
 
