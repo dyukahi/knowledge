@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 231,
+    "notes": 232,
     "domains": {
       "_docs": 11,
       "root": 14,
       "crypto-finance": 17,
       "esoterica": 76,
       "health": 27,
-      "mental-models": 40,
+      "mental-models": 41,
       "politics-conspiracy": 27,
       "science-tech": 19
     },
-    "tags": 270,
-    "wikilinkEdges": 2248,
+    "tags": 278,
+    "wikilinkEdges": 2258,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -695,6 +695,7 @@
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/index.md",
+          "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
           "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
           "mental-models/Thông Minh vs Trí Tuệ.md",
           "mental-models/Tư Duy Lũy Thừa.md",
@@ -8788,6 +8789,7 @@
           "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
           "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
           "Individuation",
+          "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
           "Kiểm Soát Tâm Trí",
           "Luân Hồi Trên Home Screen",
           "Ma Trận",
@@ -8844,6 +8846,7 @@
           "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "mental-models/Individuation.md",
+          "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
           "mental-models/Luân Hồi Trên Home Screen.md",
           "mental-models/Mental Model.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -8885,7 +8888,7 @@
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1728,
+        "words": 1881,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -9464,76 +9467,6 @@
         "summary": "*The Empty Brain & AI Brain Rot*"
       },
       {
-        "path": "mental-models/Tâm Lý Học Jung.md",
-        "title": "Tâm Lý Học Jung",
-        "domain": "mental-models",
-        "tags": [
-          "consciousness",
-          "jung",
-          "mental-model",
-          "psychology"
-        ],
-        "aliases": [
-          "Analytical Psychology",
-          "Carl Jung",
-          "Jungian Psychology"
-        ],
-        "headings": [
-          "Tâm Lý Học Jung (Jungian Psychology)",
-          "Vault Position / Vị Trí Trong Vault",
-          "Psyche Như Một Vũ Trụ Có Tầng",
-          "Shadow / Bóng Tối",
-          "Archetypes / Nguyên Mẫu",
-          "Individuation / Thành Toàn Bản Ngã",
-          "Jung Và Esoterica",
-          "Practice / Thực Hành",
-          "Kết"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Individuation",
-          "Ma Trận",
-          "Monad",
-          "Nguyên Mẫu",
-          "Sự Nhất Thể",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/Vô Thức Tập Thể.md"
-        ],
-        "backlinks": [
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/S.E.X.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "health/Tuyến Tùng.md",
-          "index.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-          "mental-models/index.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "MOC - Esoterica & Consciousness.md"
-        ],
-        "words": 860,
-        "summary": "!Psyche Jungian như một vũ trụ nội tâm nhiều tầng: persona, ego, shadow, archetype và Self hiện lên như mandala ánh sáng"
-      },
-      {
         "path": "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "title": "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "domain": "mental-models",
@@ -9607,6 +9540,7 @@
           "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "mental-models/index.md",
+          "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
           "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
@@ -9617,6 +9551,76 @@
         ],
         "words": 4014,
         "summary": "Gia đình không bị phá bằng một cú đánh. Nó bị làm rỗng từng lớp."
+      },
+      {
+        "path": "mental-models/Tâm Lý Học Jung.md",
+        "title": "Tâm Lý Học Jung",
+        "domain": "mental-models",
+        "tags": [
+          "consciousness",
+          "jung",
+          "mental-model",
+          "psychology"
+        ],
+        "aliases": [
+          "Analytical Psychology",
+          "Carl Jung",
+          "Jungian Psychology"
+        ],
+        "headings": [
+          "Tâm Lý Học Jung (Jungian Psychology)",
+          "Vault Position / Vị Trí Trong Vault",
+          "Psyche Như Một Vũ Trụ Có Tầng",
+          "Shadow / Bóng Tối",
+          "Archetypes / Nguyên Mẫu",
+          "Individuation / Thành Toàn Bản Ngã",
+          "Jung Và Esoterica",
+          "Practice / Thực Hành",
+          "Kết"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Individuation",
+          "Ma Trận",
+          "Monad",
+          "Nguyên Mẫu",
+          "Sự Nhất Thể",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/Vô Thức Tập Thể.md"
+        ],
+        "backlinks": [
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/S.E.X.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "health/Tuyến Tùng.md",
+          "index.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/index.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "MOC - Esoterica & Consciousness.md"
+        ],
+        "words": 860,
+        "summary": "!Psyche Jungian như một vũ trụ nội tâm nhiều tầng: persona, ego, shadow, archetype và Self hiện lên như mandala ánh sáng"
       },
       {
         "path": "mental-models/Trí Tuệ.md",
@@ -10021,6 +10025,7 @@
           "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "mental-models/index.md",
+          "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
           "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
           "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
@@ -10902,57 +10907,6 @@
         "summary": "**Gen Z không phải thế hệ hỏng, cũng không phải thế hệ cứu thế giới. Họ là thế hệ đầu tiên lớn lên trong một thực tại nơi attention, identity, money, work, fear và body đều được platform hóa trước khi họ đủ lớn để gọi tên điều đó. Muốn hiểu Gen Z, đừng hỏi họ…"
       },
       {
-        "path": "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "title": "Climate Anxiety as Control - Fear-Based Compliance",
-        "domain": "mental-models",
-        "tags": [
-          "agenda-2030",
-          "climate",
-          "compliance",
-          "generation",
-          "mental-model",
-          "psychology"
-        ],
-        "aliases": [
-          "Carbon Wallet",
-          "Climate Anxiety",
-          "Climate Doomerism",
-          "Climate Fear",
-          "Eco-Anxiety"
-        ],
-        "headings": [
-          "Climate Anxiety as Control - Fear-Based Compliance",
-          "Evidence Discipline / Cách Đọc",
-          "Eco-Anxiety Và Guilt Machine",
-          "Doomerism Là Mất Agency",
-          "Carbon Wallet Và Permission Layer",
-          "15-Minute City: Tốt Hay Cage?",
-          "Ecology Thật vs Technocratic Fear",
-          "Kết"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Digital ID Normalization - From Instagram to Government ID",
-          "Gen Z và CBDC - Programmable Money Psychology"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/index.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/index.md"
-        ],
-        "words": 971,
-        "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
-      },
-      {
         "path": "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "title": "Giàu Không Phải Để Vợ Không Làm Gì",
         "domain": "mental-models",
@@ -11007,10 +10961,155 @@
         ],
         "backlinks": [
           "index.md",
-          "mental-models/index.md"
+          "mental-models/index.md",
+          "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md"
         ],
         "words": 3360,
         "summary": "Có một hình mẫu nghe rất ngọt: người chồng kiếm thật nhiều tiền để vợ không cần làm gì."
+      },
+      {
+        "path": "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
+        "title": "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
+        "domain": "mental-models",
+        "tags": [
+          "ageing",
+          "australia",
+          "care-economy",
+          "china",
+          "eldercare",
+          "family",
+          "financial-sovereignty",
+          "hikikomori",
+          "japan",
+          "mental-models",
+          "pension",
+          "retirement",
+          "vietnam"
+        ],
+        "aliases": [
+          "Hikikomori 8050 Và Bài Toán Tuổi Già",
+          "Hưu Trí Care Economy Và Tình Nghĩa",
+          "Khi Tuổi Già Không Còn Chỗ Tựa",
+          "Khủng Hoảng Già Hóa Và Hưu Trí",
+          "Nhật Úc Trung Quốc Và Bài Toán Tuổi Già Việt Nam",
+          "Retirement Without An Anchor"
+        ],
+        "headings": [
+          "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
+          "1. Vị Trí Trong Vault Và Kỷ Luật Bằng Chứng",
+          "2. Từ Khóa Cần Hiểu",
+          "3. Một Phương Trình, Bốn Quốc Gia",
+          "4. Nhật Bản: Khi Tuổi Già Bắt Đầu Từ Một Tuổi Trẻ Bị Đóng Băng",
+          "Thời kỳ băng giá việc làm không kết thúc khi kinh tế hồi phục",
+          "Hikikomori: 1,46 triệu là ước tính suy rộng, không phải danh sách hành chính",
+          "Từ hikikomori đến 8050: vòng lặp chăm sóc khép kín trong một căn nhà",
+          "“Chết một mình” cần được đọc với kỷ luật",
+          "5. Úc: Khi Nhà Nước Bắt Tương Lai Phải Tiết Kiệm",
+          "12% không phải khẩu hiệu, mà là kiến trúc mặc định",
+          "Lợi nhuận là lịch sử, không phải giao ước",
+          "Age Pension không biến mất khi super lớn lên",
+          "Tài khoản có thể giàu, căn phòng vẫn có thể lạnh",
+          "6. Trung Quốc: 4-2-1, 1,07 Tỷ Người Và Chiếc Đồng Hồ Nhân Khẩu",
+          "4-2-1 là biểu tượng của sự nén, không phải công thức cho mọi gia đình",
+          "Nâng tuổi nghỉ hưu: cải cách cần thiết nhưng không miễn phí về con người",
+          "“Cạn năm 2035”: một dữ kiện cần sửa trước khi dùng",
+          "Được bao phủ không đồng nghĩa đủ sống",
+          "7. Việt Nam: Già Trước Khi Giàu, Gia Đình Trước Khi Có Hệ Thống",
+          "Bao phủ đang tăng nhưng chưa phải an ninh hưu trí phổ quát",
+          "Luật 2024 mở thêm tầng sàn",
+          "Gia đình Việt Nam là tài sản, nhưng đang bị ghi sổ hai lần",
+          "Đạo hiếu không phải khoản ngân sách vô hạn",
+          "8. Từ Dữ Kiện Đến Mẫu Hình, Biểu Tượng Và Tổng Hợp Giả Thuyết",
+          "Dữ kiện: bốn hệ thống đang điều chỉnh trước cùng một đường áp lực",
+          "Mẫu hình: chi phí không biến mất, nó chỉ chuyển cột",
+          "Biểu tượng: chiếc ghế bốn chân",
+          "Tổng hợp giả thuyết: Ma Trận không cần “ghét gia đình” để làm gia đình rỗng",
+          "9. Bài Toán Việt Nam: Xây Bốn Chỗ Tựa Trước Khi Cửa Sổ Khép Lại",
+          "9.1. Một sàn thu nhập không phụ thuộc hoàn toàn vào con cái",
+          "9.2. Một hệ thống chăm sóc không mặc định phụ nữ là nguồn lực miễn phí",
+          "9.3. Một tầng cộng đồng giữa căn nhà và viện dưỡng lão",
+          "9.4. Một cam kết gia đình công bằng, không có cưỡng bức",
+          "9.5. Đổi thước đo: từ tuổi thọ sang số năm được giữ phẩm giá",
+          "10. Sổ Nguồn Và Các Điểm Sửa Dữ Kiện",
+          "Kết: Một Kiến Trúc Không Bỏ Rơi Con Người"
+        ],
+        "wikilinks": [
+          "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+          "Giàu Không Phải Để Vợ Không Làm Gì",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "MOC - Financial Sovereignty",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+          "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+          "Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+          "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+          "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
+          "MOC - Financial Sovereignty.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "MOC - Financial Sovereignty.md"
+        ],
+        "words": 8800,
+        "summary": "**Một xã hội có thể tích lũy hàng nghìn tỷ đô la cho hưu trí mà vẫn sản xuất ra tuổi già cô độc. Một quốc gia có thể phủ bảo hiểm cho hơn một tỷ người mà vẫn phải hỏi ai sẽ chăm một cơ thể yếu đi trong căn hộ nhỏ. Một gia đình có thể thương nhau mà vẫn quá ki…"
+      },
+      {
+        "path": "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "title": "Climate Anxiety as Control - Fear-Based Compliance",
+        "domain": "mental-models",
+        "tags": [
+          "agenda-2030",
+          "climate",
+          "compliance",
+          "generation",
+          "mental-model",
+          "psychology"
+        ],
+        "aliases": [
+          "Carbon Wallet",
+          "Climate Anxiety",
+          "Climate Doomerism",
+          "Climate Fear",
+          "Eco-Anxiety"
+        ],
+        "headings": [
+          "Climate Anxiety as Control - Fear-Based Compliance",
+          "Evidence Discipline / Cách Đọc",
+          "Eco-Anxiety Và Guilt Machine",
+          "Doomerism Là Mất Agency",
+          "Carbon Wallet Và Permission Layer",
+          "15-Minute City: Tốt Hay Cage?",
+          "Ecology Thật vs Technocratic Fear",
+          "Kết"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Digital ID Normalization - From Instagram to Government ID",
+          "Gen Z và CBDC - Programmable Money Psychology"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/index.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/index.md"
+        ],
+        "words": 971,
+        "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
       },
       {
         "path": "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
@@ -11280,53 +11379,6 @@
         "summary": "!Thế Hệ Lọt Khe"
       },
       {
-        "path": "mental-models/Luân Hồi Trên Home Screen.md",
-        "title": "Luân Hồi Trên Home Screen",
-        "domain": "mental-models",
-        "tags": [
-          "attention",
-          "dopamine-economy",
-          "ma-tran",
-          "mental-models",
-          "samsara",
-          "technology"
-        ],
-        "aliases": [
-          "Digital Samsara",
-          "Home Screen Samsara",
-          "Seven Sins Home Screen"
-        ],
-        "headings": [
-          "Luân Hồi Trên Home Screen",
-          "Seven Sins, New Interface",
-          "Ma Trận Không Cần Nhà Tù",
-          "Productivity Là Cái Lồng Sang Nhất",
-          "Luân Hồi Bằng Notification",
-          "Attention Là Cửa Thoát"
-        ],
-        "wikilinks": [
-          "Bộ Não Rỗng và AI Brain Rot",
-          "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Luân Hồi",
-          "Ma Trận"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "mental-models/index.md"
-        ],
-        "words": 998,
-        "summary": "!Home Screen Samsara"
-      },
-      {
         "path": "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
         "title": "Việt Nam Trước Hai Chiến Hào: Khi Nam Nữ Cùng Đòi Quyền Làm Người",
         "domain": "mental-models",
@@ -11388,10 +11440,58 @@
         ],
         "backlinks": [
           "index.md",
-          "mental-models/index.md"
+          "mental-models/index.md",
+          "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md"
         ],
         "words": 6249,
         "summary": "**Hàn Quốc không phải tương lai tất yếu của Việt Nam. Nhưng nó là một lời cảnh báo giai đoạn muộn: khi nhà ở, việc làm, lao động chăm sóc và phẩm giá cùng thất bại, nỗi đau kinh tế rất dễ bị dịch thành chiến tranh giới. Phụ nữ nói “tôi không muốn làm vợ, làm…"
+      },
+      {
+        "path": "mental-models/Luân Hồi Trên Home Screen.md",
+        "title": "Luân Hồi Trên Home Screen",
+        "domain": "mental-models",
+        "tags": [
+          "attention",
+          "dopamine-economy",
+          "ma-tran",
+          "mental-models",
+          "samsara",
+          "technology"
+        ],
+        "aliases": [
+          "Digital Samsara",
+          "Home Screen Samsara",
+          "Seven Sins Home Screen"
+        ],
+        "headings": [
+          "Luân Hồi Trên Home Screen",
+          "Seven Sins, New Interface",
+          "Ma Trận Không Cần Nhà Tù",
+          "Productivity Là Cái Lồng Sang Nhất",
+          "Luân Hồi Bằng Notification",
+          "Attention Là Cửa Thoát"
+        ],
+        "wikilinks": [
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Luân Hồi",
+          "Ma Trận"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md"
+        ],
+        "words": 998,
+        "summary": "!Home Screen Samsara"
       },
       {
         "path": "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
@@ -13491,6 +13591,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "July 13, 2026",
           "July 10, 2026",
           "July 9, 2026",
           "June 29, 2026",
@@ -13562,6 +13663,7 @@
           "Individuation",
           "Karma Disclosure - Truth Hidden In Plain Sight",
           "Ketogenic Diet",
+          "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
           "Khoa Học Chân Chính và Thượng Đế",
           "Khoa Học Xét Lại",
           "Kiểm Soát Tâm Trí",
@@ -13761,6 +13863,7 @@
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "mental-models/index.md",
           "mental-models/Individuation.md",
+          "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
           "mental-models/Luân Hồi Trên Home Screen.md",
           "mental-models/Mental Model.md",
           "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -13832,7 +13935,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 5072,
+        "words": 5216,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14413,6 +14516,7 @@
           "Digital ID Normalization - From Instagram to Government ID",
           "Gen Z và CBDC - Programmable Money Psychology",
           "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
           "MOC - Market Psychology & Risk",
           "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
           "Privacy",
@@ -14442,6 +14546,7 @@
           "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
           "Cách Đọc Red Pill Wiki.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
           "mental-models/Privacy Is The New Wealth.md",
           "mental-models/Tư Duy Lũy Thừa.md",
           "mental-models/UBI Conditioning - The End of Work Ethic.md",
@@ -14462,12 +14567,13 @@
           "index.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
           "mental-models/index.md",
+          "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
           "MOC - Market Psychology & Risk.md",
           "politics-conspiracy/Elite.md",
           "politics-conspiracy/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 1066,
+        "words": 1119,
         "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
       },
       {
@@ -14552,6 +14658,80 @@
         ],
         "words": 623,
         "summary": "**Ancient Civilizations & Hidden History là bản đồ đọc quá khứ như một chiến trường ký ức. Nó gom các note về nền văn minh cổ, reset lịch sử, hidden chronology, old world architecture, long mạch, cosmic cycles và khả năng lịch sử không tuyến tính, sạch sẽ, ti…"
+      },
+      {
+        "path": "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md",
+        "title": "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+        "domain": "root",
+        "tags": [
+          "epistemology",
+          "evidence",
+          "meta"
+        ],
+        "aliases": [
+          "Claim Discipline",
+          "Evidence Discipline",
+          "Kỷ Luật Bằng Chứng",
+          "Source Discipline"
+        ],
+        "headings": [
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+          "1. Bốn Tầng Claim",
+          "2. High-Risk Claims Đọc Như Nào",
+          "3. Health Claims",
+          "4. Sex / Gender / Identity Claims",
+          "5. Politics / Conspiracy Claims",
+          "6. Current Events / Prediction Claims",
+          "7. Finance / CBDC / Tokenized World Claims",
+          "8. Spectacle / Ritual / Disclosure Claims",
+          "9. What Counts As “Source” Here",
+          "10. Synthesis"
+        ],
+        "wikilinks": [
+          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Báo Cáo 2030",
+          "Chainlink - Mắt Xích Của Tokenized World",
+          "Elite",
+          "Gen Z và CBDC - Programmable Money Psychology",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "MOC - Epistemology & Propaganda",
+          "MOC - Financial Sovereignty",
+          "MOC - Health Sovereignty",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Financial Sovereignty.md",
+          "MOC - Health Sovereignty.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "index.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
+          "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
+          "politics-conspiracy/Elite.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 1103,
+        "summary": "**Vault này cho phép đọc sâu, đọc symbol, đọc pattern và nối dot. Nhưng đọc sâu không có nghĩa là trộn mọi tầng claim thành một cục. Source discipline là firewall: giữ voice mạnh, nhưng không fake certainty.**"
       },
       {
         "path": "Glossary - Từ Điển Red Pill Wiki.md",
@@ -14647,79 +14827,6 @@
         ],
         "words": 1327,
         "summary": "**Glossary này không phải từ điển đóng nghĩa. Nó là lớp onboarding để người mới hiểu ngôn ngữ của vault trước khi đi sâu vào các MOC và flagship notes. Một term trong vault thường có nhiều tầng: fact, pattern, symbol và synthesis. Đọc định nghĩa như lens, khô…"
-      },
-      {
-        "path": "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md",
-        "title": "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
-        "domain": "root",
-        "tags": [
-          "epistemology",
-          "evidence",
-          "meta"
-        ],
-        "aliases": [
-          "Claim Discipline",
-          "Evidence Discipline",
-          "Kỷ Luật Bằng Chứng",
-          "Source Discipline"
-        ],
-        "headings": [
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
-          "1. Bốn Tầng Claim",
-          "2. High-Risk Claims Đọc Như Nào",
-          "3. Health Claims",
-          "4. Sex / Gender / Identity Claims",
-          "5. Politics / Conspiracy Claims",
-          "6. Current Events / Prediction Claims",
-          "7. Finance / CBDC / Tokenized World Claims",
-          "8. Spectacle / Ritual / Disclosure Claims",
-          "9. What Counts As “Source” Here",
-          "10. Synthesis"
-        ],
-        "wikilinks": [
-          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-          "Báo Cáo 2030",
-          "Chainlink - Mắt Xích Của Tokenized World",
-          "Elite",
-          "Gen Z và CBDC - Programmable Money Psychology",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "MOC - Epistemology & Propaganda",
-          "MOC - Financial Sovereignty",
-          "MOC - Health Sovereignty",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-          "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Financial Sovereignty.md",
-          "MOC - Health Sovereignty.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "index.md",
-          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
-          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-          "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
-          "politics-conspiracy/Elite.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 1103,
-        "summary": "**Vault này cho phép đọc sâu, đọc symbol, đọc pattern và nối dot. Nhưng đọc sâu không có nghĩa là trộn mọi tầng claim thành một cục. Source discipline là firewall: giữ voice mạnh, nhưng không fake certainty.**"
       },
       {
         "path": "MOC - Market Psychology & Risk.md",
@@ -16184,6 +16291,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "July 13, 2026",
         "July 10, 2026",
         "July 9, 2026",
         "June 29, 2026",
@@ -16255,6 +16363,7 @@
         "Individuation",
         "Karma Disclosure - Truth Hidden In Plain Sight",
         "Ketogenic Diet",
+        "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
         "Khoa Học Chân Chính và Thượng Đế",
         "Khoa Học Xét Lại",
         "Kiểm Soát Tâm Trí",
@@ -16454,6 +16563,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Mental Model.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -16525,7 +16635,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 5072,
+      "words": 5216,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -16986,6 +17096,159 @@
       "summary": "!Scientist before a fractured institutional temple, holding a prism of evidence"
     },
     {
+      "path": "mental-models/index.md",
+      "title": "Mental Models Domain Gateway",
+      "domain": "mental-models",
+      "tags": [
+        "domain-gateway",
+        "epistemology",
+        "mental-model"
+      ],
+      "aliases": [
+        "Mental Models",
+        "Mô Hình Tư Duy"
+      ],
+      "headings": [
+        "Mental Models Domain Gateway",
+        "Family, Dopamine & Orphan Train Pack",
+        "How To Read This Domain",
+        "Curated Reading Paths",
+        "1. Beginner Path — Thinking Tools Before Identity",
+        "2. Power-User Path — Jung, Shadow, Individuation",
+        "3. High-Risk Caution Path — Dopamine, Addiction, Manipulation",
+        "4. Perception Path — Duality, Identity, Self-Deception",
+        "5. Cross-Domain Bridge Path — Gen Z, Compliance, Future Self",
+        "6. AI-Age Agency Path — Mind Versus Machine",
+        "Key Hubs",
+        "Flagship Articles",
+        "Money, Dopamine & Survival Discipline",
+        "Gen Z & Agenda 2030 Path",
+        "Related Gateways",
+        "Notes"
+      ],
+      "wikilinks": [
+        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+        "AI",
+        "Ai Đứng Bên Kia Giao Dịch",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Chia Tách Bởi Nhị Nguyên",
+        "Climate Anxiety as Control - Fear-Based Compliance",
+        "crypto-finance/index",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu",
+        "esoterica/index",
+        "Gen Z - Phân Tích Phản Biện",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giàu Không Phải Để Vợ Không Làm Gì",
+        "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+        "Individuation",
+        "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
+        "Kiểm Soát Tâm Trí",
+        "Luân Hồi Trên Home Screen",
+        "Ma Trận",
+        "Mental Model",
+        "MOC - Epistemology & Propaganda",
+        "MOC - Esoterica & Consciousness",
+        "MOC - Financial Sovereignty",
+        "MOC - Market Psychology & Risk",
+        "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nguyên Mẫu",
+        "Nhị Nguyên",
+        "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "politics-conspiracy/index",
+        "Privacy Is The New Wealth",
+        "Red Pill Wiki",
+        "S.E.X Và Tâm Lý Học Jung",
+        "Schadenfreude - Dopamine Phản Diện",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Sự Thật Ẩn Sau Con Người Bạn",
+        "Thông Minh vs Trí Tuệ",
+        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
+        "Thế Hệ Lọt Khe",
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "Tâm bất Biến",
+        "Tâm Lý Học Jung",
+        "Tâm Lý Học Tiến Hóa Về Giới Tính",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+        "Tư Duy Lũy Thừa",
+        "Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào",
+        "UBI Conditioning - The End of Work Ethic",
+        "Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/index.md",
+        "esoterica/index.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+        "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+        "mental-models/Individuation.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
+        "mental-models/Luân Hồi Trên Home Screen.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "mental-models/Thế Hệ Lọt Khe.md",
+        "mental-models/Tâm bất Biến.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Esoterica & Consciousness.md",
+        "MOC - Financial Sovereignty.md",
+        "MOC - Market Psychology & Risk.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "science-tech/AI.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+      ],
+      "backlinks": [
+        "crypto-finance/index.md",
+        "esoterica/index.md",
+        "health/index.md",
+        "index.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+        "politics-conspiracy/index.md"
+      ],
+      "words": 1881,
+      "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
+    },
+    {
       "path": "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
       "title": "Ma Trận - Giải Phẫu Hoàn Chỉnh",
       "domain": "esoterica",
@@ -17124,157 +17387,6 @@
       ],
       "words": 3402,
       "summary": "!Giải phẫu Ma Trận như một cơ thể nhiều lớp: thân thể, attention, gia đình, tiền, định chế, narrative và spiritual interface bao quanh một ngọn lửa bên trong"
-    },
-    {
-      "path": "mental-models/index.md",
-      "title": "Mental Models Domain Gateway",
-      "domain": "mental-models",
-      "tags": [
-        "domain-gateway",
-        "epistemology",
-        "mental-model"
-      ],
-      "aliases": [
-        "Mental Models",
-        "Mô Hình Tư Duy"
-      ],
-      "headings": [
-        "Mental Models Domain Gateway",
-        "Family, Dopamine & Orphan Train Pack",
-        "How To Read This Domain",
-        "Curated Reading Paths",
-        "1. Beginner Path — Thinking Tools Before Identity",
-        "2. Power-User Path — Jung, Shadow, Individuation",
-        "3. High-Risk Caution Path — Dopamine, Addiction, Manipulation",
-        "4. Perception Path — Duality, Identity, Self-Deception",
-        "5. Cross-Domain Bridge Path — Gen Z, Compliance, Future Self",
-        "6. AI-Age Agency Path — Mind Versus Machine",
-        "Key Hubs",
-        "Flagship Articles",
-        "Money, Dopamine & Survival Discipline",
-        "Gen Z & Agenda 2030 Path",
-        "Related Gateways",
-        "Notes"
-      ],
-      "wikilinks": [
-        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
-        "AI",
-        "Ai Đứng Bên Kia Giao Dịch",
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-        "Chia Tách Bởi Nhị Nguyên",
-        "Climate Anxiety as Control - Fear-Based Compliance",
-        "crypto-finance/index",
-        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
-        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu",
-        "esoterica/index",
-        "Gen Z - Phân Tích Phản Biện",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giàu Không Phải Để Vợ Không Làm Gì",
-        "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
-        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-        "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
-        "Individuation",
-        "Kiểm Soát Tâm Trí",
-        "Luân Hồi Trên Home Screen",
-        "Ma Trận",
-        "Mental Model",
-        "MOC - Epistemology & Propaganda",
-        "MOC - Esoterica & Consciousness",
-        "MOC - Financial Sovereignty",
-        "MOC - Market Psychology & Risk",
-        "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nguyên Mẫu",
-        "Nhị Nguyên",
-        "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
-        "politics-conspiracy/index",
-        "Privacy Is The New Wealth",
-        "Red Pill Wiki",
-        "S.E.X Và Tâm Lý Học Jung",
-        "Schadenfreude - Dopamine Phản Diện",
-        "Sợ hãi - Tham Lam – Cân bằng",
-        "Sự Thật Ẩn Sau Con Người Bạn",
-        "Thông Minh vs Trí Tuệ",
-        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
-        "Thế Hệ Lọt Khe",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "Tâm bất Biến",
-        "Tâm Lý Học Jung",
-        "Tâm Lý Học Tiến Hóa Về Giới Tính",
-        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-        "Tư Duy Lũy Thừa",
-        "Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào",
-        "UBI Conditioning - The End of Work Ethic",
-        "Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người",
-        "Vô Thức Tập Thể"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/index.md",
-        "esoterica/index.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "index.md",
-        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
-        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-        "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
-        "mental-models/Gen Z - Phân Tích Phản Biện.md",
-        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
-        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
-        "mental-models/Individuation.md",
-        "mental-models/Luân Hồi Trên Home Screen.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-        "mental-models/Privacy Is The New Wealth.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "mental-models/Thế Hệ Lọt Khe.md",
-        "mental-models/Tâm bất Biến.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-        "mental-models/Tư Duy Lũy Thừa.md",
-        "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Esoterica & Consciousness.md",
-        "MOC - Financial Sovereignty.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "science-tech/AI.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
-      ],
-      "backlinks": [
-        "crypto-finance/index.md",
-        "esoterica/index.md",
-        "health/index.md",
-        "index.md",
-        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
-        "politics-conspiracy/index.md"
-      ],
-      "words": 1728,
-      "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
       "path": "esoterica/Gnosis.md",
@@ -18869,6 +18981,98 @@
       "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
     },
     {
+      "path": "MOC - Financial Sovereignty.md",
+      "title": "MOC - Financial Sovereignty",
+      "domain": "root",
+      "tags": [
+        "crypto-finance",
+        "moc",
+        "sovereignty"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Financial Sovereignty",
+        "How To Read This Map",
+        "Start Here",
+        "Survival Before Sovereignty",
+        "Bitcoin, Privacy & Exit",
+        "Fiat, Debt & Dependency",
+        "Tokenized World & Onchain Control",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "Ai Đứng Bên Kia Giao Dịch",
+        "Bitcoin",
+        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
+        "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+        "Báo Cáo 2030",
+        "Chainlink - Mắt Xích Của Tokenized World",
+        "Cách Đọc Red Pill Wiki",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
+        "MOC - Market Psychology & Risk",
+        "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
+        "Privacy",
+        "Privacy Is The New Wealth",
+        "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
+        "Tiền Giấy - Tiền Mặt",
+        "Tiền Pháp Định",
+        "Tư Duy Lũy Thừa",
+        "UBI Conditioning - The End of Work Ethic",
+        "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
+        "Điều Mà Trường Học Không Dạy Về Tiền"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
+        "crypto-finance/Bitcoin.md",
+        "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
+        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
+        "crypto-finance/Privacy.md",
+        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
+        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
+        "crypto-finance/Tiền Pháp Định.md",
+        "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md",
+        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
+        "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "MOC - Market Psychology & Risk.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
+      ],
+      "backlinks": [
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/index.md",
+        "crypto-finance/Privacy.md",
+        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Cabal.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "Glossary - Từ Điển Red Pill Wiki.md",
+        "index.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/index.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
+        "MOC - Market Psychology & Risk.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/index.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "words": 1119,
+      "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
+    },
+    {
       "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
       "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
       "domain": "mental-models",
@@ -18967,95 +19171,6 @@
       ],
       "words": 1086,
       "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
-    },
-    {
-      "path": "MOC - Financial Sovereignty.md",
-      "title": "MOC - Financial Sovereignty",
-      "domain": "root",
-      "tags": [
-        "crypto-finance",
-        "moc",
-        "sovereignty"
-      ],
-      "aliases": [],
-      "headings": [
-        "MOC - Financial Sovereignty",
-        "How To Read This Map",
-        "Start Here",
-        "Survival Before Sovereignty",
-        "Bitcoin, Privacy & Exit",
-        "Fiat, Debt & Dependency",
-        "Tokenized World & Onchain Control",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "Ai Đứng Bên Kia Giao Dịch",
-        "Bitcoin",
-        "Bitcoin Sẽ Chết Nếu Không Có Privacy",
-        "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
-        "Báo Cáo 2030",
-        "Chainlink - Mắt Xích Của Tokenized World",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-        "MOC - Market Psychology & Risk",
-        "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
-        "Privacy",
-        "Privacy Is The New Wealth",
-        "Saylor Game - MSTR STRC Và Cái Hộp Bitcoin",
-        "Tiền Giấy - Tiền Mặt",
-        "Tiền Pháp Định",
-        "Tư Duy Lũy Thừa",
-        "UBI Conditioning - The End of Work Ethic",
-        "Vàng, Golden Age Và Màn Che Của Mặt Trăng",
-        "Điều Mà Trường Học Không Dạy Về Tiền"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Bitcoin Sẽ Chết Nếu Không Có Privacy.md",
-        "crypto-finance/Bitcoin.md",
-        "crypto-finance/BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh.md",
-        "crypto-finance/Chainlink - Mắt Xích Của Tokenized World.md",
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
-        "crypto-finance/Privacy.md",
-        "crypto-finance/Saylor Game - MSTR STRC Và Cái Hộp Bitcoin.md",
-        "crypto-finance/Tiền Giấy - Tiền Mặt.md",
-        "crypto-finance/Tiền Pháp Định.md",
-        "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md",
-        "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/Privacy Is The New Wealth.md",
-        "mental-models/Tư Duy Lũy Thừa.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
-      ],
-      "backlinks": [
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/index.md",
-        "crypto-finance/Privacy.md",
-        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Cabal.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "Glossary - Từ Điển Red Pill Wiki.md",
-        "index.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/index.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/index.md",
-        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-      ],
-      "words": 1066,
-      "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
     },
     {
       "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -20226,15 +20341,15 @@
       13
     ],
     [
+      "mental-models",
+      12
+    ],
+    [
       "sovereignty",
       11
     ],
     [
       "hidden-history",
-      11
-    ],
-    [
-      "mental-models",
       11
     ],
     [
@@ -20274,28 +20389,28 @@
       8
     ],
     [
+      "care-economy",
+      8
+    ],
+    [
+      "family",
+      8
+    ],
+    [
       "revisionist-science",
       8
+    ],
+    [
+      "financial-sovereignty",
+      7
     ],
     [
       "ai",
       7
     ],
     [
-      "care-economy",
-      7
-    ],
-    [
-      "family",
-      7
-    ],
-    [
       "moc",
       7
-    ],
-    [
-      "financial-sovereignty",
-      6
     ],
     [
       "domain-gateway",
@@ -20430,6 +20545,10 @@
       3
     ],
     [
+      "vietnam",
+      3
+    ],
+    [
       "transhumanism",
       3
     ],
@@ -20535,10 +20654,6 @@
     ],
     [
       "education",
-      2
-    ],
-    [
-      "vietnam",
       2
     ],
     [
@@ -21216,6 +21331,7 @@
         "Digital ID Normalization - From Instagram to Government ID",
         "Gen Z và CBDC - Programmable Money Psychology",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
         "MOC - Market Psychology & Risk",
         "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
         "Privacy",
@@ -21245,6 +21361,7 @@
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
         "Cách Đọc Red Pill Wiki.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
         "mental-models/Privacy Is The New Wealth.md",
         "mental-models/Tư Duy Lũy Thừa.md",
         "mental-models/UBI Conditioning - The End of Work Ethic.md",
@@ -21265,12 +21382,13 @@
         "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/index.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
         "MOC - Market Psychology & Risk.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 1066,
+      "words": 1119,
       "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
     },
     "MOC - Health Sovereignty.md": {
@@ -21622,6 +21740,7 @@
         "index.md",
         "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
         "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
         "politics-conspiracy/Elite.md",
         "science-tech/Khoa Học Xét Lại.md"
@@ -22446,6 +22565,7 @@
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/index.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Tư Duy Lũy Thừa.md",
@@ -30407,6 +30527,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "July 13, 2026",
         "July 10, 2026",
         "July 9, 2026",
         "June 29, 2026",
@@ -30478,6 +30599,7 @@
         "Individuation",
         "Karma Disclosure - Truth Hidden In Plain Sight",
         "Ketogenic Diet",
+        "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
         "Khoa Học Chân Chính và Thượng Đế",
         "Khoa Học Xét Lại",
         "Kiểm Soát Tâm Trí",
@@ -30677,6 +30799,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Mental Model.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -30748,7 +30871,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 5072,
+      "words": 5216,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -31054,6 +31177,7 @@
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
@@ -31471,7 +31595,8 @@
       ],
       "backlinks": [
         "index.md",
-        "mental-models/index.md"
+        "mental-models/index.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md"
       ],
       "words": 3360,
       "summary": "Có một hình mẫu nghe rất ngọt: người chồng kiếm thật nhiều tiền để vợ không cần làm gì."
@@ -31641,6 +31766,99 @@
       ],
       "words": 1347,
       "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…"
+    },
+    "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md": {
+      "path": "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
+      "title": "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
+      "domain": "mental-models",
+      "tags": [
+        "ageing",
+        "australia",
+        "care-economy",
+        "china",
+        "eldercare",
+        "family",
+        "financial-sovereignty",
+        "hikikomori",
+        "japan",
+        "mental-models",
+        "pension",
+        "retirement",
+        "vietnam"
+      ],
+      "aliases": [
+        "Hikikomori 8050 Và Bài Toán Tuổi Già",
+        "Hưu Trí Care Economy Và Tình Nghĩa",
+        "Khi Tuổi Già Không Còn Chỗ Tựa",
+        "Khủng Hoảng Già Hóa Và Hưu Trí",
+        "Nhật Úc Trung Quốc Và Bài Toán Tuổi Già Việt Nam",
+        "Retirement Without An Anchor"
+      ],
+      "headings": [
+        "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
+        "1. Vị Trí Trong Vault Và Kỷ Luật Bằng Chứng",
+        "2. Từ Khóa Cần Hiểu",
+        "3. Một Phương Trình, Bốn Quốc Gia",
+        "4. Nhật Bản: Khi Tuổi Già Bắt Đầu Từ Một Tuổi Trẻ Bị Đóng Băng",
+        "Thời kỳ băng giá việc làm không kết thúc khi kinh tế hồi phục",
+        "Hikikomori: 1,46 triệu là ước tính suy rộng, không phải danh sách hành chính",
+        "Từ hikikomori đến 8050: vòng lặp chăm sóc khép kín trong một căn nhà",
+        "“Chết một mình” cần được đọc với kỷ luật",
+        "5. Úc: Khi Nhà Nước Bắt Tương Lai Phải Tiết Kiệm",
+        "12% không phải khẩu hiệu, mà là kiến trúc mặc định",
+        "Lợi nhuận là lịch sử, không phải giao ước",
+        "Age Pension không biến mất khi super lớn lên",
+        "Tài khoản có thể giàu, căn phòng vẫn có thể lạnh",
+        "6. Trung Quốc: 4-2-1, 1,07 Tỷ Người Và Chiếc Đồng Hồ Nhân Khẩu",
+        "4-2-1 là biểu tượng của sự nén, không phải công thức cho mọi gia đình",
+        "Nâng tuổi nghỉ hưu: cải cách cần thiết nhưng không miễn phí về con người",
+        "“Cạn năm 2035”: một dữ kiện cần sửa trước khi dùng",
+        "Được bao phủ không đồng nghĩa đủ sống",
+        "7. Việt Nam: Già Trước Khi Giàu, Gia Đình Trước Khi Có Hệ Thống",
+        "Bao phủ đang tăng nhưng chưa phải an ninh hưu trí phổ quát",
+        "Luật 2024 mở thêm tầng sàn",
+        "Gia đình Việt Nam là tài sản, nhưng đang bị ghi sổ hai lần",
+        "Đạo hiếu không phải khoản ngân sách vô hạn",
+        "8. Từ Dữ Kiện Đến Mẫu Hình, Biểu Tượng Và Tổng Hợp Giả Thuyết",
+        "Dữ kiện: bốn hệ thống đang điều chỉnh trước cùng một đường áp lực",
+        "Mẫu hình: chi phí không biến mất, nó chỉ chuyển cột",
+        "Biểu tượng: chiếc ghế bốn chân",
+        "Tổng hợp giả thuyết: Ma Trận không cần “ghét gia đình” để làm gia đình rỗng",
+        "9. Bài Toán Việt Nam: Xây Bốn Chỗ Tựa Trước Khi Cửa Sổ Khép Lại",
+        "9.1. Một sàn thu nhập không phụ thuộc hoàn toàn vào con cái",
+        "9.2. Một hệ thống chăm sóc không mặc định phụ nữ là nguồn lực miễn phí",
+        "9.3. Một tầng cộng đồng giữa căn nhà và viện dưỡng lão",
+        "9.4. Một cam kết gia đình công bằng, không có cưỡng bức",
+        "9.5. Đổi thước đo: từ tuổi thọ sang số năm được giữ phẩm giá",
+        "10. Sổ Nguồn Và Các Điểm Sửa Dữ Kiện",
+        "Kết: Một Kiến Trúc Không Bỏ Rơi Con Người"
+      ],
+      "wikilinks": [
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Giàu Không Phải Để Vợ Không Làm Gì",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "MOC - Financial Sovereignty",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+        "Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
+        "MOC - Financial Sovereignty.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Financial Sovereignty.md"
+      ],
+      "words": 8800,
+      "summary": "**Một xã hội có thể tích lũy hàng nghìn tỷ đô la cho hưu trí mà vẫn sản xuất ra tuổi già cô độc. Một quốc gia có thể phủ bảo hiểm cho hơn một tỷ người mà vẫn phải hỏi ai sẽ chăm một cơ thể yếu đi trong căn hộ nhỏ. Một gia đình có thể thương nhau mà vẫn quá ki…"
     },
     "mental-models/Luân Hồi Trên Home Screen.md": {
       "path": "mental-models/Luân Hồi Trên Home Screen.md",
@@ -33028,6 +33246,7 @@
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
         "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
@@ -33266,7 +33485,8 @@
       ],
       "backlinks": [
         "index.md",
-        "mental-models/index.md"
+        "mental-models/index.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md"
       ],
       "words": 6249,
       "summary": "**Hàn Quốc không phải tương lai tất yếu của Việt Nam. Nhưng nó là một lời cảnh báo giai đoạn muộn: khi nhà ở, việc làm, lao động chăm sóc và phẩm giá cùng thất bại, nỗi đau kinh tế rất dễ bị dịch thành chiến tranh giới. Phụ nữ nói “tôi không muốn làm vợ, làm…"
@@ -33404,6 +33624,7 @@
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
         "Individuation",
+        "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
         "Kiểm Soát Tâm Trí",
         "Luân Hồi Trên Home Screen",
         "Ma Trận",
@@ -33460,6 +33681,7 @@
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/Individuation.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Mental Model.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
@@ -33501,7 +33723,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1728,
+      "words": 1881,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {

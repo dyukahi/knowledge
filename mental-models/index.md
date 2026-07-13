@@ -32,6 +32,7 @@ related:
 8. [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
 9. [[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]
 10. [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
+11. [[Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam]]
 
 > Rule: critique systems and incentives, not identities.
 
@@ -126,7 +127,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[MOC - Epistemology & Propaganda]] — knowing, believing, forgetting and frame control.
 - [[MOC - Esoterica & Consciousness]] — Jung, archetype, unconscious and spiritual reading.
 - [[MOC - Financial Sovereignty]] — incentives, time preference and money psychology.
-- [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] → [[Giàu Không Phải Để Vợ Không Làm Gì]] → [[Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học]] → [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] → [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]] — family/care collapse, provider fantasy and sovereignty path.
+- [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] → [[Giàu Không Phải Để Vợ Không Làm Gì]] → [[Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học]] → [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] → [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]] → [[Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam]] — con đường đọc sự rỗng hóa gia đình, ảo tưởng người chu cấp, an ninh tuổi già và chủ quyền.
 - [[politics-conspiracy/index|Politics & Conspiracy Gateway]] — mass psychology and governance.
 
 ---
@@ -143,6 +144,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Tâm Lý Học Tiến Hóa Về Giới Tính]] — high-risk sex/gender psychology lens; read with claim discipline, not as identity war.
 - [[Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học]] — marriage, contraception, abortion-politics and endocrine disruption without misogyny or fake medical certainty.
 - [[Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người]] — Hàn Quốc như cảnh báo giai đoạn muộn, Việt Nam như chẩn đoán sớm, và một lối thoát qua nhà ở, lao động chăm sóc, phẩm giá cùng hạ tầng gia đình.
+- [[Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam]] — bài so sánh chủ lực về thế hệ việc làm đóng băng của Nhật, kiến trúc superannuation của Úc, phép tính lương hưu Trung Quốc và cửa sổ đang khép lại của hạ tầng chăm sóc Việt Nam.
 - [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] — family collapse, lineage, reproductive technology and programmable children.
 - [[Individuation]] — the inner path from persona to Self.
 - [[Tư Duy Lũy Thừa]] — compounding as a mental operating system.
@@ -164,6 +166,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — why markets, apps and platforms monetize craving.
 - [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]] — why income levels change the kind of pain extracted, not only the account balance.
 - [[Giàu Không Phải Để Vợ Không Làm Gì]] — provider fantasy, care economy and family sovereignty over market capture.
+- [[Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam]] — đường lui tuổi già, kiến trúc lương hưu và vốn quan hệ mà không số dư tài khoản nào thay thế được.
 - [[Sợ hãi - Tham Lam – Cân bằng]] — emotional balance before allocation.
 - [[Tư Duy Lũy Thừa]] — compounding requires time, and leverage kills time.
 
@@ -189,6 +192,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
 - [[Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu]]
 - [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]]
+- [[Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam]]
 - [[Luân Hồi Trên Home Screen]]
 
 - [[Giàu Không Phải Để Vợ Không Làm Gì]]

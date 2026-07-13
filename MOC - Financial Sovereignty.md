@@ -10,6 +10,7 @@ related:
   - "[[Privacy]]"
   - "[[Tiền Giấy - Tiền Mặt]]"
   - "[[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]"
+  - "[[Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam]]"
   - "[[Vàng, Golden Age Và Màn Che Của Mặt Trăng]]"
   - "[[Chainlink - Mắt Xích Của Tokenized World]]"
   - "[[MOC - Market Psychology & Risk]]"
@@ -54,6 +55,7 @@ Nếu mới vào từ root, xem thêm [[Cách Đọc Red Pill Wiki#3 Money  Cont
 ## Survival Before Sovereignty
 
 - [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — không đòn bẩy, không dopamine trading, không lifestyle flex, giữ runway.
+- [[Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam]] — chủ quyền tuổi già qua sàn lương hưu, tài sản tích lũy, năng lực chăm sóc và tính liên tục của quan hệ; tiền mua được đường lui nhưng không tự sản xuất cảm giác thuộc về.
 - [[Vàng, Golden Age Và Màn Che Của Mặt Trăng]] — vàng như anchor ngoài fiat/CBDC, nhưng vẫn phải tôn trọng chu kỳ bull/bear.
 - [[PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan|PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận]] — kim cương như hard asset cần certificate, oracle và buyback trust.
 - [[MOC - Market Psychology & Risk]] — map riêng cho risk survival, ownership transfer, fear/greed và liquidity.
