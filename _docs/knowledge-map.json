@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 232,
+    "notes": 233,
     "domains": {
       "_docs": 11,
       "root": 14,
       "crypto-finance": 17,
       "esoterica": 76,
       "health": 27,
-      "mental-models": 41,
+      "mental-models": 42,
       "politics-conspiracy": 27,
       "science-tech": 19
     },
-    "tags": 278,
-    "wikilinkEdges": 2258,
+    "tags": 282,
+    "wikilinkEdges": 2267,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -1720,6 +1720,7 @@
           "mental-models/Nhị Nguyên.md",
           "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
           "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
           "mental-models/Schadenfreude - Dopamine Phản Diện.md",
           "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
           "mental-models/Thông Minh vs Trí Tuệ.md",
@@ -8805,6 +8806,7 @@
           "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
           "politics-conspiracy/index",
           "Privacy Is The New Wealth",
+          "Quy Trình Là Ký Ức Được Mua Bằng Máu",
           "Red Pill Wiki",
           "S.E.X Và Tâm Lý Học Jung",
           "Schadenfreude - Dopamine Phản Diện",
@@ -8854,6 +8856,7 @@
           "mental-models/Nhị Nguyên.md",
           "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
           "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
           "mental-models/S.E.X Và Tâm Lý Học Jung.md",
           "mental-models/Schadenfreude - Dopamine Phản Diện.md",
           "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
@@ -8888,7 +8891,7 @@
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1881,
+        "words": 1926,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -9849,6 +9852,70 @@
         "summary": "**Mô Hình Địa Tâm đặt Trái Đất ở trung tâm quan sát của vũ trụ. Nhưng giá trị lớn nhất của bài này không phải bắt người đọc “tin Địa Tâm”, mà là dùng Địa Tâm như một epistemic stress test: làm sao ta biết mô hình vũ trụ mình tin là do tự kiểm chứng, chứ không…"
       },
       {
+        "path": "mental-models/Thông Minh vs Trí Tuệ.md",
+        "title": "Thông Minh vs Trí Tuệ",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model",
+          "philosophy",
+          "wisdom"
+        ],
+        "aliases": [
+          "Intelligence vs Wisdom",
+          "Smart vs Wise",
+          "Thông Minh và Trí Tuệ"
+        ],
+        "headings": [
+          "Thông Minh vs Trí Tuệ (Intelligence vs Wisdom)",
+          "Vault Position / Vị Trí Trong Vault",
+          "Khác Biệt Gốc",
+          "Ma Trận Thích Người Thông Minh Nhưng Sợ Người Trí Tuệ",
+          "Trong Đối Nhân Xử Thế",
+          "Trong Học Tập Và Knowledge",
+          "Trong Tiền Bạc",
+          "Trong Sức Khỏe",
+          "Dấu Hiệu Nhận Biết",
+          "Kết",
+          "Reading Path / Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Individuation",
+          "Ma Trận",
+          "Nghịch Lý Của Hiểu Biết",
+          "Thông Minh",
+          "Trí Tuệ"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "mental-models/Individuation.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Trí Tuệ.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "esoterica/Atula.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "MOC - Market Psychology & Risk.md",
+          "science-tech/AI.md",
+          "science-tech/index.md"
+        ],
+        "words": 1370,
+        "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không. Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trận.…"
+      },
+      {
         "path": "mental-models/Nguyên Mẫu.md",
         "title": "Nguyên Mẫu",
         "domain": "mental-models",
@@ -9907,69 +9974,6 @@
         ],
         "words": 1096,
         "summary": "**Nguyên mẫu là pattern sống trong chiều sâu psyche: hình ảnh, vai trò, năng lượng và câu chuyện lặp lại qua nhiều cá nhân, văn hóa và thời đại.** Chúng không chỉ là \"nhân vật trong thần thoại\". Chúng là phần mềm biểu tượng khiến con người nhận ra King, Mothe…"
-      },
-      {
-        "path": "mental-models/Thông Minh vs Trí Tuệ.md",
-        "title": "Thông Minh vs Trí Tuệ",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model",
-          "philosophy",
-          "wisdom"
-        ],
-        "aliases": [
-          "Intelligence vs Wisdom",
-          "Smart vs Wise",
-          "Thông Minh và Trí Tuệ"
-        ],
-        "headings": [
-          "Thông Minh vs Trí Tuệ (Intelligence vs Wisdom)",
-          "Vault Position / Vị Trí Trong Vault",
-          "Khác Biệt Gốc",
-          "Ma Trận Thích Người Thông Minh Nhưng Sợ Người Trí Tuệ",
-          "Trong Đối Nhân Xử Thế",
-          "Trong Học Tập Và Knowledge",
-          "Trong Tiền Bạc",
-          "Trong Sức Khỏe",
-          "Dấu Hiệu Nhận Biết",
-          "Kết",
-          "Reading Path / Đọc Tiếp"
-        ],
-        "wikilinks": [
-          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-          "Individuation",
-          "Ma Trận",
-          "Nghịch Lý Của Hiểu Biết",
-          "Thông Minh",
-          "Trí Tuệ"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "mental-models/Individuation.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Trí Tuệ.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "esoterica/Atula.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "index.md",
-          "mental-models/index.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Trí Tuệ.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "MOC - Market Psychology & Risk.md",
-          "science-tech/AI.md",
-          "science-tech/index.md"
-        ],
-        "words": 1370,
-        "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không. Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trận.…"
       },
       {
         "path": "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
@@ -10090,6 +10094,7 @@
           "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
           "mental-models/index.md",
           "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
           "mental-models/Thông Minh.md",
           "mental-models/Tư Duy Lũy Thừa.md",
           "MOC - Epistemology & Propaganda.md"
@@ -10149,6 +10154,7 @@
           "mental-models/index.md",
           "mental-models/Mental Model.md",
           "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
           "mental-models/Schadenfreude - Dopamine Phản Diện.md",
           "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
           "MOC - Financial Sovereignty.md",
@@ -10419,6 +10425,68 @@
         "summary": "**Tâm Bất Biến không phải là không cảm thấy gì. Nó là khả năng cảm thấy đầy đủ mà không để cơn sóng bên trong cướp tay lái.** Người có tâm bất biến vẫn đau, vẫn thương, vẫn giận, vẫn hành động; khác biệt là họ không để phản ứng đầu tiên trở thành mệnh lệnh cu…"
       },
       {
+        "path": "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+        "title": "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+        "domain": "mental-models",
+        "tags": [
+          "epistemology",
+          "group-dynamics",
+          "mental-model",
+          "propaganda"
+        ],
+        "aliases": [
+          "False Consensus Trap",
+          "Im Lặng Tập Thể",
+          "Nghịch Lý Abilene",
+          "Pluralistic Ignorance",
+          "Sự Thiếu Hiểu Biết Số Đông"
+        ],
+        "headings": [
+          "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+          "Vault Position / Vị Trí Trong Vault",
+          "Từ Khóa Cần Hiểu",
+          "Câu Chuyện Abilene / The Trip Nobody Wanted",
+          "Cơ Chế Tâm Lý / Psychological Mechanism",
+          "Abilene Khác Groupthink Thế Nào?",
+          "Abilene Trong Gia Đình, Công Ty Và Xã Hội",
+          "Abilene Ở Scale Xã Hội: Permission Trap",
+          "Claim Discipline Khi Dùng Model Này",
+          "Dấu Hiệu Nhận Biết Một Chuyến Xe Abilene",
+          "Cách Thoát Khỏi Abilene",
+          "Kết / The Real Red Pill",
+          "Related"
+        ],
+        "wikilinks": [
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Mental Model",
+          "MOC - Epistemology & Propaganda",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+          "Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng",
+          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+          "MOC - Epistemology & Propaganda.md"
+        ],
+        "words": 2434,
+        "summary": "!Một con đường chia nhánh nơi đám đông lịch sự đi theo hướng không ai chắc mình muốn, biểu tượng cho false consensus"
+      },
+      {
         "path": "mental-models/Privacy Is The New Wealth.md",
         "title": "Privacy Is The New Wealth",
         "domain": "mental-models",
@@ -10672,67 +10740,6 @@
         ],
         "words": 714,
         "summary": "**Thông minh là năng lực xử lý thông tin, nhận pattern, tính toán, học nhanh và giải quyết vấn đề trong một rule-set.** Nó rất mạnh, nhưng không tự trả lời được câu hỏi rule-set đó có đáng chơi không. Vì vậy redpill.wiki luôn đặt Thông Minh cạnh Trí Tuệ: smar…"
-      },
-      {
-        "path": "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
-        "title": "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
-        "domain": "mental-models",
-        "tags": [
-          "epistemology",
-          "group-dynamics",
-          "mental-model",
-          "propaganda"
-        ],
-        "aliases": [
-          "False Consensus Trap",
-          "Im Lặng Tập Thể",
-          "Nghịch Lý Abilene",
-          "Pluralistic Ignorance",
-          "Sự Thiếu Hiểu Biết Số Đông"
-        ],
-        "headings": [
-          "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
-          "Vault Position / Vị Trí Trong Vault",
-          "Từ Khóa Cần Hiểu",
-          "Câu Chuyện Abilene / The Trip Nobody Wanted",
-          "Cơ Chế Tâm Lý / Psychological Mechanism",
-          "Abilene Khác Groupthink Thế Nào?",
-          "Abilene Trong Gia Đình, Công Ty Và Xã Hội",
-          "Abilene Ở Scale Xã Hội: Permission Trap",
-          "Claim Discipline Khi Dùng Model Này",
-          "Dấu Hiệu Nhận Biết Một Chuyến Xe Abilene",
-          "Cách Thoát Khỏi Abilene",
-          "Kết / The Real Red Pill",
-          "Related"
-        ],
-        "wikilinks": [
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "Mental Model",
-          "MOC - Epistemology & Propaganda",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
-          "Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng",
-          "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "mental-models/index.md",
-          "MOC - Epistemology & Propaganda.md"
-        ],
-        "words": 2434,
-        "summary": "!Một con đường chia nhánh nơi đám đông lịch sự đi theo hướng không ai chắc mình muốn, biểu tượng cho false consensus"
       },
       {
         "path": "mental-models/Chia Tách Bởi Nhị Nguyên.md",
@@ -11110,6 +11117,65 @@
         ],
         "words": 971,
         "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
+      },
+      {
+        "path": "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+        "title": "Quy Trình Là Ký Ức Được Mua Bằng Máu",
+        "domain": "mental-models",
+        "tags": [
+          "institutional-memory",
+          "mental-model",
+          "operations",
+          "risk-management",
+          "safety",
+          "systems-thinking"
+        ],
+        "aliases": [
+          "Institutional Memory",
+          "Procedures Are Paid Memory",
+          "Quy Trình Và Ký Ức Tổ Chức",
+          "SOP Là Tài Sản Vô Hình"
+        ],
+        "headings": [
+          "Quy Trình Là Ký Ức Được Mua Bằng Máu",
+          "Vault Position / Vị Trí Trong Vault",
+          "Từ Khóa Cần Hiểu",
+          "Shin-Okubo: Ba Giây Và Một Hóa Đơn Không Thể Hoàn Tiền",
+          "SOP Là Tài Sản Vô Hình",
+          "Long Thành: Chi Phí Của Việc Ghép Sau",
+          "Chín Lần Làm Tắt Không Sao",
+          "Nhưng Không Phải Mọi Quy Trình Đều Thiêng Liêng",
+          "Cách Biến Failure Thành Tài Sản",
+          "Hóa Đơn Được Trả Bởi Người Không Có Mặt Trong Phòng",
+          "Kết / The Real Red Pill",
+          "Evidence Discipline / Kỷ Luật Nguồn",
+          "Nguồn chính",
+          "Related"
+        ],
+        "wikilinks": [
+          "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+          "Ma Trận",
+          "Mental Model",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+          "Thông Minh vs Trí Tuệ",
+          "Tư Duy Lũy Thừa"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "MOC - Epistemology & Propaganda.md"
+        ],
+        "words": 3096,
+        "summary": "!Một cuốn sổ tay vận hành cũ nằm cạnh đường ray, mỗi dòng chữ phát sáng như ký ức của những tai nạn đã được chuyển thành quy tắc"
       },
       {
         "path": "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
@@ -13591,6 +13657,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "July 15, 2026",
           "July 13, 2026",
           "July 10, 2026",
           "July 9, 2026",
@@ -13713,6 +13780,7 @@
           "Privacy",
           "Privacy Is The New Wealth",
           "Prolonged Fasting",
+          "Quy Trình Là Ký Ức Được Mua Bằng Máu",
           "S.E.X",
           "S.E.X Và Tâm Lý Học Jung",
           "Sacred Geometry",
@@ -13872,6 +13940,7 @@
           "mental-models/Nhị Nguyên.md",
           "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
           "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
           "mental-models/S.E.X Và Tâm Lý Học Jung.md",
           "mental-models/Schadenfreude - Dopamine Phản Diện.md",
           "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
@@ -13935,7 +14004,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 5216,
+        "words": 5378,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -13980,6 +14049,7 @@
           "Nghịch Lý Của Hiểu Biết",
           "Nhị Nguyên",
           "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Quy Trình Là Ký Ức Được Mua Bằng Máu",
           "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
           "Thế Hệ Lọt Khe",
           "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
@@ -14002,6 +14072,7 @@
           "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
           "mental-models/Mental Model.md",
           "mental-models/Nhị Nguyên.md",
+          "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
           "mental-models/Thế Hệ Lọt Khe.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Báo Cáo 2030.md",
@@ -14045,7 +14116,7 @@
           "science-tech/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 868,
+        "words": 893,
         "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
       },
       {
@@ -14726,6 +14797,7 @@
           "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
+          "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
           "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
           "politics-conspiracy/Elite.md",
           "science-tech/Khoa Học Xét Lại.md"
@@ -16291,6 +16363,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "July 15, 2026",
         "July 13, 2026",
         "July 10, 2026",
         "July 9, 2026",
@@ -16413,6 +16486,7 @@
         "Privacy",
         "Privacy Is The New Wealth",
         "Prolonged Fasting",
+        "Quy Trình Là Ký Ức Được Mua Bằng Máu",
         "S.E.X",
         "S.E.X Và Tâm Lý Học Jung",
         "Sacred Geometry",
@@ -16572,6 +16646,7 @@
         "mental-models/Nhị Nguyên.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
@@ -16635,7 +16710,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 5216,
+      "words": 5378,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -16818,6 +16893,7 @@
         "mental-models/Nhị Nguyên.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
@@ -17162,6 +17238,7 @@
         "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
         "politics-conspiracy/index",
         "Privacy Is The New Wealth",
+        "Quy Trình Là Ký Ức Được Mua Bằng Máu",
         "Red Pill Wiki",
         "S.E.X Và Tâm Lý Học Jung",
         "Schadenfreude - Dopamine Phản Diện",
@@ -17211,6 +17288,7 @@
         "mental-models/Nhị Nguyên.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
@@ -17245,7 +17323,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1881,
+      "words": 1926,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
@@ -17542,6 +17620,7 @@
         "Nghịch Lý Của Hiểu Biết",
         "Nhị Nguyên",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "Quy Trình Là Ký Ức Được Mua Bằng Máu",
         "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
         "Thế Hệ Lọt Khe",
         "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
@@ -17564,6 +17643,7 @@
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Mental Model.md",
         "mental-models/Nhị Nguyên.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/Thế Hệ Lọt Khe.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Báo Cáo 2030.md",
@@ -17607,7 +17687,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 868,
+      "words": 893,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     {
@@ -20314,7 +20394,7 @@
     ],
     [
       "mental-model",
-      29
+      30
     ],
     [
       "health",
@@ -20485,6 +20565,10 @@
       3
     ],
     [
+      "risk-management",
+      3
+    ],
+    [
       "market-psychology",
       3
     ],
@@ -20562,10 +20646,6 @@
     ],
     [
       "word-magic",
-      2
-    ],
-    [
-      "risk-management",
       2
     ],
     [
@@ -21122,6 +21202,7 @@
         "Nghịch Lý Của Hiểu Biết",
         "Nhị Nguyên",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "Quy Trình Là Ký Ức Được Mua Bằng Máu",
         "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
         "Thế Hệ Lọt Khe",
         "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
@@ -21144,6 +21225,7 @@
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Mental Model.md",
         "mental-models/Nhị Nguyên.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/Thế Hệ Lọt Khe.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Báo Cáo 2030.md",
@@ -21187,7 +21269,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 868,
+      "words": 893,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     "MOC - Esoterica & Consciousness.md": {
@@ -21741,6 +21823,7 @@
         "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
         "politics-conspiracy/Elite.md",
         "science-tech/Khoa Học Xét Lại.md"
@@ -25786,6 +25869,7 @@
         "mental-models/Nhị Nguyên.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
@@ -30527,6 +30611,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "July 15, 2026",
         "July 13, 2026",
         "July 10, 2026",
         "July 9, 2026",
@@ -30649,6 +30734,7 @@
         "Privacy",
         "Privacy Is The New Wealth",
         "Prolonged Fasting",
+        "Quy Trình Là Ký Ức Được Mua Bằng Máu",
         "S.E.X",
         "S.E.X Và Tâm Lý Học Jung",
         "Sacred Geometry",
@@ -30808,6 +30894,7 @@
         "mental-models/Nhị Nguyên.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
@@ -30871,7 +30958,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 5216,
+      "words": 5378,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -30930,6 +31017,7 @@
       "backlinks": [
         "index.md",
         "mental-models/index.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "MOC - Epistemology & Propaganda.md"
       ],
       "words": 2434,
@@ -31963,6 +32051,7 @@
         "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/index.md",
         "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/Thông Minh.md",
         "mental-models/Tư Duy Lũy Thừa.md",
         "MOC - Epistemology & Propaganda.md"
@@ -32388,6 +32477,65 @@
       "words": 1856,
       "summary": "Bài viết trình bày một triết lý về sự giàu có trong thế kỷ 21, nơi **privacy** (sự riêng tư) đã trở thành thước đo quyền lực thực sự thay vì phô trương tài sản. Trong thời đại surveillance capitalism, khả năng \"biến mất\" trở thành luxury goods đắt nhất."
     },
+    "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md": {
+      "path": "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+      "title": "Quy Trình Là Ký Ức Được Mua Bằng Máu",
+      "domain": "mental-models",
+      "tags": [
+        "institutional-memory",
+        "mental-model",
+        "operations",
+        "risk-management",
+        "safety",
+        "systems-thinking"
+      ],
+      "aliases": [
+        "Institutional Memory",
+        "Procedures Are Paid Memory",
+        "Quy Trình Và Ký Ức Tổ Chức",
+        "SOP Là Tài Sản Vô Hình"
+      ],
+      "headings": [
+        "Quy Trình Là Ký Ức Được Mua Bằng Máu",
+        "Vault Position / Vị Trí Trong Vault",
+        "Từ Khóa Cần Hiểu",
+        "Shin-Okubo: Ba Giây Và Một Hóa Đơn Không Thể Hoàn Tiền",
+        "SOP Là Tài Sản Vô Hình",
+        "Long Thành: Chi Phí Của Việc Ghép Sau",
+        "Chín Lần Làm Tắt Không Sao",
+        "Nhưng Không Phải Mọi Quy Trình Đều Thiêng Liêng",
+        "Cách Biến Failure Thành Tài Sản",
+        "Hóa Đơn Được Trả Bởi Người Không Có Mặt Trong Phòng",
+        "Kết / The Real Red Pill",
+        "Evidence Discipline / Kỷ Luật Nguồn",
+        "Nguồn chính",
+        "Related"
+      ],
+      "wikilinks": [
+        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+        "Ma Trận",
+        "Mental Model",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+        "Thông Minh vs Trí Tuệ",
+        "Tư Duy Lũy Thừa"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Ma Trận.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Epistemology & Propaganda.md"
+      ],
+      "words": 3096,
+      "summary": "!Một cuốn sổ tay vận hành cũ nằm cạnh đường ray, mỗi dòng chữ phát sáng như ký ức của những tai nạn đã được chuyển thành quy tắc"
+    },
     "mental-models/S.E.X Và Tâm Lý Học Jung.md": {
       "path": "mental-models/S.E.X Và Tâm Lý Học Jung.md",
       "title": "S.E.X Và Tâm Lý Học Jung",
@@ -32720,6 +32868,7 @@
         "mental-models/index.md",
         "mental-models/Mental Model.md",
         "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Thông Minh.md",
         "mental-models/Trí Tuệ.md",
@@ -33307,6 +33456,7 @@
         "mental-models/index.md",
         "mental-models/Mental Model.md",
         "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
         "MOC - Financial Sovereignty.md",
@@ -33640,6 +33790,7 @@
         "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
         "politics-conspiracy/index",
         "Privacy Is The New Wealth",
+        "Quy Trình Là Ký Ức Được Mua Bằng Máu",
         "Red Pill Wiki",
         "S.E.X Và Tâm Lý Học Jung",
         "Schadenfreude - Dopamine Phản Diện",
@@ -33689,6 +33840,7 @@
         "mental-models/Nhị Nguyên.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
@@ -33723,7 +33875,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1881,
+      "words": 1926,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {

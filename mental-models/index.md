@@ -58,10 +58,11 @@ Orientation: start here to learn models as lenses, not new beliefs. The point is
 
 1. [[Mental Model]] — define what a model is and is not.
 2. [[Abilene Paradox - Nghịch Lý Đồng Thuận Giả|Nghịch Lý Abilene]] — see how groups can agree to a path nobody actually wants.
-3. [[Tư Duy Lũy Thừa]] — learn compounding as thought discipline.
-4. [[Thông Minh vs Trí Tuệ]] — separate cleverness from wisdom.
-5. [[Tâm bất Biến]] — build inner stability before bigger claims.
-6. [[Nghịch Lý Của Hiểu Biết]] — keep certainty from hardening into ego.
+3. [[Quy Trình Là Ký Ức Được Mua Bằng Máu]] — read procedures as institutional memory, then learn when evidence permits revision.
+4. [[Tư Duy Lũy Thừa]] — learn compounding as thought discipline.
+5. [[Thông Minh vs Trí Tuệ]] — separate cleverness from wisdom.
+6. [[Tâm bất Biến]] — build inner stability before bigger claims.
+7. [[Nghịch Lý Của Hiểu Biết]] — keep certainty from hardening into ego.
 
 ### 2. Power-User Path — Jung, Shadow, Individuation
 
@@ -136,6 +137,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 
 - [[Mental Model]] — the domain's root concept.
 - [[Abilene Paradox - Nghịch Lý Đồng Thuận Giả|Nghịch Lý Abilene]] — group preference failure, pluralistic ignorance and false consensus.
+- [[Quy Trình Là Ký Ức Được Mua Bằng Máu]] — institutional memory, normalization of deviance, design debt and evidence-based procedure review.
 - [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — desire hijacking as economic architecture.
 - [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]] — education-to-work pipeline, income-tier pain architecture and Loosh extraction.
 - [[Bộ Não Rỗng và AI Brain Rot]] — cognitive offloading and agency collapse.
@@ -196,3 +198,4 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Luân Hồi Trên Home Screen]]
 
 - [[Giàu Không Phải Để Vợ Không Làm Gì]]
+g Làm Gì]]

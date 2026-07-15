@@ -83,6 +83,7 @@ Ai đặt tên được hiện tượng thường thắng nửa trận. UFO thà
 
 ## Institutional Knowledge
 
+- [[Quy Trình Là Ký Ức Được Mua Bằng Máu]] — procedure như ký ức tổ chức được operationalize; giữ genealogy của failure nhưng không thờ bureaucracy.
 - [[Khoa Học Xét Lại]] — method sống khi còn được hỏi; institution chết khi câu hỏi bị cấm.
 - [[Báo Cáo 2030]] — policy language như blueprint mềm.
 - [[Digital ID Normalization - From Instagram to Government ID]] — identity framing như safety/convenience.
