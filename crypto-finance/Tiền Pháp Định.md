@@ -63,9 +63,9 @@ Sau 1971, nợ toàn cầu phình ra, financialization tăng tốc, nhà và sto
 
 Lạm phát không chỉ là giá tăng. Nó là sức mua của tiền giảm. Nếu bạn giữ tiền trong ngân hàng và cùng số tiền đó mua được ít hàng hóa hơn theo thời gian, bạn đã bị đánh thuế mà không cần hóa đơn thuế.
 
-Cantillon effect nói rõ phần bất công: người nhận tiền mới trước mua asset trước khi giá điều chỉnh; người nhận tiền sau trả giá cao hơn. Banks, corporations, asset holders và government-connected sectors thường đứng gần vòi tiền hơn wage earners.
+[[Cantillon Effect - Ai Đứng Gần Vòi Tiền|Cantillon Effect]] nói rõ phần bất công: người nhận tiền mới trước mua asset trước khi giá điều chỉnh; người nhận tiền sau trả giá cao hơn. Banks, corporations, asset holders và government-connected sectors thường đứng gần vòi tiền hơn wage earners.
 
-Vì vậy fiat không trung lập. Nó redistributes wealth theo khoảng cách tới nguồn phát hành và tín dụng.
+Vì vậy fiat không trung lập. Nó redistributes wealth theo khoảng cách tới nguồn phát hành và tín dụng. Bài Cantillon riêng mở rộng sequence này sang asset repricing, wage lag, BTC liquidity cycle và programmable distribution.
 
 ---
 

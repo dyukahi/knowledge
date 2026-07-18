@@ -30,6 +30,7 @@ Pack này đọc money như hạ tầng quyền lực: fiat dilution, self-custo
 6. [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]
 7. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
 8. [[PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan|PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận]]
+9. [[Cantillon Effect - Ai Đứng Gần Vòi Tiền]]
 
 ---
 
@@ -56,10 +57,11 @@ Orientation: start here if money still feels like salary, price and bank balance
 2. [[Tiền tiền tiền]] — read money as stored attention, labor and choice.
 3. [[Tiền Giấy - Tiền Mặt]] — separate cash, paper promise and permission rail.
 4. [[Tiền Pháp Định]] — see fiat as debt architecture, not neutral medium.
-5. [[Vàng, Golden Age Và Màn Che Của Mặt Trăng]] — read gold as cosmic memory, market-cycle asset and outside-grid anchor.
-6. [[PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan|PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận]] — study certificate trust, physical-asset oracle risk and buyback liquidity.
-7. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — install survival discipline before markets, Bitcoin or leverage.
-8. [[Giàu Không Nhờ May Mắn]] — move from complaint into agency and production.
+5. [[Cantillon Effect - Ai Đứng Gần Vòi Tiền]] — follow new money from first receivers and asset repricing to delayed wage adjustment.
+6. [[Vàng, Golden Age Và Màn Che Của Mặt Trăng]] — read gold as cosmic memory, market-cycle asset and outside-grid anchor.
+7. [[PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan|PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận]] — study certificate trust, physical-asset oracle risk and buyback liquidity.
+8. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — install survival discipline before markets, Bitcoin or leverage.
+9. [[Giàu Không Nhờ May Mắn]] — move from complaint into agency and production.
 
 ### 2. Power-User Path — Bitcoin, Privacy, Exit
 
@@ -124,6 +126,7 @@ Orientation: use this when finance starts touching politics, psychology and esot
 - [[Privacy]] — the boundary layer of free exchange.
 - [[Bitcoin Sẽ Chết Nếu Không Có Privacy]] — why transparent money can become a control surface.
 - [[Tiền Pháp Định]] — fiat as debt, permission and debasement architecture.
+- [[Cantillon Effect - Ai Đứng Gần Vòi Tiền]] — why first receivers capture old prices while wage earners receive nominal adjustment after assets and living costs reprice.
 - [[Vàng, Golden Age Và Màn Che Của Mặt Trăng]] — gold as memory object, Golden Age symbol and no-margin accumulation discipline.
 - [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — financial noise discipline and risk survival.
 - [[Ai Đứng Bên Kia Giao Dịch]] — bull/bear crowd psychology and transaction-side discipline.

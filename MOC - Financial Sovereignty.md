@@ -82,7 +82,8 @@ Bitcoin là exit door, nhưng exit door không tự động cứu người khôn
 ## Fiat, Debt & Dependency
 
 - [[Tiền Giấy - Tiền Mặt]] — cash như bearer instrument và vùng tự do vật lý.
-- [[Tiền Pháp Định]] — fiat, debt rollover, debasement và Cantillon effect.
+- [[Tiền Pháp Định]] — fiat, debt rollover và debasement architecture.
+- [[Cantillon Effect - Ai Đứng Gần Vòi Tiền]] — sequence của tiền mới: first receivers, asset repricing, wage lag và scenario programmable distribution.
 - [[Gen Z và CBDC - Programmable Money Psychology]] — programmable money như conditioning pipeline.
 - [[UBI Conditioning - The End of Work Ethic]] — allowance/dependency rails trong AI economy.
 

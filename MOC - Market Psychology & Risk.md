@@ -82,6 +82,7 @@ Market không chỉ lấy tiền của người ngu. Nó lấy tiền của ngư
 ## Macro & Liquidity Layer
 
 - [[Tiền Pháp Định]] — fiat, credit và debasement là nền của asset inflation.
+- [[Cantillon Effect - Ai Đứng Gần Vòi Tiền]] — liquidity sequence giải thích vì sao asset repricing thường chạy trước wage adjustment.
 - [[MOC - Financial Sovereignty]] — tiền như operating system của consent, labor, time và freedom.
 - [[Chainlink - Mắt Xích Của Tokenized World]] — khi tài sản được tokenized, flow và permission layer càng quan trọng.
 
