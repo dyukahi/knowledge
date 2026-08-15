@@ -41,10 +41,10 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
 | 🧩 **Mental Models** | 42 | nhận thức, tâm lý học, framework để đọc reality |
 | 🏛️ **Politics & Conspiracy** | 27 | power structure, controlled narrative, geopolitics |
-| 🔬 **Science & Tech** | 19 | revisionist science, AI, cosmology, suppressed tech |
+| 🔬 **Science & Tech** | 20 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 234 notes / bài viết.
+**Total:** 235 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -223,6 +223,7 @@ Các bài dưới đây là những flagship notes dễ cho người mới thấ
 ### Mind, Sex & Dopamine
 
 - **[[Bộ Não Rỗng và AI Brain Rot]]** - cognitive offloading và reclaiming agency
+- **[[Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ]]** - synthetic labor efficiency, ownership architecture, judgment scarcity và câu hỏi ai thu productivity surplus
 - **[[AI Và Cái Chết Của Bản Quyền Công Nghiệp]]** - AI, copyright, ownership và generation economy
 - **[[S.E.X Và Tâm Lý Học Jung]]** - sacred energy exchange, Jungian lens, bonding chemistry
 - **[[Sự Thật Đen Tối Về Phim Khiêu Dâm]]** - energy harvesting industry
@@ -322,7 +323,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### 🔬 Science & Tech
 
-- [[Khoa Học Xét Lại]] | [[AI]] | [[AI Và Cái Chết Của Bản Quyền Công Nghiệp]] | [[Nikola Tesla]]
+- [[Khoa Học Xét Lại]] | [[AI]] | [[Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ]] | [[AI Và Cái Chết Của Bản Quyền Công Nghiệp]] | [[Nikola Tesla]]
 - [[Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]]
 - [[Vũ Khí Năng Lượng Định Hướng]]
 - [[Mô Hình Địa Tâm]] | [[Thuyết Trái Đất Phẳng]]
@@ -333,6 +334,11 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### August 15, 2026
+
+- **[[Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ]]** - flagship Science & Tech essay về synthetic labor như labor stack; phân biệt speedup với verified output, đọc reliability và junior-ladder risk, rồi đặt ownership của model, compute, workflow, verification và distribution vào trung tâm.
+- **Navigation update** - thêm bài vào AI & Algorithm Path, AI-Age Agency Path, Science Revisionism MOC, Financial Sovereignty MOC và root Science & Tech; kèm 10 minh họa hiện thực biên tập theo từng section.
 
 ### July 18, 2026
 

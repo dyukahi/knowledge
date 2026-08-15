@@ -1,6 +1,6 @@
 {
   "stats": {
-    "notes": 234,
+    "notes": 235,
     "domains": {
       "_docs": 11,
       "root": 14,
@@ -9,10 +9,10 @@
       "health": 27,
       "mental-models": 42,
       "politics-conspiracy": 27,
-      "science-tech": 19
+      "science-tech": 20
     },
-    "tags": 286,
-    "wikilinkEdges": 2279,
+    "tags": 290,
+    "wikilinkEdges": 2291,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -8858,6 +8858,7 @@
           "esoterica/index",
           "Gen Z - Phân Tích Phản Biện",
           "Gen Z và CBDC - Programmable Money Psychology",
+          "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
           "Giàu Không Phải Để Vợ Không Làm Gì",
           "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
           "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
@@ -8953,6 +8954,7 @@
           "politics-conspiracy/index.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md",
           "science-tech/AI.md",
+          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
           "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
         ],
@@ -8964,7 +8966,7 @@
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1926,
+        "words": 1975,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -9537,6 +9539,7 @@
           "MOC - Science Revisionism.md",
           "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
           "science-tech/AI.md",
+          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
           "science-tech/index.md"
         ],
         "words": 2756,
@@ -11207,6 +11210,51 @@
         "summary": "Video của Bin Tài Chính về cuộc sống ở các mức thu nhập là một cửa vào tốt: 5 triệu, 15 triệu, 50 triệu, 100 triệu, 500 triệu. Nhưng nếu chỉ đọc nó như tài chính cá nhân, bài học sẽ dừng ở mức “kiếm nhiều hơn, quản lý tốt hơn, đừng lifestyle inflation”. Đúng,…"
       },
       {
+        "path": "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "title": "UBI Conditioning - The End of Work Ethic",
+        "domain": "mental-models",
+        "tags": [
+          "agenda-2030",
+          "economics",
+          "generation",
+          "mental-model",
+          "psychology"
+        ],
+        "aliases": [
+          "Dependency Rails",
+          "Quiet Quitting",
+          "UBI",
+          "Universal Basic Income",
+          "Work Ethic"
+        ],
+        "headings": [
+          "UBI Conditioning - The End of Work Ethic",
+          "Source Discipline / Cách Đọc",
+          "Từ Khóa Cần Hiểu",
+          "UBI Có Hai Linh Hồn",
+          "AI Và Cái Cớ Hợp Lý",
+          "Meme Thất Nghiệp Bên Trung",
+          "Work Ethic Mới"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [
+          "crypto-finance/index.md",
+          "index.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "mental-models/index.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Thế Hệ Lọt Khe.md",
+          "MOC - Financial Sovereignty.md",
+          "politics-conspiracy/index.md",
+          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md"
+        ],
+        "words": 946,
+        "summary": "**UBI không chỉ là câu hỏi kinh tế “ai trả tiền?”. Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
+      },
+      {
         "path": "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "title": "Climate Anxiety as Control - Fear-Based Compliance",
         "domain": "mental-models",
@@ -11417,50 +11465,6 @@
         "summary": "*The Strawberry Generation — Tired Already, Can We Stop Yet?*"
       },
       {
-        "path": "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "title": "UBI Conditioning - The End of Work Ethic",
-        "domain": "mental-models",
-        "tags": [
-          "agenda-2030",
-          "economics",
-          "generation",
-          "mental-model",
-          "psychology"
-        ],
-        "aliases": [
-          "Dependency Rails",
-          "Quiet Quitting",
-          "UBI",
-          "Universal Basic Income",
-          "Work Ethic"
-        ],
-        "headings": [
-          "UBI Conditioning - The End of Work Ethic",
-          "Source Discipline / Cách Đọc",
-          "Từ Khóa Cần Hiểu",
-          "UBI Có Hai Linh Hồn",
-          "AI Và Cái Cớ Hợp Lý",
-          "Meme Thất Nghiệp Bên Trung",
-          "Work Ethic Mới"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [
-          "crypto-finance/index.md",
-          "index.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "mental-models/index.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Thế Hệ Lọt Khe.md",
-          "MOC - Financial Sovereignty.md",
-          "politics-conspiracy/index.md"
-        ],
-        "words": 946,
-        "summary": "**UBI không chỉ là câu hỏi kinh tế “ai trả tiền?”. Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
-      },
-      {
         "path": "mental-models/Thế Hệ Lọt Khe.md",
         "title": "Thế Hệ Lọt Khe",
         "domain": "mental-models",
@@ -11635,6 +11639,54 @@
         "summary": "!Home Screen Samsara"
       },
       {
+        "path": "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+        "title": "Cái Gì Trong Bạn Không Thể Bị Model Hóa?",
+        "domain": "mental-models",
+        "tags": [
+          "ai",
+          "attention",
+          "creativity",
+          "discernment",
+          "mental-models",
+          "sovereignty"
+        ],
+        "aliases": [
+          "Cái Gì Không Thể Bị Model Hóa",
+          "Human Value After Output Collapse",
+          "What Cannot Be Modeled?"
+        ],
+        "headings": [
+          "Cái Gì Trong Bạn Không Thể Bị Model Hóa?",
+          "1. Output Collapse",
+          "2. Model Hóa Không Giống Hiểu",
+          "3. Taste Là Bộ Lọc Của Linh Hồn",
+          "4. Discernment: Khả Năng Thấy Cái Không Được Nói",
+          "5. Lived Experience: Phần Đã Được Sống",
+          "6. Moral Stance: Bạn Đứng Ở Đâu?",
+          "7. Symbolic Depth: Khả Năng Nối Tầng",
+          "8. Attention Sovereignty: Không Bị Kéo Đi",
+          "9. The Last Scarcity",
+          "10. Vậy Cái Gì Không Thể Bị Model Hóa Rẻ Tiền?",
+          "11. Chốt"
+        ],
+        "wikilinks": [
+          "Bộ Não Rỗng và AI Brain Rot"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/Luân Hồi Trên Home Screen.md",
+          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
+          "science-tech/index.md"
+        ],
+        "words": 2160,
+        "summary": "Một thời gian dài, xã hội đo con người bằng output. Bạn viết được gì. Bạn thiết kế được gì. Bạn code được gì. Bạn phân tích được gì. Bạn làm nhạc, làm video, làm slide, làm proposal, làm báo cáo, làm content nhanh đến đâu. Output là bằng chứng. Output là danh…"
+      },
+      {
         "path": "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
         "title": "Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu",
         "domain": "mental-models",
@@ -11684,52 +11736,6 @@
         ],
         "words": 2214,
         "summary": "!Những chiếc nôi phát sáng giữa ruộng bắp cải dưới bóng cây gia đình"
-      },
-      {
-        "path": "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
-        "title": "Cái Gì Trong Bạn Không Thể Bị Model Hóa?",
-        "domain": "mental-models",
-        "tags": [
-          "ai",
-          "attention",
-          "creativity",
-          "discernment",
-          "mental-models",
-          "sovereignty"
-        ],
-        "aliases": [
-          "Cái Gì Không Thể Bị Model Hóa",
-          "Human Value After Output Collapse",
-          "What Cannot Be Modeled?"
-        ],
-        "headings": [
-          "Cái Gì Trong Bạn Không Thể Bị Model Hóa?",
-          "1. Output Collapse",
-          "2. Model Hóa Không Giống Hiểu",
-          "3. Taste Là Bộ Lọc Của Linh Hồn",
-          "4. Discernment: Khả Năng Thấy Cái Không Được Nói",
-          "5. Lived Experience: Phần Đã Được Sống",
-          "6. Moral Stance: Bạn Đứng Ở Đâu?",
-          "7. Symbolic Depth: Khả Năng Nối Tầng",
-          "8. Attention Sovereignty: Không Bị Kéo Đi",
-          "9. The Last Scarcity",
-          "10. Vậy Cái Gì Không Thể Bị Model Hóa Rẻ Tiền?",
-          "11. Chốt"
-        ],
-        "wikilinks": [
-          "Bộ Não Rỗng và AI Brain Rot"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "mental-models/index.md",
-          "mental-models/Luân Hồi Trên Home Screen.md"
-        ],
-        "words": 2160,
-        "summary": "Một thời gian dài, xã hội đo con người bằng output. Bạn viết được gì. Bạn thiết kế được gì. Bạn code được gì. Bạn phân tích được gì. Bạn làm nhạc, làm video, làm slide, làm proposal, làm báo cáo, làm content nhanh đến đâu. Output là bằng chứng. Output là danh…"
       }
     ],
     "politics-conspiracy": [
@@ -13732,6 +13738,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "August 15, 2026",
           "July 18, 2026",
           "July 15, 2026",
           "July 13, 2026",
@@ -13796,6 +13803,7 @@
           "Gematria",
           "Gen Z - Phân Tích Phản Biện",
           "Gen Z và CBDC - Programmable Money Psychology",
+          "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
           "Giàu Không Phải Để Vợ Không Làm Gì",
           "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
           "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
@@ -14061,6 +14069,7 @@
           "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
           "science-tech/AI.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
           "science-tech/index.md",
           "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
@@ -14082,7 +14091,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 5484,
+        "words": 5611,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14572,6 +14581,7 @@
           "Cách Đọc Red Pill Wiki",
           "Digital ID Normalization - From Instagram to Government ID",
           "Gen Z và CBDC - Programmable Money Psychology",
+          "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
           "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
           "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
           "MOC - Market Psychology & Risk",
@@ -14610,7 +14620,8 @@
           "mental-models/UBI Conditioning - The End of Work Ethic.md",
           "MOC - Market Psychology & Risk.md",
           "politics-conspiracy/Báo Cáo 2030.md",
-          "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
+          "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md"
         ],
         "backlinks": [
           "crypto-finance/Cantillon Effect - Ai Đứng Gần Vòi Tiền.md",
@@ -14630,9 +14641,10 @@
           "MOC - Market Psychology & Risk.md",
           "politics-conspiracy/Elite.md",
           "politics-conspiracy/index.md",
+          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 1139,
+        "words": 1167,
         "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
       },
       {
@@ -14662,6 +14674,7 @@
           "Bộ Não Rỗng và AI Brain Rot",
           "Cách Đọc Red Pill Wiki",
           "Digital ID Normalization - From Instagram to Government ID",
+          "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
           "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
           "Khoa Học Xét Lại",
           "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
@@ -14695,6 +14708,7 @@
           "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
           "science-tech/AI.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
           "science-tech/Khoa Học Xét Lại.md",
           "science-tech/Nikola Tesla.md",
@@ -14725,7 +14739,7 @@
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
           "science-tech/Walter Russell.md"
         ],
-        "words": 665,
+        "words": 691,
         "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
       },
       {
@@ -15310,10 +15324,12 @@
           "Bão Từ Bắc Cực vs Bão Mặt Trời",
           "Bộ Não Rỗng và AI Brain Rot",
           "Cách Đọc Red Pill Wiki",
+          "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
           "Cỗ Máy Antikythera và Minh Chứng Địa Tâm",
           "Digital ID Normalization - From Instagram to Government ID",
           "esoterica/index",
           "Gen Z và CBDC - Programmable Money Psychology",
+          "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
           "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
           "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
           "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
@@ -15351,6 +15367,7 @@
           "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
           "index.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
           "mental-models/Mô Hình Địa Tâm.md",
           "mental-models/Thông Minh vs Trí Tuệ.md",
           "MOC - Ancient Civilizations & Hidden History.md",
@@ -15365,6 +15382,7 @@
           "science-tech/AI.md",
           "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
           "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
           "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -15387,7 +15405,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1049,
+        "words": 1117,
         "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
       },
       {
@@ -15702,6 +15720,7 @@
           "mental-models/index.md",
           "MOC - Science Revisionism.md",
           "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
+          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
           "science-tech/index.md",
           "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
@@ -16059,6 +16078,77 @@
         "summary": "**Walter Russell là archetype của nhà hiền triết-nghệ sĩ bước vào khoa học bằng trực giác vũ trụ: ánh sáng, chuyển động, nhịp, polarity và mind như nguyên nhân.** Đọc Russell đúng nghĩa là tách ba tầng: tiểu sử có thể kiểm, hệ thống triết học của ông, và các…"
       },
       {
+        "path": "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
+        "title": "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
+        "domain": "science-tech",
+        "tags": [
+          "agents",
+          "ai",
+          "labor",
+          "ownership",
+          "productivity",
+          "science-tech",
+          "sovereignty",
+          "synthetic-labor"
+        ],
+        "aliases": [
+          "Giai Cấp Lao Động Tổng Hợp",
+          "Synthetic Labor Class",
+          "Synthetic Labor Efficiency",
+          "Đội Quân Không Ngủ"
+        ],
+        "headings": [
+          "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
+          "Source Discipline / Cách Đọc",
+          "1. Synthetic Labor Là Gì?",
+          "2. Từ Headcount Sang Agent-Hours",
+          "3. Reliability Là Biên Giới Thật",
+          "4. Đội Quân Không Ngủ Thuộc Về Ai?",
+          "5. One-Person Firm Paradox",
+          "6. Junior Ladder Có Thể Bị Rút Mất",
+          "7. Khi Labor Rẻ, Judgment Trở Thành Tài Sản Khan Hiếm",
+          "8. Synthetic Proletariat Và Golem",
+          "9. UBI Hay Quyền Sở Hữu?",
+          "10. Sovereign Response / Cách Không Trở Thành Phần Thừa",
+          "1. Own context",
+          "2. Own verification",
+          "3. Own distribution",
+          "4. Own small productive assets",
+          "5. Keep human judgment alive",
+          "11. Synthetic Labor Efficiency: Scorecard Thực Dụng",
+          "Kết Luận / Synthesis",
+          "Reading Path / Đọc Tiếp",
+          "Sources / Nguồn Chính",
+          "Note On Updating Claims"
+        ],
+        "wikilinks": [
+          "AI",
+          "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
+          "MOC - Financial Sovereignty",
+          "UBI Conditioning - The End of Work Ethic"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+          "mental-models/UBI Conditioning - The End of Work Ethic.md",
+          "MOC - Financial Sovereignty.md",
+          "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
+          "science-tech/AI.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "MOC - Financial Sovereignty.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/index.md"
+        ],
+        "words": 3860,
+        "summary": "**Synthetic labor không chỉ là “AI tools”. Nó là một labor system mới: có memory, role, workflow, budget, checkpoint, supervisor và output. Frontier tiếp theo không phải model thông minh thêm 20%, mà là một người điều phối được bao nhiêu agent-hour thành kết…"
+      },
+      {
         "path": "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
         "title": "Vũ Khí Năng Lượng Định Hướng",
         "domain": "science-tech",
@@ -16305,50 +16395,6 @@
         "summary": "**Antikythera là bằng chứng mạnh rằng cổ nhân có thiên văn cơ học tinh vi hơn narrative phổ thông từng dạy. Nhưng nó không tự động “chứng minh Địa Tâm là thật”; nó chứng minh rằng một mô hình bầu trời nhìn từ Trái Đất có thể được mã hóa cơ khí với độ phức tạp…"
       },
       {
-        "path": "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-        "title": "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
-        "domain": "science-tech",
-        "tags": [
-          "agenda-2030",
-          "ai",
-          "generation",
-          "psychology",
-          "science-tech",
-          "transhumanism"
-        ],
-        "aliases": [
-          "Biohacking",
-          "Cyborg",
-          "Human Enhancement",
-          "Human Upgrade",
-          "Neuralink",
-          "Transhumanism"
-        ],
-        "headings": [
-          "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
-          "Evidence Discipline / Cach Doc Claim",
-          "Từ Khóa Cần Hiểu",
-          "Gen Z Đã Là Cyborg Mềm",
-          "Body Data Là Privacy Frontier Cuối",
-          "Enhancement Inequality",
-          "AI Merger",
-          "Sovereign Tech vs Captive Tech"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [
-          "index.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Gen Z - Phân Tích Phản Biện.md",
-          "MOC - Science Revisionism.md",
-          "science-tech/index.md",
-          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
-        ],
-        "words": 930,
-        "summary": "**Transhumanism được bán như tự do nâng cấp bản thân. Nhưng nếu hạ tầng nâng cấp nằm trong tay Big Tech, military, insurance, employer và state, câu hỏi không còn là “con người có nên mạnh hơn không?” Câu hỏi là: ai sở hữu layer nằm giữa cơ thể, tâm trí và má…"
-      },
-      {
         "path": "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "title": "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "domain": "science-tech",
@@ -16391,10 +16437,55 @@
         "backlinks": [
           "index.md",
           "MOC - Science Revisionism.md",
+          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
           "science-tech/index.md"
         ],
         "words": 3340,
         "summary": "**Bản quyền thắng người dùng lậu. Nhưng nó chưa chắc thắng được cái máy học từ tất cả mọi người.**"
+      },
+      {
+        "path": "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+        "title": "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+        "domain": "science-tech",
+        "tags": [
+          "agenda-2030",
+          "ai",
+          "generation",
+          "psychology",
+          "science-tech",
+          "transhumanism"
+        ],
+        "aliases": [
+          "Biohacking",
+          "Cyborg",
+          "Human Enhancement",
+          "Human Upgrade",
+          "Neuralink",
+          "Transhumanism"
+        ],
+        "headings": [
+          "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+          "Evidence Discipline / Cach Doc Claim",
+          "Từ Khóa Cần Hiểu",
+          "Gen Z Đã Là Cyborg Mềm",
+          "Body Data Là Privacy Frontier Cuối",
+          "Enhancement Inequality",
+          "AI Merger",
+          "Sovereign Tech vs Captive Tech"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [
+          "index.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Gen Z - Phân Tích Phản Biện.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/index.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
+        ],
+        "words": 930,
+        "summary": "**Transhumanism được bán như tự do nâng cấp bản thân. Nhưng nếu hạ tầng nâng cấp nằm trong tay Big Tech, military, insurance, employer và state, câu hỏi không còn là “con người có nên mạnh hơn không?” Câu hỏi là: ai sở hữu layer nằm giữa cơ thể, tâm trí và má…"
       }
     ]
   },
@@ -16446,6 +16537,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "August 15, 2026",
         "July 18, 2026",
         "July 15, 2026",
         "July 13, 2026",
@@ -16510,6 +16602,7 @@
         "Gematria",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
         "Giàu Không Phải Để Vợ Không Làm Gì",
         "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
@@ -16775,6 +16868,7 @@
         "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/index.md",
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
@@ -16796,7 +16890,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 5484,
+      "words": 5611,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -17303,6 +17397,7 @@
         "esoterica/index",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
         "Giàu Không Phải Để Vợ Không Làm Gì",
         "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
@@ -17398,6 +17493,7 @@
         "politics-conspiracy/index.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "science-tech/AI.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
       ],
@@ -17409,7 +17505,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1926,
+      "words": 1975,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
@@ -18765,99 +18861,6 @@
       "summary": "**Agenda 2030 không cần được đọc như một âm mưu cartoon. Nó đáng đọc như một hệ điều hành quản trị đang hiện hình qua các mảnh tưởng như rời rạc: khí hậu, y tế, tiền tệ số, danh tính số, thành phố thông minh, dữ liệu hành vi, ESG, AI governance và ngôn ngữ đạ…"
     },
     {
-      "path": "MOC - Science Revisionism.md",
-      "title": "MOC - Science Revisionism",
-      "domain": "root",
-      "tags": [
-        "moc",
-        "revisionist-science",
-        "science-tech"
-      ],
-      "aliases": [],
-      "headings": [
-        "MOC - Science Revisionism",
-        "How To Read This Map",
-        "Start Here",
-        "Cosmology & Physics",
-        "Technology & Control",
-        "Biology & Medicine Interface",
-        "Source Discipline",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "AI",
-        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-        "Khoa Học Xét Lại",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "MOC - Epistemology & Propaganda",
-        "MOC - Health Sovereignty",
-        "Mô Hình Địa Tâm",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nikola Tesla",
-        "Năng Lượng Aether",
-        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
-        "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
-        "Thuyết Trái Đất Phẳng",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
-        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
-        "Vũ Khí Năng Lượng Định Hướng"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Health Sovereignty.md",
-        "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
-        "science-tech/AI.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md",
-        "science-tech/Năng Lượng Aether.md",
-        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-      ],
-      "backlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/index.md",
-        "esoterica/Năng Lượng Natri.md",
-        "health/index.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "index.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Operation Paperclip.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md",
-        "science-tech/Pin Natri-ion.md",
-        "science-tech/Tần Số Schumann.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-        "science-tech/Walter Russell.md"
-      ],
-      "words": 665,
-      "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
-    },
-    {
       "path": "MOC - Financial Sovereignty.md",
       "title": "MOC - Financial Sovereignty",
       "domain": "root",
@@ -18889,6 +18892,7 @@
         "Cách Đọc Red Pill Wiki",
         "Digital ID Normalization - From Instagram to Government ID",
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
         "MOC - Market Psychology & Risk",
@@ -18927,7 +18931,8 @@
         "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "MOC - Market Psychology & Risk.md",
         "politics-conspiracy/Báo Cáo 2030.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md"
       ],
       "backlinks": [
         "crypto-finance/Cantillon Effect - Ai Đứng Gần Vòi Tiền.md",
@@ -18947,9 +18952,10 @@
         "MOC - Market Psychology & Risk.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/index.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 1139,
+      "words": 1167,
       "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
     },
     {
@@ -18988,10 +18994,12 @@
         "Bão Từ Bắc Cực vs Bão Mặt Trời",
         "Bộ Não Rỗng và AI Brain Rot",
         "Cách Đọc Red Pill Wiki",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
         "Cỗ Máy Antikythera và Minh Chứng Địa Tâm",
         "Digital ID Normalization - From Instagram to Government ID",
         "esoterica/index",
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
         "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
         "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
         "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
@@ -19029,6 +19037,7 @@
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
         "mental-models/Mô Hình Địa Tâm.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "MOC - Ancient Civilizations & Hidden History.md",
@@ -19043,6 +19052,7 @@
         "science-tech/AI.md",
         "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -19065,8 +19075,103 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1049,
+      "words": 1117,
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
+    },
+    {
+      "path": "MOC - Science Revisionism.md",
+      "title": "MOC - Science Revisionism",
+      "domain": "root",
+      "tags": [
+        "moc",
+        "revisionist-science",
+        "science-tech"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Science Revisionism",
+        "How To Read This Map",
+        "Start Here",
+        "Cosmology & Physics",
+        "Technology & Control",
+        "Biology & Medicine Interface",
+        "Source Discipline",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "AI",
+        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Cách Đọc Red Pill Wiki",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
+        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+        "Khoa Học Xét Lại",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "MOC - Epistemology & Propaganda",
+        "MOC - Health Sovereignty",
+        "Mô Hình Địa Tâm",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nikola Tesla",
+        "Năng Lượng Aether",
+        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
+        "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
+        "Thuyết Trái Đất Phẳng",
+        "Thuyết Vi Sinh Nội Sinh",
+        "Thuốc Hóa Dầu",
+        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+        "Vũ Khí Năng Lượng Định Hướng"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Health Sovereignty.md",
+        "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
+        "science-tech/AI.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Năng Lượng Aether.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
+        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+      ],
+      "backlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/index.md",
+        "esoterica/Năng Lượng Natri.md",
+        "health/index.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "index.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Operation Paperclip.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "science-tech/index.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Pin Natri-ion.md",
+        "science-tech/Tần Số Schumann.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
+        "science-tech/Walter Russell.md"
+      ],
+      "words": 691,
+      "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
     },
     {
       "path": "esoterica/Monad.md",
@@ -20401,7 +20506,8 @@
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Thế Hệ Lọt Khe.md",
         "MOC - Financial Sovereignty.md",
-        "politics-conspiracy/index.md"
+        "politics-conspiracy/index.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md"
       ],
       "words": 946,
       "summary": "**UBI không chỉ là câu hỏi kinh tế “ai trả tiền?”. Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
@@ -20503,7 +20609,7 @@
     ],
     [
       "science-tech",
-      34
+      35
     ],
     [
       "consciousness",
@@ -20538,12 +20644,12 @@
       13
     ],
     [
-      "mental-models",
+      "sovereignty",
       12
     ],
     [
-      "sovereignty",
-      11
+      "mental-models",
+      12
     ],
     [
       "hidden-history",
@@ -20574,6 +20680,10 @@
       8
     ],
     [
+      "ai",
+      8
+    ],
+    [
       "energy",
       8
     ],
@@ -20600,10 +20710,6 @@
     [
       "revisionist-science",
       8
-    ],
-    [
-      "ai",
-      7
     ],
     [
       "moc",
@@ -20850,6 +20956,10 @@
       2
     ],
     [
+      "labor",
+      2
+    ],
+    [
       "education",
       2
     ],
@@ -20891,10 +21001,6 @@
     ],
     [
       "cantillon-effect",
-      1
-    ],
-    [
-      "inflation",
       1
     ]
   ],
@@ -21530,6 +21636,7 @@
         "Cách Đọc Red Pill Wiki",
         "Digital ID Normalization - From Instagram to Government ID",
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
         "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
         "MOC - Market Psychology & Risk",
@@ -21568,7 +21675,8 @@
         "mental-models/UBI Conditioning - The End of Work Ethic.md",
         "MOC - Market Psychology & Risk.md",
         "politics-conspiracy/Báo Cáo 2030.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md"
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md"
       ],
       "backlinks": [
         "crypto-finance/Cantillon Effect - Ai Đứng Gần Vòi Tiền.md",
@@ -21588,9 +21696,10 @@
         "MOC - Market Psychology & Risk.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/index.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 1139,
+      "words": 1167,
       "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
     },
     "MOC - Health Sovereignty.md": {
@@ -21796,6 +21905,7 @@
         "Bộ Não Rỗng và AI Brain Rot",
         "Cách Đọc Red Pill Wiki",
         "Digital ID Normalization - From Instagram to Government ID",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
         "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
         "Khoa Học Xét Lại",
         "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
@@ -21829,6 +21939,7 @@
         "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Nikola Tesla.md",
@@ -21859,7 +21970,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
         "science-tech/Walter Russell.md"
       ],
-      "words": 665,
+      "words": 691,
       "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
     },
     "README.md": {
@@ -30806,6 +30917,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "August 15, 2026",
         "July 18, 2026",
         "July 15, 2026",
         "July 13, 2026",
@@ -30870,6 +30982,7 @@
         "Gematria",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
         "Giàu Không Phải Để Vợ Không Làm Gì",
         "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
@@ -31135,6 +31248,7 @@
         "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/index.md",
         "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
@@ -31156,7 +31270,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 5484,
+      "words": 5611,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -31385,6 +31499,7 @@
         "MOC - Science Revisionism.md",
         "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "science-tech/index.md"
       ],
       "words": 2756,
@@ -31620,7 +31735,9 @@
       "backlinks": [
         "index.md",
         "mental-models/index.md",
-        "mental-models/Luân Hồi Trên Home Screen.md"
+        "mental-models/Luân Hồi Trên Home Screen.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
+        "science-tech/index.md"
       ],
       "words": 2160,
       "summary": "Một thời gian dài, xã hội đo con người bằng output. Bạn viết được gì. Bạn thiết kế được gì. Bạn code được gì. Bạn phân tích được gì. Bạn làm nhạc, làm video, làm slide, làm proposal, làm báo cáo, làm content nhanh đến đâu. Output là bằng chứng. Output là danh…"
@@ -33768,7 +33885,8 @@
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Thế Hệ Lọt Khe.md",
         "MOC - Financial Sovereignty.md",
-        "politics-conspiracy/index.md"
+        "politics-conspiracy/index.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md"
       ],
       "words": 946,
       "summary": "**UBI không chỉ là câu hỏi kinh tế “ai trả tiền?”. Nó là câu hỏi tâm lý và quyền lực: nếu income bị tách khỏi work, ownership bị thay bằng access, và payment rail là programmable, thì con người tự do hơn hay phụ thuộc hơn?**"
@@ -33969,6 +34087,7 @@
         "esoterica/index",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
         "Giàu Không Phải Để Vợ Không Làm Gì",
         "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
         "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
@@ -34064,6 +34183,7 @@
         "politics-conspiracy/index.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "science-tech/AI.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
       ],
@@ -34075,7 +34195,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1926,
+      "words": 1975,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
@@ -36071,6 +36191,7 @@
       "backlinks": [
         "index.md",
         "MOC - Science Revisionism.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "science-tech/index.md"
       ],
       "words": 3340,
@@ -36130,6 +36251,7 @@
         "mental-models/index.md",
         "MOC - Science Revisionism.md",
         "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/index.md",
         "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
@@ -36246,6 +36368,77 @@
       ],
       "words": 867,
       "summary": "**Digital ID không xuất hiện từ hư không. Nó đi sau một quá trình dài nơi con người tự nguyện biến mình thành profile: tên thật, mặt thật, location, social graph, reputation, behavior, preference. Government ID wallet chỉ là bước formal hóa thứ platform đã no…"
+    },
+    "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md": {
+      "path": "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
+      "title": "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
+      "domain": "science-tech",
+      "tags": [
+        "agents",
+        "ai",
+        "labor",
+        "ownership",
+        "productivity",
+        "science-tech",
+        "sovereignty",
+        "synthetic-labor"
+      ],
+      "aliases": [
+        "Giai Cấp Lao Động Tổng Hợp",
+        "Synthetic Labor Class",
+        "Synthetic Labor Efficiency",
+        "Đội Quân Không Ngủ"
+      ],
+      "headings": [
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
+        "Source Discipline / Cách Đọc",
+        "1. Synthetic Labor Là Gì?",
+        "2. Từ Headcount Sang Agent-Hours",
+        "3. Reliability Là Biên Giới Thật",
+        "4. Đội Quân Không Ngủ Thuộc Về Ai?",
+        "5. One-Person Firm Paradox",
+        "6. Junior Ladder Có Thể Bị Rút Mất",
+        "7. Khi Labor Rẻ, Judgment Trở Thành Tài Sản Khan Hiếm",
+        "8. Synthetic Proletariat Và Golem",
+        "9. UBI Hay Quyền Sở Hữu?",
+        "10. Sovereign Response / Cách Không Trở Thành Phần Thừa",
+        "1. Own context",
+        "2. Own verification",
+        "3. Own distribution",
+        "4. Own small productive assets",
+        "5. Keep human judgment alive",
+        "11. Synthetic Labor Efficiency: Scorecard Thực Dụng",
+        "Kết Luận / Synthesis",
+        "Reading Path / Đọc Tiếp",
+        "Sources / Nguồn Chính",
+        "Note On Updating Claims"
+      ],
+      "wikilinks": [
+        "AI",
+        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
+        "MOC - Financial Sovereignty",
+        "UBI Conditioning - The End of Work Ethic"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "MOC - Financial Sovereignty.md",
+        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
+        "science-tech/AI.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Financial Sovereignty.md",
+        "MOC - Science Revisionism.md",
+        "science-tech/index.md"
+      ],
+      "words": 3860,
+      "summary": "**Synthetic labor không chỉ là “AI tools”. Nó là một labor system mới: có memory, role, workflow, budget, checkpoint, supervisor và output. Frontier tiếp theo không phải model thông minh thêm 20%, mà là một người điều phối được bao nhiêu agent-hour thành kết…"
     },
     "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md": {
       "path": "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
@@ -37184,10 +37377,12 @@
         "Bão Từ Bắc Cực vs Bão Mặt Trời",
         "Bộ Não Rỗng và AI Brain Rot",
         "Cách Đọc Red Pill Wiki",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
         "Cỗ Máy Antikythera và Minh Chứng Địa Tâm",
         "Digital ID Normalization - From Instagram to Government ID",
         "esoterica/index",
         "Gen Z và CBDC - Programmable Money Psychology",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
         "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
         "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
         "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
@@ -37225,6 +37420,7 @@
         "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
         "index.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
         "mental-models/Mô Hình Địa Tâm.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "MOC - Ancient Civilizations & Hidden History.md",
@@ -37239,6 +37435,7 @@
         "science-tech/AI.md",
         "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
@@ -37261,7 +37458,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1049,
+      "words": 1117,
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
     }
   }

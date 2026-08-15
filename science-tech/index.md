@@ -70,9 +70,11 @@ Orientation: technology now shapes perception before argument begins. This route
 1. [[AI]] — establish the machine-intelligence frame.
 2. [[Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]] — read AI as civilizational and spiritual test.
 3. [[Bộ Não Rỗng và AI Brain Rot]] — track cognitive offloading.
-4. [[AI Và Cái Chết Của Bản Quyền Công Nghiệp]] — follow AI into copyright, ownership and the generation economy.
-5. [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — see worldview shaping at feed level.
-6. [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]] — follow upgrade culture into governance.
+4. [[Cái Gì Trong Bạn Không Thể Bị Model Hóa]] — identify human scarcity after output collapse.
+5. [[Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ]] — follow AI from tool to labor stack, then ask who owns the productivity surplus.
+6. [[AI Và Cái Chết Của Bản Quyền Công Nghiệp]] — follow AI into copyright, ownership and the generation economy.
+7. [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — see worldview shaping at feed level.
+8. [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]] — follow upgrade culture into governance.
 
 ### 5. Cosmology Path — Sky, Earth, Instruments
 
@@ -109,6 +111,7 @@ Orientation: use this when tech becomes governance and medicine. The route shows
 
 - [[Khoa Học Xét Lại]] — foundational method and warning label.
 - [[AI]] — intelligence, agency and the machine mirror.
+- [[Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ]] — synthetic labor efficiency, ownership architecture and the productivity surplus.
 - [[AI Và Cái Chết Của Bản Quyền Công Nghiệp]] — copyright, ownership and generation economy under AI.
 - [[Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]] — AI as spiritual and civilizational test.
 - [[Nikola Tesla]] — suppressed-tech archetype and real inventor history.

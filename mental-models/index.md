@@ -116,10 +116,11 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 
 1. [[Bộ Não Rỗng và AI Brain Rot]] — diagnose cognitive offload.
 2. [[Cái Gì Trong Bạn Không Thể Bị Model Hóa]] — ask what remains valuable after AI makes output cheap.
-3. [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — study algorithmic worldview shaping.
-4. [[AI]] — place machine intelligence in the larger agency question.
-5. [[Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]] — read AI as civilizational and spiritual test.
-6. [[Thông Minh vs Trí Tuệ]] — return to wisdom as the final filter.
+3. [[Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ]] — turn cheap output into a question of verification, ownership and human attention.
+4. [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — study algorithmic worldview shaping.
+5. [[AI]] — place machine intelligence in the larger agency question.
+6. [[Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]] — read AI as civilizational and spiritual test.
+7. [[Thông Minh vs Trí Tuệ]] — return to wisdom as the final filter.
 
 ---
 
@@ -142,6 +143,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]] — education-to-work pipeline, income-tier pain architecture and Loosh extraction.
 - [[Bộ Não Rỗng và AI Brain Rot]] — cognitive offloading and agency collapse.
 - [[Cái Gì Trong Bạn Không Thể Bị Model Hóa]] — human value after AI-driven output collapse.
+- [[Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ]] — verified output, judgment scarcity and synthetic labor sovereignty.
 - [[Thông Minh vs Trí Tuệ]] — why cleverness can still serve the Matrix.
 - [[Tâm Lý Học Tiến Hóa Về Giới Tính]] — high-risk sex/gender psychology lens; read with claim discipline, not as identity war.
 - [[Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học]] — marriage, contraception, abortion-politics and endocrine disruption without misogyny or fake medical certainty.

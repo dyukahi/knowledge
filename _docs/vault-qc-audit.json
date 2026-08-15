@@ -1,12 +1,12 @@
 {
   "summary": {
-    "public_notes": 215,
-    "avg_words": 1618,
+    "public_notes": 222,
+    "avg_words": 1729,
     "missing_description": 0,
-    "missing_aliases": 23,
+    "missing_aliases": 22,
     "thin_lt800": 25,
     "duplicate_titles": 0,
-    "mobile_hostile_code": 1,
+    "mobile_hostile_code": 2,
     "horizontal_chain": 25,
     "textblock_candidates": 31,
     "broken_links": 0,
@@ -25,7 +25,6 @@
       "crypto-finance/Giàu Không Nhờ May Mắn.md",
       "esoterica/Gaia - Trái Đất Có Ý Thức.md",
       "esoterica/Thuật Giả Kim Của Newton.md",
-      "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
       "esoterica/Thánh Issa.md",
       "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
       "esoterica/Tartaria.md",
@@ -42,7 +41,7 @@
     "thin_lt800": [
       {
         "path": "MOC - Esoterica & Consciousness.md",
-        "words": 662
+        "words": 714
       },
       {
         "path": "MOC - Ancient Civilizations & Hidden History.md",
@@ -50,11 +49,11 @@
       },
       {
         "path": "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-        "words": 572
+        "words": 579
       },
       {
         "path": "MOC - Science Revisionism.md",
-        "words": 612
+        "words": 691
       },
       {
         "path": "MOC - Health Sovereignty.md",
@@ -143,6 +142,7 @@
     ],
     "duplicate_titles": [],
     "mobile_hostile_code": [
+      "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
       "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md"
     ],
     "horizontal_chain": [

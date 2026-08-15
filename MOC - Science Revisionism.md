@@ -51,6 +51,7 @@ Cosmology không chỉ nói vũ trụ trông thế nào. Nó định nghĩa con 
 ## Technology & Control
 
 - [[AI]] — intelligence, automation và epistemic dependency.
+- [[Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ]] — AI agents như labor stack, compute ownership, verification và synthetic labor sovereignty.
 - [[AI Và Cái Chết Của Bản Quyền Công Nghiệp]] — AI, copyright, ownership và generation economy.
 - [[Bộ Não Rỗng và AI Brain Rot]] — cognitive offloading và mất agency.
 - [[Vũ Khí Năng Lượng Định Hướng]] — directed energy, military tech và plausible deniability.

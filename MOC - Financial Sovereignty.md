@@ -86,6 +86,7 @@ Bitcoin là exit door, nhưng exit door không tự động cứu người khôn
 - [[Cantillon Effect - Ai Đứng Gần Vòi Tiền]] — sequence của tiền mới: first receivers, asset repricing, wage lag và scenario programmable distribution.
 - [[Gen Z và CBDC - Programmable Money Psychology]] — programmable money như conditioning pipeline.
 - [[UBI Conditioning - The End of Work Ethic]] — allowance/dependency rails trong AI economy.
+- [[Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ]] — vì sao income transfer không thay thế ownership trong nền kinh tế synthetic labor.
 
 Fiat không chỉ là tiền mất giá. Nó là hệ thống kéo tương lai về hiện tại, rồi bắt con người sống trong debt-time.
 
