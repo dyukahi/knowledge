@@ -4,7 +4,10 @@ import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/re
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
-import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+import type { Element, Root } from "hast"
+
+const SITE_DESCRIPTION =
+  "Red Pill Wiki là kho tri thức độc lập về tư duy phản biện, chủ quyền cá nhân, lịch sử, khoa học, tài chính và ý thức."
 
 function cleanBaseUrl(baseUrl: string | undefined): string {
   const configured = baseUrl ?? "redpill.wiki"
@@ -39,17 +42,38 @@ function schemaTypeFor(fileData: QuartzComponentProps["fileData"]): "WebSite" | 
   return isCollection ? "CollectionPage" : "BlogPosting"
 }
 
+function firstArticleImage(tree: Root, canonicalUrl: string): string | undefined {
+  const queue = [...tree.children]
+  while (queue.length > 0) {
+    const node = queue.shift()
+    if (!node || node.type !== "element") continue
+    const element = node as Element
+    if (element.tagName === "img") {
+      const src = String(element.properties?.src ?? "")
+      if (src && !src.startsWith("data:") && !/\.(?:svg)(?:[?#]|$)/i.test(src)) {
+        try {
+          const resolved = new URL(src, canonicalUrl)
+          if (resolved.protocol === "http:" || resolved.protocol === "https:") return resolved.href
+        } catch {
+          // Ignore malformed image URLs and continue to the next representative image.
+        }
+      }
+    }
+    queue.unshift(...element.children)
+  }
+  return undefined
+}
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
     fileData,
+    tree,
     externalResources,
-    ctx,
   }: QuartzComponentProps) => {
-    const titleSuffix = cfg.pageTitleSuffix ?? ""
-    const title =
-      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
     const plainTitle = String(fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title)
+    const titleSuffix = cfg.pageTitleSuffix ?? ""
+    const title = (plainTitle + titleSuffix).length <= 65 ? plainTitle + titleSuffix : plainTitle
     const description =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
@@ -65,10 +89,9 @@ export default (() => {
 
     const canonicalUrl = pageUrl(normalizedBaseUrl, fileData.slug)
     const socialUrl = canonicalUrl
+    const slug = String(fileData.slug ?? "")
+    const isTagPage = slug === "tags" || slug.startsWith("tags/")
 
-    const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
-      (e) => e.name === CustomOgImagesEmitterName,
-    )
     const ogImageDefaultPath = `https://${normalizedBaseUrl}/static/og-image.png`
 
     const schemaType = schemaTypeFor(fileData)
@@ -80,9 +103,11 @@ export default (() => {
       "@id": `https://${normalizedBaseUrl}/#website`,
       url: `https://${normalizedBaseUrl}/`,
       name: cfg.pageTitle,
-      description,
+      description: SITE_DESCRIPTION,
       inLanguage: cfg.locale,
     })
+    const articleImage = firstArticleImage(tree, canonicalUrl) ?? ogImageDefaultPath
+    const socialImage = schemaType === "BlogPosting" ? articleImage : ogImageDefaultPath
     const pageSchema = schemaType === "WebSite" ? websiteSchema : compactObject({
       "@context": "https://schema.org",
       "@type": schemaType,
@@ -95,7 +120,7 @@ export default (() => {
       inLanguage: cfg.locale,
       datePublished: published,
       dateModified: modified ?? published,
-      image: ogImageDefaultPath,
+      image: schemaType === "BlogPosting" ? articleImage : ogImageDefaultPath,
     })
     const jsonLd = JSON.stringify(schemaType === "WebSite" ? websiteSchema : [websiteSchema, pageSchema])
 
@@ -117,28 +142,25 @@ export default (() => {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         <link rel="canonical" href={canonicalUrl} />
+        {isTagPage && <meta name="robots" content="noindex,follow" />}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLd }} />
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content={schemaType === "BlogPosting" ? "article" : "website"} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta property="og:description" content={description} />
         <meta property="og:image:alt" content={description} />
 
-        {!usesCustomOgImage && (
-          <>
-            <meta property="og:image" content={ogImageDefaultPath} />
-            <meta property="og:image:url" content={ogImageDefaultPath} />
-            <meta name="twitter:image" content={ogImageDefaultPath} />
-            <meta
-              property="og:image:type"
-              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
-            />
-          </>
-        )}
+        <meta property="og:image" content={socialImage} />
+        <meta property="og:image:url" content={socialImage} />
+        <meta name="twitter:image" content={socialImage} />
+        <meta
+          property="og:image:type"
+          content={`image/${getFileExtension(new URL(socialImage).pathname) ?? "png"}`}
+        />
 
         {cfg.baseUrl && (
           <>

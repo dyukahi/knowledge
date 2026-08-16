@@ -39,7 +39,6 @@ jobs:
           rm -rf quartz/content/*
           cp -r content/* quartz/content/
           if [ -f content/quartz.config.ts ]; then cp content/quartz.config.ts quartz/quartz.config.ts; fi
-          if [ -d content/assets ]; then cp -r content/assets quartz/content/; fi
           if [ -f quartz/content/README.md ] && [ ! -f quartz/content/index.md ]; then
             cp quartz/content/README.md quartz/content/index.md
           fi
@@ -56,6 +55,9 @@ jobs:
         working-directory: ./quartz
         run: npx quartz build
 
+      - name: Enforce optimized illustration sources
+        run: python3 content/scripts/optimize-images.py --check
+
       - name: Patch accessibility output
         run: node content/scripts/patch-quartz-a11y.mjs quartz/public
 
@@ -69,7 +71,7 @@ jobs:
           cat > quartz/content/vault-graph.md <<'EOF'
           ---
           title: "Vault Graph"
-          description: "Native Quartz graph visualization for redpill.wiki."
+          description: "Khám phá bản đồ liên kết tri thức nguyên bản của redpill.wiki, kết nối các chủ đề, bài viết và cụm nghiên cứu trong toàn bộ vault."
           tags: [meta, graph]
           ---
           # Vault Graph
@@ -90,6 +92,11 @@ jobs:
           body:has(.graph) .graph > .global-graph-outer > .global-graph-container { width: 92vw; height: 86vh; }
           EOF
           node content/scripts/rewrite-native-graph-assets.mjs quartz/public/vault-graph.html
+
+      - name: Reserve image dimensions and validate built SEO
+        run: |
+          node content/scripts/patch-built-image-dimensions.mjs quartz/public
+          node content/scripts/validate-built-site.mjs quartz/public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
