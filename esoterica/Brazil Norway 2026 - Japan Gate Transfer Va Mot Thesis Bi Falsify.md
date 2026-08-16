@@ -30,7 +30,7 @@ related:
 
 ---
 
-![World Cup 26 như một collective field ritual](../assets/illustrations/brazil-2026-collective-field.png)
+![World Cup 26 như một collective field ritual](../assets/illustrations/brazil-2026-collective-field.webp)
 
 ## Post-Mortem — 12/7/2026: Norway Thua England
 
@@ -78,7 +78,7 @@ Nếu bỏ kỷ luật này, bài sẽ thành fanfic. Nếu giữ kỷ luật, n
 
 ---
 
-![Omen transfer: Japan gate, Brazil carrier, Norway inheritor](../assets/illustrations/brazil-2026-omen-transfer.png)
+![Omen transfer: Japan gate, Brazil carrier, Norway inheritor](../assets/illustrations/brazil-2026-omen-transfer.webp)
 
 ## Historical Snapshot — Norway Và Omen-Transfer Trước Tứ Kết
 
@@ -214,7 +214,7 @@ Hai case này dạy một rule: media hint tốt không nằm ở dự đoán k�
 
 ---
 
-![Calibration bằng dữ liệu: myth phải chịu audit của sân cỏ](../assets/illustrations/brazil-2026-data-calibration.png)
+![Calibration bằng dữ liệu: myth phải chịu audit của sân cỏ](../assets/illustrations/brazil-2026-data-calibration.webp)
 
 ## Calibration Bằng Dữ Liệu: Myth Không Được Bay Khỏi Sân Cỏ
 
@@ -305,7 +305,7 @@ Nếu Brazil là candidate ban đầu, đó là vì Brazil rất hợp với ng�
 
 ---
 
-![Chu kỳ 2002 đến 2026 như một vòng lặp Brazil return](../assets/illustrations/brazil-2026-cycle-2002-2026.png)
+![Chu kỳ 2002 đến 2026 như một vòng lặp Brazil return](../assets/illustrations/brazil-2026-cycle-2002-2026.webp)
 
 ## 2002 → 2026: Brazil Từ Người Nhận Signal Thành Carrier
 
@@ -320,7 +320,7 @@ Năm 2026, Brazil lại xuất hiện trong cùng pattern, nhưng vai đã đổ
 
 Nếu Norway vô địch, vòng lặp đẹp không phải “Brazil are back”. Vòng lặp đẹp là: Brazil từng nhận omen qua Japan-transfer, rồi 24 năm sau trở thành chính node chuyển omen cho một đội khác.
 
-![TRIONDA và three waves như một field không có mũi nhọn duy nhất](../assets/illustrations/brazil-2026-trionda-three-waves.png)
+![TRIONDA và three waves như một field không có mũi nhọn duy nhất](../assets/illustrations/brazil-2026-trionda-three-waves.webp)
 
 ## TRIONDA: Ba Làn Sóng Và Một Tournament Không Có Một Mũi Nhọn
 
@@ -352,7 +352,7 @@ Nói cách khác: số không cứu Brazil thesis. Route mới là thứ mở No
 
 ---
 
-![Brazil như một organism tập thể thay vì một celebrity savior](../assets/illustrations/brazil-2026-collective-organism.png)
+![Brazil như một organism tập thể thay vì một celebrity savior](../assets/illustrations/brazil-2026-collective-organism.webp)
 
 ## Brazil Layer: Không Cần Neymar Để Là Carrier
 
@@ -378,7 +378,7 @@ Với Brazil, kịch bản field myth từng đẹp nhất là nhiều người 
 
 ---
 
-![Creator culture và spectacle ritual quanh football internet](../assets/illustrations/brazil-2026-creator-spectacle.png)
+![Creator culture và spectacle ritual quanh football internet](../assets/illustrations/brazil-2026-creator-spectacle.webp)
 
 ## IShowSpeed, Brazil Flag Và Creator-Culture Omen
 
@@ -392,7 +392,7 @@ Không nên gọi đây là proof. Nó là omen ở tầng culture. Trong một 
 
 ---
 
-![Data pick và myth pick không luôn là một con đường](../assets/illustrations/brazil-2026-data-vs-myth.png)
+![Data pick và myth pick không luôn là một con đường](../assets/illustrations/brazil-2026-data-vs-myth.webp)
 
 ## Spain, England, Brazil, Norway: Data Pick Không Phải Myth Pick
 

@@ -16,7 +16,7 @@ related:
 ---
 # Ma Trận — Giải Phẫu Hoàn Chỉnh
 
-![Giải phẫu Ma Trận như một cơ thể nhiều lớp: thân thể, attention, gia đình, tiền, định chế, narrative và spiritual interface bao quanh một ngọn lửa bên trong](../assets/illustrations/matrix-anatomy/00-hero-system-stack.png)
+![Giải phẫu Ma Trận như một cơ thể nhiều lớp: thân thể, attention, gia đình, tiền, định chế, narrative và spiritual interface bao quanh một ngọn lửa bên trong](../assets/illustrations/matrix-anatomy/00-hero-system-stack.webp)
 
 **Nếu [[Ma Trận]] là bài cửa chính để hiểu Ma Trận như hệ điều hành của perception, thì bài này là bản mổ sâu: Ma Trận vận hành qua những lớp nào, các lớp đó nối với nhau ra sao, và vì sao một người có thể tưởng mình tự do trong khi phần lớn phản ứng, ham muốn, sợ hãi và lựa chọn đã được chuẩn hóa từ trước.**
 
@@ -55,7 +55,7 @@ Không cần làm họ yếu ngay từ đầu. Chỉ cần khiến họ đồng 
 
 ## Layer 1: Body Matrix — Cơ Thể Bị Làm Mờ
 
-![Vòng lặp thân thể mệt mỏi, ánh sáng điện thoại vỡ vụn, bàn ăn gia đình bị rút ấm áp và ngọn lửa tim người bị kéo bằng những sợi vô hình](../assets/illustrations/matrix-anatomy/01-body-attention-care-loop.png)
+![Vòng lặp thân thể mệt mỏi, ánh sáng điện thoại vỡ vụn, bàn ăn gia đình bị rút ấm áp và ngọn lửa tim người bị kéo bằng những sợi vô hình](../assets/illustrations/matrix-anatomy/01-body-attention-care-loop.webp)
 
 Ma Trận đầu tiên đi qua thân thể.
 
@@ -117,7 +117,7 @@ Một người mất family trust loop sẽ dễ bị platform, guru, ideology, 
 
 ## Layer 4: Money Matrix — Thời Gian Bị Đổi Thành Debt
 
-![Cỗ máy tiền, định chế và narrative với sổ cái, cột trụ, màn hình truyền thông, bánh răng thời gian và những chiếc mặt nạ chuẩn hóa](../assets/illustrations/matrix-anatomy/02-money-institution-narrative-machine.png)
+![Cỗ máy tiền, định chế và narrative với sổ cái, cột trụ, màn hình truyền thông, bánh răng thời gian và những chiếc mặt nạ chuẩn hóa](../assets/illustrations/matrix-anatomy/02-money-institution-narrative-machine.webp)
 
 Tài chính là một trong những lớp mạnh nhất vì nó chuyển hóa tương lai thành nghĩa vụ hiện tại.
 
@@ -186,7 +186,7 @@ War Matrix cần enemy. Nếu không có enemy bên ngoài, nó tạo enemy bên
 
 ## Layer 8: Spiritual Matrix — Tỉnh Thức Bị Bán Lại Như Sản Phẩm
 
-![Người tìm đạo nhìn vào chiếc gương phát sáng phản chiếu nhiều mặt nạ tâm linh và vòng xoáy rabbit hole, trong khi ngọn lửa thật nằm phía sau gương](../assets/illustrations/matrix-anatomy/03-spiritual-false-awakening-mirror.png)
+![Người tìm đạo nhìn vào chiếc gương phát sáng phản chiếu nhiều mặt nạ tâm linh và vòng xoáy rabbit hole, trong khi ngọn lửa thật nằm phía sau gương](../assets/illustrations/matrix-anatomy/03-spiritual-false-awakening-mirror.webp)
 
 Spiritual Matrix là lớp tinh vi nhất vì nó dùng ngôn ngữ giải thoát để giữ người tìm đạo trong một cái lồng đẹp hơn.
 
@@ -236,7 +236,7 @@ Memory layer quan trọng vì một người không biết mình từng là gì 
 
 ## Escape Path: Không Phá Một Tường, Mà Thu Hồi Nhiều Lớp Chủ Quyền
 
-![Một người bước ra khỏi mê cung feedback loop của mệt mỏi, điện thoại, nợ, cổng định chế và mặt nạ narrative, mang ngọn lửa bên trong về phía khu vườn bình minh](../assets/illustrations/matrix-anatomy/04-sovereignty-feedback-exit.png)
+![Một người bước ra khỏi mê cung feedback loop của mệt mỏi, điện thoại, nợ, cổng định chế và mặt nạ narrative, mang ngọn lửa bên trong về phía khu vườn bình minh](../assets/illustrations/matrix-anatomy/04-sovereignty-feedback-exit.webp)
 
 Thoát Ma Trận không phải một cú rage quit. Nó không phải ghét xã hội, ghét gia đình, ghét khoa học, ghét tiền, ghét thân thể, hay chạy theo mọi thuyết lạ. Thoát là quá trình thu hồi nhiều lớp chủ quyền.
 

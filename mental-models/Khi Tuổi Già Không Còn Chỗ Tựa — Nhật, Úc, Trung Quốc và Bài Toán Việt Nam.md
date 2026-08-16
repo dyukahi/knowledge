@@ -36,7 +36,7 @@ Nhật Bản cho thấy cái giá khi một thế hệ bị kẹt từ tuổi tr
 
 Đây không phải bảng xếp hạng quốc gia. Không nước nào là thiên đường để sao chép nguyên xi, cũng không nước nào là lời tiên tri chắc chắn cho Việt Nam. Bốn trường hợp là bốn tấm gương soi bốn loại hạ tầng khác nhau.
 
-![Bốn chân của một tuổi già có chỗ tựa: tiền, sức khỏe, chăm sóc và tình nghĩa](../assets/illustrations/aging-anchor-01-four-legged-chair.png)
+![Bốn chân của một tuổi già có chỗ tựa: tiền, sức khỏe, chăm sóc và tình nghĩa](../assets/illustrations/aging-anchor-01-four-legged-chair.webp)
 
 *Tuổi già không đứng vững bằng một chân duy nhất. Tiền mua được đường lui; sức khỏe giữ khả năng tự quyết; chăm sóc tạo tay vịn; tình nghĩa giữ một đời người khỏi biến thành mã hồ sơ.*
 
@@ -112,7 +112,7 @@ Nếu chỉ tăng tiền mà không tăng lực lượng chăm sóc, người gi
 
 ## 4. Nhật Bản: Khi Tuổi Già Bắt Đầu Từ Một Tuổi Trẻ Bị Đóng Băng
 
-![Một hành lang Nhật Bản kéo dài từ mùa tuyển dụng đóng băng đến bài toán 8050](../assets/illustrations/aging-anchor-02-japan-frozen-pipeline.png)
+![Một hành lang Nhật Bản kéo dài từ mùa tuyển dụng đóng băng đến bài toán 8050](../assets/illustrations/aging-anchor-02-japan-frozen-pipeline.webp)
 
 *Có những cuộc khủng hoảng tuổi già bắt đầu từ lần đầu một người bị loại khỏi đường ray việc làm khi mới ngoài hai mươi.*
 
@@ -145,7 +145,7 @@ Không nên lãng mạn hóa hay quỷ hóa kiểu hộ gia đình này. Có nh�
 
 ### “Chết một mình” cần được đọc với kỷ luật
 
-![Một căn hộ lưu giữ dấu vết của cả một đời người, phía ngoài là bàn tay hàng xóm cầm chìa khóa dự phòng](../assets/illustrations/aging-anchor-03-japan-solitary-home.png)
+![Một căn hộ lưu giữ dấu vết của cả một đời người, phía ngoài là bàn tay hàng xóm cầm chìa khóa dự phòng](../assets/illustrations/aging-anchor-03-japan-solitary-home.webp)
 
 *Con số của cảnh sát ghi lại hoàn cảnh phát hiện một thi thể; nó không thể kể thay toàn bộ lịch sử quan hệ của người đã mất.*
 
@@ -159,7 +159,7 @@ Dữ kiện đúng không làm mẫu hình nhẹ đi. Nó làm mẫu hình sắc
 
 ## 5. Úc: Khi Nhà Nước Bắt Tương Lai Phải Tiết Kiệm
 
-![Khối tài sản hưu trí khổng lồ phủ bóng lên một căn phòng nhỏ với chiếc ghế trống](../assets/illustrations/aging-anchor-04-australia-super-room.png)
+![Khối tài sản hưu trí khổng lồ phủ bóng lên một căn phòng nhỏ với chiếc ghế trống](../assets/illustrations/aging-anchor-04-australia-super-room.webp)
 
 *Tài sản tài chính có thể dựng một đường lui rất dài, nhưng không tự biến thành một người biết lúc nào căn phòng cần được gõ cửa.*
 
@@ -208,7 +208,7 @@ Một hệ thống hưu trí trưởng thành nên hỏi hai câu song song:
 
 ## 6. Trung Quốc: 4-2-1, 1,07 Tỷ Người Và Chiếc Đồng Hồ Nhân Khẩu
 
-![Bốn ông bà, hai cha mẹ và một người con quanh chiếc bàn chịu sức nặng của thời gian](../assets/illustrations/aging-anchor-05-china-421.png)
+![Bốn ông bà, hai cha mẹ và một người con quanh chiếc bàn chịu sức nặng của thời gian](../assets/illustrations/aging-anchor-05-china-421.webp)
 
 *4-2-1 không phải công thức cho mọi gia đình; nó là biểu tượng cô đọng của một nền chăm sóc có tán rộng nhưng thân ngày càng mảnh.*
 
@@ -259,7 +259,7 @@ Con số 1,07 tỷ người nghe gần như phổ quát, nhưng “được bao 
 
 ## 7. Việt Nam: Già Trước Khi Giàu, Gia Đình Trước Khi Có Hệ Thống
 
-![Thế hệ trung niên Việt Nam cùng lúc gánh công việc, con nhỏ, cha mẹ già và tương lai hưu trí của chính mình](../assets/illustrations/aging-anchor-06-vietnam-double-booked.png)
+![Thế hệ trung niên Việt Nam cùng lúc gánh công việc, con nhỏ, cha mẹ già và tương lai hưu trí của chính mình](../assets/illustrations/aging-anchor-06-vietnam-double-booked.webp)
 
 *Gia đình Việt Nam là một tài sản quan hệ lớn, nhưng tài sản nào bị ghi sổ hai lần mà không được tái đầu tư cũng sẽ cạn.*
 
@@ -327,7 +327,7 @@ Nhật mở rộng hỗ trợ nhóm thời kỳ băng giá việc làm và đo m
 
 ### Mẫu hình: chi phí không biến mất, nó chỉ chuyển cột
 
-![Một gánh nặng đi qua tiền hưu, giờ chăm sóc không lương, thuốc men và lịch sống của thế hệ sau](../assets/illustrations/aging-anchor-07-costs-move-columns.png)
+![Một gánh nặng đi qua tiền hưu, giờ chăm sóc không lương, thuốc men và lịch sống của thế hệ sau](../assets/illustrations/aging-anchor-07-costs-move-columns.webp)
 
 *Trong kinh tế chăm sóc, chi phí hiếm khi biến mất. Nó chỉ đổi người trả, đổi loại tiền hoặc đổi thành thời gian và sức khỏe.*
 
@@ -379,7 +379,7 @@ Nếu đo những thứ ấy, “hạ tầng cuối cùng” sẽ rời khỏi t
 
 ## 9. Bài Toán Việt Nam: Xây Bốn Chỗ Tựa Trước Khi Cửa Sổ Khép Lại
 
-![Một vòng tròn chăm sóc cộng đồng tại khu dân cư Việt Nam, nơi người già vẫn có quyền tự chủ và thuộc về](../assets/illustrations/aging-anchor-08-vietnam-community-care.png)
+![Một vòng tròn chăm sóc cộng đồng tại khu dân cư Việt Nam, nơi người già vẫn có quyền tự chủ và thuộc về](../assets/illustrations/aging-anchor-08-vietnam-community-care.webp)
 
 *Mô hình đối trọng không bắt gia đình tự gánh mọi thứ, cũng không giao toàn bộ tuổi già cho thị trường: tiền, chuyên môn, cộng đồng và tình nghĩa phải đứng cạnh nhau.*
 

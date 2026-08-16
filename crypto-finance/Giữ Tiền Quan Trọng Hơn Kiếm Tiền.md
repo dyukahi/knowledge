@@ -29,7 +29,7 @@ related:
 
 *Financial sovereignty does not begin with Bitcoin, macro thesis, or a winning trade. It begins with the ability not to destroy your capital, runway, nervous system, and optionality. In a system designed to hijack dopamine, status anxiety, FOMO, debt, and social comparison, keeping money is already a form of wisdom.*
 
-![Một người bình tĩnh giữ ngọn lửa nhỏ của thời gian và tiền bạc giữa quảng cáo neon, chart FOMO, mặt nạ xa xỉ và giấy nợ xoáy quanh](../assets/illustrations/money-discipline/00-hero-keeping-money.png)
+![Một người bình tĩnh giữ ngọn lửa nhỏ của thời gian và tiền bạc giữa quảng cáo neon, chart FOMO, mặt nạ xa xỉ và giấy nợ xoáy quanh](../assets/illustrations/money-discipline/00-hero-keeping-money.webp)
 
 Người ta thích nói về cách kiếm tiền vì kiếm tiền sexy. Giữ tiền nghe chán. Nhưng compounding không thưởng cho người thông minh nhất; nó thưởng cho người sống sót đủ lâu. Một người kiếm giỏi nhưng tự phá vốn liên tục chỉ là nhân viên cao cấp của dopamine economy.
 
@@ -63,7 +63,7 @@ Trong [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]], ngồi im 
 
 ## Runway Là Tài Sản Vô Hình
 
-![Một runway dài bằng các viên đá cashflow đi qua sương mù, hai bên là những cánh cửa optionality chưa mở](../assets/illustrations/money-discipline/01-runway-optionality.png)
+![Một runway dài bằng các viên đá cashflow đi qua sương mù, hai bên là những cánh cửa optionality chưa mở](../assets/illustrations/money-discipline/01-runway-optionality.webp)
 
 
 Runway là quãng thời gian bạn còn sống được mà không phải bán rẻ bản thân, nhận deal xấu, vay vội, panic sell hoặc xin phép người mình không muốn xin phép.
@@ -90,7 +90,7 @@ Vay để đầu tư là đòn bẩy. Vay để tiêu dùng cũng là đòn bẩ
 
 ## Sĩ Diện Là Hidden Leverage
 
-![Mặt nạ địa vị, thẻ tín dụng, túi mua sắm, chart leverage và đèn dopamine tạo thành xiềng xích vô hình quanh một người](../assets/illustrations/money-discipline/02-hidden-leverage-dopamine.png)
+![Mặt nạ địa vị, thẻ tín dụng, túi mua sắm, chart leverage và đèn dopamine tạo thành xiềng xích vô hình quanh một người](../assets/illustrations/money-discipline/02-hidden-leverage-dopamine.webp)
 
 
 Sĩ diện là margin account xã hội.

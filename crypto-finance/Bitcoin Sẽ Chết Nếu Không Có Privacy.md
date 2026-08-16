@@ -21,7 +21,7 @@ related:
 
 *Bitcoin can survive as a store of value without privacy for a while. But if it wants to be free money, it needs fungibility. And without privacy, there is no fungibility.*
 
-![Các đồng tiền số vàng giống hệt nhau đi vào cỗ máy chain surveillance tối, một số bị đánh dấu bằng bóng đen, biểu tượng của rủi ro fungibility](../assets/illustrations/bitcoin-privacy/00-hero-fungibility.png)
+![Các đồng tiền số vàng giống hệt nhau đi vào cỗ máy chain surveillance tối, một số bị đánh dấu bằng bóng đen, biểu tượng của rủi ro fungibility](../assets/illustrations/bitcoin-privacy/00-hero-fungibility.webp)
 
 “Bitcoin sẽ chết” ở đây là thesis sovereignty, không phải dự đoán giá ngắn hạn. Price có thể sống. Mission có thể chết.
 
@@ -51,7 +51,7 @@ Một money system mất fungibility sẽ tạo caste system cho tiền: coin s�
 
 ## Bitcoin Không Anonymous
 
-![Các vệt public ledger trong suốt nối tới bóng người và hồ sơ machine-readable, cảnh báo về KYC mapping và dossier tài chính](../assets/illustrations/bitcoin-privacy/01-public-ledger-dossier.png)
+![Các vệt public ledger trong suốt nối tới bóng người và hồ sơ machine-readable, cảnh báo về KYC mapping và dossier tài chính](../assets/illustrations/bitcoin-privacy/01-public-ledger-dossier.webp)
 
 
 Bitcoin là pseudonymous, không phải anonymous. Giao dịch on-chain public. KYC exchange nối identity thật với address. Chain analysis nối address clusters. Merchant/payment metadata leak thêm context. Reuse address lộ pattern. Social bragging lộ target. Một lần sai privacy có thể nối nhiều năm lịch sử.
@@ -64,7 +64,7 @@ Public ledger là sức mạnh vì ai cũng audit được nguồn cung. Nhưng 
 
 ## Dirty Bitcoin Problem
 
-![Hai đống coin số giống nhau bị chia bởi một cổng compliance vô hình thành nhóm sạch và bẩn, biểu tượng mất fungibility](../assets/illustrations/bitcoin-privacy/02-clean-dirty-coins.png)
+![Hai đống coin số giống nhau bị chia bởi một cổng compliance vô hình thành nhóm sạch và bẩn, biểu tượng mất fungibility](../assets/illustrations/bitcoin-privacy/02-clean-dirty-coins.webp)
 
 
 Nếu coin từng đi qua hack, darknet, sanctioned address, mixer hoặc activity bị gắn nhãn, sàn/merchant/custodian có thể từ chối. Khi đó history trở thành stigma.

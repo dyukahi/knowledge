@@ -16,7 +16,7 @@ related:
 ---
 # Chu Kỳ Vũ Trụ - Yugas & Kalpas
 
-![Ancient cosmic wheel turning through golden, silver, bronze and dark ages above ruined temples](../assets/illustrations/yugas-kalpas-cosmic-wheel.png)
+![Ancient cosmic wheel turning through golden, silver, bronze and dark ages above ruined temples](../assets/illustrations/yugas-kalpas-cosmic-wheel.webp)
 
 **Yugas & Kalpas là bản đồ thời gian như vòng xoắn: văn minh không chỉ tiến lên, mà đi qua mùa vàng, mùa bạc, mùa đồng, mùa sắt, rồi reset để nhớ lại thứ đã quên.**
 
@@ -41,7 +41,7 @@ Bài này thuộc tầng **mythic time + civilizational pattern**, không phải
 
 ## Vì Sao Nó Quan Trọng
 
-![A straight modern progress arrow cracking into a spiral timeline of lost civilizations](../assets/illustrations/yugas-progress-spiral.png)
+![A straight modern progress arrow cracking into a spiral timeline of lost civilizations](../assets/illustrations/yugas-progress-spiral.webp)
 
 Nếu lịch sử là đường thẳng tiến lên, quá khứ luôn primitive hơn hiện tại. Kim tự tháp chỉ là dây thừng và nô lệ. [[Atlantis]] chỉ là truyện. Giants chỉ là phóng đại. Ancient tech không thể tồn tại vì “họ chưa phát triển tới mức đó”.
 
@@ -59,7 +59,7 @@ Dù các con số truyền thống rất lớn, điểm cần giữ không phả
 
 ## Buddhist Kalpas: Thành, Trụ, Hoại, Không
 
-![A vast Buddhist cosmological ocean with worlds forming, enduring, burning, then resting in void](../assets/illustrations/yugas-kalpas-buddhist-cycle.png)
+![A vast Buddhist cosmological ocean with worlds forming, enduring, burning, then resting in void](../assets/illustrations/yugas-kalpas-buddhist-cycle.webp)
 
 Trong Phật giáo, Kalpa là đơn vị thời gian vũ trụ dài đến mức chỉ có thể nói bằng ẩn dụ. Một thế giới đi qua **Thành**, **Trụ**, **Hoại**, **Không**: hình thành, tồn tại, tan rã, rồi nghỉ trong hư không trước chu kỳ mới.
 
@@ -77,7 +77,7 @@ Vault không cần kết luận “tất cả giants là fact khảo cổ”. C�
 
 ## Atlantis, Lemuria, Reset Và Loosh
 
-![Survivors carrying star maps from a drowned crystal city toward new river civilizations](../assets/illustrations/yugas-atlantis-reset.png)
+![Survivors carrying star maps from a drowned crystal city toward new river civilizations](../assets/illustrations/yugas-atlantis-reset.webp)
 
 Nếu Yugas/Kalpas là lens đúng một phần, [[Atlantis]] có thể là ký ức về một reset trong chu kỳ lớn. [[Lemuria]] là memory mềm hơn: oceanic, intuitive, Gaia-aligned. [[Tartaria]] và mudflood lens đặt câu hỏi về reset gần hơn trong historical memory.
 

@@ -16,7 +16,7 @@ related:
 
 > "Nếu bạn kiểm soát được quá khứ, bạn kiểm soát được tương lai. Nếu bạn kiểm soát được hiện tại, bạn kiểm soát được quá khứ." — George Orwell, 1984
 
-![Các lớp khảo cổ với một nền văn minh cổ tiên tiến bị chôn dưới những trang timeline sách giáo khoa, như một audit về lịch sử bị chuẩn hóa](../assets/illustrations/hidden-evolution-civilizations/00-hero-buried-timeline.png)
+![Các lớp khảo cổ với một nền văn minh cổ tiên tiến bị chôn dưới những trang timeline sách giáo khoa, như một audit về lịch sử bị chuẩn hóa](../assets/illustrations/hidden-evolution-civilizations/00-hero-buried-timeline.webp)
 
 Năm 1859, Charles Darwin xuất bản "On the Origin of Species" và thay đổi vĩnh viễn cách nhân loại nhìn nhận bản thân. Từ đó, chúng ta được dạy rằng con người là sản phẩm của hàng triệu năm tiến hóa ngẫu nhiên, từ vi khuẩn đơn bào leo lên thành vượn, rồi từ vượn đứng thẳng thành người. Một câu chuyện đẹp. Một câu chuyện tiện lợi. Và có lẽ, một câu chuyện hoàn toàn sai.
 
@@ -49,7 +49,7 @@ Không dùng bài này như bằng chứng duy nhất để phủ định tiến
 
 ## Darwin - Người Hay Công Cụ?
 
-![Salon khoa học thời Victoria, bánh răng công nghiệp và sơ đồ nguồn gốc loài người biến thành cỗ máy narrative institution](../assets/illustrations/hidden-evolution-civilizations/01-darwin-narrative-machine.png)
+![Salon khoa học thời Victoria, bánh răng công nghiệp và sơ đồ nguồn gốc loài người biến thành cỗ máy narrative institution](../assets/illustrations/hidden-evolution-civilizations/01-darwin-narrative-machine.webp)
 
 
 ### Ai Đứng Sau Darwin?
@@ -110,7 +110,7 @@ Bộ gene của các loài cổ đại (như cá mút đá - lamprey) không đ�
 
 ## Forbidden Archaeology - Những Gì Họ Giấu
 
-![Các cổ vật không đúng timeline, megalith và ký ức đại hồng thủy nằm trong bóng kho lưu trữ bảo tàng](../assets/illustrations/hidden-evolution-civilizations/02-ooparts-reset-memory.png)
+![Các cổ vật không đúng timeline, megalith và ký ức đại hồng thủy nằm trong bóng kho lưu trữ bảo tàng](../assets/illustrations/hidden-evolution-civilizations/02-ooparts-reset-memory.webp)
 
 
 ### Out-of-Place Artifacts (OOPArts)

@@ -20,7 +20,7 @@ related:
 
 *There is a trap the mind cannot escape by thinking: every argument can find its opposite. Go deep enough into any framework and you meet its counter-framework. Try to win through argument alone and you enter an endless loop. The paradox of knowledge is this: the more tightly you cling to what you “understand”, the more it can block direct seeing.*
 
-![Một người đứng trong thư viện các bản đồ và luận điểm bay lơ lửng, mỗi bản đồ tự gập vào phản đề của nó dưới ánh sáng awareness như mặt trăng](../assets/illustrations/knowledge-paradox/00-hero-framework-collapse.png)
+![Một người đứng trong thư viện các bản đồ và luận điểm bay lơ lửng, mỗi bản đồ tự gập vào phản đề của nó dưới ánh sáng awareness như mặt trăng](../assets/illustrations/knowledge-paradox/00-hero-framework-collapse.webp)
 
 Bài này không nói “mọi thứ đều ngang nhau” hay “sự thật không tồn tại”. Đó là nihilism, không phải wisdom. Bài này nói một điều tinh hơn: mọi framework đều là bản đồ. Bản đồ có thể hữu ích, có thể sai, có thể đúng ở một tầng, sai ở tầng khác. Nhưng bản đồ không phải mặt đất. Ngón tay không phải mặt trăng.
 
@@ -46,7 +46,7 @@ Bài này nằm ở giao điểm của **epistemology + spiritual psychology + G
 
 ## Trap Của Nhị Nguyên
 
-![Hai sân khấu tranh luận đỏ và xanh đối diện nhau trong mê cung argument vô tận, còn một người quan sát đứng ngoài vòng lặp](../assets/illustrations/knowledge-paradox/01-duality-debate-loop.png)
+![Hai sân khấu tranh luận đỏ và xanh đối diện nhau trong mê cung argument vô tận, còn một người quan sát đứng ngoài vòng lặp](../assets/illustrations/knowledge-paradox/01-duality-debate-loop.webp)
 
 
 Mind thích chia reality thành A chống B. Đúng chống sai. Khoa học chống tâm linh. Mainstream chống conspiracy. Vật chất chống ý thức. Tự do chống kiểm soát. Faith chống reason. Red pill chống blue pill.
@@ -97,7 +97,7 @@ Nhưng có một cửa khác: cái thấy.
 
 ## Không Phải A Hay B, Mà Là Cái Thấy Cả A Và B
 
-![Con mắt tĩnh lặng phản chiếu thoughts, beliefs và frameworks tan vào bầu trời trong, biểu tượng của cái thấy vượt khỏi mind](../assets/illustrations/knowledge-paradox/02-seeing-beyond-mind.png)
+![Con mắt tĩnh lặng phản chiếu thoughts, beliefs và frameworks tan vào bầu trời trong, biểu tượng của cái thấy vượt khỏi mind](../assets/illustrations/knowledge-paradox/02-seeing-beyond-mind.webp)
 
 
 Nghịch lý của hiểu biết không được giải bằng một luận điểm mạnh hơn. Nó được giải bằng shift vị trí nhận thức.

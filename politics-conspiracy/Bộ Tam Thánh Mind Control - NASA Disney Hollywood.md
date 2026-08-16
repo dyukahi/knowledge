@@ -21,7 +21,7 @@ related:
 
 *NASA, Disney, and Hollywood can be read as three screens of industrial myth: sky myth for adults who need science, childhood myth for young imagination, and adult myth for collective rehearsal.*
 
-![Ba màn hình khổng lồ trên đám đông: rocket và sky myth, lâu đài tuổi thơ, rạp chiếu giấc mơ người lớn, cùng nuôi một imagination tập thể](../assets/illustrations/mind-control-trinity/00-hero-three-screens.png)
+![Ba màn hình khổng lồ trên đám đông: rocket và sky myth, lâu đài tuổi thơ, rạp chiếu giấc mơ người lớn, cùng nuôi một imagination tập thể](../assets/illustrations/mind-control-trinity/00-hero-three-screens.webp)
 
 “Ba đứa con của cùng một cha. Ba màn hình cho cùng một phép thuật.” Câu này không nên đọc như proof rằng mọi thứ do một phòng kín điều khiển. Nó là symbolic key: nếu muốn định hình reality của một nền văn hóa, hãy kiểm soát bầu trời, tuổi thơ và giấc mơ người lớn.
 
@@ -45,7 +45,7 @@ Không nên đọc tầng speculative như chứng cứ thô. Nhưng cũng khôn
 
 ## Ba Màn Hình Của Cùng Một Myth Machine
 
-![Một đứa trẻ nhìn màn hình lâu đài phép màu dần biến thành rạp chiếu người lớn và cảnh phóng rocket, biểu tượng continuity của myth programming](../assets/illustrations/mind-control-trinity/01-childhood-sky-adult-myth.png)
+![Một đứa trẻ nhìn màn hình lâu đài phép màu dần biến thành rạp chiếu người lớn và cảnh phóng rocket, biểu tượng continuity của myth programming](../assets/illustrations/mind-control-trinity/01-childhood-sky-adult-myth.webp)
 
 
 Disney nói với đứa trẻ: thế giới có phép màu, công chúa, lâu đài, animal spirits, hero journey, innocence và emotional grammar.
@@ -94,7 +94,7 @@ Nếu Disney cài archetype từ nhỏ, Hollywood update archetype đó cho adul
 
 ## Space, Alien Và Disclosure Stack
 
-![Các bóng alien archetype được chiếu từ màn hình animation, cinema và space vào imagination tập thể, như disclosure myth stack](../assets/illustrations/mind-control-trinity/02-alien-disclosure-stack.png)
+![Các bóng alien archetype được chiếu từ màn hình animation, cinema và space vào imagination tập thể, như disclosure myth stack](../assets/illustrations/mind-control-trinity/02-alien-disclosure-stack.webp)
 
 
 Ba màn hình này gặp nhau rõ nhất ở alien/UAP/disclosure.

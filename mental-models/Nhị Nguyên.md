@@ -15,7 +15,7 @@ related:
 ---
 # Nhị Nguyên (Duality)
 
-![Một field sáng duy nhất phân cực thành hai lực bổ sung, duality nằm bên trong unity chứ không tách khỏi unity](../assets/illustrations/duality/00-hero-one-polarizes-two.png)
+![Một field sáng duy nhất phân cực thành hai lực bổ sung, duality nằm bên trong unity chứ không tách khỏi unity](../assets/illustrations/duality/00-hero-one-polarizes-two.webp)
 
 **Nhị nguyên là cơ chế Một tự phân cực thành hai để tạo trải nghiệm: sáng/tối, nam/nữ, âm/dương, đúng/sai, ta/địch. Nó không xấu; nó là grammar của cõi vật chất. Cái bẫy bắt đầu khi con người quên field lớn hơn và để hai cực dựng thành nhà tù nhận thức.**
 
@@ -51,7 +51,7 @@ Nhị nguyên trưởng thành thấy hai cực bổ sung. Nhị nguyên bị we
 
 ## False Dichotomy / Lưỡng Nan Giả
 
-![Hai cánh cửa trong cùng một hành lang kiểm soát, người quan sát tìm lối thứ ba thay vì chọn lưỡng nan giả](../assets/illustrations/duality/01-false-dichotomy-corridor.png)
+![Hai cánh cửa trong cùng một hành lang kiểm soát, người quan sát tìm lối thứ ba thay vì chọn lưỡng nan giả](../assets/illustrations/duality/01-false-dichotomy-corridor.webp)
 
 
 Ma Trận thích đưa ra hai cửa đã được chuẩn bị sẵn. Bạn tưởng mình chọn tự do, nhưng cả hai cửa đều nằm trong hành lang của hệ thống.
@@ -64,7 +64,7 @@ Câu hỏi thật thường nằm ngoài khung: ai hưởng lợi từ câu hỏ
 
 ## Shadow Projection
 
-![Hai đám đông phân cực phóng chiếu shadow vào nhau, trong khi một góc nhìn thứ ba bình tĩnh mở ra phía trên](../assets/illustrations/duality/02-shadow-projection-triadic-thinking.png)
+![Hai đám đông phân cực phóng chiếu shadow vào nhau, trong khi một góc nhìn thứ ba bình tĩnh mở ra phía trên](../assets/illustrations/duality/02-shadow-projection-triadic-thinking.webp)
 
 
 Theo [[Tâm Lý Học Jung]], thứ mình không chịu thấy trong bản thân thường bị phóng chiếu ra ngoài. Nhị nguyên xã hội sống bằng cơ chế này: mỗi phe nhìn phe kia như hiện thân của toàn bộ bóng tối.

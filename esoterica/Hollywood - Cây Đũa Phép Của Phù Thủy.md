@@ -20,7 +20,7 @@ related:
 
 *Hollywood is mass ritual through entertainment: image, music, celebrity, symbol, and story repeated until they enter the collective unconscious. “Holy wood” as wand is not a strict etymological claim; it is a symbolic key for reading the screen as a device that directs attention, emotion, and imagination.*
 
-![Màn hình rạp chiếu như cây đũa phép khổng lồ hướng các tia sáng vào đám đông, với sao và biểu tượng trôi quanh như nghi lễ đại chúng](../assets/illustrations/hollywood-wand/00-hero-wand-screen.png)
+![Màn hình rạp chiếu như cây đũa phép khổng lồ hướng các tia sáng vào đám đông, với sao và biểu tượng trôi quanh như nghi lễ đại chúng](../assets/illustrations/hollywood-wand/00-hero-wand-screen.webp)
 
 Hollywood không cần mọi người tin một doctrine. Nó chỉ cần mọi người cùng mơ bằng cùng một bộ hình ảnh.
 
@@ -56,7 +56,7 @@ Hollywood là wand vì nó không chỉ chiếu hình ảnh. Nó hướng imagin
 
 ## Entertainment Là Vùng Critical Thinking Thấp
 
-![Khán giả thư giãn hạ khiên phòng thủ trong khi hình ảnh phim màu sắc đi vào subconscious như các sợi ánh sáng](../assets/illustrations/hollywood-wand/01-entertainment-low-guard.png)
+![Khán giả thư giãn hạ khiên phòng thủ trong khi hình ảnh phim màu sắc đi vào subconscious như các sợi ánh sáng](../assets/illustrations/hollywood-wand/01-entertainment-low-guard.webp)
 
 
 Khi xem phim, người ta tự nguyện hạ guard. “Chỉ là giải trí mà.” Chính câu này làm fiction mạnh.
@@ -83,7 +83,7 @@ Một tác phẩm có thể là art thật và programming cùng lúc. Nghệ s�
 
 ## Symbol Stack / Bộ Ký Hiệu Lặp Lại
 
-![Bộ ký hiệu điện ảnh gồm mắt, kim tự tháp, gương, ngôi sao, khối lập phương và màn hình trôi như grammar occult của media](../assets/illustrations/hollywood-wand/02-symbol-stack.png)
+![Bộ ký hiệu điện ảnh gồm mắt, kim tự tháp, gương, ngôi sao, khối lập phương và màn hình trôi như grammar occult của media](../assets/illustrations/hollywood-wand/02-symbol-stack.webp)
 
 
 Một số symbol lặp trong Hollywood đáng đọc như grammar của imagination.

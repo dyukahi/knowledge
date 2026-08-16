@@ -33,7 +33,7 @@ Bài này không xem income ladder như “con đường thành công”. Nó đ
 
 ## Evidence Discipline / Cách Đọc Bài Này
 
-![Minh hoạ: Evidence Discipline / Cách Đọc Bài Này](../assets/illustrations/lop-hoc-bang-luong-loosh-section-01-evidence-discipline-cach-doc-bai-nay.png)
+![Minh hoạ: Evidence Discipline / Cách Đọc Bài Này](../assets/illustrations/lop-hoc-bang-luong-loosh-section-01-evidence-discipline-cach-doc-bai-nay.webp)
 
 Bài này có bốn lớp đọc:
 
@@ -48,7 +48,7 @@ Nói ngắn: đây không phải bài “chứng minh có một phòng họp bí
 
 ## 1. Đứa Trẻ Không Tự Nhiên Muốn Trở Thành Nhân Viên
 
-![Minh hoạ: 1. Đứa Trẻ Không Tự Nhiên Muốn Trở Thành Nhân Viên](../assets/illustrations/lop-hoc-bang-luong-loosh-section-02-1-dua-tre-khong-tu-nhien-muon-tro-thanh-nhan-vien.png)
+![Minh hoạ: 1. Đứa Trẻ Không Tự Nhiên Muốn Trở Thành Nhân Viên](../assets/illustrations/lop-hoc-bang-luong-loosh-section-02-1-dua-tre-khong-tu-nhien-muon-tro-thanh-nhan-vien.webp)
 
 Không đứa trẻ nào sinh ra đã mơ về KPI.
 
@@ -82,7 +82,7 @@ Trường học dạy kiến thức, nhưng nó cũng dạy một thứ sâu hơ
 
 ## 2. Education Là Pre-Work Conditioning
 
-![Minh hoạ: 2. Education Là Pre-Work Conditioning](../assets/illustrations/lop-hoc-bang-luong-loosh-section-03-2-education-la-pre-work-conditioning.png)
+![Minh hoạ: 2. Education Là Pre-Work Conditioning](../assets/illustrations/lop-hoc-bang-luong-loosh-section-03-2-education-la-pre-work-conditioning.webp)
 
 Nếu work là nơi người lớn bán thời gian, education là nơi trẻ con học rằng thời gian của mình vốn không thuộc về mình.
 
@@ -102,7 +102,7 @@ Nhưng đời người không vận hành như lớp học. Không có giáo vi�
 
 ## 3. Work Là Trường Học Của Người Lớn
 
-![Minh hoạ: 3. Work Là Trường Học Của Người Lớn](../assets/illustrations/lop-hoc-bang-luong-loosh-section-04-3-work-la-truong-hoc-cua-nguoi-lon.png)
+![Minh hoạ: 3. Work Là Trường Học Của Người Lớn](../assets/illustrations/lop-hoc-bang-luong-loosh-section-04-3-work-la-truong-hoc-cua-nguoi-lon.webp)
 
 Công ty là trường học phiên bản trưởng thành.
 
@@ -124,7 +124,7 @@ Công việc vì vậy không chỉ là nơi tạo ra sản phẩm. Nó là nơi
 
 ## 4. 5 Triệu: Đau Vì Không Có Đường Lùi
 
-![Minh hoạ: 4. 5 Triệu: Đau Vì Không Có Đường Lùi](../assets/illustrations/lop-hoc-bang-luong-loosh-section-05-4-5-trieu-dau-vi-khong-co-duong-lui.png)
+![Minh hoạ: 4. 5 Triệu: Đau Vì Không Có Đường Lùi](../assets/illustrations/lop-hoc-bang-luong-loosh-section-05-4-5-trieu-dau-vi-khong-co-duong-lui.webp)
 
 Ở tầng 5 triệu, câu hỏi không phải “đầu tư vào đâu?”. Câu hỏi là:
 
@@ -146,7 +146,7 @@ Ma Trận không cần người nghèo phải triết lý. Nó chỉ cần họ 
 
 ## 5. 15 Triệu: Đau Vì Tưởng Mình Thoát Rồi Nhưng Chưa Thoát
 
-![Minh hoạ: 5. 15 Triệu: Đau Vì Tưởng Mình Thoát Rồi Nhưng Chưa Thoát](../assets/illustrations/lop-hoc-bang-luong-loosh-section-06-5-15-trieu-dau-vi-tuong-minh-thoat-roi-nhung-chua-thoat.png)
+![Minh hoạ: 5. 15 Triệu: Đau Vì Tưởng Mình Thoát Rồi Nhưng Chưa Thoát](../assets/illustrations/lop-hoc-bang-luong-loosh-section-06-5-15-trieu-dau-vi-tuong-minh-thoat-roi-nhung-chua-thoat.webp)
 
 Tầng 15 triệu nguy hiểm vì nó có vị ngọt.
 
@@ -166,7 +166,7 @@ Bạn không chỉ mua món đồ. Bạn mua cảm giác mình đã rời khỏi
 
 ## 6. 30-50 Triệu: Đau Vì Có Mặt Mũi Để Mất
 
-![Minh hoạ: 6. 30-50 Triệu: Đau Vì Có Mặt Mũi Để Mất](../assets/illustrations/lop-hoc-bang-luong-loosh-section-07-6-30-50-trieu-dau-vi-co-mat-mui-de-mat.png)
+![Minh hoạ: 6. 30-50 Triệu: Đau Vì Có Mặt Mũi Để Mất](../assets/illustrations/lop-hoc-bang-luong-loosh-section-07-6-30-50-trieu-dau-vi-co-mat-mui-de-mat.webp)
 
 Tầng này không còn là đói nghèo. Nó là tầng milestone.
 
@@ -186,7 +186,7 @@ Sợ tụt lại. Sợ bị đánh giá. Sợ mình cố mãi vẫn chỉ bình 
 
 ## 7. 100 Triệu: Đau Vì Không Còn Được Phép Than
 
-![Minh hoạ: 7. 100 Triệu: Đau Vì Không Còn Được Phép Than](../assets/illustrations/lop-hoc-bang-luong-loosh-section-08-7-100-trieu-dau-vi-khong-con-duoc-phep-than.png)
+![Minh hoạ: 7. 100 Triệu: Đau Vì Không Còn Được Phép Than](../assets/illustrations/lop-hoc-bang-luong-loosh-section-08-7-100-trieu-dau-vi-khong-con-duoc-phep-than.webp)
 
 Ở tầng 100 triệu, xã hội bắt đầu tước quyền đau của bạn.
 
@@ -210,7 +210,7 @@ Loosh ở tầng này là **burnout bị phủ nhận**.
 
 ## 8. 500 Triệu: Đau Vì Không Biết Ý Muốn Nào Còn Là Của Mình
 
-![Minh hoạ: 8. 500 Triệu: Đau Vì Không Biết Ý Muốn Nào Còn Là Của Mình](../assets/illustrations/lop-hoc-bang-luong-loosh-section-09-8-500-trieu-dau-vi-khong-biet-y-muon-nao-con-la-cua-minh.png)
+![Minh hoạ: 8. 500 Triệu: Đau Vì Không Biết Ý Muốn Nào Còn Là Của Mình](../assets/illustrations/lop-hoc-bang-luong-loosh-section-09-8-500-trieu-dau-vi-khong-biet-y-muon-nao-con-la-cua-minh.webp)
 
 Ở tầng rất cao, vấn đề không còn là mua gì.
 
@@ -228,7 +228,7 @@ Nếu tầng thấp bị Ma Trận nhốt bằng scarcity, tầng cao bị nhố
 
 ## 9. Connection Bị Cắt Thì Hệ Thống Mới Bán Được Cứu Rỗi
 
-![Minh hoạ: 9. Connection Bị Cắt Thì Hệ Thống Mới Bán Được Cứu Rỗi](../assets/illustrations/lop-hoc-bang-luong-loosh-section-10-9-connection-bi-cat-thi-he-thong-moi-ban-duoc-cuu-roi.png)
+![Minh hoạ: 9. Connection Bị Cắt Thì Hệ Thống Mới Bán Được Cứu Rỗi](../assets/illustrations/lop-hoc-bang-luong-loosh-section-10-9-connection-bi-cat-thi-he-thong-moi-ban-duoc-cuu-roi.webp)
 
 Con người không phải cá thể cô lập. Con người là sinh vật quan hệ.
 
@@ -248,7 +248,7 @@ Nó bào mòn gia đình bằng kiệt sức. Biến tình yêu thành marketpla
 
 ## 10. Ai Đứng Bên Kia Giao Dịch Của Nỗi Đau?
 
-![Minh hoạ: 10. Ai Đứng Bên Kia Giao Dịch Của Nỗi Đau?](../assets/illustrations/lop-hoc-bang-luong-loosh-section-11-10-ai-dung-ben-kia-giao-dich-cua-noi-dau.png)
+![Minh hoạ: 10. Ai Đứng Bên Kia Giao Dịch Của Nỗi Đau?](../assets/illustrations/lop-hoc-bang-luong-loosh-section-11-10-ai-dung-ben-kia-giao-dich-cua-noi-dau.webp)
 
 Trong thị trường, câu hỏi quan trọng là: [[Ai Đứng Bên Kia Giao Dịch]]?
 
@@ -268,7 +268,7 @@ Loosh có thể được đọc rất thực tế: **năng lượng sống bị 
 
 ## 11. Ma Trận Không Cần Bạn Nghèo
 
-![Minh hoạ: 11. Ma Trận Không Cần Bạn Nghèo](../assets/illustrations/lop-hoc-bang-luong-loosh-section-12-11-ma-tran-khong-can-ban-ngheo.png)
+![Minh hoạ: 11. Ma Trận Không Cần Bạn Nghèo](../assets/illustrations/lop-hoc-bang-luong-loosh-section-12-11-ma-tran-khong-can-ban-ngheo.webp)
 
 Một nhầm lẫn phổ biến: tưởng Ma Trận muốn mọi người nghèo.
 
@@ -292,7 +292,7 @@ Mỗi tầng là một loại pin khác nhau. Dòng điện khác nhau, nhưng v
 
 ## 12. Counterspell: Kiếm Tiền Không Đủ, Phải Lấy Lại Connection
 
-![Minh hoạ: 12. Counterspell: Kiếm Tiền Không Đủ, Phải Lấy Lại Connection](../assets/illustrations/lop-hoc-bang-luong-loosh-section-13-12-counterspell-kiem-tien-khong-du-phai-lay-lai-connection.png)
+![Minh hoạ: 12. Counterspell: Kiếm Tiền Không Đủ, Phải Lấy Lại Connection](../assets/illustrations/lop-hoc-bang-luong-loosh-section-13-12-counterspell-kiem-tien-khong-du-phai-lay-lai-connection.webp)
 
 Bài này không kết luận rằng tiền vô nghĩa.
 
@@ -316,7 +316,7 @@ Tiền có thể mua biên độ lựa chọn. Nhưng connection thật mới gi
 
 ## Final Line
 
-![Minh hoạ: Final Line](../assets/illustrations/lop-hoc-bang-luong-loosh-section-14-final-line.png)
+![Minh hoạ: Final Line](../assets/illustrations/lop-hoc-bang-luong-loosh-section-14-final-line.webp)
 
 Bạn không tự nhiên lớn lên rồi đi làm.
 

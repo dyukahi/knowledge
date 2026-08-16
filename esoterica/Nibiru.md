@@ -19,7 +19,7 @@ related:
 
 *Nibiru should not be read as an internet doomsday calendar. It is a crossing point between Planet X, Sitchin, the Annunaki, catastrophe memory, and the archetype of a returning sky body.*
 
-![Một hành tinh đỏ nâu bí ẩn ở rìa hệ Mặt Trời, người cổ đại quan sát bầu trời như ký ức catastrophe chứ không phải lịch tận thế](../assets/illustrations/nibiru/00-hero-returning-sky-body.png)
+![Một hành tinh đỏ nâu bí ẩn ở rìa hệ Mặt Trời, người cổ đại quan sát bầu trời như ký ức catastrophe chứ không phải lịch tận thế](../assets/illustrations/nibiru/00-hero-returning-sky-body.webp)
 
 Nibiru là bài test tâm lý. Người sợ hãi tìm ngày tận thế. Người tham vọng tìm bunker. Người tỉnh hơn hỏi: nếu mọi nền văn minh đều hữu hạn, mình nên sống, chuẩn bị và đọc dữ liệu như thế nào?
 
@@ -53,7 +53,7 @@ Nibiru cũng là memento mori vũ trụ: đừng giao linh hồn cho calendar do
 
 ## Sitchin Layer: Nibiru Và Annunaki
 
-![Bảng đất sét Sumer, bản đồ sao và bụi vàng, với sky rulers như archetype của giả thuyết Nibiru Annunaki](../assets/illustrations/nibiru/01-sumerian-annunaki-layer.png)
+![Bảng đất sét Sumer, bản đồ sao và bụi vàng, với sky rulers như archetype của giả thuyết Nibiru Annunaki](../assets/illustrations/nibiru/01-sumerian-annunaki-layer.webp)
 
 
 Zecharia Sitchin phổ biến narrative rằng Nibiru là home planet của [[Annunaki]], có quỹ đạo dài khoảng 3,600 năm, định kỳ quay lại gần hệ Mặt Trời, và liên quan tới việc Annunaki đến Trái Đất khai thác vàng/can thiệp gene.
@@ -90,7 +90,7 @@ Vì vậy Nibiru vừa là astronomy rumor, vừa là religious pattern, vừa l
 
 ## The Trap: Calendar Doom
 
-![Một tờ lịch tận thế rách tan hòa vào nước, lương thực và cộng đồng bình tĩnh, tượng trưng cho sovereignty vượt khỏi nỗi sợ](../assets/illustrations/nibiru/02-calendar-doom-vs-sovereignty.png)
+![Một tờ lịch tận thế rách tan hòa vào nước, lương thực và cộng đồng bình tĩnh, tượng trưng cho sovereignty vượt khỏi nỗi sợ](../assets/illustrations/nibiru/02-calendar-doom-vs-sovereignty.webp)
 
 
 Doom dates là cái bẫy lớn nhất của Nibiru. 2003, 2012, 2017 và nhiều mốc khác đều trượt. Mỗi lần trượt, một nhóm mất niềm tin, một nhóm đổi ngày, một nhóm chuyển sang theory mới.

@@ -25,7 +25,7 @@ related:
 
 *UAP disclosure is not only about whether UFOs are real. It is about controlled revelation: who releases, what is withheld, how evidence is framed, and who gets to interpret the sky for the public.*
 
-![Bầu trời đêm với vật thể sáng mơ hồ được hé lộ một phần sau tấm màn do các bóng dáng chính thức giữ, đám đông nhìn lên trong controlled revelation](../assets/illustrations/uap-disclosure/00-hero-controlled-revelation.png)
+![Bầu trời đêm với vật thể sáng mơ hồ được hé lộ một phần sau tấm màn do các bóng dáng chính thức giữ, đám đông nhìn lên trong controlled revelation](../assets/illustrations/uap-disclosure/00-hero-controlled-revelation.webp)
 
 Một hiện tượng có thể thật, nhưng disclosure về hiện tượng đó vẫn bị quản trị. Truth và frame không phải một thứ.
 
@@ -81,7 +81,7 @@ Vault không phủ nhận hiện tượng. Vault hỏi: hiện tượng đang đ
 
 ## Threat Frame: Khi Bầu Trời Đi Qua Security State
 
-![Màn hình radar quân sự, bóng dáng hearing quốc hội và bầu trời lớn hòa vào nhau, công chúng nhìn thiên không qua khung security state](../assets/illustrations/uap-disclosure/01-threat-frame-sky.png)
+![Màn hình radar quân sự, bóng dáng hearing quốc hội và bầu trời lớn hòa vào nhau, công chúng nhìn thiên không qua khung security state](../assets/illustrations/uap-disclosure/01-threat-frame-sky.webp)
 
 
 Khi disclosure được đặt trong ngôn ngữ national security, công chúng được train để nhìn bầu trời bằng mắt của security state.
@@ -96,7 +96,7 @@ Nếu thật sự có NHI, câu hỏi còn lớn hơn quân sự. Nó chạm t�
 
 ## Hollywood Đã Tập Public Từ Lâu
 
-![Máy chiếu điện ảnh phóng nhiều bóng alien archetype lên bức tường imagination tập thể: awe, fear, savior, invader và trickster](../assets/illustrations/uap-disclosure/02-hollywood-alien-archetypes.png)
+![Máy chiếu điện ảnh phóng nhiều bóng alien archetype lên bức tường imagination tập thể: awe, fear, savior, invader và trickster](../assets/illustrations/uap-disclosure/02-hollywood-alien-archetypes.webp)
 
 
 Alien không bước vào imagination hiện đại từ hearing Quốc hội. Nó đã ở đó qua phim, game, truyện, toy, meme, documentary, conspiracy forum, NASA spectacle và pop science.

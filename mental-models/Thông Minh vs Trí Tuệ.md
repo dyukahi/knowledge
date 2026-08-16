@@ -20,7 +20,7 @@ related:
 
 *Intelligence solves problems. Wisdom decides which problems deserve your life-force. Intelligence is the tool. Wisdom is the compass.*
 
-![Một công cụ phân tích sắc bén đặt cạnh la bàn trí tuệ phát sáng, với con người đứng giữa cỗ máy giải bài toán và chân trời đạo đức tĩnh lặng](../assets/illustrations/intelligence-wisdom/00-hero-tool-compass.png)
+![Một công cụ phân tích sắc bén đặt cạnh la bàn trí tuệ phát sáng, với con người đứng giữa cỗ máy giải bài toán và chân trời đạo đức tĩnh lặng](../assets/illustrations/intelligence-wisdom/00-hero-tool-compass.webp)
 
 Một con dao sắc không tự động làm người cầm dao thành healer. Nó có thể mổ cứu người, cũng có thể gây thương tích. Thông minh cũng vậy. Càng sắc, càng cần la bàn sạch.
 
@@ -50,7 +50,7 @@ Câu hỏi không phải “người này giỏi không?”. Câu hỏi là: “
 
 ## Ma Trận Thích Người Thông Minh Nhưng Sợ Người Trí Tuệ
 
-![Những bộ óc thông minh xây một cỗ máy phức tạp trong cấu trúc Ma Trận, trong khi một người dừng lại hỏi cỗ máy đang phục vụ điều gì](../assets/illustrations/intelligence-wisdom/01-matrix-smart-workers.png)
+![Những bộ óc thông minh xây một cỗ máy phức tạp trong cấu trúc Ma Trận, trong khi một người dừng lại hỏi cỗ máy đang phục vụ điều gì](../assets/illustrations/intelligence-wisdom/01-matrix-smart-workers.webp)
 
 
 [[Ma Trận]] không sợ người có năng lực. Nó cần họ. Hệ thống cần những bộ não giỏi để tối ưu ads, compliance, finance, war, surveillance, persuasion, addictive UI, legal loopholes, narrative control.
@@ -85,7 +85,7 @@ Biết mình không biết không phải khiêm tốn diễn. Nó là cơ chế 
 
 ## Trong Tiền Bạc
 
-![Hai con đường: một đường upside sáng nhanh nhưng có vực khuất, một đường chậm hơn giữ quyền chọn, bình an và downside được quản trị](../assets/illustrations/intelligence-wisdom/02-upside-downside.png)
+![Hai con đường: một đường upside sáng nhanh nhưng có vực khuất, một đường chậm hơn giữ quyền chọn, bình an và downside được quản trị](../assets/illustrations/intelligence-wisdom/02-upside-downside.webp)
 
 
 Thông minh biết kiếm tiền. Trí tuệ biết tiền đang biến mình thành ai.

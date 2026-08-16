@@ -16,7 +16,7 @@ related:
 ---
 # Atlantis — Nền Văn Minh Bị Xóa Sổ
 
-![A cinematic drowned crystal metropolis beneath the Atlantic, light shafts crossing broken pyramids](../assets/illustrations/atlantis-drowned-crystal-city.png)
+![A cinematic drowned crystal metropolis beneath the Atlantic, light shafts crossing broken pyramids](../assets/illustrations/atlantis-drowned-crystal-city.webp)
 
 **Atlantis là ký ức cảnh báo: một nền văn minh có thể đạt technology cao hơn hiện đại nhưng vẫn sụp đổ nếu consciousness không đủ lớn để cầm năng lượng đó.**
 
@@ -47,7 +47,7 @@ Plato kể rằng Solon nghe câu chuyện Atlantis từ các tư tế Ai Cập 
 
 ## Tuaoi Stone: Trái Tim Năng Lượng
 
-![A hexagonal fire crystal inside an oval domed chamber absorbing sun moon and starlight](../assets/illustrations/atlantis-tuaoi-stone.png)
+![A hexagonal fire crystal inside an oval domed chamber absorbing sun moon and starlight](../assets/illustrations/atlantis-tuaoi-stone.webp)
 
 Trong readings của Edgar Cayce, Atlantis dùng **Tuaoi Stone**, Fire Stone, một crystal reactor thu ánh sáng mặt trời, mặt trăng, vì sao, khuếch đại và truyền năng lượng không dây. Đây là tầng speculative, nhưng nó nối rất mạnh với [[Năng Lượng Aether]] và [[Nikola Tesla]].
 
@@ -65,7 +65,7 @@ Cayce mô tả Atlantis bị chia giữa **Children of the Law of One** và **So
 
 ## Cataclysm Và Survivors
 
-![Atlantean survivors arriving at Egypt, Maya and India with star maps and pyramid geometry](../assets/illustrations/atlantis-survivor-seeds.png)
+![Atlantean survivors arriving at Egypt, Maya and India with star maps and pyramid geometry](../assets/illustrations/atlantis-survivor-seeds.webp)
 
 Atlantis trong vault được đọc như một reset layer khoảng cuối Ice Age/Younger Dryas. Survivors mang geometry, astronomy, pyramid knowledge và initiatic memory tới Ai Cập, Maya, Ấn Độ, tạo ra cảm giác nhiều civilization “xuất hiện đột ngột”.
 
@@ -83,7 +83,7 @@ Cách đọc đúng: Atlantis không phụ thuộc vào một tọa độ duy nh
 
 ## Atlantis Và Loosh
 
-![A radiant city splitting into two currents, one healing blue and one red harvesting fear](../assets/illustrations/atlantis-loosh-fall.png)
+![A radiant city splitting into two currents, one healing blue and one red harvesting fear](../assets/illustrations/atlantis-loosh-fall.webp)
 
 Khi Atlantis rơi từ Law of One sang Belial, nó trở thành case study của [[Loosh - Năng Lượng Thu Hoạch Từ Con Người|Loosh]]: chiến tranh, nô lệ, fear, sacrifice, disaster tạo emotional output khổng lồ. Một nền văn minh càng mạnh, collapse của nó càng “ngon” với những hệ thống sống bằng trauma.
 

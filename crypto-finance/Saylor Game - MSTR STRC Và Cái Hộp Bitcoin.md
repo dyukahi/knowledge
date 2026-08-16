@@ -23,7 +23,7 @@ related:
 
 # Saylor Game - MSTR, STRC, STRD, STRF Và Cái Hộp Bitcoin
 
-![Saylor Game Bitcoin Box](../assets/illustrations/saylor-game-bitcoin-box.png)
+![Saylor Game Bitcoin Box](../assets/illustrations/saylor-game-bitcoin-box.webp)
 
 > Bitcoin không tự đẻ tiền mặt. Nếu một sản phẩm quanh Bitcoin hứa trả tiền đều đặn, câu hỏi đầu tiên không phải là “Bitcoin sẽ lên không?”, mà là: **tiền mặt đó đến từ đâu?**
 
@@ -110,7 +110,7 @@ Khi chạy thuận, nó trông như thiên tài tài chính. Khi chạy nghịch
 
 ## 3. STRC Là Gì?
 
-![Cỗ Máy Lợi Suất Saylor](../assets/illustrations/saylor-game-yield-machine.png)
+![Cỗ Máy Lợi Suất Saylor](../assets/illustrations/saylor-game-yield-machine.webp)
 
 STRC là **cổ phiếu ưu đãi vĩnh viễn** của Strategy. Có thể hiểu đơn giản là cổ phiếu ưu đãi vĩnh viễn.
 
@@ -420,7 +420,7 @@ Mà là:
 
 ## 12. Bài Học Về Trò Chơi Tài Chính
 
-![Chồng Quyền Đòi Quanh Cái Hộp Bitcoin](../assets/illustrations/saylor-game-claim-stack.png)
+![Chồng Quyền Đòi Quanh Cái Hộp Bitcoin](../assets/illustrations/saylor-game-claim-stack.webp)
 
 Case Saylor/MSTR/STRC dạy một bài rất lớn: trong tài chính, tài sản chỉ là một nửa câu chuyện. Nửa còn lại là **cấu trúc quyền đòi**.
 

@@ -29,7 +29,7 @@ related:
 
 *A diamond is not sold only through clarity, cut, or carat. It is sold through certificate, origin, serial number, brand, and the market's belief that the stone in front of you is the same stone described on paper. The PNJ Labs scandal exposes the soft trust layer inside a supposedly hard asset: when certification is questioned, the asset becomes a test of identity, oracle, and market confidence.*
 
-![Một viên kim cương trên bàn kiểm định cạnh kính lúp và các lớp giấy chứng nhận mờ, biểu tượng cho niềm tin nằm giữa vật chất và giấy tờ](../assets/illustrations/pnj-labs-diamond-trust/00-diamond-certificate-trust.png)
+![Một viên kim cương trên bàn kiểm định cạnh kính lúp và các lớp giấy chứng nhận mờ, biểu tượng cho niềm tin nằm giữa vật chất và giấy tờ](../assets/illustrations/pnj-labs-diamond-trust/00-diamond-certificate-trust.webp)
 
 Bài này không phải lời kết tội PNJ như một công ty. Vụ việc còn thuộc tầng điều tra, báo chí và cơ quan chức năng. Bài này đọc nó như một **case study về lớp chứng nhận**: khi giá trị của một tài sản phụ thuộc vào việc thị trường tin rằng giấy tờ, mã số và người kiểm định còn đáng tin.
 
@@ -76,7 +76,7 @@ PNJ/P-Lab, theo báo chí, phản hồi rằng vụ việc thuộc trách nhiệ
 
 ## “Mẹ Bồng Con” - Khi Giấy Bồng Sai Viên Đá
 
-![Một viên kim cương đổ hai cái bóng: một bóng giống giấy chứng nhận, một bóng giống mặt nạ, biểu tượng cho danh tính tài sản bị tráo lớp xác thực](../assets/illustrations/pnj-labs-diamond-trust/01-certificate-mask.png)
+![Một viên kim cương đổ hai cái bóng: một bóng giống giấy chứng nhận, một bóng giống mặt nạ, biểu tượng cho danh tính tài sản bị tráo lớp xác thực](../assets/illustrations/pnj-labs-diamond-trust/01-certificate-mask.webp)
 
 Trong ngôn ngữ dân gian, “mẹ bồng con” gợi hình ảnh một thứ lớn/bên ngoài che chở, bồng bế, hợp thức hóa thứ nhỏ/bên trong. Đem vào vụ kim cương, có thể đọc nó như một mô hình:
 

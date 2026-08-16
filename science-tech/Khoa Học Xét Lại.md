@@ -18,7 +18,7 @@ related:
 ---
 # Khoa Học Xét Lại (Revisionist Science)
 
-![Scientist before a fractured institutional temple, holding a prism of evidence](../assets/illustrations/revisionist-science-threshold.png)
+![Scientist before a fractured institutional temple, holding a prism of evidence](../assets/illustrations/revisionist-science-threshold.webp)
 
 **Khoa Học Xét Lại không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution: một bên là quan sát, kiểm chứng, phản biện; một bên là funding, prestige, consensus, censorship, career incentive và quyền lực.**
 
@@ -38,7 +38,7 @@ Khoa Học Xét Lại đứng cạnh [[Source Discipline - Kỷ Luật Nguồn V
 
 ## Evidence Discipline / Cách Đọc Claim
 
-![Four transparent layers labeled fact, pattern, symbol, synthesis over a laboratory archive](../assets/illustrations/revisionist-science-four-layers.png)
+![Four transparent layers labeled fact, pattern, symbol, synthesis over a laboratory archive](../assets/illustrations/revisionist-science-four-layers.webp)
 
 | Tầng | Cách đọc | Ví dụ |
 |---|---|---|
@@ -61,7 +61,7 @@ Khi method còn sống, câu hỏi được thưởng. Khi institution biến th
 
 ## Consensus: Khi Đồng Thuận Thành Giáo Điều
 
-![A conference hall of identical white coats facing one dissenting observer under cold institutional light](../assets/illustrations/revisionist-science-consensus.png)
+![A conference hall of identical white coats facing one dissenting observer under cold institutional light](../assets/illustrations/revisionist-science-consensus.webp)
 
 Consensus có thể hữu ích khi nó là kết quả của evidence mạnh. Nó nguy hiểm khi được tạo bởi funding bias, publication bias, regulatory capture, media simplification và political pressure.
 
@@ -85,7 +85,7 @@ Một hệ thống tự tin vào truth sẽ cho phép kiểm chứng. Một hệ
 
 ## Những Bẫy Của Revisionism
 
-![A mirror maze where a rebel scientist almost becomes the same priesthood he escaped](../assets/illustrations/revisionist-science-traps.png)
+![A mirror maze where a rebel scientist almost becomes the same priesthood he escaped](../assets/illustrations/revisionist-science-traps.webp)
 
 Bẫy lớn nhất là đổi giáo điều này lấy giáo điều khác. Mainstream sai không tự động làm alternative đúng. Càng bị cấm cũng không tự động là proof. Pattern không phải proof. Symbol không phải document. Speculation không phải verdict.
 

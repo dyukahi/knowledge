@@ -17,7 +17,7 @@ related:
 ---
 # Nikola Tesla
 
-![Nikola Tesla archetype in a storm-lit laboratory, coils glowing like sacred geometry](../assets/illustrations/tesla-prometheus-electric.png)
+![Nikola Tesla archetype in a storm-lit laboratory, coils glowing like sacred geometry](../assets/illustrations/tesla-prometheus-electric.webp)
 
 **Nikola Tesla là archetype của nhà phát minh đứng giữa hai thế giới: một chân trong kỹ thuật điện có thể kiểm chứng, một chân trong trực giác về năng lượng, tần số và trường mà science institution thường không biết đặt vào đâu.**
 
@@ -48,7 +48,7 @@ Tesla trước hết là kỹ sư. Điện xoay chiều, động cơ cảm ứng
 
 ## Wardenclyffe: Tower, Meter Và Monopoly
 
-![Wardenclyffe Tower as a luminous wireless power antenna facing a dark city of meters and billing wires](../assets/illustrations/tesla-wardenclyffe-meter.png)
+![Wardenclyffe Tower as a luminous wireless power antenna facing a dark city of meters and billing wires](../assets/illustrations/tesla-wardenclyffe-meter.webp)
 
 Wardenclyffe Tower là dự án truyền thông và năng lượng không dây đầu thế kỷ 20, có tài trợ ban đầu từ J.P. Morgan rồi chết vì tài chính. Tầng fact dừng ở đó nếu không có nguồn cụ thể.
 
@@ -66,7 +66,7 @@ Cách nói chặt: Tesla không “prove aether” theo chuẩn hiện đại. N
 
 ## 3, 6, 9 Và Grammar Của Reality
 
-![Numbers 3 6 9 orbiting inside a resonant coil, not as meme but as living mathematical rhythm](../assets/illustrations/tesla-369-resonance.png)
+![Numbers 3 6 9 orbiting inside a resonant coil, not as meme but as living mathematical rhythm](../assets/illustrations/tesla-369-resonance.webp)
 
 Nhiều quote 3-6-9 bị gán sai hoặc khó xác minh. Nhưng tầng symbol vẫn đáng đọc. Tesla sống với pattern, nhịp, repetition, resonance. Ông không nhìn số như ký hiệu chết; ông nhìn chúng như grammar của vận hành.
 
@@ -84,7 +84,7 @@ Tesla không lập gia đình, sống với tập trung cực đoan, thường �
 
 ## Suppression: Có Và Không
 
-![A government archive room with sealed Tesla papers, half historical file and half mythic lightning](../assets/illustrations/tesla-suppression-archive.png)
+![A government archive room with sealed Tesla papers, half historical file and half mythic lightning](../assets/illustrations/tesla-suppression-archive.webp)
 
 Tesla bị cạnh tranh, mất tài trợ, chết nghèo hơn danh tiếng, và tài liệu bị kiểm tra sau khi ông mất. Nhưng nhảy thẳng đến “mọi công nghệ Tesla bị giấu hoàn toàn” là speculative.
 

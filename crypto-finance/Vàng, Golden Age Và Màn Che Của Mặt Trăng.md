@@ -21,7 +21,7 @@ related:
 
 **Vàng không chỉ là tài sản. Nó là vật chất của ký ức dài: vật chất vũ trụ nằm trong Trái Đất, biểu tượng của Thời Đại Vàng, và một điểm neo nằm ngoài các hệ tiền do bên phát hành lập trình. Nhưng vàng vẫn đi qua chu kỳ tăng và giảm. Muốn giữ một tài sản ngoài thời gian, đừng mua nó bằng áp lực của thời gian.**
 
-![Vàng như vật chất ký ức: một thỏi vàng cổ nằm trong đá đen, phía trên là bầu trời sao và một Mặt Trăng mờ như lớp màn che](../assets/illustrations/gold-golden-age/00-hero-gold-memory.png)
+![Vàng như vật chất ký ức: một thỏi vàng cổ nằm trong đá đen, phía trên là bầu trời sao và một Mặt Trăng mờ như lớp màn che](../assets/illustrations/gold-golden-age/00-hero-gold-memory.webp)
 
 Bài này không phải lời khuyên đầu tư. Nó là một bản đồ nhiều tầng: sự kiện, mô thức, biểu tượng và phần tổng hợp giả thuyết. Nếu trộn các tầng này lại, bài sẽ thành mê tín hoặc ghi chú giao dịch rẻ tiền. Nếu tách đúng, vàng hiện ra như một vật rất lạ: vừa là kim loại, vừa là ký ức, vừa là tiền, vừa là lời nhắc rằng mọi hệ thống phát hành đều muốn thay thế thứ mình không thể in thêm.
 
@@ -29,7 +29,7 @@ Bài này không phải lời khuyên đầu tư. Nó là một bản đồ nhi�
 
 ## 1. Vàng Không Sinh Ra Từ Trái Đất
 
-![Một hạt vàng hình thành trong cơn bão vũ trụ, từ neutron star merger đến bụi sao rơi vào Trái Đất sơ khai](../assets/illustrations/gold-golden-age/01-cosmic-origin-gold.png)
+![Một hạt vàng hình thành trong cơn bão vũ trụ, từ neutron star merger đến bụi sao rơi vào Trái Đất sơ khai](../assets/illustrations/gold-golden-age/01-cosmic-origin-gold.webp)
 
 Bắt đầu từ tầng sự kiện.
 
@@ -47,7 +47,7 @@ Nói gọn:
 
 ## 2. Trứng Vũ Trụ Và Snowman: Trái Đất Gần Lõi Hơn Ta Tưởng
 
-![Một cosmic egg nhiều tầng với Earth ở tầng trên gần lõi sáng, dưới là các tầng snowman mờ dần vào bóng tối](../assets/illustrations/gold-golden-age/02-cosmic-egg-earth-core.png)
+![Một cosmic egg nhiều tầng với Earth ở tầng trên gần lõi sáng, dưới là các tầng snowman mờ dần vào bóng tối](../assets/illustrations/gold-golden-age/02-cosmic-egg-earth-core.webp)
 
 Trong [[Bức Tường Băng]], toàn bộ tạo hóa nằm trong một **Trứng Vũ Trụ**. Nhưng Trứng Vũ Trụ không chỉ chứa một snowman duy nhất. Nó chứa **vô hạn cấu trúc snowman** bám vào **mặt trong của vỏ Trứng Vũ Trụ**.
 
@@ -69,7 +69,7 @@ Không cần claim cứng model này là fact. Chỉ cần thấy tại sao arch
 
 ## 3. Thời Đại Vàng: Khi Vàng Là Trạng Thái, Không Chỉ Là Hàng Hóa
 
-![Một bánh xe Yuga chuyển từ Golden Age sáng trong sang Iron Age tối, nơi vàng từ ánh sáng bên trong biến thành vật tích trữ bên ngoài](../assets/illustrations/gold-golden-age/03-golden-age-to-iron-age.png)
+![Một bánh xe Yuga chuyển từ Golden Age sáng trong sang Iron Age tối, nơi vàng từ ánh sáng bên trong biến thành vật tích trữ bên ngoài](../assets/illustrations/gold-golden-age/03-golden-age-to-iron-age.webp)
 
 Trong [[Chu Kỳ Vũ Trụ — Yugas & Kalpas]], Satya Yuga là mùa vàng: dharma vững, consciousness trong, con người gần thần tính hơn. Kali Yuga là mùa sắt: vật chất hóa, đảo ngược giá trị, money thay virtue, noise thay wisdom.
 
@@ -85,7 +85,7 @@ Vàng vì vậy không chỉ lưu value. Nó lưu một nỗi nhớ: ký ức v�
 
 ## 4. Màn Che Mặt Trăng: Ký Ức Ngắn Và Ánh Sáng Phản Chiếu
 
-![Mặt Trăng như một lớp kính phản chiếu phủ lên Earth, điều nhịp nước, giấc ngủ và ký ức ngắn của con người](../assets/illustrations/gold-golden-age/04-moon-veil-memory.png)
+![Mặt Trăng như một lớp kính phản chiếu phủ lên Earth, điều nhịp nước, giấc ngủ và ký ức ngắn của con người](../assets/illustrations/gold-golden-age/04-moon-veil-memory.webp)
 
 Tầng sự kiện: Mặt Trăng ảnh hưởng thủy triều, ánh sáng đêm, lịch nghi lễ, nhịp sinh học và nhiều tầng văn hóa biểu tượng. Nó là vật thể gần Trái Đất nhất có khả năng định nhịp đời sống tập thể.
 
@@ -109,7 +109,7 @@ Vàng đứng ngược lại với màn che Mặt Trăng theo nghĩa biểu tư�
 
 ## 5. Golden Age Bị Chính Trị Hóa
 
-![Một sân khấu chính trị mạ vàng bán lời hứa Golden Age cho đám đông, phía sau là ký ức cổ thật bị che bởi ánh đèn campaign](../assets/illustrations/gold-golden-age/05-political-golden-age.png)
+![Một sân khấu chính trị mạ vàng bán lời hứa Golden Age cho đám đông, phía sau là ký ức cổ thật bị che bởi ánh đèn campaign](../assets/illustrations/gold-golden-age/05-political-golden-age.webp)
 
 Chính trị hiện đại rất thích bán lại Thời Đại Vàng.
 
@@ -127,7 +127,7 @@ Thời Đại Vàng thật không phải một nhiệm kỳ, một thập kỷ G
 
 ## 6. Fiat, CBDC Và Tiền Không Còn Ký Ức
 
-![Một thỏi vàng cũ đối diện ví CBDC phát sáng, giữa hai bên là các cổng cấp quyền, mã QR và lớp kiểm soát mờ](../assets/illustrations/gold-golden-age/06-gold-vs-programmable-money.png)
+![Một thỏi vàng cũ đối diện ví CBDC phát sáng, giữa hai bên là các cổng cấp quyền, mã QR và lớp kiểm soát mờ](../assets/illustrations/gold-golden-age/06-gold-vs-programmable-money.webp)
 
 Trong [[Tiền Pháp Định]], fiat tồn tại nhờ sắc lệnh, nợ, luật công nhận tiền pháp định và hiệu ứng mạng lưới. Nó không cần độ khan hiếm vật lý như vàng. Nó cần bên phát hành, nhu cầu nộp thuế và hệ thống chấp nhận.
 
@@ -150,7 +150,7 @@ Vàng không trả lời mọi câu hỏi. Nhưng nó đứng ngoài nhiều câ
 
 ## 7. Vàng Vẫn Có Chu Kỳ: Accumulate Without Pressure
 
-![Một người tích lũy vàng chậm rãi qua các mùa bull và bear, không margin, không áp lực, bên cạnh đồng hồ dài hạn và cây đang lớn](../assets/illustrations/gold-golden-age/07-accumulate-without-pressure.png)
+![Một người tích lũy vàng chậm rãi qua các mùa bull và bear, không margin, không áp lực, bên cạnh đồng hồ dài hạn và cây đang lớn](../assets/illustrations/gold-golden-age/07-accumulate-without-pressure.webp)
 
 Đây là đoạn grounding bắt buộc.
 

@@ -30,7 +30,7 @@ Nhưng nếu dừng ở đó, ta dễ nhầm tình thương với một mô hìn
 
 Bài này không hỏi câu nông: "vợ có nên đi làm không?" hay "chồng có nên nuôi vợ không?". Bài này hỏi câu sâu hơn: trong một xã hội nơi cả nam lẫn nữ đều bị kéo vào wage labor, nơi care work bị mất giá, nơi mỗi tầng thu nhập là một kiểu đau khác nhau, gia đình còn giữ được bao nhiêu quyền chọn thật?
 
-![Một căn nhà hiện đại bị kéo giữa provider fantasy, áp lực thị trường và ánh sáng care](../assets/illustrations/giau-khong-phai-de-vo-khong-lam-gi-care-runway.png)
+![Một căn nhà hiện đại bị kéo giữa provider fantasy, áp lực thị trường và ánh sáng care](../assets/illustrations/giau-khong-phai-de-vo-khong-lam-gi-care-runway.webp)
 
 ---
 
@@ -99,7 +99,7 @@ Nếu cả hai vợ chồng đều lao ra thị trường, đều bị khách h�
 
 ## 3. Care Là Hạ Tầng Mà Thị Trường Không Trả Lương
 
-![Bữa tối gia đình và những bóng đổ của thị trường quanh care work](../assets/illustrations/giau-khong-phai-de-vo-khong-lam-gi-family-sovereignty.png)
+![Bữa tối gia đình và những bóng đổ của thị trường quanh care work](../assets/illustrations/giau-khong-phai-de-vo-khong-lam-gi-family-sovereignty.webp)
 
 [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] đặt một định nghĩa rất quan trọng: care không chỉ là nấu cơm, lau nhà, trông con hay chăm người già. Care là hạ tầng vô hình giữ cho một gia đình còn là gia đình.
 
@@ -150,7 +150,7 @@ Không ai còn đủ kiên nhẫn để nghe. Không ai còn đủ chậm để 
 
 ## 5. Lương Ladder: Mỗi Tầng Thu Nhập Là Một Kiểu Đau Của Gia Đình
 
-![Chiếc thang thu nhập làm từ nhà, xe, học phí, status và áp lực gia đình](../assets/illustrations/giau-khong-phai-de-vo-khong-lam-gi-income-ladder.png)
+![Chiếc thang thu nhập làm từ nhà, xe, học phí, status và áp lực gia đình](../assets/illustrations/giau-khong-phai-de-vo-khong-lam-gi-income-ladder.webp)
 
 Trong [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]], income ladder không được đọc như con đường thành công đơn giản. Nó là một hệ thống phân phối nỗi đau theo tầng.
 

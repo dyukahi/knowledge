@@ -21,7 +21,7 @@ related:
 
 *Individuation is the process of becoming whole: integrating persona, shadow, unconscious material, and the Self. In the vault's language, it is the psychological groundwork that allows Gnosis to stabilize instead of inflating the ego.*
 
-![Bóng người tích hợp nhiều mặt nạ vỡ thành một Self phát sáng toàn vẹn, shadow và light quay về trung tâm](../assets/illustrations/individuation/00-hero-whole-self.png)
+![Bóng người tích hợp nhiều mặt nạ vỡ thành một Self phát sáng toàn vẹn, shadow và light quay về trung tâm](../assets/illustrations/individuation/00-hero-whole-self.webp)
 
 Một người chưa individuation dễ biến mọi red pill thành ego mới. Họ không thoát Ma Trận; họ chỉ đổi persona từ “người bình thường” sang “người đã biết”.
 
@@ -39,7 +39,7 @@ Individuation giúp người đọc không dùng esoterica để chạy khỏi b
 
 ## Persona: Mặt Nạ Cần Thiết Nhưng Nguy Hiểm
 
-![Mặt nạ persona sân khấu ở một bên, bóng shadow sống động ở bên kia, và một con người tĩnh lặng đứng giữa để tích hợp cả hai](../assets/illustrations/individuation/01-persona-shadow.png)
+![Mặt nạ persona sân khấu ở một bên, bóng shadow sống động ở bên kia, và một con người tĩnh lặng đứng giữa để tích hợp cả hai](../assets/illustrations/individuation/01-persona-shadow.webp)
 
 
 Persona là mặt nạ xã hội: vai trò, nghề nghiệp, hình ảnh, danh tính công khai. Persona không xấu. Không có persona, ta khó vận hành trong xã hội.
@@ -90,7 +90,7 @@ Individuation là quá trình ego học cách phục vụ Self thay vì giả l�
 
 ## Individuation Và Ma Trận
 
-![Các dây media kiểu Ma Trận cố bấm nút trigger cảm xúc trên psyche bị chia mảnh, trong khi Self đã tích hợp cắt các sợi dây](../assets/illustrations/individuation/02-ma-tran-triggers.png)
+![Các dây media kiểu Ma Trận cố bấm nút trigger cảm xúc trên psyche bị chia mảnh, trong khi Self đã tích hợp cắt các sợi dây](../assets/illustrations/individuation/02-ma-tran-triggers.webp)
 
 
 Ma Trận khai thác những phần chưa tích hợp: shadow bằng outrage, persona bằng status, wound bằng fear, tribe identity bằng politics, sexual energy bằng porn, spiritual hunger bằng guru/system.

@@ -25,7 +25,7 @@ related:
 
 # Thế Hệ Lọt Khe
 
-![Thế Hệ Lọt Khe](../assets/illustrations/the-he-lot-khe-future-through-fingers.png)
+![Thế Hệ Lọt Khe](../assets/illustrations/the-he-lot-khe-future-through-fingers.webp)
 
 > Không phải thế hệ này không chịu nắm lấy tương lai. Có thể tương lai đã được thiết kế để trượt khỏi tay họ.
 
@@ -112,7 +112,7 @@ Nghe tiện. Và nhiều khi tiện thật. Nhưng sở hữu và truy cập là
 
 ## 2. AI Và Cái Nghề Không Còn Chắc
 
-![AI Và Bản Đồ Nghề Nghiệp Dịch Chuyển](../assets/illustrations/the-he-lot-khe-ai-job-map.png)
+![AI Và Bản Đồ Nghề Nghiệp Dịch Chuyển](../assets/illustrations/the-he-lot-khe-ai-job-map.webp)
 
 Rồi trí tuệ nhân tạo xuất hiện.
 
@@ -178,7 +178,7 @@ Với người không có lớp đệm, thất bại là tiền nhà, tiền ăn
 
 ## 4. Cú Chuyển Giao Thừa Kế Khổng Lồ
 
-![Khe Thừa Kế Và Tài Sản](../assets/illustrations/the-he-lot-khe-inheritance-gap.png)
+![Khe Thừa Kế Và Tài Sản](../assets/illustrations/the-he-lot-khe-inheritance-gap.webp)
 
 
 Có một mối đe dọa khác ít được nói thẳng: cú chuyển giao tài sản khổng lồ giữa các thế hệ.
@@ -248,7 +248,7 @@ Nhưng câu hỏi quyết định là:
 
 ## 6. Khe Đất Đai: Khi Giấc Mơ Nhỏ Bị Nuốt
 
-![Đất Vườn Nhỏ Và Sân Golf Tương Lai](../assets/illustrations/the-he-lot-khe-land-golf-climate.png)
+![Đất Vườn Nhỏ Và Sân Golf Tương Lai](../assets/illustrations/the-he-lot-khe-land-golf-climate.webp)
 
 Còn một khe nữa rất thật: khe đất đai.
 
@@ -280,7 +280,7 @@ Nó còn phải giữ đất cho người bình thường sống, trồng trọt
 
 ## 7. Từ Sở Hữu Sang Quyền Truy Cập Có Điều Kiện
 
-![Quyền Truy Cập Có Điều Kiện Và Ví Định Danh](../assets/illustrations/the-he-lot-khe-access-ubi-wallet.png)
+![Quyền Truy Cập Có Điều Kiện Và Ví Định Danh](../assets/illustrations/the-he-lot-khe-access-ubi-wallet.webp)
 
 Khi nhà quá đắt, đất quá xa, nghề quá bất ổn, con cái quá tốn, tài sản quá tập trung, hệ thống không cần nói thẳng rằng con người nên từ bỏ sở hữu. Nó chỉ cần làm cho sở hữu trở nên xa dần, rồi đưa ra một gói thay thế mềm hơn:
 
@@ -328,7 +328,7 @@ Họ làm cho anh không bao giờ mua nổi nhà, rồi bán cho anh gói thuê
 
 ## 8. Chúng Ta Cần Đầu Tư Vào Thế Hệ Tương Lai
 
-![Nền Móng Chính Sách Cho Thế Hệ Tương Lai](../assets/illustrations/the-he-lot-khe-future-policy-foundation.png)
+![Nền Móng Chính Sách Cho Thế Hệ Tương Lai](../assets/illustrations/the-he-lot-khe-future-policy-foundation.webp)
 
 Bài này không viết để bênh vực sự lười biếng.
 

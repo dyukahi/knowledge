@@ -26,7 +26,7 @@ sources:
 
 *Bài này không hỏi nam hay nữ đúng hơn. Nó hỏi ai được lợi khi hai giới trẻ, cùng bị nhà ở đắt đỏ, việc làm bấp bênh, cô đơn và kiệt sức, quay sang xem nhau là nguyên nhân chính của đời mình.*
 
-![Hai người trẻ Việt Nam đứng trước một đường chia cắt chưa hoàn thành, giữa họ vẫn còn một cây cầu](../assets/illustrations/viet-nam-truoc-hai-chien-hao/00-hero-two-trenches-vietnam.png)
+![Hai người trẻ Việt Nam đứng trước một đường chia cắt chưa hoàn thành, giữa họ vẫn còn một cây cầu](../assets/illustrations/viet-nam-truoc-hai-chien-hao/00-hero-two-trenches-vietnam.webp)
 
 ---
 
@@ -61,7 +61,7 @@ Các số liệu bầu cử được dùng dưới đây chủ yếu là **khả
 
 ## 1. Hàn Quốc Ở Giai Đoạn Muộn: Khi Nỗi Đau Có Đảng Phái Và Giới Tính
 
-![Người trẻ Hàn Quốc đứng trên hai sân ga đối diện, gần nhau về khoảng cách nhưng xa nhau về niềm tin](../assets/illustrations/viet-nam-truoc-hai-chien-hao/01-korea-late-stage-trenches.png)
+![Người trẻ Hàn Quốc đứng trên hai sân ga đối diện, gần nhau về khoảng cách nhưng xa nhau về niềm tin](../assets/illustrations/viet-nam-truoc-hai-chien-hao/01-korea-late-stage-trenches.webp)
 
 Hàn Quốc đã đi qua một quá trình hiện đại hóa cực nhanh: giáo dục cạnh tranh cao, thị trường lao động phân tầng, giờ làm dài, nhà ở đô thị đắt, nghĩa vụ quân sự chỉ dành cho nam, thứ bậc doanh nghiệp nặng, và một mô hình gia đình vẫn đặt nhiều lao động chăm sóc lên phụ nữ dù phụ nữ đã học và đi làm gần ngang nam giới.
 
@@ -105,7 +105,7 @@ Sinh suất Hàn Quốc tăng nhẹ từ 0,72 con/phụ nữ năm 2023 lên 0,75
 
 ## 4. Việt Nam Ở Giai Đoạn Sớm: Chưa Có Hai Khối, Nhưng Đã Có Vết Nứt
 
-![Một cặp đôi Việt Nam trước những vết nứt sớm do áp lực nhà ở, công việc và sinh con](../assets/illustrations/viet-nam-truoc-hai-chien-hao/02-vietnam-early-cracks.png)
+![Một cặp đôi Việt Nam trước những vết nứt sớm do áp lực nhà ở, công việc và sinh con](../assets/illustrations/viet-nam-truoc-hai-chien-hao/02-vietnam-early-cracks.webp)
 
 Việt Nam chưa có khoảng cách lá phiếu nam-nữ kiểu Hàn Quốc vì cấu trúc chính trị, truyền thông và bầu cử khác hẳn. Cũng chưa có bằng chứng về một phong trào 4B bản địa quy mô đáng kể. Nếu gắn nhãn “Hàn Quốc tiếp theo” ngay bây giờ, ta sẽ làm phẳng khác biệt và có thể tự tạo ra thứ mình sợ.
 
@@ -123,7 +123,7 @@ Không có bộ dữ liệu đại diện toàn quốc đủ tốt để kết l
 
 ## 5. Nhà Ở: Cái Giường Của Gia Đình Đã Thành Tài Sản Đầu Cơ
 
-![Ngôi nhà trở thành chiếc thang quá cao trong khi cả nam lẫn nữ cùng mang những gánh nặng khác nhau](../assets/illustrations/viet-nam-truoc-hai-chien-hao/03-housing-provider-motherhood.png)
+![Ngôi nhà trở thành chiếc thang quá cao trong khi cả nam lẫn nữ cùng mang những gánh nặng khác nhau](../assets/illustrations/viet-nam-truoc-hai-chien-hao/03-housing-provider-motherhood.webp)
 
 Mọi lời kêu gọi “giới trẻ hãy cưới và sinh hai con” đều yếu nếu né câu hỏi: họ sẽ sống ở đâu?
 
@@ -137,7 +137,7 @@ Hệ quả giới không đối xứng nhưng cùng phá quan hệ. Nam giới v
 
 ## 6. Gánh Nặng Chăm Sóc: Phụ Nữ Sợ Ca Làm Thứ Hai, Đàn Ông Sợ Không Bao Giờ Đủ
 
-![Lao động chăm sóc vô hình trong một gia đình nhiều thế hệ cần được cả hai người cùng sở hữu](../assets/illustrations/viet-nam-truoc-hai-chien-hao/04-care-burden-second-shift.png)
+![Lao động chăm sóc vô hình trong một gia đình nhiều thế hệ cần được cả hai người cùng sở hữu](../assets/illustrations/viet-nam-truoc-hai-chien-hao/04-care-burden-second-shift.webp)
 
 UNFPA nhấn mạnh bất bình đẳng chăm sóc là một trong bốn rào cản khiến người trẻ trì hoãn hoặc từ bỏ sinh con. Trên phạm vi toàn cầu, phụ nữ làm việc nhà và chăm sóc không lương nhiều gấp ba đến mười lần đàn ông tùy bối cảnh. Ở Việt Nam, chênh lệch này gắn với mô hình con dâu chăm con nhỏ lẫn cha mẹ già, trong khi hơn 60% phụ nữ làm trong khu vực phi chính thức không tiếp cận đầy đủ quyền lợi thai sản theo hợp đồng chính thức, theo UNFPA.
 
@@ -151,7 +151,7 @@ Phụ nữ không vô lý khi sợ hôn nhân biến thành hai ca làm: một c
 
 ## 7. Cỗ Máy Chuyển Nỗi Đau Thành Kẻ Thù
 
-![Cỗ máy nội dung biến áp lực vật chất của người trẻ thành phẫn nộ nhắm vào giới kia](../assets/illustrations/viet-nam-truoc-hai-chien-hao/05-outrage-machine.png)
+![Cỗ máy nội dung biến áp lực vật chất của người trẻ thành phẫn nộ nhắm vào giới kia](../assets/illustrations/viet-nam-truoc-hai-chien-hao/05-outrage-machine.webp)
 
 Phân cực giới không cần một âm mưu trung tâm. Nó có thể nảy sinh từ một cỗ máy động cơ lợi ích rất bình thường:
 
@@ -209,7 +209,7 @@ Tài sản bảo vệ không phải lý do để tự mãn. Gia đình liên th�
 
 ## 10. Chúng Ta Có Thể Làm Gì?
 
-![Nam nữ và cộng đồng cùng dựng lại cây cầu bằng nhà ở, chăm sóc và phẩm giá](../assets/illustrations/viet-nam-truoc-hai-chien-hao/06-bridge-care-community.png)
+![Nam nữ và cộng đồng cùng dựng lại cây cầu bằng nhà ở, chăm sóc và phẩm giá](../assets/illustrations/viet-nam-truoc-hai-chien-hao/06-bridge-care-community.webp)
 
 ### 10.1. Sửa bài toán vật chất trước khi mở chiến dịch đạo đức
 

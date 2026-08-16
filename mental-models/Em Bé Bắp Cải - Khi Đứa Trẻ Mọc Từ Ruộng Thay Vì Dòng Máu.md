@@ -20,7 +20,7 @@ related:
 
 > Một trong những câu chuyện dễ thương nhất để nói với trẻ con là: em bé không đến từ bụng mẹ, mà được nhặt trong bụi bắp cải. Nghe vô hại. Nhưng symbol không bao giờ chỉ là trò đùa. Một nền văn hóa kể chuyện trẻ em “mọc từ ruộng” đang vô thức tập cho mình tưởng tượng một đứa trẻ không cần womb, không cần lineage, không cần câu chuyện cha-mẹ-con, chỉ cần được tìm thấy, nhận nuôi, đăng ký và mang về nhà.
 
-![Những chiếc nôi phát sáng giữa ruộng bắp cải dưới bóng cây gia đình](../assets/illustrations/cabbage-baby-field-nursery.png)
+![Những chiếc nôi phát sáng giữa ruộng bắp cải dưới bóng cây gia đình](../assets/illustrations/cabbage-baby-field-nursery.webp)
 
 “Em bé bắp cải” là motif cũ. Ở tầng folklore, nó là cách người lớn né câu hỏi sex/reproduction với trẻ con. Ở tầng toy culture, nó thành một dòng búp bê được “adopt”, có giấy khai sinh, có tên, có câu chuyện được personalize. Ở tầng system, nó là một rehearsal mềm cho một tương lai nơi đứa trẻ không còn được tưởng tượng như kết quả của covenant và dòng máu, mà như một unit được grown, selected, delivered và assigned vào household.
 
@@ -30,7 +30,7 @@ Bài này không nói rằng mọi người từng chơi búp bê Cabbage Patch 
 
 ## Evidence Discipline / Cách Đọc Bài Này
 
-![Minh hoạ: Evidence Discipline - Cách Đọc Bài Này](../assets/illustrations/cabbage-baby-section-01-evidence-discipline-cach-doc-bai-nay.png)
+![Minh hoạ: Evidence Discipline - Cách Đọc Bài Này](../assets/illustrations/cabbage-baby-section-01-evidence-discipline-cach-doc-bai-nay.webp)
 
 | Tầng | Cách đọc đúng |
 |---|---|
@@ -45,7 +45,7 @@ Rule: không dùng toy/folklore như proof. Nhưng cũng không bỏ qua việc 
 
 ## 1. Folklore: Khi Người Lớn Né Womb
 
-![Minh hoạ: 1. Folklore: Khi Người Lớn Né Womb](../assets/illustrations/cabbage-baby-section-02-1-folklore-khi-nguoi-lon-ne-womb.png)
+![Minh hoạ: 1. Folklore: Khi Người Lớn Né Womb](../assets/illustrations/cabbage-baby-section-02-1-folklore-khi-nguoi-lon-ne-womb.webp)
 
 Trước khi có sex education, nhiều nền văn hóa dùng chuyện cổ tích để trả lời câu hỏi “em bé từ đâu ra?”. Ở phương Tây có stork đem em bé tới, hoặc em bé được tìm thấy trong cabbage patch. Cả hai đều làm một việc: tách trẻ khỏi sex, tách sinh sản khỏi cơ thể mẹ, và biến birth thành arrival.
 
@@ -59,7 +59,7 @@ Một đứa trẻ không “được sinh ra” mà “được đem tới”. 
 
 ## 2. Cabbage Patch Kids: Adoption As Product Ritual
 
-![Bắp cải, giấy chứng nhận và hộp delivery như still life của child logistics](../assets/illustrations/cabbage-baby-certificate-delivery.png)
+![Bắp cải, giấy chứng nhận và hộp delivery như still life của child logistics](../assets/illustrations/cabbage-baby-certificate-delivery.webp)
 
 Cabbage Patch Kids không chỉ là búp bê. Nó là một mini-ritual của adoption. Mỗi con búp bê có tên, có “birth certificate”, có hồ sơ cá nhân, và người mua không chỉ mua toy, mà “adopt” một em bé.
 
@@ -79,7 +79,7 @@ Nó là bản mềm của một logic lớn hơn: **child as adoptable product w
 
 ## 3. Bắp Cải Là Crop Symbol
 
-![Minh hoạ: 3. Bắp Cải Là Crop Symbol](../assets/illustrations/cabbage-baby-section-04-3-bap-cai-la-crop-symbol.png)
+![Minh hoạ: 3. Bắp Cải Là Crop Symbol](../assets/illustrations/cabbage-baby-section-04-3-bap-cai-la-crop-symbol.webp)
 
 Tại sao là bắp cải? Vì cabbage patch là ruộng. Ruộng là nơi crop mọc lên. Crop không có genealogy như một đứa trẻ. Crop có batch, season, yield, quality, harvest, distribution.
 
@@ -105,7 +105,7 @@ Hai image này tạo ra hai anthropology khác nhau. Nếu child là fruit của
 
 ## 4. Delivery Room: Birth Hay Logistics?
 
-![Minh hoạ: 4. Delivery Room: Birth Hay Logistics?](../assets/illustrations/cabbage-baby-section-05-4-delivery-room-birth-hay-logistics.png)
+![Minh hoạ: 4. Delivery Room: Birth Hay Logistics?](../assets/illustrations/cabbage-baby-section-05-4-delivery-room-birth-hay-logistics.webp)
 
 Trong bài [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]], motif **delivery room** đã mở ra một wordplay rất đắt. Phòng sinh trong tiếng Anh là delivery room. Tầng bình thường: nơi em bé được sinh ra. Tầng thương mại/pháp lý: delivery là giao hàng, chuyển quyền kiểm soát, hoàn tất logistics.
 
@@ -119,7 +119,7 @@ Không phải policy đi trước culture. Rất nhiều khi culture đi trướ
 
 ## 5. Artificial Womb: Cabbage Patch Trở Thành Infrastructure
 
-![Minh hoạ: 5. Artificial Womb: Cabbage Patch Trở Thành Infrastructure](../assets/illustrations/cabbage-baby-section-06-5-artificial-womb-cabbage-patch-tro-thanh-infrastructure.png)
+![Minh hoạ: 5. Artificial Womb: Cabbage Patch Trở Thành Infrastructure](../assets/illustrations/cabbage-baby-section-06-5-artificial-womb-cabbage-patch-tro-thanh-infrastructure.webp)
 
 Artificial womb sẽ không được bán bằng ngôn ngữ lạnh lùng. Nó sẽ được bán bằng ngôn ngữ care:
 
@@ -141,7 +141,7 @@ Cabbage patch là image của field. Artificial womb là field công nghiệp h�
 
 ## 6. Orphan Train 2.0: Không Cần Tàu Nếu Đã Có Nursery
 
-![Minh hoạ: 6. Orphan Train 2.0: Không Cần Tàu Nếu Đã Có Nursery](../assets/illustrations/cabbage-baby-section-07-6-orphan-train-2-0-khong-can-tau-neu-da-co-nursery.png)
+![Minh hoạ: 6. Orphan Train 2.0: Không Cần Tàu Nếu Đã Có Nursery](../assets/illustrations/cabbage-baby-section-07-6-orphan-train-2-0-khong-can-tau-neu-da-co-nursery.webp)
 
 Orphan Train cũ chở trẻ em bằng tàu. Orphan Train mới không cần đường ray. Nếu trẻ em đã được tưởng tượng như crop, product, adopted persona và delivery package, thì train không còn cần thiết. The nursery itself is the station.
 
@@ -155,7 +155,7 @@ Một đứa trẻ orphaned vì mất cha mẹ vẫn có thể được một v�
 
 ## 7. Predictive Programming Dễ Thương Nhất Là Đồ Chơi
 
-![Minh hoạ: 7. Predictive Programming Dễ Thương Nhất Là Đồ Chơi](../assets/illustrations/cabbage-baby-section-08-7-predictive-programming-de-thuong-nhat-la-do-choi.png)
+![Minh hoạ: 7. Predictive Programming Dễ Thương Nhất Là Đồ Chơi](../assets/illustrations/cabbage-baby-section-08-7-predictive-programming-de-thuong-nhat-la-do-choi.webp)
 
 [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] không chỉ xảy ra trong phim dystopia. Đôi khi nó xảy ra trong nursery, toy aisle, cartoon và bedtime story.
 
@@ -178,7 +178,7 @@ flowchart TD
 
 ## 8. Counterspell: Đứa Trẻ Không Phải Crop
 
-![Minh hoạ: 8. Counterspell: Đứa Trẻ Không Phải Crop](../assets/illustrations/cabbage-baby-section-09-8-counterspell-dua-tre-khong-phai-crop.png)
+![Minh hoạ: 8. Counterspell: Đứa Trẻ Không Phải Crop](../assets/illustrations/cabbage-baby-section-09-8-counterspell-dua-tre-khong-phai-crop.webp)
 
 Lối ra không phải panic đạo đức hay ghét đồ chơi. Lối ra là nhớ lại anthropology đúng: đứa trẻ không phải crop, không phải product, không phải adult desire object, không phải identity package, không phải ticket để người lớn hoàn thành fantasy của mình.
 
@@ -196,7 +196,7 @@ Một xã hội muốn giữ linh hồn của trẻ phải chọn lại image th
 
 ## Final Line
 
-![Minh hoạ: Final Line](../assets/illustrations/cabbage-baby-section-10-final-line.png)
+![Minh hoạ: Final Line](../assets/illustrations/cabbage-baby-section-10-final-line.webp)
 
 Em bé bắp cải dễ thương vì nó giấu womb khỏi câu chuyện. Nhưng chính chỗ dễ thương đó mới đáng đọc. Khi đứa trẻ được tưởng tượng như thứ mọc trong ruộng, được nhặt, được đặt tên, được cấp giấy và được mang về nhà, culture đã rehearsal một thế giới nơi family không còn là nơi sinh ra sự sống, mà chỉ là nơi nhận delivery.
 

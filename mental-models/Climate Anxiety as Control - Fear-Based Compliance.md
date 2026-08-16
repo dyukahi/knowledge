@@ -18,7 +18,7 @@ related:
 
 *Climate anxiety is real. But real fear can still be weaponized. A generation taught that the future is burning may voluntarily hand over consumption, movement, and money controls to systems promising salvation.*
 
-![Người trẻ ôm Trái Đất xanh mong manh trong khi dashboard guilt, carbon score và headline emergency xoáy quanh, biểu tượng climate anxiety](../assets/illustrations/climate-anxiety-control/00-hero-eco-anxiety.png)
+![Người trẻ ôm Trái Đất xanh mong manh trong khi dashboard guilt, carbon score và headline emergency xoáy quanh, biểu tượng climate anxiety](../assets/illustrations/climate-anxiety-control/00-hero-eco-anxiety.webp)
 
 Bài này không phủ định vấn đề môi trường. Ô nhiễm, phá rừng, đất chết, nước độc, industrial toxicity và khí hậu biến động là thật. Vault hỏi một câu khác: ai biến nỗi sợ môi trường thành quyền quản trị hành vi con người?
 
@@ -58,7 +58,7 @@ Một crisis thật cần action thật. Nhưng action thật khác compliance t
 
 ## Carbon Wallet Và Permission Layer
 
-![Carbon footprint dashboard nối với ví số và chìa khóa identity, các cổng compliance xanh biểu tượng cho carbon wallet](../assets/illustrations/climate-anxiety-control/01-carbon-wallet.png)
+![Carbon footprint dashboard nối với ví số và chìa khóa identity, các cổng compliance xanh biểu tượng cho carbon wallet](../assets/illustrations/climate-anxiety-control/01-carbon-wallet.webp)
 
 
 Carbon footprint ban đầu là metric. Nhưng metric nào gắn với payment và identity có thể thành rule.
@@ -83,7 +83,7 @@ Câu hỏi không phải 15-minute city tốt hay xấu. Câu hỏi là nó tăn
 
 ## Ecology Thật vs Technocratic Fear
 
-![Một bên là rừng sống, đất, nước và cộng đồng địa phương; bên kia là thành phố giám sát xanh technocratic, ecology đối diện control](../assets/illustrations/climate-anxiety-control/02-ecology-vs-control.png)
+![Một bên là rừng sống, đất, nước và cộng đồng địa phương; bên kia là thành phố giám sát xanh technocratic, ecology đối diện control](../assets/illustrations/climate-anxiety-control/02-ecology-vs-control.webp)
 
 
 Hai cực đều sai. Một cực nói climate fake hết, khỏi quan tâm. Cực kia nói planet sắp chết, giao hết quyền cho technocrats.

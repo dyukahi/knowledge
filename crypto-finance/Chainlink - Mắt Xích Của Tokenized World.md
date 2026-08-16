@@ -21,7 +21,7 @@ related:
 
 *Chainlink is not merely a crypto oracle protocol. It is the infrastructural and symbolic link that connects blockchains to real-world data, assets, banks, settlement rails, and the tokenized world.*
 
-![Các mắt xích phát sáng nối blockchain blocks với tài sản thật, ngân hàng, data streams và settlement rails, biểu tượng oracle layer của tokenized world](../assets/illustrations/chainlink-tokenized-world/00-hero-oracle-bridge.png)
+![Các mắt xích phát sáng nối blockchain blocks với tài sản thật, ngân hàng, data streams và settlement rails, biểu tượng oracle layer của tokenized world](../assets/illustrations/chainlink-tokenized-world/00-hero-oracle-bridge.webp)
 
 Câu hỏi chính không phải “Chainlink tốt hay xấu?”. Câu hỏi là: khi mọi tài sản được nối vào chain, ai giữ quyền đọc, xác minh, đóng/mở và lập điều kiện cho dòng chảy?
 
@@ -47,7 +47,7 @@ Nếu Bitcoin là exit khỏi banking system ở tầng myth, Chainlink là cây
 
 ## Oracle Là Gì Và Vì Sao Quan Trọng?
 
-![Một tháp oracle đưa tín hiệu giá, thời tiết, dự trữ và sự kiện vào smart contracts, như reality data đi vào chain](../assets/illustrations/chainlink-tokenized-world/01-oracle-reality-feed.png)
+![Một tháp oracle đưa tín hiệu giá, thời tiết, dự trữ và sự kiện vào smart contracts, như reality data đi vào chain](../assets/illustrations/chainlink-tokenized-world/01-oracle-reality-feed.webp)
 
 
 Blockchain tự nó không biết giá vàng, lãi suất, thời tiết, kết quả bầu cử, trạng thái container, proof-of-reserve hay luật compliance ngoài đời. Oracle là lớp đưa dữ liệu ngoài chain vào chain.
@@ -60,7 +60,7 @@ Oracle không chỉ là kỹ thuật. Nó là quyền định nghĩa reality cho
 
 ## Tokenized World Và RWA
 
-![Tài sản tokenized, identity tags và compliance data kết thành hồ sơ tài chính machine-readable, cảnh báo privacy risk trong tokenized world](../assets/illustrations/chainlink-tokenized-world/02-visibility-stack.png)
+![Tài sản tokenized, identity tags và compliance data kết thành hồ sơ tài chính machine-readable, cảnh báo privacy risk trong tokenized world](../assets/illustrations/chainlink-tokenized-world/02-visibility-stack.webp)
 
 
 RWA/tokenization nói rằng tài sản thật: trái phiếu, cổ phiếu, bất động sản, hàng hóa, tín dụng, invoice, carbon credit, thậm chí identity credential có thể được biểu diễn onchain.

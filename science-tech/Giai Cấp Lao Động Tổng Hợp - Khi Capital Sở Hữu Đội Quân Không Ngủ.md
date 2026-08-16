@@ -52,7 +52,7 @@ Bài này phân tích một kiến trúc đang hình thành. Nó không tuyên b
 
 ## 1. Lao Động Tổng Hợp Là Gì?
 
-![Một người điều phối đội ngũ lao động tổng hợp trong không gian vận hành](../assets/illustrations/synthetic-labor-class/01-synthetic-labor-stack.png)
+![Một người điều phối đội ngũ lao động tổng hợp trong không gian vận hành](../assets/illustrations/synthetic-labor-class/01-synthetic-labor-stack.webp)
 
 Công cụ AI chờ con người hỏi từng câu. Lao động tổng hợp nhận một vai trò, một mục tiêu, một vùng quyền hạn và một định nghĩa hoàn thành.
 
@@ -74,7 +74,7 @@ Vì vậy, câu lệnh không phải đơn vị lao động. **Một vòng nhi�
 
 ## 2. Từ Số Nhân Sự Sang Giờ Lao Động AI
 
-![Giờ công nghiệp chuyển thành giờ lao động AI và đi qua lớp xác minh của con người](../assets/illustrations/synthetic-labor-class/02-agent-hours-and-verified-output.png)
+![Giờ công nghiệp chuyển thành giờ lao động AI và đi qua lớp xác minh của con người](../assets/illustrations/synthetic-labor-class/02-agent-hours-and-verified-output.webp)
 
 Nền kinh tế công nghiệp đo năng lực qua số nhân sự, giờ công, máy móc và vốn đầu tư. Nền kinh tế lao động tổng hợp bắt đầu thêm các biến mới:
 
@@ -95,7 +95,7 @@ Nếu tác nhân AI viết báo cáo trong 10 phút nhưng chuyên viên mất h
 
 ## 3. Độ Tin Cậy Là Biên Giới Thật
 
-![Chuỗi tác vụ tự trị băng qua cây cầu mong manh của độ tin cậy](../assets/illustrations/synthetic-labor-class/03-reliability-frontier.png)
+![Chuỗi tác vụ tự trị băng qua cây cầu mong manh của độ tin cậy](../assets/illustrations/synthetic-labor-class/03-reliability-frontier.webp)
 
 Các bài đánh giá trí thông minh thường hỏi mô hình biết gì. Một hệ thống lao động phải hỏi nó có hoàn thành được chuỗi hành động dài mà không lạc đường hay không.
 
@@ -116,7 +116,7 @@ Lao động tổng hợp vì vậy không loại bỏ quản trị. Nó biến q
 
 ## 4. Đội Quân Không Ngủ Thuộc Về Ai?
 
-![Hạ tầng tính toán và lõi mô hình nằm trong tay một số ít chủ sở hữu](../assets/illustrations/synthetic-labor-class/04-ownership-of-compute.png)
+![Hạ tầng tính toán và lõi mô hình nằm trong tay một số ít chủ sở hữu](../assets/illustrations/synthetic-labor-class/04-ownership-of-compute.webp)
 
 Một người lao động truyền thống sở hữu cơ thể, ký ức và một phần kỹ năng của mình. Doanh nghiệp thuê thời gian của họ nhưng không thể nhân bản họ bằng một lệnh.
 
@@ -139,7 +139,7 @@ Bạn có thể sở hữu câu lệnh nhưng vẫn thuê trí thông minh qua A
 
 ## 5. Nghịch Lý Công Ty Một Người
 
-![Một xưởng một người được khuếch đại thành công ty lớn trong bóng nền tảng khổng lồ](../assets/illustrations/synthetic-labor-class/05-one-person-firm-paradox.png)
+![Một xưởng một người được khuếch đại thành công ty lớn trong bóng nền tảng khổng lồ](../assets/illustrations/synthetic-labor-class/05-one-person-firm-paradox.webp)
 
 Lao động tổng hợp mở một cánh cửa chưa từng có cho cá nhân. Một nhà sáng lập có phán đoán, kiến thức chuyên môn và kênh phân phối có thể vận hành năng lực từng cần cả đội ngũ. Một nhà nghiên cứu nhỏ có thể đọc nhiều công trình hơn. Một lập trình viên có thể xây dựng, kiểm thử, viết tài liệu và hỗ trợ sản phẩm với lượng vốn thấp hơn.
 
@@ -158,7 +158,7 @@ Vì vậy, “AI trao quyền cho mọi người” và “AI tập trung quyề
 
 ## 6. Nấc Thang Học Nghề Có Thể Bị Rút Mất
 
-![Những bậc thang học nghề đầu tiên biến mất dưới chân thế hệ mới](../assets/illustrations/synthetic-labor-class/06-missing-apprenticeship-ladder.png)
+![Những bậc thang học nghề đầu tiên biến mất dưới chân thế hệ mới](../assets/illustrations/synthetic-labor-class/06-missing-apprenticeship-ladder.webp)
 
 NBER cho thấy nhân viên mới hưởng lợi năng suất lớn nhất trong công việc hỗ trợ khách hàng. Đó là mặt sáng: AI có thể đóng gói kinh nghiệm tốt nhất và rút ngắn đường cong học tập.[^1]
 
@@ -182,7 +182,7 @@ Một công ty tối ưu quý này bằng cách xóa nấc thang đầu vào có
 
 ## 7. Khi Lao Động Rẻ, Phán Đoán Trở Thành Tài Sản Khan Hiếm
 
-![Dòng đầu ra khổng lồ phải đi qua cánh cổng kiểm chứng hẹp của phán đoán](../assets/illustrations/synthetic-labor-class/07-judgment-as-scarcity.png)
+![Dòng đầu ra khổng lồ phải đi qua cánh cổng kiểm chứng hẹp của phán đoán](../assets/illustrations/synthetic-labor-class/07-judgment-as-scarcity.webp)
 
 [[Cái Gì Trong Bạn Không Thể Bị Model Hóa]] hỏi điều gì còn giá trị khi đầu ra bị làm rẻ. Lao động tổng hợp cho câu trả lời mang tính vận hành hơn: phần khan hiếm chuyển từ sản xuất sang **chọn lọc, kiểm chứng, trách nhiệm và gu thẩm định**.
 
@@ -207,7 +207,7 @@ Một hệ thống tạo nhiều đầu ra nhưng đẩy rủi ro cực đoan sa
 
 ## 8. Giai Cấp Vô Sản Tổng Hợp Và Golem
 
-![Golem bằng mạch và ngôn ngữ đứng cạnh bóng hình lao động công nghiệp](../assets/illustrations/synthetic-labor-class/08-synthetic-proletariat-golem.png)
+![Golem bằng mạch và ngôn ngữ đứng cạnh bóng hình lao động công nghiệp](../assets/illustrations/synthetic-labor-class/08-synthetic-proletariat-golem.webp)
 
 **Tầng biểu tượng:** trong truyền thuyết dân gian, golem là vật chất được thổi sự sống bằng ngôn từ và mệnh lệnh. Nó mạnh, máy móc và không có trí tuệ tương xứng với sức lực. Trong hình dung công nghiệp, giai cấp vô sản là tầng lớp phải bán sức lao động vì không sở hữu tư liệu sản xuất.
 
@@ -230,7 +230,7 @@ Golem không nổi dậy vì bị trả lương thấp. Vấn đề gần hơn l
 
 ## 9. UBI Hay Quyền Sở Hữu?
 
-![Hai tương lai tách nhánh giữa trợ cấp tập trung và quyền sở hữu của cộng đồng](../assets/illustrations/synthetic-labor-class/09-ubi-versus-ownership.png)
+![Hai tương lai tách nhánh giữa trợ cấp tập trung và quyền sở hữu của cộng đồng](../assets/illustrations/synthetic-labor-class/09-ubi-versus-ownership.webp)
 
 Nếu lao động tổng hợp làm giảm nhu cầu lao động con người, câu hỏi phân phối trở nên không thể né. Phần giá trị năng suất tăng thêm sẽ đi đâu?
 
@@ -257,7 +257,7 @@ Không có phương án nào miễn phí hoặc tự động công bằng. Sở 
 
 ## 10. Phản Ứng Có Chủ Quyền / Cách Không Trở Thành Phần Thừa
 
-![Cá nhân mang theo trí nhớ, công cụ và tài sản sản xuất rời khỏi thành phố nền tảng](../assets/illustrations/synthetic-labor-class/10-synthetic-labor-sovereignty.png)
+![Cá nhân mang theo trí nhớ, công cụ và tài sản sản xuất rời khỏi thành phố nền tảng](../assets/illustrations/synthetic-labor-class/10-synthetic-labor-sovereignty.webp)
 
 Câu trả lời cá nhân không phải “học kỹ thuật viết câu lệnh” rồi yên tâm. Câu lệnh chỉ là giao diện và có thể trở nên phổ thông rất nhanh.
 

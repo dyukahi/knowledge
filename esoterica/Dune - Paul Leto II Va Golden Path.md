@@ -27,7 +27,7 @@ related:
 ---
 # Dune — Paul, Leto II Và Golden Path
 
-![Một người đứng trước hai nhánh Golden Path trên sa mạc, một nhánh giữ phần người và một nhánh dẫn tới bóng Thần Hoàng bằng cát](../assets/illustrations/dune-golden-path/00-hero.png)
+![Một người đứng trước hai nhánh Golden Path trên sa mạc, một nhánh giữ phần người và một nhánh dẫn tới bóng Thần Hoàng bằng cát](../assets/illustrations/dune-golden-path/00-hero.webp)
 
 **Dune không phải câu chuyện về một đấng cứu thế giải phóng dân tộc rồi lên ngôi. Nó là bản giải phẫu của cái bẫy đấng cứu thế: Paul Atreides thấy đủ xa để biết nhân loại cần một con đường kinh hoàng, nhưng vẫn còn quá người để tự biến mình thành quái vật cuối cùng. Leto II sinh ra như phần định mệnh mà người cha từ chối: không phải để chọn con đường khác, mà để hoàn tất Golden Path.**
 
@@ -73,7 +73,7 @@ Bài này nằm trong cụm [[Ma Trận]], [[Gnosis]], [[Nhân Quả]], [[Luân 
 
 ## Paul Không Bước Vào Lời Tiên Tri. Paul Bị Lời Tiên Tri Chờ Sẵn
 
-![Đấng cứu thế sa mạc bị bao quanh bởi đám đông tín đồ và biểu tượng lời tiên tri, chiến thắng nhìn như một cái lồng](../assets/illustrations/dune-golden-path/01-messiah-trap.png)
+![Đấng cứu thế sa mạc bị bao quanh bởi đám đông tín đồ và biểu tượng lời tiên tri, chiến thắng nhìn như một cái lồng](../assets/illustrations/dune-golden-path/01-messiah-trap.webp)
 
 Điểm đáng sợ nhất của *Dune* là Paul không tự sáng tạo ra huyền thoại của mình. Huyền thoại đã chờ sẵn trên Arrakis.
 
@@ -89,7 +89,7 @@ Từ đó, huyền thoại không còn là công cụ. Huyền thoại trở th�
 
 ## Prescience Là Nhà Tù, Không Phải Siêu Năng Lực
 
-![Một người mắc kẹt trong mê cung ánh sáng của các nhánh tương lai, prescience hiện ra như nhà tù chứ không phải quyền năng](../assets/illustrations/dune-golden-path/02-prescience-prison.png)
+![Một người mắc kẹt trong mê cung ánh sáng của các nhánh tương lai, prescience hiện ra như nhà tù chứ không phải quyền năng](../assets/illustrations/dune-golden-path/02-prescience-prison.webp)
 
 Hollywood thường biến nhìn thấy tương lai thành quyền năng. *Dune* làm ngược lại. Prescience là một dạng nhà tù.
 
@@ -105,7 +105,7 @@ Trong logic của vault, đây là một dạng [[Ma Trận]] tinh vi hơn hệ 
 
 ## Paul Và Leto II Là Hai Điểm Mù Của Nhau
 
-![Hai bóng người cha và con bị tách bởi vùng mù trong bão cát; các dòng tương lai uốn quanh nhưng không xuyên qua được](../assets/illustrations/dune-golden-path/03-paul-leto-blindspot.png)
+![Hai bóng người cha và con bị tách bởi vùng mù trong bão cát; các dòng tương lai uốn quanh nhưng không xuyên qua được](../assets/illustrations/dune-golden-path/03-paul-leto-blindspot.webp)
 
 Trục sâu nhất không nằm ở việc Paul có thấy tương lai hay không. Trục sâu nhất là Paul và Leto II không thể nhìn nhau như hai vật thể minh bạch trong lời tiên tri.
 
@@ -121,7 +121,7 @@ Nếu Paul là người thấy cánh cửa địa ngục và dừng lại trư�
 
 ## Alia: Khi Gnosis Đến Quá Sớm
 
-![Alia đứng trên cồn cát đêm, ánh sáng Gnosis mở quá sớm trước mặt và các bóng ký ức tổ tiên chồng lớp phía sau](../assets/illustrations/dune-golden-path/08-alia-too-early-gnosis.png)
+![Alia đứng trên cồn cát đêm, ánh sáng Gnosis mở quá sớm trước mặt và các bóng ký ức tổ tiên chồng lớp phía sau](../assets/illustrations/dune-golden-path/08-alia-too-early-gnosis.webp)
 
 Alia Atreides là mảnh còn thiếu giữa Paul và Leto II. Nếu Paul bị tương lai giam, còn Leto II tự biến mình thành nhà tù để giữ Golden Path, thì Alia là người bị quá khứ chiếm trước khi kịp có một cái tôi đủ vững.
 
@@ -163,7 +163,7 @@ Leto hiểu điều mà Paul không chịu hiện thân trọn vẹn: đôi khi 
 
 ## Golden Path Là Liều Độc Tạo Miễn Dịch
 
-![Golden Path như con đường vàng khắc nghiệt xuyên qua đế chế sa mạc, liều độc biến thành miễn dịch lịch sử](../assets/illustrations/dune-golden-path/04-golden-path-vaccine.png)
+![Golden Path như con đường vàng khắc nghiệt xuyên qua đế chế sa mạc, liều độc biến thành miễn dịch lịch sử](../assets/illustrations/dune-golden-path/04-golden-path-vaccine.webp)
 
 Golden Path không phải thiên đường. Nó là một liều độc tạo miễn dịch.
 
@@ -179,7 +179,7 @@ Trong ngôn ngữ [[Nhân Quả]], Paul không xóa nghiệp của con đường
 
 ## Leto II: Ma Trận Cuối Cùng Để Phá Ma Trận
 
-![Bóng Thần Hoàng nửa người nửa sandworm như bức tường sống, nhân loại tản ra ngoài bức tường vào vũ trụ](../assets/illustrations/dune-golden-path/05-god-emperor-matrix.png)
+![Bóng Thần Hoàng nửa người nửa sandworm như bức tường sống, nhân loại tản ra ngoài bức tường vào vũ trụ](../assets/illustrations/dune-golden-path/05-god-emperor-matrix.webp)
 
 Nếu đọc trong cụm [[Ma Trận]], Leto II là một nghịch lý sống.
 
@@ -197,7 +197,7 @@ Một cách nói sắc hơn:
 
 ## Chani, Irulan Và Chiến Trường Của Dòng Máu
 
-![Chani, Irulan và ngai vàng xa trong cung điện sa mạc, các sợi dòng máu đỏ vàng đan nhau như chiến trường kế vị](../assets/illustrations/dune-golden-path/06-bloodline-battlefield.png)
+![Chani, Irulan và ngai vàng xa trong cung điện sa mạc, các sợi dòng máu đỏ vàng đan nhau như chiến trường kế vị](../assets/illustrations/dune-golden-path/06-bloodline-battlefield.webp)
 
 Hai phần phim của Denis làm Chani quan trọng hơn rất nhiều. Chani không chỉ là tình yêu của Paul. Chani là cái neo giữ nhân tính: người còn nhìn Paul như một con người khi kẻ khác đã bắt đầu nhìn anh như đấng cứu thế.
 
@@ -213,7 +213,7 @@ Irulan cũng không chỉ là người vợ chính trị. Trong thế giới *Du
 
 ## Dune 3 Sẽ Không Phải Chiến Thắng. Nó Sẽ Là Hậu Quả
 
-![Ngai vàng sau thánh chiến bị cát vùi, một người lữ hành mù bước vào bão sa mạc, chiến thắng biến thành lưu đày](../assets/illustrations/dune-golden-path/07-dune3-aftermath.png)
+![Ngai vàng sau thánh chiến bị cát vùi, một người lữ hành mù bước vào bão sa mạc, chiến thắng biến thành lưu đày](../assets/illustrations/dune-golden-path/07-dune3-aftermath.webp)
 
 Nếu Denis theo *Dune Messiah*, *Dune 3* sẽ mở trong phần hậu quả của chiến thắng. Paul đã là Hoàng Đế. Fremen đã trở thành lực lượng đế chế-tôn giáo. Thánh chiến đã lan ra ngoài Arrakis. Các thế lực cũ như Bene Gesserit, Spacing Guild, Tleilaxu và Irulan sẽ tìm cách bẻ gãy Paul hoặc lấy lại quyền kiểm soát lai tạo dòng máu.
 

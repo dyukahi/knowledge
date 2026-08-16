@@ -22,7 +22,7 @@ related:
 
 ---
 
-![Bàn ăn gia đình ấm áp đối diện thành phố neon lạnh, biểu tượng cho hôn nhân, hormone và chủ quyền sinh học](../assets/illustrations/hormone-hon-nhan-giai-phong-sinh-hoc.png)
+![Bàn ăn gia đình ấm áp đối diện thành phố neon lạnh, biểu tượng cho hôn nhân, hormone và chủ quyền sinh học](../assets/illustrations/hormone-hon-nhan-giai-phong-sinh-hoc.webp)
 
 ---
 
@@ -65,7 +65,7 @@ Cảnh báo y tế: bài này không phải lời khuyên về tránh thai, phá
 
 ## 1. Hôn Nhân Không Còn Là Vé Vào Cửa Của Tình Dục
 
-![Hai con đường từ bàn cưới: thị trường khoái cảm neon và mái nhà nghĩa vụ ấm áp](../assets/illustrations/hormone-marriage-covenant-vs-market.png)
+![Hai con đường từ bàn cưới: thị trường khoái cảm neon và mái nhà nghĩa vụ ấm áp](../assets/illustrations/hormone-marriage-covenant-vs-market.webp)
 
 Ngày xưa, hôn nhân giữ nhiều chức năng cùng lúc: tình dục hợp pháp, sinh sản, tài sản, liên minh họ hàng, lao động gia đình, bảo vệ phụ nữ/trẻ em, danh dự dòng tộc và trật tự xã hội. Hiện đại đã tách các chức năng này ra.
 
@@ -85,7 +85,7 @@ Vấn đề của hiện đại không phải nó cho phép người ta không c
 
 ## 2. Thuốc Tránh Thai: Tự Do Thật, Nhưng Không Miễn Phí
 
-![Vỉ thuốc, chu kỳ mặt trăng và các nhánh lựa chọn phản chiếu trong ly nước](../assets/illustrations/hormone-birth-control-tradeoffs.png)
+![Vỉ thuốc, chu kỳ mặt trăng và các nhánh lựa chọn phản chiếu trong ly nước](../assets/illustrations/hormone-birth-control-tradeoffs.webp)
 
 Thuốc tránh thai và các công nghệ kiểm soát sinh sản đã thay đổi lịch sử. Chúng cho phụ nữ khả năng học, làm việc, thoát khỏi sinh sản cưỡng bức, tránh thai khi chưa sẵn sàng, và rời khỏi những cấu trúc áp bức. Đây là tầng thật. Không nên xóa nó chỉ vì ta đang phê bình hiện đại.
 
@@ -101,7 +101,7 @@ Nói vậy không có nghĩa “ai dùng thuốc tránh thai là lệch”. Nó 
 
 ## 3. Chính Trị Phá Thai: Khi Tử Cung Thành Chiến Trường Ý Thức Hệ
 
-![Một căn phòng yên lặng với ánh sáng hình tử cung giữa hai bục ý thức hệ xa nhau](../assets/illustrations/hormone-abortion-politics-womb.png)
+![Một căn phòng yên lặng với ánh sáng hình tử cung giữa hai bục ý thức hệ xa nhau](../assets/illustrations/hormone-abortion-politics-womb.webp)
 
 Phá thai là một trong những chủ đề dễ biến con người thành khẩu hiệu nhất. Một bên chỉ thấy “quyền tự chủ cơ thể”. Bên kia chỉ thấy “giết một sinh mệnh”. Cả hai chạm vào một phần thật, rồi thường mất khả năng nghe phần còn lại.
 
@@ -123,7 +123,7 @@ Cách đọc đúng hơn:
 
 ## 4. Hormone Không Phải Định Mệnh, Nhưng Cũng Không Phải Chi Tiết Phụ
 
-![Cơ thể ánh sáng trong chòm sao nội tiết nối giấc ngủ, nắng, tim và căng thẳng](../assets/illustrations/hormone-endocrine-constellation.png)
+![Cơ thể ánh sáng trong chòm sao nội tiết nối giấc ngủ, nắng, tim và căng thẳng](../assets/illustrations/hormone-endocrine-constellation.webp)
 
 Một lỗi của hiện đại là tưởng ý thức chỉ là quan điểm. Muốn gì, nghĩ gì, yêu ai, chịu được gì, gắn kết ra sao, tâm trạng thế nào, ham muốn thế nào, tất cả bị nói như thể chỉ là bản sắc và lựa chọn. Nhưng cơ thể có tiếng nói riêng.
 
@@ -139,7 +139,7 @@ Nói vậy không có nghĩa rơi vào định mệnh luận sinh học. Phụ n
 
 ## 5. Rối Loạn Nội Tiết Từ Môi Trường: Ma Trận Đi Qua Nước, Nhựa, Ánh Sáng Và Stress
 
-![Dòng sông kính chảy qua căn hộ neon và thành phố công nghiệp, đối diện một mầm cây nhỏ](../assets/illustrations/hormone-endocrine-disruption-city.png)
+![Dòng sông kính chảy qua căn hộ neon và thành phố công nghiệp, đối diện một mầm cây nhỏ](../assets/illustrations/hormone-endocrine-disruption-city.webp)
 
 Nếu chỉ nói “phụ nữ hiện đại không muốn sinh con” hoặc “đàn ông hiện đại yếu” thì quá lười. Câu hỏi mạnh hơn: cơ thể hiện đại đang sống trong môi trường nào?
 
@@ -159,7 +159,7 @@ Một lần nữa: không phải ai không sinh con cũng bị lừa. Có ngư�
 
 ## 6. Xa Xỉ Không Con Và Cái Bẫy Hưởng Lạc
 
-![Vali du lịch xa xỉ đối diện bàn gia đình trống với cây non và gậy người già](../assets/illustrations/hormone-childfree-luxury-hedonism.png)
+![Vali du lịch xa xỉ đối diện bàn gia đình trống với cây non và gậy người già](../assets/illustrations/hormone-childfree-luxury-hedonism.webp)
 
 Những cặp không con đi Bali, Tahiti, đi trượt tuyết, mua đồ chơi đắt tiền không tự động sai. Người ta có quyền sống đời mình. Vấn đề không nằm ở chuyến du lịch. Vấn đề là khi văn hóa bán hình ảnh đó như đỉnh cao tự do, còn con cái được đóng khung như mất lối sống.
 
@@ -175,7 +175,7 @@ Nhưng cũng cần nói rõ: nếu một người không có năng lực chứa 
 
 ## 7. Hôn Nhân Như Hạ Tầng Của Sinh Học Và Linh Hồn
 
-![Chiếc bình đất giữ ngọn lửa, rễ cây, nhẫn cưới, đồ chơi trẻ con và dấu vết chăm sóc](../assets/illustrations/hormone-marriage-life-force-container.png)
+![Chiếc bình đất giữ ngọn lửa, rễ cây, nhẫn cưới, đồ chơi trẻ con và dấu vết chăm sóc](../assets/illustrations/hormone-marriage-life-force-container.webp)
 
 Hôn nhân khỏe không chỉ là tình yêu. Nó là trường chứa cho những thứ rất khó chứa nếu chỉ có cá nhân:
 

@@ -23,7 +23,7 @@ related:
 
 *The Elite is not merely “a secret group of bad people ruling the world.” It is the layer of power capable of designing default options: money, rules, narratives, infrastructure, education, scientific consensus, media frames, and permission structures that the masses mistake for natural reality.*
 
-![Những bàn tay vô hình thiết kế menu lựa chọn mặc định cho đám đông bên dưới, gồm đường tiền tệ, media frame, cổng giáo dục và hạ tầng](../assets/illustrations/elite-power/00-hero-default-options.png)
+![Những bàn tay vô hình thiết kế menu lựa chọn mặc định cho đám đông bên dưới, gồm đường tiền tệ, media frame, cổng giáo dục và hạ tầng](../assets/illustrations/elite-power/00-hero-default-options.webp)
 
 Cách đọc yếu nhất là săn một danh sách tên rồi gọi đó là Elite. Cách đọc mạnh hơn là thấy network of incentives: capital, state, intelligence, banking, philanthropy, media, academia, entertainment và technology cùng tạo một field quyền lực.
 
@@ -67,7 +67,7 @@ Elite không nhất thiết đồng thuận 100%. Có faction, cạnh tranh, bet
 
 ## Bốn Hình Thức Quyền Lực
 
-![Bốn tòa tháp quyền lực biểu tượng cho tiền tệ, narrative, hạ tầng và myth kết nối bằng sợi vô hình phía trên thành phố](../assets/illustrations/elite-power/01-four-powers.png)
+![Bốn tòa tháp quyền lực biểu tượng cho tiền tệ, narrative, hạ tầng và myth kết nối bằng sợi vô hình phía trên thành phố](../assets/illustrations/elite-power/01-four-powers.webp)
 
 
 **Monetary power** là quyền định nghĩa tiền, tín dụng, lãi suất, thanh khoản, tài sản thế chấp, payment rails và khả năng freeze. Ai kiểm soát tiền không chỉ kiểm soát giao dịch. Họ kiểm soát thời gian sống. Đây là lý do [[Bitcoin]], [[Privacy]] và [[MOC - Financial Sovereignty]] không phải chủ đề tài chính thuần túy.
@@ -82,7 +82,7 @@ Elite không nhất thiết đồng thuận 100%. Có faction, cạnh tranh, bet
 
 ## Default Options Là Quyền Lực Thật
 
-![Đám đông chọn từ một menu sáng trong arena, trong khi các kiến trúc sư phía trên lặng lẽ thiết kế chính arena đó](../assets/illustrations/elite-power/02-menu-choice-arena.png)
+![Đám đông chọn từ một menu sáng trong arena, trong khi các kiến trúc sư phía trên lặng lẽ thiết kế chính arena đó](../assets/illustrations/elite-power/02-menu-choice-arena.webp)
 
 
 Default options quyết định phần lớn hành vi. Người dùng hiếm khi đọc terms. Công dân hiếm khi đọc luật. Học sinh hiếm khi tự thiết kế curriculum. Người lao động hiếm khi tự chọn monetary regime. Người online hiếm khi biết ranking model đang đưa gì lên trước.

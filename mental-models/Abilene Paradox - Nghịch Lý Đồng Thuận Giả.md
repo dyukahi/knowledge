@@ -17,7 +17,7 @@ related:
 ---
 # Abilene Paradox - Nghịch Lý Đồng Thuận Giả
 
-![Một con đường chia nhánh nơi đám đông lịch sự đi theo hướng không ai chắc mình muốn, biểu tượng cho false consensus](../assets/illustrations/abilene-paradox/00-hero-false-consensus-road.png)
+![Một con đường chia nhánh nơi đám đông lịch sự đi theo hướng không ai chắc mình muốn, biểu tượng cho false consensus](../assets/illustrations/abilene-paradox/00-hero-false-consensus-road.webp)
 
 **Nghịch lý Abilene là bi kịch của một tập thể tự phản bội chính mình: không ai thật sự muốn đi, nhưng ai cũng lên xe vì tưởng người khác muốn đi. Nó không phải vấn đề thiếu ý kiến. Nó là vấn đề mọi người nuốt ý kiến của mình để giữ hòa khí, rồi cả nhóm cùng đi vào một quyết định không ai sở hữu.**
 
@@ -38,7 +38,7 @@ Bài này nên đọc cùng [[Source Discipline - Kỷ Luật Nguồn Và Bằng
 
 ## Từ Khóa Cần Hiểu
 
-![Một phòng họp với bong bóng lời nói trống và hộp bỏ phiếu kín, biểu tượng cho pluralistic ignorance](../assets/illustrations/abilene-paradox/02-blank-speech-bubbles.png)
+![Một phòng họp với bong bóng lời nói trống và hộp bỏ phiếu kín, biểu tượng cho pluralistic ignorance](../assets/illustrations/abilene-paradox/02-blank-speech-bubbles.webp)
 
 **Pluralistic ignorance** là khi nhiều cá nhân âm thầm không đồng ý với một chuẩn mực, nhưng mỗi người lại tưởng mình là thiểu số vì không thấy ai phản đối công khai. Kết quả: một consensus giả xuất hiện.
 
@@ -54,7 +54,7 @@ Những khái niệm này không phải để khinh thường đám đông. Chú
 
 ## Câu Chuyện Abilene / The Trip Nobody Wanted
 
-![Bốn người ngồi im lặng trong một chiếc xe trên đường Texas, mỗi người tưởng người khác muốn đi tiếp](../assets/illustrations/abilene-paradox/01-trip-nobody-wanted.png)
+![Bốn người ngồi im lặng trong một chiếc xe trên đường Texas, mỗi người tưởng người khác muốn đi tiếp](../assets/illustrations/abilene-paradox/01-trip-nobody-wanted.webp)
 
 Phiên bản nổi tiếng của câu chuyện kể về một gia đình ở Texas. Một buổi chiều nóng, chán và trống rỗng, một người bâng quơ đề xuất lái xe đến Abilene ăn tối. Người khác gật đầu. Người tiếp theo gật đầu. Không ai thật sự hào hứng, nhưng ai cũng nghĩ mình đang chiều ý người còn lại.
 
@@ -83,7 +83,7 @@ Thứ ba là **lịch sự bị nhầm với đạo đức**. Lịch sự giúp 
 
 ## Abilene Khác Groupthink Thế Nào?
 
-![Hai căn phòng kính đối lập: một bên đồng dạng hóa, một bên giấu bất đồng phía sau im lặng](../assets/illustrations/abilene-paradox/03-groupthink-vs-abilene.png)
+![Hai căn phòng kính đối lập: một bên đồng dạng hóa, một bên giấu bất đồng phía sau im lặng](../assets/illustrations/abilene-paradox/03-groupthink-vs-abilene.webp)
 
 Groupthink thường là khi nhóm thật sự bị đồng nhất hóa bởi loyalty, pressure hoặc ideology: mọi người dần tin rằng lựa chọn của nhóm là đúng.
 
@@ -131,7 +131,7 @@ Cơ chế này không cần đa số thật. Nó chỉ cần đủ người tin 
 
 ## Claim Discipline Khi Dùng Model Này
 
-![Một người giữ phong thư preference thật trước bức tường nhãn dán trống, biểu tượng cho preference falsification](../assets/illustrations/abilene-paradox/04-preference-falsification.png)
+![Một người giữ phong thư preference thật trước bức tường nhãn dán trống, biểu tượng cho preference falsification](../assets/illustrations/abilene-paradox/04-preference-falsification.webp)
 
 Nghịch lý Abilene rất dễ bị lạm dụng. Một người có thể nói: “Thật ra ai cũng nghĩ như tôi, chỉ là họ không dám nói.” Câu đó có thể đúng trong vài bối cảnh. Nó cũng có thể chỉ là projection.
 
@@ -170,7 +170,7 @@ Câu hỏi này nghe nhỏ, nhưng nó trả preference về đúng chủ sở h
 
 ## Cách Thoát Khỏi Abilene
 
-![Bàn tròn với phiếu kín và ánh sáng đi vào phòng, biểu tượng cho cơ chế nói thật an toàn](../assets/illustrations/abilene-paradox/05-honest-preference-check.png)
+![Bàn tròn với phiếu kín và ánh sáng đi vào phòng, biểu tượng cho cơ chế nói thật an toàn](../assets/illustrations/abilene-paradox/05-honest-preference-check.webp)
 
 Không cần biến mọi cuộc họp thành chiến trường. Chỉ cần thiết kế đường thoát cho sự thật.
 

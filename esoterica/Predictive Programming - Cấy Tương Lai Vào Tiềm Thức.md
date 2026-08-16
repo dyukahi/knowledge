@@ -20,7 +20,7 @@ related:
 
 *Predictive programming is the hypothesis that media does not merely reflect the future, but rehearses the public into familiarity with it before it becomes policy, market, technology, or social norm.*
 
-![Các màn hình điện ảnh chiếu những tương lai khả dĩ vào đám đông đang ngủ, như rehearsal của predictive programming trước khi thành đời sống](../assets/illustrations/predictive-programming/00-hero-future-rehearsal.png)
+![Các màn hình điện ảnh chiếu những tương lai khả dĩ vào đám đông đang ngủ, như rehearsal của predictive programming trước khi thành đời sống](../assets/illustrations/predictive-programming/00-hero-future-rehearsal.webp)
 
 Đọc đúng, đây không phải trò gom mọi trùng hợp thành “tiên tri”. Đó là kỷ luật nhìn repetition, timing, framing, incentive và câu hỏi: ai được lợi nếu công chúng quen với frame này?
 
@@ -44,7 +44,7 @@ Nếu [[Ma Trận]] là hệ điều hành perception, predictive programming l�
 
 ## Công Thức: Seed, Repeat, Frame, Normalize, Implement
 
-![Cỗ máy media trừu tượng gieo các hạt sáng vào cánh đồng tâm trí, lặp qua màn hình và mặt nạ cảm xúc](../assets/illustrations/predictive-programming/01-seed-repeat-frame.png)
+![Cỗ máy media trừu tượng gieo các hạt sáng vào cánh đồng tâm trí, lặp qua màn hình và mặt nạ cảm xúc](../assets/illustrations/predictive-programming/01-seed-repeat-frame.webp)
 
 
 Công thức đơn giản:
@@ -111,7 +111,7 @@ Red flag mạnh nhất là khi villain dùng một công cụ trước, rồi he
 
 ## Hidden In Plain Sight
 
-![Một cảnh phim lộ cơ chế ẩn sau rèm trong khi khán giả cười và ăn popcorn, biểu tượng của truth hidden in plain sight](../assets/illustrations/predictive-programming/02-hidden-in-plain-sight.png)
+![Một cảnh phim lộ cơ chế ẩn sau rèm trong khi khán giả cười và ăn popcorn, biểu tượng của truth hidden in plain sight](../assets/illustrations/predictive-programming/02-hidden-in-plain-sight.webp)
 
 
 Predictive programming nối trực tiếp với [[Karma Disclosure - Truth Hidden In Plain Sight]]. Hệ thống có thể reveal một phần method dưới dạng fiction. Vì “chỉ là phim”, phần lớn người xem không xử lý nó như knowledge. Họ tiêu thụ nó như mood, meme, aesthetic.

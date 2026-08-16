@@ -20,7 +20,7 @@ related:
 
 *Karma Disclosure is the hypothesis that power hides truth in plain sight: visible enough to count as disclosure, framed softly enough to be dismissed as entertainment.*
 
-![Một sân khấu công cộng phô bày biểu tượng và cơ chế ẩn ngay trước mắt, trong khi đám đông xem như giải trí](../assets/illustrations/karma-disclosure/00-hero-hidden-plain-sight.png)
+![Một sân khấu công cộng phô bày biểu tượng và cơ chế ẩn ngay trước mắt, trong khi đám đông xem như giải trí](../assets/illustrations/karma-disclosure/00-hero-hidden-plain-sight.webp)
 
 Đọc đúng, đây không phải giấy phép gom mọi trùng hợp thành định mệnh. Đây là một model để hỏi: khi một motif lặp quá lâu, quá đúng thời điểm, quá có lợi cho cùng một cấu trúc quyền lực, ta nên đọc nó ở tầng nào?
 
@@ -44,7 +44,7 @@ Karma Disclosure không phải thay thế research. Nó là layer symbol/pattern
 
 ## Consent Ở Tầng Biểu Tượng
 
-![Các biểu tượng phát sáng chạy thành vòng từ agenda sang fiction, public familiarity và implementation, như mạch consent nghi lễ](../assets/illustrations/karma-disclosure/02-consent-symbol-loop.png)
+![Các biểu tượng phát sáng chạy thành vòng từ agenda sang fiction, public familiarity và implementation, như mạch consent nghi lễ](../assets/illustrations/karma-disclosure/02-consent-symbol-loop.webp)
 
 
 Trong nhiều truyền thống tâm linh, con người không chỉ là thân xác mà còn là chủ thể có ý chí. Vì vậy consent không chỉ là chữ ký pháp lý; nó còn là sự đồng thuận qua im lặng, thờ ơ, worship, laughter, hoặc không chịu nhìn.
@@ -57,7 +57,7 @@ Trong nhiều truyền thống tâm linh, con người không chỉ là thân x�
 
 ## Fiction Là Disclosure Mềm
 
-![Máy chiếu phim phóng các sự kiện tương lai và biểu tượng nghi lễ lên khán giả thư giãn, fiction như soft disclosure](../assets/illustrations/karma-disclosure/01-fiction-soft-disclosure.png)
+![Máy chiếu phim phóng các sự kiện tương lai và biểu tượng nghi lễ lên khán giả thư giãn, fiction như soft disclosure](../assets/illustrations/karma-disclosure/01-fiction-soft-disclosure.webp)
 
 
 Fiction mạnh vì nó đi vòng qua cổng kiểm duyệt của lý trí. Nếu nói thẳng “chúng tôi muốn surveillance toàn diện”, người xem phản kháng. Nếu kể một chuyện nơi surveillance cứu thế giới khỏi terrorist, alien, pandemic hoặc AI rogue, cảm xúc đã đi trước lập luận.

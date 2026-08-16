@@ -19,7 +19,7 @@ related:
 
 *Fiat currency exists because the state recognizes it, taxes demand it, banks accept it, and society keeps trusting it. The power to issue fiat is the power to dilute the stored time of those who hold it.*
 
-![Tiền giấy và số dư số chảy từ tháp decree trung tâm vào dây xích nợ và bong bóng tài sản, fiat như cơ chế pha loãng thời gian sống](../assets/illustrations/fiat-currency/00-hero-debt-decree.png)
+![Tiền giấy và số dư số chảy từ tháp decree trung tâm vào dây xích nợ và bong bóng tài sản, fiat như cơ chế pha loãng thời gian sống](../assets/illustrations/fiat-currency/00-hero-debt-decree.webp)
 
 Trong vault, fiat không chỉ là chủ đề kinh tế. Nó là một lớp của [[Ma Trận]] tài chính: ai được quyền tạo unit đo giá trị, ai được nhận tiền mới trước, ai trả giá sau bằng sức mua.
 
@@ -45,7 +45,7 @@ Khi operating system này chạy lâu, người dân nhầm account balance vớ
 
 ## 1971 Và Kỷ Nguyên Fiat Thuần
 
-![Cánh cửa vàng của kho vault khép lại phía sau những tờ tiền giấy bay lơ lửng, biểu tượng của cú đóng gold window năm 1971](../assets/illustrations/fiat-currency/01-1971-gold-window.png)
+![Cánh cửa vàng của kho vault khép lại phía sau những tờ tiền giấy bay lơ lửng, biểu tượng của cú đóng gold window năm 1971](../assets/illustrations/fiat-currency/01-1971-gold-window.webp)
 
 
 Trước 1971, hệ Bretton Woods còn giữ một dạng neo vàng ở cấp quốc tế: USD có thể đổi sang vàng với tỷ giá cố định cho các chính phủ/ngân hàng trung ương. Nixon Shock chấm dứt cơ chế đó. Từ đó USD và hệ tiền toàn cầu bước sâu vào fiat thuần: money supply linh hoạt hơn, discipline vật lý yếu hơn.
@@ -58,7 +58,7 @@ Sau 1971, nợ toàn cầu phình ra, financialization tăng tốc, nhà và sto
 
 ## Inflation Là Thuế Ẩn
 
-![Đài phun tiền mới chảy tới ngân hàng và người giữ tài sản trước, trong khi người lao động ở xa chỉ nhận những giọt đã pha loãng](../assets/illustrations/fiat-currency/02-cantillon-fountain.png)
+![Đài phun tiền mới chảy tới ngân hàng và người giữ tài sản trước, trong khi người lao động ở xa chỉ nhận những giọt đã pha loãng](../assets/illustrations/fiat-currency/02-cantillon-fountain.webp)
 
 
 Lạm phát không chỉ là giá tăng. Nó là sức mua của tiền giảm. Nếu bạn giữ tiền trong ngân hàng và cùng số tiền đó mua được ít hàng hóa hơn theo thời gian, bạn đã bị đánh thuế mà không cần hóa đơn thuế.

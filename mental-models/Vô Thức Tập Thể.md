@@ -15,7 +15,7 @@ related:
 ---
 # Vô Thức Tập Thể (Collective Unconscious)
 
-![Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể](../assets/illustrations/collective-unconscious/00-hero-shared-symbol-field.png)
+![Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể](../assets/illustrations/collective-unconscious/00-hero-shared-symbol-field.webp)
 
 **Vô Thức Tập Thể là tầng sâu của psyche không thuộc riêng cá nhân, nơi các archetype, myth, symbol và pattern phổ quát sống như một kho ký ức chung của nhân loại. Trong Jung, nó là nền của [[Nguyên Mẫu]]. Trong esoterica, nó chạm gần ý niệm Akashic field.**
 
@@ -59,7 +59,7 @@ Archetype không chỉ nằm trong truyện cổ. Nó sống trong brand, cinema
 
 ## Dream, Myth Và Culture
 
-![Màn ảnh cinema như giấc mơ công cộng, đám đông đồng bộ nervous system qua các biểu tượng mythic](../assets/illustrations/collective-unconscious/01-culture-dreaming.png)
+![Màn ảnh cinema như giấc mơ công cộng, đám đông đồng bộ nervous system qua các biểu tượng mythic](../assets/illustrations/collective-unconscious/01-culture-dreaming.webp)
 
 
 Giấc mơ cá nhân thường dùng symbol tập thể: rắn, nước lũ, nhà cũ, em bé, vực sâu, cánh cửa, đền thờ. Đây không chỉ là brain noise. Đôi khi psyche dùng ngôn ngữ archetype để nói điều ego chưa hiểu.
@@ -78,7 +78,7 @@ Có thể đọc hiện tượng này qua nhiều ngôn ngữ: unconscious proce
 
 ## Ma Trận Và Vô Thức Tập Thể
 
-![Các archetype hero, shadow, mother và apocalypse bị media machinery hijack, như một cảnh symbolic không literal](../assets/illustrations/collective-unconscious/02-archetype-hijack.png)
+![Các archetype hero, shadow, mother và apocalypse bị media machinery hijack, như một cảnh symbolic không literal](../assets/illustrations/collective-unconscious/02-archetype-hijack.webp)
 
 
 [[Ma Trận]] không chỉ kiểm soát opinion. Nó tác động vào unconscious symbol.

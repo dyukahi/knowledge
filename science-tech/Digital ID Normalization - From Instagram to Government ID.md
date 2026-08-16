@@ -18,7 +18,7 @@ related:
 
 *Digital ID does not appear out of nowhere. It follows a long process where people voluntarily turn themselves into profiles. Government ID wallets formalize what platforms have already normalized.*
 
-![Các mảnh profile mạng xã hội biến thành ví danh tính số chính thức, gồm mặt, điện thoại, location, social graph và government ID layer](../assets/illustrations/digital-id-normalization/00-hero-profile-to-passport.png)
+![Các mảnh profile mạng xã hội biến thành ví danh tính số chính thức, gồm mặt, điện thoại, location, social graph và government ID layer](../assets/illustrations/digital-id-normalization/00-hero-profile-to-passport.webp)
 
 Trước đây identity là thứ bạn lấy ra khi cần: khai sinh, hộ chiếu, căn cước, bằng lái. Bây giờ identity là một lớp chạy nền: email, phone, device ID, Face ID, selfie verification, KYC, real-name account, social graph, location history, payment history, biometric template.
 
@@ -46,7 +46,7 @@ Platform dạy từng bước rất mềm: email để tạo account, phone đ�
 
 ## Digital ID + Money
 
-![Chìa khóa danh tính số nối tới ví tiền, y tế, di chuyển, giáo dục và cổng ngôn luận, biểu tượng của access layer](../assets/illustrations/digital-id-normalization/01-digital-id-money.png)
+![Chìa khóa danh tính số nối tới ví tiền, y tế, di chuyển, giáo dục và cổng ngôn luận, biểu tượng của access layer](../assets/illustrations/digital-id-normalization/01-digital-id-money.webp)
 
 
 Digital ID một mình đã mạnh. Digital ID cộng với CBDC/payment rail mới là trục nguy hiểm.
@@ -61,7 +61,7 @@ Một identity system tốt giảm friction mà không tạo identity monopoly. 
 
 ## Biometrics: Cơ Thể Thành Password
 
-![Khuôn mặt và mống mắt con người phản chiếu thành chiếc chìa khóa trong vault kính, biometrics như password của cơ thể](../assets/illustrations/digital-id-normalization/02-biometrics-password.png)
+![Khuôn mặt và mống mắt con người phản chiếu thành chiếc chìa khóa trong vault kính, biometrics như password của cơ thể](../assets/illustrations/digital-id-normalization/02-biometrics-password.webp)
 
 
 Password leak thì đổi được. Face, iris, fingerprint leak thì không. Biometrics tiện và chống fraud tốt, nhưng nó biến cơ thể thành password.

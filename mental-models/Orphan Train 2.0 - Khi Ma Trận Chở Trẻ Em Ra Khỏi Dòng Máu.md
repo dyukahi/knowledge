@@ -22,7 +22,7 @@ related:
 
 > Orphan Train cũ chở thân xác trẻ em rời khỏi thành phố. Orphan Train mới không cần đường ray. Nó chở phôi qua clinic, attention qua màn hình, identity qua curriculum, desire qua algorithm, và ký ức qua cloud.
 
-![Một đứa trẻ đứng giữa đường ray cũ và mạng lưới quản trị hiện đại](../assets/illustrations/orphan-train-20-lineage-system.png)
+![Một đứa trẻ đứng giữa đường ray cũ và mạng lưới quản trị hiện đại](../assets/illustrations/orphan-train-20-lineage-system.webp)
 
 Một đứa trẻ hôm nay vẫn có thể ngủ trong một căn nhà, có người lớn ký giấy tờ, có trường học, bảo hiểm, tài khoản iCloud, đồng hồ thông minh, lịch tiêm, lớp kỹ năng, camera trong phòng và app theo dõi giấc ngủ. Nhưng câu hỏi thật không phải là đứa trẻ có được quản lý tốt hay không. Câu hỏi là nó còn thuộc về một dòng máu, một ký ức, một vòng care, một nghĩa tình, hay đã trở thành công dân đầu tiên của một hệ thống không cần gia đình.
 
@@ -32,7 +32,7 @@ Bài này không nói rằng mọi công nghệ sinh sản đều xấu, mọi g
 
 ## Evidence Discipline / Cách Đọc Bài Này
 
-![Minh hoạ: Evidence Discipline - Cách Đọc Bài Này](../assets/illustrations/orphan-train-20-section-01-evidence-discipline-cach-doc-bai-nay.png)
+![Minh hoạ: Evidence Discipline - Cách Đọc Bài Này](../assets/illustrations/orphan-train-20-section-01-evidence-discipline-cach-doc-bai-nay.webp)
 
 Bài này có nhiều tầng và cần đọc đúng tầng. Tầng fact có thể kiểm: Orphan Train là hiện tượng lịch sử có thật ở Mỹ; IVF, surrogacy, embryo selection, artificial womb research, screen addiction và fertility collapse là những hiện tượng có tài liệu, số liệu và tranh luận công khai. Tầng pattern là câu hỏi hệ thống: khi family formation suy yếu, trẻ em có xu hướng bị chuyển từ lineage/care network sang institution, platform và market. Tầng symbol đọc Orphan Train như archetype của population sorting sau reset. Tầng speculative synthesis mới là nơi ta nối nó với [[Tartaria]], reset-history và memory control.
 
@@ -50,7 +50,7 @@ Bài này có nhiều tầng và cần đọc đúng tầng. Tầng fact có th�
 
 ## Publication Pack / Family, Dopamine & Orphan Train
 
-![Minh hoạ: Publication Pack - Family, Dopamine & Orphan Train](../assets/illustrations/orphan-train-20-section-02-publication-pack-family-dopamine-orphan-train.png)
+![Minh hoạ: Publication Pack - Family, Dopamine & Orphan Train](../assets/illustrations/orphan-train-20-section-02-publication-pack-family-dopamine-orphan-train.webp)
 
 Bài này thuộc **Family, Dopamine & Orphan Train Pack**: đọc dating/gender/family collapse như một hệ thống extraction, không như cuộc chiến scapegoat giữa nam và nữ.
 
@@ -66,7 +66,7 @@ Rule của pack: critique system/incentive layer, không scapegoat phụ nữ, �
 
 ## 1. Orphan Train Cũ: Khi Cơ Thể Trẻ Em Được Chuyển Tuyến
 
-![Minh hoạ: 1. Orphan Train Cũ: Khi Cơ Thể Trẻ Em Được Chuyển Tuyến](../assets/illustrations/orphan-train-20-section-03-1-orphan-train-cu-khi-co-the-tre-em-duoc-chuyen-tuyen.png)
+![Minh hoạ: 1. Orphan Train Cũ: Khi Cơ Thể Trẻ Em Được Chuyển Tuyến](../assets/illustrations/orphan-train-20-section-03-1-orphan-train-cu-khi-co-the-tre-em-duoc-chuyen-tuyen.webp)
 
 Orphan Train là tên gọi cho các chương trình đưa trẻ em nghèo, mồ côi hoặc bị bỏ rơi từ các thành phố miền Đông Hoa Kỳ đến các gia đình ở Midwest và những vùng khác trong giai đoạn cuối thế kỷ 19 đến đầu thế kỷ 20. Tầng mainstream đọc hiện tượng này như một dạng social welfare sơ khai: cứu trẻ khỏi nghèo đói đô thị, tìm gia đình mới, giảm tội phạm đường phố, phân phối lao động và hy vọng.
 
@@ -88,7 +88,7 @@ Sau một cuộc chiến, một khủng hoảng, một đợt đô thị hóa h�
 
 ## 2. Tartaria, Reset Memory Và Population Sorting
 
-![Minh hoạ: 2. Tartaria, Reset Memory Và Population Sorting](../assets/illustrations/orphan-train-20-section-04-2-tartaria-reset-memory-va-population-sorting.png)
+![Minh hoạ: 2. Tartaria, Reset Memory Và Population Sorting](../assets/illustrations/orphan-train-20-section-04-2-tartaria-reset-memory-va-population-sorting.webp)
 
 Trong vault, [[Tartaria]] không phải câu trả lời sẵn mà là bộ câu hỏi về bản đồ, kiến trúc, ký ức bị chuẩn hóa và những lớp lịch sử có thể đã bị tái gán. Đọc Tartaria trưởng thành không phải là gọi mọi mái vòm cổ là “Tartarian tech”. Đó là niềm tin lười. Đọc trưởng thành là hỏi tại sao một số tên gọi biến mất khỏi ký ức phổ thông, tại sao một số công trình được giải thích quá gọn, tại sao world fairs xây rồi phá, và vì sao sau các reset lớn luôn xuất hiện giáo dục chuẩn hóa, dân số được phân loại lại, trẻ em được đưa vào hệ thống mới.
 
@@ -98,7 +98,7 @@ Orphan Train nằm đúng motif này, không phải vì nó chứng minh Tartari
 
 ## 3. Orphan Không Chỉ Là Không Có Cha Mẹ
 
-![Minh hoạ: 3. Orphan Không Chỉ Là Không Có Cha Mẹ](../assets/illustrations/orphan-train-20-section-05-3-orphan-khong-chi-la-khong-co-cha-me.png)
+![Minh hoạ: 3. Orphan Không Chỉ Là Không Có Cha Mẹ](../assets/illustrations/orphan-train-20-section-05-3-orphan-khong-chi-la-khong-co-cha-me.webp)
 
 Orphan không chỉ là trạng thái thiếu cha mẹ sinh học. Orphan là trạng thái không có shield: không có lineage shield, không có memory shield, không có care container, không có người lớn đủ hiện diện, đủ quyền, đủ tình thương và đủ bình tĩnh để nói với system rằng đứa trẻ này không phải của các người.
 
@@ -108,7 +108,7 @@ Một đứa trẻ có thể sống trong nhà cha mẹ mà vẫn orphaned về 
 
 ## 4. Orphan Train Mới Không Có Nhà Ga
 
-![Minh hoạ: 4. Orphan Train Mới Không Có Nhà Ga](../assets/illustrations/orphan-train-20-section-06-4-orphan-train-moi-khong-co-nha-ga.png)
+![Minh hoạ: 4. Orphan Train Mới Không Có Nhà Ga](../assets/illustrations/orphan-train-20-section-06-4-orphan-train-moi-khong-co-nha-ga.webp)
 
 Orphan Train mới không có đầu máy hơi nước. Nó có clinic, screen, curriculum, feed, algorithm, therapy language, identity market và một gia đình quá kiệt sức để nhận ra đứa trẻ đã bị chuyển tuyến. Old Orphan Train chở cơ thể trẻ em bằng tàu, đổi household và cắt chúng khỏi đô thị nghèo hoặc cha mẹ gốc. New Orphan Train chở attention bằng màn hình, đổi identity container và cắt trẻ khỏi lineage/care loop.
 
@@ -137,7 +137,7 @@ flowchart TD
 
 ## 5. Gender War Là Ga Khởi Hành
 
-![Minh hoạ: 5. Gender War Là Ga Khởi Hành](../assets/illustrations/orphan-train-20-section-07-5-gender-war-la-ga-khoi-hanh.png)
+![Minh hoạ: 5. Gender War Là Ga Khởi Hành](../assets/illustrations/orphan-train-20-section-07-5-gender-war-la-ga-khoi-hanh.webp)
 
 Nếu muốn có ít gia đình hơn, không cần tuyên chiến với gia đình. Chỉ cần khiến đàn ông và phụ nữ không còn tin nhau. Một phía được dạy rằng đàn ông là rủi ro, áp bức, immature và không cần thiết. Phía còn lại được dạy rằng phụ nữ là ảo tưởng, hết hạn, đào mỏ và không đáng commitment. Cả hai phía bị đẩy vào cùng một chợ dopamine: dating apps, porn, hookup culture, validation loop, gender outrage content, influencer advice, manosphere/femcel resentment, và một thứ “self-worth” không còn covenant.
 
@@ -147,7 +147,7 @@ Nếu muốn có ít gia đình hơn, không cần tuyên chiến với gia đì
 
 ## 6. Dopamine Economy Là Máy Cắt Bond
 
-![Minh hoạ: 6. Dopamine Economy Là Máy Cắt Bond](../assets/illustrations/orphan-train-20-section-08-6-dopamine-economy-la-may-cat-bond.png)
+![Minh hoạ: 6. Dopamine Economy Là Máy Cắt Bond](../assets/illustrations/orphan-train-20-section-08-6-dopamine-economy-la-may-cat-bond.webp)
 
 [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] không bán hạnh phúc. Nó bán vòng lặp thèm muốn. Family cần nhịp chậm: bữa ăn, câu chuyện cũ, ngày giỗ, lời hứa, người vẫn ở đó. Dopamine economy cần nhịp nhanh: match mới, clip mới, body mới, scandal mới, outrage mới, fantasy mới.
 
@@ -168,7 +168,7 @@ Một xã hội nghiện novelty sẽ thấy covenant như nhà tù. Một thế
 
 ## 7. IVF, Surrogacy, Artificial Womb: Khi Sinh Sản Tách Khỏi Dòng Máu
 
-![Minh hoạ: 7. IVF, Surrogacy, Artificial Womb: Khi Sinh Sản Tách Khỏi Dòng Máu](../assets/illustrations/orphan-train-20-section-09-7-ivf-surrogacy-artificial-womb-khi-sinh-san-tach-khoi-dong-mau.png)
+![Minh hoạ: 7. IVF, Surrogacy, Artificial Womb: Khi Sinh Sản Tách Khỏi Dòng Máu](../assets/illustrations/orphan-train-20-section-09-7-ivf-surrogacy-artificial-womb-khi-sinh-san-tach-khoi-dong-mau.webp)
 
 IVF có thể là phước lành cho những cặp vợ chồng thật sự muốn có con và có care. Không nên biến người dùng IVF thành biểu tượng xấu. Nhưng ở tầng system, reproductive technology mở ra một đường tách lớn: sex tách khỏi reproduction, reproduction tách khỏi gestation, gestation tách khỏi motherhood, parenthood tách khỏi lineage.
 
@@ -180,7 +180,7 @@ Gay family cũng cần đọc cẩn thận. Không phải mọi gia đình đồ
 
 ## 8. Artificial Womb Và Đứa Trẻ Như Sản Phẩm Logistics
 
-![Delivery room như hạ tầng logistics giữa cradle và family tree](../assets/illustrations/orphan-train-20-delivery-room.png)
+![Delivery room như hạ tầng logistics giữa cradle và family tree](../assets/illustrations/orphan-train-20-delivery-room.webp)
 
 Artificial womb / ectogenesis là motif đáng theo dõi vì nó sẽ được bán bằng ngôn ngữ rất đẹp: an toàn hơn, bình đẳng hơn, tiện hơn, kiểm soát tốt hơn, giảm rủi ro cho phụ nữ, giúp người không thể sinh con có con, tối ưu môi trường phát triển. Một phần lợi ích có thể là thật. Nhưng tầng vault hỏi: khi womb trở thành infrastructure, ai vận hành infrastructure đó?
 
@@ -192,7 +192,7 @@ Ai sở hữu dữ liệu thai kỳ? Ai quyết định tiêu chuẩn phát tri�
 
 ## 9. Trẻ Em Người Máy Không Phải Không Có Linh Hồn
 
-![Minh hoạ: 9. Trẻ Em Người Máy Không Phải Không Có Linh Hồn](../assets/illustrations/orphan-train-20-section-11-9-tre-em-nguoi-may-khong-phai-khong-co-linh-hon.png)
+![Minh hoạ: 9. Trẻ Em Người Máy Không Phải Không Có Linh Hồn](../assets/illustrations/orphan-train-20-section-11-9-tre-em-nguoi-may-khong-phai-khong-co-linh-hon.webp)
 
 “Trẻ em người máy” không nên hiểu theo nghĩa đen. Đứa trẻ không mất linh hồn, nhưng linh hồn có thể mất neo. Nó có thể thông minh, lanh lợi, nói tiếng Anh tốt, dùng AI giỏi, biết therapy language, biết slogan chính trị và biết trend toàn cầu. Nhưng nó có thể không biết ông bà mình đã sống thế nào, gia đình mình từng chịu gì, vì sao có những điều thiêng không nên đem ra mua bán, vì sao tình nghĩa khác subscription, vì sao một người vẫn đưa người kia đi bệnh viện khi không còn aesthetic, và vì sao không phải mọi cảm giác đều là chân lý.
 
@@ -202,7 +202,7 @@ Ai sở hữu dữ liệu thai kỳ? Ai quyết định tiêu chuẩn phát tri�
 
 ## 10. Predictive Programming: Phim Ảnh Đã Tập Cho Ta Nhìn Thấy Điều Này
 
-![Minh hoạ: 10. Predictive Programming: Phim Ảnh Đã Tập Cho Ta Nhìn Thấy Điều Này](../assets/illustrations/orphan-train-20-section-12-10-predictive-programming-phim-anh-da-tap-cho-ta-nhin-thay-dieu-nay.png)
+![Minh hoạ: 10. Predictive Programming: Phim Ảnh Đã Tập Cho Ta Nhìn Thấy Điều Này](../assets/illustrations/orphan-train-20-section-12-10-predictive-programming-phim-anh-da-tap-cho-ta-nhin-thay-dieu-nay.webp)
 
 [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] không có nghĩa là phim nào cũng là hồ sơ mật. Nó là kỷ luật nhìn repetition, timing, framing và normalization. Những motif như hatchery, human pods, mechanical womb, clone bodies, genetic selection, infertility panic, android parents, manufactured soldiers và memory implants đã được lặp đủ lâu để public quen với child-production outside family.
 
@@ -223,7 +223,7 @@ Pattern không phải là “phim chứng minh agenda”. Pattern là public đ�
 
 ## 11. Endpoint: Công Dân Không Cần Gia Đình
 
-![Minh hoạ: 11. Endpoint: Công Dân Không Cần Gia Đình](../assets/illustrations/orphan-train-20-section-13-11-endpoint-cong-dan-khong-can-gia-dinh.png)
+![Minh hoạ: 11. Endpoint: Công Dân Không Cần Gia Đình](../assets/illustrations/orphan-train-20-section-13-11-endpoint-cong-dan-khong-can-gia-dinh.webp)
 
 Nếu map toàn bộ agenda, ta thấy một vòng lặp tự nuôi: gender war làm pair-bond suy yếu; pair-bond yếu làm family formation trễ hoặc vỡ; birthrate rơi; reproductive technology xuất hiện như solution; đứa trẻ tách khỏi lineage; institution, platform và market bước vào như parent layer; identity trở nên programmable; rootless adult phụ thuộc vào system; rồi chính sự phụ thuộc đó nuôi lại gender war và dopamine loop.
 
@@ -248,7 +248,7 @@ flowchart TD
 
 ## 12. Counterspell: Care Infrastructure
 
-![Minh hoạ: 12. Counterspell: Care Infrastructure](../assets/illustrations/orphan-train-20-section-14-12-counterspell-care-infrastructure.png)
+![Minh hoạ: 12. Counterspell: Care Infrastructure](../assets/illustrations/orphan-train-20-section-14-12-counterspell-care-infrastructure.webp)
 
 Lối ra không phải panic đạo đức, ghét công nghệ, hay quay lại một mô hình gia đình bạo lực, giả tạo và ép buộc. Lối ra là rebuild care infrastructure: bữa ăn thật, người lớn hiện diện thật, ông bà được giữ trong vòng ký ức, trẻ em được bảo vệ khỏi screen quá sớm, cha mẹ có thời gian không bị wage labor nghiền nát, đàn ông build value thay vì rage, phụ nữ giữ agency nhưng không bị market capture, hôn nhân được hiểu như covenant chứ không phải subscription, và child được xem là subject của nghĩa tình chứ không phải object của adult desire.
 
@@ -260,7 +260,7 @@ Lối ra không phải panic đạo đức, ghét công nghệ, hay quay lại m
 
 ## Final Line
 
-![Minh hoạ: Final Line](../assets/illustrations/orphan-train-20-section-15-final-line.png)
+![Minh hoạ: Final Line](../assets/illustrations/orphan-train-20-section-15-final-line.webp)
 
 Orphan Train mới không chở trẻ em ra khỏi nhà bằng tàu. Nó chở chúng ra khỏi dòng máu bằng những thứ trông rất hiện đại: màn hình, clinic, curriculum, algorithm, convenience và một định nghĩa mới về tự do không còn cần gia đình.
 

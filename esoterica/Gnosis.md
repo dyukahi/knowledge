@@ -21,7 +21,7 @@ related:
 
 *Gnosis is not information. It is direct knowing: the moment inner awareness recognizes its own divine nature without priesthood, institution, or permission. It is the remembrance that beneath body, ego, and the Matrix, an indivisible spark of the Monad remains.*
 
-![Gnosis như khoảnh khắc cái biết trực tiếp chạm vào ngọn lửa bên trong, trong khi mặt nạ identity và lưới Ma Trận nứt ra](../assets/illustrations/gnosis/00-hero-direct-knowing.png)
+![Gnosis như khoảnh khắc cái biết trực tiếp chạm vào ngọn lửa bên trong, trong khi mặt nạ identity và lưới Ma Trận nứt ra](../assets/illustrations/gnosis/00-hero-direct-knowing.webp)
 
 Gnosis là red pill nguyên thủy. Không phải vì nó cho bạn thêm một belief mới, mà vì nó làm sụp đổ false identity. Một người có thể đọc hàng ngàn trang về tâm linh, conspiracy, lịch sử bị giấu, khoa học xét lại, và vẫn chưa có Gnosis. Ngược lại, một khoảnh khắc rất nhỏ, ngồi yên trong bếp, nhìn cơn giận đi qua, thấy “cơn giận này không phải toàn bộ mình”, cũng có thể mở ra một khe nứt thật.
 
@@ -78,7 +78,7 @@ Gnosis không nhất thiết chống mọi tôn giáo. Nó chống monopoly củ
 
 ## Divine Spark Và Monad
 
-![Tia lửa thần thánh trong avatar người, được bao quanh bởi body, ego, dây xã hội, màn hình thuật toán và ký hiệu Gnostic nhưng vẫn không bị chạm tới](../assets/illustrations/gnosis/01-divine-spark-matrix.png)
+![Tia lửa thần thánh trong avatar người, được bao quanh bởi body, ego, dây xã hội, màn hình thuật toán và ký hiệu Gnostic nhưng vẫn không bị chạm tới](../assets/illustrations/gnosis/01-divine-spark-matrix.webp)
 
 
 Trong Gnostic worldview, con người không chỉ là thân xác vật chất. Bên trong có một divine spark, một tia lửa thần thánh, bị mắc trong tầng reality dày đặc. Tia lửa này không phải ego. Ego là interface đời này: tên, câu chuyện, wound, ambition, image. Divine spark gần với [[Monad]] hơn: phần bất khả phân của Source đang bị bao phủ bởi thân xác, trauma, ký ức, lập trình xã hội và fear.
@@ -186,7 +186,7 @@ Một người chưa individuation dễ biến red pill thành ego mới. Họ d
 
 ## Pseudo-Gnosis: Cạm Bẫy Của Người “Biết”
 
-![Người tìm đạo đối diện chiếc gương nơi mặt nạ tâm linh phát sáng tạo ra bóng tối ego phía sau, biểu tượng của false awakening](../assets/illustrations/gnosis/02-false-gnosis-shadow.png)
+![Người tìm đạo đối diện chiếc gương nơi mặt nạ tâm linh phát sáng tạo ra bóng tối ego phía sau, biểu tượng của false awakening](../assets/illustrations/gnosis/02-false-gnosis-shadow.webp)
 
 
 Không phải ai nói “tôi thức tỉnh rồi” cũng có Gnosis. Nhiều khi đó chỉ là ego mặc áo tâm linh.

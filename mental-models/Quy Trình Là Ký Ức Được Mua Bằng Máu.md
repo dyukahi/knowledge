@@ -20,7 +20,7 @@ sources:
 ---
 # Quy Trình Là Ký Ức Được Mua Bằng Máu
 
-![Một cuốn sổ tay vận hành cũ nằm cạnh đường ray, mỗi dòng chữ phát sáng như ký ức của những tai nạn đã được chuyển thành quy tắc](../assets/illustrations/quy-trinh-ky-uc/00-hero-paid-memory.png)
+![Một cuốn sổ tay vận hành cũ nằm cạnh đường ray, mỗi dòng chữ phát sáng như ký ức của những tai nạn đã được chuyển thành quy tắc](../assets/illustrations/quy-trinh-ky-uc/00-hero-paid-memory.webp)
 
 **Quy trình tốt không phải giấy tờ hành chính. Nó là ký ức của một hệ thống đã được nén thành hành động: một lỗi từng xảy ra, một hóa đơn từng được trả, một người từng bị thương, một khách hàng từng bỏ đi. Người đến sau chỉ thấy thêm một bước. Họ không thấy cái giá đã mua bước đó.**
 
@@ -40,7 +40,7 @@ Nó nối với [[Tư Duy Lũy Thừa]] vì lỗi nhỏ không được sửa c�
 
 ## Từ Khóa Cần Hiểu
 
-![Một hệ thống chuyển đổi sự cố thành tín hiệu, bài học, quy tắc và hành vi mới qua bốn tầng rõ ràng](../assets/illustrations/quy-trinh-ky-uc/01-failure-to-procedure.png)
+![Một hệ thống chuyển đổi sự cố thành tín hiệu, bài học, quy tắc và hành vi mới qua bốn tầng rõ ràng](../assets/illustrations/quy-trinh-ky-uc/01-failure-to-procedure.webp)
 
 **Institutional memory — ký ức tổ chức** là tri thức không chỉ nằm trong đầu một người mà được lưu trong cấu trúc: tài liệu, thiết kế, quyền hạn, checklist, mã nguồn, cách bàn giao và thói quen phản ứng.
 
@@ -56,7 +56,7 @@ Nó nối với [[Tư Duy Lũy Thừa]] vì lỗi nhỏ không được sửa c�
 
 ## Shin-Okubo: Ba Giây Và Một Hóa Đơn Không Thể Hoàn Tiền
 
-![Sân ga Tokyo trong đêm mưa, ba bóng người ở mép đường ray và đoàn tàu tiến đến, thể hiện bi kịch mà không tái hiện đồ họa](../assets/illustrations/quy-trinh-ky-uc/02-shin-okubo-memory.png)
+![Sân ga Tokyo trong đêm mưa, ba bóng người ở mép đường ray và đoàn tàu tiến đến, thể hiện bi kịch mà không tái hiện đồ họa](../assets/illustrations/quy-trinh-ky-uc/02-shin-okubo-memory.webp)
 
 Tối 26 tháng 1 năm 2001 tại ga Shin-Okubo trên tuyến Yamanote ở Tokyo, một người đàn ông rơi xuống đường ray. Lee Su-hyon, sinh viên Hàn Quốc 26 tuổi, và Shiro Sekine, nhiếp ảnh gia Nhật 47 tuổi, xuống đường ray để cứu. Cả ba bị đoàn tàu đâm và thiệt mạng. Các tường thuật đương thời của *The Japan Times* và *Los Angeles Times* xác nhận lõi sự kiện này.
 
@@ -72,7 +72,7 @@ Nhưng phải giữ claim discipline. Tai nạn Shin-Okubo trở thành biểu t
 
 ## SOP Là Tài Sản Vô Hình
 
-![Một dây chuyền công nghiệp bằng thép được đặt cạnh chồng tài liệu vận hành phát sáng, tài liệu có trọng lượng biểu tượng lớn hơn máy móc](../assets/illustrations/quy-trinh-ky-uc/03-invisible-operating-asset.png)
+![Một dây chuyền công nghiệp bằng thép được đặt cạnh chồng tài liệu vận hành phát sáng, tài liệu có trọng lượng biểu tượng lớn hơn máy móc](../assets/illustrations/quy-trinh-ky-uc/03-invisible-operating-asset.webp)
 
 Khi mua một dây chuyền, người mua không chỉ trả tiền cho kim loại. Họ trả cho bản vẽ, tolerance, lịch bảo trì, lỗi thường gặp, ngưỡng dừng máy, cách đào tạo, danh sách vật tư thay thế và những điều “đừng bao giờ làm” mà nhà sản xuất đã học trong nhiều năm.
 
@@ -86,7 +86,7 @@ Bảng cân đối kế toán thường nhìn thấy nhà xưởng, thiết bị
 
 ## Long Thành: Chi Phí Của Việc Ghép Sau
 
-![Phối cảnh hạ tầng sân bay với nhà ga hoàn chỉnh phía trên và đường sắt phải uốn ngầm để ghép vào sau, thể hiện nợ thiết kế](../assets/illustrations/quy-trinh-ky-uc/04-long-thanh-design-debt.png)
+![Phối cảnh hạ tầng sân bay với nhà ga hoàn chỉnh phía trên và đường sắt phải uốn ngầm để ghép vào sau, thể hiện nợ thiết kế](../assets/illustrations/quy-trinh-ky-uc/04-long-thanh-design-debt.webp)
 
 Long Thành là case study tốt về **design debt**, nhưng chỉ khi dùng nó cẩn thận.
 
@@ -102,7 +102,7 @@ Kansai International Airport mở năm 1994 với kết nối đường sắt đ
 
 ## Chín Lần Làm Tắt Không Sao
 
-![Mười thẻ quy trình xếp thành hàng, chín thẻ đầu màu xanh và thẻ thứ mười đỏ rực như sự cố bị trì hoãn](../assets/illustrations/quy-trinh-ky-uc/05-nine-times-safe.png)
+![Mười thẻ quy trình xếp thành hàng, chín thẻ đầu màu xanh và thẻ thứ mười đỏ rực như sự cố bị trì hoãn](../assets/illustrations/quy-trinh-ky-uc/05-nine-times-safe.webp)
 
 Shortcut nguy hiểm nhất không phải shortcut gây tai nạn ngay. Nó là shortcut **thành công đủ nhiều lần để trở thành văn hóa**.
 
@@ -118,7 +118,7 @@ Nhưng absence of failure không đồng nghĩa presence of safety. Có thể l�
 
 ## Nhưng Không Phải Mọi Quy Trình Đều Thiêng Liêng
 
-![Hai cuốn sổ tay đối lập, một cuốn sống với chú thích nguyên nhân và phiên bản mới, một cuốn phủ bụi với quy tắc vô nghĩa](../assets/illustrations/quy-trinh-ky-uc/06-living-vs-dead-procedure.png)
+![Hai cuốn sổ tay đối lập, một cuốn sống với chú thích nguyên nhân và phiên bản mới, một cuốn phủ bụi với quy tắc vô nghĩa](../assets/illustrations/quy-trinh-ky-uc/06-living-vs-dead-procedure.webp)
 
 Tôn trọng institutional memory không có nghĩa biến SOP thành kinh thánh. Có quy trình là ký ức sống. Cũng có quy trình là xác chết của một hệ thống không còn tồn tại.
 
@@ -141,7 +141,7 @@ Một quy trình khỏe phải có **owner, rationale, version và sunset/review
 
 ## Cách Biến Failure Thành Tài Sản
 
-![Một phòng điều hành bình tĩnh sau sự cố, nhóm nhỏ biến timeline và near miss thành checklist rõ ràng thay vì tìm vật tế thần](../assets/illustrations/quy-trinh-ky-uc/07-failure-to-asset.png)
+![Một phòng điều hành bình tĩnh sau sự cố, nhóm nhỏ biến timeline và near miss thành checklist rõ ràng thay vì tìm vật tế thần](../assets/illustrations/quy-trinh-ky-uc/07-failure-to-asset.webp)
 
 Tổ chức trưởng thành không chỉ viết post-mortem. Nó hoàn tất một vòng chuyển hóa:
 
@@ -175,7 +175,7 @@ flowchart LR
 
 ## Hóa Đơn Được Trả Bởi Người Không Có Mặt Trong Phòng
 
-![Một nhân viên trẻ nhận cuốn sổ tay từ những bóng người mờ phía sau, biểu tượng cho tri thức được truyền từ các thế hệ đã trả giá](../assets/illustrations/quy-trinh-ky-uc/08-inherited-invoice.png)
+![Một nhân viên trẻ nhận cuốn sổ tay từ những bóng người mờ phía sau, biểu tượng cho tri thức được truyền từ các thế hệ đã trả giá](../assets/illustrations/quy-trinh-ky-uc/08-inherited-invoice.webp)
 
 Nhân viên mới mở handbook và thấy ba mươi trang phiền phức. Họ không thấy hợp đồng mất trắng đã tạo ra bước kiểm tra credit. Không thấy lô hàng bị thu hồi đã tạo ra double verification. Không thấy kỹ sư nghỉ việc sau một đêm production sập đã tạo ra runbook rollback.
 

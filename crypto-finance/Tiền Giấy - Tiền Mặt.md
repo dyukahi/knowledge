@@ -20,7 +20,7 @@ related:
 
 *Cash is the last analog privacy layer inside fiat. It is still fiat and still loses purchasing power, but it allows small, offline, bearer transactions without account permission.*
 
-![Một giao dịch tiền mặt tay-trao-tay dưới ánh đèn đường ấm, bên ngoài là lưới giám sát số tối không thể hoàn toàn đi vào](../assets/illustrations/cash-privacy/00-hero-analog-privacy.png)
+![Một giao dịch tiền mặt tay-trao-tay dưới ánh đèn đường ấm, bên ngoài là lưới giám sát số tối không thể hoàn toàn đi vào](../assets/illustrations/cash-privacy/00-hero-analog-privacy.webp)
 
 Trong vault, bài này không chỉ nói về tiền giấy. Nó nói về cái gì mất đi khi xã hội đổi privacy lấy convenience.
 
@@ -46,7 +46,7 @@ Cash không thoát khỏi debasement. Một tờ tiền trong ví vẫn mất s�
 
 ## Cash vs Digital Fiat
 
-![Tiền giấy vật lý offline đặt cạnh payment rails số dạng account với đường tracking và các cổng permission](../assets/illustrations/cash-privacy/01-cash-vs-digital-fiat.png)
+![Tiền giấy vật lý offline đặt cạnh payment rails số dạng account với đường tracking và các cổng permission](../assets/illustrations/cash-privacy/01-cash-vs-digital-fiat.webp)
 
 
 Digital fiat tiện hơn: chuyển nhanh, lưu dễ, tích hợp app, cashback, automated accounting. Nhưng tiện lợi đi kèm visibility và permission.
@@ -73,7 +73,7 @@ Khi cash biến mất, public không chỉ mất tờ giấy. Public mất một
 
 ## CBDC Và Programmable Money
 
-![Số dư ví số nằm trong lồng kính trong suốt với các công tắc biểu tượng cho giới hạn thời gian, vị trí và danh mục chi tiêu](../assets/illustrations/cash-privacy/02-cbdc-programmable-money.png)
+![Số dư ví số nằm trong lồng kính trong suốt với các công tắc biểu tượng cho giới hạn thời gian, vị trí và danh mục chi tiêu](../assets/illustrations/cash-privacy/02-cbdc-programmable-money.webp)
 
 
 [[Gen Z và CBDC - Programmable Money Psychology]] đọc phần tâm lý: nếu thế hệ trẻ quen với app wallet, score, subscription, QR, gamification và cashless, programmable money sẽ ít gây phản kháng hơn.

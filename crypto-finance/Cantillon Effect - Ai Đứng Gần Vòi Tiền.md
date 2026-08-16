@@ -23,7 +23,7 @@ sources:
 
 *New money does not fall on society like rain. It moves through a pipe. Those closest to issuance and credit receive purchasing power while old prices still exist; wage earners receive adjustments after assets and living costs have already repriced. The Cantillon Effect is a map of that distance.*
 
-![Dòng tiền mới chảy từ tháp tín dụng qua ngân hàng và tài sản trước khi những giọt cuối cùng tới người lao động](../assets/illustrations/cantillon-effect/00-hero-money-pipeline.png)
+![Dòng tiền mới chảy từ tháp tín dụng qua ngân hàng và tài sản trước khi những giọt cuối cùng tới người lao động](../assets/illustrations/cantillon-effect/00-hero-money-pipeline.webp)
 
 Trong [[Tiền Pháp Định]], vault đã gọi inflation là thuế ẩn. Bài này đi sâu hơn: **thuế đó không được thu cùng một lúc và cũng không phân phối cùng một cách**. Timing tạo ra winner và loser trước cả khi CPI kịp kể câu chuyện.
 
@@ -56,7 +56,7 @@ Bài này giữ bốn tầng claim riêng biệt.
 
 ## 1. Tiền Mới Không Trung Lập
 
-![Những người ở gần vòi tín dụng mua tài sản với nhãn giá cũ trong khi giá lan dần về khu dân cư phía xa](../assets/illustrations/cantillon-effect/01-first-receivers-old-prices.png)
+![Những người ở gần vòi tín dụng mua tài sản với nhãn giá cũ trong khi giá lan dần về khu dân cư phía xa](../assets/illustrations/cantillon-effect/01-first-receivers-old-prices.webp)
 
 Nếu mỗi người được cộng cùng một số tiền vào cùng một giây và mọi giá đổi cùng một tỷ lệ ngay lập tức, distribution effect sẽ nhỏ hơn. Thực tế không vận hành như vậy.
 
@@ -76,7 +76,7 @@ Người cuối đường ống không “không nhận được gì”. Họ nh
 
 ## 2. Wage Slaves Dưới Khối Xả Tiền
 
-![Người lao động đứng dưới một khối dòng tiền đã chảy qua bong bóng nhà đất và chứng khoán, chỉ còn những giọt cuối cùng rơi xuống bảng lương](../assets/illustrations/cantillon-effect/02-wage-slaves-last-receivers.png)
+![Người lao động đứng dưới một khối dòng tiền đã chảy qua bong bóng nhà đất và chứng khoán, chỉ còn những giọt cuối cùng rơi xuống bảng lương](../assets/illustrations/cantillon-effect/02-wage-slaves-last-receivers.webp)
 
 Hình ảnh thô nhưng đúng pattern: **wage slaves đứng bẹt dưới khối xả tiền**.
 
@@ -97,7 +97,7 @@ Tăng lương vì vậy có thể là relief thật, nhưng thường là **comp
 
 ## 3. Việt Nam 2023–2026: Fact Trước, Pattern Sau
 
-![Lịch nhiều năm đặt cạnh đường tín dụng, giá tài sản và bảng lương di chuyển với độ trễ khác nhau](../assets/illustrations/cantillon-effect/03-vietnam-credit-wage-lag.png)
+![Lịch nhiều năm đặt cạnh đường tín dụng, giá tài sản và bảng lương di chuyển với độ trễ khác nhau](../assets/illustrations/cantillon-effect/03-vietnam-credit-wage-lag.webp)
 
 Cần giữ discipline: “bơm tiền” trong ngôn ngữ mạng thường gom nhiều thứ thành một từ. Monetary base, M2, credit growth, fiscal spending và liquidity trên asset market có liên hệ nhưng không đồng nghĩa.
 
@@ -115,7 +115,7 @@ Policy còn phụ thuộc ngân sách, cải cách bộ máy, productivity, soci
 
 ## 4. Bitcoin Là Máy Địa Chấn Thanh Khoản, Không Phải Máy In Tiền
 
-![Biểu đồ sóng Bitcoin như máy địa chấn đặt cạnh đường ống tín dụng toàn cầu, phản ánh rung động chứ không phải tự tạo ra tiền](../assets/illustrations/cantillon-effect/04-bitcoin-liquidity-seismograph.png)
+![Biểu đồ sóng Bitcoin như máy địa chấn đặt cạnh đường ống tín dụng toàn cầu, phản ánh rung động chứ không phải tự tạo ra tiền](../assets/illustrations/cantillon-effect/04-bitcoin-liquidity-seismograph.webp)
 
 Bitcoin trade 24/7, có global liquidity, high beta và narrative reflexivity mạnh. Vì vậy BTC thường phản ứng nhạy với dollar liquidity, real yields, stablecoin flows, risk appetite và leverage. Mở chart BTC có thể thấy một thứ mà bảng lương chưa kịp phản ánh: **capital đang willing trả giá cao hơn cho scarcity/risk hay không**.
 
@@ -134,7 +134,7 @@ Nhưng BTC không phải M2 meter của Việt Nam. BTC tăng còn có thể do 
 
 ## 5. Tăng Lương Không Tự Động Nghĩa Là Giàu Hơn
 
-![Một phiếu lương danh nghĩa lớn hơn nhưng bị bao quanh bởi nhà ở, thực phẩm và dịch vụ đã tăng giá trước](../assets/illustrations/cantillon-effect/05-nominal-wage-real-purchasing-power.png)
+![Một phiếu lương danh nghĩa lớn hơn nhưng bị bao quanh bởi nhà ở, thực phẩm và dịch vụ đã tăng giá trước](../assets/illustrations/cantillon-effect/05-nominal-wage-real-purchasing-power.webp)
 
 Nếu lương tăng 8% sau khi basket sống quan trọng đã tăng mạnh hơn trong nhiều năm, người lao động có thêm nominal income nhưng chưa chắc lấy lại vị trí cũ.
 
@@ -152,7 +152,7 @@ Cantillon Effect không nói mọi wage earner đều doomed. Nó nói họ ph�
 
 ## 6. Scenario 2030–2031: À Mà Thôi, Tự Hiểu
 
-![Một lịch 2030–2031 hiện mờ phía cuối đường ống tiền tệ, như cửa sổ scenario chứ không phải lời tiên tri chắc chắn](../assets/illustrations/cantillon-effect/06-2030-2031-scenario-window.png)
+![Một lịch 2030–2031 hiện mờ phía cuối đường ống tiền tệ, như cửa sổ scenario chứ không phải lời tiên tri chắc chắn](../assets/illustrations/cantillon-effect/06-2030-2031-scenario-window.webp)
 
 Hiện chưa có basis để viết chắc chắn rằng 2030 hoặc 2031 sẽ có một đợt tăng lương cơ sở mới. Không tìm thấy một quyết định chính thức ấn định mốc đó trong nguồn dùng cho bài này.
 
@@ -176,7 +176,7 @@ Muốn kiểm tra scenario, theo dõi:
 
 ## 7. CBDC: Cantillon Effect Có Thể Được Lập Trình
 
-![Dòng tiền số đi qua các cổng permission, mỗi nhóm nhận thời điểm và điều kiện sử dụng khác nhau](../assets/illustrations/cantillon-effect/07-programmable-cantillon-cbdc.png)
+![Dòng tiền số đi qua các cổng permission, mỗi nhóm nhận thời điểm và điều kiện sử dụng khác nhau](../assets/illustrations/cantillon-effect/07-programmable-cantillon-cbdc.webp)
 
 Trong fiat truyền thống, Cantillon Effect đến từ channel và timing. Trong [[Gen Z và CBDC - Programmable Money Psychology|programmable money]], channel và timing có thể trở thành code.
 
@@ -196,7 +196,7 @@ Cantillon Effect không biến mất trong digital money. Nó có thể trở n�
 
 ## 8. Đứng Gần Vòi Tiền Không Có Nghĩa Trở Thành Exit Liquidity
 
-![Một người xây nhiều lớp chủ quyền gồm cash buffer, kỹ năng, Bitcoin tự giữ và cộng đồng thay vì lao thẳng vào bong bóng tài sản](../assets/illustrations/cantillon-effect/08-sovereignty-not-exit-liquidity.png)
+![Một người xây nhiều lớp chủ quyền gồm cash buffer, kỹ năng, Bitcoin tự giữ và cộng đồng thay vì lao thẳng vào bong bóng tài sản](../assets/illustrations/cantillon-effect/08-sovereignty-not-exit-liquidity.webp)
 
 Hiểu Cantillon dễ sinh một phản xạ nguy hiểm: vay tối đa, front-run mọi stimulus, mua bất cứ asset nào vì tin tiền sẽ tiếp tục chảy. Đó là cách người muốn thoát wage slavery biến thành exit liquidity cho người đến trước hơn.
 

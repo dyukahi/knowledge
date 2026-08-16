@@ -21,7 +21,7 @@ related:
 
 *CBDC is not just a technical upgrade to money. It is a psychological transition: from anonymous cash to identity-linked, programmable, surveillable money.*
 
-![Thế hệ trẻ nhìn số dư ví app phát sáng trong khi tiền giấy mờ dần phía sau, biểu tượng cashless native psychology](../assets/illustrations/genz-cbdc/00-hero-cashless-native.png)
+![Thế hệ trẻ nhìn số dư ví app phát sáng trong khi tiền giấy mờ dần phía sau, biểu tượng cashless native psychology](../assets/illustrations/genz-cbdc/00-hero-cashless-native.webp)
 
 CBDC thường được giải thích khô: Central Bank Digital Currency, tiền kỹ thuật số do ngân hàng trung ương phát hành. Định nghĩa đó đúng nhưng chưa chạm vấn đề. Người trẻ đã quen với tiền trong app: ví điện tử, ngân hàng số, Apple Pay, MoMo, QR code, stablecoin, game currency, in-app purchase.
 
@@ -53,7 +53,7 @@ Cái bị mất không chỉ là phương tiện thanh toán. Cái bị mất l�
 
 ## Crypto Như Training Layer
 
-![Wallet addresses, QR transfers, stablecoin tokens và smart contract icons tạo thành con đường training hướng tới ví số ngân hàng trung ương](../assets/illustrations/genz-cbdc/01-crypto-training-layer.png)
+![Wallet addresses, QR transfers, stablecoin tokens và smart contract icons tạo thành con đường training hướng tới ví số ngân hàng trung ương](../assets/illustrations/genz-cbdc/01-crypto-training-layer.webp)
 
 
 Crypto thường được bán như exit khỏi ngân hàng. Ở một tầng, đúng. [[Bitcoin]] mở ra self-custody, fixed supply và settlement không cần issuer.
@@ -92,7 +92,7 @@ Control khi mới đến thường mặc áo convenience.
 
 ## Redpill Của CBDC
 
-![Dòng tiền số đi qua các cổng rule về identity, location, category và carbon, biểu tượng programmable money như permission event](../assets/illustrations/genz-cbdc/02-programmable-money-permission.png)
+![Dòng tiền số đi qua các cổng rule về identity, location, category và carbon, biểu tượng programmable money như permission event](../assets/illustrations/genz-cbdc/02-programmable-money-permission.webp)
 
 
 Redpill của CBDC không phải “tiền số xấu”. Tiền số tiện và có use case thật. Redpill là: khi tiền thành software, freedom phụ thuộc vào permission model của software đó.

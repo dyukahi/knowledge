@@ -23,7 +23,7 @@ related:
 ---
 # Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian
 
-![Vân đồ sáu thời đại với sợi sao chổi nối ký ức, âm nhạc và lời chứng](../assets/illustrations/cloud-atlas/00-hero-cloud-atlas.png)
+![Vân đồ sáu thời đại với sợi sao chổi nối ký ức, âm nhạc và lời chứng](../assets/illustrations/cloud-atlas/00-hero-cloud-atlas.webp)
 
 **Cloud Atlas không chỉ là một bộ phim về luân hồi. Nó là một bản đồ sáu thời đại của [[Ma Trận]]: mỗi thời có một hình thức nô lệ riêng, nhưng ký ức, nghệ thuật, lời chứng và một hành động đúng có thể truyền qua thời gian để phá vòng lặp nhân quả.**
 
@@ -47,7 +47,7 @@ Bài này đặt *Cloud Atlas* trong cụm [[Ma Trận]], [[Gnosis]], [[Luân H�
 
 Điểm quan trọng là giữ đúng kỷ luật nguồn: biểu tượng mạnh không biến nó thành sự kiện, nhưng tầng sự kiện cũng không đủ để giải thích vì sao một câu chuyện chạm sâu vào linh hồn người xem.
 
-![Bản đồ nội dung Cloud Atlas: sáu thời đại, nhân vật trung tâm, cái lồng, ký ức truyền đi, sợi sao chổi và Cloud Atlas Sextet](../assets/illustrations/cloud-atlas/07-full-map-cloud-atlas.png)
+![Bản đồ nội dung Cloud Atlas: sáu thời đại, nhân vật trung tâm, cái lồng, ký ức truyền đi, sợi sao chổi và Cloud Atlas Sextet](../assets/illustrations/cloud-atlas/07-full-map-cloud-atlas.webp)
 
 *Bản đồ đọc nhanh: mỗi thời đại đổi “cái lồng”, nhưng một mảnh ký ức luôn thoát khỏi lồng đó để đánh thức thời đại sau.*
 
@@ -83,25 +83,25 @@ Cách dễ nắm nhất là nhìn sáu tuyến như sáu phiên bản của cùn
 
 Năm 1849, Adam Ewing bước vào câu chuyện bằng một lời nói dối cổ nhất của văn minh: người này có quyền sở hữu người kia vì chủng tộc, đế chế, luật pháp, thần học hoặc “trật tự tự nhiên”. Adam không phải phản diện. Anh là một người tử tế nhưng vẫn nằm trong thế giới quan của giai cấp mình. Chính điều đó mới nguy hiểm. Ma Trận không cần mọi người đều là quỷ. Nó chỉ cần người tử tế chấp nhận một khung sai là bình thường.
 
-![Adam Ewing và Autua trên boong tàu, khoảnh khắc một người rời khỏi khung của nô lệ](../assets/illustrations/cloud-atlas/01-1849-ewing-autua.png)
+![Adam Ewing và Autua trên boong tàu, khoảnh khắc một người rời khỏi khung của nô lệ](../assets/illustrations/cloud-atlas/01-1849-ewing-autua.webp)
 
 Dr. Henry Goose là hình tượng của người chữa lành giả: nói bằng ngôn ngữ y học, nhưng chức năng là khai thác. Autua là người phá khung. Sự tồn tại của Autua buộc Adam phải chọn giữa trật tự xã hội an toàn và sự thật đơn giản rằng một con người không phải tài sản. Khi Adam chọn đứng về phong trào bãi nô, anh không lật đổ nô lệ ngay. Nhưng anh tạo một điểm lệch trong dòng thời gian. Một người đổi phe khỏi đặc quyền của chính mình. Đại dương được tạo bởi từng giọt nước.
 
 Năm 1936, Robert Frobisher bị kẹt trong một cái lồng khác. Không phải xiềng xích vật lý, mà là gác cổng giai cấp, đe dọa tình dục, bảo trợ nghệ thuật và quyền sở hữu sáng tạo. Vyvyan Ayrs muốn sở hữu tác phẩm như đế chế sở hữu đất và chủ nô sở hữu thân xác. Ở tầng mô-típ, đây vẫn là nô lệ: không phải nô lệ của thân xác, mà là nô lệ của lửa sáng tạo.
 
-![Cloud Atlas Sextet như giai điệu ký ức vang qua nhiều đời](../assets/illustrations/cloud-atlas/02-1936-frobisher-sextet.png)
+![Cloud Atlas Sextet như giai điệu ký ức vang qua nhiều đời](../assets/illustrations/cloud-atlas/02-1936-frobisher-sextet.webp)
 
 Frobisher để lại bản nhạc khi thân xác không còn. *Cloud Atlas Sextet* trở thành vật thể ký ức, nhưng còn hơn một vật thể. Nó là giai điệu của một đời không chịu bị xóa. Khi Luisa Rey nghe bản nhạc ấy ở tuyến 1973, cô có cảm giác như mình đã biết nó từ trước. Phim không cần nhân vật nói “tôi nhớ tiền kiếp”. Nó cho thấy ký ức có thể trở lại dưới dạng hấp dẫn, âm nhạc, déjà vu, nỗi buồn không rõ nguồn, hoặc lòng can đảm không biết học từ đâu.
 
 Năm 1973, Luisa Rey đối diện Ma Trận của quyền lực năng lượng doanh nghiệp. Không còn roi da, không còn chủ nô, không còn người bảo trợ quý tộc. Ở đây cái lồng là báo cáo bị giấu, người tố giác bị giết, truyền thông bị thao túng và an toàn công chúng bị hy sinh cho lợi nhuận.
 
-![Luisa Rey và hồ sơ whistleblower trong căn phòng mưa, sự thật chống lại bí mật doanh nghiệp](../assets/illustrations/cloud-atlas/03-1973-luisa-whistleblower.png)
+![Luisa Rey và hồ sơ whistleblower trong căn phòng mưa, sự thật chống lại bí mật doanh nghiệp](../assets/illustrations/cloud-atlas/03-1973-luisa-whistleblower.webp)
 
 Sixsmith khi già mang ký ức từ Frobisher sang tuyến này. Một người từng nhận thư tình của Frobisher nay cố gắng gửi một bản báo cáo cứu mạng người khác. Tình yêu bị cấm trong 1936 trở thành lương tri trong 1973. Bill Smoke là tay vận hành của hệ thống: không cần tin hệ tư tưởng, chỉ cần làm việc được giao. Luisa không thắng bằng sức mạnh. Cô thắng bằng sự bền bỉ của lời chứng. Cô giữ câu hỏi sống sót đủ lâu để hệ thống không chôn được hoàn toàn.
 
 Năm 2012, tuyến Timothy Cavendish nhìn như mảng hài giảm căng, nhưng rất redpill. Một viện dưỡng lão được trình bày như định chế chăm sóc, nhưng vận hành như nhà tù. Người vào không ra được. Liên lạc với bên ngoài bị kiểm soát. Y học, lịch trình và giấy tờ pháp lý biến sự giam giữ thành “quy trình”.
 
-![Hành lang chăm sóc người già như nhà tù mềm, chăm sóc biến thành giam giữ](../assets/illustrations/cloud-atlas/04-2012-cavendish-care-prison.png)
+![Hành lang chăm sóc người già như nhà tù mềm, chăm sóc biến thành giam giữ](../assets/illustrations/cloud-atlas/04-2012-cavendish-care-prison.webp)
 
 Đây là Ma Trận ở dạng mềm: không cần gọi là nhà tù nếu giấy tờ gọi nó là chăm sóc. Cavendish đọc câu chuyện Luisa Rey như hư cấu, nhưng ngay khi bị nhốt, hư cấu biến thành tấm gương. Sau này Sonmi xem phim Cavendish và giữ lại một câu phản kháng: “Tôi sẽ không chịu sự lạm dụng tội phạm.” Một khoảnh khắc trốn thoát gần như hài hước trong 2012 trở thành mầm nổi loạn trong 2144. Đó là cách thần thoại hoạt động: nó giữ lại một nhịp từ chối để truyền sang một ý thức đang chờ tín hiệu.
 
@@ -109,7 +109,7 @@ Năm 2012, tuyến Timothy Cavendish nhìn như mảng hài giảm căng, nhưng
 
 ## Sonmi-451 Và Gnosis Của Nô Lệ Nhân Tạo
 
-![Sonmi-451 cầm orison, lời chứng phát sáng giữa ngôi đền doanh nghiệp của lao động nhân bản](../assets/illustrations/cloud-atlas/05-2144-sonmi-orison.png)
+![Sonmi-451 cầm orison, lời chứng phát sáng giữa ngôi đền doanh nghiệp của lao động nhân bản](../assets/illustrations/cloud-atlas/05-2144-sonmi-orison.webp)
 
 Sonmi-451 là trái tim huyền học của *Cloud Atlas*. Cô sinh ra trong một tôn giáo doanh nghiệp hoàn chỉnh. Các fabricant được tạo ra để phục vụ. Soap giữ họ ngoan ngoãn. Papa Song là ngôi đền của chủ nghĩa tiêu dùng. “Nghỉ hưu” là huyền thoại thiên đường. Sự vâng lời được đóng gói thành đức hạnh.
 
@@ -153,7 +153,7 @@ Sonmi vì vậy bị xử tử ở tầng câu chuyện, nhưng ở tầng thầ
 
 ## Khi Lời Chứng Trở Thành Tôn Giáo
 
-![Zachry và Meronym trước trạm liên lạc hậu tận thế, myth mở lại đường lên trời](../assets/illustrations/cloud-atlas/06-2321-zachry-meronym.png)
+![Zachry và Meronym trước trạm liên lạc hậu tận thế, myth mở lại đường lên trời](../assets/illustrations/cloud-atlas/06-2321-zachry-meronym.webp)
 
 Tuyến hậu tận thế là nơi phim tự phê bình chính mình. Sonmi từng là một người nhân tạo bị xử tử. Nhiều thế kỷ sau, cô trở thành nữ thần. Lời chứng trở thành kinh văn. Lịch sử trở thành thần thoại.
 

@@ -21,7 +21,7 @@ related:
 
 *Oneness is not the naive idea that everything is love and light. It is the recognition that behind all fragmentation, there is one ground expressing itself through countless forms.*
 
-![Đại dương ánh sáng vũ trụ tạo thành vô số đôi mắt và khuôn mặt như những làn sóng, Source nhìn qua muôn hình dạng của Sự Nhất Thể](../assets/illustrations/oneness/00-hero-source-many-eyes.png)
+![Đại dương ánh sáng vũ trụ tạo thành vô số đôi mắt và khuôn mặt như những làn sóng, Source nhìn qua muôn hình dạng của Sự Nhất Thể](../assets/illustrations/oneness/00-hero-source-many-eyes.webp)
 
 Nếu [[Monad]] là tia lửa của Source trong mỗi sinh thể, thì Sự Nhất Thể là đại dương nơi mọi tia lửa chưa từng thật sự tách rời. Nếu [[Gnosis]] là sự nhớ lại, thì Nhất Thể là thứ được nhớ ở tầng sâu nhất.
 
@@ -49,7 +49,7 @@ Nhất Thể không phủ nhận khác biệt. Nó đặt khác biệt vào đú
 
 ## Nhất Thể Và Nhị Nguyên
 
-![Một nguồn sáng duy nhất tách thành hai dòng sáng và tối rồi hợp lại, với người quan sát tĩnh lặng thấy cả hai cực](../assets/illustrations/oneness/01-duality-from-one.png)
+![Một nguồn sáng duy nhất tách thành hai dòng sáng và tối rồi hợp lại, với người quan sát tĩnh lặng thấy cả hai cực](../assets/illustrations/oneness/01-duality-from-one.webp)
 
 
 Muốn hiểu Nhất Thể phải hiểu [[Nhị Nguyên]]. Cái Một không hủy nhị nguyên. Cái Một biểu hiện thành nhị nguyên để có trải nghiệm.
@@ -64,7 +64,7 @@ Vấn đề không phải nhị nguyên tồn tại. Vấn đề là consciousne
 
 ## Ma Trận Là Công Nghệ Của Chia Tách
 
-![Các bóng người bị chia bởi những mảnh identity trong suốt, trong khi bên dưới vẫn nối nhau bằng đại dương ánh sáng sâu hơn](../assets/illustrations/oneness/02-matrix-fragmentation.png)
+![Các bóng người bị chia bởi những mảnh identity trong suốt, trong khi bên dưới vẫn nối nhau bằng đại dương ánh sáng sâu hơn](../assets/illustrations/oneness/02-matrix-fragmentation.webp)
 
 
 [[Ma Trận]] vận hành bằng cách làm con người quên Nhất Thể và đồng nhất với mảnh nhỏ nhất có thể: body, trauma, bank account, quốc gia, phe chính trị, tôn giáo, giới tính, avatar social media, career title.

@@ -20,7 +20,7 @@ related:
 
 *Bitcoin is not merely a trading asset. It is a monetary protocol born from a basic question: can humans store value, move value, and verify the rules without asking permission from banks, states, or platforms? If fiat is money by decree and debt, Bitcoin is the experiment in digital hard money through scarcity, Proof-of-Work, and self-custody.*
 
-![Bitcoin như protocol chủ quyền tài chính: một người cầm chìa khóa vàng trước mạng lưới node phi tập trung và các đường năng lượng Proof-of-Work](../assets/illustrations/bitcoin/00-hero-sovereignty-protocol.png)
+![Bitcoin như protocol chủ quyền tài chính: một người cầm chìa khóa vàng trước mạng lưới node phi tập trung và các đường năng lượng Proof-of-Work](../assets/illustrations/bitcoin/00-hero-sovereignty-protocol.webp)
 
 Bitcoin không tự động cứu ai. Nó không làm người thiếu kỷ luật thành sovereign. Nó không xóa greed, leverage, scam, custody mistake hay state pressure. Bitcoin chỉ mở một cánh cửa kỹ thuật. Đi qua được hay không là bài kiểm tra của người dùng.
 
@@ -59,7 +59,7 @@ Bitcoin không yêu cầu bạn tin Satoshi. Nó yêu cầu bạn kiểm chứng
 
 ## Bitcoin Là Exit Khỏi Fiat, Không Phải Vé Thoát Khỏi Trách Nhiệm
 
-![Tháp tiền giấy mục nát đối diện lattice năng lượng Proof-of-Work, biểu tượng của hard cap scarcity và exit khỏi fiat](../assets/illustrations/bitcoin/01-fiat-exit-proof-of-work.png)
+![Tháp tiền giấy mục nát đối diện lattice năng lượng Proof-of-Work, biểu tượng của hard cap scarcity và exit khỏi fiat](../assets/illustrations/bitcoin/01-fiat-exit-proof-of-work.webp)
 
 
 [[Tiền Pháp Định]] là hệ thống nơi tiền có thể được mở rộng bằng tín dụng, debt, central bank balance sheet và political necessity. Người giữ tiền bị pha loãng sức mua mà không cần ai hỏi ý kiến. Inflation không chỉ là giá tăng; nó là cơ chế chuyển thời gian sống của người tiết kiệm sang hệ thống phát hành.
@@ -88,7 +88,7 @@ Nhưng Bitcoin không phá toàn bộ Ma Trận. Một người mua Bitcoin qua 
 
 ## Public Ledger: Sức Mạnh Và Cái Bẫy
 
-![Public ledger trong suốt kéo dài vào bóng tối, các address trail biến thành dây giám sát quanh chìa khóa self-custody](../assets/illustrations/bitcoin/02-public-ledger-privacy-trap.png)
+![Public ledger trong suốt kéo dài vào bóng tối, các address trail biến thành dây giám sát quanh chìa khóa self-custody](../assets/illustrations/bitcoin/02-public-ledger-privacy-trap.webp)
 
 
 Bitcoin minh bạch by design. Ai cũng có thể audit chain. Đây là lý do nguồn cung có thể được kiểm chứng mà không cần tin issuer. Nhưng cùng tính minh bạch đó tạo ra privacy risk.

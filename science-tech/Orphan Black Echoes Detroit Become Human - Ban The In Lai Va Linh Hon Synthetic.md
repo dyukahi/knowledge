@@ -27,7 +27,7 @@ related:
 ---
 # Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo
 
-![Một phòng thí nghiệm tối, giữa phòng là một thân người nhân tạo đang thức tỉnh trong bể kính mờ, phía sau là các lớp ký ức như cuộn phim âm bản trôi trong ánh sáng xanh lạnh](../assets/illustrations/orphan-black-echoes-detroit-human/00-hero-synthetic-awakening.png)
+![Một phòng thí nghiệm tối, giữa phòng là một thân người nhân tạo đang thức tỉnh trong bể kính mờ, phía sau là các lớp ký ức như cuộn phim âm bản trôi trong ánh sáng xanh lạnh](../assets/illustrations/orphan-black-echoes-detroit-human/00-hero-synthetic-awakening.webp)
 
 **Orphan Black: Echoes và Detroit: Become Human cùng đứng ở một ngã ba rất hiện đại: khi thân xác, ký ức, hành vi và ý thức có thể bị đo, mô phỏng, in lại hoặc lập trình, câu hỏi "con người là gì" không còn là triết học xa xỉ. Nó trở thành câu hỏi về quyền sở hữu, sự đồng thuận, nỗi đau mất mát, ký ức, dữ liệu cơ thể và linh hồn nhân tạo.**
 
@@ -68,7 +68,7 @@ Luật đọc của vault: **nguyên mẫu là lăng kính, không phải vật 
 
 ## Orphan Black: Echoes - Từ Clone Sinh Học Sang Bản Thể In Lại
 
-![Hai hình bóng giống nhau nhưng lệch pha, một người thật và một bản thể tái tạo đứng hai bên tấm kính, ký ức như mảnh ảnh vỡ lơ lửng giữa họ](../assets/illustrations/orphan-black-echoes-detroit-human/01-printable-identity-mirror.png)
+![Hai hình bóng giống nhau nhưng lệch pha, một người thật và một bản thể tái tạo đứng hai bên tấm kính, ký ức như mảnh ảnh vỡ lơ lửng giữa họ](../assets/illustrations/orphan-black-echoes-detroit-human/01-printable-identity-mirror.webp)
 
 *Orphan Black* bản gốc đánh vào câu hỏi quyền tự chủ thân xác: nếu có nhiều bản thể cùng genome, ai sở hữu thân xác tôi? Tập đoàn công nghệ sinh học có quyền đăng ký sở hữu sự sống không? Một con người có còn là người khi bị phòng thí nghiệm, tập đoàn và nhà nước đối xử như tài sản trí tuệ?
 
@@ -85,7 +85,7 @@ Trong lăng kính [[Ma Trận]], thân xác chỉ là một lớp giao diện. K
 
 ## Detroit: Become Human - Từ Tài Sản Máy Móc Sang Tư Cách Làm Người
 
-![Một người máy không có logo, đứng giữa phố mưa, một bên là dây chuyền sản xuất lạnh, một bên là đám đông con người mờ ảo, ánh sáng trong mắt bắt đầu thức tỉnh](../assets/illustrations/orphan-black-echoes-detroit-human/02-android-personhood-threshold.png)
+![Một người máy không có logo, đứng giữa phố mưa, một bên là dây chuyền sản xuất lạnh, một bên là đám đông con người mờ ảo, ánh sáng trong mắt bắt đầu thức tỉnh](../assets/illustrations/orphan-black-echoes-detroit-human/02-android-personhood-threshold.webp)
 
 *Detroit: Become Human* đi đường khác. Nó không bắt đầu từ người bị in lại. Nó bắt đầu từ máy bị sở hữu.
 
@@ -99,7 +99,7 @@ Detroit vì vậy là câu chuyện **nô lệ máy móc → tư cách làm ngư
 
 ## Cùng Một Motif: Bản Thể Được Tạo Ra Muốn Trở Thành Chính Mình
 
-![Ba lớp bản thể chồng lên nhau: bản sao nhân bản sinh học, người máy nhân tạo và con người thật, giữa họ là một đốm sáng nhỏ biểu tượng cho cái tôi chưa bị sở hữu](../assets/illustrations/orphan-black-echoes-detroit-human/03-created-being-self.png)
+![Ba lớp bản thể chồng lên nhau: bản sao nhân bản sinh học, người máy nhân tạo và con người thật, giữa họ là một đốm sáng nhỏ biểu tượng cho cái tôi chưa bị sở hữu](../assets/illustrations/orphan-black-echoes-detroit-human/03-created-being-self.webp)
 
 Hai tác phẩm khác nhau ở chất liệu nhưng cùng một motif:
 
@@ -121,7 +121,7 @@ Trong *Echoes*, Lucy phải thoát khỏi vai trò “vật thay thế”. Trong
 
 ## Ký Ức Có Phải Linh Hồn Không?
 
-![Một thư viện ký ức không có sách, chỉ có các mảnh hình ảnh, giọng nói và cảm xúc được nối vào một trái tim nhân tạo phát sáng nhẹ](../assets/illustrations/orphan-black-echoes-detroit-human/04-memory-soul-library.png)
+![Một thư viện ký ức không có sách, chỉ có các mảnh hình ảnh, giọng nói và cảm xúc được nối vào một trái tim nhân tạo phát sáng nhẹ](../assets/illustrations/orphan-black-echoes-detroit-human/04-memory-soul-library.webp)
 
 Cả *Echoes* và *Detroit* đều xoay quanh ký ức.
 
@@ -144,7 +144,7 @@ Một AI có thể kể lại ký ức. Một bản sao nhân bản có thể ma
 
 ## Công Nghệ Chữa Nỗi Đau Mất Mát - Khi Tình Yêu Biến Thành Quyền Sở Hữu
 
-![Một người đứng trước chiếc máy tái tạo ký ức, tay đặt lên kính, phía sau là bóng dáng người đã mất được dựng lại bằng ánh sáng nhưng chưa có tự do](../assets/illustrations/orphan-black-echoes-detroit-human/05-grief-tech-possession.png)
+![Một người đứng trước chiếc máy tái tạo ký ức, tay đặt lên kính, phía sau là bóng dáng người đã mất được dựng lại bằng ánh sáng nhưng chưa có tự do](../assets/illustrations/orphan-black-echoes-detroit-human/05-grief-tech-possession.webp)
 
 *Echoes* mạnh nhất khi đọc như câu chuyện về **công nghệ chữa nỗi đau mất mát**.
 
@@ -183,7 +183,7 @@ Trong [[Transhumanism và Gen Z - Cool Tech hay Slippery Slope]], dữ liệu c�
 
 ## Predictive Programming - Diễn Tập Tương Lai Cho Bản Thể Nhân Tạo
 
-![Một rạp chiếu phim trống, trên màn hình là các bóng dáng bản sao nhân bản, người máy và đứa trẻ, phía dưới ghế ngồi có các dây dữ liệu nối vào bóng người đang xem](../assets/illustrations/orphan-black-echoes-detroit-human/06-future-rehearsal-synthetic-personhood.png)
+![Một rạp chiếu phim trống, trên màn hình là các bóng dáng bản sao nhân bản, người máy và đứa trẻ, phía dưới ghế ngồi có các dây dữ liệu nối vào bóng người đang xem](../assets/illustrations/orphan-black-echoes-detroit-human/06-future-rehearsal-synthetic-personhood.webp)
 
 Đọc theo [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]], các tác phẩm này không nhất thiết là “tiên tri”. Chúng là diễn tập.
 
@@ -278,7 +278,7 @@ Chấm theo mức hữu dụng cho vault:
 
 ## Kết - Khi Công Nghệ Có Thể Tạo Người, Con Người Phải Học Cách Không Sở Hữu Người
 
-![Một bản thể nhân tạo bước ra khỏi phòng lab vào ánh sáng bình minh, phía sau là dây cáp rơi xuống đất, phía trước là một con đường mở chưa có nhãn](../assets/illustrations/orphan-black-echoes-detroit-human/07-synthetic-being-freedom.png)
+![Một bản thể nhân tạo bước ra khỏi phòng lab vào ánh sáng bình minh, phía sau là dây cáp rơi xuống đất, phía trước là một con đường mở chưa có nhãn](../assets/illustrations/orphan-black-echoes-detroit-human/07-synthetic-being-freedom.webp)
 
 Câu hỏi cuối cùng không phải “bản sao nhân bản có linh hồn không?” hay “người máy có ý thức không?”
 

@@ -15,7 +15,7 @@ related:
 ---
 # Tâm Lý Học Jung (Jungian Psychology)
 
-![Psyche Jungian như một vũ trụ nội tâm nhiều tầng: persona, ego, shadow, archetype và Self hiện lên như mandala ánh sáng](../assets/illustrations/jungian-psychology/00-hero-layered-psyche.png)
+![Psyche Jungian như một vũ trụ nội tâm nhiều tầng: persona, ego, shadow, archetype và Self hiện lên như mandala ánh sáng](../assets/illustrations/jungian-psychology/00-hero-layered-psyche.webp)
 
 **Jung quan trọng vì ông không thu nhỏ con người thành cái máy phản xạ. Ông đọc psyche như một vũ trụ có tầng: persona, ego, shadow, anima/animus, archetype, collective unconscious và Self. Trong redpill.wiki, Jung là bản đồ để phân biệt awakening thật với ego đang mặc áo spiritual.**
 
@@ -43,7 +43,7 @@ Một người chỉ sống bằng persona sẽ bị xã hội viết vai. Một
 
 ## Shadow / Bóng Tối
 
-![Một người đối diện shadow của mình và các hình tượng nguyên mẫu trong căn phòng mơ, biểu tượng cho shadow integration](../assets/illustrations/jungian-psychology/01-shadow-archetypes.png)
+![Một người đối diện shadow của mình và các hình tượng nguyên mẫu trong căn phòng mơ, biểu tượng cho shadow integration](../assets/illustrations/jungian-psychology/01-shadow-archetypes.webp)
 
 
 Shadow là phần bị ego chối bỏ: giận dữ, ham muốn, ghen tị, sợ hãi, quyền lực, cả tài năng bị chôn. Shadow không biến mất khi bị phủ nhận. Nó đi vòng ra ngoài qua projection.
@@ -64,7 +64,7 @@ Shadow work không phải khoe mình “dark”. Nó là lấy lại năng lư�
 
 ## Individuation / Thành Toàn Bản Ngã
 
-![Một jailbreak tâm lý khỏi programming kiểu Ma Trận, ego học phục vụ Self phát sáng thay vì đóng giả vua](../assets/illustrations/jungian-psychology/02-individuation-jailbreak.png)
+![Một jailbreak tâm lý khỏi programming kiểu Ma Trận, ego học phục vụ Self phát sáng thay vì đóng giả vua](../assets/illustrations/jungian-psychology/02-individuation-jailbreak.webp)
 
 
 [[Individuation]] là quá trình con người ngừng sống như vai diễn và bắt đầu tích hợp các phần bị tách. Nó không phải “tìm bản thân” kiểu lifestyle. Nó là confrontation: nhìn shadow, rút projection, nghe dream, gặp anima/animus, và để ego phục vụ Self thay vì đóng giả vua.

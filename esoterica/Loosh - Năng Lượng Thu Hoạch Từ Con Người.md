@@ -17,7 +17,7 @@ related:
 ---
 # Loosh — Năng Lượng Thu Hoạch Từ Con Người
 
-![A surreal human city at night emitting visible emotional currents into unseen collectors above](../assets/illustrations/loosh-city-harvest-field.png)
+![A surreal human city at night emitting visible emotional currents into unseen collectors above](../assets/illustrations/loosh-city-harvest-field.webp)
 
 **Loosh là cách gọi esoteric cho năng lượng cảm xúc cường độ cao phát ra từ con người, đặc biệt khi fear, shame, grief, lust, rage và despair bị kích hoạt lặp đi lặp lại. Đọc đúng, Loosh không phải để sợ. Nó là bản đồ lấy lại quyền sở hữu attention và emotional field.**
 
@@ -40,7 +40,7 @@ Loosh là vùng dễ bị fear spiral. Nếu bài này làm bạn hoảng hơn, 
 
 ## Robert Monroe Và Nguồn Gốc Thuật Ngữ
 
-![Robert Monroe style astral traveler above Earth seeing emotional currents as golden and dark streams](../assets/illustrations/loosh-monroe-origin.png)
+![Robert Monroe style astral traveler above Earth seeing emotional currents as golden and dark streams](../assets/illustrations/loosh-monroe-origin.webp)
 
 Robert Monroe, nhà nghiên cứu OBE và sáng lập The Monroe Institute, dùng từ **Loosh** trong *Far Journeys* để mô tả một loại năng lượng phát ra từ sinh vật sống. Trong trải nghiệm của ông, Earth được nhìn như một “farm” nơi emotional energy được sản xuất và thu hoạch.
 
@@ -58,7 +58,7 @@ Không cần gom tất cả thành một taxonomy cứng. Pattern đủ rõ: nhi
 
 ## Cơ Chế Thu Hoạch Hiện Đại
 
-![A loop of phone screen, outrage news, porn, war headlines and dopamine spikes feeding a dark machine](../assets/illustrations/loosh-modern-mechanisms.png)
+![A loop of phone screen, outrage news, porn, war headlines and dopamine spikes feeding a dark machine](../assets/illustrations/loosh-modern-mechanisms.webp)
 
 Nếu bỏ phần entity, hệ thống hiện đại vẫn harvest Loosh ở tầng vật chất:
 
@@ -83,7 +83,7 @@ Porn là ví dụ rõ nhất. [[Năng Lượng Tình Dục]] vốn là creative 
 
 ## Ma Trận Và Luân Hồi
 
-![A soul moving through birth, life, death, light tunnel and memory wipe as a circular energy farm](../assets/illustrations/loosh-reincarnation-loop.png)
+![A soul moving through birth, life, death, light tunnel and memory wipe as a circular energy farm](../assets/illustrations/loosh-reincarnation-loop.webp)
 
 Trong [[Ma Trận]], con người bị nuôi trong pods để tạo điện. Esoteric reading đổi “điện” thành emotional energy. [[Luân Hồi]] trong một số trường phái được đọc như recycling loop: birth, trauma, attachment, death, memory wipe, repeat.
 

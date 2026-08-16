@@ -20,7 +20,7 @@ related:
 
 *The Annunaki sit where Mesopotamian myth, ancient astronaut theory, and the problem of human rulership intersect.*
 
-![Thành phố Lưỡng Hà cổ dưới bầu trời rộng, các bóng sky ruler khổng lồ hạ xuống với bảng luật, biểu tượng quyền lực mythic Annunaki](../assets/illustrations/annunaki/00-hero-sky-rulers.png)
+![Thành phố Lưỡng Hà cổ dưới bầu trời rộng, các bóng sky ruler khổng lồ hạ xuống với bảng luật, biểu tượng quyền lực mythic Annunaki](../assets/illustrations/annunaki/00-hero-sky-rulers.webp)
 
 Bài này không hỏi đơn giản “Annunaki có thật không?”. Câu hỏi sâu hơn là: vì sao rất nhiều nền văn hóa đặt quyền lực tối cao ở trên trời, rồi dùng motif đó để hợp pháp hóa vua chúa, priesthood, luật lệ và trật tự xã hội?
 
@@ -54,7 +54,7 @@ Các motif đáng chú ý: divine assembly, kingship from heaven, flood narrativ
 
 ## Sitchin Layer: Nibiru, Gold Và Genetic Labor
 
-![Mỏ vàng cổ, hành tinh thiên thể trên bầu trời, người lao động và các thực thể phát sáng, biểu tượng tầng Sitchin như mythic hypothesis](../assets/illustrations/annunaki/01-nibiru-gold-labor.png)
+![Mỏ vàng cổ, hành tinh thiên thể trên bầu trời, người lao động và các thực thể phát sáng, biểu tượng tầng Sitchin như mythic hypothesis](../assets/illustrations/annunaki/01-nibiru-gold-labor.webp)
 
 
 Sitchin đọc Annunaki như beings từ [[Nibiru]] đến Trái Đất khai thác vàng và can thiệp gene để tạo Homo sapiens làm lao động. Đây là myth hiện đại cực mạnh vì nó nối nhiều ám ảnh của thời đại: missing link trong tiến hóa, quyền lực của vàng, nỗi sợ bị tạo ra như worker species, flood/reset memory, elite bloodline, suppressed archaeology, alien disclosure.
@@ -77,7 +77,7 @@ Một người đọc yếu sẽ chọn một câu trả lời quá nhanh: “ch
 
 ## Annunaki Và Hệ Điều Hành Quyền Lực
 
-![Ngai vàng cổ và phòng họp hiện đại chồng lên nhau, sky gods myth vọng lại trong elite bloodline và technocratic mandate](../assets/illustrations/annunaki/02-divine-kingship-modern-echo.png)
+![Ngai vàng cổ và phòng họp hiện đại chồng lên nhau, sky gods myth vọng lại trong elite bloodline và technocratic mandate](../assets/illustrations/annunaki/02-divine-kingship-modern-echo.webp)
 
 
 Trong vault synthesis, Annunaki giúp đọc [[Cabal]] và [[Elite]] ở tầng mythic. Quyền lực hiện đại không cần tin thật vào Annunaki để sử dụng cùng cấu trúc đó. Nó chỉ cần lặp logic: một nhóm nhỏ tự xem mình là keeper of knowledge, còn đa số được quản trị như labor, consumer, voter, data point.

@@ -16,7 +16,7 @@ related:
 ---
 # Lemuria (Mu)
 
-![A soft oceanic Lemurian city of coral temples and luminous terraces under moonlit Pacific waters](../assets/illustrations/lemuria-oceanic-memory.png)
+![A soft oceanic Lemurian city of coral temples and luminous terraces under moonlit Pacific waters](../assets/illustrations/lemuria-oceanic-memory.webp)
 
 **Lemuria là ký ức về một nhánh văn minh oceanic, feminine, trực giác và cộng sinh với Gaia. Nó không cần được chứng minh như một quốc gia khảo cổ đã đóng án để đặt câu hỏi đúng: nhân loại đã đánh mất kiểu trí tuệ nào khi chọn chinh phục thay vì lắng nghe?**
 
@@ -47,7 +47,7 @@ Vault không chọn phe. Một nhân loại chỉ Atlantis sẽ thành machine. 
 
 ## Từ Land Bridge Đến Myth-History
 
-![A Victorian map dissolving into a mythic Pacific continent of islands and star navigation routes](../assets/illustrations/lemuria-map-myth-history.png)
+![A Victorian map dissolving into a mythic Pacific continent of islands and star navigation routes](../assets/illustrations/lemuria-map-myth-history.webp)
 
 Ban đầu, Lemuria là giả thuyết địa chất để giải thích phân bố loài lemur trước khi plate tectonics làm model đó lỗi thời. Sau đó Theosophy và các tác giả về Mu biến nó thành lục địa cổ, root race, nền văn minh chìm.
 
@@ -70,7 +70,7 @@ Ban đầu, Lemuria là giả thuyết địa chất để giải thích phân b
 
 ## Pacific Clues / Những Mảnh Gợi Hỏi
 
-![Nan Madol-like basalt ruins, Polynesian voyaging stars, and a submerged road under turquoise water](../assets/illustrations/lemuria-pacific-clues.png)
+![Nan Madol-like basalt ruins, Polynesian voyaging stars, and a submerged road under turquoise water](../assets/illustrations/lemuria-pacific-clues.webp)
 
 Nan Madol, Rapa Nui, Polynesian wayfinding, Ring of Fire, Sundaland, truyền thuyết homeland chìm và các kỹ năng đọc sao/biển đều là mảnh đáng hỏi. Chúng không prove một lục địa Lemuria thống nhất, nhưng chúng phá hình ảnh “người cổ đại chỉ mò mẫm sơ khai”.
 
@@ -88,7 +88,7 @@ Con người công nghiệp có sensor, dashboard, policy, carbon market vì đ�
 
 ## Lemurian Soul: Đừng Trôi Khỏi Đất
 
-![A grounded meditator at the shoreline, luminous ocean memories behind but bare feet in wet sand](../assets/illustrations/lemuria-grounded-soul.png)
+![A grounded meditator at the shoreline, luminous ocean memories behind but bare feet in wet sand](../assets/illustrations/lemuria-grounded-soul.webp)
 
 Nhiều người nói về Lemurian souls, starseeds, ký ức “home” không thuộc đời này. Tầng này nên đọc như phenomenology của linh hồn, không như giấy khai sinh cosmic. Cảm giác nhớ biển, nhớ một cách sống có heart hơn, có thể là dữ liệu nội tâm. Nhưng nội tâm cần grounding.
 

@@ -19,7 +19,7 @@ related:
 
 *Privacy is not the right to hide crimes. Privacy is the right to have an inner and outer room where a human is not constantly measured, scored, predicted, sold, or punished. Without privacy, free speech becomes self-censorship, financial freedom becomes permission money, and thought becomes behavior optimized by whoever is watching.*
 
-![Một người ngồi trong căn phòng riêng ấm áp với rèm cửa và đèn nhỏ, bên ngoài là các mắt giám sát và luồng dữ liệu ép vào cửa sổ](../assets/illustrations/privacy/00-hero-private-room.png)
+![Một người ngồi trong căn phòng riêng ấm áp với rèm cửa và đèn nhỏ, bên ngoài là các mắt giám sát và luồng dữ liệu ép vào cửa sổ](../assets/illustrations/privacy/00-hero-private-room.webp)
 
 Câu “nếu không có gì để giấu thì không có gì để sợ” là một trong những câu propaganda nguy hiểm nhất thời đại số. Người nói câu đó thường vẫn khóa cửa nhà, kéo rèm phòng tắm, đặt mật khẩu điện thoại, nói chuyện riêng với người thân và không công khai toàn bộ tài khoản ngân hàng. Vì sâu bên trong, ai cũng biết privacy không phải luxury. Nó là điều kiện để làm người.
 
@@ -49,7 +49,7 @@ Nếu mọi thứ đều bị ghi lại, con người không chỉ mất bí m�
 
 ## Surveillance Không Chỉ Là Theo Dõi, Nó Là Điều Khiển
 
-![Dữ liệu từ điện thoại, thẻ, khuôn mặt, vị trí và tin nhắn chảy vào cỗ máy dự đoán đang kéo người dùng bằng các sợi vô hình](../assets/illustrations/privacy/01-surveillance-control-loop.png)
+![Dữ liệu từ điện thoại, thẻ, khuôn mặt, vị trí và tin nhắn chảy vào cỗ máy dự đoán đang kéo người dùng bằng các sợi vô hình](../assets/illustrations/privacy/01-surveillance-control-loop.webp)
 
 
 Theo dõi là tầng đầu. Dự đoán là tầng hai. Điều khiển là tầng ba.
@@ -66,7 +66,7 @@ Surveillance là hạ tầng của control mềm.
 
 ## Financial Privacy Là Điều Kiện Của Financial Sovereignty
 
-![Cash, hardware wallet, tin nhắn mã hóa và điện thoại tắt sáng trên một bàn tối, như bộ công cụ financial privacy và chủ quyền cá nhân](../assets/illustrations/privacy/02-financial-privacy-cash-bitcoin.png)
+![Cash, hardware wallet, tin nhắn mã hóa và điện thoại tắt sáng trên một bàn tối, như bộ công cụ financial privacy và chủ quyền cá nhân](../assets/illustrations/privacy/02-financial-privacy-cash-bitcoin.webp)
 
 
 Tiền là diary của đời sống. Bạn tiêu ở đâu, lúc nào, cho ai, bao nhiêu, tần suất ra sao, trong hoàn cảnh nào. Nếu ai đó thấy toàn bộ money trail, họ thấy sức khỏe, mối quan hệ, chính trị, tôn giáo, ham muốn, weakness, routines và network của bạn.

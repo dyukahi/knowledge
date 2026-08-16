@@ -15,7 +15,7 @@ related:
 
 # Tình Nghĩa Là Hạ Tầng Cuối Cùng
 
-![Tình Nghĩa Là Hạ Tầng Cuối Cùng](../assets/illustrations/tinh-nghia-ha-tang-cuoi-cung.png)
+![Tình Nghĩa Là Hạ Tầng Cuối Cùng](../assets/illustrations/tinh-nghia-ha-tang-cuoi-cung.webp)
 
 *Có những lời hứa không còn nằm trong lời nói. Chúng nằm ở người vẫn chở người kia đi chữa bệnh khi đời đã hết aesthetic.* Tình nghĩa vợ chồng thiêng liêng không nằm ở ảnh cưới, lễ cưới, caption đẹp, hay những lời hứa lúc cả hai còn khỏe. Nó hiện ra trong những cảnh rất thô. Một người mổ mắt cườm, không thấy gì, người kia chăm từng ngày. Một người đột quỵ nằm liệt giường, người kia chở đi châm cứu bằng xe ba bánh.
 

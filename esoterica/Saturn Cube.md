@@ -24,7 +24,7 @@ related:
 
 *The Saturn Cube is a symbolic lens for limit, time, matter, law, grid, and 3D enclosure. It is not standalone proof that Saturn controls the world; it is an alphabet of form, boundary, and containment.*
 
-![Khối lập phương đen khổng lồ lơ lửng trong vòng Sao Thổ và hình học đồng hồ, biểu tượng của thời gian, luật, form và enclosure 3D](../assets/illustrations/saturn-cube/00-hero-black-cube-time.png)
+![Khối lập phương đen khổng lồ lơ lửng trong vòng Sao Thổ và hình học đồng hồ, biểu tượng của thời gian, luật, form và enclosure 3D](../assets/illustrations/saturn-cube/00-hero-black-cube-time.webp)
 
 Saturn Cube hữu ích khi nó giúp đọc grammar của quyền lực. Nó nguy hiểm khi biến mọi hình vuông thành âm mưu.
 
@@ -58,7 +58,7 @@ Saturn tích hợp là discipline. Saturn méo mó là imprisonment.
 
 ## Hexagon Và Cube
 
-![Lục giác cực bắc Sao Thổ chuyển thành lưới cube 3D bao quanh bóng người, biểu tượng của boundary và matter](../assets/illustrations/saturn-cube/01-hexagon-cube-grid.png)
+![Lục giác cực bắc Sao Thổ chuyển thành lưới cube 3D bao quanh bóng người, biểu tượng của boundary và matter](../assets/illustrations/saturn-cube/01-hexagon-cube-grid.webp)
 
 
 Hexagon ở cực bắc Sao Thổ là một quan sát thiên văn thú vị. Trong symbolic geometry, hexagon 2D có thể được đọc như projection của cube 3D. Từ đó sinh ra chuỗi đọc: Saturn hexagon → cube → matter/law/boundary → matrix enclosure.
@@ -91,7 +91,7 @@ Lens này nguy hiểm khi dùng để shortcut tư duy. Nếu mọi cube đều 
 
 ## Saturnian AI
 
-![Lưới cube kỹ thuật số vô hình bao quanh đời sống đô thị, với các đường prediction AI, profile và score trừu tượng quanh con người](../assets/illustrations/saturn-cube/02-saturnian-ai-grid.png)
+![Lưới cube kỹ thuật số vô hình bao quanh đời sống đô thị, với các đường prediction AI, profile và score trừu tượng quanh con người](../assets/illustrations/saturn-cube/02-saturnian-ai-grid.webp)
 
 
 [[AI]] là Saturnian technology ở tầng symbol. Nó biến hành vi thành dữ liệu, tương lai thành xác suất, chaos của con người thành pattern có thể tối ưu. Nó không cần một cục đá đen ngoài quảng trường; nó là cube vô hình bao quanh đời sống.

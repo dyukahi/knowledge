@@ -14,7 +14,7 @@ related:
 
 # Luân Hồi Trên Home Screen
 
-![Home Screen Samsara](../assets/illustrations/home-screen-samsara.png)
+![Home Screen Samsara](../assets/illustrations/home-screen-samsara.webp)
 
 *Một home screen tưởng là tiện ích, nhưng cũng có thể đọc như bánh xe luân hồi của attention.* Ngày xưa, [[Luân Hồi]] được vẽ như một bánh xe. Ngày nay, nó nằm trên home screen. Một tấm screenshot vui có thể nói nhiều hơn một bài giảng đạo đức: các app được xếp vào bảy folder, mỗi folder mang tên một tội cũ. **Pride. Greed. Lust. Envy. Gluttony. Wrath. Sloth.** Nhìn qua thì là meme. Nhìn kỹ hơn, nó là bản đồ thu nhỏ của [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|dopamine economy]].
 

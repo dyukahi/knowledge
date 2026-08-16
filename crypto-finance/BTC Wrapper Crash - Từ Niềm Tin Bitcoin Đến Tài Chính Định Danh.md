@@ -25,7 +25,7 @@ related:
 
 # Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh
 
-![Chồng Tín Dụng Quanh Bitcoin](../assets/illustrations/btc-wrapper-crash-credit-stack.png)
+![Chồng Tín Dụng Quanh Bitcoin](../assets/illustrations/btc-wrapper-crash-credit-stack.webp)
 
 > Cú sập lớn nhất có thể không phải là cái chết của Bitcoin. Nó có thể là cái chết của những lớp quyền đòi được dựng quanh niềm tin Bitcoin.
 
@@ -236,7 +236,7 @@ Câu vault:
 
 ## 6. Bán Cưỡng Bức: Bán Cái Gì Còn Có Người Mua
 
-![Bán Cưỡng Bức Trong Cú Sập Lớp Bọc Bitcoin](../assets/illustrations/btc-wrapper-crash-forced-selling.png)
+![Bán Cưỡng Bức Trong Cú Sập Lớp Bọc Bitcoin](../assets/illustrations/btc-wrapper-crash-forced-selling.webp)
 
 Người bị ép bán không bán thứ “nên bán”. Họ bán thứ bán được.
 
@@ -379,7 +379,7 @@ Và chồng kiểm soát được bán như thuốc chữa.
 
 ## 10. Đường Ray Xác Minh Dữ Liệu Như Hạ Tầng An Toàn
 
-![Tài Chính Định Danh Sau Cú Sập Lớp Bọc Bitcoin](../assets/illustrations/btc-wrapper-crash-identity-finance.png)
+![Tài Chính Định Danh Sau Cú Sập Lớp Bọc Bitcoin](../assets/illustrations/btc-wrapper-crash-identity-finance.webp)
 
 Sau cú sập, hệ thống không nhất thiết cấm Bitcoin thẳng tay. Nó có thể nói:
 

@@ -21,7 +21,7 @@ related:
 
 *Monad is the indivisible spark of Source. It is not the soul in the personal sense, nor the ego of this lifetime. Monad is the One-point inside every being: the part that never truly left Source, only experiencing the illusion of separation through soul, body, and the Matrix.*
 
-![Monad như giọt sáng duy nhất lơ lửng trên đại dương vũ trụ, trong giọt nước có cả thiên hà và bóng người tĩnh lặng](../assets/illustrations/monad/00-hero-one-spark-ocean.png)
+![Monad như giọt sáng duy nhất lơ lửng trên đại dương vũ trụ, trong giọt nước có cả thiên hà và bóng người tĩnh lặng](../assets/illustrations/monad/00-hero-one-spark-ocean.webp)
 
 Nếu [[Sự Nhất Thể]] là đại dương, Monad là giọt nước vẫn mang toàn bộ bản chất của đại dương. Nếu [[Ma Trận]] là trò chơi phân mảnh, Monad là player thật đứng sau nhân vật. Nếu [[Gnosis]] là sự nhớ lại, thì Monad là thứ được nhớ lại.
 
@@ -72,7 +72,7 @@ Monad không phải thứ để tin như slogan. Nó là thứ để nhận ra q
 
 ## Monad, Soul, Ego Và Body
 
-![Các lớp body như bộ đồ sinh học, ego như mặt nạ sân khấu, soul như archive cổ xưa và Monad như ánh sáng player phía sau](../assets/illustrations/monad/01-avatar-soul-player.png)
+![Các lớp body như bộ đồ sinh học, ego như mặt nạ sân khấu, soul như archive cổ xưa và Monad như ánh sáng player phía sau](../assets/illustrations/monad/01-avatar-soul-player.webp)
 
 
 Một lỗi phổ biến là dùng Monad, soul, ego và body như cùng một thứ. Nếu phân tầng rõ, hành trình con người dễ hiểu hơn.
@@ -127,7 +127,7 @@ Nhớ Monad không làm bạn biến mất khỏi đời. Nó làm bạn sống 
 
 ## Monad Và Nhị Nguyên
 
-![Hai dòng sáng và tối xoắn từ một nguồn trung tâm rồi quay về nguồn đó, với người quan sát đứng yên giữa các đối cực](../assets/illustrations/monad/02-duality-return-one.png)
+![Hai dòng sáng và tối xoắn từ một nguồn trung tâm rồi quay về nguồn đó, với người quan sát đứng yên giữa các đối cực](../assets/illustrations/monad/02-duality-return-one.webp)
 
 
 Trước sáng/tối, nam/nữ, thiện/ác, trên/dưới, tinh thần/vật chất, self/other, có cái Một. [[Nhị Nguyên]] bắt đầu khi cái Một tự phân cực để có trải nghiệm.
