@@ -1,7 +1,35 @@
 import fs from "node:fs"
 
+function svgNumber(value) {
+  if (!value || !/^\s*(?:\d+(?:\.\d*)?|\.\d+)(?:e[+-]?\d+)?(?:px)?\s*$/i.test(value)) return null
+  const number = Number.parseFloat(value)
+  return Number.isFinite(number) && number > 0 ? number : null
+}
+
+function svgDimensions(data, file) {
+  const source = data.toString("utf8").replace(/<!--[\s\S]*?-->/g, "")
+  const root = source.match(/<svg\b(?:[^"'<>]|"[^"]*"|'[^']*')*>/i)?.[0]
+  if (!root) throw new Error(`corrupt SVG: ${file}`)
+
+  const attribute = (name) => root.match(new RegExp(`(?:^|\\s)${name}\\s*=\\s*(["'])(.*?)\\1`, "i"))?.[2]
+  let width = svgNumber(attribute("width"))
+  let height = svgNumber(attribute("height"))
+  const viewBox = attribute("viewBox")?.trim().split(/[\s,]+/).map(Number)
+  const viewBoxWidth = viewBox?.length === 4 && Number.isFinite(viewBox[2]) && viewBox[2] > 0 ? viewBox[2] : null
+  const viewBoxHeight = viewBox?.length === 4 && Number.isFinite(viewBox[3]) && viewBox[3] > 0 ? viewBox[3] : null
+
+  if (viewBoxWidth && viewBoxHeight) {
+    if (width && !height) height = width * viewBoxHeight / viewBoxWidth
+    else if (height && !width) width = height * viewBoxWidth / viewBoxHeight
+    else if (!width && !height) ({ width, height } = { width: viewBoxWidth, height: viewBoxHeight })
+  }
+  if (!width || !height) throw new Error(`SVG lacks usable intrinsic dimensions: ${file}`)
+  return { width, height, type: "svg" }
+}
+
 export function imageDimensions(file) {
   const data = fs.readFileSync(file)
+  if (/\.svg$/i.test(file)) return svgDimensions(data, file)
   if (data.length >= 24 && data.subarray(0, 8).equals(Buffer.from([137, 80, 78, 71, 13, 10, 26, 10]))) {
     return { width: data.readUInt32BE(16), height: data.readUInt32BE(20), type: "png" }
   }
@@ -31,5 +59,5 @@ export function imageDimensions(file) {
     }
     throw new Error(`corrupt JPEG: ${file}`)
   }
-  throw new Error(`unsupported or corrupt raster image: ${file}`)
+  throw new Error(`unsupported or corrupt image: ${file}`)
 }

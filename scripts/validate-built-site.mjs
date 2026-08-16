@@ -228,7 +228,7 @@ for (const { file, html, route } of pages) {
     if (!asset) continue
     if (asset.invalid) { errors.push(`${label}: unsafe or malformed asset path ${src}`); continue }
     if (!fs.existsSync(asset.path)) { errors.push(`${label}: missing asset ${src}`); continue }
-    if (/\.(?:png|jpe?g|webp)$/i.test(asset.path)) {
+    if (/\.(?:png|jpe?g|webp|svg)$/i.test(asset.path)) {
       try { imageDimensions(asset.path) } catch (error) { errors.push(`${label}: ${error.message}`) }
       if (tagName === "img" && (!attr(tag, "width") || !attr(tag, "height"))) errors.push(`${label}: image lacks intrinsic dimensions ${src}`)
     }

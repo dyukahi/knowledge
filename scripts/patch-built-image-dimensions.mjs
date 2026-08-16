@@ -38,7 +38,7 @@ function unicodeExistingPath(candidate) {
 }
 
 function localImage(htmlFile, src) {
-  if (!src || /^(?:data:|https?:)?\/\//i.test(src) || /\.svg(?:[?#]|$)/i.test(src)) return null
+  if (!src || /^(?:data:|https?:)?\/\//i.test(src)) return null
   let pathname
   try { pathname = decodeURIComponent(decodeHtml(src).split(/[?#]/, 1)[0]).normalize("NFC") } catch { return null }
   const candidate = pathname.startsWith("/")
@@ -57,7 +57,7 @@ for (const htmlFile of walk(publicRoot, ".html")) {
     if (hasWidth && hasHeight) return tag
     const src = tag.match(/\bsrc\s*=\s*(["'])(.*?)\1/i)?.[2]
     const image = localImage(htmlFile, src)
-    if (!image || !fs.existsSync(image) || /\.(?:svg)$/i.test(image)) return tag
+    if (!image || !fs.existsSync(image)) return tag
     const { width, height } = imageDimensions(image)
     patchedImages++
     const dimensions = `${hasWidth ? "" : ` width="${width}"`}${hasHeight ? "" : ` height="${height}"`}`
