@@ -8,6 +8,7 @@ status: refined
 related:
   - "[[MOC - Financial Sovereignty]]"
   - "[[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]"
+  - "[[Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading]]"
   - "[[Ai Đứng Bên Kia Giao Dịch]]"
   - "[[Sợ hãi - Tham Lam – Cân bằng]]"
   - "[[Secular Market]]"
@@ -40,16 +41,18 @@ Một market participant trưởng thành không phải người đoán đúng m
 ## Start Here
 
 1. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — survival before upside.
-2. [[Ai Đứng Bên Kia Giao Dịch]] — top/bottom như ownership transfer.
-3. [[Sợ hãi - Tham Lam – Cân bằng]] — fear/greed như hai cực làm méo quyết định.
-4. [[Secular Market]] — đặt quyết định vào chu kỳ dài.
-5. [[Tư Duy Lũy Thừa]] — compounding cần thời gian và kỷ luật.
+2. [[Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading]] — edge không cần hoàn hảo, nhưng loss phải nằm trong cấu trúc.
+3. [[Ai Đứng Bên Kia Giao Dịch]] — top/bottom như ownership transfer.
+4. [[Sợ hãi - Tham Lam – Cân bằng]] — fear/greed như hai cực làm méo quyết định.
+5. [[Secular Market]] — đặt quyết định vào chu kỳ dài.
+6. [[Tư Duy Lũy Thừa]] — compounding cần thời gian và kỷ luật.
 
 ---
 
 ## Survival Layer
 
 - [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — note nền về không đòn bẩy, không lifestyle flex, không dopamine trading.
+- [[Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading]] — Wabi-sabi/Kintsugi như ẩn dụ cho stop-loss, expectancy và kỷ luật sống chung với bất định.
 - [[Tư Duy Lũy Thừa]] — lũy thừa chỉ thưởng cho người còn sống.
 - [[Thông Minh vs Trí Tuệ]] — intelligence tìm upside; wisdom quản downside.
 
@@ -114,6 +117,7 @@ Risk management là spiritual practice của người chơi market. Nó bắt eg
 
 - [[MOC - Financial Sovereignty]]
 - [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]
+- [[Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading]]
 - [[Ai Đứng Bên Kia Giao Dịch]]
 - [[Sợ hãi - Tham Lam – Cân bằng]]
 - [[Secular Market]]

@@ -39,12 +39,12 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 |---|---:|---|
 | 🔮 **Esoterica** | 76 | metaphysics, occult, ancient civilizations, spiritual pattern |
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
-| 🧩 **Mental Models** | 42 | nhận thức, tâm lý học, framework để đọc reality |
+| 🧩 **Mental Models** | 43 | nhận thức, tâm lý học, framework để đọc reality |
 | 🏛️ **Politics & Conspiracy** | 27 | power structure, controlled narrative, geopolitics |
 | 🔬 **Science & Tech** | 20 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 235 notes / bài viết.
+**Total:** 236 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -295,6 +295,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ### 🧩 Mental Models
 
 - [[Mental Model]] | [[Quy Trình Là Ký Ức Được Mua Bằng Máu]] | [[Tư Duy Lũy Thừa]] | [[Thông Minh vs Trí Tuệ]]
+- [[Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading]]
 - [[Nhị Nguyên]] | [[Individuation]] | [[Tâm Lý Học Jung]]
 - [[Bộ Não Rỗng và AI Brain Rot]] | [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]
 - [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]
@@ -334,6 +335,11 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### August 16, 2026
+
+- **[[Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading]]** - flagship Mental Models essay dùng Wabi-sabi và Kintsugi như ẩn dụ cho stop-loss, expectancy, position sizing và kỷ luật sống chung với bất định; phân biệt một hệ thống có edge với ảo tưởng phải luôn đúng.
+- **Navigation update** - thêm bài vào Mental Models Gateway, Market Psychology & Risk MOC và root Recent Updates; kèm 8 minh họa editorial realism theo từng section lớn.
 
 ### August 15, 2026
 

@@ -1,18 +1,18 @@
 {
   "stats": {
-    "notes": 235,
+    "notes": 236,
     "domains": {
       "_docs": 11,
       "root": 14,
       "crypto-finance": 18,
       "esoterica": 76,
       "health": 27,
-      "mental-models": 42,
+      "mental-models": 43,
       "politics-conspiracy": 27,
       "science-tech": 20
     },
-    "tags": 290,
-    "wikilinkEdges": 2291,
+    "tags": 294,
+    "wikilinkEdges": 2301,
     "brokenLinks": 0,
     "orphans": 12
   },
@@ -696,6 +696,7 @@
           "esoterica/Ma Trận.md",
           "index.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/index.md",
@@ -8847,6 +8848,7 @@
           "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
           "AI",
           "Ai Đứng Bên Kia Giao Dịch",
+          "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
           "Bộ Não Rỗng và AI Brain Rot",
           "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
           "Chia Tách Bởi Nhị Nguyên",
@@ -8911,6 +8913,7 @@
           "index.md",
           "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Chia Tách Bởi Nhị Nguyên.md",
@@ -8966,7 +8969,7 @@
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1975,
+        "words": 2029,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -9227,6 +9230,7 @@
           "health/Công Thức Chữa Lành Tự Nhiên.md",
           "index.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
@@ -10115,70 +10119,6 @@
         "summary": "!Tình Nghĩa Là Hạ Tầng Cuối Cùng"
       },
       {
-        "path": "mental-models/Mental Model.md",
-        "title": "Mental Model",
-        "domain": "mental-models",
-        "tags": [
-          "epistemology",
-          "mental-model"
-        ],
-        "aliases": [
-          "Cognitive Model",
-          "Mô Hình Tư Duy",
-          "Thinking Model"
-        ],
-        "headings": [
-          "Mental Model",
-          "Vault Position",
-          "Evidence Discipline / Cách Dùng Model",
-          "Bản Đồ Không Phải Lãnh Thổ",
-          "Model Nền Cần Có",
-          "Mental Models Against The Matrix",
-          "Kết Hợp Nhiều Model",
-          "Model Và Identity",
-          "Quy Trình Xây Thư Viện Model",
-          "Failure Modes",
-          "Chốt Lại",
-          "Related"
-        ],
-        "wikilinks": [
-          "Individuation",
-          "Khoa Học Xét Lại",
-          "Ma Trận",
-          "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
-          "Nhị Nguyên",
-          "Thông Minh vs Trí Tuệ",
-          "Tư Duy Lũy Thừa",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "index.md",
-          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
-          "mental-models/index.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "MOC - Epistemology & Propaganda.md"
-        ],
-        "words": 1169,
-        "summary": "**Mental model là bản đồ vận hành của reality trong đầu bạn.** Người có model nghèo bị sự kiện kéo đi. Người có model tốt thấy cấu trúc phía sau sự kiện, dự đoán hậu quả tốt hơn và chọn phản ứng tỉnh hơn. Trong redpill.wiki, mental model không phải mẹo năng s…"
-      },
-      {
         "path": "mental-models/Tư Duy Lũy Thừa.md",
         "title": "Tư Duy Lũy Thừa",
         "domain": "mental-models",
@@ -10227,6 +10167,7 @@
           "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
           "index.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
           "mental-models/index.md",
           "mental-models/Mental Model.md",
           "mental-models/Privacy Is The New Wealth.md",
@@ -10290,6 +10231,7 @@
           "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
           "crypto-finance/Secular Market.md",
           "index.md",
+          "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
           "mental-models/index.md",
           "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
           "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
@@ -10298,6 +10240,70 @@
         ],
         "words": 2567,
         "summary": "**Chart không phải đường giá. Chart là lịch sử của ownership transfer. Mỗi cây nến là dấu vết của một cuộc đổi tay: có người đủ sợ để bán, có người đủ tin để mua. Ở vùng top và bottom, câu hỏi quan trọng nhất không phải “tin tốt hay tin xấu?”, mà là: ai đang…"
+      },
+      {
+        "path": "mental-models/Mental Model.md",
+        "title": "Mental Model",
+        "domain": "mental-models",
+        "tags": [
+          "epistemology",
+          "mental-model"
+        ],
+        "aliases": [
+          "Cognitive Model",
+          "Mô Hình Tư Duy",
+          "Thinking Model"
+        ],
+        "headings": [
+          "Mental Model",
+          "Vault Position",
+          "Evidence Discipline / Cách Dùng Model",
+          "Bản Đồ Không Phải Lãnh Thổ",
+          "Model Nền Cần Có",
+          "Mental Models Against The Matrix",
+          "Kết Hợp Nhiều Model",
+          "Model Và Identity",
+          "Quy Trình Xây Thư Viện Model",
+          "Failure Modes",
+          "Chốt Lại",
+          "Related"
+        ],
+        "wikilinks": [
+          "Individuation",
+          "Khoa Học Xét Lại",
+          "Ma Trận",
+          "Mental Model - Kiến Trúc Bẻ Khóa Ma Trận",
+          "Nhị Nguyên",
+          "Thông Minh vs Trí Tuệ",
+          "Tư Duy Lũy Thừa",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "index.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+          "mental-models/index.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "MOC - Epistemology & Propaganda.md"
+        ],
+        "words": 1169,
+        "summary": "**Mental model là bản đồ vận hành của reality trong đầu bạn.** Người có model nghèo bị sự kiện kéo đi. Người có model tốt thấy cấu trúc phía sau sự kiện, dự đoán hậu quả tốt hơn và chọn phản ứng tỉnh hơn. Trong redpill.wiki, mental model không phải mẹo năng s…"
       },
       {
         "path": "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
@@ -10441,6 +10447,64 @@
         ],
         "words": 3668,
         "summary": "**Hiện đại không phá hôn nhân chỉ bằng tự do tình dục. Nó phá bằng cách tách tình dục khỏi sinh sản, sinh sản khỏi nghĩa vụ, nghĩa vụ khỏi danh dự, rồi gọi phần trống rỗng còn lại là tự do cá nhân. Nhưng phản ứng ngược kiểu đổ toàn bộ lỗi lên phụ nữ, thuốc tr…"
+      },
+      {
+        "path": "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "title": "Sợ hãi - Tham Lam – Cân bằng",
+        "domain": "mental-models",
+        "tags": [
+          "bitcoin",
+          "finance",
+          "mental-model",
+          "psychology"
+        ],
+        "aliases": [
+          "Cân Bằng Cảm Xúc Thị Trường",
+          "Fear and Greed",
+          "Fear Greed Balance"
+        ],
+        "headings": [
+          "Sợ hãi - Tham Lam – Cân bằng",
+          "Vault Position / Vị Trí Trong Bản Đồ",
+          "Fear / Sợ Hãi",
+          "Greed / Tham Lam",
+          "The Crowd Oscillator / Bộ Dao Động Đám Đông",
+          "Matrix Uses Both Poles",
+          "Balance / Cân Bằng",
+          "Tools / Công Cụ Thực Hành",
+          "Kết Luận / Closing",
+          "Decision Filter / Bộ Lọc Quyết Định",
+          "Market Emotion Và Survival Discipline",
+          "Ownership Transfer"
+        ],
+        "wikilinks": [
+          "Ai Đứng Bên Kia Giao Dịch",
+          "Bitcoin",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "Kiểm Soát Tâm Trí",
+          "Privacy Is The New Wealth",
+          "Tư Duy Lũy Thừa"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Privacy Is The New Wealth.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Giàu Không Nhờ May Mắn.md",
+          "crypto-finance/index.md",
+          "index.md",
+          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
+          "mental-models/index.md",
+          "MOC - Market Psychology & Risk.md"
+        ],
+        "words": 884,
+        "summary": "**Sợ hãi và tham lam là hai cực điều khiển thị trường, chính trị và đời sống cá nhân. Người chưa có trung tâm sẽ mua narrative của đám đông: sợ khi cần quan sát, tham khi cần kỷ luật.**"
       },
       {
         "path": "mental-models/Tâm bất Biến.md",
@@ -10712,63 +10776,6 @@
         "summary": "**Schadenfreude** (tiếng Đức: *Schaden* = thiệt hại, *Freude* = niềm vui) là cảm giác khoái lạc khi chứng kiến người khác gặp bất hạnh. Não bộ release dopamine — cùng chất hóa học khi ăn ngon, sex, hoặc thắng cược — nhưng nguồn kích thích là nỗi đau của người…"
       },
       {
-        "path": "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "title": "Sợ hãi - Tham Lam – Cân bằng",
-        "domain": "mental-models",
-        "tags": [
-          "bitcoin",
-          "finance",
-          "mental-model",
-          "psychology"
-        ],
-        "aliases": [
-          "Cân Bằng Cảm Xúc Thị Trường",
-          "Fear and Greed",
-          "Fear Greed Balance"
-        ],
-        "headings": [
-          "Sợ hãi - Tham Lam – Cân bằng",
-          "Vault Position / Vị Trí Trong Bản Đồ",
-          "Fear / Sợ Hãi",
-          "Greed / Tham Lam",
-          "The Crowd Oscillator / Bộ Dao Động Đám Đông",
-          "Matrix Uses Both Poles",
-          "Balance / Cân Bằng",
-          "Tools / Công Cụ Thực Hành",
-          "Kết Luận / Closing",
-          "Decision Filter / Bộ Lọc Quyết Định",
-          "Market Emotion Và Survival Discipline",
-          "Ownership Transfer"
-        ],
-        "wikilinks": [
-          "Ai Đứng Bên Kia Giao Dịch",
-          "Bitcoin",
-          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-          "Kiểm Soát Tâm Trí",
-          "Privacy Is The New Wealth",
-          "Tư Duy Lũy Thừa"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-          "mental-models/Privacy Is The New Wealth.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Giàu Không Nhờ May Mắn.md",
-          "crypto-finance/index.md",
-          "index.md",
-          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-          "mental-models/index.md",
-          "MOC - Market Psychology & Risk.md"
-        ],
-        "words": 884,
-        "summary": "**Sợ hãi và tham lam là hai cực điều khiển thị trường, chính trị và đời sống cá nhân. Người chưa có trung tâm sẽ mua narrative của đám đông: sợ khi cần quan sát, tham khi cần kỷ luật.**"
-      },
-      {
         "path": "mental-models/Thông Minh.md",
         "title": "Thông Minh",
         "domain": "mental-models",
@@ -10938,6 +10945,63 @@
         ],
         "words": 9318,
         "summary": "Năm 18 tuổi, mình từng đọc được ở đâu đó rằng: 1 lần chơi đá (Meth) có thể mang đến cảm giác của 10 lần làm tình. Từng viết 1 truyện ngắn với tiêu đề này (lạc đâu mất rồi), và sau đó cứ băn khoăn mãi về cái fact này, tự hỏi khi nào mình được kiểm chứng? 20 nă…"
+      },
+      {
+        "path": "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
+        "title": "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
+        "domain": "mental-models",
+        "tags": [
+          "discipline",
+          "kintsugi",
+          "market-psychology",
+          "mental-model",
+          "risk-management",
+          "trading",
+          "wabi-sabi"
+        ],
+        "aliases": [
+          "Buông Bỏ Chén Thánh Trading",
+          "Kintsugi Và Kỷ Luật Trading",
+          "Trading Không Cần Hoàn Hảo",
+          "Wabi-sabi Trong Trading"
+        ],
+        "headings": [
+          "Buông Bỏ “Chén Thánh” Để Tìm Thấy Sự Bình Yên Trong Trading",
+          "1. Ảo Tưởng Về Một “Chén Thánh”",
+          "2. Chấp Nhận “Vết Nứt” Của Thị Trường",
+          "3. Win Rate Không Phải Tất Cả",
+          "4. Thị Trường Không Cần Biết Bạn Đúng Hay Sai",
+          "5. Hàn Gắn Tài Khoản Bằng “Vàng Kỷ Luật”",
+          "6. Đừng Cố Ăn Hết Mọi Con Sóng",
+          "7. Bình Yên Không Đến Từ Việc Biết Trước Thị Trường",
+          "Vault Position / Vị Trí Trong Bản Đồ"
+        ],
+        "wikilinks": [
+          "Ai Đứng Bên Kia Giao Dịch",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "MOC - Market Psychology & Risk",
+          "Quy Trình Là Ký Ức Được Mua Bằng Máu",
+          "Sợ hãi - Tham Lam – Cân bằng",
+          "Tư Duy Lũy Thừa"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "MOC - Market Psychology & Risk.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "MOC - Market Psychology & Risk.md"
+        ],
+        "words": 2359,
+        "summary": "!Một chiếc bát gốm Kintsugi đặt cạnh biểu đồ thị trường trong căn phòng tối, các đường vàng trên thân bát phản chiếu thành những đường giá, biểu tượng cho một hệ thống không hoàn hảo nhưng vẫn nguyên vẹn"
       },
       {
         "path": "mental-models/Gen Z - Phân Tích Phản Biện.md",
@@ -11145,6 +11209,66 @@
         "summary": "**Một xã hội có thể tích lũy hàng nghìn tỷ đô la cho hưu trí mà vẫn sản xuất ra tuổi già cô độc. Một quốc gia có thể phủ bảo hiểm cho hơn một tỷ người mà vẫn phải hỏi ai sẽ chăm một cơ thể yếu đi trong căn hộ nhỏ. Một gia đình có thể thương nhau mà vẫn quá ki…"
       },
       {
+        "path": "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+        "title": "Quy Trình Là Ký Ức Được Mua Bằng Máu",
+        "domain": "mental-models",
+        "tags": [
+          "institutional-memory",
+          "mental-model",
+          "operations",
+          "risk-management",
+          "safety",
+          "systems-thinking"
+        ],
+        "aliases": [
+          "Institutional Memory",
+          "Procedures Are Paid Memory",
+          "Quy Trình Và Ký Ức Tổ Chức",
+          "SOP Là Tài Sản Vô Hình"
+        ],
+        "headings": [
+          "Quy Trình Là Ký Ức Được Mua Bằng Máu",
+          "Vault Position / Vị Trí Trong Vault",
+          "Từ Khóa Cần Hiểu",
+          "Shin-Okubo: Ba Giây Và Một Hóa Đơn Không Thể Hoàn Tiền",
+          "SOP Là Tài Sản Vô Hình",
+          "Long Thành: Chi Phí Của Việc Ghép Sau",
+          "Chín Lần Làm Tắt Không Sao",
+          "Nhưng Không Phải Mọi Quy Trình Đều Thiêng Liêng",
+          "Cách Biến Failure Thành Tài Sản",
+          "Hóa Đơn Được Trả Bởi Người Không Có Mặt Trong Phòng",
+          "Kết / The Real Red Pill",
+          "Evidence Discipline / Kỷ Luật Nguồn",
+          "Nguồn chính",
+          "Related"
+        ],
+        "wikilinks": [
+          "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+          "Ma Trận",
+          "Mental Model",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
+          "Thông Minh vs Trí Tuệ",
+          "Tư Duy Lũy Thừa"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
+          "mental-models/index.md",
+          "MOC - Epistemology & Propaganda.md"
+        ],
+        "words": 3096,
+        "summary": "!Một cuốn sổ tay vận hành cũ nằm cạnh đường ray, mỗi dòng chữ phát sáng như ký ức của những tai nạn đã được chuyển thành quy tắc"
+      },
+      {
         "path": "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
         "title": "Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào",
         "domain": "mental-models",
@@ -11304,65 +11428,6 @@
         ],
         "words": 971,
         "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
-      },
-      {
-        "path": "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
-        "title": "Quy Trình Là Ký Ức Được Mua Bằng Máu",
-        "domain": "mental-models",
-        "tags": [
-          "institutional-memory",
-          "mental-model",
-          "operations",
-          "risk-management",
-          "safety",
-          "systems-thinking"
-        ],
-        "aliases": [
-          "Institutional Memory",
-          "Procedures Are Paid Memory",
-          "Quy Trình Và Ký Ức Tổ Chức",
-          "SOP Là Tài Sản Vô Hình"
-        ],
-        "headings": [
-          "Quy Trình Là Ký Ức Được Mua Bằng Máu",
-          "Vault Position / Vị Trí Trong Vault",
-          "Từ Khóa Cần Hiểu",
-          "Shin-Okubo: Ba Giây Và Một Hóa Đơn Không Thể Hoàn Tiền",
-          "SOP Là Tài Sản Vô Hình",
-          "Long Thành: Chi Phí Của Việc Ghép Sau",
-          "Chín Lần Làm Tắt Không Sao",
-          "Nhưng Không Phải Mọi Quy Trình Đều Thiêng Liêng",
-          "Cách Biến Failure Thành Tài Sản",
-          "Hóa Đơn Được Trả Bởi Người Không Có Mặt Trong Phòng",
-          "Kết / The Real Red Pill",
-          "Evidence Discipline / Kỷ Luật Nguồn",
-          "Nguồn chính",
-          "Related"
-        ],
-        "wikilinks": [
-          "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
-          "Ma Trận",
-          "Mental Model",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng",
-          "Thông Minh vs Trí Tuệ",
-          "Tư Duy Lũy Thừa"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "mental-models/index.md",
-          "MOC - Epistemology & Propaganda.md"
-        ],
-        "words": 3096,
-        "summary": "!Một cuốn sổ tay vận hành cũ nằm cạnh đường ray, mỗi dòng chữ phát sáng như ký ức của những tai nạn đã được chuyển thành quy tắc"
       },
       {
         "path": "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
@@ -13738,6 +13803,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "August 16, 2026",
           "August 15, 2026",
           "July 18, 2026",
           "July 15, 2026",
@@ -13777,6 +13843,7 @@
           "Bitcoin Sẽ Chết Nếu Không Có Privacy",
           "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
           "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+          "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
           "Báo Cáo 2030",
           "Bộ Não Rỗng và AI Brain Rot",
           "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
@@ -14006,6 +14073,7 @@
           "health/Y Tế Tự Nhiên.md",
           "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
@@ -14091,7 +14159,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 5611,
+        "words": 5705,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -15023,6 +15091,7 @@
           "Ai Đứng Bên Kia Giao Dịch",
           "Bitcoin",
           "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+          "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
           "Bộ Não Rỗng và AI Brain Rot",
           "Cantillon Effect - Ai Đứng Gần Vòi Tiền",
           "Chainlink - Mắt Xích Của Tokenized World",
@@ -15048,6 +15117,7 @@
           "crypto-finance/Secular Market.md",
           "crypto-finance/Tiền Pháp Định.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
           "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
@@ -15060,10 +15130,11 @@
           "crypto-finance/index.md",
           "index.md",
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
           "mental-models/index.md",
           "MOC - Financial Sovereignty.md"
         ],
-        "words": 879,
+        "words": 949,
         "summary": "**Market Psychology & Risk là bản đồ đọc thị trường như nơi tâm lý con người bị ép lộ ra bằng tiền thật. Chart là hậu quả, flow là bằng chứng, narrative là lớp giải thích đến sau. Trước khi hỏi “mua gì để giàu?”, phải hỏi: mình có sống sót đủ lâu không, ai đa…"
       },
       {
@@ -16537,6 +16608,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "August 16, 2026",
         "August 15, 2026",
         "July 18, 2026",
         "July 15, 2026",
@@ -16576,6 +16648,7 @@
         "Bitcoin Sẽ Chết Nếu Không Có Privacy",
         "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
         "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+        "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
         "Báo Cáo 2030",
         "Bộ Não Rỗng và AI Brain Rot",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
@@ -16805,6 +16878,7 @@
         "health/Y Tế Tự Nhiên.md",
         "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
@@ -16890,7 +16964,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 5611,
+      "words": 5705,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -17386,6 +17460,7 @@
         "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
         "AI",
         "Ai Đứng Bên Kia Giao Dịch",
+        "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
         "Bộ Não Rỗng và AI Brain Rot",
         "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "Chia Tách Bởi Nhị Nguyên",
@@ -17450,6 +17525,7 @@
         "index.md",
         "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
@@ -17505,7 +17581,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1975,
+      "words": 2029,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
@@ -19426,6 +19502,7 @@
         "health/Công Thức Chữa Lành Tự Nhiên.md",
         "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
@@ -20612,12 +20689,12 @@
       35
     ],
     [
-      "consciousness",
+      "mental-model",
       31
     ],
     [
-      "mental-model",
-      30
+      "consciousness",
+      31
     ],
     [
       "health",
@@ -20764,6 +20841,14 @@
       4
     ],
     [
+      "risk-management",
+      4
+    ],
+    [
+      "market-psychology",
+      4
+    ],
+    [
       "navigation",
       4
     ],
@@ -20789,14 +20874,6 @@
     ],
     [
       "fiat",
-      3
-    ],
-    [
-      "risk-management",
-      3
-    ],
-    [
-      "market-psychology",
       3
     ],
     [
@@ -21835,6 +21912,7 @@
         "Ai Đứng Bên Kia Giao Dịch",
         "Bitcoin",
         "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+        "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
         "Bộ Não Rỗng và AI Brain Rot",
         "Cantillon Effect - Ai Đứng Gần Vòi Tiền",
         "Chainlink - Mắt Xích Của Tokenized World",
@@ -21860,6 +21938,7 @@
         "crypto-finance/Secular Market.md",
         "crypto-finance/Tiền Pháp Định.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
@@ -21872,10 +21951,11 @@
         "crypto-finance/index.md",
         "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/index.md",
         "MOC - Financial Sovereignty.md"
       ],
-      "words": 879,
+      "words": 949,
       "summary": "**Market Psychology & Risk là bản đồ đọc thị trường như nơi tâm lý con người bị ép lộ ra bằng tiền thật. Chart là hậu quả, flow là bằng chứng, narrative là lớp giải thích đến sau. Trước khi hỏi “mua gì để giàu?”, phải hỏi: mình có sống sót đủ lâu không, ai đa…"
     },
     "MOC - Science Revisionism.md": {
@@ -22945,6 +23025,7 @@
         "esoterica/Ma Trận.md",
         "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/index.md",
@@ -30917,6 +30998,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "August 16, 2026",
         "August 15, 2026",
         "July 18, 2026",
         "July 15, 2026",
@@ -30956,6 +31038,7 @@
         "Bitcoin Sẽ Chết Nếu Không Có Privacy",
         "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
         "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
+        "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
         "Báo Cáo 2030",
         "Bộ Não Rỗng và AI Brain Rot",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
@@ -31185,6 +31268,7 @@
         "health/Y Tế Tự Nhiên.md",
         "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
@@ -31270,7 +31354,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 5611,
+      "words": 5705,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -31386,6 +31470,7 @@
         "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
         "crypto-finance/Secular Market.md",
         "index.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/index.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
         "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
@@ -31394,6 +31479,63 @@
       ],
       "words": 2567,
       "summary": "**Chart không phải đường giá. Chart là lịch sử của ownership transfer. Mỗi cây nến là dấu vết của một cuộc đổi tay: có người đủ sợ để bán, có người đủ tin để mua. Ở vùng top và bottom, câu hỏi quan trọng nhất không phải “tin tốt hay tin xấu?”, mà là: ai đang…"
+    },
+    "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md": {
+      "path": "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
+      "title": "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
+      "domain": "mental-models",
+      "tags": [
+        "discipline",
+        "kintsugi",
+        "market-psychology",
+        "mental-model",
+        "risk-management",
+        "trading",
+        "wabi-sabi"
+      ],
+      "aliases": [
+        "Buông Bỏ Chén Thánh Trading",
+        "Kintsugi Và Kỷ Luật Trading",
+        "Trading Không Cần Hoàn Hảo",
+        "Wabi-sabi Trong Trading"
+      ],
+      "headings": [
+        "Buông Bỏ “Chén Thánh” Để Tìm Thấy Sự Bình Yên Trong Trading",
+        "1. Ảo Tưởng Về Một “Chén Thánh”",
+        "2. Chấp Nhận “Vết Nứt” Của Thị Trường",
+        "3. Win Rate Không Phải Tất Cả",
+        "4. Thị Trường Không Cần Biết Bạn Đúng Hay Sai",
+        "5. Hàn Gắn Tài Khoản Bằng “Vàng Kỷ Luật”",
+        "6. Đừng Cố Ăn Hết Mọi Con Sóng",
+        "7. Bình Yên Không Đến Từ Việc Biết Trước Thị Trường",
+        "Vault Position / Vị Trí Trong Bản Đồ"
+      ],
+      "wikilinks": [
+        "Ai Đứng Bên Kia Giao Dịch",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "MOC - Market Psychology & Risk",
+        "Quy Trình Là Ký Ức Được Mua Bằng Máu",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Tư Duy Lũy Thừa"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "MOC - Market Psychology & Risk.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Market Psychology & Risk.md"
+      ],
+      "words": 2359,
+      "summary": "!Một chiếc bát gốm Kintsugi đặt cạnh biểu đồ thị trường trong căn phòng tối, các đường vàng trên thân bát phản chiếu thành những đường giá, biểu tượng cho một hệ thống không hoàn hảo nhưng vẫn nguyên vẹn"
     },
     "mental-models/Bộ Não Rỗng và AI Brain Rot.md": {
       "path": "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
@@ -31822,6 +31964,7 @@
         "health/Công Thức Chữa Lành Tự Nhiên.md",
         "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
@@ -32846,6 +32989,7 @@
       ],
       "backlinks": [
         "index.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/index.md",
         "MOC - Epistemology & Propaganda.md"
       ],
@@ -33070,6 +33214,7 @@
         "crypto-finance/index.md",
         "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/index.md",
         "MOC - Market Psychology & Risk.md"
       ],
@@ -33769,6 +33914,7 @@
         "crypto-finance/Điều Mà Trường Học Không Dạy Về Tiền.md",
         "index.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/index.md",
         "mental-models/Mental Model.md",
         "mental-models/Privacy Is The New Wealth.md",
@@ -34076,6 +34222,7 @@
         "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
         "AI",
         "Ai Đứng Bên Kia Giao Dịch",
+        "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
         "Bộ Não Rỗng và AI Brain Rot",
         "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "Chia Tách Bởi Nhị Nguyên",
@@ -34140,6 +34287,7 @@
         "index.md",
         "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
@@ -34195,7 +34343,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1975,
+      "words": 2029,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {

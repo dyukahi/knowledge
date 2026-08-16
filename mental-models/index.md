@@ -139,6 +139,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Mental Model]] — the domain's root concept.
 - [[Abilene Paradox - Nghịch Lý Đồng Thuận Giả|Nghịch Lý Abilene]] — group preference failure, pluralistic ignorance and false consensus.
 - [[Quy Trình Là Ký Ức Được Mua Bằng Máu]] — institutional memory, normalization of deviance, design debt and evidence-based procedure review.
+- [[Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading]] — Wabi-sabi, expectancy, stop-loss và kỷ luật sống sót bên trong bất định.
 - [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — desire hijacking as economic architecture.
 - [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]] — education-to-work pipeline, income-tier pain architecture and Loosh extraction.
 - [[Bộ Não Rỗng và AI Brain Rot]] — cognitive offloading and agency collapse.
@@ -166,6 +167,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 
 
 - [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]] — survival before upside; financial noise discipline.
+- [[Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading]] — stop-loss như vết nứt, expectancy như cấu trúc, kỷ luật như vàng Kintsugi.
 - [[Ai Đứng Bên Kia Giao Dịch]] — every market cycle as ownership transfer between strong and weak hands.
 - [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — why markets, apps and platforms monetize craving.
 - [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]] — why income levels change the kind of pain extracted, not only the account balance.
