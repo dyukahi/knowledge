@@ -1,6 +1,6 @@
 ---
 title: "Climate Anxiety as Control - Fear-Based Compliance"
-description: "Climate anxiety là thật, nhưng nỗi sợ thật có thể bị weaponize: eco-guilt, carbon wallet, 15-minute city và climate emergency có thể biến ecology thành compliance interface."
+description: "Climate anxiety là thật, nhưng eco-guilt, carbon wallet, 15-minute city và climate emergency có thể biến nỗi sợ sinh thái thành compliance interface."
 aliases: ["Climate Anxiety", "Eco-Anxiety", "Climate Fear", "Climate Doomerism", "Carbon Wallet"]
 date: 2026-06-04
 tags: [mental-model, psychology, generation, agenda-2030, climate, compliance]

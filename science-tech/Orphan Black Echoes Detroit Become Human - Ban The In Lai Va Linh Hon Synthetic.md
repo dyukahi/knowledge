@@ -1,6 +1,6 @@
 ---
-title: "Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo"
-description: "Orphan Black: Echoes và Detroit: Become Human cùng đặt một câu hỏi mới của thời AI, công nghệ sinh học và siêu nhân học: nếu thân xác, ký ức hoặc ý thức có thể được tạo lại, ai sở hữu cái tôi?"
+title: "Orphan Black Echoes & Detroit - Bản Thể Và Linh Hồn AI"
+description: "Orphan Black: Echoes và Detroit: Become Human hỏi ai sở hữu cái tôi khi thân xác, ký ức hoặc ý thức có thể được tạo lại bằng AI và công nghệ sinh học."
 aliases:
   - "Orphan Black Echoes"
   - "Detroit Become Human"

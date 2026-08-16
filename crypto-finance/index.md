@@ -8,7 +8,7 @@ status: refined
 related:
   - "[[MOC - Financial Sovereignty]]"
   - "[[Bitcoin]]"
-  - "[[Red Pill Wiki]]"
+  - "[[index|Red Pill Wiki]]"
 ---
 # Crypto & Finance Domain Gateway
 
@@ -141,7 +141,7 @@ Orientation: use this when finance starts touching politics, psychology and esot
 
 ## Related Gateways
 
-- [[Red Pill Wiki|Root Index]]
+- [[index|Root Index]]
 - [[MOC - Financial Sovereignty]]
 - [[politics-conspiracy/index|Politics & Conspiracy Gateway]]
 - [[mental-models/index|Mental Models Gateway]]

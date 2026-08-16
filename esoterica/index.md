@@ -8,7 +8,7 @@ status: refined
 related:
   - "[[MOC - Esoterica & Consciousness]]"
   - "[[MOC - Ancient Civilizations & Hidden History]]"
-  - "[[Red Pill Wiki]]"
+  - "[[index|Red Pill Wiki]]"
 ---
 # Esoterica Domain Gateway
 
@@ -85,8 +85,8 @@ Orientation: follow language, number, geometry and cinema as programming surface
 3. [[Sacred Geometry]] — read form as encoded metaphysics.
 4. [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] — watch media rehearse futures.
 5. [[Hollywood - Cây Đũa Phép Của Phù Thủy]] — see entertainment as ritual theater.
-6. [[Dune — Paul, Leto II Và Golden Path]] — đọc messiah trap, prescience và Golden Path như Ma Trận của định mệnh.
-7. [[Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]] — đọc luân hồi, lời chứng và các hình thức nô lệ của Ma Trận qua sáu tuyến thời gian.
+6. [[Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]] — đọc messiah trap, prescience và Golden Path như Ma Trận của định mệnh.
+7. [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]] — đọc luân hồi, lời chứng và các hình thức nô lệ của Ma Trận qua sáu tuyến thời gian.
 8. [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]] — Brazil→Norway World Cup pattern post-mortem and a live lesson in falsifiability.
 8. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — expand sports and halftime shows into mass synchronization ritual theory.
 
@@ -129,8 +129,8 @@ Orientation: this is the practice-facing route. It turns esoterica back inward, 
 - [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]] — Japan Gate, Norway’s failed champion thesis and the discipline of not moving an omen after the result.
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — World Cup, Euro, Super Bowl and launches as synchronized mass ritual.
 - [[Hollywood - Cây Đũa Phép Của Phù Thủy]] — cinema as ritual rehearsal and symbolic programming.
-- [[Dune — Paul, Leto II Và Golden Path]] — case study điện ảnh/văn học về đấng cứu thế, lời tiên tri, Golden Path và cái giá của việc thấy tương lai.
-- [[Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]] — case study điện ảnh về luân hồi, Gnosis, lời chứng và nô lệ Ma Trận qua sáu thời đại.
+- [[Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]] — case study điện ảnh/văn học về đấng cứu thế, lời tiên tri, Golden Path và cái giá của việc thấy tương lai.
+- [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]] — case study điện ảnh về luân hồi, Gnosis, lời chứng và nô lệ Ma Trận qua sáu thời đại.
 - [[Sự Nhất Thể]] / [[Monad]] / [[Gnosis]] — the Source axis of the vault.
 - [[Tartaria]] and [[Atlantis]] — hidden-history case studies for reading fact, myth and reset narratives separately.
 
@@ -138,7 +138,7 @@ Orientation: this is the practice-facing route. It turns esoterica back inward, 
 
 ## Related Gateways
 
-- [[Red Pill Wiki|Root Index]]
+- [[index|Root Index]]
 - [[MOC - Esoterica & Consciousness]]
 - [[MOC - Ancient Civilizations & Hidden History]]
 - [[science-tech/index|Science & Tech Gateway]]

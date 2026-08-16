@@ -1,5 +1,5 @@
 ---
-title: "Brazil → Norway 2026 - Japan Gate Transfer Và Một Thesis Bị Falsify"
+title: "Brazil → Norway 2026 - Japan Gate Và Thesis Bị Falsify"
 description: "Post-mortem một pattern World Cup 2026: Brazil mở signal, Norway được nâng thành Japan Gate candidate, rồi thua England và falsify champion thesis."
 aliases:
   - "Brazil 2026 - Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể"

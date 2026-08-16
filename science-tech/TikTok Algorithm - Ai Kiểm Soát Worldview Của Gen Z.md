@@ -1,6 +1,6 @@
 ---
-title: "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z"
-description: "Một cuốn sách có tác giả. Một bộ phim có đạo diễn. Một bài báo có tòa soạn. Còn feed thì khác. Feed giống như thời tiết: nó bao quanh người dùng đến mức người ta quên"
+title: "TikTok Algorithm - Ai Kiểm Soát Worldview Gen Z?"
+description: "TikTok Algorithm biến feed thành môi trường vô hình định hình attention, cảm xúc và worldview của Gen Z mà không cần một tác giả hay tòa soạn duy nhất."
 aliases: ["TikTok Algorithm", "TikTok Brain", "Information Warfare", "Algorithmic Worldview", "For You Page"]
 date: 2026-06-04
 tags: [science-tech, psychology, generation, agenda-2030, information-warfare, dopamine]

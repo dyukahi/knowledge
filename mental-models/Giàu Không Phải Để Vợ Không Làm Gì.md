@@ -1,6 +1,6 @@
 ---
 title: "Giàu Không Phải Để Vợ Không Làm Gì"
-description: "Provider fantasy, care economy, income ladder và family sovereignty: giàu không phải để biến người mình yêu thành phụ thuộc dễ chịu, cũng không phải để cả hai cùng bị thị trường vắt kiệt ở tầng thu nhập cao hơn."
+description: "Provider fantasy, care economy và family sovereignty: giàu không phải để tạo phụ thuộc dễ chịu hay để cả hai cùng bị thị trường vắt kiệt."
 date: 2026-06-17
 tags: [mental-models, care-economy, family, income-ladder, financial-sovereignty, matrix, loosh, agency]
 status: draft

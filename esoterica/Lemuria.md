@@ -11,7 +11,7 @@ related:
   - "[[Atlantis]]"
   - "[[Tartaria]]"
   - "[[Gaia - Trái Đất Có Ý Thức]]"
-  - "[[Chu Kỳ Vũ Trụ - Yugas & Kalpas]]"
+  - "[[esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas|Chu Kỳ Vũ Trụ - Yugas & Kalpas]]"
   - "[[Annunaki]]"
 ---
 # Lemuria (Mu)
@@ -64,7 +64,7 @@ Ban đầu, Lemuria là giả thuyết địa chất để giải thích phân b
 | shadow | thiếu boundary, dễ tan vào mơ | control, hubris, weaponized knowledge |
 | bài học | heart cần form | technology cần soul |
 
-Đặt cạnh [[Chu Kỳ Vũ Trụ - Yugas & Kalpas]], hai motif này giống hai memory của nhân loại trước reset: một memory về cộng sinh, một memory về quyền năng.
+Đặt cạnh [[esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas|Chu Kỳ Vũ Trụ - Yugas & Kalpas]], hai motif này giống hai memory của nhân loại trước reset: một memory về cộng sinh, một memory về quyền năng.
 
 ---
 

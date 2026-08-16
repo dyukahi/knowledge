@@ -1,6 +1,6 @@
 ---
-title: "Việt Nam Trước Hai Chiến Hào: Khi Nam Nữ Cùng Đòi Quyền Làm Người"
-description: "Hàn Quốc là lời cảnh báo giai đoạn muộn về phân cực giới; Việt Nam đã có những vết nứt sớm. Vấn đề không phải nam hay nữ thắng, mà là liệu xã hội có sửa được nhà ở, việc làm, lao động chăm sóc và phẩm giá trước khi hai giới biến nhau thành kẻ thù."
+title: "Việt Nam Trước Hai Chiến Hào: Nam Và Nữ"
+description: "Từ cảnh báo phân cực giới ở Hàn Quốc, bài viết hỏi Việt Nam có thể sửa nhà ở, việc làm, care work và phẩm giá trước khi hai giới thành kẻ thù không."
 aliases: ["Việt Nam Trước Hai Chiến Hào", "Phân Cực Giới Việt Nam", "Khi Nam Nữ Thành Kẻ Thù"]
 date: 2026-07-10
 tags: [mental-models, gender-polarization, family, care-economy, vietnam, south-korea, fertility, housing]

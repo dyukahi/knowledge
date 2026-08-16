@@ -1,6 +1,6 @@
 ---
 title: "Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng"
-description: "Bài này mở rộng case Brazil 2026 Khi Bóng Đá Trở Về Với Linh Hồn Tập Thể sang một framework lớn hơn: spectacle ritual "
+description: "Từ case Brazil 2026, bài viết mở rộng spectacle ritual thành khung đọc World Cup, Super Bowl và các nghi lễ đồng bộ cảm xúc đại chúng."
 aliases:
   - Spectacle Ritual
   - World Cup Ritual
@@ -8,6 +8,7 @@ aliases:
   - Mass Synchronization Ritual
   - Nghi Lễ Đại Chúng
   - Planetary Spectacle
+  - "Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng"
 date: 2026-06-04
 tags: [esoterica, media, ritual, propaganda, predictive-programming, collective-unconscious]
 status: refined

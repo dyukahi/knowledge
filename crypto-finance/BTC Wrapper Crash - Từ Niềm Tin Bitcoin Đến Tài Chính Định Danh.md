@@ -1,6 +1,6 @@
 ---
-title: "Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh"
-description: "Một luận điểm theo dạng kịch bản về cách cú sập của các lớp bọc tài chính quanh Bitcoin như công ty kho bạc Bitcoin, cổ phiếu ưu đãi, trái phiếu chuyển đổi và sản phẩm cấu trúc có thể tạo ra nhu cầu chính trị cho dự trữ được xác minh, tài sản mã hóa, ví định danh số và hệ tài chính được giám sát bằng trí tuệ nhân tạo."
+title: "Cú Sập Lớp Bọc Bitcoin Và Tài Chính Định Danh"
+description: "Kịch bản lớp bọc tài chính quanh Bitcoin sụp đổ, thúc đẩy dự trữ xác minh, tài sản mã hóa, ví định danh và hệ tài chính giám sát bằng AI."
 date: 2026-06-18
 tags: [crypto-finance, bitcoin, chainlink, rwa, digital-id, ai-compliance, financial-crisis, market-structure, oracle, tokenized-finance]
 status: draft

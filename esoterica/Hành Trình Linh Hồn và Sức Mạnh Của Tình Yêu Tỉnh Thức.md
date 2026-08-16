@@ -1,5 +1,5 @@
 ---
-title: Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức
+title: "Hành Trình Linh Hồn Và Tình Yêu Tỉnh Thức"
 aliases: ["Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức"]
 description: "Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức: The Soul's Journey and the Power of Conscious Love"
 date: 2026-04-08

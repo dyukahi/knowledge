@@ -1,7 +1,7 @@
 ---
 title: "Nibiru (Hành Tinh X)"
 aliases: ["Nibiru", "Planet X", "Hành Tinh X", "The Destroyer"]
-description: "Nibiru là giao điểm giữa Planet X, Sitchin, Annunaki và ký ức catastrophe: chưa phải fact thiên văn mainstream, nhưng là archetype mạnh về reset, sky omen và existential risk."
+description: "Nibiru là giao điểm giữa Planet X, Sitchin, Annunaki và ký ức catastrophe: chưa là fact thiên văn mainstream nhưng là archetype về reset và sky omen."
 date: 2026-04-08
 tags: [esoterica, hidden-history, nibiru, catastrophe]
 status: refined

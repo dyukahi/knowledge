@@ -1,6 +1,6 @@
 ---
 title: "Nhị Nguyên (Duality)"
-description: "Nhị nguyên là cơ chế Một tự phân cực thành hai để tạo trải nghiệm: sáng/tối, âm/dương, đúng/sai, ta/địch. Nó dạy bài khi được giữ trong Nhất Thể, và thành nhà tù khi bị weaponize."
+description: "Nhị nguyên là cơ chế Một phân cực thành sáng/tối, âm/dương, đúng/sai, ta/địch; nó dạy bài trong Nhất Thể và thành nhà tù khi bị weaponize."
 aliases: ["Duality", "Binary Thinking", "Nhị Nguyên"]
 date: 2026-04-07
 tags: [mental-model, consciousness, duality]

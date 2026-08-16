@@ -1,5 +1,5 @@
 ---
-title: "Bộ Tam Thánh Mind Control: NASA - Disney - Hollywood"
+title: "Tam Giác Mind Control - NASA, Disney, Hollywood"
 description: "NASA, Disney và Hollywood là ba màn hình myth công nghiệp: sky myth cho người lớn cần khoa học, childhood myth cho trẻ em, và adult myth cho public imagination."
 aliases: ["Bộ Tam Thánh Mind Control", "NASA Disney Hollywood", "Three Screens", "Industrial Myth Trinity"]
 date: 2026-04-08

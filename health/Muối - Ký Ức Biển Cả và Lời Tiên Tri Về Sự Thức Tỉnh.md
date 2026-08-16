@@ -1,5 +1,5 @@
 ---
-title: "Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh"
+title: "Muối - Ký Ức Biển Cả Và Lời Tiên Tri Thức Tỉnh"
 aliases: ["Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh"]
 description: "title: 'Muối: Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh' — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
 date: 2026-04-08

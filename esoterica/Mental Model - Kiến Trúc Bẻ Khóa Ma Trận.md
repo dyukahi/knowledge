@@ -71,7 +71,7 @@ Lộ trình trưởng thành có ba câu hỏi. Một: hệ thống đang lấy 
 - [[Trí Tuệ]]
 - [[Tuyến Tùng]]
 - [[Tà Linh]]
-- [[Tâm Bất Biến]]
+- [[mental-models/Tâm bất Biến|Tâm Bất Biến]]
 - [[Virus và Kiếp Tật Dịch]]
 - [[Vũ Khí Năng Lượng Định Hướng]]
 - [[Y Tế Tự Nhiên]]

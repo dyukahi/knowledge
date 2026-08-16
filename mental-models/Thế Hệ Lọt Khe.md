@@ -1,6 +1,6 @@
 ---
 title: "Thế Hệ Lọt Khe"
-description: "Một bài đọc thế hệ trẻ không như 'lười biếng' hay 'mong manh', mà như một thế hệ đang lọt qua các khe cấu trúc: giá nhà, AI, thị trường lao động, thừa kế tài sản, quan hệ, đất đai và chính sách phát triển nuốt chửng giấc mơ nhỏ của người bình thường."
+description: "Thế hệ trẻ lọt qua các khe cấu trúc về giá nhà, AI, lao động, thừa kế, quan hệ và đất đai, thay vì đơn giản là lười biếng hay mong manh."
 date: 2026-06-19
 tags: [mental-models, generation, housing, ai, labor, inheritance, land, policy, inequality, climate]
 status: draft

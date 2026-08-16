@@ -1,5 +1,5 @@
 ---
-title: "Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ"
+title: "Sacred Plants Corrupted - Thuốc Lá, Rượu Và Cú Lừa"
 aliases: ["Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ"]
 description: "Sacred Plants Corrupted — Thuốc Lá, Rượu và Cú Lừa Thế Kỷ: Hay nói cách khác: Context makes the medicine."
 date: 2026-05-10

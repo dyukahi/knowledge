@@ -1,7 +1,7 @@
 ---
 title: Giải Mã Vũ Trụ - Y Tế - Tâm Linh
 aliases: ["Giải Mã Vũ Trụ - Y Tế - Tâm Linh"]
-description: "Bài này thuộc nhóm health sovereignty của redpill.wiki. Nó có thể dùng giọng mạnh để phản biện medical industrial complex, nhưng không phải chỉ dẫn y khoa cá nhân."
+description: "Khám phá mối nối giữa vũ trụ, y tế và tâm linh dưới lăng kính health sovereignty, với phân tầng bằng chứng và lưu ý an toàn y khoa."
 date: 2026-04-08
 tags: [health]
 status: refined

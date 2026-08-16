@@ -1,14 +1,14 @@
 {
   "summary": {
-    "public_notes": 222,
-    "avg_words": 1735,
+    "public_notes": 223,
+    "avg_words": 1739,
     "missing_description": 0,
     "missing_aliases": 22,
     "thin_lt800": 25,
     "duplicate_titles": 0,
     "mobile_hostile_code": 2,
     "horizontal_chain": 25,
-    "textblock_candidates": 31,
+    "textblock_candidates": 32,
     "broken_links": 0,
     "orphans_public": 2
   },
@@ -41,7 +41,7 @@
     "thin_lt800": [
       {
         "path": "MOC - Esoterica & Consciousness.md",
-        "words": 714
+        "words": 738
       },
       {
         "path": "MOC - Ancient Civilizations & Hidden History.md",
@@ -316,6 +316,12 @@
         "short": 22,
         "paragraphs": 61,
         "ratio": 0.361
+      },
+      {
+        "path": "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
+        "short": 39,
+        "paragraphs": 80,
+        "ratio": 0.487
       },
       {
         "path": "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",

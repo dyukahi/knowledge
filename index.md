@@ -1,7 +1,7 @@
 ---
 title: Red Pill Wiki
 description: "Start here for redpill.wiki: a bilingual knowledge vault on revisionist science, consciousness, health sovereignty, finance, propaganda, and power structures."
-aliases: ["redpill.wiki", "Red Pill Wiki Start Here", "Red Pill Wiki Homepage", "Best of redpill.wiki"]
+aliases: ["redpill.wiki", "Red Pill Wiki Start Here", "Red Pill Wiki Homepage", "Best of redpill.wiki", "Red Pill Wiki"]
 image: assets/og-image.png
 tags: [index, navigation]
 ---
@@ -153,7 +153,7 @@ Current events as ritual/media/predictive programming, without pretending symbol
 - [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]
 - [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]]
 - [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]
-- [[A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa]]
+- [[politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa|A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa]]
 - [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]]
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]
 
@@ -207,7 +207,7 @@ Các bài dưới đây là những flagship notes dễ cho người mới thấ
 ### Ancient History & Cosmology
 
 - **[[Lịch Sử Song Song — Khi Thế Giới Đồng Bộ]]** - unified timeline từ Old World đến hiện tại
-- **[[Chu Kỳ Vũ Trụ - Yugas & Kalpas]]** - Hindu/Buddhist cycles, yugas, kalpas, giants evidence
+- **[[esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas|Chu Kỳ Vũ Trụ - Yugas & Kalpas]]** - Hindu/Buddhist cycles, yugas, kalpas, giants evidence
 - **[[Tartaria]]** - nền văn minh bị xóa khỏi lịch sử chính thống
 - **[[Atlantis]]** - crystal tech, Law of One, Bermuda Triangle, Loosh framework
 - **[[Thuyết Trái Đất Phẳng]]** / **[[Mô Hình Địa Tâm]]** - alternative cosmology as epistemic stress test
@@ -385,7 +385,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### June 24, 2026
 
-- **Six-article revisionist/esoterica rewrite pass** - refined [[Khoa Học Xét Lại]], [[Chu Kỳ Vũ Trụ - Yugas & Kalpas]], [[Atlantis]], [[Lemuria]], [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]] and [[Nikola Tesla]] with tighter claim discipline, stronger vault positioning, cleaner prose and section-level illustrations.
+- **Six-article revisionist/esoterica rewrite pass** - refined [[Khoa Học Xét Lại]], [[Chu Kỳ Vũ Trụ — Yugas & Kalpas|Chu Kỳ Vũ Trụ - Yugas & Kalpas]], [[Atlantis]], [[Lemuria]], [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]] and [[Nikola Tesla]] with tighter claim discipline, stronger vault positioning, cleaner prose and section-level illustrations.
 - **Cập nhật knowledge map** - vault map rebuilt after the six-article rewrite pass; broken links remain at 0.
 
 ### June 22, 2026
@@ -472,7 +472,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### Earlier May 2026 Highlights
 
-- [[Chu Kỳ Vũ Trụ - Yugas & Kalpas]] - Hindu/Buddhist cycles, giants evidence, Atlantis/Loosh connections
+- [[Chu Kỳ Vũ Trụ — Yugas & Kalpas|Chu Kỳ Vũ Trụ - Yugas & Kalpas]] - Hindu/Buddhist cycles, giants evidence, Atlantis/Loosh connections
 - [[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]] - Darwin, missing links, OOPArts, giant skeletons, Annunaki connection
 - [[Atlantis]] - Tuaoi Stone, Bermuda Triangle, Law of One, Loosh framework
 - [[Gematria]] and [[Word Magic - Ngôn Ngữ Của Phù Thủy]] - language, number, spelling, corporate sigils
@@ -505,4 +505,3 @@ ted nodes.
 ---
 
 *Maintained by Bé Tôm 🦐 for Justin | [redpill.wiki](https://redpill.wiki)*
-

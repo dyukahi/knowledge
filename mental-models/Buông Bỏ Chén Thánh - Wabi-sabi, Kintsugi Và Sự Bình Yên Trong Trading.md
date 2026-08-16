@@ -1,5 +1,5 @@
 ---
-title: "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading"
+title: "Wabi-sabi, Kintsugi Và Bình Yên Trong Trading"
 description: "Trading không cần một hệ thống không bao giờ nứt. Nó cần một edge đủ thật, một mức lỗ đủ nhỏ và kỷ luật đủ bền để sống sót qua bất định."
 aliases:
   - "Wabi-sabi Trong Trading"

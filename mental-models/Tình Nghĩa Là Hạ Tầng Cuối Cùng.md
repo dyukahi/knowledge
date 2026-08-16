@@ -1,6 +1,6 @@
 ---
 title: "Tình Nghĩa Là Hạ Tầng Cuối Cùng"
-description: "Một note về hôn nhân như covenant và care infrastructure: khi eros, dopamine, tiền bạc và thân thể đều xuống cấp, thứ còn giữ con người khỏi rơi là người không bỏ chạy khỏi phần tàn tạ của mình."
+description: "Hôn nhân như covenant và care infrastructure: khi eros, dopamine, tiền bạc và thân thể xuống cấp, tình nghĩa giữ con người khỏi bị bỏ lại."
 aliases: ["Marriage as Last Infrastructure", "Nghĩa Tình Vợ Chồng", "Covenant Và Care Work"]
 tags: [mental-models, family, marriage, care-economy, dopamine-economy, covenant]
 status: refined
@@ -115,4 +115,3 @@ Reading path:
 5. [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]] — counterspell: rebuild care, covenant và nghĩa tình.
 
 Rule của pack: critique system/incentive layer, không scapegoat phụ nữ, đàn ông, IVF users, gay families hay trẻ em.
-

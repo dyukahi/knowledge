@@ -8,7 +8,7 @@ status: refined
 related:
   - "[[MOC - Science Revisionism]]"
   - "[[Khoa Học Xét Lại]]"
-  - "[[Red Pill Wiki]]"
+  - "[[index|Red Pill Wiki]]"
 ---
 # Science & Tech Domain Gateway
 
@@ -133,7 +133,7 @@ Orientation: use this when tech becomes governance and medicine. The route shows
 
 ## Related Gateways
 
-- [[Red Pill Wiki|Root Index]]
+- [[index|Root Index]]
 - [[MOC - Science Revisionism]]
 - [[health/index|Health Gateway]]
 - [[politics-conspiracy/index|Politics & Conspiracy Gateway]]

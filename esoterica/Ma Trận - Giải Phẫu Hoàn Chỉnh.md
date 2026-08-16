@@ -1,6 +1,6 @@
 ---
 title: "Ma Trận - Giải Phẫu Hoàn Chỉnh"
-description: "Bản giải phẫu sâu của Ma Trận: các lớp perception, body, attention, care, money, institution, symbol và spiritual forgetting đang phối hợp để biến con người thành một avatar dễ điều khiển."
+description: "Giải phẫu Ma Trận qua perception, body, attention, care, money, institution, symbol và spiritual forgetting phối hợp để tạo một avatar dễ điều khiển."
 aliases: ["Complete Matrix Anatomy", "Thoát Khỏi Ma Trận", "Matrix Breakdown", "Matrix Anatomy"]
 date: 2026-04-29
 tags: [esoterica, matrix, consciousness, meta]

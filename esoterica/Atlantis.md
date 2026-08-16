@@ -9,7 +9,7 @@ status: refined
 related:
   - "[[MOC - Ancient Civilizations & Hidden History]]"
   - "[[Lemuria]]"
-  - "[[Chu Kỳ Vũ Trụ - Yugas & Kalpas]]"
+  - "[[Chu Kỳ Vũ Trụ — Yugas & Kalpas|Chu Kỳ Vũ Trụ - Yugas & Kalpas]]"
   - "[[Năng Lượng Aether]]"
   - "[[Nikola Tesla]]"
   - "[[Loosh - Năng Lượng Thu Hoạch Từ Con Người]]"

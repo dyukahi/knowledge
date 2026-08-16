@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin"
-description: "Bitcoin là financial sovereignty protocol: hard money số, self-custody, censorship resistance và bài kiểm tra xem con người có đủ kỷ luật để giữ tự do ngoài permission rails hay không."
+description: "Bitcoin là giao thức chủ quyền tài chính với hard money số, self-custody và censorship resistance, đòi hỏi kỷ luật để giữ tự do ngoài permission rails."
 aliases: ["BTC", "Bitcoin sovereignty", "Digital hard money", "Bitcoin Protocol"]
 date: 2026-04-07
 tags: [crypto-finance, bitcoin, financial-sovereignty]

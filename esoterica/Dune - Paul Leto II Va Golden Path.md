@@ -1,6 +1,6 @@
 ---
 title: "Dune — Paul, Leto II Và Golden Path"
-description: "Dune được đọc như bi kịch của lời tiên tri: Paul Atreides thấy Golden Path nhưng không đủ tàn nhẫn để trở thành God Emperor, còn Leto II sinh ra như phần định mệnh mà người cha từ chối."
+description: "Dune như bi kịch lời tiên tri: Paul thấy Golden Path nhưng từ chối thành God Emperor, còn Leto II nhận phần định mệnh người cha không thể gánh."
 aliases:
   - Dune
   - Paul Atreides
@@ -12,6 +12,7 @@ aliases:
   - Dune - Paul Leto II Va Golden Path
   - Đường Vàng
   - Thần Hoàng Xứ Dune
+  - "Dune — Paul, Leto II Và Golden Path"
 date: 2026-06-22
 tags: [esoterica, consciousness, matrix, prophecy, symbolism, predictive-programming]
 status: refined

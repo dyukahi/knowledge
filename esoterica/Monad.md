@@ -1,6 +1,6 @@
 ---
 title: "Monad (Đơn Thể Tối Cao)"
-description: "Monad là tia lửa bất khả phân của Source: phần Một bên trong mỗi sinh thể, đứng sau linh hồn, bản ngã và avatar đời này, không bị Ma Trận sở hữu dù có thể bị che phủ bởi amnesia."
+description: "Monad là tia lửa bất khả phân của Source trong mỗi sinh thể, đứng sau linh hồn, bản ngã và avatar, không bị Ma Trận sở hữu dù bị amnesia che phủ."
 aliases: ["Monad", "The One", "Đơn Thể", "Tia Lửa Thần Thánh", "Divine Spark"]
 date: 2026-04-08
 tags: [esoterica, consciousness, metaphysics]

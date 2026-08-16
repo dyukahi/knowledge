@@ -1,6 +1,6 @@
 ---
 title: "Cái Gì Trong Bạn Không Thể Bị Model Hóa?"
-description: "Khi AI làm rẻ hóa output, giá trị con người không còn nằm ở việc tạo ra nhiều chữ, ảnh, code hay nhạc hơn. Nó nằm ở phần đã được sống, chịu đau, chọn lọc và trả giá trước khi output xuất hiện."
+description: "Khi AI làm rẻ output, giá trị con người nằm ở trải nghiệm đã sống, nỗi đau, sự chọn lọc và cái giá thật đã trả trước khi sản phẩm xuất hiện."
 aliases:
   - "What Cannot Be Modeled?"
   - "Cái Gì Không Thể Bị Model Hóa"

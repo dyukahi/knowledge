@@ -8,7 +8,7 @@ status: refined
 related:
   - "[[MOC - Health Sovereignty]]"
   - "[[Y Tế Tự Nhiên]]"
-  - "[[Red Pill Wiki]]"
+  - "[[index|Red Pill Wiki]]"
 ---
 # Health Domain Gateway
 
@@ -120,7 +120,7 @@ Orientation: use this bridge when health becomes esoterica and science-tech at o
 
 ## Related Gateways
 
-- [[Red Pill Wiki|Root Index]]
+- [[index|Root Index]]
 - [[MOC - Health Sovereignty]]
 - [[science-tech/index|Science & Tech Gateway]]
 - [[mental-models/index|Mental Models Gateway]]

@@ -1,6 +1,6 @@
 ---
-title: "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam"
-description: "So sánh già hóa dân số, lương hưu và hạ tầng chăm sóc tại Nhật Bản, Úc, Trung Quốc và Việt Nam qua hikikomori, vấn đề 8050, superannuation, mô hình 4-2-1 và tình nghĩa liên thế hệ."
+title: "Tuổi Già Không Chỗ Tựa - Nhật, Úc, Trung Quốc, Việt Nam"
+description: "So sánh già hóa, lương hưu và hạ tầng chăm sóc ở Nhật, Úc, Trung Quốc, Việt Nam qua 8050, superannuation, mô hình 4-2-1 và tình nghĩa liên thế hệ."
 aliases: ["Khi Tuổi Già Không Còn Chỗ Tựa", "Nhật Úc Trung Quốc Và Bài Toán Tuổi Già Việt Nam", "Khủng Hoảng Già Hóa Và Hưu Trí", "Hikikomori 8050 Và Bài Toán Tuổi Già", "Retirement Without An Anchor", "Hưu Trí Care Economy Và Tình Nghĩa"]
 date: 2026-07-13
 tags: [mental-models, ageing, retirement, pension, hikikomori, eldercare, care-economy, family, financial-sovereignty, japan, australia, china, vietnam]

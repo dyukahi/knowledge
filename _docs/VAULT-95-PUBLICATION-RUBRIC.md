@@ -91,7 +91,7 @@ Path:
 1. [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]
 2. [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
 3. [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]
-4. [[A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa]]
+4. [[politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa|A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa]]
 5. [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]]
 6. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]
 

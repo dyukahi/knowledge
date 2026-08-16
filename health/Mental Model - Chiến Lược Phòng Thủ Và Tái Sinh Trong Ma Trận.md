@@ -1,5 +1,5 @@
 ---
-title: Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận
+title: "Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận"
 aliases: ["Mental Model - Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận"]
 description: "title: Mental Model Chiến Lược Phòng Thủ Và Tái Sinh Trong Ma Trận — ghi chú redpill.wiki về mô hình, ngữ cảnh và cách đọc có kỷ luật nguồn."
 date: 2026-04-08

@@ -1,6 +1,6 @@
 ---
-title: "Giai Cấp Lao Động Tổng Hợp - Khi Tư Bản Sở Hữu Đội Quân Không Ngủ"
-description: "Lao động tổng hợp không chỉ là AI làm việc thay người. Nó là một hệ thống lao động mới, nơi mô hình, năng lực tính toán, quy trình, khâu kiểm chứng và kênh phân phối quyết định ai sở hữu đội quân không ngủ và ai hưởng phần giá trị năng suất tăng thêm."
+title: "Lao Động Tổng Hợp - Đội Quân Không Ngủ"
+description: "Lao động tổng hợp kết hợp mô hình, compute, quy trình, kiểm chứng và phân phối, đặt câu hỏi ai sở hữu đội quân không ngủ và hưởng năng suất tăng thêm."
 aliases:
   - "Giai Cấp Lao Động Tổng Hợp"
   - "Synthetic Labor Class"

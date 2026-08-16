@@ -1,7 +1,7 @@
 ---
-title: "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa"
-description: "A LIE N là case study disclosure/spectacle: SpaceX IPO, UAP release, Hollywood alien myth, rocket ritual và word magic hội tụ thành một interface giữa truth payload và false frame."
-aliases: ["A LIE N", "SpaceX IPO Disclosure Day", "Nghi Lễ Tên Lửa", "Alien Word Magic", "Rocket Ritual"]
+title: "A LIE N - SpaceX IPO Và Nghi Lễ Tên Lửa"
+description: "A LIE N nối SpaceX IPO, UAP release, Hollywood alien myth, rocket ritual và word magic thành giao diện giữa truth payload và false frame."
+aliases: ["A LIE N", "SpaceX IPO Disclosure Day", "Nghi Lễ Tên Lửa", "Alien Word Magic", "Rocket Ritual", "A LIE N - SpaceX IPO, Disclosure Day và Nghi Lễ Tên Lửa"]
 date: 2026-04-08
 tags: [politics-conspiracy, science-tech, disclosure, spectacle, word-magic]
 status: refined

@@ -1,6 +1,6 @@
 ---
 title: "Gen Z và CBDC - Programmable Money Psychology"
-description: "CBDC không chỉ là tiền số ngân hàng trung ương; nó là bài toán tâm lý: làm sao để cashless native tự nguyện đi từ tiền mặt ẩn danh sang tiền định danh, lập trình và giám sát được."
+description: "CBDC là bài toán tâm lý đưa thế hệ cashless native từ tiền mặt ẩn danh sang tiền định danh có thể lập trình, giới hạn và giám sát."
 aliases: ["Gen Z CBDC", "CBDC Psychology", "Programmable Money", "Cashless Native", "Digital Money Conditioning"]
 date: 2026-06-04
 tags: [crypto-finance, psychology, generation, agenda-2030, cbdc, privacy]

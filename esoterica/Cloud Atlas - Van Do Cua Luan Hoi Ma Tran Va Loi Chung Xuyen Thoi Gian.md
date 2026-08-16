@@ -1,6 +1,6 @@
 ---
-title: "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian"
-description: "Cloud Atlas được đọc như một bản đồ sáu thời đại của Ma Trận: nô lệ, nghệ thuật bị chiếm đoạt, âm mưu doanh nghiệp, nhà tù định chế, nền kinh tế nhân bản và hậu tận thế, nối với nhau bằng ký ức, lời chứng, Gnosis và nhân quả."
+title: "Cloud Atlas - Luân Hồi, Ma Trận Và Lời Chứng"
+description: "Cloud Atlas như bản đồ sáu thời đại của Ma Trận, nơi nô lệ đổi hình nhưng ký ức, lời chứng, Gnosis và nhân quả vẫn nối các đời sống."
 aliases:
   - Cloud Atlas
   - Vân Đồ
@@ -8,6 +8,7 @@ aliases:
   - Sonmi-451
   - Vân Đồ Luân Hồi
   - Cloud Atlas Vân Đồ
+  - "Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian"
 date: 2026-06-22
 tags: [esoterica, consciousness, reincarnation, matrix, symbolism, predictive-programming]
 status: refined

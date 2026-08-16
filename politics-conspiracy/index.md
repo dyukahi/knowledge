@@ -8,7 +8,7 @@ status: refined
 related:
   - "[[MOC - Epistemology & Propaganda]]"
   - "[[Elite]]"
-  - "[[Red Pill Wiki]]"
+  - "[[index|Red Pill Wiki]]"
 ---
 # Politics & Conspiracy Domain Gateway
 
@@ -133,7 +133,7 @@ Orientation: use this when political power starts managing history, maps and cos
 
 ## Related Gateways
 
-- [[Red Pill Wiki|Root Index]]
+- [[index|Root Index]]
 - [[MOC - Epistemology & Propaganda]]
 - [[crypto-finance/index|Crypto & Finance Gateway]]
 - [[science-tech/index|Science & Tech Gateway]]

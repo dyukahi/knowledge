@@ -13,7 +13,7 @@ related:
   - "[[Thực Thể Cõi Trung Giới]]"
   - "[[Năng Lượng Tình Dục]]"
   - "[[Schadenfreude - Dopamine Phản Diện]]"
-  - "[[Chu Kỳ Vũ Trụ - Yugas & Kalpas]]"
+  - "[[Chu Kỳ Vũ Trụ — Yugas & Kalpas|Chu Kỳ Vũ Trụ - Yugas & Kalpas]]"
 ---
 # Loosh — Năng Lượng Thu Hoạch Từ Con Người
 

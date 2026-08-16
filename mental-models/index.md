@@ -8,7 +8,7 @@ status: refined
 related:
   - "[[MOC - Epistemology & Propaganda]]"
   - "[[Mental Model]]"
-  - "[[Red Pill Wiki]]"
+  - "[[index|Red Pill Wiki]]"
 ---
 # Mental Models Domain Gateway
 
@@ -187,7 +187,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 
 ## Related Gateways
 
-- [[Red Pill Wiki|Root Index]]
+- [[index|Root Index]]
 - [[MOC - Epistemology & Propaganda]]
 - [[esoterica/index|Esoterica Gateway]]
 - [[politics-conspiracy/index|Politics & Conspiracy Gateway]]

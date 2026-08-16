@@ -1,6 +1,6 @@
 ---
 title: "Chainlink - Mắt Xích Của Tokenized World"
-description: "Chainlink là oracle/interoperability layer nối blockchain với dữ liệu, tài sản thật, banking rails và RWA: mắt xích làm tokenized world vận hành, nhưng cũng mở câu hỏi ai đọc và cấp quyền cho dòng chảy."
+description: "Chainlink nối blockchain với dữ liệu, tài sản thật, banking rails và RWA, đồng thời đặt câu hỏi ai đọc, xác nhận và cấp quyền cho dòng chảy tokenized."
 aliases: ["Chainlink", "Oracle Layer", "Tokenized World", "Sergey Nazarov", "CCIP"]
 date: 2026-06-03
 tags: [crypto-finance, tokenization, cbdc, word-magic, sovereignty]

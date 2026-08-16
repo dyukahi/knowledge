@@ -1,6 +1,6 @@
 ---
 title: "AI Và Cái Chết Của Bản Quyền Công Nghiệp"
-description: "Khi Việt Nam bị kéo từ văn hóa dùng lậu sang văn hóa trả phí bản quyền, AI xuất hiện như một vùng xám mới: cỗ máy học từ kho trí tuệ có bản quyền của nhân loại, rồi tạo ra output mà luật bản quyền truyền thống chưa biết nắm vào đâu."
+description: "AI mở vùng xám khi học từ kho trí tuệ có bản quyền rồi tạo output mà luật truyền thống khó nắm bắt, giữa lúc Việt Nam chuyển sang văn hóa trả phí."
 aliases: ["AI And Copyright", "AI Và Bản Quyền", "The Death of Industrial Copyright"]
 date: 2026-06-13
 tags: [science-tech, ai, intellectual-property, digital-economy]

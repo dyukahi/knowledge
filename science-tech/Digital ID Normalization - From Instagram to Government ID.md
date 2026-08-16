@@ -1,5 +1,5 @@
 ---
-title: "Digital ID Normalization - From Instagram to Government ID"
+title: "Digital ID - Từ Instagram Đến Government ID"
 description: "Digital ID không đến từ hư không: platform đã dạy con người tự biến mình thành profile trước khi government ID wallet formal hóa identity thành access layer."
 aliases: ["Digital ID", "Digital Identity", "Biometric ID", "Identity Wallet", "Verify to Exist"]
 date: 2026-06-04

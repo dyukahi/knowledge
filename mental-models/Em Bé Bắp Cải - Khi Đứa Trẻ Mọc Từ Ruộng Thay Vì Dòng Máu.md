@@ -1,6 +1,6 @@
 ---
-title: "Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu"
-description: "Em bé bắp cải là motif tưởng như dễ thương: trẻ em không sinh ra từ womb/lineage mà được tìm thấy, thu hoạch, nhận nuôi và delivery vào household. Đọc như symbol, nó nối folklore, Cabbage Patch Kids, artificial womb, Orphan Train 2.0 và child-as-product logistics."
+title: "Em Bé Bắp Cải - Từ Ruộng Thay Vì Dòng Máu"
+description: "Motif em bé bắp cải nối folklore, Cabbage Patch Kids, artificial womb và Orphan Train 2.0 để đọc biểu tượng trẻ em như sản phẩm logistics."
 date: 2026-06-16
 tags: [mental-models, family, orphan-train, artificial-womb, predictive-programming, child-symbolism, care-economy, matrix]
 status: draft

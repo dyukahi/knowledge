@@ -1,6 +1,6 @@
 ---
 title: "Cantillon Effect - Ai Đứng Gần Vòi Tiền"
-description: "Cantillon Effect giải thích vì sao tiền mới không làm mọi người giàu lên cùng lúc: asset holders và người gần tín dụng nhận purchasing power trước, còn người lao động nhận tăng lương sau khi giá đã đổi."
+description: "Cantillon Effect giải thích vì sao người gần tín dụng nhận sức mua từ tiền mới trước, còn người lao động tăng lương sau khi giá tài sản và hàng hóa đã đổi."
 aliases: ["Cantillon Effect", "Hiệu Ứng Cantillon", "Ai Đứng Gần Vòi Tiền", "Wage Slaves Dưới Khối Xả Tiền"]
 date: 2026-07-18
 tags: [crypto-finance, cantillon-effect, fiat, liquidity, wages, inflation, bitcoin, financial-sovereignty]

@@ -1,6 +1,6 @@
 ---
 title: "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức"
-description: "Đọc chuỗi đề Ngữ văn 2024–2026 như một quá trình làm mềm ký ức và thay hình mẫu khát vọng: từ dòng sông, vùng trời Tổ quốc đến Code và Cát, Agenda 2030 grammar và American tech-founder mythology."
+description: "Đọc đề Ngữ văn 2024–2026 như quá trình thay hình mẫu khát vọng: từ Tổ quốc đến Code và Cát, Agenda 2030 grammar và tech-founder mythology."
 aliases:
   - De Van 2026 Va Nghi Le Thay Ky Uc
   - Code Va Cat Trong De Van

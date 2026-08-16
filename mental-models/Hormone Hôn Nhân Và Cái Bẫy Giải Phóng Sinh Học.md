@@ -1,6 +1,6 @@
 ---
 title: "Hormone, Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học"
-description: "Một bài đọc về hôn nhân, con cái, thuốc tránh thai, phá thai, rối loạn nội tiết từ môi trường và cách sinh học bị chính trị hóa: giữ lại câu hỏi mạnh, loại bỏ thái độ khinh miệt phụ nữ và sự chắc chắn giả."
+description: "Đọc hôn nhân, con cái, tránh thai, phá thai và rối loạn nội tiết trong bối cảnh sinh học bị chính trị hóa, không khinh miệt hay tạo chắc chắn giả."
 aliases: ["Hormone Và Hôn Nhân", "Tránh Thai Và Ma Trận Gia Đình", "Sinh Học Bị Chính Trị Hóa"]
 date: 2026-06-27
 tags: [mental-models, family, marriage, hormones, health-sovereignty, dopamine-economy]

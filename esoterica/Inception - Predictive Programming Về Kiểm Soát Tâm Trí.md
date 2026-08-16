@@ -1,5 +1,5 @@
 ---
-title: "Inception - Predictive Programming Về Kiểm Soát Tâm Trí"
+title: "Inception - Predictive Programming Kiểm Soát Tâm Trí"
 description: "Inception (2010) của Christopher Nolan không chỉ là phim giải trí. Đây có thể là disclosure — Elite nói thẳng cách họ manipulate nhân loại, ẩn dưới lớp vỏ 'fiction'."
 aliases: ["Inception Analysis", "Dream Manipulation", "Idea Planting"]
 date: 2026-04-27

@@ -1,6 +1,6 @@
 ---
-title: "PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận"
-description: "Vụ PNJ Labs và cáo buộc buôn lậu kim cương cho thấy tài sản xa xỉ không chỉ nằm ở viên đá, mà nằm ở giấy kiểm định, chuỗi niềm tin và khả năng thị trường còn tin viên đá đó là chính nó."
+title: "PNJ Labs Và Niềm Tin Chứng Nhận Kim Cương"
+description: "Vụ PNJ Labs và cáo buộc buôn lậu cho thấy giá trị kim cương phụ thuộc vào giấy kiểm định, chuỗi niềm tin và khả năng thị trường xác nhận viên đá."
 aliases:
   - "PNJ Labs"
   - "PNJ Lab Kim Cương"

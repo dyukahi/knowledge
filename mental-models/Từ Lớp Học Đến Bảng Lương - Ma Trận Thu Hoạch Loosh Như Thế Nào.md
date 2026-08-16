@@ -1,6 +1,6 @@
 ---
-title: "Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào"
-description: "Con người không tự nhiên lớn lên rồi đi làm. Từ lớp học đến bảng lương, Ma Trận huấn luyện cơ thể, cắt connection thật, biến nỗi đau thành năng suất và thu hoạch Loosh ở từng tầng thu nhập."
+title: "Từ Lớp Học Đến Bảng Lương - Thu Hoạch Loosh"
+description: "Từ lớp học đến bảng lương, Ma Trận huấn luyện cơ thể, cắt connection thật, biến nỗi đau thành năng suất và thu hoạch Loosh qua từng tầng thu nhập."
 date: 2026-06-16
 tags: [mental-models, matrix, loosh, education, work, income, dopamine-economy, care-economy, status, agency]
 status: draft

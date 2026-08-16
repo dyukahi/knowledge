@@ -1,7 +1,7 @@
 ---
 title: Tâm Bất Biến
-description: "Tâm Bất Biến không phải là không cảm thấy gì. Nó là khả năng cảm thấy đầy đủ mà không để cơn sóng bên trong cướp tay lái. Người có tâm bất biến vẫn đau, vẫn thương"
-aliases: ["Equanimity", "Upekkhā", "Xả"]
+description: "Tâm Bất Biến là khả năng vẫn đau, vẫn thương và cảm nhận đầy đủ mà không để những cơn sóng bên trong cướp tay lái của mình."
+aliases: ["Equanimity", "Upekkhā", "Xả", "Tâm Bất Biến"]
 date: 2026-04-08
 tags: [mental-model]
 status: refined

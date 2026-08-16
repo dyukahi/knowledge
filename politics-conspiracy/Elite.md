@@ -1,6 +1,6 @@
 ---
 title: "Elite (Giới Tinh Hoa)"
-description: "Elite là tầng quyền lực thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reality tự nhiên."
+description: "Elite thiết kế default options về tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus và permission structure mà số đông gọi là reality."
 aliases: ["The Global Elite", "Cabal", "Power Structure", "Giới Tinh Hoa", "Default Option Designers"]
 date: 2026-04-12
 tags: [politics-conspiracy, power-structure, matrix, elite]

@@ -1,6 +1,6 @@
 ---
-title: "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu"
-description: "Orphan Train cũ chở cơ thể trẻ em rời khỏi gia đình. Orphan Train mới chở attention, identity, desire và memory của trẻ ra khỏi lineage bằng màn hình, fertility clinic, curriculum, algorithm và care infrastructure bị làm rỗng."
+title: "Orphan Train 2.0 - Trẻ Em Rời Dòng Máu"
+description: "Orphan Train mới chở attention, identity, desire và memory của trẻ khỏi lineage qua màn hình, fertility clinic, curriculum, algorithm và care infrastructure."
 date: 2026-06-16
 tags: [mental-models, family, care-economy, orphan-train, tartaria, predictive-programming, dopamine-economy, transhumanism, matrix]
 status: draft

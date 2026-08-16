@@ -1,6 +1,6 @@
 ---
-title: "Transhumanism và Gen Z - Cool Tech hay Slippery Slope"
-description: "Không nên phản xạ “tech xấu”. Medical technology có thể cứu người thật. Prosthetics, pacemaker, cochlear implant, brain computer interface cho người liệt"
+title: "Transhumanism Và Gen Z - Cool Tech Hay Cái Bẫy?"
+description: "Transhumanism buộc Gen Z phân biệt medical technology cứu người với con dốc trượt nơi human enhancement biến thân thể và identity thành sản phẩm."
 aliases: ["Transhumanism", "Human Enhancement", "Neuralink", "Biohacking", "Cyborg", "Human Upgrade"]
 date: 2026-06-04
 tags: [science-tech, psychology, generation, agenda-2030, transhumanism, ai]

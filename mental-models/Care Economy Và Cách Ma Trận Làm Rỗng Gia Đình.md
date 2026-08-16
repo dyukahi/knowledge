@@ -1,6 +1,6 @@
 ---
 title: "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình"
-description: "Gia đình không bị phá bằng một cú đánh. Nó bị làm rỗng khi care work bị mất giá, cả nam lẫn nữ bị kéo vào wage labor, trẻ con và người già bị outsource cho system, còn trẻ em thành attack surface cho grooming, người già thành late-life labor/medical-financial-scam surface."
+description: "Care economy bị mất giá kéo gia đình vào wage labor và outsource trẻ nhỏ, người già cho hệ thống, làm rỗng lineage và hạ tầng chăm sóc."
 date: 2026-06-09
 tags: [mental-models, care-economy, family, matrix, propaganda, attention, loosh]
 status: draft

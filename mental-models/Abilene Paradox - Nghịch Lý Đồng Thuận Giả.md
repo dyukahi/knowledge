@@ -12,7 +12,7 @@ related:
   - "[[Vô Thức Tập Thể]]"
   - "[[Kiểm Soát Tâm Trí]]"
   - "[[Ma Trận]]"
-  - "[[Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng]]"
+  - "[[esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng|Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng]]"
   - "[[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]]"
 ---
 # Abilene Paradox - Nghịch Lý Đồng Thuận Giả
@@ -121,7 +121,7 @@ Cơ chế này không cần đa số thật. Nó chỉ cần đủ người tin 
 
 Đây là vùng giao nhau giữa Abilene, **pluralistic ignorance**, **preference falsification**, **spiral of silence**, **social proof** và manufactured consent. Trong ngôn ngữ vault, nó là một dạng [[Ma Trận]] permission architecture: hệ thống không chỉ kiểm soát người ta nghĩ gì, mà kiểm soát **cảm giác được phép nghĩ khác**.
 
-[[Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng]] cho thấy cách ritual/sự kiện lớn có thể đồng bộ cảm xúc tập thể. [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] cho thấy thuật toán có thể khiến một worldview trông phổ biến hơn thực tế. Abilene là tầng tâm lý bên dưới: khi perception of consensus đủ mạnh, censorship bên ngoài trở thành self-censorship bên trong.
+[[esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng|Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng]] cho thấy cách ritual/sự kiện lớn có thể đồng bộ cảm xúc tập thể. [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] cho thấy thuật toán có thể khiến một worldview trông phổ biến hơn thực tế. Abilene là tầng tâm lý bên dưới: khi perception of consensus đủ mạnh, censorship bên ngoài trở thành self-censorship bên trong.
 
 > Power không nhất thiết cần mọi người tin. Đôi khi nó chỉ cần mọi người tin rằng **mọi người khác đã tin**.
 
@@ -213,5 +213,5 @@ Muốn thoát, đôi khi chỉ cần một người nói câu đơn giản:
 - [[Vô Thức Tập Thể]] — tầng pattern/archetype tập thể.
 - [[Kiểm Soát Tâm Trí]] — control perception trước khi control behavior.
 - [[Ma Trận]] — default setting và permission architecture của hệ thống.
-- [[Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng]] — cách cảm xúc tập thể được đồng bộ thành apparent consensus.
+- [[esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng|Spectacle Ritual - Nghi Lễ Đồng Bộ Đại Chúng]] — cách cảm xúc tập thể được đồng bộ thành apparent consensus.
 - [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — thuật toán như máy tạo social proof và spiral of silence.

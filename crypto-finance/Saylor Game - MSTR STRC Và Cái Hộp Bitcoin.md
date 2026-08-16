@@ -1,6 +1,6 @@
 ---
-title: "Saylor Game - MSTR, STRC, STRD, STRF Và Cái Hộp Bitcoin"
-description: "Bài phân tích trường hợp Strategy/MicroStrategy biến Bitcoin thành một cái hộp tài sản công khai, rồi dùng MSTR, STRC, STRD, STRF và niềm tin thị trường để gọi vốn, trả lợi suất và mua thêm BTC. MSTR là cổ phiếu thường của cái hộp BTC; các cổ phiếu ưu đãi là lớp quyền đòi dùng để hút USD; câu hỏi sống còn là ai đang trả cổ tức bằng dòng tiền nào."
+title: "Saylor Game - MSTR Và Cái Hộp Bitcoin"
+description: "Phân tích cách Strategy dùng MSTR cùng STRC, STRD, STRF để gọi vốn, trả lợi suất và mua Bitcoin, cùng câu hỏi dòng tiền nào thực sự trả cổ tức."
 date: 2026-06-18
 tags: [crypto-finance, bitcoin, market-structure, ky-thuat-tai-chinh, mstr, strc, strd, strf, thi-truong-von, market-psychology]
 status: draft

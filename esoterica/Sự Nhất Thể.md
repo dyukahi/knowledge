@@ -1,6 +1,6 @@
 ---
 title: "Sự Nhất Thể (Oneness)"
-description: "Sự Nhất Thể là nhận ra phía sau mọi phân mảnh của Ma Trận vẫn có một nền Source duy nhất đang nhìn chính nó qua vô số hình dạng, không phải khẩu hiệu love-and-light để né thực tại."
+description: "Sự Nhất Thể nhận ra sau mọi phân mảnh của Ma Trận vẫn có một Source duy nhất nhìn chính nó qua vô số hình dạng, không phải khẩu hiệu né thực tại."
 aliases: ["Oneness", "Unity", "Non-duality", "Nhất Thể", "Bất Nhị"]
 date: 2026-04-08
 tags: [esoterica, consciousness, non-duality]

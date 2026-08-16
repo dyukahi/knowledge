@@ -1,6 +1,6 @@
 ---
 title: "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức"
-description: "Predictive programming là cơ chế media tập cho công chúng quen với một tương lai trước khi nó thành policy, market hoặc technology: seed, repeat, frame, normalize, implement."
+description: "Predictive programming là cơ chế media tập công chúng quen với tương lai trước khi thành policy, market hay technology qua seed, repeat, frame và normalize."
 aliases: ["Predictive Programming", "Lập Trình Tiên Đoán", "Cấy Tương Lai", "Future Rehearsal"]
 date: 2026-04-29
 tags: [esoterica, matrix, hollywood, mind-control, predictive-programming]
