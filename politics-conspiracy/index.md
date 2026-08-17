@@ -51,10 +51,11 @@ Giữ đầu lạnh. Một số bài chạm vào 9/11, UAP, Agenda 2030, NASA/Di
 Orientation: start with structure before spectacle. The question is not "who can I blame?" but "which incentives, institutions and narratives repeat?"
 
 1. [[Elite]] — define the power-structure lens.
-2. [[Cabal]] — read coordination claims with layer discipline.
-3. [[Ma Trận]] — place politics inside perception management.
-4. [[Kiểm Soát Tâm Trí]] — study attention and fear as infrastructure.
-5. [[Điều mà nền giáo dục và chính phủ không dạy bạn]] — return to the civic blind spot.
+2. [[Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực]] — đọc giới hạn của quyền lực qua dân tâm, Thiên mệnh và tính chính danh có điều kiện.
+3. [[Cabal]] — read coordination claims with layer discipline.
+4. [[Ma Trận]] — place politics inside perception management.
+5. [[Kiểm Soát Tâm Trí]] — study attention and fear as infrastructure.
+6. [[Điều mà nền giáo dục và chính phủ không dạy bạn]] — return to the civic blind spot.
 
 ### 2. Power-User Path — Governance Stack & Compliance
 
@@ -120,6 +121,7 @@ Orientation: use this when political power starts managing history, maps and cos
 ## Flagship Articles
 
 - [[Elite]] — the central power-structure model.
+- [[Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực]] — Thiên mệnh như tính chính danh có điều kiện, dân tâm như giới hạn mà cưỡng chế và tuyên truyền không thể thay thế.
 - [[Báo Cáo 2030]] — governance stack for climate, health, money, data and identity.
 - [[Kiểm Soát Tâm Trí]] — attention, fear, reward and memory as political infrastructure.
 - [[UAP Disclosure - Controlled Revelation]] — disclosure as narrative management.

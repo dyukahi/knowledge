@@ -39,12 +39,12 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 |---|---:|---|
 | 🔮 **Esoterica** | 76 | metaphysics, occult, ancient civilizations, spiritual pattern |
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
-| 🧩 **Mental Models** | 43 | nhận thức, tâm lý học, framework để đọc reality |
+| 🧩 **Mental Models** | 44 | nhận thức, tâm lý học, framework để đọc reality |
 | 🏛️ **Politics & Conspiracy** | 27 | power structure, controlled narrative, geopolitics |
 | 🔬 **Science & Tech** | 20 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 236 notes / bài viết.
+**Total:** 238 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -235,6 +235,7 @@ Các bài dưới đây là những flagship notes dễ cho người mới thấ
 
 ### Governance, Money & Control Rails
 
+- **[[Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực]]** - bài thuần Việt đọc Thiên mệnh như tính chính danh có điều kiện, phân biệt dân bản với dân chủ hiện đại và dân tâm bền sâu với dư luận nhất thời
 - **[[Báo Cáo 2030]]** - Agenda 2030 as permission architecture: digital ID, CBDC, climate, health, smart city and managed limbo
 - **[[Digital ID Normalization - From Instagram to Government ID]]** - identity as access layer
 - **[[Gen Z và CBDC - Programmable Money Psychology]]** - programmable money psychology and app-native compliance
@@ -335,6 +336,11 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### August 17, 2026
+
+- **[[Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực]]** - bài thuần Việt từ *Thượng Thư* và *Mạnh Tử* về dân tâm, Thiên mệnh, tính chính danh có điều kiện, giới hạn của tuyên truyền và sự khác nhau giữa dân bản với dân chủ hiện đại; giữ nguyên chữ Hán, kèm âm Hán–Việt và dịch nghĩa.
+- **Cập nhật bản đồ tri thức** - thêm bài vào Cổng Mô hình Tư duy, Cổng Chính trị và Âm mưu, Bản đồ Nhận thức và Tuyên truyền; kèm chín minh họa hiện thực biên tập theo từng phần lớn.
 
 ### August 16, 2026
 
