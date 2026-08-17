@@ -17,4 +17,27 @@ for (const [src, dest] of copies) {
   fs.copyFileSync(src, dest)
   console.log(`patched ${path.relative(quartzRoot, dest)}`)
 }
+
+// Quartz constrains article images with max-width but does not reset the HTML
+// height presentation hint. Once intrinsic width/height are added for CLS, a
+// narrow container otherwise scales only the width and visibly distorts images.
+const baseStyles = path.join(quartzRoot, "quartz", "styles", "base.scss")
+const imageRuleBefore = `img {
+  max-width: 100%;
+  border-radius: 5px;`
+const imageRuleAfter = `img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;`
+if (!fs.existsSync(baseStyles)) throw new Error(`Missing Quartz target: ${baseStyles}`)
+const baseSource = fs.readFileSync(baseStyles, "utf8")
+if (baseSource.includes(imageRuleAfter)) {
+  console.log(`responsive image sizing already present in ${path.relative(quartzRoot, baseStyles)}`)
+} else if (baseSource.includes(imageRuleBefore)) {
+  fs.writeFileSync(baseStyles, baseSource.replace(imageRuleBefore, imageRuleAfter), "utf8")
+  console.log(`patched responsive image sizing in ${path.relative(quartzRoot, baseStyles)}`)
+} else {
+  throw new Error("Quartz base image rule changed; refusing an unverified CSS patch")
+}
+
 console.log(`Applied redpill.wiki SEO patch to ${quartzRoot}`)

@@ -8,6 +8,16 @@ const stableSiteDescription =
   "Red Pill Wiki là kho tri thức độc lập về tư duy phản biện, chủ quyền cá nhân, lịch sử, khoa học, tài chính và ý thức."
 const errors = []
 
+const siteCss = path.join(root, "index.css")
+if (!fs.existsSync(siteCss)) {
+  errors.push("missing site stylesheet index.css")
+} else {
+  const compactCss = fs.readFileSync(siteCss, "utf8").replace(/\s+/g, "")
+  if (!/(?:^|})img\{[^}]*height:auto(?:;|})/.test(compactCss)) {
+    errors.push("global img rule must include height:auto to preserve intrinsic aspect ratios")
+  }
+}
+
 function walk(dir, predicate) {
   if (!fs.existsSync(dir)) return []
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
