@@ -1,14 +1,14 @@
 {
   "summary": {
-    "public_notes": 224,
-    "avg_words": 1747,
+    "public_notes": 229,
+    "avg_words": 1730,
     "missing_description": 0,
     "missing_aliases": 22,
-    "thin_lt800": 25,
+    "thin_lt800": 26,
     "duplicate_titles": 0,
     "mobile_hostile_code": 2,
     "horizontal_chain": 25,
-    "textblock_candidates": 32,
+    "textblock_candidates": 33,
     "broken_links": 0,
     "orphans_public": 2
   },
@@ -41,7 +41,7 @@
     "thin_lt800": [
       {
         "path": "MOC - Esoterica & Consciousness.md",
-        "words": 738
+        "words": 764
       },
       {
         "path": "MOC - Ancient Civilizations & Hidden History.md",
@@ -98,6 +98,10 @@
       {
         "path": "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
         "words": 769
+      },
+      {
+        "path": "theravada/index.md",
+        "words": 778
       },
       {
         "path": "health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh.md",
@@ -238,6 +242,12 @@
         "short": 13,
         "paragraphs": 25,
         "ratio": 0.52
+      },
+      {
+        "path": "theravada/index.md",
+        "short": 15,
+        "paragraphs": 24,
+        "ratio": 0.625
       },
       {
         "path": "health/Thuốc Hóa Dầu.md",

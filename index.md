@@ -25,9 +25,10 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 1. **[[Cách Đọc Red Pill Wiki]]** - bắt đầu bằng nhận biết sự thấy, rồi phân biệt fact, pattern, symbol và speculative synthesis
 2. **[[Glossary - Từ Điển Red Pill Wiki]]** - nắm vocabulary chung trước khi đi sâu vào MOCs
 3. **[[Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng]]** - firewall để đọc claim mạnh mà không overclaim
-4. **[[Khoa Học Xét Lại]]** - học cách đặt lại câu hỏi với "sự thật mặc định"
-5. **[[Ma Trận]]** - nhìn hệ thống kiểm soát như một operating system của perception
-6. **[[Nghịch Lý Của Hiểu Biết]]** - nhớ rằng mọi framework đều là ngón tay chỉ mặt trăng
+4. **[[theravada/index|Theravāda Và Kinh Tạng Pāli]]** - lộ trình thuần Việt từ nhập môn đến Kinh tạng, thực hành và Vi Diệu Pháp
+5. **[[Khoa Học Xét Lại]]** - học cách đặt lại câu hỏi với "sự thật mặc định"
+6. **[[Ma Trận]]** - nhìn hệ thống kiểm soát như một operating system của perception
+7. **[[Nghịch Lý Của Hiểu Biết]]** - nhớ rằng mọi framework đều là ngón tay chỉ mặt trăng
 
 > Vault này không phải để bạn **tin**. Nó để bạn **thấy**, nhận biết tiến trình thấy, rồi vượt qua cả cái thấy đó.
 
@@ -38,13 +39,14 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | Domain | Count | Vai trò trong vault |
 |---|---:|---|
 | 🔮 **Esoterica** | 76 | metaphysics, occult, ancient civilizations, spiritual pattern |
+| ☸️ **Theravāda** | 5 | Kinh tạng Pāli, giáo lý, thực hành, Vi Diệu Pháp, provenance |
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
 | 🧩 **Mental Models** | 44 | nhận thức, tâm lý học, framework để đọc reality |
 | 🏛️ **Politics & Conspiracy** | 27 | power structure, controlled narrative, geopolitics |
 | 🔬 **Science & Tech** | 20 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 238 notes / bài viết.
+**Total:** 243 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -60,6 +62,7 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 - **[[Gnosis]]** - direct knowing, sự nhớ lại không qua trung gian
 - **[[Nhị Nguyên]]** - cơ chế phân cực của cõi vật chất và tâm trí
 - **[[Luân Hồi]]** - vòng lặp tái sinh, bài học linh hồn, hoặc soul trap tùy tầng đọc
+- **[[theravada/index|Theravāda Và Kinh Tạng Pāli]]** - domain canonical để đọc nguồn Pāli, giáo lý và thực hành với provenance rõ
 
 ### Matrix & Control
 
@@ -339,6 +342,8 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### August 17, 2026
 
+- **[[theravada/index|Theravāda Và Kinh Tạng Pāli]]** - Batch 0 mở domain học thuật mới gồm gateway, từ điển Pāli, chuẩn nguồn/xuất xứ, mục lục kinh dẫn và bảng tiến độ cho chương trình 36 bài qua bảy học phần.
+- **Hạ tầng Theravāda** - curriculum và source-license manifest dạng máy đọc được, validator bắt unique role, prerequisite chỉ trỏ ngược, provenance, Pāli Unicode và license theo từng ấn bản/người dịch; chưa tạo bài rỗng hoặc hình hàng loạt.
 - **[[Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực]]** - bài thuần Việt từ *Thượng Thư* và *Mạnh Tử* về dân tâm, Thiên mệnh, tính chính danh có điều kiện, giới hạn của tuyên truyền và sự khác nhau giữa dân bản với dân chủ hiện đại; giữ nguyên chữ Hán, kèm âm Hán–Việt và dịch nghĩa.
 - **Cập nhật bản đồ tri thức** - thêm bài vào Cổng Mô hình Tư duy, Cổng Chính trị và Âm mưu, Bản đồ Nhận thức và Tuyên truyền; kèm chín minh họa hiện thực biên tập theo từng phần lớn.
 

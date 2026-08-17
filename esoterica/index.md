@@ -139,6 +139,7 @@ Orientation: this is the practice-facing route. It turns esoterica back inward, 
 ## Related Gateways
 
 - [[index|Root Index]]
+- [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — domain canonical cho nguồn Pāli, giáo lý và thực hành; dùng để phân biệt Kinh sớm với lớp huyền học so sánh trong Esoterica.
 - [[MOC - Esoterica & Consciousness]]
 - [[MOC - Ancient Civilizations & Hidden History]]
 - [[science-tech/index|Science & Tech Gateway]]

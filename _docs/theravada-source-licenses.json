@@ -1,0 +1,95 @@
+{
+  "schema": "redpill.theravada.source-licenses.v1",
+  "policy": {
+    "lesson_publication_requires_license_checked": true,
+    "platform_license_never_implies_all_hosted_translations": true,
+    "long_quotation_requires_explicit_permission": true,
+    "redpill_working_translation_label": "Bản dịch làm việc của redpill.wiki"
+  },
+  "sources": [
+    {
+      "id": "suttacentral-pali-root",
+      "name": "SuttaCentral Pāli root texts",
+      "url": "https://suttacentral.net/",
+      "license_url": "https://suttacentral.net/licensing",
+      "content_type": "pali-root",
+      "translator": null,
+      "edition": "segmented Pāli text, edition recorded per lesson",
+      "license_status": "pending_per_edition_verification",
+      "allowed_use": "reference_and_short_quote_pending_check",
+      "notes": "Pāli root is generally public-domain material; confirm edition/data terms before each batch."
+    },
+    {
+      "id": "suttacentral-sujato-en",
+      "name": "Bhikkhu Sujato translations on SuttaCentral",
+      "url": "https://suttacentral.net/",
+      "license_url": "https://suttacentral.net/licensing",
+      "content_type": "english-translation",
+      "translator": "Bhikkhu Sujato",
+      "edition": "record exact sutta URL and retrieval date",
+      "license_status": "pending_per_translation_verification",
+      "allowed_use": "cross_check_and_short_quote_pending_check",
+      "notes": "Do not infer translation license solely from platform."
+    },
+    {
+      "id": "dhammatalks-thanissaro-en",
+      "name": "Sutta translations at dhammatalks.org",
+      "url": "https://www.dhammatalks.org/suttas/",
+      "license_url": "https://www.dhammatalks.org/",
+      "content_type": "english-translation",
+      "translator": "Ṭhānissaro Bhikkhu",
+      "edition": "record per text",
+      "license_status": "pending_per_work_verification",
+      "allowed_use": "cross_check_and_paraphrase_pending_check",
+      "notes": "Many works use noncommercial/free-distribution terms; verify exact page/work."
+    },
+    {
+      "id": "access-to-insight-various",
+      "name": "Access to Insight Tipiṭaka translations",
+      "url": "https://www.accesstoinsight.org/tipitaka/",
+      "license_url": "https://www.accesstoinsight.org/faq.html",
+      "content_type": "english-translation",
+      "translator": "various",
+      "edition": "record translator and page per citation",
+      "license_status": "varies_by_work_pending_verification",
+      "allowed_use": "reference_and_paraphrase_pending_check",
+      "notes": "Do not treat archive-level access as blanket reuse permission."
+    },
+    {
+      "id": "pali-text-society",
+      "name": "Pali Text Society editions and translations",
+      "url": "https://palitextsociety.org/",
+      "license_url": "https://palitextsociety.org/copyright-information/",
+      "content_type": "critical-edition_and_translation",
+      "translator": "various",
+      "edition": "record title, editor/translator and year",
+      "license_status": "varies_by_edition_pending_verification",
+      "allowed_use": "scholarly_reference_pending_check",
+      "notes": "Commercial/noncommercial restrictions vary."
+    },
+    {
+      "id": "vri-cst4",
+      "name": "Vipassana Research Institute CST4",
+      "url": "https://www.tipitaka.org/",
+      "license_url": null,
+      "content_type": "pali-edition",
+      "translator": null,
+      "edition": "Chaṭṭha Saṅgāyana Tipiṭaka",
+      "license_status": "unclear_pending_verification",
+      "allowed_use": "reference_only_until_verified",
+      "notes": "Free availability does not automatically grant derivative or commercial reuse."
+    },
+    {
+      "id": "budsas-vietnamese",
+      "name": "Budsas Vietnamese Buddhist texts",
+      "url": "https://www.budsas.org/",
+      "license_url": null,
+      "content_type": "vietnamese-translation",
+      "translator": "various",
+      "edition": "record exact translator/work",
+      "license_status": "unclear_varies_by_work",
+      "allowed_use": "cross_check_and_reference_until_verified",
+      "notes": "Verify each work; prefer redpill working translation over unlicensed long quotation."
+    }
+  ]
+}

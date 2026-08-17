@@ -1,6 +1,6 @@
 {
   "stats": {
-    "notes": 238,
+    "notes": 243,
     "domains": {
       "_docs": 12,
       "root": 14,
@@ -9,10 +9,11 @@
       "health": 27,
       "mental-models": 44,
       "politics-conspiracy": 27,
-      "science-tech": 20
+      "science-tech": 20,
+      "theravada": 5
     },
-    "tags": 300,
-    "wikilinkEdges": 2309,
+    "tags": 308,
+    "wikilinkEdges": 2324,
     "brokenLinks": 0,
     "orphans": 13
   },
@@ -2166,6 +2167,7 @@
           "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
           "Sự Nhất Thể",
           "Tartaria",
+          "theravada/index",
           "Thực Thể Cõi Trung Giới",
           "Tinh Khí Thần",
           "Tà Linh",
@@ -2218,7 +2220,8 @@
           "MOC - Esoterica & Consciousness.md",
           "MOC - Science Revisionism.md",
           "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-          "science-tech/index.md"
+          "science-tech/index.md",
+          "theravada/index.md"
         ],
         "backlinks": [
           "health/index.md",
@@ -2226,7 +2229,7 @@
           "mental-models/index.md",
           "science-tech/index.md"
         ],
-        "words": 1241,
+        "words": 1272,
         "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
       },
       {
@@ -2901,7 +2904,8 @@
           "index.md",
           "mental-models/Luân Hồi Trên Home Screen.md",
           "mental-models/Tâm bất Biến.md",
-          "MOC - Esoterica & Consciousness.md"
+          "MOC - Esoterica & Consciousness.md",
+          "theravada/index.md"
         ],
         "words": 929,
         "summary": "**Luân Hồi là vòng tái sinh của tâm thức qua nhiều thân xác, nhưng trong vault nó không được đọc một chiều. Cùng một cơ chế có thể là trường học linh hồn hoặc nhà tù ký ức, tùy mức độ tỉnh thức, consent và khả năng nhớ lại của người tham gia.**"
@@ -3066,6 +3070,78 @@
         ],
         "words": 3647,
         "summary": "!Các lớp khảo cổ với một nền văn minh cổ tiên tiến bị chôn dưới những trang timeline sách giáo khoa, như một audit về lịch sử bị chuẩn hóa"
+      },
+      {
+        "path": "esoterica/Vũ Trụ Học Phật Giáo.md",
+        "title": "Vũ Trụ Học Phật Giáo",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Vũ Trụ Học Phật Giáo"
+        ],
+        "headings": [
+          "Vũ Trụ Học Phật Giáo",
+          "Evidence Discipline / Cách Đọc",
+          "Nguồn Gốc Loài Người Trong Aggañña Sutta",
+          "Sáu Cõi Như Bản Đồ Tâm Thức",
+          "Cõi Người Là Cửa Hẹp",
+          "Núi Tu Di Và Trục Vũ Trụ",
+          "Luân Hồi Và Nhân Quả",
+          "Thành Trụ Hoại Không",
+          "Liên Hệ Với Flat Earth Và Khoa Học Xét Lại",
+          "Chốt Lại",
+          "Related"
+        ],
+        "wikilinks": [
+          "Atlantis",
+          "Atula",
+          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+          "Khoa Học Xét Lại",
+          "Lemuria",
+          "Luân Hồi",
+          "Ma Trận",
+          "Nhân Quả",
+          "Núi Tu Di",
+          "Sự Nhất Thể",
+          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
+          "Trái Đất Phẳng",
+          "Tà Linh"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Atlantis.md",
+          "esoterica/Atula.md",
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Lemuria.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Núi Tu Di.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Tà Linh.md",
+          "politics-conspiracy/Trái Đất Phẳng.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "esoterica/Atula.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Núi Tu Di.md",
+          "esoterica/Sacred Geometry.md",
+          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+          "esoterica/Thánh Issa.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "politics-conspiracy/Trái Đất Phẳng.md",
+          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+          "theravada/index.md"
+        ],
+        "words": 1336,
+        "summary": "**Vũ Trụ Học Phật Giáo** không chỉ là bản đồ \"trời đất\" theo nghĩa vật lý. Nó là một cấu trúc biểu tượng - đạo đức - tâm thức mô tả các cõi tồn tại, chu kỳ thành trụ hoại không, nghiệp, tái sinh và vị trí đặc biệt của cõi người. Đọc đúng, nó không cần cạnh tr…"
       },
       {
         "path": "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
@@ -3296,77 +3372,6 @@
         ],
         "words": 2132,
         "summary": "**Nguồn tham khảo:** Sách \"Luật Tâm Thức\" của Ngô Sa Thạch"
-      },
-      {
-        "path": "esoterica/Vũ Trụ Học Phật Giáo.md",
-        "title": "Vũ Trụ Học Phật Giáo",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Vũ Trụ Học Phật Giáo"
-        ],
-        "headings": [
-          "Vũ Trụ Học Phật Giáo",
-          "Evidence Discipline / Cách Đọc",
-          "Nguồn Gốc Loài Người Trong Aggañña Sutta",
-          "Sáu Cõi Như Bản Đồ Tâm Thức",
-          "Cõi Người Là Cửa Hẹp",
-          "Núi Tu Di Và Trục Vũ Trụ",
-          "Luân Hồi Và Nhân Quả",
-          "Thành Trụ Hoại Không",
-          "Liên Hệ Với Flat Earth Và Khoa Học Xét Lại",
-          "Chốt Lại",
-          "Related"
-        ],
-        "wikilinks": [
-          "Atlantis",
-          "Atula",
-          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
-          "Khoa Học Xét Lại",
-          "Lemuria",
-          "Luân Hồi",
-          "Ma Trận",
-          "Nhân Quả",
-          "Núi Tu Di",
-          "Sự Nhất Thể",
-          "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
-          "Trái Đất Phẳng",
-          "Tà Linh"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Atlantis.md",
-          "esoterica/Atula.md",
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "esoterica/Lemuria.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/Núi Tu Di.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Tà Linh.md",
-          "politics-conspiracy/Trái Đất Phẳng.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "esoterica/Atula.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Núi Tu Di.md",
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-          "esoterica/Thánh Issa.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "politics-conspiracy/Trái Đất Phẳng.md",
-          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md"
-        ],
-        "words": 1336,
-        "summary": "**Vũ Trụ Học Phật Giáo** không chỉ là bản đồ \"trời đất\" theo nghĩa vật lý. Nó là một cấu trúc biểu tượng - đạo đức - tâm thức mô tả các cõi tồn tại, chu kỳ thành trụ hoại không, nghiệp, tái sinh và vị trí đặc biệt của cõi người. Đọc đúng, nó không cần cạnh tr…"
       },
       {
         "path": "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
@@ -3600,6 +3605,66 @@
         "summary": "**Chakra là bản đồ đọc con người như một trục năng lượng sống: từ bản năng sinh tồn ở thân dưới, qua tim, tiếng nói, trực giác, rồi lên ý thức hợp nhất.** Trong vault, chakra không được dùng như \"y học chính thống\", mà như ngôn ngữ biểu tượng để nối Kundalini…"
       },
       {
+        "path": "esoterica/Nhân Quả.md",
+        "title": "Nhân Quả",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [
+          "Karma",
+          "Law of Cause and Effect"
+        ],
+        "headings": [
+          "Nhân Quả (Karma)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Thân, Khẩu, Ý",
+          "Karma Không Phải Định Mệnh Cứng",
+          "Karma Và Luân Hồi",
+          "Karma Bị Corrupt Như Thế Nào?",
+          "Chuyển Hóa Karma",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Luân Hồi",
+          "Monad",
+          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
+          "Tâm Lý Học Jung"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Monad.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "mental-models/Tâm Lý Học Jung.md"
+        ],
+        "backlinks": [
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+          "esoterica/Dune - Paul Leto II Va Golden Path.md",
+          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+          "esoterica/index.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Một Đời Phù Vân.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Tình Yêu Tỉnh Thức.md",
+          "esoterica/Tứ Linh.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "index.md",
+          "mental-models/Tâm bất Biến.md",
+          "MOC - Esoterica & Consciousness.md",
+          "theravada/index.md"
+        ],
+        "words": 721,
+        "summary": "**Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo ra nó.** Đọc nông, karma thành công cụ dọa dân. Đọc sâu, karma là cơ chế học của linh h…"
+      },
+      {
         "path": "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
         "title": "Avatar - Disclosure Của Eywa & Gaia",
         "domain": "esoterica",
@@ -3831,65 +3896,6 @@
         ],
         "words": 942,
         "summary": "**Long Mạch** là hệ thống các dòng năng lượng (sinh khí/chi) chảy trong lòng Trái Đất, tương tự kinh mạch trong cơ thể người. Feng shui gọi là \"dragon veins\", Western gọi là \"ley lines\"."
-      },
-      {
-        "path": "esoterica/Nhân Quả.md",
-        "title": "Nhân Quả",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [
-          "Karma",
-          "Law of Cause and Effect"
-        ],
-        "headings": [
-          "Nhân Quả (Karma)",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Thân, Khẩu, Ý",
-          "Karma Không Phải Định Mệnh Cứng",
-          "Karma Và Luân Hồi",
-          "Karma Bị Corrupt Như Thế Nào?",
-          "Chuyển Hóa Karma",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Luân Hồi",
-          "Monad",
-          "Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo",
-          "Tâm Lý Học Jung"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Monad.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "mental-models/Tâm Lý Học Jung.md"
-        ],
-        "backlinks": [
-          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
-          "esoterica/Dune - Paul Leto II Va Golden Path.md",
-          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-          "esoterica/index.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Một Đời Phù Vân.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Quy Luật Trao Đổi Tâm Linh.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Tình Yêu Tỉnh Thức.md",
-          "esoterica/Tứ Linh.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "index.md",
-          "mental-models/Tâm bất Biến.md",
-          "MOC - Esoterica & Consciousness.md"
-        ],
-        "words": 721,
-        "summary": "**Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo ra nó.** Đọc nông, karma thành công cụ dọa dân. Đọc sâu, karma là cơ chế học của linh h…"
       },
       {
         "path": "esoterica/S.E.X.md",
@@ -4528,6 +4534,73 @@
         "summary": "**Tình Yêu Tỉnh Thức** không phải cảm xúc lãng mạn được làm đẹp bằng ngôn ngữ tâm linh. Nó là năng lực yêu mà không chiếm hữu, thấy rõ mà không lạnh lùng, bao dung mà không tự phản bội. Trong vault này, tình yêu tỉnh thức nối Nhân Quả, Nhị Nguyên, Trí Tuệ, In…"
       },
       {
+        "path": "esoterica/Atula.md",
+        "title": "Atula (Asura)",
+        "domain": "esoterica",
+        "tags": [
+          "buddhism",
+          "consciousness",
+          "esoterica"
+        ],
+        "aliases": [
+          "A-tu-la",
+          "Asura",
+          "Cõi Atula"
+        ],
+        "headings": [
+          "Atula / Asura (A-tu-la)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Atula Trong Sáu Cõi / Asura In The Six Realms",
+          "Tâm Lý Asura / The Asura Psychology",
+          "Deva-Asura War / Cuộc Chiến Không Dứt",
+          "Asura Trong Thế Giới Hiện Đại",
+          "Loosh Và Nền Kinh Tế Xung Đột",
+          "Atula Và AI",
+          "Nhận Diện Asura Trong Chính Mình",
+          "Chuyển Hóa / Antidote",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "AI",
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Elite",
+          "Individuation",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Luân Hồi",
+          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+          "Thông Minh",
+          "Thông Minh vs Trí Tuệ",
+          "Trí Tuệ",
+          "Vũ Trụ Học Phật Giáo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "mental-models/Individuation.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Thông Minh.md",
+          "mental-models/Trí Tuệ.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "science-tech/AI.md"
+        ],
+        "backlinks": [
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "MOC - Esoterica & Consciousness.md",
+          "science-tech/AI.md",
+          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+          "theravada/index.md"
+        ],
+        "words": 1154,
+        "summary": "**Atula là archetype của quyền lực có phước nhưng thiếu an định: mạnh, thông minh, tham vọng, hiếu thắng, nhưng bị ganh tị và chiến tranh nội tâm kéo đi.** Trong vault, Atula không chỉ là một \"cõi\" trong Luân Hồi, mà là mô hình đọc phần Asura trong cá nhân, t…"
+      },
+      {
         "path": "esoterica/Gaia - Trái Đất Có Ý Thức.md",
         "title": "Gaia - Trái Đất Có Ý Thức",
         "domain": "esoterica",
@@ -4608,72 +4681,6 @@
         ],
         "words": 2046,
         "summary": "Mọi nền văn minh cổ đại lớn trên thế giới — không có liên lạc với nhau — đều độc lập tôn thờ Trái Đất như một **ý thức sống**. Khoa học hiện đại đặt tên là Gaia Hypothesis (1972) và giả vờ đây là ý tưởng mới."
-      },
-      {
-        "path": "esoterica/Atula.md",
-        "title": "Atula (Asura)",
-        "domain": "esoterica",
-        "tags": [
-          "buddhism",
-          "consciousness",
-          "esoterica"
-        ],
-        "aliases": [
-          "A-tu-la",
-          "Asura",
-          "Cõi Atula"
-        ],
-        "headings": [
-          "Atula / Asura (A-tu-la)",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Atula Trong Sáu Cõi / Asura In The Six Realms",
-          "Tâm Lý Asura / The Asura Psychology",
-          "Deva-Asura War / Cuộc Chiến Không Dứt",
-          "Asura Trong Thế Giới Hiện Đại",
-          "Loosh Và Nền Kinh Tế Xung Đột",
-          "Atula Và AI",
-          "Nhận Diện Asura Trong Chính Mình",
-          "Chuyển Hóa / Antidote",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "AI",
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Elite",
-          "Individuation",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "Luân Hồi",
-          "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-          "Thông Minh",
-          "Thông Minh vs Trí Tuệ",
-          "Trí Tuệ",
-          "Vũ Trụ Học Phật Giáo"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "mental-models/Individuation.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Thông Minh.md",
-          "mental-models/Trí Tuệ.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md",
-          "science-tech/AI.md"
-        ],
-        "backlinks": [
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "MOC - Esoterica & Consciousness.md",
-          "science-tech/AI.md",
-          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
-        ],
-        "words": 1154,
-        "summary": "**Atula là archetype của quyền lực có phước nhưng thiếu an định: mạnh, thông minh, tham vọng, hiếu thắng, nhưng bị ganh tị và chiến tranh nội tâm kéo đi.** Trong vault, Atula không chỉ là một \"cõi\" trong Luân Hồi, mà là mô hình đọc phần Asura trong cá nhân, t…"
       },
       {
         "path": "esoterica/Saturn Cube.md",
@@ -8909,6 +8916,7 @@
           "Schadenfreude - Dopamine Phản Diện",
           "Sợ hãi - Tham Lam – Cân bằng",
           "Sự Thật Ẩn Sau Con Người Bạn",
+          "theravada/index",
           "Thông Minh vs Trí Tuệ",
           "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
           "Thế Hệ Lọt Khe",
@@ -8981,7 +8989,8 @@
           "science-tech/AI.md",
           "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
           "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+          "theravada/index.md"
         ],
         "backlinks": [
           "crypto-finance/index.md",
@@ -8991,7 +9000,7 @@
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 2100,
+        "words": 2127,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -10401,6 +10410,68 @@
         "summary": "!Một đứa trẻ đứng giữa đường ray cũ và mạng lưới quản trị hiện đại"
       },
       {
+        "path": "mental-models/Tâm bất Biến.md",
+        "title": "Tâm Bất Biến",
+        "domain": "mental-models",
+        "tags": [
+          "mental-model"
+        ],
+        "aliases": [
+          "Equanimity",
+          "Tâm Bất Biến",
+          "Upekkhā",
+          "Xả"
+        ],
+        "headings": [
+          "Tâm Bất Biến (Equanimity / Upekkhā)",
+          "Vault Position / Vị Trí Trong Vault",
+          "Định Nghĩa / Definition",
+          "Cùng Một Nguyên Lý Qua Nhiều Truyền Thống",
+          "Tứ Vô Lượng Tâm / Four Brahmaviharas",
+          "Trong Đời Thường / Practical Field",
+          "Con Đường Rèn Luyện / Path",
+          "1. Hiểu [[Nhân Quả]]",
+          "2. Chiêm nghiệm vô thường",
+          "3. Rèn [[Trí Tuệ]]",
+          "4. Thiền định và thân",
+          "Trong [[Individuation]]",
+          "Góc Nhìn Khắc Kỷ / Stoic Lens",
+          "Bài Test / Field Test",
+          "Related"
+        ],
+        "wikilinks": [
+          "Individuation",
+          "Luân Hồi",
+          "Ma Trận",
+          "Nhân Quả",
+          "Sự Nhất Thể",
+          "Trí Tuệ",
+          "Tâm bất Biến"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Sự Nhất Thể.md",
+          "mental-models/Individuation.md",
+          "mental-models/Trí Tuệ.md"
+        ],
+        "backlinks": [
+          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+          "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
+          "mental-models/index.md",
+          "mental-models/Nhị Nguyên.md",
+          "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+          "mental-models/Trí Tuệ.md",
+          "theravada/index.md"
+        ],
+        "words": 1150,
+        "summary": "**Tâm Bất Biến không phải là không cảm thấy gì. Nó là khả năng cảm thấy đầy đủ mà không để cơn sóng bên trong cướp tay lái.** Người có tâm bất biến vẫn đau, vẫn thương, vẫn giận, vẫn hành động; khác biệt là họ không để phản ứng đầu tiên trở thành mệnh lệnh cu…"
+      },
+      {
         "path": "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "title": "Hormone, Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
         "domain": "mental-models",
@@ -10469,67 +10540,6 @@
         ],
         "words": 3668,
         "summary": "**Hiện đại không phá hôn nhân chỉ bằng tự do tình dục. Nó phá bằng cách tách tình dục khỏi sinh sản, sinh sản khỏi nghĩa vụ, nghĩa vụ khỏi danh dự, rồi gọi phần trống rỗng còn lại là tự do cá nhân. Nhưng phản ứng ngược kiểu đổ toàn bộ lỗi lên phụ nữ, thuốc tr…"
-      },
-      {
-        "path": "mental-models/Tâm bất Biến.md",
-        "title": "Tâm Bất Biến",
-        "domain": "mental-models",
-        "tags": [
-          "mental-model"
-        ],
-        "aliases": [
-          "Equanimity",
-          "Tâm Bất Biến",
-          "Upekkhā",
-          "Xả"
-        ],
-        "headings": [
-          "Tâm Bất Biến (Equanimity / Upekkhā)",
-          "Vault Position / Vị Trí Trong Vault",
-          "Định Nghĩa / Definition",
-          "Cùng Một Nguyên Lý Qua Nhiều Truyền Thống",
-          "Tứ Vô Lượng Tâm / Four Brahmaviharas",
-          "Trong Đời Thường / Practical Field",
-          "Con Đường Rèn Luyện / Path",
-          "1. Hiểu [[Nhân Quả]]",
-          "2. Chiêm nghiệm vô thường",
-          "3. Rèn [[Trí Tuệ]]",
-          "4. Thiền định và thân",
-          "Trong [[Individuation]]",
-          "Góc Nhìn Khắc Kỷ / Stoic Lens",
-          "Bài Test / Field Test",
-          "Related"
-        ],
-        "wikilinks": [
-          "Individuation",
-          "Luân Hồi",
-          "Ma Trận",
-          "Nhân Quả",
-          "Sự Nhất Thể",
-          "Trí Tuệ",
-          "Tâm bất Biến"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Nhân Quả.md",
-          "esoterica/Sự Nhất Thể.md",
-          "mental-models/Individuation.md",
-          "mental-models/Trí Tuệ.md"
-        ],
-        "backlinks": [
-          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-          "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
-          "mental-models/index.md",
-          "mental-models/Nhị Nguyên.md",
-          "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-          "mental-models/Trí Tuệ.md"
-        ],
-        "words": 1150,
-        "summary": "**Tâm Bất Biến không phải là không cảm thấy gì. Nó là khả năng cảm thấy đầy đủ mà không để cơn sóng bên trong cướp tay lái.** Người có tâm bất biến vẫn đau, vẫn thương, vẫn giận, vẫn hành động; khác biệt là họ không để phản ứng đầu tiên trở thành mệnh lệnh cu…"
       },
       {
         "path": "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
@@ -14038,6 +14048,7 @@
           "Sự Thật Đen Tối Về Phim Khiêu Dâm",
           "Tartaria",
           "Tartaria và Vạn Lý Trường Thành",
+          "theravada/index",
           "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
           "Thuyết Trái Đất Phẳng",
           "Thuyết Vi Sinh Nội Sinh",
@@ -14237,7 +14248,8 @@
           "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
           "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md",
+          "theravada/index.md"
         ],
         "backlinks": [
           "crypto-finance/index.md",
@@ -14248,7 +14260,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 5886,
+        "words": 6023,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14296,6 +14308,7 @@
           "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
           "Quy Trình Là Ký Ức Được Mua Bằng Máu",
           "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+          "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda",
           "Thế Hệ Lọt Khe",
           "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
           "Word Magic - Ngôn Ngữ Của Phù Thủy"
@@ -14327,7 +14340,8 @@
           "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
           "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+          "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+          "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md"
         ],
         "backlinks": [
           "crypto-finance/index.md",
@@ -14363,7 +14377,7 @@
           "science-tech/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 926,
+        "words": 957,
         "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
       },
       {
@@ -14646,6 +14660,7 @@
           "Sacred Geometry",
           "Saturn Cube",
           "Sự Nhất Thể",
+          "theravada/index",
           "Thực Thể Cõi Trung Giới",
           "Trí Tuệ",
           "Tà Linh",
@@ -14688,7 +14703,8 @@
           "mental-models/Tâm Lý Học Jung.md",
           "mental-models/Vô Thức Tập Thể.md",
           "MOC - Epistemology & Propaganda.md",
-          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
+          "theravada/index.md"
         ],
         "backlinks": [
           "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
@@ -14706,7 +14722,7 @@
           "mental-models/index.md",
           "MOC - Ancient Civilizations & Hidden History.md"
         ],
-        "words": 738,
+        "words": 764,
         "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
       },
       {
@@ -16650,6 +16666,224 @@
         "words": 930,
         "summary": "**Transhumanism được bán như tự do nâng cấp bản thân. Nhưng nếu hạ tầng nâng cấp nằm trong tay Big Tech, military, insurance, employer và state, câu hỏi không còn là “con người có nên mạnh hơn không?” Câu hỏi là: ai sở hữu layer nằm giữa cơ thể, tâm trí và má…"
       }
+    ],
+    "theravada": [
+      {
+        "path": "theravada/index.md",
+        "title": "Theravāda Và Kinh Tạng Pāli",
+        "domain": "theravada",
+        "tags": [
+          "kinh-tang",
+          "pali",
+          "phat-giao",
+          "theravada"
+        ],
+        "aliases": [
+          "Kinh Tạng Pāli",
+          "Phật Giáo Nam Tông",
+          "Theravāda"
+        ],
+        "headings": [
+          "Theravāda Và Kinh Tạng Pāli",
+          "Bốn Tài Liệu Nền",
+          "Bắt Đầu Ở Đâu?",
+          "Tôi Chưa Biết Gì Về Phật Giáo",
+          "Tôi Muốn Hiểu Tâm Và Cái Tôi",
+          "Tôi Muốn Thực Hành",
+          "Tôi Muốn Học Chuyên Sâu",
+          "Bảy Học Phần",
+          "I. Cửa Vào Và Bản Đồ Nguồn — 4 bài",
+          "II. Xương Sống Giáo Pháp — 6 bài",
+          "III. Giải Phẫu Kinh Nghiệm Và Cái Tôi — 6 bài",
+          "IV. Duyên Khởi, Nghiệp Và Tái Sinh — 6 bài",
+          "V. Con Đường Thực Hành — 6 bài",
+          "VI. Vũ Trụ, Giác Ngộ Và Nibbāna — 4 bài",
+          "VII. Vi Diệu Pháp, Chú Giải Và Cầu Nối Hiện Đại — 4 bài",
+          "Kỷ Luật Xuất Xứ",
+          "Khoa Học Và Huyền Học",
+          "Quan Hệ Với Những Bài Đã Có Trong Vault",
+          "Trạng Thái"
+        ],
+        "wikilinks": [
+          "Atula",
+          "Chuẩn Nguồn Và Xuất Xứ Theravāda",
+          "Luân Hồi",
+          "Mục Lục Kinh Dẫn Pāli",
+          "Nhân Quả",
+          "Tiến Độ Chương Trình Theravāda",
+          "Tâm bất Biến",
+          "Từ Điển Pāli Cốt Lõi",
+          "Vũ Trụ Học Phật Giáo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Atula.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Nhân Quả.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "mental-models/Tâm bất Biến.md",
+          "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
+          "theravada/Mục Lục Kinh Dẫn Pāli.md",
+          "theravada/Tiến Độ Chương Trình Theravāda.md",
+          "theravada/Từ Điển Pāli Cốt Lõi.md"
+        ],
+        "backlinks": [
+          "esoterica/index.md",
+          "index.md",
+          "mental-models/index.md",
+          "MOC - Esoterica & Consciousness.md"
+        ],
+        "words": 778,
+        "summary": "**Đây là một lộ trình học, không phải tuyển tập bài tâm linh rời rạc.** Người mới bắt đầu từ Đức Phật lịch sử, Tứ Thánh Đế và Bát Chánh Đạo; người đã có nền có thể đi sâu vào năm uẩn, duyên khởi, thiền, Vi Diệu Pháp, 31 cõi và Nibbāna."
+      },
+      {
+        "path": "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
+        "title": "Chuẩn Nguồn Và Xuất Xứ Theravāda",
+        "domain": "theravada",
+        "tags": [
+          "pali",
+          "provenance",
+          "sources",
+          "theravada"
+        ],
+        "aliases": [
+          "Chuẩn Nguồn Pāli",
+          "Theravāda Provenance Standard"
+        ],
+        "headings": [
+          "Chuẩn Nguồn Và Xuất Xứ Theravāda",
+          "Thứ Bậc Nguồn",
+          "Cấp A — Văn Bản Gốc",
+          "Cấp B — Bản Dịch",
+          "Cấp C — Nghiên Cứu Và Truyền Thống",
+          "Cấp D — So Sánh Hiện Đại",
+          "Nhãn Xuất Xứ Bắt Buộc",
+          "Mẫu Frontmatter Cho Bài Học",
+          "Quy Tắc Pāli",
+          "Quy Tắc Trích Dẫn",
+          "Phân Biệt Lớp Văn Bản",
+          "Kỷ Luật Khẳng Định",
+          "Giấy Phép Theo Từng Ấn Bản",
+          "Cấu Trúc Mỗi Bài",
+          "Chuẩn Hình Ảnh"
+        ],
+        "wikilinks": [
+          "Từ Điển Pāli Cốt Lõi"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "theravada/Từ Điển Pāli Cốt Lõi.md"
+        ],
+        "backlinks": [
+          "MOC - Epistemology & Propaganda.md",
+          "theravada/index.md"
+        ],
+        "words": 982,
+        "summary": "**Mục tiêu của chuẩn này là ngăn nhiều lớp truyền thống bị trộn thành một giọng nói duy nhất.** Một ý có thể quan trọng trong Theravāda mà không nhất thiết là nguyên văn lời Phật trong Kinh sớm."
+      },
+      {
+        "path": "theravada/Từ Điển Pāli Cốt Lõi.md",
+        "title": "Từ Điển Pāli Cốt Lõi",
+        "domain": "theravada",
+        "tags": [
+          "glossary",
+          "pali",
+          "theravada"
+        ],
+        "aliases": [
+          "Pāli Glossary",
+          "Thuật Ngữ Theravāda",
+          "Từ Điển Pali"
+        ],
+        "headings": [
+          "Từ Điển Pāli Cốt Lõi",
+          "Quy Ước Dấu Pāli",
+          "Thuật Ngữ Nền",
+          "Tứ Thánh Đế Và Con Đường",
+          "Giải Phẫu Kinh Nghiệm",
+          "Nghiệp, Luân Hồi Và Giải Thoát",
+          "Thực Hành",
+          "Cách Dùng Từ Điển"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [
+          "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
+          "theravada/index.md"
+        ],
+        "words": 1248,
+        "summary": "**Đây là từ điển làm việc, không phải bảng thay từ một–một.** Một từ Pāli có thể đổi sắc thái theo văn cảnh. “Cách đọc gần đúng” chỉ giúp người Việt bắt đầu, không tự nhận là chuẩn phát âm duy nhất của mọi truyền thống Theravāda."
+      },
+      {
+        "path": "theravada/Mục Lục Kinh Dẫn Pāli.md",
+        "title": "Mục Lục Kinh Dẫn Pāli",
+        "domain": "theravada",
+        "tags": [
+          "canonical-references",
+          "pali",
+          "theravada"
+        ],
+        "aliases": [
+          "Mục Lục Kinh Pāli",
+          "Pāli Canon Reference Index"
+        ],
+        "headings": [
+          "Mục Lục Kinh Dẫn Pāli",
+          "Ký Hiệu",
+          "Học Phần I — Cửa Vào Và Nguồn",
+          "Học Phần II — Xương Sống Giáo Pháp",
+          "Học Phần III — Kinh Nghiệm Và Cái Tôi",
+          "Học Phần IV — Duyên Khởi, Nghiệp Và Tái Sinh",
+          "Học Phần V — Thực Hành",
+          "Học Phần VI — Vũ Trụ, Giác Ngộ Và Nibbāna",
+          "Học Phần VII — Vi Diệu Pháp Và Đối Chiếu",
+          "Cổng Kiểm Tra Trước Khi Xuất Bản Bài"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [
+          "theravada/index.md"
+        ],
+        "words": 868,
+        "summary": "**Đây là nguồn neo nghiên cứu, không phải thư mục cuối.** Trước khi một bài được xuất bản, mã kinh, văn cảnh, Pāli gốc, ít nhất một bản dịch và giấy phép của từng ấn bản phải được kiểm tra lại."
+      },
+      {
+        "path": "theravada/Tiến Độ Chương Trình Theravāda.md",
+        "title": "Tiến Độ Chương Trình Theravāda",
+        "domain": "theravada",
+        "tags": [
+          "pali",
+          "roadmap",
+          "theravada"
+        ],
+        "aliases": [
+          "Lộ Trình Theravāda",
+          "Theravāda Series Progress"
+        ],
+        "headings": [
+          "Tiến Độ Chương Trình Theravāda",
+          "Quy Ước Trạng Thái",
+          "Batch 0 — Tài Liệu Nền",
+          "Học Phần I — Cửa Vào Và Bản Đồ Nguồn",
+          "Học Phần II — Xương Sống Giáo Pháp",
+          "Học Phần III — Giải Phẫu Kinh Nghiệm Và Cái Tôi",
+          "Học Phần IV — Duyên Khởi, Nghiệp Và Tái Sinh",
+          "Học Phần V — Con Đường Thực Hành",
+          "Học Phần VI — Vũ Trụ, Giác Ngộ Và Nibbāna",
+          "Học Phần VII — Vi Diệu Pháp Và Cầu Nối Hiện Đại",
+          "Thứ Tự Phát Hành"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [
+          "theravada/index.md"
+        ],
+        "words": 837,
+        "summary": "**Trạng thái ở đây phản ánh mức độ hoàn thành học thuật, không chỉ việc một tệp đã tồn tại.** Bài chỉ được đánh dấu “Đã xuất bản” sau khi nguồn, thuật ngữ, giấy phép, phản biện, hình ảnh, navigation và bản live đều qua kiểm tra."
+      }
     ]
   },
   "hubs": [
@@ -16851,6 +17085,7 @@
         "Sự Thật Đen Tối Về Phim Khiêu Dâm",
         "Tartaria",
         "Tartaria và Vạn Lý Trường Thành",
+        "theravada/index",
         "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
         "Thuyết Trái Đất Phẳng",
         "Thuyết Vi Sinh Nội Sinh",
@@ -17050,7 +17285,8 @@
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md",
+        "theravada/index.md"
       ],
       "backlinks": [
         "crypto-finance/index.md",
@@ -17061,7 +17297,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 5886,
+      "words": 6023,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -17599,6 +17835,7 @@
         "Schadenfreude - Dopamine Phản Diện",
         "Sợ hãi - Tham Lam – Cân bằng",
         "Sự Thật Ẩn Sau Con Người Bạn",
+        "theravada/index",
         "Thông Minh vs Trí Tuệ",
         "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
         "Thế Hệ Lọt Khe",
@@ -17671,7 +17908,8 @@
         "science-tech/AI.md",
         "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+        "theravada/index.md"
       ],
       "backlinks": [
         "crypto-finance/index.md",
@@ -17681,7 +17919,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 2100,
+      "words": 2127,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
@@ -17729,6 +17967,7 @@
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Quy Trình Là Ký Ức Được Mua Bằng Máu",
         "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+        "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda",
         "Thế Hệ Lọt Khe",
         "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
         "Word Magic - Ngôn Ngữ Của Phù Thủy"
@@ -17760,7 +17999,8 @@
         "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+        "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md"
       ],
       "backlinks": [
         "crypto-finance/index.md",
@@ -17796,7 +18036,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 926,
+      "words": 957,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     {
@@ -18575,6 +18815,136 @@
       "summary": "**Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…"
     },
     {
+      "path": "esoterica/index.md",
+      "title": "Esoterica Domain Gateway",
+      "domain": "esoterica",
+      "tags": [
+        "consciousness",
+        "domain-gateway",
+        "esoterica"
+      ],
+      "aliases": [
+        "Esoterica",
+        "Tâm Linh & Ý Thức"
+      ],
+      "headings": [
+        "Esoterica Domain Gateway",
+        "Core Matrix Pack",
+        "How To Read This Domain",
+        "Curated Reading Paths",
+        "1. Beginner Path — Source Before Spectacle",
+        "2. Power-User Path — Matrix & Soul Mechanics",
+        "3. High-Risk Caution Path — Entities, Ritual, Projection",
+        "4. Symbol & Media Path — Spellcraft In Plain Sight",
+        "5. Cross-Domain Bridge Path — Ancient Memory, Earth Grid, Science",
+        "6. Inner Alchemy Path — Energy Body & Love",
+        "Key Hubs",
+        "Flagship Articles",
+        "Related Gateways"
+      ],
+      "wikilinks": [
+        "Atlantis",
+        "Biểu Tượng Baphomet",
+        "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
+        "Chakra",
+        "Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian",
+        "Cách Đọc Red Pill Wiki",
+        "Dune - Paul Leto II Va Golden Path",
+        "Gematria",
+        "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
+        "Gnosis",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "index",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Kundalini",
+        "Long Mạch",
+        "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+        "Luân Hồi",
+        "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
+        "Ma Trận",
+        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
+        "mental-models/index",
+        "MOC - Ancient Civilizations & Hidden History",
+        "MOC - Epistemology & Propaganda",
+        "MOC - Esoterica & Consciousness",
+        "MOC - Science Revisionism",
+        "Monad",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nhân Quả",
+        "Năng Lượng Tình Dục",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "Sacred Geometry",
+        "Saturn Cube",
+        "science-tech/index",
+        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+        "Sự Nhất Thể",
+        "Tartaria",
+        "theravada/index",
+        "Thực Thể Cõi Trung Giới",
+        "Tinh Khí Thần",
+        "Tà Linh",
+        "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
+        "Tình Yêu Tỉnh Thức",
+        "Word Magic - Ngôn Ngữ Của Phù Thủy",
+        "Đạo"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Atlantis.md",
+        "esoterica/Biểu Tượng Baphomet.md",
+        "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
+        "esoterica/Chakra.md",
+        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+        "esoterica/Dune - Paul Leto II Va Golden Path.md",
+        "esoterica/Gematria.md",
+        "esoterica/Gnosis.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Kundalini.md",
+        "esoterica/Long Mạch.md",
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Monad.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Nhân Quả.md",
+        "esoterica/Năng Lượng Tình Dục.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Sacred Geometry.md",
+        "esoterica/Saturn Cube.md",
+        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+        "esoterica/Sự Nhất Thể.md",
+        "esoterica/Tartaria.md",
+        "esoterica/Thực Thể Cõi Trung Giới.md",
+        "esoterica/Tinh Khí Thần.md",
+        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+        "esoterica/Tà Linh.md",
+        "esoterica/Tình Yêu Tỉnh Thức.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "esoterica/Đạo.md",
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Ancient Civilizations & Hidden History.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Esoterica & Consciousness.md",
+        "MOC - Science Revisionism.md",
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "science-tech/index.md",
+        "theravada/index.md"
+      ],
+      "backlinks": [
+        "health/index.md",
+        "index.md",
+        "mental-models/index.md",
+        "science-tech/index.md"
+      ],
+      "words": 1272,
+      "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
+    },
+    {
       "path": "politics-conspiracy/index.md",
       "title": "Politics & Conspiracy Domain Gateway",
       "domain": "politics-conspiracy",
@@ -18707,134 +19077,6 @@
       "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
     },
     {
-      "path": "esoterica/index.md",
-      "title": "Esoterica Domain Gateway",
-      "domain": "esoterica",
-      "tags": [
-        "consciousness",
-        "domain-gateway",
-        "esoterica"
-      ],
-      "aliases": [
-        "Esoterica",
-        "Tâm Linh & Ý Thức"
-      ],
-      "headings": [
-        "Esoterica Domain Gateway",
-        "Core Matrix Pack",
-        "How To Read This Domain",
-        "Curated Reading Paths",
-        "1. Beginner Path — Source Before Spectacle",
-        "2. Power-User Path — Matrix & Soul Mechanics",
-        "3. High-Risk Caution Path — Entities, Ritual, Projection",
-        "4. Symbol & Media Path — Spellcraft In Plain Sight",
-        "5. Cross-Domain Bridge Path — Ancient Memory, Earth Grid, Science",
-        "6. Inner Alchemy Path — Energy Body & Love",
-        "Key Hubs",
-        "Flagship Articles",
-        "Related Gateways"
-      ],
-      "wikilinks": [
-        "Atlantis",
-        "Biểu Tượng Baphomet",
-        "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
-        "Chakra",
-        "Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian",
-        "Cách Đọc Red Pill Wiki",
-        "Dune - Paul Leto II Va Golden Path",
-        "Gematria",
-        "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
-        "Gnosis",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "index",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "Kundalini",
-        "Long Mạch",
-        "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-        "Luân Hồi",
-        "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
-        "Ma Trận",
-        "Ma Trận - Giải Phẫu Hoàn Chỉnh",
-        "mental-models/index",
-        "MOC - Ancient Civilizations & Hidden History",
-        "MOC - Epistemology & Propaganda",
-        "MOC - Esoterica & Consciousness",
-        "MOC - Science Revisionism",
-        "Monad",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nhân Quả",
-        "Năng Lượng Tình Dục",
-        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-        "Sacred Geometry",
-        "Saturn Cube",
-        "science-tech/index",
-        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
-        "Sự Nhất Thể",
-        "Tartaria",
-        "Thực Thể Cõi Trung Giới",
-        "Tinh Khí Thần",
-        "Tà Linh",
-        "Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện",
-        "Tình Yêu Tỉnh Thức",
-        "Word Magic - Ngôn Ngữ Của Phù Thủy",
-        "Đạo"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Atlantis.md",
-        "esoterica/Biểu Tượng Baphomet.md",
-        "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
-        "esoterica/Chakra.md",
-        "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
-        "esoterica/Dune - Paul Leto II Va Golden Path.md",
-        "esoterica/Gematria.md",
-        "esoterica/Gnosis.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Kundalini.md",
-        "esoterica/Long Mạch.md",
-        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-        "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Monad.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Nhân Quả.md",
-        "esoterica/Năng Lượng Tình Dục.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/Sacred Geometry.md",
-        "esoterica/Saturn Cube.md",
-        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-        "esoterica/Sự Nhất Thể.md",
-        "esoterica/Tartaria.md",
-        "esoterica/Thực Thể Cõi Trung Giới.md",
-        "esoterica/Tinh Khí Thần.md",
-        "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-        "esoterica/Tà Linh.md",
-        "esoterica/Tình Yêu Tỉnh Thức.md",
-        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "esoterica/Đạo.md",
-        "index.md",
-        "mental-models/index.md",
-        "MOC - Ancient Civilizations & Hidden History.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Esoterica & Consciousness.md",
-        "MOC - Science Revisionism.md",
-        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "science-tech/index.md"
-      ],
-      "backlinks": [
-        "health/index.md",
-        "index.md",
-        "mental-models/index.md",
-        "science-tech/index.md"
-      ],
-      "words": 1241,
-      "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
-    },
-    {
       "path": "MOC - Esoterica & Consciousness.md",
       "title": "MOC - Esoterica & Consciousness",
       "domain": "root",
@@ -18880,6 +19122,7 @@
         "Sacred Geometry",
         "Saturn Cube",
         "Sự Nhất Thể",
+        "theravada/index",
         "Thực Thể Cõi Trung Giới",
         "Trí Tuệ",
         "Tà Linh",
@@ -18922,7 +19165,8 @@
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Epistemology & Propaganda.md",
-        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
+        "theravada/index.md"
       ],
       "backlinks": [
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
@@ -18940,7 +19184,7 @@
         "mental-models/index.md",
         "MOC - Ancient Civilizations & Hidden History.md"
       ],
-      "words": 738,
+      "words": 764,
       "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
     },
     {
@@ -20798,6 +21042,109 @@
       ],
       "words": 930,
       "summary": "**Transhumanism được bán như tự do nâng cấp bản thân. Nhưng nếu hạ tầng nâng cấp nằm trong tay Big Tech, military, insurance, employer và state, câu hỏi không còn là “con người có nên mạnh hơn không?” Câu hỏi là: ai sở hữu layer nằm giữa cơ thể, tâm trí và má…"
+    },
+    {
+      "path": "theravada/Từ Điển Pāli Cốt Lõi.md",
+      "title": "Từ Điển Pāli Cốt Lõi",
+      "domain": "theravada",
+      "tags": [
+        "glossary",
+        "pali",
+        "theravada"
+      ],
+      "aliases": [
+        "Pāli Glossary",
+        "Thuật Ngữ Theravāda",
+        "Từ Điển Pali"
+      ],
+      "headings": [
+        "Từ Điển Pāli Cốt Lõi",
+        "Quy Ước Dấu Pāli",
+        "Thuật Ngữ Nền",
+        "Tứ Thánh Đế Và Con Đường",
+        "Giải Phẫu Kinh Nghiệm",
+        "Nghiệp, Luân Hồi Và Giải Thoát",
+        "Thực Hành",
+        "Cách Dùng Từ Điển"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [
+        "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
+        "theravada/index.md"
+      ],
+      "words": 1248,
+      "summary": "**Đây là từ điển làm việc, không phải bảng thay từ một–một.** Một từ Pāli có thể đổi sắc thái theo văn cảnh. “Cách đọc gần đúng” chỉ giúp người Việt bắt đầu, không tự nhận là chuẩn phát âm duy nhất của mọi truyền thống Theravāda."
+    },
+    {
+      "path": "theravada/Mục Lục Kinh Dẫn Pāli.md",
+      "title": "Mục Lục Kinh Dẫn Pāli",
+      "domain": "theravada",
+      "tags": [
+        "canonical-references",
+        "pali",
+        "theravada"
+      ],
+      "aliases": [
+        "Mục Lục Kinh Pāli",
+        "Pāli Canon Reference Index"
+      ],
+      "headings": [
+        "Mục Lục Kinh Dẫn Pāli",
+        "Ký Hiệu",
+        "Học Phần I — Cửa Vào Và Nguồn",
+        "Học Phần II — Xương Sống Giáo Pháp",
+        "Học Phần III — Kinh Nghiệm Và Cái Tôi",
+        "Học Phần IV — Duyên Khởi, Nghiệp Và Tái Sinh",
+        "Học Phần V — Thực Hành",
+        "Học Phần VI — Vũ Trụ, Giác Ngộ Và Nibbāna",
+        "Học Phần VII — Vi Diệu Pháp Và Đối Chiếu",
+        "Cổng Kiểm Tra Trước Khi Xuất Bản Bài"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [
+        "theravada/index.md"
+      ],
+      "words": 868,
+      "summary": "**Đây là nguồn neo nghiên cứu, không phải thư mục cuối.** Trước khi một bài được xuất bản, mã kinh, văn cảnh, Pāli gốc, ít nhất một bản dịch và giấy phép của từng ấn bản phải được kiểm tra lại."
+    },
+    {
+      "path": "theravada/Tiến Độ Chương Trình Theravāda.md",
+      "title": "Tiến Độ Chương Trình Theravāda",
+      "domain": "theravada",
+      "tags": [
+        "pali",
+        "roadmap",
+        "theravada"
+      ],
+      "aliases": [
+        "Lộ Trình Theravāda",
+        "Theravāda Series Progress"
+      ],
+      "headings": [
+        "Tiến Độ Chương Trình Theravāda",
+        "Quy Ước Trạng Thái",
+        "Batch 0 — Tài Liệu Nền",
+        "Học Phần I — Cửa Vào Và Bản Đồ Nguồn",
+        "Học Phần II — Xương Sống Giáo Pháp",
+        "Học Phần III — Giải Phẫu Kinh Nghiệm Và Cái Tôi",
+        "Học Phần IV — Duyên Khởi, Nghiệp Và Tái Sinh",
+        "Học Phần V — Con Đường Thực Hành",
+        "Học Phần VI — Vũ Trụ, Giác Ngộ Và Nibbāna",
+        "Học Phần VII — Vi Diệu Pháp Và Cầu Nối Hiện Đại",
+        "Thứ Tự Phát Hành"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [
+        "theravada/index.md"
+      ],
+      "words": 837,
+      "summary": "**Trạng thái ở đây phản ánh mức độ hoàn thành học thuật, không chỉ việc một tệp đã tồn tại.** Bài chỉ được đánh dấu “Đã xuất bản” sau khi nguồn, thuật ngữ, giấy phép, phản biện, hình ảnh, navigation và bản live đều qua kiểm tra."
     }
   ],
   "topTags": [
@@ -20951,6 +21298,14 @@
     ],
     [
       "dopamine-economy",
+      5
+    ],
+    [
+      "pali",
+      5
+    ],
+    [
+      "theravada",
       5
     ],
     [
@@ -21118,6 +21473,10 @@
       2
     ],
     [
+      "glossary",
+      2
+    ],
+    [
       "lifestyle",
       2
     ],
@@ -21187,18 +21546,6 @@
     ],
     [
       "oracle",
-      1
-    ],
-    [
-      "rwa",
-      1
-    ],
-    [
-      "tokenized-finance",
-      1
-    ],
-    [
-      "cantillon-effect",
       1
     ]
   ],
@@ -21626,6 +21973,7 @@
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Quy Trình Là Ký Ức Được Mua Bằng Máu",
         "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+        "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda",
         "Thế Hệ Lọt Khe",
         "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
         "Word Magic - Ngôn Ngữ Của Phù Thủy"
@@ -21657,7 +22005,8 @@
         "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+        "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md"
       ],
       "backlinks": [
         "crypto-finance/index.md",
@@ -21693,7 +22042,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 926,
+      "words": 957,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     "MOC - Esoterica & Consciousness.md": {
@@ -21742,6 +22091,7 @@
         "Sacred Geometry",
         "Saturn Cube",
         "Sự Nhất Thể",
+        "theravada/index",
         "Thực Thể Cõi Trung Giới",
         "Trí Tuệ",
         "Tà Linh",
@@ -21784,7 +22134,8 @@
         "mental-models/Tâm Lý Học Jung.md",
         "mental-models/Vô Thức Tập Thể.md",
         "MOC - Epistemology & Propaganda.md",
-        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
+        "theravada/index.md"
       ],
       "backlinks": [
         "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
@@ -21802,7 +22153,7 @@
         "mental-models/index.md",
         "MOC - Ancient Civilizations & Hidden History.md"
       ],
-      "words": 738,
+      "words": 764,
       "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
     },
     "MOC - Financial Sovereignty.md": {
@@ -24172,7 +24523,8 @@
         "esoterica/Vũ Trụ Học Phật Giáo.md",
         "MOC - Esoterica & Consciousness.md",
         "science-tech/AI.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md"
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "theravada/index.md"
       ],
       "words": 1154,
       "summary": "**Atula là archetype của quyền lực có phước nhưng thiếu an định: mạnh, thông minh, tham vọng, hiếu thắng, nhưng bị ganh tị và chiến tranh nội tâm kéo đi.** Trong vault, Atula không chỉ là một \"cõi\" trong Luân Hồi, mà là mô hình đọc phần Asura trong cá nhân, t…"
@@ -25974,7 +26326,8 @@
         "index.md",
         "mental-models/Luân Hồi Trên Home Screen.md",
         "mental-models/Tâm bất Biến.md",
-        "MOC - Esoterica & Consciousness.md"
+        "MOC - Esoterica & Consciousness.md",
+        "theravada/index.md"
       ],
       "words": 929,
       "summary": "**Luân Hồi là vòng tái sinh của tâm thức qua nhiều thân xác, nhưng trong vault nó không được đọc một chiều. Cùng một cơ chế có thể là trường học linh hồn hoặc nhà tù ký ức, tùy mức độ tỉnh thức, consent và khả năng nhớ lại của người tham gia.**"
@@ -27033,7 +27386,8 @@
         "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
         "index.md",
         "mental-models/Tâm bất Biến.md",
-        "MOC - Esoterica & Consciousness.md"
+        "MOC - Esoterica & Consciousness.md",
+        "theravada/index.md"
       ],
       "words": 721,
       "summary": "**Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo ra nó.** Đọc nông, karma thành công cụ dọa dân. Đọc sâu, karma là cơ chế học của linh h…"
@@ -29055,7 +29409,8 @@
         "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
         "politics-conspiracy/Trái Đất Phẳng.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md"
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "theravada/index.md"
       ],
       "words": 1336,
       "summary": "**Vũ Trụ Học Phật Giáo** không chỉ là bản đồ \"trời đất\" theo nghĩa vật lý. Nó là một cấu trúc biểu tượng - đạo đức - tâm thức mô tả các cõi tồn tại, chu kỳ thành trụ hoại không, nghiệp, tái sinh và vị trí đặc biệt của cõi người. Đọc đúng, nó không cần cạnh tr…"
@@ -29252,6 +29607,7 @@
         "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
         "Sự Nhất Thể",
         "Tartaria",
+        "theravada/index",
         "Thực Thể Cõi Trung Giới",
         "Tinh Khí Thần",
         "Tà Linh",
@@ -29304,7 +29660,8 @@
         "MOC - Esoterica & Consciousness.md",
         "MOC - Science Revisionism.md",
         "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "science-tech/index.md"
+        "science-tech/index.md",
+        "theravada/index.md"
       ],
       "backlinks": [
         "health/index.md",
@@ -29312,7 +29669,7 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 1241,
+      "words": 1272,
       "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
     },
     "esoterica/Đạo.md": {
@@ -31293,6 +31650,7 @@
         "Sự Thật Đen Tối Về Phim Khiêu Dâm",
         "Tartaria",
         "Tartaria và Vạn Lý Trường Thành",
+        "theravada/index",
         "Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu",
         "Thuyết Trái Đất Phẳng",
         "Thuyết Vi Sinh Nội Sinh",
@@ -31492,7 +31850,8 @@
         "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
         "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md",
+        "theravada/index.md"
       ],
       "backlinks": [
         "crypto-finance/index.md",
@@ -31503,7 +31862,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 5886,
+      "words": 6023,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -34003,7 +34362,8 @@
         "mental-models/index.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-        "mental-models/Trí Tuệ.md"
+        "mental-models/Trí Tuệ.md",
+        "theravada/index.md"
       ],
       "words": 1150,
       "summary": "**Tâm Bất Biến không phải là không cảm thấy gì. Nó là khả năng cảm thấy đầy đủ mà không để cơn sóng bên trong cướp tay lái.** Người có tâm bất biến vẫn đau, vẫn thương, vẫn giận, vẫn hành động; khác biệt là họ không để phản ứng đầu tiên trở thành mệnh lệnh cu…"
@@ -34469,6 +34829,7 @@
         "Schadenfreude - Dopamine Phản Diện",
         "Sợ hãi - Tham Lam – Cân bằng",
         "Sự Thật Ẩn Sau Con Người Bạn",
+        "theravada/index",
         "Thông Minh vs Trí Tuệ",
         "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
         "Thế Hệ Lọt Khe",
@@ -34541,7 +34902,8 @@
         "science-tech/AI.md",
         "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md"
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+        "theravada/index.md"
       ],
       "backlinks": [
         "crypto-finance/index.md",
@@ -34551,7 +34913,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 2100,
+      "words": 2127,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
@@ -37821,6 +38183,222 @@
       ],
       "words": 1115,
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
+    },
+    "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md": {
+      "path": "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
+      "title": "Chuẩn Nguồn Và Xuất Xứ Theravāda",
+      "domain": "theravada",
+      "tags": [
+        "pali",
+        "provenance",
+        "sources",
+        "theravada"
+      ],
+      "aliases": [
+        "Chuẩn Nguồn Pāli",
+        "Theravāda Provenance Standard"
+      ],
+      "headings": [
+        "Chuẩn Nguồn Và Xuất Xứ Theravāda",
+        "Thứ Bậc Nguồn",
+        "Cấp A — Văn Bản Gốc",
+        "Cấp B — Bản Dịch",
+        "Cấp C — Nghiên Cứu Và Truyền Thống",
+        "Cấp D — So Sánh Hiện Đại",
+        "Nhãn Xuất Xứ Bắt Buộc",
+        "Mẫu Frontmatter Cho Bài Học",
+        "Quy Tắc Pāli",
+        "Quy Tắc Trích Dẫn",
+        "Phân Biệt Lớp Văn Bản",
+        "Kỷ Luật Khẳng Định",
+        "Giấy Phép Theo Từng Ấn Bản",
+        "Cấu Trúc Mỗi Bài",
+        "Chuẩn Hình Ảnh"
+      ],
+      "wikilinks": [
+        "Từ Điển Pāli Cốt Lõi"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "theravada/Từ Điển Pāli Cốt Lõi.md"
+      ],
+      "backlinks": [
+        "MOC - Epistemology & Propaganda.md",
+        "theravada/index.md"
+      ],
+      "words": 982,
+      "summary": "**Mục tiêu của chuẩn này là ngăn nhiều lớp truyền thống bị trộn thành một giọng nói duy nhất.** Một ý có thể quan trọng trong Theravāda mà không nhất thiết là nguyên văn lời Phật trong Kinh sớm."
+    },
+    "theravada/Mục Lục Kinh Dẫn Pāli.md": {
+      "path": "theravada/Mục Lục Kinh Dẫn Pāli.md",
+      "title": "Mục Lục Kinh Dẫn Pāli",
+      "domain": "theravada",
+      "tags": [
+        "canonical-references",
+        "pali",
+        "theravada"
+      ],
+      "aliases": [
+        "Mục Lục Kinh Pāli",
+        "Pāli Canon Reference Index"
+      ],
+      "headings": [
+        "Mục Lục Kinh Dẫn Pāli",
+        "Ký Hiệu",
+        "Học Phần I — Cửa Vào Và Nguồn",
+        "Học Phần II — Xương Sống Giáo Pháp",
+        "Học Phần III — Kinh Nghiệm Và Cái Tôi",
+        "Học Phần IV — Duyên Khởi, Nghiệp Và Tái Sinh",
+        "Học Phần V — Thực Hành",
+        "Học Phần VI — Vũ Trụ, Giác Ngộ Và Nibbāna",
+        "Học Phần VII — Vi Diệu Pháp Và Đối Chiếu",
+        "Cổng Kiểm Tra Trước Khi Xuất Bản Bài"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [
+        "theravada/index.md"
+      ],
+      "words": 868,
+      "summary": "**Đây là nguồn neo nghiên cứu, không phải thư mục cuối.** Trước khi một bài được xuất bản, mã kinh, văn cảnh, Pāli gốc, ít nhất một bản dịch và giấy phép của từng ấn bản phải được kiểm tra lại."
+    },
+    "theravada/Tiến Độ Chương Trình Theravāda.md": {
+      "path": "theravada/Tiến Độ Chương Trình Theravāda.md",
+      "title": "Tiến Độ Chương Trình Theravāda",
+      "domain": "theravada",
+      "tags": [
+        "pali",
+        "roadmap",
+        "theravada"
+      ],
+      "aliases": [
+        "Lộ Trình Theravāda",
+        "Theravāda Series Progress"
+      ],
+      "headings": [
+        "Tiến Độ Chương Trình Theravāda",
+        "Quy Ước Trạng Thái",
+        "Batch 0 — Tài Liệu Nền",
+        "Học Phần I — Cửa Vào Và Bản Đồ Nguồn",
+        "Học Phần II — Xương Sống Giáo Pháp",
+        "Học Phần III — Giải Phẫu Kinh Nghiệm Và Cái Tôi",
+        "Học Phần IV — Duyên Khởi, Nghiệp Và Tái Sinh",
+        "Học Phần V — Con Đường Thực Hành",
+        "Học Phần VI — Vũ Trụ, Giác Ngộ Và Nibbāna",
+        "Học Phần VII — Vi Diệu Pháp Và Cầu Nối Hiện Đại",
+        "Thứ Tự Phát Hành"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [
+        "theravada/index.md"
+      ],
+      "words": 837,
+      "summary": "**Trạng thái ở đây phản ánh mức độ hoàn thành học thuật, không chỉ việc một tệp đã tồn tại.** Bài chỉ được đánh dấu “Đã xuất bản” sau khi nguồn, thuật ngữ, giấy phép, phản biện, hình ảnh, navigation và bản live đều qua kiểm tra."
+    },
+    "theravada/Từ Điển Pāli Cốt Lõi.md": {
+      "path": "theravada/Từ Điển Pāli Cốt Lõi.md",
+      "title": "Từ Điển Pāli Cốt Lõi",
+      "domain": "theravada",
+      "tags": [
+        "glossary",
+        "pali",
+        "theravada"
+      ],
+      "aliases": [
+        "Pāli Glossary",
+        "Thuật Ngữ Theravāda",
+        "Từ Điển Pali"
+      ],
+      "headings": [
+        "Từ Điển Pāli Cốt Lõi",
+        "Quy Ước Dấu Pāli",
+        "Thuật Ngữ Nền",
+        "Tứ Thánh Đế Và Con Đường",
+        "Giải Phẫu Kinh Nghiệm",
+        "Nghiệp, Luân Hồi Và Giải Thoát",
+        "Thực Hành",
+        "Cách Dùng Từ Điển"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [
+        "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
+        "theravada/index.md"
+      ],
+      "words": 1248,
+      "summary": "**Đây là từ điển làm việc, không phải bảng thay từ một–một.** Một từ Pāli có thể đổi sắc thái theo văn cảnh. “Cách đọc gần đúng” chỉ giúp người Việt bắt đầu, không tự nhận là chuẩn phát âm duy nhất của mọi truyền thống Theravāda."
+    },
+    "theravada/index.md": {
+      "path": "theravada/index.md",
+      "title": "Theravāda Và Kinh Tạng Pāli",
+      "domain": "theravada",
+      "tags": [
+        "kinh-tang",
+        "pali",
+        "phat-giao",
+        "theravada"
+      ],
+      "aliases": [
+        "Kinh Tạng Pāli",
+        "Phật Giáo Nam Tông",
+        "Theravāda"
+      ],
+      "headings": [
+        "Theravāda Và Kinh Tạng Pāli",
+        "Bốn Tài Liệu Nền",
+        "Bắt Đầu Ở Đâu?",
+        "Tôi Chưa Biết Gì Về Phật Giáo",
+        "Tôi Muốn Hiểu Tâm Và Cái Tôi",
+        "Tôi Muốn Thực Hành",
+        "Tôi Muốn Học Chuyên Sâu",
+        "Bảy Học Phần",
+        "I. Cửa Vào Và Bản Đồ Nguồn — 4 bài",
+        "II. Xương Sống Giáo Pháp — 6 bài",
+        "III. Giải Phẫu Kinh Nghiệm Và Cái Tôi — 6 bài",
+        "IV. Duyên Khởi, Nghiệp Và Tái Sinh — 6 bài",
+        "V. Con Đường Thực Hành — 6 bài",
+        "VI. Vũ Trụ, Giác Ngộ Và Nibbāna — 4 bài",
+        "VII. Vi Diệu Pháp, Chú Giải Và Cầu Nối Hiện Đại — 4 bài",
+        "Kỷ Luật Xuất Xứ",
+        "Khoa Học Và Huyền Học",
+        "Quan Hệ Với Những Bài Đã Có Trong Vault",
+        "Trạng Thái"
+      ],
+      "wikilinks": [
+        "Atula",
+        "Chuẩn Nguồn Và Xuất Xứ Theravāda",
+        "Luân Hồi",
+        "Mục Lục Kinh Dẫn Pāli",
+        "Nhân Quả",
+        "Tiến Độ Chương Trình Theravāda",
+        "Tâm bất Biến",
+        "Từ Điển Pāli Cốt Lõi",
+        "Vũ Trụ Học Phật Giáo"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Atula.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Nhân Quả.md",
+        "esoterica/Vũ Trụ Học Phật Giáo.md",
+        "mental-models/Tâm bất Biến.md",
+        "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
+        "theravada/Mục Lục Kinh Dẫn Pāli.md",
+        "theravada/Tiến Độ Chương Trình Theravāda.md",
+        "theravada/Từ Điển Pāli Cốt Lõi.md"
+      ],
+      "backlinks": [
+        "esoterica/index.md",
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Esoterica & Consciousness.md"
+      ],
+      "words": 778,
+      "summary": "**Đây là một lộ trình học, không phải tuyển tập bài tâm linh rời rạc.** Người mới bắt đầu từ Đức Phật lịch sử, Tứ Thánh Đế và Bát Chánh Đạo; người đã có nền có thể đi sâu vào năm uẩn, duyên khởi, thiền, Vi Diệu Pháp, 31 cõi và Nibbāna."
     }
   }
 }

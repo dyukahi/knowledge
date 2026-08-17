@@ -47,6 +47,7 @@ Root onboarding sống ở [[Cách Đọc Red Pill Wiki]], đặc biệt [[Curre
 - [[Mental Model]] — model là công cụ, không phải reality.
 - [[Abilene Paradox - Nghịch Lý Đồng Thuận Giả|Nghịch Lý Abilene]] — khi đồng thuận công khai che giấu preference thật của từng người.
 - [[Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực]] — phân biệt lòng dân bền sâu, sự im lặng do sợ hãi và dư luận nhất thời bị dẫn dắt.
+- [[theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda|Chuẩn Nguồn Theravāda]] — case study thực hành về cách tách Kinh sớm, Vi Diệu Pháp, chú giải, diễn giải và đối chiếu khoa học.
 - [[Nhị Nguyên]] — thấy cách tâm trí bị kéo vào hai cực giả.
 
 Discernment không phải nghi ngờ mọi thứ. Discernment là biết mỗi claim đang nằm ở tầng nào.

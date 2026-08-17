@@ -47,6 +47,9 @@ jobs:
       - name: Apply redpill.wiki SEO patches
         run: node content/scripts/patch-quartz-seo.mjs quartz
 
+      - name: Validate Theravāda curriculum and sources
+        run: python3 content/scripts/validate-theravada-domain.py
+
       - name: Install Dependencies
         working-directory: ./quartz
         run: npm ci

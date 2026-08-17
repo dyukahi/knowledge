@@ -36,6 +36,7 @@ Các bài trong map này nên được đọc qua các tầng: direct experience
 3. [[Gnosis]] — direct knowing, sự nhớ lại không qua trung gian.
 4. [[Nhị Nguyên]] — cơ chế phân cực của cõi vật chất và tâm trí.
 5. [[Luân Hồi]] — vòng lặp linh hồn, school hoặc trap tùy tầng đọc.
+6. [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — đối chiếu lens huyền học với nguồn Pāli và provenance canonical.
 
 ---
 
@@ -102,6 +103,7 @@ Esoterica trong vault không phải để tin thêm một hệ niềm tin kỳ l
 
 ## Related
 
+- [[theravada/index|Theravāda Và Kinh Tạng Pāli]]
 - [[Sự Nhất Thể]]
 - [[Monad]]
 - [[Gnosis]]

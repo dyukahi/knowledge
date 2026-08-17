@@ -1,0 +1,765 @@
+{
+  "schema": "redpill.theravada.curriculum.v1",
+  "domain": "theravada",
+  "language": "vi",
+  "pali_unicode": true,
+  "gateway": "theravada/index.md",
+  "reference_documents": [
+    "theravada/Từ Điển Pāli Cốt Lõi.md",
+    "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
+    "theravada/Mục Lục Kinh Dẫn Pāli.md",
+    "theravada/Tiến Độ Chương Trình Theravāda.md"
+  ],
+  "modules": [
+    {
+      "id": 1,
+      "slug": "orientation",
+      "count": 4
+    },
+    {
+      "id": 2,
+      "slug": "core-doctrine",
+      "count": 6
+    },
+    {
+      "id": 3,
+      "slug": "experience-and-self",
+      "count": 6
+    },
+    {
+      "id": 4,
+      "slug": "dependent-origination-kamma-rebirth",
+      "count": 6
+    },
+    {
+      "id": 5,
+      "slug": "practice",
+      "count": 6
+    },
+    {
+      "id": 6,
+      "slug": "cosmology-awakening-nibbana",
+      "count": 4
+    },
+    {
+      "id": 7,
+      "slug": "abhidhamma-modern-bridges",
+      "count": 4
+    }
+  ],
+  "lessons": [
+    {
+      "lesson": 1,
+      "module": 1,
+      "module_slug": "orientation",
+      "canonical_role": "historical-buddha",
+      "title": "Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết",
+      "status": "source_anchor_identified",
+      "prerequisites": [],
+      "canonical_refs": [
+        "MN 26",
+        "MN 36",
+        "DN 16"
+      ],
+      "provenance": [
+        "early-sutta",
+        "historical-scholarship"
+      ]
+    },
+    {
+      "lesson": 2,
+      "module": 1,
+      "module_slug": "orientation",
+      "canonical_role": "theravada-history",
+      "title": "Theravāda Là Gì — Truyền Thừa, Phạm Vi Và Những Hiểu Lầm",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        1
+      ],
+      "canonical_refs": [
+        "DN 16",
+        "Vinaya Cullavagga"
+      ],
+      "provenance": [
+        "early-sutta",
+        "vinaya",
+        "historical-scholarship"
+      ]
+    },
+    {
+      "lesson": 3,
+      "module": 1,
+      "module_slug": "orientation",
+      "canonical_role": "pali-canon-map",
+      "title": "Tam Tạng Pāli — Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        2
+      ],
+      "canonical_refs": [
+        "Vinaya Piṭaka",
+        "Sutta Piṭaka",
+        "Abhidhamma Piṭaka"
+      ],
+      "provenance": [
+        "vinaya",
+        "early-sutta",
+        "abhidhamma",
+        "historical-scholarship"
+      ]
+    },
+    {
+      "lesson": 4,
+      "module": 1,
+      "module_slug": "orientation",
+      "canonical_role": "pali-reading-method",
+      "title": "Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        3
+      ],
+      "canonical_refs": [
+        "MN 22",
+        "MN 95",
+        "AN 3.65"
+      ],
+      "provenance": [
+        "early-sutta",
+        "historical-scholarship"
+      ]
+    },
+    {
+      "lesson": 5,
+      "module": 2,
+      "module_slug": "core-doctrine",
+      "canonical_role": "four-noble-truths",
+      "title": "Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        4
+      ],
+      "canonical_refs": [
+        "SN 56.11",
+        "MN 141"
+      ],
+      "provenance": [
+        "early-sutta"
+      ]
+    },
+    {
+      "lesson": 6,
+      "module": 2,
+      "module_slug": "core-doctrine",
+      "canonical_role": "dukkha",
+      "title": "Dukkha — Khổ Không Chỉ Là Đau Đớn",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        5
+      ],
+      "canonical_refs": [
+        "SN 56.11",
+        "SN 22.59"
+      ],
+      "provenance": [
+        "early-sutta",
+        "commentary"
+      ]
+    },
+    {
+      "lesson": 7,
+      "module": 2,
+      "module_slug": "core-doctrine",
+      "canonical_role": "craving-clinging-becoming",
+      "title": "Ái, Thủ Và Hữu — Cơ Chế Tự Nuôi Của Khổ",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        6
+      ],
+      "canonical_refs": [
+        "SN 12.2",
+        "DN 15"
+      ],
+      "provenance": [
+        "early-sutta"
+      ]
+    },
+    {
+      "lesson": 8,
+      "module": 2,
+      "module_slug": "core-doctrine",
+      "canonical_role": "noble-eightfold-path",
+      "title": "Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        5
+      ],
+      "canonical_refs": [
+        "SN 45.8",
+        "MN 117"
+      ],
+      "provenance": [
+        "early-sutta"
+      ]
+    },
+    {
+      "lesson": 9,
+      "module": 2,
+      "module_slug": "core-doctrine",
+      "canonical_role": "three-trainings-gradual-training",
+      "title": "Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        8
+      ],
+      "canonical_refs": [
+        "DN 2",
+        "MN 39",
+        "MN 107"
+      ],
+      "provenance": [
+        "early-sutta",
+        "vinaya"
+      ]
+    },
+    {
+      "lesson": 10,
+      "module": 2,
+      "module_slug": "core-doctrine",
+      "canonical_role": "middle-way",
+      "title": "Trung Đạo — Không Phải Thỏa Hiệp Ở Giữa",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        5
+      ],
+      "canonical_refs": [
+        "SN 56.11",
+        "SN 12.15"
+      ],
+      "provenance": [
+        "early-sutta"
+      ]
+    },
+    {
+      "lesson": 11,
+      "module": 3,
+      "module_slug": "experience-and-self",
+      "canonical_role": "five-aggregates",
+      "title": "Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        6
+      ],
+      "canonical_refs": [
+        "SN 22.59",
+        "SN 22.95"
+      ],
+      "provenance": [
+        "early-sutta"
+      ]
+    },
+    {
+      "lesson": 12,
+      "module": 3,
+      "module_slug": "experience-and-self",
+      "canonical_role": "six-sense-bases",
+      "title": "Sáu Căn Và Sáu Trần — Thế Giới Xuất Hiện Ở Đâu",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        11
+      ],
+      "canonical_refs": [
+        "SN 35.23",
+        "MN 148"
+      ],
+      "provenance": [
+        "early-sutta"
+      ]
+    },
+    {
+      "lesson": 13,
+      "module": 3,
+      "module_slug": "experience-and-self",
+      "canonical_role": "contact-feeling-craving",
+      "title": "Xúc → Thọ → Ái — Khoảnh Khắc Vòng Lặp Bắt Đầu",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        12
+      ],
+      "canonical_refs": [
+        "SN 12.2",
+        "MN 148"
+      ],
+      "provenance": [
+        "early-sutta"
+      ]
+    },
+    {
+      "lesson": 14,
+      "module": 3,
+      "module_slug": "experience-and-self",
+      "canonical_role": "consciousness-not-soul",
+      "title": "Viññāṇa — Thức Không Phải Linh Hồn",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        12
+      ],
+      "canonical_refs": [
+        "MN 38",
+        "SN 12.2",
+        "DN 15"
+      ],
+      "provenance": [
+        "early-sutta"
+      ]
+    },
+    {
+      "lesson": 15,
+      "module": 3,
+      "module_slug": "experience-and-self",
+      "canonical_role": "not-self",
+      "title": "Vô Ngã — Đức Phật Phủ Định Điều Gì?",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        11
+      ],
+      "canonical_refs": [
+        "SN 22.59",
+        "MN 2"
+      ],
+      "provenance": [
+        "early-sutta"
+      ]
+    },
+    {
+      "lesson": 16,
+      "module": 3,
+      "module_slug": "experience-and-self",
+      "canonical_role": "constructed-identity",
+      "title": "Bản Sắc Được Kiến Tạo — Tôi Sinh Lại Trong Từng Phản Ứng",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        11,
+        15
+      ],
+      "canonical_refs": [
+        "SN 22.1",
+        "MN 44"
+      ],
+      "provenance": [
+        "early-sutta",
+        "modern-theravada"
+      ]
+    },
+    {
+      "lesson": 17,
+      "module": 4,
+      "module_slug": "dependent-origination-kamma-rebirth",
+      "canonical_role": "dependent-origination-arising-cessation",
+      "title": "Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        7,
+        13
+      ],
+      "canonical_refs": [
+        "SN 12.20",
+        "SN 12.23",
+        "SN 12.2"
+      ],
+      "provenance": [
+        "early-sutta"
+      ]
+    },
+    {
+      "lesson": 18,
+      "module": 4,
+      "module_slug": "dependent-origination-kamma-rebirth",
+      "canonical_role": "twelve-links-interpretations",
+      "title": "Mười Hai Chi Duyên Khởi — Một Đời, Ba Đời Hay Từng Khoảnh Khắc?",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        17
+      ],
+      "canonical_refs": [
+        "SN 12.2",
+        "DN 15"
+      ],
+      "provenance": [
+        "early-sutta",
+        "commentary",
+        "historical-scholarship"
+      ]
+    },
+    {
+      "lesson": 19,
+      "module": 4,
+      "module_slug": "dependent-origination-kamma-rebirth",
+      "canonical_role": "kamma-as-intention",
+      "title": "Kamma — Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        17
+      ],
+      "canonical_refs": [
+        "AN 6.63",
+        "MN 135"
+      ],
+      "provenance": [
+        "early-sutta"
+      ]
+    },
+    {
+      "lesson": 20,
+      "module": 4,
+      "module_slug": "dependent-origination-kamma-rebirth",
+      "canonical_role": "rebirth-without-self",
+      "title": "Tái Sinh Mà Không Có Linh Hồn",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        14,
+        17,
+        19
+      ],
+      "canonical_refs": [
+        "MN 38",
+        "SN 12.2"
+      ],
+      "provenance": [
+        "early-sutta",
+        "abhidhamma",
+        "commentary"
+      ]
+    },
+    {
+      "lesson": 21,
+      "module": 4,
+      "module_slug": "dependent-origination-kamma-rebirth",
+      "canonical_role": "death-in-pali-suttas",
+      "title": "Những Gì Kinh Pāli Nói Về Cái Chết",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        19,
+        20
+      ],
+      "canonical_refs": [
+        "DN 16",
+        "MN 60",
+        "MN 130"
+      ],
+      "provenance": [
+        "early-sutta"
+      ]
+    },
+    {
+      "lesson": 22,
+      "module": 4,
+      "module_slug": "dependent-origination-kamma-rebirth",
+      "canonical_role": "samsara",
+      "title": "Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        17,
+        19,
+        20
+      ],
+      "canonical_refs": [
+        "SN 15.1",
+        "SN 15.3"
+      ],
+      "provenance": [
+        "early-sutta",
+        "comparative"
+      ]
+    },
+    {
+      "lesson": 23,
+      "module": 5,
+      "module_slug": "practice",
+      "canonical_role": "five-precepts",
+      "title": "Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        9
+      ],
+      "canonical_refs": [
+        "AN 8.39",
+        "DN 31"
+      ],
+      "provenance": [
+        "early-sutta",
+        "vinaya"
+      ]
+    },
+    {
+      "lesson": 24,
+      "module": 5,
+      "module_slug": "practice",
+      "canonical_role": "four-satipatthanas",
+      "title": "Tứ Niệm Xứ — Bốn Nền Tảng Của Chánh Niệm",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        12,
+        13,
+        23
+      ],
+      "canonical_refs": [
+        "MN 10",
+        "DN 22"
+      ],
+      "provenance": [
+        "early-sutta",
+        "commentary"
+      ]
+    },
+    {
+      "lesson": 25,
+      "module": 5,
+      "module_slug": "practice",
+      "canonical_role": "mindfulness-of-breathing",
+      "title": "Ānāpānasati — Toàn Bộ Con Đường Trong Một Hơi Thở",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        24
+      ],
+      "canonical_refs": [
+        "MN 118"
+      ],
+      "provenance": [
+        "early-sutta"
+      ]
+    },
+    {
+      "lesson": 26,
+      "module": 5,
+      "module_slug": "practice",
+      "canonical_role": "samatha-vipassana",
+      "title": "Chỉ Và Quán — Samatha Và Vipassanā Có Thật Sự Tách Đôi?",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        24,
+        25
+      ],
+      "canonical_refs": [
+        "AN 4.170",
+        "SN 35.204"
+      ],
+      "provenance": [
+        "early-sutta",
+        "commentary",
+        "modern-theravada"
+      ]
+    },
+    {
+      "lesson": 27,
+      "module": 5,
+      "module_slug": "practice",
+      "canonical_role": "four-jhanas",
+      "title": "Bốn Tầng Thiền — Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        9,
+        25
+      ],
+      "canonical_refs": [
+        "DN 2",
+        "MN 39",
+        "AN 5.28"
+      ],
+      "provenance": [
+        "early-sutta",
+        "commentary",
+        "modern-theravada"
+      ]
+    },
+    {
+      "lesson": 28,
+      "module": 5,
+      "module_slug": "practice",
+      "canonical_role": "four-brahmaviharas",
+      "title": "Bốn Tâm Vô Lượng Và Upekkhā",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        9,
+        24
+      ],
+      "canonical_refs": [
+        "DN 13",
+        "Sn 1.8",
+        "SN 46.54"
+      ],
+      "provenance": [
+        "early-sutta",
+        "commentary"
+      ]
+    },
+    {
+      "lesson": 29,
+      "module": 6,
+      "module_slug": "cosmology-awakening-nibbana",
+      "canonical_role": "thirty-one-realms",
+      "title": "Bản Đồ 31 Cõi — 11 Dục, 16 Sắc, 4 Vô Sắc",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        19,
+        20,
+        22
+      ],
+      "canonical_refs": [
+        "Vibhaṅga",
+        "multiple suttas"
+      ],
+      "provenance": [
+        "early-sutta",
+        "abhidhamma",
+        "commentary"
+      ]
+    },
+    {
+      "lesson": 30,
+      "module": 6,
+      "module_slug": "cosmology-awakening-nibbana",
+      "canonical_role": "devas-brahmas-asuras-lower-realms",
+      "title": "Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        29
+      ],
+      "canonical_refs": [
+        "MN 49",
+        "DN 11",
+        "SN 11",
+        "Petavatthu"
+      ],
+      "provenance": [
+        "early-sutta",
+        "abhidhamma",
+        "commentary"
+      ]
+    },
+    {
+      "lesson": 31,
+      "module": 6,
+      "module_slug": "cosmology-awakening-nibbana",
+      "canonical_role": "four-paths-fruits-ten-fetters",
+      "title": "Bốn Thánh Quả Và Mười Kiết Sử",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        8,
+        15,
+        17
+      ],
+      "canonical_refs": [
+        "SN 55",
+        "AN 10.13",
+        "AN 3.88"
+      ],
+      "provenance": [
+        "early-sutta",
+        "commentary"
+      ]
+    },
+    {
+      "lesson": 32,
+      "module": 6,
+      "module_slug": "cosmology-awakening-nibbana",
+      "canonical_role": "nibbana",
+      "title": "Nibbāna — Không Phải Cõi Thứ 32",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        5,
+        15,
+        17,
+        31
+      ],
+      "canonical_refs": [
+        "Ud 8.3",
+        "Iti 44",
+        "MN 26",
+        "SN 43"
+      ],
+      "provenance": [
+        "early-sutta",
+        "commentary",
+        "modern-theravada"
+      ]
+    },
+    {
+      "lesson": 33,
+      "module": 7,
+      "module_slug": "abhidhamma-modern-bridges",
+      "canonical_role": "abhidhamma-foundations",
+      "title": "Vi Diệu Pháp Nhập Môn — Tâm, Tâm Sở, Sắc, Nibbāna",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        3,
+        11,
+        17
+      ],
+      "canonical_refs": [
+        "Dhammasaṅgaṇī",
+        "Vibhaṅga"
+      ],
+      "provenance": [
+        "abhidhamma",
+        "historical-scholarship"
+      ]
+    },
+    {
+      "lesson": 34,
+      "module": 7,
+      "module_slug": "abhidhamma-modern-bridges",
+      "canonical_role": "citta-cetasika-mind-moments",
+      "title": "Tâm Sở Và Sát-na Tâm — Bản Đồ Vi Mô Của Kinh Nghiệm",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        33
+      ],
+      "canonical_refs": [
+        "Dhammasaṅgaṇī",
+        "Abhidhammattha-saṅgaha"
+      ],
+      "provenance": [
+        "abhidhamma",
+        "commentary"
+      ]
+    },
+    {
+      "lesson": 35,
+      "module": 7,
+      "module_slug": "abhidhamma-modern-bridges",
+      "canonical_role": "patthana-twenty-four-conditions",
+      "title": "Paṭṭhāna — Hai Mươi Bốn Duyên Và Mạng Điều Kiện",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        33,
+        34
+      ],
+      "canonical_refs": [
+        "Paṭṭhāna"
+      ],
+      "provenance": [
+        "abhidhamma",
+        "commentary"
+      ]
+    },
+    {
+      "lesson": 36,
+      "module": 7,
+      "module_slug": "abhidhamma-modern-bridges",
+      "canonical_role": "theravada-modern-science",
+      "title": "Theravāda Và Khoa Học Hiện Đại — Điểm Gặp, Giới Hạn Và Lối Tắt Sai",
+      "status": "source_anchor_identified",
+      "prerequisites": [
+        4,
+        15,
+        17,
+        33
+      ],
+      "canonical_refs": [],
+      "provenance": [
+        "science-comparison",
+        "historical-scholarship"
+      ]
+    }
+  ]
+}

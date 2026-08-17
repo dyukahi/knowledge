@@ -129,6 +129,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 
 - [[MOC - Epistemology & Propaganda]] — knowing, believing, forgetting and frame control.
 - [[MOC - Esoterica & Consciousness]] — Jung, archetype, unconscious and spiritual reading.
+- [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — nguồn canonical cho vô thường, vô ngã, duyên khởi, tâm và thực hành trước khi dùng chúng như mental model.
 - [[MOC - Financial Sovereignty]] — incentives, time preference and money psychology.
 - [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] → [[Giàu Không Phải Để Vợ Không Làm Gì]] → [[Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học]] → [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]] → [[Tình Nghĩa Là Hạ Tầng Cuối Cùng]] → [[Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam]] — con đường đọc sự rỗng hóa gia đình, ảo tưởng người chu cấp, an ninh tuổi già và chủ quyền.
 - [[politics-conspiracy/index|Politics & Conspiracy Gateway]] — mass psychology and governance.
