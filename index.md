@@ -39,14 +39,14 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | Domain | Count | Vai trò trong vault |
 |---|---:|---|
 | 🔮 **Esoterica** | 76 | metaphysics, occult, ancient civilizations, spiritual pattern |
-| ☸️ **Theravāda** | 5 | Kinh tạng Pāli, giáo lý, thực hành, Vi Diệu Pháp, provenance |
+| ☸️ **Theravāda** | 11 | Kinh tạng Pāli, giáo lý, thực hành, Vi Diệu Pháp, provenance |
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
 | 🧩 **Mental Models** | 44 | nhận thức, tâm lý học, framework để đọc reality |
 | 🏛️ **Politics & Conspiracy** | 27 | power structure, controlled narrative, geopolitics |
 | 🔬 **Science & Tech** | 20 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 243 notes / bài viết.
+**Total:** 250 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -339,6 +339,13 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### August 18, 2026
+
+- **[[theravada/01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết|Đức Phật Lịch Sử]]** và **[[theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm|Theravāda Là Gì]]** - mở Batch 1 bằng kỷ luật phân biệt lịch sử, ký ức tôn giáo và truyền thừa sống.
+- **[[theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp|Tam Tạng Pāli]]** và **[[theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều|Cách Đọc Kinh Pāli]]** - bản đồ nguồn cùng phương pháp đọc theo văn cảnh, Pāli, bản song song và provenance.
+- **[[theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường|Tứ Thánh Đế]]** và **[[theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống|Bát Chánh Đạo]]** - nền giáo pháp đủ dùng cho người mới, nhấn bốn nhiệm vụ và tám chi nâng đỡ nhau.
+- **Batch 1 media/source update** - 42 minh họa section-level đã qua filename-level QA, tối ưu WebP; source manifest lưu canonical links, Pāli root, scholarship, access date và license policy.
 
 ### August 17, 2026
 

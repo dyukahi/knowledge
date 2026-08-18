@@ -54,7 +54,7 @@
       "module_slug": "orientation",
       "canonical_role": "historical-buddha",
       "title": "Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [],
       "canonical_refs": [
         "MN 26",
@@ -64,7 +64,8 @@
       "provenance": [
         "early-sutta",
         "historical-scholarship"
-      ]
+      ],
+      "path": "theravada/01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết.md"
     },
     {
       "lesson": 2,
@@ -72,7 +73,7 @@
       "module_slug": "orientation",
       "canonical_role": "theravada-history",
       "title": "Theravāda Là Gì — Truyền Thừa, Phạm Vi Và Những Hiểu Lầm",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         1
       ],
@@ -84,7 +85,8 @@
         "early-sutta",
         "vinaya",
         "historical-scholarship"
-      ]
+      ],
+      "path": "theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md"
     },
     {
       "lesson": 3,
@@ -92,7 +94,7 @@
       "module_slug": "orientation",
       "canonical_role": "pali-canon-map",
       "title": "Tam Tạng Pāli — Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         2
       ],
@@ -106,7 +108,8 @@
         "early-sutta",
         "abhidhamma",
         "historical-scholarship"
-      ]
+      ],
+      "path": "theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp.md"
     },
     {
       "lesson": 4,
@@ -114,7 +117,7 @@
       "module_slug": "orientation",
       "canonical_role": "pali-reading-method",
       "title": "Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         3
       ],
@@ -126,7 +129,8 @@
       "provenance": [
         "early-sutta",
         "historical-scholarship"
-      ]
+      ],
+      "path": "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md"
     },
     {
       "lesson": 5,
@@ -134,7 +138,7 @@
       "module_slug": "core-doctrine",
       "canonical_role": "four-noble-truths",
       "title": "Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         4
       ],
@@ -144,7 +148,8 @@
       ],
       "provenance": [
         "early-sutta"
-      ]
+      ],
+      "path": "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md"
     },
     {
       "lesson": 6,
@@ -189,7 +194,7 @@
       "module_slug": "core-doctrine",
       "canonical_role": "noble-eightfold-path",
       "title": "Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         5
       ],
@@ -199,7 +204,8 @@
       ],
       "provenance": [
         "early-sutta"
-      ]
+      ],
+      "path": "theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống.md"
     },
     {
       "lesson": 9,

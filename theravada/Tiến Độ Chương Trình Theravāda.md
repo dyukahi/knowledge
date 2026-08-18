@@ -43,19 +43,19 @@ related:
 
 | # | Bài | Trạng thái |
 |---:|---|---|
-| 01 | Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết | Đã có nguồn neo |
-| 02 | Theravāda Là Gì — Truyền Thừa, Phạm Vi Và Những Hiểu Lầm | Đã có nguồn neo |
-| 03 | Tam Tạng Pāli — Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp | Đã có nguồn neo |
-| 04 | Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều | Đã có nguồn neo |
+| 01 | Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết | Đã xuất bản |
+| 02 | Theravāda Là Gì — Truyền Thừa, Phạm Vi Và Những Hiểu Lầm | Đã xuất bản |
+| 03 | Tam Tạng Pāli — Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp | Đã xuất bản |
+| 04 | Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều | Đã xuất bản |
 
 ## Học Phần II — Xương Sống Giáo Pháp
 
 | # | Bài | Trạng thái |
 |---:|---|---|
-| 05 | Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường | Đã có nguồn neo |
+| 05 | Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường | Đã xuất bản |
 | 06 | Dukkha — “Khổ” Không Chỉ Là Đau Đớn | Đã có nguồn neo |
 | 07 | Ái, Thủ Và Hữu — Cơ Chế Tự Nuôi Của Khổ | Đã có nguồn neo |
-| 08 | Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống | Đã có nguồn neo |
+| 08 | Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống | Đã xuất bản |
 | 09 | Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự | Đã có nguồn neo |
 | 10 | Trung Đạo — Không Phải Thỏa Hiệp Ở Giữa | Đã có nguồn neo |
 

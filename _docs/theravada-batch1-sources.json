@@ -1,0 +1,205 @@
+{
+  "schema": "redpill.theravada.batch-sources.v1",
+  "batch": 1,
+  "access_date": "2026-08-18",
+  "translation_policy": "Original Vietnamese synthesis; short working translations cross-checked against named translations; no long translation copied.",
+  "lessons": [
+    {
+      "lesson": 1,
+      "path": "theravada/01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết.md",
+      "canonical": [
+        "https://suttacentral.net/mn26",
+        "https://suttacentral.net/mn36",
+        "https://suttacentral.net/dn16"
+      ],
+      "pali_root": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn26_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn36_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn16_root-pli-ms.json"
+      ],
+      "scholarship": [
+        "Anālayo, A Comparative Study of the Majjhima-nikāya, 2011",
+        "Gombrich, What the Buddha Thought, 2009",
+        "Schopen, Bones, Stones, and Buddhist Monks, 1997"
+      ],
+      "license_checked": true,
+      "verification": "canonical URLs fetched 200 on 2026-08-18; Pāli root JSON fetched where available; external scholarship used as citation/reference only",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "suttacentral-sujato",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "allowed_use": "canonical links and scholarship citations; original Vietnamese synthesis; no long external translation copied"
+    },
+    {
+      "lesson": 2,
+      "path": "theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md",
+      "canonical": [
+        "https://suttacentral.net/dn16",
+        "https://suttacentral.net/pli-tv-kd21",
+        "https://suttacentral.net/pli-tv-kd22"
+      ],
+      "scholarship": [
+        "Cousins, The Dating of the Historical Buddha",
+        "Gombrich, Theravāda Buddhism",
+        "Skilling, Theravāda in History"
+      ],
+      "license_checked": true,
+      "pali_root": [
+        "https://suttacentral.net/pli-tv-kd21",
+        "https://suttacentral.net/pli-tv-kd22"
+      ],
+      "verification": "canonical URLs fetched 200 on 2026-08-18; Pāli root JSON fetched where available; external scholarship used as citation/reference only",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "suttacentral-sujato",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "allowed_use": "canonical links and scholarship citations; original Vietnamese synthesis; no long external translation copied"
+    },
+    {
+      "lesson": 3,
+      "path": "theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp.md",
+      "canonical": [
+        "https://suttacentral.net/pitaka/vinaya",
+        "https://suttacentral.net/pitaka/sutta",
+        "https://suttacentral.net/pitaka/abhidhamma",
+        "https://suttacentral.net/pli-tv-kd21",
+        "https://suttacentral.net/pli-tv-kd22"
+      ],
+      "scholarship": [
+        "von Hinüber, A Handbook of Pāli Literature, 1996",
+        "Gethin, The Foundations of Buddhism, 1998",
+        "Anālayo, The Historical Value of the Pāli Discourses, 2012",
+        "Cousins, Pāli Oral Literature"
+      ],
+      "license_checked": true,
+      "pali_root": [
+        "https://suttacentral.net/pli-tv-kd21",
+        "https://suttacentral.net/pli-tv-kd22"
+      ],
+      "verification": "canonical URLs fetched 200 on 2026-08-18; Pāli root JSON fetched where available; external scholarship used as citation/reference only",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "suttacentral-sujato",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "allowed_use": "canonical links and scholarship citations; original Vietnamese synthesis; no long external translation copied"
+    },
+    {
+      "lesson": 4,
+      "path": "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md",
+      "canonical": [
+        "https://suttacentral.net/mn22",
+        "https://suttacentral.net/mn95",
+        "https://suttacentral.net/an3.65"
+      ],
+      "pali_root": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/an/an3/an3.65_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn22_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn95_root-pli-ms.json"
+      ],
+      "scholarship": [
+        "Anālayo, A Comparative Study of the Majjhima-nikāya, 2011",
+        "Norman, A Philological Approach to Buddhism, 2006"
+      ],
+      "license_checked": true,
+      "verification": "canonical URLs fetched 200 on 2026-08-18; Pāli root JSON fetched where available; external scholarship used as citation/reference only",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "suttacentral-sujato",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "allowed_use": "canonical links and scholarship citations; original Vietnamese synthesis; no long external translation copied"
+    },
+    {
+      "lesson": 5,
+      "path": "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md",
+      "canonical": [
+        "https://suttacentral.net/sn56.11",
+        "https://suttacentral.net/mn141"
+      ],
+      "pali_root": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn141_root-pli-ms.json"
+      ],
+      "scholarship": [
+        "Gethin, The Foundations of Buddhism, 1998",
+        "Bodhi, The Noble Eightfold Path"
+      ],
+      "license_checked": true,
+      "verification": "canonical URLs fetched 200 on 2026-08-18; Pāli root JSON fetched where available; external scholarship used as citation/reference only",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "suttacentral-sujato",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "allowed_use": "canonical links and scholarship citations; original Vietnamese synthesis; no long external translation copied"
+    },
+    {
+      "lesson": 8,
+      "path": "theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống.md",
+      "canonical": [
+        "https://suttacentral.net/sn45.8",
+        "https://suttacentral.net/mn117",
+        "https://suttacentral.net/sn56.11"
+      ],
+      "pali_root": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn45/sn45.8_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn117_root-pli-ms.json"
+      ],
+      "scholarship": [
+        "Gethin, The Buddhist Path to Awakening, 2001",
+        "Bodhi, The Noble Eightfold Path"
+      ],
+      "license_checked": true,
+      "verification": "canonical URLs fetched 200 on 2026-08-18; Pāli root JSON fetched where available; external scholarship used as citation/reference only",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "suttacentral-sujato",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "allowed_use": "canonical links and scholarship citations; original Vietnamese synthesis; no long external translation copied"
+    }
+  ],
+  "source_editions": [
+    {
+      "id": "bilara-pali-ms",
+      "edition": "Mahāsaṅgīti Pāli root segmented in Bilara Data",
+      "translator": null,
+      "license_status": "public_domain_root_text; repository terms checked per source manifest",
+      "allowed_use": "canonical verification and short Pāli quotation",
+      "url": "https://github.com/suttacentral/bilara-data"
+    },
+    {
+      "id": "suttacentral-sujato",
+      "edition": "SuttaCentral English translations, exact discourse page",
+      "translator": "Bhikkhu Sujato",
+      "license_status": "per-page hosted license; consulted only, no long quotation",
+      "allowed_use": "cross-check meaning; cite link; original Vietnamese paraphrase",
+      "url": "https://suttacentral.net/editions"
+    },
+    {
+      "id": "bodhi-reference",
+      "edition": "Named books/discourse translations cited bibliographically",
+      "translator": "Bhikkhu Bodhi",
+      "license_status": "copyrighted/reference-only unless specific web edition permits reading",
+      "allowed_use": "terminology cross-check and bibliography; no copied passage",
+      "url": "https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html"
+    },
+    {
+      "id": "thanissaro-reference",
+      "edition": "Named discourse translations consulted as comparison",
+      "translator": "Ṭhānissaro Bhikkhu",
+      "license_status": "per-work free-distribution terms; no long quotation used",
+      "allowed_use": "cross-check only",
+      "url": "https://www.dhammatalks.org/suttas/"
+    }
+  ]
+}

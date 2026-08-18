@@ -1,0 +1,472 @@
+{
+  "schema": "redpill.theravada.batch1-image-qa.v1",
+  "count": 42,
+  "passed": 42,
+  "rejected": 0,
+  "contact_sheets": 3,
+  "visual_reviews": "three filename groups + labeled full contact sheets + final five blockers",
+  "images": [
+    {
+      "file": "theravada-01-ba-cua-so-kinh.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-01-ban-do-thuc-hanh.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-01-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-01-cac-lop-van-ban.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-01-cau-hoi-giai-thoat.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-01-hai-chan-dung.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-01-phuong-phap-su-hoc.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-02-an-do-sri-lanka.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-02-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-02-hoi-nghi-truyen-khau.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-02-nam-lop-truyen-thong.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-02-pali-ngon-ngu-kinh-dien.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-02-ranh-gioi-khai-niem.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-02-truyen-thong-song.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-03-ba-tang.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-03-bay-bo-abhidhamma.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-03-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-03-doc-theo-tang.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-03-luat-tang.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-03-nam-nikaya.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-03-tu-tung-doc-den-la-boi.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-04-ban-doc-co-van-canh.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-04-bay-cau-hoi.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-04-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-04-cac-bac-tham-tra.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-04-kesaputta.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-04-quy-trinh-doc.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-04-ran-va-be.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-05-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-05-bon-nhiem-vu.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-05-dukkha.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-05-magga.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-05-nhat-ky-bon-de.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-05-nirodha.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-05-tanha.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-08-ban-do-tinh-huong.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-08-banh-xe-tam-chi.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-08-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-08-dinh.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-08-gioi.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-08-mn117-he-thong.webp",
+      "status": "passed",
+      "regenerated": true,
+      "reason": "regenerated after filename/contact-sheet QA for fake text, misleading historical framing, unsafe/mystical or repetitive composition",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-08-tue.webp",
+      "status": "passed",
+      "regenerated": false,
+      "reason": "passed initial filename-level visual QA",
+      "mechanical_decode": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    }
+  ]
+}

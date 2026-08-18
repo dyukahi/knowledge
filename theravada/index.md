@@ -33,6 +33,19 @@ Bốn tài liệu này không tính vào 36 bài học chính.
 
 ---
 
+## Batch 1 — Đã Xuất Bản
+
+1. [[01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết]]
+2. [[02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm]]
+3. [[03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp]]
+4. [[04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều]]
+5. [[05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]]
+6. [[08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống]]
+
+Hai bài 05 và 08 thuộc Học phần II nhưng được đưa vào Batch 1 để người mới có một nền giáo pháp đủ dùng ngay sau phần phương pháp đọc.
+
+---
+
 ## Bắt Đầu Ở Đâu?
 
 ### Tôi Chưa Biết Gì Về Phật Giáo

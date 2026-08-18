@@ -115,6 +115,22 @@ Không bỏ dấu trong tiêu đề bài khi thuật ngữ là đối tượng n
 
 ---
 
+## Bổ Sung Từ Batch 1
+
+| Pāli | Đọc gần đúng | Nghĩa làm việc | Ghi chú văn cảnh |
+|---|---|---|---|
+| ariyasacca | a-ri-ya-xát-cha | sự thật cao quý; sự thật của bậc Thánh | Giữ nhiều khả năng ngữ pháp, không chốt etymology quá mức. |
+| taṇhā | tan-ha | ái; cơn khát | Dục ái, hữu ái, phi hữu ái. |
+| pariyatti | pa-ri-yát-ti | học hiểu giáo pháp qua văn bản | Cách dùng hệ thống rõ trong truyền thống hậu kỳ. |
+| yoniso manasikāra | yô-ni-xô ma-na-xi-ca-ra | tác ý có căn nguyên | Chú ý đến nguồn, điều kiện và cách sinh của pháp. |
+| kusala | cu-sa-la | thiện; khéo; có lợi cho giải thoát | Không hoàn toàn trùng “tốt” theo thị hiếu. |
+| akusala | a-cu-sa-la | bất thiện; không khéo | Liên hệ tham, sân, si và hậu quả hại. |
+| nekkhamma | néc-kham-ma | xuất ly | Không đồng nghĩa ghét bỏ mọi niềm vui. |
+| saṅkappa | sang-cắp-pa | ý hướng; tư duy định hướng | Trong Bát Đạo gồm xuất ly, không sân, không hại. |
+| parinibbāna | pa-ri-níp-ba-na | Niết-bàn hoàn toàn khi bậc giải thoát qua đời | Không mô tả như một nơi chốn sau chết. |
+
+---
+
 ## Cách Dùng Từ Điển
 
 - Không sao chép nghĩa ở đây mà bỏ văn cảnh của bài kinh.

@@ -78,13 +78,12 @@ def frontmatter_value(text: str, name: str) -> str:
 def validate_foundation_docs() -> None:
     expected_files = {ROOT / "theravada" / "index.md", *(ROOT / path for path in REFERENCE_DOCUMENTS)}
     actual_files = set(DOMAIN.glob("*.md"))
-    if actual_files != expected_files:
-        unexpected = sorted(str(path.relative_to(ROOT)) for path in actual_files - expected_files)
-        missing = sorted(str(path.relative_to(ROOT)) for path in expected_files - actual_files)
-        fail(f"Batch 0 Theravāda files mismatch; missing={missing}, unexpected={unexpected}")
+    missing = sorted(str(path.relative_to(ROOT)) for path in expected_files - actual_files)
+    if missing:
+        fail(f"Theravāda foundation files missing: {missing}")
 
     titles: set[str] = set()
-    for path in sorted(expected_files):
+    for path in sorted(actual_files):
         text = path.read_text(encoding="utf-8")
         title = frontmatter_value(text, "title")
         description = frontmatter_value(text, "description")
@@ -170,6 +169,53 @@ def validate_curriculum() -> dict:
     return data
 
 
+def validate_published_lessons(curriculum: dict) -> None:
+    published = [row for row in curriculum["lessons"] if row.get("status") == "published"]
+    expected_paths = {ROOT / row["path"] for row in published}
+    foundation = {ROOT / "theravada" / "index.md", *(ROOT / path for path in REFERENCE_DOCUMENTS)}
+    actual_paths = set(DOMAIN.glob("*.md"))
+    if actual_paths != foundation | expected_paths:
+        fail("Theravāda public file set does not match foundation plus published curriculum")
+    batch_sources = load_json(ROOT / "_docs" / "theravada-batch1-sources.json")
+    if not isinstance(batch_sources.get("translation_policy"), str) or not batch_sources["translation_policy"]:
+        fail("Batch 1 translation policy missing")
+    editions = {row["id"]: row for row in batch_sources.get("source_editions", [])}
+    if not editions:
+        fail("Batch 1 source editions missing")
+    for source_id, source in editions.items():
+        for key in ("edition", "license_status", "allowed_use", "url"):
+            if not isinstance(source.get(key), str) or not source[key]:
+                fail(f"Batch 1 source edition {source_id} missing {key}")
+    source_rows = {row["lesson"]: row for row in batch_sources.get("lessons", [])}
+    for row in published:
+        path = ROOT / row["path"]
+        text = path.read_text(encoding="utf-8")
+        if frontmatter_value(text, "lesson") != str(row["lesson"]):
+            fail(f"lesson number mismatch: {path.relative_to(ROOT)}")
+        if frontmatter_value(text, "module") != str(row["module"]):
+            fail(f"lesson module mismatch: {path.relative_to(ROOT)}")
+        if frontmatter_value(text, "canonical_role") != row["canonical_role"]:
+            fail(f"canonical role mismatch: {path.relative_to(ROOT)}")
+        if frontmatter_value(text, "source_license_checked") != "true":
+            fail(f"source license not checked: {path.relative_to(ROOT)}")
+        source = source_rows.get(row["lesson"])
+        if not source or source.get("license_checked") is not True:
+            fail(f"source manifest missing licensed lesson {row['lesson']}")
+        if not source.get("canonical") or not source.get("verification") or not source.get("allowed_use"):
+            fail(f"source verification incomplete for lesson {row['lesson']}")
+        translation_sources = source.get("translation_sources") or []
+        if not translation_sources or any(source_id not in editions for source_id in translation_sources):
+            fail(f"translation source edition missing for lesson {row['lesson']}")
+        if "<!-- ILLUSTRATION:" in text:
+            fail(f"unresolved image placeholder: {path.relative_to(ROOT)}")
+        refs = re.findall(r"\.\./assets/illustrations/theravada-batch1/([^)]+\.webp)", text)
+        if len(refs) != 7 or len(set(refs)) != 7:
+            fail(f"lesson must embed seven unique images: {path.relative_to(ROOT)}")
+        for ref in refs:
+            if not (ROOT / "assets" / "illustrations" / "theravada-batch1" / ref).is_file():
+                fail(f"missing lesson image: {ref}")
+
+
 def validate_pali() -> None:
     glossary = (DOMAIN / "Từ Điển Pāli Cốt Lõi.md").read_text(encoding="utf-8")
     missing = sorted(term for term in REQUIRED_PALI_TERMS if term not in glossary)
@@ -210,6 +256,7 @@ def validate_licenses() -> None:
 def main() -> int:
     validate_foundation_docs()
     curriculum = validate_curriculum()
+    validate_published_lessons(curriculum)
     validate_pali()
     validate_licenses()
     print(json.dumps({
@@ -219,6 +266,7 @@ def main() -> int:
         "modules": len(curriculum["modules"]),
         "lessons": len(curriculum["lessons"]),
         "module_counts": [row["count"] for row in curriculum["modules"]],
+        "published_lessons": sum(row.get("status") == "published" for row in curriculum["lessons"]),
         "source_entries": len(load_json(LICENSE_PATH)["sources"]),
     }, ensure_ascii=False))
     return 0
