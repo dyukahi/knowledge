@@ -1,13 +1,13 @@
 {
   "summary": {
-    "public_notes": 235,
-    "avg_words": 1780,
+    "public_notes": 245,
+    "avg_words": 1839,
     "missing_description": 0,
     "missing_aliases": 22,
     "thin_lt800": 25,
     "duplicate_titles": 0,
     "mobile_hostile_code": 2,
-    "horizontal_chain": 25,
+    "horizontal_chain": 27,
     "textblock_candidates": 33,
     "broken_links": 0,
     "orphans_public": 2
@@ -161,6 +161,8 @@
       "esoterica/Kỹ Thuật Thiền Định Kogi.md",
       "esoterica/Một Đời Phù Vân.md",
       "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+      "theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu.md",
+      "theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn.md",
       "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
       "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
       "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
@@ -242,8 +244,8 @@
       {
         "path": "theravada/index.md",
         "short": 15,
-        "paragraphs": 26,
-        "ratio": 0.577
+        "paragraphs": 28,
+        "ratio": 0.536
       },
       {
         "path": "health/Thuốc Hóa Dầu.md",

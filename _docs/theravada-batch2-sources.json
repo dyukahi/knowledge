@@ -1,0 +1,1329 @@
+{
+  "schema": "redpill.theravada.batch-sources.v1",
+  "batch": 2,
+  "access_date": "2026-08-18",
+  "translation_policy": "Original Vietnamese synthesis; Pāli root verified through Bilara/SuttaCentral; translations consulted only for comparison and not copied at length.",
+  "source_editions": [
+    {
+      "id": "bilara-pali-ms",
+      "edition": "Mahāsaṅgīti segmented Pāli root",
+      "translator": null,
+      "license_status": "public-domain root text; repository terms checked",
+      "allowed_use": "canonical verification and short Pāli quotation",
+      "url": "https://github.com/suttacentral/bilara-data"
+    },
+    {
+      "id": "sujato-reference",
+      "edition": "SuttaCentral English discourse translations",
+      "translator": "Bhikkhu Sujato",
+      "license_status": "per-page hosted license; consulted only",
+      "allowed_use": "meaning cross-check and link citation",
+      "url": "https://suttacentral.net/editions"
+    },
+    {
+      "id": "bodhi-reference",
+      "edition": "Named Nikāya translations and studies",
+      "translator": "Bhikkhu Bodhi",
+      "license_status": "copyrighted/reference-only unless specific web edition",
+      "allowed_use": "terminology cross-check and bibliography",
+      "url": "https://www.accesstoinsight.org/lib/authors/bodhi/"
+    },
+    {
+      "id": "thanissaro-reference",
+      "edition": "Named discourse translations",
+      "translator": "Ṭhānissaro Bhikkhu",
+      "license_status": "per-work free-distribution terms; no long quotation",
+      "allowed_use": "cross-check only",
+      "url": "https://www.dhammatalks.org/suttas/"
+    }
+  ],
+  "lessons": [
+    {
+      "lesson": 6,
+      "canonical": [
+        "https://suttacentral.net/sn56.11",
+        "https://suttacentral.net/sn22.59"
+      ],
+      "root_urls": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json"
+      ],
+      "license_checked": true,
+      "verification": "2/2 root URLs fetched HTTP 200 on 2026-08-18; 38 relevant segments identified; external translations cross-check only",
+      "allowed_use": "Original Vietnamese prose; short working translation; external scholarship citation/reference only.",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "sujato-reference",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "verified_segments": [
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:2.3",
+          "pali_excerpt": "Yo cāyaṁ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṁhito, yo cāyaṁ attakilamathānuyogo dukkho anariyo anatthasaṁhito."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:4.1",
+          "pali_excerpt": "Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ—"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:4.2",
+          "pali_excerpt": "jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṁ, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṁ na labhati tampi dukkhaṁ—saṅkhittena pañcupādānakkh"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:4.3",
+          "pali_excerpt": "Idaṁ kho pana, bhikkhave, dukkhasamudayaṁ ariyasaccaṁ—"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:4.6",
+          "pali_excerpt": "Idaṁ kho pana, bhikkhave, dukkhanirodhaṁ ariyasaccaṁ—"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:4.8",
+          "pali_excerpt": "Idaṁ kho pana, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṁ—"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:5.1",
+          "pali_excerpt": "‘Idaṁ dukkhaṁ ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:5.2",
+          "pali_excerpt": "‘Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti me, bhikkhave, pubbe …pe… udapādi."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:5.3",
+          "pali_excerpt": "‘Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññātan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:6.1",
+          "pali_excerpt": "‘Idaṁ dukkhasamudayaṁ ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:6.2",
+          "pali_excerpt": "‘Taṁ kho panidaṁ dukkhasamudayaṁ ariyasaccaṁ pahātabban’ti me, bhikkhave, pubbe …pe… udapādi."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:6.3",
+          "pali_excerpt": "‘Taṁ kho panidaṁ dukkhasamudayaṁ ariyasaccaṁ pahīnan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:7.1",
+          "pali_excerpt": "‘Idaṁ dukkhanirodhaṁ ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:7.2",
+          "pali_excerpt": "‘Taṁ kho panidaṁ dukkhanirodhaṁ ariyasaccaṁ sacchikātabban’ti me, bhikkhave, pubbe …pe… udapādi."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:7.3",
+          "pali_excerpt": "‘Taṁ kho panidaṁ dukkhanirodhaṁ ariyasaccaṁ sacchikatan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:8.1",
+          "pali_excerpt": "‘Idaṁ dukkhanirodhagāminī paṭipadā ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:8.2",
+          "pali_excerpt": "‘Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabban’ti me, bhikkhave, pubbe …pe… udapādi."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:8.3",
+          "pali_excerpt": "‘Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvitan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:0.3",
+          "pali_excerpt": "Anattalakkhaṇasutta"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:2.1",
+          "pali_excerpt": "“Rūpaṁ, bhikkhave, anattā."
+        }
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "First truth includes birth-aging-illness-death and five clinging aggregates",
+          "discourse": "SN 56.11",
+          "segments": [
+            "sn56.11:4.1",
+            "sn56.11:4.2"
+          ]
+        },
+        {
+          "claim": "Task for dukkha is full understanding",
+          "discourse": "SN 56.11",
+          "segments": [
+            "sn56.11:5.2"
+          ]
+        },
+        {
+          "claim": "Aggregates are not-self/not under command",
+          "discourse": "SN 22.59",
+          "segments": [
+            "sn22.59:2.1",
+            "sn22.59:2.4",
+            "sn22.59:3.1"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "canonical": [
+        "https://suttacentral.net/sn12.2",
+        "https://suttacentral.net/dn15",
+        "https://suttacentral.net/mn148"
+      ],
+      "root_urls": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json"
+      ],
+      "license_checked": true,
+      "verification": "3/3 root URLs fetched HTTP 200 on 2026-08-18; 59 relevant segments identified; external translations cross-check only",
+      "allowed_use": "Original Vietnamese prose; short working translation; external scholarship citation/reference only.",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "sujato-reference",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "verified_segments": [
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "segment": "sn12.2:2.8",
+          "pali_excerpt": "vedanāpaccayā taṇhā;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "segment": "sn12.2:2.9",
+          "pali_excerpt": "taṇhāpaccayā upādānaṁ;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "segment": "sn12.2:2.10",
+          "pali_excerpt": "upādānapaccayā bhavo;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "segment": "sn12.2:2.11",
+          "pali_excerpt": "bhavapaccayā jāti;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "segment": "sn12.2:2.12",
+          "pali_excerpt": "jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "segment": "sn12.2:6.1",
+          "pali_excerpt": "Katamañca, bhikkhave, upādānaṁ?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "segment": "sn12.2:6.3",
+          "pali_excerpt": "kāmupādānaṁ, diṭṭhupādānaṁ, sīlabbatupādānaṁ, attavādupādānaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "segment": "sn12.2:6.4",
+          "pali_excerpt": "Idaṁ vuccati, bhikkhave, upādānaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "segment": "sn12.2:7.1",
+          "pali_excerpt": "Katamā ca, bhikkhave, taṇhā?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "segment": "sn12.2:7.2",
+          "pali_excerpt": "Chayime, bhikkhave, taṇhākāyā—"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "segment": "sn12.2:7.3",
+          "pali_excerpt": "rūpataṇhā, saddataṇhā, gandhataṇhā, rasataṇhā, phoṭṭhabbataṇhā, dhammataṇhā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+          "segment": "sn12.2:7.4",
+          "pali_excerpt": "Ayaṁ vuccati, bhikkhave, taṇhā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+          "segment": "dn15:2.4",
+          "pali_excerpt": "‘Kiṁpaccayā jātī’ti iti ce vadeyya, ‘bhavapaccayā jātī’ti iccassa vacanīyaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+          "segment": "dn15:2.6",
+          "pali_excerpt": "‘Kiṁpaccayā bhavo’ti iti ce vadeyya, ‘upādānapaccayā bhavo’ti iccassa vacanīyaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+          "segment": "dn15:2.7",
+          "pali_excerpt": "‘Atthi idappaccayā upādānan’ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+          "segment": "dn15:2.8",
+          "pali_excerpt": "‘Kiṁpaccayā upādānan’ti iti ce vadeyya, ‘taṇhāpaccayā upādānan’ti iccassa vacanīyaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+          "segment": "dn15:2.9",
+          "pali_excerpt": "‘Atthi idappaccayā taṇhā’ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+          "segment": "dn15:2.10",
+          "pali_excerpt": "‘Kiṁpaccayā taṇhā’ti iti ce vadeyya, ‘vedanāpaccayā taṇhā’ti iccassa vacanīyaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+          "segment": "dn15:3.1",
+          "pali_excerpt": "Iti kho, ānanda, nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo,"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+          "segment": "dn15:5.1",
+          "pali_excerpt": "‘Bhavapaccayā jātī’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā bhavapaccayā jāti."
+        }
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "Feeling conditions craving, craving clinging, clinging becoming",
+          "discourse": "SN 12.2",
+          "segments": [
+            "sn12.2:2.8",
+            "sn12.2:2.9",
+            "sn12.2:2.10"
+          ]
+        },
+        {
+          "claim": "Four forms of clinging are distinguished",
+          "discourse": "SN 12.2",
+          "segments": [
+            "sn12.2:6.1",
+            "sn12.2:6.3"
+          ]
+        },
+        {
+          "claim": "Sense contact and feeling provide experiential context",
+          "discourse": "MN 148",
+          "segments": [
+            "mn148:8.3",
+            "mn148:8.4"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "canonical": [
+        "https://suttacentral.net/dn2",
+        "https://suttacentral.net/mn39",
+        "https://suttacentral.net/mn107"
+      ],
+      "root_urls": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn39_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn107_root-pli-ms.json"
+      ],
+      "license_checked": true,
+      "verification": "3/3 root URLs fetched HTTP 200 on 2026-08-18; 66 relevant segments identified; external translations cross-check only",
+      "allowed_use": "Original Vietnamese prose; short working translation; external scholarship citation/reference only.",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "sujato-reference",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "verified_segments": [
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:20.7",
+          "pali_excerpt": "Cuddasa kho panimāni yonipamukhasatasahassāni saṭṭhi ca satāni cha ca satāni pañca ca kammuno satāni pañca ca kammāni tīṇi ca kammāni kamme ca aḍḍhakamme ca dvaṭṭhipaṭipadā dvaṭṭha"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:42.1",
+          "pali_excerpt": "So evaṁ pabbajito samāno pātimokkhasaṁvarasaṁvuto viharati ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato ku"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:43.0.1",
+          "pali_excerpt": "4.3.1. Sīla"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:43.0.2",
+          "pali_excerpt": "4.3.1.1. Cūḷasīla"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:43.1",
+          "pali_excerpt": "Kathañca, mahārāja, bhikkhu sīlasampanno hoti?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:43.3",
+          "pali_excerpt": "Idampissa hoti sīlasmiṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:43.5",
+          "pali_excerpt": "Idampissa hoti sīlasmiṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:43.7",
+          "pali_excerpt": "Idampissa hoti sīlasmiṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:44.2",
+          "pali_excerpt": "Idampissa hoti sīlasmiṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:44.4",
+          "pali_excerpt": "Idampissa hoti sīlasmiṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:44.6",
+          "pali_excerpt": "Idampissa hoti sīlasmiṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:44.8",
+          "pali_excerpt": "Idampissa hoti sīlasmiṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:45.20",
+          "pali_excerpt": "Idampissa hoti sīlasmiṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:45.21",
+          "pali_excerpt": "Cūḷasīlaṁ niṭṭhitaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:46.0",
+          "pali_excerpt": "4.3.1.2. Majjhimasīla"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:46.3",
+          "pali_excerpt": "Idampissa hoti sīlasmiṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:47.4",
+          "pali_excerpt": "Idampissa hoti sīlasmiṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:48.4",
+          "pali_excerpt": "Idampissa hoti sīlasmiṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:49.4",
+          "pali_excerpt": "Idampissa hoti sīlasmiṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn2_root-pli-ms.json",
+          "segment": "dn2:50.4",
+          "pali_excerpt": "Idampissa hoti sīlasmiṁ."
+        }
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "Gradual training begins with discipline and training rules",
+          "discourse": "DN 2",
+          "segments": [
+            "dn2:42.1",
+            "dn2:43.1"
+          ]
+        },
+        {
+          "claim": "Jhāna appears after preparatory training",
+          "discourse": "DN 2",
+          "segments": [
+            "dn2:43.1"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "canonical": [
+        "https://suttacentral.net/sn56.11",
+        "https://suttacentral.net/sn12.15"
+      ],
+      "root_urls": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.15_root-pli-ms.json"
+      ],
+      "license_checked": true,
+      "verification": "2/2 root URLs fetched HTTP 200 on 2026-08-18; 5 relevant segments identified; external translations cross-check only",
+      "allowed_use": "Original Vietnamese prose; short working translation; external scholarship citation/reference only.",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "sujato-reference",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "verified_segments": [
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:2.4",
+          "pali_excerpt": "Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:3.1",
+          "pali_excerpt": "Katamā ca sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn56/sn56.11_root-pli-ms.json",
+          "segment": "sn56.11:3.4",
+          "pali_excerpt": "Ayaṁ kho sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.15_root-pli-ms.json",
+          "segment": "sn12.15:2.2",
+          "pali_excerpt": "Lokasamudayaṁ kho, kaccāna, yathābhūtaṁ sammappaññāya passato yā loke natthitā sā na hoti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.15_root-pli-ms.json",
+          "segment": "sn12.15:2.3",
+          "pali_excerpt": "Lokanirodhaṁ kho, kaccāna, yathābhūtaṁ sammappaññāya passato yā loke atthitā sā na hoti."
+        }
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "Middle way avoids sensual indulgence and self-mortification",
+          "discourse": "SN 56.11",
+          "segments": [
+            "sn56.11:2.3",
+            "sn56.11:2.4"
+          ]
+        },
+        {
+          "claim": "Dependent arising avoids existence/non-existence extremes",
+          "discourse": "SN 12.15",
+          "segments": [
+            "sn12.15:2.2",
+            "sn12.15:2.3"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "canonical": [
+        "https://suttacentral.net/sn22.59",
+        "https://suttacentral.net/sn22.95"
+      ],
+      "root_urls": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.95_root-pli-ms.json"
+      ],
+      "license_checked": true,
+      "verification": "2/2 root URLs fetched HTTP 200 on 2026-08-18; 45 relevant segments identified; external translations cross-check only",
+      "allowed_use": "Original Vietnamese prose; short working translation; external scholarship citation/reference only.",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "sujato-reference",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "verified_segments": [
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:2.1",
+          "pali_excerpt": "“Rūpaṁ, bhikkhave, anattā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:2.2",
+          "pali_excerpt": "Rūpañca hidaṁ, bhikkhave, attā abhavissa, nayidaṁ rūpaṁ ābādhāya saṁvatteyya, labbhetha ca rūpe:"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:2.3",
+          "pali_excerpt": "‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:2.4",
+          "pali_excerpt": "Yasmā ca kho, bhikkhave, rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati, na ca labbhati rūpe:"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:2.5",
+          "pali_excerpt": "‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:3.1",
+          "pali_excerpt": "Vedanā anattā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:3.2",
+          "pali_excerpt": "Vedanā ca hidaṁ, bhikkhave, attā abhavissa, nayidaṁ vedanā ābādhāya saṁvatteyya, labbhetha ca vedanāya:"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:3.3",
+          "pali_excerpt": "‘evaṁ me vedanā hotu, evaṁ me vedanā mā ahosī’ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:3.4",
+          "pali_excerpt": "Yasmā ca kho, bhikkhave, vedanā anattā, tasmā vedanā ābādhāya saṁvattati, na ca labbhati vedanāya:"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:3.5",
+          "pali_excerpt": "‘evaṁ me vedanā hotu, evaṁ me vedanā mā ahosī’ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:4.1",
+          "pali_excerpt": "Saññā anattā …pe…"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:4.2",
+          "pali_excerpt": "saṅkhārā anattā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:4.3",
+          "pali_excerpt": "Saṅkhārā ca hidaṁ, bhikkhave, attā abhavissaṁsu, nayidaṁ saṅkhārā ābādhāya saṁvatteyyuṁ, labbhetha ca saṅkhāresu:"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:4.4",
+          "pali_excerpt": "‘evaṁ me saṅkhārā hontu, evaṁ me saṅkhārā mā ahesun’ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:4.5",
+          "pali_excerpt": "Yasmā ca kho, bhikkhave, saṅkhārā anattā, tasmā saṅkhārā ābādhāya saṁvattanti, na ca labbhati saṅkhāresu:"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:4.6",
+          "pali_excerpt": "‘evaṁ me saṅkhārā hontu, evaṁ me saṅkhārā mā ahesun’ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:5.1",
+          "pali_excerpt": "Viññāṇaṁ anattā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:5.2",
+          "pali_excerpt": "Viññāṇañca hidaṁ, bhikkhave, attā abhavissa, nayidaṁ viññāṇaṁ ābādhāya saṁvatteyya, labbhetha ca viññāṇe:"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:5.3",
+          "pali_excerpt": "‘evaṁ me viññāṇaṁ hotu, evaṁ me viññāṇaṁ mā ahosī’ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:5.4",
+          "pali_excerpt": "Yasmā ca kho, bhikkhave, viññāṇaṁ anattā, tasmā viññāṇaṁ ābādhāya saṁvattati, na ca labbhati viññāṇe:"
+        }
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "Each aggregate is analyzed as not-self",
+          "discourse": "SN 22.59",
+          "segments": [
+            "sn22.59:2.1",
+            "sn22.59:3.1",
+            "sn22.59:4.1",
+            "sn22.59:4.2"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "canonical": [
+        "https://suttacentral.net/sn35.23",
+        "https://suttacentral.net/mn148"
+      ],
+      "root_urls": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn35/sn35.23_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json"
+      ],
+      "license_checked": true,
+      "verification": "2/2 root URLs fetched HTTP 200 on 2026-08-18; 37 relevant segments identified; external translations cross-check only",
+      "allowed_use": "Original Vietnamese prose; short working translation; external scholarship citation/reference only.",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "sujato-reference",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "verified_segments": [
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn35/sn35.23_root-pli-ms.json",
+          "segment": "sn35.23:0.2",
+          "pali_excerpt": "3. Sabbavagga"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn35/sn35.23_root-pli-ms.json",
+          "segment": "sn35.23:0.3",
+          "pali_excerpt": "Sabbasutta"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn35/sn35.23_root-pli-ms.json",
+          "segment": "sn35.23:1.2",
+          "pali_excerpt": "“Sabbaṁ vo, bhikkhave, desessāmi."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn35/sn35.23_root-pli-ms.json",
+          "segment": "sn35.23:1.4",
+          "pali_excerpt": "Kiñca, bhikkhave, sabbaṁ?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn35/sn35.23_root-pli-ms.json",
+          "segment": "sn35.23:1.5",
+          "pali_excerpt": "Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca—"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn35/sn35.23_root-pli-ms.json",
+          "segment": "sn35.23:1.6",
+          "pali_excerpt": "idaṁ vuccati, bhikkhave, sabbaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn35/sn35.23_root-pli-ms.json",
+          "segment": "sn35.23:1.8",
+          "pali_excerpt": "‘ahametaṁ sabbaṁ paccakkhāya aññaṁ sabbaṁ paññāpessāmī’ti, tassa vācāvatthukamevassa;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:4.3",
+          "pali_excerpt": "Cakkhāyatanaṁ, sotāyatanaṁ, ghānāyatanaṁ, jivhāyatanaṁ, kāyāyatanaṁ, manāyatanaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:5.3",
+          "pali_excerpt": "Rūpāyatanaṁ, saddāyatanaṁ, gandhāyatanaṁ, rasāyatanaṁ, phoṭṭhabbāyatanaṁ, dhammāyatanaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:6.3",
+          "pali_excerpt": "Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ,"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:7.3",
+          "pali_excerpt": "Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:8.3",
+          "pali_excerpt": "Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:9.3",
+          "pali_excerpt": "Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:10.1",
+          "pali_excerpt": "‘Cakkhu attā’ti yo vadeyya taṁ na upapajjati."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:10.2",
+          "pali_excerpt": "Cakkhussa uppādopi vayopi paññāyati."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:10.5",
+          "pali_excerpt": "‘cakkhu attā’ti yo vadeyya."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:10.6",
+          "pali_excerpt": "Iti cakkhu anattā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:10.12",
+          "pali_excerpt": "Iti cakkhu anattā, rūpā anattā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:10.13",
+          "pali_excerpt": "‘Cakkhuviññāṇaṁ attā’ti yo vadeyya taṁ na upapajjati."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:10.14",
+          "pali_excerpt": "Cakkhuviññāṇassa uppādopi vayopi paññāyati."
+        }
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "The All enumerates six internal/external bases including mind and phenomena",
+          "discourse": "SN 35.23",
+          "segments": [
+            "sn35.23:1.4",
+            "sn35.23:1.5",
+            "sn35.23:1.6"
+          ]
+        },
+        {
+          "claim": "MN148 enumerates six sense bases",
+          "discourse": "MN 148",
+          "segments": [
+            "mn148:4.3"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "canonical": [
+        "https://suttacentral.net/mn148",
+        "https://suttacentral.net/sn12.2"
+      ],
+      "root_urls": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json"
+      ],
+      "license_checked": true,
+      "verification": "2/2 root URLs fetched HTTP 200 on 2026-08-18; 72 relevant segments identified; external translations cross-check only",
+      "allowed_use": "Original Vietnamese prose; short working translation; external scholarship citation/reference only.",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "sujato-reference",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "verified_segments": [
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:3.1",
+          "pali_excerpt": "“Cha ajjhattikāni āyatanāni veditabbāni, cha bāhirāni āyatanāni veditabbāni, cha viññāṇakāyā veditabbā, cha phassakāyā veditabbā, cha vedanākāyā veditabbā, cha taṇhākāyā veditabbā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:7.1",
+          "pali_excerpt": "‘Cha phassakāyā veditabbā’ti—"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:7.9",
+          "pali_excerpt": "‘Cha phassakāyā veditabbā’ti—"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:8.1",
+          "pali_excerpt": "‘Cha vedanākāyā veditabbā’ti—"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:8.3",
+          "pali_excerpt": "Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:8.4",
+          "pali_excerpt": "sotañca paṭicca sadde ca uppajjati sotaviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:8.5",
+          "pali_excerpt": "ghānañca paṭicca gandhe ca uppajjati ghānaviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:8.6",
+          "pali_excerpt": "jivhañca paṭicca rase ca uppajjati jivhāviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:8.7",
+          "pali_excerpt": "kāyañca paṭicca phoṭṭhabbe ca uppajjati kāyaviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:8.8",
+          "pali_excerpt": "manañca paṭicca dhamme ca uppajjati manoviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:8.9",
+          "pali_excerpt": "‘Cha vedanākāyā veditabbā’ti—"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:9.1",
+          "pali_excerpt": "‘Cha taṇhākāyā veditabbā’ti—"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:9.3",
+          "pali_excerpt": "Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:9.8",
+          "pali_excerpt": "manañca paṭicca dhamme ca uppajjati manoviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:9.9",
+          "pali_excerpt": "‘Cha taṇhākāyā veditabbā’ti—"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:10.20",
+          "pali_excerpt": "Cakkhusamphassassa uppādopi vayopi paññāyati."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:10.25",
+          "pali_excerpt": "‘Vedanā attā’ti yo vadeyya taṁ na upapajjati."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:10.26",
+          "pali_excerpt": "Vedanāya uppādopi vayopi paññāyati."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:10.29",
+          "pali_excerpt": "‘vedanā attā’ti yo vadeyya."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn148_root-pli-ms.json",
+          "segment": "mn148:10.30",
+          "pali_excerpt": "Iti cakkhu anattā, rūpā anattā, cakkhuviññāṇaṁ anattā, cakkhusamphasso anattā, vedanā anattā."
+        }
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "MN148 presents six contacts, feelings, cravings",
+          "discourse": "MN 148",
+          "segments": [
+            "mn148:3.1",
+            "mn148:7.1",
+            "mn148:8.1"
+          ]
+        },
+        {
+          "claim": "Contact conditions feeling",
+          "discourse": "MN 148",
+          "segments": [
+            "mn148:8.3",
+            "mn148:8.4"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 14,
+      "canonical": [
+        "https://suttacentral.net/mn38",
+        "https://suttacentral.net/dn15"
+      ],
+      "root_urls": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn15_root-pli-ms.json"
+      ],
+      "license_checked": true,
+      "verification": "2/2 root URLs fetched HTTP 200 on 2026-08-18; 107 relevant segments identified; external translations cross-check only",
+      "allowed_use": "Original Vietnamese prose; short working translation; external scholarship citation/reference only.",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "sujato-reference",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "verified_segments": [
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:2.2",
+          "pali_excerpt": "“tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati anaññan”ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:3.3",
+          "pali_excerpt": "‘tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan’”ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:3.6",
+          "pali_excerpt": "‘tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan’”ti?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:3.7",
+          "pali_excerpt": "“Evaṁ byā kho ahaṁ, āvuso, bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan”ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:3.10",
+          "pali_excerpt": "Anekapariyāyenāvuso sāti, paṭiccasamuppannaṁ viññāṇaṁ vuttaṁ bhagavatā, aññatra paccayā natthi viññāṇassa sambhavo”ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:3.12",
+          "pali_excerpt": "“evaṁ byā kho ahaṁ, āvuso, bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati anaññan”ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:4.3",
+          "pali_excerpt": "‘tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan’ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:4.5",
+          "pali_excerpt": "‘tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan’ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:4.8",
+          "pali_excerpt": "“tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan”’ti?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:4.10",
+          "pali_excerpt": "‘evaṁ byā kho ahaṁ, āvuso, bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan’ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:4.13",
+          "pali_excerpt": "Anekapariyāyenāvuso sāti, paṭiccasamuppannaṁ viññāṇaṁ vuttaṁ bhagavatā, aññatra paccayā natthi viññāṇassa sambhavo’ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:4.15",
+          "pali_excerpt": "‘evaṁ byā kho ahaṁ, āvuso, bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan’ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:5.8",
+          "pali_excerpt": "‘tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan’”ti?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:5.9",
+          "pali_excerpt": "“Evaṁ byā kho ahaṁ, bhante, bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan”ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:5.10",
+          "pali_excerpt": "“Katamaṁ taṁ, sāti, viññāṇan”ti?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:5.13",
+          "pali_excerpt": "Nanu mayā, moghapurisa, anekapariyāyena paṭiccasamuppannaṁ viññāṇaṁ vuttaṁ, aññatra paccayā natthi viññāṇassa sambhavoti?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:7.4",
+          "pali_excerpt": "Anekapariyāyena hi no, bhante, paṭiccasamuppannaṁ viññāṇaṁ vuttaṁ bhagavatā, aññatra paccayā natthi viññāṇassa sambhavo”ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:7.7",
+          "pali_excerpt": "Anekapariyāyena hi vo, bhikkhave, paṭiccasamuppannaṁ viññāṇaṁ vuttaṁ mayā, aññatra paccayā natthi viññāṇassa sambhavo”ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:8.1",
+          "pali_excerpt": "“Yaṁ yadeva, bhikkhave, paccayaṁ paṭicca uppajjati viññāṇaṁ, tena teneva viññāṇantveva saṅkhyaṁ gacchati."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+          "segment": "mn38:8.2",
+          "pali_excerpt": "Cakkhuñca paṭicca rūpe ca uppajjati viññāṇaṁ, cakkhuviññāṇantveva saṅkhyaṁ gacchati;"
+        }
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "Sāti claims same consciousness transmigrates",
+          "discourse": "MN 38",
+          "segments": [
+            "mn38:2.2",
+            "mn38:3.7"
+          ]
+        },
+        {
+          "claim": "Text rebukes this and states consciousness arises dependently",
+          "discourse": "MN 38",
+          "segments": [
+            "mn38:3.10"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "canonical": [
+        "https://suttacentral.net/sn22.59",
+        "https://suttacentral.net/mn2"
+      ],
+      "root_urls": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn2_root-pli-ms.json"
+      ],
+      "license_checked": true,
+      "verification": "2/2 root URLs fetched HTTP 200 on 2026-08-18; 13 relevant segments identified; external translations cross-check only",
+      "allowed_use": "Original Vietnamese prose; short working translation; external scholarship citation/reference only.",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "sujato-reference",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "verified_segments": [
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:0.3",
+          "pali_excerpt": "Anattalakkhaṇasutta"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:2.1",
+          "pali_excerpt": "“Rūpaṁ, bhikkhave, anattā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:2.4",
+          "pali_excerpt": "Yasmā ca kho, bhikkhave, rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati, na ca labbhati rūpe:"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:3.1",
+          "pali_excerpt": "Vedanā anattā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:3.4",
+          "pali_excerpt": "Yasmā ca kho, bhikkhave, vedanā anattā, tasmā vedanā ābādhāya saṁvattati, na ca labbhati vedanāya:"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:4.1",
+          "pali_excerpt": "Saññā anattā …pe…"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:4.2",
+          "pali_excerpt": "saṅkhārā anattā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:4.5",
+          "pali_excerpt": "Yasmā ca kho, bhikkhave, saṅkhārā anattā, tasmā saṅkhārā ābādhāya saṁvattanti, na ca labbhati saṅkhāresu:"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:5.1",
+          "pali_excerpt": "Viññāṇaṁ anattā."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
+          "segment": "sn22.59:5.4",
+          "pali_excerpt": "Yasmā ca kho, bhikkhave, viññāṇaṁ anattā, tasmā viññāṇaṁ ābādhāya saṁvattati, na ca labbhati viññāṇe:"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn2_root-pli-ms.json",
+          "segment": "mn2:8.5",
+          "pali_excerpt": "‘attanāva anattānaṁ sañjānāmī’ti vā assa saccato thetato diṭṭhi uppajjati;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn2_root-pli-ms.json",
+          "segment": "mn2:8.6",
+          "pali_excerpt": "‘anattanāva attānaṁ sañjānāmī’ti vā assa saccato thetato diṭṭhi uppajjati;"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn2_root-pli-ms.json",
+          "segment": "mn2:13.3",
+          "pali_excerpt": "‘yāvadeva sītassa paṭighātāya, uṇhassa paṭighātāya, ḍaṁsamakasavātātapasarīsapasamphassānaṁ paṭighātāya, yāvadeva hirikopīnappaṭicchādanatthaṁ’."
+        }
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "Form, feeling, perception, formations, consciousness are not-self",
+          "discourse": "SN 22.59",
+          "segments": [
+            "sn22.59:2.1",
+            "sn22.59:3.1",
+            "sn22.59:4.1",
+            "sn22.59:4.2"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 16,
+      "canonical": [
+        "https://suttacentral.net/sn22.1",
+        "https://suttacentral.net/mn44"
+      ],
+      "root_urls": [
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.1_root-pli-ms.json",
+        "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json"
+      ],
+      "license_checked": true,
+      "verification": "2/2 root URLs fetched HTTP 200 on 2026-08-18; 17 relevant segments identified; external translations cross-check only",
+      "allowed_use": "Original Vietnamese prose; short working translation; external scholarship citation/reference only.",
+      "translation_sources": [
+        "bilara-pali-ms",
+        "sujato-reference",
+        "bodhi-reference",
+        "thanissaro-reference"
+      ],
+      "verified_segments": [
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.1_root-pli-ms.json",
+          "segment": "sn22.1:9.3",
+          "pali_excerpt": "rūpaṁ attato samanupassati, rūpavantaṁ vā attānaṁ; attani vā rūpaṁ, rūpasmiṁ vā attānaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.1_root-pli-ms.json",
+          "segment": "sn22.1:14.3",
+          "pali_excerpt": "na rūpaṁ attato samanupassati, na rūpavantaṁ vā attānaṁ; na attani vā rūpaṁ, na rūpasmiṁ vā attānaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:3.1",
+          "pali_excerpt": "“‘sakkāyasamudayo sakkāyasamudayo’ti, ayye, vuccati."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:3.2",
+          "pali_excerpt": "Katamo nu kho, ayye, sakkāyasamudayo vutto bhagavatā”ti?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:3.5",
+          "pali_excerpt": "ayaṁ kho, āvuso visākha, sakkāyasamudayo vutto bhagavatā”ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:4.1",
+          "pali_excerpt": "“‘Sakkāyanirodho sakkāyanirodho’ti, ayye, vuccati."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:4.2",
+          "pali_excerpt": "Katamo nu kho, ayye, sakkāyanirodho vutto bhagavatā”ti?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:4.4",
+          "pali_excerpt": "ayaṁ kho, āvuso visākha, sakkāyanirodho vutto bhagavatā”ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:5.1",
+          "pali_excerpt": "“‘Sakkāyanirodhagāminī paṭipadā sakkāyanirodhagāminī paṭipadā’ti, ayye, vuccati."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:5.2",
+          "pali_excerpt": "Katamā nu kho, ayye, sakkāyanirodhagāminī paṭipadā vuttā bhagavatā”ti?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:5.3",
+          "pali_excerpt": "“Ayameva kho, āvuso visākha, ariyo aṭṭhaṅgiko maggo sakkāyanirodhagāminī paṭipadā vuttā bhagavatā, seyyathidaṁ—"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:7.1",
+          "pali_excerpt": "“Kathaṁ panāyye, sakkāyadiṭṭhi hotī”ti?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:7.3",
+          "pali_excerpt": "rūpaṁ attato samanupassati, rūpavantaṁ vā attānaṁ, attani vā rūpaṁ, rūpasmiṁ vā attānaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:7.8",
+          "pali_excerpt": "Evaṁ kho, āvuso visākha, sakkāyadiṭṭhi hotī”ti."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:8.1",
+          "pali_excerpt": "“Kathaṁ panāyye, sakkāyadiṭṭhi na hotī”ti?"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:8.3",
+          "pali_excerpt": "na rūpaṁ attato samanupassati, na rūpavantaṁ vā attānaṁ, na attani vā rūpaṁ, na rūpasmiṁ vā attānaṁ."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn44_root-pli-ms.json",
+          "segment": "mn44:8.8",
+          "pali_excerpt": "Evaṁ kho, āvuso visākha, sakkāyadiṭṭhi na hotī”ti."
+        }
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "Identity view locates self in four relations to form/aggregates",
+          "discourse": "SN 22.1",
+          "segments": [
+            "sn22.1:9.3",
+            "sn22.1:14.3"
+          ]
+        },
+        {
+          "claim": "MN44 analyzes identity origin and cessation",
+          "discourse": "MN 44",
+          "segments": [
+            "mn44:3.1",
+            "mn44:3.5",
+            "mn44:4.1",
+            "mn44:4.4"
+          ]
+        }
+      ]
+    }
+  ],
+  "verification": "Every root URL must return 200 before publication; source_license_checked means canonical root verified and external translations used only as cited comparison.",
+  "allowed_use": "Original Vietnamese prose; short working translation; external scholarship citation/reference only."
+}

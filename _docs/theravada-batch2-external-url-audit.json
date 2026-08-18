@@ -1,0 +1,86 @@
+{
+  "schema": "redpill.theravada.batch2-external-url-audit.v1",
+  "count": 16,
+  "results": [
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/dn15",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/dn2",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/editions",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/mn107",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/mn148",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/mn2",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/mn38",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/mn39",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/mn44",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/sn12.15",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/sn12.2",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/sn22.1",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/sn22.59",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/sn22.95",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/sn35.23",
+      "classification": "ok"
+    },
+    {
+      "status": "200",
+      "url": "https://suttacentral.net/sn56.11",
+      "classification": "ok"
+    }
+  ]
+}

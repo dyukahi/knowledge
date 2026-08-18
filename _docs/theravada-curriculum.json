@@ -157,7 +157,7 @@
       "module_slug": "core-doctrine",
       "canonical_role": "dukkha",
       "title": "Dukkha — Khổ Không Chỉ Là Đau Đớn",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         5
       ],
@@ -168,7 +168,8 @@
       "provenance": [
         "early-sutta",
         "commentary"
-      ]
+      ],
+      "path": "theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn.md"
     },
     {
       "lesson": 7,
@@ -176,7 +177,7 @@
       "module_slug": "core-doctrine",
       "canonical_role": "craving-clinging-becoming",
       "title": "Ái, Thủ Và Hữu — Cơ Chế Tự Nuôi Của Khổ",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         6
       ],
@@ -186,7 +187,8 @@
       ],
       "provenance": [
         "early-sutta"
-      ]
+      ],
+      "path": "theravada/07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ.md"
     },
     {
       "lesson": 8,
@@ -213,7 +215,7 @@
       "module_slug": "core-doctrine",
       "canonical_role": "three-trainings-gradual-training",
       "title": "Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         8
       ],
@@ -225,7 +227,8 @@
       "provenance": [
         "early-sutta",
         "vinaya"
-      ]
+      ],
+      "path": "theravada/09 - Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự.md"
     },
     {
       "lesson": 10,
@@ -233,7 +236,7 @@
       "module_slug": "core-doctrine",
       "canonical_role": "middle-way",
       "title": "Trung Đạo — Không Phải Thỏa Hiệp Ở Giữa",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         5
       ],
@@ -243,7 +246,8 @@
       ],
       "provenance": [
         "early-sutta"
-      ]
+      ],
+      "path": "theravada/10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa.md"
     },
     {
       "lesson": 11,
@@ -251,7 +255,7 @@
       "module_slug": "experience-and-self",
       "canonical_role": "five-aggregates",
       "title": "Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         6
       ],
@@ -261,7 +265,8 @@
       ],
       "provenance": [
         "early-sutta"
-      ]
+      ],
+      "path": "theravada/11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào.md"
     },
     {
       "lesson": 12,
@@ -269,7 +274,7 @@
       "module_slug": "experience-and-self",
       "canonical_role": "six-sense-bases",
       "title": "Sáu Căn Và Sáu Trần — Thế Giới Xuất Hiện Ở Đâu",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         11
       ],
@@ -279,7 +284,8 @@
       ],
       "provenance": [
         "early-sutta"
-      ]
+      ],
+      "path": "theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu.md"
     },
     {
       "lesson": 13,
@@ -287,7 +293,7 @@
       "module_slug": "experience-and-self",
       "canonical_role": "contact-feeling-craving",
       "title": "Xúc → Thọ → Ái — Khoảnh Khắc Vòng Lặp Bắt Đầu",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         12
       ],
@@ -297,7 +303,8 @@
       ],
       "provenance": [
         "early-sutta"
-      ]
+      ],
+      "path": "theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu.md"
     },
     {
       "lesson": 14,
@@ -305,7 +312,7 @@
       "module_slug": "experience-and-self",
       "canonical_role": "consciousness-not-soul",
       "title": "Viññāṇa — Thức Không Phải Linh Hồn",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         12
       ],
@@ -316,7 +323,8 @@
       ],
       "provenance": [
         "early-sutta"
-      ]
+      ],
+      "path": "theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn.md"
     },
     {
       "lesson": 15,
@@ -324,7 +332,7 @@
       "module_slug": "experience-and-self",
       "canonical_role": "not-self",
       "title": "Vô Ngã — Đức Phật Phủ Định Điều Gì?",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         11
       ],
@@ -334,7 +342,8 @@
       ],
       "provenance": [
         "early-sutta"
-      ]
+      ],
+      "path": "theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì.md"
     },
     {
       "lesson": 16,
@@ -342,7 +351,7 @@
       "module_slug": "experience-and-self",
       "canonical_role": "constructed-identity",
       "title": "Bản Sắc Được Kiến Tạo — Tôi Sinh Lại Trong Từng Phản Ứng",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         11,
         15
@@ -354,7 +363,8 @@
       "provenance": [
         "early-sutta",
         "modern-theravada"
-      ]
+      ],
+      "path": "theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng.md"
     },
     {
       "lesson": 17,

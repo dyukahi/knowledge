@@ -44,6 +44,21 @@ Bốn tài liệu này không tính vào 36 bài học chính.
 
 Hai bài 05 và 08 thuộc Học phần II nhưng được đưa vào Batch 1 để người mới có một nền giáo pháp đủ dùng ngay sau phần phương pháp đọc.
 
+## Batch 2 — Đã Xuất Bản
+
+1. [[06 - Dukkha - Khổ Không Chỉ Là Đau Đớn]]
+2. [[07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ]]
+3. [[09 - Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự]]
+4. [[10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa]]
+5. [[11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào]]
+6. [[12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu]]
+7. [[13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu]]
+8. [[14 - Viññāṇa - Thức Không Phải Linh Hồn]]
+9. [[15 - Vô Ngã - Đức Phật Phủ Định Điều Gì]]
+10. [[16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng]]
+
+Batch 2 hoàn tất phần còn lại của xương sống giáo pháp và toàn bộ học phần giải phẫu kinh nghiệm/cái tôi.
+
 ---
 
 ## Bắt Đầu Ở Đâu?

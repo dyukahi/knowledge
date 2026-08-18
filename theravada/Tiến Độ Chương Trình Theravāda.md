@@ -53,22 +53,22 @@ related:
 | # | Bài | Trạng thái |
 |---:|---|---|
 | 05 | Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường | Đã xuất bản |
-| 06 | Dukkha — “Khổ” Không Chỉ Là Đau Đớn | Đã có nguồn neo |
-| 07 | Ái, Thủ Và Hữu — Cơ Chế Tự Nuôi Của Khổ | Đã có nguồn neo |
+| 06 | Dukkha — “Khổ” Không Chỉ Là Đau Đớn | Đã xuất bản |
+| 07 | Ái, Thủ Và Hữu — Cơ Chế Tự Nuôi Của Khổ | Đã xuất bản |
 | 08 | Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống | Đã xuất bản |
-| 09 | Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự | Đã có nguồn neo |
-| 10 | Trung Đạo — Không Phải Thỏa Hiệp Ở Giữa | Đã có nguồn neo |
+| 09 | Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự | Đã xuất bản |
+| 10 | Trung Đạo — Không Phải Thỏa Hiệp Ở Giữa | Đã xuất bản |
 
 ## Học Phần III — Giải Phẫu Kinh Nghiệm Và Cái Tôi
 
 | # | Bài | Trạng thái |
 |---:|---|---|
-| 11 | Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào | Đã có nguồn neo |
-| 12 | Sáu Căn Và Sáu Trần — Thế Giới Xuất Hiện Ở Đâu | Đã có nguồn neo |
-| 13 | Xúc → Thọ → Ái — Khoảnh Khắc Vòng Lặp Bắt Đầu | Đã có nguồn neo |
-| 14 | Viññāṇa — Thức Không Phải Linh Hồn | Đã có nguồn neo |
-| 15 | Vô Ngã — Đức Phật Phủ Định Điều Gì? | Đã có nguồn neo |
-| 16 | Bản Sắc Được Kiến Tạo — “Tôi” Sinh Lại Trong Từng Phản Ứng | Đã có nguồn neo |
+| 11 | Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào | Đã xuất bản |
+| 12 | Sáu Căn Và Sáu Trần — Thế Giới Xuất Hiện Ở Đâu | Đã xuất bản |
+| 13 | Xúc → Thọ → Ái — Khoảnh Khắc Vòng Lặp Bắt Đầu | Đã xuất bản |
+| 14 | Viññāṇa — Thức Không Phải Linh Hồn | Đã xuất bản |
+| 15 | Vô Ngã — Đức Phật Phủ Định Điều Gì? | Đã xuất bản |
+| 16 | Bản Sắc Được Kiến Tạo — “Tôi” Sinh Lại Trong Từng Phản Ứng | Đã xuất bản |
 
 ## Học Phần IV — Duyên Khởi, Nghiệp Và Tái Sinh
 

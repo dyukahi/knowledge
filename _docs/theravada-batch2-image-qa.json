@@ -1,0 +1,734 @@
+{
+  "schema": "redpill.theravada.batch2-image-qa.v2",
+  "count": 70,
+  "passed": 70,
+  "rejected": 0,
+  "visual_qa": "five filename-labeled sheets reviewed in smaller model calls; four final blockers regenerated individually and manually checked",
+  "final_regenerated": [
+    "theravada-09-lo-trinh-phan-hoi.webp",
+    "theravada-12-nam-cua-than.webp",
+    "theravada-12-y-va-cac-phap.webp",
+    "theravada-14-tiep-noi-khong-vat.webp"
+  ],
+  "images": [
+    {
+      "file": "theravada-06-ba-dau-quan-sat.webp",
+      "status": "passed",
+      "sha256": "2e2ee215c0890f17861c83e49a39ff7f25c5c19283827d1120dcbf6b7f825cde",
+      "bytes": 103758,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-06-ba-loai-dukkhata.webp",
+      "status": "passed",
+      "sha256": "8ec5f72d9c8582581c137454b41a2f8dc5c82f4e98e90abb9abdedb07f565f9e",
+      "bytes": 120338,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-06-ba-pham-vi-dukkha.webp",
+      "status": "passed",
+      "sha256": "8a31cf5674f7d0245b65c43f4fe01a4ed775c78225be0d7c59d097319a36f1f3",
+      "bytes": 165094,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-06-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "sha256": "bc79ad53bf9c2b8f4f19ceae07431221cc86da599c910343b3bea11d586e5819",
+      "bytes": 213632,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-06-danh-sach-va-thu-uan.webp",
+      "status": "passed",
+      "sha256": "12bd48851ec692380f94342016eca5f217f68042b2735d81d934be84b7293a00",
+      "bytes": 151278,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-06-nhat-ky-hai-cap.webp",
+      "status": "passed",
+      "sha256": "14e8415c207f8e4c1d0d377f8d58e4545289ee4b0563884632a4aaf0742f82a6",
+      "bytes": 214420,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-06-parinna.webp",
+      "status": "passed",
+      "sha256": "e9cb627a13a78a9743d63e953722d360281c9f932ee012b3c2f45d500a7fba71",
+      "bytes": 101316,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-07-ba-dang-tanha.webp",
+      "status": "passed",
+      "sha256": "f4cb7e79baac8a80434b1cf2ddaf1630d3087a3b51cd5034075eaa740ba6e81d",
+      "bytes": 130096,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-07-ba-mat-xich.webp",
+      "status": "passed",
+      "sha256": "da29b817194c35bd39625e82e8923e0aaff1940588441d2dff11875254c3003b",
+      "bytes": 97758,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-07-ban-do-hai-vong.webp",
+      "status": "passed",
+      "sha256": "51b59638dd53a54b6dd43d2cc9598d19969cb9f61eadc1e9ab5ce466ad4474e8",
+      "bytes": 98808,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-07-bhava-nhieu-thang-do.webp",
+      "status": "passed",
+      "sha256": "430ad085e9b61de608d028cf01692b2d4ad84e3a0e8d3c4a5e5f9ff77dd62636",
+      "bytes": 95466,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-07-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "sha256": "995699bcde1719e3a3d8fb8b8160aee14ba25b5e692b94728899742c317682fc",
+      "bytes": 103642,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-07-bon-loai-thu.webp",
+      "status": "passed",
+      "sha256": "7b87d2528cc14c81bc0f82ae3a78c51f7108e704134f7d6b6a1936450bb07191",
+      "bytes": 146950,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-07-xuc-tho-ai.webp",
+      "status": "passed",
+      "sha256": "a95b50139425f1b4d13dce4a56f4a9a87033098b6753930051c5c3259701b391",
+      "bytes": 123370,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-09-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "sha256": "a7bafa3e2032648847cc93b9c04ec3d1d12865b10cff85db7373c63da4e58838",
+      "bytes": 139924,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-09-dinh-tue-tuong-ho.webp",
+      "status": "passed",
+      "sha256": "3c510ea9cda3366c86d0f3a91299867217655f2a68ff501b44532245113c3fc9",
+      "bytes": 107280,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-09-dn2-kien-truc.webp",
+      "status": "passed",
+      "sha256": "9d6e02a45cac8f23b67677ae9fd4382ec3bfcc2cb0fb8d2df50743c435a1c6a5",
+      "bytes": 127014,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-09-gioi-ha-tang.webp",
+      "status": "passed",
+      "sha256": "36850c32956e59955ecde7609ac854484aaf695883bc26e68cfe4fc3b07ba853",
+      "bytes": 211232,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-09-huan-luyen-tuan-tu.webp",
+      "status": "passed",
+      "sha256": "2562ac355a624be9532dbbb4e6365d5bf13c4bda82431f704dfe488189ddc381",
+      "bytes": 156538,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-09-ke-hoach-tuan.webp",
+      "status": "passed",
+      "sha256": "5976db3b24115f0cd81596441ec0e9963486dce7371d3a1e7e32c97456f88255",
+      "bytes": 116224,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-09-lo-trinh-phan-hoi.webp",
+      "status": "passed",
+      "sha256": "4d81d97a3ff9cdab8710c80e3f739c42c93502e7ed65f4273e4c362d060e4e22",
+      "bytes": 233094,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-10-ban-do-ba-cau-hoi.webp",
+      "status": "passed",
+      "sha256": "44feb04a2709d2947b1a0cb25dbc62dc645c767e5fa554d29dc50f5ca1355d83",
+      "bytes": 132766,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-10-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "sha256": "a6570e828bdf485125d9ab824b6b77f95207721fc75208ff28186e1275ef9866",
+      "bytes": 124696,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-10-hai-trung-dao-gap-nhau.webp",
+      "status": "passed",
+      "sha256": "aed8e37a199ff5258657a4ee7076444c2ecaf3f6ef68cdae5a52ea60571f7bd9",
+      "bytes": 200528,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-10-hai-van-de-trung-dao.webp",
+      "status": "passed",
+      "sha256": "8a57fe1ea69bda5388d402b39ddf757228e10d0d77b02d247a44ab787f53146a",
+      "bytes": 107292,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-10-huong-duc-hanh-xac.webp",
+      "status": "passed",
+      "sha256": "55999ea18ebb03569798508b74befc7a95df08e333dfceda411cc64f170bab86",
+      "bytes": 132600,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-10-khong-phai-thoa-hiep.webp",
+      "status": "passed",
+      "sha256": "7d966d5aa07451bef59da83e5062a5751985e700d57c27ec59e62fe137802c92",
+      "bytes": 96156,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-10-ton-tai-khong-ton-tai.webp",
+      "status": "passed",
+      "sha256": "1837158623bb4b145bcb4b57d40068bc777088d41287457c546ec605f7338ec1",
+      "bytes": 144570,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-11-ba-cau-so-huu.webp",
+      "status": "passed",
+      "sha256": "4792ef40bc2524887ec3f041c8ed7d4d436440d75b3a67d63b101c425281af44",
+      "bytes": 124100,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-11-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "sha256": "e894dfd8b8f487ae3ea140a6437e1b8bcd11facfa2d88a3a49afc1adf955f31d",
+      "bytes": 153024,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-11-nam-dong-kinh-nghiem.webp",
+      "status": "passed",
+      "sha256": "b6002f9e0fb6635eb378803d1400c06ce722d35d35f0f28cd5e457c324feb1e1",
+      "bytes": 110282,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-11-sac-va-tho.webp",
+      "status": "passed",
+      "sha256": "e76c4d9844d8dfb2ffb1d6fde03024158b23cc0dd35ffbb0abbeb84b2695775d",
+      "bytes": 117416,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-11-thuc-hanh-nam-cua.webp",
+      "status": "passed",
+      "sha256": "df1e96bbac1346c6f9a238fc7ea11501073d319c7cd8f6d2d8f08e244f813c55",
+      "bytes": 98276,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-11-thuc-sau-cua.webp",
+      "status": "passed",
+      "sha256": "249871d60c07d9adeaa1e67d076888233bdf5d6eb6256cd5d2dcb8a1dd1eca7d",
+      "bytes": 67124,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-11-tuong-va-hanh.webp",
+      "status": "passed",
+      "sha256": "b1c9fcdfd87278cde83fa8f437386f65522d84eb4b235f051e7dd921ea725482",
+      "bytes": 115388,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-12-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "sha256": "a41fb83076d96ee46ce268b18f912180f7567c203662e3890586cd637181cee2",
+      "bytes": 135666,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-12-gac-sau-cua.webp",
+      "status": "passed",
+      "sha256": "8dc33234bfe0f980a84a1fda18d50f7e2baa7ebb55378e2964c5cd69deb91251",
+      "bytes": 101052,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-12-muoi-hai-xu.webp",
+      "status": "passed",
+      "sha256": "14e1c8f1006e947b3f3ec7b472a6bfe701e456389959a9ce3c65db7e7d8cac4f",
+      "bytes": 92292,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-12-nam-cua-than.webp",
+      "status": "passed",
+      "sha256": "01845037edaca1d3fdf679e1b948ce867086ee56a064ff13ab569637eb0d1ff7",
+      "bytes": 134598,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-12-pham-vi-tat-ca.webp",
+      "status": "passed",
+      "sha256": "db566b9a0d6e963062c5e99fc1c23ead8d805a4bcdaf10f26280da77cc19ac39",
+      "bytes": 97338,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-12-quan-he-ba-yeu-to.webp",
+      "status": "passed",
+      "sha256": "fd4399290171560b05731d3496511b4fd3d61795d73e795dd548beda6d94f390",
+      "bytes": 74164,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-12-y-va-cac-phap.webp",
+      "status": "passed",
+      "sha256": "f3078e2d8fb53569273d556d4df65ad108443a413148d90e3943bbf71b742b1e",
+      "bytes": 290910,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-13-ba-mat-xich.webp",
+      "status": "passed",
+      "sha256": "00f51472d14d8ed242810a7325ac98b7c9ef96187e7e70181afe9e770130c565",
+      "bytes": 60396,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-13-ba-sac-tho.webp",
+      "status": "passed",
+      "sha256": "fff797f109b5524cd6380e0495085a1d203799ab9234aca1d43c296995502de5",
+      "bytes": 127492,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-13-biet-cho-chon.webp",
+      "status": "passed",
+      "sha256": "d54f2f98cdfaac0819a235d1c7786044b5f6619f36a64188deee019f84bddc0d",
+      "bytes": 178548,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-13-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "sha256": "476e5f362511112788554ef91e0fc933703bd91ed2ab39361aba7cfd14014c3d",
+      "bytes": 170858,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-13-mang-dieu-kien.webp",
+      "status": "passed",
+      "sha256": "9eae0fcda2e3559b683ccdfa609752501214ece5dad1a6834a5b07ef280f77ba",
+      "bytes": 141020,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-13-sau-loai-xuc.webp",
+      "status": "passed",
+      "sha256": "1fff78f322114fe73f7a8961110d2189a8aae0f271dfc38ffb1f9dfbc1bf50c7",
+      "bytes": 101108,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-13-tho-den-ai.webp",
+      "status": "passed",
+      "sha256": "7ab275e3abb13b607752d6730edae4fe542b8013718baceef9cd8447ba9359bc",
+      "bytes": 89290,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-14-ba-lop-phu-them.webp",
+      "status": "passed",
+      "sha256": "26575eca4ef4aaf2ee7da190799c0727a0873cb8c583d3bb93fe117aa13a85ad",
+      "bytes": 114156,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-14-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "sha256": "ff52e48c03808f250863ddd4fa55c34eee23ad7db9c05f9180cd402a2fd82fa1",
+      "bytes": 106920,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-14-sati-va-dong-thuc.webp",
+      "status": "passed",
+      "sha256": "98be7e8b5b294cb4de9099f11262b92bdf0f1f27423fd7876b69547085ea0913",
+      "bytes": 86912,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-14-sau-thuc.webp",
+      "status": "passed",
+      "sha256": "f05dd1b5dc4843289322b4925c4702b817e4075dbea1de0711e6b3dbb54d9d1a",
+      "bytes": 83534,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-14-thuc-danh-sac.webp",
+      "status": "passed",
+      "sha256": "99ae480212b282087ba3d94113337b12995d551b2ec61e2989abd6bb38ca2541",
+      "bytes": 149194,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-14-thuc-hanh-theo-cua.webp",
+      "status": "passed",
+      "sha256": "8f071e9581c0ec9333714695244797919cd7a8d43f6adf0157a81e878961a01e",
+      "bytes": 83252,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-14-tiep-noi-khong-vat.webp",
+      "status": "passed",
+      "sha256": "7133c76095a16760c8d218830959335db31336f0e4b81908d602f521efb8a507",
+      "bytes": 152086,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-15-ba-cau-tham-tra.webp",
+      "status": "passed",
+      "sha256": "80cbae9031d04563fde3d235fb8d54cfe015047ec12f571478df24406305ba6f",
+      "bytes": 53206,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-15-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "sha256": "b9eab6fc918acbf7dd4cb80b8057d0ace66a805fd89440a02561c04be3b8a991",
+      "bytes": 168524,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-15-khong-chan-nga-an.webp",
+      "status": "passed",
+      "sha256": "98b95b6004e37ca799a0ce492ef5bbd4f5eb26f9514009f19066f8cf82a3b393",
+      "bytes": 96136,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-15-khong-hu-vo.webp",
+      "status": "passed",
+      "sha256": "3c491c04ba4ebd012488cc5f25adf104edd77b682270d63d8ef0434e2e3dfa4d",
+      "bytes": 139030,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-15-not-self-no-self.webp",
+      "status": "passed",
+      "sha256": "1a867a1b9fc66056ae6744ea6f804d021d45fbc7c5a19bc6956f2d2ae4bd6546",
+      "bytes": 83612,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-15-thuc-hanh-ba-cau.webp",
+      "status": "passed",
+      "sha256": "2faa6a2c7796f3e17d9b89e521c3696f67d58d08c21b810fb0f859225922b264",
+      "bytes": 73288,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-15-vo-thuong-dukkha-quyen.webp",
+      "status": "passed",
+      "sha256": "17c07bae9fd550279ae2ad7a8f9f5eb98d3508e34fac729190ee9b17081e3bc7",
+      "bytes": 122026,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-16-ban-do-phan-ung.webp",
+      "status": "passed",
+      "sha256": "58f101d19d34f1d2a4b7115497690ee90efd8c8b5422c6d31b93145b73ddc3a5",
+      "bytes": 101384,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-16-bon-hop-khang-dinh.webp",
+      "status": "passed",
+      "sha256": "fdb44f1345757a2f9a1fddc64d98f5f5e4bc1ead5654b153fa224242d3f62d9c",
+      "bytes": 205274,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-16-cau-truc-ban-sac.webp",
+      "status": "passed",
+      "sha256": "8e7d608cf488598953ff351bad81395c1fc1c33b14cd22e220b1e294a19f4c3c",
+      "bytes": 226094,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-16-hai-muoi-vi-tri.webp",
+      "status": "passed",
+      "sha256": "5e29a683c44c001d56d8187ed1ca90fdc78333905a4c0f19733700d12907752f",
+      "bytes": 120142,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-16-narrative-self-so-sanh.webp",
+      "status": "passed",
+      "sha256": "81b450885f2e2f280b3edabae6317ab96e9d6d30f7380b827d5fb68b6e36890d",
+      "bytes": 180756,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-16-tu-de-cua-ban-sac.webp",
+      "status": "passed",
+      "sha256": "0a0fbe1585819bcb6649733bdc16c5c3674c80740db5485b8422eae361056d35",
+      "bytes": 144424,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "theravada-16-uan-doi-can-tinh-dau.webp",
+      "status": "passed",
+      "sha256": "e00a9ac5d19d1c07654b54c789fdec825c5ee4804d241ee60f88c3bd5d1137f9",
+      "bytes": 94958,
+      "dimensions": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "final_four_exact_order_review": [
+    {
+      "file": "theravada-09-lo-trinh-phan-hoi.webp",
+      "verdict": "passed"
+    },
+    {
+      "file": "theravada-12-nam-cua-than.webp",
+      "verdict": "passed"
+    },
+    {
+      "file": "theravada-12-y-va-cac-phap.webp",
+      "verdict": "passed"
+    },
+    {
+      "file": "theravada-14-tiep-noi-khong-vat.webp",
+      "verdict": "passed"
+    }
+  ],
+  "final_four_review_notes": "Image model reported PASS in provided upload order for text/glyphs, concept fit, occult framing, identifiable Buddha/history-photo, unsafe/malformed content, and repetition."
+}

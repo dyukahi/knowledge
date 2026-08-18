@@ -176,17 +176,25 @@ def validate_published_lessons(curriculum: dict) -> None:
     actual_paths = set(DOMAIN.glob("*.md"))
     if actual_paths != foundation | expected_paths:
         fail("Theravāda public file set does not match foundation plus published curriculum")
-    batch_sources = load_json(ROOT / "_docs" / "theravada-batch1-sources.json")
-    if not isinstance(batch_sources.get("translation_policy"), str) or not batch_sources["translation_policy"]:
-        fail("Batch 1 translation policy missing")
-    editions = {row["id"]: row for row in batch_sources.get("source_editions", [])}
+    source_manifests = [
+        load_json(ROOT / "_docs" / "theravada-batch1-sources.json"),
+        load_json(ROOT / "_docs" / "theravada-batch2-sources.json"),
+    ]
+    for batch_sources in source_manifests:
+        if not isinstance(batch_sources.get("translation_policy"), str) or not batch_sources["translation_policy"]:
+            fail("Theravāda batch translation policy missing")
+    editions = {}
+    for manifest in source_manifests:
+        editions.update({row["id"]: row for row in manifest.get("source_editions", [])})
     if not editions:
-        fail("Batch 1 source editions missing")
+        fail("Theravāda source editions missing")
     for source_id, source in editions.items():
         for key in ("edition", "license_status", "allowed_use", "url"):
             if not isinstance(source.get(key), str) or not source[key]:
                 fail(f"Batch 1 source edition {source_id} missing {key}")
-    source_rows = {row["lesson"]: row for row in batch_sources.get("lessons", [])}
+    source_rows = {}
+    for manifest in source_manifests:
+        source_rows.update({row["lesson"]: row for row in manifest.get("lessons", [])})
     for row in published:
         path = ROOT / row["path"]
         text = path.read_text(encoding="utf-8")
@@ -203,16 +211,19 @@ def validate_published_lessons(curriculum: dict) -> None:
             fail(f"source manifest missing licensed lesson {row['lesson']}")
         if not source.get("canonical") or not source.get("verification") or not source.get("allowed_use"):
             fail(f"source verification incomplete for lesson {row['lesson']}")
+        if row["lesson"] not in {1, 2, 3, 4, 5, 8} and not source.get("claim_segment_map"):
+            fail(f"claim-to-segment map missing for lesson {row['lesson']}")
         translation_sources = source.get("translation_sources") or []
         if not translation_sources or any(source_id not in editions for source_id in translation_sources):
             fail(f"translation source edition missing for lesson {row['lesson']}")
         if "<!-- ILLUSTRATION:" in text:
             fail(f"unresolved image placeholder: {path.relative_to(ROOT)}")
-        refs = re.findall(r"\.\./assets/illustrations/theravada-batch1/([^)]+\.webp)", text)
+        image_batch = "theravada-batch1" if row["lesson"] in {1, 2, 3, 4, 5, 8} else "theravada-batch2"
+        refs = re.findall(rf"\.\./assets/illustrations/{image_batch}/([^)]+\.webp)", text)
         if len(refs) != 7 or len(set(refs)) != 7:
             fail(f"lesson must embed seven unique images: {path.relative_to(ROOT)}")
         for ref in refs:
-            if not (ROOT / "assets" / "illustrations" / "theravada-batch1" / ref).is_file():
+            if not (ROOT / "assets" / "illustrations" / image_batch / ref).is_file():
                 fail(f"missing lesson image: {ref}")
 
 
@@ -267,7 +278,8 @@ def main() -> int:
         "lessons": len(curriculum["lessons"]),
         "module_counts": [row["count"] for row in curriculum["modules"]],
         "published_lessons": sum(row.get("status") == "published" for row in curriculum["lessons"]),
-        "source_entries": len(load_json(LICENSE_PATH)["sources"]),
+        "global_source_entries": len(load_json(LICENSE_PATH)["sources"]),
+        "batch_source_lessons": sum(len(load_json(ROOT / "_docs" / name)["lessons"]) for name in ("theravada-batch1-sources.json", "theravada-batch2-sources.json")),
     }, ensure_ascii=False))
     return 0
 
