@@ -15,7 +15,7 @@ prerequisites:
   - "[[theravada/Từ Điển Pāli Cốt Lõi|Từ Điển Pāli Cốt Lõi]]"
   - "[[theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt|Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt]]"
 next_reading:
-  - "Kamma — Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ"
+  - "[[theravada/19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ|Kamma — Nghiệp Là Tác Ý]]"
 provenance:
   - early-sutta
   - commentary
@@ -161,7 +161,7 @@ Cuối cùng, nhớ sơ đồ không phải thực tại. Mười hai ô giúp h
 > [!warning] Điều chưa chứng minh
 > Hai anchor không cho phép tuyên bố độc quyền rằng mười hai chi chỉ nói ba đời, chỉ nói một đời, hoặc chỉ nói từng khoảnh khắc. Chúng cũng không cho phép biến duyên khởi thành đường ray tất định, đoán nghiệp quá khứ của nạn nhân hay gọi mọi quan hệ là duyên mà không xác định điều kiện.
 
-Đọc trước: Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt. Đọc tiếp: Kamma — Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ.
+Đọc trước: [[17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt|Duyên Khởi]]. Đọc tiếp: [[19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ|Kamma — Nghiệp Là Tác Ý]].
 
 **Nguồn canonical chính xác**
 

@@ -15,7 +15,7 @@ prerequisites:
   - "[[theravada/Từ Điển Pāli Cốt Lõi|Từ Điển Pāli Cốt Lõi]]"
   - "[[theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng|Bản Sắc Được Kiến Tạo — Tôi Sinh Lại Trong Từng Phản Ứng]]"
 next_reading:
-  - "Mười Hai Chi Duyên Khởi — Một Đời, Ba Đời Hay Từng Khoảnh Khắc?"
+  - "[[theravada/18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc|Mười Hai Chi Duyên Khởi]]"
 provenance:
   - early-sutta
 canonical_refs:
@@ -157,7 +157,7 @@ Thực hành đều đặn cũng cho thấy mạng phản hồi. Một đêm m�
 > [!warning] Điều chưa chứng minh
 > Ba kinh không nói mọi thứ gây ra mọi thứ, không thiết lập một cơ chế lượng tử, không biến các mũi tên thành định mệnh, và không bảo khổ tự động tạo trí tuệ. Duyên khởi không cho phép đổ lỗi nạn nhân hay bỏ qua nguyên nhân sinh học, vật chất và xã hội.
 
-Đọc trước: Bản Sắc Được Kiến Tạo — Tôi Sinh Lại Trong Từng Phản Ứng. Đọc tiếp: Mười Hai Chi Duyên Khởi — Một Đời, Ba Đời Hay Từng Khoảnh Khắc?
+Đọc trước: [[16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng|Bản Sắc Được Kiến Tạo]]. Đọc tiếp: [[18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc|Mười Hai Chi Duyên Khởi]].
 
 **Nguồn canonical chính xác**
 

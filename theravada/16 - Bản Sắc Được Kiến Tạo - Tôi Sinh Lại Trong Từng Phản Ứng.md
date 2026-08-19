@@ -15,7 +15,7 @@ prerequisites:
   - "[[theravada/Từ Điển Pāli Cốt Lõi|Từ Điển Pāli Cốt Lõi]]"
   - "[[theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì|Vô Ngã — Đức Phật Phủ Định Điều Gì?]]"
 next_reading:
-  - "Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt"
+  - "[[theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt|Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt]]"
 provenance:
   - early-sutta
   - modern-theravada
@@ -145,7 +145,7 @@ Nếu bài tập chạm sang chấn mạnh, dừng và tìm hỗ trợ. Không d
 > [!warning] Điều chưa chứng minh
 > Hai anchor không nói mỗi phản ứng là một đời sinh học, không bảo câu chuyện bản thân hoàn toàn xấu và không chứng minh anattā bằng khoa học thần kinh. Không có lõi tự ngã không đồng nghĩa con người, trách nhiệm hay đau khổ không tồn tại.
 
-Đọc trước: [[theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì|Vô Ngã — Đức Phật Phủ Định Điều Gì?]]. Đọc tiếp: Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt. Bài 17 chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
+Đọc trước: [[theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì|Vô Ngã — Đức Phật Phủ Định Điều Gì?]]. Đọc tiếp: [[17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt|Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt]].
 
 **Nguồn canonical chính xác**
 
