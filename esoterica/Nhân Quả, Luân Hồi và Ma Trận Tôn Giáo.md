@@ -9,6 +9,10 @@ status: refined
 
 # Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo
 
+> [!warning] Nhãn xuất xứ — Tổng hợp huyền học/speculative
+> Bài này phân tích tôn giáo, karma, tái sinh và ma trận kiểm soát bằng một lens so sánh. Những giả thuyết về soul school, consent contract, memory wipe hay prison matrix **không được trình bày như Kinh Pāli**. Đối chiếu canonical: [[theravada/19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ|Kamma]], [[theravada/20 - Tái Sinh Mà Không Có Linh Hồn|Tái Sinh]], [[theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ|Saṃsāra]].
+
+
 Bài viết đi sâu vào bản chất của quy luật Nhân quả, Luân hồi và sự can thiệp của các thế lực tà thần vào hệ thống niềm tin của nhân loại.
 
 *This article explores the nature of Karma, Samsara (reincarnation cycle), and the intervention of dark forces into humanity's belief systems.*

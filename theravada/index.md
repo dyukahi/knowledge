@@ -59,6 +59,17 @@ Hai bài 05 và 08 thuộc Học phần II nhưng được đưa vào Batch 1 đ
 
 Batch 2 hoàn tất phần còn lại của xương sống giáo pháp và toàn bộ học phần giải phẫu kinh nghiệm/cái tôi.
 
+## Batch 3 — Đã Xuất Bản
+
+1. [[17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt]]
+2. [[18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc]]
+3. [[19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ]]
+4. [[20 - Tái Sinh Mà Không Có Linh Hồn]]
+5. [[21 - Những Gì Kinh Pāli Nói Về Cái Chết]]
+6. [[22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ]]
+
+Batch 3 khóa trục Duyên khởi → nghiệp → tái sinh → cái chết → saṃsāra và đặt các lens soul-school/prison-matrix vào lớp so sánh đúng nguồn.
+
 ---
 
 ## Bắt Đầu Ở Đâu?

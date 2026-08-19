@@ -15,6 +15,10 @@ related:
 ---
 # Nhân Quả (Karma)
 
+> [!warning] Nhãn xuất xứ — Lăng kính huyền học so sánh
+> Bài này giữ nguyên cách đọc nghiệp như trường thông tin, ký ức và bài học linh hồn. Đây **không phải** định nghĩa canonical của Theravāda. Theo Kinh Pāli, *kamma* trước hết là hành động có tác ý; xem [[theravada/19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ|Kamma — Nghiệp Là Tác Ý]].
+
+
 **Nhân Quả không phải ông trời cầm sổ phạt. Nó là trí nhớ vận hành của reality: mọi hành động, lời nói, ý định và trạng thái consciousness để lại quán tính trong người tạo ra nó.** Đọc nông, karma thành công cụ dọa dân. Đọc sâu, karma là cơ chế học của linh hồn trong [[Luân Hồi]].
 
 *Karma is not a cosmic police officer. It is reality's memory of action, intention, and consciousness.*

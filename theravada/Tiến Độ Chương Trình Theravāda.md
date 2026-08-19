@@ -74,12 +74,12 @@ related:
 
 | # | Bài | Trạng thái |
 |---:|---|---|
-| 17 | Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt | Đã có nguồn neo |
-| 18 | Mười Hai Chi Duyên Khởi — Một Đời, Ba Đời Hay Từng Khoảnh Khắc? | Đã có nguồn neo |
-| 19 | Kamma — Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ | Đã có nguồn neo |
-| 20 | Tái Sinh Mà Không Có Linh Hồn | Đã có nguồn neo |
-| 21 | Những Gì Kinh Pāli Nói Về Cái Chết | Đã có nguồn neo |
-| 22 | Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ | Đã có nguồn neo |
+| 17 | Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt | Đã xuất bản |
+| 18 | Mười Hai Chi Duyên Khởi — Một Đời, Ba Đời Hay Từng Khoảnh Khắc? | Đã xuất bản |
+| 19 | Kamma — Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ | Đã xuất bản |
+| 20 | Tái Sinh Mà Không Có Linh Hồn | Đã xuất bản |
+| 21 | Những Gì Kinh Pāli Nói Về Cái Chết | Đã xuất bản |
+| 22 | Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ | Đã xuất bản |
 
 ## Học Phần V — Con Đường Thực Hành
 

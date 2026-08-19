@@ -4,12 +4,12 @@
 
 ## Snapshot
 
-- **Notes scanned:** 261
+- **Notes scanned:** 268
 - **Top-level domains:** 9
 - **Tags detected:** 308
-- **Resolved internal edges:** 2376
+- **Resolved internal edges:** 2395
 - **Broken/unresolved links:** 0
-- **Orphan notes:** 15
+- **Orphan notes:** 16
 
 ## Zettelkasten Reading
 
@@ -35,8 +35,8 @@ Recommended note types:
 - [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `34`, backlinks `6`, outlinks `28` — #awakening, #energy, #esoterica, #gnosis, #matrix
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]] — degree `34`, backlinks `26`, outlinks `8` — #consciousness, #epistemology, #esoterica, #gnosis
 - [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]] — degree `33`, backlinks `26`, outlinks `7` — #esoterica, #hollywood, #occult, #predictive-programming
+- [[esoterica/Luân Hồi|Luân Hồi]] — degree `32`, backlinks `22`, outlinks `10` — #consciousness, #esoterica, #reincarnation
 - [[esoterica/Karma Disclosure - Truth Hidden In Plain Sight|Karma Disclosure - Truth Hidden In Plain Sight]] — degree `31`, backlinks `23`, outlinks `8` — #conspiracy, #esoterica, #karma, #predictive-programming
-- [[esoterica/Luân Hồi|Luân Hồi]] — degree `30`, backlinks `22`, outlinks `8` — #consciousness, #esoterica, #reincarnation
 - … 64 more notes in this domain. See JSON for full list.
 
 ### Mental Models / Mô hình tư duy `mental-models` — 44 notes
@@ -87,21 +87,21 @@ Recommended note types:
 - [[politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ|Nam Cực - Bí Mật Được Canh Giữ]] — degree `19`, backlinks `7`, outlinks `12` — #antarctica, #conspiracy, #elite, #flat-earth, #nazi
 - … 15 more notes in this domain. See JSON for full list.
 
-### theravada `theravada` — 21 notes
+### theravada `theravada` — 27 notes
 
-- [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — degree `29`, backlinks `4`, outlinks `25` — #kinh-tang, #pali, #phat-giao, #theravada
+- [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — degree `35`, backlinks `4`, outlinks `31` — #kinh-tang, #pali, #phat-giao, #theravada
 - [[theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường|Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]] — degree `8`, backlinks `6`, outlinks `2`
+- [[theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ|Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ]] — degree `6`, backlinks `5`, outlinks `1`
 - [[theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm|Theravāda Là Gì — Truyền Thừa, Phạm Vi Và Những Hiểu Lầm]] — degree `6`, backlinks `4`, outlinks `2`
+- [[theravada/20 - Tái Sinh Mà Không Có Linh Hồn|Tái Sinh Mà Không Có Linh Hồn]] — degree `6`, backlinks `4`, outlinks `2`
 - [[theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống|Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống]] — degree `5`, backlinks `4`, outlinks `1`
 - [[theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều|Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều]] — degree `5`, backlinks `3`, outlinks `2`
+- [[theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết|Những Gì Kinh Pāli Nói Về Cái Chết]] — degree `5`, backlinks `3`, outlinks `2`
 - [[theravada/11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào|Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào]] — degree `5`, backlinks `3`, outlinks `2`
 - [[theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu|Sáu Căn Và Sáu Trần — Thế Giới Xuất Hiện Ở Đâu]] — degree `5`, backlinks `3`, outlinks `2`
 - [[theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp|Tam Tạng Pāli — Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp]] — degree `5`, backlinks `4`, outlinks `1`
 - [[theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn|Viññāṇa — Thức Không Phải Linh Hồn]] — degree `5`, backlinks `3`, outlinks `2`
-- [[theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì|Vô Ngã — Đức Phật Phủ Định Điều Gì?]] — degree `5`, backlinks `3`, outlinks `2`
-- [[theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu|Xúc → Thọ → Ái — Khoảnh Khắc Vòng Lặp Bắt Đầu]] — degree `5`, backlinks `3`, outlinks `2`
-- [[theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng|Bản Sắc Được Kiến Tạo — Tôi Sinh Lại Trong Từng Phản Ứng]] — degree `4`, backlinks `3`, outlinks `1`
-- … 9 more notes in this domain. See JSON for full list.
+- … 15 more notes in this domain. See JSON for full list.
 
 ### Science & Tech `science-tech` — 20 notes
 
@@ -135,7 +135,7 @@ Recommended note types:
 - [[crypto-finance/Giàu Không Nhờ May Mắn|Giàu Không Nhờ May Mắn]] — degree `12`, backlinks `3`, outlinks `9` — #crypto-finance
 - … 6 more notes in this domain. See JSON for full list.
 
-### Docs / Meta `_docs` — 14 notes
+### Docs / Meta `_docs` — 15 notes
 
 - [[_docs/VAULT-95-PUBLICATION-RUBRIC|redpill.wiki 9.5 Publication Rubric]] — degree `29`, backlinks `0`, outlinks `29`
 - [[_docs/CONTENT-SEO-AUDIT|Content SEO Audit - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
@@ -145,15 +145,15 @@ Recommended note types:
 - [[_docs/STRATEGY-EXECUTION-LOG|Strategy Execution Log]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/THERAVADA-BATCH1-VALIDATION|Theravāda Batch 1 Validation]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/THERAVADA-BATCH2-VALIDATION|Theravāda Batch 2 Validation]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/THERAVADA-BATCH3-VALIDATION|Theravāda Batch 3 Validation]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/THIN-PAGE-CLASSIFICATION|Thin Page Classification - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/VAULT-QC-AUDIT|Vault QC Audit]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/VAULT-QC-CHECKLIST|Vault QC Checklist]] — degree `0`, backlinks `0`, outlinks `0`
-- [[_docs/VAULT-STRATEGY-AUDIT|Vault Strategy Audit — redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
-- … 2 more notes in this domain. See JSON for full list.
+- … 3 more notes in this domain. See JSON for full list.
 
 ### root `root` — 14 notes
 
-- [[index|Red Pill Wiki]] — degree `178`, backlinks `7`, outlinks `171` — #index, #navigation
+- [[index|Red Pill Wiki]] — degree `180`, backlinks `7`, outlinks `173` — #index, #navigation
 - [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `59`, backlinks `32`, outlinks `27` — #epistemology, #moc, #propaganda
 - [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `52`, backlinks `31`, outlinks `21` — #health, #moc, #sovereignty
 - [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `51`, backlinks `19`, outlinks `32` — #epistemology, #meta, #navigation
@@ -171,7 +171,7 @@ Recommended note types:
 
 High-degree notes are good candidates for hub/MOC treatment.
 
-1. [[index|Red Pill Wiki]] — degree `178` · backlinks `7` · outlinks `171`
+1. [[index|Red Pill Wiki]] — degree `180` · backlinks `7` · outlinks `173`
    - **Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn.
 2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `141` · backlinks `111` · outlinks `30`
    - !Một con người đứng trước lớp giao diện trong suốt của thành phố, ký ức, truyền thông và hệ thần kinh, với tia sáng nhỏ trong tim
@@ -358,6 +358,7 @@ Orphans are not necessarily bad. In Zettelkasten terms, they are unfinished inte
 - [[_docs/STRATEGY-EXECUTION-LOG|Strategy Execution Log]] — `_docs`
 - [[_docs/THERAVADA-BATCH1-VALIDATION|Theravāda Batch 1 Validation]] — `_docs`
 - [[_docs/THERAVADA-BATCH2-VALIDATION|Theravāda Batch 2 Validation]] — `_docs`
+- [[_docs/THERAVADA-BATCH3-VALIDATION|Theravāda Batch 3 Validation]] — `_docs`
 - [[_docs/THIN-PAGE-CLASSIFICATION|Thin Page Classification - redpill.wiki]] — `_docs`
 - [[_docs/VAULT-QC-AUDIT|Vault QC Audit]] — `_docs`
 - [[_docs/VAULT-QC-CHECKLIST|Vault QC Checklist]] — `_docs`

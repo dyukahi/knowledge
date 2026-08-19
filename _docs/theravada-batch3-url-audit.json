@@ -1,0 +1,22 @@
+{
+  "schema": "b3-url-audit.v1",
+  "count": 15,
+  "all_http_200": true,
+  "urls": [
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.20_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.23_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/an/an6/an6.63_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn135_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn38_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn12/sn12.2_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn15_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/dn/dn16_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn60_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn130_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn15/sn15.1_root-pli-ms.json",
+    "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn15/sn15.3_root-pli-ms.json"
+  ]
+}

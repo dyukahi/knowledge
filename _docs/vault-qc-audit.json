@@ -1,7 +1,7 @@
 {
   "summary": {
-    "public_notes": 245,
-    "avg_words": 1839,
+    "public_notes": 251,
+    "avg_words": 1884,
     "missing_description": 0,
     "missing_aliases": 22,
     "thin_lt800": 25,
@@ -69,7 +69,7 @@
       },
       {
         "path": "esoterica/Nhân Quả.md",
-        "words": 721
+        "words": 788
       },
       {
         "path": "esoterica/Nỏ Thần.md",
@@ -244,8 +244,8 @@
       {
         "path": "theravada/index.md",
         "short": 15,
-        "paragraphs": 28,
-        "ratio": 0.536
+        "paragraphs": 30,
+        "ratio": 0.5
       },
       {
         "path": "health/Thuốc Hóa Dầu.md",

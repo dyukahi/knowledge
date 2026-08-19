@@ -16,6 +16,10 @@ related:
 ---
 # Luân Hồi (Samsara / Reincarnation)
 
+> [!warning] Nhãn xuất xứ — So sánh/speculative
+> Các mô hình “trường học linh hồn”, “hợp đồng tiền sinh”, “xóa ký ức” và “soul trap” trong bài là lăng kính so sánh, **không phải giáo lý được thiết lập bởi Kinh tạng Pāli**. Theravāda không đặt một linh hồn bất biến làm vật mang; xem [[theravada/20 - Tái Sinh Mà Không Có Linh Hồn|Tái Sinh Mà Không Có Linh Hồn]] và [[theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ|Luân Hồi Theo Theravāda]].
+
+
 **Luân Hồi là vòng tái sinh của tâm thức qua nhiều thân xác, nhưng trong vault nó không được đọc một chiều. Cùng một cơ chế có thể là trường học linh hồn hoặc nhà tù ký ức, tùy mức độ tỉnh thức, consent và khả năng nhớ lại của người tham gia.**
 
 *Samsara is the cycle of consciousness rebirth through many bodies, but in the vault it is not read one-dimensionally. The same mechanism can be a school for the soul or a prison of memory, depending on awareness, consent, and the being's capacity to remember.*

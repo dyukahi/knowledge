@@ -372,7 +372,7 @@
       "module_slug": "dependent-origination-kamma-rebirth",
       "canonical_role": "dependent-origination-arising-cessation",
       "title": "Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         7,
         13
@@ -384,7 +384,8 @@
       ],
       "provenance": [
         "early-sutta"
-      ]
+      ],
+      "path": "theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt.md"
     },
     {
       "lesson": 18,
@@ -392,7 +393,7 @@
       "module_slug": "dependent-origination-kamma-rebirth",
       "canonical_role": "twelve-links-interpretations",
       "title": "Mười Hai Chi Duyên Khởi — Một Đời, Ba Đời Hay Từng Khoảnh Khắc?",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         17
       ],
@@ -404,7 +405,8 @@
         "early-sutta",
         "commentary",
         "historical-scholarship"
-      ]
+      ],
+      "path": "theravada/18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc.md"
     },
     {
       "lesson": 19,
@@ -412,7 +414,7 @@
       "module_slug": "dependent-origination-kamma-rebirth",
       "canonical_role": "kamma-as-intention",
       "title": "Kamma — Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         17
       ],
@@ -422,7 +424,8 @@
       ],
       "provenance": [
         "early-sutta"
-      ]
+      ],
+      "path": "theravada/19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ.md"
     },
     {
       "lesson": 20,
@@ -430,7 +433,7 @@
       "module_slug": "dependent-origination-kamma-rebirth",
       "canonical_role": "rebirth-without-self",
       "title": "Tái Sinh Mà Không Có Linh Hồn",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         14,
         17,
@@ -444,7 +447,8 @@
         "early-sutta",
         "abhidhamma",
         "commentary"
-      ]
+      ],
+      "path": "theravada/20 - Tái Sinh Mà Không Có Linh Hồn.md"
     },
     {
       "lesson": 21,
@@ -452,7 +456,7 @@
       "module_slug": "dependent-origination-kamma-rebirth",
       "canonical_role": "death-in-pali-suttas",
       "title": "Những Gì Kinh Pāli Nói Về Cái Chết",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         19,
         20
@@ -464,7 +468,8 @@
       ],
       "provenance": [
         "early-sutta"
-      ]
+      ],
+      "path": "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md"
     },
     {
       "lesson": 22,
@@ -472,7 +477,7 @@
       "module_slug": "dependent-origination-kamma-rebirth",
       "canonical_role": "samsara",
       "title": "Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         17,
         19,
@@ -485,7 +490,8 @@
       "provenance": [
         "early-sutta",
         "comparative"
-      ]
+      ],
+      "path": "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md"
     },
     {
       "lesson": 23,
