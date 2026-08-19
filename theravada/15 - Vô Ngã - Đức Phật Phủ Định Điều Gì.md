@@ -43,9 +43,19 @@ source_license_checked: true
 
 Với sắc, thọ, tưởng, hành và thức, bài kinh hỏi: thường còn hay vô thường; cái vô thường là lạc hay dukkha; cái vô thường, dukkha và chịu biến đổi có thích hợp xem “đây là của tôi, đây là tôi, đây là tự ngã của tôi” không. Câu trả lời là không. Kết quả thực hành là yếm ly, ly tham và giải thoát, không phải tuyệt vọng.
 
+> **Pāli — SN 22.59:2.1–2.5 (Bilara)**
+> *Rūpaṁ, bhikkhave, anattā. Rūpañca hidaṁ, bhikkhave, attā abhavissa, nayidaṁ rūpaṁ ābādhāya saṁvatteyya, labbhetha ca rūpe: “evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī”ti. Yasmā ca kho, bhikkhave, rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati, na ca labbhati rūpe: “evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī”ti.*
+>
+> **Bản dịch làm việc:** “Này các tỳ-kheo, sắc không phải tự ngã. Nếu sắc là tự ngã, sắc đã không dẫn đến bức bách, và có thể ra lệnh cho sắc: ‘Sắc của tôi hãy như thế này; sắc của tôi đừng như thế kia.’ Nhưng vì sắc không phải tự ngã, sắc dẫn đến bức bách, và không thể ra lệnh như vậy.”
+
 **Attā — “át-ta” — tự ngã hay bản thân tùy văn cảnh** không luôn là một thuật ngữ siêu hình. Đại từ phản thân có thể dùng quy ước. Vì vậy không thể tìm chữ attā rồi dịch mọi chỗ là “linh hồn”. Trong công thức SN 22.59, nó chỉ cái được nhận làm bản chất hay chủ thể nền, gắn với sở hữu và đồng nhất.
 
 [MN 2, Sabbāsava Sutta](https://suttacentral.net/mn2) cho thấy nguy hiểm của suy tư không đúng gốc về bản ngã: “ta có trong quá khứ không”, “ta sẽ là gì”, “ta là gì”. Từ đó có thể sinh sáu quan điểm, gồm “tôi có tự ngã”, “tôi không có tự ngã”, “tôi nhận biết tự ngã bằng tự ngã” và quan điểm về cái tôi thường hằng chịu quả. Đáng chú ý, mệnh đề “tôi không có tự ngã” cũng nằm trong lưới quan điểm khi được nắm theo cách ấy.
+
+> **Pāli — MN 2:8.2–8.8 (Bilara)**
+> *Tassa evaṁ ayoniso manasikaroto channaṁ diṭṭhīnaṁ aññatarā diṭṭhi uppajjati. “Atthi me attā”ti vā assa saccato thetato diṭṭhi uppajjati; “natthi me attā”ti vā assa saccato thetato diṭṭhi uppajjati; “attanāva attānaṁ sañjānāmī”ti vā assa saccato thetato diṭṭhi uppajjati; “attanāva anattānaṁ sañjānāmī”ti vā assa saccato thetato diṭṭhi uppajjati; “anattanāva attānaṁ sañjānāmī”ti vā assa saccato thetato diṭṭhi uppajjati. Atha vā panassa evaṁ diṭṭhi hoti: “yo me ayaṁ attā vado vedeyyo tatra tatra kalyāṇapāpakānaṁ kammānaṁ vipākaṁ paṭisaṁvedeti so kho pana me ayaṁ attā nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva ṭhassatī”ti.*
+>
+> **Bản dịch làm việc:** “Khi tác ý không đúng như vậy, một trong sáu quan điểm sinh lên nơi người ấy: ‘Tôi có tự ngã’; ‘Tôi không có tự ngã’; ‘Chính bằng tự ngã tôi nhận biết tự ngã’; ‘Chính bằng tự ngã tôi nhận biết cái không phải tự ngã’; ‘Chính bằng cái không phải tự ngã tôi nhận biết tự ngã’; hoặc ‘Tự ngã này của tôi là kẻ nói, kẻ cảm nhận quả của nghiệp thiện ác ở chỗ này chỗ kia; tự ngã ấy thường còn, bền vững, vĩnh cửu, không biến đổi và sẽ đứng nguyên như thế mãi mãi.’”
 
 Do đó, bài học không biến anattā thành câu trả lời lý thuyết phải tin. Nó là cách nhìn các pháp có điều kiện để chấp “của tôi–tôi–tự ngã” mất nhiên liệu. Ta vẫn dùng tên, cam kết, ký ức và trách nhiệm. Mục tiêu là tháo sở hữu tuyệt đối, không xóa con người quy ước.
 
@@ -60,6 +70,11 @@ Ta có thể tập thân, điều chỉnh môi trường, nuôi trạng thái t�
 Sau đó bài nối **anicca — “a-nít-cha” — vô thường** với dukkha. Cái đổi không thể làm nền an toàn tuyệt đối. “Dukkha” ở đây không có nghĩa mỗi khoảnh khắc đều đau cảm giác. Một lạc thọ vẫn dễ chịu nhưng không giữ được theo ý; giao căn tính cho nó tạo sức ép.
 
 Từ vô thường và dukkha, Kinh hỏi tính thích hợp của chấp ngã. Đây là phép đánh giá thực hành, không nhất thiết là định lý tuyên bố mọi khả thể siêu hình đã bị bác bằng logic. Nó cho thấy bất kỳ uẩn nào ta tiếp cận đều không đáp tiêu chuẩn làm tự ngã thường hằng, hoàn toàn chủ quyền và không đổi.
+
+> **Pāli — SN 22.59:6.3–6.6 (Bilara)**
+> *“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti? “Dukkhaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti? “No hetaṁ, bhante”.*
+>
+> **Bản dịch làm việc:** “‘Cái gì vô thường thì là khổ hay là lạc?’—‘Là khổ, bạch Thế Tôn.’—‘Cái gì vô thường, khổ và mang bản chất biến đổi, có thích hợp để xem: “Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi” không?’—‘Thưa không, bạch Thế Tôn.’”
 
 Phạm vi còn mở rộng qua thời gian và không gian: bất kỳ sắc, thọ, tưởng, hành, thức nào—quá khứ, hiện tại, tương lai; trong, ngoài; thô, tế; thấp, cao; xa, gần—đều cần được thấy bằng chánh tuệ là không phải của tôi, tôi hay tự ngã. Không có một uẩn tinh tế được miễn trừ để làm “chân ngã”.
 
@@ -101,17 +116,17 @@ Thực hành đúng có thể làm lòng bi tăng: nếu bản sắc của tôi 
 
 ![năm lớp uẩn mở ra nhưng trung tâm không chứa ngai vàng hay người quan sát vĩnh cửu](../assets/illustrations/theravada-batch2/theravada-15-khong-chan-nga-an.webp)
 
-Sau khi thấy thân và tâm đổi, nhiều người giữ lại “cái biết” không đổi. Nhưng thức là một trong năm uẩn và được SN 22.59 xử lý y hệt. Bài 14 cho thấy MN 38 bác chính thức ấy chạy xuyên. Không có căn cứ trong hai anchor để gọi người quan sát thuần túy là tự ngã thật.
+Sau khi thấy thân và tâm đổi, nhiều người giữ lại “cái biết” không đổi. Nhưng thức là một trong năm uẩn và được SN 22.59 xử lý y hệt. Bài 14 cho thấy MN 38 bác chính thức ấy chạy xuyên. Không có căn cứ trong hai đoạn kinh trụ cột để gọi người quan sát thuần túy là tự ngã thật.
 
 Một số ngôn ngữ thiền nói “trở về người biết”. Nó có thể là chỉ dẫn tạm giúp bớt dính nội dung. Kỷ luật nguồn yêu cầu không biến chỉ dẫn phương tiện thành bản thể: nếu “người biết” được tuyên bố thường hằng, độc lập và sở hữu trải nghiệm, nó trở lại đối tượng phép quán.
 
 Nibbāna cũng không nên được đổi tên thành chân ngã. SN 22.59 không nói “bỏ năm uẩn để tìm ngã ở Niết-bàn”. Truyền thống Theravāda thận trọng không nhận Nibbāna là một self. Bài về Nibbāna cần nguồn riêng; ở đây khoảng trống không được dùng để nhập khẳng định mong muốn.
 
-Tương tự, không đặt “ý thức vũ trụ”, monad hay linh hồn ngoài uẩn rồi tuyên bố Đức Phật chỉ phủ định ego. Những so sánh liên truyền thống có thể được nghiên cứu với nhãn comparative, nhưng không là nghĩa mặc định của anattā. Sự im lặng của anchor không phải bằng chứng xác nhận.
+Tương tự, không đặt “ý thức vũ trụ”, đơn tử hay linh hồn ngoài uẩn rồi tuyên bố Đức Phật chỉ phủ định bản ngã tâm lý. Những so sánh liên truyền thống có thể được nghiên cứu với nhãn so sánh, nhưng không là nghĩa mặc định của anattā. Sự im lặng của các đoạn kinh trụ cột không phải bằng chứng xác nhận.
 
 Cũng không cần tuyên bố Đức Phật phủ định mọi cách dùng chữ “self”. MN 2 cho thấy vấn đề là chấp quan điểm; Kinh vẫn dùng ngôn ngữ tự nương mình ở nghĩa đạo đức. Phân biệt quy ước với thực thể là cách tránh cả cực đoan chữ nghĩa và siêu hình hóa.
 
-Một phép kiểm đơn giản: “chân ngã” được đề xuất có thể bị biết không? Nếu có, nó xuất hiện như đối tượng hoặc trạng thái; cần khảo sát điều kiện và đổi thay. Nếu hoàn toàn không thể biết hay kiểm, không nên dùng nó để giải thích Kinh như fact. Kỷ luật khẳng định dừng ở nơi nguồn dừng.
+Một phép kiểm đơn giản: “chân ngã” được đề xuất có thể bị biết không? Nếu có, nó xuất hiện như đối tượng hoặc trạng thái; cần khảo sát điều kiện và đổi thay. Nếu hoàn toàn không thể biết hay kiểm, không nên dùng nó để giải thích Kinh như sự thật đã được xác lập. Kỷ luật khẳng định dừng ở nơi nguồn dừng.
 
 ## 6. Thực Hành Ba Câu: Của Tôi, Tôi, Tự Ngã Của Tôi
 
@@ -121,7 +136,7 @@ Chọn một đồng nhất không quá nhạy: “tôi là người thông minh
 
 Hỏi “của tôi” nghĩa gì: quyền chăm sóc quy ước hay đòi kiểm soát tuyệt đối? Hỏi “tôi” nghĩa gì: một mô tả tiện hay toàn bộ bản chất? Hỏi “tự ngã của tôi” nghĩa gì: có đang giả định một chủ thể bền chắc đứng sau? Không ép đáp án; quan sát mức căng khi nhãn bị đe dọa.
 
-Sau đó kiểm ba dấu. Các yếu tố có đổi không; chúng có bảo đảm thỏa mãn không; chúng có tuân lệnh tuyệt đối không? Nếu không, thử câu làm việc: “đây là uẩn có điều kiện, đáng chăm nhưng không cần làm căn tính”. Câu này là diễn giải hiện đại, không thần chú canonical.
+Sau đó kiểm ba dấu. Các yếu tố có đổi không; chúng có bảo đảm thỏa mãn không; chúng có tuân lệnh tuyệt đối không? Nếu không, thử câu làm việc: “đây là uẩn có điều kiện, đáng chăm nhưng không cần làm căn tính”. Câu này là diễn giải hiện đại, không phải thần chú trong kinh.
 
 Thử trong xung đột. “Tôi đúng” có thể chứa dữ kiện đúng và chấp bản sắc. Bỏ chấp không yêu cầu bỏ dữ kiện; ta có thể trình bằng chứng mà không cần tiêu diệt đối phương. Nếu phát hiện mình sai, uẩn không phải tự ngã giúp sửa mà ít thấy mình bị hủy.
 
@@ -140,14 +155,14 @@ Nếu thực hành tạo trống rỗng đáng sợ, quay về giới, thân, ng
 > Theravāda xem anattā là dấu đặc thù của giáo pháp và dùng quán vô ngã để ly tham. Dịch “not-self” hay “no-self” có tranh luận; các học giả và giáo thọ nhấn các mặt khác nhau, không nên giả làm một đồng thuận từ ngữ tuyệt đối.
 
 > [!example] Bài này suy luận gì
-> Bài tập ba câu, các ví dụ căn tính và tiêu chí “sở hữu mềm–trách nhiệm rõ–lòng bi tăng” là tổng hợp thực hành. Bài ưu tiên công thức “không thích hợp nhận làm tự ngã” để giữ chức năng của anchor.
+> Bài tập ba câu, các ví dụ căn tính và tiêu chí “sở hữu mềm–trách nhiệm rõ–lòng bi tăng” là tổng hợp thực hành. Bài ưu tiên công thức “không thích hợp nhận làm tự ngã” để giữ chức năng của đoạn kinh trụ cột.
 
 > [!warning] Điều chưa chứng minh
-> Anattā không chứng minh hư vô, không xóa người quy ước, nhân quả, trách nhiệm hay phẩm giá. Hai anchor không xác nhận linh hồn, người biết thường hằng, Nibbāna như chân ngã, hoặc ý thức vũ trụ nằm ngoài năm uẩn.
+> Anattā không chứng minh hư vô, không xóa người quy ước, nhân quả, trách nhiệm hay phẩm giá. Hai đoạn kinh trụ cột không xác nhận linh hồn, người biết thường hằng, Nibbāna như chân ngã, hoặc ý thức vũ trụ nằm ngoài năm uẩn.
 
 Đọc trước: [[theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn|Viññāṇa — Thức Không Phải Linh Hồn]]. Đọc tiếp: [[theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng|Bản Sắc Được Kiến Tạo — Tôi Sinh Lại Trong Từng Phản Ứng]].
 
-**Nguồn canonical chính xác**
+**Nguồn kinh điển chính xác**
 
 - [SN 22.59: Anattalakkhaṇa Sutta](https://suttacentral.net/sn22.59), nguồn cho phép khảo sát năm uẩn và công thức ba cách chấp.
 - [MN 2: Sabbāsava Sutta](https://suttacentral.net/mn2), nguồn cho lưới quan điểm về tự ngã và tác ý đúng vào Tứ Đế.

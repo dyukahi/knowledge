@@ -50,27 +50,42 @@ Hai bài liên hệ nhưng không đồng nhất. Một bài sửa chiến lư�
 
 **Dukkha — “đúc-kha” — khổ, bất toại nguyện, sức ép của điều hữu vi bị chấp thủ** là tiêu chuẩn hướng đích. Một lối không phải “trung” vì dễ chịu, được số đông chấp nhận hay chia đều lợi ích cho hai phe. Nó là trung đạo khi tránh các cực sai chức năng và nuôi con đường đưa đến hiểu, ly tham, đoạn diệt và an tịnh.
 
-Vì vậy, hỏi “ở giữa cái gì?” phải đi trước lời khuyên “hãy trung đạo”. Trong ăn uống, hai cực có thể là buông thả và hành xác. Trong tri kiến SN 12.15, chúng là chấp tồn tại và chấp không tồn tại. Trong một tranh chấp pháp lý, hai bên ý kiến không tự động tạo ra hai cực canonical; sự thật có thể nằm hẳn về một phía của bằng chứng.
+Vì vậy, hỏi “ở giữa cái gì?” phải đi trước lời khuyên “hãy trung đạo”. Trong ăn uống, hai cực có thể là buông thả và hành xác. Trong tri kiến SN 12.15, chúng là chấp tồn tại và chấp không tồn tại. Trong một tranh chấp pháp lý, hai bên ý kiến không tự động tạo ra hai cực kinh điển; sự thật có thể nằm hẳn về một phía của bằng chứng.
 
 ## 2. SN 56.11: Không Nuôi Dục, Không Hành Xác
 
 ![một dây đàn giữa bàn tiệc mê đắm và thân thể bị ép xác, nối tới bánh xe tám nan](../assets/illustrations/theravada-batch2/theravada-10-huong-duc-hanh-xac.webp)
 
+> **Pāli — SN 56.11, Bilara `sn56.11:2.3`**
+> *Yo cāyaṁ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṁhito, yo cāyaṁ attakilamathānuyogo dukkho anariyo anatthasaṁhito.*
+>
+> **Bản dịch làm việc:** “Một cực là chuyên hưởng dục lạc: thấp kém, thô tục, phàm phu, không cao quý, không lợi ích; cực kia là chuyên hành hạ bản thân: đau đớn, không cao quý, không lợi ích.”
+
+> **Pāli — SN 56.11, Bilara `sn56.11:2.4`**
+> *Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.*
+>
+> **Bản dịch làm việc:** “Không đi đến hai cực ấy, Như Lai giác ngộ lối trung đạo, làm phát sinh mắt và tri kiến, đưa đến an tịnh, thắng trí, giác ngộ và Nibbāna.”
+
 SN 56.11 nói hai cực mà người xuất gia không nên theo. Cực thứ nhất là đắm mình trong khoái lạc dục, được mô tả là thấp, thô, phàm tục, không cao quý và không dẫn lợi ích. Cực thứ hai là đắm mình trong tự hành xác, đau đớn, không cao quý và không dẫn lợi ích. Sau khi tránh cả hai, Như Lai giác ngộ Trung đạo, tức Bát Chánh Đạo.
 
 **Kāma — “ca-ma” — dục lạc giác quan hoặc đối tượng dục tùy văn cảnh** không có nghĩa mọi cảm giác dễ chịu đều bị cấm. Kinh nói đến lạc không lỗi, hỷ do ly dục và lạc của jhāna. Cực bị bác là lấy hưởng dục làm đường giải thoát, chìm trong nó và giao quyền chỉ huy cho nó. Một bữa ăn đủ nuôi thân khác với dự án dùng vị ngon để lấp cơn khát không đáy.
 
-**Attakilamathānuyoga — đọc gần đúng “át-ta-ki-la-ma-tha-a-nu-yô-ga” — sự chuyên theo hành hạ bản thân** không chỉ là kỷ luật khó. Nhịn một kích thích để bảo vệ tâm có thể lành; ngồi đúng giờ dù không muốn có thể là tinh tấn. Hành xác là làm đau như cứu cánh hoặc tin đau tự nó thanh tịnh. Bối cảnh tiểu sử canonical của Đức Phật kể Ngài đã thử khổ hạnh cực đoan và thấy nó không dẫn giác ngộ.
+**Attakilamathānuyoga — đọc gần đúng “át-ta-ki-la-ma-tha-a-nu-yô-ga” — sự chuyên theo hành hạ bản thân** không chỉ là kỷ luật khó. Nhịn một kích thích để bảo vệ tâm có thể lành; ngồi đúng giờ dù không muốn có thể là tinh tấn. Hành xác là làm đau như cứu cánh hoặc tin đau tự nó thanh tịnh. Bối cảnh tiểu sử kinh điển của Đức Phật kể Ngài đã thử khổ hạnh cực đoan và thấy nó không dẫn giác ngộ.
 
 Hai cực có thể nuôi nhau. Sau buông thả, người ta ghê mình và trừng phạt thân; sau ép xác, nhu cầu bật lại thành hưởng thụ. Cả hai giữ cái tôi ở trung tâm: “tôi phải được thỏa mãn” hoặc “tôi phải chinh phục thân”. Trung đạo không chia đôi khẩu phần giữa hai; nó đổi tiêu chuẩn sang Bát Chánh Đạo.
 
-Điều này giải thích vì sao “moderation” chỉ đôi khi gần nghĩa. Tiết độ ăn là phần huấn luyện; nhưng tiết độ trong nói dối không thành chánh ngữ, và “một chút bạo lực” không thành không hại. Trung đạo có thể bao gồm điều độ khi đối tượng trung tính, nhưng không phải nguyên tắc số học áp cho mọi đạo đức.
+Điều này giải thích vì sao “điều độ” chỉ đôi khi gần nghĩa. Tiết độ ăn là phần huấn luyện; nhưng tiết độ trong nói dối không thành chánh ngữ, và “một chút bạo lực” không thành không hại. Trung đạo có thể bao gồm điều độ khi đối tượng trung tính, nhưng không phải nguyên tắc số học áp cho mọi đạo đức.
 
 SN 56.11 định danh tám chi: chánh kiến, chánh ý hướng, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định. Chính cấu trúc này, chứ không phải tính cách ôn hòa, làm nội dung Trung đạo thực hành.
 
 ## 3. SN 12.15: Không Rơi Vào “Tất Cả Có” Hay “Tất Cả Không”
 
 ![hai khối chữ tượng trưng hữu và vô tan thành mạng điều kiện sinh diệt không có thực thể cô lập](../assets/illustrations/theravada-batch2/theravada-10-ton-tai-khong-ton-tai.webp)
+
+> **Pāli — SN 12.15, Bilara `sn12.15:2.2`, `sn12.15:2.3`**
+> *Lokasamudayaṁ kho, kaccāna, yathābhūtaṁ sammappaññāya passato yā loke natthitā sā na hoti. Lokanirodhaṁ kho, kaccāna, yathābhūtaṁ sammappaññāya passato yā loke atthitā sā na hoti.*
+>
+> **Bản dịch làm việc:** “Với người thấy sự sinh khởi của thế gian đúng như thật, quan niệm không tồn tại không còn; với người thấy sự đoạn diệt đúng như thật, quan niệm tồn tại không còn.”
 
 SN 12.15 trả lời Kaccānagotta về chánh kiến. Thế gian phần lớn dựa trên một nhị nguyên: **atthitā — “át-thi-ta” — tính tồn tại, quan niệm “có”** và **natthitā — “nát-thi-ta” — tính không tồn tại, quan niệm “không”**. Với người thấy sự sinh khởi của thế gian như nó là bằng chánh tuệ, quan niệm “không tồn tại” không đứng; với người thấy sự đoạn diệt, quan niệm “tồn tại” không đứng.
 
@@ -128,7 +143,7 @@ Thêm phép kiểm không hại. Lựa chọn có giảm hay tăng sát hại, l
 
 Ví dụ với ăn uống, buông thả và hành xác là cặp phù hợp. Một kế hoạch đủ dinh dưỡng, biết thọ và không dùng thức ăn làm hình phạt có thể đúng hướng. Nhưng bệnh chuyển hóa hoặc rối loạn ăn uống cần chuyên môn; không rút phác đồ y khoa trực tiếp từ một nguyên lý tôn giáo.
 
-Ví dụ với bất đồng, hai cực canonical không nhất thiết là “phe tôi/phe họ”. Cực thực tế có thể là bám quan điểm như căn tính và rơi vào hư vô “chẳng có sự thật”. Trung đạo là kiểm tra bằng chứng, giữ trách nhiệm và không nắm kết luận thành tự ngã. Có thể kết luận phe kia sai mà không nuôi thù hận.
+Ví dụ với bất đồng, hai cực kinh điển không nhất thiết là “phe tôi/phe họ”. Cực thực tế có thể là bám quan điểm như căn tính và rơi vào hư vô “chẳng có sự thật”. Trung đạo là kiểm tra bằng chứng, giữ trách nhiệm và không nắm kết luận thành tự ngã. Có thể kết luận phe kia sai mà không nuôi thù hận.
 
 Sau một tuần, xem lựa chọn có làm tâm bớt dao động giữa nuông chiều và trừng phạt không; có tăng khả năng thấy điều kiện không; có khiến hành vi thật và ít hại hơn không. Nếu “cân bằng” chỉ giữ nguyên thói quen, cần trở lại nội dung tám chi thay vì tiếp tục tối ưu sự dễ chịu.
 
@@ -140,7 +155,7 @@ Sau một tuần, xem lựa chọn có làm tâm bớt dao động giữa nuông
 > SN 56.11 tránh hưởng dục và tự hành xác, rồi xác định Trung đạo là Bát Chánh Đạo. SN 12.15 tránh hai chấp “tồn tại” và “không tồn tại”, không nắm tự ngã, và giảng Pháp ở giữa bằng sự sinh khởi cùng đoạn diệt có điều kiện của dukkha.
 
 > [!info] Truyền thống giải thích gì
-> Theravāda thường nối Trung đạo với tránh thường kiến–đoạn kiến và dùng duyên khởi để bảo toàn nhân quả mà không đặt một tự ngã bất biến. Các chú giải và giáo thọ triển khai nhiều ứng dụng, nhưng phải phân biệt với hai phạm vi canonical cụ thể.
+> Theravāda thường nối Trung đạo với tránh thường kiến–đoạn kiến và dùng duyên khởi để bảo toàn nhân quả mà không đặt một tự ngã bất biến. Các chú giải và giáo thọ triển khai nhiều ứng dụng, nhưng phải phân biệt với hai phạm vi kinh điển cụ thể.
 
 > [!example] Bài này suy luận gì
 > Bản đồ “xác định cực–điều kiện–hướng đi” và các ví dụ công việc, quan điểm, ăn uống là tổng hợp hiện đại. Bài suy luận rằng hai Trung đạo gặp nhau qua chánh kiến và con đường nhưng không phải cùng một công thức văn bản.
@@ -150,7 +165,7 @@ Sau một tuần, xem lựa chọn có làm tâm bớt dao động giữa nuông
 
 Đọc trước: [[theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường|Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]]. Đọc tiếp: Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào. Bài 11 chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
 
-**Nguồn canonical chính xác**
+**Nguồn kinh điển chính xác**
 
 - [SN 56.11: Dhammacakkappavattana Sutta](https://suttacentral.net/sn56.11), nguồn cho hai cực thực hành và Bát Chánh Đạo như Trung đạo.
 - [SN 12.15: Kaccānagotta Sutta](https://suttacentral.net/sn12.15), nguồn cho hai cực tồn tại–không tồn tại và Pháp ở giữa qua duyên khởi.

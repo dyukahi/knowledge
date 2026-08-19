@@ -58,6 +58,16 @@ Tuần tự cũng không có nghĩa trì hoãn đạo đức cho đến khi hi�
 
 ![các lớp đạo đức phòng hộ tri túc định và tri kiến trong bối cảnh một sa-môn](../assets/illustrations/theravada-batch2/theravada-09-dn2-kien-truc.webp)
 
+> **Pāli — DN 2, Bilara `dn2:42.1`**
+> *So evaṁ pabbajito samāno pātimokkhasaṁvarasaṁvuto viharati ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena, parisuddhājīvo sīlasampanno, indriyesu guttadvāro, satisampajaññena samannāgato, santuṭṭho.*
+>
+> **Bản dịch làm việc:** “Vị ấy sống được phòng hộ bằng giới bổn, học các học giới, có thân nghiệp và khẩu nghiệp thiện, sinh kế thanh tịnh, đầy đủ giới, giữ các cửa căn, có niệm và tỉnh giác, biết đủ.”
+
+> **Pāli — DN 2, Bilara `dn2:43.1`**
+> *Kathañca, mahārāja, bhikkhu sīlasampanno hoti?*
+>
+> **Bản dịch làm việc:** “Thưa Đại vương, một vị Tỳ-kheo đầy đủ giới như thế nào?”
+
 DN 2 được đặt trong cuộc đối thoại với vua Ajātasattu về kết quả có thể thấy của đời sống sa-môn. Bài kinh trước hết kể những lợi ích xã hội gần: người từng là nô bộc hoặc người làm khi xuất gia được nhà vua kính trọng và không bị buộc trở lại địa vị cũ. Sau đó Đức Phật trình bày huấn luyện từ giới đến các thành tựu tâm và tri kiến giải thoát. Bối cảnh này nhắc rằng lộ trình không chỉ là kỹ thuật thiền tách khỏi đời sống.
 
 Phần giới của DN 2 rất rộng, gồm từ bỏ sát sinh, lấy của không cho, tà hạnh hay đời sống không phạm hạnh theo bối cảnh xuất gia, nói dối, chia rẽ, thô ác và phù phiếm; đồng thời tránh nhiều sinh kế, giải trí và thực hành bói toán không phù hợp với sa-môn. Không phải mọi chi tiết Luật và nếp xuất gia được áp nguyên xi cho cư sĩ. Nhưng nguyên tắc rõ: sự vô hại, chân thật và giản dị tạo môi trường cho tâm không bị hối hận cùng xung đột kéo đi.
@@ -74,17 +84,22 @@ Sau khi đoạn năm triền cái, bài kinh mô tả bốn jhāna. **Jhāna —
 
 ![người học được hướng dẫn từng kỹ năng như thuần ngựa, bắn cung và học toán nhưng vẫn tự bước đi](../assets/illustrations/theravada-batch2/theravada-09-huan-luyen-tuan-tu.webp)
 
+> **Pāli — DN 2, Bilara `dn2:74.4`, `dn2:75.1`**
+> *Tassime pañca nīvaraṇe pahīne attani samanupassato pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. So vivicceva kāmehi, vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.*
+>
+> **Bản dịch làm việc:** “Khi thấy năm triền cái đã đoạn trừ, hân hoan và hỷ sinh; thân lắng dịu, cảm nhận lạc, tâm được định tĩnh. Vị ấy ly dục, ly pháp bất thiện, chứng và trú sơ thiền.”
+
 MN 39 nhắc các Tỳ-kheo sống xứng danh sa-môn và bà-la-môn không chỉ bằng tên gọi. Bài triển khai hổ thẹn và sợ hậu quả của điều bất thiện, thân–khẩu–ý và sinh kế thanh tịnh, phòng hộ căn, tiết độ ăn, chuyên cần tỉnh thức, niệm–tỉnh giác, chọn nơi vắng, đoạn triền cái, bốn jhāna và ba minh. Trật tự cho thấy đạo đức không phải lễ nghi ngoài lề; nó đi vào cách dùng thân, lời, tâm và nguồn sống.
 
 MN 107 dùng hình ảnh huấn luyện tuần tự: người luyện ngựa, người dạy bắn cung hoặc dạy toán hướng học trò từng bước. Đức Phật mô tả việc đặt người học vào giới, phòng hộ căn, tiết độ ăn, tỉnh thức, niệm–tỉnh giác, nơi ở thích hợp, đoạn triền cái và jhāna. Cuối bài, khi được hỏi liệu mọi đệ tử đều đạt cứu cánh hay không, Ngài phân biệt người chỉ đường với người có thực sự theo đường. Cấu trúc không bảo đảm tự động một kết quả chỉ vì chương trình đúng.
 
 **Anupubba — “a-nu-púp-ba” — tuần tự, dần theo thứ lớp** mô tả sự đào luyện có tích lũy. Nó gần với học nghề hơn nhận mật khẩu. Người học đàn tập tư thế, nghe, nhịp và bản nhạc; các kỹ năng có trật tự nhưng thường quay lại sửa nhau. Tương tự, người tu có thể giữ năm giới đồng thời bắt đầu niệm hơi thở; định lớn hơn giúp thấy một thói nói sai; việc sửa lời lại giảm hối hận.
 
-Một khái niệm liên quan là **anupubbī-kathā — bài thuyết giảng tuần tự**, thường đi từ bố thí, giới, các cõi lành, nguy hại của dục, lợi ích của xuất ly, rồi Tứ Đế khi tâm sẵn sàng. Đây là mô thức được thấy trong nhiều văn cảnh canonical. Tuy nhiên, không nên trộn “bài giảng tuần tự” với “huấn luyện tuần tự” như hai tên hoàn toàn đồng nghĩa. Một cái mô tả chiến lược thuyết pháp; cái kia mô tả nếp đào luyện.
+Một khái niệm liên quan là **anupubbī-kathā — bài thuyết giảng tuần tự**, thường đi từ bố thí, giới, các cõi lành, nguy hại của dục, lợi ích của xuất ly, rồi Tứ Đế khi tâm sẵn sàng. Đây là mô thức được thấy trong nhiều văn cảnh kinh điển. Tuy nhiên, không nên trộn “bài giảng tuần tự” với “huấn luyện tuần tự” như hai tên hoàn toàn đồng nghĩa. Một cái mô tả chiến lược thuyết pháp; cái kia mô tả nếp đào luyện.
 
 Trình tự cũng có tính thích nghi. Người nghiện cần môi trường và hỗ trợ trước khi quan sát cơn thèm tinh tế; người có chấn thương có thể cần cảm giác an toàn trước thực hành tập trung mạnh; cư sĩ nuôi gia đình phải diễn dịch tri túc khác một Tỳ-kheo. Thích nghi không phải hạ chuẩn đạo đức mà là tạo điều kiện thực tế để không hại và sáng suốt tăng.
 
-Theo Rupert Gethin, các nhóm pháp về con đường vừa có cấu trúc vừa hỗ trợ lẫn nhau; Bhikkhu Anālayo khi nghiên cứu thiền trong kinh sớm thường đối chiếu nhiều bài thay vì biến một chuỗi thành kỹ thuật độc quyền. Bhikkhu Bodhi trình bày ba học như khung tích hợp giới, tập trung và trí tuệ. Các nguồn có tên này giúp giải thích, còn thẩm quyền canonical của trình tự trong bài vẫn là DN 2, MN 39 và MN 107.
+Theo Rupert Gethin, các nhóm pháp về con đường vừa có cấu trúc vừa hỗ trợ lẫn nhau; Bhikkhu Anālayo khi nghiên cứu thiền trong kinh sớm thường đối chiếu nhiều bài thay vì biến một chuỗi thành kỹ thuật độc quyền. Bhikkhu Bodhi trình bày ba học như khung tích hợp giới, tập trung và trí tuệ. Các nguồn có tên này giúp giải thích, còn thẩm quyền kinh điển của trình tự trong bài vẫn là DN 2, MN 39 và MN 107.
 
 ## 4. Giới Là Điều Kiện Tự Do, Không Chỉ Là Cấm Đoán
 
@@ -124,7 +139,7 @@ Không nên dùng vòng phản hồi để xóa thứ tự. Người cố tìm �
 
 Bắt đầu bằng kiểm kê điều kiện, không bằng danh hiệu. Chọn một giới cần bảo vệ rõ hơn, một cửa giác quan thường kéo tâm, một thói quen ngủ–ăn ảnh hưởng tỉnh thức, một khoảng thực hành định và một chủ đề Kinh để học. Ít mục nhưng theo dõi thật tốt hơn kế hoạch lý tưởng rồi sụp.
 
-Ví dụ một tuần: giữ cam kết không nói sai có chủ ý; tắt thông báo trong hai khoảng làm việc; ăn một bữa không màn hình để biết đủ; ngồi hai mươi phút mỗi ngày với đối tượng phù hợp; cuối ngày ghi một lần tham–sân–si tăng hoặc giảm. Cuối tuần đọc lại DN 2 hoặc MN 107 theo đoạn, hỏi quan hệ điều kiện nào đã thấy. Đây là kế hoạch hiện đại, không phải lịch canonical.
+Ví dụ một tuần: giữ cam kết không nói sai có chủ ý; tắt thông báo trong hai khoảng làm việc; ăn một bữa không màn hình để biết đủ; ngồi hai mươi phút mỗi ngày với đối tượng phù hợp; cuối ngày ghi một lần tham–sân–si tăng hoặc giảm. Cuối tuần đọc lại DN 2 hoặc MN 107 theo đoạn, hỏi quan hệ điều kiện nào đã thấy. Đây là kế hoạch hiện đại, không phải lịch kinh điển.
 
 Đối với người mới, mục tiêu định có thể chỉ là ngồi đều và nhận triền cái, không tự tuyên bố jhāna. Đối với người có kinh nghiệm, đánh giá nên dựa cả hành vi ngoài bồ đoàn. Nếu định tăng mà lời nói thô hơn, có sự mất cân bằng. Nếu học nhiều nhưng không thể dừng một phản ứng hại, cần điều chỉnh điều kiện và xin hướng dẫn.
 
@@ -152,7 +167,7 @@ Cuối cùng, nhớ hình ảnh người chỉ đường trong MN 107. Có bản
 
 Đọc trước: [[theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống|Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống]]. Đọc tiếp: Chánh Niệm — Sati Không Chỉ Là Chú Ý. Bài đọc tương lai chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
 
-**Nguồn canonical chính xác**
+**Nguồn kinh điển chính xác**
 
 - [DN 2: Sāmaññaphala Sutta](https://suttacentral.net/dn2), kiến trúc quả sa-môn từ giới tới định và tri kiến giải thoát.
 - [MN 39: Mahā-Assapura Sutta](https://suttacentral.net/mn39), huấn luyện thân–khẩu–ý, sinh kế, phòng hộ, tỉnh thức, jhāna và minh.

@@ -41,13 +41,18 @@ source_license_checked: true
 
 ![một vòng trải nghiệm gồm đau rõ rệt, vui đang đổi và bàn tay bám vào năm dòng kinh nghiệm](../assets/illustrations/theravada-batch2/theravada-06-ba-pham-vi-dukkha.webp)
 
-**Dukkha — đọc gần đúng “đúc-kha” — khổ, tính bất toại nguyện hoặc sức ép của kinh nghiệm hữu vi khi bị chấp thủ** là một từ phải giữ theo văn cảnh. Nếu dịch nó thành “đau đớn”, ta bỏ mất vấn đề của khoái lạc đang đổi thay. Nếu dịch thành “khốn khổ” hay “misery”, ta khiến giáo pháp dường như tuyên bố mọi khoảnh khắc sống đều u ám. Nếu để nguyên Pāli mà không giải thích, ta lại biến một từ thực hành thành mật mã.
+> **Pāli — SN 56.11, Bilara `sn56.11:4.1–4.2`**
+> *Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ—jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṁ, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṁ na labhati tampi dukkhaṁ—saṅkhittena pañcupādānakkhandhā dukkhā.*
+>
+> **Bản dịch làm việc:** “Này các Tỳ-kheo, đây là sự thật cao quý về dukkha: sinh, già, bệnh, chết; gặp điều không ưa, lìa điều mình ưa và không được điều mình muốn đều là dukkha; tóm lại, năm uẩn bị chấp thủ là dukkha.”
+
+**Dukkha — đọc gần đúng “đúc-kha” — khổ, tính bất toại nguyện hoặc sức ép của kinh nghiệm hữu vi khi bị chấp thủ** là một từ phải giữ theo văn cảnh. Nếu dịch nó thành “đau đớn”, ta bỏ mất vấn đề của khoái lạc đang đổi thay. Nếu dịch thành “khốn khổ” hay “cùng quẫn”, ta khiến giáo pháp dường như tuyên bố mọi khoảnh khắc sống đều u ám. Nếu để nguyên Pāli mà không giải thích, ta lại biến một từ thực hành thành mật mã.
 
 [SN 56.11, Dhammacakkappavattana Sutta](https://suttacentral.net/sn56.11) đặt dukkha trong sự thật cao quý thứ nhất. Bài kinh kể sinh, già, bệnh, chết; sầu, bi, đau thân, ưu và não; gặp điều không ưa, xa điều ưa, muốn mà không được. Sau danh sách ấy là câu tóm tắt có phạm vi rất chính xác: năm uẩn bị chấp thủ là dukkha. Vì vậy, văn bản vừa nhận diện những đau đớn dễ thấy vừa chỉ tới cấu trúc rộng hơn khiến kinh nghiệm không thể gánh nổi yêu cầu “hãy làm tôi thỏa mãn và đừng thay đổi”.
 
 Câu “đời là khổ” tiện để ghi nhớ nhưng nguy hiểm nếu được coi là bản dịch đầy đủ. Kinh Pāli nói đến lạc thọ, hỷ, an lạc của định, tình bạn tốt và lợi ích của đời sống có giới. Vấn đề không phải phủ nhận niềm vui. Vấn đề là một niềm vui có điều kiện không thể trở thành sở hữu vĩnh viễn chỉ vì ta muốn vậy. Nó có thể lành mạnh, đáng trân trọng và vẫn vô thường.
 
-Điều này cũng ngăn hai cực đoan diễn giải. Cực thứ nhất là bi quan hóa: nhìn người đang hạnh phúc rồi bảo họ chưa hiểu rằng tất cả chỉ là khốn khổ. Cực thứ hai là làm nhẹ: biến dukkha thành chút “stress” mà vài mẹo chú ý sẽ xử lý. Phạm vi canonical gồm đau thân, mất mát, cái chết và sự chấp thủ căn bản; nó sâu hơn một tâm trạng nhưng không xóa sự khác biệt giữa một ngày bình an và một thảm họa.
+Điều này cũng ngăn hai cực đoan diễn giải. Cực thứ nhất là bi quan hóa: nhìn người đang hạnh phúc rồi bảo họ chưa hiểu rằng tất cả chỉ là khốn khổ. Cực thứ hai là làm nhẹ: biến dukkha thành chút “căng thẳng” mà vài mẹo chú ý sẽ xử lý. Phạm vi kinh điển gồm đau thân, mất mát, cái chết và sự chấp thủ căn bản; nó sâu hơn một tâm trạng nhưng không xóa sự khác biệt giữa một ngày bình an và một thảm họa.
 
 Bài học này dùng hai cửa sổ. SN 56.11 cho biết dukkha gồm những gì và giao nhiệm vụ nào đối với nó. [SN 22.59, Anattalakkhaṇa Sutta](https://suttacentral.net/sn22.59) khảo sát sắc, thọ, tưởng, hành, thức dưới ba dấu: vô thường, dukkha và không thích hợp để xem là “của tôi, tôi, tự ngã của tôi”. Đọc cùng nhau, hai bài tránh cả chủ nghĩa yếm thế lẫn sự trừu tượng hóa.
 
@@ -81,11 +86,16 @@ Saṅkhāra-dukkhatā khó hơn. **Saṅkhāra — “sang-kha-ra” — hành, 
 
 Ba phương diện không phải ba hộp kín. Một bệnh gây đau trực tiếp, làm mất niềm vui cũ và phơi bày sự phụ thuộc của thân vào vô số điều kiện. Một tình yêu có thể cho lạc thật, chứa khả năng chia lìa và trở thành chỗ ta dựng bản sắc. Bản đồ giúp đặt câu hỏi khác nhau trên cùng kinh nghiệm; nó không phải phép tính để xếp hạng ai khổ “cao” hơn.
 
-Theo Rupert Gethin, dukkha trong cấu trúc Phật giáo phải được hiểu cùng năm thủ uẩn và nhiệm vụ của Tứ Đế, chứ không chỉ qua một tương đương từ điển. Bhikkhu Anālayo, trong các nghiên cứu so sánh kinh sớm, nhấn mạnh giá trị của việc đọc công thức trong ngữ cảnh thực hành. Những học giả được nêu tên ở đây giúp định hướng cách đọc; họ không thay thế nguồn canonical và không được biến thành “khoa học đã chứng minh đạo Phật”.
+Theo Rupert Gethin, dukkha trong cấu trúc Phật giáo phải được hiểu cùng năm thủ uẩn và nhiệm vụ của Tứ Đế, chứ không chỉ qua một tương đương từ điển. Bhikkhu Anālayo, trong các nghiên cứu so sánh kinh sớm, nhấn mạnh giá trị của việc đọc công thức trong ngữ cảnh thực hành. Những học giả được nêu tên ở đây giúp định hướng cách đọc; họ không thay thế nguồn kinh điển và không được biến thành “khoa học đã chứng minh đạo Phật”.
 
 ## 4. Nhiệm Vụ Là Liễu Tri, Không Phải Ghét Bỏ
 
 ![người quan sát cầm đèn soi toàn bộ mạng điều kiện thay vì đập vỡ trải nghiệm khó chịu](../assets/illustrations/theravada-batch2/theravada-06-parinna.webp)
+
+> **Pāli — SN 56.11, Bilara `sn56.11:5.2`**
+> *Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti me, bhikkhave, pubbe …pe… udapādi.*
+>
+> **Bản dịch làm việc:** “Tri kiến khởi lên nơi Ta rằng: sự thật cao quý về dukkha này cần được hiểu trọn vẹn.”
 
 Trong SN 56.11, nhiệm vụ đối với sự thật về dukkha là *pariññeyya*: cần được biết đầy đủ, liễu tri. **Pariññā — “pa-rin-nha” — sự hiểu biết trọn vẹn** không phải chỉ đặt nhãn “đây là khổ”. Nó đòi nhận diện biểu hiện, điều kiện, sức hấp dẫn, nguy hiểm và cách thoát khỏi sự nắm giữ. Động từ này sửa một lỗi thực hành phổ biến: nghe “khổ” rồi sinh ác cảm với chính kinh nghiệm.
 
@@ -102,6 +112,11 @@ Hiểu đầy đủ cũng có tính lặp lại. Ta có thể hiểu khái niệ
 ## 5. Vô Thường, Dukkha Và Không Phải Tự Ngã
 
 ![năm uẩn đi qua ba cửa vô thường, dukkha và không thích hợp nhận làm tự ngã](../assets/illustrations/theravada-batch2/theravada-06-ba-dau-quan-sat.webp)
+
+> **Pāli — SN 22.59, Bilara `sn22.59:6.1–6.18`**
+> *Taṁ kiṁ maññatha, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti? “Dukkhaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti? “No hetaṁ, bhante”. “Vedanā … saññā … saṅkhārā … viññāṇaṁ niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti? “Dukkhaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti? “No hetaṁ, bhante”.*
+>
+> **Bản dịch làm việc:** “Này các Tỳ-kheo, các thầy nghĩ sao: sắc là thường hay vô thường? — Vô thường, bạch Thế Tôn. Cái gì vô thường thì là dukkha hay lạc? — Là dukkha, bạch Thế Tôn. Cái gì vô thường, dukkha và chịu biến đổi, có thích hợp để xem rằng: ‘cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi’ không? — Thưa không, bạch Thế Tôn. Thọ, tưởng, hành và thức cũng được xét như vậy.”
 
 SN 22.59 nối **anicca — “a-nít-cha” — vô thường** với dukkha và **anattā — “a-nát-ta” — không phải tự ngã, không thích hợp xem là tự ngã**. Ba phép nhìn hỗ trợ nhau nhưng không phải ba từ đồng nghĩa. Vô thường nói đến sinh–diệt và đổi thay; dukkha nói đến sự không thể làm nền thỏa mãn chắc chắn; anattā thẩm tra quyền sở hữu và đồng nhất hóa.
 
@@ -145,11 +160,11 @@ Không gọi một lần nhẹ nhõm là giải thoát. Một phản ứng có t
 > Mô hình “điều kiện thực/cách tâm nắm” và nhật ký ba sắc thái là công cụ sư phạm hiện đại. Bài suy luận rằng liễu tri dukkha nên tăng cả độ chính xác nội tâm lẫn năng lực đáp ứng bệnh, bạo lực và bất công, thay vì thu mọi nguyên nhân về thái độ.
 
 > [!warning] Điều chưa chứng minh
-> Hai bài kinh không chứng minh rằng mọi đời sống là misery, mọi niềm vui là giả, mọi đau đớn do chấp thủ cá nhân, hay bình thản đồng nghĩa giác ngộ. Chúng cũng không chứng minh một “chân ngã” nằm sau năm uẩn hoặc cho phép bỏ điều trị và công lý xã hội.
+> Hai bài kinh không chứng minh rằng mọi đời sống là cùng quẫn, mọi niềm vui là giả, mọi đau đớn do chấp thủ cá nhân, hay bình thản đồng nghĩa giác ngộ. Chúng cũng không chứng minh một “chân ngã” nằm sau năm uẩn hoặc cho phép bỏ điều trị và công lý xã hội.
 
 Đọc trước: [[theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường|Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]]. Đọc tiếp: Ái, Thủ Và Hữu — Cơ Chế Tự Nuôi Của Khổ. Bài 07 chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
 
-**Nguồn canonical chính xác**
+**Nguồn kinh điển chính xác**
 
 - [SN 56.11: Dhammacakkappavattana Sutta](https://suttacentral.net/sn56.11), nguồn cho phạm vi dukkha, năm thủ uẩn và nhiệm vụ liễu tri.
 - [SN 22.59: Anattalakkhaṇa Sutta](https://suttacentral.net/sn22.59), nguồn cho phép khảo sát năm uẩn qua vô thường, dukkha và không phải tự ngã.

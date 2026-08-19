@@ -219,6 +219,8 @@ def validate_published_lessons(curriculum: dict) -> None:
             fail(f"translation source edition missing for lesson {row['lesson']}")
         if "<!-- ILLUSTRATION:" in text:
             fail(f"unresolved image placeholder: {path.relative_to(ROOT)}")
+        if row["lesson"] <= 22 and text.count("> **Pāli —") < 3:
+            fail(f"scripture-first quote minimum not met: {path.relative_to(ROOT)}")
         if row["lesson"] in {1, 2, 3, 4, 5, 8}:
             image_batch = "theravada-batch1"
         elif row["lesson"] <= 16:

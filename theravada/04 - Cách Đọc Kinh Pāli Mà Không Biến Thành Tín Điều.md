@@ -69,6 +69,12 @@ Cuối cùng, hỏi **lời dạy này được kiểm tra bằng loại kết q
 ## 3. MN 22: Nắm Con Rắn Đúng Chỗ Và Không Vác Chiếc Bè
 ![bàn tay giữ đúng sau đầu rắn bên bờ sông có chiếc bè, biểu tượng phương pháp chứ không tái dựng lịch sử](../assets/illustrations/theravada-batch1/theravada-04-ran-va-be.webp)
 
+> **Pāli — MN 22, mn22:10.3–10.7**
+>
+> *Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ na upaparikkhanti. … Tesaṁ te dhammā duggahitā dīgharattaṁ ahitāya dukkhāya saṁvattanti.*
+>
+> **Bản dịch làm việc:** Học Pháp ấy rồi, họ không dùng trí tuệ khảo sát ý nghĩa. … Những pháp bị nắm sai ấy đưa đến bất lợi và khổ đau lâu dài cho họ.
+
 [MN 22, Alagaddūpama Sutta](https://suttacentral.net/mn22) mở trong một xung đột cụ thể. Tỳ-kheo Ariṭṭha giữ quan điểm rằng những điều Đức Phật gọi là chướng ngại không nhất thiết gây chướng ngại cho người thực hiện. Các Tỳ-kheo khác cố làm ông từ bỏ quan điểm; Đức Phật chất vấn và quở trách cách hiểu ấy. Dụ ngôn con rắn và chiếc bè nằm trong mạch sửa một sự nắm bắt sai, không phải lời mời giải cấu trúc mọi giới hạn đạo đức.
 
 Người học có thể ghi nhớ lời dạy, tụng đọc và nói hay về nó mà vẫn không khảo sát ý nghĩa bằng trí tuệ. MN 22 ví tình trạng ấy với người bắt rắn bằng thân hoặc đuôi: con rắn quay lại cắn. Vấn đề không nằm ở con rắn “xấu”, mà ở cách tiếp cận sai mục đích và sai kỹ thuật. Tương tự, giáo pháp bị dùng để tranh thắng, xây danh tính hoặc hợp thức hóa dục vọng có thể gây hại chính người cầm nó.
@@ -81,6 +87,12 @@ MN 22 dùng một công thức mạnh về việc buông cả “pháp”, huố
 
 ## 4. MN 95: Giữ Một Mệnh Đề Là Thật Chưa Phải Biết Nó Là Thật
 ![chuỗi gặp người dạy, lắng nghe, ghi nhớ, khảo sát nghĩa và thực hành trên con đường](../assets/illustrations/theravada-batch1/theravada-04-cac-bac-tham-tra.webp)
+
+> **Pāli — MN 95, mn95:15.12–15.15**
+>
+> *Iti vadaṁ saccamanurakkhati, na tveva tāva ekaṁsena niṭṭhaṁ gacchati: “idameva saccaṁ, moghamaññan”ti. … Na tveva tāva saccānubodho hoti.*
+>
+> **Bản dịch làm việc:** Nói như vậy là gìn giữ sự thật, nhưng chưa đi đến kết luận một chiều rằng: “Chỉ điều này là thật, điều khác là sai.” … Đến mức ấy vẫn chưa phải là tự mình nhận biết sự thật.
 
 [MN 95, Caṅkī Sutta](https://suttacentral.net/mn95) là đối thoại với Bà-la-môn trẻ Kāpaṭhika trong một cuộc gặp có nhiều nhân vật và vấn đề về thẩm quyền Veda. Điểm then chốt là phân biệt **bảo tồn chân lý** với **khám phá chân lý**. Một người có thể nói trung thực rằng “đây là niềm tin của tôi” hoặc “đây là điều truyền thống tôi trao lại” mà không tuyên bố chỉ điều ấy là thật và mọi điều khác sai. Kỷ luật ngôn ngữ này không hạ thấp đức tin; nó ngăn mức xác quyết vượt quá nền chứng cứ.
 
@@ -99,18 +111,26 @@ MN 95 cũng giúp đặt giới hạn cho câu “hãy tự chứng”. Một tr
 
 Bài kinh khuyên không đi đến kết luận chỉ vì truyền khẩu, truyền thống, tin đồn, bộ sưu tập văn bản, suy luận trừu tượng, suy diễn, cân nhắc bề ngoài, một quan điểm có vẻ hợp lý, uy tín người nói, hay ý nghĩ “đây là thầy ta”. Danh sách không bảo phải sống mà không dùng bất cứ nguồn nào trong số ấy. Nếu hiểu như vậy, chính việc nghe Đức Phật cũng bị loại. Từ khóa là “chỉ vì”: các nguồn này không tự mình hoàn tất việc thẩm định.
 
+> **Pāli — AN 3.65, an3.65:4.2–4.3; an3.65:26.2–26.3**
+>
+> *Yadā tumhe, kālāmā, attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, kālāmā, pajaheyyātha.*
+>
+> *Yadā tumhe, kālāmā, attanāva jāneyyātha: ‘ime dhammā kusalā, ime dhammā anavajjā, ime dhammā viññuppasatthā, ime dhammā samattā samādinnā hitāya sukhāya saṁvattantī’ti, atha tumhe, kālāmā, upasampajja vihareyyātha.*
+>
+> **Bản dịch làm việc:** Này các Kālāma, khi chính các ông biết: “Những pháp này là bất thiện, đáng chê trách, bị người có trí quở trách; khi được thực hiện và duy trì, chúng dẫn đến tổn hại và khổ đau”, thì hãy từ bỏ chúng. … Khi chính các ông biết: “Những pháp này là thiện, không đáng chê trách, được người có trí tán thán; khi được thực hiện và duy trì, chúng dẫn đến lợi ích và an lạc”, thì hãy đi vào và an trú trong chúng.
+
 Ngay sau đó, tiêu chuẩn tích cực không phải “điều gì đúng với bạn”. Người Kālāma được hỏi khi tự biết các phẩm chất là bất thiện, đáng chê, bị người trí quở trách, và khi thực hiện dẫn đến hại–khổ, họ có nên từ bỏ không. Tham, sân, si được dùng làm phép thử cụ thể; không tham, không sân, không si được xét cùng hậu quả an lạc. Bài kinh phối hợp nhận biết của người học, đánh giá liên chủ thể của người có trí và hệ quả đạo đức quan sát được.
 
 “Tự biết” ở đây vì vậy không phải phản ứng “tôi thích”. Người đang giận có thể cảm thấy trả đũa hoàn toàn chính đáng; người lệ thuộc một nhóm có thể cảm thấy phục tùng là an toàn; người mê một trải nghiệm có thể bỏ qua tổn hại dài hạn. Phép thử cần thời gian, sự thành thật và khả năng nhận sai. Nếu một diễn giải khiến ta miễn trách nhiệm, khinh người hoặc hợp thức hóa tham ái, việc nó đem cảm giác giải phóng tức thời chưa đủ làm bằng chứng.
 
-Cuối bài còn trình bày bốn sự an ổn cho người sống với tâm không thù hận: dù có hay không có đời sau và quả của hành động, người ấy vẫn có những lý do để sống không ác. Đoạn này là chiến lược thực hành trong văn cảnh người nghe, không nhất thiết là lời đình chỉ mọi quan điểm canonical về nghiệp và tái sinh. AN 3.65 mở một lộ trình từ hoài nghi chính đáng đến huấn luyện đạo đức; nó không dừng ở hoài nghi.
+Cuối bài còn trình bày bốn sự an ổn cho người sống với tâm không thù hận: dù có hay không có đời sau và quả của hành động, người ấy vẫn có những lý do để sống không ác. Đoạn này là cách thực hành trong văn cảnh người nghe, không nhất thiết là lời đình chỉ mọi quan điểm thuộc kinh điển về nghiệp và tái sinh. AN 3.65 mở một lộ trình từ hoài nghi chính đáng đến huấn luyện đạo đức; nó không dừng ở hoài nghi.
 
 ## 6. Một Quy Trình Đọc Và Kiểm Chứng Có Thể Lặp Lại
 ![vòng lặp nguồn, văn cảnh, thuật ngữ, thực hành, hậu quả và hiệu chỉnh](../assets/illustrations/theravada-batch1/theravada-04-quy-trinh-doc.webp)
 
 Chọn một câu hỏi nhỏ thay vì “Kinh nói gì về cuộc đời?”. Ví dụ: AN 3.65 cho phép dựa vào trải nghiệm đến mức nào? Mở toàn bài ở trang có mã kinh, chọn văn bản Pāli phân đoạn và ghi tên bản dịch dùng để đối chiếu. Tóm tắt người nói, người nghe, vấn đề và kết luận bằng năm câu của chính mình. Nếu không thể tóm tắt, chưa nên trích một dòng làm khẩu hiệu.
 
-Đánh dấu từ gánh lập luận, nhưng chỉ tra những từ cần thiết. So sánh cách hai người dịch xử lý, tìm vài lần dùng khác, rồi ghi mức chắc: “văn bản nói rõ”, “cách dịch có khác”, “bài này suy luận”. Cách ghi ba cột ngăn diễn giải cá nhân lén mang giọng canonical. Khi cần lịch sử hình thành hoặc bản song song, dẫn một học giả có tác phẩm cụ thể; không viết “giới học giả đồng thuận” nếu chưa xác lập phạm vi và nguồn.
+Đánh dấu từ gánh lập luận, nhưng chỉ tra những từ cần thiết. So sánh cách hai người dịch xử lý, tìm vài lần dùng khác, rồi ghi mức chắc: “văn bản nói rõ”, “cách dịch có khác”, “bài này suy luận”. Cách ghi ba cột ngăn diễn giải cá nhân lén mang giọng kinh điển. Khi cần lịch sử hình thành hoặc bản song song, dẫn một học giả có tác phẩm cụ thể; không viết “giới học giả đồng thuận” nếu chưa xác lập phạm vi và nguồn.
 
 Biến mệnh đề thực hành thành thử nghiệm đạo đức có giới hạn. Chẳng hạn, trong một tuần quan sát khi nói từ sân: thân căng thế nào, lời có bóp méo không, quan hệ chịu hệ quả gì, và việc dừng lại ảnh hưởng tâm ra sao. Không cố tạo trạng thái nguy hiểm, không tự ý bỏ điều trị, và không dùng một tuần để tuyên bố chân lý phổ quát. Mục đích là cho văn bản tiếp xúc đời sống mà không giả làm thí nghiệm khoa học.
 
@@ -135,13 +155,13 @@ Sau cùng, cho phép sửa bản đọc. Thay đổi quan điểm trước bản
 
 Đọc trước: [[theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp|Tam Tạng Pāli — Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp]]. Đọc tiếp: [[theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường|Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]].
 
-**Nguồn canonical chính xác**
+**Nguồn kinh điển chính xác**
 
 - [MN 22: Alagaddūpama Sutta](https://suttacentral.net/mn22), [MN 95: Caṅkī Sutta](https://suttacentral.net/mn95), [AN 3.65: Kesamutti Sutta](https://suttacentral.net/an3.65). Trang SuttaCentral cho phép chọn Pāli phân đoạn và bản dịch; bài này không sao chép dài bản dịch lưu trên trang.
 
 **Nghiên cứu và công cụ được nêu tên**
 
-- Bhikkhu Anālayo, *A Comparative Study of the Majjhima-nikāya*, Dharma Drum Publishing, 2011, dùng để định danh phương pháp đối chiếu bản song song, không chép nội dung dài.
+- Bhikkhu Anālayo, *A đối chiếu Study of the Majjhima-nikāya*, Dharma Drum Publishing, 2011, dùng để định danh phương pháp đối chiếu bản song song, không chép nội dung dài.
 - K. R. Norman, *A Philological Approach to Buddhism*, ấn bản thứ hai, Pali Text Society, 2006; [thông tin ấn bản của nhà xuất bản](https://palitextsociety.org/product/a-philological-approach-to-buddhism/), về giá trị của phương pháp ngữ văn khi đọc văn bản Phật giáo.
 - [SuttaCentral Editions](https://suttacentral.net/editions) ghi ấn bản, người dịch và giấy phép theo tài nguyên; phải kiểm tra trang cụ thể thay vì suy từ tên nền tảng.
 

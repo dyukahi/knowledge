@@ -45,15 +45,30 @@ Với sắc, người không được học có thể xem sắc là tự ngã; t
 
 SN 22.1 đặt phân tích trong câu chuyện rất đời: gia chủ Nakulapitā già, bệnh và đau. Đức Phật khuyên dù thân bệnh, tâm đừng bệnh. Tôn giả Sāriputta giải thích tâm bệnh qua hai mươi dạng chấp; khi uẩn đổi, sầu và khổ sinh vì người ấy bị ám bởi “tôi là cái này” và “cái này của tôi”. Tâm không bệnh là không đặt tự ngã theo các cách ấy.
 
-MN 44 là cuộc đối thoại giữa nữ cư sĩ Visākha và ni sư Dhammadinnā. Bà định nghĩa năm thủ uẩn là sakkāya, ái dẫn tái hữu đi cùng hỷ tham là nguồn sinh của sakkāya, sự đoạn ái là đoạn diệt, và Bát Chánh Đạo là con đường. Sau đó bà nêu hai mươi dạng thân kiến. Bản sắc nằm ngay trong cấu trúc Tứ Đế, không chỉ là vấn đề kể chuyện xã hội.
+> **Pāli — SN 22.1:4.6–4.7 (Bilara)**
+> *Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: “āturakāyassa me sato cittaṁ anāturaṁ bhavissatī”ti. Evañhi te, gahapati, sikkhitabban.*
+>
+> **Bản dịch làm việc:** “Vì vậy, này gia chủ, ông nên học như sau: ‘Dù thân tôi bệnh, tâm tôi sẽ không bệnh.’ Này gia chủ, ông nên học như vậy.”
 
-“Tôi sinh lại trong từng phản ứng” là ẩn dụ biên tập cho sự tái tạo căn tính: một lời chê chạm nhãn “người giỏi”, tâm dựng lại người cần chiến thắng. Nó không thay nghĩa canonical của tái sinh và không tuyên bố mỗi phản ứng là một đời sinh học. Bài 17 mới chuyển sang duyên khởi sinh–diệt với phạm vi rộng hơn.
+> **Pāli — MN 44:2.1–2.5 (Bilara)**
+> *“Sakkāyo sakkāyo”ti, ayye, vuccati. Katamo nu kho, ayye, sakkāyo vutto bhagavatāti? Pañca kho ime, āvuso visākha, upādānakkhandhā sakkāyo vutto bhagavatā, seyyathidaṁ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho.*
+>
+> **Bản dịch làm việc:** “‘Sakkāya, sakkāya’—người ta nói như vậy. Thưa ni sư, sakkāya nào được Thế Tôn nói đến?”—“Này hiền hữu Visākha, năm thủ uẩn này được Thế Tôn gọi là sakkāya: thủ uẩn sắc, thủ uẩn thọ, thủ uẩn tưởng, thủ uẩn hành và thủ uẩn thức.”
+
+MN 44 là cuộc đối thoại giữa nam cư sĩ Visākha và ni sư Dhammadinnā. Bà định nghĩa năm thủ uẩn là sakkāya, ái dẫn tái hữu đi cùng hỷ tham là nguồn sinh của sakkāya, sự đoạn ái là đoạn diệt, và Bát Chánh Đạo là con đường. Sau đó bà nêu hai mươi dạng thân kiến. Bản sắc nằm ngay trong cấu trúc Tứ Đế, không chỉ là vấn đề kể chuyện xã hội.
+
+“Tôi sinh lại trong từng phản ứng” là ẩn dụ biên tập cho sự tái tạo căn tính: một lời chê chạm nhãn “người giỏi”, tâm dựng lại người cần chiến thắng. Nó không thay nghĩa kinh điển của tái sinh và không tuyên bố mỗi phản ứng là một đời sinh học. Bài 17 mới chuyển sang duyên khởi sinh–diệt với phạm vi rộng hơn.
 
 ## 2. Hai Mươi Cách Dựng Tự Ngã Quanh Năm Uẩn
 
 ![lưới năm hàng uẩn và bốn cột là sở hữu chứa trong được chứa đồng nhất](../assets/illustrations/theravada-batch2/theravada-16-hai-muoi-vi-tri.webp)
 
 Cột thứ nhất là đồng nhất: “sắc là tự ngã”, “thọ là tự ngã”. Trong đời thường: “tôi chính là cơ thể này”, “tôi là cảm giác buồn này”, “tôi là ký ức và quan điểm này”. Mô tả quy ước không luôn là tà kiến; dấu hiệu chấp là khi thay đổi của một thuộc tính được trải như sự hủy toàn bộ người.
+
+> **Pāli — SN 22.1:9.2–9.3 (Bilara)**
+> *Rūpaṁ attato samanupassati, rūpavantaṁ vā attānaṁ; attani vā rūpaṁ, rūpasmiṁ vā attānaṁ. “Ahaṁ rūpaṁ, mama rūpan”ti pariyuṭṭhaṭṭhāyī hoti. Tassa “ahaṁ rūpaṁ, mama rūpan”ti pariyuṭṭhaṭṭhāyino, taṁ rūpaṁ vipariṇamati aññathā hoti. Tassa rūpavipariṇāmaññathābhāvā uppajjanti sokaparidevadukkhadomanassupāyāsā.*
+>
+> **Bản dịch làm việc:** “Người ấy xem sắc là tự ngã, hoặc xem tự ngã có sắc, hoặc sắc ở trong tự ngã, hoặc tự ngã ở trong sắc. Người ấy bị ý niệm ‘tôi là sắc, sắc là của tôi’ chiếm cứ. Khi sắc ấy biến đổi và trở thành khác, do sắc biến đổi mà sầu, than, đau, ưu và tuyệt vọng sinh lên.”
 
 Cột thứ hai là sở hữu: “tự ngã có sắc”. Ta có thể không nói thân là linh hồn nhưng tưởng một chủ thể đứng ngoài sở hữu thân như đồ vật. Khi thân bệnh, câu hỏi không chỉ “chăm thế nào” mà thành “tại sao tài sản của tôi phản tôi?”. Sở hữu quy ước cần cho trách nhiệm; sở hữu siêu hình đòi quyền tuyệt đối.
 
@@ -79,7 +94,7 @@ Bản sắc không chỉ tiêu cực. “Người tốt”, “người chữa l
 
 Tâm không bệnh trong SN 22.1 không có nghĩa vô cảm trước thân bệnh. Người không chấp vẫn cảm thọ và xử lý thực tế. Khác biệt là uẩn không còn kéo theo sự sụp đổ của chủ thể sở hữu. Đây là hướng tu, không tiêu chuẩn dùng để phán người bệnh “tâm yếu”.
 
-Trong quan hệ, bản sắc tập thể cũng vận hành: “phe tôi”, “gia đình tôi”, “truyền thống tôi”. Hai anchor nói trực tiếp cá nhân quanh uẩn; áp sang tập thể là suy luận hiện đại cần gắn nhãn. Nó hữu ích nếu giúp thấy sở hữu, nhưng không được nói SN 22.1 đã trình bày xã hội học bản sắc.
+Trong quan hệ, bản sắc tập thể cũng vận hành: “phe tôi”, “gia đình tôi”, “truyền thống tôi”. Hai đoạn kinh trụ cột nói trực tiếp cá nhân quanh uẩn; áp sang tập thể là suy luận hiện đại cần gắn nhãn. Nó hữu ích nếu giúp thấy sở hữu, nhưng không được nói SN 22.1 đã trình bày xã hội học bản sắc.
 
 ## 4. Nguồn Sinh Và Đoạn Diệt Của Sakkāya Trong MN 44
 
@@ -95,23 +110,23 @@ Upādāna làm năm uẩn thành năm thủ uẩn: thân, thọ, tưởng, hành
 
 Bát Chánh Đạo ngăn việc nghiên cứu bản sắc thành tự phân tích vô tận. Chánh kiến thấy điều kiện; chánh ý hướng giảm sân; chánh ngữ sửa cách bảo vệ nhãn; chánh nghiệp và mạng giữ trách nhiệm; tinh tấn, niệm, định làm tâm đủ ổn để không phản ứng. Bản sắc được tháo trong đời sống đạo đức, không chỉ bằng khái niệm.
 
-Tiêu đề “sinh lại” vì phản ứng dựng hữu nhỏ: tôi trở thành người bị xúc phạm, người chiến thắng, người thất bại. Đây là cầu nối hiện đại đến bài duyên khởi, không thay thế nghĩa tái hữu trong MN 44. Source discipline giữ cả giá trị thực hành lẫn văn cảnh canonical.
+Tiêu đề “sinh lại” vì phản ứng dựng hữu nhỏ: tôi trở thành người bị xúc phạm, người chiến thắng, người thất bại. Đây là cầu nối hiện đại đến bài duyên khởi, không thay thế nghĩa tái hữu trong MN 44. Kỷ luật nguồn giữ cả giá trị thực hành lẫn văn cảnh kinh điển.
 
-## 5. So Sánh Hiện Đại: Narrative Self Chỉ Là Cộng Hưởng
+## 5. So Sánh Hiện Đại: cái tôi tự sự Chỉ Là Cộng Hưởng
 
-![hai khung tách biệt một bên thân kiến canonical một bên tự sự hiện đại, nối bằng nét đứt cộng hưởng không bằng chứng](../assets/illustrations/theravada-batch2/theravada-16-narrative-self-so-sanh.webp)
+![hai khung tách biệt một bên thân kiến kinh điển một bên tự sự hiện đại, nối bằng nét đứt cộng hưởng không bằng chứng](../assets/illustrations/theravada-batch2/theravada-16-narrative-self-so-sanh.webp)
 
-Trong tâm lý học và triết học hiện đại, “narrative self” thường chỉ cảm giác về bản thân được duy trì bằng ký ức, câu chuyện và vai trò. Khái niệm này cộng hưởng với việc tưởng, hành và chấp tạo căn tính. Nó có thể giúp người đọc nhận ra bản sắc không phải khối tự nhiên bất biến.
+Trong tâm lý học và triết học hiện đại, “cái tôi tự sự” thường chỉ cảm giác về bản thân được duy trì bằng ký ức, câu chuyện và vai trò. Khái niệm này cộng hưởng với việc tưởng, hành và chấp tạo căn tính. Nó có thể giúp người đọc nhận ra bản sắc không phải khối tự nhiên bất biến.
 
-Nhưng narrative self không đồng nghĩa sakkāyadiṭṭhi. MN 44 phân tích hai mươi vị trí quanh năm uẩn và đặt chúng trong Tứ Đế, tái hữu, ly tham. Mô hình hiện đại thường có mục tiêu sức khỏe, tính nhất quán hoặc triết học tâm, không nhất thiết giải thoát khỏi tái sinh. Hai hệ có thể đối thoại nhưng không chứng minh nhau.
+Nhưng cái tôi tự sự không đồng nghĩa sakkāyadiṭṭhi. MN 44 phân tích hai mươi vị trí quanh năm uẩn và đặt chúng trong Tứ Đế, tái hữu, ly tham. Mô hình hiện đại thường có mục tiêu sức khỏe, tính nhất quán hoặc triết học tâm, không nhất thiết giải thoát khỏi tái sinh. Hai hệ có thể đối thoại nhưng không chứng minh nhau.
 
 Một câu chuyện bản thân cũng không mặc nhiên xấu. Người phục hồi sang chấn có thể cần dựng tự sự có trật tự và quyền hành động. Phật pháp không đòi phá cấu trúc tâm lý đang giữ an toàn. Vấn đề là nắm câu chuyện như bản chất tối hậu, không việc sử dụng nó khéo trong trị liệu và đạo đức.
 
 Khoa học thần kinh nghiên cứu mạng não liên hệ tự quy chiếu, nhưng không chứng minh anattā. Một tương quan thần kinh không giải quyết tự ngã siêu hình; một bài kinh không dự đoán ảnh chụp não. Bài này chủ ý giữ so sánh trong mục riêng và không dùng từ “não đã xác nhận Đức Phật”.
 
-Các thuật toán và mạng xã hội cũng định hình vai trò, nhưng SN 22.1 không nói về hồ sơ số. Có thể suy luận rằng lượt thích nuôi thọ, ái và nhãn; cần gọi đó là ứng dụng biên tập. Phê bình nền tảng cần dữ liệu riêng, không mượn uy canonical.
+Các thuật toán và mạng xã hội cũng định hình vai trò, nhưng SN 22.1 không nói về hồ sơ số. Có thể suy luận rằng lượt thích nuôi thọ, ái và nhãn; cần gọi đó là ứng dụng biên tập. Phê bình nền tảng cần dữ liệu riêng, không mượn uy kinh điển.
 
-Cộng hưởng tốt đặt câu hỏi mới và giữ khác biệt; cộng hưởng xấu đổi tên thuật ngữ rồi tuyên bố đồng nhất. Ở đây, narrative self là một thấu kính phụ. Anchor vẫn là hai mươi dạng thân kiến và cấu trúc nguồn sinh–đoạn diệt của MN 44.
+Cộng hưởng tốt đặt câu hỏi mới và giữ khác biệt; cộng hưởng xấu đổi tên thuật ngữ rồi tuyên bố đồng nhất. Ở đây, cái tôi tự sự là một thấu kính phụ. Trụ cột vẫn là hai mươi dạng thân kiến và cấu trúc nguồn sinh–đoạn diệt của MN 44.
 
 ## 6. Thực Hành Bản Đồ Bản Sắc Trong Một Phản Ứng
 
@@ -137,17 +152,17 @@ Nếu bài tập chạm sang chấn mạnh, dừng và tìm hỗ trợ. Không d
 > SN 22.1 giải thích tâm bệnh qua việc xem mỗi uẩn là tự ngã, tự ngã sở hữu uẩn, uẩn ở trong tự ngã hoặc tự ngã ở trong uẩn. MN 44 định nghĩa sakkāya là năm thủ uẩn, nguồn sinh là ba ái, đoạn diệt là đoạn ái và con đường là Bát Chánh Đạo.
 
 > [!info] Truyền thống giải thích gì
-> Theravāda gọi ma trận năm uẩn nhân bốn vị trí là hai mươi dạng thân kiến và xem việc đoạn thân kiến là một mốc quan trọng trên đường. Các triển khai hậu kỳ về kiết sử và sát-na cần nguồn riêng ngoài hai anchor.
+> Theravāda gọi ma trận năm uẩn nhân bốn vị trí là hai mươi dạng thân kiến và xem việc đoạn thân kiến là một mốc quan trọng trên đường. Các triển khai hậu kỳ về kiết sử và sát-na cần nguồn riêng ngoài hai đoạn kinh trụ cột.
 
 > [!example] Bài này suy luận gì
-> “Sinh lại trong từng phản ứng”, bản đồ kích thích–uẩn–vị trí chấp–ái–hành động, và ứng dụng vào vai nghề, mạng xã hội là tổng hợp hiện đại. Narrative self chỉ là so sánh cộng hưởng trong mục riêng.
+> “Sinh lại trong từng phản ứng”, bản đồ kích thích–uẩn–vị trí chấp–ái–hành động, và ứng dụng vào vai nghề, mạng xã hội là tổng hợp hiện đại. Cái tôi tự sự chỉ là so sánh cộng hưởng trong mục riêng.
 
 > [!warning] Điều chưa chứng minh
-> Hai anchor không nói mỗi phản ứng là một đời sinh học, không bảo câu chuyện bản thân hoàn toàn xấu và không chứng minh anattā bằng khoa học thần kinh. Không có lõi tự ngã không đồng nghĩa con người, trách nhiệm hay đau khổ không tồn tại.
+> Hai đoạn kinh trụ cột không nói mỗi phản ứng là một đời sinh học, không bảo câu chuyện bản thân hoàn toàn xấu và không chứng minh anattā bằng khoa học thần kinh. Không có lõi tự ngã không đồng nghĩa con người, trách nhiệm hay đau khổ không tồn tại.
 
 Đọc trước: [[theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì|Vô Ngã — Đức Phật Phủ Định Điều Gì?]]. Đọc tiếp: [[17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt|Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt]].
 
-**Nguồn canonical chính xác**
+**Nguồn kinh điển chính xác**
 
 - [SN 22.1: Nakulapitu Sutta](https://suttacentral.net/sn22.1), nguồn cho thân bệnh–tâm bệnh và hai mươi vị trí chấp quanh uẩn.
 - [MN 44: Cūḷavedalla Sutta](https://suttacentral.net/mn44), nguồn cho định nghĩa sakkāya, nguồn sinh, đoạn diệt, con đường và thân kiến.

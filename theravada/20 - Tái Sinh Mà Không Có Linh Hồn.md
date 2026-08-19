@@ -50,11 +50,15 @@ Ta đã quen với tiếp nối không đồng nhất ở quy mô gần: một l
 
 Theravāda vì vậy tránh cả thường kiến lẫn đoạn kiến. Thường kiến dựng một lõi trường tồn làm chủ kinh nghiệm. Đoạn kiến trong văn cảnh này cho rằng chết là cắt sạch mọi hậu quả đạo đức. Con đường giữa không phải thỏa hiệp “có nửa linh hồn”; nó thay câu hỏi về vật mang bằng câu hỏi về các điều kiện: vô minh, ái, thủ, hữu và nghiệp còn được nuôi không; khi điều kiện hiện diện, sự sinh nào theo sau; khi chúng đoạn diệt, khối khổ dừng thế nào?
 
-Bài này không tuyên bố một cơ chế vật lý của tái sinh. MN 38, SN 12.2 và DN 15 cung cấp ngữ pháp nhân quả và ranh giới phủ định, không chỉ ra hạt, trường, sóng hay năng lượng đo được đi qua cái chết. Thành thật với nguồn nghĩa là có thể trình bày niềm xác quyết canonical mà không giả rằng kinh đã giải bài toán khoa học thực nghiệm.
+Bài này không tuyên bố một cơ chế vật lý của tái sinh. MN 38, SN 12.2 và DN 15 cung cấp ngữ pháp nhân quả và ranh giới phủ định, không chỉ ra hạt, trường, sóng hay năng lượng đo được đi qua cái chết. Thành thật với nguồn nghĩa là có thể trình bày niềm xác quyết kinh điển mà không giả rằng kinh đã giải bài toán khoa học thực nghiệm.
 
 ## 2. MN 38: Không Phải Cùng Một Thức Lang Thang
 
 ![sáu loại thức sinh tùy căn và cảnh thay cho một dòng thức bất biến](../assets/illustrations/theravada-batch3/theravada-20-mn38-thuc-co-dieu-kien.webp)
+
+> **Pāli — MN 38, Bilara `mn38:5.9–5.13`**
+> *Evaṁ byā kho ahaṁ, bhante, bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan. … Nanu mayā, moghapurisa, anekapariyāyena paṭiccasamuppannaṁ viññāṇaṁ vuttaṁ, aññatra paccayā natthi viññāṇassa sambhavoti?*
+> **Bản dịch làm việc:** “Bạch Thế Tôn, con hiểu pháp được Thế Tôn dạy rằng chính thức này chạy quanh, lang thang, không phải một thức khác. … Này kẻ rỗng tuếch, chẳng phải bằng nhiều cách Ta đã nói thức sinh khởi tùy duyên, và ngoài điều kiện thì thức không thể phát sinh sao?”
 
 [MN 38, Mahātaṇhāsaṅkhaya Sutta](https://suttacentral.net/mn38) kể việc tỳ-kheo Sāti hiểu lời dạy theo cách “chính thức này” chạy và luân chuyển, không phải một thức khác. Khi được hỏi thức ấy là gì, Sāti mô tả nó như cái nói, cảm thọ và trải quả thiện ác. Đức Phật quở trách cách hiểu ấy và nhắc rằng thức được dạy là **paṭiccasamuppanna — sinh khởi tùy thuộc điều kiện**; không có điều kiện thì thức không sinh.
 
@@ -72,7 +76,11 @@ MN 38 cho một phương pháp đọc: mỗi khi gặp danh từ như “thức�
 
 ![chuỗi thủ hữu sinh già chết vận hành bằng duyên không có mắt xích linh hồn](../assets/illustrations/theravada-batch3/theravada-20-sn12-huu-sinh.webp)
 
-SN 12.2 định nghĩa chuỗi duyên khởi: vô minh làm duyên cho hành, hành cho thức, thức cho danh-sắc, tiếp tục qua sáu xứ, xúc, thọ, ái, thủ, hữu, sinh và già chết. Trong danh sách không có linh hồn, bản ngã siêu hình hay kho lưu trữ ký ức. Sự vắng mặt này không tự nó là một thí nghiệm chứng minh không có linh hồn; nó cho biết mô hình giải thoát canonical không cần mắt xích ấy.
+> **Pāli — SN 12.2, Bilara `sn12.2:2.11–2.12`**
+> *Bhavapaccayā jāti; jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.*
+> **Bản dịch làm việc:** “Do hữu làm duyên nên có sinh; do sinh làm duyên nên có già chết, sầu, than, đau, ưu và tuyệt vọng sinh khởi.”
+
+SN 12.2 định nghĩa chuỗi duyên khởi: vô minh làm duyên cho hành, hành cho thức, thức cho danh-sắc, tiếp tục qua sáu xứ, xúc, thọ, ái, thủ, hữu, sinh và già chết. Trong danh sách không có linh hồn, bản ngã siêu hình hay kho lưu trữ ký ức. Sự vắng mặt này không tự nó là một thí nghiệm chứng minh không có linh hồn; nó cho biết mô hình giải thoát kinh điển không cần mắt xích ấy.
 
 Đặc biệt, **bhava — “bha-va” — hữu hay tiến trình trở thành trong một miền sinh tồn** được định nghĩa theo dục hữu, sắc hữu và vô sắc hữu. Hữu làm duyên cho sinh; sinh làm duyên cho già chết cùng sầu, than, đau, ưu và tuyệt vọng. Chuỗi nói sự tái sinh được chuẩn bị bởi ái, thủ và hữu dưới vô minh. Nó không tả một hành khách rời ga thân cũ rồi đến ga thân mới.
 
@@ -80,13 +88,17 @@ Chiều đoạn diệt quan trọng ngang chiều sinh: do vô minh ly tham và 
 
 Người đọc có thể hỏi nghiệp nằm ở đâu. SN 12.2 dùng **saṅkhārā — các hành/tạo tác** và bhava trong một cấu trúc rộng; AN 6.63 của bài 19 định nghĩa kamma là cetanā. Ghép các kinh phải thận trọng: hành động có tác ý tạo khuynh hướng và hậu quả; ái–thủ–hữu tiếp tục tiến trình; không có một cuốn sổ hay chất nghiệp cần được chuyên chở. Quan hệ điều kiện mang sức giải thích, không phải một vật mang quan hệ.
 
-Ví dụ ngọn lửa truyền từ đèn này sang đèn khác thường được dùng để gợi ý “không phải một, không hoàn toàn khác”. Nó hữu ích nếu được ghi là minh họa truyền thống, không phải công thức trong ba anchor và không phải mô hình năng lượng. Ngọn lửa vật lý có hóa học riêng; tái sinh canonical có ngữ cảnh nghiệp, vô minh và ái. Ẩn dụ chỉ giúp bỏ đòi hỏi về một vật đồng nhất.
+Ví dụ ngọn lửa truyền từ đèn này sang đèn khác thường được dùng để gợi ý “không phải một, không hoàn toàn khác”. Nó hữu ích nếu được ghi là minh họa truyền thống, không phải công thức trong ba nguồn trụ cột và không phải mô hình năng lượng. Ngọn lửa vật lý có hóa học riêng; tái sinh kinh điển có ngữ cảnh nghiệp, vô minh và ái. Ẩn dụ chỉ giúp bỏ đòi hỏi về một vật đồng nhất.
 
 Vì SN 12.2 định nghĩa jāti theo sinh hữu, một cách đọc “tái sinh chỉ là bản ngã sinh trong từng phản ứng” là quá hẹp nếu trình bày như toàn nghĩa. Quan sát bản sắc sinh mỗi lúc vẫn hữu ích, như bài 16 và 18 đã làm, nhưng phải mang nhãn ứng dụng hiện đại. Bài kinh giữ cả khả năng quan sát hiện tại lẫn chân trời nhiều đời.
 
 ## 4. DN 15: Thức Và Danh-Sắc Nương Nhau
 
 ![thức và danh sắc nương nhau như hai bó lau mà không tạo một chủ thể](../assets/illustrations/theravada-batch3/theravada-20-dn15-thuc-danh-sac.webp)
+
+> **Pāli — DN 15, Bilara `dn15:3.1`**
+> *Iti kho, ānanda, nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo.*
+> **Bản dịch làm việc:** “Như vậy, này Ānanda, do danh-sắc làm duyên nên có thức; do thức làm duyên nên có danh-sắc; do danh-sắc làm duyên nên có xúc; do xúc làm duyên nên có thọ; do thọ làm duyên nên có ái; do ái làm duyên nên có thủ; do thủ làm duyên nên có hữu.”
 
 [DN 15, Mahānidāna Sutta](https://suttacentral.net/dn15) đi sâu vào điều kiện của thức và danh-sắc. Kinh hỏi: nếu thức không đi xuống bụng mẹ, danh-sắc có hình thành ở đó không; nếu thức sau khi đi xuống lại lệch đi, danh-sắc có sinh trưởng thành trạng thái này không; nếu thức bị cắt khỏi trẻ nhỏ, danh-sắc có tăng trưởng không? Câu trả lời đều là không. Đoạn này giữ một phạm vi sinh thành mạnh, không thể giản lược toàn bộ thành tâm lý trong một khoảnh khắc.
 
@@ -98,15 +110,15 @@ DN 15 còn nối thọ với ái, tìm cầu, đạt được, quyết định, 
 
 “Causal continuity” nên được hiểu khiêm tốn: một đời sau không đồng nhất đời trước, nhưng không vô can với nó. Ta không có quyền từ nguyên tắc ấy suy đoán một người cụ thể từng là ai, vì sao họ sinh vào hoàn cảnh này, hay ký ức lạ chắc chắn thuộc đời trước. Các kinh cho khung đạo đức–giải thoát, không cho người đọc tri thức toàn tri về hồ sơ cá nhân.
 
-Ba anchor cùng dựng một hàng rào kép. MN 38: không được biến thức thành cùng một chủ thể lang thang. SN 12.2 và DN 15: không được biến cái chết thành khoảng cắt không điều kiện. Ở giữa là sự tiếp nối nhân quả của tiến trình, đủ để trách nhiệm và giải thoát có nghĩa mà không tái lập linh hồn.
+Ba nguồn trụ cột cùng dựng một hàng rào kép. MN 38: không được biến thức thành cùng một chủ thể lang thang. SN 12.2 và DN 15: không được biến cái chết thành khoảng cắt không điều kiện. Ở giữa là sự tiếp nối nhân quả của tiến trình, đủ để trách nhiệm và giải thoát có nghĩa mà không tái lập linh hồn.
 
-## 5. Paṭisandhi: Hệ Thống Hóa Hậu Kỳ, Không Phải Từ Khóa Của Ba Anchor
+## 5. Paṭisandhi: Hệ Thống Hóa Hậu Kỳ, Không Phải Từ Khóa Của Ba Đoạn kinh nền
 
 ![paṭisandhi được đặt trong khung Abhidhamma và chú giải hậu kỳ có nhãn nguồn](../assets/illustrations/theravada-batch3/theravada-20-patisandhi-hau-ky.webp)
 
 Trong Theravāda hệ thống, **paṭisandhi — đọc gần đúng “pa-tí-xan-đhi” — sự nối lại hay tục sinh** gọi chức năng của sát-na tâm đầu tiên trong đời mới, nối tiếp tiến trình sau tâm tử **cuti** của đời trước. Hệ Abhidhamma và chú giải còn dùng bhavaṅga, lộ tâm và các phân loại nghiệp để giải thích chi tiết sự nối đời mà không cần linh hồn.
 
-Nhãn nguồn là bắt buộc. Từ và mô hình kỹ thuật paṭisandhi như lộ tâm hoàn chỉnh không được trình bày nguyên dạng trong MN 38, SN 12.2 hay DN 15. Nó là sự hệ thống hóa Theravāda hậu kỳ dựa trên các cam kết canonical về nghiệp, thức có điều kiện và tái sinh. Nói “theo Abhidhamma và chú giải” vừa tôn trọng truyền thống vừa không gán nhầm niên đại cho Kinh sớm.
+Nhãn nguồn là bắt buộc. Từ và mô hình kỹ thuật paṭisandhi như lộ tâm hoàn chỉnh không được trình bày nguyên dạng trong MN 38, SN 12.2 hay DN 15. Nó là sự hệ thống hóa Theravāda hậu kỳ dựa trên các cam kết kinh điển về nghiệp, thức có điều kiện và tái sinh. Nói “theo Abhidhamma và chú giải” vừa tôn trọng truyền thống vừa không gán nhầm niên đại cho Kinh sớm.
 
 Sức mạnh của mô hình là giải quyết hai cực: tâm tục sinh không phải tâm tử đồng nhất, nhưng sự xuất hiện của nó được định hình bởi nghiệp và điều kiện trước. Không có ký ức hay bản ngã bắt buộc phải đóng gói trong một vật. Tương tục được phân tích thành các tâm sinh–diệt, trong đó mỗi tâm làm điều kiện cho tâm kế.
 
@@ -128,7 +140,7 @@ Tiếp theo, đưa điều kiện đối trị vào trước mắt xích dễ ca
 
 Khi nghĩ về cái chết, dùng hai câu song hành: “Hành động có hậu quả vượt khỏi khoảnh khắc này” và “không có vật sở hữu hậu quả như tài sản vĩnh viễn.” Câu đầu chống buông xuôi; câu sau chống tự tôn và tự ghét. Nếu niềm tin tái sinh khiến người học trì hoãn chăm sóc thân, bỏ công lý hoặc suy đoán nghiệp nạn nhân, cách dùng ấy đã lệch mục tiêu giảm khổ.
 
-Không dùng bài học này để khẳng định trẻ nhớ tiền kiếp, ngoại cảm hay hiện tượng cận tử đều chứng minh canonical. Những đề tài ấy cần phương pháp và bằng chứng riêng. Cũng không dùng việc chưa có cơ chế khoa học để tuyên bố chắc chắn rằng tái sinh bất khả; đó là một kết luận vượt dữ kiện theo hướng ngược. Trong bài này, ta chỉ xác định kinh nói gì và không nói gì.
+Không dùng bài học này để khẳng định trẻ nhớ tiền kiếp, ngoại cảm hay hiện tượng cận tử đều chứng minh kinh điển. Những đề tài ấy cần phương pháp và bằng chứng riêng. Cũng không dùng việc chưa có cơ chế khoa học để tuyên bố chắc chắn rằng tái sinh bất khả; đó là một kết luận vượt dữ kiện theo hướng ngược. Trong bài này, ta chỉ xác định kinh nói gì và không nói gì.
 
 Thực hành cuối cùng là đọc chuỗi theo chiều đoạn diệt. Ngay trong một phản ứng, khi thọ được biết mà ái không được nuôi, thủ yếu đi; kiểu hữu tương ứng không thành. Ứng dụng hiện tại không thay nghĩa tái sinh, nhưng cho thấy vì sao giáo lý không chỉ là chuyện sau khi chết. Những điều kiện quyết định hướng sống và chết đang được tập hôm nay.
 
@@ -140,23 +152,23 @@ Thực hành cuối cùng là đọc chuỗi theo chiều đoạn diệt. Ngay t
 > MN 38 bác quan điểm cùng một thức nói, cảm thọ và nhận quả chạy qua luân hồi; thức chỉ sinh tùy điều kiện. SN 12.2 đặt hữu làm duyên cho sinh và trình bày cả chiều sinh lẫn đoạn diệt. DN 15 mô tả thức và danh-sắc nương nhau trong sinh thành, không nêu một linh hồn độc lập.
 
 > [!info] Truyền thống giải thích gì
-> Abhidhamma và chú giải Theravāda hệ thống sự nối đời bằng cuti, paṭisandhi, bhavaṅga và các quan hệ tâm nối tiếp. Đây là mô hình hậu kỳ có ảnh hưởng, không phải thuật ngữ kỹ thuật xuất hiện nguyên dạng trong ba anchor.
+> Abhidhamma và chú giải Theravāda hệ thống sự nối đời bằng cuti, paṭisandhi, bhavaṅga và các quan hệ tâm nối tiếp. Đây là mô hình hậu kỳ có ảnh hưởng, không phải thuật ngữ kỹ thuật xuất hiện nguyên dạng trong ba nguồn trụ cột.
 
 > [!example] Bài này suy luận gì
 > Công thức “tiếp nối nhân quả không đồng nhất, cũng không hoàn toàn tách biệt”, bài tập theo dõi mẫu hình và các ví dụ lời hứa, thói quen, ngọn lửa là cách giải thích biên tập. Chúng minh họa logic, không tự chứng minh tái sinh.
 
 > [!warning] Điều chưa chứng minh
-> Ba anchor không mô tả một hạt, năng lượng, trường ký ức, cơ chế lượng tử hay dòng thông tin vật lý đi qua cái chết. Chúng cũng không cho phép xác nhận một ký ức là tiền kiếp, đoán nghiệp của cá nhân, hoặc đồng nhất paṭisandhi với phát hiện khoa học hiện đại.
+> Ba nguồn trụ cột không mô tả một hạt, năng lượng, trường ký ức, cơ chế lượng tử hay dòng thông tin vật lý đi qua cái chết. Chúng cũng không cho phép xác nhận một ký ức là tiền kiếp, đoán nghiệp của cá nhân, hoặc đồng nhất paṭisandhi với phát hiện khoa học hiện đại.
 
 Đọc trước: [[19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ|Kamma — Nghiệp Là Tác Ý]]. Đọc tiếp: [[21 - Những Gì Kinh Pāli Nói Về Cái Chết]].
 
-**Nguồn canonical chính xác**
+**Nguồn kinh điển chính xác**
 
 - [MN 38: Mahātaṇhāsaṅkhaya Sutta](https://suttacentral.net/mn38), lời quở quan điểm cùng một thức luân chuyển và nguyên tắc thức sinh tùy điều kiện.
 - [SN 12.2: Vibhaṅga Sutta](https://suttacentral.net/sn12.2), định nghĩa hữu, sinh và chuỗi duyên khởi hai chiều.
 - [DN 15: Mahānidāna Sutta](https://suttacentral.net/dn15), quan hệ thức–danh-sắc và điều kiện sinh thành.
 
-**Abhidhamma, chú giải và scholarship có tên**
+**Abhidhamma, chú giải và công trình học thuật có tên**
 
 - *Paṭṭhāna* và các trình bày Abhidhamma Theravāda về quan hệ duyên; nêu để xác định nền hệ thống, không gán là văn MN 38.
 - Buddhaghosa, *Visuddhimagga*, chương XVII, mô hình duyên khởi và tục sinh của chú giải Theravāda.
@@ -164,4 +176,4 @@ Thực hành cuối cùng là đọc chuỗi theo chiều đoạn diệt. Ngay t
 - Bhikkhu Anālayo, *Rebirth in Early Buddhism and Current Research*, Wisdom Publications, 2018, khảo sát tái sinh trong nguồn sớm và nghiên cứu hiện đại.
 - [SuttaCentral Editions](https://suttacentral.net/editions), thông tin ấn bản, người dịch và giấy phép theo từng tài nguyên.
 
-Pāli làm việc là văn bản Bilara phân đoạn trên SuttaCentral, truy cập ngày 2026-08-19. Các bản dịch của Bhikkhu Sujato, Bhikkhu Bodhi, Maurice Walshe và Ṭhānissaro Bhikkhu chỉ dùng đối chiếu. Câu Pāli ngắn và toàn bộ văn xuôi Việt là bản dịch/tổng hợp làm việc của redpill.wiki, không sao chép dài bản dịch ngoài. `source_license_checked` còn `false` vì Batch 3 chưa có source manifest theo từng ấn bản; các nguồn hậu kỳ và scholarship được ghi provenance riêng.
+Pāli làm việc là văn bản Bilara phân đoạn trên SuttaCentral, truy cập ngày 2026-08-19. Các bản dịch của Bhikkhu Sujato, Bhikkhu Bodhi, Maurice Walshe và Ṭhānissaro Bhikkhu chỉ dùng đối chiếu. Câu Pāli ngắn và toàn bộ văn xuôi Việt là bản dịch/tổng hợp làm việc của redpill.wiki, không sao chép dài bản dịch ngoài. `source_license_checked` còn `false` vì Batch 3 chưa có bảng kê nguồn theo từng ấn bản; các nguồn hậu kỳ và công trình học thuật được ghi xuất xứ riêng.

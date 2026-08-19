@@ -38,7 +38,6 @@ source_license_checked: true
 
 ![hình tượng tự nhiên diễn giải 1. đưa “nghiệp” trở lại hành động có tác ý mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-1-ua-nghiep-tro-lai-hanh-ong-co-tac-y.webp)
 
-<!-- IMAGE PLACEHOLDER: Một ngã rẽ đạo đức với tác ý ở trung tâm, thay cho cuốn sổ vũ trụ cộng trừ điểm và chiếc búa trừng phạt. -->
 
 Trong tiếng Việt phổ thông, “nghiệp” có thể chỉ số xui, một món nợ bí ẩn, thói quen nghề nghiệp hoặc lời chê người đang gặp nạn. Trong [AN 6.63, Nibbedhika Sutta](https://suttacentral.net/an6.63), định nghĩa làm thay đổi toàn bộ khung: **kamma — đọc gần đúng “cam-ma” — nghiệp, hành động có tác ý**. Câu Pāli ngắn nói: *cetanāhaṃ, bhikkhave, kammaṃ vadāmi*—“Này các tỳ-kheo, Ta nói tác ý là nghiệp.” Sau khi có tác ý, người ta tạo nghiệp qua thân, lời và tâm.
 
@@ -54,11 +53,14 @@ Bài này giữ đồng thời ba điều: hành động có hậu quả; hậu 
 
 ![hình tượng tự nhiên diễn giải 2. an 6.63: tác ý, nguồn sinh, đa dạng và đoạn diệt của nghiệp mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-2-an-6-63-tac-y-nguon-sinh-a-dang-va-oan-diet.webp)
 
-<!-- IMAGE PLACEHOLDER: Cetanā phát thành ba cửa thân khẩu ý, với sáu xúc làm điều kiện và Bát Chánh Đạo mở hướng đoạn nghiệp. -->
 
 AN 6.63 không chỉ cho một câu định nghĩa. Kinh đặt nghiệp vào phương pháp phân tích: nghiệp cần được biết, nguồn sinh của nghiệp cần được biết, sự đa dạng, quả, sự đoạn diệt và con đường dẫn tới đoạn diệt cần được biết. Nguồn sinh được liên hệ với xúc; sự đa dạng gồm nghiệp dẫn tới kinh nghiệm ở địa ngục, loài vật, ngạ quỷ, cõi người và cõi trời; quả được trải ngay hiện tại, đời kế hoặc về sau; đoạn diệt nghiệp được nói cùng sự đoạn diệt xúc; Bát Chánh Đạo là con đường.
 
-Cấu trúc này ngăn “nghiệp là tác ý” bị thu hẹp thành tâm lý chủ quan. Tác ý đi qua thân, khẩu, ý và có quả trong một vũ trụ đạo đức canonical. Nhưng cũng ngăn nghiệp thành vật thể: nó được phân tích theo điều kiện, loại hành động, thời điểm quả và con đường đoạn diệt. Không có một kho điểm được mô tả.
+> **Pāli — AN 6.63, Bilara `an6.63:33.3–33.4`**
+> *Cetanāhaṁ, bhikkhave, kammaṁ vadāmi. Cetayitvā kammaṁ karoti.*
+> **Bản dịch làm việc:** “Này các tỳ-kheo, Ta nói tác ý là nghiệp. Sau khi có tác ý, người ta tạo nghiệp.”
+
+Cấu trúc này ngăn “nghiệp là tác ý” bị thu hẹp thành tâm lý chủ quan. Tác ý đi qua thân, khẩu, ý và có quả trong một vũ trụ đạo đức kinh điển. Nhưng cũng ngăn nghiệp thành vật thể: nó được phân tích theo điều kiện, loại hành động, thời điểm quả và con đường đoạn diệt. Không có một kho điểm được mô tả.
 
 Xúc làm điều kiện cho nghiệp vì hành động có tác ý diễn ra trong kinh nghiệm: thấy, nghe, nghĩ, cảm thọ và phản ứng. Điều đó không có nghĩa hễ có xúc là có cùng nghiệp. Một lời xúc phạm có thể gặp sân và ý muốn trả đũa; cũng có thể gặp kiên nhẫn, đặt ranh giới hoặc im lặng có trí. Lịch sử thói quen ảnh hưởng lựa chọn, nhưng giới, niệm, hiểu biết và hỗ trợ cũng là điều kiện.
 
@@ -72,9 +74,12 @@ Nói nghiệp qua thân và khẩu cũng sửa việc chỉ chăm “năng lư�
 
 ![hình tượng tự nhiên diễn giải 3. mn 135: quan hệ đạo đức không phải công thức một–một mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-3-mn-135-quan-he-ao-uc-khong-phai-cong-thuc-m.webp)
 
-<!-- IMAGE PLACEHOLDER: Các cặp hành vi và khuynh hướng hậu quả của MN 135 nối bằng đường xác suất đạo đức, không phải dấu bằng cứng. -->
 
 MN 135 trình bày các cặp. Người sát sinh, tàn nhẫn có thể tái sinh cảnh khổ; nếu trở lại làm người thì đoản thọ. Người từ bỏ sát sinh có khuynh hướng trái lại. Gây thương tích liên hệ bệnh tật; không gây hại liên hệ sức khỏe. Sân hận liên hệ dung sắc kém; không sân liên hệ dung sắc tốt. Đố kỵ liên hệ ít ảnh hưởng; không đố kỵ liên hệ ảnh hưởng. Không bố thí liên hệ nghèo; bố thí liên hệ giàu. Kiêu mạn liên hệ địa vị thấp; tôn trọng liên hệ địa vị cao. Không hỏi điều thiện bất thiện liên hệ ít trí; biết hỏi liên hệ trí.
+
+> **Pāli — MN 135, Bilara `mn135:4.1–4.2`**
+> *Kammassakā, māṇava, sattā kammadāyādā kammayonī kammabandhū kammappaṭisaraṇā. Kammaṁ satte vibhajati yadidaṁ.*
+> **Bản dịch làm việc:** “Này thanh niên, chúng sinh là chủ nhân của nghiệp, thừa tự nghiệp, sinh từ nghiệp, có nghiệp là thân quyến, có nghiệp là nơi nương tựa. Chính nghiệp phân chia chúng sinh.”
 
 Đọc đúng cần giữ văn cảnh nghiệp và tái sinh mà kinh nêu. Không nên hiện đại hóa thành “chỉ là tâm lý”: sát sinh thật sự là hành động nặng, và quả không chỉ là cảm giác tội lỗi. Nhưng cũng không nên biến các cặp thành phép chẩn đoán ngược. Từ “người này nghèo” không thể suy chắc “người này từng keo kiệt”; từ bệnh không thể kết luận từng gây hại. Kinh dạy chiều hành động đến khuynh hướng quả, không ban năng lực toàn tri đi từ một quả phức hợp tới một nghiệp duy nhất.
 
@@ -90,17 +95,20 @@ Các cặp của MN 135 cũng không định giá phẩm giá người. Người
 
 ![hình tượng tự nhiên diễn giải 4. vì sao kamma không phải định mệnh hay nguyên nhân duy nhất mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-4-vi-sao-kamma-khong-phai-inh-menh-hay-nguyen.webp)
 
-<!-- IMAGE PLACEHOLDER: Một dòng đời nhận nhiều luồng điều kiện gồm nghiệp, thân thể, môi trường, hành vi người khác và lựa chọn hiện tại, không có luồng nào bị xóa. -->
 
 Định mệnh nói kết quả đã cố định và nỗ lực hiện tại vô nghĩa. Giáo lý kamma nói hành động hiện tại là một điều kiện có sức tạo hậu quả. Chỉ riêng việc Bát Chánh Đạo, tinh tấn và tu sửa được dạy đã loại cách đọc hoàn toàn định mệnh. Nếu quá khứ quyết mọi thứ, khuyên tránh bất thiện và phát triển thiện sẽ vô ích.
 
-Kinh tạng còn bác học thuyết cho rằng mọi cảm thọ hiện tại đều do hành động quá khứ. Trong [SN 36.21, Sīvaka Sutta](https://suttacentral.net/sn36.21), Đức Phật liệt kê nhiều nguồn của cảm thọ đau: rối loạn mật, đờm, gió, sự kết hợp, thay đổi thời tiết, xử lý bất cẩn, bị tấn công và quả nghiệp. Bài này lấy AN 6.63 và MN 135 làm anchor; SN 36.21 là nguồn bổ trợ trực tiếp cho hàng rào “không phải mọi thứ chỉ do nghiệp”.
+> **Pāli — AN 6.63, Bilara `an6.63:37.1–37.3`**
+> *Katamo ca, bhikkhave, kammanirodho? Phassanirodho, bhikkhave, kammanirodho. Ayameva ariyo aṭṭhaṅgiko maggo kammanirodhagāminī paṭipadā.*
+> **Bản dịch làm việc:** “Và này các tỳ-kheo, nghiệp đoạn diệt là gì? Xúc đoạn diệt là nghiệp đoạn diệt. Chính Thánh đạo tám ngành này là con đường đưa đến nghiệp đoạn diệt.”
 
-Trong [AN 3.61, Titthāyatana Sutta](https://suttacentral.net/an3.61), quan điểm mọi kinh nghiệm do nghiệp quá khứ bị phê bình vì làm mất nền cho nỗ lực và phân biệt việc nên làm. Cùng với Sīvaka Sutta, nguồn này cho thấy chống tất định không phải nhượng bộ hiện đại mà có neo canonical.
+Kinh tạng còn bác học thuyết cho rằng mọi cảm thọ hiện tại đều do hành động quá khứ. Trong [SN 36.21, Sīvaka Sutta](https://suttacentral.net/sn36.21), Đức Phật liệt kê nhiều nguồn của cảm thọ đau: rối loạn mật, đờm, gió, sự kết hợp, thay đổi thời tiết, xử lý bất cẩn, bị tấn công và quả nghiệp. Bài này lấy AN 6.63 và MN 135 làm nguồn trụ cột; SN 36.21 là nguồn bổ trợ trực tiếp cho hàng rào “không phải mọi thứ chỉ do nghiệp”.
+
+Trong [AN 3.61, Titthāyatana Sutta](https://suttacentral.net/an3.61), quan điểm mọi kinh nghiệm do nghiệp quá khứ bị phê bình vì làm mất nền cho nỗ lực và phân biệt việc nên làm. Cùng với Sīvaka Sutta, nguồn này cho thấy chống tất định không phải nhượng bộ hiện đại mà có neo kinh điển.
 
 Phi tất định không đồng nghĩa ngẫu nhiên hoàn toàn. Hành vi lặp tạo khuynh hướng: nói dối làm lần nói dối sau dễ, làm tổn thương phá tin cậy, bố thí luyện tâm rộng. Hậu quả có thể đến ngay, trễ hoặc bị nhiều điều kiện điều chỉnh. Ta không kiểm soát toàn bộ quả nhưng vẫn có lý do đạo đức để chọn hành động.
 
-Nghiệp cũng không phải “luật hấp dẫn”. Mong mạnh không tự động kéo tiền hay bệnh; ý nghĩ tiêu cực không khiến nạn nhân tạo ra bạo lực họ chịu. Cetanā là tác ý của hành động, không là sóng phát đơn hàng cho vũ trụ. Gắn nghiệp với tần số, lượng tử hay trường ký ức là diễn giải huyền học ngoài hai anchor, không được trình bày như Theravāda canonical.
+Nghiệp cũng không phải “luật hấp dẫn”. Mong mạnh không tự động kéo tiền hay bệnh; ý nghĩ tiêu cực không khiến nạn nhân tạo ra bạo lực họ chịu. Cetanā là tác ý của hành động, không là sóng phát đơn hàng cho vũ trụ. Gắn nghiệp với tần số, lượng tử hay trường ký ức là diễn giải huyền học ngoài hai nguồn trụ cột, không được trình bày như Theravāda kinh điển.
 
 Cuối cùng, phi tất định bảo vệ khả năng hối cải. Một hành động bất thiện đã làm không thể bị làm như chưa từng có; người gây hại phải dừng, nhận trách nhiệm, sửa trong mức có thể và chấp nhận hậu quả. Nhưng họ không bị đóng thành “bản chất ác” bất biến. Những tác ý và hành động mới tạo điều kiện mới. Trách nhiệm khác với bản án bản thể.
 
@@ -108,7 +116,6 @@ Cuối cùng, phi tất định bảo vệ khả năng hối cải. Một hành 
 
 ![hình tượng tự nhiên diễn giải 5. không đổ lỗi nạn nhân: hàng rào đạo đức bắt buộc mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-5-khong-o-loi-nan-nhan-hang-rao-ao-uc-bat-buo.webp)
 
-<!-- IMAGE PLACEHOLDER: Một vòng bảo vệ quanh nạn nhân gồm an toàn, sự thật, chăm sóc và công lý; mũi tên trách nhiệm hướng về tác ý của người gây hại. -->
 
 Đổ lỗi nạn nhân thường mang ba dạng. Dạng thô: “Bạn gặp nạn vì nghiệp xấu.” Dạng tâm lý hóa: “Bạn thu hút điều này bằng năng lượng.” Dạng tu hành: “Nếu đau, bạn chưa buông.” Cả ba đều tuyên bố biết điều không có chứng cứ, chuyển trách nhiệm khỏi người gây hại và bỏ qua các điều kiện thật.
 
@@ -116,7 +123,7 @@ Trong một vụ bạo lực, kamma rõ nhất mà ta có thể thẩm tra là t
 
 Một người có thể tìm ý nghĩa từ đau khổ của chính mình nếu họ tự chọn; người ngoài không được áp chuyện nghiệp để hợp thức hóa đau. Lòng bi không cần một lý thuyết giải thích vì sao người kia “xứng đáng”. Nó đáp ứng khổ vì khổ đang có, đồng thời phân tích nguyên nhân có thể kiểm để giảm hại.
 
-Không đổ lỗi cũng không xóa agency của người bị hại. Sau khi bảo đảm an toàn, họ có thể chọn trị liệu, ranh giới, pháp lý, cộng đồng và thực hành tâm. Những lựa chọn hiện tại là nghiệp theo nghĩa hành động có tác ý; nhưng gọi đó là agency không biến việc đã xảy ra thành lỗi của họ. “Bạn có thể hành động từ đây” hoàn toàn khác “bạn đã tạo ra điều này”.
+Không đổ lỗi cũng không xóa khả năng tự quyết của người bị hại. Sau khi bảo đảm an toàn, họ có thể chọn trị liệu, ranh giới, pháp lý, cộng đồng và thực hành tâm. Những lựa chọn hiện tại là nghiệp theo nghĩa hành động có tác ý; nhưng gọi đó là khả năng tự quyết không biến việc đã xảy ra thành lỗi của họ. “Bạn có thể hành động từ đây” hoàn toàn khác “bạn đã tạo ra điều này”.
 
 Với bệnh tật, hãy theo y khoa và điều kiện sinh học trước. Thực hành Dhamma có thể giúp quan hệ với đau, quyết định chăm sóc và không nuôi sân; nó không thay chẩn đoán. Với nghèo, cần xét thu nhập, quyền lực và chính sách. Bố thí, học nghề hay kỷ luật cá nhân có thể là điều kiện tốt, nhưng không làm cấu trúc bất công biến mất.
 
@@ -126,7 +133,6 @@ Một cộng đồng Theravāda có trách nhiệm nên đặt quy trình bảo 
 
 ![hình tượng tự nhiên diễn giải 6. thực hành với tác ý và quyền hành động hiện tại mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-6-thuc-hanh-voi-tac-y-va-quyen-hanh-ong-hien-.webp)
 
-<!-- IMAGE PLACEHOLDER: Nhật ký năm cột hoàn cảnh, tác ý, hành động thân khẩu ý, hậu quả gần và điều kiện sửa chữa. -->
 
 Trong một tuần, chọn mỗi ngày một hành động đáng kể. Ghi hoàn cảnh mà không kể chuyện: ai nói gì, thân đang thế nào, quyền lực chênh lệch ra sao. Ghi thọ và xung lực. Sau đó hỏi cetanā: mình đang hướng tới chiếm hữu, trả đũa, che giấu, không hại, trung thực hay chăm sóc? Không cần tìm một động cơ thuần khiết; con người thường có động cơ trộn.
 
@@ -138,41 +144,40 @@ Nếu nhận hành động bất thiện, dùng bốn bước: dừng; thừa nh
 
 Nếu nhận hành động thiện, quan sát cách nuôi nó mà không dựng bản sắc “người tốt”. Bố thí kín, giữ lời khi không ai nhìn, hỏi người hiểu biết, bảo vệ kẻ yếu và vui trước thành công người khác tạo khuynh hướng. **Kusala — “cu-sa-la” — thiện, khéo, có lợi cho giải thoát** không chỉ là cảm giác dễ chịu; **akusala — “a-cu-sa-la” — bất thiện, không khéo** được nhận qua gốc tham, sân, si và hậu quả hại.
 
-Cuối tuần hỏi: mình có chịu trách nhiệm rõ hơn mà ít tự ghét hơn không? Có thấy nhiều điều kiện hơn mà không dùng chúng làm cớ không? Có trao agency cho người bị hại thay vì giảng nghiệp không? Kamma được hiểu đúng làm lựa chọn hiện tại nghiêm túc, lòng bi thực tế và sự sửa sai cụ thể.
+Cuối tuần hỏi: mình có chịu trách nhiệm rõ hơn mà ít tự ghét hơn không? Có thấy nhiều điều kiện hơn mà không dùng chúng làm cớ không? Có trao khả năng tự quyết cho người bị hại thay vì giảng nghiệp không? Kamma được hiểu đúng làm lựa chọn hiện tại nghiêm túc, lòng bi thực tế và sự sửa sai cụ thể.
 
 ## 7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn
 
 ![hình tượng tự nhiên diễn giải 7. kỷ luật khẳng định, chuỗi đọc và nguồn mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-7-ky-luat-khang-inh-chuoi-oc-va-nguon.webp)
 
-<!-- IMAGE PLACEHOLDER: Bốn hộp khẳng định quanh chữ cetanā, với lối đọc chữ thường từ bài 18 sang bài 20. -->
 
 > [!quote] Văn bản nói gì
 > AN 6.63 định nghĩa kamma là cetanā và nói nghiệp được làm qua thân, khẩu, ý; kinh còn nêu nguồn sinh, đa dạng, quả, đoạn diệt và Bát Chánh Đạo. MN 135 nối các mẫu hành vi có tác ý với khuynh hướng quả và nhấn chúng sinh là người thừa tự nghiệp.
 
 > [!info] Truyền thống giải thích gì
-> Theravāda phân tích nghiệp và quả qua nhiều đời, nhiều loại nghiệp và thời điểm trổ quả. Các bảng phân loại chi tiết thuộc Abhidhamma/chú giải khi không có nguyên dạng trong hai anchor; chúng không cấp quyền suy đoán chắc chắn nghiệp quá khứ của một cá nhân.
+> Theravāda phân tích nghiệp và quả qua nhiều đời, nhiều loại nghiệp và thời điểm trổ quả. Các bảng phân loại chi tiết thuộc Abhidhamma/chú giải khi không có nguyên dạng trong hai nguồn trụ cột; chúng không cấp quyền suy đoán chắc chắn nghiệp quá khứ của một cá nhân.
 
 > [!example] Bài này suy luận gì
 > Nhật ký hoàn cảnh–tác ý–ba cửa–hậu quả, bốn bước dừng–nhận–sửa–thiết kế điều kiện và các ứng dụng vào bảo vệ nạn nhân là tổng hợp đạo đức hiện đại dựa trên định nghĩa tác ý. Chúng không phải đoạn dịch của AN 6.63 hay MN 135.
 
 > [!warning] Điều chưa chứng minh
-> Hai anchor không nói nghiệp là định mệnh, sổ điểm, trừng phạt, năng lượng lượng tử, luật hấp dẫn hay nguyên nhân duy nhất của bệnh, nghèo và bạo lực. Không được suy từ nỗi khổ hiện tại rằng nạn nhân đã làm điều xấu trong quá khứ; phẩm giá và quyền được bảo vệ không tùy suy đoán nghiệp.
+> Hai nguồn trụ cột không nói nghiệp là định mệnh, sổ điểm, trừng phạt, năng lượng lượng tử, luật hấp dẫn hay nguyên nhân duy nhất của bệnh, nghèo và bạo lực. Không được suy từ nỗi khổ hiện tại rằng nạn nhân đã làm điều xấu trong quá khứ; phẩm giá và quyền được bảo vệ không tùy suy đoán nghiệp.
 
 Đọc trước: Mười Hai Chi Duyên Khởi — Một Đời, Ba Đời Hay Từng Khoảnh Khắc? Đọc tiếp: Tái Sinh Mà Không Có Linh Hồn. Bài 20 chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
 
-**Nguồn canonical chính xác**
+**Nguồn kinh điển chính xác**
 
 - [AN 6.63: Nibbedhika Sutta](https://suttacentral.net/an6.63), định nghĩa kamma là cetanā, ba cửa hành động, quả và đường đoạn diệt.
 - [MN 135: Cūḷakammavibhaṅga Sutta](https://suttacentral.net/mn135), các cặp hành vi–khuynh hướng quả và nguyên tắc thừa tự nghiệp.
 - [SN 36.21: Sīvaka Sutta](https://suttacentral.net/sn36.21), nguồn bổ trợ về nhiều nguyên nhân của cảm thọ đau, không chỉ nghiệp quá khứ.
 - [AN 3.61: Titthāyatana Sutta](https://suttacentral.net/an3.61), nguồn bổ trợ bác quan điểm mọi kinh nghiệm hoàn toàn do nghiệp quá khứ.
 
-**Đối chiếu thuật ngữ và scholarship có tên**
+**Đối chiếu thuật ngữ và công trình học thuật có tên**
 
 - Bhikkhu Bodhi, *In the Buddha’s Words*, Wisdom Publications, 2005, đối chiếu các kinh về hành động, trách nhiệm và quả.
 - Rupert Gethin, *The Foundations of Buddhism*, Oxford University Press, 1998, tham khảo trình bày học thuật về kamma và tái sinh.
 - Damien Keown, *The Nature of Buddhist Ethics*, Palgrave, 2001, đối chiếu tranh luận học thuật về cetanā và đạo đức Phật giáo.
-- Bhikkhu Anālayo, các nghiên cứu về nghiệp, tái sinh và Kinh sớm; dùng như scholarship có tên, không thay nguồn canonical.
+- Bhikkhu Anālayo, các nghiên cứu về nghiệp, tái sinh và Kinh sớm; dùng như công trình học thuật có tên, không thay nguồn kinh điển.
 - [SuttaCentral Editions](https://suttacentral.net/editions), thông tin ấn bản, người dịch và giấy phép theo từng tài nguyên.
 
-Pāli làm việc là văn bản Bilara phân đoạn trên SuttaCentral, truy cập ngày 2026-08-18. Các bản dịch của Bhikkhu Sujato, Bhikkhu Bodhi và Ṭhānissaro Bhikkhu chỉ dùng đối chiếu; câu Pāli ngắn và toàn bộ văn xuôi Việt là bản dịch/tổng hợp làm việc của redpill.wiki, không sao chép dài bản dịch ngoài. `source_license_checked` còn `false` vì Batch 3 chưa có source manifest theo từng ấn bản; scholarship chỉ được nêu tên và diễn ý ngắn.
+Pāli làm việc là văn bản Bilara phân đoạn trên SuttaCentral, truy cập ngày 2026-08-18. Các bản dịch của Bhikkhu Sujato, Bhikkhu Bodhi và Ṭhānissaro Bhikkhu chỉ dùng đối chiếu; câu Pāli ngắn và toàn bộ văn xuôi Việt là bản dịch/tổng hợp làm việc của redpill.wiki, không sao chép dài bản dịch ngoài. `source_license_checked` còn `false` vì Batch 3 chưa có bảng kê nguồn theo từng ấn bản; công trình học thuật chỉ được nêu tên và diễn ý ngắn.

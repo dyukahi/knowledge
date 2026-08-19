@@ -39,6 +39,11 @@ source_license_checked: true
 
 ![sáu cửa mắt tai mũi lưỡi thân ý đối diện sáu trường đối tượng trong một mạng quan hệ](../assets/illustrations/theravada-batch2/theravada-12-muoi-hai-xu.webp)
 
+> **Pāli — SN 35.23, Bilara `sn35.23:1.4–1.6`**
+> *“Kiñca, bhikkhave, sabbaṁ? Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca—idaṁ vuccati, bhikkhave, sabbaṁ.”*
+>
+> **Bản dịch làm việc:** “Này các tỳ-kheo, thế nào là tất cả? Mắt và các hình sắc, tai và các âm thanh, mũi và các mùi, lưỡi và các vị, thân và các đối tượng xúc chạm, ý và các pháp: này các tỳ-kheo, đây được gọi là tất cả.”
+
 **Āyatana — đọc gần đúng “a-ya-ta-na” — xứ, nền hay phạm vi giác quan và đối tượng** chỉ mười hai miền khi được trình bày thành sáu cặp: mắt–hình sắc, tai–âm thanh, mũi–mùi, lưỡi–vị, thân–đối tượng xúc chạm, ý–các pháp. Tiếng Việt thường gọi phía trong là sáu căn và phía ngoài là sáu trần. “Trong” và “ngoài” ở đây là vai trò trong cấu trúc nhận biết, không nhất thiết là một đường biên siêu hình tuyệt đối.
 
 [SN 35.23, Sabba Sutta](https://suttacentral.net/sn35.23) định nghĩa “tất cả” bằng chính sáu cặp ấy. Nếu ai tuyên bố bác bỏ cái tất cả này và mô tả một cái tất cả khác, bài kinh nói lời ấy chỉ là khẳng định suông: khi bị hỏi, người ấy không thể trình bày và sẽ lúng túng. Lý do là cái được nói nằm ngoài phạm vi. Đây là tuyên bố mạnh về phạm vi kinh nghiệm và diễn ngôn.
@@ -47,7 +52,7 @@ Nhưng “tất cả” không nên được kéo thành kết luận rằng vũ
 
 [MN 148, Chachakka Sutta](https://suttacentral.net/mn148) mở rộng bản đồ thành sáu bộ sáu: sáu căn, sáu trần, sáu thức, sáu xúc, sáu thọ và sáu ái. Bài kinh cho thấy kinh nghiệm không bật ra từ một căn đơn độc. Mắt không tự thấy nếu thiếu hình sắc và nhãn thức; sự gặp nhau của ba yếu tố được gọi là xúc. Từ xúc, thọ liên hệ xuất hiện.
 
-Vì vậy câu “thế giới xuất hiện ở đâu?” không được trả lời bằng một tọa độ trong sọ. Nó xuất hiện theo quan hệ: căn có khả năng, đối tượng hiện diện, thức tương ứng sinh, xúc và thọ nối tiếp. Cách nói “quan hệ” là tổng hợp giải thích; anchor mô tả các điều kiện cụ thể. Bản đồ chuyển câu hỏi từ “ai bên trong đang xem?” sang “nhận biết này tùy những gì?”.
+Vì vậy câu “thế giới xuất hiện ở đâu?” không được trả lời bằng một tọa độ trong sọ. Nó xuất hiện theo quan hệ: căn có khả năng, đối tượng hiện diện, thức tương ứng sinh, xúc và thọ nối tiếp. Cách nói “quan hệ” là tổng hợp giải thích; văn bản nền mô tả các điều kiện cụ thể. Bản đồ chuyển câu hỏi từ “ai bên trong đang xem?” sang “nhận biết này tùy những gì?”.
 
 ## 2. Năm Cửa Thân Thể Không Phải Năm Máy Quay
 
@@ -57,7 +62,12 @@ Vì vậy câu “thế giới xuất hiện ở đâu?” không được trả
 
 Một tiếng động không trở thành đối tượng của mắt; màu không được nếm bằng lưỡi. Giới hạn này có giá trị thực hành: cái ta gọi “thế giới” ở một khoảnh khắc luôn được cấu hình bởi cửa đang hoạt động và điều kiện của nó. Trong phòng tối, hình sắc không hiện như ban ngày; tai suy giảm làm trường âm đổi; sốt làm vị khác. Không cần phủ nhận vật ngoài để thấy kinh nghiệm luôn có điều kiện.
 
-“Căn” cũng không chỉ là cơ quan giải phẫu theo khoa học hiện đại. Trong Kinh, nó là nền khả năng của một loại nhận biết. Đồng nhất hoàn toàn cakkhu với nhãn cầu hay dây thần kinh là giản lược vượt nguồn; ngược lại, biến nó thành năng lượng huyền bí cũng không được anchor hỗ trợ. Bài học giữ thuật ngữ ở chức năng canonical.
+> **Pāli — MN 148, Bilara `mn148:4.3`, `mn148:5.3`**
+> *“Cakkhāyatanaṁ, sotāyatanaṁ, ghānāyatanaṁ, jivhāyatanaṁ, kāyāyatanaṁ, manāyatanaṁ. Rūpāyatanaṁ, saddāyatanaṁ, gandhāyatanaṁ, rasāyatanaṁ, phoṭṭhabbāyatanaṁ, dhammāyatanaṁ.”*
+>
+> **Bản dịch làm việc:** “Nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ, thân xứ và ý xứ. Sắc xứ, thanh xứ, hương xứ, vị xứ, xúc xứ và pháp xứ.”
+
+“Căn” cũng không chỉ là cơ quan giải phẫu theo khoa học hiện đại. Trong Kinh, nó là nền khả năng của một loại nhận biết. Đồng nhất hoàn toàn cakkhu với nhãn cầu hay dây thần kinh là giản lược vượt nguồn; ngược lại, biến nó thành năng lượng huyền bí cũng không được văn bản nền hỗ trợ. Bài học giữ thuật ngữ theo chức năng trong Kinh.
 
 MN 148 lặp phép khảo sát: mắt, hình sắc, nhãn thức, nhãn xúc và thọ do nhãn xúc sinh là vô thường; cái vô thường không thích hợp nhận là tự ngã. Cùng cấu trúc áp cho năm cửa còn lại và ý. Điểm nhấn không phải giác quan xấu. Chính qua giác quan ta học, chăm sóc và thực hành; vấn đề là nhận những điều kiện biến đổi làm “tôi” hoặc “của tôi” tuyệt đối.
 
@@ -85,13 +95,18 @@ Trong thiền, khi âm thanh nổi bật, biết cửa tai; khi bình luận “
 
 ![ba vòng căn đối tượng thức giao nhau thành xúc rồi lan sang thọ, không vòng nào tự đủ](../assets/illustrations/theravada-batch2/theravada-12-quan-he-ba-yeu-to.webp)
 
-MN 148 nói do duyên mắt và hình sắc, nhãn thức sinh; sự gặp nhau của ba là xúc. Công thức lặp qua sáu cửa. **Viññāṇa — “vin-nha-na” — thức, nhận biết phân biệt** vì thế được gọi theo quan hệ: nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức, ý thức. Không có “thức chung” được anchor này nêu như chất nền tự tồn.
+> **Pāli — MN 148, Bilara `mn148:7.3`**
+> *“Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso.”*
+>
+> **Bản dịch làm việc:** “Do duyên mắt và các hình sắc, nhãn thức sinh khởi; sự gặp nhau của ba là xúc.”
+
+MN 148 nói do duyên mắt và hình sắc, nhãn thức sinh; sự gặp nhau của ba là xúc. Công thức lặp qua sáu cửa. **Viññāṇa — “vin-nha-na” — thức, nhận biết phân biệt** vì thế được gọi theo quan hệ: nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức, ý thức. Không có “thức chung” được văn bản nền này nêu như chất nền tự tồn.
 
 Quan hệ không có nghĩa ba vật hoàn toàn độc lập va vào nhau như bi-a. Công thức là cách nhận diện các điều kiện cần cho một sự kiện biết. Cũng không nên biến nó thành sơ đồ thần kinh hay thời lượng mili-giây. Kinh dùng bản đồ để thấy vô thường, không phải tự ngã, ái và sự giải thoát; nó không trình bày một thí nghiệm sinh lý.
 
 Khi căn suy, đối tượng đổi hoặc chú ý khác, kinh nghiệm đổi. Một câu nói nghe trong lúc kiệt sức có thể mang thọ khác lúc bình an. Điều đó không chứng minh sự thật tùy tâm trạng, nhưng cho thấy phản ứng của ta không phải ảnh chụp thuần túy của vật. Ta có thể chăm điều kiện: ngủ, giảm kích thích, nghe lại, hỏi rõ.
 
-Tính quan hệ cũng phá ảo giác người quan sát kín. Nếu nhận biết chỉ hiện với căn và đối tượng thích hợp, không cần giả định một homunculus đứng sau mắt. Nhưng “không cần” trong phân tích này không phải chứng minh mọi lập trường triết học khác sai. Kinh đưa ra phép quán đủ cho mục tiêu không chấp thủ.
+Tính quan hệ cũng phá ảo giác về một người quan sát kín. Nếu nhận biết chỉ hiện với căn và đối tượng thích hợp, không cần giả định một “người tí hon” đứng sau mắt. Nhưng “không cần” trong phân tích này không phải chứng minh mọi lập trường triết học khác sai. Kinh đưa ra phép quán đủ cho mục tiêu không chấp thủ.
 
 Trong giao tiếp, cùng âm thanh đi vào những lịch sử khác nhau và được ý nhận dạng khác nhau. Trách nhiệm vì thế gồm cả nói rõ và kiểm tra cách nghe. Không nên dùng duyên khởi để miễn trách nhiệm: “chỉ là nhận thức của bạn”. Lời gây hại là điều kiện thật; người nói có tác ý và hậu quả. Tính điều kiện mở rộng trách nhiệm, không xóa nó.
 
@@ -103,11 +118,11 @@ Thế giới kinh nghiệm vừa công khai vừa riêng phần. Nhiều ngườ
 
 SN 35.23 thường hấp dẫn những kết luận lớn: “chỉ có ý thức”, “vũ trụ là tâm”, “vật chất không tồn tại”. Nhưng bài kinh không dùng các mệnh đề ấy. Nó liệt kê cái tất cả theo sáu cặp và nói một cái khác nằm ngoài phạm vi diễn đạt. Từ giới hạn của mô tả không suy ra bản thể của mọi thứ là tâm.
 
-Một cách đọc thận trọng: bất kỳ bằng chứng nào ta nêu về thế giới cũng phải đi vào kinh nghiệm qua một cửa, kể cả số liệu được đọc và lý thuyết được nghĩ. Điều này đặt giới hạn nhận thức. Nó không nói thiết bị, ngôi sao hay người khác biến mất khi không được cá nhân nhìn. Đó là suy luận vượt anchor.
+Một cách đọc thận trọng: bất kỳ bằng chứng nào ta nêu về thế giới cũng phải đi vào kinh nghiệm qua một cửa, kể cả số liệu được đọc và lý thuyết được nghĩ. Điều này đặt giới hạn nhận thức. Nó không nói thiết bị, ngôi sao hay người khác biến mất khi không được cá nhân nhìn. Đó là suy luận vượt văn bản nền.
 
-Tương tự, “dhamma là đối tượng ý” không biến mọi pháp thành tưởng tượng cá nhân. Một định lý, ký ức sai và ý định đều có thể là đối tượng ý nhưng có tiêu chuẩn đúng sai khác nhau. Bản đồ cửa không thay thế phương pháp điều tra đối tượng. Source discipline vẫn yêu cầu tài liệu, đối chiếu và phân biệt dữ kiện với suy luận.
+Tương tự, “dhamma là đối tượng ý” không biến mọi pháp thành tưởng tượng cá nhân. Một định lý, ký ức sai và ý định đều có thể là đối tượng ý nhưng có tiêu chuẩn đúng sai khác nhau. Bản đồ cửa không thay thế phương pháp điều tra đối tượng. Kỷ luật nguồn vẫn yêu cầu tài liệu, đối chiếu và phân biệt dữ kiện với suy luận.
 
-Các so sánh với hiện tượng học hoặc khoa học nhận thức có thể hữu ích trong một mục riêng, nhưng không phải bằng chứng canonical. Bài này chủ ý không viện não để “chứng minh” sáu xứ. Khái niệm hiện đại và āyatana được sinh trong mục tiêu, phương pháp và ngôn ngữ khác nhau; tương đồng không tạo đồng nhất.
+Các so sánh với hiện tượng học hoặc khoa học nhận thức có thể hữu ích trong một mục riêng, nhưng không phải bằng chứng từ Kinh. Bài này chủ ý không viện não để “chứng minh” sáu xứ. Khái niệm hiện đại và āyatana được sinh trong mục tiêu, phương pháp và ngôn ngữ khác nhau; tương đồng không tạo đồng nhất.
 
 Phạm vi đúng còn bảo vệ đạo đức. Nếu thế giới “chỉ là tâm tôi”, nỗi đau người khác dễ bị thu nhỏ thành hình chiếu. MN 148 không dạy duy ngã; nó đặt thọ và ái vào chuỗi có hậu quả. Người khác, thân thể, lời nói và hành vi vẫn là điều kiện phải được đối xử với giới và lòng bi.
 
@@ -140,14 +155,14 @@ Sau bài tập, hỏi: cửa nào thường bị bỏ quên; ý có giả làm s
 > Theravāda dùng mười hai xứ như một bản đồ đầy đủ của cửa kinh nghiệm và dùng hộ trì căn trong tu tập. Các phân loại vi tế hậu kỳ có giá trị trong hệ riêng nhưng không được bài này gán thành nguyên văn SN 35.23 hay MN 148.
 
 > [!example] Bài này suy luận gì
-> Các ví dụ email, điện thoại, giao tiếp và bài tập gọi tên sáu cửa là tổng hợp biên tập. Cách nói kinh nghiệm “sinh theo quan hệ” tóm lược công thức căn–đối tượng–thức–xúc, không mô tả một cơ chế vật lý.
+> Các ví dụ thư điện tử, điện thoại, giao tiếp và bài tập gọi tên sáu cửa là tổng hợp biên tập. Cách nói kinh nghiệm “sinh theo quan hệ” tóm lược công thức căn–đối tượng–thức–xúc, không mô tả một cơ chế vật lý.
 
 > [!warning] Điều chưa chứng minh
-> Hai anchor không chứng minh duy tâm, duy ngã, vũ trụ chỉ ở trong não, hay mọi nhận thức ngang nhau. Chúng cũng không chứng minh một lý thuyết khoa học thần kinh, không phủ nhận thế giới quy ước và không biến ý thành linh hồn.
+> Hai văn bản nền không chứng minh duy tâm, duy ngã, vũ trụ chỉ ở trong não, hay mọi nhận thức ngang nhau. Chúng cũng không chứng minh một lý thuyết khoa học thần kinh, không phủ nhận thế giới quy ước và không biến ý thành linh hồn.
 
 Đọc trước: [[theravada/11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào|Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào]]. Đọc tiếp: [[theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu|Xúc → Thọ → Ái — Khoảnh Khắc Vòng Lặp Bắt Đầu]].
 
-**Nguồn canonical chính xác**
+**Nguồn kinh chính xác**
 
 - [SN 35.23: Sabba Sutta](https://suttacentral.net/sn35.23), nguồn cho phạm vi “tất cả” như sáu căn và sáu trần.
 - [MN 148: Chachakka Sutta](https://suttacentral.net/mn148), nguồn cho sáu bộ sáu và công thức căn–đối tượng–thức–xúc–thọ–ái.
@@ -156,7 +171,7 @@ Sau bài tập, hỏi: cửa nào thường bị bỏ quên; ý có giả làm s
 
 - Bhikkhu Bodhi, *The Connected Discourses of the Buddha*, Wisdom Publications, 2000, đối chiếu Saḷāyatana Saṃyutta.
 - Bhikkhu Ñāṇamoli và Bhikkhu Bodhi, *The Middle Length Discourses of the Buddha*, Wisdom Publications, 1995, đối chiếu MN 148.
-- Bhikkhu Anālayo, *A Comparative Study of the Majjhima-nikāya*, Dharma Drum, 2011, về phương pháp đọc công thức theo văn cảnh.
+- Bhikkhu Anālayo, *A đối chiếu Study of the Majjhima-nikāya*, Dharma Drum, 2011, về phương pháp đọc công thức theo văn cảnh.
 - [SuttaCentral Editions](https://suttacentral.net/editions), thông tin ấn bản và giấy phép.
 
 Pāli làm việc là văn bản Bilara phân đoạn trên SuttaCentral, truy cập ngày 2026-08-18. Các bản dịch của Bhikkhu Sujato, Bhikkhu Bodhi và Ṭhānissaro Bhikkhu chỉ dùng để đối chiếu. Toàn bộ văn xuôi tiếng Việt và diễn ý ngắn là bản dịch làm việc của redpill.wiki; không sao chép dài bản dịch ngoài.

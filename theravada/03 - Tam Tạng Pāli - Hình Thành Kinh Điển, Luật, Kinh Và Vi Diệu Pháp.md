@@ -47,7 +47,7 @@ source_license_checked: true
 
 **Tipiṭaka — đọc gần đúng “Ti-pi-ta-ka” — Tam Tạng, ba giỏ hay ba kho văn bản** là kinh điển Pāli của Theravāda. Ba tạng là **Vinaya — “Vi-na-ya” — Luật, kỷ luật tu viện**; **Sutta — “Sút-ta” — Kinh, bài giảng**; và **Abhidhamma — “A-bi-đăm-ma” — Vi Diệu Pháp, hệ thống phân tích giáo pháp**. Cách chia này cho người học một bản đồ thực dụng, nhưng bản đồ hoàn chỉnh không nên bị chiếu ngược về ngày đầu như thể ba giá sách đã được đóng nhãn sẵn.
 
-“Kinh điển” ở đây nghĩa là tập hợp văn bản được một truyền thống công nhận có thẩm quyền đặc biệt. Nó không đồng nghĩa từng câu có cùng tác giả, cùng niên đại hoặc cùng thể loại. Một quy tắc tu viện, một bài kệ cổ, một đối thoại dài và một bảng phân loại tâm đều có thể canonical trong Theravāda mà vẫn thuộc những tầng hình thành khác nhau. Thẩm quyền tôn giáo và niên đại lịch sử là hai trục, không phải một.
+“Kinh điển” ở đây nghĩa là tập hợp văn bản được một truyền thống công nhận có thẩm quyền đặc biệt. Nó không đồng nghĩa từng câu có cùng tác giả, cùng niên đại hoặc cùng thể loại. Một quy tắc tu viện, một bài kệ cổ, một đối thoại dài và một bảng phân loại tâm đều có thể thuộc kinh điển Theravāda mà vẫn thuộc những tầng hình thành khác nhau. Thẩm quyền tôn giáo và niên đại lịch sử là hai trục, không phải một.
 
 Tam Tạng Pāli là bộ kinh điển Phật giáo cổ đầy đủ nhất còn tồn tại trong một ngôn ngữ Ấn Độ. Điều này làm nó vô giá cho thực hành Theravāda và nghiên cứu Phật giáo sớm. Nhưng “đầy đủ nhất còn tồn tại” không có nghĩa “kinh điển duy nhất từng có”. Hán tạng bảo tồn các Āgama và nhiều Luật từ những trường phái khác; Sanskrit, Gāndhārī và Tây Tạng bảo tồn thêm mảnh và bộ sưu tập. Đối chiếu chúng giúp phân biệt tài sản chung sớm với phát triển riêng của một dòng.
 
@@ -58,7 +58,25 @@ Một bản đồ tốt phải trả lời bốn câu: mỗi tạng làm gì; nh
 ## 2. Truyền Khẩu, Hội Nghị Và Việc Viết Xuống
 ![nhịp tụng tập thể chuyển thành các dòng trên lá bối](../assets/illustrations/theravada-batch1/theravada-03-tu-tung-doc-den-la-boi.webp)
 
+> **Pāli — DN 16, dn16:1.1.1**
+>
+> *Evaṁ me sutaṁ—*
+>
+> **Bản dịch làm việc:** Tôi đã được nghe như vầy—
+
 Nhiều bài Kinh mở bằng công thức **evaṃ me sutaṃ — đọc gần đúng “ê-văm mê su-tăm” — tôi đã được nghe như vầy**. Công thức đặt lời kể trong một chuỗi nghe và truyền, không phải tuyên bố người đọc đang cầm bản thảo do Phật viết. Các đoạn lặp, danh sách số, cấu trúc đối xứng và cụm từ cố định hỗ trợ ghi nhớ. Nhóm tụng đọc có thể sửa lỗi cá nhân; phân công theo bộ giúp xây chuyên môn. “Truyền khẩu” ở đây là một công nghệ xã hội.
+
+> **Pāli — Cullavagga XI, pli-tv-kd21:1.7.1–1.7.2**
+>
+> *Atha kho āyasmā mahākassapo saṅghaṁ ñāpesi: “Suṇātu me, āvuso, saṅgho. Yadi saṅghassa pattakallaṁ, ahaṁ upāliṁ vinayaṁ puccheyyan”ti.*
+>
+> **Bản dịch làm việc:** Bấy giờ Tôn giả Mahākassapa trình với Tăng chúng: “Xin Tăng chúng lắng nghe. Nếu Tăng chúng thấy đã đến lúc, tôi sẽ hỏi Upāli về Luật.”
+
+> **Pāli — Cullavagga XI, pli-tv-kd21:1.8.18–1.8.19**
+>
+> *Eteneva upāyena pañcapi nikāye pucchi. Puṭṭho puṭṭho āyasmā ānando vissajjesi.*
+>
+> **Bản dịch làm việc:** Theo cùng phương thức ấy, ngài hỏi về cả năm Nikāya. Mỗi khi được hỏi, Tôn giả Ānanda đều trả lời.
 
 [Cullavagga XI](https://suttacentral.net/pli-tv-kd21) kể rằng sau parinibbāna, các trưởng lão tập hợp tại Rājagaha; Upāli trả lời về Luật, Ānanda trả lời về Pháp. [Cullavagga XII](https://suttacentral.net/pli-tv-kd22) kể cuộc xử lý tranh chấp Vesālī. Các truyện ấy giải thích thẩm quyền của việc tụng chung và hình ảnh một cộng đồng tự kiểm soát. Chúng không liệt kê rõ một Tam Tạng hoàn chỉnh giống mọi ấn bản hiện nay, và không thể tự mình chứng minh toàn bộ văn bản được cố định nguyên văn trong một lần họp.
 
@@ -100,18 +118,18 @@ Kinh thường được trình bày như lời Phật, nhưng cũng có bài do 
 
 Các bộ Āgama Hán dịch tương ứng với bốn Nikāya chính và nhiều văn bản riêng trong Tiểu Bộ là nguồn so sánh thiết yếu. Sự tương đồng rộng cho thấy phần lớn cấu trúc Kinh có trước khi các dòng truyền thừa xa nhau; khác biệt cho thấy truyền miệng và biên tập. “Có bản song song” làm tăng khả năng cổ, nhưng không phải phép thử duy nhất. Ngôn ngữ, học thuyết, thể loại và vị trí trong nhiều bộ cũng phải được cân nhắc.
 
-## 5. Vi Diệu Pháp: Canonical Nhưng Là Một Lớp Hệ Thống Riêng
+## 5. Vi Diệu Pháp: Kinh điển Nhưng Là Một Lớp Hệ Thống Riêng
 ![mạng phân tích các pháp với bảy cụm sách, không dùng biểu tượng khoa học giả](../assets/illustrations/theravada-batch1/theravada-03-bay-bo-abhidhamma.webp)
 
 [Abhidhamma Piṭaka](https://suttacentral.net/pitaka/abhidhamma) của Theravāda gồm bảy bộ: *Dhammasaṅgaṇī* phân loại các pháp; *Vibhaṅga* phân tích các chủ đề; *Dhātukathā* bàn về các giới; *Puggalapaññatti* phân loại hạng người; *Kathāvatthu* trình bày các điểm tranh luận; *Yamaka* dùng cấu trúc cặp; và *Paṭṭhāna* khảo sát các quan hệ điều kiện. Mô tả một dòng cho mỗi sách chỉ là định hướng, không thay thế việc đọc cấu trúc thực tế.
 
 Vi Diệu Pháp chuyển trọng tâm từ bài giảng gắn với người nghe sang ma trận phân tích. Nhiều đơn vị bắt nguồn từ Kinh—uẩn, xứ, giới, căn, giác chi—nhưng được tái tổ chức, định nghĩa và kết nối có hệ thống. Đây là lý do vừa có tính liên tục vừa có tính riêng: vật liệu không xuất hiện từ hư vô, song phương pháp và kiến trúc không giống một đối thoại Kinh.
 
-Trong truyền thống Theravāda, Abhidhamma là canonical và được quy về Đức Phật, với câu chuyện Ngài giảng ở cõi trời rồi truyền cốt yếu cho Sāriputta. *Kathāvatthu* lại gắn với Moggaliputta Tissa thời Aśoka trong ký ức hội nghị thứ ba. Truyền thống có những cách điều hòa nguồn gốc này. Nghiên cứu lịch sử thường xem văn học Abhidhamma phát triển qua nhiều thế hệ và các bộ phái sở hữu hệ thống Abhidharma khác nhau.
+Trong truyền thống Theravāda, Abhidhamma thuộc kinh điển và được quy về Đức Phật, với câu chuyện Ngài giảng ở cõi trời rồi truyền cốt yếu cho Sāriputta. *Kathāvatthu* lại gắn với Moggaliputta Tissa thời Aśoka trong ký ức hội nghị thứ ba. Truyền thống có những cách điều hòa nguồn gốc này. Nghiên cứu lịch sử thường xem văn học Abhidhamma phát triển qua nhiều thế hệ và các bộ phái sở hữu hệ thống Abhidharma khác nhau.
 
-Không cần chọn giữa “canonical nên mọi chi tiết phải có từ ngày đầu” và “phát triển muộn nên vô giá trị”. Canonical nói về vị trí trong Theravāda; phân lớp lịch sử nói về quá trình hình thành. Một hệ thống muộn hơn có thể là thành tựu phân tích sâu sắc, giúp học và hành, nhưng khi một khái niệm như sát-na tâm chỉ đạt hình thức rõ trong văn học hậu kỳ, bài viết phải dẫn đúng nguồn.
+Không cần chọn giữa “thuộc kinh điển nên mọi chi tiết phải có từ ngày đầu” và “phát triển muộn nên vô giá trị”. Vị trí trong kinh điển nói về thẩm quyền trong Theravāda; phân lớp lịch sử nói về quá trình hình thành. Một hệ thống muộn hơn có thể là thành tựu phân tích sâu sắc, giúp học và hành, nhưng khi một khái niệm như sát-na tâm chỉ đạt hình thức rõ trong văn học hậu kỳ, bài viết phải dẫn đúng nguồn.
 
-Chú giải và cẩm nang sau canonical tiếp tục hệ thống hóa. *Visuddhimagga* của Buddhaghosa kết nối tu tập với phân tích; *Abhidhammattha-saṅgaha* trình bày bản đồ tâm–tâm sở rất có ảnh hưởng. Chúng không thuộc Abhidhamma Piṭaka dù thường được học cùng. Trộn sách canonical, chú giải và cẩm nang thành một khối “Vi Diệu Pháp” làm mất lịch sử của khái niệm.
+Chú giải và cẩm nang hậu kỳ tiếp tục hệ thống hóa. *Visuddhimagga* của Buddhaghosa kết nối tu tập với phân tích; *Abhidhammattha-saṅgaha* trình bày bản đồ tâm–tâm sở rất có ảnh hưởng. Chúng không thuộc Abhidhamma Piṭaka dù thường được học cùng. Trộn kinh điển, chú giải và cẩm nang thành một khối “Vi Diệu Pháp” làm mất lịch sử của khái niệm.
 
 Người mới nên dùng Vi Diệu Pháp như một bản đồ có quy ước, không như kính hiển vi vật lý chứng minh các hạt tâm. Các phân loại mô tả kinh nghiệm và quan hệ theo mục tiêu giải thoát của truyền thống. Không có lý do dùng cơ học lượng tử hay khoa học thần kinh để “chứng minh” sát-na tâm hoặc hai mươi bốn duyên. So sánh hiện đại, nếu có, chỉ là cộng hưởng khái niệm và phải nằm ở lớp riêng.
 
@@ -137,17 +155,17 @@ Trong thực hành, bản đồ Tam Tạng ngăn hai sai lầm đối nghịch. 
 > Luật Cullavagga kể các trưởng lão tụng đọc Pháp–Luật và giải quyết tranh chấp. Tam Tạng Pāli hiện hành gồm Luật tạng, Kinh tạng với năm Nikāya, và Vi Diệu Pháp tạng với bảy bộ. Nội dung và cấu trúc cụ thể có thể xem trên từng trang bộ sưu tập.
 
 > [!info] Truyền thống giải thích gì
-> Theravāda quy việc bảo tồn về các hội nghị, xem ba tạng là Phật ngôn theo thẩm quyền canonical, kể việc viết xuống ở Sri Lanka khoảng thế kỷ I trước Công nguyên, và giải thích nguồn gốc Vi Diệu Pháp qua Đức Phật cùng Sāriputta. Chú giải tổ chức sâu thêm cách đọc các tạng.
+> Theravāda quy việc bảo tồn về các hội nghị, xem ba tạng là Phật ngôn có thẩm quyền trong kinh điển, kể việc viết xuống ở Sri Lanka khoảng thế kỷ I trước Công nguyên, và giải thích nguồn gốc Vi Diệu Pháp qua Đức Phật cùng Sāriputta. Chú giải tổ chức sâu thêm cách đọc các tạng.
 
 > [!example] Bài này suy luận gì
-> Truyền khẩu Phật giáo là kỹ thuật tập thể có kỷ luật, đủ sức bảo tồn chất liệu rất cổ nhưng không loại trừ tăng trưởng và biên tập. “Canonical” và “cùng niên đại” phải tách nhau; đối chiếu liên truyền thống là công cụ mạnh để nhận diện lớp chung sớm.
+> Truyền khẩu Phật giáo là kỹ thuật tập thể có kỷ luật, đủ sức bảo tồn chất liệu rất cổ nhưng không loại trừ tăng trưởng và biên tập. “Kinh điển” và “cùng niên đại” phải tách nhau; đối chiếu liên truyền thống là công cụ mạnh để nhận diện lớp chung sớm.
 
 > [!warning] Điều chưa chứng minh
 > Chưa có bằng chứng rằng một hội nghị duy nhất cố định nguyên văn ba tạng đúng hình thức hiện nay. Chưa có bản thảo còn lại từ lần viết xuống được biên niên kể. Không chứng minh được mọi phần Kinh–Luật cùng tuổi, hoặc hệ thống Vi Diệu Pháp hoàn chỉnh đã tồn tại trong đời Đức Phật.
 
 Đọc trước: [[theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm|Theravāda Là Gì — Truyền Thừa, Phạm Vi Và Những Hiểu Lầm]]. Đọc tiếp: Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều. Bài đọc tiếp chưa xuất bản nên được giữ dưới dạng chữ thường.
 
-**Nguồn canonical và bộ sưu tập chính xác**
+**Nguồn kinh điển và bộ sưu tập chính xác**
 
 - [Toàn bộ Pāli Tipiṭaka](https://suttacentral.net/pitaka); [Vinaya Piṭaka](https://suttacentral.net/pitaka/vinaya); [Sutta Piṭaka](https://suttacentral.net/pitaka/sutta); [Abhidhamma Piṭaka](https://suttacentral.net/pitaka/abhidhamma).
 - [Dīgha Nikāya](https://suttacentral.net/pitaka/sutta/long/dn), [Majjhima Nikāya](https://suttacentral.net/pitaka/sutta/middle/mn), [Saṃyutta Nikāya](https://suttacentral.net/pitaka/sutta/linked/sn), [Aṅguttara Nikāya](https://suttacentral.net/pitaka/sutta/numbered/an), [Khuddaka Nikāya](https://suttacentral.net/pitaka/sutta/minor/kn).

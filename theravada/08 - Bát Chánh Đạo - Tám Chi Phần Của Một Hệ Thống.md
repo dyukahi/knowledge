@@ -1,6 +1,6 @@
 ---
 title: "Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống"
-description: "Đọc SN 45.8 và MN 117 để thấy Bát Chánh Đạo là tám chiều kích nâng đỡ nhau, gồm chánh kiến thế tục và cao thượng, không phải checklist tuyến tính."
+description: "Đọc SN 45.8 và MN 117 để thấy Bát Chánh Đạo là tám chiều kích nâng đỡ nhau, gồm chánh kiến thế tục và cao thượng, không phải danh sách đánh dấu tuyến tính."
 aliases: ["Bát Chánh Đạo", "Con Đường Cao Quý Tám Chi"]
 date: 2026-08-18
 status: refined
@@ -54,6 +54,11 @@ MN 117 cho thấy tính động của hệ thống rõ hơn. Chánh kiến đư�
 ## 2. Tuệ: Chánh Kiến Và Chánh Ý Hướng
 ![la bàn Tứ Đế định hướng ba mũi tên xuất ly, không sân và không hại](../assets/illustrations/theravada-batch1/theravada-08-tue.webp)
 
+> **Pāli — SN 45.8, Bilara `sn45.8:3.2`, `sn45.8:3.3`**
+> *Yaṁ kho, bhikkhave, dukkhe ñāṇaṁ, dukkhasamudaye ñāṇaṁ, dukkhanirodhe ñāṇaṁ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṁ—ayaṁ vuccati, bhikkhave, sammādiṭṭhi.*
+>
+> **Bản dịch làm việc:** “Biết dukkha, nguồn sinh, sự đoạn diệt và con đường đưa đến đoạn diệt dukkha: đó gọi là chánh kiến.”
+
 **Sammā-diṭṭhi — đọc gần đúng “sam-ma đít-thi” — chánh kiến, cái thấy đúng hướng giải thoát** được SN 45.8 định nghĩa là hiểu dukkha, nguồn sinh, sự đoạn diệt và con đường. Chánh kiến vì vậy không chỉ là sở hữu một bộ ý kiến Phật giáo. Nó là khả năng tổ chức kinh nghiệm theo bốn nhiệm vụ: điều gì cần hiểu, điều gì cần bỏ, điều gì cần chứng, điều gì cần phát triển.
 
 MN 117 bổ sung phân biệt quan trọng. Chánh kiến “có lậu, thuộc phước, chín trong chấp thủ” khẳng định ý nghĩa của bố thí, hành động và kết quả, đời này–đời khác, cha mẹ, và những người tu chứng biết các thế giới bằng trực nghiệm. Đây có thể gọi thận trọng là chánh kiến thế tục hay thông thường, không phải “thế tục” theo nghĩa phi tôn giáo. Nó tạo nền đạo đức có quả nhưng vẫn vận hành trong phạm vi tạo phước và tái hữu.
@@ -66,6 +71,11 @@ Hai chi tuệ hỗ trợ nhau. Thấy hành động có hậu quả làm ý hư�
 
 ## 3. Giới: Chánh Ngữ, Chánh Nghiệp Và Chánh Mạng
 ![lời nói, bàn tay hành động và nơi làm việc nối thành nền vững cho tâm](../assets/illustrations/theravada-batch1/theravada-08-gioi.webp)
+
+> **Pāli — SN 45.8, Bilara `sn45.8:5.2`, `sn45.8:5.3`**
+> *Yā kho, bhikkhave, musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī—ayaṁ vuccati, bhikkhave, sammāvācā.*
+>
+> **Bản dịch làm việc:** “Tránh nói dối, lời chia rẽ, lời thô ác và lời phù phiếm: đó gọi là chánh ngữ.”
 
 **Sammā-vācā — đọc gần đúng “sam-ma va-cha” — chánh ngữ** trong SN 45.8 là tránh nói dối, nói chia rẽ, nói thô ác và nói phù phiếm. Đây là định nghĩa bằng bốn sự từ bỏ, không chỉ lời khuyên “nói điều tích cực”. Có lúc lời thật gây khó chịu; tiêu chuẩn còn cần ý hướng, ích lợi, thời điểm và cách nói được các bài Kinh khác triển khai. Im lặng để che hại cũng không tự động là chánh ngữ.
 
@@ -82,6 +92,11 @@ Ba chi giới bảo vệ người khác và chính tâm người hành. Nói d�
 ## 4. Đào Luyện Tâm: Chánh Tinh Tấn, Chánh Niệm Và Chánh Định
 ![người ngồi vững với bốn dòng nỗ lực, trường chú ý có ký ức mục tiêu và bốn tầng lắng](../assets/illustrations/theravada-batch1/theravada-08-dinh.webp)
 
+> **Pāli — SN 45.8, Bilara `sn45.8:10.1`, `sn45.8:10.2`**
+> *Katamo ca, bhikkhave, sammāsamādhi? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.*
+>
+> **Bản dịch làm việc:** “Chánh định là gì? Vị Tỳ-kheo ly dục, ly pháp bất thiện, chứng và trú sơ thiền, có tầm có tứ, với hỷ lạc do ly dục sinh.”
+
 **Sammā-vāyāma — đọc gần đúng “sam-ma va-ya-ma” — chánh tinh tấn** gồm bốn nỗ lực trong SN 45.8: ngăn bất thiện chưa sinh, từ bỏ bất thiện đã sinh, làm thiện chưa sinh phát sinh, và duy trì–phát triển thiện đã sinh. Cấu trúc bác hai cực đoan. Tinh tấn không chỉ là đàn áp điều xấu; một nửa công việc là sinh và nuôi điều lành. Nó cũng không phải cố tối đa bất kể hậu quả: nỗ lực “chánh” phải đúng đối tượng, liều lượng và hướng.
 
 **Sammā-sati — đọc gần đúng “sam-ma sa-ti” — chánh niệm, nhớ biết đúng đối tượng và mục tiêu tu tập** được SN 45.8 trình bày qua bốn thiết lập niệm: quán thân, thọ, tâm và pháp, nhiệt tâm, tỉnh giác, có niệm, nhiếp phục tham ưu đối với đời. Như vậy chánh niệm không phải chú ý trần trụi, không giá trị và không văn cảnh. Kẻ trộm cũng có thể chú ý cao; điều làm niệm thành chi con đường là khung đạo đức, tỉnh giác và hướng ly tham.
@@ -97,7 +112,7 @@ Ba chi này hoạt động như đội. Tinh tấn đặt và điều chỉnh n�
 
 [MN 117, Mahācattārīsaka Sutta](https://suttacentral.net/mn117) gọi chánh kiến là đi trước. Nhờ chánh kiến, người ta nhận biết tà kiến là tà và chánh kiến là chánh; mô thức được áp sang ý hướng, lời nói, hành động và sinh kế. Nhưng “đi trước” không có nghĩa học xong toàn bộ triết học rồi mới được sửa lời. Một mức chánh kiến cho phép bắt đầu; việc sống và thiền lại làm cái thấy chín.
 
-Với mỗi chi được triển khai, chánh tinh tấn là nỗ lực bỏ điều sai và đi vào điều đúng; chánh niệm là không quên việc bỏ–vào ấy. Ba yếu tố chạy quanh chánh kiến, ý hướng, ngữ, nghiệp và mạng. Văn bản vì thế tự cung cấp bằng chứng chống cách đọc checklist. Một lỗi lời nói có thể cần chánh kiến để nhận, tinh tấn để dừng, niệm để nhớ, ý hướng không sân để đổi giọng và định đủ để không phản ứng.
+Với mỗi chi được triển khai, chánh tinh tấn là nỗ lực bỏ điều sai và đi vào điều đúng; chánh niệm là không quên việc bỏ–vào ấy. Ba yếu tố chạy quanh chánh kiến, ý hướng, ngữ, nghiệp và mạng. Văn bản vì thế tự cung cấp bằng chứng chống cách đọc danh sách đánh dấu. Một lỗi lời nói có thể cần chánh kiến để nhận, tinh tấn để dừng, niệm để nhớ, ý hướng không sân để đổi giọng và định đủ để không phản ứng.
 
 MN 117 còn phân biệt chánh ngữ, chánh nghiệp và chánh mạng ở cấp có lậu, tạo phước với cấp cao thượng, vô lậu. Ở cấp cao thượng, các chi được mô tả như sự tránh, kiêng, từ bỏ tương ứng nơi người có tâm cao thượng đang phát triển đạo. Điều này không làm đạo đức thông thường vô giá trị; nó chỉ ngăn ta đồng nhất quả lành trong vòng hữu với giải thoát hoàn toàn.
 
@@ -114,7 +129,7 @@ Chánh tinh tấn ngăn chuỗi tưởng tượng chưa bùng, bỏ cơn sân đ
 
 Sau sự việc, đừng chấm tám ô “đạt/chưa đạt”. Hãy tìm quan hệ yếu nhất. Có thể ta biết lời nào đúng nhưng định quá yếu để dừng; hoặc tập trung tốt nhưng chánh kiến hợp thức hóa kiêu mạn; hoặc ý tốt nhưng sinh kế thưởng cho hành vi gây hại. Chọn một nút để luyện trong khi theo dõi tác động lên các nút khác.
 
-Một tuần thực hành có thể gồm: trước mỗi cuộc nói chuyện quan trọng, đặt ý hướng; trong lúc nói, nhớ thân và sự thật; sau đó, xét hậu quả. Mỗi ngày dành thời gian ổn định tâm và đọc lại định nghĩa canonical của một chi. Cuối tuần, ghi điều gì làm tham–sân–si tăng hay giảm. Đây là bài tập hiện đại lấy cảm hứng từ hệ thống, không phải chương trình được SN 45.8 ấn định.
+Một tuần thực hành có thể gồm: trước mỗi cuộc nói chuyện quan trọng, đặt ý hướng; trong lúc nói, nhớ thân và sự thật; sau đó, xét hậu quả. Mỗi ngày dành thời gian ổn định tâm và đọc lại định nghĩa kinh điển của một chi. Cuối tuần, ghi điều gì làm tham–sân–si tăng hay giảm. Đây là bài tập hiện đại lấy cảm hứng từ hệ thống, không phải chương trình được SN 45.8 ấn định.
 
 Nếu thực hành làm tăng tự ghét, kiệt sức hoặc khinh người “không chánh”, hãy kiểm tra lại. Có thể tinh tấn đã thành cưỡng ép, kiến thành chính nghĩa phe phái, niệm thành giám sát lo âu. Con đường hướng tới đoạn khổ; dấu hiệu lệch không phải lý do bỏ hết, mà là dữ liệu để điều chỉnh với người hướng dẫn có đạo đức và, khi cần, chuyên gia sức khỏe.
 
@@ -131,11 +146,11 @@ Nếu thực hành làm tăng tự ghét, kiệt sức hoặc khinh người “
 > Mô hình bánh xe, vòng phản hồi và bài tập “chọn một nút” là tổng hợp sư phạm để thể hiện các chi nâng đỡ nhau. Việc áp tám chi vào email, mạng xã hội và cấu trúc nghề nghiệp là ứng dụng hiện đại có kiểm soát.
 
 > [!warning] Điều chưa chứng minh
-> Không có cơ sở gọi con đường là checklist hoàn tất một lần, xem “chánh” là chính nghĩa giáo phái, hay đồng nhất chánh niệm với chú ý trung tính. Hành vi đạo đức có quả lành không tự chứng minh chánh kiến siêu thế; tập trung mạnh cũng không tự chứng minh chánh định của đạo.
+> Không có cơ sở gọi con đường là danh sách đánh dấu hoàn tất một lần, xem “chánh” là chính nghĩa giáo phái, hay đồng nhất chánh niệm với chú ý trung tính. Hành vi đạo đức có quả lành không tự chứng minh chánh kiến siêu thế; tập trung mạnh cũng không tự chứng minh chánh định của đạo.
 
 Đọc trước: [[theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường|Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]]. Đọc tiếp: Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự. Bài 09 chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
 
-**Nguồn canonical chính xác**
+**Nguồn kinh điển chính xác**
 
 - [SN 45.8: Vibhaṅga Sutta](https://suttacentral.net/sn45.8), định nghĩa tám chi của con đường.
 - [MN 117: Mahācattārīsaka Sutta](https://suttacentral.net/mn117), về chánh kiến đi trước, hai cấp của các chi và quan hệ hỗ trợ.

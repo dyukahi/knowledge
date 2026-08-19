@@ -39,6 +39,11 @@ source_license_checked: true
 
 ![năm dòng sắc thọ tưởng hành thức giao nhau quanh một đời sống nhưng không đóng thành lõi bất biến](../assets/illustrations/theravada-batch2/theravada-11-nam-dong-kinh-nghiem.webp)
 
+> **Pāli — SN 22.59, Bilara `sn22.59:2.1–2.5`**
+> *“Rūpaṁ, bhikkhave, anattā. Rūpañca hidaṁ, bhikkhave, attā abhavissa, nayidaṁ rūpaṁ ābādhāya saṁvatteyya, labbhetha ca rūpe: ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti. Yasmā ca kho, bhikkhave, rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati, na ca labbhati rūpe: ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti.”*
+>
+> **Bản dịch làm việc:** “Này các tỳ-kheo, sắc là vô ngã. Nếu sắc là tự ngã thì sắc đã không dẫn đến khổ não, và đối với sắc người ta có thể khiến: ‘Sắc của tôi hãy như thế này; sắc của tôi đừng như thế kia.’ Nhưng vì sắc là vô ngã nên sắc dẫn đến khổ não, và không thể khiến sắc theo ý như vậy.”
+
 **Khandha — đọc gần đúng “khan-đa” — uẩn, nhóm hay khối tập hợp** là cách Kinh Pāli gom những gì ta thường nhận làm “tôi” và “của tôi” thành năm phạm vi để khảo sát. Năm phạm vi ấy là **rūpa** (sắc), **vedanā** (thọ), **saññā** (tưởng), **saṅkhāra** (hành) và **viññāṇa** (thức). Chúng không phải năm viên gạch bí mật, năm tầng năng lượng hay năm chất nằm cạnh nhau bên trong một con người. “Uẩn” là công cụ phân tích kinh nghiệm đang đổi thay.
 
 [SN 22.59, Anattalakkhaṇa Sutta](https://suttacentral.net/sn22.59) lần lượt hỏi về từng uẩn: nó thường còn hay vô thường; cái vô thường là dễ chịu hay chịu sức ép; cái vô thường, dukkha và biến đổi có thích hợp để xem “đây là của tôi, đây là tôi, đây là tự ngã của tôi” không. Cấu trúc lặp lại khiến người đọc quan sát thay vì xây một học thuyết vật chất về con người.
@@ -59,7 +64,12 @@ SN 22.59 dùng tiêu chí quyền điều khiển: nếu sắc là tự ngã the
 
 Ví dụ bọt trong SN 22.95 cũng có phạm vi. Nhìn từ xa, khối bọt có hình và gây ấn tượng về một vật đặc; nhìn kỹ, nó là vô số màng nước sinh rồi vỡ. Tương tự, thân có tính liên tục quy ước nhưng không có lõi bất biến nằm ngoài thành phần và điều kiện. Bọt vẫn ướt; thân vẫn có thể bị thương. Ví dụ không cho phép xem nhẹ đau đớn của mình hay người khác.
 
-**Vedanā — “vê-đa-na” — cảm thọ, sắc thái dễ chịu, khó chịu hoặc trung tính** không đồng nghĩa toàn bộ “cảm xúc”. Một cơn giận có thể gồm khó chịu, nhận dạng một lời là xúc phạm, ý muốn phản công, ký ức và các phản ứng thân. Vedanā chỉ nhấn vào chiều vị: kinh nghiệm đang được nếm là lạc, khổ hay không-lạc-không-khổ. Dịch nó thành emotion sẽ làm mất chính điểm can thiệp tinh tế của các bài sau.
+> **Pāli — SN 22.59, Bilara `sn22.59:3.1`, `sn22.59:4.1–4.2`, `sn22.59:5.1`**
+> *“Vedanā anattā. Saññā anattā …pe… saṅkhārā anattā. Viññāṇaṁ anattā.”*
+>
+> **Bản dịch làm việc:** “Thọ là vô ngã. Tưởng là vô ngã… các hành là vô ngã. Thức là vô ngã.”
+
+**Vedanā — “vê-đa-na” — cảm thọ, sắc thái dễ chịu, khó chịu hoặc trung tính** không đồng nghĩa toàn bộ “cảm xúc”. Một cơn giận có thể gồm khó chịu, nhận dạng một lời là xúc phạm, ý muốn phản công, ký ức và các phản ứng thân. Vedanā chỉ nhấn vào chiều vị: kinh nghiệm đang được nếm là lạc, khổ hay không-lạc-không-khổ. Dịch nó thành toàn bộ cảm xúc sẽ làm mất chính điểm can thiệp tinh tế của các bài sau.
 
 Thọ như bong bóng do giọt mưa nổi lên rồi vỡ. Một cảm giác có thể mãnh liệt mà vẫn ngắn và tùy xúc. “Ngắn” không có nghĩa dễ chịu; đau kéo dài có thể gồm nhiều biến chuyển liên tục. Quan sát thọ là nhận ra sắc thái trước khi câu chuyện sở hữu hoàn chỉnh: dễ chịu không bắt buộc phải nắm, khó chịu không bắt buộc phải ghét, trung tính không bắt buộc phải lơ đãng.
 
@@ -77,7 +87,7 @@ Sắc và thọ cho thấy hai sai lầm đối nghịch. Một bên coi thân v
 
 Ví dụ thân cây chuối nói đến việc bóc hết lớp bẹ mà không tìm thấy lõi gỗ cứng. Hành uẩn cũng gồm nhiều xu hướng, lựa chọn, chú ý và phản ứng nương điều kiện, không phải một “ý chí” đơn nhất ngồi trong đầu. Tuy nhiên, không có lõi cứng không xóa tác ý. Một thói quen được tạo nhiều lần có sức mạnh; một phản ứng có hậu quả; việc huấn luyện điều kiện mới có thể đổi hướng.
 
-Hãy xét một email ngắn. Sắc gồm thân đang mệt và chữ trên màn hình; thọ là khó chịu; tưởng nhận dạng giọng điệu như lạnh lùng; hành thúc viết lời phòng vệ; thức nhận biết đối tượng qua mắt và ý. Sự phân tích này không tuyên bố năm sự kiện diễn ra như năm toa tàu tách biệt. Nó chỉ tăng độ phân giải để ta thấy “tôi bị xúc phạm” được tạo bởi nhiều chức năng.
+Hãy xét một thư điện tử ngắn. Sắc gồm thân đang mệt và chữ trên màn hình; thọ là khó chịu; tưởng nhận dạng giọng điệu như lạnh lùng; hành thúc viết lời phòng vệ; thức nhận biết đối tượng qua mắt và ý. Sự phân tích này không tuyên bố năm sự kiện diễn ra như năm toa tàu tách biệt. Nó chỉ tăng độ phân giải để ta thấy “tôi bị xúc phạm” được tạo bởi nhiều chức năng.
 
 Khi thấy vậy, hành động đạo đức có khoảng trống. Ta có thể kiểm tra lại saññā, nhận thọ, chờ thân bớt căng và không nuôi tạo tác trả đũa. Đây là ứng dụng tổng hợp từ bản đồ uẩn, không phải quy trình nguyên văn trong hai bài kinh. Tiêu chí là nó làm giảm tham, sân, si và tăng khả năng đáp ứng thật, không phải khiến người thực hành phân tích đến tê liệt.
 
@@ -85,13 +95,18 @@ Khi thấy vậy, hành động đạo đức có khoảng trống. Ta có thể
 
 ![sáu cửa giác quan lần lượt sáng khi có đối tượng, không có ngọn đèn trung tâm thường hằng](../assets/illustrations/theravada-batch2/theravada-11-thuc-sau-cua.webp)
 
+> **Pāli — SN 22.95, Bilara `sn22.95:9.1–9.5`**
+> *“Pheṇapiṇḍūpamaṁ rūpaṁ, vedanā bubbuḷūpamā; Marīcikūpamā saññā, saṅkhārā kadalūpamā; Māyūpamañca viññāṇaṁ.”*
+>
+> **Bản dịch làm việc:** “Sắc được ví như khối bọt, thọ như bong bóng nước; tưởng như ảo ảnh, các hành như thân cây chuối, và thức như trò huyễn.”
+
 **Viññāṇa — “vin-nha-na” — thức, sự nhận biết phân biệt** là uẩn thứ năm. Trong nhiều bài kinh, thức được nói theo sáu loại: nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức và ý thức. Tên của nó gắn với căn và đối tượng liên hệ. Cách trình bày ấy không thuận với việc biến thức thành một người quan sát thuần túy, thường hằng, đứng ngoài mọi điều kiện.
 
 Trò huyễn trong SN 22.95 gây ấn tượng về một vật có thật nơi chỉ có thao tác và điều kiện. Ví dụ mời khảo sát thức để tìm cái gì bền chắc, có thể sở hữu và điều khiển; nó không bảo nhận biết hoàn toàn không xảy ra. Khi mắt, hình sắc và các điều kiện thích hợp gặp nhau, nhãn thức hiện hành; khi điều kiện đổi, kiểu nhận biết đổi. Bài 14 sẽ khảo sát kỹ sự sinh khởi tùy thuộc này.
 
 Một lỗi tinh tế là chấp bốn uẩn đầu nhưng giữ thức làm “chân ngã”: thân đổi, thọ đổi, tưởng sai, hành biến, song “người biết” phía sau chắc phải bất biến. SN 22.59 không tạo ngoại lệ. Cùng phép hỏi được áp cho viññāṇa: vô thường, chịu đổi và không thích hợp nhận là tôi hay tự ngã của tôi. Đặt một ý thức vũ trụ vào khoảng trống là thêm học thuyết ngoài văn bản.
 
-Lỗi đối diện là nghe thức vô ngã rồi kết luận con người là máy không có lựa chọn. Năm uẩn không phải mô hình vật lý tất định. Kinh giữ tác ý, huấn luyện, trách nhiệm và giải thoát. Những điều đó không cần một linh hồn bất biến; chúng vận hành trong mạng điều kiện. Đừng dùng một bản đồ soteriological để tuyên bố đã giải xong triết học tâm hay cơ chế não.
+Lỗi đối diện là nghe thức vô ngã rồi kết luận con người là máy không có lựa chọn. Năm uẩn không phải mô hình vật lý tất định. Kinh giữ tác ý, huấn luyện, trách nhiệm và giải thoát. Những điều đó không cần một linh hồn bất biến; chúng vận hành trong mạng điều kiện. Đừng dùng một bản đồ hướng đến giải thoát để tuyên bố đã giải xong triết học tâm hay cơ chế não.
 
 Trong kinh nghiệm nghe nhạc, nhĩ thức không phải toàn bộ sự kiện. Có âm thanh, tai, thức liên hệ; có thọ dễ chịu, tưởng nhận giai điệu, hành muốn nghe tiếp và thân phản ứng. Ta vẫn nói quy ước “tôi nghe nhạc”. Phân tích uẩn không cấm đại từ; nó ngăn đại từ biến thành bằng chứng về một thực thể sở hữu nằm ngoài tiến trình.
 
@@ -107,7 +122,7 @@ Quán uẩn không đòi thay mọi câu nói đời thường. “Tay tôi”, 
 
 Các ví dụ SN 22.95 phải được giữ đúng mục tiêu: tìm tính bền chắc, thực chất có thể nắm. Bọt có hiện tượng nhưng không lõi đặc; bong bóng xuất hiện rồi vỡ; ảo ảnh tùy góc và điều kiện; thân chuối không có lõi gỗ; trò huyễn đánh lừa nhận dạng. Từ đó không suy ra hiện tượng là hư vô. Một trò huyễn có thể làm người xem sợ; một nhận dạng sai có thể dẫn đến bạo lực; một cảm thọ khó chịu vẫn cần lòng bi.
 
-Cũng không nên biến từng ví dụ thành bản thể luận khoa học. Bài kinh không nói sắc “thực chất là bọt lượng tử”, thức là mô phỏng máy tính hay hành là chương trình thần kinh. So sánh hiện đại có thể gợi câu hỏi, nhưng không chứng minh lời Kinh và không thuộc hai anchor. Bài này không dùng chúng làm bằng chứng.
+Cũng không nên biến từng ví dụ thành bản thể luận khoa học. Bài kinh không nói sắc “thực chất là bọt lượng tử”, thức là mô phỏng máy tính hay hành là chương trình thần kinh. So sánh hiện đại có thể gợi câu hỏi, nhưng không chứng minh lời Kinh và không thuộc hai văn bản nền. Bài này không dùng chúng làm bằng chứng.
 
 Thấy uẩn rỗng lõi sở hữu có hệ quả tích cực: thân có thể được chăm mà không tôn thờ; thọ có thể được cảm mà không tuân lệnh; tưởng có thể dùng mà vẫn kiểm tra; hành có thể huấn luyện; thức có thể biết mà không biến thành linh hồn. “Không phải tôi” không đồng nghĩa “không đáng quan tâm”. Nó chuyển quan tâm từ chiếm hữu sang chăm sóc có trí.
 
@@ -127,7 +142,7 @@ Với lời chê, đừng dùng phân tích để phủ nhận dữ kiện. Nộ
 
 Một phép kiểm hữu ích là sau quan sát, ta có rõ hơn và tử tế hơn không. Nếu chỉ tạo cảm giác “tôi đã phân tích được bản thân” rồi tiếp tục phản ứng, bản đồ chưa thành tu tập. Nếu phân loại gây ám ảnh, hãy trở về thân, hơi thở và sinh hoạt bình thường. Công cụ phục vụ giải thoát; người học không phục vụ biểu mẫu.
 
-Bài thực hành này là suy luận biên tập dựa trên hai anchor và bản đồ kinh nghiệm rộng của Kinh sớm. Nó không tự nhận là phương pháp duy nhất của Theravāda. Bước kế tiếp khảo sát sáu căn và sáu trần, nơi điều kiện giác quan làm rõ cách “thế giới” xuất hiện trong kinh nghiệm.
+Bài thực hành này là suy luận biên tập dựa trên hai văn bản nền và bản đồ kinh nghiệm rộng của Kinh sớm. Nó không tự nhận là phương pháp duy nhất của Theravāda. Bước kế tiếp khảo sát sáu căn và sáu trần, nơi điều kiện giác quan làm rõ cách “thế giới” xuất hiện trong kinh nghiệm.
 
 ## 7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn
 
@@ -140,14 +155,14 @@ Bài thực hành này là suy luận biên tập dựa trên hai anchor và b�
 > Theravāda dùng năm uẩn như bản đồ phân tích kinh nghiệm và nhấn mạnh năm thủ uẩn trong chẩn đoán dukkha. Các hệ thống hậu kỳ phân loại chi tiết hơn về sắc, tâm và tâm sở; bài này không gán các bảng hậu kỳ ấy thành nguyên văn của hai bài Kinh sớm.
 
 > [!example] Bài này suy luận gì
-> Cách đọc email, lời khen, lời chê và bài tập năm cửa là tổng hợp thực hành hiện đại. “Được lắp ráp” là ẩn dụ cho tính điều kiện và đa chức năng, không khẳng định có thợ lắp hay năm vật liệu độc lập.
+> Cách đọc thư điện tử, lời khen, lời chê và bài tập năm cửa là tổng hợp thực hành hiện đại. “Được lắp ráp” là ẩn dụ cho tính điều kiện và đa chức năng, không khẳng định có thợ lắp hay năm vật liệu độc lập.
 
 > [!warning] Điều chưa chứng minh
 > Năm uẩn không chứng minh con người chỉ là máy, thức là linh hồn, có một chân ngã ẩn ngoài năm uẩn, hay các uẩn là năm chất siêu hình. Các ví dụ không chứng minh vật lý, khoa học thần kinh, mô phỏng máy tính hoặc chủ nghĩa hư vô.
 
 Đọc trước: [[theravada/10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa|Trung Đạo — Không Phải Thỏa Hiệp Ở Giữa]]. Đọc tiếp: [[theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu|Sáu Căn Và Sáu Trần — Thế Giới Xuất Hiện Ở Đâu]].
 
-**Nguồn canonical chính xác**
+**Nguồn kinh chính xác**
 
 - [SN 22.59: Anattalakkhaṇa Sutta](https://suttacentral.net/sn22.59), nguồn cho phép khảo sát năm uẩn qua vô thường, dukkha và không thích hợp nhận làm tự ngã.
 - [SN 22.95: Pheṇapiṇḍūpama Sutta](https://suttacentral.net/sn22.95), nguồn cho năm ví dụ và phạm vi xem xét tính rỗng lõi bền chắc.

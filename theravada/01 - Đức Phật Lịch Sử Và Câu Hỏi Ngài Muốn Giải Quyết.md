@@ -53,13 +53,28 @@ Mục tiêu của bài không phải viết một “cuộc đời Đức Phật
 ## 2. Ba Cửa Sổ Kinh Sớm: MN 26, MN 36 Và DN 16
 ![ba khung cảnh rời nhà, khổ hạnh và hành trình cuối được nối bằng một con đường](../assets/illustrations/theravada-batch1/theravada-01-ba-cua-so-kinh.webp)
 
+> **Pāli — MN 26, đoạn 12.1–12.3**
+> *Katamā ca, bhikkhave, ariyā pariyesanā? Idha, bhikkhave, ekacco attanā jātidhammo samāno jātidhamme ādīnavaṁ viditvā ajātaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati … Ayaṁ, bhikkhave, ariyā pariyesanā.*
+>
+> **Dịch nghĩa làm việc:** Này các tỳ-kheo, thế nào là cuộc tìm cầu cao quý? Ở đây, một người vốn chịu sinh, thấy nguy hại trong cái chịu sinh, tìm Niết-bàn—sự an ổn tối thượng khỏi ách, không sinh … Đây gọi là cuộc tìm cầu cao quý.
+
 [MN 26, Ariyapariyesanā Sutta](https://suttacentral.net/mn26) thường được gọi là bài kinh về cuộc tìm cầu cao quý. Văn bản đặt vào lời Gotama một đối lập rất sáng: người đang bị sinh, già, bệnh, chết, sầu và ô nhiễm có thể tiếp tục tìm những gì cũng chịu cùng số phận ấy; hoặc nhận ra nguy hiểm và tìm cái không sinh, không già, không bệnh, không chết, không sầu, không ô nhiễm. Đây là khung tự thuật trong một bài giảng được truyền lại, không phải nhật ký do Gotama viết. Dẫu vậy, nó cho thấy cộng đồng sớm nhớ trọng tâm cuộc tìm kiếm không phải là sáng lập một tôn giáo hay giải thích toàn bộ vũ trụ, mà là thoát khỏi cấu trúc sinh–già–chết và nắm giữ.
 
 Trong MN 26, Gotama đến học Āḷāra Kālāma và Uddaka Rāmaputta. Ngài đạt đến trình độ mà mỗi vị thầy công nhận, nhưng thấy thành tựu ấy chưa dẫn tới ly tham, đoạn diệt, an tịnh và giác ngộ trọn vẹn. Chi tiết này có thể giữ ký ức về môi trường tu tập đương thời; ta không có tài liệu độc lập để viết tiểu sử chắc chắn cho hai vị thầy. Giá trị gần nhất của đoạn văn là cách nó định nghĩa tiêu chuẩn: một trạng thái cao không đủ chỉ vì tinh tế hoặc hiếm có; nó phải giải quyết gốc rễ của trói buộc.
 
+> **Pāli — MN 36, đoạn 30.5–31.5**
+> *Na kho panāhaṁ imāya kaṭukāya dukkarakārikāya adhigacchāmi uttari manussadhammā alamariyañāṇadassanavisesaṁ. Siyā nu kho añño maggo bodhāyā’ti? … ‘Eseva maggo bodhāyā’ti.*
+>
+> **Dịch nghĩa làm việc:** Nhưng bằng lối khổ hạnh cay nghiệt này, ta không đạt pháp vượt người hay tri kiến xứng bậc thánh. Liệu có con đường khác đến giác ngộ? … Rồi sự nhận biết theo sau ký ức ấy khởi lên: đây chính là con đường đến giác ngộ.
+
 [MN 36, Mahāsaccaka Sutta](https://suttacentral.net/mn36) trình bày một khung tự thuật khác, tập trung vào khổ hạnh cực đoan. Gotama kể những thực hành nín thở và giảm ăn đến mức thân thể suy kiệt. Ngài kết luận con đường ấy không đưa đến tri kiến cao thượng, rồi nhớ lại một trạng thái an tĩnh thời trẻ và hỏi liệu đó có thể là con đường giác ngộ. Sự chuyển hướng quan trọng không phải lời cổ vũ hưởng thụ. Nó là sự bác bỏ ý tưởng rằng đau đớn tự thân thanh tẩy, đồng thời thừa nhận thân được nuôi dưỡng vừa đủ là điều kiện cho công việc của tâm.
 
 MN 36 còn đặt cuộc giác ngộ trong một cấu trúc ba minh và sự nhận ra giải thoát. Người đọc hiện đại có thể tiếp nhận cấu trúc ấy theo đức tin, tạm treo phán đoán, hoặc nghiên cứu như ngôn ngữ tôn giáo của văn bản. Phương pháp lịch sử không thể xác nhận trực tiếp một kinh nghiệm nội tâm cổ đại, càng không thể dùng khoa học tự nhiên để chứng minh nó. Nhưng ta có thể xác định chức năng của lời kể: nó tuyên bố rằng vấn đề được giải quyết nhờ hiểu biết và đoạn trừ các lậu hoặc, chứ không nhờ địa vị, nghi lễ hay tự hành xác.
+
+> **Pāli — DN 16, đoạn 6.1.2–6.1.5**
+> *Siyā kho panānanda, tumhākaṁ evamassa: ‘atītasatthukaṁ pāvacanaṁ, natthi no satthā’ti. Na kho panetaṁ, ānanda, evaṁ daṭṭhabbaṁ. Yo vo, ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena satthā.*
+>
+> **Dịch nghĩa làm việc:** Này Ānanda, các ông có thể nghĩ: “Lời dạy đã mất thầy; chúng ta không còn thầy.” Không nên nhìn như vậy. Pháp và Luật ta đã dạy và quy định sẽ là thầy của các ông sau khi ta qua đời.
 
 [DN 16, Mahāparinibbāna Sutta](https://suttacentral.net/dn16) mở cửa sổ thứ ba: ký ức văn chương về hành trình cuối, lời dạy cuối, việc qua đời, tang lễ và phân chia xá-lợi. **Parinibbāna — đọc gần đúng “pa-ri-níp-ba-na” — sự Niết-bàn hoàn toàn khi một bậc giải thoát qua đời** là thuật ngữ truyền thống; nó không nên bị giản lược thành “chết” nhưng cũng không cho phép ta mô tả một nơi chốn sau chết. DN 16 là văn bản nhiều tầng và có mục đích cộng đồng rõ rệt. Nó lưu những địa danh, thiết chế và mối quan tâm có thể hữu ích cho lịch sử, song không phải biên bản do một nhân chứng chép liên tục trong chuyến đi.
 
@@ -87,7 +102,7 @@ Lớp **Kinh sớm** trong bài này là các bài như MN 26, MN 36 và những
 
 Lớp **Luật tạng** kể nhiều sự kiện về Đức Phật trong quá trình giải thích vì sao một quy tắc được thiết lập. Luật cho thấy lý tưởng về một người thầy xử lý xung đột, phản ứng trước hành vi cụ thể và xây thiết chế. Tuy nhiên, truyện duyên khởi của giới luật cũng có chức năng chuẩn hóa. Không phải cứ có nhiều chi tiết là lịch sử chắc hơn. Bài 3 sẽ đọc cấu trúc Luật kỹ hơn; ở đây điều cần nhớ là Luật vừa chứa ký ức xã hội vừa là văn bản quy phạm.
 
-Lớp **Vi Diệu Pháp** không phải nguồn chính để dựng tiểu sử Gotama. Bảy bộ Abhidhamma của Theravāda phân tích các pháp và quan hệ theo một kiến trúc hệ thống hơn. Truyền thống Theravāda xem Vi Diệu Pháp là lời Phật theo nghĩa canonical, nhưng nghiên cứu lịch sử thường đặt sự định hình của lớp này sau nhiều chất liệu Kinh và Luật. Vì thế, dùng phân loại Vi Diệu Pháp để làm rõ tư tưởng Theravāda là hợp lệ khi gắn nhãn; dùng nó như bản ghi trực tiếp điều Gotama lịch sử đã nói là bước vượt quá chứng cứ.
+Lớp **Vi Diệu Pháp** không phải nguồn chính để dựng tiểu sử Gotama. Bảy bộ Abhidhamma của Theravāda phân tích các pháp và quan hệ theo một kiến trúc hệ thống hơn. Truyền thống Theravāda xem Vi Diệu Pháp là lời Phật theo nghĩa kinh điển, nhưng nghiên cứu lịch sử thường đặt sự định hình của lớp này sau nhiều chất liệu Kinh và Luật. Vì thế, dùng phân loại Vi Diệu Pháp để làm rõ tư tưởng Theravāda là hợp lệ khi gắn nhãn; dùng nó như bản ghi trực tiếp điều Gotama lịch sử đã nói là bước vượt quá chứng cứ.
 
 Lớp **chú giải và tiểu sử muộn** đem lại chân dung phong phú hơn: các đời trước của Bồ-tát, điềm lạ lúc sinh, quá trình trưởng thành, đại xuất gia và cuộc chiến với Māra được kết nối thành một đời sống trọn vẹn. *Nidānakathā*, phần dẫn nhập của chú giải Jātaka, và *Buddhacarita* của Aśvaghoṣa là những cột mốc quan trọng của truyền thống tiểu sử, không phải tài liệu đồng thời. Chúng diễn đạt cách các cộng đồng hiểu phẩm tính của Phật và lý tưởng Bồ-tát; giá trị tôn giáo và văn học ấy không phụ thuộc vào việc mọi chi tiết đều được sử học xác nhận.
 
@@ -139,7 +154,7 @@ DN 16 nhắc về tính hữu hạn ngay trong cộng đồng do người thầy
 
 **Nghiên cứu lịch sử được nêu tên**
 
-- Bhikkhu Anālayo, *A Comparative Study of the Majjhima-nikāya*, Dharma Drum Publishing, 2011, nghiên cứu đối chiếu các bản song song; bài chỉ dẫn thư mục, không liên kết bản sao không rõ quyền.
+- Bhikkhu Anālayo, *A đối chiếu Study of the Majjhima-nikāya*, Dharma Drum Publishing, 2011, nghiên cứu đối chiếu các bản song song; bài chỉ dẫn thư mục, không liên kết bản sao không rõ quyền.
 - Richard Gombrich, *What the Buddha Thought*, Equinox, 2009; xem [thông tin thư mục của nhà xuất bản](https://www.equinoxpub.com/home/what-buddha-thought/).
 - Gregory Schopen, *Bones, Stones, and Buddhist Monks*, University of Hawai‘i Press, 1997; xem [thông tin thư mục của nhà xuất bản](https://uhpress.hawaii.edu/title/bones-stones-and-buddhist-monks-collected-papers-on-the-archaeology-epigraphy-and-texts-of-monastic-buddhism-in-india/).
 

@@ -39,15 +39,33 @@ source_license_checked: true
 ## 1. Bốn Sự Thật Không Phải Bốn Khẩu Hiệu
 ![bốn ô chẩn đoán, nguồn sinh, khả năng chấm dứt và con đường nối thành vòng thực hành](../assets/illustrations/theravada-batch1/theravada-05-bon-nhiem-vu.webp)
 
+> **Pāli — SN 56.11, sn56.11:4.1–4.5**
+>
+> *Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ … saṅkhittena pañcupādānakkhandhā dukkhā. Idaṁ kho pana, bhikkhave, dukkhasamudayaṁ ariyasaccaṁ … kāmataṇhā, bhavataṇhā, vibhavataṇhā.*
+>
+> **Bản dịch làm việc:** Này các Tỳ-kheo, đây là sự thật cao quý về dukkha … tóm lại, năm thủ uẩn là dukkha. Đây là sự thật cao quý về nguồn sinh của dukkha … dục ái, hữu ái và phi hữu ái.
+
+> **Pāli — SN 56.11, sn56.11:5.2; sn56.11:6.2; sn56.11:7.2; sn56.11:8.2**
+>
+> *‘Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti me, bhikkhave, pubbe …pe… udapādi.*
+>
+> *‘Taṁ kho panidaṁ dukkhasamudayaṁ ariyasaccaṁ pahātabban’ti me, bhikkhave, pubbe …pe… udapādi.*
+>
+> *‘Taṁ kho panidaṁ dukkhanirodhaṁ ariyasaccaṁ sacchikātabban’ti me, bhikkhave, pubbe …pe… udapādi.*
+>
+> *‘Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabban’ti me, bhikkhave, pubbe …pe… udapādi.*
+>
+> **Bản dịch làm việc:** Này các Tỳ-kheo, đối với tôi đã khởi lên sự nhận biết rằng: “Sự thật cao quý về dukkha này cần được hiểu đầy đủ; sự thật cao quý về nguồn sinh của dukkha này cần được từ bỏ; sự thật cao quý về sự đoạn diệt dukkha này cần được chứng ngộ; sự thật cao quý về con đường đưa đến đoạn diệt dukkha này cần được phát triển.”
+
 Tứ Thánh Đế thường được nhớ bằng bốn từ: khổ, tập, diệt, đạo. Cách ghi ấy hữu ích nhưng dễ biến một cấu trúc thực hành thành bảng tín điều. [SN 56.11, Dhammacakkappavattana Sutta](https://suttacentral.net/sn56.11) không chỉ nêu bốn nội dung. Với mỗi nội dung, bài kinh gắn một nhiệm vụ và tuyên bố nhiệm vụ đã hoàn thành. Như vậy có ba vòng nhận biết đối với mỗi đế—nhận ra sự thật, nhận ra việc phải làm, nhận ra việc đã làm xong—thành “ba vòng, mười hai phương diện” trong chính cấu trúc bài.
 
-**Ariyasacca — đọc gần đúng “a-ri-ya-xát-cha” — sự thật cao quý hay sự thật của bậc Thánh** là cụm có nhiều khả năng phân tích ngữ pháp. *Ariya* có thể chỉ điều cao quý hoặc điều được những người cao quý thấu triệt; không nên dựng một khẳng định etymology cứng từ bản dịch tiếng Việt. Điều không mơ hồ là chức năng: đây là những sự thật mà sự hiểu trọn vẹn được bài kinh gắn với giác ngộ.
+**Ariyasacca — đọc gần đúng “a-ri-ya-xát-cha” — sự thật cao quý hay sự thật của bậc Thánh** là cụm có nhiều khả năng phân tích ngữ pháp. *Ariya* có thể chỉ điều cao quý hoặc điều được những người cao quý thấu triệt; không nên dựng một khẳng định từ nguyên cứng từ bản dịch tiếng Việt. Điều không mơ hồ là chức năng: đây là những sự thật mà sự hiểu trọn vẹn được bài kinh gắn với giác ngộ.
 
 Bốn đế là **dukkha — đọc gần đúng “đúc-kha” — khổ, bất toại nguyện, sức ép của kinh nghiệm bị chấp thủ**; **samudaya — “sa-mu-đa-ya” — sự sinh khởi hay nguồn sinh**; **nirodha — “ni-rô-đa” — sự đoạn diệt**; và **magga — “mắc-ga” — con đường**. Các nghĩa này là nghĩa làm việc. *Dukkha* không thể luôn thay bằng “đau”; *nirodha* không phải đàn áp; *magga* không chỉ là một niềm tin đúng.
 
 Ẩn dụ y khoa—chẩn đoán, nguyên nhân, khả năng chữa và phương pháp—là cách sắp xếp sư phạm hữu ích, không phải câu nguyên văn trong SN 56.11. Nó làm rõ rằng bốn đế có quan hệ: nếu chỉ nói về bệnh mà không có chữa trị, giáo pháp thành bi quan; nếu nói chữa trị mà không chẩn đoán cơ chế, nó thành lời trấn an; nếu có đường nhưng không đi, nó thành bản đồ trang trí.
 
-Theo truyện khung canonical, SN 56.11 là bài giảng tại Isipatana cho nhóm năm người và là lần bánh xe Pháp được chuyển. Truyền thống gọi đây là bài pháp đầu tiên. Bài có vị trí nền tảng trong ký ức Phật giáo. Tuy nhiên, việc truyền thống canonical đặt bài ở đầu sự nghiệp giảng dạy và câu hỏi sử học về nguyên văn, thứ tự sự kiện là hai cấp tuyên bố khác nhau. Bài này dùng SN 56.11 làm nguồn giáo lý, không biến truyện khung thành biên bản đồng thời.
+Theo truyện khung của kinh điển, SN 56.11 là bài giảng tại Isipatana cho nhóm năm người và là lần bánh xe Pháp được chuyển. Truyền thống gọi đây là bài pháp đầu tiên. Bài có vị trí nền tảng trong ký ức Phật giáo. Tuy nhiên, việc kinh điển đặt bài ở đầu sự nghiệp giảng dạy và câu hỏi sử học về nguyên văn, thứ tự sự kiện là hai cấp tuyên bố khác nhau. Bài này dùng SN 56.11 làm nguồn giáo lý, không biến truyện khung thành biên bản đồng thời.
 
 ## 2. Đế Thứ Nhất: Dukkha Phải Được Hiểu Đầy Đủ
 ![đời sống có đau đớn, đổi thay và bàn tay nắm năm dòng kinh nghiệm, không phủ màu tuyệt vọng](../assets/illustrations/theravada-batch1/theravada-05-dukkha.webp)
@@ -77,6 +95,12 @@ Nguồn sinh không phải lời giải thích độc quyền cho mọi tổn th
 
 ## 4. Đế Thứ Ba: Nirodha Phải Được Chứng Ngộ
 ![ngọn lửa hết nhiên liệu và bàn tay mở, biểu tượng chấm dứt ái không phải hủy diệt con người](../assets/illustrations/theravada-batch1/theravada-05-nirodha.webp)
+
+> **Pāli — SN 56.11, sn56.11:4.6–4.10**
+>
+> *Idaṁ kho pana, bhikkhave, dukkhanirodhaṁ ariyasaccaṁ—yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo. … Ayameva ariyo aṭṭhaṅgiko maggo.*
+>
+> **Bản dịch làm việc:** Này các Tỳ-kheo, đây là sự thật cao quý về sự đoạn diệt dukkha: chính là sự ly tham và đoạn diệt hoàn toàn ái ấy, từ bỏ, buông ra, giải thoát và không còn nương tựa vào nó. … Đó chính là Bát Chánh Đạo.
 
 SN 56.11 định nghĩa sự đoạn diệt dukkha qua việc ly tham và đoạn diệt hoàn toàn chính cơn ái ấy: từ bỏ, buông bỏ, giải thoát khỏi nó và không còn dựa vào nó. Ngôn ngữ tập trung vào cơ chế được chấm dứt, không mô tả việc giết một cái tôi. Vì vậy đọc nirodha như hư vô hóa con người là đưa vào văn bản một chủ thể bất biến rồi tưởng tượng chủ thể ấy bị xóa.
 
@@ -125,11 +149,11 @@ Lặp lại sẽ cho thấy bốn đế không nhất thiết diễn ra như b�
 > Ẩn dụ chẩn đoán–nguyên nhân–khả năng chữa–phương pháp giúp thấy bốn đế là hệ thống nhiệm vụ, và nhật ký bốn ô là bài tập sư phạm hiện đại. Chúng diễn giải cấu trúc Kinh, không phải lời dịch nguyên văn.
 
 > [!warning] Điều chưa chứng minh
-> Truyện khung canonical chưa tự chứng minh nguyên văn lịch sử của bài pháp đầu tiên. Tứ Đế không chứng minh rằng mọi đau đớn chỉ do thái độ cá nhân, rằng bệnh hay bất công không cần can thiệp, hoặc một thoáng nhẹ nhõm đồng nghĩa chứng Nibbāna.
+> Truyện khung của kinh điển chưa tự chứng minh nguyên văn lịch sử của bài pháp đầu tiên. Tứ Đế không chứng minh rằng mọi đau đớn chỉ do thái độ cá nhân, rằng bệnh hay bất công không cần can thiệp, hoặc một thoáng nhẹ nhõm đồng nghĩa chứng Nibbāna.
 
 Đọc trước: [[theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều|Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều]]. Đọc tiếp: [[theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống|Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống]].
 
-**Nguồn canonical chính xác**
+**Nguồn kinh điển chính xác**
 
 - [SN 56.11: Dhammacakkappavattana Sutta](https://suttacentral.net/sn56.11), nguồn cho bốn đế, bốn nhiệm vụ và ba vòng–mười hai phương diện.
 - [MN 141: Saccavibhaṅga Sutta](https://suttacentral.net/mn141), bài Sāriputta triển khai các định nghĩa và các chi của con đường.
