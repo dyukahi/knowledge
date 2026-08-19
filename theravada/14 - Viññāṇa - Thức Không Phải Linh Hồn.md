@@ -44,7 +44,7 @@ source_license_checked: true
 Sāti tuyên bố theo điều mình hiểu rằng chính “thức này” chạy và luân chuyển, không phải cái khác. Khi được hỏi thức nào, ông mô tả cái nói, cảm nhận và trải nghiệm quả của nghiệp thiện ác. Đức Phật quở trách cách hiểu ấy và hỏi Ngài đã chẳng nói bằng nhiều cách rằng thức sinh do duyên, không có thức sinh nếu thiếu điều kiện hay sao.
 
 > **Pāli — MN 38, đoạn `mn38:7.7`**
-> *Anekapariyāyena hi vo, moghapurisa, paṭiccasamuppannaṁ viññāṇaṁ vuttaṁ mayā, aññatra paccayā natthi viññāṇassa sambhavo.*
+> *Anekapariyāyena hi vo, bhikkhave, paṭiccasamuppannaṁ viññāṇaṁ vuttaṁ mayā, aññatra paccayā natthi viññāṇassa sambhavo”ti.*
 >
 > **Bản dịch làm việc:** “Này người rỗng không, chẳng phải Ta đã nói bằng nhiều cách rằng thức do duyên mà sinh, rằng ngoài điều kiện thì thức không thể sinh khởi hay sao?”
 
@@ -61,7 +61,7 @@ Sāti tuyên bố theo điều mình hiểu rằng chính “thức này” ch�
 MN 38 dùng ví dụ lửa: lửa cháy nhờ củi được gọi là lửa củi; nhờ rơm là lửa rơm; nhờ cỏ, phân bò, trấu hay rác thì được gọi theo nhiên liệu. Tương tự, thức sinh nhờ mắt và hình sắc được gọi nhãn thức; nhờ tai và tiếng là nhĩ thức; rồi mũi, lưỡi, thân, ý.
 
 > **Pāli — MN 38, đoạn `mn38:8.1–8.7`**
-> *Yaṁ yadeva, bhikkhave, paccayaṁ paṭicca uppajjati viññāṇaṁ, tena teneva viññāṇantveva saṅkhyaṁ gacchati. Cakkhuñca paṭicca rūpe ca uppajjati viññāṇaṁ, cakkhuviññāṇantveva saṅkhyaṁ gacchati; sotañca paṭicca sadde ca uppajjati viññāṇaṁ, sotaviññāṇantveva saṅkhyaṁ gacchati; ghānañca paṭicca gandhe ca uppajjati viññāṇaṁ, ghānaviññāṇantveva saṅkhyaṁ gacchati; jivhañca paṭicca rase ca uppajjati viññāṇaṁ, jivhāviññāṇantveva saṅkhyaṁ gacchati; kāyañca paṭicca phoṭṭhabbe ca uppajjati viññāṇaṁ, kāyaviññāṇantveva saṅkhyaṁ gacchati; manañca paṭicca dhamme ca uppajjati viññāṇaṁ, manoviññāṇantveva saṅkhyaṁ gacchati.*
+> *“Yaṁ yadeva, bhikkhave, paccayaṁ paṭicca uppajjati viññāṇaṁ, tena teneva viññāṇantveva saṅkhyaṁ gacchati. Cakkhuñca paṭicca rūpe ca uppajjati viññāṇaṁ, cakkhuviññāṇantveva saṅkhyaṁ gacchati; sotañca paṭicca sadde ca uppajjati viññāṇaṁ, sotaviññāṇantveva saṅkhyaṁ gacchati; ghānañca paṭicca gandhe ca uppajjati viññāṇaṁ, ghānaviññāṇantveva saṅkhyaṁ gacchati; jivhañca paṭicca rase ca uppajjati viññāṇaṁ, jivhāviññāṇantveva saṅkhyaṁ gacchati; kāyañca paṭicca phoṭṭhabbe ca uppajjati viññāṇaṁ, kāyaviññāṇantveva saṅkhyaṁ gacchati; manañca paṭicca dhamme ca uppajjati viññāṇaṁ, manoviññāṇantveva saṅkhyaṁ gacchati.*
 >
 > **Bản dịch làm việc:** “Này các tỳ-kheo, thức sinh lên tùy thuộc chính điều kiện nào thì được gọi tên theo chính điều kiện ấy. Thức sinh tùy thuộc mắt và các sắc được gọi là nhãn thức; tùy thuộc tai và âm thanh là nhĩ thức; tùy thuộc mũi và mùi là tỷ thức; tùy thuộc lưỡi và vị là thiệt thức; tùy thuộc thân và vật chạm là thân thức; tùy thuộc ý và các pháp là ý thức.”
 
@@ -82,7 +82,7 @@ Khi đọc, giữ hai tầng: quy ước “tôi thấy” giúp giao tiếp; ph
 **Nāmarūpa — “na-ma ru-pa” — danh–sắc**, trong DN 15, chỉ cấu trúc tâm–thân có điều kiện; cách phân tích cụ thể thay theo văn bản. Bài kinh hỏi nếu thức không đi vào thai mẹ, danh–sắc có hình thành không; nếu thức rời, nó có tăng trưởng không. Câu trả lời là không. Sau đó bài xác định phạm vi sinh, già, chết và tái hiện hữu qua sự nương nhau này.
 
 > **Pāli — DN 15, đoạn `dn15:2.16; dn15:2.18`**
-> *“Kiṁpaccayā nāmarūpan”ti iti ce vadeyya, “viññāṇapaccayā nāmarūpan”ti iccassa vacanīyaṁ. … “Kiṁpaccayā viññāṇan”ti iti ce vadeyya, “nāmarūpapaccayā viññāṇan”ti iccassa vacanīyaṁ.*
+> *‘Kiṁpaccayā nāmarūpan’ti iti ce vadeyya, ‘viññāṇapaccayā nāmarūpan’ti iccassa vacanīyaṁ. … ‘Kiṁpaccayā viññāṇan’ti iti ce vadeyya, ‘nāmarūpapaccayā viññāṇan’ti iccassa vacanīyaṁ.*
 >
 > **Bản dịch làm việc:** “Nếu được hỏi: ‘Danh–sắc do duyên gì?’, cần đáp: ‘Danh–sắc do duyên thức.’ Nếu được hỏi: ‘Thức do duyên gì?’, cần đáp: ‘Thức do duyên danh–sắc.’”
 

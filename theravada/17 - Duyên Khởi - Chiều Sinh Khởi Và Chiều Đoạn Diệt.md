@@ -54,7 +54,7 @@ Mục tiêu thực hành cũng cần nói ngay: thấy điều kiện không ph�
 
 
 > **Pāli — SN 12.20, đoạn 3.11–3.17**
-> *Uppādā vā tathāgatānaṁ anuppādā vā tathāgatānaṁ, ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā idappaccayatā … Iti kho, bhikkhave, yā tatra tathatā avitathatā anaññathatā idappaccayatā—ayaṁ vuccati, bhikkhave, paṭiccasamuppādo.*
+> *uppādā vā tathāgatānaṁ anuppādā vā tathāgatānaṁ, ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā idappaccayatā. Taṁ tathāgato abhisambujjhati abhisameti. Abhisambujjhitvā abhisametvā ācikkhati deseti paññāpeti paṭṭhapeti vivarati vibhajati uttānīkaroti. ‘Passathā’ti cāha: ‘avijjāpaccayā, bhikkhave, saṅkhārā’. Iti kho, bhikkhave, yā tatra tathatā avitathatā anaññathatā idappaccayatā— ayaṁ vuccati, bhikkhave, paṭiccasamuppādo.*
 >
 > **Dịch nghĩa làm việc:** Dù các Như Lai xuất hiện hay không, yếu tố ấy vẫn đứng vững: sự ổn định của pháp, tính quy luật của pháp, tính điều kiện cụ thể … Tính như-thế, không sai khác và tính điều kiện cụ thể ấy được gọi là duyên khởi.
 
@@ -74,7 +74,7 @@ Duyên khởi cũng không phải bằng chứng lượng tử. Sự phụ thu�
 
 
 > **Pāli — SN 12.2, đoạn 2.2–2.13**
-> *Avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṁ … bhavapaccayā jāti; jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti.*
+> *Avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṁ; viññāṇapaccayā nāmarūpaṁ; nāmarūpapaccayā saḷāyatanaṁ; saḷāyatanapaccayā phasso; phassapaccayā vedanā; vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṁ; upādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti.*
 >
 > **Dịch nghĩa làm việc:** Này các tỳ-kheo, vô minh làm duyên cho hành; hành làm duyên cho thức … hữu làm duyên cho sinh; sinh làm duyên cho già chết, sầu, than, đau, ưu và tuyệt vọng sinh khởi. Như vậy là sự sinh khởi của toàn bộ khối khổ này.
 

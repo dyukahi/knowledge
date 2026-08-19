@@ -68,7 +68,7 @@ Nhiều bài Kinh mở bằng công thức **evaṃ me sutaṃ — đọc gần 
 
 > **Pāli — Cullavagga XI, pli-tv-kd21:1.7.1–1.7.2**
 >
-> *Atha kho āyasmā mahākassapo saṅghaṁ ñāpesi: “Suṇātu me, āvuso, saṅgho. Yadi saṅghassa pattakallaṁ, ahaṁ upāliṁ vinayaṁ puccheyyan”ti.*
+> *Atha kho āyasmā mahākassapo saṅghaṁ ñāpesi— “Suṇātu me, āvuso, saṅgho.*
 >
 > **Bản dịch làm việc:** Bấy giờ Tôn giả Mahākassapa trình với Tăng chúng: “Xin Tăng chúng lắng nghe. Nếu Tăng chúng thấy đã đến lúc, tôi sẽ hỏi Upāli về Luật.”
 

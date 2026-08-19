@@ -60,7 +60,7 @@ Bài này không tổ chức cuộc thi chọn một mô hình thắng tuyệt �
 SN 12.2 bắt đầu từ vô minh. **Avijjā — “a-vít-cha” — không biết Tứ Thánh Đế**; **saṅkhārā — “sang-kha-ra” — các hành thân, khẩu và tâm**; **viññāṇa — “vin-nha-na” — sáu loại thức**; **nāmarūpa — “na-ma ru-pa” — danh và sắc**, trong đó danh gồm thọ, tưởng, tư, xúc và tác ý; sáu xứ là sáu căn; xúc là sáu nhóm xúc; thọ và ái cũng phân sáu theo đối tượng.
 
 > **Pāli — SN 12.2, đoạn `sn12.2:2.2–2.3`**
-> *Avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṁ.*
+> *Avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṁ;*
 > **Bản dịch làm việc:** “Này các tỳ-kheo, do vô minh làm duyên nên có các hành; do các hành làm duyên nên có thức.”
 
 Thủ gồm dục thủ, kiến thủ, giới cấm thủ và ngã luận thủ. **Bhava — “bha-va” — hữu hay tiến trình hiện hữu** gồm dục hữu, sắc hữu và vô sắc hữu. **Jāti — “cha-ti” — sinh** được định nghĩa bằng sự sinh, xuất hiện, hiện khởi của các uẩn và thành tựu các xứ của những chúng sinh trong nhóm chúng sinh tương ứng. Già chết được định nghĩa bằng già, suy hoại, chết, tan rã và bỏ xác. Các định nghĩa cuối rõ ràng rộng hơn chuyện một ý nghĩ “sinh” rồi “chết”.
@@ -81,7 +81,7 @@ SN 12.2 là bản đồ định nghĩa, không phải lời giải cuối cho m�
 DN 15 mở bằng lời Đức Phật cảnh báo Ānanda rằng duyên khởi sâu và có vẻ sâu; vì không giác ngộ, chúng sinh bị rối như cuộn chỉ. Kinh rồi khảo sát điều kiện của già chết, sinh, hữu, thủ, ái và thọ. Đến thức và danh-sắc, văn bản cho quan hệ hai chiều: nếu thức không đi xuống bụng mẹ, danh-sắc không kết tụ; nếu thức sau khi đi xuống lại rời, danh-sắc không tăng trưởng; nếu thức không có chỗ đứng trong danh-sắc, sinh, già chết và khổ tương lai không được nhận biết. Đồng thời, thức lấy danh-sắc làm điều kiện.
 
 > **Pāli — DN 15, đoạn `dn15:3.1`**
-> *Iti kho, ānanda, nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo.*
+> *Iti kho, ānanda, nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.*
 > **Bản dịch làm việc:** “Như vậy, này Ānanda, do danh-sắc làm duyên nên có thức; do thức làm duyên nên có danh-sắc; do danh-sắc làm duyên nên có xúc; do xúc làm duyên nên có thọ; do thọ làm duyên nên có ái; do ái làm duyên nên có thủ; do thủ làm duyên nên có hữu.”
 
 Không nên đọc đoạn ấy như linh hồn-thức bước vào một vật chứa. MN 38 ở bài 20 sẽ bác ý tưởng chính “thức này” chạy xuyên. Ở đây, DN 15 cho tính đồng phụ thuộc trong tiến trình sống và tái sinh kinh điển. Hình ảnh hai bó lau là minh họa truyền thống thường dùng ở SN 12.67, không phải câu DN 15; nó hữu ích nếu không biến thành cơ chế vật lý.

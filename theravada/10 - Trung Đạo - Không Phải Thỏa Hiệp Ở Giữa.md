@@ -83,7 +83,7 @@ SN 56.11 định danh tám chi: chánh kiến, chánh ý hướng, chánh ngữ,
 ![hai khối chữ tượng trưng hữu và vô tan thành mạng điều kiện sinh diệt không có thực thể cô lập](../assets/illustrations/theravada-batch2/theravada-10-ton-tai-khong-ton-tai.webp)
 
 > **Pāli — SN 12.15, đoạn `sn12.15:2.2`, `sn12.15:2.3`**
-> *Lokasamudayaṁ kho, kaccāna, yathābhūtaṁ sammappaññāya passato yā loke natthitā sā na hoti. Lokanirodhaṁ kho, kaccāna, yathābhūtaṁ sammappaññāya passato yā loke atthitā sā na hoti.*
+> *Lokasamudayaṁ kho, kaccāna, yathābhūtaṁ sammappaññāya passato yā loke natthitā sā na hoti. … Lokanirodhaṁ kho, kaccāna, yathābhūtaṁ sammappaññāya passato yā loke atthitā sā na hoti.*
 >
 > **Bản dịch làm việc:** “Với người thấy sự sinh khởi của thế gian đúng như thật, quan niệm không tồn tại không còn; với người thấy sự đoạn diệt đúng như thật, quan niệm tồn tại không còn.”
 

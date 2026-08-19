@@ -41,13 +41,13 @@ source_license_checked: true
 
 > **Pāli — SN 56.11, đoạn `sn56.11:4.1–4.5`**
 >
-> *Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ … saṅkhittena pañcupādānakkhandhā dukkhā. Idaṁ kho pana, bhikkhave, dukkhasamudayaṁ ariyasaccaṁ … kāmataṇhā, bhavataṇhā, vibhavataṇhā.*
+> *Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ— jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṁ, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṁ na labhati tampi dukkhaṁ—saṅkhittena pañcupādānakkhandhā dukkhā. Idaṁ kho pana, bhikkhave, dukkhasamudayaṁ ariyasaccaṁ— yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī, seyyathidaṁ— kāmataṇhā, bhavataṇhā, vibhavataṇhā.*
 >
 > **Bản dịch làm việc:** Này các Tỳ-kheo, đây là sự thật cao quý về dukkha … tóm lại, năm thủ uẩn là dukkha. Đây là sự thật cao quý về nguồn sinh của dukkha … dục ái, hữu ái và phi hữu ái.
 
 > **Pāli — SN 56.11, đoạn `sn56.11:5.2; sn56.11:6.2; sn56.11:7.2; sn56.11:8.2`**
 >
-> *‘Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti me, bhikkhave, pubbe …pe… udapādi.*
+> *‘Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti me, bhikkhave, pubbe …pe… udapādi. … ‘Taṁ kho panidaṁ dukkhasamudayaṁ ariyasaccaṁ pahātabban’ti me, bhikkhave, pubbe …pe… udapādi. … ‘Taṁ kho panidaṁ dukkhanirodhaṁ ariyasaccaṁ sacchikātabban’ti me, bhikkhave, pubbe …pe… udapādi. … ‘Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabban’ti me, bhikkhave, pubbe …pe… udapādi.*
 >
 > *‘Taṁ kho panidaṁ dukkhasamudayaṁ ariyasaccaṁ pahātabban’ti me, bhikkhave, pubbe …pe… udapādi.*
 >
@@ -98,7 +98,7 @@ Nguồn sinh không phải lời giải thích độc quyền cho mọi tổn th
 
 > **Pāli — SN 56.11, đoạn `sn56.11:4.6–4.10`**
 >
-> *Idaṁ kho pana, bhikkhave, dukkhanirodhaṁ ariyasaccaṁ—yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo. … Ayameva ariyo aṭṭhaṅgiko maggo.*
+> *Idaṁ kho pana, bhikkhave, dukkhanirodhaṁ ariyasaccaṁ— yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo. Idaṁ kho pana, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṁ— ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi.*
 >
 > **Bản dịch làm việc:** Này các Tỳ-kheo, đây là sự thật cao quý về sự đoạn diệt dukkha: chính là sự ly tham và đoạn diệt hoàn toàn ái ấy, từ bỏ, buông ra, giải thoát và không còn nương tựa vào nó. … Đó chính là Bát Chánh Đạo.
 

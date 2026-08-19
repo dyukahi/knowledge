@@ -54,7 +54,7 @@ Mục tiêu của bài không phải viết một “cuộc đời Đức Phật
 ![ba khung cảnh rời nhà, khổ hạnh và hành trình cuối được nối bằng một con đường](../assets/illustrations/theravada-batch1/theravada-01-ba-cua-so-kinh.webp)
 
 > **Pāli — MN 26, đoạn 12.1–12.3**
-> *Katamā ca, bhikkhave, ariyā pariyesanā? Idha, bhikkhave, ekacco attanā jātidhammo samāno jātidhamme ādīnavaṁ viditvā ajātaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati … Ayaṁ, bhikkhave, ariyā pariyesanā.*
+> *Katamā ca, bhikkhave, ariyā pariyesanā? Idha, bhikkhave, ekacco attanā jātidhammo samāno jātidhamme ādīnavaṁ viditvā ajātaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā jarādhammo samāno jarādhamme ādīnavaṁ viditvā ajaraṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā byādhidhammo samāno byādhidhamme ādīnavaṁ viditvā abyādhiṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā maraṇadhammo samāno maraṇadhamme ādīnavaṁ viditvā amataṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā sokadhammo samāno sokadhamme ādīnavaṁ viditvā asokaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā saṅkilesadhammo samāno saṅkilesadhamme ādīnavaṁ viditvā asaṅkiliṭṭhaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati. Ayaṁ, bhikkhave, ariyā pariyesanā.*
 >
 > **Dịch nghĩa làm việc:** Này các tỳ-kheo, thế nào là cuộc tìm cầu cao quý? Ở đây, một người vốn chịu sinh, thấy nguy hại trong cái chịu sinh, tìm Niết-bàn—sự an ổn tối thượng khỏi ách, không sinh … Đây gọi là cuộc tìm cầu cao quý.
 
@@ -63,7 +63,7 @@ Mục tiêu của bài không phải viết một “cuộc đời Đức Phật
 Trong MN 26, Gotama đến học Āḷāra Kālāma và Uddaka Rāmaputta. Ngài đạt đến trình độ mà mỗi vị thầy công nhận, nhưng thấy thành tựu ấy chưa dẫn tới ly tham, đoạn diệt, an tịnh và giác ngộ trọn vẹn. Chi tiết này có thể giữ ký ức về môi trường tu tập đương thời; ta không có tài liệu độc lập để viết tiểu sử chắc chắn cho hai vị thầy. Giá trị gần nhất của đoạn văn là cách nó định nghĩa tiêu chuẩn: một trạng thái cao không đủ chỉ vì tinh tế hoặc hiếm có; nó phải giải quyết gốc rễ của trói buộc.
 
 > **Pāli — MN 36, đoạn 30.5–31.5**
-> *Na kho panāhaṁ imāya kaṭukāya dukkarakārikāya adhigacchāmi uttari manussadhammā alamariyañāṇadassanavisesaṁ. Siyā nu kho añño maggo bodhāyā’ti? … ‘Eseva maggo bodhāyā’ti.*
+> *Na kho panāhaṁ imāya kaṭukāya dukkarakārikāya adhigacchāmi uttari manussadhammā alamariyañāṇadassanavisesaṁ. Siyā nu kho añño maggo bodhāyā’ti? Tassa mayhaṁ, aggivessana, etadahosi: ‘abhijānāmi kho panāhaṁ pitu sakkassa kammante sītāya jambucchāyāya nisinno vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharitā. Siyā nu kho eso maggo bodhāyā’ti? Tassa mayhaṁ, aggivessana, satānusāri viññāṇaṁ ahosi: ‘eseva maggo bodhāyā’ti.*
 >
 > **Dịch nghĩa làm việc:** Nhưng bằng lối khổ hạnh cay nghiệt này, ta không đạt pháp vượt người hay tri kiến xứng bậc thánh. Liệu có con đường khác đến giác ngộ? … Rồi sự nhận biết theo sau ký ức ấy khởi lên: đây chính là con đường đến giác ngộ.
 
@@ -72,7 +72,7 @@ Trong MN 26, Gotama đến học Āḷāra Kālāma và Uddaka Rāmaputta. Ngài
 MN 36 còn đặt cuộc giác ngộ trong một cấu trúc ba minh và sự nhận ra giải thoát. Người đọc hiện đại có thể tiếp nhận cấu trúc ấy theo đức tin, tạm treo phán đoán, hoặc nghiên cứu như ngôn ngữ tôn giáo của văn bản. Phương pháp lịch sử không thể xác nhận trực tiếp một kinh nghiệm nội tâm cổ đại, càng không thể dùng khoa học tự nhiên để chứng minh nó. Nhưng ta có thể xác định chức năng của lời kể: nó tuyên bố rằng vấn đề được giải quyết nhờ hiểu biết và đoạn trừ các lậu hoặc, chứ không nhờ địa vị, nghi lễ hay tự hành xác.
 
 > **Pāli — DN 16, đoạn 6.1.2–6.1.5**
-> *Siyā kho panānanda, tumhākaṁ evamassa: ‘atītasatthukaṁ pāvacanaṁ, natthi no satthā’ti. Na kho panetaṁ, ānanda, evaṁ daṭṭhabbaṁ. Yo vo, ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena satthā.*
+> *“siyā kho panānanda, tumhākaṁ evamassa: ‘atītasatthukaṁ pāvacanaṁ, natthi no satthā’ti. Na kho panetaṁ, ānanda, evaṁ daṭṭhabbaṁ. Yo vo, ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena satthā.*
 >
 > **Dịch nghĩa làm việc:** Này Ānanda, các ông có thể nghĩ: “Lời dạy đã mất thầy; chúng ta không còn thầy.” Không nên nhìn như vậy. Pháp và Luật ta đã dạy và quy định sẽ là thầy của các ông sau khi ta qua đời.
 

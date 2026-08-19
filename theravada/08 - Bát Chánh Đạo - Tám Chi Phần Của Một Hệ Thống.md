@@ -55,7 +55,7 @@ MN 117 cho thấy tính động của hệ thống rõ hơn. Chánh kiến đư�
 ![la bàn Tứ Đế định hướng ba mũi tên xuất ly, không sân và không hại](../assets/illustrations/theravada-batch1/theravada-08-tue.webp)
 
 > **Pāli — SN 45.8, đoạn `sn45.8:3.2`, `sn45.8:3.3`**
-> *Yaṁ kho, bhikkhave, dukkhe ñāṇaṁ, dukkhasamudaye ñāṇaṁ, dukkhanirodhe ñāṇaṁ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṁ—ayaṁ vuccati, bhikkhave, sammādiṭṭhi.*
+> *Yaṁ kho, bhikkhave, dukkhe ñāṇaṁ, dukkhasamudaye ñāṇaṁ, dukkhanirodhe ñāṇaṁ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṁ— … ayaṁ vuccati, bhikkhave, sammādiṭṭhi.*
 >
 > **Bản dịch làm việc:** “Biết dukkha, nguồn sinh, sự đoạn diệt và con đường đưa đến đoạn diệt dukkha: đó gọi là chánh kiến.”
 
@@ -73,7 +73,7 @@ Hai chi tuệ hỗ trợ nhau. Thấy hành động có hậu quả làm ý hư�
 ![lời nói, bàn tay hành động và nơi làm việc nối thành nền vững cho tâm](../assets/illustrations/theravada-batch1/theravada-08-gioi.webp)
 
 > **Pāli — SN 45.8, đoạn `sn45.8:5.2`, `sn45.8:5.3`**
-> *Yā kho, bhikkhave, musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī—ayaṁ vuccati, bhikkhave, sammāvācā.*
+> *Yā kho, bhikkhave, musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī— … ayaṁ vuccati, bhikkhave, sammāvācā.*
 >
 > **Bản dịch làm việc:** “Tránh nói dối, lời chia rẽ, lời thô ác và lời phù phiếm: đó gọi là chánh ngữ.”
 
@@ -93,7 +93,7 @@ Ba chi giới bảo vệ người khác và chính tâm người hành. Nói d�
 ![người ngồi vững với bốn dòng nỗ lực, trường chú ý có ký ức mục tiêu và bốn tầng lắng](../assets/illustrations/theravada-batch1/theravada-08-dinh.webp)
 
 > **Pāli — SN 45.8, đoạn `sn45.8:10.1`, `sn45.8:10.2`**
-> *Katamo ca, bhikkhave, sammāsamādhi? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.*
+> *Katamo ca, bhikkhave, sammāsamādhi? … Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.*
 >
 > **Bản dịch làm việc:** “Chánh định là gì? Vị Tỳ-kheo ly dục, ly pháp bất thiện, chứng và trú sơ thiền, có tầm có tứ, với hỷ lạc do ly dục sinh.”
 

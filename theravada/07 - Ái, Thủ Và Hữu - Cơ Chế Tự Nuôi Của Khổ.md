@@ -44,7 +44,7 @@ source_license_checked: true
 ![thọ dẫn đến cơn khát, bàn tay nắm và một căn tính đang thành hình với các mũi tên có điều kiện](../assets/illustrations/theravada-batch2/theravada-07-ba-mat-xich.webp)
 
 > **Pāli — SN 12.2, đoạn `sn12.2:2.8–2.10`**
-> *Vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṁ; upādānapaccayā bhavo.*
+> *vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṁ; upādānapaccayā bhavo;*
 >
 > **Bản dịch làm việc:** “Do thọ làm duyên nên có ái; do ái làm duyên nên có thủ; do thủ làm duyên nên có hữu.”
 
@@ -79,7 +79,7 @@ MN 148 đặc biệt hữu ích vì đặt ái sau thọ. **Vedanā — “vê-�
 ![bốn bàn tay tượng trưng dục, kiến, giới cấm thủ và học thuyết tự ngã](../assets/illustrations/theravada-batch2/theravada-07-bon-loai-thu.webp)
 
 > **Pāli — SN 12.2, đoạn `sn12.2:6.1–6.4`**
-> *Katamañca, bhikkhave, upādānaṁ? Cattārimāni, bhikkhave, upādānāni—kāmupādānaṁ, diṭṭhupādānaṁ, sīlabbatupādānaṁ, attavādupādānaṁ. Idaṁ vuccati, bhikkhave, upādānaṁ.*
+> *Katamañca, bhikkhave, upādānaṁ? Cattārimāni, bhikkhave, upādānāni— kāmupādānaṁ, diṭṭhupādānaṁ, sīlabbatupādānaṁ, attavādupādānaṁ. Idaṁ vuccati, bhikkhave, upādānaṁ.*
 >
 > **Bản dịch làm việc:** “Này các tỳ-kheo, thủ là gì? Có bốn loại thủ: dục thủ, kiến thủ, giới cấm thủ và ngã luận thủ. Này các tỳ-kheo, đó được gọi là thủ.”
 

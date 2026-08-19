@@ -57,7 +57,7 @@ Bài này giữ đồng thời ba điều: hành động có hậu quả; hậu 
 AN 6.63 không chỉ cho một câu định nghĩa. Kinh đặt nghiệp vào phương pháp phân tích: nghiệp cần được biết, nguồn sinh của nghiệp cần được biết, sự đa dạng, quả, sự đoạn diệt và con đường dẫn tới đoạn diệt cần được biết. Nguồn sinh được liên hệ với xúc; sự đa dạng gồm nghiệp dẫn tới kinh nghiệm ở địa ngục, loài vật, ngạ quỷ, cõi người và cõi trời; quả được trải ngay hiện tại, đời kế hoặc về sau; đoạn diệt nghiệp được nói cùng sự đoạn diệt xúc; Bát Chánh Đạo là con đường.
 
 > **Pāli — AN 6.63, đoạn `an6.63:33.3–33.4`**
-> *Cetanāhaṁ, bhikkhave, kammaṁ vadāmi. Cetayitvā kammaṁ karoti.*
+> *Cetanāhaṁ, bhikkhave, kammaṁ vadāmi. Cetayitvā kammaṁ karoti—*
 > **Bản dịch làm việc:** “Này các tỳ-kheo, Ta nói tác ý là nghiệp. Sau khi có tác ý, người ta tạo nghiệp.”
 
 Cấu trúc này ngăn “nghiệp là tác ý” bị thu hẹp thành tâm lý chủ quan. Tác ý đi qua thân, khẩu, ý và có quả trong một vũ trụ đạo đức kinh điển. Nhưng cũng ngăn nghiệp thành vật thể: nó được phân tích theo điều kiện, loại hành động, thời điểm quả và con đường đoạn diệt. Không có một kho điểm được mô tả.
@@ -78,7 +78,7 @@ Nói nghiệp qua thân và khẩu cũng sửa việc chỉ chăm “năng lư�
 MN 135 trình bày các cặp. Người sát sinh, tàn nhẫn có thể tái sinh cảnh khổ; nếu trở lại làm người thì đoản thọ. Người từ bỏ sát sinh có khuynh hướng trái lại. Gây thương tích liên hệ bệnh tật; không gây hại liên hệ sức khỏe. Sân hận liên hệ dung sắc kém; không sân liên hệ dung sắc tốt. Đố kỵ liên hệ ít ảnh hưởng; không đố kỵ liên hệ ảnh hưởng. Không bố thí liên hệ nghèo; bố thí liên hệ giàu. Kiêu mạn liên hệ địa vị thấp; tôn trọng liên hệ địa vị cao. Không hỏi điều thiện bất thiện liên hệ ít trí; biết hỏi liên hệ trí.
 
 > **Pāli — MN 135, đoạn `mn135:4.1–4.2`**
-> *Kammassakā, māṇava, sattā kammadāyādā kammayonī kammabandhū kammappaṭisaraṇā. Kammaṁ satte vibhajati yadidaṁ.*
+> *“Kammassakā, māṇava, sattā kammadāyādā kammayonī kammabandhū kammappaṭisaraṇā. Kammaṁ satte vibhajati yadidaṁ—*
 > **Bản dịch làm việc:** “Này thanh niên, chúng sinh là chủ nhân của nghiệp, thừa tự nghiệp, sinh từ nghiệp, có nghiệp là thân quyến, có nghiệp là nơi nương tựa. Chính nghiệp phân chia chúng sinh.”
 
 Đọc đúng cần giữ văn cảnh nghiệp và tái sinh mà kinh nêu. Không nên hiện đại hóa thành “chỉ là tâm lý”: sát sinh thật sự là hành động nặng, và quả không chỉ là cảm giác tội lỗi. Nhưng cũng không nên biến các cặp thành phép chẩn đoán ngược. Từ “người này nghèo” không thể suy chắc “người này từng keo kiệt”; từ bệnh không thể kết luận từng gây hại. Kinh dạy chiều hành động đến khuynh hướng quả, không ban năng lực toàn tri đi từ một quả phức hợp tới một nghiệp duy nhất.
@@ -99,7 +99,7 @@ Các cặp của MN 135 cũng không định giá phẩm giá người. Người
 Định mệnh nói kết quả đã cố định và nỗ lực hiện tại vô nghĩa. Giáo lý kamma nói hành động hiện tại là một điều kiện có sức tạo hậu quả. Chỉ riêng việc Bát Chánh Đạo, tinh tấn và tu sửa được dạy đã loại cách đọc hoàn toàn định mệnh. Nếu quá khứ quyết mọi thứ, khuyên tránh bất thiện và phát triển thiện sẽ vô ích.
 
 > **Pāli — AN 6.63, đoạn `an6.63:37.1–37.3`**
-> *Katamo ca, bhikkhave, kammanirodho? Phassanirodho, bhikkhave, kammanirodho. Ayameva ariyo aṭṭhaṅgiko maggo kammanirodhagāminī paṭipadā.*
+> *Katamo ca, bhikkhave, kammanirodho? Phassanirodho, bhikkhave, kammanirodho. Ayameva ariyo aṭṭhaṅgiko maggo kammanirodhagāminī paṭipadā, seyyathidaṁ—*
 > **Bản dịch làm việc:** “Và này các tỳ-kheo, nghiệp đoạn diệt là gì? Xúc đoạn diệt là nghiệp đoạn diệt. Chính Thánh đạo tám ngành này là con đường đưa đến nghiệp đoạn diệt.”
 
 Kinh tạng còn bác học thuyết cho rằng mọi cảm thọ hiện tại đều do hành động quá khứ. Trong [SN 36.21, Sīvaka Sutta](https://suttacentral.net/sn36.21), Đức Phật liệt kê nhiều nguồn của cảm thọ đau: rối loạn mật, đờm, gió, sự kết hợp, thay đổi thời tiết, xử lý bất cẩn, bị tấn công và quả nghiệp. Bài này lấy AN 6.63 và MN 135 làm nguồn trụ cột; SN 36.21 là nguồn bổ trợ trực tiếp cho hàng rào “không phải mọi thứ chỉ do nghiệp”.

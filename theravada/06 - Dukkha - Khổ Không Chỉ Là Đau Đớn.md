@@ -42,7 +42,7 @@ source_license_checked: true
 ![một vòng trải nghiệm gồm đau rõ rệt, vui đang đổi và bàn tay bám vào năm dòng kinh nghiệm](../assets/illustrations/theravada-batch2/theravada-06-ba-pham-vi-dukkha.webp)
 
 > **Pāli — SN 56.11, đoạn `sn56.11:4.1–4.2`**
-> *Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ—jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṁ, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṁ na labhati tampi dukkhaṁ—saṅkhittena pañcupādānakkhandhā dukkhā.*
+> *Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ— jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṁ, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṁ na labhati tampi dukkhaṁ—saṅkhittena pañcupādānakkhandhā dukkhā.*
 >
 > **Bản dịch làm việc:** “Này các Tỳ-kheo, đây là sự thật cao quý về dukkha: sinh, già, bệnh, chết; gặp điều không ưa, lìa điều mình ưa và không được điều mình muốn đều là dukkha; tóm lại, năm uẩn bị chấp thủ là dukkha.”
 
@@ -93,7 +93,7 @@ Theo Rupert Gethin, dukkha trong cấu trúc Phật giáo phải được hiểu
 ![người quan sát cầm đèn soi toàn bộ mạng điều kiện thay vì đập vỡ trải nghiệm khó chịu](../assets/illustrations/theravada-batch2/theravada-06-parinna.webp)
 
 > **Pāli — SN 56.11, đoạn `sn56.11:5.2`**
-> *Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti me, bhikkhave, pubbe …pe… udapādi.*
+> *‘Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti me, bhikkhave, pubbe …pe… udapādi.*
 >
 > **Bản dịch làm việc:** “Tri kiến khởi lên nơi Ta rằng: sự thật cao quý về dukkha này cần được hiểu trọn vẹn.”
 

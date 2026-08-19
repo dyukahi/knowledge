@@ -57,7 +57,7 @@ Bài này không tuyên bố một cơ chế vật lý của tái sinh. MN 38, S
 ![sáu loại thức sinh tùy căn và cảnh thay cho một dòng thức bất biến](../assets/illustrations/theravada-batch3/theravada-20-mn38-thuc-co-dieu-kien.webp)
 
 > **Pāli — MN 38, đoạn `mn38:5.9–5.13`**
-> *Evaṁ byā kho ahaṁ, bhante, bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan. … Nanu mayā, moghapurisa, anekapariyāyena paṭiccasamuppannaṁ viññāṇaṁ vuttaṁ, aññatra paccayā natthi viññāṇassa sambhavoti?*
+> *“Evaṁ byā kho ahaṁ, bhante, bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan”ti. “Katamaṁ taṁ, sāti, viññāṇan”ti? “Yvāyaṁ, bhante, vado vedeyyo tatra tatra kalyāṇapāpakānaṁ kammānaṁ vipākaṁ paṭisaṁvedetī”ti. “Kassa nu kho nāma tvaṁ, moghapurisa, mayā evaṁ dhammaṁ desitaṁ ājānāsi? Nanu mayā, moghapurisa, anekapariyāyena paṭiccasamuppannaṁ viññāṇaṁ vuttaṁ, aññatra paccayā natthi viññāṇassa sambhavoti?*
 > **Bản dịch làm việc:** “Bạch Thế Tôn, con hiểu pháp được Thế Tôn dạy rằng chính thức này chạy quanh, lang thang, không phải một thức khác. … Này kẻ rỗng tuếch, chẳng phải bằng nhiều cách Ta đã nói thức sinh khởi tùy duyên, và ngoài điều kiện thì thức không thể phát sinh sao?”
 
 [MN 38, Mahātaṇhāsaṅkhaya Sutta](https://suttacentral.net/mn38) kể việc tỳ-kheo Sāti hiểu lời dạy theo cách “chính thức này” chạy và luân chuyển, không phải một thức khác. Khi được hỏi thức ấy là gì, Sāti mô tả nó như cái nói, cảm thọ và trải quả thiện ác. Đức Phật quở trách cách hiểu ấy và nhắc rằng thức được dạy là **paṭiccasamuppanna — sinh khởi tùy thuộc điều kiện**; không có điều kiện thì thức không sinh.
@@ -77,7 +77,7 @@ MN 38 cho một phương pháp đọc: mỗi khi gặp danh từ như “thức�
 ![chuỗi thủ hữu sinh già chết vận hành bằng duyên không có mắt xích linh hồn](../assets/illustrations/theravada-batch3/theravada-20-sn12-huu-sinh.webp)
 
 > **Pāli — SN 12.2, đoạn `sn12.2:2.11–2.12`**
-> *Bhavapaccayā jāti; jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.*
+> *bhavapaccayā jāti; jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.*
 > **Bản dịch làm việc:** “Do hữu làm duyên nên có sinh; do sinh làm duyên nên có già chết, sầu, than, đau, ưu và tuyệt vọng sinh khởi.”
 
 SN 12.2 định nghĩa chuỗi duyên khởi: vô minh làm duyên cho hành, hành cho thức, thức cho danh-sắc, tiếp tục qua sáu xứ, xúc, thọ, ái, thủ, hữu, sinh và già chết. Trong danh sách không có linh hồn, bản ngã siêu hình hay kho lưu trữ ký ức. Sự vắng mặt này không tự nó là một thí nghiệm chứng minh không có linh hồn; nó cho biết mô hình giải thoát kinh điển không cần mắt xích ấy.
@@ -97,7 +97,7 @@ Vì SN 12.2 định nghĩa jāti theo sinh hữu, một cách đọc “tái sin
 ![thức và danh sắc nương nhau như hai bó lau mà không tạo một chủ thể](../assets/illustrations/theravada-batch3/theravada-20-dn15-thuc-danh-sac.webp)
 
 > **Pāli — DN 15, đoạn `dn15:3.1`**
-> *Iti kho, ānanda, nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo.*
+> *Iti kho, ānanda, nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.*
 > **Bản dịch làm việc:** “Như vậy, này Ānanda, do danh-sắc làm duyên nên có thức; do thức làm duyên nên có danh-sắc; do danh-sắc làm duyên nên có xúc; do xúc làm duyên nên có thọ; do thọ làm duyên nên có ái; do ái làm duyên nên có thủ; do thủ làm duyên nên có hữu.”
 
 [DN 15, Mahānidāna Sutta](https://suttacentral.net/dn15) đi sâu vào điều kiện của thức và danh-sắc. Kinh hỏi: nếu thức không đi xuống bụng mẹ, danh-sắc có hình thành ở đó không; nếu thức sau khi đi xuống lại lệch đi, danh-sắc có sinh trưởng thành trạng thái này không; nếu thức bị cắt khỏi trẻ nhỏ, danh-sắc có tăng trưởng không? Câu trả lời đều là không. Đoạn này giữ một phạm vi sinh thành mạnh, không thể giản lược toàn bộ thành tâm lý trong một khoảnh khắc.

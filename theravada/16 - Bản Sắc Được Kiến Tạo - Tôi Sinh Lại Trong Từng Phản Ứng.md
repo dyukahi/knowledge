@@ -46,12 +46,12 @@ Với sắc, người không được học có thể xem sắc là tự ngã; t
 SN 22.1 đặt phân tích trong câu chuyện rất đời: gia chủ Nakulapitā già, bệnh và đau. Đức Phật khuyên dù thân bệnh, tâm đừng bệnh. Tôn giả Sāriputta giải thích tâm bệnh qua hai mươi dạng chấp; khi uẩn đổi, sầu và khổ sinh vì người ấy bị ám bởi “tôi là cái này” và “cái này của tôi”. Tâm không bệnh là không đặt tự ngã theo các cách ấy.
 
 > **Pāli — SN 22.1, đoạn `sn22.1:3.4–3.6`**
-> *Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: “āturakāyassa me sato cittaṁ anāturaṁ bhavissatī”ti. Evañhi te, gahapati, sikkhitabban.*
+> *Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘āturakāyassa me sato cittaṁ anāturaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabban”ti.*
 >
 > **Bản dịch làm việc:** “Vì vậy, này gia chủ, ông nên học như sau: ‘Dù thân tôi bệnh, tâm tôi sẽ không bệnh.’ Này gia chủ, ông nên học như vậy.”
 
 > **Pāli — MN 44, đoạn `mn44:2.1–2.5`**
-> *“Sakkāyo sakkāyo”ti, ayye, vuccati. Katamo nu kho, ayye, sakkāyo vutto bhagavatāti? Pañca kho ime, āvuso visākha, upādānakkhandhā sakkāyo vutto bhagavatā, seyyathidaṁ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho.*
+> *“‘sakkāyo sakkāyo’ti, ayye, vuccati. Katamo nu kho, ayye, sakkāyo vutto bhagavatā”ti? “Pañca kho ime, āvuso visākha, upādānakkhandhā sakkāyo vutto bhagavatā, seyyathidaṁ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho. Ime kho, āvuso visākha, pañcupādānakkhandhā sakkāyo vutto bhagavatā”ti.*
 >
 > **Bản dịch làm việc:** “‘Sakkāya, sakkāya’—người ta nói như vậy. Thưa ni sư, sakkāya nào được Thế Tôn nói đến?”—“Này hiền hữu Visākha, năm thủ uẩn này được Thế Tôn gọi là sakkāya: thủ uẩn sắc, thủ uẩn thọ, thủ uẩn tưởng, thủ uẩn hành và thủ uẩn thức.”
 
@@ -66,7 +66,7 @@ MN 44 là cuộc đối thoại giữa nam cư sĩ Visākha và ni sư Dhammadin
 Cột thứ nhất là đồng nhất: “sắc là tự ngã”, “thọ là tự ngã”. Trong đời thường: “tôi chính là cơ thể này”, “tôi là cảm giác buồn này”, “tôi là ký ức và quan điểm này”. Mô tả quy ước không luôn là tà kiến; dấu hiệu chấp là khi thay đổi của một thuộc tính được trải như sự hủy toàn bộ người.
 
 > **Pāli — SN 22.1, đoạn `sn22.1:9.2–9.6`**
-> *Rūpaṁ attato samanupassati, rūpavantaṁ vā attānaṁ; attani vā rūpaṁ, rūpasmiṁ vā attānaṁ. “Ahaṁ rūpaṁ, mama rūpan”ti pariyuṭṭhaṭṭhāyī hoti. Tassa “ahaṁ rūpaṁ, mama rūpan”ti pariyuṭṭhaṭṭhāyino, taṁ rūpaṁ vipariṇamati aññathā hoti. Tassa rūpavipariṇāmaññathābhāvā uppajjanti sokaparidevadukkhadomanassupāyāsā.*
+> *Idha, gahapati, assutavā puthujjano ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṁ attato samanupassati, rūpavantaṁ vā attānaṁ; attani vā rūpaṁ, rūpasmiṁ vā attānaṁ. ‘Ahaṁ rūpaṁ, mama rūpan’ti pariyuṭṭhaṭṭhāyī hoti. Tassa ‘ahaṁ rūpaṁ, mama rūpan’ti pariyuṭṭhaṭṭhāyino taṁ rūpaṁ vipariṇamati aññathā hoti. Tassa rūpavipariṇāmaññathābhāvā uppajjanti sokaparidevadukkhadomanassupāyāsā.*
 >
 > **Bản dịch làm việc:** “Người ấy xem sắc là tự ngã, hoặc xem tự ngã có sắc, hoặc sắc ở trong tự ngã, hoặc tự ngã ở trong sắc. Người ấy bị ý niệm ‘tôi là sắc, sắc là của tôi’ chiếm cứ. Khi sắc ấy biến đổi và trở thành khác, do sắc biến đổi mà sầu, than, đau, ưu và tuyệt vọng sinh lên.”
 

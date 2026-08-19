@@ -85,7 +85,7 @@ Sau khi đoạn năm triền cái, bài kinh mô tả bốn jhāna. **Jhāna —
 ![người học được hướng dẫn từng kỹ năng như thuần ngựa, bắn cung và học toán nhưng vẫn tự bước đi](../assets/illustrations/theravada-batch2/theravada-09-huan-luyen-tuan-tu.webp)
 
 > **Pāli — DN 2, đoạn `dn2:74.4`, `dn2:75.1`**
-> *Tassime pañca nīvaraṇe pahīne attani samanupassato pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. So vivicceva kāmehi, vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.*
+> *Tassime pañca nīvaraṇe pahīne attani samanupassato pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. … So vivicceva kāmehi, vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.*
 >
 > **Bản dịch làm việc:** “Khi thấy năm triền cái đã đoạn trừ, hân hoan và hỷ sinh; thân lắng dịu, cảm nhận lạc, tâm được định tĩnh. Vị ấy ly dục, ly pháp bất thiện, chứng và trú sơ thiền.”
 

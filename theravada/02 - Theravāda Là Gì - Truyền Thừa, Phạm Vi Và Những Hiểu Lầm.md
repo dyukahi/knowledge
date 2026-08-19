@@ -43,17 +43,17 @@ source_license_checked: true
 ![cây cổ thụ có rễ là văn bản Pāli và nhiều cành là cộng đồng hiện đại](../assets/illustrations/theravada-batch1/theravada-02-truyen-thong-song.webp)
 
 > **Pāli — DN 16, các đoạn dn16:6.1.2–dn16:6.1.5**
-> *Siyā kho panānanda, tumhākaṁ evamassa: “atītasatthukaṁ pāvacanaṁ, natthi no satthā”ti. Na kho panetaṁ, ānanda, evaṁ daṭṭhabbaṁ. Yo vo, ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena satthā.*
+> *“siyā kho panānanda, tumhākaṁ evamassa: ‘atītasatthukaṁ pāvacanaṁ, natthi no satthā’ti. Na kho panetaṁ, ānanda, evaṁ daṭṭhabbaṁ. Yo vo, ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena satthā.*
 >
 > **Dịch nghĩa làm việc:** Này Ānanda, các ông có thể nghĩ: “Lời dạy đã mất thầy; chúng ta không còn thầy.” Không nên nhìn như vậy. Pháp và Luật ta đã dạy và quy định sẽ là thầy của các ông sau khi ta qua đời.
 
 > **Pāli — Cullavagga XI, các đoạn pli-tv-kd21:1.11.4–pli-tv-kd21:1.11.7**
-> *“Therehi, āvuso purāṇa, dhammo ca vinayo ca saṅgīto. Upehi taṁ saṅgītin”ti. “Susaṅgītāvuso, therehi dhammo ca vinayo ca. Api ca yatheva mayā bhagavato sammukhā sutaṁ, sammukhā paṭiggahitaṁ, tathevāhaṁ dhāressāmī”ti.*
+> *“therehi, āvuso purāṇa, dhammo ca vinayo ca saṅgīto. Upehi taṁ saṅgītin”ti. “Susaṅgītāvuso, therehi dhammo ca vinayo ca. Api ca yatheva mayā bhagavato sammukhā sutaṁ, sammukhā paṭiggahitaṁ, tathevāhaṁ dhāressāmī”ti.*
 >
 > **Dịch nghĩa làm việc:** “Hiền giả Purāṇa, các trưởng lão đã cùng tụng Pháp và Luật. Hãy thuận theo cuộc kết tập ấy.” “Pháp và Luật đã được các trưởng lão khéo kết tập; tuy vậy, tôi sẽ ghi giữ đúng như chính mình đã nghe và tiếp nhận trước mặt Đức Thế Tôn.”
 
 > **Pāli — Cullavagga XII, các đoạn pli-tv-kd22:1.1.1–pli-tv-kd22:1.1.2**
-> *Tena kho pana samayena vassasataparinibbute bhagavati vesālikā vajjiputtakā bhikkhū vesāliyaṁ dasa vatthūni dīpenti—kappati siṅgiloṇakappo, kappati dvaṅgulakappo, kappati gāmantarakappo, kappati āvāsakappo, kappati anumatikappo, kappati āciṇṇakappo, kappati amathitakappo, kappati jaḷogiṁ pātuṁ, kappati adasakaṁ nisīdanaṁ, kappati jātarūparajatanti.*
+> *Tena kho pana samayena vassasataparinibbute bhagavati vesālikā vajjiputtakā bhikkhū vesāliyaṁ dasa vatthūni dīpenti— kappati siṅgiloṇakappo, kappati dvaṅgulakappo, kappati gāmantarakappo, kappati āvāsakappo, kappati anumatikappo, kappati āciṇṇakappo, kappati amathitakappo, kappati jaḷogiṁ pātuṁ, kappati adasakaṁ nisīdanaṁ, kappati jātarūparajatanti.*
 >
 > **Dịch nghĩa làm việc:** Khi Đức Thế Tôn đã viên tịch được một trăm năm, các tỳ-kheo Vajjiputtaka ở Vesālī nêu mười điều là được phép: cất muối trong sừng, ăn khi bóng đã quá hai ngón, sang làng khác để ăn, làm lễ bố-tát theo từng trú xứ, xin chuẩn thuận sau, theo lệ quen, dùng sữa chưa thành bơ, uống nước lên men, dùng tọa cụ không viền và nhận vàng bạc.
 

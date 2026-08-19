@@ -59,7 +59,7 @@ Saṃsāra không phải vật ở ngoài ép một chủ thể vô tội, nhưn
 ![cỏ gỗ cành lá toàn cõi được gom thành đơn vị cho vô số đời](../assets/illustrations/theravada-batch3/theravada-22-sn15-co-go-la.webp)
 
 > **Pāli — SN 15.1, đoạn `sn15.1:1.10`**
-> *‘Ayaṁ me mātā, tassā me mātu ayaṁ mātā’ti, apariyādinnāva, bhikkhave, tassa purisassa mātumātaro assu, atha imasmiṁ jambudīpe tiṇakaṭṭhasākhāpalāsaṁ parikkhayaṁ pariyādānaṁ gaccheyya.*
+> *‘ayaṁ me mātā, tassā me mātu ayaṁ mātā’ti, apariyādinnāva, bhikkhave, tassa purisassa mātumātaro assu, atha imasmiṁ jambudīpe tiṇakaṭṭhasākhāpalāsaṁ parikkhayaṁ pariyādānaṁ gaccheyya.*
 > **Bản dịch làm việc:** “Này các tỳ-kheo, dù người ấy nói: ‘Đây là mẹ tôi; đây là mẹ của mẹ tôi’, chuỗi các bà mẹ của người ấy vẫn chưa hết, trong khi cỏ, gỗ, cành và lá trên cõi Jambudīpa này đã cạn sạch.”
 
 SN 15.1 đưa ra một thí nghiệm tưởng tượng. Nếu có người gom mọi cỏ, gỗ, cành và lá trong cõi Ấn Độ, cắt thành những đoạn ngắn rồi đặt từng đoạn cho mỗi người mẹ của mình, nói “đây là mẹ tôi, đây là mẹ của mẹ tôi”, vật liệu sẽ hết trước khi chuỗi những người mẹ được kể hết. Lý do được lặp: saṃsāra không thấy điểm đầu đối với chúng sinh bị vô minh che và ái buộc.
@@ -79,7 +79,7 @@ Cũng không có thế lực thu hoạch năng lượng qua chuỗi ấy. Vô mi
 ![biển nước mắt qua nhiều đời làm hiện rõ trọng lượng của mất mát lặp lại](../assets/illustrations/theravada-batch3/theravada-22-sn15-bien-nuoc-mat.webp)
 
 > **Pāli — SN 15.3, đoạn `sn15.3:1.3–1.4`**
-> *Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ. Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yaṁ vā vo iminā dīghena addhunā sandhāvataṁ saṁsarataṁ amanāpasampayogā manāpavippayogā kandantānaṁ rodantānaṁ assu passannaṁ paggharitaṁ, yaṁ vā catūsu mahāsamuddesu udakaṁ?*
+> *Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ. Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yaṁ vā vo iminā dīghena addhunā sandhāvataṁ saṁsarataṁ amanāpasampayogā manāpavippayogā kandantānaṁ rodantānaṁ assu passannaṁ paggharitaṁ, yaṁ vā catūsu mahāsamuddesu udakan”ti?*
 > **Bản dịch làm việc:** “Không nhận ra được điểm đầu của những chúng sinh bị vô minh che lấp, bị ái trói buộc, cứ chạy quanh và lang thang. Này các tỳ-kheo, các ông nghĩ sao: nước mắt đã chảy khi các ông lang thang suốt thời gian dài, khóc than vì gặp điều không ưa và lìa điều mình thương, hay nước trong bốn đại dương—bên nào nhiều hơn?”
 
 [SN 15.3, Assu Sutta](https://suttacentral.net/sn15.3) hỏi điều gì nhiều hơn: nước mắt đã đổ khi chạy quanh và lang thang qua thời gian dài, khóc vì gặp điều không ưa và lìa điều mình thương, hay nước trong bốn đại dương. Câu trả lời là nước mắt nhiều hơn. Kinh nhắc mất mẹ, cha, anh, chị, con trai, con gái và thân quyến qua những chu kỳ không thể đo.

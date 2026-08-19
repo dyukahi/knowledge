@@ -71,7 +71,7 @@ Cuối cùng, hỏi **lời dạy này được kiểm tra bằng loại kết q
 
 > **Pāli — MN 22, đoạn `mn22:10.3–10.7`**
 >
-> *Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ na upaparikkhanti. … Tesaṁ te dhammā duggahitā dīgharattaṁ ahitāya dukkhāya saṁvattanti.*
+> *Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ na upaparikkhanti. Tesaṁ te dhammā paññāya atthaṁ anupaparikkhataṁ na nijjhānaṁ khamanti. Te upārambhānisaṁsā ceva dhammaṁ pariyāpuṇanti itivādappamokkhānisaṁsā ca. Yassa catthāya dhammaṁ pariyāpuṇanti tañcassa atthaṁ nānubhonti. Tesaṁ te dhammā duggahitā dīgharattaṁ ahitāya dukkhāya saṁvattanti.*
 >
 > **Bản dịch làm việc:** Học Pháp ấy rồi, họ không dùng trí tuệ khảo sát ý nghĩa. … Những pháp bị nắm sai ấy đưa đến bất lợi và khổ đau lâu dài cho họ.
 
@@ -90,7 +90,7 @@ MN 22 dùng một công thức mạnh về việc buông cả “pháp”, huố
 
 > **Pāli — MN 95, đoạn `mn95:15.12–15.15`**
 >
-> *Iti vadaṁ saccamanurakkhati, na tveva tāva ekaṁsena niṭṭhaṁ gacchati: “idameva saccaṁ, moghamaññan”ti. … Na tveva tāva saccānubodho hoti.*
+> *iti vadaṁ saccamanurakkhati, na tveva tāva ekaṁsena niṭṭhaṁ gacchati: ‘idameva saccaṁ, moghamaññan’ti. Ettāvatā kho, bhāradvāja, saccānurakkhaṇā hoti, ettāvatā saccamanurakkhati, ettāvatā ca mayaṁ saccānurakkhaṇaṁ paññapema; na tveva tāva saccānubodho hotī”ti.*
 >
 > **Bản dịch làm việc:** Nói như vậy là gìn giữ sự thật, nhưng chưa đi đến kết luận một chiều rằng: “Chỉ điều này là thật, điều khác là sai.” … Đến mức ấy vẫn chưa phải là tự mình nhận biết sự thật.
 
@@ -113,7 +113,7 @@ Bài kinh khuyên không đi đến kết luận chỉ vì truyền khẩu, truy
 
 > **Pāli — AN 3.65, đoạn `an3.65:4.2–4.3; an3.65:26.2–26.3`**
 >
-> *Yadā tumhe, kālāmā, attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, kālāmā, pajaheyyātha.*
+> *Yadā tumhe, kālāmā, attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, kālāmā, pajaheyyātha. … Yadā tumhe, kālāmā, attanāva jāneyyātha: ‘ime dhammā kusalā, ime dhammā anavajjā, ime dhammā viññuppasatthā, ime dhammā samattā samādinnā hitāya sukhāya saṁvattantī’ti, atha tumhe, kālāmā, upasampajja vihareyyātha.*
 >
 > *Yadā tumhe, kālāmā, attanāva jāneyyātha: ‘ime dhammā kusalā, ime dhammā anavajjā, ime dhammā viññuppasatthā, ime dhammā samattā samādinnā hitāya sukhāya saṁvattantī’ti, atha tumhe, kālāmā, upasampajja vihareyyātha.*
 >
