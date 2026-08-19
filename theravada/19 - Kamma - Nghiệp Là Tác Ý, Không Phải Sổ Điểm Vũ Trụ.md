@@ -56,7 +56,7 @@ Bài này giữ đồng thời ba điều: hành động có hậu quả; hậu 
 
 AN 6.63 không chỉ cho một câu định nghĩa. Kinh đặt nghiệp vào phương pháp phân tích: nghiệp cần được biết, nguồn sinh của nghiệp cần được biết, sự đa dạng, quả, sự đoạn diệt và con đường dẫn tới đoạn diệt cần được biết. Nguồn sinh được liên hệ với xúc; sự đa dạng gồm nghiệp dẫn tới kinh nghiệm ở địa ngục, loài vật, ngạ quỷ, cõi người và cõi trời; quả được trải ngay hiện tại, đời kế hoặc về sau; đoạn diệt nghiệp được nói cùng sự đoạn diệt xúc; Bát Chánh Đạo là con đường.
 
-> **Pāli — AN 6.63, Bilara `an6.63:33.3–33.4`**
+> **Pāli — AN 6.63, đoạn `an6.63:33.3–33.4`**
 > *Cetanāhaṁ, bhikkhave, kammaṁ vadāmi. Cetayitvā kammaṁ karoti.*
 > **Bản dịch làm việc:** “Này các tỳ-kheo, Ta nói tác ý là nghiệp. Sau khi có tác ý, người ta tạo nghiệp.”
 
@@ -77,7 +77,7 @@ Nói nghiệp qua thân và khẩu cũng sửa việc chỉ chăm “năng lư�
 
 MN 135 trình bày các cặp. Người sát sinh, tàn nhẫn có thể tái sinh cảnh khổ; nếu trở lại làm người thì đoản thọ. Người từ bỏ sát sinh có khuynh hướng trái lại. Gây thương tích liên hệ bệnh tật; không gây hại liên hệ sức khỏe. Sân hận liên hệ dung sắc kém; không sân liên hệ dung sắc tốt. Đố kỵ liên hệ ít ảnh hưởng; không đố kỵ liên hệ ảnh hưởng. Không bố thí liên hệ nghèo; bố thí liên hệ giàu. Kiêu mạn liên hệ địa vị thấp; tôn trọng liên hệ địa vị cao. Không hỏi điều thiện bất thiện liên hệ ít trí; biết hỏi liên hệ trí.
 
-> **Pāli — MN 135, Bilara `mn135:4.1–4.2`**
+> **Pāli — MN 135, đoạn `mn135:4.1–4.2`**
 > *Kammassakā, māṇava, sattā kammadāyādā kammayonī kammabandhū kammappaṭisaraṇā. Kammaṁ satte vibhajati yadidaṁ.*
 > **Bản dịch làm việc:** “Này thanh niên, chúng sinh là chủ nhân của nghiệp, thừa tự nghiệp, sinh từ nghiệp, có nghiệp là thân quyến, có nghiệp là nơi nương tựa. Chính nghiệp phân chia chúng sinh.”
 
@@ -98,7 +98,7 @@ Các cặp của MN 135 cũng không định giá phẩm giá người. Người
 
 Định mệnh nói kết quả đã cố định và nỗ lực hiện tại vô nghĩa. Giáo lý kamma nói hành động hiện tại là một điều kiện có sức tạo hậu quả. Chỉ riêng việc Bát Chánh Đạo, tinh tấn và tu sửa được dạy đã loại cách đọc hoàn toàn định mệnh. Nếu quá khứ quyết mọi thứ, khuyên tránh bất thiện và phát triển thiện sẽ vô ích.
 
-> **Pāli — AN 6.63, Bilara `an6.63:37.1–37.3`**
+> **Pāli — AN 6.63, đoạn `an6.63:37.1–37.3`**
 > *Katamo ca, bhikkhave, kammanirodho? Phassanirodho, bhikkhave, kammanirodho. Ayameva ariyo aṭṭhaṅgiko maggo kammanirodhagāminī paṭipadā.*
 > **Bản dịch làm việc:** “Và này các tỳ-kheo, nghiệp đoạn diệt là gì? Xúc đoạn diệt là nghiệp đoạn diệt. Chính Thánh đạo tám ngành này là con đường đưa đến nghiệp đoạn diệt.”
 

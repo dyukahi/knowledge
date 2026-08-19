@@ -54,7 +54,7 @@ Mục tiêu của bài không phải làm cái chết bớt bí ẩn bằng mộ
 
 ![hành trình cuối của Đức Phật với vô thường và không phóng dật ở trung tâm](../assets/illustrations/theravada-batch3/theravada-21-dn16-ngay-cuoi.webp)
 
-> **Pāli — DN 16, Bilara `dn16:3.9.2–3.9.3`**
+> **Pāli — DN 16, đoạn `dn16:3.9.2–3.9.3`**
 > *Appossukko tvaṁ, pāpima, hohi, na ciraṁ tathāgatassa parinibbānaṁ bhavissati. Ito tiṇṇaṁ māsānaṁ accayena tathāgato parinibbāyissatī.*
 > **Bản dịch làm việc:** “Này Ác ma, hãy thôi bận tâm; chẳng bao lâu nữa Như Lai sẽ viên tịch. Sau ba tháng kể từ nay, Như Lai sẽ viên tịch.”
 
@@ -74,7 +74,7 @@ DN 16 giữ cả đau buồn và huấn luyện. Ānanda khóc; những vị ch�
 
 ![ma trận lựa chọn đạo đức giữa có và không có đời sau không biến thành cá cược mù](../assets/illustrations/theravada-batch3/theravada-21-mn60-lua-chon-trach-nhiem.webp)
 
-> **Pāli — MN 60, Bilara `mn60:12.2–12.7`**
+> **Pāli — MN 60, đoạn `mn60:12.2–12.7`**
 > *Sace kho atthi paro loko, evamayaṁ bhavaṁ purisapuggalo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjissati. … Evamassāyaṁ apaṇṇako dhammo susamatto samādinno ubhayaṁsaṁ pharitvā tiṭṭhati, riñcati akusalaṁ ṭhānaṁ.*
 > **Bản dịch làm việc:** “Nếu có đời sau, khi thân hoại mạng chung, người này sẽ sinh vào thiện thú, cõi trời. … Như vậy, nguyên tắc chắc chắn này, khi được tiếp nhận và thực hành tốt, bao trùm cả hai phía và bỏ lại phía bất thiện.”
 
@@ -94,7 +94,7 @@ Về cái chết, kinh không cho biết thức rời thân lúc nào, trải ba
 
 ![già bệnh chết và người chịu hình phạt như những sứ giả đánh thức trách nhiệm](../assets/illustrations/theravada-batch3/theravada-21-mn130-su-gia.webp)
 
-> **Pāli — MN 130, Bilara `mn130:8.10–8.17`**
+> **Pāli — MN 130, đoạn `mn130:8.10–8.17`**
 > *Ahampi khomhi maraṇadhammo, maraṇaṁ anatīto. Handāhaṁ kalyāṇaṁ karomi kāyena vācāya manasā. … Tayāvetaṁ pāpakammaṁ kataṁ, tvaññevetassa vipākaṁ paṭisaṁvedissasī.*
 > **Bản dịch làm việc:** “Ta cũng có bản chất phải chết, không vượt qua cái chết. Vậy ta hãy làm điều thiện bằng thân, lời và ý. … Chính ngươi đã làm nghiệp xấu ấy; chính ngươi sẽ cảm nhận quả của nó.”
 

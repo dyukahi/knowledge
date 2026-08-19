@@ -39,7 +39,7 @@ source_license_checked: true
 
 ![sáu cửa mắt tai mũi lưỡi thân ý đối diện sáu trường đối tượng trong một mạng quan hệ](../assets/illustrations/theravada-batch2/theravada-12-muoi-hai-xu.webp)
 
-> **Pāli — SN 35.23, Bilara `sn35.23:1.4–1.6`**
+> **Pāli — SN 35.23, đoạn `sn35.23:1.4–1.6`**
 > *“Kiñca, bhikkhave, sabbaṁ? Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca—idaṁ vuccati, bhikkhave, sabbaṁ.”*
 >
 > **Bản dịch làm việc:** “Này các tỳ-kheo, thế nào là tất cả? Mắt và các hình sắc, tai và các âm thanh, mũi và các mùi, lưỡi và các vị, thân và các đối tượng xúc chạm, ý và các pháp: này các tỳ-kheo, đây được gọi là tất cả.”
@@ -62,7 +62,7 @@ Vì vậy câu “thế giới xuất hiện ở đâu?” không được trả
 
 Một tiếng động không trở thành đối tượng của mắt; màu không được nếm bằng lưỡi. Giới hạn này có giá trị thực hành: cái ta gọi “thế giới” ở một khoảnh khắc luôn được cấu hình bởi cửa đang hoạt động và điều kiện của nó. Trong phòng tối, hình sắc không hiện như ban ngày; tai suy giảm làm trường âm đổi; sốt làm vị khác. Không cần phủ nhận vật ngoài để thấy kinh nghiệm luôn có điều kiện.
 
-> **Pāli — MN 148, Bilara `mn148:4.3`, `mn148:5.3`**
+> **Pāli — MN 148, đoạn `mn148:4.3`, `mn148:5.3`**
 > *“Cakkhāyatanaṁ, sotāyatanaṁ, ghānāyatanaṁ, jivhāyatanaṁ, kāyāyatanaṁ, manāyatanaṁ. Rūpāyatanaṁ, saddāyatanaṁ, gandhāyatanaṁ, rasāyatanaṁ, phoṭṭhabbāyatanaṁ, dhammāyatanaṁ.”*
 >
 > **Bản dịch làm việc:** “Nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ, thân xứ và ý xứ. Sắc xứ, thanh xứ, hương xứ, vị xứ, xúc xứ và pháp xứ.”
@@ -95,7 +95,7 @@ Trong thiền, khi âm thanh nổi bật, biết cửa tai; khi bình luận “
 
 ![ba vòng căn đối tượng thức giao nhau thành xúc rồi lan sang thọ, không vòng nào tự đủ](../assets/illustrations/theravada-batch2/theravada-12-quan-he-ba-yeu-to.webp)
 
-> **Pāli — MN 148, Bilara `mn148:7.3`**
+> **Pāli — MN 148, đoạn `mn148:7.3`**
 > *“Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso.”*
 >
 > **Bản dịch làm việc:** “Do duyên mắt và các hình sắc, nhãn thức sinh khởi; sự gặp nhau của ba là xúc.”

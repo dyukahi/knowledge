@@ -39,13 +39,13 @@ source_license_checked: true
 ## 1. Bốn Sự Thật Không Phải Bốn Khẩu Hiệu
 ![bốn ô chẩn đoán, nguồn sinh, khả năng chấm dứt và con đường nối thành vòng thực hành](../assets/illustrations/theravada-batch1/theravada-05-bon-nhiem-vu.webp)
 
-> **Pāli — SN 56.11, sn56.11:4.1–4.5**
+> **Pāli — SN 56.11, đoạn `sn56.11:4.1–4.5`**
 >
 > *Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ … saṅkhittena pañcupādānakkhandhā dukkhā. Idaṁ kho pana, bhikkhave, dukkhasamudayaṁ ariyasaccaṁ … kāmataṇhā, bhavataṇhā, vibhavataṇhā.*
 >
 > **Bản dịch làm việc:** Này các Tỳ-kheo, đây là sự thật cao quý về dukkha … tóm lại, năm thủ uẩn là dukkha. Đây là sự thật cao quý về nguồn sinh của dukkha … dục ái, hữu ái và phi hữu ái.
 
-> **Pāli — SN 56.11, sn56.11:5.2; sn56.11:6.2; sn56.11:7.2; sn56.11:8.2**
+> **Pāli — SN 56.11, đoạn `sn56.11:5.2; sn56.11:6.2; sn56.11:7.2; sn56.11:8.2`**
 >
 > *‘Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti me, bhikkhave, pubbe …pe… udapādi.*
 >
@@ -96,7 +96,7 @@ Nguồn sinh không phải lời giải thích độc quyền cho mọi tổn th
 ## 4. Đế Thứ Ba: Nirodha Phải Được Chứng Ngộ
 ![ngọn lửa hết nhiên liệu và bàn tay mở, biểu tượng chấm dứt ái không phải hủy diệt con người](../assets/illustrations/theravada-batch1/theravada-05-nirodha.webp)
 
-> **Pāli — SN 56.11, sn56.11:4.6–4.10**
+> **Pāli — SN 56.11, đoạn `sn56.11:4.6–4.10`**
 >
 > *Idaṁ kho pana, bhikkhave, dukkhanirodhaṁ ariyasaccaṁ—yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo. … Ayameva ariyo aṭṭhaṅgiko maggo.*
 >

@@ -39,7 +39,7 @@ source_license_checked: true
 
 ![năm dòng sắc thọ tưởng hành thức giao nhau quanh một đời sống nhưng không đóng thành lõi bất biến](../assets/illustrations/theravada-batch2/theravada-11-nam-dong-kinh-nghiem.webp)
 
-> **Pāli — SN 22.59, Bilara `sn22.59:2.1–2.5`**
+> **Pāli — SN 22.59, đoạn `sn22.59:2.1–2.5`**
 > *“Rūpaṁ, bhikkhave, anattā. Rūpañca hidaṁ, bhikkhave, attā abhavissa, nayidaṁ rūpaṁ ābādhāya saṁvatteyya, labbhetha ca rūpe: ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti. Yasmā ca kho, bhikkhave, rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati, na ca labbhati rūpe: ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti.”*
 >
 > **Bản dịch làm việc:** “Này các tỳ-kheo, sắc là vô ngã. Nếu sắc là tự ngã thì sắc đã không dẫn đến khổ não, và đối với sắc người ta có thể khiến: ‘Sắc của tôi hãy như thế này; sắc của tôi đừng như thế kia.’ Nhưng vì sắc là vô ngã nên sắc dẫn đến khổ não, và không thể khiến sắc theo ý như vậy.”
@@ -64,7 +64,7 @@ SN 22.59 dùng tiêu chí quyền điều khiển: nếu sắc là tự ngã the
 
 Ví dụ bọt trong SN 22.95 cũng có phạm vi. Nhìn từ xa, khối bọt có hình và gây ấn tượng về một vật đặc; nhìn kỹ, nó là vô số màng nước sinh rồi vỡ. Tương tự, thân có tính liên tục quy ước nhưng không có lõi bất biến nằm ngoài thành phần và điều kiện. Bọt vẫn ướt; thân vẫn có thể bị thương. Ví dụ không cho phép xem nhẹ đau đớn của mình hay người khác.
 
-> **Pāli — SN 22.59, Bilara `sn22.59:3.1`, `sn22.59:4.1–4.2`, `sn22.59:5.1`**
+> **Pāli — SN 22.59, đoạn `sn22.59:3.1`, `sn22.59:4.1–4.2`, `sn22.59:5.1`**
 > *“Vedanā anattā. Saññā anattā …pe… saṅkhārā anattā. Viññāṇaṁ anattā.”*
 >
 > **Bản dịch làm việc:** “Thọ là vô ngã. Tưởng là vô ngã… các hành là vô ngã. Thức là vô ngã.”
@@ -95,7 +95,7 @@ Khi thấy vậy, hành động đạo đức có khoảng trống. Ta có thể
 
 ![sáu cửa giác quan lần lượt sáng khi có đối tượng, không có ngọn đèn trung tâm thường hằng](../assets/illustrations/theravada-batch2/theravada-11-thuc-sau-cua.webp)
 
-> **Pāli — SN 22.95, Bilara `sn22.95:9.1–9.5`**
+> **Pāli — SN 22.95, đoạn `sn22.95:9.1–9.5`**
 > *“Pheṇapiṇḍūpamaṁ rūpaṁ, vedanā bubbuḷūpamā; Marīcikūpamā saññā, saṅkhārā kadalūpamā; Māyūpamañca viññāṇaṁ.”*
 >
 > **Bản dịch làm việc:** “Sắc được ví như khối bọt, thọ như bong bóng nước; tưởng như ảo ảnh, các hành như thân cây chuối, và thức như trò huyễn.”

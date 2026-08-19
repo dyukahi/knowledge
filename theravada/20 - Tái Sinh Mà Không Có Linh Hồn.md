@@ -56,7 +56,7 @@ Bài này không tuyên bố một cơ chế vật lý của tái sinh. MN 38, S
 
 ![sáu loại thức sinh tùy căn và cảnh thay cho một dòng thức bất biến](../assets/illustrations/theravada-batch3/theravada-20-mn38-thuc-co-dieu-kien.webp)
 
-> **Pāli — MN 38, Bilara `mn38:5.9–5.13`**
+> **Pāli — MN 38, đoạn `mn38:5.9–5.13`**
 > *Evaṁ byā kho ahaṁ, bhante, bhagavatā dhammaṁ desitaṁ ājānāmi yathā tadevidaṁ viññāṇaṁ sandhāvati saṁsarati, anaññan. … Nanu mayā, moghapurisa, anekapariyāyena paṭiccasamuppannaṁ viññāṇaṁ vuttaṁ, aññatra paccayā natthi viññāṇassa sambhavoti?*
 > **Bản dịch làm việc:** “Bạch Thế Tôn, con hiểu pháp được Thế Tôn dạy rằng chính thức này chạy quanh, lang thang, không phải một thức khác. … Này kẻ rỗng tuếch, chẳng phải bằng nhiều cách Ta đã nói thức sinh khởi tùy duyên, và ngoài điều kiện thì thức không thể phát sinh sao?”
 
@@ -76,7 +76,7 @@ MN 38 cho một phương pháp đọc: mỗi khi gặp danh từ như “thức�
 
 ![chuỗi thủ hữu sinh già chết vận hành bằng duyên không có mắt xích linh hồn](../assets/illustrations/theravada-batch3/theravada-20-sn12-huu-sinh.webp)
 
-> **Pāli — SN 12.2, Bilara `sn12.2:2.11–2.12`**
+> **Pāli — SN 12.2, đoạn `sn12.2:2.11–2.12`**
 > *Bhavapaccayā jāti; jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.*
 > **Bản dịch làm việc:** “Do hữu làm duyên nên có sinh; do sinh làm duyên nên có già chết, sầu, than, đau, ưu và tuyệt vọng sinh khởi.”
 
@@ -96,7 +96,7 @@ Vì SN 12.2 định nghĩa jāti theo sinh hữu, một cách đọc “tái sin
 
 ![thức và danh sắc nương nhau như hai bó lau mà không tạo một chủ thể](../assets/illustrations/theravada-batch3/theravada-20-dn15-thuc-danh-sac.webp)
 
-> **Pāli — DN 15, Bilara `dn15:3.1`**
+> **Pāli — DN 15, đoạn `dn15:3.1`**
 > *Iti kho, ānanda, nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo.*
 > **Bản dịch làm việc:** “Như vậy, này Ānanda, do danh-sắc làm duyên nên có thức; do thức làm duyên nên có danh-sắc; do danh-sắc làm duyên nên có xúc; do xúc làm duyên nên có thọ; do thọ làm duyên nên có ái; do ái làm duyên nên có thủ; do thủ làm duyên nên có hữu.”
 

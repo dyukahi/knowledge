@@ -58,7 +58,7 @@ Một bản đồ tốt phải trả lời bốn câu: mỗi tạng làm gì; nh
 ## 2. Truyền Khẩu, Hội Nghị Và Việc Viết Xuống
 ![nhịp tụng tập thể chuyển thành các dòng trên lá bối](../assets/illustrations/theravada-batch1/theravada-03-tu-tung-doc-den-la-boi.webp)
 
-> **Pāli — DN 16, dn16:1.1.1**
+> **Pāli — DN 16, đoạn `dn16:1.1.1`**
 >
 > *Evaṁ me sutaṁ—*
 >

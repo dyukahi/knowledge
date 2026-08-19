@@ -41,7 +41,7 @@ source_license_checked: true
 
 ![một vòng trải nghiệm gồm đau rõ rệt, vui đang đổi và bàn tay bám vào năm dòng kinh nghiệm](../assets/illustrations/theravada-batch2/theravada-06-ba-pham-vi-dukkha.webp)
 
-> **Pāli — SN 56.11, Bilara `sn56.11:4.1–4.2`**
+> **Pāli — SN 56.11, đoạn `sn56.11:4.1–4.2`**
 > *Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ—jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṁ, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṁ na labhati tampi dukkhaṁ—saṅkhittena pañcupādānakkhandhā dukkhā.*
 >
 > **Bản dịch làm việc:** “Này các Tỳ-kheo, đây là sự thật cao quý về dukkha: sinh, già, bệnh, chết; gặp điều không ưa, lìa điều mình ưa và không được điều mình muốn đều là dukkha; tóm lại, năm uẩn bị chấp thủ là dukkha.”
@@ -92,7 +92,7 @@ Theo Rupert Gethin, dukkha trong cấu trúc Phật giáo phải được hiểu
 
 ![người quan sát cầm đèn soi toàn bộ mạng điều kiện thay vì đập vỡ trải nghiệm khó chịu](../assets/illustrations/theravada-batch2/theravada-06-parinna.webp)
 
-> **Pāli — SN 56.11, Bilara `sn56.11:5.2`**
+> **Pāli — SN 56.11, đoạn `sn56.11:5.2`**
 > *Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti me, bhikkhave, pubbe …pe… udapādi.*
 >
 > **Bản dịch làm việc:** “Tri kiến khởi lên nơi Ta rằng: sự thật cao quý về dukkha này cần được hiểu trọn vẹn.”
@@ -113,7 +113,7 @@ Hiểu đầy đủ cũng có tính lặp lại. Ta có thể hiểu khái niệ
 
 ![năm uẩn đi qua ba cửa vô thường, dukkha và không thích hợp nhận làm tự ngã](../assets/illustrations/theravada-batch2/theravada-06-ba-dau-quan-sat.webp)
 
-> **Pāli — SN 22.59, Bilara `sn22.59:6.1–6.18`**
+> **Pāli — SN 22.59, đoạn `sn22.59:6.1–6.18`**
 > *Taṁ kiṁ maññatha, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti? “Dukkhaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti? “No hetaṁ, bhante”. “Vedanā … saññā … saṅkhārā … viññāṇaṁ niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti? “Dukkhaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti? “No hetaṁ, bhante”.*
 >
 > **Bản dịch làm việc:** “Này các Tỳ-kheo, các thầy nghĩ sao: sắc là thường hay vô thường? — Vô thường, bạch Thế Tôn. Cái gì vô thường thì là dukkha hay lạc? — Là dukkha, bạch Thế Tôn. Cái gì vô thường, dukkha và chịu biến đổi, có thích hợp để xem rằng: ‘cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi’ không? — Thưa không, bạch Thế Tôn. Thọ, tưởng, hành và thức cũng được xét như vậy.”

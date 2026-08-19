@@ -43,7 +43,7 @@ source_license_checked: true
 
 ![thọ dẫn đến cơn khát, bàn tay nắm và một căn tính đang thành hình với các mũi tên có điều kiện](../assets/illustrations/theravada-batch2/theravada-07-ba-mat-xich.webp)
 
-> **Pāli — SN 12.2, Bilara `sn12.2:2.8–2.10`**
+> **Pāli — SN 12.2, đoạn `sn12.2:2.8–2.10`**
 > *Vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṁ; upādānapaccayā bhavo.*
 >
 > **Bản dịch làm việc:** “Do thọ làm duyên nên có ái; do ái làm duyên nên có thủ; do thủ làm duyên nên có hữu.”
@@ -78,7 +78,7 @@ MN 148 đặc biệt hữu ích vì đặt ái sau thọ. **Vedanā — “vê-�
 
 ![bốn bàn tay tượng trưng dục, kiến, giới cấm thủ và học thuyết tự ngã](../assets/illustrations/theravada-batch2/theravada-07-bon-loai-thu.webp)
 
-> **Pāli — SN 12.2, Bilara `sn12.2:6.1–6.4`**
+> **Pāli — SN 12.2, đoạn `sn12.2:6.1–6.4`**
 > *Katamañca, bhikkhave, upādānaṁ? Cattārimāni, bhikkhave, upādānāni—kāmupādānaṁ, diṭṭhupādānaṁ, sīlabbatupādānaṁ, attavādupādānaṁ. Idaṁ vuccati, bhikkhave, upādānaṁ.*
 >
 > **Bản dịch làm việc:** “Này các tỳ-kheo, thủ là gì? Có bốn loại thủ: dục thủ, kiến thủ, giới cấm thủ và ngã luận thủ. Này các tỳ-kheo, đó được gọi là thủ.”
@@ -115,7 +115,7 @@ Giữ nhiều thang đo giúp tránh hai lỗi đối nghịch: siêu hình hóa
 
 ![sáu cửa giác quan gặp đối tượng và thức, thọ xuất hiện trước một ngã rẽ có niệm](../assets/illustrations/theravada-batch2/theravada-07-xuc-tho-ai.webp)
 
-> **Pāli — MN 148, Bilara `mn148:8.3–8.8`**
+> **Pāli — MN 148, đoạn `mn148:8.3–8.8`**
 > *Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā; sotañca paṭicca sadde ca uppajjati sotaviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā; ghānañca paṭicca gandhe ca uppajjati ghānaviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā; jivhañca paṭicca rase ca uppajjati jivhāviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā; kāyañca paṭicca phoṭṭhabbe ca uppajjati kāyaviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā; manañca paṭicca dhamme ca uppajjati manoviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā.*
 >
 > **Bản dịch làm việc:** “Do mắt và sắc, nhãn thức sinh; sự gặp nhau của ba là xúc; do xúc có thọ. Do tai và âm thanh, nhĩ thức sinh; sự gặp nhau của ba là xúc; do xúc có thọ. Do mũi và mùi, tỷ thức sinh; sự gặp nhau của ba là xúc; do xúc có thọ. Do lưỡi và vị, thiệt thức sinh; sự gặp nhau của ba là xúc; do xúc có thọ. Do thân và vật được chạm, thân thức sinh; sự gặp nhau của ba là xúc; do xúc có thọ. Do ý và pháp, ý thức sinh; sự gặp nhau của ba là xúc; do xúc có thọ.”

@@ -59,7 +59,7 @@ Bài này không tổ chức cuộc thi chọn một mô hình thắng tuyệt �
 
 SN 12.2 bắt đầu từ vô minh. **Avijjā — “a-vít-cha” — không biết Tứ Thánh Đế**; **saṅkhārā — “sang-kha-ra” — các hành thân, khẩu và tâm**; **viññāṇa — “vin-nha-na” — sáu loại thức**; **nāmarūpa — “na-ma ru-pa” — danh và sắc**, trong đó danh gồm thọ, tưởng, tư, xúc và tác ý; sáu xứ là sáu căn; xúc là sáu nhóm xúc; thọ và ái cũng phân sáu theo đối tượng.
 
-> **Pāli — SN 12.2, Bilara `sn12.2:2.2–2.3`**
+> **Pāli — SN 12.2, đoạn `sn12.2:2.2–2.3`**
 > *Avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṁ.*
 > **Bản dịch làm việc:** “Này các tỳ-kheo, do vô minh làm duyên nên có các hành; do các hành làm duyên nên có thức.”
 
@@ -80,7 +80,7 @@ SN 12.2 là bản đồ định nghĩa, không phải lời giải cuối cho m�
 
 DN 15 mở bằng lời Đức Phật cảnh báo Ānanda rằng duyên khởi sâu và có vẻ sâu; vì không giác ngộ, chúng sinh bị rối như cuộn chỉ. Kinh rồi khảo sát điều kiện của già chết, sinh, hữu, thủ, ái và thọ. Đến thức và danh-sắc, văn bản cho quan hệ hai chiều: nếu thức không đi xuống bụng mẹ, danh-sắc không kết tụ; nếu thức sau khi đi xuống lại rời, danh-sắc không tăng trưởng; nếu thức không có chỗ đứng trong danh-sắc, sinh, già chết và khổ tương lai không được nhận biết. Đồng thời, thức lấy danh-sắc làm điều kiện.
 
-> **Pāli — DN 15, Bilara `dn15:3.1`**
+> **Pāli — DN 15, đoạn `dn15:3.1`**
 > *Iti kho, ānanda, nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo.*
 > **Bản dịch làm việc:** “Như vậy, này Ānanda, do danh-sắc làm duyên nên có thức; do thức làm duyên nên có danh-sắc; do danh-sắc làm duyên nên có xúc; do xúc làm duyên nên có thọ; do thọ làm duyên nên có ái; do ái làm duyên nên có thủ; do thủ làm duyên nên có hữu.”
 
@@ -101,7 +101,7 @@ Vì DN 15 vừa có tái sinh, vừa có kinh nghiệm cảm thọ, vừa có x�
 
 Trong hệ Theravāda hậu kỳ, đặc biệt qua truyền thống chú giải và *Visuddhimagga* của Buddhaghosa, mười hai chi thường được phân qua ba đời. Vô minh và hành thuộc nhóm nhân quá khứ; thức, danh-sắc, sáu xứ, xúc và thọ là quả hiện tại; ái, thủ và hữu là nhân hiện tại; sinh cùng già chết là quả tương lai. Mô hình cũng gom chúng thành các vòng phiền não, nghiệp và quả.
 
-> **Pāli — SN 12.2, Bilara `sn12.2:4.1–4.3`**
+> **Pāli — SN 12.2, đoạn `sn12.2:4.1–4.3`**
 > *Katamā ca, bhikkhave, jāti? Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jāti sañjāti okkanti abhinibbatti khandhānaṁ pātubhāvo āyatanānaṁ paṭilābho. Ayaṁ vuccati, bhikkhave, jāti.*
 > **Bản dịch làm việc:** “Và này các tỳ-kheo, sinh là gì? Với các chúng sinh thuộc từng nhóm chúng sinh, đó là sự sinh, sinh ra, nhập thai, xuất hiện, sự hiện khởi của các uẩn và sự thành tựu các xứ. Này các tỳ-kheo, đó gọi là sinh.”
 

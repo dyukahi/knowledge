@@ -39,7 +39,7 @@ source_license_checked: true
 
 ![căn đối tượng thức hội thành xúc, thọ mang ba sắc độ và ái vươn tay nắm nhưng giữa các mắt có không gian quan sát](../assets/illustrations/theravada-batch2/theravada-13-ba-mat-xich.webp)
 
-> **Pāli — MN 148, Bilara `mn148:9.3`**
+> **Pāli — MN 148, đoạn `mn148:9.3`**
 > *“Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā.”*
 >
 > **Bản dịch làm việc:** “Do duyên mắt và các hình sắc, nhãn thức sinh khởi; sự gặp nhau của ba là xúc; do duyên xúc có thọ; do duyên thọ có ái.”
@@ -74,7 +74,7 @@ Khi xúc đã sinh, nó không cần trở thành câu chuyện “tôi đã th�
 
 ![ba dải lạc khổ trung tính đi qua sáu cửa, phía sau là nhiều cảm xúc phức tạp chưa bị đồng nhất](../assets/illustrations/theravada-batch2/theravada-13-ba-sac-tho.webp)
 
-> **Pāli — MN 148, Bilara `mn148:8.3`**
+> **Pāli — MN 148, đoạn `mn148:8.3`**
 > *“Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā.”*
 >
 > **Bản dịch làm việc:** “Do duyên mắt và các hình sắc, nhãn thức sinh khởi; sự gặp nhau của ba là xúc; do duyên xúc có thọ.”
@@ -95,7 +95,7 @@ Trong một cuộc họp, lời phản bác tạo xúc; thọ khó chịu có th
 
 ![ba sắc thọ cạnh ba hướng ái muốn có muốn thành muốn biến mất, nền mờ ghi vô minh như điều kiện](../assets/illustrations/theravada-batch2/theravada-13-tho-den-ai.webp)
 
-> **Pāli — SN 12.2, Bilara `sn12.2:2.6–2.8`**
+> **Pāli — SN 12.2, đoạn `sn12.2:2.6–2.8`**
 > *“Saḷāyatanapaccayā phasso; phassapaccayā vedanā; vedanāpaccayā taṇhā.”*
 >
 > **Bản dịch làm việc:** “Do duyên sáu xứ có xúc; do duyên xúc có thọ; do duyên thọ có ái.”

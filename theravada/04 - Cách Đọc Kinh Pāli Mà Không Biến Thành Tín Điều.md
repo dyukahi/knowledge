@@ -69,7 +69,7 @@ Cuối cùng, hỏi **lời dạy này được kiểm tra bằng loại kết q
 ## 3. MN 22: Nắm Con Rắn Đúng Chỗ Và Không Vác Chiếc Bè
 ![bàn tay giữ đúng sau đầu rắn bên bờ sông có chiếc bè, biểu tượng phương pháp chứ không tái dựng lịch sử](../assets/illustrations/theravada-batch1/theravada-04-ran-va-be.webp)
 
-> **Pāli — MN 22, mn22:10.3–10.7**
+> **Pāli — MN 22, đoạn `mn22:10.3–10.7`**
 >
 > *Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ na upaparikkhanti. … Tesaṁ te dhammā duggahitā dīgharattaṁ ahitāya dukkhāya saṁvattanti.*
 >
@@ -88,7 +88,7 @@ MN 22 dùng một công thức mạnh về việc buông cả “pháp”, huố
 ## 4. MN 95: Giữ Một Mệnh Đề Là Thật Chưa Phải Biết Nó Là Thật
 ![chuỗi gặp người dạy, lắng nghe, ghi nhớ, khảo sát nghĩa và thực hành trên con đường](../assets/illustrations/theravada-batch1/theravada-04-cac-bac-tham-tra.webp)
 
-> **Pāli — MN 95, mn95:15.12–15.15**
+> **Pāli — MN 95, đoạn `mn95:15.12–15.15`**
 >
 > *Iti vadaṁ saccamanurakkhati, na tveva tāva ekaṁsena niṭṭhaṁ gacchati: “idameva saccaṁ, moghamaññan”ti. … Na tveva tāva saccānubodho hoti.*
 >
@@ -111,7 +111,7 @@ MN 95 cũng giúp đặt giới hạn cho câu “hãy tự chứng”. Một tr
 
 Bài kinh khuyên không đi đến kết luận chỉ vì truyền khẩu, truyền thống, tin đồn, bộ sưu tập văn bản, suy luận trừu tượng, suy diễn, cân nhắc bề ngoài, một quan điểm có vẻ hợp lý, uy tín người nói, hay ý nghĩ “đây là thầy ta”. Danh sách không bảo phải sống mà không dùng bất cứ nguồn nào trong số ấy. Nếu hiểu như vậy, chính việc nghe Đức Phật cũng bị loại. Từ khóa là “chỉ vì”: các nguồn này không tự mình hoàn tất việc thẩm định.
 
-> **Pāli — AN 3.65, an3.65:4.2–4.3; an3.65:26.2–26.3**
+> **Pāli — AN 3.65, đoạn `an3.65:4.2–4.3; an3.65:26.2–26.3`**
 >
 > *Yadā tumhe, kālāmā, attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, kālāmā, pajaheyyātha.*
 >

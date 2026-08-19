@@ -58,12 +58,12 @@ Tuần tự cũng không có nghĩa trì hoãn đạo đức cho đến khi hi�
 
 ![các lớp đạo đức phòng hộ tri túc định và tri kiến trong bối cảnh một sa-môn](../assets/illustrations/theravada-batch2/theravada-09-dn2-kien-truc.webp)
 
-> **Pāli — DN 2, Bilara `dn2:42.1`**
+> **Pāli — DN 2, đoạn `dn2:42.1`**
 > *So evaṁ pabbajito samāno pātimokkhasaṁvarasaṁvuto viharati ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena, parisuddhājīvo sīlasampanno, indriyesu guttadvāro, satisampajaññena samannāgato, santuṭṭho.*
 >
 > **Bản dịch làm việc:** “Vị ấy sống được phòng hộ bằng giới bổn, học các học giới, có thân nghiệp và khẩu nghiệp thiện, sinh kế thanh tịnh, đầy đủ giới, giữ các cửa căn, có niệm và tỉnh giác, biết đủ.”
 
-> **Pāli — DN 2, Bilara `dn2:43.1`**
+> **Pāli — DN 2, đoạn `dn2:43.1`**
 > *Kathañca, mahārāja, bhikkhu sīlasampanno hoti?*
 >
 > **Bản dịch làm việc:** “Thưa Đại vương, một vị Tỳ-kheo đầy đủ giới như thế nào?”
@@ -84,7 +84,7 @@ Sau khi đoạn năm triền cái, bài kinh mô tả bốn jhāna. **Jhāna —
 
 ![người học được hướng dẫn từng kỹ năng như thuần ngựa, bắn cung và học toán nhưng vẫn tự bước đi](../assets/illustrations/theravada-batch2/theravada-09-huan-luyen-tuan-tu.webp)
 
-> **Pāli — DN 2, Bilara `dn2:74.4`, `dn2:75.1`**
+> **Pāli — DN 2, đoạn `dn2:74.4`, `dn2:75.1`**
 > *Tassime pañca nīvaraṇe pahīne attani samanupassato pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. So vivicceva kāmehi, vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.*
 >
 > **Bản dịch làm việc:** “Khi thấy năm triền cái đã đoạn trừ, hân hoan và hỷ sinh; thân lắng dịu, cảm nhận lạc, tâm được định tĩnh. Vị ấy ly dục, ly pháp bất thiện, chứng và trú sơ thiền.”

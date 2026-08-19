@@ -40,7 +40,7 @@ source_license_checked: true
 
 ![dòng lang thang có điều kiện không có bản đồ của một nhà tù không gian](../assets/illustrations/theravada-batch3/theravada-22-samsara-lang-thang.webp)
 
-> **Pāli — SN 15.1, Bilara `sn15.1:1.8`**
+> **Pāli — SN 15.1, đoạn `sn15.1:1.8`**
 > *Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ.*
 > **Bản dịch làm việc:** “Không nhận ra được điểm đầu của những chúng sinh bị vô minh che lấp, bị ái trói buộc, cứ chạy quanh và lang thang.”
 
@@ -58,7 +58,7 @@ Saṃsāra không phải vật ở ngoài ép một chủ thể vô tội, nhưn
 
 ![cỏ gỗ cành lá toàn cõi được gom thành đơn vị cho vô số đời](../assets/illustrations/theravada-batch3/theravada-22-sn15-co-go-la.webp)
 
-> **Pāli — SN 15.1, Bilara `sn15.1:1.10`**
+> **Pāli — SN 15.1, đoạn `sn15.1:1.10`**
 > *‘Ayaṁ me mātā, tassā me mātu ayaṁ mātā’ti, apariyādinnāva, bhikkhave, tassa purisassa mātumātaro assu, atha imasmiṁ jambudīpe tiṇakaṭṭhasākhāpalāsaṁ parikkhayaṁ pariyādānaṁ gaccheyya.*
 > **Bản dịch làm việc:** “Này các tỳ-kheo, dù người ấy nói: ‘Đây là mẹ tôi; đây là mẹ của mẹ tôi’, chuỗi các bà mẹ của người ấy vẫn chưa hết, trong khi cỏ, gỗ, cành và lá trên cõi Jambudīpa này đã cạn sạch.”
 
@@ -78,7 +78,7 @@ Cũng không có thế lực thu hoạch năng lượng qua chuỗi ấy. Vô mi
 
 ![biển nước mắt qua nhiều đời làm hiện rõ trọng lượng của mất mát lặp lại](../assets/illustrations/theravada-batch3/theravada-22-sn15-bien-nuoc-mat.webp)
 
-> **Pāli — SN 15.3, Bilara `sn15.3:1.3–1.4`**
+> **Pāli — SN 15.3, đoạn `sn15.3:1.3–1.4`**
 > *Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ. Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yaṁ vā vo iminā dīghena addhunā sandhāvataṁ saṁsarataṁ amanāpasampayogā manāpavippayogā kandantānaṁ rodantānaṁ assu passannaṁ paggharitaṁ, yaṁ vā catūsu mahāsamuddesu udakaṁ?*
 > **Bản dịch làm việc:** “Không nhận ra được điểm đầu của những chúng sinh bị vô minh che lấp, bị ái trói buộc, cứ chạy quanh và lang thang. Này các tỳ-kheo, các ông nghĩ sao: nước mắt đã chảy khi các ông lang thang suốt thời gian dài, khóc than vì gặp điều không ưa và lìa điều mình thương, hay nước trong bốn đại dương—bên nào nhiều hơn?”
 
