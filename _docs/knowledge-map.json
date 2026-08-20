@@ -106,27 +106,27 @@
       },
       {
         "path": "_docs/THERAVADA-READER-CITATION-STANDARD.md",
-        "title": "Chuẩn Dẫn Kinh Dễ Đọc Cho Series Theravāda",
+        "title": "Chuẩn Dẫn Kinh Tự Nhiên Cho Series Theravāda",
         "domain": "_docs",
         "tags": [],
         "aliases": [],
         "headings": [
-          "Chuẩn Dẫn Kinh Dễ Đọc Cho Series Theravāda",
+          "Chuẩn Dẫn Kinh Tự Nhiên Cho Series Theravāda",
           "Mục Tiêu",
-          "Quy Tắc Lần Đầu Nhắc Nguồn",
-          "Source Card Cho Claim Quan Trọng",
-          "Ba Lớp Dịch",
-          "Nhắc Lại Trong Cùng Bài",
+          "Cách Nhắc Nguồn Trong Văn Xuôi",
+          "Khối Trích Dẫn Chuẩn",
+          "Chức Năng Của Từng Phần",
+          "Hán-Việt Và Tên Việt",
+          "Các Họ Nguồn",
           "Abhidhamma, Chú Giải Và Khoa Học",
-          "Mã Bộ Kinh",
           "Gate Biên Tập"
         ],
         "wikilinks": [],
         "mdlinks": [],
         "outlinks": [],
         "backlinks": [],
-        "words": 693,
-        "summary": "Người đọc không cần biết trước `MN`, `SN`, `AN` hay `DN`. Nghĩa và lý do trích dẫn phải xuất hiện trước; mã Kinh và segment ID được giữ ở lớp kiểm chứng."
+        "words": 582,
+        "summary": "Người đọc không cần biết trước `MN`, `SN`, `AN` hay `DN`. Bài viết phải dẫn họ vào nội dung Kinh bằng tiếng Việt tự nhiên; mã Kinh và segment ID chỉ nằm ở lớp kiểm chứng yên tĩnh."
       },
       {
         "path": "_docs/CONTENT-SEO-AUDIT.md",
@@ -18219,7 +18219,7 @@
           "theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md",
           "theravada/index.md"
         ],
-        "words": 4784,
+        "words": 4564,
         "summary": "Khi hỏi “Đức Phật là ai?”, ta thường gộp hai câu hỏi khác loại. Câu thứ nhất thuộc lịch sử: có một con người tên Gotama từng sống, từ bỏ đời gia chủ, giảng dạy và lập cộng đồng ở miền bắc tiểu lục địa Ấn Độ hay không? Câu thứ hai thuộc đời sống tôn giáo: các…"
       },
       {
@@ -21922,27 +21922,27 @@
     },
     {
       "path": "_docs/THERAVADA-READER-CITATION-STANDARD.md",
-      "title": "Chuẩn Dẫn Kinh Dễ Đọc Cho Series Theravāda",
+      "title": "Chuẩn Dẫn Kinh Tự Nhiên Cho Series Theravāda",
       "domain": "_docs",
       "tags": [],
       "aliases": [],
       "headings": [
-        "Chuẩn Dẫn Kinh Dễ Đọc Cho Series Theravāda",
+        "Chuẩn Dẫn Kinh Tự Nhiên Cho Series Theravāda",
         "Mục Tiêu",
-        "Quy Tắc Lần Đầu Nhắc Nguồn",
-        "Source Card Cho Claim Quan Trọng",
-        "Ba Lớp Dịch",
-        "Nhắc Lại Trong Cùng Bài",
+        "Cách Nhắc Nguồn Trong Văn Xuôi",
+        "Khối Trích Dẫn Chuẩn",
+        "Chức Năng Của Từng Phần",
+        "Hán-Việt Và Tên Việt",
+        "Các Họ Nguồn",
         "Abhidhamma, Chú Giải Và Khoa Học",
-        "Mã Bộ Kinh",
         "Gate Biên Tập"
       ],
       "wikilinks": [],
       "mdlinks": [],
       "outlinks": [],
       "backlinks": [],
-      "words": 693,
-      "summary": "Người đọc không cần biết trước `MN`, `SN`, `AN` hay `DN`. Nghĩa và lý do trích dẫn phải xuất hiện trước; mã Kinh và segment ID được giữ ở lớp kiểm chứng."
+      "words": 582,
+      "summary": "Người đọc không cần biết trước `MN`, `SN`, `AN` hay `DN`. Bài viết phải dẫn họ vào nội dung Kinh bằng tiếng Việt tự nhiên; mã Kinh và segment ID chỉ nằm ở lớp kiểm chứng yên tĩnh."
     },
     {
       "path": "_docs/THIN-PAGE-CLASSIFICATION.md",
@@ -24600,27 +24600,27 @@
     },
     "_docs/THERAVADA-READER-CITATION-STANDARD.md": {
       "path": "_docs/THERAVADA-READER-CITATION-STANDARD.md",
-      "title": "Chuẩn Dẫn Kinh Dễ Đọc Cho Series Theravāda",
+      "title": "Chuẩn Dẫn Kinh Tự Nhiên Cho Series Theravāda",
       "domain": "_docs",
       "tags": [],
       "aliases": [],
       "headings": [
-        "Chuẩn Dẫn Kinh Dễ Đọc Cho Series Theravāda",
+        "Chuẩn Dẫn Kinh Tự Nhiên Cho Series Theravāda",
         "Mục Tiêu",
-        "Quy Tắc Lần Đầu Nhắc Nguồn",
-        "Source Card Cho Claim Quan Trọng",
-        "Ba Lớp Dịch",
-        "Nhắc Lại Trong Cùng Bài",
+        "Cách Nhắc Nguồn Trong Văn Xuôi",
+        "Khối Trích Dẫn Chuẩn",
+        "Chức Năng Của Từng Phần",
+        "Hán-Việt Và Tên Việt",
+        "Các Họ Nguồn",
         "Abhidhamma, Chú Giải Và Khoa Học",
-        "Mã Bộ Kinh",
         "Gate Biên Tập"
       ],
       "wikilinks": [],
       "mdlinks": [],
       "outlinks": [],
       "backlinks": [],
-      "words": 693,
-      "summary": "Người đọc không cần biết trước `MN`, `SN`, `AN` hay `DN`. Nghĩa và lý do trích dẫn phải xuất hiện trước; mã Kinh và segment ID được giữ ở lớp kiểm chứng."
+      "words": 582,
+      "summary": "Người đọc không cần biết trước `MN`, `SN`, `AN` hay `DN`. Bài viết phải dẫn họ vào nội dung Kinh bằng tiếng Việt tự nhiên; mã Kinh và segment ID chỉ nằm ở lớp kiểm chứng yên tĩnh."
     },
     "_docs/THIN-PAGE-CLASSIFICATION.md": {
       "path": "_docs/THIN-PAGE-CLASSIFICATION.md",
@@ -40166,7 +40166,7 @@
         "theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md",
         "theravada/index.md"
       ],
-      "words": 4784,
+      "words": 4564,
       "summary": "Khi hỏi “Đức Phật là ai?”, ta thường gộp hai câu hỏi khác loại. Câu thứ nhất thuộc lịch sử: có một con người tên Gotama từng sống, từ bỏ đời gia chủ, giảng dạy và lập cộng đồng ở miền bắc tiểu lục địa Ấn Độ hay không? Câu thứ hai thuộc đời sống tôn giáo: các…"
     },
     "theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md": {

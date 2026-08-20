@@ -225,7 +225,8 @@ def validate_published_lessons(curriculum: dict) -> None:
         required_pali_blocks = 2 if row["lesson"] in {35, 36} else 3
         reader_progress = load_json(ROOT / "_docs" / "theravada-reader-rewrite-progress.json")
         reader_rewritten = set(reader_progress.get("completed_lessons", []))
-        pali_block_count = text.count("> **Pāli gốc:**") if row["lesson"] in reader_rewritten else text.count("> **Pāli —")
+        pali_block_count = (text.count("> **Pāli**") if row["lesson"] in reader_rewritten
+                            else max(text.count("> **Pāli —"), text.count("> **Pāli gốc:**")))
         if pali_block_count < required_pali_blocks:
             fail(f"scripture-first quote minimum not met: {path.relative_to(ROOT)}")
         if row["lesson"] == 36:

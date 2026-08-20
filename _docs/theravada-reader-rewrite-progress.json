@@ -1,21 +1,17 @@
 {
-  "schema": "theravada-reader-rewrite-progress.v2",
-  "completed_lessons": [1, 18, 36],
-  "required_source_card_fields": [
-    "Tên dễ hiểu",
-    "Nằm ở đâu",
-    "Đoạn này nói gì",
-    "Mã kiểm chứng",
-    "Pāli gốc",
-    "Nói nôm na",
-    "Vì sao dùng ở đây"
+  "schema": "theravada-reader-rewrite-progress.v3",
+  "completed_lessons": [1],
+  "card_contract": "narrative-quote-v1",
+  "required_visible_elements": [
+    "natural-language callout title",
+    "one-sentence passage introduction",
+    "Pāli",
+    "Dịch Việt or Dịch Việt rút gọn",
+    "quiet technical source line"
   ],
-  "translation_field_alternatives": [
-    "Dịch sát nghĩa",
-    "Dịch rút gọn có đánh dấu"
-  ],
-  "optional_fields": [
-    "Tên truyền thống/Hán-Việt"
+  "translation_labels": [
+    "Dịch Việt",
+    "Dịch Việt rút gọn"
   ],
   "review_marker": "REVIEW_REQUIRED"
 }

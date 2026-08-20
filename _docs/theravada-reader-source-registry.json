@@ -1,5 +1,5 @@
 {
-  "schema": "theravada-reader-source-registry.v1",
+  "schema": "theravada-reader-source-registry.v2",
   "policy": {
     "first_use": "Meaning-first name, full collection, code in parentheses",
     "han_viet": "Use only when verified; otherwise null and show plain Vietnamese",
@@ -48,7 +48,16 @@
         9,
         27
       ],
-      "plain_summary": "Bài kinh được dùng để trình bày lộ trình tuần tự từ giới và phòng hộ đến bốn tầng thiền cùng tri kiến giải thoát."
+      "plain_summary": "Bài kinh được dùng để trình bày lộ trình tuần tự từ giới và phòng hộ đến bốn tầng thiền cùng tri kiến giải thoát.",
+      "source_key": "DN 2",
+      "source_type": "sutta",
+      "collection_code": "DN",
+      "work_id": "dn2",
+      "display_title_pali": "Sāmaññaphala Sutta",
+      "display_title_vi": "Quả của đời sống xuất gia",
+      "canonical_url": "https://suttacentral.net/dn2",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "DN 13",
@@ -68,7 +77,16 @@
       "used_in_lessons": [
         28
       ],
-      "plain_summary": "Bài kinh được dùng để cho thấy bốn tâm vô lượng được tu tập tỏa khắp như con đường cộng trú với Phạm thiên."
+      "plain_summary": "Bài kinh được dùng để cho thấy bốn tâm vô lượng được tu tập tỏa khắp như con đường cộng trú với Phạm thiên.",
+      "source_key": "DN 13",
+      "source_type": "sutta",
+      "collection_code": "DN",
+      "work_id": "dn13",
+      "display_title_pali": "Tevijja Sutta",
+      "display_title_vi": "Con đường sống cùng Phạm thiên",
+      "canonical_url": "https://suttacentral.net/dn13",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "DN 15",
@@ -91,7 +109,16 @@
         18,
         20
       ],
-      "plain_summary": "Bài kinh được dùng để giải thích sự nương nhau của thức và danh-sắc cùng chuỗi từ ái đến chiếm hữu và xung đột."
+      "plain_summary": "Bài kinh được dùng để giải thích sự nương nhau của thức và danh-sắc cùng chuỗi từ ái đến chiếm hữu và xung đột.",
+      "source_key": "DN 15",
+      "source_type": "sutta",
+      "collection_code": "DN",
+      "work_id": "dn15",
+      "display_title_pali": "Mahānidāna Sutta",
+      "display_title_vi": "Mạng duyên khởi sâu xa",
+      "canonical_url": "https://suttacentral.net/dn15",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "DN 16",
@@ -114,7 +141,16 @@
         3,
         21
       ],
-      "plain_summary": "Bài kinh được dùng làm nguồn cho hành trình cuối, lời dạy cuối, sự viên tịch, tang lễ và việc phân chia xá-lợi của Đức Phật."
+      "plain_summary": "Bài kinh được dùng làm nguồn cho hành trình cuối, lời dạy cuối, sự viên tịch, tang lễ và việc phân chia xá-lợi của Đức Phật.",
+      "source_key": "DN 16",
+      "source_type": "sutta",
+      "collection_code": "DN",
+      "work_id": "dn16",
+      "display_title_pali": "Mahāparinibbāna Sutta",
+      "display_title_vi": "Những ngày cuối của Đức Phật",
+      "canonical_url": "https://suttacentral.net/dn16",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "DN 22",
@@ -134,7 +170,16 @@
       "used_in_lessons": [
         24
       ],
-      "plain_summary": "Bài kinh được dùng để trình bày bản triển khai dài của bốn nền tảng chánh niệm, đặc biệt phần quán pháp về Bốn sự thật cao quý."
+      "plain_summary": "Bài kinh được dùng để trình bày bản triển khai dài của bốn nền tảng chánh niệm, đặc biệt phần quán pháp về Bốn sự thật cao quý.",
+      "source_key": "DN 22",
+      "source_type": "sutta",
+      "collection_code": "DN",
+      "work_id": "dn22",
+      "display_title_pali": "Mahāsatipaṭṭhāna Sutta",
+      "display_title_vi": "Bốn nền tảng chánh niệm bản dài",
+      "canonical_url": "https://suttacentral.net/dn22",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "DN 31",
@@ -154,7 +199,16 @@
       "used_in_lessons": [
         23
       ],
-      "plain_summary": "Bài kinh được dùng để đặt năm giới trong mạng trách nhiệm hai chiều giữa gia đình, bạn bè, người làm việc và cộng đồng."
+      "plain_summary": "Bài kinh được dùng để đặt năm giới trong mạng trách nhiệm hai chiều giữa gia đình, bạn bè, người làm việc và cộng đồng.",
+      "source_key": "DN 31",
+      "source_type": "sutta",
+      "collection_code": "DN",
+      "work_id": "dn31",
+      "display_title_pali": "Siṅgāla Sutta",
+      "display_title_vi": "Đạo đức tương hỗ của người tại gia",
+      "canonical_url": "https://suttacentral.net/dn31",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 2",
@@ -174,7 +228,16 @@
       "used_in_lessons": [
         15
       ],
-      "plain_summary": "Bài kinh được dùng để phân biệt tác ý đúng về Bốn sự thật cao quý với những suy đoán nuôi lớn quan điểm về tự ngã."
+      "plain_summary": "Bài kinh được dùng để phân biệt tác ý đúng về Bốn sự thật cao quý với những suy đoán nuôi lớn quan điểm về tự ngã.",
+      "source_key": "MN 2",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn2",
+      "display_title_pali": "Sabbāsava Sutta",
+      "display_title_vi": "Bảy cách làm cạn các lậu hoặc",
+      "canonical_url": "https://suttacentral.net/mn2",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 10",
@@ -195,7 +258,16 @@
         24,
         25
       ],
-      "plain_summary": "Bài kinh được dùng để xác lập công thức, bốn phạm vi quán và việc nhận biết sinh diệt trong thực hành chánh niệm."
+      "plain_summary": "Bài kinh được dùng để xác lập công thức, bốn phạm vi quán và việc nhận biết sinh diệt trong thực hành chánh niệm.",
+      "source_key": "MN 10",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn10",
+      "display_title_pali": "Satipaṭṭhāna Sutta",
+      "display_title_vi": "Bốn nền tảng chánh niệm",
+      "canonical_url": "https://suttacentral.net/mn10",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 12",
@@ -216,7 +288,16 @@
         29,
         30
       ],
-      "plain_summary": "Bài kinh được dùng để dẫn lời Đức Phật về các cảnh giới tái sinh và phạm vi tri kiến làm nền cho bản đồ cõi."
+      "plain_summary": "Bài kinh được dùng để dẫn lời Đức Phật về các cảnh giới tái sinh và phạm vi tri kiến làm nền cho bản đồ cõi.",
+      "source_key": "MN 12",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn12",
+      "display_title_pali": "Mahāsīhanāda Sutta",
+      "display_title_vi": "Lời tuyên bố lớn về năng lực giác ngộ",
+      "canonical_url": "https://suttacentral.net/mn12",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 22",
@@ -236,7 +317,16 @@
       "used_in_lessons": [
         4
       ],
-      "plain_summary": "Bài kinh được dùng để cảnh báo việc nắm sai lời dạy và để minh họa rằng giáo pháp là phương tiện thực hành chứ không phải tín điều để chấp giữ."
+      "plain_summary": "Bài kinh được dùng để cảnh báo việc nắm sai lời dạy và để minh họa rằng giáo pháp là phương tiện thực hành chứ không phải tín điều để chấp giữ.",
+      "source_key": "MN 22",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn22",
+      "display_title_pali": "Alagaddūpama Sutta",
+      "display_title_vi": "Ví dụ con rắn và chiếc bè",
+      "canonical_url": "https://suttacentral.net/mn22",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 26",
@@ -258,7 +348,16 @@
         3,
         32
       ],
-      "plain_summary": "Bài kinh được dùng để kể cuộc tìm cầu giải thoát của Đức Phật và phân biệt cái chịu sinh diệt với Nibbāna không bị điều kiện hóa."
+      "plain_summary": "Bài kinh được dùng để kể cuộc tìm cầu giải thoát của Đức Phật và phân biệt cái chịu sinh diệt với Nibbāna không bị điều kiện hóa.",
+      "source_key": "MN 26",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn26",
+      "display_title_pali": "Ariyapariyesanā Sutta",
+      "display_title_vi": "Cuộc tìm cầu cao quý",
+      "canonical_url": "https://suttacentral.net/mn26",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 36",
@@ -279,7 +378,16 @@
         1,
         3
       ],
-      "plain_summary": "Bài kinh được dùng để thuật lại việc từ bỏ khổ hạnh cực đoan, nhớ lại thiền định và đi đến giác ngộ."
+      "plain_summary": "Bài kinh được dùng để thuật lại việc từ bỏ khổ hạnh cực đoan, nhớ lại thiền định và đi đến giác ngộ.",
+      "source_key": "MN 36",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn36",
+      "display_title_pali": "Mahāsaccaka Sutta",
+      "display_title_vi": "Khổ hạnh và con đường giác ngộ",
+      "canonical_url": "https://suttacentral.net/mn36",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 38",
@@ -303,7 +411,16 @@
         20,
         22
       ],
-      "plain_summary": "Bài kinh được dùng để bác ý niệm một thức bất biến đi qua các đời và khẳng định sáu loại thức sinh tùy điều kiện."
+      "plain_summary": "Bài kinh được dùng để bác ý niệm một thức bất biến đi qua các đời và khẳng định sáu loại thức sinh tùy điều kiện.",
+      "source_key": "MN 38",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn38",
+      "display_title_pali": "Mahātaṇhāsaṅkhaya Sutta",
+      "display_title_vi": "Thức sinh theo điều kiện",
+      "canonical_url": "https://suttacentral.net/mn38",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 39",
@@ -325,7 +442,16 @@
         9,
         27
       ],
-      "plain_summary": "Bài kinh được dùng để mô tả nền huấn luyện thân khẩu ý, phòng hộ, tỉnh thức, đoạn triền cái, bốn tầng thiền và các minh."
+      "plain_summary": "Bài kinh được dùng để mô tả nền huấn luyện thân khẩu ý, phòng hộ, tỉnh thức, đoạn triền cái, bốn tầng thiền và các minh.",
+      "source_key": "MN 39",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn39",
+      "display_title_pali": "Mahā-Assapura Sutta",
+      "display_title_vi": "Lộ trình tu tập tuần tự ở Assapura",
+      "canonical_url": "https://suttacentral.net/mn39",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 44",
@@ -346,7 +472,16 @@
         16,
         25
       ],
-      "plain_summary": "Bài kinh được dùng để định nghĩa thân kiến, nguồn sinh và sự chấm dứt của nó, đồng thời làm rõ các hành trong thực hành hơi thở."
+      "plain_summary": "Bài kinh được dùng để định nghĩa thân kiến, nguồn sinh và sự chấm dứt của nó, đồng thời làm rõ các hành trong thực hành hơi thở.",
+      "source_key": "MN 44",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn44",
+      "display_title_pali": "Cūḷavedalla Sutta",
+      "display_title_vi": "Hỏi đáp về thân kiến và thiền",
+      "canonical_url": "https://suttacentral.net/mn44",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 49",
@@ -366,7 +501,16 @@
       "used_in_lessons": [
         30
       ],
-      "plain_summary": "Bài kinh được dùng để cho thấy một Phạm thiên vẫn có thể vô minh khi tưởng cõi và địa vị của mình là thường còn tối thượng."
+      "plain_summary": "Bài kinh được dùng để cho thấy một Phạm thiên vẫn có thể vô minh khi tưởng cõi và địa vị của mình là thường còn tối thượng.",
+      "source_key": "MN 49",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn49",
+      "display_title_pali": "Brahmanimantanika Sutta",
+      "display_title_vi": "Ảo tưởng của Phạm thiên Baka",
+      "canonical_url": "https://suttacentral.net/mn49",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 60",
@@ -384,7 +528,16 @@
       "used_in_lessons": [
         21
       ],
-      "plain_summary": "Bài kinh được dùng để lập luận cho hành động có trách nhiệm khi người đọc chưa tự xác quyết đời sau và quả của nghiệp."
+      "plain_summary": "Bài kinh được dùng để lập luận cho hành động có trách nhiệm khi người đọc chưa tự xác quyết đời sau và quả của nghiệp.",
+      "source_key": "MN 60",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn60",
+      "display_title_pali": "Apaṇṇaka Sutta",
+      "display_title_vi": "Lựa chọn đạo đức trước điều chưa biết",
+      "canonical_url": "https://suttacentral.net/mn60",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 95",
@@ -404,7 +557,16 @@
       "used_in_lessons": [
         4
       ],
-      "plain_summary": "Bài kinh được dùng để phân biệt việc giữ gìn chân lý với tuyên bố chắc chắn và trình bày tiến trình kiểm chứng lời dạy bằng thực hành."
+      "plain_summary": "Bài kinh được dùng để phân biệt việc giữ gìn chân lý với tuyên bố chắc chắn và trình bày tiến trình kiểm chứng lời dạy bằng thực hành.",
+      "source_key": "MN 95",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn95",
+      "display_title_pali": "Caṅkī Sutta",
+      "display_title_vi": "Cách kiểm chứng một điều là thật",
+      "canonical_url": "https://suttacentral.net/mn95",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 107",
@@ -424,7 +586,16 @@
       "used_in_lessons": [
         9
       ],
-      "plain_summary": "Bài kinh được dùng để mô tả chương trình tu học từng bước và phân biệt vai trò chỉ đường của Đức Phật với việc tự mình thực hành."
+      "plain_summary": "Bài kinh được dùng để mô tả chương trình tu học từng bước và phân biệt vai trò chỉ đường của Đức Phật với việc tự mình thực hành.",
+      "source_key": "MN 107",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn107",
+      "display_title_pali": "Gaṇakamoggallāna Sutta",
+      "display_title_vi": "Huấn luyện tuần tự và người chỉ đường",
+      "canonical_url": "https://suttacentral.net/mn107",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 111",
@@ -442,7 +613,16 @@
       "used_in_lessons": [
         34
       ],
-      "plain_summary": "Bài kinh được dùng để cho thấy nhiều yếu tố tâm được nhận biết lần lượt trong kinh nghiệm thiền mà không gán ngược hệ 52 tâm sở vào Kinh sớm."
+      "plain_summary": "Bài kinh được dùng để cho thấy nhiều yếu tố tâm được nhận biết lần lượt trong kinh nghiệm thiền mà không gán ngược hệ 52 tâm sở vào Kinh sớm.",
+      "source_key": "MN 111",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn111",
+      "display_title_pali": "Anupada Sutta",
+      "display_title_vi": "Nhận biết từng yếu tố trong các tầng thiền",
+      "canonical_url": "https://suttacentral.net/mn111",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 117",
@@ -463,7 +643,16 @@
         5,
         8
       ],
-      "plain_summary": "Bài kinh được dùng để giải thích chánh kiến đi trước, hai cấp độ của các chi và cách các yếu tố của con đường nâng đỡ nhau."
+      "plain_summary": "Bài kinh được dùng để giải thích chánh kiến đi trước, hai cấp độ của các chi và cách các yếu tố của con đường nâng đỡ nhau.",
+      "source_key": "MN 117",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn117",
+      "display_title_pali": "Mahācattārīsaka Sutta",
+      "display_title_vi": "Chánh kiến và cấu trúc con đường",
+      "canonical_url": "https://suttacentral.net/mn117",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 118",
@@ -484,7 +673,16 @@
         24,
         25
       ],
-      "plain_summary": "Bài kinh được dùng để trình bày mười sáu bước niệm hơi thở và cách chúng làm viên mãn bốn nền tảng chánh niệm cùng bảy yếu tố giác ngộ."
+      "plain_summary": "Bài kinh được dùng để trình bày mười sáu bước niệm hơi thở và cách chúng làm viên mãn bốn nền tảng chánh niệm cùng bảy yếu tố giác ngộ.",
+      "source_key": "MN 118",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn118",
+      "display_title_pali": "Ānāpānasati Sutta",
+      "display_title_vi": "Mười sáu bước niệm hơi thở",
+      "canonical_url": "https://suttacentral.net/mn118",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 130",
@@ -505,7 +703,16 @@
         21,
         30
       ],
-      "plain_summary": "Bài kinh được dùng để tạo sự khẩn thiết đạo đức qua hình tượng các sứ giả, sự phán xét và những cảnh giới khổ."
+      "plain_summary": "Bài kinh được dùng để tạo sự khẩn thiết đạo đức qua hình tượng các sứ giả, sự phán xét và những cảnh giới khổ.",
+      "source_key": "MN 130",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn130",
+      "display_title_pali": "Devadūta Sutta",
+      "display_title_vi": "Các sứ giả của già, bệnh và chết",
+      "canonical_url": "https://suttacentral.net/mn130",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 135",
@@ -526,7 +733,16 @@
         19,
         22
       ],
-      "plain_summary": "Bài kinh được dùng để minh họa các cặp hành vi và khuynh hướng quả mà không biến nghiệp thành một sổ điểm cơ học."
+      "plain_summary": "Bài kinh được dùng để minh họa các cặp hành vi và khuynh hướng quả mà không biến nghiệp thành một sổ điểm cơ học.",
+      "source_key": "MN 135",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn135",
+      "display_title_pali": "Cūḷakammavibhaṅga Sutta",
+      "display_title_vi": "Hành vi và những khác biệt trong quả",
+      "canonical_url": "https://suttacentral.net/mn135",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 141",
@@ -544,7 +760,16 @@
       "used_in_lessons": [
         5
       ],
-      "plain_summary": "Bài kinh được dùng để triển khai định nghĩa Bốn sự thật cao quý và các chi của con đường đưa đến chấm dứt khổ."
+      "plain_summary": "Bài kinh được dùng để triển khai định nghĩa Bốn sự thật cao quý và các chi của con đường đưa đến chấm dứt khổ.",
+      "source_key": "MN 141",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn141",
+      "display_title_pali": "Saccavibhaṅga Sutta",
+      "display_title_vi": "Phân tích Bốn sự thật cao quý",
+      "canonical_url": "https://suttacentral.net/mn141",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "MN 148",
@@ -566,7 +791,16 @@
         12,
         13
       ],
-      "plain_summary": "Bài kinh được dùng để phân tích căn, đối tượng, thức, xúc, thọ và ái tại từng cửa giác quan."
+      "plain_summary": "Bài kinh được dùng để phân tích căn, đối tượng, thức, xúc, thọ và ái tại từng cửa giác quan.",
+      "source_key": "MN 148",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn148",
+      "display_title_pali": "Chachakka Sutta",
+      "display_title_vi": "Sáu nhóm sáu của kinh nghiệm giác quan",
+      "canonical_url": "https://suttacentral.net/mn148",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 11",
@@ -584,7 +818,16 @@
       "used_in_lessons": [
         30
       ],
-      "plain_summary": "Cả tương ưng này được dùng làm bối cảnh tự sự để phân biệt chư thiên và a-tu-la qua các chủ đề chiến tranh, quyền lực, nhẫn nhục và lãnh đạo."
+      "plain_summary": "Cả tương ưng này được dùng làm bối cảnh tự sự để phân biệt chư thiên và a-tu-la qua các chủ đề chiến tranh, quyền lực, nhẫn nhục và lãnh đạo.",
+      "source_key": "SN 11",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn11",
+      "display_title_pali": "Sakkasaṁyutta",
+      "display_title_vi": "Các bài kinh về Sakka, chư thiên và a-tu-la",
+      "canonical_url": "https://suttacentral.net/sn11",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 11.1",
@@ -604,7 +847,16 @@
       "used_in_lessons": [
         30
       ],
-      "plain_summary": "Bài kinh được dùng để đặt chư thiên và a-tu-la trong một cuộc chiến tự sự, qua đó cho thấy họ không phải các phạm trù thiện ác tuyệt đối."
+      "plain_summary": "Bài kinh được dùng để đặt chư thiên và a-tu-la trong một cuộc chiến tự sự, qua đó cho thấy họ không phải các phạm trù thiện ác tuyệt đối.",
+      "source_key": "SN 11.1",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn11.1",
+      "display_title_pali": "Suvīra Sutta",
+      "display_title_vi": "Tinh tấn giữa cuộc chiến trời và a-tu-la",
+      "canonical_url": "https://suttacentral.net/sn11.1",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 12.2",
@@ -629,7 +881,16 @@
         18,
         20
       ],
-      "plain_summary": "Bài kinh được dùng để nêu và định nghĩa các chi duyên khởi cùng hai chiều sinh khởi và đoạn diệt."
+      "plain_summary": "Bài kinh được dùng để nêu và định nghĩa các chi duyên khởi cùng hai chiều sinh khởi và đoạn diệt.",
+      "source_key": "SN 12.2",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn12.2",
+      "display_title_pali": "Vibhaṅga Sutta",
+      "display_title_vi": "Định nghĩa các mắt xích duyên khởi",
+      "canonical_url": "https://suttacentral.net/sn12.2",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 12.15",
@@ -649,7 +910,16 @@
       "used_in_lessons": [
         10
       ],
-      "plain_summary": "Đoạn kinh được dùng để giải thích Trung đạo trong chánh kiến: vượt hai cực tồn tại và không tồn tại bằng cách thấy duyên khởi và duyên diệt."
+      "plain_summary": "Đoạn kinh được dùng để giải thích Trung đạo trong chánh kiến: vượt hai cực tồn tại và không tồn tại bằng cách thấy duyên khởi và duyên diệt.",
+      "source_key": "SN 12.15",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn12.15",
+      "display_title_pali": "Kaccānagotta Sutta",
+      "display_title_vi": "Không mắc kẹt giữa có và không",
+      "canonical_url": "https://suttacentral.net/sn12.15",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 12.20",
@@ -670,7 +940,16 @@
         17,
         35
       ],
-      "plain_summary": "Đoạn kinh được dùng để xác lập tính điều kiện khách quan và công thức có–sinh, không có–đoạn diệt làm nền cho các bài về duyên khởi và Paṭṭhāna."
+      "plain_summary": "Đoạn kinh được dùng để xác lập tính điều kiện khách quan và công thức có–sinh, không có–đoạn diệt làm nền cho các bài về duyên khởi và Paṭṭhāna.",
+      "source_key": "SN 12.20",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn12.20",
+      "display_title_pali": "Paccaya Sutta",
+      "display_title_vi": "Nguyên lý mọi pháp sinh theo điều kiện",
+      "canonical_url": "https://suttacentral.net/sn12.20",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 12.23",
@@ -692,7 +971,16 @@
         22,
         35
       ],
-      "plain_summary": "Đoạn kinh được dùng để cho thấy khổ, khi gặp điều kiện nâng đỡ thích hợp, có thể dẫn qua tín, hỷ, định và tri kiến đến giải thoát."
+      "plain_summary": "Đoạn kinh được dùng để cho thấy khổ, khi gặp điều kiện nâng đỡ thích hợp, có thể dẫn qua tín, hỷ, định và tri kiến đến giải thoát.",
+      "source_key": "SN 12.23",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn12.23",
+      "display_title_pali": "Upanisa Sutta",
+      "display_title_vi": "Từ khổ đau đến giải thoát theo chuỗi hỗ trợ",
+      "canonical_url": "https://suttacentral.net/sn12.23",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 12.61",
@@ -710,7 +998,16 @@
       "used_in_lessons": [
         34
       ],
-      "plain_summary": "Đoạn kinh được dùng để chứng minh Kinh sớm mô tả tâm và thức liên tục sinh diệt, nhưng không tự nó xác nhận toàn bộ học thuyết sát-na hậu kỳ."
+      "plain_summary": "Đoạn kinh được dùng để chứng minh Kinh sớm mô tả tâm và thức liên tục sinh diệt, nhưng không tự nó xác nhận toàn bộ học thuyết sát-na hậu kỳ.",
+      "source_key": "SN 12.61",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn12.61",
+      "display_title_pali": "Assutavā Sutta",
+      "display_title_vi": "Tâm và thức sinh diệt suốt ngày đêm",
+      "canonical_url": "https://suttacentral.net/sn12.61",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 12.67",
@@ -728,7 +1025,16 @@
       "used_in_lessons": [
         18
       ],
-      "plain_summary": "Đoạn kinh được dùng để minh họa sự tương thuộc giữa thức và danh-sắc, chống cách đọc mười hai chi như một hàng nguyên nhân đơn tuyến cứng nhắc."
+      "plain_summary": "Đoạn kinh được dùng để minh họa sự tương thuộc giữa thức và danh-sắc, chống cách đọc mười hai chi như một hàng nguyên nhân đơn tuyến cứng nhắc.",
+      "source_key": "SN 12.67",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn12.67",
+      "display_title_pali": "Naḷakalāpī Sutta",
+      "display_title_vi": "Danh-sắc và thức nương nhau như hai bó lau",
+      "canonical_url": "https://suttacentral.net/sn12.67",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 15",
@@ -746,7 +1052,16 @@
       "used_in_lessons": [
         22
       ],
-      "plain_summary": "Cả tương ưng được dùng làm nền kinh điển cho cách nói saṃsāra không có khởi điểm có thể nhận biết, thay vì một trường học do linh hồn hay đấng sáng tạo thiết kế."
+      "plain_summary": "Cả tương ưng được dùng làm nền kinh điển cho cách nói saṃsāra không có khởi điểm có thể nhận biết, thay vì một trường học do linh hồn hay đấng sáng tạo thiết kế.",
+      "source_key": "SN 15",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn15",
+      "display_title_pali": "Anamataggasaṁyutta",
+      "display_title_vi": "Tuyển kinh về luân hồi không thấy điểm đầu",
+      "canonical_url": "https://suttacentral.net/sn15",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 15.1",
@@ -766,7 +1081,16 @@
       "used_in_lessons": [
         22
       ],
-      "plain_summary": "Đoạn kinh được dùng để hình dung độ dài không thể truy ra của luân hồi bằng ví dụ đếm mọi cọng cỏ và que cây thành các đời quá khứ."
+      "plain_summary": "Đoạn kinh được dùng để hình dung độ dài không thể truy ra của luân hồi bằng ví dụ đếm mọi cọng cỏ và que cây thành các đời quá khứ.",
+      "source_key": "SN 15.1",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn15.1",
+      "display_title_pali": "Tiṇakaṭṭha Sutta",
+      "display_title_vi": "Cỏ cây không đủ đếm số đời luân hồi",
+      "canonical_url": "https://suttacentral.net/sn15.1",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 15.3",
@@ -786,7 +1110,16 @@
       "used_in_lessons": [
         22
       ],
-      "plain_summary": "Đoạn kinh được dùng để nhấn mạnh lượng khổ và mất mát đã trải qua trong luân hồi qua hình ảnh nước mắt nhiều hơn nước bốn biển."
+      "plain_summary": "Đoạn kinh được dùng để nhấn mạnh lượng khổ và mất mát đã trải qua trong luân hồi qua hình ảnh nước mắt nhiều hơn nước bốn biển.",
+      "source_key": "SN 15.3",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn15.3",
+      "display_title_pali": "Assu Sutta",
+      "display_title_vi": "Nước mắt trong luân hồi nhiều hơn biển cả",
+      "canonical_url": "https://suttacentral.net/sn15.3",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 22.1",
@@ -806,7 +1139,16 @@
       "used_in_lessons": [
         16
       ],
-      "plain_summary": "Đoạn kinh được dùng để phân biệt đau bệnh nơi thân với việc tâm đồng nhất và chiếm hữu năm uẩn, qua đó chỉ ra một cách tháo bản sắc phản ứng."
+      "plain_summary": "Đoạn kinh được dùng để phân biệt đau bệnh nơi thân với việc tâm đồng nhất và chiếm hữu năm uẩn, qua đó chỉ ra một cách tháo bản sắc phản ứng.",
+      "source_key": "SN 22.1",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn22.1",
+      "display_title_pali": "Nakulapitu Sutta",
+      "display_title_vi": "Thân bệnh nhưng tâm không nhất thiết bệnh",
+      "canonical_url": "https://suttacentral.net/sn22.1",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 22.59",
@@ -830,7 +1172,16 @@
         15,
         36
       ],
-      "plain_summary": "Đoạn kinh được dùng làm nguồn chính cho phép quán năm uẩn là vô thường, khổ và không nằm dưới quyền điều khiển nên không đáng nhận là tôi hay của tôi."
+      "plain_summary": "Đoạn kinh được dùng làm nguồn chính cho phép quán năm uẩn là vô thường, khổ và không nằm dưới quyền điều khiển nên không đáng nhận là tôi hay của tôi.",
+      "source_key": "SN 22.59",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn22.59",
+      "display_title_pali": "Anattalakkhaṇa Sutta",
+      "display_title_vi": "Năm uẩn không phải là tự ngã",
+      "canonical_url": "https://suttacentral.net/sn22.59",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 22.95",
@@ -850,7 +1201,16 @@
       "used_in_lessons": [
         11
       ],
-      "plain_summary": "Đoạn kinh được dùng để làm rõ tính không bền chắc và không có lõi sở hữu của năm uẩn bằng các ví dụ bọt nước, bong bóng, ảo ảnh và những hình ảnh tương tự."
+      "plain_summary": "Đoạn kinh được dùng để làm rõ tính không bền chắc và không có lõi sở hữu của năm uẩn bằng các ví dụ bọt nước, bong bóng, ảo ảnh và những hình ảnh tương tự.",
+      "source_key": "SN 22.95",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn22.95",
+      "display_title_pali": "Pheṇapiṇḍūpama Sutta",
+      "display_title_vi": "Năm uẩn rỗng lõi qua năm hình ảnh",
+      "canonical_url": "https://suttacentral.net/sn22.95",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 35.23",
@@ -870,7 +1230,16 @@
       "used_in_lessons": [
         12
       ],
-      "plain_summary": "Đoạn kinh được dùng để định phạm vi kinh nghiệm có thể nói đến như “tất cả” bằng sáu căn, sáu trần và nhận thức tương ứng."
+      "plain_summary": "Đoạn kinh được dùng để định phạm vi kinh nghiệm có thể nói đến như “tất cả” bằng sáu căn, sáu trần và nhận thức tương ứng.",
+      "source_key": "SN 35.23",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn35.23",
+      "display_title_pali": "Sabba Sutta",
+      "display_title_vi": "“Tất cả” trong phạm vi sáu căn và sáu trần",
+      "canonical_url": "https://suttacentral.net/sn35.23",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 35.204",
@@ -890,7 +1259,16 @@
       "used_in_lessons": [
         26
       ],
-      "plain_summary": "Đoạn kinh được dùng trong bài chỉ-quán để hướng việc điều tra sáu căn và sáu trần về chỗ không tìm thấy một lõi “tôi” thường còn."
+      "plain_summary": "Đoạn kinh được dùng trong bài chỉ-quán để hướng việc điều tra sáu căn và sáu trần về chỗ không tìm thấy một lõi “tôi” thường còn.",
+      "source_key": "SN 35.204",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn35.204",
+      "display_title_pali": "Kāmaguṇa Sutta",
+      "display_title_vi": "Sáu căn không có lõi tự ngã bền chắc",
+      "canonical_url": "https://suttacentral.net/sn35.204",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 36.21",
@@ -910,7 +1288,16 @@
       "used_in_lessons": [
         19
       ],
-      "plain_summary": "Đoạn kinh được dùng để bác thuyết quy mọi cảm thọ đau cho nghiệp quá khứ bằng cách liệt kê nhiều nguyên nhân sinh lý và hoàn cảnh khác."
+      "plain_summary": "Đoạn kinh được dùng để bác thuyết quy mọi cảm thọ đau cho nghiệp quá khứ bằng cách liệt kê nhiều nguyên nhân sinh lý và hoàn cảnh khác.",
+      "source_key": "SN 36.21",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn36.21",
+      "display_title_pali": "Sīvaka Sutta",
+      "display_title_vi": "Đau đớn không chỉ do nghiệp quá khứ",
+      "canonical_url": "https://suttacentral.net/sn36.21",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 43",
@@ -928,7 +1315,16 @@
       "used_in_lessons": [
         32
       ],
-      "plain_summary": "Cả tương ưng được dùng để đặt Nibbāna trong nhóm giáo pháp về vô vi và các con đường tu dẫn đến sự tận tham, sân và si."
+      "plain_summary": "Cả tương ưng được dùng để đặt Nibbāna trong nhóm giáo pháp về vô vi và các con đường tu dẫn đến sự tận tham, sân và si.",
+      "source_key": "SN 43",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn43",
+      "display_title_pali": "Asaṅkhatasaṁyutta",
+      "display_title_vi": "Tuyển kinh về vô vi và con đường đến vô vi",
+      "canonical_url": "https://suttacentral.net/sn43",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 43.1",
@@ -946,7 +1342,16 @@
       "used_in_lessons": [
         32
       ],
-      "plain_summary": "Đoạn kinh được dùng để giải thích vô vi bằng sự tận diệt tham, sân và si, đồng thời nêu niệm thân là một con đường dẫn đến đó."
+      "plain_summary": "Đoạn kinh được dùng để giải thích vô vi bằng sự tận diệt tham, sân và si, đồng thời nêu niệm thân là một con đường dẫn đến đó.",
+      "source_key": "SN 43.1",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn43.1",
+      "display_title_pali": "Kāyagatāsati Sutta",
+      "display_title_vi": "Vô vi là tận tham, sân và si",
+      "canonical_url": "https://suttacentral.net/sn43.1",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 45.8",
@@ -967,7 +1372,16 @@
         5,
         8
       ],
-      "plain_summary": "Đoạn kinh được dùng để định nghĩa cụ thể tám chi đạo và giữ Bát Chánh Đạo như một hệ thống thực hành thống nhất thay vì tám khẩu hiệu rời nhau."
+      "plain_summary": "Đoạn kinh được dùng để định nghĩa cụ thể tám chi đạo và giữ Bát Chánh Đạo như một hệ thống thực hành thống nhất thay vì tám khẩu hiệu rời nhau.",
+      "source_key": "SN 45.8",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn45.8",
+      "display_title_pali": "Vibhaṅga Sutta",
+      "display_title_vi": "Giải thích từng chi của Bát Chánh Đạo",
+      "canonical_url": "https://suttacentral.net/sn45.8",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 46.54",
@@ -987,7 +1401,16 @@
       "used_in_lessons": [
         28
       ],
-      "plain_summary": "Đoạn kinh được dùng để nối tâm từ, bi, hỷ và xả với việc phát triển các giác chi và các hướng giải thoát của tâm."
+      "plain_summary": "Đoạn kinh được dùng để nối tâm từ, bi, hỷ và xả với việc phát triển các giác chi và các hướng giải thoát của tâm.",
+      "source_key": "SN 46.54",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn46.54",
+      "display_title_pali": "Mettāsahagata Sutta",
+      "display_title_vi": "Bốn tâm vô lượng cùng các giác chi",
+      "canonical_url": "https://suttacentral.net/sn46.54",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 55.5",
@@ -1005,7 +1428,16 @@
       "used_in_lessons": [
         31
       ],
-      "plain_summary": "Đoạn kinh được dùng để định nghĩa “dòng” là chính Bát Chánh Đạo và nêu các điều kiện hỗ trợ cho việc nhập lưu."
+      "plain_summary": "Đoạn kinh được dùng để định nghĩa “dòng” là chính Bát Chánh Đạo và nêu các điều kiện hỗ trợ cho việc nhập lưu.",
+      "source_key": "SN 55.5",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn55.5",
+      "display_title_pali": "Dutiyasāriputta Sutta",
+      "display_title_vi": "Dòng nhập lưu chính là Bát Chánh Đạo",
+      "canonical_url": "https://suttacentral.net/sn55.5",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "SN 56.11",
@@ -1029,7 +1461,16 @@
         8,
         10
       ],
-      "plain_summary": "Đoạn kinh được dùng làm nguồn nền cho Trung đạo thực hành, Bốn Thánh Đế và Bát Chánh Đạo, đặc biệt là việc tránh hưởng dục và tự hành xác."
+      "plain_summary": "Đoạn kinh được dùng làm nguồn nền cho Trung đạo thực hành, Bốn Thánh Đế và Bát Chánh Đạo, đặc biệt là việc tránh hưởng dục và tự hành xác.",
+      "source_key": "SN 56.11",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn56.11",
+      "display_title_pali": "Dhammacakkappavattana Sutta",
+      "display_title_vi": "Bốn sự thật và con đường tránh hai cực",
+      "canonical_url": "https://suttacentral.net/sn56.11",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "AN 3.61",
@@ -1049,7 +1490,16 @@
       "used_in_lessons": [
         19
       ],
-      "plain_summary": "Đoạn kinh được dùng để bác các quan điểm quy mọi trải nghiệm cho nghiệp quá khứ, cho một đấng tạo hóa hoặc cho ngẫu nhiên vô nguyên nhân."
+      "plain_summary": "Đoạn kinh được dùng để bác các quan điểm quy mọi trải nghiệm cho nghiệp quá khứ, cho một đấng tạo hóa hoặc cho ngẫu nhiên vô nguyên nhân.",
+      "source_key": "AN 3.61",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an3.61",
+      "display_title_pali": "Titthāyatana Sutta",
+      "display_title_vi": "Ba học thuyết làm suy yếu trách nhiệm hành động",
+      "canonical_url": "https://suttacentral.net/an3.61",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "AN 3.65",
@@ -1070,7 +1520,16 @@
         4,
         36
       ],
-      "plain_summary": "Đoạn kinh được dùng để dạy cách kiểm tra một lời truyền dạy bằng tham-sân-si, hậu quả và sự xác nhận của người có trí, chứ không cổ vũ hoài nghi tùy tiện."
+      "plain_summary": "Đoạn kinh được dùng để dạy cách kiểm tra một lời truyền dạy bằng tham-sân-si, hậu quả và sự xác nhận của người có trí, chứ không cổ vũ hoài nghi tùy tiện.",
+      "source_key": "AN 3.65",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an3.65",
+      "display_title_pali": "Kesamutti Sutta",
+      "display_title_vi": "Thẩm tra lời dạy qua hậu quả thiện và bất thiện",
+      "canonical_url": "https://suttacentral.net/an3.65",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "AN 3.88",
@@ -1088,7 +1547,16 @@
       "used_in_lessons": [
         31
       ],
-      "plain_summary": "Đoạn kinh được dùng để quy toàn bộ việc đào luyện vào giới cao hơn, tâm cao hơn và tuệ cao hơn, rồi liên hệ mức thực hành với các mức thành tựu."
+      "plain_summary": "Đoạn kinh được dùng để quy toàn bộ việc đào luyện vào giới cao hơn, tâm cao hơn và tuệ cao hơn, rồi liên hệ mức thực hành với các mức thành tựu.",
+      "source_key": "AN 3.88",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an3.88",
+      "display_title_pali": "Tatiyasikkhā Sutta",
+      "display_title_vi": "Ba sự học gom toàn bộ việc tu",
+      "canonical_url": "https://suttacentral.net/an3.88",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "AN 4.123",
@@ -1108,7 +1576,16 @@
       "used_in_lessons": [
         29
       ],
-      "plain_summary": "Đoạn kinh được dùng để minh họa cách phẩm chất và sự chấp trước quanh các tầng thiền liên hệ với những kiểu tái sinh khác nhau trong bản đồ các cõi."
+      "plain_summary": "Đoạn kinh được dùng để minh họa cách phẩm chất và sự chấp trước quanh các tầng thiền liên hệ với những kiểu tái sinh khác nhau trong bản đồ các cõi.",
+      "source_key": "AN 4.123",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an4.123",
+      "display_title_pali": "Paṭhamanānākaraṇa Sutta",
+      "display_title_vi": "Các tầng thiền dẫn đến những tái sinh khác nhau",
+      "canonical_url": "https://suttacentral.net/an4.123",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "AN 4.170",
@@ -1128,7 +1605,16 @@
       "used_in_lessons": [
         26
       ],
-      "plain_summary": "Đoạn kinh được dùng để chứng minh Kinh sớm thừa nhận nhiều trình tự phát triển chỉ và quán, kể cả hai pháp được tu song hành."
+      "plain_summary": "Đoạn kinh được dùng để chứng minh Kinh sớm thừa nhận nhiều trình tự phát triển chỉ và quán, kể cả hai pháp được tu song hành.",
+      "source_key": "AN 4.170",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an4.170",
+      "display_title_pali": "Yuganaddha Sutta",
+      "display_title_vi": "Bốn cách phối hợp chỉ và quán",
+      "canonical_url": "https://suttacentral.net/an4.170",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "AN 5.28",
@@ -1148,7 +1634,16 @@
       "used_in_lessons": [
         27
       ],
-      "plain_summary": "Đoạn kinh được dùng để mô tả bốn tầng thiền bằng các hình ảnh thấm nhuần toàn thân và thêm năng lực quán xét như phần thứ năm của chánh định."
+      "plain_summary": "Đoạn kinh được dùng để mô tả bốn tầng thiền bằng các hình ảnh thấm nhuần toàn thân và thêm năng lực quán xét như phần thứ năm của chánh định.",
+      "source_key": "AN 5.28",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an5.28",
+      "display_title_pali": "Pañcaṅgika Sutta",
+      "display_title_vi": "Năm phần của chánh định cao quý",
+      "canonical_url": "https://suttacentral.net/an5.28",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "AN 6.63",
@@ -1169,7 +1664,16 @@
         19,
         20
       ],
-      "plain_summary": "Đoạn kinh được dùng để định nghĩa nghiệp là tác ý, phân tích nghiệp qua thân-khẩu-ý, quả và nguồn sinh, rồi đặt Bát Chánh Đạo làm đường đoạn diệt."
+      "plain_summary": "Đoạn kinh được dùng để định nghĩa nghiệp là tác ý, phân tích nghiệp qua thân-khẩu-ý, quả và nguồn sinh, rồi đặt Bát Chánh Đạo làm đường đoạn diệt.",
+      "source_key": "AN 6.63",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an6.63",
+      "display_title_pali": "Nibbedhika Sutta",
+      "display_title_vi": "Nghiệp là tác ý và có con đường đoạn diệt",
+      "canonical_url": "https://suttacentral.net/an6.63",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "AN 8.39",
@@ -1189,7 +1693,16 @@
       "used_in_lessons": [
         23
       ],
-      "plain_summary": "Đoạn kinh được dùng để trình bày năm sự tránh như các điều học tự nguyện đem lại an toàn, không thù hận và không áp bức cho vô số chúng sinh."
+      "plain_summary": "Đoạn kinh được dùng để trình bày năm sự tránh như các điều học tự nguyện đem lại an toàn, không thù hận và không áp bức cho vô số chúng sinh.",
+      "source_key": "AN 8.39",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an8.39",
+      "display_title_pali": "Abhisanda Sutta",
+      "display_title_vi": "Năm giới là năm món quà không sợ hãi",
+      "canonical_url": "https://suttacentral.net/an8.39",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     },
     {
       "code": "AN 10.13",
@@ -1207,7 +1720,24 @@
       "used_in_lessons": [
         31
       ],
-      "plain_summary": "Đoạn kinh được dùng để liệt kê mười kiết sử thành năm ràng buộc thấp và năm ràng buộc cao làm khung cho bốn mức thánh quả."
+      "plain_summary": "Đoạn kinh được dùng để liệt kê mười kiết sử thành năm ràng buộc thấp và năm ràng buộc cao làm khung cho bốn mức thánh quả.",
+      "source_key": "AN 10.13",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an10.13",
+      "display_title_pali": "Saṁyojana Sutta",
+      "display_title_vi": "Mười kiết sử gồm năm thấp và năm cao",
+      "canonical_url": "https://suttacentral.net/an10.13",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root"
     }
-  ]
+  ],
+  "source_families": {
+    "sutta": [
+      "DN",
+      "MN",
+      "SN",
+      "AN"
+    ]
+  }
 }

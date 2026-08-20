@@ -122,7 +122,7 @@ Recommended note types:
 ### Docs / Meta `_docs` — 19 notes
 
 - [[_docs/VAULT-95-PUBLICATION-RUBRIC|redpill.wiki 9.5 Publication Rubric]] — degree `29`, backlinks `0`, outlinks `29`
-- [[_docs/THERAVADA-READER-CITATION-STANDARD|Chuẩn Dẫn Kinh Dễ Đọc Cho Series Theravāda]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/THERAVADA-READER-CITATION-STANDARD|Chuẩn Dẫn Kinh Tự Nhiên Cho Series Theravāda]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/CONTENT-SEO-AUDIT|Content SEO Audit - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/SEO-BUILD-VALIDATION|SEO Build Validation]] — degree `0`, backlinks `0`, outlinks `0`
@@ -362,7 +362,7 @@ Orphans are not necessarily bad. In Zettelkasten terms, they are unfinished inte
 - [[_docs/THERAVADA-BATCH4-VALIDATION|Theravāda Batch 4 Validation]] — `_docs`
 - [[_docs/THERAVADA-BATCH5-VALIDATION|Theravāda Batch 5 Validation]] — `_docs`
 - [[_docs/THERAVADA-BATCH6-VALIDATION|Theravāda Batch 6 Validation]] — `_docs`
-- [[_docs/THERAVADA-READER-CITATION-STANDARD|Chuẩn Dẫn Kinh Dễ Đọc Cho Series Theravāda]] — `_docs`
+- [[_docs/THERAVADA-READER-CITATION-STANDARD|Chuẩn Dẫn Kinh Tự Nhiên Cho Series Theravāda]] — `_docs`
 - [[_docs/THIN-PAGE-CLASSIFICATION|Thin Page Classification - redpill.wiki]] — `_docs`
 - [[_docs/VAULT-QC-AUDIT|Vault QC Audit]] — `_docs`
 - [[_docs/VAULT-QC-CHECKLIST|Vault QC Checklist]] — `_docs`

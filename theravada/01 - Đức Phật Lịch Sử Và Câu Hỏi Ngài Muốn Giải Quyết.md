@@ -53,43 +53,46 @@ Mục tiêu của bài không phải viết một “cuộc đời Đức Phật
 ## 2. Ba Cửa Sổ Kinh Sớm: [Cuộc tìm cầu cao quý](https://suttacentral.net/mn26), [Khổ hạnh và con đường giác ngộ](https://suttacentral.net/mn36) Và [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16)
 ![ba khung cảnh rời nhà, khổ hạnh và hành trình cuối được nối bằng một con đường](../assets/illustrations/theravada-batch1/theravada-01-ba-cua-so-kinh.webp)
 
-> [!quote] Nguồn Kinh dễ hiểu
-> **Tên dễ hiểu:** Cuộc tìm cầu cao quý
-> **Nằm ở đâu:** *Ariyapariyesanā Sutta*, bài 26 của Trung Bộ Kinh (*Majjhima Nikāya*)
-> **Đoạn này nói gì:** Đoạn trích đối chiếu người đang chịu sinh, già, bệnh, chết, sầu và ô nhiễm với việc tìm Nibbāna: sự an ổn không sinh, không già, không bệnh, không chết, không sầu và không ô nhiễm.
-> **Mã kiểm chứng:** [`MN 26`, đoạn 12.1–12.3](https://suttacentral.net/mn26)
-> **Pāli gốc:** *Katamā ca, bhikkhave, ariyā pariyesanā? Idha, bhikkhave, ekacco attanā jātidhammo samāno jātidhamme ādīnavaṁ viditvā ajātaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā jarādhammo samāno jarādhamme ādīnavaṁ viditvā ajaraṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā byādhidhammo samāno byādhidhamme ādīnavaṁ viditvā abyādhiṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā maraṇadhammo samāno maraṇadhamme ādīnavaṁ viditvā amataṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā sokadhammo samāno sokadhamme ādīnavaṁ viditvā asokaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā saṅkilesadhammo samāno saṅkilesadhamme ādīnavaṁ viditvā asaṅkiliṭṭhaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati. Ayaṁ, bhikkhave, ariyā pariyesanā.*
-> **Dịch rút gọn có đánh dấu:** Này các tỳ-kheo, thế nào là cuộc tìm cầu cao quý? Ở đây, một người vốn chịu sinh, thấy nguy hại trong cái chịu sinh, tìm Niết-bàn—sự an ổn tối thượng khỏi ách, không sinh … Đây gọi là cuộc tìm cầu cao quý.
-> **Nói nôm na:** Ta thường tìm an toàn trong những thứ cũng đổi thay và mất đi; “cuộc tìm cầu cao quý” đổi mục tiêu sang việc chấm dứt chính sự trói buộc.
-> **Vì sao dùng ở đây:** Đoạn này chứng minh trọng tâm cuộc tìm kiếm của Gotama là thoát cấu trúc sinh–già–bệnh–chết, không phải dựng một hệ giải thích mọi chuyện trong vũ trụ.
+> [!quote] Kinh về cuộc tìm cầu cao quý — Trung Bộ Kinh
+> Đoạn trích đối chiếu người đang chịu sinh, già, bệnh, chết, sầu và ô nhiễm với việc tìm Nibbāna: sự an ổn không sinh, không già, không bệnh, không chết, không sầu và không ô nhiễm.
+>
+> **Pāli**
+> *Katamā ca, bhikkhave, ariyā pariyesanā? Idha, bhikkhave, ekacco attanā jātidhammo samāno jātidhamme ādīnavaṁ viditvā ajātaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā jarādhammo samāno jarādhamme ādīnavaṁ viditvā ajaraṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā byādhidhammo samāno byādhidhamme ādīnavaṁ viditvā abyādhiṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā maraṇadhammo samāno maraṇadhamme ādīnavaṁ viditvā amataṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā sokadhammo samāno sokadhamme ādīnavaṁ viditvā asokaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati, attanā saṅkilesadhammo samāno saṅkilesadhamme ādīnavaṁ viditvā asaṅkiliṭṭhaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati. Ayaṁ, bhikkhave, ariyā pariyesanā.*
+>
+> **Dịch Việt rút gọn**
+> Này các tỳ-kheo, thế nào là cuộc tìm cầu cao quý? Ở đây, một người vốn chịu sinh, thấy nguy hại trong cái chịu sinh, tìm Niết-bàn—sự an ổn tối thượng khỏi ách, không sinh … Đây gọi là cuộc tìm cầu cao quý.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn26">MN 26, đoạn 12.1–12.3</a> · <i>Ariyapariyesanā Sutta</i></small>
 
 [Cuộc tìm cầu cao quý — Trung Bộ Kinh](https://suttacentral.net/mn26) thường được gọi là bài kinh về cuộc tìm cầu cao quý. Văn bản đặt vào lời Gotama một đối lập rất sáng: người đang bị sinh, già, bệnh, chết, sầu và ô nhiễm có thể tiếp tục tìm những gì cũng chịu cùng số phận ấy; hoặc nhận ra nguy hiểm và tìm cái không sinh, không già, không bệnh, không chết, không sầu, không ô nhiễm. Đây là khung tự thuật trong một bài giảng được truyền lại, không phải nhật ký do Gotama viết. Dẫu vậy, nó cho thấy cộng đồng sớm nhớ trọng tâm cuộc tìm kiếm không phải là sáng lập một tôn giáo hay giải thích toàn bộ vũ trụ, mà là thoát khỏi cấu trúc sinh–già–chết và nắm giữ.
 
 Trong [Cuộc tìm cầu cao quý](https://suttacentral.net/mn26), Gotama đến học Āḷāra Kālāma và Uddaka Rāmaputta. Ngài đạt đến trình độ mà mỗi vị thầy công nhận, nhưng thấy thành tựu ấy chưa dẫn tới ly tham, đoạn diệt, an tịnh và giác ngộ trọn vẹn. Chi tiết này có thể giữ ký ức về môi trường tu tập đương thời; ta không có tài liệu độc lập để viết tiểu sử chắc chắn cho hai vị thầy. Giá trị gần nhất của đoạn văn là cách nó định nghĩa tiêu chuẩn: một trạng thái cao không đủ chỉ vì tinh tế hoặc hiếm có; nó phải giải quyết gốc rễ của trói buộc.
 
-> [!quote] Nguồn Kinh dễ hiểu
-> **Tên dễ hiểu:** Khổ hạnh và con đường giác ngộ
-> **Nằm ở đâu:** *Mahāsaccaka Sutta*, bài 36 của Trung Bộ Kinh (*Majjhima Nikāya*)
-> **Đoạn này nói gì:** Gotama nhận ra khổ hạnh cay nghiệt không đem lại tri kiến giải thoát; ký ức về sơ thiền khiến Ngài thấy có thể tồn tại một con đường khác đến giác ngộ.
-> **Mã kiểm chứng:** [`MN 36`, đoạn 30.5–31.5](https://suttacentral.net/mn36)
-> **Pāli gốc:** *Na kho panāhaṁ imāya kaṭukāya dukkarakārikāya adhigacchāmi uttari manussadhammā alamariyañāṇadassanavisesaṁ. Siyā nu kho añño maggo bodhāyā’ti? Tassa mayhaṁ, aggivessana, etadahosi: ‘abhijānāmi kho panāhaṁ pitu sakkassa kammante sītāya jambucchāyāya nisinno vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharitā. Siyā nu kho eso maggo bodhāyā’ti? Tassa mayhaṁ, aggivessana, satānusāri viññāṇaṁ ahosi: ‘eseva maggo bodhāyā’ti.*
-> **Dịch rút gọn có đánh dấu:** Nhưng bằng lối khổ hạnh cay nghiệt này, ta không đạt pháp vượt người hay tri kiến xứng bậc thánh. Liệu có con đường khác đến giác ngộ? … Rồi sự nhận biết theo sau ký ức ấy khởi lên: đây chính là con đường đến giác ngộ.
-> **Nói nôm na:** Đau đớn tự nó không thanh tẩy. Từ bỏ cực đoan không phải buông thả, mà là tạo điều kiện thân–tâm đủ lành để thấy rõ.
-> **Vì sao dùng ở đây:** Đoạn này là nền Kinh cho việc bác bỏ tự hành xác và giải thích bước chuyển sang con đường Trung đạo.
+> [!quote] Kinh về khổ hạnh và con đường giác ngộ — Trung Bộ Kinh
+> Gotama nhận ra khổ hạnh cay nghiệt không đem lại tri kiến giải thoát; ký ức về sơ thiền khiến Ngài thấy có thể tồn tại một con đường khác đến giác ngộ.
+>
+> **Pāli**
+> *Na kho panāhaṁ imāya kaṭukāya dukkarakārikāya adhigacchāmi uttari manussadhammā alamariyañāṇadassanavisesaṁ. Siyā nu kho añño maggo bodhāyā’ti? Tassa mayhaṁ, aggivessana, etadahosi: ‘abhijānāmi kho panāhaṁ pitu sakkassa kammante sītāya jambucchāyāya nisinno vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharitā. Siyā nu kho eso maggo bodhāyā’ti? Tassa mayhaṁ, aggivessana, satānusāri viññāṇaṁ ahosi: ‘eseva maggo bodhāyā’ti.*
+>
+> **Dịch Việt rút gọn**
+> Nhưng bằng lối khổ hạnh cay nghiệt này, ta không đạt pháp vượt người hay tri kiến xứng bậc thánh. Liệu có con đường khác đến giác ngộ? … Rồi sự nhận biết theo sau ký ức ấy khởi lên: đây chính là con đường đến giác ngộ.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn36">MN 36, đoạn 30.5–31.5</a> · <i>Mahāsaccaka Sutta</i></small>
 
 [Khổ hạnh và con đường giác ngộ — Trung Bộ Kinh](https://suttacentral.net/mn36) trình bày một khung tự thuật khác, tập trung vào khổ hạnh cực đoan. Gotama kể những thực hành nín thở và giảm ăn đến mức thân thể suy kiệt. Ngài kết luận con đường ấy không đưa đến tri kiến cao thượng, rồi nhớ lại một trạng thái an tĩnh thời trẻ và hỏi liệu đó có thể là con đường giác ngộ. Sự chuyển hướng quan trọng không phải lời cổ vũ hưởng thụ. Nó là sự bác bỏ ý tưởng rằng đau đớn tự thân thanh tẩy, đồng thời thừa nhận thân được nuôi dưỡng vừa đủ là điều kiện cho công việc của tâm.
 
 [Khổ hạnh và con đường giác ngộ](https://suttacentral.net/mn36) còn đặt cuộc giác ngộ trong một cấu trúc ba minh và sự nhận ra giải thoát. Người đọc hiện đại có thể tiếp nhận cấu trúc ấy theo đức tin, tạm treo phán đoán, hoặc nghiên cứu như ngôn ngữ tôn giáo của văn bản. Phương pháp lịch sử không thể xác nhận trực tiếp một kinh nghiệm nội tâm cổ đại, càng không thể dùng khoa học tự nhiên để chứng minh nó. Nhưng ta có thể xác định chức năng của lời kể: nó tuyên bố rằng vấn đề được giải quyết nhờ hiểu biết và đoạn trừ các lậu hoặc, chứ không nhờ địa vị, nghi lễ hay tự hành xác.
 
-> [!quote] Nguồn Kinh dễ hiểu
-> **Tên dễ hiểu:** Những ngày cuối của Đức Phật
-> **Nằm ở đâu:** *Mahāparinibbāna Sutta*, bài 16 của Trường Bộ Kinh (*Dīgha Nikāya*)
-> **Đoạn này nói gì:** Đức Phật nói với Ānanda rằng sau khi Ngài qua đời, Pháp và Luật đã được giảng dạy, quy định sẽ là người thầy của cộng đồng.
-> **Mã kiểm chứng:** [`DN 16`, đoạn 6.1.2–6.1.5](https://suttacentral.net/dn16)
-> **Pāli gốc:** *“siyā kho panānanda, tumhākaṁ evamassa: ‘atītasatthukaṁ pāvacanaṁ, natthi no satthā’ti. Na kho panetaṁ, ānanda, evaṁ daṭṭhabbaṁ. Yo vo, ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena satthā.*
-> **Dịch sát nghĩa:** Này Ānanda, các ông có thể nghĩ: “Lời dạy đã mất thầy; chúng ta không còn thầy.” Không nên nhìn như vậy. Pháp và Luật ta đã dạy và quy định sẽ là thầy của các ông sau khi ta qua đời.
-> **Nói nôm na:** Cộng đồng không phải sống bằng việc bám vào một cá nhân mãi mãi; lời dạy và kỷ luật mới là tiêu chuẩn tiếp tục.
-> **Vì sao dùng ở đây:** Đoạn này hỗ trợ phần giải thích cách cộng đồng sớm hiểu sự tiếp nối sau cái chết của người thầy lịch sử.
+> [!quote] Kinh về những ngày cuối của Đức Phật — Trường Bộ Kinh
+> Đức Phật nói với Ānanda rằng sau khi Ngài qua đời, Pháp và Luật đã được giảng dạy, quy định sẽ là người thầy của cộng đồng.
+>
+> **Pāli**
+> *“siyā kho panānanda, tumhākaṁ evamassa: ‘atītasatthukaṁ pāvacanaṁ, natthi no satthā’ti. Na kho panetaṁ, ānanda, evaṁ daṭṭhabbaṁ. Yo vo, ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena satthā.*
+>
+> **Dịch Việt**
+> Này Ānanda, các ông có thể nghĩ: “Lời dạy đã mất thầy; chúng ta không còn thầy.” Không nên nhìn như vậy. Pháp và Luật ta đã dạy và quy định sẽ là thầy của các ông sau khi ta qua đời.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/dn16">DN 16, đoạn 6.1.2–6.1.5</a> · <i>Mahāparinibbāna Sutta</i></small>
 
 [Những ngày cuối của Đức Phật — Trường Bộ Kinh](https://suttacentral.net/dn16) mở cửa sổ thứ ba: ký ức văn chương về hành trình cuối, lời dạy cuối, việc qua đời, tang lễ và phân chia xá-lợi. **Parinibbāna — đọc gần đúng “pa-ri-níp-ba-na” — sự Niết-bàn hoàn toàn khi một bậc giải thoát qua đời** là thuật ngữ truyền thống; nó không nên bị giản lược thành “chết” nhưng cũng không cho phép ta mô tả một nơi chốn sau chết. [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16) là văn bản nhiều tầng và có mục đích cộng đồng rõ rệt. Nó lưu những địa danh, thiết chế và mối quan tâm có thể hữu ích cho lịch sử, song không phải biên bản do một nhân chứng chép liên tục trong chuyến đi.
 
