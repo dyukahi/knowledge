@@ -71,14 +71,14 @@ Một bản đồ tốt phải trả lời bốn câu: mỗi tạng làm gì; nh
 
 Nhiều bài Kinh mở bằng công thức **evaṃ me sutaṃ — đọc gần đúng “ê-văm mê su-tăm” — tôi đã được nghe như vầy**. Công thức đặt lời kể trong một chuỗi nghe và truyền, không phải tuyên bố người đọc đang cầm bản thảo do Phật viết. Các đoạn lặp, danh sách số, cấu trúc đối xứng và cụm từ cố định hỗ trợ ghi nhớ. Nhóm tụng đọc có thể sửa lỗi cá nhân; phân công theo bộ giúp xây chuyên môn. “Truyền khẩu” ở đây là một công nghệ xã hội.
 
-> [!quote] Tăng chúng bắt đầu tụng đọc Luật — Luật tạng Theravāda
-> Luật tạng kể việc Tôn giả Mahākassapa trình với Tăng chúng và chuẩn bị hỏi Tôn giả Upāli về Luật.
+> [!quote] Mahākassapa trình với Tăng chúng — Luật tạng Theravāda
+> Luật tạng mở cảnh tụng đọc tập thể bằng việc Tôn giả Mahākassapa chính thức trình với Tăng chúng và mời hội chúng lắng nghe.
 >
 > **Pāli**
 > *Atha kho āyasmā mahākassapo saṅghaṁ ñāpesi— “Suṇātu me, āvuso, saṅgho.*
 >
 > **Dịch Việt**
-> Bấy giờ Tôn giả Mahākassapa trình với Tăng chúng: “Xin Tăng chúng lắng nghe. Nếu Tăng chúng thấy đã đến lúc, tôi sẽ hỏi Upāli về Luật.”
+> Bấy giờ Tôn giả Mahākassapa trình với Tăng chúng: “Xin các hiền giả trong Tăng chúng lắng nghe.”
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/pli-tv-kd21">Cullavagga XI, 1.7.1–1.7.2</a> · <i>Cullavagga XI</i></small>
 
