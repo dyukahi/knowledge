@@ -105,10 +105,10 @@ related:
 
 | # | Bài | Trạng thái |
 |---:|---|---|
-| 33 | Vi Diệu Pháp Nhập Môn — Tâm, Tâm Sở, Sắc, Nibbāna | Đã có nguồn neo |
-| 34 | Tâm Sở Và Sát-na Tâm — Bản Đồ Vi Mô Của Kinh Nghiệm | Đã có nguồn neo |
-| 35 | Paṭṭhāna — Hai Mươi Bốn Duyên Và Mạng Điều Kiện | Đã có nguồn neo |
-| 36 | Theravāda Và Khoa Học Hiện Đại — Điểm Gặp, Giới Hạn Và Lối Tắt Sai | Đã có nguồn neo |
+| 33 | Vi Diệu Pháp Nhập Môn — Tâm, Tâm Sở, Sắc, Nibbāna | Đã xuất bản |
+| 34 | Tâm Sở Và Sát-na Tâm — Bản Đồ Vi Mô Của Kinh Nghiệm | Đã xuất bản |
+| 35 | Paṭṭhāna — Hai Mươi Bốn Duyên Và Mạng Điều Kiện | Đã xuất bản |
+| 36 | Theravāda Và Khoa Học Hiện Đại — Điểm Gặp, Giới Hạn Và Lối Tắt Sai | Đã xuất bản |
 
 ---
 

@@ -1,0 +1,109 @@
+{
+  "schema": "theravada-science-evidence-ledger.v1",
+  "access_date": "2026-08-20",
+  "scope": "Lesson 36 only; bounded health, cognitive, methodological, and adverse-event claims",
+  "non_claims": [
+    "No source validates kamma, rebirth, 31 realms, Nibbāna, Abhidhamma mind moments, or Buddhist cosmology.",
+    "Neural correlates are not identity claims and do not prove or disprove anattā.",
+    "Conceptual resonance is not empirical confirmation."
+  ],
+  "sources": [
+    {
+      "id": "goyal-2014",
+      "citation": "Goyal M, et al. Meditation Programs for Psychological Stress and Well-being: A Systematic Review and Meta-analysis. JAMA Internal Medicine. 2014;174(3):357–368.",
+      "doi": "10.1001/jamainternmed.2013.13018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24395196/",
+      "evidence_role": "bounded evidence for some anxiety, depression, and pain outcomes; not universal efficacy",
+      "license_status": "standard journal copyright; citation and paraphrase only",
+      "pubmed_metadata_verified": true,
+      "pmid": "24395196",
+      "verified_title": "Meditation programs for psychological stress and well-being: a systematic review and meta-analysis.",
+      "verified_authors": [
+        "Goyal M",
+        "Singh S",
+        "Sibinga EM",
+        "Gould NF",
+        "Rowland-Seymour A",
+        "Sharma R",
+        "Berger Z",
+        "Sleicher D",
+        "Maron DD",
+        "Shihab HM",
+        "Ranasinghe PD",
+        "Linn S",
+        "Saha S",
+        "Bass EB",
+        "Haythornthwaite JA"
+      ],
+      "verified_pubdate": "2014 Mar",
+      "verified_journal": "JAMA Intern Med"
+    },
+    {
+      "id": "tang-holzel-posner-2015",
+      "citation": "Tang YY, Hölzel BK, Posner MI. The neuroscience of mindfulness meditation. Nature Reviews Neuroscience. 2015;16:213–225.",
+      "doi": "10.1038/nrn3916",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25783612/",
+      "evidence_role": "review of proposed neural mechanisms and correlates, with methodological limitations",
+      "license_status": "standard journal copyright; citation and paraphrase only",
+      "pubmed_metadata_verified": true,
+      "pmid": "25783612",
+      "verified_title": "The neuroscience of mindfulness meditation.",
+      "verified_authors": [
+        "Tang YY",
+        "Hölzel BK",
+        "Posner MI"
+      ],
+      "verified_pubdate": "2015 Apr",
+      "verified_journal": "Nat Rev Neurosci"
+    },
+    {
+      "id": "van-dam-2018",
+      "citation": "Van Dam NT, et al. Mind the Hype: A Critical Evaluation and Prescriptive Agenda for Research on Mindfulness and Meditation. Perspectives on Psychological Science. 2018;13(1):36–61.",
+      "doi": "10.1177/1745691617709589",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29016274/",
+      "evidence_role": "methodological critique: construct ambiguity, weak controls, selective reporting, and overclaiming",
+      "license_status": "standard journal copyright; citation and paraphrase only",
+      "pubmed_metadata_verified": true,
+      "pmid": "29016274",
+      "verified_title": "Mind the Hype: A Critical Evaluation and Prescriptive Agenda for Research on Mindfulness and Meditation.",
+      "verified_authors": [
+        "Van Dam NT",
+        "van Vugt MK",
+        "Vago DR",
+        "Schmalzl L",
+        "Saron CD",
+        "Olendzki A",
+        "Meissner T",
+        "Lazar SW",
+        "Kerr CE",
+        "Gorchov J",
+        "Fox KCR",
+        "Field BA",
+        "Britton WB",
+        "Brefczynski-Lewis JA",
+        "Meyer DE"
+      ],
+      "verified_pubdate": "2018 Jan",
+      "verified_journal": "Perspect Psychol Sci"
+    },
+    {
+      "id": "farias-2020",
+      "citation": "Farias M, Maraldi E, Wallenkampf KC, Lucchetti G. Adverse events in meditation practices and meditation-based therapies: a systematic review. Acta Psychiatrica Scandinavica. 2020;142(5):374–393.",
+      "doi": "10.1111/acps.13225",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32820538/",
+      "evidence_role": "systematic review documenting meditation-related adverse events and the need for safety reporting",
+      "license_status": "standard journal copyright; citation and paraphrase only",
+      "pubmed_metadata_verified": true,
+      "pmid": "32820538",
+      "verified_title": "Adverse events in meditation practices and meditation-based therapies: a systematic review.",
+      "verified_authors": [
+        "Farias M",
+        "Maraldi E",
+        "Wallenkampf KC",
+        "Lucchetti G"
+      ],
+      "verified_pubdate": "2020 Nov",
+      "verified_journal": "Acta Psychiatr Scand"
+    }
+  ]
+}

@@ -6,6 +6,9 @@ date: 2026-04-05
 tags: [esoterica]
 status: refined
 ---
+
+> [!warning] Cầu nối xuất xứ
+> Bài này giữ lăng kính huyền học/so sánh. Với bản đồ nguồn Theravāda, đọc [[29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc]], [[30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ]] và [[32 - Nibbāna - Không Phải Cõi Thứ 32]]. Khoa học hiện đại không xác nhận các cõi hoặc Nibbāna.
 # Vũ Trụ Học Phật Giáo
 
 **Vũ Trụ Học Phật Giáo** không chỉ là bản đồ "trời đất" theo nghĩa vật lý. Nó là một cấu trúc biểu tượng - đạo đức - tâm thức mô tả các cõi tồn tại, chu kỳ thành trụ hoại không, nghiệp, tái sinh và vị trí đặc biệt của cõi người. Đọc đúng, nó không cần cạnh tranh trực tiếp với textbook thiên văn. Nó trả lời một câu hỏi khác: ý thức sa xuống vật chất như thế nào, và làm sao thoát khỏi vòng lặp đó?

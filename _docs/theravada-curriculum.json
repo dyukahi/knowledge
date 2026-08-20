@@ -721,7 +721,7 @@
       "module_slug": "abhidhamma-modern-bridges",
       "canonical_role": "abhidhamma-foundations",
       "title": "Vi Diệu Pháp Nhập Môn — Tâm, Tâm Sở, Sắc, Nibbāna",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         3,
         11,
@@ -734,7 +734,8 @@
       "provenance": [
         "abhidhamma",
         "historical-scholarship"
-      ]
+      ],
+      "path": "theravada/33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna.md"
     },
     {
       "lesson": 34,
@@ -742,7 +743,7 @@
       "module_slug": "abhidhamma-modern-bridges",
       "canonical_role": "citta-cetasika-mind-moments",
       "title": "Tâm Sở Và Sát-na Tâm — Bản Đồ Vi Mô Của Kinh Nghiệm",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         33
       ],
@@ -753,7 +754,8 @@
       "provenance": [
         "abhidhamma",
         "commentary"
-      ]
+      ],
+      "path": "theravada/34 - Tâm Sở Và Sát-na Tâm - Bản Đồ Vi Mô Của Kinh Nghiệm.md"
     },
     {
       "lesson": 35,
@@ -761,7 +763,7 @@
       "module_slug": "abhidhamma-modern-bridges",
       "canonical_role": "patthana-twenty-four-conditions",
       "title": "Paṭṭhāna — Hai Mươi Bốn Duyên Và Mạng Điều Kiện",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         33,
         34
@@ -772,7 +774,8 @@
       "provenance": [
         "abhidhamma",
         "commentary"
-      ]
+      ],
+      "path": "theravada/35 - Paṭṭhāna - Hai Mươi Bốn Duyên Và Mạng Điều Kiện.md"
     },
     {
       "lesson": 36,
@@ -780,7 +783,7 @@
       "module_slug": "abhidhamma-modern-bridges",
       "canonical_role": "theravada-modern-science",
       "title": "Theravāda Và Khoa Học Hiện Đại — Điểm Gặp, Giới Hạn Và Lối Tắt Sai",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         4,
         15,
@@ -791,7 +794,8 @@
       "provenance": [
         "science-comparison",
         "historical-scholarship"
-      ]
+      ],
+      "path": "theravada/36 - Theravāda Và Khoa Học Hiện Đại - Điểm Gặp, Giới Hạn Và Lối Tắt Sai.md"
     }
   ]
 }

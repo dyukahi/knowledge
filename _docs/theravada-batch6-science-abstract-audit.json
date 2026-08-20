@@ -1,0 +1,56 @@
+{
+  "schema": "science-abstract-audit.v1",
+  "access_date": "2026-08-20",
+  "rows": [
+    {
+      "pmid": "24395196",
+      "efetch_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24395196&retmode=xml",
+      "abstract_sha256": "4093b61cafa3e847be22b68f09e8b32b17d4703a2cfe2e0e517499c478e94db2",
+      "abstract_length": 2457,
+      "abstract_verified": true
+    },
+    {
+      "pmid": "25783612",
+      "efetch_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=25783612&retmode=xml",
+      "abstract_sha256": "b397a541c5c78d1fe225aaf83409453c593a50939c21965ff118b98497986d73",
+      "abstract_length": 638,
+      "abstract_verified": true
+    },
+    {
+      "pmid": "29016274",
+      "efetch_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=29016274&retmode=xml",
+      "abstract_sha256": "052e7cc2696a90e0854b89e827241795263fe7e1ab0b481fa859e5cc1e626b7e",
+      "abstract_length": 1409,
+      "abstract_verified": true
+    },
+    {
+      "pmid": "32820538",
+      "efetch_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32820538&retmode=xml",
+      "abstract_sha256": "c23e5c32252f723f98f85864b06d2a12e67493386ef8c5c47cbce4bff2c04215",
+      "abstract_length": 1616,
+      "abstract_verified": true
+    }
+  ],
+  "claim_verdicts": [
+    {
+      "pmid": "24395196",
+      "pass": true,
+      "supported": "systematic review/meta-analysis supports bounded symptom claims; no universal cure claim"
+    },
+    {
+      "pmid": "25783612",
+      "pass": true,
+      "supported": "review discusses proposed neural mechanisms/correlates; not primary causal evidence"
+    },
+    {
+      "pmid": "29016274",
+      "pass": true,
+      "supported": "critical review supports methodological caution and anti-hype claims"
+    },
+    {
+      "pmid": "32820538",
+      "pass": true,
+      "supported": "systematic review supports existence/heterogeneity of adverse events; not broad causal prevalence claim"
+    }
+  ]
+}

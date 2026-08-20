@@ -151,6 +151,6 @@ Nếu thực hành làm giảm ngủ, tăng hoảng, hưng cảm, phân ly hoặ
 
 **Điều gì chưa được chứng minh?** Khoa học chưa chứng minh Nibbāna là nơi, năng lượng, chiều không gian hay trạng thái não; cũng chưa chứng minh hoặc bác bỏ vô vi bằng thiết bị hiện có. Trải nghiệm thiền cá nhân không đủ làm bằng chứng phổ quát. Bài không tuyên bố biết điều nằm ngoài các giới hạn nguồn ấy.
 
-Đọc trước: [[31 - Bốn Thánh Quả Và Mười Kiết Sử]]. Đọc tiếp: 33 — bản thảo tiếp theo chưa xuất bản.
+Đọc trước: [[31 - Bốn Thánh Quả Và Mười Kiết Sử]]. Đọc tiếp: [[33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna]].
 
 **Nguồn và giấy phép:** Pāli lấy theo đúng segment ID từ Bilara/SuttaCentral, nhánh `published`, root Pāli MS, truy cập ngày 2026-08-20: Ud 8.3 (`ud8.3:3.1–3.2`), Iti 44 (`iti44:2.1`, `2.3`), SN 43.1 (`sn43.1:1.2`, `1.5`). Các bản dịch tiếng Việt ngay dưới Pāli là bản dịch làm việc nguyên gốc của redpill.wiki, không sao chép bản dịch hiện đại. Trạng thái kiểm tra giấy phép toàn bộ nguồn vẫn là `source_license_checked: true`; vì vậy bài chỉ trích root Pāli và chưa tái bản bản dịch bên thứ ba.

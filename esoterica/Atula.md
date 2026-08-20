@@ -13,6 +13,9 @@ related:
   - "[[Thông Minh vs Trí Tuệ]]"
   - "[[AI]]"
 ---
+
+> [!warning] Cầu nối xuất xứ
+> Bài này là lăng kính esoterica. Phần phân biệt A-tu-la trong Kinh sớm với vị trí trong hệ thống hậu kỳ nằm tại [[30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ]].
 # Atula / Asura (A-tu-la)
 
 **Atula là archetype của quyền lực có phước nhưng thiếu an định: mạnh, thông minh, tham vọng, hiếu thắng, nhưng bị ganh tị và chiến tranh nội tâm kéo đi.** Trong vault, Atula không chỉ là một "cõi" trong [[Luân Hồi]], mà là mô hình đọc phần Asura trong cá nhân, tổ chức, quốc gia và cả nền văn minh kỹ trị.

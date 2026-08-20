@@ -90,6 +90,15 @@ Batch 4 là học phần thực hành, có ranh giới an toàn, y khoa và dòn
 
 Batch 5 tách rõ vũ trụ luận Kinh sớm, hệ thống hóa Abhidhamma/chú giải và mục tiêu giải thoát; Nibbāna không bị xếp thành cõi thứ 32.
 
+## Batch 6 — Đã Xuất Bản
+
+1. [[33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna]]
+2. [[34 - Tâm Sở Và Sát-na Tâm - Bản Đồ Vi Mô Của Kinh Nghiệm]]
+3. [[35 - Paṭṭhāna - Hai Mươi Bốn Duyên Và Mạng Điều Kiện]]
+4. [[36 - Theravāda Và Khoa Học Hiện Đại - Điểm Gặp, Giới Hạn Và Lối Tắt Sai]]
+
+Batch 6 hoàn tất chương trình bằng cách tách Abhidhamma canonical, sách thủ bản/chú giải và đối chiếu khoa học. Tương quan khoa học không được dùng làm bằng chứng cho nghiệp, tái sinh, vũ trụ luận hay Nibbāna.
+
 ---
 
 ## Bắt Đầu Ở Đâu?

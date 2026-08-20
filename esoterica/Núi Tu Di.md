@@ -13,6 +13,9 @@ related:
   - "[[Long Mạch]]"
   - "[[Tartaria]]"
 ---
+
+> [!warning] Cầu nối xuất xứ
+> Hãy đọc bài này như vũ trụ luận biểu tượng/so sánh. Domain Theravāda giữ thẩm quyền nguồn ở [[29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc]] và [[30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ]]. Không dùng thiên văn học hay vật lý làm bằng chứng cho mô hình.
 # Núi Tu Di (Mount Meru)
 
 **Núi Tu Di là axis mundi: trục giữa trời, đất và các tầng cõi trong vũ trụ học Phật giáo, Hindu và Jain.** Đọc nông thì hỏi "nó ở đâu trên bản đồ?" Đọc sâu hơn thì hỏi: vì sao gần như mọi truyền thống đều cần một trung tâm vũ trụ để tổ chức không gian, quyền lực, nghi lễ và thân người?

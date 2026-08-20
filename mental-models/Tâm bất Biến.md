@@ -6,6 +6,9 @@ date: 2026-04-08
 tags: [mental-model]
 status: refined
 ---
+
+> [!warning] Cầu nối xuất xứ
+> “Tâm bất biến” ở đây là mental model, không phải tuyên bố Kinh Pāli về một linh hồn hay tâm thường hằng. Đối chiếu [[33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna]], [[34 - Tâm Sở Và Sát-na Tâm - Bản Đồ Vi Mô Của Kinh Nghiệm]] và [[36 - Theravāda Và Khoa Học Hiện Đại - Điểm Gặp, Giới Hạn Và Lối Tắt Sai]].
 # Tâm Bất Biến (Equanimity / Upekkhā)
 
 **Tâm Bất Biến không phải là không cảm thấy gì. Nó là khả năng cảm thấy đầy đủ mà không để cơn sóng bên trong cướp tay lái.** Người có tâm bất biến vẫn đau, vẫn thương, vẫn giận, vẫn hành động; khác biệt là họ không để phản ứng đầu tiên trở thành mệnh lệnh cuối cùng.

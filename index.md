@@ -39,14 +39,14 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | Domain | Count | Vai trò trong vault |
 |---|---:|---|
 | 🔮 **Esoterica** | 76 | metaphysics, occult, ancient civilizations, spiritual pattern |
-| ☸️ **Theravāda** | 37 | Kinh tạng Pāli, giáo lý, thực hành, Vi Diệu Pháp, provenance |
+| ☸️ **Theravāda** | 41 | Kinh tạng Pāli, giáo lý, thực hành, Vi Diệu Pháp, provenance |
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
 | 🧩 **Mental Models** | 44 | nhận thức, tâm lý học, framework để đọc reality |
 | 🏛️ **Politics & Conspiracy** | 27 | power structure, controlled narrative, geopolitics |
 | 🔬 **Science & Tech** | 20 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 278 notes / bài viết.
+**Total:** 282 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---

@@ -1,0 +1,225 @@
+{
+  "schema": "redpill.theravada.batch-sources.v2",
+  "batch": 6,
+  "access_date": "2026-08-20",
+  "translation_policy": "Original Vietnamese working translations from exact Bilara Pāli. Copyrighted English editions and scientific papers are citation/reference-only and paraphrased.",
+  "source_editions": [
+    {
+      "id": "bilara-pali-ms",
+      "edition": "SuttaCentral Bilara root Pāli text, including Nikāya and supported Abhidhamma files",
+      "license_status": "Creative Commons CC0 1.0 Public Domain Dedication",
+      "license_url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/LICENSE.md",
+      "url": "https://github.com/suttacentral/bilara-data",
+      "allowed_use": "quotation, verification, adaptation, and original translation"
+    },
+    {
+      "id": "cma-bodhi",
+      "edition": "A Comprehensive Manual of Abhidhamma: The Abhidhammattha Sangaha of Ācariya Anuruddha",
+      "editor_translator": "Bhikkhu Bodhi, general editor/reviser; Pāli text and translation by Mahāthera Nārada",
+      "publisher": "Buddhist Publication Society / Pariyatti",
+      "license_status": "standard copyright",
+      "url": "https://www.pariyatti.com/bookstore/a-comprehensive-manual-of-abhidhamma",
+      "allowed_use": "bibliographic verification and paraphrase only; no copied English text",
+      "independent_structure_reference_url": "https://www.accesstoinsight.org/lib/authors/bodhi/abhiman.html",
+      "verified_locations": "Outline of the Sangaha: opening four realities; Chapter I consciousness; Chapter II fifty-two mental factors; Chapters IV–V cognitive processes; Chapter VI matter and Nibbana"
+    },
+    {
+      "id": "patthana-pts",
+      "edition": "Conditional Relations (Paṭṭhāna), 2-volume set",
+      "translator": "U Nārada (Mūla Paṭṭhāna Sayadaw), assisted by Thein Nyun",
+      "publisher": "Pali Text Society",
+      "license_status": "standard copyright",
+      "url": "https://palitextsociety.org/product/conditional-relations-2-volume-set/",
+      "allowed_use": "bibliographic verification and paraphrase only; no copied English text",
+      "independent_structure_reference_url": "https://www.accesstoinsight.org/lib/authors/bodhi/abhiman.html",
+      "verified_scope": "Introduction independently states Paṭṭhāna contributes a set of twenty-four conditional relations and applies them to the Abhidhamma matrix; article retains traditional-enumeration wording and does not claim an exact PTS page."
+    },
+    {
+      "id": "batch6-science-ledger",
+      "edition": "Peer-reviewed science evidence ledger in _docs/theravada-batch6-science-evidence.json",
+      "license_status": "per-journal standard copyright",
+      "allowed_use": "citation and paraphrase only",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "abstract_audit": "theravada-batch6-science-abstract-audit.json; 4/4 PubMed abstracts fetched and claim-bounded"
+    }
+  ],
+  "lessons": [
+    {
+      "lesson": 33,
+      "license_checked": true,
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "reference_sources": [
+        "cma-bodhi"
+      ],
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/ds1.1/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/ud8.3/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/vb1/sujato?lang=en"
+      ],
+      "verification": "3/3 exact normalized Bilara blocks; Vietnamese translation/placement reviewed",
+      "allowed_use": "CC0 Pāli root and original Vietnamese translation; copyrighted references paraphrased only",
+      "claim_segment_map": [
+        {
+          "discourse": "ds1.1",
+          "segments": [
+            "ds1.1:1.1",
+            "ds1.1:2.1",
+            "ds1.1:3.1"
+          ],
+          "raw_sha256": "fe08f8f5fbff19e689a72a97a999f5772499c8f0840bf2a03ba29b673851436b",
+          "normalized_sha256": "4f9ba8c05630c49297ad517e0102b827761de521f415ff3a6922631f8d7f0e6d",
+          "exact_match": true
+        },
+        {
+          "discourse": "vb1",
+          "segments": [
+            "vb1:2.1",
+            "vb1:2.2"
+          ],
+          "raw_sha256": "14faacecb6d6cd1fddaa13cd29019578e8c56aa09f97b8c4701ce39bd587a3bb",
+          "normalized_sha256": "14faacecb6d6cd1fddaa13cd29019578e8c56aa09f97b8c4701ce39bd587a3bb",
+          "exact_match": true
+        },
+        {
+          "discourse": "ud8.3",
+          "segments": [
+            "ud8.3:3.1",
+            "ud8.3:3.2"
+          ],
+          "raw_sha256": "3eb08bfd035e8f040f9d3f418cdc50664cc2111f2497dfcfd3d0315d59da2f51",
+          "normalized_sha256": "3eb08bfd035e8f040f9d3f418cdc50664cc2111f2497dfcfd3d0315d59da2f51",
+          "exact_match": true
+        }
+      ]
+    },
+    {
+      "lesson": 34,
+      "license_checked": true,
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "reference_sources": [
+        "cma-bodhi"
+      ],
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/ds1.1/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/mn111/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/sn12.61/sujato?lang=en"
+      ],
+      "verification": "3/3 exact normalized Bilara blocks; Vietnamese translation/placement reviewed",
+      "allowed_use": "CC0 Pāli root and original Vietnamese translation; copyrighted references paraphrased only",
+      "claim_segment_map": [
+        {
+          "discourse": "mn111",
+          "segments": [
+            "mn111:4.1"
+          ],
+          "raw_sha256": "77681cfdee65e46b403b7a5f327ea1aaa51f2b79d0e74812a624a6ac16f25993",
+          "normalized_sha256": "77681cfdee65e46b403b7a5f327ea1aaa51f2b79d0e74812a624a6ac16f25993",
+          "exact_match": true
+        },
+        {
+          "discourse": "ds1.1",
+          "segments": [
+            "ds1.1:16.1",
+            "ds1.1:17.1",
+            "ds1.1:18.1"
+          ],
+          "raw_sha256": "8cb6a73d99b1794b7b63f5657d26326af7e8bf34baed21c8ec905e0b1b208555",
+          "normalized_sha256": "fff9e5d409f348759372cd2d199de7adc6c51904dcc8d1c0a7a2e34d8b04e861",
+          "exact_match": true
+        },
+        {
+          "discourse": "sn12.61",
+          "segments": [
+            "sn12.61:4.1",
+            "sn12.61:4.3"
+          ],
+          "raw_sha256": "d58af2517312fe2dcd96b2c1364f16aba2ca601c1dba203d97139f0598ce2f18",
+          "normalized_sha256": "d58af2517312fe2dcd96b2c1364f16aba2ca601c1dba203d97139f0598ce2f18",
+          "exact_match": true
+        }
+      ]
+    },
+    {
+      "lesson": 35,
+      "license_checked": true,
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "reference_sources": [
+        "patthana-pts"
+      ],
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/sn12.20/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/sn12.23/sujato?lang=en"
+      ],
+      "verification": "2/2 exact normalized Bilara blocks; Vietnamese translation/placement reviewed",
+      "allowed_use": "CC0 Pāli root and original Vietnamese translation; copyrighted references paraphrased only",
+      "claim_segment_map": [
+        {
+          "discourse": "sn12.20",
+          "segments": [
+            "sn12.20:2.3",
+            "sn12.20:3.16"
+          ],
+          "raw_sha256": "c2a10972c6e99ff064773c4a6b11f69c147b9a30101c3cfccc5602ac05c3bf5f",
+          "normalized_sha256": "c2a10972c6e99ff064773c4a6b11f69c147b9a30101c3cfccc5602ac05c3bf5f",
+          "exact_match": true
+        },
+        {
+          "discourse": "sn12.23",
+          "segments": [
+            "sn12.23:8.1"
+          ],
+          "raw_sha256": "b9471b672fa67656d612fc3c13a6f7c9f73a88d013e5e94f4082200f2d59349a",
+          "normalized_sha256": "b9471b672fa67656d612fc3c13a6f7c9f73a88d013e5e94f4082200f2d59349a",
+          "exact_match": true
+        }
+      ]
+    },
+    {
+      "lesson": 36,
+      "license_checked": true,
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "reference_sources": [
+        "batch6-science-ledger"
+      ],
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/an3.65/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/sn22.59/sujato?lang=en"
+      ],
+      "verification": "2/2 exact normalized Bilara blocks; Vietnamese translation/placement reviewed",
+      "allowed_use": "CC0 Pāli root and original Vietnamese translation; copyrighted references paraphrased only",
+      "claim_segment_map": [
+        {
+          "discourse": "an3.65",
+          "segments": [
+            "an3.65:4.1",
+            "an3.65:4.2",
+            "an3.65:4.3"
+          ],
+          "raw_sha256": "497c16448d0b94675adb6fb315a0314270e0665d9a96a4fbbd348a9018908853",
+          "normalized_sha256": "497c16448d0b94675adb6fb315a0314270e0665d9a96a4fbbd348a9018908853",
+          "exact_match": true
+        },
+        {
+          "discourse": "sn22.59",
+          "segments": [
+            "sn22.59:2.1",
+            "sn22.59:2.4",
+            "sn22.59:2.5"
+          ],
+          "raw_sha256": "6fd40e48f944a94011df55dc4fae88e23940cc88500a91d33ffc95e667f86309",
+          "normalized_sha256": "6fd40e48f944a94011df55dc4fae88e23940cc88500a91d33ffc95e667f86309",
+          "exact_match": true
+        }
+      ],
+      "science_evidence_ledger": "theravada-batch6-science-evidence.json; PubMed metadata verified for4/4 sources"
+    }
+  ]
+}

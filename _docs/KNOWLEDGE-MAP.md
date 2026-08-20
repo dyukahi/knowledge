@@ -4,12 +4,12 @@
 
 ## Snapshot
 
-- **Notes scanned:** 280
+- **Notes scanned:** 285
 - **Top-level domains:** 9
 - **Tags detected:** 308
-- **Resolved internal edges:** 2430
+- **Resolved internal edges:** 2452
 - **Broken/unresolved links:** 0
-- **Orphan notes:** 18
+- **Orphan notes:** 19
 
 ## Zettelkasten Reading
 
@@ -55,21 +55,21 @@ Recommended note types:
 - [[mental-models/Mô Hình Địa Tâm|Mô Hình Địa Tâm (Geocentrism)]] — degree `23`, backlinks `17`, outlinks `6` — #cosmology, #esoterica, #mental-model, #science-tech
 - … 32 more notes in this domain. See JSON for full list.
 
-### theravada `theravada` — 37 notes
+### theravada `theravada` — 41 notes
 
-- [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — degree `45`, backlinks `4`, outlinks `41` — #kinh-tang, #pali, #phat-giao, #theravada
+- [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — degree `50`, backlinks `5`, outlinks `45` — #kinh-tang, #pali, #phat-giao, #theravada
+- [[theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ|Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ]] — degree `8`, backlinks `6`, outlinks `2`
 - [[theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ|Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ]] — degree `8`, backlinks `6`, outlinks `2`
 - [[theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường|Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]] — degree `8`, backlinks `6`, outlinks `2`
+- [[theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc|Bản Đồ 31 Cõi — 11 Dục, 16 Sắc, 4 Vô Sắc]] — degree `7`, backlinks `5`, outlinks `2`
 - [[theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng|Bản Sắc Được Kiến Tạo — Tôi Sinh Lại Trong Từng Phản Ứng]] — degree `6`, backlinks `4`, outlinks `2`
 - [[theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt|Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt]] — degree `6`, backlinks `4`, outlinks `2`
+- [[theravada/32 - Nibbāna - Không Phải Cõi Thứ 32|Nibbāna — Không Phải Cõi Thứ 32]] — degree `6`, backlinks `4`, outlinks `2`
 - [[theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm|Theravāda Là Gì — Truyền Thừa, Phạm Vi Và Những Hiểu Lầm]] — degree `6`, backlinks `4`, outlinks `2`
 - [[theravada/20 - Tái Sinh Mà Không Có Linh Hồn|Tái Sinh Mà Không Có Linh Hồn]] — degree `6`, backlinks `4`, outlinks `2`
-- [[theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống|Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống]] — degree `5`, backlinks `4`, outlinks `1`
-- [[theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc|Bản Đồ 31 Cõi — 11 Dục, 16 Sắc, 4 Vô Sắc]] — degree `5`, backlinks `3`, outlinks `2`
-- [[theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử|Bốn Thánh Quả Và Mười Kiết Sử]] — degree `5`, backlinks `3`, outlinks `2`
-- [[theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā|Bốn Tâm Vô Lượng Và Upekkhā]] — degree `5`, backlinks `3`, outlinks `2`
-- [[theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích|Bốn Tầng Thiền — Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích]] — degree `5`, backlinks `3`, outlinks `2`
-- … 25 more notes in this domain. See JSON for full list.
+- [[theravada/34 - Tâm Sở Và Sát-na Tâm - Bản Đồ Vi Mô Của Kinh Nghiệm|Tâm Sở Và Sát-na Tâm — Bản Đồ Vi Mô Của Kinh Nghiệm]] — degree `6`, backlinks `4`, outlinks `2`
+- [[theravada/33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna|Vi Diệu Pháp Nhập Môn — Tâm, Tâm Sở, Sắc, Nibbāna]] — degree `6`, backlinks `4`, outlinks `2`
+- … 29 more notes in this domain. See JSON for full list.
 
 ### Health / Sức khỏe `health` — 27 notes
 
@@ -119,6 +119,22 @@ Recommended note types:
 - [[science-tech/Walter Russell|Walter Russell]] — degree `12`, backlinks `6`, outlinks `6` — #science-tech
 - … 8 more notes in this domain. See JSON for full list.
 
+### Docs / Meta `_docs` — 18 notes
+
+- [[_docs/VAULT-95-PUBLICATION-RUBRIC|redpill.wiki 9.5 Publication Rubric]] — degree `29`, backlinks `0`, outlinks `29`
+- [[_docs/CONTENT-SEO-AUDIT|Content SEO Audit - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/SEO-BUILD-VALIDATION|SEO Build Validation]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/SEO-KEYWORD-MAP|SEO Keyword & Search-Intent Map - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/STRATEGY-EXECUTION-LOG|Strategy Execution Log]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/THERAVADA-BATCH1-VALIDATION|Theravāda Batch 1 Validation]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/THERAVADA-BATCH2-VALIDATION|Theravāda Batch 2 Validation]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/THERAVADA-BATCH3-VALIDATION|Theravāda Batch 3 Validation]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/THERAVADA-BATCH4-VALIDATION|Theravāda Batch 4 Validation]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/THERAVADA-BATCH5-VALIDATION|Theravāda Batch 5 Validation]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/THERAVADA-BATCH6-VALIDATION|Theravāda Batch 6 Validation]] — degree `0`, backlinks `0`, outlinks `0`
+- … 6 more notes in this domain. See JSON for full list.
+
 ### Crypto & Finance `crypto-finance` — 18 notes
 
 - [[crypto-finance/index|Crypto & Finance Domain Gateway]] — degree `37`, backlinks `3`, outlinks `34` — #crypto-finance, #domain-gateway, #financial-sovereignty
@@ -134,22 +150,6 @@ Recommended note types:
 - [[crypto-finance/Cantillon Effect - Ai Đứng Gần Vòi Tiền|Cantillon Effect - Ai Đứng Gần Vòi Tiền]] — degree `12`, backlinks `5`, outlinks `7` — #bitcoin, #cantillon-effect, #crypto-finance, #fiat, #financial-sovereignty
 - [[crypto-finance/Giàu Không Nhờ May Mắn|Giàu Không Nhờ May Mắn]] — degree `12`, backlinks `3`, outlinks `9` — #crypto-finance
 - … 6 more notes in this domain. See JSON for full list.
-
-### Docs / Meta `_docs` — 17 notes
-
-- [[_docs/VAULT-95-PUBLICATION-RUBRIC|redpill.wiki 9.5 Publication Rubric]] — degree `29`, backlinks `0`, outlinks `29`
-- [[_docs/CONTENT-SEO-AUDIT|Content SEO Audit - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
-- [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — degree `0`, backlinks `0`, outlinks `0`
-- [[_docs/SEO-BUILD-VALIDATION|SEO Build Validation]] — degree `0`, backlinks `0`, outlinks `0`
-- [[_docs/SEO-KEYWORD-MAP|SEO Keyword & Search-Intent Map - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
-- [[_docs/STRATEGY-EXECUTION-LOG|Strategy Execution Log]] — degree `0`, backlinks `0`, outlinks `0`
-- [[_docs/THERAVADA-BATCH1-VALIDATION|Theravāda Batch 1 Validation]] — degree `0`, backlinks `0`, outlinks `0`
-- [[_docs/THERAVADA-BATCH2-VALIDATION|Theravāda Batch 2 Validation]] — degree `0`, backlinks `0`, outlinks `0`
-- [[_docs/THERAVADA-BATCH3-VALIDATION|Theravāda Batch 3 Validation]] — degree `0`, backlinks `0`, outlinks `0`
-- [[_docs/THERAVADA-BATCH4-VALIDATION|Theravāda Batch 4 Validation]] — degree `0`, backlinks `0`, outlinks `0`
-- [[_docs/THERAVADA-BATCH5-VALIDATION|Theravāda Batch 5 Validation]] — degree `0`, backlinks `0`, outlinks `0`
-- [[_docs/THIN-PAGE-CLASSIFICATION|Thin Page Classification - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
-- … 5 more notes in this domain. See JSON for full list.
 
 ### root `root` — 14 notes
 
@@ -193,18 +193,18 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…
 11. [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `51` · backlinks `19` · outlinks `32`
    - **Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Trước khi tin hoặc phủ định bất kỳ điều gì, hãy nhận biết chính tiến trình thấy đang xảy ra.…
-12. [[mental-models/Individuation|Individuation]] — degree `48` · backlinks `40` · outlinks `8`
-   - **Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…
-13. [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `48` · backlinks `37` · outlinks `11`
-   - **Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…
-14. [[esoterica/index|Esoterica Domain Gateway]] — degree `48` · backlinks `4` · outlinks `44`
-   - **Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…
-15. [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `48` · backlinks `4` · outlinks `44`
-   - **Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng "âm…
-16. [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `47` · backlinks `14` · outlinks `33`
-   - **Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…
-17. [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — degree `45` · backlinks `4` · outlinks `41`
+12. [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — degree `50` · backlinks `5` · outlinks `45`
    - **Đây là một lộ trình học, không phải tuyển tập bài tâm linh rời rạc.** Người mới bắt đầu từ Đức Phật lịch sử, Tứ Thánh Đế và Bát Chánh Đạo; người đã có nền có thể đi sâu vào năm uẩn, duyên khởi, thiền, Vi Diệu Pháp, 31 cõi và Nibbāna.
+13. [[mental-models/Individuation|Individuation]] — degree `48` · backlinks `40` · outlinks `8`
+   - **Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…
+14. [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `48` · backlinks `37` · outlinks `11`
+   - **Y Tế Tự Nhiên không phải lời mời bỏ bệnh viện. Nó là quyền lấy lại phần chăm sóc cơ thể mà con người đã outsource quá lâu cho ngành dược, thực phẩm công nghiệp và nỗi sợ.** Tây y mạnh ở cấp cứu, chẩn đoán, phẫu thuật và can thiệp nguy kịch; nó yếu khi biến…
+15. [[esoterica/index|Esoterica Domain Gateway]] — degree `48` · backlinks `4` · outlinks `44`
+   - **Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…
+16. [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `48` · backlinks `4` · outlinks `44`
+   - **Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng "âm…
+17. [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `47` · backlinks `14` · outlinks `33`
+   - **Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…
 18. [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `43` · backlinks `34` · outlinks `9`
    - **Agenda 2030 không cần được đọc như một âm mưu cartoon. Nó đáng đọc như một hệ điều hành quản trị đang hiện hình qua các mảnh tưởng như rời rạc: khí hậu, y tế, tiền tệ số, danh tính số, thành phố thông minh, dữ liệu hành vi, ESG, AI governance và ngôn ngữ đạ…
 19. [[MOC - Financial Sovereignty|MOC - Financial Sovereignty]] — degree `43` · backlinks `19` · outlinks `24`
@@ -361,6 +361,7 @@ Orphans are not necessarily bad. In Zettelkasten terms, they are unfinished inte
 - [[_docs/THERAVADA-BATCH3-VALIDATION|Theravāda Batch 3 Validation]] — `_docs`
 - [[_docs/THERAVADA-BATCH4-VALIDATION|Theravāda Batch 4 Validation]] — `_docs`
 - [[_docs/THERAVADA-BATCH5-VALIDATION|Theravāda Batch 5 Validation]] — `_docs`
+- [[_docs/THERAVADA-BATCH6-VALIDATION|Theravāda Batch 6 Validation]] — `_docs`
 - [[_docs/THIN-PAGE-CLASSIFICATION|Thin Page Classification - redpill.wiki]] — `_docs`
 - [[_docs/VAULT-QC-AUDIT|Vault QC Audit]] — `_docs`
 - [[_docs/VAULT-QC-CHECKLIST|Vault QC Checklist]] — `_docs`

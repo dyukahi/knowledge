@@ -1,0 +1,185 @@
+{
+  "schema": "theravada-source-map.v1",
+  "batch": 6,
+  "access_date": "2026-08-20",
+  "policy": "Abhidhamma and commentary are named as their own provenance layers. Pāli blocks are reproduced only from exact Bilara IDs. Copyrighted English editions are reference-only and paraphrased. Science may test health or cognitive outcomes but cannot validate kamma, rebirth, cosmology, Nibbāna, or momentariness.",
+  "lessons": [
+    {
+      "lesson": 33,
+      "title": "Vi Diệu Pháp Nhập Môn — Tâm, Tâm Sở, Sắc, Nibbāna",
+      "claims": [
+        {
+          "claim": "Dhammasaṅgaṇī opens with wholesome, unwholesome, and indeterminate phenomena",
+          "layer": "abhidhamma-canonical",
+          "discourse": "ds1.1",
+          "segments": [
+            "ds1.1:1.1",
+            "ds1.1:2.1",
+            "ds1.1:3.1"
+          ]
+        },
+        {
+          "claim": "Vibhaṅga enumerates the five aggregates",
+          "layer": "abhidhamma-canonical",
+          "discourse": "vb1",
+          "segments": [
+            "vb1:2.1",
+            "vb1:2.2"
+          ]
+        },
+        {
+          "claim": "The unconditioned is an early-sutta anchor for Nibbāna",
+          "layer": "early-sutta",
+          "discourse": "ud8.3",
+          "segments": [
+            "ud8.3:3.1",
+            "ud8.3:3.2"
+          ]
+        },
+        {
+          "claim": "The fourfold citta–cetasika–rūpa–Nibbāna teaching map is a later pedagogical synthesis",
+          "layer": "manual-commentarial",
+          "source_id": "cma-bodhi",
+          "location": "Chapters I–II and VI; four ultimate realities overview",
+          "quote_policy": "paraphrase-only"
+        }
+      ]
+    },
+    {
+      "lesson": 34,
+      "title": "Tâm Sở Và Sát-na Tâm — Bản Đồ Vi Mô Của Kinh Nghiệm",
+      "claims": [
+        {
+          "claim": "MN 111 analyzes factors present in meditative consciousness",
+          "layer": "early-sutta",
+          "discourse": "mn111",
+          "segments": [
+            "mn111:4.1"
+          ]
+        },
+        {
+          "claim": "SN 12.61 describes mind/consciousness as arising and ceasing by night and day",
+          "layer": "early-sutta",
+          "discourse": "sn12.61",
+          "segments": [
+            "sn12.61:4.1",
+            "sn12.61:4.3"
+          ]
+        },
+        {
+          "claim": "Dhammasaṅgaṇī classifies phenomena by thought and investigation",
+          "layer": "abhidhamma-canonical",
+          "discourse": "ds1.1",
+          "segments": [
+            "ds1.1:16.1",
+            "ds1.1:17.1",
+            "ds1.1:18.1"
+          ]
+        },
+        {
+          "claim": "The 52-cetasika and detailed mind-moment combination scheme is a later manual systematization",
+          "layer": "manual-commentarial",
+          "source_id": "cma-bodhi",
+          "location": "Chapter II, Compendium of Mental Factors",
+          "quote_policy": "paraphrase-only"
+        }
+      ]
+    },
+    {
+      "lesson": 35,
+      "title": "Paṭṭhāna — Hai Mươi Bốn Duyên Và Mạng Điều Kiện",
+      "claims": [
+        {
+          "claim": "Specific conditionality remains whether or not a Tathāgata appears",
+          "layer": "early-sutta",
+          "discourse": "sn12.20",
+          "segments": [
+            "sn12.20:2.3",
+            "sn12.20:3.16"
+          ]
+        },
+        {
+          "claim": "SN 12.23 presents a non-linear supporting sequence from suffering through faith to liberation knowledge",
+          "layer": "early-sutta",
+          "discourse": "sn12.23",
+          "segments": [
+            "sn12.23:8.1"
+          ]
+        },
+        {
+          "claim": "Theravāda Paṭṭhāna tradition analyzes a standard set of 24 paccaya; this article presents the conventional list conservatively without claiming a machine-verified root-table location",
+          "layer": "abhidhamma-canonical",
+          "source_id": "patthana-pts",
+          "location": "Conditional Relations, Vol. I, introductory enumeration/Paccayaniddesa of conditions; exact page not independently locked",
+          "quote_policy": "bibliographic-paraphrase-only",
+          "conditions": [
+            "hetu",
+            "ārammaṇa",
+            "adhipati",
+            "anantara",
+            "samanantara",
+            "sahajāta",
+            "aññamañña",
+            "nissaya",
+            "upanissaya",
+            "purejāta",
+            "pacchājāta",
+            "āsevana",
+            "kamma",
+            "vipāka",
+            "āhāra",
+            "indriya",
+            "jhāna",
+            "magga",
+            "sampayutta",
+            "vippayutta",
+            "atthi",
+            "natthi",
+            "vigata",
+            "avigata"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 36,
+      "title": "Theravāda Và Khoa Học Hiện Đại — Điểm Gặp, Giới Hạn Và Lối Tắt Sai",
+      "claims": [
+        {
+          "claim": "AN 3.65 rejects reliance on tradition, inference, appearance, or teacher-status alone",
+          "layer": "early-sutta",
+          "discourse": "an3.65",
+          "segments": [
+            "an3.65:4.1",
+            "an3.65:4.2",
+            "an3.65:4.3"
+          ]
+        },
+        {
+          "claim": "SN 22.59 is an experiential no-self analysis, not a neuroscience claim",
+          "layer": "early-sutta",
+          "discourse": "sn22.59",
+          "segments": [
+            "sn22.59:2.1",
+            "sn22.59:2.4",
+            "sn22.59:2.5"
+          ]
+        },
+        {
+          "claim": "Meditation research supports bounded clinical/cognitive questions only",
+          "layer": "science-comparison",
+          "source_id": "batch6-science-ledger",
+          "quote_policy": "citation-and-paraphrase-only"
+        }
+      ]
+    }
+  ],
+  "acceptance_gates": [
+    "Do not attribute the fourfold ultimate-realities teaching map or 52-cetasika scheme directly to early suttas.",
+    "Do not claim neuroscience proves rapid mind moments or momentariness.",
+    "Do not quote a Paṭṭhāna root unless a stable licensed machine-readable edition is locked; use bibliography and paraphrase instead.",
+    "Do not use meditation benefits, brain imaging, quantum language, NDEs, or consciousness theories as proof of Buddhist metaphysics.",
+    "Keep source_license_checked false until exact-scripture, bibliography, semantic, and science-evidence audits pass."
+  ],
+  "bilara_normalization_policy": "Store raw segment hash; strip editorial HTML tags such as <b>...</b> deterministically; normalize surrounding whitespace only; compare the article Pāli to the stripped fetched text."
+}
