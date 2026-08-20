@@ -59,15 +59,16 @@ Bài này không tổ chức cuộc thi chọn một mô hình thắng tuyệt �
 
 [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) bắt đầu từ vô minh. **Avijjā — “a-vít-cha” — không biết Tứ Thánh Đế**; **saṅkhārā — “sang-kha-ra” — các hành thân, khẩu và tâm**; **viññāṇa — “vin-nha-na” — sáu loại thức**; **nāmarūpa — “na-ma ru-pa” — danh và sắc**, trong đó danh gồm thọ, tưởng, tư, xúc và tác ý; sáu xứ là sáu căn; xúc là sáu nhóm xúc; thọ và ái cũng phân sáu theo đối tượng.
 
-> [!quote] Nguồn Kinh dễ hiểu
-> **Tên dễ hiểu:** Định nghĩa các mắt xích duyên khởi
-> **Nằm ở đâu:** *Vibhaṅga Sutta*, bài 12.2 của Tương Ưng Bộ Kinh (*Saṁyutta Nikāya*)
-> **Đoạn này nói gì:** Đoạn mở đầu nêu hai mắt xích: vô minh làm duyên cho các hành, và các hành làm duyên cho thức.
-> **Mã kiểm chứng:** [`SN 12.2`, đoạn `sn12.2:2.2–2.3`](https://suttacentral.net/sn12.2)
-> **Pāli gốc:** *Avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṁ;*
-> **Dịch sát nghĩa:** Này các tỳ-kheo, do vô minh làm duyên nên có các hành; do các hành làm duyên nên có thức.
-> **Nói nôm na:** Thức không tự nhiên xuất hiện một mình; nó nằm trong một tiến trình được nâng đỡ bởi những điều kiện đi trước.
-> **Vì sao dùng ở đây:** Đoạn này mở cơ chế mười hai duyên và ngăn người đọc biến thức thành một linh hồn tự tồn.
+> [!quote] Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh
+> Đoạn mở đầu nêu hai mắt xích: vô minh làm duyên cho các hành, và các hành làm duyên cho thức.
+>
+> **Pāli**
+> *Avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṁ;*
+>
+> **Dịch Việt**
+> Này các tỳ-kheo, do vô minh làm duyên nên có các hành; do các hành làm duyên nên có thức.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn12.2">SN 12.2, đoạn 2.2–2.3</a> · <i>Vibhaṅga Sutta</i></small>
 
 Thủ gồm dục thủ, kiến thủ, giới cấm thủ và ngã luận thủ. **Bhava — “bha-va” — hữu hay tiến trình hiện hữu** gồm dục hữu, sắc hữu và vô sắc hữu. **Jāti — “cha-ti” — sinh** được định nghĩa bằng sự sinh, xuất hiện, hiện khởi của các uẩn và thành tựu các xứ của những chúng sinh trong nhóm chúng sinh tương ứng. Già chết được định nghĩa bằng già, suy hoại, chết, tan rã và bỏ xác. Các định nghĩa cuối rõ ràng rộng hơn chuyện một ý nghĩ “sinh” rồi “chết”.
 
@@ -86,15 +87,16 @@ Tương tự, xúc–thọ–ái có thể quan sát ngay hiện tại và Kinh 
 
 [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15) mở bằng lời Đức Phật cảnh báo Ānanda rằng duyên khởi sâu và có vẻ sâu; vì không giác ngộ, chúng sinh bị rối như cuộn chỉ. Kinh rồi khảo sát điều kiện của già chết, sinh, hữu, thủ, ái và thọ. Đến thức và danh-sắc, văn bản cho quan hệ hai chiều: nếu thức không đi xuống bụng mẹ, danh-sắc không kết tụ; nếu thức sau khi đi xuống lại rời, danh-sắc không tăng trưởng; nếu thức không có chỗ đứng trong danh-sắc, sinh, già chết và khổ tương lai không được nhận biết. Đồng thời, thức lấy danh-sắc làm điều kiện.
 
-> [!quote] Nguồn Kinh dễ hiểu
-> **Tên dễ hiểu:** Mạng duyên khởi sâu xa
-> **Nằm ở đâu:** *Mahānidāna Sutta*, bài 15 của Trường Bộ Kinh (*Dīgha Nikāya*)
-> **Đoạn này nói gì:** Đoạn trích trình bày danh–sắc và thức nương nhau, rồi nối qua xúc, thọ, ái, thủ, hữu, sinh và toàn bộ khối già–chết–sầu–khổ.
-> **Mã kiểm chứng:** [`DN 15`, đoạn `dn15:3.1`](https://suttacentral.net/dn15)
-> **Pāli gốc:** *Iti kho, ānanda, nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.*
-> **Dịch rút gọn có đánh dấu:** Như vậy, này Ānanda, do danh-sắc làm duyên nên có thức; do thức làm duyên nên có danh-sắc; do danh-sắc làm duyên nên có xúc; do xúc làm duyên nên có thọ; do thọ làm duyên nên có ái; do ái làm duyên nên có thủ; do thủ làm duyên nên có hữu.
-> **Nói nôm na:** Duyên khởi giống một mạng nâng đỡ lẫn nhau hơn là hàng quân domino có một nguyên nhân đầu tiên.
-> **Vì sao dùng ở đây:** Đoạn này hỗ trợ cách đọc dạng mạng và giải thích vì sao thức không phải một linh hồn chui vào thân.
+> [!quote] Kinh về mạng duyên khởi sâu xa — Trường Bộ Kinh
+> Đoạn trích trình bày danh–sắc và thức nương nhau, rồi nối qua xúc, thọ, ái, thủ, hữu, sinh và toàn bộ khối già–chết–sầu–khổ.
+>
+> **Pāli**
+> *Iti kho, ānanda, nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.*
+>
+> **Dịch Việt rút gọn**
+> Như vậy, này Ānanda, do danh-sắc làm duyên nên có thức; do thức làm duyên nên có danh-sắc; do danh-sắc làm duyên nên có xúc; do xúc làm duyên nên có thọ; do thọ làm duyên nên có ái; do ái làm duyên nên có thủ; do thủ làm duyên nên có hữu …
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/dn15">DN 15, đoạn 3.1</a> · <i>Mahānidāna Sutta</i></small>
 
 Không nên đọc đoạn ấy như linh hồn-thức bước vào một vật chứa. [Thức sinh theo điều kiện](https://suttacentral.net/mn38) ở bài 20 sẽ bác ý tưởng chính “thức này” chạy xuyên. Ở đây, [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15) cho tính đồng phụ thuộc trong tiến trình sống và tái sinh kinh điển. Hình ảnh hai bó lau là minh họa truyền thống thường dùng ở [Danh-sắc và thức nương nhau như hai bó lau](https://suttacentral.net/sn12.67), không phải câu [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15); nó hữu ích nếu không biến thành cơ chế vật lý.
 
@@ -113,15 +115,16 @@ Vì [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15) vừa có tái
 
 Trong hệ Theravāda hậu kỳ, đặc biệt qua truyền thống chú giải và *Visuddhimagga* của Buddhaghosa, mười hai chi thường được phân qua ba đời. Vô minh và hành thuộc nhóm nhân quá khứ; thức, danh-sắc, sáu xứ, xúc và thọ là quả hiện tại; ái, thủ và hữu là nhân hiện tại; sinh cùng già chết là quả tương lai. Mô hình cũng gom chúng thành các vòng phiền não, nghiệp và quả.
 
-> [!quote] Nguồn Kinh dễ hiểu
-> **Tên dễ hiểu:** Định nghĩa các mắt xích duyên khởi
-> **Nằm ở đâu:** *Vibhaṅga Sutta*, bài 12.2 của Tương Ưng Bộ Kinh (*Saṁyutta Nikāya*)
-> **Đoạn này nói gì:** Đoạn này định nghĩa “sinh” là sự sinh ra và xuất hiện của một hữu tình, gồm sự hiện khởi của các uẩn và sự có được các căn–xứ.
-> **Mã kiểm chứng:** [`SN 12.2`, đoạn `sn12.2:4.1–4.3`](https://suttacentral.net/sn12.2)
-> **Pāli gốc:** *Katamā ca, bhikkhave, jāti? Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jāti sañjāti okkanti abhinibbatti khandhānaṁ pātubhāvo āyatanānaṁ paṭilābho. Ayaṁ vuccati, bhikkhave, jāti.*
-> **Dịch sát nghĩa:** Và này các tỳ-kheo, sinh là gì? Với các chúng sinh thuộc từng nhóm chúng sinh, đó là sự sinh, sinh ra, nhập thai, xuất hiện, sự hiện khởi của các uẩn và sự thành tựu các xứ. Này các tỳ-kheo, đó gọi là sinh.
-> **Nói nôm na:** Trong văn cảnh này, “sinh” là sự xuất hiện của cả một đời sống có thân và kinh nghiệm, không chỉ là một ý nghĩ mới lóe lên.
-> **Vì sao dùng ở đây:** Đoạn định nghĩa này là neo chính cho cách đọc ba đời, đồng thời cho thấy vì sao không nên tùy tiện biến mọi chữ “sinh” thành ẩn dụ tâm lý.
+> [!quote] Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh
+> Đoạn này định nghĩa “sinh” là sự sinh ra và xuất hiện của một hữu tình, gồm sự hiện khởi của các uẩn và sự có được các căn–xứ.
+>
+> **Pāli**
+> *Katamā ca, bhikkhave, jāti? Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jāti sañjāti okkanti abhinibbatti khandhānaṁ pātubhāvo āyatanānaṁ paṭilābho. Ayaṁ vuccati, bhikkhave, jāti.*
+>
+> **Dịch Việt**
+> Và này các tỳ-kheo, sinh là gì? Với các chúng sinh thuộc từng nhóm chúng sinh, đó là sự sinh, sinh ra, nhập thai, xuất hiện, sự hiện khởi của các uẩn và sự thành tựu các xứ. Này các tỳ-kheo, đó gọi là sinh.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn12.2">SN 12.2, đoạn 4.1–4.3</a> · <i>Vibhaṅga Sutta</i></small>
 
 Cấu trúc này giải quyết một câu hỏi lớn: nghiệp có tác ý trong quá khứ liên hệ thế nào với một đời hiện tại, và ái–thủ–hữu hiện tại chuẩn bị tái sinh tương lai ra sao, mà không cần một linh hồn đồng nhất. Nó giữ nghiêm nghĩa sinh và già chết, đặt đạo đức trong đường dài, và cung cấp một sơ đồ sư phạm có tính hệ thống. Vì vậy, mô hình ba đời không nên bị gạt là “sáng tác vô giá trị”.
 

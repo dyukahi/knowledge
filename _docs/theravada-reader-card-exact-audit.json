@@ -2,10 +2,11 @@
   "schema": "theravada-reader-card-exact-audit.v2",
   "contract": "narrative-quote-v1",
   "completed_lessons": [
-    1
+    1,
+    18
   ],
-  "cards": 3,
-  "passed": 3,
+  "cards": 6,
+  "passed": 6,
   "all_pass": true,
   "rows": [
     {
@@ -56,6 +57,48 @@
       "raw_sha256": "f1de7a40d6999f8a35d53d94fc611faf78b73fd1c1c4ca97924fa82a58c75a0f",
       "normalized_sha256": "f1de7a40d6999f8a35d53d94fc611faf78b73fd1c1c4ca97924fa82a58c75a0f",
       "actual_sha256": "f1de7a40d6999f8a35d53d94fc611faf78b73fd1c1c4ca97924fa82a58c75a0f",
+      "exact_match": true
+    },
+    {
+      "lesson": 18,
+      "source_key": "SN 12.2",
+      "work_id": "sn12.2",
+      "segments": [
+        "sn12.2:2.2",
+        "sn12.2:2.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn12.2/sujato?lang=en",
+      "raw_sha256": "e06adc974004998c0c408d580738f027f95779f676dac46814fa49ea2ee51fcd",
+      "normalized_sha256": "e06adc974004998c0c408d580738f027f95779f676dac46814fa49ea2ee51fcd",
+      "actual_sha256": "e06adc974004998c0c408d580738f027f95779f676dac46814fa49ea2ee51fcd",
+      "exact_match": true
+    },
+    {
+      "lesson": 18,
+      "source_key": "DN 15",
+      "work_id": "dn15",
+      "segments": [
+        "dn15:3.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/dn15/sujato?lang=en",
+      "raw_sha256": "40ffa2aac975906c7e922d7dd243b2eaf9d86e9bc3468134418a9cb71666d360",
+      "normalized_sha256": "40ffa2aac975906c7e922d7dd243b2eaf9d86e9bc3468134418a9cb71666d360",
+      "actual_sha256": "40ffa2aac975906c7e922d7dd243b2eaf9d86e9bc3468134418a9cb71666d360",
+      "exact_match": true
+    },
+    {
+      "lesson": 18,
+      "source_key": "SN 12.2",
+      "work_id": "sn12.2",
+      "segments": [
+        "sn12.2:4.1",
+        "sn12.2:4.2",
+        "sn12.2:4.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn12.2/sujato?lang=en",
+      "raw_sha256": "556b7078c5d7d94ff8ed80b58edb1442c18530b3cf8a679a26eef0b939efe827",
+      "normalized_sha256": "556b7078c5d7d94ff8ed80b58edb1442c18530b3cf8a679a26eef0b939efe827",
+      "actual_sha256": "556b7078c5d7d94ff8ed80b58edb1442c18530b3cf8a679a26eef0b939efe827",
       "exact_match": true
     }
   ]

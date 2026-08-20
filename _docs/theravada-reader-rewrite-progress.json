@@ -1,6 +1,9 @@
 {
   "schema": "theravada-reader-rewrite-progress.v3",
-  "completed_lessons": [1],
+  "completed_lessons": [
+    1,
+    18
+  ],
   "card_contract": "narrative-quote-v1",
   "required_visible_elements": [
     "natural-language callout title",

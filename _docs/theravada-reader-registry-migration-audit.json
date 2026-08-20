@@ -1,0 +1,34 @@
+{
+  "schema": "theravada-reader-registry-migration-audit.v1",
+  "from_commit": "ec63c29",
+  "sources": 58,
+  "stable_fields": [
+    "code",
+    "collection_abbr",
+    "number",
+    "collection_pali",
+    "collection_han_viet",
+    "collection_plain_vietnamese",
+    "discourse_pali_title_candidates",
+    "discourse_pali_title",
+    "discourse_han_viet_title",
+    "discourse_plain_vietnamese_title",
+    "title_verification_status",
+    "url",
+    "used_in_lessons",
+    "plain_summary"
+  ],
+  "semantic_drift": 0,
+  "added_normalization_fields": [
+    "source_key",
+    "source_type",
+    "collection_code",
+    "work_id",
+    "display_title_pali",
+    "display_title_vi",
+    "canonical_url",
+    "text_language",
+    "edition_or_witness"
+  ],
+  "pass": true
+}

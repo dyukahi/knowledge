@@ -2,9 +2,12 @@
   "schema": "theravada-reader-narrative-semantic-review.v2",
   "contract": "narrative-quote-v1",
   "review_date": "2026-08-20",
-  "completed_lessons": [1],
-  "cards": 3,
-  "passed": 3,
+  "completed_lessons": [
+    1,
+    18
+  ],
+  "cards": 6,
+  "passed": 6,
   "rows": [
     {
       "lesson": 1,
@@ -26,6 +29,27 @@
       "title": "Kinh về những ngày cuối của Đức Phật — Trường Bộ Kinh",
       "translation_label": "Dịch Việt",
       "review_note": "Bản dịch bao phủ đầy đủ câu Pháp–Luật sẽ là thầy sau khi Đức Phật qua đời; prose dùng nó cho sự tiếp nối của cộng đồng, không mở rộng thành claim khác."
+    },
+    {
+      "lesson": 18,
+      "source": "SN 12.2:2.2–2.3",
+      "title": "Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Hai mắt xích vô minh→hành→thức được dịch đủ; câu dẫn giới hạn ở điều kiện phát sinh, không biến thức thành linh hồn."
+    },
+    {
+      "lesson": 18,
+      "source": "DN 15:3.1",
+      "title": "Kinh về mạng duyên khởi sâu xa — Trường Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Pāli tiếp tục qua sinh, già-chết và khổ; bản Việt dừng ở hữu nên được ghi rút gọn. Câu dẫn nói đầy đủ chuỗi và prose giải thích quan hệ dạng mạng."
+    },
+    {
+      "lesson": 18,
+      "source": "SN 12.2:4.1–4.3",
+      "title": "Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Định nghĩa jāti được dịch đủ; prose dùng làm neo cho cách đọc ba đời mà không phủ nhận các tầng giải thích khác."
     }
   ]
 }
