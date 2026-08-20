@@ -50,6 +50,12 @@ jobs:
       - name: Validate Theravāda curriculum and sources
         run: python3 content/scripts/validate-theravada-domain.py
 
+      - name: Validate reader-friendly scripture registry and cards
+        run: |
+          python3 content/scripts/validate-theravada-reader-registry.py
+          python3 content/scripts/validate-theravada-reader-rewrite.py
+          python3 content/scripts/audit-theravada-reader-cards.py
+
       - name: Install Dependencies
         working-directory: ./quartz
         run: npm ci

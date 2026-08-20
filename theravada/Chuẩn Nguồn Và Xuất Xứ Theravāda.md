@@ -98,15 +98,28 @@ source_license_checked: true
 
 ---
 
-## Quy Tắc Trích Dẫn
+## Quy Tắc Trích Dẫn Dễ Đọc
 
-Mẫu ngắn:
+Mã như `MN 26` là lớp kiểm chứng, không phải tên dành cho người đọc. Trong prose, lần đầu phải viết theo nghĩa trước:
 
-> **Pāli:** …
->
-> **Dịch nghĩa:** …
->
-> **Nguồn:** SN 56.11, đoạn …; Pāli từ SuttaCentral; bản dịch làm việc đã đối chiếu …
+> **Kinh về Cuộc Tìm Cầu Cao Quý**, bài 26 của **Trung Bộ Kinh** (*Majjhima Nikāya*; mã nguồn `MN 26`).
+
+Mỗi claim Kinh quan trọng dùng source card gồm:
+
+1. tên Việt dễ hiểu;
+2. tên Hán-Việt truyền thống nếu đã xác minh;
+3. tên Pāli của bài Kinh;
+4. bộ Kinh viết đầy đủ;
+5. đoạn này nói gì bằng một câu bình dân;
+6. mã và segment ở dòng kiểm chứng;
+7. Pāli gốc;
+8. dịch sát nghĩa tiếng Việt;
+9. phần **Nói nôm na**;
+10. phần **Vì sao đoạn này quan trọng**.
+
+Không xác minh được tên Hán-Việt thì để trống, không tự dịch từng chữ để tạo tên. Những lần nhắc lại dùng tên dễ hiểu thay vì lặp mã. Không cần lặp toàn bộ Pāli cho cùng một source card.
+
+Mẫu và gate đầy đủ nằm tại `_docs/THERAVADA-READER-CITATION-STANDARD.md` và registry `_docs/theravada-reader-source-registry.json`.
 
 Không dùng câu trích không tìm được mã kinh. Nếu câu phổ biến là diễn giải hậu kỳ, ghi rõ: **Câu tổng hợp, không phải nguyên văn kinh**.
 

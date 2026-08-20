@@ -44,29 +44,39 @@ Giáo pháp lại đặt các phép thực hành trong giới, định, tuệ v�
 
 Đối thoại tốt bắt đầu bằng câu hỏi vừa cỡ. “Thiền có giúp một số người giảm một số triệu chứng không?” có thể nghiên cứu. “Máy quét não đã chứng minh toàn bộ Phật pháp chưa?” là câu hỏi lẫn phạm vi. Cộng hưởng khái niệm có thể gợi giả thuyết; nó không tự trở thành xác nhận thực nghiệm.
 
-## 2. AN 3.65: Thẩm Tra Không Đồng Nghĩa Chỉ Tin Điều Phòng Thí Nghiệm Đo Được
+## 2. [Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65): Thẩm Tra Không Đồng Nghĩa Chỉ Tin Điều Phòng Thí Nghiệm Đo Được
 
 ![hình minh họa biên tập cho 2. an 3.65: thẩm tra không đồng nghĩa chỉ tin điều phòng thí nghiệm đo được](../assets/illustrations/theravada-batch6/theravada-36-2-2-an-3-65-tham-tra-khong-ong-nghia-chi-tin-ieu-phong-thi-nghiem-.webp)
 
-> **Pāli — AN 3.65, đoạn `an3.65:4.1–4.3`**
-> *Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti. Yadā tumhe, kālāmā, attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, kālāmā, pajaheyyātha.*
->
-> **Bản dịch làm việc của redpill.wiki:** Này những người Kālāma, chớ chỉ dựa vào truyền khẩu, truyền thống, lời đồn, sự lưu truyền trong tuyển tập, suy luận logic, suy diễn, cân nhắc vẻ ngoài, sự chấp thuận một quan điểm sau khi suy xét, vẻ có năng lực của người nói, hay ý nghĩ “vị sa-môn này là thầy của chúng ta”. Khi chính các vị biết: “Các pháp này là bất thiện, đáng chê, bị người trí khiển trách; khi được thực hiện và tiếp nhận, chúng dẫn đến bất lợi và khổ”, khi ấy hãy từ bỏ chúng.
+> [!quote] Nguồn Kinh dễ hiểu
+> **Tên dễ hiểu:** Thẩm tra lời dạy qua hậu quả thiện và bất thiện
+> **Nằm ở đâu:** *Kesamutti Sutta*, bài 3.65 của Tăng Chi Bộ Kinh (*Aṅguttara Nikāya*)
+> **Đoạn này nói gì:** Đoạn Kinh bảo người Kālāma không dựa riêng vào truyền khẩu, truyền thống, suy luận hay uy tín của thầy; khi tự biết một pháp bất thiện, đáng chê và dẫn đến khổ thì hãy từ bỏ.
+> **Mã kiểm chứng:** [`AN 3.65`, đoạn `an3.65:4.1–4.3`](https://suttacentral.net/an3.65)
+> **Pāli gốc:** *Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti. Yadā tumhe, kālāmā, attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, kālāmā, pajaheyyātha.*
+> **Dịch sát nghĩa:** Này những người Kālāma, chớ chỉ dựa vào truyền khẩu, truyền thống, lời đồn, sự lưu truyền trong tuyển tập, suy luận logic, suy diễn, cân nhắc vẻ ngoài, sự chấp thuận một quan điểm sau khi suy xét, vẻ có năng lực của người nói, hay ý nghĩ “vị sa-môn này là thầy của chúng ta”. Khi chính các vị biết: “Các pháp này là bất thiện, đáng chê, bị người trí khiển trách; khi được thực hiện và tiếp nhận, chúng dẫn đến bất lợi và khổ”, khi ấy hãy từ bỏ chúng.
+> **Nói nôm na:** Đừng tin chỉ vì điều đó lâu đời, nghe hợp lý hoặc do người có uy tín nói. Hãy kiểm tra tác động đạo đức, hậu quả và lời đánh giá của người có trí.
+> **Vì sao dùng ở đây:** Đoạn này cung cấp kỷ luật thẩm tra cho cuộc đối thoại với khoa học, nhưng không biến Kinh thành khẩu hiệu “chỉ tin điều phòng thí nghiệm đo được”.
 
-AN 3.65 không ban khẩu hiệu “hãy tin trải nghiệm cá nhân hơn mọi nguồn”. Danh sách bác việc dựa **chỉ** vào nhiều thẩm quyền nhận thức, rồi văn cảnh đưa thêm hậu quả, đánh giá đạo đức và nhận định của người trí. Trải nghiệm cũng có thể bị kỳ vọng, ký ức, ham muốn và trạng thái bệnh lý làm lệch.
+[Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65) không ban khẩu hiệu “hãy tin trải nghiệm cá nhân hơn mọi nguồn”. Danh sách bác việc dựa **chỉ** vào nhiều thẩm quyền nhận thức, rồi văn cảnh đưa thêm hậu quả, đánh giá đạo đức và nhận định của người trí. Trải nghiệm cũng có thể bị kỳ vọng, ký ức, ham muốn và trạng thái bệnh lý làm lệch.
 
 Khoa học có họ hàng với tinh thần thẩm tra ở chỗ công khai phương pháp, cho phép phản biện và sửa sai. Nhưng bài Kinh không phải bản tiên tri về thử nghiệm ngẫu nhiên, và khoa học không độc quyền mọi câu hỏi giá trị. Đạo đức của không tham, không sân, không si không thể giản lược thành một tín hiệu thống kê.
 
-## 3. SN 22.59: Vô Ngã Là Phép Quán, Không Phải Kết Luận Từ Não Bộ
+## 3. [Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59): Vô Ngã Là Phép Quán, Không Phải Kết Luận Từ Não Bộ
 
 ![hình minh họa biên tập cho 3. sn 22.59: vô ngã là phép quán, không phải kết luận từ não bộ](../assets/illustrations/theravada-batch6/theravada-36-3-3-sn-22-59-vo-nga-la-phep-quan-khong-phai-ket-luan-tu-nao-bo.webp)
 
-> **Pāli — SN 22.59, các đoạn `sn22.59:2.1`, `sn22.59:2.4`, `sn22.59:2.5`**
-> *“Rūpaṁ, bhikkhave, anattā. Yasmā ca kho, bhikkhave, rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati, na ca labbhati rūpe: ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti.*
->
-> **Bản dịch làm việc của redpill.wiki:** “Này các tỳ-kheo, sắc không phải tự ngã. Và vì sắc không phải tự ngã, sắc dẫn đến bức bách, và không thể có quyền đối với sắc rằng: …”
+> [!quote] Nguồn Kinh dễ hiểu
+> **Tên dễ hiểu:** Năm uẩn không phải là tự ngã
+> **Nằm ở đâu:** *Anattalakkhaṇa Sutta*, bài 22.59 của Tương Ưng Bộ Kinh (*Saṁyutta Nikāya*)
+> **Đoạn này nói gì:** Đoạn trích nói sắc không phải tự ngã: sắc dẫn đến bức bách và ta không thể ra lệnh “sắc của tôi phải thế này, đừng thế kia”.
+> **Mã kiểm chứng:** [`SN 22.59`, các đoạn `sn22.59:2.1`, `sn22.59:2.4`, `sn22.59:2.5`](https://suttacentral.net/sn22.59)
+> **Pāli gốc:** *“Rūpaṁ, bhikkhave, anattā. Yasmā ca kho, bhikkhave, rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati, na ca labbhati rūpe: ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti.*
+> **Dịch rút gọn có đánh dấu:** Này các tỳ-kheo, sắc không phải tự ngã. Và vì sắc không phải tự ngã, sắc dẫn đến bức bách, và không thể có quyền đối với sắc rằng: …
+> **Nói nôm na:** Thân không phải tài sản nằm hoàn toàn dưới quyền điều khiển của một cái tôi; chính giới hạn ấy là đối tượng để quán sát.
+> **Vì sao dùng ở đây:** Đoạn này giữ vô ngã trong đúng phép quán về sắc, thay vì biến một ảnh não hoặc tương quan thần kinh thành bằng chứng cho giáo lý.
 
-**Anattā — đọc gần đúng “a-nát-ta” — không phải tự ngã, vô ngã** trong đoạn này được áp vào sắc và gắn với bức bách cùng việc không thể ra lệnh cho sắc. Khoảng dòng trong khối đánh dấu các segment trung gian không nằm trong phạm vi trích; segment thứ hai được chỉ định dừng ở dấu hai chấm, nên bài không tự điền phần Pāli tiếp theo. Toàn SN 22.59 tiếp tục phép thẩm tra đối với năm uẩn, nhưng khối trên chỉ tái bản đúng phạm vi nguồn đã khóa.
+**Anattā — đọc gần đúng “a-nát-ta” — không phải tự ngã, vô ngã** trong đoạn này được áp vào sắc và gắn với bức bách cùng việc không thể ra lệnh cho sắc. Khoảng dòng trong khối đánh dấu các segment trung gian không nằm trong phạm vi trích; segment thứ hai được chỉ định dừng ở dấu hai chấm, nên bài không tự điền phần Pāli tiếp theo. Toàn [Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) tiếp tục phép thẩm tra đối với năm uẩn, nhưng khối trên chỉ tái bản đúng phạm vi nguồn đã khóa.
 
 Nghiên cứu thần kinh có thể tìm tương quan giữa thực hành, chú ý, cảm nhận thân và hoạt động hay cấu trúc não. Một tương quan thần kinh không đồng nhất với anattā; nó cũng không chứng minh hay bác bỏ anattā. “Cái tôi được kiến tạo” trong một mô hình nhận thức và “uẩn không nên được xem là tôi/của tôi/tự ngã của tôi” có thể cộng hưởng, nhưng mục tiêu và tiêu chuẩn chứng minh khác nhau.
 
@@ -104,7 +114,7 @@ Nếu xuất hiện mất ngủ tăng dần, hoảng, phân ly, cảm giác mấ
 
 ![hình minh họa biên tập cho 7. kỷ luật khẳng định và sổ nguồn](../assets/illustrations/theravada-batch6/theravada-36-7-7-ky-luat-khang-inh-va-so-nguon.webp)
 
-**Văn bản nói gì?** AN 3.65 bác việc dựa độc nhất vào truyền thống, suy luận, vẻ ngoài hay uy tín thầy và hướng đến tự biết hậu quả bất thiện, đáng chê, bị người trí khiển trách. SN 22.59 áp phép thẩm tra không phải tự ngã vào sắc; đó là giáo huấn giải thoát, không phải giả thuyết khoa học thần kinh.
+**Văn bản nói gì?** [Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65) bác việc dựa độc nhất vào truyền thống, suy luận, vẻ ngoài hay uy tín thầy và hướng đến tự biết hậu quả bất thiện, đáng chê, bị người trí khiển trách. [Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) áp phép thẩm tra không phải tự ngã vào sắc; đó là giáo huấn giải thoát, không phải giả thuyết khoa học thần kinh.
 
 **Khoa học nói gì?** Ledger của bài hỗ trợ các tuyên bố giới hạn về một số kết cục lo âu, trầm cảm và đau; mô hình cơ chế thần kinh còn cần thận trọng; lĩnh vực có vấn đề định nghĩa, đối chứng và cường điệu; tác dụng bất lợi tồn tại và cần theo dõi. Các bài báo đều được dẫn và diễn giải, không sao chép văn bản có bản quyền.
 
@@ -114,4 +124,4 @@ Nếu xuất hiện mất ngủ tăng dần, hoảng, phân ly, cảm giác mấ
 
 Đọc trước: [[35 - Paṭṭhāna - Hai Mươi Bốn Duyên Và Mạng Điều Kiện]]. Đọc tiếp: Hoàn tất chương trình 36 bài; quay về [[theravada/index|cổng Theravāda]].
 
-**Nguồn và giấy phép:** Hai và chỉ hai khối Pāli lấy từ Bilara root Pāli MS, nhánh `published`, truy cập ngày 2026-08-20: AN 3.65 (`an3.65:4.1–4.2`) và SN 22.59 (`sn22.59:2.1`, `sn22.59:2.4`), giấy phép CC0 1.0. Bản Việt là bản dịch làm việc nguyên gốc của redpill.wiki. Đối chiếu khoa học dùng bốn mục trong `_docs/theravada-batch6-science-evidence.json`: Goyal et al. (2014), Tang–Hölzel–Posner (2015), Van Dam et al. (2018), Farias et al. (2020); chỉ dẫn và diễn giải theo giấy phép tạp chí. Trạng thái toàn bài giữ `source_license_checked: true` cho đến khi hoàn tất kiểm toán xuất bản.
+**Nguồn và giấy phép:** Hai và chỉ hai khối Pāli lấy từ Bilara root Pāli MS, nhánh `published`, truy cập ngày 2026-08-20: [Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65) (`an3.65:4.1–4.2`) và [Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) (`sn22.59:2.1`, `sn22.59:2.4`), giấy phép CC0 1.0. Bản Việt là bản dịch làm việc nguyên gốc của redpill.wiki. Đối chiếu khoa học dùng bốn mục trong `_docs/theravada-batch6-science-evidence.json`: Goyal et al. (2014), Tang–Hölzel–Posner (2015), Van Dam et al. (2018), Farias et al. (2020); chỉ dẫn và diễn giải theo giấy phép tạp chí. Trạng thái toàn bài giữ `source_license_checked: true` cho đến khi hoàn tất kiểm toán xuất bản.

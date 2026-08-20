@@ -223,7 +223,10 @@ def validate_published_lessons(curriculum: dict) -> None:
         if "<!-- ILLUSTRATION:" in text:
             fail(f"unresolved image placeholder: {path.relative_to(ROOT)}")
         required_pali_blocks = 2 if row["lesson"] in {35, 36} else 3
-        if text.count("> **Pāli —") < required_pali_blocks:
+        reader_progress = load_json(ROOT / "_docs" / "theravada-reader-rewrite-progress.json")
+        reader_rewritten = set(reader_progress.get("completed_lessons", []))
+        pali_block_count = text.count("> **Pāli gốc:**") if row["lesson"] in reader_rewritten else text.count("> **Pāli —")
+        if pali_block_count < required_pali_blocks:
             fail(f"scripture-first quote minimum not met: {path.relative_to(ROOT)}")
         if row["lesson"] == 36:
             science = load_json(ROOT / "_docs" / "theravada-batch6-science-evidence.json")
