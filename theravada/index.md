@@ -81,6 +81,15 @@ Batch 3 khóa trục Duyên khởi → nghiệp → tái sinh → cái chết �
 
 Batch 4 là học phần thực hành, có ranh giới an toàn, y khoa và dòng truyền rõ.
 
+## Batch 5 — Đã Xuất Bản
+
+1. [[29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc]]
+2. [[30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ]]
+3. [[31 - Bốn Thánh Quả Và Mười Kiết Sử]]
+4. [[32 - Nibbāna - Không Phải Cõi Thứ 32]]
+
+Batch 5 tách rõ vũ trụ luận Kinh sớm, hệ thống hóa Abhidhamma/chú giải và mục tiêu giải thoát; Nibbāna không bị xếp thành cõi thứ 32.
+
 ---
 
 ## Bắt Đầu Ở Đâu?

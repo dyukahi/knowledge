@@ -1,12 +1,12 @@
 {
   "summary": {
-    "public_notes": 257,
-    "avg_words": 1942,
+    "public_notes": 261,
+    "avg_words": 1955,
     "missing_description": 0,
     "missing_aliases": 22,
     "thin_lt800": 25,
     "duplicate_titles": 0,
-    "mobile_hostile_code": 2,
+    "mobile_hostile_code": 4,
     "horizontal_chain": 27,
     "textblock_candidates": 33,
     "broken_links": 0,
@@ -143,7 +143,9 @@
     "duplicate_titles": [],
     "mobile_hostile_code": [
       "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
-      "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md"
+      "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md",
+      "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+      "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md"
     ],
     "horizontal_chain": [
       "index.md",
@@ -244,8 +246,8 @@
       {
         "path": "theravada/index.md",
         "short": 16,
-        "paragraphs": 32,
-        "ratio": 0.5
+        "paragraphs": 34,
+        "ratio": 0.471
       },
       {
         "path": "health/Thuốc Hóa Dầu.md",

@@ -1,0 +1,139 @@
+{
+  "schema": "theravada-source-map.v1",
+  "batch": 5,
+  "policy": "Pāli must be fetched from Bilara API by segment ID; 31-realm taxonomy must be labeled Abhidhamma/commentarial synthesis, not one early-sutta list; no science or mystical lens is evidence.",
+  "lessons": [
+    {
+      "lesson": 29,
+      "title": "Bản Đồ 31 Cõi — 11 Dục, 16 Sắc, 4 Vô Sắc",
+      "claims": [
+        {
+          "claim": "Early suttas name five destinations, not a single 31-plane table",
+          "discourse": "mn12",
+          "segments": [
+            "mn12:35.1",
+            "mn12:35.2",
+            "mn12:35.3"
+          ]
+        },
+        {
+          "claim": "First jhāna is associated with rebirth among Brahmā's Retinue in this discourse",
+          "discourse": "an4.123",
+          "segments": [
+            "an4.123:1.3",
+            "an4.123:1.5"
+          ]
+        },
+        {
+          "claim": "The 31-plane enumeration is a later Theravāda Abhidhamma/commentarial systematization",
+          "source": "Vibhaṅga and Abhidhammattha-saṅgaha",
+          "segments": [],
+          "quote_policy": "paraphrase only unless exact edition is locked"
+        }
+      ]
+    },
+    {
+      "lesson": 30,
+      "title": "Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
+      "claims": [
+        {
+          "claim": "Baka Brahmā's permanence claim is treated as ignorance, not proof of a creator God",
+          "discourse": "mn49",
+          "segments": [
+            "mn49:4.1",
+            "mn49:4.2"
+          ]
+        },
+        {
+          "claim": "MN 130 names heaven, humans, ghosts, animals and hell as karmic destinations",
+          "discourse": "mn130",
+          "segments": [
+            "mn130:2.2"
+          ]
+        },
+        {
+          "claim": "SN 11 depicts devas and asuras as rival classes in narrative cosmology",
+          "discourse": "sn11.1",
+          "segments": [
+            "sn11.1:2.1",
+            "sn11.1:2.3",
+            "sn11.1:2.4"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 31,
+      "title": "Bốn Thánh Quả Và Mười Kiết Sử",
+      "claims": [
+        {
+          "claim": "Ten fetters are divided into five lower and five higher",
+          "discourse": "an10.13",
+          "segments": [
+            "an10.13:1.3",
+            "an10.13:1.4",
+            "an10.13:1.5",
+            "an10.13:1.6",
+            "an10.13:2.1",
+            "an10.13:2.2",
+            "an10.13:2.3"
+          ]
+        },
+        {
+          "claim": "Training is gathered under higher virtue, higher mind and higher wisdom",
+          "discourse": "an3.88",
+          "segments": [
+            "an3.88:1.2",
+            "an3.88:1.4"
+          ]
+        },
+        {
+          "claim": "Stream-entry is defined by entry into the noble eightfold path, not a badge",
+          "discourse": "sn55.5",
+          "segments": [
+            "sn55.5:2.1",
+            "sn55.5:2.2",
+            "sn55.5:2.3"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 32,
+      "title": "Nibbāna — Không Phải Cõi Thứ 32",
+      "claims": [
+        {
+          "claim": "There is the unborn, unbecome, unmade and unconditioned",
+          "discourse": "ud8.3",
+          "segments": [
+            "ud8.3:3.1",
+            "ud8.3:3.2"
+          ]
+        },
+        {
+          "claim": "Iti 44 distinguishes two Nibbāna elements",
+          "discourse": "iti44",
+          "segments": [
+            "iti44:2.1",
+            "iti44:2.3"
+          ]
+        },
+        {
+          "claim": "The unconditioned is explained as ending greed, hate and delusion",
+          "discourse": "sn43.1",
+          "segments": [
+            "sn43.1:1.2",
+            "sn43.1:1.5"
+          ]
+        }
+      ]
+    }
+  ],
+  "acceptance_gates": [
+    "MN12/AN4.123 do not prove the 31-plane table; label 11+16+4 as Abhidhamma/commentarial systematization",
+    "Four lower realms and asura placement vary by classification; Petavatthu provenance must be explicit",
+    "AN10.13 gives ten fetters but not the entire path/fruit mapping; label later mapping source",
+    "Iti44 describes two Nibbana elements, not two Nibbanas or places",
+    "Keep source_license_checked false until exact-source, translation, placement, taxonomy, and license audit passes"
+  ]
+}

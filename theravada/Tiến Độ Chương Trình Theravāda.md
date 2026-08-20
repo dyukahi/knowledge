@@ -96,10 +96,10 @@ related:
 
 | # | Bài | Trạng thái |
 |---:|---|---|
-| 29 | Bản Đồ 31 Cõi — 11 Dục, 16 Sắc, 4 Vô Sắc | Đã có nguồn neo |
-| 30 | Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ | Đã có nguồn neo |
-| 31 | Bốn Thánh Quả Và Mười Kiết Sử | Đã có nguồn neo |
-| 32 | Nibbāna — Không Phải Cõi Thứ 32 | Đã có nguồn neo |
+| 29 | Bản Đồ 31 Cõi — 11 Dục, 16 Sắc, 4 Vô Sắc | Đã xuất bản |
+| 30 | Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ | Đã xuất bản |
+| 31 | Bốn Thánh Quả Và Mười Kiết Sử | Đã xuất bản |
+| 32 | Nibbāna — Không Phải Cõi Thứ 32 | Đã xuất bản |
 
 ## Học Phần VII — Vi Diệu Pháp Và Cầu Nối Hiện Đại
 

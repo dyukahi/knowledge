@@ -1,0 +1,146 @@
+{
+  "schema": "theravada-translation-placement-review.v1",
+  "blocks": 12,
+  "passed": 12,
+  "manual_review_date": "2026-08-20",
+  "notes": [
+    "31-plane count labeled Abhidhamma/commentarial systematization, not MN12 list",
+    "asura placement and four lower realms labeled later classification; Petavatthu layer explicit",
+    "ten-fetter path/fruit mapping labeled Theravada/Abhidhamma-commentarial systematization",
+    "Ud8.3 not rendered as absolute entity; Iti44 not treated as two Nibbanas; SN43.1 anchors ending greed, hate, delusion",
+    "no science, soul, bardo, NDE, or prison-matrix claim used as evidence"
+  ],
+  "rows": [
+    {
+      "lesson": 29,
+      "section": "1. Hai Bản Đồ Có Hai Độ Phân Giải Khác Nhau",
+      "source_label": "MN 12, các đoạn `mn12:35.1`, `mn12:35.2`",
+      "translation": "Này Sāriputta, có năm cảnh đến này. Năm là những gì?",
+      "translation_pass": true,
+      "placement_pass": true,
+      "provenance_layer": "early-sutta"
+    },
+    {
+      "lesson": 29,
+      "section": "1. Hai Bản Đồ Có Hai Độ Phân Giải Khác Nhau",
+      "source_label": "MN 12, đoạn `mn12:35.3`",
+      "translation": "Địa ngục, loài vật, cảnh giới ngạ quỷ, loài người và chư thiên.",
+      "translation_pass": true,
+      "placement_pass": true,
+      "provenance_layer": "early-sutta"
+    },
+    {
+      "lesson": 29,
+      "section": "3. Mười Sáu Cõi Sắc: Quan Hệ Với Jhāna Nhưng Không Phải Thang Máy Tự Động",
+      "source_label": "AN 4.123, các đoạn `an4.123:1.3`, `an4.123:1.5`",
+      "translation": "Ở đây, này các tỳ-kheo, một người ly các dục và ly các pháp bất thiện, chứng và an trú sơ thiền, có tầm, có tứ, với hỷ lạc do ly sinh. Nếu đứng vững ở đó, hướng về đó, thường trú như vậy, không suy giảm, khi mạng chung người ấy tái sinh cộng trú với chư thiên thuộc chúng Phạm thiên.",
+      "translation_pass": true,
+      "placement_pass": true,
+      "provenance_layer": "early-sutta"
+    },
+    {
+      "lesson": 30,
+      "section": "2. Baka Brahmā: Quyền Lực Và Tuổi Thọ Không Bảo Đảm Chánh Kiến",
+      "source_label": "MN 49, các đoạn `mn49:4.1`, `mn49:4.2`",
+      "translation": "Khi điều ấy được nói, này các tỳ-kheo, ta nói với Baka Phạm thiên: “Quả thật, Baka Phạm thiên đã rơi vào vô minh; quả thật, Baka Phạm thiên đã rơi vào vô minh.”",
+      "translation_pass": true,
+      "placement_pass": true,
+      "provenance_layer": "early-sutta"
+    },
+    {
+      "lesson": 30,
+      "section": "3. Năm Cảnh Đến Và Trọng Tâm Tác Ý Trong MN 130",
+      "source_label": "MN 130, đoạn `mn130:2.2`",
+      "translation": "Cũng vậy, này các tỳ-kheo, với thiên nhãn thanh tịnh vượt quá loài người, ta thấy các hữu tình chết đi và tái sinh, thấp kém và cao quý, đẹp và xấu, đi đến cảnh lành và cảnh dữ; ta hiểu các hữu tình đi theo nghiệp. Những vị có thân hành, khẩu hành, ý hành tốt, không phỉ báng các bậc cao quý, có chánh kiến và nhận làm hành động phù hợp chánh kiến, sau khi thân hoại mạng chung sinh vào cõi trời hoặc giữa loài người. Những vị có thân hành, khẩu hành, ý hành xấu, phỉ báng các bậc cao quý, có tà kiến và nhận làm hành động phù hợp tà kiến, sinh vào cảnh ngạ quỷ, loài vật hoặc cảnh khổ, cảnh dữ, đọa xứ, địa ngục.",
+      "translation_pass": true,
+      "placement_pass": true,
+      "provenance_layer": "early-sutta"
+    },
+    {
+      "lesson": 30,
+      "section": "4. A-tu-la Trong SN 11: Đối Thủ Của Chư Thiên, Không Phải Quỷ Tuyệt Đối",
+      "source_label": "SN 11.1, các đoạn `sn11.1:2.1`, `sn11.1:2.3`, `sn11.1:2.4`",
+      "translation": "Thuở trước, này các tỳ-kheo, một trận chiến giữa chư thiên và a-tu-la đã dàn ra. Rồi Sakka, vua chư thiên, nói với chư thiên cõi Tam Thập Tam: “Này các bạn, nếu khi ra trận, chư thiên khởi sợ hãi, kinh hoàng hay dựng tóc gáy, lúc ấy hãy nhìn lên đỉnh cờ của ta.”",
+      "translation_pass": true,
+      "placement_pass": true,
+      "provenance_layer": "early-sutta"
+    },
+    {
+      "lesson": 31,
+      "section": "2. “Dòng” Chính Là Bát Chánh Đạo",
+      "source_label": "SN 55.5, các đoạn `sn55.5:2.1`, `sn55.5:2.2`, `sn55.5:2.3`",
+      "translation": "“Này Sāriputta, người ta nói ‘dòng, dòng’. Vậy dòng là gì?” “Bạch Thế Tôn, chính Bát chánh đạo cao quý này là dòng, tức là—”",
+      "translation_pass": true,
+      "placement_pass": true,
+      "provenance_layer": "early-sutta"
+    },
+    {
+      "lesson": 31,
+      "section": "3. Mười Kiết Sử: Năm Thấp Và Năm Cao",
+      "source_label": "AN 10.13, các đoạn `an10.13:1.3`, `an10.13:1.4`, `an10.13:1.5`, `an10.13:1.6`, `an10.13:2.1`, `an10.13:2.2`, `an10.13:2.3`",
+      "translation": "Có năm kiết sử thấp và năm kiết sử cao. Năm kiết sử thấp là gì? Thân kiến, hoài nghi, chấp thủ giới và nghi thức, dục tham, sân: đó là năm kiết sử thấp. Năm kiết sử cao là gì? Tham đối với sắc, tham đối với vô sắc, mạn, trạo cử và vô minh: đó là năm kiết sử cao.",
+      "translation_pass": true,
+      "placement_pass": true,
+      "provenance_layer": "early-sutta"
+    },
+    {
+      "lesson": 31,
+      "section": "5. Ba Sự Học Gom Toàn Bộ Việc Tu",
+      "source_label": "AN 3.88, các đoạn `an3.88:1.2`, `an3.88:1.4`",
+      "translation": "Này các tỳ-kheo, có ba sự học mà toàn bộ điều ấy được quy tụ vào: học về giới cao hơn, học về tâm cao hơn và học về tuệ cao hơn.",
+      "translation_pass": true,
+      "placement_pass": true,
+      "provenance_layer": "early-sutta"
+    },
+    {
+      "lesson": 32,
+      "section": "2. “Không Sinh, Không Trở Thành, Không Làm Ra, Không Tạo Tác”",
+      "source_label": "Ud 8.3, các đoạn `ud8.3:3.1`, `ud8.3:3.2`",
+      "translation": "Này các tỳ-kheo, có cái không sinh, không trở thành, không được làm ra, không bị tạo tác. Nếu không có cái không sinh, không trở thành, không được làm ra, không bị tạo tác ấy, thì ở đây sẽ không nhận ra lối thoát khỏi cái đã sinh, đã trở thành, đã được làm ra, bị tạo tác.",
+      "translation_pass": true,
+      "placement_pass": true,
+      "provenance_layer": "early-sutta"
+    },
+    {
+      "lesson": 32,
+      "section": "3. Hai Yếu Tố Nibbāna Không Phải Hai Niết-bàn",
+      "source_label": "Iti 44, các đoạn `iti44:2.1`, `iti44:2.3`",
+      "translation": "Này các tỳ-kheo, có hai yếu tố Nibbāna: yếu tố Nibbāna còn dư y và yếu tố Nibbāna không còn dư y.",
+      "translation_pass": true,
+      "placement_pass": true,
+      "provenance_layer": "early-sutta"
+    },
+    {
+      "lesson": 32,
+      "section": "4. Vô Vi Được Giải Thích Bằng Sự Tận Tham, Sân Và Si",
+      "source_label": "SN 43.1, các đoạn `sn43.1:1.2`, `sn43.1:1.5`",
+      "translation": "Này các tỳ-kheo, Ta sẽ dạy các thầy cái vô vi và con đường đi đến vô vi. Này các tỳ-kheo, đó là sự tận diệt tham, sự tận diệt sân và sự tận diệt si—",
+      "translation_pass": true,
+      "placement_pass": true,
+      "provenance_layer": "early-sutta"
+    }
+  ],
+  "review_method": "Manual semantic review of each Pali, Vietnamese translation, and adjacent explanation after deterministic API source sync; not inferred from exact-match.",
+  "specific_verdicts": [
+    {
+      "lesson": 29,
+      "verdict": "pass",
+      "note": "MN12 five destinations kept distinct from later 31-plane taxonomy; AN4.123 supports Brahma rebirth only."
+    },
+    {
+      "lesson": 30,
+      "verdict": "pass",
+      "note": "MN49, MN130, SN11 claims limited to their passages; asura placement and Petavatthu provenance labeled later/classificatory."
+    },
+    {
+      "lesson": 31,
+      "verdict": "pass",
+      "note": "AN10.13 only lists fetters; path/fruit mapping explicitly labeled Theravada Abhidhamma/commentarial systematization."
+    },
+    {
+      "lesson": 32,
+      "verdict": "pass",
+      "note": "abhuta translated cautiously; Iti44 two elements not two realities/places; SN43.1 anchors ending greed, hate, delusion."
+    }
+  ]
+}

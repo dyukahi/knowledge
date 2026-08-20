@@ -1,0 +1,203 @@
+{
+  "schema": "redpill.theravada.batch-sources.v2",
+  "batch": 5,
+  "access_date": "2026-08-20",
+  "translation_policy": "Original Vietnamese working translations from exact Bilara Pāli; no external translation copied. Abhidhamma/commentarial taxonomy is labeled and paraphrased, not quoted.",
+  "source_editions": [
+    {
+      "id": "bilara-pali-ms",
+      "edition": "SuttaCentral Bilara root Pāli text",
+      "license_status": "Creative Commons CC0 1.0 Public Domain Dedication",
+      "license_url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/LICENSE.md",
+      "url": "https://github.com/suttacentral/bilara-data",
+      "allowed_use": "quotation, verification, adaptation, original translation"
+    },
+    {
+      "id": "cma-bodhi",
+      "edition": "A Comprehensive Manual of Abhidhamma: The Abhidhammattha Sangaha of Acariya Anuruddha",
+      "editor_translator": "Bhikkhu Bodhi, general editor/reviser; Pali text and translation by Mahathera Narada",
+      "publisher": "Buddhist Publication Society / Pariyatti",
+      "license_status": "standard copyright; reference-only, no quoted or copied English text",
+      "allowed_use": "bibliographic verification and paraphrase only",
+      "url": "https://www.pariyatti.com/bookstore/a-comprehensive-manual-of-abhidhamma"
+    }
+  ],
+  "lessons": [
+    {
+      "lesson": 29,
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/an4.123/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/mn12/sujato?lang=en"
+      ],
+      "license_checked": true,
+      "verification": "3/3 exact Bilara root blocks; Vietnamese translation and placement reviewed",
+      "allowed_use": "CC0 Pāli root; original Vietnamese translation; taxonomy references paraphrased only",
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "claim_segment_map": [
+        {
+          "discourse": "mn12",
+          "segments": [
+            "mn12:35.1",
+            "mn12:35.2"
+          ],
+          "exact_match": true
+        },
+        {
+          "discourse": "mn12",
+          "segments": [
+            "mn12:35.3"
+          ],
+          "exact_match": true
+        },
+        {
+          "discourse": "an4.123",
+          "segments": [
+            "an4.123:1.3",
+            "an4.123:1.5"
+          ],
+          "exact_match": true
+        }
+      ],
+      "taxonomy_reference": {
+        "source_id": "cma-bodhi",
+        "location": "Chapter V, Compendium of the Process-Freed, section The Four Planes of Existence",
+        "claim": "11 sense-sphere, 16 fine-material, 4 immaterial planes",
+        "use": "paraphrase only"
+      }
+    },
+    {
+      "lesson": 30,
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/mn130/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/mn49/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/sn11.1/sujato?lang=en"
+      ],
+      "license_checked": true,
+      "verification": "3/3 exact Bilara root blocks; Vietnamese translation and placement reviewed",
+      "allowed_use": "CC0 Pāli root; original Vietnamese translation; taxonomy references paraphrased only",
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "claim_segment_map": [
+        {
+          "discourse": "mn49",
+          "segments": [
+            "mn49:4.1",
+            "mn49:4.2"
+          ],
+          "exact_match": true
+        },
+        {
+          "discourse": "mn130",
+          "segments": [
+            "mn130:2.2"
+          ],
+          "exact_match": true
+        },
+        {
+          "discourse": "sn11.1",
+          "segments": [
+            "sn11.1:2.1",
+            "sn11.1:2.3",
+            "sn11.1:2.4"
+          ],
+          "exact_match": true
+        }
+      ]
+    },
+    {
+      "lesson": 31,
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/an10.13/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/an3.88/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/sn55.5/sujato?lang=en"
+      ],
+      "license_checked": true,
+      "verification": "3/3 exact Bilara root blocks; Vietnamese translation and placement reviewed",
+      "allowed_use": "CC0 Pāli root; original Vietnamese translation; taxonomy references paraphrased only",
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "claim_segment_map": [
+        {
+          "discourse": "sn55.5",
+          "segments": [
+            "sn55.5:2.1",
+            "sn55.5:2.2",
+            "sn55.5:2.3"
+          ],
+          "exact_match": true
+        },
+        {
+          "discourse": "an10.13",
+          "segments": [
+            "an10.13:1.3",
+            "an10.13:1.4",
+            "an10.13:1.5",
+            "an10.13:1.6",
+            "an10.13:2.1",
+            "an10.13:2.2",
+            "an10.13:2.3"
+          ],
+          "exact_match": true
+        },
+        {
+          "discourse": "an3.88",
+          "segments": [
+            "an3.88:1.2",
+            "an3.88:1.4"
+          ],
+          "exact_match": true
+        }
+      ],
+      "taxonomy_reference": {
+        "source_id": "cma-bodhi",
+        "location": "Chapter VII, Compendium of Categories, Fetters; path/fruit mapping cross-referenced with analysis of noble individuals",
+        "claim": "Theravada systematization of fetter abandonment by path/fruit",
+        "use": "paraphrase only"
+      }
+    },
+    {
+      "lesson": 32,
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/iti44/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/sn43.1/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/ud8.3/sujato?lang=en"
+      ],
+      "license_checked": true,
+      "verification": "3/3 exact Bilara root blocks; Vietnamese translation and placement reviewed",
+      "allowed_use": "CC0 Pāli root; original Vietnamese translation; taxonomy references paraphrased only",
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "claim_segment_map": [
+        {
+          "discourse": "ud8.3",
+          "segments": [
+            "ud8.3:3.1",
+            "ud8.3:3.2"
+          ],
+          "exact_match": true
+        },
+        {
+          "discourse": "iti44",
+          "segments": [
+            "iti44:2.1",
+            "iti44:2.3"
+          ],
+          "exact_match": true
+        },
+        {
+          "discourse": "sn43.1",
+          "segments": [
+            "sn43.1:1.2",
+            "sn43.1:1.5"
+          ],
+          "exact_match": true
+        }
+      ]
+    }
+  ]
+}

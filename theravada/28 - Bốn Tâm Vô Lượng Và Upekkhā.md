@@ -159,7 +159,7 @@ Nghiên cứu tâm lý hiện đại về lòng trắc ẩn hoặc thiện chí 
 
 Nếu thực hành khơi hồi tưởng, hoảng, tê rời thân, tuyệt vọng hoặc ý nghĩ tự hại, hãy dừng, định hướng môi trường và tìm hỗ trợ phù hợp. Nguy cơ bạo lực hay tự sát cấp cần dịch vụ khẩn cấp địa phương; đừng chỉ gửi tâm từ. Người đang điều trị tâm thần tiếp tục thuốc theo bác sĩ. Giáo thọ phải tôn trọng đồng thuận, bảo mật trong giới hạn an toàn, quy trình bảo vệ và quyền rời nhóm. Tài liệu này không thay bác sĩ, nhà trị liệu, cơ quan bảo vệ hay tư vấn pháp lý.
 
-Đọc trước: [[27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích]]. Đọc tiếp: 29 — bản thảo tiếp theo chưa xuất bản.
+Đọc trước: [[27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích]]. Đọc tiếp: [[29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc]].
 
 **Nguồn kinh điển chính xác**
 

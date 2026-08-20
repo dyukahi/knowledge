@@ -1,0 +1,182 @@
+{
+  "schema": "theravada-scripture-audit.v1",
+  "scope": "lessons-29-32",
+  "blocks": 12,
+  "passed": 12,
+  "all_pass": true,
+  "rows": [
+    {
+      "lesson": 29,
+      "file": "29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+      "discourse": "mn12",
+      "segment_ids": [
+        "mn12:35.1",
+        "mn12:35.2"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn12/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "8b26d21d5038bcb18413c5409a377ff3d607e9eee4233f92dfe083ff0e758dcc",
+      "actual_sha256": "8b26d21d5038bcb18413c5409a377ff3d607e9eee4233f92dfe083ff0e758dcc"
+    },
+    {
+      "lesson": 29,
+      "file": "29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+      "discourse": "mn12",
+      "segment_ids": [
+        "mn12:35.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn12/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "93729176c44ba3929bb9ac29f4c0d1faa53fa3ab994e68ef5d61244ac18ebb02",
+      "actual_sha256": "93729176c44ba3929bb9ac29f4c0d1faa53fa3ab994e68ef5d61244ac18ebb02"
+    },
+    {
+      "lesson": 29,
+      "file": "29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+      "discourse": "an4.123",
+      "segment_ids": [
+        "an4.123:1.3",
+        "an4.123:1.5"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/an4.123/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "43c84ba732a422eec2c6a6a68919ca8e4989f9bd15c81c60e7390ae7e0719ca2",
+      "actual_sha256": "43c84ba732a422eec2c6a6a68919ca8e4989f9bd15c81c60e7390ae7e0719ca2"
+    },
+    {
+      "lesson": 30,
+      "file": "30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+      "discourse": "mn49",
+      "segment_ids": [
+        "mn49:4.1",
+        "mn49:4.2"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn49/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "27f8af0a908c72424f7e2fb414f9b8f77be1893a41babd84bf70ac31a1ea59e2",
+      "actual_sha256": "27f8af0a908c72424f7e2fb414f9b8f77be1893a41babd84bf70ac31a1ea59e2"
+    },
+    {
+      "lesson": 30,
+      "file": "30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+      "discourse": "mn130",
+      "segment_ids": [
+        "mn130:2.2"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn130/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "225a7f52f9fa498a5d4ea60d46a7e97e2bef0483e023843ab46fd6f634954dbf",
+      "actual_sha256": "225a7f52f9fa498a5d4ea60d46a7e97e2bef0483e023843ab46fd6f634954dbf"
+    },
+    {
+      "lesson": 30,
+      "file": "30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+      "discourse": "sn11.1",
+      "segment_ids": [
+        "sn11.1:2.1",
+        "sn11.1:2.3",
+        "sn11.1:2.4"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn11.1/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "43b34343c28bfc26a89b26c0ddec226e99ce1302dbe292a8996f7bfe5518a5e7",
+      "actual_sha256": "43b34343c28bfc26a89b26c0ddec226e99ce1302dbe292a8996f7bfe5518a5e7"
+    },
+    {
+      "lesson": 31,
+      "file": "31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+      "discourse": "sn55.5",
+      "segment_ids": [
+        "sn55.5:2.1",
+        "sn55.5:2.2",
+        "sn55.5:2.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn55.5/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "1a684c8e9d082c89b44224494d25edc98534b300e794e8c0825167ae6d3b58ff",
+      "actual_sha256": "1a684c8e9d082c89b44224494d25edc98534b300e794e8c0825167ae6d3b58ff"
+    },
+    {
+      "lesson": 31,
+      "file": "31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+      "discourse": "an10.13",
+      "segment_ids": [
+        "an10.13:1.3",
+        "an10.13:1.4",
+        "an10.13:1.5",
+        "an10.13:1.6",
+        "an10.13:2.1",
+        "an10.13:2.2",
+        "an10.13:2.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/an10.13/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "88b71f1a0903509fc32c8cb6828dc370426e6ee5608152c7b8283b6b4d2f25e1",
+      "actual_sha256": "88b71f1a0903509fc32c8cb6828dc370426e6ee5608152c7b8283b6b4d2f25e1"
+    },
+    {
+      "lesson": 31,
+      "file": "31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+      "discourse": "an3.88",
+      "segment_ids": [
+        "an3.88:1.2",
+        "an3.88:1.4"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/an3.88/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "2c27aa58453b73006cffbec70b4a231699b9939c17f9ba7215a963d891a96053",
+      "actual_sha256": "2c27aa58453b73006cffbec70b4a231699b9939c17f9ba7215a963d891a96053"
+    },
+    {
+      "lesson": 32,
+      "file": "32 - Nibbāna - Không Phải Cõi Thứ 32.md",
+      "discourse": "ud8.3",
+      "segment_ids": [
+        "ud8.3:3.1",
+        "ud8.3:3.2"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/ud8.3/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "3eb08bfd035e8f040f9d3f418cdc50664cc2111f2497dfcfd3d0315d59da2f51",
+      "actual_sha256": "3eb08bfd035e8f040f9d3f418cdc50664cc2111f2497dfcfd3d0315d59da2f51"
+    },
+    {
+      "lesson": 32,
+      "file": "32 - Nibbāna - Không Phải Cõi Thứ 32.md",
+      "discourse": "iti44",
+      "segment_ids": [
+        "iti44:2.1",
+        "iti44:2.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/iti44/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "9f43977856aec5b36342f801a27fbcd8ac752ccbf1c3823c51405a3e70abe25f",
+      "actual_sha256": "9f43977856aec5b36342f801a27fbcd8ac752ccbf1c3823c51405a3e70abe25f"
+    },
+    {
+      "lesson": 32,
+      "file": "32 - Nibbāna - Không Phải Cõi Thứ 32.md",
+      "discourse": "sn43.1",
+      "segment_ids": [
+        "sn43.1:1.2",
+        "sn43.1:1.5"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn43.1/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "a1a47a7a22c3415f6b24a8be6d95aad8e41bf3dbdade54b9a90cba842cafc762",
+      "actual_sha256": "a1a47a7a22c3415f6b24a8be6d95aad8e41bf3dbdade54b9a90cba842cafc762"
+    }
+  ]
+}

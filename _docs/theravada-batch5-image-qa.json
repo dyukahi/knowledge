@@ -1,0 +1,298 @@
+{
+  "schema": "theravada-image-qa.v2",
+  "batch": 5,
+  "expected": 28,
+  "webp_count": 28,
+  "png_source_count": 0,
+  "all_decoder_pass": true,
+  "all_dimensions_pass": true,
+  "visual_review": "28/28 PASS after three exact-file remediations",
+  "blockers_regenerated": [
+    "theravada-29-2-2-muoi-mot-coi-duc-noi-duc-cam-con-la-truc-chinh.webp",
+    "theravada-32-5-5-bon-sai-loai-noi-chon-hu-vo-tu-nga-va-bang-chung-khoa-hoc.webp",
+    "theravada-32-7-7-ky-luat-khang-inh-chuoi-oc-va-nguon.webp"
+  ],
+  "images": [
+    {
+      "file": "theravada-29-1-1-hai-ban-o-co-hai-o-phan-giai-khac-nhau.webp",
+      "sha256": "fd73de9880ed7132139c47bcb5609b5de2c37b6d448ed8736dda2733bc7bc9df",
+      "bytes": 152894,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-29-2-2-muoi-mot-coi-duc-noi-duc-cam-con-la-truc-chinh.webp",
+      "sha256": "97c9984cfe70d290a98dda72b54faac5682e9335e9e7c73de3b64f2089f28203",
+      "bytes": 297660,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-29-3-3-muoi-sau-coi-sac-quan-he-voi-jhana-nhung-khong-phai-thang-may-.webp",
+      "sha256": "b563caa89f59913baafa4a3deaf4fd1d496e214aa9eb7ed4b1ca3f2a5caec9a9",
+      "bytes": 84146,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-29-4-4-bon-coi-vo-sac-oi-tuong-tinh-te-van-thuoc-huu.webp",
+      "sha256": "b6bbca946e700f26291af25e31525cbd5b301a7184502a7fba6d6058e87a7333",
+      "bytes": 31976,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-29-5-5-provenance-kinh-som-vi-dieu-phap-va-chu-giai-noi-o-ba-tang.webp",
+      "sha256": "a7e42dfb90bd71512dce14937e929716224e5929aa1996862d43fb260c62a06e",
+      "bytes": 60880,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-29-6-6-dung-ban-o-e-tu-khong-dung-no-e-suy-oan-nguoi-khac.webp",
+      "sha256": "e0282db7d8525e2b995767ae0d6bd71ebc94a9a41399ddfea0830d3f573dc91f",
+      "bytes": 78248,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-29-7-7-ky-luat-khang-inh-chuoi-oc-va-nguon.webp",
+      "sha256": "5a4b94afb83e4bba947c9e44c1e6d7447d140bd8064a94d7a9079f4d96bbf73f",
+      "bytes": 100502,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-30-1-1-deva-khong-ong-nghia-thuong-e-sang-tao.webp",
+      "sha256": "a9ee57f8198130fc9d495696b3b2c3e7bf51aa8ea38dbfb42c926f8e47b09288",
+      "bytes": 169032,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-30-2-2-baka-brahma-quyen-luc-va-tuoi-tho-khong-bao-am-chanh-kien.webp",
+      "sha256": "57273375d2ffffae86cdaee4224f4dec12c621b182e12b87d13438a76053c32d",
+      "bytes": 109060,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-30-3-3-nam-canh-en-va-trong-tam-tac-y-trong-mn-130.webp",
+      "sha256": "29aee4913e59d5378c80924a5417ac85515449f9546fc06dd37dcf7233234564",
+      "bytes": 210314,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-30-4-4-a-tu-la-trong-sn-11-oi-thu-cua-chu-thien-khong-phai-quy-tuyet-.webp",
+      "sha256": "845af2855aa5bbdc1a93b5756eb152691ba379329aefdd565ff10fbcccaa7c1b",
+      "bytes": 164392,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-30-5-5-bon-oa-xu-kho-khong-phai-ban-an-vinh-vien.webp",
+      "sha256": "1532459b57e0a136ffbbc8aa92086995f1b1c6424c88758e987a050a6d1aa77a",
+      "bytes": 96902,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-30-6-6-provenance-va-cach-oc-hien-ai-co-gioi-han.webp",
+      "sha256": "3b2fe1a5bac1da1c9fcb0266147514e499af7b5d26ef217409f41eb398713b7a",
+      "bytes": 113794,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-30-7-7-ky-luat-khang-inh-an-toan-va-chuoi-oc.webp",
+      "sha256": "cbae3a7e3c152248ce15e058707238c2fa27e895f905d39b3519b4c82740fa4c",
+      "bytes": 88292,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-31-1-1-bon-ao-qua-la-ban-o-chuyen-hoa-khong-phai-bon-huy-hieu.webp",
+      "sha256": "773d813abdb27f5423afd914a90f462212c5760c654186bef3dd21e4a440bedd",
+      "bytes": 321526,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-31-2-2-dong-chinh-la-bat-chanh-ao.webp",
+      "sha256": "fc58ece83b9e799f9e2c882797ca6b3bba225c9d7ad27c631890e3ac62c9ffb3",
+      "bytes": 281684,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-31-3-3-muoi-kiet-su-nam-thap-va-nam-cao.webp",
+      "sha256": "40e8dc9c67757ee62d8fd0ff6bcea5a80233fc8daf7fc8ae4c4e9d84de1d5b0f",
+      "bytes": 37614,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-31-4-4-bon-muc-va-nhung-gi-uoc-thao-go.webp",
+      "sha256": "587682fa9e1d1a6a4ab29755b049003a0ae26da4bb6e97a78697c19ce5b85134",
+      "bytes": 147054,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-31-5-5-ba-su-hoc-gom-toan-bo-viec-tu.webp",
+      "sha256": "038693d71b251217641e7fa1b0f38199f5b8180ef70bbd7e2c78f8f1b2151ba9",
+      "bytes": 83642,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-31-6-6-tu-anh-gia-ma-khong-tu-phong-hay-san-cap-bac.webp",
+      "sha256": "270391c4494324c26a578a80237c28c7f9dc60366cc65757c22ee5f2c1a2ff14",
+      "bytes": 53296,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-31-7-7-ky-luat-khang-inh-chuoi-oc-va-nguon.webp",
+      "sha256": "f61babdbdaf02be43b713e5f84e63d81aec1e72f58a92b42dc9b84a38eed8579",
+      "bytes": 90394,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-32-1-1-ung-at-nibbana-len-tren-cung-mot-tam-ban-o-coi.webp",
+      "sha256": "a126c5b62be4cbc3a30cffd5ab060e4e1c958ee95966c6865fc4a74037e7d785",
+      "bytes": 136556,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-32-2-2-khong-sinh-khong-tro-thanh-khong-lam-ra-khong-tao-tac.webp",
+      "sha256": "b6120d9a574bf28657e3ef827eccecab85c5999df4bb87e89901c5ee989ab53b",
+      "bytes": 37996,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-32-3-3-hai-yeu-to-nibbana-khong-phai-hai-niet-ban.webp",
+      "sha256": "c05443cab9e4672023a1c16b8c0dcc7849fc538e6ff03032b061966b44548104",
+      "bytes": 343966,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-32-4-4-vo-vi-uoc-giai-thich-bang-su-tan-tham-san-va-si.webp",
+      "sha256": "0c04ebaf93dfb4748a330428f5011ecd8ab74cfd6f68e26d1fbb3425a2a518be",
+      "bytes": 67232,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-32-5-5-bon-sai-loai-noi-chon-hu-vo-tu-nga-va-bang-chung-khoa-hoc.webp",
+      "sha256": "146fcd38e27e3301bed53587e2effb62e22cf53e2b797aceaeabea3ba51d8948",
+      "bytes": 64048,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-32-6-6-thuc-hanh-huong-ve-tat-nhien-lieu-khong-san-mot-trang-thai.webp",
+      "sha256": "bd0919fea6b53c30a59eb25b10b7524f88aa430106b75384b3b0462dc43586d7",
+      "bytes": 88888,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    },
+    {
+      "file": "theravada-32-7-7-ky-luat-khang-inh-chuoi-oc-va-nguon.webp",
+      "sha256": "3a56ee7ead6b0aaeb0e9bad29b04e68571bfe7b4d062167ffdb8b7531e82e010",
+      "bytes": 94476,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "decoder_pass": true
+    }
+  ],
+  "source_png_disposition": "Moved to macOS Trash only after 28 staged WebPs decoded, dimensions matched, and 28 article links resolved."
+}

@@ -626,7 +626,7 @@
       "module_slug": "cosmology-awakening-nibbana",
       "canonical_role": "thirty-one-realms",
       "title": "Bản Đồ 31 Cõi — 11 Dục, 16 Sắc, 4 Vô Sắc",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         19,
         20,
@@ -640,7 +640,8 @@
         "early-sutta",
         "abhidhamma",
         "commentary"
-      ]
+      ],
+      "path": "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md"
     },
     {
       "lesson": 30,
@@ -648,7 +649,7 @@
       "module_slug": "cosmology-awakening-nibbana",
       "canonical_role": "devas-brahmas-asuras-lower-realms",
       "title": "Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         29
       ],
@@ -662,7 +663,8 @@
         "early-sutta",
         "abhidhamma",
         "commentary"
-      ]
+      ],
+      "path": "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md"
     },
     {
       "lesson": 31,
@@ -670,7 +672,7 @@
       "module_slug": "cosmology-awakening-nibbana",
       "canonical_role": "four-paths-fruits-ten-fetters",
       "title": "Bốn Thánh Quả Và Mười Kiết Sử",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         8,
         15,
@@ -684,7 +686,8 @@
       "provenance": [
         "early-sutta",
         "commentary"
-      ]
+      ],
+      "path": "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md"
     },
     {
       "lesson": 32,
@@ -692,7 +695,7 @@
       "module_slug": "cosmology-awakening-nibbana",
       "canonical_role": "nibbana",
       "title": "Nibbāna — Không Phải Cõi Thứ 32",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         5,
         15,
@@ -709,7 +712,8 @@
         "early-sutta",
         "commentary",
         "modern-theravada"
-      ]
+      ],
+      "path": "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md"
     },
     {
       "lesson": 33,

@@ -1,8 +1,8 @@
 {
   "stats": {
-    "notes": 275,
+    "notes": 280,
     "domains": {
-      "_docs": 16,
+      "_docs": 17,
       "root": 14,
       "crypto-finance": 18,
       "esoterica": 76,
@@ -10,12 +10,12 @@
       "mental-models": 44,
       "politics-conspiracy": 27,
       "science-tech": 20,
-      "theravada": 33
+      "theravada": 37
     },
     "tags": 308,
-    "wikilinkEdges": 2406,
+    "wikilinkEdges": 2430,
     "brokenLinks": 0,
-    "orphans": 17
+    "orphans": 18
   },
   "domains": {
     "_docs": [
@@ -280,7 +280,23 @@
         "outlinks": [],
         "backlinks": [],
         "words": 57,
-        "summary": "- Lessons 23–28: practice and safety scope - 18/18 Pāli blocks exact-match Bilara root segments - Original Vietnamese working translations manually reviewed - 42 WebP, seven per lesson; exact-file jhāna replacement passed visual QA - Medical and psychiatric s…"
+        "summary": "- Lessons 23–28: practice and safety scope - 19/19 Pāli blocks exact-match Bilara root segments - Original Vietnamese working translations manually reviewed - 42 WebP, seven per lesson; exact-file jhāna replacement passed visual QA - Medical and psychiatric s…"
+      },
+      {
+        "path": "_docs/THERAVADA-BATCH5-VALIDATION.md",
+        "title": "Theravāda Batch 5 Validation",
+        "domain": "_docs",
+        "tags": [],
+        "aliases": [],
+        "headings": [
+          "Theravāda Batch 5 Validation"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [],
+        "words": 83,
+        "summary": "- Lessons 29–32: cosmology, noble attainments, and Nibbāna - 12/12 Pāli blocks exact-match Bilara root segments - Vietnamese translations and placement manually reviewed after deterministic source sync - 31-plane and path/fetter mappings labeled Abhidhamma/co…"
       },
       {
         "path": "_docs/THIN-PAGE-CLASSIFICATION.md",
@@ -16797,6 +16813,7 @@
           "Batch 2 — Đã Xuất Bản",
           "Batch 3 — Đã Xuất Bản",
           "Batch 4 — Đã Xuất Bản",
+          "Batch 5 — Đã Xuất Bản",
           "Bắt Đầu Ở Đâu?",
           "Tôi Chưa Biết Gì Về Phật Giáo",
           "Tôi Muốn Hiểu Tâm Và Cái Tôi",
@@ -16844,6 +16861,10 @@
           "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi",
           "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
           "28 - Bốn Tâm Vô Lượng Và Upekkhā",
+          "29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc",
+          "30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
+          "31 - Bốn Thánh Quả Và Mười Kiết Sử",
+          "32 - Nibbāna - Không Phải Cõi Thứ 32",
           "Atula",
           "Chuẩn Nguồn Và Xuất Xứ Theravāda",
           "Luân Hồi",
@@ -16889,6 +16910,10 @@
           "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
           "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
           "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+          "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+          "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+          "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+          "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md",
           "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
           "theravada/Mục Lục Kinh Dẫn Pāli.md",
           "theravada/Tiến Độ Chương Trình Theravāda.md",
@@ -16900,8 +16925,48 @@
           "mental-models/index.md",
           "MOC - Esoterica & Consciousness.md"
         ],
-        "words": 1230,
+        "words": 1306,
         "summary": "**Đây là một lộ trình học, không phải tuyển tập bài tâm linh rời rạc.** Người mới bắt đầu từ Đức Phật lịch sử, Tứ Thánh Đế và Bát Chánh Đạo; người đã có nền có thể đi sâu vào năm uẩn, duyên khởi, thiền, Vi Diệu Pháp, 31 cõi và Nibbāna."
+      },
+      {
+        "path": "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md",
+        "title": "Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ",
+        "domain": "theravada",
+        "tags": [],
+        "aliases": [
+          "Luân Hồi Không Phải Prison Planet",
+          "Luân Hồi Không Phải Soul School",
+          "Saṃsāra"
+        ],
+        "headings": [
+          "Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ",
+          "1. Saṃsāra Là Sự Lang Thang, Không Phải Tên Một Địa Điểm",
+          "2. SN 15.1: Không Thể Đếm Hết Cỏ, Gỗ, Cành Và Lá",
+          "3. SN 15.3: Biển Nước Mắt Và Trọng Lượng Của Sự Lặp Lại",
+          "4. Vì Sao “Trường Học Linh Hồn” Chỉ Là Lăng Kính So Sánh",
+          "5. Vì Sao “Nhà Tù Vũ Trụ” Không Phải Giáo Lý Pāli",
+          "6. Lối Ra Tập Trung Vào Điều Kiện, Không Vào Cai Ngục Bí Mật",
+          "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
+        ],
+        "wikilinks": [
+          "21 - Những Gì Kinh Pāli Nói Về Cái Chết",
+          "23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md",
+          "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md"
+        ],
+        "backlinks": [
+          "esoterica/Luân Hồi.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "index.md",
+          "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md",
+          "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+          "theravada/index.md"
+        ],
+        "words": 3717,
+        "summary": "!dòng lang thang có điều kiện không có bản đồ của một nhà tù không gian"
       },
       {
         "path": "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md",
@@ -17017,43 +17082,6 @@
         "summary": "!hình tượng tự nhiên diễn giải 1. không chỉ hỏi “khổ từ đâu đến?” mà còn “khổ dừng thế nào?” mà không giả làm bằng chứng lịch sử"
       },
       {
-        "path": "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md",
-        "title": "Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ",
-        "domain": "theravada",
-        "tags": [],
-        "aliases": [
-          "Luân Hồi Không Phải Prison Planet",
-          "Luân Hồi Không Phải Soul School",
-          "Saṃsāra"
-        ],
-        "headings": [
-          "Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ",
-          "1. Saṃsāra Là Sự Lang Thang, Không Phải Tên Một Địa Điểm",
-          "2. SN 15.1: Không Thể Đếm Hết Cỏ, Gỗ, Cành Và Lá",
-          "3. SN 15.3: Biển Nước Mắt Và Trọng Lượng Của Sự Lặp Lại",
-          "4. Vì Sao “Trường Học Linh Hồn” Chỉ Là Lăng Kính So Sánh",
-          "5. Vì Sao “Nhà Tù Vũ Trụ” Không Phải Giáo Lý Pāli",
-          "6. Lối Ra Tập Trung Vào Điều Kiện, Không Vào Cai Ngục Bí Mật",
-          "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
-        ],
-        "wikilinks": [
-          "21 - Những Gì Kinh Pāli Nói Về Cái Chết"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md"
-        ],
-        "backlinks": [
-          "esoterica/Luân Hồi.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "index.md",
-          "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md",
-          "theravada/index.md"
-        ],
-        "words": 3716,
-        "summary": "!dòng lang thang có điều kiện không có bản đồ của một nhà tù không gian"
-      },
-      {
         "path": "theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md",
         "title": "Theravāda Là Gì — Truyền Thừa, Phạm Vi Và Những Hiểu Lầm",
         "domain": "theravada",
@@ -17163,6 +17191,222 @@
         "summary": "**Ariya aṭṭhaṅgika magga — đọc gần đúng “a-ri-ya át-thăng-ghi-ca mắc-ga” — con đường cao quý có tám chi** là đế thứ tư trong Tứ Thánh Đế. Từ *aṅga* chỉ chi, phần hay yếu tố. Hình ảnh thích hợp hơn một danh sách việc cần hoàn tất là một hệ thống đào luyện: các…"
       },
       {
+        "path": "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+        "title": "Bản Đồ 31 Cõi — 11 Dục, 16 Sắc, 4 Vô Sắc",
+        "domain": "theravada",
+        "tags": [],
+        "aliases": [
+          "31 Cõi Theravāda",
+          "Ba Mươi Mốt Cõi"
+        ],
+        "headings": [
+          "Bản Đồ 31 Cõi — 11 Dục, 16 Sắc, 4 Vô Sắc",
+          "1. Hai Bản Đồ Có Hai Độ Phân Giải Khác Nhau",
+          "2. Mười Một Cõi Dục: Nơi Dục Cảm Còn Là Trục Chính",
+          "3. Mười Sáu Cõi Sắc: Quan Hệ Với Jhāna Nhưng Không Phải Thang Máy Tự Động",
+          "4. Bốn Cõi Vô Sắc: Đối Tượng Tinh Tế Vẫn Thuộc Hữu",
+          "5. Provenance: Kinh Sớm, Vi Diệu Pháp Và Chú Giải Nói Ở Ba Tầng",
+          "6. Dùng Bản Đồ Để Tu, Không Dùng Nó Để Suy Đoán Người Khác",
+          "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
+        ],
+        "wikilinks": [
+          "28 - Bốn Tâm Vô Lượng Và Upekkhā",
+          "30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+          "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md"
+        ],
+        "backlinks": [
+          "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+          "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+          "theravada/index.md"
+        ],
+        "words": 2236,
+        "summary": "!hình minh họa biên tập cho 1. hai bản đồ có hai độ phân giải khác nhau"
+      },
+      {
+        "path": "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+        "title": "Bốn Thánh Quả Và Mười Kiết Sử",
+        "domain": "theravada",
+        "tags": [],
+        "aliases": [
+          "Bốn Đạo Quả",
+          "Mười Kiết Sử"
+        ],
+        "headings": [
+          "Bốn Thánh Quả Và Mười Kiết Sử",
+          "1. Bốn Đạo-Quả Là Bản Đồ Chuyển Hóa, Không Phải Bốn Huy Hiệu",
+          "2. “Dòng” Chính Là Bát Chánh Đạo",
+          "3. Mười Kiết Sử: Năm Thấp Và Năm Cao",
+          "4. Bốn Mức Và Những Gì Được Tháo Gỡ",
+          "5. Ba Sự Học Gom Toàn Bộ Việc Tu",
+          "6. Tự Đánh Giá Mà Không Tự Phong Hay Săn Cấp Bậc",
+          "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
+        ],
+        "wikilinks": [
+          "30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
+          "32 - Nibbāna - Không Phải Cõi Thứ 32"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+          "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md"
+        ],
+        "backlinks": [
+          "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+          "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md",
+          "theravada/index.md"
+        ],
+        "words": 3244,
+        "summary": "!hình minh họa biên tập cho 1. bốn đạo-quả là bản đồ chuyển hóa, không phải bốn huy hiệu"
+      },
+      {
+        "path": "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+        "title": "Bốn Tâm Vô Lượng Và Upekkhā",
+        "domain": "theravada",
+        "tags": [],
+        "aliases": [
+          "Brahmavihāra Và Upekkhā",
+          "Bốn Tâm Vô Lượng"
+        ],
+        "headings": [
+          "Bốn Tâm Vô Lượng Và Upekkhā",
+          "1. “Vô Lượng” Là Không Dựng Biên Giới Thù Ghét",
+          "2. Mettā: Mong An Lành Không Đồng Nghĩa Chiều Theo Mọi Yêu Cầu",
+          "3. Karuṇā: Đến Gần Khổ Mà Không Chìm Trong Khổ",
+          "4. Muditā: Niềm Vui Không Chiếm Hữu Và Thuốc Giải Ganh Tị",
+          "5. Upekkhā: Xả Không Phải Thờ Ơ, Và Ranh Giới Không Phải Sân",
+          "6. SN 46.54: Tâm Vô Lượng Đi Cùng Giác Chi Và Sự Phân Biệt Mục Đích",
+          "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
+        ],
+        "wikilinks": [
+          "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
+          "29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+          "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md"
+        ],
+        "backlinks": [
+          "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+          "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+          "theravada/index.md"
+        ],
+        "words": 3198,
+        "summary": "!hình tượng tự nhiên diễn giải 1. “vô lượng” là không dựng biên giới thù ghét không giả làm bằng chứng lịch sử hoặc y khoa"
+      },
+      {
+        "path": "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+        "title": "Bốn Tầng Thiền — Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
+        "domain": "theravada",
+        "tags": [],
+        "aliases": [
+          "Bốn Jhāna",
+          "Bốn Tầng Thiền"
+        ],
+        "headings": [
+          "Bốn Tầng Thiền — Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
+          "1. Jhāna Nằm Trong Một Lộ Trình Đạo Đức Và Tỉnh Giác",
+          "2. Sơ Thiền: Ly Dục, Tầm-Tứ Và Hỷ-Lạc Do Ly Sinh",
+          "3. Nhị Thiền: Tầm-Tứ Lắng Và Sự Nhất Tâm Nổi Rõ",
+          "4. Tam Thiền: Hỷ Phai, Xả Và Lạc Được Biết Bằng Thân",
+          "5. Tứ Thiền: Vượt Lạc-Khổ Và Niệm Thanh Tịnh Nhờ Xả",
+          "6. Cuộc Tranh Luận Về Độ Sâu Và Cách Đọc Có Kỷ Luật",
+          "7. Kỷ Luật Khẳng Định, Giới Hạn Và Chuỗi Đọc"
+        ],
+        "wikilinks": [
+          "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi",
+          "28 - Bốn Tâm Vô Lượng Và Upekkhā"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+          "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md"
+        ],
+        "backlinks": [
+          "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+          "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+          "theravada/index.md"
+        ],
+        "words": 3286,
+        "summary": "!hình tượng tự nhiên diễn giải 1. jhāna nằm trong một lộ trình đạo đức và tỉnh giác không giả làm bằng chứng lịch sử hoặc y khoa"
+      },
+      {
+        "path": "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+        "title": "Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
+        "domain": "theravada",
+        "tags": [],
+        "aliases": [
+          "Bốn Đọa Xứ",
+          "Deva Brahmā Asura"
+        ],
+        "headings": [
+          "Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
+          "1. Deva Không Đồng Nghĩa Thượng Đế Sáng Tạo",
+          "2. Baka Brahmā: Quyền Lực Và Tuổi Thọ Không Bảo Đảm Chánh Kiến",
+          "3. Năm Cảnh Đến Và Trọng Tâm Tác Ý Trong MN 130",
+          "4. A-tu-la Trong SN 11: Đối Thủ Của Chư Thiên, Không Phải Quỷ Tuyệt Đối",
+          "5. Bốn Đọa Xứ: Khổ Không Phải Bản Án Vĩnh Viễn",
+          "6. Provenance Và Cách Đọc Hiện Đại Có Giới Hạn",
+          "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
+        ],
+        "wikilinks": [
+          "29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc",
+          "31 - Bốn Thánh Quả Và Mười Kiết Sử"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+          "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md"
+        ],
+        "backlinks": [
+          "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+          "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+          "theravada/index.md"
+        ],
+        "words": 2501,
+        "summary": "!hình minh họa biên tập cho 1. deva không đồng nghĩa thượng đế sáng tạo"
+      },
+      {
+        "path": "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+        "title": "Chỉ Và Quán — Samatha Và Vipassanā Có Thật Sự Tách Đôi?",
+        "domain": "theravada",
+        "tags": [],
+        "aliases": [
+          "Chỉ Và Quán",
+          "Samatha Và Vipassanā"
+        ],
+        "headings": [
+          "Chỉ Và Quán — Samatha Và Vipassanā Có Thật Sự Tách Đôi?",
+          "1. Hai Phẩm Chất Của Một Con Đường, Không Phải Hai Giáo Phái",
+          "2. Chỉ Đi Trước Quán: Yên Không Phải Là Đích Cuối",
+          "3. Quán Đi Trước Chỉ: Thấy Rõ Có Thể Dẫn Tâm Đến Lắng",
+          "4. Chỉ Và Quán Cùng Ách: Phối Hợp Không Có Nghĩa Đồng Đều Từng Giây",
+          "5. Đường Thứ Tư Và Tâm Bị Dao Động Bởi Pháp",
+          "6. Tách Dòng Truyền: Kinh Sớm, Chú Giải Và Theravāda Hiện Đại",
+          "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
+        ],
+        "wikilinks": [
+          "25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở",
+          "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+          "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md"
+        ],
+        "backlinks": [
+          "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+          "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+          "theravada/index.md"
+        ],
+        "words": 3346,
+        "summary": "!hình tượng tự nhiên diễn giải 1. hai phẩm chất của một con đường, không phải hai giáo phái không giả làm bằng chứng lịch sử hoặc y khoa"
+      },
+      {
         "path": "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md",
         "title": "Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều",
         "domain": "theravada",
@@ -17266,6 +17510,42 @@
         ],
         "words": 3837,
         "summary": "!bốn lớp Kinh Pāli tang lễ chú giải và trải nghiệm hiện đại được phân ranh"
+      },
+      {
+        "path": "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+        "title": "Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh",
+        "domain": "theravada",
+        "tags": [],
+        "aliases": [
+          "Năm Giới Tại Gia",
+          "Pañcasīla"
+        ],
+        "headings": [
+          "Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh",
+          "1. Năm Sự Học, Không Phải Năm Mệnh Lệnh Từ Một Đấng Phán Xét",
+          "2. Giới Thứ Nhất Và Thứ Hai: Mạng Sống, Tài Sản, An Toàn Chung",
+          "3. Giới Thứ Ba: Dục, Đồng Thuận Và Trách Nhiệm Quan Hệ",
+          "4. Giới Thứ Tư Và Thứ Năm: Sự Thật, Chất Say Và Năng Lực Không Buông Lung",
+          "5. Năm Giới Tại Gia Không Phải Luật Tạng Xuất Gia",
+          "6. Một Cách Thực Hành Không Hại, Có Ranh Giới Và Có Khả Năng Sửa Sai",
+          "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
+        ],
+        "wikilinks": [
+          "22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ",
+          "24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md",
+          "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md"
+        ],
+        "backlinks": [
+          "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md",
+          "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+          "theravada/index.md"
+        ],
+        "words": 4061,
+        "summary": "!hình tượng tự nhiên diễn giải 1. năm sự học, không phải năm mệnh lệnh từ một đấng phán xét không giả làm bằng chứng lịch sử hoặc y khoa"
       },
       {
         "path": "theravada/11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào.md",
@@ -17375,6 +17655,42 @@
         "summary": "**Tipiṭaka — đọc gần đúng “Ti-pi-ta-ka” — Tam Tạng, ba giỏ hay ba kho văn bản** là kinh điển Pāli của Theravāda. Ba tạng là **Vinaya — “Vi-na-ya” — Luật, kỷ luật tu viện**; **Sutta — “Sút-ta” — Kinh, bài giảng**; và **Abhidhamma — “A-bi-đăm-ma” — Vi Diệu Pháp…"
       },
       {
+        "path": "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+        "title": "Tứ Niệm Xứ — Bốn Nền Tảng Của Chánh Niệm",
+        "domain": "theravada",
+        "tags": [],
+        "aliases": [
+          "Bốn Niệm Xứ",
+          "Satipaṭṭhāna"
+        ],
+        "headings": [
+          "Tứ Niệm Xứ — Bốn Nền Tảng Của Chánh Niệm",
+          "1. Satipaṭṭhāna Là Bốn Phạm Vi Quán Sát Có Mục Đích Giải Thoát",
+          "2. Công Thức Chung: Nhiệt Tâm, Hiểu Rõ, Có Niệm Và Không Bám Víu",
+          "3. Thân Và Thọ: Từ Hơi Thở Đến Sắc Thái Của Kinh Nghiệm",
+          "4. Tâm Và Pháp: Biết Trạng Thái, Dùng Bản Đồ Mà Không Biến Thành Bản Ngã",
+          "5. Nội, Ngoại, Sinh Và Diệt: Phạm Vi Quan Sát Không Bị Thu Hẹp Vào Một Điểm",
+          "6. Ekāyana Và Giới Hạn Của Tuyên Bố Một Kỹ Thuật Độc Quyền",
+          "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
+        ],
+        "wikilinks": [
+          "23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh",
+          "25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+          "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md"
+        ],
+        "backlinks": [
+          "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+          "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+          "theravada/index.md"
+        ],
+        "words": 3669,
+        "summary": "!hình tượng tự nhiên diễn giải 1. satipaṭṭhāna là bốn phạm vi quán sát có mục đích giải thoát không giả làm bằng chứng lịch sử hoặc y khoa"
+      },
+      {
         "path": "theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn.md",
         "title": "Viññāṇa — Thức Không Phải Linh Hồn",
         "domain": "theravada",
@@ -17481,6 +17797,42 @@
         ],
         "words": 3074,
         "summary": "!căn đối tượng thức hội thành xúc, thọ mang ba sắc độ và ái vươn tay nắm nhưng giữa các mắt có không gian quan sát"
+      },
+      {
+        "path": "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+        "title": "Ānāpānasati — Toàn Bộ Con Đường Trong Một Hơi Thở",
+        "domain": "theravada",
+        "tags": [],
+        "aliases": [
+          "Mười Sáu Bước Ānāpānasati",
+          "Niệm Hơi Thở"
+        ],
+        "headings": [
+          "Ānāpānasati — Toàn Bộ Con Đường Trong Một Hơi Thở",
+          "1. MN 118 Dạy Biết Hơi Thở Trước Khi Dạy Mười Sáu Bước",
+          "2. Nhóm Một — Bốn Bước Về Thân Và Cụm “Làm Lắng Dịu Thân Hành”",
+          "3. Nhóm Hai — Hỷ, Lạc, Tâm Hành Và Sự Lắng Dịu Không Đồng Nghĩa Săn Khoái Cảm",
+          "4. Nhóm Ba — Cảm Nhận, Làm Sáng, Định Tĩnh Và Giải Thoát Tâm",
+          "5. Nhóm Bốn — Vô Thường, Ly Tham, Đoạn Diệt Và Buông Trả",
+          "6. Mười Sáu Bước Làm Viên Mãn Tứ Niệm Xứ Và Bảy Giác Chi Như Thế Nào",
+          "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
+        ],
+        "wikilinks": [
+          "24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm",
+          "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+          "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md"
+        ],
+        "backlinks": [
+          "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+          "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+          "theravada/index.md"
+        ],
+        "words": 3360,
+        "summary": "!hình tượng tự nhiên diễn giải 1. mn 118 dạy biết hơi thở trước khi dạy mười sáu bước không giả làm bằng chứng lịch sử hoặc y khoa"
       },
       {
         "path": "theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn.md",
@@ -17700,6 +18052,39 @@
         "summary": "!một con đường giới định tuệ có mũi tên tiến và vòng phản hồi, không phải thang khóa cứng"
       },
       {
+        "path": "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md",
+        "title": "Nibbāna — Không Phải Cõi Thứ 32",
+        "domain": "theravada",
+        "tags": [],
+        "aliases": [
+          "Nibbāna",
+          "Niết-bàn Không Phải Một Cõi"
+        ],
+        "headings": [
+          "Nibbāna — Không Phải Cõi Thứ 32",
+          "1. Đừng Đặt Nibbāna Lên Trên Cùng Một Tấm Bản Đồ Cõi",
+          "2. “Không Sinh, Không Trở Thành, Không Làm Ra, Không Tạo Tác”",
+          "3. Hai Yếu Tố Nibbāna Không Phải Hai Niết-bàn",
+          "4. Vô Vi Được Giải Thích Bằng Sự Tận Tham, Sân Và Si",
+          "5. Bốn Sai Loại: Nơi Chốn, Hư Vô, Tự Ngã Và Bằng Chứng Khoa Học",
+          "6. Thực Hành Hướng Về Tắt Nhiên Liệu, Không Săn Một Trạng Thái",
+          "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
+        ],
+        "wikilinks": [
+          "31 - Bốn Thánh Quả Và Mười Kiết Sử"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md"
+        ],
+        "backlinks": [
+          "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+          "theravada/index.md"
+        ],
+        "words": 3101,
+        "summary": "!hình minh họa biên tập cho 1. đừng đặt nibbāna lên trên cùng một tấm bản đồ cõi"
+      },
+      {
         "path": "theravada/07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ.md",
         "title": "Ái, Thủ Và Hữu — Cơ Chế Tự Nuôi Của Khổ",
         "domain": "theravada",
@@ -17768,90 +18153,6 @@
         "summary": "**Đây là từ điển làm việc, không phải bảng thay từ một–một.** Một từ Pāli có thể đổi sắc thái theo văn cảnh. “Cách đọc gần đúng” chỉ giúp người Việt bắt đầu, không tự nhận là chuẩn phát âm duy nhất của mọi truyền thống Theravāda."
       },
       {
-        "path": "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
-        "title": "Bốn Tâm Vô Lượng Và Upekkhā",
-        "domain": "theravada",
-        "tags": [],
-        "aliases": [
-          "Brahmavihāra Và Upekkhā",
-          "Bốn Tâm Vô Lượng"
-        ],
-        "headings": [
-          "Bốn Tâm Vô Lượng Và Upekkhā",
-          "1. “Vô Lượng” Là Không Dựng Biên Giới Thù Ghét",
-          "2. Mettā: Mong An Lành Không Đồng Nghĩa Chiều Theo Mọi Yêu Cầu",
-          "3. Karuṇā: Đến Gần Khổ Mà Không Chìm Trong Khổ",
-          "4. Muditā: Niềm Vui Không Chiếm Hữu Và Thuốc Giải Ganh Tị",
-          "5. Upekkhā: Xả Không Phải Thờ Ơ, Và Ranh Giới Không Phải Sân",
-          "6. SN 46.54: Tâm Vô Lượng Đi Cùng Giác Chi Và Sự Phân Biệt Mục Đích",
-          "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [
-          "theravada/index.md"
-        ],
-        "words": 3196,
-        "summary": "!hình tượng tự nhiên diễn giải 1. “vô lượng” là không dựng biên giới thù ghét không giả làm bằng chứng lịch sử hoặc y khoa"
-      },
-      {
-        "path": "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
-        "title": "Bốn Tầng Thiền — Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
-        "domain": "theravada",
-        "tags": [],
-        "aliases": [
-          "Bốn Jhāna",
-          "Bốn Tầng Thiền"
-        ],
-        "headings": [
-          "Bốn Tầng Thiền — Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
-          "1. Jhāna Nằm Trong Một Lộ Trình Đạo Đức Và Tỉnh Giác",
-          "2. Sơ Thiền: Ly Dục, Tầm-Tứ Và Hỷ-Lạc Do Ly Sinh",
-          "3. Nhị Thiền: Tầm-Tứ Lắng Và Sự Nhất Tâm Nổi Rõ",
-          "4. Tam Thiền: Hỷ Phai, Xả Và Lạc Được Biết Bằng Thân",
-          "5. Tứ Thiền: Vượt Lạc-Khổ Và Niệm Thanh Tịnh Nhờ Xả",
-          "6. Cuộc Tranh Luận Về Độ Sâu Và Cách Đọc Có Kỷ Luật",
-          "7. Kỷ Luật Khẳng Định, Giới Hạn Và Chuỗi Đọc"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [
-          "theravada/index.md"
-        ],
-        "words": 3245,
-        "summary": "!hình tượng tự nhiên diễn giải 1. jhāna nằm trong một lộ trình đạo đức và tỉnh giác không giả làm bằng chứng lịch sử hoặc y khoa"
-      },
-      {
-        "path": "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
-        "title": "Chỉ Và Quán — Samatha Và Vipassanā Có Thật Sự Tách Đôi?",
-        "domain": "theravada",
-        "tags": [],
-        "aliases": [
-          "Chỉ Và Quán",
-          "Samatha Và Vipassanā"
-        ],
-        "headings": [
-          "Chỉ Và Quán — Samatha Và Vipassanā Có Thật Sự Tách Đôi?",
-          "1. Hai Phẩm Chất Của Một Con Đường, Không Phải Hai Giáo Phái",
-          "2. Chỉ Đi Trước Quán: Yên Không Phải Là Đích Cuối",
-          "3. Quán Đi Trước Chỉ: Thấy Rõ Có Thể Dẫn Tâm Đến Lắng",
-          "4. Chỉ Và Quán Cùng Ách: Phối Hợp Không Có Nghĩa Đồng Đều Từng Giây",
-          "5. Đường Thứ Tư Và Tâm Bị Dao Động Bởi Pháp",
-          "6. Tách Dòng Truyền: Kinh Sớm, Chú Giải Và Theravāda Hiện Đại",
-          "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [
-          "theravada/index.md"
-        ],
-        "words": 3344,
-        "summary": "!hình tượng tự nhiên diễn giải 1. hai phẩm chất của một con đường, không phải hai giáo phái không giả làm bằng chứng lịch sử hoặc y khoa"
-      },
-      {
         "path": "theravada/Mục Lục Kinh Dẫn Pāli.md",
         "title": "Mục Lục Kinh Dẫn Pāli",
         "domain": "theravada",
@@ -17886,34 +18187,6 @@
         "summary": "**Đây là nguồn neo nghiên cứu, không phải thư mục cuối.** Trước khi một bài được xuất bản, mã kinh, văn cảnh, Pāli gốc, ít nhất một bản dịch và giấy phép của từng ấn bản phải được kiểm tra lại."
       },
       {
-        "path": "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
-        "title": "Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh",
-        "domain": "theravada",
-        "tags": [],
-        "aliases": [
-          "Năm Giới Tại Gia",
-          "Pañcasīla"
-        ],
-        "headings": [
-          "Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh",
-          "1. Năm Sự Học, Không Phải Năm Mệnh Lệnh Từ Một Đấng Phán Xét",
-          "2. Giới Thứ Nhất Và Thứ Hai: Mạng Sống, Tài Sản, An Toàn Chung",
-          "3. Giới Thứ Ba: Dục, Đồng Thuận Và Trách Nhiệm Quan Hệ",
-          "4. Giới Thứ Tư Và Thứ Năm: Sự Thật, Chất Say Và Năng Lực Không Buông Lung",
-          "5. Năm Giới Tại Gia Không Phải Luật Tạng Xuất Gia",
-          "6. Một Cách Thực Hành Không Hại, Có Ranh Giới Và Có Khả Năng Sửa Sai",
-          "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [
-          "theravada/index.md"
-        ],
-        "words": 4059,
-        "summary": "!hình tượng tự nhiên diễn giải 1. năm sự học, không phải năm mệnh lệnh từ một đấng phán xét không giả làm bằng chứng lịch sử hoặc y khoa"
-      },
-      {
         "path": "theravada/Tiến Độ Chương Trình Theravāda.md",
         "title": "Tiến Độ Chương Trình Theravāda",
         "domain": "theravada",
@@ -17945,64 +18218,8 @@
         "backlinks": [
           "theravada/index.md"
         ],
-        "words": 809,
+        "words": 805,
         "summary": "**Trạng thái ở đây phản ánh mức độ hoàn thành học thuật, không chỉ việc một tệp đã tồn tại.** Bài chỉ được đánh dấu “Đã xuất bản” sau khi nguồn, thuật ngữ, giấy phép, phản biện, hình ảnh, navigation và bản live đều qua kiểm tra."
-      },
-      {
-        "path": "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
-        "title": "Tứ Niệm Xứ — Bốn Nền Tảng Của Chánh Niệm",
-        "domain": "theravada",
-        "tags": [],
-        "aliases": [
-          "Bốn Niệm Xứ",
-          "Satipaṭṭhāna"
-        ],
-        "headings": [
-          "Tứ Niệm Xứ — Bốn Nền Tảng Của Chánh Niệm",
-          "1. Satipaṭṭhāna Là Bốn Phạm Vi Quán Sát Có Mục Đích Giải Thoát",
-          "2. Công Thức Chung: Nhiệt Tâm, Hiểu Rõ, Có Niệm Và Không Bám Víu",
-          "3. Thân Và Thọ: Từ Hơi Thở Đến Sắc Thái Của Kinh Nghiệm",
-          "4. Tâm Và Pháp: Biết Trạng Thái, Dùng Bản Đồ Mà Không Biến Thành Bản Ngã",
-          "5. Nội, Ngoại, Sinh Và Diệt: Phạm Vi Quan Sát Không Bị Thu Hẹp Vào Một Điểm",
-          "6. Ekāyana Và Giới Hạn Của Tuyên Bố Một Kỹ Thuật Độc Quyền",
-          "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [
-          "theravada/index.md"
-        ],
-        "words": 3667,
-        "summary": "!hình tượng tự nhiên diễn giải 1. satipaṭṭhāna là bốn phạm vi quán sát có mục đích giải thoát không giả làm bằng chứng lịch sử hoặc y khoa"
-      },
-      {
-        "path": "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
-        "title": "Ānāpānasati — Toàn Bộ Con Đường Trong Một Hơi Thở",
-        "domain": "theravada",
-        "tags": [],
-        "aliases": [
-          "Mười Sáu Bước Ānāpānasati",
-          "Niệm Hơi Thở"
-        ],
-        "headings": [
-          "Ānāpānasati — Toàn Bộ Con Đường Trong Một Hơi Thở",
-          "1. MN 118 Dạy Biết Hơi Thở Trước Khi Dạy Mười Sáu Bước",
-          "2. Nhóm Một — Bốn Bước Về Thân Và Cụm “Làm Lắng Dịu Thân Hành”",
-          "3. Nhóm Hai — Hỷ, Lạc, Tâm Hành Và Sự Lắng Dịu Không Đồng Nghĩa Săn Khoái Cảm",
-          "4. Nhóm Ba — Cảm Nhận, Làm Sáng, Định Tĩnh Và Giải Thoát Tâm",
-          "5. Nhóm Bốn — Vô Thường, Ly Tham, Đoạn Diệt Và Buông Trả",
-          "6. Mười Sáu Bước Làm Viên Mãn Tứ Niệm Xứ Và Bảy Giác Chi Như Thế Nào",
-          "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
-        ],
-        "wikilinks": [],
-        "mdlinks": [],
-        "outlinks": [],
-        "backlinks": [
-          "theravada/index.md"
-        ],
-        "words": 3358,
-        "summary": "!hình tượng tự nhiên diễn giải 1. mn 118 dạy biết hơi thở trước khi dạy mười sáu bước không giả làm bằng chứng lịch sử hoặc y khoa"
       }
     ]
   },
@@ -20338,6 +20555,143 @@
       "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
     },
     {
+      "path": "theravada/index.md",
+      "title": "Theravāda Và Kinh Tạng Pāli",
+      "domain": "theravada",
+      "tags": [
+        "kinh-tang",
+        "pali",
+        "phat-giao",
+        "theravada"
+      ],
+      "aliases": [
+        "Kinh Tạng Pāli",
+        "Phật Giáo Nam Tông",
+        "Theravāda"
+      ],
+      "headings": [
+        "Theravāda Và Kinh Tạng Pāli",
+        "Bốn Tài Liệu Nền",
+        "Batch 1 — Đã Xuất Bản",
+        "Batch 2 — Đã Xuất Bản",
+        "Batch 3 — Đã Xuất Bản",
+        "Batch 4 — Đã Xuất Bản",
+        "Batch 5 — Đã Xuất Bản",
+        "Bắt Đầu Ở Đâu?",
+        "Tôi Chưa Biết Gì Về Phật Giáo",
+        "Tôi Muốn Hiểu Tâm Và Cái Tôi",
+        "Tôi Muốn Thực Hành",
+        "Tôi Muốn Học Chuyên Sâu",
+        "Bảy Học Phần",
+        "I. Cửa Vào Và Bản Đồ Nguồn — 4 bài",
+        "II. Xương Sống Giáo Pháp — 6 bài",
+        "III. Giải Phẫu Kinh Nghiệm Và Cái Tôi — 6 bài",
+        "IV. Duyên Khởi, Nghiệp Và Tái Sinh — 6 bài",
+        "V. Con Đường Thực Hành — 6 bài",
+        "VI. Vũ Trụ, Giác Ngộ Và Nibbāna — 4 bài",
+        "VII. Vi Diệu Pháp, Chú Giải Và Cầu Nối Hiện Đại — 4 bài",
+        "Kỷ Luật Xuất Xứ",
+        "Khoa Học Và Huyền Học",
+        "Quan Hệ Với Những Bài Đã Có Trong Vault",
+        "Trạng Thái"
+      ],
+      "wikilinks": [
+        "01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết",
+        "02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm",
+        "03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp",
+        "04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều",
+        "05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường",
+        "06 - Dukkha - Khổ Không Chỉ Là Đau Đớn",
+        "07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ",
+        "08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống",
+        "09 - Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự",
+        "10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa",
+        "11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào",
+        "12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu",
+        "13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu",
+        "14 - Viññāṇa - Thức Không Phải Linh Hồn",
+        "15 - Vô Ngã - Đức Phật Phủ Định Điều Gì",
+        "16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng",
+        "17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt",
+        "18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc",
+        "19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ",
+        "20 - Tái Sinh Mà Không Có Linh Hồn",
+        "21 - Những Gì Kinh Pāli Nói Về Cái Chết",
+        "22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ",
+        "23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh",
+        "24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm",
+        "25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở",
+        "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi",
+        "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
+        "28 - Bốn Tâm Vô Lượng Và Upekkhā",
+        "29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc",
+        "30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
+        "31 - Bốn Thánh Quả Và Mười Kiết Sử",
+        "32 - Nibbāna - Không Phải Cõi Thứ 32",
+        "Atula",
+        "Chuẩn Nguồn Và Xuất Xứ Theravāda",
+        "Luân Hồi",
+        "Mục Lục Kinh Dẫn Pāli",
+        "Nhân Quả",
+        "Tiến Độ Chương Trình Theravāda",
+        "Tâm bất Biến",
+        "Từ Điển Pāli Cốt Lõi",
+        "Vũ Trụ Học Phật Giáo"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Atula.md",
+        "esoterica/Luân Hồi.md",
+        "esoterica/Nhân Quả.md",
+        "esoterica/Vũ Trụ Học Phật Giáo.md",
+        "mental-models/Tâm bất Biến.md",
+        "theravada/01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết.md",
+        "theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md",
+        "theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp.md",
+        "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md",
+        "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md",
+        "theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn.md",
+        "theravada/07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ.md",
+        "theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống.md",
+        "theravada/09 - Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự.md",
+        "theravada/10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa.md",
+        "theravada/11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào.md",
+        "theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu.md",
+        "theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu.md",
+        "theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn.md",
+        "theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì.md",
+        "theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng.md",
+        "theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt.md",
+        "theravada/18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc.md",
+        "theravada/19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ.md",
+        "theravada/20 - Tái Sinh Mà Không Có Linh Hồn.md",
+        "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md",
+        "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md",
+        "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+        "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+        "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+        "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+        "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+        "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+        "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+        "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+        "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+        "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md",
+        "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
+        "theravada/Mục Lục Kinh Dẫn Pāli.md",
+        "theravada/Tiến Độ Chương Trình Theravāda.md",
+        "theravada/Từ Điển Pāli Cốt Lõi.md"
+      ],
+      "backlinks": [
+        "esoterica/index.md",
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Esoterica & Consciousness.md"
+      ],
+      "words": 1306,
+      "summary": "**Đây là một lộ trình học, không phải tuyển tập bài tâm linh rời rạc.** Người mới bắt đầu từ Đức Phật lịch sử, Tứ Thánh Đế và Bát Chánh Đạo; người đã có nền có thể đi sâu vào năm uẩn, duyên khởi, thiền, Vi Diệu Pháp, 31 cõi và Nibbāna."
+    },
+    {
       "path": "politics-conspiracy/Báo Cáo 2030.md",
       "title": "Báo Cáo 2030",
       "domain": "politics-conspiracy",
@@ -20747,134 +21101,6 @@
       ],
       "words": 691,
       "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
-    },
-    {
-      "path": "theravada/index.md",
-      "title": "Theravāda Và Kinh Tạng Pāli",
-      "domain": "theravada",
-      "tags": [
-        "kinh-tang",
-        "pali",
-        "phat-giao",
-        "theravada"
-      ],
-      "aliases": [
-        "Kinh Tạng Pāli",
-        "Phật Giáo Nam Tông",
-        "Theravāda"
-      ],
-      "headings": [
-        "Theravāda Và Kinh Tạng Pāli",
-        "Bốn Tài Liệu Nền",
-        "Batch 1 — Đã Xuất Bản",
-        "Batch 2 — Đã Xuất Bản",
-        "Batch 3 — Đã Xuất Bản",
-        "Batch 4 — Đã Xuất Bản",
-        "Bắt Đầu Ở Đâu?",
-        "Tôi Chưa Biết Gì Về Phật Giáo",
-        "Tôi Muốn Hiểu Tâm Và Cái Tôi",
-        "Tôi Muốn Thực Hành",
-        "Tôi Muốn Học Chuyên Sâu",
-        "Bảy Học Phần",
-        "I. Cửa Vào Và Bản Đồ Nguồn — 4 bài",
-        "II. Xương Sống Giáo Pháp — 6 bài",
-        "III. Giải Phẫu Kinh Nghiệm Và Cái Tôi — 6 bài",
-        "IV. Duyên Khởi, Nghiệp Và Tái Sinh — 6 bài",
-        "V. Con Đường Thực Hành — 6 bài",
-        "VI. Vũ Trụ, Giác Ngộ Và Nibbāna — 4 bài",
-        "VII. Vi Diệu Pháp, Chú Giải Và Cầu Nối Hiện Đại — 4 bài",
-        "Kỷ Luật Xuất Xứ",
-        "Khoa Học Và Huyền Học",
-        "Quan Hệ Với Những Bài Đã Có Trong Vault",
-        "Trạng Thái"
-      ],
-      "wikilinks": [
-        "01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết",
-        "02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm",
-        "03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp",
-        "04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều",
-        "05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường",
-        "06 - Dukkha - Khổ Không Chỉ Là Đau Đớn",
-        "07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ",
-        "08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống",
-        "09 - Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự",
-        "10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa",
-        "11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào",
-        "12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu",
-        "13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu",
-        "14 - Viññāṇa - Thức Không Phải Linh Hồn",
-        "15 - Vô Ngã - Đức Phật Phủ Định Điều Gì",
-        "16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng",
-        "17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt",
-        "18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc",
-        "19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ",
-        "20 - Tái Sinh Mà Không Có Linh Hồn",
-        "21 - Những Gì Kinh Pāli Nói Về Cái Chết",
-        "22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ",
-        "23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh",
-        "24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm",
-        "25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở",
-        "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi",
-        "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
-        "28 - Bốn Tâm Vô Lượng Và Upekkhā",
-        "Atula",
-        "Chuẩn Nguồn Và Xuất Xứ Theravāda",
-        "Luân Hồi",
-        "Mục Lục Kinh Dẫn Pāli",
-        "Nhân Quả",
-        "Tiến Độ Chương Trình Theravāda",
-        "Tâm bất Biến",
-        "Từ Điển Pāli Cốt Lõi",
-        "Vũ Trụ Học Phật Giáo"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Atula.md",
-        "esoterica/Luân Hồi.md",
-        "esoterica/Nhân Quả.md",
-        "esoterica/Vũ Trụ Học Phật Giáo.md",
-        "mental-models/Tâm bất Biến.md",
-        "theravada/01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết.md",
-        "theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md",
-        "theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp.md",
-        "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md",
-        "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md",
-        "theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn.md",
-        "theravada/07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ.md",
-        "theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống.md",
-        "theravada/09 - Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự.md",
-        "theravada/10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa.md",
-        "theravada/11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào.md",
-        "theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu.md",
-        "theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu.md",
-        "theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn.md",
-        "theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì.md",
-        "theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng.md",
-        "theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt.md",
-        "theravada/18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc.md",
-        "theravada/19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ.md",
-        "theravada/20 - Tái Sinh Mà Không Có Linh Hồn.md",
-        "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md",
-        "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md",
-        "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
-        "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
-        "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
-        "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
-        "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
-        "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
-        "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
-        "theravada/Mục Lục Kinh Dẫn Pāli.md",
-        "theravada/Tiến Độ Chương Trình Theravāda.md",
-        "theravada/Từ Điển Pāli Cốt Lõi.md"
-      ],
-      "backlinks": [
-        "esoterica/index.md",
-        "index.md",
-        "mental-models/index.md",
-        "MOC - Esoterica & Consciousness.md"
-      ],
-      "words": 1230,
-      "summary": "**Đây là một lộ trình học, không phải tuyển tập bài tâm linh rời rạc.** Người mới bắt đầu từ Đức Phật lịch sử, Tứ Thánh Đế và Bát Chánh Đạo; người đã có nền có thể đi sâu vào năm uẩn, duyên khởi, thiền, Vi Diệu Pháp, 31 cõi và Nibbāna."
     },
     {
       "path": "esoterica/Monad.md",
@@ -21441,7 +21667,23 @@
       "outlinks": [],
       "backlinks": [],
       "words": 57,
-      "summary": "- Lessons 23–28: practice and safety scope - 18/18 Pāli blocks exact-match Bilara root segments - Original Vietnamese working translations manually reviewed - 42 WebP, seven per lesson; exact-file jhāna replacement passed visual QA - Medical and psychiatric s…"
+      "summary": "- Lessons 23–28: practice and safety scope - 19/19 Pāli blocks exact-match Bilara root segments - Original Vietnamese working translations manually reviewed - 42 WebP, seven per lesson; exact-file jhāna replacement passed visual QA - Medical and psychiatric s…"
+    },
+    {
+      "path": "_docs/THERAVADA-BATCH5-VALIDATION.md",
+      "title": "Theravāda Batch 5 Validation",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Theravāda Batch 5 Validation"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 83,
+      "summary": "- Lessons 29–32: cosmology, noble attainments, and Nibbāna - 12/12 Pāli blocks exact-match Bilara root segments - Vietnamese translations and placement manually reviewed after deterministic source sync - 31-plane and path/fetter mappings labeled Abhidhamma/co…"
     },
     {
       "path": "_docs/THIN-PAGE-CLASSIFICATION.md",
@@ -22346,174 +22588,6 @@
       "summary": "**Đây là từ điển làm việc, không phải bảng thay từ một–một.** Một từ Pāli có thể đổi sắc thái theo văn cảnh. “Cách đọc gần đúng” chỉ giúp người Việt bắt đầu, không tự nhận là chuẩn phát âm duy nhất của mọi truyền thống Theravāda."
     },
     {
-      "path": "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
-      "title": "Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh",
-      "domain": "theravada",
-      "tags": [],
-      "aliases": [
-        "Năm Giới Tại Gia",
-        "Pañcasīla"
-      ],
-      "headings": [
-        "Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh",
-        "1. Năm Sự Học, Không Phải Năm Mệnh Lệnh Từ Một Đấng Phán Xét",
-        "2. Giới Thứ Nhất Và Thứ Hai: Mạng Sống, Tài Sản, An Toàn Chung",
-        "3. Giới Thứ Ba: Dục, Đồng Thuận Và Trách Nhiệm Quan Hệ",
-        "4. Giới Thứ Tư Và Thứ Năm: Sự Thật, Chất Say Và Năng Lực Không Buông Lung",
-        "5. Năm Giới Tại Gia Không Phải Luật Tạng Xuất Gia",
-        "6. Một Cách Thực Hành Không Hại, Có Ranh Giới Và Có Khả Năng Sửa Sai",
-        "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
-      ],
-      "wikilinks": [],
-      "mdlinks": [],
-      "outlinks": [],
-      "backlinks": [
-        "theravada/index.md"
-      ],
-      "words": 4059,
-      "summary": "!hình tượng tự nhiên diễn giải 1. năm sự học, không phải năm mệnh lệnh từ một đấng phán xét không giả làm bằng chứng lịch sử hoặc y khoa"
-    },
-    {
-      "path": "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
-      "title": "Tứ Niệm Xứ — Bốn Nền Tảng Của Chánh Niệm",
-      "domain": "theravada",
-      "tags": [],
-      "aliases": [
-        "Bốn Niệm Xứ",
-        "Satipaṭṭhāna"
-      ],
-      "headings": [
-        "Tứ Niệm Xứ — Bốn Nền Tảng Của Chánh Niệm",
-        "1. Satipaṭṭhāna Là Bốn Phạm Vi Quán Sát Có Mục Đích Giải Thoát",
-        "2. Công Thức Chung: Nhiệt Tâm, Hiểu Rõ, Có Niệm Và Không Bám Víu",
-        "3. Thân Và Thọ: Từ Hơi Thở Đến Sắc Thái Của Kinh Nghiệm",
-        "4. Tâm Và Pháp: Biết Trạng Thái, Dùng Bản Đồ Mà Không Biến Thành Bản Ngã",
-        "5. Nội, Ngoại, Sinh Và Diệt: Phạm Vi Quan Sát Không Bị Thu Hẹp Vào Một Điểm",
-        "6. Ekāyana Và Giới Hạn Của Tuyên Bố Một Kỹ Thuật Độc Quyền",
-        "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
-      ],
-      "wikilinks": [],
-      "mdlinks": [],
-      "outlinks": [],
-      "backlinks": [
-        "theravada/index.md"
-      ],
-      "words": 3667,
-      "summary": "!hình tượng tự nhiên diễn giải 1. satipaṭṭhāna là bốn phạm vi quán sát có mục đích giải thoát không giả làm bằng chứng lịch sử hoặc y khoa"
-    },
-    {
-      "path": "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
-      "title": "Ānāpānasati — Toàn Bộ Con Đường Trong Một Hơi Thở",
-      "domain": "theravada",
-      "tags": [],
-      "aliases": [
-        "Mười Sáu Bước Ānāpānasati",
-        "Niệm Hơi Thở"
-      ],
-      "headings": [
-        "Ānāpānasati — Toàn Bộ Con Đường Trong Một Hơi Thở",
-        "1. MN 118 Dạy Biết Hơi Thở Trước Khi Dạy Mười Sáu Bước",
-        "2. Nhóm Một — Bốn Bước Về Thân Và Cụm “Làm Lắng Dịu Thân Hành”",
-        "3. Nhóm Hai — Hỷ, Lạc, Tâm Hành Và Sự Lắng Dịu Không Đồng Nghĩa Săn Khoái Cảm",
-        "4. Nhóm Ba — Cảm Nhận, Làm Sáng, Định Tĩnh Và Giải Thoát Tâm",
-        "5. Nhóm Bốn — Vô Thường, Ly Tham, Đoạn Diệt Và Buông Trả",
-        "6. Mười Sáu Bước Làm Viên Mãn Tứ Niệm Xứ Và Bảy Giác Chi Như Thế Nào",
-        "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
-      ],
-      "wikilinks": [],
-      "mdlinks": [],
-      "outlinks": [],
-      "backlinks": [
-        "theravada/index.md"
-      ],
-      "words": 3358,
-      "summary": "!hình tượng tự nhiên diễn giải 1. mn 118 dạy biết hơi thở trước khi dạy mười sáu bước không giả làm bằng chứng lịch sử hoặc y khoa"
-    },
-    {
-      "path": "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
-      "title": "Chỉ Và Quán — Samatha Và Vipassanā Có Thật Sự Tách Đôi?",
-      "domain": "theravada",
-      "tags": [],
-      "aliases": [
-        "Chỉ Và Quán",
-        "Samatha Và Vipassanā"
-      ],
-      "headings": [
-        "Chỉ Và Quán — Samatha Và Vipassanā Có Thật Sự Tách Đôi?",
-        "1. Hai Phẩm Chất Của Một Con Đường, Không Phải Hai Giáo Phái",
-        "2. Chỉ Đi Trước Quán: Yên Không Phải Là Đích Cuối",
-        "3. Quán Đi Trước Chỉ: Thấy Rõ Có Thể Dẫn Tâm Đến Lắng",
-        "4. Chỉ Và Quán Cùng Ách: Phối Hợp Không Có Nghĩa Đồng Đều Từng Giây",
-        "5. Đường Thứ Tư Và Tâm Bị Dao Động Bởi Pháp",
-        "6. Tách Dòng Truyền: Kinh Sớm, Chú Giải Và Theravāda Hiện Đại",
-        "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
-      ],
-      "wikilinks": [],
-      "mdlinks": [],
-      "outlinks": [],
-      "backlinks": [
-        "theravada/index.md"
-      ],
-      "words": 3344,
-      "summary": "!hình tượng tự nhiên diễn giải 1. hai phẩm chất của một con đường, không phải hai giáo phái không giả làm bằng chứng lịch sử hoặc y khoa"
-    },
-    {
-      "path": "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
-      "title": "Bốn Tầng Thiền — Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
-      "domain": "theravada",
-      "tags": [],
-      "aliases": [
-        "Bốn Jhāna",
-        "Bốn Tầng Thiền"
-      ],
-      "headings": [
-        "Bốn Tầng Thiền — Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
-        "1. Jhāna Nằm Trong Một Lộ Trình Đạo Đức Và Tỉnh Giác",
-        "2. Sơ Thiền: Ly Dục, Tầm-Tứ Và Hỷ-Lạc Do Ly Sinh",
-        "3. Nhị Thiền: Tầm-Tứ Lắng Và Sự Nhất Tâm Nổi Rõ",
-        "4. Tam Thiền: Hỷ Phai, Xả Và Lạc Được Biết Bằng Thân",
-        "5. Tứ Thiền: Vượt Lạc-Khổ Và Niệm Thanh Tịnh Nhờ Xả",
-        "6. Cuộc Tranh Luận Về Độ Sâu Và Cách Đọc Có Kỷ Luật",
-        "7. Kỷ Luật Khẳng Định, Giới Hạn Và Chuỗi Đọc"
-      ],
-      "wikilinks": [],
-      "mdlinks": [],
-      "outlinks": [],
-      "backlinks": [
-        "theravada/index.md"
-      ],
-      "words": 3245,
-      "summary": "!hình tượng tự nhiên diễn giải 1. jhāna nằm trong một lộ trình đạo đức và tỉnh giác không giả làm bằng chứng lịch sử hoặc y khoa"
-    },
-    {
-      "path": "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
-      "title": "Bốn Tâm Vô Lượng Và Upekkhā",
-      "domain": "theravada",
-      "tags": [],
-      "aliases": [
-        "Brahmavihāra Và Upekkhā",
-        "Bốn Tâm Vô Lượng"
-      ],
-      "headings": [
-        "Bốn Tâm Vô Lượng Và Upekkhā",
-        "1. “Vô Lượng” Là Không Dựng Biên Giới Thù Ghét",
-        "2. Mettā: Mong An Lành Không Đồng Nghĩa Chiều Theo Mọi Yêu Cầu",
-        "3. Karuṇā: Đến Gần Khổ Mà Không Chìm Trong Khổ",
-        "4. Muditā: Niềm Vui Không Chiếm Hữu Và Thuốc Giải Ganh Tị",
-        "5. Upekkhā: Xả Không Phải Thờ Ơ, Và Ranh Giới Không Phải Sân",
-        "6. SN 46.54: Tâm Vô Lượng Đi Cùng Giác Chi Và Sự Phân Biệt Mục Đích",
-        "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
-      ],
-      "wikilinks": [],
-      "mdlinks": [],
-      "outlinks": [],
-      "backlinks": [
-        "theravada/index.md"
-      ],
-      "words": 3196,
-      "summary": "!hình tượng tự nhiên diễn giải 1. “vô lượng” là không dựng biên giới thù ghét không giả làm bằng chứng lịch sử hoặc y khoa"
-    },
-    {
       "path": "theravada/Mục Lục Kinh Dẫn Pāli.md",
       "title": "Mục Lục Kinh Dẫn Pāli",
       "domain": "theravada",
@@ -22579,7 +22653,7 @@
       "backlinks": [
         "theravada/index.md"
       ],
-      "words": 809,
+      "words": 805,
       "summary": "**Trạng thái ở đây phản ánh mức độ hoàn thành học thuật, không chỉ việc một tệp đã tồn tại.** Bài chỉ được đánh dấu “Đã xuất bản” sau khi nguồn, thuật ngữ, giấy phép, phản biện, hình ảnh, navigation và bản live đều qua kiểm tra."
     }
   ],
@@ -24231,7 +24305,23 @@
       "outlinks": [],
       "backlinks": [],
       "words": 57,
-      "summary": "- Lessons 23–28: practice and safety scope - 18/18 Pāli blocks exact-match Bilara root segments - Original Vietnamese working translations manually reviewed - 42 WebP, seven per lesson; exact-file jhāna replacement passed visual QA - Medical and psychiatric s…"
+      "summary": "- Lessons 23–28: practice and safety scope - 19/19 Pāli blocks exact-match Bilara root segments - Original Vietnamese working translations manually reviewed - 42 WebP, seven per lesson; exact-file jhāna replacement passed visual QA - Medical and psychiatric s…"
+    },
+    "_docs/THERAVADA-BATCH5-VALIDATION.md": {
+      "path": "_docs/THERAVADA-BATCH5-VALIDATION.md",
+      "title": "Theravāda Batch 5 Validation",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Theravāda Batch 5 Validation"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 83,
+      "summary": "- Lessons 29–32: cosmology, noble attainments, and Nibbāna - 12/12 Pāli blocks exact-match Bilara root segments - Vietnamese translations and placement manually reviewed after deterministic source sync - 31-plane and path/fetter mappings labeled Abhidhamma/co…"
     },
     "_docs/THIN-PAGE-CLASSIFICATION.md": {
       "path": "_docs/THIN-PAGE-CLASSIFICATION.md",
@@ -40495,20 +40585,23 @@
         "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
       ],
       "wikilinks": [
-        "21 - Những Gì Kinh Pāli Nói Về Cái Chết"
+        "21 - Những Gì Kinh Pāli Nói Về Cái Chết",
+        "23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh"
       ],
       "mdlinks": [],
       "outlinks": [
-        "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md"
+        "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md",
+        "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md"
       ],
       "backlinks": [
         "esoterica/Luân Hồi.md",
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
         "index.md",
         "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md",
+        "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
         "theravada/index.md"
       ],
-      "words": 3716,
+      "words": 3717,
       "summary": "!dòng lang thang có điều kiện không có bản đồ của một nhà tù không gian"
     },
     "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md": {
@@ -40530,13 +40623,21 @@
         "6. Một Cách Thực Hành Không Hại, Có Ranh Giới Và Có Khả Năng Sửa Sai",
         "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
       ],
-      "wikilinks": [],
+      "wikilinks": [
+        "22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ",
+        "24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm"
+      ],
       "mdlinks": [],
-      "outlinks": [],
+      "outlinks": [
+        "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md",
+        "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md"
+      ],
       "backlinks": [
+        "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md",
+        "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
         "theravada/index.md"
       ],
-      "words": 4059,
+      "words": 4061,
       "summary": "!hình tượng tự nhiên diễn giải 1. năm sự học, không phải năm mệnh lệnh từ một đấng phán xét không giả làm bằng chứng lịch sử hoặc y khoa"
     },
     "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md": {
@@ -40558,13 +40659,21 @@
         "6. Ekāyana Và Giới Hạn Của Tuyên Bố Một Kỹ Thuật Độc Quyền",
         "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
       ],
-      "wikilinks": [],
+      "wikilinks": [
+        "23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh",
+        "25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở"
+      ],
       "mdlinks": [],
-      "outlinks": [],
+      "outlinks": [
+        "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+        "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md"
+      ],
       "backlinks": [
+        "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+        "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
         "theravada/index.md"
       ],
-      "words": 3667,
+      "words": 3669,
       "summary": "!hình tượng tự nhiên diễn giải 1. satipaṭṭhāna là bốn phạm vi quán sát có mục đích giải thoát không giả làm bằng chứng lịch sử hoặc y khoa"
     },
     "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md": {
@@ -40586,13 +40695,21 @@
         "6. Mười Sáu Bước Làm Viên Mãn Tứ Niệm Xứ Và Bảy Giác Chi Như Thế Nào",
         "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
       ],
-      "wikilinks": [],
+      "wikilinks": [
+        "24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm",
+        "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi"
+      ],
       "mdlinks": [],
-      "outlinks": [],
+      "outlinks": [
+        "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+        "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md"
+      ],
       "backlinks": [
+        "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+        "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
         "theravada/index.md"
       ],
-      "words": 3358,
+      "words": 3360,
       "summary": "!hình tượng tự nhiên diễn giải 1. mn 118 dạy biết hơi thở trước khi dạy mười sáu bước không giả làm bằng chứng lịch sử hoặc y khoa"
     },
     "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md": {
@@ -40614,13 +40731,21 @@
         "6. Tách Dòng Truyền: Kinh Sớm, Chú Giải Và Theravāda Hiện Đại",
         "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
       ],
-      "wikilinks": [],
+      "wikilinks": [
+        "25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở",
+        "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích"
+      ],
       "mdlinks": [],
-      "outlinks": [],
+      "outlinks": [
+        "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+        "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md"
+      ],
       "backlinks": [
+        "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+        "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
         "theravada/index.md"
       ],
-      "words": 3344,
+      "words": 3346,
       "summary": "!hình tượng tự nhiên diễn giải 1. hai phẩm chất của một con đường, không phải hai giáo phái không giả làm bằng chứng lịch sử hoặc y khoa"
     },
     "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md": {
@@ -40642,13 +40767,21 @@
         "6. Cuộc Tranh Luận Về Độ Sâu Và Cách Đọc Có Kỷ Luật",
         "7. Kỷ Luật Khẳng Định, Giới Hạn Và Chuỗi Đọc"
       ],
-      "wikilinks": [],
+      "wikilinks": [
+        "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi",
+        "28 - Bốn Tâm Vô Lượng Và Upekkhā"
+      ],
       "mdlinks": [],
-      "outlinks": [],
+      "outlinks": [
+        "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+        "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md"
+      ],
       "backlinks": [
+        "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+        "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
         "theravada/index.md"
       ],
-      "words": 3245,
+      "words": 3286,
       "summary": "!hình tượng tự nhiên diễn giải 1. jhāna nằm trong một lộ trình đạo đức và tỉnh giác không giả làm bằng chứng lịch sử hoặc y khoa"
     },
     "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md": {
@@ -40670,14 +40803,163 @@
         "6. SN 46.54: Tâm Vô Lượng Đi Cùng Giác Chi Và Sự Phân Biệt Mục Đích",
         "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
       ],
-      "wikilinks": [],
+      "wikilinks": [
+        "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
+        "29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc"
+      ],
       "mdlinks": [],
-      "outlinks": [],
+      "outlinks": [
+        "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+        "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md"
+      ],
       "backlinks": [
+        "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+        "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
         "theravada/index.md"
       ],
-      "words": 3196,
+      "words": 3198,
       "summary": "!hình tượng tự nhiên diễn giải 1. “vô lượng” là không dựng biên giới thù ghét không giả làm bằng chứng lịch sử hoặc y khoa"
+    },
+    "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md": {
+      "path": "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+      "title": "Bản Đồ 31 Cõi — 11 Dục, 16 Sắc, 4 Vô Sắc",
+      "domain": "theravada",
+      "tags": [],
+      "aliases": [
+        "31 Cõi Theravāda",
+        "Ba Mươi Mốt Cõi"
+      ],
+      "headings": [
+        "Bản Đồ 31 Cõi — 11 Dục, 16 Sắc, 4 Vô Sắc",
+        "1. Hai Bản Đồ Có Hai Độ Phân Giải Khác Nhau",
+        "2. Mười Một Cõi Dục: Nơi Dục Cảm Còn Là Trục Chính",
+        "3. Mười Sáu Cõi Sắc: Quan Hệ Với Jhāna Nhưng Không Phải Thang Máy Tự Động",
+        "4. Bốn Cõi Vô Sắc: Đối Tượng Tinh Tế Vẫn Thuộc Hữu",
+        "5. Provenance: Kinh Sớm, Vi Diệu Pháp Và Chú Giải Nói Ở Ba Tầng",
+        "6. Dùng Bản Đồ Để Tu, Không Dùng Nó Để Suy Đoán Người Khác",
+        "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
+      ],
+      "wikilinks": [
+        "28 - Bốn Tâm Vô Lượng Và Upekkhā",
+        "30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+        "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md"
+      ],
+      "backlinks": [
+        "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+        "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+        "theravada/index.md"
+      ],
+      "words": 2236,
+      "summary": "!hình minh họa biên tập cho 1. hai bản đồ có hai độ phân giải khác nhau"
+    },
+    "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md": {
+      "path": "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+      "title": "Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
+      "domain": "theravada",
+      "tags": [],
+      "aliases": [
+        "Bốn Đọa Xứ",
+        "Deva Brahmā Asura"
+      ],
+      "headings": [
+        "Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
+        "1. Deva Không Đồng Nghĩa Thượng Đế Sáng Tạo",
+        "2. Baka Brahmā: Quyền Lực Và Tuổi Thọ Không Bảo Đảm Chánh Kiến",
+        "3. Năm Cảnh Đến Và Trọng Tâm Tác Ý Trong MN 130",
+        "4. A-tu-la Trong SN 11: Đối Thủ Của Chư Thiên, Không Phải Quỷ Tuyệt Đối",
+        "5. Bốn Đọa Xứ: Khổ Không Phải Bản Án Vĩnh Viễn",
+        "6. Provenance Và Cách Đọc Hiện Đại Có Giới Hạn",
+        "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
+      ],
+      "wikilinks": [
+        "29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc",
+        "31 - Bốn Thánh Quả Và Mười Kiết Sử"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+        "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md"
+      ],
+      "backlinks": [
+        "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+        "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+        "theravada/index.md"
+      ],
+      "words": 2501,
+      "summary": "!hình minh họa biên tập cho 1. deva không đồng nghĩa thượng đế sáng tạo"
+    },
+    "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md": {
+      "path": "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+      "title": "Bốn Thánh Quả Và Mười Kiết Sử",
+      "domain": "theravada",
+      "tags": [],
+      "aliases": [
+        "Bốn Đạo Quả",
+        "Mười Kiết Sử"
+      ],
+      "headings": [
+        "Bốn Thánh Quả Và Mười Kiết Sử",
+        "1. Bốn Đạo-Quả Là Bản Đồ Chuyển Hóa, Không Phải Bốn Huy Hiệu",
+        "2. “Dòng” Chính Là Bát Chánh Đạo",
+        "3. Mười Kiết Sử: Năm Thấp Và Năm Cao",
+        "4. Bốn Mức Và Những Gì Được Tháo Gỡ",
+        "5. Ba Sự Học Gom Toàn Bộ Việc Tu",
+        "6. Tự Đánh Giá Mà Không Tự Phong Hay Săn Cấp Bậc",
+        "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
+      ],
+      "wikilinks": [
+        "30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
+        "32 - Nibbāna - Không Phải Cõi Thứ 32"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+        "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md"
+      ],
+      "backlinks": [
+        "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+        "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md",
+        "theravada/index.md"
+      ],
+      "words": 3244,
+      "summary": "!hình minh họa biên tập cho 1. bốn đạo-quả là bản đồ chuyển hóa, không phải bốn huy hiệu"
+    },
+    "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md": {
+      "path": "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md",
+      "title": "Nibbāna — Không Phải Cõi Thứ 32",
+      "domain": "theravada",
+      "tags": [],
+      "aliases": [
+        "Nibbāna",
+        "Niết-bàn Không Phải Một Cõi"
+      ],
+      "headings": [
+        "Nibbāna — Không Phải Cõi Thứ 32",
+        "1. Đừng Đặt Nibbāna Lên Trên Cùng Một Tấm Bản Đồ Cõi",
+        "2. “Không Sinh, Không Trở Thành, Không Làm Ra, Không Tạo Tác”",
+        "3. Hai Yếu Tố Nibbāna Không Phải Hai Niết-bàn",
+        "4. Vô Vi Được Giải Thích Bằng Sự Tận Tham, Sân Và Si",
+        "5. Bốn Sai Loại: Nơi Chốn, Hư Vô, Tự Ngã Và Bằng Chứng Khoa Học",
+        "6. Thực Hành Hướng Về Tắt Nhiên Liệu, Không Săn Một Trạng Thái",
+        "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
+      ],
+      "wikilinks": [
+        "31 - Bốn Thánh Quả Và Mười Kiết Sử"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md"
+      ],
+      "backlinks": [
+        "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+        "theravada/index.md"
+      ],
+      "words": 3101,
+      "summary": "!hình minh họa biên tập cho 1. đừng đặt nibbāna lên trên cùng một tấm bản đồ cõi"
     },
     "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md": {
       "path": "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
@@ -40790,7 +41072,7 @@
       "backlinks": [
         "theravada/index.md"
       ],
-      "words": 809,
+      "words": 805,
       "summary": "**Trạng thái ở đây phản ánh mức độ hoàn thành học thuật, không chỉ việc một tệp đã tồn tại.** Bài chỉ được đánh dấu “Đã xuất bản” sau khi nguồn, thuật ngữ, giấy phép, phản biện, hình ảnh, navigation và bản live đều qua kiểm tra."
     },
     "theravada/Từ Điển Pāli Cốt Lõi.md": {
@@ -40850,6 +41132,7 @@
         "Batch 2 — Đã Xuất Bản",
         "Batch 3 — Đã Xuất Bản",
         "Batch 4 — Đã Xuất Bản",
+        "Batch 5 — Đã Xuất Bản",
         "Bắt Đầu Ở Đâu?",
         "Tôi Chưa Biết Gì Về Phật Giáo",
         "Tôi Muốn Hiểu Tâm Và Cái Tôi",
@@ -40897,6 +41180,10 @@
         "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi",
         "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
         "28 - Bốn Tâm Vô Lượng Và Upekkhā",
+        "29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc",
+        "30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
+        "31 - Bốn Thánh Quả Và Mười Kiết Sử",
+        "32 - Nibbāna - Không Phải Cõi Thứ 32",
         "Atula",
         "Chuẩn Nguồn Và Xuất Xứ Theravāda",
         "Luân Hồi",
@@ -40942,6 +41229,10 @@
         "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
         "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
         "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+        "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+        "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+        "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+        "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md",
         "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
         "theravada/Mục Lục Kinh Dẫn Pāli.md",
         "theravada/Tiến Độ Chương Trình Theravāda.md",
@@ -40953,7 +41244,7 @@
         "mental-models/index.md",
         "MOC - Esoterica & Consciousness.md"
       ],
-      "words": 1230,
+      "words": 1306,
       "summary": "**Đây là một lộ trình học, không phải tuyển tập bài tâm linh rời rạc.** Người mới bắt đầu từ Đức Phật lịch sử, Tứ Thánh Đế và Bát Chánh Đạo; người đã có nền có thể đi sâu vào năm uẩn, duyên khởi, thiền, Vi Diệu Pháp, 31 cõi và Nibbāna."
     }
   }
