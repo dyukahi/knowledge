@@ -6,11 +6,12 @@
     1,
     2,
     3,
+    4,
     18,
     36
   ],
-  "cards": 14,
-  "passed": 14,
+  "cards": 17,
+  "passed": 17,
   "rows": [
     {
       "lesson": 1,
@@ -109,6 +110,27 @@
       "title": "Ānanda trả lời về năm bộ Kinh — Luật tạng Theravāda",
       "translation_label": "Dịch Việt",
       "review_note": "Translation covers questioning across five Nikāyas and Ānanda’s replies; introduction does not claim a modern printed canon was fixed in one meeting."
+    },
+    {
+      "lesson": 4,
+      "source": "MN 22:10.3–10.7",
+      "title": "Kinh về ví dụ con rắn và chiếc bè — Trung Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "The translation visibly omits middle clauses with an ellipsis; introduction stays within the passage’s warning that unexamined, debate-driven learning misgrasps Dhamma and leads to harm."
+    },
+    {
+      "lesson": 4,
+      "source": "MN 95:15.12–15.15",
+      "title": "Kinh về cách kiểm chứng một điều là thật — Trung Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "The translation visibly abbreviates the repeated preservation-of-truth formula; introduction accurately distinguishes honest belief preservation from personal realization of truth."
+    },
+    {
+      "lesson": 4,
+      "source": "AN 3.65:4.2–4.3;26.2–26.3",
+      "title": "Kinh về thẩm tra lời dạy qua hậu quả thiện và bất thiện — Tăng Chi Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Two noncontiguous passages are separated by an explicit ellipsis; translation covers unwholesome abandonment and wholesome cultivation without repeating the source clause or promoting blanket skepticism."
     }
   ]
 }
