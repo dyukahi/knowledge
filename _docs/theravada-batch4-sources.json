@@ -1,0 +1,281 @@
+{
+  "schema": "redpill.theravada.batch-sources.v2",
+  "batch": 4,
+  "access_date": "2026-08-19",
+  "translation_policy": "Original Vietnamese working translations from exact Bilara Pāli root segments; no external translation copied.",
+  "source_editions": [
+    {
+      "id": "bilara-pali-ms",
+      "edition": "SuttaCentral Bilara root Pāli text",
+      "translator": null,
+      "license_status": "Creative Commons CC0 1.0 Public Domain Dedication",
+      "license_url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/LICENSE.md",
+      "allowed_use": "quotation, verification, adaptation, and original translation",
+      "url": "https://github.com/suttacentral/bilara-data"
+    }
+  ],
+  "lessons": [
+    {
+      "lesson": 23,
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/an8.39/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/dn31/sujato?lang=en"
+      ],
+      "license_checked": true,
+      "verification": "3/3 Pāli blocks exact-match Bilara root text",
+      "allowed_use": "CC0 Pāli root text; original Vietnamese working translation",
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+          "discourse": "an8.39",
+          "segments": [
+            "an8.39:3.5",
+            "an8.39:4.1",
+            "an8.39:5.1",
+            "an8.39:6.1",
+            "an8.39:7.1"
+          ],
+          "exact_match": true
+        },
+        {
+          "claim": "23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+          "discourse": "an8.39",
+          "segments": [
+            "an8.39:3.5",
+            "an8.39:3.6"
+          ],
+          "exact_match": true
+        },
+        {
+          "claim": "23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+          "discourse": "dn31",
+          "segments": [
+            "dn31:3.5",
+            "dn31:3.6",
+            "dn31:3.7"
+          ],
+          "exact_match": true
+        }
+      ]
+    },
+    {
+      "lesson": 24,
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/mn10/sujato?lang=en"
+      ],
+      "license_checked": true,
+      "verification": "3/3 Pāli blocks exact-match Bilara root text",
+      "allowed_use": "CC0 Pāli root text; original Vietnamese working translation",
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+          "discourse": "mn10",
+          "segments": [
+            "mn10:2.1"
+          ],
+          "exact_match": true
+        },
+        {
+          "claim": "24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+          "discourse": "mn10",
+          "segments": [
+            "mn10:3.2"
+          ],
+          "exact_match": true
+        },
+        {
+          "claim": "24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+          "discourse": "mn10",
+          "segments": [
+            "mn10:5.1",
+            "mn10:5.2"
+          ],
+          "exact_match": true
+        }
+      ]
+    },
+    {
+      "lesson": 25,
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/mn118/sujato?lang=en"
+      ],
+      "license_checked": true,
+      "verification": "3/3 Pāli blocks exact-match Bilara root text",
+      "allowed_use": "CC0 Pāli root text; original Vietnamese working translation",
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+          "discourse": "mn118",
+          "segments": [
+            "mn118:17.1",
+            "mn118:17.2"
+          ],
+          "exact_match": true
+        },
+        {
+          "claim": "25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+          "discourse": "mn118",
+          "segments": [
+            "mn118:18.1",
+            "mn118:18.2",
+            "mn118:18.3",
+            "mn118:18.4"
+          ],
+          "exact_match": true
+        },
+        {
+          "claim": "25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+          "discourse": "mn118",
+          "segments": [
+            "mn118:22.1"
+          ],
+          "exact_match": true
+        }
+      ]
+    },
+    {
+      "lesson": 26,
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/an4.170/sujato?lang=en"
+      ],
+      "license_checked": true,
+      "verification": "3/3 Pāli blocks exact-match Bilara root text",
+      "allowed_use": "CC0 Pāli root text; original Vietnamese working translation",
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+          "discourse": "an4.170",
+          "segments": [
+            "an4.170:3.2",
+            "an4.170:3.3",
+            "an4.170:3.4",
+            "an4.170:3.5"
+          ],
+          "exact_match": true
+        },
+        {
+          "claim": "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+          "discourse": "an4.170",
+          "segments": [
+            "an4.170:4.1",
+            "an4.170:4.2",
+            "an4.170:4.3",
+            "an4.170:4.4"
+          ],
+          "exact_match": true
+        },
+        {
+          "claim": "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+          "discourse": "an4.170",
+          "segments": [
+            "an4.170:5.1",
+            "an4.170:5.2",
+            "an4.170:5.3",
+            "an4.170:5.4"
+          ],
+          "exact_match": true
+        }
+      ]
+    },
+    {
+      "lesson": 27,
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/mn39/sujato?lang=en"
+      ],
+      "license_checked": true,
+      "verification": "4/4 Pāli blocks exact-match Bilara root text",
+      "allowed_use": "CC0 Pāli root text; original Vietnamese working translation",
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+          "discourse": "mn39",
+          "segments": [
+            "mn39:15.2"
+          ],
+          "exact_match": true
+        },
+        {
+          "claim": "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+          "discourse": "mn39",
+          "segments": [
+            "mn39:16.1"
+          ],
+          "exact_match": true
+        },
+        {
+          "claim": "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+          "discourse": "mn39",
+          "segments": [
+            "mn39:17.1"
+          ],
+          "exact_match": true
+        },
+        {
+          "claim": "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+          "discourse": "mn39",
+          "segments": [
+            "mn39:18.1"
+          ],
+          "exact_match": true
+        }
+      ]
+    },
+    {
+      "lesson": 28,
+      "canonical": [
+        "https://suttacentral.net/api/bilarasuttas/dn13/sujato?lang=en",
+        "https://suttacentral.net/api/bilarasuttas/sn46.54/sujato?lang=en"
+      ],
+      "license_checked": true,
+      "verification": "3/3 Pāli blocks exact-match Bilara root text",
+      "allowed_use": "CC0 Pāli root text; original Vietnamese working translation",
+      "translation_sources": [
+        "bilara-pali-ms"
+      ],
+      "claim_segment_map": [
+        {
+          "claim": "28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+          "discourse": "dn13",
+          "segments": [
+            "dn13:76.1"
+          ],
+          "exact_match": true
+        },
+        {
+          "claim": "28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+          "discourse": "dn13",
+          "segments": [
+            "dn13:78.1",
+            "dn13:78.2",
+            "dn13:78.3"
+          ],
+          "exact_match": true
+        },
+        {
+          "claim": "28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+          "discourse": "sn46.54",
+          "segments": [
+            "sn46.54:15.2",
+            "sn46.54:15.3"
+          ],
+          "exact_match": true
+        }
+      ]
+    }
+  ]
+}

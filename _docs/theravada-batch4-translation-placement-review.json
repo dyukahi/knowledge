@@ -1,0 +1,167 @@
+{
+  "schema": "theravada-translation-placement-review.v1",
+  "blocks": 19,
+  "passed": 19,
+  "manual_review_date": "2026-08-19",
+  "review_notes": [
+    "ekāyana marked disputed and non-exclusive",
+    "passambhayaṁ kāyasaṅkhāraṁ rendered as calming bodily formation, not forced breath control",
+    "AN 4.170 not used to canonize modern school taxonomies",
+    "four jhāna formulas separately placed and translated",
+    "DN 13 abbreviations retained from source; upekkhā interpretation separated from literal translation"
+  ],
+  "rows": [
+    {
+      "lesson": 23,
+      "section": "1. Năm Sự Học, Không Phải Năm Mệnh Lệnh Từ Một Đấng Phán Xét",
+      "source_label": "AN 8.39, các đoạn `an8.39:3.5`, `an8.39:4.1`, `an8.39:5.1`, `an8.39:6.1`, `an8.39:7.1`",
+      "translation": "Này các tỳ-kheo, ở đây vị đệ tử cao quý từ bỏ sát sinh và tránh sát sinh; … từ bỏ lấy của không cho và tránh lấy của không cho; … từ bỏ hành vi sai trái trong dục và tránh hành vi ấy; … từ bỏ nói dối và tránh nói dối; … từ bỏ rượu, chất say và nền tảng của buông lung, rồi tránh chúng.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 23,
+      "section": "2. Giới Thứ Nhất Và Thứ Hai: Mạng Sống, Tài Sản, An Toàn Chung",
+      "source_label": "AN 8.39, đoạn `an8.39:3.5–3.6`",
+      "translation": "Này các tỳ-kheo, vị đệ tử cao quý từ bỏ sát sinh và tránh sát sinh. Khi tránh sát sinh, vị ấy trao cho vô lượng chúng sinh sự không sợ hãi, không thù hận và không bị làm hại.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 23,
+      "section": "3. Giới Thứ Ba: Dục, Đồng Thuận Và Trách Nhiệm Quan Hệ",
+      "source_label": "DN 31, đoạn `dn31:3.5–3.7`",
+      "translation": "Bốn cấu uế của hành động nào được từ bỏ? Này con gia chủ, sát sinh là cấu uế của hành động; lấy của không cho, hành vi sai trái trong dục và nói dối cũng vậy. Bốn cấu uế ấy được vị này từ bỏ.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 24,
+      "section": "1. Satipaṭṭhāna Là Bốn Phạm Vi Quán Sát Có Mục Đích Giải Thoát",
+      "source_label": "MN 10, đoạn `mn10:2.1`",
+      "translation": "Này các tỳ-kheo, đây là con đường trực tiếp/đi thẳng đến sự thanh lọc chúng sinh, vượt qua sầu than, làm lắng khổ và ưu, đạt chánh đạo và chứng ngộ Nibbāna: đó là bốn sự thiết lập niệm. Cách dịch *ekāyana* còn được thảo luận nên bài không dùng câu này để độc quyền một kỹ thuật.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 24,
+      "section": "2. Công Thức Chung: Nhiệt Tâm, Hiểu Rõ, Có Niệm Và Không Bám Víu",
+      "source_label": "MN 10, đoạn `mn10:3.2`",
+      "translation": "Ở đây, này các tỳ-kheo, vị ấy sống quán thân như thân, nhiệt tâm, tỉnh giác, có niệm, sau khi chế ngự tham và ưu đối với đời.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 24,
+      "section": "6. Ekāyana Và Giới Hạn Của Tuyên Bố Một Kỹ Thuật Độc Quyền",
+      "source_label": "MN 10, đoạn `mn10:5.1–5.2`",
+      "translation": "Vị ấy sống quán thân ở bên trong, bên ngoài, hoặc cả trong lẫn ngoài; sống quán tính sinh khởi, tính hoại diệt, hoặc cả sinh khởi lẫn hoại diệt nơi thân.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 25,
+      "section": "1. MN 118 Dạy Biết Hơi Thở Trước Khi Dạy Mười Sáu Bước",
+      "source_label": "MN 118, đoạn `mn118:17.1–17.2`",
+      "translation": "Này các tỳ-kheo, vị ấy đến rừng, gốc cây hay nhà trống, ngồi xuống, giữ thân thẳng và thiết lập niệm trước mặt. Có niệm, vị ấy thở vào; có niệm, vị ấy thở ra.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 25,
+      "section": "2. Nhóm Một — Bốn Bước Về Thân Và Cụm “Làm Lắng Dịu Thân Hành”",
+      "source_label": "MN 118, đoạn `mn118:18.1–18.4`",
+      "translation": "Khi thở dài, vị ấy biết hơi dài; khi thở ngắn, biết hơi ngắn; học cảm nhận toàn thân và học làm lắng dịu thân hành trong khi thở vào-ra.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 25,
+      "section": "6. Mười Sáu Bước Làm Viên Mãn Tứ Niệm Xứ Và Bảy Giác Chi Như Thế Nào",
+      "source_label": "MN 118, đoạn `mn118:22.1`",
+      "translation": "Này các tỳ-kheo, niệm hơi thở khi được phát triển và làm cho sung mãn như vậy đem lại quả lớn và lợi ích lớn.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 26,
+      "section": "2. Chỉ Đi Trước Quán: Yên Không Phải Là Đích Cuối",
+      "source_label": "AN 4.170, đoạn `an4.170:3.2–3.5`",
+      "translation": "Ở đây, vị ấy phát triển quán với chỉ đi trước; đạo sinh khởi, được thực hành và làm sung mãn, nhờ đó các kiết sử được đoạn và tùy miên chấm dứt.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 26,
+      "section": "3. Quán Đi Trước Chỉ: Thấy Rõ Có Thể Dẫn Tâm Đến Lắng",
+      "source_label": "AN 4.170, đoạn `an4.170:4.1–4.4`",
+      "translation": "Lại nữa, vị ấy phát triển chỉ với quán đi trước; khi đạo được thực hành và làm sung mãn, các kiết sử được đoạn và tùy miên chấm dứt.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 26,
+      "section": "4. Chỉ Và Quán Cùng Ách: Phối Hợp Không Có Nghĩa Đồng Đều Từng Giây",
+      "source_label": "AN 4.170, đoạn `an4.170:5.1–5.4`",
+      "translation": "Lại nữa, vị ấy phát triển chỉ và quán được ghép cùng ách; khi đạo được làm sung mãn, các kiết sử được đoạn và tùy miên chấm dứt.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 27,
+      "section": "2. Sơ Thiền: Ly Dục, Tầm-Tứ Và Hỷ-Lạc Do Ly Sinh",
+      "source_label": "MN 39, đoạn `mn39:15.2`",
+      "translation": "Ly dục và các pháp bất thiện, vị ấy chứng và an trú sơ thiền, có tầm, có tứ, có hỷ lạc do ly dục sinh.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 27,
+      "section": "3. Nhị Thiền: Tầm-Tứ Lắng Và Sự Nhất Tâm Nổi Rõ",
+      "source_label": "MN 39, đoạn `mn39:16.1`",
+      "translation": "Khi tầm và tứ lắng xuống, vị ấy chứng nhị thiền: nội tĩnh, tâm nhất điểm, không tầm không tứ, có hỷ lạc do định sinh.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 27,
+      "section": "4. Tam Thiền: Hỷ Phai, Xả Và Lạc Được Biết Bằng Thân",
+      "source_label": "MN 39, đoạn `mn39:17.1`",
+      "translation": "Khi hỷ phai, vị ấy an trú xả, có niệm tỉnh giác, cảm nhận lạc bằng thân và chứng tam thiền, trạng thái được các bậc Thánh mô tả là “có xả, có niệm, an trú lạc”.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 27,
+      "section": "5. Tứ Thiền: Vượt Lạc-Khổ Và Niệm Thanh Tịnh Nhờ Xả",
+      "source_label": "MN 39, đoạn `mn39:18.1`",
+      "translation": "Khi lạc và khổ được từ bỏ, và hỷ cùng ưu đã lắng từ trước, vị ấy chứng tứ thiền: không khổ không lạc, với niệm thanh tịnh nhờ xả.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 28,
+      "section": "2. Mettā: Mong An Lành Không Đồng Nghĩa Chiều Theo Mọi Yêu Cầu",
+      "source_label": "DN 13, đoạn `dn13:76.1`",
+      "translation": "Vị ấy an trú, dùng tâm đi cùng từ bao trùm một phương rồi mọi phương, toàn thế giới, rộng lớn, vô lượng, không thù hận, không làm hại.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 28,
+      "section": "3. Karuṇā: Đến Gần Khổ Mà Không Chìm Trong Khổ",
+      "source_label": "DN 13, các đoạn `dn13:78.1–78.3`",
+      "translation": "Vị ấy lần lượt dùng tâm đi cùng bi, hỷ và xả bao trùm toàn thế giới, rộng lớn, vô lượng, không thù hận, không làm hại.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    },
+    {
+      "lesson": 28,
+      "section": "5. Upekkhā: Xả Không Phải Thờ Ơ, Và Ranh Giới Không Phải Sân",
+      "source_label": "SN 46.54, đoạn `sn46.54:15.2–15.3`",
+      "translation": "Vị ấy phát triển các giác chi đi cùng xả, nương ly tham, đoạn diệt và hướng đến buông bỏ; phát triển cả giác chi xả đi cùng xả.",
+      "translation_reviewed": true,
+      "placement_pass": true
+    }
+  ]
+}

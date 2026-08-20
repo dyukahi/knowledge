@@ -85,12 +85,12 @@ related:
 
 | # | Bài | Trạng thái |
 |---:|---|---|
-| 23 | Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh | Đã có nguồn neo |
-| 24 | Tứ Niệm Xứ — Bốn Nền Tảng Của Chánh Niệm | Đã có nguồn neo |
-| 25 | Ānāpānasati — Toàn Bộ Con Đường Trong Một Hơi Thở | Đã có nguồn neo |
-| 26 | Chỉ Và Quán — Samatha Và Vipassanā Có Thật Sự Tách Đôi? | Đã có nguồn neo |
-| 27 | Bốn Tầng Thiền — Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích | Đã có nguồn neo |
-| 28 | Bốn Tâm Vô Lượng Và Upekkhā | Đã có nguồn neo |
+| 23 | Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh | Đã xuất bản |
+| 24 | Tứ Niệm Xứ — Bốn Nền Tảng Của Chánh Niệm | Đã xuất bản |
+| 25 | Ānāpānasati — Toàn Bộ Con Đường Trong Một Hơi Thở | Đã xuất bản |
+| 26 | Chỉ Và Quán — Samatha Và Vipassanā Có Thật Sự Tách Đôi? | Đã xuất bản |
+| 27 | Bốn Tầng Thiền — Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích | Đã xuất bản |
+| 28 | Bốn Tâm Vô Lượng Và Upekkhā | Đã xuất bản |
 
 ## Học Phần VI — Vũ Trụ, Giác Ngộ Và Nibbāna
 

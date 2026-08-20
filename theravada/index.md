@@ -68,7 +68,18 @@ Batch 2 hoàn tất phần còn lại của xương sống giáo pháp và toàn
 5. [[21 - Những Gì Kinh Pāli Nói Về Cái Chết]]
 6. [[22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ]]
 
-Batch 3 khóa trục Duyên khởi → nghiệp → tái sinh → cái chết → saṃsāra và đặt các lens soul-school/prison-matrix vào lớp so sánh đúng nguồn.
+Batch 3 khóa trục Duyên khởi → nghiệp → tái sinh → cái chết → saṃsāra và đặt các lăng kính soul-school/prison-matrix vào lớp so sánh đúng nguồn.
+
+## Batch 4 — Đã Xuất Bản
+
+1. [[23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh]]
+2. [[24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm]]
+3. [[25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở]]
+4. [[26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi]]
+5. [[27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích]]
+6. [[28 - Bốn Tâm Vô Lượng Và Upekkhā]]
+
+Batch 4 là học phần thực hành, có ranh giới an toàn, y khoa và dòng truyền rõ.
 
 ---
 

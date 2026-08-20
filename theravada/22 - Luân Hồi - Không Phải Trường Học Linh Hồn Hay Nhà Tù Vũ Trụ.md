@@ -158,7 +158,7 @@ Cuối cùng, để hình ảnh vô số mẹ và biển nước mắt mở bi t
 > [!warning] Điều chưa chứng minh
 > Hai nguồn trụ cột không nói linh hồn chọn giáo trình, ký hợp đồng tiền sinh, tự động tiến hóa, bị xóa ký ức hay bị thực thể bí mật thu hoạch năng lượng. “Không thấy điểm đầu” cũng không chứng minh một lý thuyết vật lý về tuổi vũ trụ. Không được biến đau khổ thành bằng chứng của thiết kế hay âm mưu.
 
-Đọc trước: [[21 - Những Gì Kinh Pāli Nói Về Cái Chết]]. Đọc tiếp: Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.
+Đọc trước: [[21 - Những Gì Kinh Pāli Nói Về Cái Chết]]. Đọc tiếp: [[23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh]].
 
 **Nguồn kinh điển chính xác**
 

@@ -499,7 +499,7 @@
       "module_slug": "practice",
       "canonical_role": "five-precepts",
       "title": "Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         9
       ],
@@ -510,7 +510,8 @@
       "provenance": [
         "early-sutta",
         "vinaya"
-      ]
+      ],
+      "path": "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md"
     },
     {
       "lesson": 24,
@@ -518,7 +519,7 @@
       "module_slug": "practice",
       "canonical_role": "four-satipatthanas",
       "title": "Tứ Niệm Xứ — Bốn Nền Tảng Của Chánh Niệm",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         12,
         13,
@@ -531,7 +532,8 @@
       "provenance": [
         "early-sutta",
         "commentary"
-      ]
+      ],
+      "path": "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md"
     },
     {
       "lesson": 25,
@@ -539,7 +541,7 @@
       "module_slug": "practice",
       "canonical_role": "mindfulness-of-breathing",
       "title": "Ānāpānasati — Toàn Bộ Con Đường Trong Một Hơi Thở",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         24
       ],
@@ -548,7 +550,8 @@
       ],
       "provenance": [
         "early-sutta"
-      ]
+      ],
+      "path": "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md"
     },
     {
       "lesson": 26,
@@ -556,7 +559,7 @@
       "module_slug": "practice",
       "canonical_role": "samatha-vipassana",
       "title": "Chỉ Và Quán — Samatha Và Vipassanā Có Thật Sự Tách Đôi?",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         24,
         25
@@ -569,7 +572,8 @@
         "early-sutta",
         "commentary",
         "modern-theravada"
-      ]
+      ],
+      "path": "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md"
     },
     {
       "lesson": 27,
@@ -577,7 +581,7 @@
       "module_slug": "practice",
       "canonical_role": "four-jhanas",
       "title": "Bốn Tầng Thiền — Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         9,
         25
@@ -591,7 +595,8 @@
         "early-sutta",
         "commentary",
         "modern-theravada"
-      ]
+      ],
+      "path": "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md"
     },
     {
       "lesson": 28,
@@ -599,7 +604,7 @@
       "module_slug": "practice",
       "canonical_role": "four-brahmaviharas",
       "title": "Bốn Tâm Vô Lượng Và Upekkhā",
-      "status": "source_anchor_identified",
+      "status": "published",
       "prerequisites": [
         9,
         24
@@ -612,7 +617,8 @@
       "provenance": [
         "early-sutta",
         "commentary"
-      ]
+      ],
+      "path": "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md"
     },
     {
       "lesson": 29,

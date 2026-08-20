@@ -180,6 +180,7 @@ def validate_published_lessons(curriculum: dict) -> None:
         load_json(ROOT / "_docs" / "theravada-batch1-sources.json"),
         load_json(ROOT / "_docs" / "theravada-batch2-sources.json"),
         load_json(ROOT / "_docs" / "theravada-batch3-sources.json"),
+        load_json(ROOT / "_docs" / "theravada-batch4-sources.json"),
     ]
     for batch_sources in source_manifests:
         if not isinstance(batch_sources.get("translation_policy"), str) or not batch_sources["translation_policy"]:
@@ -219,14 +220,16 @@ def validate_published_lessons(curriculum: dict) -> None:
             fail(f"translation source edition missing for lesson {row['lesson']}")
         if "<!-- ILLUSTRATION:" in text:
             fail(f"unresolved image placeholder: {path.relative_to(ROOT)}")
-        if row["lesson"] <= 22 and text.count("> **Pāli —") < 3:
+        if text.count("> **Pāli —") < 3:
             fail(f"scripture-first quote minimum not met: {path.relative_to(ROOT)}")
         if row["lesson"] in {1, 2, 3, 4, 5, 8}:
             image_batch = "theravada-batch1"
         elif row["lesson"] <= 16:
             image_batch = "theravada-batch2"
-        else:
+        elif row["lesson"] <= 22:
             image_batch = "theravada-batch3"
+        else:
+            image_batch = "theravada-batch4"
         refs = re.findall(rf"\.\./assets/illustrations/{image_batch}/([^)]+\.webp)", text)
         if len(refs) != 7 or len(set(refs)) != 7:
             fail(f"lesson must embed seven unique images: {path.relative_to(ROOT)}")
@@ -287,7 +290,7 @@ def main() -> int:
         "module_counts": [row["count"] for row in curriculum["modules"]],
         "published_lessons": sum(row.get("status") == "published" for row in curriculum["lessons"]),
         "global_source_entries": len(load_json(LICENSE_PATH)["sources"]),
-        "batch_source_lessons": sum(len(load_json(ROOT / "_docs" / name)["lessons"]) for name in ("theravada-batch1-sources.json", "theravada-batch2-sources.json", "theravada-batch3-sources.json")),
+        "batch_source_lessons": sum(len(load_json(ROOT / "_docs" / name)["lessons"]) for name in ("theravada-batch1-sources.json", "theravada-batch2-sources.json", "theravada-batch3-sources.json", "theravada-batch4-sources.json")),
     }, ensure_ascii=False))
     return 0
 

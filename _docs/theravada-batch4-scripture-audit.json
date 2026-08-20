@@ -1,0 +1,280 @@
+{
+  "schema": "theravada-scripture-audit.v1",
+  "scope": "lessons-23-28",
+  "blocks": 19,
+  "passed": 19,
+  "all_pass": true,
+  "rows": [
+    {
+      "lesson": 23,
+      "file": "23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+      "discourse": "an8.39",
+      "segment_ids": [
+        "an8.39:3.5",
+        "an8.39:4.1",
+        "an8.39:5.1",
+        "an8.39:6.1",
+        "an8.39:7.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/an8.39/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "ba94fd70d1ecfadf2d02b81b7e65760a6224432a27f6f5629d47023b945f9bec",
+      "actual_sha256": "ba94fd70d1ecfadf2d02b81b7e65760a6224432a27f6f5629d47023b945f9bec"
+    },
+    {
+      "lesson": 23,
+      "file": "23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+      "discourse": "an8.39",
+      "segment_ids": [
+        "an8.39:3.5",
+        "an8.39:3.6"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/an8.39/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "a83bc8abcb8f26a89ea16edee44e43bf03b6d3c105314b864f9aa500e338f2ed",
+      "actual_sha256": "a83bc8abcb8f26a89ea16edee44e43bf03b6d3c105314b864f9aa500e338f2ed"
+    },
+    {
+      "lesson": 23,
+      "file": "23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+      "discourse": "dn31",
+      "segment_ids": [
+        "dn31:3.5",
+        "dn31:3.6",
+        "dn31:3.7"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/dn31/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "97678ddf74b905b4fce7de3345ba0fe666277363112d232dc7d846c77089598a",
+      "actual_sha256": "97678ddf74b905b4fce7de3345ba0fe666277363112d232dc7d846c77089598a"
+    },
+    {
+      "lesson": 24,
+      "file": "24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+      "discourse": "mn10",
+      "segment_ids": [
+        "mn10:2.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn10/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "20de909eb9fe279fd5d4157069929adf932623dde4a88e412cd36a09e27a14ad",
+      "actual_sha256": "20de909eb9fe279fd5d4157069929adf932623dde4a88e412cd36a09e27a14ad"
+    },
+    {
+      "lesson": 24,
+      "file": "24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+      "discourse": "mn10",
+      "segment_ids": [
+        "mn10:3.2"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn10/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "221567ba7a7cf4b0e34ce71ca7b78fee0e8fb42dce98a240a410e9a7fbff64e2",
+      "actual_sha256": "221567ba7a7cf4b0e34ce71ca7b78fee0e8fb42dce98a240a410e9a7fbff64e2"
+    },
+    {
+      "lesson": 24,
+      "file": "24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+      "discourse": "mn10",
+      "segment_ids": [
+        "mn10:5.1",
+        "mn10:5.2"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn10/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "7f2ea524e04924fdbb039c569e16b7b0f42528370ad0ec339a09d0130f1ed01d",
+      "actual_sha256": "7f2ea524e04924fdbb039c569e16b7b0f42528370ad0ec339a09d0130f1ed01d"
+    },
+    {
+      "lesson": 25,
+      "file": "25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+      "discourse": "mn118",
+      "segment_ids": [
+        "mn118:17.1",
+        "mn118:17.2"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn118/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "533aae721b14249f4497c31396174963c0f6e46191d6429be5b028ae8dbbc530",
+      "actual_sha256": "533aae721b14249f4497c31396174963c0f6e46191d6429be5b028ae8dbbc530"
+    },
+    {
+      "lesson": 25,
+      "file": "25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+      "discourse": "mn118",
+      "segment_ids": [
+        "mn118:18.1",
+        "mn118:18.2",
+        "mn118:18.3",
+        "mn118:18.4"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn118/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "5a19dec7433557d5dd4c1491345b931d85d3fd13eb6d75d3c3bba78b39aa97cd",
+      "actual_sha256": "5a19dec7433557d5dd4c1491345b931d85d3fd13eb6d75d3c3bba78b39aa97cd"
+    },
+    {
+      "lesson": 25,
+      "file": "25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+      "discourse": "mn118",
+      "segment_ids": [
+        "mn118:22.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn118/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "1b5e2164402f054f4ec9c80709a5b7b36f61b21e00320123e0f095277225372c",
+      "actual_sha256": "1b5e2164402f054f4ec9c80709a5b7b36f61b21e00320123e0f095277225372c"
+    },
+    {
+      "lesson": 26,
+      "file": "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+      "discourse": "an4.170",
+      "segment_ids": [
+        "an4.170:3.2",
+        "an4.170:3.3",
+        "an4.170:3.4",
+        "an4.170:3.5"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/an4.170/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "780455f0cc80580e82db67d54409091dfa1b18a93021679d61ea2d4f7ae62c6a",
+      "actual_sha256": "780455f0cc80580e82db67d54409091dfa1b18a93021679d61ea2d4f7ae62c6a"
+    },
+    {
+      "lesson": 26,
+      "file": "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+      "discourse": "an4.170",
+      "segment_ids": [
+        "an4.170:4.1",
+        "an4.170:4.2",
+        "an4.170:4.3",
+        "an4.170:4.4"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/an4.170/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "f8338000bc1acb36f361b469bdf8d72fdada8ed74898e9da01d7f839531337e2",
+      "actual_sha256": "f8338000bc1acb36f361b469bdf8d72fdada8ed74898e9da01d7f839531337e2"
+    },
+    {
+      "lesson": 26,
+      "file": "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+      "discourse": "an4.170",
+      "segment_ids": [
+        "an4.170:5.1",
+        "an4.170:5.2",
+        "an4.170:5.3",
+        "an4.170:5.4"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/an4.170/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "5ba86512bb2616f8fe09164901847a40145529049c527e12729218276948327b",
+      "actual_sha256": "5ba86512bb2616f8fe09164901847a40145529049c527e12729218276948327b"
+    },
+    {
+      "lesson": 27,
+      "file": "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+      "discourse": "mn39",
+      "segment_ids": [
+        "mn39:15.2"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn39/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "7ad5c696d25543957f90679b53def2ac0869e5c0294ad6baa0c7e1c71d00a853",
+      "actual_sha256": "7ad5c696d25543957f90679b53def2ac0869e5c0294ad6baa0c7e1c71d00a853"
+    },
+    {
+      "lesson": 27,
+      "file": "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+      "discourse": "mn39",
+      "segment_ids": [
+        "mn39:16.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn39/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "b2f96dafa1b710a54176ab4a8b6701a0081bcda36b4168614f49a75cbe9f1879",
+      "actual_sha256": "b2f96dafa1b710a54176ab4a8b6701a0081bcda36b4168614f49a75cbe9f1879"
+    },
+    {
+      "lesson": 27,
+      "file": "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+      "discourse": "mn39",
+      "segment_ids": [
+        "mn39:17.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn39/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "7ca97c54d58f82c2beadf4793d550a0dd5180cba65a42dbc67b2d2b6b268ec76",
+      "actual_sha256": "7ca97c54d58f82c2beadf4793d550a0dd5180cba65a42dbc67b2d2b6b268ec76"
+    },
+    {
+      "lesson": 27,
+      "file": "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+      "discourse": "mn39",
+      "segment_ids": [
+        "mn39:18.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn39/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "c959893af29621bebadedbd7f76567b123546424e59b2dd58704dca1b3e8ab10",
+      "actual_sha256": "c959893af29621bebadedbd7f76567b123546424e59b2dd58704dca1b3e8ab10"
+    },
+    {
+      "lesson": 28,
+      "file": "28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+      "discourse": "dn13",
+      "segment_ids": [
+        "dn13:76.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/dn13/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "1203ca4cf03c645b6a57d5d902810fb66e73e57553b37735ff90684885fe297a",
+      "actual_sha256": "1203ca4cf03c645b6a57d5d902810fb66e73e57553b37735ff90684885fe297a"
+    },
+    {
+      "lesson": 28,
+      "file": "28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+      "discourse": "dn13",
+      "segment_ids": [
+        "dn13:78.1",
+        "dn13:78.2",
+        "dn13:78.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/dn13/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "74fd817277f257450aee5f10c9f680aaeb9d9d586580ecc52bc0619ac356f80d",
+      "actual_sha256": "74fd817277f257450aee5f10c9f680aaeb9d9d586580ecc52bc0619ac356f80d"
+    },
+    {
+      "lesson": 28,
+      "file": "28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+      "discourse": "sn46.54",
+      "segment_ids": [
+        "sn46.54:15.2",
+        "sn46.54:15.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn46.54/sujato?lang=en",
+      "http_status": 200,
+      "exact_match": true,
+      "expected_sha256": "c26612e39b5042030101e12d55d00bf1b1b48cdf7a986c39dfbdb8edc0c2862a",
+      "actual_sha256": "c26612e39b5042030101e12d55d00bf1b1b48cdf7a986c39dfbdb8edc0c2862a"
+    }
+  ]
+}
