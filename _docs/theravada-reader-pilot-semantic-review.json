@@ -7,11 +7,12 @@
     2,
     3,
     4,
+    5,
     18,
     36
   ],
-  "cards": 17,
-  "passed": 17,
+  "cards": 20,
+  "passed": 20,
   "rows": [
     {
       "lesson": 1,
@@ -131,6 +132,27 @@
       "title": "Kinh về thẩm tra lời dạy qua hậu quả thiện và bất thiện — Tăng Chi Bộ Kinh",
       "translation_label": "Dịch Việt rút gọn",
       "review_note": "Two noncontiguous passages are separated by an explicit ellipsis; translation covers unwholesome abandonment and wholesome cultivation without repeating the source clause or promoting blanket skepticism."
+    },
+    {
+      "lesson": 5,
+      "source": "SN 56.11:4.1–4.5",
+      "title": "Dukkha và nguồn sinh của dukkha — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Translation visibly abbreviates the detailed dukkha list while retaining five clinging aggregates and the three forms of craving; introduction stays within the two truths quoted."
+    },
+    {
+      "lesson": 5,
+      "source": "SN 56.11:5.2;6.2;7.2;8.2",
+      "title": "Bốn sự thật, bốn việc phải làm — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Four noncontiguous source groups are displayed once each in canonical order with three visible separators; Vietnamese mirrors the compression with three visible ellipses while preserving understand, abandon, realize, and develop."
+    },
+    {
+      "lesson": 5,
+      "source": "SN 56.11:4.6–4.10",
+      "title": "Sự đoạn diệt và con đường — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Translation visibly omits the internal path-factor enumeration and accurately identifies craving cessation and the Noble Eightfold Path."
     }
   ]
 }
