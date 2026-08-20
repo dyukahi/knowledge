@@ -21,4 +21,20 @@ for row in sources:
  if row.get('discourse_han_viet_title') and not row.get('han_viet_verification_source'):fail(f'{code} Hán-Việt title lacks verification source')
  if code in i['all_codes'] and row.get('used_in_lessons')!=i['all_codes'][code]:fail(f'{code} lesson usage drift')
 if not set(i['all_codes']).issubset(seen):fail('legacy registry coverage missing')
+vinaya={x['source_key']:x for x in sources if x['source_type']=='vinaya'}
+if vinaya:
+ if set(vinaya)!={'VINAYA pli-tv-kd21','VINAYA pli-tv-kd22'}:fail('unexpected Vinaya adapter set')
+ for key,row in vinaya.items():
+  label='Cullavagga XI' if key.endswith('kd21') else 'Cullavagga XII'
+  actual=[]
+  for lesson in range(1,37):
+   article=next((ROOT/'theravada').glob(f'{lesson:02d}*.md'))
+   pattern=r'\bCullavagga XI(?!I)\b' if label.endswith('XI') else r'\bCullavagga XII\b'
+   if re.search(pattern,article.read_text()):actual.append(lesson)
+  if row.get('used_in_lessons')!=actual:fail(f'{key} lesson usage drift: {actual}')
+ for key,row in vinaya.items():
+  locators=row.get('locator_inventory') or []
+  if not locators:fail(f'{key} locator inventory missing')
+  for loc in locators:
+   if not loc.get('segment_ids') or len(loc.get('raw_sha256',''))!=64 or len(loc.get('normalized_sha256',''))!=64:fail(f'{key} locator hash evidence incomplete')
 print(json.dumps({'status':'pass','sources':len(sources),'families':dict(__import__('collections').Counter(x['source_type'] for x in sources)),'han_viet_titles':sum(bool(x.get('discourse_han_viet_title')) for x in sources)},ensure_ascii=False))

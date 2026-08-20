@@ -1730,6 +1730,108 @@
       "canonical_url": "https://suttacentral.net/an10.13",
       "text_language": "pli",
       "edition_or_witness": "SuttaCentral Bilara Pāli root"
+    },
+    {
+      "source_key": "VINAYA pli-tv-kd21",
+      "code": "VINAYA pli-tv-kd21",
+      "source_type": "vinaya",
+      "collection_code": "PLI_TV_KD",
+      "collection_abbr": "VINAYA",
+      "number": "XI",
+      "work_id": "pli-tv-kd21",
+      "collection_pali": "Vinaya Piṭaka — Cullavagga",
+      "collection_han_viet": "Luật tạng Theravāda",
+      "collection_plain_vietnamese": "Phần Tiểu phẩm của Luật tạng Pāli",
+      "discourse_pali_title": "Cullavagga XI",
+      "display_title_pali": "Cullavagga XI",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Chương Luật về kỳ kết tập đầu tiên",
+      "display_title_vi": "Chương Luật về kỳ kết tập đầu tiên",
+      "plain_summary": "Chương Luật kể việc các trưởng lão tụng đọc và gìn giữ Pháp–Luật sau khi Đức Phật qua đời.",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/pli-tv-kd21",
+      "canonical_url": "https://suttacentral.net/pli-tv-kd21",
+      "used_in_lessons": [
+        2,
+        3
+      ],
+      "text_language": "pli",
+      "edition_or_witness": "Theravāda Vinaya Pāli root",
+      "locator_inventory": [
+        {
+          "lesson": 2,
+          "label": "Cullavagga XI, các đoạn pli-tv-kd21:1.11.4–pli-tv-kd21:1.11.7",
+          "segment_ids": [
+            "pli-tv-kd21:1.11.4",
+            "pli-tv-kd21:1.11.5",
+            "pli-tv-kd21:1.11.6",
+            "pli-tv-kd21:1.11.7"
+          ],
+          "raw_sha256": "9c58d6772cc2e7e425b72c1900d4000b1de73c95099dbd8dfbd4f9ea1e551934",
+          "normalized_sha256": "9c58d6772cc2e7e425b72c1900d4000b1de73c95099dbd8dfbd4f9ea1e551934",
+          "api": "https://suttacentral.net/api/bilarasuttas/pli-tv-kd21/sujato?lang=en"
+        },
+        {
+          "lesson": 3,
+          "label": "Cullavagga XI, pli-tv-kd21:1.7.1–1.7.2",
+          "segment_ids": [
+            "pli-tv-kd21:1.7.1"
+          ],
+          "raw_sha256": "4ef563a370524300a2bcd535e712c7eea3b05bb764a5396701a6d2d42f0eaf3a",
+          "normalized_sha256": "4ef563a370524300a2bcd535e712c7eea3b05bb764a5396701a6d2d42f0eaf3a",
+          "api": "https://suttacentral.net/api/bilarasuttas/pli-tv-kd21/sujato?lang=en"
+        },
+        {
+          "lesson": 3,
+          "label": "Cullavagga XI, pli-tv-kd21:1.8.18–1.8.19",
+          "segment_ids": [
+            "pli-tv-kd21:1.8.18"
+          ],
+          "raw_sha256": "726e3e63176633f2e071a5f342fb375ecc49b398a99b3db43f9dd434c44a3ccc",
+          "normalized_sha256": "726e3e63176633f2e071a5f342fb375ecc49b398a99b3db43f9dd434c44a3ccc",
+          "api": "https://suttacentral.net/api/bilarasuttas/pli-tv-kd21/sujato?lang=en"
+        }
+      ]
+    },
+    {
+      "source_key": "VINAYA pli-tv-kd22",
+      "code": "VINAYA pli-tv-kd22",
+      "source_type": "vinaya",
+      "collection_code": "PLI_TV_KD",
+      "collection_abbr": "VINAYA",
+      "number": "XII",
+      "work_id": "pli-tv-kd22",
+      "collection_pali": "Vinaya Piṭaka — Cullavagga",
+      "collection_han_viet": "Luật tạng Theravāda",
+      "collection_plain_vietnamese": "Phần Tiểu phẩm của Luật tạng Pāli",
+      "discourse_pali_title": "Cullavagga XII",
+      "display_title_pali": "Cullavagga XII",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Chương Luật về tranh chấp Vesālī",
+      "display_title_vi": "Chương Luật về tranh chấp Vesālī",
+      "plain_summary": "Chương Luật kể cuộc tranh chấp tại Vesālī và cách cộng đồng trưởng lão phân xử các điểm giới luật.",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/pli-tv-kd22",
+      "canonical_url": "https://suttacentral.net/pli-tv-kd22",
+      "used_in_lessons": [
+        2,
+        3
+      ],
+      "text_language": "pli",
+      "edition_or_witness": "Theravāda Vinaya Pāli root",
+      "locator_inventory": [
+        {
+          "lesson": 2,
+          "label": "Cullavagga XII, các đoạn pli-tv-kd22:1.1.1–pli-tv-kd22:1.1.2",
+          "segment_ids": [
+            "pli-tv-kd22:1.1.1",
+            "pli-tv-kd22:1.1.2"
+          ],
+          "raw_sha256": "2fef45dab9d8a737ff5e672e719fb945057a0b3022287dadf0b09d605a2c1d3e",
+          "normalized_sha256": "2fef45dab9d8a737ff5e672e719fb945057a0b3022287dadf0b09d605a2c1d3e",
+          "api": "https://suttacentral.net/api/bilarasuttas/pli-tv-kd22/sujato?lang=en"
+        }
+      ]
     }
   ],
   "source_families": {
@@ -1738,6 +1840,9 @@
       "MN",
       "SN",
       "AN"
+    ],
+    "vinaya": [
+      "PLI_TV_KD"
     ]
   }
 }

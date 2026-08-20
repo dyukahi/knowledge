@@ -8,6 +8,8 @@ CODE_RE=re.compile(r'\b(DN|MN|SN|AN)\s+(\d+(?:\.\d+)?)\b')
 def source_for_label(label):
  m=CODE_RE.search(label)
  if m:return REG[f"{m.group(1)} {m.group(2)}"]
+ if re.search(r'\bCullavagga XI\b',label):return REG['VINAYA pli-tv-kd21']
+ if re.search(r'\bCullavagga XII\b',label):return REG['VINAYA pli-tv-kd22']
  raise RuntimeError(f"unknown citation family; expand registry before migration: {label}")
 def replace_reader_codes(line):
  if 'Nguồn kiểm chứng:' in line:return line
@@ -18,6 +20,10 @@ def replace_reader_codes(line):
  def repl(m):
   key=f'{m.group(1)} {m.group(2)}';row=REG.get(key);return f'[{row["display_title_vi"]}]({row["canonical_url"]})' if row else m.group(0)
  line=CODE_RE.sub(repl,line)
+ for source_key,label in [('VINAYA pli-tv-kd21','Cullavagga XI'),('VINAYA pli-tv-kd22','Cullavagga XII')]:
+  row=REG[source_key]
+  line=re.sub(rf'\[{re.escape(label)}\]\({re.escape(row["canonical_url"])}\)',f'[{row["display_title_vi"]} — {row["collection_han_viet"]}]({row["canonical_url"]})',line)
+  line=re.sub(rf'(?<!\[)\b{re.escape(label)}\b',f'[{row["display_title_vi"]}]({row["canonical_url"]})',line)
  return line
 def card_title(row):
  name=row['display_title_vi'];collection=row['collection_han_viet']
