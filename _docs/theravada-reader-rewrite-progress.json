@@ -2,7 +2,8 @@
   "schema": "theravada-reader-rewrite-progress.v3",
   "completed_lessons": [
     1,
-    18
+    18,
+    36
   ],
   "card_contract": "narrative-quote-v1",
   "required_visible_elements": [

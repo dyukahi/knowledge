@@ -4,10 +4,11 @@
   "review_date": "2026-08-20",
   "completed_lessons": [
     1,
-    18
+    18,
+    36
   ],
-  "cards": 6,
-  "passed": 6,
+  "cards": 8,
+  "passed": 8,
   "rows": [
     {
       "lesson": 1,
@@ -50,6 +51,20 @@
       "title": "Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh",
       "translation_label": "Dịch Việt",
       "review_note": "Định nghĩa jāti được dịch đủ; prose dùng làm neo cho cách đọc ba đời mà không phủ nhận các tầng giải thích khác."
+    },
+    {
+      "lesson": 36,
+      "source": "AN 3.65:4.1–4.3",
+      "title": "Kinh về cách thẩm tra lời dạy — Tăng Chi Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Bản dịch bao phủ đủ danh sách các nền tảng không nên dựa riêng và mệnh đề từ bỏ pháp bất thiện dẫn đến khổ; prose không biến nó thành khẩu hiệu chỉ tin bản thân hay phòng thí nghiệm."
+    },
+    {
+      "lesson": 36,
+      "source": "SN 22.59:2.1,2.4,2.5",
+      "title": "Kinh về năm uẩn không phải tự ngã — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Bản dịch dùng dấu ba chấm cho mệnh đề ra lệnh đối với sắc và được ghi rút gọn; prose giữ phép quán vô ngã tách khỏi suy luận neuroscience."
     }
   ]
 }

@@ -3,10 +3,11 @@
   "contract": "narrative-quote-v1",
   "completed_lessons": [
     1,
-    18
+    18,
+    36
   ],
-  "cards": 6,
-  "passed": 6,
+  "cards": 8,
+  "passed": 8,
   "all_pass": true,
   "rows": [
     {
@@ -99,6 +100,36 @@
       "raw_sha256": "556b7078c5d7d94ff8ed80b58edb1442c18530b3cf8a679a26eef0b939efe827",
       "normalized_sha256": "556b7078c5d7d94ff8ed80b58edb1442c18530b3cf8a679a26eef0b939efe827",
       "actual_sha256": "556b7078c5d7d94ff8ed80b58edb1442c18530b3cf8a679a26eef0b939efe827",
+      "exact_match": true
+    },
+    {
+      "lesson": 36,
+      "source_key": "AN 3.65",
+      "work_id": "an3.65",
+      "segments": [
+        "an3.65:4.1",
+        "an3.65:4.2",
+        "an3.65:4.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/an3.65/sujato?lang=en",
+      "raw_sha256": "497c16448d0b94675adb6fb315a0314270e0665d9a96a4fbbd348a9018908853",
+      "normalized_sha256": "497c16448d0b94675adb6fb315a0314270e0665d9a96a4fbbd348a9018908853",
+      "actual_sha256": "497c16448d0b94675adb6fb315a0314270e0665d9a96a4fbbd348a9018908853",
+      "exact_match": true
+    },
+    {
+      "lesson": 36,
+      "source_key": "SN 22.59",
+      "work_id": "sn22.59",
+      "segments": [
+        "sn22.59:2.1",
+        "sn22.59:2.4",
+        "sn22.59:2.5"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn22.59/sujato?lang=en",
+      "raw_sha256": "6fd40e48f944a94011df55dc4fae88e23940cc88500a91d33ffc95e667f86309",
+      "normalized_sha256": "6fd40e48f944a94011df55dc4fae88e23940cc88500a91d33ffc95e667f86309",
+      "actual_sha256": "6fd40e48f944a94011df55dc4fae88e23940cc88500a91d33ffc95e667f86309",
       "exact_match": true
     }
   ]
