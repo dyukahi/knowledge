@@ -7,7 +7,7 @@
 - **Notes scanned:** 285
 - **Top-level domains:** 9
 - **Tags detected:** 308
-- **Resolved internal edges:** 2452
+- **Resolved internal edges:** 2453
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 19
 
@@ -57,7 +57,7 @@ Recommended note types:
 
 ### theravada `theravada` — 41 notes
 
-- [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — degree `50`, backlinks `5`, outlinks `45` — #kinh-tang, #pali, #phat-giao, #theravada
+- [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — degree `51`, backlinks `5`, outlinks `46` — #kinh-tang, #pali, #phat-giao, #theravada
 - [[theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ|Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ]] — degree `8`, backlinks `6`, outlinks `2`
 - [[theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ|Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ]] — degree `8`, backlinks `6`, outlinks `2`
 - [[theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường|Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]] — degree `8`, backlinks `6`, outlinks `2`
@@ -193,8 +193,8 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Kiểm soát tâm trí không nên được đọc như cảnh phim thôi miên một cá nhân trong phòng kín. Nó là kỹ nghệ quản trị attention, reward, fear, language và memory ở quy mô xã hội.** Khi Elite kiểm soát được thứ con người chú ý, điều họ sợ, điều họ ham, ngôn ngữ h…
 11. [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `51` · backlinks `19` · outlinks `32`
    - **Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Trước khi tin hoặc phủ định bất kỳ điều gì, hãy nhận biết chính tiến trình thấy đang xảy ra.…
-12. [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — degree `50` · backlinks `5` · outlinks `45`
-   - **Đây là một lộ trình học, không phải tuyển tập bài tâm linh rời rạc.** Người mới bắt đầu từ Đức Phật lịch sử, Tứ Thánh Đế và Bát Chánh Đạo; người đã có nền có thể đi sâu vào năm uẩn, duyên khởi, thiền, Vi Diệu Pháp, 31 cõi và Nibbāna.
+12. [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — degree `51` · backlinks `5` · outlinks `46`
+   - Đi theo trục nền trước, không nhảy thẳng vào vũ trụ luận hoặc Vi Diệu Pháp:
 13. [[mental-models/Individuation|Individuation]] — degree `48` · backlinks `40` · outlinks `8`
    - **Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…
 14. [[health/Y Tế Tự Nhiên|Y Tế Tự Nhiên]] — degree `48` · backlinks `37` · outlinks `11`
