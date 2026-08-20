@@ -4,11 +4,12 @@
   "review_date": "2026-08-20",
   "completed_lessons": [
     1,
+    2,
     18,
     36
   ],
-  "cards": 8,
-  "passed": 8,
+  "cards": 11,
+  "passed": 11,
   "rows": [
     {
       "lesson": 1,
@@ -65,6 +66,27 @@
       "title": "Kinh về năm uẩn không phải tự ngã — Tương Ưng Bộ Kinh",
       "translation_label": "Dịch Việt rút gọn",
       "review_note": "Bản dịch dùng dấu ba chấm cho mệnh đề ra lệnh đối với sắc và được ghi rút gọn; prose giữ phép quán vô ngã tách khỏi suy luận neuroscience."
+    },
+    {
+      "lesson": 2,
+      "source": "DN 16:6.1.2–6.1.5",
+      "title": "Kinh về những ngày cuối của Đức Phật — Trường Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Pāli and Vietnamese fully align on Dhamma–Vinaya as teacher after the Buddha’s death; introduction does not claim a modern Theravāda institution."
+    },
+    {
+      "lesson": 2,
+      "source": "pli-tv-kd21:1.11.4–1.11.7",
+      "title": "Chương Luật về kỳ kết tập đầu tiên — Luật tạng Theravāda",
+      "translation_label": "Dịch Việt",
+      "review_note": "Translation fully covers the invitation to Purāṇa and his reply; introduction presents it as Vinaya narrative and preserves evidence of non-unanimity."
+    },
+    {
+      "lesson": 2,
+      "source": "pli-tv-kd22:1.1.1–1.1.2",
+      "title": "Chương Luật về tranh chấp Vesālī — Luật tạng Theravāda",
+      "translation_label": "Dịch Việt",
+      "review_note": "Translation fully enumerates the ten practices; introduction explicitly attributes the account to the Vinaya tradition rather than treating every detail as independently proven history."
     }
   ]
 }

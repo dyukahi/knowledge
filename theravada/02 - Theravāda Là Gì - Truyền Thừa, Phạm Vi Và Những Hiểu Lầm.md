@@ -42,20 +42,38 @@ source_license_checked: true
 ## 1. Một Tên Gọi, Không Phải Một Hóa Thạch
 ![cây cổ thụ có rễ là văn bản Pāli và nhiều cành là cộng đồng hiện đại](../assets/illustrations/theravada-batch1/theravada-02-truyen-thong-song.webp)
 
-> **Pāli — DN 16, các đoạn dn16:6.1.2–dn16:6.1.5**
+> [!quote] Kinh về những ngày cuối của Đức Phật — Trường Bộ Kinh
+> Đức Phật nói với Ānanda rằng sau khi Ngài qua đời, Pháp và Luật đã được giảng dạy, quy định sẽ là người thầy của cộng đồng.
+>
+> **Pāli**
 > *“siyā kho panānanda, tumhākaṁ evamassa: ‘atītasatthukaṁ pāvacanaṁ, natthi no satthā’ti. Na kho panetaṁ, ānanda, evaṁ daṭṭhabbaṁ. Yo vo, ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena satthā.*
 >
-> **Dịch nghĩa làm việc:** Này Ānanda, các ông có thể nghĩ: “Lời dạy đã mất thầy; chúng ta không còn thầy.” Không nên nhìn như vậy. Pháp và Luật ta đã dạy và quy định sẽ là thầy của các ông sau khi ta qua đời.
+> **Dịch Việt**
+> Này Ānanda, các ông có thể nghĩ: “Lời dạy đã mất thầy; chúng ta không còn thầy.” Không nên nhìn như vậy. Pháp và Luật ta đã dạy và quy định sẽ là thầy của các ông sau khi ta qua đời.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/dn16">DN 16, các đoạn 6.1.2–6.1.5</a> · <i>Mahāparinibbāna Sutta</i></small>
 
-> **Pāli — Cullavagga XI, các đoạn pli-tv-kd21:1.11.4–pli-tv-kd21:1.11.7**
+> [!quote] Chương Luật về kỳ kết tập đầu tiên — Luật tạng Theravāda
+> Luật tạng kể việc các trưởng lão mời Purāṇa thuận theo bản tụng chung; Purāṇa đáp rằng ông sẽ ghi giữ điều chính mình đã nghe trực tiếp từ Đức Phật.
+>
+> **Pāli**
 > *“therehi, āvuso purāṇa, dhammo ca vinayo ca saṅgīto. Upehi taṁ saṅgītin”ti. “Susaṅgītāvuso, therehi dhammo ca vinayo ca. Api ca yatheva mayā bhagavato sammukhā sutaṁ, sammukhā paṭiggahitaṁ, tathevāhaṁ dhāressāmī”ti.*
 >
-> **Dịch nghĩa làm việc:** “Hiền giả Purāṇa, các trưởng lão đã cùng tụng Pháp và Luật. Hãy thuận theo cuộc kết tập ấy.” “Pháp và Luật đã được các trưởng lão khéo kết tập; tuy vậy, tôi sẽ ghi giữ đúng như chính mình đã nghe và tiếp nhận trước mặt Đức Thế Tôn.”
+> **Dịch Việt**
+> “Hiền giả Purāṇa, các trưởng lão đã cùng tụng Pháp và Luật. Hãy thuận theo cuộc kết tập ấy.” “Pháp và Luật đã được các trưởng lão khéo kết tập; tuy vậy, tôi sẽ ghi giữ đúng như chính mình đã nghe và tiếp nhận trước mặt Đức Thế Tôn.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/pli-tv-kd21">Cullavagga XI, các đoạn 1.11.4–1.11.7</a> · <i>Cullavagga XI</i></small>
 
-> **Pāli — Cullavagga XII, các đoạn pli-tv-kd22:1.1.1–pli-tv-kd22:1.1.2**
+> [!quote] Chương Luật về tranh chấp Vesālī — Luật tạng Theravāda
+> Luật tạng kể rằng khoảng một trăm năm sau khi Đức Phật viên tịch, các tỳ-kheo Vajjiputtaka ở Vesālī nêu mười thực hành là được phép.
+>
+> **Pāli**
 > *Tena kho pana samayena vassasataparinibbute bhagavati vesālikā vajjiputtakā bhikkhū vesāliyaṁ dasa vatthūni dīpenti— kappati siṅgiloṇakappo, kappati dvaṅgulakappo, kappati gāmantarakappo, kappati āvāsakappo, kappati anumatikappo, kappati āciṇṇakappo, kappati amathitakappo, kappati jaḷogiṁ pātuṁ, kappati adasakaṁ nisīdanaṁ, kappati jātarūparajatanti.*
 >
-> **Dịch nghĩa làm việc:** Khi Đức Thế Tôn đã viên tịch được một trăm năm, các tỳ-kheo Vajjiputtaka ở Vesālī nêu mười điều là được phép: cất muối trong sừng, ăn khi bóng đã quá hai ngón, sang làng khác để ăn, làm lễ bố-tát theo từng trú xứ, xin chuẩn thuận sau, theo lệ quen, dùng sữa chưa thành bơ, uống nước lên men, dùng tọa cụ không viền và nhận vàng bạc.
+> **Dịch Việt**
+> Khi Đức Thế Tôn đã viên tịch được một trăm năm, các tỳ-kheo Vajjiputtaka ở Vesālī nêu mười điều là được phép: cất muối trong sừng, ăn khi bóng đã quá hai ngón, sang làng khác để ăn, làm lễ bố-tát theo từng trú xứ, xin chuẩn thuận sau, theo lệ quen, dùng sữa chưa thành bơ, uống nước lên men, dùng tọa cụ không viền và nhận vàng bạc.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/pli-tv-kd22">Cullavagga XII, các đoạn 1.1.1–1.1.2</a> · <i>Cullavagga XII</i></small>
 
 **Theravāda — đọc gần đúng “Thê-ra-va-đa” — giáo pháp hay đường lối của các Trưởng lão** là tên của một truyền thống Phật giáo sống. `Thera` nghĩa là trưởng lão; `vāda` trong tên gọi có thể mang nghĩa lời dạy, chủ trương hoặc truyền thống. Dịch gọn là “Giáo pháp của các Trưởng lão” hữu ích hơn việc cố biến tên này thành một tuyên bố rằng mọi thành viên đều già nhất, nguyên thủy nhất hoặc không từng thay đổi.
 
@@ -70,9 +88,9 @@ Muốn hiểu đúng, ta phải giữ hai mệnh đề cùng lúc. Một: Therav
 ## 2. Từ Pháp–Luật Đến Ký Ức Về Các Hội Nghị
 ![nhóm người tụng đọc theo vòng tròn, không giả tạo cảnh chụp lịch sử](../assets/illustrations/theravada-batch1/theravada-02-hoi-nghi-truyen-khau.webp)
 
-Trong [DN 16](https://suttacentral.net/dn16), Đức Phật được kể là chỉ định **Dhamma — “Đăm-ma” — Pháp, giáo pháp** và **Vinaya — “Vi-na-ya” — Luật, kỷ luật tu viện** làm thầy sau khi Ngài qua đời. Văn bản không nói “Theravāda” theo nghĩa quốc gia và thể chế hiện đại. Nó đặt nền cho một cộng đồng nhận diện mình bằng điều được dạy và khuôn phép chung. Cặp “Pháp–Luật” có lẽ gần hơn với tự nhận thức ban đầu so với các nhãn bộ phái về sau.
+Trong [Những ngày cuối của Đức Phật — Trường Bộ Kinh](https://suttacentral.net/dn16), Đức Phật được kể là chỉ định **Dhamma — “Đăm-ma” — Pháp, giáo pháp** và **Vinaya — “Vi-na-ya” — Luật, kỷ luật tu viện** làm thầy sau khi Ngài qua đời. Văn bản không nói “Theravāda” theo nghĩa quốc gia và thể chế hiện đại. Nó đặt nền cho một cộng đồng nhận diện mình bằng điều được dạy và khuôn phép chung. Cặp “Pháp–Luật” có lẽ gần hơn với tự nhận thức ban đầu so với các nhãn bộ phái về sau.
 
-[Cullavagga XI](https://suttacentral.net/pli-tv-kd21) của Luật tạng kể hội nghị tại Rājagaha: Mahākassapa chủ trì, Ānanda tụng đọc Pháp và Upāli tụng đọc Luật. [Cullavagga XII](https://suttacentral.net/pli-tv-kd22) kể tranh chấp tại Vesālī về mười thực hành và một cuộc phân xử của các trưởng lão. Trong truyền thống Theravāda, đây là hội nghị thứ nhất và thứ hai, những mắt xích quyết định của bảo tồn chính thống.
+[Chương Luật về kỳ kết tập đầu tiên — Luật tạng Theravāda](https://suttacentral.net/pli-tv-kd21) của Luật tạng kể hội nghị tại Rājagaha: Mahākassapa chủ trì, Ānanda tụng đọc Pháp và Upāli tụng đọc Luật. [Chương Luật về tranh chấp Vesālī — Luật tạng Theravāda](https://suttacentral.net/pli-tv-kd22) kể tranh chấp tại Vesālī về mười thực hành và một cuộc phân xử của các trưởng lão. Trong truyền thống Theravāda, đây là hội nghị thứ nhất và thứ hai, những mắt xích quyết định của bảo tồn chính thống.
 
 Đọc sử học đòi hỏi một câu kép: đây là các lời kể kinh điển quan trọng về cách cộng đồng hiểu việc truyền thừa; chi tiết của chúng không có chứng thực đương thời độc lập. Các bản Luật thuộc những bộ phái khác cũng kể hội nghị nhưng có khác biệt về nhân vật, trật tự và vấn đề. Sự hội tụ cho thấy ký ức về tập hợp, tụng đọc và tranh chấp rất cổ; sự khác biệt cảnh báo ta không thể phục dựng một biên bản duy nhất với độ chắc như sự kiện hiện đại.
 
@@ -126,9 +144,9 @@ Cuối cùng, Theravāda không đồng nhất với một dân tộc, quốc gi
 ## 6. Kinh, Luật, Vi Diệu Pháp, Chú Giải Và Hiện Đại
 ![năm vòng đồng tâm được ghi bằng biểu tượng thay vì chữ](../assets/illustrations/theravada-batch1/theravada-02-nam-lop-truyen-thong.webp)
 
-Ở lớp **Kinh sớm**, DN 16 cho một nguyên tắc tự nhận diện bằng Pháp–Luật và lưu ký ức về những chuẩn kiểm tra lời dạy. Các Nikāya chứa nhiều giáo pháp song song với bộ sưu tập ngoài Theravāda. Đây là nơi ưu tiên khi hỏi một ý có khả năng thuộc di sản chung sớm hay không, dù “Kinh sớm” vẫn gồm nhiều tầng.
+Ở lớp **Kinh sớm**, [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16) cho một nguyên tắc tự nhận diện bằng Pháp–Luật và lưu ký ức về những chuẩn kiểm tra lời dạy. Các Nikāya chứa nhiều giáo pháp song song với bộ sưu tập ngoài Theravāda. Đây là nơi ưu tiên khi hỏi một ý có khả năng thuộc di sản chung sớm hay không, dù “Kinh sớm” vẫn gồm nhiều tầng.
 
-Ở lớp **Luật**, Cullavagga XI–XII kể các hội nghị và tranh chấp. Luật tạo đường biên cho cộng đồng xuất gia, bảo tồn cơ chế thọ giới, xử lý vi phạm và hòa hợp. Luật của Theravāda là một trong nhiều Vinaya cổ. Việc một cộng đồng giữ Luật Pāli là dấu hiệu truyền thừa quan trọng; các điều dành cho người xuất gia không được áp nguyên xi lên cư sĩ.
+Ở lớp **Luật**, [chương về kỳ kết tập đầu tiên](https://suttacentral.net/pli-tv-kd21) và [chương về tranh chấp Vesālī](https://suttacentral.net/pli-tv-kd22) kể hai ký ức truyền thống về hội nghị và phân xử. Luật tạo đường biên cho cộng đồng xuất gia, bảo tồn cơ chế thọ giới, xử lý vi phạm và hòa hợp. Luật của Theravāda là một trong nhiều Vinaya cổ. Việc một cộng đồng giữ Luật Pāli là dấu hiệu truyền thừa quan trọng; các điều dành cho người xuất gia không được áp nguyên xi lên cư sĩ.
 
 Ở lớp **Vi Diệu Pháp**, Theravāda có bảy bộ kinh điển và một kiến trúc phân tích riêng. Truyền thống kể nguồn gốc cao quý của Vi Diệu Pháp và xem nó thuộc Phật ngôn; học thuật hiện đại thường thấy đây là hệ thống hóa phát triển sau các lớp Kinh ban đầu. Hai câu thuộc hai bình diện. Người học có thể tôn trọng thẩm quyền kinh điển trong Theravāda mà vẫn ghi nhãn niên đại tương đối.
 
@@ -142,7 +160,7 @@ Cuối cùng, Theravāda không đồng nhất với một dân tộc, quốc gi
 ![bốn nhãn nguồn đặt trên một bản đồ truyền thừa](../assets/illustrations/theravada-batch1/theravada-02-bon-hop-khang-dinh.webp)
 
 > [!quote] Văn bản nói gì
-> DN 16 đặt Dhamma–Vinaya làm điểm tựa sau khi Phật qua đời. Cullavagga XI kể cuộc tụng đọc Pháp và Luật tại Rājagaha; Cullavagga XII kể tranh chấp Vesālī và cách các trưởng lão phân xử. Đây là lời kể kinh điển của Luật Theravāda.
+> [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16) đặt Dhamma–Vinaya làm điểm tựa sau khi Phật qua đời. [Chương Luật về kỳ kết tập đầu tiên](https://suttacentral.net/pli-tv-kd21) kể cuộc tụng đọc Pháp và Luật tại Rājagaha; [Chương Luật về tranh chấp Vesālī](https://suttacentral.net/pli-tv-kd22) kể tranh chấp Vesālī và cách các trưởng lão phân xử. Đây là lời kể kinh điển của Luật Theravāda.
 
 > [!info] Truyền thống giải thích gì
 > Biên niên và chú giải Theravāda trình bày chuỗi hội nghị, phái đoàn thời Aśoka, Mahinda đến Sri Lanka, việc viết Tam Tạng và dòng Mahāvihāra như lịch sử bảo tồn chính thống. Truyền thống xem Pāli Tipiṭaka là Phật ngôn và Vi Diệu Pháp có thẩm quyền kinh điển.
@@ -157,7 +175,7 @@ Cuối cùng, Theravāda không đồng nhất với một dân tộc, quốc gi
 
 **Nguồn kinh điển và bộ sưu tập**
 
-- [DN 16: Mahāparinibbāna Sutta](https://suttacentral.net/dn16); [Theravāda Vinaya Piṭaka](https://suttacentral.net/pitaka/vinaya/pli-tv-bi-vb); [Cullavagga XI](https://suttacentral.net/pli-tv-kd21); [Cullavagga XII](https://suttacentral.net/pli-tv-kd22). Các trang diễn ngôn và chương Luật là liên kết chính xác trên SuttaCentral.
+- [Những ngày cuối của Đức Phật — Trường Bộ Kinh](https://suttacentral.net/dn16); [Theravāda Vinaya Piṭaka](https://suttacentral.net/pitaka/vinaya/pli-tv-bi-vb); [Chương Luật về kỳ kết tập đầu tiên — Luật tạng Theravāda](https://suttacentral.net/pli-tv-kd21); [Chương Luật về tranh chấp Vesālī — Luật tạng Theravāda](https://suttacentral.net/pli-tv-kd22). Các trang diễn ngôn và chương Luật là liên kết chính xác trên SuttaCentral.
 - [Pāli Tipiṭaka](https://suttacentral.net/pitaka) để thấy các bộ sưu tập mà Theravāda nhận làm kinh điển.
 
 **Biên niên và nghiên cứu lịch sử được nêu tên**
