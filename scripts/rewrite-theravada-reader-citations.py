@@ -41,7 +41,7 @@ def rewrite(path):
     j+=1
    if j>=len(lines):raise RuntimeError(f'missing translation {path}:{i+1}')
    translation=lines[j].split(':**',1)[1].strip();translation_label='Dịch Việt rút gọn' if ('…' in translation or '...' in translation) else 'Dịch Việt';source_text=re.sub(r'`','',locator).replace(row['work_id']+':','')
-   out += [f'> [!quote] {card_title(row)}','> REVIEW_REQUIRED — một câu dẫn trung tính cho exact passage','>', '> **Pāli**',f'> *{" ".join(pali)}*','>',f'> **{translation_label}**',f'> {translation}','>',f'> <small>Nguồn kiểm chứng: <a href="{html.escape(row["canonical_url"])}">{html.escape(row["code"])}, {html.escape(source_text)}</a> · <i>{html.escape(row["display_title_pali"] or row["work_id"])}</i></small>'];cards+=1;i=j+1;continue
+   out += [f'> [!quote] {card_title(row)}','> REVIEW_REQUIRED — một câu dẫn trung tính cho exact passage','>', '> **Pāli**',f'> *{" ".join(pali)}*','>',f'> **{translation_label}**',f'> {translation}','>',f'> <small>Nguồn kiểm chứng: <a href="{html.escape(row["canonical_url"])}">{html.escape(row.get("source_display_code") or row["code"])}, {html.escape(source_text)}</a> · <i>{html.escape(row["display_title_pali"] or row["work_id"])}</i></small>'];cards+=1;i=j+1;continue
   out.append(replace_reader_codes(line));i+=1
  path.write_text((front+'\n\n' if front else '')+'\n'.join(out)+'\n');return cards
 def main(argv=None):
