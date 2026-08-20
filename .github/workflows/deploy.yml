@@ -54,6 +54,7 @@ jobs:
         run: |
           python3 content/scripts/validate-theravada-reader-registry.py
           python3 content/scripts/test-theravada-reader-generator.py
+          python3 content/scripts/test-theravada-reader-exact-groups.py
           python3 content/scripts/validate-theravada-reader-rewrite.py
           python3 content/scripts/audit-theravada-reader-cards.py
 
