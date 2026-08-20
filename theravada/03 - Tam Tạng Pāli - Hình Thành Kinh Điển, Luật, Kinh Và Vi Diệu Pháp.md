@@ -58,27 +58,42 @@ Một bản đồ tốt phải trả lời bốn câu: mỗi tạng làm gì; nh
 ## 2. Truyền Khẩu, Hội Nghị Và Việc Viết Xuống
 ![nhịp tụng tập thể chuyển thành các dòng trên lá bối](../assets/illustrations/theravada-batch1/theravada-03-tu-tung-doc-den-la-boi.webp)
 
-> **Pāli — DN 16, đoạn `dn16:1.1.1`**
+> [!quote] Công thức “Tôi đã được nghe như vầy” — Trường Bộ Kinh
+> Bài Kinh mở bằng công thức cho biết lời dạy được tiếp nhận qua một chuỗi nghe và truyền lại.
 >
+> **Pāli**
 > *Evaṁ me sutaṁ—*
 >
-> **Bản dịch làm việc:** Tôi đã được nghe như vầy—
+> **Dịch Việt**
+> Tôi đã được nghe như vầy—
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/dn16">DN 16, đoạn 1.1.1</a> · <i>Mahāparinibbāna Sutta</i></small>
 
 Nhiều bài Kinh mở bằng công thức **evaṃ me sutaṃ — đọc gần đúng “ê-văm mê su-tăm” — tôi đã được nghe như vầy**. Công thức đặt lời kể trong một chuỗi nghe và truyền, không phải tuyên bố người đọc đang cầm bản thảo do Phật viết. Các đoạn lặp, danh sách số, cấu trúc đối xứng và cụm từ cố định hỗ trợ ghi nhớ. Nhóm tụng đọc có thể sửa lỗi cá nhân; phân công theo bộ giúp xây chuyên môn. “Truyền khẩu” ở đây là một công nghệ xã hội.
 
-> **Pāli — Cullavagga XI, pli-tv-kd21:1.7.1–1.7.2**
+> [!quote] Tăng chúng bắt đầu tụng đọc Luật — Luật tạng Theravāda
+> Luật tạng kể việc Tôn giả Mahākassapa trình với Tăng chúng và chuẩn bị hỏi Tôn giả Upāli về Luật.
 >
+> **Pāli**
 > *Atha kho āyasmā mahākassapo saṅghaṁ ñāpesi— “Suṇātu me, āvuso, saṅgho.*
 >
-> **Bản dịch làm việc:** Bấy giờ Tôn giả Mahākassapa trình với Tăng chúng: “Xin Tăng chúng lắng nghe. Nếu Tăng chúng thấy đã đến lúc, tôi sẽ hỏi Upāli về Luật.”
-
-> **Pāli — Cullavagga XI, pli-tv-kd21:1.8.18–1.8.19**
+> **Dịch Việt**
+> Bấy giờ Tôn giả Mahākassapa trình với Tăng chúng: “Xin Tăng chúng lắng nghe. Nếu Tăng chúng thấy đã đến lúc, tôi sẽ hỏi Upāli về Luật.”
 >
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/pli-tv-kd21">Cullavagga XI, 1.7.1–1.7.2</a> · <i>Cullavagga XI</i></small>
+
+> [!quote] Ānanda trả lời về năm bộ Kinh — Luật tạng Theravāda
+> Luật tạng kể rằng Tôn giả Ānanda được hỏi lần lượt về năm Nikāya và trả lời từng câu hỏi.
+>
+> **Pāli**
 > *Eteneva upāyena pañcapi nikāye pucchi. Puṭṭho puṭṭho āyasmā ānando vissajjesi.*
 >
-> **Bản dịch làm việc:** Theo cùng phương thức ấy, ngài hỏi về cả năm Nikāya. Mỗi khi được hỏi, Tôn giả Ānanda đều trả lời.
+> **Dịch Việt**
+> Theo cùng phương thức ấy, ngài hỏi về cả năm Nikāya. Mỗi khi được hỏi, Tôn giả Ānanda đều trả lời.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/pli-tv-kd21">Cullavagga XI, 1.8.18–1.8.19</a> · <i>Cullavagga XI</i></small>
 
-[Cullavagga XI](https://suttacentral.net/pli-tv-kd21) kể rằng sau parinibbāna, các trưởng lão tập hợp tại Rājagaha; Upāli trả lời về Luật, Ānanda trả lời về Pháp. [Cullavagga XII](https://suttacentral.net/pli-tv-kd22) kể cuộc xử lý tranh chấp Vesālī. Các truyện ấy giải thích thẩm quyền của việc tụng chung và hình ảnh một cộng đồng tự kiểm soát. Chúng không liệt kê rõ một Tam Tạng hoàn chỉnh giống mọi ấn bản hiện nay, và không thể tự mình chứng minh toàn bộ văn bản được cố định nguyên văn trong một lần họp.
+[Chương Luật về kỳ kết tập đầu tiên — Luật tạng Theravāda](https://suttacentral.net/pli-tv-kd21) kể rằng sau parinibbāna, các trưởng lão tập hợp tại Rājagaha; Upāli trả lời về Luật, Ānanda trả lời về Pháp. [Chương Luật về tranh chấp Vesālī — Luật tạng Theravāda](https://suttacentral.net/pli-tv-kd22) kể cuộc xử lý tranh chấp Vesālī. Các truyện ấy giải thích thẩm quyền của việc tụng chung và hình ảnh một cộng đồng tự kiểm soát. Chúng không liệt kê rõ một Tam Tạng hoàn chỉnh giống mọi ấn bản hiện nay, và không thể tự mình chứng minh toàn bộ văn bản được cố định nguyên văn trong một lần họp.
 
 Các truyền thống khác có phiên bản hội nghị riêng. So sánh cho thấy ký ức chung về nhu cầu bảo tồn Pháp–Luật và về các bất đồng sớm, nhưng cũng cho thấy câu chuyện được kể theo lợi ích dòng truyền thừa. Một sử gia có thể xem hội nghị là hạt nhân sự kiện được văn chương hóa; mức chắc của từng nhân vật và câu thoại thấp hơn mức chắc rằng cộng đồng cần cơ chế tụng đọc, phân xử và xác lập ranh giới.
 
@@ -108,9 +123,9 @@ Luật cũng là nguồn quan trọng cho lịch sử phụ nữ Phật giáo v�
 
 [Sutta Piṭaka](https://suttacentral.net/pitaka/sutta) là kho bài giảng, đối thoại, kệ, truyện và hướng dẫn tu tập. **Nikāya — đọc gần đúng “Ni-ca-ya” — bộ sưu tập** là đơn vị chính. Năm Nikāya Pāli không được xếp đơn giản theo niên đại; tiêu chí gồm độ dài, chủ đề, cấu trúc số và truyền thống bộ sưu tập.
 
-[Dīgha Nikāya](https://suttacentral.net/pitaka/sutta/long/dn), Trường Bộ, có các bài dài. Chúng thường chứa tường thuật quy mô lớn, tranh luận với quan điểm đương thời, mô tả con đường tuần tự và ký ức cộng đồng như DN 16. Độ dài tạo không gian tổng hợp nhưng cũng cho phép nhiều lớp văn chương. Không nên giả định một bài dài là muộn toàn bộ hoặc sớm toàn bộ chỉ vì kích thước.
+[Dīgha Nikāya](https://suttacentral.net/pitaka/sutta/long/dn), Trường Bộ, có các bài dài. Chúng thường chứa tường thuật quy mô lớn, tranh luận với quan điểm đương thời, mô tả con đường tuần tự và ký ức cộng đồng như [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16). Độ dài tạo không gian tổng hợp nhưng cũng cho phép nhiều lớp văn chương. Không nên giả định một bài dài là muộn toàn bộ hoặc sớm toàn bộ chỉ vì kích thước.
 
-[Majjhima Nikāya](https://suttacentral.net/pitaka/sutta/middle/mn), Trung Bộ, gồm các bài độ dài vừa với nhiều văn cảnh giảng dạy. MN 26 và MN 36 của bài 1 nằm ở đây. [Saṃyutta Nikāya](https://suttacentral.net/pitaka/sutta/linked/sn), Tương Ưng Bộ, nhóm bài theo chủ đề, nhân vật hay khái niệm; sự lặp công thức cho phép thấy một giáo lý vận hành qua nhiều tình huống. [Aṅguttara Nikāya](https://suttacentral.net/pitaka/sutta/numbered/an), Tăng Chi Bộ, sắp theo số mục từ một trở lên, đặc biệt phù hợp truyền khẩu và giáo huấn thực dụng.
+[Majjhima Nikāya](https://suttacentral.net/pitaka/sutta/middle/mn), Trung Bộ, gồm các bài độ dài vừa với nhiều văn cảnh giảng dạy. [Cuộc tìm cầu cao quý](https://suttacentral.net/mn26) và [Khổ hạnh và con đường giác ngộ](https://suttacentral.net/mn36) của bài 1 nằm ở đây. [Saṃyutta Nikāya](https://suttacentral.net/pitaka/sutta/linked/sn), Tương Ưng Bộ, nhóm bài theo chủ đề, nhân vật hay khái niệm; sự lặp công thức cho phép thấy một giáo lý vận hành qua nhiều tình huống. [Aṅguttara Nikāya](https://suttacentral.net/pitaka/sutta/numbered/an), Tăng Chi Bộ, sắp theo số mục từ một trở lên, đặc biệt phù hợp truyền khẩu và giáo huấn thực dụng.
 
 [Khuddaka Nikāya](https://suttacentral.net/pitaka/sutta/minor/kn), Tiểu Bộ, là tập hợp đa dạng nhất: *Dhammapada*, *Udāna*, *Sutta Nipāta*, truyện tiền thân, thơ trưởng lão và nhiều sách khác. Danh mục Tiểu Bộ có khác biệt giữa các truyền thống Theravāda quốc gia. Một số tác phẩm chứa chất liệu ngôn ngữ rất cổ; một số cho thấy phát triển muộn. Nhãn “Tiểu” không có nghĩa không quan trọng hoặc mọi thành phần cùng thời.
 
@@ -169,7 +184,7 @@ Trong thực hành, bản đồ Tam Tạng ngăn hai sai lầm đối nghịch. 
 
 - [Toàn bộ Pāli Tipiṭaka](https://suttacentral.net/pitaka); [Vinaya Piṭaka](https://suttacentral.net/pitaka/vinaya); [Sutta Piṭaka](https://suttacentral.net/pitaka/sutta); [Abhidhamma Piṭaka](https://suttacentral.net/pitaka/abhidhamma).
 - [Dīgha Nikāya](https://suttacentral.net/pitaka/sutta/long/dn), [Majjhima Nikāya](https://suttacentral.net/pitaka/sutta/middle/mn), [Saṃyutta Nikāya](https://suttacentral.net/pitaka/sutta/linked/sn), [Aṅguttara Nikāya](https://suttacentral.net/pitaka/sutta/numbered/an), [Khuddaka Nikāya](https://suttacentral.net/pitaka/sutta/minor/kn).
-- [Cullavagga XI](https://suttacentral.net/pli-tv-kd21) và [Cullavagga XII](https://suttacentral.net/pli-tv-kd22), lời kể Luật tạng về hai hội nghị đầu trong truyền thống Theravāda.
+- [Chương Luật về kỳ kết tập đầu tiên — Luật tạng Theravāda](https://suttacentral.net/pli-tv-kd21) và [Chương Luật về tranh chấp Vesālī — Luật tạng Theravāda](https://suttacentral.net/pli-tv-kd22), lời kể Luật tạng về hai hội nghị đầu trong truyền thống Theravāda.
 
 **Nghiên cứu lịch sử và thư mục được nêu tên**
 

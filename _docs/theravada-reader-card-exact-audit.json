@@ -4,11 +4,12 @@
   "completed_lessons": [
     1,
     2,
+    3,
     18,
     36
   ],
-  "cards": 11,
-  "passed": 11,
+  "cards": 14,
+  "passed": 14,
   "all_pass": true,
   "rows": [
     {
@@ -105,6 +106,47 @@
       "raw_sha256": "2fef45dab9d8a737ff5e672e719fb945057a0b3022287dadf0b09d605a2c1d3e",
       "normalized_sha256": "2fef45dab9d8a737ff5e672e719fb945057a0b3022287dadf0b09d605a2c1d3e",
       "actual_sha256": "2fef45dab9d8a737ff5e672e719fb945057a0b3022287dadf0b09d605a2c1d3e",
+      "exact_match": true
+    },
+    {
+      "lesson": 3,
+      "source_key": "DN 16",
+      "work_id": "dn16",
+      "segments": [
+        "dn16:1.1.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/dn16/sujato?lang=en",
+      "raw_sha256": "6d7d252f41ce5d46ae6dff4237d4eff4ed4fc9c211684ceb99ca5d95e9c1bb18",
+      "normalized_sha256": "6d7d252f41ce5d46ae6dff4237d4eff4ed4fc9c211684ceb99ca5d95e9c1bb18",
+      "actual_sha256": "6d7d252f41ce5d46ae6dff4237d4eff4ed4fc9c211684ceb99ca5d95e9c1bb18",
+      "exact_match": true
+    },
+    {
+      "lesson": 3,
+      "source_key": "VINAYA pli-tv-kd21",
+      "work_id": "pli-tv-kd21",
+      "segments": [
+        "pli-tv-kd21:1.7.1",
+        "pli-tv-kd21:1.7.2"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/pli-tv-kd21/sujato?lang=en",
+      "raw_sha256": "1f95b61793704b3759742c3f09d4429585442a017aee9fa56ae1dcb0731bca77",
+      "normalized_sha256": "1f95b61793704b3759742c3f09d4429585442a017aee9fa56ae1dcb0731bca77",
+      "actual_sha256": "1f95b61793704b3759742c3f09d4429585442a017aee9fa56ae1dcb0731bca77",
+      "exact_match": true
+    },
+    {
+      "lesson": 3,
+      "source_key": "VINAYA pli-tv-kd21",
+      "work_id": "pli-tv-kd21",
+      "segments": [
+        "pli-tv-kd21:1.8.18",
+        "pli-tv-kd21:1.8.19"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/pli-tv-kd21/sujato?lang=en",
+      "raw_sha256": "dfa28197342ef134a3c9c0c7d98aaa221a6ede54001dc92cce18b909778617cb",
+      "normalized_sha256": "dfa28197342ef134a3c9c0c7d98aaa221a6ede54001dc92cce18b909778617cb",
+      "actual_sha256": "dfa28197342ef134a3c9c0c7d98aaa221a6ede54001dc92cce18b909778617cb",
       "exact_match": true
     },
     {

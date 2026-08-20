@@ -5,11 +5,12 @@
   "completed_lessons": [
     1,
     2,
+    3,
     18,
     36
   ],
-  "cards": 11,
-  "passed": 11,
+  "cards": 14,
+  "passed": 14,
   "rows": [
     {
       "lesson": 1,
@@ -87,6 +88,27 @@
       "title": "Chương Luật về tranh chấp Vesālī — Luật tạng Theravāda",
       "translation_label": "Dịch Việt",
       "review_note": "Translation fully enumerates the ten practices; introduction explicitly attributes the account to the Vinaya tradition rather than treating every detail as independently proven history."
+    },
+    {
+      "lesson": 3,
+      "source": "DN 16:1.1.1",
+      "title": "Công thức “Tôi đã được nghe như vầy” — Trường Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Exact one-line opening formula and full translation; introduction describes oral reception without claiming verbatim stenography."
+    },
+    {
+      "lesson": 3,
+      "source": "pli-tv-kd21:1.7.1–1.7.2",
+      "title": "Tăng chúng bắt đầu tụng đọc Luật — Luật tạng Theravāda",
+      "translation_label": "Dịch Việt",
+      "review_note": "Translation covers Mahākassapa’s formal announcement and intended questioning of Upāli; framed as the Vinaya account of collective recitation."
+    },
+    {
+      "lesson": 3,
+      "source": "pli-tv-kd21:1.8.18–1.8.19",
+      "title": "Ānanda trả lời về năm bộ Kinh — Luật tạng Theravāda",
+      "translation_label": "Dịch Việt",
+      "review_note": "Translation covers questioning across five Nikāyas and Ānanda’s replies; introduction does not claim a modern printed canon was fixed in one meeting."
     }
   ]
 }

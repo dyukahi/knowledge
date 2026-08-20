@@ -10,10 +10,10 @@ total=0
 for n in P.get('completed_lessons',[]):
  f=next((ROOT/'theravada').glob(f'{n:02d}*.md'));parts=f.read_text().split('---',2);body=parts[2] if len(parts)>2 else f.read_text();lines=body.splitlines();cards=[]
  for i,line in enumerate(lines):
-  if line.startswith('> [!quote] Kinh') or line.startswith('> [!quote] Chương') or line.startswith('> [!quote] Lời dạy') or line.startswith('> [!quote] Ma trận') or line.startswith('> [!quote] Phân tích'):
+  if line.startswith('> [!quote]'):
    j=i+1;block=[]
    while j<len(lines) and lines[j].startswith('>'):block.append(lines[j]);j+=1
-   cards.append((i+1,block))
+   if any(x.startswith('> <small>Nguồn kiểm chứng:') for x in block):cards.append((i+1,block))
  if not cards:fail(f'lesson {n}: no narrative quote cards')
  for lineno,block in cards:
   text='\n'.join(block);pali=sum(x.startswith('> **Pāli**') for x in block);translations=sum(x.startswith('> **Dịch Việt**') or x.startswith('> **Dịch Việt rút gọn**') for x in block);sources=sum(x.startswith('> <small>Nguồn kiểm chứng:') for x in block)
