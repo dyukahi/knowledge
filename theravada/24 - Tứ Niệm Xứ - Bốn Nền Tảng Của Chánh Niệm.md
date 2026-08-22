@@ -41,21 +41,27 @@ source_license_checked: true
 
 ![hình tượng tự nhiên diễn giải 1. satipaṭṭhāna là bốn phạm vi quán sát có mục đích giải thoát không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-24-1-satipatthana-la-bon-pham-vi-quan-sat-co-muc-ic.webp)
 
-> **Pāli — MN 10, đoạn `mn10:2.1`**
+> [!quote] Kinh về bốn nền tảng chánh niệm — Trung Bộ Kinh
+> Đoạn Kinh nêu rằng đây là con đường trực tiếp/đi thẳng đến sự thanh lọc chúng sinh, vượt qua sầu than, làm lắng khổ và ưu, đạt chánh đạo và chứng ngộ Nibbāna: đó là bốn sự thiết lập niệm.
+>
+> **Pāli**
 > *“Ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā, sokaparidevānaṁ samatikkamāya, dukkhadomanassānaṁ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṁ cattāro satipaṭṭhānā.*
 >
-> **Dịch nghĩa làm việc:** Này các tỳ-kheo, đây là con đường trực tiếp/đi thẳng đến sự thanh lọc chúng sinh, vượt qua sầu than, làm lắng khổ và ưu, đạt chánh đạo và chứng ngộ Nibbāna: đó là bốn sự thiết lập niệm. Cách dịch *ekāyana* còn được thảo luận nên bài không dùng câu này để độc quyền một kỹ thuật.
+> **Dịch Việt**
+> Này các tỳ-kheo, đây là con đường trực tiếp/đi thẳng đến sự thanh lọc chúng sinh, vượt qua sầu than, làm lắng khổ và ưu, đạt chánh đạo và chứng ngộ Nibbāna: đó là bốn sự thiết lập niệm. Cách dịch *ekāyana* còn được thảo luận nên bài không dùng câu này để độc quyền một kỹ thuật.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn10">MN 10, đoạn 2.1</a> · <i>Satipaṭṭhāna Sutta</i></small>
 
 <!-- CHỖ GIỮ HÌNH: bốn vùng thân thọ tâm pháp quanh một người ngồi tỉnh thức -->
 
 
-**Satipaṭṭhāna — đọc gần đúng “sa-ti-pát-tha-na” — sự thiết lập niệm hoặc nền tảng của niệm** không chỉ là chú ý chung chung. MN 10 và DN 22 đặt nó trong một lộ trình có đích: vượt sầu, giảm khổ và hiện thực hóa giải thoát. Người thực hành không đơn thuần ghi nhận bất cứ điều gì nổi lên rồi gọi mọi sự chú ý là chánh niệm. Cách chú ý phải đi cùng nỗ lực, hiểu rõ, nhớ biết và sự từ bỏ tham ưu đối với đời.
+**Satipaṭṭhāna — đọc gần đúng “sa-ti-pát-tha-na” — sự thiết lập niệm hoặc nền tảng của niệm** không chỉ là chú ý chung chung. [Bốn nền tảng chánh niệm](https://suttacentral.net/mn10) và [Bốn nền tảng chánh niệm bản dài](https://suttacentral.net/dn22) đặt nó trong một lộ trình có đích: vượt sầu, giảm khổ và hiện thực hóa giải thoát. Người thực hành không đơn thuần ghi nhận bất cứ điều gì nổi lên rồi gọi mọi sự chú ý là chánh niệm. Cách chú ý phải đi cùng nỗ lực, hiểu rõ, nhớ biết và sự từ bỏ tham ưu đối với đời.
 
 Bốn phạm vi là **kāya — thân**, **vedanā — thọ hay sắc thái dễ chịu, khó chịu, trung tính**, **citta — trạng thái tâm**, và **dhammā — các nhóm pháp được Kinh tổ chức để quán**. Chúng không phải bốn vật tách kín. Hơi thở thuộc thân nhưng có thể đi cùng thọ khó chịu; tâm biết mình đang sợ; nhóm năm triền cái giúp nhận diện điều đang che lấp. Bốn cửa cho một kinh nghiệm được soi dưới các góc có chức năng khác nhau.
 
 Sati thường được dịch là chánh niệm, nhưng nó có sắc thái nhớ, không quên đối tượng và nhiệm vụ. Nếu chú ý rất mạnh trong khi đang nuôi tham hay lên kế hoạch hại, đó chưa phải satipaṭṭhāna. Công thức luôn gắn **ātāpī — nhiệt tâm**, **sampajāno — hiểu rõ**, **satimā — có niệm**. Ba phẩm chất bảo vệ thực hành khỏi việc chỉ quan sát lạnh lùng hoặc chìm trong cảm giác.
 
-MN 10 và DN 22 gần nhau rất nhiều; DN 22 triển khai rộng Tứ Thánh Đế hơn. Hai kinh là nguồn trụ cột, nhưng cấu trúc dài không có nghĩa mọi hành giả phải hoàn thành từng mục theo một lịch cứng. Kinh liệt kê nhiều cửa: hơi thở, tư thế, tỉnh giác, bất tịnh, yếu tố vật chất, quán tử thi; thọ; tâm; rồi triền cái, uẩn, căn, giác chi và Tứ Thánh Đế. Thầy và truyền thống có thể sắp thứ tự, nhưng phải ghi đó là phương pháp hướng dẫn.
+[Bốn nền tảng chánh niệm](https://suttacentral.net/mn10) và [Bốn nền tảng chánh niệm bản dài](https://suttacentral.net/dn22) gần nhau rất nhiều; [Bốn nền tảng chánh niệm bản dài](https://suttacentral.net/dn22) triển khai rộng Tứ Thánh Đế hơn. Hai kinh là nguồn trụ cột, nhưng cấu trúc dài không có nghĩa mọi hành giả phải hoàn thành từng mục theo một lịch cứng. Kinh liệt kê nhiều cửa: hơi thở, tư thế, tỉnh giác, bất tịnh, yếu tố vật chất, quán tử thi; thọ; tâm; rồi triền cái, uẩn, căn, giác chi và Tứ Thánh Đế. Thầy và truyền thống có thể sắp thứ tự, nhưng phải ghi đó là phương pháp hướng dẫn.
 
 Mục tiêu giải thoát cũng không cho phép hứa chữa mọi bệnh. “Vượt sầu” trong kinh thuộc con đường tu toàn diện; không phải cam kết rằng một khóa quán niệm chữa rối loạn căng thẳng sau sang chấn, trầm cảm, loạn thần hay đau mạn tính. Thực hành có thể hỗ trợ một số người, làm khó người khác, và không thay chẩn đoán hay điều trị. Ngay từ đầu, phạm vi tinh thần, y khoa và hướng dẫn thiền phải được phân biệt.
 
@@ -63,10 +69,16 @@ Mục tiêu giải thoát cũng không cho phép hứa chữa mọi bệnh. “V
 
 ![hình tượng tự nhiên diễn giải 2. công thức chung: nhiệt tâm, hiểu rõ, có niệm và không bám víu không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-24-2-cong-thuc-chung-nhiet-tam-hieu-ro-co-niem-va-k.webp)
 
-> **Pāli — MN 10, đoạn `mn10:3.2`**
+> [!quote] Kinh về bốn nền tảng chánh niệm — Trung Bộ Kinh
+> Đoạn Kinh nêu rằng ở đây, này các tỳ-kheo, vị ấy sống quán thân như thân, nhiệt tâm, tỉnh giác, có niệm, sau khi chế ngự tham và ưu đối với đời.
+>
+> **Pāli**
 > *Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ;*
 >
-> **Dịch nghĩa làm việc:** Ở đây, này các tỳ-kheo, vị ấy sống quán thân như thân, nhiệt tâm, tỉnh giác, có niệm, sau khi chế ngự tham và ưu đối với đời.
+> **Dịch Việt**
+> Ở đây, này các tỳ-kheo, vị ấy sống quán thân như thân, nhiệt tâm, tỉnh giác, có niệm, sau khi chế ngự tham và ưu đối với đời.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn10">MN 10, đoạn 3.2</a> · <i>Satipaṭṭhāna Sutta</i></small>
 
 <!-- CHỖ GIỮ HÌNH: công thức nhiệt tâm hiểu rõ niệm và buông tham ưu như bốn chân đế -->
 
@@ -75,7 +87,7 @@ Mục tiêu giải thoát cũng không cho phép hứa chữa mọi bệnh. “V
 
 **Ātāpī** không phải ép thân đến kiệt sức. Nó là sự tha thiết không nuôi bất thiện. **Sampajāna** không chỉ tỉnh táo sinh học mà là hiểu điều đang làm, mục đích và tính thích hợp. **Satimā** giữ đối tượng và khung đạo đức trong trí. **Vineyya loke abhijjhādomanassaṃ** hướng đến không bị tham và ưu kéo đi. Nếu thực hành làm tăng ám ảnh, tê liệt hay tự ghét, cần điều chỉnh thay vì cho rằng đau hơn luôn sâu hơn.
 
-Nhiều phương pháp hiện đại dùng ghi nhãn ngắn, quét thân, bước chân hoặc theo dõi tâm. Chúng có thể là phương tiện hữu ích, nhưng không phương tiện nào tự đồng nhất toàn bộ MN 10. Kinh không quy định một từ ghi nhãn bằng tiếng bản địa, một tốc độ đi kinh hành duy nhất hay một trung tâm cơ thể bắt buộc. Khi một dòng thiền dạy chi tiết ấy, nên tôn trọng kinh nghiệm của dòng nhưng không tuyên bố độc quyền kinh điển.
+Nhiều phương pháp hiện đại dùng ghi nhãn ngắn, quét thân, bước chân hoặc theo dõi tâm. Chúng có thể là phương tiện hữu ích, nhưng không phương tiện nào tự đồng nhất toàn bộ [Bốn nền tảng chánh niệm](https://suttacentral.net/mn10). Kinh không quy định một từ ghi nhãn bằng tiếng bản địa, một tốc độ đi kinh hành duy nhất hay một trung tâm cơ thể bắt buộc. Khi một dòng thiền dạy chi tiết ấy, nên tôn trọng kinh nghiệm của dòng nhưng không tuyên bố độc quyền kinh điển.
 
 Sự “gạt bỏ tham ưu” cũng không phải đàn áp cảm xúc. Một người có thể nhận ra buồn, cho phép nó được biết, đồng thời không nuôi vòng kể chuyện. Với sang chấn, tiếp xúc trực diện có thể vượt ngưỡng chịu đựng; quay ra cảnh vật, cảm giác bàn chân, âm thanh trung tính hay tương tác với người an toàn có thể khôn ngoan hơn. Không bám không có nghĩa không cảm.
 
@@ -88,7 +100,7 @@ Ba câu hỏi giúp giữ công thức đầy đủ: Tôi đang biết gì trự
 <!-- CHỖ GIỮ HÌNH: thân trong bốn tư thế cùng ba sắc thái thọ dễ chịu khó chịu trung tính -->
 
 
-Đoạn hơi thở trước hết nói biết dài là dài, ngắn là ngắn. Nó không bảo đếm đến một tỷ lệ, nín hơi hay đẩy khí xuống một vị trí. Bài 25 sẽ đọc đủ mười sáu bước MN 118. Ở đây, hơi thở là một cửa của thân. Nếu theo hơi thở gây hoảng, người thực hành có thể biết tư thế, tiếp xúc bàn chân, chuyển động khi đi hoặc âm thanh ngoài thân. Satipaṭṭhāna rộng hơn một kỹ thuật.
+Đoạn hơi thở trước hết nói biết dài là dài, ngắn là ngắn. Nó không bảo đếm đến một tỷ lệ, nín hơi hay đẩy khí xuống một vị trí. Bài 25 sẽ đọc đủ mười sáu bước [Mười sáu bước niệm hơi thở](https://suttacentral.net/mn118). Ở đây, hơi thở là một cửa của thân. Nếu theo hơi thở gây hoảng, người thực hành có thể biết tư thế, tiếp xúc bàn chân, chuyển động khi đi hoặc âm thanh ngoài thân. Satipaṭṭhāna rộng hơn một kỹ thuật.
 
 Quán thân còn gồm đi, đứng, ngồi, nằm; hiểu rõ khi tới lui, nhìn, co duỗi, ăn uống; quán các phần thân; bốn đại; và các quán tử thi. Những mục sau không phù hợp để tự làm trong mọi hoàn cảnh. Người có rối loạn ăn uống, ghê sợ thân, ám ảnh bệnh, tang chế mới hoặc sang chấn có thể bị kích hoạt bởi quán bất tịnh và tử thi. Không có đức hạnh nào trong việc ép mình qua phản ứng mất ổn định.
 
@@ -107,7 +119,7 @@ Một buổi thực hành an toàn có thể bắt đầu bằng mắt mở, đ�
 
 Công thức không nói “tôi là người tham” mà nhận trạng thái tâm có tham. Khác biệt ngữ pháp nhỏ tạo chỗ cho thay đổi. Tâm co rút, tán loạn, rộng, định hay giải thoát được biết theo trạng thái. Tuy nhiên, đây không phải cách phủ nhận trách nhiệm: “chỉ có sân, không có tôi” không xóa hậu quả lời nói. Vô ngã giúp bớt cố định, còn giới giữ trách nhiệm.
 
-Quán pháp thường bị hiểu mơ hồ là “quán mọi hiện tượng”. Trong MN 10, nó có các nhóm cụ thể: năm triền cái, năm uẩn thủ, sáu nội ngoại xứ, bảy giác chi và Tứ Thánh Đế. Đây là lúc bản đồ giáo pháp tổ chức kinh nghiệm. Biết hôn trầm đang có khác với chỉ cảm thấy mờ; biết điều kiện sinh và cách đoạn nó biến quan sát thành tu tập.
+Quán pháp thường bị hiểu mơ hồ là “quán mọi hiện tượng”. Trong [Bốn nền tảng chánh niệm](https://suttacentral.net/mn10), nó có các nhóm cụ thể: năm triền cái, năm uẩn thủ, sáu nội ngoại xứ, bảy giác chi và Tứ Thánh Đế. Đây là lúc bản đồ giáo pháp tổ chức kinh nghiệm. Biết hôn trầm đang có khác với chỉ cảm thấy mờ; biết điều kiện sinh và cách đoạn nó biến quan sát thành tu tập.
 
 Năm triền cái gồm tham dục, sân, hôn trầm-thụy miên, trạo cử-hối quá và nghi. Người thực hành biết khi có, khi không, cách sinh, cách bỏ và cách ngăn tái sinh. “Biết” vì vậy có chiều nhân quả. Không phải ngồi nhìn triền cái mãi mà không đổi điều kiện. Có lúc mở mắt, đổi tư thế, nghỉ, xin lỗi, rời kích thích hoặc học lại giáo pháp là phần của hiểu rõ.
 
@@ -136,16 +148,22 @@ Nội và ngoại cũng nhắc rằng khổ không chỉ ở “tâm tôi”. B�
 
 ![hình tượng tự nhiên diễn giải 6. ekāyana và giới hạn của tuyên bố một kỹ thuật độc quyền không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-24-6-ekayana-va-gioi-han-cua-tuyen-bo-mot-ky-thuat-.webp)
 
-> **Pāli — MN 10, đoạn `mn10:5.1–5.2`**
+> [!quote] Kinh về bốn nền tảng chánh niệm — Trung Bộ Kinh
+> Đoạn Kinh nêu rằng vị ấy sống quán thân ở bên trong, bên ngoài, hoặc cả trong lẫn ngoài; sống quán tính sinh khởi, tính hoại diệt, hoặc cả sinh khởi lẫn hoại diệt nơi thân.
+>
+> **Pāli**
 > *Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati; samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.*
 >
-> **Dịch nghĩa làm việc:** Vị ấy sống quán thân ở bên trong, bên ngoài, hoặc cả trong lẫn ngoài; sống quán tính sinh khởi, tính hoại diệt, hoặc cả sinh khởi lẫn hoại diệt nơi thân.
+> **Dịch Việt**
+> Vị ấy sống quán thân ở bên trong, bên ngoài, hoặc cả trong lẫn ngoài; sống quán tính sinh khởi, tính hoại diệt, hoặc cả sinh khởi lẫn hoại diệt nơi thân.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn10">MN 10, đoạn 5.1–5.2</a> · <i>Satipaṭṭhāna Sutta</i></small>
 
 <!-- CHỖ GIỮ HÌNH: một lối đi có nhiều cách diễn giải nhưng cùng hướng về bốn niệm xứ -->
 
 Từ **ekāyana** trong câu mở đầu là điểm tranh luận dịch thuật. Nó đã được dịch theo các hướng như “con đường duy nhất”, “con đường trực tiếp”, “đường một chiều”, “đường đi đến một đích”. Cấu tạo và cách dùng trong văn bản cho phép thảo luận; không nên giấu tranh luận sau một khẩu hiệu. Bản dịch làm việc giữ nguyên từ ở lần đầu để người đọc thấy nơi bất định.
 
-Nếu dịch “con đường duy nhất”, không nhất thiết suy ra chỉ một kỹ thuật của một trung tâm hiện đại là hợp lệ. Chính MN 10 chứa nhiều đối tượng, còn các kinh khác dạy Bát chánh đạo, giới-định-tuệ, bốn niệm xứ, hơi thở, từ tâm và các phương thức định. Có thể hiểu bốn niệm xứ là phương diện thiết yếu hoặc con đường quy tụ, nhưng không có cơ sở để một dòng thiền đồng nhất giáo án riêng với toàn bộ ekāyana.
+Nếu dịch “con đường duy nhất”, không nhất thiết suy ra chỉ một kỹ thuật của một trung tâm hiện đại là hợp lệ. Chính [Bốn nền tảng chánh niệm](https://suttacentral.net/mn10) chứa nhiều đối tượng, còn các kinh khác dạy Bát chánh đạo, giới-định-tuệ, bốn niệm xứ, hơi thở, từ tâm và các phương thức định. Có thể hiểu bốn niệm xứ là phương diện thiết yếu hoặc con đường quy tụ, nhưng không có cơ sở để một dòng thiền đồng nhất giáo án riêng với toàn bộ ekāyana.
 
 Nếu dịch “trực tiếp”, cũng không có nghĩa bỏ giới, chánh kiến hay bạn lành. Công thức yêu cầu gạt tham ưu; phần quán pháp dẫn đến Tứ Thánh Đế và giác chi. Bài 23 đứng trước bài này có lý do: chú ý không đạo đức có thể làm công cụ thao túng sắc hơn. Satipaṭṭhāna hoạt động trong Bát chánh đạo, không phải đường tắt tách khỏi nó.
 
@@ -162,13 +180,13 @@ Một cách bắt đầu khiêm tốn là mười phút với thân tương đ�
 <!-- CHỖ GIỮ HÌNH: bốn hộp về văn bản truyền thống suy luận và điều chưa chứng minh -->
 
 > [!quote] Văn bản nói gì
-> MN 10 và DN 22 trình bày bốn sự thiết lập niệm: thân, thọ, tâm và pháp; công thức gồm nhiệt tâm, hiểu rõ, có niệm, gạt tham ưu; nhiều mục được quán bên trong, bên ngoài, theo sinh và diệt, hướng đến không lệ thuộc và không chấp thủ.
+> [Bốn nền tảng chánh niệm](https://suttacentral.net/mn10) và [Bốn nền tảng chánh niệm bản dài](https://suttacentral.net/dn22) trình bày bốn sự thiết lập niệm: thân, thọ, tâm và pháp; công thức gồm nhiệt tâm, hiểu rõ, có niệm, gạt tham ưu; nhiều mục được quán bên trong, bên ngoài, theo sinh và diệt, hướng đến không lệ thuộc và không chấp thủ.
 
 > [!info] Truyền thống giải thích gì
 > Các chú giải và dòng thiền sắp đối tượng, đặt tên kỹ thuật và giải thích ekāyana theo những cách khác nhau. Những hệ thống ấy có thể đáng học nhưng không được trình bày như chính câu chữ Kinh hoặc như đồng thuận duy nhất của toàn Theravāda.
 
 > [!example] Bài này suy luận gì
-> Hướng dẫn mắt mở, định hướng căn phòng, chia liều tiếp xúc, quyền dừng, sàng lọc giáo thọ và phối hợp chăm sóc sang chấn là áp dụng an toàn hiện đại. Chúng được suy ra từ không hại và thực hành có hiểu rõ, không phải phác đồ lâm sàng trong MN 10.
+> Hướng dẫn mắt mở, định hướng căn phòng, chia liều tiếp xúc, quyền dừng, sàng lọc giáo thọ và phối hợp chăm sóc sang chấn là áp dụng an toàn hiện đại. Chúng được suy ra từ không hại và thực hành có hiểu rõ, không phải phác đồ lâm sàng trong [Bốn nền tảng chánh niệm](https://suttacentral.net/mn10).
 
 > [!warning] Điều chưa chứng minh
 > Ekāyana không chứng minh độc quyền của một kỹ thuật hiện đại. Hai kinh không hứa chữa mọi bệnh tâm thần, không dạy ép người sang chấn hồi tưởng, không trao quyền chẩn đoán cho giáo thọ và không biến trải nghiệm thiền cá nhân thành bằng chứng phổ quát.
@@ -177,8 +195,8 @@ Một cách bắt đầu khiêm tốn là mười phút với thân tương đ�
 
 **Nguồn kinh điển chính xác**
 
-- [MN 10, Satipaṭṭhāna Sutta](https://suttacentral.net/mn10), công thức, bốn phạm vi và các điệp khúc nội-ngoại, sinh-diệt.
-- [DN 22, Mahāsatipaṭṭhāna Sutta](https://suttacentral.net/dn22), bản triển khai dài với Tứ Thánh Đế.
+- [Bốn nền tảng chánh niệm — Trung Bộ Kinh](https://suttacentral.net/mn10), công thức, bốn phạm vi và các điệp khúc nội-ngoại, sinh-diệt.
+- [Bốn nền tảng chánh niệm bản dài — Trường Bộ Kinh](https://suttacentral.net/dn22), bản triển khai dài với Tứ Thánh Đế.
 - Bhikkhu Anālayo, *Satipaṭṭhāna: The Direct Path to Realization*, Windhorse Publications, 2003, đối chiếu học thuật về cấu trúc và cách dịch ekāyana.
 - [SuttaCentral Editions](https://suttacentral.net/editions), thông tin ấn bản và giấy phép theo từng tài nguyên.
 
