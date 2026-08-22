@@ -43,7 +43,7 @@ source_license_checked: true
 
 **Brahmavihāra — đọc gần đúng “brăm-ma-vi-ha-ra” — phạm trú, chỗ ở cao thượng của tâm** thường chỉ bốn phẩm chất: **mettā** là lòng từ, mong an lành; **karuṇā** là bi, đáp ứng trước khổ; **muditā** là hỷ, vui với điều lành và hạnh phúc của người khác; **upekkhā** là xả, quân bình không thiên vị. Chúng còn được gọi là **appamaññā — các tâm vô lượng**.
 
-“Vô lượng” trong DN 13 được làm rõ bằng không gian và thái độ: mọi phương, rộng lớn, không oán, không gây hại. Nó không có nghĩa một con người hữu hạn phải luôn cảm thấy yêu nồng nhiệt với mọi người, giải quyết mọi đau khổ hoặc không bao giờ mệt. Tâm được huấn luyện để không dựng một hạng người mà đối với họ thù ghét và mong hại được xem là chính đáng.
+“Vô lượng” trong [Con đường sống cùng Phạm thiên](https://suttacentral.net/dn13) được làm rõ bằng không gian và thái độ: mọi phương, rộng lớn, không oán, không gây hại. Nó không có nghĩa một con người hữu hạn phải luôn cảm thấy yêu nồng nhiệt với mọi người, giải quyết mọi đau khổ hoặc không bao giờ mệt. Tâm được huấn luyện để không dựng một hạng người mà đối với họ thù ghét và mong hại được xem là chính đáng.
 
 Đoạn Kinh nằm trong cuộc đối thoại về con đường đến cộng trú với Phạm thiên. Đức Phật đối chiếu lối sống đầy sân và sở hữu với tâm có phẩm chất tương ứng Phạm thiên. Đọc đúng văn cảnh, đây vừa là định vừa là đạo đức. Chỉ lặp câu chúc trong khi bóc lột người khác không tạo một tâm “không gây tổn hại”.
 
@@ -55,10 +55,16 @@ Thực hành không buộc bắt đầu bằng người gây sang chấn. Có th
 
 ![hình tượng tự nhiên diễn giải 2. mettā: mong an lành không đồng nghĩa chiều theo mọi yêu cầu không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-28-2-metta-mong-an-lanh-khong-ong-nghia-chieu-theo-.webp)
 
-> **Pāli — DN 13, đoạn `dn13:76.1`**
+> [!quote] Kinh về con đường sống cùng Phạm thiên — Trường Bộ Kinh
+> Đoạn Kinh nêu rằng vị ấy an trú, dùng tâm đi cùng từ bao trùm một phương rồi mọi phương, toàn thế giới, rộng lớn, vô lượng, không thù hận, không làm hại.
+>
+> **Pāli**
 > *So mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.*
 >
-> **Dịch nghĩa làm việc:** Vị ấy an trú, dùng tâm đi cùng từ bao trùm một phương rồi mọi phương, toàn thế giới, rộng lớn, vô lượng, không thù hận, không làm hại.
+> **Dịch Việt**
+> Vị ấy an trú, dùng tâm đi cùng từ bao trùm một phương rồi mọi phương, toàn thế giới, rộng lớn, vô lượng, không thù hận, không làm hại.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/dn13">DN 13, đoạn 76.1</a> · <i>Tevijja Sutta</i></small>
 
 
 **Mettā** có gốc liên hệ đến bạn hữu. Nó không nhất thiết là cảm xúc trìu mến; cốt lõi là ý hướng an lành không chiếm hữu. Sn 1.8 mở rộng qua mọi loại hữu tình, kể cả chưa thấy và ở xa. Vì vậy, lòng từ không bị giới hạn bởi hấp dẫn cá nhân hay sự đáp lại.
@@ -75,10 +81,16 @@ Người từng bị bạo hành đôi khi thấy câu “mong tôi hạnh phúc
 
 ![hình tượng tự nhiên diễn giải 3. karuṇā: đến gần khổ mà không chìm trong khổ không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-28-3-karuna-en-gan-kho-ma-khong-chim-trong-kho.webp)
 
-> **Pāli — DN 13, các đoạn `dn13:78.1–78.3`**
+> [!quote] Kinh về con đường sống cùng Phạm thiên — Trường Bộ Kinh
+> Đoạn Kinh nêu rằng vị ấy lần lượt dùng tâm đi cùng bi, hỷ và xả bao trùm toàn thế giới, rộng lớn, vô lượng, không thù hận, không làm hại.
+>
+> **Pāli**
 > *Puna caparaṁ, vāseṭṭha, bhikkhu karuṇāsahagatena cetasā …pe… muditāsahagatena cetasā …pe… upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.*
 >
-> **Dịch nghĩa làm việc:** Vị ấy lần lượt dùng tâm đi cùng bi, hỷ và xả bao trùm toàn thế giới, rộng lớn, vô lượng, không thù hận, không làm hại.
+> **Dịch Việt**
+> Vị ấy lần lượt dùng tâm đi cùng bi, hỷ và xả bao trùm toàn thế giới, rộng lớn, vô lượng, không thù hận, không làm hại.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/dn13">DN 13, các đoạn 78.1–78.3</a> · <i>Tevijja Sutta</i></small>
 
 
 **Karuṇā** hướng đến khổ và mong khổ được vơi. Nó khác thương hại từ trên xuống: bi nhận tính dễ tổn thương chung mà không hạ phẩm giá người đang đau. Nó cũng khác đồng cảm không giới hạn. Cảm được nỗi đau có thể là cửa vào; lòng bi thêm ý hướng không hại và đáp ứng khéo.
@@ -98,7 +110,7 @@ Bi với người gây hại không loại trách nhiệm. Có thể mong họ t
 
 **Muditā** thường được dịch là tùy hỷ hay niềm vui đồng cảm: vui trước hạnh phúc, phẩm chất và thành tựu lành của người khác. Nó đối trị phản xạ xem cái tốt của người kia là sự mất mát của mình. Khi đồng nghiệp được công nhận, ta có thể nhận nhói ganh rồi chủ ý nhìn công sức và lợi ích thật của họ.
 
-Muditā không phải vui với mọi thành công. Nếu một người làm giàu bằng lừa đảo hoặc thắng nhờ hại người, sự phấn khởi ấy không đi cùng “không gây tổn hại” trong công thức DN 13. Ta có thể vui khi họ làm một điều lành, không vui với lợi bất chính. Niềm vui cần trí phân biệt đối tượng.
+Muditā không phải vui với mọi thành công. Nếu một người làm giàu bằng lừa đảo hoặc thắng nhờ hại người, sự phấn khởi ấy không đi cùng “không gây tổn hại” trong công thức [Con đường sống cùng Phạm thiên](https://suttacentral.net/dn13). Ta có thể vui khi họ làm một điều lành, không vui với lợi bất chính. Niềm vui cần trí phân biệt đối tượng.
 
 Tùy hỷ cũng không buộc phủ nhận mất mát của mình. Bạn có thể vui vì bạn thân có con đồng thời đau vì hiếm muộn; vui vì đồng nghiệp thăng chức đồng thời thất vọng về mình. Thực hành không xóa cảm xúc còn lại. Nó tạo thêm chỗ cho điều tốt của người khác mà không biến đau riêng thành mong họ mất phần.
 
@@ -110,13 +122,19 @@ Trong cộng đồng tu, tùy hỷ có thể bị méo thành sùng bái thành 
 
 ![hình tượng tự nhiên diễn giải 5. upekkhā: xả không phải thờ ơ, và ranh giới không phải sân không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-28-5-upekkha-xa-khong-phai-tho-o-va-ranh-gioi-khong.webp)
 
-> **Pāli — SN 46.54, đoạn `sn46.54:15.2–15.3`**
+> [!quote] Kinh về bốn tâm vô lượng cùng các giác chi — Tương Ưng Bộ Kinh
+> Đoạn Kinh nêu rằng vị ấy phát triển các giác chi đi cùng xả, nương ly tham, đoạn diệt và hướng đến buông bỏ; phát triển cả giác chi xả đi cùng xả.
+>
+> **Pāli**
 > *Idha, bhikkhave, bhikkhu upekkhāsahagataṁ satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ …pe… upekkhāsahagataṁ upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ.*
 >
-> **Dịch nghĩa làm việc:** Vị ấy phát triển các giác chi đi cùng xả, nương ly tham, đoạn diệt và hướng đến buông bỏ; phát triển cả giác chi xả đi cùng xả.
+> **Dịch Việt**
+> Vị ấy phát triển các giác chi đi cùng xả, nương ly tham, đoạn diệt và hướng đến buông bỏ; phát triển cả giác chi xả đi cùng xả.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn46.54">SN 46.54, đoạn 15.2–15.3</a> · <i>Mettāsahagata Sutta</i></small>
 
 
-**Upekkhā — đọc gần đúng “u-pếch-kha” — xả, nhìn với quân bình** không phải “tôi không quan tâm”. Ngay công thức DN 13 mô tả nó là rộng lớn, không oán và không gây tổn hại. Thờ ơ có thể bỏ mặc vì người khác không quan trọng; xả giữ tâm khỏi thiên vị để đáp ứng đúng, kể cả khi đáp ứng đòi hành động mạnh.
+**Upekkhā — đọc gần đúng “u-pếch-kha” — xả, nhìn với quân bình** không phải “tôi không quan tâm”. Ngay công thức [Con đường sống cùng Phạm thiên](https://suttacentral.net/dn13) mô tả nó là rộng lớn, không oán và không gây tổn hại. Thờ ơ có thể bỏ mặc vì người khác không quan trọng; xả giữ tâm khỏi thiên vị để đáp ứng đúng, kể cả khi đáp ứng đòi hành động mạnh.
 
 Xả nhận giới hạn kiểm soát và tính nhân quả. Ta có thể cung cấp giúp đỡ, không thể sống thay lựa chọn của người khác. Ta có thể đặt quy định công bằng, không bảo đảm mọi người thích. Trong truyền thống hậu kỳ, câu quán “các hữu tình là chủ nhân của nghiệp” thường hỗ trợ xả. Ý ấy không được dùng để trách nạn nhân hay bỏ qua cấu trúc xã hội; nghiệp rất phức tạp và hành động hiện tại của ta cũng tạo duyên.
 
@@ -126,18 +144,18 @@ Không phải mọi vẻ bình thản đều là upekkhā. Đông cứng do sang
 
 Trong thiền, nếu dùng câu “mọi người có nghiệp của họ” để chặn đau quá sớm, hãy trở lại thân và bi. Nếu bị cuốn đến mức không ngủ, hãy trở về xả và giới hạn. Bốn tâm vận hành như một hệ cân bằng, không phải bốn huy chương độc lập.
 
-## 6. SN 46.54: Tâm Vô Lượng Đi Cùng Giác Chi Và Sự Phân Biệt Mục Đích
+## 6. [Bốn tâm vô lượng cùng các giác chi](https://suttacentral.net/sn46.54): Tâm Vô Lượng Đi Cùng Giác Chi Và Sự Phân Biệt Mục Đích
 
 ![hình tượng tự nhiên diễn giải 6. sn 46.54: tâm vô lượng đi cùng giác chi và sự phân biệt mục đích không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-28-6-sn-46-54-tam-vo-luong-i-cung-giac-chi-va-su-ph.webp)
 
 
-SN 46.54 nối mỗi phạm trú với bảy giác chi và bàn các khuynh hướng giải thoát của tâm. Điều này đặt bốn tâm trong con đường giác ngộ, không chỉ như bài tự trấn an. Niệm, trạch pháp, tinh tấn, hỷ, khinh an, định và xả có thể được phát triển trong trường của lòng từ; cùng cấu trúc được áp dụng cho bi, hỷ và xả.
+[Bốn tâm vô lượng cùng các giác chi](https://suttacentral.net/sn46.54) nối mỗi phạm trú với bảy giác chi và bàn các khuynh hướng giải thoát của tâm. Điều này đặt bốn tâm trong con đường giác ngộ, không chỉ như bài tự trấn an. Niệm, trạch pháp, tinh tấn, hỷ, khinh an, định và xả có thể được phát triển trong trường của lòng từ; cùng cấu trúc được áp dụng cho bi, hỷ và xả.
 
 Cụm “nương ly, ly tham, đoạn diệt, chín tới buông bỏ” ngăn ta biến lòng từ thành bám dính dễ chịu. Mettā không sở hữu người nhận; karuṇā không xây căn cước cứu thế; muditā không lệ thuộc kết quả; upekkhā không bám hình ảnh lạnh lùng. Tất cả hướng đến buông.
 
-SN 46.54 còn dùng hệ thuật ngữ về các giải thoát như đẹp, không gian vô biên, thức vô biên và hư vô, với cách phân biệt “phát triển thế nào, hướng đến gì, đỉnh cao và quả gì”. Các cách giải thích chi tiết cần đọc toàn bài và truyền thống định, không nên rút thành bảng rằng mỗi cảm xúc tự động đưa đến một tầng siêu hình. Điểm chắc chắn là Kinh phân biệt mục đích và cách phát triển, thay vì coi bốn tâm là một khối mơ hồ.
+[Bốn tâm vô lượng cùng các giác chi](https://suttacentral.net/sn46.54) còn dùng hệ thuật ngữ về các giải thoát như đẹp, không gian vô biên, thức vô biên và hư vô, với cách phân biệt “phát triển thế nào, hướng đến gì, đỉnh cao và quả gì”. Các cách giải thích chi tiết cần đọc toàn bài và truyền thống định, không nên rút thành bảng rằng mỗi cảm xúc tự động đưa đến một tầng siêu hình. Điểm chắc chắn là Kinh phân biệt mục đích và cách phát triển, thay vì coi bốn tâm là một khối mơ hồ.
 
-Truyền thống chú giải mô tả đối tượng gần-xa, “kẻ thù gần” và “kẻ thù xa”, các giai đoạn phá ranh giới và mức định. Những công cụ ấy hữu ích: ái luyến có thể giả từ, đau buồn có thể giả bi, phấn khích thế tục có thể giả hỷ, vô tri có thể giả xả. Nhưng tên gọi và sơ đồ hậu kỳ phải được gắn đúng nguồn, không đặt vào miệng DN 13.
+Truyền thống chú giải mô tả đối tượng gần-xa, “kẻ thù gần” và “kẻ thù xa”, các giai đoạn phá ranh giới và mức định. Những công cụ ấy hữu ích: ái luyến có thể giả từ, đau buồn có thể giả bi, phấn khích thế tục có thể giả hỷ, vô tri có thể giả xả. Nhưng tên gọi và sơ đồ hậu kỳ phải được gắn đúng nguồn, không đặt vào miệng [Con đường sống cùng Phạm thiên](https://suttacentral.net/dn13).
 
 Nghiên cứu tâm lý hiện đại về lòng trắc ẩn hoặc thiện chí có câu hỏi và thước đo riêng. Nó có thể gợi cách thích nghi cho sang chấn hay người chăm sóc, nhưng không tự chứng minh quả giải thoát mà Kinh nói. Ngược lại, Kinh không thay đào tạo lâm sàng, điều trị trầm cảm hoặc quy trình bảo vệ trẻ em.
 
@@ -146,10 +164,10 @@ Nghiên cứu tâm lý hiện đại về lòng trắc ẩn hoặc thiện chí 
 ![hình tượng tự nhiên diễn giải 7. kỷ luật khẳng định, an toàn và chuỗi đọc không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-28-7-ky-luat-khang-inh-an-toan-va-chuoi-oc.webp)
 
 > [!quote] Văn bản nói gì
-> DN 13 mô tả từ, bi, hỷ và xả tỏa khắp mọi phương, rộng lớn, vô lượng, không oán, không gây tổn hại. Sn 1.8 mở thiện chí đến mọi hữu tình. SN 46.54 nối các tâm này với bảy giác chi và hướng ly tham, đoạn diệt, buông bỏ.
+> [Con đường sống cùng Phạm thiên](https://suttacentral.net/dn13) mô tả từ, bi, hỷ và xả tỏa khắp mọi phương, rộng lớn, vô lượng, không oán, không gây tổn hại. Sn 1.8 mở thiện chí đến mọi hữu tình. [Bốn tâm vô lượng cùng các giác chi](https://suttacentral.net/sn46.54) nối các tâm này với bảy giác chi và hướng ly tham, đoạn diệt, buông bỏ.
 
 > [!info] Truyền thống giải thích gì
-> Theravāda hậu kỳ hệ thống hóa đối tượng thực hành, phá ranh giới, kẻ thù gần-xa và quan hệ với định. Những bản đồ ấy giúp nhận ái luyến giả từ hay thờ ơ giả xả, nhưng không phải toàn bộ nguyên văn của DN 13, Sn 1.8 hoặc SN 46.54.
+> Theravāda hậu kỳ hệ thống hóa đối tượng thực hành, phá ranh giới, kẻ thù gần-xa và quan hệ với định. Những bản đồ ấy giúp nhận ái luyến giả từ hay thờ ơ giả xả, nhưng không phải toàn bộ nguyên văn của [Con đường sống cùng Phạm thiên](https://suttacentral.net/dn13), Sn 1.8 hoặc [Bốn tâm vô lượng cùng các giác chi](https://suttacentral.net/sn46.54).
 
 > [!example] Bài này suy luận gì
 > Ranh giới rõ, báo nguy, nghỉ khỏi chăm sóc và phối hợp chuyên môn có thể biểu hiện từ-bi-xả trong đời nay. Các mẫu câu và tiêu chí phân biệt xả với đông cứng là hướng dẫn ứng dụng, không phải quy trình được Kinh ban hành.
@@ -163,9 +181,9 @@ Nếu thực hành khơi hồi tưởng, hoảng, tê rời thân, tuyệt vọn
 
 **Nguồn kinh điển chính xác**
 
-- [DN 13, Tevijja Sutta](https://suttacentral.net/dn13), bốn tâm tỏa khắp các phương và con đường cộng trú với Phạm thiên.
+- [Con đường sống cùng Phạm thiên — Trường Bộ Kinh](https://suttacentral.net/dn13), bốn tâm tỏa khắp các phương và con đường cộng trú với Phạm thiên.
 - [Sn 1.8, Mettā Sutta](https://suttacentral.net/snp1.8), thiện chí không giới hạn đối với mọi hữu tình.
-- [SN 46.54, Mettāsahagata Sutta](https://suttacentral.net/sn46.54), bốn phạm trú, bảy giác chi và các khuynh hướng giải thoát.
+- [Bốn tâm vô lượng cùng các giác chi — Tương Ưng Bộ Kinh](https://suttacentral.net/sn46.54), bốn phạm trú, bảy giác chi và các khuynh hướng giải thoát.
 - [SuttaCentral Editions](https://suttacentral.net/editions), thông tin ấn bản và giấy phép.
 
 Pāli là văn bản Bilara phân đoạn của ấn bản Mahāsaṅgīti trên SuttaCentral, truy cập ngày 2026-08-19. Bản Việt là bản dịch làm việc nguyên thủy của redpill.wiki, đặt trước phần giải thích. Chỉ dẫn về ranh giới và an toàn là ứng dụng hiện đại theo nguyên tắc không hại, không phải thay thế chăm sóc y tế, bảo vệ xã hội hay hướng dẫn trực tiếp từ giáo thọ đủ năng lực.
