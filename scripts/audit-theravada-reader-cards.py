@@ -11,8 +11,12 @@ def expand(order,rid,spec):
  if '–' not in spec:return [spec]
  a,b=spec.split('–',1);b=b if ':' in b else a.split(':',1)[0]+':'+b;return order[order.index(a):order.index(b)+1]
 def compare_grouped(actual,expected_groups):
- actual_groups=[clean(x) for x in actual.split(' … ')]
  expected=[clean(x) for x in expected_groups]
+ # A canonical Bilara segment may itself contain “…” abbreviation markers.
+ # Only treat visible separators as card-group boundaries when the source line
+ # declares multiple noncontiguous locator groups.
+ actual_groups=([clean(actual)] if len(expected)==1
+                else [clean(x) for x in actual.split(' … ')])
  return len(actual_groups)==len(expected) and all(a==b for a,b in zip(actual_groups,expected)),actual_groups
 def locator_groups(source_line,row,order):
  plain=clean(source_line);rid=row['work_id'];locator=plain.split(',',1)[1].split('·',1)[0] if ',' in plain else ''

@@ -9,4 +9,5 @@ for actual,want in cases:
  got,_=m.compare_grouped(actual,expected);assert got is want,(actual,got,want)
 assert m.compare_grouped('alpha beta',['alpha beta'])[0] is True
 assert m.compare_grouped('alpha … beta',['alpha beta'])[0] is False
-print('{"status":"pass","grouped_exact_cases":7,"adversarial_failures":5}')
+assert m.compare_grouped('alpha … beta',['alpha … beta'])[0] is True
+print('{"status":"pass","grouped_exact_cases":8,"adversarial_failures":5}')

@@ -8,11 +8,12 @@
     3,
     4,
     5,
+    6,
     18,
     36
   ],
-  "cards": 20,
-  "passed": 20,
+  "cards": 23,
+  "passed": 23,
   "rows": [
     {
       "lesson": 1,
@@ -153,6 +154,27 @@
       "title": "Sự đoạn diệt và con đường — Tương Ưng Bộ Kinh",
       "translation_label": "Dịch Việt rút gọn",
       "review_note": "Translation visibly omits the internal path-factor enumeration and accurately identifies craving cessation and the Noble Eightfold Path."
+    },
+    {
+      "lesson": 6,
+      "source": "SN 56.11:4.1–4.2",
+      "title": "Dukkha không chỉ là đau đớn — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Full passage and translation align on the dukkha list and five clinging aggregates; introduction does not reduce dukkha to pain alone."
+    },
+    {
+      "lesson": 6,
+      "source": "SN 56.11:5.2",
+      "title": "Dukkha cần được hiểu trọn vẹn — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Canonical source contains …pe…; Vietnamese visibly marks the compression and retains the specific task pariññeyya, understanding dukkha fully."
+    },
+    {
+      "lesson": 6,
+      "source": "SN 22.59:6.1–6.18",
+      "title": "Năm uẩn: vô thường, dukkha và không phải tự ngã — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Pāli abbreviates repeated aggregate questioning; Vietnamese visibly marks the compression and accurately applies the same impermanence/dukkha/not-self test to feeling, perception, formations, and consciousness."
     }
   ]
 }
