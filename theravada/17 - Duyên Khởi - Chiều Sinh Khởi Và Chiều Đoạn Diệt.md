@@ -40,7 +40,7 @@ source_license_checked: true
 ![hình tượng tự nhiên diễn giải 1. không chỉ hỏi “khổ từ đâu đến?” mà còn “khổ dừng thế nào?” mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-17-1-khong-chi-hoi-kho-tu-au-en-ma-con-kho-dung-.webp)
 
 
-**Paṭiccasamuppāda — đọc gần đúng “pa-tít-cha sa-múp-pa-đa” — sự sinh khởi tùy thuộc điều kiện** thường được giới thiệu bằng một chuỗi mười hai chi. Nhưng nếu chỉ nhớ chiều “vô minh dẫn đến già chết”, người học rất dễ biến giáo lý thành bản đồ bi quan: mọi thứ đã khởi thì cứ thế lao tới khổ. Ba bài kinh nền của bài này cho một hình ảnh khác. [SN 12.20, Paccaya Sutta](https://suttacentral.net/sn12.20) nêu nguyên lý điều kiện; [SN 12.2, Vibhaṅga Sutta](https://suttacentral.net/sn12.2) định nghĩa các chi và trình bày cả sinh khởi lẫn đoạn diệt; [SN 12.23, Upanisa Sutta](https://suttacentral.net/sn12.23) cho thấy chính kinh nghiệm khổ cũng có thể trở thành điều kiện dẫn tới tín, hỷ, định, tri kiến và giải thoát.
+**Paṭiccasamuppāda — đọc gần đúng “pa-tít-cha sa-múp-pa-đa” — sự sinh khởi tùy thuộc điều kiện** thường được giới thiệu bằng một chuỗi mười hai chi. Nhưng nếu chỉ nhớ chiều “vô minh dẫn đến già chết”, người học rất dễ biến giáo lý thành bản đồ bi quan: mọi thứ đã khởi thì cứ thế lao tới khổ. Ba bài kinh nền của bài này cho một hình ảnh khác. [Nguyên lý mọi pháp sinh theo điều kiện — Tương Ưng Bộ Kinh](https://suttacentral.net/sn12.20) nêu nguyên lý điều kiện; [Định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh](https://suttacentral.net/sn12.2) định nghĩa các chi và trình bày cả sinh khởi lẫn đoạn diệt; [Từ khổ đau đến giải thoát theo chuỗi hỗ trợ — Tương Ưng Bộ Kinh](https://suttacentral.net/sn12.23) cho thấy chính kinh nghiệm khổ cũng có thể trở thành điều kiện dẫn tới tín, hỷ, định, tri kiến và giải thoát.
 
 Duyên khởi vì vậy không phải học thuyết nói “đời là khổ và không có lối ra”. Nó là cách nhìn khổ không tự có, không do một chủ thể tuyệt đối ban xuống và không tồn tại bất chấp điều kiện. Chính vì khổ có điều kiện nên việc nhận diện, không nuôi và thay đổi điều kiện có ý nghĩa. Chiều sinh khởi trả lời cách gánh nặng được dựng; chiều đoạn diệt trả lời cách gánh nặng được đặt xuống. Hai chiều là một cấu trúc, không phải một phần giáo lý chính và một phần phụ để an ủi.
 
@@ -53,36 +53,48 @@ Mục tiêu thực hành cũng cần nói ngay: thấy điều kiện không ph�
 ![hình tượng tự nhiên diễn giải 2. công thức điều kiện: chính xác hơn “mọi thứ liên quan với nhau” mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-17-2-cong-thuc-ieu-kien-chinh-xac-hon-moi-thu-li.webp)
 
 
-> **Pāli — SN 12.20, đoạn 3.11–3.17**
+> [!quote] Kinh về nguyên lý mọi pháp sinh theo điều kiện — Tương Ưng Bộ Kinh
+> Đoạn Kinh nêu rằng dù các Như Lai xuất hiện hay không, yếu tố ấy vẫn đứng vững: sự ổn định của pháp, tính quy luật của pháp, tính điều kiện cụ thể Tính như-thế, không sai khác và tính điều kiện cụ thể ấy được gọi là duyên khởi.
+>
+> **Pāli**
 > *uppādā vā tathāgatānaṁ anuppādā vā tathāgatānaṁ, ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā idappaccayatā. Taṁ tathāgato abhisambujjhati abhisameti. Abhisambujjhitvā abhisametvā ācikkhati deseti paññāpeti paṭṭhapeti vivarati vibhajati uttānīkaroti. ‘Passathā’ti cāha: ‘avijjāpaccayā, bhikkhave, saṅkhārā’. Iti kho, bhikkhave, yā tatra tathatā avitathatā anaññathatā idappaccayatā— ayaṁ vuccati, bhikkhave, paṭiccasamuppādo.*
 >
-> **Dịch nghĩa làm việc:** Dù các Như Lai xuất hiện hay không, yếu tố ấy vẫn đứng vững: sự ổn định của pháp, tính quy luật của pháp, tính điều kiện cụ thể … Tính như-thế, không sai khác và tính điều kiện cụ thể ấy được gọi là duyên khởi.
+> **Dịch Việt rút gọn**
+> Dù các Như Lai xuất hiện hay không, yếu tố ấy vẫn đứng vững: sự ổn định của pháp, tính quy luật của pháp, tính điều kiện cụ thể … Tính như-thế, không sai khác và tính điều kiện cụ thể ấy được gọi là duyên khởi.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn12.20">SN 12.20, đoạn 3.11–3.17</a> · <i>Paccaya Sutta</i></small>
 
-SN 12.20 trình bày **idappaccayatā — đọc gần đúng “i-đáp-pát-cha-ya-ta” — tính điều kiện cụ thể, tính có-cái-này-làm-duyên-cho-cái-kia**.
+[Nguyên lý mọi pháp sinh theo điều kiện](https://suttacentral.net/sn12.20) trình bày **idappaccayatā — đọc gần đúng “i-đáp-pát-cha-ya-ta” — tính điều kiện cụ thể, tính có-cái-này-làm-duyên-cho-cái-kia**.
 
 Bốn vế giữ hai phân biệt quan trọng. “Có/không có” nói về sự hiện diện của điều kiện; “sinh/đoạn diệt” nói về tiến trình. Chúng không nhất thiết là bốn mệnh đề logic phổ quát có thể mang ra áp vào mọi sự vật. Trong kinh, công thức đi liền chuỗi duyên khởi và tính ổn định của quan hệ ấy. Ta dùng nó để thẩm tra sự phát sinh của dukkha, không biến nó thành khẩu hiệu vũ trụ chung chung.
 
-SN 12.20 còn nhấn mạnh rằng dù Như Lai xuất hiện hay không, yếu tố này—tính ổn định của pháp, tính quy luật của pháp, tính điều kiện cụ thể—vẫn đứng đó; Như Lai giác ngộ rồi chỉ bày, thiết lập và làm sáng nó. Mệnh đề này loại cách hiểu duyên khởi như sắc lệnh tùy ý của một vị thần hay phát minh tâm lý của cá nhân. Nhưng “quy luật” ở đây cũng không tự động đồng nghĩa định luật vật lý theo khoa học hiện đại. Đó là khẳng định kinh điển về cấu trúc có điều kiện của các pháp đang được dạy.
+[Nguyên lý mọi pháp sinh theo điều kiện](https://suttacentral.net/sn12.20) còn nhấn mạnh rằng dù Như Lai xuất hiện hay không, yếu tố này—tính ổn định của pháp, tính quy luật của pháp, tính điều kiện cụ thể—vẫn đứng đó; Như Lai giác ngộ rồi chỉ bày, thiết lập và làm sáng nó. Mệnh đề này loại cách hiểu duyên khởi như sắc lệnh tùy ý của một vị thần hay phát minh tâm lý của cá nhân. Nhưng “quy luật” ở đây cũng không tự động đồng nghĩa định luật vật lý theo khoa học hiện đại. Đó là khẳng định kinh điển về cấu trúc có điều kiện của các pháp đang được dạy.
 
 Một điều kiện không nhất thiết là nguyên nhân duy nhất, gần nhất hoặc đủ tự mình sinh kết quả. Hạt giống cần đất, nước, nhiệt và thời gian; ví dụ này giúp hiểu đa điều kiện nhưng chỉ là minh họa. Trong kinh nghiệm, một lời chê có thể là đối tượng của xúc, nhưng phản ứng còn tùy lịch sử học tập, thọ hiện tại, cách chú ý, trạng thái thân và mức an toàn. Vì vậy, “A làm duyên cho B” không có nghĩa B luôn xảy ra hễ A xuất hiện, càng không có nghĩa người gặp B đã bí mật chọn A.
 
-Duyên khởi cũng không phải bằng chứng lượng tử. Sự phụ thuộc, bất định hay tương quan trong vật lý có định nghĩa, phép đo và miền áp dụng riêng. SN 12.20 không nói hạt cơ bản, trường lượng tử hoặc ý thức làm sụp hàm sóng. Dùng khoa học như ẩn dụ có thể gợi tò mò, nhưng tuyên bố khoa học đã chứng minh paṭiccasamuppāda sẽ làm sai cả kinh lẫn khoa học.
+Duyên khởi cũng không phải bằng chứng lượng tử. Sự phụ thuộc, bất định hay tương quan trong vật lý có định nghĩa, phép đo và miền áp dụng riêng. [Nguyên lý mọi pháp sinh theo điều kiện](https://suttacentral.net/sn12.20) không nói hạt cơ bản, trường lượng tử hoặc ý thức làm sụp hàm sóng. Dùng khoa học như ẩn dụ có thể gợi tò mò, nhưng tuyên bố khoa học đã chứng minh paṭiccasamuppāda sẽ làm sai cả kinh lẫn khoa học.
 
 ## 3. Chiều Sinh Khởi: Mười Hai Chi Là Bản Đồ Của Dukkha
 
 ![hình tượng tự nhiên diễn giải 3. chiều sinh khởi: mười hai chi là bản đồ của dukkha mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-17-3-chieu-sinh-khoi-muoi-hai-chi-la-ban-o-cua-d.webp)
 
 
-> **Pāli — SN 12.2, đoạn 2.2–2.13**
+> [!quote] Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh
+> Đoạn Kinh nêu rằng vô minh làm duyên cho hành; hành làm duyên cho thức hữu làm duyên cho sinh; sinh làm duyên cho già chết, sầu, than, đau, ưu và tuyệt vọng sinh khởi.
+>
+> **Pāli**
 > *Avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṁ; viññāṇapaccayā nāmarūpaṁ; nāmarūpapaccayā saḷāyatanaṁ; saḷāyatanapaccayā phasso; phassapaccayā vedanā; vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṁ; upādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti.*
 >
-> **Dịch nghĩa làm việc:** Này các tỳ-kheo, vô minh làm duyên cho hành; hành làm duyên cho thức … hữu làm duyên cho sinh; sinh làm duyên cho già chết, sầu, than, đau, ưu và tuyệt vọng sinh khởi. Như vậy là sự sinh khởi của toàn bộ khối khổ này.
+> **Dịch Việt rút gọn**
+> Này các tỳ-kheo, vô minh làm duyên cho hành; hành làm duyên cho thức … hữu làm duyên cho sinh; sinh làm duyên cho già chết, sầu, than, đau, ưu và tuyệt vọng sinh khởi. Như vậy là sự sinh khởi của toàn bộ khối khổ này.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn12.2">SN 12.2, đoạn 2.2–2.13</a> · <i>Vibhaṅga Sutta</i></small>
 
-SN 12.2 định nghĩa mười hai chi. **Avijjā — “a-vít-cha” — vô minh** là không biết khổ, nguồn sinh của khổ, đoạn diệt của khổ và con đường. Vô minh làm duyên cho **saṅkhārā — “sang-kha-ra” — các hành hay tạo tác có tác động tạo thành**; hành làm duyên cho **viññāṇa**, thức; thức cho **nāmarūpa**, danh-sắc; danh-sắc cho sáu xứ; sáu xứ cho xúc; xúc cho thọ; thọ cho ái; ái cho thủ; thủ cho hữu; hữu cho sinh; sinh cho già chết, cùng sầu, than, đau, ưu và tuyệt vọng. Kinh kết: như vậy là sự sinh khởi của toàn bộ khối khổ này.
+[Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) định nghĩa mười hai chi. **Avijjā — “a-vít-cha” — vô minh** là không biết khổ, nguồn sinh của khổ, đoạn diệt của khổ và con đường. Vô minh làm duyên cho **saṅkhārā — “sang-kha-ra” — các hành hay tạo tác có tác động tạo thành**; hành làm duyên cho **viññāṇa**, thức; thức cho **nāmarūpa**, danh-sắc; danh-sắc cho sáu xứ; sáu xứ cho xúc; xúc cho thọ; thọ cho ái; ái cho thủ; thủ cho hữu; hữu cho sinh; sinh cho già chết, cùng sầu, than, đau, ưu và tuyệt vọng. Kinh kết: như vậy là sự sinh khởi của toàn bộ khối khổ này.
 
 Danh sách không kể chuyện một linh hồn đi qua mười hai ga. Mỗi chi được định nghĩa như một phạm vi tiến trình. Sáu thức tùy sáu căn; danh-sắc gồm các thành phần thân–tâm; xúc tùy cuộc gặp căn, đối tượng và thức; thọ là lạc, khổ hoặc trung tính; ái có sáu nhóm theo đối tượng; thủ có bốn loại; hữu có ba miền; sinh và già chết được nói trong ngôn ngữ sinh hữu. Cách phân bố các chi qua đời sống sẽ là chủ đề bài 18; ở đây điều cần giữ là chuỗi của sự có điều kiện, không phải một vật mang bản sắc.
 
-Mũi tên “làm duyên” không phải bánh răng tất định. Thọ làm duyên cho ái trong chuỗi dưới vô minh, nhưng toàn bộ con đường tu tập có ý nghĩa vì thọ có thể được biết đúng, vì niệm và tuệ cũng là điều kiện. Nếu mỗi mũi tên là tất yếu tuyệt đối, đoạn diệt không thể xảy ra. Chính cấu trúc hai chiều của SN 12.2 bác cách đọc ấy.
+Mũi tên “làm duyên” không phải bánh răng tất định. Thọ làm duyên cho ái trong chuỗi dưới vô minh, nhưng toàn bộ con đường tu tập có ý nghĩa vì thọ có thể được biết đúng, vì niệm và tuệ cũng là điều kiện. Nếu mỗi mũi tên là tất yếu tuyệt đối, đoạn diệt không thể xảy ra. Chính cấu trúc hai chiều của [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) bác cách đọc ấy.
 
 Không nên thu hẹp mười hai chi vào một tâm trạng hiện tại, nhưng cũng không cần đẩy mọi chi ra ngoài tầm quan sát. Xúc, thọ, ái và thủ có thể được nhận ra trong một cuộc nói chuyện. Sinh, già chết trong kinh vẫn giữ chiều tái sinh và sinh hữu, không chỉ là “sinh ra một ý nghĩ”. Một ứng dụng hiện tại phải tự nhận là ứng dụng cục bộ, không thay toàn bộ nghĩa kinh điển.
 
@@ -93,7 +105,7 @@ Chiều sinh khởi không nhằm xây một vũ trụ luận hoàn chỉnh. Nó
 ![hình tượng tự nhiên diễn giải 4. chiều đoạn diệt: không phải phá hủy mà là không còn nuôi điều kiện mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-17-4-chieu-oan-diet-khong-phai-pha-huy-ma-la-kho.webp)
 
 
-Sau công thức sinh khởi, SN 12.2 nêu chiều đoạn diệt với trọng lượng tương đương: do vô minh ly tham và đoạn diệt không dư, hành đoạn diệt; do hành đoạn diệt, thức đoạn diệt; tiếp tục qua danh-sắc, sáu xứ, xúc, thọ, ái, thủ, hữu, sinh, rồi già chết cùng sầu, than, đau, ưu và tuyệt vọng đoạn diệt. Như vậy là sự đoạn diệt của toàn bộ khối khổ.
+Sau công thức sinh khởi, [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) nêu chiều đoạn diệt với trọng lượng tương đương: do vô minh ly tham và đoạn diệt không dư, hành đoạn diệt; do hành đoạn diệt, thức đoạn diệt; tiếp tục qua danh-sắc, sáu xứ, xúc, thọ, ái, thủ, hữu, sinh, rồi già chết cùng sầu, than, đau, ưu và tuyệt vọng đoạn diệt. Như vậy là sự đoạn diệt của toàn bộ khối khổ.
 
 **Nirodha — “ni-rô-đa” — sự đoạn diệt, chấm dứt do điều kiện không còn được duy trì** không nên dịch thành đàn áp. Ép một cảm giác biến mất có thể là phi hữu ái; ghét vô minh không phải trí tuệ. Công thức bắt đầu bằng ly tham và đoạn diệt vô minh: thấy Tứ Đế, biết pháp theo điều kiện, không tiếp tục tạo tác từ sự không biết. Khi nhiên liệu không được cấp, hệ quả tương ứng không đứng theo cách cũ.
 
@@ -105,25 +117,31 @@ Chiều đoạn diệt đem đạo đức và thiền vào mạng điều kiện
 
 Hãy giữ cân đối: nếu phân tích năm đoạn về vô minh sinh mà chỉ một câu về vô minh diệt, ta đã làm méo bài kinh. Duyên khởi được dạy để thấy cả nguy cơ lẫn khả năng. Một người nhận ra chuỗi trong cơn giận không chỉ kết luận “tôi bị điều kiện hóa”; họ có thể nhận ra chỗ không nói lời hại, rời tình huống, xin hỗ trợ và học cách chú ý khác.
 
-## 5. SN 12.23: Một Chuỗi Duyên Hỗ Trợ Đi Từ Khổ Đến Giải Thoát
+## 5. [Từ khổ đau đến giải thoát theo chuỗi hỗ trợ](https://suttacentral.net/sn12.23): Một Chuỗi Duyên Hỗ Trợ Đi Từ Khổ Đến Giải Thoát
 
 ![hình tượng tự nhiên diễn giải 5. sn 12.23: một chuỗi duyên hỗ trợ đi từ khổ đến giải thoát mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-17-5-sn-12-23-mot-chuoi-duyen-ho-tro-i-tu-kho-en.webp)
 
 
-> **Pāli — SN 12.23, đoạn 3.14–4.2**
+> [!quote] Kinh về từ khổ đau đến giải thoát theo chuỗi hỗ trợ — Tương Ưng Bộ Kinh
+> Đoạn Kinh nêu rằng cần đáp rằng: “tín”; này các tỳ-kheo, ta nói tín có điều kiện hỗ trợ, không phải không có.
+>
+> **Pāli**
 > *‘Saddhā’tissa vacanīyaṁ. Saddhampāhaṁ, bhikkhave, saupanisaṁ vadāmi, no anupanisaṁ. Kā ca, bhikkhave, saddhāya upanisā? ‘Dukkhan’tissa vacanīyaṁ.*
 >
-> **Dịch nghĩa làm việc:** Cần đáp rằng: “tín”. Này các tỳ-kheo, ta nói tín có điều kiện hỗ trợ, không phải không có. Điều kiện hỗ trợ cho tín là gì? Cần đáp rằng: “khổ”.
+> **Dịch Việt**
+> Cần đáp rằng: “tín”. Này các tỳ-kheo, ta nói tín có điều kiện hỗ trợ, không phải không có. Điều kiện hỗ trợ cho tín là gì? Cần đáp rằng: “khổ”.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn12.23">SN 12.23, đoạn 3.14–4.2</a> · <i>Upanisa Sutta</i></small>
 
-SN 12.23 đặc biệt quan trọng vì ngăn duyên khởi bị đồng nhất với chuỗi đen tối. Kinh trình bày già chết có sinh làm điều kiện, tiếp tục ngược tới vô minh; rồi nói **dukkha** là điều kiện gần cho **saddhā — tín nhiệm sáng suốt**, tín cho hân hoan, hân hoan cho hỷ, hỷ cho thân tâm lắng dịu, lắng dịu cho lạc, lạc cho định, định cho tri kiến như thật, tri kiến cho yếm ly, ly tham, giải thoát và tri kiến đoạn tận.
+[Từ khổ đau đến giải thoát theo chuỗi hỗ trợ](https://suttacentral.net/sn12.23) đặc biệt quan trọng vì ngăn duyên khởi bị đồng nhất với chuỗi đen tối. Kinh trình bày già chết có sinh làm điều kiện, tiếp tục ngược tới vô minh; rồi nói **dukkha** là điều kiện gần cho **saddhā — tín nhiệm sáng suốt**, tín cho hân hoan, hân hoan cho hỷ, hỷ cho thân tâm lắng dịu, lắng dịu cho lạc, lạc cho định, định cho tri kiến như thật, tri kiến cho yếm ly, ly tham, giải thoát và tri kiến đoạn tận.
 
-Điểm tinh tế là khổ không tự động làm người ta khôn. Khổ có thể làm sinh oán, tê liệt hoặc hành vi gây hại nếu gặp điều kiện bất lợi. SN 12.23 trình bày một quan hệ hỗ trợ trong lộ trình Dhamma: khi khổ được gặp cùng lời dạy, bạn lành và cách chú ý thích hợp, nó có thể thúc đẩy tín và thực hành. Không được dùng kinh này để lãng mạn hóa sang chấn hoặc bảo nạn nhân nên biết ơn đau đớn.
+Điểm tinh tế là khổ không tự động làm người ta khôn. Khổ có thể làm sinh oán, tê liệt hoặc hành vi gây hại nếu gặp điều kiện bất lợi. [Từ khổ đau đến giải thoát theo chuỗi hỗ trợ](https://suttacentral.net/sn12.23) trình bày một quan hệ hỗ trợ trong lộ trình Dhamma: khi khổ được gặp cùng lời dạy, bạn lành và cách chú ý thích hợp, nó có thể thúc đẩy tín và thực hành. Không được dùng kinh này để lãng mạn hóa sang chấn hoặc bảo nạn nhân nên biết ơn đau đớn.
 
 **Upanisā — đọc gần đúng “u-pa-ni-xa” — điều kiện hỗ trợ hay điều kiện gần** tạo sắc thái khác với một dây xích cơ học. Mưa trên núi làm các khe đầy, khe làm ao, ao làm hồ, hồ làm sông và sông làm biển đầy: hình ảnh trong kinh nhấn sự tích lũy hỗ trợ. Lộ trình có nhịp nuôi dưỡng; không phải ép tâm nhảy từ khổ thẳng tới buông xả.
 
 Chuỗi tích cực cũng cho thấy định không đứng cô lập. Định được hỗ trợ bởi lạc, lạc bởi tĩnh lặng, và các điều kiện trước đó; tri kiến như thật được định hỗ trợ. Vì thế, thiền không phải thao tác kỹ thuật tách khỏi tín, đạo đức, thân và cảm xúc. Nếu tâm quá bất an, câu hỏi duyên khởi là điều kiện nào cần xây, không phải “tại sao tôi không đủ ý chí?”.
 
-SN 12.23 không thay chiều đoạn diệt bằng tư duy tích cực. Hai cách trình bày bổ sung nhau: một cách chỉ ra nhiên liệu của khổ ngừng thế nào; cách kia chỉ ra các phẩm chất giải thoát được nuôi thế nào. Tháo điều kiện bất thiện và xây điều kiện thiện là hai mặt của tu tập. Cả hai đều tránh ảo tưởng rằng hiểu một khái niệm duy nhất đủ giải phóng toàn hệ.
+[Từ khổ đau đến giải thoát theo chuỗi hỗ trợ](https://suttacentral.net/sn12.23) không thay chiều đoạn diệt bằng tư duy tích cực. Hai cách trình bày bổ sung nhau: một cách chỉ ra nhiên liệu của khổ ngừng thế nào; cách kia chỉ ra các phẩm chất giải thoát được nuôi thế nào. Tháo điều kiện bất thiện và xây điều kiện thiện là hai mặt của tu tập. Cả hai đều tránh ảo tưởng rằng hiểu một khái niệm duy nhất đủ giải phóng toàn hệ.
 
 ## 6. Thực Hành Hai Chiều Trong Một Tình Huống Có Thật
 
@@ -134,7 +152,7 @@ Chọn một tình huống vừa sức, không phải biến cố đang gây ngu
 
 Bên phải, ghi chiều đoạn diệt. Điều gì có thể không được nuôi? Có thể không lặp câu chuyện, không mở thêm ứng dụng, không nói câu trả đũa, không uống chất làm mất kiểm soát. Điều kiện nào cần được đưa vào? Giấc ngủ, khoảng cách an toàn, một người bạn đáng tin, chánh niệm về thọ, nhớ hậu quả, lời nói đúng hoặc hỗ trợ chuyên môn. Đoạn diệt trong đời thường thường bắt đầu rất cụ thể.
 
-Sau đó dùng chuỗi SN 12.23. Khổ đang báo điều gì cần hiểu, không phải chứng minh mình là người xấu? Niềm tin nào có căn cứ—rằng hành vi có hậu quả, rằng một phản ứng có thể học lại, rằng có người hỗ trợ? Hoạt động thiện nào tạo hân hoan không gây nghiện? Thân cần điều gì để lắng? Định nào vừa khả năng? Cách làm này nuôi lộ trình thay vì chỉ canh chừng lỗi.
+Sau đó dùng chuỗi [Từ khổ đau đến giải thoát theo chuỗi hỗ trợ](https://suttacentral.net/sn12.23). Khổ đang báo điều gì cần hiểu, không phải chứng minh mình là người xấu? Niềm tin nào có căn cứ—rằng hành vi có hậu quả, rằng một phản ứng có thể học lại, rằng có người hỗ trợ? Hoạt động thiện nào tạo hân hoan không gây nghiện? Thân cần điều gì để lắng? Định nào vừa khả năng? Cách làm này nuôi lộ trình thay vì chỉ canh chừng lỗi.
 
 Nếu nguyên nhân ngoài là bạo lực, bóc lột hoặc bệnh, hãy ghi nó như điều kiện thật và xử lý đúng cấp. Rời nơi nguy hiểm, tìm chăm sóc y tế, lưu bằng chứng hay dùng quyền pháp lý không trái duyên khởi. Quan sát tâm không thay việc bảo vệ thân. Ngược lại, hành động bảo vệ có thể là điều kiện cho tâm bớt hoảng và thấy rõ.
 
@@ -148,7 +166,7 @@ Thực hành đều đặn cũng cho thấy mạng phản hồi. Một đêm m�
 
 
 > [!quote] Văn bản nói gì
-> SN 12.20 nêu tính điều kiện cụ thể bằng công thức có–sinh và không có–đoạn diệt. SN 12.2 định nghĩa mười hai chi rồi trình bày cả sự sinh khởi lẫn sự đoạn diệt của toàn bộ khối khổ. SN 12.23 trình bày một chuỗi điều kiện hỗ trợ từ khổ đến tín, định, tri kiến, ly tham và giải thoát.
+> [Nguyên lý mọi pháp sinh theo điều kiện](https://suttacentral.net/sn12.20) nêu tính điều kiện cụ thể bằng công thức có–sinh và không có–đoạn diệt. [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) định nghĩa mười hai chi rồi trình bày cả sự sinh khởi lẫn sự đoạn diệt của toàn bộ khối khổ. [Từ khổ đau đến giải thoát theo chuỗi hỗ trợ](https://suttacentral.net/sn12.23) trình bày một chuỗi điều kiện hỗ trợ từ khổ đến tín, định, tri kiến, ly tham và giải thoát.
 
 > [!info] Truyền thống giải thích gì
 > Theravāda phát triển nhiều phân tích chi tiết về loại duyên, sát-na và cách các chi vận hành qua các đời. Những hệ thống ấy quan trọng nhưng thuộc Abhidhamma hoặc chú giải khi vượt ngoài chính văn của ba đoạn kinh nền; bài 18 sẽ tách nhãn các cách đọc.
@@ -163,9 +181,9 @@ Thực hành đều đặn cũng cho thấy mạng phản hồi. Một đêm m�
 
 **Nguồn kinh điển chính xác**
 
-- [SN 12.2: Vibhaṅga Sutta](https://suttacentral.net/sn12.2), định nghĩa các chi và hai chiều sinh khởi–đoạn diệt.
-- [SN 12.20: Paccaya Sutta](https://suttacentral.net/sn12.20), công thức tính điều kiện và địa vị của nguyên lý duyên khởi.
-- [SN 12.23: Upanisa Sutta](https://suttacentral.net/sn12.23), chuỗi điều kiện hỗ trợ từ dukkha tới tri kiến giải thoát.
+- [Định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh](https://suttacentral.net/sn12.2), định nghĩa các chi và hai chiều sinh khởi–đoạn diệt.
+- [Nguyên lý mọi pháp sinh theo điều kiện — Tương Ưng Bộ Kinh](https://suttacentral.net/sn12.20), công thức tính điều kiện và địa vị của nguyên lý duyên khởi.
+- [Từ khổ đau đến giải thoát theo chuỗi hỗ trợ — Tương Ưng Bộ Kinh](https://suttacentral.net/sn12.23), chuỗi điều kiện hỗ trợ từ dukkha tới tri kiến giải thoát.
 
 **Đối chiếu thuật ngữ và nghiên cứu có tên**
 

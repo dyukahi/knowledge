@@ -39,16 +39,22 @@ source_license_checked: true
 
 ![căn đối tượng thức hội thành xúc, thọ mang ba sắc độ và ái vươn tay nắm nhưng giữa các mắt có không gian quan sát](../assets/illustrations/theravada-batch2/theravada-13-ba-mat-xich.webp)
 
-> **Pāli — MN 148, đoạn `mn148:9.3`**
+> [!quote] Kinh về sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh
+> Đoạn Kinh nêu rằng do duyên mắt và các hình sắc, nhãn thức sinh khởi; sự gặp nhau của ba là xúc; do duyên xúc có thọ; do duyên thọ có ái.
+>
+> **Pāli**
 > *Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā;*
 >
-> **Bản dịch làm việc:** “Do duyên mắt và các hình sắc, nhãn thức sinh khởi; sự gặp nhau của ba là xúc; do duyên xúc có thọ; do duyên thọ có ái.”
+> **Dịch Việt**
+> “Do duyên mắt và các hình sắc, nhãn thức sinh khởi; sự gặp nhau của ba là xúc; do duyên xúc có thọ; do duyên thọ có ái.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn148">MN 148, đoạn 9.3</a> · <i>Chachakka Sutta</i></small>
 
 **Phassa — đọc gần đúng “phát-sa” — xúc, sự tiếp chạm do căn, đối tượng và thức tương ứng gặp nhau**; **vedanā — “vê-đa-na” — cảm thọ dễ chịu, khó chịu hoặc trung tính**; **taṇhā — “tan-ha” — ái, cơn khát muốn có, muốn tiếp tục hoặc muốn thoát**. Ba thuật ngữ thường được rút thành mũi tên “xúc → thọ → ái”. Mũi tên hữu ích nếu nhắc điều kiện; nguy hiểm nếu bị hiểu như ba viên bi buộc phải đẩy nhau.
 
-[SN 12.2, Vibhaṅga Sutta](https://suttacentral.net/sn12.2) định nghĩa các chi duyên khởi: sáu xúc thân là xúc; sáu thọ thân là thọ; dục ái, hữu ái và phi hữu ái là ái. Công thức “do duyên xúc, thọ; do duyên thọ, ái” đặt chúng trong chuỗi rộng từ vô minh đến già chết. Bài kinh trình bày quan hệ có điều kiện, không đồng hồ đo từng bước.
+[Định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh](https://suttacentral.net/sn12.2) định nghĩa các chi duyên khởi: sáu xúc thân là xúc; sáu thọ thân là thọ; dục ái, hữu ái và phi hữu ái là ái. Công thức “do duyên xúc, thọ; do duyên thọ, ái” đặt chúng trong chuỗi rộng từ vô minh đến già chết. Bài kinh trình bày quan hệ có điều kiện, không đồng hồ đo từng bước.
 
-[MN 148, Chachakka Sutta](https://suttacentral.net/mn148) cho độ phân giải theo sáu cửa. Do mắt và hình sắc, nhãn thức sinh; ba yếu tố gặp nhau là nhãn xúc; do nhãn xúc có thọ; do thọ có ái liên hệ. Cấu trúc lặp cho tai, mũi, lưỡi, thân và ý. Như vậy, một suy nghĩ có thể tham gia chuỗi giống một âm thanh hay xúc chạm.
+[Sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh](https://suttacentral.net/mn148) cho độ phân giải theo sáu cửa. Do mắt và hình sắc, nhãn thức sinh; ba yếu tố gặp nhau là nhãn xúc; do nhãn xúc có thọ; do thọ có ái liên hệ. Cấu trúc lặp cho tai, mũi, lưỡi, thân và ý. Như vậy, một suy nghĩ có thể tham gia chuỗi giống một âm thanh hay xúc chạm.
 
 Vedanā không phải toàn bộ “cảm xúc”. Một cảm xúc phức tạp như ghen gồm thọ khó chịu, tưởng, ký ức, ý định, thân và câu chuyện bản sắc. Nếu gọi toàn bộ là thọ, người học khó thấy khoảnh khắc đơn giản hơn: cái đang được nếm là dễ chịu, khó chịu hay trung tính. Chính sự đơn giản ấy cho phép nhận ra ái đang đòi kéo gần, đẩy xa hoặc bỏ qua.
 
@@ -60,7 +66,7 @@ Vedanā không phải toàn bộ “cảm xúc”. Một cảm xúc phức tạp
 
 Trong tiếng Việt, “xúc” dễ gợi tiếp xúc thân thể. Phassa trong Kinh rộng hơn: nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc và ý xúc. Một ký ức đi vào ý có thể tạo ý xúc; một dòng chữ qua mắt tạo nhãn xúc. Không cần hai vật thể cọ nhau. Điều quyết định là ba điều kiện căn–đối tượng–thức gặp trong một sự kiện nhận biết.
 
-MN 148 không nói căn tự tạo thức. Mắt mà không có hình sắc thích hợp không tạo nhãn thức liên hệ; hình mà không có căn vận hành cũng không thành cái được thấy. Thức không đứng ngoài thu dữ liệu như linh hồn. Xúc gọi tên sự hội đủ. Đây là cách đọc quan hệ, không phải mô hình giải phẫu hay vật lý.
+[Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) không nói căn tự tạo thức. Mắt mà không có hình sắc thích hợp không tạo nhãn thức liên hệ; hình mà không có căn vận hành cũng không thành cái được thấy. Thức không đứng ngoài thu dữ liệu như linh hồn. Xúc gọi tên sự hội đủ. Đây là cách đọc quan hệ, không phải mô hình giải phẫu hay vật lý.
 
 Phân biệt này giúp trong đời thường. Một tin nhắn nằm trên máy nhiều giờ, nhưng chuỗi liên hệ chưa hiện trong kinh nghiệm của ta cho đến khi mắt thấy hoặc ý nhớ. Khi thấy, kiểu chữ là đối tượng mắt; nghĩa và ký ức tiếp tục qua ý. “Tin nhắn làm tôi giận” nén nhiều quan hệ thành một nhân đơn. Mở nó ra tạo cơ hội kiểm tra nghĩa và phản ứng.
 
@@ -74,12 +80,18 @@ Khi xúc đã sinh, nó không cần trở thành câu chuyện “tôi đã th�
 
 ![ba dải lạc khổ trung tính đi qua sáu cửa, phía sau là nhiều cảm xúc phức tạp chưa bị đồng nhất](../assets/illustrations/theravada-batch2/theravada-13-ba-sac-tho.webp)
 
-> **Pāli — MN 148, đoạn `mn148:8.3`**
+> [!quote] Kinh về sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh
+> Đoạn Kinh nêu rằng do duyên mắt và các hình sắc, nhãn thức sinh khởi; sự gặp nhau của ba là xúc; do duyên xúc có thọ.
+>
+> **Pāli**
 > *Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā;*
 >
-> **Bản dịch làm việc:** “Do duyên mắt và các hình sắc, nhãn thức sinh khởi; sự gặp nhau của ba là xúc; do duyên xúc có thọ.”
+> **Dịch Việt**
+> “Do duyên mắt và các hình sắc, nhãn thức sinh khởi; sự gặp nhau của ba là xúc; do duyên xúc có thọ.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn148">MN 148, đoạn 8.3</a> · <i>Chachakka Sutta</i></small>
 
-SN 12.2 nói sáu nhóm thọ theo cửa; MN 148 khảo sát thọ do từng loại xúc sinh. Các bài khác phân loại ba thọ: lạc, khổ, không-lạc-không-khổ; đôi nơi phân biệt thân và tâm. Mẫu số chung là chiều dễ chịu–khó chịu–trung tính, không phải danh sách vui buồn giận sợ như tâm lý học phổ thông.
+[Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) nói sáu nhóm thọ theo cửa; [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) khảo sát thọ do từng loại xúc sinh. Các bài khác phân loại ba thọ: lạc, khổ, không-lạc-không-khổ; đôi nơi phân biệt thân và tâm. Mẫu số chung là chiều dễ chịu–khó chịu–trung tính, không phải danh sách vui buồn giận sợ như tâm lý học phổ thông.
 
 Một niềm vui có thể gồm lạc thọ và ý nghĩa “tôi thuộc về”; nỗi buồn gồm khổ thọ, ký ức mất mát, tưởng và ý muốn. Gọi đúng vedanā không làm cảm xúc nghèo đi. Nó tách một thành phần để thấy cảm xúc được cấu tạo, qua đó có nhiều chỗ chăm sóc hơn: thân cần nghỉ, nhận dạng cần kiểm, mất mát cần được thương tiếc.
 
@@ -95,14 +107,20 @@ Trong một cuộc họp, lời phản bác tạo xúc; thọ khó chịu có th
 
 ![ba sắc thọ cạnh ba hướng ái muốn có muốn thành muốn biến mất, nền mờ ghi vô minh như điều kiện](../assets/illustrations/theravada-batch2/theravada-13-tho-den-ai.webp)
 
-> **Pāli — SN 12.2, đoạn `sn12.2:2.6–2.8`**
+> [!quote] Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh
+> Đoạn Kinh nêu rằng do duyên sáu xứ có xúc; do duyên xúc có thọ; do duyên thọ có ái.
+>
+> **Pāli**
 > *saḷāyatanapaccayā phasso; phassapaccayā vedanā; vedanāpaccayā taṇhā;*
 >
-> **Bản dịch làm việc:** “Do duyên sáu xứ có xúc; do duyên xúc có thọ; do duyên thọ có ái.”
+> **Dịch Việt**
+> “Do duyên sáu xứ có xúc; do duyên xúc có thọ; do duyên thọ có ái.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn12.2">SN 12.2, đoạn 2.6–2.8</a> · <i>Vibhaṅga Sutta</i></small>
 
-Taṇhā trong SN 12.2 có ba: **kāma-taṇhā**, dục ái đối với khoái lạc giác quan; **bhava-taṇhā**, hữu ái, khát tồn tại hay trở thành; **vibhava-taṇhā**, phi hữu ái, khát không tồn tại hoặc loại bỏ. Một lạc thọ có thể nuôi “thêm nữa”; khổ thọ nuôi “phải biến mất”; thọ trung tính nuôi “tôi cần thành ai đó để thấy sống”.
+Taṇhā trong [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) có ba: **kāma-taṇhā**, dục ái đối với khoái lạc giác quan; **bhava-taṇhā**, hữu ái, khát tồn tại hay trở thành; **vibhava-taṇhā**, phi hữu ái, khát không tồn tại hoặc loại bỏ. Một lạc thọ có thể nuôi “thêm nữa”; khổ thọ nuôi “phải biến mất”; thọ trung tính nuôi “tôi cần thành ai đó để thấy sống”.
 
-Nhưng câu “thọ duyên ái” không có nghĩa mọi thọ tất yếu tạo ái trong mọi người ở mọi lúc. Toàn chuỗi duyên khởi vận hành với vô minh. MN 148 đối lập người không được học, phát ái với người được học thấy vô thường và ly tham. Nếu chuyển tiếp hoàn toàn bắt buộc, giải thoát sẽ không thể có.
+Nhưng câu “thọ duyên ái” không có nghĩa mọi thọ tất yếu tạo ái trong mọi người ở mọi lúc. Toàn chuỗi duyên khởi vận hành với vô minh. [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) đối lập người không được học, phát ái với người được học thấy vô thường và ly tham. Nếu chuyển tiếp hoàn toàn bắt buộc, giải thoát sẽ không thể có.
 
 “Điểm can thiệp” vì vậy không phải khe vật lý giữa hai mili-giây. Đó là khả năng nhận biết thọ mà không nuôi cơn khát. Khả năng này tùy giới, định, niệm, chánh kiến, sức khỏe và môi trường. Không nên biến nó thành ý chí cá nhân: “nếu còn ái là chưa đủ tỉnh”. Các điều kiện huấn luyện phải được xây lâu dài.
 
@@ -124,7 +142,7 @@ Ngược lại, chỉ thay cấu trúc không tự động chấm dứt tham sâ
 
 Một vòng cũng có phản hồi. Ái dẫn đến thủ và hữu; lựa chọn lặp tạo môi trường cùng thói quen cho xúc sau. Người nghiện điện thoại sắp ứng dụng để dễ chạm; xúc mới tạo thọ và ái tiếp. Thay vị trí điện thoại là thay điều kiện, không phải gian lận thực hành.
 
-Đừng tuyên bố khoa học thần kinh chứng minh chuỗi này. Các nghiên cứu thói quen có thể tạo so sánh hiện đại, nhưng thuật ngữ, phép đo và mục tiêu khác. MN 148 và SN 12.2 đủ làm nguồn kinh; bằng chứng khoa học không cần để ban tính hợp pháp cho giáo pháp và cũng không bị giáo pháp thay thế.
+Đừng tuyên bố khoa học thần kinh chứng minh chuỗi này. Các nghiên cứu thói quen có thể tạo so sánh hiện đại, nhưng thuật ngữ, phép đo và mục tiêu khác. [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) và [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) đủ làm nguồn kinh; bằng chứng khoa học không cần để ban tính hợp pháp cho giáo pháp và cũng không bị giáo pháp thay thế.
 
 Kỷ luật nhân quả làm lòng bi thực tế hơn. Khi phản ứng lặp, thay câu “tôi hỏng” bằng “những điều kiện nào đang nuôi nó?”. Câu hỏi không miễn trách nhiệm; nó chỉ chuyển trách nhiệm từ tự kết án sang thay điều kiện và sửa hậu quả.
 
@@ -149,7 +167,7 @@ Sau một tuần, tìm mẫu thay vì điểm số. Cửa nào thường dẫn �
 ![bốn ô nguồn bao quanh chuỗi xúc thọ ái với biển cảnh báo không tất định](../assets/illustrations/theravada-batch2/theravada-13-bon-hop-khang-dinh.webp)
 
 > [!quote] Văn bản nói gì
-> SN 12.2 định nghĩa sáu xúc thân, sáu thọ thân và ba loại ái, đồng thời đặt xúc duyên thọ và thọ duyên ái trong duyên khởi. MN 148 triển khai chuỗi theo sáu căn và đối lập chấp ái với cái thấy vô thường dẫn đến ly tham.
+> [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) định nghĩa sáu xúc thân, sáu thọ thân và ba loại ái, đồng thời đặt xúc duyên thọ và thọ duyên ái trong duyên khởi. [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) triển khai chuỗi theo sáu căn và đối lập chấp ái với cái thấy vô thường dẫn đến ly tham.
 
 > [!info] Truyền thống giải thích gì
 > Theravāda xem thọ là vị lạc, khổ, trung tính và thường nhấn mạnh đây là nơi niệm có thể ngăn phản ứng thành ái. Các phân tích sát-na chi tiết thuộc hệ thống hậu kỳ phải được gắn nhãn riêng.
@@ -164,13 +182,13 @@ Sau một tuần, tìm mẫu thay vì điểm số. Cửa nào thường dẫn �
 
 **Nguồn kinh chính xác**
 
-- [SN 12.2: Vibhaṅga Sutta](https://suttacentral.net/sn12.2), nguồn định nghĩa xúc, thọ, ba ái và quan hệ trong duyên khởi.
-- [MN 148: Chachakka Sutta](https://suttacentral.net/mn148), nguồn cho chuỗi sáu cửa và khả năng ly tham.
+- [Định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh](https://suttacentral.net/sn12.2), nguồn định nghĩa xúc, thọ, ba ái và quan hệ trong duyên khởi.
+- [Sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh](https://suttacentral.net/mn148), nguồn cho chuỗi sáu cửa và khả năng ly tham.
 
 **Đối chiếu thuật ngữ và nghiên cứu có tên**
 
 - Bhikkhu Bodhi, *The Connected Discourses of the Buddha*, Wisdom Publications, 2000, đối chiếu Nidāna Saṃyutta.
-- Bhikkhu Ñāṇamoli và Bhikkhu Bodhi, *The Middle Length Discourses of the Buddha*, Wisdom Publications, 1995, đối chiếu MN 148.
+- Bhikkhu Ñāṇamoli và Bhikkhu Bodhi, *The Middle Length Discourses of the Buddha*, Wisdom Publications, 1995, đối chiếu [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148).
 - Bhikkhu Anālayo, *Satipaṭṭhāna: The Direct Path to Realization*, Windhorse, 2003, đối chiếu phạm vi vedanā trong thực hành.
 - [SuttaCentral Editions](https://suttacentral.net/editions), thông tin ấn bản và giấy phép.
 

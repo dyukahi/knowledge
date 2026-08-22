@@ -15,11 +15,16 @@
     10,
     11,
     12,
+    13,
+    14,
+    15,
+    16,
+    17,
     18,
     36
   ],
-  "cards": 41,
-  "passed": 41,
+  "cards": 56,
+  "passed": 56,
   "rows": [
     {
       "lesson": 1,
@@ -270,6 +275,111 @@
       "lesson": 12,
       "source": "SN 35.23, đoạn 1.4–1.6",
       "title": "Kinh về “Tất cả” trong phạm vi sáu căn và sáu trần — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 13,
+      "source": "MN 148, đoạn 8.3",
+      "title": "Kinh về sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 13,
+      "source": "MN 148, đoạn 9.3",
+      "title": "Kinh về sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 13,
+      "source": "SN 12.2, đoạn 2.6–2.8",
+      "title": "Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 14,
+      "source": "DN 15, đoạn 2.16; 2.18",
+      "title": "Kinh về mạng duyên khởi sâu xa — Trường Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 14,
+      "source": "MN 38, đoạn 7.7",
+      "title": "Kinh về thức sinh theo điều kiện — Trung Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 14,
+      "source": "MN 38, đoạn 8.1–8.7",
+      "title": "Kinh về thức sinh theo điều kiện — Trung Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 15,
+      "source": "MN 2, đoạn 8.1–8.8",
+      "title": "Kinh về bảy cách làm cạn các lậu hoặc — Trung Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 15,
+      "source": "SN 22.59, đoạn 2.1–2.5",
+      "title": "Kinh về năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 15,
+      "source": "SN 22.59, đoạn 6.3–6.8",
+      "title": "Kinh về năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 16,
+      "source": "MN 44, đoạn 2.1–2.5",
+      "title": "Kinh về hỏi đáp về thân kiến và thiền — Trung Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 16,
+      "source": "SN 22.1, đoạn 3.4–3.6",
+      "title": "Kinh về thân bệnh nhưng tâm không nhất thiết bệnh — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 16,
+      "source": "SN 22.1, đoạn 9.2–9.6",
+      "title": "Kinh về thân bệnh nhưng tâm không nhất thiết bệnh — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 17,
+      "source": "SN 12.2, đoạn 2.2–2.13",
+      "title": "Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt có dấu lược hiển thị và được ghi Dịch Việt rút gọn."
+    },
+    {
+      "lesson": 17,
+      "source": "SN 12.20, đoạn 3.11–3.17",
+      "title": "Kinh về nguyên lý mọi pháp sinh theo điều kiện — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt có dấu lược hiển thị và được ghi Dịch Việt rút gọn."
+    },
+    {
+      "lesson": 17,
+      "source": "SN 12.23, đoạn 3.14–4.2",
+      "title": "Kinh về từ khổ đau đến giải thoát theo chuỗi hỗ trợ — Tương Ưng Bộ Kinh",
       "translation_label": "Dịch Việt",
       "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
     },
