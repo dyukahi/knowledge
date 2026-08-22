@@ -29,6 +29,20 @@ def card_title(row):
  name=row['display_title_vi'];collection=row['collection_han_viet']
  if row['source_type']=='sutta' and not name.lower().startswith(('kinh ','lời dạy')):name='Kinh về '+name[0].lower()+name[1:]
  return f'{name} — {collection}'
+def passage_intro(row,translation):
+ text=translation.strip().strip('“”"').replace('…',' ')
+ text=re.sub(r'^(Này các (?:Tỳ-kheo|tỳ-kheo|vị),?\s*)','',text)
+ text=' '.join(text.split())
+ sentences=re.split(r'(?<=[.!?])\s+',text,maxsplit=2)
+ first=sentences[0].rstrip('.!?')
+ if len(first)<80 and len(sentences)>1:
+  second=sentences[1].rstrip('.!?')
+  first=(first+'; '+second[:1].lower()+second[1:]).strip()
+ if len(first)>220:
+  first=first[:217].rsplit(' ',1)[0]
+  first=re.sub(r'\s+(?:và|hoặc|các|được)$','',first)+'…'
+ family='Đoạn Luật' if row['source_type']=='vinaya' else 'Đoạn Kinh'
+ return f'{family} nêu rằng {first[0].lower()+first[1:] if first else row["plain_summary"].lower()}.'
 def rewrite(path):
  text=path.read_text();parts=text.split('---',2);front='---'+parts[1]+'---' if len(parts)>2 else '';body=parts[2].lstrip('\n') if len(parts)>2 else text;lines=body.splitlines();out=[];i=0;cards=0
  while i<len(lines):
@@ -41,7 +55,7 @@ def rewrite(path):
     j+=1
    if j>=len(lines):raise RuntimeError(f'missing translation {path}:{i+1}')
    translation=lines[j].split(':**',1)[1].strip();translation_label='Dịch Việt rút gọn' if ('…' in translation or '...' in translation) else 'Dịch Việt';source_text=re.sub(r'`','',locator).replace(row['work_id']+':','')
-   out += [f'> [!quote] {card_title(row)}','> REVIEW_REQUIRED — một câu dẫn trung tính cho exact passage','>', '> **Pāli**',f'> *{" ".join(pali)}*','>',f'> **{translation_label}**',f'> {translation}','>',f'> <small>Nguồn kiểm chứng: <a href="{html.escape(row["canonical_url"])}">{html.escape(row.get("source_display_code") or row["code"])}, {html.escape(source_text)}</a> · <i>{html.escape(row["display_title_pali"] or row["work_id"])}</i></small>'];cards+=1;i=j+1;continue
+   out += [f'> [!quote] {card_title(row)}',f'> {passage_intro(row,translation)}','>', '> **Pāli**',f'> *{" ".join(pali)}*','>',f'> **{translation_label}**',f'> {translation}','>',f'> <small>Nguồn kiểm chứng: <a href="{html.escape(row["canonical_url"])}">{html.escape(row.get("source_display_code") or row["code"])}, {html.escape(source_text)}</a> · <i>{html.escape(row["display_title_pali"] or row["work_id"])}</i></small>'];cards+=1;i=j+1;continue
   out.append(replace_reader_codes(line));i+=1
  path.write_text((front+'\n\n' if front else '')+'\n'.join(out)+'\n');return cards
 def main(argv=None):

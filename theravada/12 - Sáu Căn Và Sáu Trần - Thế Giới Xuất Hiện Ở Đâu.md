@@ -39,18 +39,24 @@ source_license_checked: true
 
 ![sáu cửa mắt tai mũi lưỡi thân ý đối diện sáu trường đối tượng trong một mạng quan hệ](../assets/illustrations/theravada-batch2/theravada-12-muoi-hai-xu.webp)
 
-> **Pāli — SN 35.23, đoạn `sn35.23:1.4–1.6`**
+> [!quote] Kinh về “Tất cả” trong phạm vi sáu căn và sáu trần — Tương Ưng Bộ Kinh
+> Đoạn Kinh nêu rằng thế nào là tất cả; mắt và các hình sắc, tai và các âm thanh, mũi và các mùi, lưỡi và các vị, thân và các đối tượng xúc chạm, ý và các pháp: này các tỳ-kheo, đây được gọi là tất cả.
+>
+> **Pāli**
 > *Kiñca, bhikkhave, sabbaṁ? Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca— idaṁ vuccati, bhikkhave, sabbaṁ.*
 >
-> **Bản dịch làm việc:** “Này các tỳ-kheo, thế nào là tất cả? Mắt và các hình sắc, tai và các âm thanh, mũi và các mùi, lưỡi và các vị, thân và các đối tượng xúc chạm, ý và các pháp: này các tỳ-kheo, đây được gọi là tất cả.”
+> **Dịch Việt**
+> “Này các tỳ-kheo, thế nào là tất cả? Mắt và các hình sắc, tai và các âm thanh, mũi và các mùi, lưỡi và các vị, thân và các đối tượng xúc chạm, ý và các pháp: này các tỳ-kheo, đây được gọi là tất cả.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn35.23">SN 35.23, đoạn 1.4–1.6</a> · <i>Sabba Sutta</i></small>
 
 **Āyatana — đọc gần đúng “a-ya-ta-na” — xứ, nền hay phạm vi giác quan và đối tượng** chỉ mười hai miền khi được trình bày thành sáu cặp: mắt–hình sắc, tai–âm thanh, mũi–mùi, lưỡi–vị, thân–đối tượng xúc chạm, ý–các pháp. Tiếng Việt thường gọi phía trong là sáu căn và phía ngoài là sáu trần. “Trong” và “ngoài” ở đây là vai trò trong cấu trúc nhận biết, không nhất thiết là một đường biên siêu hình tuyệt đối.
 
-[SN 35.23, Sabba Sutta](https://suttacentral.net/sn35.23) định nghĩa “tất cả” bằng chính sáu cặp ấy. Nếu ai tuyên bố bác bỏ cái tất cả này và mô tả một cái tất cả khác, bài kinh nói lời ấy chỉ là khẳng định suông: khi bị hỏi, người ấy không thể trình bày và sẽ lúng túng. Lý do là cái được nói nằm ngoài phạm vi. Đây là tuyên bố mạnh về phạm vi kinh nghiệm và diễn ngôn.
+[“Tất cả” trong phạm vi sáu căn và sáu trần — Tương Ưng Bộ Kinh](https://suttacentral.net/sn35.23) định nghĩa “tất cả” bằng chính sáu cặp ấy. Nếu ai tuyên bố bác bỏ cái tất cả này và mô tả một cái tất cả khác, bài kinh nói lời ấy chỉ là khẳng định suông: khi bị hỏi, người ấy không thể trình bày và sẽ lúng túng. Lý do là cái được nói nằm ngoài phạm vi. Đây là tuyên bố mạnh về phạm vi kinh nghiệm và diễn ngôn.
 
 Nhưng “tất cả” không nên được kéo thành kết luận rằng vũ trụ vật lý chỉ tồn tại trong đầu tôi, hoặc không có gì ngoài tri giác cá nhân. Bài kinh nói trong ngữ cảnh Saḷāyatana Saṃyutta, nơi giác quan, đối tượng, thức, xúc, thọ và chấp thủ được khảo sát để đoạn khổ. Nó xác định cái toàn thể có thể được biết và nói trong cấu trúc kinh nghiệm; nó không cung cấp một mô hình vũ trụ học duy tâm hoàn chỉnh.
 
-[MN 148, Chachakka Sutta](https://suttacentral.net/mn148) mở rộng bản đồ thành sáu bộ sáu: sáu căn, sáu trần, sáu thức, sáu xúc, sáu thọ và sáu ái. Bài kinh cho thấy kinh nghiệm không bật ra từ một căn đơn độc. Mắt không tự thấy nếu thiếu hình sắc và nhãn thức; sự gặp nhau của ba yếu tố được gọi là xúc. Từ xúc, thọ liên hệ xuất hiện.
+[Sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh](https://suttacentral.net/mn148) mở rộng bản đồ thành sáu bộ sáu: sáu căn, sáu trần, sáu thức, sáu xúc, sáu thọ và sáu ái. Bài kinh cho thấy kinh nghiệm không bật ra từ một căn đơn độc. Mắt không tự thấy nếu thiếu hình sắc và nhãn thức; sự gặp nhau của ba yếu tố được gọi là xúc. Từ xúc, thọ liên hệ xuất hiện.
 
 Vì vậy câu “thế giới xuất hiện ở đâu?” không được trả lời bằng một tọa độ trong sọ. Nó xuất hiện theo quan hệ: căn có khả năng, đối tượng hiện diện, thức tương ứng sinh, xúc và thọ nối tiếp. Cách nói “quan hệ” là tổng hợp giải thích; văn bản nền mô tả các điều kiện cụ thể. Bản đồ chuyển câu hỏi từ “ai bên trong đang xem?” sang “nhận biết này tùy những gì?”.
 
@@ -62,14 +68,20 @@ Vì vậy câu “thế giới xuất hiện ở đâu?” không được trả
 
 Một tiếng động không trở thành đối tượng của mắt; màu không được nếm bằng lưỡi. Giới hạn này có giá trị thực hành: cái ta gọi “thế giới” ở một khoảnh khắc luôn được cấu hình bởi cửa đang hoạt động và điều kiện của nó. Trong phòng tối, hình sắc không hiện như ban ngày; tai suy giảm làm trường âm đổi; sốt làm vị khác. Không cần phủ nhận vật ngoài để thấy kinh nghiệm luôn có điều kiện.
 
-> **Pāli — MN 148, đoạn `mn148:4.3`, `mn148:5.3`**
-> *Cakkhāyatanaṁ, sotāyatanaṁ, ghānāyatanaṁ, jivhāyatanaṁ, kāyāyatanaṁ, manāyatanaṁ. … Rūpāyatanaṁ, saddāyatanaṁ, gandhāyatanaṁ, rasāyatanaṁ, phoṭṭhabbāyatanaṁ, dhammāyatanaṁ.*
+> [!quote] Kinh về sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh
+> Đoạn Kinh nêu rằng nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ, thân xứ và ý xứ; sắc xứ, thanh xứ, hương xứ, vị xứ, xúc xứ và pháp xứ.
 >
-> **Bản dịch làm việc:** “Nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ, thân xứ và ý xứ. Sắc xứ, thanh xứ, hương xứ, vị xứ, xúc xứ và pháp xứ.”
+> **Pāli**
+> *Cakkhāyatanaṁ, sotāyatanaṁ, ghānāyatanaṁ, jivhāyatanaṁ, kāyāyatanaṁ, manāyatanaṁ. Rūpāyatanaṁ, saddāyatanaṁ, gandhāyatanaṁ, rasāyatanaṁ, phoṭṭhabbāyatanaṁ, dhammāyatanaṁ.*
+>
+> **Dịch Việt**
+> “Nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ, thân xứ và ý xứ. Sắc xứ, thanh xứ, hương xứ, vị xứ, xúc xứ và pháp xứ.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn148">MN 148, đoạn 4.3, 5.3</a> · <i>Chachakka Sutta</i></small>
 
 “Căn” cũng không chỉ là cơ quan giải phẫu theo khoa học hiện đại. Trong Kinh, nó là nền khả năng của một loại nhận biết. Đồng nhất hoàn toàn cakkhu với nhãn cầu hay dây thần kinh là giản lược vượt nguồn; ngược lại, biến nó thành năng lượng huyền bí cũng không được văn bản nền hỗ trợ. Bài học giữ thuật ngữ theo chức năng trong Kinh.
 
-MN 148 lặp phép khảo sát: mắt, hình sắc, nhãn thức, nhãn xúc và thọ do nhãn xúc sinh là vô thường; cái vô thường không thích hợp nhận là tự ngã. Cùng cấu trúc áp cho năm cửa còn lại và ý. Điểm nhấn không phải giác quan xấu. Chính qua giác quan ta học, chăm sóc và thực hành; vấn đề là nhận những điều kiện biến đổi làm “tôi” hoặc “của tôi” tuyệt đối.
+[Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) lặp phép khảo sát: mắt, hình sắc, nhãn thức, nhãn xúc và thọ do nhãn xúc sinh là vô thường; cái vô thường không thích hợp nhận là tự ngã. Cùng cấu trúc áp cho năm cửa còn lại và ý. Điểm nhấn không phải giác quan xấu. Chính qua giác quan ta học, chăm sóc và thực hành; vấn đề là nhận những điều kiện biến đổi làm “tôi” hoặc “của tôi” tuyệt đối.
 
 Ví dụ nhìn một người bước vào phòng. Hình sắc cung cấp đường nét và chuyển động; mắt là căn tương ứng; nhãn thức hiện hành. Nhưng “đó là người chống tôi” đã gồm nhận dạng, ký ức và ý. Bản đồ sáu xứ ngăn ta gọi toàn bộ câu chuyện là “tôi chỉ thấy sự thật”. Ta thật sự thấy hình; phần nghĩa cần được kiểm tra.
 
@@ -83,7 +95,7 @@ Ví dụ nhìn một người bước vào phòng. Hình sắc cung cấp đư�
 
 Việc đặt ý cùng hàng với mắt và tai có hậu quả lớn. Một ký ức xuất hiện cũng là sự kiện có căn và đối tượng, không mặc nhiên là tiếng nói của tự ngã. Một kế hoạch, câu tự thoại hay hình dung có thể được biết như pháp đang đến ý. Ta không cần tin tất cả suy nghĩ, cũng không cần ghét suy nghĩ.
 
-Ý không được trình bày như giám đốc độc lập điều khiển năm giác quan từ trung tâm. MN 148 nói ý, các pháp và ý thức theo cùng cấu trúc điều kiện như các cặp khác. Ý cũng vô thường và không dưới quyền tuyệt đối. Nếu nó là chủ nhân bất biến, ta có thể ra lệnh chỉ nghĩ điều muốn nghĩ; kinh nghiệm thông thường cho thấy ý niệm sinh do nhiều điều kiện.
+Ý không được trình bày như giám đốc độc lập điều khiển năm giác quan từ trung tâm. [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) nói ý, các pháp và ý thức theo cùng cấu trúc điều kiện như các cặp khác. Ý cũng vô thường và không dưới quyền tuyệt đối. Nếu nó là chủ nhân bất biến, ta có thể ra lệnh chỉ nghĩ điều muốn nghĩ; kinh nghiệm thông thường cho thấy ý niệm sinh do nhiều điều kiện.
 
 Đây cũng là lý do sáu căn không trùng “năm giác quan cộng linh hồn”. Cửa thứ sáu là một chức năng nhận biết đối tượng tâm, không bằng chứng cho thực thể phi vật chất trường tồn. Bài 14 sẽ làm rõ thức tùy căn và đối tượng; bài 15 khảo sát việc nhận các chức năng ấy làm tự ngã.
 
@@ -95,12 +107,18 @@ Trong thiền, khi âm thanh nổi bật, biết cửa tai; khi bình luận “
 
 ![ba vòng căn đối tượng thức giao nhau thành xúc rồi lan sang thọ, không vòng nào tự đủ](../assets/illustrations/theravada-batch2/theravada-12-quan-he-ba-yeu-to.webp)
 
-> **Pāli — MN 148, đoạn `mn148:7.3`**
+> [!quote] Kinh về sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh
+> Đoạn Kinh nêu rằng do duyên mắt và các hình sắc, nhãn thức sinh khởi; sự gặp nhau của ba là xúc.
+>
+> **Pāli**
 > *Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso;*
 >
-> **Bản dịch làm việc:** “Do duyên mắt và các hình sắc, nhãn thức sinh khởi; sự gặp nhau của ba là xúc.”
+> **Dịch Việt**
+> “Do duyên mắt và các hình sắc, nhãn thức sinh khởi; sự gặp nhau của ba là xúc.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn148">MN 148, đoạn 7.3</a> · <i>Chachakka Sutta</i></small>
 
-MN 148 nói do duyên mắt và hình sắc, nhãn thức sinh; sự gặp nhau của ba là xúc. Công thức lặp qua sáu cửa. **Viññāṇa — “vin-nha-na” — thức, nhận biết phân biệt** vì thế được gọi theo quan hệ: nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức, ý thức. Không có “thức chung” được văn bản nền này nêu như chất nền tự tồn.
+[Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) nói do duyên mắt và hình sắc, nhãn thức sinh; sự gặp nhau của ba là xúc. Công thức lặp qua sáu cửa. **Viññāṇa — “vin-nha-na” — thức, nhận biết phân biệt** vì thế được gọi theo quan hệ: nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức, ý thức. Không có “thức chung” được văn bản nền này nêu như chất nền tự tồn.
 
 Quan hệ không có nghĩa ba vật hoàn toàn độc lập va vào nhau như bi-a. Công thức là cách nhận diện các điều kiện cần cho một sự kiện biết. Cũng không nên biến nó thành sơ đồ thần kinh hay thời lượng mili-giây. Kinh dùng bản đồ để thấy vô thường, không phải tự ngã, ái và sự giải thoát; nó không trình bày một thí nghiệm sinh lý.
 
@@ -116,7 +134,7 @@ Thế giới kinh nghiệm vừa công khai vừa riêng phần. Nhiều ngườ
 
 ![vòng mười hai xứ bao quanh trường mô tả, bên ngoài để trắng thay vì gắn nhãn không tồn tại](../assets/illustrations/theravada-batch2/theravada-12-pham-vi-tat-ca.webp)
 
-SN 35.23 thường hấp dẫn những kết luận lớn: “chỉ có ý thức”, “vũ trụ là tâm”, “vật chất không tồn tại”. Nhưng bài kinh không dùng các mệnh đề ấy. Nó liệt kê cái tất cả theo sáu cặp và nói một cái khác nằm ngoài phạm vi diễn đạt. Từ giới hạn của mô tả không suy ra bản thể của mọi thứ là tâm.
+[“Tất cả” trong phạm vi sáu căn và sáu trần](https://suttacentral.net/sn35.23) thường hấp dẫn những kết luận lớn: “chỉ có ý thức”, “vũ trụ là tâm”, “vật chất không tồn tại”. Nhưng bài kinh không dùng các mệnh đề ấy. Nó liệt kê cái tất cả theo sáu cặp và nói một cái khác nằm ngoài phạm vi diễn đạt. Từ giới hạn của mô tả không suy ra bản thể của mọi thứ là tâm.
 
 Một cách đọc thận trọng: bất kỳ bằng chứng nào ta nêu về thế giới cũng phải đi vào kinh nghiệm qua một cửa, kể cả số liệu được đọc và lý thuyết được nghĩ. Điều này đặt giới hạn nhận thức. Nó không nói thiết bị, ngôi sao hay người khác biến mất khi không được cá nhân nhìn. Đó là suy luận vượt văn bản nền.
 
@@ -124,7 +142,7 @@ Tương tự, “dhamma là đối tượng ý” không biến mọi pháp thà
 
 Các so sánh với hiện tượng học hoặc khoa học nhận thức có thể hữu ích trong một mục riêng, nhưng không phải bằng chứng từ Kinh. Bài này chủ ý không viện não để “chứng minh” sáu xứ. Khái niệm hiện đại và āyatana được sinh trong mục tiêu, phương pháp và ngôn ngữ khác nhau; tương đồng không tạo đồng nhất.
 
-Phạm vi đúng còn bảo vệ đạo đức. Nếu thế giới “chỉ là tâm tôi”, nỗi đau người khác dễ bị thu nhỏ thành hình chiếu. MN 148 không dạy duy ngã; nó đặt thọ và ái vào chuỗi có hậu quả. Người khác, thân thể, lời nói và hành vi vẫn là điều kiện phải được đối xử với giới và lòng bi.
+Phạm vi đúng còn bảo vệ đạo đức. Nếu thế giới “chỉ là tâm tôi”, nỗi đau người khác dễ bị thu nhỏ thành hình chiếu. [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) không dạy duy ngã; nó đặt thọ và ái vào chuỗi có hậu quả. Người khác, thân thể, lời nói và hành vi vẫn là điều kiện phải được đối xử với giới và lòng bi.
 
 Do đó, “thế giới xuất hiện ở đâu” là câu hỏi thực hành: ngay nơi sáu cặp và các quan hệ liên hệ, ta quan sát sự sinh của xúc, thọ, ái và chấp. Nó không phải tuyên bố cuối cùng về vũ trụ ngoài mọi kinh nghiệm. Giữ giới hạn này khiến giáo lý sắc hơn, không yếu hơn.
 
@@ -149,10 +167,10 @@ Sau bài tập, hỏi: cửa nào thường bị bỏ quên; ý có giả làm s
 ![bốn ô kiểm chứng đặt cạnh vòng sáu căn sáu trần và ranh giới phạm vi](../assets/illustrations/theravada-batch2/theravada-12-bon-hop-khang-dinh.webp)
 
 > [!quote] Văn bản nói gì
-> SN 35.23 gọi mắt–sắc, tai–tiếng, mũi–mùi, lưỡi–vị, thân–xúc chạm và ý–các pháp là “tất cả”. MN 148 trình bày sáu căn, sáu trần, sáu thức, sáu xúc, sáu thọ, sáu ái và khảo sát chúng là vô thường, không thích hợp nhận làm tự ngã.
+> [“Tất cả” trong phạm vi sáu căn và sáu trần](https://suttacentral.net/sn35.23) gọi mắt–sắc, tai–tiếng, mũi–mùi, lưỡi–vị, thân–xúc chạm và ý–các pháp là “tất cả”. [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) trình bày sáu căn, sáu trần, sáu thức, sáu xúc, sáu thọ, sáu ái và khảo sát chúng là vô thường, không thích hợp nhận làm tự ngã.
 
 > [!info] Truyền thống giải thích gì
-> Theravāda dùng mười hai xứ như một bản đồ đầy đủ của cửa kinh nghiệm và dùng hộ trì căn trong tu tập. Các phân loại vi tế hậu kỳ có giá trị trong hệ riêng nhưng không được bài này gán thành nguyên văn SN 35.23 hay MN 148.
+> Theravāda dùng mười hai xứ như một bản đồ đầy đủ của cửa kinh nghiệm và dùng hộ trì căn trong tu tập. Các phân loại vi tế hậu kỳ có giá trị trong hệ riêng nhưng không được bài này gán thành nguyên văn [“Tất cả” trong phạm vi sáu căn và sáu trần](https://suttacentral.net/sn35.23) hay [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148).
 
 > [!example] Bài này suy luận gì
 > Các ví dụ thư điện tử, điện thoại, giao tiếp và bài tập gọi tên sáu cửa là tổng hợp biên tập. Cách nói kinh nghiệm “sinh theo quan hệ” tóm lược công thức căn–đối tượng–thức–xúc, không mô tả một cơ chế vật lý.
@@ -164,13 +182,13 @@ Sau bài tập, hỏi: cửa nào thường bị bỏ quên; ý có giả làm s
 
 **Nguồn kinh chính xác**
 
-- [SN 35.23: Sabba Sutta](https://suttacentral.net/sn35.23), nguồn cho phạm vi “tất cả” như sáu căn và sáu trần.
-- [MN 148: Chachakka Sutta](https://suttacentral.net/mn148), nguồn cho sáu bộ sáu và công thức căn–đối tượng–thức–xúc–thọ–ái.
+- [“Tất cả” trong phạm vi sáu căn và sáu trần — Tương Ưng Bộ Kinh](https://suttacentral.net/sn35.23), nguồn cho phạm vi “tất cả” như sáu căn và sáu trần.
+- [Sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh](https://suttacentral.net/mn148), nguồn cho sáu bộ sáu và công thức căn–đối tượng–thức–xúc–thọ–ái.
 
 **Đối chiếu thuật ngữ và nghiên cứu có tên**
 
 - Bhikkhu Bodhi, *The Connected Discourses of the Buddha*, Wisdom Publications, 2000, đối chiếu Saḷāyatana Saṃyutta.
-- Bhikkhu Ñāṇamoli và Bhikkhu Bodhi, *The Middle Length Discourses of the Buddha*, Wisdom Publications, 1995, đối chiếu MN 148.
+- Bhikkhu Ñāṇamoli và Bhikkhu Bodhi, *The Middle Length Discourses of the Buddha*, Wisdom Publications, 1995, đối chiếu [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148).
 - Bhikkhu Anālayo, *A đối chiếu Study of the Majjhima-nikāya*, Dharma Drum, 2011, về phương pháp đọc công thức theo văn cảnh.
 - [SuttaCentral Editions](https://suttacentral.net/editions), thông tin ấn bản và giấy phép.
 

@@ -9,12 +9,25 @@
     4,
     5,
     6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
     18,
     36
   ],
-  "cards": 23,
-  "passed": 23,
+  "cards": 41,
+  "passed": 41,
   "rows": [
+    {
+      "lesson": 1,
+      "source": "DN 16",
+      "title": "Kinh về những ngày cuối của Đức Phật — Trường Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Bản dịch bao phủ đầy đủ câu Pháp–Luật sẽ là thầy sau khi Đức Phật qua đời; prose dùng nó cho sự tiếp nối của cộng đồng, không mở rộng thành claim khác."
+    },
     {
       "lesson": 1,
       "source": "MN 26",
@@ -28,48 +41,6 @@
       "title": "Kinh về khổ hạnh và con đường giác ngộ — Trung Bộ Kinh",
       "translation_label": "Dịch Việt rút gọn",
       "review_note": "Bản Việt lược phần ký ức sơ thiền bằng dấu ba chấm; câu dẫn và prose giữ đúng claim bác tự hành xác và tìm một con đường khác đến giác ngộ."
-    },
-    {
-      "lesson": 1,
-      "source": "DN 16",
-      "title": "Kinh về những ngày cuối của Đức Phật — Trường Bộ Kinh",
-      "translation_label": "Dịch Việt",
-      "review_note": "Bản dịch bao phủ đầy đủ câu Pháp–Luật sẽ là thầy sau khi Đức Phật qua đời; prose dùng nó cho sự tiếp nối của cộng đồng, không mở rộng thành claim khác."
-    },
-    {
-      "lesson": 18,
-      "source": "SN 12.2:2.2–2.3",
-      "title": "Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh",
-      "translation_label": "Dịch Việt",
-      "review_note": "Hai mắt xích vô minh→hành→thức được dịch đủ; câu dẫn giới hạn ở điều kiện phát sinh, không biến thức thành linh hồn."
-    },
-    {
-      "lesson": 18,
-      "source": "DN 15:3.1",
-      "title": "Kinh về mạng duyên khởi sâu xa — Trường Bộ Kinh",
-      "translation_label": "Dịch Việt rút gọn",
-      "review_note": "Pāli tiếp tục qua sinh, già-chết và khổ; bản Việt dừng ở hữu nên được ghi rút gọn. Câu dẫn nói đầy đủ chuỗi và prose giải thích quan hệ dạng mạng."
-    },
-    {
-      "lesson": 18,
-      "source": "SN 12.2:4.1–4.3",
-      "title": "Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh",
-      "translation_label": "Dịch Việt",
-      "review_note": "Định nghĩa jāti được dịch đủ; prose dùng làm neo cho cách đọc ba đời mà không phủ nhận các tầng giải thích khác."
-    },
-    {
-      "lesson": 36,
-      "source": "AN 3.65:4.1–4.3",
-      "title": "Kinh về cách thẩm tra lời dạy — Tăng Chi Bộ Kinh",
-      "translation_label": "Dịch Việt",
-      "review_note": "Bản dịch bao phủ đủ danh sách các nền tảng không nên dựa riêng và mệnh đề từ bỏ pháp bất thiện dẫn đến khổ; prose không biến nó thành khẩu hiệu chỉ tin bản thân hay phòng thí nghiệm."
-    },
-    {
-      "lesson": 36,
-      "source": "SN 22.59:2.1,2.4,2.5",
-      "title": "Kinh về năm uẩn không phải tự ngã — Tương Ưng Bộ Kinh",
-      "translation_label": "Dịch Việt rút gọn",
-      "review_note": "Bản dịch dùng dấu ba chấm cho mệnh đề ra lệnh đối với sắc và được ghi rút gọn; prose giữ phép quán vô ngã tách khỏi suy luận neuroscience."
     },
     {
       "lesson": 2,
@@ -115,6 +86,13 @@
     },
     {
       "lesson": 4,
+      "source": "AN 3.65:4.2–4.3;26.2–26.3",
+      "title": "Kinh về thẩm tra lời dạy qua hậu quả thiện và bất thiện — Tăng Chi Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Two noncontiguous passages are separated by an explicit ellipsis; translation covers unwholesome abandonment and wholesome cultivation without repeating the source clause or promoting blanket skepticism."
+    },
+    {
+      "lesson": 4,
       "source": "MN 22:10.3–10.7",
       "title": "Kinh về ví dụ con rắn và chiếc bè — Trung Bộ Kinh",
       "translation_label": "Dịch Việt rút gọn",
@@ -128,18 +106,18 @@
       "review_note": "The translation visibly abbreviates the repeated preservation-of-truth formula; introduction accurately distinguishes honest belief preservation from personal realization of truth."
     },
     {
-      "lesson": 4,
-      "source": "AN 3.65:4.2–4.3;26.2–26.3",
-      "title": "Kinh về thẩm tra lời dạy qua hậu quả thiện và bất thiện — Tăng Chi Bộ Kinh",
-      "translation_label": "Dịch Việt rút gọn",
-      "review_note": "Two noncontiguous passages are separated by an explicit ellipsis; translation covers unwholesome abandonment and wholesome cultivation without repeating the source clause or promoting blanket skepticism."
-    },
-    {
       "lesson": 5,
       "source": "SN 56.11:4.1–4.5",
       "title": "Dukkha và nguồn sinh của dukkha — Tương Ưng Bộ Kinh",
       "translation_label": "Dịch Việt rút gọn",
       "review_note": "Translation visibly abbreviates the detailed dukkha list while retaining five clinging aggregates and the three forms of craving; introduction stays within the two truths quoted."
+    },
+    {
+      "lesson": 5,
+      "source": "SN 56.11:4.6–4.10",
+      "title": "Sự đoạn diệt và con đường — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Translation visibly omits the internal path-factor enumeration and accurately identifies craving cessation and the Noble Eightfold Path."
     },
     {
       "lesson": 5,
@@ -149,11 +127,11 @@
       "review_note": "Four noncontiguous source groups are displayed once each in canonical order with three visible separators; Vietnamese mirrors the compression with three visible ellipses while preserving understand, abandon, realize, and develop."
     },
     {
-      "lesson": 5,
-      "source": "SN 56.11:4.6–4.10",
-      "title": "Sự đoạn diệt và con đường — Tương Ưng Bộ Kinh",
+      "lesson": 6,
+      "source": "SN 22.59:6.1–6.18",
+      "title": "Năm uẩn: vô thường, dukkha và không phải tự ngã — Tương Ưng Bộ Kinh",
       "translation_label": "Dịch Việt rút gọn",
-      "review_note": "Translation visibly omits the internal path-factor enumeration and accurately identifies craving cessation and the Noble Eightfold Path."
+      "review_note": "Pāli abbreviates repeated aggregate questioning; Vietnamese visibly marks the compression and accurately applies the same impermanence/dukkha/not-self test to feeling, perception, formations, and consciousness."
     },
     {
       "lesson": 6,
@@ -170,11 +148,165 @@
       "review_note": "Canonical source contains …pe…; Vietnamese visibly marks the compression and retains the specific task pariññeyya, understanding dukkha fully."
     },
     {
-      "lesson": 6,
-      "source": "SN 22.59:6.1–6.18",
-      "title": "Năm uẩn: vô thường, dukkha và không phải tự ngã — Tương Ưng Bộ Kinh",
+      "lesson": 7,
+      "source": "MN 148, đoạn 8.3–8.8",
+      "title": "Kinh về sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 7,
+      "source": "SN 12.2, đoạn 2.8–2.10",
+      "title": "Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 7,
+      "source": "SN 12.2, đoạn 6.1–6.4",
+      "title": "Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 8,
+      "source": "SN 45.8, đoạn 10.1, 10.2",
+      "title": "Kinh về giải thích từng chi của Bát Chánh Đạo — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 8,
+      "source": "SN 45.8, đoạn 3.2, 3.3",
+      "title": "Kinh về giải thích từng chi của Bát Chánh Đạo — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 8,
+      "source": "SN 45.8, đoạn 5.2, 5.3",
+      "title": "Kinh về giải thích từng chi của Bát Chánh Đạo — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 9,
+      "source": "DN 2, đoạn 42.1",
+      "title": "Kinh về quả của đời sống xuất gia — Trường Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 9,
+      "source": "DN 2, đoạn 43.1",
+      "title": "Kinh về quả của đời sống xuất gia — Trường Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 9,
+      "source": "DN 2, đoạn 74.4, 75.1",
+      "title": "Kinh về quả của đời sống xuất gia — Trường Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 10,
+      "source": "SN 12.15, đoạn 2.2, 2.3",
+      "title": "Kinh về không mắc kẹt giữa có và không — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 10,
+      "source": "SN 56.11, đoạn 2.3",
+      "title": "Kinh về bốn sự thật và con đường tránh hai cực — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 10,
+      "source": "SN 56.11, đoạn 2.4",
+      "title": "Kinh về bốn sự thật và con đường tránh hai cực — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 11,
+      "source": "SN 22.59, đoạn 2.1–2.5",
+      "title": "Kinh về năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 11,
+      "source": "SN 22.59, đoạn 3.1, 4.1–4.2, 5.1",
+      "title": "Kinh về năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh",
       "translation_label": "Dịch Việt rút gọn",
-      "review_note": "Pāli abbreviates repeated aggregate questioning; Vietnamese visibly marks the compression and accurately applies the same impermanence/dukkha/not-self test to feeling, perception, formations, and consciousness."
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt có dấu lược hiển thị và được ghi Dịch Việt rút gọn."
+    },
+    {
+      "lesson": 11,
+      "source": "SN 22.95, đoạn 9.1–9.5",
+      "title": "Kinh về năm uẩn rỗng lõi qua năm hình ảnh — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 12,
+      "source": "MN 148, đoạn 4.3, 5.3",
+      "title": "Kinh về sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 12,
+      "source": "MN 148, đoạn 7.3",
+      "title": "Kinh về sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 12,
+      "source": "SN 35.23, đoạn 1.4–1.6",
+      "title": "Kinh về “Tất cả” trong phạm vi sáu căn và sáu trần — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 18,
+      "source": "DN 15:3.1",
+      "title": "Kinh về mạng duyên khởi sâu xa — Trường Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Pāli tiếp tục qua sinh, già-chết và khổ; bản Việt dừng ở hữu nên được ghi rút gọn. Câu dẫn nói đầy đủ chuỗi và prose giải thích quan hệ dạng mạng."
+    },
+    {
+      "lesson": 18,
+      "source": "SN 12.2:2.2–2.3",
+      "title": "Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Hai mắt xích vô minh→hành→thức được dịch đủ; câu dẫn giới hạn ở điều kiện phát sinh, không biến thức thành linh hồn."
+    },
+    {
+      "lesson": 18,
+      "source": "SN 12.2:4.1–4.3",
+      "title": "Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Định nghĩa jāti được dịch đủ; prose dùng làm neo cho cách đọc ba đời mà không phủ nhận các tầng giải thích khác."
+    },
+    {
+      "lesson": 36,
+      "source": "AN 3.65:4.1–4.3",
+      "title": "Kinh về cách thẩm tra lời dạy — Tăng Chi Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Bản dịch bao phủ đủ danh sách các nền tảng không nên dựa riêng và mệnh đề từ bỏ pháp bất thiện dẫn đến khổ; prose không biến nó thành khẩu hiệu chỉ tin bản thân hay phòng thí nghiệm."
+    },
+    {
+      "lesson": 36,
+      "source": "SN 22.59:2.1,2.4,2.5",
+      "title": "Kinh về năm uẩn không phải tự ngã — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt rút gọn",
+      "review_note": "Bản dịch dùng dấu ba chấm cho mệnh đề ra lệnh đối với sắc và được ghi rút gọn; prose giữ phép quán vô ngã tách khỏi suy luận neuroscience."
     }
   ]
 }

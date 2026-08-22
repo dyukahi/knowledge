@@ -8,11 +8,17 @@
     4,
     5,
     6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
     18,
     36
   ],
-  "cards": 23,
-  "passed": 23,
+  "cards": 41,
+  "passed": 41,
   "all_pass": true,
   "rows": [
     {
@@ -538,6 +544,460 @@
       ],
       "actual_sha256": "cd13f9a7f2b2ba8a2e93cc0aa02c51d98ecdf9f4f648bd213de2b4e48cbda36a",
       "visible_separator_count": 3,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 7,
+      "source_key": "SN 12.2",
+      "work_id": "sn12.2",
+      "segment_groups": [
+        [
+          "sn12.2:2.8",
+          "sn12.2:2.9",
+          "sn12.2:2.10"
+        ]
+      ],
+      "segments": [
+        "sn12.2:2.8",
+        "sn12.2:2.9",
+        "sn12.2:2.10"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn12.2/sujato?lang=en",
+      "raw_sha256": "e9f14650df1e6298481c56c481eaadb427dae421e38f94882e2387951f7eeaac",
+      "normalized_group_sha256": [
+        "e9f14650df1e6298481c56c481eaadb427dae421e38f94882e2387951f7eeaac"
+      ],
+      "actual_sha256": "e9f14650df1e6298481c56c481eaadb427dae421e38f94882e2387951f7eeaac",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 7,
+      "source_key": "SN 12.2",
+      "work_id": "sn12.2",
+      "segment_groups": [
+        [
+          "sn12.2:6.1",
+          "sn12.2:6.2",
+          "sn12.2:6.3",
+          "sn12.2:6.4"
+        ]
+      ],
+      "segments": [
+        "sn12.2:6.1",
+        "sn12.2:6.2",
+        "sn12.2:6.3",
+        "sn12.2:6.4"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn12.2/sujato?lang=en",
+      "raw_sha256": "cb75b0ade719673878bc2a97920db4255931202cd61e65efdd19760a90599eb3",
+      "normalized_group_sha256": [
+        "cb75b0ade719673878bc2a97920db4255931202cd61e65efdd19760a90599eb3"
+      ],
+      "actual_sha256": "cb75b0ade719673878bc2a97920db4255931202cd61e65efdd19760a90599eb3",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 7,
+      "source_key": "MN 148",
+      "work_id": "mn148",
+      "segment_groups": [
+        [
+          "mn148:8.3",
+          "mn148:8.4",
+          "mn148:8.5",
+          "mn148:8.6",
+          "mn148:8.7",
+          "mn148:8.8"
+        ]
+      ],
+      "segments": [
+        "mn148:8.3",
+        "mn148:8.4",
+        "mn148:8.5",
+        "mn148:8.6",
+        "mn148:8.7",
+        "mn148:8.8"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn148/sujato?lang=en",
+      "raw_sha256": "5fb55328185138cc8cde46888470a75ac24f5814755477db778084b26c9ae2f9",
+      "normalized_group_sha256": [
+        "5fb55328185138cc8cde46888470a75ac24f5814755477db778084b26c9ae2f9"
+      ],
+      "actual_sha256": "5fb55328185138cc8cde46888470a75ac24f5814755477db778084b26c9ae2f9",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 8,
+      "source_key": "SN 45.8",
+      "work_id": "sn45.8",
+      "segment_groups": [
+        [
+          "sn45.8:3.2",
+          "sn45.8:3.3"
+        ]
+      ],
+      "segments": [
+        "sn45.8:3.2",
+        "sn45.8:3.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn45.8/sujato?lang=en",
+      "raw_sha256": "e7068426153c037769c9b45e9a81a564cac50f99b774376cce9dbf23161d0968",
+      "normalized_group_sha256": [
+        "e7068426153c037769c9b45e9a81a564cac50f99b774376cce9dbf23161d0968"
+      ],
+      "actual_sha256": "e7068426153c037769c9b45e9a81a564cac50f99b774376cce9dbf23161d0968",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 8,
+      "source_key": "SN 45.8",
+      "work_id": "sn45.8",
+      "segment_groups": [
+        [
+          "sn45.8:5.2",
+          "sn45.8:5.3"
+        ]
+      ],
+      "segments": [
+        "sn45.8:5.2",
+        "sn45.8:5.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn45.8/sujato?lang=en",
+      "raw_sha256": "ab1a5795c60152b0b28a4846bf1bb66e67ad0c5ccd47c24fb33caf2dc8c6070e",
+      "normalized_group_sha256": [
+        "ab1a5795c60152b0b28a4846bf1bb66e67ad0c5ccd47c24fb33caf2dc8c6070e"
+      ],
+      "actual_sha256": "ab1a5795c60152b0b28a4846bf1bb66e67ad0c5ccd47c24fb33caf2dc8c6070e",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 8,
+      "source_key": "SN 45.8",
+      "work_id": "sn45.8",
+      "segment_groups": [
+        [
+          "sn45.8:10.1",
+          "sn45.8:10.2"
+        ]
+      ],
+      "segments": [
+        "sn45.8:10.1",
+        "sn45.8:10.2"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn45.8/sujato?lang=en",
+      "raw_sha256": "0dbab3fb5ffd0be1f69421f4aa8d31b45823b58bd257c55a0a21e6dd6b973832",
+      "normalized_group_sha256": [
+        "0dbab3fb5ffd0be1f69421f4aa8d31b45823b58bd257c55a0a21e6dd6b973832"
+      ],
+      "actual_sha256": "0dbab3fb5ffd0be1f69421f4aa8d31b45823b58bd257c55a0a21e6dd6b973832",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 9,
+      "source_key": "DN 2",
+      "work_id": "dn2",
+      "segment_groups": [
+        [
+          "dn2:42.1"
+        ]
+      ],
+      "segments": [
+        "dn2:42.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/dn2/sujato?lang=en",
+      "raw_sha256": "96ba98abee620c1110ed8b509c3f2d22245a0d1c0fabab3a129b86ddaba90e96",
+      "normalized_group_sha256": [
+        "96ba98abee620c1110ed8b509c3f2d22245a0d1c0fabab3a129b86ddaba90e96"
+      ],
+      "actual_sha256": "96ba98abee620c1110ed8b509c3f2d22245a0d1c0fabab3a129b86ddaba90e96",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 9,
+      "source_key": "DN 2",
+      "work_id": "dn2",
+      "segment_groups": [
+        [
+          "dn2:43.1"
+        ]
+      ],
+      "segments": [
+        "dn2:43.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/dn2/sujato?lang=en",
+      "raw_sha256": "2b44970bf924ba58224da1f06aaa23c89d08dcc0316d319ee633620016518508",
+      "normalized_group_sha256": [
+        "2b44970bf924ba58224da1f06aaa23c89d08dcc0316d319ee633620016518508"
+      ],
+      "actual_sha256": "2b44970bf924ba58224da1f06aaa23c89d08dcc0316d319ee633620016518508",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 9,
+      "source_key": "DN 2",
+      "work_id": "dn2",
+      "segment_groups": [
+        [
+          "dn2:74.4",
+          "dn2:75.1"
+        ]
+      ],
+      "segments": [
+        "dn2:74.4",
+        "dn2:75.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/dn2/sujato?lang=en",
+      "raw_sha256": "b82d6839e4dd19e5d2fa1becc8444ec82688e40c2be36a0bbaf271d4f43edce6",
+      "normalized_group_sha256": [
+        "b82d6839e4dd19e5d2fa1becc8444ec82688e40c2be36a0bbaf271d4f43edce6"
+      ],
+      "actual_sha256": "b82d6839e4dd19e5d2fa1becc8444ec82688e40c2be36a0bbaf271d4f43edce6",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 10,
+      "source_key": "SN 56.11",
+      "work_id": "sn56.11",
+      "segment_groups": [
+        [
+          "sn56.11:2.3"
+        ]
+      ],
+      "segments": [
+        "sn56.11:2.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn56.11/sujato?lang=en",
+      "raw_sha256": "ad1e411d691b848b4e2d9f67afa02f9152b3063a691d199381187f2d2fd294e2",
+      "normalized_group_sha256": [
+        "ad1e411d691b848b4e2d9f67afa02f9152b3063a691d199381187f2d2fd294e2"
+      ],
+      "actual_sha256": "ad1e411d691b848b4e2d9f67afa02f9152b3063a691d199381187f2d2fd294e2",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 10,
+      "source_key": "SN 56.11",
+      "work_id": "sn56.11",
+      "segment_groups": [
+        [
+          "sn56.11:2.4"
+        ]
+      ],
+      "segments": [
+        "sn56.11:2.4"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn56.11/sujato?lang=en",
+      "raw_sha256": "55518c986f3199bd4a010cbdc23dba31856641b8816bc843066c585baa470427",
+      "normalized_group_sha256": [
+        "55518c986f3199bd4a010cbdc23dba31856641b8816bc843066c585baa470427"
+      ],
+      "actual_sha256": "55518c986f3199bd4a010cbdc23dba31856641b8816bc843066c585baa470427",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 10,
+      "source_key": "SN 12.15",
+      "work_id": "sn12.15",
+      "segment_groups": [
+        [
+          "sn12.15:2.2",
+          "sn12.15:2.3"
+        ]
+      ],
+      "segments": [
+        "sn12.15:2.2",
+        "sn12.15:2.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn12.15/sujato?lang=en",
+      "raw_sha256": "6c2f431e77de902435b0dffd1d10ff84925fb295dc573d0063f4725cea30fa49",
+      "normalized_group_sha256": [
+        "6c2f431e77de902435b0dffd1d10ff84925fb295dc573d0063f4725cea30fa49"
+      ],
+      "actual_sha256": "6c2f431e77de902435b0dffd1d10ff84925fb295dc573d0063f4725cea30fa49",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 11,
+      "source_key": "SN 22.59",
+      "work_id": "sn22.59",
+      "segment_groups": [
+        [
+          "sn22.59:2.1",
+          "sn22.59:2.2",
+          "sn22.59:2.3",
+          "sn22.59:2.4",
+          "sn22.59:2.5"
+        ]
+      ],
+      "segments": [
+        "sn22.59:2.1",
+        "sn22.59:2.2",
+        "sn22.59:2.3",
+        "sn22.59:2.4",
+        "sn22.59:2.5"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn22.59/sujato?lang=en",
+      "raw_sha256": "2ba61dd7f22a73bc7e7aeb39f61ea9c5c149a3f202a4fa04e44f77ccfd57f0bb",
+      "normalized_group_sha256": [
+        "2ba61dd7f22a73bc7e7aeb39f61ea9c5c149a3f202a4fa04e44f77ccfd57f0bb"
+      ],
+      "actual_sha256": "2ba61dd7f22a73bc7e7aeb39f61ea9c5c149a3f202a4fa04e44f77ccfd57f0bb",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 11,
+      "source_key": "SN 22.59",
+      "work_id": "sn22.59",
+      "segment_groups": [
+        [
+          "sn22.59:3.1",
+          "sn22.59:4.1",
+          "sn22.59:4.2",
+          "sn22.59:5.1"
+        ]
+      ],
+      "segments": [
+        "sn22.59:3.1",
+        "sn22.59:4.1",
+        "sn22.59:4.2",
+        "sn22.59:5.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn22.59/sujato?lang=en",
+      "raw_sha256": "900659b9de4ca9c2df2d9e03efdfd7b313dc275ac563c7cf11e425829e1af773",
+      "normalized_group_sha256": [
+        "900659b9de4ca9c2df2d9e03efdfd7b313dc275ac563c7cf11e425829e1af773"
+      ],
+      "actual_sha256": "900659b9de4ca9c2df2d9e03efdfd7b313dc275ac563c7cf11e425829e1af773",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 11,
+      "source_key": "SN 22.95",
+      "work_id": "sn22.95",
+      "segment_groups": [
+        [
+          "sn22.95:9.1",
+          "sn22.95:9.2",
+          "sn22.95:9.3",
+          "sn22.95:9.4",
+          "sn22.95:9.5"
+        ]
+      ],
+      "segments": [
+        "sn22.95:9.1",
+        "sn22.95:9.2",
+        "sn22.95:9.3",
+        "sn22.95:9.4",
+        "sn22.95:9.5"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn22.95/sujato?lang=en",
+      "raw_sha256": "f30b788d9b92aace776f5ecfec81871b80fd15fe376c421e3d40607b24ff33de",
+      "normalized_group_sha256": [
+        "f30b788d9b92aace776f5ecfec81871b80fd15fe376c421e3d40607b24ff33de"
+      ],
+      "actual_sha256": "f30b788d9b92aace776f5ecfec81871b80fd15fe376c421e3d40607b24ff33de",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 12,
+      "source_key": "SN 35.23",
+      "work_id": "sn35.23",
+      "segment_groups": [
+        [
+          "sn35.23:1.4",
+          "sn35.23:1.5",
+          "sn35.23:1.6"
+        ]
+      ],
+      "segments": [
+        "sn35.23:1.4",
+        "sn35.23:1.5",
+        "sn35.23:1.6"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn35.23/sujato?lang=en",
+      "raw_sha256": "9fe8870730d9c075cec625cbe4e652ffdec8ad897a59585dc39868899d29e5b0",
+      "normalized_group_sha256": [
+        "9fe8870730d9c075cec625cbe4e652ffdec8ad897a59585dc39868899d29e5b0"
+      ],
+      "actual_sha256": "9fe8870730d9c075cec625cbe4e652ffdec8ad897a59585dc39868899d29e5b0",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 12,
+      "source_key": "MN 148",
+      "work_id": "mn148",
+      "segment_groups": [
+        [
+          "mn148:4.3",
+          "mn148:5.3"
+        ]
+      ],
+      "segments": [
+        "mn148:4.3",
+        "mn148:5.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn148/sujato?lang=en",
+      "raw_sha256": "f83f3f9268481c8a6bcdd15b3566a57b032816c08b97617f9d85716f0f8393ac",
+      "normalized_group_sha256": [
+        "f83f3f9268481c8a6bcdd15b3566a57b032816c08b97617f9d85716f0f8393ac"
+      ],
+      "actual_sha256": "f83f3f9268481c8a6bcdd15b3566a57b032816c08b97617f9d85716f0f8393ac",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 12,
+      "source_key": "MN 148",
+      "work_id": "mn148",
+      "segment_groups": [
+        [
+          "mn148:7.3"
+        ]
+      ],
+      "segments": [
+        "mn148:7.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn148/sujato?lang=en",
+      "raw_sha256": "4bc9d55bd335a7de3641da08ff4617b3c78d1904b0583ad8a4e23f850554eab9",
+      "normalized_group_sha256": [
+        "4bc9d55bd335a7de3641da08ff4617b3c78d1904b0583ad8a4e23f850554eab9"
+      ],
+      "actual_sha256": "4bc9d55bd335a7de3641da08ff4617b3c78d1904b0583ad8a4e23f850554eab9",
+      "visible_separator_count": 0,
       "group_count": 1,
       "exact_match": true
     },

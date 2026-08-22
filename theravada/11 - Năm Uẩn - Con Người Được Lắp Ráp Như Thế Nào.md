@@ -39,16 +39,22 @@ source_license_checked: true
 
 ![năm dòng sắc thọ tưởng hành thức giao nhau quanh một đời sống nhưng không đóng thành lõi bất biến](../assets/illustrations/theravada-batch2/theravada-11-nam-dong-kinh-nghiem.webp)
 
-> **Pāli — SN 22.59, đoạn `sn22.59:2.1–2.5`**
+> [!quote] Kinh về năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh
+> Đoạn Kinh nêu rằng sắc là vô ngã; nếu sắc là tự ngã thì sắc đã không dẫn đến khổ não, và đối với sắc người ta có thể khiến: ‘Sắc của tôi hãy như thế này; sắc của tôi đừng như thế kia.’ Nhưng vì sắc là vô ngã nên sắc dẫn đến khổ não,….
+>
+> **Pāli**
 > *“Rūpaṁ, bhikkhave, anattā. Rūpañca hidaṁ, bhikkhave, attā abhavissa, nayidaṁ rūpaṁ ābādhāya saṁvatteyya, labbhetha ca rūpe: ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti. Yasmā ca kho, bhikkhave, rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati, na ca labbhati rūpe: ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti.*
 >
-> **Bản dịch làm việc:** “Này các tỳ-kheo, sắc là vô ngã. Nếu sắc là tự ngã thì sắc đã không dẫn đến khổ não, và đối với sắc người ta có thể khiến: ‘Sắc của tôi hãy như thế này; sắc của tôi đừng như thế kia.’ Nhưng vì sắc là vô ngã nên sắc dẫn đến khổ não, và không thể khiến sắc theo ý như vậy.”
+> **Dịch Việt**
+> “Này các tỳ-kheo, sắc là vô ngã. Nếu sắc là tự ngã thì sắc đã không dẫn đến khổ não, và đối với sắc người ta có thể khiến: ‘Sắc của tôi hãy như thế này; sắc của tôi đừng như thế kia.’ Nhưng vì sắc là vô ngã nên sắc dẫn đến khổ não, và không thể khiến sắc theo ý như vậy.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn22.59">SN 22.59, đoạn 2.1–2.5</a> · <i>Anattalakkhaṇa Sutta</i></small>
 
 **Khandha — đọc gần đúng “khan-đa” — uẩn, nhóm hay khối tập hợp** là cách Kinh Pāli gom những gì ta thường nhận làm “tôi” và “của tôi” thành năm phạm vi để khảo sát. Năm phạm vi ấy là **rūpa** (sắc), **vedanā** (thọ), **saññā** (tưởng), **saṅkhāra** (hành) và **viññāṇa** (thức). Chúng không phải năm viên gạch bí mật, năm tầng năng lượng hay năm chất nằm cạnh nhau bên trong một con người. “Uẩn” là công cụ phân tích kinh nghiệm đang đổi thay.
 
-[SN 22.59, Anattalakkhaṇa Sutta](https://suttacentral.net/sn22.59) lần lượt hỏi về từng uẩn: nó thường còn hay vô thường; cái vô thường là dễ chịu hay chịu sức ép; cái vô thường, dukkha và biến đổi có thích hợp để xem “đây là của tôi, đây là tôi, đây là tự ngã của tôi” không. Cấu trúc lặp lại khiến người đọc quan sát thay vì xây một học thuyết vật chất về con người.
+[Năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh](https://suttacentral.net/sn22.59) lần lượt hỏi về từng uẩn: nó thường còn hay vô thường; cái vô thường là dễ chịu hay chịu sức ép; cái vô thường, dukkha và biến đổi có thích hợp để xem “đây là của tôi, đây là tôi, đây là tự ngã của tôi” không. Cấu trúc lặp lại khiến người đọc quan sát thay vì xây một học thuyết vật chất về con người.
 
-[SN 22.95, Pheṇapiṇḍūpama Sutta](https://suttacentral.net/sn22.95) dùng năm ví dụ: sắc như khối bọt, thọ như bong bóng nước, tưởng như ảo ảnh, hành như thân cây chuối không lõi gỗ và thức như trò huyễn. Các ví dụ nói về tính rỗng lõi bền chắc khi được xem xét kỹ. Chúng không nói rằng không có kinh nghiệm, thân không đau, hay hành động không gây hậu quả.
+[Năm uẩn rỗng lõi qua năm hình ảnh — Tương Ưng Bộ Kinh](https://suttacentral.net/sn22.95) dùng năm ví dụ: sắc như khối bọt, thọ như bong bóng nước, tưởng như ảo ảnh, hành như thân cây chuối không lõi gỗ và thức như trò huyễn. Các ví dụ nói về tính rỗng lõi bền chắc khi được xem xét kỹ. Chúng không nói rằng không có kinh nghiệm, thân không đau, hay hành động không gây hậu quả.
 
 Cụm quan trọng hơn “năm uẩn” trong Tứ Thánh Đế là **pañcupādānakkhandhā**, năm uẩn bị chấp thủ. **Upādāna — “u-pa-đa-na” — thủ, nắm lấy, chiếm hữu hoặc lấy làm nền bản sắc** cho thấy vấn đề không phải năm nhóm là tội lỗi. Vấn đề phát sinh khi những gì có điều kiện bị giao nhiệm vụ làm một cái tôi ổn định và thuộc quyền tuyệt đối.
 
@@ -60,14 +66,20 @@ Cụm quan trọng hơn “năm uẩn” trong Tứ Thánh Đế là **pañcupā
 
 **Rūpa — “ru-pa” — sắc, phương diện thân thể hay vật chất** không chỉ có nghĩa “hình ảnh”. Trong công thức thường gặp, sắc được trình bày qua bốn đại và sắc do bốn đại tạo. Ở cấp đọc thực hành, đó là thân có nhiệt, độ cứng, chuyển động, kết dính; là mắt tai mũi lưỡi thân; là điều bị đói, bệnh, già và cần chăm sóc. Gọi thân là sắc uẩn không làm nó giả. Trái lại, nó buộc ta thấy thân cụ thể và điều kiện của thân.
 
-SN 22.59 dùng tiêu chí quyền điều khiển: nếu sắc là tự ngã theo nghĩa một chủ thể làm chủ tuyệt đối, ta có thể ra lệnh “thân tôi hãy thế này, đừng thế kia”. Ta có ảnh hưởng tương đối qua dinh dưỡng, luyện tập, thuốc và nghỉ ngơi; nhưng không có chủ quyền tối hậu trước lão hóa, tai nạn hay bệnh. Lập luận không khuyến khích bỏ chăm sóc. Chính vì thân tùy điều kiện, thay điều kiện là hành động có ý nghĩa.
+[Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) dùng tiêu chí quyền điều khiển: nếu sắc là tự ngã theo nghĩa một chủ thể làm chủ tuyệt đối, ta có thể ra lệnh “thân tôi hãy thế này, đừng thế kia”. Ta có ảnh hưởng tương đối qua dinh dưỡng, luyện tập, thuốc và nghỉ ngơi; nhưng không có chủ quyền tối hậu trước lão hóa, tai nạn hay bệnh. Lập luận không khuyến khích bỏ chăm sóc. Chính vì thân tùy điều kiện, thay điều kiện là hành động có ý nghĩa.
 
-Ví dụ bọt trong SN 22.95 cũng có phạm vi. Nhìn từ xa, khối bọt có hình và gây ấn tượng về một vật đặc; nhìn kỹ, nó là vô số màng nước sinh rồi vỡ. Tương tự, thân có tính liên tục quy ước nhưng không có lõi bất biến nằm ngoài thành phần và điều kiện. Bọt vẫn ướt; thân vẫn có thể bị thương. Ví dụ không cho phép xem nhẹ đau đớn của mình hay người khác.
+Ví dụ bọt trong [Năm uẩn rỗng lõi qua năm hình ảnh](https://suttacentral.net/sn22.95) cũng có phạm vi. Nhìn từ xa, khối bọt có hình và gây ấn tượng về một vật đặc; nhìn kỹ, nó là vô số màng nước sinh rồi vỡ. Tương tự, thân có tính liên tục quy ước nhưng không có lõi bất biến nằm ngoài thành phần và điều kiện. Bọt vẫn ướt; thân vẫn có thể bị thương. Ví dụ không cho phép xem nhẹ đau đớn của mình hay người khác.
 
-> **Pāli — SN 22.59, đoạn `sn22.59:3.1`, `sn22.59:4.1–4.2`, `sn22.59:5.1`**
-> *Vedanā anattā. … Saññā anattā …pe… saṅkhārā anattā. … Viññāṇaṁ anattā.*
+> [!quote] Kinh về năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh
+> Đoạn Kinh nêu rằng thọ là vô ngã; tưởng là vô ngã các hành là vô ngã.
 >
-> **Bản dịch làm việc:** “Thọ là vô ngã. Tưởng là vô ngã… các hành là vô ngã. Thức là vô ngã.”
+> **Pāli**
+> *Vedanā anattā. Saññā anattā …pe… saṅkhārā anattā. Viññāṇaṁ anattā.*
+>
+> **Dịch Việt rút gọn**
+> “Thọ là vô ngã. Tưởng là vô ngã… các hành là vô ngã. Thức là vô ngã.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn22.59">SN 22.59, đoạn 3.1, 4.1–4.2, 5.1</a> · <i>Anattalakkhaṇa Sutta</i></small>
 
 **Vedanā — “vê-đa-na” — cảm thọ, sắc thái dễ chịu, khó chịu hoặc trung tính** không đồng nghĩa toàn bộ “cảm xúc”. Một cơn giận có thể gồm khó chịu, nhận dạng một lời là xúc phạm, ý muốn phản công, ký ức và các phản ứng thân. Vedanā chỉ nhấn vào chiều vị: kinh nghiệm đang được nếm là lạc, khổ hay không-lạc-không-khổ. Dịch nó thành toàn bộ cảm xúc sẽ làm mất chính điểm can thiệp tinh tế của các bài sau.
 
@@ -81,7 +93,7 @@ Sắc và thọ cho thấy hai sai lầm đối nghịch. Một bên coi thân v
 
 **Saññā — “san-nha” — tưởng, sự nhận dạng, ghi dấu hay tri giác phân loại** giúp ta nhận ra màu, tiếng, gương mặt, từ ngữ và mẫu quen. “Tưởng” trong tiếng Việt dễ bị hiểu chỉ là tưởng tượng sai. Nhưng saññā cũng vận hành khi ta nhận đúng chiếc cốc, nhớ đường hoặc nhận diện một giọng nói. Nó tạo khả năng sống trong một thế giới có tên, đồng thời có thể đóng dấu quá nhanh.
 
-Ảo ảnh của SN 22.95 không hàm ý mọi nhận thức đều dối. Người khát nhìn ánh rung và tưởng nước minh họa khoảng cách giữa dấu hiệu với vật được gán. Ta thường gặp một nét mặt rồi nhận thành “họ khinh tôi”, nghe sự im lặng rồi nhận thành “tôi bị bỏ”. Có khi đúng, có khi sai; saññā cần được kiểm tra bằng văn cảnh và bằng chứng. Cái không đáng tin tuyệt đối vẫn có chức năng quy ước.
+Ảo ảnh của [Năm uẩn rỗng lõi qua năm hình ảnh](https://suttacentral.net/sn22.95) không hàm ý mọi nhận thức đều dối. Người khát nhìn ánh rung và tưởng nước minh họa khoảng cách giữa dấu hiệu với vật được gán. Ta thường gặp một nét mặt rồi nhận thành “họ khinh tôi”, nghe sự im lặng rồi nhận thành “tôi bị bỏ”. Có khi đúng, có khi sai; saññā cần được kiểm tra bằng văn cảnh và bằng chứng. Cái không đáng tin tuyệt đối vẫn có chức năng quy ước.
 
 **Saṅkhāra — “sang-kha-ra” — hành, tạo tác hoặc yếu tố tạo điều kiện tùy văn cảnh** là từ khó nhất trong năm. Ở vị trí hành uẩn, nó bao quát các tạo tác tâm, đặc biệt những ý hướng, khuynh hướng và phản ứng tạo hình kinh nghiệm. Ở công thức khác, saṅkhāra có thể chỉ rộng hơn mọi pháp hữu vi. Không nên lấy nghĩa từ một câu rồi áp máy móc cho mọi câu.
 
@@ -95,16 +107,22 @@ Khi thấy vậy, hành động đạo đức có khoảng trống. Ta có thể
 
 ![sáu cửa giác quan lần lượt sáng khi có đối tượng, không có ngọn đèn trung tâm thường hằng](../assets/illustrations/theravada-batch2/theravada-11-thuc-sau-cua.webp)
 
-> **Pāli — SN 22.95, đoạn `sn22.95:9.1–9.5`**
+> [!quote] Kinh về năm uẩn rỗng lõi qua năm hình ảnh — Tương Ưng Bộ Kinh
+> Đoạn Kinh nêu rằng sắc được ví như khối bọt, thọ như bong bóng nước; tưởng như ảo ảnh, các hành như thân cây chuối, và thức như trò huyễn.
+>
+> **Pāli**
 > *“Pheṇapiṇḍūpamaṁ rūpaṁ, vedanā bubbuḷūpamā; Marīcikūpamā saññā, saṅkhārā kadalūpamā; Māyūpamañca viññāṇaṁ,*
 >
-> **Bản dịch làm việc:** “Sắc được ví như khối bọt, thọ như bong bóng nước; tưởng như ảo ảnh, các hành như thân cây chuối, và thức như trò huyễn.”
+> **Dịch Việt**
+> “Sắc được ví như khối bọt, thọ như bong bóng nước; tưởng như ảo ảnh, các hành như thân cây chuối, và thức như trò huyễn.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn22.95">SN 22.95, đoạn 9.1–9.5</a> · <i>Pheṇapiṇḍūpama Sutta</i></small>
 
 **Viññāṇa — “vin-nha-na” — thức, sự nhận biết phân biệt** là uẩn thứ năm. Trong nhiều bài kinh, thức được nói theo sáu loại: nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức và ý thức. Tên của nó gắn với căn và đối tượng liên hệ. Cách trình bày ấy không thuận với việc biến thức thành một người quan sát thuần túy, thường hằng, đứng ngoài mọi điều kiện.
 
-Trò huyễn trong SN 22.95 gây ấn tượng về một vật có thật nơi chỉ có thao tác và điều kiện. Ví dụ mời khảo sát thức để tìm cái gì bền chắc, có thể sở hữu và điều khiển; nó không bảo nhận biết hoàn toàn không xảy ra. Khi mắt, hình sắc và các điều kiện thích hợp gặp nhau, nhãn thức hiện hành; khi điều kiện đổi, kiểu nhận biết đổi. Bài 14 sẽ khảo sát kỹ sự sinh khởi tùy thuộc này.
+Trò huyễn trong [Năm uẩn rỗng lõi qua năm hình ảnh](https://suttacentral.net/sn22.95) gây ấn tượng về một vật có thật nơi chỉ có thao tác và điều kiện. Ví dụ mời khảo sát thức để tìm cái gì bền chắc, có thể sở hữu và điều khiển; nó không bảo nhận biết hoàn toàn không xảy ra. Khi mắt, hình sắc và các điều kiện thích hợp gặp nhau, nhãn thức hiện hành; khi điều kiện đổi, kiểu nhận biết đổi. Bài 14 sẽ khảo sát kỹ sự sinh khởi tùy thuộc này.
 
-Một lỗi tinh tế là chấp bốn uẩn đầu nhưng giữ thức làm “chân ngã”: thân đổi, thọ đổi, tưởng sai, hành biến, song “người biết” phía sau chắc phải bất biến. SN 22.59 không tạo ngoại lệ. Cùng phép hỏi được áp cho viññāṇa: vô thường, chịu đổi và không thích hợp nhận là tôi hay tự ngã của tôi. Đặt một ý thức vũ trụ vào khoảng trống là thêm học thuyết ngoài văn bản.
+Một lỗi tinh tế là chấp bốn uẩn đầu nhưng giữ thức làm “chân ngã”: thân đổi, thọ đổi, tưởng sai, hành biến, song “người biết” phía sau chắc phải bất biến. [Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) không tạo ngoại lệ. Cùng phép hỏi được áp cho viññāṇa: vô thường, chịu đổi và không thích hợp nhận là tôi hay tự ngã của tôi. Đặt một ý thức vũ trụ vào khoảng trống là thêm học thuyết ngoài văn bản.
 
 Lỗi đối diện là nghe thức vô ngã rồi kết luận con người là máy không có lựa chọn. Năm uẩn không phải mô hình vật lý tất định. Kinh giữ tác ý, huấn luyện, trách nhiệm và giải thoát. Những điều đó không cần một linh hồn bất biến; chúng vận hành trong mạng điều kiện. Đừng dùng một bản đồ hướng đến giải thoát để tuyên bố đã giải xong triết học tâm hay cơ chế não.
 
@@ -116,11 +134,11 @@ Vì vậy, năm uẩn là năm cửa khảo sát cùng một kinh nghiệm, khô
 
 ![ba nhãn của tôi tôi tự ngã của tôi rời khỏi năm hình bọt bong bóng ảo ảnh bẹ chuối trò huyễn](../assets/illustrations/theravada-batch2/theravada-11-ba-cau-so-huu.webp)
 
-SN 22.59 lặp công thức phủ định ba cách chấp: “của tôi” là sở hữu; “tôi” là đồng nhất; “tự ngã của tôi” là dựng một chủ thể nền. Ba cách có thể xuất hiện khác nhau. Ta không nhất thiết nghĩ thân chính là linh hồn nhưng vẫn nói “thân phải phục vụ tôi”; không nói cảm giác là tôi nhưng xem trạng thái vui là bằng chứng giá trị của mình.
+[Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) lặp công thức phủ định ba cách chấp: “của tôi” là sở hữu; “tôi” là đồng nhất; “tự ngã của tôi” là dựng một chủ thể nền. Ba cách có thể xuất hiện khác nhau. Ta không nhất thiết nghĩ thân chính là linh hồn nhưng vẫn nói “thân phải phục vụ tôi”; không nói cảm giác là tôi nhưng xem trạng thái vui là bằng chứng giá trị của mình.
 
 Quán uẩn không đòi thay mọi câu nói đời thường. “Tay tôi”, “ký ức của tôi” và “tôi chịu trách nhiệm” là quy ước hữu ích. Vấn đề là mức bám khiến sự thay đổi trở thành đe dọa hiện sinh hoặc khiến ta gây hại để bảo vệ hình ảnh. Kinh làm việc ở chỗ chấp thủ, không tổ chức một cuộc thanh lọc ngữ pháp.
 
-Các ví dụ SN 22.95 phải được giữ đúng mục tiêu: tìm tính bền chắc, thực chất có thể nắm. Bọt có hiện tượng nhưng không lõi đặc; bong bóng xuất hiện rồi vỡ; ảo ảnh tùy góc và điều kiện; thân chuối không có lõi gỗ; trò huyễn đánh lừa nhận dạng. Từ đó không suy ra hiện tượng là hư vô. Một trò huyễn có thể làm người xem sợ; một nhận dạng sai có thể dẫn đến bạo lực; một cảm thọ khó chịu vẫn cần lòng bi.
+Các ví dụ [Năm uẩn rỗng lõi qua năm hình ảnh](https://suttacentral.net/sn22.95) phải được giữ đúng mục tiêu: tìm tính bền chắc, thực chất có thể nắm. Bọt có hiện tượng nhưng không lõi đặc; bong bóng xuất hiện rồi vỡ; ảo ảnh tùy góc và điều kiện; thân chuối không có lõi gỗ; trò huyễn đánh lừa nhận dạng. Từ đó không suy ra hiện tượng là hư vô. Một trò huyễn có thể làm người xem sợ; một nhận dạng sai có thể dẫn đến bạo lực; một cảm thọ khó chịu vẫn cần lòng bi.
 
 Cũng không nên biến từng ví dụ thành bản thể luận khoa học. Bài kinh không nói sắc “thực chất là bọt lượng tử”, thức là mô phỏng máy tính hay hành là chương trình thần kinh. So sánh hiện đại có thể gợi câu hỏi, nhưng không chứng minh lời Kinh và không thuộc hai văn bản nền. Bài này không dùng chúng làm bằng chứng.
 
@@ -149,7 +167,7 @@ Bài thực hành này là suy luận biên tập dựa trên hai văn bản n�
 ![bốn ô phân biệt lời kinh truyền thống suy luận và điều chưa chứng minh quanh năm uẩn](../assets/illustrations/theravada-batch2/theravada-11-bon-hop-khang-dinh.webp)
 
 > [!quote] Văn bản nói gì
-> SN 22.59 khảo sát sắc, thọ, tưởng, hành và thức là vô thường, dukkha, chịu biến đổi và không thích hợp xem là “của tôi, tôi, tự ngã của tôi”. SN 22.95 ví năm uẩn với bọt, bong bóng, ảo ảnh, thân chuối và trò huyễn khi được nhìn kỹ để tìm thực chất bền chắc.
+> [Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) khảo sát sắc, thọ, tưởng, hành và thức là vô thường, dukkha, chịu biến đổi và không thích hợp xem là “của tôi, tôi, tự ngã của tôi”. [Năm uẩn rỗng lõi qua năm hình ảnh](https://suttacentral.net/sn22.95) ví năm uẩn với bọt, bong bóng, ảo ảnh, thân chuối và trò huyễn khi được nhìn kỹ để tìm thực chất bền chắc.
 
 > [!info] Truyền thống giải thích gì
 > Theravāda dùng năm uẩn như bản đồ phân tích kinh nghiệm và nhấn mạnh năm thủ uẩn trong chẩn đoán dukkha. Các hệ thống hậu kỳ phân loại chi tiết hơn về sắc, tâm và tâm sở; bài này không gán các bảng hậu kỳ ấy thành nguyên văn của hai bài Kinh sớm.
@@ -164,8 +182,8 @@ Bài thực hành này là suy luận biên tập dựa trên hai văn bản n�
 
 **Nguồn kinh chính xác**
 
-- [SN 22.59: Anattalakkhaṇa Sutta](https://suttacentral.net/sn22.59), nguồn cho phép khảo sát năm uẩn qua vô thường, dukkha và không thích hợp nhận làm tự ngã.
-- [SN 22.95: Pheṇapiṇḍūpama Sutta](https://suttacentral.net/sn22.95), nguồn cho năm ví dụ và phạm vi xem xét tính rỗng lõi bền chắc.
+- [Năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh](https://suttacentral.net/sn22.59), nguồn cho phép khảo sát năm uẩn qua vô thường, dukkha và không thích hợp nhận làm tự ngã.
+- [Năm uẩn rỗng lõi qua năm hình ảnh — Tương Ưng Bộ Kinh](https://suttacentral.net/sn22.95), nguồn cho năm ví dụ và phạm vi xem xét tính rỗng lõi bền chắc.
 
 **Đối chiếu thuật ngữ và nghiên cứu có tên**
 
