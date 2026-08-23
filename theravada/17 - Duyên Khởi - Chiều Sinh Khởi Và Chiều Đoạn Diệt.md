@@ -35,6 +35,13 @@ source_license_checked: true
 
 # Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt
 
+<!-- vault-voice-opening:v1 -->
+
+Duyên khởi thường được vẽ như mười hai ô nối bằng mũi tên. Nhìn lâu, nó dễ biến thành sơ đồ của một cỗ máy xa lạ. Nhưng thử nhìn một cơn giận: điều kiện này có nên điều kia có; khi điều kiện đổi, cả vòng phản ứng đổi.
+
+Điểm giải thoát nằm ngay trong ngữ pháp ấy. Không có gì tự sinh một mình, nên cũng không có vòng lặp nào được bảo đảm phải chạy mãi.
+
+
 ## 1. Không Chỉ Hỏi “Khổ Từ Đâu Đến?” Mà Còn “Khổ Dừng Thế Nào?”
 
 ![hình tượng tự nhiên diễn giải 1. không chỉ hỏi “khổ từ đâu đến?” mà còn “khổ dừng thế nào?” mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-17-1-khong-chi-hoi-kho-tu-au-en-ma-con-kho-dung-.webp)

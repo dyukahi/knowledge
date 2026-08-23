@@ -35,6 +35,13 @@ source_license_checked: true
 
 # Xúc → Thọ → Ái — Khoảnh Khắc Vòng Lặp Bắt Đầu
 
+<!-- vault-voice-opening:v1 -->
+
+Một notification sáng lên. Trước khi bạn kịp nghĩ, thân đã hơi căng, thọ đã nghiêng, tay đã muốn chạm. Vòng lặp thường không bắt đầu ở quyết định lớn; nó bắt đầu trong vài phần giây rất nhỏ mà mình gọi chung là “tôi muốn”.
+
+Xúc → thọ → ái không phải định mệnh. Nó là bản đồ để tìm khoảnh khắc nơi một điều được cảm nhận chưa cần trở thành một mệnh lệnh phải làm theo.
+
+
 ## 1. Ba Mắt Xích Không Phải Ba Giây Máy Móc
 
 ![căn đối tượng thức hội thành xúc, thọ mang ba sắc độ và ái vươn tay nắm nhưng giữa các mắt có không gian quan sát](../assets/illustrations/theravada-batch2/theravada-13-ba-mat-xich.webp)

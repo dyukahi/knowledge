@@ -35,6 +35,13 @@ source_license_checked: true
 
 # Bản Sắc Được Kiến Tạo — Tôi Sinh Lại Trong Từng Phản Ứng
 
+<!-- vault-voice-opening:v1 -->
+
+Một lời chê có thể sinh ra “người bị coi thường”. Một lời khen sinh ra “người phải giữ hình ảnh”. Bản sắc không chỉ là thứ mình có; nó được lắp lại trong từng phản ứng, rồi quay về bảo vệ chính câu chuyện vừa tạo.
+
+Thấy bản sắc được kiến tạo không bắt mình sống vô danh. Nó mở một khoảng tự do: vai trò vẫn dùng được, nhưng không phải vai nào xuất hiện cũng cần trở thành nhà tù.
+
+
 ## 1. Từ “Tôi Là” Đến Một Cấu Trúc Có Thể Quan Sát
 
 ![nhiều vòng đồng nhất sở hữu chứa và nằm trong quấn quanh năm uẩn, không có lõi người tí hon](../assets/illustrations/theravada-batch2/theravada-16-cau-truc-ban-sac.webp)

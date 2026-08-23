@@ -35,6 +35,13 @@ source_license_checked: true
 
 # Viññāṇa — Thức Không Phải Linh Hồn
 
+<!-- vault-voice-opening:v1 -->
+
+Nếu thức là linh hồn, nó phải là một người quan sát đứng yên phía sau mọi kinh nghiệm. Nhưng cái biết bằng mắt không phải cái biết bằng tai; thức sinh khi có căn và đối tượng tương ứng, rồi đổi theo điều kiện.
+
+Điều này không nói kinh nghiệm là giả. Nó hỏi một câu khó hơn: tại sao ta lấy một dòng nhận biết phụ thuộc điều kiện rồi gọi nó là một chủ thể vĩnh cửu?
+
+
 ## 1. Sai Lầm Của Sāti Và Câu Hỏi Về Cái Tiếp Tục
 
 ![một dòng thức tưởng như sợi dây bất biến bị tách thành sáu sự kiện tùy căn và đối tượng](../assets/illustrations/theravada-batch2/theravada-14-sati-va-dong-thuc.webp)

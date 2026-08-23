@@ -37,6 +37,13 @@ source_license_checked: true
 
 # Mười Hai Chi Duyên Khởi — Một Đời, Ba Đời Hay Từng Khoảnh Khắc?
 
+<!-- vault-voice-opening:v1 -->
+
+Mười hai chi duyên khởi diễn ra trong một sát-na, một đời hay ba đời? Câu hỏi nghe như phải chọn một đáp án duy nhất. Nhưng nhiều cuộc tranh luận chỉ bắt đầu sau khi người ta quên hỏi mô hình đang giải thích tầng nào của nguồn.
+
+Bài này không ép ba ống kính thành một. Nó xem mỗi cách đọc giúp thấy gì, thêm gì từ chú giải, và ở đâu một mô hình hữu ích bắt đầu giả làm toàn bộ thực tại.
+
+
 ## 1. Một Danh Sách, Nhiều Phạm Vi Đọc
 
 ![hình tượng tự nhiên diễn giải 1. một danh sách, nhiều phạm vi đọc mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-18-1-mot-danh-sach-nhieu-pham-vi-oc.webp)

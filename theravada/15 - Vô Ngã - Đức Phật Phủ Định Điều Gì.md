@@ -35,6 +35,13 @@ source_license_checked: true
 
 # Vô Ngã — Đức Phật Phủ Định Điều Gì?
 
+<!-- vault-voice-opening:v1 -->
+
+Nghe “vô ngã”, nhiều người lập tức tưởng Phật giáo đang nói mình không tồn tại, không có trách nhiệm hoặc chỉ là ảo ảnh. Rồi một số khác vội lấp khoảng trống bằng “chân ngã” bí mật. Cả hai đều chạy nhanh hơn câu hỏi của Kinh.
+
+Đức Phật không bắt bạn tin một doctrine về không-có-ai. Ngài đưa từng uẩn ra hỏi: cái này có nằm dưới quyền tối hậu không, có giữ được như ý không, có thích hợp để gọi là tôi và của tôi không?
+
+
 ## 1. Anattā Là Phép Thẩm Tra, Không Phải Khẩu Hiệu Hư Vô
 
 ![năm uẩn đi qua ba câu của tôi tôi tự ngã của tôi, không rơi vào hố hư vô hay ngai chân ngã](../assets/illustrations/theravada-batch2/theravada-15-ba-cau-tham-tra.webp)
