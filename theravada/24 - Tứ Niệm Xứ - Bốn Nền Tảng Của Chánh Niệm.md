@@ -37,6 +37,13 @@ source_license_checked: true
 
 # Tứ Niệm Xứ — Bốn Nền Tảng Của Chánh Niệm
 
+<!-- vault-voice-opening:v1 -->
+
+Chánh niệm bây giờ có thể được bán như một công cụ tập trung: thở để làm việc tốt hơn, bình tĩnh để chịu áp lực giỏi hơn. Nhưng Tứ niệm xứ không được dựng để biến mình thành nhân viên tối ưu trong một đời sống vẫn chạy bằng tham và sợ.
+
+Quan sát thân, thọ, tâm và pháp là học nhìn kinh nghiệm trước khi nó bị đóng dấu “tôi” và “của tôi”. Tĩnh hơn có thể là lợi ích. Thấy rõ để bớt nắm mới là hướng đi.
+
+
 ## 1. Satipaṭṭhāna Là Bốn Phạm Vi Quán Sát Có Mục Đích Giải Thoát
 
 ![hình tượng tự nhiên diễn giải 1. satipaṭṭhāna là bốn phạm vi quán sát có mục đích giải thoát không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-24-1-satipatthana-la-bon-pham-vi-quan-sat-co-muc-ic.webp)

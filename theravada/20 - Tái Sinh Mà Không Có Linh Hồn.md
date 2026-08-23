@@ -38,6 +38,13 @@ source_license_checked: true
 
 # Tái Sinh Mà Không Có Linh Hồn
 
+<!-- vault-voice-opening:v1 -->
+
+Nếu không có linh hồn bất biến, cái gì tái sinh? Nếu hoàn toàn không có liên tục, ai nhận quả? Hai câu hỏi kéo người đọc về hai cực quen thuộc: một vật thể đi xuyên các đời, hoặc cái chết xóa sạch mọi quan hệ nhân quả.
+
+Phật giáo đặt continuity ở điều kiện và nghiệp, không ở một hạt nhân không đổi. Giống ngọn lửa truyền sang ngọn đèn khác: không hoàn toàn là một, cũng không hoàn toàn khác — nhưng ẩn dụ chỉ mở cửa, không thay bằng chứng.
+
+
 ## 1. Câu Hỏi Sai: “Nếu Không Có Tôi, Ai Đi Tái Sinh?”
 
 ![câu hỏi về tiếp nối nhân quả không có người mang](../assets/illustrations/theravada-batch3/theravada-20-cau-hoi-ai-tai-sinh.webp)

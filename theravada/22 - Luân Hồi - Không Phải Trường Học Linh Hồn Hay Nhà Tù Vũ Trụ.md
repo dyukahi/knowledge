@@ -36,6 +36,13 @@ source_license_checked: true
 
 # Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ
 
+<!-- vault-voice-opening:v1 -->
+
+Luân hồi rất dễ bị kể thành trường học nơi linh hồn lên lớp, hoặc nhà tù vũ trụ nơi một ai đó giam mình. Cả hai câu chuyện đều đặt một nhân vật cố định ở giữa rồi cho nhân vật ấy đi qua nhiều phòng.
+
+Nhưng nếu con người là tiến trình có điều kiện, saṁsāra gần với một vòng tự tái tạo hơn: cùng craving, cùng cách nắm, cùng kiểu trở thành — đổi cảnh nhưng script vẫn chạy. Câu hỏi không chỉ là mình đã ở đây bao nhiêu đời. Là điều gì đang tiếp tục được nuôi.
+
+
 ## 1. Saṃsāra Là Sự Lang Thang, Không Phải Tên Một Địa Điểm
 
 ![dòng lang thang có điều kiện không có bản đồ của một nhà tù không gian](../assets/illustrations/theravada-batch3/theravada-22-samsara-lang-thang.webp)

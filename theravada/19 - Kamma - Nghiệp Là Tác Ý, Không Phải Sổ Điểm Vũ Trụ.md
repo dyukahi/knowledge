@@ -34,6 +34,13 @@ source_license_checked: true
 
 # Kamma — Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ
 
+<!-- vault-voice-opening:v1 -->
+
+Nghiệp thường bị kể như một hệ điểm thưởng–phạt vô hình: làm tốt được cộng, làm xấu bị trừ, gặp chuyện gì cũng có người hỏi “kiếp trước làm gì”. Cách kể ấy đơn giản, dễ nhớ và rất dễ dùng để phán xét nạn nhân.
+
+Trong Kinh, điểm vào cụ thể hơn nhiều: nghiệp là tác ý. Điều đó không làm hậu quả biến mất; nó chuyển sự chú ý từ sổ điểm vũ trụ sang chất lượng của ý định đang trở thành lời nói, hành động và thói quen ngay bây giờ.
+
+
 ## 1. Đưa “Nghiệp” Trở Lại Hành Động Có Tác Ý
 
 ![hình tượng tự nhiên diễn giải 1. đưa “nghiệp” trở lại hành động có tác ý mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-1-ua-nghiep-tro-lai-hanh-ong-co-tac-y.webp)

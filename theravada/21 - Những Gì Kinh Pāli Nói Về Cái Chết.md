@@ -36,6 +36,13 @@ source_license_checked: true
 
 # Những Gì Kinh Pāli Nói Về Cái Chết
 
+<!-- vault-voice-opening:v1 -->
+
+Ta có thể đọc hàng chục bài về cái chết mà vẫn sống như thể nó chỉ xảy ra cho người khác. Cái chết trở thành topic, còn lịch hẹn, lời xin lỗi và bàn tay cha mẹ già vẫn bị đẩy sang tuần sau.
+
+Kinh Pāli không chỉ hỏi “sau khi chết đi đâu”. Nó dùng cái chết để soi cách mình đang sống, đang bám và đang trì hoãn điều gì khi vẫn còn thở.
+
+
 ## 1. Bốn Lớp Thường Bị Trộn Khi Nói Về Chết
 
 ![bốn lớp Kinh Pāli tang lễ chú giải và trải nghiệm hiện đại được phân ranh](../assets/illustrations/theravada-batch3/theravada-21-bon-lop-cai-chet.webp)

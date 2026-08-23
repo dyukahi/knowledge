@@ -40,8 +40,8 @@
     35,
     36
   ],
-  "cards": 109,
-  "passed": 109,
+  "cards": 111,
+  "passed": 111,
   "rows": [
     {
       "lesson": 1,
@@ -521,6 +521,13 @@
     },
     {
       "lesson": 23,
+      "source": "AN 5.161:1.1–1.15",
+      "title": "Năm cách tháo gỡ oán giận — Tăng Chi Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Năm phương pháp được dịch đủ; prose giữ ranh giới và công lý, không biến từ/bi/xả thành ép hòa giải hoặc miễn trách nhiệm."
+    },
+    {
+      "lesson": 23,
       "source": "AN 8.39, các đoạn 3.5, 4.1, 5.1, 6.1, 7.1",
       "title": "Kinh về năm giới là năm món quà không sợ hãi — Tăng Chi Bộ Kinh",
       "translation_label": "Dịch Việt rút gọn",
@@ -539,6 +546,13 @@
       "title": "Kinh về đạo đức tương hỗ của người tại gia — Trường Bộ Kinh",
       "translation_label": "Dịch Việt",
       "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 23,
+      "source": "DN 31:28.1–28.5",
+      "title": "Cha mẹ và con cái nâng đỡ nhau theo hai chiều — Trường Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Bản Việt giữ đủ năm trách nhiệm của con và năm trách nhiệm của cha mẹ; prose nhấn tính tương hỗ và không dùng hiếu để hợp thức hóa bạo lực."
     },
     {
       "lesson": 24,
