@@ -57,7 +57,8 @@ Giới không phải badge của người tốt. Nó là cách thiết kế đi�
 <!-- CHỖ GIỮ HÌNH: bàn tay dừng trước năm kiểu gây hại trong đời sống tại gia -->
 
 
-Năm giới thường được đọc bằng công thức **sikkhāpadaṃ samādiyāmi — tôi tiếp nhận điều học**. Từ quan trọng là **sikkhāpada — điều học, bước rèn luyện**, không phải sắc lệnh do một vị thần sáng tạo ban xuống rồi thưởng phạt theo sự phục tùng. [Năm giới là năm món quà không sợ hãi](https://suttacentral.net/an8.39) mô tả người đệ tử cao quý tránh năm hành vi và gọi đó là đem lại an toàn, không thù hận, không áp bức cho vô số chúng sinh. Trọng tâm nằm ở hậu quả của hành động đối với mạng sống, tài sản, quan hệ, sự thật và năng lực tỉnh táo.
+<!-- vault-voice-section:v1 -->
+Năm giới có lực vì chúng tạo vùng an toàn có thể cảm được, không vì một authority cần người khác phục tùng. Năm giới thường được đọc bằng công thức **sikkhāpadaṃ samādiyāmi — tôi tiếp nhận điều học**. Từ quan trọng là **sikkhāpada — điều học, bước rèn luyện**, không phải sắc lệnh do một vị thần sáng tạo ban xuống rồi thưởng phạt theo sự phục tùng. [Năm giới là năm món quà không sợ hãi](https://suttacentral.net/an8.39) mô tả người đệ tử cao quý tránh năm hành vi và gọi đó là đem lại an toàn, không thù hận, không áp bức cho vô số chúng sinh. Trọng tâm nằm ở hậu quả của hành động đối với mạng sống, tài sản, quan hệ, sự thật và năng lực tỉnh táo.
 
 “Tự nguyện học” không có nghĩa là tùy tiện. Một người có thể không tin vào quan tòa siêu nhiên nhưng sự giết hại vẫn làm một sinh vật mất mạng, trộm cắp vẫn tước quyền sử dụng tài sản, lừa dối vẫn phá nền tin cậy. Giới được kiểm chứng ngay trong quan hệ nhân quả: tác ý nào được nuôi, ai bị tổn thương, tâm trở nên dễ che giấu hay ngay thẳng, cộng đồng an toàn hơn hay nguy hiểm hơn. Vì thế, đạo đức không dựa trên thần lệnh cũng không rơi vào quan điểm “ai thích gì làm nấy”.
 
@@ -85,7 +86,8 @@ Năm giới là chuẩn nền của người tại gia, không phải toàn bộ
 <!-- CHỖ GIỮ HÌNH: một sinh vật được che chở bên cạnh tài vật còn nguyên nơi chủ sở hữu -->
 
 
-Giới thứ nhất thường được rút gọn thành “không giết”, nhưng [Năm giới là năm món quà không sợ hãi](https://suttacentral.net/an8.39) mở rộng ý nghĩa bằng bốn món quà: an toàn, không đối nghịch, không thù hận và không áp bức. Đây không phải lời hứa rằng người giữ giới có thể cứu mọi sinh vật khỏi mọi cái chết. Đó là cam kết rằng mình không chủ ý trở thành nguồn sát hại. Phạm vi thực tế gồm giết trực tiếp, ra lệnh, thuê, cổ vũ hay tổ chức việc giết khi biết mục đích của hành động.
+<!-- vault-voice-section:v1 -->
+Mạng sống và tài sản là hai nơi ý định riêng của mình chạm ngay vào quyền được an toàn của người khác. Giới thứ nhất thường được rút gọn thành “không giết”, nhưng [Năm giới là năm món quà không sợ hãi](https://suttacentral.net/an8.39) mở rộng ý nghĩa bằng bốn món quà: an toàn, không đối nghịch, không thù hận và không áp bức. Đây không phải lời hứa rằng người giữ giới có thể cứu mọi sinh vật khỏi mọi cái chết. Đó là cam kết rằng mình không chủ ý trở thành nguồn sát hại. Phạm vi thực tế gồm giết trực tiếp, ra lệnh, thuê, cổ vũ hay tổ chức việc giết khi biết mục đích của hành động.
 
 Các tình huống đời sống có thể phức tạp: tự vệ, bảo vệ trẻ em, thú bệnh nặng, côn trùng truyền bệnh, nghề nghiệp liên quan đến động vật. Một bài nhập môn không thể biến mọi trường hợp thành một phán quyết giống nhau. Tiêu chuẩn đầu là giảm hại khả thi, xem kỹ tác ý, mức cần thiết và các phương án ít bạo lực hơn. Khi an toàn tức thời bị đe dọa, rời nơi nguy hiểm, gọi hỗ trợ và dùng biện pháp bảo vệ tương xứng không phải là thất bại tinh thần. Không ai được dùng giới để ép nạn nhân đứng yên chịu bạo lực.
 
@@ -113,7 +115,8 @@ Tài sản không quan trọng hơn mạng sống, nhưng coi thường quyền 
 <!-- CHỖ GIỮ HÌNH: hai người trưởng thành giữ khoảng cách tôn trọng và đường ranh đồng thuận rõ -->
 
 
-**Kāmesumicchācāra — hành vi sai trái trong dục** không đồng nhất dục tính với tội. [Đạo đức tương hỗ của người tại gia](https://suttacentral.net/dn31) đặt nó giữa các hành động làm bẩn quan hệ xã hội. Trong văn cảnh cổ, các công thức thường xác định người được gia đình hay pháp luật bảo hộ, người đã có cam kết với người khác. Khi chuyển sang đời nay, trục không hại đòi xem sự đồng ý, tuổi và năng lực, quan hệ quyền lực, cam kết đã có, nguy cơ sức khỏe và sự trung thực.
+<!-- vault-voice-section:v1 -->
+Đạo đức dục bắt đầu khi mình thôi dùng mong muốn cá nhân để xóa consent, cam kết và chênh lệch quyền lực. **Kāmesumicchācāra — hành vi sai trái trong dục** không đồng nhất dục tính với tội. [Đạo đức tương hỗ của người tại gia](https://suttacentral.net/dn31) đặt nó giữa các hành động làm bẩn quan hệ xã hội. Trong văn cảnh cổ, các công thức thường xác định người được gia đình hay pháp luật bảo hộ, người đã có cam kết với người khác. Khi chuyển sang đời nay, trục không hại đòi xem sự đồng ý, tuổi và năng lực, quan hệ quyền lực, cam kết đã có, nguy cơ sức khỏe và sự trung thực.
 
 Không có đồng thuận khi một người ngủ, bất tỉnh, quá say, bị đe dọa, bị thao túng bằng quyền lực hoặc chưa đủ năng lực pháp lý. Đồng thuận cho một việc không phải đồng thuận cho mọi việc; đã đồng ý trước đó không tước quyền đổi ý; quan hệ hôn nhân không tạo quyền tiếp cận thân thể vĩnh viễn. Đây là cách diễn giải đạo đức hiện đại từ nguyên tắc không hại và không chiếm đoạt, không phải câu chữ nguyên văn của [Đạo đức tương hỗ của người tại gia](https://suttacentral.net/dn31). Nhãn nguồn phải rõ để không giả rằng Kinh dùng từ pháp lý ngày nay.
 
@@ -129,7 +132,8 @@ Khi có xâm hại tình dục, ưu tiên là an toàn, chăm sóc y tế, hỗ 
 
 <!-- CHỖ GIỮ HÌNH: lời nói trong sáng và chiếc chén được đặt xuống trước khi tâm mất tự chủ -->
 
-Nói dối là cố ý trình bày điều mình cho là không thật nhằm làm người khác hiểu sai. Sai vì nhớ nhầm không giống lừa dối, dù vẫn cần sửa. Im lặng cũng không luôn là dối: người bị truy đuổi không mắc nợ kẻ bạo lực thông tin giúp họ gây hại. Giữ giới không đòi tiết lộ bí mật y tế, nơi trú ẩn hay chuyện riêng cho người không có quyền biết. Chánh ngữ phối hợp sự thật với đúng lúc, lợi ích và tâm không ác.
+<!-- vault-voice-section:v1 -->
+Nói thật và không say cùng bảo vệ một năng lực nền: còn đủ hiện diện để biết mình đang làm gì với đời người khác. Nói dối là cố ý trình bày điều mình cho là không thật nhằm làm người khác hiểu sai. Sai vì nhớ nhầm không giống lừa dối, dù vẫn cần sửa. Im lặng cũng không luôn là dối: người bị truy đuổi không mắc nợ kẻ bạo lực thông tin giúp họ gây hại. Giữ giới không đòi tiết lộ bí mật y tế, nơi trú ẩn hay chuyện riêng cho người không có quyền biết. Chánh ngữ phối hợp sự thật với đúng lúc, lợi ích và tâm không ác.
 
 Có những lời “đúng dữ kiện” nhưng dùng để hạ nhục, kích động hoặc thao túng. Năm giới nêu nói dối, còn Bát chánh đạo mở rộng sang lời chia rẽ, thô ác và phù phiếm. Vì vậy, khoe rằng “tôi chỉ nói thật” không đủ. Người học hỏi thêm: người nghe có cần biết không, cách nói có chính xác không, mình có giấu phần làm thay đổi ý nghĩa không, và mục tiêu là bảo vệ hay trả đũa?
 
@@ -147,7 +151,8 @@ Thực hành có thể bắt đầu rất cụ thể: không lái xe sau uống;
 
 <!-- CHỖ GIỮ HÌNH: hai lối sống tại gia và xuất gia cùng hướng không hại nhưng có quy chế khác -->
 
-Luật tạng, **Vinaya**, là hệ quy tắc và thủ tục dành cho cộng đồng tỳ-kheo và tỳ-kheo-ni: thọ giới, cư trú, tài sản, y áo, thức ăn, xử lý vi phạm, hòa giải tranh chấp và duy trì Tăng đoàn. Năm giới là nền đạo đức phổ biến cho cư sĩ. Hai phạm vi liên hệ nhưng không đồng nhất. Không thể lấy toàn bộ giới xuất gia áp thẳng lên người có gia đình, tài sản, nghề nghiệp và nghĩa vụ dân sự.
+<!-- vault-voice-section:v1 -->
+Cư sĩ học năm giới, không cần giả làm xuất gia; ngược lại, đời tại gia không phải lý do làm loãng nguyên tắc không hại. Luật tạng, **Vinaya**, là hệ quy tắc và thủ tục dành cho cộng đồng tỳ-kheo và tỳ-kheo-ni: thọ giới, cư trú, tài sản, y áo, thức ăn, xử lý vi phạm, hòa giải tranh chấp và duy trì Tăng đoàn. Năm giới là nền đạo đức phổ biến cho cư sĩ. Hai phạm vi liên hệ nhưng không đồng nhất. Không thể lấy toàn bộ giới xuất gia áp thẳng lên người có gia đình, tài sản, nghề nghiệp và nghĩa vụ dân sự.
 
 Người xuất gia giữ độc thân hoàn toàn; giới thứ ba của người tại gia nói tránh dục hạnh sai trái. Người xuất gia có quy định chi tiết về nhận tiền, ăn sau ngọ và nhiều vật dụng; cư sĩ không vì sở hữu tài khoản hay ăn tối mà phạm Năm giới. Vào ngày trai giới, một số cư sĩ tự nguyện nhận Tám giới trong thời gian nhất định. Việc ấy là thực hành tăng cường, không phải bằng chứng rằng mọi cư sĩ còn lại đang sống thấp kém.
 
@@ -197,7 +202,8 @@ Buông oán cũng không xóa ranh giới, công lý hoặc ký ức. Bạn có 
 
 <!-- CHỖ GIỮ HÌNH: năm vòng thực hành gồm dừng lại xem tác ý bảo vệ và sửa chữa -->
 
-Mỗi sáng hoặc trước một hoàn cảnh khó, người học có thể nhắc năm điều bằng ngôn ngữ mình hiểu. Không cần thề rằng sẽ hoàn hảo suốt đời. Hãy xác định nguy cơ thật trong ngày: cơn giận với con, quyền truy cập tiền công ty, một cuộc hẹn có rượu, bí mật dễ bị bóp méo, quan hệ có chênh lệch quyền lực. Giới trở thành sống động khi gắn với điểm quyết định cụ thể.
+<!-- vault-voice-section:v1 -->
+Sửa sai cần ba thứ cùng lúc: nhận trách nhiệm, giữ ranh giới an toàn và thay điều kiện khiến hành vi dễ lặp. Mỗi sáng hoặc trước một hoàn cảnh khó, người học có thể nhắc năm điều bằng ngôn ngữ mình hiểu. Không cần thề rằng sẽ hoàn hảo suốt đời. Hãy xác định nguy cơ thật trong ngày: cơn giận với con, quyền truy cập tiền công ty, một cuộc hẹn có rượu, bí mật dễ bị bóp méo, quan hệ có chênh lệch quyền lực. Giới trở thành sống động khi gắn với điểm quyết định cụ thể.
 
 Khi xung lực xuất hiện, thực hành bốn nhịp: dừng thân; gọi tên ý định; nhìn người có thể bị hại; chọn phương án ít hại hơn. Nếu vẫn thất bại, thêm bốn nhịp sửa: chấm dứt; bảo vệ; thừa nhận đúng phạm vi; bồi hoàn và đổi điều kiện. Không thú tội bừa bãi với người không an toàn; không ép người bị hại phải nghe lời xin lỗi; không biến xin lỗi thành yêu cầu họ làm mình nhẹ lòng.
 
@@ -225,7 +231,8 @@ Năm giới tốt nhất tạo ra một vùng người khác bớt phải sợ t
 > [!warning] Điều chưa chứng minh
 > Hai kinh không thiết lập một vị thần ban lệnh, không nói mọi thất bại là tội lỗi bất biến, không cho phép đổ lỗi nạn nhân và không trao miễn trừ cho người xuất gia hay giáo thọ. Năm giới không tự thay luật pháp, điều trị y khoa, hỗ trợ nghiện hoặc chăm sóc sang chấn.
 
-Đọc trước: [[22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ]]. Đọc tiếp: [[24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm]].
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài ngăn đạo đức thành moralism, nhưng cũng không cho phép compassion được dùng để né accountability. Đọc trước: [[22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ]]. Đọc tiếp: [[24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm]].
 
 **Nguồn kinh điển chính xác**
 

@@ -47,7 +47,8 @@ Kinh Pāli không chỉ hỏi “sau khi chết đi đâu”. Nó dùng cái ch�
 
 ![bốn lớp Kinh Pāli tang lễ chú giải và trải nghiệm hiện đại được phân ranh](../assets/illustrations/theravada-batch3/theravada-21-bon-lop-cai-chet.webp)
 
-Sau bài 20, câu hỏi chuyển từ “tái sinh thế nào nếu không có linh hồn?” sang “điều gì xảy ra khi chết?”. Một câu trả lời có trách nhiệm phải phân ít nhất bốn lớp. Lớp thứ nhất là điều Kinh Pāli sớm thật sự nói về chết, quả nghiệp, tái sinh và parinibbāna. Lớp thứ hai là nghi lễ tang và ký ức xã hội của các cộng đồng Theravāda. Lớp thứ ba là hệ thống Abhidhamma, chú giải và văn học hậu kỳ. Lớp thứ tư gồm bardo Tây Tạng, chuyện cận tử và các tổng hợp tâm linh hiện đại.
+<!-- vault-voice-section:v1 -->
+Nói về chết dễ lẫn bốn lớp: điều Kinh mô tả, nghi lễ truyền thống, trải nghiệm cá nhân và suy đoán về điều chưa thấy. Sau bài 20, câu hỏi chuyển từ “tái sinh thế nào nếu không có linh hồn?” sang “điều gì xảy ra khi chết?”. Một câu trả lời có trách nhiệm phải phân ít nhất bốn lớp. Lớp thứ nhất là điều Kinh Pāli sớm thật sự nói về chết, quả nghiệp, tái sinh và parinibbāna. Lớp thứ hai là nghi lễ tang và ký ức xã hội của các cộng đồng Theravāda. Lớp thứ ba là hệ thống Abhidhamma, chú giải và văn học hậu kỳ. Lớp thứ tư gồm bardo Tây Tạng, chuyện cận tử và các tổng hợp tâm linh hiện đại.
 
 Các lớp có thể cùng quan trọng với con người, nhưng không cùng xuất xứ. Một gia đình tụng kinh bảy ngày có thể tìm được nâng đỡ thật; điều đó không tự chứng minh [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16) dạy linh hồn ở lại đúng bảy ngày. Một người trải nghiệm cận tử có thể thay đổi sâu sắc; trải nghiệm ấy không tự biến thành mô tả kinh điển về mọi cái chết. Tách lớp không xúc phạm kinh nghiệm hay nghi lễ. Nó ngăn một nguồn được dùng để mạo danh nguồn khác.
 
@@ -72,7 +73,8 @@ Mục tiêu của bài không phải làm cái chết bớt bí ẩn bằng mộ
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/dn16">DN 16, đoạn 3.9.2–3.9.3</a> · <i>Mahāparinibbāna Sutta</i></small>
 
-[Những ngày cuối của Đức Phật](https://suttacentral.net/dn16), *Mahāparinibbāna Sutta*, là trình thuật rộng về hành trình cuối của Đức Phật. Kinh kể bệnh nặng, những lời dạy cuối, bữa ăn của Cunda, chuyến đến Kusinārā, cuộc đối thoại với Ānanda, việc nằm giữa hai cây sāla, các tầng thiền trước khi viên tịch, tang lễ và việc phân chia xá-lợi. Đây không chỉ là báo cáo sinh lý về một cái chết; nó là ký ức cộng đồng được cấu trúc quanh Dhamma, vô thường và sự tiếp nối của Saṅgha.
+<!-- vault-voice-section:v1 -->
+Những ngày cuối của Đức Phật làm cái chết cụ thể bằng thân già, bệnh và lời dặn về appamāda, không chỉ bằng doctrine sau tử vong. [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16), *Mahāparinibbāna Sutta*, là trình thuật rộng về hành trình cuối của Đức Phật. Kinh kể bệnh nặng, những lời dạy cuối, bữa ăn của Cunda, chuyến đến Kusinārā, cuộc đối thoại với Ānanda, việc nằm giữa hai cây sāla, các tầng thiền trước khi viên tịch, tang lễ và việc phân chia xá-lợi. Đây không chỉ là báo cáo sinh lý về một cái chết; nó là ký ức cộng đồng được cấu trúc quanh Dhamma, vô thường và sự tiếp nối của Saṅgha.
 
 Lời cuối thường được tóm bằng Pāli: *vayadhammā saṅkhārā; appamādena sampādetha*—“các hành có bản chất hoại diệt; hãy thành tựu bằng không phóng dật.” **Appamāda — “áp-pa-ma-đa” — không phóng dật, sự chuyên cần tỉnh thức** đặt trọng tâm nơi người đang sống. Phản ứng chính trước tử vong không phải săn bản đồ hậu tử mà là không trì hoãn việc đoạn bất thiện và phát triển thiện.
 
@@ -99,7 +101,8 @@ Kinh đưa ra chỉ dẫn về việc xử lý nhục thân, dựng tháp và t�
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn60">MN 60, đoạn 12.2–12.7</a> · <i>Apaṇṇaka Sutta</i></small>
 
-[Lựa chọn đạo đức trước điều chưa biết](https://suttacentral.net/mn60), *Apaṇṇaka Sutta*, nói với các gia chủ chưa có vị thầy đáng tin. Kinh đặt cạnh quan điểm phủ nhận đời sau, quả của hành động thiện ác và chúng sinh tái sinh, với quan điểm khẳng định chúng. Lập luận xem hậu quả thực hành: người phủ nhận có thể dễ chọn sát sinh, trộm cắp, tà hạnh, nói dối và tà kiến; nếu đời sau có thật, họ chịu thiệt cả hiện tại lẫn tương lai. Người giữ quan điểm có đời sau sống tránh hại và, nếu điều ấy đúng, được lợi cả hai phía.
+<!-- vault-voice-section:v1 -->
+MN 60 cho một đạo đức của bất định: chưa tự thấy không có nghĩa hành động như mọi hậu quả đều vô nghĩa. [Lựa chọn đạo đức trước điều chưa biết](https://suttacentral.net/mn60), *Apaṇṇaka Sutta*, nói với các gia chủ chưa có vị thầy đáng tin. Kinh đặt cạnh quan điểm phủ nhận đời sau, quả của hành động thiện ác và chúng sinh tái sinh, với quan điểm khẳng định chúng. Lập luận xem hậu quả thực hành: người phủ nhận có thể dễ chọn sát sinh, trộm cắp, tà hạnh, nói dối và tà kiến; nếu đời sau có thật, họ chịu thiệt cả hiện tại lẫn tương lai. Người giữ quan điểm có đời sau sống tránh hại và, nếu điều ấy đúng, được lợi cả hai phía.
 
 Đây thường được gọi là “cá cược” có trách nhiệm, nhưng không nên rút thành “hãy tin bất cứ gì vì an toàn”. [Lựa chọn đạo đức trước điều chưa biết](https://suttacentral.net/mn60) không khuyên mua mọi tín điều với xác suất không rõ; nó so các quan điểm gắn trực tiếp với hành vi đạo đức và hậu quả. Lựa chọn được đánh giá cả trong đời này: người có trí có thể chê trách hành vi hại, quan hệ bị phá, tâm mang thù và lừa dối.
 
@@ -126,7 +129,8 @@ Về cái chết, kinh không cho biết thức rời thân lúc nào, trải ba
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn130">MN 130, đoạn 8.10–8.17</a> · <i>Devadūta Sutta</i></small>
 
-[Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130), *Devadūta Sutta*, trình bày một người làm ác sau khi thân hoại mạng chung tái sinh vào cảnh khổ. Vua Yama hỏi người ấy có thấy các “sứ giả chư thiên”: trẻ sơ sinh yếu ớt, người già, người bệnh, tội nhân bị trừng phạt và xác chết. Mỗi hình ảnh đáng lẽ nhắc rằng mình cũng chịu sinh, già, bệnh, quả hành động và chết, nên phải làm thiện qua thân, khẩu, ý.
+<!-- vault-voice-section:v1 -->
+Các sứ giả già, bệnh, chết không được dùng để hù dọa; chúng phá sự trì hoãn đạo đức mà đời sống khỏe mạnh dễ nuôi. [Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130), *Devadūta Sutta*, trình bày một người làm ác sau khi thân hoại mạng chung tái sinh vào cảnh khổ. Vua Yama hỏi người ấy có thấy các “sứ giả chư thiên”: trẻ sơ sinh yếu ớt, người già, người bệnh, tội nhân bị trừng phạt và xác chết. Mỗi hình ảnh đáng lẽ nhắc rằng mình cũng chịu sinh, già, bệnh, quả hành động và chết, nên phải làm thiện qua thân, khẩu, ý.
 
 Kinh sau đó mô tả hình phạt địa ngục dữ dội. Đọc có xuất xứ nghĩa là không được làm nhạt thành “chỉ là tâm lý” nếu văn bản trình bày tái sinh và địa ngục theo nghĩa theo nghĩa trực tiếp kinh điển. Đồng thời, ta phải nhận thể loại giáo huấn, hình ảnh đạo đức và mục tiêu khẩn thiết; kinh không phải biên bản y khoa từ người hồi sức, cũng không cấp tọa độ vật lý của địa ngục.
 
@@ -142,7 +146,8 @@ Cũng không dùng kinh để ủng hộ hình phạt tàn nhẫn của con ngư
 
 ![cộng đồng chăm sóc người chết qua tang lễ hồi hướng và ký ức với nhãn truyền thống](../assets/illustrations/theravada-batch3/theravada-21-tang-le-va-hoi-huong.webp)
 
-Theravāda sống không chỉ trong văn bản. Tang lễ có tụng kinh, bố thí thay mặt người mất, hồi hướng công đức, tưởng niệm và các mốc ngày tùy quốc gia. Những thực hành này giúp gia đình cấu trúc đau buồn, đưa mất mát vào hành động thiện và duy trì quan hệ cộng đồng. Chúng đáng được mô tả như truyền thống nghi lễ, không cần giả rằng mọi chi tiết đều có trong [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16).
+<!-- vault-voice-section:v1 -->
+Tang lễ và hồi hướng có chức năng cộng đồng thật, nhưng nhiều hình thức thuộc lịch sử Theravāda hậu kỳ chứ không đồng tuổi với mọi bài Kinh. Theravāda sống không chỉ trong văn bản. Tang lễ có tụng kinh, bố thí thay mặt người mất, hồi hướng công đức, tưởng niệm và các mốc ngày tùy quốc gia. Những thực hành này giúp gia đình cấu trúc đau buồn, đưa mất mát vào hành động thiện và duy trì quan hệ cộng đồng. Chúng đáng được mô tả như truyền thống nghi lễ, không cần giả rằng mọi chi tiết đều có trong [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16).
 
 Nguồn Pāli hậu kỳ và chú giải thảo luận chuyển công đức, đặc biệt liên hệ ngạ quỷ có khả năng tùy hỷ. Trong cách giải thích Theravāda, “chuyển” không nhất thiết là vật chất công đức rời tài khoản người sống; người sống làm thiện và mời người mất tùy hỷ, sự tùy hỷ là thiện nghiệp của họ. Các trường phái và văn hóa có cách diễn đạt khác nhau, nên cần chỉ nguồn cụ thể khi đi sâu.
 
@@ -158,7 +163,8 @@ Tang chế cũng cần thời gian. [Những ngày cuối của Đức Phật](h
 
 ![bardo Tây Tạng và NDE hiện đại đứng ngoài ba nguồn Pāli với cầu so sánh có giới hạn](../assets/illustrations/theravada-batch3/theravada-21-bardo-nde-phan-biet.webp)
 
-**Bardo** là thuật ngữ Tây Tạng cho trạng thái trung gian; các hệ dạy nổi tiếng về tiến trình sau chết thuộc Phật giáo Tây Tạng và văn học như *Bardo Thödol*. Chúng không phải giáo lý đặc trưng của Theravāda và không xuất hiện trong [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16), [Lựa chọn đạo đức trước điều chưa biết](https://suttacentral.net/mn60) hay [Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130) dưới sơ đồ quen thuộc 49 ngày. Có thể học so sánh, nhưng phải gọi đúng truyền thống.
+<!-- vault-voice-section:v1 -->
+Bardo và NDE có thể được so sánh, nhưng gắn nhãn Pāli cho chúng chỉ vì cùng nói về chết là một shortcut nguồn. **Bardo** là thuật ngữ Tây Tạng cho trạng thái trung gian; các hệ dạy nổi tiếng về tiến trình sau chết thuộc Phật giáo Tây Tạng và văn học như *Bardo Thödol*. Chúng không phải giáo lý đặc trưng của Theravāda và không xuất hiện trong [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16), [Lựa chọn đạo đức trước điều chưa biết](https://suttacentral.net/mn60) hay [Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130) dưới sơ đồ quen thuộc 49 ngày. Có thể học so sánh, nhưng phải gọi đúng truyền thống.
 
 Do đó, câu “Phật giáo dạy người chết ở bardo 49 ngày” quá rộng. Một truyền thống Phật giáo quan trọng dạy như vậy; Theravāda hệ thống thường giải thích tục sinh tức thời qua paṭisandhi. Khác biệt không cần bị hòa tan thành “cùng một điều nói bằng ngôn ngữ khác”. Đôi khi các truyền thống thật sự có mô hình khác.
 
@@ -186,7 +192,8 @@ Phương pháp so sánh gồm bốn câu: nguồn nào; truyền thống nào; t
 > [!warning] Điều chưa chứng minh
 > Ba nguồn trụ cột không cho lịch trình chính xác sau tim ngừng, không nói mọi người chết đi qua các tầng thiền của [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16), không xác nhận bardo, và không đồng nhất NDE với tái sinh, địa ngục hay parinibbāna. Không được trộn nghi lễ hoặc báo cáo hiện đại thành lời Kinh Pāli.
 
-Đọc trước: [[20 - Tái Sinh Mà Không Có Linh Hồn]]. Đọc tiếp: [[22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ|Luân Hồi Theo Theravāda]].
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ đau buồn con người ở trung tâm mà không biến điều chưa biết thành certainty giả. Đọc trước: [[20 - Tái Sinh Mà Không Có Linh Hồn]]. Đọc tiếp: [[22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ|Luân Hồi Theo Theravāda]].
 
 **Nguồn kinh điển chính xác**
 

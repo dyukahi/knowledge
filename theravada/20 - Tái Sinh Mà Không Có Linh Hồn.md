@@ -49,7 +49,8 @@ Phật giáo đặt continuity ở điều kiện và nghiệp, không ở một
 
 ![câu hỏi về tiếp nối nhân quả không có người mang](../assets/illustrations/theravada-batch3/theravada-20-cau-hoi-ai-tai-sinh.webp)
 
-Bài 19 đặt **kamma** ở tác ý: hành động qua thân, khẩu và ý tạo hậu quả, nhưng không phải định mệnh hay sổ điểm vũ trụ. Khi phạm vi hậu quả vượt khỏi một đời, câu hỏi quen thuộc xuất hiện: nếu Theravāda dạy vô ngã, cái gì mang nghiệp sang đời sau? Câu hỏi nghe hợp lý vì nó ngầm cho rằng chỉ có hai khả năng: hoặc một vật đồng nhất di chuyển, hoặc không thể có tiếp nối. Các kinh nền của bài này không nhận nhị nguyên ấy. Chúng mô tả sự tiếp nối bằng điều kiện.
+<!-- vault-voice-section:v1 -->
+Câu ‘ai tái sinh’ đã giả định sẵn phải có một ai bất biến; đổi câu hỏi giúp mình nhìn continuity mà không lén đặt linh hồn vào đáp án. Bài 19 đặt **kamma** ở tác ý: hành động qua thân, khẩu và ý tạo hậu quả, nhưng không phải định mệnh hay sổ điểm vũ trụ. Khi phạm vi hậu quả vượt khỏi một đời, câu hỏi quen thuộc xuất hiện: nếu Theravāda dạy vô ngã, cái gì mang nghiệp sang đời sau? Câu hỏi nghe hợp lý vì nó ngầm cho rằng chỉ có hai khả năng: hoặc một vật đồng nhất di chuyển, hoặc không thể có tiếp nối. Các kinh nền của bài này không nhận nhị nguyên ấy. Chúng mô tả sự tiếp nối bằng điều kiện.
 
 **Punabbhava — đọc gần đúng “pu-náp-bha-va” — tái hữu, lại trở thành** nói chính xác hơn hình ảnh một người thay thân. **Jāti — “cha-ti” — sinh** trong [Định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh](https://suttacentral.net/sn12.2) gồm sự sinh, xuất sinh, hiện khởi của các uẩn và thành tựu các căn của chúng sinh trong một loại hữu. Nghĩa này giữ phạm vi sinh hữu thật sự; không nên rút nó thành ẩn dụ duy nhất về một ý nghĩ xuất hiện. Nhưng kinh cũng không nói một ātman bất biến bước vào cơ thể mới.
 
@@ -74,7 +75,8 @@ Bài này không tuyên bố một cơ chế vật lý của tái sinh. [Thức 
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn38">MN 38, đoạn 5.9–5.13</a> · <i>Mahātaṇhāsaṅkhaya Sutta</i></small>
 
-[Thức sinh theo điều kiện — Trung Bộ Kinh](https://suttacentral.net/mn38) kể việc tỳ-kheo Sāti hiểu lời dạy theo cách “chính thức này” chạy và luân chuyển, không phải một thức khác. Khi được hỏi thức ấy là gì, Sāti mô tả nó như cái nói, cảm thọ và trải quả thiện ác. Đức Phật quở trách cách hiểu ấy và nhắc rằng thức được dạy là **paṭiccasamuppanna — sinh khởi tùy thuộc điều kiện**; không có điều kiện thì thức không sinh.
+<!-- vault-voice-section:v1 -->
+MN 38 bác chính ý tưởng cùng một thức lang thang, nên mọi giải thích tái sinh phải tôn trọng thức sinh theo điều kiện. [Thức sinh theo điều kiện — Trung Bộ Kinh](https://suttacentral.net/mn38) kể việc tỳ-kheo Sāti hiểu lời dạy theo cách “chính thức này” chạy và luân chuyển, không phải một thức khác. Khi được hỏi thức ấy là gì, Sāti mô tả nó như cái nói, cảm thọ và trải quả thiện ác. Đức Phật quở trách cách hiểu ấy và nhắc rằng thức được dạy là **paṭiccasamuppanna — sinh khởi tùy thuộc điều kiện**; không có điều kiện thì thức không sinh.
 
 Kinh dùng nguyên tắc gọi tên theo điều kiện: do mắt và sắc mà thức sinh thì gọi nhãn thức; do tai và âm thanh thì gọi nhĩ thức; tương tự với mũi, lưỡi, thân và ý. Ví dụ lửa được gọi theo nhiên liệu—lửa củi, lửa rơm, lửa cỏ—làm rõ rằng “thức” không phải tên riêng của một vật đứng sau mọi kinh nghiệm. Nó là một nhóm biến cố nhận biết được phân biệt theo căn và đối tượng làm duyên.
 
@@ -101,7 +103,8 @@ Ta cũng không nên đảo thành “mỗi thức hoàn toàn không liên hệ
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn12.2">SN 12.2, đoạn 2.11–2.12</a> · <i>Vibhaṅga Sutta</i></small>
 
-[Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) định nghĩa chuỗi duyên khởi: vô minh làm duyên cho hành, hành cho thức, thức cho danh-sắc, tiếp tục qua sáu xứ, xúc, thọ, ái, thủ, hữu, sinh và già chết. Trong danh sách không có linh hồn, bản ngã siêu hình hay kho lưu trữ ký ức. Sự vắng mặt này không tự nó là một thí nghiệm chứng minh không có linh hồn; nó cho biết mô hình giải thoát kinh điển không cần mắt xích ấy.
+<!-- vault-voice-section:v1 -->
+Từ hữu đến sinh, chuỗi duyên khởi không chèn một mắt xích linh hồn; continuity được mô tả bằng quan hệ chứ không bằng vật mang. [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) định nghĩa chuỗi duyên khởi: vô minh làm duyên cho hành, hành cho thức, thức cho danh-sắc, tiếp tục qua sáu xứ, xúc, thọ, ái, thủ, hữu, sinh và già chết. Trong danh sách không có linh hồn, bản ngã siêu hình hay kho lưu trữ ký ức. Sự vắng mặt này không tự nó là một thí nghiệm chứng minh không có linh hồn; nó cho biết mô hình giải thoát kinh điển không cần mắt xích ấy.
 
 Đặc biệt, **bhava — “bha-va” — hữu hay tiến trình trở thành trong một miền sinh tồn** được định nghĩa theo dục hữu, sắc hữu và vô sắc hữu. Hữu làm duyên cho sinh; sinh làm duyên cho già chết cùng sầu, than, đau, ưu và tuyệt vọng. Chuỗi nói sự tái sinh được chuẩn bị bởi ái, thủ và hữu dưới vô minh. Nó không tả một hành khách rời ga thân cũ rồi đến ga thân mới.
 
@@ -128,7 +131,8 @@ Vì [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn1
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/dn15">DN 15, đoạn 3.1</a> · <i>Mahānidāna Sutta</i></small>
 
-[Mạng duyên khởi sâu xa — Trường Bộ Kinh](https://suttacentral.net/dn15) đi sâu vào điều kiện của thức và danh-sắc. Kinh hỏi: nếu thức không đi xuống bụng mẹ, danh-sắc có hình thành ở đó không; nếu thức sau khi đi xuống lại lệch đi, danh-sắc có sinh trưởng thành trạng thái này không; nếu thức bị cắt khỏi trẻ nhỏ, danh-sắc có tăng trưởng không? Câu trả lời đều là không. Đoạn này giữ một phạm vi sinh thành mạnh, không thể giản lược toàn bộ thành tâm lý trong một khoảnh khắc.
+<!-- vault-voice-section:v1 -->
+Thức và danh–sắc nương nhau cho thấy tiến trình không chạy một chiều từ chủ thể bí mật sang thế giới bị biết. [Mạng duyên khởi sâu xa — Trường Bộ Kinh](https://suttacentral.net/dn15) đi sâu vào điều kiện của thức và danh-sắc. Kinh hỏi: nếu thức không đi xuống bụng mẹ, danh-sắc có hình thành ở đó không; nếu thức sau khi đi xuống lại lệch đi, danh-sắc có sinh trưởng thành trạng thái này không; nếu thức bị cắt khỏi trẻ nhỏ, danh-sắc có tăng trưởng không? Câu trả lời đều là không. Đoạn này giữ một phạm vi sinh thành mạnh, không thể giản lược toàn bộ thành tâm lý trong một khoảnh khắc.
 
 Đồng thời, [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15) hỏi nếu thức không có danh-sắc làm duyên thì sinh, già chết và khổ tương lai có được nhận ra không. Quan hệ hai chiều ngăn thức trở thành nguyên nhân đầu tiên hay linh hồn tự đủ. Thức nương danh-sắc, danh-sắc nương thức; sự tiếp tục được mô tả như cấu trúc tương thuộc. Tìm một hạt nhân đứng ngoài hai bên là thêm điều văn bản không cung cấp.
 
@@ -144,7 +148,8 @@ Ba nguồn trụ cột cùng dựng một hàng rào kép. [Thức sinh theo đi
 
 ![paṭisandhi được đặt trong khung Abhidhamma và chú giải hậu kỳ có nhãn nguồn](../assets/illustrations/theravada-batch3/theravada-20-patisandhi-hau-ky.webp)
 
-Trong Theravāda hệ thống, **paṭisandhi — đọc gần đúng “pa-tí-xan-đhi” — sự nối lại hay tục sinh** gọi chức năng của sát-na tâm đầu tiên trong đời mới, nối tiếp tiến trình sau tâm tử **cuti** của đời trước. Hệ Abhidhamma và chú giải còn dùng bhavaṅga, lộ tâm và các phân loại nghiệp để giải thích chi tiết sự nối đời mà không cần linh hồn.
+<!-- vault-voice-section:v1 -->
+Paṭisandhi làm hệ thống Theravāda mạch lạc hơn, nhưng phải được gọi là hệ thống hóa hậu kỳ thay vì từ khóa ẩn trong ba đoạn Kinh. Trong Theravāda hệ thống, **paṭisandhi — đọc gần đúng “pa-tí-xan-đhi” — sự nối lại hay tục sinh** gọi chức năng của sát-na tâm đầu tiên trong đời mới, nối tiếp tiến trình sau tâm tử **cuti** của đời trước. Hệ Abhidhamma và chú giải còn dùng bhavaṅga, lộ tâm và các phân loại nghiệp để giải thích chi tiết sự nối đời mà không cần linh hồn.
 
 Nhãn nguồn là bắt buộc. Từ và mô hình kỹ thuật paṭisandhi như lộ tâm hoàn chỉnh không được trình bày nguyên dạng trong [Thức sinh theo điều kiện](https://suttacentral.net/mn38), [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) hay [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15). Nó là sự hệ thống hóa Theravāda hậu kỳ dựa trên các cam kết kinh điển về nghiệp, thức có điều kiện và tái sinh. Nói “theo Abhidhamma và chú giải” vừa tôn trọng truyền thống vừa không gán nhầm niên đại cho Kinh sớm.
 
@@ -160,7 +165,8 @@ Mục tiêu của mô hình vẫn là giải thoát: nếu nghiệp thiện đư
 
 ![tác ý hiện tại gieo khuynh hướng dài hạn trong dòng điều kiện không có bản ngã cố định](../assets/illustrations/theravada-batch3/theravada-20-thuc-hanh-tiep-noi.webp)
 
-Tái sinh không có linh hồn không phải câu đố để thắng tranh luận. Nó thay cách chịu trách nhiệm. Nếu không có bản chất cố định, hành vi bất thiện không định nghĩa ta vĩnh viễn; nếu có tiếp nối nhân quả, ta cũng không thể bảo mọi thứ biến mất nên lựa chọn không quan trọng. Không cố định mở khả năng sửa; tiếp nối làm việc sửa trở nên cấp thiết.
+<!-- vault-voice-section:v1 -->
+Trách nhiệm không cần một cái tôi vĩnh cửu; hành động vẫn để lại điều kiện, thói quen và hậu quả trong dòng tiếp nối. Tái sinh không có linh hồn không phải câu đố để thắng tranh luận. Nó thay cách chịu trách nhiệm. Nếu không có bản chất cố định, hành vi bất thiện không định nghĩa ta vĩnh viễn; nếu có tiếp nối nhân quả, ta cũng không thể bảo mọi thứ biến mất nên lựa chọn không quan trọng. Không cố định mở khả năng sửa; tiếp nối làm việc sửa trở nên cấp thiết.
 
 Hãy chọn một mẫu hình lặp—nói dối để tránh xấu hổ, nổi nóng khi bị góp ý, hoặc tìm khoái cảm để dập cảm giác trống. Ghi điều kiện trước nó: thọ nào, ái nào, căn tính nào được bảo vệ. Ghi tác ý và hành động. Sau đó hỏi nếu chuỗi này lặp một năm, “kiểu hữu” nào được củng cố? Câu hỏi không cần tin rằng một linh hồn nhận điểm; nó nhìn hành động đang xây khả năng phản ứng kế tiếp.
 
@@ -188,7 +194,8 @@ Thực hành cuối cùng là đọc chuỗi theo chiều đoạn diệt. Ngay t
 > [!warning] Điều chưa chứng minh
 > Ba nguồn trụ cột không mô tả một hạt, năng lượng, trường ký ức, cơ chế lượng tử hay dòng thông tin vật lý đi qua cái chết. Chúng cũng không cho phép xác nhận một ký ức là tiền kiếp, đoán nghiệp của cá nhân, hoặc đồng nhất paṭisandhi với phát hiện khoa học hiện đại.
 
-Đọc trước: [[19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ|Kamma — Nghiệp Là Tác Ý]]. Đọc tiếp: [[21 - Những Gì Kinh Pāli Nói Về Cái Chết]].
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài cho người đọc thấy mức chắc chắn khác nhau giữa neo Kinh sớm, giải thích truyền thống và analogy hiện đại. Đọc trước: [[19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ|Kamma — Nghiệp Là Tác Ý]]. Đọc tiếp: [[21 - Những Gì Kinh Pāli Nói Về Cái Chết]].
 
 **Nguồn kinh điển chính xác**
 

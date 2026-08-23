@@ -58,7 +58,8 @@ Nhưng nếu con người là tiến trình có điều kiện, saṁsāra gần
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn15.1">SN 15.1, đoạn 1.8</a> · <i>Tiṇakaṭṭha Sutta</i></small>
 
-“Luân hồi” trong tiếng Việt dễ gợi bánh xe cõi giới hoặc một nơi con người bị gửi tới. **Saṃsāra — đọc gần đúng “sam-sa-ra” — sự lang thang, lưu chuyển qua sinh và chết** trước hết là tiến trình. [Cỏ cây không đủ đếm số đời luân hồi — Tương Ưng Bộ Kinh](https://suttacentral.net/sn15.1) lặp công thức rằng saṃsāra này không thấy được điểm đầu; một khởi điểm không được nhận ra cho chúng sinh bị vô minh che lấp và ái trói buộc, cứ chạy quanh và lang thang.
+<!-- vault-voice-section:v1 -->
+Saṃsāra là hành động lang thang và vòng lặp có điều kiện, không nhất thiết là tên một container vũ trụ chứa linh hồn. “Luân hồi” trong tiếng Việt dễ gợi bánh xe cõi giới hoặc một nơi con người bị gửi tới. **Saṃsāra — đọc gần đúng “sam-sa-ra” — sự lang thang, lưu chuyển qua sinh và chết** trước hết là tiến trình. [Cỏ cây không đủ đếm số đời luân hồi — Tương Ưng Bộ Kinh](https://suttacentral.net/sn15.1) lặp công thức rằng saṃsāra này không thấy được điểm đầu; một khởi điểm không được nhận ra cho chúng sinh bị vô minh che lấp và ái trói buộc, cứ chạy quanh và lang thang.
 
 Các động từ **sandhāvati** và **saṃsarati** nhấn chạy quanh, lưu chuyển. Không có quản ngục, hiệu trưởng vũ trụ hay linh hồn được nêu trong công thức. Hai điều kiện được chỉ rõ là **avijjā — vô minh** và **taṇhā — ái**. Bài 17–18 đã giải thích điều kiện; bài 19 đặt nghiệp ở tác ý; bài 20 loại cùng một thức hay linh hồn làm người mang; bài 21 phân lớp lời Kinh về chết. Bài 22 ghép các ràng buộc ấy thành cách hiểu saṃsāra.
 
@@ -83,7 +84,8 @@ Saṃsāra không phải vật ở ngoài ép một chủ thể vô tội, nhưn
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn15.1">SN 15.1, đoạn 1.10</a> · <i>Tiṇakaṭṭha Sutta</i></small>
 
-[Cỏ cây không đủ đếm số đời luân hồi](https://suttacentral.net/sn15.1) đưa ra một thí nghiệm tưởng tượng. Nếu có người gom mọi cỏ, gỗ, cành và lá trong cõi Ấn Độ, cắt thành những đoạn ngắn rồi đặt từng đoạn cho mỗi người mẹ của mình, nói “đây là mẹ tôi, đây là mẹ của mẹ tôi”, vật liệu sẽ hết trước khi chuỗi những người mẹ được kể hết. Lý do được lặp: saṃsāra không thấy điểm đầu đối với chúng sinh bị vô minh che và ái buộc.
+<!-- vault-voice-section:v1 -->
+Hình ảnh cỏ cây không đủ đếm số đời nhằm tạo cảm giác về chiều dài không thấy điểm đầu, không cấp timeline để mình tính toán. [Cỏ cây không đủ đếm số đời luân hồi](https://suttacentral.net/sn15.1) đưa ra một thí nghiệm tưởng tượng. Nếu có người gom mọi cỏ, gỗ, cành và lá trong cõi Ấn Độ, cắt thành những đoạn ngắn rồi đặt từng đoạn cho mỗi người mẹ của mình, nói “đây là mẹ tôi, đây là mẹ của mẹ tôi”, vật liệu sẽ hết trước khi chuỗi những người mẹ được kể hết. Lý do được lặp: saṃsāra không thấy điểm đầu đối với chúng sinh bị vô minh che và ái buộc.
 
 Hình ảnh không nhằm cho con số dân số hoặc tuổi địa chất. Nó phá trực giác rằng lịch sử của “tôi” chỉ là vài thập niên hiện tại. Trong thế giới quan Kinh, quan hệ thân thuộc đã đổi vai vô số lần; bám vào một căn tính cố định trở nên thiếu nền. Đồng thời, kinh kết rằng đã đến lúc yếm ly đối với các hành, ly tham và giải thoát.
 
@@ -110,7 +112,8 @@ Cũng không có thế lực thu hoạch năng lượng qua chuỗi ấy. Vô mi
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn15.3">SN 15.3, đoạn 1.3–1.4</a> · <i>Assu Sutta</i></small>
 
-[Nước mắt trong luân hồi nhiều hơn biển cả — Tương Ưng Bộ Kinh](https://suttacentral.net/sn15.3) hỏi điều gì nhiều hơn: nước mắt đã đổ khi chạy quanh và lang thang qua thời gian dài, khóc vì gặp điều không ưa và lìa điều mình thương, hay nước trong bốn đại dương. Câu trả lời là nước mắt nhiều hơn. Kinh nhắc mất mẹ, cha, anh, chị, con trai, con gái và thân quyến qua những chu kỳ không thể đo.
+<!-- vault-voice-section:v1 -->
+Biển nước mắt đưa khổ trở lại thân và mất mát, chặn việc đọc luân hồi chỉ như adventure metaphysical. [Nước mắt trong luân hồi nhiều hơn biển cả — Tương Ưng Bộ Kinh](https://suttacentral.net/sn15.3) hỏi điều gì nhiều hơn: nước mắt đã đổ khi chạy quanh và lang thang qua thời gian dài, khóc vì gặp điều không ưa và lìa điều mình thương, hay nước trong bốn đại dương. Câu trả lời là nước mắt nhiều hơn. Kinh nhắc mất mẹ, cha, anh, chị, con trai, con gái và thân quyến qua những chu kỳ không thể đo.
 
 Một số tuyển tập [Tuyển kinh về luân hồi không thấy điểm đầu](https://suttacentral.net/sn15) dùng các hình ảnh song song về sữa mẹ, máu hoặc xương; bảng kiểm khẳng định nhắc nước mắt/máu/xương như cụm hình tượng của phẩm Vô thủy. Để chính xác, nguồn trụ cột [Nước mắt trong luân hồi nhiều hơn biển cả](https://suttacentral.net/sn15.3) ở đây là nước mắt. Không gom mọi hình ảnh rồi gán tất cả cho cùng số kinh. Kỷ luật số hiệu nhỏ này quan trọng vì văn chương mạnh dễ được kể lại sai.
 
@@ -126,7 +129,8 @@ Kinh không bảo mọi niềm vui là giả. Nó đặt vui trong cấu trúc m
 
 ![mô hình trường học linh hồn đặt ngoài phạm vi kinh điển như một lăng kính mục đích luận](../assets/illustrations/theravada-batch3/theravada-22-soul-school-so-sanh.webp)
 
-Mô hình **trường học linh hồn — trường học linh hồn** nói một linh hồn bền vững chọn hoàn cảnh, học bài qua nhiều đời và tiến hóa tới trình độ cao hơn. Nó có sức hấp dẫn vì làm đau khổ có ý nghĩa, bảo đảm tiến bộ và giữ một nhân vật quen thuộc xuyên suốt câu chuyện. Trong vài hệ tâm linh hiện đại, nó còn đi cùng hợp đồng linh hồn, nhóm linh hồn và kế hoạch tiền sinh.
+<!-- vault-voice-section:v1 -->
+‘Trường học linh hồn’ có thể giúp một số người tạo meaning, nhưng nó thêm teacher, curriculum và soul mà đoạn Pāli không nêu. Mô hình **trường học linh hồn — trường học linh hồn** nói một linh hồn bền vững chọn hoàn cảnh, học bài qua nhiều đời và tiến hóa tới trình độ cao hơn. Nó có sức hấp dẫn vì làm đau khổ có ý nghĩa, bảo đảm tiến bộ và giữ một nhân vật quen thuộc xuyên suốt câu chuyện. Trong vài hệ tâm linh hiện đại, nó còn đi cùng hợp đồng linh hồn, nhóm linh hồn và kế hoạch tiền sinh.
 
 So với Theravāda kinh điển, ba lệch điểm nổi bật. Thứ nhất, [Thức sinh theo điều kiện](https://suttacentral.net/mn38) bác cùng một thức lang thang; vô ngã không cho lõi linh hồn trường tồn. Thứ hai, [Cỏ cây không đủ đếm số đời luân hồi](https://suttacentral.net/sn15.1) và [Nước mắt trong luân hồi nhiều hơn biển cả](https://suttacentral.net/sn15.3) mô tả lặp lại do vô minh và ái, không phải chương trình do trí tuệ cao hơn thiết kế. Thứ ba, tiến bộ không tự động: thời gian dài đã tạo biển nước mắt, không bảo đảm tốt nghiệp.
 
@@ -142,7 +146,8 @@ Ta có thể giữ ngôn ngữ học tập ở mức ẩn dụ đời thường:
 
 ![mô hình nhà tù vũ trụ với quản ngục giả định được đối chiếu cùng vô minh và ái](../assets/illustrations/theravada-batch3/theravada-22-prison-planet-so-sanh.webp)
 
-Mô hình **hành tinh nhà tù/bẫy linh hồn — hành tinh nhà tù hay bẫy linh hồn** nói các thế lực bí mật giam ý thức, xóa ký ức, dựng ánh sáng giả hoặc thu hoạch năng lượng để ép tái sinh. Nó hấp dẫn khi con người thấy đời đầy bất công và các thiết chế thật sự lạm dụng quyền lực. Nó cho đau một thủ phạm rõ và biến giải thoát thành thoát khỏi quản ngục.
+<!-- vault-voice-section:v1 -->
+‘Nhà tù vũ trụ’ cũng thêm cai ngục và conspiracy cosmic, trong khi nguồn tập trung vào vô minh, ái và thủ đang tự nuôi vòng. Mô hình **hành tinh nhà tù/bẫy linh hồn — hành tinh nhà tù hay bẫy linh hồn** nói các thế lực bí mật giam ý thức, xóa ký ức, dựng ánh sáng giả hoặc thu hoạch năng lượng để ép tái sinh. Nó hấp dẫn khi con người thấy đời đầy bất công và các thiết chế thật sự lạm dụng quyền lực. Nó cho đau một thủ phạm rõ và biến giải thoát thành thoát khỏi quản ngục.
 
 [Tuyển kinh về luân hồi không thấy điểm đầu](https://suttacentral.net/sn15) cũng mô tả saṃsāra đáng mỏi mệt, nên hai hình ảnh có bề mặt giống nhau. Nhưng nguyên nhân khác hẳn. Đoạn kinh nền nêu vô minh che và ái trói; không nêu archon, người ngoài hành tinh, thần lừa hay hệ thống thu hoạch. Giải thoát đến qua yếm ly, ly tham và đoạn điều kiện, không qua mật mã né ánh sáng sau chết.
 
@@ -158,7 +163,8 @@ Nếu ẩn dụ prison giúp ai nhận ra “mình đang sống bị thúc ép�
 
 ![vô minh và ái được tháo bằng giới định tuệ thay cho cuộc chiến với cai ngục bí mật](../assets/illustrations/theravada-batch3/theravada-22-loi-ra-dieu-kien.webp)
 
-Hai kinh kết bằng một hướng rõ: đã đủ để yếm ly đối với các hành, đủ để ly tham, đủ để giải thoát. **Virāga — ly tham, phai dục** không phải chiến thắng một thế lực ngoài; **vimutti — giải thoát** không phải linh hồn trốn sang vùng không bị theo dõi. Đó là sự chấm dứt nắm giữ và tái hữu khi điều kiện của chúng không còn.
+<!-- vault-voice-section:v1 -->
+Lối ra khả thi vì điều kiện có thể dừng, không vì mình tìm được kẻ bí mật để đánh bại. Hai kinh kết bằng một hướng rõ: đã đủ để yếm ly đối với các hành, đủ để ly tham, đủ để giải thoát. **Virāga — ly tham, phai dục** không phải chiến thắng một thế lực ngoài; **vimutti — giải thoát** không phải linh hồn trốn sang vùng không bị theo dõi. Đó là sự chấm dứt nắm giữ và tái hữu khi điều kiện của chúng không còn.
 
 Thực hành đầu tiên là nhận dạng vòng nhỏ mà không thu hẹp toàn bộ saṃsāra vào tâm lý. Khi gặp khổ thọ, ái đòi xóa, chiếm hoặc trở thành gì? Thủ bảo vệ câu chuyện nào? Kiểu hữu nào sinh—người bị xúc phạm, người cứu thế, người biết bí mật? Việc thấy một vòng hiện tại không chứng minh đời trước, nhưng cho điểm can thiệp vào cùng loại nhiên liệu mà Kinh nêu.
 
@@ -186,7 +192,8 @@ Cuối cùng, để hình ảnh vô số mẹ và biển nước mắt mở bi t
 > [!warning] Điều chưa chứng minh
 > Hai nguồn trụ cột không nói linh hồn chọn giáo trình, ký hợp đồng tiền sinh, tự động tiến hóa, bị xóa ký ức hay bị thực thể bí mật thu hoạch năng lượng. “Không thấy điểm đầu” cũng không chứng minh một lý thuyết vật lý về tuổi vũ trụ. Không được biến đau khổ thành bằng chứng của thiết kế hay âm mưu.
 
-Đọc trước: [[21 - Những Gì Kinh Pāli Nói Về Cái Chết]]. Đọc tiếp: [[23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh]].
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ hai metaphor ở tầng so sánh và trả quyền ưu tiên cho cơ chế giải thoát của Kinh. Đọc trước: [[21 - Những Gì Kinh Pāli Nói Về Cái Chết]]. Đọc tiếp: [[23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh]].
 
 **Nguồn kinh điển chính xác**
 

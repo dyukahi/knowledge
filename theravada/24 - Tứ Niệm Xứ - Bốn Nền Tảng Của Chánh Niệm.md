@@ -62,7 +62,8 @@ Quan sát thân, thọ, tâm và pháp là học nhìn kinh nghiệm trước kh
 <!-- CHỖ GIỮ HÌNH: bốn vùng thân thọ tâm pháp quanh một người ngồi tỉnh thức -->
 
 
-**Satipaṭṭhāna — đọc gần đúng “sa-ti-pát-tha-na” — sự thiết lập niệm hoặc nền tảng của niệm** không chỉ là chú ý chung chung. [Bốn nền tảng chánh niệm](https://suttacentral.net/mn10) và [Bốn nền tảng chánh niệm bản dài](https://suttacentral.net/dn22) đặt nó trong một lộ trình có đích: vượt sầu, giảm khổ và hiện thực hóa giải thoát. Người thực hành không đơn thuần ghi nhận bất cứ điều gì nổi lên rồi gọi mọi sự chú ý là chánh niệm. Cách chú ý phải đi cùng nỗ lực, hiểu rõ, nhớ biết và sự từ bỏ tham ưu đối với đời.
+<!-- vault-voice-section:v1 -->
+Bốn niệm xứ là bốn phạm vi soi kinh nghiệm vì mục đích giải thoát, không phải bốn tab của một app mindfulness. **Satipaṭṭhāna — đọc gần đúng “sa-ti-pát-tha-na” — sự thiết lập niệm hoặc nền tảng của niệm** không chỉ là chú ý chung chung. [Bốn nền tảng chánh niệm](https://suttacentral.net/mn10) và [Bốn nền tảng chánh niệm bản dài](https://suttacentral.net/dn22) đặt nó trong một lộ trình có đích: vượt sầu, giảm khổ và hiện thực hóa giải thoát. Người thực hành không đơn thuần ghi nhận bất cứ điều gì nổi lên rồi gọi mọi sự chú ý là chánh niệm. Cách chú ý phải đi cùng nỗ lực, hiểu rõ, nhớ biết và sự từ bỏ tham ưu đối với đời.
 
 Bốn phạm vi là **kāya — thân**, **vedanā — thọ hay sắc thái dễ chịu, khó chịu, trung tính**, **citta — trạng thái tâm**, và **dhammā — các nhóm pháp được Kinh tổ chức để quán**. Chúng không phải bốn vật tách kín. Hơi thở thuộc thân nhưng có thể đi cùng thọ khó chịu; tâm biết mình đang sợ; nhóm năm triền cái giúp nhận diện điều đang che lấp. Bốn cửa cho một kinh nghiệm được soi dưới các góc có chức năng khác nhau.
 
@@ -90,7 +91,8 @@ Mục tiêu giải thoát cũng không cho phép hứa chữa mọi bệnh. “V
 <!-- CHỖ GIỮ HÌNH: công thức nhiệt tâm hiểu rõ niệm và buông tham ưu như bốn chân đế -->
 
 
-“Quán thân nơi thân” ngăn việc lập tức biến cảm giác thành câu chuyện về “tôi”. Co thắt là co thắt; nóng là nóng; bước là bước. Điều đó không phủ nhận con người hay hoàn cảnh, mà trì hoãn diễn giải đủ lâu để thấy dữ kiện kinh nghiệm. Tương tự, quán thọ nơi thọ không gọi khó chịu là thất bại; quán tâm nơi tâm nhận biết tâm có tham hay không; quán pháp dùng các bản đồ cụ thể của Kinh.
+<!-- vault-voice-section:v1 -->
+Nhiệt tâm, tỉnh giác và niệm giữ việc quan sát khỏi trượt thành nhìn thụ động hoặc mê trạng thái dễ chịu. “Quán thân nơi thân” ngăn việc lập tức biến cảm giác thành câu chuyện về “tôi”. Co thắt là co thắt; nóng là nóng; bước là bước. Điều đó không phủ nhận con người hay hoàn cảnh, mà trì hoãn diễn giải đủ lâu để thấy dữ kiện kinh nghiệm. Tương tự, quán thọ nơi thọ không gọi khó chịu là thất bại; quán tâm nơi tâm nhận biết tâm có tham hay không; quán pháp dùng các bản đồ cụ thể của Kinh.
 
 **Ātāpī** không phải ép thân đến kiệt sức. Nó là sự tha thiết không nuôi bất thiện. **Sampajāna** không chỉ tỉnh táo sinh học mà là hiểu điều đang làm, mục đích và tính thích hợp. **Satimā** giữ đối tượng và khung đạo đức trong trí. **Vineyya loke abhijjhādomanassaṃ** hướng đến không bị tham và ưu kéo đi. Nếu thực hành làm tăng ám ảnh, tê liệt hay tự ghét, cần điều chỉnh thay vì cho rằng đau hơn luôn sâu hơn.
 
@@ -107,7 +109,8 @@ Ba câu hỏi giúp giữ công thức đầy đủ: Tôi đang biết gì trự
 <!-- CHỖ GIỮ HÌNH: thân trong bốn tư thế cùng ba sắc thái thọ dễ chịu khó chịu trung tính -->
 
 
-Đoạn hơi thở trước hết nói biết dài là dài, ngắn là ngắn. Nó không bảo đếm đến một tỷ lệ, nín hơi hay đẩy khí xuống một vị trí. Bài 25 sẽ đọc đủ mười sáu bước [Mười sáu bước niệm hơi thở](https://suttacentral.net/mn118). Ở đây, hơi thở là một cửa của thân. Nếu theo hơi thở gây hoảng, người thực hành có thể biết tư thế, tiếp xúc bàn chân, chuyển động khi đi hoặc âm thanh ngoài thân. Satipaṭṭhāna rộng hơn một kỹ thuật.
+<!-- vault-voice-section:v1 -->
+Thân và thọ đưa thực hành về dữ kiện trước khi câu chuyện tự sự chiếm toàn bộ màn hình. Đoạn hơi thở trước hết nói biết dài là dài, ngắn là ngắn. Nó không bảo đếm đến một tỷ lệ, nín hơi hay đẩy khí xuống một vị trí. Bài 25 sẽ đọc đủ mười sáu bước [Mười sáu bước niệm hơi thở](https://suttacentral.net/mn118). Ở đây, hơi thở là một cửa của thân. Nếu theo hơi thở gây hoảng, người thực hành có thể biết tư thế, tiếp xúc bàn chân, chuyển động khi đi hoặc âm thanh ngoài thân. Satipaṭṭhāna rộng hơn một kỹ thuật.
 
 Quán thân còn gồm đi, đứng, ngồi, nằm; hiểu rõ khi tới lui, nhìn, co duỗi, ăn uống; quán các phần thân; bốn đại; và các quán tử thi. Những mục sau không phù hợp để tự làm trong mọi hoàn cảnh. Người có rối loạn ăn uống, ghê sợ thân, ám ảnh bệnh, tang chế mới hoặc sang chấn có thể bị kích hoạt bởi quán bất tịnh và tử thi. Không có đức hạnh nào trong việc ép mình qua phản ứng mất ổn định.
 
@@ -124,7 +127,8 @@ Một buổi thực hành an toàn có thể bắt đầu bằng mắt mở, đ�
 <!-- CHỖ GIỮ HÌNH: các trạng thái tâm đổi màu bên cạnh bản đồ triền cái uẩn căn và giác chi -->
 
 
-Công thức không nói “tôi là người tham” mà nhận trạng thái tâm có tham. Khác biệt ngữ pháp nhỏ tạo chỗ cho thay đổi. Tâm co rút, tán loạn, rộng, định hay giải thoát được biết theo trạng thái. Tuy nhiên, đây không phải cách phủ nhận trách nhiệm: “chỉ có sân, không có tôi” không xóa hậu quả lời nói. Vô ngã giúp bớt cố định, còn giới giữ trách nhiệm.
+<!-- vault-voice-section:v1 -->
+Tâm và pháp cho tên gọi hữu ích, miễn tên không biến thành identity mới như ‘tôi là người có tâm sân’.  Công thức không nói “tôi là người tham” mà nhận trạng thái tâm có tham. Khác biệt ngữ pháp nhỏ tạo chỗ cho thay đổi. Tâm co rút, tán loạn, rộng, định hay giải thoát được biết theo trạng thái. Tuy nhiên, đây không phải cách phủ nhận trách nhiệm: “chỉ có sân, không có tôi” không xóa hậu quả lời nói. Vô ngã giúp bớt cố định, còn giới giữ trách nhiệm.
 
 Quán pháp thường bị hiểu mơ hồ là “quán mọi hiện tượng”. Trong [Bốn nền tảng chánh niệm](https://suttacentral.net/mn10), nó có các nhóm cụ thể: năm triền cái, năm uẩn thủ, sáu nội ngoại xứ, bảy giác chi và Tứ Thánh Đế. Đây là lúc bản đồ giáo pháp tổ chức kinh nghiệm. Biết hôn trầm đang có khác với chỉ cảm thấy mờ; biết điều kiện sinh và cách đoạn nó biến quan sát thành tu tập.
 
@@ -141,7 +145,8 @@ Không dùng danh mục tâm để tự chẩn đoán. “Tâm tán loạn” kh
 <!-- CHỖ GIỮ HÌNH: kinh nghiệm bên trong và bên ngoài hiện lên rồi tan trong các làn sóng -->
 
 
-Công thức lặp sau nhiều bài tập. “Bên trong/bên ngoài” có nhiều cách giải thích: nơi chính mình và nơi người khác; phần nội tại và đối tượng ngoài; hoặc luân phiên các góc nhìn. Không nên tuyên bố một cách duy nhất đã dứt tranh luận. Điểm chắc là phạm vi không bị khóa trong một chấm nội cảm. Thân người khác có thể được biết qua biểu hiện, nhưng không phải đọc tâm hay xâm phạm riêng tư.
+<!-- vault-voice-section:v1 -->
+Nội–ngoại và sinh–diệt mở rộng tầm nhìn để hành giả không nhốt mindfulness vào một điểm chú ý nhỏ. Công thức lặp sau nhiều bài tập. “Bên trong/bên ngoài” có nhiều cách giải thích: nơi chính mình và nơi người khác; phần nội tại và đối tượng ngoài; hoặc luân phiên các góc nhìn. Không nên tuyên bố một cách duy nhất đã dứt tranh luận. Điểm chắc là phạm vi không bị khóa trong một chấm nội cảm. Thân người khác có thể được biết qua biểu hiện, nhưng không phải đọc tâm hay xâm phạm riêng tư.
 
 Quán sinh và diệt là thấy tính có điều kiện. Một cảm giác tăng khi chú ý, đổi khi thở, giảm khi đứng; sân sinh sau ký ức, mạnh khi lặp câu chuyện, yếu khi rời tranh cãi. Thấy tiến trình khác với đọc thuộc “vô thường”. Đừng cố làm mọi thứ biến mất để chứng minh diệt. Nỗ lực cưỡng ép chính là một điều kiện mới cần được biết.
 
@@ -168,7 +173,8 @@ Nội và ngoại cũng nhắc rằng khổ không chỉ ở “tâm tôi”. B�
 
 <!-- CHỖ GIỮ HÌNH: một lối đi có nhiều cách diễn giải nhưng cùng hướng về bốn niệm xứ -->
 
-Từ **ekāyana** trong câu mở đầu là điểm tranh luận dịch thuật. Nó đã được dịch theo các hướng như “con đường duy nhất”, “con đường trực tiếp”, “đường một chiều”, “đường đi đến một đích”. Cấu tạo và cách dùng trong văn bản cho phép thảo luận; không nên giấu tranh luận sau một khẩu hiệu. Bản dịch làm việc giữ nguyên từ ở lần đầu để người đọc thấy nơi bất định.
+<!-- vault-voice-section:v1 -->
+Ekāyana nhấn sức mạnh của con đường này, nhưng không đủ để một school hiện đại độc quyền toàn bộ Satipaṭṭhāna. Từ **ekāyana** trong câu mở đầu là điểm tranh luận dịch thuật. Nó đã được dịch theo các hướng như “con đường duy nhất”, “con đường trực tiếp”, “đường một chiều”, “đường đi đến một đích”. Cấu tạo và cách dùng trong văn bản cho phép thảo luận; không nên giấu tranh luận sau một khẩu hiệu. Bản dịch làm việc giữ nguyên từ ở lần đầu để người đọc thấy nơi bất định.
 
 Nếu dịch “con đường duy nhất”, không nhất thiết suy ra chỉ một kỹ thuật của một trung tâm hiện đại là hợp lệ. Chính [Bốn nền tảng chánh niệm](https://suttacentral.net/mn10) chứa nhiều đối tượng, còn các kinh khác dạy Bát chánh đạo, giới-định-tuệ, bốn niệm xứ, hơi thở, từ tâm và các phương thức định. Có thể hiểu bốn niệm xứ là phương diện thiết yếu hoặc con đường quy tụ, nhưng không có cơ sở để một dòng thiền đồng nhất giáo án riêng với toàn bộ ekāyana.
 
@@ -198,7 +204,8 @@ Một cách bắt đầu khiêm tốn là mười phút với thân tương đ�
 > [!warning] Điều chưa chứng minh
 > Ekāyana không chứng minh độc quyền của một kỹ thuật hiện đại. Hai kinh không hứa chữa mọi bệnh tâm thần, không dạy ép người sang chấn hồi tưởng, không trao quyền chẩn đoán cho giáo thọ và không biến trải nghiệm thiền cá nhân thành bằng chứng phổ quát.
 
-Đọc trước: [[23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh]]. Đọc tiếp: [[25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở]].
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ kỹ thuật trong giới–định–tuệ và giữ safety khi thực hành chạm trauma hoặc bất ổn tâm thần. Đọc trước: [[23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh]]. Đọc tiếp: [[25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở]].
 
 **Nguồn kinh điển chính xác**
 

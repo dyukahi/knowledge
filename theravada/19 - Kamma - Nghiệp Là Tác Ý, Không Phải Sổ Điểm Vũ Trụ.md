@@ -46,7 +46,8 @@ Trong Kinh, điểm vào cụ thể hơn nhiều: nghiệp là tác ý. Điều 
 ![hình tượng tự nhiên diễn giải 1. đưa “nghiệp” trở lại hành động có tác ý mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-1-ua-nghiep-tro-lai-hanh-ong-co-tac-y.webp)
 
 
-Trong tiếng Việt phổ thông, “nghiệp” có thể chỉ số xui, một món nợ bí ẩn, thói quen nghề nghiệp hoặc lời chê người đang gặp nạn. Trong [Nghiệp là tác ý và có con đường đoạn diệt — Tăng Chi Bộ Kinh](https://suttacentral.net/an6.63), định nghĩa làm thay đổi toàn bộ khung: **kamma — đọc gần đúng “cam-ma” — nghiệp, hành động có tác ý**. Câu Pāli ngắn nói: *cetanāhaṃ, bhikkhave, kammaṃ vadāmi*—“Này các tỳ-kheo, Ta nói tác ý là nghiệp.” Sau khi có tác ý, người ta tạo nghiệp qua thân, lời và tâm.
+<!-- vault-voice-section:v1 -->
+Đưa nghiệp về tác ý làm câu hỏi bớt huyền bí và gần trách nhiệm hơn: mình đang muốn gì khi chuẩn bị nói hoặc làm điều này? Trong tiếng Việt phổ thông, “nghiệp” có thể chỉ số xui, một món nợ bí ẩn, thói quen nghề nghiệp hoặc lời chê người đang gặp nạn. Trong [Nghiệp là tác ý và có con đường đoạn diệt — Tăng Chi Bộ Kinh](https://suttacentral.net/an6.63), định nghĩa làm thay đổi toàn bộ khung: **kamma — đọc gần đúng “cam-ma” — nghiệp, hành động có tác ý**. Câu Pāli ngắn nói: *cetanāhaṃ, bhikkhave, kammaṃ vadāmi*—“Này các tỳ-kheo, Ta nói tác ý là nghiệp.” Sau khi có tác ý, người ta tạo nghiệp qua thân, lời và tâm.
 
 **Cetanā — “chê-ta-na” — tác ý, yếu tố hướng và tổ chức hành động** không chỉ là ý nghĩ thoáng qua, cũng không đồng nghĩa tuyên bố “tôi có ý tốt”. Nó bao gồm hướng tâm thực sự đứng sau lựa chọn, được biểu hiện qua thân, khẩu, ý và phải được xét cùng hậu quả có thể thấy. Một người viện ý tốt để che sự cẩu thả vẫn cần học và chịu trách nhiệm; định nghĩa về tác ý không xóa tác động.
 
@@ -61,7 +62,8 @@ Bài này giữ đồng thời ba điều: hành động có hậu quả; hậu 
 ![hình tượng tự nhiên diễn giải 2. an 6.63: tác ý, nguồn sinh, đa dạng và đoạn diệt của nghiệp mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-2-an-6-63-tac-y-nguon-sinh-a-dang-va-oan-diet.webp)
 
 
-[Nghiệp là tác ý và có con đường đoạn diệt](https://suttacentral.net/an6.63) không chỉ cho một câu định nghĩa. Kinh đặt nghiệp vào phương pháp phân tích: nghiệp cần được biết, nguồn sinh của nghiệp cần được biết, sự đa dạng, quả, sự đoạn diệt và con đường dẫn tới đoạn diệt cần được biết. Nguồn sinh được liên hệ với xúc; sự đa dạng gồm nghiệp dẫn tới kinh nghiệm ở địa ngục, loài vật, ngạ quỷ, cõi người và cõi trời; quả được trải ngay hiện tại, đời kế hoặc về sau; đoạn diệt nghiệp được nói cùng sự đoạn diệt xúc; Bát Chánh Đạo là con đường.
+<!-- vault-voice-section:v1 -->
+AN 6.63 không chỉ định nghĩa nghiệp; nó đặt nghiệp trong chuỗi có nguồn sinh, khác biệt, quả và con đường chấm dứt. [Nghiệp là tác ý và có con đường đoạn diệt](https://suttacentral.net/an6.63) không chỉ cho một câu định nghĩa. Kinh đặt nghiệp vào phương pháp phân tích: nghiệp cần được biết, nguồn sinh của nghiệp cần được biết, sự đa dạng, quả, sự đoạn diệt và con đường dẫn tới đoạn diệt cần được biết. Nguồn sinh được liên hệ với xúc; sự đa dạng gồm nghiệp dẫn tới kinh nghiệm ở địa ngục, loài vật, ngạ quỷ, cõi người và cõi trời; quả được trải ngay hiện tại, đời kế hoặc về sau; đoạn diệt nghiệp được nói cùng sự đoạn diệt xúc; Bát Chánh Đạo là con đường.
 
 > [!quote] Kinh về nghiệp là tác ý và có con đường đoạn diệt — Tăng Chi Bộ Kinh
 > Đoạn Kinh nêu rằng ta nói tác ý là nghiệp; sau khi có tác ý, người ta tạo nghiệp.
@@ -89,7 +91,8 @@ Nói nghiệp qua thân và khẩu cũng sửa việc chỉ chăm “năng lư�
 ![hình tượng tự nhiên diễn giải 3. mn 135: quan hệ đạo đức không phải công thức một–một mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-3-mn-135-quan-he-ao-uc-khong-phai-cong-thuc-m.webp)
 
 
-[Hành vi và những khác biệt trong quả](https://suttacentral.net/mn135) trình bày các cặp. Người sát sinh, tàn nhẫn có thể tái sinh cảnh khổ; nếu trở lại làm người thì đoản thọ. Người từ bỏ sát sinh có khuynh hướng trái lại. Gây thương tích liên hệ bệnh tật; không gây hại liên hệ sức khỏe. Sân hận liên hệ dung sắc kém; không sân liên hệ dung sắc tốt. Đố kỵ liên hệ ít ảnh hưởng; không đố kỵ liên hệ ảnh hưởng. Không bố thí liên hệ nghèo; bố thí liên hệ giàu. Kiêu mạn liên hệ địa vị thấp; tôn trọng liên hệ địa vị cao. Không hỏi điều thiện bất thiện liên hệ ít trí; biết hỏi liên hệ trí.
+<!-- vault-voice-section:v1 -->
+MN 135 nói quan hệ đạo đức có pattern, nhưng pattern không phải máy bán hàng nơi một hành vi luôn trả đúng một sự kiện. [Hành vi và những khác biệt trong quả](https://suttacentral.net/mn135) trình bày các cặp. Người sát sinh, tàn nhẫn có thể tái sinh cảnh khổ; nếu trở lại làm người thì đoản thọ. Người từ bỏ sát sinh có khuynh hướng trái lại. Gây thương tích liên hệ bệnh tật; không gây hại liên hệ sức khỏe. Sân hận liên hệ dung sắc kém; không sân liên hệ dung sắc tốt. Đố kỵ liên hệ ít ảnh hưởng; không đố kỵ liên hệ ảnh hưởng. Không bố thí liên hệ nghèo; bố thí liên hệ giàu. Kiêu mạn liên hệ địa vị thấp; tôn trọng liên hệ địa vị cao. Không hỏi điều thiện bất thiện liên hệ ít trí; biết hỏi liên hệ trí.
 
 > [!quote] Kinh về hành vi và những khác biệt trong quả — Trung Bộ Kinh
 > Đoạn Kinh nêu rằng này thanh niên, chúng sinh là chủ nhân của nghiệp, thừa tự nghiệp, sinh từ nghiệp, có nghiệp là thân quyến, có nghiệp là nơi nương tựa.
@@ -117,7 +120,8 @@ Các cặp của [Hành vi và những khác biệt trong quả](https://suttace
 ![hình tượng tự nhiên diễn giải 4. vì sao kamma không phải định mệnh hay nguyên nhân duy nhất mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-4-vi-sao-kamma-khong-phai-inh-menh-hay-nguyen.webp)
 
 
-Định mệnh nói kết quả đã cố định và nỗ lực hiện tại vô nghĩa. Giáo lý kamma nói hành động hiện tại là một điều kiện có sức tạo hậu quả. Chỉ riêng việc Bát Chánh Đạo, tinh tấn và tu sửa được dạy đã loại cách đọc hoàn toàn định mệnh. Nếu quá khứ quyết mọi thứ, khuyên tránh bất thiện và phát triển thiện sẽ vô ích.
+<!-- vault-voice-section:v1 -->
+Nếu nghiệp là điều kiện giữa nhiều điều kiện, nó không thể bị dùng như định mệnh khóa mọi khả năng thay đổi hiện tại. Định mệnh nói kết quả đã cố định và nỗ lực hiện tại vô nghĩa. Giáo lý kamma nói hành động hiện tại là một điều kiện có sức tạo hậu quả. Chỉ riêng việc Bát Chánh Đạo, tinh tấn và tu sửa được dạy đã loại cách đọc hoàn toàn định mệnh. Nếu quá khứ quyết mọi thứ, khuyên tránh bất thiện và phát triển thiện sẽ vô ích.
 
 > [!quote] Kinh về nghiệp là tác ý và có con đường đoạn diệt — Tăng Chi Bộ Kinh
 > Đoạn Kinh nêu rằng và này các tỳ-kheo, nghiệp đoạn diệt là gì; xúc đoạn diệt là nghiệp đoạn diệt.
@@ -145,7 +149,8 @@ Cuối cùng, phi tất định bảo vệ khả năng hối cải. Một hành 
 ![hình tượng tự nhiên diễn giải 5. không đổ lỗi nạn nhân: hàng rào đạo đức bắt buộc mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-5-khong-o-loi-nan-nhan-hang-rao-ao-uc-bat-buo.webp)
 
 
-Đổ lỗi nạn nhân thường mang ba dạng. Dạng thô: “Bạn gặp nạn vì nghiệp xấu.” Dạng tâm lý hóa: “Bạn thu hút điều này bằng năng lượng.” Dạng tu hành: “Nếu đau, bạn chưa buông.” Cả ba đều tuyên bố biết điều không có chứng cứ, chuyển trách nhiệm khỏi người gây hại và bỏ qua các điều kiện thật.
+<!-- vault-voice-section:v1 -->
+Bất kỳ cách giảng nghiệp nào khiến người bị hại bị kết tội mà kẻ gây hại được miễn trách nhiệm đã phản bội chức năng đạo đức của giáo lý. Đổ lỗi nạn nhân thường mang ba dạng. Dạng thô: “Bạn gặp nạn vì nghiệp xấu.” Dạng tâm lý hóa: “Bạn thu hút điều này bằng năng lượng.” Dạng tu hành: “Nếu đau, bạn chưa buông.” Cả ba đều tuyên bố biết điều không có chứng cứ, chuyển trách nhiệm khỏi người gây hại và bỏ qua các điều kiện thật.
 
 Trong một vụ bạo lực, kamma rõ nhất mà ta có thể thẩm tra là tác ý và hành động của kẻ gây bạo lực. Việc cần làm là chấm dứt nguy hiểm, chăm sóc người bị hại, ghi nhận sự thật, áp dụng công lý phù hợp và ngăn tái diễn. Hỏi nạn nhân về đời trước trước khi hỏi ai đã gây hại là đảo trật tự đạo đức.
 
@@ -162,7 +167,8 @@ Một cộng đồng Theravāda có trách nhiệm nên đặt quy trình bảo 
 ![hình tượng tự nhiên diễn giải 6. thực hành với tác ý và quyền hành động hiện tại mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-19-6-thuc-hanh-voi-tac-y-va-quyen-hanh-ong-hien-.webp)
 
 
-Trong một tuần, chọn mỗi ngày một hành động đáng kể. Ghi hoàn cảnh mà không kể chuyện: ai nói gì, thân đang thế nào, quyền lực chênh lệch ra sao. Ghi thọ và xung lực. Sau đó hỏi cetanā: mình đang hướng tới chiếm hữu, trả đũa, che giấu, không hại, trung thực hay chăm sóc? Không cần tìm một động cơ thuần khiết; con người thường có động cơ trộn.
+<!-- vault-voice-section:v1 -->
+Thực hành với nghiệp bắt đầu ở phần quyền hành động còn có: tác ý, lựa chọn, sửa hậu quả và điều kiện mình nuôi tiếp. Trong một tuần, chọn mỗi ngày một hành động đáng kể. Ghi hoàn cảnh mà không kể chuyện: ai nói gì, thân đang thế nào, quyền lực chênh lệch ra sao. Ghi thọ và xung lực. Sau đó hỏi cetanā: mình đang hướng tới chiếm hữu, trả đũa, che giấu, không hại, trung thực hay chăm sóc? Không cần tìm một động cơ thuần khiết; con người thường có động cơ trộn.
 
 Ghi ba cửa. Thân đã làm gì hoặc sắp làm gì? Lời sẽ thật, hòa hợp, hữu ích và đúng lúc đến đâu? Tâm đang cố nuôi phẩm chất nào? Một ý thiện không bù tự động cho phương tiện hại. Nếu cần đặt ranh giới, nói rõ có thể thiện hơn im lặng vì sợ. Nếu cần xin lỗi, xin lỗi không kèm câu ép người bị hại tha thứ.
 
@@ -191,7 +197,8 @@ Cuối tuần hỏi: mình có chịu trách nhiệm rõ hơn mà ít tự ghét
 > [!warning] Điều chưa chứng minh
 > Hai nguồn trụ cột không nói nghiệp là định mệnh, sổ điểm, trừng phạt, năng lượng lượng tử, luật hấp dẫn hay nguyên nhân duy nhất của bệnh, nghèo và bạo lực. Không được suy từ nỗi khổ hiện tại rằng nạn nhân đã làm điều xấu trong quá khứ; phẩm giá và quyền được bảo vệ không tùy suy đoán nghiệp.
 
-Đọc trước: Mười Hai Chi Duyên Khởi — Một Đời, Ba Đời Hay Từng Khoảnh Khắc? Đọc tiếp: Tái Sinh Mà Không Có Linh Hồn. Bài 20 chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ rõ đâu là lời Kinh, đâu là mô hình nhân quả và đâu là điều bài không thể biết về một trường hợp cụ thể. Đọc trước: Mười Hai Chi Duyên Khởi — Một Đời, Ba Đời Hay Từng Khoảnh Khắc? Đọc tiếp: Tái Sinh Mà Không Có Linh Hồn. Bài 20 chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
 
 **Nguồn kinh điển chính xác**
 
