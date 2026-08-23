@@ -40,8 +40,8 @@
     35,
     36
   ],
-  "cards": 111,
-  "passed": 111,
+  "cards": 113,
+  "passed": 113,
   "rows": [
     {
       "lesson": 1,
@@ -227,6 +227,13 @@
     },
     {
       "lesson": 9,
+      "source": "DN 16:6.7.3",
+      "title": "Lời dạy cuối về không phóng dật — Trường Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Một câu Pāli và bản Việt align đầy đủ; prose phân biệt appamāda với productivity anxiety."
+    },
+    {
+      "lesson": 9,
       "source": "DN 2, đoạn 42.1",
       "title": "Kinh về quả của đời sống xuất gia — Trường Bộ Kinh",
       "translation_label": "Dịch Việt",
@@ -245,6 +252,13 @@
       "title": "Kinh về quả của đời sống xuất gia — Trường Bộ Kinh",
       "translation_label": "Dịch Việt",
       "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 9,
+      "source": "SN 45.2:1.4–2.3",
+      "title": "Thiện hữu là toàn bộ đời sống phạm hạnh — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Bản Việt giữ lời Ānanda, lời sửa của Đức Phật và quan hệ thiện hữu→Bát Chánh Đạo; prose không biến thiện hữu thành lệ thuộc guru."
     },
     {
       "lesson": 10,
