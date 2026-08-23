@@ -30,35 +30,272 @@
   },
   "sources": [
     {
-      "code": "DN 2",
-      "collection_abbr": "DN",
-      "number": "2",
-      "collection_pali": "Dīgha Nikāya",
-      "collection_han_viet": "Trường Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh dài",
-      "discourse_pali_title_candidates": [
-        "Sāmaññaphala Sutta"
-      ],
-      "discourse_pali_title": "Sāmaññaphala Sutta",
+      "code": "AN 10.13",
+      "collection_abbr": "AN",
+      "number": "10.13",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
+      "discourse_pali_title_candidates": [],
+      "discourse_pali_title": "Saṁyojana Sutta",
       "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Quả của đời sống xuất gia",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/dn2",
+      "discourse_plain_vietnamese_title": "Mười kiết sử gồm năm thấp và năm cao",
+      "title_verification_status": "verified-suttacentral",
+      "url": "https://suttacentral.net/an10.13",
       "used_in_lessons": [
-        9,
-        27
+        31
       ],
-      "plain_summary": "Bài kinh được dùng để trình bày lộ trình tuần tự từ giới và phòng hộ đến bốn tầng thiền cùng tri kiến giải thoát.",
-      "source_key": "DN 2",
+      "plain_summary": "Đoạn kinh được dùng để liệt kê mười kiết sử thành năm ràng buộc thấp và năm ràng buộc cao làm khung cho bốn mức thánh quả.",
+      "source_key": "AN 10.13",
       "source_type": "sutta",
-      "collection_code": "DN",
-      "work_id": "dn2",
-      "display_title_pali": "Sāmaññaphala Sutta",
-      "display_title_vi": "Quả của đời sống xuất gia",
-      "canonical_url": "https://suttacentral.net/dn2",
+      "collection_code": "AN",
+      "work_id": "an10.13",
+      "display_title_pali": "Saṁyojana Sutta",
+      "display_title_vi": "Mười kiết sử gồm năm thấp và năm cao",
+      "canonical_url": "https://suttacentral.net/an10.13",
       "text_language": "pli",
       "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "DN 2"
+      "source_display_code": "AN 10.13"
+    },
+    {
+      "code": "AN 3.61",
+      "collection_abbr": "AN",
+      "number": "3.61",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
+      "discourse_pali_title_candidates": [
+        "Titthāyatana Sutta"
+      ],
+      "discourse_pali_title": "Titthāyatana Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Ba học thuyết làm suy yếu trách nhiệm hành động",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/an3.61",
+      "used_in_lessons": [
+        19
+      ],
+      "plain_summary": "Đoạn kinh được dùng để bác các quan điểm quy mọi trải nghiệm cho nghiệp quá khứ, cho một đấng tạo hóa hoặc cho ngẫu nhiên vô nguyên nhân.",
+      "source_key": "AN 3.61",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an3.61",
+      "display_title_pali": "Titthāyatana Sutta",
+      "display_title_vi": "Ba học thuyết làm suy yếu trách nhiệm hành động",
+      "canonical_url": "https://suttacentral.net/an3.61",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "AN 3.61"
+    },
+    {
+      "code": "AN 3.65",
+      "collection_abbr": "AN",
+      "number": "3.65",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
+      "discourse_pali_title_candidates": [
+        "Kesamutti Sutta"
+      ],
+      "discourse_pali_title": "Kesamutti Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Thẩm tra lời dạy qua hậu quả thiện và bất thiện",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/an3.65",
+      "used_in_lessons": [
+        4,
+        36
+      ],
+      "plain_summary": "Đoạn kinh được dùng để dạy cách kiểm tra một lời truyền dạy bằng tham-sân-si, hậu quả và sự xác nhận của người có trí, chứ không cổ vũ hoài nghi tùy tiện.",
+      "source_key": "AN 3.65",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an3.65",
+      "display_title_pali": "Kesamutti Sutta",
+      "display_title_vi": "Thẩm tra lời dạy qua hậu quả thiện và bất thiện",
+      "canonical_url": "https://suttacentral.net/an3.65",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "AN 3.65"
+    },
+    {
+      "code": "AN 3.88",
+      "collection_abbr": "AN",
+      "number": "3.88",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
+      "discourse_pali_title_candidates": [],
+      "discourse_pali_title": "Tatiyasikkhā Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Ba sự học gom toàn bộ việc tu",
+      "title_verification_status": "verified-suttacentral",
+      "url": "https://suttacentral.net/an3.88",
+      "used_in_lessons": [
+        31
+      ],
+      "plain_summary": "Đoạn kinh được dùng để quy toàn bộ việc đào luyện vào giới cao hơn, tâm cao hơn và tuệ cao hơn, rồi liên hệ mức thực hành với các mức thành tựu.",
+      "source_key": "AN 3.88",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an3.88",
+      "display_title_pali": "Tatiyasikkhā Sutta",
+      "display_title_vi": "Ba sự học gom toàn bộ việc tu",
+      "canonical_url": "https://suttacentral.net/an3.88",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "AN 3.88"
+    },
+    {
+      "code": "AN 4.123",
+      "collection_abbr": "AN",
+      "number": "4.123",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
+      "discourse_pali_title_candidates": [
+        "Paṭhamanānākaraṇa Sutta"
+      ],
+      "discourse_pali_title": "Paṭhamanānākaraṇa Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Các tầng thiền dẫn đến những tái sinh khác nhau",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/an4.123",
+      "used_in_lessons": [
+        29
+      ],
+      "plain_summary": "Đoạn kinh được dùng để minh họa cách phẩm chất và sự chấp trước quanh các tầng thiền liên hệ với những kiểu tái sinh khác nhau trong bản đồ các cõi.",
+      "source_key": "AN 4.123",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an4.123",
+      "display_title_pali": "Paṭhamanānākaraṇa Sutta",
+      "display_title_vi": "Các tầng thiền dẫn đến những tái sinh khác nhau",
+      "canonical_url": "https://suttacentral.net/an4.123",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "AN 4.123"
+    },
+    {
+      "code": "AN 4.170",
+      "collection_abbr": "AN",
+      "number": "4.170",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
+      "discourse_pali_title_candidates": [
+        "Yuganaddha Sutta"
+      ],
+      "discourse_pali_title": "Yuganaddha Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Bốn cách phối hợp chỉ và quán",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/an4.170",
+      "used_in_lessons": [
+        26
+      ],
+      "plain_summary": "Đoạn kinh được dùng để chứng minh Kinh sớm thừa nhận nhiều trình tự phát triển chỉ và quán, kể cả hai pháp được tu song hành.",
+      "source_key": "AN 4.170",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an4.170",
+      "display_title_pali": "Yuganaddha Sutta",
+      "display_title_vi": "Bốn cách phối hợp chỉ và quán",
+      "canonical_url": "https://suttacentral.net/an4.170",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "AN 4.170"
+    },
+    {
+      "code": "AN 5.28",
+      "collection_abbr": "AN",
+      "number": "5.28",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
+      "discourse_pali_title_candidates": [
+        "Pañcaṅgika Sutta"
+      ],
+      "discourse_pali_title": "Pañcaṅgika Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Năm phần của chánh định cao quý",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/an5.28",
+      "used_in_lessons": [
+        27
+      ],
+      "plain_summary": "Đoạn kinh được dùng để mô tả bốn tầng thiền bằng các hình ảnh thấm nhuần toàn thân và thêm năng lực quán xét như phần thứ năm của chánh định.",
+      "source_key": "AN 5.28",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an5.28",
+      "display_title_pali": "Pañcaṅgika Sutta",
+      "display_title_vi": "Năm phần của chánh định cao quý",
+      "canonical_url": "https://suttacentral.net/an5.28",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "AN 5.28"
+    },
+    {
+      "code": "AN 6.63",
+      "collection_abbr": "AN",
+      "number": "6.63",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
+      "discourse_pali_title_candidates": [
+        "Nibbedhika Sutta"
+      ],
+      "discourse_pali_title": "Nibbedhika Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Nghiệp là tác ý và có con đường đoạn diệt",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/an6.63",
+      "used_in_lessons": [
+        19,
+        20
+      ],
+      "plain_summary": "Đoạn kinh được dùng để định nghĩa nghiệp là tác ý, phân tích nghiệp qua thân-khẩu-ý, quả và nguồn sinh, rồi đặt Bát Chánh Đạo làm đường đoạn diệt.",
+      "source_key": "AN 6.63",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an6.63",
+      "display_title_pali": "Nibbedhika Sutta",
+      "display_title_vi": "Nghiệp là tác ý và có con đường đoạn diệt",
+      "canonical_url": "https://suttacentral.net/an6.63",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "AN 6.63"
+    },
+    {
+      "code": "AN 8.39",
+      "collection_abbr": "AN",
+      "number": "8.39",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
+      "discourse_pali_title_candidates": [
+        "Abhisanda Sutta"
+      ],
+      "discourse_pali_title": "Abhisanda Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Năm giới là năm món quà không sợ hãi",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/an8.39",
+      "used_in_lessons": [
+        23
+      ],
+      "plain_summary": "Đoạn kinh được dùng để trình bày năm sự tránh như các điều học tự nguyện đem lại an toàn, không thù hận và không áp bức cho vô số chúng sinh.",
+      "source_key": "AN 8.39",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an8.39",
+      "display_title_pali": "Abhisanda Sutta",
+      "display_title_vi": "Năm giới là năm món quà không sợ hãi",
+      "canonical_url": "https://suttacentral.net/an8.39",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "AN 8.39"
     },
     {
       "code": "DN 13",
@@ -157,6 +394,37 @@
       "source_display_code": "DN 16"
     },
     {
+      "code": "DN 2",
+      "collection_abbr": "DN",
+      "number": "2",
+      "collection_pali": "Dīgha Nikāya",
+      "collection_han_viet": "Trường Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh dài",
+      "discourse_pali_title_candidates": [
+        "Sāmaññaphala Sutta"
+      ],
+      "discourse_pali_title": "Sāmaññaphala Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Quả của đời sống xuất gia",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/dn2",
+      "used_in_lessons": [
+        9,
+        27
+      ],
+      "plain_summary": "Bài kinh được dùng để trình bày lộ trình tuần tự từ giới và phòng hộ đến bốn tầng thiền cùng tri kiến giải thoát.",
+      "source_key": "DN 2",
+      "source_type": "sutta",
+      "collection_code": "DN",
+      "work_id": "dn2",
+      "display_title_pali": "Sāmaññaphala Sutta",
+      "display_title_vi": "Quả của đời sống xuất gia",
+      "canonical_url": "https://suttacentral.net/dn2",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "DN 2"
+    },
+    {
       "code": "DN 22",
       "collection_abbr": "DN",
       "number": "22",
@@ -217,34 +485,65 @@
       "source_display_code": "DN 31"
     },
     {
-      "code": "MN 2",
-      "collection_abbr": "MN",
-      "number": "2",
-      "collection_pali": "Majjhima Nikāya",
-      "collection_han_viet": "Trung Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
+      "code": "Dhammasaṅgaṇī 1.1",
+      "collection_abbr": "Ds",
+      "number": "1.1",
+      "collection_pali": "Dhammasaṅgaṇī",
+      "collection_han_viet": "Vi Diệu Pháp tạng Theravāda",
+      "collection_plain_vietnamese": "Bộ phân loại các pháp thuộc Vi Diệu Pháp tạng Theravāda",
       "discourse_pali_title_candidates": [
-        "Sabbāsava Sutta"
+        "Dhammasaṅgaṇī"
       ],
-      "discourse_pali_title": "Sabbāsava Sutta",
+      "discourse_pali_title": "Dhammasaṅgaṇī",
       "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Bảy cách làm cạn các lậu hoặc",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/mn2",
+      "discourse_plain_vietnamese_title": "Bảng phân loại các pháp thiện và các tâm sở đi kèm",
+      "title_verification_status": "verified-descriptive",
+      "url": "https://suttacentral.net/ds1.1",
       "used_in_lessons": [
-        15
+        33,
+        34
       ],
-      "plain_summary": "Bài kinh được dùng để phân biệt tác ý đúng về Bốn sự thật cao quý với những suy đoán nuôi lớn quan điểm về tự ngã.",
-      "source_key": "MN 2",
-      "source_type": "sutta",
-      "collection_code": "MN",
-      "work_id": "mn2",
-      "display_title_pali": "Sabbāsava Sutta",
-      "display_title_vi": "Bảy cách làm cạn các lậu hoặc",
-      "canonical_url": "https://suttacentral.net/mn2",
+      "plain_summary": "Đoạn Vi Diệu Pháp liệt kê và phân tích các pháp tâm lý theo ma trận phân loại, không được trình bày như lời thoại trực tiếp của Đức Phật trong Kinh sớm.",
+      "source_key": "Dhammasaṅgaṇī 1.1",
+      "source_type": "abhidhamma",
+      "collection_code": "Ds",
+      "work_id": "ds1.1",
+      "display_title_pali": "Dhammasaṅgaṇī",
+      "display_title_vi": "Bảng phân loại các pháp thiện và các tâm sở đi kèm",
+      "canonical_url": "https://suttacentral.net/ds1.1",
       "text_language": "pli",
       "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "MN 2"
+      "source_display_code": "Dhammasaṅgaṇī 1.1"
+    },
+    {
+      "code": "Iti 44",
+      "collection_abbr": "Iti",
+      "number": "44",
+      "collection_pali": "Itivuttaka",
+      "collection_han_viet": "Kinh Phật Thuyết Như Vậy",
+      "collection_plain_vietnamese": "Tuyển tập các lời dạy mở đầu bằng công thức “Điều này đã được Đức Thế Tôn nói”",
+      "discourse_pali_title_candidates": [
+        "Nibbānadhātu Sutta"
+      ],
+      "discourse_pali_title": "Nibbānadhātu Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Hai phương diện của Nibbāna giới",
+      "title_verification_status": "verified-descriptive",
+      "url": "https://suttacentral.net/iti44",
+      "used_in_lessons": [
+        32
+      ],
+      "plain_summary": "Bài kinh phân biệt Nibbāna giới còn dư y và không còn dư y mà không biến Nibbāna thành một cõi không gian.",
+      "source_key": "Iti 44",
+      "source_type": "sutta",
+      "collection_code": "Iti",
+      "work_id": "iti44",
+      "display_title_pali": "Nibbānadhātu Sutta",
+      "display_title_vi": "Hai phương diện của Nibbāna giới",
+      "canonical_url": "https://suttacentral.net/iti44",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "Iti 44"
     },
     {
       "code": "MN 10",
@@ -278,6 +577,126 @@
       "source_display_code": "MN 10"
     },
     {
+      "code": "MN 107",
+      "collection_abbr": "MN",
+      "number": "107",
+      "collection_pali": "Majjhima Nikāya",
+      "collection_han_viet": "Trung Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
+      "discourse_pali_title_candidates": [
+        "Gaṇakamoggallāna Sutta"
+      ],
+      "discourse_pali_title": "Gaṇakamoggallāna Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Huấn luyện tuần tự và người chỉ đường",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/mn107",
+      "used_in_lessons": [
+        9
+      ],
+      "plain_summary": "Bài kinh được dùng để mô tả chương trình tu học từng bước và phân biệt vai trò chỉ đường của Đức Phật với việc tự mình thực hành.",
+      "source_key": "MN 107",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn107",
+      "display_title_pali": "Gaṇakamoggallāna Sutta",
+      "display_title_vi": "Huấn luyện tuần tự và người chỉ đường",
+      "canonical_url": "https://suttacentral.net/mn107",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "MN 107"
+    },
+    {
+      "code": "MN 111",
+      "collection_abbr": "MN",
+      "number": "111",
+      "collection_pali": "Majjhima Nikāya",
+      "collection_han_viet": "Trung Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
+      "discourse_pali_title_candidates": [],
+      "discourse_pali_title": "Anupada Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Nhận biết từng yếu tố trong các tầng thiền",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/mn111",
+      "used_in_lessons": [
+        34
+      ],
+      "plain_summary": "Bài kinh được dùng để cho thấy nhiều yếu tố tâm được nhận biết lần lượt trong kinh nghiệm thiền mà không gán ngược hệ 52 tâm sở vào Kinh sớm.",
+      "source_key": "MN 111",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn111",
+      "display_title_pali": "Anupada Sutta",
+      "display_title_vi": "Nhận biết từng yếu tố trong các tầng thiền",
+      "canonical_url": "https://suttacentral.net/mn111",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "MN 111"
+    },
+    {
+      "code": "MN 117",
+      "collection_abbr": "MN",
+      "number": "117",
+      "collection_pali": "Majjhima Nikāya",
+      "collection_han_viet": "Trung Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
+      "discourse_pali_title_candidates": [
+        "Mahācattārīsaka Sutta"
+      ],
+      "discourse_pali_title": "Mahācattārīsaka Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Chánh kiến và cấu trúc con đường",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/mn117",
+      "used_in_lessons": [
+        5,
+        8
+      ],
+      "plain_summary": "Bài kinh được dùng để giải thích chánh kiến đi trước, hai cấp độ của các chi và cách các yếu tố của con đường nâng đỡ nhau.",
+      "source_key": "MN 117",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn117",
+      "display_title_pali": "Mahācattārīsaka Sutta",
+      "display_title_vi": "Chánh kiến và cấu trúc con đường",
+      "canonical_url": "https://suttacentral.net/mn117",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "MN 117"
+    },
+    {
+      "code": "MN 118",
+      "collection_abbr": "MN",
+      "number": "118",
+      "collection_pali": "Majjhima Nikāya",
+      "collection_han_viet": "Trung Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
+      "discourse_pali_title_candidates": [
+        "Ānāpānasati Sutta"
+      ],
+      "discourse_pali_title": "Ānāpānasati Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Mười sáu bước niệm hơi thở",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/mn118",
+      "used_in_lessons": [
+        24,
+        25
+      ],
+      "plain_summary": "Bài kinh được dùng để trình bày mười sáu bước niệm hơi thở và cách chúng làm viên mãn bốn nền tảng chánh niệm cùng bảy yếu tố giác ngộ.",
+      "source_key": "MN 118",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn118",
+      "display_title_pali": "Ānāpānasati Sutta",
+      "display_title_vi": "Mười sáu bước niệm hơi thở",
+      "canonical_url": "https://suttacentral.net/mn118",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "MN 118"
+    },
+    {
       "code": "MN 12",
       "collection_abbr": "MN",
       "number": "12",
@@ -307,6 +726,158 @@
       "text_language": "pli",
       "edition_or_witness": "SuttaCentral Bilara Pāli root",
       "source_display_code": "MN 12"
+    },
+    {
+      "code": "MN 130",
+      "collection_abbr": "MN",
+      "number": "130",
+      "collection_pali": "Majjhima Nikāya",
+      "collection_han_viet": "Trung Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
+      "discourse_pali_title_candidates": [
+        "Devadūta Sutta"
+      ],
+      "discourse_pali_title": "Devadūta Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Các sứ giả của già, bệnh và chết",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/mn130",
+      "used_in_lessons": [
+        21,
+        30
+      ],
+      "plain_summary": "Bài kinh được dùng để tạo sự khẩn thiết đạo đức qua hình tượng các sứ giả, sự phán xét và những cảnh giới khổ.",
+      "source_key": "MN 130",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn130",
+      "display_title_pali": "Devadūta Sutta",
+      "display_title_vi": "Các sứ giả của già, bệnh và chết",
+      "canonical_url": "https://suttacentral.net/mn130",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "MN 130"
+    },
+    {
+      "code": "MN 135",
+      "collection_abbr": "MN",
+      "number": "135",
+      "collection_pali": "Majjhima Nikāya",
+      "collection_han_viet": "Trung Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
+      "discourse_pali_title_candidates": [
+        "Cūḷakammavibhaṅga Sutta"
+      ],
+      "discourse_pali_title": "Cūḷakammavibhaṅga Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Hành vi và những khác biệt trong quả",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/mn135",
+      "used_in_lessons": [
+        19,
+        22
+      ],
+      "plain_summary": "Bài kinh được dùng để minh họa các cặp hành vi và khuynh hướng quả mà không biến nghiệp thành một sổ điểm cơ học.",
+      "source_key": "MN 135",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn135",
+      "display_title_pali": "Cūḷakammavibhaṅga Sutta",
+      "display_title_vi": "Hành vi và những khác biệt trong quả",
+      "canonical_url": "https://suttacentral.net/mn135",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "MN 135"
+    },
+    {
+      "code": "MN 141",
+      "collection_abbr": "MN",
+      "number": "141",
+      "collection_pali": "Majjhima Nikāya",
+      "collection_han_viet": "Trung Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
+      "discourse_pali_title_candidates": [],
+      "discourse_pali_title": "Saccavibhaṅga Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Phân tích Bốn sự thật cao quý",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/mn141",
+      "used_in_lessons": [
+        5
+      ],
+      "plain_summary": "Bài kinh được dùng để triển khai định nghĩa Bốn sự thật cao quý và các chi của con đường đưa đến chấm dứt khổ.",
+      "source_key": "MN 141",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn141",
+      "display_title_pali": "Saccavibhaṅga Sutta",
+      "display_title_vi": "Phân tích Bốn sự thật cao quý",
+      "canonical_url": "https://suttacentral.net/mn141",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "MN 141"
+    },
+    {
+      "code": "MN 148",
+      "collection_abbr": "MN",
+      "number": "148",
+      "collection_pali": "Majjhima Nikāya",
+      "collection_han_viet": "Trung Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
+      "discourse_pali_title_candidates": [
+        "Chachakka Sutta"
+      ],
+      "discourse_pali_title": "Chachakka Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Sáu nhóm sáu của kinh nghiệm giác quan",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/mn148",
+      "used_in_lessons": [
+        7,
+        12,
+        13
+      ],
+      "plain_summary": "Bài kinh được dùng để phân tích căn, đối tượng, thức, xúc, thọ và ái tại từng cửa giác quan.",
+      "source_key": "MN 148",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn148",
+      "display_title_pali": "Chachakka Sutta",
+      "display_title_vi": "Sáu nhóm sáu của kinh nghiệm giác quan",
+      "canonical_url": "https://suttacentral.net/mn148",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "MN 148"
+    },
+    {
+      "code": "MN 2",
+      "collection_abbr": "MN",
+      "number": "2",
+      "collection_pali": "Majjhima Nikāya",
+      "collection_han_viet": "Trung Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
+      "discourse_pali_title_candidates": [
+        "Sabbāsava Sutta"
+      ],
+      "discourse_pali_title": "Sabbāsava Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Bảy cách làm cạn các lậu hoặc",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/mn2",
+      "used_in_lessons": [
+        15
+      ],
+      "plain_summary": "Bài kinh được dùng để phân biệt tác ý đúng về Bốn sự thật cao quý với những suy đoán nuôi lớn quan điểm về tự ngã.",
+      "source_key": "MN 2",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn2",
+      "display_title_pali": "Sabbāsava Sutta",
+      "display_title_vi": "Bảy cách làm cạn các lậu hoặc",
+      "canonical_url": "https://suttacentral.net/mn2",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "MN 2"
     },
     {
       "code": "MN 22",
@@ -587,248 +1158,6 @@
       "source_display_code": "MN 95"
     },
     {
-      "code": "MN 107",
-      "collection_abbr": "MN",
-      "number": "107",
-      "collection_pali": "Majjhima Nikāya",
-      "collection_han_viet": "Trung Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
-      "discourse_pali_title_candidates": [
-        "Gaṇakamoggallāna Sutta"
-      ],
-      "discourse_pali_title": "Gaṇakamoggallāna Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Huấn luyện tuần tự và người chỉ đường",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/mn107",
-      "used_in_lessons": [
-        9
-      ],
-      "plain_summary": "Bài kinh được dùng để mô tả chương trình tu học từng bước và phân biệt vai trò chỉ đường của Đức Phật với việc tự mình thực hành.",
-      "source_key": "MN 107",
-      "source_type": "sutta",
-      "collection_code": "MN",
-      "work_id": "mn107",
-      "display_title_pali": "Gaṇakamoggallāna Sutta",
-      "display_title_vi": "Huấn luyện tuần tự và người chỉ đường",
-      "canonical_url": "https://suttacentral.net/mn107",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "MN 107"
-    },
-    {
-      "code": "MN 111",
-      "collection_abbr": "MN",
-      "number": "111",
-      "collection_pali": "Majjhima Nikāya",
-      "collection_han_viet": "Trung Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
-      "discourse_pali_title_candidates": [],
-      "discourse_pali_title": "Anupada Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Nhận biết từng yếu tố trong các tầng thiền",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/mn111",
-      "used_in_lessons": [
-        34
-      ],
-      "plain_summary": "Bài kinh được dùng để cho thấy nhiều yếu tố tâm được nhận biết lần lượt trong kinh nghiệm thiền mà không gán ngược hệ 52 tâm sở vào Kinh sớm.",
-      "source_key": "MN 111",
-      "source_type": "sutta",
-      "collection_code": "MN",
-      "work_id": "mn111",
-      "display_title_pali": "Anupada Sutta",
-      "display_title_vi": "Nhận biết từng yếu tố trong các tầng thiền",
-      "canonical_url": "https://suttacentral.net/mn111",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "MN 111"
-    },
-    {
-      "code": "MN 117",
-      "collection_abbr": "MN",
-      "number": "117",
-      "collection_pali": "Majjhima Nikāya",
-      "collection_han_viet": "Trung Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
-      "discourse_pali_title_candidates": [
-        "Mahācattārīsaka Sutta"
-      ],
-      "discourse_pali_title": "Mahācattārīsaka Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Chánh kiến và cấu trúc con đường",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/mn117",
-      "used_in_lessons": [
-        5,
-        8
-      ],
-      "plain_summary": "Bài kinh được dùng để giải thích chánh kiến đi trước, hai cấp độ của các chi và cách các yếu tố của con đường nâng đỡ nhau.",
-      "source_key": "MN 117",
-      "source_type": "sutta",
-      "collection_code": "MN",
-      "work_id": "mn117",
-      "display_title_pali": "Mahācattārīsaka Sutta",
-      "display_title_vi": "Chánh kiến và cấu trúc con đường",
-      "canonical_url": "https://suttacentral.net/mn117",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "MN 117"
-    },
-    {
-      "code": "MN 118",
-      "collection_abbr": "MN",
-      "number": "118",
-      "collection_pali": "Majjhima Nikāya",
-      "collection_han_viet": "Trung Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
-      "discourse_pali_title_candidates": [
-        "Ānāpānasati Sutta"
-      ],
-      "discourse_pali_title": "Ānāpānasati Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Mười sáu bước niệm hơi thở",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/mn118",
-      "used_in_lessons": [
-        24,
-        25
-      ],
-      "plain_summary": "Bài kinh được dùng để trình bày mười sáu bước niệm hơi thở và cách chúng làm viên mãn bốn nền tảng chánh niệm cùng bảy yếu tố giác ngộ.",
-      "source_key": "MN 118",
-      "source_type": "sutta",
-      "collection_code": "MN",
-      "work_id": "mn118",
-      "display_title_pali": "Ānāpānasati Sutta",
-      "display_title_vi": "Mười sáu bước niệm hơi thở",
-      "canonical_url": "https://suttacentral.net/mn118",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "MN 118"
-    },
-    {
-      "code": "MN 130",
-      "collection_abbr": "MN",
-      "number": "130",
-      "collection_pali": "Majjhima Nikāya",
-      "collection_han_viet": "Trung Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
-      "discourse_pali_title_candidates": [
-        "Devadūta Sutta"
-      ],
-      "discourse_pali_title": "Devadūta Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Các sứ giả của già, bệnh và chết",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/mn130",
-      "used_in_lessons": [
-        21,
-        30
-      ],
-      "plain_summary": "Bài kinh được dùng để tạo sự khẩn thiết đạo đức qua hình tượng các sứ giả, sự phán xét và những cảnh giới khổ.",
-      "source_key": "MN 130",
-      "source_type": "sutta",
-      "collection_code": "MN",
-      "work_id": "mn130",
-      "display_title_pali": "Devadūta Sutta",
-      "display_title_vi": "Các sứ giả của già, bệnh và chết",
-      "canonical_url": "https://suttacentral.net/mn130",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "MN 130"
-    },
-    {
-      "code": "MN 135",
-      "collection_abbr": "MN",
-      "number": "135",
-      "collection_pali": "Majjhima Nikāya",
-      "collection_han_viet": "Trung Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
-      "discourse_pali_title_candidates": [
-        "Cūḷakammavibhaṅga Sutta"
-      ],
-      "discourse_pali_title": "Cūḷakammavibhaṅga Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Hành vi và những khác biệt trong quả",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/mn135",
-      "used_in_lessons": [
-        19,
-        22
-      ],
-      "plain_summary": "Bài kinh được dùng để minh họa các cặp hành vi và khuynh hướng quả mà không biến nghiệp thành một sổ điểm cơ học.",
-      "source_key": "MN 135",
-      "source_type": "sutta",
-      "collection_code": "MN",
-      "work_id": "mn135",
-      "display_title_pali": "Cūḷakammavibhaṅga Sutta",
-      "display_title_vi": "Hành vi và những khác biệt trong quả",
-      "canonical_url": "https://suttacentral.net/mn135",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "MN 135"
-    },
-    {
-      "code": "MN 141",
-      "collection_abbr": "MN",
-      "number": "141",
-      "collection_pali": "Majjhima Nikāya",
-      "collection_han_viet": "Trung Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
-      "discourse_pali_title_candidates": [],
-      "discourse_pali_title": "Saccavibhaṅga Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Phân tích Bốn sự thật cao quý",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/mn141",
-      "used_in_lessons": [
-        5
-      ],
-      "plain_summary": "Bài kinh được dùng để triển khai định nghĩa Bốn sự thật cao quý và các chi của con đường đưa đến chấm dứt khổ.",
-      "source_key": "MN 141",
-      "source_type": "sutta",
-      "collection_code": "MN",
-      "work_id": "mn141",
-      "display_title_pali": "Saccavibhaṅga Sutta",
-      "display_title_vi": "Phân tích Bốn sự thật cao quý",
-      "canonical_url": "https://suttacentral.net/mn141",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "MN 141"
-    },
-    {
-      "code": "MN 148",
-      "collection_abbr": "MN",
-      "number": "148",
-      "collection_pali": "Majjhima Nikāya",
-      "collection_han_viet": "Trung Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh độ dài vừa",
-      "discourse_pali_title_candidates": [
-        "Chachakka Sutta"
-      ],
-      "discourse_pali_title": "Chachakka Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Sáu nhóm sáu của kinh nghiệm giác quan",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/mn148",
-      "used_in_lessons": [
-        7,
-        12,
-        13
-      ],
-      "plain_summary": "Bài kinh được dùng để phân tích căn, đối tượng, thức, xúc, thọ và ái tại từng cửa giác quan.",
-      "source_key": "MN 148",
-      "source_type": "sutta",
-      "collection_code": "MN",
-      "work_id": "mn148",
-      "display_title_pali": "Chachakka Sutta",
-      "display_title_vi": "Sáu nhóm sáu của kinh nghiệm giác quan",
-      "canonical_url": "https://suttacentral.net/mn148",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "MN 148"
-    },
-    {
       "code": "SN 11",
       "collection_abbr": "SN",
       "number": "11",
@@ -887,6 +1216,36 @@
       "source_display_code": "SN 11.1"
     },
     {
+      "code": "SN 12.15",
+      "collection_abbr": "SN",
+      "number": "12.15",
+      "collection_pali": "Saṁyutta Nikāya",
+      "collection_han_viet": "Tương Ưng Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh theo chủ đề tương ứng",
+      "discourse_pali_title_candidates": [
+        "Kaccānagotta Sutta"
+      ],
+      "discourse_pali_title": "Kaccānagotta Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Không mắc kẹt giữa có và không",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/sn12.15",
+      "used_in_lessons": [
+        10
+      ],
+      "plain_summary": "Đoạn kinh được dùng để giải thích Trung đạo trong chánh kiến: vượt hai cực tồn tại và không tồn tại bằng cách thấy duyên khởi và duyên diệt.",
+      "source_key": "SN 12.15",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn12.15",
+      "display_title_pali": "Kaccānagotta Sutta",
+      "display_title_vi": "Không mắc kẹt giữa có và không",
+      "canonical_url": "https://suttacentral.net/sn12.15",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "SN 12.15"
+    },
+    {
       "code": "SN 12.2",
       "collection_abbr": "SN",
       "number": "12.2",
@@ -920,36 +1279,6 @@
       "text_language": "pli",
       "edition_or_witness": "SuttaCentral Bilara Pāli root",
       "source_display_code": "SN 12.2"
-    },
-    {
-      "code": "SN 12.15",
-      "collection_abbr": "SN",
-      "number": "12.15",
-      "collection_pali": "Saṁyutta Nikāya",
-      "collection_han_viet": "Tương Ưng Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh theo chủ đề tương ứng",
-      "discourse_pali_title_candidates": [
-        "Kaccānagotta Sutta"
-      ],
-      "discourse_pali_title": "Kaccānagotta Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Không mắc kẹt giữa có và không",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/sn12.15",
-      "used_in_lessons": [
-        10
-      ],
-      "plain_summary": "Đoạn kinh được dùng để giải thích Trung đạo trong chánh kiến: vượt hai cực tồn tại và không tồn tại bằng cách thấy duyên khởi và duyên diệt.",
-      "source_key": "SN 12.15",
-      "source_type": "sutta",
-      "collection_code": "SN",
-      "work_id": "sn12.15",
-      "display_title_pali": "Kaccānagotta Sutta",
-      "display_title_vi": "Không mắc kẹt giữa có và không",
-      "canonical_url": "https://suttacentral.net/sn12.15",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "SN 12.15"
     },
     {
       "code": "SN 12.20",
@@ -1253,36 +1582,6 @@
       "source_display_code": "SN 22.95"
     },
     {
-      "code": "SN 35.23",
-      "collection_abbr": "SN",
-      "number": "35.23",
-      "collection_pali": "Saṁyutta Nikāya",
-      "collection_han_viet": "Tương Ưng Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh theo chủ đề tương ứng",
-      "discourse_pali_title_candidates": [
-        "Sabba Sutta"
-      ],
-      "discourse_pali_title": "Sabba Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "“Tất cả” trong phạm vi sáu căn và sáu trần",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/sn35.23",
-      "used_in_lessons": [
-        12
-      ],
-      "plain_summary": "Đoạn kinh được dùng để định phạm vi kinh nghiệm có thể nói đến như “tất cả” bằng sáu căn, sáu trần và nhận thức tương ứng.",
-      "source_key": "SN 35.23",
-      "source_type": "sutta",
-      "collection_code": "SN",
-      "work_id": "sn35.23",
-      "display_title_pali": "Sabba Sutta",
-      "display_title_vi": "“Tất cả” trong phạm vi sáu căn và sáu trần",
-      "canonical_url": "https://suttacentral.net/sn35.23",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "SN 35.23"
-    },
-    {
       "code": "SN 35.204",
       "collection_abbr": "SN",
       "number": "35.204",
@@ -1311,6 +1610,36 @@
       "text_language": "pli",
       "edition_or_witness": "SuttaCentral Bilara Pāli root",
       "source_display_code": "SN 35.204"
+    },
+    {
+      "code": "SN 35.23",
+      "collection_abbr": "SN",
+      "number": "35.23",
+      "collection_pali": "Saṁyutta Nikāya",
+      "collection_han_viet": "Tương Ưng Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh theo chủ đề tương ứng",
+      "discourse_pali_title_candidates": [
+        "Sabba Sutta"
+      ],
+      "discourse_pali_title": "Sabba Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "“Tất cả” trong phạm vi sáu căn và sáu trần",
+      "title_verification_status": "verified-existing-source",
+      "url": "https://suttacentral.net/sn35.23",
+      "used_in_lessons": [
+        12
+      ],
+      "plain_summary": "Đoạn kinh được dùng để định phạm vi kinh nghiệm có thể nói đến như “tất cả” bằng sáu căn, sáu trần và nhận thức tương ứng.",
+      "source_key": "SN 35.23",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn35.23",
+      "display_title_pali": "Sabba Sutta",
+      "display_title_vi": "“Tất cả” trong phạm vi sáu căn và sáu trần",
+      "canonical_url": "https://suttacentral.net/sn35.23",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "SN 35.23"
     },
     {
       "code": "SN 36.21",
@@ -1522,272 +1851,35 @@
       "source_display_code": "SN 56.11"
     },
     {
-      "code": "AN 3.61",
-      "collection_abbr": "AN",
-      "number": "3.61",
-      "collection_pali": "Aṅguttara Nikāya",
-      "collection_han_viet": "Tăng Chi Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
+      "code": "Ud 8.3",
+      "collection_abbr": "Ud",
+      "number": "8.3",
+      "collection_pali": "Udāna",
+      "collection_han_viet": "Kinh Tự Thuyết",
+      "collection_plain_vietnamese": "Tuyển tập những lời cảm hứng được ghi trong Tiểu Bộ Kinh",
       "discourse_pali_title_candidates": [
-        "Titthāyatana Sutta"
+        "Tatiyanibbānapaṭisaṁyutta Sutta"
       ],
-      "discourse_pali_title": "Titthāyatana Sutta",
+      "discourse_pali_title": "Tatiyanibbānapaṭisaṁyutta Sutta",
       "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Ba học thuyết làm suy yếu trách nhiệm hành động",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/an3.61",
+      "discourse_plain_vietnamese_title": "Cái không sinh, không trở thành và không bị tạo tác",
+      "title_verification_status": "verified-descriptive",
+      "url": "https://suttacentral.net/ud8.3",
       "used_in_lessons": [
-        19
+        32,
+        33
       ],
-      "plain_summary": "Đoạn kinh được dùng để bác các quan điểm quy mọi trải nghiệm cho nghiệp quá khứ, cho một đấng tạo hóa hoặc cho ngẫu nhiên vô nguyên nhân.",
-      "source_key": "AN 3.61",
+      "plain_summary": "Đoạn kinh nêu cái không sinh, không trở thành, không được làm ra và không bị tạo tác như điều kiện để có thể nhận ra lối thoát khỏi cái hữu vi.",
+      "source_key": "Ud 8.3",
       "source_type": "sutta",
-      "collection_code": "AN",
-      "work_id": "an3.61",
-      "display_title_pali": "Titthāyatana Sutta",
-      "display_title_vi": "Ba học thuyết làm suy yếu trách nhiệm hành động",
-      "canonical_url": "https://suttacentral.net/an3.61",
+      "collection_code": "Ud",
+      "work_id": "ud8.3",
+      "display_title_pali": "Tatiyanibbānapaṭisaṁyutta Sutta",
+      "display_title_vi": "Cái không sinh, không trở thành và không bị tạo tác",
+      "canonical_url": "https://suttacentral.net/ud8.3",
       "text_language": "pli",
       "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "AN 3.61"
-    },
-    {
-      "code": "AN 3.65",
-      "collection_abbr": "AN",
-      "number": "3.65",
-      "collection_pali": "Aṅguttara Nikāya",
-      "collection_han_viet": "Tăng Chi Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
-      "discourse_pali_title_candidates": [
-        "Kesamutti Sutta"
-      ],
-      "discourse_pali_title": "Kesamutti Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Thẩm tra lời dạy qua hậu quả thiện và bất thiện",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/an3.65",
-      "used_in_lessons": [
-        4,
-        36
-      ],
-      "plain_summary": "Đoạn kinh được dùng để dạy cách kiểm tra một lời truyền dạy bằng tham-sân-si, hậu quả và sự xác nhận của người có trí, chứ không cổ vũ hoài nghi tùy tiện.",
-      "source_key": "AN 3.65",
-      "source_type": "sutta",
-      "collection_code": "AN",
-      "work_id": "an3.65",
-      "display_title_pali": "Kesamutti Sutta",
-      "display_title_vi": "Thẩm tra lời dạy qua hậu quả thiện và bất thiện",
-      "canonical_url": "https://suttacentral.net/an3.65",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "AN 3.65"
-    },
-    {
-      "code": "AN 3.88",
-      "collection_abbr": "AN",
-      "number": "3.88",
-      "collection_pali": "Aṅguttara Nikāya",
-      "collection_han_viet": "Tăng Chi Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
-      "discourse_pali_title_candidates": [],
-      "discourse_pali_title": "Tatiyasikkhā Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Ba sự học gom toàn bộ việc tu",
-      "title_verification_status": "verified-suttacentral",
-      "url": "https://suttacentral.net/an3.88",
-      "used_in_lessons": [
-        31
-      ],
-      "plain_summary": "Đoạn kinh được dùng để quy toàn bộ việc đào luyện vào giới cao hơn, tâm cao hơn và tuệ cao hơn, rồi liên hệ mức thực hành với các mức thành tựu.",
-      "source_key": "AN 3.88",
-      "source_type": "sutta",
-      "collection_code": "AN",
-      "work_id": "an3.88",
-      "display_title_pali": "Tatiyasikkhā Sutta",
-      "display_title_vi": "Ba sự học gom toàn bộ việc tu",
-      "canonical_url": "https://suttacentral.net/an3.88",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "AN 3.88"
-    },
-    {
-      "code": "AN 4.123",
-      "collection_abbr": "AN",
-      "number": "4.123",
-      "collection_pali": "Aṅguttara Nikāya",
-      "collection_han_viet": "Tăng Chi Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
-      "discourse_pali_title_candidates": [
-        "Paṭhamanānākaraṇa Sutta"
-      ],
-      "discourse_pali_title": "Paṭhamanānākaraṇa Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Các tầng thiền dẫn đến những tái sinh khác nhau",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/an4.123",
-      "used_in_lessons": [
-        29
-      ],
-      "plain_summary": "Đoạn kinh được dùng để minh họa cách phẩm chất và sự chấp trước quanh các tầng thiền liên hệ với những kiểu tái sinh khác nhau trong bản đồ các cõi.",
-      "source_key": "AN 4.123",
-      "source_type": "sutta",
-      "collection_code": "AN",
-      "work_id": "an4.123",
-      "display_title_pali": "Paṭhamanānākaraṇa Sutta",
-      "display_title_vi": "Các tầng thiền dẫn đến những tái sinh khác nhau",
-      "canonical_url": "https://suttacentral.net/an4.123",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "AN 4.123"
-    },
-    {
-      "code": "AN 4.170",
-      "collection_abbr": "AN",
-      "number": "4.170",
-      "collection_pali": "Aṅguttara Nikāya",
-      "collection_han_viet": "Tăng Chi Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
-      "discourse_pali_title_candidates": [
-        "Yuganaddha Sutta"
-      ],
-      "discourse_pali_title": "Yuganaddha Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Bốn cách phối hợp chỉ và quán",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/an4.170",
-      "used_in_lessons": [
-        26
-      ],
-      "plain_summary": "Đoạn kinh được dùng để chứng minh Kinh sớm thừa nhận nhiều trình tự phát triển chỉ và quán, kể cả hai pháp được tu song hành.",
-      "source_key": "AN 4.170",
-      "source_type": "sutta",
-      "collection_code": "AN",
-      "work_id": "an4.170",
-      "display_title_pali": "Yuganaddha Sutta",
-      "display_title_vi": "Bốn cách phối hợp chỉ và quán",
-      "canonical_url": "https://suttacentral.net/an4.170",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "AN 4.170"
-    },
-    {
-      "code": "AN 5.28",
-      "collection_abbr": "AN",
-      "number": "5.28",
-      "collection_pali": "Aṅguttara Nikāya",
-      "collection_han_viet": "Tăng Chi Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
-      "discourse_pali_title_candidates": [
-        "Pañcaṅgika Sutta"
-      ],
-      "discourse_pali_title": "Pañcaṅgika Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Năm phần của chánh định cao quý",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/an5.28",
-      "used_in_lessons": [
-        27
-      ],
-      "plain_summary": "Đoạn kinh được dùng để mô tả bốn tầng thiền bằng các hình ảnh thấm nhuần toàn thân và thêm năng lực quán xét như phần thứ năm của chánh định.",
-      "source_key": "AN 5.28",
-      "source_type": "sutta",
-      "collection_code": "AN",
-      "work_id": "an5.28",
-      "display_title_pali": "Pañcaṅgika Sutta",
-      "display_title_vi": "Năm phần của chánh định cao quý",
-      "canonical_url": "https://suttacentral.net/an5.28",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "AN 5.28"
-    },
-    {
-      "code": "AN 6.63",
-      "collection_abbr": "AN",
-      "number": "6.63",
-      "collection_pali": "Aṅguttara Nikāya",
-      "collection_han_viet": "Tăng Chi Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
-      "discourse_pali_title_candidates": [
-        "Nibbedhika Sutta"
-      ],
-      "discourse_pali_title": "Nibbedhika Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Nghiệp là tác ý và có con đường đoạn diệt",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/an6.63",
-      "used_in_lessons": [
-        19,
-        20
-      ],
-      "plain_summary": "Đoạn kinh được dùng để định nghĩa nghiệp là tác ý, phân tích nghiệp qua thân-khẩu-ý, quả và nguồn sinh, rồi đặt Bát Chánh Đạo làm đường đoạn diệt.",
-      "source_key": "AN 6.63",
-      "source_type": "sutta",
-      "collection_code": "AN",
-      "work_id": "an6.63",
-      "display_title_pali": "Nibbedhika Sutta",
-      "display_title_vi": "Nghiệp là tác ý và có con đường đoạn diệt",
-      "canonical_url": "https://suttacentral.net/an6.63",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "AN 6.63"
-    },
-    {
-      "code": "AN 8.39",
-      "collection_abbr": "AN",
-      "number": "8.39",
-      "collection_pali": "Aṅguttara Nikāya",
-      "collection_han_viet": "Tăng Chi Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
-      "discourse_pali_title_candidates": [
-        "Abhisanda Sutta"
-      ],
-      "discourse_pali_title": "Abhisanda Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Năm giới là năm món quà không sợ hãi",
-      "title_verification_status": "verified-existing-source",
-      "url": "https://suttacentral.net/an8.39",
-      "used_in_lessons": [
-        23
-      ],
-      "plain_summary": "Đoạn kinh được dùng để trình bày năm sự tránh như các điều học tự nguyện đem lại an toàn, không thù hận và không áp bức cho vô số chúng sinh.",
-      "source_key": "AN 8.39",
-      "source_type": "sutta",
-      "collection_code": "AN",
-      "work_id": "an8.39",
-      "display_title_pali": "Abhisanda Sutta",
-      "display_title_vi": "Năm giới là năm món quà không sợ hãi",
-      "canonical_url": "https://suttacentral.net/an8.39",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "AN 8.39"
-    },
-    {
-      "code": "AN 10.13",
-      "collection_abbr": "AN",
-      "number": "10.13",
-      "collection_pali": "Aṅguttara Nikāya",
-      "collection_han_viet": "Tăng Chi Bộ Kinh",
-      "collection_plain_vietnamese": "Tuyển tập các bài kinh sắp theo số pháp",
-      "discourse_pali_title_candidates": [],
-      "discourse_pali_title": "Saṁyojana Sutta",
-      "discourse_han_viet_title": null,
-      "discourse_plain_vietnamese_title": "Mười kiết sử gồm năm thấp và năm cao",
-      "title_verification_status": "verified-suttacentral",
-      "url": "https://suttacentral.net/an10.13",
-      "used_in_lessons": [
-        31
-      ],
-      "plain_summary": "Đoạn kinh được dùng để liệt kê mười kiết sử thành năm ràng buộc thấp và năm ràng buộc cao làm khung cho bốn mức thánh quả.",
-      "source_key": "AN 10.13",
-      "source_type": "sutta",
-      "collection_code": "AN",
-      "work_id": "an10.13",
-      "display_title_pali": "Saṁyojana Sutta",
-      "display_title_vi": "Mười kiết sử gồm năm thấp và năm cao",
-      "canonical_url": "https://suttacentral.net/an10.13",
-      "text_language": "pli",
-      "edition_or_witness": "SuttaCentral Bilara Pāli root",
-      "source_display_code": "AN 10.13"
+      "source_display_code": "Ud 8.3"
     },
     {
       "source_key": "VINAYA pli-tv-kd21",
@@ -1892,6 +1984,36 @@
         }
       ],
       "source_display_code": "Cullavagga XII"
+    },
+    {
+      "code": "Vibhaṅga 1",
+      "collection_abbr": "Vb",
+      "number": "1",
+      "collection_pali": "Vibhaṅga",
+      "collection_han_viet": "Vi Diệu Pháp tạng Theravāda",
+      "collection_plain_vietnamese": "Bộ phân tích các chủ đề thuộc Vi Diệu Pháp tạng Theravāda",
+      "discourse_pali_title_candidates": [
+        "Khandhavibhaṅga"
+      ],
+      "discourse_pali_title": "Khandhavibhaṅga",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Phân tích năm uẩn theo Vi Diệu Pháp",
+      "title_verification_status": "verified-descriptive",
+      "url": "https://suttacentral.net/vb1",
+      "used_in_lessons": [
+        33
+      ],
+      "plain_summary": "Đoạn Vi Diệu Pháp phân tích năm uẩn bằng cấu trúc học thuật của tạng Abhidhamma và phải được tách khỏi lớp Kinh sớm.",
+      "source_key": "Vibhaṅga 1",
+      "source_type": "abhidhamma",
+      "collection_code": "Vb",
+      "work_id": "vb1",
+      "display_title_pali": "Khandhavibhaṅga",
+      "display_title_vi": "Phân tích năm uẩn theo Vi Diệu Pháp",
+      "canonical_url": "https://suttacentral.net/vb1",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "Vibhaṅga 1"
     }
   ],
   "source_families": {

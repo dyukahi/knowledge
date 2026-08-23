@@ -32,10 +32,15 @@
     28,
     29,
     30,
+    31,
+    32,
+    33,
+    34,
+    35,
     36
   ],
-  "cards": 93,
-  "passed": 93,
+  "cards": 107,
+  "passed": 107,
   "all_pass": true,
   "rows": [
     {
@@ -2447,6 +2452,354 @@
         "43b34343c28bfc26a89b26c0ddec226e99ce1302dbe292a8996f7bfe5518a5e7"
       ],
       "actual_sha256": "43b34343c28bfc26a89b26c0ddec226e99ce1302dbe292a8996f7bfe5518a5e7",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 31,
+      "source_key": "SN 55.5",
+      "work_id": "sn55.5",
+      "segment_groups": [
+        [
+          "sn55.5:2.1",
+          "sn55.5:2.2",
+          "sn55.5:2.3"
+        ]
+      ],
+      "segments": [
+        "sn55.5:2.1",
+        "sn55.5:2.2",
+        "sn55.5:2.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn55.5/sujato?lang=en",
+      "raw_sha256": "1a684c8e9d082c89b44224494d25edc98534b300e794e8c0825167ae6d3b58ff",
+      "normalized_group_sha256": [
+        "1a684c8e9d082c89b44224494d25edc98534b300e794e8c0825167ae6d3b58ff"
+      ],
+      "actual_sha256": "1a684c8e9d082c89b44224494d25edc98534b300e794e8c0825167ae6d3b58ff",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 31,
+      "source_key": "AN 10.13",
+      "work_id": "an10.13",
+      "segment_groups": [
+        [
+          "an10.13:1.3",
+          "an10.13:1.4",
+          "an10.13:1.5",
+          "an10.13:1.6",
+          "an10.13:2.1",
+          "an10.13:2.2",
+          "an10.13:2.3"
+        ]
+      ],
+      "segments": [
+        "an10.13:1.3",
+        "an10.13:1.4",
+        "an10.13:1.5",
+        "an10.13:1.6",
+        "an10.13:2.1",
+        "an10.13:2.2",
+        "an10.13:2.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/an10.13/sujato?lang=en",
+      "raw_sha256": "88b71f1a0903509fc32c8cb6828dc370426e6ee5608152c7b8283b6b4d2f25e1",
+      "normalized_group_sha256": [
+        "88b71f1a0903509fc32c8cb6828dc370426e6ee5608152c7b8283b6b4d2f25e1"
+      ],
+      "actual_sha256": "88b71f1a0903509fc32c8cb6828dc370426e6ee5608152c7b8283b6b4d2f25e1",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 31,
+      "source_key": "AN 3.88",
+      "work_id": "an3.88",
+      "segment_groups": [
+        [
+          "an3.88:1.2",
+          "an3.88:1.4"
+        ]
+      ],
+      "segments": [
+        "an3.88:1.2",
+        "an3.88:1.4"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/an3.88/sujato?lang=en",
+      "raw_sha256": "2c27aa58453b73006cffbec70b4a231699b9939c17f9ba7215a963d891a96053",
+      "normalized_group_sha256": [
+        "2c27aa58453b73006cffbec70b4a231699b9939c17f9ba7215a963d891a96053"
+      ],
+      "actual_sha256": "2c27aa58453b73006cffbec70b4a231699b9939c17f9ba7215a963d891a96053",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 32,
+      "source_key": "Ud 8.3",
+      "work_id": "ud8.3",
+      "segment_groups": [
+        [
+          "ud8.3:3.1",
+          "ud8.3:3.2"
+        ]
+      ],
+      "segments": [
+        "ud8.3:3.1",
+        "ud8.3:3.2"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/ud8.3/sujato?lang=en",
+      "raw_sha256": "3eb08bfd035e8f040f9d3f418cdc50664cc2111f2497dfcfd3d0315d59da2f51",
+      "normalized_group_sha256": [
+        "3eb08bfd035e8f040f9d3f418cdc50664cc2111f2497dfcfd3d0315d59da2f51"
+      ],
+      "actual_sha256": "3eb08bfd035e8f040f9d3f418cdc50664cc2111f2497dfcfd3d0315d59da2f51",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 32,
+      "source_key": "Iti 44",
+      "work_id": "iti44",
+      "segment_groups": [
+        [
+          "iti44:2.1",
+          "iti44:2.3"
+        ]
+      ],
+      "segments": [
+        "iti44:2.1",
+        "iti44:2.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/iti44/sujato?lang=en",
+      "raw_sha256": "9f43977856aec5b36342f801a27fbcd8ac752ccbf1c3823c51405a3e70abe25f",
+      "normalized_group_sha256": [
+        "9f43977856aec5b36342f801a27fbcd8ac752ccbf1c3823c51405a3e70abe25f"
+      ],
+      "actual_sha256": "9f43977856aec5b36342f801a27fbcd8ac752ccbf1c3823c51405a3e70abe25f",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 32,
+      "source_key": "SN 43.1",
+      "work_id": "sn43.1",
+      "segment_groups": [
+        [
+          "sn43.1:1.2",
+          "sn43.1:1.5"
+        ]
+      ],
+      "segments": [
+        "sn43.1:1.2",
+        "sn43.1:1.5"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn43.1/sujato?lang=en",
+      "raw_sha256": "a1a47a7a22c3415f6b24a8be6d95aad8e41bf3dbdade54b9a90cba842cafc762",
+      "normalized_group_sha256": [
+        "a1a47a7a22c3415f6b24a8be6d95aad8e41bf3dbdade54b9a90cba842cafc762"
+      ],
+      "actual_sha256": "a1a47a7a22c3415f6b24a8be6d95aad8e41bf3dbdade54b9a90cba842cafc762",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 33,
+      "source_key": "Dhammasaṅgaṇī 1.1",
+      "work_id": "ds1.1",
+      "segment_groups": [
+        [
+          "ds1.1:1.1",
+          "ds1.1:2.1",
+          "ds1.1:3.1"
+        ]
+      ],
+      "segments": [
+        "ds1.1:1.1",
+        "ds1.1:2.1",
+        "ds1.1:3.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/ds1.1/sujato?lang=en",
+      "raw_sha256": "fe08f8f5fbff19e689a72a97a999f5772499c8f0840bf2a03ba29b673851436b",
+      "normalized_group_sha256": [
+        "4f9ba8c05630c49297ad517e0102b827761de521f415ff3a6922631f8d7f0e6d"
+      ],
+      "actual_sha256": "4f9ba8c05630c49297ad517e0102b827761de521f415ff3a6922631f8d7f0e6d",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 33,
+      "source_key": "Vibhaṅga 1",
+      "work_id": "vb1",
+      "segment_groups": [
+        [
+          "vb1:2.1",
+          "vb1:2.2"
+        ]
+      ],
+      "segments": [
+        "vb1:2.1",
+        "vb1:2.2"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/vb1/sujato?lang=en",
+      "raw_sha256": "14faacecb6d6cd1fddaa13cd29019578e8c56aa09f97b8c4701ce39bd587a3bb",
+      "normalized_group_sha256": [
+        "14faacecb6d6cd1fddaa13cd29019578e8c56aa09f97b8c4701ce39bd587a3bb"
+      ],
+      "actual_sha256": "14faacecb6d6cd1fddaa13cd29019578e8c56aa09f97b8c4701ce39bd587a3bb",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 33,
+      "source_key": "Ud 8.3",
+      "work_id": "ud8.3",
+      "segment_groups": [
+        [
+          "ud8.3:3.1",
+          "ud8.3:3.2"
+        ]
+      ],
+      "segments": [
+        "ud8.3:3.1",
+        "ud8.3:3.2"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/ud8.3/sujato?lang=en",
+      "raw_sha256": "3eb08bfd035e8f040f9d3f418cdc50664cc2111f2497dfcfd3d0315d59da2f51",
+      "normalized_group_sha256": [
+        "3eb08bfd035e8f040f9d3f418cdc50664cc2111f2497dfcfd3d0315d59da2f51"
+      ],
+      "actual_sha256": "3eb08bfd035e8f040f9d3f418cdc50664cc2111f2497dfcfd3d0315d59da2f51",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 34,
+      "source_key": "MN 111",
+      "work_id": "mn111",
+      "segment_groups": [
+        [
+          "mn111:4.1"
+        ]
+      ],
+      "segments": [
+        "mn111:4.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/mn111/sujato?lang=en",
+      "raw_sha256": "77681cfdee65e46b403b7a5f327ea1aaa51f2b79d0e74812a624a6ac16f25993",
+      "normalized_group_sha256": [
+        "77681cfdee65e46b403b7a5f327ea1aaa51f2b79d0e74812a624a6ac16f25993"
+      ],
+      "actual_sha256": "77681cfdee65e46b403b7a5f327ea1aaa51f2b79d0e74812a624a6ac16f25993",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 34,
+      "source_key": "Dhammasaṅgaṇī 1.1",
+      "work_id": "ds1.1",
+      "segment_groups": [
+        [
+          "ds1.1:16.1",
+          "ds1.1:17.1",
+          "ds1.1:18.1"
+        ]
+      ],
+      "segments": [
+        "ds1.1:16.1",
+        "ds1.1:17.1",
+        "ds1.1:18.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/ds1.1/sujato?lang=en",
+      "raw_sha256": "8cb6a73d99b1794b7b63f5657d26326af7e8bf34baed21c8ec905e0b1b208555",
+      "normalized_group_sha256": [
+        "fff9e5d409f348759372cd2d199de7adc6c51904dcc8d1c0a7a2e34d8b04e861"
+      ],
+      "actual_sha256": "fff9e5d409f348759372cd2d199de7adc6c51904dcc8d1c0a7a2e34d8b04e861",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 34,
+      "source_key": "SN 12.61",
+      "work_id": "sn12.61",
+      "segment_groups": [
+        [
+          "sn12.61:4.1",
+          "sn12.61:4.3"
+        ]
+      ],
+      "segments": [
+        "sn12.61:4.1",
+        "sn12.61:4.3"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn12.61/sujato?lang=en",
+      "raw_sha256": "d58af2517312fe2dcd96b2c1364f16aba2ca601c1dba203d97139f0598ce2f18",
+      "normalized_group_sha256": [
+        "d58af2517312fe2dcd96b2c1364f16aba2ca601c1dba203d97139f0598ce2f18"
+      ],
+      "actual_sha256": "d58af2517312fe2dcd96b2c1364f16aba2ca601c1dba203d97139f0598ce2f18",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 35,
+      "source_key": "SN 12.20",
+      "work_id": "sn12.20",
+      "segment_groups": [
+        [
+          "sn12.20:2.3",
+          "sn12.20:3.16"
+        ]
+      ],
+      "segments": [
+        "sn12.20:2.3",
+        "sn12.20:3.16"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn12.20/sujato?lang=en",
+      "raw_sha256": "c2a10972c6e99ff064773c4a6b11f69c147b9a30101c3cfccc5602ac05c3bf5f",
+      "normalized_group_sha256": [
+        "c2a10972c6e99ff064773c4a6b11f69c147b9a30101c3cfccc5602ac05c3bf5f"
+      ],
+      "actual_sha256": "c2a10972c6e99ff064773c4a6b11f69c147b9a30101c3cfccc5602ac05c3bf5f",
+      "visible_separator_count": 0,
+      "group_count": 1,
+      "exact_match": true
+    },
+    {
+      "lesson": 35,
+      "source_key": "SN 12.23",
+      "work_id": "sn12.23",
+      "segment_groups": [
+        [
+          "sn12.23:8.1"
+        ]
+      ],
+      "segments": [
+        "sn12.23:8.1"
+      ],
+      "url": "https://suttacentral.net/api/bilarasuttas/sn12.23/sujato?lang=en",
+      "raw_sha256": "b9471b672fa67656d612fc3c13a6f7c9f73a88d013e5e94f4082200f2d59349a",
+      "normalized_group_sha256": [
+        "b9471b672fa67656d612fc3c13a6f7c9f73a88d013e5e94f4082200f2d59349a"
+      ],
+      "actual_sha256": "b9471b672fa67656d612fc3c13a6f7c9f73a88d013e5e94f4082200f2d59349a",
       "visible_separator_count": 0,
       "group_count": 1,
       "exact_match": true

@@ -51,10 +51,16 @@ Ba lớp phải được giữ riêng trong suốt bài. **Kinh sớm** cung c�
 
 ![hình minh họa biên tập cho 2. dhammasaṅgaṇī mở bằng một ma trận, không bằng một linh hồn](../assets/illustrations/theravada-batch6/theravada-33-2-2-dhammasangani-mo-bang-mot-ma-tran-khong-bang-mot-linh-hon.webp)
 
-> **Pāli — Dhammasaṅgaṇī 1.1, các đoạn `ds1.1:1.1`, `ds1.1:2.1`, `ds1.1:3.1`**
+> [!quote] Bảng phân loại các pháp thiện và các tâm sở đi kèm — Vi Diệu Pháp tạng Theravāda
+> Đoạn Kinh nêu rằng các pháp thiện; các pháp bất thiện.
+>
+> **Pāli**
 > *Kusalā dhammā. Akusalā dhammā. Abyākatā dhammā.*
 >
-> **Bản dịch làm việc của redpill.wiki:** Các pháp thiện. Các pháp bất thiện. Các pháp không được xác định theo hai loại ấy.
+> **Dịch Việt**
+> Các pháp thiện. Các pháp bất thiện. Các pháp không được xác định theo hai loại ấy.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/ds1.1">Dhammasaṅgaṇī 1.1, các đoạn 1.1, 2.1, 3.1</a> · <i>Dhammasaṅgaṇī</i></small>
 
 Ba dòng mở đầu đặt **dhammā — các pháp hay hiện tượng được phân loại** vào ba ô: *kusala*, *akusala*, *abyākata*. Tùy văn cảnh, *kusala* có thể dịch là thiện, lành hay khéo; *abyākata* ở đây không nên hiểu là “bí ẩn”, mà là không được định danh thiện hoặc bất thiện trong phép chia này. Ma trận tiếp tục bằng nhiều bộ ba và bộ đôi để cung cấp các trục phân tích khác nhau.
 
@@ -66,10 +72,16 @@ Một hiện tượng có thể đi qua nhiều trục phân loại. “Thiện/
 
 ![hình minh họa biên tập cho 3. vibhaṅga giữ cầu nối với năm uẩn](../assets/illustrations/theravada-batch6/theravada-33-3-3-vibhanga-giu-cau-noi-voi-nam-uan.webp)
 
-> **Pāli — Vibhaṅga 1, các đoạn `vb1:2.1`, `vb1:2.2`**
+> [!quote] Phân tích năm uẩn theo Vi Diệu Pháp — Vi Diệu Pháp tạng Theravāda
+> Đoạn Kinh nêu rằng có năm uẩn: sắc uẩn, thọ uẩn, tưởng uẩn, hành uẩn và thức uẩn; trong đó, sắc uẩn là gì.
+>
+> **Pāli**
 > *Pañcakkhandhā— rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho.*
 >
-> **Bản dịch làm việc của redpill.wiki:** Có năm uẩn: sắc uẩn, thọ uẩn, tưởng uẩn, hành uẩn và thức uẩn. Trong đó, sắc uẩn là gì?
+> **Dịch Việt**
+> Có năm uẩn: sắc uẩn, thọ uẩn, tưởng uẩn, hành uẩn và thức uẩn. Trong đó, sắc uẩn là gì?
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/vb1">Vibhaṅga 1, các đoạn 2.1, 2.2</a> · <i>Khandhavibhaṅga</i></small>
 
 *Vibhaṅga* không vứt bỏ ngôn ngữ Kinh để dựng một thế giới hoàn toàn khác. Nó lấy những đề mục quen thuộc — ở đây là năm uẩn — rồi phân tích theo nhiều phương thức. Vì vậy, học Abhidhamma tốt nhất là thấy cả tính liên tục lẫn sự đổi phương pháp: đề mục có thể đến từ Kinh, còn độ chi tiết và kiến trúc phân loại thuộc tạng phân tích canonical.
 
@@ -93,10 +105,16 @@ Quan trọng nhất: bản đồ bốn phần này là **tổng hợp sách th�
 
 ![hình minh họa biên tập cho 5. nibbāna có neo kinh sớm nhưng vị trí trong bản đồ là một bước hệ thống hóa](../assets/illustrations/theravada-batch6/theravada-33-5-5-nibbana-co-neo-kinh-som-nhung-vi-tri-trong-ban-o-la-mot-buoc-h.webp)
 
-> **Pāli — Ud 8.3, các đoạn `ud8.3:3.1`, `ud8.3:3.2`**
+> [!quote] Kinh về cái không sinh, không trở thành và không bị tạo tác — Kinh Tự Thuyết
+> Đoạn Kinh nêu rằng có cái không sinh, không trở thành, không được làm ra, không bị tạo tác; nếu không có cái không sinh, không trở thành, không được làm ra, không bị tạo tác ấy, thì ở đây sẽ không nhận ra lối thoát khỏi cái đã sinh, đã….
+>
+> **Pāli**
 > *“Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ. No cetaṁ, bhikkhave, abhavissa ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ, nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyetha.*
 >
-> **Bản dịch làm việc của redpill.wiki:** Này các tỳ-kheo, có cái không sinh, không trở thành, không được làm ra, không bị tạo tác. Nếu không có cái không sinh, không trở thành, không được làm ra, không bị tạo tác ấy, thì ở đây sẽ không nhận ra lối thoát khỏi cái đã sinh, đã trở thành, đã được làm ra, bị tạo tác.
+> **Dịch Việt**
+> Này các tỳ-kheo, có cái không sinh, không trở thành, không được làm ra, không bị tạo tác. Nếu không có cái không sinh, không trở thành, không được làm ra, không bị tạo tác ấy, thì ở đây sẽ không nhận ra lối thoát khỏi cái đã sinh, đã trở thành, đã được làm ra, bị tạo tác.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/ud8.3">Ud 8.3, các đoạn 3.1, 3.2</a> · <i>Tatiyanibbānapaṭisaṁyutta Sutta</i></small>
 
 Ud 8.3 là **neo Kinh sớm** cho đối lập *saṅkhata/asaṅkhata* — hữu vi/vô vi. Nó không nêu bốn mục *citta, cetasika, rūpa, Nibbāna*. Khi sách thủ bản xếp Nibbāna làm mục thứ tư và vô vi duy nhất, đó là một bước hệ thống hóa Theravāda dựa trên nhiều nguồn, không phải bản dịch của riêng hai segment này.
 

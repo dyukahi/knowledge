@@ -55,14 +55,20 @@ Không nên dùng quả vị để thiết lập quyền miễn trừ. Một gi�
 
 ![hình minh họa biên tập cho 2. “dòng” chính là bát chánh đạo](../assets/illustrations/theravada-batch5/theravada-31-2-2-dong-chinh-la-bat-chanh-ao.webp)
 
-> **Pāli — SN 55.5, các đoạn `sn55.5:2.1`, `sn55.5:2.2`, `sn55.5:2.3`**
+> [!quote] Kinh về dòng nhập lưu chính là Bát Chánh Đạo — Tương Ưng Bộ Kinh
+> Đoạn Kinh nêu rằng này Sāriputta, người ta nói ‘dòng, dòng’; vậy dòng là gì?” “Bạch Thế Tôn, chính Bát chánh đạo cao quý này là dòng, tức là—.
+>
+> **Pāli**
 > *‘Soto, soto’ti hidaṁ, sāriputta, vuccati. Katamo nu kho, sāriputta, soto”ti? “Ayameva hi, bhante, ariyo aṭṭhaṅgiko maggo soto, seyyathidaṁ—*
 >
-> **Bản dịch làm việc của redpill.wiki:** “Này Sāriputta, người ta nói ‘dòng, dòng’. Vậy dòng là gì?” “Bạch Thế Tôn, chính Bát chánh đạo cao quý này là dòng, tức là—”
+> **Dịch Việt**
+> “Này Sāriputta, người ta nói ‘dòng, dòng’. Vậy dòng là gì?” “Bạch Thế Tôn, chính Bát chánh đạo cao quý này là dòng, tức là—”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn55.5">SN 55.5, các đoạn 2.1, 2.2, 2.3</a> · <i>Dutiyasāriputta Sutta</i></small>
 
 Đoạn ngắn này đặt trọng tâm rất rõ: **sota — dòng** không phải dòng năng lượng bí mật, huyết thống thiêng hay cộng đồng độc quyền; đó là Bát chánh đạo. “Nhập lưu” vì thế phải được hiểu trong quan hệ với chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm và chánh định. Cắt bỏ đạo đức hay trí tuệ rồi lấy một trải nghiệm làm toàn bộ tiêu chuẩn là rời phép định nghĩa của đoạn kinh.
 
-Trong cùng bài, SN 55.5 còn nêu bốn yếu tố hỗ trợ nhập lưu: gần gũi người chân chánh, nghe Chánh pháp, tác ý như lý và thực hành đúng pháp. Đây là một sinh thái học của việc học. Người học cần nguồn đáng tin, năng lực nghe, cách đặt câu hỏi đi đến nguyên nhân và một đời sống thử nghiệm điều đã hiểu. Không yếu tố nào tương đương việc sùng bái cá nhân.
+Trong cùng bài, [Dòng nhập lưu chính là Bát Chánh Đạo](https://suttacentral.net/sn55.5) còn nêu bốn yếu tố hỗ trợ nhập lưu: gần gũi người chân chánh, nghe Chánh pháp, tác ý như lý và thực hành đúng pháp. Đây là một sinh thái học của việc học. Người học cần nguồn đáng tin, năng lực nghe, cách đặt câu hỏi đi đến nguyên nhân và một đời sống thử nghiệm điều đã hiểu. Không yếu tố nào tương đương việc sùng bái cá nhân.
 
 **Sotāpatti — nhập lưu** chỉ một thay đổi về hướng và cấu trúc cái thấy, không phải nhân cách bỗng hoàn hảo. Công thức kiết sử thường gắn nhập lưu với đoạn trừ thân kiến, hoài nghi và chấp thủ giới-cấm. Người nhập lưu vẫn cần học; các phản ứng tham và sân chưa được mô tả là đã hết. Vì vậy, gắn cho họ sự toàn tri, bất khả sai hay kỹ năng ở mọi lĩnh vực là thêm điều Kinh không nói.
 
@@ -74,10 +80,16 @@ Trong thực hành hằng ngày, câu hỏi hữu ích không phải “Tôi đ�
 
 ![hình minh họa biên tập cho 3. mười kiết sử: năm thấp và năm cao](../assets/illustrations/theravada-batch5/theravada-31-3-3-muoi-kiet-su-nam-thap-va-nam-cao.webp)
 
-> **Pāli — AN 10.13, các đoạn `an10.13:1.3`, `an10.13:1.4`, `an10.13:1.5`, `an10.13:1.6`, `an10.13:2.1`, `an10.13:2.2`, `an10.13:2.3`**
+> [!quote] Kinh về mười kiết sử gồm năm thấp và năm cao — Tăng Chi Bộ Kinh
+> Đoạn Kinh nêu rằng có năm kiết sử thấp và năm kiết sử cao; năm kiết sử thấp là gì.
+>
+> **Pāli**
 > *Pañcorambhāgiyāni saṁyojanāni, pañcuddhambhāgiyāni saṁyojanāni. Katamāni pañcorambhāgiyāni saṁyojanāni? Sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso, kāmacchando, byāpādo— imāni pañcorambhāgiyāni saṁyojanāni. Katamāni pañcuddhambhāgiyāni saṁyojanāni? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā— imāni pañcuddhambhāgiyāni saṁyojanāni.*
 >
-> **Bản dịch làm việc của redpill.wiki:** Có năm kiết sử thấp và năm kiết sử cao. Năm kiết sử thấp là gì? Thân kiến, hoài nghi, chấp thủ giới và nghi thức, dục tham, sân: đó là năm kiết sử thấp. Năm kiết sử cao là gì? Tham đối với sắc, tham đối với vô sắc, mạn, trạo cử và vô minh: đó là năm kiết sử cao.
+> **Dịch Việt**
+> Có năm kiết sử thấp và năm kiết sử cao. Năm kiết sử thấp là gì? Thân kiến, hoài nghi, chấp thủ giới và nghi thức, dục tham, sân: đó là năm kiết sử thấp. Năm kiết sử cao là gì? Tham đối với sắc, tham đối với vô sắc, mạn, trạo cử và vô minh: đó là năm kiết sử cao.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/an10.13">AN 10.13, các đoạn 1.3, 1.4, 1.5, 1.6, 2.1, 2.2, 2.3</a> · <i>Saṁyojana Sutta</i></small>
 
 **Saṁyojana — đọc gần đúng “săm-yô-gia-na” — sự trói buộc, kiết sử** không phải vật thể ẩn trong thân. Đó là cách gọi các cấu trúc nhận thức và xu hướng khiến hữu tiếp tục bị buộc vào khổ. “Thấp” và “cao” không phải xấu hổ và sang trọng; chúng phân nhóm những ràng buộc thuộc dục giới và những ràng buộc vi tế còn lại.
 
@@ -102,16 +114,22 @@ Năm kiết sử cao cho thấy định sâu và cõi sống tinh tế vẫn kh�
 Truyền thống chú giải phân biệt mỗi **đạo** là nhận biết và đoạn trừ, mỗi **quả** là hưởng kết quả giải thoát tương ứng; từ đó thành bốn cặp, tám hạng thánh. Đây là hệ thống giải thích Theravāda có ảnh hưởng lớn. Các bài kinh thường trình bày nhiều công thức và góc nhìn hơn, nên không được lấy mọi chi tiết sát-na học hậu kỳ rồi gắn nhãn “nguyên văn Kinh sớm”.
 
 > [!provenance] Chú giải và hệ thống hậu kỳ
-> Cách ghép chính xác từng sát-na đạo-quả, số tâm và cơ chế đoạn kiết sử thuộc lớp Abhidhamma/chú giải được hệ thống hóa về sau. Bài này dùng hệ ấy như bản đồ Theravāda, đồng thời giữ riêng bằng chứng trực tiếp từ SN 55.5, AN 10.13 và AN 3.88.
+> Cách ghép chính xác từng sát-na đạo-quả, số tâm và cơ chế đoạn kiết sử thuộc lớp Abhidhamma/chú giải được hệ thống hóa về sau. Bài này dùng hệ ấy như bản đồ Theravāda, đồng thời giữ riêng bằng chứng trực tiếp từ [Dòng nhập lưu chính là Bát Chánh Đạo](https://suttacentral.net/sn55.5), [Mười kiết sử gồm năm thấp và năm cao](https://suttacentral.net/an10.13) và [Ba sự học gom toàn bộ việc tu](https://suttacentral.net/an3.88).
 
 ## 5. Ba Sự Học Gom Toàn Bộ Việc Tu
 
 ![hình minh họa biên tập cho 5. ba sự học gom toàn bộ việc tu](../assets/illustrations/theravada-batch5/theravada-31-5-5-ba-su-hoc-gom-toan-bo-viec-tu.webp)
 
-> **Pāli — AN 3.88, các đoạn `an3.88:1.2`, `an3.88:1.4`**
+> [!quote] Kinh về ba sự học gom toàn bộ việc tu — Tăng Chi Bộ Kinh
+> Đoạn Kinh nêu rằng có ba sự học mà toàn bộ điều ấy được quy tụ vào: học về giới cao hơn, học về tâm cao hơn và học về tuệ cao hơn.
+>
+> **Pāli**
 > *Tisso imā, bhikkhave, sikkhā yatthetaṁ sabbaṁ samodhānaṁ gacchati. Adhisīlasikkhā, adhicittasikkhā, adhipaññāsikkhā—*
 >
-> **Bản dịch làm việc của redpill.wiki:** Này các tỳ-kheo, có ba sự học mà toàn bộ điều ấy được quy tụ vào: học về giới cao hơn, học về tâm cao hơn và học về tuệ cao hơn.
+> **Dịch Việt**
+> Này các tỳ-kheo, có ba sự học mà toàn bộ điều ấy được quy tụ vào: học về giới cao hơn, học về tâm cao hơn và học về tuệ cao hơn.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/an3.88">AN 3.88, các đoạn 1.2, 1.4</a> · <i>Tatiyasikkhā Sutta</i></small>
 
 Ba sự học ngăn bản đồ quả vị biến thành suy đoán. **Adhisīla** hỏi hành vi và quan hệ đã bớt gây hại chưa. **Adhicitta** hỏi tâm có được huấn luyện để không bị triền cái và phản ứng kéo đi không. **Adhipaññā** hỏi vô thường, khổ, vô ngã và duyên khởi có được thấy đến mức buông chấp không. Chúng là ba mặt hỗ trợ nhau, không phải ba môn học để thi lấy chứng chỉ.
 
@@ -140,7 +158,7 @@ Nếu chính mình có trải nghiệm dường như thay đổi tận gốc, h�
 
 ![hình minh họa biên tập cho 7. kỷ luật khẳng định, chuỗi đọc và nguồn](../assets/illustrations/theravada-batch5/theravada-31-7-7-ky-luat-khang-inh-chuoi-oc-va-nguon.webp)
 
-**Văn bản nói gì?** SN 55.5 gọi Bát chánh đạo là “dòng”; AN 10.13 chia mười kiết sử thành năm thấp và năm cao; AN 3.88 gom việc học vào giới cao hơn, tâm cao hơn và tuệ cao hơn. Các kinh khác triển khai đặc điểm bốn mức, nhưng ba trích đoạn ở đây là các neo nguồn đã khóa cho bài.
+**Văn bản nói gì?** [Dòng nhập lưu chính là Bát Chánh Đạo](https://suttacentral.net/sn55.5) gọi Bát chánh đạo là “dòng”; [Mười kiết sử gồm năm thấp và năm cao](https://suttacentral.net/an10.13) chia mười kiết sử thành năm thấp và năm cao; [Ba sự học gom toàn bộ việc tu](https://suttacentral.net/an3.88) gom việc học vào giới cao hơn, tâm cao hơn và tuệ cao hơn. Các kinh khác triển khai đặc điểm bốn mức, nhưng ba trích đoạn ở đây là các neo nguồn đã khóa cho bài.
 
 **Truyền thống giải thích gì?** Theravāda ghép bốn đạo với bốn quả, liên hệ từng mức với sự đoạn trừ kiết sử và hệ thống hóa chúng trong Abhidhamma/chú giải. Hệ thống ấy là phần quan trọng của truyền thống, nhưng không nên được trình bày như thể toàn bộ chi tiết nằm trong một đoạn Kinh sớm duy nhất.
 
@@ -150,4 +168,4 @@ Nếu chính mình có trải nghiệm dường như thay đổi tận gốc, h�
 
 Đọc trước: [[30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ]]. Đọc tiếp: [[32 - Nibbāna - Không Phải Cõi Thứ 32]].
 
-**Nguồn và giấy phép:** Pāli lấy theo đúng segment ID từ Bilara/SuttaCentral, nhánh `published`, root Pāli MS, truy cập ngày 2026-08-20: AN 10.13 (`an10.13:1.3–2.3` theo danh sách ID ở khối trích), AN 3.88 (`an3.88:1.2`, `1.4`), SN 55.5 (`sn55.5:2.1–2.3`). Các bản dịch tiếng Việt ngay dưới Pāli là bản dịch làm việc nguyên gốc của redpill.wiki, không sao chép bản dịch hiện đại. Trạng thái kiểm tra giấy phép toàn bộ nguồn vẫn là `source_license_checked: true`; vì vậy bài chỉ trích root Pāli và chưa tái bản bản dịch bên thứ ba.
+**Nguồn và giấy phép:** Pāli lấy theo đúng segment ID từ Bilara/SuttaCentral, nhánh `published`, root Pāli MS, truy cập ngày 2026-08-20: [Mười kiết sử gồm năm thấp và năm cao](https://suttacentral.net/an10.13) (`an10.13:1.3–2.3` theo danh sách ID ở khối trích), [Ba sự học gom toàn bộ việc tu](https://suttacentral.net/an3.88) (`an3.88:1.2`, `1.4`), [Dòng nhập lưu chính là Bát Chánh Đạo](https://suttacentral.net/sn55.5) (`sn55.5:2.1–2.3`). Các bản dịch tiếng Việt ngay dưới Pāli là bản dịch làm việc nguyên gốc của redpill.wiki, không sao chép bản dịch hiện đại. Trạng thái kiểm tra giấy phép toàn bộ nguồn vẫn là `source_license_checked: true`; vì vậy bài chỉ trích root Pāli và chưa tái bản bản dịch bên thứ ba.

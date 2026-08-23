@@ -33,10 +33,15 @@
     28,
     29,
     30,
+    31,
+    32,
+    33,
+    34,
+    35,
     36
   ],
-  "cards": 93,
-  "passed": 93,
+  "cards": 107,
+  "passed": 107,
   "rows": [
     {
       "lesson": 1,
@@ -672,6 +677,104 @@
       "lesson": 30,
       "source": "SN 11.1, các đoạn 2.1, 2.3, 2.4",
       "title": "Kinh về tinh tấn giữa cuộc chiến trời và a-tu-la — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 31,
+      "source": "AN 10.13, các đoạn 1.3, 1.4, 1.5, 1.6, 2.1, 2.2, 2.3",
+      "title": "Kinh về mười kiết sử gồm năm thấp và năm cao — Tăng Chi Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 31,
+      "source": "AN 3.88, các đoạn 1.2, 1.4",
+      "title": "Kinh về ba sự học gom toàn bộ việc tu — Tăng Chi Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 31,
+      "source": "SN 55.5, các đoạn 2.1, 2.2, 2.3",
+      "title": "Kinh về dòng nhập lưu chính là Bát Chánh Đạo — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 32,
+      "source": "Iti 44, các đoạn 2.1, 2.3",
+      "title": "Kinh về hai phương diện của Nibbāna giới — Kinh Phật Thuyết Như Vậy",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 32,
+      "source": "SN 43.1, các đoạn 1.2, 1.5",
+      "title": "Kinh về vô vi là tận tham, sân và si — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 32,
+      "source": "Ud 8.3, các đoạn 3.1, 3.2",
+      "title": "Kinh về cái không sinh, không trở thành và không bị tạo tác — Kinh Tự Thuyết",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 33,
+      "source": "Dhammasaṅgaṇī 1.1, các đoạn 1.1, 2.1, 3.1",
+      "title": "Bảng phân loại các pháp thiện và các tâm sở đi kèm — Vi Diệu Pháp tạng Theravāda",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 33,
+      "source": "Ud 8.3, các đoạn 3.1, 3.2",
+      "title": "Kinh về cái không sinh, không trở thành và không bị tạo tác — Kinh Tự Thuyết",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 33,
+      "source": "Vibhaṅga 1, các đoạn 2.1, 2.2",
+      "title": "Phân tích năm uẩn theo Vi Diệu Pháp — Vi Diệu Pháp tạng Theravāda",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 34,
+      "source": "Dhammasaṅgaṇī 1.1, các đoạn 16.1, 17.1, 18.1",
+      "title": "Bảng phân loại các pháp thiện và các tâm sở đi kèm — Vi Diệu Pháp tạng Theravāda",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 34,
+      "source": "MN 111, đoạn 4.1",
+      "title": "Kinh về nhận biết từng yếu tố trong các tầng thiền — Trung Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 34,
+      "source": "SN 12.61, các đoạn 4.1, 4.3",
+      "title": "Kinh về tâm và thức sinh diệt suốt ngày đêm — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 35,
+      "source": "SN 12.20, các đoạn 2.3, 3.16",
+      "title": "Kinh về nguyên lý mọi pháp sinh theo điều kiện — Tương Ưng Bộ Kinh",
+      "translation_label": "Dịch Việt",
+      "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
+    },
+    {
+      "lesson": 35,
+      "source": "SN 12.23, đoạn 8.1",
+      "title": "Kinh về từ khổ đau đến giải thoát theo chuỗi hỗ trợ — Tương Ưng Bộ Kinh",
       "translation_label": "Dịch Việt",
       "review_note": "Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; bản Việt không có dấu lược và được ghi Dịch Việt."
     },

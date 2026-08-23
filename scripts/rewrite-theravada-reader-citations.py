@@ -8,6 +8,10 @@ CODE_RE=re.compile(r'\b(DN|MN|SN|AN)\s+(\d+(?:\.\d+)?)\b')
 def source_for_label(label):
  m=CODE_RE.search(label)
  if m:return REG[f"{m.group(1)} {m.group(2)}"]
+ for row in SOURCES:
+  for alias in (row.get('source_key',''),row.get('code',''),row.get('source_display_code','')):
+   if alias and label.casefold().startswith(alias.casefold()+','):
+    return row
  if re.search(r'\bCullavagga XI\b',label):return REG['VINAYA pli-tv-kd21']
  if re.search(r'\bCullavagga XII\b',label):return REG['VINAYA pli-tv-kd22']
  raise RuntimeError(f"unknown citation family; expand registry before migration: {label}")
@@ -15,7 +19,7 @@ def replace_reader_codes(line):
  if 'Nguồn kiểm chứng:' in line:return line
  for row in SOURCES:
   code=row.get('code','');url=re.escape(row['canonical_url']);name=row['display_title_vi'];coll=row['collection_han_viet']
-  if re.fullmatch(r'(DN|MN|SN|AN) \d+(?:\.\d+)?',code):
+  if code and row.get('canonical_url'):
    line=re.sub(rf'\[{re.escape(code)}(?:\s*[,—:-]\s*[^\]]+)?\]\({url}\)',f'[{name} — {coll}]({row["canonical_url"]})',line)
  def repl(m):
   key=f'{m.group(1)} {m.group(2)}';row=REG.get(key);return f'[{row["display_title_vi"]}]({row["canonical_url"]})' if row else m.group(0)

@@ -50,22 +50,28 @@ Nibbāna cũng không phải một **self**, **soul**, linh hồn hay chân ngã
 Ngược lại, không nên kết luận Nibbāna là hư vô hoặc sự tiêu diệt một con người có thật. Quan điểm đoạn diệt giả định trước một tự ngã thật rồi nói tự ngã ấy bị hủy. Phật giáo từ chối tiền đề ấy: con người quy ước vận hành theo duyên, không có linh hồn độc lập để bị tiêu diệt. Sự chấm dứt được nhắm đến là chấm dứt tham ái, chấp thủ, hữu và khổ.
 
 > [!provenance] Phân lớp xuất xứ
-> **Kinh sớm:** Ud 8.3, Iti 44 và SN 43.1 cung cấp ba neo ngôn ngữ: không sinh/không tạo tác, hai yếu tố Nibbāna, và sự tận tham-sân-si. **Chú giải Theravāda:** phân tích chi tiết Nibbāna như một pháp vô vi và quan hệ với tâm đạo-quả. **Diễn giải hiện đại:** các cảnh báo về “địa điểm”, “hư vô” và chủ nghĩa khoa học là cách bài này bảo vệ ranh giới khái niệm.
+> **Kinh sớm:** Ud 8.3, Iti 44 và [Vô vi là tận tham, sân và si](https://suttacentral.net/sn43.1) cung cấp ba neo ngôn ngữ: không sinh/không tạo tác, hai yếu tố Nibbāna, và sự tận tham-sân-si. **Chú giải Theravāda:** phân tích chi tiết Nibbāna như một pháp vô vi và quan hệ với tâm đạo-quả. **Diễn giải hiện đại:** các cảnh báo về “địa điểm”, “hư vô” và chủ nghĩa khoa học là cách bài này bảo vệ ranh giới khái niệm.
 
 ## 2. “Không Sinh, Không Trở Thành, Không Làm Ra, Không Tạo Tác”
 
 ![hình minh họa biên tập cho 2. “không sinh, không trở thành, không làm ra, không tạo tác”](../assets/illustrations/theravada-batch5/theravada-32-2-2-khong-sinh-khong-tro-thanh-khong-lam-ra-khong-tao-tac.webp)
 
-> **Pāli — Ud 8.3, các đoạn `ud8.3:3.1`, `ud8.3:3.2`**
+> [!quote] Kinh về cái không sinh, không trở thành và không bị tạo tác — Kinh Tự Thuyết
+> Đoạn Kinh nêu rằng có cái không sinh, không trở thành, không được làm ra, không bị tạo tác; nếu không có cái không sinh, không trở thành, không được làm ra, không bị tạo tác ấy, thì ở đây sẽ không nhận ra lối thoát khỏi cái đã sinh, đã….
+>
+> **Pāli**
 > *“Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ. No cetaṁ, bhikkhave, abhavissa ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ, nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyetha.*
 >
-> **Bản dịch làm việc của redpill.wiki:** Này các tỳ-kheo, có cái không sinh, không trở thành, không được làm ra, không bị tạo tác. Nếu không có cái không sinh, không trở thành, không được làm ra, không bị tạo tác ấy, thì ở đây sẽ không nhận ra lối thoát khỏi cái đã sinh, đã trở thành, đã được làm ra, bị tạo tác.
+> **Dịch Việt**
+> Này các tỳ-kheo, có cái không sinh, không trở thành, không được làm ra, không bị tạo tác. Nếu không có cái không sinh, không trở thành, không được làm ra, không bị tạo tác ấy, thì ở đây sẽ không nhận ra lối thoát khỏi cái đã sinh, đã trở thành, đã được làm ra, bị tạo tác.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/ud8.3">Ud 8.3, các đoạn 3.1, 3.2</a> · <i>Tatiyanibbānapaṭisaṁyutta Sutta</i></small>
 
 Ud 8.3 không đưa tọa độ của một nơi. Bốn từ **ajāta, abhūta, akata, asaṅkhata** phủ định sinh, trở thành, được làm và bị điều kiện tạo tác. Câu kế nói đến **nissaraṇa — lối thoát** khỏi cái có điều kiện. Ngữ pháp tồn tại “atthi” không tự động biến đối tượng thành một vật, một thế giới hay một chủ thể vĩnh cửu.
 
 Ngôn ngữ về vô vi có chức năng giải thoát: nếu chỉ có những gì sinh và diệt trong vòng điều kiện, sẽ không có lối ra. Tuy nhiên, mô tả bằng phủ định giới hạn khả năng tưởng tượng. Ta quen biết vật bằng hình, chỗ, thời gian, sở hữu và tương phản; đem các khuôn ấy áp vào vô vi dễ tạo một thiên đường tinh tế, một trường năng lượng hoặc tâm thức vũ trụ. Đó là phần thêm, không nằm trong hai segment.
 
-MN 26 gọi Nibbāna là điều không sinh, không già, không bệnh, không chết, không sầu, không ô nhiễm và là an ổn tối thượng khỏi các trói buộc. Bài này giữ MN 26 trong danh mục canonical để đặt Ud 8.3 trong toàn lộ trình, nhưng không tạo thêm khối Pāli ngoài ba neo đã chỉ định. “Bất tử” trong ngôn ngữ ấy không nên bị đổi thành sự bất tử của một linh hồn cá nhân.
+[Cuộc tìm cầu cao quý](https://suttacentral.net/mn26) gọi Nibbāna là điều không sinh, không già, không bệnh, không chết, không sầu, không ô nhiễm và là an ổn tối thượng khỏi các trói buộc. Bài này giữ [Cuộc tìm cầu cao quý](https://suttacentral.net/mn26) trong danh mục canonical để đặt Ud 8.3 trong toàn lộ trình, nhưng không tạo thêm khối Pāli ngoài ba neo đã chỉ định. “Bất tử” trong ngôn ngữ ấy không nên bị đổi thành sự bất tử của một linh hồn cá nhân.
 
 Nói “không thể nói gì” cũng quá sớm. Kinh nói khá nhiều bằng tên, đồng nghĩa, điều kiện thực hành và những gì chấm dứt. Điều cần tránh là biến mỗi từ thành bản thể luận vượt quá văn cảnh. Ta có thể biết phương hướng của sự giải thoát qua hết tham-sân-si mà không dựng mô hình vật lý của Nibbāna.
 
@@ -73,10 +79,16 @@ Nói “không thể nói gì” cũng quá sớm. Kinh nói khá nhiều bằng
 
 ![hình minh họa biên tập cho 3. hai yếu tố nibbāna không phải hai niết-bàn](../assets/illustrations/theravada-batch5/theravada-32-3-3-hai-yeu-to-nibbana-khong-phai-hai-niet-ban.webp)
 
-> **Pāli — Iti 44, các đoạn `iti44:2.1`, `iti44:2.3`**
+> [!quote] Kinh về hai phương diện của Nibbāna giới — Kinh Phật Thuyết Như Vậy
+> Đoạn Kinh nêu rằng có hai yếu tố Nibbāna: yếu tố Nibbāna còn dư y và yếu tố Nibbāna không còn dư y.
+>
+> **Pāli**
 > *“Dvemā, bhikkhave, nibbānadhātuyo. Saupādisesā ca nibbānadhātu, anupādisesā ca nibbānadhātu.*
 >
-> **Bản dịch làm việc của redpill.wiki:** Này các tỳ-kheo, có hai yếu tố Nibbāna: yếu tố Nibbāna còn dư y và yếu tố Nibbāna không còn dư y.
+> **Dịch Việt**
+> Này các tỳ-kheo, có hai yếu tố Nibbāna: yếu tố Nibbāna còn dư y và yếu tố Nibbāna không còn dư y.
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/iti44">Iti 44, các đoạn 2.1, 2.3</a> · <i>Nibbānadhātu Sutta</i></small>
 
 **Nibbānadhātu — yếu tố Nibbāna** được Iti 44 trình bày theo hai phương diện. **Saupādisesa** là “còn dư y”: vị A-la-hán đã hết tham, sân, si nhưng năm căn còn hoạt động, vẫn cảm nhận dễ chịu, khó chịu, lạc và khổ. Giải thoát khi đang sống không biến thân thành đá, không xóa cảm giác và không tạo miễn dịch với bệnh hay tuổi già.
 
@@ -93,16 +105,22 @@ Hai yếu tố không phải hai Nibbāna cạnh tranh, một tạm và một th
 
 ![hình minh họa biên tập cho 4. vô vi được giải thích bằng sự tận tham, sân và si](../assets/illustrations/theravada-batch5/theravada-32-4-4-vo-vi-uoc-giai-thich-bang-su-tan-tham-san-va-si.webp)
 
-> **Pāli — SN 43.1, các đoạn `sn43.1:1.2`, `sn43.1:1.5`**
+> [!quote] Kinh về vô vi là tận tham, sân và si — Tương Ưng Bộ Kinh
+> Đoạn Kinh nêu rằng ta sẽ dạy các thầy cái vô vi và con đường đi đến vô vi; này các tỳ-kheo, đó là sự tận diệt tham, sự tận diệt sân và sự tận diệt si—.
+>
+> **Pāli**
 > *“Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—*
 >
-> **Bản dịch làm việc của redpill.wiki:** Này các tỳ-kheo, Ta sẽ dạy các thầy cái vô vi và con đường đi đến vô vi. Này các tỳ-kheo, đó là sự tận diệt tham, sự tận diệt sân và sự tận diệt si—
+> **Dịch Việt**
+> Này các tỳ-kheo, Ta sẽ dạy các thầy cái vô vi và con đường đi đến vô vi. Này các tỳ-kheo, đó là sự tận diệt tham, sự tận diệt sân và sự tận diệt si—
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn43.1">SN 43.1, các đoạn 1.2, 1.5</a> · <i>Kāyagatāsati Sutta</i></small>
 
-SN 43.1 giữ Nibbāna khỏi trôi thành suy đoán thuần túy. **Rāgakkhaya, dosakkhaya, mohakkhaya** — tận tham, tận sân, tận si — là cách giải thích vô vi. “Tận” không chỉ là tạm vắng khi hoàn cảnh thuận lợi. Một tâm yên trong phòng thiền có thể vẫn bùng tham-sân-si khi bị đụng đến tiền, dục, danh và quan điểm. Con đường phải đi qua đời sống.
+[Vô vi là tận tham, sân và si](https://suttacentral.net/sn43.1) giữ Nibbāna khỏi trôi thành suy đoán thuần túy. **Rāgakkhaya, dosakkhaya, mohakkhaya** — tận tham, tận sân, tận si — là cách giải thích vô vi. “Tận” không chỉ là tạm vắng khi hoàn cảnh thuận lợi. Một tâm yên trong phòng thiền có thể vẫn bùng tham-sân-si khi bị đụng đến tiền, dục, danh và quan điểm. Con đường phải đi qua đời sống.
 
 “Tham” ở đây rộng hơn ham vật chất; nó là sức dính và chiếm hữu. “Sân” rộng hơn giận dữ có ý thức; nó gồm ác ý và xung lực đẩy-diệt. “Si” không phải thiếu dữ kiện mà là không thấy đúng khổ, nguồn gốc, sự đoạn diệt và con đường. Nibbāna vì thế không phải khoái cảm tối đa. Nếu còn người sở hữu khoái cảm và chống mọi điều làm nó mất, nhiên liệu chưa hết.
 
-Trong cùng kinh, con đường đến vô vi được nêu là niệm thân. Các bài tiếp theo của SN 43 đưa nhiều pháp tu khác. Điều này ngăn độc quyền kỹ thuật: không một nhãn thiền hiện đại có quyền tuyên bố nó là cánh cửa duy nhất chỉ dựa trên SN 43.1. Phương pháp cần được đặt trong Bát chánh đạo và ba sự học.
+Trong cùng kinh, con đường đến vô vi được nêu là niệm thân. Các bài tiếp theo của [Tuyển kinh về vô vi và con đường đến vô vi](https://suttacentral.net/sn43) đưa nhiều pháp tu khác. Điều này ngăn độc quyền kỹ thuật: không một nhãn thiền hiện đại có quyền tuyên bố nó là cánh cửa duy nhất chỉ dựa trên [Vô vi là tận tham, sân và si](https://suttacentral.net/sn43.1). Phương pháp cần được đặt trong Bát chánh đạo và ba sự học.
 
 Khi thực hành, có thể quan sát một vòng nhỏ: xúc chạm; cảm thọ; muốn giữ hoặc đẩy; câu chuyện “tôi”; hành động. Thấy điều kiện không phải Nibbāna, nhưng nó mở khả năng không cấp thêm nhiên liệu. Giữ giới ngăn hành động thô; định tạo khoảng nhìn; tuệ thấy cái sinh do duyên không đáng nhận làm tôi hay của tôi.
 
@@ -143,7 +161,7 @@ Nếu thực hành làm giảm ngủ, tăng hoảng, hưng cảm, phân ly hoặ
 
 ![hình minh họa biên tập cho 7. kỷ luật khẳng định, chuỗi đọc và nguồn](../assets/illustrations/theravada-batch5/theravada-32-7-7-ky-luat-khang-inh-chuoi-oc-va-nguon.webp)
 
-**Văn bản nói gì?** Ud 8.3 nói có cái không sinh, không trở thành, không làm ra, không tạo tác và do đó có lối thoát khỏi cái hữu vi. Iti 44 phân hai yếu tố Nibbāna theo còn hay không còn dư y. SN 43.1 giải thích vô vi bằng sự tận tham, sân và si. Không đoạn nào trong ba neo gọi Nibbāna là một cõi, linh hồn hay sự tự hủy.
+**Văn bản nói gì?** Ud 8.3 nói có cái không sinh, không trở thành, không làm ra, không tạo tác và do đó có lối thoát khỏi cái hữu vi. Iti 44 phân hai yếu tố Nibbāna theo còn hay không còn dư y. [Vô vi là tận tham, sân và si](https://suttacentral.net/sn43.1) giải thích vô vi bằng sự tận tham, sân và si. Không đoạn nào trong ba neo gọi Nibbāna là một cõi, linh hồn hay sự tự hủy.
 
 **Truyền thống giải thích gì?** Theravāda xem Nibbāna là pháp vô vi duy nhất và chú giải quan hệ của nó với tâm đạo-quả, hai yếu tố Nibbāna và parinibbāna. Đây là hệ thống có thẩm quyền trong truyền thống, nhưng chi tiết kỹ thuật phải mang nhãn Abhidhamma/chú giải thay vì hòa vào giọng Kinh sớm.
 
@@ -153,4 +171,4 @@ Nếu thực hành làm giảm ngủ, tăng hoảng, hưng cảm, phân ly hoặ
 
 Đọc trước: [[31 - Bốn Thánh Quả Và Mười Kiết Sử]]. Đọc tiếp: [[33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna]].
 
-**Nguồn và giấy phép:** Pāli lấy theo đúng segment ID từ Bilara/SuttaCentral, nhánh `published`, root Pāli MS, truy cập ngày 2026-08-20: Ud 8.3 (`ud8.3:3.1–3.2`), Iti 44 (`iti44:2.1`, `2.3`), SN 43.1 (`sn43.1:1.2`, `1.5`). Các bản dịch tiếng Việt ngay dưới Pāli là bản dịch làm việc nguyên gốc của redpill.wiki, không sao chép bản dịch hiện đại. Trạng thái kiểm tra giấy phép toàn bộ nguồn vẫn là `source_license_checked: true`; vì vậy bài chỉ trích root Pāli và chưa tái bản bản dịch bên thứ ba.
+**Nguồn và giấy phép:** Pāli lấy theo đúng segment ID từ Bilara/SuttaCentral, nhánh `published`, root Pāli MS, truy cập ngày 2026-08-20: Ud 8.3 (`ud8.3:3.1–3.2`), Iti 44 (`iti44:2.1`, `2.3`), [Vô vi là tận tham, sân và si](https://suttacentral.net/sn43.1) (`sn43.1:1.2`, `1.5`). Các bản dịch tiếng Việt ngay dưới Pāli là bản dịch làm việc nguyên gốc của redpill.wiki, không sao chép bản dịch hiện đại. Trạng thái kiểm tra giấy phép toàn bộ nguồn vẫn là `source_license_checked: true`; vì vậy bài chỉ trích root Pāli và chưa tái bản bản dịch bên thứ ba.
