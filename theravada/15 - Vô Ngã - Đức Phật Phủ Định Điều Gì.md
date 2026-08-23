@@ -44,7 +44,7 @@ source_license_checked: true
 Với sắc, thọ, tưởng, hành và thức, bài kinh hỏi: thường còn hay vô thường; cái vô thường là lạc hay dukkha; cái vô thường, dukkha và chịu biến đổi có thích hợp xem “đây là của tôi, đây là tôi, đây là tự ngã của tôi” không. Câu trả lời là không. Kết quả thực hành là yếm ly, ly tham và giải thoát, không phải tuyệt vọng.
 
 > [!quote] Kinh về năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh
-> Đoạn Kinh nêu rằng sắc không phải tự ngã; nếu sắc là tự ngã, sắc đã không dẫn đến bức bách, và có thể ra lệnh cho sắc: ‘Sắc của tôi hãy như thế này; sắc của tôi đừng như thế kia.’ Nhưng vì sắc không phải tự ngã, sắc dẫn đến bức bách,….
+> Đoạn Kinh nêu rằng sắc không phải tự ngã; nếu sắc là tự ngã, sắc đã không dẫn đến bức bách, và có thể ra lệnh cho sắc: ‘Sắc của tôi hãy như thế này; sắc của tôi đừng như thế kia.’ Nhưng vì sắc không phải tự ngã, sắc dẫn đến bức bách,…
 >
 > **Pāli**
 > *“Rūpaṁ, bhikkhave, anattā. Rūpañca hidaṁ, bhikkhave, attā abhavissa, nayidaṁ rūpaṁ ābādhāya saṁvatteyya, labbhetha ca rūpe: ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti. Yasmā ca kho, bhikkhave, rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati, na ca labbhati rūpe: ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti.*
@@ -59,7 +59,7 @@ Với sắc, thọ, tưởng, hành và thức, bài kinh hỏi: thường còn 
 [Bảy cách làm cạn các lậu hoặc — Trung Bộ Kinh](https://suttacentral.net/mn2) cho thấy nguy hiểm của suy tư không đúng gốc về bản ngã: “ta có trong quá khứ không”, “ta sẽ là gì”, “ta là gì”. Từ đó có thể sinh sáu quan điểm, gồm “tôi có tự ngã”, “tôi không có tự ngã”, “tôi nhận biết tự ngã bằng tự ngã” và quan điểm về cái tôi thường hằng chịu quả. Đáng chú ý, mệnh đề “tôi không có tự ngã” cũng nằm trong lưới quan điểm khi được nắm theo cách ấy.
 
 > [!quote] Kinh về bảy cách làm cạn các lậu hoặc — Trung Bộ Kinh
-> Đoạn Kinh nêu rằng khi tác ý không đúng như vậy, một trong sáu quan điểm sinh lên nơi người ấy: ‘Tôi có tự ngã’; ‘Tôi không có tự ngã’; ‘Chính bằng tự ngã tôi nhận biết tự ngã’; ‘Chính bằng tự ngã tôi nhận biết cái không phải tự ngã’;….
+> Đoạn Kinh nêu rằng khi tác ý không đúng như vậy, một trong sáu quan điểm sinh lên nơi người ấy: ‘Tôi có tự ngã’; ‘Tôi không có tự ngã’; ‘Chính bằng tự ngã tôi nhận biết tự ngã’; ‘Chính bằng tự ngã tôi nhận biết cái không phải tự ngã’;…
 >
 > **Pāli**
 > *Tassa evaṁ ayoniso manasikaroto channaṁ diṭṭhīnaṁ aññatarā diṭṭhi uppajjati. ‘Atthi me attā’ti vā assa saccato thetato diṭṭhi uppajjati; ‘natthi me attā’ti vā assa saccato thetato diṭṭhi uppajjati; ‘attanāva attānaṁ sañjānāmī’ti vā assa saccato thetato diṭṭhi uppajjati; ‘attanāva anattānaṁ sañjānāmī’ti vā assa saccato thetato diṭṭhi uppajjati; ‘anattanāva attānaṁ sañjānāmī’ti vā assa saccato thetato diṭṭhi uppajjati; atha vā panassa evaṁ diṭṭhi hoti: ‘yo me ayaṁ attā vado vedeyyo tatra tatra kalyāṇapāpakānaṁ kammānaṁ vipākaṁ paṭisaṁvedeti so kho pana me ayaṁ attā nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva ṭhassatī’ti.*
@@ -84,7 +84,7 @@ Sau đó bài nối **anicca — “a-nít-cha” — vô thường** với dukk
 Từ vô thường và dukkha, Kinh hỏi tính thích hợp của chấp ngã. Đây là phép đánh giá thực hành, không nhất thiết là định lý tuyên bố mọi khả thể siêu hình đã bị bác bằng logic. Nó cho thấy bất kỳ uẩn nào ta tiếp cận đều không đáp tiêu chuẩn làm tự ngã thường hằng, hoàn toàn chủ quyền và không đổi.
 
 > [!quote] Kinh về năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh
-> Đoạn Kinh nêu rằng ‘Cái gì vô thường thì là khổ hay là lạc?’—‘Là khổ, bạch Thế Tôn.’—‘Cái gì vô thường, khổ và mang bản chất biến đổi, có thích hợp để xem: “Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi” không?’—‘Thưa….
+> Đoạn Kinh nêu rằng ‘Cái gì vô thường thì là khổ hay là lạc?’—‘Là khổ, bạch Thế Tôn.’—‘Cái gì vô thường, khổ và mang bản chất biến đổi, có thích hợp để xem: “Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi” không?’—‘Thưa…
 >
 > **Pāli**
 > *“Aniccaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti? “Dukkhaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti? “No hetaṁ, bhante”.*

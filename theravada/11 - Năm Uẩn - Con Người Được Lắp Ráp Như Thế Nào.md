@@ -40,7 +40,7 @@ source_license_checked: true
 ![năm dòng sắc thọ tưởng hành thức giao nhau quanh một đời sống nhưng không đóng thành lõi bất biến](../assets/illustrations/theravada-batch2/theravada-11-nam-dong-kinh-nghiem.webp)
 
 > [!quote] Kinh về năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh
-> Đoạn Kinh nêu rằng sắc là vô ngã; nếu sắc là tự ngã thì sắc đã không dẫn đến khổ não, và đối với sắc người ta có thể khiến: ‘Sắc của tôi hãy như thế này; sắc của tôi đừng như thế kia.’ Nhưng vì sắc là vô ngã nên sắc dẫn đến khổ não,….
+> Đoạn Kinh nêu rằng sắc là vô ngã; nếu sắc là tự ngã thì sắc đã không dẫn đến khổ não, và đối với sắc người ta có thể khiến: ‘Sắc của tôi hãy như thế này; sắc của tôi đừng như thế kia.’ Nhưng vì sắc là vô ngã nên sắc dẫn đến khổ não,…
 >
 > **Pāli**
 > *“Rūpaṁ, bhikkhave, anattā. Rūpañca hidaṁ, bhikkhave, attā abhavissa, nayidaṁ rūpaṁ ābādhāya saṁvatteyya, labbhetha ca rūpe: ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti. Yasmā ca kho, bhikkhave, rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati, na ca labbhati rūpe: ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti.*

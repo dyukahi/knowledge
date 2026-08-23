@@ -56,7 +56,7 @@ Không nên dùng quả vị để thiết lập quyền miễn trừ. Một gi�
 ![hình minh họa biên tập cho 2. “dòng” chính là bát chánh đạo](../assets/illustrations/theravada-batch5/theravada-31-2-2-dong-chinh-la-bat-chanh-ao.webp)
 
 > [!quote] Kinh về dòng nhập lưu chính là Bát Chánh Đạo — Tương Ưng Bộ Kinh
-> Đoạn Kinh nêu rằng này Sāriputta, người ta nói ‘dòng, dòng’; vậy dòng là gì?” “Bạch Thế Tôn, chính Bát chánh đạo cao quý này là dòng, tức là—.
+> Đoạn Kinh nêu rằng này Sāriputta, người ta nói ‘dòng, dòng’; vậy dòng là gì?” “Bạch Thế Tôn, chính Bát chánh đạo cao quý này là dòng, tức là—
 >
 > **Pāli**
 > *‘Soto, soto’ti hidaṁ, sāriputta, vuccati. Katamo nu kho, sāriputta, soto”ti? “Ayameva hi, bhante, ariyo aṭṭhaṅgiko maggo soto, seyyathidaṁ—*

@@ -37,7 +37,7 @@ source_license_checked: true
 ![hình tượng tự nhiên diễn giải 1. năm sự học, không phải năm mệnh lệnh từ một đấng phán xét không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-23-1-nam-su-hoc-khong-phai-nam-menh-lenh-tu-mot-ang.webp)
 
 > [!quote] Kinh về năm giới là năm món quà không sợ hãi — Tăng Chi Bộ Kinh
-> Đoạn Kinh nêu rằng ở đây vị đệ tử cao quý từ bỏ sát sinh và tránh sát sinh; từ bỏ lấy của không cho và tránh lấy của không cho; từ bỏ hành vi sai trái trong dục và tránh hành vi ấy; từ bỏ nói dối và tránh nói dối; từ bỏ rượu, chất say….
+> Đoạn Kinh nêu rằng ở đây vị đệ tử cao quý từ bỏ sát sinh và tránh sát sinh; từ bỏ lấy của không cho và tránh lấy của không cho; từ bỏ hành vi sai trái trong dục và tránh hành vi ấy; từ bỏ nói dối và tránh nói dối; từ bỏ rượu, chất say…
 >
 > **Pāli**
 > *Idha, bhikkhave, ariyasāvako pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti. Puna caparaṁ, bhikkhave, ariyasāvako adinnādānaṁ pahāya adinnādānā paṭivirato hoti kāmesumicchācāraṁ pahāya kāmesumicchācārā paṭivirato hoti musāvādaṁ pahāya musāvādā paṭivirato hoti surāmerayamajjapamādaṭṭhānaṁ pahāya surāmerayamajjapamādaṭṭhānā paṭivirato hoti.*

@@ -45,8 +45,10 @@ def passage_intro(row,translation):
  if len(first)>220:
   first=first[:217].rsplit(' ',1)[0]
   first=re.sub(r'\s+(?:và|hoặc|các|được)$','',first)+'…'
- family='Đoạn Luật' if row['source_type']=='vinaya' else 'Đoạn Kinh'
- return f'{family} nêu rằng {first[0].lower()+first[1:] if first else row["plain_summary"].lower()}.'
+ family=('Đoạn Luật' if row['source_type']=='vinaya' else
+         'Đoạn Vi Diệu Pháp' if row['source_type']=='abhidhamma' else 'Đoạn Kinh')
+ statement=first[0].lower()+first[1:] if first else row["plain_summary"].lower()
+ return f'{family} nêu rằng {statement}' + ('' if statement.endswith(('…','.','?','!','—')) else '.')
 def rewrite(path):
  text=path.read_text();parts=text.split('---',2);front='---'+parts[1]+'---' if len(parts)>2 else '';body=parts[2].lstrip('\n') if len(parts)>2 else text;lines=body.splitlines();out=[];i=0;cards=0
  while i<len(lines):

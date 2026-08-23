@@ -111,7 +111,7 @@ Vì [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn1
 ![thức và danh sắc nương nhau như hai bó lau mà không tạo một chủ thể](../assets/illustrations/theravada-batch3/theravada-20-dn15-thuc-danh-sac.webp)
 
 > [!quote] Kinh về mạng duyên khởi sâu xa — Trường Bộ Kinh
-> Đoạn Kinh nêu rằng như vậy, này Ānanda, do danh-sắc làm duyên nên có thức; do thức làm duyên nên có danh-sắc; do danh-sắc làm duyên nên có xúc; do xúc làm duyên nên có thọ; do thọ làm duyên nên có ái; do ái làm duyên nên có thủ; do thủ….
+> Đoạn Kinh nêu rằng như vậy, này Ānanda, do danh-sắc làm duyên nên có thức; do thức làm duyên nên có danh-sắc; do danh-sắc làm duyên nên có xúc; do xúc làm duyên nên có thọ; do thọ làm duyên nên có ái; do ái làm duyên nên có thủ; do thủ…
 >
 > **Pāli**
 > *Iti kho, ānanda, nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.*

@@ -52,7 +52,7 @@ Ba lớp phải được giữ riêng trong suốt bài. **Kinh sớm** cung c�
 ![hình minh họa biên tập cho 2. dhammasaṅgaṇī mở bằng một ma trận, không bằng một linh hồn](../assets/illustrations/theravada-batch6/theravada-33-2-2-dhammasangani-mo-bang-mot-ma-tran-khong-bang-mot-linh-hon.webp)
 
 > [!quote] Bảng phân loại các pháp thiện và các tâm sở đi kèm — Vi Diệu Pháp tạng Theravāda
-> Đoạn Kinh nêu rằng các pháp thiện; các pháp bất thiện.
+> Đoạn Vi Diệu Pháp nêu rằng các pháp thiện; các pháp bất thiện.
 >
 > **Pāli**
 > *Kusalā dhammā. Akusalā dhammā. Abyākatā dhammā.*
@@ -73,7 +73,7 @@ Một hiện tượng có thể đi qua nhiều trục phân loại. “Thiện/
 ![hình minh họa biên tập cho 3. vibhaṅga giữ cầu nối với năm uẩn](../assets/illustrations/theravada-batch6/theravada-33-3-3-vibhanga-giu-cau-noi-voi-nam-uan.webp)
 
 > [!quote] Phân tích năm uẩn theo Vi Diệu Pháp — Vi Diệu Pháp tạng Theravāda
-> Đoạn Kinh nêu rằng có năm uẩn: sắc uẩn, thọ uẩn, tưởng uẩn, hành uẩn và thức uẩn; trong đó, sắc uẩn là gì.
+> Đoạn Vi Diệu Pháp nêu rằng có năm uẩn: sắc uẩn, thọ uẩn, tưởng uẩn, hành uẩn và thức uẩn; trong đó, sắc uẩn là gì.
 >
 > **Pāli**
 > *Pañcakkhandhā— rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho.*
@@ -106,7 +106,7 @@ Quan trọng nhất: bản đồ bốn phần này là **tổng hợp sách th�
 ![hình minh họa biên tập cho 5. nibbāna có neo kinh sớm nhưng vị trí trong bản đồ là một bước hệ thống hóa](../assets/illustrations/theravada-batch6/theravada-33-5-5-nibbana-co-neo-kinh-som-nhung-vi-tri-trong-ban-o-la-mot-buoc-h.webp)
 
 > [!quote] Kinh về cái không sinh, không trở thành và không bị tạo tác — Kinh Tự Thuyết
-> Đoạn Kinh nêu rằng có cái không sinh, không trở thành, không được làm ra, không bị tạo tác; nếu không có cái không sinh, không trở thành, không được làm ra, không bị tạo tác ấy, thì ở đây sẽ không nhận ra lối thoát khỏi cái đã sinh, đã….
+> Đoạn Kinh nêu rằng có cái không sinh, không trở thành, không được làm ra, không bị tạo tác; nếu không có cái không sinh, không trở thành, không được làm ra, không bị tạo tác ấy, thì ở đây sẽ không nhận ra lối thoát khỏi cái đã sinh, đã…
 >
 > **Pāli**
 > *“Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ. No cetaṁ, bhikkhave, abhavissa ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ, nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyetha.*

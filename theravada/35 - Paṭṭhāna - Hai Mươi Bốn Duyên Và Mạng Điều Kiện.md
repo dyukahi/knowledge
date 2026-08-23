@@ -68,7 +68,7 @@ Khoảng dòng trong khối Pāli đánh dấu các segment trung gian không n�
 ![hình minh họa biên tập cho 3. sn 12.23: một chuỗi hỗ trợ không chỉ đi từ vô minh đến khổ](../assets/illustrations/theravada-batch6/theravada-35-3-3-sn-12-23-mot-chuoi-ho-tro-khong-chi-i-tu-vo-minh-en-kho.webp)
 
 > [!quote] Kinh về từ khổ đau đến giải thoát theo chuỗi hỗ trợ — Tương Ưng Bộ Kinh
-> Đoạn Kinh nêu rằng như vậy, này các tỳ-kheo, hành có vô minh làm điều kiện hỗ trợ; thức có hành làm điều kiện hỗ trợ; danh-sắc có thức làm điều kiện hỗ trợ; sáu xứ có danh-sắc làm điều kiện hỗ trợ; xúc có sáu xứ làm điều kiện hỗ trợ;….
+> Đoạn Kinh nêu rằng như vậy, này các tỳ-kheo, hành có vô minh làm điều kiện hỗ trợ; thức có hành làm điều kiện hỗ trợ; danh-sắc có thức làm điều kiện hỗ trợ; sáu xứ có danh-sắc làm điều kiện hỗ trợ; xúc có sáu xứ làm điều kiện hỗ trợ;…
 >
 > **Pāli**
 > *Evameva kho, bhikkhave, avijjūpanisā saṅkhārā, saṅkhārūpanisaṁ viññāṇaṁ, viññāṇūpanisaṁ nāmarūpaṁ, nāmarūpūpanisaṁ saḷāyatanaṁ, saḷāyatanūpaniso phasso, phassūpanisā vedanā, vedanūpanisā taṇhā, taṇhūpanisaṁ upādānaṁ, upādānūpaniso bhavo, bhavūpanisā jāti, jātūpanisaṁ dukkhaṁ, dukkhūpanisā saddhā, saddhūpanisaṁ pāmojjaṁ, pāmojjūpanisā pīti, pītūpanisā passaddhi, passaddhūpanisaṁ sukhaṁ, sukhūpaniso samādhi, samādhūpanisaṁ yathābhūtañāṇadassanaṁ, yathābhūtañāṇadassanūpanisā nibbidā, nibbidūpaniso virāgo, virāgūpanisā vimutti, vimuttūpanisaṁ khaye ñāṇan”ti.*

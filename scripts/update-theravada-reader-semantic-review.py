@@ -5,13 +5,14 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 PROGRESS=ROOT/'_docs/theravada-reader-rewrite-progress.json'
 REVIEW=ROOT/'_docs/theravada-reader-pilot-semantic-review.json'
-def derived_intro(translation):
+def derived_intro(translation,family='Đoạn Kinh'):
  text=translation.strip().strip('“”"').replace('…',' ');text=re.sub(r'^(Này các (?:Tỳ-kheo|tỳ-kheo|vị),?\s*)','',text);text=' '.join(text.split());sentences=re.split(r'(?<=[.!?])\s+',text,maxsplit=2);first=sentences[0].rstrip('.!?')
  if len(first)<80 and len(sentences)>1:
   second=sentences[1].rstrip('.!?');first=(first+'; '+second[:1].lower()+second[1:]).strip()
  if len(first)>220:
   first=first[:217].rsplit(' ',1)[0];first=re.sub(r'\s+(?:và|hoặc|các|được)$','',first)+'…'
- return f'Đoạn Kinh nêu rằng {first[0].lower()+first[1:]}.'
+ statement=first[0].lower()+first[1:]
+ return f'{family} nêu rằng {statement}' + ('' if statement.endswith(('…','.','?','!','—')) else '.')
 def refresh_intros(n):
  p=next((ROOT/'theravada').glob(f'{n:02d}*.md'));lines=p.read_text().splitlines();dirty=False
  for i,line in enumerate(lines):
@@ -19,7 +20,8 @@ def refresh_intros(n):
   j=i+2
   while j<len(lines) and not lines[j].startswith('> **Dịch Việt'):j+=1
   if j>=len(lines):continue
-  intro=derived_intro(lines[j+1][2:].strip())
+  family='Đoạn Vi Diệu Pháp' if 'Vi Diệu Pháp tạng Theravāda' in line else 'Đoạn Luật' if 'Luật tạng Theravāda' in line else 'Đoạn Kinh'
+  intro=derived_intro(lines[j+1][2:].strip(),family)
   if lines[i+1] != '> '+intro:lines[i+1]='> '+intro;dirty=True
  if dirty:p.write_text('\n'.join(lines)+'\n')
 def cards_for_lesson(n):
@@ -38,7 +40,7 @@ def cards_for_lesson(n):
   if '…' not in translation and label=='Dịch Việt rút gọn':
    # Canonical Pāli may contain pe/ellipsis while Vietnamese marks the compression in prose.
    pass
-  if not intro.startswith(('Đoạn Kinh ','Đoạn Luật ')):raise RuntimeError(f'non-neutral introduction lesson {n}: {source}')
+  if not intro.startswith(('Đoạn Kinh ','Đoạn Luật ','Đoạn Vi Diệu Pháp ')):raise RuntimeError(f'non-neutral introduction lesson {n}: {source}')
   note=('Câu dẫn được rút trực tiếp từ mệnh đề đầu của bản Việt nên không mở rộng claim; '
         +('bản Việt có dấu lược hiển thị và được ghi Dịch Việt rút gọn.' if label=='Dịch Việt rút gọn' else 'bản Việt không có dấu lược và được ghi Dịch Việt.'))
   rows.append({'lesson':n,'source':source,'title':title,'translation_label':label,'review_note':note})

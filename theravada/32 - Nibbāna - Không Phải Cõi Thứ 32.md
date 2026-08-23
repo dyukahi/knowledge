@@ -57,7 +57,7 @@ Ngược lại, không nên kết luận Nibbāna là hư vô hoặc sự tiêu 
 ![hình minh họa biên tập cho 2. “không sinh, không trở thành, không làm ra, không tạo tác”](../assets/illustrations/theravada-batch5/theravada-32-2-2-khong-sinh-khong-tro-thanh-khong-lam-ra-khong-tao-tac.webp)
 
 > [!quote] Kinh về cái không sinh, không trở thành và không bị tạo tác — Kinh Tự Thuyết
-> Đoạn Kinh nêu rằng có cái không sinh, không trở thành, không được làm ra, không bị tạo tác; nếu không có cái không sinh, không trở thành, không được làm ra, không bị tạo tác ấy, thì ở đây sẽ không nhận ra lối thoát khỏi cái đã sinh, đã….
+> Đoạn Kinh nêu rằng có cái không sinh, không trở thành, không được làm ra, không bị tạo tác; nếu không có cái không sinh, không trở thành, không được làm ra, không bị tạo tác ấy, thì ở đây sẽ không nhận ra lối thoát khỏi cái đã sinh, đã…
 >
 > **Pāli**
 > *“Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ. No cetaṁ, bhikkhave, abhavissa ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ, nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyetha.*
@@ -106,7 +106,7 @@ Hai yếu tố không phải hai Nibbāna cạnh tranh, một tạm và một th
 ![hình minh họa biên tập cho 4. vô vi được giải thích bằng sự tận tham, sân và si](../assets/illustrations/theravada-batch5/theravada-32-4-4-vo-vi-uoc-giai-thich-bang-su-tan-tham-san-va-si.webp)
 
 > [!quote] Kinh về vô vi là tận tham, sân và si — Tương Ưng Bộ Kinh
-> Đoạn Kinh nêu rằng ta sẽ dạy các thầy cái vô vi và con đường đi đến vô vi; này các tỳ-kheo, đó là sự tận diệt tham, sự tận diệt sân và sự tận diệt si—.
+> Đoạn Kinh nêu rằng ta sẽ dạy các thầy cái vô vi và con đường đi đến vô vi; này các tỳ-kheo, đó là sự tận diệt tham, sự tận diệt sân và sự tận diệt si—
 >
 > **Pāli**
 > *“Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—*

@@ -92,7 +92,7 @@ Văn cảnh vì vậy bác cách dùng Baka làm bằng chứng cho một Đấn
 ![hình minh họa biên tập cho 4. a-tu-la trong sn 11: đối thủ của chư thiên, không phải quỷ tuyệt đối](../assets/illustrations/theravada-batch5/theravada-30-4-4-a-tu-la-trong-sn-11-oi-thu-cua-chu-thien-khong-phai-quy-tuyet-.webp)
 
 > [!quote] Kinh về tinh tấn giữa cuộc chiến trời và a-tu-la — Tương Ưng Bộ Kinh
-> Đoạn Kinh nêu rằng thuở trước, này các tỳ-kheo, một trận chiến giữa chư thiên và a-tu-la đã dàn ra; rồi Sakka, vua chư thiên, nói với chư thiên cõi Tam Thập Tam: “Này các bạn, nếu khi ra trận, chư thiên khởi sợ hãi, kinh hoàng hay dựng….
+> Đoạn Kinh nêu rằng thuở trước, này các tỳ-kheo, một trận chiến giữa chư thiên và a-tu-la đã dàn ra; rồi Sakka, vua chư thiên, nói với chư thiên cõi Tam Thập Tam: “Này các bạn, nếu khi ra trận, chư thiên khởi sợ hãi, kinh hoàng hay dựng…
 >
 > **Pāli**
 > *“Bhūtapubbaṁ, bhikkhave, asurā deve abhiyaṁsu. ‘ete, tāta suvīra, asurā deve abhiyanti. Gaccha, tāta suvīra, asure paccuyyāhī’ti.*

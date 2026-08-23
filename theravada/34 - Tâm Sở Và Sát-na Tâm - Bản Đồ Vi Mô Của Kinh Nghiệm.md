@@ -72,7 +72,7 @@ Từ *anupada* nhấn mạnh việc xác định lần lượt; nó không bắt
 ![hình minh họa biên tập cho 3. dhammasaṅgaṇī phân loại tầm và tứ theo ma trận canonical](../assets/illustrations/theravada-batch6/theravada-34-3-3-dhammasangani-phan-loai-tam-va-tu-theo-ma-tran-canonical.webp)
 
 > [!quote] Bảng phân loại các pháp thiện và các tâm sở đi kèm — Vi Diệu Pháp tạng Theravāda
-> Đoạn Kinh nêu rằng các pháp có tầm và có tứ; các pháp không tầm, chỉ có tứ.
+> Đoạn Vi Diệu Pháp nêu rằng các pháp có tầm và có tứ; các pháp không tầm, chỉ có tứ.
 >
 > **Pāli**
 > *Savitakkasavicārā dhammā. Avitakkavicāramattā dhammā. Avitakkaavicārā dhammā.*

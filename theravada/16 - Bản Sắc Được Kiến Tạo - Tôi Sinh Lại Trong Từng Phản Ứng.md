@@ -57,7 +57,7 @@ Với sắc, người không được học có thể xem sắc là tự ngã; t
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn22.1">SN 22.1, đoạn 3.4–3.6</a> · <i>Nakulapitu Sutta</i></small>
 
 > [!quote] Kinh về hỏi đáp về thân kiến và thiền — Trung Bộ Kinh
-> Đoạn Kinh nêu rằng ‘Sakkāya, sakkāya’—người ta nói như vậy; thưa ni sư, sakkāya nào được Thế Tôn nói đến?”—“Này hiền hữu Visākha, năm thủ uẩn này được Thế Tôn gọi là sakkāya: thủ uẩn sắc, thủ uẩn thọ, thủ uẩn tưởng, thủ uẩn hành và thủ….
+> Đoạn Kinh nêu rằng ‘Sakkāya, sakkāya’—người ta nói như vậy; thưa ni sư, sakkāya nào được Thế Tôn nói đến?”—“Này hiền hữu Visākha, năm thủ uẩn này được Thế Tôn gọi là sakkāya: thủ uẩn sắc, thủ uẩn thọ, thủ uẩn tưởng, thủ uẩn hành và thủ…
 >
 > **Pāli**
 > *“‘sakkāyo sakkāyo’ti, ayye, vuccati. Katamo nu kho, ayye, sakkāyo vutto bhagavatā”ti? “Pañca kho ime, āvuso visākha, upādānakkhandhā sakkāyo vutto bhagavatā, seyyathidaṁ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho. Ime kho, āvuso visākha, pañcupādānakkhandhā sakkāyo vutto bhagavatā”ti.*
