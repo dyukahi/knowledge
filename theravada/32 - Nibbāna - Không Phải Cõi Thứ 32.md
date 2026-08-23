@@ -48,7 +48,8 @@ Kinh nói bằng ngôn ngữ tắt nhiên liệu, vô vi và tận tham–sân�
 
 ![hình minh họa biên tập cho 1. đừng đặt nibbāna lên trên cùng một tấm bản đồ cõi](../assets/illustrations/theravada-batch5/theravada-32-1-1-ung-at-nibbana-len-tren-cung-mot-tam-ban-o-coi.webp)
 
-**Nibbāna — đọc gần đúng “níp-ba-na” — sự tắt nguội, giải thoát** là đích của con đường Theravāda, nhưng gọi nó “cõi thứ 32” làm sai loại khái niệm. Các cõi là những kiểu tái sinh hay hiện hữu có điều kiện; chúng thuộc **saṅkhata — cái được tạo tác, có điều kiện**. Nibbāna được gọi **asaṅkhata — không bị tạo tác, vô vi**. Thêm nó như tầng cao nhất của cùng bảng là biến điều vượt ngoài tiến trình sinh-diệt thành một mục nữa trong tiến trình ấy.
+<!-- vault-voice-section:v1 -->
+Đặt Nibbāna thành cõi32 khiến cái vô vi bị kéo trở lại cùng loại với những hữu vẫn sinh và diệt. **Nibbāna — đọc gần đúng “níp-ba-na” — sự tắt nguội, giải thoát** là đích của con đường Theravāda, nhưng gọi nó “cõi thứ 32” làm sai loại khái niệm. Các cõi là những kiểu tái sinh hay hiện hữu có điều kiện; chúng thuộc **saṅkhata — cái được tạo tác, có điều kiện**. Nibbāna được gọi **asaṅkhata — không bị tạo tác, vô vi**. Thêm nó như tầng cao nhất của cùng bảng là biến điều vượt ngoài tiến trình sinh-diệt thành một mục nữa trong tiến trình ấy.
 
 Ẩn dụ “tắt” cũng dễ bị hiểu sai. Trong bối cảnh Ấn Độ cổ, lửa tắt khi không còn nhiên liệu; trọng tâm là hết điều kiện nuôi cháy, không phải một vật thể bị tiêu hủy thành hư vô. Trong thực hành, nhiên liệu được nêu rõ là tham, sân và si. Vì thế, Nibbāna không đồng nghĩa cái chết, gây tê cảm xúc hay trốn khỏi đời.
 
@@ -74,7 +75,8 @@ Ngược lại, không nên kết luận Nibbāna là hư vô hoặc sự tiêu 
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/ud8.3">Ud 8.3, các đoạn 3.1, 3.2</a> · <i>Tatiyanibbānapaṭisaṁyutta Sutta</i></small>
 
-Ud 8.3 không đưa tọa độ của một nơi. Bốn từ **ajāta, abhūta, akata, asaṅkhata** phủ định sinh, trở thành, được làm và bị điều kiện tạo tác. Câu kế nói đến **nissaraṇa — lối thoát** khỏi cái có điều kiện. Ngữ pháp tồn tại “atthi” không tự động biến đối tượng thành một vật, một thế giới hay một chủ thể vĩnh cửu.
+<!-- vault-voice-section:v1 -->
+Ngôn ngữ không sinh–không tạo tác mở lối ra, nhưng từ chối cung cấp hình ảnh để imagination biến lối ra thành tài sản. Ud 8.3 không đưa tọa độ của một nơi. Bốn từ **ajāta, abhūta, akata, asaṅkhata** phủ định sinh, trở thành, được làm và bị điều kiện tạo tác. Câu kế nói đến **nissaraṇa — lối thoát** khỏi cái có điều kiện. Ngữ pháp tồn tại “atthi” không tự động biến đối tượng thành một vật, một thế giới hay một chủ thể vĩnh cửu.
 
 Ngôn ngữ về vô vi có chức năng giải thoát: nếu chỉ có những gì sinh và diệt trong vòng điều kiện, sẽ không có lối ra. Tuy nhiên, mô tả bằng phủ định giới hạn khả năng tưởng tượng. Ta quen biết vật bằng hình, chỗ, thời gian, sở hữu và tương phản; đem các khuôn ấy áp vào vô vi dễ tạo một thiên đường tinh tế, một trường năng lượng hoặc tâm thức vũ trụ. Đó là phần thêm, không nằm trong hai segment.
 
@@ -97,7 +99,8 @@ Nói “không thể nói gì” cũng quá sớm. Kinh nói khá nhiều bằng
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/iti44">Iti 44, các đoạn 2.1, 2.3</a> · <i>Nibbānadhātu Sutta</i></small>
 
-**Nibbānadhātu — yếu tố Nibbāna** được Iti 44 trình bày theo hai phương diện. **Saupādisesa** là “còn dư y”: vị A-la-hán đã hết tham, sân, si nhưng năm căn còn hoạt động, vẫn cảm nhận dễ chịu, khó chịu, lạc và khổ. Giải thoát khi đang sống không biến thân thành đá, không xóa cảm giác và không tạo miễn dịch với bệnh hay tuổi già.
+<!-- vault-voice-section:v1 -->
+Hai yếu tố Nibbāna phân biệt khi uẩn còn hoạt động và khi đời A-la-hán kết thúc, không dựng hai Niết-bàn cạnh tranh. **Nibbānadhātu — yếu tố Nibbāna** được Iti 44 trình bày theo hai phương diện. **Saupādisesa** là “còn dư y”: vị A-la-hán đã hết tham, sân, si nhưng năm căn còn hoạt động, vẫn cảm nhận dễ chịu, khó chịu, lạc và khổ. Giải thoát khi đang sống không biến thân thành đá, không xóa cảm giác và không tạo miễn dịch với bệnh hay tuổi già.
 
 **Anupādisesa** là “không còn dư y”: khi đời sống vị A-la-hán kết thúc, mọi điều được cảm thọ mà không còn được hoan hỷ sẽ nguội. Cách diễn đạt này không bảo một linh hồn rời thân đến một nơi. Nó cũng không nói một tự ngã bị tiêu diệt. Những câu hỏi “vị ấy đi đâu?” thường mang giả định rằng phải có một vật đồng nhất tiếp tục hoặc mất đi; chính giả định ấy cần được xem xét.
 
@@ -123,7 +126,8 @@ Hai yếu tố không phải hai Nibbāna cạnh tranh, một tạm và một th
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn43.1">SN 43.1, các đoạn 1.2, 1.5</a> · <i>Kāyagatāsati Sutta</i></small>
 
-[Vô vi là tận tham, sân và si](https://suttacentral.net/sn43.1) giữ Nibbāna khỏi trôi thành suy đoán thuần túy. **Rāgakkhaya, dosakkhaya, mohakkhaya** — tận tham, tận sân, tận si — là cách giải thích vô vi. “Tận” không chỉ là tạm vắng khi hoàn cảnh thuận lợi. Một tâm yên trong phòng thiền có thể vẫn bùng tham-sân-si khi bị đụng đến tiền, dục, danh và quan điểm. Con đường phải đi qua đời sống.
+<!-- vault-voice-section:v1 -->
+Tận tham–sân–si giữ vô vi ở hướng thực hành, không để khái niệm trôi thành metaphysics thuần túy. [Vô vi là tận tham, sân và si](https://suttacentral.net/sn43.1) giữ Nibbāna khỏi trôi thành suy đoán thuần túy. **Rāgakkhaya, dosakkhaya, mohakkhaya** — tận tham, tận sân, tận si — là cách giải thích vô vi. “Tận” không chỉ là tạm vắng khi hoàn cảnh thuận lợi. Một tâm yên trong phòng thiền có thể vẫn bùng tham-sân-si khi bị đụng đến tiền, dục, danh và quan điểm. Con đường phải đi qua đời sống.
 
 “Tham” ở đây rộng hơn ham vật chất; nó là sức dính và chiếm hữu. “Sân” rộng hơn giận dữ có ý thức; nó gồm ác ý và xung lực đẩy-diệt. “Si” không phải thiếu dữ kiện mà là không thấy đúng khổ, nguồn gốc, sự đoạn diệt và con đường. Nibbāna vì thế không phải khoái cảm tối đa. Nếu còn người sở hữu khoái cảm và chống mọi điều làm nó mất, nhiên liệu chưa hết.
 
@@ -137,7 +141,8 @@ Nói “Nibbāna ngay trong từng khoảnh khắc không phản ứng” có th
 
 ![hình minh họa biên tập cho 5. bốn sai loại: nơi chốn, hư vô, tự ngã và bằng chứng khoa học](../assets/illustrations/theravada-batch5/theravada-32-5-5-bon-sai-loai-noi-chon-hu-vo-tu-nga-va-bang-chung-khoa-hoc.webp)
 
-Sai loại thứ nhất là **nơi chốn**. Ngôn ngữ “đạt”, “đến”, “bờ kia” là ẩn dụ lộ trình; không tự nó chứng minh địa lý. Nibbāna không phải hành tinh, chiều không gian, tần số hay cõi thứ 32. Một cõi dù lâu bền vẫn là hữu có điều kiện; vô vi không là cõi cao nhất trong cùng chuỗi.
+<!-- vault-voice-section:v1 -->
+Nơi chốn, hư vô, chân ngã và science proof là bốn cách mind kéo điều không thể nắm về một category quen thuộc. Sai loại thứ nhất là **nơi chốn**. Ngôn ngữ “đạt”, “đến”, “bờ kia” là ẩn dụ lộ trình; không tự nó chứng minh địa lý. Nibbāna không phải hành tinh, chiều không gian, tần số hay cõi thứ 32. Một cõi dù lâu bền vẫn là hữu có điều kiện; vô vi không là cõi cao nhất trong cùng chuỗi.
 
 Sai loại thứ hai là **hư vô hay đoạn diệt**. Nibbāna không phải chủ trương “không gì có nghĩa” và không phải tự sát. Tự sát chấm dứt một đời sống, không được Kinh định nghĩa là tận tham-sân-si; hành động do tuyệt vọng còn nằm trong khổ và điều kiện. Nếu có ý nghĩ tự hại, cần tìm người an toàn và dịch vụ khẩn cấp địa phương, không dùng giáo lý làm lý do trì hoãn hỗ trợ.
 
@@ -154,7 +159,8 @@ Giữ ranh giới này không hạ thấp khoa học hay Pháp. Nó chỉ tránh
 
 ![hình minh họa biên tập cho 6. thực hành hướng về tắt nhiên liệu, không săn một trạng thái](../assets/illustrations/theravada-batch5/theravada-32-6-6-thuc-hanh-huong-ve-tat-nhien-lieu-khong-san-mot-trang-thai.webp)
 
-Bắt đầu bằng một trường hợp tham nhỏ. Khi muốn kiểm tra điện thoại, mua, thắng tranh luận hoặc giữ cảm giác dễ chịu, đừng đàn áp; nhận cảm thọ, xung lực, hình ảnh phần thưởng và căng trong thân. Hỏi điều kiện nào nuôi nó, điều gì xảy ra nếu không hành động ngay. Một lần không cấp nhiên liệu chưa phải tận tham, nhưng là học cơ chế cháy.
+<!-- vault-voice-section:v1 -->
+Thực hành hướng về tắt nhiên liệu; nếu đang săn một trạng thái để sở hữu, chính cuộc săn đã cho thấy nhiên liệu còn cháy. Bắt đầu bằng một trường hợp tham nhỏ. Khi muốn kiểm tra điện thoại, mua, thắng tranh luận hoặc giữ cảm giác dễ chịu, đừng đàn áp; nhận cảm thọ, xung lực, hình ảnh phần thưởng và căng trong thân. Hỏi điều kiện nào nuôi nó, điều gì xảy ra nếu không hành động ngay. Một lần không cấp nhiên liệu chưa phải tận tham, nhưng là học cơ chế cháy.
 
 Với sân, ưu tiên an toàn. Dừng lời hoặc hành động gây hại, rời tình huống nếu cần, ổn định thân rồi mới khảo sát. “Không sân” không buộc chịu bạo lực, bỏ pháp luật hay hòa giải. Có thể ngăn một người bằng hành động kiên quyết mà không nuôi ý muốn họ đau khổ. Ranh giới là phần của giới, không phải thất bại của xả ly.
 
@@ -168,7 +174,8 @@ Nếu thực hành làm giảm ngủ, tăng hoảng, hưng cảm, phân ly hoặ
 
 ![hình minh họa biên tập cho 7. kỷ luật khẳng định, chuỗi đọc và nguồn](../assets/illustrations/theravada-batch5/theravada-32-7-7-ky-luat-khang-inh-chuoi-oc-va-nguon.webp)
 
-**Văn bản nói gì?** Ud 8.3 nói có cái không sinh, không trở thành, không làm ra, không tạo tác và do đó có lối thoát khỏi cái hữu vi. Iti 44 phân hai yếu tố Nibbāna theo còn hay không còn dư y. [Vô vi là tận tham, sân và si](https://suttacentral.net/sn43.1) giải thích vô vi bằng sự tận tham, sân và si. Không đoạn nào trong ba neo gọi Nibbāna là một cõi, linh hồn hay sự tự hủy.
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài nói đủ để định hướng nhưng giữ im nơi văn bản không cấp mô hình ontology hoàn chỉnh. **Văn bản nói gì?** Ud 8.3 nói có cái không sinh, không trở thành, không làm ra, không tạo tác và do đó có lối thoát khỏi cái hữu vi. Iti 44 phân hai yếu tố Nibbāna theo còn hay không còn dư y. [Vô vi là tận tham, sân và si](https://suttacentral.net/sn43.1) giải thích vô vi bằng sự tận tham, sân và si. Không đoạn nào trong ba neo gọi Nibbāna là một cõi, linh hồn hay sự tự hủy.
 
 **Truyền thống giải thích gì?** Theravāda xem Nibbāna là pháp vô vi duy nhất và chú giải quan hệ của nó với tâm đạo-quả, hai yếu tố Nibbāna và parinibbāna. Đây là hệ thống có thẩm quyền trong truyền thống, nhưng chi tiết kỹ thuật phải mang nhãn Abhidhamma/chú giải thay vì hòa vào giọng Kinh sớm.
 

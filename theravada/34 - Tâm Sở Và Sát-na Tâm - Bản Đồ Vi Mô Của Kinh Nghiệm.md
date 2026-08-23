@@ -47,7 +47,8 @@ Bản đồ vi mô hữu ích khi nó tăng độ tinh tế và khiêm tốn. N�
 
 ![hình minh họa biên tập cho 1. một “tâm” không phải một khối đơn độc](../assets/illustrations/theravada-batch6/theravada-34-1-1-mot-tam-khong-phai-mot-khoi-on-oc.webp)
 
-Trong bản đồ sách thủ bản Theravāda, **citta — tâm, một lần biết đối tượng** không xuất hiện trơ trọi. Nó đồng sinh với **cetasika — đọc gần đúng “chê-ta-si-ka” — yếu tố hay tâm sở đi cùng tâm**. Cùng một đối tượng có thể được biết với tham, sân, niệm, hỷ, xả hoặc nhiều cấu hình khác; phẩm chất của kinh nghiệm tùy tổ hợp điều kiện.
+<!-- vault-voice-section:v1 -->
+Một ‘tâm’ tưởng đồng nhất có thể chứa nhiều yếu tố cùng sinh và đổi rất nhanh, nhưng đừng vội biến phân tích thành vật thể vi mô. Trong bản đồ sách thủ bản Theravāda, **citta — tâm, một lần biết đối tượng** không xuất hiện trơ trọi. Nó đồng sinh với **cetasika — đọc gần đúng “chê-ta-si-ka” — yếu tố hay tâm sở đi cùng tâm**. Cùng một đối tượng có thể được biết với tham, sân, niệm, hỷ, xả hoặc nhiều cấu hình khác; phẩm chất của kinh nghiệm tùy tổ hợp điều kiện.
 
 Đây cần được phân tầng ngay từ đầu. **Kinh sớm** có nhiều danh sách yếu tố tâm và mô tả tâm sinh-diệt. **Dhammasaṅgaṇī canonical** phân loại các pháp và phân tích những gì đi cùng một loại tâm. **Abhidhammattha-saṅgaha cùng truyền thống chú giải hậu kỳ** chuẩn hóa danh sách 52 tâm sở, các nhóm tâm và những tổ hợp rất chi tiết. Ba lớp liên tục về vấn đề nhưng không đồng nhất về câu chữ hay niên đại.
 
@@ -68,7 +69,8 @@ Trong bản đồ sách thủ bản Theravāda, **citta — tâm, một lần bi
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn111">MN 111, đoạn 4.1</a> · <i>Anupada Sutta</i></small>
 
-[Nhận biết từng yếu tố trong các tầng thiền](https://suttacentral.net/mn111) là **Kinh sớm** và là neo mạnh cho việc phân biệt nhiều yếu tố trong một kinh nghiệm thiền. Danh sách có **phassa — xúc**, **vedanā — thọ**, **saññā — tưởng**, **cetanā — tác ý**, cùng niệm, tinh tấn, xả và những yếu tố khác. Nó cho thấy ngôn ngữ phân tích tâm không bắt đầu hoàn toàn ở sách thủ bản muộn.
+<!-- vault-voice-section:v1 -->
+MN111 cho thấy khả năng nhận diện nhiều yếu tố trong thiền; nó không tự cung cấp hệ52 tâm sở của sách thủ bản. [Nhận biết từng yếu tố trong các tầng thiền](https://suttacentral.net/mn111) là **Kinh sớm** và là neo mạnh cho việc phân biệt nhiều yếu tố trong một kinh nghiệm thiền. Danh sách có **phassa — xúc**, **vedanā — thọ**, **saññā — tưởng**, **cetanā — tác ý**, cùng niệm, tinh tấn, xả và những yếu tố khác. Nó cho thấy ngôn ngữ phân tích tâm không bắt đầu hoàn toàn ở sách thủ bản muộn.
 
 Nhưng đoạn này không nói “có đúng 52 tâm sở”, không chia chúng thành bảy biến hành, sáu biệt cảnh, mười bốn bất thiện và hai mươi lăm tịnh hảo, cũng không đưa toàn bộ ma trận tổ hợp với các loại tâm. Danh sách đang mô tả các pháp được Sāriputta xác định trong sơ thiền; biến nó thành bảng 52 là thêm một hệ thống hậu kỳ vào câu Kinh.
 
@@ -89,7 +91,8 @@ Từ *anupada* nhấn mạnh việc xác định lần lượt; nó không bắt
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/ds1.1">Dhammasaṅgaṇī 1.1, các đoạn 16.1, 17.1, 18.1</a> · <i>Dhammasaṅgaṇī</i></small>
 
-Đây là **Abhidhamma canonical**. Ma trận không kể một câu chuyện về người suy nghĩ; nó dựng ba phạm vi theo sự hiện diện hay vắng mặt của *vitakka* và *vicāra*. Hai từ này có sắc thái khác nhau theo văn cảnh; trong thiền thường được dịch làm việc là tầm và tứ, không nên mặc định đồng nhất với mọi loại “suy nghĩ” đời thường.
+<!-- vault-voice-section:v1 -->
+Dhammasaṅgaṇī phân tầm–tứ theo ma trận canonical, nhắc rằng cùng thuật ngữ có thể làm việc trong hệ phân loại rộng. Đây là **Abhidhamma canonical**. Ma trận không kể một câu chuyện về người suy nghĩ; nó dựng ba phạm vi theo sự hiện diện hay vắng mặt của *vitakka* và *vicāra*. Hai từ này có sắc thái khác nhau theo văn cảnh; trong thiền thường được dịch làm việc là tầm và tứ, không nên mặc định đồng nhất với mọi loại “suy nghĩ” đời thường.
 
 So với [Nhận biết từng yếu tố trong các tầng thiền](https://suttacentral.net/mn111), ta thấy cả cầu nối lẫn khác biệt. Kinh nêu tầm và tứ trong một danh sách cụ thể của sơ thiền. *Dhammasaṅgaṇī* dùng chúng làm trục phân loại tổng quát trong ma trận. Việc một thuật ngữ xuất hiện ở cả hai không xóa ranh giới giữa một bài Kinh sớm và một bộ Abhidhamma canonical.
 
@@ -99,7 +102,8 @@ Các phân tích sâu hơn của *Dhammasaṅgaṇī* liệt kê nhiều pháp �
 
 ![hình minh họa biên tập cho 4. hệ 52 tâm sở và tổ hợp chi tiết thuộc sách thủ bản hậu kỳ](../assets/illustrations/theravada-batch6/theravada-34-4-4-he-52-tam-so-va-to-hop-chi-tiet-thuoc-sach-thu-ban-hau-ky.webp)
 
-*Abhidhammattha-saṅgaha* và truyền thống giảng giải chuẩn hóa **52 cetasika** thành bốn cụm lớn: 13 tâm sở “tợ tha” có thể đi với nhiều loại tâm, gồm bảy biến hành và sáu biệt cảnh; 14 tâm sở bất thiện; 25 tâm sở tịnh hảo. Các tên nhóm và con số này được đối chiếu qua *A Comprehensive Manual of Abhidhamma*, chương II, chỉ diễn giải chứ không sao chép bản dịch.
+<!-- vault-voice-section:v1 -->
+Hệ52 tâm sở cực hữu ích cho học tập, miễn ghi đúng provenance hậu kỳ thay vì gọi nó nguyên văn Kinh. *Abhidhammattha-saṅgaha* và truyền thống giảng giải chuẩn hóa **52 cetasika** thành bốn cụm lớn: 13 tâm sở “tợ tha” có thể đi với nhiều loại tâm, gồm bảy biến hành và sáu biệt cảnh; 14 tâm sở bất thiện; 25 tâm sở tịnh hảo. Các tên nhóm và con số này được đối chiếu qua *A Comprehensive Manual of Abhidhamma*, chương II, chỉ diễn giải chứ không sao chép bản dịch.
 
 Bảy biến hành được hệ thống nêu là xúc, thọ, tưởng, tác ý, nhất tâm, mạng quyền và hướng tâm. Sáu biệt cảnh gồm tầm, tứ, thắng giải, tinh tấn, hỷ và dục. Nhóm bất thiện triển khai các gốc và tùy phiền não; nhóm tịnh hảo gồm các yếu tố chung của tâm đẹp cùng những yếu tố tiết chế, vô lượng và trí tuệ. Danh sách đầy đủ hữu ích để tra cứu, nhưng học thuộc tên không thay thế nhận biết tham-sân-si và hành động có trách nhiệm.
 
@@ -122,7 +126,8 @@ Cũng cần tránh biến “đồng sinh, cùng đối tượng” thành phát
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn12.61">SN 12.61, các đoạn 4.1, 4.3</a> · <i>Assutavā Sutta</i></small>
 
-Đoạn **Kinh sớm** này phá trực giác về một tâm đồng nhất đứng yên lâu dài. Nó nêu sinh và diệt suốt đêm ngày, dùng con khỉ đổi cành làm ví dụ. Đây là nền mạnh cho vô thường của tâm, nhưng không cho số lượng sát-na trong một cái búng tay, không mô tả ba tiểu pha sinh-trụ-diệt, và không trình bày toàn bộ lộ trình tâm qua các cửa giác quan.
+<!-- vault-voice-section:v1 -->
+SN12.61 nói tâm và thức sinh–diệt suốt ngày đêm; từ đó đến sát-na học chi tiết còn nhiều bước hệ thống hóa. Đoạn **Kinh sớm** này phá trực giác về một tâm đồng nhất đứng yên lâu dài. Nó nêu sinh và diệt suốt đêm ngày, dùng con khỉ đổi cành làm ví dụ. Đây là nền mạnh cho vô thường của tâm, nhưng không cho số lượng sát-na trong một cái búng tay, không mô tả ba tiểu pha sinh-trụ-diệt, và không trình bày toàn bộ lộ trình tâm qua các cửa giác quan.
 
 **Khaṇa — sát-na hay khoảnh khắc** trở thành đơn vị kỹ thuật rất tinh trong các lớp Abhidhamma/chú giải. Truyền thống hậu kỳ trình bày dòng tâm thành những tâm riêng nối tiếp, và sách thủ bản mô tả các chuỗi chức năng chi tiết. Bài tôn trọng mô hình ấy nhưng không đặt nó vào miệng [Tâm và thức sinh diệt suốt ngày đêm](https://suttacentral.net/sn12.61). “Sinh cái này, diệt cái khác” không tự cung cấp mọi thông số của sát-na học.
 
@@ -130,7 +135,8 @@ Cũng cần tránh biến “đồng sinh, cùng đối tượng” thành phát
 
 ![hình minh họa biên tập cho 6. khoảnh khắc tâm không phải khung hình não](../assets/illustrations/theravada-batch6/theravada-34-6-6-khoanh-khac-tam-khong-phai-khung-hinh-nao.webp)
 
-Trong truyền thống thủ bản, một tâm sinh với tổ hợp tâm sở phù hợp, thực hiện chức năng rồi diệt, nhường điều kiện cho tâm kế. Những mô tả về hộ kiếp, hướng tâm, nhãn thức, tiếp thọ, suy đạc, xác định, tốc hành và đăng ký tạo một bản đồ tiến trình rất chi tiết. Đó là công cụ nội bộ để giải thích kinh nghiệm và nghiệp, không phải dữ liệu trực tiếp của hai segment [Tâm và thức sinh diệt suốt ngày đêm](https://suttacentral.net/sn12.61).
+<!-- vault-voice-section:v1 -->
+Khoảnh khắc tâm là đơn vị của một model giải thoát, không phải frame rate đã được neuroscience đo trực tiếp. Trong truyền thống thủ bản, một tâm sinh với tổ hợp tâm sở phù hợp, thực hiện chức năng rồi diệt, nhường điều kiện cho tâm kế. Những mô tả về hộ kiếp, hướng tâm, nhãn thức, tiếp thọ, suy đạc, xác định, tốc hành và đăng ký tạo một bản đồ tiến trình rất chi tiết. Đó là công cụ nội bộ để giải thích kinh nghiệm và nghiệp, không phải dữ liệu trực tiếp của hai segment [Tâm và thức sinh diệt suốt ngày đêm](https://suttacentral.net/sn12.61).
 
 **Momentariness — thuyết sát-na hay tính khoảnh khắc** cũng không được bài trình bày như kết luận của neuroscience. EEG, MEG, fMRI và thí nghiệm thời gian phản ứng có độ phân giải, biến số và lý thuyết đo khác nhau; không thiết bị nào vì phát hiện xử lý nhanh mà xác nhận các tâm Abhidhamma hoặc đúng số pha truyền thống. Không nên chuyển “rất nhanh” thành “cùng một thực thể”.
 
@@ -142,7 +148,8 @@ Nếu quan sát vi mô làm tăng ám ảnh, mất ngủ, phân ly hoặc cảm 
 
 ![hình minh họa biên tập cho 7. kỷ luật khẳng định, chuỗi đọc và nguồn](../assets/illustrations/theravada-batch6/theravada-34-7-7-ky-luat-khang-inh-chuoi-oc-va-nguon.webp)
 
-**Văn bản nói gì?** [Nhận biết từng yếu tố trong các tầng thiền](https://suttacentral.net/mn111) nêu các yếu tố được xác định lần lượt trong sơ thiền. *Dhammasaṅgaṇī* chia các pháp theo có tầm-tứ, không tầm chỉ tứ, và không tầm-không tứ. [Tâm và thức sinh diệt suốt ngày đêm](https://suttacentral.net/sn12.61) nói tâm, ý, thức sinh cái này và diệt cái khác suốt đêm ngày, ví như khỉ đổi cành.
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ phân tích tinh tế mà không để technical vocabulary giả làm empirical certainty. **Văn bản nói gì?** [Nhận biết từng yếu tố trong các tầng thiền](https://suttacentral.net/mn111) nêu các yếu tố được xác định lần lượt trong sơ thiền. *Dhammasaṅgaṇī* chia các pháp theo có tầm-tứ, không tầm chỉ tứ, và không tầm-không tứ. [Tâm và thức sinh diệt suốt ngày đêm](https://suttacentral.net/sn12.61) nói tâm, ý, thức sinh cái này và diệt cái khác suốt đêm ngày, ví như khỉ đổi cành.
 
 **Truyền thống giải thích gì?** Sách thủ bản/chú giải Theravāda chuẩn hóa 52 tâm sở, quy tắc chúng kết hợp với các loại tâm và những lộ trình sát-na chi tiết. Đây là lớp hậu kỳ, dù dựa trên và hệ thống hóa nhiều vật liệu canonical.
 

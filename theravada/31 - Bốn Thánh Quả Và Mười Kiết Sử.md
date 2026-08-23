@@ -47,7 +47,8 @@ Bốn quả và mười kiết sử hữu ích khi được đọc như bản đ
 
 ![hình minh họa biên tập cho 1. bốn đạo-quả là bản đồ chuyển hóa, không phải bốn huy hiệu](../assets/illustrations/theravada-batch5/theravada-31-1-1-bon-ao-qua-la-ban-o-chuyen-hoa-khong-phai-bon-huy-hieu.webp)
 
-**Magga — đọc gần đúng “mắc-ga” — đạo, con đường hay sát-na con đường** và **phala — “pha-la” — quả, kết quả** là hai từ cần giữ cùng nhau. Truyền thống Theravāda nói bốn đạo và bốn quả: nhập lưu, nhất lai, bất lai và A-la-hán. Trong bài nhập môn, điều quan trọng hơn phép đếm tám là hướng vận hành: thực hành có cấu trúc làm suy yếu rồi đoạn trừ những ràng buộc cụ thể. Quả không phải phần thưởng do một quyền lực trao, còn đạo không phải một câu tự tuyên bố.
+<!-- vault-voice-section:v1 -->
+Bốn đạo–quả đo bằng trói buộc đã rơi, không bằng câu chuyện đặc biệt người tu kể về mình. **Magga — đọc gần đúng “mắc-ga” — đạo, con đường hay sát-na con đường** và **phala — “pha-la” — quả, kết quả** là hai từ cần giữ cùng nhau. Truyền thống Theravāda nói bốn đạo và bốn quả: nhập lưu, nhất lai, bất lai và A-la-hán. Trong bài nhập môn, điều quan trọng hơn phép đếm tám là hướng vận hành: thực hành có cấu trúc làm suy yếu rồi đoạn trừ những ràng buộc cụ thể. Quả không phải phần thưởng do một quyền lực trao, còn đạo không phải một câu tự tuyên bố.
 
 Bốn mức thường được gọi bằng tên người: **sotāpanna — người nhập lưu**, **sakadāgāmī — người trở lại một lần**, **anāgāmī — người không trở lại**, **arahant — bậc xứng đáng, đã hoàn tất việc cần làm**. Ngôn ngữ ấy dễ bị biến thành căn cước: “Tôi thuộc tầng nào?”, “Ai cao hơn ai?”. Nhưng mục đích sư phạm của bản đồ là nhận diện cái gì còn trói buộc, cái gì đã được tháo và việc học nào cần tiếp tục. Nếu danh hiệu làm tăng so sánh, phòng thủ và đòi đặc quyền, cách dùng ấy đang nuôi **māna — mạn**, một kiết sử trong chính bản đồ.
 
@@ -73,7 +74,8 @@ Không nên dùng quả vị để thiết lập quyền miễn trừ. Một gi�
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn55.5">SN 55.5, các đoạn 2.1, 2.2, 2.3</a> · <i>Dutiyasāriputta Sutta</i></small>
 
-Đoạn ngắn này đặt trọng tâm rất rõ: **sota — dòng** không phải dòng năng lượng bí mật, huyết thống thiêng hay cộng đồng độc quyền; đó là Bát chánh đạo. “Nhập lưu” vì thế phải được hiểu trong quan hệ với chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm và chánh định. Cắt bỏ đạo đức hay trí tuệ rồi lấy một trải nghiệm làm toàn bộ tiêu chuẩn là rời phép định nghĩa của đoạn kinh.
+<!-- vault-voice-section:v1 -->
+Vào dòng nghĩa là hướng sống đã nối với Bát Chánh Đạo, không phải gia nhập một club có danh xưng thiêng. Đoạn ngắn này đặt trọng tâm rất rõ: **sota — dòng** không phải dòng năng lượng bí mật, huyết thống thiêng hay cộng đồng độc quyền; đó là Bát chánh đạo. “Nhập lưu” vì thế phải được hiểu trong quan hệ với chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm và chánh định. Cắt bỏ đạo đức hay trí tuệ rồi lấy một trải nghiệm làm toàn bộ tiêu chuẩn là rời phép định nghĩa của đoạn kinh.
 
 Trong cùng bài, [Dòng nhập lưu chính là Bát Chánh Đạo](https://suttacentral.net/sn55.5) còn nêu bốn yếu tố hỗ trợ nhập lưu: gần gũi người chân chánh, nghe Chánh pháp, tác ý như lý và thực hành đúng pháp. Đây là một sinh thái học của việc học. Người học cần nguồn đáng tin, năng lực nghe, cách đặt câu hỏi đi đến nguyên nhân và một đời sống thử nghiệm điều đã hiểu. Không yếu tố nào tương đương việc sùng bái cá nhân.
 
@@ -98,7 +100,8 @@ Trong thực hành hằng ngày, câu hỏi hữu ích không phải “Tôi đ�
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/an10.13">AN 10.13, các đoạn 1.3, 1.4, 1.5, 1.6, 2.1, 2.2, 2.3</a> · <i>Saṁyojana Sutta</i></small>
 
-**Saṁyojana — đọc gần đúng “săm-yô-gia-na” — sự trói buộc, kiết sử** không phải vật thể ẩn trong thân. Đó là cách gọi các cấu trúc nhận thức và xu hướng khiến hữu tiếp tục bị buộc vào khổ. “Thấp” và “cao” không phải xấu hổ và sang trọng; chúng phân nhóm những ràng buộc thuộc dục giới và những ràng buộc vi tế còn lại.
+<!-- vault-voice-section:v1 -->
+Mười kiết sử là bản đồ lực trói từ thô đến tinh; biết tên không làm nút thắt tự mở. **Saṁyojana — đọc gần đúng “săm-yô-gia-na” — sự trói buộc, kiết sử** không phải vật thể ẩn trong thân. Đó là cách gọi các cấu trúc nhận thức và xu hướng khiến hữu tiếp tục bị buộc vào khổ. “Thấp” và “cao” không phải xấu hổ và sang trọng; chúng phân nhóm những ràng buộc thuộc dục giới và những ràng buộc vi tế còn lại.
 
 Ba kiết sử đầu cần đọc cẩn thận. **Sakkāyadiṭṭhi** là quan điểm đồng nhất một hay nhiều uẩn với tự ngã hoặc sở hữu của tự ngã, không đơn giản là dùng đại từ “tôi”. **Vicikicchā** là hoài nghi làm tê liệt đối với Phật, Pháp, Tăng và sự học, không phải cấm đặt câu hỏi. **Sīlabbataparāmāsa** là nắm giữ giới và nghi thức như tự chúng đủ sức thanh tịnh, không phải từ bỏ giới. Đoạn ba điều này không cho phép người ta sống vô trách nhiệm rồi gọi đó là “vượt nghi thức”.
 
@@ -110,7 +113,8 @@ Năm kiết sử cao cho thấy định sâu và cõi sống tinh tế vẫn kh�
 
 ![hình minh họa biên tập cho 4. bốn mức và những gì được tháo gỡ](../assets/illustrations/theravada-batch5/theravada-31-4-4-bon-muc-va-nhung-gi-uoc-thao-go.webp)
 
-Ở mức **nhập lưu**, ba kiết sử đầu được nói là đoạn trừ. Đây là việc thay đổi nền của cái thấy và niềm tin thực hành, không phải xóa mọi thói quen tâm lý. Các mô tả kinh điển còn nói số lần tái sinh được giới hạn và không rơi vào đọa xứ. Những mệnh đề ấy thuộc thế giới quan nghiệp-tái sinh của Kinh; không nên đổi chúng thành dự báo tâm lý học rồi tuyên bố khoa học đã xác nhận.
+<!-- vault-voice-section:v1 -->
+Bốn mức khác nhau ở điều không còn quay lại chi phối, nên một trải nghiệm đỉnh cao chưa đủ chứng minh chuyển hóa không đảo ngược. Ở mức **nhập lưu**, ba kiết sử đầu được nói là đoạn trừ. Đây là việc thay đổi nền của cái thấy và niềm tin thực hành, không phải xóa mọi thói quen tâm lý. Các mô tả kinh điển còn nói số lần tái sinh được giới hạn và không rơi vào đọa xứ. Những mệnh đề ấy thuộc thế giới quan nghiệp-tái sinh của Kinh; không nên đổi chúng thành dự báo tâm lý học rồi tuyên bố khoa học đã xác nhận.
 
 Ở mức **nhất lai**, ba kiết sử đầu đã đoạn và tham-sân-si được làm mỏng. Tên gọi gắn với “trở lại thế giới này một lần nữa”. Điều đáng thực hành là sự suy giảm sức thống trị của tham và sân; điều không nên làm là lập bảng điểm cảm xúc. Một cơn giận xuất hiện, cường độ của nó, thời gian kéo dài và hành vi theo sau là các biến khác nhau. Kinh không cung cấp một ứng dụng đo phần trăm giác ngộ.
 
@@ -138,7 +142,8 @@ Truyền thống chú giải phân biệt mỗi **đạo** là nhận biết và
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/an3.88">AN 3.88, các đoạn 1.2, 1.4</a> · <i>Tatiyasikkhā Sutta</i></small>
 
-Ba sự học ngăn bản đồ quả vị biến thành suy đoán. **Adhisīla** hỏi hành vi và quan hệ đã bớt gây hại chưa. **Adhicitta** hỏi tâm có được huấn luyện để không bị triền cái và phản ứng kéo đi không. **Adhipaññā** hỏi vô thường, khổ, vô ngã và duyên khởi có được thấy đến mức buông chấp không. Chúng là ba mặt hỗ trợ nhau, không phải ba môn học để thi lấy chứng chỉ.
+<!-- vault-voice-section:v1 -->
+Ba học gom việc tu về hành vi, tâm và cái thấy, chặn việc săn quả vị bằng một kỹ thuật đơn lẻ. Ba sự học ngăn bản đồ quả vị biến thành suy đoán. **Adhisīla** hỏi hành vi và quan hệ đã bớt gây hại chưa. **Adhicitta** hỏi tâm có được huấn luyện để không bị triền cái và phản ứng kéo đi không. **Adhipaññā** hỏi vô thường, khổ, vô ngã và duyên khởi có được thấy đến mức buông chấp không. Chúng là ba mặt hỗ trợ nhau, không phải ba môn học để thi lấy chứng chỉ.
 
 Giới mà thiếu định có thể trở thành căng cứng; định thiếu giới có thể làm quyền lực tinh thần nguy hiểm hơn; cả hai thiếu tuệ có thể chỉ tạo một bản ngã “thanh tịnh”. Ngược lại, nói tuệ cao mà hành vi lừa dối, bóc lột và không chịu sửa là dấu hiệu cần dừng lại. Quả của việc học phải hiện trong cách ta sử dụng lời nói, dục, tiền, quyền và sự chú ý.
 
@@ -150,7 +155,8 @@ Nếu thiền gây mất ngủ kéo dài, hưng cảm, hoảng loạn, phân ly 
 
 ![hình minh họa biên tập cho 6. tự đánh giá mà không tự phong hay săn cấp bậc](../assets/illustrations/theravada-batch5/theravada-31-6-6-tu-anh-gia-ma-khong-tu-phong-hay-san-cap-bac.webp)
 
-Có thể dùng mười kiết sử như danh sách quan sát, nhưng không như bảng tự cấp bằng. Khi ý kiến bị bác, thân kiến và mạn vận hành ra sao? Khi chưa biết, hoài nghi dẫn đến khảo sát hay tê liệt? Khi giữ một nghi thức, ta hiểu mục đích hay mặc cả để được thanh tịnh? Khi dễ chịu sâu xuất hiện, tham sắc-vô sắc có đang xây một căn cước mới? Đây là câu hỏi tiến trình.
+<!-- vault-voice-section:v1 -->
+Tự đánh giá hữu ích khi nó tìm bằng chứng tham–sân–si giảm; nó nguy hiểm khi mind dùng checklist để tự phong. Có thể dùng mười kiết sử như danh sách quan sát, nhưng không như bảng tự cấp bằng. Khi ý kiến bị bác, thân kiến và mạn vận hành ra sao? Khi chưa biết, hoài nghi dẫn đến khảo sát hay tê liệt? Khi giữ một nghi thức, ta hiểu mục đích hay mặc cả để được thanh tịnh? Khi dễ chịu sâu xuất hiện, tham sắc-vô sắc có đang xây một căn cước mới? Đây là câu hỏi tiến trình.
 
 Một dấu hiệu lành là khả năng sửa sai mà không sụp đổ hay phản công. Người học thấy hành vi bất thiện, nhận trách nhiệm, bồi hoàn khi thích hợp và điều chỉnh điều kiện. Họ không cần dùng “vô ngã” để phủ nhận nạn nhân, “nghiệp” để đổ lỗi, hay “quả vị” để đóng cuộc đối thoại. Đó chưa phải phép chứng nhận thánh quả; chỉ là đất tốt cho ba sự học.
 
@@ -165,7 +171,8 @@ Nếu chính mình có trải nghiệm dường như thay đổi tận gốc, h�
 
 ![hình minh họa biên tập cho 7. kỷ luật khẳng định, chuỗi đọc và nguồn](../assets/illustrations/theravada-batch5/theravada-31-7-7-ky-luat-khang-inh-chuoi-oc-va-nguon.webp)
 
-**Văn bản nói gì?** [Dòng nhập lưu chính là Bát Chánh Đạo](https://suttacentral.net/sn55.5) gọi Bát chánh đạo là “dòng”; [Mười kiết sử gồm năm thấp và năm cao](https://suttacentral.net/an10.13) chia mười kiết sử thành năm thấp và năm cao; [Ba sự học gom toàn bộ việc tu](https://suttacentral.net/an3.88) gom việc học vào giới cao hơn, tâm cao hơn và tuệ cao hơn. Các kinh khác triển khai đặc điểm bốn mức, nhưng ba trích đoạn ở đây là các neo nguồn đã khóa cho bài.
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ quả vị như claim truyền thống nghiêm túc mà không biến thành chẩn đoán người khác từ xa. **Văn bản nói gì?** [Dòng nhập lưu chính là Bát Chánh Đạo](https://suttacentral.net/sn55.5) gọi Bát chánh đạo là “dòng”; [Mười kiết sử gồm năm thấp và năm cao](https://suttacentral.net/an10.13) chia mười kiết sử thành năm thấp và năm cao; [Ba sự học gom toàn bộ việc tu](https://suttacentral.net/an3.88) gom việc học vào giới cao hơn, tâm cao hơn và tuệ cao hơn. Các kinh khác triển khai đặc điểm bốn mức, nhưng ba trích đoạn ở đây là các neo nguồn đã khóa cho bài.
 
 **Truyền thống giải thích gì?** Theravāda ghép bốn đạo với bốn quả, liên hệ từng mức với sự đoạn trừ kiết sử và hệ thống hóa chúng trong Abhidhamma/chú giải. Hệ thống ấy là phần quan trọng của truyền thống, nhưng không nên được trình bày như thể toàn bộ chi tiết nằm trong một đoạn Kinh sớm duy nhất.
 

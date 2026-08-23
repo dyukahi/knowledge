@@ -48,7 +48,8 @@ Vi Diệu Pháp có thể dạy mình nhìn hiện tượng thay vì một cái 
 
 ![hình minh họa biên tập cho 1. vi diệu pháp đổi độ phân giải của câu hỏi](../assets/illustrations/theravada-batch6/theravada-33-1-1-vi-dieu-phap-oi-o-phan-giai-cua-cau-hoi.webp)
 
-**Abhidhamma — đọc gần đúng “a-bhi-đăm-ma” — pháp được phân tích theo hệ thống** là một bộ phận canonical của Tam Tạng Theravāda. “Canonical” ở đây có nghĩa truyền thống Theravāda tiếp nhận bảy bộ Vi Diệu Pháp vào Kinh điển Pāli; nó không có nghĩa mọi bảng phân loại của Abhidhamma đều là câu chữ xuất hiện trong các bài Kinh sớm.
+<!-- vault-voice-section:v1 -->
+Đổi độ phân giải có thể làm một phản ứng bớt đặc, nhưng độ chi tiết không tự động đồng nghĩa thấy thực tại như nó là. **Abhidhamma — đọc gần đúng “a-bhi-đăm-ma” — pháp được phân tích theo hệ thống** là một bộ phận canonical của Tam Tạng Theravāda. “Canonical” ở đây có nghĩa truyền thống Theravāda tiếp nhận bảy bộ Vi Diệu Pháp vào Kinh điển Pāli; nó không có nghĩa mọi bảng phân loại của Abhidhamma đều là câu chữ xuất hiện trong các bài Kinh sớm.
 
 Kinh thường nói bằng ngôn ngữ của con người đang khổ, đang hành động và đang tu: năm uẩn, sáu căn, duyên khởi, giới-định-tuệ. Abhidhamma đổi độ phân giải, hỏi một kinh nghiệm có thể được phân tích thành những pháp nào, thuộc nhóm thiện, bất thiện hay bất định nào, và liên hệ ra sao. Đây là một phương pháp phân tích trong truyền thống, không phải ảnh chụp vật lý của não.
 
@@ -69,7 +70,8 @@ Ba lớp phải được giữ riêng trong suốt bài. **Kinh sớm** cung c�
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/ds1.1">Dhammasaṅgaṇī 1.1, các đoạn 1.1, 2.1, 3.1</a> · <i>Dhammasaṅgaṇī</i></small>
 
-Ba dòng mở đầu đặt **dhammā — các pháp hay hiện tượng được phân loại** vào ba ô: *kusala*, *akusala*, *abyākata*. Tùy văn cảnh, *kusala* có thể dịch là thiện, lành hay khéo; *abyākata* ở đây không nên hiểu là “bí ẩn”, mà là không được định danh thiện hoặc bất thiện trong phép chia này. Ma trận tiếp tục bằng nhiều bộ ba và bộ đôi để cung cấp các trục phân tích khác nhau.
+<!-- vault-voice-section:v1 -->
+Dhammasaṅgaṇī mở bằng ma trận phân loại vì mục tiêu của nó là hỏi pháp thuộc nhóm nào, không tìm một linh hồn đứng sau bảng. Ba dòng mở đầu đặt **dhammā — các pháp hay hiện tượng được phân loại** vào ba ô: *kusala*, *akusala*, *abyākata*. Tùy văn cảnh, *kusala* có thể dịch là thiện, lành hay khéo; *abyākata* ở đây không nên hiểu là “bí ẩn”, mà là không được định danh thiện hoặc bất thiện trong phép chia này. Ma trận tiếp tục bằng nhiều bộ ba và bộ đôi để cung cấp các trục phân tích khác nhau.
 
 Đây là **Abhidhamma canonical**, không phải Kinh sớm. Nó cũng không tuyên bố có một người điều khiển đứng sau các pháp. Phương pháp làm việc là xác định tính chất và quan hệ của hiện tượng thay vì bắt đầu từ một bản thể “tôi”. Nhưng từ đó chưa thể suy ra Abhidhamma đã chứng minh chủ nghĩa duy vật, chủ nghĩa duy tâm hay một lý thuyết khoa học về ý thức.
 
@@ -90,7 +92,8 @@ Một hiện tượng có thể đi qua nhiều trục phân loại. “Thiện/
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/vb1">Vibhaṅga 1, các đoạn 2.1, 2.2</a> · <i>Khandhavibhaṅga</i></small>
 
-*Vibhaṅga* không vứt bỏ ngôn ngữ Kinh để dựng một thế giới hoàn toàn khác. Nó lấy những đề mục quen thuộc — ở đây là năm uẩn — rồi phân tích theo nhiều phương thức. Vì vậy, học Abhidhamma tốt nhất là thấy cả tính liên tục lẫn sự đổi phương pháp: đề mục có thể đến từ Kinh, còn độ chi tiết và kiến trúc phân loại thuộc tạng phân tích canonical.
+<!-- vault-voice-section:v1 -->
+Vibhaṅga giữ cầu với năm uẩn rồi phân tích sâu hơn, cho thấy continuity của đề mục không xóa khác biệt phương pháp. *Vibhaṅga* không vứt bỏ ngôn ngữ Kinh để dựng một thế giới hoàn toàn khác. Nó lấy những đề mục quen thuộc — ở đây là năm uẩn — rồi phân tích theo nhiều phương thức. Vì vậy, học Abhidhamma tốt nhất là thấy cả tính liên tục lẫn sự đổi phương pháp: đề mục có thể đến từ Kinh, còn độ chi tiết và kiến trúc phân loại thuộc tạng phân tích canonical.
 
 **Rūpa — đọc gần đúng “ruu-pa” — sắc hay phương diện vật chất**, **vedanā — thọ**, **saññā — tưởng**, **saṅkhāra — hành**, **viññāṇa — thức** không tạo thành năm mảnh bất biến. Câu hỏi “trong đó, sắc uẩn là gì?” mở một thao tác định nghĩa và triển khai phạm vi, chứ không tìm một hạt vật chất cuối cùng theo nghĩa vật lý hiện đại.
 
@@ -100,7 +103,8 @@ Không nên ép sơ đồ năm uẩn và sơ đồ bốn pháp tối hậu thàn
 
 ![hình minh họa biên tập cho 4. bốn pháp tối hậu là bản đồ giáo khoa hậu kỳ](../assets/illustrations/theravada-batch6/theravada-33-4-4-bon-phap-toi-hau-la-ban-o-giao-khoa-hau-ky.webp)
 
-Trong *Abhidhammattha-saṅgaha* và truyền thống giảng giải của nó, **paramattha-dhamma — pháp theo nghĩa tối hậu trong hệ phân tích** được gom thành bốn loại: **citta — tâm**, **cetasika — tâm sở**, **rūpa — sắc**, và **Nibbāna**. *A Comprehensive Manual of Abhidhamma* được dùng ở đây để kiểm tra bản đồ và thuật ngữ, chỉ bằng diễn giải; bài không sao chép bản dịch tiếng Anh có bản quyền.
+<!-- vault-voice-section:v1 -->
+Bốn pháp tối hậu là bản đồ giáo khoa mạnh của truyền thống hậu kỳ, không phải câu Kinh sớm bị giấu trong thuật ngữ. Trong *Abhidhammattha-saṅgaha* và truyền thống giảng giải của nó, **paramattha-dhamma — pháp theo nghĩa tối hậu trong hệ phân tích** được gom thành bốn loại: **citta — tâm**, **cetasika — tâm sở**, **rūpa — sắc**, và **Nibbāna**. *A Comprehensive Manual of Abhidhamma* được dùng ở đây để kiểm tra bản đồ và thuật ngữ, chỉ bằng diễn giải; bài không sao chép bản dịch tiếng Anh có bản quyền.
 
 **Citta** là sự biết một đối tượng trong mô hình; **cetasika** là các yếu tố tâm lý đồng sinh và cùng hướng đến đối tượng; **rūpa** là phạm vi sắc pháp; **Nibbāna** là vô vi. Ba loại đầu là hữu vi. Nibbāna không phải một loại vật chất tinh tế, không phải “tâm vũ trụ”, và không phải một cõi đứng cạnh ba loại còn lại.
 
@@ -123,7 +127,8 @@ Quan trọng nhất: bản đồ bốn phần này là **tổng hợp sách th�
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/ud8.3">Ud 8.3, các đoạn 3.1, 3.2</a> · <i>Tatiyanibbānapaṭisaṁyutta Sutta</i></small>
 
-Ud 8.3 là **neo Kinh sớm** cho đối lập *saṅkhata/asaṅkhata* — hữu vi/vô vi. Nó không nêu bốn mục *citta, cetasika, rūpa, Nibbāna*. Khi sách thủ bản xếp Nibbāna làm mục thứ tư và vô vi duy nhất, đó là một bước hệ thống hóa Theravāda dựa trên nhiều nguồn, không phải bản dịch của riêng hai segment này.
+<!-- vault-voice-section:v1 -->
+Nibbāna có neo Kinh sớm; việc đặt nó làm mục thứ tư cạnh tâm–tâm sở–sắc là bước hệ thống hóa phải được gọi tên. Ud 8.3 là **neo Kinh sớm** cho đối lập *saṅkhata/asaṅkhata* — hữu vi/vô vi. Nó không nêu bốn mục *citta, cetasika, rūpa, Nibbāna*. Khi sách thủ bản xếp Nibbāna làm mục thứ tư và vô vi duy nhất, đó là một bước hệ thống hóa Theravāda dựa trên nhiều nguồn, không phải bản dịch của riêng hai segment này.
 
 Ranh giới ấy bảo vệ cả Kinh lẫn Abhidhamma. Kinh không bị bắt nói chi tiết nó không nói; truyền thống hậu kỳ cũng được nhìn đúng như một công trình phân tích có mục đích. Nibbāna trong bài này không phải cõi, linh hồn, hư vô hay trạng thái não. Bài 32 đã giải thích sâu hơn; ở đây chỉ cần thấy nó không cùng loại với ba phạm trù hữu vi.
 
@@ -131,7 +136,8 @@ Ranh giới ấy bảo vệ cả Kinh lẫn Abhidhamma. Kinh không bị bắt n
 
 ![hình minh họa biên tập cho 6. dùng bản đồ như dụng cụ quan sát, không như máy chụp não](../assets/illustrations/theravada-batch6/theravada-33-6-6-dung-ban-o-nhu-dung-cu-quan-sat-khong-nhu-may-chup-nao.webp)
 
-Trong một lần bực, có thể thử đổi câu “tôi là người giận” thành một chuỗi câu hỏi: đối tượng nào đang được biết; cảm thọ nào đi cùng; tác ý đẩy hay đánh đang mạnh ra sao; thân có nóng, co hay rung; yếu tố nào đổi khi không nói ngay? Cách hỏi này mượn tinh thần phân tích mà không cần tự nhận đang trực tiếp thấy toàn bộ đơn vị Abhidhamma.
+<!-- vault-voice-section:v1 -->
+Dùng bản đồ để hỏi kinh nghiệm đang gồm gì; đừng dùng nó như máy chụp não hoặc giấy phép chẩn đoán người khác. Trong một lần bực, có thể thử đổi câu “tôi là người giận” thành một chuỗi câu hỏi: đối tượng nào đang được biết; cảm thọ nào đi cùng; tác ý đẩy hay đánh đang mạnh ra sao; thân có nóng, co hay rung; yếu tố nào đổi khi không nói ngay? Cách hỏi này mượn tinh thần phân tích mà không cần tự nhận đang trực tiếp thấy toàn bộ đơn vị Abhidhamma.
 
 Phân tích không thay thế giới. Nhận diện “sân” rất tinh mà vẫn gửi lời làm hại là chưa hoàn thành việc tu. Cũng không nên dùng thuật ngữ để phân ly khỏi cảm xúc, phủ nhận sang chấn hay bỏ chăm sóc y tế. Bản đồ tốt phải đưa về giảm tham-sân-si, trách nhiệm và khả năng đáp ứng khéo hơn.
 
@@ -141,7 +147,8 @@ Khoa học thần kinh có thể nghiên cứu tương quan giữa báo cáo, h�
 
 ![hình minh họa biên tập cho 7. kỷ luật khẳng định, chuỗi đọc và nguồn](../assets/illustrations/theravada-batch6/theravada-33-7-7-ky-luat-khang-inh-chuoi-oc-va-nguon.webp)
 
-**Văn bản nói gì?** *Dhammasaṅgaṇī* mở ma trận bằng các pháp thiện, bất thiện và bất định; *Vibhaṅga* nêu năm uẩn rồi bắt đầu phân tích; Ud 8.3 nói có cái không sinh, không trở thành, không làm ra, không tạo tác và do đó có lối thoát khỏi hữu vi.
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ Abhidhamma canonical, sách thủ bản và science comparison ở ba tầng riêng. **Văn bản nói gì?** *Dhammasaṅgaṇī* mở ma trận bằng các pháp thiện, bất thiện và bất định; *Vibhaṅga* nêu năm uẩn rồi bắt đầu phân tích; Ud 8.3 nói có cái không sinh, không trở thành, không làm ra, không tạo tác và do đó có lối thoát khỏi hữu vi.
 
 **Truyền thống giải thích gì?** Sách thủ bản/chú giải Theravāda cô đọng phạm vi phân tích thành bốn pháp tối hậu: tâm, tâm sở, sắc và Nibbāna. Ba loại đầu hữu vi, Nibbāna vô vi. Đây là bản đồ hậu kỳ có nguồn riêng, không phải nguyên văn Kinh sớm.
 
