@@ -37,6 +37,13 @@ source_license_checked: true
 
 # Bản Đồ 31 Cõi — 11 Dục, 16 Sắc, 4 Vô Sắc
 
+<!-- vault-voice-opening:v1 -->
+
+Bản đồ 31 cõi rất dễ trở thành infographic để tò mò: mình từng ở cõi nào, ai đang ở tầng nào, thiền đến đâu thì lên đâu. Khi đó vũ trụ luận lại nuôi đúng thứ nó được dùng để soi — craving trở thành một ai đó ở một nơi cao hơn.
+
+Bài này đọc 31 cõi như bản đồ truyền thống về nghiệp, thiền và tính không bền của mọi hữu. Nó không dùng khoa học giả để chứng minh, cũng không giả rằng người hiện đại buộc phải có cùng mức chắc chắn về từng cõi.
+
+
 ## 1. Hai Bản Đồ Có Hai Độ Phân Giải Khác Nhau
 
 ![hình minh họa biên tập cho 1. hai bản đồ có hai độ phân giải khác nhau](../assets/illustrations/theravada-batch5/theravada-29-1-1-hai-ban-o-co-hai-o-phan-giai-khac-nhau.webp)

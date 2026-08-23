@@ -36,6 +36,13 @@ source_license_checked: true
 
 # Bốn Tâm Vô Lượng Và Upekkhā
 
+<!-- vault-voice-opening:v1 -->
+
+Tâm từ thường bị biến thành câu khẳng định dễ thương. Tâm xả lại bị hiểu thành lạnh lùng. Nhưng thử thương một người đang làm mình khó chịu, hoặc giữ quân bình khi người mình yêu chọn điều mình không kiểm soát được — lúc đó bốn tâm vô lượng mới lộ độ khó.
+
+Mettā, karuṇā, muditā và upekkhā không phải bốn mood đẹp. Chúng là bốn cách phá thói quen biến người khác thành công cụ cho nhu cầu của mình.
+
+
 ## 1. “Vô Lượng” Là Không Dựng Biên Giới Thù Ghét
 
 ![hình tượng tự nhiên diễn giải 1. “vô lượng” là không dựng biên giới thù ghét không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-28-1-vo-luong-la-khong-dung-bien-gioi-thu-ghet.webp)

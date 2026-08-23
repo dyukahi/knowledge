@@ -36,6 +36,13 @@ source_license_checked: true
 
 # Chỉ Và Quán — Samatha Và Vipassanā Có Thật Sự Tách Đôi?
 
+<!-- vault-voice-opening:v1 -->
+
+Thiền chỉ và thiền quán thường bị bán như hai team: một bên yên, một bên thấy; một bên bị chê là mắc định, bên kia bị chê là khô và căng. Khi phương pháp thành identity, người học bắt đầu bảo vệ tên kỹ thuật nhiều hơn nhìn tâm.
+
+Samatha và vipassanā trả lời hai nhu cầu có thể nâng nhau: tâm đủ ổn để thấy, cái thấy đủ đúng để tâm bớt bị kéo. Tách để học được. Chia phe thì lạc đường.
+
+
 ## 1. Hai Phẩm Chất Của Một Con Đường, Không Phải Hai Giáo Phái
 
 ![hình tượng tự nhiên diễn giải 1. hai phẩm chất của một con đường, không phải hai giáo phái không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-26-1-hai-pham-chat-cua-mot-con-uong-khong-phai-hai-.webp)

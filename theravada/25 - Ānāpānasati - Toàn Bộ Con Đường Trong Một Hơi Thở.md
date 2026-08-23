@@ -34,6 +34,13 @@ source_license_checked: true
 
 # Ānāpānasati — Toàn Bộ Con Đường Trong Một Hơi Thở
 
+<!-- vault-voice-opening:v1 -->
+
+Hơi thở luôn ở đó, nên ta dễ coi nó là kỹ thuật đơn giản nhất. Nhưng chỉ cần ngồi yên vài phút, mình sẽ thấy một việc tưởng tự nhiên lại bị tham kiểm soát, sân chen vào và tâm liên tục muốn một trải nghiệm khác.
+
+Ānāpānasati không phải mẹo thở để calm down. Mười sáu bước đi từ biết thân đang thở đến thấy vô thường, ly tham và buông. Một hơi thở nhỏ, nhưng con đường không nhỏ.
+
+
 ## 1. [Mười sáu bước niệm hơi thở](https://suttacentral.net/mn118) Dạy Biết Hơi Thở Trước Khi Dạy Mười Sáu Bước
 
 ![hình tượng tự nhiên diễn giải 1. mn 118 dạy biết hơi thở trước khi dạy mười sáu bước không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-25-1-mn-118-day-biet-hoi-tho-truoc-khi-day-muoi-sau.webp)

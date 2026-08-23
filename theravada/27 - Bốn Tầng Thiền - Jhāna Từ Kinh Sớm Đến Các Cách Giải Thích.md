@@ -37,6 +37,13 @@ source_license_checked: true
 
 # Bốn Tầng Thiền — Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích
 
+<!-- vault-voice-opening:v1 -->
+
+Jhāna dễ kích hoạt hai fantasy trái nhau. Một bên xem nó là superpower bắt buộc; bên kia hạ nó thành cảm giác thư giãn dễ chịu. Cả hai có thể khiến người học săn trạng thái thay vì hiểu chức năng của định.
+
+Bốn tầng thiền trong Kinh là một tiến trình tinh luyện có cấu trúc. Nhưng cách nhận diện ngưỡng, độ sâu và vai trò của chúng đã được các truyền thống giải thích khác nhau. Bài này giữ khác biệt ấy thay vì giả rằng một camp sở hữu toàn bộ bản đồ.
+
+
 ## 1. Jhāna Nằm Trong Một Lộ Trình Đạo Đức Và Tỉnh Giác
 
 ![hình tượng tự nhiên diễn giải 1. jhāna nằm trong một lộ trình đạo đức và tỉnh giác không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-27-1-jhana-nam-trong-mot-lo-trinh-ao-uc-va-tinh-gia.webp)

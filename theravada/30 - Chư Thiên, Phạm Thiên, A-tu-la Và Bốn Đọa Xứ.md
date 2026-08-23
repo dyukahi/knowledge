@@ -37,6 +37,13 @@ source_license_checked: true
 
 # Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ
 
+<!-- vault-voice-opening:v1 -->
+
+Trong vũ trụ Phật giáo, chư thiên vẫn chết, Phạm thiên vẫn có thể nhầm giới hạn của mình là tuyệt đối, A-tu-la vẫn bị xung đột kéo đi. Có quyền lực, ánh sáng hoặc tuổi thọ dài không đồng nghĩa giải thoát.
+
+Điểm này đáng nhớ ngoài vũ trụ luận: trải nghiệm lớn, địa vị cao và cảm giác “mình đã thấy chân lý” đều có thể trở thành một cõi để cái tôi trú vào. Cao hơn không tự động là tự do hơn.
+
+
 ## 1. Deva Không Đồng Nghĩa Thượng Đế Sáng Tạo
 
 ![hình minh họa biên tập cho 1. deva không đồng nghĩa thượng đế sáng tạo](../assets/illustrations/theravada-batch5/theravada-30-1-1-deva-khong-ong-nghia-thuong-e-sang-tao.webp)
