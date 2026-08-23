@@ -37,6 +37,13 @@ source_license_checked: true
 
 # Nibbāna — Không Phải Cõi Thứ 32
 
+<!-- vault-voice-opening:v1 -->
+
+Nibbāna thường bị tưởng tượng thành nơi đẹp nhất để một cái tôi đi tới, hoặc hư vô nơi cái tôi bị xóa. Hai hình ảnh đối nghịch nhưng dùng cùng một giả định: có một vật thể tên “tôi” cần được đặt ở đâu đó.
+
+Kinh nói bằng ngôn ngữ tắt nhiên liệu, vô vi và tận tham–sân–si. Nó cho phương hướng đủ rõ để thực hành, nhưng từ chối trở thành phong cảnh cho imagination chiếm hữu.
+
+
 ## 1. Đừng Đặt Nibbāna Lên Trên Cùng Một Tấm Bản Đồ Cõi
 
 ![hình minh họa biên tập cho 1. đừng đặt nibbāna lên trên cùng một tấm bản đồ cõi](../assets/illustrations/theravada-batch5/theravada-32-1-1-ung-at-nibbana-len-tren-cung-mot-tam-ban-o-coi.webp)

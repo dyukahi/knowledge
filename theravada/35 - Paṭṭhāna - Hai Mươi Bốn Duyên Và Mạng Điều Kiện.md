@@ -34,6 +34,13 @@ source_license_checked: true
 
 # Paṭṭhāna — Hai Mươi Bốn Duyên Và Mạng Điều Kiện
 
+<!-- vault-voice-opening:v1 -->
+
+Khi chuyện xấu xảy ra, mind muốn một nguyên nhân để chỉ tay. Khi chuyện tốt xảy ra, ego muốn một nguyên nhân để nhận công. Paṭṭhāna làm cả hai phản xạ khó hơn: một hiện tượng có thể được nâng bởi nhiều loại duyên cùng lúc, kể cả sự hiện diện và vắng mặt.
+
+Hai mươi bốn duyên không phải danh sách để khoe trí nhớ. Chúng là thuốc giải cho câu chuyện một-nguyên-nhân — miễn mình không biến chính “mạng điều kiện” thành slogan mới.
+
+
 ## 1. Từ Một Chuỗi Duyên Khởi Đến Một Ngữ Pháp Quan Hệ
 
 ![hình minh họa biên tập cho 1. từ một chuỗi duyên khởi đến một ngữ pháp quan hệ](../assets/illustrations/theravada-batch6/theravada-35-1-1-tu-mot-chuoi-duyen-khoi-en-mot-ngu-phap-quan-he.webp)

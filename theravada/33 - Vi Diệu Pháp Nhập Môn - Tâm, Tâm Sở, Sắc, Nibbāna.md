@@ -37,6 +37,13 @@ source_license_checked: true
 
 # Vi Diệu Pháp Nhập Môn — Tâm, Tâm Sở, Sắc, Nibbāna
 
+<!-- vault-voice-opening:v1 -->
+
+Abhidhamma hấp dẫn vì nó hứa một bản đồ có độ phân giải rất cao. Khi mọi thứ được phân loại, mind có cảm giác đã nắm được kinh nghiệm. Nhưng bản đồ càng chi tiết, nguy cơ nhầm bảng phân loại với thực tại càng lớn.
+
+Vi Diệu Pháp có thể dạy mình nhìn hiện tượng thay vì một cái tôi đặc cứng. Nó không phải máy chụp não cổ đại, và thuộc lòng danh sách tâm sở không tự động làm tham–sân–si yếu đi.
+
+
 ## 1. Vi Diệu Pháp Đổi Độ Phân Giải Của Câu Hỏi
 
 ![hình minh họa biên tập cho 1. vi diệu pháp đổi độ phân giải của câu hỏi](../assets/illustrations/theravada-batch6/theravada-33-1-1-vi-dieu-phap-oi-o-phan-giai-cua-cau-hoi.webp)

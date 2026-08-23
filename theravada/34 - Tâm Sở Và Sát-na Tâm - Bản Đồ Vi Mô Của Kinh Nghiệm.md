@@ -36,6 +36,13 @@ source_license_checked: true
 
 # Tâm Sở Và Sát-na Tâm — Bản Đồ Vi Mô Của Kinh Nghiệm
 
+<!-- vault-voice-opening:v1 -->
+
+Một cơn giận có vẻ kéo dài mười phút, nhưng mô hình sát-na tâm hỏi liệu nó có thật là một khối hay là chuỗi sự kiện sinh–diệt cực nhanh. Câu hỏi ấy có thể làm kinh nghiệm bớt đặc — nhưng cũng dễ tạo ảo tưởng rằng mình đang quan sát trực tiếp thứ chỉ mới hiểu bằng sách.
+
+Bản đồ vi mô hữu ích khi nó tăng độ tinh tế và khiêm tốn. Nếu nó chỉ thêm vocabulary để mình nói giỏi hơn về tâm mà vẫn bị tâm kéo đi như cũ, độ phân giải đã tăng nhưng tự do chưa tăng.
+
+
 ## 1. Một “Tâm” Không Phải Một Khối Đơn Độc
 
 ![hình minh họa biên tập cho 1. một “tâm” không phải một khối đơn độc](../assets/illustrations/theravada-batch6/theravada-34-1-1-mot-tam-khong-phai-mot-khoi-on-oc.webp)

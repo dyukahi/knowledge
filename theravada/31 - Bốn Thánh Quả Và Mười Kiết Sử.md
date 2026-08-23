@@ -36,6 +36,13 @@ source_license_checked: true
 
 # Bốn Thánh Quả Và Mười Kiết Sử
 
+<!-- vault-voice-opening:v1 -->
+
+Các tầng Thánh quả rất dễ biến thành rank system tâm linh: ai ở tầng nào, ai đủ chuẩn, ai chỉ tưởng mình chứng. Khi quả vị thành status, con đường giải thoát lại cung cấp vật liệu cho so sánh và tự tôn.
+
+Bốn quả và mười kiết sử hữu ích khi được đọc như bản đồ những trói buộc đang rơi, không phải bảng tên để tự phong. Câu hỏi gần hơn là: điều gì từng kéo mình đi mà bây giờ đã thật sự mất quyền lực?
+
+
 ## 1. Bốn Đạo-Quả Là Bản Đồ Chuyển Hóa, Không Phải Bốn Huy Hiệu
 
 ![hình minh họa biên tập cho 1. bốn đạo-quả là bản đồ chuyển hóa, không phải bốn huy hiệu](../assets/illustrations/theravada-batch5/theravada-31-1-1-bon-ao-qua-la-ban-o-chuyen-hoa-khong-phai-bon-huy-hieu.webp)

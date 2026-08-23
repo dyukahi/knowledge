@@ -34,6 +34,13 @@ source_license_checked: true
 
 # Theravāda Và Khoa Học Hiện Đại — Điểm Gặp, Giới Hạn Và Lối Tắt Sai
 
+<!-- vault-voice-opening:v1 -->
+
+Khi khoa học và Phật giáo có một từ nghe giống nhau, người ta rất muốn tuyên bố hai bên đã gặp nhau: neuroscience chứng minh vô ngã, quantum chứng minh duyên khởi, meditation scan chứng minh giác ngộ. Cảm giác ấy dễ chịu vì tradition được khoác authority hiện đại.
+
+Nhưng tôn trọng cả hai nghĩa là không bắt bên nào nói điều nó chưa chứng minh. Khoa học đo hiện tượng có điều kiện. Pháp đặt câu hỏi giải thoát. Có vùng đối thoại thật — và có những lối tắt chỉ làm cả hai nghèo đi.
+
+
 ## 1. Hai Phương Pháp Có Thể Đối Thoại Mà Không Hóa Thành Một
 
 ![hình minh họa biên tập cho 1. hai phương pháp có thể đối thoại mà không hóa thành một](../assets/illustrations/theravada-batch6/theravada-36-1-1-hai-phuong-phap-co-the-oi-thoai-ma-khong-hoa-thanh-mot.webp)
