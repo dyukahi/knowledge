@@ -1,0 +1,2607 @@
+{
+  "schema": "theravada-full-body-voice-progress.v1",
+  "baseline_commit": "f1ddbab",
+  "goal": "Paragraph-level vault voice across every H2 section; openings alone do not count.",
+  "lessons": [
+    {
+      "lesson": 1,
+      "file": "01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Hai Chân Dung Cần Được Giữ Cạnh Nhau",
+          "prose_paragraphs": 5,
+          "prose_words": 487,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Ba Cửa Sổ Kinh Sớm: [Cuộc tìm cầu cao quý](https://suttacentral.net/mn26), [Khổ hạnh và con đường giác ngộ](https://suttacentral.net/mn36) Và [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16)",
+          "prose_paragraphs": 7,
+          "prose_words": 818,
+          "concrete_paragraphs": 7,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Câu Hỏi Không Phải “Vũ Trụ Là Gì?” Mà Là “Khổ Chấm Dứt Thế Nào?”",
+          "prose_paragraphs": 5,
+          "prose_words": 508,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Luật, Vi Diệu Pháp, Chú Giải Và Tiểu Sử Muộn",
+          "prose_paragraphs": 6,
+          "prose_words": 604,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Sử Học Có Thể Biết Gì — Và Không Thể Biết Gì?",
+          "prose_paragraphs": 4,
+          "prose_words": 417,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Đọc Cuộc Đời Như Một Bản Đồ Thực Hành Có Kiểm Soát",
+          "prose_paragraphs": 3,
+          "prose_words": 326,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 121,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 2,
+      "file": "02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Một Tên Gọi, Không Phải Một Hóa Thạch",
+          "prose_paragraphs": 5,
+          "prose_words": 480,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Từ Pháp–Luật Đến Ký Ức Về Các Hội Nghị",
+          "prose_paragraphs": 6,
+          "prose_words": 563,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Sri Lanka Và Sự Thành Hình Của Một Truyền Thừa",
+          "prose_paragraphs": 5,
+          "prose_words": 441,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Pāli: Ngôn Ngữ Kinh Điển, Không Phải Băng Ghi Âm",
+          "prose_paragraphs": 5,
+          "prose_words": 398,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Theravāda Không Đồng Nghĩa Điều Gì?",
+          "prose_paragraphs": 6,
+          "prose_words": 510,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Kinh, Luật, Vi Diệu Pháp, Chú Giải Và Hiện Đại",
+          "prose_paragraphs": 6,
+          "prose_words": 476,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 138,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 3,
+      "file": "03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. “Ba Giỏ” Là Một Bản Đồ, Không Phải Ba Chiếc Hộp Xuất Hiện Cùng Lúc",
+          "prose_paragraphs": 5,
+          "prose_words": 459,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Truyền Khẩu, Hội Nghị Và Việc Viết Xuống",
+          "prose_paragraphs": 6,
+          "prose_words": 576,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Luật Tạng: Kiến Trúc Của Một Cộng Đồng",
+          "prose_paragraphs": 6,
+          "prose_words": 517,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Kinh Tạng: Năm Nikāya Và Nhiều Thể Loại",
+          "prose_paragraphs": 6,
+          "prose_words": 514,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Vi Diệu Pháp: Kinh điển Nhưng Là Một Lớp Hệ Thống Riêng",
+          "prose_paragraphs": 6,
+          "prose_words": 471,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Đọc Canon Theo Tầng Mà Không Làm Nó Vỡ Vụn",
+          "prose_paragraphs": 6,
+          "prose_words": 518,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 123,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 4,
+      "file": "04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Đọc Kinh Là Một Kỹ Năng, Không Phải Một Cuộc Thi Tin Hay Không Tin",
+          "prose_paragraphs": 5,
+          "prose_words": 532,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Bảy Câu Hỏi Trước Khi Rút Một “Chân Lý” Khỏi Bài Kinh",
+          "prose_paragraphs": 7,
+          "prose_words": 560,
+          "concrete_paragraphs": 7,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. [Ví dụ con rắn và chiếc bè](https://suttacentral.net/mn22): Nắm Con Rắn Đúng Chỗ Và Không Vác Chiếc Bè",
+          "prose_paragraphs": 5,
+          "prose_words": 484,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. [Cách kiểm chứng một điều là thật](https://suttacentral.net/mn95): Giữ Một Mệnh Đề Là Thật Chưa Phải Biết Nó Là Thật",
+          "prose_paragraphs": 5,
+          "prose_words": 499,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. [Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65): Không Tin Mù Quáng Cũng Không Phong Cảm Giác Làm Giáo Chủ",
+          "prose_paragraphs": 10,
+          "prose_words": 815,
+          "concrete_paragraphs": 10,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Một Quy Trình Đọc Và Kiểm Chứng Có Thể Lặp Lại",
+          "prose_paragraphs": 5,
+          "prose_words": 473,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 130,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 5,
+      "file": "05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Bốn Sự Thật Không Phải Bốn Khẩu Hiệu",
+          "prose_paragraphs": 5,
+          "prose_words": 477,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Đế Thứ Nhất: Dukkha Phải Được Hiểu Đầy Đủ",
+          "prose_paragraphs": 5,
+          "prose_words": 459,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Đế Thứ Hai: Nguồn Sinh Phải Được Từ Bỏ",
+          "prose_paragraphs": 5,
+          "prose_words": 404,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Đế Thứ Ba: Nirodha Phải Được Chứng Ngộ",
+          "prose_paragraphs": 5,
+          "prose_words": 435,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Đế Thứ Tư: Magga Phải Được Phát Triển",
+          "prose_paragraphs": 4,
+          "prose_words": 364,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Dùng Bốn Đế Như Khung Điều Tra, Không Như Công Thức Áp Lên Người Khác",
+          "prose_paragraphs": 5,
+          "prose_words": 348,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 117,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 6,
+      "file": "06 - Dukkha - Khổ Không Chỉ Là Đau Đớn.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Một Từ Không Nằm Gọn Trong “Đau” Hay “Bi Kịch”",
+          "prose_paragraphs": 5,
+          "prose_words": 467,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Từ Danh Sách Đời Sống Đến Năm Thủ Uẩn",
+          "prose_paragraphs": 6,
+          "prose_words": 548,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Ba Phương Diện Là Bản Đồ Hệ Thống Hóa Hậu Kỳ",
+          "prose_paragraphs": 6,
+          "prose_words": 497,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Nhiệm Vụ Là Liễu Tri, Không Phải Ghét Bỏ",
+          "prose_paragraphs": 6,
+          "prose_words": 517,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Vô Thường, Dukkha Và Không Phải Tự Ngã",
+          "prose_paragraphs": 6,
+          "prose_words": 472,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Một Bài Thực Hành Không Phủ Nhận Thế Giới",
+          "prose_paragraphs": 6,
+          "prose_words": 419,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 133,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 7,
+      "file": "07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Ba Mắt Xích, Không Phải Ba Từ Đồng Nghĩa",
+          "prose_paragraphs": 5,
+          "prose_words": 473,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Taṇhā: Cơn Khát Có Ba Hướng",
+          "prose_paragraphs": 6,
+          "prose_words": 507,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Upādāna: Khi Khát Thành Chiếm Hữu Và Căn Tính",
+          "prose_paragraphs": 6,
+          "prose_words": 476,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Bhava: “Hữu” Phải Được Dịch Theo Văn Cảnh",
+          "prose_paragraphs": 6,
+          "prose_words": 505,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Xúc, Thọ Và Điểm Có Thể Học Không Tiếp Nhiên Liệu",
+          "prose_paragraphs": 6,
+          "prose_words": 462,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thực Hành Mà Không Đổ Lỗi Cho Nạn Nhân",
+          "prose_paragraphs": 6,
+          "prose_words": 429,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 118,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 8,
+      "file": "08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Tám Chi Không Phải Tám Ô Đánh Dấu Một Lần",
+          "prose_paragraphs": 4,
+          "prose_words": 382,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Tuệ: Chánh Kiến Và Chánh Ý Hướng",
+          "prose_paragraphs": 5,
+          "prose_words": 486,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Giới: Chánh Ngữ, Chánh Nghiệp Và Chánh Mạng",
+          "prose_paragraphs": 6,
+          "prose_words": 538,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Đào Luyện Tâm: Chánh Tinh Tấn, Chánh Niệm Và Chánh Định",
+          "prose_paragraphs": 5,
+          "prose_words": 458,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. [Chánh kiến và cấu trúc con đường](https://suttacentral.net/mn117): Chánh Kiến Đi Trước, Nhưng Không Đi Một Mình",
+          "prose_paragraphs": 5,
+          "prose_words": 411,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thực Hành Hệ Thống: Chọn Một Nút Và Theo Các Quan Hệ",
+          "prose_paragraphs": 5,
+          "prose_words": 376,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 128,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 9,
+      "file": "09 - Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Có Trình Tự, Nhưng Không Có Dây Chuyền Máy Móc",
+          "prose_paragraphs": 5,
+          "prose_words": 488,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. [Quả của đời sống xuất gia](https://suttacentral.net/dn2): Quả Của Đời Sa-Môn Và Kiến Trúc Huấn Luyện",
+          "prose_paragraphs": 6,
+          "prose_words": 515,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. [Lộ trình tu tập tuần tự ở Assapura](https://suttacentral.net/mn39) Và [Huấn luyện tuần tự và người chỉ đường](https://suttacentral.net/mn107): Huấn Luyện Như Một Nghề Được Học",
+          "prose_paragraphs": 6,
+          "prose_words": 563,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Giới Là Điều Kiện Tự Do, Không Chỉ Là Cấm Đoán",
+          "prose_paragraphs": 6,
+          "prose_words": 451,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Định Và Tuệ: Ổn Định Để Thấy, Thấy Để Buông",
+          "prose_paragraphs": 10,
+          "prose_words": 641,
+          "concrete_paragraphs": 8,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thiết Kế Một Lộ Trình Có Thể Sống Được",
+          "prose_paragraphs": 6,
+          "prose_words": 427,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 126,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 10,
+      "file": "10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. “Ở Giữa” Cái Gì?",
+          "prose_paragraphs": 5,
+          "prose_words": 407,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11): Không Nuôi Dục, Không Hành Xác",
+          "prose_paragraphs": 6,
+          "prose_words": 433,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. [Không mắc kẹt giữa có và không](https://suttacentral.net/sn12.15): Không Rơi Vào “Tất Cả Có” Hay “Tất Cả Không”",
+          "prose_paragraphs": 6,
+          "prose_words": 451,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Hai Trung Đạo Gặp Nhau Ở Chánh Kiến Và Con Đường",
+          "prose_paragraphs": 6,
+          "prose_words": 441,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Trung Đạo Không Phải Trung Dung Chính Trị Hay Tương Đối Luận",
+          "prose_paragraphs": 6,
+          "prose_words": 394,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Bản Đồ Thực Hành: Xác Định Cực, Điều Kiện Và Hướng Đi",
+          "prose_paragraphs": 6,
+          "prose_words": 436,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 131,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 11,
+      "file": "11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Một Bản Đồ Kinh Nghiệm, Không Phải Năm Chất",
+          "prose_paragraphs": 5,
+          "prose_words": 402,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Sắc Và Thọ: Thân Không Phải Vật Sở Hữu Tuyệt Đối",
+          "prose_paragraphs": 6,
+          "prose_words": 513,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Tưởng Và Hành: Nhận Ra, Đặt Dấu Và Tạo Hướng",
+          "prose_paragraphs": 6,
+          "prose_words": 487,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Thức Là Nhận Biết Phân Biệt, Không Phải Người Quan Sát Vĩnh Cửu",
+          "prose_paragraphs": 6,
+          "prose_words": 463,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Ba Câu Sở Hữu Và Phạm Vi Của Các Ví Dụ",
+          "prose_paragraphs": 6,
+          "prose_words": 462,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thực Hành: Tách Một Phản Ứng Thành Năm Cửa Quan Sát",
+          "prose_paragraphs": 6,
+          "prose_words": 398,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 119,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 12,
+      "file": "12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Mười Hai Xứ Và Phạm Vi Của “Tất Cả”",
+          "prose_paragraphs": 5,
+          "prose_words": 422,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Năm Cửa Thân Thể Không Phải Năm Máy Quay",
+          "prose_paragraphs": 6,
+          "prose_words": 435,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Ý Là Căn Thứ Sáu Và Dhamma Là Đối Tượng",
+          "prose_paragraphs": 6,
+          "prose_words": 432,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Kinh Nghiệm Sinh Theo Quan Hệ Căn–Trần–Thức",
+          "prose_paragraphs": 6,
+          "prose_words": 427,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. “The All” Không Phải Giấy Phép Tổng Quát Hóa Siêu Hình",
+          "prose_paragraphs": 6,
+          "prose_words": 415,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thực Hành Gác Sáu Cửa Mà Không Đóng Thế Giới",
+          "prose_paragraphs": 6,
+          "prose_words": 364,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 117,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 13,
+      "file": "13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Ba Mắt Xích Không Phải Ba Giây Máy Móc",
+          "prose_paragraphs": 5,
+          "prose_words": 380,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Xúc Là Sự Gặp, Không Chỉ Là Da Chạm Vật",
+          "prose_paragraphs": 6,
+          "prose_words": 414,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Thọ Là Sắc Thái, Không Phải Toàn Bộ Cảm Xúc",
+          "prose_paragraphs": 6,
+          "prose_words": 398,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Từ Thọ Đến Ái Dưới Điều Kiện Vô Minh",
+          "prose_paragraphs": 6,
+          "prose_words": 397,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Không Tuyến Tính Cứng, Không Đổ Lỗi Cá Nhân",
+          "prose_paragraphs": 6,
+          "prose_words": 389,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thực Hành Ở Thọ: Biết, Chờ, Chọn Điều Kiện",
+          "prose_paragraphs": 6,
+          "prose_words": 323,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 110,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 14,
+      "file": "14 - Viññāṇa - Thức Không Phải Linh Hồn.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Sai Lầm Của Sāti Và Câu Hỏi Về Cái Tiếp Tục",
+          "prose_paragraphs": 5,
+          "prose_words": 359,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Sáu Thức Được Gọi Tên Theo Điều Kiện",
+          "prose_paragraphs": 6,
+          "prose_words": 397,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Thức Và Danh–Sắc Nương Nhau Trong [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15)",
+          "prose_paragraphs": 6,
+          "prose_words": 450,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Tính Tiếp Nối Không Đòi Một Vật Bất Biến",
+          "prose_paragraphs": 6,
+          "prose_words": 391,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Không Phải Kho Chứa, Ý Thức Vũ Trụ Hay Người Biết Thuần Túy",
+          "prose_paragraphs": 6,
+          "prose_words": 385,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thực Hành Nhận Biết Thức Theo Cửa Và Duyên",
+          "prose_paragraphs": 6,
+          "prose_words": 339,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 113,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 15,
+      "file": "15 - Vô Ngã - Đức Phật Phủ Định Điều Gì.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Anattā Là Phép Thẩm Tra, Không Phải Khẩu Hiệu Hư Vô",
+          "prose_paragraphs": 5,
+          "prose_words": 380,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Lập Luận Từ Vô Thường, Dukkha Và Không Dưới Quyền",
+          "prose_paragraphs": 6,
+          "prose_words": 395,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. “Not-Self” Hay “No-Self”: Một Tranh Luận Dịch Thuật",
+          "prose_paragraphs": 6,
+          "prose_words": 394,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Không Hư Vô, Không Xóa Trách Nhiệm Và Phẩm Giá",
+          "prose_paragraphs": 6,
+          "prose_words": 383,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Không Có “Chân Ngã” Bí Mật Nằm Sau Năm Uẩn",
+          "prose_paragraphs": 6,
+          "prose_words": 396,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thực Hành Ba Câu: Của Tôi, Tôi, Tự Ngã Của Tôi",
+          "prose_paragraphs": 6,
+          "prose_words": 340,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 113,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 16,
+      "file": "16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Từ “Tôi Là” Đến Một Cấu Trúc Có Thể Quan Sát",
+          "prose_paragraphs": 5,
+          "prose_words": 384,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Hai Mươi Cách Dựng Tự Ngã Quanh Năm Uẩn",
+          "prose_paragraphs": 6,
+          "prose_words": 380,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Khi Uẩn Đổi, Căn Tính Bị Thương Như Thế Nào",
+          "prose_paragraphs": 6,
+          "prose_words": 409,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Nguồn Sinh Và Đoạn Diệt Của Sakkāya Trong [Hỏi đáp về thân kiến và thiền](https://suttacentral.net/mn44)",
+          "prose_paragraphs": 6,
+          "prose_words": 378,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. So Sánh Hiện Đại: cái tôi tự sự Chỉ Là Cộng Hưởng",
+          "prose_paragraphs": 6,
+          "prose_words": 387,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thực Hành Bản Đồ Bản Sắc Trong Một Phản Ứng",
+          "prose_paragraphs": 6,
+          "prose_words": 336,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 110,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 17,
+      "file": "17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Không Chỉ Hỏi “Khổ Từ Đâu Đến?” Mà Còn “Khổ Dừng Thế Nào?”",
+          "prose_paragraphs": 4,
+          "prose_words": 450,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Công Thức Điều Kiện: Chính Xác Hơn “Mọi Thứ Liên Quan Với Nhau”",
+          "prose_paragraphs": 5,
+          "prose_words": 437,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Chiều Sinh Khởi: Mười Hai Chi Là Bản Đồ Của Dukkha",
+          "prose_paragraphs": 5,
+          "prose_words": 482,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Chiều Đoạn Diệt: Không Phải Phá Hủy Mà Là Không Còn Nuôi Điều Kiện",
+          "prose_paragraphs": 6,
+          "prose_words": 484,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. [Từ khổ đau đến giải thoát theo chuỗi hỗ trợ](https://suttacentral.net/sn12.23): Một Chuỗi Duyên Hỗ Trợ Đi Từ Khổ Đến Giải Thoát",
+          "prose_paragraphs": 5,
+          "prose_words": 442,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thực Hành Hai Chiều Trong Một Tình Huống Có Thật",
+          "prose_paragraphs": 6,
+          "prose_words": 479,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 148,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 18,
+      "file": "18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Một Danh Sách, Nhiều Phạm Vi Đọc",
+          "prose_paragraphs": 5,
+          "prose_words": 437,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Lớp Kinh Sớm: [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) Nói Gì Và Không Nói Gì",
+          "prose_paragraphs": 6,
+          "prose_words": 487,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15): Duyên Khởi Như Mạng Quan Hệ Và Vòng Phản Hồi",
+          "prose_paragraphs": 6,
+          "prose_words": 551,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Mô Hình Ba Đời: Hệ Thống Chú Giải Theravāda",
+          "prose_paragraphs": 6,
+          "prose_words": 436,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Cách Đọc Cấu Trúc, Một Đời Và Từng Khoảnh Khắc",
+          "prose_paragraphs": 6,
+          "prose_words": 494,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Cách Dùng Nhiều Mô Hình Mà Không Rơi Vào “Cái Gì Cũng Đúng”",
+          "prose_paragraphs": 6,
+          "prose_words": 489,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 129,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 19,
+      "file": "19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Đưa “Nghiệp” Trở Lại Hành Động Có Tác Ý",
+          "prose_paragraphs": 5,
+          "prose_words": 433,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. [Nghiệp là tác ý và có con đường đoạn diệt](https://suttacentral.net/an6.63): Tác Ý, Nguồn Sinh, Đa Dạng Và Đoạn Diệt Của Nghiệp",
+          "prose_paragraphs": 6,
+          "prose_words": 478,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. [Hành vi và những khác biệt trong quả](https://suttacentral.net/mn135): Quan Hệ Đạo Đức Không Phải Công Thức Một–Một",
+          "prose_paragraphs": 6,
+          "prose_words": 535,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Vì Sao Kamma Không Phải Định Mệnh Hay Nguyên Nhân Duy Nhất",
+          "prose_paragraphs": 6,
+          "prose_words": 486,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Không Đổ Lỗi Nạn Nhân: Hàng Rào Đạo Đức Bắt Buộc",
+          "prose_paragraphs": 6,
+          "prose_words": 421,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thực Hành Với Tác Ý Và Quyền Hành Động Hiện Tại",
+          "prose_paragraphs": 6,
+          "prose_words": 416,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 141,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 20,
+      "file": "20 - Tái Sinh Mà Không Có Linh Hồn.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Câu Hỏi Sai: “Nếu Không Có Tôi, Ai Đi Tái Sinh?”",
+          "prose_paragraphs": 5,
+          "prose_words": 490,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. [Thức sinh theo điều kiện](https://suttacentral.net/mn38): Không Phải Cùng Một Thức Lang Thang",
+          "prose_paragraphs": 6,
+          "prose_words": 485,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2): Từ Hữu Đến Sinh, Không Có Mắt Xích Linh Hồn",
+          "prose_paragraphs": 6,
+          "prose_words": 535,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15): Thức Và Danh-Sắc Nương Nhau",
+          "prose_paragraphs": 6,
+          "prose_words": 514,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Paṭisandhi: Hệ Thống Hóa Hậu Kỳ, Không Phải Từ Khóa Của Ba Đoạn kinh nền",
+          "prose_paragraphs": 6,
+          "prose_words": 454,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thực Hành Trách Nhiệm Mà Không Dựng Một Cái Tôi Vĩnh Cửu",
+          "prose_paragraphs": 6,
+          "prose_words": 462,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 134,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 21,
+      "file": "21 - Những Gì Kinh Pāli Nói Về Cái Chết.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Bốn Lớp Thường Bị Trộn Khi Nói Về Chết",
+          "prose_paragraphs": 5,
+          "prose_words": 491,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16): Những Ngày Cuối Và Lời Nhắc Không Phóng Dật",
+          "prose_paragraphs": 6,
+          "prose_words": 481,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. [Lựa chọn đạo đức trước điều chưa biết](https://suttacentral.net/mn60): Một Lựa Chọn Có Trách Nhiệm Trước Điều Chưa Tự Thấy",
+          "prose_paragraphs": 6,
+          "prose_words": 512,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. [Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130): Các Sứ Giả Và Sự Khẩn Thiết Đạo Đức",
+          "prose_paragraphs": 6,
+          "prose_words": 479,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Tang Lễ, Hồi Hướng Và Hệ Thống Theravāda Hậu Kỳ",
+          "prose_paragraphs": 6,
+          "prose_words": 463,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Bardo Và NDE: So Sánh, Không Gắn Nhãn Kinh Pāli",
+          "prose_paragraphs": 6,
+          "prose_words": 479,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 135,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 22,
+      "file": "22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Saṃsāra Là Sự Lang Thang, Không Phải Tên Một Địa Điểm",
+          "prose_paragraphs": 5,
+          "prose_words": 436,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. [Cỏ cây không đủ đếm số đời luân hồi](https://suttacentral.net/sn15.1): Không Thể Đếm Hết Cỏ, Gỗ, Cành Và Lá",
+          "prose_paragraphs": 6,
+          "prose_words": 462,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. [Nước mắt trong luân hồi nhiều hơn biển cả](https://suttacentral.net/sn15.3): Biển Nước Mắt Và Trọng Lượng Của Sự Lặp Lại",
+          "prose_paragraphs": 6,
+          "prose_words": 484,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Vì Sao “Trường Học Linh Hồn” Chỉ Là Lăng Kính So Sánh",
+          "prose_paragraphs": 6,
+          "prose_words": 507,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Vì Sao “Nhà Tù Vũ Trụ” Không Phải Giáo Lý Pāli",
+          "prose_paragraphs": 6,
+          "prose_words": 465,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Lối Ra Tập Trung Vào Điều Kiện, Không Vào Cai Ngục Bí Mật",
+          "prose_paragraphs": 6,
+          "prose_words": 428,
+          "concrete_paragraphs": 6,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 4,
+          "prose_words": 133,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 23,
+      "file": "23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Năm Sự Học, Không Phải Năm Mệnh Lệnh Từ Một Đấng Phán Xét",
+          "prose_paragraphs": 5,
+          "prose_words": 502,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Giới Thứ Nhất Và Thứ Hai: Mạng Sống, Tài Sản, An Toàn Chung",
+          "prose_paragraphs": 5,
+          "prose_words": 509,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Giới Thứ Ba: Dục, Đồng Thuận Và Trách Nhiệm Quan Hệ",
+          "prose_paragraphs": 5,
+          "prose_words": 492,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Giới Thứ Tư Và Thứ Năm: Sự Thật, Chất Say Và Năng Lực Không Buông Lung",
+          "prose_paragraphs": 6,
+          "prose_words": 499,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Năm Giới Tại Gia Không Phải Luật Tạng Xuất Gia",
+          "prose_paragraphs": 9,
+          "prose_words": 673,
+          "concrete_paragraphs": 7,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Một Cách Thực Hành Không Hại, Có Ranh Giới Và Có Khả Năng Sửa Sai",
+          "prose_paragraphs": 5,
+          "prose_words": 410,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 3,
+          "prose_words": 120,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 24,
+      "file": "24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Satipaṭṭhāna Là Bốn Phạm Vi Quán Sát Có Mục Đích Giải Thoát",
+          "prose_paragraphs": 5,
+          "prose_words": 466,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Công Thức Chung: Nhiệt Tâm, Hiểu Rõ, Có Niệm Và Không Bám Víu",
+          "prose_paragraphs": 5,
+          "prose_words": 410,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Thân Và Thọ: Từ Hơi Thở Đến Sắc Thái Của Kinh Nghiệm",
+          "prose_paragraphs": 5,
+          "prose_words": 416,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Tâm Và Pháp: Biết Trạng Thái, Dùng Bản Đồ Mà Không Biến Thành Bản Ngã",
+          "prose_paragraphs": 5,
+          "prose_words": 395,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Nội, Ngoại, Sinh Và Diệt: Phạm Vi Quan Sát Không Bị Thu Hẹp Vào Một Điểm",
+          "prose_paragraphs": 5,
+          "prose_words": 384,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Ekāyana Và Giới Hạn Của Tuyên Bố Một Kỹ Thuật Độc Quyền",
+          "prose_paragraphs": 6,
+          "prose_words": 481,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 3,
+          "prose_words": 109,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 25,
+      "file": "25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. [Mười sáu bước niệm hơi thở](https://suttacentral.net/mn118) Dạy Biết Hơi Thở Trước Khi Dạy Mười Sáu Bước",
+          "prose_paragraphs": 5,
+          "prose_words": 409,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Nhóm Một — Bốn Bước Về Thân Và Cụm “Làm Lắng Dịu Thân Hành”",
+          "prose_paragraphs": 5,
+          "prose_words": 378,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Nhóm Hai — Hỷ, Lạc, Tâm Hành Và Sự Lắng Dịu Không Đồng Nghĩa Săn Khoái Cảm",
+          "prose_paragraphs": 5,
+          "prose_words": 376,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Nhóm Ba — Cảm Nhận, Làm Sáng, Định Tĩnh Và Giải Thoát Tâm",
+          "prose_paragraphs": 5,
+          "prose_words": 378,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Nhóm Bốn — Vô Thường, Ly Tham, Đoạn Diệt Và Buông Trả",
+          "prose_paragraphs": 5,
+          "prose_words": 355,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Mười Sáu Bước Làm Viên Mãn Tứ Niệm Xứ Và Bảy Giác Chi Như Thế Nào",
+          "prose_paragraphs": 5,
+          "prose_words": 367,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 3,
+          "prose_words": 111,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 26,
+      "file": "26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Hai Phẩm Chất Của Một Con Đường, Không Phải Hai Giáo Phái",
+          "prose_paragraphs": 4,
+          "prose_words": 361,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Chỉ Đi Trước Quán: Yên Không Phải Là Đích Cuối",
+          "prose_paragraphs": 4,
+          "prose_words": 348,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Quán Đi Trước Chỉ: Thấy Rõ Có Thể Dẫn Tâm Đến Lắng",
+          "prose_paragraphs": 5,
+          "prose_words": 417,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Chỉ Và Quán Cùng Ách: Phối Hợp Không Có Nghĩa Đồng Đều Từng Giây",
+          "prose_paragraphs": 5,
+          "prose_words": 375,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Đường Thứ Tư Và Tâm Bị Dao Động Bởi Pháp",
+          "prose_paragraphs": 5,
+          "prose_words": 390,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Tách Dòng Truyền: Kinh Sớm, Chú Giải Và Theravāda Hiện Đại",
+          "prose_paragraphs": 5,
+          "prose_words": 420,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc",
+          "prose_paragraphs": 4,
+          "prose_words": 200,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 27,
+      "file": "27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Jhāna Nằm Trong Một Lộ Trình Đạo Đức Và Tỉnh Giác",
+          "prose_paragraphs": 5,
+          "prose_words": 367,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Sơ Thiền: Ly Dục, Tầm-Tứ Và Hỷ-Lạc Do Ly Sinh",
+          "prose_paragraphs": 5,
+          "prose_words": 394,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Nhị Thiền: Tầm-Tứ Lắng Và Sự Nhất Tâm Nổi Rõ",
+          "prose_paragraphs": 5,
+          "prose_words": 373,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Tam Thiền: Hỷ Phai, Xả Và Lạc Được Biết Bằng Thân",
+          "prose_paragraphs": 5,
+          "prose_words": 360,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Tứ Thiền: Vượt Lạc-Khổ Và Niệm Thanh Tịnh Nhờ Xả",
+          "prose_paragraphs": 5,
+          "prose_words": 365,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Cuộc Tranh Luận Về Độ Sâu Và Cách Đọc Có Kỷ Luật",
+          "prose_paragraphs": 5,
+          "prose_words": 365,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Giới Hạn Và Chuỗi Đọc",
+          "prose_paragraphs": 4,
+          "prose_words": 187,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 28,
+      "file": "28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. “Vô Lượng” Là Không Dựng Biên Giới Thù Ghét",
+          "prose_paragraphs": 5,
+          "prose_words": 337,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Mettā: Mong An Lành Không Đồng Nghĩa Chiều Theo Mọi Yêu Cầu",
+          "prose_paragraphs": 5,
+          "prose_words": 362,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Karuṇā: Đến Gần Khổ Mà Không Chìm Trong Khổ",
+          "prose_paragraphs": 5,
+          "prose_words": 332,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Muditā: Niềm Vui Không Chiếm Hữu Và Thuốc Giải Ganh Tị",
+          "prose_paragraphs": 5,
+          "prose_words": 331,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Upekkhā: Xả Không Phải Thờ Ơ, Và Ranh Giới Không Phải Sân",
+          "prose_paragraphs": 5,
+          "prose_words": 364,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. [Bốn tâm vô lượng cùng các giác chi](https://suttacentral.net/sn46.54): Tâm Vô Lượng Đi Cùng Giác Chi Và Sự Phân Biệt Mục Đích",
+          "prose_paragraphs": 5,
+          "prose_words": 385,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc",
+          "prose_paragraphs": 4,
+          "prose_words": 213,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 29,
+      "file": "29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Hai Bản Đồ Có Hai Độ Phân Giải Khác Nhau",
+          "prose_paragraphs": 3,
+          "prose_words": 251,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Mười Một Cõi Dục: Nơi Dục Cảm Còn Là Trục Chính",
+          "prose_paragraphs": 4,
+          "prose_words": 272,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Mười Sáu Cõi Sắc: Quan Hệ Với Jhāna Nhưng Không Phải Thang Máy Tự Động",
+          "prose_paragraphs": 3,
+          "prose_words": 237,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Bốn Cõi Vô Sắc: Đối Tượng Tinh Tế Vẫn Thuộc Hữu",
+          "prose_paragraphs": 3,
+          "prose_words": 186,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Provenance: Kinh Sớm, Vi Diệu Pháp Và Chú Giải Nói Ở Ba Tầng",
+          "prose_paragraphs": 1,
+          "prose_words": 56,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Dùng Bản Đồ Để Tu, Không Dùng Nó Để Suy Đoán Người Khác",
+          "prose_paragraphs": 3,
+          "prose_words": 208,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 3,
+          "prose_words": 88,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 30,
+      "file": "30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Deva Không Đồng Nghĩa Thượng Đế Sáng Tạo",
+          "prose_paragraphs": 3,
+          "prose_words": 213,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Baka Brahmā: Quyền Lực Và Tuổi Thọ Không Bảo Đảm Chánh Kiến",
+          "prose_paragraphs": 3,
+          "prose_words": 204,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Năm Cảnh Đến Và Trọng Tâm Tác Ý Trong [Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130)",
+          "prose_paragraphs": 2,
+          "prose_words": 156,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. A-tu-la Trong [Các bài kinh về Sakka, chư thiên và a-tu-la](https://suttacentral.net/sn11): Đối Thủ Của Chư Thiên, Không Phải Quỷ Tuyệt Đối",
+          "prose_paragraphs": 3,
+          "prose_words": 220,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Bốn Đọa Xứ: Khổ Không Phải Bản Án Vĩnh Viễn",
+          "prose_paragraphs": 3,
+          "prose_words": 243,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Provenance Và Cách Đọc Hiện Đại Có Giới Hạn",
+          "prose_paragraphs": 1,
+          "prose_words": 74,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc",
+          "prose_paragraphs": 4,
+          "prose_words": 179,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 31,
+      "file": "31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Bốn Đạo-Quả Là Bản Đồ Chuyển Hóa, Không Phải Bốn Huy Hiệu",
+          "prose_paragraphs": 4,
+          "prose_words": 393,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. “Dòng” Chính Là Bát Chánh Đạo",
+          "prose_paragraphs": 5,
+          "prose_words": 406,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Mười Kiết Sử: Năm Thấp Và Năm Cao",
+          "prose_paragraphs": 4,
+          "prose_words": 312,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Bốn Mức Và Những Gì Được Tháo Gỡ",
+          "prose_paragraphs": 5,
+          "prose_words": 392,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Ba Sự Học Gom Toàn Bộ Việc Tu",
+          "prose_paragraphs": 4,
+          "prose_words": 288,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Tự Đánh Giá Mà Không Tự Phong Hay Săn Cấp Bậc",
+          "prose_paragraphs": 4,
+          "prose_words": 304,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 6,
+          "prose_words": 438,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 32,
+      "file": "32 - Nibbāna - Không Phải Cõi Thứ 32.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Đừng Đặt Nibbāna Lên Trên Cùng Một Tấm Bản Đồ Cõi",
+          "prose_paragraphs": 4,
+          "prose_words": 312,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. “Không Sinh, Không Trở Thành, Không Làm Ra, Không Tạo Tác”",
+          "prose_paragraphs": 4,
+          "prose_words": 308,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Hai Yếu Tố Nibbāna Không Phải Hai Niết-bàn",
+          "prose_paragraphs": 4,
+          "prose_words": 283,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Vô Vi Được Giải Thích Bằng Sự Tận Tham, Sân Và Si",
+          "prose_paragraphs": 5,
+          "prose_words": 364,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Bốn Sai Loại: Nơi Chốn, Hư Vô, Tự Ngã Và Bằng Chứng Khoa Học",
+          "prose_paragraphs": 5,
+          "prose_words": 358,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thực Hành Hướng Về Tắt Nhiên Liệu, Không Săn Một Trạng Thái",
+          "prose_paragraphs": 5,
+          "prose_words": 348,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 6,
+          "prose_words": 395,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 33,
+      "file": "33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Vi Diệu Pháp Đổi Độ Phân Giải Của Câu Hỏi",
+          "prose_paragraphs": 3,
+          "prose_words": 221,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Dhammasaṅgaṇī Mở Bằng Một Ma Trận, Không Bằng Một Linh Hồn",
+          "prose_paragraphs": 3,
+          "prose_words": 217,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Vibhaṅga Giữ Cầu Nối Với Năm Uẩn",
+          "prose_paragraphs": 3,
+          "prose_words": 208,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Bốn Pháp Tối Hậu Là Bản Đồ Giáo Khoa Hậu Kỳ",
+          "prose_paragraphs": 4,
+          "prose_words": 271,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Nibbāna Có Neo Kinh Sớm Nhưng Vị Trí Trong Bản Đồ Là Một Bước Hệ Thống Hóa",
+          "prose_paragraphs": 2,
+          "prose_words": 134,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Dùng Bản Đồ Như Dụng Cụ Quan Sát, Không Như Máy Chụp Não",
+          "prose_paragraphs": 3,
+          "prose_words": 202,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 6,
+          "prose_words": 333,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 34,
+      "file": "34 - Tâm Sở Và Sát-na Tâm - Bản Đồ Vi Mô Của Kinh Nghiệm.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Một “Tâm” Không Phải Một Khối Đơn Độc",
+          "prose_paragraphs": 3,
+          "prose_words": 216,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. [Nhận biết từng yếu tố trong các tầng thiền](https://suttacentral.net/mn111) Cho Một Danh Sách Yếu Tố, Không Cho Con Số 52",
+          "prose_paragraphs": 3,
+          "prose_words": 204,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. Dhammasaṅgaṇī Phân Loại Tầm Và Tứ Theo Ma Trận Canonical",
+          "prose_paragraphs": 3,
+          "prose_words": 195,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Hệ 52 Tâm Sở Và Tổ Hợp Chi Tiết Thuộc Sách Thủ Bản Hậu Kỳ",
+          "prose_paragraphs": 4,
+          "prose_words": 312,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. [Tâm và thức sinh diệt suốt ngày đêm](https://suttacentral.net/sn12.61) Dạy Tâm Sinh-Diệt, Không Phát Biểu Sát-na Học Chi Tiết",
+          "prose_paragraphs": 2,
+          "prose_words": 164,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Khoảnh Khắc Tâm Không Phải Khung Hình Não",
+          "prose_paragraphs": 4,
+          "prose_words": 300,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 6,
+          "prose_words": 387,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 35,
+      "file": "35 - Paṭṭhāna - Hai Mươi Bốn Duyên Và Mạng Điều Kiện.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Từ Một Chuỗi Duyên Khởi Đến Một Ngữ Pháp Quan Hệ",
+          "prose_paragraphs": 3,
+          "prose_words": 226,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. Nền Kinh Sớm: Tính Có Điều Kiện Không Do Ai Sáng Chế",
+          "prose_paragraphs": 2,
+          "prose_words": 169,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. [Từ khổ đau đến giải thoát theo chuỗi hỗ trợ](https://suttacentral.net/sn12.23): Một Chuỗi Hỗ Trợ Không Chỉ Đi Từ Vô Minh Đến Khổ",
+          "prose_paragraphs": 2,
+          "prose_words": 140,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Hai Mươi Bốn Duyên: Danh Sách Vi Diệu Pháp, Không Phải Trích Dẫn Giả",
+          "prose_paragraphs": 2,
+          "prose_words": 125,
+          "concrete_paragraphs": 0,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Bốn Họ Quan Hệ Để Học Mà Không Làm Phẳng Hệ Thống",
+          "prose_paragraphs": 3,
+          "prose_words": 217,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Thực Hành: Lập Bản Đồ Một Phản Ứng, Không Đổ Cho Một Nguyên Nhân",
+          "prose_paragraphs": 3,
+          "prose_words": 201,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn",
+          "prose_paragraphs": 6,
+          "prose_words": 368,
+          "concrete_paragraphs": 5,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    },
+    {
+      "lesson": 36,
+      "file": "36 - Theravāda Và Khoa Học Hiện Đại - Điểm Gặp, Giới Hạn Và Lối Tắt Sai.md",
+      "sections": [
+        {
+          "index": 1,
+          "heading": "1. Hai Phương Pháp Có Thể Đối Thoại Mà Không Hóa Thành Một",
+          "prose_paragraphs": 3,
+          "prose_words": 214,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 2,
+          "heading": "2. [Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65): Thẩm Tra Không Đồng Nghĩa Chỉ Tin Điều Phòng Thí Nghiệm Đo Được",
+          "prose_paragraphs": 2,
+          "prose_words": 143,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 3,
+          "heading": "3. [Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59): Vô Ngã Là Phép Quán, Không Phải Kết Luận Từ Não Bộ",
+          "prose_paragraphs": 2,
+          "prose_words": 185,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 4,
+          "heading": "4. Khoa Học Thật Sự Cho Phép Nói Gì Về Thiền",
+          "prose_paragraphs": 3,
+          "prose_words": 262,
+          "concrete_paragraphs": 1,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 5,
+          "heading": "5. Phương Pháp Luận: Định Nghĩa, Nhóm Đối Chứng Và Sự Cường Điệu",
+          "prose_paragraphs": 3,
+          "prose_words": 223,
+          "concrete_paragraphs": 3,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 6,
+          "heading": "6. Tác Dụng Bất Lợi Và Hướng Dẫn An Toàn",
+          "prose_paragraphs": 3,
+          "prose_words": 295,
+          "concrete_paragraphs": 2,
+          "reviewed": false,
+          "review_commit": null
+        },
+        {
+          "index": 7,
+          "heading": "7. Kỷ Luật Khẳng Định Và Sổ Nguồn",
+          "prose_paragraphs": 6,
+          "prose_words": 437,
+          "concrete_paragraphs": 4,
+          "reviewed": false,
+          "review_commit": null
+        }
+      ],
+      "section_count": 7,
+      "reviewed_sections": 0,
+      "all_reviewed": false
+    }
+  ],
+  "totals": {
+    "lessons": 36,
+    "sections": 252,
+    "prose_paragraphs": 1243,
+    "prose_words": 92781,
+    "reviewed_sections": 0
+  },
+  "all_pass": false
+}

@@ -1,0 +1,58 @@
+{
+  "schema": "theravada-foundational-passages-expansion.v2",
+  "scope": "Các nhóm còn thiếu sau expansion v1; tích hợp vào bài hiện có, không tạo encyclopedic sprawl.",
+  "passages": [
+    {
+      "lesson": 4,
+      "source": "MN 26:4.13",
+      "theme": "Nói chuyện về Pháp hoặc giữ im lặng cao quý",
+      "reader_question": "Khi nào đối thoại còn phục vụ sự thật, khi nào im lặng tốt hơn việc tiếp tục tạo tiếng ồn?"
+    },
+    {
+      "lesson": 4,
+      "source": "DN 16:4.8.1–4.8.13",
+      "theme": "Đại giáo pháp thứ nhất: đối chiếu lời được gán cho Đức Phật với Kinh và Luật",
+      "reader_question": "Authority claim phải được kiểm bằng corpus và discipline, không bằng danh tiếng người truyền."
+    },
+    {
+      "lesson": 9,
+      "source": "MN 31:6.1–7.23",
+      "theme": "Sống hòa hợp: thân khác nhau nhưng tâm như một",
+      "reader_question": "Cộng đồng tu nâng nhau thế nào mà không xóa individuality hoặc tạo groupthink?"
+    },
+    {
+      "lesson": 23,
+      "source": "AN 5.35:1.1–1.8",
+      "theme": "Năm lợi ích của bố thí",
+      "reader_question": "Cho đi thay đổi quan hệ và tâm người cho ra sao, ngoài logic đổi phước lấy thưởng?"
+    },
+    {
+      "lesson": 23,
+      "source": "AN 2.119:1.1–1.3",
+      "theme": "Người làm ơn trước và người biết ơn, biết đáp đền là hai hạng khó gặp",
+      "reader_question": "Tri ân khác nợ cảm xúc và sự phục tùng vô hạn như thế nào?"
+    },
+    {
+      "lesson": 23,
+      "source": "AN 8.54:1.3–5.8",
+      "theme": "Bốn điều đem lợi ích hiện đời cho cư sĩ: siêng năng, bảo hộ, bạn lành và sống cân bằng",
+      "reader_question": "Một đời sống cư sĩ có tiền, gia đình và công việc tu thế nào mà không giả làm xuất gia?"
+    }
+  ],
+  "coverage": {
+    "noble_silence_and_dialogue": "MN 26",
+    "four_great_references": "DN 16",
+    "generosity": "AN 5.35",
+    "gratitude": "AN 2.119",
+    "dispute_and_harmony": "MN 31",
+    "solitude_community_balance": "AN 8.53 + SN 45.2 + MN 31",
+    "broader_lay_practice": "AN 8.54"
+  },
+  "non_goals": [
+    "Không dùng im lặng để né accountability.",
+    "Không biến hòa hợp thành groupthink.",
+    "Không biến tri ân thành nợ cảm xúc vô hạn.",
+    "Không biến bố thí thành giao dịch mua phước.",
+    "Không áp nguyên nếp xuất gia lên mọi cư sĩ."
+  ]
+}
