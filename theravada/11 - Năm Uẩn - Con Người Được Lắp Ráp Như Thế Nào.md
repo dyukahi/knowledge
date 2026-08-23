@@ -35,6 +35,13 @@ source_license_checked: true
 
 # Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào
 
+<!-- vault-voice-opening:v1 -->
+
+Bạn vừa bị chê và trong vài giây đã có cả một “tôi” bị xúc phạm. Nhưng nhìn kỹ: có âm thanh, cảm giác khó chịu, nhận dạng, câu chuyện phản công và dòng biết đang đổi. “Tôi” xuất hiện rất nhanh, nên ta tưởng nó đã đứng đó từ đầu.
+
+Năm uẩn không phải lý thuyết để phủ nhận con người. Chúng là cách tháo một khối tưởng như cố định thành những tiến trình có thể quan sát — và vì có thể quan sát, chúng không còn hoàn toàn điều khiển mình trong bóng tối.
+
+
 ## 1. Một Bản Đồ Kinh Nghiệm, Không Phải Năm Chất
 
 ![năm dòng sắc thọ tưởng hành thức giao nhau quanh một đời sống nhưng không đóng thành lõi bất biến](../assets/illustrations/theravada-batch2/theravada-11-nam-dong-kinh-nghiem.webp)

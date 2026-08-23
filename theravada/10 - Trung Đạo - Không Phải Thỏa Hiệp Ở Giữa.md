@@ -38,6 +38,13 @@ source_license_checked: true
 
 # Trung Đạo — Không Phải Thỏa Hiệp Ở Giữa
 
+<!-- vault-voice-opening:v1 -->
+
+“Trung đạo” rất dễ bị hiểu thành đứng giữa cho an toàn: ai cũng đúng một chút, đừng cực đoan, chọn phương án vừa vừa. Nhưng Đức Phật không dạy trung bình cộng giữa hai sai lầm.
+
+Trung đạo là tìm một trục khác, nơi câu hỏi không còn bị nhốt giữa hưởng thụ và hành xác, giữa “mọi thứ tồn tại” và “không gì tồn tại”. Đôi khi đi giữa không phải bước sang trái hay phải. Là nhìn lại cả con đường.
+
+
 ## 1. “Ở Giữa” Cái Gì?
 
 ![hai cửa sổ một bên hưởng dục và ép xác, một bên tồn tại và không tồn tại, cùng mở vào duyên khởi](../assets/illustrations/theravada-batch2/theravada-10-hai-van-de-trung-dao.webp)

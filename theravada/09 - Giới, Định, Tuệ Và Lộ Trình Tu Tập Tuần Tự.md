@@ -40,6 +40,13 @@ source_license_checked: true
 
 # Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự
 
+<!-- vault-voice-opening:v1 -->
+
+Nhiều người muốn một lộ trình tu giống kế hoạch gym: tuần này giới, tháng sau định, đủ giờ thì mở khóa tuệ. Nhưng tâm không phải dây chuyền sản xuất, và con đường cũng không thưởng huy hiệu cho người hoàn thành từng module.
+
+Có trình tự vì điều kiện cần được xây. Nhưng các phần quay lại nuôi nhau: sống bớt hại giúp tâm yên; tâm yên giúp thấy rõ; thấy rõ lại làm mình không muốn sống cẩu thả như trước.
+
+
 ## 1. Có Trình Tự, Nhưng Không Có Dây Chuyền Máy Móc
 
 ![một con đường giới định tuệ có mũi tên tiến và vòng phản hồi, không phải thang khóa cứng](../assets/illustrations/theravada-batch2/theravada-09-lo-trinh-phan-hoi.webp)
@@ -150,6 +157,40 @@ Tuy nhiên, tuệ khái niệm vẫn có vai trò. Chánh kiến ban đầu giú
 Ba học vì thế có vòng phản hồi. Giới giảm hối hận, hỗ trợ định; định làm tâm sáng, hỗ trợ tuệ; tuệ thấy hậu quả và chấp thủ, làm giới tinh tế; giới tinh tế lại bảo vệ định. Vòng này là tổng hợp sư phạm dựa trên quan hệ trong Kinh và truyền thống, không phải đồ thị nguyên văn của một bài.
 
 Không nên dùng vòng phản hồi để xóa thứ tự. Người cố tìm “tuệ cao” trong khi tiếp tục lừa dối đang bỏ điều kiện nền. Linh hoạt không phải tùy tiện. Trình tự nói cái gì cần được nuôi; phản hồi nói các mặt có thể cùng hiện diện và sửa nhau.
+
+### Tự Lực Không Có Nghĩa Là Đi Một Mình
+
+> [!quote] Thiện hữu là toàn bộ đời sống phạm hạnh — Tương Ưng Bộ Kinh
+> Khi Ānanda nói thiện hữu là một nửa đời sống phạm hạnh, Đức Phật sửa rằng đó là toàn bộ đời sống ấy, vì người bạn lành tạo điều kiện cho Bát Chánh Đạo được tu tập.
+>
+> **Pāli**
+> *“upaḍḍhamidaṁ, bhante, brahmacariyaṁ, yadidaṁ—kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā”ti. “Mā hevaṁ, ānanda, mā hevaṁ, ānanda. Sakalamevidaṁ, ānanda, brahmacariyaṁ, yadidaṁ—kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā. Kalyāṇamittassetaṁ, ānanda, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa—ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvessati, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkarissati.*
+>
+> **Dịch Việt**
+> “Bạch Thế Tôn, thiện hữu, thiện bạn và thiện đồng hành là một nửa đời sống phạm hạnh. — Đừng nói vậy, Ānanda. Thiện hữu, thiện bạn và thiện đồng hành là toàn bộ đời sống phạm hạnh. Có thể mong đợi rằng một vị tỳ-kheo có bạn lành, người đồng hành lành và người thân cận lành sẽ tu tập và làm sung mãn Bát Chánh Đạo.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn45.2">SN 45.2, đoạn 1.4–2.3</a> · <i>Upaḍḍha Sutta</i></small>
+
+“Nương tựa chính mình” không có nghĩa một mình chống cả thế giới. Không ai tự phát minh ngôn ngữ, phương pháp, gương sống và feedback cần để thấy hết blind spot của mình. Một người bạn lành không sống thay mình; họ giúp mình bớt tự lừa trong lúc vẫn phải tự bước.
+
+Điều này cũng không cấp quyền cho guru. Kalyāṇamitta được nhận ra qua hướng đi: người ấy giúp Bát Chánh Đạo lớn lên, không làm mình lệ thuộc hơn, sợ hãi hơn hoặc phải hy sinh quyền thẩm tra. Một cộng đồng tốt không đòi bạn tắt trí để chứng minh lòng trung thành.
+
+### Không Phóng Dật Là Làm Phần Việc Cần Làm Khi Còn Thời Gian
+
+> [!quote] Lời dạy cuối về không phóng dật — Trường Bộ Kinh
+> Trong lời dạy cuối, Đức Phật nhắc rằng mọi pháp hữu vi đều mang bản chất tan rã và việc cần làm là hoàn thành con đường bằng sự không phóng dật.
+>
+> **Pāli**
+> *vayadhammā saṅkhārā appamādena sampādethā”ti.*
+>
+> **Dịch Việt**
+> “Các pháp hữu vi mang bản chất tan rã; hãy thành tựu bằng sự không phóng dật.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/dn16">DN 16, đoạn 6.7.3</a> · <i>Mahāparinibbāna Sutta</i></small>
+
+Appamāda không phải productivity anxiety. Nó không bảo mình nhồi thêm giờ thiền, ghét nghỉ ngơi hay sống như đang bị chấm điểm. Nó đối lập với trạng thái biết điều quan trọng nhưng cứ trì hoãn vì tưởng mình còn vô hạn thời gian.
+
+Thân sẽ đổi. Người mình yêu sẽ đổi. Cơ hội xin lỗi, giữ giới, học ngồi yên và nhìn một phản ứng trước khi làm hại không ở đó mãi. Không phóng dật là nhớ điều ấy đủ rõ để hôm nay làm một việc thật, thay vì ngày mai tiếp tục tưởng tượng về con người mình sẽ trở thành.
 
 ## 6. Thiết Kế Một Lộ Trình Có Thể Sống Được
 

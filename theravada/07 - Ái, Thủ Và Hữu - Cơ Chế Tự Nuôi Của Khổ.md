@@ -39,6 +39,13 @@ source_license_checked: true
 
 # Ái, Thủ Và Hữu — Cơ Chế Tự Nuôi Của Khổ
 
+<!-- vault-voice-opening:v1 -->
+
+Một cảm giác dễ chịu xuất hiện. Chưa có gì sai. Rồi tâm nói: thêm nữa. Giữ nó lại. Đừng để mất. Chỉ vài nhịp sau, một cảm thọ đã trở thành cơn khát, một thứ “của tôi”, rồi một phiên bản “tôi” phải bảo vệ.
+
+Ái, thủ và hữu không phải ba tên gọi cầu kỳ cho ham muốn. Chúng là ba bước mà một trải nghiệm bình thường tự nuôi thành vòng lặp. Thấy được bước chuyển ấy quan trọng hơn việc tự trách mình có ham muốn.
+
+
 ## 1. Ba Mắt Xích, Không Phải Ba Từ Đồng Nghĩa
 
 ![thọ dẫn đến cơn khát, bàn tay nắm và một căn tính đang thành hình với các mũi tên có điều kiện](../assets/illustrations/theravada-batch2/theravada-07-ba-mat-xich.webp)

@@ -35,6 +35,13 @@ source_license_checked: true
 
 # Sáu Căn Và Sáu Trần — Thế Giới Xuất Hiện Ở Đâu
 
+<!-- vault-voice-opening:v1 -->
+
+Thế giới bạn đang sống không chỉ nằm “ngoài kia”. Nó xuất hiện khi mắt gặp hình, tai gặp tiếng, ý gặp một ký ức — rồi xúc, thọ và phản ứng nối vào. Hai người đứng cùng một phòng có thể đang sống trong hai thế giới rất khác.
+
+Sáu căn không bảo mọi thứ chỉ do tâm tưởng tượng. Chúng chỉ kéo câu hỏi về đúng chỗ kinh nghiệm được sinh ra: cuộc gặp giữa căn, đối tượng và thức. Đó cũng là nơi vòng lặp có thể được nhìn thấy sớm hơn.
+
+
 ## 1. Mười Hai Xứ Và Phạm Vi Của “Tất Cả”
 
 ![sáu cửa mắt tai mũi lưỡi thân ý đối diện sáu trường đối tượng trong một mạng quan hệ](../assets/illustrations/theravada-batch2/theravada-12-muoi-hai-xu.webp)

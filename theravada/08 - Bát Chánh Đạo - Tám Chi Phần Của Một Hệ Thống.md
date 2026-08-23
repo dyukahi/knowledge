@@ -40,6 +40,13 @@ source_license_checked: true
 
 # Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống
 
+<!-- vault-voice-opening:v1 -->
+
+Bát Chánh Đạo hay bị biến thành checklist tám ô. Nhưng đời sống không vận hành như tám app tách biệt: lời nói làm tâm động, sinh kế tạo điều kiện cho định, cách nhìn quyết định mình đang tinh tấn về hướng nào.
+
+Điểm khó không phải nhớ đủ tám chi. Điểm khó là thấy chúng đang nâng nhau hay phá nhau trong một ngày rất bình thường của mình.
+
+
 ## 1. Tám Chi Không Phải Tám Ô Đánh Dấu Một Lần
 ![bánh xe tám nan truyền lực qua vành và trục, không phải tám bậc thang](../assets/illustrations/theravada-batch1/theravada-08-banh-xe-tam-chi.webp)
 
