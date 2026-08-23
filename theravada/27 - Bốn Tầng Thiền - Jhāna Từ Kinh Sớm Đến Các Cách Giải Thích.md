@@ -49,7 +49,8 @@ Bốn tầng thiền trong Kinh là một tiến trình tinh luyện có cấu t
 ![hình tượng tự nhiên diễn giải 1. jhāna nằm trong một lộ trình đạo đức và tỉnh giác không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-27-1-jhana-nam-trong-mot-lo-trinh-ao-uc-va-tinh-gia.webp)
 
 
-**Jhāna — đọc gần đúng “gia-na” — tầng thiền hay trạng thái thiền định** không xuất hiện trong [Lộ trình tu tập tuần tự ở Assapura](https://suttacentral.net/mn39) như một mẹo tập trung tách khỏi đời sống. Trước đoạn bốn tầng thiền là giới, hộ trì căn, niệm-tỉnh giác, biết đủ, tìm nơi ít quấy nhiễu và từ bỏ năm triền cái. [Quả của đời sống xuất gia](https://suttacentral.net/dn2) cũng đặt cùng chuỗi trong “quả của đời sống sa-môn”. Bỏ toàn bộ nền ấy rồi chỉ săn một cảm giác hấp thu là cắt ngọn khỏi rễ.
+<!-- vault-voice-section:v1 -->
+Jhāna được đặt sau giới, phòng hộ và tỉnh giác để người đọc không tách concentration khỏi cách sống đang nuôi tâm. **Jhāna — đọc gần đúng “gia-na” — tầng thiền hay trạng thái thiền định** không xuất hiện trong [Lộ trình tu tập tuần tự ở Assapura](https://suttacentral.net/mn39) như một mẹo tập trung tách khỏi đời sống. Trước đoạn bốn tầng thiền là giới, hộ trì căn, niệm-tỉnh giác, biết đủ, tìm nơi ít quấy nhiễu và từ bỏ năm triền cái. [Quả của đời sống xuất gia](https://suttacentral.net/dn2) cũng đặt cùng chuỗi trong “quả của đời sống sa-môn”. Bỏ toàn bộ nền ấy rồi chỉ săn một cảm giác hấp thu là cắt ngọn khỏi rễ.
 
 Trong Kinh, bốn jhāna là định nghĩa điển hình của **sammāsamādhi — chánh định**. Mỗi tầng không chỉ sâu hơn theo nghĩa ít nghe thấy bên ngoài; sự chuyển đổi quan trọng nằm ở phẩm chất: ly dục và pháp bất thiện; hỷ-lạc; sự lắng của tầm-tứ; xả đối với hỷ; rồi thanh tịnh của niệm nhờ xả, vượt cả lạc và khổ. Đây là một tiến trình giáo dục ham muốn và phản ứng.
 
@@ -75,7 +76,8 @@ Người mới không cần lấy bốn tầng làm hạn chót. Nền tảng an
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn39">MN 39, đoạn 15.2</a> · <i>Mahā-Assapura Sutta</i></small>
 
 
-Sơ thiền bắt đầu bằng **viveka — ly, tách khỏi** dục và trạng thái bất thiện. “Ly dục” ở đây không nhất thiết tuyên bố dục tham đã bị nhổ tận gốc; trong lúc chứng nhập, tâm không bị nó chi phối. Năm triền cái đã được xử lý đủ để đối tượng và phẩm chất lành đứng vững. Vì thế, ép chú ý trong khi sân và tham vẫn gào thét không phải con đường tắt.
+<!-- vault-voice-section:v1 -->
+Sơ thiền bắt đầu bằng ly dục và pháp bất thiện; hỷ lạc là kết quả của điều kiện chứ không phải sensation để chiếm. Sơ thiền bắt đầu bằng **viveka — ly, tách khỏi** dục và trạng thái bất thiện. “Ly dục” ở đây không nhất thiết tuyên bố dục tham đã bị nhổ tận gốc; trong lúc chứng nhập, tâm không bị nó chi phối. Năm triền cái đã được xử lý đủ để đối tượng và phẩm chất lành đứng vững. Vì thế, ép chú ý trong khi sân và tham vẫn gào thét không phải con đường tắt.
 
 **Vitakka** và **vicāra** thường được dịch là tầm và tứ. Chú giải phân chúng như đặt tâm lên đối tượng và duy trì trên đối tượng. Trong ngôn ngữ Kinh, chúng có liên hệ với hoạt động nghĩ và xem xét; chính mức độ còn lại trong sơ thiền là một tâm điểm tranh luận hiện đại. Không nên dịch giản đơn thành “mọi lời nói trong đầu vẫn chạy tự do”, cũng không nên tuyên bố công thức tự chứng minh hoàn toàn không còn nhận biết nào ngoài đối tượng.
 
@@ -101,7 +103,8 @@ Nếu hỷ sinh, biết nó mà không xây căn cước “người đã nhập
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn39">MN 39, đoạn 16.1</a> · <i>Mahā-Assapura Sutta</i></small>
 
 
-Ở nhị thiền, hoạt động tầm-tứ lắng, **ajjhattaṃ sampasādanaṃ** — sự trong sáng hay tin chắc bên trong — và **cetaso ekodibhāvaṃ** — tâm thành một — nổi rõ. Hỷ-lạc bây giờ được gọi là do định sinh, không còn do ly sinh. Chuyển đổi này không phải người tu ghét tầm-tứ rồi cưỡng bức chúng im; khi định chín, phần vận hành thô trở nên không cần thiết.
+<!-- vault-voice-section:v1 -->
+Khi tầm–tứ lắng, nhị thiền cho thấy định sâu lên bằng bớt thao tác chứ không phải thêm nhiều control. Ở nhị thiền, hoạt động tầm-tứ lắng, **ajjhattaṃ sampasādanaṃ** — sự trong sáng hay tin chắc bên trong — và **cetaso ekodibhāvaṃ** — tâm thành một — nổi rõ. Hỷ-lạc bây giờ được gọi là do định sinh, không còn do ly sinh. Chuyển đổi này không phải người tu ghét tầm-tứ rồi cưỡng bức chúng im; khi định chín, phần vận hành thô trở nên không cần thiết.
 
 [Năm phần của chánh định cao quý](https://suttacentral.net/an5.28) ví tầng này với hồ được mạch nước mát từ bên trong làm thấm đầy, không cần dòng vào từ bốn hướng hay mưa. Hình ảnh cho thấy nguồn an ổn nội tại. Nó không dạy đóng cửa với con người hay xem nhu cầu quan hệ là yếu đuối. Trong lúc thiền, tâm không xin kích thích giác quan; ngoài thiền, hành giả vẫn sống bằng tương thuộc, bố thí và trách nhiệm.
 
@@ -127,7 +130,8 @@ Người học nên hỏi thầy: “Trong hệ này, điều kiện vào sơ th
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn39">MN 39, đoạn 17.1</a> · <i>Mahā-Assapura Sutta</i></small>
 
 
-Tam thiền không phải thêm một hiệu ứng mạnh mà là bớt đi sức kích động của hỷ. **Virāga** ở đây là hỷ phai; **upekkhā** xuất hiện cùng niệm và tỉnh giác. Lạc vẫn được cảm nhận bằng thân. Tiến sâu được mô tả bằng tinh lọc, không bằng phô diễn.
+<!-- vault-voice-section:v1 -->
+Tam thiền làm hỷ phai mà lạc vẫn được biết, nhắc rằng bớt kích thích không đồng nghĩa mất sức sống. Tam thiền không phải thêm một hiệu ứng mạnh mà là bớt đi sức kích động của hỷ. **Virāga** ở đây là hỷ phai; **upekkhā** xuất hiện cùng niệm và tỉnh giác. Lạc vẫn được cảm nhận bằng thân. Tiến sâu được mô tả bằng tinh lọc, không bằng phô diễn.
 
 [Năm phần của chánh định cao quý](https://suttacentral.net/an5.28) ví với hồ sen trong đó hoa sinh dưới nước được nước mát thấm từ ngọn đến rễ. Hình ảnh thân thể tiếp tục. Vì vậy, việc coi mọi nhận biết thân là bằng chứng chắc chắn “chưa phải jhāna” cần được nêu như một cách giải thích, không phải kết luận duy nhất từ các ví dụ Kinh. Ngược lại, cảm giác thân dễ chịu bình thường cũng chưa đủ gọi tam thiền; toàn bộ công thức gồm hỷ phai, xả, niệm và tỉnh giác.
 
@@ -152,7 +156,8 @@ Người có tiền sử hưng cảm cần đặc biệt cẩn trọng khi hỷ 
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn39">MN 39, đoạn 18.1</a> · <i>Mahā-Assapura Sutta</i></small>
 
-Tứ thiền vượt cảm thọ lạc và khổ; hỷ tâm và ưu tâm đã lắng. Công thức trung tâm là **upekkhāsatipārisuddhi** — sự thanh tịnh của niệm do xả. Xả không xóa biết; nó làm niệm sạch khỏi thiên vị kéo-đẩy. [Năm phần của chánh định cao quý](https://suttacentral.net/an5.28) ví người ngồi phủ vải trắng từ đầu xuống, toàn thân không chỗ nào không được vải trắng chạm.
+<!-- vault-voice-section:v1 -->
+Tứ thiền vượt lạc–khổ và làm niệm thanh tịnh nhờ xả, không biến hành giả thành người không còn cảm xúc ngoài thiền. Tứ thiền vượt cảm thọ lạc và khổ; hỷ tâm và ưu tâm đã lắng. Công thức trung tâm là **upekkhāsatipārisuddhi** — sự thanh tịnh của niệm do xả. Xả không xóa biết; nó làm niệm sạch khỏi thiên vị kéo-đẩy. [Năm phần của chánh định cao quý](https://suttacentral.net/an5.28) ví người ngồi phủ vải trắng từ đầu xuống, toàn thân không chỗ nào không được vải trắng chạm.
 
 “Không khổ không lạc” là cảm thọ trung tính tinh tế, không phải trầm cảm hay tê. Trầm cảm thường đi với mất năng lượng, tuyệt vọng và suy chức năng; phân ly có thể đi với xa lạ thân và sợ hãi. Tứ thiền được mô tả là tâm thuần tịnh, sáng, có niệm. Dùng nhãn thiền để che bệnh làm trì hoãn chăm sóc.
 
@@ -167,7 +172,8 @@ Ra khỏi định cũng quan trọng. Đứng chậm, cảm nhận chân, uống
 ![hình tượng tự nhiên diễn giải 6. cuộc tranh luận về độ sâu và cách đọc có kỷ luật không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-27-6-cuoc-tranh-luan-ve-o-sau-va-cach-oc-co-ky-luat.webp)
 
 
-[Năm phần của chánh định cao quý](https://suttacentral.net/an5.28) gọi bốn jhāna là bốn phần đầu của “chánh định cao quý có năm chi”; phần thứ năm là dấu hiệu quán xét được nắm và thấu bằng tuệ. Điều này nhắc rằng khả năng xem xét trạng thái là một phần của đào luyện, không chỉ chìm vào đó. Nhưng “quán xét” diễn ra trong hay sau hấp thu và mức nhận biết khi đang nhập vẫn được giải thích khác nhau.
+<!-- vault-voice-section:v1 -->
+Tranh luận độ sâu chỉ hữu ích khi tiêu chuẩn được nói rõ; dùng trải nghiệm cá nhân làm chuẩn phổ quát sẽ không giải được khác biệt. [Năm phần của chánh định cao quý](https://suttacentral.net/an5.28) gọi bốn jhāna là bốn phần đầu của “chánh định cao quý có năm chi”; phần thứ năm là dấu hiệu quán xét được nắm và thấu bằng tuệ. Điều này nhắc rằng khả năng xem xét trạng thái là một phần của đào luyện, không chỉ chìm vào đó. Nhưng “quán xét” diễn ra trong hay sau hấp thu và mức nhận biết khi đang nhập vẫn được giải thích khác nhau.
 
 **Cách đọc hấp thu sâu** dựa nhiều vào hệ thống chú giải: cận định, an chỉ định, tướng và các thiền chi được phân rõ; trong an chỉ, đối tượng giác quan thông thường có thể bị loại mạnh. *Visuddhimagga* là nguồn lớn cho cách đào tạo này. Đây là Theravāda chính thống theo nghĩa truyền thống chú giải, nhưng các chi tiết của nó không nằm nguyên dạng trong [Quả của đời sống xuất gia](https://suttacentral.net/dn2).
 
@@ -193,7 +199,8 @@ Có thêm cách phân biệt “jhāna theo Kinh”, “jhāna theo chú giải�
 > [!warning] Điều chưa chứng minh
 > Hỷ mạnh, ánh sáng, tê thân, mất âm thanh hay bất động riêng lẻ không chứng minh một tầng thiền hoặc thánh quả. Kinh không cho phép nín thở nguy hiểm, bỏ ngủ, bỏ thuốc, xem hưng cảm hay phân ly là chứng nhập, hoặc để giáo thọ thay bác sĩ.
 
-Người có bệnh tim-phổi, động kinh, sang chấn, hoảng, lưỡng cực, loạn thần hoặc đang đổi thuốc nên trao đổi với chuyên gia điều trị trước khóa chuyên sâu. Đau ngực, ngất, co giật, khó thở dữ dội, lú lẫn, nhiều đêm không ngủ hoặc ý định tự hại cần chăm sóc y tế phù hợp, không phải tăng thời lượng ngồi. Giáo thọ hướng dẫn thiền trong phạm vi đào tạo, duy trì đồng thuận và cơ chế khiếu nại; tài liệu này không phải phác đồ y khoa.
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ mô tả Kinh, chuẩn chú giải và claim thực hành ở đúng độ chắc chắn. Người có bệnh tim-phổi, động kinh, sang chấn, hoảng, lưỡng cực, loạn thần hoặc đang đổi thuốc nên trao đổi với chuyên gia điều trị trước khóa chuyên sâu. Đau ngực, ngất, co giật, khó thở dữ dội, lú lẫn, nhiều đêm không ngủ hoặc ý định tự hại cần chăm sóc y tế phù hợp, không phải tăng thời lượng ngồi. Giáo thọ hướng dẫn thiền trong phạm vi đào tạo, duy trì đồng thuận và cơ chế khiếu nại; tài liệu này không phải phác đồ y khoa.
 
 Đọc trước: [[26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi]]. Đọc tiếp: [[28 - Bốn Tâm Vô Lượng Và Upekkhā]].
 

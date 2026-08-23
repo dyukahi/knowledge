@@ -59,7 +59,8 @@ Hơi thở luôn ở đó, nên ta dễ coi nó là kỹ thuật đơn giản nh
 <!-- CHỖ GIỮ HÌNH: người ngồi nơi yên tĩnh nhận biết hơi thở tự nhiên không điều khiển -->
 
 
-**Ānāpānasati — đọc gần đúng “a-na-pa-na-sa-ti” — niệm đối với hơi thở vào và ra** mở bằng việc ngồi ở nơi ít quấy nhiễu, giữ thân ngay và thiết lập niệm. Động từ đầu là hiểu hơi dài hay ngắn, không phải tạo hơi dài hay ngắn. Hơi đang diễn ra trở thành đối tượng học. Đây là khác biệt quan trọng với các bài điều khí, nín hơi hoặc tăng thông khí có mục tiêu sinh lý khác.
+<!-- vault-voice-section:v1 -->
+Trước mười sáu bước, bài Kinh dạy một việc khiêm tốn: biết rõ hơi thở đang dài hay ngắn thay vì vội tạo trải nghiệm đặc biệt. **Ānāpānasati — đọc gần đúng “a-na-pa-na-sa-ti” — niệm đối với hơi thở vào và ra** mở bằng việc ngồi ở nơi ít quấy nhiễu, giữ thân ngay và thiết lập niệm. Động từ đầu là hiểu hơi dài hay ngắn, không phải tạo hơi dài hay ngắn. Hơi đang diễn ra trở thành đối tượng học. Đây là khác biệt quan trọng với các bài điều khí, nín hơi hoặc tăng thông khí có mục tiêu sinh lý khác.
 
 “Rừng, gốc cây, nhà trống” cho thấy giá trị của yên tĩnh, không buộc người thời nay phải vào nơi hoang vắng thiếu an toàn. Một góc phòng thông thoáng, tư thế ổn và thời lượng phù hợp có thể đủ. Người đau lưng không bắt buộc ngồi xếp chân; có thể dùng ghế, đứng hoặc nằm nếu không dễ ngủ. Thân thẳng là điều kiện tỉnh táo, không phải phép thử chịu đau.
 
@@ -87,7 +88,8 @@ Hơi thở đặc biệt vì luôn ở giao điểm tự động và có thể t
 <!-- CHỖ GIỮ HÌNH: bốn bước dài ngắn toàn thân và lắng dịu được xếp thành một nhóm -->
 
 
-Bốn bước đầu là: biết hơi dài; biết hơi ngắn; cảm nhận **sabbakāya**; làm lắng **kāyasaṅkhāra**. “Toàn thân” có tranh luận: toàn bộ thân vật lý hay toàn bộ “thân hơi thở”. Các truyền thống đưa ra cách hướng dẫn khác nhau. [Mười sáu bước niệm hơi thở](https://suttacentral.net/mn118) sau đó gọi hơi thở vào-ra là một thân trong các thân và gọi nó là thân hành, nhưng điều ấy không dứt mọi cách đọc. Bài giữ cả hai khả năng thay vì ép một độc quyền.
+<!-- vault-voice-section:v1 -->
+Bốn bước về thân chuyển từ nhận biết toàn thân hành sang làm nó lắng, nhưng lắng không đồng nghĩa ép hơi thở theo ý chí. Bốn bước đầu là: biết hơi dài; biết hơi ngắn; cảm nhận **sabbakāya**; làm lắng **kāyasaṅkhāra**. “Toàn thân” có tranh luận: toàn bộ thân vật lý hay toàn bộ “thân hơi thở”. Các truyền thống đưa ra cách hướng dẫn khác nhau. [Mười sáu bước niệm hơi thở](https://suttacentral.net/mn118) sau đó gọi hơi thở vào-ra là một thân trong các thân và gọi nó là thân hành, nhưng điều ấy không dứt mọi cách đọc. Bài giữ cả hai khả năng thay vì ép một độc quyền.
 
 Từ bước ba, **sikkhati — vị ấy học, rèn luyện** thay cho chỉ “hiểu”. Có định hướng tu tập, nhưng không nhất thiết là điều khiển cơ học. Cảm nhận toàn thân có thể là mở vùng biết để hơi thở nằm trong toàn trường thân. Nếu hiểu thân hơi thở, có thể biết trọn tiến trình đầu-giữa-cuối. Cả hai cách cần dẫn đến ít căng và sáng rõ hơn, không tạo cuộc vật lộn với phổi.
 
@@ -104,7 +106,8 @@ Không nên lấy lời Kinh làm bài phục hồi hô hấp. Hen, bệnh phổ
 <!-- CHỖ GIỮ HÌNH: bốn bước hỷ lạc tâm hành và lắng dịu như những gợn sóng mềm -->
 
 
-Nhóm hai gồm bước năm đến tám. **Pīti — hỷ** có thể mang tính sinh động, râm ran hay nâng tâm; **sukha — lạc** có sắc thái dễ chịu, an ổn. Không phải ai cũng gặp chúng giống nhau, và không nên sản xuất bằng thở mạnh. Hỷ dữ dội không tự là giác ngộ; lạc yên không phải phần thưởng đạo đức. Chúng là kinh nghiệm được biết và huấn luyện trong tiến trình.
+<!-- vault-voice-section:v1 -->
+Hỷ và lạc có mặt như dữ kiện để biết; săn chúng làm phần thưởng chỉ đưa craving vào ngay giữa bài tập. Nhóm hai gồm bước năm đến tám. **Pīti — hỷ** có thể mang tính sinh động, râm ran hay nâng tâm; **sukha — lạc** có sắc thái dễ chịu, an ổn. Không phải ai cũng gặp chúng giống nhau, và không nên sản xuất bằng thở mạnh. Hỷ dữ dội không tự là giác ngộ; lạc yên không phải phần thưởng đạo đức. Chúng là kinh nghiệm được biết và huấn luyện trong tiến trình.
 
 [Hỏi đáp về thân kiến và thiền](https://suttacentral.net/mn44) giải thích tưởng và thọ là tâm hành; trong [Mười sáu bước niệm hơi thở](https://suttacentral.net/mn118), “cảm nhận tâm hành” thường được đọc theo nền ấy. Người học nhận tác động của thọ và nhận diện lên tâm, rồi làm chúng lắng. Điều này không có nghĩa xóa mọi cảm xúc. Lắng là giảm khuấy động để thấy rõ, không phải tê cảm giác hoặc phân ly.
 
@@ -121,7 +124,8 @@ Người có xu hướng hưng cảm cũng cần thận trọng với thực hà
 <!-- CHỖ GIỮ HÌNH: tâm được nhận biết rồi làm hoan hỷ định tĩnh và cởi mở qua bốn bước -->
 
 
-Nhóm ba là bước chín đến mười hai. Cảm nhận tâm là biết sắc thái toàn cục: sáng hay mờ, co hay rộng, yên hay động. Làm tâm hoan hỷ không nhất thiết kích thích; có thể nhớ giá trị của không hại, nhận một hơi không bị ép, hoặc nới nỗ lực quá căng. Định tĩnh là quy tụ và ổn định, không phải khóa cứng sự chú ý.
+<!-- vault-voice-section:v1 -->
+Nhóm tâm hỏi trạng thái đang thế nào rồi mới làm sáng, định tĩnh và giải thoát, không bắt đầu bằng hình ảnh tâm lý tưởng. Nhóm ba là bước chín đến mười hai. Cảm nhận tâm là biết sắc thái toàn cục: sáng hay mờ, co hay rộng, yên hay động. Làm tâm hoan hỷ không nhất thiết kích thích; có thể nhớ giá trị của không hại, nhận một hơi không bị ép, hoặc nới nỗ lực quá căng. Định tĩnh là quy tụ và ổn định, không phải khóa cứng sự chú ý.
 
 “Giải thoát tâm” ở một bước thực hành cần đọc theo văn cảnh, không vội tuyên bố giải thoát tối hậu. Tâm có thể được giải khỏi triền cái đang trói, khỏi căng, khỏi bám vào một trạng thái. [Mười sáu bước niệm hơi thở](https://suttacentral.net/mn118) ở phần sau mới nối quá trình viên mãn đến minh và giải thoát. Một khoảnh khắc rộng mở không cấp danh hiệu thánh quả.
 
@@ -138,7 +142,8 @@ Giải thoát tâm trong đời thường có thể được kiểm tra sau khi 
 <!-- CHỖ GIỮ HÌNH: bốn bước cuối thấy đổi thay phai dục chấm dứt và đặt xuống -->
 
 
-Nhóm cuối, bước mười ba đến mười sáu, chuyển rõ sang quán tính của pháp. Hơi sinh rồi diệt; cảm giác quanh hơi đổi; hỷ, lạc và định cũng không đứng yên. **Aniccānupassī** không phải lặp chữ “vô thường” mà thấy thay đổi. Khi thấy không thể giữ, **virāga — phai dục, ly tham** có thể xảy ra; khi điều kiện chấm dứt, có **nirodha — đoạn diệt**; **paṭinissagga — buông trả, trao lại** là không chiếm giữ.
+<!-- vault-voice-section:v1 -->
+Vô thường dẫn sang ly tham, đoạn diệt và buông vì cái thấy trưởng thành, không vì hành giả ra lệnh mình phải buông. Nhóm cuối, bước mười ba đến mười sáu, chuyển rõ sang quán tính của pháp. Hơi sinh rồi diệt; cảm giác quanh hơi đổi; hỷ, lạc và định cũng không đứng yên. **Aniccānupassī** không phải lặp chữ “vô thường” mà thấy thay đổi. Khi thấy không thể giữ, **virāga — phai dục, ly tham** có thể xảy ra; khi điều kiện chấm dứt, có **nirodha — đoạn diệt**; **paṭinissagga — buông trả, trao lại** là không chiếm giữ.
 
 Không nên dùng “đoạn diệt” để cổ vũ mong chết hoặc ghét thân. Kinh nói đoạn diệt của điều kiện khổ và chấp thủ, không phải tự hủy. Nếu quán làm tăng ý nghĩ tự hại, dừng thực hành một mình, rời phương tiện nguy hiểm, liên hệ người tin cậy và dịch vụ khẩn cấp địa phương. Một thầy chỉ nói “hãy quán người muốn chết là vô ngã” là không đủ cho nguy cơ cấp tính.
 
@@ -166,7 +171,8 @@ Không có mốc thời gian bảo đảm. Một khóa mười ngày có thể g
 <!-- CHỖ GIỮ HÌNH: mười sáu bước chảy vào bốn niệm xứ rồi bảy giác chi và minh giải thoát -->
 
 
-[Mười sáu bước niệm hơi thở](https://suttacentral.net/mn118) tự giải thích sự nối kết. Nhóm một được xem là quán thân vì hơi vào-ra là một thân trong các thân. Nhóm hai là quán thọ vì chú ý trọn vẹn đến hơi được tính trong thọ. Nhóm ba là quán tâm; Kinh nói không thể phát triển niệm hơi thở nếu niệm lẫn và không hiểu rõ. Nhóm bốn là quán pháp, với việc nhìn tham ưu và buông bằng trí tuệ.
+<!-- vault-voice-section:v1 -->
+Mười sáu bước nối Tứ niệm xứ và giác chi như một tiến trình điều kiện, không như tuyên bố một kỹ thuật thay toàn bộ con đường. [Mười sáu bước niệm hơi thở](https://suttacentral.net/mn118) tự giải thích sự nối kết. Nhóm một được xem là quán thân vì hơi vào-ra là một thân trong các thân. Nhóm hai là quán thọ vì chú ý trọn vẹn đến hơi được tính trong thọ. Nhóm ba là quán tâm; Kinh nói không thể phát triển niệm hơi thở nếu niệm lẫn và không hiểu rõ. Nhóm bốn là quán pháp, với việc nhìn tham ưu và buông bằng trí tuệ.
 
 Sau đó, niệm được thiết lập trở thành giác chi niệm; hành giả thẩm sát pháp thành trạch pháp; tinh tấn sinh; hỷ sinh; thân tâm khinh an; tâm định; tâm xả. Chuỗi không phải bảy vật bí mật được truyền từ ngoài. Các phẩm chất phát triển có điều kiện, được cân bằng và đưa tới biết-thấy. Điều này giải thích vì sao hơi thở không phải mẹo thư giãn đơn lẻ.
 
@@ -194,7 +200,8 @@ Người hướng dẫn phải ở trong phạm vi: dạy văn bản và kỹ n�
 > [!warning] Điều chưa chứng minh
 > Kinh không dạy nín thở, tăng thông khí hay một tỷ lệ hơi bắt buộc; không hứa chữa hen, bệnh tim, hoảng sợ hoặc sang chấn; không bảo bỏ thuốc; không cho phép suy từ hỷ, hơi biến mất hay trạng thái lạ rằng một người đã giác ngộ.
 
-Đọc trước: [[24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm]]. Đọc tiếp: [[26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi]].
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ breathwork hiện đại, sức khỏe hô hấp và mục tiêu giải thoát ở ba phạm vi không bị trộn. Đọc trước: [[24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm]]. Đọc tiếp: [[26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi]].
 
 **Nguồn kinh điển chính xác**
 

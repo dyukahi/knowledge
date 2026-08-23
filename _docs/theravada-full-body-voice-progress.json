@@ -1741,8 +1741,8 @@
           "prose_paragraphs": 5,
           "prose_words": 409,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 2,
@@ -1750,8 +1750,8 @@
           "prose_paragraphs": 5,
           "prose_words": 378,
           "concrete_paragraphs": 3,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 3,
@@ -1759,8 +1759,8 @@
           "prose_paragraphs": 5,
           "prose_words": 376,
           "concrete_paragraphs": 1,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 4,
@@ -1768,8 +1768,8 @@
           "prose_paragraphs": 5,
           "prose_words": 378,
           "concrete_paragraphs": 5,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 5,
@@ -1777,8 +1777,8 @@
           "prose_paragraphs": 5,
           "prose_words": 355,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 6,
@@ -1786,8 +1786,8 @@
           "prose_paragraphs": 5,
           "prose_words": 367,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 7,
@@ -1795,13 +1795,13 @@
           "prose_paragraphs": 3,
           "prose_words": 111,
           "concrete_paragraphs": 0,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         }
       ],
       "section_count": 7,
-      "reviewed_sections": 0,
-      "all_reviewed": false
+      "reviewed_sections": 7,
+      "all_reviewed": true
     },
     {
       "lesson": 26,
@@ -1813,8 +1813,8 @@
           "prose_paragraphs": 4,
           "prose_words": 361,
           "concrete_paragraphs": 2,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 2,
@@ -1822,8 +1822,8 @@
           "prose_paragraphs": 4,
           "prose_words": 348,
           "concrete_paragraphs": 3,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 3,
@@ -1831,8 +1831,8 @@
           "prose_paragraphs": 5,
           "prose_words": 417,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 4,
@@ -1840,8 +1840,8 @@
           "prose_paragraphs": 5,
           "prose_words": 375,
           "concrete_paragraphs": 5,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 5,
@@ -1849,8 +1849,8 @@
           "prose_paragraphs": 5,
           "prose_words": 390,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 6,
@@ -1858,8 +1858,8 @@
           "prose_paragraphs": 5,
           "prose_words": 420,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 7,
@@ -1867,13 +1867,13 @@
           "prose_paragraphs": 4,
           "prose_words": 200,
           "concrete_paragraphs": 3,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         }
       ],
       "section_count": 7,
-      "reviewed_sections": 0,
-      "all_reviewed": false
+      "reviewed_sections": 7,
+      "all_reviewed": true
     },
     {
       "lesson": 27,
@@ -1885,8 +1885,8 @@
           "prose_paragraphs": 5,
           "prose_words": 367,
           "concrete_paragraphs": 3,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 2,
@@ -1894,8 +1894,8 @@
           "prose_paragraphs": 5,
           "prose_words": 394,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 3,
@@ -1903,8 +1903,8 @@
           "prose_paragraphs": 5,
           "prose_words": 373,
           "concrete_paragraphs": 3,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 4,
@@ -1912,8 +1912,8 @@
           "prose_paragraphs": 5,
           "prose_words": 360,
           "concrete_paragraphs": 5,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 5,
@@ -1921,8 +1921,8 @@
           "prose_paragraphs": 5,
           "prose_words": 365,
           "concrete_paragraphs": 3,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 6,
@@ -1930,8 +1930,8 @@
           "prose_paragraphs": 5,
           "prose_words": 365,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 7,
@@ -1939,13 +1939,13 @@
           "prose_paragraphs": 4,
           "prose_words": 187,
           "concrete_paragraphs": 1,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         }
       ],
       "section_count": 7,
-      "reviewed_sections": 0,
-      "all_reviewed": false
+      "reviewed_sections": 7,
+      "all_reviewed": true
     },
     {
       "lesson": 28,
@@ -1957,8 +1957,8 @@
           "prose_paragraphs": 5,
           "prose_words": 337,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 2,
@@ -1966,8 +1966,8 @@
           "prose_paragraphs": 5,
           "prose_words": 362,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 3,
@@ -1975,8 +1975,8 @@
           "prose_paragraphs": 5,
           "prose_words": 332,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 4,
@@ -1984,8 +1984,8 @@
           "prose_paragraphs": 5,
           "prose_words": 331,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 5,
@@ -1993,8 +1993,8 @@
           "prose_paragraphs": 5,
           "prose_words": 364,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 6,
@@ -2002,8 +2002,8 @@
           "prose_paragraphs": 5,
           "prose_words": 385,
           "concrete_paragraphs": 3,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 7,
@@ -2011,13 +2011,13 @@
           "prose_paragraphs": 4,
           "prose_words": 213,
           "concrete_paragraphs": 1,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         }
       ],
       "section_count": 7,
-      "reviewed_sections": 0,
-      "all_reviewed": false
+      "reviewed_sections": 7,
+      "all_reviewed": true
     },
     {
       "lesson": 29,
@@ -2029,8 +2029,8 @@
           "prose_paragraphs": 3,
           "prose_words": 251,
           "concrete_paragraphs": 3,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 2,
@@ -2038,8 +2038,8 @@
           "prose_paragraphs": 4,
           "prose_words": 272,
           "concrete_paragraphs": 4,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 3,
@@ -2047,8 +2047,8 @@
           "prose_paragraphs": 3,
           "prose_words": 237,
           "concrete_paragraphs": 2,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 4,
@@ -2056,8 +2056,8 @@
           "prose_paragraphs": 3,
           "prose_words": 186,
           "concrete_paragraphs": 2,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 5,
@@ -2065,8 +2065,8 @@
           "prose_paragraphs": 1,
           "prose_words": 56,
           "concrete_paragraphs": 1,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 6,
@@ -2074,8 +2074,8 @@
           "prose_paragraphs": 3,
           "prose_words": 208,
           "concrete_paragraphs": 3,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 7,
@@ -2083,13 +2083,13 @@
           "prose_paragraphs": 3,
           "prose_words": 88,
           "concrete_paragraphs": 1,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         }
       ],
       "section_count": 7,
-      "reviewed_sections": 0,
-      "all_reviewed": false
+      "reviewed_sections": 7,
+      "all_reviewed": true
     },
     {
       "lesson": 30,
@@ -2101,8 +2101,8 @@
           "prose_paragraphs": 3,
           "prose_words": 213,
           "concrete_paragraphs": 3,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 2,
@@ -2110,8 +2110,8 @@
           "prose_paragraphs": 3,
           "prose_words": 204,
           "concrete_paragraphs": 3,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 3,
@@ -2119,8 +2119,8 @@
           "prose_paragraphs": 2,
           "prose_words": 156,
           "concrete_paragraphs": 2,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 4,
@@ -2128,8 +2128,8 @@
           "prose_paragraphs": 3,
           "prose_words": 220,
           "concrete_paragraphs": 3,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 5,
@@ -2137,8 +2137,8 @@
           "prose_paragraphs": 3,
           "prose_words": 243,
           "concrete_paragraphs": 3,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 6,
@@ -2146,8 +2146,8 @@
           "prose_paragraphs": 1,
           "prose_words": 74,
           "concrete_paragraphs": 1,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         },
         {
           "index": 7,
@@ -2155,13 +2155,13 @@
           "prose_paragraphs": 4,
           "prose_words": 179,
           "concrete_paragraphs": 2,
-          "reviewed": false,
-          "review_commit": null
+          "reviewed": true,
+          "review_commit": "wave5"
         }
       ],
       "section_count": 7,
-      "reviewed_sections": 0,
-      "all_reviewed": false
+      "reviewed_sections": 7,
+      "all_reviewed": true
     },
     {
       "lesson": 31,
@@ -2601,7 +2601,7 @@
     "sections": 252,
     "prose_paragraphs": 1243,
     "prose_words": 92781,
-    "reviewed_sections": 168
+    "reviewed_sections": 210
   },
   "all_pass": false
 }

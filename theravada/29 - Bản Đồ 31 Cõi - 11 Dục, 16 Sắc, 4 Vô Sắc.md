@@ -70,7 +70,8 @@ Bài này đọc 31 cõi như bản đồ truyền thống về nghiệp, thiề
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn12">MN 12, đoạn 35.3</a> · <i>Mahāsīhanāda Sutta</i></small>
 
-**Gati — đọc gần đúng “ga-ti” — cảnh đến hay hướng tái sinh** trong [Lời tuyên bố lớn về năng lực giác ngộ](https://suttacentral.net/mn12) được trình bày thành năm nhóm rộng. Đây không phải bảng 31 hàng. Chính điểm đơn giản ấy là chìa khóa đọc bài: Kinh sớm có nhiều tên cảnh giới, nhiều nhóm chư thiên và Phạm thiên, nhưng nguồn được dẫn ở đây không gom chúng thành một danh sách 31 cõi hoàn chỉnh.
+<!-- vault-voice-section:v1 -->
+Hai bản đồ cõi cùng nói về saṃsāra nhưng khác độ phân giải, nên ghép chúng như một infographic duy nhất dễ tạo certainty giả. **Gati — đọc gần đúng “ga-ti” — cảnh đến hay hướng tái sinh** trong [Lời tuyên bố lớn về năng lực giác ngộ](https://suttacentral.net/mn12) được trình bày thành năm nhóm rộng. Đây không phải bảng 31 hàng. Chính điểm đơn giản ấy là chìa khóa đọc bài: Kinh sớm có nhiều tên cảnh giới, nhiều nhóm chư thiên và Phạm thiên, nhưng nguồn được dẫn ở đây không gom chúng thành một danh sách 31 cõi hoàn chỉnh.
 
 Con số 31 thuộc một độ phân giải khác. Nó là bản đồ giáo khoa Theravāda hình thành bằng cách hệ thống hóa dữ liệu kinh điển qua Vi Diệu Pháp và truyền thống chú giải. Bản đồ ấy có giá trị nội bộ lớn: nó giúp sắp quan hệ giữa dục, các tầng thiền, quả nghiệp và tái sinh. Giá trị đó không cần được bảo vệ bằng tuyên bố sai rằng [Lời tuyên bố lớn về năng lực giác ngộ](https://suttacentral.net/mn12) tự liệt kê đủ 31 cõi.
 
@@ -80,7 +81,8 @@ Hai sơ đồ cũng trả lời hai câu hỏi khác nhau. Năm **gati** hỏi h
 
 ![hình minh họa biên tập cho 2. mười một cõi dục: nơi dục cảm còn là trục chính](../assets/illustrations/theravada-batch5/theravada-29-2-2-muoi-mot-coi-duc-noi-duc-cam-con-la-truc-chinh.webp)
 
-**Kāmaloka — đọc gần đúng “kaa-ma-lô-ka” — dục giới** là nhãn hệ thống chỉ các cảnh nơi dục cảm vẫn giữ vai trò cấu trúc. Theo bảng 31 truyền thống, mười một cõi này gồm bốn đọa xứ, cõi người và sáu cõi trời dục. “Dục” ở đây không chỉ có tình dục; nó chỉ sức hút của các đối tượng giác quan và sự tìm khoái lạc qua chúng.
+<!-- vault-voice-section:v1 -->
+Mười một cõi dục khác nhau rất xa về lạc–khổ, nhưng còn chung việc dục cảm giữ vai trò trục. **Kāmaloka — đọc gần đúng “kaa-ma-lô-ka” — dục giới** là nhãn hệ thống chỉ các cảnh nơi dục cảm vẫn giữ vai trò cấu trúc. Theo bảng 31 truyền thống, mười một cõi này gồm bốn đọa xứ, cõi người và sáu cõi trời dục. “Dục” ở đây không chỉ có tình dục; nó chỉ sức hút của các đối tượng giác quan và sự tìm khoái lạc qua chúng.
 
 Bốn đọa xứ thường được kể là địa ngục, súc sinh, ngạ quỷ và a-tu-la. Cõi người đứng riêng. Sáu cõi trời dục được hệ thống hóa từ nhiều tên xuất hiện rải rác trong Kinh: Tứ Đại Thiên Vương, Tam Thập Tam, Dạ-ma, Đâu-suất, Hóa Lạc và Tha Hóa Tự Tại. Đây là **lớp Vi Diệu Pháp/chú giải** khi chúng được xếp thành đúng một tổng số 11.
 
@@ -103,7 +105,8 @@ Không nên biến mười một cõi thành địa lý vật chất mà khoa h�
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/an4.123">AN 4.123, các đoạn 1.3, 1.5</a> · <i>Paṭhamanānākaraṇa Sutta</i></small>
 
-**Rūpaloka — đọc gần đúng “ruu-pa-lô-ka” — sắc giới** trong hệ thống 31 cõi gồm mười sáu cảnh Phạm thiên. [Các tầng thiền dẫn đến những tái sinh khác nhau](https://suttacentral.net/an4.123) là một mỏ neo Kinh sớm quan trọng: bài kinh nối sơ thiền với tái sinh giữa **brahmakāyika — chúng Phạm thiên**, rồi nối các jhāna sau với những nhóm khác. Nó chứng minh rằng quan hệ giữa định và cảnh Phạm thiên không phải hoàn toàn do sách giáo khoa muộn sáng tạo.
+<!-- vault-voice-section:v1 -->
+Mười sáu cõi sắc liên hệ jhāna theo hệ truyền thống, không phải thang máy nơi một lần đạt trạng thái tự động đặt vé tái sinh. **Rūpaloka — đọc gần đúng “ruu-pa-lô-ka” — sắc giới** trong hệ thống 31 cõi gồm mười sáu cảnh Phạm thiên. [Các tầng thiền dẫn đến những tái sinh khác nhau](https://suttacentral.net/an4.123) là một mỏ neo Kinh sớm quan trọng: bài kinh nối sơ thiền với tái sinh giữa **brahmakāyika — chúng Phạm thiên**, rồi nối các jhāna sau với những nhóm khác. Nó chứng minh rằng quan hệ giữa định và cảnh Phạm thiên không phải hoàn toàn do sách giáo khoa muộn sáng tạo.
 
 Nhưng [Các tầng thiền dẫn đến những tái sinh khác nhau](https://suttacentral.net/an4.123) không tự đưa ra bảng mười sáu hàng. Cách chia ba cảnh tương ứng sơ thiền, ba cảnh tương ứng nhị thiền, ba cảnh tương ứng tam thiền, rồi bảy cảnh liên hệ tứ thiền là **sự hệ thống hóa Theravāda hậu kỳ**. Trong bảy cảnh cuối có các cõi Tịnh Cư dành cho bậc bất lai theo cách trình bày truyền thống.
 
@@ -113,7 +116,8 @@ Không nên đọc quan hệ này như máy bán vé: có một trải nghiệm 
 
 ![hình minh họa biên tập cho 4. bốn cõi vô sắc: đối tượng tinh tế vẫn thuộc hữu](../assets/illustrations/theravada-batch5/theravada-29-4-4-bon-coi-vo-sac-oi-tuong-tinh-te-van-thuoc-huu.webp)
 
-**Arūpaloka — đọc gần đúng “a-ruu-pa-lô-ka” — vô sắc giới** gồm bốn cảnh tương ứng bốn chứng đạt vô sắc: không gian vô biên, thức vô biên, vô sở hữu và phi tưởng phi phi tưởng. Tên các chứng này có mặt trong Kinh; việc đóng chúng thành bốn cõi cuối của bảng 31 là cách tổ chức Vi Diệu Pháp/chú giải.
+<!-- vault-voice-section:v1 -->
+Bốn cõi vô sắc tinh tế đến đâu vẫn là hữu có điều kiện, nên refinement chưa phải lối ra khỏi saṃsāra. **Arūpaloka — đọc gần đúng “a-ruu-pa-lô-ka” — vô sắc giới** gồm bốn cảnh tương ứng bốn chứng đạt vô sắc: không gian vô biên, thức vô biên, vô sở hữu và phi tưởng phi phi tưởng. Tên các chứng này có mặt trong Kinh; việc đóng chúng thành bốn cõi cuối của bảng 31 là cách tổ chức Vi Diệu Pháp/chú giải.
 
 “Vô sắc” không có nghĩa linh hồn thuần khiết thoát khỏi nhân quả. Trong Theravāda, đây vẫn là **bhava — hữu, sự hiện hữu có điều kiện**; tuổi thọ dù cực dài vẫn kết thúc. Một trạng thái không có kinh nghiệm thân thể theo mô tả truyền thống không trở thành Nibbāna. Bài 32 sẽ xử lý riêng đường biên này.
 
@@ -132,13 +136,15 @@ Cũng không nên đồng nhất bốn vô sắc với hôn mê, gây mê, phân
 > [!example] Diễn giải hiện đại của bài
 > Cách gọi “độ phân giải”, cách đặt hai bản đồ cạnh nhau và các cảnh báo về địa lý vật chất là công cụ sư phạm hiện đại. Chúng giúp tránh lẫn nguồn, không phải thuật ngữ nguyên văn của [Lời tuyên bố lớn về năng lực giác ngộ](https://suttacentral.net/mn12) hay [Các tầng thiền dẫn đến những tái sinh khác nhau](https://suttacentral.net/an4.123).
 
-Phân tầng không nhằm hạ thấp Vi Diệu Pháp. Một truyền thống có quyền phát triển hệ thống nhất quán từ kho văn bản của mình. Kỷ luật chỉ yêu cầu gọi đúng tên: canonical không đồng nghĩa Kinh sớm; chú giải được tôn trọng không đồng nghĩa nguyên văn lời Phật trong một bài kinh.
+<!-- vault-voice-section:v1 -->
+Kinh sớm, Vi Diệu Pháp và chú giải đóng góp các lớp khác nhau cho bản đồ31 cõi; provenance là phần của nội dung chứ không phải footnote. Phân tầng không nhằm hạ thấp Vi Diệu Pháp. Một truyền thống có quyền phát triển hệ thống nhất quán từ kho văn bản của mình. Kỷ luật chỉ yêu cầu gọi đúng tên: canonical không đồng nghĩa Kinh sớm; chú giải được tôn trọng không đồng nghĩa nguyên văn lời Phật trong một bài kinh.
 
 ## 6. Dùng Bản Đồ Để Tu, Không Dùng Nó Để Suy Đoán Người Khác
 
 ![hình minh họa biên tập cho 6. dùng bản đồ để tu, không dùng nó để suy đoán người khác](../assets/illustrations/theravada-batch5/theravada-29-6-6-dung-ban-o-e-tu-khong-dung-no-e-suy-oan-nguoi-khac.webp)
 
-Giá trị thực hành trực tiếp nhất của bản đồ là phá ảo tưởng rằng khoái lạc, tuổi thọ và định sâu đồng nghĩa giải thoát. Mọi mục trong 31 cõi đều thuộc saṃsāra. Câu hỏi không chỉ là “làm sao lên cao?” mà là tham, sân, si có đang được nuôi không và con đường chấm dứt chúng có đang được thực hành không.
+<!-- vault-voice-section:v1 -->
+Dùng bản đồ để xét hướng nghiệp và sự không bền của hữu; dùng nó để đoán người chết ở đâu chỉ phóng imagination thành authority. Giá trị thực hành trực tiếp nhất của bản đồ là phá ảo tưởng rằng khoái lạc, tuổi thọ và định sâu đồng nghĩa giải thoát. Mọi mục trong 31 cõi đều thuộc saṃsāra. Câu hỏi không chỉ là “làm sao lên cao?” mà là tham, sân, si có đang được nuôi không và con đường chấm dứt chúng có đang được thực hành không.
 
 Không ai có đủ căn cứ từ bệnh tật, nghèo khó, khuyết tật hay hoàn cảnh sinh để kết luận nghiệp quá khứ hoặc “cõi trước” của người khác. Kamma trong Kinh không phải giấy phép quy lỗi nạn nhân. Khi một người khổ, nhiệm vụ trước mắt là không hại, giúp trong năng lực và hành động công bằng; không phải dựng tiểu sử siêu hình cho họ.
 
@@ -160,7 +166,8 @@ Nếu chọn tiếp nhận vũ trụ luận này theo niềm tin Theravāda, hã
 > [!warning] Điều chưa chứng minh
 > Kính thiên văn, vật chất tối, cơ học lượng tử, hồi quy tiền kiếp hoặc cảm giác trong thiền không chứng minh bảng 31 cõi. Bản đồ không chứng minh linh hồn, bardo, “ma trận nhà tù”, địa vị bẩm sinh hay quyền phán nghiệp của người khác.
 
-Đọc trước: [[28 - Bốn Tâm Vô Lượng Và Upekkhā]]. Đọc tiếp: [[30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ]].
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ cosmology như claim truyền thống có kỷ luật, không cosplay science và không ép người đọc giả mức tin. Đọc trước: [[28 - Bốn Tâm Vô Lượng Và Upekkhā]]. Đọc tiếp: [[30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ]].
 
 **Nguồn kinh điển chính xác**
 

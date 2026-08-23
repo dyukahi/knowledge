@@ -48,7 +48,8 @@ Samatha và vipassanā trả lời hai nhu cầu có thể nâng nhau: tâm đ�
 ![hình tượng tự nhiên diễn giải 1. hai phẩm chất của một con đường, không phải hai giáo phái không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-26-1-hai-pham-chat-cua-mot-con-uong-khong-phai-hai-.webp)
 
 
-**Samatha — đọc gần đúng “sa-ma-tha” — sự lắng yên, an tịnh** và **vipassanā — “vi-pát-sa-na” — thấy rõ, quán sáng** thường được nói như tên hai “loại thiền”. Cách nói ấy tiện cho việc tổ chức khóa học, nhưng dễ khiến người mới tưởng Đức Phật lập hai con đường cạnh tranh: một bên chỉ tập trung, một bên chỉ quan sát. [Bốn cách phối hợp chỉ và quán](https://suttacentral.net/an4.170) mở theo hướng khác. Tôn giả Ānanda nói về bốn cách vận hành dẫn đến sự sinh khởi của đạo; ba cách đầu đều liên hệ chỉ và quán, chỉ khác thứ tự hoặc sự phối hợp.
+<!-- vault-voice-section:v1 -->
+Chỉ và quán là hai phẩm chất tâm cần học, không phải hai giáo phái cần chứng minh bên kia sai. **Samatha — đọc gần đúng “sa-ma-tha” — sự lắng yên, an tịnh** và **vipassanā — “vi-pát-sa-na” — thấy rõ, quán sáng** thường được nói như tên hai “loại thiền”. Cách nói ấy tiện cho việc tổ chức khóa học, nhưng dễ khiến người mới tưởng Đức Phật lập hai con đường cạnh tranh: một bên chỉ tập trung, một bên chỉ quan sát. [Bốn cách phối hợp chỉ và quán](https://suttacentral.net/an4.170) mở theo hướng khác. Tôn giả Ānanda nói về bốn cách vận hành dẫn đến sự sinh khởi của đạo; ba cách đầu đều liên hệ chỉ và quán, chỉ khác thứ tự hoặc sự phối hợp.
 
 Trong văn cảnh này, chỉ là phẩm chất tâm ổn, lắng và quy tụ; quán là năng lực thấy các pháp theo thực tại, nhất là thấy điều kiện sinh-diệt và không đáng chấp. Một tâm liên tục tán loạn khó nhìn sâu. Một tâm yên nhưng không học thấy tham, vô thường và chấp thủ có thể chỉ ở trong trạng thái dễ chịu. Vì thế, câu hỏi thực dụng không phải “tôi thuộc phe nào?” mà là “phẩm chất nào đang thiếu và sự tu tập này có giảm trói buộc không?”
 
@@ -72,7 +73,8 @@ Tựa bài hỏi “có thật sự tách đôi?” Câu trả lời cần giữ
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/an4.170">AN 4.170, đoạn 3.2–3.5</a> · <i>Yuganaddha Sutta</i></small>
 
 
-Đường thứ nhất quen thuộc: xây sự an định rồi dùng tâm ấy để thấy rõ. **Pubbaṅgama** nghĩa là đi trước hay dẫn đầu, không nhất thiết nói chỉ phải hoàn tất đến một chuẩn duy nhất trước khi bất kỳ tuệ nào được phép xuất hiện. Ngay khi biết mình tán loạn và trở lại đối tượng, một mức thấy rõ đã có mặt; tuy vậy, toàn thể giai đoạn có thể được mô tả là lấy an tịnh làm phần chuẩn bị nổi bật.
+<!-- vault-voice-section:v1 -->
+Khi samatha đi trước, sự yên tạo nền cho thấy nhưng có thể thành nơi trú nếu không được soi bằng tuệ. Đường thứ nhất quen thuộc: xây sự an định rồi dùng tâm ấy để thấy rõ. **Pubbaṅgama** nghĩa là đi trước hay dẫn đầu, không nhất thiết nói chỉ phải hoàn tất đến một chuẩn duy nhất trước khi bất kỳ tuệ nào được phép xuất hiện. Ngay khi biết mình tán loạn và trở lại đối tượng, một mức thấy rõ đã có mặt; tuy vậy, toàn thể giai đoạn có thể được mô tả là lấy an tịnh làm phần chuẩn bị nổi bật.
 
 Hơi thở, tâm từ, một biến xứ hoặc niệm thân có thể làm đối tượng tùy truyền thống và năng lực. Khi năm triền cái yếu đi, tâm bớt chạy theo dục, sân, hôn trầm, trạo hối và nghi. Sự ổn định ấy cho phép quan sát cảm thọ, tâm trạng và pháp hữu vi mà không lập tức bị cuốn đi. Nhưng chính [Bốn cách phối hợp chỉ và quán](https://suttacentral.net/an4.170) nói tiếp “phát triển quán”; nó không cho phép đồng nhất một trạng thái yên với việc nhổ tận gốc kiết sử.
 
@@ -96,7 +98,8 @@ Ngược lại, không nên hạ thấp định là “chỉ thư giãn”. Tron
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/an4.170">AN 4.170, đoạn 4.1–4.4</a> · <i>Yuganaddha Sutta</i></small>
 
 
-Đường thứ hai đảo thứ tự. Một người thấy trực tiếp sự thay đổi của cảm giác, nhận ra ý nghĩ không phải mệnh lệnh, hoặc hiểu hậu quả của tham; cái thấy ấy làm giảm nắm giữ, nhờ vậy tâm lắng. Đây không phải giấy phép cho tâm tán loạn tự gọi mình là “quán thuần”. Quán đúng nghĩa phải làm suy yếu mê lầm; nếu việc ghi nhận chỉ tạo căng, tốc độ và phán xét, cần xem lại cách dùng nỗ lực.
+<!-- vault-voice-section:v1 -->
+Khi vipassanā đi trước, thấy rõ tính sinh–diệt có thể làm tâm lắng vì nó bớt chống và bớt nắm. Đường thứ hai đảo thứ tự. Một người thấy trực tiếp sự thay đổi của cảm giác, nhận ra ý nghĩ không phải mệnh lệnh, hoặc hiểu hậu quả của tham; cái thấy ấy làm giảm nắm giữ, nhờ vậy tâm lắng. Đây không phải giấy phép cho tâm tán loạn tự gọi mình là “quán thuần”. Quán đúng nghĩa phải làm suy yếu mê lầm; nếu việc ghi nhận chỉ tạo căng, tốc độ và phán xét, cần xem lại cách dùng nỗ lực.
 
 Kinh không giải thích ở đây quán đi trước bắt đầu với mức định nào. Vì mọi nhận biết liên tục đều cần một độ ổn định, “quán trước” không đồng nghĩa hoàn toàn không có định. Nó chỉ cho thấy thứ tự phát triển không đơn tuyến. Một bài học đạo đức sâu, một lần thấy sân đốt cháy chính mình, hay sự quan sát sinh-diệt có thể khiến tâm thôi chạy và tự quy tụ.
 
@@ -122,7 +125,8 @@ Nếu thực hành mở rộng quan sát khiến hồi tưởng sang chấn trà
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/an4.170">AN 4.170, đoạn 5.1–5.4</a> · <i>Yuganaddha Sutta</i></small>
 
 
-**Yuganaddha — cùng ghép vào một ách, đi đôi** gợi hai sức cùng kéo một cỗ xe. Hình ảnh không đòi hai phẩm chất có cường độ bằng nhau trong từng sát-na. Trong một buổi, tâm có thể quy tụ, nhìn sự đổi thay, lại quy tụ sâu hơn rồi buông một chấp trước. Toàn tiến trình là phối hợp vì yên và thấy nâng đỡ nhau.
+<!-- vault-voice-section:v1 -->
+Cùng ách nghĩa phối hợp trong con đường, không bắt hai phẩm chất xuất hiện bằng nhau ở mọi giây thực hành. **Yuganaddha — cùng ghép vào một ách, đi đôi** gợi hai sức cùng kéo một cỗ xe. Hình ảnh không đòi hai phẩm chất có cường độ bằng nhau trong từng sát-na. Trong một buổi, tâm có thể quy tụ, nhìn sự đổi thay, lại quy tụ sâu hơn rồi buông một chấp trước. Toàn tiến trình là phối hợp vì yên và thấy nâng đỡ nhau.
 
 Ví dụ, với hơi thở, biết liên tục làm tâm lắng; đồng thời, đầu-cuối mỗi hơi, ý muốn sửa hơi và cảm giác dễ chịu đều hiện ra như quá trình có điều kiện. Nếu chỉ phân tích, sự liên tục vỡ. Nếu chỉ dính vào êm, vô thường bị bỏ qua. Giữ đối tượng đủ thân mật mà không chiếm hữu là cách hiểu thực hành về “cùng ách”, nhưng đây là gợi ý, không phải bản hướng dẫn nguyên văn của [Bốn cách phối hợp chỉ và quán](https://suttacentral.net/an4.170).
 
@@ -137,7 +141,8 @@ Học với một giáo thọ có năng lực giúp phân biệt hôn trầm v�
 ![hình tượng tự nhiên diễn giải 5. đường thứ tư và tâm bị dao động bởi pháp không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-26-5-uong-thu-tu-va-tam-bi-dao-ong-boi-phap.webp)
 
 
-Đường thứ tư khó dịch hơn ba đường đầu. Cụm **dhammuddhaccaviggahitaṃ mānasaṃ** đã nhận nhiều giải thích. Bản văn tự nói điểm chuyển: tâm vốn bị dao động rồi đứng vững bên trong, lắng, nhất tâm và định. Chú giải liên hệ sự dao động này với các hiện tượng hay khuyết điểm có thể xuất hiện trong quá trình quán. Cần giữ hai lớp: câu Pāli có thật; danh sách kỹ thuật chi tiết thuộc giải thích hậu kỳ.
+<!-- vault-voice-section:v1 -->
+Đường thứ tư nhắc rằng có lúc chính insight làm tâm dao động, và việc cần làm là ổn định thay vì ép thêm insight. Đường thứ tư khó dịch hơn ba đường đầu. Cụm **dhammuddhaccaviggahitaṃ mānasaṃ** đã nhận nhiều giải thích. Bản văn tự nói điểm chuyển: tâm vốn bị dao động rồi đứng vững bên trong, lắng, nhất tâm và định. Chú giải liên hệ sự dao động này với các hiện tượng hay khuyết điểm có thể xuất hiện trong quá trình quán. Cần giữ hai lớp: câu Pāli có thật; danh sách kỹ thuật chi tiết thuộc giải thích hậu kỳ.
 
 Không nên lãng mạn hóa bất ổn tâm thần thành đường thứ tư. Mất ngủ nhiều đêm, hoang tưởng bị truy đuổi, nghe tiếng sai khiến, hành vi nguy hiểm, hưng phấn không kiểm soát hay ý định tự hại cần hỗ trợ y tế khẩn thích hợp. Một cụm Kinh khó không phải chẩn đoán, và giáo thọ không có quyền bảo người bệnh ngừng thuốc để “tâm tự lắng”. Thiền có thể tạm giảm hoặc dừng trong kế hoạch chăm sóc.
 
@@ -152,7 +157,8 @@ Khi tâm cuối cùng “đứng vững ngay bên trong”, chỉ không còn l�
 ![hình tượng tự nhiên diễn giải 6. tách dòng truyền: kinh sớm, chú giải và theravāda hiện đại không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-26-6-tach-dong-truyen-kinh-som-chu-giai-va-theravad.webp)
 
 
-[Sáu căn không có lõi tự ngã bền chắc](https://suttacentral.net/sn35.204) dùng ví dụ thân chuối không có lõi bền chắc trong một bài giảng về sáu căn, sáu trần và sự rỗng của tự ngã. Nó không phải cẩm nang đặt tên hai kỹ thuật, nhưng cho thấy hướng của quán: điều tra cái đang bị chấp là “tôi” hoặc “của tôi” và không tìm thấy lõi thường còn. Dùng bài này bên cạnh [Bốn cách phối hợp chỉ và quán](https://suttacentral.net/an4.170) giúp tránh rút “quán” thành chỉ ghi nhãn cảm giác mà quên mục tiêu tháo chấp.
+<!-- vault-voice-section:v1 -->
+Kinh sớm, chú giải và các dòng Theravāda hiện đại dùng hai từ này với kiến trúc khác nhau; gọi đúng tầng làm tranh luận bớt giả. [Sáu căn không có lõi tự ngã bền chắc](https://suttacentral.net/sn35.204) dùng ví dụ thân chuối không có lõi bền chắc trong một bài giảng về sáu căn, sáu trần và sự rỗng của tự ngã. Nó không phải cẩm nang đặt tên hai kỹ thuật, nhưng cho thấy hướng của quán: điều tra cái đang bị chấp là “tôi” hoặc “của tôi” và không tìm thấy lõi thường còn. Dùng bài này bên cạnh [Bốn cách phối hợp chỉ và quán](https://suttacentral.net/an4.170) giúp tránh rút “quán” thành chỉ ghi nhãn cảm giác mà quên mục tiêu tháo chấp.
 
 Lớp **Kinh sớm** cho ta [Bốn cách phối hợp chỉ và quán](https://suttacentral.net/an4.170) với bốn đường và nhiều bài khác trong đó định-tuệ cùng nằm trong đạo. Kinh không trao một giáo trình duy nhất cho mọi căn cơ. Đây là nền chung để đánh giá các tuyên bố sau này, không phải lý do phủ nhận mọi phát triển của truyền thống.
 
@@ -178,7 +184,8 @@ Tách dòng truyền không nhằm quyết định lớp muộn là vô giá tr�
 > [!warning] Điều chưa chứng minh
 > Nhãn “chỉ”, “quán”, “khô quán” hay “cùng ách” không tự chứng minh thánh quả; trải nghiệm mạnh không thay giới hạnh. Kinh không bảo chịu hoảng loạn, phân ly, hưng cảm hay loạn thần, không cho giáo thọ thay bác sĩ và không cho phép ngừng thuốc hoặc trị liệu.
 
-Thực hành ở mức vừa phải, ngủ và ăn đủ, không lái xe ngay nếu còn choáng hoặc mất định hướng. Người có sang chấn, rối loạn hoảng, lưỡng cực, loạn thần, động kinh hay bệnh nặng nên trao đổi với bác sĩ hoặc chuyên gia điều trị và một giáo thọ hiểu giới hạn chuyên môn. Khi có ý định tự hại, không thể giữ an toàn, đau ngực, ngất hoặc lú lẫn cấp, hãy dừng thiền và dùng dịch vụ khẩn cấp địa phương. Tài liệu này không phải chẩn đoán hay phác đồ điều trị.
+<!-- vault-voice-section:v1 -->
+Nguồn và safety cuối bài chặn việc dùng cường độ thiền để vượt qua dấu hiệu hoảng, phân ly hoặc hưng cảm. Thực hành ở mức vừa phải, ngủ và ăn đủ, không lái xe ngay nếu còn choáng hoặc mất định hướng. Người có sang chấn, rối loạn hoảng, lưỡng cực, loạn thần, động kinh hay bệnh nặng nên trao đổi với bác sĩ hoặc chuyên gia điều trị và một giáo thọ hiểu giới hạn chuyên môn. Khi có ý định tự hại, không thể giữ an toàn, đau ngực, ngất hoặc lú lẫn cấp, hãy dừng thiền và dùng dịch vụ khẩn cấp địa phương. Tài liệu này không phải chẩn đoán hay phác đồ điều trị.
 
 Đọc trước: [[25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở]]. Đọc tiếp: [[27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích]].
 

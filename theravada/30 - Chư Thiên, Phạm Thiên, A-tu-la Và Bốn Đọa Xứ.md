@@ -48,7 +48,8 @@ Trong vũ trụ Phật giáo, chư thiên vẫn chết, Phạm thiên vẫn có 
 
 ![hình minh họa biên tập cho 1. deva không đồng nghĩa thượng đế sáng tạo](../assets/illustrations/theravada-batch5/theravada-30-1-1-deva-khong-ong-nghia-thuong-e-sang-tao.webp)
 
-**Deva — đọc gần đúng “đê-va” — thiên hay vị trời** là một hạng hữu tình trong vũ trụ luận Kinh Pāli, không phải từ mặc định chỉ một Thượng đế duy nhất, toàn năng và sáng tạo mọi vật. Chư thiên có thể sống lâu, có lạc và năng lực khác người, nhưng vẫn thuộc sinh tử. Họ xuất hiện như người nghe Pháp, người hộ trì, người còn tham-sân-si hoặc nhân vật trong truyện giáo giới.
+<!-- vault-voice-section:v1 -->
+Deva là chúng sinh trong saṃsāra, nên dịch ngay thành Thượng Đế sáng tạo sẽ mang một theology khác vào trước khi đọc. **Deva — đọc gần đúng “đê-va” — thiên hay vị trời** là một hạng hữu tình trong vũ trụ luận Kinh Pāli, không phải từ mặc định chỉ một Thượng đế duy nhất, toàn năng và sáng tạo mọi vật. Chư thiên có thể sống lâu, có lạc và năng lực khác người, nhưng vẫn thuộc sinh tử. Họ xuất hiện như người nghe Pháp, người hộ trì, người còn tham-sân-si hoặc nhân vật trong truyện giáo giới.
 
 Điểm này giúp tránh hai phép đồng nhất vội. Một là dịch mọi **deva** thành “God”, rồi gắn toàn bộ thần học sáng tạo vào Kinh. Hai là hạ tất cả xuống thành “ẩn dụ tâm lý” dù văn bản kể họ như tác nhân trong vũ trụ luận. Đọc có kỷ luật trước hết ghi nhận thể loại và cách Kinh tự trình bày, sau đó mới nói mình tin, đình chỉ phán đoán hay diễn giải biểu tượng.
 
@@ -69,7 +70,8 @@ Trong bản đồ 31 cõi, “chư thiên” là từ rộng: sáu nhóm trời 
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn49">MN 49, các đoạn 4.1, 4.2</a> · <i>Brahmanimantanika Sutta</i></small>
 
-**Brahmā — đọc gần đúng “brăm-maa” — Phạm thiên** có thể chỉ một hạng hữu tình cao hoặc tên gọi một nhân vật trong Phạm giới. Trong [Ảo tưởng của Phạm thiên Baka](https://suttacentral.net/mn49), Baka cho cảnh giới của mình là thường còn, bền vững và không còn lối thoát nào cao hơn. Đức Phật không xác nhận tuyên bố ấy; Ngài gọi nó là vô minh.
+<!-- vault-voice-section:v1 -->
+Baka Brahmā minh họa một nguy cơ rất người: sống lâu và có quyền dễ khiến giới hạn của mình trông như toàn bộ thực tại. **Brahmā — đọc gần đúng “brăm-maa” — Phạm thiên** có thể chỉ một hạng hữu tình cao hoặc tên gọi một nhân vật trong Phạm giới. Trong [Ảo tưởng của Phạm thiên Baka](https://suttacentral.net/mn49), Baka cho cảnh giới của mình là thường còn, bền vững và không còn lối thoát nào cao hơn. Đức Phật không xác nhận tuyên bố ấy; Ngài gọi nó là vô minh.
 
 Văn cảnh vì vậy bác cách dùng Baka làm bằng chứng cho một Đấng sáng tạo toàn tri. Bài Kinh mô tả một hữu tình quyền lực nhưng nhận thức bị giới hạn bởi cư trú quá lâu và quên nguồn gốc trước đó. Cao hơn người không đồng nghĩa tuyệt đối; sống lâu không đồng nghĩa bất tử; được tùy tùng tôn kính không đồng nghĩa thấy đúng.
 
@@ -90,7 +92,8 @@ Văn cảnh vì vậy bác cách dùng Baka làm bằng chứng cho một Đấn
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn130">MN 130, đoạn 2.2</a> · <i>Devadūta Sutta</i></small>
 
-[Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130) nêu trời, người, ngạ quỷ, loài vật và địa ngục trong một đoạn nhân quả đạo đức. Trọng tâm là **yathākammūpaga — đi theo nghiệp**, không phải một linh hồn bị vị thần xét xử và chuyển phòng. Nghiệp được mô tả qua hành vi thân, lời và ý cùng kiến chấp; bài không thiết lập “sổ điểm vũ trụ” có một quản trị viên toàn năng.
+<!-- vault-voice-section:v1 -->
+Các cảnh đến giữ trọng tâm ở tác ý và hậu quả; chúng không phải horror map để người giảng dọa người nghe phục tùng. [Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130) nêu trời, người, ngạ quỷ, loài vật và địa ngục trong một đoạn nhân quả đạo đức. Trọng tâm là **yathākammūpaga — đi theo nghiệp**, không phải một linh hồn bị vị thần xét xử và chuyển phòng. Nghiệp được mô tả qua hành vi thân, lời và ý cùng kiến chấp; bài không thiết lập “sổ điểm vũ trụ” có một quản trị viên toàn năng.
 
 Đoạn Kinh không cấp cho người đọc năng lực chẩn đoán cảnh tái sinh của cá nhân. Ta không được nhìn một tai nạn, bệnh tật hay nghèo khó rồi tuyên bố đó là quả của một tội cụ thể. Các kinh khác cũng cảnh báo tính phức tạp của quả nghiệp. Giá trị gần nhất là xem lựa chọn hiện tại của chính mình, không biến vũ trụ luận thành công cụ làm nhục người đang khổ.
 
@@ -109,7 +112,8 @@ Văn cảnh vì vậy bác cách dùng Baka làm bằng chứng cho một Đấn
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn11.1">SN 11.1, các đoạn 2.1, 2.3, 2.4</a> · <i>Suvīra Sutta</i></small>
 
-**Asura — đọc gần đúng “a-su-ra” — a-tu-la** trong [Các bài kinh về Sakka, chư thiên và a-tu-la](https://suttacentral.net/sn11) xuất hiện như một tập thể đối địch với chư thiên trong vũ trụ luận tự sự. Họ không đơn giản là Satan hay một chủng quỷ ác tuyệt đối. Các truyện trong phẩm này dùng chiến tranh, quyền lực, nhẫn nhục và lãnh đạo để dạy; không phải mọi hành vi của phe trời vì thế đều tự động thành chuẩn đạo đức.
+<!-- vault-voice-section:v1 -->
+A-tu-la là đối thủ trong một cấu trúc truyện và nghiệp, không phải bản thể ác tuyệt đối miễn mọi khả năng thay đổi. **Asura — đọc gần đúng “a-su-ra” — a-tu-la** trong [Các bài kinh về Sakka, chư thiên và a-tu-la](https://suttacentral.net/sn11) xuất hiện như một tập thể đối địch với chư thiên trong vũ trụ luận tự sự. Họ không đơn giản là Satan hay một chủng quỷ ác tuyệt đối. Các truyện trong phẩm này dùng chiến tranh, quyền lực, nhẫn nhục và lãnh đạo để dạy; không phải mọi hành vi của phe trời vì thế đều tự động thành chuẩn đạo đức.
 
 Trong bảng 31 cõi Theravāda phổ biến, a-tu-la được đặt trong bốn đọa xứ. Đây là **lớp Vi Diệu Pháp/chú giải**. [Tinh tấn giữa cuộc chiến trời và a-tu-la](https://suttacentral.net/sn11.1) cho thấy deva và asura là hai lớp đối thủ trong truyện, nhưng ba segment không tự nói “a-tu-la là hàng thứ tư trong bảng 31”. Ghép hai nguồn được phép khi nhãn xuất xứ vẫn còn nhìn thấy.
 
@@ -119,7 +123,8 @@ Không nên đồng nhất a-tu-la với người ngoài tôn giáo, kẻ thù c
 
 ![hình minh họa biên tập cho 5. bốn đọa xứ: khổ không phải bản án vĩnh viễn](../assets/illustrations/theravada-batch5/theravada-30-5-5-bon-oa-xu-kho-khong-phai-ban-an-vinh-vien.webp)
 
-**Apāya — đọc gần đúng “a-paa-ya” — cảnh suy đọa hay đọa xứ** trong hệ thống truyền thống gồm địa ngục, súc sinh, ngạ quỷ và a-tu-la. [Lời tuyên bố lớn về năng lực giác ngộ](https://suttacentral.net/mn12) và [Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130) nêu ba nhóm đầu rõ trong danh sách cảnh đến; việc đặt a-tu-la làm mục thứ tư trong một bộ cố định thuộc hệ thống Theravāda được chuẩn hóa về sau.
+<!-- vault-voice-section:v1 -->
+Bốn đọa xứ mô tả khổ nặng nhưng không phải địa ngục vĩnh cửu do một vị thần kết án. **Apāya — đọc gần đúng “a-paa-ya” — cảnh suy đọa hay đọa xứ** trong hệ thống truyền thống gồm địa ngục, súc sinh, ngạ quỷ và a-tu-la. [Lời tuyên bố lớn về năng lực giác ngộ](https://suttacentral.net/mn12) và [Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130) nêu ba nhóm đầu rõ trong danh sách cảnh đến; việc đặt a-tu-la làm mục thứ tư trong một bộ cố định thuộc hệ thống Theravāda được chuẩn hóa về sau.
 
 Địa ngục Theravāda không phải án vĩnh cửu do một đấng sáng tạo tuyên. Quả khổ có thể kéo dài nhưng hữu hạn theo điều kiện nghiệp. Súc sinh là một cảnh tái sinh, không phải lý do coi động vật chỉ như đồ vật. Ngạ quỷ được triển khai phong phú trong *Petavatthu* và chú giải; không phải mọi chuyện người chết đều là dữ kiện lịch sử có thể kiểm tra. A-tu-la gắn với xung đột, ganh cạnh và thất thế trong nhiều cách kể.
 
@@ -138,7 +143,8 @@ Ngôn ngữ “đọa” dễ bị lạm dụng để gây sợ. Bài học đ�
 > [!example] Diễn giải hiện đại
 > Có thể dùng các nhân vật như gương soi cho kiêu mạn, ganh cạnh hoặc thiếu thốn, nhưng đó là phép đọc ứng dụng. Nó không chứng minh các cảnh chỉ là trạng thái tâm, cũng không chứng minh chúng là địa điểm vật lý.
 
-Khoa học hiện đại không phải trọng tài xác nhận hay bác bỏ bằng vài phép so sánh tùy tiện. Tâm lý học về quyền lực có thể làm rõ một mẫu hành vi, nhưng không chứng minh Baka tồn tại. Thiên văn học không tìm thấy “tọa độ” cũng không tự bác một vũ trụ luận tái sinh; đồng thời, vật chất tối và đa vũ trụ không hề chứng minh chư thiên.
+<!-- vault-voice-section:v1 -->
+Provenance giúp mình đọc các cảnh giới vừa nghiêm túc vừa không giả rằng từng hình ảnh đã được xác nhận bằng phương pháp hiện đại. Khoa học hiện đại không phải trọng tài xác nhận hay bác bỏ bằng vài phép so sánh tùy tiện. Tâm lý học về quyền lực có thể làm rõ một mẫu hành vi, nhưng không chứng minh Baka tồn tại. Thiên văn học không tìm thấy “tọa độ” cũng không tự bác một vũ trụ luận tái sinh; đồng thời, vật chất tối và đa vũ trụ không hề chứng minh chư thiên.
 
 ## 7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc
 
@@ -156,7 +162,8 @@ Khoa học hiện đại không phải trọng tài xác nhận hay bác bỏ b�
 > [!warning] Điều chưa chứng minh
 > Ba bài Kinh không chứng minh một Thượng đế sáng tạo, linh hồn, bardo, “ma trận nhà tù”, quỷ tuyệt đối hay quyền đoán nghiệp người khác. Tâm lý học, thiên văn, vật lý lượng tử, trải nghiệm cận tử và trải nghiệm thiền không được dùng làm bằng chứng thay văn bản.
 
-Nếu giáo lý địa ngục bị dùng để đe dọa, cưỡng phục, lấy tiền, cắt chăm sóc y tế hoặc giữ ai trong quan hệ bạo lực, hãy ưu tiên an toàn và tìm hỗ trợ thích hợp. Một giáo thọ không có quyền tuyên bố chắc chắn cảnh tái sinh của học viên hay người thân họ. Nỗi sợ dai dẳng, hoảng loạn hoặc ý nghĩ tự hại cần hỗ trợ sức khỏe tâm thần hay dịch vụ khẩn cấp địa phương, không phải tăng hình ảnh trừng phạt.
+<!-- vault-voice-section:v1 -->
+Nguồn và safety cuối bài chặn fear porn, quy nghiệp cho nạn nhân và dùng cosmology thay chăm sóc thực tế. Nếu giáo lý địa ngục bị dùng để đe dọa, cưỡng phục, lấy tiền, cắt chăm sóc y tế hoặc giữ ai trong quan hệ bạo lực, hãy ưu tiên an toàn và tìm hỗ trợ thích hợp. Một giáo thọ không có quyền tuyên bố chắc chắn cảnh tái sinh của học viên hay người thân họ. Nỗi sợ dai dẳng, hoảng loạn hoặc ý nghĩ tự hại cần hỗ trợ sức khỏe tâm thần hay dịch vụ khẩn cấp địa phương, không phải tăng hình ảnh trừng phạt.
 
 Đọc trước: [[29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc]]. Đọc tiếp: [[31 - Bốn Thánh Quả Và Mười Kiết Sử]].
 
