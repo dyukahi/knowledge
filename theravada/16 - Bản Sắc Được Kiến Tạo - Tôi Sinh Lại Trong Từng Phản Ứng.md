@@ -46,7 +46,8 @@ Thấy bản sắc được kiến tạo không bắt mình sống vô danh. Nó
 
 ![nhiều vòng đồng nhất sở hữu chứa và nằm trong quấn quanh năm uẩn, không có lõi người tí hon](../assets/illustrations/theravada-batch2/theravada-16-cau-truc-ban-sac.webp)
 
-**Sakkāyadiṭṭhi — đọc gần đúng “sắc-ca-ya-đít-thi” — thân kiến, quan điểm về một tự thân hay căn tính trên năm thủ uẩn** không chỉ là câu triết học “tôi có linh hồn”. [Thân bệnh nhưng tâm không nhất thiết bệnh — Tương Ưng Bộ Kinh](https://suttacentral.net/sn22.1) và [Hỏi đáp về thân kiến và thiền — Trung Bộ Kinh](https://suttacentral.net/mn44) phân tích nó thành những cách rất cụ thể để đặt “tôi” quanh mỗi uẩn.
+<!-- vault-voice-section:v1 -->
+‘Tôi là’ nghe như một sự thật đơn, nhưng có thể được tháo thành nhiều cách uẩn bị xem là tôi, của tôi hoặc nằm trong tôi. **Sakkāyadiṭṭhi — đọc gần đúng “sắc-ca-ya-đít-thi” — thân kiến, quan điểm về một tự thân hay căn tính trên năm thủ uẩn** không chỉ là câu triết học “tôi có linh hồn”. [Thân bệnh nhưng tâm không nhất thiết bệnh — Tương Ưng Bộ Kinh](https://suttacentral.net/sn22.1) và [Hỏi đáp về thân kiến và thiền — Trung Bộ Kinh](https://suttacentral.net/mn44) phân tích nó thành những cách rất cụ thể để đặt “tôi” quanh mỗi uẩn.
 
 Với sắc, người không được học có thể xem sắc là tự ngã; tự ngã sở hữu sắc; sắc nằm trong tự ngã; hoặc tự ngã nằm trong sắc. Bốn vị trí lặp với thọ, tưởng, hành và thức, thành hai mươi dạng thân kiến. Đây không phải hai mươi linh hồn khác nhau mà là ma trận của đồng nhất, sở hữu và quan hệ chứa đựng.
 
@@ -82,7 +83,8 @@ Với sắc, người không được học có thể xem sắc là tự ngã; t
 
 ![lưới năm hàng uẩn và bốn cột là sở hữu chứa trong được chứa đồng nhất](../assets/illustrations/theravada-batch2/theravada-16-hai-muoi-vi-tri.webp)
 
-Cột thứ nhất là đồng nhất: “sắc là tự ngã”, “thọ là tự ngã”. Trong đời thường: “tôi chính là cơ thể này”, “tôi là cảm giác buồn này”, “tôi là ký ức và quan điểm này”. Mô tả quy ước không luôn là tà kiến; dấu hiệu chấp là khi thay đổi của một thuộc tính được trải như sự hủy toàn bộ người.
+<!-- vault-voice-section:v1 -->
+Hai mươi cách dựng tự ngã không nhằm tăng vocabulary; chúng cho thấy mind linh hoạt thế nào trong việc tìm chỗ mới để bám. Cột thứ nhất là đồng nhất: “sắc là tự ngã”, “thọ là tự ngã”. Trong đời thường: “tôi chính là cơ thể này”, “tôi là cảm giác buồn này”, “tôi là ký ức và quan điểm này”. Mô tả quy ước không luôn là tà kiến; dấu hiệu chấp là khi thay đổi của một thuộc tính được trải như sự hủy toàn bộ người.
 
 > [!quote] Kinh về thân bệnh nhưng tâm không nhất thiết bệnh — Tương Ưng Bộ Kinh
 > Đoạn Kinh nêu rằng người ấy xem sắc là tự ngã, hoặc xem tự ngã có sắc, hoặc sắc ở trong tự ngã, hoặc tự ngã ở trong sắc.
@@ -109,7 +111,8 @@ Không cần thuộc lòng hai mươi như giáo lý số học. Chọn một ch
 
 ![một thuộc tính đổi làm vòng bản sắc co thắt, trong khi năm dòng kinh nghiệm vẫn tiếp tục](../assets/illustrations/theravada-batch2/theravada-16-uan-doi-can-tinh-dau.webp)
 
-[Thân bệnh nhưng tâm không nhất thiết bệnh](https://suttacentral.net/sn22.1) nối thân kiến với đau tâm rất trực tiếp. Người xem sắc là tự ngã sống bị ám bởi ý tưởng ấy; sắc biến đổi thì sầu, than, đau, ưu và tuyệt vọng sinh. Cùng công thức áp cho thọ, tưởng, hành, thức. Uẩn đổi là điều bình thường; căn tính đòi nó không đổi nên bị thương.
+<!-- vault-voice-section:v1 -->
+Khi một uẩn đổi, căn tính đau không chỉ vì mất đối tượng mà vì cấu trúc ‘tôi phải là thế này’ bị đe dọa. [Thân bệnh nhưng tâm không nhất thiết bệnh](https://suttacentral.net/sn22.1) nối thân kiến với đau tâm rất trực tiếp. Người xem sắc là tự ngã sống bị ám bởi ý tưởng ấy; sắc biến đổi thì sầu, than, đau, ưu và tuyệt vọng sinh. Cùng công thức áp cho thọ, tưởng, hành, thức. Uẩn đổi là điều bình thường; căn tính đòi nó không đổi nên bị thương.
 
 Một vận động viên chấn thương có đau thân, mất nghề và khó khăn kinh tế thật. Nếu sắc còn là toàn bộ “tôi”, chấn thương thêm phán quyết “tôi không còn là ai”. Giáo pháp không phủ nhận ba mất mát đầu và không bảo chỉ đổi thái độ. Nó nhận diện tầng đồng nhất để người ấy có thể chăm thân, thương tiếc và xây đời mà không tự xóa.
 
@@ -125,7 +128,8 @@ Trong quan hệ, bản sắc tập thể cũng vận hành: “phe tôi”, “g
 
 ![năm thủ uẩn nối ái nguồn sinh, đoạn ái và bánh xe con đường theo cấu trúc bốn đế](../assets/illustrations/theravada-batch2/theravada-16-tu-de-cua-ban-sac.webp)
 
-Dhammadinnā trả lời bốn câu theo cấu trúc Tứ Đế. Sakkāya là năm thủ uẩn; nguồn sinh là ái dẫn đến tái hữu, đi cùng hỷ và tham, tìm vui chỗ này chỗ kia—dục ái, hữu ái, phi hữu ái. Đoạn diệt là ly tham và đoạn ái không dư; con đường là Bát Chánh Đạo.
+<!-- vault-voice-section:v1 -->
+Sakkāya sinh khi năm thủ uẩn được nắm, nên đoạn diệt không phải xóa người mà là tháo quan hệ sở hữu đang dựng người đặc cứng. Dhammadinnā trả lời bốn câu theo cấu trúc Tứ Đế. Sakkāya là năm thủ uẩn; nguồn sinh là ái dẫn đến tái hữu, đi cùng hỷ và tham, tìm vui chỗ này chỗ kia—dục ái, hữu ái, phi hữu ái. Đoạn diệt là ly tham và đoạn ái không dư; con đường là Bát Chánh Đạo.
 
 Như vậy, bản sắc không chỉ do câu chuyện ngôn ngữ. Câu chuyện mạnh vì ái đầu tư: muốn được thấy như thế, muốn tiếp tục là thế, muốn diệt điều trái nhãn. Chỉ sửa câu tự thoại mà không chạm cơn khát có thể thay một thương hiệu tôi bằng thương hiệu khác.
 
@@ -141,7 +145,8 @@ Tiêu đề “sinh lại” vì phản ứng dựng hữu nhỏ: tôi trở th�
 
 ![hai khung tách biệt một bên thân kiến kinh điển một bên tự sự hiện đại, nối bằng nét đứt cộng hưởng không bằng chứng](../assets/illustrations/theravada-batch2/theravada-16-narrative-self-so-sanh.webp)
 
-Trong tâm lý học và triết học hiện đại, “cái tôi tự sự” thường chỉ cảm giác về bản thân được duy trì bằng ký ức, câu chuyện và vai trò. Khái niệm này cộng hưởng với việc tưởng, hành và chấp tạo căn tính. Nó có thể giúp người đọc nhận ra bản sắc không phải khối tự nhiên bất biến.
+<!-- vault-voice-section:v1 -->
+So sánh với cái tôi tự sự có thể mở đối thoại, nhưng similarity không biến psychology hiện đại thành bằng chứng cho toàn bộ anattā. Trong tâm lý học và triết học hiện đại, “cái tôi tự sự” thường chỉ cảm giác về bản thân được duy trì bằng ký ức, câu chuyện và vai trò. Khái niệm này cộng hưởng với việc tưởng, hành và chấp tạo căn tính. Nó có thể giúp người đọc nhận ra bản sắc không phải khối tự nhiên bất biến.
 
 Nhưng cái tôi tự sự không đồng nghĩa sakkāyadiṭṭhi. [Hỏi đáp về thân kiến và thiền](https://suttacentral.net/mn44) phân tích hai mươi vị trí quanh năm uẩn và đặt chúng trong Tứ Đế, tái hữu, ly tham. Mô hình hiện đại thường có mục tiêu sức khỏe, tính nhất quán hoặc triết học tâm, không nhất thiết giải thoát khỏi tái sinh. Hai hệ có thể đối thoại nhưng không chứng minh nhau.
 
@@ -157,7 +162,8 @@ Cộng hưởng tốt đặt câu hỏi mới và giữ khác biệt; cộng hư
 
 ![sổ tay ghi kích thích uẩn vị trí chấp ái hành động và hậu quả trong một vòng phản ứng](../assets/illustrations/theravada-batch2/theravada-16-ban-do-phan-ung.webp)
 
-Chọn một phản ứng vừa xảy ra. Viết kích thích kiểm được: câu nói, email, đau thân. Ghi uẩn nổi bật: sắc, thọ, tưởng, hành, thức. Ghi vị trí chấp: “uẩn là tôi”, “tôi sở hữu uẩn”, “uẩn trong tôi” hay “tôi trong uẩn”. Không cần tìm đủ bốn.
+<!-- vault-voice-section:v1 -->
+Bản đồ một phản ứng giúp thấy identity được lắp theo thời gian thật, nơi mình vẫn còn khả năng đổi điều kiện. Chọn một phản ứng vừa xảy ra. Viết kích thích kiểm được: câu nói, email, đau thân. Ghi uẩn nổi bật: sắc, thọ, tưởng, hành, thức. Ghi vị trí chấp: “uẩn là tôi”, “tôi sở hữu uẩn”, “uẩn trong tôi” hay “tôi trong uẩn”. Không cần tìm đủ bốn.
 
 Tiếp theo ghi ái: muốn có khoái lạc, muốn trở thành ai, muốn biến mất điều gì. Ghi hành động sắp làm và hậu quả có thể. Ví dụ lời chê tạo khổ thọ; tưởng đặt nhãn thất bại; “tôi là thất bại” đồng nhất; phi hữu ái muốn trốn; hành định cắt quan hệ. Chỉ khi mở chuỗi, lựa chọn khác mới hiện.
 
@@ -185,7 +191,8 @@ Nếu bài tập chạm sang chấn mạnh, dừng và tìm hỗ trợ. Không d
 > [!warning] Điều chưa chứng minh
 > Hai đoạn kinh trụ cột không nói mỗi phản ứng là một đời sinh học, không bảo câu chuyện bản thân hoàn toàn xấu và không chứng minh anattā bằng khoa học thần kinh. Không có lõi tự ngã không đồng nghĩa con người, trách nhiệm hay đau khổ không tồn tại.
 
-Đọc trước: [[theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì|Vô Ngã — Đức Phật Phủ Định Điều Gì?]]. Đọc tiếp: [[17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt|Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt]].
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài khóa ranh giới giữa Kinh, giải thích Theravāda và mô hình self hiện đại. Đọc trước: [[theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì|Vô Ngã — Đức Phật Phủ Định Điều Gì?]]. Đọc tiếp: [[17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt|Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt]].
 
 **Nguồn kinh điển chính xác**
 

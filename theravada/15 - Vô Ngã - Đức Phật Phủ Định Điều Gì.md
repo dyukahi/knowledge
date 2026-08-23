@@ -46,7 +46,8 @@ Nghe “vô ngã”, nhiều người lập tức tưởng Phật giáo đang n�
 
 ![năm uẩn đi qua ba câu của tôi tôi tự ngã của tôi, không rơi vào hố hư vô hay ngai chân ngã](../assets/illustrations/theravada-batch2/theravada-15-ba-cau-tham-tra.webp)
 
-**Anattā — đọc gần đúng “a-nát-ta” — không phải tự ngã, vô ngã** thường bị kéo về hai khẩu hiệu đối nghịch. Một bên nói “không có tôi, không có gì tồn tại”; bên kia nói “chỉ cái tôi giả mất, còn chân ngã thuần khiết”. [Năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh](https://suttacentral.net/sn22.59) không trình bày hai học thuyết ấy. Nó áp một phép thẩm tra vào năm uẩn.
+<!-- vault-voice-section:v1 -->
+Anattā hoạt động tốt nhất như câu hỏi kiểm tra sự nắm, không như khẩu hiệu để tuyên bố đời vô nghĩa. **Anattā — đọc gần đúng “a-nát-ta” — không phải tự ngã, vô ngã** thường bị kéo về hai khẩu hiệu đối nghịch. Một bên nói “không có tôi, không có gì tồn tại”; bên kia nói “chỉ cái tôi giả mất, còn chân ngã thuần khiết”. [Năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh](https://suttacentral.net/sn22.59) không trình bày hai học thuyết ấy. Nó áp một phép thẩm tra vào năm uẩn.
 
 Với sắc, thọ, tưởng, hành và thức, bài kinh hỏi: thường còn hay vô thường; cái vô thường là lạc hay dukkha; cái vô thường, dukkha và chịu biến đổi có thích hợp xem “đây là của tôi, đây là tôi, đây là tự ngã của tôi” không. Câu trả lời là không. Kết quả thực hành là yếm ly, ly tham và giải thoát, không phải tuyệt vọng.
 
@@ -82,7 +83,8 @@ Do đó, bài học không biến anattā thành câu trả lời lý thuyết p
 
 ![ba thấu kính đổi thay sức ép và không thể ra lệnh soi qua từng uẩn](../assets/illustrations/theravada-batch2/theravada-15-vo-thuong-dukkha-quyen.webp)
 
-[Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) bắt đầu bằng khả năng điều khiển. Nếu sắc là tự ngã, nó không dẫn đến bệnh và ta có thể ra lệnh sắc hãy thế này, đừng thế kia. Nhưng sắc dẫn đến khổ và không tuân quyền như vậy. Công thức lặp với bốn uẩn còn lại. Đây không phải nói ta hoàn toàn bất lực; nó phân biệt ảnh hưởng tương đối với quyền tối hậu.
+<!-- vault-voice-section:v1 -->
+Ba dữ kiện vô thường, dukkha và không dưới quyền làm lộ khoảng cách giữa khả năng ảnh hưởng và giấc mơ kiểm soát tuyệt đối. [Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) bắt đầu bằng khả năng điều khiển. Nếu sắc là tự ngã, nó không dẫn đến bệnh và ta có thể ra lệnh sắc hãy thế này, đừng thế kia. Nhưng sắc dẫn đến khổ và không tuân quyền như vậy. Công thức lặp với bốn uẩn còn lại. Đây không phải nói ta hoàn toàn bất lực; nó phân biệt ảnh hưởng tương đối với quyền tối hậu.
 
 Ta có thể tập thân, điều chỉnh môi trường, nuôi trạng thái tâm và học kỹ năng. Nhưng không thể lệnh thân đừng già, thọ chỉ lạc, tưởng không bao giờ sai, hành luôn thiện, thức không gián đoạn. Chính vì uẩn tùy điều kiện, tác động điều kiện mới có tác dụng. Anattā không triệt tiêu thực hành; nó giải thích vì sao thực hành là huấn luyện thay vì mệnh lệnh của linh hồn.
 
@@ -109,7 +111,8 @@ Kết quả là ly tham, không phải ghét uẩn. Yếm ly trong văn cảnh g
 
 ![hai thẻ dịch không phải tự ngã và vô ngã đặt dưới cùng công thức Pāli, không thẻ nào thành tín điều](../assets/illustrations/theravada-batch2/theravada-15-not-self-no-self.webp)
 
-Trong tiếng Anh, “not-self” nhấn thao tác: các uẩn không thích hợp nhận là self. “No-self” nhấn kết luận giáo lý: không có tự ngã thường hằng trong những gì được khảo sát. Tiếng Việt “vô ngã” quen thuộc nhưng dễ bị nghe thành “không có người”, còn “không phải tự ngã” bám sát công thức quán hơn.
+<!-- vault-voice-section:v1 -->
+Tranh luận not-self/no-self quan trọng khi nó làm rõ phạm vi dịch, nhưng vô ích nếu chỉ tạo hai camp mới để bản ngã trú vào. Trong tiếng Anh, “not-self” nhấn thao tác: các uẩn không thích hợp nhận là self. “No-self” nhấn kết luận giáo lý: không có tự ngã thường hằng trong những gì được khảo sát. Tiếng Việt “vô ngã” quen thuộc nhưng dễ bị nghe thành “không có người”, còn “không phải tự ngã” bám sát công thức quán hơn.
 
 Peter Harvey nhấn mạnh mạng khái niệm tự ngã và tính tiếp nối trong Kinh sớm; Bhikkhu Bodhi bảo vệ việc vô ngã là đặc tính phổ quát chứ không chỉ chiến lược tránh trả lời; Ṭhānissaro Bhikkhu thường nhấn “not-self” như chiến lược thực hành. Đây là khác biệt diễn giải có tên. Không nên lấy một khẩu hiệu dịch thuật làm đồng thuận duy nhất.
 
@@ -125,7 +128,8 @@ Tranh luận dịch nên được giữ khiêm tốn. Ngữ pháp, văn cảnh v
 
 ![con đường nhân quả và giới đi qua khoảng không của tự ngã bất biến, vẫn nối hành động với hậu quả](../assets/illustrations/theravada-batch2/theravada-15-khong-hu-vo.webp)
 
-Nếu “không có tự ngã thường hằng” bị đổi thành “không có gì”, nhân quả và con đường mất nghĩa. Nhưng Kinh nói người hành thiện, người chịu quả, người tu và người giải thoát bằng ngôn ngữ quy ước. Duyên khởi mô tả điều kiện và hậu quả. Không cần một vật bất biến để quan hệ nhân quả có hiệu lực.
+<!-- vault-voice-section:v1 -->
+Không có tự ngã bất biến không xóa người bị đau, quyền được bảo vệ hay trách nhiệm của hành động trong ngôn ngữ quy ước. Nếu “không có tự ngã thường hằng” bị đổi thành “không có gì”, nhân quả và con đường mất nghĩa. Nhưng Kinh nói người hành thiện, người chịu quả, người tu và người giải thoát bằng ngôn ngữ quy ước. Duyên khởi mô tả điều kiện và hậu quả. Không cần một vật bất biến để quan hệ nhân quả có hiệu lực.
 
 Ví dụ, lời nói hôm nay làm thay đổi tin cậy ngày mai. Người hôm nay và ngày mai không đồng nhất tuyệt đối, cũng không hoàn toàn khác không liên hệ. Ký ức, thân, quan hệ và hậu quả nối tiếp. Anattā ngăn biến tính liên tục thành linh hồn; nó không cắt đứt liên tục.
 
@@ -141,7 +145,8 @@ Thực hành đúng có thể làm lòng bi tăng: nếu bản sắc của tôi 
 
 ![năm lớp uẩn mở ra nhưng trung tâm không chứa ngai vàng hay người quan sát vĩnh cửu](../assets/illustrations/theravada-batch2/theravada-15-khong-chan-nga-an.webp)
 
-Sau khi thấy thân và tâm đổi, nhiều người giữ lại “cái biết” không đổi. Nhưng thức là một trong năm uẩn và được [Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) xử lý y hệt. Bài 14 cho thấy [Thức sinh theo điều kiện](https://suttacentral.net/mn38) bác chính thức ấy chạy xuyên. Không có căn cứ trong hai đoạn kinh trụ cột để gọi người quan sát thuần túy là tự ngã thật.
+<!-- vault-voice-section:v1 -->
+Nếu năm uẩn không phải tự ngã, việc bí mật đặt một chân ngã ngoài chúng chỉ chuyển sự bám sang nơi khó kiểm hơn. Sau khi thấy thân và tâm đổi, nhiều người giữ lại “cái biết” không đổi. Nhưng thức là một trong năm uẩn và được [Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) xử lý y hệt. Bài 14 cho thấy [Thức sinh theo điều kiện](https://suttacentral.net/mn38) bác chính thức ấy chạy xuyên. Không có căn cứ trong hai đoạn kinh trụ cột để gọi người quan sát thuần túy là tự ngã thật.
 
 Một số ngôn ngữ thiền nói “trở về người biết”. Nó có thể là chỉ dẫn tạm giúp bớt dính nội dung. Kỷ luật nguồn yêu cầu không biến chỉ dẫn phương tiện thành bản thể: nếu “người biết” được tuyên bố thường hằng, độc lập và sở hữu trải nghiệm, nó trở lại đối tượng phép quán.
 
@@ -157,7 +162,8 @@ Một phép kiểm đơn giản: “chân ngã” được đề xuất có th�
 
 ![sổ tay đặt ba câu sở hữu đồng nhất nền tự ngã cạnh một phản ứng cụ thể](../assets/illustrations/theravada-batch2/theravada-15-thuc-hanh-ba-cau.webp)
 
-Chọn một đồng nhất không quá nhạy: “tôi là người thông minh”, “tôi luôn điềm tĩnh”, “đây là cơ thể của tôi”. Xác định uẩn liên hệ. Hình ảnh thân thuộc sắc; lạc khi được khen thuộc thọ; nhãn “thông minh” thuộc tưởng; nỗ lực bảo vệ thuộc hành; nhận biết lời khen thuộc thức.
+<!-- vault-voice-section:v1 -->
+Ba câu sở hữu là dụng cụ soi một phản ứng cụ thể, không phải thần chú bắt mình phủ nhận cảm giác đang có. Chọn một đồng nhất không quá nhạy: “tôi là người thông minh”, “tôi luôn điềm tĩnh”, “đây là cơ thể của tôi”. Xác định uẩn liên hệ. Hình ảnh thân thuộc sắc; lạc khi được khen thuộc thọ; nhãn “thông minh” thuộc tưởng; nỗ lực bảo vệ thuộc hành; nhận biết lời khen thuộc thức.
 
 Hỏi “của tôi” nghĩa gì: quyền chăm sóc quy ước hay đòi kiểm soát tuyệt đối? Hỏi “tôi” nghĩa gì: một mô tả tiện hay toàn bộ bản chất? Hỏi “tự ngã của tôi” nghĩa gì: có đang giả định một chủ thể bền chắc đứng sau? Không ép đáp án; quan sát mức căng khi nhãn bị đe dọa.
 
@@ -185,7 +191,8 @@ Nếu thực hành tạo trống rỗng đáng sợ, quay về giới, thân, ng
 > [!warning] Điều chưa chứng minh
 > Anattā không chứng minh hư vô, không xóa người quy ước, nhân quả, trách nhiệm hay phẩm giá. Hai đoạn kinh trụ cột không xác nhận linh hồn, người biết thường hằng, Nibbāna như chân ngã, hoặc ý thức vũ trụ nằm ngoài năm uẩn.
 
-Đọc trước: [[theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn|Viññāṇa — Thức Không Phải Linh Hồn]]. Đọc tiếp: [[theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng|Bản Sắc Được Kiến Tạo — Tôi Sinh Lại Trong Từng Phản Ứng]].
+<!-- vault-voice-section:v1 -->
+Phần nguồn giữ vô ngã trong nhiệm vụ ly tham và giải thoát, không kéo nó thành nihilism hoặc science claim. Đọc trước: [[theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn|Viññāṇa — Thức Không Phải Linh Hồn]]. Đọc tiếp: [[theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng|Bản Sắc Được Kiến Tạo — Tôi Sinh Lại Trong Từng Phản Ứng]].
 
 **Nguồn kinh điển chính xác**
 

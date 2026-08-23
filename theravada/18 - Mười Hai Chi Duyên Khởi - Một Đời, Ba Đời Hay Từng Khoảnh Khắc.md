@@ -49,7 +49,8 @@ Bài này không ép ba ống kính thành một. Nó xem mỗi cách đọc gi�
 ![hình tượng tự nhiên diễn giải 1. một danh sách, nhiều phạm vi đọc mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-18-1-mot-danh-sach-nhieu-pham-vi-oc.webp)
 
 
-Người học duyên khởi thường gặp ba câu trả lời chắc nịch. Một bên nói mười hai chi chỉ mô tả ba đời: vô minh và hành ở quá khứ, các chi giữa ở hiện tại, sinh–già chết ở tương lai. Bên khác nói tất cả xảy ra trong một đời tâm lý. Bên thứ ba nói trọn chuỗi vận hành trong từng sát-na. Nếu mỗi bên đặt mô hình của mình vào miệng kinh mà không ghi xuất xứ, người đọc không còn phân biệt văn bản, hệ thống chú giải và ứng dụng thiền hiện đại.
+<!-- vault-voice-section:v1 -->
+Một danh sách mười hai chi có thể được soi ở nhiều scale, nhưng scale nào cũng phải chứng minh nó còn giữ quan hệ của nguồn. Người học duyên khởi thường gặp ba câu trả lời chắc nịch. Một bên nói mười hai chi chỉ mô tả ba đời: vô minh và hành ở quá khứ, các chi giữa ở hiện tại, sinh–già chết ở tương lai. Bên khác nói tất cả xảy ra trong một đời tâm lý. Bên thứ ba nói trọn chuỗi vận hành trong từng sát-na. Nếu mỗi bên đặt mô hình của mình vào miệng kinh mà không ghi xuất xứ, người đọc không còn phân biệt văn bản, hệ thống chú giải và ứng dụng thiền hiện đại.
 
 [Định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh](https://suttacentral.net/sn12.2) nêu chuỗi và định nghĩa từng chi. [Mạng duyên khởi sâu xa — Trường Bộ Kinh](https://suttacentral.net/dn15) không đơn giản lặp đủ mười hai theo một hàng; kinh đào sâu sự nương nhau của thức và danh-sắc, rồi triển khai thọ, ái, tìm cầu, lợi đắc, quyết định, dục tham, chấp thủ, chiếm hữu, keo kiệt, phòng vệ và các xung đột xã hội. Chỉ riêng khác biệt này đã cảnh báo: “mười hai chi” là công thức trung tâm, nhưng Kinh tạng vận dụng duyên khởi linh hoạt hơn một sơ đồ duy nhất.
 
@@ -64,7 +65,8 @@ Bài này không tổ chức cuộc thi chọn một mô hình thắng tuyệt �
 ![hình tượng tự nhiên diễn giải 2. lớp kinh sớm: sn 12.2 nói gì và không nói gì mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-18-2-lop-kinh-som-sn-12-2-noi-gi-va-khong-noi-gi.webp)
 
 
-[Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) bắt đầu từ vô minh. **Avijjā — “a-vít-cha” — không biết Tứ Thánh Đế**; **saṅkhārā — “sang-kha-ra” — các hành thân, khẩu và tâm**; **viññāṇa — “vin-nha-na” — sáu loại thức**; **nāmarūpa — “na-ma ru-pa” — danh và sắc**, trong đó danh gồm thọ, tưởng, tư, xúc và tác ý; sáu xứ là sáu căn; xúc là sáu nhóm xúc; thọ và ái cũng phân sáu theo đối tượng.
+<!-- vault-voice-section:v1 -->
+SN 12.2 định nghĩa các mắt xích mà không tự viết sẵn chú giải một đời, ba đời hay sát-na cho người đọc. [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) bắt đầu từ vô minh. **Avijjā — “a-vít-cha” — không biết Tứ Thánh Đế**; **saṅkhārā — “sang-kha-ra” — các hành thân, khẩu và tâm**; **viññāṇa — “vin-nha-na” — sáu loại thức**; **nāmarūpa — “na-ma ru-pa” — danh và sắc**, trong đó danh gồm thọ, tưởng, tư, xúc và tác ý; sáu xứ là sáu căn; xúc là sáu nhóm xúc; thọ và ái cũng phân sáu theo đối tượng.
 
 > [!quote] Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh
 > Đoạn mở đầu nêu hai mắt xích: vô minh làm duyên cho các hành, và các hành làm duyên cho thức.
@@ -92,7 +94,8 @@ Tương tự, xúc–thọ–ái có thể quan sát ngay hiện tại và Kinh 
 ![hình tượng tự nhiên diễn giải 3. dn 15: duyên khởi như mạng quan hệ và vòng phản hồi mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-18-3-dn-15-duyen-khoi-nhu-mang-quan-he-va-vong-p.webp)
 
 
-[Mạng duyên khởi sâu xa](https://suttacentral.net/dn15) mở bằng lời Đức Phật cảnh báo Ānanda rằng duyên khởi sâu và có vẻ sâu; vì không giác ngộ, chúng sinh bị rối như cuộn chỉ. Kinh rồi khảo sát điều kiện của già chết, sinh, hữu, thủ, ái và thọ. Đến thức và danh-sắc, văn bản cho quan hệ hai chiều: nếu thức không đi xuống bụng mẹ, danh-sắc không kết tụ; nếu thức sau khi đi xuống lại rời, danh-sắc không tăng trưởng; nếu thức không có chỗ đứng trong danh-sắc, sinh, già chết và khổ tương lai không được nhận biết. Đồng thời, thức lấy danh-sắc làm điều kiện.
+<!-- vault-voice-section:v1 -->
+DN 15 làm duyên khởi trông giống mạng và vòng phản hồi hơn một hàng domino, nhưng ‘mạng’ vẫn là từ giải thích của mình. [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15) mở bằng lời Đức Phật cảnh báo Ānanda rằng duyên khởi sâu và có vẻ sâu; vì không giác ngộ, chúng sinh bị rối như cuộn chỉ. Kinh rồi khảo sát điều kiện của già chết, sinh, hữu, thủ, ái và thọ. Đến thức và danh-sắc, văn bản cho quan hệ hai chiều: nếu thức không đi xuống bụng mẹ, danh-sắc không kết tụ; nếu thức sau khi đi xuống lại rời, danh-sắc không tăng trưởng; nếu thức không có chỗ đứng trong danh-sắc, sinh, già chết và khổ tương lai không được nhận biết. Đồng thời, thức lấy danh-sắc làm điều kiện.
 
 > [!quote] Kinh về mạng duyên khởi sâu xa — Trường Bộ Kinh
 > Đoạn trích trình bày danh–sắc và thức nương nhau, rồi nối qua xúc, thọ, ái, thủ, hữu, sinh và toàn bộ khối già–chết–sầu–khổ.
@@ -120,7 +123,8 @@ Vì [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15) vừa có tái
 ![hình tượng tự nhiên diễn giải 4. mô hình ba đời: hệ thống chú giải theravāda mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-18-4-mo-hinh-ba-oi-he-thong-chu-giai-theravada.webp)
 
 
-Trong hệ Theravāda hậu kỳ, đặc biệt qua truyền thống chú giải và *Visuddhimagga* của Buddhaghosa, mười hai chi thường được phân qua ba đời. Vô minh và hành thuộc nhóm nhân quá khứ; thức, danh-sắc, sáu xứ, xúc và thọ là quả hiện tại; ái, thủ và hữu là nhân hiện tại; sinh cùng già chết là quả tương lai. Mô hình cũng gom chúng thành các vòng phiền não, nghiệp và quả.
+<!-- vault-voice-section:v1 -->
+Mô hình ba đời có sức mạnh hệ thống trong Theravāda, nên cần được hiểu đúng như chú giải chứ không giả làm câu nguyên văn của Kinh. Trong hệ Theravāda hậu kỳ, đặc biệt qua truyền thống chú giải và *Visuddhimagga* của Buddhaghosa, mười hai chi thường được phân qua ba đời. Vô minh và hành thuộc nhóm nhân quá khứ; thức, danh-sắc, sáu xứ, xúc và thọ là quả hiện tại; ái, thủ và hữu là nhân hiện tại; sinh cùng già chết là quả tương lai. Mô hình cũng gom chúng thành các vòng phiền não, nghiệp và quả.
 
 > [!quote] Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh
 > Đoạn này định nghĩa “sinh” là sự sinh ra và xuất hiện của một hữu tình, gồm sự hiện khởi của các uẩn và sự có được các căn–xứ.
@@ -148,7 +152,8 @@ Khi dùng đúng, ba đời giữ chiều dài của saṃsāra và trách nhi�
 ![hình tượng tự nhiên diễn giải 5. cách đọc cấu trúc, một đời và từng khoảnh khắc mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-18-5-cach-oc-cau-truc-mot-oi-va-tung-khoanh-khac.webp)
 
 
-Các diễn giải hiện đại thường nhấn mạnh duyên khởi có thể được thấy trong kinh nghiệm hiện tại. Buddhadāsa Bhikkhu nổi tiếng với cách đọc “ngôn ngữ Dhamma”, trong đó sinh có thể được hiểu như sự sinh của ý niệm “ta” và “của ta”; một vòng có thể vận hành nhiều lần trong ngày. Giá trị của cách đọc là kéo giáo lý khỏi suy đoán xa xôi về quá khứ và đặt nó tại xúc–thọ–ái–thủ đang xảy ra.
+<!-- vault-voice-section:v1 -->
+Cách đọc cấu trúc và hiện tại giúp thấy cơ chế ngay trong kinh nghiệm, miễn không dùng nó để âm thầm xóa chiều tái sinh của truyền thống. Các diễn giải hiện đại thường nhấn mạnh duyên khởi có thể được thấy trong kinh nghiệm hiện tại. Buddhadāsa Bhikkhu nổi tiếng với cách đọc “ngôn ngữ Dhamma”, trong đó sinh có thể được hiểu như sự sinh của ý niệm “ta” và “của ta”; một vòng có thể vận hành nhiều lần trong ngày. Giá trị của cách đọc là kéo giáo lý khỏi suy đoán xa xôi về quá khứ và đặt nó tại xúc–thọ–ái–thủ đang xảy ra.
 
 Nhưng nếu “sinh” luôn bị đổi thành sinh của bản ngã tâm lý, định nghĩa jāti trong [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) và văn cảnh tái sinh bị mất. Vì thế, cách đọc này nên mang nhãn **diễn giải Theravāda hiện đại** và được dùng như ứng dụng cấu trúc, không như chứng minh rằng Kinh sớm phủ nhận nhiều đời. Nó làm sáng khả năng quan sát; nó không độc quyền nghĩa.
 
@@ -165,7 +170,8 @@ Không mô hình nào được miễn câu hỏi kiểm tra. Nó giữ bao nhiê
 ![hình tượng tự nhiên diễn giải 6. cách dùng nhiều mô hình mà không rơi vào “cái gì cũng đúng” mà không giả làm bằng chứng lịch sử](../assets/illustrations/theravada-batch3/theravada-18-6-cach-dung-nhieu-mo-hinh-ma-khong-roi-vao-ca.webp)
 
 
-Trước hết, ghi nhãn nguồn. Nếu câu đến trực tiếp từ [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) hoặc [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15), gọi là Kinh sớm và dẫn đoạn. Nếu là bảng quá khứ–hiện tại–tương lai, gọi chú giải Theravāda. Nếu là bản ngã sinh trong mỗi phản ứng, gọi diễn giải hiện đại. Nếu dùng sát-na tâm kỹ thuật, cho biết lớp Abhidhamma/chú giải liên quan. Nhãn không phán thứ hạng giá trị; nó ngăn đánh tráo thẩm quyền.
+<!-- vault-voice-section:v1 -->
+Nhiều mô hình cùng hữu ích không có nghĩa mọi diễn giải đều ngang nhau; mỗi mô hình vẫn phải chịu kiểm về nguồn, phạm vi và hậu quả. Trước hết, ghi nhãn nguồn. Nếu câu đến trực tiếp từ [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) hoặc [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15), gọi là Kinh sớm và dẫn đoạn. Nếu là bảng quá khứ–hiện tại–tương lai, gọi chú giải Theravāda. Nếu là bản ngã sinh trong mỗi phản ứng, gọi diễn giải hiện đại. Nếu dùng sát-na tâm kỹ thuật, cho biết lớp Abhidhamma/chú giải liên quan. Nhãn không phán thứ hạng giá trị; nó ngăn đánh tráo thẩm quyền.
 
 Thứ hai, xác định phạm vi. Để hiểu tái sinh không có linh hồn, mô hình ba đời có sức giải thích. Để nhận ái sau một khổ thọ, cách đọc hiện tại hữu dụng. Để phân tích lộ tâm, cần hệ thuật ngữ hậu kỳ và không nên giả rằng người mới đã chấp nhận toàn bộ. Để đọc [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15) về xung đột, cần thêm bình diện quan hệ và xã hội.
 
@@ -194,7 +200,8 @@ Cuối cùng, nhớ sơ đồ không phải thực tại. Mười hai ô giúp h
 > [!warning] Điều chưa chứng minh
 > Hai nguồn trụ cột không cho phép tuyên bố độc quyền rằng mười hai chi chỉ nói ba đời, chỉ nói một đời, hoặc chỉ nói từng khoảnh khắc. Chúng cũng không cho phép biến duyên khởi thành đường ray tất định, đoán nghiệp quá khứ của nạn nhân hay gọi mọi quan hệ là duyên mà không xác định điều kiện.
 
-Đọc trước: [[17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt|Duyên Khởi]]. Đọc tiếp: [[19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ|Kamma — Nghiệp Là Tác Ý]].
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài cho người đọc thấy chính xác layer nào đang nói ở mỗi đoạn của cuộc tranh luận. Đọc trước: [[17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt|Duyên Khởi]]. Đọc tiếp: [[19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ|Kamma — Nghiệp Là Tác Ý]].
 
 **Nguồn kinh điển chính xác**
 

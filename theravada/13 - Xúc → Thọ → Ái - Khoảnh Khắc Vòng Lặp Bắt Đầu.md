@@ -57,7 +57,8 @@ Xúc → thọ → ái không phải định mệnh. Nó là bản đồ để t
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn148">MN 148, đoạn 9.3</a> · <i>Chachakka Sutta</i></small>
 
-**Phassa — đọc gần đúng “phát-sa” — xúc, sự tiếp chạm do căn, đối tượng và thức tương ứng gặp nhau**; **vedanā — “vê-đa-na” — cảm thọ dễ chịu, khó chịu hoặc trung tính**; **taṇhā — “tan-ha” — ái, cơn khát muốn có, muốn tiếp tục hoặc muốn thoát**. Ba thuật ngữ thường được rút thành mũi tên “xúc → thọ → ái”. Mũi tên hữu ích nếu nhắc điều kiện; nguy hiểm nếu bị hiểu như ba viên bi buộc phải đẩy nhau.
+<!-- vault-voice-section:v1 -->
+Ba mắt xích không chạy như đồng hồ bấm giờ; chúng chỉ tên những quan hệ mình có thể học nhận ra trong một tiến trình rất nhanh. **Phassa — đọc gần đúng “phát-sa” — xúc, sự tiếp chạm do căn, đối tượng và thức tương ứng gặp nhau**; **vedanā — “vê-đa-na” — cảm thọ dễ chịu, khó chịu hoặc trung tính**; **taṇhā — “tan-ha” — ái, cơn khát muốn có, muốn tiếp tục hoặc muốn thoát**. Ba thuật ngữ thường được rút thành mũi tên “xúc → thọ → ái”. Mũi tên hữu ích nếu nhắc điều kiện; nguy hiểm nếu bị hiểu như ba viên bi buộc phải đẩy nhau.
 
 [Định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh](https://suttacentral.net/sn12.2) định nghĩa các chi duyên khởi: sáu xúc thân là xúc; sáu thọ thân là thọ; dục ái, hữu ái và phi hữu ái là ái. Công thức “do duyên xúc, thọ; do duyên thọ, ái” đặt chúng trong chuỗi rộng từ vô minh đến già chết. Bài kinh trình bày quan hệ có điều kiện, không đồng hồ đo từng bước.
 
@@ -71,7 +72,8 @@ Vedanā không phải toàn bộ “cảm xúc”. Một cảm xúc phức tạp
 
 ![sáu tam giác căn trần thức tạo sáu loại xúc từ thấy nghe ngửi nếm chạm nghĩ](../assets/illustrations/theravada-batch2/theravada-13-sau-loai-xuc.webp)
 
-Trong tiếng Việt, “xúc” dễ gợi tiếp xúc thân thể. Phassa trong Kinh rộng hơn: nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc và ý xúc. Một ký ức đi vào ý có thể tạo ý xúc; một dòng chữ qua mắt tạo nhãn xúc. Không cần hai vật thể cọ nhau. Điều quyết định là ba điều kiện căn–đối tượng–thức gặp trong một sự kiện nhận biết.
+<!-- vault-voice-section:v1 -->
+Xúc là cuộc gặp đủ ba điều kiện, nên một vật chạm da chưa tự nó kể hết điều gì đang xảy ra trong kinh nghiệm. Trong tiếng Việt, “xúc” dễ gợi tiếp xúc thân thể. Phassa trong Kinh rộng hơn: nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc và ý xúc. Một ký ức đi vào ý có thể tạo ý xúc; một dòng chữ qua mắt tạo nhãn xúc. Không cần hai vật thể cọ nhau. Điều quyết định là ba điều kiện căn–đối tượng–thức gặp trong một sự kiện nhận biết.
 
 [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) không nói căn tự tạo thức. Mắt mà không có hình sắc thích hợp không tạo nhãn thức liên hệ; hình mà không có căn vận hành cũng không thành cái được thấy. Thức không đứng ngoài thu dữ liệu như linh hồn. Xúc gọi tên sự hội đủ. Đây là cách đọc quan hệ, không phải mô hình giải phẫu hay vật lý.
 
@@ -98,7 +100,8 @@ Khi xúc đã sinh, nó không cần trở thành câu chuyện “tôi đã th�
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn148">MN 148, đoạn 8.3</a> · <i>Chachakka Sutta</i></small>
 
-[Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) nói sáu nhóm thọ theo cửa; [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) khảo sát thọ do từng loại xúc sinh. Các bài khác phân loại ba thọ: lạc, khổ, không-lạc-không-khổ; đôi nơi phân biệt thân và tâm. Mẫu số chung là chiều dễ chịu–khó chịu–trung tính, không phải danh sách vui buồn giận sợ như tâm lý học phổ thông.
+<!-- vault-voice-section:v1 -->
+Thọ chỉ sắc thái dễ chịu, khó chịu hoặc trung tính; gọi nó là toàn bộ cảm xúc sẽ làm mất đúng điểm Kinh muốn mình nhìn. [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) nói sáu nhóm thọ theo cửa; [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) khảo sát thọ do từng loại xúc sinh. Các bài khác phân loại ba thọ: lạc, khổ, không-lạc-không-khổ; đôi nơi phân biệt thân và tâm. Mẫu số chung là chiều dễ chịu–khó chịu–trung tính, không phải danh sách vui buồn giận sợ như tâm lý học phổ thông.
 
 Một niềm vui có thể gồm lạc thọ và ý nghĩa “tôi thuộc về”; nỗi buồn gồm khổ thọ, ký ức mất mát, tưởng và ý muốn. Gọi đúng vedanā không làm cảm xúc nghèo đi. Nó tách một thành phần để thấy cảm xúc được cấu tạo, qua đó có nhiều chỗ chăm sóc hơn: thân cần nghỉ, nhận dạng cần kiểm, mất mát cần được thương tiếc.
 
@@ -125,7 +128,8 @@ Trong một cuộc họp, lời phản bác tạo xúc; thọ khó chịu có th
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn12.2">SN 12.2, đoạn 2.6–2.8</a> · <i>Vibhaṅga Sutta</i></small>
 
-Taṇhā trong [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) có ba: **kāma-taṇhā**, dục ái đối với khoái lạc giác quan; **bhava-taṇhā**, hữu ái, khát tồn tại hay trở thành; **vibhava-taṇhā**, phi hữu ái, khát không tồn tại hoặc loại bỏ. Một lạc thọ có thể nuôi “thêm nữa”; khổ thọ nuôi “phải biến mất”; thọ trung tính nuôi “tôi cần thành ai đó để thấy sống”.
+<!-- vault-voice-section:v1 -->
+Vô minh khiến thọ dễ trượt thành ái, nhưng chữ ‘làm duyên’ vẫn để chỗ cho điều kiện mới như niệm và hiểu biết đi vào. Taṇhā trong [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) có ba: **kāma-taṇhā**, dục ái đối với khoái lạc giác quan; **bhava-taṇhā**, hữu ái, khát tồn tại hay trở thành; **vibhava-taṇhā**, phi hữu ái, khát không tồn tại hoặc loại bỏ. Một lạc thọ có thể nuôi “thêm nữa”; khổ thọ nuôi “phải biến mất”; thọ trung tính nuôi “tôi cần thành ai đó để thấy sống”.
 
 Nhưng câu “thọ duyên ái” không có nghĩa mọi thọ tất yếu tạo ái trong mọi người ở mọi lúc. Toàn chuỗi duyên khởi vận hành với vô minh. [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) đối lập người không được học, phát ái với người được học thấy vô thường và ly tham. Nếu chuyển tiếp hoàn toàn bắt buộc, giải thoát sẽ không thể có.
 
@@ -141,7 +145,8 @@ Khi thọ được biết như thọ—sinh do xúc, đổi và không phải m�
 
 ![mũi tên xúc thọ ái nằm trong mạng giới môi trường ký ức thân và vô minh, tránh hình dây chuyền tất định](../assets/illustrations/theravada-batch2/theravada-13-mang-dieu-kien.webp)
 
-Sơ đồ mũi tên dễ khiến ta tưởng một nguyên nhân đơn sản xuất một kết quả đơn. Trong đời sống, thọ hiện giữa ký ức, thói quen, quan hệ quyền lực, thiếu ngủ và văn hóa. Văn bản kinh nền nêu quan hệ duyên; nó không phủ nhận điều kiện đồng thời. Dùng nó như công thức duy nhất giải thích trầm cảm, nghiện hoặc bạo lực là vượt phạm vi.
+<!-- vault-voice-section:v1 -->
+Nếu biến chuỗi thành tuyến cứng, mình vừa sai nguồn vừa có thêm lý do đổ lỗi cho người không thể ‘chọn khác’ trong điều kiện quá khắc nghiệt. Sơ đồ mũi tên dễ khiến ta tưởng một nguyên nhân đơn sản xuất một kết quả đơn. Trong đời sống, thọ hiện giữa ký ức, thói quen, quan hệ quyền lực, thiếu ngủ và văn hóa. Văn bản kinh nền nêu quan hệ duyên; nó không phủ nhận điều kiện đồng thời. Dùng nó như công thức duy nhất giải thích trầm cảm, nghiện hoặc bạo lực là vượt phạm vi.
 
 Đặc biệt, không được nói người chịu áp bức khổ chỉ vì họ “ái”. Chính sách, nghèo đói, bạo lực và bệnh là điều kiện có hậu quả. Giáo lý cung cấp bản đồ cho cách dukkha được tiếp tục trong kinh nghiệm, không xóa trách nhiệm của thủ phạm hay nghĩa vụ thay cấu trúc. Nội tâm và xã hội không loại trừ nhau.
 
@@ -157,7 +162,8 @@ Kỷ luật nhân quả làm lòng bi thực tế hơn. Khi phản ứng lặp, 
 
 ![ba bước nhận sắc thái chờ một nhịp và chọn hành động có giới trước khi ái thành thủ](../assets/illustrations/theravada-batch2/theravada-13-biet-cho-chon.webp)
 
-Chọn một kích thích vừa. Khi xúc rõ, gọi cửa: thấy, nghe, chạm hoặc nghĩ. Gọi thọ bằng một từ: dễ chịu, khó chịu, trung tính. Sau đó nhận hướng ái: kéo về, đẩy đi, tìm tê, muốn thành, muốn biến mất. Không cần dập nó; gọi đúng đã làm lộ cấu trúc.
+<!-- vault-voice-section:v1 -->
+Thực hành ở thọ không đòi một siêu nhân đứng ngoài tâm; nó chỉ tạo thêm vài giây để biết, chờ và không cấp nhiên liệu theo lối cũ. Chọn một kích thích vừa. Khi xúc rõ, gọi cửa: thấy, nghe, chạm hoặc nghĩ. Gọi thọ bằng một từ: dễ chịu, khó chịu, trung tính. Sau đó nhận hướng ái: kéo về, đẩy đi, tìm tê, muốn thành, muốn biến mất. Không cần dập nó; gọi đúng đã làm lộ cấu trúc.
 
 Chờ ba hơi thở nếu an toàn. Cảm vị trí thọ trong thân nhưng không đồng nhất thọ với cảm xúc toàn bộ. Hỏi dữ kiện bên ngoài cần hành động gì. Nếu bếp cháy, dập lửa; nếu bị xâm hại, rời đi; bài tập không yêu cầu đứng quan sát trong nguy hiểm.
 
@@ -185,7 +191,8 @@ Sau một tuần, tìm mẫu thay vì điểm số. Cửa nào thường dẫn �
 > [!warning] Điều chưa chứng minh
 > Chuỗi không chứng minh mọi thọ tất định thành ái, mọi khổ do thái độ cá nhân, hay bất công chỉ là nhận thức. Vedanā không đồng nghĩa cảm xúc; hai văn bản nền không phải lý thuyết não và không được khoa học thần kinh chứng minh.
 
-Đọc trước: [[theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu|Sáu Căn Và Sáu Trần — Thế Giới Xuất Hiện Ở Đâu]]. Đọc tiếp: [[theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn|Viññāṇa — Thức Không Phải Linh Hồn]].
+<!-- vault-voice-section:v1 -->
+Phần nguồn giữ ví dụ hiện đại ở đúng tầng ứng dụng, không lén biến chúng thành lời giải thích canonical. Đọc trước: [[theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu|Sáu Căn Và Sáu Trần — Thế Giới Xuất Hiện Ở Đâu]]. Đọc tiếp: [[theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn|Viññāṇa — Thức Không Phải Linh Hồn]].
 
 **Nguồn kinh chính xác**
 

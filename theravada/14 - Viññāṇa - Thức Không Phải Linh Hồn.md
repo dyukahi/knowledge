@@ -46,7 +46,8 @@ Nếu thức là linh hồn, nó phải là một người quan sát đứng yê
 
 ![một dòng thức tưởng như sợi dây bất biến bị tách thành sáu sự kiện tùy căn và đối tượng](../assets/illustrations/theravada-batch2/theravada-14-sati-va-dong-thuc.webp)
 
-**Viññāṇa — đọc gần đúng “vin-nha-na” — thức, sự nhận biết phân biệt** dễ bị dịch thành “consciousness” rồi lặng lẽ gán mọi nghĩa hiện đại: chủ thể thuần túy, linh hồn, kho ý thức, hay nền vũ trụ. [Thức sinh theo điều kiện — Trung Bộ Kinh](https://suttacentral.net/mn38) trực tiếp chặn một cách đọc như vậy qua câu chuyện vị tỳ-kheo Sāti.
+<!-- vault-voice-section:v1 -->
+Sai lầm của Sāti quen thuộc hơn mình tưởng: thấy một cảm giác liên tục rồi kết luận phải có cùng một người biết đi xuyên mọi thay đổi. **Viññāṇa — đọc gần đúng “vin-nha-na” — thức, sự nhận biết phân biệt** dễ bị dịch thành “consciousness” rồi lặng lẽ gán mọi nghĩa hiện đại: chủ thể thuần túy, linh hồn, kho ý thức, hay nền vũ trụ. [Thức sinh theo điều kiện — Trung Bộ Kinh](https://suttacentral.net/mn38) trực tiếp chặn một cách đọc như vậy qua câu chuyện vị tỳ-kheo Sāti.
 
 Sāti tuyên bố theo điều mình hiểu rằng chính “thức này” chạy và luân chuyển, không phải cái khác. Khi được hỏi thức nào, ông mô tả cái nói, cảm nhận và trải nghiệm quả của nghiệp thiện ác. Đức Phật quở trách cách hiểu ấy và hỏi Ngài đã chẳng nói bằng nhiều cách rằng thức sinh do duyên, không có thức sinh nếu thiếu điều kiện hay sao.
 
@@ -71,7 +72,8 @@ Sāti tuyên bố theo điều mình hiểu rằng chính “thức này” ch�
 
 ![sáu ngọn đèn chỉ sáng khi từng cặp căn đối tượng gặp, không có ngọn đèn thứ bảy ở trung tâm](../assets/illustrations/theravada-batch2/theravada-14-sau-thuc.webp)
 
-[Thức sinh theo điều kiện](https://suttacentral.net/mn38) dùng ví dụ lửa: lửa cháy nhờ củi được gọi là lửa củi; nhờ rơm là lửa rơm; nhờ cỏ, phân bò, trấu hay rác thì được gọi theo nhiên liệu. Tương tự, thức sinh nhờ mắt và hình sắc được gọi nhãn thức; nhờ tai và tiếng là nhĩ thức; rồi mũi, lưỡi, thân, ý.
+<!-- vault-voice-section:v1 -->
+Sáu thức được gọi theo cửa sinh của chúng, giống lửa được gọi theo nhiên liệu chứ không phải một ngọn lửa duy nhất đổi mặt nạ. [Thức sinh theo điều kiện](https://suttacentral.net/mn38) dùng ví dụ lửa: lửa cháy nhờ củi được gọi là lửa củi; nhờ rơm là lửa rơm; nhờ cỏ, phân bò, trấu hay rác thì được gọi theo nhiên liệu. Tương tự, thức sinh nhờ mắt và hình sắc được gọi nhãn thức; nhờ tai và tiếng là nhĩ thức; rồi mũi, lưỡi, thân, ý.
 
 > [!quote] Kinh về thức sinh theo điều kiện — Trung Bộ Kinh
 > Đoạn Kinh nêu rằng thức sinh lên tùy thuộc chính điều kiện nào thì được gọi tên theo chính điều kiện ấy.
@@ -98,7 +100,8 @@ Khi đọc, giữ hai tầng: quy ước “tôi thấy” giúp giao tiếp; ph
 
 ![hai bó lau tượng trưng thức và danh sắc tựa nhau trong tiến trình sống, không bó nào làm nền tuyệt đối](../assets/illustrations/theravada-batch2/theravada-14-thuc-danh-sac.webp)
 
-**Nāmarūpa — “na-ma ru-pa” — danh–sắc**, trong [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15), chỉ cấu trúc tâm–thân có điều kiện; cách phân tích cụ thể thay theo văn bản. Bài kinh hỏi nếu thức không đi vào thai mẹ, danh–sắc có hình thành không; nếu thức rời, nó có tăng trưởng không. Câu trả lời là không. Sau đó bài xác định phạm vi sinh, già, chết và tái hiện hữu qua sự nương nhau này.
+<!-- vault-voice-section:v1 -->
+Thức và danh–sắc nương nhau làm mô hình linh hồn đơn tuyến khó đứng, nhưng quan hệ vòng cũng không nên bị biến thành metaphysics tùy ý. **Nāmarūpa — “na-ma ru-pa” — danh–sắc**, trong [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15), chỉ cấu trúc tâm–thân có điều kiện; cách phân tích cụ thể thay theo văn bản. Bài kinh hỏi nếu thức không đi vào thai mẹ, danh–sắc có hình thành không; nếu thức rời, nó có tăng trưởng không. Câu trả lời là không. Sau đó bài xác định phạm vi sinh, già, chết và tái hiện hữu qua sự nương nhau này.
 
 > [!quote] Kinh về mạng duyên khởi sâu xa — Trường Bộ Kinh
 > Đoạn Kinh nêu rằng nếu được hỏi: ‘Danh–sắc do duyên gì?’, cần đáp: ‘Danh–sắc do duyên thức.’ Nếu được hỏi: ‘Thức do duyên gì?’, cần đáp: ‘Thức do duyên danh–sắc.’.
@@ -125,7 +128,8 @@ Giữ giới hạn giúp tránh hai cực. Không khẳng định một linh h�
 
 ![chuỗi dấu chân và ngọn đèn liên tiếp truyền điều kiện nhưng không có vật thể chạy xuyên toàn cảnh](../assets/illustrations/theravada-batch2/theravada-14-tiep-noi-khong-vat.webp)
 
-Khi bác linh hồn, câu hỏi tự nhiên là: cái gì nối hôm qua với hôm nay, và theo Kinh cái gì liên hệ đời sau? Câu trả lời thận trọng không phải “không có liên tục”, mà “liên tục không đồng nhất với một vật bất biến”. Ký ức, thói quen, tác ý, thân và hậu quả tạo tính tiếp nối nhân quả dù mọi thành phần đổi.
+<!-- vault-voice-section:v1 -->
+Tiếp nối có thể thật mà không cần một vật bất biến, giống một tiến trình giữ pattern qua thay đổi liên tục của điều kiện. Khi bác linh hồn, câu hỏi tự nhiên là: cái gì nối hôm qua với hôm nay, và theo Kinh cái gì liên hệ đời sau? Câu trả lời thận trọng không phải “không có liên tục”, mà “liên tục không đồng nhất với một vật bất biến”. Ký ức, thói quen, tác ý, thân và hậu quả tạo tính tiếp nối nhân quả dù mọi thành phần đổi.
 
 Một giai điệu tiếp tục qua nhiều nốt; không có một nốt duy nhất chạy xuyên bài. Ví dụ này chỉ giúp hình dung quan hệ, không phải ví dụ trong kinh và không giải thích tái sinh. Nó cho thấy về lý lẽ, chuỗi có hình thức và hậu quả không bắt buộc chứa một hạt trường tồn.
 
@@ -141,7 +145,8 @@ Tính tiếp nối thực hành quan trọng hơn tranh thắng siêu hình. M�
 
 ![ba nhãn kho chứa ý thức vũ trụ người biết bị đặt ngoài vòng sáu thức tùy duyên](../assets/illustrations/theravada-batch2/theravada-14-ba-lop-phu-them.webp)
 
-Một cách cứu linh hồn là đổi tên nó thành “dòng thức”: tưởng một dòng đồng nhất chảy qua mọi cửa và đời. [Thức sinh theo điều kiện](https://suttacentral.net/mn38) đặc biệt không cho phép nói chính thức ấy chạy và luân chuyển. “Dòng” chỉ an toàn nếu chỉ chuỗi sự kiện tùy duyên, không nếu nó là vật mang căn tính.
+<!-- vault-voice-section:v1 -->
+Gọi thức là kho chứa hoặc ý thức vũ trụ thường thêm một bản thể mà các đoạn Kinh đang dùng chưa hề giới thiệu. Một cách cứu linh hồn là đổi tên nó thành “dòng thức”: tưởng một dòng đồng nhất chảy qua mọi cửa và đời. [Thức sinh theo điều kiện](https://suttacentral.net/mn38) đặc biệt không cho phép nói chính thức ấy chạy và luân chuyển. “Dòng” chỉ an toàn nếu chỉ chuỗi sự kiện tùy duyên, không nếu nó là vật mang căn tính.
 
 Cách khác là đặt một kho thức sau sáu thức. Một số truyền thống Phật giáo khác có khái niệm riêng; không nên nhập chúng vào Theravāda Kinh sớm mà không gắn nhãn so sánh. [Thức sinh theo điều kiện](https://suttacentral.net/mn38), [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) và [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15) không giới thiệu ālayavijñāna hay kho chứa thường tồn.
 
@@ -157,7 +162,8 @@ Cũng không cần đối cực bằng chủ nghĩa duy vật giản lược. Ha
 
 ![nhật ký ghi thấy nghe nghĩ cùng điều kiện tương ứng, bỏ trống ô chủ thể bất biến](../assets/illustrations/theravada-batch2/theravada-14-thuc-hanh-theo-cua.webp)
 
-Trong năm phút, khi một kinh nghiệm rõ, ghi “nhãn thức”, “nhĩ thức”, “thân thức” hoặc “ý thức”. Không cố bắt mọi khoảnh khắc. Sau mỗi nhãn, hỏi điều kiện nào hiện: căn, đối tượng, ánh sáng, chú ý, ký ức, tình trạng thân. Bài tập chuyển trọng tâm từ “tôi đang biết” sang “biết này đang nương gì”.
+<!-- vault-voice-section:v1 -->
+Quan sát thức theo cửa giúp mình hỏi ‘biết cái gì, nhờ điều kiện nào’ thay vì vội dựng ‘ai là người biết’.  Trong năm phút, khi một kinh nghiệm rõ, ghi “nhãn thức”, “nhĩ thức”, “thân thức” hoặc “ý thức”. Không cố bắt mọi khoảnh khắc. Sau mỗi nhãn, hỏi điều kiện nào hiện: căn, đối tượng, ánh sáng, chú ý, ký ức, tình trạng thân. Bài tập chuyển trọng tâm từ “tôi đang biết” sang “biết này đang nương gì”.
 
 Quan sát sự đổi cửa. Đang nghe tiếng quạt, ý bình luận “ồn”, thân cảm căng, ý nhớ cuộc cãi. Không có yêu cầu tìm một cái biết đứng sau tất cả. Cũng không cần phủ nhận tính liên tục quy ước. Chỉ thấy mỗi kiểu thức có đối tượng và điều kiện riêng.
 
@@ -185,7 +191,8 @@ Cuối buổi hỏi: thức nào nổi bật, điều kiện nào đổi nó, c�
 > [!warning] Điều chưa chứng minh
 > Các đoạn kinh trụ cột không chứng minh thức là linh hồn, kho chứa, ý thức vũ trụ, chân ngã hay năng lượng vật lý. Chúng cũng không chứng minh duy vật thần kinh, không cung cấp cơ chế vật lý cho tái sinh và không xóa trách nhiệm.
 
-Đọc trước: [[theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu|Xúc → Thọ → Ái — Khoảnh Khắc Vòng Lặp Bắt Đầu]]. Đọc tiếp: [[theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì|Vô Ngã — Đức Phật Phủ Định Điều Gì?]].
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài phân biệt điều văn bản nói về thức với các synthesis hiện đại về consciousness. Đọc trước: [[theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu|Xúc → Thọ → Ái — Khoảnh Khắc Vòng Lặp Bắt Đầu]]. Đọc tiếp: [[theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì|Vô Ngã — Đức Phật Phủ Định Điều Gì?]].
 
 **Nguồn kinh điển chính xác**
 
