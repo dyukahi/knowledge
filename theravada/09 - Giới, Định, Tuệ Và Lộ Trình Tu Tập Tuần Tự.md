@@ -51,7 +51,8 @@ Có trình tự vì điều kiện cần được xây. Nhưng các phần quay 
 
 ![một con đường giới định tuệ có mũi tên tiến và vòng phản hồi, không phải thang khóa cứng](../assets/illustrations/theravada-batch2/theravada-09-lo-trinh-phan-hoi.webp)
 
-Nhiều bài kinh mô tả sự huấn luyện theo một trật tự dễ nhận: nghe Pháp và phát lòng tin có cân nhắc, rời đời sống gia đình nếu theo con đường xuất gia, giữ giới, phòng hộ các căn, tiết độ ăn, tỉnh thức, chánh niệm–tỉnh giác, đoạn các triền cái, vào các **jhāna**, rồi hướng tâm tới tri kiến và giải thoát. [Quả của đời sống xuất gia — Trường Bộ Kinh](https://suttacentral.net/dn2), [Lộ trình tu tập tuần tự ở Assapura — Trung Bộ Kinh](https://suttacentral.net/mn39) và [Huấn luyện tuần tự và người chỉ đường — Trung Bộ Kinh](https://suttacentral.net/mn107) đều cho các phiên bản quan trọng của mô thức ấy.
+<!-- vault-voice-section:v1 -->
+Trình tự tồn tại để xây điều kiện, không để người học đứng ở mỗi ga chờ giấy chứng nhận mới được đi tiếp. Nhiều bài kinh mô tả sự huấn luyện theo một trật tự dễ nhận: nghe Pháp và phát lòng tin có cân nhắc, rời đời sống gia đình nếu theo con đường xuất gia, giữ giới, phòng hộ các căn, tiết độ ăn, tỉnh thức, chánh niệm–tỉnh giác, đoạn các triền cái, vào các **jhāna**, rồi hướng tâm tới tri kiến và giải thoát. [Quả của đời sống xuất gia — Trường Bộ Kinh](https://suttacentral.net/dn2), [Lộ trình tu tập tuần tự ở Assapura — Trung Bộ Kinh](https://suttacentral.net/mn39) và [Huấn luyện tuần tự và người chỉ đường — Trung Bộ Kinh](https://suttacentral.net/mn107) đều cho các phiên bản quan trọng của mô thức ấy.
 
 Trật tự này có logic điều kiện. Hành vi gây hại và nói dối làm tâm bất an; đời sống giác quan không được điều tiết làm chú ý phân tán; thiếu niệm khiến định khó chín; không có độ sáng và ổn định, tuệ dễ chỉ là quan điểm. Nhưng logic điều kiện không biến lộ trình thành dây chuyền mà mỗi ga phải được “hoàn tất 100%” trước khi bước kế tiếp được phép bắt đầu.
 
@@ -87,7 +88,8 @@ Tuần tự cũng không có nghĩa trì hoãn đạo đức cho đến khi hi�
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/dn2">DN 2, đoạn 43.1</a> · <i>Sāmaññaphala Sutta</i></small>
 
-[Quả của đời sống xuất gia](https://suttacentral.net/dn2) được đặt trong cuộc đối thoại với vua Ajātasattu về kết quả có thể thấy của đời sống sa-môn. Bài kinh trước hết kể những lợi ích xã hội gần: người từng là nô bộc hoặc người làm khi xuất gia được nhà vua kính trọng và không bị buộc trở lại địa vị cũ. Sau đó Đức Phật trình bày huấn luyện từ giới đến các thành tựu tâm và tri kiến giải thoát. Bối cảnh này nhắc rằng lộ trình không chỉ là kỹ thuật thiền tách khỏi đời sống.
+<!-- vault-voice-section:v1 -->
+Quả của đời sa-môn bắt đầu từ cách sống trước khi nói đến trạng thái tâm, vì định không mọc trong khoảng chân không đạo đức. [Quả của đời sống xuất gia](https://suttacentral.net/dn2) được đặt trong cuộc đối thoại với vua Ajātasattu về kết quả có thể thấy của đời sống sa-môn. Bài kinh trước hết kể những lợi ích xã hội gần: người từng là nô bộc hoặc người làm khi xuất gia được nhà vua kính trọng và không bị buộc trở lại địa vị cũ. Sau đó Đức Phật trình bày huấn luyện từ giới đến các thành tựu tâm và tri kiến giải thoát. Bối cảnh này nhắc rằng lộ trình không chỉ là kỹ thuật thiền tách khỏi đời sống.
 
 Phần giới của [Quả của đời sống xuất gia](https://suttacentral.net/dn2) rất rộng, gồm từ bỏ sát sinh, lấy của không cho, tà hạnh hay đời sống không phạm hạnh theo bối cảnh xuất gia, nói dối, chia rẽ, thô ác và phù phiếm; đồng thời tránh nhiều sinh kế, giải trí và thực hành bói toán không phù hợp với sa-môn. Không phải mọi chi tiết Luật và nếp xuất gia được áp nguyên xi cho cư sĩ. Nhưng nguyên tắc rõ: sự vô hại, chân thật và giản dị tạo môi trường cho tâm không bị hối hận cùng xung đột kéo đi.
 
@@ -114,7 +116,8 @@ Sau khi đoạn năm triền cái, bài kinh mô tả bốn jhāna. **Jhāna —
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/dn2">DN 2, đoạn 74.4, 75.1</a> · <i>Sāmaññaphala Sutta</i></small>
 
-[Lộ trình tu tập tuần tự ở Assapura](https://suttacentral.net/mn39) nhắc các Tỳ-kheo sống xứng danh sa-môn và bà-la-môn không chỉ bằng tên gọi. Bài triển khai hổ thẹn và sợ hậu quả của điều bất thiện, thân–khẩu–ý và sinh kế thanh tịnh, phòng hộ căn, tiết độ ăn, chuyên cần tỉnh thức, niệm–tỉnh giác, chọn nơi vắng, đoạn triền cái, bốn jhāna và ba minh. Trật tự cho thấy đạo đức không phải lễ nghi ngoài lề; nó đi vào cách dùng thân, lời, tâm và nguồn sống.
+<!-- vault-voice-section:v1 -->
+Huấn luyện giống học một nghề ở chỗ cần người chỉ đường, lặp lại và feedback; nó khác nghề ở chỗ không ai có thể sống thay phần chuyển hóa của mình. [Lộ trình tu tập tuần tự ở Assapura](https://suttacentral.net/mn39) nhắc các Tỳ-kheo sống xứng danh sa-môn và bà-la-môn không chỉ bằng tên gọi. Bài triển khai hổ thẹn và sợ hậu quả của điều bất thiện, thân–khẩu–ý và sinh kế thanh tịnh, phòng hộ căn, tiết độ ăn, chuyên cần tỉnh thức, niệm–tỉnh giác, chọn nơi vắng, đoạn triền cái, bốn jhāna và ba minh. Trật tự cho thấy đạo đức không phải lễ nghi ngoài lề; nó đi vào cách dùng thân, lời, tâm và nguồn sống.
 
 [Huấn luyện tuần tự và người chỉ đường](https://suttacentral.net/mn107) dùng hình ảnh huấn luyện tuần tự: người luyện ngựa, người dạy bắn cung hoặc dạy toán hướng học trò từng bước. Đức Phật mô tả việc đặt người học vào giới, phòng hộ căn, tiết độ ăn, tỉnh thức, niệm–tỉnh giác, nơi ở thích hợp, đoạn triền cái và jhāna. Cuối bài, khi được hỏi liệu mọi đệ tử đều đạt cứu cánh hay không, Ngài phân biệt người chỉ đường với người có thực sự theo đường. Cấu trúc không bảo đảm tự động một kết quả chỉ vì chương trình đúng.
 
@@ -130,7 +133,8 @@ Theo Rupert Gethin, các nhóm pháp về con đường vừa có cấu trúc v�
 
 ![giới như lan can và nền đất cho cộng đồng, lời nói, sinh kế và một tâm ít hối hận](../assets/illustrations/theravada-batch2/theravada-09-gioi-ha-tang.webp)
 
-Sīla thường bị hiểu là danh sách “không được”. Trong các lộ trình Kinh, từ bỏ hành vi hại tạo phẩm chất tích cực: an toàn, đáng tin, ít che giấu và ít hối hận. Một cộng đồng không sát hại, trộm cắp, lạm dụng tình dục và lừa dối cho phép chú ý không phải liên tục phòng vệ. Giới vì vậy vừa là tu thân vừa là hạ tầng quan hệ.
+<!-- vault-voice-section:v1 -->
+Giới tạo tự do khi nó giảm những việc tâm phải che, chống chế và hối hận, chứ không chỉ khi nó khiến mình trông ngoan. Sīla thường bị hiểu là danh sách “không được”. Trong các lộ trình Kinh, từ bỏ hành vi hại tạo phẩm chất tích cực: an toàn, đáng tin, ít che giấu và ít hối hận. Một cộng đồng không sát hại, trộm cắp, lạm dụng tình dục và lừa dối cho phép chú ý không phải liên tục phòng vệ. Giới vì vậy vừa là tu thân vừa là hạ tầng quan hệ.
 
 Đối với xuất gia, giới gắn với Luật tạng và một đời sống từ bỏ chi tiết. Đối với cư sĩ, năm giới và chánh mạng là nền phổ biến, nhưng cách thực hành phải xét vai trò gia đình, nghề nghiệp và pháp luật. Không nên lấy quy định tu viện để phán mọi đời sống gia đình; cũng không nên viện cớ cư sĩ để xem nhẹ sát hại, lừa dối và bóc lột.
 
@@ -146,7 +150,8 @@ Giới cũng không thể bị dùng để kiểm soát nạn nhân. Khi nói v�
 
 ![mặt hồ định phản chiếu rõ các pháp, tuệ soi điều kiện và làm tay nắm mở ra](../assets/illustrations/theravada-batch2/theravada-09-dinh-tue-tuong-ho.webp)
 
-Samādhi trong lộ trình không chỉ là thư giãn. Năm triền cái—dục tham, sân, hôn trầm–thụy miên, trạo cử–hối quá và nghi—được nhận diện như chướng ngại làm tâm không thể thấy rõ. Đoạn chúng ở mức cần thiết, hành giả đi vào bốn jhāna. Tranh luận hiện đại về độ hấp thụ, vai trò tầm–tứ và quan hệ jhāna–vipassanā có nhiều dòng; không nên trình bày chuẩn một thiền viện như đồng thuận duy nhất.
+<!-- vault-voice-section:v1 -->
+Định cho tâm đủ yên để thấy, còn tuệ ngăn sự yên ấy trở thành chỗ trú mới để mình nắm giữ. Samādhi trong lộ trình không chỉ là thư giãn. Năm triền cái—dục tham, sân, hôn trầm–thụy miên, trạo cử–hối quá và nghi—được nhận diện như chướng ngại làm tâm không thể thấy rõ. Đoạn chúng ở mức cần thiết, hành giả đi vào bốn jhāna. Tranh luận hiện đại về độ hấp thụ, vai trò tầm–tứ và quan hệ jhāna–vipassanā có nhiều dòng; không nên trình bày chuẩn một thiền viện như đồng thuận duy nhất.
 
 Định có chức năng tập hợp tâm, giảm sự tán loạn và làm kinh nghiệm đủ ổn định để khảo sát. Nhưng tập trung tự nó không bảo đảm tuệ. Một người có thể tập trung để bắn, thao túng thị trường hoặc nuôi tưởng tượng. Chánh định nằm trong hệ với giới, kiến và ý hướng. [Quả của đời sống xuất gia](https://suttacentral.net/dn2) và [Lộ trình tu tập tuần tự ở Assapura](https://suttacentral.net/mn39) đặt nó sau nhiều điều kiện bảo vệ không phải do ngẫu nhiên.
 
@@ -196,7 +201,8 @@ Thân sẽ đổi. Người mình yêu sẽ đổi. Cơ hội xin lỗi, giữ g
 
 ![lịch tuần có giới phòng hộ niệm định học Pháp và phản tỉnh nối với nhau](../assets/illustrations/theravada-batch2/theravada-09-ke-hoach-tuan.webp)
 
-Bắt đầu bằng kiểm kê điều kiện, không bằng danh hiệu. Chọn một giới cần bảo vệ rõ hơn, một cửa giác quan thường kéo tâm, một thói quen ngủ–ăn ảnh hưởng tỉnh thức, một khoảng thực hành định và một chủ đề Kinh để học. Ít mục nhưng theo dõi thật tốt hơn kế hoạch lý tưởng rồi sụp.
+<!-- vault-voice-section:v1 -->
+Một lộ trình sống được phải tính cả công việc, thân thể, gia đình và giới hạn thần kinh, không chỉ lịch thiền lý tưởng. Bắt đầu bằng kiểm kê điều kiện, không bằng danh hiệu. Chọn một giới cần bảo vệ rõ hơn, một cửa giác quan thường kéo tâm, một thói quen ngủ–ăn ảnh hưởng tỉnh thức, một khoảng thực hành định và một chủ đề Kinh để học. Ít mục nhưng theo dõi thật tốt hơn kế hoạch lý tưởng rồi sụp.
 
 Ví dụ một tuần: giữ cam kết không nói sai có chủ ý; tắt thông báo trong hai khoảng làm việc; ăn một bữa không màn hình để biết đủ; ngồi hai mươi phút mỗi ngày với đối tượng phù hợp; cuối ngày ghi một lần tham–sân–si tăng hoặc giảm. Cuối tuần đọc lại [Quả của đời sống xuất gia](https://suttacentral.net/dn2) hoặc [Huấn luyện tuần tự và người chỉ đường](https://suttacentral.net/mn107) theo đoạn, hỏi quan hệ điều kiện nào đã thấy. Đây là kế hoạch hiện đại, không phải lịch kinh điển.
 
@@ -224,7 +230,8 @@ Cuối cùng, nhớ hình ảnh người chỉ đường trong [Huấn luyện t
 > [!warning] Điều chưa chứng minh
 > Ba bài kinh không chứng minh một chiếc thang cứng áp giống nhau cho mọi người, rằng mọi cư sĩ phải sống toàn bộ quy chế sa-môn, rằng tập trung mạnh tự nó là chánh định, hay người giữ hình thức giới chắc chắn có tuệ. Chúng cũng không hợp thức hóa lạm dụng dưới tên tinh tấn.
 
-Đọc trước: [[theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống|Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống]]. Đọc tiếp: Chánh Niệm — Sati Không Chỉ Là Chú Ý. Bài đọc tương lai chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ phân biệt giữa lộ trình xuất gia trong Kinh và cách cư sĩ có thể học nguyên tắc điều kiện. Đọc trước: [[theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống|Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống]]. Đọc tiếp: Chánh Niệm — Sati Không Chỉ Là Chú Ý. Bài đọc tương lai chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
 
 **Nguồn kinh điển chính xác**
 

@@ -57,7 +57,8 @@ Năm uẩn không phải lý thuyết để phủ nhận con người. Chúng l�
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn22.59">SN 22.59, đoạn 2.1–2.5</a> · <i>Anattalakkhaṇa Sutta</i></small>
 
-**Khandha — đọc gần đúng “khan-đa” — uẩn, nhóm hay khối tập hợp** là cách Kinh Pāli gom những gì ta thường nhận làm “tôi” và “của tôi” thành năm phạm vi để khảo sát. Năm phạm vi ấy là **rūpa** (sắc), **vedanā** (thọ), **saññā** (tưởng), **saṅkhāra** (hành) và **viññāṇa** (thức). Chúng không phải năm viên gạch bí mật, năm tầng năng lượng hay năm chất nằm cạnh nhau bên trong một con người. “Uẩn” là công cụ phân tích kinh nghiệm đang đổi thay.
+<!-- vault-voice-section:v1 -->
+Năm uẩn là năm cửa phân tích một kinh nghiệm, không phải năm chất liệu ráp thành một linh hồn tinh tế. **Khandha — đọc gần đúng “khan-đa” — uẩn, nhóm hay khối tập hợp** là cách Kinh Pāli gom những gì ta thường nhận làm “tôi” và “của tôi” thành năm phạm vi để khảo sát. Năm phạm vi ấy là **rūpa** (sắc), **vedanā** (thọ), **saññā** (tưởng), **saṅkhāra** (hành) và **viññāṇa** (thức). Chúng không phải năm viên gạch bí mật, năm tầng năng lượng hay năm chất nằm cạnh nhau bên trong một con người. “Uẩn” là công cụ phân tích kinh nghiệm đang đổi thay.
 
 [Năm uẩn không phải là tự ngã — Tương Ưng Bộ Kinh](https://suttacentral.net/sn22.59) lần lượt hỏi về từng uẩn: nó thường còn hay vô thường; cái vô thường là dễ chịu hay chịu sức ép; cái vô thường, dukkha và biến đổi có thích hợp để xem “đây là của tôi, đây là tôi, đây là tự ngã của tôi” không. Cấu trúc lặp lại khiến người đọc quan sát thay vì xây một học thuyết vật chất về con người.
 
@@ -71,7 +72,8 @@ Cụm quan trọng hơn “năm uẩn” trong Tứ Thánh Đế là **pañcupā
 
 ![thân thể đang thở cạnh ba sắc độ dễ chịu khó chịu trung tính, tất cả chuyển động theo điều kiện](../assets/illustrations/theravada-batch2/theravada-11-sac-va-tho.webp)
 
-**Rūpa — “ru-pa” — sắc, phương diện thân thể hay vật chất** không chỉ có nghĩa “hình ảnh”. Trong công thức thường gặp, sắc được trình bày qua bốn đại và sắc do bốn đại tạo. Ở cấp đọc thực hành, đó là thân có nhiệt, độ cứng, chuyển động, kết dính; là mắt tai mũi lưỡi thân; là điều bị đói, bệnh, già và cần chăm sóc. Gọi thân là sắc uẩn không làm nó giả. Trái lại, nó buộc ta thấy thân cụ thể và điều kiện của thân.
+<!-- vault-voice-section:v1 -->
+Sắc và thọ rất gần nên ta dễ gọi chúng là của mình, nhưng khả năng chăm sóc không đồng nghĩa quyền sở hữu tuyệt đối. **Rūpa — “ru-pa” — sắc, phương diện thân thể hay vật chất** không chỉ có nghĩa “hình ảnh”. Trong công thức thường gặp, sắc được trình bày qua bốn đại và sắc do bốn đại tạo. Ở cấp đọc thực hành, đó là thân có nhiệt, độ cứng, chuyển động, kết dính; là mắt tai mũi lưỡi thân; là điều bị đói, bệnh, già và cần chăm sóc. Gọi thân là sắc uẩn không làm nó giả. Trái lại, nó buộc ta thấy thân cụ thể và điều kiện của thân.
 
 [Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) dùng tiêu chí quyền điều khiển: nếu sắc là tự ngã theo nghĩa một chủ thể làm chủ tuyệt đối, ta có thể ra lệnh “thân tôi hãy thế này, đừng thế kia”. Ta có ảnh hưởng tương đối qua dinh dưỡng, luyện tập, thuốc và nghỉ ngơi; nhưng không có chủ quyền tối hậu trước lão hóa, tai nạn hay bệnh. Lập luận không khuyến khích bỏ chăm sóc. Chính vì thân tùy điều kiện, thay điều kiện là hành động có ý nghĩa.
 
@@ -98,7 +100,8 @@ Sắc và thọ cho thấy hai sai lầm đối nghịch. Một bên coi thân v
 
 ![dấu nhận dạng hiện trên phong cảnh như ảo ảnh, bên cạnh các lớp bẹ chuối của ý định và thói quen](../assets/illustrations/theravada-batch2/theravada-11-tuong-va-hanh.webp)
 
-**Saññā — “san-nha” — tưởng, sự nhận dạng, ghi dấu hay tri giác phân loại** giúp ta nhận ra màu, tiếng, gương mặt, từ ngữ và mẫu quen. “Tưởng” trong tiếng Việt dễ bị hiểu chỉ là tưởng tượng sai. Nhưng saññā cũng vận hành khi ta nhận đúng chiếc cốc, nhớ đường hoặc nhận diện một giọng nói. Nó tạo khả năng sống trong một thế giới có tên, đồng thời có thể đóng dấu quá nhanh.
+<!-- vault-voice-section:v1 -->
+Tưởng nhận dạng và hành tạo hướng nhanh đến mức một dấu hiệu vừa xuất hiện đã thành cả câu chuyện về người khác và về mình. **Saññā — “san-nha” — tưởng, sự nhận dạng, ghi dấu hay tri giác phân loại** giúp ta nhận ra màu, tiếng, gương mặt, từ ngữ và mẫu quen. “Tưởng” trong tiếng Việt dễ bị hiểu chỉ là tưởng tượng sai. Nhưng saññā cũng vận hành khi ta nhận đúng chiếc cốc, nhớ đường hoặc nhận diện một giọng nói. Nó tạo khả năng sống trong một thế giới có tên, đồng thời có thể đóng dấu quá nhanh.
 
 Ảo ảnh của [Năm uẩn rỗng lõi qua năm hình ảnh](https://suttacentral.net/sn22.95) không hàm ý mọi nhận thức đều dối. Người khát nhìn ánh rung và tưởng nước minh họa khoảng cách giữa dấu hiệu với vật được gán. Ta thường gặp một nét mặt rồi nhận thành “họ khinh tôi”, nghe sự im lặng rồi nhận thành “tôi bị bỏ”. Có khi đúng, có khi sai; saññā cần được kiểm tra bằng văn cảnh và bằng chứng. Cái không đáng tin tuyệt đối vẫn có chức năng quy ước.
 
@@ -125,7 +128,8 @@ Khi thấy vậy, hành động đạo đức có khoảng trống. Ta có thể
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn22.95">SN 22.95, đoạn 9.1–9.5</a> · <i>Pheṇapiṇḍūpama Sutta</i></small>
 
-**Viññāṇa — “vin-nha-na” — thức, sự nhận biết phân biệt** là uẩn thứ năm. Trong nhiều bài kinh, thức được nói theo sáu loại: nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức và ý thức. Tên của nó gắn với căn và đối tượng liên hệ. Cách trình bày ấy không thuận với việc biến thức thành một người quan sát thuần túy, thường hằng, đứng ngoài mọi điều kiện.
+<!-- vault-voice-section:v1 -->
+Thức biết đối tượng; nó không cần được nâng thành người quan sát bất biến đứng ngoài mọi điều kiện. **Viññāṇa — “vin-nha-na” — thức, sự nhận biết phân biệt** là uẩn thứ năm. Trong nhiều bài kinh, thức được nói theo sáu loại: nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức và ý thức. Tên của nó gắn với căn và đối tượng liên hệ. Cách trình bày ấy không thuận với việc biến thức thành một người quan sát thuần túy, thường hằng, đứng ngoài mọi điều kiện.
 
 Trò huyễn trong [Năm uẩn rỗng lõi qua năm hình ảnh](https://suttacentral.net/sn22.95) gây ấn tượng về một vật có thật nơi chỉ có thao tác và điều kiện. Ví dụ mời khảo sát thức để tìm cái gì bền chắc, có thể sở hữu và điều khiển; nó không bảo nhận biết hoàn toàn không xảy ra. Khi mắt, hình sắc và các điều kiện thích hợp gặp nhau, nhãn thức hiện hành; khi điều kiện đổi, kiểu nhận biết đổi. Bài 14 sẽ khảo sát kỹ sự sinh khởi tùy thuộc này.
 
@@ -141,7 +145,8 @@ Vì vậy, năm uẩn là năm cửa khảo sát cùng một kinh nghiệm, khô
 
 ![ba nhãn của tôi tôi tự ngã của tôi rời khỏi năm hình bọt bong bóng ảo ảnh bẹ chuối trò huyễn](../assets/illustrations/theravada-batch2/theravada-11-ba-cau-so-huu.webp)
 
-[Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) lặp công thức phủ định ba cách chấp: “của tôi” là sở hữu; “tôi” là đồng nhất; “tự ngã của tôi” là dựng một chủ thể nền. Ba cách có thể xuất hiện khác nhau. Ta không nhất thiết nghĩ thân chính là linh hồn nhưng vẫn nói “thân phải phục vụ tôi”; không nói cảm giác là tôi nhưng xem trạng thái vui là bằng chứng giá trị của mình.
+<!-- vault-voice-section:v1 -->
+Ba câu ‘của tôi, là tôi, tự ngã của tôi’ cho thấy sự nắm tăng dần, còn các ví dụ chỉ làm rõ chứ không thay toàn bộ lập luận. [Năm uẩn không phải là tự ngã](https://suttacentral.net/sn22.59) lặp công thức phủ định ba cách chấp: “của tôi” là sở hữu; “tôi” là đồng nhất; “tự ngã của tôi” là dựng một chủ thể nền. Ba cách có thể xuất hiện khác nhau. Ta không nhất thiết nghĩ thân chính là linh hồn nhưng vẫn nói “thân phải phục vụ tôi”; không nói cảm giác là tôi nhưng xem trạng thái vui là bằng chứng giá trị của mình.
 
 Quán uẩn không đòi thay mọi câu nói đời thường. “Tay tôi”, “ký ức của tôi” và “tôi chịu trách nhiệm” là quy ước hữu ích. Vấn đề là mức bám khiến sự thay đổi trở thành đe dọa hiện sinh hoặc khiến ta gây hại để bảo vệ hình ảnh. Kinh làm việc ở chỗ chấp thủ, không tổ chức một cuộc thanh lọc ngữ pháp.
 
@@ -157,7 +162,8 @@ Khi gặp sang chấn hoặc phân ly, thực hành phủ định mạnh có th�
 
 ![sổ tay năm cột quan sát một phản ứng mà không chia nó thành năm vật thể](../assets/illustrations/theravada-batch2/theravada-11-thuc-hanh-nam-cua.webp)
 
-Chọn một tình huống cường độ vừa: chờ phản hồi, bị chen hàng, nhận lời khen. Ghi “sắc”: tư thế, nhiệt, căng, đối tượng giác quan. Ghi “thọ”: dễ chịu, khó chịu hay trung tính; nếu pha trộn, ghi sự thay đổi. Ghi “tưởng”: tên và ý nghĩa đang được gán. Ghi “hành”: ý định, xung lực, thói quen, lời sắp nói. Ghi “thức”: cửa nhận biết đang nổi bật.
+<!-- vault-voice-section:v1 -->
+Tách một phản ứng qua năm uẩn không làm cảm xúc mất thật; nó làm khối ‘tôi đang như vậy’ bớt kín và dễ quan sát hơn. Chọn một tình huống cường độ vừa: chờ phản hồi, bị chen hàng, nhận lời khen. Ghi “sắc”: tư thế, nhiệt, căng, đối tượng giác quan. Ghi “thọ”: dễ chịu, khó chịu hay trung tính; nếu pha trộn, ghi sự thay đổi. Ghi “tưởng”: tên và ý nghĩa đang được gán. Ghi “hành”: ý định, xung lực, thói quen, lời sắp nói. Ghi “thức”: cửa nhận biết đang nổi bật.
 
 Đừng cố nhét mọi chi tiết vào đúng một hộp. Các uẩn là phạm vi chức năng giao nhau trong mô tả, không năm chất có ranh giới vật lý. Mục tiêu là thấy câu chuyện đặc “tôi là người bị coi thường” có thể được mở ra. Sau đó hỏi từng phần: nó có đổi không; nó hoàn toàn theo lệnh không; nắm nó làm tôi sẽ dẫn tới hành động gì?
 
@@ -185,7 +191,8 @@ Bài thực hành này là suy luận biên tập dựa trên hai văn bản n�
 > [!warning] Điều chưa chứng minh
 > Năm uẩn không chứng minh con người chỉ là máy, thức là linh hồn, có một chân ngã ẩn ngoài năm uẩn, hay các uẩn là năm chất siêu hình. Các ví dụ không chứng minh vật lý, khoa học thần kinh, mô phỏng máy tính hoặc chủ nghĩa hư vô.
 
-Đọc trước: [[theravada/10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa|Trung Đạo — Không Phải Thỏa Hiệp Ở Giữa]]. Đọc tiếp: [[theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu|Sáu Căn Và Sáu Trần — Thế Giới Xuất Hiện Ở Đâu]].
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ năm uẩn trong chức năng giải thoát, không biến chúng thành neuroscience hoặc ontology toàn năng. Đọc trước: [[theravada/10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa|Trung Đạo — Không Phải Thỏa Hiệp Ở Giữa]]. Đọc tiếp: [[theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu|Sáu Căn Và Sáu Trần — Thế Giới Xuất Hiện Ở Đâu]].
 
 **Nguồn kinh chính xác**
 

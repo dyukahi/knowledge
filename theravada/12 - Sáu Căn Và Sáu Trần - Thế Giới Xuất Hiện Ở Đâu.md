@@ -57,7 +57,8 @@ Sáu căn không bảo mọi thứ chỉ do tâm tưởng tượng. Chúng chỉ
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn35.23">SN 35.23, đoạn 1.4–1.6</a> · <i>Sabba Sutta</i></small>
 
-**Āyatana — đọc gần đúng “a-ya-ta-na” — xứ, nền hay phạm vi giác quan và đối tượng** chỉ mười hai miền khi được trình bày thành sáu cặp: mắt–hình sắc, tai–âm thanh, mũi–mùi, lưỡi–vị, thân–đối tượng xúc chạm, ý–các pháp. Tiếng Việt thường gọi phía trong là sáu căn và phía ngoài là sáu trần. “Trong” và “ngoài” ở đây là vai trò trong cấu trúc nhận biết, không nhất thiết là một đường biên siêu hình tuyệt đối.
+<!-- vault-voice-section:v1 -->
+‘Tất cả’ trong bài Kinh này có phạm vi kỹ thuật của kinh nghiệm qua sáu căn, không phải tuyên bố rằng ngoài đó tuyệt đối không thể có gì. **Āyatana — đọc gần đúng “a-ya-ta-na” — xứ, nền hay phạm vi giác quan và đối tượng** chỉ mười hai miền khi được trình bày thành sáu cặp: mắt–hình sắc, tai–âm thanh, mũi–mùi, lưỡi–vị, thân–đối tượng xúc chạm, ý–các pháp. Tiếng Việt thường gọi phía trong là sáu căn và phía ngoài là sáu trần. “Trong” và “ngoài” ở đây là vai trò trong cấu trúc nhận biết, không nhất thiết là một đường biên siêu hình tuyệt đối.
 
 [“Tất cả” trong phạm vi sáu căn và sáu trần — Tương Ưng Bộ Kinh](https://suttacentral.net/sn35.23) định nghĩa “tất cả” bằng chính sáu cặp ấy. Nếu ai tuyên bố bác bỏ cái tất cả này và mô tả một cái tất cả khác, bài kinh nói lời ấy chỉ là khẳng định suông: khi bị hỏi, người ấy không thể trình bày và sẽ lúng túng. Lý do là cái được nói nằm ngoài phạm vi. Đây là tuyên bố mạnh về phạm vi kinh nghiệm và diễn ngôn.
 
@@ -71,7 +72,8 @@ Vì vậy câu “thế giới xuất hiện ở đâu?” không được trả
 
 ![mắt tai mũi lưỡi thân mở vào các trường màu tiếng mùi vị xúc chạm, mỗi cửa có giới hạn riêng](../assets/illustrations/theravada-batch2/theravada-12-nam-cua-than.webp)
 
-**Cakkhu — “chắc-khu” — mắt hay nhãn căn** đứng trong cặp với **rūpa**, hình sắc có thể thấy. Tai đứng với âm thanh, mũi với mùi, lưỡi với vị, thân với cái có thể xúc chạm. Đây không phải danh sách năm dữ liệu trung tính được một linh hồn xem như màn hình. Mỗi cửa giới hạn kiểu đối tượng và kiểu thức có thể sinh.
+<!-- vault-voice-section:v1 -->
+Mắt, tai, mũi, lưỡi và thân không quay phim thế giới trung tính; mỗi cửa chỉ hoạt động khi đủ điều kiện và đã có giới hạn riêng. **Cakkhu — “chắc-khu” — mắt hay nhãn căn** đứng trong cặp với **rūpa**, hình sắc có thể thấy. Tai đứng với âm thanh, mũi với mùi, lưỡi với vị, thân với cái có thể xúc chạm. Đây không phải danh sách năm dữ liệu trung tính được một linh hồn xem như màn hình. Mỗi cửa giới hạn kiểu đối tượng và kiểu thức có thể sinh.
 
 Một tiếng động không trở thành đối tượng của mắt; màu không được nếm bằng lưỡi. Giới hạn này có giá trị thực hành: cái ta gọi “thế giới” ở một khoảnh khắc luôn được cấu hình bởi cửa đang hoạt động và điều kiện của nó. Trong phòng tối, hình sắc không hiện như ban ngày; tai suy giảm làm trường âm đổi; sốt làm vị khác. Không cần phủ nhận vật ngoài để thấy kinh nghiệm luôn có điều kiện.
 
@@ -98,7 +100,8 @@ Ví dụ nhìn một người bước vào phòng. Hình sắc cung cấp đư�
 
 ![ý như cửa thứ sáu đón ký ức ý niệm hình ảnh tâm và đối tượng pháp, không là ông chủ trung tâm](../assets/illustrations/theravada-batch2/theravada-12-y-va-cac-phap.webp)
 
-**Mano — “ma-nô” — ý, căn tâm** là cửa thứ sáu; **dhamma — “đăm-ma” — các pháp hay đối tượng của ý trong văn cảnh này** là phía đối diện. Dhamma ở đây không chỉ là giáo pháp của Đức Phật. Nó có thể gồm ý niệm, ký ức, hình ảnh tâm, tâm trạng hay đối tượng chỉ được biết bằng ý. Một từ Pāli đổi nghĩa theo vị trí; viết hoa “Pháp” ở mọi nơi sẽ làm sai bản đồ.
+<!-- vault-voice-section:v1 -->
+Ý là căn thứ sáu nên ký ức, tưởng tượng và khái niệm cũng đi vào thế giới kinh nghiệm như đối tượng, không chỉ là bình luận đứng ngoài. **Mano — “ma-nô” — ý, căn tâm** là cửa thứ sáu; **dhamma — “đăm-ma” — các pháp hay đối tượng của ý trong văn cảnh này** là phía đối diện. Dhamma ở đây không chỉ là giáo pháp của Đức Phật. Nó có thể gồm ý niệm, ký ức, hình ảnh tâm, tâm trạng hay đối tượng chỉ được biết bằng ý. Một từ Pāli đổi nghĩa theo vị trí; viết hoa “Pháp” ở mọi nơi sẽ làm sai bản đồ.
 
 Việc đặt ý cùng hàng với mắt và tai có hậu quả lớn. Một ký ức xuất hiện cũng là sự kiện có căn và đối tượng, không mặc nhiên là tiếng nói của tự ngã. Một kế hoạch, câu tự thoại hay hình dung có thể được biết như pháp đang đến ý. Ta không cần tin tất cả suy nghĩ, cũng không cần ghét suy nghĩ.
 
@@ -125,7 +128,8 @@ Trong thiền, khi âm thanh nổi bật, biết cửa tai; khi bình luận “
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn148">MN 148, đoạn 7.3</a> · <i>Chachakka Sutta</i></small>
 
-[Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) nói do duyên mắt và hình sắc, nhãn thức sinh; sự gặp nhau của ba là xúc. Công thức lặp qua sáu cửa. **Viññāṇa — “vin-nha-na” — thức, nhận biết phân biệt** vì thế được gọi theo quan hệ: nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức, ý thức. Không có “thức chung” được văn bản nền này nêu như chất nền tự tồn.
+<!-- vault-voice-section:v1 -->
+Căn–trần–thức cho thấy kinh nghiệm là một sự kiện quan hệ; thiếu một điều kiện, cùng thế giới ấy không xuất hiện theo cùng cách. [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) nói do duyên mắt và hình sắc, nhãn thức sinh; sự gặp nhau của ba là xúc. Công thức lặp qua sáu cửa. **Viññāṇa — “vin-nha-na” — thức, nhận biết phân biệt** vì thế được gọi theo quan hệ: nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức, ý thức. Không có “thức chung” được văn bản nền này nêu như chất nền tự tồn.
 
 Quan hệ không có nghĩa ba vật hoàn toàn độc lập va vào nhau như bi-a. Công thức là cách nhận diện các điều kiện cần cho một sự kiện biết. Cũng không nên biến nó thành sơ đồ thần kinh hay thời lượng mili-giây. Kinh dùng bản đồ để thấy vô thường, không phải tự ngã, ái và sự giải thoát; nó không trình bày một thí nghiệm sinh lý.
 
@@ -141,7 +145,8 @@ Thế giới kinh nghiệm vừa công khai vừa riêng phần. Nhiều ngườ
 
 ![vòng mười hai xứ bao quanh trường mô tả, bên ngoài để trắng thay vì gắn nhãn không tồn tại](../assets/illustrations/theravada-batch2/theravada-12-pham-vi-tat-ca.webp)
 
-[“Tất cả” trong phạm vi sáu căn và sáu trần](https://suttacentral.net/sn35.23) thường hấp dẫn những kết luận lớn: “chỉ có ý thức”, “vũ trụ là tâm”, “vật chất không tồn tại”. Nhưng bài kinh không dùng các mệnh đề ấy. Nó liệt kê cái tất cả theo sáu cặp và nói một cái khác nằm ngoài phạm vi diễn đạt. Từ giới hạn của mô tả không suy ra bản thể của mọi thứ là tâm.
+<!-- vault-voice-section:v1 -->
+Gọi sáu căn là ‘The All’ không cấp giấy phép kết luận vũ trụ chỉ là tâm hoặc vật chất không tồn tại. [“Tất cả” trong phạm vi sáu căn và sáu trần](https://suttacentral.net/sn35.23) thường hấp dẫn những kết luận lớn: “chỉ có ý thức”, “vũ trụ là tâm”, “vật chất không tồn tại”. Nhưng bài kinh không dùng các mệnh đề ấy. Nó liệt kê cái tất cả theo sáu cặp và nói một cái khác nằm ngoài phạm vi diễn đạt. Từ giới hạn của mô tả không suy ra bản thể của mọi thứ là tâm.
 
 Một cách đọc thận trọng: bất kỳ bằng chứng nào ta nêu về thế giới cũng phải đi vào kinh nghiệm qua một cửa, kể cả số liệu được đọc và lý thuyết được nghĩ. Điều này đặt giới hạn nhận thức. Nó không nói thiết bị, ngôi sao hay người khác biến mất khi không được cá nhân nhìn. Đó là suy luận vượt văn bản nền.
 
@@ -157,7 +162,8 @@ Do đó, “thế giới xuất hiện ở đâu” là câu hỏi thực hành:
 
 ![người thực hành ghi nhận sáu cửa đang mở, có khoảng dừng trước phản ứng nhưng không khóa giác quan](../assets/illustrations/theravada-batch2/theravada-12-gac-sau-cua.webp)
 
-Chọn mười phút sinh hoạt bình thường. Mỗi khi một đối tượng nổi, gọi nhẹ cửa: “thấy”, “nghe”, “ngửi”, “nếm”, “chạm”, “nghĩ”. Không cần lặp liên tục hoặc đạt tốc độ hoàn hảo. Mục tiêu là thấy ý cũng là cửa và phân biệt dữ kiện giác quan với câu chuyện ý tạo.
+<!-- vault-voice-section:v1 -->
+Gác sáu cửa không phải đóng chúng; nó là học tiếp xúc mà không để mỗi đối tượng tự quyết định chú ý và hành vi của mình. Chọn mười phút sinh hoạt bình thường. Mỗi khi một đối tượng nổi, gọi nhẹ cửa: “thấy”, “nghe”, “ngửi”, “nếm”, “chạm”, “nghĩ”. Không cần lặp liên tục hoặc đạt tốc độ hoàn hảo. Mục tiêu là thấy ý cũng là cửa và phân biệt dữ kiện giác quan với câu chuyện ý tạo.
 
 Khi điện thoại báo, “nghe” là âm; “chắc có việc xấu” là pháp ở ý; khó chịu là thọ do xúc liên hệ. Nhận ra chuỗi không buộc bỏ kiểm tra điện thoại. Ta có thể chọn mở sau một hơi thở, thay vì bị âm thanh điều khiển. Khoảng tự do nhỏ nằm trong việc thay điều kiện của phản ứng.
 
@@ -185,7 +191,8 @@ Sau bài tập, hỏi: cửa nào thường bị bỏ quên; ý có giả làm s
 > [!warning] Điều chưa chứng minh
 > Hai văn bản nền không chứng minh duy tâm, duy ngã, vũ trụ chỉ ở trong não, hay mọi nhận thức ngang nhau. Chúng cũng không chứng minh một lý thuyết khoa học thần kinh, không phủ nhận thế giới quy ước và không biến ý thành linh hồn.
 
-Đọc trước: [[theravada/11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào|Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào]]. Đọc tiếp: [[theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu|Xúc → Thọ → Ái — Khoảnh Khắc Vòng Lặp Bắt Đầu]].
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ ranh giới giữa phạm vi kinh nghiệm trong Kinh và các kết luận siêu hình hiện đại. Đọc trước: [[theravada/11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào|Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào]]. Đọc tiếp: [[theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu|Xúc → Thọ → Ái — Khoảnh Khắc Vòng Lặp Bắt Đầu]].
 
 **Nguồn kinh chính xác**
 

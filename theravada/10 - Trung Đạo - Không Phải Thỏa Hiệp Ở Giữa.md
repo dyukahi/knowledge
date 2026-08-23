@@ -49,7 +49,8 @@ Trung đạo là tìm một trục khác, nơi câu hỏi không còn bị nhố
 
 ![hai cửa sổ một bên hưởng dục và ép xác, một bên tồn tại và không tồn tại, cùng mở vào duyên khởi](../assets/illustrations/theravada-batch2/theravada-10-hai-van-de-trung-dao.webp)
 
-**Majjhimā paṭipadā — đọc gần đúng “maj-ji-ma pa-ti-pa-đa” — lối thực hành trung đạo** thường bị biến thành khẩu hiệu “cái gì cũng vừa phải”. Nhưng “trung” trong Kinh không phải tự động chọn điểm số 5 giữa 0 và 10. Nó được xác định bởi những cực cụ thể và bởi mục tiêu chấm dứt dukkha. Có lúc lựa chọn đúng rất dứt khoát: không sát hại, không lừa dối, rời một nơi bạo lực. Không có nghĩa vụ thỏa hiệp giữa đúng và sai chỉ để đứng giữa.
+<!-- vault-voice-section:v1 -->
+Trước khi ca ngợi trung đạo, phải hỏi hai cực đang nói tới là gì; nếu không, bất kỳ sự lưng chừng nào cũng có thể mượn tên này. **Majjhimā paṭipadā — đọc gần đúng “maj-ji-ma pa-ti-pa-đa” — lối thực hành trung đạo** thường bị biến thành khẩu hiệu “cái gì cũng vừa phải”. Nhưng “trung” trong Kinh không phải tự động chọn điểm số 5 giữa 0 và 10. Nó được xác định bởi những cực cụ thể và bởi mục tiêu chấm dứt dukkha. Có lúc lựa chọn đúng rất dứt khoát: không sát hại, không lừa dối, rời một nơi bạo lực. Không có nghĩa vụ thỏa hiệp giữa đúng và sai chỉ để đứng giữa.
 
 [Bốn sự thật và con đường tránh hai cực — Tương Ưng Bộ Kinh](https://suttacentral.net/sn56.11) trình bày Trung đạo trong phạm vi thực hành: tránh hai cực hưởng dục thấp kém và tự hành xác đau đớn, rồi xác định lối giữa là Bát Chánh Đạo. [Không mắc kẹt giữa có và không — Tương Ưng Bộ Kinh](https://suttacentral.net/sn12.15) trình bày một lối thấy không dựa vào hai cực “mọi thứ tồn tại” và “mọi thứ không tồn tại”; Đức Phật giảng Pháp ở giữa qua duyên khởi và duyên diệt.
 
@@ -85,7 +86,8 @@ Vì vậy, hỏi “ở giữa cái gì?” phải đi trước lời khuyên �
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn56.11">SN 56.11, đoạn 2.4</a> · <i>Dhammacakkappavattana Sutta</i></small>
 
-[Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11) nói hai cực mà người xuất gia không nên theo. Cực thứ nhất là đắm mình trong khoái lạc dục, được mô tả là thấp, thô, phàm tục, không cao quý và không dẫn lợi ích. Cực thứ hai là đắm mình trong tự hành xác, đau đớn, không cao quý và không dẫn lợi ích. Sau khi tránh cả hai, Như Lai giác ngộ Trung đạo, tức Bát Chánh Đạo.
+<!-- vault-voice-section:v1 -->
+Không nuôi dục và không hành xác không phải thỏa hiệp giữa hai sở thích, mà là rời hai chiến lược đều không dẫn tới giải thoát. [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11) nói hai cực mà người xuất gia không nên theo. Cực thứ nhất là đắm mình trong khoái lạc dục, được mô tả là thấp, thô, phàm tục, không cao quý và không dẫn lợi ích. Cực thứ hai là đắm mình trong tự hành xác, đau đớn, không cao quý và không dẫn lợi ích. Sau khi tránh cả hai, Như Lai giác ngộ Trung đạo, tức Bát Chánh Đạo.
 
 **Kāma — “ca-ma” — dục lạc giác quan hoặc đối tượng dục tùy văn cảnh** không có nghĩa mọi cảm giác dễ chịu đều bị cấm. Kinh nói đến lạc không lỗi, hỷ do ly dục và lạc của jhāna. Cực bị bác là lấy hưởng dục làm đường giải thoát, chìm trong nó và giao quyền chỉ huy cho nó. Một bữa ăn đủ nuôi thân khác với dự án dùng vị ngon để lấp cơn khát không đáy.
 
@@ -112,7 +114,8 @@ Hai cực có thể nuôi nhau. Sau buông thả, người ta ghê mình và tr�
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn12.15">SN 12.15, đoạn 2.2, 2.3</a> · <i>Kaccānagotta Sutta</i></small>
 
-[Không mắc kẹt giữa có và không](https://suttacentral.net/sn12.15) trả lời Kaccānagotta về chánh kiến. Thế gian phần lớn dựa trên một nhị nguyên: **atthitā — “át-thi-ta” — tính tồn tại, quan niệm “có”** và **natthitā — “nát-thi-ta” — tính không tồn tại, quan niệm “không”**. Với người thấy sự sinh khởi của thế gian như nó là bằng chánh tuệ, quan niệm “không tồn tại” không đứng; với người thấy sự đoạn diệt, quan niệm “tồn tại” không đứng.
+<!-- vault-voice-section:v1 -->
+Giữa có và không, vấn đề không được giải bằng chọn một nửa tồn tại; nó được tháo bằng thấy sinh khởi và đoạn diệt theo duyên. [Không mắc kẹt giữa có và không](https://suttacentral.net/sn12.15) trả lời Kaccānagotta về chánh kiến. Thế gian phần lớn dựa trên một nhị nguyên: **atthitā — “át-thi-ta” — tính tồn tại, quan niệm “có”** và **natthitā — “nát-thi-ta” — tính không tồn tại, quan niệm “không”**. Với người thấy sự sinh khởi của thế gian như nó là bằng chánh tuệ, quan niệm “không tồn tại” không đứng; với người thấy sự đoạn diệt, quan niệm “tồn tại” không đứng.
 
 Bài kinh tiếp tục: phần đông bị trói bởi bám giữ, chấp trước và thiên kiến; người có cái thấy đúng không nắm “tự ngã của tôi”. Họ không nghi rằng điều sinh chỉ là dukkha sinh và điều diệt chỉ là dukkha diệt. Sau đó Đức Phật giảng Pháp ở giữa bằng chuỗi duyên khởi từ vô minh tới già–chết và chiều đoạn diệt khi vô minh đoạn.
 
@@ -128,7 +131,8 @@ Bhikkhu Bodhi đọc bài trong mạch Nidāna Saṃyutta và nhấn mạnh duy�
 
 ![bánh xe Bát Đạo lồng trong mạng duyên khởi, chánh kiến là điểm nối nhưng hai phạm vi vẫn có nhãn riêng](../assets/illustrations/theravada-batch2/theravada-10-hai-trung-dao-gap-nhau.webp)
 
-Trung đạo của [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11) trả lời “tu thế nào”; Trung đạo của [Không mắc kẹt giữa có và không](https://suttacentral.net/sn12.15) trả lời “thấy thế nào”. Hai câu không tách rời. Người tin một tự ngã phải được nuông chiều có thể nghiêng hưởng dục; người tin thân phải bị tiêu diệt để một bản ngã tinh thần chiến thắng có thể nghiêng hành xác. Thấy các quá trình do điều kiện làm hai dự án ấy mất nền.
+<!-- vault-voice-section:v1 -->
+Hai loại trung đạo gặp nhau khi chánh kiến phá khung sai và con đường tạo điều kiện cho một cách sống khác. Trung đạo của [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11) trả lời “tu thế nào”; Trung đạo của [Không mắc kẹt giữa có và không](https://suttacentral.net/sn12.15) trả lời “thấy thế nào”. Hai câu không tách rời. Người tin một tự ngã phải được nuông chiều có thể nghiêng hưởng dục; người tin thân phải bị tiêu diệt để một bản ngã tinh thần chiến thắng có thể nghiêng hành xác. Thấy các quá trình do điều kiện làm hai dự án ấy mất nền.
 
 Ngược lại, một cái hiểu duyên khởi chỉ nằm trên giấy chưa chắc sửa hành vi. Bát Chánh Đạo đặt chánh kiến cạnh ý hướng, lời, hành động, sinh kế, tinh tấn, niệm và định. Cái thấy được thử trong cách kiếm sống và đáp ứng khoái lạc–đau đớn. Trung đạo không phải chỉ một mệnh đề triết học.
 
@@ -144,7 +148,8 @@ Theo Rupert Gethin, Bát Chánh Đạo phải được hiểu trong cấu trúc 
 
 ![cán cân từ chối đặt sự thật và sai lệch ngang nhau, phía sau là tiêu chí không hại và bằng chứng](../assets/illustrations/theravada-batch2/theravada-10-khong-phai-thoa-hiep.webp)
 
-Trong chính trị, “trung tâm” mô tả vị trí giữa các phe trong một thời điểm. Vị trí ấy đổi khi phổ ý kiến đổi. Majjhimā paṭipadā không được xác định bởi khảo sát dư luận. Nó có nội dung đạo đức và giải thoát cụ thể. Vì vậy không thể viện Trung đạo để mặc nhiên chọn chính sách ở giữa hoặc tránh lên tiếng trước đàn áp.
+<!-- vault-voice-section:v1 -->
+Trung đạo không bảo mọi bên đúng như nhau, càng không bắt mình đứng giữa bất công để trông cân bằng. Trong chính trị, “trung tâm” mô tả vị trí giữa các phe trong một thời điểm. Vị trí ấy đổi khi phổ ý kiến đổi. Majjhimā paṭipadā không được xác định bởi khảo sát dư luận. Nó có nội dung đạo đức và giải thoát cụ thể. Vì vậy không thể viện Trung đạo để mặc nhiên chọn chính sách ở giữa hoặc tránh lên tiếng trước đàn áp.
 
 Trong tranh luận sự thật, hai khẳng định đối lập không bảo đảm đáp án nằm giữa. Nếu một người nói thuốc chứa 10 mg và người kia nói 100 mg, bằng chứng có thể xác nhận một bên, không phải 55 mg. Chánh kiến đòi điều tra nguồn và hậu quả. “Mỗi bên đúng một nửa” có thể là lười nhận thức chứ không trung đạo.
 
@@ -160,7 +165,8 @@ Ngược lại, khắc khổ không tự chứng minh chiều sâu. Thiếu ng�
 
 ![trang thực hành xác định hai cực cụ thể, mạng điều kiện và chi Bát Đạo cần nuôi](../assets/illustrations/theravada-batch2/theravada-10-ban-do-ba-cau-hoi.webp)
 
-Khi muốn dùng “Trung đạo”, viết rõ hai cực. Đừng ghi chung “quá nhiều/quá ít”. Ví dụ với công việc: cực hưởng dục có thể là chạy theo tiền và danh bất chấp hại; cực hành xác có thể là làm kiệt sức để chứng minh giá trị. Sau đó hỏi Bát Chánh Đạo chỉ gì về sinh kế, ý hướng, tinh tấn và niệm. Kết quả có thể không phải số giờ chính giữa, mà là đổi loại công việc hoặc cách đặt ranh.
+<!-- vault-voice-section:v1 -->
+Muốn dùng trung đạo, hãy gọi tên cực, nhiên liệu của cực và hướng đi giúp giảm tham–sân–si thay vì chỉ giảm khó chịu. Khi muốn dùng “Trung đạo”, viết rõ hai cực. Đừng ghi chung “quá nhiều/quá ít”. Ví dụ với công việc: cực hưởng dục có thể là chạy theo tiền và danh bất chấp hại; cực hành xác có thể là làm kiệt sức để chứng minh giá trị. Sau đó hỏi Bát Chánh Đạo chỉ gì về sinh kế, ý hướng, tinh tấn và niệm. Kết quả có thể không phải số giờ chính giữa, mà là đổi loại công việc hoặc cách đặt ranh.
 
 Với một quan điểm về bản thân, xác định hai chấp: “tôi là bản chất cố định này” và “không có gì liên tục nên hành động không quan trọng”. Sau đó lập mạng điều kiện: thân, ký ức, quan hệ, lựa chọn và hậu quả đang cùng tạo câu chuyện thế nào? Quan sát cái gì sinh khi điều kiện có và đổi khi điều kiện đổi. Đây là áp dụng lấy cảm hứng từ [Không mắc kẹt giữa có và không](https://suttacentral.net/sn12.15), không phải dịch nguyên văn.
 
@@ -188,7 +194,8 @@ Sau một tuần, xem lựa chọn có làm tâm bớt dao động giữa nuông
 > [!warning] Điều chưa chứng minh
 > Hai bài kinh không chứng minh “mọi thứ nên vừa phải”, trung dung chính trị luôn đúng, hai phe luôn đúng một nửa, hay không có chân lý đạo đức. [Không mắc kẹt giữa có và không](https://suttacentral.net/sn12.15) cũng không chứng minh ý thức vũ trụ, vật lý hiện đại hoặc một học thuyết phi nhị nguyên bất kỳ.
 
-Đọc trước: [[theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường|Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]]. Đọc tiếp: Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào. Bài 11 chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
+<!-- vault-voice-section:v1 -->
+Phần nguồn chặn việc biến một khái niệm có văn cảnh thành slogan chính trị hoặc tính cách. Đọc trước: [[theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường|Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]]. Đọc tiếp: Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào. Bài 11 chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
 
 **Nguồn kinh điển chính xác**
 

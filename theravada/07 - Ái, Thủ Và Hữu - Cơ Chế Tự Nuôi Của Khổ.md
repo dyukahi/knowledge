@@ -61,7 +61,8 @@ Một cảm giác dễ chịu xuất hiện. Chưa có gì sai. Rồi tâm nói:
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn12.2">SN 12.2, đoạn 2.8–2.10</a> · <i>Vibhaṅga Sutta</i></small>
 
-**Taṇhā — đọc gần đúng “tan-ha” — ái, cơn khát**; **upādāna — “u-pa-đa-na” — thủ, sự bám giữ hoặc chiếm làm căn cứ**; và **bhava — “bha-va” — hữu, tiến trình trở thành hay tồn tại theo văn cảnh** thường bị gộp thành “ham muốn”. Gộp như vậy làm mất cơ chế. Cơn khát hướng về đối tượng chưa phải toàn bộ sự nắm giữ; sự nắm giữ chưa phải toàn bộ tiến trình hiện hữu mà nó làm điều kiện.
+<!-- vault-voice-section:v1 -->
+Ba mắt xích chỉ có ích khi mình thấy được khoảng chuyển từ cảm giác sang khát, từ khát sang nắm và từ nắm sang một kiểu tồn tại phải bảo vệ. **Taṇhā — đọc gần đúng “tan-ha” — ái, cơn khát**; **upādāna — “u-pa-đa-na” — thủ, sự bám giữ hoặc chiếm làm căn cứ**; và **bhava — “bha-va” — hữu, tiến trình trở thành hay tồn tại theo văn cảnh** thường bị gộp thành “ham muốn”. Gộp như vậy làm mất cơ chế. Cơn khát hướng về đối tượng chưa phải toàn bộ sự nắm giữ; sự nắm giữ chưa phải toàn bộ tiến trình hiện hữu mà nó làm điều kiện.
 
 [Định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh](https://suttacentral.net/sn12.2) định nghĩa từng chi trong duyên khởi: thọ làm duyên cho ái, ái làm duyên cho thủ, thủ làm duyên cho hữu, hữu làm duyên cho sinh. [Mạng duyên khởi sâu xa — Trường Bộ Kinh](https://suttacentral.net/dn15) triển khai một mạng phụ thuộc rộng, trong đó ái liên hệ tìm cầu, thu hoạch, quyết định, ham muốn, quyến luyến, chiếm hữu, keo kiệt và phòng vệ; từ phòng vệ có thể sinh xung đột. [Sáu nhóm sáu của kinh nghiệm giác quan — Trung Bộ Kinh](https://suttacentral.net/mn148) đặt tiến trình sát kinh nghiệm giác quan: do căn và đối tượng, thức tương ứng sinh; sự gặp của ba là xúc; xúc làm duyên cho thọ; từ thọ có thể sinh ái.
 
@@ -75,7 +76,8 @@ Tuy vậy, giáo lý không cho phép phán rằng mọi người đang chịu �
 
 ![một cơn khát tách thành dục ái, hữu ái và phi hữu ái quanh một cảm thọ](../assets/illustrations/theravada-batch2/theravada-07-ba-dang-tanha.webp)
 
-[Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) định nghĩa sáu nhóm ái theo đối tượng: ái đối với sắc, thanh, hương, vị, xúc chạm và pháp. Trong công thức Tứ Đế của [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11), ái được chia theo ba hướng: **kāma-taṇhā**, dục ái; **bhava-taṇhā**, hữu ái; và **vibhava-taṇhā**, phi hữu ái. Hai cách chia trả lời hai câu hỏi khác nhau: ái bám vào miền đối tượng nào, và cơn khát muốn khoái cảm, muốn trở thành hay muốn không còn trở thành ra sao.
+<!-- vault-voice-section:v1 -->
+Taṇhā không chỉ hướng tới khoái cảm; nó còn khát được trở thành và khát làm một phần kinh nghiệm biến mất. [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) định nghĩa sáu nhóm ái theo đối tượng: ái đối với sắc, thanh, hương, vị, xúc chạm và pháp. Trong công thức Tứ Đế của [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11), ái được chia theo ba hướng: **kāma-taṇhā**, dục ái; **bhava-taṇhā**, hữu ái; và **vibhava-taṇhā**, phi hữu ái. Hai cách chia trả lời hai câu hỏi khác nhau: ái bám vào miền đối tượng nào, và cơn khát muốn khoái cảm, muốn trở thành hay muốn không còn trở thành ra sao.
 
 Dục ái không chỉ là ham muốn tình dục. **Kāma — “ca-ma” — dục lạc giác quan hoặc đối tượng dục theo văn cảnh** bao gồm sự thèm sắc, tiếng, mùi, vị và xúc dễ chịu. Một bữa ăn có thể được thưởng thức mà không cần biến thành cuộc săn không đáy. Điểm cần quan sát là cơn khát đòi lặp, tăng liều, hoặc dùng đối tượng để lấp một căn tính bất an.
 
@@ -102,7 +104,8 @@ Không phải mọi **chanda — ý muốn, dự định hay sự quan tâm** đ
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn12.2">SN 12.2, đoạn 6.1–6.4</a> · <i>Vibhaṅga Sutta</i></small>
 
-[Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) nêu bốn loại thủ: dục thủ, kiến thủ, giới cấm thủ và ngã luận thủ. Thủ vì vậy rộng hơn việc bám một món đồ. Nó có thể nắm khoái lạc, một quan điểm, một nghi thức được xem là cứu cánh tự động, hoặc một học thuyết về tự ngã. Điểm chung là sự gia cố: điều được muốn trở thành chỗ dựa phải bảo vệ.
+<!-- vault-voice-section:v1 -->
+Upādāna bắt đầu khi điều mình muốn thôi là đối tượng và trở thành tài sản, phe phái hoặc căn tính. [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) nêu bốn loại thủ: dục thủ, kiến thủ, giới cấm thủ và ngã luận thủ. Thủ vì vậy rộng hơn việc bám một món đồ. Nó có thể nắm khoái lạc, một quan điểm, một nghi thức được xem là cứu cánh tự động, hoặc một học thuyết về tự ngã. Điểm chung là sự gia cố: điều được muốn trở thành chỗ dựa phải bảo vệ.
 
 **Diṭṭhi — “đít-thi” — kiến, quan điểm hoặc cách thấy** không tự động xấu; Bát Chánh Đạo bắt đầu bằng chánh kiến. Kiến thủ là quan điểm bị nắm theo cách nuôi đồng nhất và tranh chấp. Ta không còn chỉ xét “mệnh đề này đúng đến đâu”, mà cảm thấy “nếu mệnh đề bị sửa, tôi bị tiêu diệt”. [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15) nối chiếm hữu và phòng vệ với tranh luận, xung đột, bạo lực; đây là chiều xã hội quan trọng của thủ.
 
@@ -118,7 +121,8 @@ Thủ cũng có thể bám vào việc “buông”. Một người dựng hình
 
 ![một từ bhava soi trên tiến trình căn tính hiện tại, miền hiện hữu và khung nhiều đời với nhãn nguồn rõ](../assets/illustrations/theravada-batch2/theravada-07-bhava-nhieu-thang-do.webp)
 
-[Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) định nghĩa ba loại hữu: dục hữu, sắc hữu và vô sắc hữu. Trong ngôn ngữ vũ trụ học và tái sinh, chúng chỉ các miền hay phương thức hiện hữu. Do đó dịch bhava chỉ là “thói quen tâm lý” sẽ làm nghèo nguồn. Nhưng dịch cứng mọi lần thành một kiếp sống hoàn chỉnh cũng có thể che chức năng tiến trình của từ “trở thành”.
+<!-- vault-voice-section:v1 -->
+Bhava đổi sắc theo văn cảnh, nên dịch nó bằng một từ cứng sẽ che mất cả chiều tái sinh lẫn tiến trình trở thành đang thấy được. [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) định nghĩa ba loại hữu: dục hữu, sắc hữu và vô sắc hữu. Trong ngôn ngữ vũ trụ học và tái sinh, chúng chỉ các miền hay phương thức hiện hữu. Do đó dịch bhava chỉ là “thói quen tâm lý” sẽ làm nghèo nguồn. Nhưng dịch cứng mọi lần thành một kiếp sống hoàn chỉnh cũng có thể che chức năng tiến trình của từ “trở thành”.
 
 Trong chuỗi duyên khởi, thủ làm duyên cho hữu và hữu làm duyên cho sinh. Các truyền thống Theravāda hậu kỳ thường diễn giải chuỗi qua ba đời: vô minh và hành thuộc quá khứ, một số chi thuộc hiện tại, sinh–già–chết thuộc tương lai; đồng thời các truyền thống giảng dạy hiện đại có thể nhấn mạnh tiến trình có thể quan sát ngay trong kinh nghiệm. Cách chia ba đời phải được gắn nhãn chú giải, không đặt vào miệng [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) như câu giải thích nguyên văn.
 
@@ -145,7 +149,8 @@ Giữ nhiều thang đo giúp tránh hai lỗi đối nghịch: siêu hình hóa
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn148">MN 148, đoạn 8.3–8.8</a> · <i>Chachakka Sutta</i></small>
 
-[Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) mô tả sáu bộ sáu: sáu căn, sáu đối tượng, sáu thức, sáu xúc, sáu thọ và sáu ái. **Phassa — “phát-sa” — xúc, sự gặp nhau có điều kiện của căn, đối tượng và thức tương ứng** làm duyên cho thọ. Cấu trúc này kéo việc tu tập khỏi những khẩu hiệu lớn về “ham muốn” và đặt nó tại một âm thanh vừa nghe, một hình ảnh vừa thấy, một ý nghĩ vừa xuất hiện.
+<!-- vault-voice-section:v1 -->
+Vòng lặp dễ học nhất ở nơi rất gần: xúc đã xảy ra, thọ đã sinh, nhưng ái chưa nhất thiết phải được tiếp nhiên liệu. [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) mô tả sáu bộ sáu: sáu căn, sáu đối tượng, sáu thức, sáu xúc, sáu thọ và sáu ái. **Phassa — “phát-sa” — xúc, sự gặp nhau có điều kiện của căn, đối tượng và thức tương ứng** làm duyên cho thọ. Cấu trúc này kéo việc tu tập khỏi những khẩu hiệu lớn về “ham muốn” và đặt nó tại một âm thanh vừa nghe, một hình ảnh vừa thấy, một ý nghĩ vừa xuất hiện.
 
 Thọ không phải lỗi. Lạc thọ không cần bị phạt; khổ thọ không phải thất bại; thọ trung tính không chứng tỏ vô minh. Vấn đề là khuynh hướng dưới vô minh: chạy theo lạc, chống khổ, bỏ qua trung tính. [Sáu nhóm sáu của kinh nghiệm giác quan](https://suttacentral.net/mn148) liên hệ sự mê thích và bám với nguồn tăng trưởng của năm thủ uẩn; khi không mê thích, sự bám và khuynh hướng có thể được từ bỏ.
 
@@ -161,7 +166,8 @@ Khả năng không nối thọ thành ái được đào luyện, không phải 
 
 ![hai vòng nguyên nhân bên ngoài và ái thủ hữu bên trong giao nhau tại các hành động bảo vệ và tu tập](../assets/illustrations/theravada-batch2/theravada-07-ban-do-hai-vong.webp)
 
-Vẽ hai vòng giao nhau. Vòng thứ nhất ghi điều kiện bên ngoài: hành vi của người khác, quyền lực, tiền bạc, sức khỏe, luật lệ, lịch sử. Vòng thứ hai ghi chuỗi có thể quan sát: xúc, thọ, ái, thủ, kiểu trở thành. Ở phần giao, ghi hành động vừa giảm hại bên ngoài vừa không nuôi tham–sân–si: tìm nơi an toàn, nói sự thật có bằng chứng, nhờ hỗ trợ, hoặc trì hoãn phản ứng trả đũa.
+<!-- vault-voice-section:v1 -->
+Nói về craving mà quên bạo lực, nghèo đói và điều kiện ngoài kiểm soát sẽ biến giáo pháp thành công cụ đổ lỗi cho người đang chịu hại. Vẽ hai vòng giao nhau. Vòng thứ nhất ghi điều kiện bên ngoài: hành vi của người khác, quyền lực, tiền bạc, sức khỏe, luật lệ, lịch sử. Vòng thứ hai ghi chuỗi có thể quan sát: xúc, thọ, ái, thủ, kiểu trở thành. Ở phần giao, ghi hành động vừa giảm hại bên ngoài vừa không nuôi tham–sân–si: tìm nơi an toàn, nói sự thật có bằng chứng, nhờ hỗ trợ, hoặc trì hoãn phản ứng trả đũa.
 
 Chọn một tình huống vừa sức. Ghi đối tượng và căn liên quan. Gọi đúng thọ là lạc, khổ hay trung tính thay vì lập tức kể cảm xúc phức tạp. Hỏi cơn khát đang hướng tới hưởng, trở thành hay xóa bỏ. Hỏi cái gì đã thành “của tôi”: quan điểm, hình ảnh, nghi thức, khoái cảm. Cuối cùng, mô tả kiểu người hoặc thế giới mà sự nắm ấy đang sản xuất.
 
@@ -189,7 +195,8 @@ Thực hành đúng làm trách nhiệm tinh tế hơn. Ta không chịu trách 
 > [!warning] Điều chưa chứng minh
 > Các nguồn không chứng minh rằng mọi đau khổ do thái độ của nạn nhân, mọi mong muốn là taṇhā, bhava chỉ là một trạng thái tâm hiện tại, hay chuỗi duyên khởi là cơ chế tuyến tính tất định. Chúng cũng không cho phép dùng “buông chấp” để yêu cầu ai ở lại nơi bạo lực.
 
-Đọc trước: [[theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn|Dukkha — Khổ Không Chỉ Là Đau Đớn]]. Đọc tiếp: Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào. Bài 11 chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
+<!-- vault-voice-section:v1 -->
+Nguồn cuối bài giữ ranh giới giữa công thức Kinh, cách diễn giải truyền thống và ví dụ hiện đại của bài. Đọc trước: [[theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn|Dukkha — Khổ Không Chỉ Là Đau Đớn]]. Đọc tiếp: Năm Uẩn — Con Người Được Lắp Ráp Như Thế Nào. Bài 11 chưa xuất bản nên được giữ dưới dạng chữ thường, không tạo đường dẫn.
 
 **Nguồn kinh điển chính xác**
 
