@@ -52,7 +52,8 @@ Một bộ Kinh không tự đóng thành sách rồi rơi xuống từ quá kh�
 ## 1. “Ba Giỏ” Là Một Bản Đồ, Không Phải Ba Chiếc Hộp Xuất Hiện Cùng Lúc
 ![ba giỏ lá bối tượng trưng Luật, Kinh và Vi Diệu Pháp, nối bằng đường truyền khẩu](../assets/illustrations/theravada-batch1/theravada-03-ba-tang.webp)
 
-**Tipiṭaka — đọc gần đúng “Ti-pi-ta-ka” — Tam Tạng, ba giỏ hay ba kho văn bản** là kinh điển Pāli của Theravāda. Ba tạng là **Vinaya — “Vi-na-ya” — Luật, kỷ luật tu viện**; **Sutta — “Sút-ta” — Kinh, bài giảng**; và **Abhidhamma — “A-bi-đăm-ma” — Vi Diệu Pháp, hệ thống phân tích giáo pháp**. Cách chia này cho người học một bản đồ thực dụng, nhưng bản đồ hoàn chỉnh không nên bị chiếu ngược về ngày đầu như thể ba giá sách đã được đóng nhãn sẵn.
+<!-- vault-voice-section:v1 -->
+Hình ảnh ba chiếc giỏ rất gọn, nhưng lịch sử phía sau không gọn như một kho sách được đóng xong trong một ngày. **Tipiṭaka — đọc gần đúng “Ti-pi-ta-ka” — Tam Tạng, ba giỏ hay ba kho văn bản** là kinh điển Pāli của Theravāda. Ba tạng là **Vinaya — “Vi-na-ya” — Luật, kỷ luật tu viện**; **Sutta — “Sút-ta” — Kinh, bài giảng**; và **Abhidhamma — “A-bi-đăm-ma” — Vi Diệu Pháp, hệ thống phân tích giáo pháp**. Cách chia này cho người học một bản đồ thực dụng, nhưng bản đồ hoàn chỉnh không nên bị chiếu ngược về ngày đầu như thể ba giá sách đã được đóng nhãn sẵn.
 
 “Kinh điển” ở đây nghĩa là tập hợp văn bản được một truyền thống công nhận có thẩm quyền đặc biệt. Nó không đồng nghĩa từng câu có cùng tác giả, cùng niên đại hoặc cùng thể loại. Một quy tắc tu viện, một bài kệ cổ, một đối thoại dài và một bảng phân loại tâm đều có thể thuộc kinh điển Theravāda mà vẫn thuộc những tầng hình thành khác nhau. Thẩm quyền tôn giáo và niên đại lịch sử là hai trục, không phải một.
 
@@ -76,7 +77,8 @@ Một bản đồ tốt phải trả lời bốn câu: mỗi tạng làm gì; nh
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/dn16">DN 16, đoạn 1.1.1</a> · <i>Mahāparinibbāna Sutta</i></small>
 
-Nhiều bài Kinh mở bằng công thức **evaṃ me sutaṃ — đọc gần đúng “ê-văm mê su-tăm” — tôi đã được nghe như vầy**. Công thức đặt lời kể trong một chuỗi nghe và truyền, không phải tuyên bố người đọc đang cầm bản thảo do Phật viết. Các đoạn lặp, danh sách số, cấu trúc đối xứng và cụm từ cố định hỗ trợ ghi nhớ. Nhóm tụng đọc có thể sửa lỗi cá nhân; phân công theo bộ giúp xây chuyên môn. “Truyền khẩu” ở đây là một công nghệ xã hội.
+<!-- vault-voice-section:v1 -->
+Truyền khẩu không đồng nghĩa trí nhớ tùy tiện; nó là một technology xã hội với nhịp lặp, cộng đồng kiểm và cả những giới hạn riêng. Nhiều bài Kinh mở bằng công thức **evaṃ me sutaṃ — đọc gần đúng “ê-văm mê su-tăm” — tôi đã được nghe như vầy**. Công thức đặt lời kể trong một chuỗi nghe và truyền, không phải tuyên bố người đọc đang cầm bản thảo do Phật viết. Các đoạn lặp, danh sách số, cấu trúc đối xứng và cụm từ cố định hỗ trợ ghi nhớ. Nhóm tụng đọc có thể sửa lỗi cá nhân; phân công theo bộ giúp xây chuyên môn. “Truyền khẩu” ở đây là một công nghệ xã hội.
 
 > [!quote] Mahākassapa trình với Tăng chúng — Luật tạng Theravāda
 > Luật tạng mở cảnh tụng đọc tập thể bằng việc Tôn giả Mahākassapa chính thức trình với Tăng chúng và mời hội chúng lắng nghe.
@@ -113,7 +115,8 @@ Vì thế, không có khoảnh khắc đơn nhất mà mọi câu trong ba tạn
 ## 3. Luật Tạng: Kiến Trúc Của Một Cộng Đồng
 ![sơ đồ cộng đồng tu viện với giới bổn, thủ tục và chuyện duyên khởi](../assets/illustrations/theravada-batch1/theravada-03-luat-tang.webp)
 
-[Vinaya Piṭaka](https://suttacentral.net/pitaka/vinaya) không đơn giản là danh sách điều cấm. Nó gồm giới bổn cho Tỳ-kheo và Tỳ-kheo-ni, giải thích trường hợp, các thủ tục của Tăng đoàn, quy định về thọ giới, an cư, y phục, thuốc men, xử lý tranh chấp và nhiều câu chuyện. Luật cho thấy giáo pháp cần một hình thức xã hội để tồn tại: ai thuộc cộng đồng, quyết định hợp lệ thế nào, hành vi nào phá niềm tin, và cách phục hồi hòa hợp.
+<!-- vault-voice-section:v1 -->
+Luật chỉ trông như danh sách cấm khi mình quên rằng một cộng đồng thật phải giải quyết xung đột, tài sản, quyền gia nhập và trách nhiệm chung. [Vinaya Piṭaka](https://suttacentral.net/pitaka/vinaya) không đơn giản là danh sách điều cấm. Nó gồm giới bổn cho Tỳ-kheo và Tỳ-kheo-ni, giải thích trường hợp, các thủ tục của Tăng đoàn, quy định về thọ giới, an cư, y phục, thuốc men, xử lý tranh chấp và nhiều câu chuyện. Luật cho thấy giáo pháp cần một hình thức xã hội để tồn tại: ai thuộc cộng đồng, quyết định hợp lệ thế nào, hành vi nào phá niềm tin, và cách phục hồi hòa hợp.
 
 Phần **Suttavibhaṅga — đọc gần đúng “Sút-ta-vi-bhăng-ga” — phân tích giới bổn** đặt từng giới trong truyện duyên khởi rồi giải thích từ, ngoại lệ và mức vi phạm. **Khandhaka — đọc gần đúng “Khan-đa-ka” — các chương hay phẩm lớn** gồm Mahāvagga và Cullavagga, bao quát thiết chế và truyện lịch sử cộng đồng. **Parivāra — đọc gần đúng “Pa-ri-va-ra” — phần phụ tập, ôn tập** tổ chức lại vật liệu Luật theo câu hỏi và bảng phân loại.
 
@@ -128,7 +131,8 @@ Luật cũng là nguồn quan trọng cho lịch sử phụ nữ Phật giáo v�
 ## 4. Kinh Tạng: Năm Nikāya Và Nhiều Thể Loại
 ![năm dòng văn bản dài, vừa, tương ưng, tăng chi và tiểu bộ hội tụ](../assets/illustrations/theravada-batch1/theravada-03-nam-nikaya.webp)
 
-[Sutta Piṭaka](https://suttacentral.net/pitaka/sutta) là kho bài giảng, đối thoại, kệ, truyện và hướng dẫn tu tập. **Nikāya — đọc gần đúng “Ni-ca-ya” — bộ sưu tập** là đơn vị chính. Năm Nikāya Pāli không được xếp đơn giản theo niên đại; tiêu chí gồm độ dài, chủ đề, cấu trúc số và truyền thống bộ sưu tập.
+<!-- vault-voice-section:v1 -->
+Kinh tạng không phải một cuốn sách có một giọng kể, nên cách đọc một bài đối thoại không thể giống cách đọc một danh sách ghi nhớ. [Sutta Piṭaka](https://suttacentral.net/pitaka/sutta) là kho bài giảng, đối thoại, kệ, truyện và hướng dẫn tu tập. **Nikāya — đọc gần đúng “Ni-ca-ya” — bộ sưu tập** là đơn vị chính. Năm Nikāya Pāli không được xếp đơn giản theo niên đại; tiêu chí gồm độ dài, chủ đề, cấu trúc số và truyền thống bộ sưu tập.
 
 [Dīgha Nikāya](https://suttacentral.net/pitaka/sutta/long/dn), Trường Bộ, có các bài dài. Chúng thường chứa tường thuật quy mô lớn, tranh luận với quan điểm đương thời, mô tả con đường tuần tự và ký ức cộng đồng như [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16). Độ dài tạo không gian tổng hợp nhưng cũng cho phép nhiều lớp văn chương. Không nên giả định một bài dài là muộn toàn bộ hoặc sớm toàn bộ chỉ vì kích thước.
 
@@ -143,7 +147,8 @@ Các bộ Āgama Hán dịch tương ứng với bốn Nikāya chính và nhiề
 ## 5. Vi Diệu Pháp: Kinh điển Nhưng Là Một Lớp Hệ Thống Riêng
 ![mạng phân tích các pháp với bảy cụm sách, không dùng biểu tượng khoa học giả](../assets/illustrations/theravada-batch1/theravada-03-bay-bo-abhidhamma.webp)
 
-[Abhidhamma Piṭaka](https://suttacentral.net/pitaka/abhidhamma) của Theravāda gồm bảy bộ: *Dhammasaṅgaṇī* phân loại các pháp; *Vibhaṅga* phân tích các chủ đề; *Dhātukathā* bàn về các giới; *Puggalapaññatti* phân loại hạng người; *Kathāvatthu* trình bày các điểm tranh luận; *Yamaka* dùng cấu trúc cặp; và *Paṭṭhāna* khảo sát các quan hệ điều kiện. Mô tả một dòng cho mỗi sách chỉ là định hướng, không thay thế việc đọc cấu trúc thực tế.
+<!-- vault-voice-section:v1 -->
+Vi Diệu Pháp nằm trong canon Theravāda, nhưng chính vì vậy càng phải gọi đúng lớp thay vì lén đưa hệ thống hậu kỳ vào miệng Kinh sớm. [Abhidhamma Piṭaka](https://suttacentral.net/pitaka/abhidhamma) của Theravāda gồm bảy bộ: *Dhammasaṅgaṇī* phân loại các pháp; *Vibhaṅga* phân tích các chủ đề; *Dhātukathā* bàn về các giới; *Puggalapaññatti* phân loại hạng người; *Kathāvatthu* trình bày các điểm tranh luận; *Yamaka* dùng cấu trúc cặp; và *Paṭṭhāna* khảo sát các quan hệ điều kiện. Mô tả một dòng cho mỗi sách chỉ là định hướng, không thay thế việc đọc cấu trúc thực tế.
 
 Vi Diệu Pháp chuyển trọng tâm từ bài giảng gắn với người nghe sang ma trận phân tích. Nhiều đơn vị bắt nguồn từ Kinh—uẩn, xứ, giới, căn, giác chi—nhưng được tái tổ chức, định nghĩa và kết nối có hệ thống. Đây là lý do vừa có tính liên tục vừa có tính riêng: vật liệu không xuất hiện từ hư vô, song phương pháp và kiến trúc không giống một đối thoại Kinh.
 
@@ -158,7 +163,8 @@ Người mới nên dùng Vi Diệu Pháp như một bản đồ có quy ước,
 ## 6. Đọc Canon Theo Tầng Mà Không Làm Nó Vỡ Vụn
 ![kính đọc đặt trên bản thảo, làm hiện các lớp sớm, Luật, hệ thống và chú giải](../assets/illustrations/theravada-batch1/theravada-03-doc-theo-tang.webp)
 
-Phân lớp không nhằm chọn vài câu “nguyên thủy” rồi vứt phần còn lại. Nó giúp trả lời đúng loại câu hỏi. Muốn biết một giáo lý có nền chung sớm, ưu tiên Kinh và Luật có bản song song. Muốn hiểu quy tắc Tăng đoàn Theravāda, đọc Luật Pāli trong toàn bộ thủ tục. Muốn hiểu phân tích tâm của Theravāda, đọc Abhidhamma và chú giải với đúng thuật ngữ. Muốn biết cộng đồng tưởng nhớ lịch sử thế nào, đọc biên niên. Mỗi nguồn có thẩm quyền trong phạm vi khác nhau.
+<!-- vault-voice-section:v1 -->
+Phân tầng nguồn không nhằm bẻ canon thành mảnh vụn; nó giúp mình hỏi đúng tài liệu cho đúng câu hỏi. Phân lớp không nhằm chọn vài câu “nguyên thủy” rồi vứt phần còn lại. Nó giúp trả lời đúng loại câu hỏi. Muốn biết một giáo lý có nền chung sớm, ưu tiên Kinh và Luật có bản song song. Muốn hiểu quy tắc Tăng đoàn Theravāda, đọc Luật Pāli trong toàn bộ thủ tục. Muốn hiểu phân tích tâm của Theravāda, đọc Abhidhamma và chú giải với đúng thuật ngữ. Muốn biết cộng đồng tưởng nhớ lịch sử thế nào, đọc biên niên. Mỗi nguồn có thẩm quyền trong phạm vi khác nhau.
 
 Một quy trình ngắn gồm năm bước. Trước hết xác định mã văn bản và bộ sưu tập, thay vì chỉ dẫn một câu trên mạng. Kế đó đọc người nói, người nghe, vấn đề và phần trước–sau. Thứ ba kiểm tra thuật ngữ Pāli và ít nhất một bản dịch khác khi nghĩa gây tranh luận. Thứ tư tìm bản song song hoặc cách dùng ở nơi khác. Cuối cùng ghi rõ đâu là văn bản, đâu là chú giải, đâu là nghiên cứu và đâu là suy luận của người viết.
 
@@ -185,7 +191,8 @@ Trong thực hành, bản đồ Tam Tạng ngăn hai sai lầm đối nghịch. 
 > [!warning] Điều chưa chứng minh
 > Chưa có bằng chứng rằng một hội nghị duy nhất cố định nguyên văn ba tạng đúng hình thức hiện nay. Chưa có bản thảo còn lại từ lần viết xuống được biên niên kể. Không chứng minh được mọi phần Kinh–Luật cùng tuổi, hoặc hệ thống Vi Diệu Pháp hoàn chỉnh đã tồn tại trong đời Đức Phật.
 
-Đọc trước: [[theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm|Theravāda Là Gì — Truyền Thừa, Phạm Vi Và Những Hiểu Lầm]]. Đọc tiếp: Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều. Bài đọc tiếp chưa xuất bản nên được giữ dưới dạng chữ thường.
+<!-- vault-voice-section:v1 -->
+Một bản đồ canon tốt phải để người đọc lần ngược được từng claim, không chỉ ngưỡng mộ kiến trúc tổng thể. Đọc trước: [[theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm|Theravāda Là Gì — Truyền Thừa, Phạm Vi Và Những Hiểu Lầm]]. Đọc tiếp: Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều. Bài đọc tiếp chưa xuất bản nên được giữ dưới dạng chữ thường.
 
 **Nguồn kinh điển và bộ sưu tập chính xác**
 

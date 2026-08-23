@@ -68,7 +68,8 @@ Bốn Thánh Đế thường bị học như bốn dòng để trả bài. Nhưn
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn56.11">SN 56.11, đoạn 5.2; 6.2; 7.2; 8.2</a> · <i>Dhammacakkappavattana Sutta</i></small>
 
-Tứ Thánh Đế thường được nhớ bằng bốn từ: khổ, tập, diệt, đạo. Cách ghi ấy hữu ích nhưng dễ biến một cấu trúc thực hành thành bảng tín điều. [Bốn sự thật và con đường tránh hai cực — Tương Ưng Bộ Kinh](https://suttacentral.net/sn56.11) không chỉ nêu bốn nội dung. Với mỗi nội dung, bài kinh gắn một nhiệm vụ và tuyên bố nhiệm vụ đã hoàn thành. Như vậy có ba vòng nhận biết đối với mỗi đế—nhận ra sự thật, nhận ra việc phải làm, nhận ra việc đã làm xong—thành “ba vòng, mười hai phương diện” trong chính cấu trúc bài.
+<!-- vault-voice-section:v1 -->
+Bốn khẩu hiệu không chữa được gì; bốn nhiệm vụ mới biến Tứ Đế thành một tiến trình sống. Tứ Thánh Đế thường được nhớ bằng bốn từ: khổ, tập, diệt, đạo. Cách ghi ấy hữu ích nhưng dễ biến một cấu trúc thực hành thành bảng tín điều. [Bốn sự thật và con đường tránh hai cực — Tương Ưng Bộ Kinh](https://suttacentral.net/sn56.11) không chỉ nêu bốn nội dung. Với mỗi nội dung, bài kinh gắn một nhiệm vụ và tuyên bố nhiệm vụ đã hoàn thành. Như vậy có ba vòng nhận biết đối với mỗi đế—nhận ra sự thật, nhận ra việc phải làm, nhận ra việc đã làm xong—thành “ba vòng, mười hai phương diện” trong chính cấu trúc bài.
 
 **Ariyasacca — đọc gần đúng “a-ri-ya-xát-cha” — sự thật cao quý hay sự thật của bậc Thánh** là cụm có nhiều khả năng phân tích ngữ pháp. *Ariya* có thể chỉ điều cao quý hoặc điều được những người cao quý thấu triệt; không nên dựng một khẳng định từ nguyên cứng từ bản dịch tiếng Việt. Điều không mơ hồ là chức năng: đây là những sự thật mà sự hiểu trọn vẹn được bài kinh gắn với giác ngộ.
 
@@ -81,7 +82,8 @@ Theo truyện khung của kinh điển, [Bốn sự thật và con đường tr�
 ## 2. Đế Thứ Nhất: Dukkha Phải Được Hiểu Đầy Đủ
 ![đời sống có đau đớn, đổi thay và bàn tay nắm năm dòng kinh nghiệm, không phủ màu tuyệt vọng](../assets/illustrations/theravada-batch1/theravada-05-dukkha.webp)
 
-[Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11) liệt kê sinh, già, bệnh, chết; sầu, bi, khổ, ưu, não; gặp điều không ưa, xa điều ưa, muốn mà không được. Rồi bài tóm tắt: năm uẩn bị chấp thủ là dukkha. Danh sách bao gồm đau đớn hiển nhiên nhưng đi xa hơn đau cảm giác. Một đời có khoái lạc, tình thân và thành tựu vẫn nằm dưới sức ép vì những gì được nắm làm nền an toàn đều đổi thay và không hoàn toàn theo ý.
+<!-- vault-voice-section:v1 -->
+Đế thứ nhất không yêu cầu mình bi quan, nó yêu cầu mình ngừng kể chuyện đủ lâu để thấy chính xác cái gì đang gây sức ép. [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11) liệt kê sinh, già, bệnh, chết; sầu, bi, khổ, ưu, não; gặp điều không ưa, xa điều ưa, muốn mà không được. Rồi bài tóm tắt: năm uẩn bị chấp thủ là dukkha. Danh sách bao gồm đau đớn hiển nhiên nhưng đi xa hơn đau cảm giác. Một đời có khoái lạc, tình thân và thành tựu vẫn nằm dưới sức ép vì những gì được nắm làm nền an toàn đều đổi thay và không hoàn toàn theo ý.
 
 **Khandha — đọc gần đúng “khan-đa” — uẩn, nhóm kết tập** gồm sắc, thọ, tưởng, hành và thức. Trong công thức Tứ Đế, điểm chính xác là *pañcupādānakkhandhā*: năm uẩn chịu sự chấp thủ hay năm thủ uẩn. **Upādāna — đọc gần đúng “u-pa-đa-na” — thủ, nắm giữ và nhận làm căn cứ bản sắc** làm rõ vì sao câu này không phải tuyên bố thân hay cảm thọ tự nó là tội lỗi. Chính cấu trúc bị nắm giữ làm kinh nghiệm thành nơi đòi hỏi “hãy là tôi, của tôi, và đừng đổi”.
 
@@ -94,7 +96,8 @@ Nhiệm vụ với đế thứ nhất là **pariññeyya**—cần được bi�
 ## 3. Đế Thứ Hai: Nguồn Sinh Phải Được Từ Bỏ
 ![dòng khát tách thành dục ái, hữu ái và phi hữu ái rồi bám vào kinh nghiệm](../assets/illustrations/theravada-batch1/theravada-05-tanha.webp)
 
-[Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11) xác định nguồn sinh của dukkha là **taṇhā — đọc gần đúng “tan-ha” — ái, cơn khát** dẫn đến tái hữu, đi cùng thích thú và tham, tìm vui chỗ này chỗ kia. Ba dạng được nêu: dục ái, hữu ái và phi hữu ái. *Kāma-taṇhā* chạy theo khoái cảm giác quan; *bhava-taṇhā* khát trở thành hoặc tiếp tục một bản sắc; *vibhava-taṇhā* khát không trở thành, muốn tiêu diệt điều đang có. Dạng cuối cho thấy từ bỏ ái không đồng nghĩa cưỡng ép mọi ham muốn bằng ghét bỏ.
+<!-- vault-voice-section:v1 -->
+Nguồn sinh của khổ không phải cái cớ để đổ lỗi cho người đang đau; nó chỉ phần nhiên liệu có thể được nhận ra và ngừng cấp thêm. [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11) xác định nguồn sinh của dukkha là **taṇhā — đọc gần đúng “tan-ha” — ái, cơn khát** dẫn đến tái hữu, đi cùng thích thú và tham, tìm vui chỗ này chỗ kia. Ba dạng được nêu: dục ái, hữu ái và phi hữu ái. *Kāma-taṇhā* chạy theo khoái cảm giác quan; *bhava-taṇhā* khát trở thành hoặc tiếp tục một bản sắc; *vibhava-taṇhā* khát không trở thành, muốn tiêu diệt điều đang có. Dạng cuối cho thấy từ bỏ ái không đồng nghĩa cưỡng ép mọi ham muốn bằng ghét bỏ.
 
 Không phải mọi ý muốn đều taṇhā theo cùng nghĩa. Muốn học, muốn giữ giới hay muốn giúp người có thể được đánh giá theo nguồn gốc và hướng đi. Nếu đồng nhất mọi động lực với nguyên nhân khổ, ngay nhiệm vụ phát triển con đường trở nên bất khả. Vấn đề là cơn khát nắm đối tượng như nguồn thỏa mãn và bản sắc, được tham, sân, si nuôi dưỡng.
 
@@ -118,7 +121,8 @@ Nguồn sinh không phải lời giải thích độc quyền cho mọi tổn th
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/sn56.11">SN 56.11, đoạn 4.6–4.10</a> · <i>Dhammacakkappavattana Sutta</i></small>
 
-[Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11) định nghĩa sự đoạn diệt dukkha qua việc ly tham và đoạn diệt hoàn toàn chính cơn ái ấy: từ bỏ, buông bỏ, giải thoát khỏi nó và không còn dựa vào nó. Ngôn ngữ tập trung vào cơ chế được chấm dứt, không mô tả việc giết một cái tôi. Vì vậy đọc nirodha như hư vô hóa con người là đưa vào văn bản một chủ thể bất biến rồi tưởng tượng chủ thể ấy bị xóa.
+<!-- vault-voice-section:v1 -->
+Nirodha dễ bị tưởng thành một nơi hoặc một trạng thái tê lặng, trong khi văn bản nói thẳng về sự chấm dứt cơ chế bám. [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11) định nghĩa sự đoạn diệt dukkha qua việc ly tham và đoạn diệt hoàn toàn chính cơn ái ấy: từ bỏ, buông bỏ, giải thoát khỏi nó và không còn dựa vào nó. Ngôn ngữ tập trung vào cơ chế được chấm dứt, không mô tả việc giết một cái tôi. Vì vậy đọc nirodha như hư vô hóa con người là đưa vào văn bản một chủ thể bất biến rồi tưởng tượng chủ thể ấy bị xóa.
 
 **Nibbāna — đọc gần đúng “níp-ba-na” — Niết-bàn, sự tắt tham, sân và si** là cứu cánh mà truyền thống liên hệ với nirodha. Ẩn dụ “tắt” không tự cho phép kết luận đây là một địa điểm, một chất thể vũ trụ hay hư vô tuyệt đối. Các bài Kinh dùng nhiều mô tả phủ định và tích cực; tranh luận bản thể học về Nibbāna vượt quá phạm vi Tứ Đế căn bản. Điều [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11) đòi là nhận biết khả năng ái chấm dứt và dukkha không còn được sản xuất theo cơ chế ấy.
 
@@ -131,7 +135,8 @@ Ngay trong đời thường, người học có thể quan sát một mô hình 
 ## 5. Đế Thứ Tư: Magga Phải Được Phát Triển
 ![bánh xe tám nan được chăm sóc đồng thời thay vì tám bậc thang tuyến tính](../assets/illustrations/theravada-batch1/theravada-05-magga.webp)
 
-Đường dẫn đến đoạn diệt là Bát Chánh Đạo: chánh kiến, chánh tư duy hay ý hướng, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm và chánh định. [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11) nêu danh sách; [Phân tích Bốn sự thật cao quý](https://suttacentral.net/mn141) định nghĩa từng chi ngắn gọn. Bài 8 sẽ đọc chi tiết với [Giải thích từng chi của Bát Chánh Đạo](https://suttacentral.net/sn45.8) và [Chánh kiến và cấu trúc con đường](https://suttacentral.net/mn117). Ở đây, điểm quyết định là nhiệm vụ: **bhāvetabba**—phải được tu tập, làm cho phát triển.
+<!-- vault-voice-section:v1 -->
+Con đường không phải tám lời khuyên độc lập; nó là hệ điều kiện làm một cách sống khác trở nên khả thi. Đường dẫn đến đoạn diệt là Bát Chánh Đạo: chánh kiến, chánh tư duy hay ý hướng, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm và chánh định. [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11) nêu danh sách; [Phân tích Bốn sự thật cao quý](https://suttacentral.net/mn141) định nghĩa từng chi ngắn gọn. Bài 8 sẽ đọc chi tiết với [Giải thích từng chi của Bát Chánh Đạo](https://suttacentral.net/sn45.8) và [Chánh kiến và cấu trúc con đường](https://suttacentral.net/mn117). Ở đây, điểm quyết định là nhiệm vụ: **bhāvetabba**—phải được tu tập, làm cho phát triển.
 
 Con đường không phải giá phải trả cho một quyền lực ban cứu rỗi. Nó là mạng điều kiện làm suy yếu nguyên nhân khổ và làm khả năng chứng ngộ chín. Chánh kiến giúp nhận đúng vấn đề; ý hướng định hướng hành động; lời nói, hành vi và sinh kế giảm xung đột cùng hối hận; tinh tấn, niệm và định đào luyện khả năng thấy. Các chi hỗ trợ nhau, nên không cần chờ “xong đạo đức” mới bắt đầu chú ý hay chờ “xong trí tuệ” mới sửa lời.
 
@@ -142,7 +147,8 @@ Trong [Bốn sự thật và con đường tránh hai cực](https://suttacentra
 ## 6. Dùng Bốn Đế Như Khung Điều Tra, Không Như Công Thức Áp Lên Người Khác
 ![trang quan sát một tình huống qua hiện tượng, ái, lúc buông và điều kiện cần nuôi](../assets/illustrations/theravada-batch1/theravada-05-nhat-ky-bon-de.webp)
 
-Chọn một sự việc có cường độ vừa, chẳng hạn bực khi bị phê bình. Ở ô thứ nhất, mô tả dukkha mà không kể lại bản án: nóng mặt, co bụng, lặp câu nói, sợ mất hình ảnh. Tách cảm thọ, tưởng, ý định và câu chuyện “tôi bị xúc phạm”. Mục tiêu là hiểu cấu trúc, không phủ nhận việc lời phê bình có thể bất công.
+<!-- vault-voice-section:v1 -->
+Dùng Tứ Đế lên người khác rất dễ thành bạo lực tinh tế, nên bài tập phải bắt đầu từ kinh nghiệm mình có trách nhiệm quan sát. Chọn một sự việc có cường độ vừa, chẳng hạn bực khi bị phê bình. Ở ô thứ nhất, mô tả dukkha mà không kể lại bản án: nóng mặt, co bụng, lặp câu nói, sợ mất hình ảnh. Tách cảm thọ, tưởng, ý định và câu chuyện “tôi bị xúc phạm”. Mục tiêu là hiểu cấu trúc, không phủ nhận việc lời phê bình có thể bất công.
 
 Ở ô thứ hai, tìm cơn khát: muốn người kia rút lời, muốn mình luôn được nhìn nhận đúng, muốn cảm giác khó chịu biến mất ngay, hoặc muốn trở thành người thắng tranh luận. Không gọi mọi nhu cầu ranh giới là ái. Nếu bị lạm dụng, hành động bảo vệ có thể cần thiết. Hãy hỏi phần nào là đáp ứng sáng suốt và phần nào là sự nắm giữ đang nhân khổ.
 
@@ -167,7 +173,8 @@ Lặp lại sẽ cho thấy bốn đế không nhất thiết diễn ra như b�
 > [!warning] Điều chưa chứng minh
 > Truyện khung của kinh điển chưa tự chứng minh nguyên văn lịch sử của bài pháp đầu tiên. Tứ Đế không chứng minh rằng mọi đau đớn chỉ do thái độ cá nhân, rằng bệnh hay bất công không cần can thiệp, hoặc một thoáng nhẹ nhõm đồng nghĩa chứng Nibbāna.
 
-Đọc trước: [[theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều|Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều]]. Đọc tiếp: [[theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống|Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống]].
+<!-- vault-voice-section:v1 -->
+Phần kết này khóa ranh giới để khung chẩn đoán không bị nâng thành lời giải thích duy nhất cho mọi đau khổ xã hội và y khoa. Đọc trước: [[theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều|Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều]]. Đọc tiếp: [[theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống|Bát Chánh Đạo — Tám Chi Phần Của Một Hệ Thống]].
 
 **Nguồn kinh điển chính xác**
 

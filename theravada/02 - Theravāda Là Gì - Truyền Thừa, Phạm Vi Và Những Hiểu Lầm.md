@@ -82,7 +82,8 @@ Bài này không hỏi Theravāda có phải đội thắng cuối cùng không.
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/pli-tv-kd22">Cullavagga XII, các đoạn 1.1.1–1.1.2</a> · <i>Cullavagga XII</i></small>
 
-**Theravāda — đọc gần đúng “Thê-ra-va-đa” — giáo pháp hay đường lối của các Trưởng lão** là tên của một truyền thống Phật giáo sống. `Thera` nghĩa là trưởng lão; `vāda` trong tên gọi có thể mang nghĩa lời dạy, chủ trương hoặc truyền thống. Dịch gọn là “Giáo pháp của các Trưởng lão” hữu ích hơn việc cố biến tên này thành một tuyên bố rằng mọi thành viên đều già nhất, nguyên thủy nhất hoặc không từng thay đổi.
+<!-- vault-voice-section:v1 -->
+Một truyền thống sống luôn vừa bảo tồn vừa thay đổi; gọi nó là hóa thạch chỉ giúp mình khỏi phải nhìn phần lịch sử phức tạp ở giữa. **Theravāda — đọc gần đúng “Thê-ra-va-đa” — giáo pháp hay đường lối của các Trưởng lão** là tên của một truyền thống Phật giáo sống. `Thera` nghĩa là trưởng lão; `vāda` trong tên gọi có thể mang nghĩa lời dạy, chủ trương hoặc truyền thống. Dịch gọn là “Giáo pháp của các Trưởng lão” hữu ích hơn việc cố biến tên này thành một tuyên bố rằng mọi thành viên đều già nhất, nguyên thủy nhất hoặc không từng thay đổi.
 
 Ngày nay Theravāda có vị trí nổi bật tại Sri Lanka, Myanmar, Thái Lan, Lào và Campuchia, đồng thời hiện diện ở Bangladesh, Nepal, Ấn Độ, Malaysia, Indonesia và các cộng đồng toàn cầu. Các truyền thống giới đàn, nghi lễ, giáo dục và thiền không hoàn toàn giống nhau. Một tu viện rừng Thái, một học viện Vi Diệu Pháp Myanmar và một ngôi chùa đô thị Sri Lanka có thể cùng nhận Tam Tạng Pāli là kinh điển nhưng tổ chức đời sống rất khác. “Theravāda” vì vậy chỉ một gia đình lịch sử có điểm quy chiếu chung, không phải một khối đồng nhất.
 
@@ -95,7 +96,8 @@ Muốn hiểu đúng, ta phải giữ hai mệnh đề cùng lúc. Một: Therav
 ## 2. Từ Pháp–Luật Đến Ký Ức Về Các Hội Nghị
 ![nhóm người tụng đọc theo vòng tròn, không giả tạo cảnh chụp lịch sử](../assets/illustrations/theravada-batch1/theravada-02-hoi-nghi-truyen-khau.webp)
 
-Trong [Những ngày cuối của Đức Phật — Trường Bộ Kinh](https://suttacentral.net/dn16), Đức Phật được kể là chỉ định **Dhamma — “Đăm-ma” — Pháp, giáo pháp** và **Vinaya — “Vi-na-ya” — Luật, kỷ luật tu viện** làm thầy sau khi Ngài qua đời. Văn bản không nói “Theravāda” theo nghĩa quốc gia và thể chế hiện đại. Nó đặt nền cho một cộng đồng nhận diện mình bằng điều được dạy và khuôn phép chung. Cặp “Pháp–Luật” có lẽ gần hơn với tự nhận thức ban đầu so với các nhãn bộ phái về sau.
+<!-- vault-voice-section:v1 -->
+Trước khi có nhãn Theravāda, cộng đồng đã phải trả lời một câu nền hơn: sau khi người thầy mất, điều gì còn có quyền hướng dẫn? Trong [Những ngày cuối của Đức Phật — Trường Bộ Kinh](https://suttacentral.net/dn16), Đức Phật được kể là chỉ định **Dhamma — “Đăm-ma” — Pháp, giáo pháp** và **Vinaya — “Vi-na-ya” — Luật, kỷ luật tu viện** làm thầy sau khi Ngài qua đời. Văn bản không nói “Theravāda” theo nghĩa quốc gia và thể chế hiện đại. Nó đặt nền cho một cộng đồng nhận diện mình bằng điều được dạy và khuôn phép chung. Cặp “Pháp–Luật” có lẽ gần hơn với tự nhận thức ban đầu so với các nhãn bộ phái về sau.
 
 [Chương Luật về kỳ kết tập đầu tiên — Luật tạng Theravāda](https://suttacentral.net/pli-tv-kd21) của Luật tạng kể hội nghị tại Rājagaha: Mahākassapa chủ trì, Ānanda tụng đọc Pháp và Upāli tụng đọc Luật. [Chương Luật về tranh chấp Vesālī — Luật tạng Theravāda](https://suttacentral.net/pli-tv-kd22) kể tranh chấp tại Vesālī về mười thực hành và một cuộc phân xử của các trưởng lão. Trong truyền thống Theravāda, đây là hội nghị thứ nhất và thứ hai, những mắt xích quyết định của bảo tồn chính thống.
 
@@ -110,7 +112,8 @@ Vì vậy, câu “Tam Tạng được kết tập nguyên vẹn ngay tại hộ
 ## 3. Sri Lanka Và Sự Thành Hình Của Một Truyền Thừa
 ![bản đồ khái niệm tuyến nối Ấn Độ với Sri Lanka và Đông Nam Á](../assets/illustrations/theravada-batch1/theravada-02-an-do-sri-lanka.webp)
 
-Các biên niên Sri Lanka kể rằng Mahinda, con vua Aśoka, đưa giáo pháp đến đảo vào thế kỷ III trước Công nguyên, gặp vua Devānampiya Tissa và thiết lập Tăng đoàn tại Mahāvihāra. Saṅghamittā mang nhánh cây Bồ-đề và thiết lập truyền thừa Tỳ-kheo-ni. Những câu chuyện này tạo bản sắc mạnh mẽ và có một khung lịch sử phù hợp với mạng lưới Aśoka, nhưng chi tiết đối thoại và trình tự đến từ nguồn muộn. Chúng cần được gọi là ký ức biên niên, không phải báo cáo cùng thời.
+<!-- vault-voice-section:v1 -->
+Sri Lanka không chỉ là địa điểm truyền giáo trên bản đồ; đó là nơi ký ức, quyền lực, Tăng đoàn và văn bản cùng định hình truyền thừa mình biết hôm nay. Các biên niên Sri Lanka kể rằng Mahinda, con vua Aśoka, đưa giáo pháp đến đảo vào thế kỷ III trước Công nguyên, gặp vua Devānampiya Tissa và thiết lập Tăng đoàn tại Mahāvihāra. Saṅghamittā mang nhánh cây Bồ-đề và thiết lập truyền thừa Tỳ-kheo-ni. Những câu chuyện này tạo bản sắc mạnh mẽ và có một khung lịch sử phù hợp với mạng lưới Aśoka, nhưng chi tiết đối thoại và trình tự đến từ nguồn muộn. Chúng cần được gọi là ký ức biên niên, không phải báo cáo cùng thời.
 
 Trong nhiều thế kỷ, Sri Lanka không chỉ “nhận” một gói giáo pháp từ Ấn Độ mà trở thành trung tâm định hình Theravāda. Các tu viện như Mahāvihāra, Abhayagiri và Jetavana cạnh tranh về bảo trợ, học thuật và khuynh hướng. Dòng Mahāvihāra cuối cùng có ảnh hưởng quyết định tới diện mạo kinh điển và chú giải Pāli được truyền đến nay. Lịch sử ấy phức tạp hơn câu chuyện một dòng thuần nhất đi thẳng không gián đoạn.
 
@@ -123,7 +126,8 @@ Từ Sri Lanka, các hình thức Theravāda liên tục trao đổi với Đôn
 ## 4. Pāli: Ngôn Ngữ Kinh Điển, Không Phải Băng Ghi Âm
 ![lá bối với nhiều lớp phương ngữ hội tụ thành dòng Pāli](../assets/illustrations/theravada-batch1/theravada-02-pali-ngon-ngu-kinh-dien.webp)
 
-Pāli là ngôn ngữ kinh điển và học thuật chung của Theravāda. Tên “Pāli” ban đầu liên quan đến “dòng văn bản” rồi trở thành tên ngôn ngữ. Đây là một ngôn ngữ Ấn-Arya trung kỳ có nhiều đặc điểm phương ngữ, đã được chuẩn hóa qua truyền thừa. Không có cơ sở chắc chắn để nói Pāli đúng nguyên dạng phương ngữ Gotama nói trong mọi hoàn cảnh.
+<!-- vault-voice-section:v1 -->
+Pāli cho Theravāda một ngôn ngữ chung, nhưng đừng nhầm một ngôn ngữ kinh điển đã được chuẩn hóa với băng ghi âm giọng nói thế kỷ thứ năm trước Công nguyên. Pāli là ngôn ngữ kinh điển và học thuật chung của Theravāda. Tên “Pāli” ban đầu liên quan đến “dòng văn bản” rồi trở thành tên ngôn ngữ. Đây là một ngôn ngữ Ấn-Arya trung kỳ có nhiều đặc điểm phương ngữ, đã được chuẩn hóa qua truyền thừa. Không có cơ sở chắc chắn để nói Pāli đúng nguyên dạng phương ngữ Gotama nói trong mọi hoàn cảnh.
 
 Điều này không làm Pāli mất giá trị. Một ngôn ngữ truyền thừa có thể bảo tồn cấu trúc cổ, từ vựng và công thức rất gần lớp giảng dạy ban đầu dù không phải bản ghi âm. So sánh Pāli với các bản Hán dịch từ ngôn ngữ Ấn Độ khác và mảnh Sanskrit cho phép nhận diện những lõi chung. Chính khoảng cách ngôn ngữ khiến việc so sánh có sức mạnh: các điểm chung không thể chỉ do một người sao chép bản Pāli hiện còn.
 
@@ -136,7 +140,8 @@ Trong series này, lần đầu một thuật ngữ xuất hiện sẽ có cách
 ## 5. Theravāda Không Đồng Nghĩa Điều Gì?
 ![các vòng tròn Theravāda, Phật giáo sớm và Nam Á chồng lấn nhưng không trùng nhau](../assets/illustrations/theravada-batch1/theravada-02-ranh-gioi-khai-niem.webp)
 
-Theravāda không đồng nghĩa toàn bộ **Phật giáo sớm**. Nhiều trường phái cổ cùng bảo tồn Kinh và Luật; Theravāda là một truyền thừa còn tồn tại, trong khi Sarvāstivāda, Dharmaguptaka, Mahāsāṃghika và các truyền thống khác để lại văn bản, giới luật hoặc ảnh hưởng riêng. Khi một ý có trong cả Nikāya Pāli và Āgama tương ứng, ta có cơ sở gọi nó thuộc di sản chung sớm. Khi một ý chỉ nằm trong Vi Diệu Pháp hay chú giải Theravāda, cần gọi đúng lớp.
+<!-- vault-voice-section:v1 -->
+Nhãn càng mạnh càng cần ranh giới rõ, nếu không Theravāda sẽ bị dùng như từ thay thế cho mọi thứ người nói muốn xem là nguyên thủy. Theravāda không đồng nghĩa toàn bộ **Phật giáo sớm**. Nhiều trường phái cổ cùng bảo tồn Kinh và Luật; Theravāda là một truyền thừa còn tồn tại, trong khi Sarvāstivāda, Dharmaguptaka, Mahāsāṃghika và các truyền thống khác để lại văn bản, giới luật hoặc ảnh hưởng riêng. Khi một ý có trong cả Nikāya Pāli và Āgama tương ứng, ta có cơ sở gọi nó thuộc di sản chung sớm. Khi một ý chỉ nằm trong Vi Diệu Pháp hay chú giải Theravāda, cần gọi đúng lớp.
 
 Theravāda cũng không đồng nghĩa “Phật giáo nguyên thủy” nếu cụm từ ấy ngụ ý bản sao không đổi từ đời Phật. Có thể nói Theravāda bảo tồn nhiều chất liệu sớm mà không phủ nhận lịch sử phát triển của chính nó. Từ “nguyên thủy” còn dễ tạo một thang giá trị đơn giản, trong đó truyền thống khác bị xem là biến dạng. Nghiên cứu nghiêm túc cần mô tả từng tuyên bố và nguồn thay vì trao huy chương cổ nhất cho toàn bộ một cộng đồng.
 
@@ -151,7 +156,8 @@ Cuối cùng, Theravāda không đồng nhất với một dân tộc, quốc gi
 ## 6. Kinh, Luật, Vi Diệu Pháp, Chú Giải Và Hiện Đại
 ![năm vòng đồng tâm được ghi bằng biểu tượng thay vì chữ](../assets/illustrations/theravada-batch1/theravada-02-nam-lop-truyen-thong.webp)
 
-Ở lớp **Kinh sớm**, [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16) cho một nguyên tắc tự nhận diện bằng Pháp–Luật và lưu ký ức về những chuẩn kiểm tra lời dạy. Các Nikāya chứa nhiều giáo pháp song song với bộ sưu tập ngoài Theravāda. Đây là nơi ưu tiên khi hỏi một ý có khả năng thuộc di sản chung sớm hay không, dù “Kinh sớm” vẫn gồm nhiều tầng.
+<!-- vault-voice-section:v1 -->
+Một bài đọc trưởng thành không làm phẳng Kinh, Luật, Vi Diệu Pháp và chú giải thành một giọng nói duy nhất. Ở lớp **Kinh sớm**, [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16) cho một nguyên tắc tự nhận diện bằng Pháp–Luật và lưu ký ức về những chuẩn kiểm tra lời dạy. Các Nikāya chứa nhiều giáo pháp song song với bộ sưu tập ngoài Theravāda. Đây là nơi ưu tiên khi hỏi một ý có khả năng thuộc di sản chung sớm hay không, dù “Kinh sớm” vẫn gồm nhiều tầng.
 
 Ở lớp **Luật**, [chương về kỳ kết tập đầu tiên](https://suttacentral.net/pli-tv-kd21) và [chương về tranh chấp Vesālī](https://suttacentral.net/pli-tv-kd22) kể hai ký ức truyền thống về hội nghị và phân xử. Luật tạo đường biên cho cộng đồng xuất gia, bảo tồn cơ chế thọ giới, xử lý vi phạm và hòa hợp. Luật của Theravāda là một trong nhiều Vinaya cổ. Việc một cộng đồng giữ Luật Pāli là dấu hiệu truyền thừa quan trọng; các điều dành cho người xuất gia không được áp nguyên xi lên cư sĩ.
 
@@ -178,7 +184,8 @@ Cuối cùng, Theravāda không đồng nhất với một dân tộc, quốc gi
 > [!warning] Điều chưa chứng minh
 > Chưa chứng minh được mọi chi tiết của ba hội nghị hay phái đoàn truyền giáo đúng như biên niên kể; Pāli không được chứng minh là phương ngữ nguyên dạng của Gotama; Theravāda không được chứng minh là đại diện duy nhất hoặc nguyên xi của toàn bộ Phật giáo sớm.
 
-Đọc trước: [[theravada/01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết|Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết]]. Đọc tiếp: [[theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp|Tam Tạng Pāli — Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp]]. Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều hiện chưa xuất bản nên không tạo đường dẫn.
+<!-- vault-voice-section:v1 -->
+Phần nguồn này không phải phụ lục cho có; nó là nơi người đọc kiểm xem bài đã vượt khỏi loại bằng chứng nào chưa. Đọc trước: [[theravada/01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết|Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết]]. Đọc tiếp: [[theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp|Tam Tạng Pāli — Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp]]. Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều hiện chưa xuất bản nên không tạo đường dẫn.
 
 **Nguồn kinh điển và bộ sưu tập**
 

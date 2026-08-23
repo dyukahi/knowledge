@@ -46,7 +46,8 @@ Một cách đọc tốt phải làm được điều khó hơn: để câu ch�
 ## 1. Đọc Kinh Là Một Kỹ Năng, Không Phải Một Cuộc Thi Tin Hay Không Tin
 ![bản kinh đặt cạnh kính lúp, thẻ người nói, người nghe và câu hỏi thực hành](../assets/illustrations/theravada-batch1/theravada-04-ban-doc-co-van-canh.webp)
 
-Một câu Kinh có thể bị làm phẳng theo hai cách đối nghịch. Cách thứ nhất là coi mọi dòng trong Tam Tạng như một mệnh đề không cần văn cảnh: đã là “lời Phật” thì chỉ còn việc chấp nhận. Cách thứ hai là lấy sở thích cá nhân làm tòa án cuối cùng: câu nào hợp cảm giác thì giữ, câu nào gây khó chịu thì gạt bỏ. Cả hai đều tránh công việc đọc. Một bên giao phán đoán cho nhãn thẩm quyền; bên kia đồng nhất phán đoán với phản ứng tức thời.
+<!-- vault-voice-section:v1 -->
+Hai kiểu đọc tưởng đối nghịch này thực ra cùng né một việc: tự chịu trách nhiệm cho cách mình hiểu và sống câu Kinh. Một câu Kinh có thể bị làm phẳng theo hai cách đối nghịch. Cách thứ nhất là coi mọi dòng trong Tam Tạng như một mệnh đề không cần văn cảnh: đã là “lời Phật” thì chỉ còn việc chấp nhận. Cách thứ hai là lấy sở thích cá nhân làm tòa án cuối cùng: câu nào hợp cảm giác thì giữ, câu nào gây khó chịu thì gạt bỏ. Cả hai đều tránh công việc đọc. Một bên giao phán đoán cho nhãn thẩm quyền; bên kia đồng nhất phán đoán với phản ứng tức thời.
 
 **Sutta — đọc gần đúng “Sút-ta” — bài kinh hay bài giảng** không phải một thể loại duy nhất theo nghĩa văn học hiện đại. Trong các Nikāya có đối thoại, liệt kê để ghi nhớ, dụ ngôn, kệ, tranh luận, truyện khung và hướng dẫn thực hành. Một câu nói với người xuất gia đang mắc tà kiến không tự động là chỉ dẫn giống hệt cho một cư sĩ mới học. Một hình ảnh chữa một lỗi cụ thể không nhất thiết là định nghĩa bao trùm toàn bộ giáo pháp.
 
@@ -59,7 +60,8 @@ Trong truyền thống học thuật Theravāda, **pariyatti — đọc gần đ
 ## 2. Bảy Câu Hỏi Trước Khi Rút Một “Chân Lý” Khỏi Bài Kinh
 ![bảy thẻ kiểm tra xếp quanh một đoạn Pāli ngắn, không có chữ giả trên hình](../assets/illustrations/theravada-batch1/theravada-04-bay-cau-hoi.webp)
 
-Trước hết, xác định **ai nói**. Nhiều bài do Đức Phật giảng, nhưng cũng có bài do Sāriputta, Ānanda, một Tỳ-kheo-ni, một gia chủ hoặc một người đối thoại trình bày. Có trường hợp Đức Phật xác nhận lời đệ tử; có trường hợp đối phương nêu quan điểm để bị chất vấn. Bỏ tên người nói có thể biến ý kiến đang bị phản bác thành giáo lý.
+<!-- vault-voice-section:v1 -->
+Bảy câu hỏi dưới đây là cách làm chậm mind trước khi nó biến một dòng văn bản thành vũ khí cho worldview có sẵn. Trước hết, xác định **ai nói**. Nhiều bài do Đức Phật giảng, nhưng cũng có bài do Sāriputta, Ānanda, một Tỳ-kheo-ni, một gia chủ hoặc một người đối thoại trình bày. Có trường hợp Đức Phật xác nhận lời đệ tử; có trường hợp đối phương nêu quan điểm để bị chất vấn. Bỏ tên người nói có thể biến ý kiến đang bị phản bác thành giáo lý.
 
 Thứ hai, hỏi **nói với ai**. Người nghe có cam kết, vốn từ và vấn đề khác nhau. Một chỉ dẫn cho Bà-la-môn đang hỏi về chân lý, một nhóm cư dân hoang mang trước nhiều đạo sư, và một Tỳ-kheo hiểu sai giáo pháp không thể bị đọc như ba chương của cùng một sách giáo khoa dành cho người mới. Đối tượng không giới hạn mọi ứng dụng về sau, nhưng nó đặt ranh giới cho suy diễn.
 
@@ -87,7 +89,8 @@ Cuối cùng, hỏi **lời dạy này được kiểm tra bằng loại kết q
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn22">MN 22, đoạn 10.3–10.7</a> · <i>Alagaddūpama Sutta</i></small>
 
-[Ví dụ con rắn và chiếc bè — Trung Bộ Kinh](https://suttacentral.net/mn22) mở trong một xung đột cụ thể. Tỳ-kheo Ariṭṭha giữ quan điểm rằng những điều Đức Phật gọi là chướng ngại không nhất thiết gây chướng ngại cho người thực hiện. Các Tỳ-kheo khác cố làm ông từ bỏ quan điểm; Đức Phật chất vấn và quở trách cách hiểu ấy. Dụ ngôn con rắn và chiếc bè nằm trong mạch sửa một sự nắm bắt sai, không phải lời mời giải cấu trúc mọi giới hạn đạo đức.
+<!-- vault-voice-section:v1 -->
+Con rắn không nguy hiểm vì nó là con rắn; nguy hiểm xuất hiện khi người cầm nắm sai chỗ rồi tưởng lỗi nằm ở thứ mình đang cầm. [Ví dụ con rắn và chiếc bè — Trung Bộ Kinh](https://suttacentral.net/mn22) mở trong một xung đột cụ thể. Tỳ-kheo Ariṭṭha giữ quan điểm rằng những điều Đức Phật gọi là chướng ngại không nhất thiết gây chướng ngại cho người thực hiện. Các Tỳ-kheo khác cố làm ông từ bỏ quan điểm; Đức Phật chất vấn và quở trách cách hiểu ấy. Dụ ngôn con rắn và chiếc bè nằm trong mạch sửa một sự nắm bắt sai, không phải lời mời giải cấu trúc mọi giới hạn đạo đức.
 
 Người học có thể ghi nhớ lời dạy, tụng đọc và nói hay về nó mà vẫn không khảo sát ý nghĩa bằng trí tuệ. [Ví dụ con rắn và chiếc bè](https://suttacentral.net/mn22) ví tình trạng ấy với người bắt rắn bằng thân hoặc đuôi: con rắn quay lại cắn. Vấn đề không nằm ở con rắn “xấu”, mà ở cách tiếp cận sai mục đích và sai kỹ thuật. Tương tự, giáo pháp bị dùng để tranh thắng, xây danh tính hoặc hợp thức hóa dục vọng có thể gây hại chính người cầm nó.
 
@@ -111,7 +114,8 @@ Dụ ngôn chiếc bè tiếp tục chỉnh một loại nắm khác. Người v
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn95">MN 95, đoạn 15.12–15.15</a> · <i>Caṅkī Sutta</i></small>
 
-[Cách kiểm chứng một điều là thật — Trung Bộ Kinh](https://suttacentral.net/mn95) là đối thoại với Bà-la-môn trẻ Kāpaṭhika trong một cuộc gặp có nhiều nhân vật và vấn đề về thẩm quyền Veda. Điểm then chốt là phân biệt **bảo tồn chân lý** với **khám phá chân lý**. Một người có thể nói trung thực rằng “đây là niềm tin của tôi” hoặc “đây là điều truyền thống tôi trao lại” mà không tuyên bố chỉ điều ấy là thật và mọi điều khác sai. Kỷ luật ngôn ngữ này không hạ thấp đức tin; nó ngăn mức xác quyết vượt quá nền chứng cứ.
+<!-- vault-voice-section:v1 -->
+Tin một điều là thật có thể thành thật và có đạo đức, nhưng thành thật với niềm tin chưa đồng nghĩa đã trực tiếp biết sự thật. [Cách kiểm chứng một điều là thật — Trung Bộ Kinh](https://suttacentral.net/mn95) là đối thoại với Bà-la-môn trẻ Kāpaṭhika trong một cuộc gặp có nhiều nhân vật và vấn đề về thẩm quyền Veda. Điểm then chốt là phân biệt **bảo tồn chân lý** với **khám phá chân lý**. Một người có thể nói trung thực rằng “đây là niềm tin của tôi” hoặc “đây là điều truyền thống tôi trao lại” mà không tuyên bố chỉ điều ấy là thật và mọi điều khác sai. Kỷ luật ngôn ngữ này không hạ thấp đức tin; nó ngăn mức xác quyết vượt quá nền chứng cứ.
 
 [Cách kiểm chứng một điều là thật](https://suttacentral.net/mn95) nêu nhiều nền tảng khiến người ta chấp nhận một điều: đức tin, sở thích, truyền khẩu, cân nhắc lý lẽ và sự chấp nhận sau suy xét. Bài kinh nhận xét điều được chấp nhận trên mỗi nền tảng có thể đúng hoặc sai. Đây không phải phủ định lý trí ngang với mê tín. Nó chỉ ra rằng cảm giác thuyết phục—kể cả sau một chuỗi suy luận—chưa đồng nhất với tri kiến giải thoát. Lập luận cần thiết để sàng lọc, nhưng kết luận về một con đường tu còn phải đi qua quan sát người dạy, học, thực hành và thành tựu.
 
@@ -124,7 +128,8 @@ Tiến trình được mô tả không phải “tự mình thử mọi thứ”
 ## 5. [Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65): Không Tin Mù Quáng Cũng Không Phong Cảm Giác Làm Giáo Chủ
 ![ngã ba nhiều người giảng với cân đạo đức, hậu quả và người có trí](../assets/illustrations/theravada-batch1/theravada-04-kesaputta.webp)
 
-[Thẩm tra lời dạy qua hậu quả thiện và bất thiện — Tăng Chi Bộ Kinh](https://suttacentral.net/an3.65), thường gọi Kālāma Sutta, nói với người Kālāma ở Kesaputta. Họ kể rằng nhiều sa-môn, Bà-la-môn đến tán dương học thuyết mình và hạ thấp học thuyết khác; họ hoài nghi ai nói thật. Đây là văn cảnh của sự cạnh tranh thẩm quyền, không phải bài giảng tổng quát rằng mọi nhận thức cá nhân đều đáng tin ngang nhau.
+<!-- vault-voice-section:v1 -->
+Kālāma Sutta nổi tiếng vì bị cắt thành slogan; đọc đủ bài mới thấy hoài nghi cũng phải chịu kiểm tra bằng hậu quả thiện và bất thiện. [Thẩm tra lời dạy qua hậu quả thiện và bất thiện — Tăng Chi Bộ Kinh](https://suttacentral.net/an3.65), thường gọi Kālāma Sutta, nói với người Kālāma ở Kesaputta. Họ kể rằng nhiều sa-môn, Bà-la-môn đến tán dương học thuyết mình và hạ thấp học thuyết khác; họ hoài nghi ai nói thật. Đây là văn cảnh của sự cạnh tranh thẩm quyền, không phải bài giảng tổng quát rằng mọi nhận thức cá nhân đều đáng tin ngang nhau.
 
 Bài kinh khuyên không đi đến kết luận chỉ vì truyền khẩu, truyền thống, tin đồn, bộ sưu tập văn bản, suy luận trừu tượng, suy diễn, cân nhắc bề ngoài, một quan điểm có vẻ hợp lý, uy tín người nói, hay ý nghĩ “đây là thầy ta”. Danh sách không bảo phải sống mà không dùng bất cứ nguồn nào trong số ấy. Nếu hiểu như vậy, chính việc nghe Đức Phật cũng bị loại. Từ khóa là “chỉ vì”: các nguồn này không tự mình hoàn tất việc thẩm định.
 
@@ -184,7 +189,8 @@ Một teaching có thể trích rất nhiều Pāli, có thầy nổi tiếng v�
 ## 6. Một Quy Trình Đọc Và Kiểm Chứng Có Thể Lặp Lại
 ![vòng lặp nguồn, văn cảnh, thuật ngữ, thực hành, hậu quả và hiệu chỉnh](../assets/illustrations/theravada-batch1/theravada-04-quy-trinh-doc.webp)
 
-Chọn một câu hỏi nhỏ thay vì “Kinh nói gì về cuộc đời?”. Ví dụ: [Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65) cho phép dựa vào trải nghiệm đến mức nào? Mở toàn bài ở trang có mã kinh, chọn văn bản Pāli phân đoạn và ghi tên bản dịch dùng để đối chiếu. Tóm tắt người nói, người nghe, vấn đề và kết luận bằng năm câu của chính mình. Nếu không thể tóm tắt, chưa nên trích một dòng làm khẩu hiệu.
+<!-- vault-voice-section:v1 -->
+Một phương pháp chỉ hữu ích khi có thể lặp lại lúc mình gặp câu Kinh làm mình thích lẫn câu làm mình khó chịu. Chọn một câu hỏi nhỏ thay vì “Kinh nói gì về cuộc đời?”. Ví dụ: [Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65) cho phép dựa vào trải nghiệm đến mức nào? Mở toàn bài ở trang có mã kinh, chọn văn bản Pāli phân đoạn và ghi tên bản dịch dùng để đối chiếu. Tóm tắt người nói, người nghe, vấn đề và kết luận bằng năm câu của chính mình. Nếu không thể tóm tắt, chưa nên trích một dòng làm khẩu hiệu.
 
 Đánh dấu từ gánh lập luận, nhưng chỉ tra những từ cần thiết. So sánh cách hai người dịch xử lý, tìm vài lần dùng khác, rồi ghi mức chắc: “văn bản nói rõ”, “cách dịch có khác”, “bài này suy luận”. Cách ghi ba cột ngăn diễn giải cá nhân lén mang giọng kinh điển. Khi cần lịch sử hình thành hoặc bản song song, dẫn một học giả có tác phẩm cụ thể; không viết “giới học giả đồng thuận” nếu chưa xác lập phạm vi và nguồn.
 
@@ -209,7 +215,8 @@ Sau cùng, cho phép sửa bản đọc. Thay đổi quan điểm trước bản
 > [!warning] Điều chưa chứng minh
 > Không chứng minh được cảm giác cá nhân là thẩm quyền cuối cùng, rằng mọi bản dịch tương đương, hoặc [Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65) phủ nhận toàn bộ truyền thống. Một trải nghiệm riêng cũng không chứng minh niên đại, nguồn gốc hay chân lý phổ quát của mọi tuyên bố trong Kinh.
 
-Đọc trước: [[theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp|Tam Tạng Pāli — Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp]]. Đọc tiếp: [[theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường|Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]].
+<!-- vault-voice-section:v1 -->
+Kỷ luật cuối cùng là để người đọc thấy cả điều bài dám nói và điều bài chủ động không nói. Đọc trước: [[theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp|Tam Tạng Pāli — Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp]]. Đọc tiếp: [[theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường|Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]].
 
 **Nguồn kinh điển chính xác**
 

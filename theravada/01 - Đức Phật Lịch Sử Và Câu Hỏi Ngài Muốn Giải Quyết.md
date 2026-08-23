@@ -47,7 +47,8 @@ Nếu bỏ hết tượng vàng, phép màu và lớp sương huyền thoại, t
 ## 1. Hai Chân Dung Cần Được Giữ Cạnh Nhau
 ![một dấu chân người trên đường đất cạnh bánh xe Pháp, nhấn mạnh lịch sử và ký ức tôn giáo](../assets/illustrations/theravada-batch1/theravada-01-hai-chan-dung.webp)
 
-Khi hỏi “Đức Phật là ai?”, ta thường gộp hai câu hỏi khác loại. Câu thứ nhất thuộc lịch sử: có một con người tên Gotama từng sống, từ bỏ đời gia chủ, giảng dạy và lập cộng đồng ở miền bắc tiểu lục địa Ấn Độ hay không? Câu thứ hai thuộc đời sống tôn giáo: các cộng đồng Phật giáo hiểu con người ấy là ai, Ngài đã thành tựu điều gì và sự thành tựu ấy có ý nghĩa gì? Hai câu hỏi liên hệ chặt chẽ nhưng không thể dùng cùng một thước đo.
+<!-- vault-voice-section:v1 -->
+Giữ hai chân dung cạnh nhau giúp mình không phải chọn giữa một nhân vật lịch sử khô cứng và một Đức Phật đã bị huyền thoại hóa đến mức không còn chạm được. Khi hỏi “Đức Phật là ai?”, ta thường gộp hai câu hỏi khác loại. Câu thứ nhất thuộc lịch sử: có một con người tên Gotama từng sống, từ bỏ đời gia chủ, giảng dạy và lập cộng đồng ở miền bắc tiểu lục địa Ấn Độ hay không? Câu thứ hai thuộc đời sống tôn giáo: các cộng đồng Phật giáo hiểu con người ấy là ai, Ngài đã thành tựu điều gì và sự thành tựu ấy có ý nghĩa gì? Hai câu hỏi liên hệ chặt chẽ nhưng không thể dùng cùng một thước đo.
 
 Trong bài này, **Buddha — đọc gần đúng “Bút-đa” — bậc tỉnh thức** là một danh hiệu. Nhân vật lịch sử thường được gọi là Gotama trong Pāli, Gautama trong Sanskrit, hoặc Siddhattha Gotama trong truyền thống về sau. Gọi Ngài là “Đức Phật” đã hàm ý một cách hiểu tôn giáo về giác ngộ; gọi “Gotama lịch sử” nhấn mạnh đối tượng có thể khảo cứu bằng văn bản học, khảo cổ và lịch sử xã hội. Không tên gọi nào tự nó giải quyết được câu hỏi lịch sử.
 
@@ -71,7 +72,8 @@ Mục tiêu của bài không phải viết một “cuộc đời Đức Phật
 >
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn26">MN 26, đoạn 12.1–12.3</a> · <i>Ariyapariyesanā Sutta</i></small>
 
-[Cuộc tìm cầu cao quý — Trung Bộ Kinh](https://suttacentral.net/mn26) thường được gọi là bài kinh về cuộc tìm cầu cao quý. Văn bản đặt vào lời Gotama một đối lập rất sáng: người đang bị sinh, già, bệnh, chết, sầu và ô nhiễm có thể tiếp tục tìm những gì cũng chịu cùng số phận ấy; hoặc nhận ra nguy hiểm và tìm cái không sinh, không già, không bệnh, không chết, không sầu, không ô nhiễm. Đây là khung tự thuật trong một bài giảng được truyền lại, không phải nhật ký do Gotama viết. Dẫu vậy, nó cho thấy cộng đồng sớm nhớ trọng tâm cuộc tìm kiếm không phải là sáng lập một tôn giáo hay giải thích toàn bộ vũ trụ, mà là thoát khỏi cấu trúc sinh–già–chết và nắm giữ.
+<!-- vault-voice-section:v1 -->
+Ba bài Kinh này không kể một biography hiện đại, nhưng chúng cho ba góc đủ gần để thấy câu hỏi nào đã đẩy Gotama lên đường. [Cuộc tìm cầu cao quý — Trung Bộ Kinh](https://suttacentral.net/mn26) thường được gọi là bài kinh về cuộc tìm cầu cao quý. Văn bản đặt vào lời Gotama một đối lập rất sáng: người đang bị sinh, già, bệnh, chết, sầu và ô nhiễm có thể tiếp tục tìm những gì cũng chịu cùng số phận ấy; hoặc nhận ra nguy hiểm và tìm cái không sinh, không già, không bệnh, không chết, không sầu, không ô nhiễm. Đây là khung tự thuật trong một bài giảng được truyền lại, không phải nhật ký do Gotama viết. Dẫu vậy, nó cho thấy cộng đồng sớm nhớ trọng tâm cuộc tìm kiếm không phải là sáng lập một tôn giáo hay giải thích toàn bộ vũ trụ, mà là thoát khỏi cấu trúc sinh–già–chết và nắm giữ.
 
 Trong [Cuộc tìm cầu cao quý](https://suttacentral.net/mn26), Gotama đến học Āḷāra Kālāma và Uddaka Rāmaputta. Ngài đạt đến trình độ mà mỗi vị thầy công nhận, nhưng thấy thành tựu ấy chưa dẫn tới ly tham, đoạn diệt, an tịnh và giác ngộ trọn vẹn. Chi tiết này có thể giữ ký ức về môi trường tu tập đương thời; ta không có tài liệu độc lập để viết tiểu sử chắc chắn cho hai vị thầy. Giá trị gần nhất của đoạn văn là cách nó định nghĩa tiêu chuẩn: một trạng thái cao không đủ chỉ vì tinh tế hoặc hiếm có; nó phải giải quyết gốc rễ của trói buộc.
 
@@ -110,7 +112,8 @@ Ba văn bản không ghép thành một cuốn phim liên tục. Chúng là ba c
 ## 3. Câu Hỏi Không Phải “Vũ Trụ Là Gì?” Mà Là “Khổ Chấm Dứt Thế Nào?”
 ![mũi tên từ vòng sinh già bệnh chết hướng về khoảng mở không bị trói buộc](../assets/illustrations/theravada-batch1/theravada-01-cau-hoi-giai-thoat.webp)
 
-**Nibbāna — đọc gần đúng “níp-ba-na” — Niết-bàn, sự tắt tham, sân và si** là tên mà truyền thống dùng cho mục tiêu giải thoát. [Cuộc tìm cầu cao quý](https://suttacentral.net/mn26) diễn tả mục tiêu bằng chuỗi phủ định: không sinh, không già, không bệnh, không chết, không sầu, không ô nhiễm. Những từ ấy không phải bản thiết kế vật lý về một cõi khác. Chúng đánh dấu sự tương phản giữa cái bị điều kiện và mục tiêu không còn bị trói bởi chính cơ chế gây khổ.
+<!-- vault-voice-section:v1 -->
+Nếu bắt đầu sai câu hỏi, mình có thể dùng cả đời để tìm một câu trả lời mà Đức Phật chưa từng đặt làm trung tâm. **Nibbāna — đọc gần đúng “níp-ba-na” — Niết-bàn, sự tắt tham, sân và si** là tên mà truyền thống dùng cho mục tiêu giải thoát. [Cuộc tìm cầu cao quý](https://suttacentral.net/mn26) diễn tả mục tiêu bằng chuỗi phủ định: không sinh, không già, không bệnh, không chết, không sầu, không ô nhiễm. Những từ ấy không phải bản thiết kế vật lý về một cõi khác. Chúng đánh dấu sự tương phản giữa cái bị điều kiện và mục tiêu không còn bị trói bởi chính cơ chế gây khổ.
 
 Câu hỏi của Gotama vì vậy mang tính chữa trị: điều gì khiến một hữu tình, dù biết mình mong manh, vẫn bám vào những gì mong manh; sự bám ấy tạo khổ ra sao; có thể kết thúc nó không; và phải huấn luyện thế nào? Các bài về Tứ Thánh Đế về sau sẽ trình bày cấu trúc chẩn đoán này rõ hơn. Ở đây chỉ cần thấy câu hỏi ban đầu không phải “làm sao tin đúng một tín điều”, mà là “làm sao biết và sống theo cách khiến sự trói buộc thật sự kết thúc”.
 
@@ -123,7 +126,8 @@ Từ góc nhìn lịch sử, ta không thể quan sát trực tiếp khoảnh kh
 ## 4. Luật, Vi Diệu Pháp, Chú Giải Và Tiểu Sử Muộn
 ![các lớp bản thảo trong suốt ghi Kinh, Luật, Vi Diệu Pháp, chú giải và biên niên](../assets/illustrations/theravada-batch1/theravada-01-cac-lop-van-ban.webp)
 
-Lớp **Kinh sớm** trong bài này là các bài như [Cuộc tìm cầu cao quý](https://suttacentral.net/mn26), [Khổ hạnh và con đường giác ngộ](https://suttacentral.net/mn36) và những phần sớm có thể nhận diện trong [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16). “Sớm” là đánh giá tương đối qua so sánh văn bản, ngôn ngữ, học thuyết và các bản song song; nó không có nghĩa bản viết còn lại được tạo trong đời Đức Phật. Những bài này cho tiếng nói gần nhất mà ta hiện có với phong trào ban đầu, nhưng vẫn là sản phẩm của truyền thừa cộng đồng.
+<!-- vault-voice-section:v1 -->
+Đến đây cần đổi kính đọc, vì Kinh, Luật, Vi Diệu Pháp và tiểu sử muộn không làm cùng một công việc. Lớp **Kinh sớm** trong bài này là các bài như [Cuộc tìm cầu cao quý](https://suttacentral.net/mn26), [Khổ hạnh và con đường giác ngộ](https://suttacentral.net/mn36) và những phần sớm có thể nhận diện trong [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16). “Sớm” là đánh giá tương đối qua so sánh văn bản, ngôn ngữ, học thuyết và các bản song song; nó không có nghĩa bản viết còn lại được tạo trong đời Đức Phật. Những bài này cho tiếng nói gần nhất mà ta hiện có với phong trào ban đầu, nhưng vẫn là sản phẩm của truyền thừa cộng đồng.
 
 Lớp **Luật tạng** kể nhiều sự kiện về Đức Phật trong quá trình giải thích vì sao một quy tắc được thiết lập. Luật cho thấy lý tưởng về một người thầy xử lý xung đột, phản ứng trước hành vi cụ thể và xây thiết chế. Tuy nhiên, truyện duyên khởi của giới luật cũng có chức năng chuẩn hóa. Không phải cứ có nhiều chi tiết là lịch sử chắc hơn. Bài 3 sẽ đọc cấu trúc Luật kỹ hơn; ở đây điều cần nhớ là Luật vừa chứa ký ức xã hội vừa là văn bản quy phạm.
 
@@ -138,7 +142,8 @@ Trong **Theravāda hiện đại**, các bài giảng thường kể đời Ph�
 ## 5. Sử Học Có Thể Biết Gì — Và Không Thể Biết Gì?
 ![bàn nghiên cứu với bản đồ sông Hằng, nhiều dị bản và thước đo xác suất](../assets/illustrations/theravada-batch1/theravada-01-phuong-phap-su-hoc.webp)
 
-Nhà nghiên cứu không có một “bản gốc” duy nhất để mở ra. Họ so sánh Nikāya Pāli với các Āgama Hán dịch, mảnh Sanskrit và tài liệu thuộc nhiều dòng truyền thừa. Khi những nguồn tách biệt chia sẻ một cấu trúc, khả năng cấu trúc ấy có trước sự chia rẽ bộ phái tăng lên. Nhưng tương đồng vẫn không tự động đưa ta về đúng từng chữ của người thầy; công thức truyền khẩu có thể được chuẩn hóa rất sớm, và nhiều cộng đồng có thể thừa hưởng cùng một lớp biên tập.
+<!-- vault-voice-section:v1 -->
+Sử học không cho mình camera quay ngược thời gian; nó cho một cách cân mức chắc chắn thay vì lấp khoảng trống bằng niềm tin. Nhà nghiên cứu không có một “bản gốc” duy nhất để mở ra. Họ so sánh Nikāya Pāli với các Āgama Hán dịch, mảnh Sanskrit và tài liệu thuộc nhiều dòng truyền thừa. Khi những nguồn tách biệt chia sẻ một cấu trúc, khả năng cấu trúc ấy có trước sự chia rẽ bộ phái tăng lên. Nhưng tương đồng vẫn không tự động đưa ta về đúng từng chữ của người thầy; công thức truyền khẩu có thể được chuẩn hóa rất sớm, và nhiều cộng đồng có thể thừa hưởng cùng một lớp biên tập.
 
 Bhikkhu Anālayo, trong các nghiên cứu so sánh Trung Bộ, cho thấy việc đặt các bản song song cạnh nhau có thể nhận diện cả lõi chung lẫn phát triển riêng. Richard Gombrich nhấn mạnh đọc giáo lý trong bối cảnh tư tưởng Ấn Độ cổ và tìm những lối chơi chữ, phản biện Bà-la-môn giáo có thể đã bị người truyền sau hiểu khác. Gregory Schopen cảnh báo giới nghiên cứu không nên lấy văn bản quy phạm làm ảnh chụp đời sống tu viện; bia ký và khảo cổ nhiều khi cho một bức tranh khác. Ba hướng ấy bổ sung nhau: so sánh văn bản, phục dựng bối cảnh tư tưởng và kiểm tra bằng vật chứng.
 
@@ -149,7 +154,8 @@ Sử học cũng có giới hạn nguyên tắc trước tuyên bố giác ngộ
 ## 6. Đọc Cuộc Đời Như Một Bản Đồ Thực Hành Có Kiểm Soát
 ![người học đứng trước ba lối hưởng thụ, tự hành xác và trung đạo](../assets/illustrations/theravada-batch1/theravada-01-ban-do-thuc-hanh.webp)
 
-Đọc lịch sử tốt không làm cuộc đời Gotama xa đi; nó làm bài học chính xác hơn. [Khổ hạnh và con đường giác ngộ](https://suttacentral.net/mn36) chẳng hạn không bảo người đọc thử mọi cực đoan để chứng minh ý chí. Nó cho thấy một phương pháp phải được đánh giá theo kết quả giải thoát, và thân thể bị phá hủy có thể làm hỏng điều kiện nhận biết. Ta có thể áp dụng nguyên tắc ấy bằng cách hỏi một thực hành đang giảm tham, sân, si hay chỉ tạo bản sắc “người tu giỏi”. Đây là suy luận thực hành từ văn bản, không phải một câu trích nguyên văn.
+<!-- vault-voice-section:v1 -->
+Một tiểu sử chỉ đáng giữ nếu nó quay lại soi cách mình đang sống, không chỉ làm quá khứ thêm trang nghiêm. Đọc lịch sử tốt không làm cuộc đời Gotama xa đi; nó làm bài học chính xác hơn. [Khổ hạnh và con đường giác ngộ](https://suttacentral.net/mn36) chẳng hạn không bảo người đọc thử mọi cực đoan để chứng minh ý chí. Nó cho thấy một phương pháp phải được đánh giá theo kết quả giải thoát, và thân thể bị phá hủy có thể làm hỏng điều kiện nhận biết. Ta có thể áp dụng nguyên tắc ấy bằng cách hỏi một thực hành đang giảm tham, sân, si hay chỉ tạo bản sắc “người tu giỏi”. Đây là suy luận thực hành từ văn bản, không phải một câu trích nguyên văn.
 
 [Cuộc tìm cầu cao quý](https://suttacentral.net/mn26) đặt một tấm gương khác: ta thường tìm an toàn trong những gì tự chúng già, hỏng và mất. Nhận ra điều ấy không buộc ta bỏ trách nhiệm với người thân hay vật chất. Nó mời phân biệt chăm sóc với chiếm hữu, sử dụng với đồng nhất, yêu thương với đòi hỏi cái hữu hạn phải bảo đảm vĩnh viễn. Cách áp dụng cụ thể cần đạo đức và bối cảnh; không nên dùng câu chuyện xuất gia của Phật để gây áp lực khiến mọi người từ bỏ đời sống gia đình.
 
@@ -170,7 +176,8 @@ Sử học cũng có giới hạn nguyên tắc trước tuyên bố giác ngộ
 > [!warning] Điều chưa chứng minh
 > Chưa có tiểu sử đồng thời ngoài Phật giáo; ngày tháng chính xác, trình tự mọi sự kiện và tính lịch sử của từng chi tiết kỳ diệu chưa được chứng minh. Sử học cũng không chứng minh hoặc bác bỏ trực tiếp trạng thái giác ngộ nội tâm.
 
-Đọc tiếp: [[theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm|Theravāda Là Gì — Truyền Thừa, Phạm Vi Và Những Hiểu Lầm]]. Sau đó là Tam Tạng Pāli — Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp. Các bài chưa xuất bản được ghi bằng chữ thường, không tạo đường dẫn.
+<!-- vault-voice-section:v1 -->
+Cuối bài, điều quan trọng là biết câu nào đứng trên văn bản, câu nào đứng trên pattern lịch sử và câu nào chỉ là diễn giải làm việc. Đọc tiếp: [[theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm|Theravāda Là Gì — Truyền Thừa, Phạm Vi Và Những Hiểu Lầm]]. Sau đó là Tam Tạng Pāli — Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp. Các bài chưa xuất bản được ghi bằng chữ thường, không tạo đường dẫn.
 
 **Nguồn Kinh và bộ sưu tập**
 
