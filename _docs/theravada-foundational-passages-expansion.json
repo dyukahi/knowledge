@@ -1,0 +1,48 @@
+{
+  "schema": "theravada-foundational-passages-expansion.v1",
+  "purpose": "Bổ sung các passage nền tảng còn thiếu mà không biến 36 bài thành bách khoa toàn thư Kinh tạng.",
+  "passages": [
+    {
+      "lesson": 4,
+      "source": "DN 16:2.26.1–2.26.8",
+      "theme": "Tự mình và Pháp làm nơi nương tựa",
+      "reason": "Giữ attadīpā cùng dhammadīpā và phần giải thích bằng Tứ niệm xứ, tránh khẩu hiệu cá nhân chủ nghĩa."
+    },
+    {
+      "lesson": 4,
+      "source": "AN 8.53:3.1–3.10",
+      "theme": "Tám tiêu chuẩn nhận diện điều gì thật sự phù hợp với Pháp",
+      "reason": "Cho người đọc tiêu chuẩn thực hành thay vì chỉ dựa vào authority hoặc cảm giác chủ quan."
+    },
+    {
+      "lesson": 9,
+      "source": "SN 45.2:1.4–2.3",
+      "theme": "Thiện hữu tri thức không chỉ là nửa đời sống phạm hạnh",
+      "reason": "Cân bằng tự lực với điều kiện cộng đồng và người bạn lành."
+    },
+    {
+      "lesson": 9,
+      "source": "DN 16:6.7.3",
+      "theme": "Lời dạy cuối về tinh tấn không phóng dật",
+      "reason": "Đặt appamāda vào lộ trình tu tập thay vì motivational quote tách nguồn."
+    },
+    {
+      "lesson": 23,
+      "source": "DN 31:28.1–28.5",
+      "theme": "Đạo đức giữa cha mẹ và con cái",
+      "reason": "Bổ sung chiều cư sĩ, gia đình, tri ân và trách nhiệm hai chiều."
+    },
+    {
+      "lesson": 23,
+      "source": "AN 5.161:1.1–1.15",
+      "theme": "Năm cách tháo gỡ oán giận",
+      "reason": "Đưa giới và đạo đức vào kỹ năng xử lý giận dữ, xung đột và quan hệ thật."
+    }
+  ],
+  "explicit_non_goals": [
+    "Không tuyên bố sáu passage này làm curriculum bao quát toàn bộ Kinh tạng.",
+    "Không biến tự lực thành tôn thờ cái tôi.",
+    "Không biến thiện hữu thành lệ thuộc guru.",
+    "Không dùng nhẫn nhịn để giữ người đọc trong bạo lực hoặc quan hệ nguy hiểm."
+  ]
+}

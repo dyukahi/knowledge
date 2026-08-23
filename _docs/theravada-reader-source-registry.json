@@ -207,6 +207,36 @@
       "source_display_code": "AN 4.170"
     },
     {
+      "code": "AN 5.161",
+      "collection_abbr": "AN",
+      "number": "5.161",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh được sắp theo số pháp",
+      "discourse_pali_title_candidates": [
+        "Paṭhamaāghātapaṭivinaya Sutta"
+      ],
+      "discourse_pali_title": "Paṭhamaāghātapaṭivinaya Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Năm cách tháo gỡ oán giận",
+      "title_verification_status": "verified-suttacentral",
+      "url": "https://suttacentral.net/an5.161",
+      "used_in_lessons": [
+        23
+      ],
+      "plain_summary": "Bài kinh nêu năm cách xử lý oán giận: tu tâm từ, bi, xả, không chú ý đến đối tượng gây hận và quán rằng mỗi người là chủ nhân nghiệp của mình.",
+      "source_key": "AN 5.161",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an5.161",
+      "display_title_pali": "Paṭhamaāghātapaṭivinaya Sutta",
+      "display_title_vi": "Năm cách tháo gỡ oán giận",
+      "canonical_url": "https://suttacentral.net/an5.161",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "AN 5.161"
+    },
+    {
       "code": "AN 5.28",
       "collection_abbr": "AN",
       "number": "5.28",
@@ -296,6 +326,37 @@
       "text_language": "pli",
       "edition_or_witness": "SuttaCentral Bilara Pāli root",
       "source_display_code": "AN 8.39"
+    },
+    {
+      "code": "AN 8.53",
+      "collection_abbr": "AN",
+      "number": "8.53",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh được sắp theo số pháp",
+      "discourse_pali_title_candidates": [
+        "Saṅkhitta Sutta",
+        "Gotamī Sutta"
+      ],
+      "discourse_pali_title": "Saṅkhitta Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Tám dấu hiệu để nhận ra điều phù hợp với Pháp",
+      "title_verification_status": "verified-suttacentral",
+      "url": "https://suttacentral.net/an8.53",
+      "used_in_lessons": [
+        4
+      ],
+      "plain_summary": "Đức Phật đưa cho Mahāpajāpatī Gotamī tám cặp tiêu chuẩn để nhận ra giáo pháp dẫn đến ly tham, tháo gỡ, ít ham muốn, biết đủ, độc cư, tinh tấn và dễ nuôi dưỡng.",
+      "source_key": "AN 8.53",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an8.53",
+      "display_title_pali": "Saṅkhitta Sutta",
+      "display_title_vi": "Tám dấu hiệu để nhận ra điều phù hợp với Pháp",
+      "canonical_url": "https://suttacentral.net/an8.53",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "AN 8.53"
     },
     {
       "code": "DN 13",
@@ -1726,6 +1787,36 @@
       "text_language": "pli",
       "edition_or_witness": "SuttaCentral Bilara Pāli root",
       "source_display_code": "SN 43.1"
+    },
+    {
+      "code": "SN 45.2",
+      "collection_abbr": "SN",
+      "number": "45.2",
+      "collection_pali": "Saṁyutta Nikāya",
+      "collection_han_viet": "Tương Ưng Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh theo chủ đề tương ứng",
+      "discourse_pali_title_candidates": [
+        "Upaḍḍha Sutta"
+      ],
+      "discourse_pali_title": "Upaḍḍha Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Thiện hữu là toàn bộ đời sống phạm hạnh",
+      "title_verification_status": "verified-suttacentral",
+      "url": "https://suttacentral.net/sn45.2",
+      "used_in_lessons": [
+        9
+      ],
+      "plain_summary": "Đức Phật sửa lời Ānanda rằng thiện hữu, thiện bạn và thiện đồng hành không chỉ là một nửa mà là toàn bộ đời sống phạm hạnh, vì người bạn lành giúp tu tập Bát Chánh Đạo.",
+      "source_key": "SN 45.2",
+      "source_type": "sutta",
+      "collection_code": "SN",
+      "work_id": "sn45.2",
+      "display_title_pali": "Upaḍḍha Sutta",
+      "display_title_vi": "Thiện hữu là toàn bộ đời sống phạm hạnh",
+      "canonical_url": "https://suttacentral.net/sn45.2",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "SN 45.2"
     },
     {
       "code": "SN 45.8",

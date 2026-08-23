@@ -37,6 +37,13 @@ source_license_checked: true
 
 # Dukkha — Khổ Không Chỉ Là Đau Đớn
 
+<!-- vault-voice-opening:v1 -->
+
+Không phải lúc nào dukkha cũng trông như bi kịch. Có khi nó là một ngày rất vui nhưng bạn bắt đầu sợ ngày ấy kết thúc. Có khi nó là lời khen khiến bạn phải giữ mãi hình ảnh vừa được khen. Có khi thân không đau, nhưng tâm đã âm thầm siết tay quanh một thứ đang đổi.
+
+Vấn đề không phải niềm vui giả. Vấn đề là mình đòi một thứ có điều kiện phải hứa rằng nó sẽ ở lại. Hiểu dukkha bắt đầu khi ta thấy chính yêu cầu ấy, không phải khi ta học cách gọi mọi thứ là khổ.
+
+
 ## 1. Một Từ Không Nằm Gọn Trong “Đau” Hay “Bi Kịch”
 
 ![một vòng trải nghiệm gồm đau rõ rệt, vui đang đổi và bàn tay bám vào năm dòng kinh nghiệm](../assets/illustrations/theravada-batch2/theravada-06-ba-pham-vi-dukkha.webp)

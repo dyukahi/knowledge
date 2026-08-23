@@ -36,6 +36,13 @@ source_license_checked: true
 
 # Tứ Thánh Đế — Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường
 
+<!-- vault-voice-opening:v1 -->
+
+Bốn Thánh Đế thường bị học như bốn dòng để trả bài. Nhưng khi đời thật đổ xuống — mất việc, bệnh, phản bội, một đêm không ngủ vì sợ — bốn dòng ấy hoặc trở thành công cụ chẩn đoán, hoặc lộ ra rằng mình chỉ thuộc chữ.
+
+Đức Phật không bắt đầu bằng một lý thuyết về vũ trụ. Ngài bắt đầu bằng cái đang đau, hỏi điều gì nuôi nó, liệu nó có thể chấm dứt, và con đường nào phải được sống. Đọc như vậy, Tứ Đế gần phòng khám hơn bục giảng.
+
+
 ## 1. Bốn Sự Thật Không Phải Bốn Khẩu Hiệu
 ![bốn ô chẩn đoán, nguồn sinh, khả năng chấm dứt và con đường nối thành vòng thực hành](../assets/illustrations/theravada-batch1/theravada-05-bon-nhiem-vu.webp)
 

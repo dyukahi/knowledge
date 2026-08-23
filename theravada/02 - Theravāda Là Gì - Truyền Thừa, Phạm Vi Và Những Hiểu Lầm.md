@@ -39,6 +39,13 @@ source_license_checked: true
 
 # Theravāda Là Gì — Truyền Thừa, Phạm Vi Và Những Hiểu Lầm
 
+<!-- vault-voice-opening:v1 -->
+
+Nói “tôi theo Theravāda” nghe có vẻ rõ, nhưng câu ấy có thể chứa ba thứ khác nhau: một truyền thống lịch sử, một hệ Kinh–Luật–Vi Diệu Pháp, và một identity để mình đứng về một phe. Nếu không tách ba lớp này, người học rất dễ bảo vệ nhãn nhiều hơn bảo vệ sự thật.
+
+Bài này không hỏi Theravāda có phải đội thắng cuối cùng không. Nó hỏi truyền thống này gìn giữ điều gì, đã hệ thống hóa thêm điều gì, và mình phải đọc ra sao để vừa tôn trọng di sản vừa không biến di sản thành tấm khiên cho cái tôi.
+
+
 ## 1. Một Tên Gọi, Không Phải Một Hóa Thạch
 ![cây cổ thụ có rễ là văn bản Pāli và nhiều cành là cộng đồng hiện đại](../assets/illustrations/theravada-batch1/theravada-02-truyen-thong-song.webp)
 

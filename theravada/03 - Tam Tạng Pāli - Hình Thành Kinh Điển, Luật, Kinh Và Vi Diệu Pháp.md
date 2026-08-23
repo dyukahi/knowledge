@@ -42,6 +42,13 @@ source_license_checked: true
 
 # Tam Tạng Pāli — Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp
 
+<!-- vault-voice-opening:v1 -->
+
+Một bộ Kinh không tự đóng thành sách rồi rơi xuống từ quá khứ. Có người nhớ, tụng, đối chiếu, tranh luận, phân loại và truyền lại. Nhìn quá trình ấy không làm Kinh mất thiêng; nó làm mình bớt ngây thơ về cách ký ức tập thể trở thành canon.
+
+Điểm quan trọng không phải chọn giữa “nguyên văn tuyệt đối” và “mọi thứ đều bịa”. Giữa hai cực ấy là một lịch sử sống: đủ ổn định để truyền một con đường, đủ nhiều lớp để người đọc phải biết mình đang cầm loại nguồn nào.
+
+
 ## 1. “Ba Giỏ” Là Một Bản Đồ, Không Phải Ba Chiếc Hộp Xuất Hiện Cùng Lúc
 ![ba giỏ lá bối tượng trưng Luật, Kinh và Vi Diệu Pháp, nối bằng đường truyền khẩu](../assets/illustrations/theravada-batch1/theravada-03-ba-tang.webp)
 

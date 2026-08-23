@@ -37,6 +37,13 @@ source_license_checked: true
 
 # Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết
 
+<!-- vault-voice-opening:v1 -->
+
+Nếu bỏ hết tượng vàng, phép màu và lớp sương huyền thoại, ta còn gặp được ai? Bài này bắt đầu từ một con người đã già, bệnh, chứng kiến mất mát và đặt một câu hỏi rất thực: có cách nào sống mà không bị sinh–già–bệnh–chết kéo đi trong vô thức không?
+
+Đi tìm Đức Phật lịch sử không phải để làm Ngài nhỏ lại. Nó giúp ta thấy giáo pháp không rơi từ trời xuống như một bộ tín điều. Nó mọc lên từ việc nhìn thẳng vào điều ai cũng gặp nhưng phần lớn chúng ta cố trì hoãn nhìn.
+
+
 ## 1. Hai Chân Dung Cần Được Giữ Cạnh Nhau
 ![một dấu chân người trên đường đất cạnh bánh xe Pháp, nhấn mạnh lịch sử và ký ức tôn giáo](../assets/illustrations/theravada-batch1/theravada-01-hai-chan-dung.webp)
 
