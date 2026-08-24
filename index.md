@@ -42,11 +42,11 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | ☸️ **Theravāda** | 41 | Kinh tạng Pāli, giáo lý, thực hành, Vi Diệu Pháp, provenance |
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
 | 🧩 **Mental Models** | 44 | nhận thức, tâm lý học, framework để đọc reality |
-| 🏛️ **Politics & Conspiracy** | 27 | power structure, controlled narrative, geopolitics |
+| 🏛️ **Politics & Conspiracy** | 28 | power structure, controlled narrative, geopolitics |
 | 🔬 **Science & Tech** | 20 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 282 notes / bài viết.
+**Total:** 288 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -195,6 +195,7 @@ Các bài dưới đây là những flagship notes dễ cho người mới thấ
 ### Disclosure, Media & Symbol
 
 - **[[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]]** - SpaceX IPO × Spielberg × Crowley/LAM × Jack Parsons/JPL × technocracy
+- **[[I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng]]** - Tony Stark, Doom, những cuộc đời bị đánh cắp, Battleworld và bóng tối của nhà cứu thế công nghệ
 - **[[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]]** - rocket as fire obelisk, sky fear, Elon techno-king and myth transfer
 - **[[Mỹ Là Ai Cập Tái Sinh]]** - America as ritual Egypt: dollar-pyramid, Washington obelisk, NASA/Apollo sky priesthood and modern empire symbolism
 - **[[Đề Văn 2026 Và Nghi Lễ Thay Ký Ức]]** - đề Ngữ văn THPT như ritual chọn ký ức tập thể: Code và Cát, Spiderum, Silicon Valley aspiration và American Egypt grammar
@@ -339,6 +340,10 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### August 24, 2026
+
+- **[[I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng]]** - bài riêng nối cái chết Tony Stark, lời buộc tội “stolen lives”, Steve/Earth-828 trong leak, Battleworld và motif mắt bầm RDJ; giữ rõ fact, leak, pattern, symbol và speculative synthesis.
 
 ### August 19, 2026
 

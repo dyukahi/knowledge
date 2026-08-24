@@ -1,21 +1,21 @@
 {
   "stats": {
-    "notes": 286,
+    "notes": 288,
     "domains": {
-      "_docs": 19,
+      "_docs": 20,
       "root": 14,
       "crypto-finance": 18,
       "esoterica": 76,
       "health": 27,
       "mental-models": 44,
-      "politics-conspiracy": 27,
+      "politics-conspiracy": 28,
       "science-tech": 20,
       "theravada": 41
     },
-    "tags": 308,
-    "wikilinkEdges": 2453,
+    "tags": 313,
+    "wikilinkEdges": 2462,
     "brokenLinks": 0,
-    "orphans": 20
+    "orphans": 21
   },
   "domains": {
     "_docs": [
@@ -127,6 +127,28 @@
         "backlinks": [],
         "words": 582,
         "summary": "Người đọc không cần biết trước `MN`, `SN`, `AN` hay `DN`. Bài viết phải dẫn họ vào nội dung Kinh bằng tiếng Việt tự nhiên; mã Kinh và segment ID chỉ nằm ở lớp kiểm chứng yên tĩnh."
+      },
+      {
+        "path": "_docs/THERAVADA-VAULT-VOICE-STANDARD.md",
+        "title": "Chuẩn Giọng Vault Cho Series Theravāda",
+        "domain": "_docs",
+        "tags": [],
+        "aliases": [],
+        "headings": [
+          "Chuẩn Giọng Vault Cho Series Theravāda",
+          "Mục tiêu",
+          "Nhịp mặc định",
+          "Đặc điểm giọng",
+          "Mẫu chuyển giọng",
+          "Anti-patterns",
+          "Gate biên tập"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [],
+        "words": 634,
+        "summary": "Bài viết phải giữ độ chính xác của một hồ sơ nguồn nhưng đọc như một người hiểu vấn đề đang ngồi nói chuyện với người đọc. Người đọc cần thấy ngay câu hỏi này liên quan gì đến đời mình trước khi gặp taxonomy, caveat và apparatus kiểm chứng."
       },
       {
         "path": "_docs/CONTENT-SEO-AUDIT.md",
@@ -2445,6 +2467,93 @@
         "summary": "**Monad là tia lửa bất khả phân của Source. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể: phần chưa từng rời khỏi Sự Nhất Thể, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn,…"
       },
       {
+        "path": "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "title": "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica",
+          "hollywood",
+          "matrix",
+          "mind-control",
+          "predictive-programming"
+        ],
+        "aliases": [
+          "Cấy Tương Lai",
+          "Future Rehearsal",
+          "Lập Trình Tiên Đoán",
+          "Predictive Programming"
+        ],
+        "headings": [
+          "Predictive Programming — Cấy Tương Lai Vào Tiềm Thức",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Công Thức: Seed, Repeat, Frame, Normalize, Implement",
+          "Vì Sao Fiction Mạnh Hơn Tuyên Truyền Thẳng?",
+          "The Simpsons Problem",
+          "Inception Là Meta-Case",
+          "Case Patterns / Các Cụm Tương Lai Được Tập Dượt",
+          "Hidden In Plain Sight",
+          "Không Paranoid, Không Ngây Thơ",
+          "Kết",
+          "Publication Pack / Disclosure & Spectacle"
+        ],
+        "wikilinks": [
+          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
+          "Karma Disclosure - Truth Hidden In Plain Sight",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+          "Vô Thức Tập Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Vô Thức Tập Thể.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
+          "esoterica/Dune - Paul Leto II Va Golden Path.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/index.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "index.md",
+          "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "words": 1653,
+        "summary": "**Predictive programming là giả thuyết rằng media không chỉ phản ánh tương lai, mà còn tập cho công chúng cảm thấy tương lai đó quen thuộc trước khi nó được triển khai thành policy, market, technology hoặc social norm. Nó không cần bạn tin ngay. Nó chỉ cần bạ…"
+      },
+      {
         "path": "esoterica/Sự Nhất Thể.md",
         "title": "Sự Nhất Thể (Oneness)",
         "domain": "esoterica",
@@ -2526,90 +2635,86 @@
         "summary": "**Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh: ta/người, sáng/tối, tinh thần/vật chất, thắng/thua, có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qua…"
       },
       {
-        "path": "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "title": "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "path": "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "title": "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "domain": "esoterica",
         "tags": [
           "esoterica",
           "hollywood",
-          "matrix",
-          "mind-control",
+          "occult",
           "predictive-programming"
         ],
         "aliases": [
-          "Cấy Tương Lai",
-          "Future Rehearsal",
-          "Lập Trình Tiên Đoán",
-          "Predictive Programming"
+          "Cây Đũa Phép Của Phù Thủy",
+          "Dream Factory",
+          "Hollywood",
+          "The Sorcerer's Wand"
         ],
         "headings": [
-          "Predictive Programming — Cấy Tương Lai Vào Tiềm Thức",
+          "Hollywood — Cây Đũa Phép Của Phù Thủy",
           "Evidence Discipline / Cách Đọc",
           "Vault Position / Vị Trí Trong Vault",
-          "Công Thức: Seed, Repeat, Frame, Normalize, Implement",
-          "Vì Sao Fiction Mạnh Hơn Tuyên Truyền Thẳng?",
-          "The Simpsons Problem",
-          "Inception Là Meta-Case",
-          "Case Patterns / Các Cụm Tương Lai Được Tập Dượt",
+          "Wand Không Tạo Phép, Wand Hướng Ý Chí",
+          "Entertainment Là Vùng Critical Thinking Thấp",
           "Hidden In Plain Sight",
-          "Không Paranoid, Không Ngây Thơ",
+          "Symbol Stack / Bộ Ký Hiệu Lặp Lại",
+          "NASA - Disney - Hollywood",
+          "Avatar, Matrix, Inception",
+          "Decoder Mindset / Cách Xem Không Bị Nuốt",
           "Kết",
           "Publication Pack / Disclosure & Spectacle"
         ],
         "wikilinks": [
           "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
           "Hollywood - Cây Đũa Phép Của Phù Thủy",
           "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
           "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Kiểm Soát Tâm Trí",
           "Ma Trận",
           "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+          "Saturn Cube",
           "Vô Thức Tập Thể"
         ],
         "mdlinks": [],
         "outlinks": [
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
           "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
           "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
           "esoterica/Ma Trận.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Saturn Cube.md",
           "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md"
+          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
         ],
         "backlinks": [
           "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
           "Cách Đọc Red Pill Wiki.md",
           "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
           "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
+          "esoterica/Cabal.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
           "esoterica/Dune - Paul Leto II Va Golden Path.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
           "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
           "esoterica/index.md",
           "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Ma Trận.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
           "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
           "index.md",
-          "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
-          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Nguyên Mẫu.md",
           "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "mental-models/Vô Thức Tập Thể.md",
           "MOC - Epistemology & Propaganda.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Elite.md",
+          "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
           "politics-conspiracy/index.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
         ],
-        "words": 1653,
-        "summary": "**Predictive programming là giả thuyết rằng media không chỉ phản ánh tương lai, mà còn tập cho công chúng cảm thấy tương lai đó quen thuộc trước khi nó được triển khai thành policy, market, technology hoặc social norm. Nó không cần bạn tin ngay. Nó chỉ cần bạ…"
+        "words": 1539,
+        "summary": "**Hollywood là nơi giải trí trở thành nghi lễ đại chúng: hình ảnh, nhạc, thần tượng, biểu tượng và câu chuyện được lặp đủ lâu để đi thẳng vào Vô Thức Tập Thể. Cách đọc “holy wood” như cây đũa phép không nên hiểu là etymology chắc chắn; nó là symbolic key để t…"
       },
       {
         "path": "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
@@ -2792,87 +2897,6 @@
         ],
         "words": 2340,
         "summary": "**Có một trap mà mind không thể thoát bằng thinking: mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó. Cứ đi đủ sâu vào bất kỳ framework nào, bạn sẽ gặp counter-framework của nó. Cứ cố thắng bằng argument, bạn sẽ bị kéo vào vòng lặp vô tận. Ngh…"
-      },
-      {
-        "path": "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "title": "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica",
-          "hollywood",
-          "occult",
-          "predictive-programming"
-        ],
-        "aliases": [
-          "Cây Đũa Phép Của Phù Thủy",
-          "Dream Factory",
-          "Hollywood",
-          "The Sorcerer's Wand"
-        ],
-        "headings": [
-          "Hollywood — Cây Đũa Phép Của Phù Thủy",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Wand Không Tạo Phép, Wand Hướng Ý Chí",
-          "Entertainment Là Vùng Critical Thinking Thấp",
-          "Hidden In Plain Sight",
-          "Symbol Stack / Bộ Ký Hiệu Lặp Lại",
-          "NASA - Disney - Hollywood",
-          "Avatar, Matrix, Inception",
-          "Decoder Mindset / Cách Xem Không Bị Nuốt",
-          "Kết",
-          "Publication Pack / Disclosure & Spectacle"
-        ],
-        "wikilinks": [
-          "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Inception - Predictive Programming Về Kiểm Soát Tâm Trí",
-          "Karma Disclosure - Truth Hidden In Plain Sight",
-          "Ma Trận",
-          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-          "Saturn Cube",
-          "Vô Thức Tập Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Saturn Cube.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md"
-        ],
-        "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
-          "esoterica/Cabal.md",
-          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
-          "esoterica/Dune - Paul Leto II Va Golden Path.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-          "esoterica/Gnosis.md",
-          "esoterica/index.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "index.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "mental-models/Vô Thức Tập Thể.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-          "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-          "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
-        ],
-        "words": 1539,
-        "summary": "**Hollywood là nơi giải trí trở thành nghi lễ đại chúng: hình ảnh, nhạc, thần tượng, biểu tượng và câu chuyện được lặp đủ lâu để đi thẳng vào Vô Thức Tập Thể. Cách đọc “holy wood” như cây đũa phép không nên hiểu là etymology chắc chắn; nó là symbolic key để t…"
       },
       {
         "path": "esoterica/Luân Hồi.md",
@@ -12313,6 +12337,7 @@
           "Elite",
           "Gen Z và CBDC - Programmable Money Psychology",
           "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
           "index",
           "Karma Disclosure - Truth Hidden In Plain Sight",
           "Kiểm Soát Tâm Trí",
@@ -12373,6 +12398,7 @@
           "politics-conspiracy/Bức Tường Băng.md",
           "politics-conspiracy/Dark MAGA.md",
           "politics-conspiracy/Elite.md",
+          "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md",
           "politics-conspiracy/MindGeek.md",
           "politics-conspiracy/Mudflood.md",
@@ -12397,7 +12423,7 @@
           "mental-models/index.md",
           "science-tech/index.md"
         ],
-        "words": 1036,
+        "words": 1071,
         "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
       },
       {
@@ -12556,6 +12582,7 @@
           "Cách Đọc Red Pill Wiki",
           "Elite",
           "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
           "Karma Disclosure - Truth Hidden In Plain Sight",
           "Khoa Học Xét Lại",
           "Kiểm Soát Tâm Trí",
@@ -12577,6 +12604,7 @@
           "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
           "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Elite.md",
+          "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md",
           "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -12591,6 +12619,7 @@
           "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
           "index.md",
           "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "politics-conspiracy/Operation Paperclip.md",
@@ -12598,7 +12627,7 @@
           "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 5638,
+        "words": 5673,
         "summary": "**Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở lại với người ngoài hành tinh, Trump đẩy narrative alien vào mainstream, Hollywood mở nghi lễ bằng hình ảnh, còn Elon Musk đưa obelisk hiện đại của…"
       },
       {
@@ -13365,6 +13394,7 @@
           "MOC - Ancient Civilizations & Hidden History.md",
           "MOC - Epistemology & Propaganda.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md"
         ],
@@ -13421,6 +13451,7 @@
           "MOC - Ancient Civilizations & Hidden History.md",
           "MOC - Science Revisionism.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
         ],
@@ -13808,6 +13839,61 @@
         "summary": "**Dark MAGA là meme chính trị khi restoration myth chuyển sang revenge myth: không còn chỉ \"làm nước Mỹ vĩ đại trở lại\", mà là trở lại bằng phẫn nộ, trừng phạt và quyền lực không xin phép.** Đây là nơi meme warfare chạm vào shadow politics."
       },
       {
+        "path": "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
+        "title": "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "avengers-doomsday",
+          "black-eye",
+          "doctor-doom",
+          "iron-man",
+          "marvel",
+          "predictive-programming",
+          "symbolism"
+        ],
+        "aliases": [
+          "Doom là hóa đơn của Endgame",
+          "I Am Iron Man I Am Doom",
+          "Tony Stark và Doctor Doom"
+        ],
+        "headings": [
+          "I Am Iron Man, I Am Doom — Cái Giá Của Người Hùng",
+          "1. Tony Không Phải Người Duy Nhất Chết — Nhưng Anh Là Người Phải Khép Vòng",
+          "2. Endgame Không Chỉ Cứu Thế Giới — Nó Chọn Phiên Bản Thế Giới Được Tồn Tại",
+          "3. Theo Bản Leak, Steve Rogers Là Bằng Chứng Sống Cho Cáo Buộc Của Doom",
+          "4. “I Am Iron Man” Và “I’m Doom” — Cùng Một Thiên Tài, Hai Quan Hệ Với Quyền Lực",
+          "5. Cùng Khuôn Mặt RDJ Là Một Cái Bẫy Dành Cho Khán Giả",
+          "6. Mắt Bầm Của Robert Downey Jr.: Fact, Tin Đồn Và Biểu Tượng",
+          "7. Doom Là Hóa Đơn Chưa Thanh Toán Của Endgame",
+          "Kỷ Luật Đọc",
+          "Nguồn",
+          "Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Mỹ Là Ai Cập Tái Sinh",
+          "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+          "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+          "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+          "politics-conspiracy/index.md"
+        ],
+        "words": 2943,
+        "summary": "**Tony Stark chết để cứu một thực tại. Doctor Doom có thể xuất hiện để hỏi thực tại ấy đã được cứu bằng cuộc đời của ai.**"
+      },
+      {
         "path": "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
         "title": "Bão Từ Bắc Cực vs Bão Mặt Trời",
         "domain": "politics-conspiracy",
@@ -14050,6 +14136,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "August 24, 2026",
           "August 19, 2026",
           "August 18, 2026",
           "August 17, 2026",
@@ -14130,6 +14217,7 @@
           "health/index",
           "Hollywood - Cây Đũa Phép Của Phù Thủy",
           "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+          "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
           "Individuation",
           "Karma Disclosure - Truth Hidden In Plain Sight",
           "Ketogenic Diet",
@@ -14389,6 +14477,7 @@
           "politics-conspiracy/Báo Cáo 2030.md",
           "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Elite.md",
+          "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md",
           "politics-conspiracy/MindGeek.md",
@@ -14442,7 +14531,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 6452,
+        "words": 6530,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14480,6 +14569,7 @@
           "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
           "Gematria",
           "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
           "Karma Disclosure - Truth Hidden In Plain Sight",
           "Khoa Học Xét Lại",
           "Kiểm Soát Tâm Trí",
@@ -14518,6 +14608,7 @@
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Báo Cáo 2030.md",
           "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+          "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md",
           "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
@@ -14559,7 +14650,7 @@
           "science-tech/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 957,
+        "words": 989,
         "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
       },
       {
@@ -16867,11 +16958,11 @@
         ],
         "headings": [
           "Theravāda Và Kinh Tạng Pāli",
-          "Bắt Đầu Nhanh",
-          "Nếu Bạn Mới Hoàn Toàn",
-          "Nếu Bạn Muốn Thực Hành",
-          "Nếu Bạn Muốn Đi Sâu",
-          "Bảy Học Phần",
+          "Chọn Lối Vào Phù Hợp",
+          "“Tôi Mới Học, Nên Bắt Đầu Từ Đâu?”",
+          "“Tôi Muốn Học Cách Thực Hành”",
+          "“Tôi Muốn Tìm Hiểu Nghiệp, Tái Sinh Và Nibbāna”",
+          "Bảy Học Phần Của Cùng Một Con Đường",
           "I. Cửa Vào Và Bản Đồ Nguồn · 4 bài",
           "II. Xương Sống Giáo Pháp · 6 bài",
           "III. Giải Phẫu Kinh Nghiệm Và Cái Tôi · 6 bài",
@@ -16879,8 +16970,7 @@
           "V. Con Đường Thực Hành · 6 bài",
           "VI. Vũ Trụ, Giác Ngộ Và Nibbāna · 4 bài",
           "VII. Vi Diệu Pháp Và Cầu Nối Hiện Đại · 4 bài",
-          "Bộ Công Cụ Nguồn",
-          "Kỷ Luật Đọc"
+          "Khi Bạn Muốn Tự Kiểm Tra Nguồn"
         ],
         "wikilinks": [
           "01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết",
@@ -16986,8 +17076,8 @@
           "MOC - Esoterica & Consciousness.md",
           "theravada/36 - Theravāda Và Khoa Học Hiện Đại - Điểm Gặp, Giới Hạn Và Lối Tắt Sai.md"
         ],
-        "words": 1361,
-        "summary": "Đi theo trục nền trước, không nhảy thẳng vào vũ trụ luận hoặc Vi Diệu Pháp:"
+        "words": 1778,
+        "summary": "Bạn không cần biết các mã Kinh như `DN`, `MN`, `SN` hay `AN`. Bạn cũng không cần giả vờ tin chắc về nghiệp nhiều đời, tái sinh hay 31 cõi. Hãy bắt đầu từ điều mình có thể hiểu và quan sát. Khi gặp một khẳng định lớn, nguồn kiểm chứng nằm ngay trong bài."
       },
       {
         "path": "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
@@ -17002,8 +17092,8 @@
           "Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
           "1. Deva Không Đồng Nghĩa Thượng Đế Sáng Tạo",
           "2. Baka Brahmā: Quyền Lực Và Tuổi Thọ Không Bảo Đảm Chánh Kiến",
-          "3. Năm Cảnh Đến Và Trọng Tâm Tác Ý Trong MN 130",
-          "4. A-tu-la Trong SN 11: Đối Thủ Của Chư Thiên, Không Phải Quỷ Tuyệt Đối",
+          "3. Năm Cảnh Đến Và Trọng Tâm Tác Ý Trong [Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130)",
+          "4. A-tu-la Trong [Các bài kinh về Sakka, chư thiên và a-tu-la](https://suttacentral.net/sn11): Đối Thủ Của Chư Thiên, Không Phải Quỷ Tuyệt Đối",
           "5. Bốn Đọa Xứ: Khổ Không Phải Bản Án Vĩnh Viễn",
           "6. Provenance Và Cách Đọc Hiện Đại Có Giới Hạn",
           "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
@@ -17025,8 +17115,8 @@
           "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
           "theravada/index.md"
         ],
-        "words": 2501,
-        "summary": "!hình minh họa biên tập cho 1. deva không đồng nghĩa thượng đế sáng tạo"
+        "words": 3198,
+        "summary": "Trong vũ trụ Phật giáo, chư thiên vẫn chết, Phạm thiên vẫn có thể nhầm giới hạn của mình là tuyệt đối, A-tu-la vẫn bị xung đột kéo đi. Có quyền lực, ánh sáng hoặc tuổi thọ dài không đồng nghĩa giải thoát."
       },
       {
         "path": "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md",
@@ -17041,8 +17131,8 @@
         "headings": [
           "Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ",
           "1. Saṃsāra Là Sự Lang Thang, Không Phải Tên Một Địa Điểm",
-          "2. SN 15.1: Không Thể Đếm Hết Cỏ, Gỗ, Cành Và Lá",
-          "3. SN 15.3: Biển Nước Mắt Và Trọng Lượng Của Sự Lặp Lại",
+          "2. [Cỏ cây không đủ đếm số đời luân hồi](https://suttacentral.net/sn15.1): Không Thể Đếm Hết Cỏ, Gỗ, Cành Và Lá",
+          "3. [Nước mắt trong luân hồi nhiều hơn biển cả](https://suttacentral.net/sn15.3): Biển Nước Mắt Và Trọng Lượng Của Sự Lặp Lại",
           "4. Vì Sao “Trường Học Linh Hồn” Chỉ Là Lăng Kính So Sánh",
           "5. Vì Sao “Nhà Tù Vũ Trụ” Không Phải Giáo Lý Pāli",
           "6. Lối Ra Tập Trung Vào Điều Kiện, Không Vào Cai Ngục Bí Mật",
@@ -17065,8 +17155,8 @@
           "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
           "theravada/index.md"
         ],
-        "words": 3717,
-        "summary": "!dòng lang thang có điều kiện không có bản đồ của một nhà tù không gian"
+        "words": 4416,
+        "summary": "Luân hồi rất dễ bị kể thành trường học nơi linh hồn lên lớp, hoặc nhà tù vũ trụ nơi một ai đó giam mình. Cả hai câu chuyện đều đặt một nhân vật cố định ở giữa rồi cho nhân vật ấy đi qua nhiều phòng."
       },
       {
         "path": "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md",
@@ -17104,8 +17194,8 @@
           "theravada/10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa.md",
           "theravada/index.md"
         ],
-        "words": 3763,
-        "summary": "Tứ Thánh Đế thường được nhớ bằng bốn từ: khổ, tập, diệt, đạo. Cách ghi ấy hữu ích nhưng dễ biến một cấu trúc thực hành thành bảng tín điều. Bốn sự thật và con đường tránh hai cực — Tương Ưng Bộ Kinh không chỉ nêu bốn nội dung. Với mỗi nội dung, bài kinh gắn m…"
+        "words": 4073,
+        "summary": "Bốn Thánh Đế thường bị học như bốn dòng để trả bài. Nhưng khi đời thật đổ xuống — mất việc, bệnh, phản bội, một đêm không ngủ vì sợ — bốn dòng ấy hoặc trở thành công cụ chẩn đoán, hoặc lộ ra rằng mình chỉ thuộc chữ."
       },
       {
         "path": "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
@@ -17142,8 +17232,8 @@
           "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
           "theravada/index.md"
         ],
-        "words": 2236,
-        "summary": "!hình minh họa biên tập cho 1. hai bản đồ có hai độ phân giải khác nhau"
+        "words": 2834,
+        "summary": "Bản đồ 31 cõi rất dễ trở thành infographic để tò mò: mình từng ở cõi nào, ai đang ở tầng nào, thiền đến đâu thì lên đâu. Khi đó vũ trụ luận lại nuôi đúng thứ nó được dùng để soi — craving trở thành một ai đó ở một nơi cao hơn."
       },
       {
         "path": "theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng.md",
@@ -17159,7 +17249,7 @@
           "1. Từ “Tôi Là” Đến Một Cấu Trúc Có Thể Quan Sát",
           "2. Hai Mươi Cách Dựng Tự Ngã Quanh Năm Uẩn",
           "3. Khi Uẩn Đổi, Căn Tính Bị Thương Như Thế Nào",
-          "4. Nguồn Sinh Và Đoạn Diệt Của Sakkāya Trong MN 44",
+          "4. Nguồn Sinh Và Đoạn Diệt Của Sakkāya Trong [Hỏi đáp về thân kiến và thiền](https://suttacentral.net/mn44)",
           "5. So Sánh Hiện Đại: cái tôi tự sự Chỉ Là Cộng Hưởng",
           "6. Thực Hành Bản Đồ Bản Sắc Trong Một Phản Ứng",
           "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn"
@@ -17179,8 +17269,8 @@
           "theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt.md",
           "theravada/index.md"
         ],
-        "words": 3168,
-        "summary": "!nhiều vòng đồng nhất sở hữu chứa và nằm trong quấn quanh năm uẩn, không có lõi người tí hon"
+        "words": 3841,
+        "summary": "Một lời chê có thể sinh ra “người bị coi thường”. Một lời khen sinh ra “người phải giữ hình ảnh”. Bản sắc không chỉ là thứ mình có; nó được lắp lại trong từng phản ứng, rồi quay về bảo vệ chính câu chuyện vừa tạo."
       },
       {
         "path": "theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt.md",
@@ -17197,7 +17287,7 @@
           "2. Công Thức Điều Kiện: Chính Xác Hơn “Mọi Thứ Liên Quan Với Nhau”",
           "3. Chiều Sinh Khởi: Mười Hai Chi Là Bản Đồ Của Dukkha",
           "4. Chiều Đoạn Diệt: Không Phải Phá Hủy Mà Là Không Còn Nuôi Điều Kiện",
-          "5. SN 12.23: Một Chuỗi Duyên Hỗ Trợ Đi Từ Khổ Đến Giải Thoát",
+          "5. [Từ khổ đau đến giải thoát theo chuỗi hỗ trợ](https://suttacentral.net/sn12.23): Một Chuỗi Duyên Hỗ Trợ Đi Từ Khổ Đến Giải Thoát",
           "6. Thực Hành Hai Chiều Trong Một Tình Huống Có Thật",
           "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
         ],
@@ -17216,8 +17306,8 @@
           "theravada/18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc.md",
           "theravada/index.md"
         ],
-        "words": 3871,
-        "summary": "!hình tượng tự nhiên diễn giải 1. không chỉ hỏi “khổ từ đâu đến?” mà còn “khổ dừng thế nào?” mà không giả làm bằng chứng lịch sử"
+        "words": 4541,
+        "summary": "Duyên khởi thường được vẽ như mười hai ô nối bằng mũi tên. Nhìn lâu, nó dễ biến thành sơ đồ của một cỗ máy xa lạ. Nhưng thử nhìn một cơn giận: điều kiện này có nên điều kia có; khi điều kiện đổi, cả vòng phản ứng đổi."
       },
       {
         "path": "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md",
@@ -17253,8 +17343,8 @@
           "theravada/33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna.md",
           "theravada/index.md"
         ],
-        "words": 3104,
-        "summary": "!hình minh họa biên tập cho 1. đừng đặt nibbāna lên trên cùng một tấm bản đồ cõi"
+        "words": 3639,
+        "summary": "Nibbāna thường bị tưởng tượng thành nơi đẹp nhất để một cái tôi đi tới, hoặc hư vô nơi cái tôi bị xóa. Hai hình ảnh đối nghịch nhưng dùng cùng một giả định: có một vật thể tên “tôi” cần được đặt ở đâu đó."
       },
       {
         "path": "theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md",
@@ -17290,8 +17380,8 @@
           "theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp.md",
           "theravada/index.md"
         ],
-        "words": 4200,
-        "summary": "**Theravāda — đọc gần đúng “Thê-ra-va-đa” — giáo pháp hay đường lối của các Trưởng lão** là tên của một truyền thống Phật giáo sống. `Thera` nghĩa là trưởng lão; `vāda` trong tên gọi có thể mang nghĩa lời dạy, chủ trương hoặc truyền thống. Dịch gọn là “Giáo p…"
+        "words": 4537,
+        "summary": "Nói “tôi theo Theravāda” nghe có vẻ rõ, nhưng câu ấy có thể chứa ba thứ khác nhau: một truyền thống lịch sử, một hệ Kinh–Luật–Vi Diệu Pháp, và một identity để mình đứng về một phe. Nếu không tách ba lớp này, người học rất dễ bảo vệ nhãn nhiều hơn bảo vệ sự th…"
       },
       {
         "path": "theravada/20 - Tái Sinh Mà Không Có Linh Hồn.md",
@@ -17305,9 +17395,9 @@
         "headings": [
           "Tái Sinh Mà Không Có Linh Hồn",
           "1. Câu Hỏi Sai: “Nếu Không Có Tôi, Ai Đi Tái Sinh?”",
-          "2. MN 38: Không Phải Cùng Một Thức Lang Thang",
-          "3. SN 12.2: Từ Hữu Đến Sinh, Không Có Mắt Xích Linh Hồn",
-          "4. DN 15: Thức Và Danh-Sắc Nương Nhau",
+          "2. [Thức sinh theo điều kiện](https://suttacentral.net/mn38): Không Phải Cùng Một Thức Lang Thang",
+          "3. [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2): Từ Hữu Đến Sinh, Không Có Mắt Xích Linh Hồn",
+          "4. [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15): Thức Và Danh-Sắc Nương Nhau",
           "5. Paṭisandhi: Hệ Thống Hóa Hậu Kỳ, Không Phải Từ Khóa Của Ba Đoạn kinh nền",
           "6. Thực Hành Trách Nhiệm Mà Không Dựng Một Cái Tôi Vĩnh Cửu",
           "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
@@ -17327,8 +17417,8 @@
           "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md",
           "theravada/index.md"
         ],
-        "words": 3836,
-        "summary": "!câu hỏi về tiếp nối nhân quả không có người mang"
+        "words": 4576,
+        "summary": "Nếu không có linh hồn bất biến, cái gì tái sinh? Nếu hoàn toàn không có liên tục, ai nhận quả? Hai câu hỏi kéo người đọc về hai cực quen thuộc: một vật thể đi xuyên các đời, hoặc cái chết xóa sạch mọi quan hệ nhân quả."
       },
       {
         "path": "theravada/34 - Tâm Sở Và Sát-na Tâm - Bản Đồ Vi Mô Của Kinh Nghiệm.md",
@@ -17342,10 +17432,10 @@
         "headings": [
           "Tâm Sở Và Sát-na Tâm — Bản Đồ Vi Mô Của Kinh Nghiệm",
           "1. Một “Tâm” Không Phải Một Khối Đơn Độc",
-          "2. MN 111 Cho Một Danh Sách Yếu Tố, Không Cho Con Số 52",
+          "2. [Nhận biết từng yếu tố trong các tầng thiền](https://suttacentral.net/mn111) Cho Một Danh Sách Yếu Tố, Không Cho Con Số 52",
           "3. Dhammasaṅgaṇī Phân Loại Tầm Và Tứ Theo Ma Trận Canonical",
           "4. Hệ 52 Tâm Sở Và Tổ Hợp Chi Tiết Thuộc Sách Thủ Bản Hậu Kỳ",
-          "5. SN 12.61 Dạy Tâm Sinh-Diệt, Không Phát Biểu Sát-na Học Chi Tiết",
+          "5. [Tâm và thức sinh diệt suốt ngày đêm](https://suttacentral.net/sn12.61) Dạy Tâm Sinh-Diệt, Không Phát Biểu Sát-na Học Chi Tiết",
           "6. Khoảnh Khắc Tâm Không Phải Khung Hình Não",
           "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
         ],
@@ -17364,8 +17454,8 @@
           "theravada/35 - Paṭṭhāna - Hai Mươi Bốn Duyên Và Mạng Điều Kiện.md",
           "theravada/index.md"
         ],
-        "words": 2300,
-        "summary": "!hình minh họa biên tập cho 1. một “tâm” không phải một khối đơn độc"
+        "words": 2899,
+        "summary": "Một cơn giận có vẻ kéo dài mười phút, nhưng mô hình sát-na tâm hỏi liệu nó có thật là một khối hay là chuỗi sự kiện sinh–diệt cực nhanh. Câu hỏi ấy có thể làm kinh nghiệm bớt đặc — nhưng cũng dễ tạo ảo tưởng rằng mình đang quan sát trực tiếp thứ chỉ mới hiểu…"
       },
       {
         "path": "theravada/33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna.md",
@@ -17401,8 +17491,8 @@
           "theravada/34 - Tâm Sở Và Sát-na Tâm - Bản Đồ Vi Mô Của Kinh Nghiệm.md",
           "theravada/index.md"
         ],
-        "words": 2138,
-        "summary": "!hình minh họa biên tập cho 1. vi diệu pháp đổi độ phân giải của câu hỏi"
+        "words": 2585,
+        "summary": "Abhidhamma hấp dẫn vì nó hứa một bản đồ có độ phân giải rất cao. Khi mọi thứ được phân loại, mind có cảm giác đã nắm được kinh nghiệm. Nhưng bản đồ càng chi tiết, nguy cơ nhầm bảng phân loại với thực tại càng lớn."
       },
       {
         "path": "theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống.md",
@@ -17419,7 +17509,7 @@
           "2. Tuệ: Chánh Kiến Và Chánh Ý Hướng",
           "3. Giới: Chánh Ngữ, Chánh Nghiệp Và Chánh Mạng",
           "4. Đào Luyện Tâm: Chánh Tinh Tấn, Chánh Niệm Và Chánh Định",
-          "5. MN 117: Chánh Kiến Đi Trước, Nhưng Không Đi Một Mình",
+          "5. [Chánh kiến và cấu trúc con đường](https://suttacentral.net/mn117): Chánh Kiến Đi Trước, Nhưng Không Đi Một Mình",
           "6. Thực Hành Hệ Thống: Chọn Một Nút Và Theo Các Quan Hệ",
           "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn"
         ],
@@ -17436,8 +17526,8 @@
           "theravada/09 - Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự.md",
           "theravada/index.md"
         ],
-        "words": 3482,
-        "summary": "**Ariya aṭṭhaṅgika magga — đọc gần đúng “a-ri-ya át-thăng-ghi-ca mắc-ga” — con đường cao quý có tám chi** là đế thứ tư trong Tứ Thánh Đế. Từ *aṅga* chỉ chi, phần hay yếu tố. Hình ảnh thích hợp hơn một danh sách việc cần hoàn tất là một hệ thống đào luyện: các…"
+        "words": 4129,
+        "summary": "Bát Chánh Đạo hay bị biến thành checklist tám ô. Nhưng đời sống không vận hành như tám app tách biệt: lời nói làm tâm động, sinh kế tạo điều kiện cho định, cách nhìn quyết định mình đang tinh tấn về hướng nào."
       },
       {
         "path": "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
@@ -17472,8 +17562,8 @@
           "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md",
           "theravada/index.md"
         ],
-        "words": 3244,
-        "summary": "!hình minh họa biên tập cho 1. bốn đạo-quả là bản đồ chuyển hóa, không phải bốn huy hiệu"
+        "words": 3767,
+        "summary": "Các tầng Thánh quả rất dễ biến thành rank system tâm linh: ai ở tầng nào, ai đủ chuẩn, ai chỉ tưởng mình chứng. Khi quả vị thành status, con đường giải thoát lại cung cấp vật liệu cho so sánh và tự tôn."
       },
       {
         "path": "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
@@ -17491,7 +17581,7 @@
           "3. Karuṇā: Đến Gần Khổ Mà Không Chìm Trong Khổ",
           "4. Muditā: Niềm Vui Không Chiếm Hữu Và Thuốc Giải Ganh Tị",
           "5. Upekkhā: Xả Không Phải Thờ Ơ, Và Ranh Giới Không Phải Sân",
-          "6. SN 46.54: Tâm Vô Lượng Đi Cùng Giác Chi Và Sự Phân Biệt Mục Đích",
+          "6. [Bốn tâm vô lượng cùng các giác chi](https://suttacentral.net/sn46.54): Tâm Vô Lượng Đi Cùng Giác Chi Và Sự Phân Biệt Mục Đích",
           "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
         ],
         "wikilinks": [
@@ -17508,8 +17598,8 @@
           "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
           "theravada/index.md"
         ],
-        "words": 3198,
-        "summary": "!hình tượng tự nhiên diễn giải 1. “vô lượng” là không dựng biên giới thù ghét không giả làm bằng chứng lịch sử hoặc y khoa"
+        "words": 3771,
+        "summary": "Tâm từ thường bị biến thành câu khẳng định dễ thương. Tâm xả lại bị hiểu thành lạnh lùng. Nhưng thử thương một người đang làm mình khó chịu, hoặc giữ quân bình khi người mình yêu chọn điều mình không kiểm soát được — lúc đó bốn tâm vô lượng mới lộ độ khó."
       },
       {
         "path": "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
@@ -17544,8 +17634,8 @@
           "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
           "theravada/index.md"
         ],
-        "words": 3286,
-        "summary": "!hình tượng tự nhiên diễn giải 1. jhāna nằm trong một lộ trình đạo đức và tỉnh giác không giả làm bằng chứng lịch sử hoặc y khoa"
+        "words": 3973,
+        "summary": "Jhāna dễ kích hoạt hai fantasy trái nhau. Một bên xem nó là superpower bắt buộc; bên kia hạ nó thành cảm giác thư giãn dễ chịu. Cả hai có thể khiến người học săn trạng thái thay vì hiểu chức năng của định."
       },
       {
         "path": "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
@@ -17580,8 +17670,8 @@
           "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
           "theravada/index.md"
         ],
-        "words": 3346,
-        "summary": "!hình tượng tự nhiên diễn giải 1. hai phẩm chất của một con đường, không phải hai giáo phái không giả làm bằng chứng lịch sử hoặc y khoa"
+        "words": 3932,
+        "summary": "Thiền chỉ và thiền quán thường bị bán như hai team: một bên yên, một bên thấy; một bên bị chê là mắc định, bên kia bị chê là khô và căng. Khi phương pháp thành identity, người học bắt đầu bảo vệ tên kỹ thuật nhiều hơn nhìn tâm."
       },
       {
         "path": "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md",
@@ -17599,6 +17689,10 @@
           "3. [Ví dụ con rắn và chiếc bè](https://suttacentral.net/mn22): Nắm Con Rắn Đúng Chỗ Và Không Vác Chiếc Bè",
           "4. [Cách kiểm chứng một điều là thật](https://suttacentral.net/mn95): Giữ Một Mệnh Đề Là Thật Chưa Phải Biết Nó Là Thật",
           "5. [Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65): Không Tin Mù Quáng Cũng Không Phong Cảm Giác Làm Giáo Chủ",
+          "Tự Mình Là Hòn Đảo, Nhưng Không Lấy Cái Tôi Làm Chân Lý",
+          "Một Lời Dạy Có Dẫn Về Ít Tham Và Biết Đủ Không?",
+          "Nói Về Pháp Hoặc Giữ Im Lặng Cao Quý",
+          "Một Lời Gán Cho Đức Phật Vẫn Phải Được Đối Chiếu",
           "6. Một Quy Trình Đọc Và Kiểm Chứng Có Thể Lặp Lại",
           "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn"
         ],
@@ -17616,8 +17710,8 @@
           "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md",
           "theravada/index.md"
         ],
-        "words": 4490,
-        "summary": "Một câu Kinh có thể bị làm phẳng theo hai cách đối nghịch. Cách thứ nhất là coi mọi dòng trong Tam Tạng như một mệnh đề không cần văn cảnh: đã là “lời Phật” thì chỉ còn việc chấp nhận. Cách thứ hai là lấy sở thích cá nhân làm tòa án cuối cùng: câu nào hợp cảm…"
+        "words": 6151,
+        "summary": "Đọc Kinh rất dễ biến thành hai cuộc thi. Một bên thi xem ai tin mạnh hơn. Bên kia thi xem ai hoài nghi sắc hơn. Cả hai có thể đọc hàng nghìn trang mà vẫn chỉ đang bảo vệ identity của mình."
       },
       {
         "path": "theravada/19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ.md",
@@ -17632,8 +17726,8 @@
         "headings": [
           "Kamma — Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ",
           "1. Đưa “Nghiệp” Trở Lại Hành Động Có Tác Ý",
-          "2. AN 6.63: Tác Ý, Nguồn Sinh, Đa Dạng Và Đoạn Diệt Của Nghiệp",
-          "3. MN 135: Quan Hệ Đạo Đức Không Phải Công Thức Một–Một",
+          "2. [Nghiệp là tác ý và có con đường đoạn diệt](https://suttacentral.net/an6.63): Tác Ý, Nguồn Sinh, Đa Dạng Và Đoạn Diệt Của Nghiệp",
+          "3. [Hành vi và những khác biệt trong quả](https://suttacentral.net/mn135): Quan Hệ Đạo Đức Không Phải Công Thức Một–Một",
           "4. Vì Sao Kamma Không Phải Định Mệnh Hay Nguyên Nhân Duy Nhất",
           "5. Không Đổ Lỗi Nạn Nhân: Hàng Rào Đạo Đức Bắt Buộc",
           "6. Thực Hành Với Tác Ý Và Quyền Hành Động Hiện Tại",
@@ -17649,8 +17743,8 @@
           "theravada/20 - Tái Sinh Mà Không Có Linh Hồn.md",
           "theravada/index.md"
         ],
-        "words": 3802,
-        "summary": "!hình tượng tự nhiên diễn giải 1. đưa “nghiệp” trở lại hành động có tác ý mà không giả làm bằng chứng lịch sử"
+        "words": 4514,
+        "summary": "Nghiệp thường bị kể như một hệ điểm thưởng–phạt vô hình: làm tốt được cộng, làm xấu bị trừ, gặp chuyện gì cũng có người hỏi “kiếp trước làm gì”. Cách kể ấy đơn giản, dễ nhớ và rất dễ dùng để phán xét nạn nhân."
       },
       {
         "path": "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md",
@@ -17664,9 +17758,9 @@
         "headings": [
           "Những Gì Kinh Pāli Nói Về Cái Chết",
           "1. Bốn Lớp Thường Bị Trộn Khi Nói Về Chết",
-          "2. DN 16: Những Ngày Cuối Và Lời Nhắc Không Phóng Dật",
-          "3. MN 60: Một Lựa Chọn Có Trách Nhiệm Trước Điều Chưa Tự Thấy",
-          "4. MN 130: Các Sứ Giả Và Sự Khẩn Thiết Đạo Đức",
+          "2. [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16): Những Ngày Cuối Và Lời Nhắc Không Phóng Dật",
+          "3. [Lựa chọn đạo đức trước điều chưa biết](https://suttacentral.net/mn60): Một Lựa Chọn Có Trách Nhiệm Trước Điều Chưa Tự Thấy",
+          "4. [Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130): Các Sứ Giả Và Sự Khẩn Thiết Đạo Đức",
           "5. Tang Lễ, Hồi Hướng Và Hệ Thống Theravāda Hậu Kỳ",
           "6. Bardo Và NDE: So Sánh, Không Gắn Nhãn Kinh Pāli",
           "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
@@ -17685,8 +17779,8 @@
           "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md",
           "theravada/index.md"
         ],
-        "words": 3837,
-        "summary": "!bốn lớp Kinh Pāli tang lễ chú giải và trải nghiệm hiện đại được phân ranh"
+        "words": 4585,
+        "summary": "Ta có thể đọc hàng chục bài về cái chết mà vẫn sống như thể nó chỉ xảy ra cho người khác. Cái chết trở thành topic, còn lịch hẹn, lời xin lỗi và bàn tay cha mẹ già vẫn bị đẩy sang tuần sau."
       },
       {
         "path": "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
@@ -17704,6 +17798,11 @@
           "3. Giới Thứ Ba: Dục, Đồng Thuận Và Trách Nhiệm Quan Hệ",
           "4. Giới Thứ Tư Và Thứ Năm: Sự Thật, Chất Say Và Năng Lực Không Buông Lung",
           "5. Năm Giới Tại Gia Không Phải Luật Tạng Xuất Gia",
+          "Đạo Đức Cư Sĩ Bắt Đầu Ngay Trong Căn Nhà",
+          "Hết Oán Không Có Nghĩa Là Giả Vờ Chưa Từng Bị Hại",
+          "Bố Thí Không Phải Giao Dịch Mua Phước",
+          "Biết Ơn Không Phải Món Nợ Cho Phép Người Khác Sở Hữu Mình",
+          "Đường Cư Sĩ Có Công Việc, Tài Sản Và Cân Bằng Thu–Chi",
           "6. Một Cách Thực Hành Không Hại, Có Ranh Giới Và Có Khả Năng Sửa Sai",
           "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
         ],
@@ -17721,8 +17820,8 @@
           "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
           "theravada/index.md"
         ],
-        "words": 4061,
-        "summary": "!hình tượng tự nhiên diễn giải 1. năm sự học, không phải năm mệnh lệnh từ một đấng phán xét không giả làm bằng chứng lịch sử hoặc y khoa"
+        "words": 6148,
+        "summary": "Năm giới không cần một vị thần đứng trên trời để trở thành nghiêm túc. Chỉ cần nhìn một lời nói dối làm quan hệ co lại, một cơn say lấy mất khả năng chọn, một hành vi tình dục thiếu đồng thuận để lại vết thương, ta đã thấy đạo đức nằm trong mạng hậu quả."
       },
       {
         "path": "theravada/11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào.md",
@@ -17757,8 +17856,8 @@
           "theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu.md",
           "theravada/index.md"
         ],
-        "words": 3658,
-        "summary": "!năm dòng sắc thọ tưởng hành thức giao nhau quanh một đời sống nhưng không đóng thành lõi bất biến"
+        "words": 4254,
+        "summary": "Bạn vừa bị chê và trong vài giây đã có cả một “tôi” bị xúc phạm. Nhưng nhìn kỹ: có âm thanh, cảm giác khó chịu, nhận dạng, câu chuyện phản công và dòng biết đang đổi. “Tôi” xuất hiện rất nhanh, nên ta tưởng nó đã đứng đó từ đầu."
       },
       {
         "path": "theravada/35 - Paṭṭhāna - Hai Mươi Bốn Duyên Và Mạng Điều Kiện.md",
@@ -17773,7 +17872,7 @@
           "Paṭṭhāna — Hai Mươi Bốn Duyên Và Mạng Điều Kiện",
           "1. Từ Một Chuỗi Duyên Khởi Đến Một Ngữ Pháp Quan Hệ",
           "2. Nền Kinh Sớm: Tính Có Điều Kiện Không Do Ai Sáng Chế",
-          "3. SN 12.23: Một Chuỗi Hỗ Trợ Không Chỉ Đi Từ Vô Minh Đến Khổ",
+          "3. [Từ khổ đau đến giải thoát theo chuỗi hỗ trợ](https://suttacentral.net/sn12.23): Một Chuỗi Hỗ Trợ Không Chỉ Đi Từ Vô Minh Đến Khổ",
           "4. Hai Mươi Bốn Duyên: Danh Sách Vi Diệu Pháp, Không Phải Trích Dẫn Giả",
           "5. Bốn Họ Quan Hệ Để Học Mà Không Làm Phẳng Hệ Thống",
           "6. Thực Hành: Lập Bản Đồ Một Phản Ứng, Không Đổ Cho Một Nguyên Nhân",
@@ -17793,8 +17892,8 @@
           "theravada/36 - Theravāda Và Khoa Học Hiện Đại - Điểm Gặp, Giới Hạn Và Lối Tắt Sai.md",
           "theravada/index.md"
         ],
-        "words": 2217,
-        "summary": "!hình minh họa biên tập cho 1. từ một chuỗi duyên khởi đến một ngữ pháp quan hệ"
+        "words": 2713,
+        "summary": "Khi chuyện xấu xảy ra, mind muốn một nguyên nhân để chỉ tay. Khi chuyện tốt xảy ra, ego muốn một nguyên nhân để nhận công. Paṭṭhāna làm cả hai phản xạ khó hơn: một hiện tượng có thể được nâng bởi nhiều loại duyên cùng lúc, kể cả sự hiện diện và vắng mặt."
       },
       {
         "path": "theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu.md",
@@ -17829,8 +17928,8 @@
           "theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu.md",
           "theravada/index.md"
         ],
-        "words": 3357,
-        "summary": "!sáu cửa mắt tai mũi lưỡi thân ý đối diện sáu trường đối tượng trong một mạng quan hệ"
+        "words": 3991,
+        "summary": "Thế giới bạn đang sống không chỉ nằm “ngoài kia”. Nó xuất hiện khi mắt gặp hình, tai gặp tiếng, ý gặp một ký ức — rồi xúc, thọ và phản ứng nối vào. Hai người đứng cùng một phòng có thể đang sống trong hai thế giới rất khác."
       },
       {
         "path": "theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp.md",
@@ -17864,8 +17963,8 @@
           "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md",
           "theravada/index.md"
         ],
-        "words": 4216,
-        "summary": "**Tipiṭaka — đọc gần đúng “Ti-pi-ta-ka” — Tam Tạng, ba giỏ hay ba kho văn bản** là kinh điển Pāli của Theravāda. Ba tạng là **Vinaya — “Vi-na-ya” — Luật, kỷ luật tu viện**; **Sutta — “Sút-ta” — Kinh, bài giảng**; và **Abhidhamma — “A-bi-đăm-ma” — Vi Diệu Pháp…"
+        "words": 4525,
+        "summary": "Một bộ Kinh không tự đóng thành sách rồi rơi xuống từ quá khứ. Có người nhớ, tụng, đối chiếu, tranh luận, phân loại và truyền lại. Nhìn quá trình ấy không làm Kinh mất thiêng; nó làm mình bớt ngây thơ về cách ký ức tập thể trở thành canon."
       },
       {
         "path": "theravada/36 - Theravāda Và Khoa Học Hiện Đại - Điểm Gặp, Giới Hạn Và Lối Tắt Sai.md",
@@ -17901,8 +18000,8 @@
           "theravada/35 - Paṭṭhāna - Hai Mươi Bốn Duyên Và Mạng Điều Kiện.md",
           "theravada/index.md"
         ],
-        "words": 2510,
-        "summary": "!hình minh họa biên tập cho 1. hai phương pháp có thể đối thoại mà không hóa thành một"
+        "words": 2809,
+        "summary": "Khi khoa học và Phật giáo có một từ nghe giống nhau, người ta rất muốn tuyên bố hai bên đã gặp nhau: neuroscience chứng minh vô ngã, quantum chứng minh duyên khởi, meditation scan chứng minh giác ngộ. Cảm giác ấy dễ chịu vì tradition được khoác authority hiện…"
       },
       {
         "path": "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
@@ -17937,8 +18036,8 @@
           "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
           "theravada/index.md"
         ],
-        "words": 3669,
-        "summary": "!hình tượng tự nhiên diễn giải 1. satipaṭṭhāna là bốn phạm vi quán sát có mục đích giải thoát không giả làm bằng chứng lịch sử hoặc y khoa"
+        "words": 4229,
+        "summary": "Chánh niệm bây giờ có thể được bán như một công cụ tập trung: thở để làm việc tốt hơn, bình tĩnh để chịu áp lực giỏi hơn. Nhưng Tứ niệm xứ không được dựng để biến mình thành nhân viên tối ưu trong một đời sống vẫn chạy bằng tham và sợ."
       },
       {
         "path": "theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn.md",
@@ -17953,7 +18052,7 @@
           "Viññāṇa — Thức Không Phải Linh Hồn",
           "1. Sai Lầm Của Sāti Và Câu Hỏi Về Cái Tiếp Tục",
           "2. Sáu Thức Được Gọi Tên Theo Điều Kiện",
-          "3. Thức Và Danh–Sắc Nương Nhau Trong DN 15",
+          "3. Thức Và Danh–Sắc Nương Nhau Trong [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15)",
           "4. Tính Tiếp Nối Không Đòi Một Vật Bất Biến",
           "5. Không Phải Kho Chứa, Ý Thức Vũ Trụ Hay Người Biết Thuần Túy",
           "6. Thực Hành Nhận Biết Thức Theo Cửa Và Duyên",
@@ -17973,8 +18072,8 @@
           "theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì.md",
           "theravada/index.md"
         ],
-        "words": 3194,
-        "summary": "!một dòng thức tưởng như sợi dây bất biến bị tách thành sáu sự kiện tùy căn và đối tượng"
+        "words": 3853,
+        "summary": "Nếu thức là linh hồn, nó phải là một người quan sát đứng yên phía sau mọi kinh nghiệm. Nhưng cái biết bằng mắt không phải cái biết bằng tai; thức sinh khi có căn và đối tượng tương ứng, rồi đổi theo điều kiện."
       },
       {
         "path": "theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì.md",
@@ -18009,8 +18108,8 @@
           "theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng.md",
           "theravada/index.md"
         ],
-        "words": 3351,
-        "summary": "!năm uẩn đi qua ba câu của tôi tôi tự ngã của tôi, không rơi vào hố hư vô hay ngai chân ngã"
+        "words": 4026,
+        "summary": "Nghe “vô ngã”, nhiều người lập tức tưởng Phật giáo đang nói mình không tồn tại, không có trách nhiệm hoặc chỉ là ảo ảnh. Rồi một số khác vội lấp khoảng trống bằng “chân ngã” bí mật. Cả hai đều chạy nhanh hơn câu hỏi của Kinh."
       },
       {
         "path": "theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu.md",
@@ -18045,8 +18144,8 @@
           "theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn.md",
           "theravada/index.md"
         ],
-        "words": 3074,
-        "summary": "!căn đối tượng thức hội thành xúc, thọ mang ba sắc độ và ái vươn tay nắm nhưng giữa các mắt có không gian quan sát"
+        "words": 3651,
+        "summary": "Một notification sáng lên. Trước khi bạn kịp nghĩ, thân đã hơi căng, thọ đã nghiêng, tay đã muốn chạm. Vòng lặp thường không bắt đầu ở quyết định lớn; nó bắt đầu trong vài phần giây rất nhỏ mà mình gọi chung là “tôi muốn”."
       },
       {
         "path": "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
@@ -18059,7 +18158,7 @@
         ],
         "headings": [
           "Ānāpānasati — Toàn Bộ Con Đường Trong Một Hơi Thở",
-          "1. MN 118 Dạy Biết Hơi Thở Trước Khi Dạy Mười Sáu Bước",
+          "1. [Mười sáu bước niệm hơi thở](https://suttacentral.net/mn118) Dạy Biết Hơi Thở Trước Khi Dạy Mười Sáu Bước",
           "2. Nhóm Một — Bốn Bước Về Thân Và Cụm “Làm Lắng Dịu Thân Hành”",
           "3. Nhóm Hai — Hỷ, Lạc, Tâm Hành Và Sự Lắng Dịu Không Đồng Nghĩa Săn Khoái Cảm",
           "4. Nhóm Ba — Cảm Nhận, Làm Sáng, Định Tĩnh Và Giải Thoát Tâm",
@@ -18081,8 +18180,8 @@
           "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
           "theravada/index.md"
         ],
-        "words": 3360,
-        "summary": "!hình tượng tự nhiên diễn giải 1. mn 118 dạy biết hơi thở trước khi dạy mười sáu bước không giả làm bằng chứng lịch sử hoặc y khoa"
+        "words": 3917,
+        "summary": "Hơi thở luôn ở đó, nên ta dễ coi nó là kỹ thuật đơn giản nhất. Nhưng chỉ cần ngồi yên vài phút, mình sẽ thấy một việc tưởng tự nhiên lại bị tham kiểm soát, sân chen vào và tâm liên tục muốn một trải nghiệm khác."
       },
       {
         "path": "theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn.md",
@@ -18115,8 +18214,8 @@
           "theravada/07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ.md",
           "theravada/index.md"
         ],
-        "words": 3920,
-        "summary": "!một vòng trải nghiệm gồm đau rõ rệt, vui đang đổi và bàn tay bám vào năm dòng kinh nghiệm"
+        "words": 4572,
+        "summary": "Không phải lúc nào dukkha cũng trông như bi kịch. Có khi nó là một ngày rất vui nhưng bạn bắt đầu sợ ngày ấy kết thúc. Có khi nó là lời khen khiến bạn phải giữ mãi hình ảnh vừa được khen. Có khi thân không đau, nhưng tâm đã âm thầm siết tay quanh một thứ đang…"
       },
       {
         "path": "theravada/18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc.md",
@@ -18151,8 +18250,8 @@
           "theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt.md",
           "theravada/index.md"
         ],
-        "words": 4256,
-        "summary": "!hình tượng tự nhiên diễn giải 1. một danh sách, nhiều phạm vi đọc mà không giả làm bằng chứng lịch sử"
+        "words": 4575,
+        "summary": "Mười hai chi duyên khởi diễn ra trong một sát-na, một đời hay ba đời? Câu hỏi nghe như phải chọn một đáp án duy nhất. Nhưng nhiều cuộc tranh luận chỉ bắt đầu sau khi người ta quên hỏi mô hình đang giải thích tầng nào của nguồn."
       },
       {
         "path": "theravada/10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa.md",
@@ -18166,8 +18265,8 @@
         "headings": [
           "Trung Đạo — Không Phải Thỏa Hiệp Ở Giữa",
           "1. “Ở Giữa” Cái Gì?",
-          "2. SN 56.11: Không Nuôi Dục, Không Hành Xác",
-          "3. SN 12.15: Không Rơi Vào “Tất Cả Có” Hay “Tất Cả Không”",
+          "2. [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11): Không Nuôi Dục, Không Hành Xác",
+          "3. [Không mắc kẹt giữa có và không](https://suttacentral.net/sn12.15): Không Rơi Vào “Tất Cả Có” Hay “Tất Cả Không”",
           "4. Hai Trung Đạo Gặp Nhau Ở Chánh Kiến Và Con Đường",
           "5. Trung Đạo Không Phải Trung Dung Chính Trị Hay Tương Đối Luận",
           "6. Bản Đồ Thực Hành: Xác Định Cực, Điều Kiện Và Hướng Đi",
@@ -18185,8 +18284,8 @@
           "theravada/11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào.md",
           "theravada/index.md"
         ],
-        "words": 3466,
-        "summary": "!hai cửa sổ một bên hưởng dục và ép xác, một bên tồn tại và không tồn tại, cùng mở vào duyên khởi"
+        "words": 4142,
+        "summary": "“Trung đạo” rất dễ bị hiểu thành đứng giữa cho an toàn: ai cũng đúng một chút, đừng cực đoan, chọn phương án vừa vừa. Nhưng Đức Phật không dạy trung bình cộng giữa hai sai lầm."
       },
       {
         "path": "theravada/01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết.md",
@@ -18219,8 +18318,8 @@
           "theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md",
           "theravada/index.md"
         ],
-        "words": 4564,
-        "summary": "Khi hỏi “Đức Phật là ai?”, ta thường gộp hai câu hỏi khác loại. Câu thứ nhất thuộc lịch sử: có một con người tên Gotama từng sống, từ bỏ đời gia chủ, giảng dạy và lập cộng đồng ở miền bắc tiểu lục địa Ấn Độ hay không? Câu thứ hai thuộc đời sống tôn giáo: các…"
+        "words": 4890,
+        "summary": "Nếu bỏ hết tượng vàng, phép màu và lớp sương huyền thoại, ta còn gặp được ai? Bài này bắt đầu từ một con người đã già, bệnh, chứng kiến mất mát và đặt một câu hỏi rất thực: có cách nào sống mà không bị sinh–già–bệnh–chết kéo đi trong vô thức không?"
       },
       {
         "path": "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
@@ -18280,10 +18379,13 @@
         "headings": [
           "Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự",
           "1. Có Trình Tự, Nhưng Không Có Dây Chuyền Máy Móc",
-          "2. DN 2: Quả Của Đời Sa-Môn Và Kiến Trúc Huấn Luyện",
-          "3. MN 39 Và MN 107: Huấn Luyện Như Một Nghề Được Học",
+          "2. [Quả của đời sống xuất gia](https://suttacentral.net/dn2): Quả Của Đời Sa-Môn Và Kiến Trúc Huấn Luyện",
+          "3. [Lộ trình tu tập tuần tự ở Assapura](https://suttacentral.net/mn39) Và [Huấn luyện tuần tự và người chỉ đường](https://suttacentral.net/mn107): Huấn Luyện Như Một Nghề Được Học",
           "4. Giới Là Điều Kiện Tự Do, Không Chỉ Là Cấm Đoán",
           "5. Định Và Tuệ: Ổn Định Để Thấy, Thấy Để Buông",
+          "Tự Lực Không Có Nghĩa Là Đi Một Mình",
+          "Không Phóng Dật Là Làm Phần Việc Cần Làm Khi Còn Thời Gian",
+          "Hòa Hợp Không Phải Xóa Mọi Khác Biệt",
           "6. Thiết Kế Một Lộ Trình Có Thể Sống Được",
           "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn"
         ],
@@ -18298,8 +18400,8 @@
           "index.md",
           "theravada/index.md"
         ],
-        "words": 3681,
-        "summary": "!một con đường giới định tuệ có mũi tên tiến và vòng phản hồi, không phải thang khóa cứng"
+        "words": 5286,
+        "summary": "Nhiều người muốn một lộ trình tu giống kế hoạch gym: tuần này giới, tháng sau định, đủ giờ thì mở khóa tuệ. Nhưng tâm không phải dây chuyền sản xuất, và con đường cũng không thưởng huy hiệu cho người hoàn thành từng module."
       },
       {
         "path": "theravada/07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ.md",
@@ -18331,8 +18433,8 @@
           "index.md",
           "theravada/index.md"
         ],
-        "words": 3799,
-        "summary": "!thọ dẫn đến cơn khát, bàn tay nắm và một căn tính đang thành hình với các mũi tên có điều kiện"
+        "words": 4466,
+        "summary": "Một cảm giác dễ chịu xuất hiện. Chưa có gì sai. Rồi tâm nói: thêm nữa. Giữ nó lại. Đừng để mất. Chỉ vài nhịp sau, một cảm thọ đã trở thành cơn khát, một thứ “của tôi”, rồi một phiên bản “tôi” phải bảo vệ."
       },
       {
         "path": "theravada/Từ Điển Pāli Cốt Lõi.md",
@@ -18489,6 +18591,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "August 24, 2026",
         "August 19, 2026",
         "August 18, 2026",
         "August 17, 2026",
@@ -18569,6 +18672,7 @@
         "health/index",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+        "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
         "Individuation",
         "Karma Disclosure - Truth Hidden In Plain Sight",
         "Ketogenic Diet",
@@ -18828,6 +18932,7 @@
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Elite.md",
+        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/MindGeek.md",
@@ -18881,7 +18986,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 6452,
+      "words": 6530,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -19541,6 +19646,7 @@
         "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
         "Gematria",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
         "Karma Disclosure - Truth Hidden In Plain Sight",
         "Khoa Học Xét Lại",
         "Kiểm Soát Tâm Trí",
@@ -19579,6 +19685,7 @@
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
@@ -19620,7 +19727,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 957,
+      "words": 989,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     {
@@ -20223,11 +20330,11 @@
       ],
       "headings": [
         "Theravāda Và Kinh Tạng Pāli",
-        "Bắt Đầu Nhanh",
-        "Nếu Bạn Mới Hoàn Toàn",
-        "Nếu Bạn Muốn Thực Hành",
-        "Nếu Bạn Muốn Đi Sâu",
-        "Bảy Học Phần",
+        "Chọn Lối Vào Phù Hợp",
+        "“Tôi Mới Học, Nên Bắt Đầu Từ Đâu?”",
+        "“Tôi Muốn Học Cách Thực Hành”",
+        "“Tôi Muốn Tìm Hiểu Nghiệp, Tái Sinh Và Nibbāna”",
+        "Bảy Học Phần Của Cùng Một Con Đường",
         "I. Cửa Vào Và Bản Đồ Nguồn · 4 bài",
         "II. Xương Sống Giáo Pháp · 6 bài",
         "III. Giải Phẫu Kinh Nghiệm Và Cái Tôi · 6 bài",
@@ -20235,8 +20342,7 @@
         "V. Con Đường Thực Hành · 6 bài",
         "VI. Vũ Trụ, Giác Ngộ Và Nibbāna · 4 bài",
         "VII. Vi Diệu Pháp Và Cầu Nối Hiện Đại · 4 bài",
-        "Bộ Công Cụ Nguồn",
-        "Kỷ Luật Đọc"
+        "Khi Bạn Muốn Tự Kiểm Tra Nguồn"
       ],
       "wikilinks": [
         "01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết",
@@ -20342,8 +20448,142 @@
         "MOC - Esoterica & Consciousness.md",
         "theravada/36 - Theravāda Và Khoa Học Hiện Đại - Điểm Gặp, Giới Hạn Và Lối Tắt Sai.md"
       ],
-      "words": 1361,
-      "summary": "Đi theo trục nền trước, không nhảy thẳng vào vũ trụ luận hoặc Vi Diệu Pháp:"
+      "words": 1778,
+      "summary": "Bạn không cần biết các mã Kinh như `DN`, `MN`, `SN` hay `AN`. Bạn cũng không cần giả vờ tin chắc về nghiệp nhiều đời, tái sinh hay 31 cõi. Hãy bắt đầu từ điều mình có thể hiểu và quan sát. Khi gặp một khẳng định lớn, nguồn kiểm chứng nằm ngay trong bài."
+    },
+    {
+      "path": "politics-conspiracy/index.md",
+      "title": "Politics & Conspiracy Domain Gateway",
+      "domain": "politics-conspiracy",
+      "tags": [
+        "domain-gateway",
+        "politics-conspiracy",
+        "power-structure"
+      ],
+      "aliases": [
+        "Chính Trị & Âm Mưu",
+        "Politics & Conspiracy",
+        "Power Structure"
+      ],
+      "headings": [
+        "Politics & Conspiracy Domain Gateway",
+        "Disclosure & Spectacle Pack",
+        "How To Read This Domain",
+        "Curated Reading Paths",
+        "1. Beginner Path — Power Structure Without Hysteria",
+        "2. Power-User Path — Governance Stack & Compliance",
+        "3. High-Risk Caution Path — Events, Evidence, Controlled Opposition",
+        "4. Disclosure Path — Space, UAP, Ritual Tech",
+        "5. Social Control Path — Addiction, Sex, Reward Loops",
+        "6. Cross-Domain Bridge Path — Hidden History, Earth, Cosmology",
+        "Key Hubs",
+        "Flagship Articles",
+        "Related Gateways"
+      ],
+      "wikilinks": [
+        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
+        "Báo Cáo 2030",
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Bức Tường Băng",
+        "Cabal",
+        "Climate Anxiety as Control - Fear-Based Compliance",
+        "crypto-finance/index",
+        "Dark MAGA",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
+        "Elite",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
+        "index",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Kiểm Soát Tâm Trí",
+        "Ma Trận",
+        "mental-models/index",
+        "MindGeek",
+        "MOC - Ancient Civilizations & Hidden History",
+        "MOC - Epistemology & Propaganda",
+        "MOC - Financial Sovereignty",
+        "MOC - Science Revisionism",
+        "Mudflood",
+        "Mô Hình Địa Tâm",
+        "Mỹ Là Ai Cập Tái Sinh",
+        "Nam Cực - Bí Mật Được Canh Giữ",
+        "Operation Paperclip",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "S.E.X",
+        "science-tech/index",
+        "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
+        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+        "Sự thật về ma túy",
+        "Sự Thật Về Vụ Sập Tháp Đôi WTC",
+        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+        "Tartaria",
+        "Thế Chiến - Chiến Dịch Dọn Dẹp",
+        "Trái Đất Phẳng",
+        "UAP Disclosure - Controlled Revelation",
+        "UBI Conditioning - The End of Work Ethic",
+        "Điều mà nền giáo dục và chính phủ không dạy bạn",
+        "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/index.md",
+        "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/S.E.X.md",
+        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+        "esoterica/Tartaria.md",
+        "index.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
+        "mental-models/index.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "MOC - Ancient Civilizations & Hidden History.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Financial Sovereignty.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/Dark MAGA.md",
+        "politics-conspiracy/Elite.md",
+        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/MindGeek.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Operation Paperclip.md",
+        "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+        "politics-conspiracy/Sự thật về ma túy.md",
+        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
+        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+        "politics-conspiracy/Trái Đất Phẳng.md",
+        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/index.md"
+      ],
+      "backlinks": [
+        "crypto-finance/index.md",
+        "index.md",
+        "mental-models/index.md",
+        "science-tech/index.md"
+      ],
+      "words": 1071,
+      "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
     },
     {
       "path": "mental-models/Individuation.md",
@@ -20666,138 +20906,6 @@
       ],
       "words": 1272,
       "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
-    },
-    {
-      "path": "politics-conspiracy/index.md",
-      "title": "Politics & Conspiracy Domain Gateway",
-      "domain": "politics-conspiracy",
-      "tags": [
-        "domain-gateway",
-        "politics-conspiracy",
-        "power-structure"
-      ],
-      "aliases": [
-        "Chính Trị & Âm Mưu",
-        "Politics & Conspiracy",
-        "Power Structure"
-      ],
-      "headings": [
-        "Politics & Conspiracy Domain Gateway",
-        "Disclosure & Spectacle Pack",
-        "How To Read This Domain",
-        "Curated Reading Paths",
-        "1. Beginner Path — Power Structure Without Hysteria",
-        "2. Power-User Path — Governance Stack & Compliance",
-        "3. High-Risk Caution Path — Events, Evidence, Controlled Opposition",
-        "4. Disclosure Path — Space, UAP, Ritual Tech",
-        "5. Social Control Path — Addiction, Sex, Reward Loops",
-        "6. Cross-Domain Bridge Path — Hidden History, Earth, Cosmology",
-        "Key Hubs",
-        "Flagship Articles",
-        "Related Gateways"
-      ],
-      "wikilinks": [
-        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-        "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
-        "Báo Cáo 2030",
-        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-        "Bức Tường Băng",
-        "Cabal",
-        "Climate Anxiety as Control - Fear-Based Compliance",
-        "crypto-finance/index",
-        "Dark MAGA",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
-        "Elite",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "index",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "Kiểm Soát Tâm Trí",
-        "Ma Trận",
-        "mental-models/index",
-        "MindGeek",
-        "MOC - Ancient Civilizations & Hidden History",
-        "MOC - Epistemology & Propaganda",
-        "MOC - Financial Sovereignty",
-        "MOC - Science Revisionism",
-        "Mudflood",
-        "Mô Hình Địa Tâm",
-        "Mỹ Là Ai Cập Tái Sinh",
-        "Nam Cực - Bí Mật Được Canh Giữ",
-        "Operation Paperclip",
-        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-        "S.E.X",
-        "science-tech/index",
-        "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
-        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
-        "Sự thật về ma túy",
-        "Sự Thật Về Vụ Sập Tháp Đôi WTC",
-        "Sự Thật Đen Tối Về Phim Khiêu Dâm",
-        "Tartaria",
-        "Thế Chiến - Chiến Dịch Dọn Dẹp",
-        "Trái Đất Phẳng",
-        "UAP Disclosure - Controlled Revelation",
-        "UBI Conditioning - The End of Work Ethic",
-        "Điều mà nền giáo dục và chính phủ không dạy bạn",
-        "Đề Văn 2026 Và Nghi Lễ Thay Ký Ức"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/index.md",
-        "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/S.E.X.md",
-        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-        "esoterica/Tartaria.md",
-        "index.md",
-        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-        "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
-        "mental-models/index.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "MOC - Ancient Civilizations & Hidden History.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Financial Sovereignty.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/Dark MAGA.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/MindGeek.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
-        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "politics-conspiracy/Operation Paperclip.md",
-        "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-        "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-        "politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm.md",
-        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-        "politics-conspiracy/Trái Đất Phẳng.md",
-        "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/index.md"
-      ],
-      "backlinks": [
-        "crypto-finance/index.md",
-        "index.md",
-        "mental-models/index.md",
-        "science-tech/index.md"
-      ],
-      "words": 1036,
-      "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
     },
     {
       "path": "MOC - Esoterica & Consciousness.md",
@@ -21945,6 +22053,28 @@
       "summary": "Người đọc không cần biết trước `MN`, `SN`, `AN` hay `DN`. Bài viết phải dẫn họ vào nội dung Kinh bằng tiếng Việt tự nhiên; mã Kinh và segment ID chỉ nằm ở lớp kiểm chứng yên tĩnh."
     },
     {
+      "path": "_docs/THERAVADA-VAULT-VOICE-STANDARD.md",
+      "title": "Chuẩn Giọng Vault Cho Series Theravāda",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Chuẩn Giọng Vault Cho Series Theravāda",
+        "Mục tiêu",
+        "Nhịp mặc định",
+        "Đặc điểm giọng",
+        "Mẫu chuyển giọng",
+        "Anti-patterns",
+        "Gate biên tập"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 634,
+      "summary": "Bài viết phải giữ độ chính xác của một hồ sơ nguồn nhưng đọc như một người hiểu vấn đề đang ngồi nói chuyện với người đọc. Người đọc cần thấy ngay câu hỏi này liên quan gì đến đời mình trước khi gặp taxonomy, caveat và apparatus kiểm chứng."
+    },
+    {
       "path": "_docs/THIN-PAGE-CLASSIFICATION.md",
       "title": "Thin Page Classification - redpill.wiki",
       "domain": "_docs",
@@ -22791,8 +22921,8 @@
       "headings": [
         "Kamma — Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ",
         "1. Đưa “Nghiệp” Trở Lại Hành Động Có Tác Ý",
-        "2. AN 6.63: Tác Ý, Nguồn Sinh, Đa Dạng Và Đoạn Diệt Của Nghiệp",
-        "3. MN 135: Quan Hệ Đạo Đức Không Phải Công Thức Một–Một",
+        "2. [Nghiệp là tác ý và có con đường đoạn diệt](https://suttacentral.net/an6.63): Tác Ý, Nguồn Sinh, Đa Dạng Và Đoạn Diệt Của Nghiệp",
+        "3. [Hành vi và những khác biệt trong quả](https://suttacentral.net/mn135): Quan Hệ Đạo Đức Không Phải Công Thức Một–Một",
         "4. Vì Sao Kamma Không Phải Định Mệnh Hay Nguyên Nhân Duy Nhất",
         "5. Không Đổ Lỗi Nạn Nhân: Hàng Rào Đạo Đức Bắt Buộc",
         "6. Thực Hành Với Tác Ý Và Quyền Hành Động Hiện Tại",
@@ -22808,8 +22938,8 @@
         "theravada/20 - Tái Sinh Mà Không Có Linh Hồn.md",
         "theravada/index.md"
       ],
-      "words": 3802,
-      "summary": "!hình tượng tự nhiên diễn giải 1. đưa “nghiệp” trở lại hành động có tác ý mà không giả làm bằng chứng lịch sử"
+      "words": 4514,
+      "summary": "Nghiệp thường bị kể như một hệ điểm thưởng–phạt vô hình: làm tốt được cộng, làm xấu bị trừ, gặp chuyện gì cũng có người hỏi “kiếp trước làm gì”. Cách kể ấy đơn giản, dễ nhớ và rất dễ dùng để phán xét nạn nhân."
     },
     {
       "path": "theravada/Từ Điển Pāli Cốt Lõi.md",
@@ -22950,11 +23080,11 @@
       20
     ],
     [
-      "psychology",
-      13
+      "symbolism",
+      14
     ],
     [
-      "symbolism",
+      "psychology",
       13
     ],
     [
@@ -22970,11 +23100,11 @@
       11
     ],
     [
-      "epistemology",
-      9
+      "predictive-programming",
+      10
     ],
     [
-      "predictive-programming",
+      "epistemology",
       9
     ],
     [
@@ -23732,6 +23862,7 @@
         "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
         "Gematria",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
         "Karma Disclosure - Truth Hidden In Plain Sight",
         "Khoa Học Xét Lại",
         "Kiểm Soát Tâm Trí",
@@ -23770,6 +23901,7 @@
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
@@ -23811,7 +23943,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 957,
+      "words": 989,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     "MOC - Esoterica & Consciousness.md": {
@@ -24621,6 +24753,28 @@
       "backlinks": [],
       "words": 582,
       "summary": "Người đọc không cần biết trước `MN`, `SN`, `AN` hay `DN`. Bài viết phải dẫn họ vào nội dung Kinh bằng tiếng Việt tự nhiên; mã Kinh và segment ID chỉ nằm ở lớp kiểm chứng yên tĩnh."
+    },
+    "_docs/THERAVADA-VAULT-VOICE-STANDARD.md": {
+      "path": "_docs/THERAVADA-VAULT-VOICE-STANDARD.md",
+      "title": "Chuẩn Giọng Vault Cho Series Theravāda",
+      "domain": "_docs",
+      "tags": [],
+      "aliases": [],
+      "headings": [
+        "Chuẩn Giọng Vault Cho Series Theravāda",
+        "Mục tiêu",
+        "Nhịp mặc định",
+        "Đặc điểm giọng",
+        "Mẫu chuyển giọng",
+        "Anti-patterns",
+        "Gate biên tập"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 634,
+      "summary": "Bài viết phải giữ độ chính xác của một hồ sơ nguồn nhưng đọc như một người hiểu vấn đề đang ngồi nói chuyện với người đọc. Người đọc cần thấy ngay câu hỏi này liên quan gì đến đời mình trước khi gặp taxonomy, caveat và apparatus kiểm chứng."
     },
     "_docs/THIN-PAGE-CLASSIFICATION.md": {
       "path": "_docs/THIN-PAGE-CLASSIFICATION.md",
@@ -27620,6 +27774,7 @@
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Elite.md",
+        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md"
@@ -29781,6 +29936,7 @@
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Elite.md",
+        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
@@ -33415,6 +33571,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "August 24, 2026",
         "August 19, 2026",
         "August 18, 2026",
         "August 17, 2026",
@@ -33495,6 +33652,7 @@
         "health/index",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+        "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
         "Individuation",
         "Karma Disclosure - Truth Hidden In Plain Sight",
         "Ketogenic Diet",
@@ -33754,6 +33912,7 @@
         "politics-conspiracy/Báo Cáo 2030.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Elite.md",
+        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/MindGeek.md",
@@ -33807,7 +33966,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 6452,
+      "words": 6530,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -36925,6 +37084,7 @@
         "Cách Đọc Red Pill Wiki",
         "Elite",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
         "Karma Disclosure - Truth Hidden In Plain Sight",
         "Khoa Học Xét Lại",
         "Kiểm Soát Tâm Trí",
@@ -36946,6 +37106,7 @@
         "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Elite.md",
+        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
@@ -36960,6 +37121,7 @@
         "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
         "index.md",
         "MOC - Epistemology & Propaganda.md",
+        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
         "politics-conspiracy/Operation Paperclip.md",
@@ -36967,7 +37129,7 @@
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 5638,
+      "words": 5673,
       "summary": "**Ngày 12/6/2026 không chỉ là ngày SpaceX bước lên Nasdaq. Đó là một điểm hội tụ: UFO disclosure, Spielberg trở lại với người ngoài hành tinh, Trump đẩy narrative alien vào mainstream, Hollywood mở nghi lễ bằng hình ảnh, còn Elon Musk đưa obelisk hiện đại của…"
     },
     "politics-conspiracy/Báo Cáo 2030.md": {
@@ -37447,6 +37609,61 @@
       "words": 1561,
       "summary": "**Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reali…"
     },
+    "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md": {
+      "path": "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
+      "title": "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
+      "domain": "politics-conspiracy",
+      "tags": [
+        "avengers-doomsday",
+        "black-eye",
+        "doctor-doom",
+        "iron-man",
+        "marvel",
+        "predictive-programming",
+        "symbolism"
+      ],
+      "aliases": [
+        "Doom là hóa đơn của Endgame",
+        "I Am Iron Man I Am Doom",
+        "Tony Stark và Doctor Doom"
+      ],
+      "headings": [
+        "I Am Iron Man, I Am Doom — Cái Giá Của Người Hùng",
+        "1. Tony Không Phải Người Duy Nhất Chết — Nhưng Anh Là Người Phải Khép Vòng",
+        "2. Endgame Không Chỉ Cứu Thế Giới — Nó Chọn Phiên Bản Thế Giới Được Tồn Tại",
+        "3. Theo Bản Leak, Steve Rogers Là Bằng Chứng Sống Cho Cáo Buộc Của Doom",
+        "4. “I Am Iron Man” Và “I’m Doom” — Cùng Một Thiên Tài, Hai Quan Hệ Với Quyền Lực",
+        "5. Cùng Khuôn Mặt RDJ Là Một Cái Bẫy Dành Cho Khán Giả",
+        "6. Mắt Bầm Của Robert Downey Jr.: Fact, Tin Đồn Và Biểu Tượng",
+        "7. Doom Là Hóa Đơn Chưa Thanh Toán Của Endgame",
+        "Kỷ Luật Đọc",
+        "Nguồn",
+        "Đọc Tiếp"
+      ],
+      "wikilinks": [
+        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "Mỹ Là Ai Cập Tái Sinh",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+        "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "MOC - Epistemology & Propaganda.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/index.md"
+      ],
+      "words": 2943,
+      "summary": "**Tony Stark chết để cứu một thực tại. Doctor Doom có thể xuất hiện để hỏi thực tại ấy đã được cứu bằng cuộc đời của ai.**"
+    },
     "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md": {
       "path": "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
       "title": "Khế Ước Bí Mật Rockefeller (The Secret Covenant)",
@@ -37865,6 +38082,7 @@
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md"
       ],
@@ -38126,6 +38344,7 @@
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Science Revisionism.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md"
       ],
@@ -38638,6 +38857,7 @@
         "Elite",
         "Gen Z và CBDC - Programmable Money Psychology",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
         "index",
         "Karma Disclosure - Truth Hidden In Plain Sight",
         "Kiểm Soát Tâm Trí",
@@ -38698,6 +38918,7 @@
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/Dark MAGA.md",
         "politics-conspiracy/Elite.md",
+        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "politics-conspiracy/MindGeek.md",
         "politics-conspiracy/Mudflood.md",
@@ -38722,7 +38943,7 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 1036,
+      "words": 1071,
       "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
     },
     "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md": {
@@ -40166,8 +40387,8 @@
         "theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md",
         "theravada/index.md"
       ],
-      "words": 4564,
-      "summary": "Khi hỏi “Đức Phật là ai?”, ta thường gộp hai câu hỏi khác loại. Câu thứ nhất thuộc lịch sử: có một con người tên Gotama từng sống, từ bỏ đời gia chủ, giảng dạy và lập cộng đồng ở miền bắc tiểu lục địa Ấn Độ hay không? Câu thứ hai thuộc đời sống tôn giáo: các…"
+      "words": 4890,
+      "summary": "Nếu bỏ hết tượng vàng, phép màu và lớp sương huyền thoại, ta còn gặp được ai? Bài này bắt đầu từ một con người đã già, bệnh, chứng kiến mất mát và đặt một câu hỏi rất thực: có cách nào sống mà không bị sinh–già–bệnh–chết kéo đi trong vô thức không?"
     },
     "theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md": {
       "path": "theravada/02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm.md",
@@ -40203,8 +40424,8 @@
         "theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp.md",
         "theravada/index.md"
       ],
-      "words": 4200,
-      "summary": "**Theravāda — đọc gần đúng “Thê-ra-va-đa” — giáo pháp hay đường lối của các Trưởng lão** là tên của một truyền thống Phật giáo sống. `Thera` nghĩa là trưởng lão; `vāda` trong tên gọi có thể mang nghĩa lời dạy, chủ trương hoặc truyền thống. Dịch gọn là “Giáo p…"
+      "words": 4537,
+      "summary": "Nói “tôi theo Theravāda” nghe có vẻ rõ, nhưng câu ấy có thể chứa ba thứ khác nhau: một truyền thống lịch sử, một hệ Kinh–Luật–Vi Diệu Pháp, và một identity để mình đứng về một phe. Nếu không tách ba lớp này, người học rất dễ bảo vệ nhãn nhiều hơn bảo vệ sự th…"
     },
     "theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp.md": {
       "path": "theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp.md",
@@ -40238,8 +40459,8 @@
         "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md",
         "theravada/index.md"
       ],
-      "words": 4216,
-      "summary": "**Tipiṭaka — đọc gần đúng “Ti-pi-ta-ka” — Tam Tạng, ba giỏ hay ba kho văn bản** là kinh điển Pāli của Theravāda. Ba tạng là **Vinaya — “Vi-na-ya” — Luật, kỷ luật tu viện**; **Sutta — “Sút-ta” — Kinh, bài giảng**; và **Abhidhamma — “A-bi-đăm-ma” — Vi Diệu Pháp…"
+      "words": 4525,
+      "summary": "Một bộ Kinh không tự đóng thành sách rồi rơi xuống từ quá khứ. Có người nhớ, tụng, đối chiếu, tranh luận, phân loại và truyền lại. Nhìn quá trình ấy không làm Kinh mất thiêng; nó làm mình bớt ngây thơ về cách ký ức tập thể trở thành canon."
     },
     "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md": {
       "path": "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md",
@@ -40257,6 +40478,10 @@
         "3. [Ví dụ con rắn và chiếc bè](https://suttacentral.net/mn22): Nắm Con Rắn Đúng Chỗ Và Không Vác Chiếc Bè",
         "4. [Cách kiểm chứng một điều là thật](https://suttacentral.net/mn95): Giữ Một Mệnh Đề Là Thật Chưa Phải Biết Nó Là Thật",
         "5. [Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65): Không Tin Mù Quáng Cũng Không Phong Cảm Giác Làm Giáo Chủ",
+        "Tự Mình Là Hòn Đảo, Nhưng Không Lấy Cái Tôi Làm Chân Lý",
+        "Một Lời Dạy Có Dẫn Về Ít Tham Và Biết Đủ Không?",
+        "Nói Về Pháp Hoặc Giữ Im Lặng Cao Quý",
+        "Một Lời Gán Cho Đức Phật Vẫn Phải Được Đối Chiếu",
         "6. Một Quy Trình Đọc Và Kiểm Chứng Có Thể Lặp Lại",
         "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn"
       ],
@@ -40274,8 +40499,8 @@
         "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md",
         "theravada/index.md"
       ],
-      "words": 4490,
-      "summary": "Một câu Kinh có thể bị làm phẳng theo hai cách đối nghịch. Cách thứ nhất là coi mọi dòng trong Tam Tạng như một mệnh đề không cần văn cảnh: đã là “lời Phật” thì chỉ còn việc chấp nhận. Cách thứ hai là lấy sở thích cá nhân làm tòa án cuối cùng: câu nào hợp cảm…"
+      "words": 6151,
+      "summary": "Đọc Kinh rất dễ biến thành hai cuộc thi. Một bên thi xem ai tin mạnh hơn. Bên kia thi xem ai hoài nghi sắc hơn. Cả hai có thể đọc hàng nghìn trang mà vẫn chỉ đang bảo vệ identity của mình."
     },
     "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md": {
       "path": "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md",
@@ -40313,8 +40538,8 @@
         "theravada/10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa.md",
         "theravada/index.md"
       ],
-      "words": 3763,
-      "summary": "Tứ Thánh Đế thường được nhớ bằng bốn từ: khổ, tập, diệt, đạo. Cách ghi ấy hữu ích nhưng dễ biến một cấu trúc thực hành thành bảng tín điều. Bốn sự thật và con đường tránh hai cực — Tương Ưng Bộ Kinh không chỉ nêu bốn nội dung. Với mỗi nội dung, bài kinh gắn m…"
+      "words": 4073,
+      "summary": "Bốn Thánh Đế thường bị học như bốn dòng để trả bài. Nhưng khi đời thật đổ xuống — mất việc, bệnh, phản bội, một đêm không ngủ vì sợ — bốn dòng ấy hoặc trở thành công cụ chẩn đoán, hoặc lộ ra rằng mình chỉ thuộc chữ."
     },
     "theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn.md": {
       "path": "theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn.md",
@@ -40347,8 +40572,8 @@
         "theravada/07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ.md",
         "theravada/index.md"
       ],
-      "words": 3920,
-      "summary": "!một vòng trải nghiệm gồm đau rõ rệt, vui đang đổi và bàn tay bám vào năm dòng kinh nghiệm"
+      "words": 4572,
+      "summary": "Không phải lúc nào dukkha cũng trông như bi kịch. Có khi nó là một ngày rất vui nhưng bạn bắt đầu sợ ngày ấy kết thúc. Có khi nó là lời khen khiến bạn phải giữ mãi hình ảnh vừa được khen. Có khi thân không đau, nhưng tâm đã âm thầm siết tay quanh một thứ đang…"
     },
     "theravada/07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ.md": {
       "path": "theravada/07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ.md",
@@ -40380,8 +40605,8 @@
         "index.md",
         "theravada/index.md"
       ],
-      "words": 3799,
-      "summary": "!thọ dẫn đến cơn khát, bàn tay nắm và một căn tính đang thành hình với các mũi tên có điều kiện"
+      "words": 4466,
+      "summary": "Một cảm giác dễ chịu xuất hiện. Chưa có gì sai. Rồi tâm nói: thêm nữa. Giữ nó lại. Đừng để mất. Chỉ vài nhịp sau, một cảm thọ đã trở thành cơn khát, một thứ “của tôi”, rồi một phiên bản “tôi” phải bảo vệ."
     },
     "theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống.md": {
       "path": "theravada/08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống.md",
@@ -40398,7 +40623,7 @@
         "2. Tuệ: Chánh Kiến Và Chánh Ý Hướng",
         "3. Giới: Chánh Ngữ, Chánh Nghiệp Và Chánh Mạng",
         "4. Đào Luyện Tâm: Chánh Tinh Tấn, Chánh Niệm Và Chánh Định",
-        "5. MN 117: Chánh Kiến Đi Trước, Nhưng Không Đi Một Mình",
+        "5. [Chánh kiến và cấu trúc con đường](https://suttacentral.net/mn117): Chánh Kiến Đi Trước, Nhưng Không Đi Một Mình",
         "6. Thực Hành Hệ Thống: Chọn Một Nút Và Theo Các Quan Hệ",
         "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn"
       ],
@@ -40415,8 +40640,8 @@
         "theravada/09 - Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự.md",
         "theravada/index.md"
       ],
-      "words": 3482,
-      "summary": "**Ariya aṭṭhaṅgika magga — đọc gần đúng “a-ri-ya át-thăng-ghi-ca mắc-ga” — con đường cao quý có tám chi** là đế thứ tư trong Tứ Thánh Đế. Từ *aṅga* chỉ chi, phần hay yếu tố. Hình ảnh thích hợp hơn một danh sách việc cần hoàn tất là một hệ thống đào luyện: các…"
+      "words": 4129,
+      "summary": "Bát Chánh Đạo hay bị biến thành checklist tám ô. Nhưng đời sống không vận hành như tám app tách biệt: lời nói làm tâm động, sinh kế tạo điều kiện cho định, cách nhìn quyết định mình đang tinh tấn về hướng nào."
     },
     "theravada/09 - Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự.md": {
       "path": "theravada/09 - Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự.md",
@@ -40431,10 +40656,13 @@
       "headings": [
         "Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự",
         "1. Có Trình Tự, Nhưng Không Có Dây Chuyền Máy Móc",
-        "2. DN 2: Quả Của Đời Sa-Môn Và Kiến Trúc Huấn Luyện",
-        "3. MN 39 Và MN 107: Huấn Luyện Như Một Nghề Được Học",
+        "2. [Quả của đời sống xuất gia](https://suttacentral.net/dn2): Quả Của Đời Sa-Môn Và Kiến Trúc Huấn Luyện",
+        "3. [Lộ trình tu tập tuần tự ở Assapura](https://suttacentral.net/mn39) Và [Huấn luyện tuần tự và người chỉ đường](https://suttacentral.net/mn107): Huấn Luyện Như Một Nghề Được Học",
         "4. Giới Là Điều Kiện Tự Do, Không Chỉ Là Cấm Đoán",
         "5. Định Và Tuệ: Ổn Định Để Thấy, Thấy Để Buông",
+        "Tự Lực Không Có Nghĩa Là Đi Một Mình",
+        "Không Phóng Dật Là Làm Phần Việc Cần Làm Khi Còn Thời Gian",
+        "Hòa Hợp Không Phải Xóa Mọi Khác Biệt",
         "6. Thiết Kế Một Lộ Trình Có Thể Sống Được",
         "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn"
       ],
@@ -40449,8 +40677,8 @@
         "index.md",
         "theravada/index.md"
       ],
-      "words": 3681,
-      "summary": "!một con đường giới định tuệ có mũi tên tiến và vòng phản hồi, không phải thang khóa cứng"
+      "words": 5286,
+      "summary": "Nhiều người muốn một lộ trình tu giống kế hoạch gym: tuần này giới, tháng sau định, đủ giờ thì mở khóa tuệ. Nhưng tâm không phải dây chuyền sản xuất, và con đường cũng không thưởng huy hiệu cho người hoàn thành từng module."
     },
     "theravada/10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa.md": {
       "path": "theravada/10 - Trung Đạo - Không Phải Thỏa Hiệp Ở Giữa.md",
@@ -40464,8 +40692,8 @@
       "headings": [
         "Trung Đạo — Không Phải Thỏa Hiệp Ở Giữa",
         "1. “Ở Giữa” Cái Gì?",
-        "2. SN 56.11: Không Nuôi Dục, Không Hành Xác",
-        "3. SN 12.15: Không Rơi Vào “Tất Cả Có” Hay “Tất Cả Không”",
+        "2. [Bốn sự thật và con đường tránh hai cực](https://suttacentral.net/sn56.11): Không Nuôi Dục, Không Hành Xác",
+        "3. [Không mắc kẹt giữa có và không](https://suttacentral.net/sn12.15): Không Rơi Vào “Tất Cả Có” Hay “Tất Cả Không”",
         "4. Hai Trung Đạo Gặp Nhau Ở Chánh Kiến Và Con Đường",
         "5. Trung Đạo Không Phải Trung Dung Chính Trị Hay Tương Đối Luận",
         "6. Bản Đồ Thực Hành: Xác Định Cực, Điều Kiện Và Hướng Đi",
@@ -40483,8 +40711,8 @@
         "theravada/11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào.md",
         "theravada/index.md"
       ],
-      "words": 3466,
-      "summary": "!hai cửa sổ một bên hưởng dục và ép xác, một bên tồn tại và không tồn tại, cùng mở vào duyên khởi"
+      "words": 4142,
+      "summary": "“Trung đạo” rất dễ bị hiểu thành đứng giữa cho an toàn: ai cũng đúng một chút, đừng cực đoan, chọn phương án vừa vừa. Nhưng Đức Phật không dạy trung bình cộng giữa hai sai lầm."
     },
     "theravada/11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào.md": {
       "path": "theravada/11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào.md",
@@ -40519,8 +40747,8 @@
         "theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu.md",
         "theravada/index.md"
       ],
-      "words": 3658,
-      "summary": "!năm dòng sắc thọ tưởng hành thức giao nhau quanh một đời sống nhưng không đóng thành lõi bất biến"
+      "words": 4254,
+      "summary": "Bạn vừa bị chê và trong vài giây đã có cả một “tôi” bị xúc phạm. Nhưng nhìn kỹ: có âm thanh, cảm giác khó chịu, nhận dạng, câu chuyện phản công và dòng biết đang đổi. “Tôi” xuất hiện rất nhanh, nên ta tưởng nó đã đứng đó từ đầu."
     },
     "theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu.md": {
       "path": "theravada/12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu.md",
@@ -40555,8 +40783,8 @@
         "theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu.md",
         "theravada/index.md"
       ],
-      "words": 3357,
-      "summary": "!sáu cửa mắt tai mũi lưỡi thân ý đối diện sáu trường đối tượng trong một mạng quan hệ"
+      "words": 3991,
+      "summary": "Thế giới bạn đang sống không chỉ nằm “ngoài kia”. Nó xuất hiện khi mắt gặp hình, tai gặp tiếng, ý gặp một ký ức — rồi xúc, thọ và phản ứng nối vào. Hai người đứng cùng một phòng có thể đang sống trong hai thế giới rất khác."
     },
     "theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu.md": {
       "path": "theravada/13 - Xúc → Thọ → Ái - Khoảnh Khắc Vòng Lặp Bắt Đầu.md",
@@ -40591,8 +40819,8 @@
         "theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn.md",
         "theravada/index.md"
       ],
-      "words": 3074,
-      "summary": "!căn đối tượng thức hội thành xúc, thọ mang ba sắc độ và ái vươn tay nắm nhưng giữa các mắt có không gian quan sát"
+      "words": 3651,
+      "summary": "Một notification sáng lên. Trước khi bạn kịp nghĩ, thân đã hơi căng, thọ đã nghiêng, tay đã muốn chạm. Vòng lặp thường không bắt đầu ở quyết định lớn; nó bắt đầu trong vài phần giây rất nhỏ mà mình gọi chung là “tôi muốn”."
     },
     "theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn.md": {
       "path": "theravada/14 - Viññāṇa - Thức Không Phải Linh Hồn.md",
@@ -40607,7 +40835,7 @@
         "Viññāṇa — Thức Không Phải Linh Hồn",
         "1. Sai Lầm Của Sāti Và Câu Hỏi Về Cái Tiếp Tục",
         "2. Sáu Thức Được Gọi Tên Theo Điều Kiện",
-        "3. Thức Và Danh–Sắc Nương Nhau Trong DN 15",
+        "3. Thức Và Danh–Sắc Nương Nhau Trong [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15)",
         "4. Tính Tiếp Nối Không Đòi Một Vật Bất Biến",
         "5. Không Phải Kho Chứa, Ý Thức Vũ Trụ Hay Người Biết Thuần Túy",
         "6. Thực Hành Nhận Biết Thức Theo Cửa Và Duyên",
@@ -40627,8 +40855,8 @@
         "theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì.md",
         "theravada/index.md"
       ],
-      "words": 3194,
-      "summary": "!một dòng thức tưởng như sợi dây bất biến bị tách thành sáu sự kiện tùy căn và đối tượng"
+      "words": 3853,
+      "summary": "Nếu thức là linh hồn, nó phải là một người quan sát đứng yên phía sau mọi kinh nghiệm. Nhưng cái biết bằng mắt không phải cái biết bằng tai; thức sinh khi có căn và đối tượng tương ứng, rồi đổi theo điều kiện."
     },
     "theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì.md": {
       "path": "theravada/15 - Vô Ngã - Đức Phật Phủ Định Điều Gì.md",
@@ -40663,8 +40891,8 @@
         "theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng.md",
         "theravada/index.md"
       ],
-      "words": 3351,
-      "summary": "!năm uẩn đi qua ba câu của tôi tôi tự ngã của tôi, không rơi vào hố hư vô hay ngai chân ngã"
+      "words": 4026,
+      "summary": "Nghe “vô ngã”, nhiều người lập tức tưởng Phật giáo đang nói mình không tồn tại, không có trách nhiệm hoặc chỉ là ảo ảnh. Rồi một số khác vội lấp khoảng trống bằng “chân ngã” bí mật. Cả hai đều chạy nhanh hơn câu hỏi của Kinh."
     },
     "theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng.md": {
       "path": "theravada/16 - Bản Sắc Được Kiến Tạo - Tôi Sinh Lại Trong Từng Phản Ứng.md",
@@ -40680,7 +40908,7 @@
         "1. Từ “Tôi Là” Đến Một Cấu Trúc Có Thể Quan Sát",
         "2. Hai Mươi Cách Dựng Tự Ngã Quanh Năm Uẩn",
         "3. Khi Uẩn Đổi, Căn Tính Bị Thương Như Thế Nào",
-        "4. Nguồn Sinh Và Đoạn Diệt Của Sakkāya Trong MN 44",
+        "4. Nguồn Sinh Và Đoạn Diệt Của Sakkāya Trong [Hỏi đáp về thân kiến và thiền](https://suttacentral.net/mn44)",
         "5. So Sánh Hiện Đại: cái tôi tự sự Chỉ Là Cộng Hưởng",
         "6. Thực Hành Bản Đồ Bản Sắc Trong Một Phản Ứng",
         "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn"
@@ -40700,8 +40928,8 @@
         "theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt.md",
         "theravada/index.md"
       ],
-      "words": 3168,
-      "summary": "!nhiều vòng đồng nhất sở hữu chứa và nằm trong quấn quanh năm uẩn, không có lõi người tí hon"
+      "words": 3841,
+      "summary": "Một lời chê có thể sinh ra “người bị coi thường”. Một lời khen sinh ra “người phải giữ hình ảnh”. Bản sắc không chỉ là thứ mình có; nó được lắp lại trong từng phản ứng, rồi quay về bảo vệ chính câu chuyện vừa tạo."
     },
     "theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt.md": {
       "path": "theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt.md",
@@ -40718,7 +40946,7 @@
         "2. Công Thức Điều Kiện: Chính Xác Hơn “Mọi Thứ Liên Quan Với Nhau”",
         "3. Chiều Sinh Khởi: Mười Hai Chi Là Bản Đồ Của Dukkha",
         "4. Chiều Đoạn Diệt: Không Phải Phá Hủy Mà Là Không Còn Nuôi Điều Kiện",
-        "5. SN 12.23: Một Chuỗi Duyên Hỗ Trợ Đi Từ Khổ Đến Giải Thoát",
+        "5. [Từ khổ đau đến giải thoát theo chuỗi hỗ trợ](https://suttacentral.net/sn12.23): Một Chuỗi Duyên Hỗ Trợ Đi Từ Khổ Đến Giải Thoát",
         "6. Thực Hành Hai Chiều Trong Một Tình Huống Có Thật",
         "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
       ],
@@ -40737,8 +40965,8 @@
         "theravada/18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc.md",
         "theravada/index.md"
       ],
-      "words": 3871,
-      "summary": "!hình tượng tự nhiên diễn giải 1. không chỉ hỏi “khổ từ đâu đến?” mà còn “khổ dừng thế nào?” mà không giả làm bằng chứng lịch sử"
+      "words": 4541,
+      "summary": "Duyên khởi thường được vẽ như mười hai ô nối bằng mũi tên. Nhìn lâu, nó dễ biến thành sơ đồ của một cỗ máy xa lạ. Nhưng thử nhìn một cơn giận: điều kiện này có nên điều kia có; khi điều kiện đổi, cả vòng phản ứng đổi."
     },
     "theravada/18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc.md": {
       "path": "theravada/18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc.md",
@@ -40773,8 +41001,8 @@
         "theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt.md",
         "theravada/index.md"
       ],
-      "words": 4256,
-      "summary": "!hình tượng tự nhiên diễn giải 1. một danh sách, nhiều phạm vi đọc mà không giả làm bằng chứng lịch sử"
+      "words": 4575,
+      "summary": "Mười hai chi duyên khởi diễn ra trong một sát-na, một đời hay ba đời? Câu hỏi nghe như phải chọn một đáp án duy nhất. Nhưng nhiều cuộc tranh luận chỉ bắt đầu sau khi người ta quên hỏi mô hình đang giải thích tầng nào của nguồn."
     },
     "theravada/19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ.md": {
       "path": "theravada/19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ.md",
@@ -40789,8 +41017,8 @@
       "headings": [
         "Kamma — Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ",
         "1. Đưa “Nghiệp” Trở Lại Hành Động Có Tác Ý",
-        "2. AN 6.63: Tác Ý, Nguồn Sinh, Đa Dạng Và Đoạn Diệt Của Nghiệp",
-        "3. MN 135: Quan Hệ Đạo Đức Không Phải Công Thức Một–Một",
+        "2. [Nghiệp là tác ý và có con đường đoạn diệt](https://suttacentral.net/an6.63): Tác Ý, Nguồn Sinh, Đa Dạng Và Đoạn Diệt Của Nghiệp",
+        "3. [Hành vi và những khác biệt trong quả](https://suttacentral.net/mn135): Quan Hệ Đạo Đức Không Phải Công Thức Một–Một",
         "4. Vì Sao Kamma Không Phải Định Mệnh Hay Nguyên Nhân Duy Nhất",
         "5. Không Đổ Lỗi Nạn Nhân: Hàng Rào Đạo Đức Bắt Buộc",
         "6. Thực Hành Với Tác Ý Và Quyền Hành Động Hiện Tại",
@@ -40806,8 +41034,8 @@
         "theravada/20 - Tái Sinh Mà Không Có Linh Hồn.md",
         "theravada/index.md"
       ],
-      "words": 3802,
-      "summary": "!hình tượng tự nhiên diễn giải 1. đưa “nghiệp” trở lại hành động có tác ý mà không giả làm bằng chứng lịch sử"
+      "words": 4514,
+      "summary": "Nghiệp thường bị kể như một hệ điểm thưởng–phạt vô hình: làm tốt được cộng, làm xấu bị trừ, gặp chuyện gì cũng có người hỏi “kiếp trước làm gì”. Cách kể ấy đơn giản, dễ nhớ và rất dễ dùng để phán xét nạn nhân."
     },
     "theravada/20 - Tái Sinh Mà Không Có Linh Hồn.md": {
       "path": "theravada/20 - Tái Sinh Mà Không Có Linh Hồn.md",
@@ -40821,9 +41049,9 @@
       "headings": [
         "Tái Sinh Mà Không Có Linh Hồn",
         "1. Câu Hỏi Sai: “Nếu Không Có Tôi, Ai Đi Tái Sinh?”",
-        "2. MN 38: Không Phải Cùng Một Thức Lang Thang",
-        "3. SN 12.2: Từ Hữu Đến Sinh, Không Có Mắt Xích Linh Hồn",
-        "4. DN 15: Thức Và Danh-Sắc Nương Nhau",
+        "2. [Thức sinh theo điều kiện](https://suttacentral.net/mn38): Không Phải Cùng Một Thức Lang Thang",
+        "3. [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2): Từ Hữu Đến Sinh, Không Có Mắt Xích Linh Hồn",
+        "4. [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15): Thức Và Danh-Sắc Nương Nhau",
         "5. Paṭisandhi: Hệ Thống Hóa Hậu Kỳ, Không Phải Từ Khóa Của Ba Đoạn kinh nền",
         "6. Thực Hành Trách Nhiệm Mà Không Dựng Một Cái Tôi Vĩnh Cửu",
         "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
@@ -40843,8 +41071,8 @@
         "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md",
         "theravada/index.md"
       ],
-      "words": 3836,
-      "summary": "!câu hỏi về tiếp nối nhân quả không có người mang"
+      "words": 4576,
+      "summary": "Nếu không có linh hồn bất biến, cái gì tái sinh? Nếu hoàn toàn không có liên tục, ai nhận quả? Hai câu hỏi kéo người đọc về hai cực quen thuộc: một vật thể đi xuyên các đời, hoặc cái chết xóa sạch mọi quan hệ nhân quả."
     },
     "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md": {
       "path": "theravada/21 - Những Gì Kinh Pāli Nói Về Cái Chết.md",
@@ -40858,9 +41086,9 @@
       "headings": [
         "Những Gì Kinh Pāli Nói Về Cái Chết",
         "1. Bốn Lớp Thường Bị Trộn Khi Nói Về Chết",
-        "2. DN 16: Những Ngày Cuối Và Lời Nhắc Không Phóng Dật",
-        "3. MN 60: Một Lựa Chọn Có Trách Nhiệm Trước Điều Chưa Tự Thấy",
-        "4. MN 130: Các Sứ Giả Và Sự Khẩn Thiết Đạo Đức",
+        "2. [Những ngày cuối của Đức Phật](https://suttacentral.net/dn16): Những Ngày Cuối Và Lời Nhắc Không Phóng Dật",
+        "3. [Lựa chọn đạo đức trước điều chưa biết](https://suttacentral.net/mn60): Một Lựa Chọn Có Trách Nhiệm Trước Điều Chưa Tự Thấy",
+        "4. [Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130): Các Sứ Giả Và Sự Khẩn Thiết Đạo Đức",
         "5. Tang Lễ, Hồi Hướng Và Hệ Thống Theravāda Hậu Kỳ",
         "6. Bardo Và NDE: So Sánh, Không Gắn Nhãn Kinh Pāli",
         "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
@@ -40879,8 +41107,8 @@
         "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md",
         "theravada/index.md"
       ],
-      "words": 3837,
-      "summary": "!bốn lớp Kinh Pāli tang lễ chú giải và trải nghiệm hiện đại được phân ranh"
+      "words": 4585,
+      "summary": "Ta có thể đọc hàng chục bài về cái chết mà vẫn sống như thể nó chỉ xảy ra cho người khác. Cái chết trở thành topic, còn lịch hẹn, lời xin lỗi và bàn tay cha mẹ già vẫn bị đẩy sang tuần sau."
     },
     "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md": {
       "path": "theravada/22 - Luân Hồi - Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ.md",
@@ -40895,8 +41123,8 @@
       "headings": [
         "Luân Hồi — Không Phải Trường Học Linh Hồn Hay Nhà Tù Vũ Trụ",
         "1. Saṃsāra Là Sự Lang Thang, Không Phải Tên Một Địa Điểm",
-        "2. SN 15.1: Không Thể Đếm Hết Cỏ, Gỗ, Cành Và Lá",
-        "3. SN 15.3: Biển Nước Mắt Và Trọng Lượng Của Sự Lặp Lại",
+        "2. [Cỏ cây không đủ đếm số đời luân hồi](https://suttacentral.net/sn15.1): Không Thể Đếm Hết Cỏ, Gỗ, Cành Và Lá",
+        "3. [Nước mắt trong luân hồi nhiều hơn biển cả](https://suttacentral.net/sn15.3): Biển Nước Mắt Và Trọng Lượng Của Sự Lặp Lại",
         "4. Vì Sao “Trường Học Linh Hồn” Chỉ Là Lăng Kính So Sánh",
         "5. Vì Sao “Nhà Tù Vũ Trụ” Không Phải Giáo Lý Pāli",
         "6. Lối Ra Tập Trung Vào Điều Kiện, Không Vào Cai Ngục Bí Mật",
@@ -40919,8 +41147,8 @@
         "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
         "theravada/index.md"
       ],
-      "words": 3717,
-      "summary": "!dòng lang thang có điều kiện không có bản đồ của một nhà tù không gian"
+      "words": 4416,
+      "summary": "Luân hồi rất dễ bị kể thành trường học nơi linh hồn lên lớp, hoặc nhà tù vũ trụ nơi một ai đó giam mình. Cả hai câu chuyện đều đặt một nhân vật cố định ở giữa rồi cho nhân vật ấy đi qua nhiều phòng."
     },
     "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md": {
       "path": "theravada/23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh.md",
@@ -40938,6 +41166,11 @@
         "3. Giới Thứ Ba: Dục, Đồng Thuận Và Trách Nhiệm Quan Hệ",
         "4. Giới Thứ Tư Và Thứ Năm: Sự Thật, Chất Say Và Năng Lực Không Buông Lung",
         "5. Năm Giới Tại Gia Không Phải Luật Tạng Xuất Gia",
+        "Đạo Đức Cư Sĩ Bắt Đầu Ngay Trong Căn Nhà",
+        "Hết Oán Không Có Nghĩa Là Giả Vờ Chưa Từng Bị Hại",
+        "Bố Thí Không Phải Giao Dịch Mua Phước",
+        "Biết Ơn Không Phải Món Nợ Cho Phép Người Khác Sở Hữu Mình",
+        "Đường Cư Sĩ Có Công Việc, Tài Sản Và Cân Bằng Thu–Chi",
         "6. Một Cách Thực Hành Không Hại, Có Ranh Giới Và Có Khả Năng Sửa Sai",
         "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
       ],
@@ -40955,8 +41188,8 @@
         "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
         "theravada/index.md"
       ],
-      "words": 4061,
-      "summary": "!hình tượng tự nhiên diễn giải 1. năm sự học, không phải năm mệnh lệnh từ một đấng phán xét không giả làm bằng chứng lịch sử hoặc y khoa"
+      "words": 6148,
+      "summary": "Năm giới không cần một vị thần đứng trên trời để trở thành nghiêm túc. Chỉ cần nhìn một lời nói dối làm quan hệ co lại, một cơn say lấy mất khả năng chọn, một hành vi tình dục thiếu đồng thuận để lại vết thương, ta đã thấy đạo đức nằm trong mạng hậu quả."
     },
     "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md": {
       "path": "theravada/24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm.md",
@@ -40991,8 +41224,8 @@
         "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
         "theravada/index.md"
       ],
-      "words": 3669,
-      "summary": "!hình tượng tự nhiên diễn giải 1. satipaṭṭhāna là bốn phạm vi quán sát có mục đích giải thoát không giả làm bằng chứng lịch sử hoặc y khoa"
+      "words": 4229,
+      "summary": "Chánh niệm bây giờ có thể được bán như một công cụ tập trung: thở để làm việc tốt hơn, bình tĩnh để chịu áp lực giỏi hơn. Nhưng Tứ niệm xứ không được dựng để biến mình thành nhân viên tối ưu trong một đời sống vẫn chạy bằng tham và sợ."
     },
     "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md": {
       "path": "theravada/25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở.md",
@@ -41005,7 +41238,7 @@
       ],
       "headings": [
         "Ānāpānasati — Toàn Bộ Con Đường Trong Một Hơi Thở",
-        "1. MN 118 Dạy Biết Hơi Thở Trước Khi Dạy Mười Sáu Bước",
+        "1. [Mười sáu bước niệm hơi thở](https://suttacentral.net/mn118) Dạy Biết Hơi Thở Trước Khi Dạy Mười Sáu Bước",
         "2. Nhóm Một — Bốn Bước Về Thân Và Cụm “Làm Lắng Dịu Thân Hành”",
         "3. Nhóm Hai — Hỷ, Lạc, Tâm Hành Và Sự Lắng Dịu Không Đồng Nghĩa Săn Khoái Cảm",
         "4. Nhóm Ba — Cảm Nhận, Làm Sáng, Định Tĩnh Và Giải Thoát Tâm",
@@ -41027,8 +41260,8 @@
         "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
         "theravada/index.md"
       ],
-      "words": 3360,
-      "summary": "!hình tượng tự nhiên diễn giải 1. mn 118 dạy biết hơi thở trước khi dạy mười sáu bước không giả làm bằng chứng lịch sử hoặc y khoa"
+      "words": 3917,
+      "summary": "Hơi thở luôn ở đó, nên ta dễ coi nó là kỹ thuật đơn giản nhất. Nhưng chỉ cần ngồi yên vài phút, mình sẽ thấy một việc tưởng tự nhiên lại bị tham kiểm soát, sân chen vào và tâm liên tục muốn một trải nghiệm khác."
     },
     "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md": {
       "path": "theravada/26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi.md",
@@ -41063,8 +41296,8 @@
         "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
         "theravada/index.md"
       ],
-      "words": 3346,
-      "summary": "!hình tượng tự nhiên diễn giải 1. hai phẩm chất của một con đường, không phải hai giáo phái không giả làm bằng chứng lịch sử hoặc y khoa"
+      "words": 3932,
+      "summary": "Thiền chỉ và thiền quán thường bị bán như hai team: một bên yên, một bên thấy; một bên bị chê là mắc định, bên kia bị chê là khô và căng. Khi phương pháp thành identity, người học bắt đầu bảo vệ tên kỹ thuật nhiều hơn nhìn tâm."
     },
     "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md": {
       "path": "theravada/27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích.md",
@@ -41099,8 +41332,8 @@
         "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
         "theravada/index.md"
       ],
-      "words": 3286,
-      "summary": "!hình tượng tự nhiên diễn giải 1. jhāna nằm trong một lộ trình đạo đức và tỉnh giác không giả làm bằng chứng lịch sử hoặc y khoa"
+      "words": 3973,
+      "summary": "Jhāna dễ kích hoạt hai fantasy trái nhau. Một bên xem nó là superpower bắt buộc; bên kia hạ nó thành cảm giác thư giãn dễ chịu. Cả hai có thể khiến người học săn trạng thái thay vì hiểu chức năng của định."
     },
     "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md": {
       "path": "theravada/28 - Bốn Tâm Vô Lượng Và Upekkhā.md",
@@ -41118,7 +41351,7 @@
         "3. Karuṇā: Đến Gần Khổ Mà Không Chìm Trong Khổ",
         "4. Muditā: Niềm Vui Không Chiếm Hữu Và Thuốc Giải Ganh Tị",
         "5. Upekkhā: Xả Không Phải Thờ Ơ, Và Ranh Giới Không Phải Sân",
-        "6. SN 46.54: Tâm Vô Lượng Đi Cùng Giác Chi Và Sự Phân Biệt Mục Đích",
+        "6. [Bốn tâm vô lượng cùng các giác chi](https://suttacentral.net/sn46.54): Tâm Vô Lượng Đi Cùng Giác Chi Và Sự Phân Biệt Mục Đích",
         "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
       ],
       "wikilinks": [
@@ -41135,8 +41368,8 @@
         "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
         "theravada/index.md"
       ],
-      "words": 3198,
-      "summary": "!hình tượng tự nhiên diễn giải 1. “vô lượng” là không dựng biên giới thù ghét không giả làm bằng chứng lịch sử hoặc y khoa"
+      "words": 3771,
+      "summary": "Tâm từ thường bị biến thành câu khẳng định dễ thương. Tâm xả lại bị hiểu thành lạnh lùng. Nhưng thử thương một người đang làm mình khó chịu, hoặc giữ quân bình khi người mình yêu chọn điều mình không kiểm soát được — lúc đó bốn tâm vô lượng mới lộ độ khó."
     },
     "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md": {
       "path": "theravada/29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc.md",
@@ -41173,8 +41406,8 @@
         "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
         "theravada/index.md"
       ],
-      "words": 2236,
-      "summary": "!hình minh họa biên tập cho 1. hai bản đồ có hai độ phân giải khác nhau"
+      "words": 2834,
+      "summary": "Bản đồ 31 cõi rất dễ trở thành infographic để tò mò: mình từng ở cõi nào, ai đang ở tầng nào, thiền đến đâu thì lên đâu. Khi đó vũ trụ luận lại nuôi đúng thứ nó được dùng để soi — craving trở thành một ai đó ở một nơi cao hơn."
     },
     "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md": {
       "path": "theravada/30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ.md",
@@ -41189,8 +41422,8 @@
         "Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ",
         "1. Deva Không Đồng Nghĩa Thượng Đế Sáng Tạo",
         "2. Baka Brahmā: Quyền Lực Và Tuổi Thọ Không Bảo Đảm Chánh Kiến",
-        "3. Năm Cảnh Đến Và Trọng Tâm Tác Ý Trong MN 130",
-        "4. A-tu-la Trong SN 11: Đối Thủ Của Chư Thiên, Không Phải Quỷ Tuyệt Đối",
+        "3. Năm Cảnh Đến Và Trọng Tâm Tác Ý Trong [Các sứ giả của già, bệnh và chết](https://suttacentral.net/mn130)",
+        "4. A-tu-la Trong [Các bài kinh về Sakka, chư thiên và a-tu-la](https://suttacentral.net/sn11): Đối Thủ Của Chư Thiên, Không Phải Quỷ Tuyệt Đối",
         "5. Bốn Đọa Xứ: Khổ Không Phải Bản Án Vĩnh Viễn",
         "6. Provenance Và Cách Đọc Hiện Đại Có Giới Hạn",
         "7. Kỷ Luật Khẳng Định, An Toàn Và Chuỗi Đọc"
@@ -41212,8 +41445,8 @@
         "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
         "theravada/index.md"
       ],
-      "words": 2501,
-      "summary": "!hình minh họa biên tập cho 1. deva không đồng nghĩa thượng đế sáng tạo"
+      "words": 3198,
+      "summary": "Trong vũ trụ Phật giáo, chư thiên vẫn chết, Phạm thiên vẫn có thể nhầm giới hạn của mình là tuyệt đối, A-tu-la vẫn bị xung đột kéo đi. Có quyền lực, ánh sáng hoặc tuổi thọ dài không đồng nghĩa giải thoát."
     },
     "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md": {
       "path": "theravada/31 - Bốn Thánh Quả Và Mười Kiết Sử.md",
@@ -41248,8 +41481,8 @@
         "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md",
         "theravada/index.md"
       ],
-      "words": 3244,
-      "summary": "!hình minh họa biên tập cho 1. bốn đạo-quả là bản đồ chuyển hóa, không phải bốn huy hiệu"
+      "words": 3767,
+      "summary": "Các tầng Thánh quả rất dễ biến thành rank system tâm linh: ai ở tầng nào, ai đủ chuẩn, ai chỉ tưởng mình chứng. Khi quả vị thành status, con đường giải thoát lại cung cấp vật liệu cho so sánh và tự tôn."
     },
     "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md": {
       "path": "theravada/32 - Nibbāna - Không Phải Cõi Thứ 32.md",
@@ -41285,8 +41518,8 @@
         "theravada/33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna.md",
         "theravada/index.md"
       ],
-      "words": 3104,
-      "summary": "!hình minh họa biên tập cho 1. đừng đặt nibbāna lên trên cùng một tấm bản đồ cõi"
+      "words": 3639,
+      "summary": "Nibbāna thường bị tưởng tượng thành nơi đẹp nhất để một cái tôi đi tới, hoặc hư vô nơi cái tôi bị xóa. Hai hình ảnh đối nghịch nhưng dùng cùng một giả định: có một vật thể tên “tôi” cần được đặt ở đâu đó."
     },
     "theravada/33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna.md": {
       "path": "theravada/33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna.md",
@@ -41322,8 +41555,8 @@
         "theravada/34 - Tâm Sở Và Sát-na Tâm - Bản Đồ Vi Mô Của Kinh Nghiệm.md",
         "theravada/index.md"
       ],
-      "words": 2138,
-      "summary": "!hình minh họa biên tập cho 1. vi diệu pháp đổi độ phân giải của câu hỏi"
+      "words": 2585,
+      "summary": "Abhidhamma hấp dẫn vì nó hứa một bản đồ có độ phân giải rất cao. Khi mọi thứ được phân loại, mind có cảm giác đã nắm được kinh nghiệm. Nhưng bản đồ càng chi tiết, nguy cơ nhầm bảng phân loại với thực tại càng lớn."
     },
     "theravada/34 - Tâm Sở Và Sát-na Tâm - Bản Đồ Vi Mô Của Kinh Nghiệm.md": {
       "path": "theravada/34 - Tâm Sở Và Sát-na Tâm - Bản Đồ Vi Mô Của Kinh Nghiệm.md",
@@ -41337,10 +41570,10 @@
       "headings": [
         "Tâm Sở Và Sát-na Tâm — Bản Đồ Vi Mô Của Kinh Nghiệm",
         "1. Một “Tâm” Không Phải Một Khối Đơn Độc",
-        "2. MN 111 Cho Một Danh Sách Yếu Tố, Không Cho Con Số 52",
+        "2. [Nhận biết từng yếu tố trong các tầng thiền](https://suttacentral.net/mn111) Cho Một Danh Sách Yếu Tố, Không Cho Con Số 52",
         "3. Dhammasaṅgaṇī Phân Loại Tầm Và Tứ Theo Ma Trận Canonical",
         "4. Hệ 52 Tâm Sở Và Tổ Hợp Chi Tiết Thuộc Sách Thủ Bản Hậu Kỳ",
-        "5. SN 12.61 Dạy Tâm Sinh-Diệt, Không Phát Biểu Sát-na Học Chi Tiết",
+        "5. [Tâm và thức sinh diệt suốt ngày đêm](https://suttacentral.net/sn12.61) Dạy Tâm Sinh-Diệt, Không Phát Biểu Sát-na Học Chi Tiết",
         "6. Khoảnh Khắc Tâm Không Phải Khung Hình Não",
         "7. Kỷ Luật Khẳng Định, Chuỗi Đọc Và Nguồn"
       ],
@@ -41359,8 +41592,8 @@
         "theravada/35 - Paṭṭhāna - Hai Mươi Bốn Duyên Và Mạng Điều Kiện.md",
         "theravada/index.md"
       ],
-      "words": 2300,
-      "summary": "!hình minh họa biên tập cho 1. một “tâm” không phải một khối đơn độc"
+      "words": 2899,
+      "summary": "Một cơn giận có vẻ kéo dài mười phút, nhưng mô hình sát-na tâm hỏi liệu nó có thật là một khối hay là chuỗi sự kiện sinh–diệt cực nhanh. Câu hỏi ấy có thể làm kinh nghiệm bớt đặc — nhưng cũng dễ tạo ảo tưởng rằng mình đang quan sát trực tiếp thứ chỉ mới hiểu…"
     },
     "theravada/35 - Paṭṭhāna - Hai Mươi Bốn Duyên Và Mạng Điều Kiện.md": {
       "path": "theravada/35 - Paṭṭhāna - Hai Mươi Bốn Duyên Và Mạng Điều Kiện.md",
@@ -41375,7 +41608,7 @@
         "Paṭṭhāna — Hai Mươi Bốn Duyên Và Mạng Điều Kiện",
         "1. Từ Một Chuỗi Duyên Khởi Đến Một Ngữ Pháp Quan Hệ",
         "2. Nền Kinh Sớm: Tính Có Điều Kiện Không Do Ai Sáng Chế",
-        "3. SN 12.23: Một Chuỗi Hỗ Trợ Không Chỉ Đi Từ Vô Minh Đến Khổ",
+        "3. [Từ khổ đau đến giải thoát theo chuỗi hỗ trợ](https://suttacentral.net/sn12.23): Một Chuỗi Hỗ Trợ Không Chỉ Đi Từ Vô Minh Đến Khổ",
         "4. Hai Mươi Bốn Duyên: Danh Sách Vi Diệu Pháp, Không Phải Trích Dẫn Giả",
         "5. Bốn Họ Quan Hệ Để Học Mà Không Làm Phẳng Hệ Thống",
         "6. Thực Hành: Lập Bản Đồ Một Phản Ứng, Không Đổ Cho Một Nguyên Nhân",
@@ -41395,8 +41628,8 @@
         "theravada/36 - Theravāda Và Khoa Học Hiện Đại - Điểm Gặp, Giới Hạn Và Lối Tắt Sai.md",
         "theravada/index.md"
       ],
-      "words": 2217,
-      "summary": "!hình minh họa biên tập cho 1. từ một chuỗi duyên khởi đến một ngữ pháp quan hệ"
+      "words": 2713,
+      "summary": "Khi chuyện xấu xảy ra, mind muốn một nguyên nhân để chỉ tay. Khi chuyện tốt xảy ra, ego muốn một nguyên nhân để nhận công. Paṭṭhāna làm cả hai phản xạ khó hơn: một hiện tượng có thể được nâng bởi nhiều loại duyên cùng lúc, kể cả sự hiện diện và vắng mặt."
     },
     "theravada/36 - Theravāda Và Khoa Học Hiện Đại - Điểm Gặp, Giới Hạn Và Lối Tắt Sai.md": {
       "path": "theravada/36 - Theravāda Và Khoa Học Hiện Đại - Điểm Gặp, Giới Hạn Và Lối Tắt Sai.md",
@@ -41432,8 +41665,8 @@
         "theravada/35 - Paṭṭhāna - Hai Mươi Bốn Duyên Và Mạng Điều Kiện.md",
         "theravada/index.md"
       ],
-      "words": 2510,
-      "summary": "!hình minh họa biên tập cho 1. hai phương pháp có thể đối thoại mà không hóa thành một"
+      "words": 2809,
+      "summary": "Khi khoa học và Phật giáo có một từ nghe giống nhau, người ta rất muốn tuyên bố hai bên đã gặp nhau: neuroscience chứng minh vô ngã, quantum chứng minh duyên khởi, meditation scan chứng minh giác ngộ. Cảm giác ấy dễ chịu vì tradition được khoác authority hiện…"
     },
     "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md": {
       "path": "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md",
@@ -41601,11 +41834,11 @@
       ],
       "headings": [
         "Theravāda Và Kinh Tạng Pāli",
-        "Bắt Đầu Nhanh",
-        "Nếu Bạn Mới Hoàn Toàn",
-        "Nếu Bạn Muốn Thực Hành",
-        "Nếu Bạn Muốn Đi Sâu",
-        "Bảy Học Phần",
+        "Chọn Lối Vào Phù Hợp",
+        "“Tôi Mới Học, Nên Bắt Đầu Từ Đâu?”",
+        "“Tôi Muốn Học Cách Thực Hành”",
+        "“Tôi Muốn Tìm Hiểu Nghiệp, Tái Sinh Và Nibbāna”",
+        "Bảy Học Phần Của Cùng Một Con Đường",
         "I. Cửa Vào Và Bản Đồ Nguồn · 4 bài",
         "II. Xương Sống Giáo Pháp · 6 bài",
         "III. Giải Phẫu Kinh Nghiệm Và Cái Tôi · 6 bài",
@@ -41613,8 +41846,7 @@
         "V. Con Đường Thực Hành · 6 bài",
         "VI. Vũ Trụ, Giác Ngộ Và Nibbāna · 4 bài",
         "VII. Vi Diệu Pháp Và Cầu Nối Hiện Đại · 4 bài",
-        "Bộ Công Cụ Nguồn",
-        "Kỷ Luật Đọc"
+        "Khi Bạn Muốn Tự Kiểm Tra Nguồn"
       ],
       "wikilinks": [
         "01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết",
@@ -41720,8 +41952,8 @@
         "MOC - Esoterica & Consciousness.md",
         "theravada/36 - Theravāda Và Khoa Học Hiện Đại - Điểm Gặp, Giới Hạn Và Lối Tắt Sai.md"
       ],
-      "words": 1361,
-      "summary": "Đi theo trục nền trước, không nhảy thẳng vào vũ trụ luận hoặc Vi Diệu Pháp:"
+      "words": 1778,
+      "summary": "Bạn không cần biết các mã Kinh như `DN`, `MN`, `SN` hay `AN`. Bạn cũng không cần giả vờ tin chắc về nghiệp nhiều đời, tái sinh hay 31 cõi. Hãy bắt đầu từ điều mình có thể hiểu và quan sát. Khi gặp một khẳng định lớn, nguồn kiểm chứng nằm ngay trong bài."
     }
   }
 }

@@ -11,6 +11,7 @@ related:
   - "[[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]"
   - "[[Karma Disclosure - Truth Hidden In Plain Sight]]"
   - "[[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]"
+  - "[[I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng]]"
   - "[[Elite]]"
   - "[[Khoa Học Xét Lại]]"
 ---
@@ -339,6 +340,8 @@ Dr. Strange hỏi: “Reality thật sự là gì?”
 Dr. Doom trả lời: “Reality thuộc về kẻ đủ thông minh để tái cấu trúc nó.”
 
 Đó là lý do Musk không chỉ match Iron Man. Iron Man là public-friendly mask. Dr. Doom mới là shadow archetype: genius savior với quyền lực quasi-sovereign, đứng giữa science, magic, machine và empire.
+
+Đọc sâu hơn về cùng một khuôn mặt RDJ, cái chết Tony, lời buộc tội “stolen lives”, Battleworld và motif mắt bầm tại [[I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng]].
 
 ---
 

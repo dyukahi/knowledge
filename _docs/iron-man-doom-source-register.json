@@ -1,0 +1,40 @@
+{
+  "schema": "vault-source-register.v1",
+  "article": "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
+  "sources": [
+    {
+      "tier": "official",
+      "title": "D23 2026: The Stars of Avengers: Doomsday Unveil New Footage, Poster",
+      "url": "https://www.marvel.com/articles/movies/avengers-doomsday-cast-d23-2026-new-footage-poster-robert-downey-jr-chris-evans-hayley-atwell",
+      "supports": ["Robert Downey Jr. is Doctor Doom", "Chris Evans and Hayley Atwell return", "three universes are on a collision course", "official D23 special look exists"],
+      "limits": "Does not confirm the leaked full plot or a direct Tony-Doom identity link."
+    },
+    {
+      "tier": "secondary-leak",
+      "title": "ComicBookMovie full plot leak summary, recovered August 2026",
+      "url": "https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsdays-entire-plot-may-have-leaked-online-and-we-have-all-the-biggest-spoilers-a221736",
+      "supports": ["Steve/Peggy/Jim on Earth-828", "Doom family-loss motivation", "Loki heart theft", "Battleworld and erased memories"],
+      "limits": "Article later became unavailable; leak may be incomplete, mistranslated or changed by reshoots. Retained in local session evidence and Vietnamese recovery draft."
+    },
+    {
+      "tier": "secondary-media",
+      "title": "Conspiracy theorists say stars with black eyes are part of Illuminati",
+      "url": "https://www.dailymail.com/lifestyle/article-5971319/Conspiracy-theory-suggests-celebrities-snapped-black-left-eyes-ILLUMINATI.html",
+      "supports": ["A 2005 photograph circulated showing bruising around Robert Downey Jr.'s left eye", "Black Eye Club/Illuminati initiation claims circulate online", "many photographed people had ordinary or theatrical explanations"],
+      "limits": "Tabloid survey of a conspiracy theory, not evidence that a club or ritual exists."
+    },
+    {
+      "tier": "primary-film",
+      "title": "Avengers: Endgame and prior MCU films",
+      "supports": ["Tony demands the five post-Snap years not be erased", "Tony performs the final snap and dies", "Natasha also sacrifices herself", "time-heist intervention changes multiple timelines"],
+      "limits": "Supports MCU canon analysis, not claims about real-world ritual."
+    }
+  ],
+  "claim_layers": {
+    "fact": "Official cast/footage statements, released MCU films, existence of circulated RDJ bruise photograph.",
+    "leak": "Unreleased plot details involving Earth-828, Doom's family, Jim, Loki and Battleworld.",
+    "pattern": "Heroes increasingly claim authority to select which timelines and lives survive.",
+    "symbol": "Tony/Doom as bright and shadow faces of the technological savior; bruised eye as wounded vision.",
+    "speculative": "Doom as Endgame's unpaid moral bill and the black-eye motif as an initiation image."
+  }
+}

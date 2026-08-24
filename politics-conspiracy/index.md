@@ -26,8 +26,9 @@ Pack này dùng current events để luyện media literacy tầng sâu: ritual,
 2. [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
 3. [[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]
 4. [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]]
-5. [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]]
-6. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]
+5. [[I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng]]
+6. [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]]
+7. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]
 
 ---
 
@@ -126,6 +127,7 @@ Orientation: use this when political power starts managing history, maps and cos
 - [[Kiểm Soát Tâm Trí]] — attention, fear, reward and memory as political infrastructure.
 - [[UAP Disclosure - Controlled Revelation]] — disclosure as narrative management.
 - [[A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa]]
+- [[I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng]] — Tony/Doom, stolen lives, Battleworld và shadow của techno-savior.
 - [[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]]
 - [[Mỹ Là Ai Cập Tái Sinh]] — 2026 case study in tech, ritual and disclosure symbolism.
 - [[Đề Văn 2026 Và Nghi Lễ Thay Ký Ức]] — education, exam ritual, Silicon Valley aspiration and soft memory reset.
