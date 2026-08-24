@@ -229,7 +229,7 @@ flowchart TD
     A --> B --> C --> D --> E --> F --> G
 ```
 
-### Va chạm đa vũ trụ Là Đại Hồng Thủy Của Đa Vũ Trụ
+### Va Chạm Đa Vũ Trụ Là Đại Hồng Thủy Của Đa Vũ Trụ
 
 Trong cụm Tartaria/Mudflood, cuộc tái lập bắt đầu bằng một thảm họa làm đứt lịch sử cũ. Thành phố bị chôn, dân số biến mất, công trình còn lại nhưng câu chuyện về người xây bị thay thế.
 
