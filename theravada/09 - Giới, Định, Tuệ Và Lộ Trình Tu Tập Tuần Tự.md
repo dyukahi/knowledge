@@ -197,6 +197,21 @@ Appamāda không phải productivity anxiety. Nó không bảo mình nhồi thê
 
 Thân sẽ đổi. Người mình yêu sẽ đổi. Cơ hội xin lỗi, giữ giới, học ngồi yên và nhìn một phản ứng trước khi làm hại không ở đó mãi. Không phóng dật là nhớ điều ấy đủ rõ để hôm nay làm một việc thật, thay vì ngày mai tiếp tục tưởng tượng về con người mình sẽ trở thành.
 
+### Hòa Hợp Không Phải Xóa Mọi Khác Biệt
+
+> [!quote] Sống hòa hợp như sữa với nước — Trung Bộ Kinh
+> Ba vị tu sĩ mô tả đời sống không tranh cãi bằng thân, lời và ý từ ái, biết mình may mắn được sống với bạn đồng tu và sẵn sàng đặt ý riêng xuống để phối hợp.
+>
+> **Pāli**
+> *“Kacci pana vo, anuruddhā, samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṁ piyacakkhūhi sampassantā viharathā”ti? “Taggha mayaṁ, bhante, samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṁ piyacakkhūhi sampassantā viharāmā”ti. “Yathā kathaṁ pana tumhe, anuruddhā, samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṁ piyacakkhūhi sampassantā viharathā”ti? “Idha mayhaṁ, bhante, evaṁ hoti: ‘lābhā vata me, suladdhaṁ vata me, yohaṁ evarūpehi sabrahmacārīhi saddhiṁ viharāmī’ti. Tassa mayhaṁ, bhante, imesu āyasmantesu mettaṁ kāyakammaṁ paccupaṭṭhitaṁ āvi ceva raho ca; mettaṁ vacīkammaṁ paccupaṭṭhitaṁ āvi ceva raho ca; mettaṁ manokammaṁ paccupaṭṭhitaṁ āvi ceva raho ca. Tassa mayhaṁ, bhante, evaṁ hoti: ‘yannūnāhaṁ sakaṁ cittaṁ nikkhipitvā imesaṁyeva āyasmantānaṁ cittassa vasena vatteyyan’ti. So kho ahaṁ, bhante, sakaṁ cittaṁ nikkhipitvā imesaṁyeva āyasmantānaṁ cittassa vasena vattāmi. Nānā hi kho no, bhante, kāyā ekañca pana maññe cittan”ti.*
+>
+> **Dịch Việt**
+> “Này Anuruddha, các thầy có sống hòa hợp, vui vẻ, không tranh cãi, hòa như sữa với nước và nhìn nhau bằng ánh mắt thương mến không? — Bạch Thế Tôn, chúng con sống như vậy. — Các thầy làm thế nào? — Con nghĩ: thật lợi ích và may mắn khi được sống với những người bạn đồng tu như thế này. Con duy trì thân hành, khẩu hành và ý hành từ ái đối với các vị ấy, cả công khai lẫn riêng tư. Con nghĩ: hay là mình đặt ý riêng xuống và hành xử theo tâm của các vị ấy. Thân chúng con khác nhau, nhưng tâm dường như là một.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn31">MN 31, đoạn 6.1–7.10</a> · <i>Cūḷagosiṅga Sutta</i></small>
+
+Đặt ý riêng xuống không đồng nghĩa leader nói gì cũng nghe hoặc cả nhóm phải nghĩ giống nhau. Trong đoạn này nó đi cùng thân–khẩu–ý từ ái và niềm biết ơn vì có bạn đồng tu. Hòa hợp không được xây bằng fear, punishment hay bịt miệng dissent; nếu vậy chỉ còn obedience mặc áo cộng đồng.
+
 ## 6. Thiết Kế Một Lộ Trình Có Thể Sống Được
 
 ![lịch tuần có giới phòng hộ niệm định học Pháp và phản tỉnh nối với nhau](../assets/illustrations/theravada-batch2/theravada-09-ke-hoach-tuan.webp)

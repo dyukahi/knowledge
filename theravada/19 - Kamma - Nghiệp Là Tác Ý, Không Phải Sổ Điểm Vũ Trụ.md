@@ -63,7 +63,7 @@ Bài này giữ đồng thời ba điều: hành động có hậu quả; hậu 
 
 
 <!-- vault-voice-section:v1 -->
-AN 6.63 không chỉ định nghĩa nghiệp; nó đặt nghiệp trong chuỗi có nguồn sinh, khác biệt, quả và con đường chấm dứt. [Nghiệp là tác ý và có con đường đoạn diệt](https://suttacentral.net/an6.63) không chỉ cho một câu định nghĩa. Kinh đặt nghiệp vào phương pháp phân tích: nghiệp cần được biết, nguồn sinh của nghiệp cần được biết, sự đa dạng, quả, sự đoạn diệt và con đường dẫn tới đoạn diệt cần được biết. Nguồn sinh được liên hệ với xúc; sự đa dạng gồm nghiệp dẫn tới kinh nghiệm ở địa ngục, loài vật, ngạ quỷ, cõi người và cõi trời; quả được trải ngay hiện tại, đời kế hoặc về sau; đoạn diệt nghiệp được nói cùng sự đoạn diệt xúc; Bát Chánh Đạo là con đường.
+[Nghiệp là tác ý và có con đường đoạn diệt](https://suttacentral.net/an6.63) không chỉ định nghĩa nghiệp; nó đặt nghiệp trong chuỗi có nguồn sinh, khác biệt, quả và con đường chấm dứt. [Nghiệp là tác ý và có con đường đoạn diệt](https://suttacentral.net/an6.63) không chỉ cho một câu định nghĩa. Kinh đặt nghiệp vào phương pháp phân tích: nghiệp cần được biết, nguồn sinh của nghiệp cần được biết, sự đa dạng, quả, sự đoạn diệt và con đường dẫn tới đoạn diệt cần được biết. Nguồn sinh được liên hệ với xúc; sự đa dạng gồm nghiệp dẫn tới kinh nghiệm ở địa ngục, loài vật, ngạ quỷ, cõi người và cõi trời; quả được trải ngay hiện tại, đời kế hoặc về sau; đoạn diệt nghiệp được nói cùng sự đoạn diệt xúc; Bát Chánh Đạo là con đường.
 
 > [!quote] Kinh về nghiệp là tác ý và có con đường đoạn diệt — Tăng Chi Bộ Kinh
 > Đoạn Kinh nêu rằng ta nói tác ý là nghiệp; sau khi có tác ý, người ta tạo nghiệp.
@@ -92,7 +92,7 @@ Nói nghiệp qua thân và khẩu cũng sửa việc chỉ chăm “năng lư�
 
 
 <!-- vault-voice-section:v1 -->
-MN 135 nói quan hệ đạo đức có pattern, nhưng pattern không phải máy bán hàng nơi một hành vi luôn trả đúng một sự kiện. [Hành vi và những khác biệt trong quả](https://suttacentral.net/mn135) trình bày các cặp. Người sát sinh, tàn nhẫn có thể tái sinh cảnh khổ; nếu trở lại làm người thì đoản thọ. Người từ bỏ sát sinh có khuynh hướng trái lại. Gây thương tích liên hệ bệnh tật; không gây hại liên hệ sức khỏe. Sân hận liên hệ dung sắc kém; không sân liên hệ dung sắc tốt. Đố kỵ liên hệ ít ảnh hưởng; không đố kỵ liên hệ ảnh hưởng. Không bố thí liên hệ nghèo; bố thí liên hệ giàu. Kiêu mạn liên hệ địa vị thấp; tôn trọng liên hệ địa vị cao. Không hỏi điều thiện bất thiện liên hệ ít trí; biết hỏi liên hệ trí.
+[Hành vi và những khác biệt trong quả](https://suttacentral.net/mn135) cho thấy quan hệ đạo đức có pattern, nhưng pattern không phải máy bán hàng nơi một hành vi luôn trả đúng một sự kiện. [Hành vi và những khác biệt trong quả](https://suttacentral.net/mn135) trình bày các cặp. Người sát sinh, tàn nhẫn có thể tái sinh cảnh khổ; nếu trở lại làm người thì đoản thọ. Người từ bỏ sát sinh có khuynh hướng trái lại. Gây thương tích liên hệ bệnh tật; không gây hại liên hệ sức khỏe. Sân hận liên hệ dung sắc kém; không sân liên hệ dung sắc tốt. Đố kỵ liên hệ ít ảnh hưởng; không đố kỵ liên hệ ảnh hưởng. Không bố thí liên hệ nghèo; bố thí liên hệ giàu. Kiêu mạn liên hệ địa vị thấp; tôn trọng liên hệ địa vị cao. Không hỏi điều thiện bất thiện liên hệ ít trí; biết hỏi liên hệ trí.
 
 > [!quote] Kinh về hành vi và những khác biệt trong quả — Trung Bộ Kinh
 > Đoạn Kinh nêu rằng này thanh niên, chúng sinh là chủ nhân của nghiệp, thừa tự nghiệp, sinh từ nghiệp, có nghiệp là thân quyến, có nghiệp là nơi nương tựa.

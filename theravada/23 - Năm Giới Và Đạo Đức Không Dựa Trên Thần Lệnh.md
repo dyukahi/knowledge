@@ -196,6 +196,51 @@ Không phải lúc nào mình cũng đủ sức dùng cùng một cách. Có ng�
 
 Buông oán cũng không xóa ranh giới, công lý hoặc ký ức. Bạn có thể báo cáo bạo lực, rời quan hệ, từ chối gặp lại và vẫn không dành phần còn lại của đời mình để người gây hại tiếp tục sống trong nervous system. Tâm từ không phải giấy miễn trách nhiệm; nó là cách không để cái ác của người khác quyết định mình sẽ trở thành ai.
 
+### Bố Thí Không Phải Giao Dịch Mua Phước
+
+> [!quote] Năm lợi ích của bố thí — Tăng Chi Bộ Kinh
+> Bài Kinh mô tả bố thí như một phẩm chất làm thay đổi quan hệ xã hội, sự gần gũi với người lành, danh tiếng, tư cách cư sĩ và hướng quả về sau.
+>
+> **Pāli**
+> *“Pañcime, bhikkhave, dāne ānisaṁsā. Katame pañca? Bahuno janassa piyo hoti manāpo; santo sappurisā bhajanti; kalyāṇo kittisaddo abbhuggacchati; gihidhammā anapagato hoti; kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati. Ime kho, bhikkhave, pañca dāne ānisaṁsāti.*
+>
+> **Dịch Việt**
+> “Có năm lợi ích của bố thí. Người bố thí được nhiều người yêu mến; người hiền thiện tìm đến; tiếng tốt lan truyền; không rời phẩm chất của người cư sĩ; và sau khi thân hoại mạng chung, sinh về cảnh giới tốt đẹp. Đó là năm lợi ích của bố thí.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/an5.35">AN 5.35, đoạn 1.1–1.8</a> · <i>Dānānisaṁsa Sutta</i></small>
+
+Nếu cho chỉ để vũ trụ trả lãi, bố thí vẫn đang bị craving quản. Điểm gần hơn là học nới tay với tiền, thời gian và quyền sở hữu; đồng thời biết rằng cho đúng còn cần người nhận, hoàn cảnh và cách cho không làm họ mất phẩm giá.
+
+### Biết Ơn Không Phải Món Nợ Cho Phép Người Khác Sở Hữu Mình
+
+> [!quote] Hai hạng người khó gặp: người làm ơn trước và người biết ơn — Tăng Chi Bộ Kinh
+> Một bài Kinh rất ngắn gọi người chủ động làm điều tốt trước và người biết ơn, biết đáp đền là hai hạng người khó gặp trên đời.
+>
+> **Pāli**
+> *“Dveme, bhikkhave, puggalā dullabhā lokasmiṁ. Katame dve? Yo ca pubbakārī, yo ca kataññū katavedī. Ime kho, bhikkhave, dve puggalā dullabhā lokasmin”ti.*
+>
+> **Dịch Việt**
+> “Có hai hạng người khó gặp trên đời. Hai hạng nào? Người làm ơn trước, và người biết ơn, biết đáp đền. Đó là hai hạng người khó gặp trên đời.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/an2.119">AN 2.119, đoạn 1.1–1.4</a> · <i>Dullabha Sutta</i></small>
+
+Tri ân làm mình nhớ đời sống được nâng bởi rất nhiều điều không tự tạo. Nhưng biết ơn không ký giấy trao quyền vô hạn cho ân nhân. Đáp đền một điều tốt không buộc chịu kiểm soát, bạo lực hoặc im lặng trước sai trái.
+
+### Đường Cư Sĩ Có Công Việc, Tài Sản Và Cân Bằng Thu–Chi
+
+> [!quote] Bốn điều đem lợi ích hiện đời cho người cư sĩ — Tăng Chi Bộ Kinh
+> Khi một cư sĩ đang sống cùng gia đình và tài sản hỏi cách có lợi ích, an lạc hiện đời, Đức Phật nêu siêng năng, bảo hộ, bạn lành và sống cân bằng.
+>
+> **Pāli**
+> *“mayaṁ, bhante, gihī kāmabhogino puttasambādhasayanaṁ ajjhāvasāma, kāsikacandanaṁ paccanubhoma, mālāgandhavilepanaṁ dhārayāma, jātarūparajataṁ sādayāma. Tesaṁ no, bhante, bhagavā amhākaṁ tathā dhammaṁ desetu ye amhākaṁ assu dhammā diṭṭhadhammahitāya diṭṭhadhammasukhāya, samparāyahitāya samparāyasukhāyā”ti. “Cattārome, byagghapajja, dhammā kulaputtassa diṭṭhadhammahitāya saṁvattanti diṭṭhadhammasukhāya. Katame cattāro? Uṭṭhānasampadā, ārakkhasampadā, kalyāṇamittatā, samajīvitā.*
+>
+> **Dịch Việt rút gọn**
+> “Bạch Thế Tôn, chúng con là cư sĩ hưởng dục, sống chen chúc với con cái, dùng hương, vòng hoa và vàng bạc. Xin Thế Tôn dạy những pháp đem lại lợi ích và an lạc hiện đời cùng đời sau. — Này Byagghapajja, có bốn pháp đem lại lợi ích và an lạc hiện đời cho người gia chủ: thành tựu siêng năng, thành tựu bảo hộ, thiện hữu và sống cân bằng.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/an8.54">AN 8.54, đoạn 1.3–2.3</a> · <i>Dīghajāṇu Sutta</i></small>
+
+Kinh không yêu cầu người cư sĩ giả làm người không có tiền, dục hay gia đình. Nó đưa thực hành vào cách làm nghề, giữ tài sản chân chánh, chọn bạn và biết thu–chi. Con đường tại gia không thấp vì dính đời; nó thất bại khi dùng chữ tu để né chính trách nhiệm của đời mình.
+
 ## 6. Một Cách Thực Hành Không Hại, Có Ranh Giới Và Có Khả Năng Sửa Sai
 
 ![hình tượng tự nhiên diễn giải 6. một cách thực hành không hại, có ranh giới và có khả năng sửa sai không giả làm bằng chứng lịch sử hoặc y khoa](../assets/illustrations/theravada-batch4/theravada-23-6-mot-cach-thuc-hanh-khong-hai-co-ranh-gioi-va-c.webp)

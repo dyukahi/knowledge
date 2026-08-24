@@ -162,7 +162,7 @@ Trong thiền, nếu dùng câu “mọi người có nghiệp của họ” đ�
 
 
 <!-- vault-voice-section:v1 -->
-SN 46.54 đặt tâm vô lượng cạnh giác chi và mục đích tu, ngăn việc dùng một mood dễ chịu thay cho toàn bộ lộ trình. [Bốn tâm vô lượng cùng các giác chi](https://suttacentral.net/sn46.54) nối mỗi phạm trú với bảy giác chi và bàn các khuynh hướng giải thoát của tâm. Điều này đặt bốn tâm trong con đường giác ngộ, không chỉ như bài tự trấn an. Niệm, trạch pháp, tinh tấn, hỷ, khinh an, định và xả có thể được phát triển trong trường của lòng từ; cùng cấu trúc được áp dụng cho bi, hỷ và xả.
+[Bốn tâm vô lượng cùng các giác chi](https://suttacentral.net/sn46.54) đặt tâm vô lượng cạnh giác chi và mục đích tu, ngăn việc dùng một mood dễ chịu thay cho toàn bộ lộ trình. [Bốn tâm vô lượng cùng các giác chi](https://suttacentral.net/sn46.54) nối mỗi phạm trú với bảy giác chi và bàn các khuynh hướng giải thoát của tâm. Điều này đặt bốn tâm trong con đường giác ngộ, không chỉ như bài tự trấn an. Niệm, trạch pháp, tinh tấn, hỷ, khinh an, định và xả có thể được phát triển trong trường của lòng từ; cùng cấu trúc được áp dụng cho bi, hỷ và xả.
 
 Cụm “nương ly, ly tham, đoạn diệt, chín tới buông bỏ” ngăn ta biến lòng từ thành bám dính dễ chịu. Mettā không sở hữu người nhận; karuṇā không xây căn cước cứu thế; muditā không lệ thuộc kết quả; upekkhā không bám hình ảnh lạnh lùng. Tất cả hướng đến buông.
 

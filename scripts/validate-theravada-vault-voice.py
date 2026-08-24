@@ -24,12 +24,14 @@ for n in range(1,37):
   for m in re.finditer(r'(?<![/\w])(DN|MN|SN|AN)\s+\d+(?:\.\d+)?',line):bare.append((n,number,m.group(0)))
 if bare:raise SystemExit(f'reader-facing bare codes: {bare[:10]}')
 review=json.loads((ROOT/'_docs/theravada-reader-pilot-semantic-review.json').read_text());exact=json.loads((ROOT/'_docs/theravada-reader-card-exact-audit.json').read_text());registry=json.loads((ROOT/'_docs/theravada-reader-source-registry.json').read_text())
-if review['cards']!=113 or review['passed']!=113:raise SystemExit('semantic review count drift')
-if exact['cards']!=113 or exact['passed']!=113 or not exact['all_pass']:raise SystemExit('exact card count drift')
-if len(registry['sources'])!=67:raise SystemExit('registry count drift')
-required={4:['attadīpā viharatha','an8.53'],9:['sn45.2','appamādena sampādethā'],23:['dn31','an5.161']}
+if review['cards']!=119 or review['passed']!=119:raise SystemExit('semantic review count drift')
+if exact['cards']!=119 or exact['passed']!=119 or not exact['all_pass']:raise SystemExit('exact card count drift')
+if len(registry['sources'])!=71:raise SystemExit('registry count drift')
+progress=json.loads((ROOT/'_docs/theravada-full-body-voice-progress.json').read_text());
+if progress['totals']['reviewed_sections']!=252 or not progress['all_pass']:raise SystemExit('full-body section review incomplete')
+required={4:['attadīpā viharatha','an8.53','ariyo vā tuṇhībhāvo','sut­te osāretabbāni'.replace('­','')],9:['sn45.2','appamādena sampādethā','mn31'],23:['dn31','an5.161','an5.35','an2.119','an8.54']}
 for n,tokens in required.items():
  text=next((ROOT/'theravada').glob(f'{n:02d}*.md')).read_text().casefold()
  for token in tokens:
   if token.casefold() not in text:raise SystemExit(f'missing foundational passage lesson {n}: {token}')
-report={'schema':'theravada-vault-voice-audit.v1','lessons':36,'openings':rows,'unique_openings':len(seen),'reader_facing_bare_codes':0,'cards':113,'semantic_passed':113,'exact_pali_passed':113,'registry_sources':67,'foundational_passage_lessons':[4,9,23],'all_pass':True};(ROOT/'_docs/theravada-vault-voice-audit.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n');print(json.dumps({k:report[k] for k in ('lessons','unique_openings','reader_facing_bare_codes','cards','semantic_passed','exact_pali_passed','registry_sources','all_pass')},ensure_ascii=False))
+report={'schema':'theravada-vault-voice-audit.v1','lessons':36,'openings':rows,'unique_openings':len(seen),'reader_facing_bare_codes':0,'cards':119,'semantic_passed':119,'exact_pali_passed':119,'registry_sources':71,'foundational_passage_lessons':[4,9,23],'all_pass':True};(ROOT/'_docs/theravada-vault-voice-audit.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n');print(json.dumps({k:report[k] for k in ('lessons','unique_openings','reader_facing_bare_codes','cards','semantic_passed','exact_pali_passed','registry_sources','all_pass')},ensure_ascii=False))

@@ -66,7 +66,7 @@ Bài này không tổ chức cuộc thi chọn một mô hình thắng tuyệt �
 
 
 <!-- vault-voice-section:v1 -->
-SN 12.2 định nghĩa các mắt xích mà không tự viết sẵn chú giải một đời, ba đời hay sát-na cho người đọc. [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) bắt đầu từ vô minh. **Avijjā — “a-vít-cha” — không biết Tứ Thánh Đế**; **saṅkhārā — “sang-kha-ra” — các hành thân, khẩu và tâm**; **viññāṇa — “vin-nha-na” — sáu loại thức**; **nāmarūpa — “na-ma ru-pa” — danh và sắc**, trong đó danh gồm thọ, tưởng, tư, xúc và tác ý; sáu xứ là sáu căn; xúc là sáu nhóm xúc; thọ và ái cũng phân sáu theo đối tượng.
+[Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) định nghĩa các mắt xích mà không tự viết sẵn chú giải một đời, ba đời hay sát-na cho người đọc. [Định nghĩa các mắt xích duyên khởi](https://suttacentral.net/sn12.2) bắt đầu từ vô minh. **Avijjā — “a-vít-cha” — không biết Tứ Thánh Đế**; **saṅkhārā — “sang-kha-ra” — các hành thân, khẩu và tâm**; **viññāṇa — “vin-nha-na” — sáu loại thức**; **nāmarūpa — “na-ma ru-pa” — danh và sắc**, trong đó danh gồm thọ, tưởng, tư, xúc và tác ý; sáu xứ là sáu căn; xúc là sáu nhóm xúc; thọ và ái cũng phân sáu theo đối tượng.
 
 > [!quote] Kinh về định nghĩa các mắt xích duyên khởi — Tương Ưng Bộ Kinh
 > Đoạn mở đầu nêu hai mắt xích: vô minh làm duyên cho các hành, và các hành làm duyên cho thức.
@@ -95,7 +95,7 @@ Tương tự, xúc–thọ–ái có thể quan sát ngay hiện tại và Kinh 
 
 
 <!-- vault-voice-section:v1 -->
-DN 15 làm duyên khởi trông giống mạng và vòng phản hồi hơn một hàng domino, nhưng ‘mạng’ vẫn là từ giải thích của mình. [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15) mở bằng lời Đức Phật cảnh báo Ānanda rằng duyên khởi sâu và có vẻ sâu; vì không giác ngộ, chúng sinh bị rối như cuộn chỉ. Kinh rồi khảo sát điều kiện của già chết, sinh, hữu, thủ, ái và thọ. Đến thức và danh-sắc, văn bản cho quan hệ hai chiều: nếu thức không đi xuống bụng mẹ, danh-sắc không kết tụ; nếu thức sau khi đi xuống lại rời, danh-sắc không tăng trưởng; nếu thức không có chỗ đứng trong danh-sắc, sinh, già chết và khổ tương lai không được nhận biết. Đồng thời, thức lấy danh-sắc làm điều kiện.
+[Mạng duyên khởi sâu xa](https://suttacentral.net/dn15) làm duyên khởi trông giống mạng và vòng phản hồi hơn một hàng domino, nhưng ‘mạng’ vẫn là từ giải thích của mình. [Mạng duyên khởi sâu xa](https://suttacentral.net/dn15) mở bằng lời Đức Phật cảnh báo Ānanda rằng duyên khởi sâu và có vẻ sâu; vì không giác ngộ, chúng sinh bị rối như cuộn chỉ. Kinh rồi khảo sát điều kiện của già chết, sinh, hữu, thủ, ái và thọ. Đến thức và danh-sắc, văn bản cho quan hệ hai chiều: nếu thức không đi xuống bụng mẹ, danh-sắc không kết tụ; nếu thức sau khi đi xuống lại rời, danh-sắc không tăng trưởng; nếu thức không có chỗ đứng trong danh-sắc, sinh, già chết và khổ tương lai không được nhận biết. Đồng thời, thức lấy danh-sắc làm điều kiện.
 
 > [!quote] Kinh về mạng duyên khởi sâu xa — Trường Bộ Kinh
 > Đoạn trích trình bày danh–sắc và thức nương nhau, rồi nối qua xúc, thọ, ái, thủ, hữu, sinh và toàn bộ khối già–chết–sầu–khổ.

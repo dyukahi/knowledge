@@ -58,6 +58,37 @@
       "source_display_code": "AN 10.13"
     },
     {
+      "code": "AN 2.119",
+      "collection_abbr": "AN",
+      "number": "2.119",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh được sắp theo số pháp",
+      "discourse_pali_title_candidates": [
+        "Dullabha Sutta"
+      ],
+      "discourse_pali_title": "Dullabha Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Hai hạng người khó gặp: người làm ơn trước và người biết ơn",
+      "title_verification_status": "verified-suttacentral",
+      "url": "https://suttacentral.net/an2.119",
+      "used_in_lessons": [
+        23
+      ],
+      "plain_summary": "Bài kinh gọi người làm ơn trước và người biết ơn, biết đáp đền là hai hạng người khó gặp trên đời.",
+      "source_key": "AN 2.119",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an2.119",
+      "api_work_id": "an2.118-129",
+      "display_title_pali": "Dullabha Sutta",
+      "display_title_vi": "Hai hạng người khó gặp: người làm ơn trước và người biết ơn",
+      "canonical_url": "https://suttacentral.net/an2.119",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "AN 2.119"
+    },
+    {
       "code": "AN 3.61",
       "collection_abbr": "AN",
       "number": "3.61",
@@ -267,6 +298,36 @@
       "source_display_code": "AN 5.28"
     },
     {
+      "code": "AN 5.35",
+      "collection_abbr": "AN",
+      "number": "5.35",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh được sắp theo số pháp",
+      "discourse_pali_title_candidates": [
+        "Dānānisaṁsa Sutta"
+      ],
+      "discourse_pali_title": "Dānānisaṁsa Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Năm lợi ích của bố thí",
+      "title_verification_status": "verified-suttacentral",
+      "url": "https://suttacentral.net/an5.35",
+      "used_in_lessons": [
+        23
+      ],
+      "plain_summary": "Bài kinh nêu năm lợi ích của bố thí trong quan hệ xã hội, danh tiếng, đời sống cư sĩ và hướng tái sinh.",
+      "source_key": "AN 5.35",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an5.35",
+      "display_title_pali": "Dānānisaṁsa Sutta",
+      "display_title_vi": "Năm lợi ích của bố thí",
+      "canonical_url": "https://suttacentral.net/an5.35",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "AN 5.35"
+    },
+    {
       "code": "AN 6.63",
       "collection_abbr": "AN",
       "number": "6.63",
@@ -357,6 +418,36 @@
       "text_language": "pli",
       "edition_or_witness": "SuttaCentral Bilara Pāli root",
       "source_display_code": "AN 8.53"
+    },
+    {
+      "code": "AN 8.54",
+      "collection_abbr": "AN",
+      "number": "8.54",
+      "collection_pali": "Aṅguttara Nikāya",
+      "collection_han_viet": "Tăng Chi Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh được sắp theo số pháp",
+      "discourse_pali_title_candidates": [
+        "Dīghajāṇu Sutta"
+      ],
+      "discourse_pali_title": "Dīghajāṇu Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Bốn điều đem lợi ích hiện đời cho người cư sĩ",
+      "title_verification_status": "verified-suttacentral",
+      "url": "https://suttacentral.net/an8.54",
+      "used_in_lessons": [
+        23
+      ],
+      "plain_summary": "Đức Phật dạy người cư sĩ bốn điều đem lợi ích hiện đời: siêng năng, bảo hộ tài sản chân chánh, bạn lành và sống cân bằng thu–chi.",
+      "source_key": "AN 8.54",
+      "source_type": "sutta",
+      "collection_code": "AN",
+      "work_id": "an8.54",
+      "display_title_pali": "Dīghajāṇu Sutta",
+      "display_title_vi": "Bốn điều đem lợi ích hiện đời cho người cư sĩ",
+      "canonical_url": "https://suttacentral.net/an8.54",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "AN 8.54"
     },
     {
       "code": "DN 13",
@@ -1001,6 +1092,36 @@
       "text_language": "pli",
       "edition_or_witness": "SuttaCentral Bilara Pāli root",
       "source_display_code": "MN 26"
+    },
+    {
+      "code": "MN 31",
+      "collection_abbr": "MN",
+      "number": "31",
+      "collection_pali": "Majjhima Nikāya",
+      "collection_han_viet": "Trung Bộ Kinh",
+      "collection_plain_vietnamese": "Tuyển tập các bài kinh có độ dài trung bình",
+      "discourse_pali_title_candidates": [
+        "Cūḷagosiṅga Sutta"
+      ],
+      "discourse_pali_title": "Cūḷagosiṅga Sutta",
+      "discourse_han_viet_title": null,
+      "discourse_plain_vietnamese_title": "Sống hòa hợp như sữa với nước",
+      "title_verification_status": "verified-suttacentral",
+      "url": "https://suttacentral.net/mn31",
+      "used_in_lessons": [
+        9
+      ],
+      "plain_summary": "Đức Phật hỏi ba vị tu sĩ cách họ sống hòa hợp; họ mô tả thân–khẩu–ý từ ái và khả năng đặt ý riêng xuống để phối hợp mà không xóa khác biệt thân người.",
+      "source_key": "MN 31",
+      "source_type": "sutta",
+      "collection_code": "MN",
+      "work_id": "mn31",
+      "display_title_pali": "Cūḷagosiṅga Sutta",
+      "display_title_vi": "Sống hòa hợp như sữa với nước",
+      "canonical_url": "https://suttacentral.net/mn31",
+      "text_language": "pli",
+      "edition_or_witness": "SuttaCentral Bilara Pāli root",
+      "source_display_code": "MN 31"
     },
     {
       "code": "MN 36",

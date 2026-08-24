@@ -186,6 +186,36 @@ Một teaching có thể trích rất nhiều Pāli, có thầy nổi tiếng v�
 
 “Độc cư” ở đây cũng không phải ghét xã hội, còn “dễ nuôi” không phải tự hành xác. Đây là hướng chuyển động của đời sống: ít bị craving điều khiển hơn, biết đủ hơn, có sức tinh tấn và không biến người khác thành bộ máy phục vụ nhu cầu của mình. Nếu một phương pháp khiến mình ngày càng kiêu, đòi hỏi, nghiện guru hoặc khinh người ngoài nhóm, ít nhất phải dừng lại và hỏi nó đang dẫn về đâu.
 
+### Nói Về Pháp Hoặc Giữ Im Lặng Cao Quý
+
+> [!quote] Khi tụ họp: nói về Pháp hoặc giữ im lặng cao quý — Trung Bộ Kinh
+> Đức Phật đưa ra hai việc phù hợp cho một cộng đồng đang tụ họp: đối thoại về Pháp hoặc giữ sự im lặng cao quý.
+>
+> **Pāli**
+> *Sannipatitānaṁ vo, bhikkhave, dvayaṁ karaṇīyaṁ— dhammī vā kathā, ariyo vā tuṇhībhāvo.*
+>
+> **Dịch Việt**
+> “Khi các thầy tụ họp, có hai việc nên làm: hoặc nói chuyện về Pháp, hoặc giữ im lặng cao quý.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn26">MN 26, đoạn 4.12–4.13</a> · <i>Ariyapariyesanā Sutta</i></small>
+
+Im lặng ở đây không phải né câu hỏi khó hay để người có quyền khỏi chịu accountability. Nó là alternative cho lời nói không còn giúp thấy rõ. Nếu cuộc đối thoại chỉ đang nuôi thắng–thua, identity và kích động, dừng lại có thể trung thực hơn việc tiếp tục gọi tiếng ồn là “tranh luận Pháp”.
+
+### Một Lời Gán Cho Đức Phật Vẫn Phải Được Đối Chiếu
+
+> [!quote] Đại giáo pháp thứ nhất: kiểm lời truyền bằng Kinh và Luật — Trường Bộ Kinh
+> Ngay cả khi một vị khẳng định đã trực tiếp nghe từ Đức Phật, cộng đồng không vội tán thành hay bác bỏ mà phải đối chiếu câu chữ với Kinh và Luật.
+>
+> **Pāli**
+> *“Idha, bhikkhave, bhikkhu evaṁ vadeyya: ‘sammukhā metaṁ, āvuso, bhagavato sutaṁ sammukhā paṭiggahitaṁ, ayaṁ dhammo ayaṁ vinayo idaṁ satthusāsanan’ti. Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ. Anabhinanditvā appaṭikkositvā tāni padabyañjanāni sādhukaṁ uggahetvā sutte osāretabbāni, vinaye sandassetabbāni. Tāni ce sutte osāriyamānāni vinaye sandassiyamānāni na ceva sutte osaranti, na ca vinaye sandissanti, niṭṭhamettha gantabbaṁ: ‘addhā idaṁ na ceva tassa bhagavato vacanaṁ; imassa ca bhikkhuno duggahitan’ti. Iti hetaṁ, bhikkhave, chaḍḍeyyātha. Tāni ce sutte osāriyamānāni vinaye sandassiyamānāni sutte ceva osaranti, vinaye ca sandissanti, niṭṭhamettha gantabbaṁ: ‘addhā idaṁ tassa bhagavato vacanaṁ; imassa ca bhikkhuno suggahitan’ti. Idaṁ, bhikkhave, paṭhamaṁ mahāpadesaṁ dhāreyyātha.*
+>
+> **Dịch Việt**
+> “Một vị có thể nói: ‘Tôi đã trực tiếp nghe và tiếp nhận điều này từ Đức Thế Tôn; đây là Pháp, đây là Luật, đây là lời dạy của Bậc Đạo Sư.’ Lời ấy không nên được vội tán thành hay phản bác. Hãy học kỹ câu chữ rồi đối chiếu với Kinh và so sánh với Luật. Nếu không phù hợp với Kinh và Luật, hãy kết luận đó không phải lời Đức Thế Tôn và vị ấy đã nắm sai, rồi loại bỏ. Nếu phù hợp, hãy kết luận đó là lời Đức Thế Tôn và vị ấy đã nắm đúng. Hãy ghi nhớ đại giáo pháp thứ nhất này.”
+>
+> <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/dn16">DN 16, đoạn 4.8.1–4.8.13</a> · <i>Mahāparinibbāna Sutta</i></small>
+
+Đây là source discipline nằm ngay trong truyền thống. Claim “thầy tôi nghe trực tiếp” không được miễn kiểm; cũng không bị bác chỉ vì mình không thích người nói. Authority đưa ra một dữ kiện cần xét, còn corpus và kỷ luật cộng đồng mới quyết định lời ấy có đứng được hay không.
+
 ## 6. Một Quy Trình Đọc Và Kiểm Chứng Có Thể Lặp Lại
 ![vòng lặp nguồn, văn cảnh, thuật ngữ, thực hành, hậu quả và hiệu chỉnh](../assets/illustrations/theravada-batch1/theravada-04-quy-trinh-doc.webp)
 

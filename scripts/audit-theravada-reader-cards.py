@@ -34,10 +34,10 @@ def run(root=ROOT):
   f=next((root/'theravada').glob(f'{n:02d}*.md'));ls=f.read_text().splitlines()
   for i,line in enumerate(ls):
    if not line.startswith('> <small>Nguồn kiểm chứng:'):continue
-   u=re.search(r'href="([^"]+)"',line).group(1).rstrip('/');row=by_url[u];rid=row['work_id']
-   if rid not in cache:
-    api=f'https://suttacentral.net/api/bilarasuttas/{rid}/sujato?lang=en';data=json.loads(urllib.request.urlopen(api,timeout=30).read());cache[rid]=(api,data)
-   api,data=cache[rid];order=data['keys_order'];root_text=data['root_text'];groups=locator_groups(line,row,order);j=i-1
+   u=re.search(r'href="([^"]+)"',line).group(1).rstrip('/');row=by_url[u];rid=row['work_id'];api_rid=row.get('api_work_id',rid)
+   if api_rid not in cache:
+    api=f'https://suttacentral.net/api/bilarasuttas/{api_rid}/sujato?lang=en';data=json.loads(urllib.request.urlopen(api,timeout=30).read());cache[api_rid]=(api,data)
+   api,data=cache[api_rid];order=data['keys_order'];root_text=data['root_text'];groups=locator_groups(line,row,order);j=i-1
    while j>=0 and not ls[j].startswith('> **Pāli**'):j-=1
    if j<0:raise RuntimeError(f'no Pāli heading {f}:{i+1}')
    k=j+1

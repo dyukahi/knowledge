@@ -76,7 +76,7 @@ Bài này không tuyên bố một cơ chế vật lý của tái sinh. [Thức 
 > <small>Nguồn kiểm chứng: <a href="https://suttacentral.net/mn38">MN 38, đoạn 5.9–5.13</a> · <i>Mahātaṇhāsaṅkhaya Sutta</i></small>
 
 <!-- vault-voice-section:v1 -->
-MN 38 bác chính ý tưởng cùng một thức lang thang, nên mọi giải thích tái sinh phải tôn trọng thức sinh theo điều kiện. [Thức sinh theo điều kiện — Trung Bộ Kinh](https://suttacentral.net/mn38) kể việc tỳ-kheo Sāti hiểu lời dạy theo cách “chính thức này” chạy và luân chuyển, không phải một thức khác. Khi được hỏi thức ấy là gì, Sāti mô tả nó như cái nói, cảm thọ và trải quả thiện ác. Đức Phật quở trách cách hiểu ấy và nhắc rằng thức được dạy là **paṭiccasamuppanna — sinh khởi tùy thuộc điều kiện**; không có điều kiện thì thức không sinh.
+[Thức sinh theo điều kiện](https://suttacentral.net/mn38) bác chính ý tưởng cùng một thức lang thang, nên mọi giải thích tái sinh phải tôn trọng thức sinh theo điều kiện. [Thức sinh theo điều kiện — Trung Bộ Kinh](https://suttacentral.net/mn38) kể việc tỳ-kheo Sāti hiểu lời dạy theo cách “chính thức này” chạy và luân chuyển, không phải một thức khác. Khi được hỏi thức ấy là gì, Sāti mô tả nó như cái nói, cảm thọ và trải quả thiện ác. Đức Phật quở trách cách hiểu ấy và nhắc rằng thức được dạy là **paṭiccasamuppanna — sinh khởi tùy thuộc điều kiện**; không có điều kiện thì thức không sinh.
 
 Kinh dùng nguyên tắc gọi tên theo điều kiện: do mắt và sắc mà thức sinh thì gọi nhãn thức; do tai và âm thanh thì gọi nhĩ thức; tương tự với mũi, lưỡi, thân và ý. Ví dụ lửa được gọi theo nhiên liệu—lửa củi, lửa rơm, lửa cỏ—làm rõ rằng “thức” không phải tên riêng của một vật đứng sau mọi kinh nghiệm. Nó là một nhóm biến cố nhận biết được phân biệt theo căn và đối tượng làm duyên.
 
