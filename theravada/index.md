@@ -16,22 +16,22 @@ related:
 
 # Theravāda Và Kinh Tạng Pāli
 
-> [!abstract] Nếu bạn muốn hiểu Phật giáo mà không phải tắt trí để tin
-> **36 bài · 7 học phần · 4 bộ công cụ nguồn · 100% tiếng Việt, giữ Pāli ở nơi một chữ dịch có thể đổi cả lập luận.**
+> [!abstract] Muốn hiểu đạo Phật nhưng không muốn tin mù quáng?
+> **36 bài · 7 học phần · 4 tài liệu tra cứu · viết bằng tiếng Việt.**
 >
-> Series này bắt đầu từ một tension rất thật: mình muốn chạm được chiều sâu của giáo pháp, nhưng không muốn đổi một niềm tin mơ hồ lấy một giáo điều mới. Vì vậy mỗi bài đều hỏi bốn việc: văn bản nói gì, truyền thống giải thích gì, bài đang suy luận gì, và điều gì vẫn chưa được chứng minh.
+> Lộ trình này dành cho người muốn học sâu nhưng vẫn muốn tự kiểm tra nguồn. Mỗi bài trả lời bốn câu hỏi: Kinh nói gì? Truyền thống giải thích thêm gì? Bài viết đang suy luận điều gì? Điều gì vẫn chưa được chứng minh?
 
-Bạn không cần biết `DN`, `MN`, `SN` hay `AN` trước khi bước vào. Bạn cũng không cần giả rằng mình tin chắc nghiệp nhiều đời, tái sinh hay 31 cõi. Điều cần là đọc chậm, giữ nguồn đủ gần để kiểm, rồi nhìn xem một lời dạy đang làm gì với cách mình sống, nói và phản ứng.
+Bạn không cần biết các mã Kinh như `DN`, `MN`, `SN` hay `AN`. Bạn cũng không cần giả vờ tin chắc về nghiệp nhiều đời, tái sinh hay 31 cõi. Hãy bắt đầu từ điều mình có thể hiểu và quan sát. Khi gặp một khẳng định lớn, nguồn kiểm chứng nằm ngay trong bài.
 
-Đây là **core curriculum**, không phải bách khoa toàn thư toàn bộ Kinh tạng Pāli. Nó đi từ Đức Phật lịch sử và cách đọc nguồn đến dukkha, vô ngã, duyên khởi, nghiệp, thiền, Nibbāna, vũ trụ luận và Vi Diệu Pháp. Những passage được chọn làm xương sống, không giả rằng 36 bài đã bao quát hàng nghìn bài Kinh.
+Đây là **lộ trình cốt lõi**, không phải bản tóm tắt toàn bộ Kinh tạng Pāli. Ba mươi sáu bài chỉ chọn những đoạn Kinh cần thiết để dựng nền. Kinh tạng thật sự lớn hơn rất nhiều.
 
-Series cũng từ chối hai shortcut. Không dùng neuroscience, quantum hay NDE để “chứng minh” giáo lý siêu hình. Và không dùng chữ “tâm linh” để né y khoa, sang chấn, trách nhiệm hay bất công đang xảy ra trong đời thật.
+Loạt bài không dùng khoa học thần kinh, vật lý lượng tử hay trải nghiệm cận tử để chứng minh nghiệp, tái sinh hoặc Nibbāna. Thiền cũng không được dùng để né bệnh tật, sang chấn, trách nhiệm hay bất công trong đời sống.
 
-## Bạn Đang Đứng Ở Đâu?
+## Chọn Lối Vào Phù Hợp
 
-### “Tôi Mới Bắt Đầu Và Không Muốn Bị Ngợp”
+### “Tôi Mới Học, Nên Bắt Đầu Từ Đâu?”
 
-Đừng nhảy thẳng vào 31 cõi hoặc sát-na tâm. Trước hết, hãy biết mình đang đọc ai, nguồn hình thành thế nào và câu hỏi trung tâm của con đường là gì:
+Đừng bắt đầu bằng 31 cõi hoặc sát-na tâm. Trước hết, hãy tìm hiểu Đức Phật là ai, Kinh điển hình thành thế nào và đọc Kinh ra sao:
 
 1. [[01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết]]
 2. [[02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm]]
@@ -40,28 +40,28 @@ Series cũng từ chối hai shortcut. Không dùng neuroscience, quantum hay ND
 5. [[05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]]
 6. [[08 - Bát Chánh Đạo - Tám Chi Phần Của Một Hệ Thống]]
 
-### “Tôi Muốn Thực Hành, Không Chỉ Tích Lũy Khái Niệm”
+### “Tôi Muốn Học Cách Thực Hành”
 
-Bắt đầu bằng cách sống, rồi học quan sát và định tâm. Đừng lấy một kỹ thuật thiền ra khỏi giới, thân thể và điều kiện thật của mình:
+Hãy bắt đầu từ cách sống và cách đối xử với người khác. Sau đó mới đi vào chánh niệm, hơi thở và định tâm. Đừng tách thiền khỏi giới, sức khỏe và hoàn cảnh thật của mình:
 
 [[09 - Giới, Định, Tuệ Và Lộ Trình Tu Tập Tuần Tự]] → [[23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh]] → [[24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm]] → [[25 - Ānāpānasati - Toàn Bộ Con Đường Trong Một Hơi Thở]] → [[26 - Chỉ Và Quán - Samatha Và Vipassanā Có Thật Sự Tách Đôi]] → [[27 - Bốn Tầng Thiền - Jhāna Từ Kinh Sớm Đến Các Cách Giải Thích]] → [[28 - Bốn Tâm Vô Lượng Và Upekkhā]]
 
 > [!warning] An toàn thực hành
 > Thiền không thay chăm sóc y khoa hoặc tâm thần. Khi có hoảng loạn, phân ly, khó thở, hưng cảm, loạn thần, mất ngủ nặng, suy giảm chức năng hoặc ý nghĩ tự hại, hãy giảm hoặc dừng tăng cường thực hành và tìm hỗ trợ chuyên môn phù hợp.
 
-### “Tôi Muốn Đi Sâu Vào Nghiệp, Tái Sinh, Nibbāna Và Vi Diệu Pháp”
+### “Tôi Muốn Tìm Hiểu Nghiệp, Tái Sinh Và Nibbāna”
 
-Đi sâu không có nghĩa tin mạnh hơn. Nó nghĩa giữ nhiều layer trong đầu mà không trộn Kinh sớm, hệ thống Theravāda hậu kỳ và suy luận hiện đại thành một giọng nói:
+Đi sâu không có nghĩa phải tin mạnh hơn. Điều quan trọng là phân biệt rõ: đâu là lời Kinh sớm, đâu là cách Theravāda giải thích về sau, và đâu là suy luận hiện đại:
 
 [[17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt]] → [[19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ]] → [[20 - Tái Sinh Mà Không Có Linh Hồn]] → [[29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc]] → [[31 - Bốn Thánh Quả Và Mười Kiết Sử]] → [[32 - Nibbāna - Không Phải Cõi Thứ 32]] → [[33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna]] → [[35 - Paṭṭhāna - Hai Mươi Bốn Duyên Và Mạng Điều Kiện]] → [[36 - Theravāda Và Khoa Học Hiện Đại - Điểm Gặp, Giới Hạn Và Lối Tắt Sai]]
 
 ---
 
-## Bảy Học Phần — Một Con Đường, Không Phải Bảy Ngăn Kéo
+## Bảy Học Phần Của Cùng Một Con Đường
 
 ### I. Cửa Vào Và Bản Đồ Nguồn · 4 bài
 
-Trước khi hỏi “Phật giáo nói gì?”, cần biết **ai đang nói, nói trong lớp văn bản nào và mình đang mang giả định gì vào câu chữ**. Học phần này dựng nền để những bài sau không biến thành quote collection.
+Trước khi hỏi “Phật giáo nói gì?”, cần biết **ai đang nói, nói trong lớp văn bản nào và mình đang mang giả định gì vào câu chữ**. Học phần này dựng nền để những bài sau không trở thành một tuyển tập câu trích dẫn rời rạc.
 
 1. [[01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết]]
 2. [[02 - Theravāda Là Gì - Truyền Thừa, Phạm Vi Và Những Hiểu Lầm]]
@@ -70,7 +70,7 @@ Trước khi hỏi “Phật giáo nói gì?”, cần biết **ai đang nói, n
 
 ### II. Xương Sống Giáo Pháp · 6 bài
 
-Dukkha không chỉ là lúc đời sụp. Nó còn nằm trong cách mình đòi một điều đang đổi phải ở lại. Từ đó, học phần theo cơ chế khổ được nuôi và con đường không tiếp tục cấp nhiên liệu.
+Khổ không chỉ xuất hiện khi đời sống sụp đổ. Nó còn nằm trong cách mình cố giữ một điều đang thay đổi. Học phần này giải thích khổ được nuôi như thế nào và con đường giúp ngừng nuôi nó.
 
 1. [[05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường]]
 2. [[06 - Dukkha - Khổ Không Chỉ Là Đau Đớn]]
@@ -81,7 +81,7 @@ Dukkha không chỉ là lúc đời sụp. Nó còn nằm trong cách mình đò
 
 ### III. Giải Phẫu Kinh Nghiệm Và Cái Tôi · 6 bài
 
-Một lời chê có thể dựng cả một “tôi bị xúc phạm” trong vài giây. Học phần này tháo khối ấy thành uẩn, căn, xúc, thọ, thức và các tiến trình dựng bản sắc — không để phủ nhận con người, mà để thấy chỗ tự do còn có thể xuất hiện.
+Một lời chê có thể tạo ra cảm giác “tôi bị xúc phạm” chỉ trong vài giây. Học phần này tách trải nghiệm ấy thành các phần có thể quan sát: thân, cảm thọ, nhận biết, ý nghĩ và phản ứng. Mục đích không phải phủ nhận con người, mà là thấy mình còn có thể lựa chọn ở đâu.
 
 1. [[11 - Năm Uẩn - Con Người Được Lắp Ráp Như Thế Nào]]
 2. [[12 - Sáu Căn Và Sáu Trần - Thế Giới Xuất Hiện Ở Đâu]]
@@ -92,7 +92,7 @@ Một lời chê có thể dựng cả một “tôi bị xúc phạm” trong v
 
 ### IV. Duyên Khởi, Nghiệp Và Tái Sinh · 6 bài
 
-Không có sổ điểm vũ trụ, nhưng hành động vẫn có trọng lượng. Không có linh hồn bất biến, nhưng continuity không vì thế biến mất. Học phần giữ các câu hỏi khó ở đúng độ sâu mà không lấp khoảng trống bằng certainty giả.
+Không có một cuốn sổ vô hình ghi điểm mọi hành động, nhưng việc mình làm vẫn có hậu quả. Phật giáo không đặt một linh hồn bất biến ở giữa các đời, nhưng vẫn nói đến sự tiếp nối của nhân và quả. Học phần này giữ những câu hỏi khó ở trạng thái mở, thay vì lấp chỗ chưa biết bằng lời khẳng định chắc chắn.
 
 1. [[17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt]]
 2. [[18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc]]
@@ -103,7 +103,7 @@ Không có sổ điểm vũ trụ, nhưng hành động vẫn có trọng lượ
 
 ### V. Con Đường Thực Hành · 6 bài
 
-Thiền không phải nơi trốn khỏi đời. Giới, niệm, định, hơi thở, jhāna và bốn tâm vô lượng chỉ có ý nghĩa khi chúng làm mình bớt gây hại, bớt bị kéo và rõ hơn về điều cần làm.
+Thiền không phải nơi trốn khỏi đời. Giới, chánh niệm, định tâm, hơi thở, các tầng thiền và bốn tâm vô lượng chỉ có ý nghĩa khi chúng giúp mình bớt gây hại, bớt bị phản ứng kéo đi và rõ hơn về điều cần làm.
 
 1. [[23 - Năm Giới Và Đạo Đức Không Dựa Trên Thần Lệnh]]
 2. [[24 - Tứ Niệm Xứ - Bốn Nền Tảng Của Chánh Niệm]]
@@ -114,7 +114,7 @@ Thiền không phải nơi trốn khỏi đời. Giới, niệm, định, hơi t
 
 ### VI. Vũ Trụ, Giác Ngộ Và Nibbāna · 4 bài
 
-Cõi cao vẫn vô thường. Trải nghiệm lớn vẫn có thể bị bản ngã chiếm. Nibbāna không phải tầng thứ 32 để một cái tôi chuyển nhà tới. Học phần này đọc vũ trụ luận nghiêm túc mà không biến nó thành fear porn hoặc sci-fi được gọi là Kinh.
+Cõi cao vẫn vô thường. Một trải nghiệm mạnh vẫn có thể bị cái tôi chiếm lấy. Nibbāna không phải cõi thứ 32 để một linh hồn chuyển đến. Học phần này đọc vũ trụ luận một cách nghiêm túc, nhưng không biến nó thành nội dung gieo sợ hãi hoặc chuyện giả tưởng được gắn nhãn Kinh.
 
 1. [[29 - Bản Đồ 31 Cõi - 11 Dục, 16 Sắc, 4 Vô Sắc]]
 2. [[30 - Chư Thiên, Phạm Thiên, A-tu-la Và Bốn Đọa Xứ]]
@@ -123,7 +123,7 @@ Cõi cao vẫn vô thường. Trải nghiệm lớn vẫn có thể bị bản n
 
 ### VII. Vi Diệu Pháp Và Cầu Nối Hiện Đại · 4 bài
 
-Bản đồ càng chi tiết càng dễ bị nhầm với thực tại. Học phần cuối đọc Abhidhamma như hệ phân tích Theravāda có giá trị riêng, đồng thời giữ ranh giới với Kinh sớm, sách thủ bản và khoa học hiện đại.
+Bản đồ càng chi tiết càng dễ bị nhầm với thực tại. Học phần cuối giới thiệu Vi Diệu Pháp như một hệ phân tích của Theravāda, đồng thời phân biệt nó với Kinh sớm, sách hướng dẫn về sau và khoa học hiện đại.
 
 1. [[33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna]]
 2. [[34 - Tâm Sở Và Sát-na Tâm - Bản Đồ Vi Mô Của Kinh Nghiệm]]
@@ -132,14 +132,14 @@ Bản đồ càng chi tiết càng dễ bị nhầm với thực tại. Học ph
 
 ---
 
-## Khi Bạn Muốn Kiểm Nguồn Thay Vì Chỉ Tin Bài Viết
+## Khi Bạn Muốn Tự Kiểm Tra Nguồn
 
 1. [[Từ Điển Pāli Cốt Lõi]] — thuật ngữ, dấu phụ, cách đọc gần đúng và nghĩa theo văn cảnh.
 2. [[Chuẩn Nguồn Và Xuất Xứ Theravāda]] — phân biệt Kinh sớm, Luật, Abhidhamma, chú giải, nghiên cứu lịch sử và diễn giải hiện đại.
 3. [[Mục Lục Kinh Dẫn Pāli]] — mã Kinh, segment Pāli và các bài sử dụng.
 4. [[Tiến Độ Chương Trình Theravāda]] — manifest 36/36 và trạng thái kiểm định.
 
-> [!info] Bốn câu hỏi để mang theo qua toàn bộ series
+> [!info] Bốn câu hỏi để mang theo qua toàn bộ lộ trình
 > 1. **Văn bản nói gì?**
 > 2. **Truyền thống giải thích gì?**
 > 3. **Bài này đang suy luận gì?**
@@ -147,7 +147,7 @@ Bản đồ càng chi tiết càng dễ bị nhầm với thực tại. Học ph
 
 “Canonical Theravāda” không tự động đồng nghĩa “Kinh sớm”. Abhidhamma và chú giải được tôn trọng bằng cách gọi đúng lớp, không gán ngược thành lời trực tiếp của Đức Phật. Khoa học có thể nghiên cứu sức khỏe, nhận thức và an toàn; nó không tự xác nhận nghiệp, tái sinh, 31 cõi, Nibbāna hoặc sát-na tâm.
 
-Những bài [[Nhân Quả]], [[Luân Hồi]], [[Vũ Trụ Học Phật Giáo]], [[Atula]], [[Núi Tu Di]] và [[Tâm bất Biến]] vẫn là cầu nối esoterica/mental model. Khi có xung đột về nguồn Theravāda, domain này giữ thẩm quyền cho phần Kinh–Luật–Vi Diệu Pháp.
+Những bài [[Nhân Quả]], [[Luân Hồi]], [[Vũ Trụ Học Phật Giáo]], [[Atula]], [[Núi Tu Di]] và [[Tâm bất Biến]] vẫn là các bài đọc liên quan ở những chủ đề khác. Khi có khác biệt về nguồn Theravāda, phần Kinh–Luật–Vi Diệu Pháp trong lộ trình này được ưu tiên.
 
 > [!success] Trạng thái
 > **36/36 bài đã xuất bản · 252/252 phần nội dung đã qua full-body voice review · 119/119 khối Pāli exact và semantic pass.** Bốn tài liệu nền không tính vào tổng số bài học.

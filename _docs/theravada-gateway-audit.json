@@ -1,5 +1,5 @@
 {
-  "schema": "theravada-gateway-audit.v1",
+  "schema": "theravada-gateway-audit.v2",
   "lessons": 36,
   "module_counts": [
     4,
@@ -10,9 +10,11 @@
     4,
     4
   ],
-  "quick_paths": 3,
+  "reader_paths": 3,
   "safety_present": true,
   "core_not_encyclopedia": true,
-  "vault_voice_present": true,
+  "plain_vietnamese": true,
+  "avoidable_english": 0,
+  "overlong_sentences": 0,
   "all_pass": true
 }
