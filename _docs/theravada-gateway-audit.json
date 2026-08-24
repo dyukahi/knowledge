@@ -1,0 +1,18 @@
+{
+  "schema": "theravada-gateway-audit.v1",
+  "lessons": 36,
+  "module_counts": [
+    4,
+    6,
+    6,
+    6,
+    6,
+    4,
+    4
+  ],
+  "quick_paths": 3,
+  "safety_present": true,
+  "core_not_encyclopedia": true,
+  "vault_voice_present": true,
+  "all_pass": true
+}
