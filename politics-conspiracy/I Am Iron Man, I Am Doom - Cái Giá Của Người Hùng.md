@@ -390,6 +390,43 @@ Mà là cái bóng của giấc mơ cứu thế trở về để hỏi: khi mộ
 
 ---
 
+## 9. Hollywood Vẫy Đũa — Khán Giả Tự Hoàn Thành Phép Thuật
+
+Trên bề mặt, *Doomsday* hỏi một câu quen thuộc:
+
+> Avengers có đánh bại Doom không?
+
+Nhưng dưới màn đánh nhau, cameo và cảnh hủy diệt, phim có thể đang cho khán giả tập trước một câu hỏi khác:
+
+> Nếu thế giới cũ sụp đổ và chỉ một người có khả năng cứu phần còn lại, ta sẵn sàng trao cho người ấy bao nhiêu quyền?
+
+Đây là cách [[Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood vẫy đũa]]. Nó không cần đứng trước màn hình nói: “Hãy chấp nhận vua kỹ trị.” Nó chỉ cần để người xem cảm thấy tình thế đủ tuyệt vọng, giải pháp đủ đẹp và người cai trị đủ có lý.
+
+Trong lúc attention tập trung vào Thor mất tay, Bucky hy sinh, Sentry giữ hai Trái Đất và các đội quân đụng nhau, một cấu trúc khác được đưa vào trí tưởng tượng:
+
+- có lúc phải hủy một thế giới để cứu thế giới khác;
+- ký ức có thể bị xóa nếu nhờ đó xã hội ổn định;
+- người dân có thể hạnh phúc hơn khi không biết sự thật;
+- quyền lực tuyệt đối có thể được xem là cần thiết trong khủng hoảng tuyệt đối;
+- người muốn trả lại lịch sử cũ có thể bị nhìn như kẻ phá hoại hòa bình;
+- một nhà độc tài vẫn có thể là người duy nhất có kế hoạch hoạt động.
+
+Hollywood không bắt khán giả ký vào kết luận. Nó để người xem tự tranh luận trong lòng:
+
+> Doom sai… nhưng nếu không có hắn thì tất cả đã chết.
+
+Khi khán giả tự nói câu ấy, phép thuật mạnh hơn một bài tuyên truyền trực tiếp. Người xem đã tham gia tạo ra tính chính danh cho Doom.
+
+Đây không chứng minh Marvel đang công bố trước một kế hoạch reset ngoài đời thật. Một câu chuyện cũng có thể chỉ phản ánh nỗi lo tập thể về khủng hoảng, trí tuệ nhân tạo, chiến tranh và quyền lực kỹ trị. Nhưng dù là predictive programming có chủ ý hay unconscious myth của thời đại, hiệu ứng tâm lý vẫn đáng quan sát:
+
+1. Ta tưởng tượng thế giới cũ kết thúc.
+2. Ta chấp nhận tự do là thứ quá nguy hiểm để giữ trong lúc sụp đổ.
+3. Ta tập cảm thông với người cứu mình bằng cách quyết định thực tại thay mình.
+
+Trận chiến là màn khói. Câu hỏi về tính chính danh mới là payload.
+
+Hollywood vẫy đũa. Khán giả cung cấp phần còn lại của niềm tin.
+
 ## Kỷ Luật Đọc
 
 | Tầng | Điều có thể nói |
