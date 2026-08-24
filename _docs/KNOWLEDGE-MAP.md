@@ -7,7 +7,7 @@
 - **Notes scanned:** 289
 - **Top-level domains:** 9
 - **Tags detected:** 313
-- **Resolved internal edges:** 2462
+- **Resolved internal edges:** 2465
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 22
 
@@ -82,7 +82,7 @@ Recommended note types:
 - [[politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood|Tam Giác Mind Control - NASA, Disney, Hollywood]] — degree `25`, backlinks `19`, outlinks `6` — #hollywood, #mind-control, #politics-conspiracy, #science-tech
 - [[politics-conspiracy/Bức Tường Băng|Bức Tường Băng (Ice Wall)]] — degree `24`, backlinks `12`, outlinks `12` — #esoterica, #politics-conspiracy
 - [[politics-conspiracy/Khế Ước Bí Mật Rockefeller|Khế Ước Bí Mật Rockefeller (The Secret Covenant)]] — degree `21`, backlinks `10`, outlinks `11` — #conspiracy, #control, #elite, #matrix, #politics-conspiracy
-- [[politics-conspiracy/Mudflood|Mudflood (Đại Hồng Thủy Bùn)]] — degree `20`, backlinks `8`, outlinks `12` — #politics-conspiracy
+- [[politics-conspiracy/Mudflood|Mudflood (Đại Hồng Thủy Bùn)]] — degree `21`, backlinks `9`, outlinks `12` — #politics-conspiracy
 - [[politics-conspiracy/Thuyết Trái Đất Phẳng|Thuyết Trái Đất Phẳng (Flat Earth Theory)]] — degree `20`, backlinks `13`, outlinks `7` — #cosmology, #epistemology, #esoterica, #politics-conspiracy
 - [[politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ|Nam Cực - Bí Mật Được Canh Giữ]] — degree `19`, backlinks `7`, outlinks `12` — #antarctica, #conspiracy, #elite, #flat-earth, #nazi
 - … 16 more notes in this domain. See JSON for full list.

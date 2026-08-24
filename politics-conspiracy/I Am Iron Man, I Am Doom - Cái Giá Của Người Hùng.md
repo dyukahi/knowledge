@@ -10,6 +10,9 @@ related:
   - "[[Mỹ Là Ai Cập Tái Sinh]]"
   - "[[Hollywood - Cây Đũa Phép Của Phù Thủy]]"
   - "[[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]"
+  - "[[Tartaria]]"
+  - "[[Mudflood]]"
+  - "[[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]]"
 ---
 
 # I Am Iron Man, I Am Doom — Cái Giá Của Người Hùng
@@ -210,7 +213,86 @@ Cả hai đều sửa thực tại. Khác biệt nằm ở **ai trả giá** và
 
 ---
 
-## 5. Cùng Khuôn Mặt RDJ Là Một Cái Bẫy Dành Cho Khán Giả
+## 5. Battleworld Là Một Cuộc Reset Lịch Sử Hoàn Chỉnh
+
+Battleworld chạm rất gần một cụm motif đã có trong vault: [[Tartaria]], [[Mudflood]], thế kỷ trống, kiến trúc thế giới cũ và [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]].
+
+Không phải vì Marvel chứng minh các giả thuyết ấy. Mà vì Battleworld dùng đúng cùng một kiến trúc reset:
+
+```mermaid
+flowchart TD
+    A["Old worlds collapse"]
+    B["Surviving fragments are collected"]
+    C["Population is redistributed"]
+    D["Memory and lineage are erased"]
+    E["New roles and families are assigned"]
+    F["The ruler writes the official past"]
+    G["Witnesses who remember become threats"]
+    A --> B --> C --> D --> E --> F --> G
+```
+
+### Incursion Là Đại Hồng Thủy Của Đa Vũ Trụ
+
+Trong cụm Tartaria/Mudflood, reset bắt đầu bằng một thảm họa làm đứt lịch sử cũ. Thành phố bị chôn, dân số biến mất, công trình còn lại nhưng câu chuyện về người xây bị thay thế.
+
+Trong *Doomsday*, Incursion làm việc tương tự ở cấp vũ trụ. Các Trái Đất không chỉ thua trận. Chúng bị nghiền thành mảnh. Earth-96238 biến mất. Earth-10005 biến mất. Earth-616 và 828 va vào nhau. Khi Battleworld xuất hiện, không còn thế giới gốc nào đủ nguyên vẹn để phản bác lịch sử mới.
+
+Doom không cần đốt toàn bộ thư viện. Hắn phá chính nơi mà thư viện từng thuộc về.
+
+### Kiến Trúc Cũ Còn Đó, Nhưng Chủ Nhân Cũ Biến Mất
+
+Leak nói trên Battleworld vẫn có thể thấy tàn tích Tòa nhà Baxter và Tháp Avengers, còn lâu đài Doom nguyên vẹn.
+
+Đây là motif old-world architecture rất rõ:
+
+- công trình của thời đại trước vẫn đứng;
+- người xây và mục đích cũ không còn được nhớ;
+- chế độ mới chiếm dụng di tích;
+- lịch sử chính thức gán mọi trật tự còn lại cho người chiến thắng.
+
+Một đứa trẻ sinh ra trên Battleworld có thể nhìn các tòa tháp ấy nhưng không biết từng tồn tại Fantastic Four hay Avengers. Với nó, các di tích chỉ là phần tự nhiên của thế giới Doom luôn cai trị.
+
+Kiến trúc tồn tại lâu hơn ký ức. Người kiểm soát ký ức sẽ được quyền đặt tên lại kiến trúc.
+
+### Orphan Train Ở Cấp Độ Cả Thế Giới
+
+Orphan Train trong vault không chỉ là đoàn tàu chở trẻ không cha mẹ. Nó là motif **tách con người khỏi dòng máu, tên cũ và ký ức gốc**, rồi đưa họ vào một trật tự mới nơi lịch sử được dạy lại từ đầu.
+
+Battleworld thực hiện điều ấy với toàn bộ dân số.
+
+Sue không còn là vợ Reed mà trở thành vợ Doom. Franklin không còn là con Reed. Bé gái chưa sinh được đặt vào gia đình mới. Thor trở thành người dẫn Thor Corps. Strange trở thành cảnh sát trưởng. Những người từng là Avengers, X-Men và Fantastic Four được phân lại vai như trẻ em bước xuống một chuyến tàu mà không nhớ ga xuất phát.
+
+Họ không nhất thiết cảm thấy mình bị bắt cóc. Ký ức về gia đình cũ đã mất, nên gia đình mới có vẻ hoàn toàn tự nhiên.
+
+Đây là dạng orphan sâu nhất: không chỉ mất cha mẹ, mà mất luôn khả năng nhớ rằng mình từng có cha mẹ khác.
+
+### Reed Là Người Sống Qua “Thế Kỷ Trống”
+
+Doom giữ ký ức cho Reed. Đây có thể là hình phạt tàn nhẫn nhất trong leak.
+
+Tất cả mọi người sống trong hiện tại mới như thể nó luôn tồn tại. Chỉ Reed biết có một khoảng lịch sử đã bị xóa. Anh nhìn vợ mình làm vợ Doom, con mình gọi Doom là cha, và một thế giới vận hành bình thường trên nền của nhiều thế giới đã chết.
+
+Reed là nhân chứng của thế kỷ trống: người biết giữa lịch sử cũ và lịch sử chính thức có một đoạn bị cắt, nhưng không còn archive công khai để chứng minh.
+
+Tobey Spider-Man và Wolverine trong The Void cũng giữ ký ức. Họ là oral history sống sót ngoài hệ thống — hai người mang câu chuyện mà Battleworld không thể cho phép trở về.
+
+Một chế độ xây trên ký ức giả có thể chịu được quân nổi dậy. Nó khó chịu được nhân chứng nhớ đúng.
+
+### Reset Thành Công Nhất Khi Đời Sống Mới Có Vẻ Tốt Hơn
+
+Nếu Battleworld chỉ có đau khổ, người dân sẽ muốn lật Doom. Nhưng nếu nó an toàn, đủ ăn và có trật tự, ký ức cũ trở thành mối đe dọa đối với chính hạnh phúc hiện tại.
+
+Đó là câu hỏi khó nhất của mọi reset-history thesis:
+
+> Nếu chế độ mới thực sự cho phần lớn người dân một đời sống ổn định hơn, sự thật về thế giới bị xóa có còn đủ để biện minh cho việc phá trật tự ấy không?
+
+Lịch sử không chỉ được viết lại bằng bạo lực. Nó được bảo vệ bằng lợi ích của những người đang sống tốt trong phiên bản mới.
+
+Ở tầng pattern, Doom không chỉ là God Emperor. Hắn là người giữ archive, đặt lịch, phân vai gia đình và quyết định quá khứ nào được phép tồn tại.
+
+Battleworld là một thế giới sau reset nơi vị vua không chỉ sở hữu đất. Hắn sở hữu **ký ức về việc đất ấy từng là gì**.
+
+## 6. Cùng Khuôn Mặt RDJ Là Một Cái Bẫy Dành Cho Khán Giả
 
 Marvel xác nhận Robert Downey Jr. đóng Victor von Doom. Nhưng Marvel chưa xác nhận Doom là một biến thể Tony Stark. Bản leak được lưu lại còn nói không có liên hệ cốt truyện trực tiếp giữa hai người.
 
@@ -235,7 +317,7 @@ Trong vault, đây cũng là lý do Dr. Doom thường được đặt cạnh ar
 
 ---
 
-## 6. Mắt Bầm Của Robert Downey Jr.: Fact, Tin Đồn Và Biểu Tượng
+## 7. Mắt Bầm Của Robert Downey Jr.: Fact, Tin Đồn Và Biểu Tượng
 
 Có ảnh Robert Downey Jr. xuất hiện với vùng mắt trái bị bầm vào khoảng năm 2005. Hình ảnh ấy là có thật và đã được các trang báo đại chúng đăng lại.
 
@@ -271,7 +353,7 @@ Con mắt là cơ quan của việc thấy. Một mắt bị thương gợi hìn
 
 ---
 
-## 7. Doom Là Hóa Đơn Chưa Thanh Toán Của Endgame
+## 8. Doom Là Hóa Đơn Chưa Thanh Toán Của Endgame
 
 Tony chết, nên anh không còn ở đó để trả lời hậu quả dài hạn của time heist.
 
