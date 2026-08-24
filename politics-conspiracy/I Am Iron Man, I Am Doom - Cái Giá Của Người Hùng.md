@@ -19,15 +19,13 @@ related:
 
 **Tony Stark chết để cứu một thực tại. Doctor Doom có thể xuất hiện để hỏi thực tại ấy đã được cứu bằng cuộc đời của ai.**
 
-*Tony Stark died to save a reality. Doctor Doom may arrive to ask whose lives that reality was built upon.*
-
 Marvel bắt đầu đế chế điện ảnh của mình bằng khuôn mặt Robert Downey Jr. Một thiên tài đứng trước thế giới, thú nhận mình là người mặc giáp, rồi biến câu **“I am Iron Man”** thành lời khai sinh của MCU.
 
 Gần hai thập kỷ sau, cùng khuôn mặt ấy trở lại. Không còn ánh đỏ-vàng. Không còn lò phản ứng phát sáng trên ngực. Chỉ còn mặt nạ sắt, áo choàng xanh và một lời tự xưng khác:
 
 > **I’m Doom.**
 
-Nếu đây chỉ là casting stunt, nó đã đủ mạnh. Nhưng đặt cạnh cái chết của Tony trong *Endgame*, bản leak *Avengers: Doomsday*, lời cảnh báo về những **“cuộc đời bị đánh cắp”** và hình ảnh Robert Downey Jr. từng xuất hiện với một bên mắt bầm, ta có một cấu trúc biểu tượng sâu hơn.
+Nếu đây chỉ là chiêu chọn diễn viên, nó đã đủ mạnh. Nhưng đặt cạnh cái chết của Tony trong *Endgame*, bản rò rỉ *Avengers: Doomsday*, lời cảnh báo về những **“cuộc đời bị đánh cắp”** và hình ảnh Robert Downey Jr. từng xuất hiện với một bên mắt bầm, ta có một cấu trúc biểu tượng sâu hơn.
 
 Đây không phải bằng chứng Marvel đang thực hiện nghi lễ bí mật. Đây là cách đọc một câu chuyện đang dùng cùng một gương mặt để đặt hai hình thái quyền lực cạnh nhau:
 
@@ -76,7 +74,7 @@ Cú búng tay của Hulk đưa những người bị Thanos xóa trở lại. Nh
 
 Marvel kể quyết định ấy từ phía những người được cứu. Từ góc nhìn ấy, Avengers là anh hùng.
 
-Nhưng Multiverse Saga mở một góc nhìn khác: điều gì xảy ra với những timeline bị can thiệp? Một lựa chọn cứu Earth-616 có thể tạo Incursion ở thế giới khác. Một người được trả lại cuộc đời có thể vô tình chiếm mất cuộc đời người khác đã xây trong năm năm vắng họ.
+Nhưng Kỷ nguyên Đa vũ trụ mở một góc nhìn khác: điều gì xảy ra với những dòng thời gian bị can thiệp? Một lựa chọn cứu Earth-616 có thể tạo Incursion ở thế giới khác. Một người được trả lại cuộc đời có thể vô tình chiếm mất cuộc đời người khác đã xây trong năm năm vắng họ.
 
 Đây là nơi lời buộc tội **“stolen lives”** có sức nặng. Người hùng không cần có ý định xấu để lấy mất đời người khác. Chỉ cần họ có quyền quyết định thực tại nào đáng được giữ, còn những người bị ảnh hưởng không có mặt trong căn phòng quyết định.
 
@@ -90,7 +88,7 @@ Doom gọi cùng quyền lực ấy là cai trị.
 
 ## 3. Bốn Thế Giới Và Một Phép Toán: Ai Phải Chết Để Ai Được Sống?
 
-Phần này thuộc **leak claim**, chưa phải canon đã phát hành.
+Phần này thuộc **tình tiết rò rỉ**, chưa phải canon đã phát hành.
 
 Bản leak đầy đủ làm rõ cấu trúc đa vũ trụ hơn bản tóm tắt đầu tiên:
 
@@ -101,13 +99,13 @@ Bản leak đầy đủ làm rõ cấu trúc đa vũ trụ hơn bản tóm tắt
 | **Earth-828** | Thế giới Fantastic Four và Doom. Loki đưa gia đình Steve tới đây. Sự hiện diện của họ góp phần tạo biến cố giết gia đình Doom. |
 | **Earth-616** | Thế giới MCU chính. Avengers và Wakanda dựng khẩu đại bác thứ ba; cuối cùng va chạm với Earth-828. |
 
-Opening đã đặt câu hỏi đạo đức ngay lập tức. Magneto, Deadpool và Wolverine không phá Earth-96238 vì ghét Spider-Man. Họ làm vậy vì tin rằng nếu không hủy một thế giới, cả hai sẽ chết.
+Cảnh mở đầu đã đặt câu hỏi đạo đức ngay lập tức. Magneto, Deadpool và Wolverine không phá Earth-96238 vì ghét Spider-Man. Họ làm vậy vì tin rằng nếu không hủy một thế giới, cả hai sẽ chết.
 
 Tobey Spider-Man chống lại họ vì từ góc nhìn người đang bị chọn làm vật hy sinh, “không còn lựa chọn nào khác” chỉ là cách kẻ có bom giải thích quyền giết thế giới mình.
 
-Đến Act 2, chính Earth-10005 — thế giới từng hy sinh Earth-96238 — lại bị Doom đẩy vào hủy diệt. Nạn nhân của một Incursion trở thành thủ phạm ở Incursion trước, rồi lại thành nạn nhân của Incursion sau. Không phe nào giữ được vị trí anh hùng vĩnh viễn.
+Đến hồi hai, chính Earth-10005 — thế giới từng hy sinh Earth-96238 — lại bị Doom đẩy vào hủy diệt. Nạn nhân của một Incursion trở thành thủ phạm ở Incursion trước, rồi lại thành nạn nhân của Incursion sau. Không phe nào giữ được vị trí anh hùng vĩnh viễn.
 
-Sau khi Earth-10005 biến mất, Final Incursion còn lại Earth-616 và Earth-828. Doom để hai thế giới va chạm, dùng tim Loki, Franklin Richards và ma thuật để tái tạo những mảnh vỡ thành Battleworld.
+Sau khi Earth-10005 biến mất, cuộc Va chạm Cuối cùng còn lại Earth-616 và Earth-828. Doom để hai thế giới va chạm, dùng tim Loki, Franklin Richards và ma thuật để tái tạo những mảnh vỡ thành Battleworld.
 
 Toàn bộ phim, nếu leak đúng, được xây trên cùng một phép toán:
 
@@ -116,11 +114,11 @@ Toàn bộ phim, nếu leak đúng, được xây trên cùng một phép toán:
 
 ### Steve Rogers Là Bằng Chứng Sống Cho Cáo Buộc Của Doom
 
-Theo leak, Steve trở về quá khứ, sống cùng Peggy và có con trai tên James. Loki chống lệnh TVA để cứu happy ending ấy, đưa gia đình Steve sang Earth-828.
+Theo bản rò rỉ, Steve trở về quá khứ, sống cùng Peggy và có con trai tên James. Loki chống lệnh TVA để cứu kết thúc có hậu ấy, đưa gia đình Steve sang Earth-828.
 
 Nhìn từ Earth-616, Steve cuối cùng được trả lại cuộc đời chiến tranh đã lấy khỏi anh.
 
-Nhìn từ phía Doom, Steve đã sống một cuộc đời không thuộc timeline mình. Việc Loki đặt gia đình ấy vào Earth-828 làm thí nghiệm của Doom phát nổ, giết vợ con hắn và phá hủy khuôn mặt hắn.
+Nhìn từ phía Doom, Steve đã sống một cuộc đời không thuộc dòng thời gian mình. Việc Loki đặt gia đình ấy vào Earth-828 làm thí nghiệm của Doom phát nổ, giết vợ con hắn và phá hủy khuôn mặt hắn.
 
 Bản leak mới còn làm tragedy nặng hơn: Doom cho một phù thủy giả dạng Peggy dẫn James tới, rồi giết cậu bé trước mặt Steve. Sau đó hắn giết Bucky trong trận cuối. Steve nhìn cả con trai lẫn người bạn lâu đời nhất chết vì hậu quả của một cuộc đời mà anh từng nghĩ là phần thưởng xứng đáng.
 
@@ -150,9 +148,9 @@ Tony đạt đỉnh khi buông quyền kiểm soát. Doom được sinh ra từ 
 
 Tony hiểu rằng bộ giáp không thể bảo vệ mọi người mãi. Doom kết luận phải xây một thế giới nơi không ai còn khả năng làm trái kế hoạch của hắn.
 
-Đó là lý do Battleworld quan trọng. Theo leak, Doom không chỉ hồi sinh những người đã chết. Hắn xóa ký ức của họ và cho mỗi người một cuộc đời mới. Không ai nhớ thế giới trước đó, nên không ai có cơ sở phản đối thế giới hiện tại.
+Đó là lý do Battleworld quan trọng. Theo bản rò rỉ, Doom không chỉ hồi sinh những người đã chết. Hắn xóa ký ức của họ và cho mỗi người một cuộc đời mới. Không ai nhớ thế giới trước đó, nên không ai có cơ sở phản đối thế giới hiện tại.
 
-Leak đầy đủ cho thấy sự chiếm đoạt này rất cụ thể:
+Bản rò rỉ đầy đủ cho thấy sự chiếm đoạt này rất cụ thể:
 
 - Sue trở thành vợ Doom; Franklin và bé gái chưa sinh trở thành con hắn.
 - Reed là người hiếm hoi bị giữ ký ức để phải chứng kiến gia đình mình sống trong câu chuyện của Doom.
@@ -160,7 +158,7 @@ Leak đầy đủ cho thấy sự chiếm đoạt này rất cụ thể:
 - Strange trở thành cảnh sát trưởng, đứng cạnh Ancient One, Clea và Sylvie.
 - Những mảnh Earth-616 và Earth-828 nằm cạnh nhau như tàn tích, còn lâu đài Doom nguyên vẹn ở trung tâm.
 
-After-credit còn để Tobey Spider-Man và Wolverine sống trong The Void, mang theo thứ nguy hiểm nhất đối với một chế độ xây bằng ký ức giả: họ vẫn nhớ.
+Cảnh hậu danh đề còn để Tobey Spider-Man và Wolverine sống trong The Void, mang theo thứ nguy hiểm nhất đối với một chế độ xây bằng ký ức giả: họ vẫn nhớ.
 
 Battleworld vì vậy không chỉ là thế giới Doom cứu. Nó là một hệ điều hành lịch sử: ai giữ ký ức có thể biết thực tại đã bị đánh cắp; ai mất ký ức chỉ còn khả năng thờ người đã viết lại nó.
 
@@ -215,9 +213,9 @@ Cả hai đều sửa thực tại. Khác biệt nằm ở **ai trả giá** và
 
 ## 5. Battleworld Là Một Cuộc Reset Lịch Sử Hoàn Chỉnh
 
-Battleworld chạm rất gần một cụm motif đã có trong vault: [[Tartaria]], [[Mudflood]], thế kỷ trống, kiến trúc thế giới cũ và [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]].
+Battleworld chạm rất gần một cụm mô thức đã có trong vault: [[Tartaria]], [[Mudflood]], thế kỷ trống, kiến trúc thế giới cũ và [[Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu]].
 
-Không phải vì Marvel chứng minh các giả thuyết ấy. Mà vì Battleworld dùng đúng cùng một kiến trúc reset:
+Không phải vì Marvel chứng minh các giả thuyết ấy. Mà vì Battleworld dùng đúng cùng một cấu trúc tái lập:
 
 ```mermaid
 flowchart TD
@@ -233,7 +231,7 @@ flowchart TD
 
 ### Incursion Là Đại Hồng Thủy Của Đa Vũ Trụ
 
-Trong cụm Tartaria/Mudflood, reset bắt đầu bằng một thảm họa làm đứt lịch sử cũ. Thành phố bị chôn, dân số biến mất, công trình còn lại nhưng câu chuyện về người xây bị thay thế.
+Trong cụm Tartaria/Mudflood, cuộc tái lập bắt đầu bằng một thảm họa làm đứt lịch sử cũ. Thành phố bị chôn, dân số biến mất, công trình còn lại nhưng câu chuyện về người xây bị thay thế.
 
 Trong *Doomsday*, Incursion làm việc tương tự ở cấp vũ trụ. Các Trái Đất không chỉ thua trận. Chúng bị nghiền thành mảnh. Earth-96238 biến mất. Earth-10005 biến mất. Earth-616 và 828 va vào nhau. Khi Battleworld xuất hiện, không còn thế giới gốc nào đủ nguyên vẹn để phản bác lịch sử mới.
 
@@ -241,9 +239,9 @@ Doom không cần đốt toàn bộ thư viện. Hắn phá chính nơi mà thư
 
 ### Kiến Trúc Cũ Còn Đó, Nhưng Chủ Nhân Cũ Biến Mất
 
-Leak nói trên Battleworld vẫn có thể thấy tàn tích Tòa nhà Baxter và Tháp Avengers, còn lâu đài Doom nguyên vẹn.
+Bản rò rỉ nói trên Battleworld vẫn có thể thấy tàn tích Tòa nhà Baxter và Tháp Avengers, còn lâu đài Doom nguyên vẹn.
 
-Đây là motif old-world architecture rất rõ:
+Đây là mô thức kiến trúc thế giới cũ rất rõ:
 
 - công trình của thời đại trước vẫn đứng;
 - người xây và mục đích cũ không còn được nhớ;
@@ -256,7 +254,7 @@ Kiến trúc tồn tại lâu hơn ký ức. Người kiểm soát ký ức sẽ
 
 ### Orphan Train Ở Cấp Độ Cả Thế Giới
 
-Orphan Train trong vault không chỉ là đoàn tàu chở trẻ không cha mẹ. Nó là motif **tách con người khỏi dòng máu, tên cũ và ký ức gốc**, rồi đưa họ vào một trật tự mới nơi lịch sử được dạy lại từ đầu.
+Orphan Train trong vault không chỉ là đoàn tàu chở trẻ không cha mẹ. Nó là mô thức **tách con người khỏi dòng máu, tên cũ và ký ức gốc**, rồi đưa họ vào một trật tự mới nơi lịch sử được dạy lại từ đầu.
 
 Battleworld thực hiện điều ấy với toàn bộ dân số.
 
@@ -272,9 +270,9 @@ Doom giữ ký ức cho Reed. Đây có thể là hình phạt tàn nhẫn nhấ
 
 Tất cả mọi người sống trong hiện tại mới như thể nó luôn tồn tại. Chỉ Reed biết có một khoảng lịch sử đã bị xóa. Anh nhìn vợ mình làm vợ Doom, con mình gọi Doom là cha, và một thế giới vận hành bình thường trên nền của nhiều thế giới đã chết.
 
-Reed là nhân chứng của thế kỷ trống: người biết giữa lịch sử cũ và lịch sử chính thức có một đoạn bị cắt, nhưng không còn archive công khai để chứng minh.
+Reed là nhân chứng của thế kỷ trống: người biết giữa lịch sử cũ và lịch sử chính thức có một đoạn bị cắt, nhưng không còn kho tư liệu công khai để chứng minh.
 
-Tobey Spider-Man và Wolverine trong The Void cũng giữ ký ức. Họ là oral history sống sót ngoài hệ thống — hai người mang câu chuyện mà Battleworld không thể cho phép trở về.
+Tobey Spider-Man và Wolverine trong The Void cũng giữ ký ức. Họ là ký ức truyền miệng sống sót ngoài hệ thống — hai người mang câu chuyện mà Battleworld không thể cho phép trở về.
 
 Một chế độ xây trên ký ức giả có thể chịu được quân nổi dậy. Nó khó chịu được nhân chứng nhớ đúng.
 
@@ -282,15 +280,15 @@ Một chế độ xây trên ký ức giả có thể chịu được quân nổ
 
 Nếu Battleworld chỉ có đau khổ, người dân sẽ muốn lật Doom. Nhưng nếu nó an toàn, đủ ăn và có trật tự, ký ức cũ trở thành mối đe dọa đối với chính hạnh phúc hiện tại.
 
-Đó là câu hỏi khó nhất của mọi reset-history thesis:
+Đó là câu hỏi khó nhất của mọi giả thuyết tái lập lịch sử:
 
 > Nếu chế độ mới thực sự cho phần lớn người dân một đời sống ổn định hơn, sự thật về thế giới bị xóa có còn đủ để biện minh cho việc phá trật tự ấy không?
 
 Lịch sử không chỉ được viết lại bằng bạo lực. Nó được bảo vệ bằng lợi ích của những người đang sống tốt trong phiên bản mới.
 
-Ở tầng pattern, Doom không chỉ là God Emperor. Hắn là người giữ archive, đặt lịch, phân vai gia đình và quyết định quá khứ nào được phép tồn tại.
+Ở tầng mô thức, Doom không chỉ là Thần Đế. Hắn là người giữ kho tư liệu, đặt lịch, phân vai gia đình và quyết định quá khứ nào được phép tồn tại.
 
-Battleworld là một thế giới sau reset nơi vị vua không chỉ sở hữu đất. Hắn sở hữu **ký ức về việc đất ấy từng là gì**.
+Battleworld là một thế giới sau cuộc tái lập nơi vị vua không chỉ sở hữu đất. Hắn sở hữu **ký ức về việc đất ấy từng là gì**.
 
 ## 6. Cùng Khuôn Mặt RDJ Là Một Cái Bẫy Dành Cho Khán Giả
 
@@ -313,17 +311,17 @@ Iron Man là mặt sáng của nhà cứu thế công nghệ: thiên tài, khi�
 
 Doom là bóng tối của cùng hình tượng: nhà khoa học–pháp sư, vua kỹ trị, người vừa cứu thế vừa tin rằng chỉ mình đủ thông minh để cai trị.
 
-Trong vault, đây cũng là lý do Dr. Doom thường được đặt cạnh archetype Elon Musk. Iron Man là chiếc mặt nạ thân thiện của techno-savior. Doom là phần shadow: khi người xây hạ tầng bắt đầu tin rằng khả năng xây cho mình quyền quyết định thay người khác.
+Trong kho tri thức, đây cũng là lý do Dr. Doom thường được đặt cạnh hình mẫu Elon Musk. Iron Man là chiếc mặt nạ thân thiện của nhà cứu thế công nghệ. Doom là mặt tối: khi người xây hạ tầng bắt đầu tin rằng khả năng xây cho mình quyền quyết định thay người khác.
 
 ---
 
-## 7. Mắt Bầm Của Robert Downey Jr.: Fact, Tin Đồn Và Biểu Tượng
+## 7. Mắt Bầm Của Robert Downey Jr.: Sự Kiện, Tin Đồn Và Biểu Tượng
 
 Có ảnh Robert Downey Jr. xuất hiện với vùng mắt trái bị bầm vào khoảng năm 2005. Hình ảnh ấy là có thật và đã được các trang báo đại chúng đăng lại.
 
 Nhưng từ đó tới khẳng định RDJ tham gia một nghi lễ bí mật là một bước nhảy không có bằng chứng.
 
-Internet thường gom những bức ảnh người nổi tiếng, chính trị gia hoặc thành viên hoàng gia bị bầm quanh mắt vào khái niệm **“Black Eye Club”**. Một số phiên bản nói đây là dấu hiệu gia nhập Illuminati, “ăn đau” để được trao quyền lực, hoặc thậm chí “soul scalping”. Những câu chuyện này không có bằng chứng đáng tin cho thấy một tổ chức hay nghi thức như vậy thật sự tồn tại.
+Internet thường gom những bức ảnh người nổi tiếng, chính trị gia hoặc thành viên hoàng gia bị bầm quanh mắt vào khái niệm **““Hội Mắt Bầm””**. Một số phiên bản nói đây là dấu hiệu gia nhập Illuminati, “ăn đau” để được trao quyền lực, hoặc thậm chí “lột linh hồn”. Những câu chuyện này không có bằng chứng đáng tin cho thấy một tổ chức hay nghi thức như vậy thật sự tồn tại.
 
 Nhiều trường hợp có giải thích bình thường:
 
@@ -344,10 +342,10 @@ Con mắt là cơ quan của việc thấy. Một mắt bị thương gợi hìn
 Điểm dark nằm ở sự cộng hưởng:
 
 - Tony là người thấy tương lai Thanos và bị ám ảnh bởi điều đã thấy.
-- Doom là người thấy nhiều reality cùng lúc và kết luận phải kiểm soát chúng.
+- Doom là người thấy nhiều thực tại cùng lúc và kết luận phải kiểm soát chúng.
 - Cùng diễn viên từng được chụp với một bên mắt bầm trở thành khuôn mặt của hai thiên tài “nhìn xa hơn người khác”.
 
-Đây là symbolic reading, không phải hồ sơ buộc tội.
+Đây là cách đọc biểu tượng, không phải hồ sơ buộc tội.
 
 ![Một chiếc mặt nạ kim loại nứt ở vùng mắt trái, phía sau là mặt trăng khuyết và một con mắt ánh sáng không có khuôn mặt người thật](../assets/illustrations/iron-man-doom/06-wounded-eye.webp)
 
@@ -355,7 +353,7 @@ Con mắt là cơ quan của việc thấy. Một mắt bị thương gợi hìn
 
 ## 8. Doom Là Hóa Đơn Chưa Thanh Toán Của Endgame
 
-Tony chết, nên anh không còn ở đó để trả lời hậu quả dài hạn của time heist.
+Tony chết, nên anh không còn ở đó để trả lời hậu quả dài hạn của cuộc du hành thời gian.
 
 Doom có thể là hóa đơn quay lại từ phía những thế giới không được tính trong phép toán của Avengers.
 
@@ -364,7 +362,7 @@ Doom có thể là hóa đơn quay lại từ phía những thế giới không 
 
 Điểm làm Doom đáng sợ không phải hắn hoàn toàn sai. Avengers, TVA, X-Men và các nhóm khác đều đã thay đổi hoặc hủy thế giới để cứu thực tại mình ưu tiên.
 
-Nếu bản leak đúng, X-Men mở phim bằng việc phá hủy cả một thế giới để ngăn Incursion. Steve sống một đời không thuộc timeline của mình. Doom để các Incursion xảy ra rồi tái tạo tất cả theo ý mình.
+Nếu bản rò rỉ đúng, X-Men mở phim bằng việc phá hủy cả một thế giới để ngăn Incursion. Steve sống một đời không thuộc dòng thời gian của mình. Doom để các Incursion xảy ra rồi tái tạo tất cả theo ý mình.
 
 Mỗi bên đều có cùng câu biện hộ:
 
@@ -380,7 +378,7 @@ MCU bắt đầu bằng một thiên tài công nghệ nói:
 
 > **I am Iron Man.**
 
-Multiverse Saga có thể kết bằng bóng tối của cùng huyền thoại:
+Kỷ nguyên Đa vũ trụ có thể kết bằng bóng tối của cùng huyền thoại:
 
 > **I’m Doom.**
 
@@ -402,7 +400,7 @@ Nhưng dưới màn đánh nhau, cameo và cảnh hủy diệt, phim có thể �
 
 Đây là cách [[Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood vẫy đũa]]. Nó không cần đứng trước màn hình nói: “Hãy chấp nhận vua kỹ trị.” Nó chỉ cần để người xem cảm thấy tình thế đủ tuyệt vọng, giải pháp đủ đẹp và người cai trị đủ có lý.
 
-Trong lúc attention tập trung vào Thor mất tay, Bucky hy sinh, Sentry giữ hai Trái Đất và các đội quân đụng nhau, một cấu trúc khác được đưa vào trí tưởng tượng:
+Trong lúc sự chú ý tập trung vào Thor mất tay, Bucky hy sinh, Sentry giữ hai Trái Đất và các đội quân đụng nhau, một cấu trúc khác được đưa vào trí tưởng tượng:
 
 - có lúc phải hủy một thế giới để cứu thế giới khác;
 - ký ức có thể bị xóa nếu nhờ đó xã hội ổn định;
@@ -417,13 +415,13 @@ Hollywood không bắt khán giả ký vào kết luận. Nó để người xem
 
 Khi khán giả tự nói câu ấy, phép thuật mạnh hơn một bài tuyên truyền trực tiếp. Người xem đã tham gia tạo ra tính chính danh cho Doom.
 
-Đây không chứng minh Marvel đang công bố trước một kế hoạch reset ngoài đời thật. Một câu chuyện cũng có thể chỉ phản ánh nỗi lo tập thể về khủng hoảng, trí tuệ nhân tạo, chiến tranh và quyền lực kỹ trị. Nhưng dù là predictive programming có chủ ý hay unconscious myth của thời đại, hiệu ứng tâm lý vẫn đáng quan sát:
+Đây không chứng minh Marvel đang công bố trước một kế hoạch reset ngoài đời thật. Một câu chuyện cũng có thể chỉ phản ánh nỗi lo tập thể về khủng hoảng, trí tuệ nhân tạo, chiến tranh và quyền lực kỹ trị. Nhưng dù là lập trình dự báo có chủ ý hay huyền thoại vô thức của thời đại, hiệu ứng tâm lý vẫn đáng quan sát:
 
 1. Ta tưởng tượng thế giới cũ kết thúc.
 2. Ta chấp nhận tự do là thứ quá nguy hiểm để giữ trong lúc sụp đổ.
 3. Ta tập cảm thông với người cứu mình bằng cách quyết định thực tại thay mình.
 
-Trận chiến là màn khói. Câu hỏi về tính chính danh mới là payload.
+Trận chiến là màn khói. Câu hỏi về tính chính danh mới là thông điệp ngầm.
 
 Hollywood vẫy đũa. Khán giả cung cấp phần còn lại của niềm tin.
 
@@ -431,21 +429,21 @@ Hollywood vẫy đũa. Khán giả cung cấp phần còn lại của niềm tin
 
 | Tầng | Điều có thể nói |
 |---|---|
-| **Fact** | RDJ được Marvel xác nhận đóng Victor von Doom; D23 công bố footage; MCU đã kể nhiều lần can thiệp timeline; ảnh RDJ có vùng mắt bầm từng lưu hành. |
-| **Leak** | Earth-96238 bị X-Men phá hủy; Earth-10005 sụp; Steve/Peggy/James ở Earth-828; Doom mất gia đình, lấy tim Loki, giết James và Bucky; Thor mất tay; Doom tạo Battleworld, chiếm gia đình Reed và xóa ký ức; Tobey/Wolverine còn nhớ trong The Void. Leak có thể thay đổi hoặc sai. |
-| **Pattern** | Người hùng ngày càng có quyền chọn timeline và sự sống nào được ưu tiên. |
-| **Symbol** | Iron Man là mặt sáng, Doom là bóng tối của nhà cứu thế công nghệ; mắt bầm là motif cái thấy bị thương. |
-| **Speculative synthesis** | Doom là hóa đơn đạo đức của Endgame; casting RDJ buộc khán giả đối diện mặt tối của niềm tin đặt vào Tony. |
+| **Sự kiện kiểm chứng được** | RDJ được Marvel xác nhận đóng Victor von Doom; D23 công bố đoạn phim giới thiệu; MCU đã kể nhiều lần can thiệp dòng thời gian; ảnh RDJ có vùng mắt bầm từng lưu hành. |
+| **Tình tiết rò rỉ** | Earth-96238 bị X-Men phá hủy; Earth-10005 sụp; Steve/Peggy/James ở Earth-828; Doom mất gia đình, lấy tim Loki, giết James và Bucky; Thor mất tay; Doom tạo Battleworld, chiếm gia đình Reed và xóa ký ức; Tobey/Wolverine còn nhớ trong The Void. Bản rò rỉ có thể thay đổi hoặc sai. |
+| **Mô thức** | Người hùng ngày càng có quyền chọn dòng thời gian và sự sống nào được ưu tiên. |
+| **Biểu tượng** | Iron Man là mặt sáng, Doom là bóng tối của nhà cứu thế công nghệ; mắt bầm là mô thức cái thấy bị thương. |
+| **Tổng hợp suy đoán** | Doom là hóa đơn đạo đức của Endgame; việc chọn RDJ buộc khán giả đối diện mặt tối của niềm tin đặt vào Tony. |
 
-Không có tầng nào ở trên chứng minh “Black Eye Club” là thật hoặc RDJ tham gia nghi lễ bí mật.
+Không có tầng nào ở trên chứng minh ““Hội Mắt Bầm”” là thật hoặc RDJ tham gia nghi lễ bí mật.
 
 ## Nguồn
 
 - Marvel, **D23 2026: The Stars of Avengers: Doomsday Unveil New Footage, Poster** — xác nhận RDJ là Doctor Doom, Steve/Peggy trở lại và ba vũ trụ trên đường va chạm.
-- **Full leak snapshot do Justin cung cấp ngày 2026-08-24** — lưu nguyên văn tại `_docs/avengers-doomsday-full-leak-justin-20260824.md`; dùng cho cấu trúc bốn thế giới, ba act, trận Latveria, Battleworld và after-credit. Đây là leak chưa xác minh.
+- **Bản rò rỉ đầy đủ do Justin cung cấp ngày 2026-08-24** — lưu nguyên văn tại `_docs/avengers-doomsday-full-leak-justin-20260824.md`; dùng cho cấu trúc bốn thế giới, ba hồi, trận Latveria, Battleworld và cảnh hậu danh đề. Đây là nội dung chưa xác minh.
 - Bản tóm tắt leak của ComicBookMovie được lưu trong hồ sơ làm việc tháng 8/2026 — nguồn đối chiếu sớm cho Earth-828, gia đình Doom, Loki và Battleworld; bài gốc về sau không còn truy cập ổn định.
-- *Avengers: Endgame* và các phim MCU đã phát hành — dùng cho time heist, điều kiện giữ năm năm, cái chết Tony và các can thiệp timeline.
-- Daily Mail, **Conspiracy theorists say stars with black eyes are part of Illuminati** — dùng để xác nhận ảnh RDJ bị bầm quanh mắt từng lưu hành và mô tả Black Eye Club là conspiracy theory; không dùng làm bằng chứng nghi lễ.
+- *Avengers: Endgame* và các phim MCU đã phát hành — dùng cho cuộc du hành thời gian, điều kiện giữ năm năm, cái chết Tony và các can thiệp dòng thời gian.
+- Daily Mail, **Conspiracy theorists say stars with black eyes are part of Illuminati** — dùng để xác nhận ảnh RDJ bị bầm quanh mắt từng lưu hành và mô tả “Hội Mắt Bầm” là thuyết âm mưu; không dùng làm bằng chứng nghi lễ.
 
 ## Đọc Tiếp
 
