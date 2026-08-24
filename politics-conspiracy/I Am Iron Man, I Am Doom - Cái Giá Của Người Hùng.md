@@ -85,32 +85,50 @@ Doom gọi cùng quyền lực ấy là cai trị.
 
 ---
 
-## 3. Theo Bản Leak, Steve Rogers Là Bằng Chứng Sống Cho Cáo Buộc Của Doom
+## 3. Bốn Thế Giới Và Một Phép Toán: Ai Phải Chết Để Ai Được Sống?
 
 Phần này thuộc **leak claim**, chưa phải canon đã phát hành.
 
-Theo bản leak được lưu lại, Steve trở về quá khứ sau đám tang Tony, sống cùng Peggy Carter và có con trai tên Jim. Loki cảnh báo TVA sẽ xóa timeline ấy, rồi đưa gia đình Steve tới Earth-828, thế giới của Fantastic Four.
+Bản leak đầy đủ làm rõ cấu trúc đa vũ trụ hơn bản tóm tắt đầu tiên:
 
-Steve có được “happy ending” mà khán giả mong cho anh. Nhưng sự hiện diện của một người không thuộc Earth-828 làm vũ trụ này bất ổn. Doom và Reed Richards cố xử lý nguy cơ Incursion. Thí nghiệm thất bại giết vợ con Doom và làm cơ thể hắn biến dạng.
+| Thế giới | Vai trò trong leak |
+|---|---|
+| **Earth-96238** | Thế giới của Spider-Man Tobey. X-Men từ Earth-10005 mang thiết bị sang phá hủy nó để chặn Incursion. Wolverine và Spider-Man bị kẹt lại. |
+| **Earth-10005** | Thế giới X-Men. Từng sống sót qua nhiều Incursion bằng cách hy sinh thế giới khác; sau đó bị Doom phá Cerebro và kích hoạt sụp đổ. |
+| **Earth-828** | Thế giới Fantastic Four và Doom. Loki đưa gia đình Steve tới đây. Sự hiện diện của họ góp phần tạo biến cố giết gia đình Doom. |
+| **Earth-616** | Thế giới MCU chính. Avengers và Wakanda dựng khẩu đại bác thứ ba; cuối cùng va chạm với Earth-828. |
 
-Cùng một sự kiện có hai cách kể.
+Opening đã đặt câu hỏi đạo đức ngay lập tức. Magneto, Deadpool và Wolverine không phá Earth-96238 vì ghét Spider-Man. Họ làm vậy vì tin rằng nếu không hủy một thế giới, cả hai sẽ chết.
 
-Từ Earth-616:
+Tobey Spider-Man chống lại họ vì từ góc nhìn người đang bị chọn làm vật hy sinh, “không còn lựa chọn nào khác” chỉ là cách kẻ có bom giải thích quyền giết thế giới mình.
 
-> Steve cuối cùng được sống cuộc đời mà chiến tranh đã lấy khỏi anh.
+Đến Act 2, chính Earth-10005 — thế giới từng hy sinh Earth-96238 — lại bị Doom đẩy vào hủy diệt. Nạn nhân của một Incursion trở thành thủ phạm ở Incursion trước, rồi lại thành nạn nhân của Incursion sau. Không phe nào giữ được vị trí anh hùng vĩnh viễn.
 
-Từ phía Doom:
+Sau khi Earth-10005 biến mất, Final Incursion còn lại Earth-616 và Earth-828. Doom để hai thế giới va chạm, dùng tim Loki, Franklin Richards và ma thuật để tái tạo những mảnh vỡ thành Battleworld.
 
-> Steve lấy một cuộc đời vốn không thuộc timeline mình, mang hậu quả sang thế giới khác, rồi để gia đình Doom trả giá.
+Toàn bộ phim, nếu leak đúng, được xây trên cùng một phép toán:
 
-Điều này làm Doom nguy hiểm hơn một villain muốn quyền lực. Hắn có một grievance có phần hợp lý. Những người tự gọi mình là anh hùng đã thay đổi cấu trúc thế giới, còn người vô tội ở một universe khác nhận hậu quả.
+> Một thế giới phải chết để một thế giới khác được sống.  
+> Nhưng ai được quyền chọn thế giới phải chết?
 
-Nhưng Doom đi từ một bất công có thật tới một kết luận độc tài: nếu những người hùng không đủ tư cách chọn reality, thì chỉ người thông minh nhất nên giữ quyền ấy — Doom.
+### Steve Rogers Là Bằng Chứng Sống Cho Cáo Buộc Của Doom
 
-Đây là công thức quen thuộc của technocrat-king:
+Theo leak, Steve trở về quá khứ, sống cùng Peggy và có con trai tên James. Loki chống lệnh TVA để cứu happy ending ấy, đưa gia đình Steve sang Earth-828.
+
+Nhìn từ Earth-616, Steve cuối cùng được trả lại cuộc đời chiến tranh đã lấy khỏi anh.
+
+Nhìn từ phía Doom, Steve đã sống một cuộc đời không thuộc timeline mình. Việc Loki đặt gia đình ấy vào Earth-828 làm thí nghiệm của Doom phát nổ, giết vợ con hắn và phá hủy khuôn mặt hắn.
+
+Bản leak mới còn làm tragedy nặng hơn: Doom cho một phù thủy giả dạng Peggy dẫn James tới, rồi giết cậu bé trước mặt Steve. Sau đó hắn giết Bucky trong trận cuối. Steve nhìn cả con trai lẫn người bạn lâu đời nhất chết vì hậu quả của một cuộc đời mà anh từng nghĩ là phần thưởng xứng đáng.
+
+Điều này làm Doom nguy hiểm hơn một phản diện chỉ muốn quyền lực. Hắn có một cáo buộc có phần đúng: người hùng đã thay đổi cấu trúc thực tại, còn gia đình hắn trả giá.
+
+Nhưng Doom đi từ bất công thật tới đáp án độc tài. Vì các anh hùng từng chọn sai, hắn kết luận chỉ một người hoàn hảo mới được quyền chọn — chính hắn.
+
+Đây là công thức quen thuộc của vua kỹ trị:
 
 1. Chỉ ra một hệ thống đã thất bại thật.
-2. Chứng minh số đông và những người cầm quyền cũ không đủ năng lực.
+2. Chứng minh những người cầm quyền cũ không đủ năng lực.
 3. Biến năng lực cá nhân thành lý do được cai trị tất cả.
 
 ![Một gia đình ba bóng người trên hành tinh sáng, phía xa một nhà khoa học mặc áo choàng đứng trước cỗ máy đa vũ trụ đang nứt vỡ](../assets/illustrations/iron-man-doom/04-earth-828-loss.webp)
@@ -130,6 +148,57 @@ Tony đạt đỉnh khi buông quyền kiểm soát. Doom được sinh ra từ 
 Tony hiểu rằng bộ giáp không thể bảo vệ mọi người mãi. Doom kết luận phải xây một thế giới nơi không ai còn khả năng làm trái kế hoạch của hắn.
 
 Đó là lý do Battleworld quan trọng. Theo leak, Doom không chỉ hồi sinh những người đã chết. Hắn xóa ký ức của họ và cho mỗi người một cuộc đời mới. Không ai nhớ thế giới trước đó, nên không ai có cơ sở phản đối thế giới hiện tại.
+
+Leak đầy đủ cho thấy sự chiếm đoạt này rất cụ thể:
+
+- Sue trở thành vợ Doom; Franklin và bé gái chưa sinh trở thành con hắn.
+- Reed là người hiếm hoi bị giữ ký ức để phải chứng kiến gia đình mình sống trong câu chuyện của Doom.
+- Thor mất ký ức và dẫn đầu Thor Corps.
+- Strange trở thành cảnh sát trưởng, đứng cạnh Ancient One, Clea và Sylvie.
+- Những mảnh Earth-616 và Earth-828 nằm cạnh nhau như tàn tích, còn lâu đài Doom nguyên vẹn ở trung tâm.
+
+After-credit còn để Tobey Spider-Man và Wolverine sống trong The Void, mang theo thứ nguy hiểm nhất đối với một chế độ xây bằng ký ức giả: họ vẫn nhớ.
+
+Battleworld vì vậy không chỉ là thế giới Doom cứu. Nó là một hệ điều hành lịch sử: ai giữ ký ức có thể biết thực tại đã bị đánh cắp; ai mất ký ức chỉ còn khả năng thờ người đã viết lại nó.
+
+### Battleworld Là Địa Ngục Hay Một Thế Giới Đã Được Cứu?
+
+Từ góc nhìn Avengers, hành động của Doom là tội ác. Hắn để các vũ trụ sụp đổ, chiếm quyền năng của Loki và Franklin, xóa ký ức người sống rồi đặt mình lên ngai vàng.
+
+Nhưng từ góc nhìn Doom, câu chuyện có thể hoàn toàn khác.
+
+Khi mọi thực tại chỉ còn cách hư vô một bước, Doom đứng trước hai lựa chọn:
+
+- để tất cả biến mất;
+- hoặc cứu những mảnh còn lại và dựng một thế giới mới.
+
+Hắn chọn cứu.
+
+Chỉ có điều Doom không muốn làm người cứu thế vô danh. Với lòng kiêu hãnh của mình, hắn phải trở thành Chúa của thế giới vừa cứu.
+
+Điểm làm câu chuyện khó hơn là Battleworld không nhất thiết trông như địa ngục. Trong truyện tranh, Latveria thường được mô tả như một quốc gia nhỏ trở nên trật tự, hiện đại và tương đối an toàn dưới Victor von Doom. Cái giá là toàn bộ quyền lực nằm trong tay một nhà vua không chấp nhận bị thách thức.
+
+Battleworld có thể dùng cùng lời hứa ở quy mô vũ trụ:
+
+- không còn đói nghèo;
+- nền văn minh đổ nát được dựng lại;
+- chiến tranh giữa các thế giới chấm dứt;
+- người chết được hồi sinh;
+- mọi người có một vai trò và một nơi để thuộc về.
+
+Với nhiều cư dân chưa từng biết thế giới cũ, Doom có thể thật sự là Đấng Cứu Thế. Họ thức dậy trong một trật tự có thức ăn, gia đình và tương lai. Chỉ những người còn ký ức mới thấy nền móng bên dưới: thế giới này được dựng bằng những thực tại bị xóa, những căn tính bị đánh cắp và lịch sử bị viết lại.
+
+Vậy khi các siêu anh hùng đứng lên phá Battleworld, câu hỏi khó nhất không còn là:
+
+> Doom có phải kẻ xấu không?
+
+Mà là:
+
+> Nếu Battleworld thực sự tốt hơn thế giới cũ, các anh hùng còn có quyền phá nó để trả lại một sự thật mà phần lớn cư dân không nhớ và có thể không muốn nhận không?
+
+Đây là ranh giới mỏng giữa Đấng Cứu Thế và Kẻ Độc Tài. Không chỉ nằm ở kết quả người ấy tạo ra. Nó nằm ở việc người sống trong thế giới ấy có được biết sự thật, có quyền không đồng ý và có thể rời khỏi trật tự đó hay không.
+
+Một thế giới hoàn hảo mà không ai được quyền từ chối vẫn có thể là nhà tù hoàn hảo.
 
 Tony trả mạng sống mình để người khác trở về với ký ức và tự do của họ.
 
@@ -244,7 +313,7 @@ Mà là cái bóng của giấc mơ cứu thế trở về để hỏi: khi mộ
 | Tầng | Điều có thể nói |
 |---|---|
 | **Fact** | RDJ được Marvel xác nhận đóng Victor von Doom; D23 công bố footage; MCU đã kể nhiều lần can thiệp timeline; ảnh RDJ có vùng mắt bầm từng lưu hành. |
-| **Leak** | Steve/Peggy/Jim ở Earth-828, gia đình Doom chết, Loki bị lấy tim, Doom tạo Battleworld và xóa ký ức. Bản leak có thể thay đổi hoặc sai. |
+| **Leak** | Earth-96238 bị X-Men phá hủy; Earth-10005 sụp; Steve/Peggy/James ở Earth-828; Doom mất gia đình, lấy tim Loki, giết James và Bucky; Thor mất tay; Doom tạo Battleworld, chiếm gia đình Reed và xóa ký ức; Tobey/Wolverine còn nhớ trong The Void. Leak có thể thay đổi hoặc sai. |
 | **Pattern** | Người hùng ngày càng có quyền chọn timeline và sự sống nào được ưu tiên. |
 | **Symbol** | Iron Man là mặt sáng, Doom là bóng tối của nhà cứu thế công nghệ; mắt bầm là motif cái thấy bị thương. |
 | **Speculative synthesis** | Doom là hóa đơn đạo đức của Endgame; casting RDJ buộc khán giả đối diện mặt tối của niềm tin đặt vào Tony. |
@@ -254,7 +323,8 @@ Không có tầng nào ở trên chứng minh “Black Eye Club” là thật ho
 ## Nguồn
 
 - Marvel, **D23 2026: The Stars of Avengers: Doomsday Unveil New Footage, Poster** — xác nhận RDJ là Doctor Doom, Steve/Peggy trở lại và ba vũ trụ trên đường va chạm.
-- Bản tóm tắt leak của ComicBookMovie được lưu trong hồ sơ làm việc tháng 8/2026 — dùng cho Earth-828, gia đình Doom, Loki và Battleworld; bài gốc về sau không còn truy cập ổn định.
+- **Full leak snapshot do Justin cung cấp ngày 2026-08-24** — lưu nguyên văn tại `_docs/avengers-doomsday-full-leak-justin-20260824.md`; dùng cho cấu trúc bốn thế giới, ba act, trận Latveria, Battleworld và after-credit. Đây là leak chưa xác minh.
+- Bản tóm tắt leak của ComicBookMovie được lưu trong hồ sơ làm việc tháng 8/2026 — nguồn đối chiếu sớm cho Earth-828, gia đình Doom, Loki và Battleworld; bài gốc về sau không còn truy cập ổn định.
 - *Avengers: Endgame* và các phim MCU đã phát hành — dùng cho time heist, điều kiện giữ năm năm, cái chết Tony và các can thiệp timeline.
 - Daily Mail, **Conspiracy theorists say stars with black eyes are part of Illuminati** — dùng để xác nhận ảnh RDJ bị bầm quanh mắt từng lưu hành và mô tả Black Eye Club là conspiracy theory; không dùng làm bằng chứng nghi lễ.
 

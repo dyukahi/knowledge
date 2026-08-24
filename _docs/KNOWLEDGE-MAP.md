@@ -4,12 +4,12 @@
 
 ## Snapshot
 
-- **Notes scanned:** 288
+- **Notes scanned:** 289
 - **Top-level domains:** 9
 - **Tags detected:** 313
 - **Resolved internal edges:** 2462
 - **Broken/unresolved links:** 0
-- **Orphan notes:** 21
+- **Orphan notes:** 22
 
 ## Zettelkasten Reading
 
@@ -103,9 +103,10 @@ Recommended note types:
 - [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]] — degree `15`, backlinks `10`, outlinks `5` — #health, #medical-industrial-complex, #pharma
 - … 15 more notes in this domain. See JSON for full list.
 
-### Docs / Meta `_docs` — 20 notes
+### Docs / Meta `_docs` — 21 notes
 
 - [[_docs/VAULT-95-PUBLICATION-RUBRIC|redpill.wiki 9.5 Publication Rubric]] — degree `29`, backlinks `0`, outlinks `29`
+- [[_docs/avengers-doomsday-full-leak-justin-20260824|Avengers: Doomsday — Full Leak Snapshot Supplied By Justin]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/THERAVADA-READER-CITATION-STANDARD|Chuẩn Dẫn Kinh Tự Nhiên Cho Series Theravāda]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/THERAVADA-VAULT-VOICE-STANDARD|Chuẩn Giọng Vault Cho Series Theravāda]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/CONTENT-SEO-AUDIT|Content SEO Audit - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
@@ -116,8 +117,7 @@ Recommended note types:
 - [[_docs/THERAVADA-BATCH1-VALIDATION|Theravāda Batch 1 Validation]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/THERAVADA-BATCH2-VALIDATION|Theravāda Batch 2 Validation]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/THERAVADA-BATCH3-VALIDATION|Theravāda Batch 3 Validation]] — degree `0`, backlinks `0`, outlinks `0`
-- [[_docs/THERAVADA-BATCH4-VALIDATION|Theravāda Batch 4 Validation]] — degree `0`, backlinks `0`, outlinks `0`
-- … 8 more notes in this domain. See JSON for full list.
+- … 9 more notes in this domain. See JSON for full list.
 
 ### Science & Tech `science-tech` — 20 notes
 
@@ -351,6 +351,7 @@ High-degree notes are good candidates for hub/MOC treatment.
 
 Orphans are not necessarily bad. In Zettelkasten terms, they are unfinished integration points. Either link them into MOCs or mark as standalone reference notes.
 
+- [[_docs/avengers-doomsday-full-leak-justin-20260824|Avengers: Doomsday — Full Leak Snapshot Supplied By Justin]] — `_docs`
 - [[_docs/CONTENT-SEO-AUDIT|Content SEO Audit - redpill.wiki]] — `_docs`
 - [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — `_docs`
 - [[_docs/SEO-BUILD-VALIDATION|SEO Build Validation]] — `_docs`

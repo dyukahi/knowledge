@@ -46,7 +46,7 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | 🔬 **Science & Tech** | 20 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 288 notes / bài viết.
+**Total:** 289 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---

@@ -6,27 +6,63 @@
       "tier": "official",
       "title": "D23 2026: The Stars of Avengers: Doomsday Unveil New Footage, Poster",
       "url": "https://www.marvel.com/articles/movies/avengers-doomsday-cast-d23-2026-new-footage-poster-robert-downey-jr-chris-evans-hayley-atwell",
-      "supports": ["Robert Downey Jr. is Doctor Doom", "Chris Evans and Hayley Atwell return", "three universes are on a collision course", "official D23 special look exists"],
+      "supports": [
+        "Robert Downey Jr. is Doctor Doom",
+        "Chris Evans and Hayley Atwell return",
+        "three universes are on a collision course",
+        "official D23 special look exists"
+      ],
       "limits": "Does not confirm the leaked full plot or a direct Tony-Doom identity link."
+    },
+    {
+      "tier": "user-supplied-leak-snapshot",
+      "title": "Justin-provided full Vietnamese leak snapshot",
+      "path": "_docs/avengers-doomsday-full-leak-justin-20260824.md",
+      "captured_at": "2026-08-24",
+      "supports": [
+        "Earth-96238 destruction opening",
+        "Earth-616/Earth-828/Earth-10005 three-world plan",
+        "Doom destroys Earth-10005",
+        "James and Bucky deaths",
+        "Thor loses an arm",
+        "Sentry holds worlds apart",
+        "Battleworld roles and erased memories",
+        "Tobey Spider-Man and Wolverine retain memory in The Void"
+      ],
+      "limits": "Unverified user-supplied leak; may contain errors, mistranslation, planted details or material changed by reshoots."
     },
     {
       "tier": "secondary-leak",
       "title": "ComicBookMovie full plot leak summary, recovered August 2026",
       "url": "https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsdays-entire-plot-may-have-leaked-online-and-we-have-all-the-biggest-spoilers-a221736",
-      "supports": ["Steve/Peggy/Jim on Earth-828", "Doom family-loss motivation", "Loki heart theft", "Battleworld and erased memories"],
+      "supports": [
+        "Steve/Peggy/Jim on Earth-828",
+        "Doom family-loss motivation",
+        "Loki heart theft",
+        "Battleworld and erased memories"
+      ],
       "limits": "Article later became unavailable; leak may be incomplete, mistranslated or changed by reshoots. Retained in local session evidence and Vietnamese recovery draft."
     },
     {
       "tier": "secondary-media",
       "title": "Conspiracy theorists say stars with black eyes are part of Illuminati",
       "url": "https://www.dailymail.com/lifestyle/article-5971319/Conspiracy-theory-suggests-celebrities-snapped-black-left-eyes-ILLUMINATI.html",
-      "supports": ["A 2005 photograph circulated showing bruising around Robert Downey Jr.'s left eye", "Black Eye Club/Illuminati initiation claims circulate online", "many photographed people had ordinary or theatrical explanations"],
+      "supports": [
+        "A 2005 photograph circulated showing bruising around Robert Downey Jr.'s left eye",
+        "Black Eye Club/Illuminati initiation claims circulate online",
+        "many photographed people had ordinary or theatrical explanations"
+      ],
       "limits": "Tabloid survey of a conspiracy theory, not evidence that a club or ritual exists."
     },
     {
       "tier": "primary-film",
       "title": "Avengers: Endgame and prior MCU films",
-      "supports": ["Tony demands the five post-Snap years not be erased", "Tony performs the final snap and dies", "Natasha also sacrifices herself", "time-heist intervention changes multiple timelines"],
+      "supports": [
+        "Tony demands the five post-Snap years not be erased",
+        "Tony performs the final snap and dies",
+        "Natasha also sacrifices herself",
+        "time-heist intervention changes multiple timelines"
+      ],
       "limits": "Supports MCU canon analysis, not claims about real-world ritual."
     }
   ],
