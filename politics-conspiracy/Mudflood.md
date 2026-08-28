@@ -87,6 +87,10 @@ Có thể là sự kết hợp của cả thảm họa tự nhiên VÀ can thi�
 | Late 1800s | World's Fairs = "showing off" kiến trúc còn sót |
 | 1900s | Phá hủy systematic các công trình Tartarian |
 
+## Hồ Sơ Hiện Đại
+
+- [[Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng]] — analog quan sát được về cách debris flow có thể chôn tầng thấp, xóa đường và tạo mặt đất mới trong vài phút.
+
 ## Bằng chứng bổ sung
 
 ### Orphan Trains (1854-1929)

@@ -42,11 +42,11 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | ☸️ **Theravāda** | 41 | Kinh tạng Pāli, giáo lý, thực hành, Vi Diệu Pháp, provenance |
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
 | 🧩 **Mental Models** | 44 | nhận thức, tâm lý học, framework để đọc reality |
-| 🏛️ **Politics & Conspiracy** | 28 | power structure, controlled narrative, geopolitics |
+| 🏛️ **Politics & Conspiracy** | 29 | power structure, controlled narrative, geopolitics |
 | 🔬 **Science & Tech** | 20 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 289 notes / bài viết.
+**Total:** 291 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -340,6 +340,10 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### August 28, 2026
+
+- **[[Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng]]** - hồ sơ phân tầng sự kiện Nepal–Tibet, bốn “van” viral, DEW/HAARP/DUMB/Loosh và mô thức Mudflood/Tartaria; không bác framework, không biến suy đoán thành fact.
 
 ### August 24, 2026
 

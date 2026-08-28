@@ -1,21 +1,21 @@
 {
   "stats": {
-    "notes": 289,
+    "notes": 291,
     "domains": {
-      "_docs": 21,
+      "_docs": 22,
       "root": 14,
       "crypto-finance": 18,
       "esoterica": 76,
       "health": 27,
       "mental-models": 44,
-      "politics-conspiracy": 28,
+      "politics-conspiracy": 29,
       "science-tech": 20,
       "theravada": 41
     },
-    "tags": 313,
-    "wikilinkEdges": 2465,
+    "tags": 326,
+    "wikilinkEdges": 2477,
     "brokenLinks": 0,
-    "orphans": 22
+    "orphans": 23
   },
   "domains": {
     "_docs": [
@@ -183,6 +183,27 @@
         "backlinks": [],
         "words": 674,
         "summary": "Generated: 2026-06-05T19:58:17"
+      },
+      {
+        "path": "_docs/four-himalayan-mud-valves-viral-source-20260828.md",
+        "title": "Four Himalayan Mud-Flood Valves 2026 — Viral Source Snapshot",
+        "domain": "_docs",
+        "tags": [
+          "001",
+          "002",
+          "003",
+          "004"
+        ],
+        "aliases": [],
+        "headings": [
+          "Four Himalayan Mud-Flood Valves 2026 — Viral Source Snapshot"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [],
+        "words": 2645,
+        "summary": "- Captured: 2026-08-28 - Provenance: verbatim user-supplied Vietnamese viral post from Telegram message 32602 - Status: **UNVERIFIED VIRAL CLAIM SET — NOT A FACTUAL SOURCE** - Editorial use: claim inventory only; every event attribution requires independent e…"
       },
       {
         "path": "_docs/CONTENT-SERIES.md",
@@ -2997,6 +3018,77 @@
         "summary": "**Luân Hồi là vòng tái sinh của tâm thức qua nhiều thân xác, nhưng trong vault nó không được đọc một chiều. Cùng một cơ chế có thể là trường học linh hồn hoặc nhà tù ký ức, tùy mức độ tỉnh thức, consent và khả năng nhớ lại của người tham gia.**"
       },
       {
+        "path": "esoterica/Tartaria.md",
+        "title": "Tartaria",
+        "domain": "esoterica",
+        "tags": [
+          "esoterica"
+        ],
+        "aliases": [],
+        "headings": [
+          "Tartaria (Grand Tartary)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Tartary Trên Bản Đồ Cổ",
+          "Kiến Trúc: Câu Hỏi Không Nên Đọc Vội",
+          "Analog Hiện Đại",
+          "Mudflood Và Reset Memory",
+          "Aether Tech Và Mái Vòm",
+          "Tartaria Và Việt Nam",
+          "Tại Sao Motif Này Hấp Dẫn?",
+          "Chốt Lại / Core Insight"
+        ],
+        "wikilinks": [
+          "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
+          "Khoa Học Xét Lại",
+          "Long Mạch",
+          "MOC - Ancient Civilizations & Hidden History",
+          "Mudflood",
+          "Nikola Tesla",
+          "Năng Lượng Aether",
+          "Thành Cổ Loa"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Long Mạch.md",
+          "esoterica/Thành Cổ Loa.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
+          "politics-conspiracy/Mudflood.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "backlinks": [
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "esoterica/index.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+          "esoterica/Núi Tu Di.md",
+          "esoterica/Nỏ Thần.md",
+          "esoterica/Phong Thủy.md",
+          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Thành Cổ Loa.md",
+          "index.md",
+          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
+          "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Mudflood.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 1375,
+        "summary": "**Tartaria là một case study về cách lịch sử, bản đồ, kiến trúc và ký ức tập thể có thể bị đọc theo nhiều tầng cùng lúc.** Tầng fact: \"Tartary\" từng xuất hiện trên nhiều bản đồ châu Âu để chỉ các vùng rộng lớn ở Á-Âu, thường mơ hồ theo hiểu biết địa lý của th…"
+      },
+      {
         "path": "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
         "title": "Karma Disclosure - Truth Hidden In Plain Sight",
         "domain": "esoterica",
@@ -3076,73 +3168,6 @@
         "summary": "**Karma Disclosure là giả thuyết rằng quyền lực không chỉ che giấu kế hoạch; nó còn để lại dấu vết công khai dưới dạng fiction, symbol, ritual, slogan hoặc joke để biến sự thật thành thứ ai cũng thấy nhưng ít người xử lý. Visible enough to count as disclosure…"
       },
       {
-        "path": "esoterica/Tartaria.md",
-        "title": "Tartaria",
-        "domain": "esoterica",
-        "tags": [
-          "esoterica"
-        ],
-        "aliases": [],
-        "headings": [
-          "Tartaria (Grand Tartary)",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Tartary Trên Bản Đồ Cổ",
-          "Kiến Trúc: Câu Hỏi Không Nên Đọc Vội",
-          "Mudflood Và Reset Memory",
-          "Aether Tech Và Mái Vòm",
-          "Tartaria Và Việt Nam",
-          "Tại Sao Motif Này Hấp Dẫn?",
-          "Chốt Lại / Core Insight"
-        ],
-        "wikilinks": [
-          "Khoa Học Xét Lại",
-          "Long Mạch",
-          "MOC - Ancient Civilizations & Hidden History",
-          "Mudflood",
-          "Nikola Tesla",
-          "Năng Lượng Aether",
-          "Thành Cổ Loa"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Long Mạch.md",
-          "esoterica/Thành Cổ Loa.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "politics-conspiracy/Mudflood.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "backlinks": [
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-          "esoterica/index.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-          "esoterica/Núi Tu Di.md",
-          "esoterica/Nỏ Thần.md",
-          "esoterica/Phong Thủy.md",
-          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Thành Cổ Loa.md",
-          "index.md",
-          "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "politics-conspiracy/Bức Tường Băng.md",
-          "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Mudflood.md",
-          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 1331,
-        "summary": "**Tartaria là một case study về cách lịch sử, bản đồ, kiến trúc và ký ức tập thể có thể bị đọc theo nhiều tầng cùng lúc.** Tầng fact: \"Tartary\" từng xuất hiện trên nhiều bản đồ châu Âu để chỉ các vùng rộng lớn ở Á-Âu, thường mơ hồ theo hiểu biết địa lý của th…"
-      },
-      {
         "path": "esoterica/Vũ Trụ Học Phật Giáo.md",
         "title": "Vũ Trụ Học Phật Giáo",
         "domain": "esoterica",
@@ -3219,6 +3244,73 @@
         ],
         "words": 1399,
         "summary": "**Vũ Trụ Học Phật Giáo** không chỉ là bản đồ \"trời đất\" theo nghĩa vật lý. Nó là một cấu trúc biểu tượng - đạo đức - tâm thức mô tả các cõi tồn tại, chu kỳ thành trụ hoại không, nghiệp, tái sinh và vị trí đặc biệt của cõi người. Đọc đúng, nó không cần cạnh tr…"
+      },
+      {
+        "path": "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "title": "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "emotional-energy",
+          "esoterica",
+          "matrix"
+        ],
+        "aliases": [
+          "Energy Harvesting",
+          "Loosh",
+          "Loosh Farm",
+          "Thu Hoạch Năng Lượng"
+        ],
+        "headings": [
+          "Loosh — Năng Lượng Thu Hoạch Từ Con Người",
+          "Evidence Discipline / Cách Đọc",
+          "Robert Monroe Và Nguồn Gốc Thuật Ngữ",
+          "Parallels: Archons, Flyers, Hungry Beings",
+          "Cơ Chế Thu Hoạch Hiện Đại",
+          "Dopamine-Loosh Loop",
+          "Ma Trận Và Luân Hồi",
+          "Escape: Không Feed Field",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Luân Hồi",
+          "Ma Trận",
+          "Năng Lượng Tình Dục",
+          "Schadenfreude - Dopamine Phản Diện"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Năng Lượng Tình Dục.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md"
+        ],
+        "backlinks": [
+          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
+          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
+          "esoterica/Atlantis.md",
+          "esoterica/Atula.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/index.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Tà Linh.md",
+          "index.md",
+          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
+          "MOC - Esoterica & Consciousness.md",
+          "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md"
+        ],
+        "words": 852,
+        "summary": "!A surreal human city at night emitting visible emotional currents into unseen collectors above"
       },
       {
         "path": "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
@@ -3314,72 +3406,6 @@
         ],
         "words": 3647,
         "summary": "!Các lớp khảo cổ với một nền văn minh cổ tiên tiến bị chôn dưới những trang timeline sách giáo khoa, như một audit về lịch sử bị chuẩn hóa"
-      },
-      {
-        "path": "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-        "title": "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-        "domain": "esoterica",
-        "tags": [
-          "consciousness",
-          "emotional-energy",
-          "esoterica",
-          "matrix"
-        ],
-        "aliases": [
-          "Energy Harvesting",
-          "Loosh",
-          "Loosh Farm",
-          "Thu Hoạch Năng Lượng"
-        ],
-        "headings": [
-          "Loosh — Năng Lượng Thu Hoạch Từ Con Người",
-          "Evidence Discipline / Cách Đọc",
-          "Robert Monroe Và Nguồn Gốc Thuật Ngữ",
-          "Parallels: Archons, Flyers, Hungry Beings",
-          "Cơ Chế Thu Hoạch Hiện Đại",
-          "Dopamine-Loosh Loop",
-          "Ma Trận Và Luân Hồi",
-          "Escape: Không Feed Field",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Luân Hồi",
-          "Ma Trận",
-          "Năng Lượng Tình Dục",
-          "Schadenfreude - Dopamine Phản Diện"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Năng Lượng Tình Dục.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md"
-        ],
-        "backlinks": [
-          "_docs/VAULT-95-PUBLICATION-RUBRIC.md",
-          "esoterica/33 Tầng Bậc - Khám Phá Ngôi Đền Linh Thiêng Trong Tâm Trí.md",
-          "esoterica/Atlantis.md",
-          "esoterica/Atula.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "esoterica/index.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Sacred Plants Corrupted - Thuốc Lá, Rượu và Cú Lừa Thế Kỷ.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Tà Linh.md",
-          "index.md",
-          "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
-          "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
-          "MOC - Esoterica & Consciousness.md"
-        ],
-        "words": 852,
-        "summary": "!A surreal human city at night emitting visible emotional currents into unseen collectors above"
       },
       {
         "path": "esoterica/Năng Lượng Tình Dục.md",
@@ -12343,6 +12369,7 @@
           "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
           "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
           "Báo Cáo 2030",
+          "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
           "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
           "Bức Tường Băng",
           "Cabal",
@@ -12412,6 +12439,7 @@
           "MOC - Science Revisionism.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
           "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Bức Tường Băng.md",
           "politics-conspiracy/Dark MAGA.md",
@@ -12441,7 +12469,7 @@
           "mental-models/index.md",
           "science-tech/index.md"
         ],
-        "words": 1071,
+        "words": 1122,
         "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
       },
       {
@@ -12872,6 +12900,86 @@
         "summary": "---"
       },
       {
+        "path": "politics-conspiracy/Mudflood.md",
+        "title": "Mudflood (Đại Hồng Thủy Bùn)",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "politics-conspiracy"
+        ],
+        "aliases": [
+          "Mudflood"
+        ],
+        "headings": [
+          "Evidence Discipline / Cách Đọc Claim",
+          "Source Register / Nguồn Nên Đối Chiếu",
+          "Mudflood (Đại Hồng Thủy Bùn)",
+          "Bằng chứng kiến trúc",
+          "Buried First Floors",
+          "Star Forts bị chôn",
+          "World's Fair Buildings",
+          "Giả thuyết về nguyên nhân",
+          "1. Thảm họa tự nhiên",
+          "2. Vũ khí công nghệ",
+          "3. Combination",
+          "Timeline đề xuất",
+          "Hồ Sơ Hiện Đại",
+          "Bằng chứng bổ sung",
+          "Orphan Trains (1854-1929)",
+          "Missing population",
+          "Old photos",
+          "Implications",
+          "Related",
+          "Tartaria & Lost History",
+          "Công nghệ & Năng lượng",
+          "Che giấu & Kiểm soát"
+        ],
+        "wikilinks": [
+          "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
+          "Bức Tường Băng",
+          "Elite",
+          "Khoa Học Xét Lại",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "MOC - Epistemology & Propaganda",
+          "Nikola Tesla",
+          "Năng Lượng Aether",
+          "Tartaria",
+          "Tartaria và Vạn Lý Trường Thành",
+          "Theo Dấu Tartaria  - Tác Giả Kan",
+          "Vũ Khí Năng Lượng Định Hướng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
+          "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Năng Lượng Aether.md",
+          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+        ],
+        "backlinks": [
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "esoterica/Tartaria.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
+          "politics-conspiracy/Bức Tường Băng.md",
+          "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
+        ],
+        "words": 755,
+        "summary": "---"
+      },
+      {
         "path": "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
         "title": "Khế Ước Bí Mật Rockefeller (The Secret Covenant)",
         "domain": "politics-conspiracy",
@@ -12940,82 +13048,6 @@
           "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md"
         ],
         "words": 829,
-        "summary": "---"
-      },
-      {
-        "path": "politics-conspiracy/Mudflood.md",
-        "title": "Mudflood (Đại Hồng Thủy Bùn)",
-        "domain": "politics-conspiracy",
-        "tags": [
-          "politics-conspiracy"
-        ],
-        "aliases": [
-          "Mudflood"
-        ],
-        "headings": [
-          "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Mudflood (Đại Hồng Thủy Bùn)",
-          "Bằng chứng kiến trúc",
-          "Buried First Floors",
-          "Star Forts bị chôn",
-          "World's Fair Buildings",
-          "Giả thuyết về nguyên nhân",
-          "1. Thảm họa tự nhiên",
-          "2. Vũ khí công nghệ",
-          "3. Combination",
-          "Timeline đề xuất",
-          "Bằng chứng bổ sung",
-          "Orphan Trains (1854-1929)",
-          "Missing population",
-          "Old photos",
-          "Implications",
-          "Related",
-          "Tartaria & Lost History",
-          "Công nghệ & Năng lượng",
-          "Che giấu & Kiểm soát"
-        ],
-        "wikilinks": [
-          "Bức Tường Băng",
-          "Elite",
-          "Khoa Học Xét Lại",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "MOC - Epistemology & Propaganda",
-          "Nikola Tesla",
-          "Năng Lượng Aether",
-          "Tartaria",
-          "Tartaria và Vạn Lý Trường Thành",
-          "Theo Dấu Tartaria  - Tác Giả Kan",
-          "Vũ Khí Năng Lượng Định Hướng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Tartaria và Vạn Lý Trường Thành.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/Bức Tường Băng.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md",
-          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-        ],
-        "backlinks": [
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "esoterica/Tartaria.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "politics-conspiracy/Bức Tường Băng.md",
-          "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
-          "politics-conspiracy/index.md",
-          "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-          "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
-        ],
-        "words": 715,
         "summary": "---"
       },
       {
@@ -13533,6 +13565,93 @@
         "summary": "**Trái Đất Phẳng** là một node cửa ngõ: nó không chỉ hỏi \"hình dạng địa cầu là gì\", mà còn hỏi con người hiện đại biết thế giới bằng kinh nghiệm trực tiếp, bằng mô hình toán học, hay bằng niềm tin vào thể chế trung gian. Vì vậy bài này không thay thế bài chuy…"
       },
       {
+        "path": "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
+        "title": "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
+        "domain": "politics-conspiracy",
+        "tags": [
+          "001",
+          "002",
+          "003",
+          "004",
+          "dew",
+          "dumb",
+          "fact-check",
+          "haarp",
+          "himalaya",
+          "hypothesis",
+          "loosh",
+          "mudflood",
+          "nepal",
+          "tartaria",
+          "tibet"
+        ],
+        "aliases": [
+          "Bốn Van Lũ Bùn Himalaya",
+          "Himalayan Mud Flood Valves",
+          "Van Lũ Bùn Cabal 2026"
+        ],
+        "headings": [
+          "Bốn Van Lũ Bùn Himalaya 2026 — Hồ Sơ Giả Thuyết Và Kiểm Chứng",
+          "1. Vì Sao Cảnh Sau Lũ Thật Sự Giống Mudflood?",
+          "2. Sự Kiện Có Hồ Sơ Mạnh Nhất: Nepal–Tibet Ngày 26/08/2026",
+          "3. Bốn “Van” Trong Bài Viral Có Thật Sự Là Bốn Vụ?",
+          "#001: “Pakistan/Sikkim — 12/07”",
+          "#002: “Turkey/Nyalam — 28/07”",
+          "#003: “Pelku Tso/Tibet — 22/08”",
+          "#004: “Nepal/Dharali/Rasuwagadhi — 05–08/08”",
+          "4. Những Bất Thường Không Nên Bị Bỏ Qua",
+          "5. Kiểm Tra Kỹ Thuật: DEW, HAARP Và Băng Xanh",
+          "DEW Có Thật Không?",
+          "Bài Toán Năng Lượng Của “5 GW Làm Tan 50 Triệu m³ Băng”",
+          "HAARP Và 7,83 Hz",
+          "Băng Xanh",
+          "Vết Cắt Thẳng",
+          "6. Loosh, DUMB Và Agartha Nằm Ở Tầng Nào?",
+          "Loosh",
+          "DUMB",
+          "Agartha",
+          "Cabal",
+          "7. Giải Phẫu Cách Câu Chuyện Viral Được Dựng",
+          "8. Hồ Sơ Điều Tra Cần Gì Để Nâng Confidence?",
+          "Ảnh vệ tinh",
+          "Địa chấn",
+          "Nhiệt và vật liệu",
+          "Thủy văn",
+          "Dấu vận hành",
+          "Điều gì sẽ hạ confidence?",
+          "9. Kết Luận: Không Bác Framework, Không Nuốt Câu Chuyện",
+          "Nguồn Và Hồ Sơ",
+          "Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "MOC - Epistemology & Propaganda",
+          "Mudflood",
+          "Tartaria",
+          "Vũ Khí Năng Lượng Định Hướng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Tartaria.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Mudflood.md",
+          "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+        ],
+        "backlinks": [
+          "esoterica/Tartaria.md",
+          "index.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/index.md",
+          "politics-conspiracy/Mudflood.md",
+          "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+        ],
+        "words": 3611,
+        "summary": "**Sau một dòng lũ bùn, tầng một của ngôi nhà có thể trở thành tầng hầm chỉ trong vài phút. Đường biến mất. Mốc đất biến mất. Người biến mất. Kiến trúc còn lại lâu hơn ký ức về người đã xây nó.**"
+      },
+      {
         "path": "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "title": "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
         "domain": "politics-conspiracy",
@@ -13559,7 +13678,7 @@
           "4. “I Am Iron Man” Và “I’m Doom” — Cùng Một Thiên Tài, Hai Quan Hệ Với Quyền Lực",
           "Battleworld Là Địa Ngục Hay Một Thế Giới Đã Được Cứu?",
           "5. Battleworld Là Một Cuộc Tái Lập Lịch Sử Hoàn Chỉnh",
-          "Va chạm đa vũ trụ Là Đại Hồng Thủy Của Đa Vũ Trụ",
+          "Va Chạm Đa Vũ Trụ Là Đại Hồng Thủy Của Đa Vũ Trụ",
           "Kiến Trúc Cũ Còn Đó, Nhưng Chủ Nhân Cũ Biến Mất",
           "Orphan Train Ở Cấp Độ Cả Thế Giới",
           "Reed Là Người Sống Qua “Thế Kỷ Trống”",
@@ -14170,6 +14289,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "August 28, 2026",
           "August 24, 2026",
           "August 19, 2026",
           "August 18, 2026",
@@ -14215,6 +14335,7 @@
           "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
           "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
           "Báo Cáo 2030",
+          "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
           "Bộ Não Rỗng và AI Brain Rot",
           "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
           "Cabal",
@@ -14509,6 +14630,7 @@
           "MOC - Science Revisionism.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
           "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/Elite.md",
           "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
@@ -14565,7 +14687,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 6530,
+        "words": 6575,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14594,6 +14716,7 @@
           "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
           "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
           "Báo Cáo 2030",
+          "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
           "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
           "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
           "Climate Anxiety as Control - Fear-Based Compliance",
@@ -14641,6 +14764,7 @@
           "mental-models/Thế Hệ Lọt Khe.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
           "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
           "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
           "politics-conspiracy/Kiểm Soát Tâm Trí.md",
@@ -14667,6 +14791,7 @@
           "MOC - Ancient Civilizations & Hidden History.md",
           "MOC - Esoterica & Consciousness.md",
           "MOC - Science Revisionism.md",
+          "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
           "politics-conspiracy/Bức Tường Băng.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
@@ -14684,7 +14809,7 @@
           "science-tech/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 989,
+        "words": 1015,
         "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
       },
       {
@@ -16309,6 +16434,70 @@
         "summary": "*Decoding Nuclear Energy & The Radiation Hoax*"
       },
       {
+        "path": "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "title": "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
+        "domain": "science-tech",
+        "tags": [
+          "awakening",
+          "long-mach",
+          "monad",
+          "natural-disasters",
+          "philosophy",
+          "science-tech",
+          "source-note",
+          "spirituality"
+        ],
+        "aliases": [
+          "Giải Mã Thiên Tai",
+          "Long Mạch và Triết Học Monad"
+        ],
+        "headings": [
+          "Evidence Discipline / Cách Đọc Claim",
+          "Source Register / Nguồn Nên Đối Chiếu",
+          "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
+          "1. Giải Mã Thiên Tai Theo Góc Nhìn Long Mạch",
+          "2. Triết Học Monad: Hành Trình Trở Về Nguồn",
+          "Các Tầng Hiện Hữu Của Monad (Theo Leibniz)",
+          "Sự Thức Tỉnh và Nhất Thể",
+          "Liên kết hệ thống",
+          "Evidence Discipline / Cách Đọc Thiên Tai",
+          "Map Position / Vị Trí Trong Vault",
+          "Related"
+        ],
+        "wikilinks": [
+          "Cách Đọc Red Pill Wiki",
+          "Khoa Học Xét Lại",
+          "Khế Ước Bí Mật Rockefeller",
+          "Long Mạch",
+          "MOC - Science Revisionism",
+          "Monad",
+          "Năng Lượng Aether",
+          "Sự Nhất Thể",
+          "Vũ Trụ Học Phật Giáo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Long Mạch.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "backlinks": [
+          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
+          "esoterica/index.md",
+          "esoterica/Long Mạch.md",
+          "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
+          "science-tech/index.md"
+        ],
+        "words": 960,
+        "summary": "---"
+      },
+      {
         "path": "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
         "title": "Orphan Black Echoes & Detroit - Bản Thể Và Linh Hồn AI",
         "domain": "science-tech",
@@ -16445,67 +16634,59 @@
         "summary": "---"
       },
       {
-        "path": "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "title": "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
+        "path": "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
+        "title": "Vũ Khí Năng Lượng Định Hướng",
         "domain": "science-tech",
         "tags": [
-          "awakening",
-          "long-mach",
-          "monad",
-          "natural-disasters",
-          "philosophy",
-          "science-tech",
-          "source-note",
-          "spirituality"
+          "defense-tech",
+          "revisionist-science",
+          "science-tech"
         ],
         "aliases": [
-          "Giải Mã Thiên Tai",
-          "Long Mạch và Triết Học Monad"
+          "DEW",
+          "Directed Energy Weapon",
+          "High-Energy Laser",
+          "High-Power Microwave"
         ],
         "headings": [
+          "Vũ Khí Năng Lượng Định Hướng (DEW)",
           "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Nguồn Nên Đối Chiếu",
-          "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
-          "1. Giải Mã Thiên Tai Theo Góc Nhìn Long Mạch",
-          "2. Triết Học Monad: Hành Trình Trở Về Nguồn",
-          "Các Tầng Hiện Hữu Của Monad (Theo Leibniz)",
-          "Sự Thức Tỉnh và Nhất Thể",
-          "Liên kết hệ thống",
-          "Evidence Discipline / Cách Đọc Thiên Tai",
-          "Map Position / Vị Trí Trong Vault",
-          "Related"
+          "Source Register / Sổ Nguồn",
+          "DEW Là Gì / What It Is",
+          "Why It Matters / Tại Sao Quan Trọng",
+          "9/11 And Claim Boundaries / 9/11 Và Ranh Giới Tuyên Bố",
+          "Elite Tooling / Công Cụ Quyền Lực",
+          "How To Investigate / Cách Điều Tra",
+          "Hồ Sơ Ứng Dụng",
+          "Kết Luận / Closing"
         ],
         "wikilinks": [
-          "Cách Đọc Red Pill Wiki",
-          "Khoa Học Xét Lại",
-          "Khế Ước Bí Mật Rockefeller",
-          "Long Mạch",
+          "Báo Cáo 2030",
+          "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
+          "Elite",
           "MOC - Science Revisionism",
-          "Monad",
-          "Năng Lượng Aether",
-          "Sự Nhất Thể",
-          "Vũ Trụ Học Phật Giáo"
+          "Sự Thật Về Vụ Sập Tháp Đôi WTC"
         ],
         "mdlinks": [],
         "outlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Long Mạch.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
           "MOC - Science Revisionism.md",
-          "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Năng Lượng Aether.md"
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md"
         ],
         "backlinks": [
-          "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
-          "esoterica/index.md",
-          "esoterica/Long Mạch.md",
+          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
+          "index.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
+          "politics-conspiracy/Mudflood.md",
+          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
           "science-tech/index.md"
         ],
-        "words": 960,
-        "summary": "---"
+        "words": 1011,
+        "summary": "**DEW là công nghệ thật: laser năng lượng cao, microwave công suất cao và các hệ thống gây nhiễu/đốt/disable mục tiêu bằng năng lượng tập trung. Nhưng từ “DEW tồn tại” đến “DEW giải thích mọi thảm họa” là một bước nhảy claim cần kỷ luật.**"
       },
       {
         "path": "science-tech/Walter Russell.md",
@@ -16633,57 +16814,6 @@
         ],
         "words": 5151,
         "summary": "**Lao động tổng hợp không chỉ là “công cụ AI”. Nó là một hệ thống lao động mới: có trí nhớ, vai trò, quy trình, ngân sách, điểm kiểm tra, người giám sát và đầu ra. Biên giới tiếp theo không phải mô hình thông minh thêm 20%, mà là một người có thể chuyển bao n…"
-      },
-      {
-        "path": "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-        "title": "Vũ Khí Năng Lượng Định Hướng",
-        "domain": "science-tech",
-        "tags": [
-          "defense-tech",
-          "revisionist-science",
-          "science-tech"
-        ],
-        "aliases": [
-          "DEW",
-          "Directed Energy Weapon",
-          "High-Energy Laser",
-          "High-Power Microwave"
-        ],
-        "headings": [
-          "Vũ Khí Năng Lượng Định Hướng (DEW)",
-          "Evidence Discipline / Cách Đọc Claim",
-          "Source Register / Sổ Nguồn",
-          "DEW Là Gì / What It Is",
-          "Why It Matters / Tại Sao Quan Trọng",
-          "9/11 And Claim Boundaries / 9/11 Và Ranh Giới Tuyên Bố",
-          "Elite Tooling / Công Cụ Quyền Lực",
-          "How To Investigate / Cách Điều Tra",
-          "Kết Luận / Closing"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Elite",
-          "MOC - Science Revisionism",
-          "Sự Thật Về Vụ Sập Tháp Đôi WTC"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md"
-        ],
-        "backlinks": [
-          "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
-          "index.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Mudflood.md",
-          "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-          "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-          "science-tech/index.md"
-        ],
-        "words": 974,
-        "summary": "**DEW là công nghệ thật: laser năng lượng cao, microwave công suất cao và các hệ thống gây nhiễu/đốt/disable mục tiêu bằng năng lượng tập trung. Nhưng từ “DEW tồn tại” đến “DEW giải thích mọi thảm họa” là một bước nhảy claim cần kỷ luật.**"
       },
       {
         "path": "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
@@ -18625,6 +18755,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "August 28, 2026",
         "August 24, 2026",
         "August 19, 2026",
         "August 18, 2026",
@@ -18670,6 +18801,7 @@
         "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
         "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
         "Báo Cáo 2030",
+        "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
         "Bộ Não Rỗng và AI Brain Rot",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
         "Cabal",
@@ -18964,6 +19096,7 @@
         "MOC - Science Revisionism.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
@@ -19020,7 +19153,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 6530,
+      "words": 6575,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -19671,6 +19804,7 @@
         "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
         "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
         "Báo Cáo 2030",
+        "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
         "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "Climate Anxiety as Control - Fear-Based Compliance",
@@ -19718,6 +19852,7 @@
         "mental-models/Thế Hệ Lọt Khe.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
@@ -19744,6 +19879,7 @@
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Esoterica & Consciousness.md",
         "MOC - Science Revisionism.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
@@ -19761,7 +19897,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 989,
+      "words": 1015,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     {
@@ -20518,6 +20654,7 @@
         "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
         "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
         "Báo Cáo 2030",
+        "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
         "Bức Tường Băng",
         "Cabal",
@@ -20587,6 +20724,7 @@
         "MOC - Science Revisionism.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/Dark MAGA.md",
@@ -20616,7 +20754,7 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 1071,
+      "words": 1122,
       "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
     },
     {
@@ -21922,6 +22060,27 @@
       "backlinks": [],
       "words": 4403,
       "summary": "Private planning document for public distribution. Kept under `_docs/`, which is excluded from Quartz publishing by `quartz.config.ts`."
+    },
+    {
+      "path": "_docs/four-himalayan-mud-valves-viral-source-20260828.md",
+      "title": "Four Himalayan Mud-Flood Valves 2026 — Viral Source Snapshot",
+      "domain": "_docs",
+      "tags": [
+        "001",
+        "002",
+        "003",
+        "004"
+      ],
+      "aliases": [],
+      "headings": [
+        "Four Himalayan Mud-Flood Valves 2026 — Viral Source Snapshot"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 2645,
+      "summary": "- Captured: 2026-08-28 - Provenance: verbatim user-supplied Vietnamese viral post from Telegram message 32602 - Status: **UNVERIFIED VIRAL CLAIM SET — NOT A FACTUAL SOURCE** - Editorial use: claim inventory only; every event attribution requires independent e…"
     },
     {
       "path": "_docs/SEO-BUILD-VALIDATION.md",
@@ -23246,6 +23405,10 @@
       5
     ],
     [
+      "tartaria",
+      5
+    ],
+    [
       "dopamine-economy",
       5
     ],
@@ -23278,10 +23441,6 @@
       4
     ],
     [
-      "tartaria",
-      4
-    ],
-    [
       "awakening",
       4
     ],
@@ -23291,6 +23450,10 @@
     ],
     [
       "cancer",
+      4
+    ],
+    [
+      "loosh",
       4
     ],
     [
@@ -23354,10 +23517,6 @@
       3
     ],
     [
-      "loosh",
-      3
-    ],
-    [
       "vietnam",
       3
     ],
@@ -23368,6 +23527,22 @@
     [
       "elite",
       3
+    ],
+    [
+      "001",
+      2
+    ],
+    [
+      "002",
+      2
+    ],
+    [
+      "003",
+      2
+    ],
+    [
+      "004",
+      2
     ],
     [
       "market-structure",
@@ -23479,22 +23654,6 @@
     ],
     [
       "WeAre26",
-      1
-    ],
-    [
-      "ai-compliance",
-      1
-    ],
-    [
-      "chainlink",
-      1
-    ],
-    [
-      "financial-crisis",
-      1
-    ],
-    [
-      "oracle",
       1
     ]
   ],
@@ -23903,6 +24062,7 @@
         "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
         "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
         "Báo Cáo 2030",
+        "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
         "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
         "Climate Anxiety as Control - Fear-Based Compliance",
@@ -23950,6 +24110,7 @@
         "mental-models/Thế Hệ Lọt Khe.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
@@ -23976,6 +24137,7 @@
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Esoterica & Consciousness.md",
         "MOC - Science Revisionism.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
@@ -23993,7 +24155,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 989,
+      "words": 1015,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     "MOC - Esoterica & Consciousness.md": {
@@ -25069,6 +25231,27 @@
       "backlinks": [],
       "words": 2057,
       "summary": "- Captured: 2026-08-24 - Provenance: verbatim user-supplied Vietnamese leak summary from Telegram message 32540 - Status: **UNVERIFIED LEAK — NOT OFFICIAL CANON** - Editorial rule: preserve as evidence; public articles may summarize but must label every detai…"
+    },
+    "_docs/four-himalayan-mud-valves-viral-source-20260828.md": {
+      "path": "_docs/four-himalayan-mud-valves-viral-source-20260828.md",
+      "title": "Four Himalayan Mud-Flood Valves 2026 — Viral Source Snapshot",
+      "domain": "_docs",
+      "tags": [
+        "001",
+        "002",
+        "003",
+        "004"
+      ],
+      "aliases": [],
+      "headings": [
+        "Four Himalayan Mud-Flood Valves 2026 — Viral Source Snapshot"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [],
+      "words": 2645,
+      "summary": "- Captured: 2026-08-28 - Provenance: verbatim user-supplied Vietnamese viral post from Telegram message 32602 - Status: **UNVERIFIED VIRAL CLAIM SET — NOT A FACTUAL SOURCE** - Editorial use: claim inventory only; every event attribution requires independent e…"
     },
     "claude.md": {
       "path": "claude.md",
@@ -28362,7 +28545,8 @@
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
         "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
-        "MOC - Esoterica & Consciousness.md"
+        "MOC - Esoterica & Consciousness.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md"
       ],
       "words": 852,
       "summary": "!A surreal human city at night emitting visible emotional currents into unseen collectors above"
@@ -30687,6 +30871,7 @@
         "Vault Position / Vị Trí Trong Vault",
         "Tartary Trên Bản Đồ Cổ",
         "Kiến Trúc: Câu Hỏi Không Nên Đọc Vội",
+        "Analog Hiện Đại",
         "Mudflood Và Reset Memory",
         "Aether Tech Và Mái Vòm",
         "Tartaria Và Việt Nam",
@@ -30694,6 +30879,7 @@
         "Chốt Lại / Core Insight"
       ],
       "wikilinks": [
+        "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
         "Khoa Học Xét Lại",
         "Long Mạch",
         "MOC - Ancient Civilizations & Hidden History",
@@ -30707,6 +30893,7 @@
         "esoterica/Long Mạch.md",
         "esoterica/Thành Cổ Loa.md",
         "MOC - Ancient Civilizations & Hidden History.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Mudflood.md",
         "science-tech/Khoa Học Xét Lại.md",
         "science-tech/Nikola Tesla.md",
@@ -30729,6 +30916,7 @@
         "index.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
         "MOC - Ancient Civilizations & Hidden History.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/index.md",
@@ -30737,7 +30925,7 @@
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 1331,
+      "words": 1375,
       "summary": "**Tartaria là một case study về cách lịch sử, bản đồ, kiến trúc và ký ức tập thể có thể bị đọc theo nhiều tầng cùng lúc.** Tầng fact: \"Tartary\" từng xuất hiện trên nhiều bản đồ châu Âu để chỉ các vùng rộng lớn ở Á-Âu, thường mơ hồ theo hiểu biết địa lý của th…"
     },
     "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md": {
@@ -33638,6 +33826,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "August 28, 2026",
         "August 24, 2026",
         "August 19, 2026",
         "August 18, 2026",
@@ -33683,6 +33872,7 @@
         "BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh",
         "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
         "Báo Cáo 2030",
+        "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
         "Bộ Não Rỗng và AI Brain Rot",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
         "Cabal",
@@ -33977,6 +34167,7 @@
         "MOC - Science Revisionism.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
@@ -34033,7 +34224,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 6530,
+      "words": 6575,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -37345,6 +37536,93 @@
       "words": 1259,
       "summary": "**Bão từ là nơi khoa học không gian, từ trường Trái Đất và các mô hình vũ trụ xét lại va vào nhau.** Tầng mainstream nói geomagnetic storms chủ yếu liên quan hoạt động Mặt Trời tương tác với magnetosphere. Tầng revisionist trong vault hỏi: tại sao hiệu ứng th…"
     },
+    "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md": {
+      "path": "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
+      "title": "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
+      "domain": "politics-conspiracy",
+      "tags": [
+        "001",
+        "002",
+        "003",
+        "004",
+        "dew",
+        "dumb",
+        "fact-check",
+        "haarp",
+        "himalaya",
+        "hypothesis",
+        "loosh",
+        "mudflood",
+        "nepal",
+        "tartaria",
+        "tibet"
+      ],
+      "aliases": [
+        "Bốn Van Lũ Bùn Himalaya",
+        "Himalayan Mud Flood Valves",
+        "Van Lũ Bùn Cabal 2026"
+      ],
+      "headings": [
+        "Bốn Van Lũ Bùn Himalaya 2026 — Hồ Sơ Giả Thuyết Và Kiểm Chứng",
+        "1. Vì Sao Cảnh Sau Lũ Thật Sự Giống Mudflood?",
+        "2. Sự Kiện Có Hồ Sơ Mạnh Nhất: Nepal–Tibet Ngày 26/08/2026",
+        "3. Bốn “Van” Trong Bài Viral Có Thật Sự Là Bốn Vụ?",
+        "#001: “Pakistan/Sikkim — 12/07”",
+        "#002: “Turkey/Nyalam — 28/07”",
+        "#003: “Pelku Tso/Tibet — 22/08”",
+        "#004: “Nepal/Dharali/Rasuwagadhi — 05–08/08”",
+        "4. Những Bất Thường Không Nên Bị Bỏ Qua",
+        "5. Kiểm Tra Kỹ Thuật: DEW, HAARP Và Băng Xanh",
+        "DEW Có Thật Không?",
+        "Bài Toán Năng Lượng Của “5 GW Làm Tan 50 Triệu m³ Băng”",
+        "HAARP Và 7,83 Hz",
+        "Băng Xanh",
+        "Vết Cắt Thẳng",
+        "6. Loosh, DUMB Và Agartha Nằm Ở Tầng Nào?",
+        "Loosh",
+        "DUMB",
+        "Agartha",
+        "Cabal",
+        "7. Giải Phẫu Cách Câu Chuyện Viral Được Dựng",
+        "8. Hồ Sơ Điều Tra Cần Gì Để Nâng Confidence?",
+        "Ảnh vệ tinh",
+        "Địa chấn",
+        "Nhiệt và vật liệu",
+        "Thủy văn",
+        "Dấu vận hành",
+        "Điều gì sẽ hạ confidence?",
+        "9. Kết Luận: Không Bác Framework, Không Nuốt Câu Chuyện",
+        "Nguồn Và Hồ Sơ",
+        "Đọc Tiếp"
+      ],
+      "wikilinks": [
+        "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
+        "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+        "MOC - Epistemology & Propaganda",
+        "Mudflood",
+        "Tartaria",
+        "Vũ Khí Năng Lượng Định Hướng"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+        "esoterica/Tartaria.md",
+        "MOC - Epistemology & Propaganda.md",
+        "politics-conspiracy/Mudflood.md",
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+      ],
+      "backlinks": [
+        "esoterica/Tartaria.md",
+        "index.md",
+        "MOC - Epistemology & Propaganda.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Mudflood.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+      ],
+      "words": 3611,
+      "summary": "**Sau một dòng lũ bùn, tầng một của ngôi nhà có thể trở thành tầng hầm chỉ trong vài phút. Đường biến mất. Mốc đất biến mất. Người biến mất. Kiến trúc còn lại lâu hơn ký ức về người đã xây nó.**"
+    },
     "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md": {
       "path": "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
       "title": "Tam Giác Mind Control - NASA, Disney, Hollywood",
@@ -37704,7 +37982,7 @@
         "4. “I Am Iron Man” Và “I’m Doom” — Cùng Một Thiên Tài, Hai Quan Hệ Với Quyền Lực",
         "Battleworld Là Địa Ngục Hay Một Thế Giới Đã Được Cứu?",
         "5. Battleworld Là Một Cuộc Tái Lập Lịch Sử Hoàn Chỉnh",
-        "Va chạm đa vũ trụ Là Đại Hồng Thủy Của Đa Vũ Trụ",
+        "Va Chạm Đa Vũ Trụ Là Đại Hồng Thủy Của Đa Vũ Trụ",
         "Kiến Trúc Cũ Còn Đó, Nhưng Chủ Nhân Cũ Biến Mất",
         "Orphan Train Ở Cấp Độ Cả Thế Giới",
         "Reed Là Người Sống Qua “Thế Kỷ Trống”",
@@ -38052,6 +38330,7 @@
         "2. Vũ khí công nghệ",
         "3. Combination",
         "Timeline đề xuất",
+        "Hồ Sơ Hiện Đại",
         "Bằng chứng bổ sung",
         "Orphan Trains (1854-1929)",
         "Missing population",
@@ -38063,6 +38342,7 @@
         "Che giấu & Kiểm soát"
       ],
       "wikilinks": [
+        "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
         "Bức Tường Băng",
         "Elite",
         "Khoa Học Xét Lại",
@@ -38083,6 +38363,7 @@
         "esoterica/Tartaria.md",
         "esoterica/Theo Dấu Tartaria  - Tác Giả Kan.md",
         "MOC - Epistemology & Propaganda.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
@@ -38096,13 +38377,14 @@
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Tartaria.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md"
       ],
-      "words": 715,
+      "words": 755,
       "summary": "---"
     },
     "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md": {
@@ -38929,6 +39211,7 @@
         "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
         "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
         "Báo Cáo 2030",
+        "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
         "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
         "Bức Tường Băng",
         "Cabal",
@@ -38998,6 +39281,7 @@
         "MOC - Science Revisionism.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
         "politics-conspiracy/Bức Tường Băng.md",
         "politics-conspiracy/Dark MAGA.md",
@@ -39027,7 +39311,7 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 1071,
+      "words": 1122,
       "summary": "**Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng \"âm…"
     },
     "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md": {
@@ -39634,6 +39918,7 @@
         "esoterica/Bản Đồ Năng Lượng Đất Mẹ.md",
         "esoterica/index.md",
         "esoterica/Long Mạch.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "science-tech/index.md"
       ],
       "words": 960,
@@ -40237,10 +40522,12 @@
         "9/11 And Claim Boundaries / 9/11 Và Ranh Giới Tuyên Bố",
         "Elite Tooling / Công Cụ Quyền Lực",
         "How To Investigate / Cách Điều Tra",
+        "Hồ Sơ Ứng Dụng",
         "Kết Luận / Closing"
       ],
       "wikilinks": [
         "Báo Cáo 2030",
+        "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
         "Elite",
         "MOC - Science Revisionism",
         "Sự Thật Về Vụ Sập Tháp Đôi WTC"
@@ -40249,6 +40536,7 @@
       "outlinks": [
         "MOC - Science Revisionism.md",
         "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Elite.md",
         "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md"
       ],
@@ -40256,12 +40544,13 @@
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "index.md",
         "MOC - Science Revisionism.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
         "politics-conspiracy/Mudflood.md",
         "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
         "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
         "science-tech/index.md"
       ],
-      "words": 974,
+      "words": 1011,
       "summary": "**DEW là công nghệ thật: laser năng lượng cao, microwave công suất cao và các hệ thống gây nhiễu/đốt/disable mục tiêu bằng năng lượng tập trung. Nhưng từ “DEW tồn tại” đến “DEW giải thích mọi thảm họa” là một bước nhảy claim cần kỷ luật.**"
     },
     "science-tech/Walter Russell.md": {

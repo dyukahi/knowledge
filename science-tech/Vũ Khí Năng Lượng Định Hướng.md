@@ -102,6 +102,10 @@ Khi gặp claim DEW:
 
 ---
 
+## Hồ Sơ Ứng Dụng
+
+- [[Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng]] — kiểm tra DEW, HAARP, ngân sách năng lượng và dấu vết hiện trường trong một thảm họa đang diễn ra.
+
 ## Kết Luận / Closing
 
 DEW là thật, và vì nó thật nên càng phải đọc kỹ. Nếu đọc lười, mọi đám cháy thành laser, mọi bất thường thành microwave, mọi thảm họa thành hidden weapon. Nếu đọc chín, DEW trở thành một cửa vào câu hỏi lớn hơn: công nghệ quyền lực nào đã tồn tại công khai, công nghệ nào đang bị che, và dấu vết nào đủ mạnh để phân biệt hai thứ đó?

@@ -1,0 +1,96 @@
+{
+  "schema": "vault-high-risk-event-register.v1",
+  "article": "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
+  "as_of": "2026-08-28",
+  "events": [
+    {
+      "viral_id": "001",
+      "viral_labels": ["Pakistan", "Sikkim", "Teesta", "12/07/2026"],
+      "claim": "HAARP/chemtrail/DEW tạo lũ, 1.200 người chết.",
+      "status": "not_corroborated_and_internally_conflicted",
+      "findings": ["Sikkim thuộc Ấn Độ, không phải Pakistan.", "Không tìm thấy hồ sơ đáng tin cho lũ Teesta 1.200 người chết ngày 12/07/2026.", "Có nguy cơ trộn lũ Teesta 2023, mưa lũ 2026 và tai nạn công trình Teesta VI."],
+      "confidence": 5
+    },
+    {
+      "viral_id": "002",
+      "viral_labels": ["Turkey", "Nyalam", "Tibet", "28/07/2026"],
+      "claim": "DEW plasma, hố kính hóa, DUMB nổ, 800 người chết.",
+      "status": "not_corroborated_and_internally_conflicted",
+      "findings": ["Tiêu đề ghi Turkey nhưng nội dung chuyển sang Nyalam/Tibet.", "Không có ảnh gốc, tọa độ, mẫu vật kính hóa, hồ sơ địa chấn hay casualty register được dẫn."],
+      "confidence": 3
+    },
+    {
+      "viral_id": "003",
+      "viral_labels": ["Pelku Tso", "Gyirong/Kyirong", "Tibet", "22/08/2026"],
+      "claim": "Orion-Sigma 5 GW làm tan đập băng, lấy 50 triệu m3 nước cho DUMB.",
+      "status": "possible_event_conflation_open_questions_remain",
+      "findings": ["Có social reports về bất ổn/lũ trong vùng Gyirong quanh 22/08, nhưng nguồn mạnh hơn xác nhận thảm họa chính ngày 26/08 từ glacial collapse ở thượng nguồn Lhende.", "Không tìm thấy hồ sơ công khai đáng tin cho Orion-Sigma, ATOM LAB, vệt DEW hay chuyển nước 40 km vào DUMB.", "Pelku Tso attribution cần original satellite scene ID và hydrological tracing."],
+      "confidence": 15
+    },
+    {
+      "viral_id": "004",
+      "viral_labels": ["Nepal", "Dharali", "Rasuwagadhi", "Timure", "Syabrubesi", "05-08/08/2026"],
+      "claim": "DEW cắt núi, HAARP 7.83 Hz, bom DUMB tạo đập rồi xả bùn, 3.000 người chết.",
+      "status": "real_disaster_mixed_with_wrong_date_and_different_event",
+      "findings": ["Dharali là ở Uttarakhand, Ấn Độ và thảm họa lớn xảy ra 05/08/2025.", "Rasuwagadhi–Timure–Syapru Besi bị thảm họa lớn ngày 26/08/2026, không phải 05–08/08.", "USGS xác định glacial collapse/debris flow, không phải động đất kiến tạo.", "Không có bằng chứng công khai cho Agartha số 9, DUMB Rasuwagadhi hoặc Loosh operation."],
+      "confidence": 10
+    },
+    {
+      "event_id": "DOCUMENTED-2026-08-26",
+      "location": "Upper Lhende valley, Tibet–Nepal border; downstream Rasuwa/Nuwakot/Dhading",
+      "time": "2026-08-26 around 08:37–08:40 local",
+      "status": "documented",
+      "findings": ["Glacial/ice-rock collapse around 5,200 m elevation.", "Mass fell about 1,200 m, entrained rock/sediment and temporarily blocked Lhende River.", "Natural debris dam failed, sending water/mud/rock into Bhote Koshi and Trishuli.", "USGS reclassified initial M4.4 earthquake report as non-tectonic glacial collapse/debris flow; seismic energy equivalent M5.2.", "As of 27/08 credible reports described more than 360 confirmed deaths and nearly 1,500 missing; figures were evolving."],
+      "confidence": 90
+    }
+  ],
+  "sources": [
+    {
+      "tier": "officially_attributed_secondary",
+      "title": "Glacial collapse caused seismic activity, catastrophic Nepal floods: USGS",
+      "publisher": "The Hindu / Reuters / USGS",
+      "url": "https://www.thehindu.com/news/international/glacial-collapse-caused-seismic-activity-catastrophic-nepal-floods-usgs/article71394824.ece",
+      "supports": ["USGS reclassification", "date/time", "non-tectonic mass movement", "initial casualty floor"]
+    },
+    {
+      "tier": "tier_1_reporting",
+      "title": "Nepal-Tibet floods: What happened, what caused them and who is missing?",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/27/nepal-tibet-floods-what-happened-what-caused-them-and-who-is-missing",
+      "supports": ["glacier elevation and fall distance", "river chain", "settlements affected", "casualties/missing as of 27/08", "climate background and uncertainty"]
+    },
+    {
+      "tier": "secondary_scientific_reporting",
+      "title": "Dharali flash flood reporting and later scientific assessments",
+      "publisher": "BBC / Indian Express / scientific landslide studies",
+      "url": "https://www.bbc.com/news/articles/cj3lxzpkn87o",
+      "supports": ["Dharali is Uttarakhand, India", "event date 05/08/2025", "debris-flow and glacial/moraine interpretations"],
+      "limits": "Separate event from Nepal-Tibet August 2026 disaster."
+    },
+    {
+      "tier": "viral_source",
+      "title": "Four Himalayan Mud-Flood Valves viral post",
+      "path": "_docs/four-himalayan-mud-valves-viral-source-20260828.md",
+      "supports": ["claim inventory only"],
+      "limits": "Not evidence for factual attribution."
+    }
+  ],
+  "technical_tests": {
+    "ice_melt_claim": {
+      "claimed_volume_m3": 50000000,
+      "ice_density_kg_m3": 917,
+      "latent_heat_j_kg": 334000,
+      "minimum_energy_j": 15313900000000000,
+      "claimed_power_w": 5000000000,
+      "minimum_time_seconds_at_100_percent": 3062780,
+      "minimum_time_days_at_100_percent": 35.45,
+      "result": "Incompatible with instantaneous or 10-second melting even before atmospheric/coupling losses."
+    },
+    "haarp_claim": {
+      "viral_frequency_hz": 7.83,
+      "known_haarp_band": "high-frequency MHz ionospheric research",
+      "result": "No demonstrated mechanism or energy coupling for mechanically resonating a mountain at Schumann frequency."
+    }
+  },
+  "confidence_scale": "0=no evidence, 25=weak hypothesis, 50=live competing hypothesis, 75=strongly supported, 100=directly established"
+}

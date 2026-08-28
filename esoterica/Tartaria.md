@@ -69,6 +69,10 @@ Tartaria online thường bám vào kiến trúc cổ: mái vòm, tháp nhọn, 
 
 ---
 
+## Analog Hiện Đại
+
+- [[Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng]] — dùng Nepal–Tibet như minh họa cơ chế vật lý của buried architecture, nhưng không xem nó là bằng chứng tự động cho một reset Tartaria toàn cầu.
+
 ## Mudflood Và Reset Memory
 
 [[Mudflood]] là giả thuyết rằng một sự kiện hoặc chuỗi sự kiện đã chôn vùi tầng trệt của nhiều đô thị, sau đó narrative mới được đặt lên trên. Đây là phần gây tranh luận nhất của cụm Tartaria.

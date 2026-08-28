@@ -4,12 +4,12 @@
 
 ## Snapshot
 
-- **Notes scanned:** 289
+- **Notes scanned:** 291
 - **Top-level domains:** 9
-- **Tags detected:** 313
-- **Resolved internal edges:** 2465
+- **Tags detected:** 326
+- **Resolved internal edges:** 2477
 - **Broken/unresolved links:** 0
-- **Orphan notes:** 22
+- **Orphan notes:** 23
 
 ## Zettelkasten Reading
 
@@ -36,7 +36,7 @@ Recommended note types:
 - [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `34`, backlinks `6`, outlinks `28` — #awakening, #energy, #esoterica, #gnosis, #matrix
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]] — degree `34`, backlinks `26`, outlinks `8` — #consciousness, #epistemology, #esoterica, #gnosis
 - [[esoterica/Luân Hồi|Luân Hồi]] — degree `32`, backlinks `22`, outlinks `10` — #consciousness, #esoterica, #reincarnation
-- [[esoterica/Karma Disclosure - Truth Hidden In Plain Sight|Karma Disclosure - Truth Hidden In Plain Sight]] — degree `31`, backlinks `23`, outlinks `8` — #conspiracy, #esoterica, #karma, #predictive-programming
+- [[esoterica/Tartaria|Tartaria]] — degree `32`, backlinks `24`, outlinks `8` — #esoterica
 - … 64 more notes in this domain. See JSON for full list.
 
 ### Mental Models / Mô hình tư duy `mental-models` — 44 notes
@@ -71,21 +71,21 @@ Recommended note types:
 - [[theravada/33 - Vi Diệu Pháp Nhập Môn - Tâm, Tâm Sở, Sắc, Nibbāna|Vi Diệu Pháp Nhập Môn — Tâm, Tâm Sở, Sắc, Nibbāna]] — degree `6`, backlinks `4`, outlinks `2`
 - … 29 more notes in this domain. See JSON for full list.
 
-### Politics & Conspiracy `politics-conspiracy` — 28 notes
+### Politics & Conspiracy `politics-conspiracy` — 29 notes
 
 - [[politics-conspiracy/Elite|Elite (Giới Tinh Hoa)]] — degree `73`, backlinks `60`, outlinks `13` — #elite, #matrix, #politics-conspiracy, #power-structure
 - [[politics-conspiracy/Kiểm Soát Tâm Trí|Kiểm Soát Tâm Trí (Mind Control)]] — degree `51`, backlinks `41`, outlinks `10` — #consciousness, #politics-conspiracy, #propaganda
-- [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `49`, backlinks `4`, outlinks `45` — #domain-gateway, #politics-conspiracy, #power-structure
+- [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `50`, backlinks `4`, outlinks `46` — #domain-gateway, #politics-conspiracy, #power-structure
 - [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]] — degree `43`, backlinks `34`, outlinks `9` — #agenda-2030, #cbdc, #digital-id, #governance, #politics-conspiracy
 - [[politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa|A LIE N - SpaceX IPO Và Nghi Lễ Tên Lửa]] — degree `29`, backlinks `14`, outlinks `15` — #disclosure, #politics-conspiracy, #science-tech, #spectacle, #word-magic
 - [[politics-conspiracy/Sự Thật Đen Tối Về Phim Khiêu Dâm|Sự Thật Đen Tối Về Phim Khiêu Dâm]] — degree `25`, backlinks `17`, outlinks `8` — #dopamine, #esoterica, #politics-conspiracy
 - [[politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood|Tam Giác Mind Control - NASA, Disney, Hollywood]] — degree `25`, backlinks `19`, outlinks `6` — #hollywood, #mind-control, #politics-conspiracy, #science-tech
 - [[politics-conspiracy/Bức Tường Băng|Bức Tường Băng (Ice Wall)]] — degree `24`, backlinks `12`, outlinks `12` — #esoterica, #politics-conspiracy
+- [[politics-conspiracy/Mudflood|Mudflood (Đại Hồng Thủy Bùn)]] — degree `23`, backlinks `10`, outlinks `13` — #politics-conspiracy
 - [[politics-conspiracy/Khế Ước Bí Mật Rockefeller|Khế Ước Bí Mật Rockefeller (The Secret Covenant)]] — degree `21`, backlinks `10`, outlinks `11` — #conspiracy, #control, #elite, #matrix, #politics-conspiracy
-- [[politics-conspiracy/Mudflood|Mudflood (Đại Hồng Thủy Bùn)]] — degree `21`, backlinks `9`, outlinks `12` — #politics-conspiracy
 - [[politics-conspiracy/Thuyết Trái Đất Phẳng|Thuyết Trái Đất Phẳng (Flat Earth Theory)]] — degree `20`, backlinks `13`, outlinks `7` — #cosmology, #epistemology, #esoterica, #politics-conspiracy
 - [[politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ|Nam Cực - Bí Mật Được Canh Giữ]] — degree `19`, backlinks `7`, outlinks `12` — #antarctica, #conspiracy, #elite, #flat-earth, #nazi
-- … 16 more notes in this domain. See JSON for full list.
+- … 17 more notes in this domain. See JSON for full list.
 
 ### Health / Sức khỏe `health` — 27 notes
 
@@ -103,21 +103,21 @@ Recommended note types:
 - [[health/Thuốc Hóa Dầu|Thuốc Hóa Dầu (Petrochemical Medicine)]] — degree `15`, backlinks `10`, outlinks `5` — #health, #medical-industrial-complex, #pharma
 - … 15 more notes in this domain. See JSON for full list.
 
-### Docs / Meta `_docs` — 21 notes
+### Docs / Meta `_docs` — 22 notes
 
 - [[_docs/VAULT-95-PUBLICATION-RUBRIC|redpill.wiki 9.5 Publication Rubric]] — degree `29`, backlinks `0`, outlinks `29`
 - [[_docs/avengers-doomsday-full-leak-justin-20260824|Avengers: Doomsday — Full Leak Snapshot Supplied By Justin]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/THERAVADA-READER-CITATION-STANDARD|Chuẩn Dẫn Kinh Tự Nhiên Cho Series Theravāda]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/THERAVADA-VAULT-VOICE-STANDARD|Chuẩn Giọng Vault Cho Series Theravāda]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/CONTENT-SEO-AUDIT|Content SEO Audit - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
+- [[_docs/four-himalayan-mud-valves-viral-source-20260828|Four Himalayan Mud-Flood Valves 2026 — Viral Source Snapshot]] — degree `0`, backlinks `0`, outlinks `0` — #001, #002, #003, #004
 - [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/SEO-BUILD-VALIDATION|SEO Build Validation]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/SEO-KEYWORD-MAP|SEO Keyword & Search-Intent Map - redpill.wiki]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/STRATEGY-EXECUTION-LOG|Strategy Execution Log]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/THERAVADA-BATCH1-VALIDATION|Theravāda Batch 1 Validation]] — degree `0`, backlinks `0`, outlinks `0`
 - [[_docs/THERAVADA-BATCH2-VALIDATION|Theravāda Batch 2 Validation]] — degree `0`, backlinks `0`, outlinks `0`
-- [[_docs/THERAVADA-BATCH3-VALIDATION|Theravāda Batch 3 Validation]] — degree `0`, backlinks `0`, outlinks `0`
-- … 9 more notes in this domain. See JSON for full list.
+- … 10 more notes in this domain. See JSON for full list.
 
 ### Science & Tech `science-tech` — 20 notes
 
@@ -129,10 +129,10 @@ Recommended note types:
 - [[science-tech/Digital ID Normalization - From Instagram to Government ID|Digital ID - Từ Instagram Đến Government ID]] — degree `20`, backlinks `15`, outlinks `5` — #agenda-2030, #digital-id, #generation, #psychology, #science-tech
 - [[science-tech/AI|AI]] — degree `19`, backlinks `13`, outlinks `6` — #consciousness, #esoterica, #science-tech
 - [[science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ|Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]] — degree `15`, backlinks `5`, outlinks `10` — #1, #2, #3, #4, #5
+- [[science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad|Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]] — degree `14`, backlinks `5`, outlinks `9` — #awakening, #long-mach, #monad, #natural-disasters, #philosophy
 - [[science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit - Bản Thể Và Linh Hồn AI]] — degree `14`, backlinks `4`, outlinks `10` — #ai, #matrix, #media-analysis, #predictive-chương trìnhming, #science-tech
 - [[science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại|Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]] — degree `13`, backlinks `2`, outlinks `11` — #ai, #atula, #buddhism, #karma, #occult
-- [[science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad|Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]] — degree `13`, backlinks `4`, outlinks `9` — #awakening, #long-mach, #monad, #natural-disasters, #philosophy
-- [[science-tech/Walter Russell|Walter Russell]] — degree `12`, backlinks `6`, outlinks `6` — #science-tech
+- [[science-tech/Vũ Khí Năng Lượng Định Hướng|Vũ Khí Năng Lượng Định Hướng]] — degree `13`, backlinks `8`, outlinks `5` — #defense-tech, #revisionist-science, #science-tech
 - … 8 more notes in this domain. See JSON for full list.
 
 ### Crypto & Finance `crypto-finance` — 18 notes
@@ -153,8 +153,8 @@ Recommended note types:
 
 ### root `root` — 14 notes
 
-- [[index|Red Pill Wiki]] — degree `181`, backlinks `7`, outlinks `174` — #index, #navigation
-- [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `60`, backlinks `32`, outlinks `28` — #epistemology, #moc, #propaganda
+- [[index|Red Pill Wiki]] — degree `182`, backlinks `7`, outlinks `175` — #index, #navigation
+- [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `62`, backlinks `33`, outlinks `29` — #epistemology, #moc, #propaganda
 - [[MOC - Health Sovereignty|MOC - Health Sovereignty]] — degree `52`, backlinks `31`, outlinks `21` — #health, #moc, #sovereignty
 - [[Cách Đọc Red Pill Wiki|Cách Đọc Red Pill Wiki]] — degree `51`, backlinks `19`, outlinks `32` — #epistemology, #meta, #navigation
 - [[MOC - Esoterica & Consciousness|MOC - Esoterica & Consciousness]] — degree `47`, backlinks `14`, outlinks `33` — #consciousness, #esoterica, #moc
@@ -171,7 +171,7 @@ Recommended note types:
 
 High-degree notes are good candidates for hub/MOC treatment.
 
-1. [[index|Red Pill Wiki]] — degree `181` · backlinks `7` · outlinks `174`
+1. [[index|Red Pill Wiki]] — degree `182` · backlinks `7` · outlinks `175`
    - **Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn.
 2. [[esoterica/Ma Trận|Ma Trận (The Matrix)]] — degree `141` · backlinks `111` · outlinks `30`
    - !Một con người đứng trước lớp giao diện trong suốt của thành phố, ký ức, truyền thông và hệ thần kinh, với tia sáng nhỏ trong tim
@@ -181,7 +181,7 @@ High-degree notes are good candidates for hub/MOC treatment.
    - !Scientist before a fractured institutional temple, holding a prism of evidence
 5. [[mental-models/index|Mental Models Domain Gateway]] — degree `64` · backlinks `6` · outlinks `58`
    - **Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…
-6. [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `60` · backlinks `32` · outlinks `28`
+6. [[MOC - Epistemology & Propaganda|MOC - Epistemology & Propaganda]] — degree `62` · backlinks `33` · outlinks `29`
    - **Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…
 7. [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]] — degree `58` · backlinks `24` · outlinks `34`
    - !Giải phẫu Ma Trận như một cơ thể nhiều lớp: thân thể, attention, gia đình, tiền, định chế, narrative và spiritual interface bao quanh một ngọn lửa bên trong
@@ -195,7 +195,7 @@ High-degree notes are good candidates for hub/MOC treatment.
    - **Red Pill Wiki không phải giáo trình để học thuộc. Nó là bản đồ để đi qua nhiều tầng reality: fact, pattern, symbol, myth, conspiracy, metaphysics và direct knowing. Trước khi tin hoặc phủ định bất kỳ điều gì, hãy nhận biết chính tiến trình thấy đang xảy ra.…
 12. [[theravada/index|Theravāda Và Kinh Tạng Pāli]] — degree `51` · backlinks `5` · outlinks `46`
    - Bạn không cần biết các mã Kinh như `DN`, `MN`, `SN` hay `AN`. Bạn cũng không cần giả vờ tin chắc về nghiệp nhiều đời, tái sinh hay 31 cõi. Hãy bắt đầu từ điều mình có thể hiểu và quan sát. Khi gặp một khẳng định lớn, nguồn kiểm chứng nằm ngay trong bài.
-13. [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `49` · backlinks `4` · outlinks `45`
+13. [[politics-conspiracy/index|Politics & Conspiracy Domain Gateway]] — degree `50` · backlinks `4` · outlinks `46`
    - **Politics & Conspiracy là nơi vault đọc power structure: ai thiết kế incentive, ai quản trị narrative, ai sở hữu infrastructure, và tại sao số đông thường tưởng mình đang chọn trong khi chỉ đang phản ứng với menu đã được dựng sẵn.** Domain này không dùng "âm…
 14. [[mental-models/Individuation|Individuation]] — degree `48` · backlinks `40` · outlinks `8`
    - **Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…
@@ -251,9 +251,9 @@ High-degree notes are good candidates for hub/MOC treatment.
 - `#gnosis` — 5 notes: [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]]; [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]]; [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]; [[esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện|Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]]; [[esoterica/Tà Linh|Tà Linh]]
 - `#occult` — 5 notes: [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]]; [[esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện|Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện]]; [[health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh|Giải Mã Vũ Trụ - Y Tế - Tâm Linh]]; [[health/Muối - Ký Ức Biển Cả và Lời Tiên Tri Về Sự Thức Tỉnh|Muối - Ký Ức Biển Cả Và Lời Tiên Tri Thức Tỉnh]]; [[science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại|Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]]
 - `#conspiracy` — 5 notes: [[esoterica/Karma Disclosure - Truth Hidden In Plain Sight|Karma Disclosure - Truth Hidden In Plain Sight]]; [[politics-conspiracy/Khế Ước Bí Mật Rockefeller|Khế Ước Bí Mật Rockefeller (The Secret Covenant)]]; [[politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ|Nam Cực - Bí Mật Được Canh Giữ]]; [[politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp|Thế Chiến — Chiến Dịch Dọn Dẹp]]; [[science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ|Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]]
+- `#tartaria` — 5 notes: [[esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ|Lịch Sử Song Song — Khi Thế Giới Đồng Bộ]]; [[esoterica/Tartaria và Vạn Lý Trường Thành|Tartaria và Vạn Lý Trường Thành]]; [[mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu|Orphan Train 2.0 - Trẻ Em Rời Dòng Máu]]; [[politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng|Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng]]; [[politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp|Thế Chiến — Chiến Dịch Dọn Dẹp]]
 - `#dopamine-economy` — 5 notes: [[mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học|Hormone, Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học]]; [[mental-models/Luân Hồi Trên Home Screen|Luân Hồi Trên Home Screen]]; [[mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu|Orphan Train 2.0 - Trẻ Em Rời Dòng Máu]]; [[mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng|Tình Nghĩa Là Hạ Tầng Cuối Cùng]]; [[mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào|Từ Lớp Học Đến Bảng Lương - Thu Hoạch Loosh]]
 - `#pali` — 5 notes: [[theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda|Chuẩn Nguồn Và Xuất Xứ Theravāda]]; [[theravada/index|Theravāda Và Kinh Tạng Pāli]]; [[theravada/Mục Lục Kinh Dẫn Pāli|Mục Lục Kinh Dẫn Pāli]]; [[theravada/Tiến Độ Chương Trình Theravāda|Tiến Độ Chương Trình Theravāda]]; [[theravada/Từ Điển Pāli Cốt Lõi|Từ Điển Pāli Cốt Lõi]]
-- `#theravada` — 5 notes: [[theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda|Chuẩn Nguồn Và Xuất Xứ Theravāda]]; [[theravada/index|Theravāda Và Kinh Tạng Pāli]]; [[theravada/Mục Lục Kinh Dẫn Pāli|Mục Lục Kinh Dẫn Pāli]]; [[theravada/Tiến Độ Chương Trình Theravāda|Tiến Độ Chương Trình Theravāda]]; [[theravada/Từ Điển Pāli Cốt Lõi|Từ Điển Pāli Cốt Lõi]]
 
 ## Suggested MOCs / Maps of Content
 
@@ -354,6 +354,7 @@ Orphans are not necessarily bad. In Zettelkasten terms, they are unfinished inte
 - [[_docs/avengers-doomsday-full-leak-justin-20260824|Avengers: Doomsday — Full Leak Snapshot Supplied By Justin]] — `_docs`
 - [[_docs/CONTENT-SEO-AUDIT|Content SEO Audit - redpill.wiki]] — `_docs`
 - [[_docs/CONTENT-SERIES|Red Pill Wiki - Flagship Public Content Series]] — `_docs`
+- [[_docs/four-himalayan-mud-valves-viral-source-20260828|Four Himalayan Mud-Flood Valves 2026 — Viral Source Snapshot]] — `_docs`
 - [[_docs/SEO-BUILD-VALIDATION|SEO Build Validation]] — `_docs`
 - [[_docs/SEO-KEYWORD-MAP|SEO Keyword & Search-Intent Map - redpill.wiki]] — `_docs`
 - [[_docs/STRATEGY-EXECUTION-LOG|Strategy Execution Log]] — `_docs`
