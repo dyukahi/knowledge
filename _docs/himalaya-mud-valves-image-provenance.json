@@ -1,0 +1,35 @@
+{
+  "schema": "vault-image-provenance.v1",
+  "article": "Bốn Van Lũ Bùn Himalaya 2026 - Khi Núi Vỡ Và Lịch Sử Bị Chôn",
+  "images": [
+    {
+      "path": "assets/evidence/himalaya-mud-valves/01-economist-official-cover.webp",
+      "kind": "official_cover_fair_use_excerpt",
+      "source": "https://x.com/TheEconomist/status/1988607875241980249",
+      "description": "Official The World Ahead 2026 cover without month-wheel annotation.",
+      "sha256": "087dcaa0135e31560e8e5547dfa459f8e1ee8ed753d42fb201e8f109fb10746b"
+    },
+    {
+      "path": "assets/evidence/himalaya-mud-valves/02-economist-month-overlay.webp",
+      "kind": "user_supplied_social_annotation",
+      "source": "Telegram message 32630, file_421",
+      "description": "Community-added 12-month wheel in Spanish over the Economist cover; not official Economist artwork.",
+      "sha256": "28a5e5fb74afcde1b768ee404395aba0b20bf87ea6d4a8cc1acbe885cc366916"
+    },
+    {
+      "path": "assets/evidence/himalaya-mud-valves/03-2012-himalaya-poster.webp",
+      "kind": "user_supplied_film_promotional_image_fair_use",
+      "source": "Telegram message 32630, file_422",
+      "description": "2012 promotional image showing a Himalayan monk facing a wall of water; film imagery, not disaster evidence.",
+      "sha256": "b494a75352f1e0843b67e160eb563f0c4fda4b940be2831d05d61849bc5ae58f"
+    },
+    {
+      "path": "assets/evidence/himalaya-mud-valves/04-nepal-flood-reuters.webp",
+      "kind": "news_photo_fair_use",
+      "source": "https://th-i.thgim.com/public/incoming/y48qva/article71394829.ece/alternates/LANDSCAPE_1200/2026-08-27T014940Z_811554703_RC2P6NAA42SR_RTRMADP_3_NEPAL-FLOODS.JPG",
+      "credit": "Reuters via The Hindu",
+      "description": "Actual Nepal flood aftermath photographed August 27, 2026; evidence of mud burial, not evidence of DEW/Cabal causation.",
+      "sha256": "9c551f2d46a8d461d309b9c442871286a100e45d6613a5a2324e1859146117e9"
+    }
+  ]
+}

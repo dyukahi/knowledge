@@ -39,6 +39,10 @@ Bài này không đứng ngoài vault để chấm điểm câu chuyện ấy. N
 
 Không bác framework. Không nuốt câu chuyện. Giữ anomaly sống.
 
+![Ảnh hiện trường sau lũ Nepal ngày 27/08/2026, bùn phủ nhà cửa và vùng dân cư](../assets/evidence/himalaya-mud-valves/04-nepal-flood-reuters.webp)
+
+*Ảnh hiện trường thật: bùn phủ khu dân cư Nepal sau trận lũ. Nguồn Reuters, đăng lại trong bài The Hindu dẫn phân tích USGS ngày 27/08/2026. Ảnh này dùng để người đọc thấy cảnh “mặt đất mới” sau dòng debris; nó không tự chứng minh DEW hay Cabal.*
+
 ![Minh họa biên tập: thung lũng Himalaya sau lũ bùn, các tầng thấp của làng bị chôn, đường và cầu biến mất; không phải ảnh hiện trường](../assets/illustrations/himalaya-mud-valves/01-buried-valley.webp)
 
 ---
@@ -355,7 +359,15 @@ Trước khi Himalaya thật bị lũ bùn xé mở, hai hình ảnh đã nằm 
 
 ### Khối Băng Trên *The World Ahead 2026*
 
+![Bìa chính thức The World Ahead 2026 của The Economist, chưa có vòng chia tháng](../assets/evidence/himalaya-mud-valves/01-economist-official-cover.webp)
+
+*Ảnh gốc do The Economist công bố cuối năm 2025. Trên bìa có khối băng trong quả cầu biểu tượng, nhưng không có đường chia 12 tháng.*
+
 Bìa chính thức của *The Economist* đặt một khối băng đang tan trên quả địa cầu biểu tượng của năm 2026. Vòng chia 12 tháng trong ảnh viral là chú giải cộng đồng, không phải bản gốc. Vì vậy claim “The Economist mã hóa chính xác tháng Tám” chưa khóa.
+
+![Bản cộng đồng vẽ vòng 12 tháng và gắn các biểu tượng trên bìa Economist theo lịch](../assets/evidence/himalaya-mud-valves/02-economist-month-overlay.webp)
+
+*Bản chú giải do người dùng mạng thêm tên tháng tiếng Tây Ban Nha và các đường màu hồng. Nó là bằng chứng về cách cộng đồng giải mã bìa, không phải bằng chứng The Economist chính thức công bố lịch này.*
 
 Nhưng khối băng đã có trước sự kiện. Đó là điều không mất đi.
 
@@ -364,6 +376,10 @@ Một năm được mở bằng biểu tượng băng bất ổn. Đến cuối 
 Ba khả năng không loại nhau hoàn toàn.
 
 ### Nhà Sư Tibet Trong *2012*
+
+![Poster quảng bá phim 2012 với nhà sư Himalaya đứng trước bức tường nước và dòng chữ We Were Warned](../assets/evidence/himalaya-mud-valves/03-2012-himalaya-poster.webp)
+
+*Poster/ảnh quảng bá của phim thảm họa* 2012 *(2009). Đây là hình ảnh điện ảnh có trước sự kiện Nepal–Tibet 17 năm, không phải ảnh dự báo có ngày và tọa độ cụ thể.*
 
 Phim *2012* ra mắt năm 2009, cho một nhà sư Tibet đánh chuông khi bức tường nước vượt qua núi tuyết. Những con tàu cứu elite được xây trong lòng núi Himalaya.
 
