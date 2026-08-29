@@ -7,7 +7,7 @@
 - **Notes scanned:** 291
 - **Top-level domains:** 9
 - **Tags detected:** 326
-- **Resolved internal edges:** 2477
+- **Resolved internal edges:** 2478
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 23
 
@@ -30,7 +30,7 @@ Recommended note types:
 - [[esoterica/Gnosis|Gnosis (Ngộ Đạo)]] — degree `56`, backlinks `44`, outlinks `12` — #consciousness, #esoterica, #gnosis, #matrix
 - [[esoterica/index|Esoterica Domain Gateway]] — degree `48`, backlinks `4`, outlinks `44` — #consciousness, #domain-gateway, #esoterica
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `40`, backlinks `32`, outlinks `8` — #consciousness, #esoterica, #metaphysics
-- [[esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] — degree `36`, backlinks `27`, outlinks `9` — #esoterica, #hollywood, #matrix, #mind-control, #predictive-programming
+- [[esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] — degree `37`, backlinks `28`, outlinks `9` — #esoterica, #hollywood, #matrix, #mind-control, #predictive-programming
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `36`, backlinks `29`, outlinks `7` — #consciousness, #esoterica, #non-duality
 - [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]] — degree `34`, backlinks `27`, outlinks `7` — #esoterica, #hollywood, #occult, #predictive-programming
 - [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `34`, backlinks `6`, outlinks `28` — #awakening, #energy, #esoterica, #gnosis, #matrix
@@ -268,8 +268,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]]
 - [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]]
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
-- [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]]
 - [[esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]
+- [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]]
 - [[mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]
 
 ### MOC - Health Sovereignty
@@ -327,8 +327,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[politics-conspiracy/Báo Cáo 2030|Báo Cáo 2030]]
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]]
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]]
-- [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]]
 - [[esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]
+- [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]]
 - [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
 - [[esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh|Ma Trận - Giải Phẫu Hoàn Chỉnh]]
 
