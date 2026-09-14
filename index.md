@@ -43,10 +43,10 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
 | 🧩 **Mental Models** | 44 | nhận thức, tâm lý học, framework để đọc reality |
 | 🏛️ **Politics & Conspiracy** | 29 | power structure, controlled narrative, geopolitics |
-| 🔬 **Science & Tech** | 20 | revisionist science, AI, cosmology, suppressed tech |
+| 🔬 **Science & Tech** | 21 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 291 notes / bài viết.
+**Total:** 292 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -329,7 +329,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### 🔬 Science & Tech
 
-- [[Khoa Học Xét Lại]] | [[AI]] | [[Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ]] | [[AI Và Cái Chết Của Bản Quyền Công Nghiệp]] | [[Nikola Tesla]]
+- [[Khoa Học Xét Lại]] | [[AI]] | [[AGI Không Có Khuôn Mặt]] | [[Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ]] | [[AI Và Cái Chết Của Bản Quyền Công Nghiệp]] | [[Nikola Tesla]]
 - [[Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]]
 - [[Vũ Khí Năng Lượng Định Hướng]]
 - [[Mô Hình Địa Tâm]] | [[Thuyết Trái Đất Phẳng]]
@@ -340,6 +340,8 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+### September 15, 2026
+- **[[AGI Không Có Khuôn Mặt]]** — bài Việt/Anh về quyền lực mạng agent và vòng lặp tự xác nhận thông tin; sáu minh họa khái niệm, không tuyên bố AGI đã xuất hiện.
 
 ### August 28, 2026
 

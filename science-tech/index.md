@@ -96,6 +96,8 @@ Orientation: use this when tech becomes governance and medicine. The route shows
 4. [[Kính Chiếu Yêu - Nhìn Thấu Tây Y]] — bridge into medical institution critique.
 5. [[Gen Z và CBDC - Programmable Money Psychology]] — close with programmable behavior.
 
+- [[AGI Không Có Khuôn Mặt]] — distributed AI power, circular corroboration and accountability; system effects are not proof of consciousness.
+
 ---
 
 ## Key Hubs

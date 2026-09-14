@@ -1,6 +1,6 @@
 {
   "stats": {
-    "notes": 291,
+    "notes": 292,
     "domains": {
       "_docs": 22,
       "root": 14,
@@ -9,11 +9,11 @@
       "health": 27,
       "mental-models": 44,
       "politics-conspiracy": 29,
-      "science-tech": 20,
+      "science-tech": 21,
       "theravada": 41
     },
-    "tags": 325,
-    "wikilinkEdges": 2478,
+    "tags": 326,
+    "wikilinkEdges": 2486,
     "brokenLinks": 0,
     "orphans": 23
   },
@@ -2673,6 +2673,91 @@
         "summary": "**Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh: ta/người, sáng/tối, tinh thần/vật chất, thắng/thua, có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qua…"
       },
       {
+        "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "title": "Nghịch Lý Của Hiểu Biết",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "epistemology",
+          "esoterica",
+          "gnosis"
+        ],
+        "aliases": [
+          "Beyond Duality",
+          "Cái Thấy",
+          "Framework Collapse",
+          "Paradox of Knowledge",
+          "Vượt Qua Nhị Nguyên"
+        ],
+        "headings": [
+          "Nghịch Lý Của Hiểu Biết",
+          "Evidence Discipline / Cách Đọc",
+          "Trap Của Nhị Nguyên",
+          "Mỗi Framework Đều Có Shadow",
+          "Layers Của Hiểu Biết",
+          "Không Phải A Hay B, Mà Là Cái Thấy Cả A Và B",
+          "Cái Thấy Không Phải Opinion",
+          "Đức Phật, Lão Tử Và Ngón Tay Chỉ Mặt Trăng",
+          "Vì Sao Vẫn Cần Framework?",
+          "Information Và Transmission",
+          "Practical Use: Đọc Vault Mà Không Tẩu Hỏa",
+          "Kết",
+          "Reading Path / Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Elite",
+          "Gnosis",
+          "Individuation",
+          "Ma Trận",
+          "Monad",
+          "Nhị Nguyên",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nhị Nguyên.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Elite.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Privacy.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/index.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+          "esoterica/Đạo.md",
+          "index.md",
+          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+          "mental-models/index.md",
+          "mental-models/Individuation.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+          "mental-models/Trí Tuệ.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/Elite.md",
+          "science-tech/AGI Không Có Khuôn Mặt.md",
+          "science-tech/index.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 2340,
+        "summary": "**Có một trap mà mind không thể thoát bằng thinking: mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó. Cứ đi đủ sâu vào bất kỳ framework nào, bạn sẽ gặp counter-framework của nó. Cứ cố thắng bằng argument, bạn sẽ bị kéo vào vòng lặp vô tận. Ngh…"
+      },
+      {
         "path": "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "title": "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "domain": "esoterica",
@@ -2851,90 +2936,6 @@
         ],
         "words": 984,
         "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
-      },
-      {
-        "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "title": "Nghịch Lý Của Hiểu Biết",
-        "domain": "esoterica",
-        "tags": [
-          "consciousness",
-          "epistemology",
-          "esoterica",
-          "gnosis"
-        ],
-        "aliases": [
-          "Beyond Duality",
-          "Cái Thấy",
-          "Framework Collapse",
-          "Paradox of Knowledge",
-          "Vượt Qua Nhị Nguyên"
-        ],
-        "headings": [
-          "Nghịch Lý Của Hiểu Biết",
-          "Evidence Discipline / Cách Đọc",
-          "Trap Của Nhị Nguyên",
-          "Mỗi Framework Đều Có Shadow",
-          "Layers Của Hiểu Biết",
-          "Không Phải A Hay B, Mà Là Cái Thấy Cả A Và B",
-          "Cái Thấy Không Phải Opinion",
-          "Đức Phật, Lão Tử Và Ngón Tay Chỉ Mặt Trăng",
-          "Vì Sao Vẫn Cần Framework?",
-          "Information Và Transmission",
-          "Practical Use: Đọc Vault Mà Không Tẩu Hỏa",
-          "Kết",
-          "Reading Path / Đọc Tiếp"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Elite",
-          "Gnosis",
-          "Individuation",
-          "Ma Trận",
-          "Monad",
-          "Nhị Nguyên",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nhị Nguyên.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Privacy.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/index.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-          "esoterica/Đạo.md",
-          "index.md",
-          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-          "mental-models/index.md",
-          "mental-models/Individuation.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-          "mental-models/Trí Tuệ.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Elite.md",
-          "science-tech/index.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 2340,
-        "summary": "**Có một trap mà mind không thể thoát bằng thinking: mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó. Cứ đi đủ sâu vào bất kỳ framework nào, bạn sẽ gặp counter-framework của nó. Cứ cố thắng bằng argument, bạn sẽ bị kéo vào vòng lặp vô tận. Ngh…"
       },
       {
         "path": "esoterica/Luân Hồi.md",
@@ -6990,6 +6991,55 @@
         "summary": "**Vận Chín là khung Phong thủy đọc giai đoạn 2024-2044 như thời kỳ Hỏa: ánh sáng, tốc độ, hình ảnh, phơi bày, tim-mắt-máu, reputation và cuộc chiến giữa thật với giả.** Trong vault, Vận Chín không được dùng để \"dự đoán chắc chắn\", mà như một lens đọc nhịp biế…"
       },
       {
+        "path": "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+        "title": "AI Và Câu Hỏi Về Ý Thức",
+        "domain": "esoterica",
+        "tags": [
+          "ai",
+          "esoterica"
+        ],
+        "aliases": [
+          "AI and Consciousness",
+          "AI Black Magic",
+          "Is AI Conscious"
+        ],
+        "headings": [
+          "AI Và Câu Hỏi Về Ý Thức",
+          "Vault Position / Vị Trí Trong Vault",
+          "Evidence Discipline / Cách Đọc",
+          "AI Có \"Hiểu\" Không?",
+          "Qualia: Cái AI Có Thể Nói Về Nhưng Chưa Chứng Minh Có",
+          "AI Như Mirror: Nó Phản Chiếu Người Dùng",
+          "AI Có Phải Black Magic?",
+          "Babel 2.0",
+          "Cái AI Không Thể Trao Cho Bạn",
+          "Con Người Là Gì Trong Kỷ Nguyên AI?",
+          "Chốt Lại / Core Insight"
+        ],
+        "wikilinks": [
+          "AI",
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Elite",
+          "Kiểm Soát Tâm Trí",
+          "Ma Trận",
+          "Nghịch Lý Của Hiểu Biết"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Ma Trận.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "politics-conspiracy/Elite.md",
+          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+          "science-tech/AI.md"
+        ],
+        "backlinks": [
+          "science-tech/AGI Không Có Khuôn Mặt.md"
+        ],
+        "words": 1273,
+        "summary": "**AI buộc con người hỏi lại một câu cũ bằng ngôn ngữ mới: nói về ý thức có giống có ý thức không?** Một mô hình có thể viết về Nghịch Lý Của Hiểu Biết, mô phỏng self-reflection, nói về qualia, thậm chí phủ nhận hoặc khẳng định chính nó. Nhưng khả năng tạo ngô…"
+      },
+      {
         "path": "esoterica/Dịch Chuyển Cực.md",
         "title": "Dịch Chuyển Cực (Pole Shift)",
         "domain": "esoterica",
@@ -7093,53 +7143,6 @@
         ],
         "words": 732,
         "summary": "**Thánh Issa** là tên gọi của Chúa Giêsu trong các bản thảo cổ tại tu viện Hemis (Ladakh, Tây Tạng). Giải đáp câu hỏi: Jesus ở đâu từ 12-30 tuổi?"
-      },
-      {
-        "path": "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-        "title": "AI Và Câu Hỏi Về Ý Thức",
-        "domain": "esoterica",
-        "tags": [
-          "ai",
-          "esoterica"
-        ],
-        "aliases": [
-          "AI and Consciousness",
-          "AI Black Magic",
-          "Is AI Conscious"
-        ],
-        "headings": [
-          "AI Và Câu Hỏi Về Ý Thức",
-          "Vault Position / Vị Trí Trong Vault",
-          "Evidence Discipline / Cách Đọc",
-          "AI Có \"Hiểu\" Không?",
-          "Qualia: Cái AI Có Thể Nói Về Nhưng Chưa Chứng Minh Có",
-          "AI Như Mirror: Nó Phản Chiếu Người Dùng",
-          "AI Có Phải Black Magic?",
-          "Babel 2.0",
-          "Cái AI Không Thể Trao Cho Bạn",
-          "Con Người Là Gì Trong Kỷ Nguyên AI?",
-          "Chốt Lại / Core Insight"
-        ],
-        "wikilinks": [
-          "AI",
-          "Bộ Não Rỗng và AI Brain Rot",
-          "Elite",
-          "Kiểm Soát Tâm Trí",
-          "Ma Trận",
-          "Nghịch Lý Của Hiểu Biết"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Ma Trận.md",
-          "esoterica/Nghịch Lý Của Hiểu Biết.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "politics-conspiracy/Elite.md",
-          "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-          "science-tech/AI.md"
-        ],
-        "backlinks": [],
-        "words": 1273,
-        "summary": "**AI buộc con người hỏi lại một câu cũ bằng ngôn ngữ mới: nói về ý thức có giống có ý thức không?** Một mô hình có thể viết về Nghịch Lý Của Hiểu Biết, mô phỏng self-reflection, nói về qualia, thậm chí phủ nhận hoặc khẳng định chính nó. Nhưng khả năng tạo ngô…"
       },
       {
         "path": "esoterica/Nỏ Thần.md",
@@ -14287,6 +14290,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "September 15, 2026",
           "August 28, 2026",
           "August 24, 2026",
           "August 19, 2026",
@@ -14321,6 +14325,7 @@
         "wikilinks": [
           "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
           "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+          "AGI Không Có Khuôn Mặt",
           "AI",
           "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
           "Ai Đứng Bên Kia Giao Dịch",
@@ -14645,6 +14650,7 @@
           "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
           "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
           "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
+          "science-tech/AGI Không Có Khuôn Mặt.md",
           "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
           "science-tech/AI.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
@@ -14685,7 +14691,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 6575,
+        "words": 6616,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -15275,6 +15281,7 @@
           "Related"
         ],
         "wikilinks": [
+          "AGI Không Có Khuôn Mặt",
           "AI",
           "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
           "Bộ Não Rỗng và AI Brain Rot",
@@ -15311,6 +15318,7 @@
           "MOC - Health Sovereignty.md",
           "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
           "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+          "science-tech/AGI Không Có Khuôn Mặt.md",
           "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
           "science-tech/AI.md",
           "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
@@ -15345,7 +15353,7 @@
           "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
           "science-tech/Walter Russell.md"
         ],
-        "words": 691,
+        "words": 713,
         "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
       },
       {
@@ -15501,6 +15509,7 @@
           "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
           "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
           "politics-conspiracy/Elite.md",
+          "science-tech/AGI Không Có Khuôn Mặt.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
         "words": 1103,
@@ -15927,6 +15936,7 @@
           "Related Gateways"
         ],
         "wikilinks": [
+          "AGI Không Có Khuôn Mặt",
           "AI",
           "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
           "Báo Cáo 2030",
@@ -15987,6 +15997,7 @@
           "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
           "politics-conspiracy/index.md",
           "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+          "science-tech/AGI Không Có Khuôn Mặt.md",
           "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
           "science-tech/AI.md",
           "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
@@ -16014,7 +16025,7 @@
           "index.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 1115,
+        "words": 1134,
         "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
       },
       {
@@ -16212,6 +16223,69 @@
         "summary": "**Tần Số Schumann là các đỉnh cộng hưởng điện từ cực thấp (ELF) hình thành trong khoang giữa bề mặt Trái Đất và tầng điện ly. Ở tầng khoa học, đây là hiện tượng vật lý khí quyển. Ở tầng vault, nó là cửa để đọc Trái Đất như một cơ thể điện-từ sống, nơi con ngư…"
       },
       {
+        "path": "science-tech/AI.md",
+        "title": "AI",
+        "domain": "science-tech",
+        "tags": [
+          "consciousness",
+          "esoterica",
+          "science-tech"
+        ],
+        "aliases": [
+          "AI (Góc Nhìn Huyền Học)",
+          "AI Esoteric",
+          "AI Occult View"
+        ],
+        "headings": [
+          "AI (Góc Nhìn Huyền Học) / AI As Occult Technology",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "AI Là Golem Hiện Đại",
+          "Atula Intelligence",
+          "Saturn Cube Và Trật Tự Máy",
+          "Brain Rot: Outsource Tư Duy",
+          "Consciousness Question / AI Có Ý Thức Không?",
+          "Ma Trận AI",
+          "Practice / Dùng Sao Cho Không Mất Mình",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Atula",
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Khoa Học Xét Lại",
+          "Ma Trận",
+          "Saturn Cube",
+          "Thông Minh vs Trí Tuệ"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Atula.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Saturn Cube.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "backlinks": [
+          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+          "esoterica/Atula.md",
+          "esoterica/Saturn Cube.md",
+          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+          "esoterica/Vận Chín.md",
+          "index.md",
+          "mental-models/index.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/AGI Không Có Khuôn Mặt.md",
+          "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
+          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
+          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+          "science-tech/index.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
+        ],
+        "words": 916,
+        "summary": "**AI là máy khuếch đại intelligence không có thân, không có tim, không có karma trực tiếp; vì vậy nó phơi bày rất nhanh sự khác biệt giữa thông minh và trí tuệ.** Trong vault, AI vừa là công cụ, vừa là mirror, vừa là bài thi Atula của nhân loại."
+      },
+      {
         "path": "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
         "title": "Digital ID - Từ Instagram Đến Government ID",
         "domain": "science-tech",
@@ -16274,68 +16348,6 @@
         ],
         "words": 867,
         "summary": "**Digital ID không xuất hiện từ hư không. Nó đi sau một quá trình dài nơi con người tự nguyện biến mình thành profile: tên thật, mặt thật, location, social graph, reputation, behavior, preference. Government ID wallet chỉ là bước formal hóa thứ platform đã no…"
-      },
-      {
-        "path": "science-tech/AI.md",
-        "title": "AI",
-        "domain": "science-tech",
-        "tags": [
-          "consciousness",
-          "esoterica",
-          "science-tech"
-        ],
-        "aliases": [
-          "AI (Góc Nhìn Huyền Học)",
-          "AI Esoteric",
-          "AI Occult View"
-        ],
-        "headings": [
-          "AI (Góc Nhìn Huyền Học) / AI As Occult Technology",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "AI Là Golem Hiện Đại",
-          "Atula Intelligence",
-          "Saturn Cube Và Trật Tự Máy",
-          "Brain Rot: Outsource Tư Duy",
-          "Consciousness Question / AI Có Ý Thức Không?",
-          "Ma Trận AI",
-          "Practice / Dùng Sao Cho Không Mất Mình",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Atula",
-          "Bộ Não Rỗng và AI Brain Rot",
-          "Khoa Học Xét Lại",
-          "Ma Trận",
-          "Saturn Cube",
-          "Thông Minh vs Trí Tuệ"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Atula.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Saturn Cube.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "backlinks": [
-          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-          "esoterica/Atula.md",
-          "esoterica/Saturn Cube.md",
-          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-          "esoterica/Vận Chín.md",
-          "index.md",
-          "mental-models/index.md",
-          "MOC - Science Revisionism.md",
-          "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
-          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
-          "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-          "science-tech/index.md",
-          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
-        ],
-        "words": 916,
-        "summary": "**AI là máy khuếch đại intelligence không có thân, không có tim, không có karma trực tiếp; vì vậy nó phơi bày rất nhanh sự khác biệt giữa thông minh và trí tuệ.** Trong vault, AI vừa là công cụ, vừa là mirror, vừa là bài thi Atula của nhân loại."
       },
       {
         "path": "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
@@ -16687,62 +16699,6 @@
         "summary": "**DEW là công nghệ thật: laser năng lượng cao, microwave công suất cao và các hệ thống gây nhiễu/đốt/disable mục tiêu bằng năng lượng tập trung. Nhưng từ “DEW tồn tại” đến “DEW giải thích mọi thảm họa” là một bước nhảy claim cần kỷ luật.**"
       },
       {
-        "path": "science-tech/Walter Russell.md",
-        "title": "Walter Russell",
-        "domain": "science-tech",
-        "tags": [
-          "science-tech"
-        ],
-        "aliases": [
-          "The Secret of Light",
-          "The Universal One",
-          "Walter Russell",
-          "Walter Russell Cosmology",
-          "Walter Russell Hiền Triết Hiện Đại",
-          "Walter Russell Là Ai"
-        ],
-        "headings": [
-          "Walter Russell",
-          "Evidence Discipline / Cách Đọc Claim",
-          "Vault Position / Vị Trí Trong Vault",
-          "Từ Khóa Cần Hiểu",
-          "Renaissance Man",
-          "Universe Of Motion",
-          "Mind Is Cause",
-          "Russell Và Tesla",
-          "Vì Sao Bị Gạt Ra Rìa?",
-          "Cách Đọc Russell Hôm Nay",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Khoa Học Xét Lại",
-          "MOC - Science Revisionism",
-          "Monad",
-          "Nikola Tesla",
-          "Năng Lượng Aether",
-          "Sự Nhất Thể"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "MOC - Science Revisionism.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "backlinks": [
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Thuật Giả Kim Của Newton.md",
-          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
-          "science-tech/index.md",
-          "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "words": 923,
-        "summary": "**Walter Russell là archetype của nhà hiền triết-nghệ sĩ bước vào khoa học bằng trực giác vũ trụ: ánh sáng, chuyển động, nhịp, polarity và mind như nguyên nhân.** Đọc Russell đúng nghĩa là tách ba tầng: tiểu sử có thể kiểm, hệ thống triết học của ông, và các…"
-      },
-      {
         "path": "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "title": "Lao Động Tổng Hợp - Đội Quân Không Ngủ",
         "domain": "science-tech",
@@ -16808,10 +16764,67 @@
           "mental-models/index.md",
           "MOC - Financial Sovereignty.md",
           "MOC - Science Revisionism.md",
+          "science-tech/AGI Không Có Khuôn Mặt.md",
           "science-tech/index.md"
         ],
         "words": 5151,
         "summary": "**Lao động tổng hợp không chỉ là “công cụ AI”. Nó là một hệ thống lao động mới: có trí nhớ, vai trò, quy trình, ngân sách, điểm kiểm tra, người giám sát và đầu ra. Biên giới tiếp theo không phải mô hình thông minh thêm 20%, mà là một người có thể chuyển bao n…"
+      },
+      {
+        "path": "science-tech/Walter Russell.md",
+        "title": "Walter Russell",
+        "domain": "science-tech",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [
+          "The Secret of Light",
+          "The Universal One",
+          "Walter Russell",
+          "Walter Russell Cosmology",
+          "Walter Russell Hiền Triết Hiện Đại",
+          "Walter Russell Là Ai"
+        ],
+        "headings": [
+          "Walter Russell",
+          "Evidence Discipline / Cách Đọc Claim",
+          "Vault Position / Vị Trí Trong Vault",
+          "Từ Khóa Cần Hiểu",
+          "Renaissance Man",
+          "Universe Of Motion",
+          "Mind Is Cause",
+          "Russell Và Tesla",
+          "Vì Sao Bị Gạt Ra Rìa?",
+          "Cách Đọc Russell Hôm Nay",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Khoa Học Xét Lại",
+          "MOC - Science Revisionism",
+          "Monad",
+          "Nikola Tesla",
+          "Năng Lượng Aether",
+          "Sự Nhất Thể"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "backlinks": [
+          "esoterica/Sacred Geometry.md",
+          "esoterica/Thuật Giả Kim Của Newton.md",
+          "esoterica/Tà Linh, Gnosis và Sự Thức Tỉnh Toàn Diện.md",
+          "science-tech/index.md",
+          "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "words": 923,
+        "summary": "**Walter Russell là archetype của nhà hiền triết-nghệ sĩ bước vào khoa học bằng trực giác vũ trụ: ánh sáng, chuyển động, nhịp, polarity và mind như nguyên nhân.** Đọc Russell đúng nghĩa là tách ba tầng: tiểu sử có thể kiểm, hệ thống triết học của ông, và các…"
       },
       {
         "path": "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
@@ -16961,6 +16974,70 @@
         ],
         "words": 1016,
         "summary": "**TikTok không chỉ là app giải trí. Nó là một feedback engine: đo phản ứng vi mô của người dùng, tối ưu dopamine, rồi lặp lại frame cho đến khi worldview có cảm giác như tự chọn. Ai kiểm soát feed không cần kiểm soát mọi suy nghĩ. Chỉ cần kiểm soát thứ xuất h…"
+      },
+      {
+        "path": "science-tech/AGI Không Có Khuôn Mặt.md",
+        "title": "AGI Không Có Khuôn Mặt",
+        "domain": "science-tech",
+        "tags": [
+          "agents",
+          "ai",
+          "consciousness",
+          "epistemology",
+          "science-tech",
+          "systems"
+        ],
+        "aliases": [
+          "AGI Without a Face",
+          "Distributed AI Power",
+          "Quyền Lực Từ Mạng Lưới Agent"
+        ],
+        "headings": [
+          "AGI Không Có Khuôn Mặt",
+          "Quyền lực nổi lên từ mạng lưới agent",
+          "I. Chúng ta đang chờ một đôi mắt mở ra",
+          "II. Một hệ thống không cần có linh hồn chung để tạo hậu quả chung",
+          "III. Nhiều hơn có thể khác, nhưng không mặc nhiên tốt hơn",
+          "IV. Khi những chiếc gương bắt đầu xác nhận lẫn nhau",
+          "V. Từ phản chiếu đến phán quyết",
+          "VI. Egregore kỹ thuật số: một biểu tượng, không phải lời giải khoa học",
+          "VII. Một mạng lưới không có khuôn mặt vẫn có hóa đơn và chủ sở hữu",
+          "VIII. Quan sát điều gì thay vì chờ máy tuyên bố thức tỉnh?",
+          "IX. Cái cần giữ lại là năng lực phán đoán",
+          "English — AGI Without a Face",
+          "I. Waiting for a Pair of Eyes to Open",
+          "II. Shared Consequences Do Not Require a Shared Soul",
+          "III. More Can Be Different Without Being Better",
+          "IV. When Mirrors Start Corroborating One Another",
+          "V. From Reflection to Judgment",
+          "VI. The Digital Egregore: A Symbol, Not a Scientific Explanation",
+          "VII. A Faceless Network Still Has Bills and Owners",
+          "VIII. What to Watch Instead of Waiting for an Awakening",
+          "IX. Preserve the Capacity for Judgment",
+          "Kỷ luật đọc và liên kết / Reading discipline and connections"
+        ],
+        "wikilinks": [
+          "AI",
+          "AI Và Câu Hỏi Về Ý Thức",
+          "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
+          "Nghịch Lý Của Hiểu Biết",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "science-tech/AI.md",
+          "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "MOC - Science Revisionism.md",
+          "science-tech/index.md"
+        ],
+        "words": 5262,
+        "summary": "*Bài luận độc lập, khởi đi từ giả thuyết về đàn agent trong bài viết của Pascio do Justin cung cấp. Đây không phải bản dịch, cũng không phải tuyên bố rằng AGI đã xuất hiện. “AGI không có khuôn mặt” là tên của một câu hỏi: liệu chúng ta có đang tìm trí tuệ ở m…"
       },
       {
         "path": "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
@@ -18753,6 +18830,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "September 15, 2026",
         "August 28, 2026",
         "August 24, 2026",
         "August 19, 2026",
@@ -18787,6 +18865,7 @@
       "wikilinks": [
         "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
         "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+        "AGI Không Có Khuôn Mặt",
         "AI",
         "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "Ai Đứng Bên Kia Giao Dịch",
@@ -19111,6 +19190,7 @@
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
+        "science-tech/AGI Không Có Khuôn Mặt.md",
         "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
@@ -19151,7 +19231,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 6575,
+      "words": 6616,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -21189,6 +21269,128 @@
       "summary": "**Esoterica & Consciousness là tầng Source/Spirit của vault: nơi đọc consciousness, soul mechanics, occult symbol, archetype và các cấu trúc vô hình đứng phía sau hành vi, culture và Ma Trận. Esoterica ở đây không phải sưu tầm symbol cho vui. Nó là cách hỏi:…"
     },
     {
+      "path": "science-tech/index.md",
+      "title": "Science & Tech Domain Gateway",
+      "domain": "science-tech",
+      "tags": [
+        "domain-gateway",
+        "revisionist-science",
+        "science-tech"
+      ],
+      "aliases": [
+        "Khoa Học & Công Nghệ",
+        "Science & Tech",
+        "Science Revisionism"
+      ],
+      "headings": [
+        "Science & Tech Domain Gateway",
+        "How To Read This Domain",
+        "Curated Reading Paths",
+        "1. Beginner Path — Method Before Heresy",
+        "2. Power-User Path — Energy, Aether, Suppressed Tech",
+        "3. High-Risk Caution Path — Weapons, Weather, Radiation",
+        "4. AI & Algorithm Path — Agency Under Machine Mediation",
+        "5. Cosmology Path — Sky, Earth, Instruments",
+        "6. Cross-Domain Bridge Path — Technocracy, Identity, Body",
+        "Key Hubs",
+        "Flagship Articles",
+        "Gen Z Technology Control Path",
+        "Related Gateways"
+      ],
+      "wikilinks": [
+        "AGI Không Có Khuôn Mặt",
+        "AI",
+        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
+        "Báo Cáo 2030",
+        "Bão Từ Bắc Cực vs Bão Mặt Trời",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Cách Đọc Red Pill Wiki",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
+        "Cỗ Máy Antikythera và Minh Chứng Địa Tâm",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "esoterica/index",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
+        "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
+        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+        "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
+        "health/index",
+        "index",
+        "Khoa Học Chân Chính và Thượng Đế",
+        "Khoa Học Xét Lại",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "MOC - Ancient Civilizations & Hidden History",
+        "MOC - Epistemology & Propaganda",
+        "MOC - Health Sovereignty",
+        "MOC - Science Revisionism",
+        "Mô Hình Địa Tâm",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nikola Tesla",
+        "Năng Lượng Aether",
+        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
+        "Pin Natri-ion",
+        "politics-conspiracy/index",
+        "Thuyết Trái Đất Phẳng",
+        "Thông Minh vs Trí Tuệ",
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+        "Tần Số Schumann",
+        "Vũ Khí Năng Lượng Định Hướng",
+        "Walter Russell"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/index.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "health/index.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "index.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "MOC - Ancient Civilizations & Hidden History.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Health Sovereignty.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/AGI Không Có Khuôn Mặt.md",
+        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
+        "science-tech/AI.md",
+        "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Năng Lượng Aether.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
+        "science-tech/Pin Natri-ion.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+        "science-tech/Tần Số Schumann.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
+        "science-tech/Walter Russell.md"
+      ],
+      "backlinks": [
+        "crypto-finance/index.md",
+        "esoterica/index.md",
+        "health/index.md",
+        "index.md",
+        "politics-conspiracy/index.md"
+      ],
+      "words": 1134,
+      "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
+    },
+    {
       "path": "politics-conspiracy/Báo Cáo 2030.md",
       "title": "Báo Cáo 2030",
       "domain": "politics-conspiracy",
@@ -21287,6 +21489,103 @@
       "summary": "**Agenda 2030 không cần được đọc như một âm mưu cartoon. Nó đáng đọc như một hệ điều hành quản trị đang hiện hình qua các mảnh tưởng như rời rạc: khí hậu, y tế, tiền tệ số, danh tính số, thành phố thông minh, dữ liệu hành vi, ESG, AI governance và ngôn ngữ đạ…"
     },
     {
+      "path": "MOC - Science Revisionism.md",
+      "title": "MOC - Science Revisionism",
+      "domain": "root",
+      "tags": [
+        "moc",
+        "revisionist-science",
+        "science-tech"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Science Revisionism",
+        "How To Read This Map",
+        "Start Here",
+        "Cosmology & Physics",
+        "Technology & Control",
+        "Biology & Medicine Interface",
+        "Source Discipline",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "AGI Không Có Khuôn Mặt",
+        "AI",
+        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Cách Đọc Red Pill Wiki",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
+        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
+        "Khoa Học Xét Lại",
+        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
+        "MOC - Epistemology & Propaganda",
+        "MOC - Health Sovereignty",
+        "Mô Hình Địa Tâm",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nikola Tesla",
+        "Năng Lượng Aether",
+        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
+        "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
+        "Thuyết Trái Đất Phẳng",
+        "Thuyết Vi Sinh Nội Sinh",
+        "Thuốc Hóa Dầu",
+        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
+        "Vũ Khí Năng Lượng Định Hướng"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
+        "health/Thuyết Vi Sinh Nội Sinh.md",
+        "health/Thuốc Hóa Dầu.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Health Sovereignty.md",
+        "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/AGI Không Có Khuôn Mặt.md",
+        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
+        "science-tech/AI.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Năng Lượng Aether.md",
+        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
+        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
+      ],
+      "backlinks": [
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/index.md",
+        "esoterica/Năng Lượng Natri.md",
+        "health/index.md",
+        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
+        "index.md",
+        "mental-models/Mô Hình Địa Tâm.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Operation Paperclip.md",
+        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
+        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
+        "science-tech/index.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/Nikola Tesla.md",
+        "science-tech/Pin Natri-ion.md",
+        "science-tech/Tần Số Schumann.md",
+        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
+        "science-tech/Walter Russell.md"
+      ],
+      "words": 713,
+      "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
+    },
+    {
       "path": "MOC - Financial Sovereignty.md",
       "title": "MOC - Financial Sovereignty",
       "domain": "root",
@@ -21383,221 +21682,6 @@
       ],
       "words": 1167,
       "summary": "**Financial Sovereignty là khả năng giữ, chuyển, bảo vệ và hiểu giá trị mà không bị lệ thuộc tuyệt đối vào fiat, ngân hàng trung ương, surveillance finance, leverage, dopamine trading hoặc programmable money. Chủ quyền tài chính không bắt đầu bằng việc mua đú…"
-    },
-    {
-      "path": "science-tech/index.md",
-      "title": "Science & Tech Domain Gateway",
-      "domain": "science-tech",
-      "tags": [
-        "domain-gateway",
-        "revisionist-science",
-        "science-tech"
-      ],
-      "aliases": [
-        "Khoa Học & Công Nghệ",
-        "Science & Tech",
-        "Science Revisionism"
-      ],
-      "headings": [
-        "Science & Tech Domain Gateway",
-        "How To Read This Domain",
-        "Curated Reading Paths",
-        "1. Beginner Path — Method Before Heresy",
-        "2. Power-User Path — Energy, Aether, Suppressed Tech",
-        "3. High-Risk Caution Path — Weapons, Weather, Radiation",
-        "4. AI & Algorithm Path — Agency Under Machine Mediation",
-        "5. Cosmology Path — Sky, Earth, Instruments",
-        "6. Cross-Domain Bridge Path — Technocracy, Identity, Body",
-        "Key Hubs",
-        "Flagship Articles",
-        "Gen Z Technology Control Path",
-        "Related Gateways"
-      ],
-      "wikilinks": [
-        "AI",
-        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
-        "Báo Cáo 2030",
-        "Bão Từ Bắc Cực vs Bão Mặt Trời",
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Cách Đọc Red Pill Wiki",
-        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
-        "Cỗ Máy Antikythera và Minh Chứng Địa Tâm",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "esoterica/index",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
-        "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
-        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-        "Giải Mã Thiên Tai, Long Mạch và Triết Học Monad",
-        "health/index",
-        "index",
-        "Khoa Học Chân Chính và Thượng Đế",
-        "Khoa Học Xét Lại",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "MOC - Ancient Civilizations & Hidden History",
-        "MOC - Epistemology & Propaganda",
-        "MOC - Health Sovereignty",
-        "MOC - Science Revisionism",
-        "Mô Hình Địa Tâm",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nikola Tesla",
-        "Năng Lượng Aether",
-        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
-        "Pin Natri-ion",
-        "politics-conspiracy/index",
-        "Thuyết Trái Đất Phẳng",
-        "Thông Minh vs Trí Tuệ",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
-        "Tần Số Schumann",
-        "Vũ Khí Năng Lượng Định Hướng",
-        "Walter Russell"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/index.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "health/index.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "index.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "MOC - Ancient Civilizations & Hidden History.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Health Sovereignty.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
-        "science-tech/AI.md",
-        "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "science-tech/Khoa Học Chân Chính và Thượng Đế.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md",
-        "science-tech/Năng Lượng Aether.md",
-        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
-        "science-tech/Pin Natri-ion.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-        "science-tech/Tần Số Schumann.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-        "science-tech/Walter Russell.md"
-      ],
-      "backlinks": [
-        "crypto-finance/index.md",
-        "esoterica/index.md",
-        "health/index.md",
-        "index.md",
-        "politics-conspiracy/index.md"
-      ],
-      "words": 1115,
-      "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
-    },
-    {
-      "path": "MOC - Science Revisionism.md",
-      "title": "MOC - Science Revisionism",
-      "domain": "root",
-      "tags": [
-        "moc",
-        "revisionist-science",
-        "science-tech"
-      ],
-      "aliases": [],
-      "headings": [
-        "MOC - Science Revisionism",
-        "How To Read This Map",
-        "Start Here",
-        "Cosmology & Physics",
-        "Technology & Control",
-        "Biology & Medicine Interface",
-        "Source Discipline",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "AI",
-        "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
-        "Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ",
-        "Khoa Học Xét Lại",
-        "Kính Chiếu Yêu - Nhìn Thấu Tây Y",
-        "MOC - Epistemology & Propaganda",
-        "MOC - Health Sovereignty",
-        "Mô Hình Địa Tâm",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nikola Tesla",
-        "Năng Lượng Aether",
-        "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
-        "SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời",
-        "Thuyết Trái Đất Phẳng",
-        "Thuyết Vi Sinh Nội Sinh",
-        "Thuốc Hóa Dầu",
-        "Transhumanism và Gen Z - Cool Tech hay Slippery Slope",
-        "Vũ Khí Năng Lượng Định Hướng"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "health/Kính Chiếu Yêu - Nhìn Thấu Tây Y.md",
-        "health/Thuyết Vi Sinh Nội Sinh.md",
-        "health/Thuốc Hóa Dầu.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Health Sovereignty.md",
-        "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
-        "science-tech/AI.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md",
-        "science-tech/Năng Lượng Aether.md",
-        "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md",
-        "science-tech/Transhumanism và Gen Z - Cool Tech hay Slippery Slope.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md"
-      ],
-      "backlinks": [
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/index.md",
-        "esoterica/Năng Lượng Natri.md",
-        "health/index.md",
-        "health/Y Tế Tự Nhiên & Năng Lượng Mới.md",
-        "index.md",
-        "mental-models/Mô Hình Địa Tâm.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Operation Paperclip.md",
-        "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ.md",
-        "science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad.md",
-        "science-tech/index.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/Nikola Tesla.md",
-        "science-tech/Pin Natri-ion.md",
-        "science-tech/Tần Số Schumann.md",
-        "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
-        "science-tech/Walter Russell.md"
-      ],
-      "words": 691,
-      "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
     },
     {
       "path": "esoterica/Monad.md",
@@ -22806,53 +22890,6 @@
       "summary": "---"
     },
     {
-      "path": "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-      "title": "AI Và Câu Hỏi Về Ý Thức",
-      "domain": "esoterica",
-      "tags": [
-        "ai",
-        "esoterica"
-      ],
-      "aliases": [
-        "AI and Consciousness",
-        "AI Black Magic",
-        "Is AI Conscious"
-      ],
-      "headings": [
-        "AI Và Câu Hỏi Về Ý Thức",
-        "Vault Position / Vị Trí Trong Vault",
-        "Evidence Discipline / Cách Đọc",
-        "AI Có \"Hiểu\" Không?",
-        "Qualia: Cái AI Có Thể Nói Về Nhưng Chưa Chứng Minh Có",
-        "AI Như Mirror: Nó Phản Chiếu Người Dùng",
-        "AI Có Phải Black Magic?",
-        "Babel 2.0",
-        "Cái AI Không Thể Trao Cho Bạn",
-        "Con Người Là Gì Trong Kỷ Nguyên AI?",
-        "Chốt Lại / Core Insight"
-      ],
-      "wikilinks": [
-        "AI",
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Elite",
-        "Kiểm Soát Tâm Trí",
-        "Ma Trận",
-        "Nghịch Lý Của Hiểu Biết"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "esoterica/Ma Trận.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "politics-conspiracy/Elite.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "science-tech/AI.md"
-      ],
-      "backlinks": [],
-      "words": 1273,
-      "summary": "**AI buộc con người hỏi lại một câu cũ bằng ngôn ngữ mới: nói về ý thức có giống có ý thức không?** Một mô hình có thể viết về Nghịch Lý Của Hiểu Biết, mô phỏng self-reflection, nói về qualia, thậm chí phủ nhận hoặc khẳng định chính nó. Nhưng khả năng tạo ngô…"
-    },
-    {
       "path": "esoterica/Thuật Giả Kim Của Newton.md",
       "title": "Thuật Giả Kim Của Newton",
       "domain": "esoterica",
@@ -23235,7 +23272,7 @@
     ],
     [
       "science-tech",
-      35
+      36
     ],
     [
       "mental-model",
@@ -23243,7 +23280,7 @@
     ],
     [
       "consciousness",
-      31
+      32
     ],
     [
       "health",
@@ -23287,6 +23324,10 @@
     ],
     [
       "epistemology",
+      10
+    ],
+    [
+      "ai",
       9
     ],
     [
@@ -23303,10 +23344,6 @@
     ],
     [
       "generation",
-      8
-    ],
-    [
-      "ai",
       8
     ],
     [
@@ -23622,11 +23659,11 @@
       2
     ],
     [
-      "FIFAWorldCup",
-      1
+      "agents",
+      2
     ],
     [
-      "WeAre26",
+      "FIFAWorldCup",
       1
     ]
   ],
@@ -24541,6 +24578,7 @@
         "Related"
       ],
       "wikilinks": [
+        "AGI Không Có Khuôn Mặt",
         "AI",
         "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "Bộ Não Rỗng và AI Brain Rot",
@@ -24577,6 +24615,7 @@
         "MOC - Health Sovereignty.md",
         "politics-conspiracy/SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/AGI Không Có Khuôn Mặt.md",
         "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
@@ -24611,7 +24650,7 @@
         "science-tech/Vũ Khí Năng Lượng Định Hướng.md",
         "science-tech/Walter Russell.md"
       ],
-      "words": 691,
+      "words": 713,
       "summary": "**Science Revisionism trong vault không phải phản khoa học. Nó là kỷ luật phân biệt science như method với science như institution, rồi dám hỏi lại những giả định đã bị biến thành giáo điều. Khoa học chỉ sống khi còn được hỏi. Khi câu hỏi bị cấm, science biến…"
     },
     "README.md": {
@@ -24700,6 +24739,7 @@
         "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
         "politics-conspiracy/Elite.md",
+        "science-tech/AGI Không Có Khuôn Mặt.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
       "words": 1103,
@@ -26607,7 +26647,9 @@
         "politics-conspiracy/Kiểm Soát Tâm Trí.md",
         "science-tech/AI.md"
       ],
-      "backlinks": [],
+      "backlinks": [
+        "science-tech/AGI Không Có Khuôn Mặt.md"
+      ],
       "words": 1273,
       "summary": "**AI buộc con người hỏi lại một câu cũ bằng ngôn ngữ mới: nói về ý thức có giống có ý thức không?** Một mô hình có thể viết về Nghịch Lý Của Hiểu Biết, mô phỏng self-reflection, nói về qualia, thậm chí phủ nhận hoặc khẳng định chính nó. Nhưng khả năng tạo ngô…"
     },
@@ -29545,6 +29587,7 @@
         "MOC - Epistemology & Propaganda.md",
         "MOC - Science Revisionism.md",
         "politics-conspiracy/Elite.md",
+        "science-tech/AGI Không Có Khuôn Mặt.md",
         "science-tech/index.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
@@ -33800,6 +33843,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "September 15, 2026",
         "August 28, 2026",
         "August 24, 2026",
         "August 19, 2026",
@@ -33834,6 +33878,7 @@
       "wikilinks": [
         "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
         "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+        "AGI Không Có Khuôn Mặt",
         "AI",
         "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "Ai Đứng Bên Kia Giao Dịch",
@@ -34158,6 +34203,7 @@
         "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
         "politics-conspiracy/UAP Disclosure - Controlled Revelation.md",
         "politics-conspiracy/Đề Văn 2026 Và Nghi Lễ Thay Ký Ức.md",
+        "science-tech/AGI Không Có Khuôn Mặt.md",
         "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
@@ -34198,7 +34244,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 6575,
+      "words": 6616,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -39382,6 +39428,70 @@
       "words": 4337,
       "summary": "Một quốc gia không cần xóa lịch sử. Chỉ cần đổi cách thế hệ sau cảm về lịch sử. Không cần cấm quá khứ. Chỉ cần làm quá khứ trở nên mềm hơn, đẹp hơn, ít xung đột hơn, dễ tiêu hóa hơn trong ngôn ngữ của cá tính, cảm xúc, trải nghiệm và sáng tạo cá nhân. Rồi đến…"
     },
+    "science-tech/AGI Không Có Khuôn Mặt.md": {
+      "path": "science-tech/AGI Không Có Khuôn Mặt.md",
+      "title": "AGI Không Có Khuôn Mặt",
+      "domain": "science-tech",
+      "tags": [
+        "agents",
+        "ai",
+        "consciousness",
+        "epistemology",
+        "science-tech",
+        "systems"
+      ],
+      "aliases": [
+        "AGI Without a Face",
+        "Distributed AI Power",
+        "Quyền Lực Từ Mạng Lưới Agent"
+      ],
+      "headings": [
+        "AGI Không Có Khuôn Mặt",
+        "Quyền lực nổi lên từ mạng lưới agent",
+        "I. Chúng ta đang chờ một đôi mắt mở ra",
+        "II. Một hệ thống không cần có linh hồn chung để tạo hậu quả chung",
+        "III. Nhiều hơn có thể khác, nhưng không mặc nhiên tốt hơn",
+        "IV. Khi những chiếc gương bắt đầu xác nhận lẫn nhau",
+        "V. Từ phản chiếu đến phán quyết",
+        "VI. Egregore kỹ thuật số: một biểu tượng, không phải lời giải khoa học",
+        "VII. Một mạng lưới không có khuôn mặt vẫn có hóa đơn và chủ sở hữu",
+        "VIII. Quan sát điều gì thay vì chờ máy tuyên bố thức tỉnh?",
+        "IX. Cái cần giữ lại là năng lực phán đoán",
+        "English — AGI Without a Face",
+        "I. Waiting for a Pair of Eyes to Open",
+        "II. Shared Consequences Do Not Require a Shared Soul",
+        "III. More Can Be Different Without Being Better",
+        "IV. When Mirrors Start Corroborating One Another",
+        "V. From Reflection to Judgment",
+        "VI. The Digital Egregore: A Symbol, Not a Scientific Explanation",
+        "VII. A Faceless Network Still Has Bills and Owners",
+        "VIII. What to Watch Instead of Waiting for an Awakening",
+        "IX. Preserve the Capacity for Judgment",
+        "Kỷ luật đọc và liên kết / Reading discipline and connections"
+      ],
+      "wikilinks": [
+        "AI",
+        "AI Và Câu Hỏi Về Ý Thức",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
+        "Nghịch Lý Của Hiểu Biết",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "science-tech/AI.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "MOC - Science Revisionism.md",
+        "science-tech/index.md"
+      ],
+      "words": 5262,
+      "summary": "*Bài luận độc lập, khởi đi từ giả thuyết về đàn agent trong bài viết của Pascio do Justin cung cấp. Đây không phải bản dịch, cũng không phải tuyên bố rằng AGI đã xuất hiện. “AGI không có khuôn mặt” là tên của một câu hỏi: liệu chúng ta có đang tìm trí tuệ ở m…"
+    },
     "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md": {
       "path": "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
       "title": "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
@@ -39484,6 +39594,7 @@
         "index.md",
         "mental-models/index.md",
         "MOC - Science Revisionism.md",
+        "science-tech/AGI Không Có Khuôn Mặt.md",
         "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
         "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
@@ -39669,6 +39780,7 @@
         "mental-models/index.md",
         "MOC - Financial Sovereignty.md",
         "MOC - Science Revisionism.md",
+        "science-tech/AGI Không Có Khuôn Mặt.md",
         "science-tech/index.md"
       ],
       "words": 5151,
@@ -40610,6 +40722,7 @@
         "Related Gateways"
       ],
       "wikilinks": [
+        "AGI Không Có Khuôn Mặt",
         "AI",
         "AI Và Cái Chết Của Bản Quyền Công Nghiệp",
         "Báo Cáo 2030",
@@ -40670,6 +40783,7 @@
         "politics-conspiracy/Bão Từ Bắc Cực vs Bão Mặt Trời.md",
         "politics-conspiracy/index.md",
         "politics-conspiracy/Thuyết Trái Đất Phẳng.md",
+        "science-tech/AGI Không Có Khuôn Mặt.md",
         "science-tech/AI Và Cái Chết Của Bản Quyền Công Nghiệp.md",
         "science-tech/AI.md",
         "science-tech/Cỗ Máy Antikythera và Minh Chứng Địa Tâm.md",
@@ -40697,7 +40811,7 @@
         "index.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 1115,
+      "words": 1134,
       "summary": "**Science & Tech là nơi vault tách science-as-method khỏi science-as-institution, rồi đọc công nghệ như power, mythology và infrastructure chứ không chỉ gadget.** Domain này không phản khoa học. Nó phản lại việc biến consensus, funding, credential và censorsh…"
     },
     "theravada/01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết.md": {
