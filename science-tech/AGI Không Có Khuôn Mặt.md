@@ -16,7 +16,7 @@ related:
 # AGI Không Có Khuôn Mặt
 ## Quyền lực nổi lên từ mạng lưới agent
 
-*Bài luận độc lập, khởi đi từ giả thuyết về đàn agent trong bài viết của Pascio do Justin cung cấp. Đây không phải bản dịch, cũng không phải tuyên bố rằng AGI đã xuất hiện. “AGI không có khuôn mặt” là tên của một câu hỏi: liệu chúng ta có đang tìm trí tuệ ở một đơn vị quá nhỏ, và tìm quyền lực ở một hình dạng quá quen thuộc?*
+**Ta thường hình dung AGI như một bộ óc máy duy nhất. Nhưng nếu quyền lực hình thành qua mạng lưới con người, mô hình và công cụ, điều cần quan sát không chỉ là cỗ máy thông minh đến đâu, mà còn là cách cả hệ thống đưa ra quyết định.**
 
 ---
 
@@ -208,7 +208,7 @@ Trách nhiệm không có người nhận, nếu ta để nó xảy ra, sẽ là
 
 *Power Emerging from Networks of Agents*
 
-*An original essay prompted by Pascio’s agent-swarm hypothesis, in the Vietnamese text supplied by Justin. This is not a translation of Pascio and does not announce the arrival of AGI. “AGI without a face” names a question: are we looking for intelligence in a unit that is too small, and for power in a shape that is too familiar?*
+**We tend to imagine AGI as a single machine mind. But if power takes shape across networks of people, models and tools, we must examine not only how intelligent a machine is, but how the whole system makes decisions.**
 
 ## I. Waiting for a Pair of Eyes to Open
 
@@ -383,9 +383,9 @@ Responsibility without anyone willing to accept it can become a very real proble
 
 *Minh họa tạo bằng AI, mang tính khái niệm, không phải ảnh tư liệu hay bằng chứng về AGI. / AI-generated conceptual illustrations, not documentary evidence of AGI.*
 
-Bài luận độc lập lấy cảm hứng từ bài Pascio do Justin cung cấp; không xác nhận các con số hoặc trích dẫn chưa kiểm chứng trong bài gốc. Ví dụ doanh nghiệp/thị trường là phép tương tự; câu chuyện thanh khoản là giả định minh họa, không phải một vụ việc đã xác minh.
+Nguồn cảm hứng: bài viết của Pascio về mạng lưới agent. Các ví dụ doanh nghiệp và thị trường trong bài là phép tương tự; tình huống thanh khoản là giả định minh họa, không phải một vụ việc đã xác minh.
 
-*An original response to Pascio’s user-supplied essay, not verification of its figures or quotations. Organizational/market examples are analogies; the liquidity scenario is explicitly hypothetical.*
+*Inspired by Pascio’s essay on agent networks. The organizational and market examples are analogies; the liquidity scenario is hypothetical, not a verified incident.*
 
 - **Fact / cơ chế:** phối hợp tác vụ và quyền gọi công cụ có thể khảo sát trực tiếp.
 - **Pattern / hệ thống:** vòng lặp thông tin và phân mảnh trách nhiệm là cơ chế cần kiểm tra từng trường hợp.
