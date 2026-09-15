@@ -341,7 +341,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ## Recent Updates / Cập Nhật Gần Đây
 ### September 15, 2026
-- **[[AGI Không Có Khuôn Mặt]]** — bài Việt/Anh về quyền lực mạng agent và vòng lặp tự xác nhận thông tin; sáu minh họa khái niệm, không tuyên bố AGI đã xuất hiện.
+- **[[AGI Không Có Khuôn Mặt]]** — bài Việt/Anh về quyền lực mạng agent và vòng lặp tự xác nhận thông tin; năm minh họa khái niệm, không tuyên bố AGI đã xuất hiện.
 
 ### August 28, 2026
 

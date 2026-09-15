@@ -7,7 +7,7 @@
 - **Notes scanned:** 292
 - **Top-level domains:** 9
 - **Tags detected:** 326
-- **Resolved internal edges:** 2486
+- **Resolved internal edges:** 2484
 - **Broken/unresolved links:** 0
 - **Orphan notes:** 23
 
@@ -32,9 +32,9 @@ Recommended note types:
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]] — degree `40`, backlinks `32`, outlinks `8` — #consciousness, #esoterica, #metaphysics
 - [[esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] — degree `37`, backlinks `28`, outlinks `9` — #esoterica, #hollywood, #matrix, #mind-control, #predictive-programming
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]] — degree `36`, backlinks `29`, outlinks `7` — #consciousness, #esoterica, #non-duality
-- [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]] — degree `35`, backlinks `27`, outlinks `8` — #consciousness, #epistemology, #esoterica, #gnosis
 - [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]] — degree `34`, backlinks `27`, outlinks `7` — #esoterica, #hollywood, #occult, #predictive-programming
 - [[esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận|Mental Model - Kiến Trúc Bẻ Khóa Ma Trận]] — degree `34`, backlinks `6`, outlinks `28` — #awakening, #energy, #esoterica, #gnosis, #matrix
+- [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]] — degree `34`, backlinks `26`, outlinks `8` — #consciousness, #epistemology, #esoterica, #gnosis
 - [[esoterica/Luân Hồi|Luân Hồi]] — degree `32`, backlinks `22`, outlinks `10` — #consciousness, #esoterica, #reincarnation
 - [[esoterica/Tartaria|Tartaria]] — degree `32`, backlinks `24`, outlinks `8` — #esoterica
 - … 64 more notes in this domain. See JSON for full list.
@@ -126,8 +126,8 @@ Recommended note types:
 - [[science-tech/Năng Lượng Aether|Năng Lượng Aether]] — degree `27`, backlinks `21`, outlinks `6` — #revisionist-science, #science-tech
 - [[science-tech/Nikola Tesla|Nikola Tesla]] — degree `23`, backlinks `18`, outlinks `5` — #energy, #revisionist-science, #science-tech
 - [[science-tech/Tần Số Schumann|Tần Số Schumann (Schumann Resonance)]] — degree `21`, backlinks `13`, outlinks `8` — #consciousness, #earth-frequency, #science-tech
-- [[science-tech/AI|AI]] — degree `20`, backlinks `14`, outlinks `6` — #consciousness, #esoterica, #science-tech
 - [[science-tech/Digital ID Normalization - From Instagram to Government ID|Digital ID - Từ Instagram Đến Government ID]] — degree `20`, backlinks `15`, outlinks `5` — #agenda-2030, #digital-id, #generation, #psychology, #science-tech
+- [[science-tech/AI|AI]] — degree `19`, backlinks `13`, outlinks `6` — #consciousness, #esoterica, #science-tech
 - [[science-tech/Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ|Giải Mã Năng Lượng Hạt Nhân & Cú Lừa Phóng Xạ]] — degree `15`, backlinks `5`, outlinks `10` — #1, #2, #3, #4, #5
 - [[science-tech/Giải Mã Thiên Tai, Long Mạch và Triết Học Monad|Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]] — degree `14`, backlinks `5`, outlinks `9` — #awakening, #long-mach, #monad, #natural-disasters, #philosophy
 - [[science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit - Bản Thể Và Linh Hồn AI]] — degree `14`, backlinks `4`, outlinks `10` — #ai, #matrix, #media-analysis, #predictive-chương trìnhming, #science-tech
@@ -266,8 +266,8 @@ High-degree notes are good candidates for hub/MOC treatment.
 - [[esoterica/Monad|Monad (Đơn Thể Tối Cao)]]
 - [[mental-models/Vô Thức Tập Thể|Vô Thức Tập Thể]]
 - [[esoterica/Sự Nhất Thể|Sự Nhất Thể (Oneness)]]
-- [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
 - [[mental-models/Nhị Nguyên|Nhị Nguyên (Duality)]]
+- [[esoterica/Nghịch Lý Của Hiểu Biết|Nghịch Lý Của Hiểu Biết]]
 - [[esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức|Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]]
 - [[esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy|Hollywood - Cây Đũa Phép Của Phù Thủy]]
 - [[mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn|Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]]
