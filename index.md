@@ -343,7 +343,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ## Recent Updates / Cập Nhật Gần Đây
 
-### 2026-09-17
+### September 17, 2026
 
 - **[[Gautama Giữa Thời Đại Thuật Toán|Nếu Đức Phật Sống Trong Thời Đại Smartphone]]** — bài song ngữ theo từng đoạn, dùng câu chuyện giả định về Đức Phật trong thời hiện đại để nhìn lại khổ đau, việc tìm bình an và khoảng cách giữa học với thực hành.
 
