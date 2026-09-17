@@ -42,6 +42,8 @@ Root onboarding sống ở [[Cách Đọc Red Pill Wiki]], đặc biệt [[Curre
 
 ## Reading Discipline
 
+- [[Gautama Giữa Thời Đại Thuật Toán|Nếu Đức Phật Sống Trong Thời Đại Smartphone]] — kính trọng Đức Phật, cẩn trọng với cách diễn giải của chính mình, phân biệt biết lời dạy với sống theo lời dạy.
+
 - [[Cách Đọc Red Pill Wiki]] — bài nền để không biến vault thành dogma.
 - [[Nghịch Lý Của Hiểu Biết]] — mọi framework đều là ngón tay chỉ mặt trăng.
 - [[Mental Model]] — model là công cụ, không phải reality.

@@ -38,6 +38,14 @@ related:
 
 ---
 
+## Đức Phật Và Đời Sống Hiện Đại / The Buddha and Contemporary Life
+
+[[Gautama Giữa Thời Đại Thuật Toán|Nếu Đức Phật Sống Trong Thời Đại Smartphone]] — một giả định với lòng kính trọng: giữa kinh điển, thông báo và những lời hứa bình an, chúng ta đưa lời Phật dạy vào đời sống thế nào?
+
+*A respectful thought experiment: amid scriptures, notifications, and promises of peace, how do we bring the Buddha’s teaching into everyday life?*
+
+---
+
 ## How To Read This Domain
 
 Đọc mental models như tools, không như identity. Một model tốt giúp thấy nhiều hơn; một model bị thần tượng hóa sẽ trở thành nhà tù mới. Khi một bài nói về dopamine, Gen Z, sex, fear, greed, intelligence hay Jung, hãy hỏi:

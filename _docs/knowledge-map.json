@@ -1,19 +1,19 @@
 {
   "stats": {
-    "notes": 292,
+    "notes": 293,
     "domains": {
       "_docs": 22,
       "root": 14,
       "crypto-finance": 18,
       "esoterica": 76,
       "health": 27,
-      "mental-models": 44,
+      "mental-models": 45,
       "politics-conspiracy": 29,
       "science-tech": 21,
       "theravada": 41
     },
-    "tags": 326,
-    "wikilinkEdges": 2484,
+    "tags": 328,
+    "wikilinkEdges": 2492,
     "brokenLinks": 0,
     "orphans": 23
   },
@@ -2673,6 +2673,91 @@
         "summary": "**Sự Nhất Thể không phải ý tưởng “mọi thứ đều màu hồng”. Nó là sự nhận ra rằng phía sau mọi phân mảnh: ta/người, sáng/tối, tinh thần/vật chất, thắng/thua, có một nền tảng duy nhất đang biểu hiện thành muôn hình vạn trạng. Nhất Thể là Source nhìn chính nó qua…"
       },
       {
+        "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "title": "Nghịch Lý Của Hiểu Biết",
+        "domain": "esoterica",
+        "tags": [
+          "consciousness",
+          "epistemology",
+          "esoterica",
+          "gnosis"
+        ],
+        "aliases": [
+          "Beyond Duality",
+          "Cái Thấy",
+          "Framework Collapse",
+          "Paradox of Knowledge",
+          "Vượt Qua Nhị Nguyên"
+        ],
+        "headings": [
+          "Nghịch Lý Của Hiểu Biết",
+          "Evidence Discipline / Cách Đọc",
+          "Trap Của Nhị Nguyên",
+          "Mỗi Framework Đều Có Shadow",
+          "Layers Của Hiểu Biết",
+          "Không Phải A Hay B, Mà Là Cái Thấy Cả A Và B",
+          "Cái Thấy Không Phải Opinion",
+          "Đức Phật, Lão Tử Và Ngón Tay Chỉ Mặt Trăng",
+          "Vì Sao Vẫn Cần Framework?",
+          "Information Và Transmission",
+          "Practical Use: Đọc Vault Mà Không Tẩu Hỏa",
+          "Kết",
+          "Reading Path / Đọc Tiếp"
+        ],
+        "wikilinks": [
+          "Báo Cáo 2030",
+          "Elite",
+          "Gnosis",
+          "Individuation",
+          "Ma Trận",
+          "Monad",
+          "Nhị Nguyên",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nhị Nguyên.md",
+          "politics-conspiracy/Báo Cáo 2030.md",
+          "politics-conspiracy/Elite.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Privacy.md",
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
+          "esoterica/Gnosis.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/index.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "esoterica/Sự Nhất Thể.md",
+          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
+          "esoterica/Đạo.md",
+          "index.md",
+          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+          "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
+          "mental-models/index.md",
+          "mental-models/Individuation.md",
+          "mental-models/Thông Minh vs Trí Tuệ.md",
+          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+          "mental-models/Trí Tuệ.md",
+          "MOC - Epistemology & Propaganda.md",
+          "MOC - Science Revisionism.md",
+          "politics-conspiracy/Elite.md",
+          "science-tech/index.md",
+          "science-tech/Khoa Học Xét Lại.md"
+        ],
+        "words": 2340,
+        "summary": "**Có một trap mà mind không thể thoát bằng thinking: mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó. Cứ đi đủ sâu vào bất kỳ framework nào, bạn sẽ gặp counter-framework của nó. Cứ cố thắng bằng argument, bạn sẽ bị kéo vào vòng lặp vô tận. Ngh…"
+      },
+      {
         "path": "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
         "title": "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "domain": "esoterica",
@@ -2851,90 +2936,6 @@
         ],
         "words": 984,
         "summary": "Bản Mental Model này là sự đúc kết tinh hoa nhất từ toàn bộ kho tri thức (98 bài viết), vạch trần cấu trúc đa tầng của hệ thống kiểm soát và cung cấp lộ trình thực tiễn để một linh hồn tự giải phóng."
-      },
-      {
-        "path": "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "title": "Nghịch Lý Của Hiểu Biết",
-        "domain": "esoterica",
-        "tags": [
-          "consciousness",
-          "epistemology",
-          "esoterica",
-          "gnosis"
-        ],
-        "aliases": [
-          "Beyond Duality",
-          "Cái Thấy",
-          "Framework Collapse",
-          "Paradox of Knowledge",
-          "Vượt Qua Nhị Nguyên"
-        ],
-        "headings": [
-          "Nghịch Lý Của Hiểu Biết",
-          "Evidence Discipline / Cách Đọc",
-          "Trap Của Nhị Nguyên",
-          "Mỗi Framework Đều Có Shadow",
-          "Layers Của Hiểu Biết",
-          "Không Phải A Hay B, Mà Là Cái Thấy Cả A Và B",
-          "Cái Thấy Không Phải Opinion",
-          "Đức Phật, Lão Tử Và Ngón Tay Chỉ Mặt Trăng",
-          "Vì Sao Vẫn Cần Framework?",
-          "Information Và Transmission",
-          "Practical Use: Đọc Vault Mà Không Tẩu Hỏa",
-          "Kết",
-          "Reading Path / Đọc Tiếp"
-        ],
-        "wikilinks": [
-          "Báo Cáo 2030",
-          "Elite",
-          "Gnosis",
-          "Individuation",
-          "Ma Trận",
-          "Monad",
-          "Nhị Nguyên",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nhị Nguyên.md",
-          "politics-conspiracy/Báo Cáo 2030.md",
-          "politics-conspiracy/Elite.md",
-          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Privacy.md",
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/AI Và Câu Hỏi Về Ý Thức.md",
-          "esoterica/Gnosis.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/index.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "esoterica/Sự Nhất Thể.md",
-          "esoterica/Tồn Tại Để Làm Gì — Hay Câu Hỏi Đã Sai Từ Đầu.md",
-          "esoterica/Đạo.md",
-          "index.md",
-          "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-          "mental-models/index.md",
-          "mental-models/Individuation.md",
-          "mental-models/Thông Minh vs Trí Tuệ.md",
-          "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-          "mental-models/Trí Tuệ.md",
-          "MOC - Epistemology & Propaganda.md",
-          "MOC - Science Revisionism.md",
-          "politics-conspiracy/Elite.md",
-          "science-tech/index.md",
-          "science-tech/Khoa Học Xét Lại.md"
-        ],
-        "words": 2340,
-        "summary": "**Có một trap mà mind không thể thoát bằng thinking: mọi luận điểm đều có thể tìm được cái đối nghịch để phủ định nó. Cứ đi đủ sâu vào bất kỳ framework nào, bạn sẽ gặp counter-framework của nó. Cứ cố thắng bằng argument, bạn sẽ bị kéo vào vòng lặp vô tận. Ngh…"
       },
       {
         "path": "esoterica/Luân Hồi.md",
@@ -9072,6 +9073,7 @@
         "headings": [
           "Mental Models Domain Gateway",
           "Family, Dopamine & Orphan Train Pack",
+          "Đức Phật Và Đời Sống Hiện Đại / The Buddha and Contemporary Life",
           "How To Read This Domain",
           "Curated Reading Paths",
           "1. Beginner Path — Thinking Tools Before Identity",
@@ -9102,6 +9104,7 @@
           "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
           "Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu",
           "esoterica/index",
+          "Gautama Giữa Thời Đại Thuật Toán",
           "Gen Z - Phân Tích Phản Biện",
           "Gen Z và CBDC - Programmable Money Psychology",
           "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
@@ -9167,6 +9170,7 @@
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
           "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+          "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
@@ -9216,7 +9220,7 @@
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 2127,
+        "words": 2204,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -9316,88 +9320,6 @@
         "summary": "**Individuation là quá trình một con người ngừng sống như persona được lập trình và bắt đầu trở thành một cá thể toàn vẹn: biết shadow của mình, không bị role xã hội nuốt chửng, tích hợp vô thức, rồi tiến gần hơn tới Self. Trong ngôn ngữ vault, đây là nền tâm…"
       },
       {
-        "path": "mental-models/Vô Thức Tập Thể.md",
-        "title": "Vô Thức Tập Thể",
-        "domain": "mental-models",
-        "tags": [
-          "consciousness",
-          "jung",
-          "mental-model"
-        ],
-        "aliases": [
-          "Akashic Records",
-          "Collective Unconscious",
-          "Vô Thức Tập Thể (Akashic Records)"
-        ],
-        "headings": [
-          "Vô Thức Tập Thể (Collective Unconscious)",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Jung Nói Gì?",
-          "Archetype Là Gì?",
-          "Dream, Myth Và Culture",
-          "Akashic Records Connection",
-          "Ma Trận Và Vô Thức Tập Thể",
-          "Kết"
-        ],
-        "wikilinks": [
-          "Gnosis",
-          "Hollywood - Cây Đũa Phép Của Phù Thủy",
-          "Individuation",
-          "Ma Trận",
-          "Monad",
-          "Nguyên Mẫu",
-          "Năng Lượng Aether",
-          "Tâm Lý Học Jung"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Gnosis.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Ma Trận.md",
-          "esoterica/Monad.md",
-          "mental-models/Individuation.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "backlinks": [
-          "Cách Đọc Red Pill Wiki.md",
-          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
-          "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
-          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
-          "esoterica/Dune - Paul Leto II Va Golden Path.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
-          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-          "esoterica/Luân Hồi.md",
-          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
-          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
-          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-          "esoterica/Sacred Geometry.md",
-          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
-          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-          "Glossary - Từ Điển Red Pill Wiki.md",
-          "health/Tuyến Tùng.md",
-          "index.md",
-          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
-          "mental-models/index.md",
-          "mental-models/Individuation.md",
-          "mental-models/Mental Model.md",
-          "mental-models/Nguyên Mẫu.md",
-          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-          "mental-models/Tâm Lý Học Jung.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Esoterica & Consciousness.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
-        ],
-        "words": 799,
-        "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
-      },
-      {
         "path": "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "title": "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
         "domain": "mental-models",
@@ -9479,6 +9401,7 @@
           "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
           "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+          "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
           "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "mental-models/index.md",
@@ -9497,6 +9420,88 @@
         ],
         "words": 1086,
         "summary": "**Dopamine Economy là nền kinh tế không bán hạnh phúc, mà bán vòng lặp thèm muốn. Nó biến hệ thống phần thưởng của não thành hạ tầng khai thác attention, hành vi, dữ liệu, tiền bạc và năng lượng sống.**"
+      },
+      {
+        "path": "mental-models/Vô Thức Tập Thể.md",
+        "title": "Vô Thức Tập Thể",
+        "domain": "mental-models",
+        "tags": [
+          "consciousness",
+          "jung",
+          "mental-model"
+        ],
+        "aliases": [
+          "Akashic Records",
+          "Collective Unconscious",
+          "Vô Thức Tập Thể (Akashic Records)"
+        ],
+        "headings": [
+          "Vô Thức Tập Thể (Collective Unconscious)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Jung Nói Gì?",
+          "Archetype Là Gì?",
+          "Dream, Myth Và Culture",
+          "Akashic Records Connection",
+          "Ma Trận Và Vô Thức Tập Thể",
+          "Kết"
+        ],
+        "wikilinks": [
+          "Gnosis",
+          "Hollywood - Cây Đũa Phép Của Phù Thủy",
+          "Individuation",
+          "Ma Trận",
+          "Monad",
+          "Nguyên Mẫu",
+          "Năng Lượng Aether",
+          "Tâm Lý Học Jung"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Gnosis.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Ma Trận.md",
+          "esoterica/Monad.md",
+          "mental-models/Individuation.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "backlinks": [
+          "Cách Đọc Red Pill Wiki.md",
+          "esoterica/Avatar - Disclosure Của Eywa & Gaia.md",
+          "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
+          "esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian.md",
+          "esoterica/Dune - Paul Leto II Va Golden Path.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+          "esoterica/Inception - Predictive Programming Về Kiểm Soát Tâm Trí.md",
+          "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+          "esoterica/Luân Hồi.md",
+          "esoterica/Mental Model - Tầng Sâu Nhận Thức & Năng Lượng.md",
+          "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
+          "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+          "esoterica/Sacred Geometry.md",
+          "esoterica/Soulmate vs Lover - Anatomy Của Kết Nối.md",
+          "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+          "Glossary - Từ Điển Red Pill Wiki.md",
+          "health/Tuyến Tùng.md",
+          "index.md",
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+          "mental-models/index.md",
+          "mental-models/Individuation.md",
+          "mental-models/Mental Model.md",
+          "mental-models/Nguyên Mẫu.md",
+          "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+          "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+          "mental-models/Tâm Lý Học Jung.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Esoterica & Consciousness.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic.md"
+        ],
+        "words": 799,
+        "summary": "!Một field ký ức biểu tượng chung nằm dưới nhân loại, các archetype trôi như chòm sao trong vô thức tập thể"
       },
       {
         "path": "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
@@ -11842,6 +11847,105 @@
         "summary": "!Một quảng trường cổ đại lúc bình minh, dòng người bình dân soi bóng lên bầu trời như một tấm gương, ngai vàng ở xa nhỏ bé trước biển người, biểu tượng cho Thiên mệnh được phản chiếu qua dân tâm"
       },
       {
+        "path": "mental-models/Luân Hồi Trên Home Screen.md",
+        "title": "Luân Hồi Trên Home Screen",
+        "domain": "mental-models",
+        "tags": [
+          "attention",
+          "dopamine-economy",
+          "ma-tran",
+          "mental-models",
+          "samsara",
+          "technology"
+        ],
+        "aliases": [
+          "Digital Samsara",
+          "Home Screen Samsara",
+          "Seven Sins Home Screen"
+        ],
+        "headings": [
+          "Luân Hồi Trên Home Screen",
+          "Seven Sins, New Interface",
+          "Ma Trận Không Cần Nhà Tù",
+          "Productivity Là Cái Lồng Sang Nhất",
+          "Luân Hồi Bằng Notification",
+          "Attention Là Cửa Thoát"
+        ],
+        "wikilinks": [
+          "Bộ Não Rỗng và AI Brain Rot",
+          "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Luân Hồi",
+          "Ma Trận"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Luân Hồi.md",
+          "esoterica/Ma Trận.md",
+          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+          "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
+          "mental-models/index.md"
+        ],
+        "words": 998,
+        "summary": "!Home Screen Samsara"
+      },
+      {
+        "path": "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
+        "title": "Nếu Đức Phật Sống Trong Thời Đại Smartphone",
+        "domain": "mental-models",
+        "tags": [
+          "attention",
+          "buddhism",
+          "mental-model",
+          "nonattachment",
+          "spiritual-practice",
+          "technology"
+        ],
+        "aliases": [
+          "Gautama Giữa Thời Đại Thuật Toán",
+          "If the Buddha Lived in the Smartphone Age",
+          "Đức Phật Và Smartphone"
+        ],
+        "headings": [
+          "Nếu Đức Phật Sống Trong Thời Đại Smartphone",
+          "1. Một Thế Giới Đã Có Rất Nhiều Lời Nói Về Đức Phật / A World Full of Words About the Buddha",
+          "2. Khổ Đau Bước Vào Đời Sống Qua Những Cánh Cửa Mới / Suffering Enters Through New Doors",
+          "3. Nếu Gặp Đức Phật, Ta Muốn Được Chỉ Dạy Hay Được Xác Nhận? / Would We Seek Guidance or Confirmation?",
+          "4. Khi Sự Bình An Cũng Có Thể Được Bán / When Peace Can Also Be Sold",
+          "5. Ngay Cả Người Muốn Buông Bỏ Cũng Có Thể Tự Làm Mình Căng Thẳng / Even the Wish to Let Go Can Become a Burden",
+          "6. Giải Thoát Không Phải Giả Vờ Rằng Mình Không Đau / Liberation Is Not Pretending That Nothing Hurts",
+          "7. Có Thể Chiếc Điện Thoại Không Phải Điều Khó Nhất / Perhaps the Phone Is Not the Hardest Part",
+          "Đọc Tiếp / Further Reading"
+        ],
+        "wikilinks": [
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Luân Hồi Trên Home Screen",
+          "Nghịch Lý Của Hiểu Biết",
+          "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều",
+          "theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Nghịch Lý Của Hiểu Biết.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Luân Hồi Trên Home Screen.md",
+          "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md",
+          "theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "MOC - Epistemology & Propaganda.md"
+        ],
+        "words": 4524,
+        "summary": "**Nếu Đức Phật sống trong thời đại này, Ngài có dùng smartphone không? Câu hỏi nghe có vẻ lạ. Nhưng điều đáng nghĩ không nằm ở chiếc điện thoại trong tay Ngài. Nó nằm ở chúng ta: nếu lời Phật dạy xuất hiện giữa dòng tin đang cuộn mỗi ngày, liệu chúng ta có dừ…"
+      },
+      {
         "path": "mental-models/Thế Hệ Lọt Khe.md",
         "title": "Thế Hệ Lọt Khe",
         "domain": "mental-models",
@@ -11967,53 +12071,6 @@
         ],
         "words": 6249,
         "summary": "**Hàn Quốc không phải tương lai tất yếu của Việt Nam. Nhưng nó là một lời cảnh báo giai đoạn muộn: khi nhà ở, việc làm, lao động chăm sóc và phẩm giá cùng thất bại, nỗi đau kinh tế rất dễ bị dịch thành chiến tranh giới. Phụ nữ nói “tôi không muốn làm vợ, làm…"
-      },
-      {
-        "path": "mental-models/Luân Hồi Trên Home Screen.md",
-        "title": "Luân Hồi Trên Home Screen",
-        "domain": "mental-models",
-        "tags": [
-          "attention",
-          "dopamine-economy",
-          "ma-tran",
-          "mental-models",
-          "samsara",
-          "technology"
-        ],
-        "aliases": [
-          "Digital Samsara",
-          "Home Screen Samsara",
-          "Seven Sins Home Screen"
-        ],
-        "headings": [
-          "Luân Hồi Trên Home Screen",
-          "Seven Sins, New Interface",
-          "Ma Trận Không Cần Nhà Tù",
-          "Productivity Là Cái Lồng Sang Nhất",
-          "Luân Hồi Bằng Notification",
-          "Attention Là Cửa Thoát"
-        ],
-        "wikilinks": [
-          "Bộ Não Rỗng và AI Brain Rot",
-          "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Luân Hồi",
-          "Ma Trận"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Luân Hồi.md",
-          "esoterica/Ma Trận.md",
-          "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-          "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "mental-models/index.md"
-        ],
-        "words": 998,
-        "summary": "!Home Screen Samsara"
       },
       {
         "path": "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
@@ -14289,6 +14346,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "2026-09-17",
           "September 15, 2026",
           "August 28, 2026",
           "August 24, 2026",
@@ -14362,6 +14420,7 @@
           "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas",
           "esoterica/index",
           "Gaia - Trái Đất Có Ý Thức",
+          "Gautama Giữa Thời Đại Thuật Toán",
           "Gematria",
           "Gen Z - Phân Tích Phản Biện",
           "Gen Z và CBDC - Programmable Money Psychology",
@@ -14593,6 +14652,7 @@
           "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
           "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
           "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+          "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
           "mental-models/Gen Z - Phân Tích Phản Biện.md",
           "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
@@ -14690,7 +14750,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 6616,
+        "words": 6699,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14727,6 +14787,7 @@
           "Cách Đọc Red Pill Wiki",
           "Digital ID Normalization - From Instagram to Government ID",
           "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
+          "Gautama Giữa Thời Đại Thuật Toán",
           "Gematria",
           "Hollywood - Cây Đũa Phép Của Phù Thủy",
           "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
@@ -14761,6 +14822,7 @@
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
           "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
+          "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
           "mental-models/Mental Model.md",
           "mental-models/Nhị Nguyên.md",
           "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
@@ -14812,7 +14874,7 @@
           "science-tech/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 1015,
+        "words": 1052,
         "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
       },
       {
@@ -17497,6 +17559,47 @@
         "summary": "Một lời chê có thể sinh ra “người bị coi thường”. Một lời khen sinh ra “người phải giữ hình ảnh”. Bản sắc không chỉ là thứ mình có; nó được lắp lại trong từng phản ứng, rồi quay về bảo vệ chính câu chuyện vừa tạo."
       },
       {
+        "path": "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md",
+        "title": "Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều",
+        "domain": "theravada",
+        "tags": [],
+        "aliases": [
+          "Cách Đọc Kinh Pāli",
+          "Phương Pháp Đọc Kinh Pāli"
+        ],
+        "headings": [
+          "Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều",
+          "1. Đọc Kinh Là Một Kỹ Năng, Không Phải Một Cuộc Thi Tin Hay Không Tin",
+          "2. Bảy Câu Hỏi Trước Khi Rút Một “Chân Lý” Khỏi Bài Kinh",
+          "3. [Ví dụ con rắn và chiếc bè](https://suttacentral.net/mn22): Nắm Con Rắn Đúng Chỗ Và Không Vác Chiếc Bè",
+          "4. [Cách kiểm chứng một điều là thật](https://suttacentral.net/mn95): Giữ Một Mệnh Đề Là Thật Chưa Phải Biết Nó Là Thật",
+          "5. [Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65): Không Tin Mù Quáng Cũng Không Phong Cảm Giác Làm Giáo Chủ",
+          "Tự Mình Là Hòn Đảo, Nhưng Không Lấy Cái Tôi Làm Chân Lý",
+          "Một Lời Dạy Có Dẫn Về Ít Tham Và Biết Đủ Không?",
+          "Nói Về Pháp Hoặc Giữ Im Lặng Cao Quý",
+          "Một Lời Gán Cho Đức Phật Vẫn Phải Được Đối Chiếu",
+          "6. Một Quy Trình Đọc Và Kiểm Chứng Có Thể Lặp Lại",
+          "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn"
+        ],
+        "wikilinks": [
+          "theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp",
+          "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp.md",
+          "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
+          "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md",
+          "theravada/index.md"
+        ],
+        "words": 6151,
+        "summary": "Đọc Kinh rất dễ biến thành hai cuộc thi. Một bên thi xem ai tin mạnh hơn. Bên kia thi xem ai hoài nghi sắc hơn. Cả hai có thể đọc hàng nghìn trang mà vẫn chỉ đang bảo vệ identity của mình."
+      },
+      {
         "path": "theravada/17 - Duyên Khởi - Chiều Sinh Khởi Và Chiều Đoạn Diệt.md",
         "title": "Duyên Khởi — Chiều Sinh Khởi Và Chiều Đoạn Diệt",
         "domain": "theravada",
@@ -17898,44 +18001,39 @@
         "summary": "Thiền chỉ và thiền quán thường bị bán như hai team: một bên yên, một bên thấy; một bên bị chê là mắc định, bên kia bị chê là khô và căng. Khi phương pháp thành identity, người học bắt đầu bảo vệ tên kỹ thuật nhiều hơn nhìn tâm."
       },
       {
-        "path": "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md",
-        "title": "Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều",
+        "path": "theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn.md",
+        "title": "Dukkha — Khổ Không Chỉ Là Đau Đớn",
         "domain": "theravada",
         "tags": [],
         "aliases": [
-          "Cách Đọc Kinh Pāli",
-          "Phương Pháp Đọc Kinh Pāli"
+          "Dukkha",
+          "Khổ Không Chỉ Là Đau Đớn"
         ],
         "headings": [
-          "Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều",
-          "1. Đọc Kinh Là Một Kỹ Năng, Không Phải Một Cuộc Thi Tin Hay Không Tin",
-          "2. Bảy Câu Hỏi Trước Khi Rút Một “Chân Lý” Khỏi Bài Kinh",
-          "3. [Ví dụ con rắn và chiếc bè](https://suttacentral.net/mn22): Nắm Con Rắn Đúng Chỗ Và Không Vác Chiếc Bè",
-          "4. [Cách kiểm chứng một điều là thật](https://suttacentral.net/mn95): Giữ Một Mệnh Đề Là Thật Chưa Phải Biết Nó Là Thật",
-          "5. [Thẩm tra lời dạy qua hậu quả thiện và bất thiện](https://suttacentral.net/an3.65): Không Tin Mù Quáng Cũng Không Phong Cảm Giác Làm Giáo Chủ",
-          "Tự Mình Là Hòn Đảo, Nhưng Không Lấy Cái Tôi Làm Chân Lý",
-          "Một Lời Dạy Có Dẫn Về Ít Tham Và Biết Đủ Không?",
-          "Nói Về Pháp Hoặc Giữ Im Lặng Cao Quý",
-          "Một Lời Gán Cho Đức Phật Vẫn Phải Được Đối Chiếu",
-          "6. Một Quy Trình Đọc Và Kiểm Chứng Có Thể Lặp Lại",
+          "Dukkha — Khổ Không Chỉ Là Đau Đớn",
+          "1. Một Từ Không Nằm Gọn Trong “Đau” Hay “Bi Kịch”",
+          "2. Từ Danh Sách Đời Sống Đến Năm Thủ Uẩn",
+          "3. Ba Phương Diện Là Bản Đồ Hệ Thống Hóa Hậu Kỳ",
+          "4. Nhiệm Vụ Là Liễu Tri, Không Phải Ghét Bỏ",
+          "5. Vô Thường, Dukkha Và Không Phải Tự Ngã",
+          "6. Một Bài Thực Hành Không Phủ Nhận Thế Giới",
           "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn"
         ],
         "wikilinks": [
-          "theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp",
           "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường"
         ],
         "mdlinks": [],
         "outlinks": [
-          "theravada/03 - Tam Tạng Pāli - Hình Thành Kinh Điển, Luật, Kinh Và Vi Diệu Pháp.md",
           "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md"
         ],
         "backlinks": [
           "index.md",
-          "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md",
+          "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
+          "theravada/07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ.md",
           "theravada/index.md"
         ],
-        "words": 6151,
-        "summary": "Đọc Kinh rất dễ biến thành hai cuộc thi. Một bên thi xem ai tin mạnh hơn. Bên kia thi xem ai hoài nghi sắc hơn. Cả hai có thể đọc hàng nghìn trang mà vẫn chỉ đang bảo vệ identity của mình."
+        "words": 4572,
+        "summary": "Không phải lúc nào dukkha cũng trông như bi kịch. Có khi nó là một ngày rất vui nhưng bạn bắt đầu sợ ngày ấy kết thúc. Có khi nó là lời khen khiến bạn phải giữ mãi hình ảnh vừa được khen. Có khi thân không đau, nhưng tâm đã âm thầm siết tay quanh một thứ đang…"
       },
       {
         "path": "theravada/19 - Kamma - Nghiệp Là Tác Ý, Không Phải Sổ Điểm Vũ Trụ.md",
@@ -18408,40 +18506,6 @@
         "summary": "Hơi thở luôn ở đó, nên ta dễ coi nó là kỹ thuật đơn giản nhất. Nhưng chỉ cần ngồi yên vài phút, mình sẽ thấy một việc tưởng tự nhiên lại bị tham kiểm soát, sân chen vào và tâm liên tục muốn một trải nghiệm khác."
       },
       {
-        "path": "theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn.md",
-        "title": "Dukkha — Khổ Không Chỉ Là Đau Đớn",
-        "domain": "theravada",
-        "tags": [],
-        "aliases": [
-          "Dukkha",
-          "Khổ Không Chỉ Là Đau Đớn"
-        ],
-        "headings": [
-          "Dukkha — Khổ Không Chỉ Là Đau Đớn",
-          "1. Một Từ Không Nằm Gọn Trong “Đau” Hay “Bi Kịch”",
-          "2. Từ Danh Sách Đời Sống Đến Năm Thủ Uẩn",
-          "3. Ba Phương Diện Là Bản Đồ Hệ Thống Hóa Hậu Kỳ",
-          "4. Nhiệm Vụ Là Liễu Tri, Không Phải Ghét Bỏ",
-          "5. Vô Thường, Dukkha Và Không Phải Tự Ngã",
-          "6. Một Bài Thực Hành Không Phủ Nhận Thế Giới",
-          "7. Kỷ Luật Khẳng Định, Đọc Tiếp Và Nguồn"
-        ],
-        "wikilinks": [
-          "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md"
-        ],
-        "backlinks": [
-          "index.md",
-          "theravada/07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ.md",
-          "theravada/index.md"
-        ],
-        "words": 4572,
-        "summary": "Không phải lúc nào dukkha cũng trông như bi kịch. Có khi nó là một ngày rất vui nhưng bạn bắt đầu sợ ngày ấy kết thúc. Có khi nó là lời khen khiến bạn phải giữ mãi hình ảnh vừa được khen. Có khi thân không đau, nhưng tâm đã âm thầm siết tay quanh một thứ đang…"
-      },
-      {
         "path": "theravada/18 - Mười Hai Chi Duyên Khởi - Một Đời, Ba Đời Hay Từng Khoảnh Khắc.md",
         "title": "Mười Hai Chi Duyên Khởi — Một Đời, Ba Đời Hay Từng Khoảnh Khắc?",
         "domain": "theravada",
@@ -18815,6 +18879,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "2026-09-17",
         "September 15, 2026",
         "August 28, 2026",
         "August 24, 2026",
@@ -18888,6 +18953,7 @@
         "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas",
         "esoterica/index",
         "Gaia - Trái Đất Có Ý Thức",
+        "Gautama Giữa Thời Đại Thuật Toán",
         "Gematria",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
@@ -19119,6 +19185,7 @@
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
         "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
@@ -19216,7 +19283,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 6616,
+      "words": 6699,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -19565,6 +19632,172 @@
       "summary": "**Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reali…"
     },
     {
+      "path": "mental-models/index.md",
+      "title": "Mental Models Domain Gateway",
+      "domain": "mental-models",
+      "tags": [
+        "domain-gateway",
+        "epistemology",
+        "mental-model"
+      ],
+      "aliases": [
+        "Mental Models",
+        "Mô Hình Tư Duy"
+      ],
+      "headings": [
+        "Mental Models Domain Gateway",
+        "Family, Dopamine & Orphan Train Pack",
+        "Đức Phật Và Đời Sống Hiện Đại / The Buddha and Contemporary Life",
+        "How To Read This Domain",
+        "Curated Reading Paths",
+        "1. Beginner Path — Thinking Tools Before Identity",
+        "2. Power-User Path — Jung, Shadow, Individuation",
+        "3. High-Risk Caution Path — Dopamine, Addiction, Manipulation",
+        "4. Perception Path — Duality, Identity, Self-Deception",
+        "5. Cross-Domain Bridge Path — Gen Z, Compliance, Future Self",
+        "6. AI-Age Agency Path — Mind Versus Machine",
+        "Key Hubs",
+        "Flagship Articles",
+        "Money, Dopamine & Survival Discipline",
+        "Gen Z & Agenda 2030 Path",
+        "Related Gateways",
+        "Notes"
+      ],
+      "wikilinks": [
+        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+        "AI",
+        "Ai Đứng Bên Kia Giao Dịch",
+        "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
+        "Bộ Não Rỗng và AI Brain Rot",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Chia Tách Bởi Nhị Nguyên",
+        "Climate Anxiety as Control - Fear-Based Compliance",
+        "crypto-finance/index",
+        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
+        "Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu",
+        "esoterica/index",
+        "Gautama Giữa Thời Đại Thuật Toán",
+        "Gen Z - Phân Tích Phản Biện",
+        "Gen Z và CBDC - Programmable Money Psychology",
+        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
+        "Giàu Không Phải Để Vợ Không Làm Gì",
+        "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
+        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+        "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
+        "index",
+        "Individuation",
+        "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
+        "Kiểm Soát Tâm Trí",
+        "Luân Hồi Trên Home Screen",
+        "Ma Trận",
+        "Mental Model",
+        "MOC - Epistemology & Propaganda",
+        "MOC - Esoterica & Consciousness",
+        "MOC - Financial Sovereignty",
+        "MOC - Market Psychology & Risk",
+        "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nguyên Mẫu",
+        "Nhị Nguyên",
+        "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "politics-conspiracy/index",
+        "Privacy Is The New Wealth",
+        "Quy Trình Là Ký Ức Được Mua Bằng Máu",
+        "S.E.X Và Tâm Lý Học Jung",
+        "Schadenfreude - Dopamine Phản Diện",
+        "Sợ hãi - Tham Lam – Cân bằng",
+        "Sự Thật Ẩn Sau Con Người Bạn",
+        "theravada/index",
+        "Thông Minh vs Trí Tuệ",
+        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
+        "Thế Hệ Lọt Khe",
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "Tâm bất Biến",
+        "Tâm Lý Học Jung",
+        "Tâm Lý Học Tiến Hóa Về Giới Tính",
+        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
+        "Tư Duy Lũy Thừa",
+        "Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào",
+        "UBI Conditioning - The End of Work Ethic",
+        "Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người",
+        "Vô Thức Tập Thể"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
+        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+        "crypto-finance/index.md",
+        "esoterica/index.md",
+        "esoterica/Ma Trận.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
+        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
+        "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
+        "mental-models/Gen Z - Phân Tích Phản Biện.md",
+        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+        "mental-models/Individuation.md",
+        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
+        "mental-models/Luân Hồi Trên Home Screen.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
+        "mental-models/Nguyên Mẫu.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Privacy Is The New Wealth.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
+        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
+        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Thông Minh vs Trí Tuệ.md",
+        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
+        "mental-models/Thế Hệ Lọt Khe.md",
+        "mental-models/Tâm bất Biến.md",
+        "mental-models/Tâm Lý Học Jung.md",
+        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
+        "mental-models/Tư Duy Lũy Thừa.md",
+        "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
+        "mental-models/UBI Conditioning - The End of Work Ethic.md",
+        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
+        "mental-models/Vô Thức Tập Thể.md",
+        "MOC - Epistemology & Propaganda.md",
+        "MOC - Esoterica & Consciousness.md",
+        "MOC - Financial Sovereignty.md",
+        "MOC - Market Psychology & Risk.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "science-tech/AI.md",
+        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
+        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+        "theravada/index.md"
+      ],
+      "backlinks": [
+        "crypto-finance/index.md",
+        "esoterica/index.md",
+        "health/index.md",
+        "index.md",
+        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
+        "politics-conspiracy/index.md"
+      ],
+      "words": 2204,
+      "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
+    },
+    {
       "path": "science-tech/Khoa Học Xét Lại.md",
       "title": "Khoa Học Xét Lại",
       "domain": "science-tech",
@@ -19679,169 +19912,6 @@
       "summary": "!Scientist before a fractured institutional temple, holding a prism of evidence"
     },
     {
-      "path": "mental-models/index.md",
-      "title": "Mental Models Domain Gateway",
-      "domain": "mental-models",
-      "tags": [
-        "domain-gateway",
-        "epistemology",
-        "mental-model"
-      ],
-      "aliases": [
-        "Mental Models",
-        "Mô Hình Tư Duy"
-      ],
-      "headings": [
-        "Mental Models Domain Gateway",
-        "Family, Dopamine & Orphan Train Pack",
-        "How To Read This Domain",
-        "Curated Reading Paths",
-        "1. Beginner Path — Thinking Tools Before Identity",
-        "2. Power-User Path — Jung, Shadow, Individuation",
-        "3. High-Risk Caution Path — Dopamine, Addiction, Manipulation",
-        "4. Perception Path — Duality, Identity, Self-Deception",
-        "5. Cross-Domain Bridge Path — Gen Z, Compliance, Future Self",
-        "6. AI-Age Agency Path — Mind Versus Machine",
-        "Key Hubs",
-        "Flagship Articles",
-        "Money, Dopamine & Survival Discipline",
-        "Gen Z & Agenda 2030 Path",
-        "Related Gateways",
-        "Notes"
-      ],
-      "wikilinks": [
-        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
-        "AI",
-        "Ai Đứng Bên Kia Giao Dịch",
-        "Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading",
-        "Bộ Não Rỗng và AI Brain Rot",
-        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-        "Chia Tách Bởi Nhị Nguyên",
-        "Climate Anxiety as Control - Fear-Based Compliance",
-        "crypto-finance/index",
-        "Cái Gì Trong Bạn Không Thể Bị Model Hóa",
-        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-        "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
-        "Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu",
-        "esoterica/index",
-        "Gen Z - Phân Tích Phản Biện",
-        "Gen Z và CBDC - Programmable Money Psychology",
-        "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
-        "Giàu Không Phải Để Vợ Không Làm Gì",
-        "Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại",
-        "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-        "Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học",
-        "index",
-        "Individuation",
-        "Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam",
-        "Kiểm Soát Tâm Trí",
-        "Luân Hồi Trên Home Screen",
-        "Ma Trận",
-        "Mental Model",
-        "MOC - Epistemology & Propaganda",
-        "MOC - Esoterica & Consciousness",
-        "MOC - Financial Sovereignty",
-        "MOC - Market Psychology & Risk",
-        "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nguyên Mẫu",
-        "Nhị Nguyên",
-        "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
-        "politics-conspiracy/index",
-        "Privacy Is The New Wealth",
-        "Quy Trình Là Ký Ức Được Mua Bằng Máu",
-        "S.E.X Và Tâm Lý Học Jung",
-        "Schadenfreude - Dopamine Phản Diện",
-        "Sợ hãi - Tham Lam – Cân bằng",
-        "Sự Thật Ẩn Sau Con Người Bạn",
-        "theravada/index",
-        "Thông Minh vs Trí Tuệ",
-        "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
-        "Thế Hệ Lọt Khe",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "Tâm bất Biến",
-        "Tâm Lý Học Jung",
-        "Tâm Lý Học Tiến Hóa Về Giới Tính",
-        "Tình Nghĩa Là Hạ Tầng Cuối Cùng",
-        "Tư Duy Lũy Thừa",
-        "Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào",
-        "UBI Conditioning - The End of Work Ethic",
-        "Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người",
-        "Vô Thức Tập Thể"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "crypto-finance/Gen Z và CBDC - Programmable Money Psychology.md",
-        "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-        "crypto-finance/index.md",
-        "esoterica/index.md",
-        "esoterica/Ma Trận.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "index.md",
-        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
-        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
-        "mental-models/Bộ Não Rỗng và AI Brain Rot.md",
-        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-        "mental-models/Chia Tách Bởi Nhị Nguyên.md",
-        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
-        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-        "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
-        "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
-        "mental-models/Gen Z - Phân Tích Phản Biện.md",
-        "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
-        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
-        "mental-models/Individuation.md",
-        "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
-        "mental-models/Luân Hồi Trên Home Screen.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien.md",
-        "mental-models/Nguyên Mẫu.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
-        "mental-models/Privacy Is The New Wealth.md",
-        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
-        "mental-models/S.E.X Và Tâm Lý Học Jung.md",
-        "mental-models/Schadenfreude - Dopamine Phản Diện.md",
-        "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-        "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
-        "mental-models/Thông Minh vs Trí Tuệ.md",
-        "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
-        "mental-models/Thế Hệ Lọt Khe.md",
-        "mental-models/Tâm bất Biến.md",
-        "mental-models/Tâm Lý Học Jung.md",
-        "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-        "mental-models/Tình Nghĩa Là Hạ Tầng Cuối Cùng.md",
-        "mental-models/Tư Duy Lũy Thừa.md",
-        "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
-        "mental-models/UBI Conditioning - The End of Work Ethic.md",
-        "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
-        "mental-models/Vô Thức Tập Thể.md",
-        "MOC - Epistemology & Propaganda.md",
-        "MOC - Esoterica & Consciousness.md",
-        "MOC - Financial Sovereignty.md",
-        "MOC - Market Psychology & Risk.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "science-tech/AI.md",
-        "science-tech/Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ.md",
-        "science-tech/Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "theravada/index.md"
-      ],
-      "backlinks": [
-        "crypto-finance/index.md",
-        "esoterica/index.md",
-        "health/index.md",
-        "index.md",
-        "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
-        "politics-conspiracy/index.md"
-      ],
-      "words": 2127,
-      "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
-    },
-    {
       "path": "MOC - Epistemology & Propaganda.md",
       "title": "MOC - Epistemology & Propaganda",
       "domain": "root",
@@ -19875,6 +19945,7 @@
         "Cách Đọc Red Pill Wiki",
         "Digital ID Normalization - From Instagram to Government ID",
         "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
+        "Gautama Giữa Thời Đại Thuật Toán",
         "Gematria",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
@@ -19909,6 +19980,7 @@
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
+        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
         "mental-models/Mental Model.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
@@ -19960,7 +20032,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 1015,
+      "words": 1052,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     {
@@ -21923,6 +21995,7 @@
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
@@ -23261,7 +23334,7 @@
     ],
     [
       "mental-model",
-      32
+      33
     ],
     [
       "consciousness",
@@ -23436,6 +23509,10 @@
       4
     ],
     [
+      "buddhism",
+      4
+    ],
+    [
       "awakening",
       4
     ],
@@ -23448,6 +23525,10 @@
       4
     ],
     [
+      "attention",
+      4
+    ],
+    [
       "loosh",
       4
     ],
@@ -23457,10 +23538,6 @@
     ],
     [
       "fiat",
-      3
-    ],
-    [
-      "buddhism",
       3
     ],
     [
@@ -23505,10 +23582,6 @@
     ],
     [
       "metabolism",
-      3
-    ],
-    [
-      "attention",
       3
     ],
     [
@@ -23620,6 +23693,10 @@
       2
     ],
     [
+      "technology",
+      2
+    ],
+    [
       "agency",
       2
     ],
@@ -23646,10 +23723,6 @@
     [
       "agents",
       2
-    ],
-    [
-      "FIFAWorldCup",
-      1
     ]
   ],
   "brokenLinks": [],
@@ -24065,6 +24138,7 @@
         "Cách Đọc Red Pill Wiki",
         "Digital ID Normalization - From Instagram to Government ID",
         "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
+        "Gautama Giữa Thời Đại Thuật Toán",
         "Gematria",
         "Hollywood - Cây Đũa Phép Của Phù Thủy",
         "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
@@ -24099,6 +24173,7 @@
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
         "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
+        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
         "mental-models/Mental Model.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
@@ -24150,7 +24225,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 1015,
+      "words": 1052,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     "MOC - Esoterica & Consciousness.md": {
@@ -29564,6 +29639,7 @@
         "esoterica/Đạo.md",
         "index.md",
         "mental-models/Chia Tách Bởi Nhị Nguyên.md",
+        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
         "mental-models/index.md",
         "mental-models/Individuation.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
@@ -33827,6 +33903,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "2026-09-17",
         "September 15, 2026",
         "August 28, 2026",
         "August 24, 2026",
@@ -33900,6 +33977,7 @@
         "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas",
         "esoterica/index",
         "Gaia - Trái Đất Có Ý Thức",
+        "Gautama Giữa Thời Đại Thuật Toán",
         "Gematria",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
@@ -34131,6 +34209,7 @@
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
         "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
@@ -34228,7 +34307,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 6616,
+      "words": 6699,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -34841,6 +34920,7 @@
         "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
         "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "mental-models/index.md",
@@ -34964,6 +35044,57 @@
       ],
       "words": 2214,
       "summary": "!Những chiếc nôi phát sáng giữa ruộng bắp cải dưới bóng cây gia đình"
+    },
+    "mental-models/Gautama Giữa Thời Đại Thuật Toán.md": {
+      "path": "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
+      "title": "Nếu Đức Phật Sống Trong Thời Đại Smartphone",
+      "domain": "mental-models",
+      "tags": [
+        "attention",
+        "buddhism",
+        "mental-model",
+        "nonattachment",
+        "spiritual-practice",
+        "technology"
+      ],
+      "aliases": [
+        "Gautama Giữa Thời Đại Thuật Toán",
+        "If the Buddha Lived in the Smartphone Age",
+        "Đức Phật Và Smartphone"
+      ],
+      "headings": [
+        "Nếu Đức Phật Sống Trong Thời Đại Smartphone",
+        "1. Một Thế Giới Đã Có Rất Nhiều Lời Nói Về Đức Phật / A World Full of Words About the Buddha",
+        "2. Khổ Đau Bước Vào Đời Sống Qua Những Cánh Cửa Mới / Suffering Enters Through New Doors",
+        "3. Nếu Gặp Đức Phật, Ta Muốn Được Chỉ Dạy Hay Được Xác Nhận? / Would We Seek Guidance or Confirmation?",
+        "4. Khi Sự Bình An Cũng Có Thể Được Bán / When Peace Can Also Be Sold",
+        "5. Ngay Cả Người Muốn Buông Bỏ Cũng Có Thể Tự Làm Mình Căng Thẳng / Even the Wish to Let Go Can Become a Burden",
+        "6. Giải Thoát Không Phải Giả Vờ Rằng Mình Không Đau / Liberation Is Not Pretending That Nothing Hurts",
+        "7. Có Thể Chiếc Điện Thoại Không Phải Điều Khó Nhất / Perhaps the Phone Is Not the Hardest Part",
+        "Đọc Tiếp / Further Reading"
+      ],
+      "wikilinks": [
+        "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+        "Luân Hồi Trên Home Screen",
+        "Nghịch Lý Của Hiểu Biết",
+        "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều",
+        "theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+        "mental-models/Luân Hồi Trên Home Screen.md",
+        "theravada/04 - Cách Đọc Kinh Pāli Mà Không Biến Thành Tín Điều.md",
+        "theravada/06 - Dukkha - Khổ Không Chỉ Là Đau Đớn.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Epistemology & Propaganda.md"
+      ],
+      "words": 4524,
+      "summary": "**Nếu Đức Phật sống trong thời đại này, Ngài có dùng smartphone không? Câu hỏi nghe có vẻ lạ. Nhưng điều đáng nghĩ không nằm ở chiếc điện thoại trong tay Ngài. Nó nằm ở chúng ta: nếu lời Phật dạy xuất hiện giữa dòng tin đang cuộn mỗi ngày, liệu chúng ta có dừ…"
     },
     "mental-models/Gen Z - Phân Tích Phản Biện.md": {
       "path": "mental-models/Gen Z - Phân Tích Phản Biện.md",
@@ -35378,6 +35509,7 @@
       ],
       "backlinks": [
         "index.md",
+        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
         "mental-models/index.md"
       ],
       "words": 998,
@@ -37142,6 +37274,7 @@
       "headings": [
         "Mental Models Domain Gateway",
         "Family, Dopamine & Orphan Train Pack",
+        "Đức Phật Và Đời Sống Hiện Đại / The Buddha and Contemporary Life",
         "How To Read This Domain",
         "Curated Reading Paths",
         "1. Beginner Path — Thinking Tools Before Identity",
@@ -37172,6 +37305,7 @@
         "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
         "Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu",
         "esoterica/index",
+        "Gautama Giữa Thời Đại Thuật Toán",
         "Gen Z - Phân Tích Phản Biện",
         "Gen Z và CBDC - Programmable Money Psychology",
         "Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ",
@@ -37237,6 +37371,7 @@
         "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
         "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
         "mental-models/Em Bé Bắp Cải - Khi Đứa Trẻ Mọc Từ Ruộng Thay Vì Dòng Máu.md",
+        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
         "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "mental-models/Giàu Không Phải Để Vợ Không Làm Gì.md",
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
@@ -37286,7 +37421,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 2127,
+      "words": 2204,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {
@@ -40924,6 +41059,7 @@
       ],
       "backlinks": [
         "index.md",
+        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
         "theravada/05 - Tứ Thánh Đế - Chẩn Đoán, Nguyên Nhân, Khả Năng Chữa Và Con Đường.md",
         "theravada/index.md"
       ],
@@ -40997,6 +41133,7 @@
       ],
       "backlinks": [
         "index.md",
+        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
         "theravada/07 - Ái, Thủ Và Hữu - Cơ Chế Tự Nuôi Của Khổ.md",
         "theravada/index.md"
       ],

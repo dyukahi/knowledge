@@ -41,12 +41,12 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | 🔮 **Esoterica** | 76 | metaphysics, occult, ancient civilizations, spiritual pattern |
 | ☸️ **Theravāda** | 41 | Kinh tạng Pāli, giáo lý, thực hành, Vi Diệu Pháp, provenance |
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
-| 🧩 **Mental Models** | 44 | nhận thức, tâm lý học, framework để đọc reality |
+| 🧩 **Mental Models** | 45 | nhận thức, tâm lý học, framework để đọc reality |
 | 🏛️ **Politics & Conspiracy** | 29 | power structure, controlled narrative, geopolitics |
 | 🔬 **Science & Tech** | 21 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 292 notes / bài viết.
+**Total:** 293 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -299,6 +299,8 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### 🧩 Mental Models
 
+- [[Gautama Giữa Thời Đại Thuật Toán|Nếu Đức Phật Sống Trong Thời Đại Smartphone]] — một giả định kính trọng để soi lại cách học Phật và sống giữa thời đại số.
+
 - [[Mental Model]] | [[Quy Trình Là Ký Ức Được Mua Bằng Máu]] | [[Tư Duy Lũy Thừa]] | [[Thông Minh vs Trí Tuệ]]
 - [[Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading]]
 - [[Nhị Nguyên]] | [[Individuation]] | [[Tâm Lý Học Jung]]
@@ -340,6 +342,11 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### 2026-09-17
+
+- **[[Gautama Giữa Thời Đại Thuật Toán|Nếu Đức Phật Sống Trong Thời Đại Smartphone]]** — bài song ngữ theo từng đoạn, dùng câu chuyện giả định về Đức Phật trong thời hiện đại để nhìn lại khổ đau, việc tìm bình an và khoảng cách giữa học với thực hành.
+
 ### September 15, 2026
 - **[[AGI Không Có Khuôn Mặt]]** — bài Việt/Anh về quyền lực mạng agent và vòng lặp tự xác nhận thông tin; năm minh họa khái niệm, không tuyên bố AGI đã xuất hiện.
 
