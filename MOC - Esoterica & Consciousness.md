@@ -46,6 +46,7 @@ Các bài trong map này nên được đọc qua các tầng: direct experience
 - [[Ma Trận - Giải Phẫu Hoàn Chỉnh]] — anatomy sâu của control system.
 - [[esoterica/Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]] — case study về messiah trap, prescience, Golden Path và Ma Trận định mệnh.
 - [[esoterica/Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]] — case study điện ảnh về nô lệ Ma Trận, ký ức linh hồn và lời chứng qua sáu tuyến thời gian.
+- [[Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên|Bát Tiên! — Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên]] — cách đọc thần thoại qua khung nhận thức, mô-típ thu hoạch sự sống, lòng tin và trách nhiệm của người có quyền lực.
 - [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]] — case study về tư cách làm người của bản thể nhân tạo: nhân bản, người máy, ký ức và linh hồn nhân tạo.
 - [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]] — emotion/attention như năng lượng bị thu hoạch.
 - [[Nhân Quả]] — cause/effect vượt khỏi moral simplification.

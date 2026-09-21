@@ -38,7 +38,7 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 
 | Domain | Count | Vai trò trong vault |
 |---|---:|---|
-| 🔮 **Esoterica** | 76 | metaphysics, occult, ancient civilizations, spiritual pattern |
+| 🔮 **Esoterica** | 77 | metaphysics, occult, ancient civilizations, spiritual pattern |
 | ☸️ **Theravāda** | 41 | Kinh tạng Pāli, giáo lý, thực hành, Vi Diệu Pháp, provenance |
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
 | 🧩 **Mental Models** | 45 | nhận thức, tâm lý học, framework để đọc reality |
@@ -46,7 +46,7 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | 🔬 **Science & Tech** | 21 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 293 notes / bài viết.
+**Total:** 294 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -206,6 +206,7 @@ Các bài dưới đây là những flagship notes dễ cho người mới thấ
 - **[[Hollywood - Cây Đũa Phép Của Phù Thủy]]** - cinema như rehearsal của collective emotion
 - **[[Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]]** - case study điện ảnh về messiah trap, prescience, Golden Path và câu hỏi liệu một người có quyền thành quái vật để cứu tương lai loài người không
 - **[[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]** - case study điện ảnh về luân hồi, Gnosis, lời chứng và các hình thức nô lệ của Ma Trận qua sáu thời đại
+- **[[Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên|Bát Tiên! — Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên]]** — bài song ngữ về phi vụ Lưu Ly Đăng, các lớp hiểu lầm, lòng tin sau phản bội và tính chính đáng của quyền lực thần tiên.
 - **[[Bộ Tam Thánh Mind Control - NASA Disney Hollywood]]** - one system, three screens
 
 ### Ancient History & Cosmology
@@ -284,6 +285,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Gaia - Trái Đất Có Ý Thức]] | [[Avatar - Disclosure Của Eywa & Gaia]]
 - [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] | [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
 - [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]
+- [[Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên|Bát Tiên! — Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên]]
 - [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]]
 - [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]]
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]
@@ -342,6 +344,10 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### September 20, 2026
+
+- **[[Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên|Bát Tiên! — Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên]]** — bài phân tích 12 mục, song ngữ theo từng đoạn, giải thích bối cảnh và các lớp đánh lạc hướng trước khi nối với Ma Trận, Gnosis và thiên mệnh; kèm năm minh họa biên tập.
 
 ### September 17, 2026
 

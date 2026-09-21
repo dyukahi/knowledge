@@ -87,8 +87,9 @@ Orientation: follow language, number, geometry and cinema as programming surface
 5. [[Hollywood - Cây Đũa Phép Của Phù Thủy]] — see entertainment as ritual theater.
 6. [[Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]] — đọc messiah trap, prescience và Golden Path như Ma Trận của định mệnh.
 7. [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]] — đọc luân hồi, lời chứng và các hình thức nô lệ của Ma Trận qua sáu tuyến thời gian.
-8. [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]] — Brazil→Norway World Cup pattern post-mortem and a live lesson in falsifiability.
-8. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — expand sports and halftime shows into mass synchronization ritual theory.
+8. [[Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên|Bát Tiên! — Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên]] — đọc cách một danh tính được nhận nhầm, một động cơ được suy ra và lòng tin được xây lại.
+9. [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]] — Brazil→Norway World Cup pattern post-mortem and a live lesson in falsifiability.
+10. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — expand sports and halftime shows into mass synchronization ritual theory.
 
 ### 5. Cross-Domain Bridge Path — Ancient Memory, Earth Grid, Science
 
@@ -131,6 +132,7 @@ Orientation: this is the practice-facing route. It turns esoterica back inward, 
 - [[Hollywood - Cây Đũa Phép Của Phù Thủy]] — cinema as ritual rehearsal and symbolic programming.
 - [[Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]] — case study điện ảnh/văn học về đấng cứu thế, lời tiên tri, Golden Path và cái giá của việc thấy tương lai.
 - [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]] — case study điện ảnh về luân hồi, Gnosis, lời chứng và nô lệ Ma Trận qua sáu thời đại.
+- [[Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên|Bát Tiên! — Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên]] — bài phân tích song ngữ về khung nhận thức, lời nói thật gây hiểu lầm và hành động làm nên danh phận thần tiên.
 - [[Sự Nhất Thể]] / [[Monad]] / [[Gnosis]] — the Source axis of the vault.
 - [[Tartaria]] and [[Atlantis]] — hidden-history case studies for reading fact, myth and reset narratives separately.
 

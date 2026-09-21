@@ -61,6 +61,7 @@ Discernment không phải nghi ngờ mọi thứ. Discernment là biết mỗi c
 - [[Kiểm Soát Tâm Trí]] — control perception trước khi control behavior.
 - [[Hollywood - Cây Đũa Phép Của Phù Thủy]] — cinema như rehearsal của cảm xúc tập thể.
 - [[I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng]] — cùng một khuôn mặt diễn hai cực của nhà cứu thế công nghệ; tách MCU fact, leak và symbolic reading.
+- [[Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên|Bát Tiên! — Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên]] — dữ kiện đúng có thể dẫn tới kết luận sai khi đi qua một giả định chưa kiểm tra; phân biệt lời giải trong phim, phát biểu ngoài phim và giả thuyết.
 - [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] — tương lai được diễn tập trước bằng fiction.
 - [[Karma Disclosure - Truth Hidden In Plain Sight]] — revelation method, consent và truth in plain sight.
 - [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — algorithmic feed như worldview assignment.
