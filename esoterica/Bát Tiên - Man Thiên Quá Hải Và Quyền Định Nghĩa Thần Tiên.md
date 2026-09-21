@@ -41,7 +41,7 @@ Bài viết có tiết lộ các nút thắt chính. Các cảnh được kể l
 
 ## 1. Trước Khi Là Thần Tiên, Họ Là Ai? / Who Are They Before Becoming Immortals?
 
-![Tám phàm nhân trên thuyền gỗ tiến về một Bồng Lai bằng ngọc lưu ly giữa mây và biển](../assets/illustrations/bat-tien/01-penglai-hero.png)
+![Tám phàm nhân trên thuyền gỗ tiến về một Bồng Lai bằng ngọc lưu ly giữa mây và biển](../assets/illustrations/bat-tien/01-penglai-hero.webp)
 
 Bát Tiên! Truy Tìm Lưu Ly Đăng, tên quốc tế All Wishes Come True!, là phim hoạt hình do Mưu Chính Dương viết kịch bản và đạo diễn. Bản phát hành tại Việt Nam có thời lượng 144 phút. Câu chuyện bắt đầu khi tám con người tìm đường đổi đời bằng một vụ trộm bảo vật ở Bồng Lai, rồi bị cuốn vào một mối nguy lớn hơn món lợi họ theo đuổi. [Thông tin phát hành tại Galaxy Cinema](https://www.galaxycine.vn/phim/all-wishes-come-true/)
 
@@ -83,7 +83,7 @@ Nhóm mở đạo quán, giả làm thần tiên để mưu sinh và che giấu 
 
 ## 3. Lữ Động Tân: Một Danh Tính Được Người Khác Hoàn Thành / Lü Dongbin: An Identity Completed by Someone Else
 
-![Ánh đèn trong nhà bè khiến bóng người trẻ cầm kiếm mang dáng vẻ thần tiên trước mắt người đối diện](../assets/illustrations/bat-tien/02-assumption.png)
+![Ánh đèn trong nhà bè khiến bóng người trẻ cầm kiếm mang dáng vẻ thần tiên trước mắt người đối diện](../assets/illustrations/bat-tien/02-assumption.webp)
 
 Trong cảnh nhà bè được tường thuật, Lữ Động Tân dẫn Chung Ly Quyền đến ý nghĩ rằng cậu chính là Thần tiên Bảo hộ Lưu Ly Đăng. Cậu không cần phát biểu trọn vẹn câu nhận mình giữ chức ấy. Chung Ly Quyền tự ghép các dấu hiệu rồi nói ra kết luận. Khi bị gọi đúng cái danh phận đang mượn, Lữ Động Tân chau mày, rút kiếm và đẩy không khí sang căng thẳng.
 
@@ -205,7 +205,7 @@ Nhịp cảnh, phản ứng, khoảng im lặng và nhạc nền đều có th�
 
 ## 8. Lưu Ly Đăng Và Cái Giá Của Sự Cao Quý / The Lantern and the Cost of Grandeur
 
-![Những dòng sáng từ các ngôi nhà nhỏ hội tụ vào chiếc đèn lưu ly trong một kho báu cao phía trên](../assets/illustrations/bat-tien/03-lantern.png)
+![Những dòng sáng từ các ngôi nhà nhỏ hội tụ vào chiếc đèn lưu ly trong một kho báu cao phía trên](../assets/illustrations/bat-tien/03-lantern.webp)
 
 Những đồng tiền mang dấu đổi thọ khiến kho báu trở nên đáng ngại theo một cách rất cụ thể. Tiền ở đây liên hệ với thời gian sống. Chiếc đèn liên hệ với nguyên khí. Khi cả hai được gom về cùng một trung tâm quyền lực, sự thịnh vượng của nơi ấy bắt đầu đặt ra câu hỏi: nó chứa những vật vô tri, hay đang chứa phần đời bị chuyển khỏi người khác?
 
@@ -227,7 +227,7 @@ Câu hỏi đạo đức vẫn đứng vững mà không cần bước sang kh�
 
 ## 9. Chung Ly Quyền: Sau Phản Bội, Còn Có Thể Tin Không? / Zhongli Quan: Can Trust Survive Betrayal?
 
-![Hai người đàn ông trong y phục giản dị ngồi bên ánh đèn ấm, một bàn tay đưa ra qua khoảng cách im lặng](../assets/illustrations/bat-tien/04-broken-trust.png)
+![Hai người đàn ông trong y phục giản dị ngồi bên ánh đèn ấm, một bàn tay đưa ra qua khoảng cách im lặng](../assets/illustrations/bat-tien/04-broken-trust.webp)
 
 Quá khứ giúp giải thích vì sao hiểu lầm về Lữ Động Tân gây tổn thương đến vậy. Theo tường thuật của The Paper, Chung Ly Quyền từng làm mưa cứu dân, bị đuổi khỏi sư môn và chịu lời nguyền gắn với nghề trộm. Lữ Động Tân là đứa trẻ từng được anh cứu, về sau trở thành hiệp đạo Vô Tâm Xương; Hà Tiên Cô lại tiếp nhận ảnh hưởng từ người hiệp đạo ấy. Các mối liên hệ chỉ sáng rõ dần về sau. [Phỏng vấn và tường thuật trên The Paper](https://www.thepaper.cn/newsDetail_forward_33621105)
 
@@ -257,7 +257,7 @@ Lòng tin trưởng thành trong cách đọc này vẫn giữ khả năng phân
 
 ## 10. Ai Có Quyền Cấp Danh Phận Thần Tiên? / Who Has the Authority to Confer Divinity?
 
-![Tám phàm nhân cùng cứu người khỏi một cây cầu trong bão, tiên cung chỉ còn là bóng xa phía sau](../assets/illustrations/bat-tien/05-ordinary-courage.png)
+![Tám phàm nhân cùng cứu người khỏi một cây cầu trong bão, tiên cung chỉ còn là bóng xa phía sau](../assets/illustrations/bat-tien/05-ordinary-courage.webp)
 
 Phần giả danh ban đầu khiến chữ “tiên” trở thành một vai có thể diễn. Cuộc khủng hoảng về sau buộc vai ấy gặp một phép thử: người mang danh tiên làm gì khi người khác gặp nạn? Một bộ áo, một chức vị hay sự công nhận của đám đông có thể tạo uy tín. Việc đứng lại cứu một sinh mạng đặt uy tín đó trước hành động cụ thể.
 
