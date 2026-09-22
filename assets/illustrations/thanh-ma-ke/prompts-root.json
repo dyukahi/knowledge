@@ -1,0 +1,11 @@
+{
+  "tool": "built-in image_gen",
+  "images": [
+    {
+      "filename": "10-ke-thanh-ha-hoi-phan-giai.png",
+      "prompt": "Use case: illustration-story. Asset type: the final chapter illustration for the Vietnamese Three Kingdoms fable Thanh Mã Kế, landscape 3:2. The provided image is STYLE AND CHARACTER REFERENCE ONLY; create an entirely different scene and composition. Match its sophisticated painterly ink-and-gouache, fine tactile brushwork, muted jade, ochre, charcoal and warm amber, humane natural faces, period-inspired fictional Chinese architecture. Scene: just before dawn on a quiet stone bridge outside the city, the thoughtful older scholar with his folded feather fan and his younger disciple stop at the bridge parapet. The disciple holds an open notebook with visibly empty pages and has put his brush down, refusing to pronounce victory yet. On the parapet nearby sit two separate open account ledgers: a fine merchant ledger with a small orderly pile of copper coins, and a worn household ledger beside a carpenter's wooden plane and a modest cloth purse, both unlettered/only faint abstract marks. In the middle distance a dignified horse-cart driver continues toward the waking town; there is a modest closed workshop beside an unfinished city construction in the mist. No triumphant winner; uncertain future, real hope mixed with unresolved debt, quiet questioning, daylight just beginning beyond the roofs. Composition airy and poetic, characters off-centre in a medium-wide scene; make the empty notebook and dawn the visual emphasis, not a duplicate of the reference's crowded gates. No split-screen/collage, no diagrams or arrows, no modern objects or vehicles, no logos, no readable writing, no watermark, no famous modern likeness. Believable hands, horses pull carts and humans drive. Full-bleed artwork.",
+      "source_path": "/Users/justinld/.codex/generated_images/01a0c3b9-759f-7652-8a09-e4114fa8f49b/exec-e046f680-7df6-4a80-9c87-bbcfc10953ff.png",
+      "visual_review": "Inspected: coherent dawn scene, open unfilled notebook and two household/merchant ledgers, same painterly style, no real brand names."
+    }
+  ]
+}

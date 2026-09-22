@@ -196,8 +196,9 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Thế Hệ Lọt Khe]] — housing, AI disruption, inheritance, land capture and access-over-ownership as the cracks beneath youth fatigue.
 
 
-## Related Gateways
+## Related
 
+- [[Tam Quốc Ngoại Truyện - Thanh Mã Kế]] — ngụ ngôn về ưu đãi, dân tâm và quyền lựa chọn thực chất: đổi hãng xe chưa tạo được đường lui nếu nghề nghiệp, chỗ ở và tiền nợ vẫn giữ chân.
 - [[index|Root Index]]
 - [[MOC - Epistemology & Propaganda]]
 - [[esoterica/index|Esoterica Gateway]]

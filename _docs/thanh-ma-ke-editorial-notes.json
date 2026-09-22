@@ -1,0 +1,64 @@
+{
+  "article": "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
+  "verified_on": "2026-09-21",
+  "editorial_mapping": {
+    "Thanh Mã": "Green SM / GSM",
+    "Kỳ Lân": "Grab",
+    "thương đoàn nhà Tào": "ngụ ngôn về hệ sinh thái Vingroup, không đồng nhất mọi pháp nhân hay tài khoản"
+  },
+  "checked_facts": [
+    {
+      "source": "https://www.vingroup.net/tin-tuc-su-kien/bai-viet/9063/ong-pham-nhat-vuong-va-ba-pham-thu-huong-chuyen-giao-vai-tro-lanh-dao-tai-vinfast-va-gsm",
+      "date": "2026-09-12",
+      "finding": "Công bố Phạm Nhật Minh Hoàng làm Tổng giám đốc GSM toàn cầu, phụ trách GSM Việt Nam. Không chứng minh ông tự nghĩ ra chính sách ưu đãi."
+    },
+    {
+      "source": "https://www.vingroup.net/tin-tuc-su-kien/bai-viet/9072/vingroup-trien-khai-chuong-trinh-vi-tuong-lai-xanh-lan-2-thuc-day-manh-me-cong-cuoc-chuyen-doi-xanh",
+      "date": "2026-09-19",
+      "finding": "Chia sẻ tới 100% doanh thu hai năm đầu, với điều kiện mua/thuê xe VinFast từ 19/9, chỉ vận doanh Green SM Platform, tham gia trước 19/12/2026. Năm 3 chiết khấu bằng nửa mức chung thị trường, năm 4–5 ngang thị trường. Doanh thu không phải thu nhập sau mọi chi phí. Chưa đủ thời gian để kết luận kết quả dài hạn."
+    },
+    {
+      "source": "https://www.vingroup.net/tin-tuc-su-kien/bai-viet/4829/gsm-nhan-sap-nhap-gf-hoan-thien-he-sinh-thai-di-chuyen-thuan-dien-da-dang-nhat-viet-nam",
+      "date": "2026-02-28",
+      "finding": "GSM là pháp nhân riêng có liên kết vốn với Vingroup và gia đình ông Vượng; công bố sau sáp nhập GF: ông Vượng 49,04%, phần còn lại gia đình và Vingroup. Không gọi giản lược là một ví tiền hay công ty con thuộc sở hữu hoàn toàn của Vingroup."
+    },
+    {
+      "source": "https://vinhomes.vn/vi/vingroup-khoi-cong-sieu-do-thi-esg-hang-dau-the-gioi-vinhomes-green-paradise",
+      "date": "2025-04-19",
+      "finding": "Nguồn chính thức công bố dự án đô thị lấn biển Cần Giờ tổng quy mô 2.870 ha; không đồng nghĩa toàn bộ diện tích đã lấp biển. Dùng đại dự án đô thị làm nền, bỏ cách giản lược thành phân lô bán nền."
+    },
+    {
+      "source": "https://gcp-cdn.vinhomes.vn/cms-data/VIE_Vinhomes%20AR%202024_250411_compressed.pdf",
+      "pages": "66–67 (printed)",
+      "finding": "Báo cáo Vinhomes mô tả bán hàng, tạm ứng giải phóng mặt bằng, góp vốn và huy động vốn cho dự án. Không chứng minh dòng tiền bất động sản cụ thể tài trợ ưu đãi GSM."
+    },
+    {
+      "source": "https://www.oecd.org/en/publications/oecd-employment-outlook-2022_1bb305a6-en/full-report/component-7.html",
+      "finding": "Nền khái niệm: lựa chọn việc làm bên ngoài bị hạn chế và chi phí chuyển việc có thể làm yếu vị thế thương lượng. Không phải dữ liệu kết luận riêng về Việt Nam hay GSM."
+    }
+  ],
+  "fiction_boundaries": [
+    "Cuộc gặp, đối thoại, điều khoản Khổng Minh đề xuất và vết gạch trong giao kèo là hư cấu.",
+    "Không khẳng định mọi người đều chạy xe hoặc mọi ngả sinh kế đều do một tập đoàn kiểm soát.",
+    "Không biến động cơ thâu tóm, đàn áp hay nhận xét rút máu thành sự kiện đã chứng minh.",
+    "Câu hạ hồi phân giải để mở kết quả; phân biệt lợi ích doanh nghiệp với chất lượng đời sống dân."
+  ],
+  "illustration": {
+    "tool": "built-in image_gen",
+    "file": "assets/illustrations/thanh-ma-ke/hai-la-co-mot-duong-song.webp",
+    "prompt": "assets/illustrations/thanh-ma-ke/prompt.txt",
+    "generated_source": "/Users/justinld/.codex/generated_images/01a0c3b9-759f-7652-8a09-e4114fa8f49b/exec-5445bc40-bc29-4d4b-9456-7d8828d3762a.png",
+    "review": "Hình đã xem: xe do ngựa kéo, người lao động tiền cảnh, hai cổng cờ khác màu, xưởng nghề vắng, không chữ hay logo."
+  },
+  "illustrations": {
+    "count": 11,
+    "hero": 1,
+    "story_sections": 10,
+    "prompt_manifest": "assets/illustrations/thanh-ma-ke/prompts.json",
+    "captions": "assets/illustrations/thanh-ma-ke/captions.json",
+    "encoding": "WebP, quality 84, 1536x1024; repository image optimizer",
+    "total_display_bytes": 3532142,
+    "visual_review": "All 11 originals visually checked. Consistent style, usable anatomy, scene intent, no real brand labels.",
+    "publication_review": "Every story section has one distinct illustration; alt text, caption and valid local file; no brand-decoding paragraph."
+  }
+}

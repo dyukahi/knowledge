@@ -1,19 +1,19 @@
 {
   "stats": {
-    "notes": 294,
+    "notes": 295,
     "domains": {
       "_docs": 22,
       "root": 14,
       "crypto-finance": 18,
       "esoterica": 77,
       "health": 27,
-      "mental-models": 45,
+      "mental-models": 46,
       "politics-conspiracy": 29,
       "science-tech": 21,
       "theravada": 41
     },
-    "tags": 330,
-    "wikilinkEdges": 2500,
+    "tags": 337,
+    "wikilinkEdges": 2507,
     "brokenLinks": 0,
     "orphans": 23
   },
@@ -9150,7 +9150,7 @@
           "Flagship Articles",
           "Money, Dopamine & Survival Discipline",
           "Gen Z & Agenda 2030 Path",
-          "Related Gateways",
+          "Related",
           "Notes"
         ],
         "wikilinks": [
@@ -9199,6 +9199,7 @@
           "Schadenfreude - Dopamine Phản Diện",
           "Sợ hãi - Tham Lam – Cân bằng",
           "Sự Thật Ẩn Sau Con Người Bạn",
+          "Tam Quốc Ngoại Truyện - Thanh Mã Kế",
           "theravada/index",
           "Thông Minh vs Trí Tuệ",
           "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
@@ -9252,6 +9253,7 @@
           "mental-models/Schadenfreude - Dopamine Phản Diện.md",
           "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
           "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+          "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
           "mental-models/Thông Minh vs Trí Tuệ.md",
           "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
           "mental-models/Thế Hệ Lọt Khe.md",
@@ -9284,7 +9286,7 @@
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 2204,
+        "words": 2242,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -10312,6 +10314,68 @@
         "summary": "**Thông minh giúp bạn thắng một bài toán. Trí tuệ giúp bạn nhận ra bài toán đó có đáng chơi hay không. Một người có thể rất nhanh, rất sắc, rất giỏi tối ưu, nhưng vẫn dùng toàn bộ năng lực để phục vụ ego, nỗi sợ, tham vọng ngắn hạn hoặc luật chơi của Ma Trận.…"
       },
       {
+        "path": "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "title": "Ai Đứng Bên Kia Giao Dịch",
+        "domain": "mental-models",
+        "tags": [
+          "science-tech"
+        ],
+        "aliases": [],
+        "headings": [
+          "Ai Đứng Bên Kia Giao Dịch",
+          "Vault Position / Vị Trí Trong Vault",
+          "Câu Chuyện Bò Và Gấu",
+          "Bãi Cỏ Không Sai. Vấn Đề Là Ai Vào Lúc Nào",
+          "Mỗi Giao Dịch Là Một Cuộc Gặp Mặt",
+          "Top Không Thiếu Tin Tốt",
+          "Bottom Không Cần Tin Tốt",
+          "Elliott Wave Nếu Đọc Như Ownership Transfer",
+          "Bull Market Là Bán Risk Cho Người Đến Muộn",
+          "Bear Market Là Thanh Lọc Ownership",
+          "The Egg Man Problem",
+          "Checklist Cuối Cùng",
+          "Synthesis",
+          "Related"
+        ],
+        "wikilinks": [
+          "Bitcoin",
+          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
+          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
+          "MOC - Financial Sovereignty",
+          "MOC - Market Psychology & Risk",
+          "Secular Market",
+          "Sợ hãi - Tham Lam – Cân bằng",
+          "Tư Duy Lũy Thừa"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "crypto-finance/Bitcoin.md",
+          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
+          "crypto-finance/Secular Market.md",
+          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
+          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+          "mental-models/Tư Duy Lũy Thừa.md",
+          "MOC - Financial Sovereignty.md",
+          "MOC - Market Psychology & Risk.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Cantillon Effect - Ai Đứng Gần Vòi Tiền.md",
+          "crypto-finance/index.md",
+          "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
+          "crypto-finance/Secular Market.md",
+          "index.md",
+          "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
+          "mental-models/index.md",
+          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+          "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
+          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
+          "MOC - Financial Sovereignty.md",
+          "MOC - Market Psychology & Risk.md"
+        ],
+        "words": 2567,
+        "summary": "**Chart không phải đường giá. Chart là lịch sử của ownership transfer. Mỗi cây nến là dấu vết của một cuộc đổi tay: có người đủ sợ để bán, có người đủ tin để mua. Ở vùng top và bottom, câu hỏi quan trọng nhất không phải “tin tốt hay tin xấu?”, mà là: ai đang…"
+      },
+      {
         "path": "mental-models/Nguyên Mẫu.md",
         "title": "Nguyên Mẫu",
         "domain": "mental-models",
@@ -10495,67 +10559,6 @@
         ],
         "words": 1322,
         "summary": "**Tư duy lũy thừa là khả năng nhìn thấy giai đoạn tích lũy vô hình trước khi kết quả bùng nổ.** Nó chống lại ảo giác tuyến tính của trường học, công sở và dopamine economy: làm một chút, nhận một chút, thấy thưởng ngay. Những kết quả đột phá thường đến từ cườ…"
-      },
-      {
-        "path": "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
-        "title": "Ai Đứng Bên Kia Giao Dịch",
-        "domain": "mental-models",
-        "tags": [
-          "science-tech"
-        ],
-        "aliases": [],
-        "headings": [
-          "Ai Đứng Bên Kia Giao Dịch",
-          "Vault Position / Vị Trí Trong Vault",
-          "Câu Chuyện Bò Và Gấu",
-          "Bãi Cỏ Không Sai. Vấn Đề Là Ai Vào Lúc Nào",
-          "Mỗi Giao Dịch Là Một Cuộc Gặp Mặt",
-          "Top Không Thiếu Tin Tốt",
-          "Bottom Không Cần Tin Tốt",
-          "Elliott Wave Nếu Đọc Như Ownership Transfer",
-          "Bull Market Là Bán Risk Cho Người Đến Muộn",
-          "Bear Market Là Thanh Lọc Ownership",
-          "The Egg Man Problem",
-          "Checklist Cuối Cùng",
-          "Synthesis",
-          "Related"
-        ],
-        "wikilinks": [
-          "Bitcoin",
-          "Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn",
-          "Giữ Tiền Quan Trọng Hơn Kiếm Tiền",
-          "MOC - Financial Sovereignty",
-          "MOC - Market Psychology & Risk",
-          "Secular Market",
-          "Sợ hãi - Tham Lam – Cân bằng",
-          "Tư Duy Lũy Thừa"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "crypto-finance/Bitcoin.md",
-          "crypto-finance/Giữ Tiền Quan Trọng Hơn Kiếm Tiền.md",
-          "crypto-finance/Secular Market.md",
-          "mental-models/Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn.md",
-          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-          "mental-models/Tư Duy Lũy Thừa.md",
-          "MOC - Financial Sovereignty.md",
-          "MOC - Market Psychology & Risk.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Cantillon Effect - Ai Đứng Gần Vòi Tiền.md",
-          "crypto-finance/index.md",
-          "crypto-finance/PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan.md",
-          "crypto-finance/Secular Market.md",
-          "index.md",
-          "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
-          "mental-models/index.md",
-          "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
-          "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
-          "MOC - Financial Sovereignty.md",
-          "MOC - Market Psychology & Risk.md"
-        ],
-        "words": 2567,
-        "summary": "**Chart không phải đường giá. Chart là lịch sử của ownership transfer. Mỗi cây nến là dấu vết của một cuộc đổi tay: có người đủ sợ để bán, có người đủ tin để mua. Ở vùng top và bottom, câu hỏi quan trọng nhất không phải “tin tốt hay tin xấu?”, mà là: ai đang…"
       },
       {
         "path": "mental-models/Mental Model.md",
@@ -11274,6 +11277,62 @@
         "summary": "Năm 18 tuổi, mình từng đọc được ở đâu đó rằng: 1 lần chơi đá (Meth) có thể mang đến cảm giác của 10 lần làm tình. Từng viết 1 truyện ngắn với tiêu đề này (lạc đâu mất rồi), và sau đó cứ băn khoăn mãi về cái fact này, tự hỏi khi nào mình được kiểm chứng? 20 nă…"
       },
       {
+        "path": "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
+        "title": "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Quyền Lực",
+        "domain": "mental-models",
+        "tags": [
+          "chinh-danh",
+          "dan-tam",
+          "manh-tu",
+          "mental-model",
+          "quyen-luc",
+          "thien-menh",
+          "thuong-thu"
+        ],
+        "aliases": [
+          "Dân Tâm Là Thiên Tâm",
+          "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
+          "Thiên Mệnh Và Lòng Dân",
+          "Thuận Thiên Giả Tồn"
+        ],
+        "headings": [
+          "Dân Tâm Là Thiên Tâm",
+          "1. Trời Nhìn Bằng Mắt Dân",
+          "2. Thiên Mệnh Là Khế Ước Có Điều Kiện",
+          "3. Mất Nước Bắt Đầu Từ Mất Lòng Người",
+          "4. Dân Là Gốc Không Có Nghĩa Là Dân Chủ Hiện Đại",
+          "5. Tuyên Truyền Có Thể Che Mắt, Không Thể Thay Đời Sống",
+          "6. Dân Tâm Không Phải Cơn Sốt Đám Đông",
+          "7. Thuận Thiên Không Phải Thuận Theo Kẻ Mạnh",
+          "8. Quyền Lực Có Thể Ép Im Lặng, Không Thể Ép Chính Danh",
+          "Ghi Chú Nguồn Và Cách Đọc",
+          "Vị Trí Trong Bản Đồ Tri Thức"
+        ],
+        "wikilinks": [
+          "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+          "MOC - Epistemology & Propaganda",
+          "politics-conspiracy/Elite",
+          "Tâm bất Biến"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+          "mental-models/Tâm bất Biến.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/Elite.md"
+        ],
+        "backlinks": [
+          "esoterica/Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên.md",
+          "index.md",
+          "mental-models/index.md",
+          "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
+          "MOC - Epistemology & Propaganda.md",
+          "politics-conspiracy/index.md"
+        ],
+        "words": 3097,
+        "summary": "!Một quảng trường cổ đại lúc bình minh, dòng người bình dân soi bóng lên bầu trời như một tấm gương, ngai vàng ở xa nhỏ bé trước biển người, biểu tượng cho Thiên mệnh được phản chiếu qua dân tâm"
+      },
+      {
         "path": "mental-models/Gen Z - Phân Tích Phản Biện.md",
         "title": "Gen Z - Phân Tích Phản Biện",
         "domain": "mental-models",
@@ -11757,61 +11816,6 @@
         "summary": "**Climate anxiety là thật. Nhưng nỗi sợ thật vẫn có thể bị weaponize. Khi một thế hệ được dạy rằng tương lai đang cháy, họ có thể tự nguyện trao quyền kiểm soát consumption, movement và money cho những hệ thống hứa sẽ cứu hành tinh.**"
       },
       {
-        "path": "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
-        "title": "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Quyền Lực",
-        "domain": "mental-models",
-        "tags": [
-          "chinh-danh",
-          "dan-tam",
-          "manh-tu",
-          "mental-model",
-          "quyen-luc",
-          "thien-menh",
-          "thuong-thu"
-        ],
-        "aliases": [
-          "Dân Tâm Là Thiên Tâm",
-          "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
-          "Thiên Mệnh Và Lòng Dân",
-          "Thuận Thiên Giả Tồn"
-        ],
-        "headings": [
-          "Dân Tâm Là Thiên Tâm",
-          "1. Trời Nhìn Bằng Mắt Dân",
-          "2. Thiên Mệnh Là Khế Ước Có Điều Kiện",
-          "3. Mất Nước Bắt Đầu Từ Mất Lòng Người",
-          "4. Dân Là Gốc Không Có Nghĩa Là Dân Chủ Hiện Đại",
-          "5. Tuyên Truyền Có Thể Che Mắt, Không Thể Thay Đời Sống",
-          "6. Dân Tâm Không Phải Cơn Sốt Đám Đông",
-          "7. Thuận Thiên Không Phải Thuận Theo Kẻ Mạnh",
-          "8. Quyền Lực Có Thể Ép Im Lặng, Không Thể Ép Chính Danh",
-          "Ghi Chú Nguồn Và Cách Đọc",
-          "Vị Trí Trong Bản Đồ Tri Thức"
-        ],
-        "wikilinks": [
-          "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
-          "MOC - Epistemology & Propaganda",
-          "politics-conspiracy/Elite",
-          "Tâm bất Biến"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
-          "mental-models/Tâm bất Biến.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/Elite.md"
-        ],
-        "backlinks": [
-          "esoterica/Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên.md",
-          "index.md",
-          "mental-models/index.md",
-          "MOC - Epistemology & Propaganda.md",
-          "politics-conspiracy/index.md"
-        ],
-        "words": 3097,
-        "summary": "!Một quảng trường cổ đại lúc bình minh, dòng người bình dân soi bóng lên bầu trời như một tấm gương, ngai vàng ở xa nhỏ bé trước biển người, biểu tượng cho Thiên mệnh được phản chiếu qua dân tâm"
-      },
-      {
         "path": "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
         "title": "Sự Thật Ẩn Sau Con Người Bạn",
         "domain": "mental-models",
@@ -12136,6 +12140,62 @@
         ],
         "words": 6249,
         "summary": "**Hàn Quốc không phải tương lai tất yếu của Việt Nam. Nhưng nó là một lời cảnh báo giai đoạn muộn: khi nhà ở, việc làm, lao động chăm sóc và phẩm giá cùng thất bại, nỗi đau kinh tế rất dễ bị dịch thành chiến tranh giới. Phụ nữ nói “tôi không muốn làm vợ, làm…"
+      },
+      {
+        "path": "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
+        "title": "Tam Quốc Ngoại Truyện - Thanh Mã Kế",
+        "domain": "mental-models",
+        "tags": [
+          "bat-dong-san",
+          "canh-tranh",
+          "dan-tam",
+          "kinh-te-nen-tang",
+          "mental-model",
+          "ngu-ngon",
+          "quyen-lua-chon",
+          "sinh-ke",
+          "tam-quoc"
+        ],
+        "aliases": [
+          "Hai Năm Không Thu Chiết Khấu",
+          "Tam Quốc ngoại truyện: Thanh Mã kế",
+          "Thanh Mã Kế"
+        ],
+        "headings": [
+          "Tam Quốc Ngoại Truyện: Thanh Mã Kế",
+          "Xa Hành Dưới Chân Thiên Tử",
+          "Không Thu Tiền, Vẫn Mua Được Thế Trận",
+          "Khi Sổ Sách Mặc Áo Đạo Đức",
+          "Ba Dòng Chữ Nhỏ",
+          "Ngoài Trướng, Ai Còn Đường Đi?",
+          "Đổi Cờ Rồi, Vẫn Phải Cầm Cương",
+          "Ra Khỏi Xa Hành, Vào Lại Địa Khế",
+          "Khi Cả Thành Chỉ Muốn Giữ Đất",
+          "Dân Tâm Không Nằm Trong Tiếng Tung Hô",
+          "Kế Thành Hay Chưa, Hạ Hồi Phân Giải",
+          "Tầng Cơ Chế",
+          "Related"
+        ],
+        "wikilinks": [
+          "Ai Đứng Bên Kia Giao Dịch",
+          "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
+          "MOC - Epistemology & Propaganda",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+          "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
+          "MOC - Epistemology & Propaganda.md",
+          "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+        ],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "MOC - Epistemology & Propaganda.md"
+        ],
+        "words": 5997,
+        "summary": "!Người đánh xe đứng trước hai cổng xa hành mang cờ khác màu, cạnh những ngả đường vắng dẫn về xưởng nghề; Khổng Minh và Mã Tắc lặng nhìn dòng xe trong ánh chiều"
       },
       {
         "path": "mental-models/Cái Gì Trong Bạn Không Thể Bị Model Hóa.md",
@@ -14411,6 +14471,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "September 21, 2026",
           "September 20, 2026",
           "September 17, 2026",
           "September 15, 2026",
@@ -14571,6 +14632,7 @@
           "Sự Nhất Thể",
           "Sự Thật Về Vụ Sập Tháp Đôi WTC",
           "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+          "Tam Quốc Ngoại Truyện - Thanh Mã Kế",
           "Tartaria",
           "Tartaria và Vạn Lý Trường Thành",
           "theravada/01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết",
@@ -14739,6 +14801,7 @@
           "mental-models/S.E.X Và Tâm Lý Học Jung.md",
           "mental-models/Schadenfreude - Dopamine Phản Diện.md",
           "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+          "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
           "mental-models/Thông Minh vs Trí Tuệ.md",
           "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
           "mental-models/Thế Hệ Lọt Khe.md",
@@ -14818,7 +14881,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 6837,
+        "words": 6924,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14870,6 +14933,7 @@
           "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
           "Quy Trình Là Ký Ức Được Mua Bằng Máu",
           "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+          "Tam Quốc Ngoại Truyện - Thanh Mã Kế",
           "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda",
           "Thế Hệ Lọt Khe",
           "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
@@ -14896,6 +14960,7 @@
           "mental-models/Mental Model.md",
           "mental-models/Nhị Nguyên.md",
           "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+          "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
           "mental-models/Thế Hệ Lọt Khe.md",
           "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
           "politics-conspiracy/Báo Cáo 2030.md",
@@ -14923,6 +14988,7 @@
           "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
           "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
           "mental-models/index.md",
+          "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
           "MOC - Ancient Civilizations & Hidden History.md",
           "MOC - Esoterica & Consciousness.md",
           "MOC - Science Revisionism.md",
@@ -14944,7 +15010,7 @@
           "science-tech/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 1108,
+        "words": 1141,
         "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
       },
       {
@@ -15640,6 +15706,7 @@
           "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
           "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
           "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+          "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
           "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
           "politics-conspiracy/Elite.md",
           "science-tech/AGI Không Có Khuôn Mặt.md",
@@ -18951,6 +19018,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "September 21, 2026",
         "September 20, 2026",
         "September 17, 2026",
         "September 15, 2026",
@@ -19111,6 +19179,7 @@
         "Sự Nhất Thể",
         "Sự Thật Về Vụ Sập Tháp Đôi WTC",
         "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+        "Tam Quốc Ngoại Truyện - Thanh Mã Kế",
         "Tartaria",
         "Tartaria và Vạn Lý Trường Thành",
         "theravada/01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết",
@@ -19279,6 +19348,7 @@
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
         "mental-models/Thế Hệ Lọt Khe.md",
@@ -19358,7 +19428,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 6837,
+      "words": 6924,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -19708,6 +19778,135 @@
       "summary": "**Elite không chỉ là “một nhóm người xấu bí mật cai trị thế giới”. Elite là tầng quyền lực có khả năng thiết kế default options: tiền tệ, luật chơi, narrative, hạ tầng, giáo dục, science consensus, media frame và permission structure mà số đông tưởng là reali…"
     },
     {
+      "path": "MOC - Epistemology & Propaganda.md",
+      "title": "MOC - Epistemology & Propaganda",
+      "domain": "root",
+      "tags": [
+        "epistemology",
+        "moc",
+        "propaganda"
+      ],
+      "aliases": [],
+      "headings": [
+        "MOC - Epistemology & Propaganda",
+        "How To Read This Map",
+        "Start Here",
+        "Reading Discipline",
+        "Mind Control & Media",
+        "Language, Symbol & Frame Control",
+        "Institutional Knowledge",
+        "Synthesis",
+        "Related"
+      ],
+      "wikilinks": [
+        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
+        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
+        "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
+        "Báo Cáo 2030",
+        "Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên",
+        "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
+        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
+        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
+        "Climate Anxiety as Control - Fear-Based Compliance",
+        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
+        "Cách Đọc Red Pill Wiki",
+        "Digital ID Normalization - From Instagram to Government ID",
+        "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
+        "Gautama Giữa Thời Đại Thuật Toán",
+        "Gematria",
+        "Hollywood - Cây Đũa Phép Của Phù Thủy",
+        "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
+        "Karma Disclosure - Truth Hidden In Plain Sight",
+        "Khoa Học Xét Lại",
+        "Kiểm Soát Tâm Trí",
+        "Mental Model",
+        "Mỹ Là Ai Cập Tái Sinh",
+        "Nghịch Lý Của Hiểu Biết",
+        "Nhị Nguyên",
+        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
+        "Quy Trình Là Ký Ức Được Mua Bằng Máu",
+        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+        "Tam Quốc Ngoại Truyện - Thanh Mã Kế",
+        "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda",
+        "Thế Hệ Lọt Khe",
+        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
+        "Word Magic - Ngôn Ngữ Của Phù Thủy"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
+        "esoterica/Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên.md",
+        "esoterica/Gematria.md",
+        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
+        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
+        "esoterica/Nghịch Lý Của Hiểu Biết.md",
+        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
+        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
+        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
+        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
+        "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
+        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
+        "mental-models/Mental Model.md",
+        "mental-models/Nhị Nguyên.md",
+        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+        "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
+        "mental-models/Thế Hệ Lọt Khe.md",
+        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
+        "politics-conspiracy/Báo Cáo 2030.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
+        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
+        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
+        "science-tech/Khoa Học Xét Lại.md",
+        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
+        "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md"
+      ],
+      "backlinks": [
+        "crypto-finance/index.md",
+        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
+        "Cách Đọc Red Pill Wiki.md",
+        "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
+        "esoterica/Cabal.md",
+        "esoterica/index.md",
+        "esoterica/Ma Trận.md",
+        "Glossary - Từ Điển Red Pill Wiki.md",
+        "health/index.md",
+        "index.md",
+        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
+        "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
+        "mental-models/index.md",
+        "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
+        "MOC - Ancient Civilizations & Hidden History.md",
+        "MOC - Esoterica & Consciousness.md",
+        "MOC - Science Revisionism.md",
+        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
+        "politics-conspiracy/Bức Tường Băng.md",
+        "politics-conspiracy/index.md",
+        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
+        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
+        "politics-conspiracy/MAGA Và Số 42.md",
+        "politics-conspiracy/MindGeek.md",
+        "politics-conspiracy/Mudflood.md",
+        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
+        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
+        "politics-conspiracy/Sự thật về ma túy.md",
+        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
+        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
+        "politics-conspiracy/Trái Đất Phẳng.md",
+        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
+        "science-tech/index.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "words": 1141,
+      "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
+    },
+    {
       "path": "mental-models/index.md",
       "title": "Mental Models Domain Gateway",
       "domain": "mental-models",
@@ -19736,7 +19935,7 @@
         "Flagship Articles",
         "Money, Dopamine & Survival Discipline",
         "Gen Z & Agenda 2030 Path",
-        "Related Gateways",
+        "Related",
         "Notes"
       ],
       "wikilinks": [
@@ -19785,6 +19984,7 @@
         "Schadenfreude - Dopamine Phản Diện",
         "Sợ hãi - Tham Lam – Cân bằng",
         "Sự Thật Ẩn Sau Con Người Bạn",
+        "Tam Quốc Ngoại Truyện - Thanh Mã Kế",
         "theravada/index",
         "Thông Minh vs Trí Tuệ",
         "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
@@ -19838,6 +20038,7 @@
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
         "mental-models/Thế Hệ Lọt Khe.md",
@@ -19870,7 +20071,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 2204,
+      "words": 2242,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
@@ -19986,132 +20187,6 @@
       ],
       "words": 863,
       "summary": "!Scientist before a fractured institutional temple, holding a prism of evidence"
-    },
-    {
-      "path": "MOC - Epistemology & Propaganda.md",
-      "title": "MOC - Epistemology & Propaganda",
-      "domain": "root",
-      "tags": [
-        "epistemology",
-        "moc",
-        "propaganda"
-      ],
-      "aliases": [],
-      "headings": [
-        "MOC - Epistemology & Propaganda",
-        "How To Read This Map",
-        "Start Here",
-        "Reading Discipline",
-        "Mind Control & Media",
-        "Language, Symbol & Frame Control",
-        "Institutional Knowledge",
-        "Synthesis",
-        "Related"
-      ],
-      "wikilinks": [
-        "A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa",
-        "Abilene Paradox - Nghịch Lý Đồng Thuận Giả",
-        "Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify",
-        "Báo Cáo 2030",
-        "Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên",
-        "Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng",
-        "Bộ Tam Thánh Mind Control - NASA Disney Hollywood",
-        "Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình",
-        "Climate Anxiety as Control - Fear-Based Compliance",
-        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện",
-        "Cách Đọc Red Pill Wiki",
-        "Digital ID Normalization - From Instagram to Government ID",
-        "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
-        "Gautama Giữa Thời Đại Thuật Toán",
-        "Gematria",
-        "Hollywood - Cây Đũa Phép Của Phù Thủy",
-        "I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng",
-        "Karma Disclosure - Truth Hidden In Plain Sight",
-        "Khoa Học Xét Lại",
-        "Kiểm Soát Tâm Trí",
-        "Mental Model",
-        "Mỹ Là Ai Cập Tái Sinh",
-        "Nghịch Lý Của Hiểu Biết",
-        "Nhị Nguyên",
-        "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
-        "Quy Trình Là Ký Ức Được Mua Bằng Máu",
-        "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
-        "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda",
-        "Thế Hệ Lọt Khe",
-        "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
-        "Word Magic - Ngôn Ngữ Của Phù Thủy"
-      ],
-      "mdlinks": [],
-      "outlinks": [
-        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
-        "esoterica/Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên.md",
-        "esoterica/Gematria.md",
-        "esoterica/Hollywood - Cây Đũa Phép Của Phù Thủy.md",
-        "esoterica/Karma Disclosure - Truth Hidden In Plain Sight.md",
-        "esoterica/Nghịch Lý Của Hiểu Biết.md",
-        "esoterica/Predictive Programming - Cấy Tương Lai Vào Tiềm Thức.md",
-        "esoterica/Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng.md",
-        "esoterica/Word Magic - Ngôn Ngữ Của Phù Thủy.md",
-        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
-        "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
-        "mental-models/Climate Anxiety as Control - Fear-Based Compliance.md",
-        "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
-        "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
-        "mental-models/Mental Model.md",
-        "mental-models/Nhị Nguyên.md",
-        "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
-        "mental-models/Thế Hệ Lọt Khe.md",
-        "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
-        "politics-conspiracy/Báo Cáo 2030.md",
-        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
-        "politics-conspiracy/Bộ Tam Thánh Mind Control - NASA Disney Hollywood.md",
-        "politics-conspiracy/I Am Iron Man, I Am Doom - Cái Giá Của Người Hùng.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
-        "science-tech/Digital ID Normalization - From Instagram to Government ID.md",
-        "science-tech/Khoa Học Xét Lại.md",
-        "science-tech/TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z.md",
-        "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda.md"
-      ],
-      "backlinks": [
-        "crypto-finance/index.md",
-        "Current Events Lab - Phòng Thí Nghiệm Sự Kiện.md",
-        "Cách Đọc Red Pill Wiki.md",
-        "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
-        "esoterica/Cabal.md",
-        "esoterica/index.md",
-        "esoterica/Ma Trận.md",
-        "Glossary - Từ Điển Red Pill Wiki.md",
-        "health/index.md",
-        "index.md",
-        "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
-        "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
-        "mental-models/index.md",
-        "MOC - Ancient Civilizations & Hidden History.md",
-        "MOC - Esoterica & Consciousness.md",
-        "MOC - Science Revisionism.md",
-        "politics-conspiracy/Bốn Van Lũ Bùn Himalaya 2026 - Hồ Sơ Giả Thuyết Và Kiểm Chứng.md",
-        "politics-conspiracy/Bức Tường Băng.md",
-        "politics-conspiracy/index.md",
-        "politics-conspiracy/Khế Ước Bí Mật Rockefeller.md",
-        "politics-conspiracy/Kiểm Soát Tâm Trí.md",
-        "politics-conspiracy/MAGA Và Số 42.md",
-        "politics-conspiracy/MindGeek.md",
-        "politics-conspiracy/Mudflood.md",
-        "politics-conspiracy/Mỹ Là Ai Cập Tái Sinh.md",
-        "politics-conspiracy/Nam Cực - Bí Mật Được Canh Giữ.md",
-        "politics-conspiracy/Sự thật về ma túy.md",
-        "politics-conspiracy/Sự Thật Về Vụ Sập Tháp Đôi WTC.md",
-        "politics-conspiracy/Thế Chiến - Chiến Dịch Dọn Dẹp.md",
-        "politics-conspiracy/Trái Đất Phẳng.md",
-        "politics-conspiracy/Điều mà nền giáo dục và chính phủ không dạy bạn.md",
-        "science-tech/index.md",
-        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
-      ],
-      "words": 1108,
-      "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     {
       "path": "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
@@ -23417,7 +23492,7 @@
     ],
     [
       "mental-model",
-      33
+      34
     ],
     [
       "consciousness",
@@ -23776,6 +23851,10 @@
       2
     ],
     [
+      "dan-tam",
+      2
+    ],
+    [
       "orphan-train",
       2
     ],
@@ -23801,10 +23880,6 @@
     ],
     [
       "education",
-      2
-    ],
-    [
-      "disclosure",
       2
     ]
   ],
@@ -24236,6 +24311,7 @@
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Quy Trình Là Ký Ức Được Mua Bằng Máu",
         "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
+        "Tam Quốc Ngoại Truyện - Thanh Mã Kế",
         "theravada/Chuẩn Nguồn Và Xuất Xứ Theravāda",
         "Thế Hệ Lọt Khe",
         "TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z",
@@ -24262,6 +24338,7 @@
         "mental-models/Mental Model.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+        "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
         "mental-models/Thế Hệ Lọt Khe.md",
         "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md",
         "politics-conspiracy/Báo Cáo 2030.md",
@@ -24289,6 +24366,7 @@
         "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md",
         "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
         "mental-models/index.md",
+        "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
         "MOC - Ancient Civilizations & Hidden History.md",
         "MOC - Esoterica & Consciousness.md",
         "MOC - Science Revisionism.md",
@@ -24310,7 +24388,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 1108,
+      "words": 1141,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     "MOC - Esoterica & Consciousness.md": {
@@ -24884,6 +24962,7 @@
         "mental-models/Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình.md",
         "mental-models/Khi Tuổi Già Không Còn Chỗ Tựa — Nhật, Úc, Trung Quốc và Bài Toán Việt Nam.md",
         "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
+        "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
         "mental-models/Việt Nam Trước Hai Chiến Hào - Khi Nam Nữ Cùng Đòi Quyền Làm Người.md",
         "politics-conspiracy/Elite.md",
         "science-tech/AGI Không Có Khuôn Mặt.md",
@@ -34054,6 +34133,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "September 21, 2026",
         "September 20, 2026",
         "September 17, 2026",
         "September 15, 2026",
@@ -34214,6 +34294,7 @@
         "Sự Nhất Thể",
         "Sự Thật Về Vụ Sập Tháp Đôi WTC",
         "Sự Thật Đen Tối Về Phim Khiêu Dâm",
+        "Tam Quốc Ngoại Truyện - Thanh Mã Kế",
         "Tartaria",
         "Tartaria và Vạn Lý Trường Thành",
         "theravada/01 - Đức Phật Lịch Sử Và Câu Hỏi Ngài Muốn Giải Quyết",
@@ -34382,6 +34463,7 @@
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
         "mental-models/Thế Hệ Lọt Khe.md",
@@ -34461,7 +34543,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 6837,
+      "words": 6924,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -34581,6 +34663,7 @@
         "mental-models/Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading.md",
         "mental-models/index.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
+        "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
         "mental-models/Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào.md",
         "MOC - Financial Sovereignty.md",
         "MOC - Market Psychology & Risk.md"
@@ -35143,6 +35226,7 @@
         "esoterica/Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên.md",
         "index.md",
         "mental-models/index.md",
+        "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
         "MOC - Epistemology & Propaganda.md",
         "politics-conspiracy/index.md"
       ],
@@ -36494,6 +36578,62 @@
       "words": 1498,
       "summary": "**Bạn không chỉ là một cá nhân tách rời đang cố sống sót trong một vũ trụ lạnh. Bạn là một điểm nhìn của toàn thể, đang học cách nhớ lại mối liên hệ đã bị che bởi thân xác, ngôn ngữ, trauma, giáo dục và Ma Trận.** Khoa học hiện đại không \"chứng minh\" toàn bộ…"
     },
+    "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md": {
+      "path": "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
+      "title": "Tam Quốc Ngoại Truyện - Thanh Mã Kế",
+      "domain": "mental-models",
+      "tags": [
+        "bat-dong-san",
+        "canh-tranh",
+        "dan-tam",
+        "kinh-te-nen-tang",
+        "mental-model",
+        "ngu-ngon",
+        "quyen-lua-chon",
+        "sinh-ke",
+        "tam-quoc"
+      ],
+      "aliases": [
+        "Hai Năm Không Thu Chiết Khấu",
+        "Tam Quốc ngoại truyện: Thanh Mã kế",
+        "Thanh Mã Kế"
+      ],
+      "headings": [
+        "Tam Quốc Ngoại Truyện: Thanh Mã Kế",
+        "Xa Hành Dưới Chân Thiên Tử",
+        "Không Thu Tiền, Vẫn Mua Được Thế Trận",
+        "Khi Sổ Sách Mặc Áo Đạo Đức",
+        "Ba Dòng Chữ Nhỏ",
+        "Ngoài Trướng, Ai Còn Đường Đi?",
+        "Đổi Cờ Rồi, Vẫn Phải Cầm Cương",
+        "Ra Khỏi Xa Hành, Vào Lại Địa Khế",
+        "Khi Cả Thành Chỉ Muốn Giữ Đất",
+        "Dân Tâm Không Nằm Trong Tiếng Tung Hô",
+        "Kế Thành Hay Chưa, Hạ Hồi Phân Giải",
+        "Tầng Cơ Chế",
+        "Related"
+      ],
+      "wikilinks": [
+        "Ai Đứng Bên Kia Giao Dịch",
+        "Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực",
+        "MOC - Epistemology & Propaganda",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "mental-models/Ai Đứng Bên Kia Giao Dịch.md",
+        "mental-models/Dân Tâm Là Thiên Tâm - Thiên Mệnh Và Giới Hạn Của Quyền Lực.md",
+        "MOC - Epistemology & Propaganda.md",
+        "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
+      ],
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Epistemology & Propaganda.md"
+      ],
+      "words": 5997,
+      "summary": "!Người đánh xe đứng trước hai cổng xa hành mang cờ khác màu, cạnh những ngả đường vắng dẫn về xưởng nghề; Khổng Minh và Mã Tắc lặng nhìn dòng xe trong ánh chiều"
+    },
     "mental-models/Thông Minh vs Trí Tuệ.md": {
       "path": "mental-models/Thông Minh vs Trí Tuệ.md",
       "title": "Thông Minh vs Trí Tuệ",
@@ -37442,7 +37582,7 @@
         "Flagship Articles",
         "Money, Dopamine & Survival Discipline",
         "Gen Z & Agenda 2030 Path",
-        "Related Gateways",
+        "Related",
         "Notes"
       ],
       "wikilinks": [
@@ -37491,6 +37631,7 @@
         "Schadenfreude - Dopamine Phản Diện",
         "Sợ hãi - Tham Lam – Cân bằng",
         "Sự Thật Ẩn Sau Con Người Bạn",
+        "Tam Quốc Ngoại Truyện - Thanh Mã Kế",
         "theravada/index",
         "Thông Minh vs Trí Tuệ",
         "Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa",
@@ -37544,6 +37685,7 @@
         "mental-models/Schadenfreude - Dopamine Phản Diện.md",
         "mental-models/Sợ hãi - Tham Lam – Cân bằng.md",
         "mental-models/Sự Thật Ẩn Sau Con Người Bạn.md",
+        "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
         "mental-models/Thông Minh vs Trí Tuệ.md",
         "mental-models/Thế Hệ Dâu Tây — Mệt Rồi, Dừng Lại Được Chưa.md",
         "mental-models/Thế Hệ Lọt Khe.md",
@@ -37576,7 +37718,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 2204,
+      "words": 2242,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {

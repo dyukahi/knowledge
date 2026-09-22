@@ -1,0 +1,162 @@
+{
+  "tool": "built-in image_gen",
+  "encoding": "repository optimizer: WebP, quality 84, original dimensions retained",
+  "article": "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
+  "images": [
+    {
+      "filename": "hai-la-co-mot-duong-song.png",
+      "prompt": "Use case: illustration-story. Asset type: one wide landscape editorial illustration for a Vietnamese literary fable titled Thanh Mã Kế, approximately 3:2 composition. Create a rich painterly ink-and-gouache scene on subtly textured parchment, inspired by the atmosphere of Three Kingdoms fiction, never a historical document. In a walled ancient Chinese market city at dusk, ordinary horse-cart drivers and modest carts fill one converging road leading to two large rival transport-house gates, one with a muted jade-green unlettered banner, the other with an ochre unlettered banner. Crucial allegory: the city appears to offer a choice between two banners, yet both gates depend on the same crowded livelihood; side alleys leading to a carpenter's workshop, a potter's kiln, and nearby cultivated fields are quiet, shuttered, or partly blocked, suggesting scarce alternatives without portraying poverty as personal failure. In the near foreground a dignified tired cart driver holds the reins beside his horse and looks toward a small closed workshop; further aside a scholar with a feather fan (fictional Zhuge Liang) and his young disciple watch thoughtfully, secondary in scale to the workers. A warm lantern illuminates the driver's hands and a few copper coins. Visual hierarchy: the worker first, then the two tempting gates, then the difficult side paths. Restrained jade, charcoal, dusty earth, warm amber palette; humane faces, fine brushwork, spatial depth, atmospheric mist, sophisticated literary cover quality, no triumphant hero pose. Mood: compassionate, reflective, politically sharp yet ambiguous about the future. Constraints: horses pull the carts, humans drive; period-inspired clothing and architecture, believable anatomy; no modern vehicles, no phones, no company logos, no real business-person likeness, no readable lettering or text anywhere, no collage, no diagram, no watermark. Full-bleed artwork only.",
+      "source_path": "/Users/justinld/.codex/generated_images/01a0c3b9-759f-7652-8a09-e4114fa8f49b/exec-5445bc40-bc29-4d4b-9456-7d8828d3762a.png",
+      "display_file": "hai-la-co-mot-duong-song.webp",
+      "original_bytes": 3296714,
+      "display_bytes": 374792,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "visual_review": "pass: original viewed, composition matches narrative, coherent anatomy and style, no real brand identifiers",
+      "original_preserved_at": "/Users/justinld/.codex/generated_images/01a0c3b9-759f-7652-8a09-e4114fa8f49b/exec-5445bc40-bc29-4d4b-9456-7d8828d3762a.png"
+    },
+    {
+      "filename": "01-xa-hanh-duoi-chan-thien-tu.png",
+      "prompt": "Use case: illustration-story. Create a new wide 3:2 editorial illustration for a Vietnamese economic fable set in a fictional Three Kingdoms world. Input image is STYLE REFERENCE ONLY: use its sophisticated richly detailed painterly ink and gouache on parchment, naturalistic period people, muted jade green, ochre, charcoal, and warm amber. Do not duplicate its scene or composition. Scene: looking outward from the elevated veranda of an imperial palace. A young wealthy transport patron in a refined dark jade robe sits in the foreground at a wooden desk consulting an open account ledger, surrounded by tasteful old-world luxury. His face is fictional, no likeness to any real contemporary person. Beyond the balustrade, a vast walled city sprawls below, winding streets filled with horse-drawn carts, jade-cloth carts in one small square and ochre-cloth rival carts in another. Farther back are property construction courtyards and imperial roofs, indicating the transport business sits within a much larger economic and political system. The foreground desk, patron, palace architecture and distant city give a strong sense of hierarchy and scale. A reflective, measured mood, late afternoon amber light, believable spatial perspective. Keep details composed and readable, avoid excessive tiny crowd faces. No text, readable writing, logos, lettering, watermark, modern objects, or caricature villain. Hands, horse anatomy and cart harnesses coherent. Output a single complete original landscape image.",
+      "source_path": "/Users/justinld/.codex/generated_images/01a0c3d0-91cc-7821-92a9-ddd5dbb5faaf/exec-77c919f1-2517-4def-9100-89d969802ab4.png",
+      "display_file": "01-xa-hanh-duoi-chan-thien-tu.webp",
+      "original_bytes": 3249600,
+      "display_bytes": 390380,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "visual_review": "pass: original viewed, composition matches narrative, coherent anatomy and style, no real brand identifiers",
+      "original_preserved_at": "/Users/justinld/.codex/generated_images/01a0c3d0-91cc-7821-92a9-ddd5dbb5faaf/exec-77c919f1-2517-4def-9100-89d969802ab4.png"
+    },
+    {
+      "filename": "02-khong-thu-tien-mua-the-tran.png",
+      "prompt": "Use case: illustration-story. Create a new wide 3:2 editorial illustration for a Vietnamese economic fable set in a fictional Three Kingdoms world. Input image is STYLE REFERENCE ONLY: use its sophisticated richly detailed painterly ink and gouache on parchment, naturalistic period people, muted jade green, ochre, charcoal, and warm amber. Do not duplicate its scene or composition. Scene: a quiet strategy chamber. A wise historical Chinese strategist with a light feather fan, scholarly hat and pale weathered robe (Zhuge Liang archetype) sits opposite a young wealthy patron in a dark jade silk robe at a low wood strategy table. Neither resembles a contemporary real person. The elevated three-quarter view makes the table legible: piles of square-holed copper coins, a few ivory counters, several finely carved miniature horse carts with jade fabric covers, and thin cords marking routes between miniature city gates. The strategist gently moves one cart token along a route while the patron studies where the coins are being spent. Clear visual idea: spending reserves now to gain future control of transport routes. A small open wooden coin chest beside the table. Warm oil lamplight, contemplative and intellectually tense, elegant historical chamber and bamboo blinds, deep shadows, not ominous cartoon villainy. No readable text or map labels, no letters, no brands, no modern objects or watermark. Fingers, faces and perspective coherent. Output one complete original landscape image.",
+      "source_path": "/Users/justinld/.codex/generated_images/01a0c3d0-91cc-7821-92a9-ddd5dbb5faaf/exec-c68d5130-2c31-456b-9649-dc1dcc76adf1.png",
+      "display_file": "02-khong-thu-tien-mua-the-tran.webp",
+      "original_bytes": 2916758,
+      "display_bytes": 308948,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "visual_review": "pass: original viewed, composition matches narrative, coherent anatomy and style, no real brand identifiers",
+      "original_preserved_at": "/Users/justinld/.codex/generated_images/01a0c3d0-91cc-7821-92a9-ddd5dbb5faaf/exec-c68d5130-2c31-456b-9649-dc1dcc76adf1.png"
+    },
+    {
+      "filename": "03-so-sach-mac-ao-dao-duc.png",
+      "prompt": "Use case: illustration-story. Create a new wide 3:2 editorial illustration for a Vietnamese economic fable set in a fictional Three Kingdoms world. Input image is STYLE REFERENCE ONLY: use its sophisticated richly detailed painterly ink and gouache on parchment, naturalistic period people, muted jade green, ochre, charcoal, and warm amber. Do not duplicate its scene or composition. Scene: a lavish public proclamation ceremony in an old Chinese town courtyard. A court scribe in formal robes stands on a raised wooden platform slowly unfurling an ornate blank silk scroll, with elegant jade drapery, gilt-edged ceremonial poles and warm hanging lanterns. A small gathering of dignified cart drivers and craft workers listens with mixed thoughtful, hopeful expressions, nobody caricatured. In the close foreground a worker's rough wooden household table holds a humble open ledger with visually blank pages, a few square-holed copper coins, a plain ceramic rice bowl, and a worn hand. Carefully staged depth makes the contrast clear: splendid public moral language above and fragile household arithmetic below. The scroll must stay BLANK, no inscription. Subtle theatrical imagery through drapery and staging, but plausible scene, not cartoon villain. Intimate humane melancholy, late afternoon amber light, restrained composition with clean readable layers. No text, readable writing, lettering, logos, watermark, modern objects or political symbols. Coherent anatomy and realistic hand. Output one complete original landscape image.",
+      "source_path": "/Users/justinld/.codex/generated_images/01a0c3d0-91cc-7821-92a9-ddd5dbb5faaf/exec-c5204db9-6960-465e-893a-0eb25fbda69c.png",
+      "display_file": "03-so-sach-mac-ao-dao-duc.webp",
+      "original_bytes": 3008216,
+      "display_bytes": 318248,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "visual_review": "pass: original viewed, composition matches narrative, coherent anatomy and style, no real brand identifiers",
+      "original_preserved_at": "/Users/justinld/.codex/generated_images/01a0c3d0-91cc-7821-92a9-ddd5dbb5faaf/exec-c5204db9-6960-465e-893a-0eb25fbda69c.png"
+    },
+    {
+      "filename": "04-ba-dong-chu-nho.png",
+      "prompt": "Use case: illustration-story. Asset type: a full-bleed wide 3:2 landscape editorial illustration in a Vietnamese literary vault article called Thanh Mã Kế, a fictional Three Kingdoms economic fable. Generate a single original image.\nScene: intimate top-oblique view of an ancient Chinese wooden contract table, late Han / Three Kingdoms atmosphere. A court patron's rich jade silk sleeve and anatomically natural hand enter from the upper right, holding a calligraphy brush whose tip firmly strikes a single bold abstract ink stroke across one of three widely spaced horizontal groups of abstract ink marks on a parchment contract. No actual legible writing. An advisor's elegant white feather fan rests by the left edge, next to an inkstone. The calloused, dignified hand of a working cart driver rests hesitantly at the near edge of the table. No faces necessary. Show class differences only through texture of sleeves and hands; humane, restrained, observant.\nStyle: refined cinematic painterly ink and gouache on parchment, detailed traditional historical storybook realism, visible fine brushwork and warm paper grain, muted jade, ochre, charcoal and warm amber. Soft lamplight catches the parchment and worn fingertips; corners fade into dark polished wood. Balanced editorial composition centered on the contractual stroke, with adequate breathing room. Natural hands, believable props and perspective.\nConstraints: one image, wide 3:2. No readable text, no title, no modern objects, no logo, no watermark, no frame, no collage. The three groups on the parchment must remain abstract marks, not letterforms. Theme: a small contractual concession within unequal economic bargaining.",
+      "source_path": "/Users/justinld/.codex/generated_images/01a0c3d0-bbdd-7412-a740-65b36dec39a8/exec-70218e7b-b327-4760-8f3e-6776637a1241.png",
+      "display_file": "04-ba-dong-chu-nho.webp",
+      "original_bytes": 2671517,
+      "display_bytes": 242190,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "visual_review": "pass: original viewed, composition matches narrative, coherent anatomy and style, no real brand identifiers",
+      "original_preserved_at": "/Users/justinld/.codex/generated_images/01a0c3d0-bbdd-7412-a740-65b36dec39a8/exec-70218e7b-b327-4760-8f3e-6776637a1241.png"
+    },
+    {
+      "filename": "05-ngoai-truong-ai-con-duong-di.png",
+      "prompt": "Use case: illustration-story. Asset type: a full-bleed wide 3:2 landscape editorial illustration in a Vietnamese literary vault article called Thanh Mã Kế, a fictional Three Kingdoms economic fable. Generate a single original image.\nScene: ancient walled Chinese city at dusk. Zhuge Liang, fictionalized as a contemplative middle-aged strategist with a long dark beard, tall black scholar cap, flowing charcoal gray robes and folded white feather fan, is walking away from a softly illuminated palace with his young adult disciple in simple gray-blue robes. They pause in three-quarter rear view near the center-left foreground at a stone crossroads. The palace and warm lit doorway sit behind them at left. Ahead of them several narrow roads diverge through small stone arches, but the lanes are visibly constrained by high walls and crowded horse carts; a quiet untraveled lane ends at a closed gate. Human figures are sparse and small. The two thinkers look outward toward the city, their posture conveying restrained uncertainty and responsibility. Emphasize urban geometry and the crossroad, not a crowd or twin monumental gates.\nStyle: refined cinematic painterly ink and gouache on parchment, traditional historical storybook realism, detailed architectural brushwork, warm paper grain. Muted jade, ochre, charcoal, gray-blue dusk and warm amber windows. Delicate haze, layered depth, thoughtful subdued mood. This must be a genuinely new intimate crossroads composition.\nConstraints: one image, wide 3:2. Anatomically natural people, believable ancient horse carts and architecture. No text, no logos, no modern brands, no watermark, no border or collage. Theme: a clever plan solved the court's immediate problem while the question of ordinary people's livelihood remains open.",
+      "source_path": "/Users/justinld/.codex/generated_images/01a0c3d0-bbdd-7412-a740-65b36dec39a8/exec-a6d25fbf-a86a-4903-9b94-735906bb3458.png",
+      "display_file": "05-ngoai-truong-ai-con-duong-di.webp",
+      "original_bytes": 2994855,
+      "display_bytes": 284456,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "visual_review": "pass: original viewed, composition matches narrative, coherent anatomy and style, no real brand identifiers",
+      "original_preserved_at": "/Users/justinld/.codex/generated_images/01a0c3d0-bbdd-7412-a740-65b36dec39a8/exec-a6d25fbf-a86a-4903-9b94-735906bb3458.png"
+    },
+    {
+      "filename": "06-doi-co-van-phai-cam-cuong.png",
+      "prompt": "Use case: illustration-story. Asset type: a full-bleed wide 3:2 landscape editorial illustration in a Vietnamese literary vault article called Thanh Mã Kế, a fictional Three Kingdoms economic fable. Generate a single original image.\nScene: an ancient Chinese city lane at late dusk, with a shut-down carpenter's shop at left. A single dignified middle-aged former carpenter, visibly thoughtful and skilled, stands just outside the shuttered woodshop wearing worn but carefully kept gray-brown working robes, now holding the reins of his horse cart. His face is weathered and intelligent, his body posture quietly resilient. One shutter is slightly ajar, revealing his abandoned wooden hand plane, chisel, small mallet, unfinished stool and wood shavings on an idle workbench. These tools are clearly recognizable. A calm anatomically correct single brown horse stands at right beside a simple coherent wooden cart, no crowded procession. Far in the softly blurred street background, two small plain hanging banners, one muted jade and one ochre, mark two cart companies; no lettering, no heraldry. The worker remains the emotional center, looking toward the idle bench instead of the company banners. Clear difference between a lost craft and current means of livelihood.\nStyle: refined cinematic painterly ink and gouache on parchment, detailed traditional historical storybook realism, visible brushwork and paper grain. Muted jade, ochre, charcoal and warm amber. A warm lantern lights the wood grain and worker's hands, with gray-blue dusk outside. Humane, restrained, no melodrama.\nConstraints: one image, wide 3:2. Natural hands and horse anatomy, believable reins, credible period carpentry tools. No text, no logos, no modern brand references, no watermark, no border, no collage. Theme: changing the banner of the employer does not restore the worker's lost livelihood.",
+      "source_path": "/Users/justinld/.codex/generated_images/01a0c3d0-bbdd-7412-a740-65b36dec39a8/exec-2b2796a1-46a3-4a2d-be55-96668ee24d9d.png",
+      "display_file": "06-doi-co-van-phai-cam-cuong.webp",
+      "original_bytes": 2680481,
+      "display_bytes": 224998,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "visual_review": "pass: original viewed, composition matches narrative, coherent anatomy and style, no real brand identifiers",
+      "original_preserved_at": "/Users/justinld/.codex/generated_images/01a0c3d0-bbdd-7412-a740-65b36dec39a8/exec-2b2796a1-46a3-4a2d-be55-96668ee24d9d.png"
+    },
+    {
+      "filename": "07-ra-xa-hanh-vao-dia-khe.png",
+      "prompt": "Use case: illustration-story.\nAsset type: full-width editorial illustration embedded in a Vietnamese literary vault article.\nStyle/medium: richly detailed hand-painted Chinese historical narrative illustration, ink and gouache on gently textured parchment, fine expressive brushwork, believable human anatomy and physical spaces, evocative mature literary atmosphere. Fictional Three Kingdoms era, ordinary people portrayed with dignity.\nComposition/framing: cinematic wide landscape, 3:2 aspect ratio, full bleed. Distinct subjects and readable storytelling at article width.\nColor palette: muted jade green, ochre earth, charcoal gray, warm amber highlights, restrained saturation.\nConstraints: entirely fictional ancient setting, no present-day people, no modern vehicles or structures, no real-world brand, no logos, no lettering, no captions, no visible words, no watermark. Let metaphor emerge naturally from the scene rather than literal arrows, charts or diagrams.\nPrimary request: A cinematic elevated view from a humble horse-cart driver's small dusty courtyard toward an immense planned coastal city construction project. The immediate foreground shows a carefully maintained wooden cart and a driver in simple worn robes, seen in profile contemplating the vista. Beyond his low wall, a road leads through a wealthy estate gate and branches naturally into a market street, rows of newly built housing, and active transport yards. Farther away stand extensive stone quays and newly reclaimed earthen embankments along the sea, scaffolded walls, human builders carrying materials, and many small working transport carts. The enormous development visibly dwarfs the home. The sea remains visible so this is clearly a coastal land-making project, all using plausible ancient stone, timber, earthworks and cranes.\nLighting/mood: hazy late-afternoon amber sun over cool jade water, awe tinged with unease; interdependence between transport, land and property obligations; human-scale foreground and expansive background.\nAvoid: literal chessboards, gold coins falling from the sky, caricature, dystopian exaggeration, giant developer character, recognizable political figures.",
+      "source_path": "/Users/justinld/.codex/generated_images/01a0c3d0-ff77-73c2-8cca-b687f542ad84/exec-a866d934-7477-4337-8c55-6fdbfda49bdc.png",
+      "display_file": "07-ra-xa-hanh-vao-dia-khe.webp",
+      "original_bytes": 3503988,
+      "display_bytes": 439258,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "visual_review": "pass: original viewed, composition matches narrative, coherent anatomy and style, no real brand identifiers",
+      "original_preserved_at": "/Users/justinld/.codex/generated_images/01a0c3d0-ff77-73c2-8cca-b687f542ad84/exec-a866d934-7477-4337-8c55-6fdbfda49bdc.png"
+    },
+    {
+      "filename": "08-ca-thanh-chi-muon-giu-dat.png",
+      "prompt": "Use case: illustration-story.\nAsset type: full-width editorial illustration embedded in a Vietnamese literary vault article.\nStyle/medium: richly detailed hand-painted Chinese historical narrative illustration, ink and gouache on gently textured parchment, fine expressive brushwork, believable human anatomy and physical spaces, evocative mature literary atmosphere. Fictional Three Kingdoms era, ordinary people portrayed with dignity.\nComposition/framing: cinematic wide landscape, 3:2 aspect ratio, full bleed. Distinct subjects and readable storytelling at article width.\nColor palette: muted jade green, ochre earth, charcoal gray, warm amber highlights, restrained saturation.\nConstraints: entirely fictional ancient setting, no present-day people, no modern vehicles or structures, no real-world brand, no logos, no lettering, no captions, no visible words, no watermark. Let metaphor emerge naturally from the scene rather than literal arrows, charts or diagrams.\nPrimary request: In a busy ancient city square, a cluster of richly dressed land merchants leans with intense attention over a large beautiful wooden architectural scale model of a future city laid on a broad waist-high table: tiny courtyard houses, walls, streets and vacant plots rendered physically, without labels. Slightly behind and beside this crowd, a quiet open-front mechanical workshop stands mostly ignored; its workbench holds a finely made wooden waterwheel prototype, small gears, measuring tools, and rolled blank papers. In the foreground an educated former engineer, now working as a modest horse-cart driver, stands holding his horse's reins; his thoughtful face and capable hands turn toward the abandoned workshop. He wears clean but mended practical robes, dignified rather than ashamed. An ordinary cart awaits nearby. Emphasize the unequal attention given to land speculation and useful learning through arrangement and gazes, without demonizing any profession.\nLighting/mood: dusty afternoon light, merchants lit warmly, workshop in cool jade shadow, a restrained melancholy humane social allegory.\nAvoid: text on documents, contemptuous depiction of drivers, laughably evil merchants, caricature, literal money flows or infographic composition.",
+      "source_path": "/Users/justinld/.codex/generated_images/01a0c3d0-ff77-73c2-8cca-b687f542ad84/exec-5da29ce2-a168-493a-9385-e2a6f0016ecf.png",
+      "display_file": "08-ca-thanh-chi-muon-giu-dat.webp",
+      "original_bytes": 3089344,
+      "display_bytes": 315648,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "visual_review": "pass: original viewed, composition matches narrative, coherent anatomy and style, no real brand identifiers",
+      "original_preserved_at": "/Users/justinld/.codex/generated_images/01a0c3d0-ff77-73c2-8cca-b687f542ad84/exec-5da29ce2-a168-493a-9385-e2a6f0016ecf.png"
+    },
+    {
+      "filename": "09-dan-tam-sau-tieng-tung-ho.png",
+      "prompt": "Use case: illustration-story.\nAsset type: full-width editorial illustration embedded in a Vietnamese literary vault article.\nStyle/medium: richly detailed hand-painted Chinese historical narrative illustration, ink and gouache on gently textured parchment, fine expressive brushwork, believable human anatomy and physical spaces, evocative mature literary atmosphere. Fictional Three Kingdoms era, ordinary people portrayed with dignity.\nComposition/framing: cinematic wide landscape, 3:2 aspect ratio, full bleed. Distinct subjects and readable storytelling at article width.\nColor palette: muted jade green, ochre earth, charcoal gray, warm amber highlights, restrained saturation.\nConstraints: entirely fictional ancient setting, no present-day people, no modern vehicles or structures, no real-world brand, no logos, no lettering, no captions, no visible words, no watermark. Let metaphor emerge naturally from the scene rather than literal arrows, charts or diagrams.\nPrimary request: An intimate evening scene inside a modest ancient family's home. A tired but dignified horse-cart driver has just returned and is settling beside an elderly parent and a school-age child at a low worn wooden table. The child has a brush, blank study papers and simple wooden counting rods beside a small bowl. A simple shared meal of rice, vegetables and broth rests on the table; a tiny modest pile of ancient round coins with square holes lies beside the driver's weathered hand, naturally part of the domestic scene. The elder pours tea with care. Show their quiet attention to one another, warmth and uncertainty together. Through the open doorway in the far background, distant ceremonial lanterns glow along a prosperous street; a small glimpse of a parked wooden cart and resting horse is visible outside. The ceremonial lights are small and peripheral so the family remains the emotional focus.\nLighting/mood: soft warm amber lamplight on faces and hands, jade dusk through doorway, gentle intimacy, trust and well-being measured in daily life beyond public applause.\nAvoid: extreme destitution, tears, melodramatic suffering, politician or ruler, modern utensils, writing or calligraphy, decorative banner text.",
+      "source_path": "/Users/justinld/.codex/generated_images/01a0c3d0-ff77-73c2-8cca-b687f542ad84/exec-fd028c94-096e-45da-9202-c353584f82c7.png",
+      "display_file": "09-dan-tam-sau-tieng-tung-ho.webp",
+      "original_bytes": 2701729,
+      "display_bytes": 241968,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "visual_review": "pass: original viewed, composition matches narrative, coherent anatomy and style, no real brand identifiers",
+      "original_preserved_at": "/Users/justinld/.codex/generated_images/01a0c3d0-ff77-73c2-8cca-b687f542ad84/exec-fd028c94-096e-45da-9202-c353584f82c7.png"
+    },
+    {
+      "filename": "10-ke-thanh-ha-hoi-phan-giai.png",
+      "prompt": "Use case: illustration-story. Asset type: the final chapter illustration for the Vietnamese Three Kingdoms fable Thanh Mã Kế, landscape 3:2. The provided image is STYLE AND CHARACTER REFERENCE ONLY; create an entirely different scene and composition. Match its sophisticated painterly ink-and-gouache, fine tactile brushwork, muted jade, ochre, charcoal and warm amber, humane natural faces, period-inspired fictional Chinese architecture. Scene: just before dawn on a quiet stone bridge outside the city, the thoughtful older scholar with his folded feather fan and his younger disciple stop at the bridge parapet. The disciple holds an open notebook with visibly empty pages and has put his brush down, refusing to pronounce victory yet. On the parapet nearby sit two separate open account ledgers: a fine merchant ledger with a small orderly pile of copper coins, and a worn household ledger beside a carpenter's wooden plane and a modest cloth purse, both unlettered/only faint abstract marks. In the middle distance a dignified horse-cart driver continues toward the waking town; there is a modest closed workshop beside an unfinished city construction in the mist. No triumphant winner; uncertain future, real hope mixed with unresolved debt, quiet questioning, daylight just beginning beyond the roofs. Composition airy and poetic, characters off-centre in a medium-wide scene; make the empty notebook and dawn the visual emphasis, not a duplicate of the reference's crowded gates. No split-screen/collage, no diagrams or arrows, no modern objects or vehicles, no logos, no readable writing, no watermark, no famous modern likeness. Believable hands, horses pull carts and humans drive. Full-bleed artwork.",
+      "source_path": "/Users/justinld/.codex/generated_images/01a0c3b9-759f-7652-8a09-e4114fa8f49b/exec-e046f680-7df6-4a80-9c87-bbcfc10953ff.png",
+      "display_file": "10-ke-thanh-ha-hoi-phan-giai.webp",
+      "original_bytes": 3381700,
+      "display_bytes": 391256,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "visual_review": "pass: original viewed, composition matches narrative, coherent anatomy and style, no real brand identifiers",
+      "original_preserved_at": "/Users/justinld/.codex/generated_images/01a0c3b9-759f-7652-8a09-e4114fa8f49b/exec-e046f680-7df6-4a80-9c87-bbcfc10953ff.png"
+    }
+  ],
+  "original_storage": "Original PNGs remain at source_path; published folder contains optimized WebP only."
+}

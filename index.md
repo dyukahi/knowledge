@@ -41,12 +41,12 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | 🔮 **Esoterica** | 77 | metaphysics, occult, ancient civilizations, spiritual pattern |
 | ☸️ **Theravāda** | 41 | Kinh tạng Pāli, giáo lý, thực hành, Vi Diệu Pháp, provenance |
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
-| 🧩 **Mental Models** | 45 | nhận thức, tâm lý học, framework để đọc reality |
+| 🧩 **Mental Models** | 46 | nhận thức, tâm lý học, framework để đọc reality |
 | 🏛️ **Politics & Conspiracy** | 29 | power structure, controlled narrative, geopolitics |
 | 🔬 **Science & Tech** | 21 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 294 notes / bài viết.
+**Total:** 295 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -301,6 +301,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 ### 🧩 Mental Models
 
+- [[Tam Quốc Ngoại Truyện - Thanh Mã Kế]] — ngụ ngôn về dân tâm, cuộc đua giành xa phu và đường lui giữa vòng quay xe, đất, tiền.
 - [[Gautama Giữa Thời Đại Thuật Toán|Nếu Đức Phật Sống Trong Thời Đại Smartphone]] — một giả định kính trọng để soi lại cách học Phật và sống giữa thời đại số.
 
 - [[Mental Model]] | [[Quy Trình Là Ký Ức Được Mua Bằng Máu]] | [[Tư Duy Lũy Thừa]] | [[Thông Minh vs Trí Tuệ]]
@@ -344,6 +345,10 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### September 21, 2026
+
+- **[[Tam Quốc Ngoại Truyện - Thanh Mã Kế]]** — dã sử châm biếm về Thanh Mã và Kỳ Lân: ưu đãi hai năm, dân tâm, người có học bỏ nghề và một nền kinh tế xoay quanh địa ốc; Khổng Minh còn nợ bài toán sinh kế, kết mở “hạ hồi phân giải”, kèm 11 tranh ngụ ngôn đồng bộ.
 
 ### September 20, 2026
 
