@@ -206,6 +206,42 @@ Nếu predictive programming là quá trình làm cho một tương lai trở n�
 
 ---
 
+## 10. Dự Báo Có Thể Bị Bác Bỏ / A Falsifiable Forecast
+
+Connect-the-dots chỉ có giá trị khi nó tạo ra điều kiện theo dõi và chấp nhận khả năng sai. Từ chuỗi *Patient Zero 2026*, có ba con đường khác nhau có thể mở ra.
+
+*Connect-the-dots analysis becomes useful only when it produces observable conditions and accepts the possibility of being wrong. Three different paths may emerge from the Patient Zero 2026 chain.*
+
+### Kịch Bản A — Sự Cố Được Khoanh Vùng / Scenario A — A Contained Incident
+
+Đây là kịch bản cơ sở. Không xuất hiện ca thứ phát, các mẫu xét nghiệm tiếp tục âm tính và biện pháp cách ly dần được gỡ bỏ. Khi đó, giả thuyết về một đợt dịch hạch thực địa suy yếu rõ rệt. Những trùng hợp về ngày tháng, sách, âm nhạc và biểu tượng vẫn tồn tại như một vần âm văn hóa, nhưng không chuyển thành chuỗi lây nhiễm.
+
+*This is the baseline scenario. No secondary cases appear, tests remain negative, and precautionary isolation is gradually lifted. In that case, the thesis of a literal plague outbreak weakens substantially. The coincidences involving dates, books, music, and symbols remain as a cultural rhyme but do not become a chain of transmission.*
+
+### Kịch Bản B — Khủng Hoảng Y Tế Khu Vực / Scenario B — A Regional Health Crisis
+
+Kịch bản này được kích hoạt nếu xuất hiện các ca viêm phổi có liên hệ dịch tễ, bệnh viện kéo dài phong tỏa, vùng lân cận tăng kiểm dịch hoặc WHO nâng đánh giá rủi ro. Nga khi đó trở thành sân khấu thật của ngữ pháp đã được diễn tập: patient zero, tai nạn phòng thí nghiệm, bệnh chưa rõ nguyên nhân và phản ứng an ninh sinh học.
+
+*This scenario activates if epidemiologically linked pneumonia cases emerge, hospital lockdowns continue, neighboring regions intensify screening, or the WHO raises its risk assessment. Russia then becomes the physical stage for the grammar already rehearsed: patient zero, laboratory accident, illness of unknown origin, and a biosecurity response.*
+
+### Kịch Bản C — Một Chu Kỳ Đại Dịch Mới / Scenario C — A New Pandemic Cycle
+
+Kịch bản mạnh nhất chỉ đứng vững nếu có lây truyền người sang người ngoài cụm Irkutsk, tác nhân được định danh, nhiều khu vực hoặc quốc gia ghi nhận ca bệnh và phản ứng quốc tế bắt đầu đồng bộ. Khi ấy, các dot về *Biological War*, *The World Ahead*, COVID và “Patient Zero” không còn chỉ nằm trong trường biểu tượng; chúng trở thành bản đồ đọc một sự kiện đang mở rộng.
+
+*The strongest scenario survives only if person-to-person transmission moves beyond the Irkutsk cluster, the pathogen is identified, multiple regions or countries report cases, and international responses begin to synchronize. At that point, the dots involving Biological War, The World Ahead, COVID, and “Patient Zero” no longer remain only in the symbolic field; they become a map for reading an expanding event.*
+
+### Tín Hiệu Chuyển Trạng Thái / Transition Signals
+
+Năm tín hiệu cần theo dõi là: ca thứ phát; thay đổi đánh giá của WHO; hạn chế đi lại hoặc kiểm dịch xuyên biên giới; sự đồng bộ ngôn ngữ truyền thông quanh các cụm “viêm phổi chưa rõ nguyên nhân”, “patient zero”, “rò rỉ phòng thí nghiệm” và “chiến tranh sinh học”; cuối cùng là việc sự kiện được dùng để thúc đẩy hạ tầng giám sát y tế, dự trữ vaccine hoặc kháng sinh, hộ chiếu y tế hay kiểm soát di chuyển.
+
+*Five signals matter: secondary cases; a change in the WHO risk assessment; travel restrictions or cross-border screening; synchronization of media language around “pneumonia of unknown origin,” “patient zero,” “laboratory leak,” and “biological warfare”; and finally, the use of the event to advance health-surveillance infrastructure, vaccine or antibiotic stockpiles, health passes, or movement controls.*
+
+Nếu những người tiếp xúc tiếp tục không có triệu chứng, xét nghiệm không tìm thấy mầm bệnh nghề nghiệp và mọi biện pháp kiểm soát được gỡ bỏ, kịch bản đại dịch phải được hạ xuống thay vì kéo dài bằng những dot mới. Predictive programming vẫn có thể hoàn thành chức năng ở cấp độ diễn tập ngôn ngữ và chính sách; nhưng dự báo y sinh khi ấy đã không vượt qua phép thử.
+
+*If contacts remain symptom-free, testing finds no occupational pathogen, and all control measures are lifted, the pandemic scenario must be downgraded rather than prolonged by adding new dots. Predictive programming may still operate as a rehearsal of language and policy, but the biomedical forecast will have failed its test.*
+
+---
+
 ## Nguồn Và Khung Hình / Sources and Frames
 
 - [RFE/RL — Siberian Anti-Plague Institute Staff Isolated After Worker's Death](https://www.rferl.org/a/russia-plague-warning-siberia-irkutsk-laboratory/33870385.html)
