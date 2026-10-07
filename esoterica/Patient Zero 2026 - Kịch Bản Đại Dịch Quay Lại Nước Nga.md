@@ -1,6 +1,6 @@
 ---
 title: "Patient Zero 2026 - Kịch Bản Đại Dịch Quay Lại Nước Nga"
-description: "Một chuỗi connect-the-dots từ Zelensky gọi Putin là patient zero, Taylor Swift phát hành Patient Zero, sách Biological War, bìa The World Ahead 2026 và sự cố viện chống dịch hạch Irkutsk."
+description: "Chuỗi 22 dot nối Zelensky, Taylor Swift, Biological War, Irkutsk, COVID và The World Ahead 2026 trong kịch bản predictive programming về Nga."
 aliases:
   - "Patient Zero 2026"
   - "Đại Dịch Nga 2026"
