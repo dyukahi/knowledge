@@ -34,9 +34,9 @@ sources:
 
 *September 25, 2026 sits at the center of a strange network. Two days earlier, Zelensky called Putin the “patient zero” of the idea of war. On September 25 itself, Taylor Swift released the song “Patient Zero.” On that same date, according to a local report cited by RFE/RL, a technician at an anti-plague institute in Irkutsk broke a test tube containing plague bacteria. Two months earlier, Annie Jacobsen published Biological War, opening with a scenario in which a laboratory accident pulls the world into a pandemic.*
 
-Không mảnh nào tự mình tạo thành một lời tiên tri. Sức mạnh xuất hiện khi chúng được đặt lên cùng một trục thời gian: chính trị dùng ngôn ngữ dịch bệnh, âm nhạc dùng biểu tượng “bệnh nhân số không”, hư cấu kể về đầu độc và cái chết bí ẩn, sách mô phỏng tai nạn sinh học tại Siberia, còn đời thật đáp lại bằng một cái chết tại viện chống dịch hạch.
+Không mảnh nào tự mình tạo thành một lời tiên tri. Sức mạnh xuất hiện khi chúng được đặt lên cùng một trục thời gian: chính trị dùng ngôn ngữ dịch bệnh, âm nhạc dùng biểu tượng “bệnh nhân số không”, hư cấu kể về đầu độc và cái chết bí ẩn, một đoạn trích gắn với *Biological War* mô phỏng tai nạn sinh học tại Siberia, còn đời thật đáp lại bằng một cái chết tại viện chống dịch hạch.
 
-*No single fragment forms a prophecy by itself. The force appears when they are placed on one timeline: politics speaks the language of contagion, music invokes “patient zero,” fiction tells of poisoning and mysterious illness, a book models a biological accident in Siberia, and reality answers with a death at an anti-plague institute.*
+*No single fragment forms a prophecy by itself. The force appears when they are placed on one timeline: politics speaks the language of contagion, music invokes “patient zero,” fiction tells of poisoning and mysterious illness, a passage presented with Biological War models a biological accident in Siberia, and reality answers with a death at an anti-plague institute.*
 
 ---
 
@@ -100,7 +100,7 @@ Giới chức Nga nói cô chết vì “viêm phổi chưa rõ nguyên nhân”
 
 ## 4. *Biological War* Và Tai Nạn Ở Siberia / Biological War and an Accident in Siberia
 
-![Trang sách mở đầu bằng câu Biological war can begin with an accident và mô tả viện nghiên cứu VECTOR tại Siberia](../assets/illustrations/patient-zero-russia-2026/03-biological-war-accident-passage.jpg)
+![Đoạn trích được trình bày cùng Biological War, mở đầu bằng câu Biological war can begin with an accident và mô tả VECTOR tại Siberia](../assets/illustrations/patient-zero-russia-2026/03-biological-war-accident-passage.jpg)
 
 Ngày 28 tháng 7 năm 2026, Annie Jacobsen xuất bản *Biological War: A Scenario*. Phần giới thiệu chính thức của nhà xuất bản gom bốn mắt xích vào một câu: tai nạn phòng thí nghiệm, tấn công sinh học, đại dịch toàn cầu và sự sụp đổ của xã hội. Cuốn sách không bắt đầu bằng một đội quân phun mầm bệnh. Nó bắt đầu bằng một tai nạn.
 
@@ -108,9 +108,9 @@ Ngày 28 tháng 7 năm 2026, Annie Jacobsen xuất bản *Biological War: A Scen
 
 ![Ảnh chụp trang Penguin Random House mô tả kịch bản tai nạn phòng thí nghiệm, tấn công sinh học và đại dịch toàn cầu](../assets/illustrations/patient-zero-russia-2026/04-source-penguin-biological-war.png)
 
-Đoạn sách được trích cụ thể hơn: “Chiến tranh sinh học có thể bắt đầu bằng một tai nạn.” Kịch bản đặt một vụ nổ tại viện nghiên cứu sinh học ở Siberia, gọi tên trung tâm VECTOR và mô tả một mầm bệnh thoát khỏi cơ sở an toàn sinh học cấp cao. Vài tuần sau, đời thật đưa lên mặt báo một nữ kỹ thuật viên chết sau sự cố bị cáo buộc tại một viện chống dịch hạch khác ở Siberia.
+Một đoạn trích được trình bày cùng cuốn sách cụ thể hơn: “Chiến tranh sinh học có thể bắt đầu bằng một tai nạn.” Kịch bản đặt một vụ nổ tại viện nghiên cứu sinh học ở Siberia, gọi tên trung tâm VECTOR và mô tả một mầm bệnh thoát khỏi cơ sở an toàn sinh học cấp cao. Vài tuần sau, đời thật đưa lên mặt báo một nữ kỹ thuật viên chết sau sự cố bị cáo buộc tại một viện chống dịch hạch khác ở Siberia.
 
-*The quoted page is more specific: “Biological war can begin with an accident.” The scenario places an explosion at a biological research institute in Siberia, names the VECTOR center, and imagines a pathogen escaping a high-containment facility. Weeks later, reality placed a young technician’s death—following an alleged accident at another Siberian anti-plague institute—into the news.*
+*A passage presented with the book is more specific: “Biological war can begin with an accident.” The scenario places an explosion at a biological research institute in Siberia, names the VECTOR center, and imagines a pathogen escaping a high-containment facility. Weeks later, reality placed a young technician’s death—following an alleged accident at another Siberian anti-plague institute—into the news.*
 
 Đây là điểm nối mạnh nhất của toàn bộ chuỗi. Sách là sản phẩm mô phỏng rủi ro; sự kiện Irkutsk là một tình huống y tế đang tranh cãi. Nhưng cùng địa lý, cùng ngữ pháp “tai nạn phòng thí nghiệm”, cùng mầm bệnh và cùng năm 2026 khiến chúng tạo thành một vần âm quá rõ để bị bỏ qua trong khung predictive programming.
 
@@ -192,9 +192,9 @@ Trong trường hợp này, trục không phải “mọi thứ đều giả” 
 
 ## 9. Nga Như Sân Khấu Của Chu Kỳ Kế Tiếp / Russia as the Stage of the Next Cycle
 
-COVID-19 bắt đầu chu kỳ toàn cầu từ phương Đông nhưng tái cấu trúc toàn bộ thế giới. Trong chuỗi liên kết này, chu kỳ kế tiếp được đặt tại Nga: nơi Zelensky gắn Putin với “patient zero”, nơi lịch sử vũ khí sinh học của Liên Xô vẫn phủ bóng, nơi sách *Biological War* đặt tai nạn VECTOR, và nơi một kỹ thuật viên viện chống dịch hạch chết giữa những báo cáo mâu thuẫn.
+COVID-19 bắt đầu chu kỳ toàn cầu từ phương Đông nhưng tái cấu trúc toàn bộ thế giới. Trong chuỗi liên kết này, chu kỳ kế tiếp được đặt tại Nga: nơi Zelensky gắn Putin với “patient zero”, nơi lịch sử vũ khí sinh học của Liên Xô vẫn phủ bóng, nơi một đoạn trích gắn với *Biological War* đặt tai nạn VECTOR, và nơi một kỹ thuật viên viện chống dịch hạch chết giữa những báo cáo mâu thuẫn.
 
-*COVID-19 began its global cycle in the East but restructured the entire world. In this chain of connections, the next cycle is staged in Russia: where Zelensky binds Putin to “patient zero,” where the Soviet biological-weapons legacy still casts a shadow, where Biological War places its VECTOR accident, and where a plague-institute technician dies amid conflicting reports.*
+*COVID-19 began its global cycle in the East but restructured the entire world. In this chain of connections, the next cycle is staged in Russia: where Zelensky binds Putin to “patient zero,” where the Soviet biological-weapons legacy still casts a shadow, where a passage associated with Biological War places its VECTOR accident, and where a plague-institute technician dies amid conflicting reports.*
 
 Nếu predictive programming là quá trình làm cho một tương lai trở nên quen thuộc trước khi nó thành hiện tại, thì *Patient Zero 2026* không cần dự đoán chính xác một đại dịch Nga. Nó chỉ cần làm ba việc: đặt từ khóa vào trí nhớ, gắn Nga với tai nạn sinh học và dạy khán giả nhận ra ngày 25 tháng 9 như một điểm hội tụ.
 
