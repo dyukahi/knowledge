@@ -90,6 +90,7 @@ Orientation: follow language, number, geometry and cinema as programming surface
 8. [[Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên|Bát Tiên! — Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên]] — đọc cách một danh tính được nhận nhầm, một động cơ được suy ra và lòng tin được xây lại.
 9. [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]] — Brazil→Norway World Cup pattern post-mortem and a live lesson in falsifiability.
 10. [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — expand sports and halftime shows into mass synchronization ritual theory.
+11. [[Patient Zero 2026 - Kịch Bản Đại Dịch Quay Lại Nước Nga]] — trace a live predictive-programming montage across Russia, plague, COVID, Taylor Swift, Biological War and The World Ahead 2026.
 
 ### 5. Cross-Domain Bridge Path — Ancient Memory, Earth Grid, Science
 
@@ -129,6 +130,7 @@ Orientation: this is the practice-facing route. It turns esoterica back inward, 
 - [[Karma Disclosure - Truth Hidden In Plain Sight]] — how revelation can function as consent management.
 - [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]] — Japan Gate, Norway’s failed champion thesis and the discipline of not moving an omen after the result.
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — World Cup, Euro, Super Bowl and launches as synchronized mass ritual.
+- [[Patient Zero 2026 - Kịch Bản Đại Dịch Quay Lại Nước Nga]] — 22-dot live case study in predictive programming, source tracing and symbolic convergence around a Russian plague-lab incident.
 - [[Hollywood - Cây Đũa Phép Của Phù Thủy]] — cinema as ritual rehearsal and symbolic programming.
 - [[Dune - Paul Leto II Va Golden Path|Dune — Paul, Leto II Và Golden Path]] — case study điện ảnh/văn học về đấng cứu thế, lời tiên tri, Golden Path và cái giá của việc thấy tương lai.
 - [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]] — case study điện ảnh về luân hồi, Gnosis, lời chứng và nô lệ Ma Trận qua sáu thời đại.

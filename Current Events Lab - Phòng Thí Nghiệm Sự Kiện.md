@@ -42,6 +42,7 @@ Trước khi đọc, nên mở:
 - **[[SpaceX - Obelisk Lửa Và Nỗi Sợ Bầu Trời]]** — rocket spectacle, techno-king mythology và fear of the sky.
 - **[[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]]** — World Cup 2026 pattern audit: Brazil→Norway, Japan Gate rhyme, Norway thua England và champion thesis bị falsify.
 - **[[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]]** — sports, halftime show, launch và ceremony như mass synchronization layer.
+- **[[Patient Zero 2026 - Kịch Bản Đại Dịch Quay Lại Nước Nga]]** — source-traced predictive-programming lab nối Zelensky, Taylor Swift, Biological War, COVID chronology và sự cố Irkutsk.
 - **[[UAP Disclosure - Controlled Revelation]]** — disclosure như limited hangout, narrative pacing và permission structure.
 
 ### Programmable Money, Identity & Youth Psychology

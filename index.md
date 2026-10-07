@@ -38,7 +38,7 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 
 | Domain | Count | Vai trò trong vault |
 |---|---:|---|
-| 🔮 **Esoterica** | 77 | metaphysics, occult, ancient civilizations, spiritual pattern |
+| 🔮 **Esoterica** | 78 | metaphysics, occult, ancient civilizations, spiritual pattern |
 | ☸️ **Theravāda** | 41 | Kinh tạng Pāli, giáo lý, thực hành, Vi Diệu Pháp, provenance |
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
 | 🧩 **Mental Models** | 47 | nhận thức, tâm lý học, framework để đọc reality |
@@ -46,7 +46,7 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | 🔬 **Science & Tech** | 21 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 296 notes / bài viết.
+**Total:** 297 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -284,6 +284,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Tartaria]] | [[Atlantis]] | [[Lemuria]] | [[Annunaki]]
 - [[Gaia - Trái Đất Có Ý Thức]] | [[Avatar - Disclosure Của Eywa & Gaia]]
 - [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] | [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
+- [[Patient Zero 2026 - Kịch Bản Đại Dịch Quay Lại Nước Nga]] — Russia, plague-lab accident, Biological War, Taylor Swift, World Ahead 2026 và chuỗi predictive programming quanh ngày 25 tháng 9.
 - [[Cloud Atlas - Van Do Cua Luan Hoi Ma Tran Va Loi Chung Xuyen Thoi Gian|Cloud Atlas — Vân Đồ Của Luân Hồi, Ma Trận Và Lời Chứng Xuyên Thời Gian]]
 - [[Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên|Bát Tiên! — Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên]]
 - [[Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic|Orphan Black Echoes & Detroit Become Human - Bản Thể In Lại Và Linh Hồn Nhân Tạo]]
@@ -350,6 +351,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ### October 7, 2026
 
 - **[[Panem et Circenses - Khi Đấu Trường Nằm Trong Túi]]** — bài song ngữ theo từng đoạn nối lời châm biếm của Juvenal với thuật toán đề xuất, làn sóng phim ngắn AI Trung Quốc và câu hỏi khi nào giải trí phục hồi con người, khi nào nó trở thành gây mê nhận thức; kèm 9 minh họa hiện thực biên tập siêu thực.
+- **[[Patient Zero 2026 - Kịch Bản Đại Dịch Quay Lại Nước Nga]]** — source matrix 22 dot nối Zelensky/Putin, Taylor Swift, ngày 25 tháng 9, sự cố viện chống dịch hạch Irkutsk, Biological War, COVID và The World Ahead 2026; dùng 18 frame clip/source gốc.
 
 ### September 21, 2026
 
