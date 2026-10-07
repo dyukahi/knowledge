@@ -146,7 +146,7 @@ Tháng 11 năm 2025, *The Economist* phát hành *The World Ahead 2026*. Bìa ch
 
 *In November 2025, The Economist released The World Ahead 2026. Its official cover is a dense symbolic field of war, politics, economics, AI, medicine, and crisis. The clip zooms into red details: emergency vehicles, a virus-like form, a vial, a syringe, and faces of power.*
 
-![Bìa chính thức The World Ahead 2026 tải từ trang The Economist Group](../assets/illustrations/patient-zero-russia-2026/13-source-world-ahead-official-cover.jpg)
+![Bìa chính thức The World Ahead 2026 tải từ trang The Economist Group](../assets/illustrations/patient-zero-russia-2026/13-source-world-ahead-official-cover.webp)
 
 Bìa không nói “đại dịch Nga sẽ xảy ra”. Nó làm điều mà bìa *The World Ahead* thường làm: nén những nỗi lo của năm tới thành một bản đồ thị giác. Khi sự kiện Irkutsk xuất hiện, clip đọc ngược bản đồ ấy và chọn ra các biểu tượng y sinh như những điểm đã được đặt sẵn trên sân khấu.
 
