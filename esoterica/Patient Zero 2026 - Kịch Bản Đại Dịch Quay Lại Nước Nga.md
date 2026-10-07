@@ -28,7 +28,7 @@ sources:
 
 # Patient Zero 2026 - Kịch Bản Đại Dịch Quay Lại Nước Nga
 
-![Khung hình trong clip tổng hợp sự kiện ngày 25 tháng 9 năm 2026 và cáo buộc ống nghiệm Yersinia pestis bị vỡ](../assets/illustrations/patient-zero-russia-2026/00-hero-september-25-summary.jpg)
+![Mốc ngày 25 tháng 9 năm 2026 và cáo buộc ống nghiệm Yersinia pestis bị vỡ](../assets/illustrations/patient-zero-russia-2026/00-hero-september-25-summary.jpg)
 
 **Ngày 25 tháng 9 năm 2026 nằm ở giữa một mạng lưới kỳ lạ. Hai ngày trước đó, Zelensky gọi Putin là “patient zero” của ý tưởng chiến tranh. Đúng ngày 25 tháng 9, Taylor Swift phát hành ca khúc “Patient Zero”. Cũng ngày ấy, theo nguồn tin địa phương được RFE/RL dẫn lại, một kỹ thuật viên tại viện chống dịch hạch ở Irkutsk làm vỡ ống nghiệm chứa vi khuẩn gây dịch hạch. Trước đó hai tháng, Annie Jacobsen xuất bản cuốn *Biological War*, mở ra bằng kịch bản một tai nạn phòng thí nghiệm kéo thế giới vào đại dịch.**
 
@@ -38,25 +38,21 @@ Không mảnh nào tự mình tạo thành một lời tiên tri. Sức mạnh x
 
 *No single fragment forms a prophecy by itself. The force appears when they are placed on one timeline: politics speaks the language of contagion, music invokes “patient zero,” fiction tells of poisoning and mysterious illness, a book models a biological accident in Siberia, and reality answers with a death at an anti-plague institute.*
 
-> Các hình trong bài là khung hình gốc từ clip và ảnh chụp màn hình nguồn đã truy lại. Chúng được giữ nguyên nội dung, chỉ nén để hiển thị.
->
-> *The images in this essay are original clip frames and screenshots of traced sources. Their content is preserved, with compression only for display.*
-
 ---
 
 ## 1. Một Cụm Từ Đi Trước Sự Kiện / A Phrase Arrives Before the Event
 
-![Khung hình bài báo trong clip: Zelensky gọi Putin là patient zero](../assets/illustrations/patient-zero-russia-2026/05-zelensky-patient-zero.jpg)
+![Bài báo về phát biểu Zelensky gọi Putin là patient zero](../assets/illustrations/patient-zero-russia-2026/05-zelensky-patient-zero.jpg)
 
 Ngày 23 tháng 9 năm 2026, tại Đại hội đồng Liên Hiệp Quốc, Volodymyr Zelensky gọi Vladimir Putin là “patient zero” — người mà từ đó “ý tưởng chiến tranh tiếp tục lan rộng”. Đây không phải cách nói kín đáo. Nó đưa ngôn ngữ dịch tễ học vào chính trị thế giới: một người trở thành điểm phát tán, chiến tranh trở thành bệnh truyền nhiễm, còn các quốc gia khác được đặt vào vị trí phải ngăn sự lây lan.
 
 *On September 23, 2026, at the United Nations General Assembly, Volodymyr Zelensky called Vladimir Putin “patient zero”—the one from whom “the idea of war keeps spreading further.” This was not subtle language. It moved epidemiology into global politics: a person became the point of transmission, war became contagion, and other nations were cast as those responsible for stopping the spread.*
 
-![Phụ đề nguyên bản trong clip: this idea of war, trích từ bài phát biểu của Zelensky tại Liên Hiệp Quốc](../assets/illustrations/patient-zero-russia-2026/06-clip-zelensky-idea-of-war.jpg)
+![Câu this idea of war từ bài phát biểu của Zelensky tại Liên Hiệp Quốc](../assets/illustrations/patient-zero-russia-2026/06-zelensky-idea-of-war.jpg)
 
-Bài viết của *Ukrainska Pravda* mang đúng tiêu đề: “Putin là patient zero và phải bị ngăn chặn.” Clip không bịa ra câu nói này. Nó lấy một ẩn dụ chính trị có thật, rồi đặt nó cạnh những “patient zero” khác sắp xuất hiện trong âm nhạc và tin tức dịch bệnh.
+Bài viết của *Ukrainska Pravda* mang đúng tiêu đề: “Putin là patient zero và phải bị ngăn chặn.” Một ẩn dụ chính trị có thật vì thế đứng cạnh những “patient zero” khác sắp xuất hiện trong âm nhạc và tin tức dịch bệnh.
 
-*The Ukrainska Pravda article carries the exact headline: “Putin is patient zero and has to be stopped.” The clip did not invent this statement. It took a real political metaphor and placed it beside other “patient zero” references that were about to appear in music and plague reporting.*
+*The Ukrainska Pravda article carries the exact headline: “Putin is patient zero and has to be stopped.” A real political metaphor therefore stands beside other “patient zero” references that were about to appear in music and plague reporting.*
 
 ---
 
@@ -84,7 +80,7 @@ Dòng chữ trong đạo cụ báo chí hiện rõ: “Nữ thừa kế chết v
 
 ## 3. Ngày 25 Tháng 9 Tại Irkutsk / September 25 in Irkutsk
 
-![Khung bài viết trong clip về Darya Shipilova như patient zero của một đợt dịch hạch](../assets/illustrations/patient-zero-russia-2026/01-shipilova-patient-zero.jpg)
+![Bài viết về Darya Shipilova như patient zero của một đợt dịch hạch](../assets/illustrations/patient-zero-russia-2026/01-shipilova-patient-zero.jpg)
 
 Darya Shipilova, 28 tuổi, làm việc tại Viện Nghiên cứu Chống Dịch hạch Irkutsk của Siberia và Viễn Đông. Theo nguồn tin địa phương *Lyudi Baikala* được RFE/RL dẫn lại, ngày 25 tháng 9 cô làm vỡ một ống nghiệm chứa vi khuẩn gây dịch hạch thể phổi. Cô nhập viện ngày 29 tháng 9 và qua đời ngày 2 tháng 10.
 
@@ -104,7 +100,7 @@ Giới chức Nga nói cô chết vì “viêm phổi chưa rõ nguyên nhân”
 
 ## 4. *Biological War* Và Tai Nạn Ở Siberia / Biological War and an Accident in Siberia
 
-![Trang sách hiện trong clip mở đầu bằng câu Biological war can begin with an accident và mô tả viện nghiên cứu VECTOR tại Siberia](../assets/illustrations/patient-zero-russia-2026/03-biological-war-accident-passage.jpg)
+![Trang sách mở đầu bằng câu Biological war can begin with an accident và mô tả viện nghiên cứu VECTOR tại Siberia](../assets/illustrations/patient-zero-russia-2026/03-biological-war-accident-passage.jpg)
 
 Ngày 28 tháng 7 năm 2026, Annie Jacobsen xuất bản *Biological War: A Scenario*. Phần giới thiệu chính thức của nhà xuất bản gom bốn mắt xích vào một câu: tai nạn phòng thí nghiệm, tấn công sinh học, đại dịch toàn cầu và sự sụp đổ của xã hội. Cuốn sách không bắt đầu bằng một đội quân phun mầm bệnh. Nó bắt đầu bằng một tai nạn.
 
@@ -112,25 +108,25 @@ Ngày 28 tháng 7 năm 2026, Annie Jacobsen xuất bản *Biological War: A Scen
 
 ![Ảnh chụp trang Penguin Random House mô tả kịch bản tai nạn phòng thí nghiệm, tấn công sinh học và đại dịch toàn cầu](../assets/illustrations/patient-zero-russia-2026/04-source-penguin-biological-war.png)
 
-Đoạn sách xuất hiện trong clip cụ thể hơn: “Chiến tranh sinh học có thể bắt đầu bằng một tai nạn.” Kịch bản đặt một vụ nổ tại viện nghiên cứu sinh học ở Siberia, gọi tên trung tâm VECTOR và mô tả một mầm bệnh thoát khỏi cơ sở an toàn sinh học cấp cao. Vài tuần sau, đời thật đưa lên mặt báo một nữ kỹ thuật viên chết sau sự cố bị cáo buộc tại một viện chống dịch hạch khác ở Siberia.
+Đoạn sách được trích cụ thể hơn: “Chiến tranh sinh học có thể bắt đầu bằng một tai nạn.” Kịch bản đặt một vụ nổ tại viện nghiên cứu sinh học ở Siberia, gọi tên trung tâm VECTOR và mô tả một mầm bệnh thoát khỏi cơ sở an toàn sinh học cấp cao. Vài tuần sau, đời thật đưa lên mặt báo một nữ kỹ thuật viên chết sau sự cố bị cáo buộc tại một viện chống dịch hạch khác ở Siberia.
 
-*The page shown in the clip is more specific: “Biological war can begin with an accident.” The scenario places an explosion at a biological research institute in Siberia, names the VECTOR center, and imagines a pathogen escaping a high-containment facility. Weeks later, reality placed a young technician’s death—following an alleged accident at another Siberian anti-plague institute—into the news.*
+*The quoted page is more specific: “Biological war can begin with an accident.” The scenario places an explosion at a biological research institute in Siberia, names the VECTOR center, and imagines a pathogen escaping a high-containment facility. Weeks later, reality placed a young technician’s death—following an alleged accident at another Siberian anti-plague institute—into the news.*
 
-Đây là dot mạnh nhất của toàn bộ montage. Sách là sản phẩm mô phỏng rủi ro; sự kiện Irkutsk là một tình huống y tế đang tranh cãi. Nhưng cùng địa lý, cùng ngữ pháp “tai nạn phòng thí nghiệm”, cùng mầm bệnh và cùng năm 2026 khiến chúng tạo thành một vần âm quá rõ để bị bỏ qua trong khung predictive programming.
+Đây là điểm nối mạnh nhất của toàn bộ chuỗi. Sách là sản phẩm mô phỏng rủi ro; sự kiện Irkutsk là một tình huống y tế đang tranh cãi. Nhưng cùng địa lý, cùng ngữ pháp “tai nạn phòng thí nghiệm”, cùng mầm bệnh và cùng năm 2026 khiến chúng tạo thành một vần âm quá rõ để bị bỏ qua trong khung predictive programming.
 
-*This is the montage’s strongest dot. The book is a risk-scenario work; the Irkutsk event is a contested medical incident. Yet the same geography, the same grammar of a laboratory accident, the same pathogen theme, and the same year produce a rhyme too pronounced to ignore within a predictive-programming frame.*
+*This is the chain’s strongest dot. The book is a risk-scenario work; the Irkutsk event is a contested medical incident. Yet the same geography, the same grammar of a laboratory accident, the same pathogen theme, and the same year produce a rhyme too pronounced to ignore within a predictive-programming frame.*
 
 ---
 
 ## 5. COVID Khép Một Vòng 6–6–6 / COVID Closes a 6–6–6 Loop
 
-![Khung tính ngày trong clip: từ 19 tháng 3 năm 2020 đến 25 tháng 9 năm 2026 là 6 năm, 6 tháng, 6 ngày](../assets/illustrations/patient-zero-russia-2026/10-six-years-six-months-six-days.jpg)
+![Phép tính từ 19 tháng 3 năm 2020 đến 25 tháng 9 năm 2026: 6 năm, 6 tháng, 6 ngày](../assets/illustrations/patient-zero-russia-2026/10-six-years-six-months-six-days.jpg)
 
-Ngày 19 tháng 3 năm 2020, giới chức Moscow đưa ra thông báo ban đầu về trường hợp tử vong đầu tiên của Nga liên quan đến COVID-19; nguyên nhân tử vong trực tiếp sau đó còn được giải thích thêm. Từ mốc thông báo ấy đến 25 tháng 9 năm 2026 là đúng 6 năm, 6 tháng và 6 ngày. Phép tính trong clip là chính xác theo lịch.
+Ngày 19 tháng 3 năm 2020, giới chức Moscow đưa ra thông báo ban đầu về trường hợp tử vong đầu tiên của Nga liên quan đến COVID-19; nguyên nhân tử vong trực tiếp sau đó còn được giải thích thêm. Từ mốc thông báo ấy đến 25 tháng 9 năm 2026 là đúng 6 năm, 6 tháng và 6 ngày. Phép tính này chính xác theo lịch.
 
-*On March 19, 2020, Moscow authorities issued the initial announcement of Russia’s first COVID-19-related death; the immediate cause of death was later further qualified. From that announcement to September 25, 2026 is exactly six years, six months, and six days. The calendar calculation shown in the clip is correct.*
+*On March 19, 2020, Moscow authorities issued the initial announcement of Russia’s first COVID-19-related death; the immediate cause of death was later further qualified. From that announcement to September 25, 2026 is exactly six years, six months, and six days. The calendar calculation is correct.*
 
-![Khung tìm kiếm nguyên bản trong clip về thông báo ca tử vong COVID đầu tiên của Nga ngày 19 tháng 3 năm 2020](../assets/illustrations/patient-zero-russia-2026/11-clip-russia-first-covid-death.jpg)
+![Thông báo về ca tử vong COVID đầu tiên của Nga ngày 19 tháng 3 năm 2020](../assets/illustrations/patient-zero-russia-2026/11-russia-first-covid-death.jpg)
 
 Con số 6–6–6 không chứng minh quan hệ nhân quả giữa COVID và Irkutsk. Nó làm một việc khác: biến hai ngày thành một cánh cổng biểu tượng. Ngày mở đầu chu kỳ COVID của Nga và ngày được gắn với sự cố dịch hạch nối với nhau bằng một khoảng thời gian mang mật độ huyền học cao. Trong ngôn ngữ của spectacle, con số không cần gây ra sự kiện; nó khiến sự kiện có cảm giác đã được sắp thành nghi lễ.
 
@@ -140,41 +136,41 @@ Con số 6–6–6 không chứng minh quan hệ nhân quả giữa COVID và Ir
 
 ## 6. *The World Ahead 2026* Và Hình Ảnh Y Sinh / The World Ahead 2026 and Biomedical Imagery
 
-![Khung hình trong clip phóng to bìa The World Ahead 2026 của The Economist](../assets/illustrations/patient-zero-russia-2026/12-world-ahead-cover-clip.jpg)
+![Chi tiết bìa The World Ahead 2026 của The Economist](../assets/illustrations/patient-zero-russia-2026/12-world-ahead-cover-detail.jpg)
 
-Tháng 11 năm 2025, *The Economist* phát hành *The World Ahead 2026*. Bìa chính thức là một trường biểu tượng dày đặc về chiến tranh, chính trị, kinh tế, AI, y tế và khủng hoảng. Clip phóng vào các chi tiết màu đỏ: xe cấp cứu, hình giống virus, lọ thuốc, kim tiêm và các gương mặt quyền lực.
+Tháng 11 năm 2025, *The Economist* phát hành *The World Ahead 2026*. Bìa chính thức là một trường biểu tượng dày đặc về chiến tranh, chính trị, kinh tế, AI, y tế và khủng hoảng. Các chi tiết màu đỏ nổi bật gồm: xe cấp cứu, hình giống virus, lọ thuốc, kim tiêm và các gương mặt quyền lực.
 
-*In November 2025, The Economist released The World Ahead 2026. Its official cover is a dense symbolic field of war, politics, economics, AI, medicine, and crisis. The clip zooms into red details: emergency vehicles, a virus-like form, a vial, a syringe, and faces of power.*
+*In November 2025, The Economist released The World Ahead 2026. Its official cover is a dense symbolic field of war, politics, economics, AI, medicine, and crisis. Its red details include: emergency vehicles, a virus-like form, a vial, a syringe, and faces of power.*
 
 ![Bìa chính thức The World Ahead 2026 tải từ trang The Economist Group](../assets/illustrations/patient-zero-russia-2026/13-source-world-ahead-official-cover.webp)
 
-Bìa không nói “đại dịch Nga sẽ xảy ra”. Nó làm điều mà bìa *The World Ahead* thường làm: nén những nỗi lo của năm tới thành một bản đồ thị giác. Khi sự kiện Irkutsk xuất hiện, clip đọc ngược bản đồ ấy và chọn ra các biểu tượng y sinh như những điểm đã được đặt sẵn trên sân khấu.
+Bìa không nói “đại dịch Nga sẽ xảy ra”. Nó làm điều mà bìa *The World Ahead* thường làm: nén những nỗi lo của năm tới thành một bản đồ thị giác. Khi sự kiện Irkutsk xuất hiện, bản đồ ấy có thể được đọc ngược: các biểu tượng y sinh trông như những điểm đã được đặt sẵn trên sân khấu.
 
-*The cover does not say, “A Russian pandemic will occur.” It does what The World Ahead covers often do: compress the coming year’s anxieties into a visual map. Once the Irkutsk event appeared, the clip read that map backward and selected its biomedical symbols as points already placed upon the stage.*
+*The cover does not say, “A Russian pandemic will occur.” It does what The World Ahead covers often do: compress the coming year’s anxieties into a visual map. Once the Irkutsk event appeared, that map could be read backward: its biomedical symbols looked like points already placed upon the stage.*
 
 ---
 
 ## 7. Số 13, Death XIII Và Nghĩa Địa / Number 13, Death XIII, and the Graveyard
 
-![Khung AI Overview trong clip liệt kê mối liên hệ giữa Taylor Swift và số 13](../assets/illustrations/patient-zero-russia-2026/14-taylor-number-13.jpg)
+![Các mốc công khai nối Taylor Swift với số 13](../assets/illustrations/patient-zero-russia-2026/14-taylor-number-13.jpg)
 
-Taylor Swift từ lâu xem 13 là con số may mắn: sinh ngày 13 tháng 12, tròn 13 tuổi vào thứ Sáu ngày 13 và album đầu tay đạt chứng nhận vàng sau 13 tuần. Clip lấy mối liên hệ công khai ấy làm cầu nối sang lá Death XIII trong Tarot.
+Taylor Swift từ lâu xem 13 là con số may mắn: sinh ngày 13 tháng 12, tròn 13 tuổi vào thứ Sáu ngày 13 và album đầu tay đạt chứng nhận vàng sau 13 tuần. Mối liên hệ công khai ấy trở thành cầu nối sang lá Death XIII trong Tarot.
 
-*Taylor Swift has long treated 13 as a lucky number: she was born on December 13, turned thirteen on Friday the 13th, and saw her debut album go gold after thirteen weeks. The clip uses that public association as a bridge to Death XIII in the tarot.*
+*Taylor Swift has long treated 13 as a lucky number: she was born on December 13, turned thirteen on Friday the 13th, and saw her debut album go gold after thirteen weeks. That public association becomes a bridge to Death XIII in the tarot.*
 
-![Khung lá Death XIII trong clip](../assets/illustrations/patient-zero-russia-2026/15-death-card-xiii.jpg)
+![Lá Death XIII trong bộ Rider-Waite](../assets/illustrations/patient-zero-russia-2026/15-death-card-xiii.jpg)
 
-Death là lá số 13 của bộ Ẩn Chính. Trong cách đọc Tarot phổ biến, nó không chỉ là cái chết thể xác mà còn là kết thúc, biến đổi và sự chuyển pha. Nhưng montage không dừng ở ý nghĩa trừu tượng: nó đi từ số 13 sang lá Death, từ lá Death sang tranh Vũ điệu của Cái chết, rồi kết ở hai bóng người mặc áo choàng giữa nghĩa địa phủ tuyết.
+Death là lá số 13 của bộ Ẩn Chính. Trong cách đọc Tarot phổ biến, nó không chỉ là cái chết thể xác mà còn là kết thúc, biến đổi và sự chuyển pha. Nhưng mạch biểu tượng không dừng ở ý nghĩa trừu tượng: nó đi từ số 13 sang lá Death, từ lá Death sang tranh Vũ điệu của Cái chết, rồi kết ở hai bóng người mặc áo choàng giữa nghĩa địa phủ tuyết.
 
-*Death is card thirteen of the Major Arcana. In common tarot interpretation, it does not signify only physical death but endings, transformation, and passage. Yet the montage does not remain abstract: it moves from thirteen to Death, from Death to a Dance of Death image, and ends with two cloaked figures walking through a snow-covered graveyard.*
+*Death is card thirteen of the Major Arcana. In common tarot interpretation, it does not signify only physical death but endings, transformation, and passage. Yet the symbolic sequence does not remain abstract: it moves from thirteen to Death, from Death to a Dance of Death image, and ends with two cloaked figures walking through a snow-covered graveyard.*
 
 ![Ảnh chụp nguồn xác nhận Death là lá XIII của bộ Ẩn Chính](../assets/illustrations/patient-zero-russia-2026/16-source-death-xiii.webp)
 
 ![Cảnh nghĩa địa phủ tuyết ở cuối video Patient Zero](../assets/illustrations/patient-zero-russia-2026/17-cemetery-ending.jpg)
 
-Cảnh nghĩa địa là một phần thật của video “Patient Zero”. Taylor đóng vai hồn ma của người vợ trước, bị người chồng đầu độc và quay lại cảnh báo người phụ nữ sau. Khi clip đặt nghĩa địa ấy cạnh Darya Shipilova, lá Death và từ “patient zero”, một câu chuyện về mối quan hệ độc hại được kéo sang trường biểu tượng của dịch bệnh và cái chết tập thể.
+Cảnh nghĩa địa là một phần thật của video “Patient Zero”. Taylor đóng vai hồn ma của người vợ trước, bị người chồng đầu độc và quay lại cảnh báo người phụ nữ sau. Khi nghĩa địa ấy được đặt cạnh Darya Shipilova, lá Death và từ “patient zero”, một câu chuyện về mối quan hệ độc hại được kéo sang trường biểu tượng của dịch bệnh và cái chết tập thể.
 
-*The graveyard is a genuine part of the “Patient Zero” video. Swift plays the ghost of a former wife poisoned by her husband, returning to warn the woman who came after her. When the clip places that graveyard beside Darya Shipilova, the Death card, and the words “patient zero,” a story about an abusive relationship is pulled into the symbolic field of epidemics and collective death.*
+*The graveyard is a genuine part of the “Patient Zero” video. Swift plays the ghost of a former wife poisoned by her husband, returning to warn the woman who came after her. When that graveyard is placed beside Darya Shipilova, the Death card, and the words “patient zero,” a story about an abusive relationship is pulled into the symbolic field of epidemics and collective death.*
 
 ---
 
@@ -184,9 +180,9 @@ Predictive programming hiếm khi vận hành bằng một câu nói thẳng: �
 
 *Predictive programming rarely operates through a direct sentence: “Event X will happen on date Y.” It works more effectively by distributing fragments: a book modelling a biological accident, a magazine cover carrying medical symbols, a politician using the phrase “patient zero,” a star releasing a song with the same title, and a video telling a story of poisoning and graves. Each fragment has its own reason to exist. Only after a real event appears do they lock together.*
 
-Đó là lý do montage mạnh hơn một luận văn. Nó không chứng minh bằng chuỗi nguyên nhân. Nó tạo cảm giác nhận ra: khán giả thấy cùng một từ, cùng một ngày, cùng một địa lý và cùng một biểu tượng lặp lại qua các hệ thống tưởng như không liên quan. Sự lặp lại tạo ra ấn tượng rằng văn hóa đã diễn tập một phản ứng trước khi tin tức yêu cầu phản ứng ấy.
+Đó là lý do một chuỗi hình ảnh có thể mạnh hơn một luận văn. Nó không chứng minh bằng chuỗi nguyên nhân. Nó tạo cảm giác nhận ra: khán giả thấy cùng một từ, cùng một ngày, cùng một địa lý và cùng một biểu tượng lặp lại qua các hệ thống tưởng như không liên quan. Sự lặp lại tạo ra ấn tượng rằng văn hóa đã diễn tập một phản ứng trước khi tin tức yêu cầu phản ứng ấy.
 
-*That is why a montage can feel more powerful than an essay. It does not prove through a causal chain. It produces recognition: the viewer sees the same word, date, geography, and symbol recurring across systems that appear unrelated. Repetition creates the impression that culture rehearsed a response before the news demanded it.*
+*That is why a sequence of images can feel more powerful than an essay. It does not prove through a causal chain. It produces recognition: the viewer sees the same word, date, geography, and symbol recurring across systems that appear unrelated. Repetition creates the impression that culture rehearsed a response before the news demanded it.*
 
 Trong trường hợp này, trục không phải “mọi thứ đều giả” hay “mọi người đều thông đồng”. Trục là sự hội tụ của ngôn ngữ: patient zero, tai nạn phòng thí nghiệm, Siberia, đại dịch toàn cầu, bệnh bí ẩn, số 13, Death và ngày 25 tháng 9. Khi đủ nhiều lớp cùng nói một ngôn ngữ, đời thật bắt đầu trông như cảnh cuối của một bộ phim đã chiếu từ trước.
 
@@ -196,9 +192,9 @@ Trong trường hợp này, trục không phải “mọi thứ đều giả” 
 
 ## 9. Nga Như Sân Khấu Của Chu Kỳ Kế Tiếp / Russia as the Stage of the Next Cycle
 
-COVID-19 bắt đầu chu kỳ toàn cầu từ phương Đông nhưng tái cấu trúc toàn bộ thế giới. Trong montage này, chu kỳ kế tiếp được đặt tại Nga: nơi Zelensky gắn Putin với “patient zero”, nơi lịch sử vũ khí sinh học của Liên Xô vẫn phủ bóng, nơi sách *Biological War* đặt tai nạn VECTOR, và nơi một kỹ thuật viên viện chống dịch hạch chết giữa những báo cáo mâu thuẫn.
+COVID-19 bắt đầu chu kỳ toàn cầu từ phương Đông nhưng tái cấu trúc toàn bộ thế giới. Trong chuỗi liên kết này, chu kỳ kế tiếp được đặt tại Nga: nơi Zelensky gắn Putin với “patient zero”, nơi lịch sử vũ khí sinh học của Liên Xô vẫn phủ bóng, nơi sách *Biological War* đặt tai nạn VECTOR, và nơi một kỹ thuật viên viện chống dịch hạch chết giữa những báo cáo mâu thuẫn.
 
-*COVID-19 began its global cycle in the East but restructured the entire world. In this montage, the next cycle is staged in Russia: where Zelensky binds Putin to “patient zero,” where the Soviet biological-weapons legacy still casts a shadow, where Biological War places its VECTOR accident, and where a plague-institute technician dies amid conflicting reports.*
+*COVID-19 began its global cycle in the East but restructured the entire world. In this chain of connections, the next cycle is staged in Russia: where Zelensky binds Putin to “patient zero,” where the Soviet biological-weapons legacy still casts a shadow, where Biological War places its VECTOR accident, and where a plague-institute technician dies amid conflicting reports.*
 
 Nếu predictive programming là quá trình làm cho một tương lai trở nên quen thuộc trước khi nó thành hiện tại, thì *Patient Zero 2026* không cần dự đoán chính xác một đại dịch Nga. Nó chỉ cần làm ba việc: đặt từ khóa vào trí nhớ, gắn Nga với tai nạn sinh học và dạy khán giả nhận ra ngày 25 tháng 9 như một điểm hội tụ.
 
@@ -220,7 +216,3 @@ Nếu predictive programming là quá trình làm cho một tương lai trở n�
 - [The Economist Group — The World Ahead 2026](https://www.economistgroup.com/press-centre/the-economist/the-economist-launches-the-world-ahead-2026-with-rich-countries-living-beyond-their-means)
 - [Variety — Taylor Swift premieres Patient Zero video](https://variety.com/2026/music/news/taylor-swift-vmas-patient-zero-music-video-premiere-1236876944/)
 - [TODAY — Patient Zero music video ending](https://www.today.com/popculture/music/taylor-swift-patient-zero-music-video-rcna599911)
-
-Các khung hình còn lại được trích nguyên bản từ clip Facebook do người dùng cung cấp và đối chiếu trong source matrix 22 dot.
-
-*The remaining images were extracted unchanged from the Facebook clip supplied by the user and reconciled in the 22-dot source matrix.*
