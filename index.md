@@ -41,12 +41,12 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | 🔮 **Esoterica** | 77 | metaphysics, occult, ancient civilizations, spiritual pattern |
 | ☸️ **Theravāda** | 41 | Kinh tạng Pāli, giáo lý, thực hành, Vi Diệu Pháp, provenance |
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
-| 🧩 **Mental Models** | 46 | nhận thức, tâm lý học, framework để đọc reality |
+| 🧩 **Mental Models** | 47 | nhận thức, tâm lý học, framework để đọc reality |
 | 🏛️ **Politics & Conspiracy** | 29 | power structure, controlled narrative, geopolitics |
 | 🔬 **Science & Tech** | 21 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 295 notes / bài viết.
+**Total:** 296 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -303,6 +303,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 
 - [[Tam Quốc Ngoại Truyện - Thanh Mã Kế]] — ngụ ngôn về dân tâm, cuộc đua giành xa phu và đường lui giữa vòng quay xe, đất, tiền.
 - [[Gautama Giữa Thời Đại Thuật Toán|Nếu Đức Phật Sống Trong Thời Đại Smartphone]] — một giả định kính trọng để soi lại cách học Phật và sống giữa thời đại số.
+- [[Panem et Circenses - Khi Đấu Trường Nằm Trong Túi]] — từ lời châm biếm của Juvenal đến phim ngắn AI Trung Quốc, dòng nội dung cá nhân hóa và ranh giới giữa nghỉ ngơi với gây mê nhận thức.
 
 - [[Mental Model]] | [[Quy Trình Là Ký Ức Được Mua Bằng Máu]] | [[Tư Duy Lũy Thừa]] | [[Thông Minh vs Trí Tuệ]]
 - [[Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading]]
@@ -345,6 +346,10 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### October 7, 2026
+
+- **[[Panem et Circenses - Khi Đấu Trường Nằm Trong Túi]]** — bài song ngữ theo từng đoạn nối lời châm biếm của Juvenal với thuật toán đề xuất, làn sóng phim ngắn AI Trung Quốc và câu hỏi khi nào giải trí phục hồi con người, khi nào nó trở thành gây mê nhận thức; kèm 9 minh họa hiện thực biên tập siêu thực.
 
 ### September 21, 2026
 

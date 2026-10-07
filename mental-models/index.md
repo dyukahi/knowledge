@@ -127,9 +127,10 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 2. [[Cái Gì Trong Bạn Không Thể Bị Model Hóa]] — ask what remains valuable after AI makes output cheap.
 3. [[Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ]] — turn cheap output into a question of verification, ownership and human attention.
 4. [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — study algorithmic worldview shaping.
-5. [[AI]] — place machine intelligence in the larger agency question.
-6. [[Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]] — read AI as civilizational and spiritual test.
-7. [[Thông Minh vs Trí Tuệ]] — return to wisdom as the final filter.
+5. [[Panem et Circenses - Khi Đấu Trường Nằm Trong Túi]] — read Chinese AI microdramas, personalized spectacle and the line between restoration and cognitive anaesthesia.
+6. [[AI]] — place machine intelligence in the larger agency question.
+7. [[Giải Mã AI - Trí Tuệ Atula và Bài Thi Nhân Loại]] — read AI as civilizational and spiritual test.
+8. [[Thông Minh vs Trí Tuệ]] — return to wisdom as the final filter.
 
 ---
 
@@ -152,6 +153,7 @@ Orientation: for readers dealing with algorithmic worldview, AI dependence and a
 - [[Quy Trình Là Ký Ức Được Mua Bằng Máu]] — institutional memory, normalization of deviance, design debt and evidence-based procedure review.
 - [[Buông Bỏ Chén Thánh - Wabi-sabi, Kintsugi Và Sự Bình Yên Trong Trading]] — Wabi-sabi, expectancy, stop-loss và kỷ luật sống sót bên trong bất định.
 - [[Dopamine Economy - Nền Kinh Tế Của Sự Thèm Muốn]] — desire hijacking as economic architecture.
+- [[Panem et Circenses - Khi Đấu Trường Nằm Trong Túi]] — Juvenal, personalized feeds, Chinese AI microdramas and the distinction between restorative entertainment and cognitive anaesthesia.
 - [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]] — education-to-work pipeline, income-tier pain architecture and Loosh extraction.
 - [[Bộ Não Rỗng và AI Brain Rot]] — cognitive offloading and agency collapse.
 - [[Cái Gì Trong Bạn Không Thể Bị Model Hóa]] — human value after AI-driven output collapse.

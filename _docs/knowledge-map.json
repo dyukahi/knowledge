@@ -1,19 +1,19 @@
 {
   "stats": {
-    "notes": 295,
+    "notes": 296,
     "domains": {
       "_docs": 22,
       "root": 14,
       "crypto-finance": 18,
       "esoterica": 77,
       "health": 27,
-      "mental-models": 46,
+      "mental-models": 47,
       "politics-conspiracy": 29,
       "science-tech": 21,
       "theravada": 41
     },
-    "tags": 337,
-    "wikilinkEdges": 2507,
+    "tags": 339,
+    "wikilinkEdges": 2510,
     "brokenLinks": 0,
     "orphans": 23
   },
@@ -9192,6 +9192,7 @@
           "Nguyên Mẫu",
           "Nhị Nguyên",
           "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+          "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
           "politics-conspiracy/index",
           "Privacy Is The New Wealth",
           "Quy Trình Là Ký Ức Được Mua Bằng Máu",
@@ -9247,6 +9248,7 @@
           "mental-models/Nguyên Mẫu.md",
           "mental-models/Nhị Nguyên.md",
           "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Panem et Circenses - Khi Đấu Trường Nằm Trong Túi.md",
           "mental-models/Privacy Is The New Wealth.md",
           "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
           "mental-models/S.E.X Và Tâm Lý Học Jung.md",
@@ -9286,7 +9288,7 @@
           "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
           "politics-conspiracy/index.md"
         ],
-        "words": 2242,
+        "words": 2290,
         "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
       },
       {
@@ -12295,6 +12297,49 @@
         ],
         "words": 2214,
         "summary": "!Những chiếc nôi phát sáng giữa ruộng bắp cải dưới bóng cây gia đình"
+      },
+      {
+        "path": "mental-models/Panem et Circenses - Khi Đấu Trường Nằm Trong Túi.md",
+        "title": "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
+        "domain": "mental-models",
+        "tags": [
+          "ai",
+          "algorithm",
+          "attention",
+          "media",
+          "mental-models",
+          "propaganda",
+          "short-form-video"
+        ],
+        "aliases": [
+          "Bread and Circuses",
+          "Bánh Mì Và Rạp Xiếc",
+          "The Arena in Your Pocket",
+          "Đấu Trường Trong Túi"
+        ],
+        "headings": [
+          "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
+          "1. Juvenal Không Viết Cẩm Nang Cai Trị / Juvenal Did Not Write a Manual for Rulers",
+          "2. Từ Đấu Trường Chung Đến Dòng Nội Dung Riêng / From a Shared Arena to a Private Feed",
+          "3. Ngữ Pháp Của Ước Vọng / The Grammar of Wish Fulfilment",
+          "4. Khi AI Biến Sảng Văn Thành Dây Chuyền / When AI Turns Wish Fulfilment into a Production Line",
+          "5. Nghỉ Ngơi Hay Gây Mê? / Rest or Anaesthesia?",
+          "6. Không Cần Một Hoàng Đế Đứng Sau Mọi Màn Hình / No Emperor Is Required Behind Every Screen",
+          "7. Điều Bị Mua Không Chỉ Là Thời Gian / What Is Purchased Is More Than Time",
+          "8. Lối Ra Không Phải Đập Vỡ Màn Hình / The Exit Is Not to Smash the Screen",
+          "Cách Đọc Bài Này / How to Read This Essay",
+          "Nguồn Chính / Key Sources"
+        ],
+        "wikilinks": [],
+        "mdlinks": [],
+        "outlinks": [],
+        "backlinks": [
+          "index.md",
+          "mental-models/index.md",
+          "MOC - Epistemology & Propaganda.md"
+        ],
+        "words": 4330,
+        "summary": "!Một đấu trường La Mã hòa vào màn hình điện thoại phát sáng giữa thành phố hiện đại, minh họa sự chuyển dịch từ trò diễn đại chúng sang giải trí cá nhân hóa"
       }
     ],
     "politics-conspiracy": [
@@ -14471,6 +14516,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "October 7, 2026",
           "September 21, 2026",
           "September 20, 2026",
           "September 17, 2026",
@@ -14607,6 +14653,7 @@
           "Operation Paperclip",
           "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
           "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+          "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
           "Pin Natri-ion",
           "Plasma Quinton",
           "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
@@ -14796,6 +14843,7 @@
           "mental-models/Nguyên Mẫu.md",
           "mental-models/Nhị Nguyên.md",
           "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+          "mental-models/Panem et Circenses - Khi Đấu Trường Nằm Trong Túi.md",
           "mental-models/Privacy Is The New Wealth.md",
           "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
           "mental-models/S.E.X Và Tâm Lý Học Jung.md",
@@ -14881,7 +14929,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 6924,
+        "words": 7028,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -14930,6 +14978,7 @@
           "Mỹ Là Ai Cập Tái Sinh",
           "Nghịch Lý Của Hiểu Biết",
           "Nhị Nguyên",
+          "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
           "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
           "Quy Trình Là Ký Ức Được Mua Bằng Máu",
           "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
@@ -14959,6 +15008,7 @@
           "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
           "mental-models/Mental Model.md",
           "mental-models/Nhị Nguyên.md",
+          "mental-models/Panem et Circenses - Khi Đấu Trường Nằm Trong Túi.md",
           "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
           "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
           "mental-models/Thế Hệ Lọt Khe.md",
@@ -15010,7 +15060,7 @@
           "science-tech/index.md",
           "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
         ],
-        "words": 1141,
+        "words": 1177,
         "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
       },
       {
@@ -19018,6 +19068,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "October 7, 2026",
         "September 21, 2026",
         "September 20, 2026",
         "September 17, 2026",
@@ -19154,6 +19205,7 @@
         "Operation Paperclip",
         "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
         "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
         "Pin Natri-ion",
         "Plasma Quinton",
         "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
@@ -19343,6 +19395,7 @@
         "mental-models/Nguyên Mẫu.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Panem et Circenses - Khi Đấu Trường Nằm Trong Túi.md",
         "mental-models/Privacy Is The New Wealth.md",
         "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
@@ -19428,7 +19481,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 6924,
+      "words": 7028,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -19823,6 +19876,7 @@
         "Mỹ Là Ai Cập Tái Sinh",
         "Nghịch Lý Của Hiểu Biết",
         "Nhị Nguyên",
+        "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Quy Trình Là Ký Ức Được Mua Bằng Máu",
         "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
@@ -19852,6 +19906,7 @@
         "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
         "mental-models/Mental Model.md",
         "mental-models/Nhị Nguyên.md",
+        "mental-models/Panem et Circenses - Khi Đấu Trường Nằm Trong Túi.md",
         "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
         "mental-models/Thế Hệ Lọt Khe.md",
@@ -19903,7 +19958,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 1141,
+      "words": 1177,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     {
@@ -19977,6 +20032,7 @@
         "Nguyên Mẫu",
         "Nhị Nguyên",
         "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
         "politics-conspiracy/index",
         "Privacy Is The New Wealth",
         "Quy Trình Là Ký Ức Được Mua Bằng Máu",
@@ -20032,6 +20088,7 @@
         "mental-models/Nguyên Mẫu.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Panem et Circenses - Khi Đấu Trường Nằm Trong Túi.md",
         "mental-models/Privacy Is The New Wealth.md",
         "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
@@ -20071,7 +20128,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 2242,
+      "words": 2290,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     {
@@ -23377,6 +23434,49 @@
       "summary": "Nghiệp thường bị kể như một hệ điểm thưởng–phạt vô hình: làm tốt được cộng, làm xấu bị trừ, gặp chuyện gì cũng có người hỏi “kiếp trước làm gì”. Cách kể ấy đơn giản, dễ nhớ và rất dễ dùng để phán xét nạn nhân."
     },
     {
+      "path": "mental-models/Panem et Circenses - Khi Đấu Trường Nằm Trong Túi.md",
+      "title": "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
+      "domain": "mental-models",
+      "tags": [
+        "ai",
+        "algorithm",
+        "attention",
+        "media",
+        "mental-models",
+        "propaganda",
+        "short-form-video"
+      ],
+      "aliases": [
+        "Bread and Circuses",
+        "Bánh Mì Và Rạp Xiếc",
+        "The Arena in Your Pocket",
+        "Đấu Trường Trong Túi"
+      ],
+      "headings": [
+        "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
+        "1. Juvenal Không Viết Cẩm Nang Cai Trị / Juvenal Did Not Write a Manual for Rulers",
+        "2. Từ Đấu Trường Chung Đến Dòng Nội Dung Riêng / From a Shared Arena to a Private Feed",
+        "3. Ngữ Pháp Của Ước Vọng / The Grammar of Wish Fulfilment",
+        "4. Khi AI Biến Sảng Văn Thành Dây Chuyền / When AI Turns Wish Fulfilment into a Production Line",
+        "5. Nghỉ Ngơi Hay Gây Mê? / Rest or Anaesthesia?",
+        "6. Không Cần Một Hoàng Đế Đứng Sau Mọi Màn Hình / No Emperor Is Required Behind Every Screen",
+        "7. Điều Bị Mua Không Chỉ Là Thời Gian / What Is Purchased Is More Than Time",
+        "8. Lối Ra Không Phải Đập Vỡ Màn Hình / The Exit Is Not to Smash the Screen",
+        "Cách Đọc Bài Này / How to Read This Essay",
+        "Nguồn Chính / Key Sources"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Epistemology & Propaganda.md"
+      ],
+      "words": 4330,
+      "summary": "!Một đấu trường La Mã hòa vào màn hình điện thoại phát sáng giữa thành phố hiện đại, minh họa sự chuyển dịch từ trò diễn đại chúng sang giải trí cá nhân hóa"
+    },
+    {
       "path": "theravada/Từ Điển Pāli Cốt Lõi.md",
       "title": "Từ Điển Pāli Cốt Lõi",
       "domain": "theravada",
@@ -23523,11 +23623,11 @@
       13
     ],
     [
-      "sovereignty",
-      12
+      "mental-models",
+      13
     ],
     [
-      "mental-models",
+      "sovereignty",
       12
     ],
     [
@@ -23544,10 +23644,14 @@
     ],
     [
       "ai",
-      9
+      10
     ],
     [
       "source-note",
+      9
+    ],
+    [
+      "propaganda",
       9
     ],
     [
@@ -23568,10 +23672,6 @@
     ],
     [
       "spirituality",
-      8
-    ],
-    [
-      "propaganda",
       8
     ],
     [
@@ -23635,6 +23735,10 @@
       5
     ],
     [
+      "attention",
+      5
+    ],
+    [
       "dopamine-economy",
       5
     ],
@@ -23680,10 +23784,6 @@
     ],
     [
       "cancer",
-      4
-    ],
-    [
-      "attention",
       4
     ],
     [
@@ -23823,6 +23923,10 @@
       2
     ],
     [
+      "media",
+      2
+    ],
+    [
       "non-duality",
       2
     ],
@@ -23876,10 +23980,6 @@
     ],
     [
       "labor",
-      2
-    ],
-    [
-      "education",
       2
     ]
   ],
@@ -24308,6 +24408,7 @@
         "Mỹ Là Ai Cập Tái Sinh",
         "Nghịch Lý Của Hiểu Biết",
         "Nhị Nguyên",
+        "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
         "Predictive Programming - Cấy Tương Lai Vào Tiềm Thức",
         "Quy Trình Là Ký Ức Được Mua Bằng Máu",
         "Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng",
@@ -24337,6 +24438,7 @@
         "mental-models/Gautama Giữa Thời Đại Thuật Toán.md",
         "mental-models/Mental Model.md",
         "mental-models/Nhị Nguyên.md",
+        "mental-models/Panem et Circenses - Khi Đấu Trường Nằm Trong Túi.md",
         "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/Tam Quốc Ngoại Truyện - Thanh Mã Kế.md",
         "mental-models/Thế Hệ Lọt Khe.md",
@@ -24388,7 +24490,7 @@
         "science-tech/index.md",
         "Source Discipline - Kỷ Luật Nguồn Và Bằng Chứng.md"
       ],
-      "words": 1141,
+      "words": 1177,
       "summary": "**Epistemology & Propaganda là bản đồ về cách con người biết, bị làm cho tin, bị làm cho quên và bị đóng khung reality. Propaganda mạnh nhất không chỉ nói dối. Nó quyết định câu hỏi nào được phép tồn tại, từ nào được phép dùng, nguồn nào được gọi là uy tín, v…"
     },
     "MOC - Esoterica & Consciousness.md": {
@@ -34133,6 +34235,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "October 7, 2026",
         "September 21, 2026",
         "September 20, 2026",
         "September 17, 2026",
@@ -34269,6 +34372,7 @@
         "Operation Paperclip",
         "Orphan Black Echoes Detroit Become Human - Ban The In Lai Va Linh Hon Synthetic",
         "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
         "Pin Natri-ion",
         "Plasma Quinton",
         "PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan",
@@ -34458,6 +34562,7 @@
         "mental-models/Nguyên Mẫu.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Panem et Circenses - Khi Đấu Trường Nằm Trong Túi.md",
         "mental-models/Privacy Is The New Wealth.md",
         "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
@@ -34543,7 +34648,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 6924,
+      "words": 7028,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {
@@ -36163,6 +36268,49 @@
       "words": 3479,
       "summary": "!Một đứa trẻ đứng giữa đường ray cũ và mạng lưới quản trị hiện đại"
     },
+    "mental-models/Panem et Circenses - Khi Đấu Trường Nằm Trong Túi.md": {
+      "path": "mental-models/Panem et Circenses - Khi Đấu Trường Nằm Trong Túi.md",
+      "title": "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
+      "domain": "mental-models",
+      "tags": [
+        "ai",
+        "algorithm",
+        "attention",
+        "media",
+        "mental-models",
+        "propaganda",
+        "short-form-video"
+      ],
+      "aliases": [
+        "Bread and Circuses",
+        "Bánh Mì Và Rạp Xiếc",
+        "The Arena in Your Pocket",
+        "Đấu Trường Trong Túi"
+      ],
+      "headings": [
+        "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
+        "1. Juvenal Không Viết Cẩm Nang Cai Trị / Juvenal Did Not Write a Manual for Rulers",
+        "2. Từ Đấu Trường Chung Đến Dòng Nội Dung Riêng / From a Shared Arena to a Private Feed",
+        "3. Ngữ Pháp Của Ước Vọng / The Grammar of Wish Fulfilment",
+        "4. Khi AI Biến Sảng Văn Thành Dây Chuyền / When AI Turns Wish Fulfilment into a Production Line",
+        "5. Nghỉ Ngơi Hay Gây Mê? / Rest or Anaesthesia?",
+        "6. Không Cần Một Hoàng Đế Đứng Sau Mọi Màn Hình / No Emperor Is Required Behind Every Screen",
+        "7. Điều Bị Mua Không Chỉ Là Thời Gian / What Is Purchased Is More Than Time",
+        "8. Lối Ra Không Phải Đập Vỡ Màn Hình / The Exit Is Not to Smash the Screen",
+        "Cách Đọc Bài Này / How to Read This Essay",
+        "Nguồn Chính / Key Sources"
+      ],
+      "wikilinks": [],
+      "mdlinks": [],
+      "outlinks": [],
+      "backlinks": [
+        "index.md",
+        "mental-models/index.md",
+        "MOC - Epistemology & Propaganda.md"
+      ],
+      "words": 4330,
+      "summary": "!Một đấu trường La Mã hòa vào màn hình điện thoại phát sáng giữa thành phố hiện đại, minh họa sự chuyển dịch từ trò diễn đại chúng sang giải trí cá nhân hóa"
+    },
     "mental-models/Privacy Is The New Wealth.md": {
       "path": "mental-models/Privacy Is The New Wealth.md",
       "title": "Privacy Is The New Wealth",
@@ -37624,6 +37772,7 @@
         "Nguyên Mẫu",
         "Nhị Nguyên",
         "Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu",
+        "Panem et Circenses - Khi Đấu Trường Nằm Trong Túi",
         "politics-conspiracy/index",
         "Privacy Is The New Wealth",
         "Quy Trình Là Ký Ức Được Mua Bằng Máu",
@@ -37679,6 +37828,7 @@
         "mental-models/Nguyên Mẫu.md",
         "mental-models/Nhị Nguyên.md",
         "mental-models/Orphan Train 2.0 - Khi Ma Trận Chở Trẻ Em Ra Khỏi Dòng Máu.md",
+        "mental-models/Panem et Circenses - Khi Đấu Trường Nằm Trong Túi.md",
         "mental-models/Privacy Is The New Wealth.md",
         "mental-models/Quy Trình Là Ký Ức Được Mua Bằng Máu.md",
         "mental-models/S.E.X Và Tâm Lý Học Jung.md",
@@ -37718,7 +37868,7 @@
         "mental-models/Hormone Hôn Nhân Và Cái Bẫy Giải Phóng Sinh Học.md",
         "politics-conspiracy/index.md"
       ],
-      "words": 2242,
+      "words": 2290,
       "summary": "**Mental Models là bộ công cụ để đọc reality mà không bị nuốt bởi reality.** Domain này gom cognition, Jung, dopamine, shadow, duality, Gen Z psychology, exponential thinking và các pattern giúp người đọc không biến red pill thành một niềm tin khác. Nếu esote…"
     },
     "politics-conspiracy/A LIE N - SpaceX IPO Disclosure Day và Nghi Lễ Tên Lửa.md": {

@@ -65,6 +65,7 @@ Discernment không phải nghi ngờ mọi thứ. Discernment là biết mỗi c
 - [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] — tương lai được diễn tập trước bằng fiction.
 - [[Karma Disclosure - Truth Hidden In Plain Sight]] — revelation method, consent và truth in plain sight.
 - [[TikTok Algorithm - Ai Kiểm Soát Worldview Của Gen Z]] — algorithmic feed như worldview assignment.
+- [[Panem et Circenses - Khi Đấu Trường Nằm Trong Túi]] — từ spectacle chung đến dòng nội dung cá nhân hóa: AI microdrama, cơ chế giữ chân và ranh giới giữa hồi phục với gây mê nhận thức.
 - [[Care Economy Và Cách Ma Trận Làm Rỗng Gia Đình]] — care economy, broken family containers, child attack surfaces, elder late-life extraction, intimacy engineering and why correct information loses when emotional safety collapses.
 - [[Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify]] — World Cup 2026 as a falsifiability case: collective media myth, Japan Gate rhyme and a failed Norway champion thesis.
 - [[Spectacle Ritual - World Cup, Super Bowl Và Nghi Lễ Đồng Bộ Đại Chúng]] — sports spectacle, halftime shows and launches as synchronized mass ritual.
