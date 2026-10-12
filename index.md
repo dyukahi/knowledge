@@ -38,7 +38,7 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 
 | Domain | Count | Vai trò trong vault |
 |---|---:|---|
-| 🔮 **Esoterica** | 78 | metaphysics, occult, ancient civilizations, spiritual pattern |
+| 🔮 **Esoterica** | 79 | metaphysics, occult, ancient civilizations, spiritual pattern |
 | ☸️ **Theravāda** | 41 | Kinh tạng Pāli, giáo lý, thực hành, Vi Diệu Pháp, provenance |
 | 🏥 **Health** | 27 | body sovereignty, terrain theory, metabolic protocols |
 | 🧩 **Mental Models** | 47 | nhận thức, tâm lý học, framework để đọc reality |
@@ -46,7 +46,7 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | 🔬 **Science & Tech** | 21 | revisionist science, AI, cosmology, suppressed tech |
 | 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 297 notes / bài viết.
+**Total:** 298 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -282,6 +282,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Tâm Lý Học Jung]] | [[Individuation]] | [[Vô Thức Tập Thể]]
 - [[Loosh - Năng Lượng Thu Hoạch Từ Con Người]] | [[Thực Thể Cõi Trung Giới]] | [[Tà Linh]]
 - [[Tartaria]] | [[Atlantis]] | [[Lemuria]] | [[Annunaki]]
+- [[Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học]] — năm nhân loại, Thông thiên học, Lemuria/Atlantis, quỹ di truyền, Aggañña và vòng lặp văn minh.
 - [[Gaia - Trái Đất Có Ý Thức]] | [[Avatar - Disclosure Của Eywa & Gaia]]
 - [[Predictive Programming - Cấy Tương Lai Vào Tiềm Thức]] | [[Hollywood - Cây Đũa Phép Của Phù Thủy]]
 - [[Patient Zero 2026 - Kịch Bản Đại Dịch Quay Lại Nước Nga]] — Russia, plague-lab accident, Biological War, Taylor Swift, World Ahead 2026 và chuỗi predictive programming quanh ngày 25 tháng 9.
@@ -347,6 +348,10 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ---
 
 ## Recent Updates / Cập Nhật Gần Đây
+
+### October 12, 2026
+
+- **[[Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học]]** — bài song ngữ theo từng đoạn về hệ năm nhân loại của Ernst Muldashev, nguồn Thông thiên học, Lemuria/Atlantis, quỹ di truyền–Shambhala, đối chiếu Aggañña và giới hạn khảo cổ; kèm 10 minh họa khái niệm.
 
 ### October 7, 2026
 

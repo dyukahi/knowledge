@@ -1,19 +1,19 @@
 {
   "stats": {
-    "notes": 297,
+    "notes": 298,
     "domains": {
       "_docs": 22,
       "root": 14,
       "crypto-finance": 18,
-      "esoterica": 78,
+      "esoterica": 79,
       "health": 27,
       "mental-models": 47,
       "politics-conspiracy": 29,
       "science-tech": 21,
       "theravada": 41
     },
-    "tags": 344,
-    "wikilinkEdges": 2514,
+    "tags": 349,
+    "wikilinkEdges": 2521,
     "brokenLinks": 0,
     "orphans": 23
   },
@@ -2340,6 +2340,7 @@
           "MOC - Esoterica & Consciousness",
           "MOC - Science Revisionism",
           "Monad",
+          "Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học",
           "Nghịch Lý Của Hiểu Biết",
           "Nhân Quả",
           "Năng Lượng Tình Dục",
@@ -2382,6 +2383,7 @@
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
           "esoterica/Ma Trận.md",
           "esoterica/Monad.md",
+          "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
           "esoterica/Nghịch Lý Của Hiểu Biết.md",
           "esoterica/Nhân Quả.md",
           "esoterica/Năng Lượng Tình Dục.md",
@@ -2415,7 +2417,7 @@
           "mental-models/index.md",
           "science-tech/index.md"
         ],
-        "words": 1426,
+        "words": 1486,
         "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
       },
       {
@@ -3239,6 +3241,7 @@
           "esoterica/Atula.md",
           "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
           "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
           "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
           "esoterica/Núi Tu Di.md",
           "esoterica/Sacred Geometry.md",
@@ -4106,6 +4109,68 @@
         "summary": "**Long Mạch** là hệ thống các dòng năng lượng (sinh khí/chi) chảy trong lòng Trái Đất, tương tự kinh mạch trong cơ thể người. Feng shui gọi là \"dragon veins\", Western gọi là \"ley lines\"."
       },
       {
+        "path": "esoterica/Atlantis.md",
+        "title": "Atlantis",
+        "domain": "esoterica",
+        "tags": [
+          "ancient-civilization",
+          "crystal-technology",
+          "esoterica",
+          "hidden-history"
+        ],
+        "aliases": [
+          "Atlantean myth",
+          "Atlantis civilization",
+          "Atlantis — Nền Văn Minh Bị Xóa Sổ",
+          "Lost civilization"
+        ],
+        "headings": [
+          "Atlantis — Nền Văn Minh Bị Xóa Sổ",
+          "Evidence Discipline / Cách Đọc Atlantis",
+          "Plato Và Ký Ức Ai Cập",
+          "Tuaoi Stone: Trái Tim Năng Lượng",
+          "Law of One vs Sons of Belial",
+          "Cataclysm Và Survivors",
+          "Bermuda, Bimini Và Dấu Vết Dưới Nước",
+          "Atlantis Và Loosh",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "MOC - Ancient Civilizations & Hidden History",
+          "Nikola Tesla",
+          "Năng Lượng Aether"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "science-tech/Nikola Tesla.md",
+          "science-tech/Năng Lượng Aether.md"
+        ],
+        "backlinks": [
+          "esoterica/Annunaki.md",
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Dịch Chuyển Cực.md",
+          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+          "esoterica/index.md",
+          "esoterica/Lemuria.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
+          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+          "esoterica/Nibiru.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "index.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "science-tech/Khoa Học Xét Lại.md",
+          "science-tech/Nikola Tesla.md"
+        ],
+        "words": 848,
+        "summary": "!A cinematic drowned crystal metropolis beneath the Atlantic, light shafts crossing broken pyramids"
+      },
+      {
         "path": "esoterica/S.E.X.md",
         "title": "S.E.X (Sacred Energy eXchange)",
         "domain": "esoterica",
@@ -4169,67 +4234,6 @@
         ],
         "words": 1261,
         "summary": "**S.E.X** trong cách đọc esoteric là **Sacred Energy eXchange**: trao đổi năng lượng thiêng liêng. Điều này không phủ định sinh học, khoái cảm hay tâm lý. Nó đặt tình dục vào đúng độ sâu: một hành động nơi thân thể, hệ thần kinh, ký ức, hormone, vô thức, nghi…"
-      },
-      {
-        "path": "esoterica/Atlantis.md",
-        "title": "Atlantis",
-        "domain": "esoterica",
-        "tags": [
-          "ancient-civilization",
-          "crystal-technology",
-          "esoterica",
-          "hidden-history"
-        ],
-        "aliases": [
-          "Atlantean myth",
-          "Atlantis civilization",
-          "Atlantis — Nền Văn Minh Bị Xóa Sổ",
-          "Lost civilization"
-        ],
-        "headings": [
-          "Atlantis — Nền Văn Minh Bị Xóa Sổ",
-          "Evidence Discipline / Cách Đọc Atlantis",
-          "Plato Và Ký Ức Ai Cập",
-          "Tuaoi Stone: Trái Tim Năng Lượng",
-          "Law of One vs Sons of Belial",
-          "Cataclysm Và Survivors",
-          "Bermuda, Bimini Và Dấu Vết Dưới Nước",
-          "Atlantis Và Loosh",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "MOC - Ancient Civilizations & Hidden History",
-          "Nikola Tesla",
-          "Năng Lượng Aether"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "science-tech/Nikola Tesla.md",
-          "science-tech/Năng Lượng Aether.md"
-        ],
-        "backlinks": [
-          "esoterica/Annunaki.md",
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "esoterica/Dịch Chuyển Cực.md",
-          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-          "esoterica/index.md",
-          "esoterica/Lemuria.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-          "esoterica/Nibiru.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "index.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "science-tech/Khoa Học Xét Lại.md",
-          "science-tech/Nikola Tesla.md"
-        ],
-        "words": 848,
-        "summary": "!A cinematic drowned crystal metropolis beneath the Atlantic, light shafts crossing broken pyramids"
       },
       {
         "path": "esoterica/Brazil Norway 2026 - Japan Gate Transfer Va Mot Thesis Bi Falsify.md",
@@ -5155,6 +5159,116 @@
         "summary": "**\"Can you spell your name?\"**"
       },
       {
+        "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "title": "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
+        "domain": "esoterica",
+        "tags": [
+          "cosmic-cycles",
+          "esoterica",
+          "hidden-history"
+        ],
+        "aliases": [
+          "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
+          "Cosmic Cycles",
+          "Kalpas",
+          "Yugas"
+        ],
+        "headings": [
+          "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
+          "Evidence Discipline / Cách Đọc",
+          "Vì Sao Nó Quan Trọng",
+          "Hindu Yugas: Bốn Mùa Của Dharma",
+          "Buddhist Kalpas: Thành, Trụ, Hoại, Không",
+          "Giants, Architecture Và Ký Ức Thân Thể",
+          "Atlantis, Lemuria, Reset Và Loosh",
+          "Future: Đi Xuống Hay Đi Lên?",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Atlantis",
+          "Lemuria",
+          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
+          "Tartaria"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Atlantis.md",
+          "esoterica/Lemuria.md",
+          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
+          "esoterica/Tartaria.md"
+        ],
+        "backlinks": [
+          "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md",
+          "esoterica/Chu Kỳ Hoàng Đạo.md",
+          "esoterica/Lemuria.md",
+          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "index.md",
+          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
+          "MOC - Ancient Civilizations & Hidden History.md",
+          "MOC - Esoterica & Consciousness.md"
+        ],
+        "words": 936,
+        "summary": "!Ancient cosmic wheel turning through golden, silver, bronze and dark ages above ruined temples"
+      },
+      {
+        "path": "esoterica/Lemuria.md",
+        "title": "Lemuria (Mu)",
+        "domain": "esoterica",
+        "tags": [
+          "ancient-civilization",
+          "esoterica",
+          "gaia",
+          "hidden-history"
+        ],
+        "aliases": [
+          "Lemuria",
+          "Lemurian Civilization",
+          "Mu"
+        ],
+        "headings": [
+          "Lemuria (Mu)",
+          "Evidence Discipline / Cách Đọc",
+          "Vault Position / Vị Trí Trong Vault",
+          "Từ Land Bridge Đến Myth-History",
+          "Lemuria Vs Atlantis",
+          "Pacific Clues / Những Mảnh Gợi Hỏi",
+          "Gaia Consciousness",
+          "Lemurian Soul: Đừng Trôi Khỏi Đất",
+          "Core Insight / Chốt Lại"
+        ],
+        "wikilinks": [
+          "Atlantis",
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+          "Gaia - Trái Đất Có Ý Thức",
+          "MOC - Ancient Civilizations & Hidden History"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Atlantis.md",
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
+          "MOC - Ancient Civilizations & Hidden History.md"
+        ],
+        "backlinks": [
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
+          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
+          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+          "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
+          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
+          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md",
+          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
+          "index.md",
+          "MOC - Ancient Civilizations & Hidden History.md"
+        ],
+        "words": 857,
+        "summary": "!A soft oceanic Lemurian city of coral temples and luminous terraces under moonlit Pacific waters"
+      },
+      {
         "path": "esoterica/Thành Cổ Loa.md",
         "title": "Thành Cổ Loa",
         "domain": "esoterica",
@@ -5333,114 +5447,6 @@
         ],
         "words": 912,
         "summary": "**Chu Kỳ Hoàng Đạo là cách đọc thời gian vĩ mô qua chuyển động tiền phân điểm: khoảng 25,920 năm cho một Great Year, chia thành 12 “thời đại” tượng trưng. Ở tầng astronomy, đây là precession. Ở tầng vault, nó là framework để đọc các chu kỳ consciousness, civi…"
-      },
-      {
-        "path": "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-        "title": "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
-        "domain": "esoterica",
-        "tags": [
-          "cosmic-cycles",
-          "esoterica",
-          "hidden-history"
-        ],
-        "aliases": [
-          "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
-          "Cosmic Cycles",
-          "Kalpas",
-          "Yugas"
-        ],
-        "headings": [
-          "Chu Kỳ Vũ Trụ - Yugas & Kalpas",
-          "Evidence Discipline / Cách Đọc",
-          "Vì Sao Nó Quan Trọng",
-          "Hindu Yugas: Bốn Mùa Của Dharma",
-          "Buddhist Kalpas: Thành, Trụ, Hoại, Không",
-          "Giants, Architecture Và Ký Ức Thân Thể",
-          "Atlantis, Lemuria, Reset Và Loosh",
-          "Future: Đi Xuống Hay Đi Lên?",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Atlantis",
-          "Lemuria",
-          "Loosh - Năng Lượng Thu Hoạch Từ Con Người",
-          "Tartaria"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Atlantis.md",
-          "esoterica/Lemuria.md",
-          "esoterica/Loosh - Năng Lượng Thu Hoạch Từ Con Người.md",
-          "esoterica/Tartaria.md"
-        ],
-        "backlinks": [
-          "crypto-finance/Vàng, Golden Age Và Màn Che Của Mặt Trăng.md",
-          "esoterica/Chu Kỳ Hoàng Đạo.md",
-          "esoterica/Lemuria.md",
-          "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "index.md",
-          "mental-models/Tâm Lý Học Tiến Hóa Về Giới Tính.md",
-          "MOC - Ancient Civilizations & Hidden History.md",
-          "MOC - Esoterica & Consciousness.md"
-        ],
-        "words": 936,
-        "summary": "!Ancient cosmic wheel turning through golden, silver, bronze and dark ages above ruined temples"
-      },
-      {
-        "path": "esoterica/Lemuria.md",
-        "title": "Lemuria (Mu)",
-        "domain": "esoterica",
-        "tags": [
-          "ancient-civilization",
-          "esoterica",
-          "gaia",
-          "hidden-history"
-        ],
-        "aliases": [
-          "Lemuria",
-          "Lemurian Civilization",
-          "Mu"
-        ],
-        "headings": [
-          "Lemuria (Mu)",
-          "Evidence Discipline / Cách Đọc",
-          "Vault Position / Vị Trí Trong Vault",
-          "Từ Land Bridge Đến Myth-History",
-          "Lemuria Vs Atlantis",
-          "Pacific Clues / Những Mảnh Gợi Hỏi",
-          "Gaia Consciousness",
-          "Lemurian Soul: Đừng Trôi Khỏi Đất",
-          "Core Insight / Chốt Lại"
-        ],
-        "wikilinks": [
-          "Atlantis",
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas",
-          "Gaia - Trái Đất Có Ý Thức",
-          "MOC - Ancient Civilizations & Hidden History"
-        ],
-        "mdlinks": [],
-        "outlinks": [
-          "esoterica/Atlantis.md",
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "esoterica/Gaia - Trái Đất Có Ý Thức.md",
-          "MOC - Ancient Civilizations & Hidden History.md"
-        ],
-        "backlinks": [
-          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
-          "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
-          "esoterica/Kỹ Thuật Thiền Định Kogi.md",
-          "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
-          "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
-          "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
-          "esoterica/Vũ Trụ Học Phật Giáo.md",
-          "health/Giải Mã Vũ Trụ - Y Tế - Tâm Linh.md",
-          "index.md",
-          "MOC - Ancient Civilizations & Hidden History.md"
-        ],
-        "words": 857,
-        "summary": "!A soft oceanic Lemurian city of coral temples and luminous terraces under moonlit Pacific waters"
       },
       {
         "path": "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
@@ -7153,6 +7159,64 @@
         ],
         "words": 1400,
         "summary": "**Dịch Chuyển Cực là một cụm từ bị trộn lẫn giữa khoa học địa từ, giả thuyết địa chất và ký ức thảm họa cổ đại.** Muốn đọc đúng, phải tách ba lớp: đảo cực từ là hiện tượng có hồ sơ địa chất; trượt vỏ Trái Đất nhanh là giả thuyết gây tranh cãi; còn \"reset văn…"
+      },
+      {
+        "path": "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
+        "title": "Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học",
+        "domain": "esoterica",
+        "tags": [
+          "atlantis",
+          "esoterica",
+          "hidden-history",
+          "lemuria",
+          "muldashev",
+          "root-races",
+          "theosophy"
+        ],
+        "aliases": [
+          "Các Chủng Tộc Gốc",
+          "Muldashev Và Năm Nhân Loại",
+          "The Five Humanities",
+          "Where Do We Come From"
+        ],
+        "headings": [
+          "Muldashev Và Năm Nhân Loại — Lịch Sử Bị Quên Hay Bản Đồ Huyền Học?",
+          "1. Cuốn Sách Thực Sự Nói Về Điều Gì? / What Is the Book Actually About?",
+          "2. Dấu Vết Thông Thiên Học Trong Bản Đồ Muldashev / The Theosophical Signature in Muldashev’s Map",
+          "3. Năm Nhân Loại Trong Bản Đồ Muldashev / The Five Humanities in Muldashev’s Map",
+          "Nhân Loại Thứ Nhất — Hình Thái Ánh Sáng / First Humanity — Luminous Form",
+          "Nhân Loại Thứ Hai — Hình Thái Bóng Ma / Second Humanity — Phantom Form",
+          "Nhân Loại Thứ Ba — Lemuria / Third Humanity — Lemuria",
+          "Nhân Loại Thứ Tư — Atlantis / Fourth Humanity — Atlantis",
+          "Nhân Loại Thứ Năm — Con Người Hiện Nay / Fifth Humanity — Present Humankind",
+          "4. Quỹ Gene Nhân Loại Và Những Người Đang Ngủ / The Human Gene Pool and the Sleeping Ones",
+          "5. Aggañña Sutta Và Mô-Típ Ý Thức Cô Đặc / The Aggañña Sutta and the Motif of Condensing Consciousness",
+          "6. Khi Huyền Sử Đứng Cạnh Khảo Cổ / When Sacred History Meets Archaeology",
+          "7. “Aryan” Và Cái Bóng Của Hệ Thống Phân Cấp / “Aryan” and the Shadow of Hierarchy",
+          "8. Vòng Lặp Văn Minh / The Civilizational Loop",
+          "9. Dùng Bản Đồ Mà Không Bị Bản Đồ Dùng / Using the Map Without Being Used by It",
+          "Nguồn Chính / Key Sources"
+        ],
+        "wikilinks": [
+          "Atlantis",
+          "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+          "Lemuria",
+          "Vũ Trụ Học Phật Giáo"
+        ],
+        "mdlinks": [],
+        "outlinks": [
+          "esoterica/Atlantis.md",
+          "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+          "esoterica/Lemuria.md",
+          "esoterica/Vũ Trụ Học Phật Giáo.md"
+        ],
+        "backlinks": [
+          "esoterica/index.md",
+          "index.md",
+          "MOC - Ancient Civilizations & Hidden History.md"
+        ],
+        "words": 4967,
+        "summary": "!Năm hình thái nhân loại chuyển từ cơ thể ánh sáng sang con người vật chất qua nhiều thời đại, minh họa khái niệm chứ không phải phục dựng khảo cổ"
       },
       {
         "path": "esoterica/Thánh Issa.md",
@@ -14567,6 +14631,7 @@
           "🏛️ Politics & Conspiracy",
           "🔬 Science & Tech",
           "Recent Updates / Cập Nhật Gần Đây",
+          "October 12, 2026",
           "October 7, 2026",
           "September 21, 2026",
           "September 20, 2026",
@@ -14689,6 +14754,7 @@
           "MOC - Market Psychology & Risk",
           "MOC - Science Revisionism",
           "Monad",
+          "Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học",
           "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
           "Mô Hình Địa Tâm",
           "Mỹ Là Ai Cập Tái Sinh",
@@ -14833,6 +14899,7 @@
           "esoterica/Ma Trận.md",
           "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
           "esoterica/Monad.md",
+          "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
           "esoterica/Nghịch Lý Của Hiểu Biết.md",
           "esoterica/Nhân Quả.md",
           "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
@@ -14982,7 +15049,7 @@
           "politics-conspiracy/index.md",
           "science-tech/index.md"
         ],
-        "words": 7104,
+        "words": 7190,
         "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
       },
       {
@@ -15693,6 +15760,7 @@
           "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
           "MOC - Epistemology & Propaganda",
           "MOC - Esoterica & Consciousness",
+          "Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học",
           "Mỹ Là Ai Cập Tái Sinh",
           "Nam Cực - Bí Mật Được Canh Giữ",
           "Phong Thủy",
@@ -15713,6 +15781,7 @@
           "esoterica/Lemuria.md",
           "esoterica/Long Mạch.md",
           "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+          "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
           "esoterica/Phong Thủy.md",
           "esoterica/Tartaria và Vạn Lý Trường Thành.md",
           "esoterica/Tartaria.md",
@@ -15740,7 +15809,7 @@
           "science-tech/index.md",
           "science-tech/Khoa Học Xét Lại.md"
         ],
-        "words": 623,
+        "words": 678,
         "summary": "**Ancient Civilizations & Hidden History là bản đồ đọc quá khứ như một chiến trường ký ức. Nó gom các note về nền văn minh cổ, reset lịch sử, hidden chronology, old world architecture, long mạch, cosmic cycles và khả năng lịch sử không tuyến tính, sạch sẽ, ti…"
       },
       {
@@ -19125,6 +19194,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "October 12, 2026",
         "October 7, 2026",
         "September 21, 2026",
         "September 20, 2026",
@@ -19247,6 +19317,7 @@
         "MOC - Market Psychology & Risk",
         "MOC - Science Revisionism",
         "Monad",
+        "Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học",
         "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
         "Mô Hình Địa Tâm",
         "Mỹ Là Ai Cập Tái Sinh",
@@ -19391,6 +19462,7 @@
         "esoterica/Ma Trận.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Monad.md",
+        "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "esoterica/Nhân Quả.md",
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
@@ -19540,7 +19612,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 7104,
+      "words": 7190,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     {
@@ -21084,6 +21156,7 @@
         "MOC - Esoterica & Consciousness",
         "MOC - Science Revisionism",
         "Monad",
+        "Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học",
         "Nghịch Lý Của Hiểu Biết",
         "Nhân Quả",
         "Năng Lượng Tình Dục",
@@ -21126,6 +21199,7 @@
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
         "esoterica/Monad.md",
+        "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "esoterica/Nhân Quả.md",
         "esoterica/Năng Lượng Tình Dục.md",
@@ -21159,7 +21233,7 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 1426,
+      "words": 1486,
       "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
     },
     {
@@ -23696,7 +23770,7 @@
   "topTags": [
     [
       "esoterica",
-      87
+      88
     ],
     [
       "science-tech",
@@ -23743,15 +23817,15 @@
       12
     ],
     [
+      "hidden-history",
+      12
+    ],
+    [
       "predictive-programming",
       12
     ],
     [
       "epistemology",
-      11
-    ],
-    [
-      "hidden-history",
       11
     ],
     [
@@ -24426,6 +24500,7 @@
         "Lịch Sử Song Song — Khi Thế Giới Đồng Bộ",
         "MOC - Epistemology & Propaganda",
         "MOC - Esoterica & Consciousness",
+        "Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học",
         "Mỹ Là Ai Cập Tái Sinh",
         "Nam Cực - Bí Mật Được Canh Giữ",
         "Phong Thủy",
@@ -24446,6 +24521,7 @@
         "esoterica/Lemuria.md",
         "esoterica/Long Mạch.md",
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+        "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
         "esoterica/Phong Thủy.md",
         "esoterica/Tartaria và Vạn Lý Trường Thành.md",
         "esoterica/Tartaria.md",
@@ -24473,7 +24549,7 @@
         "science-tech/index.md",
         "science-tech/Khoa Học Xét Lại.md"
       ],
-      "words": 623,
+      "words": 678,
       "summary": "**Ancient Civilizations & Hidden History là bản đồ đọc quá khứ như một chiến trường ký ức. Nó gom các note về nền văn minh cổ, reset lịch sử, hidden chronology, old world architecture, long mạch, cosmic cycles và khả năng lịch sử không tuyến tính, sạch sẽ, ti…"
     },
     "MOC - Epistemology & Propaganda.md": {
@@ -27201,6 +27277,7 @@
         "esoterica/index.md",
         "esoterica/Lemuria.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
         "esoterica/Nibiru.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
@@ -27992,6 +28069,7 @@
         "esoterica/Chu Kỳ Hoàng Đạo.md",
         "esoterica/Lemuria.md",
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
+        "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
         "esoterica/Vũ Trụ Học Phật Giáo.md",
         "index.md",
@@ -28921,6 +28999,7 @@
         "esoterica/Hành Trình Linh Hồn và Sức Mạnh Của Tình Yêu Tỉnh Thức.md",
         "esoterica/Kỹ Thuật Thiền Định Kogi.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
         "esoterica/Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu.md",
         "esoterica/Vũ Trụ Học Phật Giáo.md",
@@ -29908,6 +29987,64 @@
       ],
       "words": 2592,
       "summary": "**Monad là tia lửa bất khả phân của Source. Nó không phải “linh hồn” theo nghĩa cá nhân, cũng không phải “bản ngã” của đời này. Monad là điểm Một bên trong mỗi sinh thể: phần chưa từng rời khỏi Sự Nhất Thể, chỉ đang trải nghiệm ảo giác phân tách qua linh hồn,…"
+    },
+    "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md": {
+      "path": "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
+      "title": "Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học",
+      "domain": "esoterica",
+      "tags": [
+        "atlantis",
+        "esoterica",
+        "hidden-history",
+        "lemuria",
+        "muldashev",
+        "root-races",
+        "theosophy"
+      ],
+      "aliases": [
+        "Các Chủng Tộc Gốc",
+        "Muldashev Và Năm Nhân Loại",
+        "The Five Humanities",
+        "Where Do We Come From"
+      ],
+      "headings": [
+        "Muldashev Và Năm Nhân Loại — Lịch Sử Bị Quên Hay Bản Đồ Huyền Học?",
+        "1. Cuốn Sách Thực Sự Nói Về Điều Gì? / What Is the Book Actually About?",
+        "2. Dấu Vết Thông Thiên Học Trong Bản Đồ Muldashev / The Theosophical Signature in Muldashev’s Map",
+        "3. Năm Nhân Loại Trong Bản Đồ Muldashev / The Five Humanities in Muldashev’s Map",
+        "Nhân Loại Thứ Nhất — Hình Thái Ánh Sáng / First Humanity — Luminous Form",
+        "Nhân Loại Thứ Hai — Hình Thái Bóng Ma / Second Humanity — Phantom Form",
+        "Nhân Loại Thứ Ba — Lemuria / Third Humanity — Lemuria",
+        "Nhân Loại Thứ Tư — Atlantis / Fourth Humanity — Atlantis",
+        "Nhân Loại Thứ Năm — Con Người Hiện Nay / Fifth Humanity — Present Humankind",
+        "4. Quỹ Gene Nhân Loại Và Những Người Đang Ngủ / The Human Gene Pool and the Sleeping Ones",
+        "5. Aggañña Sutta Và Mô-Típ Ý Thức Cô Đặc / The Aggañña Sutta and the Motif of Condensing Consciousness",
+        "6. Khi Huyền Sử Đứng Cạnh Khảo Cổ / When Sacred History Meets Archaeology",
+        "7. “Aryan” Và Cái Bóng Của Hệ Thống Phân Cấp / “Aryan” and the Shadow of Hierarchy",
+        "8. Vòng Lặp Văn Minh / The Civilizational Loop",
+        "9. Dùng Bản Đồ Mà Không Bị Bản Đồ Dùng / Using the Map Without Being Used by It",
+        "Nguồn Chính / Key Sources"
+      ],
+      "wikilinks": [
+        "Atlantis",
+        "Chu Kỳ Vũ Trụ — Yugas & Kalpas",
+        "Lemuria",
+        "Vũ Trụ Học Phật Giáo"
+      ],
+      "mdlinks": [],
+      "outlinks": [
+        "esoterica/Atlantis.md",
+        "esoterica/Chu Kỳ Vũ Trụ — Yugas & Kalpas.md",
+        "esoterica/Lemuria.md",
+        "esoterica/Vũ Trụ Học Phật Giáo.md"
+      ],
+      "backlinks": [
+        "esoterica/index.md",
+        "index.md",
+        "MOC - Ancient Civilizations & Hidden History.md"
+      ],
+      "words": 4967,
+      "summary": "!Năm hình thái nhân loại chuyển từ cơ thể ánh sáng sang con người vật chất qua nhiều thời đại, minh họa khái niệm chứ không phải phục dựng khảo cổ"
     },
     "esoterica/Một Đời Phù Vân.md": {
       "path": "esoterica/Một Đời Phù Vân.md",
@@ -32299,6 +32436,7 @@
         "esoterica/Atula.md",
         "esoterica/Lịch Sử Song Song — Khi Thế Giới Đồng Bộ.md",
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
+        "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
         "esoterica/Nhân Quả, Luân Hồi và Ma Trận Tôn Giáo.md",
         "esoterica/Núi Tu Di.md",
         "esoterica/Sacred Geometry.md",
@@ -32496,6 +32634,7 @@
         "MOC - Esoterica & Consciousness",
         "MOC - Science Revisionism",
         "Monad",
+        "Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học",
         "Nghịch Lý Của Hiểu Biết",
         "Nhân Quả",
         "Năng Lượng Tình Dục",
@@ -32538,6 +32677,7 @@
         "esoterica/Ma Trận - Giải Phẫu Hoàn Chỉnh.md",
         "esoterica/Ma Trận.md",
         "esoterica/Monad.md",
+        "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "esoterica/Nhân Quả.md",
         "esoterica/Năng Lượng Tình Dục.md",
@@ -32571,7 +32711,7 @@
         "mental-models/index.md",
         "science-tech/index.md"
       ],
-      "words": 1426,
+      "words": 1486,
       "summary": "**Esoterica là tầng đọc cái vô hình đang vận hành cái hữu hình: consciousness, symbol, myth, ritual, soul mechanics, hidden history và Ma Trận như một operating system của perception.** Domain này không phải để sưu tầm điều lạ. Nó là phòng tập để phân biệt di…"
     },
     "esoterica/Đạo.md": {
@@ -34402,6 +34542,7 @@
         "🏛️ Politics & Conspiracy",
         "🔬 Science & Tech",
         "Recent Updates / Cập Nhật Gần Đây",
+        "October 12, 2026",
         "October 7, 2026",
         "September 21, 2026",
         "September 20, 2026",
@@ -34524,6 +34665,7 @@
         "MOC - Market Psychology & Risk",
         "MOC - Science Revisionism",
         "Monad",
+        "Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học",
         "Muoi Lan Lam Tinh - Giai Phau Hoc Cac Chat Gay Nghien",
         "Mô Hình Địa Tâm",
         "Mỹ Là Ai Cập Tái Sinh",
@@ -34668,6 +34810,7 @@
         "esoterica/Ma Trận.md",
         "esoterica/Mental Model - Kiến Trúc Bẻ Khóa Ma Trận.md",
         "esoterica/Monad.md",
+        "esoterica/Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học.md",
         "esoterica/Nghịch Lý Của Hiểu Biết.md",
         "esoterica/Nhân Quả.md",
         "esoterica/Nibiru và Nền Văn Minh Annunaki.md",
@@ -34817,7 +34960,7 @@
         "politics-conspiracy/index.md",
         "science-tech/index.md"
       ],
-      "words": 7104,
+      "words": 7190,
       "summary": "**Red Pill Wiki** là một knowledge vault về Khoa Học Xét Lại, tâm linh, health sovereignty, tài chính, power structure và những narrative bị mainstream bỏ qua hoặc đóng khung sẵn."
     },
     "mental-models/Abilene Paradox - Nghịch Lý Đồng Thuận Giả.md": {

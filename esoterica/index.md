@@ -99,8 +99,9 @@ Orientation: use this bridge when esoterica starts touching history, geology and
 1. [[Lịch Sử Song Song — Khi Thế Giới Đồng Bộ]] — enter the hidden-history frame.
 2. [[Tartaria]] — study reset-history claims.
 3. [[Atlantis]] — read myth as civilizational memory.
-4. [[Long Mạch]] — connect land, energy and geography.
-5. [[Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]] — bridge into science-tech and earth-system reading.
+4. [[Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học]] — trace the five-humanity map, its Theosophical lineage and the ethics of civilizational cycles.
+5. [[Long Mạch]] — connect land, energy and geography.
+6. [[Giải Mã Thiên Tai, Long Mạch và Triết Học Monad]] — bridge into science-tech and earth-system reading.
 
 ### 6. Inner Alchemy Path — Energy Body & Love
 
@@ -137,6 +138,7 @@ Orientation: this is the practice-facing route. It turns esoterica back inward, 
 - [[Bát Tiên - Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên|Bát Tiên! — Man Thiên Quá Hải Và Quyền Định Nghĩa Thần Tiên]] — bài phân tích song ngữ về khung nhận thức, lời nói thật gây hiểu lầm và hành động làm nên danh phận thần tiên.
 - [[Sự Nhất Thể]] / [[Monad]] / [[Gnosis]] — the Source axis of the vault.
 - [[Tartaria]] and [[Atlantis]] — hidden-history case studies for reading fact, myth and reset narratives separately.
+- [[Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học]] — intellectual-history audit of the five-humanity map, Theosophical root races, Buddhist parallels and civilizational reset ethics.
 
 ---
 

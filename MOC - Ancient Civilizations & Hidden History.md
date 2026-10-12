@@ -35,7 +35,8 @@ Một claim về niên đại cần kỷ luật nguồn. Một symbol của Atla
 2. [[Tartaria]] — old world architecture và erased civilization lens.
 3. [[Atlantis]] — memory của fallen high civilization.
 4. [[Lemuria]] — lost continent, consciousness và ancient memory.
-5. [[Annunaki]] — gods, genetic myth và ancient astronaut layer.
+5. [[Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học]] — bản đồ năm nhân loại, Theosophy, Aggañña và vòng lặp văn minh.
+6. [[Annunaki]] — gods, genetic myth và ancient astronaut layer.
 
 ---
 
@@ -45,6 +46,7 @@ Một claim về niên đại cần kỷ luật nguồn. Một symbol của Atla
 - [[Tartaria và Vạn Lý Trường Thành]] — wall, empire memory và geography control.
 - [[Atlantis]] — crystal tech, Law of One, catastrophe và loosh framework.
 - [[Lemuria]] — feminine/earth memory, Pacific myth và subtle civilization.
+- [[Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học]] — intellectual lineage and evidence-layer map for root races, Lemuria, Atlantis and civilizational resets.
 - [[Thuyết Tiến Hóa - Các Nền Văn Minh Bị Che Giấu]] — evolutionary narrative và missing civilizations.
 - [[Thế Chiến - Chiến Dịch Dọn Dẹp]] — war như reset/cleanup lens.
 
