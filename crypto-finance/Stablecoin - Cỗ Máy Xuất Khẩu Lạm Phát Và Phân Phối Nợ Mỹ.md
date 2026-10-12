@@ -61,7 +61,7 @@ Khi một khách hàng đủ điều kiện đưa đô-la vào Circle Mint, Circ
 
 Báo cáo quý II năm 2026 của Circle ghi nhận khoảng 72,93 tỷ đô-la tiền gửi từ người nắm stablecoin và 73,16 tỷ đô-la tiền mặt cùng tài sản tương đương tiền được tách riêng vì lợi ích của người nắm stablecoin. Trong số đó, khoảng 61,9 tỷ đô-la nằm trong Circle Reserve Fund. Các con số này là những lớp trong cùng một cấu trúc dự trữ, không được cộng lại để tạo thành tổng mới.
 
-*Circle’s second-quarter 2026 report recorded approximately $72.93 billion in deposits from stablecoin holders and $73.16 billion in cash and cash equivalents segregated for their benefit. About $61.9 billion of that amount was held in the Circle Reserve Fund. These figures describe layers of the same reserve structure and must not be added together as separate totals.*
+*Circle’s second-quarter 2026 report recorded approximately USD 72.93 billion in deposits from stablecoin holders and USD 73.16 billion in cash and cash equivalents segregated for their benefit. About USD 61.9 billion of that amount was held in the Circle Reserve Fund. These figures describe layers of the same reserve structure and must not be added together as separate totals.*
 
 Người giữ USDC thường chỉ nhìn thấy một mã thông báo. Phía sau mã thông báo là quan hệ ba tầng: Circle phát hành nghĩa vụ; tổ chức lưu ký và quỹ giữ tài sản; chuỗi khối ghi nhận quyền chuyển nhượng. Đó là tiền số về mặt trải nghiệm, nhưng là một cấu trúc tài chính tập trung ở tầng phát hành và dự trữ.
 
@@ -79,7 +79,7 @@ Người giữ USDC thường chỉ nhìn thấy một mã thông báo. Phía sa
 
 Trong quý II năm 2026, Circle báo cáo 667,7 triệu đô-la thu nhập từ dự trữ; sáu tháng đầu năm đạt 1,32 tỷ đô-la. Cùng kỳ, chi phí phân phối và giao dịch lần lượt là 410,4 triệu và 815,8 triệu đô-la. Điều đó cho thấy phần lớn hoạt động kinh tế của stablecoin nằm ở khoảng chênh giữa lợi tức tài sản bảo chứng và chi phí đưa mã thông báo đến người dùng, sàn giao dịch, ví và đối tác.
 
-*In the second quarter of 2026, Circle reported $667.7 million in reserve income; the first six months produced $1.32 billion. Distribution and transaction costs were $410.4 million and $815.8 million for the same periods. This shows that much of the stablecoin economy lies in the spread between reserve-asset yield and the cost of distributing the token through exchanges, wallets, and partners.*
+*In the second quarter of 2026, Circle reported USD 667.7 million in reserve income; the first six months produced USD 1.32 billion. Distribution and transaction costs were USD 410.4 million and USD 815.8 million for the same periods. This shows that much of the stablecoin economy lies in the spread between reserve-asset yield and the cost of distributing the token through exchanges, wallets, and partners.*
 
 Coinbase là đối tác phân phối quan trọng của USDC, nhưng chi phí phân phối tổng hợp không đồng nghĩa toàn bộ số tiền ấy được trả cho Coinbase. Nếu chưa mở đúng thỏa thuận và kỳ báo cáo, không nên biến một cơ chế chia sẻ phức tạp thành một tỷ lệ cố định. Điều chắc chắn hơn là người dùng tạo quy mô dự trữ, còn lợi tức dự trữ được ghi nhận ở tầng doanh nghiệp phát hành và mạng phân phối.
 
