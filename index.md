@@ -44,9 +44,9 @@ Nếu đây là lần đầu vào vault, đừng đọc như đang tìm một h�
 | 🧩 **Mental Models** | 47 | nhận thức, tâm lý học, framework để đọc reality |
 | 🏛️ **Politics & Conspiracy** | 29 | power structure, controlled narrative, geopolitics |
 | 🔬 **Science & Tech** | 21 | revisionist science, AI, cosmology, suppressed tech |
-| 💰 **Crypto & Finance** | 18 | money, Bitcoin, gold, privacy, financial sovereignty |
+| 💰 **Crypto & Finance** | 19 | money, Bitcoin, gold, privacy, financial sovereignty |
 
-**Total:** 298 notes / bài viết.
+**Total:** 299 notes / bài viết.
 **Graph status:** 0 broken links tracked in knowledge map after latest update.
 
 ---
@@ -269,6 +269,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 - [[Từ Lớp Học Đến Bảng Lương - Ma Trận Thu Hoạch Loosh Như Thế Nào]]
 - [[Gen Z và CBDC - Programmable Money Psychology]]
 - [[Chainlink - Mắt Xích Của Tokenized World]]
+- [[Stablecoin - Cỗ Máy Xuất Khẩu Lạm Phát Và Phân Phối Nợ Mỹ]] — USDC, tín phiếu Kho bạc Mỹ, GENIUS Act, tài sản ngoài chuỗi được mã hóa, Chainlink và luận đề đô-la hóa toàn cầu có điều kiện.
 - [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]
 - [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
 - [[PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan|PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận]]
@@ -352,6 +353,7 @@ Nếu muốn xem cách vault đọc các sự kiện đang nóng mà vẫn giữ
 ### October 12, 2026
 
 - **[[Muldashev Và Năm Nhân Loại - Lịch Sử Bị Quên Hay Bản Đồ Huyền Học]]** — bài song ngữ theo từng đoạn về hệ năm nhân loại của Ernst Muldashev, nguồn Thông thiên học, Lemuria/Atlantis, quỹ di truyền–Shambhala, đối chiếu Aggañña và giới hạn khảo cổ; kèm 10 minh họa khái niệm.
+- **[[Stablecoin - Cỗ Máy Xuất Khẩu Lạm Phát Và Phân Phối Nợ Mỹ]]** — giải phẫu USDC, lợi tức dự trữ, cầu tín phiếu Kho bạc Mỹ, GENIUS Act, tài sản thực/cổ phiếu được mã hóa và Chainlink như “xiềng xích” hạ tầng có điều kiện; kèm 11 minh họa và một sơ đồ dòng tiền.
 
 ### October 7, 2026
 

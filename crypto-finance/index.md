@@ -27,10 +27,11 @@ Pack này đọc money như hạ tầng quyền lực: fiat dilution, self-custo
 3. [[Privacy]]
 4. [[Giữ Tiền Quan Trọng Hơn Kiếm Tiền]]
 5. [[Chainlink - Mắt Xích Của Tokenized World]]
-6. [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]
-7. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
-8. [[PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan|PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận]]
-9. [[Cantillon Effect - Ai Đứng Gần Vòi Tiền]]
+6. [[Stablecoin - Cỗ Máy Xuất Khẩu Lạm Phát Và Phân Phối Nợ Mỹ]]
+7. [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]]
+8. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]]
+9. [[PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan|PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận]]
+10. [[Cantillon Effect - Ai Đứng Gần Vòi Tiền]]
 
 ---
 
@@ -80,10 +81,11 @@ Orientation: read this path slowly. It can become panic porn if the reader skips
 
 1. [[Tiền Pháp Định]] — establish why centralized issuance matters.
 2. [[Gen Z và CBDC - Programmable Money Psychology]] — study programmable money as training, not just policy.
-3. [[Chainlink - Mắt Xích Của Tokenized World]] — follow how oracle infrastructure can connect assets, banks and identity-aware rails.
-4. [[Digital ID Normalization - From Instagram to Government ID]] — follow identity as the access layer.
-5. [[UBI Conditioning - The End of Work Ethic]] — examine dependency as incentive design.
-6. [[Báo Cáo 2030]] — map the governance stack behind the financial rail.
+3. [[Stablecoin - Cỗ Máy Xuất Khẩu Lạm Phát Và Phân Phối Nợ Mỹ]] — follow regulated private dollars, reserve income, conditional Treasury demand, tokenized assets and global access controls.
+4. [[Chainlink - Mắt Xích Của Tokenized World]] — follow how oracle infrastructure can connect assets, banks and identity-aware rails.
+5. [[Digital ID Normalization - From Instagram to Government ID]] — follow identity as the access layer.
+6. [[UBI Conditioning - The End of Work Ethic]] — examine dependency as incentive design.
+7. [[Báo Cáo 2030]] — map the governance stack behind the financial rail.
 
 ### 4. Wealth Psychology Path — Time Preference & Desire
 

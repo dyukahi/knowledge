@@ -49,6 +49,7 @@ Nếu mới vào từ root, xem thêm [[Cách Đọc Red Pill Wiki#3 Money  Cont
 9. [[Saylor Game - MSTR STRC Và Cái Hộp Bitcoin]] — case study về Bitcoin treasury, yield wrappers và claim structure.
 10. [[BTC Wrapper Crash - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh|Cú Sập Lớp Bọc Bitcoin - Từ Niềm Tin Bitcoin Đến Tài Chính Định Danh]] — cầu nối kịch bản từ cú sập lớp bọc Bitcoin sang tài sản mã hóa, ví định danh số và tuân thủ bằng trí tuệ nhân tạo.
 11. [[Chainlink - Mắt Xích Của Tokenized World]] — oracle/RWA bridge vào tokenized finance.
+12. [[Stablecoin - Cỗ Máy Xuất Khẩu Lạm Phát Và Phân Phối Nợ Mỹ]] — đường ray đô-la tư nhân, lợi tức dự trữ, cầu chứng khoán Kho bạc Mỹ có điều kiện, tiếp cận tài sản được mã hóa và kiến trúc tuân thủ.
 
 ---
 
@@ -84,6 +85,7 @@ Bitcoin là exit door, nhưng exit door không tự động cứu người khôn
 - [[Tiền Giấy - Tiền Mặt]] — cash như bearer instrument và vùng tự do vật lý.
 - [[Tiền Pháp Định]] — fiat, debt rollover và debasement architecture.
 - [[Cantillon Effect - Ai Đứng Gần Vòi Tiền]] — sequence của tiền mới: first receivers, asset repricing, wage lag và scenario programmable distribution.
+- [[Stablecoin - Cỗ Máy Xuất Khẩu Lạm Phát Và Phân Phối Nợ Mỹ]] — private dollarization, reserve spread, conditional Treasury demand and global purchasing-power exposure.
 - [[Gen Z và CBDC - Programmable Money Psychology]] — programmable money như conditioning pipeline.
 - [[UBI Conditioning - The End of Work Ethic]] — allowance/dependency rails trong AI economy.
 - [[Giai Cấp Lao Động Tổng Hợp - Khi Capital Sở Hữu Đội Quân Không Ngủ]] — vì sao income transfer không thay thế ownership trong nền kinh tế synthetic labor.
@@ -95,6 +97,7 @@ Fiat không chỉ là tiền mất giá. Nó là hệ thống kéo tương lai v
 ## Tokenized World & Onchain Control
 
 - [[Chainlink - Mắt Xích Của Tokenized World]] — oracle/data bridge, RWA, proof-of-reserve, cross-chain messaging và banking integration.
+- [[Stablecoin - Cỗ Máy Xuất Khẩu Lạm Phát Và Phân Phối Nợ Mỹ]] — USDC as payment leg, tokenized stocks as asset leg, and Chainlink/interoperability as conditional infrastructure.
 - [[PNJ Labs Kim Cuong Me Bong Con Va Niem Tin Chung Nhan|PNJ Labs, Kim Cương Mẹ Bồng Con Và Niềm Tin Chứng Nhận]] — analog oracle problem: lab certificate and physical-asset identity before tokenized finance.
 - [[Gen Z và CBDC - Programmable Money Psychology]] — CBDC như official programmable rail.
 - [[Digital ID Normalization - From Instagram to Government ID]] — identity là access layer.
