@@ -31,9 +31,9 @@ sources:
 
 ![Một đồng USDC phát sáng đứng giữa dòng tiền toàn cầu, phía sau là trái phiếu Kho bạc Mỹ, chuỗi khối và bản đồ thế giới](../assets/illustrations/stablecoin-treasury-machine/00-hero-global-dollar.webp)
 
-> Tất cả hình trong bài là minh họa khái niệm do trí tuệ nhân tạo tạo ra. Chúng không phải sơ đồ pháp lý hay báo cáo tài chính chính thức.
+> Bài sử dụng 11 minh họa khái niệm do trí tuệ nhân tạo tạo ra và một sơ đồ dòng tiền được dựng bằng mã. Không hình nào là sơ đồ pháp lý hay báo cáo tài chính chính thức.
 >
-> *All images in this essay are AI-generated conceptual illustrations. They are not official legal diagrams or financial statements.*
+> *This essay uses eleven AI-generated conceptual illustrations and one programmatically drawn money-flow diagram. None is an official legal diagram or financial statement.*
 
 **Stablecoin, tức đồng tiền mã hóa ổn định giá, thường được giới thiệu như một đồng đô-la chạy trên chuỗi khối. Nhưng ở quy mô hệ thống, nó còn là một đường ống mới: hút nhu cầu giữ đô-la từ khắp thế giới, đưa một phần dự trữ vào tiền mặt và nợ ngắn hạn của Mỹ, rồi phân phối lại khả năng thanh toán bằng đô-la đến bất kỳ nơi nào có ví và kết nối mạng.**
 
